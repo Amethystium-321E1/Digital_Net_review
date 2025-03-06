@@ -1,0 +1,531 @@
+
+PT J
+AU Sailer, K
+   McCulloh, I
+AF Sailer, Kerstin
+   McCulloh, Ian
+TI Social networks and spatial configuration-How office layouts drive
+   social interaction
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Intra-organizational networks; Interaction patterns; Exponential random
+   graph model; Office layout; Spatial configuration; Space Syntax
+ID LOGISTIC REGRESSIONS; LOGIT-MODELS; COMMUNITIES; SPACE; SUPPORT
+AB This paper analyzes the spatial dimensions of office layouts in diverse knowledge-intensive workplace environments based on the theoretical and methodological propositions of Space Syntax, and brings this together with the analysis of intra-organizational interaction networks. Physical distances between agents are modeled in different ways and used as explanatory variables in exponential random graph modeling. The paper shows that spatial configuration in offices can be considered an important but not sole rationale for tie formation. Furthermore, it is shown that spatial distance measures based on detailed configurational analysis outperform simple Euclidean distance metrics in predicting social ties. (C) 2011 Elsevier B.V. All rights reserved.
+C1 [Sailer, Kerstin] UCL, Bartlett Sch Grad Studies, London WC1E 7HB, England.
+   [McCulloh, Ian] US Mil Acad, Network Sci Ctr, West Point, NY 10996 USA.
+C3 University of London; University College London; United States
+   Department of Defense; United States Army; United States Military
+   Academy
+RP Sailer, K (corresponding author), UCL, Bartlett Sch Grad Studies, 1-19 Torrington Pl, London WC1E 7HB, England.
+EM k.sailer@ucl.ac.uk
+OI Sailer, Kerstin/0000-0001-6066-7737; McCulloh, Ian/0000-0003-2916-3914
+FU EPSRC [EP/G02619X/1] Funding Source: UKRI
+CR Alexi Marmot Associates, 2008, WORKW NEX SUMM 2008
+   ALLEN TJ, 1975, R&D MANAGE, V5, P153, DOI 10.1111/j.1467-9310.1975.tb01230.x
+   [Anonymous], SEGMEN REFERENCE MAN
+   [Anonymous], RAUM WISSEN MACHT
+   Bafna S, 2003, ENVIRON BEHAV, V35, P17, DOI 10.1177/0013916502238863
+   Bates SJ, 2007, AM J EPIDEMIOL, V166, P1088, DOI 10.1093/aje/kwm184
+   Bell Daniel., 1976, The Cultural Contradictions of Capitalism
+   Bevc CA, 2009, DISASTERS, V33, P786, DOI 10.1111/j.1467-7717.2009.01109.x
+   Blau P.M., 1977, INEQUALITY HETEROGEN
+   Butts CT, 2003, DYNAMIC SOCIAL NETWORK MODELING AND ANALYSIS, P313
+   Conti N, 2010, SOC NETWORKS, V32, P30, DOI 10.1016/j.socnet.2009.08.001
+   Dalton R. Conroy, 2001, THESIS U COLL LONDON
+   Dalton RC, 2003, ENVIRON BEHAV, V35, P107, DOI 10.1177/0013916502238867
+   DOREIAN P, 1980, SOCIOL METHOD RES, V9, P29, DOI 10.1177/004912418000900102
+   Doreian P., 1981, Sociological Methodology, V12, P359, DOI [10.2307/270747, DOI 10.2307/270747]
+   DOW MM, 1984, AM ETHNOL, V11, P754, DOI 10.1525/ae.1984.11.4.02a00080
+   Everett M., 2009, 29 INT SOC NETW C MA
+   Faust K, 1999, SOC NETWORKS, V21, P311
+   Festinger L., 1950, Social Processes in Informal Groups: A Study of Human Factors in Housing
+   Handcock M.S., 2003, 39 CTR STAT SOCIAL S
+   Handcock M.S., 2009, SIMULATE DIAGNOSE EX
+   Handcock Mark S, 2008, J Stat Softw, V24, P1548
+   Handcock MS, 2003, DYNAMIC SOCIAL NETWORK MODELING AND ANALYSIS, P229
+   Hiller B., 1987, ARCHITECTURE BEHAV, V3, P233
+   HILLIER B, 1993, ENVIRON PLANN B, V20, P29, DOI 10.1068/b200029
+   Hillier B, 2005, SPACE SYNTAX 5TH INTERNATIONAL SYMPOSIUM, VOL 1, PROCEEDINGS, P553
+   Hillier B, 1996, SPACE IS MACHINE CON
+   Hillier B., 1989, SOCIAL LOGIC SPACE, DOI DOI 10.1017/CBO9780511597237.003
+   HOLLAND PW, 1972, AM J SOCIOL, V77, P1205, DOI 10.1086/225266
+   Hunter DR, 2008, J AM STAT ASSOC, V103, P248, DOI 10.1198/016214507000000446
+   IBARRA H, 1992, ADMIN SCI QUART, V37, P422, DOI 10.2307/2393451
+   Kelter J., 2001, ERGEBNISSE EMPIRISCH
+   Massey D., 1998, Power Geometries and the Politics of Space-time: Hettner-Lecture 1998, P9
+   MCPHERSON JM, 1991, SOC FORCES, V70, P19, DOI 10.2307/2580060
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mencken FC, 1999, J QUANT CRIMINOL, V15, P407, DOI 10.1023/A:1007592124641
+   Mok D, 2007, SOC NETWORKS, V29, P430, DOI 10.1016/j.socnet.2007.01.009
+   Morris Martina, 2008, J Stat Softw, V24, P1548
+   Pattison P, 2002, SOCIOL METHODOL, V32, P301, DOI 10.1111/1467-9531.00119
+   Penn A, 1999, ENVIRON PLANN B, V26, P193, DOI 10.1068/b260193
+   Peponis J, 2007, ENVIRON BEHAV, V39, P815, DOI 10.1177/0013916506297216
+   Robins G, 2004, SOC NETWORKS, V26, P257, DOI 10.1016/j.socnet.2004.05.001
+   Robins G, 1999, PSYCHOMETRIKA, V64, P371, DOI 10.1007/BF02294302
+   Sailer K., 2007, 6 INT SPAC SYNT S
+   Sailer K., 2007, INT ARCH PHEN C 13 1
+   Sailer K., 2010, The Space-Organisation Relationship: On the Shape of the Relationship between Spatial Configuration and Collective Organisational Behaviours
+   Sailer K., 2009, 7 INT SPAC SYNT S
+   Schweinberger M, 2003, SOCIOL METHODOL, V33, P307, DOI 10.1111/j.0081-1750.2003.00134.x
+   Soja E.W., 1996, Thirdspace: Journeys to Los Angeles and Other Real-And-Imagined Places
+   Spath D., 2003, ZUKUNFTSOFFENSIVE OF
+   Ter Wal A.L.J., REGIONAL ST IN PRESS, DOI [10.1080/00343400802662658, DOI 10.1080/00343400802662658]
+   Ter Wal ALJ, 2009, ANN REGIONAL SCI, V43, P739, DOI 10.1007/s00168-008-0258-3
+   Wasserman S, 1996, PSYCHOMETRIKA, V61, P401, DOI 10.1007/BF02294547
+   Wasserman S., 2007, MODELS METHODS SOCIA
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   Watts D. J., 2004, 6 DEGREES SCI CONNEC
+   WELLMAN B, 1979, URBAN AFF REV, V14, P363, DOI 10.1177/107808747901400305
+   Wellman B, 2001, INT J URBAN REGIONAL, V25, P227, DOI 10.1111/1468-2427.00309
+   Wellman B, 2002, LECT NOTES COMPUT SC, V2362, P10
+   Wellman B, 1996, SOC NETWORKS, V18, P347, DOI 10.1016/0378-8733(95)00282-0
+   Werner A., 2008, JACK RIPPER E END, P218
+   Wineman JD, 2009, ENVIRON BEHAV, V41, P427, DOI 10.1177/0013916508314854
+   Wong LH, 2006, PHYSICA A, V360, P99, DOI 10.1016/j.physa.2005.04.029
+NR 63
+TC 114
+Z9 141
+U1 4
+U2 78
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JAN
+PY 2012
+VL 34
+IS 1
+SI SI
+BP 47
+EP 58
+DI 10.1016/j.socnet.2011.05.005
+PG 12
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 890FX
+UT WOS:000300131600005
+DA 2024-11-22
+ER
+
+PT J
+AU Doreian, P
+   Conti, N
+AF Doreian, Patrick
+   Conti, Norman
+TI Social context, spatial structure and social network structure
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Social context; Spatial structure; Network structure
+ID P-ASTERISK MODELS; LOGISTIC REGRESSIONS; LOGIT-MODELS; ORGANIZATION;
+   HAWTHORNE; BALANCE; TIES
+AB Frequently, social networks are studied in their own right with analyses devoid of contextual details. Yet contextual features - both social and spatial - can have impacts on the networks formed within them. This idea is explored with five empirical networks representing different contexts and the use of distinct modeling strategies. These strategies include network visualizations, QAP regression, exponential random graph models, blockmodeling and a combination of blockmodels with exponential random graph models within a single framework. We start with two empirical examples of networks inside organizations. The familiar Bank Wiring Room data show that the social organization (social context) and spatial arrangement of the room help account for the social relations formed there. The second example comes from a police academy where two designed arrangements, one social and one spatial, powerfully determine the relational social structures formed by recruits. The next example is an inter-organizational network that emerged as part of a response to a natural disaster where features of the improvised context helped account for the relations that formed between organizations participating in the search and rescue mission. We then consider an anthropological example of signed relations among sub-tribes in the New Guinea highlands where the physical geography is fixed. This is followed by a trading network off the Dalmatian coast where geography and physical conditions matter. Through these examples, we show that context matters by shaping the structure of networks that form and that a variety of network analytic tools can be mobilized to reveal how networks are shaped, in part, by social and spatial contexts. Implications for studying social networks are suggested. (C) 2010 Elsevier B.V. All rights reserved.
+C1 [Doreian, Patrick] Univ Pittsburgh, Dept Sociol, Pittsburgh, PA 15260 USA.
+   [Doreian, Patrick] Univ Ljubljana, Fac Social Sci, Ljubljana 61000, Slovenia.
+   [Conti, Norman] Duquesne Univ, Dept Sociol, Pittsburgh, PA USA.
+C3 Pennsylvania Commonwealth System of Higher Education (PCSHE); University
+   of Pittsburgh; University of Ljubljana; Duquesne University
+RP Doreian, P (corresponding author), Univ Pittsburgh, Dept Sociol, 2602 WWPH, Pittsburgh, PA 15260 USA.
+EM pitpat@pitt.edu; contin@duq.edu
+CR Allen T., 2006, The Organization and Architecture of Innovation
+   [Anonymous], 2002, Harvard, MA: Analytic Technologies
+   [Anonymous], 1939, Management and the Worker
+   [Anonymous], TECHNOMETRICS
+   [Anonymous], 1983, Structural Models in Anthropology: Cambridge Studies in Social Anthropology
+   Auf der Heide E., 1989, Disaster response: Principles of preparation and coordination
+   Batagelj V, 1998, CONNECTIONS, V21, P47, DOI DOI 10.1017/CB09780511996368
+   Batagelj Vladimir., 1996, Developments in Data Analysis: Proceedings of the International Conference on Statistical Data Analysis and Data Collection, Bled, Slovenia, September 19-21, 1994, P217
+   Bevc CA, 2009, DISASTERS, V33, P786, DOI 10.1111/j.1467-7717.2009.01109.x
+   BREIGER RL, 1975, J MATH PSYCHOL, V12, P328, DOI 10.1016/0022-2496(75)90028-0
+   CAREY A, 1967, AM SOCIOL REV, V32, P403, DOI 10.2307/2091087
+   CARTWRIGHT D, 1956, PSYCHOL REV, V63, P277, DOI 10.1037/h0046049
+   Conti N, 2010, SOC NETWORKS, V32, P30, DOI 10.1016/j.socnet.2009.08.001
+   Conti N, 2009, J CONTEMP ETHNOGR, V38, P409, DOI 10.1177/0891241608330092
+   Dekker D, 2007, PSYCHOMETRIKA, V72, P563, DOI 10.1007/s11336-007-9016-1
+   Doreian P, 1996, SOC NETWORKS, V18, P149, DOI 10.1016/0378-8733(95)00259-6
+   Doreian P., 2009, SUNBELT 29 INT SUNB
+   Doreian P, 2009, SOC NETWORKS, V31, P1, DOI 10.1016/j.socnet.2008.08.001
+   Doreian Patrick, 2005, Generalized Blockmodeling
+   Drabek T., 1981, MANAGING MULTIORGANI
+   Dynes R.R., 2003, International Journal of Mass Emergencies and Disasters, V21, P9
+   DYNES RR, 1979, DISASTERS, V3, P71, DOI 10.1111/j.1467-7717.1979.tb00200.x
+   Entwisle B, 2007, AM J SOCIOL, V112, P1495, DOI 10.1086/511803
+   FELD SL, 1981, AM J SOCIOL, V86, P1015, DOI 10.1086/227352
+   Fischer HW., 1998, Response to Disaster, Fact versus Fiction and its Perpetuation: The Sociology of Disaster
+   Fritz C.E., 1957, Convergence behavior in disasters. A problem in social control
+   Hage Per., 1996, Island Networks: Communication, Kinship, and Classification Structures in Oceania
+   Heider F, 1946, J PSYCHOL, V21, P107, DOI 10.1080/00223980.1946.9917275
+   Homans G.C., 1950, The Human Group
+   JONES SRG, 1992, AM J SOCIOL, V98, P451, DOI 10.1086/230046
+   Krivosic S., 1990, STANOVNISTVO DUBROVI
+   MILICIC B, 1993, ETHNOLOGY, V32, P375, DOI 10.2307/3773459
+   Pattison P, 1999, BRIT J MATH STAT PSY, V52, P169, DOI 10.1348/000711099159053
+   Petrescu-Prahova M., 2008, International Journal of Mass Emergencies and Disasters, V28, P133
+   Read K.E., 1954, SW J ANTHR, V21, P1
+   Robins G, 2007, SOC NETWORKS, V29, P173, DOI 10.1016/j.socnet.2006.08.002
+   Wang P., 2006, PROGRAM SIMULATION E
+   Wang P, 2009, SOC NETWORKS, V31, P12, DOI 10.1016/j.socnet.2008.08.002
+   Wasserman S, 1996, PSYCHOMETRIKA, V61, P401, DOI 10.1007/BF02294547
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+NR 40
+TC 82
+Z9 95
+U1 5
+U2 107
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JAN
+PY 2012
+VL 34
+IS 1
+SI SI
+BP 32
+EP 46
+DI 10.1016/j.socnet.2010.09.002
+PG 15
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 890FX
+UT WOS:000300131600004
+DA 2024-11-22
+ER
+
+PT J
+AU Schaefer, DR
+AF Schaefer, David R.
+TI Homophily Through Nonreciprocity: Results of an Experiment
+SO SOCIAL FORCES
+LA English
+DT Article
+ID SOCIAL EXCLUSION; RECIPROCAL EXCHANGE; FRIENDSHIP NETWORK; PHYSICAL
+   ATTRACTIVENESS; AGGRESSIVE-BEHAVIOR; STRUCTURAL HOLES; COMMITMENT;
+   POWER; SCHOOL; SEGREGATION
+AB This study outlines a new explanation for homophily in social networks that is neither intended nor imposed by constraints on partner choices. Rather, homophily is an endogenous product of the emergent exchange process, in which actors seek high-value partners who reciprocate their gestures. Whereas all actors initially direct exchange toward higher value partners, the gestures of lower value actors are more likely to go unreciprocated. This imbalance drives lower value actors to seek new partners, who end up being others who are also lower value. The consequence is homophily on value despite no such preference. I draw upon social exchange theory to articulate how this process unfolds in a newly forming network. A laboratory experiment tests hypotheses about how exchange patterns change over time. Findings reveal that shifts in participants' behavior over time were consistent with a concern for reciprocity, resulting in increasing levels of homophily in the network.
+C1 Arizona State Univ, Tempe, AZ 85287 USA.
+C3 Arizona State University; Arizona State University-Tempe
+RP Schaefer, DR (corresponding author), Arizona State Univ, Tempe, AZ 85287 USA.
+EM david.schaefer@asu.edu
+CR [Anonymous], 1961, ACQUAINTANCE PROCESS
+   BERGER J, 1972, AM SOCIOL REV, V37, P241, DOI 10.2307/2093465
+   Blackhart GC, 2009, PERS SOC PSYCHOL REV, V13, P269, DOI 10.1177/1088868309346065
+   Blau P.M., 1964, EXCHANGE POWER SOC
+   Blau P.M., 1977, INEQUALITY HETEROGEN
+   Bonacich P, 2009, SOC PSYCHOL QUART, V72, P226, DOI 10.1177/019027250907200306
+   Bonacich Phillip, 2009, SUNB 29 INT NETW SOC
+   Bukowski WM, 2010, DEV PSYCHOPATHOL, V22, P749, DOI 10.1017/S095457941000043X
+   Burger MJ, 2009, SOC NETWORKS, V31, P63, DOI 10.1016/j.socnet.2008.10.001
+   Burt RS, 2004, AM J SOCIOL, V110, P349, DOI 10.1086/421787
+   Byrne D., 1971, ATTRACTION PARADIGM
+   Cole T, 2004, PERS RELATIONSHIP, V11, P135, DOI 10.1111/j.1475-6811.2004.00075.x
+   COOK KS, 1978, AM SOCIOL REV, V43, P721, DOI 10.2307/2094546
+   Cottrell CA, 2007, J PERS SOC PSYCHOL, V92, P208, DOI 10.1037/0022-3514.92.2.208
+   Crosnoe R, 2008, SOC FORCES, V86, P1189
+   DeWall CN, 2009, J PERS SOC PSYCHOL, V96, P729, DOI 10.1037/a0014634
+   DISHION TJ, 1991, DEV PSYCHOL, V27, P172, DOI 10.1037/0012-1649.27.1.172
+   Doreian P, 1996, J MATH SOCIOL, V21, P113, DOI 10.1080/0022250X.1996.9990176
+   Emerson R.M., 1972, SOCIOLOGICAL THEORIE, V2, P58
+   FELD SL, 1982, AM SOCIOL REV, V47, P797, DOI 10.2307/2095216
+   Fine G.A., 1980, FRIENDSHIP SOCIAL RE, P293
+   Finkel E.J., 2010, Advanced Social Psychology: The State of the Science, P419
+   Fischbacher Urs., 1999, z-Tree - Zurich Toolbox for Readymade Economic Experiments - Experimenter's Manual
+   Gould RV, 2002, AM J SOCIOL, V107, P1143, DOI 10.1086/341744
+   GOULDNER AW, 1960, AM SOCIOL REV, V25, P161, DOI 10.2307/2092623
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Hartup W.W., 1990, Early Childhood Research Quarterly, V5, P1, DOI DOI 10.1016/0885-2006(90)90002-I
+   Hedstrom Peter, 2009, The Oxford Handbook of Analytical Sociology
+   Hegtvedt Karen A, 1990, SOC FORCES, V66, P183
+   Hektner JM, 2000, J CLIN CHILD PSYCHOL, V29, P603, DOI 10.1207/S15374424JCCP2904_12
+   HOGUE A, 1995, DEV PSYCHOL, V31, P897, DOI 10.1037/0012-1649.31.6.897
+   HUSTON TL, 1978, ANNU REV PSYCHOL, V29, P115, DOI 10.1146/annurev.ps.29.020178.000555
+   HUSTON TL, 1973, J EXP SOC PSYCHOL, V9, P32, DOI 10.1016/0022-1031(73)90060-7
+   Jo C.Phelan, 2010, ANN GROUP PROC C ATL
+   Joiner TE, 1996, COMMUN RES, V23, P451, DOI 10.1177/009365096023004006
+   KALICK SM, 1986, J PERS SOC PSYCHOL, V51, P673, DOI 10.1037/0022-3514.51.4.673
+   Kalish Y, 2006, SOC NETWORKS, V28, P56, DOI 10.1016/j.socnet.2005.04.004
+   KILDUFF M, 1992, J PERS SOC PSYCHOL, V62, P168, DOI 10.1037/0022-3514.62.1.168
+   KINNEY DA, 1993, SOCIOL EDUC, V66, P21, DOI 10.2307/2112783
+   KOLLOCK P, 1994, AM J SOCIOL, V100, P313, DOI 10.1086/230539
+   Kossinets G, 2009, AM J SOCIOL, V115, P405, DOI 10.1086/599247
+   KRACKHARDT D, 1988, SOC NETWORKS, V10, P359, DOI 10.1016/0378-8733(88)90004-4
+   KRACKHARDT D, 1987, SOC NETWORKS, V9, P171, DOI 10.1016/0378-8733(87)90012-8
+   Lawler EJ, 2008, AM SOCIOL REV, V73, P519, DOI 10.1177/000312240807300401
+   Lawler EJ, 2006, SOC PSYCHOL QUART, V69, P183, DOI 10.1177/019027250606900204
+   LAWLER EJ, 1993, AM SOCIOL REV, V58, P465, DOI 10.2307/2096071
+   Lazarsfeld P.F., 1954, Freedom and Control in Modern Society, P18, DOI DOI 10.1111/J.1467-8705.2012.02056_3.X
+   Macy MW, 2003, DYNAMIC SOCIAL NETWORK MODELING AND ANALYSIS, P162
+   Maner JK, 2007, J PERS SOC PSYCHOL, V92, P42, DOI 10.1037/0022-3514.92.1.42
+   Mark N, 1998, AM SOCIOL REV, V63, P309, DOI 10.2307/2657552
+   MARKOVSKY B, 1985, AM SOCIOL REV, V50, P822, DOI 10.2307/2095506
+   Martin JL, 2009, SOCIAL STRUCTURES, P1
+   MCPHERSON JM, 1986, AM SOCIOL REV, V51, P61, DOI 10.2307/2095478
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Molm L., 1995, SOCIOLOGICAL PERSPEC
+   Molm LD, 1999, AM SOCIOL REV, V64, P876, DOI 10.2307/2657408
+   Molm LD, 2007, SOC PSYCHOL QUART, V70, P199, DOI 10.1177/019027250707000208
+   Molm LD, 2010, SOC PSYCHOL QUART, V73, P119, DOI 10.1177/0190272510369079
+   Molm LD, 2009, SOCIOL THEOR, V27, P1, DOI 10.1111/j.1467-9558.2009.00336.x
+   Moody J, 2001, AM J SOCIOL, V107, P679, DOI 10.1086/338954
+   Mouw T, 2006, AM J SOCIOL, V112, P394, DOI 10.1086/506415
+   MURSTEIN BI, 1972, J PERS SOC PSYCHOL, V22, P8, DOI 10.1037/h0032394
+   PENNEBAKER JW, 1979, PERS SOC PSYCHOL B, V5, P122, DOI 10.1177/014616727900500127
+   Rivera MT, 2010, ANNU REV SOCIOL, V36, P91, DOI 10.1146/annurev.soc.34.040507.134743
+   ROGERS EM, 1970, PUBLIC OPIN QUART, V34, P523, DOI 10.1086/267838
+   Roth A., 1990, Econometric Society Monographs
+   Schaefer DR, 2011, AM SOCIOL REV, V76, P764, DOI 10.1177/0003122411420813
+   Schaefer DR, 2010, SOC NETWORKS, V32, P61, DOI 10.1016/j.socnet.2009.04.003
+   Schaefer DR, 2009, AM SOCIOL REV, V74, P551, DOI 10.1177/000312240907400403
+   Sijtsema JJ, 2010, SOC DEV, V19, P515, DOI 10.1111/j.1467-9507.2009.00566.x
+   Snijders TAB, 2010, SOC NETWORKS, V32, P44, DOI 10.1016/j.socnet.2009.02.004
+   Snyder J, 1997, J CLIN CHILD PSYCHOL, V26, P145, DOI 10.1207/s15374424jccp2602_3
+   Stevens EA, 2005, J ABNORM CHILD PSYCH, V33, P25, DOI 10.1007/s10802-005-0931-2
+   Thye SR, 2000, AM SOCIOL REV, V65, P407, DOI 10.2307/2657464
+   Twenge JM, 2007, J PERS SOC PSYCHOL, V92, P56, DOI 10.1037/0022-3514.92.1.56
+   Twenge JM, 2001, J PERS SOC PSYCHOL, V81, P1058, DOI 10.1037//0022-3514.81.6.1058
+   van Duijn MAJ, 2003, J MATH SOCIOL, V27, P153, DOI 10.1080/00222500305889
+   van Straaten I, 2009, PERS SOC PSYCHOL B, V35, P685, DOI 10.1177/0146167209332965
+   Van Zalk MHW, 2010, DEV PSYCHOL, V46, P927, DOI 10.1037/a0019661
+   WALSTER E, 1966, J PERS SOC PSYCHOL, V4, P508, DOI 10.1037/h0021188
+   Wimmer A, 2010, AM J SOCIOL, V116, P583, DOI 10.1086/653658
+   YAMAGISHI T, 1994, MOTIV EMOTION, V18, P129, DOI 10.1007/BF02249397
+NR 82
+TC 31
+Z9 36
+U1 2
+U2 36
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7732
+EI 1534-7605
+J9 SOC FORCES
+JI Soc. Forces
+PD JUN
+PY 2012
+VL 90
+IS 4
+BP 1271
+EP 1295
+DI 10.1093/sf/sos065
+PG 25
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA 981LZ
+UT WOS:000306971100009
+DA 2024-11-22
+ER
+
+PT J
+AU Cao, L
+   Zhang, TT
+AF Cao, Ling
+   Zhang, Tingting
+TI Social Networking Sites and Educational Adaptation in Higher Education:
+   A Case Study of Chinese International Students in New Zealand
+SO SCIENTIFIC WORLD JOURNAL
+LA English
+DT Article
+AB This study aims to find out the relationship between the use of SNSs and educational adaptation process of Chinese international students (from China) in New Zealand. Based on interview data, this paper addressed how Chinese international students use SNSs (RenRen, Facebook, etc.) to expand and manage their online social networks to help their adaptation to new educational environment. As a case study of Chinese international students in New Zealand and from the narrative of students, we examined the relationship among educational difficulties, life satisfaction, and the use of SNSs. This study would help in further understanding how and why SNSs can be adopted in higher education to support effective overseas learning experiences.
+C1 [Cao, Ling] Nanjing Univ Informat Sci & Technol, Sch Econ & Management, Nanjing 210044, Jiangsu, Peoples R China.
+   [Zhang, Tingting] Massey Univ, Inst Informat & Math Sci, Auckland 0745, New Zealand.
+C3 Nanjing University of Information Science & Technology; Massey
+   University
+RP Cao, L (corresponding author), Nanjing Univ Informat Sci & Technol, Sch Econ & Management, Nanjing 210044, Jiangsu, Peoples R China.
+EM caoling1013@163.com
+FU Jiangsu Government; Nanjing University of Information Science and
+   Technology Research Foundation; Project Foundation of China Association
+   for Science and Technology [2010ZCYJ02-2]
+FX This research was supported by Jiangsu Government Scholarship for
+   Overseas Studies of 2009, Nanjing University of Information Science and
+   Technology Research Foundation and Project Foundation of China
+   Association for Science and Technology (2010ZCYJ02-2). The authors
+   gratefully acknowledge Massey University, New Zealand for all their
+   assistance in collecting data and also thank the students for their
+   participation in this research.
+CR [Anonymous], 2007, CREAT CONN RES GUID
+   Bowers-Campbell J., 2008, Journal of College Reading and Learning, V39, P74, DOI [10.1080/10790195.2008.10850313, DOI 10.1080/10790195.2008.10850313]
+   Boyd DM, 2007, J COMPUT-MEDIAT COMM, V13, P210, DOI 10.1111/j.1083-6101.2007.00393.x
+   Campbell J, 2008, J STUD INT EDUC, V12, P375, DOI 10.1177/1028315307299422
+   Chu S., 2010, ANN M INT COMM ASS S
+   Ellison NB, 2007, J COMPUT-MEDIAT COMM, V12, P1143, DOI 10.1111/j.1083-6101.2007.00367.x
+   Ho E., 2007, The experiences of Chinese international students in New Zealand
+   Huijser H., 2008, Studies in Learning, Evaluation Innovation and Development, V5, P45
+   Lin J., 2010, ANN M INT COMM ASS S
+   Magro M.J., 2009, AMCIS 2009 P, P528
+   Ministry of Education, 2009, MIN ED TOP20 COUNTR
+   WARD C, 1993, J CROSS CULT PSYCHOL, V24, P221, DOI 10.1177/0022022193242006
+   Ward C., 2001, The impact of international students on domestic students and host institutions
+   Ward C., 2004, EXPERIENCES INT STUD
+   Ye J., 2006, Journal of Computer-Mediated Communication, V11, P863, DOI DOI 10.1111/J.1083-6101.2006.00039.X
+   Yeung D., 2006, INT BUSINESS EC RES, V6, P83
+   Zhang Z.H., 2007, J STUD INT EDUC, V11, P124, DOI [DOI 10.1177/1028315306289834, 10.1177/1028315306289834]
+NR 17
+TC 17
+Z9 19
+U1 0
+U2 39
+PU HINDAWI LTD
+PI LONDON
+PA ADAM HOUSE, 3RD FLR, 1 FITZROY SQ, LONDON, W1T 5HF, ENGLAND
+SN 1537-744X
+J9 SCI WORLD J
+JI Sci. World J.
+PY 2012
+AR 289356
+DI 10.1100/2012/289356
+PG 5
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 952OM
+UT WOS:000304801800001
+PM 22666100
+OA gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Diehl, D
+   McFarland, DA
+AF Diehl, David
+   McFarland, Daniel A.
+TI Classroom Ordering and the Situational Imperatives of Routine and Ritual
+SO SOCIOLOGY OF EDUCATION
+LA English
+DT Article
+DE social networks; classrooms; interaction; communication; academic
+   activities
+ID NETWORK STRUCTURE; ORGANIZATION; RESISTANCE; PATTERNS; DESIGN; SCHOOL;
+   TASKS
+AB This article contends that the problem of classroom order rests less in the roles and compositions of classrooms than in the multidimensional nature of their social situations. Classroom order arises from the dynamic relationship between distinct situational requirements: the coordination of interaction into institutionalized patterns (routine) and the validation of participants' identities (ritual). Utilizing a unique data set of more than 800,000 turns of talk from 601 high school classrooms, the authors develop metrics for measuring the longitudinal accomplishment of routine (interactional stability) and ritual (interactional concord) and present two sets of analyses. The first analyses identify the antecedents to stability and concord, and the second examine how stability and concord shape the experiences and attitudes of classroom participants. Results indicate that activities and discourse combine to fulfill the requirements of ritual and routine in different ways, often meeting one at the expense of the other, and that the accomplishment of stability and concord has positive returns to classroom experiences, but in different ways for teachers and students.
+C1 [McFarland, Daniel A.] Stanford Univ, Stanford, CA 94305 USA.
+   [Diehl, David] Duke Network Anal Ctr, Durham, NC USA.
+C3 Stanford University
+RP McFarland, DA (corresponding author), Stanford Univ, 520 Galvez Mall, Stanford, CA 94305 USA.
+EM mcfarland@stanford.edu
+RI McFarland, Daniel/L-7619-2017
+OI McFarland, Daniel/0000-0002-6805-0798
+CR Adams G.L., 1996, Research on Direct Instruction: 25 years beyond DISTAR
+   Allison P. D., 2012, LOGISTIC REGRESSION
+   ALPERT B, 1991, ANTHROPOL EDUC QUART, V22, P350, DOI 10.1525/aeq.1991.22.4.05x1193w
+   [Anonymous], J SOCIAL STRUCTURE
+   [Anonymous], HDB RES MATH TEACHIN
+   Battistich V, 1997, EDUC PSYCHOL-US, V32, P137, DOI 10.1207/s15326985ep3203_1
+   Beck N, 2001, ANNU REV POLIT SCI, V4, P271, DOI 10.1146/annurev.polisci.4.1.271
+   Bidwell C., 2005, SOCIAL ORG SCH, P15
+   Bidwell C., 1965, HDB ORG, P972
+   BOOCOCK SS, 1978, ANNU REV SOCIOL, V4, P1, DOI 10.1146/annurev.so.04.080178.000245
+   Bossert StevenT., 1979, Tasks and Social Relationships in Classrooms: A Study of Instructional Organization and its Consequences
+   Bremme D.W., 1977, THEOR PRACT, V5, P153
+   Brookover WB, 1945, J EXP EDUC, V13, P191, DOI 10.1080/00220973.1945.11010328
+   BURT RS, 1990, SOC NETWORKS, V12, P83, DOI 10.1016/0378-8733(90)90023-3
+   Butts CT, 2008, SOCIOL METHODOL, V38, P155, DOI 10.1111/j.1467-9531.2008.00203.x
+   Cameron CE, 2005, J SCHOOL PSYCHOL, V43, P61, DOI 10.1016/j.jsp.2004.12.002
+   Cazden C.B., 1988, Classroom discourse: The language of teaching and learning
+   CHASE ID, 1974, BEHAV SCI, V19, P374, DOI 10.1002/bs.3830190604
+   COGAN ML, 1956, HARVARD EDUC REV, V26, P315
+   Cohen E. G., 1997, Working for Equity in Heterogeneous Classrooms, Sociological Theory in Practice
+   Coleman JamesSamuel., 1961, The Adolescent Society; The Social Life of the Teenager and its Impact on Education
+   Diehl D, 2010, AM J SOCIOL, V115, P1713, DOI 10.1086/651941
+   DOYLE W, 1984, CURRICULUM INQ, V14, P129, DOI 10.2307/3202177
+   Doyle W., 1986, HDB RES TEACHING, V3rd, P392
+   Doyle W., 1980, CLASSROOM MANAGEMENT
+   DREEBEN R, 1988, SOCIOL EDUC, V61, P129, DOI 10.2307/2112622
+   Dreeben R., 1970, NATURE TEACHING
+   Eagle N, 2009, P NATL ACAD SCI USA, V106, P15274, DOI 10.1073/pnas.0900282106
+   EDER D, 1991, AM SOCIOL REV, V56, P494, DOI 10.2307/2096270
+   Erickson F., 1982, Communication in the classroom, P153
+   Erickson F., 2004, Talk and social theory: Ecologies of speaking and listening in everyday life
+   FINE G, 2000, BLACKWELL COMPANION, P457
+   Gamoran A, 2003, STABILITY AND CHANGE IN AMERICAN EDUCATION: STRUCTURE, PROCESS AND OUTCOMES, P109
+   Gee J.P., 2014, DO DISCOURSE ANAL TO
+   Gibson DR, 2008, ANNU REV SOCIOL, V34, P359, DOI 10.1146/annurev.soc.34.040507.134556
+   Gibson DR, 2003, SOC FORCES, V81, P1335, DOI 10.1353/sof.2003.0055
+   GOFFMAN E, 1983, AM SOCIOL REV, V48, P1, DOI 10.2307/2095141
+   Goffman E., 1955, INTERACTION RITUAL E
+   Goffman E., 1981, Forms of Talk
+   Goodwin M.H., 1998, KIDSTALK STRATEGIC L, P23
+   Gordon C.Wayne., 1957, SOCIAL SYSTEM HIGH S
+   Grenfell Michael, 1998, BOURDIEU ED, P71
+   Groffman Erving, 1974, Frame Analysis: An Essay on the Organization of Experience, P21
+   HALLINAN MT, 1976, SOCIOL EDUC, V49, P254, DOI 10.2307/2112312
+   Jaccard J, 2001, QUANTITATIVE APPL SO, DOI DOI 10.9781/412984515
+   Jackson P.W., 1990, LIFE CLASSROOMS
+   Jurafsky D., 2009, P NAACL HLT 2009
+   Kalish Y, 2006, SOC NETWORKS, V28, P56, DOI 10.1016/j.socnet.2005.04.004
+   KELMAN HC, 1961, PUBLIC OPIN QUART, V25, P57, DOI 10.1086/266996
+   Kounin J., 1970, DISCIPLINE GROUP MAN
+   Lawrence J., 1984, DISRUPTIVE CHILDREN
+   LEINHARDT G, 1986, J EDUC PSYCHOL, V78, P75, DOI 10.1037/0022-0663.78.2.75
+   Lortie D.C., 2002, SCHOOLTEACHER SOCIOL, V2nd
+   MACBETH DH, 1990, BRIT J SOCIOL EDUC, V11, P189, DOI 10.1080/0142569900110205
+   Marzano R.J., 2003, Classroom management that works
+   McFarland DA, 2004, AM J SOCIOL, V109, P1249, DOI 10.1086/381913
+   McFarland DA, 2001, AM J SOCIOL, V107, P612, DOI 10.1086/338779
+   MCFARLAND DA, 1999, THESIS U CHICAGO
+   McFarland Daniel A, 2005, SOCIAL ORG SCH, P147
+   McNeil LindaM., 1986, Contradictions of Control: School Structure and School Knowledge
+   Mehan H., 1979, Learning lessons: Social organization in the classroom
+   Metz M.H., 1978, CLASSROOMS CORRIDORS
+   Moody J, 2005, AM J SOCIOL, V110, P1206, DOI 10.1086/421509
+   Murray C, 2000, J SCHOOL PSYCHOL, V38, P423, DOI 10.1016/S0022-4405(00)00034-0
+   Nystrand M., 1997, OPENING DIALOGUE
+   Pace J.L., 2006, CLASSROOM AUTHORITY, P87
+   Pianta RC, 2009, EDUC RESEARCHER, V38, P109, DOI 10.3102/0013189X09332374
+   Schegloff E.A., 1988, E GOFFMAN, P89
+   Stallings J., 1980, Educational Researcher, V9, P11, DOI [DOI 10.3102/0013189X009011011, 10.2307/1175185]
+   Stein MK, 1996, AM EDUC RES J, V33, P455, DOI 10.3102/00028312033002455
+   Stinchcombe ArthurL., 1968, Constructing Social Theories
+   Stodolsky S.S., 1988, The subject matters: Classroom activity in math and social studies
+   Strong P. M., 1988, Erving Goffman-Exploring the Interaction Order, P228
+   Swidler Ann., 1979, Organization Without Authority: Dilemmas of Social Control of Free Schools
+   TANNEN D, 1994, GENDER CONVERSATIONA
+   Taylor H., 1970, BALANCE SMALL GROUPS
+   Waller W., 1932, Sociology of teaching
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   Wells G., 1999, Dialogic inquiry:Towards a sociocultural practice and theory of education
+   Wells G., 1993, Linguistics and Education, V5, P1, DOI [DOI 10.1016/S0898-5898(05)80001-4, 10.1016/S0898-5898(05)80001-4]
+   Willis P., 1981, LEARNING LABOUR WORK
+   Woods Peter., 1983, SOCIOLOGY SCH INTERA
+   Wyatt D, 2008, PROCEEDINGS OF THE 10TH INTERNATIONAL CONFERENCE ON UBIQUITOUS COMPUTING (UBICOMP 2008), P168, DOI 10.1145/1409635.1409658
+NR 83
+TC 16
+Z9 19
+U1 2
+U2 31
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0038-0407
+EI 1939-8573
+J9 SOCIOL EDUC
+JI Sociol. Educ.
+PD OCT
+PY 2012
+VL 85
+IS 4
+BP 326
+EP 349
+DI 10.1177/0038040712452093
+PG 24
+WC Education & Educational Research; Sociology
+WE Social Science Citation Index (SSCI)
+SC Education & Educational Research; Sociology
+GA 011CE
+UT WOS:000309140200002
+OA Bronze
+DA 2024-11-22
+ER

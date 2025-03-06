@@ -1,0 +1,536 @@
+
+PT J
+AU Li, YK
+   Liu, JM
+   Ren, JD
+AF Li, Yakun
+   Liu, Jiaomin
+   Ren, Jiadong
+TI Social recommendation model based on user interaction in complex social
+   networks
+SO PLOS ONE
+LA English
+DT Article
+ID TRUST; INFORMATION; ALGORITHMS
+AB The user interaction in online social networks can not only reveal the social relationships among users in e-commerce systems, but also imply the social preferences of a target user for recommendation services. However, the current research has rarely explored the impact of social interaction on recommendation performance, especially now that recommender systems face increasing challenges and suffer from poor efficiency due to social data overload. Therefore, applied research on user interaction has become increasingly necessary in the field of social recommendation. In this paper, we develop a novel social recommendation method based on the user interaction in complex social networks, called the SRUI model, to present a basis for improving the efficiency of the recommender systems. Specifically, a weighted social interaction network is first mapped to represent the interactions among social users according to the gathered information about historical user behavior. Thereafter, the complete path set is mined by the complete path mining (CPM) algorithm to find social similar neighbors with tastes similar to those of the target user. Finally, the social similar tendencies of the users on the complete paths are obtained to predict the final ratings of items through the SRUI model. A series of experimental results based on two real public datasets show that our approach performs better than other state-of-the-art methods in terms of recommendation performance.
+C1 [Li, Yakun; Liu, Jiaomin; Ren, Jiadong] Yanshan Univ, Coll Informat Sci & Engn, Qinhuangdao, Hebei, Peoples R China.
+   [Li, Yakun; Ren, Jiadong] Key Lab Comp Virtual Technol & Syst Integrat Hebe, Qinhuangdao, Hebei, Peoples R China.
+C3 Yanshan University
+RP Li, YK (corresponding author), Yanshan Univ, Coll Informat Sci & Engn, Qinhuangdao, Hebei, Peoples R China.; Li, YK (corresponding author), Key Lab Comp Virtual Technol & Syst Integrat Hebe, Qinhuangdao, Hebei, Peoples R China.
+EM 15033564136@163.com
+OI Li, Yakun/0000-0002-8694-3063
+CR Andreasen T, 2004, DATA KNOWL ENG, V48, P199, DOI 10.1016/S0169-023X(03)00105-8
+   [Anonymous], APPL INTELL
+   [Anonymous], INFORM SCI
+   [Anonymous], 2005, COMPUTING APPL TRUST
+   [Anonymous], EXPERT SYSTEMS APPL
+   [Anonymous], KYBERNETES
+   [Anonymous], 2015, P 23 C US MOD AD PER
+   [Anonymous], EXPERT SYSTEMS APPL
+   [Anonymous], AAAI C ART INT
+   [Anonymous], J INFORM COMPUTATION
+   Bello-Orgaz G, 2016, INFORM FUSION, V28, P45, DOI 10.1016/j.inffus.2015.08.005
+   Chamoso P, 2018, INFORM SCIENCES, V433, P204, DOI 10.1016/j.ins.2017.12.050
+   Cheng WJ, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0155739
+   Chow WS, 2008, INFORM MANAGE-AMSTER, V45, P458, DOI 10.1016/j.im.2008.06.007
+   Corbellini A, 2015, J INF SCI, V41, P686, DOI 10.1177/0165551515588669
+   Deng SG, 2014, EXPERT SYST APPL, V41, P8075, DOI 10.1016/j.eswa.2014.07.012
+   Fields B, 2011, IEEE T MULTIMEDIA, V13, P674, DOI 10.1109/TMM.2011.2111365
+   Guo GB, 2017, KNOWL-BASED SYST, V122, P17, DOI 10.1016/j.knosys.2017.01.027
+   Haruna K, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0184516
+   Herlocker J, 2002, INFORM RETRIEVAL, V5, P287, DOI 10.1023/A:1020443909834
+   Huang SR, 2016, IEEE T MULTIMEDIA, V18, P287, DOI 10.1109/TMM.2015.2510333
+   Jansen BJ, 2011, J INF SCI, V37, P120, DOI 10.1177/0165551510396975
+   Koohborfardhaghighi S, 2013, APPL INTELL, V38, P255, DOI 10.1007/s10489-012-0371-y
+   Lee S, 2010, COMPUT IND, V61, P329, DOI 10.1016/j.compind.2009.12.004
+   Lerman K, 2007, IEEE INTERNET COMPUT, V11, P16, DOI 10.1109/MIC.2007.136
+   Li Q, 2010, INFORM SCIENCES, V180, P4929, DOI 10.1016/j.ins.2010.08.044
+   Li Y, 2017, MATER RES EXPRESS, V4, DOI 10.1088/2053-1591/aa9200
+   Lisovich MA, 2010, IEEE SECUR PRIV, V8, P11, DOI 10.1109/MSP.2010.40
+   Liu GF, 2013, IEEE T SERV COMPUT, V6, P152, DOI 10.1109/TSC.2011.58
+   Lu HQ, 2016, NEUROCOMPUTING, V216, P61, DOI 10.1016/j.neucom.2016.07.011
+   Maier C, 2015, EUR J INFORM SYST, V24, P447, DOI 10.1057/ejis.2014.3
+   Massa P, 2007, RECSYS 07: PROCEEDINGS OF THE 2007 ACM CONFERENCE ON RECOMMENDER SYSTEMS, P17
+   Papagelis M, 2005, ENG APPL ARTIF INTEL, V18, P781, DOI 10.1016/j.engappai.2005.06.010
+   Rojas G, 2017, IEEE LAT AM T, V15, P753, DOI 10.1109/TLA.2017.7896404
+   Shi Y., 2009, Proc. ofRecsys'09, P125
+   Song Y, 2011, ACM T WEB, V5, DOI 10.1145/1921591.1921595
+   Sun JS, 2015, INFORM PROCESS MANAG, V51, P444, DOI 10.1016/j.ipm.2014.09.002
+   Szabo G, 2010, COMMUN ACM, V53, P80, DOI 10.1145/1787234.1787254
+   Wang, 2014, J COMPUTATIONAL INFO, V10, P10003
+   Wang Z, 2013, IEEE T MULTIMEDIA, V15, P698, DOI 10.1109/TMM.2012.2237022
+   Zeng D, 2010, IEEE INTELL SYST, V25, P13, DOI 10.1109/MIS.2010.151
+   Zhang XH, 2013, KNOWL-BASED SYST, V42, P74, DOI 10.1016/j.knosys.2013.01.017
+   Zhang ZJ, 2015, APPL INTELL, V43, P695, DOI 10.1007/s10489-015-0681-y
+   Zhao Z, 2015, IEEE T KNOWL DATA EN, V27, P993, DOI 10.1109/TKDE.2014.2356461
+NR 44
+TC 16
+Z9 16
+U1 1
+U2 18
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JUL 10
+PY 2019
+VL 14
+IS 7
+AR e0218957
+DI 10.1371/journal.pone.0218957
+PG 17
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA IW4JZ
+UT WOS:000484947800043
+PM 31291288
+OA Green Published, Green Submitted, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Isakov, A
+   Fowler, JH
+   Airoldi, EM
+   Christakis, NA
+AF Isakov, Alexander
+   Fowler, James H.
+   Airoldi, Edoardo M.
+   Christakis, Nicholas A.
+TI The Structure of Negative Social Ties in Rural Village Networks
+SO SOCIOLOGICAL SCIENCE
+LA English
+DT Article
+DE negative ties; antagonistic ties; animosity; enemies; social networks;
+   network structure
+ID BALANCE; MODEL; COOPERATION; PERFORMANCE; FRIENDSHIP
+AB Negative (antagonistic) connections have been of longstanding theoretical importance for social structure. In a population of 24,696 adults interacting face to face within 176 isolated villages in western Honduras, we measured all connections that were present, amounting to 105,175 positive and 16,448 negative ties. Here, we show that negative and positive ties exhibit many of the same structural characteristics. We then develop a complete taxonomy of all 138 possible triads of two-type relationships. Consistent with balance theory, we find that antagonists of friends and friends of antagonists tend to be antagonists; but, in an important empirical refutation of balance theory, we find that antagonists of antagonists also tend to be antagonists, not friends. Finally, villages with comparable levels of animosity tend to be geographically proximate. Similar processes, involving social contact, give rise to both positive and negative social ties in rural villages, and negative ties play an important role in social structure.
+C1 [Isakov, Alexander] Yale Univ, Yale Inst Network Sci, New Haven, CT 06520 USA.
+   [Isakov, Alexander] Yale Univ, Dept Sociol, New Haven, CT 06520 USA.
+   [Fowler, James H.] Univ Calif San Diego, Dept Med, San Diego, CA 92103 USA.
+   [Fowler, James H.] Univ Calif San Diego, Polit Sci Dept, San Diego, CA 92103 USA.
+   [Airoldi, Edoardo M.] Temple Univ, Fox Sch Business, Dept Stat Sci, Philadelphia, PA 19122 USA.
+   [Airoldi, Edoardo M.] Harvard Univ, Dept Stat, Cambridge, MA 02138 USA.
+   [Airoldi, Edoardo M.] Harvard Univ, Inst Quantitat Social Sci, Cambridge, MA 02138 USA.
+   [Christakis, Nicholas A.] Yale Univ, Dept Ecol & Evolutionary Biol, New Haven, CT 06520 USA.
+   [Christakis, Nicholas A.] Yale Univ, Dept Stat & Data Sci, New Haven, CT 06520 USA.
+C3 Yale University; Yale University; University of California System;
+   University of California San Diego; University of California System;
+   University of California San Diego; Pennsylvania Commonwealth System of
+   Higher Education (PCSHE); Temple University; Harvard University; Harvard
+   University; Yale University; Yale University
+RP Isakov, A (corresponding author), Yale Univ, Yale Inst Network Sci, New Haven, CT 06520 USA.; Isakov, A (corresponding author), Yale Univ, Dept Sociol, New Haven, CT 06520 USA.
+EM alexander.isakov.11@gmail.com; fowler@ucsd.edu; airoldi@fas.harvard.edu;
+   nicholas.christakis@yale.edu
+RI Airoldi, Edoardo/A-8575-2009; Christakis, Nicholas/B-6690-2008; Fowler,
+   James/C-2750-2008
+FU Bill and Melinda Gates Foundation; Tata Group; National Institute on
+   Aging of the National Institutes of Health [P30-AG034420]; National
+   Science Foundation [IIS-1409177]; Office of Naval Research
+   [N00014-17-1-2131]
+FX We thank Emily Erikson, Dan Gilbert, David Rand, Yongren Shi, Hiro
+   Shirado, Maggie Traeger, Tom Snijders, Gijs Huitsing, and Arnav Tripathy
+   for their helpful comments. We are also grateful to the data collection
+   and software teams for the Honduras project, including Rennie Negron,
+   Liza Nicoll, and Mark McKnight. This research was supported by a grant
+   from the Bill and Melinda Gates Foundation, the Tata Group, the National
+   Institute on Aging of the National Institutes of Health (grant
+   P30-AG034420), the National Science Foundation (grant IIS-1409177), and
+   the Office of Naval Research (grants N00014-17-1-2131). The authors
+   declare no competing interests.
+CR Antal T, 2005, PHYS REV E, V72, DOI 10.1103/PhysRevE.72.036121
+   Apicella CL, 2012, NATURE, V481, P497, DOI 10.1038/nature10736
+   Banerjee A, 2013, SCIENCE, V341, P363, DOI 10.1126/science.1236498
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Bargmann CI, 2013, NAT METHODS, V10, P483, DOI 10.1038/NMETH.2451
+   Benjamin Daniel J, 2018, Nat Hum Behav, V2, P6, DOI 10.1038/s41562-017-0189-z
+   Blondel VD, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/10/P10008
+   Bond RM, 2012, NATURE, V489, P295, DOI 10.1038/nature11421
+   Brashears ME, 2016, ADV GROUP PROCESS, V33, P1, DOI 10.1108/S0882-614520160000033001
+   Brzozowski MJ, 2008, CHI 2008: 26TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS VOLS 1 AND 2, CONFERENCE PROCEEDINGS, P817
+   CARTWRIGHT D, 1956, PSYCHOL REV, V63, P277, DOI 10.1037/h0046049
+   CHAGNON NA, 1988, SCIENCE, V239, P985, DOI 10.1126/science.239.4843.985
+   Christakis N.A., 2010, NBER Working Paper 16039
+   Christakis NA, 2014, P NATL ACAD SCI USA, V111, P10796, DOI 10.1073/pnas.1400825111
+   Clauset A, 2005, PHYS REV E, V72, DOI 10.1103/PhysRevE.72.026132
+   Davis J. A., 1972, SOCIOLOGICAL THEORIE, V2, P218
+   DAVIS JA, 1963, AM J SOCIOL, V68, P444, DOI 10.1086/223401
+   DAVIS JA, 1967, HUM RELAT, V20, P181, DOI 10.1177/001872676702000206
+   de Jong JP, 2014, J APPL PSYCHOL, V99, P514, DOI 10.1037/a0036284
+   Derr T, 2018, CIKM'18: PROCEEDINGS OF THE 27TH ACM INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT, P557, DOI 10.1145/3269206.3271746
+   Everett MG, 2014, SOC NETWORKS, V38, P111, DOI 10.1016/j.socnet.2014.03.005
+   Facchetti G, 2011, P NATL ACAD SCI USA, V108, P20953, DOI 10.1073/pnas.1109521108
+   FESTINGER L, 1962, SCI AM, V207, P93, DOI 10.1038/scientificamerican1062-93
+   Fowler JH, 2009, P NATL ACAD SCI USA, V106, P1720, DOI 10.1073/pnas.0806746106
+   Fu F, 2012, SCI REP-UK, V2, DOI 10.1038/srep00845
+   Gerbasi A, 2015, J APPL PSYCHOL, V100, P1423, DOI 10.1037/apl0000015
+   Glowacki L, 2016, P NATL ACAD SCI USA, V113, P12114, DOI 10.1073/pnas.1610961113
+   Guha Ramanthan, 2014, P 13 INT C WORLD WID, P403
+   Heider F, 1946, J PSYCHOL, V21, P107, DOI 10.1080/00223980.1946.9917275
+   Hruschka DJ, 2006, J THEOR BIOL, V239, P1, DOI 10.1016/j.jtbi.2005.07.006
+   Hruschka DJ., 2010, FRIENDSHIP DEV ECOLO, DOI [10.1525/california/9780520265462.001.0001, DOI 10.1525/CALIFORNIA/9780520265462.001.0001]
+   Huitsing G, 2012, SOC NETWORKS, V34, P645, DOI 10.1016/j.socnet.2012.08.001
+   Huitsing G, 2012, AGGRESSIVE BEHAV, V38, P494, DOI 10.1002/ab.21438
+   Ilany A, 2013, ANIM BEHAV, V85, P1397, DOI 10.1016/j.anbehav.2013.03.032
+   Isakov Alexander, 2014, SYNCHRONIZATION STOC
+   Kawachi I., 2000, SOCIAL EPIDEMIOLOGY, V174, P290, DOI [DOI 10.1093/MED/9780195377903.003.0008, 10.1093/med/9780195377903.003.0008]
+   Kim DA, 2015, LANCET, V386, P145, DOI 10.1016/S0140-6736(15)60095-2
+   Kossinets G, 2006, SCIENCE, V311, P88, DOI 10.1126/science.1116869
+   Kunegis J., 2009, P 18 INT C WORLD WID, P741, DOI DOI 10.1145/1526709.1526809
+   Labianca G, 2006, ACAD MANAGE REV, V31, P596, DOI [10.5465/AMR.2006.21318920, 10.2307/20159231]
+   Lea AJ, 2010, P NATL ACAD SCI USA, V107, P21587, DOI 10.1073/pnas.1009882107
+   Leskovec J, 2010, CHI2010: PROCEEDINGS OF THE 28TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, VOLS 1-4, P1361
+   Louch H, 2000, SOC NETWORKS, V22, P45, DOI 10.1016/S0378-8733(00)00015-0
+   Ludwig M, 2007, EUR PHYS J B, V58, P97, DOI 10.1140/epjb/e2007-00200-x
+   Marblestone AH, 2016, FRONT COMPUT NEUROSC, V10, DOI 10.3389/fncom.2016.00094
+   Marineau JE, 2016, SOC NETWORKS, V44, P238, DOI 10.1016/j.socnet.2015.09.003
+   Marvel SA, 2011, P NATL ACAD SCI USA, V108, P1771, DOI 10.1073/pnas.1013213108
+   Massa P., 2005, PROC AAAI, V1, P121
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mouttapa M, 2004, ADOLESCENCE, V39, P315
+   Newman MEJ, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.026113
+   Offer S, 2018, AM SOCIOL REV, V83, P111, DOI 10.1177/0003122417737951
+   Onnela JP, 2007, P NATL ACAD SCI USA, V104, P7332, DOI 10.1073/pnas.0610245104
+   Palla G, 2007, NATURE, V446, P664, DOI 10.1038/nature05670
+   Rand DG, 2011, P NATL ACAD SCI USA, V108, P19193, DOI 10.1073/pnas.1108243108
+   Rapoport A., 1963, Handbook of mathematical psychology, VII, P493
+   Rawlings CM, 2017, AM J SOCIOL, V123, P510, DOI 10.1086/692757
+   Sampson S, 1969, Crisis in a Cloister
+   Shakya HB, 2017, BMJ OPEN, V7, DOI 10.1136/bmjopen-2016-012996
+   Shannon P, 2003, GENOME RES, V13, P2498, DOI 10.1101/gr.1239303
+   Simmel G., 1950, SOCIOLOGY G SIMMEL
+   Szell M, 2010, P NATL ACAD SCI USA, V107, P13636, DOI 10.1073/pnas.1004008107
+   Tang J, 2016, ACM COMPUT SURV, V49, DOI 10.1145/2906153
+   Tooby J., 1996, P BRIT ACAD, P119, DOI DOI 10.1002/(SICI)1520-6300(1998)10:5<681::AID-
+   Wang HW, 2018, WSDM'18: PROCEEDINGS OF THE ELEVENTH ACM INTERNATIONAL CONFERENCE ON WEB SEARCH AND DATA MINING, P592, DOI 10.1145/3159652.3159666
+   Wang Peng, 2009, PNET SOFTWARE
+   WHITE H, 1961, AM J SOCIOL, V67, P185, DOI 10.1086/223084
+   Xia L, 2009, MANAGE COMMUN Q, V23, P32, DOI 10.1177/0893318909335416
+NR 68
+TC 26
+Z9 30
+U1 5
+U2 19
+PU SOC SOCIOLOGICAL SCIENCE
+PI STANFORD
+PA 940 COTTRELL WAY, STANFORD, CA 94305 USA
+EI 2330-6696
+J9 SOCIOL SCI
+JI Sociol. Sci.
+PD MAR 6
+PY 2019
+VL 6
+BP 197
+EP 218
+DI 10.15195/v6.a8
+PG 22
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA HQ5DT
+UT WOS:000462430900001
+PM 32704522
+OA Green Published, Green Submitted, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Helleringer, S
+   Adams, J
+   Yeatman, S
+   Mkandawire, J
+AF Helleringer, Stephane
+   Adams, Jimi
+   Yeatman, Sara
+   Mkandawire, James
+TI Evaluating sampling biases from third-party reporting as a method for
+   improving survey measures of sensitive behaviors
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Homophily; Sensitive behaviors; Survey methods; Sampling biases;
+   Measurement
+ID SOCIAL DESIRABILITY BIAS; LIKOMA NETWORK; HIV; MORTALITY; PEOPLE; TELL
+AB Survey participants often misreport their sensitive behaviors (e.g., smoking, drinking, having sex) during interviews. Several studies have suggested that asking respondents to report the sensitive behaviors of their friends or confidants, rather than their own, might help address this problem. This is so because the "third-party reporting" (TPR) approach creates a surrogate sample of alters that may be less subject to social desirability biases. However, estimates of the prevalence of sensitive behaviors based on TPR assume that the surrogate sample of friends is representative of the population of interest. We used sociometric data on social networks in Likoma, Malawi to examine this assumption. Specifically, we use friendship network data to investigate whether friends have similar socio-economic characteristics as index respondents, and to measure possible correlations between the likelihood of inclusion in the surrogate sample and sensitive behaviors. From these results, we suggest approaches to strengthen estimates of the prevalence of sensitive behaviors obtained from TPR.
+C1 [Helleringer, Stephane] Johns Hopkins Univ, Baltimore, MD 21218 USA.
+   [Adams, Jimi; Yeatman, Sara] Univ Colorado Denver, Denver, CO 80204 USA.
+   [Mkandawire, James] Invest Knowledge, Zomba, Malawi.
+C3 Johns Hopkins University; University of Colorado System; University of
+   Colorado Denver; University of Colorado Anschutz Medical Campus;
+   Children's Hospital Colorado
+RP Adams, J (corresponding author), Univ Colorado Denver, Denver, CO 80204 USA.
+EM sheller7@jhu.edu; jimi.adams@ucdenver.edu; sara.yeatman@ucdenver.edu;
+   james.mkandawire@investinknowledge.org
+OI Yeatman, Sara/0000-0002-5991-6473; adams, jimi/0000-0001-5043-1149
+FU National Institute of Child Health and Human Development [R03 HD071122,
+   P2C HD066613]
+FX The authors' work on this paper was supported by grants from the
+   National Institute of Child Health and Human Development (R03 HD071122 &
+   P2C HD066613).
+CR Adams J, 2007, SOC NETWORKS, V29, P44, DOI 10.1016/j.socnet.2005.11.009
+   [Anonymous], 2004, Network Epidemiology
+   Bernard HR, 2010, SEX TRANSM INFECT, V86, pI11, DOI 10.1136/sti.2010.044446
+   Cleland J, 2004, SEX TRANSM INFECT, V80, P1, DOI 10.1136/sti.2004.013151
+   FELD SL, 1991, AM J SOCIOL, V96, P1464, DOI 10.1086/229693
+   FISHER RJ, 1993, J CONSUM RES, V20, P303, DOI 10.1086/209351
+   Gakidou E, 2006, DEMOGRAPHY, V43, P569, DOI 10.1353/dem.2006.0024
+   Gregson S, 2004, SEX TRANSM INFECT, V80, P36, DOI 10.1136/sti.2004.012088
+   Helleringer S, 2007, AIDS, V21, P2323, DOI 10.1097/QAD.0b013e328285df98
+   Helleringer S, 2011, AIDS, V25, P503, DOI 10.1097/QAD.0b013e3283434485
+   Helleringer S, 2014, INT J EPIDEMIOL, V43, P545, DOI 10.1093/ije/dyt001
+   Helleringer S, 2009, DEMOGR RES, V21, P428, DOI 10.4054/DemRes.2009.21.15
+   Hill K, 2005, DEMOGR RES, V13, P281, DOI 10.4054/DemRes.2005.13.12
+   McCormick TH, 2010, J AM STAT ASSOC, V105, P59, DOI 10.1198/jasa.2009.ap08518
+   MCPHERSON JM, 1987, AM SOCIOL REV, V52, P370, DOI 10.2307/2095356
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   McPherson M, 2006, AM SOCIOL REV, V71, P353, DOI 10.1177/000312240607100301
+   Mensch BS, 2003, DEMOGRAPHY, V40, P247, DOI 10.1353/dem.2003.0017
+   Messeri PA, 2007, ADDICT BEHAV, V32, P1532, DOI 10.1016/j.addbeh.2006.11.010
+   Muir J, 1998, BRIT MED J, V316, P704, DOI 10.1136/bmj.316.7132.704a
+   Neeley SM, 2004, ADV CONSUM RES, V31, P432
+   Phillips AE, 2010, INT J EPIDEMIOL, V39, P1541, DOI 10.1093/ije/dyq114
+   PRESTON S, 2000, DEMOGRAPHY MEASURING
+   Rossier C, 2006, SOC SCI MED, V62, P254, DOI 10.1016/j.socscimed.2005.05.024
+   Salganik MJ, 2011, SOC NETWORKS, V33, P70, DOI 10.1016/j.socnet.2010.10.006
+   SHELLEY GA, 1995, SOC NETWORKS, V17, P189, DOI 10.1016/0378-8733(95)00262-M
+   Silva R, 2011, JAMA-J AM MED ASSOC, V306, P547, DOI 10.1001/jama.2011.1032
+   Stockwell T, 2004, ADDICTION, V99, P1024, DOI 10.1111/j.1360-0443.2004.00815.x
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   Yeatman S, 2011, AM J PUBLIC HEALTH, V101, P1666, DOI 10.2105/AJPH.2011.300194
+   Zheng T, 2006, J AM STAT ASSOC, V101, P409, DOI 10.1198/016214505000001168
+NR 31
+TC 6
+Z9 6
+U1 1
+U2 6
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD OCT
+PY 2019
+VL 59
+BP 134
+EP 140
+DI 10.1016/j.socnet.2019.07.003
+PG 7
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA IZ6DC
+UT WOS:000487171000011
+PM 31406395
+OA Green Accepted
+DA 2024-11-22
+ER
+
+PT J
+AU Fong, K
+AF Fong, Kelley
+TI Subject to Evaluation: How Parents Assess and Mobilize Information from
+   Social Networks in School Choice
+SO SOCIOLOGICAL FORUM
+LA English
+DT Article
+DE choice; decision making; education; evaluation; inequality; school
+   choice; social class; social networks
+ID MIDDLE-CLASS PARENTS; WEAK TIES; ACTIVATION; CREDIBILITY; INEQUALITY;
+   RESOURCES; ATTITUDES; ACCESS; HEALTH; CORE
+AB A rich literature examines how information spreads through social networks to influence life opportunities. However, receiving information does not guarantee its use in decision making. This article analyzes information evaluation as a fundamental component of social network mobilization. The case of school choice, where the value of information may be more uncertain, brings this evaluative dimension to the forefront. Interviews with 55 parents in Boston show how parents selecting schools assess their social network ties as information sources, privileging information from those they perceive to have affinity and authority. These evaluative criteria map onto disparate networks to engender unequal mobilization of this information. The findings illuminate mechanisms sustaining inequality in social network mobilization and reorient scholars to consider processes underlying information use alongside information diffusion to attain a more complete understanding of how network resources are mobilized in action.
+C1 [Fong, Kelley] Harvard Univ, Dept Sociol, 33 Kirkland St, Cambridge, MA 02138 USA.
+C3 Harvard University
+RP Fong, K (corresponding author), Harvard Univ, Dept Sociol, 33 Kirkland St, Cambridge, MA 02138 USA.
+EM kelleytyfong@fas.harvard.edu
+FU Joblessness and Urban Poverty Research Program at the Malcolm Wiener
+   Center for Social Policy; Center for American Political Studies at
+   Harvard University; Boston Area Research Initiative
+FX I am grateful to those who provided feedback on this project at earlier
+   stages, including Bart Bonikowski, Allison Daminger, Stefanie DeLuca,
+   Shelley Kimelberg, Devah Pager, Mario Small, and Sandra Susan Smith. All
+   errors and omissions are my own. This research would not have been
+   possible without generous support from the Joblessness and Urban Poverty
+   Research Program at the Malcolm Wiener Center for Social Policy, the
+   Center for American Political Studies at Harvard University, and the
+   Boston Area Research Initiative.
+CR Altenhofen S, 2016, AERA OPEN, V2, DOI 10.1177/2332858415624098
+   Ayeh JK, 2013, J TRAVEL RES, V52, P437, DOI 10.1177/0047287512475217
+   Ball SJ, 1998, BRIT J SOCIOL EDUC, V19, P377, DOI 10.1080/0142569980190307
+   Bell C., 2009, Peabody Journal of Education, V84, P191, DOI [DOI 10.1080/01619560902810146, 10.1080/01619560902810146]
+   Boston Public Schools (BPS), 2013, SCH CHOIC IMPL
+   Briggs XD, 1998, HOUS POLICY DEBATE, V9, P177, DOI 10.1080/10511482.1998.9521290
+   CAMPBELL KE, 1986, SOC NETWORKS, V8, P97, DOI 10.1016/S0378-8733(86)80017-X
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   Cornwell EY, 2008, SOCIOL PERSPECT, V51, P853, DOI 10.1525/sop.2008.51.4.853
+   Daniel C, 2015, SOCIOL FORUM, V30, P949, DOI 10.1111/socf.12203
+   Darrah J, 2014, J POLICY ANAL MANAG, V33, P350, DOI 10.1002/pam.21758
+   Deluca S, 2010, TEACH COLL REC, V112, P1443
+   GALOTTI KM, 1994, RES HIGH EDUC, V35, P589, DOI 10.1007/BF02497089
+   Gilly MC, 1998, J ACAD MARKET SCI, V26, P83, DOI 10.1177/0092070398262001
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Holme JJ, 2002, HARVARD EDUC REV, V72, P177, DOI 10.17763/haer.72.2.u6272x676823788r
+   Horvat EM, 2003, AM EDUC RES J, V40, P319, DOI 10.3102/00028312040002319
+   Hurlbert JS, 2000, AM SOCIOL REV, V65, P598, DOI 10.2307/2657385
+   Kimelberg SM, 2014, SOCIOL PERSPECT, V57, P208, DOI 10.1177/0731121414523398
+   Kimelberg SM, 2013, URBAN EDUC, V48, P198, DOI 10.1177/0042085912449629
+   Lareau A, 2016, SOCIOL EDUC, V89, P279, DOI 10.1177/0038040716669568
+   Lareau Annette., 2003, UNEQUAL CHILDHOODS C
+   Lareau Annette., 2014, CHOOSING HOMES CHOOS
+   Lay JC, 2016, URBAN AFF REV, V52, P973, DOI 10.1177/1078087415612207
+   Levine Judith., 2013, AINT NO TRUST BOSSES
+   LIN N, 1986, SOC NETWORKS, V8, P365, DOI 10.1016/0378-8733(86)90003-1
+   Lin N, 2000, CONTEMP SOCIOL, V29, P785, DOI 10.2307/2654086
+   Lin N., 2002, SOCIAL CAPITAL THEOR
+   Logan J.R., 2011, US2010 PROJECT, P1
+   Marin A, 2012, SOC NETWORKS, V34, P181, DOI 10.1016/j.socnet.2011.11.002
+   Mazelis JoanMaya., 2017, SURVIVING POVERTY CR
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Miles Matthew B., 2013, QUALITATIVE DATA ANA
+   Molloy R, 2011, J ECON PERSPECT, V25, P173, DOI 10.1257/jep.25.3.173
+   Morales MC, 2016, SOCIOL FORUM, V31, P509, DOI 10.1111/socf.12261
+   Mulligan G.M., 2005, CHILD CARE EARLY ED
+   Neild RC, 2005, URBAN EDUC, V40, P270, DOI 10.1177/0042085905274538
+   Pattillo M.E., 1999, Black picket fences: Privilege and peril among the black middle class
+   Pattillo MaryE., 2014, Choosing Homes, Choosing Schools: Residential Segregation and the Search for a Good School, P237
+   Perry BL, 2015, SOC SCI MED, V125, P116, DOI 10.1016/j.socscimed.2013.12.033
+   Perry BL, 2010, SOC NETWORKS, V32, P345, DOI 10.1016/j.socnet.2010.06.005
+   Rhodes Anna., 2014, CHOOSING HOMES CHOOS, P137, DOI DOI 10.1086/682205
+   Rossi P., 1980, WHY FAMILIES MOVE, V2nd
+   Royster Deirdre A., 2003, RACE INVISIBLE HAND
+   Schneider M, 1997, AM J POLIT SCI, V41, P1201, DOI 10.2307/2960487
+   Sharone O, 2014, WORK OCCUPATION, V41, P409, DOI 10.1177/0730888414538432
+   Sherman J, 2013, SOC PROBL, V60, P409, DOI 10.1525/sp.2013.60.4.409
+   Small ML, 2013, SOC NETWORKS, V35, P470, DOI 10.1016/j.socnet.2013.05.004
+   Small Mario Luis, 2009, Unanticipated gains
+   Smith SS, 2010, ANNU REV SOCIOL, V36, P453, DOI 10.1146/annurev.soc.012809.102526
+   Smith SandraSusan., 2007, LONE PURSUIT DISTRUS
+   Sommer TE, 2017, J RES EDUC EFF, V10, P732, DOI 10.1080/19345747.2016.1258099
+   Teske P., 2007, Online Submission
+   Teske P., 2006, REV POLICY RES, V23, P969, DOI [DOI 10.1111/J.1541-1338.2006.00245, DOI 10.1111/J.1541-1338.2006.00245.X]
+   Wang ZM, 2008, HEALTH COMMUN, V23, P358, DOI 10.1080/10410230802229738
+   Weininger E.B., 2014, Choosing Homes, Choosing Schools
+   WELLMAN B, 1990, AM J SOCIOL, V96, P558, DOI 10.1086/229572
+   Yettick H, 2016, URBAN EDUC, V51, P859, DOI 10.1177/0042085914550414
+NR 58
+TC 19
+Z9 26
+U1 3
+U2 11
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0884-8971
+EI 1573-7861
+J9 SOCIOL FORUM
+JI Sociol. Forum
+PD MAR
+PY 2019
+VL 34
+IS 1
+BP 158
+EP 180
+DI 10.1111/socf.12483
+PG 23
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA HN6SC
+UT WOS:000460315000008
+DA 2024-11-22
+ER
+
+PT J
+AU Dzemski, A
+AF Dzemski, Andreas
+TI An Empirical Model of Dyadic Link Formation in a Network with Unobserved
+   Heterogeneity
+SO REVIEW OF ECONOMICS AND STATISTICS
+LA English
+DT Article
+ID NONLINEAR PANEL MODELS; TESTING TRANSITIVITY; SOCIAL NETWORKS; BIAS
+   REDUCTION; TIME
+AB I study a dyadic linking model in which agents form directed links that exhibit homophily and reciprocity. A fixed-effect approach accounts for unobserved sources of degree heterogeneity. I consider specification testing and inference with respect to the homophily and reciprocity parameters. The specification test compares observed transitivity to predicted transitivity. All test statistics account for the presence of an incidental parameter by using formulas based on an asymptotic approximation. In an application to favor networks in Indian villages, the specification test detects that the dyadic linking model underestimates the true transitivity of the network.
+C1 [Dzemski, Andreas] Univ Gothenburg, Gothenburg, Sweden.
+C3 University of Gothenburg
+RP Dzemski, A (corresponding author), Univ Gothenburg, Gothenburg, Sweden.
+OI Dzemski, Andreas/0000-0003-3524-9941
+CR Abadie A, 2016, ECONOMETRICA, V84, P781, DOI 10.3982/ECTA11293
+   [Anonymous], 2015, ARXIV150608237
+   [Anonymous], ARXIV180308154
+   Apicella CL, 2012, NATURE, V481, P497, DOI 10.1038/nature10736
+   Banerjee A, 2013, SCIENCE, V341, P363, DOI 10.1126/science.1236498
+   Bhamidi S, 2011, ANN APPL PROBAB, V21, P2146, DOI 10.1214/10-AAP740
+   Candelaria Luis, 2017, SEMIPARAMETRIC NETWO
+   Chandrasekhar A.G., 2016, A network formation model based on subgraphs
+   Charbonneau KB, 2017, ECONOMET J, V20, pS1, DOI 10.1111/ectj.12093
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   DAVIS JA, 1970, AM SOCIOL REV, V35, P843, DOI 10.2307/2093295
+   Dhaene G, 2015, REV ECON STUD, V82, P991, DOI 10.1093/restud/rdv007
+   Fafchamps M, 2003, J DEV ECON, V71, P261, DOI 10.1016/S0304-3878(03)00029-4
+   Fafchamps M, 2007, J DEV ECON, V83, P326, DOI 10.1016/j.jdeveco.2006.05.005
+   Faust K, 2007, SOCIOL METHODOL, V37, P209, DOI 10.1111/j.1467-9531.2007.00179.x
+   Fernández-Val I, 2016, J ECONOMETRICS, V192, P291, DOI 10.1016/j.jeconom.2015.12.014
+   Gao Wayne Yuan, 2017, ARXIV171011230
+   Graham BS, 2017, ECONOMETRICA, V85, P1033, DOI 10.3982/ECTA12679
+   Graham BS, 2015, ANNU REV ECON, V7, P465, DOI 10.1146/annurev-economics-080614-115611
+   Hahn J, 2004, ECONOMETRICA, V72, P1295, DOI 10.1111/j.1468-0262.2004.00533.x
+   Hahn J, 2011, ECONOMET THEOR, V27, P1152, DOI 10.1017/S0266466611000028
+   Hahn JY, 1998, ECONOMETRICA, V66, P315, DOI 10.2307/2998560
+   Hoff PD, 2005, J AM STAT ASSOC, V100, P286, DOI 10.1198/016214504000001015
+   HOLLAND PW, 1981, J AM STAT ASSOC, V76, P33, DOI 10.2307/2287037
+   HOLLAND PW, 1971, COMP GROUP STUD, V2, P107, DOI 10.1177/104649647100200201
+   HOLLAND PW, 1978, SOCIOL METHOD RES, V7, P227, DOI 10.1177/004912417800700207
+   Jackson MO, 2012, AM ECON REV, V102, P1857, DOI 10.1257/aer.102.5.1857
+   Jackson MO, 2008, SOCIAL AND ECONOMIC NETWORKS, P1
+   Jochmans K, 2018, J BUS ECON STAT, V36, P705, DOI 10.1080/07350015.2017.1286242
+   Karlberg M, 1997, SOC NETWORKS, V19, P325, DOI 10.1016/S0378-8733(97)00001-4
+   Karlberg M, 1999, SOCIOL METHODOL, V29, P225, DOI 10.1111/0081-1750.00065
+   Kim MS, 2016, ECONOMET THEOR, V32, P1523, DOI 10.1017/S0266466615000341
+   Leung MP, 2015, J ECONOMETRICS, V188, P182, DOI 10.1016/j.jeconom.2015.04.001
+   Mayer A, 2008, J PUBLIC ECON, V92, P329, DOI 10.1016/j.jpubeco.2007.09.001
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mele A, 2017, ECONOMETRICA, V85, P825, DOI 10.3982/ECTA10400
+   Menzel Konrad, 2017, STRATEGIC NETWORK FO
+   Neyman J, 1948, ECONOMETRICA, V16, P1, DOI 10.2307/1914288
+   Ridder G., 2017, Estimation of large network formation games
+   Sheng S., 2016, A structural econometric analysis of network formation games
+   Shi Zhentao, 2016, STRUCTURAL PAIRWISE
+   Snijders TAB, 2006, SOCIOL METHODOL, V36, P99, DOI 10.1111/j.1467-9531.2006.00176.x
+   Toth P., 2017, WORKING PAPER
+   Wasserman S, 1996, PSYCHOMETRIKA, V61, P401, DOI 10.1007/BF02294547
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Yan T, 2019, J AM STAT ASSOC, V114, P857, DOI 10.1080/01621459.2018.1448829
+   Yan T, 2016, ANN STAT, V44, P31, DOI 10.1214/15-AOS1343
+NR 47
+TC 18
+Z9 21
+U1 1
+U2 15
+PU MIT PRESS
+PI CAMBRIDGE
+PA ONE ROGERS ST, CAMBRIDGE, MA 02142-1209 USA
+SN 0034-6535
+EI 1530-9142
+J9 REV ECON STAT
+JI Rev. Econ. Stat.
+PD DEC
+PY 2019
+VL 101
+IS 5
+BP 763
+EP 776
+DI 10.1162/rest_a_00805
+PG 14
+WC Economics; Social Sciences, Mathematical Methods
+WE Social Science Citation Index (SSCI)
+SC Business & Economics; Mathematical Methods In Social Sciences
+GA JV4MI
+UT WOS:000502338900002
+OA Green Submitted
+DA 2024-11-22
+ER

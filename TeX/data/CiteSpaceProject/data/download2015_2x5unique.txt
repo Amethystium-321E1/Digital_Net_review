@@ -1,0 +1,704 @@
+
+PT J
+AU Verdery, AM
+   Mouw, T
+   Bauldry, S
+   Mucha, PJ
+AF Verdery, Ashton M.
+   Mouw, Ted
+   Bauldry, Shawn
+   Mucha, Peter J.
+TI Network Structure and Biased Variance Estimation in Respondent Driven
+   Sampling
+SO PLOS ONE
+LA English
+DT Article
+ID FEMALE SEX WORKERS; RECRUITMENT; POPULATION
+AB This paper explores bias in the estimation of sampling variance in Respondent Driven Sampling (RDS). Prior methodological work on RDS has focused on its problematic assumptions and the biases and inefficiencies of its estimators of the population mean. Nonetheless, researchers have given only slight attention to the topic of estimating sampling variance in RDS, despite the importance of variance estimation for the construction of confidence intervals and hypothesis tests. In this paper, we show that the estimators of RDS sampling variance rely on a critical assumption that the network is First Order Markov (FOM) with respect to the dependent variable of interest. We demonstrate, through intuitive examples, mathematical generalizations, and computational experiments that current RDS variance estimators will always underestimate the population sampling variance of RDS in empirical networks that do not conform to the FOM assumption. Analysis of 215 observed university and school networks from Facebook and Add Health indicates that the FOM assumption is violated in every empirical network we analyze, and that these violations lead to substantially biased RDS estimators of sampling variance. We propose and test two alternative variance estimators that show some promise for reducing biases, but which also illustrate the limits of estimating sampling variance with only partial information on the underlying population social network.
+C1 [Verdery, Ashton M.] Penn State Univ, Dept Sociol & Criminol, Populat Res Inst, University Pk, PA 16802 USA.
+   [Verdery, Ashton M.] Penn State Univ, Inst CyberSci, University Pk, PA 16802 USA.
+   [Mouw, Ted] Univ N Carolina, Dept Sociol, Chapel Hill, NC USA.
+   [Bauldry, Shawn] Univ Alabama Birmingham, Dept Sociol, Birmingham, AL 35294 USA.
+   [Mucha, Peter J.] Univ N Carolina, Dept Appl Sci, Chapel Hill, NC USA.
+C3 Pennsylvania Commonwealth System of Higher Education (PCSHE);
+   Pennsylvania State University; Pennsylvania State University -
+   University Park; Pennsylvania Commonwealth System of Higher Education
+   (PCSHE); Pennsylvania State University; Pennsylvania State University -
+   University Park; University of North Carolina; University of North
+   Carolina Chapel Hill; University of Alabama System; University of
+   Alabama Birmingham; University of North Carolina; University of North
+   Carolina Chapel Hill
+RP Verdery, AM (corresponding author), Penn State Univ, Dept Sociol & Criminol, Populat Res Inst, University Pk, PA 16802 USA.
+EM amv5430@psu.edu
+RI Bauldry, Shawn/ABG-7064-2020
+OI Verdery, Ashton/0000-0003-1005-7580
+FU Carolina Population Center [R24 HD050924]; National Science Foundation
+   [DMS-0645369]; National Institute of General Medical Sciences
+   [R21GM099493]; Eunice Kennedy Shriver National Institute of Child Health
+   and Human Development [P01-HD31921]
+FX The authors are grateful to the Carolina Population Center for training
+   (T32 HD007168) and general support (R24 HD050924) and to the Penn State
+   Population Research Institute (R24HD041025). Peter J. Mucha was
+   supported by the National Science Foundation (DMS-0645369) and by Award
+   Number R21GM099493 from the National Institute of General Medical
+   Sciences. This research uses data from Add Health, a program project
+   directed by Kathleen Mullan Harris and designed by J. Richard Udry,
+   Peter S. Bearman, and Kathleen Mullan Harris at the University of North
+   Carolina at Chapel Hill, and funded by grant P01-HD31921 from the Eunice
+   Kennedy Shriver National Institute of Child Health and Human
+   Development, with cooperative funding from 23 other federal agencies and
+   foundations. No direct support was received from grant P01-HD31921 for
+   this analysis. The funders had no role in study design, data collection
+   and analysis, decision to publish, or preparation of the manuscript. We
+   thank Mason Porter for providing access to the Facebook data set we use.
+   We also thank participants at the 2012 Hidden and Hard to Reach
+   Populations Conference, Jonathan Daw, and Charles Seguin for helpful
+   comments on earlier drafts. We are grateful to the Carolina Population
+   Center for training (T32 HD007168) and general support (R24 HD050924)
+   and to the Penn State Population Research Institute (R24HD041025). Peter
+   J. Mucha was supported by the National Science Foundation (DMS-0645369)
+   and by Award Number R21GM099493 from the National Institute of General
+   Medical Sciences. This research uses data from Add Health, a program
+   project directed by Kathleen Mullan Harris and designed by J. Richard
+   Udry, Peter S. Bearman, and Kathleen Mullan Harris at the University of
+   North Carolina at Chapel Hill, and funded by grant P01-HD31921 from the
+   Eunice Kennedy Shriver National Institute of Child Health and Human
+   Development, with cooperative funding from 23 other federal agencies and
+   foundations. Special acknowledgment is due Ronald R. Rindfuss and
+   Barbara Entwisle for assistance in the original design. Information on
+   how to obtain the Add Health data files is available on the Add Health
+   website (http://www.cpc.unc.edu/addhealth). No direct support was
+   received from grant P01-HD31921 for this analysis. The content is solely
+   the responsibility of the authors and does not necessarily represent the
+   official views of any aforementioned funding agencies.
+CR Abdul-Quader AS, 2006, J URBAN HEALTH, V83, pI1, DOI 10.1007/s11524-006-9108-8
+   [Anonymous], 1999, Lectures on Contemporary Probability
+   [Anonymous], REPORTER DAT
+   [Anonymous], SAMPLING HIDDEN POPU
+   [Anonymous], THESIS
+   [Anonymous], WEB SCI
+   [Anonymous], ARXIV13043505
+   [Anonymous], 2009, NATL LONGITUDINAL ST
+   [Anonymous], WORK PAP DUKE NETW A
+   [Anonymous], 1999, The structure of adolescent social relations: modeling friendship in dynamic social settings
+   [Anonymous], INNOVATIONS RECRUITM
+   [Anonymous], J AM STAT ASS
+   Bassetti F, 2006, ILLINOIS J MATH, V50, P67, DOI 10.1215/ijm/1258059470
+   Clouston S., 2009, Connections, V29, P18
+   Daw J, 2015, SOC SCI MED, V125, P32, DOI 10.1016/j.socscimed.2014.02.047
+   Gile KJ, 2015, J R STAT SOC A STAT, V178, P241, DOI 10.1111/rssa.12059
+   Gile KJ, 2010, SOCIOL METHODOL, V40, P285, DOI 10.1111/j.1467-9531.2010.01223.x
+   Gjoka M, 2010, IEEE INFOCOM SER, DOI 10.1109/infcom.2010.5462078
+   Goel S, 2010, P NATL ACAD SCI USA, V107, P6743, DOI 10.1073/pnas.1000261107
+   Goel S, 2009, STAT MED, V28, P2202, DOI 10.1002/sim.3613
+   Groves R.M., 2011, SURVEY METHODOLOGY
+   Heckathorn DD, 1997, SOC PROBL, V44, P174, DOI 10.1525/sp.1997.44.2.03x0221m
+   Kerry SM, 1998, BRIT MED J, V316, P1455, DOI 10.1136/bmj.316.7142.1455
+   Lovasz L, 1993, P. Erdos is Eighty, V2, P1
+   Lu X, 2013, SOC NETWORKS, V35, P669, DOI 10.1016/j.socnet.2013.10.001
+   Lu X, 2013, ELECTRON J STAT, V7, P292, DOI 10.1214/13-EJS772
+   Lu X, 2012, J R STAT SOC A STAT, V175, P191, DOI 10.1111/j.1467-985X.2011.00711.x
+   McCreesh N, 2012, EPIDEMIOLOGY, V23, P138, DOI 10.1097/EDE.0b013e31823ac17c
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Menger Karl, 1927, FUND MATH, V10, P96
+   Merli MG, 2015, SOC SCI MED, V125, P79, DOI 10.1016/j.socscimed.2014.04.022
+   Moody J, 2003, AM SOCIOL REV, V68, P103, DOI 10.2307/3088904
+   Mouw T, 2012, SOCIOL METHODOL, V42, P206, DOI 10.1177/0081175012461248
+   Mouw T, 2014, SOC PROBL, V61, P329, DOI 10.1525/sp.2014.12192
+   Nesterko S, 2015, J STAT COMPUT SIM, V85, P89, DOI 10.1080/00949655.2013.804078
+   Newman MEJ, 2001, PHYS REV E, V64, DOI [10.1103/PhysRevE.64.016132, 10.1103/PhysRevE.64.016131]
+   Racca E, 2007, PHYS REV E, V75, DOI 10.1103/PhysRevE.75.011126
+   Red V, 2011, SIAM REV, V53, P526, DOI 10.1137/080734315
+   Salganik MJ, 2006, J URBAN HEALTH, V83, pI98, DOI 10.1007/s11524-006-9106-x
+   Snijders T.A., 1997, SIMULATING SOCIAL PH
+   Tomas A, 2011, ELECTRON J STAT, V5, P899, DOI 10.1214/11-EJS630
+   Traud AL, 2012, PHYSICA A, V391, P4165, DOI 10.1016/j.physa.2011.12.021
+   Traud AL, 2009, CHAOS, V19, DOI 10.1063/1.3194108
+   Verdery AM, 2015, EPIDEMIOLOGY, V26, P661, DOI 10.1097/EDE.0000000000000335
+   Volz E, 2008, J OFF STAT, V24, P79
+   Wejnert C, 2009, SOCIOL METHODOL, V39, P73, DOI 10.1111/j.1467-9531.2009.01216.x
+   Yamanis TJ, 2013, SOCIOL METHOD RES, V42, P392, DOI 10.1177/0049124113494576
+NR 47
+TC 23
+Z9 24
+U1 0
+U2 5
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD DEC 17
+PY 2015
+VL 10
+IS 12
+AR e0145296
+DI 10.1371/journal.pone.0145296
+PG 27
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA CY9JO
+UT WOS:000366723400069
+PM 26679927
+OA Green Published, gold, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Mao, JN
+   Shen, Y
+AF Mao, Jina
+   Shen, Yan
+TI Cultural identity change in expatriates: A social network perspective
+SO HUMAN RELATIONS
+LA English
+DT Article
+DE cross-cultural relationships; cultural identity change; expatriation and
+   repatriation adjustment; social networks
+ID INTERNATIONAL ASSIGNMENTS; PSYCHOLOGICAL ADJUSTMENT; RELATIONAL
+   IDENTITY; TRANSITION CYCLE; WORK EXPERIENCES; MODEL; REPATRIATION;
+   SUPPORT; SELF; ACCULTURATION
+AB We explore relational patterns of expatriates' social networks and their impact on expatriates' change in cultural identity while working abroad. We go beyond mono-cultural assumptions and highlight the importance of examining cross-cultural relational dynamics on maintenance and change in expatriates' cultural identity. We argue that strong ties in dense networks are most conducive to helping expatriates stay attached to a national culture. Cultural diversity in a social network provides the impetus for cultural identity change. Cross-cultural interconnectedness within an expatriate's social network contributes to the development of multiculturalism in one's cultural identity. We also discuss the effect of cultural identity change on expatriation and repatriation adjustment, and provide some practical implications for individuals as well as organizations. Overall, we offer a cross-cultural social network perspective in theorizing about the expatriation experience.
+C1 [Mao, Jina] Skidmore Coll, Management & Business Dept, Saratoga Springs, NY 12866 USA.
+   [Shen, Yan] Univ Victoria, Peter B Gustavson Sch Business, Int Business, Victoria, BC, Canada.
+C3 Skidmore College; University of Victoria
+RP Mao, JN (corresponding author), Skidmore Coll, Management & Business Dept, 815 North Broadway, Saratoga Springs, NY 12866 USA.
+EM jmao@skidmore.edu; yanshen@uvic.ca
+OI Mao, Jina/0000-0001-8729-0220
+CR Adler P., 1977, CULTURE LEARNING, P24
+   [Anonymous], 2002, ONLINE READINGS PSYC
+   [Anonymous], INT J HUMAN RESOURCE
+   [Anonymous], RES ORGAN BEHAV
+   [Anonymous], AC MAN M BEST PAP P
+   Arnett JJ, 2002, AM PSYCHOL, V57, P774, DOI [10.1037/0003-066X.57.10.774, 10.1037//0003-066X.57.10.774]
+   ARON A, 1992, J PERS SOC PSYCHOL, V63, P596, DOI 10.1037/0022-3514.63.4.596
+   Atiyyah HamidS., 1996, J MANAG DEV, V15, P37, DOI DOI 10.1108/02621719610117231
+   Au KY, 2002, J WORLD BUS, V37, P285, DOI 10.1016/S1090-9516(02)00095-0
+   Bandura A., 1977, SOCIAL LEARNING THEO
+   Baruch Y, 2013, INT J HUM RESOUR MAN, V24, P2369, DOI 10.1080/09585192.2013.781435
+   Baumeister R.F., 1986, IDENTITY CULTURAL CH
+   BAUMEISTER RF, 1985, J PERS, V53, P407, DOI 10.1111/j.1467-6494.1985.tb00373.x
+   Belhoste N, 2013, HUM RELAT, V66, P1529, DOI 10.1177/0018726713484943
+   Ben Cox J, 2004, INT J INTERCULT REL, V28, P201, DOI 10.1016/j.ijintrel.2004.06.005
+   Benet-Martínez V, 2002, J CROSS CULT PSYCHOL, V33, P492, DOI 10.1177/0022022102033005005
+   Berry JW, 2005, INT J INTERCULT REL, V29, P697, DOI 10.1016/j.ijintrel.2005.07.013
+   Berry JW, 1997, APPL PSYCHOL-INT REV, V46, P5, DOI 10.1111/j.1464-0597.1997.tb01087.x
+   BERRY JW, 1992, INT MIGR, V30, P69, DOI 10.1111/j.1468-2435.1992.tb00776.x
+   Bhaskar-Shrinivas P, 2005, ACAD MANAGE J, V48, P257, DOI 10.2307/20159655
+   BLACK JS, 1992, J INT BUS STUD, V23, P737, DOI 10.1057/palgrave.jibs.8490286
+   BLACK JS, 1991, ACAD MANAGE REV, V16, P291, DOI 10.2307/258863
+   BLACK JS, 1992, HUM RELAT, V45, P177, DOI 10.1177/001872679204500205
+   BLACK JS, 1991, HUM RELAT, V44, P497, DOI 10.1177/001872679104400505
+   Brake T., 1997, The global leader: Critical factors for creating the world class organization
+   Brass DJ, 2004, ACAD MANAGE J, V47, P795, DOI 10.5465/20159624
+   BRIODY EK, 1991, HUM ORGAN, V50, P264, DOI 10.17730/humo.50.3.22555451v6206444
+   Bruning NS, 2012, J INT BUS STUD, V43, P444, DOI 10.1057/jibs.2012.5
+   Burt RS, 1997, ADMIN SCI QUART, V42, P339, DOI 10.2307/2393923
+   Butcher M, 2009, J ETHN MIGR STUD, V35, P1353, DOI 10.1080/13691830903123153
+   Caligiuri P, 2002, INT J HUM RESOUR MAN, V13, P761, DOI 10.1080/09585190210125903
+   Caligiuri PM, 1998, J APPL PSYCHOL, V83, P598, DOI 10.1037/0021-9010.83.4.598
+   Chandler DE, 2010, ORGAN DYN, V39, P48, DOI 10.1016/j.orgdyn.2009.10.001
+   Chen G, 2010, ACAD MANAGE J, V53, P1110, DOI 10.5465/AMJ.2010.54533217
+   Chen SX, 2008, J PERS, V76, P803, DOI 10.1111/j.1467-6494.2008.00505.x
+   Chiu YP, 2009, INT J HUM RESOUR MAN, V20, P790, DOI 10.1080/09585190902770703
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   Collings DG, 2007, J WORLD BUS, V42, P198, DOI 10.1016/j.jwb.2007.02.005
+   Cummings JN, 2006, SOC NETWORKS, V28, P38, DOI 10.1016/j.socnet.2005.04.003
+   Curran S.R., 2001, Journal of International Women's Studies, V2, P54
+   Das D, 2008, HUM RELAT, V61, P1499, DOI 10.1177/0018726708096636
+   Deaux K, 2003, SOC PSYCHOL QUART, V66, P101, DOI 10.2307/1519842
+   Dickmann M, 2005, J WORLD BUS, V40, P399, DOI 10.1016/j.jwb.2005.08.007
+   Earley P. C., 2004, ACAD MANAG LEARN EDU, V3, P100
+   Emerson MO, 2002, SOC SCI QUART, V83, P745, DOI 10.1111/1540-6237.00112
+   Erez M, 2004, APPL PSYCHOL-INT REV, V53, P583, DOI 10.1111/j.1464-0597.2004.00190.x
+   Farh CIC, 2010, ACAD MANAGE REV, V35, P434, DOI 10.5465/AMR.2010.51142246
+   FENLASON KJ, 1994, J ORGAN BEHAV, V15, P157, DOI 10.1002/job.4030150205
+   GRANOVETTER M, 1985, AM J SOCIOL, V91, P481, DOI 10.1086/228311
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Gregersen HB, 1997, PERS PSYCHOL, V50, P635, DOI 10.1111/j.1744-6570.1997.tb00708.x
+   Harvey M, 2006, ELGAR ORIG REF, P323
+   Hendrickson B, 2011, INT J INTERCULT REL, V35, P281, DOI 10.1016/j.ijintrel.2010.08.001
+   Hogg MA, 2000, ACAD MANAGE REV, V25, P121, DOI 10.1093/cdj/bsi087
+   Hogg MA, 1995, SOC PSYCHOL QUART, V58, P255, DOI 10.2307/2787127
+   Hong YY, 2000, AM PSYCHOL, V55, P709, DOI 10.1037//0003-066X.55.7.709
+   Inkson K, 1997, J WORLD BUS, V32, P351, DOI 10.1016/S1090-9516(97)90017-1
+   Johnson EC, 2003, INT J SELECT ASSESS, V11, P277, DOI 10.1111/j.0965-075X.2003.00251.x
+   Jokinen T, 2008, INT J HUM RESOUR MAN, V19, P979, DOI 10.1080/09585190802051279
+   Kegan R., 1982, EVOLVING SELF PROBLE
+   Kilduff M, 2010, ACAD MANAG ANN, V4, P317, DOI 10.1080/19416520.2010.494827
+   Kohonen E., 2004, INT STUD MANAG ORG, V34, P27
+   Kohonen E, 2008, SCAND J MANAG, V24, P320, DOI 10.1016/j.scaman.2008.08.004
+   Kosmitzki C, 1996, PERS SOC PSYCHOL B, V22, P238, DOI 10.1177/0146167296223002
+   Kraimer ML, 2012, ACAD MANAGE J, V55, P399, DOI 10.5465/amj.2009.0644
+   Levinson D., 1978, Seasons of a man's life
+   Liu XY, 2005, INT J CROSS CULT MAN, V5, P235, DOI 10.1177/1470595805058411
+   Manev IM, 2001, J INT BUS STUD, V32, P285, DOI 10.1057/palgrave.jibs.8490953
+   MARKUS HR, 1991, PSYCHOL REV, V98, P224, DOI 10.1037/0033-295X.98.2.224
+   Mayrhofer W., 2004, Journal of Management Development, V23, P870, DOI 10.1108/02621710410558477
+   McPhail R, 2012, HUM RESOUR DEV Q, V23, P259, DOI 10.1002/hrdq.21133
+   Mehra A, 2001, ADMIN SCI QUART, V46, P121, DOI 10.2307/2667127
+   Milton LP, 2005, ACAD MANAGE J, V48, P191, DOI 10.2307/20159652
+   Mok A, 2007, J CROSS CULT PSYCHOL, V38, P629, DOI 10.1177/0022022107305243
+   Molinsky A, 2007, ACAD MANAGE REV, V32, P622, DOI 10.5465/AMR.2007.24351878
+   Nguyen AMD, 2007, SOC PERSONAL PSYCHOL, V1, P101, DOI 10.1111/j.1751-9004.2007.00029.x
+   Olsen JE, 2009, HUM RESOUR MANAGE-US, V48, P311, DOI 10.1002/hrm.20281
+   Osland J., 1995, ADVENTURE WORKING AB
+   Osland J., 2005, International Studies of Management and Organizations, V35, P93
+   Osland JS, 2000, HUM RESOURCE MANAGE, V39, P227, DOI 10.1002/1099-050X(200022/23)39:2/3<227::AID-HRM11>3.0.CO;2-R
+   Peltokorpi V, 2008, INT J HUM RESOUR MAN, V19, P1588, DOI 10.1080/09585190802294903
+   Phinney JS, 1997, J RES ADOLESCENCE, V7, P3, DOI 10.1207/s15327795jra0701_2
+   Podolny JM, 1997, AM SOCIOL REV, V62, P673, DOI 10.2307/2657354
+   Reicher S.D., 1987, REDISCOVERING SOCIAL
+   Ren H, 2014, PERS PSYCHOL, V67, P203, DOI 10.1111/peps.12034
+   Rienties B, 2014, INT J INTERCULT REL, V41, P165, DOI 10.1016/j.ijintrel.2013.12.003
+   Ross M, 2002, PERS SOC PSYCHOL B, V28, P1040, DOI 10.1177/01461672022811003
+   Sanchez JI, 2000, ACAD MANAGE EXEC, V14, P96, DOI 10.5465/AME.2000.3819309
+   Selmer J, 2006, INT J HUM RESOUR MAN, V17, P1209, DOI 10.1080/09585190600756475
+   Shaffer MA, 2001, J APPL PSYCHOL, V86, P238, DOI 10.1037//0021-9010.86.2.238
+   Shaffer MA, 2012, J MANAGE, V38, P1282, DOI 10.1177/0149206312441834
+   Shapiro DL, 2010, AM PSYCHOL, V65, P634, DOI 10.1037/a0020004
+   Shen Y, 2011, CAREER DEV INT, V16, P528, DOI 10.1108/13620431111178317
+   Shen Y, 2009, HUM RESOUR MANAGE-US, V48, P793, DOI 10.1002/hrm.20314
+   Sluss DM, 2007, ACAD MANAGE REV, V32, P9, DOI 10.2307/20159278
+   Stryker S, 2000, SOC PSYCHOL QUART, V63, P284, DOI 10.2307/2695840
+   Sussman NM, 2011, SOC PERSONAL PSYCHOL, V5, P393, DOI 10.1111/j.1751-9004.2011.00361.x
+   Sussman NM, 2000, PERS SOC PSYCHOL REV, V4, P355, DOI 10.1207/S15327957PSPR0404_5
+   Sussman NM, 2002, INT J INTERCULT REL, V26, P391, DOI 10.1016/S0147-1767(02)00013-5
+   Sussman NM, 2001, INT J INTERCULT REL, V25, P109, DOI 10.1016/S0147-1767(00)00046-8
+   Tajfel H., 2004, POLITICAL PSYCHOL KE
+   Takeuchi R, 2010, J MANAGE, V36, P1040, DOI 10.1177/0149206309349308
+   Tharenou P, 2010, ACAD MANAGE J, V53, P1009, DOI 10.5465/AMJ.2010.54533183
+   Thomas DC, 2008, INT J CROSS CULT MAN, V8, P123, DOI 10.1177/1470595808091787
+   Toh SM, 2007, J ORGAN BEHAV, V28, P281, DOI 10.1002/job.421
+   Van Vianen AEM, 2004, ACAD MANAGE J, V47, P697, DOI 10.5465/20159612
+   Volpe EH, 2011, GEND MANAG, V26, P57, DOI 10.1108/17542411111109318
+   Wang XY, 2004, INT J HUM RESOUR MAN, V15, P775, DOI 10.1080/0958519042000192942
+   WARD C, 1994, INT J INTERCULT REL, V18, P329, DOI 10.1016/0147-1767(94)90036-1
+   WARD C, 1992, INT J INTERCULT REL, V16, P175, DOI 10.1016/0147-1767(92)90017-O
+   Ward C, 1999, J CROSS CULT PSYCHOL, V30, P422, DOI 10.1177/0022022199030004003
+   Ward C., 2010, Psychological Studies, V55, P26, DOI [DOI 10.1007/S12646-010-0003-8, 10.1007/s12646-010-0003-8]
+NR 112
+TC 65
+Z9 78
+U1 11
+U2 148
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0018-7267
+EI 1741-282X
+J9 HUM RELAT
+JI Hum. Relat.
+PD OCT
+PY 2015
+VL 68
+IS 10
+BP 1533
+EP 1556
+DI 10.1177/0018726714561699
+PG 24
+WC Management; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Business & Economics; Social Sciences - Other Topics
+GA CS2NE
+UT WOS:000361907100001
+DA 2024-11-22
+ER
+
+PT J
+AU Caudell, M
+   Rotolo, T
+   Grima, M
+AF Caudell, Mark
+   Rotolo, Thomas
+   Grima, Mulye
+TI Informal lending networks in rural Ethiopia
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Informal insurance networks; Ethiopia; Cattle; Sidama; Subsistence
+   agriculturalists; Sub-Saharan Africa
+ID RISK-SHARING NETWORKS; SOCIAL NETWORKS; INSURANCE; COMPLEX; CATTLE;
+   RECIPROCITY; COMMITMENT; SIDAMA
+AB Economic development in emergent nations is tied to smallholder subsistence populations whose livelihoods are vulnerable to exogenous shocks. When shocks occur, individuals often rely on resources embedded within informal insurance networks. Resource access is related to network position and reflected in properties such as centrality and reachability. We analyze a complete informal lending network (188 nodes, 295 ties) among the Sidama, an agro-pastoralist population in southwestern Ethiopia. Results indicate that culturally salient indicators of wealth, such as cattle ownership and gender, largely account for network structure. Analysis of a complete network further allows us to discuss the impact of global network properties, such as overall typology, on a communities response to different types of shocks (covariate and idiosyncratic). These findings extend our understanding of how individuals and communities engage informal lending networks in response to exogenous shocks. Published by Elsevier B.V.
+C1 [Caudell, Mark] Washington State Univ, Dept Anthropol, Pullman, WA 99164 USA.
+   [Rotolo, Thomas] Washington State Univ, Dept Sociol, Pullman, WA 99164 USA.
+   [Grima, Mulye] Hawassa Univ, Sch Behav Sci, Hawassa 95502, Snnprs, Ethiopia.
+C3 Washington State University; Washington State University; Hawassa
+   University
+RP Caudell, M (corresponding author), Washington State Univ, Dept Anthropol, Pullman, WA 99164 USA.
+EM caudellmark@gmail.com
+CR Albert R, 2000, NATURE, V406, P378, DOI 10.1038/35019019
+   [Anonymous], 2011, EXPLORATORY SOCIAL N, DOI DOI 10.1017/CBO9780511996368
+   [Anonymous], 2001, Social capital: theory and research
+   [Anonymous], ORIENT ANTHR
+   [Anonymous], 2002, Harvard, MA: Analytic Technologies
+   [Anonymous], 2013, POLITICS ETHNICITY E
+   [Anonymous], THESIS U COLORADO AN
+   [Anonymous], 1987, HUMANE DEV PARTICIPA
+   [Anonymous], AGR ECOSYST ENV
+   [Anonymous], 1977, MORAL EC PEASANT
+   [Anonymous], FUT SMALL FARMS P RE
+   [Anonymous], 2004, SOC EC POVERTY
+   [Anonymous], 1989, RES METHODS SOC NETW
+   [Anonymous], 2007, SUMMARY STAT REPORT
+   [Anonymous], 1992, SUSTAINABLE LIVELIHO
+   [Anonymous], 1994, SOCIAL NETWORK ANAL
+   [Anonymous], NETWORK STRUCT UNPUB
+   [Anonymous], C CTR STUD AFR EC U
+   Asfaw Z, 2007, AGROFOREST SYST, V71, P35, DOI 10.1007/s10457-007-9087-0
+   BERNARD HR, 1984, ANNU REV ANTHROPOL, V13, P495, DOI 10.1146/annurev.an.13.100184.002431
+   Bodin O, 2006, ECOL SOC, V11
+   Butts C.T., 2014, sna: Tools for social network analysis
+   CASHDAN EA, 1985, MAN, V20, P454, DOI 10.2307/2802441
+   COATE S, 1993, J DEV ECON, V40, P1, DOI 10.1016/0304-3878(93)90102-S
+   De Weerdt J, 2006, J DEV ECON, V81, P337, DOI 10.1016/j.jdeveco.2005.06.009
+   Dercon S, 1998, J DEV ECON, V55, P1, DOI 10.1016/S0304-3878(97)00054-0
+   Dercon S, 2002, WORLD BANK RES OBSER, V17, P141, DOI 10.1093/wbro/17.2.141
+   Ellis Frank., 2000, RURAL LIVELIHOODS DI
+   Evans-Pritchard E.E., 1940, NUER
+   FAFCHAMPS M, 1992, ECON DEV CULT CHANGE, V41, P147, DOI 10.1086/452001
+   Fafchamps M, 2003, J DEV ECON, V71, P261, DOI 10.1016/S0304-3878(03)00029-4
+   FAFCHAMPS M., 1999, J INT TRADE ECON DEV, V8, P257
+   FREEMAN LC, 1987, AM ANTHROPOL, V89, P310, DOI 10.1525/aa.1987.89.2.02a00020
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   GRANOVETTER M, 1985, AM J SOCIOL, V91, P481, DOI 10.1086/228311
+   Hamer JH, 2009, HIST ANTHROPOL, V20, P1, DOI 10.1080/02757200802611738
+   Hanneman RA, 2005, Introduction to social network methods
+   Herskovits MJ, 1926, AM ANTHROPOL, V28, P230, DOI 10.1525/aa.1926.28.1.02a00050
+   Hoddinott J., 2009, Networks and informal mutual support in 15 Ethiopian villages
+   Janssen MA, 2006, ECOL SOC, V11
+   Jayne TS, 2002, J DEV ECON, V68, P247, DOI 10.1016/S0304-3878(02)00013-5
+   KRACKHARDT D, 1988, SOC PSYCHOL QUART, V51, P123, DOI 10.2307/2786835
+   Lazarsfeld P.F., 1954, Freedom and Control in Modern Society, P18, DOI DOI 10.1111/J.1467-8705.2012.02056_3.X
+   Leenders RTAJ, 2002, SOC NETWORKS, V24, P21, DOI 10.1016/S0378-8733(01)00049-1
+   Ligon E, 2002, REV ECON STUD, V69, P209, DOI 10.1111/1467-937X.00204
+   Marcus H.G., 2002, HIST ETHIOPIA, V2nd
+   McCabe JT., 2004, Cattle Bring Us to Our Enemies: Turkana Ecology, Politics, and Raiding in a Disequilibrium System
+   McPeak J, 2004, OXFORD ECON PAP, V56, P263, DOI 10.1093/oep/gpf040
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   Platteau JP, 1997, J DEV STUD, V33, P764, DOI 10.1080/00220389708422495
+   Rahman M. A., 2011, The Agriculturists, V9, P73
+   Saint W., 2004, J HIGHER ED AFRICA, V2, P83
+   Santos Paulo., 2006, INFORMAL INSURANCE P
+   SCHNEIDER HK, 1957, AM ANTHROPOL, V59, P278, DOI 10.1525/aa.1957.59.2.02a00080
+   TOWNSEND RM, 1994, ECONOMETRICA, V62, P539, DOI 10.2307/2951659
+   UDRY C, 1994, REV ECON STUD, V61, P495, DOI 10.2307/2297901
+   Wiggins S, 2010, WORLD DEV, V38, P1341, DOI 10.1016/j.worlddev.2009.06.013
+NR 58
+TC 27
+Z9 31
+U1 1
+U2 32
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JAN
+PY 2015
+VL 40
+BP 34
+EP 42
+DI 10.1016/j.socnet.2014.07.003
+PG 9
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA AY5AI
+UT WOS:000347585500004
+DA 2024-11-22
+ER
+
+PT J
+AU Shea, CT
+   Menon, T
+   Smith, EB
+   Emich, K
+AF Shea, Catherine T.
+   Menon, Tanya
+   Smith, Edward B.
+   Emich, Kyle
+TI The affective antecedents of cognitive social network activation
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Social networks; Cognition; Affect; Relationships
+ID POSITIVE AFFECT; NEGATIVE AFFECT; POWER; INFORMATION; EMOTIONS;
+   JUDGMENT; BROADEN; SELF; REPRESENTATIONS; EMBARRASSMENT
+AB How might people's moment-to-moment feelings influence the social network contacts they call to mind? Three datasets indicate that experiencing positive affect leads people to cognitively activate larger and more sparsely connected social network structures, while experiencing negative affect leads them to activate smaller, redundant social network structures. A preliminary association emerged between positive affect and activating large, diversified network structures in the General Social Survey. To isolate causality, we then conducted two experiments where we randomly assigned participants to experience either positive or negative affect. Both studies supported the hypothesized relationship between affect and cognitive network activation. These findings contribute to a burgeoning literature examining how psychological states shape the activation of social network structures. (C) 2015 Elsevier B.V. All rights reserved.
+C1 [Shea, Catherine T.; Smith, Edward B.] Northwestern Univ, Kellogg Sch Management, Evanston, IL 60608 USA.
+   [Menon, Tanya] Ohio State Univ, Fisher Coll Business, Columbus, OH 43210 USA.
+   [Emich, Kyle] Univ Delaware, Alfred Lerner Coll Business & Econ, Newark, DE 19716 USA.
+C3 Northwestern University; University System of Ohio; Ohio State
+   University; University of Delaware
+RP Shea, CT (corresponding author), Northwestern Univ, Kellogg Sch Management, 2001 Sheridan Dr, Evanston, IL 60608 USA.
+EM c-shea@kellogg.northwestern.edu
+OI /0000-0002-5903-880X; Emich, Kyle/0000-0003-4199-4630
+CR Amabile TM, 2005, ADMIN SCI QUART, V50, P367, DOI 10.2189/asqu.2005.50.3.367
+   [Anonymous], FINE PRIVATE PLACE
+   [Anonymous], 2008, Handbook of emotions, DOI 10.1017/CBO9780511609978.013
+   [Anonymous], 1995, SELF CONSCIOUS EMOTI
+   [Anonymous], SOC INDIC RES
+   [Anonymous], PSYCHOL B
+   [Anonymous], 1978, Social Psychology, DOI [10.2307/3033570, DOI 10.2307/3033570]
+   [Anonymous], 1992, Structural holes
+   [Anonymous], 2007, SOCIAL PSYCHOL HDB B
+   Ashton-James CE, 2009, PSYCHOL SCI, V20, P340, DOI 10.1111/j.1467-9280.2009.02299.x
+   Bailey S, 1999, SOC NETWORKS, V21, P287, DOI 10.1016/S0378-8733(99)00013-1
+   Baron-Cohen S, 1998, NATURE, V392, P459, DOI 10.1038/33076
+   Batson CD., 1992, Emotion, P294
+   Blascovich J, 2001, PSYCHOL SCI, V12, P225, DOI 10.1111/1467-9280.00340
+   Bodenhausen G.V., 1993, AFFECT COGNITION STE, P13, DOI DOI 10.1016/B978-0-08-088579-7.50006-5
+   BODENHAUSEN GV, 1994, EUR J SOC PSYCHOL, V24, P45, DOI 10.1002/ejsp.2420240104
+   BODENHAUSEN GV, 1994, J PERS SOC PSYCHOL, V66, P621, DOI 10.1037/0022-3514.66.4.621
+   Borgatti S.P., 2011, Handbook of social network analysis
+   Bramesfeld KD, 2008, BRIT J SOC PSYCHOL, V47, P285, DOI 10.1348/000712607X218295
+   Brashears ME, 2013, SCI REP-UK, V3, DOI 10.1038/srep01513
+   Bridwell-Mitchell EN, 2014, ORGAN SCI, V25, P401, DOI 10.1287/orsc.2013.0840
+   Brooks AW, 2014, J EXP PSYCHOL GEN, V143, P1144, DOI 10.1037/a0035325
+   Buhrmester M, 2011, PERSPECT PSYCHOL SCI, V6, P3, DOI 10.1177/1745691610393980
+   BURT RS, 1984, SOC NETWORKS, V6, P293, DOI 10.1016/0378-8733(84)90007-8
+   BURT RS, 1980, ANNU REV SOCIOL, V6, P79, DOI 10.1146/annurev.so.06.080180.000455
+   Cacioppo JT, 2009, J PERS SOC PSYCHOL, V97, P977, DOI 10.1037/a0016076
+   Casciaro T, 1998, SOC NETWORKS, V20, P331, DOI 10.1016/S0378-8733(98)00008-2
+   Casciaro T, 1999, MOTIV EMOTION, V23, P285, DOI 10.1023/A:1021390826308
+   Casciaro T, 2014, RES SOCIOL ORGAN-RES, V40, P219, DOI 10.1108/S0733-558X(2014)0000040011
+   Casciaro T, 2008, ADMIN SCI QUART, V53, P655, DOI 10.2189/asqu.53.4.655
+   Chua RYJ, 2008, ACAD MANAGE J, V51, P436
+   Clore G.L., 2006, Affect as information about liking, efficacy, and importance
+   Derfler-Rozin R, 2010, ORGAN BEHAV HUM DEC, V112, P140, DOI 10.1016/j.obhdp.2010.02.005
+   DOVIDIO JF, 1995, PERS SOC PSYCHOL B, V21, P856, DOI 10.1177/0146167295218009
+   Drolet AL, 2000, J EXP SOC PSYCHOL, V36, P26, DOI 10.1006/jesp.1999.1395
+   Dunn JR, 2005, J PERS SOC PSYCHOL, V88, P736, DOI 10.1037/0022-3514.88.5.736
+   Ekman P., 1994, The Nature of Emotion: Fundamental Questions
+   Emich KJ, 2014, ORGAN BEHAV HUM DEC, V124, P122, DOI 10.1016/j.obhdp.2014.03.001
+   EMIRBAYER M, 1994, AM J SOCIOL, V99, P1411, DOI 10.1086/230450
+   Estrada CA, 1997, ORGAN BEHAV HUM DEC, V72, P117, DOI 10.1006/obhd.1997.2734
+   Feinberg M, 2012, J PERS SOC PSYCHOL, V102, P81, DOI 10.1037/a0025403
+   Finkel EJ, 2013, PSYCHOL SCI, V24, P1595, DOI 10.1177/0956797612474938
+   Flynn FJ, 2012, J APPL PSYCHOL, V97, P124, DOI 10.1037/a0024166
+   Fredrickson BL, 2001, AM PSYCHOL, V56, P218, DOI 10.1037/0003-066X.56.3.218
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   Gable P, 2010, PSYCHOL SCI, V21, P211, DOI 10.1177/0956797609359622
+   Galinsky AD, 2003, J PERS SOC PSYCHOL, V85, P453, DOI 10.1037/0022-3514.85.3.453
+   Galinsky AD, 2013, PSYCHOL SCI, V24, P2020, DOI 10.1177/0956797613482943
+   Gelfand MJ, 2011, SCIENCE, V332, P1100, DOI 10.1126/science.1197754
+   Gino F., 2012, Handbook of conflict resolution
+   Gottman JM, 1998, ANNU REV PSYCHOL, V49, P169, DOI 10.1146/annurev.psych.49.1.169
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Gruenfeld DH, 2008, J PERS SOC PSYCHOL, V95, P111, DOI 10.1037/0022-3514.95.1.111
+   Harmon-Jones E, 2013, CURR DIR PSYCHOL SCI, V22, P301, DOI 10.1177/0963721413481353
+   Hill SE, 2011, J PERS SOC PSYCHOL, V101, P653, DOI 10.1037/a0023904
+   IBARRA H, 1993, ACAD MANAGE REV, V18, P56, DOI 10.5465/AMR.1993.3997507
+   ISEN AM, 1991, MED DECIS MAKING, V11, P221, DOI 10.1177/0272989X9101100313
+   ISEN AM, 1978, J PERS SOC PSYCHOL, V36, P1, DOI 10.1037/0022-3514.36.1.1
+   ISEN AM, 1987, J PERS SOC PSYCHOL, V52, P1122, DOI 10.1037/0022-3514.52.6.1122
+   Janicik GA, 2005, J PERS SOC PSYCHOL, V88, P348, DOI 10.1037/0022-3514.88.2.348
+   Keltner D, 2003, PSYCHOL REV, V110, P265, DOI 10.1037/0033-295X.110.2.265
+   KELTNER D, 1995, J PERS SOC PSYCHOL, V68, P441, DOI 10.1037/0022-3514.68.3.441
+   Kilduff M, 2006, ACAD MANAGE REV, V31, P1031, DOI 10.5465/AMR.2006.22528168
+   Klein KJ, 2004, ACAD MANAGE J, V47, P952, DOI 10.5465/20159634
+   Kok BE, 2013, PSYCHOL SCI, V24, P1123, DOI 10.1177/0956797612470827
+   KRACKHARDT D, 1987, SOC NETWORKS, V9, P109, DOI 10.1016/0378-8733(87)90009-8
+   KRACKHARDT D, 1990, ADMIN SCI QUART, V35, P342, DOI 10.2307/2393394
+   KROSNICK JA, 1987, PUBLIC OPIN QUART, V51, P201, DOI 10.1086/269029
+   Labianca G, 2006, ACAD MANAGE REV, V31, P596, DOI [10.5465/AMR.2006.21318920, 10.2307/20159231]
+   Lawler EJ, 2001, AM J SOCIOL, V107, P321, DOI 10.1086/324071
+   Lazarus R. S., 1991, EMOTION ADAPTION
+   Mauss IB, 2011, J PERS SOC PSYCHOL, V100, P738, DOI 10.1037/a0022410
+   McCarthy John., 2001, HDB SOCIOLOGICAL THE
+   Menon T, 2014, SOC SCI RES, V45, P117, DOI 10.1016/j.ssresearch.2014.01.001
+   Merluzzi J, 2013, SOC NETWORKS, V35, P331, DOI 10.1016/j.socnet.2013.03.004
+   MICHAELSON A, 1992, SOC PSYCHOL QUART, V55, P300, DOI 10.2307/2786798
+   MOORE G, 1990, AM SOCIOL REV, V55, P726, DOI 10.2307/2095868
+   Narayanan J, 2013, ORGAN BEHAV HUM DEC, V122, P257, DOI 10.1016/j.obhdp.2013.08.006
+   PARROTT WG, 1993, J PERS SOC PSYCHOL, V64, P906, DOI 10.1037/0022-3514.64.6.906
+   Pustejovsky JE, 2009, SOC NETWORKS, V31, P221, DOI 10.1016/j.socnet.2009.06.001
+   Russell JA, 1999, J PERS SOC PSYCHOL, V76, P805, DOI 10.1037/0022-3514.76.5.805
+   RUSSELL JA, 1980, J PERS SOC PSYCHOL, V39, P1161, DOI 10.1037/h0077714
+   Shariff AF, 2009, EMOTION, V9, P631, DOI 10.1037/a0017089
+   Smith EB, 2012, ORGAN SCI, V23, P67, DOI 10.1287/orsc.1100.0643
+   Smith-Lovin L, 2007, SOC PSYCHOL QUART, V70, P106, DOI 10.1177/019027250707000203
+   Spillman Lyn., 1995, CURR PERSPECT SOC TH, V15, P129
+   STAW BM, 1993, ADMIN SCI QUART, V38, P304, DOI 10.2307/2393415
+   Steele CM, 1997, AM PSYCHOL, V52, P613, DOI 10.1037/0003-066X.52.6.613
+   Thaler RH., 2021, NUDGE FINAL EDITION
+   Tiedens LZ, 2001, J PERS SOC PSYCHOL, V81, P973, DOI 10.1037//0022-3514.81.6.973
+   Tiedens LZ, 2001, J PERS SOC PSYCHOL, V80, P86, DOI 10.1037//0022-3514.80.1.86
+   TOURANGEAU R, 1988, PSYCHOL BULL, V103, P299, DOI 10.1037/0033-2909.103.3.299
+   TVERSKY A, 1974, SCIENCE, V185, P1124, DOI 10.1126/science.185.4157.1124
+   Umphress EE, 2003, ORGAN SCI, V14, P738, DOI 10.1287/orsc.14.6.738.24865
+   Urada DI, 2000, J PERS SOC PSYCHOL, V78, P417, DOI 10.1037//0022-3514.78.3.417
+   Uzzi B, 1997, ADMIN SCI QUART, V42, P35, DOI 10.2307/2393808
+   Vaisey S, 2010, SOC FORCES, V88, P1595
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   Waugh Christian E, 2006, J Posit Psychol, V1, P93, DOI 10.1080/17439760500510569
+   Wellman B, 1997, SOC NETWORKS, V19, P27, DOI 10.1016/S0378-8733(96)00289-4
+   White HC, 1997, SOCIOL FORUM, V12, P53, DOI 10.1023/A:1024604606367
+   Williams LA, 2008, J PERS SOC PSYCHOL, V94, P1007, DOI 10.1037/0022-3514.94.6.1007
+NR 102
+TC 37
+Z9 43
+U1 1
+U2 53
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD OCT
+PY 2015
+VL 43
+BP 91
+EP 99
+DI 10.1016/j.socnet.2015.01.003
+PG 9
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA CN7PL
+UT WOS:000358626400009
+DA 2024-11-22
+ER
+
+PT J
+AU Bilecen, B
+   Faist, T
+AF Bilecen, Basak
+   Faist, Thomas
+TI International doctoral students as knowledge brokers: reciprocity, trust
+   and solidarity in transnational networks
+SO GLOBAL NETWORKS-A JOURNAL OF TRANSNATIONAL AFFAIRS
+LA English
+DT Article
+DE TRANSNATIONAL NETWORKS; BROKERAGE; KNOWLEDGE TRANSFER; INTERNATIONAL
+   DOCTORAL STUDENTS; EGOCENTRIC NETWORK ANALYSIS; GERMANY
+ID WEAK TIES; TACIT KNOWLEDGE; SOCIAL NETWORKS; STRENGTH; CONTEXT
+AB In this article, we examine the role of brokerage, the knowledge that brokers transfer and the social conditions of that transfer. Previous research suggests that highly skilled migrants spanning multiple locales have the advantage of being able to transfer knowledge as they move from one place to another. In this study, using a network perspective, we look at the activities of international doctoral students in their transfer of knowledge and illustrate the underlying social conditions of knowledge transfer through transnational friendship networks. Using a qualitative methodology, we examine the research questions and 35 in-depth interviews, as well as egocentric network analysis conducted in Germany. In the findings, we explore the social conditions of knowledge brokerage, including trust, reciprocity and solidarity. Finally, we discuss the implications for further research on knowledge sharing among brokers and international students.
+C1 [Bilecen, Basak; Faist, Thomas] Univ Bielefeld, Fac Sociol, D-33501 Bielefeld, Germany.
+C3 University of Bielefeld
+RP Bilecen, B (corresponding author), Univ Bielefeld, Fac Sociol, POB 100131, D-33501 Bielefeld, Germany.
+EM basak.bilecen@uni-bielefeld.de; thomas.faist@uni-bielefeld.de
+RI Bilecen, Basak/AAJ-2272-2021
+OI Bilecen, Basak/0000-0002-8545-9739
+FU ZEIT Foundation
+FX We would like to thank the ZEIT Foundation for providing funding and our
+   anonymous reviewers for their useful comments on earlier versions of
+   this article.
+CR Ackers H. L., 2007, DOCTORAL MOBILITY SO
+   Ackers L, 2008, MINERVA, V46, P411, DOI 10.1007/s11024-008-9110-2
+   Agrawal A, 2002, MANAGE SCI, V48, P44, DOI 10.1287/mnsc.48.1.44.14279
+   Agrawal A, 2001, INT J MANAG REV, V3, P285, DOI 10.1111/1468-2370.00069
+   Altbach PhilipG., 2001, J STUD INT EDUC, V5, P5
+   Amelina A, 2012, ETHNIC RACIAL STUD, V35, P1707, DOI 10.1080/01419870.2012.659273
+   [Anonymous], 63 COMCAD
+   Azarian GR, 2005, GENERAL SOCIOLOGY OF HARRISON C WHITE: CHAOS AND ORDER IN NETWORKS, P1, DOI 10.1057/9780230596719
+   Bauder H, 2015, INT MIGR, V53, P83, DOI 10.1111/j.1468-2435.2012.00783.x
+   Becker Lawrence., 1986, RECIPROCITY
+   Bilecen B., 2012, TRANSNATIONAL SOCIAL, V2, P139, DOI [10.1080/21931674.2012.10820731, DOI 10.1080/21931674.2012.10820731]
+   Bilecen B., 2014, International student mobility and transnational friendships
+   Bilecen B, 2013, COMPARE, V43, P667, DOI 10.1080/03057925.2013.821329
+   Borgatti S. P., 2002, NETDRAW SOCIAL NETWO
+   Borgatti S.P., 2002, Analytic Technologies, VVolume 1, DOI [10.1111/j.1439-0310.2009.01613.x, DOI 10.1111/J.1439-0310.2009.01613.X]
+   Borgatti SP, 2003, J MANAGE, V29, P991, DOI 10.1016/S0149-2063(03)00087-4
+   Boyer ErnestL., 1991, College Teaching, V39, P11, DOI DOI 10.1080/87567555.1991.10532213
+   Brooks R, 2011, STUDENT MOBILITIES, MIGRATION AND THE INTERNATIONALIZATION OF HIGHER EDUCATION, P1, DOI 10.1057/9780230305588
+   Burt R. S, 1992, STRUCTURAL HOLES SOC
+   Burt RS, 2000, RES ORGAN BEHAV, V22, P345, DOI 10.1016/S0191-3085(00)22009-1
+   Burt RS, 2004, AM J SOCIOL, V110, P349, DOI 10.1086/421787
+   Burt RS, 1997, ADMIN SCI QUART, V42, P339, DOI 10.2307/2393923
+   Chellaraj G, 2008, REV INT ECON, V16, P444, DOI 10.1111/j.1467-9396.2007.00714.x
+   CRESPI G, 2004, PRODUCTIVITY SCI INT
+   Crespi G., 2006, 200606 EUI RSCAS
+   Deaux K, 2003, SOC PSYCHOL QUART, V66, P101, DOI 10.2307/1519842
+   Enders J, 2005, HIGH EDUC, V49, P119, DOI 10.1007/s10734-004-2917-3
+   Everett M, 2005, SOC NETWORKS, V27, P31, DOI 10.1016/j.socnet.2004.11.007
+   Faist T, 2004, ARCH EUR SOCIOL, V45, P331, DOI 10.1017/S0003975604001481
+   Faist T., 2000, VOLUME DYNAMICS INT
+   Faist T., 2015, SOCIAL INCL IN PRESS
+   Faist T., 2012, Revue Europeene des migrations internationale, V28, P52, DOI [10.4000/remi.5761, DOI 10.4000/REMI.5761]
+   Fine GaryAlan., 1986, FRIENDSHIP SOCIAL IN, P185
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Guarnizo LE, 2003, AM J SOCIOL, V108, P1211, DOI 10.1086/375195
+   Hansen MT, 1999, ADMIN SCI QUART, V44, P82, DOI 10.2307/2667032
+   Hargadon AB, 2002, RES ORGAN BEHAV, V24, P41, DOI 10.1016/S0191-3085(02)24003-4
+   Harvey WS, 2008, GLOBAL NETW, V8, P453, DOI 10.1111/j.1471-0374.2008.00234.x
+   Hashim IH, 2003, STRESS HEALTH, V19, P217, DOI 10.1002/smi.978
+   JAFFE AB, 1989, AM ECON REV, V79, P957
+   Jassimuddin S.M., 2005, MANAGE DECIS, V43, P102, DOI DOI 10.1108/00251740510572515
+   Jöns H, 2009, GLOBAL NETW, V9, P315
+   Kim T, 2007, WORLD YEARB EDUC, P319
+   King R, 2013, POPUL SPACE PLACE, V19, P127, DOI 10.1002/psp.1746
+   King Russell., 2002, International Journal of Population Geography, V8, P89, DOI DOI 10.1002/IJPG.246
+   Krackhardt D, 1999, RES SOC ORG, V16, P183
+   Larsen K, 2008, SCIENTOMETRICS, V74, P123, DOI 10.1007/s11192-008-0107-2
+   LERU (League of European Research Universities), 2007, LERU POS PAP
+   Levin D.Z., 1999, THESIS NW U EVANSTON
+   Levin DZ, 2004, MANAGE SCI, V50, P1477, DOI 10.1287/mnsc.1030.0136
+   LEWIS JD, 1985, SOC FORCES, V63, P967, DOI 10.2307/2578601
+   Lubit R, 2001, ORGAN DYN, V29, P164, DOI 10.1016/S0090-2616(01)00026-2
+   Marimuthu M., 2009, The Journal of International Social Research, V2, P265, DOI DOI 10.1017/CB09781107415324.004
+   Merton RobertK., 1937, Isis, V27, P493, DOI [10.1086/347276, DOI 10.1086/347276]
+   Montgomery C, 2009, J STUD INT EDUC, V13, P455, DOI 10.1177/1028315308321994
+   Murphy-Lejeune E., 2002, STUDENT MOBILITY NAR, DOI 10.4324/9780203167038
+   Nonaka I., 1995, KNOWLEDGE CREATING C
+   Nonaka I, 2009, ORGAN SCI, V20, P635, DOI 10.1287/orsc.1080.0412
+   Organisation for Economic Co-operation and Development (OECD), 2018, ED GLANC 2013 OECD I, DOI [DOI 10.1787/EAG-2018-EN, 10.1787/eag-2013-en, DOI 10.1787/EAG-2013-EN]
+   Ponds R, 2010, J ECON GEOGR, V10, P231, DOI 10.1093/jeg/lbp036
+   Raghuram P, 2013, POPUL SPACE PLACE, V19, P138, DOI 10.1002/psp.1747
+   Reagans R, 2003, ADMIN SCI QUART, V48, P240, DOI 10.2307/3556658
+   Robertson S, 2011, ETHNIC RACIAL STUD, V34, P2192, DOI 10.1080/01419870.2011.558590
+   Saxenian A, 1994, REGIONAL ADVANTAGE C, V128
+   Scott P., 1997, TERT EDUC MANAG, V3, P5
+   Shapin Steven., 1994, SOCIAL HIST TRUTH
+   Simmel G., 1995, SOZIOLOGIE UNTERSUCH, V11
+   Simmel G., 1983, Soziologie. Untersuchungen uber die Formen der Vergesellschaftung, V6
+   Simmel G., 1950, SOCIOLOGY G SIMMEL
+   Sombart Werner., 2001, EC LIFE MODERN AGE
+   Stehr N., 2012, WILEY BLACKWELL ENCY, P1237, DOI [10.1002/9780470670590, DOI 10.1002/9780470670590]
+   Stehr N., 1994, Knowledge Society
+   Teichler U., 2001, EUROPEAN J ED, V36, P443, DOI DOI 10.1111/1467-3435.00081
+   Uzzi B, 1997, ADMIN SCI QUART, V42, P35, DOI 10.2307/2393808
+   Vertovec S., 2002, TRANSNATIONAL NETWOR
+   WALKER G, 1985, ADMIN SCI QUART, V30, P103, DOI 10.2307/2392814
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   Waters JL, 2012, GEOGR COMPASS, V6, P123, DOI 10.1111/j.1749-8198.2011.00473.x
+   Wray KB, 2006, STUD HIST PHILOS SCI, V37, P505, DOI 10.1016/j.shpsa.2005.07.011
+   Zéghal D, 2010, J INTELLECT CAP, V11, P39, DOI 10.1108/14691931011013325
+NR 81
+TC 47
+Z9 53
+U1 0
+U2 41
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1470-2266
+EI 1471-0374
+J9 GLOBAL NETW
+JI Glob. Netw.
+PD APR
+PY 2015
+VL 15
+IS 2
+BP 217
+EP 235
+DI 10.1111/glob.12069
+PG 19
+WC Anthropology; Geography; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Geography; Sociology
+GA CD0JI
+UT WOS:000350757700005
+OA Bronze
+DA 2024-11-22
+ER

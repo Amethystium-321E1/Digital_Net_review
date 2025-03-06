@@ -1,0 +1,559 @@
+
+PT J
+AU Hirshman, BR
+   St Charles, J
+   Carley, KM
+AF Hirshman, Brian R.
+   St Charles, Jesse
+   Carley, Kathleen M.
+TI Leaving us in tiers: can homophily be used to generate tiering effects?
+SO COMPUTATIONAL AND MATHEMATICAL ORGANIZATION THEORY
+LA English
+DT Article
+DE Homophily; Social group size; Tiering; Agent-based simulation; Dynamic
+   network analysis
+ID SOCIAL NETWORK; SIZE; CENTRALITY
+AB Substantial evidence indicates that our social networks are divided into tiers in which people have a few very close social support group, a larger set of friends, and a much larger number of relatively distant acquaintances. Because homophily-the principle that like seeks like-has been suggested as a mechanism by which people interact, it may also provide a mechanism that generates such frequencies and distributions. However, our multi-agent simulation tool, Construct, suggests that a slight supplement to a knowledge homophily model-the inclusion of several highly salient personal facts that are infrequently shared-can more successfully lead to the tiering behavior often observed in human networks than a simplistic homophily model. Our findings imply that homophily on both general and personal facts is necessary in order to achieve realistic frequencies of interaction and distributions of interaction partners. Implications of the model are discussed, and recommendations are provided for simulation designers seeking to use homophily models to explain human interaction patterns.
+C1 [Hirshman, Brian R.; St Charles, Jesse; Carley, Kathleen M.] Carnegie Mellon Univ, Computat Org & Soc Program, Sch Comp Sci, Pittsburgh, PA 15213 USA.
+C3 Carnegie Mellon University
+RP Hirshman, BR (corresponding author), Carnegie Mellon Univ, Computat Org & Soc Program, Sch Comp Sci, 5000 Forbes Ave, Pittsburgh, PA 15213 USA.
+EM hirshman@cs.cmu.edu; jstcharl@cs.cmu.edu; kathleen.carley@cs.cmu.edu
+OI Carley, Kathleen M./0000-0002-6356-0238
+CR Agneessens F, 2006, SOC NETWORKS, V28, P427, DOI 10.1016/j.socnet.2005.10.001
+   Anderson BS, 1999, SOC NETWORKS, V21, P239, DOI 10.1016/S0378-8733(99)00011-8
+   Anderson CJ, 1999, SOC NETWORKS, V21, P37, DOI 10.1016/S0378-8733(98)00012-4
+   Anderson J., 1983, The Architecture of Cognition, DOI DOI 10.4324/9781315799438
+   [Anonymous], 2006, Methodology
+   [Anonymous], 1996, Computational mathematical organization theory
+   [Anonymous], 1999, Emergence
+   Bandura A, 2001, MEDIA PSYCHOL, V3, P265, DOI 10.1207/S1532785XMEP0303_03
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   BARNLUND DC, 1963, SOCIOMETRY, V26, P467, DOI 10.2307/2786149
+   Borgatti SP, 2006, SOC NETWORKS, V28, P124, DOI 10.1016/j.socnet.2005.05.001
+   Borgatti SP, 2003, J MANAGE, V29, P991, DOI 10.1016/S0149-2063(03)00087-4
+   BURT RS, 1992, NETWORKS AND ORGANIZATIONS : STRUCTURE, FORM, AND ACTION, P57
+   Butts C.T., 2002, Spatial Models of Large-scale Interpersonal Networks
+   CARLEY K, 1991, AM SOCIOL REV, V56, P331, DOI 10.2307/2096108
+   CARLEY K, 1986, J MATH SOCIOL, V12, P137, DOI 10.1080/0022250X.1986.9990010
+   Carley KM, 2009, TOP COGN SCI, V1, P621, DOI 10.1111/j.1756-8765.2009.01037.x
+   Carley KathleenM., 1995, Computational and Mathematical Organization Theory, V1, P39, DOI DOI 10.1007/BF01307827
+   Carley KM, 2003, DYNAMIC SOCIAL NETWORK MODELING AND ANALYSIS, P133
+   Carley KM, 1999, RES SOC ORG, V16, P3
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   Cowan R, 2004, J ECON DYN CONTROL, V28, P1557, DOI 10.1016/j.jedc.2003.04.002
+   Dawkins R., 1976, The Selfish Gene
+   DUNBAR RIM, 1993, BEHAV BRAIN SCI, V16, P681, DOI 10.1017/S0140525X00032325
+   DUNBAR RIM, 1995, HUM NATURE-INT BIOS, V6, P273, DOI 10.1007/BF02734142
+   Dunbar RIM, 1998, EVOL ANTHROPOL, V6, P178, DOI 10.1002/(SICI)1520-6505(1998)6:5<178::AID-EVAN5>3.3.CO;2-P
+   Epstein J, 1999, GROWING ARTIFICIAL S
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   Friedkin NE, 1999, ADV GROUP, V16, P1
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Harrison DA, 1998, ACAD MANAGE J, V41, P96, DOI 10.5465/256901
+   HAYS RB, 1986, J PERS SOC PSYCHOL, V50, P305, DOI 10.1037/0022-3514.50.2.305
+   Hill RA, 2003, HUM NATURE-INT BIOS, V14, P53, DOI 10.1007/s12110-003-1016-y
+   Hirshman B, 2008, MODELING INFORM ACCE
+   Hirshman B, 2009, P 2009 HUM BEH COMP
+   Hirshman B, 2007, SPECIFYING NETWORKS
+   Hirshman B, 2008, IMPACT ED INTERVENTI
+   Hirshman B., 2007, Specifying Agents in Construct
+   Ilgen D., 2000, Computational Modeling of Behavior in Organizations: The Third Scientific Discipline
+   KILDUFF M, 1994, ACAD MANAGE J, V37, P87, DOI 10.5465/256771
+   Krackhardt D., 1998, P 1998 INT S COMM CO
+   Laird J. E., 2006, SOAR USERS MANUAL VE
+   Lawler EJ, 1999, ANNU REV SOCIOL, V25, P217, DOI 10.1146/annurev.soc.25.1.217
+   Lazarsfeld P.F., 1954, Freedom and Control in Modern Society, P18, DOI DOI 10.1111/J.1467-8705.2012.02056_3.X
+   Leskovec J, 2005, P 2005 C KNOWL DAT D
+   Leskovec J., 2008, Proceedings of the 17th International Conference on World Wide Web, DOI 10.1145/1367497.1367620
+   Leskovec J, P WORLD WID WEB 2008
+   Levine J., 1998, Handbook of social psychology, V4th
+   López L, 2002, PHYS REV E, V65, DOI 10.1103/PhysRevE.65.036107
+   MARSDEN PV, 1990, ANNU REV SOCIOL, V16, P435, DOI 10.1146/annurev.so.16.080190.002251
+   MARSDEN PV, 1987, AM SOCIOL REV, V52, P122, DOI 10.2307/2095397
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   MILGRAM S, 1967, PSYCHOL TODAY, V1, P61
+   Mniszewski S, 2008, P 2008 SPRING SIM MU
+   Newcomb Theodore M., 1961, The acquaintance process, DOI [10.1037/13156-000, DOI 10.1037/13156-000]
+   Newell A., 1990, Unified theories of cognition
+   Newman MEJ, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.036122
+   Olfati-Saber R, 2006, IEEE T AUTOMAT CONTR, V51, P401, DOI 10.1109/TAC.2005.864190
+   Rogers E. M., 1995, DIFFUSION INNOVATION
+   Schreiber C, 2004, CMUISRI04109 ID SCH
+   Stiller J, 2007, SOC NETWORKS, V29, P93, DOI 10.1016/j.socnet.2006.04.001
+   Thiriot S, 2008, P 5 C EUR SOC SIM AS
+   TURNER JC, 1994, PERS SOC PSYCHOL B, V20, P454, DOI 10.1177/0146167294205002
+   Valente T.W., 1995, NETWORK MODELS DIFFU
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   Wellman B, 1996, SOC NETWORKS, V18, P347, DOI 10.1016/0378-8733(95)00282-0
+   Wellman B, 1985, HEALTH EDUC BEHAV, V12, P5
+   Wong LH, 2006, PHYSICA A, V360, P99, DOI 10.1016/j.physa.2005.04.029
+   Zhou WX, 2005, P ROY SOC B-BIOL SCI, V272, P439, DOI 10.1098/rspb.2004.2970
+NR 69
+TC 16
+Z9 17
+U1 0
+U2 11
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1381-298X
+EI 1572-9346
+J9 COMPUT MATH ORGAN TH
+JI Comput. Math. Organ. Theory
+PD NOV
+PY 2011
+VL 17
+IS 4
+SI SI
+BP 318
+EP 343
+DI 10.1007/s10588-011-9088-4
+PG 26
+WC Computer Science, Interdisciplinary Applications; Mathematics,
+   Interdisciplinary Applications; Social Sciences, Mathematical Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science; Mathematics; Mathematical Methods In Social Sciences
+GA 852NK
+UT WOS:000297364500002
+DA 2024-11-22
+ER
+
+PT J
+AU Zhou, M
+AF Zhou, Min
+TI Intensification of geo-cultural homophily in global trade: Evidence from
+   the gravity model
+SO SOCIAL SCIENCE RESEARCH
+LA English
+DT Article
+DE Homophily; Geo-cultural homophily; Global trade; The gravity model;
+   Social network; Economic globalization
+ID INTERNATIONAL-TRADE; NETWORK ANALYSIS; SOCIAL-STRUCTURE; WORLD-SYSTEM;
+   ORGANIZATIONS; FRIENDSHIP; SEX; GLOBALIZATION; DETERMINANTS; ASSOCIATION
+AB This article extends the homophily principle (similarity breeds connection) found in many social networks to the study of global trade Using a large data set about global bilateral trade from 1950 through 2000 analyzed by the gravity model borrowed from international economics this study identifies increased geographic and cultural homophily in global trade suggesting that countries increasingly favor their geographically and culturally proximate counterparts in global trade Another analysis of bilateral trade data at the sector level produces an explanation for this observed intensification of geo-cultural homophily The technological and institutional Improvements facilitate disintegration of productive activities and product differentiation thereby intensifying geo-cultural homophily in the intermediate input and finished manufacture sectors moreover trade expansion in these geo-culturally sensitive sectors outpaces geo-culturally less sensitive sectors such as the raw material sector This differential expansion of trade across sectors shifts the composition of the overall global trade and makes it more subject to geo-cultural influences Taken together global trade has become more geo-culturally embedded Instead of eliminating geo-cultural homophily in global economic activities ironically the improved technologies provide better conditions for it to materialize and grow (C) 2010 Elsevier Inc All rights reserved
+C1 Harvard Univ, Dept Sociol, Cambridge, MA 02138 USA.
+C3 Harvard University
+RP Zhou, M (corresponding author), Harvard Univ, Dept Sociol, Cambridge, MA 02138 USA.
+RI Zhou, Min/R-7460-2019
+OI Zhou, Min/0000-0001-5509-6845
+CR ALISON DP, 2005, FIXED EFFECTS REGRES
+   ANDERSON JE, 1979, AM ECON REV, V69, P106
+   [Anonymous], WORLD FACTB 2006
+   [Anonymous], ANN REV SOCIOLOGY
+   [Anonymous], 1997, Regional trading blocs in the world economic system
+   [Anonymous], 1992, Structural holes
+   [Anonymous], WORLD EC OUTL
+   [Anonymous], 1998, REGIONALIZATION WORL
+   [Anonymous], 1949, Human behaviour and the principle of least-effort
+   [Anonymous], 2017, POLITY 4 PROJECT POL
+   [Anonymous], 1994, COMMODITY CHAINS GLO, DOI DOI 10.1016/j.foodpol.2007.10.002
+   Bandelj N, 2002, SOC FORCES, V81, P411, DOI 10.1353/sof.2003.0001
+   BERGSTRAND JH, 1989, REV ECON STAT, V71, P143, DOI 10.2307/1928061
+   BLAU PM, 1982, AM SOCIOL REV, V47, P45, DOI 10.2307/2095041
+   Bliss H, 1998, J POLIT, V60, P1126, DOI 10.2307/2647734
+   Block Fred., 1994, The Handbook of Economic Sociology, P691
+   BORGATTI S, 2009, UCINET 6 ANAL TECHNO
+   Cairncross F., 2001, DEATH DISTANCE COMMU
+   CAMERON AC, 2005, DEP EC WORKING PAPER
+   CAMPBELL JL, 1990, AM SOCIOL REV, V55, P634, DOI 10.2307/2095861
+   Castells M., 2006, Rise of the Network Society
+   CHASEDUNN C, 1995, ANNU REV SOCIOL, V21, P387, DOI 10.1146/annurev.so.21.080195.002131
+   Clark R, 2009, INT J COMP SOCIOL, V50, P5, DOI 10.1177/0020715208098615
+   Deardorff A.V., 1998, The Regionalization of the World Economy, DOI DOI 10.7208/CHICAGO/9780226260228.003.0002
+   Dekker D, 2003, J MATH SOCIOL, V27, P193, DOI 10.1080/00222500305893
+   Dekker D, 2007, PSYCHOMETRIKA, V72, P563, DOI 10.1007/s11336-007-9016-1
+   Dicken P., 2003, GLOBAL SHIFT RESHAPI, V4th
+   DIMAGGIO P, 1990, STRUCTURES CAPITAL S, P1
+   DiMaggio Paul., 1994, Socioeconomic Handbook, P27
+   DIXON WJ, 1993, POLIT RES QUART, V46, P5, DOI 10.2307/449053
+   ELSASS PM, 1994, HUM RELAT, V47, P431, DOI 10.1177/001872679404700404
+   Feenstra RC, 1998, J ECON PERSPECT, V12, P31, DOI 10.1257/jep.12.4.31
+   Feenstra RC, 1996, AM ECON REV, V86, P240
+   Feenstra RC, 2001, CAN J ECON, V34, P430, DOI 10.1111/0008-4085.00082
+   FELD SL, 1984, SOC FORCES, V62, P640, DOI 10.2307/2578704
+   Finkel S., 1995, Quantitative Applications in Social Science
+   Fischer C.S., 1977, NETWORKS PLACES SOCI
+   Fischer C.S., 1982, DWELL FRIENDS
+   Fligstein N, 2005, HANDBOOK OF ECONOMIC SOCIOLOGY, SECOND EDITION, P183
+   Friedman TL., 2005, WORLD IS FLAT BRIEF
+   Fujita M., 1999, SPATIAL EC CITIES RE
+   Gereffi G, 1999, J INT ECON, V48, P37, DOI 10.1016/S0022-1996(98)00075-0
+   GRANOVETTER M, 1985, AM J SOCIOL, V91, P481, DOI 10.1086/228311
+   Granovetter M, 1995, Getting a Job: A Study of Contacts and Careers
+   GUISO L, 2004, KELLOG SCH MANAGEMEN
+   Gulati R, 1995, ADMIN SCI QUART, V40, P619, DOI 10.2307/2393756
+   Halaby CN, 2004, ANNU REV SOCIOL, V30, P507, DOI 10.1146/annurev.soc.30.012703.110629
+   HALLINAN MT, 1985, SOC PSYCHOL QUART, V48, P3, DOI 10.2307/3033777
+   Hampton KN, 2000, LECT NOTES COMPUT SC, V1765, P194
+   Harvey D., 1995, CONDITION POSTMODERN
+   Hauser Robert M., 1982, Social Structure and Behavior: Essays in Honor of William Hamilton Sewell, P205
+   Helpman E., 1987, MARKET STRUCTURE FOR
+   Helpman E., 1987, J JAPANESE INT EC, V1, P62, DOI [10.1016/0889-1583(87)90027-X, DOI 10.1016/0889-1583(87)90027-X]
+   Henderson EA, 2004, BRIT J POLIT SCI, V34, P539, DOI 10.1017/S0007123404210171
+   Hirst P., 1999, GLOBALIZATION QUESTI, V2nd
+   Hofstede G., 1991, CULTURES ORG
+   HOUT M, 1982, AM J SOCIOL, V88, P397, DOI 10.1086/227679
+   Huckfeldt R., 1995, Citizens, politics, and social communication: Information and influence in an election campaign
+   HUMMELS D, 2001, PURDUE U CTR GLOBAL, V1152
+   Hummels D, 2007, J ECON PERSPECT, V21, P131, DOI 10.1257/jep.21.3.131
+   Huntington S.P., 1997, CLASH CIVILIZATIONS
+   HUSTON TL, 1978, ANNU REV PSYCHOL, V29, P115, DOI 10.1146/annurev.ps.29.020178.000555
+   IBARRA H, 1995, ACAD MANAGE J, V38, P673, DOI 10.5465/256742
+   Inglehart R, 2000, AM SOCIOL REV, V65, P19, DOI 10.2307/2657288
+   Ingram P, 2005, AM J SOCIOL, V111, P824, DOI 10.1086/497350
+   Irwin Michael D., 1994, HDB EC SOCIOLOGY, P342
+   JACOBSON HK, 1986, AM POLIT SCI REV, V80, P141, DOI 10.2307/1957088
+   Kaufer David., 1993, COMMUNICATION DISTAN
+   Kim S, 2002, SOC FORCES, V81, P445, DOI 10.1353/sof.2003.0014
+   KNOKE D, 1990, SOC FORCES, V68, P1041, DOI 10.2307/2579133
+   KRACKHARDT D, 1988, SOC NETWORKS, V10, P359, DOI 10.1016/0378-8733(88)90004-4
+   KRACKHARDT D, 1987, SOC NETWORKS, V9, P171, DOI 10.1016/0378-8733(87)90012-8
+   KRUEGER AO, 1998, REGIONALIZATION WORL, P259
+   KRUGMAN P, 1995, BROOKINGS PAP ECO AC, P327
+   Krugman P., 1991, Geography and trade
+   Leamer EE, 2001, J INT BUS STUD, V32, P641, DOI 10.1057/palgrave.jibs.84909988
+   LEVITT T, 1983, HARVARD BUS REV, V61, P92
+   LIAO TF, 1994, SOC FORCES, V73, P693, DOI 10.2307/2579826
+   LINCOLN JR, 1979, ADMIN SCI QUART, V24, P181, DOI 10.2307/2392493
+   LINCOLN JR, 1984, SOCIOL METHOD RES, V13, P45, DOI 10.1177/0049124184013001002
+   Louch H, 2000, SOC NETWORKS, V22, P45, DOI 10.1016/S0378-8733(00)00015-0
+   LOUIS WR, 1994, J IMP COMMONW HIST, V22, P462, DOI 10.1080/03086539408582936
+   Maccoby E.E., 1999, The two sexes: Growing up apart coming together
+   Mahutga MC, 2006, SOC FORCES, V84, P1863, DOI 10.1353/sof.2006.0098
+   Mansfield ED, 2000, AM POLIT SCI REV, V94, P305, DOI 10.2307/2586014
+   MARSDEN PV, 1988, SOC NETWORKS, V10, P57, DOI 10.1016/0378-8733(88)90010-X
+   MARSDEN PV, 1987, AM SOCIOL REV, V52, P122, DOI 10.2307/2095397
+   MCPHERSON JM, 1987, AM SOCIOL REV, V52, P370, DOI 10.2307/2095356
+   MCPHERSON JM, 1986, AM SOCIOL REV, V51, P61, DOI 10.2307/2095478
+   MCPHERSON JM, 1982, AM J SOCIOL, V87, P883, DOI 10.1086/227525
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Milner HV, 2005, INT ORGAN, V59, P107, DOI 10.1017/S002081830505006X
+   Milner HV, 1999, ANNU REV POLIT SCI, V2, P91, DOI 10.1146/annurev.polisci.2.1.91
+   Mizruchi MarkS., 1992, The Structure of Corporate Political Action: Interfirm Relations and their Consequences
+   MIZRUCHI MS, 1989, AM J SOCIOL, V95, P401, DOI 10.1086/229274
+   MIZRUCHI MS, 1993, SOC NETWORKS, V15, P275, DOI 10.1016/0378-8733(93)90009-A
+   Morrow JD, 1998, AM POLIT SCI REV, V92, P649, DOI 10.2307/2585487
+   Murphy CraigN., 1994, INT ORG IND CHANGE G
+   NEAL M, 1998, CULTURAL FACTOR CROS
+   Nelson J.M., 1990, Economic Crisis and Policy Choice: The Politics of Adjustment in Less Developed Countries
+   Nemeth RogerJ., 1985, REVIEW, V8, P517
+   Omae Ken'ichi., 1990, The Borderless World: Power and Strategy in the Interlinked Economy
+   Pevehouse J, 2004, CONFLICT MANAG PEACE, V21, P101, DOI 10.1080/07388940490463933
+   Popielarz PA, 1999, GENDER SOC, V13, P234, DOI 10.1177/089124399013002005
+   Rauch JE, 1999, J INT ECON, V48, P7, DOI 10.1016/S0022-1996(98)00009-9
+   REMMER KL, 1990, WORLD POLIT, V42, P315, DOI 10.2307/2010414
+   Reskin BF, 1999, ANNU REV SOCIOL, V25, P335, DOI 10.1146/annurev.soc.25.1.335
+   Romo FP, 1995, AM SOCIOL REV, V60, P874, DOI 10.2307/2096431
+   Rose AK, 2004, AM ECON REV, V94, P98, DOI 10.1257/000282804322970724
+   Russett Bruce., 2001, TRIANGULATING PEACE
+   SAMPSON RJ, 1984, SOC FORCES, V62, P618, DOI 10.2307/2578703
+   Schneider M, 1997, AM J POLIT SCI, V41, P1201, DOI 10.2307/2960487
+   SHRUM W, 1988, SOCIOL EDUC, V61, P227, DOI 10.2307/2112441
+   Sklair L., 1995, SOCIOLOGY GLOBAL SYS
+   SMITH DA, 1992, SOC FORCES, V70, P857, DOI 10.2307/2580193
+   SNYDER D, 1979, AM J SOCIOL, V84, P1096, DOI 10.1086/226902
+   *STAT CORP, 2007, STAT REL 100
+   Stewart JQ, 1948, SOCIOMETRY, V11, P31, DOI 10.2307/2785468
+   Stinnett DM, 2002, CONFLICT MANAG PEACE, V19, P59, DOI 10.1177/073889420201900203
+   Sturgeon T, 2008, J ECON GEOGR, V8, P297, DOI 10.1093/jeg/lbn007
+   SUDMAN S, 1988, SOC NETWORKS, V10, P93, DOI 10.1016/0378-8733(88)90012-3
+   TUMA NB, 1979, SOC FORCES, V57, P1265, DOI 10.2307/2577270
+   Uzzi B, 1996, AM SOCIOL REV, V61, P674, DOI 10.2307/2096399
+   VERBRUGGE LM, 1983, SOC FORCES, V62, P78, DOI 10.2307/2578348
+   VERBRUGGE LM, 1977, SOC FORCES, V56, P576, DOI 10.2307/2577741
+   Wallerstein I., 1976, MODERN WORLD SYSTEM
+   Wellman B, 1996, SOC NETWORKS, V18, P347, DOI 10.1016/0378-8733(95)00282-0
+   Wooldridge JM, 2002, ECONOMETRIC ANAL CRO
+   YAMAGUCHI K, 1990, J AM STAT ASSOC, V85, P356, DOI 10.2307/2289771
+   Zelizer Viviana, 2003, NEW EC SOCIOLOGY DEV, P101
+   Zipf GK, 1946, AM SOCIOL REV, V11, P677, DOI 10.2307/2087063
+NR 131
+TC 54
+Z9 68
+U1 2
+U2 40
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0049-089X
+EI 1096-0317
+J9 SOC SCI RES
+JI Soc. Sci. Res.
+PD JAN
+PY 2011
+VL 40
+IS 1
+BP 193
+EP 209
+DI 10.1016/j.ssresearch.2010.07.002
+PG 17
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA 689ZQ
+UT WOS:000284970000014
+DA 2024-11-22
+ER
+
+PT J
+AU Akaeda, N
+AF Akaeda, Naoki
+TI Examinations of Urban Effects on Homophily in Japan: Multilevel Analysis
+   of Ego-Centric Network Data
+SO SOCIOLOGICAL THEORY AND METHODS
+LA Japanese
+DT Article
+DE urban effect; homophily; ego-centric network; multilevel analysis
+ID PERSONAL NETWORKS; SOCIAL NETWORKS
+AB In urban sociology, C.S. Fischer has argued that urbanism promote homophily of networks. Because urbanism gives us low limitation of social relations, people choice alters who has similar characteristic. This argument is a major focus of Fischer's subcultural theory of urbanism, but only few attempts have so far been made at studying about urban effect on homophily in Japan.
+   So I applied the multilevel model to ego-centric network data, and investigated to urban effects on homophily of four dimensions that are age, education, occupation, and hobbies. By multilevel analysis, I obtain two results. First, urban effects have not appeared in homophily of age, education, occupation. Second, urbanism promote homophily of hobbies. These results showed that homophily of hobbies is more important in Japan, and we need to reexamine subcultural theory through sharing hobbies.
+C1 Osaka Univ, Grad Sch Human Sci, Suita, Osaka 5650871, Japan.
+C3 Osaka University
+RP Akaeda, N (corresponding author), Osaka Univ, Grad Sch Human Sci, 1-2 Yamadaoka, Suita, Osaka 5650871, Japan.
+CR [Anonymous], AM SOCIOLOGICAL REV
+   [Anonymous], 1973, Bonds of pluralism: The form and substance of urban social networks
+   [Anonymous], INT MIGR OUTL 2010
+   Beggs JJ, 1996, RURAL SOCIOL, V61, P306
+   DENG Z, 1991, SOC NETWORKS, V13, P35, DOI 10.1016/0378-8733(91)90012-I
+   FELD SL, 1981, AM SOCIOL REV, V47, P797
+   Fischer Claude., 1977, NETWORKS PLACES, P1
+   Fischer Claude S., 1982, To Dwell among Friends: Personal Networks in Town and City
+   FISCHER CS, 1975, AM J SOCIOL, V80, P1319, DOI 10.1086/225993
+   GANS HJ, 1962, HUMAN BEHAV SOCIAL P, P232
+   Gelman A, 2007, DATA ANAL USING REGR
+   Jackson RobertMax., 1977, NETWORKS PLACES SOCI, P39
+   Lazarsfeld P.F., 1954, Freedom and Control in Modern Society, P18, DOI DOI 10.1111/J.1467-8705.2012.02056_3.X
+   MARSDEN PV, 1988, SOC NETWORKS, V10, P57, DOI 10.1016/0378-8733(88)90010-X
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mollenhorst G, 2008, SOC NETWORKS, V30, P60, DOI 10.1016/j.socnet.2007.07.003
+   van Duijn MAJ, 1999, SOC NETWORKS, V21, P187, DOI 10.1016/S0378-8733(99)00009-X
+   Wellman Barry., 2001, SOCIAL CAPITAL, P233
+   Wirth L., 1938, ENVIRON PLANN A, V44, P1, DOI [DOI 10.1086/217913, 10.1086/217913]
+   NOMOI
+   PHTOPIKH
+NR 21
+TC 3
+Z9 3
+U1 0
+U2 14
+PU JAPANESE ASSOC MATHEMATICAL SOCIOLOGY
+PI SENDAI
+PA C/O J A M S EXECUTIVE OFFICE, TOHOKU UNIV, DEPT BEHAVIORAL SCIENCE,
+   SENDAI, 980-8576, JAPAN
+SN 0913-1442
+J9 SOCIOL THEOR METHOD
+JI Sociol. Theor. Methods
+PD SEP
+PY 2011
+VL 26
+IS 2
+BP 321
+EP 337
+PG 17
+WC Social Sciences, Mathematical Methods; Sociology
+WE Social Science Citation Index (SSCI)
+SC Mathematical Methods In Social Sciences; Sociology
+GA 841WT
+UT WOS:000296546600006
+DA 2024-11-22
+ER
+
+PT J
+AU Winkler, N
+   Zentarra, A
+   Windzio, M
+AF Winkler, Niels
+   Zentarra, Annabel
+   Windzio, Michael
+TI Homophily Among Good Friends. Close and Weak Friendships Between
+   Children With Migration Background and Native Peers
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+ID INTERETHNIC FRIENDSHIP; INTERRACIAL FRIENDSHIP; SOCIAL NETWORKS; STRONG
+   TIES; INTEGRATION; MODELS; 2ND-GENERATION; NEIGHBORHOOD; SEGREGATION;
+   IMMIGRANTS
+AB Modifying M. Granovetters distinction between strong and weak tie friendships, social assimilation of immigrant children will be investigated from a social network perspective. Using data from primary school classes we start from the assumption that particularly close friendships have a positive impact on the process of acculturation. We investigate the role of ethnic homophily in the formation of weak and close friendships between immigrant and native children. In doing so, alternative explanations of friendship formation like social homophily as a mediator of ethnic homophily will be considered measured by similarity of ego and alter in terms of cultural capital "in the objectified state". As a result, immigrant children of Turkish origin have friendships with native peers, but these connections tend to be rather weak tie relations. Dyads of two Turkish children, in contrast, chances of close friendships are higher. It will be argued that these results are in line with the concept of selective acculturation of immigrant children of Turkish origin.
+C1 [Winkler, Niels] Stat Landesamt Bremen, D-28195 Bremen, Germany.
+   [Zentarra, Annabel; Windzio, Michael] Univ Bremen, EMPAS BIGSSS, D-28334 Bremen, Germany.
+C3 University of Bremen
+RP Winkler, N (corresponding author), Stat Landesamt Bremen, Weide 14-16, D-28195 Bremen, Germany.
+EM niels.winkler@statistik-bremen.de; zentarra@bigsss-bremen.de;
+   mwindzio@empas.uni-bremen.de
+CR Alba R., 1999, HDB INT MIGRATION AM, P137
+   ALBA R, 2008, MIGRATION INTEGRATIO, P37
+   Anderson CJ, 1999, SOC NETWORKS, V21, P37, DOI 10.1016/S0378-8733(98)00012-4
+   [Anonymous], QUANTITATIVE APPL SO
+   [Anonymous], 2005, Models and Methods in Social Network Analysis, DOI DOI 10.1017/CBO9780511811395.008
+   [Anonymous], 2007, SOZIALKAPITAL GRUNDL
+   [Anonymous], MIGRATION INTEGRATIO
+   [Anonymous], 2006, Immigrant America: A Portrait
+   Blau P.M., 1994, Structural context of opportunities
+   Bourdieu Pierre., 1983, SOZIALE UNGLEICHHEIT, P183, DOI [DOI 10.1007/978-3-531-18944-4, 10.1007/978-3-531-18944-415, DOI 10.1007/978-3-531-18944-4_15]
+   Burk WJ, 2008, REV FR SOCIOL, V49, P499, DOI 10.3917/rfs.493.0499
+   Coleman J.S., 1994, FDN SOCIAL THEORY
+   ELWERT G, 1982, KOLNER Z SOZIOLOGIE, V34, P696
+   ESSER H, 2008, KOLNER Z SOZIOLOGIE, P81
+   Esser H., 1980, ASPEKTE WANDERUNGSSO
+   Esser H., 2006, Sprache und Integration. Die sozialen Bedingungen und Folgen des Spracherwerbs von Migranten
+   Goodreau SM, 2009, DEMOGRAPHY, V46, P103, DOI 10.1353/dem.0.0045
+   Gordon M., 1964, ASSIMILATION AM LIFE
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   HALLINAN MT, 1989, AM SOCIOL REV, V54, P67, DOI 10.2307/2095662
+   HALLINAN MT, 1987, AM SOCIOL REV, V52, P653, DOI 10.2307/2095601
+   HANSELL S, 1984, SOC PSYCHOL QUART, V47, P316, DOI 10.2307/3033634
+   Haug S, 2003, KOLNER Z SOZIOL SOZ, V55, P716, DOI 10.1007/s11577-003-0118-1
+   Haug S., 2006, Diskurs Kindheits- und Jugendforschung, V1, P75
+   Heider F, 1946, J PSYCHOL, V21, P107, DOI 10.1080/00223980.1946.9917275
+   Heinz W., 1996, SOC BIOGRAPHY, P51
+   Hipp JR, 2009, CITY COMMUNITY, V8, P5, DOI 10.1111/j.1540-6040.2009.01267.x
+   Hyvönen H, 2008, TRAMES-J HUMANIT SOC, V12, P421, DOI 10.3176/tr.2008.4.04
+   Jansen Dorothee, 2003, Einfuhrung in die Netzwerkanalyse
+   JANSSEN A, 2006, POLIT ZEITGESCHICHTE, P11
+   Jencks C., 1990, INNER CITY POVERTY U, DOI DOI 10.17226/1539
+   Joyner K, 2000, SOC SCI QUART, V81, P810
+   Kalter F, 2006, Z SOZIOL, V35, P144
+   KECSKES R, 2001, Z TURKEISTUDIEN, V14, P161
+   Kecskes R., 2003, Zeitschrift fur Soziologie der Erziehung und Sozialisation, V23, P68
+   Kelly M.Patricia Fernandez., 1995, EC SOCIOLOGY IMMIGRA
+   Knecht A., 2008, THESIS U UTRECHT
+   Kolip P., 1994, Z SOZIALISATIONSFORS, V14, P21
+   KRACKHARDT D, 1988, SOC PSYCHOL QUART, V51, P123, DOI 10.2307/2786835
+   KRACKHARDT D, 1992, NETWORKS AND ORGANIZATIONS : STRUCTURE, FORM, AND ACTION, P216
+   KRAPPMANN L, 1993, 60 ANN M SOC RES CHI
+   Krappmann L, 1995, Alltag der Schulkinder.Beobachtungen und Analysen von Interaktionen und Sozialbeziehungen
+   KRISTEN C, 2003, ETHNISCHE UNTERSCHIE
+   Long J., 1997, SCOTT REGRESSION MOD, DOI DOI 10.1037/0893-164X.21.4.525
+   Louch H, 2000, SOC NETWORKS, V22, P45, DOI 10.1016/S0378-8733(00)00015-0
+   Lubbers M., 2004, The social fabric of the classroom: Peer relations in secondary education
+   Lubbers MJ, 2007, SOC NETWORKS, V29, P489, DOI 10.1016/j.socnet.2007.03.002
+   Lubbers MJ, 2003, SOC NETWORKS, V25, P309, DOI 10.1016/S0378-8733(03)00013-3
+   Marbach J. H., 2006, KINDERLEBEN, V4, P71
+   Martin CL, 2001, DEV PSYCHOL, V37, P431, DOI 10.1037//0012-1649.37.3.431
+   Mood C, 2010, EUR SOCIOL REV, V26, P67, DOI 10.1093/esr/jcp006
+   Moody J, 2001, AM J SOCIOL, V107, P679, DOI 10.1086/338954
+   Mouw T, 2006, AM J SOCIOL, V112, P394, DOI 10.1086/506415
+   Mullis I.V.S., 2004, TIMMS 2003 international mathematics report
+   Nauck B, 2008, MIGRATION INTEGRATIO, P108
+   NAUCK B, 2007, POLIT ZEITGESCHICHTE, V22, P19
+   OSWALD H, 1986, KOLNER Z SOZIOL SOZ, V38, P560
+   Park R.E., 1970, Introduction to the Science of Sociology: Including an Index to Basic Sociological Concepts
+   PARK RE, 1951, RACE CULTURE
+   Pfeffer MJ, 2009, RURAL SOCIOL, V74, P241, DOI 10.1111/j.1549-0831.2009.tb00391.x
+   Pong SL, 2007, INT MIGR REV, V41, P206, DOI 10.1111/j.1747-7379.2007.00062.x
+   PORTES A, 1993, ANN AM ACAD POLIT SS, V530, P74, DOI 10.1177/0002716293530001006
+   Quillian L, 2003, AM SOCIOL REV, V68, P540, DOI 10.2307/1519738
+   Rabe-Hesketh S., 2005, MULTILEVEL LONGITUDI
+   Reinders H, 2009, PSYCHOL ERZ UNTERR, V56, P123
+   Robins G, 2007, SOC NETWORKS, V29, P173, DOI 10.1016/j.socnet.2006.08.002
+   Rumbaut RG, 2004, INT MIGR REV, V38, P1160
+   Ryan L, 2008, SOCIOLOGY, V42, P672, DOI 10.1177/0038038508091622
+   SCHRADER A, 1976, 2 GENERATION SOZIALI
+   Schutz A., 1932, Der sinnhafte Aufbau der sozialen Welt
+   Snijders T., 2012, MULTILEVEL ANAL INTR
+   Snijders TAB, 2006, SOCIOL METHODOL, V36, P99, DOI 10.1111/j.1467-9531.2006.00176.x
+   Tatum B.D., 1999, Assimilation blues: Black families in white communities: Who succeeds and why?
+   TUMA NB, 1979, SOC FORCES, V57, P1265, DOI 10.2307/2577270
+   Wilson TD, 1998, HUM ORGAN, V57, P394, DOI 10.17730/humo.57.4.pw61g8j535740428
+   Wilson William Julius., 1987, TRULY DISADVANTAGED
+   Zhou Min., 1999, HDB INT MIGRATION, P196
+NR 77
+TC 6
+Z9 6
+U1 0
+U2 26
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2011
+VL 62
+IS 1
+BP 25
+EP +
+PG 20
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA 779IV
+UT WOS:000291772200003
+DA 2024-11-22
+ER
+
+PT J
+AU Shaw, AK
+   Tsvetkova, M
+   Daneshvar, R
+AF Shaw, Allison K.
+   Tsvetkova, Milena
+   Daneshvar, Roozbeh
+TI The Effect of Gossip on Social Networks
+SO COMPLEXITY
+LA English
+DT Article
+DE gossip; network dynamics; small-world networks; social networks
+ID TRAIL SYSTEMS; DIFFUSION; MODEL; FADS
+AB In this article, we develop a simple model for the effect of gossip spread on social network structure. We define gossip as information passed between two individuals A and B about a third individual C which affects the strengths of all three relationships: it strengthens A-B and weakens both B-C and A-C. We find, in both an analytic derivation and model simulations, that if gossip does not spread beyond simple triads, it destroys them but if gossip propagates through large dense clusters, it strengthens them. Additionally, our simulations show that the effect of gossip on network metrics (clustering coefficient, average-path-length, and sum-of-strengths) varies with network structure and average-node-degree. (C) 2010 Wiley Periodicals, Inc. Complexity 16: 39-47, 2011
+C1 [Shaw, Allison K.] Princeton Univ, Dept Ecol & Evolutionary Biol, Princeton, NJ 08544 USA.
+   [Tsvetkova, Milena] Univ Utrecht, Dept Sociol, Utrecht, Netherlands.
+   [Daneshvar, Roozbeh] Texas A&M Univ, Dept Elect Engn, College Stn, TX 77843 USA.
+C3 Princeton University; Utrecht University; Texas A&M University System;
+   Texas A&M University College Station
+RP Shaw, AK (corresponding author), Princeton Univ, Dept Ecol & Evolutionary Biol, Princeton, NJ 08544 USA.
+EM akshaw@princeton.edu
+RI Tsvetkova, Milena/AAE-9386-2021; Shaw, Allison K/E-7161-2010
+OI Shaw, Allison K/0000-0001-7969-8365; Tsvetkova,
+   Milena/0000-0002-3552-108X
+CR Abrahamson E, 1997, ORGAN SCI, V8, P289, DOI 10.1287/orsc.8.3.289
+   [Anonymous], 1997, Netlogo wolf sheep predation model
+   Barthélemy M, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.178701
+   Baumeister RF, 2004, REV GEN PSYCHOL, V8, P111, DOI 10.1037/1089-2680.8.2.111
+   BIKHCHANDANI S, 1992, J POLIT ECON, V100, P992, DOI 10.1086/261849
+   Boehm C., 2000, Hierarchy in the Forest: The Evolution of Egalitarian Behavior
+   Dodds PS, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.218701
+   Dunbar RIM, 2004, REV GEN PSYCHOL, V8, P100, DOI 10.1037/1089-2680.8.2.100
+   Goldstone RL, 2006, COMPLEXITY, V11, P43, DOI 10.1002/cplx.20135
+   GOSS S, 1989, NATURWISSENSCHAFTEN, V76, P579, DOI 10.1007/BF00462870
+   Grönlund A, 2005, ADV COMPLEX SYST, V8, P261, DOI 10.1142/S0219525905000439
+   Guimerà R, 2006, J ECON BEHAV ORGAN, V61, P653, DOI 10.1016/j.jebo.2004.07.021
+   Hebb DO, 1949, ORG BEHAV
+   Helbing D, 1997, NATURE, V388, P47, DOI 10.1038/40353
+   Kuperman M, 2001, PHYS REV LETT, V86, P2909, DOI 10.1103/PhysRevLett.86.2909
+   Lind PG, 2007, PHYS REV E, V76, DOI 10.1103/PhysRevE.76.036117
+   MCANDREW FT, 2008, SCI AM MIND, V19, P26, DOI DOI 10.1038/SCIENTIFICAMERICANMIND1008-26
+   MORRIS M, 1993, SOCIOL METHOD RES, V22, P99, DOI 10.1177/0049124193022001005
+   Nakagaki T, 2000, NATURE, V407, P470, DOI 10.1038/35035159
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   Newman MEJ, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.016128
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Wittek R., 1998, Computational & Mathematical Organization Theory, V4, P189, DOI 10.1023/A:1009636325582
+NR 23
+TC 14
+Z9 18
+U1 1
+U2 24
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1076-2787
+EI 1099-0526
+J9 COMPLEXITY
+JI Complexity
+PD MAR-APR
+PY 2011
+VL 16
+IS 4
+BP 39
+EP 47
+DI 10.1002/cplx.20334
+PG 9
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Science & Technology - Other Topics
+GA 737YW
+UT WOS:000288607500005
+DA 2024-11-22
+ER

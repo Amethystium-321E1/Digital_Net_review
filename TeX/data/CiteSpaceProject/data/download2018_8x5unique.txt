@@ -1,0 +1,614 @@
+
+PT J
+AU Guilbeault, D
+   Becker, J
+   Centola, D
+AF Guilbeault, Douglas
+   Becker, Joshua
+   Centola, Damon
+TI Social learning and partisan bias in the interpretation of climate
+   trends
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE social networks; collective intelligence; motivated reasoning;
+   polarization; science communication
+ID SEA-ICE TRENDS; ATTITUDE POLARIZATION; ECHO CHAMBERS; NETWORKS;
+   ASSIMILATION; COMMUNICATION; INFORMATION; IDEOLOGY; PARADIGM; OPINION
+AB Vital scientific communications are frequently misinterpreted by the lay public as a result of motivated reasoning, where people misconstrue data to fit their political and psychological biases. In the case of climate change, some people have been found to systematically misinterpret climate data in ways that conflict with the intended message of climate scientists. While prior studies have attempted to reduce motivated reasoning through bipartisan communication networks, these networks have also been found to exacerbate bias. Popular theories hold that bipartisan networks amplify bias by exposing people to opposing beliefs. These theories are in tension with collective intelligence research, which shows that exchanging beliefs in social networks can facilitate social learning, thereby improving individual and group judgments. However, prior experiments in collective intelligence have relied almost exclusively on neutral questions that do not engage motivated reasoning. Using Amazon's Mechanical Turk, we conducted an online experiment to test how bipartisan social networks can influence subjects' interpretation of climate communications from NASA. Here, we show that exposure to opposing beliefs in structured bipartisan social networks substantially improved the accuracy of judgments among both conservatives and liberals, eliminating belief polarization. However, we also find that social learning can be reduced, and belief polarization maintained, as a result of partisan priming. We find that increasing the salience of partisanship during communication, both through exposure to the logos of political parties and through exposure to the political identities of network peers, can significantly reduce social learning.
+C1 [Guilbeault, Douglas; Becker, Joshua; Centola, Damon] Univ Penn, Annenberg Sch Commun, Philadelphia, PA 19104 USA.
+   [Centola, Damon] Univ Penn, Sch Engn, Philadelphia, PA 19104 USA.
+C3 University of Pennsylvania; University of Pennsylvania
+RP Centola, D (corresponding author), Univ Penn, Annenberg Sch Commun, Philadelphia, PA 19104 USA.; Centola, D (corresponding author), Univ Penn, Sch Engn, Philadelphia, PA 19104 USA.
+EM dcentola@asc.upenn.edu
+RI Guilbeault, Douglas/KUD-6312-2024
+OI Becker, Joshua/0000-0002-3054-2447; Centola, Damon/0000-0002-8084-2333
+FU Joseph-Armand Bombardier scholarship from the Social Sciences and
+   Humanities Research Council of Canada; Robert Wood Johnson Foundation
+   Pioneer Grant; NIH through the Tobacco Centers for Regulatory Control
+FX We thank Kathleen Hall Jamieson, Joseph Capella, Michael Delli Carpini,
+   and Natalie Herbert for useful comments and suggestions on this project
+   and A. Wagner and R. Overbey for programming assistance. D.G.
+   acknowledges support from a Joseph-Armand Bombardier scholarship from
+   the Social Sciences and Humanities Research Council of Canada, and D.C.
+   acknowledges support from a Robert Wood Johnson Foundation Pioneer Grant
+   and from the NIH through the Tobacco Centers for Regulatory Control.
+CR Acemoglu D, 2011, REV ECON STUD, V78, P1201, DOI 10.1093/restud/rdr004
+   [Anonymous], 2016, POLIT BEHAV
+   Bakshy E., 2012, P 13 ACM C EL COMM, P146
+   Becker J, 2017, P NATL ACAD SCI USA, V114, pE5070, DOI 10.1073/pnas.1615978114
+   Bosetti V, 2017, NAT CLIM CHANGE, V7, P185, DOI [10.1038/nclimate3208, 10.1038/NCLIMATE3208]
+   Corner A, 2012, CLIMATIC CHANGE, V114, P463, DOI 10.1007/s10584-012-0424-6
+   Dandekar P, 2013, P NATL ACAD SCI USA, V110, P5791, DOI 10.1073/pnas.1217220110
+   Devine C.J., 2014, POLIT BEHAV, V37, P1
+   Ditto PH, 1998, J PERS SOC PSYCHOL, V75, P53, DOI 10.1037/0022-3514.75.1.53
+   Farrell J, 2015, NAT CLIM CHANGE, V5, P719, DOI 10.1038/nclimate2732
+   Fishkin J.S., 2009, When the People Speak: Deliberative Democracy and Public Consultation
+   Golub B, 2010, AM ECON J-MICROECON, V2, P112, DOI 10.1257/mic.2.1.112
+   Gough Aisling, 2017, JMIR Public Health Surveill, V3, pe14, DOI 10.2196/publichealth.6313
+   Gutmann Amy., 1996, Democracy and Disagreement
+   Hardy BW, 2017, ENVIRON COMMUN, V11, P205, DOI 10.1080/17524032.2016.1241814
+   Hart PS, 2012, COMMUN RES, V39, P701, DOI 10.1177/0093650211416646
+   ISENBERG DJ, 1986, J PERS SOC PSYCHOL, V50, P1141, DOI 10.1037/0022-3514.50.6.1141
+   Iyengar S, 2015, AM J POLIT SCI, V59, P690, DOI 10.1111/ajps.12152
+   Iyengar S, 2012, PUBLIC OPIN QUART, V76, P405, DOI 10.1093/poq/nfs038
+   Jamieson KH, 2014, P NATL ACAD SCI USA, V111, P13598, DOI 10.1073/pnas.1320868111
+   Jasny L, 2015, NAT CLIM CHANGE, V5, P782, DOI [10.1038/nclimate2666, 10.1038/NCLIMATE2666]
+   Kahan DM, 2013, JUDGM DECIS MAK, V8, P407
+   Kahan DM, 2012, NAT CLIM CHANGE, V2, P732, DOI 10.1038/NCLIMATE1547
+   KAPLAN MF, 1977, SOCIOMETRY, V40, P262, DOI 10.2307/3033533
+   KUNDA Z, 1990, PSYCHOL BULL, V108, P480, DOI 10.1037/0033-2909.108.3.480
+   Lazarsfeld, 1955, PERSONAL INFLUENCE P
+   LORD CG, 1979, J PERS SOC PSYCHOL, V37, P2098, DOI 10.1037/0022-3514.37.11.2098
+   Lorenz J, 2011, P NATL ACAD SCI USA, V108, P9020, DOI 10.1073/pnas.1008636108
+   Malka A, 2010, SOC JUSTICE RES, V23, P156, DOI 10.1007/s11211-010-0114-3
+   Mason L, 2018, PUBLIC OPIN QUART, V82, P280, DOI 10.1093/poq/nfy005
+   McCright AM, 2011, SOCIOL QUART, V52, P155, DOI 10.1111/j.1533-8525.2011.01198.x
+   McCright AM, 2010, THEOR CULT SOC, V27, P100, DOI 10.1177/0263276409356001
+   Munro GD, 1997, PERS SOC PSYCHOL B, V23, P636, DOI 10.1177/0146167297236007
+   Mutz DC, 2002, AM J POLIT SCI, V46, P838, DOI 10.2307/3088437
+   Mutz DC, 2001, AM POLIT SCI REV, V95, P97, DOI 10.1017/S0003055401000223
+   National Academies of Sciences Engineering and Medicine Division of Behavioral and Social Sciences and Education, 2017, COMM SCI EFF RES AG
+   Navajas J, 2018, NAT HUM BEHAV, V2, P126, DOI 10.1038/s41562-017-0273-4
+   Otten S, 2000, J EXP SOC PSYCHOL, V36, P77, DOI 10.1006/jesp.1999.1399
+   Pearce W, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0094785
+   Pennycook G., 2018, Crowdsourcing Judgments of News Source Quality
+   Pennycook G, 2019, COGNITION, V188, P39, DOI 10.1016/j.cognition.2018.06.011
+   Price V, 2002, POLIT COMMUN, V19, P95, DOI 10.1080/105846002317246506
+   Slothuus R, 2010, J POLIT, V72, P630, DOI 10.1017/S002238161000006X
+   Sunstein CR, 2002, J POLIT PHILOS, V10, P175, DOI 10.1111/1467-9760.00148
+   Sunstein CR., 2009, GOING TO EXTREMES
+   Watts DJ, 2007, J CONSUM RES, V34, P441, DOI 10.1086/518527
+   Williams HTP, 2015, GLOBAL ENVIRON CHANG, V32, P126, DOI 10.1016/j.gloenvcha.2015.03.006
+   Woolley AW, 2010, SCIENCE, V330, P686, DOI 10.1126/science.1193147
+NR 48
+TC 90
+Z9 104
+U1 1
+U2 54
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD SEP 25
+PY 2018
+VL 115
+IS 39
+BP 9714
+EP 9719
+DI 10.1073/pnas.1722664115
+PG 6
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA GU7XK
+UT WOS:000445545200045
+PM 30181271
+OA Green Published, Bronze
+DA 2024-11-22
+ER
+
+PT J
+AU Keijzer, MA
+   Mäs, M
+   Flache, A
+AF Keijzer, Marijn A.
+   Mas, Michael
+   Flache, Andreas
+TI Communication in Online Social Networks Fosters Cultural Isolation
+SO COMPLEXITY
+LA English
+DT Article
+ID LOCAL CONVERGENCE; GLOBAL DIVERSITY; MODEL
+AB Online social networks play an increasingly important role in communication between friends, colleagues, business partners, and family members. This development sparked public and scholarly debate about how these new platforms affect dynamics of cultural diversity. Formal models of cultural dissemination are powerful tools to study dynamics of cultural diversity but they are based on assumptions that represent traditional dyadic, face-to-face communication, rather than communication in online social networks. Unlike in models of face-to-face communication, where actors update their cultural traits after being influenced by one of their network contacts, communication in online social networks is often characterized by a one-to-many structure, in that users emit messages directly to a large number of network contacts. Using analytical tools and agent-based simulation, we show that this seemingly subtle difference can have profound implications for emergent dynamics of cultural dissemination. In particular, we show that within the framework of our model online communication fosters cultural diversity to a larger degree than offline communication and it increases chances that individuals and subgroups become culturally isolated from their network contacts.
+C1 [Keijzer, Marijn A.; Mas, Michael; Flache, Andreas] Univ Groningen, Dept Sociol, ICS, Grote Rozenstr 31, NL-9712 TG Groningen, Netherlands.
+C3 University of Groningen
+RP Keijzer, MA (corresponding author), Univ Groningen, Dept Sociol, ICS, Grote Rozenstr 31, NL-9712 TG Groningen, Netherlands.
+EM m.a.keijzer@rug.nl
+RI Flache, Andreas/E-2921-2013; Maes, Michael/K-9603-2013; Keijzer,
+   Marijn/AEV-0111-2022
+OI Keijzer, Marijn/0000-0002-7585-062X; Flache, Andreas/0000-0002-8276-8819
+FU Center for Information Technology of the University of Groningen
+FX The authors would like to thank the Center for Information Technology of
+   the University of Groningen for their support and for providing access
+   to the Peregrine high performance computing cluster.
+CR [Anonymous], 2002, Anal., Simul. J. Artif. Soc. Soc. Simul., DOI DOI 10.1016/J.RESP0L.2009.09.011
+   [Anonymous], 1996, Computational mathematical organization theory
+   [Anonymous], WHY MOST FACEBOOK US
+   [Anonymous], ADV SOCIAL SIMULATIO
+   Axelrod R, 1997, J CONFLICT RESOLUT, V41, P203, DOI 10.1177/0022002797041002001
+   Bakshy E., 2011, P 4 ACM INT C WEB SE, P65, DOI DOI 10.1145/1935826.1935845
+   Bakshy E, 2015, SCIENCE, V348, P1130, DOI 10.1126/science.aaa1160
+   Battiston F, 2017, SCI REP-UK, V7, DOI 10.1038/s41598-017-02040-4
+   Benkler Y, 2016, DAEDALUS-US, V145, P18, DOI 10.1162/DAED_a_00362
+   Boutyline A, 2017, POLIT PSYCHOL, V38, P551, DOI 10.1111/pops.12337
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   Centola D, 2007, J CONFLICT RESOLUT, V51, P905, DOI 10.1177/0022002707307632
+   De Sanctis L, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.046108
+   Deffuant G, 2000, APPLICATIONS OF SIMULATION TO SOCIAL SCIENCES, P87, DOI 10.1142/S0219525900000078
+   Del Vicario M, 2016, P NATL ACAD SCI USA, V113, P554, DOI 10.1073/pnas.1517441113
+   Flache A., 2004, Analyse Kritik, P258
+   Flache A., 2017, J ARTIFICIAL SOC SOC, V20
+   Flache A, 2011, J CONFLICT RESOLUT, V55, P970, DOI 10.1177/0022002711414371
+   Friedkin N., 2011, Structural Analysis in the Social Sciences
+   Gimmler A., 2001, PHILOS SOCIAL CRITIC, V27, P21, DOI [10.1177/019145370102700402, DOI 10.1177/019145370102700402]
+   Gonzalez-Avella J. C., 2005, PHYS REV E, V72, P1
+   Grow A, 2017, SOCIOL SCI, V4, P611, DOI 10.15195/v4.a25
+   Habermas J., 1998, FACTS NORMS, P329
+   Huckfeldt R., 2004, POLITICAL DISAGREEME
+   Klemm K, 2003, PHYS REV E, V67, DOI [10.1103/PhysRevE.67.045101, 10.1063/1.1571335]
+   Klemm K, 2003, PHYS REV E, V67, DOI 10.1103/PhysRevE.67.026120
+   Lazarsfeld P.F., 1954, Freedom and Control in Modern Society, P18, DOI DOI 10.1111/J.1467-8705.2012.02056_3.X
+   Lim D, 2014, JASSS-J ARTIF SOC S, V17, DOI 10.18564/jasss.2366
+   Macy MW, 2003, DYNAMIC SOCIAL NETWORK MODELING AND ANALYSIS, P162
+   Mäs M, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0074516
+   Mäs M, 2010, PLOS COMPUT BIOL, V6, DOI 10.1371/journal.pcbi.1000959
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Pariser E., 2011, FILTER BUBBLE WHAT I
+   Postmes T, 2002, PERS SOC PSYCHOL B, V28, P1073, DOI 10.1177/01461672022811006
+   Pulick E, 2016, JASSS-J ARTIF SOC S, V19, DOI 10.18564/jasss.3021
+   Roberts L.D., 2000, Shyness: Development, consolidation and change, P121
+   Schumann S, 2017, COMPUT HUM BEHAV, V77, P198, DOI 10.1016/j.chb.2017.08.006
+   Stivala A, 2014, SCI REP-UK, V4, DOI 10.1038/srep04870
+   Sunstein C.R. R., 2002, Republic.com
+   Sunstein CR, 2002, J POLIT PHILOS, V10, P175, DOI 10.1111/1467-9760.00148
+   Sze-Sze Wong, 2000, Computational & Mathematical Organization Theory, V6, P339, DOI 10.1023/A:1009654229352
+   Ugander J., 2011, The Anatomy of the Facebook Social Graph
+   Ulloa R, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0153334
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Wimmer A, 2010, AM J SOCIOL, V116, P583, DOI 10.1086/653658
+   Wong LH, 2006, PHYSICA A, V360, P99, DOI 10.1016/j.physa.2005.04.029
+   Xia HX, 2011, INT J KNOWL SYST SCI, V2, P72, DOI 10.4018/jkss.2011100106
+NR 47
+TC 17
+Z9 19
+U1 3
+U2 25
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1076-2787
+EI 1099-0526
+J9 COMPLEXITY
+JI Complexity
+PY 2018
+AR 9502872
+DI 10.1155/2018/9502872
+PG 18
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Science & Technology - Other Topics
+GA HA4II
+UT WOS:000450222900001
+OA Green Published, gold, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Kassarnig, V
+   Mones, E
+   Bjerre-Nielsen, A
+   Sapiezynski, P
+   Lassen, DD
+   Lehmann, S
+AF Kassarnig, Valentin
+   Mones, Enys
+   Bjerre-Nielsen, Andreas
+   Sapiezynski, Piotr
+   Lassen, David Dreyer
+   Lehmann, Sune
+TI Academic performance and behavioral patterns
+SO EPJ DATA SCIENCE
+LA English
+DT Article
+DE Academic performance; Data collection; Homophily; Peer effect
+ID CLASS ATTENDANCE; PERSONALITY-TRAITS; COLLEGE-STUDENTS;
+   UNIVERSITY-STUDENTS; EMOTIONAL INTELLIGENCE; COGNITIVE-ABILITY; SOCIAL
+   NETWORKING; EXAM PERFORMANCE; HIGHER-EDUCATION; FACEBOOK USE
+AB Identifying the factors that influence academic performance is an essential part of educational research. Previous studies have documented the importance of personality traits, class attendance, and social network structure. Because most of these analyses were based on a single behavioral aspect and/or small sample sizes, there is currently no quantification of the interplay of these factors. Here, we study the academic performance among a cohort of 538 undergraduate students forming a single, densely connected social network. Our work is based on data collected using smartphones, which the students used as their primary phones for two years. The availability of multi-channel data from a single population allows us to directly compare the explanatory power of individual and social characteristics. We find that the most informative indicators of performance are based on social ties and that network indicators result in better model performance than individual characteristics (including both personality and class attendance). We confirm earlier findings that class attendance is the most important predictor among individual characteristics. Finally, our results suggest the presence of strong homophily and/or peer effects among university students.
+C1 [Kassarnig, Valentin] Graz Univ Technol, Inst Software Technol, Graz, Austria.
+   [Mones, Enys; Sapiezynski, Piotr; Lehmann, Sune] Tech Univ Denmark, Dept Appl Math & Comp Sci, Lyngby, Denmark.
+   [Bjerre-Nielsen, Andreas; Lassen, David Dreyer] Univ Copenhagen, Dept Econ, Copenhagen, Denmark.
+   [Bjerre-Nielsen, Andreas; Lassen, David Dreyer; Lehmann, Sune] Univ Copenhagen, Ctr Social Data Sci, Copenhagen, Denmark.
+   [Sapiezynski, Piotr] Northeastern Univ, Coll Informat & Comp Sci, Boston, MA 02115 USA.
+   [Lehmann, Sune] Univ Copenhagen, Niels Bohr Inst, Copenhagen, Denmark.
+C3 Graz University of Technology; Technical University of Denmark;
+   University of Copenhagen; University of Copenhagen; Northeastern
+   University; University of Copenhagen; Niels Bohr Institute
+RP Kassarnig, V (corresponding author), Graz Univ Technol, Inst Software Technol, Graz, Austria.; Lehmann, S (corresponding author), Tech Univ Denmark, Dept Appl Math & Comp Sci, Lyngby, Denmark.; Lehmann, S (corresponding author), Univ Copenhagen, Ctr Social Data Sci, Copenhagen, Denmark.; Lehmann, S (corresponding author), Univ Copenhagen, Niels Bohr Inst, Copenhagen, Denmark.
+EM kassarnig@ist.tugraz.at; sljo@dtu.dk
+RI Lehmann, Sune/AFQ-7000-2022
+OI Lehmann, Sune/0000-0001-6099-2345; Lassen, David
+   Dreyer/0000-0002-4368-9851; Bjerre-Nielsen, Andreas/0000-0003-3057-5975;
+   Mones, Enys/0000-0001-7724-0094
+FU Villum Foundation; Danish Council for Independent Research; University
+   of Copenhagen (UCPH grant Social Fabric); University of Copenhagen
+   (Center for Social Data Science); Economic Policy Research Network
+   (EPRN)
+FX This work was supported by the Villum Foundation, the Danish Council for
+   Independent Research, University of Copenhagen (via the UCPH-2016 grant
+   Social Fabric and The Center for Social Data Science) and Economic
+   Policy Research Network (EPRN).
+CR Ainin S, 2015, COMPUT EDUC, V83, P64, DOI 10.1016/j.compedu.2014.12.018
+   Akgun S., 2003, ED PSYCHOL, V23, P287, DOI DOI 10.1080/0144341032000060129
+   Al-Menayes J.J., 2014, New Media and Mass Communication, V25, P23
+   Al-Menayes JamalJ., 2015, International Journal of Psychological Studies, V7, P86, DOI [10.5539/ijps.v7n4p86, DOI 10.5539/IJPS.V7N4P86]
+   [Anonymous], 2014, PLOS ONE
+   [Anonymous], ARXIV170404103
+   Baldwin TT, 1997, ACAD MANAGE J, V40, P1369, DOI 10.5465/257037
+   Barchard KA, 2003, EDUC PSYCHOL MEAS, V63, P840, DOI 10.1177/0013164403251333
+   Bauer K., 2003, Journal of College Student Development, V44, P277, DOI DOI 10.1353/CSD.2003.0023
+   BERNARD HR, 1984, ANNU REV ANTHROPOL, V13, P495, DOI 10.1146/annurev.an.13.100184.002431
+   Bjerre-Nielsen A, 2017, TECHNICAL REPORT
+   Brocata J., 1989, Educational Research Quarterly, V13, P2
+   BUCKALEW LW, 1986, B PSYCHONOMIC SOC, V24, P63
+   Busato VV, 2000, PERS INDIV DIFFER, V29, P1057, DOI 10.1016/S0191-8869(99)00253-6
+   Carrell SE, 2013, ECONOMETRICA, V81, P855, DOI 10.3982/ECTA10168
+   Chamorro-Premuzic T, 2003, J RES PERS, V37, P319, DOI 10.1016/S0092-6566(02)00578-0
+   Chamorro-Premuzic T, 2003, EUR J PERSONALITY, V17, P237, DOI 10.1002/per.473
+   Chen J, 2008, J ECON EDUC, V39, P213, DOI 10.3200/JECE.39.3.213-227
+   Cho HC, 2007, COMPUT EDUC, V49, P309, DOI 10.1016/j.compedu.2005.07.003
+   Chow HPH, 2005, SOC INDIC RES, V70, P139, DOI 10.1007/s11205-004-7526-0
+   Cohn E, 2004, ECON EDUC REV, V23, P577, DOI 10.1016/j.econedurev.2004.01.001
+   Conard MA, 2006, J RES PERS, V40, P339, DOI 10.1016/j.jrp.2004.10.003
+   Credé M, 2010, REV EDUC RES, V80, P272, DOI 10.3102/0034654310362998
+   Curcio G, 2006, SLEEP MED REV, V10, P323, DOI 10.1016/j.smrv.2005.11.001
+   DeBerard S.M., 2004, College Student Journal, V38, P66, DOI DOI 10.1002/SIM.2397
+   DeFruyt F, 1996, EUR J PERSONALITY, V10, P405, DOI 10.1002/(SICI)1099-0984(199612)10:5<405::AID-PER255>3.0.CO;2-M
+   DeRoma V.M., 2009, COLL STUD J, V43, P325
+   Diseth Å, 2003, EUR J PERSONALITY, V17, P143, DOI 10.1002/per.469
+   DOLLINGER SJ, 1991, J RES PERS, V25, P276, DOI 10.1016/0092-6566(91)90020-Q
+   Duff A, 2004, PERS INDIV DIFFER, V36, P1907, DOI 10.1016/j.paid.2003.08.020
+   Eagle N, 2008, SOCIAL COMPUTING, BEHAVIORAL MODELING AND PREDICTION, P79, DOI 10.1007/978-0-387-77672-9_10
+   Eagle N, 2009, P NATL ACAD SCI USA, V106, P15274, DOI 10.1073/pnas.0900282106
+   Farsides T, 2003, PERS INDIV DIFFER, V34, P1225, DOI 10.1016/S0191-8869(02)00111-3
+   FREEMAN LC, 1992, SOC PSYCHOL QUART, V55, P118, DOI 10.2307/2786941
+   Furnham A, 2004, PERS INDIV DIFFER, V37, P943, DOI 10.1016/j.paid.2003.10.016
+   Furnham A, 2002, LEARN INDIVID DIFFER, V14, P47, DOI 10.1016/j.lindif.2003.08.002
+   Gasevic D, 2013, AM BEHAV SCI, V57, P1460, DOI 10.1177/0002764213479362
+   GOFF M, 1992, J EDUC PSYCHOL, V84, P537, DOI 10.1037/0022-0663.84.4.537
+   GOLDBERG LR, 1993, AM PSYCHOL, V48, P26, DOI 10.1037/0003-066X.48.1.26
+   Gray EK, 2002, J PERS, V70, P177
+   Gump S.E., 2005, College Teaching, V53, P21, DOI [DOI 10.3200/CTCH.53.1.21-26, 10.3200/CTCH.53.1.21-26]
+   Haines ME, 1996, J COLL STUDENT DEV, V37, P519
+   Hair P, 2006, PERS INDIV DIFFER, V40, P943, DOI 10.1016/j.paid.2005.10.002
+   Hill HA, 2000, ENCY BIOSTATISTICS
+   Hommes J, 2012, ADV HEALTH SCI EDUC, V17, P743, DOI 10.1007/s10459-012-9349-0
+   Jacobsen WC, 2011, CYBERPSYCH BEH SOC N, V14, P275, DOI 10.1089/cyber.2010.0135
+   Johnson D.W., 1984, The Organizational Behavior Teaching Review, V9, P8, DOI 10.1177/105256298400900404
+   Junco R, 2013, COMPUT HUM BEHAV, V29, P626, DOI 10.1016/j.chb.2012.11.007
+   Junco R, 2012, COMPUT EDUC, V58, P162, DOI 10.1016/j.compedu.2011.08.004
+   Karpinski AC, 2013, COMPUT HUM BEHAV, V29, P1182, DOI 10.1016/j.chb.2012.10.011
+   Kassarnig V, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0187078
+   Kirschner PA, 2010, COMPUT HUM BEHAV, V26, P1237, DOI 10.1016/j.chb.2010.03.024
+   Kolek EA, 2008, J STUD AFF RES PRACT, V45, P1
+   Komarraju M, 2009, LEARN INDIVID DIFFER, V19, P47, DOI 10.1016/j.lindif.2008.07.001
+   KUMBASAR E, 1994, AM J SOCIOL, V100, P477, DOI 10.1086/230544
+   Lane J, 2004, SOC BEHAV PERSONAL, V32, P247, DOI 10.2224/sbp.2004.32.3.247
+   Langford PH, 2003, PERS INDIV DIFFER, V35, P1127, DOI 10.1016/S0191-8869(02)00323-9
+   Lavin D.E., 1965, PREDICTION ACAD PERF
+   Lepp A, 2014, COMPUT HUM BEHAV, V31, P343, DOI 10.1016/j.chb.2013.10.049
+   Lievens F, 2002, MED EDUC, V36, P1050, DOI 10.1046/j.1365-2923.2002.01328.x
+   Lin TF, 2006, APPL ECON LETT, V13, P937, DOI 10.1080/13504850500425733
+   Lounsbury JW, 2005, J COLL STUDENT DEV, V46, P501, DOI 10.1353/csd.2005.0051
+   Lounsbury JW, 2003, PERS INDIV DIFFER, V35, P1231, DOI 10.1016/S0191-8869(02)00330-6
+   MACAN TH, 1990, J EDUC PSYCHOL, V82, P760, DOI 10.1037/0022-0663.82.4.760
+   MANSKI CF, 1993, REV ECON STUD, V60, P531, DOI 10.2307/2298123
+   Maqableh M M., 2015, Commun. Netw, V7, P159, DOI [10.4236/cn.2015.74015, DOI 10.4236/CN.2015.74015]
+   Marburger DR, 2006, J ECON EDUC, V37, P148, DOI 10.3200/JECE.37.2.148-155
+   MARSDEN PV, 1984, SOC FORCES, V63, P482, DOI 10.2307/2579058
+   Mayer A, 2008, J PUBLIC ECON, V92, P329, DOI 10.1016/j.jpubeco.2007.09.001
+   Mischel W., 2013, Personality and Assessment
+   NEWCOMB AF, 1995, PSYCHOL BULL, V117, P306, DOI 10.1037/0033-2909.117.2.306
+   Nghe NT, 2007, FRONT ED C GLOB ENG, P2
+   Noftle EE, 2007, J PERS SOC PSYCHOL, V93, P116, DOI 10.1037/0022-3514.93.1.116
+   O'Connor KM, 2015, SOC NETWORKS, V40, P123, DOI 10.1016/j.socnet.2014.09.002
+   Oswald FL, 2004, J APPL PSYCHOL, V89, P187, DOI 10.1037/0021-9010.89.2.187
+   Owens M, 2012, SCHOOL PSYCHOL INT, V33, P433, DOI 10.1177/0143034311427433
+   Pasek J., 2009, First Monday, V14, P5, DOI DOI 10.5210/FM.V14I5.2498
+   Paul JA, 2012, COMPUT HUM BEHAV, V28, P2117, DOI 10.1016/j.chb.2012.06.016
+   Paunonen SV, 1998, J PERS SOC PSYCHOL, V74, P538, DOI 10.1037/0022-3514.74.2.538
+   Paunonen SV, 2001, J RES PERS, V35, P78, DOI 10.1006/jrpe.2000.2309
+   Phillips P, 2003, EUR J PERSONALITY, V17, P435, DOI 10.1002/per.488
+   Poldin O, 2013, 15 WP BPR
+   PROCIUK TJ, 1974, J PSYCHOL, V88, P91, DOI 10.1080/00223980.1974.9915716
+   Ridgell S.D., 2004, COLL STUD J, V38, P607
+   Rizzuto T. E., 2009, Soc. Psychol. Educ, V12, P175, DOI [10.1007/s11218-008-9080-0, DOI 10.1007/S11218-008-9080-0]
+   ROTHSTEIN MG, 1994, J EDUC PSYCHOL, V86, P516, DOI 10.1037/0022-0663.86.4.516
+   Sacerdote B, 2001, Q J ECON, V116, P681, DOI 10.1162/00335530151144131
+   Saklofske DH, 2012, LEARN INDIVID DIFFER, V22, P251, DOI 10.1016/j.lindif.2011.02.010
+   Sapiezynski Piotr, 2017, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, V1, DOI 10.1145/3090089
+   Sapiezynski Piotr, 2017, P FATREC WORKSH RESP
+   Sekara V, 2014, PLOS ONE, V9
+   Singh A, 2012, ARCH PEDIAT ADOL MED, V166, P49, DOI 10.1001/archpediatrics.2011.716
+   Sirin SR, 2005, REV EDUC RES, V75, P417, DOI 10.3102/00346543075003417
+   Smirnov I, 2016, ARXIV160609082
+   Smith RA, 2007, COMMUN EDUC, V56, P278, DOI 10.1080/03634520701364890
+   Sparrowe RT, 2001, ACAD MANAGE J, V44, P316, DOI 10.5465/3069458
+   Stanca L, 2006, J ECON EDUC, V37, P251, DOI 10.3200/JECE.37.3.251-266
+   Stewart SM, 1999, MED EDUC, V33, P243
+   Stinebrickner R, 2006, J PUBLIC ECON, V90, P1435, DOI 10.1016/j.jpubeco.2006.03.002
+   Tayseer M, 2014, SOCIAL NETWORK ACAD
+   Thomas SL, 2000, J HIGH EDUC, V71, P591, DOI 10.2307/2649261
+   Tomás-Miquel JV, 2016, HIGH EDUC, V71, P307, DOI 10.1007/s10734-015-9904-8
+   Valletta JJ, 2017, ANIM BEHAV, V124, P203, DOI 10.1016/j.anbehav.2016.12.005
+   Van Cleemput K.V., 2010, Bulletin of Science, Technology, Society, V30, P75, DOI [10.1177/0270467610363143, DOI 10.1177/0270467610363143]
+   van de Mortel TF, 2008, AUST J ADV NURS, V25, P40
+   VANBLERKOM ML, 1992, J PSYCHOL, V126, P487, DOI 10.1080/00223980.1992.10543382
+   Vandamme JP, 2007, EDUC ECON, V15, P405, DOI 10.1080/09645290701409939
+   Vitale MP, 2016, J APPL STAT, V43, P115, DOI 10.1080/02664763.2015.1049517
+   Wang R, 2014, UBICOMP'14: PROCEEDINGS OF THE 2014 ACM INTERNATIONAL JOINT CONFERENCE ON PERVASIVE AND UBIQUITOUS COMPUTING, P3, DOI 10.1145/2632048.2632054
+   WHITE KR, 1982, PSYCHOL BULL, V91, P461, DOI 10.1037/0033-2909.91.3.461
+   WOLFE RN, 1995, EDUC PSYCHOL MEAS, V55, P177, DOI 10.1177/0013164495055002002
+   Yang H.L., 2003, J ASYNCHRONOUS LEARN, V7, P93
+   Yuan YC, 2006, INFORM SOC, V22, P25, DOI 10.1080/01972240500388347
+   Zimmerman DJ, 2003, REV ECON STAT, V85, P9, DOI 10.1162/003465303762687677
+NR 114
+TC 41
+Z9 50
+U1 2
+U2 79
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 2193-1127
+J9 EPJ DATA SCI
+JI EPJ Data Sci.
+PD APR 24
+PY 2018
+VL 7
+AR 10
+DI 10.1140/epjds/s13688-018-0138-8
+PG 16
+WC Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Mathematical Methods In Social Sciences
+GA GG2RS
+UT WOS:000432540800001
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Marquez, B
+   Norman, G
+   Fowler, J
+   Gans, K
+   Marcus, B
+AF Marquez, Becky
+   Norman, Greg
+   Fowler, James
+   Gans, Kim
+   Marcus, Bess
+TI Egocentric networks and physical activity outcomes in Latinas
+SO PLOS ONE
+LA English
+DT Article
+ID HEALTH BEHAVIOR-CHANGE; HACIA LA SALUD; SOCIAL SUPPORT; MINORITY WOMEN;
+   AMERICAN WOMEN; SOUTH-CAROLINA; EXERCISE; ADULTS; INTERVENTION;
+   ASSOCIATION
+AB Objective
+   Despite data linking the social environment to physical inactivity in Latinas, research on social network predictors of physical activity (PA) is limited. This study examined social network predictors of PA change in Latinas.
+   Methods
+   Egocentric network data were collected from 102 adult Latinas (egos) participating in a randomized controlled PA intervention trial for underactive women. Moderate-to-vigorous PA (MVPA) was measured in minutes per week using the 7-Day PA Recall Interview and accelerometers at baseline and 12 months. Analyses characterized social network structure, composition, tie strength, homogeneity, and support for PA and determined the relationship between network characteristics and PA outcomes.
+   Results
+   Networks had an average of four social ties (alters). Networks were high in density and transitivity and low in components, indicating high cohesion. Networks were primarily composed of females, Latinos, Spanish-speakers, and family members. Relationship ties were strong as evidenced by close living proximity, in-person contact, high emotional closeness, and long relationship duration. There was high homogeneity in demographics and PA behaviors. Multivariate analyses revealed that network size, familial ties, contact frequency, and ego-alter dissimilarities in age and running but similarities in walking, were associated with increased MVPA. Networks high in support for PA in the form of complimenting ego on exercise, taking over chores to allow ego to exercise, and co-participating with ego in exercise were also associated with greater MVPA.
+   Conclusion
+   These findings contribute to better understanding interpersonal processes that may influence behavior change in a group with especially low levels of PA.
+C1 [Marquez, Becky; Norman, Greg; Marcus, Bess] Univ Calif San Diego, Dept Family Med & Publ Hlth, La Jolla, CA 92093 USA.
+   [Fowler, James] Univ Calif San Diego, Sch Med, La Jolla, CA 92093 USA.
+   [Gans, Kim] Dept Human Dev & Family Studies, Storrs, CT USA.
+C3 University of California System; University of California San Diego;
+   University of California System; University of California San Diego
+RP Marquez, B (corresponding author), Univ Calif San Diego, Dept Family Med & Publ Hlth, La Jolla, CA 92093 USA.
+EM bemarquez@ucsd.edu
+FU National Cancer Institute [R01CA159954]
+FX This work was supported by the National Cancer Institute (R01CA159954 to
+   Dr. Bess Marcus). The funder had no role in study design, data
+   collection and analysis, decision to publish, or preparation of the
+   manuscript.
+CR Ainsworth BE, 2003, AM J PREV MED, V25, P23, DOI 10.1016/S0749-3797(03)00161-2
+   Ali MM, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0021179
+   [Anonymous], 1986, TREATING ADDICTIVE B
+   [Anonymous], 1996, Physical activity and health: A report of the Surgeon General
+   Arredondo EM, 2017, AM J PUBLIC HEALTH, V107, P1109, DOI 10.2105/AJPH.2017.303785
+   Bandura A., 1986, SOCIAL FDN THOUGHT A, DOI DOI 10.5465/AMR.1987.4306538
+   Barclay KJ, 2013, BMC PUBLIC HEALTH, V13, DOI 10.1186/1471-2458-13-784
+   Belza Basia, 2004, Prev Chronic Dis, V1, pA09
+   Booth ML, 2000, PREV MED, V31, P15, DOI 10.1006/pmed.2000.0661
+   Borgatti SP., 2018, ANAL SOCIAL NETWORKS
+   Bot SD, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0165041
+   Carlson SA, 2010, AM J PREV MED, V39, P305, DOI 10.1016/j.amepre.2010.06.006
+   Castro CM, 1999, PSYCHOL HEALTH, V14, P277, DOI 10.1080/08870449908407328
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Child S, 2017, AM J PREV MED, V53, P385, DOI 10.1016/j.amepre.2017.04.007
+   Christakis NA, 2009, Connected: The Surprising Power of Our Social Networks and How They Shape Our Lives
+   Conn VS, 2012, J HEALTH CARE POOR U, V23, P59, DOI 10.1353/hpu.2012.0032
+   de la Haye K, 2011, SOC SCI MED, V73, P719, DOI 10.1016/j.socscimed.2011.06.023
+   Dowda M, 2003, ANN BEHAV MED, V26, P15, DOI 10.1207/S15324796ABM2601_03
+   Eyler AA, 2002, WOMEN HEALTH, V36, P123
+   Eyler AA, 1999, SOC SCI MED, V49, P781, DOI 10.1016/S0277-9536(99)00137-9
+   Falba TA, 2008, HEALTH SERV RES, V43, P96, DOI 10.1111/j.1475-6773.2007.00754.x
+   Firestone MJ, 2015, PREV MED, V72, P50, DOI 10.1016/j.ypmed.2015.01.001
+   Harralson TL, 2007, J COMMUN HEALTH, V32, P401, DOI 10.1007/s10900-007-9059-3
+   Hovell MF, 2008, AM J HEALTH PROMOT, V22, P155, DOI 10.4278/ajhp.22.3.155
+   Jackson SE, 2015, JAMA INTERN MED, V175, P385, DOI 10.1001/jamainternmed.2014.7554
+   Janssen I, 2014, INT J BEHAV MED, V21, P511, DOI 10.1007/s12529-013-9324-z
+   Keller CS, 2008, APPL NURS RES, V21, P110, DOI 10.1016/j.apnr.2006.12.003
+   Kogovsek T, 2004, QUAL QUANT, V38, P517
+   KRACKHARDT D, 1988, SOC PSYCHOL QUART, V51, P123, DOI 10.2307/2786835
+   Larsen BA, 2014, INT J BEHAV MED, V21, P529, DOI 10.1007/s12529-013-9318-x
+   Litwin H, 2003, J AGING PHYS ACTIV, V11, P389, DOI 10.1123/japa.11.3.389
+   Macken L C, 2000, J Cardiopulm Rehabil, V20, P361, DOI 10.1097/00008483-200011000-00005
+   Maher CA, 2014, J MED INTERNET RES, V16, DOI 10.2196/jmir.2952
+   Marcus BH, 2016, INT J BEHAV NUTR PHY, V13, DOI 10.1186/s12966-016-0385-7
+   Marcus BH, 2015, CONTEMP CLIN TRIALS, V44, P149, DOI 10.1016/j.cct.2015.08.004
+   Marquez B, 2016, HLTH PSYCHOL
+   Marquez B, 2016, HEALTH PSYCHOL, V35, P1392, DOI 10.1037/hea0000421
+   Marquez B, 2016, OBESITY, V24, P568, DOI 10.1002/oby.21382
+   Marquez B, 2014, HEALTH PSYCHOL, V33, P544, DOI 10.1037/hea0000092
+   MARSDEN PV, 1987, AM SOCIOL REV, V52, P122, DOI 10.2307/2095397
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Moore S, 2014, J EPIDEMIOL COMMUN H, V68, P233, DOI 10.1136/jech-2013-202996
+   Motteli S, 2017, J SPORTS HLTH SCI, P1
+   Parra-Medina D, 2011, QUEST, V63, P100, DOI 10.1080/00336297.2011.10483668
+   Poston WSC, 2001, AM J HEALTH BEHAV, V25, P396
+   Sawka KJ, 2014, J OBES, V2014, DOI 10.1155/2014/632689
+   Shelton RC, 2011, AM J PUBLIC HEALTH, V101, P2102, DOI 10.2105/AJPH.2010.196030
+   Shiovitz-Ezra S, 2012, SOC SCI MED, V75, P901, DOI 10.1016/j.socscimed.2012.04.031
+   Shoham DA, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0039795
+   Simpkins SD, 2013, J RES ADOLESC, V23
+   Sloane R, 2009, MED SCI SPORT EXER, V41, P1334, DOI 10.1249/MSS.0b013e3181984fa8
+   Ståhl T, 2001, SOC SCI MED, V52, P1, DOI 10.1016/S0277-9536(00)00116-7
+   Tamers SL, 2013, PREV MED, V56, P70, DOI 10.1016/j.ypmed.2012.11.012
+   Valente T. W., 2010, Social networks and health: Models, methods, and applications, DOI DOI 10.1093/ACPROF:OSO/9780195301014.001.0001
+   Valente TW, 2013, J ADOLESCENT HEALTH, V52, P358, DOI 10.1016/j.jadohealth.2012.06.014
+   Valente TW, 1997, SOC SCI MED, V45, P677, DOI 10.1016/S0277-9536(96)00385-1
+   Viruell-Fuentes EA, 2013, ETHNIC HEALTH, V18, P586, DOI 10.1080/13557858.2013.814763
+   Willey JZ, 2010, J COMMUN HEALTH, V35, P602, DOI 10.1007/s10900-010-9249-2
+NR 59
+TC 10
+Z9 13
+U1 4
+U2 15
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JUN 18
+PY 2018
+VL 13
+IS 6
+AR e0199139
+DI 10.1371/journal.pone.0199139
+PG 17
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA GJ6XV
+UT WOS:000435528600079
+PM 29912935
+OA gold, Green Submitted, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Stella, M
+   Ferrara, E
+   De Domenico, M
+AF Stella, Massimo
+   Ferrara, Emilio
+   De Domenico, Manlio
+TI Bots increase exposure to negative and inflammatory content in online
+   social systems
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE computational social science; complex networks; machine learning;
+   sociotechnical systems; human behavior
+ID NETWORKS; CONTAGION
+AB Societies are complex systems, which tend to polarize into subgroups of individuals with dramatically opposite perspectives. This phenomenon is reflected- and often amplified-in online social networks, where, however, humans are no longer the only players and coexist alongside with social bots-that is, software-controlled accounts. Analyzing large-scale social data collected during the Catalan referendum for independence on October 1, 2017, consisting of nearly 4 millions Twitter posts generated by almost 1 million users, we identify the two polarized groups of Independentists and Constitutionalists and quantify the structural and emotional roles played by social bots. We show that bots act from peripheral areas of the social system to target influential humans of both groups, bombarding Independentists with violent contents, increasing their exposure to negative and inflammatory narratives, and exacerbating social conflict online. Our findings stress the importance of developing countermeasures to unmask these forms of automated social manipulation.
+C1 [Stella, Massimo; De Domenico, Manlio] Fdn Bruno Kessler, Ctr Informat & Commun Technol, I-38123 Trento, Italy.
+   [Ferrara, Emilio] Univ Southern Calif, USC Informat Sci Inst, Marina Del Rey, CA 90292 USA.
+C3 Fondazione Bruno Kessler; University of Southern California
+RP De Domenico, M (corresponding author), Fdn Bruno Kessler, Ctr Informat & Commun Technol, I-38123 Trento, Italy.; Ferrara, E (corresponding author), Univ Southern Calif, USC Informat Sci Inst, Marina Del Rey, CA 90292 USA.
+EM emiliofe@usc.edu; mdedomenico@fbk.eu
+RI Ferrara, Emilio/F-6136-2012; Stella, Massimo/AAY-5215-2020; De Domenico,
+   Manlio/B-5826-2014
+OI Stella, Massimo/0000-0003-1810-9699; De Domenico,
+   Manlio/0000-0001-5158-8594; Ferrara, Emilio/0000-0002-1942-2831
+FU Air Force Office of Scientific Research Award [FA9550-17-1-0327]
+FX E.F. was supported by Air Force Office of Scientific Research Award
+   FA9550-17-1-0327.
+CR Anderson ML, 2003, ARTIF INTELL, V149, P91, DOI 10.1016/S0004-3702(03)00054-7
+   [Anonymous], 2011, Proceedings of the 20th ACM international conference on Information and knowledge man- agement
+   [Anonymous], 2017, First Monday, DOI [10.5210/fm.v22i8.8005, DOI 10.5210/FM.V22I8.8005]
+   [Anonymous], 2010, NETWORKS INTRO, DOI [DOI 10.1093/ACPROF:OSO/9780199206650.001.0001, DOI 10.1093/cercor/bhj127]
+   Aral S, 2012, SCIENCE, V337, P337, DOI 10.1126/science.1215842
+   Aral S, 2009, P NATL ACAD SCI USA, V106, P21544, DOI 10.1073/pnas.0908800106
+   Baronchelli A, 2013, TRENDS COGN SCI, V17, P348, DOI 10.1016/j.tics.2013.04.010
+   Bond RM, 2012, NATURE, V489, P295, DOI 10.1038/nature11421
+   Borge-Holthoefer J, 2016, SCI ADV, V2, DOI 10.1126/sciadv.1501158
+   Brin S, 2012, COMPUT NETW, V56, P3825, DOI 10.1016/j.comnet.2012.10.007
+   Centola D, 2011, SCIENCE, V334, P1269, DOI 10.1126/science.1207055
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Conover M.D., 2011, P INT AAAI C WEB SOC, P89
+   Cruz FL, 2014, EXPERT SYST APPL, V41, P5984, DOI 10.1016/j.eswa.2014.04.005
+   Ding CHQ, 2001, 2001 IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS, P107, DOI 10.1109/ICDM.2001.989507
+   Ferrara E, 2016, First Monday, V21, P1, DOI 10.5210/fm.v21i11.7090
+   Ferrara E, 2016, COMMUN ACM, V59, P96, DOI 10.1145/2818717
+   González-Bailón S, 2011, SCI REP-UK, V1, DOI 10.1038/srep00197
+   Kenett YN, 2018, P NATL ACAD SCI USA, V115, P867, DOI 10.1073/pnas.1717362115
+   Kenett YN, 2014, FRONT HUM NEUROSCI, V8, DOI 10.3389/fnhum.2014.00407
+   Kramer ADI, 2014, P NATL ACAD SCI USA, V111, P8788, DOI 10.1073/pnas.1320040111
+   Lazer D, 2009, SCIENCE, V323, P721, DOI 10.1126/science.1167742
+   Lee JK, 2014, J COMMUN, V64, P702, DOI 10.1111/jcom.12077
+   Li A, 2017, SCIENCE, V358, P1042, DOI 10.1126/science.aai7488
+   Metaxas P., 2015, P INT AAAI C WEB SOC, V9, P658, DOI [10.1609/icwsm.v9i1.14661, DOI 10.1609/ICWSM.V9I1.14661]
+   Ninio A, 2014, PHYS LIFE REV, V11, P632, DOI 10.1016/j.plrev.2014.05.004
+   Onnela JP, 2010, P NATL ACAD SCI USA, V107, P18375, DOI 10.1073/pnas.0914572107
+   Sawyer R. K., 2005, Social emergence: Societies as complex systems
+   SCHELLING TC, 1971, J MATH SOCIOL, V1, P143, DOI 10.1080/0022250X.1971.9989794
+   Shirado H, 2017, NATURE, V545, P370, DOI 10.1038/nature22332
+   Shirado H, 2013, NAT COMMUN, V4, DOI 10.1038/ncomms3814
+   Stella M, 2017, SCI REP-UK, V7, DOI 10.1038/srep46730
+   Steyvers M, 2005, COGNITIVE SCI, V29, P41, DOI 10.1207/s15516709cog2901_3
+   Taule Mariona, 2017, CEUR Workshop Proceedings, P157
+   TRAVERS J, 1969, SOCIOMETRY, V32, P425, DOI 10.2307/2786545
+   Tsur O., 2012, PROC 5 ACM INT C WEB, P643
+   Varol Onur, 2017, 11 INT AAAI C WEB SO
+NR 37
+TC 219
+Z9 238
+U1 9
+U2 90
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD DEC 4
+PY 2018
+VL 115
+IS 49
+BP 12435
+EP 12440
+DI 10.1073/pnas.1803470115
+PG 6
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA HC9KK
+UT WOS:000452124700043
+PM 30459270
+OA Green Submitted, hybrid, Green Published
+DA 2024-11-22
+ER

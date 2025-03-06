@@ -1,0 +1,675 @@
+
+PT J
+AU Pignolet, YA
+   Schmid, S
+   Seelisch, A
+AF Pignolet, Yvonne-Anne
+   Schmid, Stefan
+   Seelisch, Arne
+TI Gender-specific homophily on Instagram and implications on information
+   spread
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID ONLINE SOCIAL NETWORKS; WORD-OF-MOUTH; DIFFUSION
+AB More and more social interactions happen online. On online social networks such as Instagram, millions of users share, like, and comment on photos and videos every day, interacting with other users world wide, at large scale and at a high rate. These networks do not only introduce new user experiences, but they also enable new insights into human behavior. Here, we use these new possibilities to study homophilic behavior-the tendency of individuals to bond with people similar to themselves. While homophilic behavior has been observed in many contexts, little is known about gender-specific differences and the extent of homophilic behavior of female and male users in online social networks. Based on a unique and extensive data set, covering over 800,000 (directed) Instagram interactions and a time span of three years, we shed light on differences between genders and uncover an intriguing asymmetry of homophily. In particular, we show that female users exhibit homophily to a larger extent than male users. The magnitude of this asymmetry depends on the type of interaction, as differences are more pronounced for 'comment'-interactions than for 'like'-interactions. Given these empirical observations, we further study the implications of such gender differences on the spread of information in social networks in a basic model. We find that on average, a piece of information that originates from a female group reaches significantly more female users than male users.
+C1 [Pignolet, Yvonne-Anne] DFINITY, Zurich, Switzerland.
+   [Schmid, Stefan] Weizenbaum Inst, Berlin, Germany.
+   [Schmid, Stefan; Seelisch, Arne] TU Berlin, Berlin, Germany.
+C3 Technical University of Berlin
+RP Pignolet, YA (corresponding author), DFINITY, Zurich, Switzerland.; Schmid, S (corresponding author), Weizenbaum Inst, Berlin, Germany.; Schmid, S (corresponding author), TU Berlin, Berlin, Germany.
+EM YvonneAnne.pignolet@gmail.com; schmiste@gmail.com
+OI Schmid, Stefan/0000-0002-7798-1711
+FU Projekt DEAL; German Federal Ministry of Education and Research (BMBF)
+   [16KISK020K]; ERC Consolidator Grant ADJUSTNET [864228]
+FX Open Access funding enabled and organized by Projekt DEAL. S.S.
+   acknowledges generous funding by the German Federal Ministry of
+   Education and Research (BMBF), grant 16KISK020K, and the ERC
+   Consolidator Grant ADJUSTNET (864228).
+CR Amedie Jacob, 2015, The Impact of Social Media on Society
+   ANDERSON RM, 1991, B MATH BIOL, V53, P3, DOI 10.1016/S0092-8240(05)80039-4
+   [Anonymous], 2022, CHART
+   Avin C, 2015, PROCEEDINGS OF THE 6TH INNOVATIONS IN THEORETICAL COMPUTER SCIENCE (ITCS'15), P41, DOI 10.1145/2688073.2688097
+   Bessi A, 2016, EUR PHYS J-SPEC TOP, V225, P2047, DOI 10.1140/epjst/e2015-50319-0
+   Bessi A, 2015, WWW'15 COMPANION: PROCEEDINGS OF THE 24TH INTERNATIONAL CONFERENCE ON WORLD WIDE WEB, P355, DOI 10.1145/2740908.2745939
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   Coyne SM, 2020, COMPUT HUM BEHAV, V104, DOI 10.1016/j.chb.2019.106160
+   DALEY DJ, 1964, NATURE, V204, P1118, DOI 10.1038/2041118a0
+   De Choudhury M, 2010, Arxiv, DOI arXiv:1006.1702
+   Ertug G, 2022, ACAD MANAG ANN, V16, P38, DOI 10.5465/annals.2020.0230
+   Guilbeault D, 2018, COMPUT SOC SCI, P3, DOI 10.1007/978-3-319-77332-2_1
+   Guille A, 2013, SIGMOD REC, V42, P17
+   Halberstam Y, 2016, J PUBLIC ECON, V143, P73, DOI 10.1016/j.jpubeco.2016.08.011
+   Heidemann J, 2012, COMPUT NETW, V56, P3866, DOI 10.1016/j.comnet.2012.08.009
+   Hosni AIE, 2018, LECT NOTES COMPUT SC, V11302, P14, DOI 10.1007/978-3-030-04179-3_2
+   Hyde JS, 2014, ANNU REV PSYCHOL, V65, P373, DOI 10.1146/annurev-psych-010213-115057
+   Johansson T, 2017, PHYSICA A, V471, P126, DOI 10.1016/j.physa.2016.11.132
+   KANDEL DB, 1978, AM J SOCIOL, V84, P427, DOI 10.1086/226792
+   Kandhway K, 2014, COMMUN NONLINEAR SCI, V19, P4135, DOI 10.1016/j.cnsns.2014.04.022
+   Khanam KZ, 2023, MULTIMED TOOLS APPL, V82, P8811, DOI 10.1007/s11042-021-11857-1
+   Kostka J, 2008, LECT NOTES COMPUT SC, V5058, P185, DOI 10.1007/978-3-540-69355-0_16
+   Kwiek M, 2021, J INFORMETR, V15, DOI 10.1016/j.joi.2021.101171
+   Lam D, 2009, J INT MARKETING, V17, P55, DOI 10.1509/jimk.17.3.55
+   Laniado D, 2016, EPJ DATA SCI, V5, DOI 10.1140/epjds/s13688-016-0080-6
+   Pallis G, 2011, STUD COMPUT INTELL, V331, P213
+   Richards D, 2015, J PAEDIATR CHILD H, V51, P1152, DOI 10.1111/jpc.13023
+   Roth C., 2021, arXiv, DOI [10.48550/ARXIV.2112.00554, DOI 10.48550/ARXIV.2112.00554]
+   Stoica AA, 2018, WEB CONFERENCE 2018: PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE (WWW2018), P923, DOI 10.1145/3178876.3186140
+   Styczen M, 2022, PROCEEDINGS OF THE 31ST ACM INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT, CIKM 2022, P4515, DOI 10.1145/3511808.3557708
+   Szell M, 2013, SCI REP-UK, V3, DOI 10.1038/srep01214
+   Tardos, 2003, P 9 ACM SIGKDD INT C, P137, DOI 10.1145/956750.956769
+   Teng YW, 2021, PROCEEDINGS OF THE 30TH ACM INTERNATIONAL CONFERENCE ON INFORMATION & KNOWLEDGE MANAGEMENT, CIKM 2021, P1804, DOI 10.1145/3459637.3482375
+   U.G.C. Commission, final report of the commission
+   Varey RJ, 2013, J MACROMARKETING, V33, P354, DOI 10.1177/0276146713489150
+   Vilella S, 2020, FUTURE INTERNET, V12, DOI 10.3390/fi12100173
+   Vosoughi S, 2018, SCIENCE, V359, P1146, DOI 10.1126/science.aap9559
+   We Are Social DataReportal Hootsuite, 2022, Daily time spent on social networking by internet users worldwide from 2012 to 2022
+   Young MJ, 2022, PHYS REV E, V105, DOI 10.1103/PhysRevE.105.044315
+NR 39
+TC 1
+Z9 1
+U1 0
+U2 2
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD JAN 3
+PY 2024
+VL 14
+IS 1
+AR 451
+DI 10.1038/s41598-023-51117-w
+PG 10
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA FL6P2
+UT WOS:001145989400023
+PM 38172331
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Monnar, AA
+   Rojas, JP
+   Labra, BP
+AF Monnar, Ayme Arango
+   Rojas, Jorge Perez
+   Labra, Barbara Polete
+TI Cross-lingual hate speech detection using domain-specific word
+   embeddings
+SO PLOS ONE
+LA English
+DT Article
+AB THIS ARTICLE USES WORDS OR LANGUAGE THAT IS CONSIDERED PROFANE, VULGAR, OR OFFENSIVE BY SOME READERS. Hate speech detection in online social networks is a multidimensional problem, dependent on language and cultural factors. Most supervised learning resources for this task, such as labeled datasets and Natural Language Processing (NLP) tools, have been specifically tailored for English. However, a large portion of web users around the world speak different languages, creating an important need for efficient multilingual hate speech detection approaches. In particular, such approaches should be able to leverage the limited cross-lingual resources currently existing in their learning process. The cross-lingual transfer in this task has been difficult to achieve successfully. Therefore, we propose a simple yet effective method to approach this problem. To our knowledge, ours is the first attempt to create a multilingual embedding model specific to this problem. We validate the effectiveness of our approach by performing an extensive comparative evaluation against several well-known general-purpose language models that, unlike ours, have been trained on massive amounts of data. We focus on a zero-shot cross-lingual evaluation scenario in which we classify hate speech in one language without having access to any labeled data. Despite its simplicity, our embeddings outperform more complex models for most experimental settings we tested. In addition, we provide further evidence of the effectiveness of our approach through an ad hoc qualitative exploratory analysis, which captures how hate speech is displayed in different languages. This analysis allows us to find new cross-lingual relations between words in the hate-speech domain. Overall, our findings indicate common patterns in how hate speech is expressed across languages and that our proposed model can capture such relationships significantly.
+C1 [Monnar, Ayme Arango; Labra, Barbara Polete] Univ Chile, Comp Sci Dept, Santiago, Chile.
+   [Rojas, Jorge Perez] Cero Ai, Santiago, Chile.
+   [Labra, Barbara Polete] Amazon, Washington, DC USA.
+C3 Universidad de Chile; Amazon.com
+RP Monnar, AA (corresponding author), Univ Chile, Comp Sci Dept, Santiago, Chile.
+EM arangoayme@gmail.com
+FU Instituto Milenium Fundamentos de los Datos IMFD
+FX The author: Ayme Arango Monnar received funding this paper research from
+   "Instituto Milenium Fundamentos de los Datos IMFD" and the author
+   Barbara Poblete Labra received fondos from "Fondecyt", with the
+   following characteristics: The funders had no role in study design, data
+   collection and analysis, decision to publish, or preparation of the
+   manuscript. This does not alter our adherence to PLOS ONE policies on
+   sharing data and materials.
+CR Agrawal S, 2018, LECT NOTES COMPUT SC, V10772, P141, DOI 10.1007/978-3-319-76941-7_11
+   Alatawi HS, 2021, IEEE ACCESS, V9, P106363, DOI 10.1109/ACCESS.2021.3100435
+   Aluru Sai Saketh, CoRR. abs/2004.06465. 2020
+   Arango Aym., Information Systems, V2020
+   Artetxe M, 2020, 58TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2020), P4623
+   Artetxe M, 2018, 2018 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2018), P3632
+   Badjatiya P, 2017, WWW'17 COMPANION: PROCEEDINGS OF THE 26TH INTERNATIONAL CONFERENCE ON WORLD WIDE WEB, P759, DOI 10.1145/3041021.3054223
+   Bahdanau D, 2016, Arxiv, DOI arXiv:1409.0473
+   Basile Valerio, 2019, SemEval
+   Bassignana Elisa, 2018, P 5 CLIC IT
+   Bose T, 2022, FINDINGS OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2022), P372
+   Bose Tulika, 2022, P 29 INT C COMP LING, P6656
+   Canete J., 2020, PRACT ML DEV COUNTR
+   Cao R, 2020, PROCEEDINGS OF THE 12TH ACM CONFERENCE ON WEB SCIENCE, WEBSCI 2020, P11, DOI 10.1145/3394231.3397890
+   Pereira-Kohatsu JC, 2019, SENSORS-BASEL, V19, DOI 10.3390/s19214654
+   Caselli T, 2021, Arxiv, DOI arXiv:2010.12472
+   Chatzakou D, 2017, PROCEEDINGS OF THE 2017 ACM WEB SCIENCE CONFERENCE (WEBSCI '17), P13, DOI 10.1145/3091478.3091487
+   Conneau A., 2020, P 58 ANN M ASS COMP, P8440, DOI DOI 10.18653/V1/2020.ACL-MAIN.747
+   Conneau A, 2018, 2018 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2018), P2475
+   Conneau Alexis, 2018, Word translation without parallel data
+   Conneau Alexis, 2017, Word Translation Without Parallel Data
+   Cui YM, 2021, IEEE-ACM T AUDIO SPE, V29, P3504, DOI 10.1109/TASLP.2021.3124365
+   Davidson T., 2017, PROC INT AAAI C WEB, P512, DOI [DOI 10.1609/ICWSM.V11I1.14955, 10.1609/icwsm.v11i1.14955]
+   Davidson T, 2019, Arxiv, DOI arXiv:1905.12516
+   Devlin Jacob, P NAACL HLT, P4171
+   ElSherief Mai, 2018, P 12 INT AAAI C WEB, DOI DOI 10.48550/ARXIV.1804.04257
+   Faruqui M., 2014, P 14 C EUROPEAN CHAP, P462, DOI DOI 10.3115/V1/E14-1049
+   Gamback B., 2017, P 1 WORKSHOP ABUSIVE, P85, DOI DOI 10.18653/V1/W17-3013
+   Glavas G, 2019, 57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019), P710
+   Hipp J., 2000, Algorithms for Association Rule Mining-a General Survey and Comparison
+   Hoang M, 2019, P 22 NORD C COMP LIN, P187
+   Hosseinmardi H, 2015, LECT NOTES COMPUT SC, V9471, P49, DOI 10.1007/978-3-319-27433-1_4
+   Joulin A, 2018, Arxiv, DOI arXiv:1804.07745
+   Kamble S, 2018, Arxiv, DOI arXiv:1811.05145
+   Labusch K., 2019, P 15 C NAT LANG PROC, P1
+   Liu JH, 2021, PROCEEDINGS OF THE 32ND ACM CONFERENCE ON HYPERTEXT AND SOCIAL MEDIA (HT '21), P133, DOI 10.1145/3465336.3475117
+   Mannila H, 1997, DATA MIN KNOWL DISC, V1, P259, DOI 10.1023/A:1009748302351
+   Mikolov T, 2013, ARXIV13013781
+   Mikolov T, 2013, Arxiv, DOI arXiv:1309.4168
+   Mozafari M, 2020, PLOS ONE, V15, DOI 10.1371/journal.pone.0237861
+   Pamungkas Endang Wahyu, 2023, Personal and Ubiquitous Computing, P17, DOI 10.1007/s00779-021-01609-1
+   Pamungkas EW, 2019, 57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019:): STUDENT RESEARCH WORKSHOP, P363
+   Papegnies Etienne, 2017, Statistical Language and Speech Processing. 5th International Conference, SLSP. Proceedings: LNAI 10583, P70, DOI 10.1007/978-3-319-68456-7_6
+   Park J.H., 2017, P 1 WORKSHOP ABUSIVE, P41
+   Perez Juan Manuel, CoRR. abs/2008.06408. 2020
+   Pires T, 2019, Arxiv, DOI arXiv:1906.01502
+   Polignano Marco, 2019, P 6 ICCL
+   Ranasinghe Tharindu, 2020, bookProceedings of FIRE
+   Ruder S, 2024, Arxiv, DOI arXiv:1808.09334
+   Ruder S, 2019, J ARTIF INTELL RES, V65, P569, DOI 10.1613/jair.1.11640
+   Saleh H, 2023, APPL ARTIF INTELL, V37, DOI 10.1080/08839514.2023.2166719
+   Sanguinetti M, 2018, PROCEEDINGS OF THE ELEVENTH INTERNATIONAL CONFERENCE ON LANGUAGE RESOURCES AND EVALUATION (LREC 2018), P2798
+   Sap M, 2019, 57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019), P1668
+   Schwenk H., 2017, P 2 WORKSH REPR LEAR, P157
+   Shakurova L, 2019, 4TH WORKSHOP ON REPRESENTATION LEARNING FOR NLP (REPL4NLP-2019), P230
+   Stappen Lukas, CoRR. abs/2004.13850
+   Tahmasbi N, 2018, PROCEEDINGS OF THE 51ST ANNUAL HAWAII INTERNATIONAL CONFERENCE ON SYSTEM SCIENCES (HICSS), P2151
+   Vitiugin Fedor, 2021, 13 ACM WEB SCI C
+   Vulic I, 2019, 2019 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING AND THE 9TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING (EMNLP-IJCNLP 2019), P4407
+   Waseem Z., 2016, PROC NAACL STUDENT R, P88, DOI [10.18653/v1/n16-2013, DOI 10.18653/V1/N16-2013]
+   Zhang ZQ, 2018, LECT NOTES COMPUT SC, V10843, P745, DOI 10.1007/978-3-319-93417-4_48
+NR 61
+TC 0
+Z9 0
+U1 1
+U2 1
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JUL 30
+PY 2024
+VL 19
+IS 7
+AR e0306521
+DI 10.1371/journal.pone.0306521
+PG 18
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA J8N2L
+UT WOS:001339567300008
+PM 39078840
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Yuan, KF
+   Zhang, XX
+AF Yuan, Kefeng
+   Zhang, Xiaoxia
+TI The impact of internet usage preferences on labor income: Evidence from
+   China
+SO PLOS ONE
+LA English
+DT Article
+ID TECHNOLOGY; EMPLOYMENT; PRODUCTIVITY; INEQUALITY; WAGES; WORK; GIG
+AB Background The widespread application and iterative updating of computers and Internet communication technologies have not only increased productivity and enhanced intra- and inter-enterprise collaboration, but have also led to significant changes in the labor market and residents' labor income. In the digital era, accepting digital technology and possessing a certain degree of digital literacy have become the necessary abilities for people to survive and develop. However, the differences in digital literacy caused by individual differences will inevitably bring about a series of chain reactions. Therefore, it is necessary to study the subtle impact of Internet usage preference on residents' labor income in the context of digital transformation to promote digital equity. Objective This study aims to empirically analyze micro-level survey data to reveal the impact of individual differences in internet usage preferences on their labor income. The findings provide theoretical references for government policy formulation and individual development. Methods A function model was established to analyze the impact of individual internet usage preferences on labor income. Relevant data from the authoritative Chinese General Social Survey (CGSS2017) were selected, and empirical analyses for significance, heterogeneity, and robustness were conducted using the ZINB and CMP models in the Stata statistical software. Conclusion (1) Higher Internet Usage Frequency (IUF) increases the likelihood of higher income. (2) Engaging in Online Social Networking (OSN) helps in accumulating social capital, leading to higher labor income. Meanwhile, participating in Online Entertainment (OE) relieves work and life stresses, thereby increasing labor income. Proficiency in Accessing Online Information (AOI) is associated with higher labor income, while frequent involvement in Online Business (OB) is correlated with higher personal income. Additionally, the Marginal utility of these internet usage preferences indicate that OB > AOI > OSN > OE. (3) Individual variations in physical, psychological, and social characteristics significantly influence the labor income effects of internet usage preferences. (4) There are substantial differences in the labor income effects of internet usage preferences between urban and rural areas and across different regions. (5) Education attainment has a positive mediating effect on the labour income effect of individual Internet use preferences, and enhancing residents' digital literacy has a positive effect on increasing their labour income and alleviating inequality in digital gains. (6) The popularity of Internet technology is the background that triggers an individual's Internet use, and the acceptance of a particular Internet technology is catalyzed by an individual's perception of the value and difficulty of mastering that technology; an individual's biased learning or proficiency in a particular Internet technology in order to gain higher competitiveness and value in the labour market is an important internal driving force.
+C1 [Yuan, Kefeng; Zhang, Xiaoxia] Ningde Normal Univ, Inst Econ & Management, Ningde, Fujian, Peoples R China.
+   [Yuan, Kefeng; Zhang, Xiaoxia] Tomsk State Univ, Inst Educ & Arts, Tomsk, Tomsk State, Russia.
+C3 Ningde Normal University; Tomsk State University
+RP Zhang, XX (corresponding author), Ningde Normal Univ, Inst Econ & Management, Ningde, Fujian, Peoples R China.; Zhang, XX (corresponding author), Tomsk State Univ, Inst Educ & Arts, Tomsk, Tomsk State, Russia.
+EM t0917@ndnu.edu.cn
+OI Yuan, Kefeng/0009-0007-1049-244X
+FU National Social Science Foundation of China [22BJY045]; Fujian
+   Provincial Science and Technology Department [2023R0071]; Ningde Normal
+   University [2022FZ01]
+FX This work was supported by grants from the National Social Science
+   Foundation of China (No.22BJY045), Fujian Provincial Science and
+   Technology Department (No. 2023R0071) and Ningde Normal University (No.
+   2022FZ01).
+CR Acemoglu D, 2002, J ECON LIT, V40, P7
+   Acemoglu D, 2003, J EUR ECON ASSOC, V1, P1, DOI 10.1162/154247603322256756
+   Acemoglu D, 2011, HBK ECON, V4, P1043, DOI 10.1016/S0169-7218(11)02410-5
+   Adachi Hideyuki., 2019, Growth and Income Distribution Under Biased Technological Progress: Theory and Empirics, DOI [10.1007/978-981-13-3726-01, DOI 10.1007/978-981-13-3726-01]
+   Amichai-Hamburger Y, 2010, COMPUT HUM BEHAV, V26, P1289, DOI 10.1016/j.chb.2010.03.018
+   Amiel T, 2004, COMPUT HUM BEHAV, V20, P711, DOI 10.1016/j.chb.2004.09.002
+   [Anonymous], 2016, China statistical yearbook
+   Atrostic B.K., 2002, Working Papers, P02
+   Autor D, 2018, BROOKINGS PAP ECO AC, P1
+   Bartel A, 2007, Q J ECON, V122, P1721, DOI 10.1162/qjec.2007.122.4.1721
+   Bauer JM, 2018, TELECOMMUN POLICY, V42, P333, DOI 10.1016/j.telpol.2017.05.009
+   Berg J., 2018, DIGITAL LABOUR PLATF
+   Berners-Lee T., 1999, HarperOne, V226
+   Bloom N, 2015, Q J ECON, V130, P165, DOI 10.1093/qje/qju032
+   Borghans L., 2008, Journal of Income Distribution, V17, P37, DOI [10.25071/1874-6322.18129, DOI 10.25071/1874-6322.18129]
+   Brynjolfsson E., 2014, 2 MACHINE AGE WORK P
+   Cascio WF, 2016, ANNU REV ORGAN PSYCH, V3, P349, DOI 10.1146/annurev-orgpsych-041015-062352
+   Castellacci F, 2018, RES POLICY, V47, P308, DOI 10.1016/j.respol.2017.11.007
+   Castro F, 2019, CRIT CONSTR, P141, DOI 10.1016/j.chb.2018.09.001
+   China Academy of Information and Communications Technology (CAICT), 2023, RES REPORT DEV CHINA
+   Chinese General Social Survey (CGSS), 2017, National Survey Research Center (NSRC) at Renmin University of China
+   DAVIS FD, 1989, MIS QUART, V13, P319, DOI 10.2307/249008
+   DeCanio SJ, 2016, J MACROECON, V49, P280, DOI 10.1016/j.jmacro.2016.08.003
+   Dettling LJ, 2017, ILR REV, V70, P451, DOI 10.1177/0019793916644721
+   DiMaggio P, 2008, AM SOCIOL REV, V73, P227, DOI 10.1177/000312240807300203
+   Du Y, 2023, CHINA ECON Q INT, V3, P132, DOI 10.1016/j.ceqi.2023.06.001
+   Entorf H, 1997, EUR ECON REV, V41, P1489, DOI 10.1016/S0014-2921(97)00064-0
+   Eshet-Alkalai Y., 2004, J ED MULTIMEDIA HYPE, V13, P93, DOI DOI 10.4018/978-1-60566-198-8.CH154
+   Ferrari A., DIGCOMP: A Framework for Developing and Understanding Digital Competence in Europe
+   Frey CB, 2017, TECHNOL FORECAST SOC, V114, P254, DOI 10.1016/j.techfore.2016.08.019
+   Fuhua Liu., 2023, East China Economic Management, V37, P1, DOI [10.19629/j.cnki.34-1014/f, DOI 10.19629/J.CNKI.34-1014/F]
+   Goss EP, 2002, J LABOR RES, V23, P463, DOI 10.1007/s12122-002-1047-x
+   Graham M, 2017, TRANSFER-LONDON, V23, P135, DOI 10.1177/1024258916687250
+   Heeks R., 2017, Development Informatics Working Paper, V71, P1, DOI [DOI 10.2139/SSRN.3431033, 10.2139/ssrn.3431033]
+   Jaumotte F., 2023, IMF Staff Discussion Note 23/03
+   Jin X, 2023, CHINA ECON REV, V81, DOI 10.1016/j.chieco.2023.102038
+   KRUEGER AB, 1993, Q J ECON, V108, P33, DOI 10.2307/2118494
+   Krueger AB, 2017, BROOKINGS PAP ECO AC, P1, DOI 10.1353/eca.2017.0012
+   Lai ETC, 2020, INT J ENV RES PUB HE, V17, DOI 10.3390/ijerph17041271
+   Li GQ, 2022, J RURAL STUD, V96, P129, DOI 10.1016/j.jrurstud.2022.10.019
+   Lohmann S, 2015, OXFORD ECON PAP, V67, P740, DOI 10.1093/oep/gpv032
+   Magsamen-Conrad Kate., 2022, Technology Acceptance Models, DOI [10.1002/9781119678816.iehc0776, DOI 10.1002/9781119678816.IEHC0776]
+   Mao Y., 2018, J Finance Econ, V44, P33, DOI [10.16538/j.cnki.jfe.2018.07.003, DOI 10.16538/J.CNKI.JFE.2018.07.003]
+   Meng FL, 2023, TECHNOL ANAL STRATEG, V35, P1207, DOI 10.1080/09537325.2021.1998431
+   Miller P., 1997, AUST ECON PAP, V36, P106, DOI [10.1111/j.1467-8454.1997.tb00824.x, DOI 10.1111/J.1467-8454.1997.TB00824.X]
+   Mincer Jacob., 1974, SCH EXPERIENCE EARNI
+   Philip L, 2017, J RURAL STUD, V54, P386, DOI 10.1016/j.jrurstud.2016.12.002
+   Roodman D, 2011, STATA J, V11, P159, DOI 10.1177/1536867X1101100202
+   Roos JM, 2021, CURR PSYCHOL, V40, P1287, DOI 10.1007/s12144-018-0033-2
+   Shuping He., 2023, Journal of Shanghai University (Social Science Edition), V06, P91
+   Sun F.E., 2023, Securities Market Herald, V04, P3
+   Taherdoost H, 2018, PROCEDIA MANUF, V22, P960, DOI 10.1016/j.promfg.2018.03.137
+   UIS, Information Paper N June 2018 UIS/2018/ICT/IP/51
+   [温忠麟 Wen Zhonglin], 2014, [心理科学进展, Advances in Psychological Science], V22, P731
+   Wenyuan Sun., 2023, Economic Management of East China, V37, P1, DOI [10.19629/j.cnki.34-1014/f.220706008, DOI 10.19629/J.CNKI.34-1014/F.220706008]
+   Wood AJ, 2019, WORK EMPLOY SOC, V33, P56, DOI 10.1177/0950017018785616
+   Wu J., 2023, Journal of Hunan Agricultural University (Social Science Edition), V03, P65, DOI [10.13331/j.cnki.jhau(ss).2023.03.008, DOI 10.13331/J.CNKI.JHAU(SS).2023.03.008]
+   Yufei Mao., 2019, Economic Theory and Economic Management, V01, P72
+   Zhao X, 2022, SAGE OPEN, V12, DOI 10.1177/21582440221099290
+   Zhipeng Zhang., 2023, Statistics and Decision-Making, V39, P112, DOI [10.13546/j.cn ki.tjyjc.2023.19.020, DOI 10.13546/J.CNKI.TJYJC.2023.19.020]
+NR 60
+TC 0
+Z9 0
+U1 8
+U2 8
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD AUG 6
+PY 2024
+VL 19
+IS 8
+AR e0308287
+DI 10.1371/journal.pone.0308287
+PG 25
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA A8Q3G
+UT WOS:001285124000036
+PM 39106288
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Oktavianus, J
+   Meng, X
+AF Oktavianus, Jeffry
+   Meng, Xiang
+TI From news websites to social media: Unpacking the influence of online
+   channels on presumed influence and responses to misinformation
+SO TECHNOLOGY IN SOCIETY
+LA English
+DT Article
+DE Misinformation; Correction; Authentication; Presumed influence;
+   Perceived prevalence; Social media
+ID FACEBOOK
+AB This study employs the theoretical model of the influence of presumed influence to examine the mechanisms that drive online users to engage in information authentication and social correction, which are critical for countering misinformation. In particular, this study examines how the perceived prevalence and presumed influence of misinformation affect the intention to verify and correct misinformation, and how the use of different online platforms (i.e., social networking sites, video platforms, instant messaging applications, and news websites) for political news shapes these perceptions. This research draws on survey data from 2,589 respondents in Taiwan. The findings indicate that perceived prevalence has a positive relationship with presumed influence, which in turn, leads to authentications and corrections. Moreover, using social networking sites and video platforms for political news is positively related to perceived prevalence, whereas instant messaging applications have a negative association.
+C1 [Oktavianus, Jeffry; Meng, Xiang] Hong Kong Polytech Univ, Dept English & Commun, Hong Kong, Peoples R China.
+C3 Hong Kong Polytechnic University
+RP Oktavianus, J (corresponding author), Hong Kong Polytech Univ, Dept English & Commun, Kowloon, Hung Hom, Room AG406,Chung Sze Yuen Bldg, Hong Kong, Peoples R China.
+EM oktavianus.jeffry@polyu.edu.hk
+OI MENG, Xiang/0000-0002-9696-7181
+FX The data that support the findings of this study are openly available on
+   the Taiwan Communication Survey ' s website at https://doi.org/1
+   0.6141/TW-SRDA-D00224_1-1. The authors would like to thank the Taiwan
+   Communication Survey Committee for the data, especially Prof. Tsung-Jen
+   Shih for providing detailed information regarding the data.
+CR Allcott H, 2017, J ECON PERSPECT, V31, P211, DOI 10.1257/jep.31.2.211
+   ARMSTRONG JS, 1977, J MARKETING RES, V14, P396, DOI 10.2307/3150783
+   Baek YM, 2019, MASS COMMUN SOC, V22, P301, DOI 10.1080/15205436.2018.1562076
+   Bautista JR, 2021, INT J MED INFORM, V148, DOI 10.1016/j.ijmedinf.2021.104375
+   Bode L, 2018, HEALTH COMMUN, V33, P1131, DOI 10.1080/10410236.2017.1331312
+   Bode L, 2015, J COMMUN, V65, P619, DOI 10.1111/jcom.12166
+   Chadwick A, 2022, AM BEHAV SCI, DOI 10.1177/00027642221118264
+   Chang C., 2022, The 2021 Taiwan Communication Survey (phase two, year five): new communication technologies & social boundary expansion, DOI [10.6141/TW-SRDA-D002241-1, DOI 10.6141/TW-SRDA-D002241-1]
+   Chang CC, 2021, DIGIT JOURNAL, V9, P636, DOI 10.1080/21670811.2021.1923403
+   Chang HCH, 2021, MEDIA COMMUN-LISBON, V9, P144, DOI 10.17645/mac.v9i1.3405
+   Cotter K, 2022, SOC MEDIA SOC, V8, DOI 10.1177/20563051211069048
+   DAVISON WP, 1983, PUBLIC OPIN QUART, V47, P1, DOI 10.1086/268763
+   Flanagin A.J., 2008, DIGITAL MEDIA YOUTH, P73
+   Freelon D, 2020, POLIT COMMUN, V37, P145, DOI 10.1080/10584609.2020.1723755
+   de Zúñiga HG, 2021, INFORM COMMUN SOC, V24, P201, DOI 10.1080/1369118X.2019.1642933
+   Gunther AC, 2003, J COMMUN, V53, P199, DOI 10.1093/joc/53.2.199
+   Halpern D, 2013, COMPUT HUM BEHAV, V29, P1159, DOI 10.1016/j.chb.2012.10.008
+   Hong YS, 2023, HEALTH COMMUN, V38, P765, DOI 10.1080/10410236.2021.1975902
+   Jones J.M., 2018, GallupOctober 12
+   Karapanos E, 2016, COMPUT HUM BEHAV, V55, P888, DOI 10.1016/j.chb.2015.10.015
+   Khan ML, 2019, BEHAV INFORM TECHNOL, V38, P1194, DOI 10.1080/0144929X.2019.1578828
+   Lee S, 2022, MASS COMMUN SOC, V25, P673, DOI 10.1080/15205436.2021.1953534
+   Lemardelet L, 2022, QUANT METH PSYCHOL, V18, P66, DOI 10.20982/tqmp.18.1.p066
+   Liu PL, 2020, CYBERPSYCH BEH SOC N, V23, P789, DOI 10.1089/cyber.2020.0363
+   Liu PL, 2020, CYBERPSYCH BEH SOC N, V23, P677, DOI 10.1089/cyber.2020.0250
+   Luo C, 2024, ONLINE INFORM REV, V48, P105, DOI 10.1108/OIR-09-2022-0507
+   Luo YJ, 2021, INT J ENV RES PUB HE, V18, DOI 10.3390/ijerph18115505
+   Masood M, 2024, J BROADCAST ELECTRON, V68, P198, DOI 10.1080/08838151.2024.2304182
+   Matthes J, 2023, INFORM COMMUN SOC, V26, P3135, DOI 10.1080/1369118X.2022.2146983
+   Meng X, 2024, MASS COMMUN SOC, V27, P1366, DOI 10.1080/15205436.2023.2248956
+   Nelson JL, 2018, NEW MEDIA SOC, V20, P3720, DOI 10.1177/1461444818758715
+   Newman N., 2022, Digital news report15 June
+   Nielsen R., 2020, NAVIGATING INFODEMIC
+   Nyhan B, 2010, POLIT BEHAV, V32, P303, DOI 10.1007/s11109-010-9112-2
+   Ognyanova K., 2020, HARVARD KENNEDY SCH, V1, P1, DOI DOI 10.37016/MR-2020-024
+   Oktavianus J, 2023, COMPUT HUM BEHAV, V147, DOI 10.1016/j.chb.2023.107839
+   Oktavianus J, 2022, INT J ENV RES PUB HE, V19, DOI 10.3390/ijerph191912549
+   Oktavianus J, 2023, HEALTH COMMUN, V38, P1179, DOI 10.1080/10410236.2021.1996675
+   Pang H, 2024, J RETAIL CONSUM SERV, V77, DOI 10.1016/j.jretconser.2023.103688
+   Pang H, 2024, TECHNOL FORECAST SOC, V198, DOI 10.1016/j.techfore.2023.123023
+   Pang H, 2023, TELEMAT INFORM, V79, DOI 10.1016/j.tele.2023.101964
+   Pang H, 2022, TECHNOL SOC, V70, DOI 10.1016/j.techsoc.2022.102004
+   Pang H, 2021, TELEMAT INFORM, V59, DOI 10.1016/j.tele.2020.101561
+   Perloff R.M., 2002, The Third-Person Effect, P489
+   Podsakoff PM, 2003, J APPL PSYCHOL, V88, P879, DOI 10.1037/0021-9010.88.5.879
+   Rogers R. W., 1983, SOCIAL PSYCHOPHYSIOL, P153, DOI DOI 10.1093/DEAFED/ENT031
+   Rossini P, 2021, NEW MEDIA SOC, V23, P2430, DOI 10.1177/1461444820928059
+   Schmid Robert L., 2015, 2015 IEEE MTT-S International Microwave Symposium (IMS2015), P1, DOI 10.1109/MWSYM.2015.7166811
+   Shoemaker PJ, 2009, INT COMMUN ASSOC HAN, P73
+   Simon K, 2022, Digital 2022: Taiwan, DataReportal
+   Skoric MM, 2016, NEW MEDIA SOC, V18, P1817, DOI 10.1177/1461444815616221
+   Sun YQ, 2022, SCI COMMUN, V44, P261, DOI 10.1177/10755470221088927
+   Sun YQ, 2022, HEALTH COMMUN, V37, P1368, DOI 10.1080/10410236.2021.1888452
+   Sun YQ, 2022, HEALTH COMMUN, V37, P327, DOI 10.1080/10410236.2020.1838108
+   Sun Y, 2008, J COMMUN, V58, P280, DOI 10.1111/j.1460-2466.2008.00385.x
+   Tandoc EC, 2020, JOURNALISM, V21, P381, DOI 10.1177/1464884919868325
+   Tandoc EC, 2018, NEW MEDIA SOC, V20, P2745, DOI 10.1177/1461444817731756
+   The Trusted Web, State of Misinformation 2021- United States
+   TVERSKY A, 1973, COGNITIVE PSYCHOL, V5, P207, DOI 10.1016/0010-0285(73)90033-9
+   Valenzuela S, 2021, DIGIT JOURNAL, V9, P155, DOI 10.1080/21670811.2019.1693904
+   Vosoughi S, 2018, SCIENCE, V359, P1146, DOI 10.1126/science.aap9559
+   Vraga EK, 2020, AM J PUBLIC HEALTH, V110, pS278, DOI 10.2105/AJPH.2020.305916
+   Vraga EK, 2020, INT J PRESS/POLIT, V25, P632, DOI 10.1177/1940161220919082
+   Vraga EK, 2018, INFORM COMMUN SOC, V21, P1337, DOI 10.1080/1369118X.2017.1313883
+   Wang S, 2020, J BROADCAST ELECTRON, V64, P173, DOI 10.1080/08838151.2020.1757368
+   Watson A., 2023, StatistaMarch 15
+   Watson A., 2022, StatistaJune 28
+   Watson A., 2023, StatistaMarch 20
+   Xiao XZ, 2022, TELEMAT INFORM, V74, DOI 10.1016/j.tele.2022.101890
+   Xiao XZ, 2024, NEW MEDIA SOC, V26, P3786, DOI 10.1177/14614448221104948
+   Zimmermann F, 2020, POLIT COMMUN, V37, P215, DOI 10.1080/10584609.2019.1686095
+NR 71
+TC 0
+Z9 0
+U1 9
+U2 9
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 0160-791X
+EI 1879-3274
+J9 TECHNOL SOC
+JI Technol. Soc.
+PD SEP
+PY 2024
+VL 78
+AR 102658
+DI 10.1016/j.techsoc.2024.102658
+EA JUL 2024
+PG 9
+WC Social Issues; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Issues; Social Sciences - Other Topics
+GA YO0J5
+UT WOS:001269307600001
+DA 2024-11-22
+ER
+
+PT J
+AU Hahn, U
+   Merdes, C
+   von Sydow, M
+AF Hahn, Ulrike
+   Merdes, Christoph
+   von Sydow, Momme
+TI Knowledge through social networks: Accuracy, error, and polarisation
+SO PLOS ONE
+LA English
+DT Article
+ID ECHO CHAMBERS; ATTITUDE POLARIZATION; PUBLIC SPHERE; ONLINE GROUPS;
+   COMMUNICATION; NEWS; SCIENCE; OPINION; MEDIA; HETEROGENEITY
+AB This paper examines the fundamental problem of testimony. Much of what we believe to know we know in good part, or even entirely, through the testimony of others. The problem with testimony is that we often have very little on which to base estimates of the accuracy of our sources. Simulations with otherwise optimal agents examine the impact of this for the accuracy of our beliefs about the world. It is demonstrated both where social networks of information dissemination help and where they hinder. Most importantly, it is shown that both social networks and a common strategy for gauging the accuracy of our sources give rise to polarisation even for entirely accuracy motivated agents. Crucially these two factors interact, amplifying one another's negative consequences, and this side effect of communication in a social network increases with network size. This suggests a new causal mechanism by which social media may have fostered the increase in polarisation currently observed in many parts of the world.
+C1 [Hahn, Ulrike] Birkbeck Univ London, Dept Psychol Sci, London, England.
+   [Hahn, Ulrike; Merdes, Christoph; von Sydow, Momme] Ludwig Maximilians Univ Munchen, MCMP, Munich, Germany.
+   [Merdes, Christoph] Jagiellonian Univ Cracow, Interdisciplinary Ctr Ethics, Krakow, Poland.
+C3 University of London; Birkbeck University London; University of Munich;
+   Jagiellonian University
+RP Hahn, U (corresponding author), Birkbeck Univ London, Dept Psychol Sci, London, England.; Hahn, U (corresponding author), Ludwig Maximilians Univ Munchen, MCMP, Munich, Germany.
+EM u.hahn@bbk.ac.uk
+RI von Sydow, Momme/AEU-0733-2022; Hahn, Ulrike/A-8947-2010
+OI Hahn, Ulrike/0000-0002-7744-8589
+FU Alexander von Humboldt Foundation; Deutsche Forschungsgemeinschaft (DFG,
+   German Research Foundation) [674439]
+FX This study was funded by the Alexander von Humboldt Foundation, awarded
+   to UH. UH was also supported by Deutsche Forschungsgemeinschaft (DFG,
+   German Research Foundation) - Projektnumber 674439.
+CR Acemoglu D, 2013, MATH OPER RES, V38, P1, DOI 10.1287/moor.1120.0570
+   Acemoglu D, 2011, REV ECON STUD, V78, P1201, DOI 10.1093/restud/rdr004
+   Adamic L.A., 2005, P 3 INT WORKSH LINK, P36, DOI DOI 10.1145/1134271.1134277
+   Allcott H, 2017, J ECON PERSPECT, V31, P211, DOI 10.1257/jep.31.2.211
+   Anderson LR, 1997, AM ECON REV, V87, P847
+   [Anonymous], 2014, Social Physics: How Good Ideas Spread-the Lessons from a New Science
+   [Anonymous], 1991, Democracy and Deliberation: New Directions for Democratic Reform
+   Axelrod R, 1997, J CONFLICT RESOLUT, V41, P203, DOI 10.1177/0022002797041002001
+   Bail CA, 2018, P NATL ACAD SCI USA, V115, P9216, DOI 10.1073/pnas.1804840115
+   Bakshy E, 2015, SCIENCE, V348, P1130, DOI 10.1126/science.aaa1160
+   Bala V, 1998, REV ECON STUD, V65, P595, DOI 10.1111/1467-937X.00059
+   Barberá P, 2015, PSYCHOL SCI, V26, P1531, DOI 10.1177/0956797615594620
+   Baron J., 2008, THINKING DECIDING
+   Becker J, 2017, P NATL ACAD SCI USA, V114, pE5070, DOI 10.1073/pnas.1615978114
+   Bettarelli L, 2023, EUR J POLIT RES, V62, P645, DOI 10.1111/1475-6765.12548
+   BIKHCHANDANI S, 1992, J POLIT ECON, V100, P992, DOI 10.1086/261849
+   Bovens L., 2003, Bayesian Epistemology
+   Bramson A, 2016, J MATH SOCIOL, V40, P80, DOI 10.1080/0022250X.2016.1147443
+   Brier G. W., 1950, MON WEATHER REV, V78, P13, DOI DOI 10.1175/1520-0493(1950)0782.0.CO;2
+   Brotherton Rob., 2015, Suspicious minds: Why we believe conspiracy theories
+   Brown GDA, 2022, PSYCHOL REV, V129, P18, DOI 10.1037/rev0000342
+   Bruder M, 2013, FRONT PSYCHOL, V4, DOI 10.3389/fpsyg.2013.00225
+   Brundidge J, 2010, J COMMUN, V60, P680, DOI 10.1111/j.1460-2466.2010.01509.x
+   BURNSTEIN E, 1977, J EXP SOC PSYCHOL, V13, P315, DOI 10.1016/0022-1031(77)90002-6
+   Centola D., 2018, How Behavior Spreads: The Science of Complex Contagions, DOI DOI 10.2307/J.CTVC7758P
+   Colleoni E, 2014, J COMMUN, V64, P317, DOI 10.1111/jcom.12084
+   Collins PJ, 2020, J EXP PSYCHOL LEARN, V46, P1328, DOI 10.1037/xlm0000786
+   Collins PJ, 2018, FRONT PSYCHOL, V9, DOI 10.3389/fpsyg.2018.00018
+   Conover M.D., 2011, P INT AAAI C WEB SOC, P89
+   Dalton RJ, 2008, COMP POLIT STUD, V41, P899, DOI 10.1177/0010414008315860
+   Deffuant G, 2002, JASSS-J ARTIF SOC S, V5
+   DEGROOT MH, 1974, J AM STAT ASSOC, V69, P118, DOI 10.2307/2285509
+   Del Valle ME, 2018, INT J COMMUN-US, V12, P1715
+   Del Vicario M, 2016, P NATL ACAD SCI USA, V113, P554, DOI 10.1073/pnas.1517441113
+   DiFonzo N, 2013, J EXP SOC PSYCHOL, V49, P378, DOI 10.1016/j.jesp.2012.12.010
+   Douglas KM, 2011, BRIT J SOC PSYCHOL, V50, P544, DOI 10.1111/j.2044-8309.2010.02018.x
+   Douven I., 2019, ROUTLEDGE HDB SOCIAL
+   Douven I, 2010, LOG J IGPL, V18, P323, DOI 10.1093/jigpal/jzp059
+   Dubois E, 2018, INFORM COMMUN SOC, V21, P729, DOI 10.1080/1369118X.2018.1428656
+   Duclos JY, 2004, ECONOMETRICA, V72, P1737, DOI 10.1111/j.1468-0262.2004.00552.x
+   Dunne C., 2017, THE GUARDIAN
+   Eagly A. H., 1993, The psychology of attitudes
+   Edy JA, 2016, SOC SCI QUART, V97, P588, DOI 10.1111/ssqu.12309
+   ERDOS P, 1960, B INT STATIST INST, V38, P343
+   ESTEBAN JM, 1994, ECONOMETRICA, V62, P819, DOI 10.2307/2951734
+   Feller Albert., 2011, Proceedings of the International AAAI Conference on Web and Social Media, V5, P474
+   FESTINGER L, 1950, PSYCHOL REV, V57, P271, DOI 10.1037/h0056932
+   Fiorina M.P., 2016, HAS AM PUBLIC POLARI
+   Flaxman S, 2016, PUBLIC OPIN QUART, V80, P298, DOI 10.1093/poq/nfw006
+   Frey D, 2020, BRIT J PHILOS SCI, V71, P1411, DOI 10.1093/bjps/axy039
+   Friedkin NE, 1999, AM SOCIOL REV, V64, P856, DOI 10.2307/2657407
+   Garcia D, 2015, POLICY INTERNET, V7, P46, DOI 10.1002/poi3.82
+   GOERTZEL T, 1994, POLIT PSYCHOL, V15, P731, DOI 10.2307/3791630
+   Golub B, 2012, Q J ECON, V127, P1287, DOI 10.1093/qje/qjs021
+   Golub B, 2010, AM ECON J-MICROECON, V2, P112, DOI 10.1257/mic.2.1.112
+   González-Bailón S, 2014, SOC NETWORKS, V38, P16, DOI 10.1016/j.socnet.2014.01.004
+   Goodin RE, 2003, POLIT STUD-LONDON, V51, P627, DOI 10.1111/j.0032-3217.2003.00450.x
+   Gruzd A, 2014, POLICY INTERNET, V6, P28, DOI 10.1002/1944-2866.POI354
+   Guess A, 2020, BRIT J POLIT SCI, V50, P1497, DOI 10.1017/S0007123418000327
+   Guilbeault D, 2018, P NATL ACAD SCI USA, V115, P9714, DOI 10.1073/pnas.1722664115
+   Hahn U, 2020, SYNTHESE, V197, P1511, DOI 10.1007/s11229-018-01936-6
+   Hahn U, 2019, TOP COGN SCI, V11, P194, DOI 10.1111/tops.12401
+   Hahn U, 2018, TOP COGN SCI, V10, P660, DOI 10.1111/tops.12374
+   Hahn U, 2014, PSYCHOL LEARN MOTIV, V61, P41, DOI 10.1016/B978-0-12-800283-4.00002-2
+   Hampton K.N., 2011, SOCIAL NETWORKING SI
+   Hardin R., 2002, Political Extremism and Rationality
+   Hart PS, 2012, COMMUN RES, V39, P701, DOI 10.1177/0093650211416646
+   Hegselmann R, 2002, JASSS-J ARTIF SOC S, V5
+   Hegselmann R, 2006, JASSS-J ARTIF SOC S, V9
+   Hills TT, 2019, PERSPECT PSYCHOL SCI, V14, P323, DOI 10.1177/1745691618803647
+   Himelboim I, 2013, J COMPUT-MEDIAT COMM, V18, P40, DOI 10.1111/jcc4.12001
+   Horne Z, 2015, P NATL ACAD SCI USA, V112, P10321, DOI 10.1073/pnas.1504019112
+   Hsu CL, 2012, GOV INFORM Q, V29, P169, DOI 10.1016/j.giq.2011.09.009
+   ISENBERG DJ, 1986, J PERS SOC PSYCHOL, V50, P1141, DOI 10.1037/0022-3514.50.6.1141
+   Iyengar S, 2015, AM J POLIT SCI, V59, P690, DOI 10.1111/ajps.12152
+   Jasny L, 2015, NAT CLIM CHANGE, V5, P782, DOI [10.1038/nclimate2666, 10.1038/NCLIMATE2666]
+   Jern A, 2014, PSYCHOL REV, V121, P206, DOI 10.1037/a0035941
+   Jolley D, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0089177
+   Jönsson ML, 2015, COGNITION, V142, P191, DOI 10.1016/j.cognition.2015.04.013
+   Jost JT, 2022, NAT REV PSYCHOL, V1, P560, DOI 10.1038/s44159-022-00093-5
+   Kahan Dan., 2006, Yale Law Policy Review, V24, P147
+   Kahan DM, 2013, JUDGM DECIS MAK, V8, P407
+   Karlsen R, 2017, EUR J COMMUN, V32, P257, DOI 10.1177/0267323117695734
+   Kata A, 2012, VACCINE, V30, P3778, DOI 10.1016/j.vaccine.2011.11.112
+   Koteyko N, 2013, GEOGR J, V179, P74, DOI 10.1111/j.1475-4959.2012.00479.x
+   KRAUSE U, 2000, DISCRETE NONLINEAR N
+   KUNDA Z, 1990, PSYCHOL BULL, V108, P480, DOI 10.1037/0033-2909.108.3.480
+   Kuran T, 1998, J LEGAL STUD, V27, P623, DOI 10.1086/468038
+   LANDER ES, 1989, NATURE, V339, P501, DOI 10.1038/339501a0
+   Lazer DMJ, 2018, SCIENCE, V359, P1094, DOI 10.1126/science.aao2998
+   Lee JK, 2014, J COMMUN, V64, P702, DOI 10.1111/jcom.12077
+   Lehrer K., 1981, RATIONAL CONSENSUS S
+   Leitgeb H, 2010, PHILOS SCI, V77, P236, DOI 10.1086/651318
+   Lelkes Y, 2016, PUBLIC OPIN QUART, V80, P392, DOI 10.1093/poq/nfw005
+   Lewandowsky S, 2013, PSYCHOL SCI, V24, P622, DOI 10.1177/0956797612457686
+   Li L, 2013, IEEE J SEL AREA COMM, V31, P1072, DOI 10.1109/JSAC.2013.130609
+   Lindell M, 2017, EUR J POLIT RES, V56, P23, DOI 10.1111/1475-6765.12162
+   LORD CG, 1979, J PERS SOC PSYCHOL, V37, P2098, DOI 10.1037/0022-3514.37.11.2098
+   Lorenz-Spreen P, 2023, NAT HUM BEHAV, V7, P74, DOI 10.1038/s41562-022-01460-1
+   Luskin RC, 2002, BRIT J POLIT SCI, V32, P455, DOI 10.1017/S0007123402000194
+   Macy MW, 2003, DYNAMIC SOCIAL NETWORK MODELING AND ANALYSIS, P162
+   Madsen JK, 2018, SCI REP-UK, V8, DOI 10.1038/s41598-018-25558-7
+   Marchlewska M, 2018, EUR J SOC PSYCHOL, V48, P109, DOI 10.1002/ejsp.2308
+   Martins N, 2018, J COMMUN, V68, P98, DOI 10.1093/joc/jqx004
+   McNamee Roger., 2019, ZUCKED WAKING FACEBO
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Menichetti G, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0097857
+   Merkle DM, 1996, PUBLIC OPIN QUART, V60, P588, DOI 10.1086/297775
+   MILLER AG, 1993, J PERS SOC PSYCHOL, V64, P561, DOI 10.1037/0022-3514.64.4.561
+   Miller JM, 2016, AM J POLIT SCI, V60, P824, DOI 10.1111/ajps.12234
+   Mitra Tanushree, 2017, Proceedings of the ACM on Human-Computer Interaction, V1, DOI 10.1145/3134715
+   Moldoveanu MC, 2011, MANAGE SCI, V57, P393, DOI 10.1287/mnsc.1100.1279
+   Monsted B, 2022, PLOS ONE, V17, DOI 10.1371/journal.pone.0263746
+   Morales AJ, 2015, CHAOS, V25, DOI 10.1063/1.4913758
+   Morstatter F., 2013, P 7 INT C WEBL FS SO, P400
+   Mutz DC, 2001, AM POLIT SCI REV, V95, P97, DOI 10.1017/S0003055401000223
+   MYERS DG, 1976, PSYCHOL BULL, V83, P602, DOI 10.1037/0033-2909.83.4.602
+   MYERS DG, 1975, HUM RELAT, V28, P699, DOI 10.1177/001872677502800802
+   Nagle A., 2017, KILL ALL NORMIES ONL
+   Nam HH, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0059837
+   Nickerson RS., 1998, REV GEN PSYCHOL, V2, P175, DOI [10.1037/1089-2680.2.2.175, DOI 10.1037/1089-2680.2.2.175]
+   Nisbet EC, 2015, ANN AM ACAD POLIT SS, V658, P36, DOI 10.1177/0002716214555474
+   Nyhan B, 2015, VACCINE, V33, P459, DOI 10.1016/j.vaccine.2014.11.017
+   Nyhan B, 2014, PEDIATRICS, V133, pE835, DOI 10.1542/peds.2013-2365
+   Nyhan B, 2010, POLIT BEHAV, V32, P303, DOI 10.1007/s11109-010-9112-2
+   O'Connor C., 2019, MISINFORMATION AGE F, DOI [10.2307/j.ctv8jp0hk, DOI 10.2307/J.CTV8JP0HK]
+   O'Connor C, 2018, EUR J PHILOS SCI, V8, P855, DOI 10.1007/s13194-018-0213-9
+   Olsson E. J., 2013, BAYESIAN ARGUMENTATI, P113, DOI DOI 10.1007/978-94-007-5357-0_6
+   Olsson EJ, 2021, Routledge Stud in Ep, P211
+   Olsson EJ, 2011, EPISTEME-J INDIV SOC, V8, P127, DOI 10.3366/epi.2011.0012
+   Pallavicini J, 2021, SYNTHESE, V198, P1, DOI 10.1007/s11229-018-01978-w
+   Papacharissi Z, 2002, NEW MEDIA SOC, V4, P9, DOI 10.1177/14614440222226244
+   Pariser E., 2011, FILTER BUBBLE WHAT I
+   Pennycook G, 2020, J PERS, V88, P185, DOI 10.1111/jopy.12476
+   Pennycook G, 2019, COGNITION, V188, P39, DOI 10.1016/j.cognition.2018.06.011
+   Pettigrew R., 2016, ACCURACY LAWS CREDEN
+   Porter S, 2010, LEGAL CRIMINOL PSYCH, V15, P57, DOI 10.1348/135532509X433151
+   Quattrociocchi W, 2014, SCI REP-UK, V4, DOI 10.1038/srep04938
+   Romenskyy M, 2018, ROY SOC OPEN SCI, V5, DOI 10.1098/rsos.171935
+   Rosenstock S, 2017, PHILOS SCI, V84, P234, DOI 10.1086/690717
+   SANDERS GS, 1977, J EXP SOC PSYCHOL, V13, P303, DOI 10.1016/0022-1031(77)90001-4
+   Schäfer MS, 2012, WIRES CLIM CHANGE, V3, P527, DOI 10.1002/wcc.191
+   Scheufele DA, 2006, J COMMUN, V56, P728, DOI 10.1111/j.1460-2466.2006.00317.x
+   Scheufele DA, 2019, P NATL ACAD SCI USA, V116, P7662, DOI 10.1073/pnas.1805871115
+   Shearer E., 2019, PEW RES CTR, V2
+   SIEGEL J, 1986, ORGAN BEHAV HUM DEC, V37, P157, DOI 10.1016/0749-5978(86)90050-6
+   SPEARS R, 1990, BRIT J SOC PSYCHOL, V29, P121, DOI 10.1111/j.2044-8309.1990.tb00893.x
+   STONER JAF, 1968, J EXP SOC PSYCHOL, V4, P442, DOI 10.1016/0022-1031(68)90069-3
+   Sunstein C. R., 2009, Going to extremes: How like minds unite and divide
+   Sunstein C.R., 2007, ARE JUDGES POLITICAL
+   Sunstein CR, 2002, J POLIT PHILOS, V10, P175, DOI 10.1111/1467-9760.00148
+   Sunstein CR., 2018, REPUBLIC DIVIDED DEM, DOI DOI 10.1515/9781400890521
+   Swire B, 2017, ROY SOC OPEN SCI, V4, DOI 10.1098/rsos.160802
+   Törnberg P, 2022, P NATL ACAD SCI USA, V119, DOI 10.1073/pnas.2207159119
+   Törnberg P, 2018, PLOS ONE, V13, DOI 10.1371/journal.pone.0203958
+   Tucker JA, 2017, J DEMOCR, V28, P46, DOI 10.1353/jod.2017.0064
+   Turcotte J, 2015, J COMPUT-MEDIAT COMM, V20, P520, DOI 10.1111/jcc4.12127
+   Ugander J., 2011, The anatomy of the Facebook social graph, P1
+   van Prooijen Jan-Willem, 2018, Eur J Soc Psychol, V48, P320, DOI 10.1002/ejsp.2331
+   von Sydow M., 2019, ARXIV
+   Vosoughi S, 2018, SCIENCE, V359, P1146, DOI 10.1126/science.aap9559
+   Wallace P., 2015, The Psychology of the Internet
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Westwood SJ, 2018, EUR J POLIT RES, V57, P333, DOI 10.1111/1475-6765.12228
+   Wineburg S S., 2016, Education Week, V36, P22
+   Wojcieszak M, 2017, INT J PUBLIC OPIN R, V29, P46, DOI 10.1093/ijpor/edv036
+   Wojcieszak M, 2010, NEW MEDIA SOC, V12, P637, DOI 10.1177/1461444809342775
+   Wojcieszak ME, 2009, J COMMUN, V59, P40, DOI 10.1111/j.1460-2466.2008.01403.x
+   Wood Michael., 2013, PsyPAG Quarterly, V88, P31
+   Wood T, 2019, POLIT BEHAV, V41, P135, DOI 10.1007/s11109-018-9443-y
+   Yardi Sarita., 2010, Bulletin of Science, Technology Society, V30, P316, DOI DOI 10.1177/0270467610380011
+   Zhang JQ, 2004, 18TH INTERNATIONAL CONFERENCE ON ADVANCED INFORMATION NETWORKING AND APPLICATIONS, VOL 1 (LONG PAPERS), PROCEEDINGS, P562
+   Zollman KJS, 2007, PHILOS SCI, V74, P574, DOI 10.1086/525605
+   Zollman KJS, 2010, ERKENNTNIS, V72, P17, DOI 10.1007/s10670-009-9194-6
+NR 174
+TC 2
+Z9 2
+U1 6
+U2 20
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JAN 3
+PY 2024
+VL 19
+IS 1
+AR e0294815
+DI 10.1371/journal.pone.0294815
+PG 30
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA DZ5S4
+UT WOS:001135937000002
+PM 38170696
+OA Green Published, gold, Green Accepted
+DA 2024-11-22
+ER

@@ -1,0 +1,520 @@
+
+PT J
+AU Clark, DA
+   Handcock, MS
+AF Clark, Duncan A.
+   Handcock, Mark S.
+TI Causal inference over stochastic networks
+SO JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES A-STATISTICS IN SOCIETY
+LA English
+DT Article
+DE causality; contagion; Gibbs measures; interference; network models;
+   spillover
+ID EXPONENTIAL-FAMILY MODELS; SOCIAL NETWORK; GRAPHICAL MODELS; POPULATION;
+   SELECTION; DYNAMICS; DIAGRAMS
+AB Claiming causal inferences in network settings necessitates careful consideration of the often complex dependency between outcomes for actors. Of particular importance are treatment spillover or outcome interference effects. We consider causal inference when the actors are connected via an underlying network structure. Our key contribution is a model for causality when the underlying network is endogenous; where the ties between actors and the actor covariates are statistically dependent. We develop a joint model for the relational and covariate generating process that avoids restrictive separability and fixed network assumptions, as these rarely hold in realistic social settings. While our framework can be used with general models, we develop the highly expressive class of Exponential-family Random Network models (ERNM) of which Markov random fields and Exponential-family Random Graph models are special cases. We present potential outcome-based inference within a Bayesian framework and propose a modification to the exchange algorithm to allow for sampling from ERNM posteriors. We present results of a simulation study demonstrating the validity of the approach. Finally, we demonstrate the value of the framework in a case study of smoking in the context of adolescent friendship networks.
+C1 [Clark, Duncan A.; Handcock, Mark S.] Univ Calif Los Angeles, Dept Stat & Data Sci, Los Angeles, CA 90095 USA.
+C3 University of California System; University of California Los Angeles
+RP Clark, DA (corresponding author), Univ Calif Los Angeles, Dept Stat & Data Sci, Los Angeles, CA 90095 USA.
+EM duncanclark@ucla.edu
+RI Handcock, Mark/AAY-3318-2021
+OI Handcock, Mark/0000-0002-9985-2785; Clark, Duncan/0000-0001-7243-3946
+FU National Science Foundation (NSF) [MMS-0851555, SES-1357619,
+   IIS-1546259, CCF-2200197]; Centers for Disease Control and National
+   Institute of Child Health and Human Development (NICHD) [R21HD063000,
+   R21HD075714, R24-HD041022]
+FX This article is based upon work supported by the National Science
+   Foundation (NSF, MMS-0851555, SES-1357619, IIS-1546259, CCF-2200197),
+   Centers for Disease Control and National Institute of Child Health and
+   Human Development (NICHD, R21HD063000, R21HD075714 and R24-HD041022).
+   The content is solely the responsibility of the authors and do not
+   necessarily represent the official views of the National Institutes of
+   Health or the National Science Foundation.
+CR [Anonymous], 2013, Exponential Random Graph Models for Social Networks, DOI DOI 10.1017/CBO9780511894701.011
+   [Anonymous], 2002, J. Social Struct
+   Aronow PM, 2017, ANN APPL STAT, V11, P1912, DOI 10.1214/16-AOAS1005
+   Caimo A, 2011, SOC NETWORKS, V33, P41, DOI 10.1016/j.socnet.2010.09.004
+   Christakis NA, 2008, NEW ENGL J MED, V358, P2249, DOI 10.1056/NEJMsa0706154
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   Christakis NA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0012948
+   DeAmour A., 2016, THESIS HARVARD U
+   Durante D, 2017, J AM STAT ASSOC, V112, P1516, DOI 10.1080/01621459.2016.1219260
+   EFRON B, 1979, ANN STAT, V7, P1, DOI 10.1214/aos/1176344552
+   Fellows, 2012, ARXIV, DOI [10.48550/arXiv.1208.012, DOI 10.48550/ARXIV.1208.012]
+   Fellows I E., 2014, ernm: Exponential-Family Random Network Models
+   Fellows IE, 2023, METRON, V81, P21, DOI 10.1007/s40300-023-00246-3
+   Fosdick BK, 2015, J AM STAT ASSOC, V110, P1047, DOI 10.1080/01621459.2015.1008697
+   FRANK O, 1986, J AM STAT ASSOC, V81, P832, DOI 10.2307/2289017
+   FRYDENBERG M, 1990, SCAND J STAT, V17, P333
+   Gile KJ, 2017, J R STAT SOC C-APPL, V66, P501, DOI 10.1111/rssc.12184
+   Goldenberg A, 2010, FOUND TRENDS MACH LE, V2, P129, DOI 10.1561/2200000005
+   Handcock M., 2021, ergm: Fit, Simulate and Diagnose Exponential-Family Models for Networks
+   Handcock M.S., 2002, SUNBELT 22 INT SOCIA
+   Handcock M.S., 2003, 39 U WASH CTR STAT S
+   HANDCOCK M. S., 1999, Relative Distribution Methods in the Social Sciences
+   Handcock M. S., 2015, RELDIST RELATIVE DIS
+   Handcock MS, 2010, ANN APPL STAT, V4, P5, DOI 10.1214/08-AOAS221
+   Harris KM, 2006, TWIN RES HUM GENET, V9, P988, DOI 10.1375/183242706779462787
+   Hoff PD, 2005, J AM STAT ASSOC, V100, P286, DOI 10.1198/016214504000001015
+   Hudgens MG, 2008, J AM STAT ASSOC, V103, P832, DOI 10.1198/016214508000000292
+   Hunter DR, 2008, J AM STAT ASSOC, V103, P248, DOI 10.1198/016214507000000446
+   Hunter DR, 2006, J COMPUT GRAPH STAT, V15, P565, DOI 10.1198/106186006X133069
+   Hunter DR., 2008, Journal of Statistical Software, V24, P1, DOI DOI 10.18637/JSS.V024.I03
+   Imbens GW, 2015, CAUSAL INFERENCE FOR STATISTICS, SOCIAL, AND BIOMEDICAL SCIENCES: AN INTRODUCTION, P1, DOI 10.1017/CBO9781139025751
+   Kalisch M, 2012, J STAT SOFTW, V47, P1
+   Kao E., 2017, THESIS HARVARD U
+   Koskinen J, 2022, J R STAT SOC A STAT, V185, P1855, DOI 10.1111/rssa.12844
+   Krivitsky PN, 2011, STAT METHODOL, V8, P319, DOI 10.1016/j.stamet.2011.01.005
+   Lauritzen SL, 2002, J R STAT SOC B, V64, P321, DOI 10.1111/1467-9868.00340
+   Lauritzen S, 2018, J ROY STAT SOC B, V80, P481, DOI 10.1111/rssb.12266
+   Lee Y, 2021, J AM STAT ASSOC, V116, P1060, DOI 10.1080/01621459.2020.1782219
+   Liang FM, 2016, J AM STAT ASSOC, V111, P377, DOI 10.1080/01621459.2015.1009072
+   Little R, 2011, STAT SCI, V26, P162, DOI 10.1214/10-STS318
+   Morris Martina, 2008, J Stat Softw, V24, P1548
+   Murray Iain, 2006, P 22 ANN C UNC ART I, P359
+   Niezink NMD, 2019, SOCIOL METHODOL, V49, P295, DOI 10.1177/0081175019842263
+   Ogburn EL, 2024, J AM STAT ASSOC, V119, P597, DOI 10.1080/01621459.2022.2131557
+   Ogburn EL, 2020, J R STAT SOC A STAT, V183, P1659, DOI 10.1111/rssa.12594
+   Ogburn EL, 2014, STAT SCI, V29, P559, DOI 10.1214/14-STS501
+   OHagan A., 1993, KENDALLS ADV THEORY
+   Pearl J, 1995, BIOMETRIKA, V82, P669, DOI 10.1093/biomet/82.4.669
+   Pearl J., 2009, CAUSALITY MODELS REA
+   R Core Team, 2022, R LANGUAGE ENV STAT
+   Richardson TS., 2013, 128 U WASH CTR STAT
+   Robins G, 2001, PSYCHOMETRIKA, V66, P161, DOI 10.1007/BF02294834
+   Robins G, 2001, SOC NETWORKS, V23, P1, DOI 10.1016/S0378-8733(01)00029-6
+   Robins G, 2007, SOC NETWORKS, V29, P192, DOI 10.1016/j.socnet.2006.08.003
+   Sävje F, 2021, ANN STAT, V49, P673, DOI [10.1214/20-aos1973, 10.1214/20-AOS1973]
+   Schweinberger M, 2020, STAT SCI, V35, P627, DOI 10.1214/19-STS743
+   Schweinberger M, 2015, J R STAT SOC B, V77, P647, DOI 10.1111/rssb.12081
+   Shalizi CR, 2011, SOCIOL METHOD RES, V40, P211, DOI 10.1177/0049124111404820
+   Shpitser I., 2021, ARXIV
+   Snijders TAB, 2006, SOCIOL METHODOL, V36, P99, DOI 10.1111/j.1467-9531.2006.00176.x
+   Sofrygin O, 2017, J CAUSAL INFERENCE, V5, DOI 10.1515/jci-2016-0003
+   Spirtes P., 2000, CAUSATION PREDICTION, DOI DOI 10.1007/978-1-4612-7650-0
+   Steglich C, 2010, SOCIOL METHODOL, V40, P329, DOI 10.1111/j.1467-9531.2010.01225.x
+   Tchetgen ETJ, 2021, J AM STAT ASSOC, V116, P833, DOI 10.1080/01621459.2020.1811098
+   Toulis P, 2013, INT C MACHINE LEARNI, P1489
+   Van der Laan MJ, 2014, J CAUSAL INFERENCE, V2, P13, DOI 10.1515/jci-2013-0002
+   van Duijn MAJ, 2009, SOC NETWORKS, V31, P52, DOI 10.1016/j.socnet.2008.10.003
+   Wang R., 2011, LIKELIHOOD BASED INF
+NR 68
+TC 0
+Z9 0
+U1 1
+U2 3
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0964-1998
+EI 1467-985X
+J9 J ROY STAT SOC A
+JI J. R. Stat. Soc. Ser. A-Stat. Soc.
+PD JAN 25
+PY 2024
+VL 187
+IS 3
+BP 772
+EP 795
+DI 10.1093/jrsssa/qnae001
+EA JAN 2024
+PG 24
+WC Social Sciences, Mathematical Methods; Statistics & Probability
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematical Methods In Social Sciences; Mathematics
+GA F6C7L
+UT WOS:001148492500001
+PM 39281781
+OA Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Zhang, XX
+AF Zhang, Xixuan
+TI Diffusion dynamics and digital movement: The emergence and proliferation
+   of the German-speaking #FridaysForFuture network on twitter
+SO SOCIAL MOVEMENT STUDIES
+LA English
+DT Article
+DE Information diffusion; diffusion dynamics; digital movement; online
+   discourse; networked publics; computational methods
+ID SOCIAL-MOVEMENTS; PROTEST; CONSTITUTION; MEDIA; NEWS
+AB Diffusion is a long-established concept that deals with the mechanisms explaining the prevalence of social movements. However, previous empirical studies on digital movement merely used diffusion as a term referring to increasing numbers of posts or public attention, without distinguishing what is diffused nor asking how information is diffused. Studies applying social network analysis have restricted themselves to retweet networks from a static perspective and emphasized the main actors and critical messages driven by the crowds. While the previous studies examined information diffusion as an outcome, they were unable to reveal the underlying processes that define how digitally networked movements spread over time among crowds embedded in different communities. As a case study, this paper investigates how the German-speaking network #FridaysForFuture was facilitated and contested through different diffusion dynamics. By inferring a diffusion network based on 237,892 retweeting sequences and the following/follower relationships of the 51,803 engaged actors in the early stages of #FridaysForFuture, it quantifies the digitally networked movement from a top-down perspective: the network, the tweets, and the retweets, concerning aspects of both actor and content. The findings suggest the development of digitally networked movements depends on their ability to influence and spread among different networked publics. The diffusion mechanisms of information, discourses, and beliefs of digitally networked movements were mainly enabled by, and flowed through, pre-existing networks rather than situational spontaneity. However, they varied according to issue salience and were distinguished by the network structures, political positions, ideological lines, and geographical proximities of the involved communities.
+C1 [Zhang, Xixuan] Free Univ Berlin, Inst Media & Commun Studies, Berlin, Germany.
+   [Zhang, Xixuan] Free Univ Berlin, Garystr 55, D-14195 Berlin, Germany.
+C3 Free University of Berlin; Free University of Berlin
+RP Zhang, XX (corresponding author), Free Univ Berlin, Garystr 55, D-14195 Berlin, Germany.
+EM x.zhang@fu-berlin.de
+OI Zhang, Xixuan/0000-0002-4636-3881
+CR Bakshy E, 2015, SCIENCE, V348, P1130, DOI 10.1126/science.aaa1160
+   Barash V, 2012, SOC NETWORKS, V34, P451, DOI 10.1016/j.socnet.2012.02.003
+   Barberá P, 2015, PSYCHOL SCI, V26, P1531, DOI 10.1177/0956797615594620
+   Bastian M, 2009, GEPHI OPEN SOURCE SO, DOI [DOI 10.1609/ICWSM.V3I1.13937, 10.13140/2.1.1341.1520]
+   Bennett WL, 2012, INFORM COMMUN SOC, V15, P739, DOI 10.1080/1369118X.2012.670661
+   Bennett WL, 2018, J COMMUN, V68, P659, DOI 10.1093/joc/jqy032
+   Bennett WL., 2020, Communicating the Future: Solutions for Environment, Economy and Democracy
+   Blondel VD, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/10/P10008
+   Castells, 2015, NETWORKS OUTRAGE HOP, DOI DOI 10.1002/9781444319514
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   Cha Meeyoung., 2020, OXFORD HDB NETWORKED, P44, DOI [10.1093/oxfordhb/9780190460518.013.6, DOI 10.1093/OXFORDHB/9780190460518.013.6]
+   della Porta D., 1999, Social Movements: An Introduction
+   Diani M., 2015, The Oxford Handbook of Social Movements, P306
+   Dolata U, 2018, SPRINGERBRIEF SOCIOL, P1, DOI 10.1007/978-3-319-78414-4
+   Dolata U, 2018, SPRINGERBRIEF SOCIOL, P31, DOI 10.1007/978-3-319-78414-4_3
+   Dolata U, 2018, SPRINGERBRIEF SOCIOL, P7, DOI 10.1007/978-3-319-78414-4_2
+   Easley D, 2010, Networks, Crowds, and Markets: Reasoning about A Highly Connected World, DOI [10.1017/CBO9780511761942, DOI 10.1017/CBO9780511761942]
+   Freelon D, 2018, NEW MEDIA SOC, V20, P990, DOI 10.1177/1461444816676646
+   Gallagher Ryan J., 2019, Proceedings of the ACM on Human-Computer Interaction, V3, DOI 10.1145/3359198
+   Gallagher RJ, 2018, PLOS ONE, V13, DOI 10.1371/journal.pone.0195644
+   Goel S, 2016, MANAGE SCI, V62, P180, DOI 10.1287/mnsc.2015.2158
+   Gomez-Rodriguez M, 2012, ACM T KNOWL DISCOV D, V5, DOI 10.1145/2086737.2086741
+   Haim M, 2018, DIGIT JOURNAL, V6, P330, DOI 10.1080/21670811.2017.1338145
+   Hassler J, 2023, NEW MEDIA SOC, V25, P1991, DOI 10.1177/14614448211026575
+   Haunss Sebastian, 2020, Fridays for Future Die Jugend gegen den Klimawandel: Konturen der weltweiten Protestbewegung
+   Kavada A, 2015, INFORM COMMUN SOC, V18, P872, DOI 10.1080/1369118X.2015.1043318
+   Klinger U, 2023, INFORM COMMUN SOC, V26, P1890, DOI 10.1080/1369118X.2022.2050415
+   Knüpfer C, 2022, INFORM COMMUN SOC, V25, P1010, DOI 10.1080/1369118X.2020.1822904
+   Krinsky J, 2014, SOC MOVEMENT STUD, V13, P1, DOI 10.1080/14742837.2013.862787
+   Liang H, 2018, J COMMUN, V68, P525, DOI 10.1093/joc/jqy006
+   Liang H, 2019, COMMUN RES, V46, P250, DOI 10.1177/0093650216682900
+   Martini F., 2020, MEDIEN KOMMUNIKATION, V68, P255, DOI [https://doi.org/10.5771/1615-634X-2020-3-255, DOI 10.5771/1615-634X-2020-3-255]
+   McInnes L, 2020, Arxiv, DOI [arXiv:1802.03426, 10.21105/joss.00861, DOI 10.21105/JOSS.00861]
+   Meraz S, 2013, INT J PRESS/POLIT, V18, P138, DOI 10.1177/1940161212474472
+   Papacharissi Z, 2016, INFORM COMMUN SOC, V19, P307, DOI 10.1080/1369118X.2015.1109697
+   Park HS, 2009, EXPERT SYST APPL, V36, P3336, DOI 10.1016/j.eswa.2008.01.039
+   Snow D.A., 2018, BLACKWELL COMPANION, P392
+   Strang D, 1998, ANNU REV SOCIOL, V24, P265, DOI 10.1146/annurev.soc.24.1.265
+   Suk J, 2021, SOC SCI COMPUT REV, V39, P276, DOI 10.1177/0894439319864882
+   Theocharis Y, 2015, INFORM COMMUN SOC, V18, P202, DOI 10.1080/1369118X.2014.948035
+   Tremayne M, 2014, SOC MOVEMENT STUD, V13, P110, DOI 10.1080/14742837.2013.830969
+   van Haperen S, 2018, SOC MOVEMENT STUD, V17, P408, DOI 10.1080/14742837.2018.1434499
+   Vosoughi S, 2018, SCIENCE, V359, P1146, DOI 10.1126/science.aap9559
+   Wahlstrom M., 2019, Project report
+   Welles BF, 2019, INT J COMMUN-US, V13, P1699
+   Xu WAW, 2020, INT J COMMUN-US, V14, P1070
+   Yang YF, 2020, 58TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2020): SYSTEM DEMONSTRATIONS, P87
+   Zhang XX, 2021, SCM STUD COMM MEDIA, V10, P502, DOI 10.5771/2192-4007-2021-4-502
+   Zhang Y., 2020, THESIS U WISCONSIN M
+NR 49
+TC 0
+Z9 0
+U1 1
+U2 8
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1474-2837
+EI 1474-2829
+J9 SOC MOVEMENT STUD
+JI Soc. Mov. Stud.
+PD JAN 2
+PY 2024
+VL 23
+IS 1
+SI SI
+BP 72
+EP 93
+DI 10.1080/14742837.2023.2211015
+EA MAY 2023
+PG 22
+WC Political Science; Sociology
+WE Social Science Citation Index (SSCI)
+SC Government & Law; Sociology
+GA CX4G0
+UT WOS:000985666700001
+DA 2024-11-22
+ER
+
+PT J
+AU Muneepeerakul, R
+   Johnson, JC
+   Puma, MJ
+   Zurek-Ost, MA
+AF Muneepeerakul, Rachata
+   Johnson, Jeffrey C.
+   Puma, Michael J.
+   Zurek-Ost, Michael A.
+TI Triadic signatures of global human mobility networks
+SO PLOS ONE
+LA English
+DT Article
+ID MIGRATION
+AB Global refugee and migrant flows form complex networks with serious consequences for both sending and receiving countries as well as those in between. While several basic network properties of these networks have been documented, their finer structural character remains under-studied. One such structure is the triad significance profile (TSP). In this study, the TSPs of global refugee and migrant flow networks are assessed. Results indicate that the migrant flow network's size and TSP remain stable over the years; its TSP shares patterns with social networks such as trade networks. In contrast, the refugee network has been more dynamic and structurally unstable; its TSP shares patterns with networks in the information-processing superfamily, which includes many biological networks. Our findings demonstrate commonality between migrant and social networks as well as between refugee and biological networks, pointing to possible interdisciplinary collaboration-e.g., application of biological network theories to refugee network dynamics-, potentially furthering theoretical development with respect to both network theory and theories on human mobility.
+C1 [Muneepeerakul, Rachata] Univ Florida, Dept Agr & Biol Engn, Gainesville, FL 32611 USA.
+   [Johnson, Jeffrey C.; Zurek-Ost, Michael A.] Univ Florida, Dept Anthropol, Gainesville, FL USA.
+   [Puma, Michael J.] Columbia Univ, Ctr Climate Syst Res, Columbia Climate Sch, New York, NY USA.
+C3 State University System of Florida; University of Florida; State
+   University System of Florida; University of Florida; Columbia University
+RP Muneepeerakul, R (corresponding author), Univ Florida, Dept Agr & Biol Engn, Gainesville, FL 32611 USA.
+EM rmuneepe@ufl.edu
+OI Muneepeerakul, Rachata/0000-0001-9533-2611
+FU Army Research Office/Army Research Laboratory [W911NF1810267]
+FX The research reported here was supported by the Army Research
+   Office/Army Research Laboratory under award W911NF1810267
+   (Multidisciplinary University Research Initiative). The funders had no
+   role in study design, data collection and analysis, decision to publish,
+   or preparation of the manuscript. The views and conclusions contained in
+   this document are those of the authors and should not be interpreted as
+   representing the official policies either expressed or implied of the
+   Army Research Office or the U.S. Government.
+CR Abel GJ, 2021, POPUL SPACE PLACE, V27, DOI 10.1002/psp.2432
+   Abel GJ, 2019, SCI DATA, V6, DOI 10.1038/s41597-019-0089-3
+   [Anonymous], 2019, Matlab version 9.7.0.1247435 (r2019b)
+   Azose JJ, 2019, P NATL ACAD SCI USA, V116, P116, DOI 10.1073/pnas.1722334116
+   Cranmer SJ, 2017, AM J POLIT SCI, V61, P237, DOI 10.1111/ajps.12263
+   D'Angelo A, 2021, GLOBAL NETW, V21, P487, DOI 10.1111/glob.12312
+   Davis KF, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0053723
+   Faust K, 2010, SOC NETWORKS, V32, P221, DOI 10.1016/j.socnet.2010.03.004
+   Grasso R, 2022, FRONT BIG DATA, V4, DOI 10.3389/fdata.2021.806014
+   Halstead P., 1989, Bad year economics : cultural responses to risk and uncertainty
+   Herbert E, 2022, PLOS COMPUT BIOL, V18, DOI 10.1371/journal.pcbi.1010426
+   Hoff P, 2021, STAT SCI, V36, P34, DOI 10.1214/19-STS757
+   Kaluza P, 2008, CHAOS, V18, DOI 10.1063/1.2945228
+   KRACKHARDT D, 1988, SOC NETWORKS, V10, P359, DOI 10.1016/0378-8733(88)90004-4
+   Leal DF, 2021, APPL NETW SCI, V6, DOI 10.1007/s41109-020-00322-x
+   Lotito QF, 2022, COMMUN PHYS-UK, V5, DOI 10.1038/s42005-022-00858-7
+   MASSEY DS, 1993, POPUL DEV REV, V19, P431, DOI 10.2307/2938462
+   Milo R, 2004, SCIENCE, V303, P1538, DOI 10.1126/science.1089167
+   Ogunnoiki AO., 2019, International Journal of Advanced Academic Research, V5, P18
+   Palik J., 2020, PRIO Paper, P1946
+   Paranjape A, 2017, WSDM'17: PROCEEDINGS OF THE TENTH ACM INTERNATIONAL CONFERENCE ON WEB SEARCH AND DATA MINING, P601, DOI 10.1145/3018661.3018731
+   Ryan L., 2023, Social networks and migration. Relocations
+   Schapendonk J, 2015, POPUL SPACE PLACE, V21, P809, DOI 10.1002/psp.1860
+   Schneider CM, 2013, J R SOC INTERFACE, V10, DOI 10.1098/rsif.2013.0246
+   Schon J, 2021, PLOS ONE, V16, DOI 10.1371/journal.pone.0245712
+   Su RX, 2021, J TRANSP GEOGR, V94, DOI 10.1016/j.jtrangeo.2021.103117
+   United Nations Department of Economic and Social Affairs Population Division (UNDESA), 2020, Trends in International Migrant Stock: The 2020 Revision (United Nations database, POP/DB/MIG/Stock/Rev.2020)
+   Vogel C.N., 2022, Conflict minerals inc: war, profit and white saviourism in eastern congo
+   Xiao TY, 2022, POPUL ENVIRON, V43, P289, DOI 10.1007/s11111-021-00392-8
+NR 29
+TC 0
+Z9 0
+U1 2
+U2 2
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD FEB 23
+PY 2024
+VL 19
+IS 2
+AR e0298876
+DI 10.1371/journal.pone.0298876
+PG 13
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA JP7R1
+UT WOS:001174439300035
+PM 38394078
+OA Green Accepted, gold
+DA 2024-11-22
+ER
+
+PT J
+AU He, X
+   Wu, X
+AF He, Xin
+   Wu, Xia
+TI Social networks and ambidextrous innovation in SMEs: the mediating role
+   of dynamic capabilities and the moderating role of technological
+   turbulence
+SO TECHNOLOGY ANALYSIS & STRATEGIC MANAGEMENT
+LA English
+DT Article
+DE Social networks; Ambidextrous innovation; dynamic capabilities;
+   technological turbulence; small and medium-sized enterprises (SMEs)
+ID EXPLORATORY INNOVATION; PERFORMANCE; ANTECEDENTS; AMBIDEXTERITY;
+   ALLIANCES; STRENGTH
+AB This study examines the role of social networks on SMEs (Small- and medium-sized enterprises)' ambidextrous innovation and discusses the mediating effect of dynamic capabilities and the moderating effect of technological turbulence from the perspectives of social network theory and dynamic capability theory. Empirical data were garnered from a sample of 494 SMEs in China and structural equation modelling was used to test the proposed relationships. The results show that: (1) both dimensions of the social networks (relational and structural networks) have a positive impact on SMEs' exploratory innovation(ERI) and exploitative innovation(EII) - the relational networks(RNs) have a stronger impact on SMEs' EII while the structural networks(SNs) have a stronger impact on SMEs' ERI; (2) dynamic capabilities play a mediating role between RNs, SNs and SMEs' ERI, EII; (3) technological turbulence positively moderates the dynamic capabilities - ERI relationship, while not moderates the dynamic capabilities - EII relationship; (4) the indirect effects of RNs and SNs on ERI via dynamic capabilities is moderated by technological turbulence, while the indirect effects of RNs and SNs on EII via dynamic capabilities is not moderated by technological turbulence.
+C1 [He, Xin] Lanzhou Univ, Sch Management, Lanzhou, Peoples R China.
+   [He, Xin] Lanzhou Univ, Lanzhou Univ Shenzhen, Res Inst, Shenzhen, Peoples R China.
+   [Wu, Xia] Xi An Jiao Tong Univ, Sch Management, 8 Xianning West Rd, Xian, Shannxi, Peoples R China.
+C3 Lanzhou University; Lanzhou University; Xi'an Jiaotong University
+RP Wu, X (corresponding author), Xi An Jiao Tong Univ, Sch Management, 8 Xianning West Rd, Xian, Shannxi, Peoples R China.
+EM wuxia94y@126.com
+OI HE, XIN/0000-0002-3755-2584
+CR Abbas J, 2019, SUSTAINABILITY-BASEL, V11, DOI 10.3390/su11113006
+   Alinaghian L, 2018, IND MARKET MANAG, V71, P79, DOI 10.1016/j.indmarman.2017.12.006
+   Benner MJ, 2003, ACAD MANAGE REV, V28, P238, DOI 10.2307/30040711
+   Campos S, 2022, J INTELLECT CAP, V23, P401, DOI 10.1108/JIC-12-2019-0302
+   Chang YY, 2011, MANAGE DECIS, V49, P1658, DOI 10.1108/00251741111183816
+   Dogbe CSK, 2020, J STRATEGY MANAG, V13, P181, DOI 10.1108/JSMA-07-2019-0126
+   Eisingerich AB, 2010, RES POLICY, V39, P239, DOI 10.1016/j.respol.2009.12.007
+   Fu WY, 2013, RES POLICY, V42, P635, DOI 10.1016/j.respol.2012.09.006
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Gulati R, 1998, STRATEGIC MANAGE J, V19, P293, DOI 10.1002/(SICI)1097-0266(199804)19:4<293::AID-SMJ982>3.0.CO;2-M
+   Hermawati A, 2020, J WORKPLACE LEARN, V32, P199, DOI 10.1108/JWL-06-2019-0077
+   Jansen JJP, 2006, MANAGE SCI, V52, P1661, DOI 10.1287/mnsc.1060.0576
+   Jansen JJP, 2009, LEADERSHIP QUART, V20, P5, DOI 10.1016/j.leaqua.2008.11.008
+   JAWORSKI BJ, 1993, J MARKETING, V57, P53, DOI 10.2307/1251854
+   Kale P, 2000, STRATEGIC MANAGE J, V21, P217, DOI 10.1002/(SICI)1097-0266(200003)21:3<217::AID-SMJ95>3.3.CO;2-P
+   Li S.C., 2016, SCI TECHNOL PROG POL, V33, P96, DOI [10.6049/kjjbydc.2015070303, DOI 10.6049/KJJBYDC.2015070303]
+   Najafi-Tavani S, 2018, IND MARKET MANAG, V73, P193, DOI 10.1016/j.indmarman.2018.02.009
+   Pisar P, 2020, INNOV MARKET, V16, P48, DOI 10.21511/im.16(3).2020.05
+   Sanz-Blas S, 2021, TECHNOL FORECAST SOC, V162, DOI 10.1016/j.techfore.2020.120350
+   Schilke O, 2014, STRATEGIC MANAGE J, V35, P179, DOI 10.1002/smj.2099
+   Seyedghorban Z, 2021, J BUS IND MARK, V36, P1130, DOI 10.1108/JBIM-02-2020-0103
+   Shan W, 2018, SUSTAINABILITY-BASEL, V10, DOI 10.3390/su10041094
+   Sijabat EAS, 2021, J ASIAN FINANC ECON, V8, P711, DOI 10.13106/jafeb.2021.vol8.no1.711
+   Soto-Acosta P, 2018, J KNOWL MANAG, V22, P824, DOI 10.1108/JKM-10-2017-0448
+   Spithoven A, 2013, SMALL BUS ECON, V41, P537, DOI 10.1007/s11187-012-9453-9
+   Teece DJ, 2007, STRATEGIC MANAGE J, V28, P1319, DOI 10.1002/smj.640
+   Teece DJ, 2014, ACAD MANAGE PERSPECT, V28, P328, DOI 10.5465/amp.2013.0116
+   Wang CX, 2022, J BUS RES, V139, P1435, DOI 10.1016/j.jbusres.2021.10.046
+   Wilden R, 2013, LONG RANGE PLANN, V46, P72, DOI 10.1016/j.lrp.2012.12.001
+   Wiratmadja II, 2021, IEEE ACCESS, V9, P4423, DOI 10.1109/ACCESS.2020.3048139
+   Yang AM, 2018, BUS STRATEG ENVIRON, V27, P712, DOI 10.1002/bse.2026
+   Yata S., 2021, J ASIA PACIFIC BUSIN, V22, P84, DOI [10.1080/10599231.2021.1866402, DOI 10.1080/10599231.2021.1866402]
+   Zahoor N, 2021, J BUS RES, V136, P440, DOI 10.1016/j.jbusres.2021.07.057
+   Zang JJ, 2018, MANAGE DECIS, V56, P1682, DOI 10.1108/MD-05-2017-0485
+   Zhao YX, 2020, TECHNOL ANAL STRATEG, V32, P1251, DOI 10.1080/09537325.2020.1758656
+NR 35
+TC 3
+Z9 3
+U1 9
+U2 76
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0953-7325
+EI 1465-3990
+J9 TECHNOL ANAL STRATEG
+JI Technol. Anal. Strateg. Manage.
+PD OCT 2
+PY 2024
+VL 36
+IS 10
+BP 2662
+EP 2675
+DI 10.1080/09537325.2022.2157710
+EA DEC 2022
+PG 14
+WC Management; Multidisciplinary Sciences
+WE Social Science Citation Index (SSCI)
+SC Business & Economics; Science & Technology - Other Topics
+GA E3X1Z
+UT WOS:000899869200001
+OA hybrid
+DA 2024-11-22
+ER
+
+PT J
+AU Han, YT
+   Bazzi, M
+   Turrini, P
+AF Han, Yueting
+   Bazzi, Marya
+   Turrini, Paolo
+TI Modelling and predicting online vaccination views using bow-tie
+   decomposition
+SO ROYAL SOCIETY OPEN SCIENCE
+LA English
+DT Article
+DE computational social science; social networks; data analysis; opinion
+   dynamics; social psychology
+ID NETWORKS; DEFINITION; CHALLENGE
+AB Social media has become increasingly important in shaping public vaccination views, especially since the COVID-19 outbreak. This paper uses bow-tie structure to analyse a temporal dataset of directed online social networks that represent the information exchange among anti-vaccination, pro-vaccination and neutral Facebook pages. Bow-tie structure decomposes a network into seven components, with two components, strongly connected component (SCC) and out-periphery component (OUT), emphasized in this paper: SCC is the largest strongly connected component, acting as an 'information magnifier', and OUT contains all nodes with a directed path from a node in SCC, acting as an 'information creator'. We consistently observe statistically significant bow-tie structures with different dominant components for each vaccination group over time. In particular, the anti-vaccination group has a large OUT, and the pro-vaccination group has a large SCC. We further investigate changes in opinions over time, as measured by fan count variations, using agent-based simulations and machine learning models. Across both methods, accounting for bow-tie decomposition better reflects information flow differences among vaccination groups and improves our opinion dynamics prediction results. The modelling frameworks we consider can be applied to any multi-stance temporal network and could form a basis for exploring opinion dynamics using bow-tie structure in a wide range of applications.
+C1 [Han, Yueting] Univ Warwick, MathSys CDT, Coventry, England.
+   [Han, Yueting; Bazzi, Marya] Univ Warwick, Math Inst, Coventry, England.
+   [Turrini, Paolo] Univ Warwick, Dept Comp Sci, Coventry, England.
+   [Bazzi, Marya] Alan Turing Inst, London, England.
+C3 University of Warwick; University of Warwick; University of Warwick
+RP Han, YT (corresponding author), Univ Warwick, MathSys CDT, Coventry, England.; Han, YT (corresponding author), Univ Warwick, Math Inst, Coventry, England.
+EM yueting.han@warwick.ac.uk
+OI Han, Yueting/0009-0009-5867-5514
+FU Engineering and Physical Sciences Research Council
+FX No Statement Available
+CR Bazzi M, 2020, PHYS REV RES, V2, DOI 10.1103/PhysRevResearch.2.023100
+   Beguerisse-Díaz M, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2014.0940
+   Béres F, 2023, APPL NETW SCI, V8, DOI 10.1007/s41109-023-00534-x
+   Bovet A, 2022, APPL NETW SCI, V7, DOI 10.1007/s41109-022-00513-8
+   Briand SC, 2021, CELL, V184, P6010, DOI 10.1016/j.cell.2021.10.031
+   Broder A, 2000, COMPUT NETW, V33, P309, DOI 10.1016/S1389-1286(00)00083-9
+   Burki T, 2019, LANCET DIGIT HEALTH, V1, pE258, DOI 10.1016/S2589-7500(19)30136-0
+   Cascini F, 2022, ECLINICALMEDICINE, V48, DOI 10.1016/j.eclinm.2022.101454
+   Castioni P, 2022, ROY SOC OPEN SCI, V9, DOI 10.1098/rsos.220716
+   Chandrashekar G, 2014, COMPUT ELECTR ENG, V40, P16, DOI 10.1016/j.compeleceng.2013.11.024
+   Cherifi H, 2019, APPL NETW SCI, V4, DOI 10.1007/s41109-019-0238-9
+   Chistikov D, 2020, Arxiv, DOI arXiv:1912.09864
+   Chu Z, 2012, IEEE T DEPEND SECURE, V9, P811, DOI 10.1109/TDSC.2012.75
+   Cinelli M, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2023301118
+   Cinelli M, 2020, SCI REP-UK, V10, DOI 10.1038/s41598-020-73510-5
+   Davies P, 2002, ARCH DIS CHILD, V87, P22, DOI 10.1136/adc.87.1.22
+   de Arruda GF, 2022, NAT COMMUN, V13, DOI 10.1038/s41467-022-30683-z
+   Dill S., 2002, ACM Transactions on Internet Technology, V2, P205, DOI [DOI 10.1145/572326.572328, https://doi.org/10.1145/572326.572328]
+   Durmaz N, 2022, HUM VACC IMMUNOTHER, V18, DOI 10.1080/21645515.2021.2025008
+   Easley D, 2010, Networks, Crowds, and Markets: Reasoning about A Highly Connected World, DOI [10.1017/CBO9780511761942, DOI 10.1017/CBO9780511761942]
+   Elliott A, 2020, P ROY SOC A-MATH PHY, V476, DOI 10.1098/rspa.2019.0783
+   Evrony A, 2017, HUM VACC IMMUNOTHER, V13, P1475, DOI 10.1080/21645515.2017.1283467
+   Farzam A, 2023, SCI REP-UK, V13, DOI 10.1038/s41598-022-26921-5
+   Fujita Y, 2019, APPL NETW SCI, V4, DOI 10.1007/s41109-019-0127-2
+   Germani F, 2021, PLOS ONE, V16, DOI 10.1371/journal.pone.0247642
+   Grabisch M, 2010, THEOR DECIS, V69, P69, DOI 10.1007/s11238-008-9109-z
+   Han Y., 2024, Figshare, DOI [10.6084/m9.figshare.c.7074965, DOI 10.6084/M9.FIGSHARE.C.7074965]
+   Herrera-Peco I, 2021, HEALTHCARE-BASEL, V9, DOI 10.3390/healthcare9060662
+   Illari L, 2022, SCI ADV, V8, DOI 10.1126/sciadv.abo8017
+   Johnson NF, 2020, NATURE, V582, P230, DOI 10.1038/s41586-020-2281-1
+   Kabir KMA, 2019, CHAOS SOLITON FRACT, V119, P118, DOI 10.1016/j.chaos.2018.12.017
+   Kempe D, 2005, LECT NOTES COMPUT SC, V3580, P1127
+   Kiss IZ., 2017, Mathematics of Epidemics on Networks: From Exact to Approximate Models, V46, DOI DOI 10.1007/978-3-319-50806-1
+   KRACKHARDT D, 1986, J APPL PSYCHOL, V71, P50, DOI 10.1037/0021-9010.71.1.50
+   Lancichinetti A, 2012, SCI REP-UK, V2, DOI 10.1038/srep00336
+   Leicht EA, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.118703
+   Lingam Greeshma, 2020, ASIA CCS '20: Proceedings of the 15th ACM Asia Conference on Computer and Communications Security, P708, DOI 10.1145/3320269.3384770
+   Loomba S, 2021, NAT HUM BEHAV, V5, P337, DOI 10.1038/s41562-021-01056-1
+   Lu NP, 2016, J CHIN INST ENG, V39, P936, DOI 10.1080/02533839.2016.1225517
+   MacDonald NE, 2015, VACCINE, V33, P4161, DOI 10.1016/j.vaccine.2015.04.036
+   Mattei M, 2022, SCI REP-UK, V12, DOI 10.1038/s41598-022-16603-7
+   Menni C, 2021, LANCET INFECT DIS, V21, P939, DOI 10.1016/S1473-3099(21)00224-3
+   NUUTILA E, 1994, INFORM PROCESS LETT, V49, P9, DOI 10.1016/0020-0190(94)90047-7
+   Obar JA, 2015, TELECOMMUN POLICY, V39, P745, DOI 10.1016/j.telpol.2015.07.014
+   Olszowski R, 2022, VACCINES-BASEL, V10, DOI 10.3390/vaccines10050750
+   Palla G, 2007, NATURE, V446, P664, DOI 10.1038/nature05670
+   Picu A., 2012, 2012 IEEE INT S WORL, P1, DOI [10.1109/WoWMoM.2012.6263682, DOI 10.1109/WOWMOM.2012.6263682]
+   Polack FP, 2020, NEW ENGL J MED, V383, P2603, DOI 10.1056/NEJMoa2034577
+   Qiu LQ, 2021, SOFT COMPUT, V25, P13949, DOI 10.1007/s00500-020-04915-7
+   Roozenbeek J, 2020, ROY SOC OPEN SCI, V7, DOI 10.1098/rsos.201199
+   Rossetti G, 2018, ACM COMPUT SURV, V51, DOI 10.1145/3172867
+   Rosvall M, 2008, P NATL ACAD SCI USA, V105, P1118, DOI 10.1073/pnas.0706851105
+   Tafuri S, 2014, VACCINE, V32, P4860, DOI 10.1016/j.vaccine.2013.11.006
+   Tarjan R., 1972, SIAM Journal on Computing, V1, P146, DOI 10.1137/0201010
+   Villegas C, 2022, SCI REP-UK, V12, DOI 10.1038/s41598-022-23738-0
+   Voysey M, 2021, LANCET, V397, P99, DOI 10.1016/S0140-6736(20)32661-1
+   Wilson SL, 2020, BMJ GLOB HEALTH, V5, DOI 10.1136/bmjgh-2020-004206
+   Yang R., 2011, 14 INT C INFORM FUSI, P1
+   Ying X., 2009, PROC 2009 SIAM INT C, P709, DOI [10.1137/1.9781611972795.61, DOI 10.1137/1.9781611972795.61]
+   Zhang J., 2007, EXPERTISE NETWORKS O, P221, DOI [10.1145/1242572.1242603, DOI 10.1145/1242572.1242603]
+   Zhang W, 2023, CHAOS SOLITON FRACT, V176, DOI 10.1016/j.chaos.2023.114172
+   Zhao YY, 2018, INFORM SCIENCES, V426, P131, DOI 10.1016/j.ins.2017.10.031
+NR 62
+TC 0
+Z9 0
+U1 4
+U2 8
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 2054-5703
+J9 ROY SOC OPEN SCI
+JI R. Soc. Open Sci.
+PD FEB 21
+PY 2024
+VL 11
+IS 2
+AR 231792
+DI 10.1098/rsos.231792
+PG 20
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA IO4Z1
+UT WOS:001167269900002
+PM 38384773
+OA gold, Green Published, Green Submitted
+DA 2024-11-22
+ER

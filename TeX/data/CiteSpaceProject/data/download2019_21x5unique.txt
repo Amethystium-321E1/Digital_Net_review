@@ -1,0 +1,682 @@
+
+PT J
+AU Zhu, XN
+   Wang, WN
+   Wang, HS
+   Härdle, WK
+AF Zhu, Xuening
+   Wang, Weining
+   Wang, Hansheng
+   Haerdle, Wolfgang Karl
+TI Network quantile autoregression
+SO JOURNAL OF ECONOMETRICS
+LA English
+DT Article
+DE Social network; Quantile regression; Autoregrssion; Systemic risk;
+   Financial contagion; Shared ownership
+ID COMMUNITY DETECTION; REGRESSION; RISK; CONNECTEDNESS; INFERENCE;
+   TOPOLOGY; MODELS
+AB The complex tail dependency structure in a dynamic network with a large-number of nodes is an important object to study. We propose a network quantile autoregression model (NQAR), which characterizes the dynamic quantile behavior. Our NQAR model consists of a system of equations, of which we relate a response to its connected nodes and node Specific characteristics in a quantile autoregression process. we show the estimation of the NQAR model and the asymptotic properties with assumptions on the network structure. For this propose we develop a network Bahadur representation that gives us direct insight into the parameter asymptotics. Moreover innovative tail-event driven impulse functions are defined. Finally, We demonstrate the usage of our model by investigating the financial contagions in the Chinese stock Market accounting for shared ownership of Companies. We find higher network dependency when the market is exposed to a higher volatility level. (C) 2019 Published by Elsevier B.V.
+C1 [Zhu, Xuening] Fudan Univ, Sch Data Sci, Shanghai, Peoples R China.
+   [Wang, Weining; Haerdle, Wolfgang Karl] Humboldt Univ, CASE, Unter Linden 6, D-10099 Berlin, Germany.
+   [Wang, Hansheng] Peking Univ, Guanghua Sch Management, Beijing, Peoples R China.
+   [Wang, Weining] City Univ London, Dept Econ, London, England.
+   [Haerdle, Wolfgang Karl] Singapore Management Univ, Sim Kee Boon Inst Financial Econ, Sch Econ, 90 Stamford Rd,6th Level, Singapore 178903, Singapore.
+C3 Fudan University; Humboldt University of Berlin; Peking University; City
+   St Georges, University of London; Singapore Management University
+RP Wang, WN (corresponding author), Humboldt Univ, CASE, Unter Linden 6, D-10099 Berlin, Germany.
+EM haerdle@hu-berlin.de
+RI Härdle, Wolfgang/C-5963-2013
+OI Wang, Hansheng/0000-0003-2386-0209; Hardle, Wolfgang
+   Karl/0000-0001-5600-3014
+FU National Natural Scierice Foundation of China (NSFC) [U1811461];
+   Shanghai Sailing Program for Youth Science and Technology Excellence
+   [19YF1402700]; Fudan-Xinzailing joint research centre for big data,
+   School of Data Science, Fudan University. NIDA, NIH [P50 DA039838]; NSF
+   [DMS 1512422]; German Research Foundition (DFG) [IRTG 1792]; National
+   Natural Science Foundation of China [11831008, 11525101, 71532001,
+   71332006]; China's National Key Research Special Program
+   [2016YFC0207704]
+FX Xuening Zhu is supported by National Natural Scierice Foundation of
+   China (NSFC, U1811461), Shanghai Sailing Program for Youth Science and
+   Technology Excellence (19YF1402700), Fudan-Xinzailing joint research
+   centre for big data, School of Data Science, Fudan University. NIDA, NIH
+   grants P50 DA039838, and a NSF grant DMS 1512422. Weining Wang and
+   Wolfgang Karl Hardle are supported by German Research Foundition (DFG)
+   on "quantile method for complex financial system" and IRTG 1792.
+   Hansheng Wang's research is partially supported by National Natural
+   Science Foundation of China (No. 11831008, 11525101, 71532001,
+   71332006). It is also supported in part by China's National Key Research
+   Special Program (No.2016YFC0207704).
+CR Abello J., 2013, Handbook of massive data sets, V4
+   Acemoglu D, 2012, ECONOMETRICA, V80, P1977, DOI 10.3982/ECTA9623
+   Amini AA, 2013, ANN STAT, V41, P2097, DOI 10.1214/13-AOS1138
+   Anton M., 2018, 2802332 SSRN
+   Billio M, 2012, J FINANC ECON, V104, P535, DOI 10.1016/j.jfineco.2011.12.010
+   Cappiello L, 2014, J FINANC ECONOMET, V12, P645, DOI 10.1093/jjfinec/nbu009
+   Chavleishvili S., 2016, WORKING PAPER
+   Chen CYH, 2019, J ECONOMETRICS, V208, P282, DOI 10.1016/j.jeconom.2018.09.016
+   Chen XL, 2013, J MARKETING RES, V50, P95, DOI 10.1509/jmr.12.0026
+   Corsi F, 2016, OPER RES, V64, P1073, DOI 10.1287/opre.2015.1464
+   Cressie N., 2015, STAT SPATIAL DATA
+   Diebold FX, 2014, J ECONOMETRICS, V182, P119, DOI 10.1016/j.jeconom.2014.04.012
+   Engle RF, 2004, J BUS ECON STAT, V22, P367, DOI 10.1198/073500104000000370
+   Fama EF, 2015, J FINANC ECON, V116, P1, DOI 10.1016/j.jfineco.2014.10.010
+   Fan J., 2010, ISSUES QUANTIL UNPUB
+   Fitzenberger B., 2013, EC APPL QUANTILE REG
+   Gaglianone WP, 2011, J BUS ECON STAT, V29, P150, DOI 10.1198/jbes.2010.07318
+   Granger C.W.J., 2000, Q REV ECON FINANC, V40, P337, DOI [10.1016/S1062-9769(00)00042-9, DOI 10.1016/S1062-9769(00)00042-9]
+   Härdie WK, 2016, J ECONOMETRICS, V192, P499, DOI 10.1016/j.jeconom.2016.02.013
+   Hasan MN, 1997, ECONOMETRICA, V65, P133, DOI 10.2307/2171816
+   Hautsch N, 2015, REV FINANC, V19, P685, DOI 10.1093/rof/rfu010
+   Herz A, 2015, SOC NETWORKS, V40, P64, DOI 10.1016/j.socnet.2014.08.001
+   Hoff PD, 2002, J AM STAT ASSOC, V97, P1090, DOI 10.1198/016214502388618906
+   Koenker R, 2001, J ECON PERSPECT, V15, P143, DOI 10.1038/s41592-019-0406-y
+   KOENKER R, 1978, ECONOMETRICA, V46, P33, DOI 10.2307/1913643
+   Koenker R, 1999, J AM STAT ASSOC, V94, P1296, DOI 10.2307/2669943
+   Koenker R.W., 2005, QUANTILE REGRESSION, DOI [10.1017/CBO9780511754098, 10.1017/CBO9780511754, DOI 10.1017/CBO9780511754098]
+   Koenker R, 2006, J AM STAT ASSOC, V101, P980, DOI 10.1198/016214506000000672
+   Lee LF, 2004, ECONOMETRICA, V72, P1899, DOI 10.1111/j.1468-0262.2004.00558.x
+   Lee LF, 2009, SPAT ECON ANAL, V4, P301, DOI 10.1080/17421770903114703
+   Li GD, 2015, J AM STAT ASSOC, V110, P246, DOI 10.1080/01621459.2014.892007
+   Lutkepohl H., 2005, NEW INTRO MULTIPLE T, DOI 10.1007/978-3-540-27752-1
+   Newman M., 2011, The Structure and Dynamics of Networks, DOI DOI 10.1515/9781400841356
+   Novy D, 2013, ECON INQ, V51, P101, DOI 10.1111/j.1465-7295.2011.00439.x
+   PORTNOY S, 1991, J MULTIVARIATE ANAL, V38, P100, DOI 10.1016/0047-259X(91)90034-Y
+   Portnoy S, 1997, ANN STAT, V25, P414
+   Sewell DK, 2017, BAYESIAN ANAL, V12, P351, DOI 10.1214/16-BA1000
+   Sewell DK, 2015, J AM STAT ASSOC, V110, P1646, DOI 10.1080/01621459.2014.988214
+   White H, 2015, J ECONOMETRICS, V187, P169, DOI 10.1016/j.jeconom.2015.02.004
+   Zhang D., 2015, ARXIV150807036
+   Zhang JF, 2013, J AM STAT ASSOC, V108, P1295, DOI 10.1080/01621459.2012.758587
+   Zhang X., 2014, ARXIV14061037
+   Zhao YP, 2011, P NATL ACAD SCI USA, V108, P7321, DOI 10.1073/pnas.1006642108
+   Zhou J, 2017, J BUS ECON STAT, V35, P130, DOI 10.1080/07350015.2015.1061437
+   Zhu X., 2018, WORKING PAPER
+   Zhu XN, 2017, ANN STAT, V45, P1096, DOI 10.1214/16-AOS1476
+   Zou T, 2017, J AM STAT ASSOC, V112, P266, DOI 10.1080/01621459.2015.1131699
+NR 47
+TC 46
+Z9 47
+U1 9
+U2 131
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 0304-4076
+EI 1872-6895
+J9 J ECONOMETRICS
+JI J. Econom.
+PD SEP
+PY 2019
+VL 212
+IS 1
+BP 345
+EP 358
+DI 10.1016/j.jeconom.2019.04.034
+PG 14
+WC Economics; Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Mathematics; Mathematical Methods In Social
+   Sciences
+GA IW3IX
+UT WOS:000484874800018
+OA Green Submitted, Green Accepted
+DA 2024-11-22
+ER
+
+PT J
+AU Yakubovich, V
+   Burg, R
+AF Yakubovich, Valery
+   Burg, Ryan
+TI Friendship by assignment? From formal interdependence to informal
+   relations in organizations
+SO HUMAN RELATIONS
+LA English
+DT Article
+DE field experiment; formal and informal structures; interdependence;
+   managerial intervention; network dynamics; network theory;
+   randomization; social relations
+ID SOCIAL NETWORKS; MATHEMATICAL-MODEL; DYNAMICS; EMBEDDEDNESS; WORK; TIES;
+   JOB
+AB We offer the first field experiment showing how job assignments create social ties at work and influence their persistence. Pairs of managers were assigned at random to project teams. We show that once those pairs work together and become interdependent, they are more likely to create informal relationships (friendships and advice ties). Interdependence also increases the persistence of the informal ties that existed prior to team assignments; the magnitude of this effect decreases with tie strength. As organizations extend their use of teamwork, they also create and maintain social networks across functional and geographic boundaries. Thus, transitory project teams forge an enduring organizational legacy.
+C1 [Yakubovich, Valery] ESSEC Business Sch, Management, Cergy Pontoise, France.
+   [Burg, Ryan] Bucknell Univ, Kenneth W Freeman Coll Management, Lewisburg, PA 17837 USA.
+C3 ESSEC Business School; Bucknell University
+RP Yakubovich, V (corresponding author), ESSEC Business Sch, F-95021 Cergy Pontoise, France.
+EM yakubovich@essec.edu; rsb029@bucknell.edu
+OI Yakubovich, Valery/0000-0001-7519-2578
+FU ESSEC Business School; Center for Human Resources at the Wharton School;
+   Mack Institute for Innovation Management at the Wharton School
+FX The first author gratefully acknowledges financial support from the
+   ESSEC Business School, and the Center for Human Resources and Mack
+   Institute for Innovation Management at the Wharton School.
+CR [Anonymous], 1994, The Management of Innovation
+   [Anonymous], 1955, DYNAMICS BUREAUCRACY
+   [Anonymous], EUROPEAN URBAN REGIO
+   BARLEY SR, 1990, ADMIN SCI QUART, V35, P61, DOI 10.2307/2393551
+   Barnard C., 1938, FUNCT EXECUTIVE
+   Bernstein Ethan, 2016, HARVARD BUSINESS REV
+   Biancani S, 2014, ORGAN SCI, V25, P1306, DOI 10.1287/orsc.2013.0882
+   BRASS DJ, 1985, ACAD MANAGE J, V28, P327, DOI 10.5465/256204
+   BRASS DJ, 1981, ADMIN SCI QUART, V26, P331, DOI 10.2307/2392511
+   Burke CM, 2016, HUM RELAT, V69, P1235, DOI 10.1177/0018726715610809
+   Burt RS, 2002, SOC NETWORKS, V24, P333, DOI 10.1016/S0378-8733(02)00017-5
+   Casadesus-Masanell R, 2007, MANAGE SCI, V53, P584, DOI 10.1287/mnsc.1060.0672
+   Casciaro T, 2015, ORGAN SCI, V26, P373, DOI 10.1287/orsc.2014.0939
+   Casciaro T, 2008, ADMIN SCI QUART, V53, P655, DOI 10.2189/asqu.53.4.655
+   Clement J, 2016, WORKING PAPER
+   Dahlander L, 2013, ADMIN SCI QUART, V58, P69, DOI 10.1177/0001839212474272
+   Dalton M., 1959, MEN WHO MANAGE
+   Davis JP, 2016, ADMIN SCI QUART, V61, P621, DOI 10.1177/0001839216649350
+   Fayol H., 1949, General and Industrial Management
+   FELD SL, 1981, AM J SOCIOL, V86, P1015, DOI 10.1086/227352
+   Gimeno J, 1996, ADV STRATEG MANAG, V13, P323
+   GRANOVETTER M, 1985, AM J SOCIOL, V91, P481, DOI 10.1086/228311
+   Granovetter M, 1995, Getting a Job: A Study of Contacts and Careers
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Greene W. H., 1993, ECONOMETRIC ANAL
+   Hackman J.R., 2002, LEADING TEAMS
+   Harter J, 2015, GALLUP NEWS     0408
+   Homans G.C., 1950, The Human Group
+   IBARRA H, 1992, ADMIN SCI QUART, V37, P422, DOI 10.2307/2393451
+   Ingram P, 2007, ADMIN SCI QUART, V52, P558, DOI 10.2189/asqu.52.4.558
+   Jones C., 2008, OXFORD HDB INTERORGA, P231
+   Kalev A, 2009, AM J SOCIOL, V114, P1591, DOI 10.1086/597175
+   Kharkhordin O, 2011, SOCIAL PUBLIC, P487
+   Kleinbaum AM, 2018, MANAGE SCI, V64, P2219, DOI 10.1287/mnsc.2016.2705
+   Kleinbaum AM, 2013, ORGAN SCI, V24, P1316, DOI 10.1287/orsc.1120.0804
+   Kozlowski SWJ, 2006, PSYCHOL SCI, P77, DOI 10.1111/j.1529-1006.2006.00030.x
+   Lau DC, 1998, ACAD MANAGE REV, V23, P325, DOI 10.2307/259377
+   Lazega E, 2006, EUR MANAG REV, V3, P113, DOI 10.1057/palgrave.emr.1500058
+   LINCOLN JR, 1979, ADMIN SCI QUART, V24, P181, DOI 10.2307/2392493
+   Liu CC, 2016, ORGAN SCI, V27, P90, DOI 10.1287/orsc.2015.1020
+   Marsden PeterV., 1990, Structures of Power and Constraint: Papers in Honor of Peter Blau, P397
+   McEvily B, 2014, ACAD MANAG ANN, V8, P299, DOI 10.1080/19416520.2014.885252
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   MINER AS, 1987, ADMIN SCI QUART, V32, P327, DOI 10.2307/2392908
+   Nahapiet J, 1998, ACAD MANAGE REV, V23, P242, DOI 10.2307/259373
+   OESER OA, 1967, HUM RELAT, V20, P83, DOI 10.1177/001872676702000107
+   OESER OA, 1962, HUM RELAT, V15, P89, DOI 10.1177/001872676201500201
+   Ordanini A, 2008, LONG RANGE PLANN, V41, P17, DOI 10.1016/j.lrp.2007.11.001
+   Podolny JM, 1997, AM SOCIOL REV, V62, P673, DOI 10.2307/2657354
+   POWELL WW, 1990, RES ORGAN BEHAV, V12, P295
+   Reagans R, 2004, ADMIN SCI QUART, V49, P101
+   Reagans R, 2011, ORGAN SCI, V22, P835, DOI 10.1287/orsc.1100.0587
+   Rivera MT, 2010, ANNU REV SOCIOL, V36, P91, DOI 10.1146/annurev.soc.34.040507.134743
+   Roethlisberger Fritz J., 1939, Management and the Worker. An Account of a Research Program Conducted by the Western Electric Company, Hawthorne Works, Chicago
+   SHRADER CB, 1989, HUM RELAT, V42, P43, DOI 10.1177/001872678904200103
+   Sias PM, 1998, WESTERN J COMM, V62, P273
+   Simmel G., 1950, SOCIOLOGY G SIMMEL
+   Soltis SM, 2013, HUM RESOUR MANAGE-US, V52, P561, DOI 10.1002/hrm.21542
+   Sosa ME, 2013, J MECH DESIGN, V135, DOI 10.1115/1.4024763
+   Sosa ME, 2011, ORGAN SCI, V22, P1, DOI 10.1287/orsc.1090.0519
+   Srivastava SB, 2015, ORGAN SCI, V26, P1365, DOI 10.1287/orsc.2015.0999
+   TICHY N, 1979, HUM RELAT, V32, P923, DOI 10.1177/001872677903201103
+   Uzzi B, 1997, ADMIN SCI QUART, V42, P35, DOI 10.2307/2393808
+   Uzzi B, 1996, AM SOCIOL REV, V61, P674, DOI 10.2307/2096399
+   Waber B.N., 2013, PEOPLE ANAL
+   WAGEMAN R, 1995, ADMIN SCI QUART, V40, P145, DOI 10.2307/2393703
+   Watts DJ, 1999, AM J SOCIOL, V105, P493, DOI 10.1086/210318
+   Weber M., 1978, ECON SOC, V2
+   Weiss RS, 1955, AM SOCIOL REV, V20, P661, DOI 10.2307/2088670
+   Wrzesniewski A, 2001, ACAD MANAGE REV, V26, P179, DOI 10.2307/259118
+NR 70
+TC 24
+Z9 31
+U1 9
+U2 56
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0018-7267
+EI 1741-282X
+J9 HUM RELAT
+JI Hum. Relat.
+PD JUN
+PY 2019
+VL 72
+IS 6
+BP 1013
+EP 1038
+DI 10.1177/0018726718789479
+PG 26
+WC Management; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Business & Economics; Social Sciences - Other Topics
+GA HV3TL
+UT WOS:000465910800001
+DA 2024-11-22
+ER
+
+PT J
+AU Bordeu, I
+   Amarteifio, S
+   Garcia-Millan, R
+   Walter, B
+   Wei, NX
+   Pruessner, G
+AF Bordeu, Ignacio
+   Amarteifio, Saoirse
+   Garcia-Millan, Rosalba
+   Walter, Benjamin
+   Wei, Nanxin
+   Pruessner, Gunnar
+TI Volume explored by a branching random walk on general graphs
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID SCALE-FREE NETWORKS; SPECTRAL DIMENSION; RANGE; CENTRALITY; DIFFUSION;
+   TOPOLOGY
+AB Branching processes are used to model diverse social and physical scenarios, from extinction of family names to nuclear fission. However, for a better description of natural phenomena, such as viral epidemics in cellular tissues, animal populations and social networks, a spatial embedding-the branching random walk (BRW)-is required. Despite its wide range of applications, the properties of the volume explored by the BRW so far remained elusive, with exact results limited to one dimension. Here we present analytical results, supported by numerical simulations, on the scaling of the volume explored by a BRW in the critical regime, the onset of epidemics, in general environments. Our results characterise the spreading dynamics on regular lattices and general graphs, such as fractals, random trees and scale-free networks, revealing the direct relation between the graphs' dimensionality and the rate of propagation of the viral process. Furthermore, we use the BRW to determine the spectral properties of real social and metabolic networks, where we observe that a lack of information of the network structure can lead to differences in the observed behaviour of the spreading process. Our results provide observables of broad interest for the characterisation of real world lattices, tissues, and networks.
+C1 [Bordeu, Ignacio; Amarteifio, Saoirse; Garcia-Millan, Rosalba; Walter, Benjamin; Wei, Nanxin; Pruessner, Gunnar] Imperial Coll London, Dept Math, London SW7 2AZ, England.
+   [Bordeu, Ignacio; Amarteifio, Saoirse; Garcia-Millan, Rosalba; Walter, Benjamin; Wei, Nanxin; Pruessner, Gunnar] Imperial Coll London, Ctr Complex Sci, London SW7 2AZ, England.
+   [Bordeu, Ignacio] Univ Cambridge, Ctr Math Sci, DAMTP, Cambridge CB3 0WA, England.
+   [Bordeu, Ignacio] Univ Cambridge, Wellcome Trust Canc Res UK Gurdon Inst, Cambridge CB2 1QN, England.
+C3 Imperial College London; Imperial College London; University of
+   Cambridge; University of Cambridge
+RP Bordeu, I; Pruessner, G (corresponding author), Imperial Coll London, Dept Math, London SW7 2AZ, England.; Bordeu, I; Pruessner, G (corresponding author), Imperial Coll London, Ctr Complex Sci, London SW7 2AZ, England.; Bordeu, I (corresponding author), Univ Cambridge, Ctr Math Sci, DAMTP, Cambridge CB3 0WA, England.; Bordeu, I (corresponding author), Univ Cambridge, Wellcome Trust Canc Res UK Gurdon Inst, Cambridge CB2 1QN, England.
+EM ib443@cam.ac.uk; g.pruessner@imperial.ac.uk
+RI ; BORDEU, Ignacio/L-5732-2013
+OI Walter, Benjamin/0000-0002-3177-9059; BORDEU,
+   Ignacio/0000-0002-1017-777X
+FU Centre for Doctoral Training on Theory and Simulation of Materials at
+   Imperial College London, EPSRC [EP/L015579/1]; CONICYT PhD scholarship
+   (Chile), Beca de Doctorado en el Extranjero [72160465]
+FX We thank Aman Pujara, Brandon Annesi, Kin Tat Yiu, Henry Grieve and
+   Henry Wilkes for their contributions at an earlier stage of this
+   project. We thank Renaud Lambiotte and Erwin Frey for their useful
+   comments. We would also like to thank Andy Thomas and Nemar Porats for
+   their tireless computing support. I.B. acknowledges the support of
+   CONICYT PhD scholarship (Chile), Beca de Doctorado en el Extranjero No.
+   72160465, and the Centre for Doctoral Training on Theory and Simulation
+   of Materials at Imperial College London, EPSRC (EP/L015579/1).
+CR Albert R, 2005, J CELL SCI, V118, P4947, DOI 10.1242/jcs.02714
+   [Anonymous], 1977, Introduction to the renormalization group and to critical phenomena
+   Barabási AL, 2000, PHYSICA A, V281, P69, DOI 10.1016/S0378-4371(00)00018-2
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   BEREZHKOVSKII AM, 1989, J STAT PHYS, V57, P333, DOI 10.1007/BF01023647
+   Burioni R, 2005, J PHYS A-MATH GEN, V38, pR45, DOI 10.1088/0305-4470/38/8/R01
+   Cardy J., 2008, NONEQUILIBRIUM STAT, V355
+   Dasgupta R, 1999, J PHYS A-MATH GEN, V32, P6503, DOI 10.1088/0305-4470/32/37/302
+   Destri C, 2002, J PHYS A-MATH GEN, V35, P5147, DOI 10.1088/0305-4470/35/25/301
+   Destri C, 2002, J PHYS A-MATH GEN, V35, P9499, DOI 10.1088/0305-4470/35/45/301
+   DOI M, 1976, J PHYS A-MATH GEN, V9, P1465, DOI 10.1088/0305-4470/9/9/008
+   Dumonteil E, 2013, P NATL ACAD SCI USA, V110, P93, DOI 10.1073/pnas.1213237110
+   Eubank S, 2004, NATURE, V429, P180, DOI 10.1038/nature02541
+   Gallos LK, 2007, P NATL ACAD SCI USA, V104, P7746, DOI 10.1073/pnas.0700250104
+   Grimm Jakobund., 1857, Kinder- und Hausmarchen, V1, P79
+   Guimerá R, 2005, P NATL ACAD SCI USA, V102, P7794, DOI 10.1073/pnas.0407994102
+   Han JDJ, 2005, NAT BIOTECHNOL, V23, P839, DOI 10.1038/nbt1116
+   Harris TheodoreE., 1963, THEORY BRANCHING PRO, V119
+   Jeong H, 2000, NATURE, V407, P651, DOI 10.1038/35036627
+   Jeong H, 2001, NATURE, V411, P41, DOI 10.1038/35075138
+   Le Gall JF, 2016, J INST MATH JUSSIEU, V15, P271, DOI 10.1017/S1474748014000280
+   Le Gall JF, 2015, ANN PROBAB, V43, P2701, DOI 10.1214/14-AOP947
+   LYONS R, 1990, ANN PROBAB, V18, P931, DOI 10.1214/aop/1176990730
+   Masuda N, 2017, PHYS REP, V716, P1, DOI 10.1016/j.physrep.2017.07.007
+   Nekovar S, 2016, J STAT PHYS, V163, P604, DOI 10.1007/s10955-016-1483-2
+   Pastor-Satorras R, 2015, REV MOD PHYS, V87, P925, DOI 10.1103/RevModPhys.87.925
+   PELITI L, 1985, J PHYS-PARIS, V46, P1469, DOI 10.1051/jphys:019850046090146900
+   Ramola K, 2015, PHYS REV E, V91, DOI 10.1103/PhysRevE.91.042131
+   Samukhin AN, 2008, PHYS REV E, V77, DOI 10.1103/PhysRevE.77.036115
+   Sattentau Q, 2008, NAT REV MICROBIOL, V6, P815, DOI 10.1038/nrmicro1972
+   SAWYER S, 1979, P NATL ACAD SCI USA, V76, P872, DOI 10.1073/pnas.76.2.872
+   Simonsen I, 2004, PHYSICA A, V336, P163, DOI 10.1016/j.physa.2004.01.021
+   Stumpf MPH, 2005, P NATL ACAD SCI USA, V102, P4221, DOI 10.1073/pnas.0501179102
+   Täuber UC, 2005, J PHYS A-MATH GEN, V38, pR79, DOI 10.1088/0305-4470/38/17/R01
+   Tauber UC, 2014, CRITICAL DYNAMICS: A FIELD THEORY APPROACH TO EQUILIBRIUM AND NON-EQUILIBRIUM SCALING BEHAVIOR, P1
+   Viswanath B, 2009, 2ND ACM SIGCOMM WORKSHOP ON ONLINE SOCIAL NETWORKS (WOSN 09), P37
+   Wang W, 2017, REP PROG PHYS, V80, DOI 10.1088/1361-6633/aa5398
+   WATANABE H, 1985, J PHYS A-MATH GEN, V18, P2807, DOI 10.1088/0305-4470/18/14/030
+   Yu BM, 2001, FRACTALS, V9, P365, DOI 10.1142/S0218348X01000804
+NR 39
+TC 6
+Z9 6
+U1 0
+U2 6
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD OCT 30
+PY 2019
+VL 9
+AR 15590
+DI 10.1038/s41598-019-51225-6
+PG 9
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA JI2EP
+UT WOS:000493276600021
+PM 31666539
+OA Green Submitted, gold, Green Published
+DA 2024-11-22
+ER
+
+PT S
+AU Zhang, JW
+   Centola, D
+AF Zhang, Jingwen
+   Centola, Damon
+BE Cook, KS
+   Massey, DS
+TI Social Networks and Health: New Developments in Diffusion, Online and
+   Offline
+SO ANNUAL REVIEW OF SOCIOLOGY, VOL 45
+SE Annual Review of Sociology
+LA English
+DT Article; Book Chapter
+DE simple contagions; complex contagions; behavior change; online social
+   networks; network interventions; diffusion
+ID INFECTIOUS-DISEASE; PUBLIC-HEALTH; CONCURRENT PARTNERSHIPS; INFORMATION
+   EXPOSURE; ADOLESCENT SMOKING; PHYSICAL-ACTIVITY; BEHAVIOR-CHANGE;
+   DYNAMICS; SUPPORT; HIV
+AB The relationship between social networks and health encompasses everything from the flow of pathogens and information to the diffusion of beliefs and behaviors. This review addresses the vast and multidisciplinary literature that studies social networks as a structural determinant of health. In particular, we report on the current state of knowledge on how social contagion dynamics influence individual and collective health outcomes. We pay specific attention to research that leverages large-scale online data and social network experiments to empirically identify three broad classes of contagion processes: pathogenic diffusion, informational and belief diffusion, and behavioral diffusion. We conclude by identifying the need for more research on (a) how multiple contagions interact within the same social network, (b) how online social networks impact offline health, and (c) the effectiveness of social network interventions for improving population health.
+C1 [Zhang, Jingwen] Univ Calif Davis, Dept Commun, Davis, CA 95616 USA.
+   [Centola, Damon] Univ Penn, Annenberg Sch Commun, Philadelphia, PA 19104 USA.
+C3 University of California System; University of California Davis;
+   University of Pennsylvania
+RP Centola, D (corresponding author), Univ Penn, Annenberg Sch Commun, Philadelphia, PA 19104 USA.
+EM dcentola@asc.upenn.edu
+RI Zhang, Jingwen/AAQ-3561-2020
+CR Abrutyn S, 2014, AM SOCIOL REV, V79, P211, DOI 10.1177/0003122413519445
+   Adamic L.A., 2006, P 7 ACM C EL COMM, P228, DOI [10.1145/1232722.1232727, 10.1145/1232722.1232727.15]
+   Adimora AA, 2005, J INFECT DIS, V191, pS115, DOI 10.1086/425280
+   Ajzen I., 2010, PREDICTING CHANGING, DOI DOI 10.4324/9780203838020
+   Allem Jon-Patrick, 2017, JMIR Public Health Surveill, V3, pe98, DOI 10.2196/publichealth.8641
+   Allgaier J, 2015, CROAT MED J, V56, P496, DOI 10.3325/cmj.2015.56.496
+   Althoff T, 2017, WSDM'17: PROCEEDINGS OF THE TENTH ACM INTERNATIONAL CONFERENCE ON WEB SEARCH AND DATA MINING, P537, DOI 10.1145/3018661.3018672
+   [Anonymous], 2001, Social capital: theory and research
+   [Anonymous], 1957, Family and social network: Roles, norms, and external relationships in ordinary urban families
+   [Anonymous], 2010, ICWSM
+   Aral S, 2017, NAT COMMUN, V8, DOI 10.1038/ncomms14753
+   Bansal Shweta, 2010, Journal of Biological Dynamics, V4, P478, DOI 10.1080/17513758.2010.503376
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barnes JA, 1954, HUM RELAT, V7, P39, DOI 10.1177/001872675400700102
+   Bearman PS, 2004, AM J SOCIOL, V110, P44, DOI 10.1086/386272
+   Bearman PS, 2004, AM J PUBLIC HEALTH, V94, P89, DOI 10.2105/AJPH.94.1.89
+   Becker J, 2017, P NATL ACAD SCI USA, V114, pE5070, DOI 10.1073/pnas.1615978114
+   Berkman L.F., 2000, SOCIAL EPIDEMIOLOGY, P158
+   Berkman LF, 2000, SOC SCI MED, V51, P843, DOI 10.1016/S0277-9536(00)00065-4
+   Bicchieri C., 2017, NORMS WILD DIAGNOSE, DOI DOI 10.1093/ACPROF:OSO/9780190622046.001.0001
+   BilleBrahe U, 1996, NORD J PSYCHIAT, V50, P41, DOI 10.3109/08039489609099729
+   Bogaert D, 2004, LANCET INFECT DIS, V4, P144, DOI 10.1016/S1473-3099(04)00938-7
+   Campbell E, 2013, SCI REP-UK, V3, DOI 10.1038/srep01905
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   Centola D, 2015, SOC SCI MED, V125, P19, DOI 10.1016/j.socscimed.2014.05.019
+   Centola D, 2013, CIRCULATION, V127, P2135, DOI 10.1161/CIRCULATIONAHA.112.101816
+   Centola D, 2011, SCIENCE, V334, P1269, DOI 10.1126/science.1207055
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Centola Damon., 2018, How Behavior Spreads
+   Chami GF, 2017, P NATL ACAD SCI USA, V114, pE7425, DOI 10.1073/pnas.1700166114
+   Christakis NA, 2008, NEW ENGL J MED, V358, P2249, DOI 10.1056/NEJMsa0706154
+   Christensen PN, 2004, PERS SOC PSYCHOL B, V30, P1295, DOI 10.1177/0146167204264480
+   Chung JE, 2014, J HEALTH COMMUN, V19, P639, DOI 10.1080/10810730.2012.757396
+   Cialdini RB, 2007, PSYCHOMETRIKA, V72, P263, DOI 10.1007/s11336-006-1560-6
+   Cobb NK, 2016, AM J PUBLIC HEALTH, V106, P1130, DOI 10.2105/AJPH.2016.303106
+   Cohen S, 2004, AM PSYCHOL, V59, P676, DOI 10.1037/0003-066X.59.8.676
+   Colizza V, 2006, P NATL ACAD SCI USA, V103, P2015, DOI 10.1073/pnas.0510525103
+   Corbett EL, 2003, ARCH INTERN MED, V163, P1009, DOI 10.1001/archinte.163.9.1009
+   de la Haye K, 2011, J ADOLESCENT HEALTH, V49, P421, DOI 10.1016/j.jadohealth.2011.02.008
+   DeAndrea DC, 2015, J HEALTH COMMUN, V20, P147, DOI 10.1080/10810730.2014.914606
+   Donker T, 2010, PLOS COMPUT BIOL, V6, DOI 10.1371/journal.pcbi.1000715
+   Dunn AG, 2017, VACCINE, V35, P3033, DOI 10.1016/j.vaccine.2017.04.060
+   Durkheim E., 1897, SUICIDE ETUDE SOCIOL
+   Eastin M.S., 2001, Journal of Computer-Mediated Communication, V6, DOI [10.1111/j.1083-6101.2001.tb00126.x, DOI 10.1111/J.1083-6101.2001.TB00126.X]
+   Faber AD, 2002, ADV MED SOC, V8, P29
+   Fairbairn CE, 2015, J ABNORM PSYCHOL, V124, P660, DOI 10.1037/abn0000024
+   Rutten LJF, 2006, J HEALTH COMMUN, V11, P147, DOI 10.1080/10810730600637574
+   Flatt JD, 2012, FAM COMMUNITY HEALTH, V35, P312, DOI 10.1097/FCH.0b013e3182666650
+   Fox E, 2017, CONTRACEPTION, V96, P290, DOI 10.1016/j.contraception.2017.07.107
+   Gardy JL, 2011, NEW ENGL J MED, V364, P730, DOI 10.1056/NEJMoa1003176
+   Graham AL, 2017, NICOTINE TOB RES, V19, P324, DOI 10.1093/ntr/ntw282
+   Gremaud AL, 2018, J AM HEART ASSOC, V7, DOI 10.1161/JAHA.117.007735
+   Guilbeault D, 2018, P NATL ACAD SCI USA, V115, P9714, DOI 10.1073/pnas.1722664115
+   Haas SA, 2014, J HEALTH SOC BEHAV, V55, P126, DOI 10.1177/0022146514532817
+   Hébert-Dufresne L, 2015, P NATL ACAD SCI USA, V112, P10551, DOI 10.1073/pnas.1507820112
+   Hornbeck T, 2012, J INFECT DIS, V206, P1549, DOI 10.1093/infdis/jis542
+   Hornik R, 2013, J HEALTH COMMUN, V18, P1422, DOI 10.1080/10810730.2013.798381
+   Horvat EM, 2003, AM EDUC RES J, V40, P319, DOI 10.3102/00028312040002319
+   House JS, 2005, J GERONTOL B-PSYCHOL, V60, P15
+   House JS, 1992, AGING HLTH BEHAV HLT, P13
+   Huang GC, 2014, J ADOLESCENT HEALTH, V54, P508, DOI 10.1016/j.jadohealth.2013.07.001
+   Hurlbert JS, 2017, SOCIAL CAPITAL, P209
+   Kawachi I., 2000, SOCIAL EPIDEMIOLOGY, V174, P290, DOI [DOI 10.1093/MED/9780195377903.003.0008, 10.1093/med/9780195377903.003.0008]
+   Kawachi I., 2008, Social capital and health
+   Kelly BC, 2014, SOCIOL QUART, V55, P23, DOI 10.1111/tsq.12041
+   Kim DA, 2015, LANCET, V386, P145, DOI 10.1016/S0140-6736(15)60095-2
+   KLOVDAHL AS, 1994, SOC SCI MED, V38, P79, DOI 10.1016/0277-9536(94)90302-6
+   Kuhlman C, 2011, P 5 WORKSH SOC NETW
+   LANGLIE JK, 1977, J HEALTH SOC BEHAV, V18, P244, DOI 10.2307/2136352
+   Laranjo L, 2015, J AM MED INFORM ASSN, V22, P243, DOI 10.1136/amiajnl-2014-002841
+   Laumann EO, 1999, SEX TRANSM DIS, V26, P250, DOI 10.1097/00007435-199905000-00003
+   Lerman K, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0147617
+   Li T, 2015, SOC SCI MED, V130, P59, DOI 10.1016/j.socscimed.2015.02.007
+   Luke DA, 2007, ANNU REV PUBL HEALTH, V28, P69, DOI 10.1146/annurev.publhealth.28.021406.144132
+   Luke DA, 2012, ANNU REV PUBL HEALTH, V33, P357, DOI 10.1146/annurev-publhealth-031210-101222
+   Lyson HC, 2019, J CANCER EDUC, V34, P819, DOI 10.1007/s13187-018-1379-8
+   MacDonald G, 2005, PSYCHOL BULL, V131, P202, DOI 10.1037/0033-2909.131.2.202
+   Maher CA, 2014, J MED INTERNET RES, V16, DOI 10.2196/jmir.2952
+   Maner JK, 2007, J PERS SOC PSYCHOL, V92, P42, DOI 10.1037/0022-3514.92.1.42
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Meng JB, 2016, J COMMUN, V66, P982, DOI 10.1111/jcom.12268
+   Menzel H, 1955, PUBLIC OPIN QUART, V19, P337, DOI 10.1086/266584
+   Meyer JP, 2011, J WOMENS HEALTH, V20, P991, DOI 10.1089/jwh.2010.2328
+   Meyers LA, 2005, J THEOR BIOL, V232, P71, DOI 10.1016/j.jtbi.2004.07.026
+   Moren-Cross Jennifer., 2006, Handbook of Mental Health and Aging, P111
+   Moreno JL, 1937, SOCIOMETRY, V1, P206, DOI 10.2307/2785266
+   Moreno JL, 1937, SOCIOMETRY, V1, P9, DOI 10.2307/2785258
+   MORRIS M, 1995, SOC NETWORKS, V17, P299, DOI 10.1016/0378-8733(95)00268-S
+   Morris M, 2009, AM J PUBLIC HEALTH, V99, P1023, DOI 10.2105/AJPH.2008.147835
+   Mossong J, 2008, PLOS MED, V5, P381, DOI 10.1371/journal.pmed.0050074
+   Naslund JA, 2016, EPIDEMIOL PSYCH SCI, V25, P113, DOI 10.1017/S2045796015001067
+   Paluck EL, 2016, P NATL ACAD SCI USA, V113, P566, DOI 10.1073/pnas.1514483113
+   Paluck EL, 2012, J PERS SOC PSYCHOL, V103, P899, DOI 10.1037/a0030015
+   Pampel FC, 2010, ANNU REV SOCIOL, V36, P349, DOI 10.1146/annurev.soc.012809.102529
+   Pan WJ, 2017, J HEALTH COMMUN, V22, P45, DOI 10.1080/10810730.2016.1250845
+   Parsons JT, 2012, AM J PUBLIC HEALTH, V102, P156, DOI 10.2105/AJPH.2011.300284
+   Parsons T, 1940, AM J SOCIOL, V45, P841, DOI 10.1086/218489
+   Patel MS, 2017, JAMA INTERN MED, V177, P1586, DOI 10.1001/jamainternmed.2017.3458
+   Perry BL, 2015, SOC SCI MED, V125, P116, DOI 10.1016/j.socscimed.2013.12.033
+   PESCOSOLIDO BA, 1989, AM SOCIOL REV, V54, P33, DOI 10.2307/2095660
+   Phelan JC, 2010, J HEALTH SOC BEHAV, V51, pS28, DOI 10.1177/0022146510383498
+   POPE W, 1975, BRIT J SOCIOL, V26, P417, DOI 10.2307/589820
+   Pornpitakpan C, 2004, J APPL SOC PSYCHOL, V34, P243, DOI 10.1111/j.1559-1816.2004.tb02547.x
+   Prochaska JO, 2008, PREV MED, V46, P281, DOI 10.1016/j.ypmed.2008.01.015
+   Putnam R., 1999, BOWLING ALONE
+   Rosenberg ES, 2012, SEX TRANSM DIS, V39, P741, DOI 10.1097/OLQ.0b013e31825ec09b
+   Salathé M, 2013, EPJ DATA SCI, V2, DOI 10.1140/epjds16
+   Salathé M, 2010, P NATL ACAD SCI USA, V107, P22020, DOI 10.1073/pnas.1009094108
+   Salathé M, 2008, J R SOC INTERFACE, V5, P1505, DOI 10.1098/rsif.2008.0271
+   Shim M, 2006, J HEALTH COMMUN, V11, P157, DOI 10.1080/10810730600637475
+   Singer M, 2017, LANCET, V389, P941, DOI 10.1016/S0140-6736(17)30003-X
+   Smith KP, 2008, ANNU REV SOCIOL, V34, P405, DOI 10.1146/annurev.soc.34.040507.134601
+   Southwell B.G., 2013, SOCIAL NETWORKS POPU
+   STEWART CT, 1958, AM J SOCIOL, V64, P152, DOI 10.1086/222422
+   Stoddard ST, 2013, P NATL ACAD SCI USA, V110, P994, DOI 10.1073/pnas.1213349110
+   Su Y, 2016, FRONT COMPUT SCI-CHI, V10, P518, DOI 10.1007/s11704-015-5008-y
+   Surian D, 2016, J MED INTERNET RES, V18, DOI 10.2196/jmir.6045
+   SUTTLES W, 1960, AM ANTHROPOL, V62, P296, DOI 10.1525/aa.1960.62.2.02a00080
+   Tanis M, 2008, J HEALTH COMMUN, V13, P698, DOI 10.1080/10810730802415316
+   Thoits PA, 2011, J HEALTH SOC BEHAV, V52, P145, DOI 10.1177/0022146510395592
+   Valente T. W., 2010, Social networks and health: Models, methods, and applications, DOI DOI 10.1093/ACPROF:OSO/9780195301014.001.0001
+   Valente TW, 2012, SCIENCE, V337, P49, DOI 10.1126/science.1217330
+   Valente TW, 1997, SOC SCI MED, V45, P677, DOI 10.1016/S0277-9536(96)00385-1
+   van der Straten Ariane, 2014, J Int AIDS Soc, V17, P19146, DOI 10.7448/IAS.17.3.19146
+   van der Straten A, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0089118
+   Viswanath K., 1996, Communication yearbook, V19, P187, DOI [DOI 10.1080/23808985.1996.11678931, 10.1080/23808985.1996.11678931]
+   Weaver JB, 2010, AM J PUBLIC HEALTH, V100, P1520, DOI 10.2105/AJPH.2009.180521
+   Wehrli S., 2008, 7 ETH ZUR DEP SOC
+   Weng LL, 2013, SCI REP-UK, V3, DOI 10.1038/srep02522
+   Wilson K, 2015, PSYCHOL BULL, V141, P474, DOI 10.1037/a0038295
+   Young SD, 2014, AM J PUBLIC HEALTH, V104, P1707, DOI 10.2105/AJPH.2014.301992
+   Zhang J, 2017, INT C COMP SOC SCI C
+   Zhang Jingwen, 2015, Prev Med Rep, V2, P651, DOI 10.1016/j.pmedr.2015.08.005
+   Zhang Jingwen, 2016, Prev Med Rep, V4, P453, DOI 10.1016/j.pmedr.2016.08.008
+   Zhang J, 2015, AM J PUBLIC HEALTH, V105, pS236, DOI 10.2105/AJPH.2014.302277
+NR 135
+TC 92
+Z9 103
+U1 7
+U2 80
+PU ANNUAL REVIEWS
+PI PALO ALTO
+PA 4139 EL CAMINO WAY, PO BOX 10139, PALO ALTO, CA 94303-0897 USA
+SN 0360-0572
+EI 1545-2115
+BN 978-0-8243-2245-8
+J9 ANNU REV SOCIOL
+JI Annu. Rev. Sociol.
+PY 2019
+VL 45
+BP 91
+EP 109
+DI 10.1146/annurev-soc-073117-041421
+PG 19
+WC Sociology
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH); Social Science Citation Index (SSCI)
+SC Sociology
+GA BN6IR
+UT WOS:000485280200005
+OA Bronze
+DA 2024-11-22
+ER
+
+PT J
+AU Neal, JW
+   Neal, ZP
+   Mills, KJ
+   Lawlor, JA
+   McAlindon, K
+AF Neal, Jennifer Watling
+   Neal, Zachary P.
+   Mills, Kristen J.
+   Lawlor, Jennifer A.
+   McAlindon, Kathryn
+TI What types of brokerage bridge the research-practice gap? The case of
+   public school educators
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE small world; brokerage; social networks; research-practice gap;
+   education
+ID SMALL-WORLD; INTERMEDIARY ORGANIZATIONS; DECISION-MAKING; SOCIAL
+   NETWORKS; KNOWLEDGE; TEACHERS; HEALTH; POLICY; POLITICS; DISSEMINATION
+AB The presence of a research-practice gap is recognized across multiple fields including education, psychology, and public health. In this paper, we examine which of five structural types of brokerage are most and least effective in bridging this research-practice gap in the context of education. Using a small world survey design, we tracked how a statewide random sample of 247 K-12 principals and superintendents in Michigan seek information about social skills programs from brokering individuals and organizations. We find that some triadic brokerage structures are more effective than others in closing the communication gap between practitioners and researchers. Specifically, educators relying on itinerant brokerage, which circulates information between members of the same community, were five times less likely to obtain information from a researcher. In contrast, educators relying on representative or liaison brokerage, which facilitate information transfer between members of different communities, were more than twice as likely to obtain information from a researcher. We conclude by discussing implications for the development of interventions designed to facilitate information sharing between practitioners and researchers.
+C1 [Neal, Jennifer Watling; Neal, Zachary P.; McAlindon, Kathryn] Michigan State Univ, Dept Psychol, 316 Phys Rd,Rm 242, E Lansing, MI 48824 USA.
+   [Mills, Kristen J.] Ohio State Univ, Dept Educ Studies, Columbus, OH 43210 USA.
+   [Lawlor, Jennifer A.] Univ Michigan, Sch Informat, Ann Arbor, MI 48109 USA.
+C3 Michigan State University; University System of Ohio; Ohio State
+   University; University of Michigan System; University of Michigan
+RP Neal, JW (corresponding author), Michigan State Univ, Dept Psychol, 316 Phys Rd,Rm 242, E Lansing, MI 48824 USA.
+EM jneal@msu.edu
+RI Neal, Jennifer/C-3173-2009; Mills, Kristen/HJY-9279-2023
+OI Lawlor, Jennifer/0000-0003-2857-3030; Mills, Kristen
+   J./0000-0002-5014-9685; Neal, Jennifer/0000-0002-7749-8121
+FU R21 research grant from the National Institute of Mental Health
+   [1R21MH100238-01A1, 183010]; William T. Grant Foundation
+FX This study was funded by an R21 research grant from the National
+   Institute of Mental Health (#1R21MH100238-01A1) and a Use of Research
+   Evidence Award (#183010) from the William T. Grant Foundation. All
+   authors of this manuscript declare that they have no conflicts of
+   interest.
+CR Anderson G L., 1998, Educational Researcher, V28, P12
+   [Anonymous], Zooming in and out, DOI DOI 10.4135/9781849209915
+   [Anonymous], 1989, Sociological Methodology, DOI DOI 10.2307/270949
+   BECHEIKH N., 2010, Research in Higher Education Journal, V7
+   Bevc CA, 2012, J PUBLIC HEALTH MAN, V18, P577, DOI 10.1097/PHH.0b013e31825fbaf9
+   BLACKMORE Jill., 2002, Social Policy and Society, V1-3, P257, DOI DOI 10.1017/S147474640200310X
+   CAPLAN N, 1979, AM BEHAV SCI, V22, P459, DOI 10.1177/000276427902200308
+   Center for Educational Performance and Information, 2015, ED ENT MAST DAT FIL
+   Center for Educational Performance and Information, 2016, 2015 2016 MICH K 12
+   Coburn C.E., 2013, Research-practice partnerships: A strategy for leveraging research for educational improvement in school districts
+   Coburn CE, 2008, EDUC EVAL POLICY AN, V30, P203, DOI 10.3102/0162373708321829
+   Coburn CE, 2013, SOCIOL EDUC, V86, P311, DOI 10.1177/0038040713501147
+   Cook B., 2012, APA ED PSYCHOL HDB, V1, P493
+   Dagenais C, 2012, EVID POLICY, V8, P285, DOI 10.1332/174426412X654031
+   Daly A.J., 2012, J SCH LEADERSHIP, V22, P493
+   Daly AJ, 2014, EDUC POLICY, V28, P145, DOI 10.1177/0895904813513149
+   DeBray E, 2014, EDUC POLICY, V28, P175, DOI 10.1177/0895904813514132
+   Dodds PS, 2003, SCIENCE, V301, P827, DOI 10.1126/science.1081058
+   Durlak JA, 2011, CHILD DEV, V82, P405, DOI 10.1111/j.1467-8624.2010.01564.x
+   Farley-Ripple E, 2018, EDUC RESEARCHER, V47, P235, DOI 10.3102/0013189X18761042
+   Farley-Ripple EN, 2012, EDUC MANAG ADM LEAD, V40, P786, DOI 10.1177/1741143212456912
+   FERNANDEZ RM, 1994, AM J SOCIOL, V99, P1455, DOI 10.1086/230451
+   Finnigan KS, 2013, J EDUC ADMIN, V51, P476, DOI 10.1108/09578231311325668
+   Frank KA, 2004, SOCIOL EDUC, V77, P148, DOI 10.1177/003804070407700203
+   FRIEDKIN NE, 1994, SOCIOL EDUC, V67, P139, DOI 10.2307/2112701
+   Glasgow RE, 2007, ANNU REV PUBL HEALTH, V28, P413, DOI 10.1146/annurev.publhealth.28.021406.144145
+   Glisson Charles, 2005, Ment Health Serv Res, V7, P243, DOI 10.1007/s11020-005-7456-1
+   Good PI, 2005, Permutation, Parametric, and Bootstrap Tests of Hypotheses, DOI 10.1007/b138696
+   Green LW, 2009, ANNU REV PUBL HEALTH, V30, P151, DOI 10.1146/annurev.publhealth.031308.100049
+   Grossetti M., 2011, B SOCIOLOGICAL METHO, V110, P11, DOI [DOI 10.1177/0759106311399553, 10.1177/0759106311399553]
+   Hansen MT, 1999, ADMIN SCI QUART, V44, P82, DOI 10.2307/2667032
+   Hattie JAC, 2009, VISIBLE LEARNING: A SYNTHESIS OF OVER 800 META-ANALYSES RELATING TO ACHIEVEMENT, P1
+   Honig MI, 2008, EDUC POLICY, V22, P578, DOI 10.1177/0895904807307067
+   Hopkins M, 2018, EVID POLICY, V14, P459, DOI 10.1332/174426418X15299595170910
+   Killworth PD, 2006, SOC NETWORKS, V28, P85, DOI 10.1016/j.socnet.2005.06.001
+   Kleinberg JM, 2000, NATURE, V406, P845, DOI 10.1038/35022643
+   KORTE C, 1970, J PERS SOC PSYCHOL, V15, P101, DOI 10.1037/h0029198
+   Leadbeater B, 2010, CAN PSYCHOL, V51, P221, DOI 10.1037/a0020486
+   Lin Fang -Ling, 2015, 2015 IEEE INT C TEAC
+   Lomas J, 2007, BRIT MED J, V334, P129, DOI 10.1136/bmj.39038.593380.AE
+   Lubienski C, 2014, EDUC POLICY, V28, P131, DOI 10.1177/0895904813515329
+   Malouf DB, 2016, EDUC RESEARCHER, V45, P454, DOI 10.3102/0013189X16678417
+   Meredith C, 2017, SOC NETWORKS, V50, P35, DOI 10.1016/j.socnet.2017.03.006
+   Meyer M, 2010, SCI COMMUN, V32, P118, DOI 10.1177/1075547009359797
+   MILGRAM S, 1967, PSYCHOL TODAY, V1, P61
+   Neal JW, 2019, EDUC ADMIN QUART, V55, P154, DOI 10.1177/0013161X18785867
+   Neal JW, 2018, ADM POLICY MENT HLTH, V45, P432, DOI 10.1007/s10488-017-0834-x
+   Neal JW, 2015, AM J COMMUN PSYCHOL, V56, P422, DOI 10.1007/s10464-015-9745-8
+   Neal ZP, 2017, AM J COMMUN PSYCHOL, V60, P279, DOI 10.1002/ajcp.12158
+   Neal ZP, 2015, PSYCHOSOC INTERV, V24, P177, DOI 10.1016/j.psi.2015.07.006
+   Nutley S., 2003, EVALUATION-US, V9, P125, DOI DOI 10.1177/1356389003009002002
+   Penuel W, 2009, TEACH COLL REC, V111, P124
+   Penuel WR, 2017, AERA OPEN, V3, DOI 10.1177/2332858417705370
+   Scott J, 2014, EDUC POLICY, V28, P233, DOI 10.1177/0895904813515327
+   Singh J, 2010, MANAGE SCI, V56, P1415, DOI 10.1287/mnsc.1100.1201
+   Spillane JP, 2017, SOCIOL EDUC, V90, P149, DOI 10.1177/0038040717696151
+   Spiro ES, 2013, SOC NETWORKS, V35, P130, DOI 10.1016/j.socnet.2013.02.001
+   Spoth RL, 2005, AM J COMMUN PSYCHOL, V35, P107, DOI 10.1007/s10464-005-3388-0
+   TRAVERS J, 1969, SOCIOMETRY, V32, P425, DOI 10.2307/2786545
+   Tseng V., 2012, Social Policy Report, V26, P1
+   United States Census Bureau, 2019, Annual estimates of the resident population: April 1, 2010 to July 1, 2019
+   Valente TW, 2012, SCIENCE, V337, P49, DOI 10.1126/science.1217330
+   Vanderlinde R, 2010, BRIT EDUC RES J, V36, P299, DOI 10.1080/01411920902919257
+   Wandersman A, 2003, AM J COMMUN PSYCHOL, V31, P227, DOI 10.1023/A:1023954503247
+   Wang C, 2017, SCI REP-UK, V7, DOI 10.1038/s41598-017-09171-8
+   Waring J, 2013, SOC SCI MED, V98, P79, DOI 10.1016/j.socscimed.2013.08.037
+NR 66
+TC 24
+Z9 26
+U1 3
+U2 16
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD OCT
+PY 2019
+VL 59
+BP 41
+EP 49
+DI 10.1016/j.socnet.2019.05.006
+PG 9
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA IZ6DC
+UT WOS:000487171000005
+PM 34446981
+OA Green Accepted
+DA 2024-11-22
+ER

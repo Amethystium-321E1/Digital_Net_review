@@ -1,0 +1,537 @@
+
+PT J
+AU Yang, T
+   Fang, KC
+AF Yang, Tian
+   Fang, Kecheng
+TI How dark corners collude: a study on an online Chinese alt-right
+   community
+SO INFORMATION COMMUNICATION & SOCIETY
+LA English
+DT Article
+DE alt-right; China; online community; transnationalism; Weibo
+AB The rise of the 'alt-right' (alternative right) and their communications on the Internet are not unique to the West. This study follows a mixed-methods approach combining topic modeling, social network analysis, and discourse analysis to analyze the discursive and network structure of an online Chinese alt-right community on Weibo. We summarize the topics Chinese alt-right influencers discuss and examine how these topics are interrelated. We find that the Chinese alt-right discourse can be deemed as both an extension and localization of the global alt-right: they frequently discuss global alt-right issues and also hold alt-right ideologies on domestic issues. Meanwhile, influencers in the community are densely connected, suggesting a high level of coordination and cooperation. We particularly identify two discursive strategies that alt-right influencers employ to reproduce the transnational alt-right discourse, namely invented common crisis of majority culture and transnational metaphor usage. These findings provide insights into the transnational aspect of the rise of global alt-right.
+C1 [Yang, Tian] Univ Penn, Annenberg Sch Commun, Philadelphia, PA 19104 USA.
+   [Fang, Kecheng] Chinese Univ Hong Kong, Sch Journalism & Commun, Hong Kong, Peoples R China.
+C3 University of Pennsylvania; Chinese University of Hong Kong
+RP Fang, KC (corresponding author), Chinese Univ Hong Kong, New Asia Coll, Shatin, Room 203,Humanities Bldg, Hong Kong, Peoples R China.
+EM kfang@cuhk.edu.hk
+RI Fang, Kecheng/J-5844-2019
+OI Fang, Kecheng/0000-0003-1674-1543
+FU Center for Media at Risk at the Annenberg School for Communication
+FX The authors would like to thank anonymous reviewers and Guobin Yang,
+   Daniel Hopkins, Yilang Peng, Sijia Yang, and Diami Virgilio for
+   providing helpful feedback to the project. The Authors also want to
+   thank Dr. Ruth Ben-Ghiat for her inspiring spring 2019 seminar on
+   "Propaganda and Media in Democracies and Dictatorships", which was
+   sponsored by the Center for Media at Risk at the Annenberg School for
+   Communication.
+CR [Anonymous], 2014, P 2014 ACM C WEB SCI, DOI [10.1145/2615569.2615680, DOI 10.1145/2615569.2615680]
+   Berger J., 2018, VOX POL NETWORK EXCE
+   Blei DM, 2003, J MACH LEARN RES, V3, P993, DOI 10.1162/jmlr.2003.3.4-5.993
+   Blodgett B, 2018, COMMUN CULT CRIT, V11, P133, DOI 10.1093/ccc/tcx003
+   Braun V., 2006, QUAL RES PSYCHOL, V3, P77, DOI [10.1191/1478088706qp063oa, DOI 10.1191/1478088706QP063OA]
+   Caiani M, 2009, INFORM COMMUN SOC, V12, P66, DOI 10.1080/13691180802158482
+   Cheng YH, 2011, CHINA QUART, P561, DOI 10.1017/S0305741011000658
+   Cheng Yinghong., 2019, Discourses of Race and Rising China
+   Coll S., 2018, NEW YORKER
+   Crosset V, 2019, NEW MEDIA SOC, V21, P939, DOI 10.1177/1461444818817306
+   Daniels Jessie, 2018, Contexts, V17, P60, DOI [10.1177/1536504218766547, DOI 10.1177/1536504218766547]
+   Deem A, 2019, INT J COMMUN-US, V13, P3183
+   Fang KC, 2018, NEW MEDIA SOC, V20, P2162, DOI 10.1177/1461444817731923
+   Ferrara E, 2017, INFORM SCIENCES, V418, P1, DOI 10.1016/j.ins.2017.07.030
+   Ganesh B, 2020, CULT STUD, V34, P892, DOI 10.1080/09502386.2020.1714687
+   Han R, 2018, CONTESTING CYBERSPACE IN CHINA, P1, DOI 10.7312/han-18474
+   Hawley G, 2017, MAKING SENSE OF THE ALT-RIGHT, P1
+   Heikkilä N, 2017, EUR J AM STUD, V12, DOI 10.4000/ejas.12140
+   Heitmeyer W., 2003, INT HDB VIOLENCE RES, P399
+   Kaiser Jonas., 2018, UNITE RIGHT YOUTUBES
+   Leibold J, 2010, CHINA QUART, P539, DOI 10.1017/S0305741010000585
+   Lewis B., 2018, Data Society
+   Luqiu LR, 2020, CHIN J COMMUN, V13, P258, DOI 10.1080/17544750.2019.1699841
+   Lyons Matthew N., 2017, Political Research Associates, V20
+   Miao Y, 2020, J CONTEMP CHINA, V29, P748, DOI 10.1080/10670564.2019.1704995
+   Miller-Idriss C., 2018, EXTREME GONE MAINSTR
+   MUDDE C, 1995, EUR J POLIT RES, V27, P203, DOI 10.1111/j.1475-6765.1995.tb00636.x
+   Nagle A., 2017, KILL ALL NORMIES ONL
+   Rauchfleisch A, 2015, INFORM COMMUN SOC, V18, P139, DOI 10.1080/1369118X.2014.940364
+   Reinemann C, 2019, ROUT S ME COMM POL, P1
+   Salazar PJ, 2018, JAVNOST-PUBLIC, V25, P135, DOI 10.1080/13183222.2018.1423947
+   Shao PR, 2017, TELEMAT INFORM, V34, P694, DOI 10.1016/j.tele.2016.05.018
+   Stockmann D, 2020, DEMOCRATIZATION, V27, P243, DOI 10.1080/13510347.2019.1679771
+   Thobani S, 2019, ETHNIC RACIAL STUD, V42, P745, DOI 10.1080/01419870.2018.1468567
+   Wendling Mike., 2018, Alt-Right From 4chan to the White House
+   Woods H. S., 2019, MAKE AM MEME RHETORI
+   Yang G., 2009, POWER INTERNET CHINA, DOI DOI 10.7312/YANG14420
+   Zannettou S, 2018, COMPANION PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE 2018 (WWW 2018), P1007, DOI 10.1145/3184558.3191531
+   Zhang CC, 2020, EUR J INT RELAT, V26, P88, DOI 10.1177/1354066119850253
+   Zuckerberg D., 2018, NOT ALL DEAD WHITE M
+NR 40
+TC 13
+Z9 13
+U1 3
+U2 25
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1369-118X
+EI 1468-4462
+J9 INFORM COMMUN SOC
+JI Info. Commun. Soc.
+PD JAN 25
+PY 2023
+VL 26
+IS 2
+SI SI
+BP 441
+EP 458
+DI 10.1080/1369118X.2021.1954230
+EA JUL 2021
+PG 18
+WC Communication; Sociology
+WE Social Science Citation Index (SSCI)
+SC Communication; Sociology
+GA 8Y1TO
+UT WOS:000675093900001
+DA 2024-11-22
+ER
+
+PT J
+AU Alassad, M
+   Hussain, MN
+   Agarwal, N
+AF Alassad, Mustafa
+   Hussain, Muhammad Nihal
+   Agarwal, Nitin
+TI Developing an agent-based model to minimize spreading of malicious
+   information in dynamic social networks
+SO COMPUTATIONAL AND MATHEMATICAL ORGANIZATION THEORY
+LA English
+DT Article
+DE Systems thinking; Complexity theory; System dynamics; Organizational
+   cybernetics; Stochastic one-median problem; Misinformation mitigation;
+   COVID-19; Information diffusion delay; Agent-based model
+AB This research introduces a systematic and multidisciplinary agent-based model to interpret and simplify the dynamic actions of the users and communities in an evolutionary online (offline) social network. The organizational cybernetics approach is used to control/monitor the malicious information spread between communities. The stochastic one-median problem minimizes the agent response time and eliminates the information spread across the online (offline) environment. The performance of these methods was measured against a Twitter network related to an armed protest demonstration against the COVID-19 lockdown in Michigan state in May 2020. The proposed model demonstrated the dynamicity of the network, enhanced the agent level performance, minimized the malicious information spread, and measured the response to the second stochastic information spread in the network.
+C1 [Alassad, Mustafa; Agarwal, Nitin] UA Little Rock, COSMOS Res Ctr, Little Rock, AR 72204 USA.
+   [Hussain, Muhammad Nihal] Equifax, Atlanta, GA USA.
+RP Alassad, M (corresponding author), UA Little Rock, COSMOS Res Ctr, Little Rock, AR 72204 USA.
+EM mmalassad@ualr.edu
+RI Hussain, Muhammad/AAF-7033-2020
+FU U.S. National Science Foundation [OIA-1946391, OIA-1920920, IIS-1636933,
+   ACI-1429160, IIS-1110868]; U.S. Office of the Under Secretary of Defense
+   for Research and Engineering [FA9550-22-1-0332]; U.S. Office of Naval
+   Research [N00014-10-1-0091, N00014-14-1-0489, N00014-15-P-1187,
+   N00014-16-1-2016, N00014-16-1-2412, N00014-17-1-2675, N00014-17-1-2605,
+   N68335-19-C-0359, N00014-19-1-2336, N68335-20-C-0540, N00014-21-1-2121,
+   N00014-21-1-2765, N00014-22-1-2318]; U.S. Air Force Research Laboratory,
+   U.S. Army Research Office [W911NF-20-1-0262, W911NF-16-1-0189,
+   W911NF-23-1-0011]; U.S. Defense Advanced Research Projects Agency
+   [W31P4Q-17-C-0059]; Arkansas Research Alliance; Jerry L. Maulden/Entergy
+   Endowment at the University of Arkansas at Little Rock; Australian
+   Department of Defense Strategic Policy Grants Program (SPGP)
+   [2020-106-094]
+FX This research is funded in part by the U.S. National Science Foundation
+   (OIA-1946391, OIA-1920920, IIS-1636933, ACI-1429160, and IIS-1110868),
+   U.S. Office of the Under Secretary of Defense for Research and
+   Engineering (FA9550-22-1-0332), U.S. Office of Naval Research
+   (N00014-10-1-0091, N00014-14-1-0489, N00014-15-P-1187, N00014-16-1-2016,
+   N00014-16-1-2412, N00014-17-1-2675, N00014-17-1-2605, N68335-19-C-0359,
+   N00014-19-1-2336, N68335-20-C-0540, N00014-21-1-2121, N00014-21-1-2765,
+   N00014-22-1-2318), U.S. Air Force Research Laboratory, U.S. Army
+   Research Office (W911NF-20-1-0262, W911NF-16-1-0189, W911NF-23-1-0011),
+   U.S. Defense Advanced Research Projects Agency (W31P4Q-17-C-0059),
+   Arkansas Research Alliance, the Jerry L. Maulden/Entergy Endowment at
+   the University of Arkansas at Little Rock, and the Australian Department
+   of Defense Strategic Policy Grants Program (SPGP) (award number:
+   2020-106-094). Any opinions, findings, and conclusions or
+   recommendations expressed in this material are those of the authors and
+   do not necessarily reflect the views of the funding organizations. The
+   researchers gratefully acknowledge the support.
+CR Ahituv N., 1988, COMPUT OPER RES
+   Alassad M, 2020, IEEE INT CONF BIG DA, P4293, DOI 10.1109/BigData50022.2020.9378400
+   [Anonymous], 2005, LOCATION TRANSPORT L, P21
+   Bojjireddy S, 2021, PROCEEDINGS OF THE 22ND ANNUAL INTERNATIONAL CONFERENCE ON DIGITAL GOVERNMENT RESEARCH, DGO 2021, P575, DOI 10.1145/3463677.3463762
+   Budak C., 2011, P 20 INT C WORLD WID, P665, DOI DOI 10.1145/1963405.1963499
+   Chan Y., 2014, INT J SOC SYST SCI, V6, P348, DOI [10.1504/IJSSS.2014.066644, DOI 10.1504/IJSSS.2014.066644]
+   Chan Y., 2005, LOCATION TRANSPORT L, P120
+   Del Vicario M, 2016, P NATL ACAD SCI USA, V113, P554, DOI 10.1073/pnas.1517441113
+   Du B, 2018, BOUND VALUE PROBL, DOI 10.1186/s13661-018-0964-4
+   Even S., 1976, SIAM Journal on Computing, V5, P691, DOI 10.1137/0205048
+   Girvan M, 2002, P NATL ACAD SCI USA, V99, P7821, DOI 10.1073/pnas.122653799
+   HAKIMI SL, 1964, OPER RES, V12, P450, DOI 10.1287/opre.12.3.450
+   Hegselmann R, 2002, JASSS-J ARTIF SOC S, V5
+   Jones E., 2007, J. Ecol. Anthropol., V11, P76, DOI [10.5038/2162-4593.11.1.8, DOI 10.5038/2162-4593.11.1.8]
+   Lorenz J, 2021, PSYCHOL REV, V128, P623, DOI 10.1037/rev0000291
+   Love R.F., 1988, Facilities Location: Models and Methods
+   Mann C. J. H., 2004, SYST RES BEHAV SCI, V33
+   Muchnik L, 2013, SCI REP-UK, V3, DOI 10.1038/srep01783
+   Patterson T. S., 1995, DYNAMIC MAINTENANCE
+   Peng SC, 2017, INFORM SCIENCES, V379, P146, DOI 10.1016/j.ins.2016.08.023
+   Rajabi A, 2021, APPL SCI-BASEL, V11, DOI 10.3390/app11125367
+   Retzlaff CO, 2021, IN SY AP IN WE HC, V12777, P304, DOI 10.1007/978-3-030-77817-0_22
+   Robinhood, ROBINHOOD REDDIT CEO
+   Sen F, 2016, SOC NETW ANAL MIN, V6, DOI 10.1007/s13278-016-0319-z
+   Shahi Gautam Kishore, 2021, Online Soc Netw Media, V22, P100104, DOI 10.1016/j.osnem.2020.100104
+   Steinbacher M., 2021, SN BUS EC, V17, P1
+   VanderWeele T. J., 2013, Handbook of Causal Analysis for Social Research, P353
+   Wang XW, 2021, INFORM PROCESS MANAG, V58, DOI 10.1016/j.ipm.2021.102731
+   Wasson CharlesS., 2005, SYSTEM ANAL DESIGN D
+   Weng LL, 2013, 19TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING (KDD'13), P356
+NR 30
+TC 0
+Z9 0
+U1 5
+U2 17
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1381-298X
+EI 1572-9346
+J9 COMPUT MATH ORGAN TH
+JI Comput. Math. Organ. Theory
+PD SEP
+PY 2023
+VL 29
+IS 3
+SI SI
+BP 487
+EP 502
+DI 10.1007/s10588-023-09375-6
+EA APR 2023
+PG 16
+WC Computer Science, Interdisciplinary Applications; Mathematics,
+   Interdisciplinary Applications; Social Sciences, Mathematical Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science; Mathematics; Mathematical Methods In Social Sciences
+GA T7JK8
+UT WOS:000968132600001
+PM 37360911
+OA Bronze, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Wang, WG
+   Miao, CN
+   Yu, HH
+   Li, C
+AF Wang, Wengang
+   Miao, Chuning
+   Yu, Haihang
+   Li, Can
+TI Research on the characteristics and influencing factors of the
+   Beijing-Tianjin-Hebei urban network structure from the perspective of
+   listed manufacturing enterprises
+SO PLOS ONE
+LA English
+DT Article
+AB The production connection is a crucial component of the Inter City Association. An urban network based on the enterprise perspective better reflects the structural characteristics of regional cities. Based on data gathered from the headquarters and branches of the listed manufacturing enterprises in 2020, this paper analyzes the county-level administrative units in the Beijing-Tianjin-Hebei region of China. Using the subordinate connection model and the social network analysis method, this paper examines the spatial structural characteristics and factors of urban networks in the Beijing-Tianjin-Hebei region. The results suggest that resource allocation in the Beijing-Tianjin-Hebei region is unbalanced, with a significant difference in urban radiation and agglomeration capacity. As the administrative centers, Beijing, Tianjin, and Shijiazhuang show a strong ability to allocate resources within the network. The overall network density in the region was shown to be relatively low, with the main links being of low or medium level. The urban network is defined by the network connection led by Beijing and Tianjin with Beijing-Tianjin-Tangshan and Beijing-Baoding-Shijiazhuang as the main axis. These cities exhibit a "dense southeast and sparse northwest" pattern. From a hierarchical perspective, high-level network connections are based mainly on spatial proximity. Analyzing the agglomerative subgroups, the study found that the inner and outer connections of the core subgroups were relatively high. Semi-marginal subgroups generally accepted the radiation of core subgroups, while marginal subgroups had little connection with other subgroups in the region. The results of the QAP analysis show that the administrative relationship, spatial distance, city size difference, economic development level difference, industrial structure difference, and labor cost difference have a significant influence on the urban network of the Beijing-Tianjin-Hebei region.
+C1 [Wang, Wengang; Miao, Chuning; Yu, Haihang; Li, Can] Hebei Normal Univ, Sch Geog Sci, Shijiazhuang, Hebei, Peoples R China.
+   [Wang, Wengang; Li, Can] Hebei Normal Univ, Hebei Key Lab Environm Change & Ecol Construct, Shijiazhuang, Hebei, Peoples R China.
+   [Wang, Wengang] Hebei Normal Univ, Hebei Technol Innovat Ctr Remote Sensing Identific, Shijiazhuang, Hebei, Peoples R China.
+C3 Hebei Normal University; Hebei Normal University; Hebei Normal
+   University
+RP Miao, CN (corresponding author), Hebei Normal Univ, Sch Geog Sci, Shijiazhuang, Hebei, Peoples R China.
+EM 18731065581@163.com
+FU Science and Technology Research Fund of Hebei Normal University:
+   Structural Evolution and Regional Collaborative Development of
+   Beijing-Tianjin-Hebei Urban Economic Network [L2020Z07]
+FX We sincerely thank colleagues from the Faculty of Geographical Sciences
+   for their valuable input during the research and writing process.
+CR Alderson AS, 2004, AM J SOCIOL, V109, P811, DOI 10.1086/378930
+   Castells M, 1996, RISE NETWORK SOC M
+   Chang L., 2021, WORLD REGIONAL STUDI, V30, P410, DOI [10.3969/j.issn.1004-9479.2021.02.2019444, DOI 10.3969/J.ISSN.1004-9479.2021.02.2019444, DOI 10.3969/J.ISSN.1004-9479.2021.01.2019314]
+   Delin Zhuang., 2016, ECOL INFORM, P12
+   Ducruet C, 2014, NETW SPAT ECON, V14, P297, DOI 10.1007/s11067-013-9222-6
+   Feng Zhen., 2012, J GEOGR, V67, P1031
+   Fenghua Pan., 2019, GEOSCIENCE, V39, P1093
+   FRIEDMANN J, 1986, DEV CHANGE, V17, P69, DOI 10.1111/j.1467-7660.1986.tb00231.x
+   Haitao Ma., 2012, GEOSCIENCE, V32, P308
+   Holl A, 2018, NETW SPAT ECON, V18, P337, DOI 10.1007/s11067-017-9347-0
+   [胡国建 Hu Guojian], 2020, [地理科学进展, Progress in Geography], V39, P1587
+   Jun Liu, 2019, HOLISTIC NETWORK ANA
+   Kerong Sheng., 2019, GEOGRAPHIC RES, V38, P2639
+   Kerong Sheng., 2019, PROGR GEOGRAPHICAL S, V38, P248
+   Letiche J., 1982, INT EC POLICIES THEI, P325, DOI DOI 10.1016/B978-0-12-444280-1.50021-5
+   Li Feng., 2016, TECHNOL FORECAST SOC, V38, P75
+   Lu CP, 2022, AGR WATER MANAGE, V266, DOI 10.1016/j.agwat.2022.107605
+   Miaoxi Zhao., 2019, INT J ENV RES PUB HE, P65
+   Qian Yu., 2021, RES EVOLUTION INTERN
+   Rozenblat C, 2017, GLOBAL NETW, V17, P171, DOI 10.1111/glob.12130
+   Sassen S., 2001, GLOBAL CITY NEW YORK, DOI 10.1515/9781400847488
+   [孙娜 Sun Na], 2020, [地理科学进展, Progress in Geography], V39, P727
+   Sun XQ, 2017, NETW SPAT ECON, V17, P737, DOI 10.1007/s11067-017-9342-5
+   Taylor PeterJ., 2004, WORLD CITY NETWORK, DOI DOI 10.4324/9780203634059
+   Tranos E, 2011, J URBAN TECHNOL, V18, P35, DOI 10.1080/10630732.2011.578408
+   Wall RS, 2011, ECON GEOGR, V87, P267, DOI 10.1111/j.1944-8287.2011.01122.x
+   Wei Chen., 2017, J GEOGR, V72, P224
+   Xiaofei Chen., 2019, GEOSCIENCE, V39, P467
+   Xiaorong Jiang., 2017, URBAN PLAN, V41, P18
+   [徐维祥 Xu Weixiang], 2019, [地理研究, Geographical Research], V38, P1236
+   [薛峰 Xue Feng], 2020, [经济地理, Economic Geography], V40, P49
+   Yao Wang., 2018, HUMAN GEOGRAPHY, V33, P84
+   Ye Wei., 2020, PROGR GEOGRAPHICAL S, V39, P488
+   Yin J., 2011, Economic Geography, V31, P754, DOI [https://doi.org/10.15957/j.cnki.jjdl.2011.05.009, DOI 10.15957/J.CNKI.JJDL.2011.05.009]
+   Yongshun Xie., 2020, STUDY EVOLUTION NETW, V39, P1619
+   Yu HS, 2022, SUSTAIN CITIES SOC, V80, DOI 10.1016/j.scs.2022.103800
+   [赵金丽 Zhao Jinli], 2019, [地理学报, Acta Geographica Sinica], V74, P723
+   Zhijing Sun., 2020, RES URBAN NETWORK ST
+   [钟业喜 Zhong Yexi], 2018, [长江流域资源与环境, Resources and Environment in the Yangtze Basin], V27, P1725
+   Zilai Tang., 2014, SHANGHAI URBAN PLANN, P37
+NR 40
+TC 4
+Z9 4
+U1 2
+U2 16
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JAN 20
+PY 2023
+VL 18
+IS 1
+AR e0279588
+DI 10.1371/journal.pone.0279588
+PG 24
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 0A4DL
+UT WOS:000951774500001
+PM 36662782
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Rojer, G Jr
+   Watkins-Fassler, K
+   Díaz, RD
+   Rai, A
+AF Rojer, Guido, Jr.
+   Watkins-Fassler, Karen
+   de Juan Diaz, Rebeca
+   Rai, Anoop
+TI The Impact of CEO Characteristics on the International Entrepreneurship
+   of Small Island-Based Firms
+SO ISLAND STUDIES JOURNAL
+LA English
+DT Article
+DE Chief Executive Officers (CEOs); International Entrepreneurship (IE);
+   islandbased firms; small islands; social network theory; upper echelons
+   theory
+ID FAMILY FIRMS; MODERATING ROLE; UPPER ECHELONS; RISK-TAKING; PERFORMANCE;
+   SMES; DIVERSIFICATION; FLEXIBILITY; EXPERIENCE; DRIVERS
+AB This paper examines the impact of CEO characteristics on the International Entrepreneurship (IE) of listed island-based firms (IBFs) during the period 2009-2018. The research considers 164 companies from a sample of eight small islands with securities exchanges including more than one firm headquartered on the island. The selected islands are: Barbados, Cyprus, Fiji, Iceland, Jamaica, Malta, Mauritius, and Trinidad & Tobago. Framed on the upper echelons theory and social network theory, the influence on IE of CEO's tenure, academic background and achievement, family allegiance, and international exposure is studied, taking into account the small island particularities. Through a binary probit model, it is concluded that CEOs' family allegiance, tenure, and academic background (if the CEO majored in Business Administration, Finance, Accounting, or Economics) are negatively related with IE, while CEOs' academic achievement and international exposure are positively associated with IE. Some of these results are atypical in the existing literature; nevertheless, islandness can explain these results. The conclusions attained suggest new theoretical and empirical lines of IE research for IBFs.
+C1 [Rojer, Guido, Jr.] Univ Curacao, Willemstad, Curacao.
+   [Rojer, Guido, Jr.; de Juan Diaz, Rebeca] Univ Nacl Educ Distancia, Madrid, Spain.
+   [Watkins-Fassler, Karen] Univ Int La Rioja, Logrono, Spain.
+   [Watkins-Fassler, Karen] Tecnol Nacl Mexico, Mexico City, DF, Mexico.
+   [Rai, Anoop] Hofstra Univ, Hempstead, NY 11550 USA.
+C3 Universidad Nacional de Educacion a Distancia (UNED); Universidad
+   Internacional de La Rioja (UNIR); Hofstra University
+RP Watkins-Fassler, K (corresponding author), Univ Int La Rioja, Logrono, Spain.; Watkins-Fassler, K (corresponding author), Tecnol Nacl Mexico, Mexico City, DF, Mexico.
+EM grojer1@alumno.uned.es; karen.watkins@unir.net; rdejuan@cee.uned.es;
+   anoop.rai@hofstra.edu
+OI Rojer, Guido/0000-0002-2805-9499
+CR Abatecola G, 2020, J MANAG HIST, V26, P116, DOI 10.1108/JMH-02-2018-0016
+   Ackerman JD, 2020, INT J PLANT SCI, V181, P667, DOI 10.1086/709399
+   Acs Z. J., 2014, SSRN Electronic Journal, DOI [10.2139/ssrn.2534412, DOI 10.2139/SSRN.2534412]
+   Alayo M, 2019, INT BUS REV, V28, P48, DOI 10.1016/j.ibusrev.2018.06.003
+   Alexander R, 2015, SHIMA, V9, P38
+   Allahar H, 2017, IND HIGHER EDUC, V31, P305, DOI 10.1177/0950422217718764
+   Andersen O., 1994, Scandinavian Journal of Management, V10, P17, DOI 10.1016/
+   [Anonymous], 2020, SMALL ISLAND DEVELOP
+   Anwar M, 2018, REV INT BUS STRATEGY, V28, P258, DOI 10.1108/RIBS-12-2017-0113
+   Aparicio G, 2017, J FAM BUS STRATEG, V8, P157, DOI 10.1016/j.jfbs.2017.08.002
+   Bai XO, 2020, J BUS VENTURING, V35, DOI 10.1016/j.jbusvent.2018.10.004
+   Baldacchino G., 2019, Small States & Territories, V2, P41, DOI [10.1017/cbo9781107415324.004, DOI 10.1017/CBO9781107415324.004]
+   Baldacchino G, 2007, GEOGR REV, V97, P165, DOI 10.1111/j.1931-0846.2007.tb00396.x
+   Baldacchino Godfrey., 2009, The Round Table, V98, P141, DOI DOI 10.1080/00358530902757867
+   Baldacchino Godfrey., 2006, ISL STUD J, V1, P3, DOI DOI 10.24043/ISJ.185
+   Bianchi Constanza, 2016, Journal of Business Research, V69, P4368, DOI 10.1016/j.jbusres.2016.02.041
+   Binacci M, 2016, CORP GOV-OXFORD, V24, P569, DOI 10.1111/corg.12130
+   Booth P, 2020, INT J HOSP MANAG, V85, DOI 10.1016/j.ijhm.2019.102438
+   BRIGUGLIO L, 1995, WORLD DEV, V23, P1615, DOI 10.1016/0305-750X(95)00065-K
+   Briguglio L., 2006, Toward an outward-oriented development strategy for small states: Issues, opportunities, and resilience building
+   Broome T, 2018, ENTREP REGION DEV, V30, P964, DOI 10.1080/08985626.2018.1515820
+   Cárdenas J, 2015, GLOBAL NETW, V15, P424, DOI 10.1111/glob.12070
+   Carpenter MA, 2004, J MANAGE, V30, P749, DOI 10.1016/j.jm.2004.06.001
+   Casillas JC, 2015, INT BUS REV, V24, P102, DOI 10.1016/j.ibusrev.2014.06.005
+   Chen WH, 2020, CHIN MANAG STUD, V14, P587, DOI 10.1108/CMS-06-2019-0239
+   Clark DR, 2018, J INT BUS STUD, V49, P442, DOI 10.1057/s41267-017-0099-3
+   Conte F., 2018, International Journal of Business and Management, V13, P54, DOI [10.5539/ijbm.v13n3p54, DOI 10.5539/IJBM.V13N3P54]
+   Coviello NE, 2011, J BUS VENTURING, V26, P625, DOI 10.1016/j.jbusvent.2011.07.002
+   Cumming D, 2018, J TEACH INT BUS, V29, P181, DOI 10.1080/08975930.2018.1514817
+   D'Angelo A, 2019, INT BUS REV, V28, P613, DOI 10.1016/j.ibusrev.2018.12.006
+   Debicki BJ, 2020, CROSS CULT STRATEG M, V27, P1, DOI 10.1108/CCSM-04-2019-0075
+   Dimitratos P, 2016, INT BUS REV, V25, P1211, DOI 10.1016/j.ibusrev.2016.03.006
+   Duran P, 2016, ACAD MANAGE J, V59, P1224, DOI 10.5465/amj.2014.0424
+   Amorós JE, 2016, J BUS RES, V69, P2052, DOI 10.1016/j.jbusres.2015.10.150
+   Fernández-Pérez V, 2014, IND MANAGE DATA SYST, V114, P858, DOI 10.1108/IMDS-11-2013-0483
+   Fletcher D, 2004, ENTREP REGION DEV, V16, P289, DOI 10.1080/0898562042000263267
+   Fliaster A., 2008, Schmalenbach Business Review, V60, P99
+   Gentile-Lüdecke S, 2019, THUNDERBIRD INT BUS, V61, P13, DOI 10.1002/tie.21958
+   Gillis JR, 2014, ISL STUD J, V9, P155
+   Goll I, 2007, MANAGE DECIS, V45, P161, DOI 10.1108/00251740710727223
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Hall CM, 2012, TOUR RECREAT RES, V37, P177, DOI 10.1080/02508281.2012.11081703
+   HAMBRICK DC, 1984, ACAD MANAGE REV, V9, P193, DOI 10.2307/258434
+   Hein P, 2004, Small Island Developing States: Origin of the category and definition issues. Is a special treatment of Small Island Developing States possible?
+   HITT MA, 1991, STRATEGIC MANAGE J, V12, P327, DOI 10.1002/smj.4250120502
+   Hou WR, 2013, J INT MANAG, V19, P138, DOI 10.1016/j.intman.2013.02.001
+   Hsu WT, 2013, J WORLD BUS, V48, P1, DOI 10.1016/j.jwb.2012.06.001
+   Huybrechts J, 2013, FAM BUS REV, V26, P161, DOI 10.1177/0894486512469252
+   Jafari-Sadeghi V, 2019, EUR BUS REV, V32, P46, DOI 10.1108/EBR-05-2018-0098
+   Kaur R, 2019, J STRATEGY MANAG, V12, P409, DOI 10.1108/JSMA-02-2019-0027
+   Kiss AN, 2012, J BUS VENTURING, V27, P266, DOI 10.1016/j.jbusvent.2011.09.004
+   Kokeno SO., 2016, International Journal of Economics, Commerce and Management, V4, P307
+   Kurecic P, 2017, WORLD REV POLIT ECON, V8, P416, DOI 10.13169/worlrevipoliecon.8.3.0416
+   Lawton TC, 2006, THUNDERBIRD INT BUS, V48, P405, DOI 10.1002/tie.20102
+   Lee WS, 2016, TOUR MANAG PERSPECT, V18, P111, DOI 10.1016/j.tmp.2016.01.009
+   Liu D, 2018, ACAD MANAG ANN, V12, P789, DOI 10.5465/annals.2016.0031
+   Liu W., 2017, INT ENCY MEDIA EFFEC, DOI DOI 10.1002/9781118783764.WBIEME0092
+   Lomolino M.V., 2016, FRONTIERS BIOGEOGRAP, V8, DOI [10.21425/F5FBG29920, DOI 10.21425/F58229920]
+   Lu J.e., 2002, ASAC, P86, DOI [10.1002/smj.184, DOI 10.1002/SMJ.184]
+   MacFeely S., 2021, Constructing a criteriabased classification for Small Island Developing States: An Investigation
+   Martin G, 2015, STRATEGIC MANAGE J, V36, P235, DOI 10.1002/smj.2216
+   McDougall PP, 2000, ACAD MANAGE J, V43, P902, DOI 10.5465/1556418
+   Ramírez AM, 2012, IND MANAGE DATA SYST, V112, P166, DOI 10.1108/02635571211204245
+   Minto-Coy ID, 2018, ENTREP REGION DEV, V30, P921, DOI 10.1080/08985626.2018.1515823
+   Mohan P, 2016, WORLD ECON, V39, P1434, DOI 10.1111/twec.12387
+   Neely BH, 2020, J MANAGE, V46, P1029, DOI 10.1177/0149206320908640
+   Nielsen BB, 2011, J WORLD BUS, V46, P185, DOI 10.1016/j.jwb.2010.05.003
+   Nielsen S, 2010, MANAGE INT REV, V50, P185, DOI 10.1007/s11575-010-0029-0
+   Nishii L.H., 2007, CAHRS WORKING PAPER
+   Oviatt BM, 2005, ENTREP THEORY PRACT, V29, P537, DOI 10.1111/j.1540-6520.2005.00097.x
+   Pacheco L, 2016, RES INT BUS FINANC, V38, P531, DOI 10.1016/j.ribaf.2016.07.014
+   Patiño J, 2017, J BIOGEOGR, V44, P963, DOI 10.1111/jbi.12986
+   Pinheiro R, 2015, J CORP FINANC, V33, P345, DOI 10.1016/j.jcorpfin.2015.01.010
+   Pinho JC, 2010, J INT ENTREP, V8, P254, DOI 10.1007/s10843-010-0046-x
+   Ruzzier M, 2015, J BUS ECON MANAG, V16, P52, DOI 10.3846/16111699.2012.745812
+   Sambharya RB, 1996, STRATEGIC MANAGE J, V17, P739, DOI 10.1002/(SICI)1097-0266(199611)17:9<739::AID-SMJ846>3.0.CO;2-K
+   Sánchez-Marín G, 2020, REV MANAG SCI, V14, P311, DOI 10.1007/s11846-019-00350-7
+   Sannegadu R, 2021, ISL STUD J, V16, P298, DOI 10.24043/isj.154
+   Schumpeter, 1982, THEORY EC DEV INQUIR
+   Seibert SE, 2001, ACAD MANAGE J, V44, P219, DOI 10.5465/3069452
+   Teixeira A. A. C., 2020, Entrepreneurship and family business vitality: Surviving and flourishing in the long term, P297, DOI [10.1007/978-3-030-15526, DOI 10.1007/978-3-030-15526]
+   Thompson P, 2019, ISL STUD J, V14, P81, DOI 10.24043/isj.106
+   Wang YK, 2015, J WORLD BUS, V50, P742, DOI 10.1016/j.jwb.2015.02.002
+   Watkins K., 2019, Contaduria y Administracion, V64, P1
+   Watkins-Fassler K, 2019, ESTUD GERENC, V35, P361, DOI 10.18046/j.estger.2019.153.3166
+   Wennberg Karl, 2008, European Management Journal, V26, P441, DOI 10.1016/j.emj.2008.09.007
+   Williams C, 2020, J SUSTAIN TOUR, V28, P937, DOI 10.1080/09669582.2020.1712409
+   Wrede M, 2020, MANAG DECIS ECON, V41, P542, DOI 10.1002/mde.3119
+   Wu J, 2020, J WORLD BUS, V55, DOI 10.1016/j.jwb.2019.101045
+   Zucchella A, 2007, J WORLD BUS, V42, P268, DOI 10.1016/j.jwb.2007.04.008
+NR 90
+TC 0
+Z9 0
+U1 4
+U2 12
+PU Island Studies Journal
+PI Copenhagen
+PA c/o Adam Grydehj, Lillegrund 39, Copenhagen, DENMARK
+EI 1715-2593
+J9 ISL STUD J
+JI Isl. Stud. J.
+PY 2023
+VL 18
+IS 2
+DI 10.24043/isj.406
+PG 24
+WC Geography; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Geography; Social Sciences - Other Topics
+GA ID7Z9
+UT WOS:001164467000004
+OA gold, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Chen, HS
+   Chen, S
+   Wang, D
+   Shen, MH
+AF Chen, Haisheng
+   Chen, Shuang
+   Wang, Di
+   Shen, Manhong
+TI Business credit network characteristics and impact on green economy
+   efficiency: Evidence from the Greater Bay Area around Hangzhou Bay of
+   China
+SO PLOS ONE
+LA English
+DT Article
+AB In regions where the development of formal finance is relatively lagging behind, commercial credit has partially replaced the role of formal finance and facilitated the development of the private economy and even the country, thus making commercial credit an important entry point for understanding and promoting sustainable economic development. Taking the Hangzhou Bay Greater Bay Area as a case study, based on the City Business Credit Environment Index (CEI) from 2015 to 2019, we examine the characteristics of business credit networks using social network analysis and discuss the impact of business credit on urban green economy efficiency heterogeneity by drawing on spatial econometrics. The study confirms that the structure of business credit networks in the Hangzhou Bay Greater Bay Area tends to be dense, the network density and number of connections show growth, the spatial network structure is taking shape, and the strength of spatial connections among cities has increased. Hangzhou, Shaoxing, Jiaxing and Shanghai are at the centre of the network and play a radiation-driven role. The business credit network in the Hangzhou Bay Greater Bay Area is characterised by self-stability and has evolved from a multi-centre to a single centre. Business credit is negatively correlated with the efficiency of the green economy in the Hangzhou Bay Area, which is a departure from the Chinese "financial development paradox". In terms of heterogeneity, the relationship remains consistent for port cities and open coastal cities in general, while the effect is less pronounced for cities above sub-provincial level. The study concludes that, with the high-quality economic development of the Hangzhou Bay Greater Bay Area, the Chinese "financial development paradox" does not exist in the region at this stage, which also highlights the need to accelerate the construction of a Chinese-style modernisation theory and practice system.
+C1 [Chen, Haisheng; Wang, Di; Shen, Manhong] Zhejiang A&F Univ, Coll Econ & Management, Hangzhou, Peoples R China.
+   [Chen, Haisheng] Zhejiang Prov Credit Ctr, Hangzhou, Peoples R China.
+   [Chen, Shuang] Hubei Normal Univ, Coll Foreign Studies, Huangshi, Peoples R China.
+   [Shen, Manhong] Zhejiang A&F Univ, Inst Ecol Civilizat, Hangzhou, Peoples R China.
+   [Shen, Manhong] Zhejiang A&F Univ, Res Acad Rural Revitalizat Zhejiang Prov, Hangzhou, Peoples R China.
+C3 Zhejiang A&F University; Hubei Normal University; Zhejiang A&F
+   University; Zhejiang A&F University
+RP Shen, MH (corresponding author), Zhejiang A&F Univ, Coll Econ & Management, Hangzhou, Peoples R China.; Shen, MH (corresponding author), Zhejiang A&F Univ, Inst Ecol Civilizat, Hangzhou, Peoples R China.; Shen, MH (corresponding author), Zhejiang A&F Univ, Res Acad Rural Revitalizat Zhejiang Prov, Hangzhou, Peoples R China.
+EM shenmh@zafu.edu.cn
+FU Major Special Project for Philosophical and Social Science Research of
+   the Ministry of Education of China [2022JZDZ009]
+FX This research was funded by the Major Special Project for Philosophical
+   and Social Science Research of the Ministry of Education of China (no.
+   2022JZDZ009).
+CR Alessandrini Pietro., 2009, WORLD ECONOMICS, V10, P45
+   Allen F, 2005, J FINANC ECON, V77, P57, DOI 10.1016/j.jfineco.2004.06.010
+   Czarnitzki D, 2011, J ECON MANAGE STRAT, V20, P121, DOI 10.1111/j.1530-9134.2010.00285.x
+   Elena Calvo-Gallardo, 2022, SUSTAINABILITY-BASEL, V14, P2065
+   Hangfei Li., 2018, GEOSCIENCE, V38, P67
+   [郝帅 Hao Shuai], 2022, [地理研究, Geographical Research], V41, P2030
+   Hao Xu., 2018, FINANCIAL EC RES, V44, P47
+   单豪杰, 2008, [数量经济技术经济研究, Quantitative & Technical Economics], V25, P17
+   Houxue Xia., 2019, EC RES, V54, P84
+   Jianzhong Xiao., 2012, J AM COLL NUTR, V22, P143
+   Lei Zhao., 2021, WORLD GEOGRAPHIC RES, V30, P708
+   Li JL, 2017, ENERG POLICY, V101, P366, DOI 10.1016/j.enpol.2016.10.036
+   Li XT, 2019, SUSTAINABILITY-BASEL, V11, DOI 10.3390/su11051444
+   Liu XQ, 2022, INT J ENV RES PUB HE, V19, DOI 10.3390/ijerph19042347
+   NANDA R., 2014, MANAGE SCI, P11
+   Oh DH, 2010, J PROD ANAL, V34, P183, DOI 10.1007/s11123-010-0178-y
+   PAN Jiadong., 2019, ZHEJIANG J, P73
+   Serrano MA, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.015101
+   Taskin F, 2001, ECON MODEL, V18, P1, DOI 10.1016/S0264-9993(00)00025-0
+   Wang F, 2018, ENERGIES, V11, DOI 10.3390/en11102706
+   Wei Kang., 2012, J PUBLIC MANAGEMENT, V9, P101
+   Wu YY, 2017, ICCAD-IEEE ACM INT, P65, DOI 10.1109/ICCAD.2017.8203761
+   Yanwen Shi., 2015, ECON GEOGR, V35, P114
+   Zhang DN, 2021, SUSTAINABILITY-BASEL, V13, DOI 10.3390/su13115902
+   Zhengwei Zhu., 2013, CHINA ADM, P106
+   Zhi Yanling, AGR WATER USE EFFICI
+NR 26
+TC 0
+Z9 0
+U1 11
+U2 24
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD APR 20
+PY 2023
+VL 18
+IS 4
+AR e0284019
+DI 10.1371/journal.pone.0284019
+PG 16
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA F9EP3
+UT WOS:000985308900046
+PM 37079582
+OA gold, Green Published
+DA 2024-11-22
+ER

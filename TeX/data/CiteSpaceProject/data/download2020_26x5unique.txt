@@ -1,0 +1,503 @@
+
+PT J
+AU Stivala, A
+   Robins, G
+   Lomi, A
+AF Stivala, Alex
+   Robins, Garry
+   Lomi, Alessandro
+TI Exponential random graph model parameter estimation for very large
+   directed networks
+SO PLOS ONE
+LA English
+DT Article
+ID MAXIMUM-LIKELIHOOD; SNOWBALL; INFERENCE; LAW
+AB Exponential random graph models (ERGMs) are widely used for modeling social networks observed at one point in time. However the computational difficulty of ERGM parameter estimation has limited the practical application of this class of models to relatively small networks, up to a few thousand nodes at most, with usually only a few hundred nodes or fewer. In the case of undirected networks, snowball sampling can be used to find ERGM parameter estimates of larger networks via network samples, and recently published improvements in ERGM network distribution sampling and ERGM estimation algorithms have allowed ERGM parameter estimates of undirected networks with over one hundred thousand nodes to be made. However the implementations of these algorithms to date have been limited in their scalability, and also restricted to undirected networks. Here we describe an implementation of the recently published Equilibrium Expectation (EE) algorithm for ERGM parameter estimation of large directed networks. We test it on some simulated networks, and demonstrate its application to an online social network with over 1.6 million nodes.
+C1 [Stivala, Alex; Lomi, Alessandro] Univ Svizzera italiana, Inst Computat Sci, Lugano, Ticino, Switzerland.
+   [Stivala, Alex] Swinburne Univ Technol, Ctr Transformat Innovat, Melbourne, Vic, Australia.
+   [Robins, Garry] Univ Melbourne, Melbourne Sch Psychol Sci, Melbourne, Vic, Australia.
+   [Lomi, Alessandro] Univ Exeter, Univ Exeter Business Sch, Exeter, Devon, England.
+C3 Universita della Svizzera Italiana; Swinburne University of Technology;
+   University of Melbourne; University of Exeter
+RP Stivala, A (corresponding author), Univ Svizzera italiana, Inst Computat Sci, Lugano, Ticino, Switzerland.; Stivala, A (corresponding author), Swinburne Univ Technol, Ctr Transformat Innovat, Melbourne, Vic, Australia.
+EM alexander.stivala@usi.ch
+RI Lomi, Alessandro/AFR-0469-2022; Stivala, Alex/F-7770-2015
+OI lomi, alessandro/0000-0002-2858-0022; Stivala, Alex/0000-0002-2442-4743
+FU Swiss National Science Foundation [167326]
+FX A.L. and G.R. were awarded a grant, from which the salary of A.S. is
+   paid, from the Swiss National Science Foundation
+   (http://www.snf.ch/en/Pages/default.aspx) National Research Programme 75
+   "Big Data" (NRP 75, http://www.nfp75.ch/en/Pages/Home.aspx) under
+   project number 167326 "The Global Structure of Knowledge Networks: Data,
+   Models and Empirical Results." The funders had no role in study design,
+   data collection and analysis, decision to publish, or preparation of the
+   manuscript.
+CR Amati V, 2018, ANNU REV STAT APPL, V5, P343, DOI 10.1146/annurev-statistics-031017-100746
+   An CK, 2018, STAT MED, V37, P847, DOI 10.1002/sim.7565
+   [Anonymous], 1998, MAXIMUM LIKELIHOOD E
+   [Anonymous], 2013, Structural Analysis in the Social Sciences
+   [Anonymous], 2002, J. Social Struct
+   Asuncion A., 2010, P 13 INT C ART INT S, V9, P33
+   Babkin S, 2017, PREPRINT
+   Barndorff-Nielsen O., 2014, Information and Exponential Families in Statistical Theory
+   Benaglia T, 2009, J STAT SOFTW, V32, P1
+   BLOOM BH, 1970, COMMUN ACM, V13, P422, DOI 10.1145/362686.362692
+   Borisenko A, 2019, PREPRINT
+   Broido AD, 2019, NAT COMMUN, V10, DOI 10.1038/s41467-019-08746-5
+   Byshkin M, 2018, SCI REP-UK, V8, DOI 10.1038/s41598-018-29725-8
+   Byshkin M, 2016, J STAT PHYS, V165, P740, DOI 10.1007/s10955-016-1650-5
+   Caimo A, 2011, SOC NETWORKS, V33, P41, DOI 10.1016/j.socnet.2010.09.004
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   COLEMAN JS, 1958, HUM ORGAN, V17, P28, DOI 10.17730/humo.17.4.q5604m676260q8n7
+   Corander J., 2002, CONTRIBUTIONS SOCIAL, P1
+   Csardi Gabor NT., 2005, INT J COMPLEX SYST, V2006, P1695, DOI DOI 10.3724/SP.J.1087.2009.02191
+   EFRON B, 1987, J AM STAT ASSOC, V82, P171, DOI 10.2307/2289144
+   Fellows IE, 2014, PREPRINT
+   GEYER CJ, 1992, J R STAT SOC B, V54, P657
+   Gillespie CS, 2015, J STAT SOFTW, V64
+   Goodman L.A., 1961, The Annals of Mathematical Statistics, V32, P148, DOI [DOI 10.1214/AOMS/1177705148, 10.1214/aoms/1177705148]
+   Goodman LA, 2011, SOCIOL METHODOL, V41, P347, DOI 10.1111/j.1467-9531.2011.01242.x
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Handcock M.S., 2016, STATNET SOFTWARE TOO
+   Handcock MS, 2011, SOCIOL METHODOL, V41, P367, DOI [10.1111/j.1467-9531.2011.01243.x, 10.1111/j.1467-9531.2011.01243]
+   Handcock MS, 2010, ANN APPL STAT, V4, P5, DOI 10.1214/08-AOAS221
+   Handcock Mark S, 2008, J Stat Softw, V24, P1548
+   Hanson TD, 2018, UTHASH
+   Hartung J., 2008, STAT META ANAL APPL
+   Heckathorn DD, 2011, SOCIOL METHODOL, V41, P355, DOI 10.1111/j.1467-9531.2011.01244.x
+   Hinton GE, 2002, NEURAL COMPUT, V14, P1771, DOI 10.1162/089976602760128018
+   Hummel RM, 2012, J COMPUT GRAPH STAT, V21, P920, DOI 10.1080/10618600.2012.679224
+   Hunter DR, 2008, J AM STAT ASSOC, V103, P248, DOI 10.1198/016214507000000446
+   Hunter DR, 2006, J COMPUT GRAPH STAT, V15, P565, DOI 10.1198/106186006X133069
+   Hunter DR, 2012, J COMPUT GRAPH STAT, V21, P856, DOI 10.1080/10618600.2012.732921
+   Jones GL, 2006, J AM STAT ASSOC, V101, P1537, DOI 10.1198/016214506000000492
+   Kleineberg KK, 2014, PHYS REV X, V4, DOI 10.1103/PhysRevX.4.031046
+   Krivitsky PN, 2017, COMPUT STAT DATA AN, V107, P149, DOI 10.1016/j.csda.2016.10.015
+   Leskovec J., 2014, STANFORD LARGE NETWO
+   Leskovec J, 2016, ACM T INTEL SYST TEC, V8, DOI 10.1145/2898361
+   Morris Martina, 2008, J Stat Softw, V24, P1548
+   Pattison PE, 2013, J MATH PSYCHOL, V57, P284, DOI 10.1016/j.jmp.2013.05.004
+   ROBBINS H, 1951, ANN MATH STAT, V22, P400, DOI 10.1214/aoms/1177729586
+   Robins G., 2009, PNET PROGRAM SIMULAT
+   Robins G, 2007, SOC NETWORKS, V29, P192, DOI 10.1016/j.socnet.2006.08.003
+   Robins G, 2009, SOC NETWORKS, V31, P105, DOI 10.1016/j.socnet.2008.10.006
+   Salmon J.K., 2011, P 2011 INT C HIGH PE, DOI 10.1145/2063384.2063405
+   Schweinberger M, 2019, PREPRINT
+   Snijders TAB, 2003, J MATH SOCIOL, V27, P123, DOI 10.1080/00222500305892
+   Snijders TAB, 2006, SOCIOL METHODOL, V36, P99, DOI 10.1111/j.1467-9531.2006.00176.x
+   Stivala AD, 2016, SOC NETWORKS, V47, P167, DOI 10.1016/j.socnet.2015.11.003
+   Stumpf MPH, 2012, SCIENCE, V335, P665, DOI 10.1126/science.1216142
+   Takac L, 2012, INT SCI C INT WORKSH, V1
+   Thiemichen S, 2017, SOC NETWORKS, V49, P67, DOI 10.1016/j.socnet.2016.12.002
+   Tieleman T., 2008, P 25 INT C MACH LEAR, P1064
+   van Duijn MAJ, 2009, SOC NETWORKS, V31, P52, DOI 10.1016/j.socnet.2008.10.003
+   Vats D, 2017, PREPRINT
+   Wang P, 2012, THESIS
+   Wickham H, 2009, USE R, P1, DOI 10.1007/978-0-387-98141-3
+   Wilson EB, 1927, J AM STAT ASSOC, V22, P209, DOI 10.2307/2276774
+   YOUNES L, 1988, ANN I H POINCARE-PR, V24, P269
+NR 64
+TC 23
+Z9 24
+U1 2
+U2 35
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JAN 24
+PY 2020
+VL 15
+IS 1
+AR e0227804
+DI 10.1371/journal.pone.0227804
+PG 21
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA LP8WY
+UT WOS:000534599100062
+PM 31978150
+OA gold, Green Published, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Sun, Y
+AF Sun, Ye
+TI How conversational ties are formed in an online community: a social
+   network analysis of a tweet chat group
+SO INFORMATION COMMUNICATION & SOCIETY
+LA English
+DT Article
+DE Social network analysis; online relationships; exponential random graph
+   modeling (ERGM); Twitter; mediated communication; multitheoretical
+   multilevel framework
+ID RANDOM GRAPH MODELS; P-ASTERISK MODELS; MULTILEVEL ANALYSIS; FEATHER;
+   BIRDS; MASS
+AB This paper examines the generative processes underlying the conversational network structure of a tweet chat community (#dsma, 'Diabetes Social Media Advocacy'). Taking a relational perspective to the study of mediated communication, this paper uses social network analysis and treats conversational ties as the unit of analysis. It explores the formation of such ties in a multitheoretical, multilevel framework via exponential random graph modeling (ERGM). Twitter network data on #dsma from a two-year period (2015-2017) were analyzed. Results showed that similar to offline relationship formation observed in previous research, this online conversational community also emerged from a combination of social processes (including attribute-based social selection and endogenous network self-organization) that occurred at individual, dyadic, and triadic levels. This study contributes empirical insights into relational dynamics underlying online networks and encourages future research on mediated communication as an emergent, interdependent process involving multifaceted, multilevel mechanisms.
+C1 [Sun, Ye] Univ Utah, Dept Commun, Languages & Commun Bldg,255 South Cent Campus Dr, Salt Lake City, UT 84112 USA.
+C3 Utah System of Higher Education; University of Utah
+RP Sun, Y (corresponding author), Univ Utah, Dept Commun, Languages & Commun Bldg,255 South Cent Campus Dr, Salt Lake City, UT 84112 USA.
+EM ye.sun@utah.edu
+CR [Anonymous], 2018, SYMPLUR SIGNALS HLTH
+   [Anonymous], 2013, Exponential random graph models for social networks: Theory, methods, and applications, DOI DOI 10.1017/CBO9780511894701.015
+   [Anonymous], 2010, ANAL SOC MEDIA NETWO
+   Atouba YC, 2015, NONPROF VOLUNT SEC Q, V44, P587, DOI 10.1177/0899764014524991
+   Benkler Y., 2006, WEALTH NETWORKS SOCI
+   Bliss CA, 2012, J COMPUT SCI-NETH, V3, P388, DOI 10.1016/j.jocs.2012.05.001
+   Bond L, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0083388
+   Bourdieu P., 1992, INVITATION REFLEXIVE
+   Bruns Axel., 2013, TWITTER AND SOC, V89, P15
+   Byshkin M, 2016, J STAT PHYS, V165, P740, DOI 10.1007/s10955-016-1650-5
+   Cappella JN, 2017, HUM COMMUN RES, V43, P545, DOI 10.1111/hcre.12114
+   Christakis NA, 2008, NEW ENGL J MED, V358, P2249, DOI 10.1056/NEJMsa0706154
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Clyne W, 2018, JMIR PUBLIC HLTH SUR, V4, P117, DOI 10.2196/publichealth.7686
+   Contractor Noshir, 2003, Theories of Communication Networks
+   de Nooy W, 2015, BIG DATA SOC, V2, DOI 10.1177/2053951715603732
+   Depelteau F., 2013, Applying Relational Sociology: Relations, Networks, and Society
+   Dépelteau F, 2008, SOCIOL THEOR, V26, P51, DOI 10.1111/j.1467-9558.2008.00318.x
+   Dépelteau F, 2015, INT REV SOCIOL, V25, P45, DOI 10.1080/03906701.2014.997966
+   Dewey John., 1949, Knowing and the Known
+   Elias Norbert., 1978, WHAT IS SOCIOLOGY
+   EMIRBAYER M, 1994, AM J SOCIOL, V99, P1411, DOI 10.1086/230450
+   Emirbayer M, 1997, AM J SOCIOL, V103, P281, DOI 10.1086/231209
+   Emirbayer M., 2013, Conceptualizing Relational Sociology: Ontological and Theoretical Issues, P209
+   Flanagin AJ, 2017, HUM COMMUN RES, V43, P450, DOI 10.1111/hcre.12116
+   Goodreau SM, 2007, SOC NETWORKS, V29, P231, DOI 10.1016/j.socnet.2006.08.001
+   Goodreau Steven M, 2008, J Stat Softw, V24, P1
+   Goodreau SM, 2009, DEMOGRAPHY, V46, P103, DOI 10.1353/dem.0.0045
+   Hunter DR, 2006, J COMPUT GRAPH STAT, V15, P565, DOI 10.1198/106186006X133069
+   Hunter DR., 2008, Journal of Statistical Software, V24, P1, DOI DOI 10.18637/JSS.V024.I03
+   Keir A, 2019, BMJ EVID-BASED MED, V24, P87, DOI 10.1136/bmjebm-2018-111016
+   Lupton D, 2016, BIG DATA SOC, V3, P1, DOI 10.1177/2053951715619947
+   Lusher D., 2013, EXPONENTIAL RANDOM G, DOI [DOI 10.1017/CBO9780511894701, 10.1017/CBO9780511894701]
+   Lusher Dean., 2013, Exponential Random Graph Models for Social Networks, P16, DOI DOI 10.1017/CBO9780511894701.004
+   Marin A., 2011, SAGE HDB SOCIAL NETW, P11, DOI [DOI 10.4135/9781446294413.N2, 10.4135/9781446294413, DOI 10.4135/9781446294413]
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   PAN ZD, 1991, COMMUN RES, V18, P140, DOI 10.1177/009365091018002002
+   Robins G, 2007, SOC NETWORKS, V29, P173, DOI 10.1016/j.socnet.2006.08.002
+   Schmidt J.-H., 2014, Twitter and Society, P3, DOI DOI 10.3726/978-1-4539-1170-9
+   Singh Santosh Kumar, 2015, 2015 International Conference on Energy Economics and Environment (ICEEE), P1, DOI 10.1109/EnergyEconomics.2015.7235065
+   Smith KP, 2008, ANNU REV SOCIOL, V34, P405, DOI 10.1146/annurev.soc.34.040507.134601
+   Stivala AD, 2016, SOC NETWORKS, V47, P167, DOI 10.1016/j.socnet.2015.11.003
+   Thrift N, 2014, BIG DATA SOC, V1, DOI 10.1177/2053951714532241
+   Walther JB, 2017, HUM COMMUN RES, V43, P415, DOI 10.1111/hcre.12120
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   Welles BF, 2015, ANN AM ACAD POLIT SS, V659, P180, DOI 10.1177/0002716214565755
+NR 47
+TC 11
+Z9 13
+U1 8
+U2 13
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1369-118X
+EI 1468-4462
+J9 INFORM COMMUN SOC
+JI Info. Commun. Soc.
+PD AUG 23
+PY 2020
+VL 23
+IS 10
+BP 1463
+EP 1480
+DI 10.1080/1369118X.2019.1581242
+PG 18
+WC Communication; Sociology
+WE Social Science Citation Index (SSCI)
+SC Communication; Sociology
+GA NG4ZH
+UT WOS:000563991400005
+DA 2024-11-22
+ER
+
+PT J
+AU Leitzke, ATD
+   Rigo, LC
+AF da Silva Leitzke, Angelica Teixeira
+   Rigo, Luiz Carlos
+TI SOCIETY OF CONTROL AND SOCIAL MEDIA: #HEALTH AND #BODY ON INSTAGRAM
+SO MOVIMENTO
+LA Portuguese
+DT Article
+DE e-Government; Population Control; Health; Online Social Networking
+AB This article aims to analyze text and images posted on Instagram under the hashtags #saucle (Portuguese for health) and #corpo (body), based on Deleuze's notion of society of control. Data were collected using the website Netlytic and analyzed with the software LibreOffice Calc. The methodology consisted of statement analysis from a Foucauldian perspective. The results stress the presence of practices addressing techniques of confession, intervention, and body manipulation as well as control strategies to promote health based on production of truth. These are indications of how today's health surveillance mechanisms and governmentality strategies are operationalized in the society of control.
+C1 [da Silva Leitzke, Angelica Teixeira; Rigo, Luiz Carlos] Univ Fed Pelotas, Pelotas, RS, Brazil.
+C3 Universidade Federal de Pelotas
+RP Leitzke, ATD (corresponding author), Univ Fed Pelotas, Pelotas, RS, Brazil.
+EM leitzke.angelica@gmail.com; rigoperini@gmail.com
+OI Leitzke, Angelica/0000-0002-0458-6948
+CR ALVES Marcelo., 2016, MONITORAMENTO PESQUI, P67
+   ANDRADE Sandra dos Santos, 2003, Movimento, V9, P119, DOI [10.22456/1982-8918.2665, DOI 10.22456/1982-8918.2665]
+   [Anonymous], 2010, NORMAL PATOLOGICO
+   [Anonymous], 1999, CIBERCULTURA
+   [Anonymous], 2005, DESIGN PATTERNS BUSI
+   ANTOUN Henrique., 2008, WEB 2 0 PARTICIPACAO, P7
+   COSTA Rogerio da, 2004, SOCIEDADE CONTROLE, V18, P61
+   de Oliveira AP, 2010, MOVIMENTO-PORTO ALEG, V16, P31
+   Deleuze G., 1992, Conversacoes: 1972-1990
+   DELEUZE Gilles., 2005, FOUCAULT
+   FERNANDES, 2016, ENCONTRO NACL ESTUDO, V2
+   Foucault M., 1999, Em defesa da sociedade: Curso no College de France (1975-1976)
+   Foucault M., 2006, Ditos e escritos, V2
+   Foucault M., 2016, Microfisica do Poder
+   FOUCAULT Michel-., 1970, A ordem do discurso: Aula inaugural no College de France . [Em linha], V5nd
+   FOUCAULT Michel., 1999, As Palavras e as Coisas
+   Foucault Michel., 2007, Vigiar e Punir
+   FOUCAULT Michel., 2008, Seguranca, territorio, populacao: curso dado College de France
+   Foucault Michel., 2004, O Nascimento da Biopolitica
+   FOUCAULT Michel., 2011, Do governo dos vivos. Curso no College de France
+   FRAGA Alex Branco., 2006, EXERCICIO INFORMACAO
+   Gomes Isabelle Sena, 2016, Rev. Bras. Ciênc. Esporte, V38, P414, DOI 10.1016/j.rbce.2016.02.008
+   HARDT Michael, 2000, Gilles Deleuze: uma vida filosofica, P357
+   Henrique SILVA Thiago, 2013, S BRAS RED COMP SIST, P455
+   Jacob H. M. A., 2014, Revista Communicare, V14, P88
+   Leitzke Angélica Teixeira da Silva, 2020, Rev. Bras. Ciênc. Esporte, V42, pe2014, DOI 10.1016/j.rbce.2018.12.001
+   Levy P., 1993, As Tecnologias da Inteligencia: O Futuro do Pensamento na Era da Informatica
+   Primo A., 2000, Revista da Famecos, P81
+   PRIMO A., 2007, ECOMPS BRASLIA, V9, P1, DOI 10.30962/ec.153
+   Recuero Raquel., 2015, Analise de Redes para Midia Social
+   SANTANNA D. B., 2014, Historia da Beleza no Brasil
+   Santolin CB, 2015, MOVIMENTO-PORTO ALEG, V21, P81
+   Sibilia P., 2008, SHOW EU INTIMIDADE C
+   Vigarello G., 2006, Historia da beleza: o corpo e arte de se embelezar, do renascimento aos dias de hoje
+NR 34
+TC 1
+Z9 1
+U1 0
+U2 10
+PU UNIV FED RIO GRANDE DO SUL, ESCOLA EDUC FISICA
+PI PORTO ALEGRE
+PA RUA FELIZARDO, 750 JARDIM BOTANICO, PORTO ALEGRE, CEP90690-200, BRAZIL
+SN 0104-754X
+EI 1982-8918
+J9 MOVIMENTO-PORTO ALEG
+JI Movimento
+PD AUG 20
+PY 2020
+VL 26
+AR e26062
+DI 10.22456/1982-8918.100688
+PG 13
+WC Education & Educational Research; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Education & Educational Research; Social Sciences - Other Topics
+GA NE2XG
+UT WOS:000562460300001
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Huang, DW
+   Yang, LX
+   Yang, XF
+   Tang, YY
+   Bi, JC
+AF Huang, Da-Wen
+   Yang, Lu-Xing
+   Yang, Xiaofan
+   Tang, Yuan Yan
+   Bi, Jichao
+TI Defending against Online Social Network Rumors through Optimal Control
+   Approach
+SO DISCRETE DYNAMICS IN NATURE AND SOCIETY
+LA English
+DT Review
+ID SPREADING MODEL; DIFFUSION; SITES; NEWS
+AB Rumors have been widely spread in online social networks and they become a major concern in modern society. This paper is devoted to the design of a cost-effective rumor-containing scheme in online social networks through an optimal control approach. First, a new individual-based rumor spreading model is proposed, and the model considers the influence of the external environment on rumor spreading for the first time. Second, the cost-effectiveness is recommended to balance the loss caused by rumors against the cost of a rumor-containing scheme. On this basis, we reduce the original problem to an optimal control model. Next, we prove that this model is solvable, and we present the optimality system for the model. Finally, we show that the resulting rumor-containing scheme is cost-effective through extensive computer experiments.
+C1 [Huang, Da-Wen] Sichuan Normal Univ, Coll Comp Sci, Chengdu 610101, Peoples R China.
+   [Yang, Lu-Xing] Deakin Univ, Sch Informat Technol, Melbourne, Vic 3125, Australia.
+   [Yang, Xiaofan] Chongqing Univ, Sch Big Data & Software Engn, Chongqing 400044, Peoples R China.
+   [Tang, Yuan Yan] Univ Macau, Dept Comp & Informat Sci, Zhuhai, Macau, Peoples R China.
+   [Bi, Jichao] Zhejiang Univ, State Key Lab Ind Control Technol, Hangzhou 310027, Peoples R China.
+C3 Sichuan Normal University; Deakin University; Chongqing University;
+   University of Macau; Zhejiang University
+RP Huang, DW (corresponding author), Sichuan Normal Univ, Coll Comp Sci, Chengdu 610101, Peoples R China.; Yang, XF (corresponding author), Chongqing Univ, Sch Big Data & Software Engn, Chongqing 400044, Peoples R China.
+EM hdawen1@gmail.com; ylx910920@gmail.com; xfyang1964@gmail.com;
+   yytang@umac.mo; jonny.bijichao@gmail.com
+RI Yang, Xiaofan/L-6472-2015; Bi, Jichao/HLX-3905-2023
+OI Huang, Da-Wen/0000-0003-3956-7445; Yang, Lu-Xing/0000-0002-9229-5787
+CR Allen J, 2020, SCI ADV, V6, DOI 10.1126/sciadv.aay3539
+   Atkinson KE, 2009, PUR APPL MATH, P1, DOI 10.1002/9781118164495
+   Budak C., 2011, P 20 INT C WORLD WID, P665, DOI DOI 10.1145/1963405.1963499
+   Chen J, 2020, PHYSICA A, V540, DOI 10.1016/j.physa.2019.123085
+   Chua AYK, 2017, 2017 TWELFTH INTERNATIONAL CONFERENCE ON DIGITAL INFORMATION MANAGEMENT (ICDIM), P257, DOI 10.1109/ICDIM.2017.8244642
+   Eshghi S, 2016, IEEE ACM T NETWORK, V24, P283, DOI 10.1109/TNET.2014.2364034
+   Fan LD, 2013, INT CON DISTR COMP S, P540, DOI 10.1109/ICDCS.2013.34
+   Feng LP, 2015, MATH PROBL ENG, V2015, DOI 10.1155/2015/129598
+   Feng LP, 2013, APPL MATH MODEL, V37, P8225, DOI 10.1016/j.apm.2013.03.051
+   Gan CQ, 2020, NONLINEAR DYNAM, V100, P1725, DOI 10.1007/s11071-020-05562-1
+   Grinberg N, 2019, SCIENCE, V363, P374, DOI 10.1126/science.aau2706
+   He ZB, 2017, IEEE T VEH TECHNOL, V66, P2789, DOI 10.1109/TVT.2016.2585591
+   Huo L, 2018, DISCRETE DYN NAT SOC, V2018, DOI 10.1155/2018/9314907
+   Huo LA, 2016, PHYSICA A, V461, P73, DOI 10.1016/j.physa.2016.05.028
+   Huo LA, 2015, ADV DIFFER EQU-NY, DOI 10.1186/s13662-015-0394-x
+   Jeong YD, 2018, DISCRETE DYN NAT SOC, V2018, DOI 10.1155/2018/9158014
+   Kimmel A. J., 2012, RUMORS RUMOR CONTROL
+   Kuss DJ, 2017, INT J ENV RES PUB HE, V14, DOI 10.3390/ijerph14030311
+   Leskovec J., 2012, ADV NEURAL INFORM PR, V25, P539, DOI DOI 10.1109/ICDM.2012.159
+   Liberzon D., 2012, CALCULUS VARIATIONS
+   Liu WP, 2017, SCI REP-UK, V7, DOI 10.1038/srep42308
+   Ma J., 2016, P 25 INT JOINT C ART, P3818
+   Ma J, 2018, PHYSICA A, V499, P276, DOI 10.1016/j.physa.2018.02.037
+   Miritello G, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.045102
+   Moreno Y, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.066130
+   Nekovee M, 2007, PHYSICA A, V374, P457, DOI 10.1016/j.physa.2006.07.017
+   Nguyen NP, 2012, PROCEEDINGS OF THE 3RD ANNUAL ACM WEB SCIENCE CONFERENCE, 2012, P213
+   Osborne MJ, 2003, INTRO GAME THEORY
+   Pan C, 2018, PHYSICA A, V500, P80, DOI 10.1016/j.physa.2018.02.025
+   Preciado VM, 2014, IEEE T CONTROL NETW, V1, P99, DOI 10.1109/TCNS.2014.2310911
+   Rapoza K, 2017, Can 'fake news' impact the stock market?
+   Rossi RA, 2015, AAAI CONF ARTIF INTE, P4292
+   Sekara V, 2016, P NATL ACAD SCI USA, V113, P9977, DOI 10.1073/pnas.1602803113
+   Sharma K, 2019, ACM T INTEL SYST TEC, V10, DOI 10.1145/3305260
+   Stein EM, 2005, REAL ANALYSIS: MEASURE THEORY, INTEGRATION, AND HILBERT SPACES, P1
+   Stewart W. J., 2009, Probability, Markov Chains, Queues, and Simulation:The Mathematical Basis of Performance Modeling
+   TONG G, 2017, IEEE INFOCOM SER, V14, DOI DOI 10.1109/infocom.2017.8056957
+   Verduyn P, 2017, SOC ISS POLICY REV, V11, P274, DOI 10.1111/sipr.12033
+   Vosoughi S, 2018, SCIENCE, V359, P1146, DOI 10.1126/science.aap9559
+   Wang B, 2017, IEEE T KNOWL DATA EN, V29, P2168, DOI 10.1109/TKDE.2017.2728064
+   Wang W, 2018, PHYS REV E, V98, DOI 10.1103/PhysRevE.98.062320
+   Wang XY, 2019, IEEE T NETW SERV MAN, V16, P1226, DOI 10.1109/TNSM.2019.2917512
+   Wen S, 2014, IEEE T PARALL DISTR, V25, P3306, DOI 10.1109/TPDS.2013.2297115
+   Xia CY, 2013, PHYSICA A, V392, P1577, DOI 10.1016/j.physa.2012.11.043
+   Xia CY, 2019, INFORM SCIENCES, V471, P185, DOI 10.1016/j.ins.2018.08.050
+   Xu JP, 2016, ADV DIFFER EQU-NY, DOI 10.1186/s13662-016-0932-1
+   Xu SH, 2015, INTERNET MATH, V11, P23, DOI 10.1080/15427951.2013.830583
+   Yang L, 2020, INFORM SCIENCES, V506, P113, DOI 10.1016/j.ins.2019.07.055
+   Yang LX, 2020, IEEE SYST J, V14, P1623, DOI 10.1109/JSYST.2020.2964004
+   Yang LX, 2021, IEEE T SYST MAN CY-S, V51, P5977, DOI 10.1109/TSMC.2019.2956860
+   Yang LX, 2019, IEEE T INF FOREN SEC, V14, P1713, DOI 10.1109/TIFS.2018.2885251
+   Yang LX, 2018, J FRANKLIN I, V355, P8079, DOI 10.1016/j.jfranklin.2018.07.040
+   Yang LX, 2018, NONLINEAR DYNAM, V91, P1853, DOI 10.1007/s11071-017-3986-z
+   Zannettou S, 2019, ACM J DATA INF QUAL, V11, DOI 10.1145/3309699
+   Zhao HY, 2016, INT J BIFURCAT CHAOS, V26, DOI 10.1142/S0218127416501017
+   Zhao J, 2019, PHYSICA A, V526, DOI 10.1016/j.physa.2019.04.103
+   Zhao LJ, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0124978
+   Zhao LJ, 2013, PHYSICA A, V392, P6146, DOI 10.1016/j.physa.2013.07.080
+   Zhao LJ, 2012, PHYSICA A, V391, P2444, DOI 10.1016/j.physa.2011.12.008
+   Zhao ZJ, 2016, PHYSICA A, V443, P263, DOI 10.1016/j.physa.2015.09.060
+   Zhou YZ, 2019, NEW J PHYS, V21, DOI 10.1088/1367-2630/ab0458
+   Zhu LH, 2019, CHAOS, V29, DOI 10.1063/1.5090268
+   Zhu LH, 2016, INFORM SCIENCES, V349, P119, DOI 10.1016/j.ins.2016.02.031
+NR 63
+TC 3
+Z9 3
+U1 3
+U2 42
+PU HINDAWI LTD
+PI LONDON
+PA ADAM HOUSE, 3RD FLR, 1 FITZROY SQ, LONDON, W1T 5HF, ENGLAND
+SN 1026-0226
+EI 1607-887X
+J9 DISCRETE DYN NAT SOC
+JI Discrete Dyn. Nat. Soc.
+PD SEP 30
+PY 2020
+VL 2020
+AR 6263748
+DI 10.1155/2020/6263748
+PG 13
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Mathematics; Science & Technology - Other Topics
+GA OH4FU
+UT WOS:000582527100001
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Gruzd, A
+   Mai, P
+AF Gruzd, Anatoliy
+   Mai, Philip
+TI Going viral: How a single tweet spawned a COVID-19 conspiracy theory on
+   Twitter
+SO BIG DATA & SOCIETY
+LA English
+DT Article
+DE Social media; Twitter; COVID-19; conspiracy theory; online networks;
+   #FilmYourHospital
+AB In late March of 2020, a new hashtag, #FilmYourHospital, made its first appearance on social media. The hashtag encouraged people to visit local hospitals to take pictures and videos of empty hospitals to help "prove" that the COVID-19 pandemic is an elaborate hoax. Using techniques from Social Network Analysis, this case study examines how this conspiracy theory propagated on Twitter and whether the hashtag virality was aided by the use of automation or coordination among Twitter users. We found that while much of the content came from users with limited reach, the oxygen that fueled this conspiracy in its early days came from a handful of prominent conservative politicians and far right political activists on Twitter. These power users used this hashtag to build awareness about the campaign and to encourage their followers to break quarantine and film what is happening at their local hospitals. After the initial boost by a few prominent accounts, the campaign was mostly sustained by pro-Trump accounts, followed by a secondary wave of propagation outside the U.S. The rise of the #FilmYourHospital conspiracy from a single tweet demonstrates the ongoing challenge of addressing false, viral information during the COVID-19 pandemic. While the spread of misinformation can be potentially mitigated by fact-checking and directing people to credible sources of information from public health agencies, false and misleading claims that are driven by politics and supported by strong convictions and not science are much harder to root out.
+C1 [Gruzd, Anatoliy; Mai, Philip] Ryerson Univ, Ted Rogers Sch Management, Social Media Lab, Toronto, ON, Canada.
+C3 Toronto Metropolitan University
+RP Gruzd, A (corresponding author), Ryerson Univ, Ted Rogers Sch Management, Social Media Lab, Toronto, ON, Canada.
+EM gruzd@ryerson.ca
+OI Mai, Philip/0000-0002-6950-1220; Gruzd, Anatoliy/0000-0003-2366-5163
+FU Canadian Institutes of Health Research; Canada Research Chairs program;
+   Compute Canada
+FX The author(s) disclosed receipt of the following financial support for
+   the research, authorship, and/or publication of this article: This
+   research is funded by the Canadian Institutes of Health Research (PIs:
+   Veletsianos, Hodson, Gruzd), and is also supported by the Canada
+   Research Chairs program (PI: Gruzd) and a Compute Canada computing grant
+   (PI: Gruzd).
+CR [Anonymous], 2016, J. Learn. Anal., DOI [10.18608/jla.2016.33.4, DOI 10.18608/JLA.2016.33.4]
+   [Anonymous], 2016, Netlytic: Software for Automated Text and Social Network Analysis
+   Bastian M., 2009, Association for the Advancement of Artificial Intelligence
+   Blondel VD, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/10/P10008
+   Britzky H, 2017, AXIOS           0923
+   Center for Disease Control, 2020, STEPS HEALTHC FAC CA
+   Davis CA, 2016, ARXIV160200975CS
+   Giglietto F, 2019, PREPRINT, DOI [10.31235/osf.io/3jteh, DOI 10.31235/OSF.I0/3JTEH]
+   Golden H, 2020, The Guardian
+   Gruzd A., 2020, HAWAII INT C SYSTEM, P2619, DOI [10.24251/hicss.2020.319, DOI 10.24251/HICSS.2020.319]
+   Gruzd A, 2016, PROCEEDINGS OF THE 25TH INTERNATIONAL CONFERENCE ON WORLD WIDE WEB (WWW'16 COMPANION), P551, DOI 10.1145/2872518.2896920
+   GRUZD Anatoliy., 2016, The SAGE Handbook of Social Media Research Methods, P513
+   Gurajala S, 2016, BIG DATA SOC, V3, P1, DOI 10.1177/2053951716674236
+   Little S, 2020, GLOBAL NEWS     0403
+   Mai P., 2020, POLICY OPTIONS
+   Morse B, 2020, NBC WJAR        0416
+   Paavola J, 2016, PROCEEDINGS OF THE 15TH EUROPEAN CONFERENCE ON CYBER WARFARE AND SECURITY (ECCWS 2016), P237
+   Rauchfleisch A., 2020, FALSE POSITIVE PROBL
+   Recuero Raquel, 2019, Galáxia (São Paulo), P31
+   Recuero Raquel, 2020, P 14 INT AAAI C WEB, V14, P569, DOI [10.1609/icwsm.v14i1.7324, DOI 10.1609/ICWSM.V14I1.7324]
+   Rinaldo S., 2020, CTV NEWS
+   Ruest N, 2016, OPEN SOURCE STRATEGY
+   Soares Felipe, 2019, P 10 INT C SOC MED S, P67
+   Starbird K, 2019, NATURE, V571, P449, DOI 10.1038/d41586-019-02235-x
+   Tambuscio M, 2018, J COMPUT SOC SCI, V1, P261, DOI 10.1007/s42001-018-0018-9
+   Temperton J., 2020, Wired UK20.05.
+   Vargo CJ, 2018, NEW MEDIA SOC, V20, P2028, DOI 10.1177/1461444817712086
+   Vraga EK, 2017, SCI COMMUN, V39, P621, DOI 10.1177/1075547017731776
+   WHO, Coronavirus Disease (COVID-19) Advice for the Public
+   Yang K-C, 2019, ARXIV191109179CS
+   Zadrozny Brandy., 2020, NBC News
+   Zhang YN, 2019, J COMPUT-MEDIAT COMM, V24, P182, DOI 10.1093/jcmc/zmz009
+   Zhou L, 2016, PROCEEDINGS OF THE 25TH INTERNATIONAL CONFERENCE ON WORLD WIDE WEB (WWW'16), P603, DOI 10.1145/2872427.2883052
+NR 33
+TC 124
+Z9 138
+U1 10
+U2 223
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 2053-9517
+J9 BIG DATA SOC
+JI Big Data Soc.
+PD JUL
+PY 2020
+VL 7
+IS 2
+AR 2053951720938405
+DI 10.1177/2053951720938405
+PG 9
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA MT4ET
+UT WOS:000554923700001
+OA gold
+HC Y
+HP N
+DA 2024-11-22
+ER

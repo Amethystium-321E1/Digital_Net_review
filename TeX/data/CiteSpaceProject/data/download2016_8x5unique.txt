@@ -1,0 +1,511 @@
+
+PT J
+AU Kleineberg, KK
+   Boguñá, M
+AF Kleineberg, Kaj-Kolja
+   Boguna, Marian
+TI Competition between global and local online social networks
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID PREFERENTIAL ATTACHMENT; EMERGENCE
+AB The overwhelming success of online social networks, the key actors in the Web 2.0 cosmos, has reshaped human interactions globally. To help understand the fundamental mechanisms which determine the fate of online social networks at the system level, we describe the digital world as a complex ecosystem of interacting networks. In this paper, we study the impact of heterogeneity in network fitnesses on the competition between an international network, such as Facebook, and local services. The higher fitness of international networks is induced by their ability to attract users from all over the world, which can then establish social interactions without the limitations of local networks. In other words, inter-country social ties lead to increased fitness of the international network. To study the competition between an international network and local ones, we construct a 1: 1000 scale model of the digital world, consisting of the 80 countries with the most Internet users. Under certain conditions, this leads to the extinction of local networks; whereas under different conditions, local networks can persist and even dominate completely. In particular, our model suggests that, with the parameters that best reproduce the empirical overtake of Facebook, this overtake could have not taken place with a significant probability.
+C1 [Kleineberg, Kaj-Kolja; Boguna, Marian] Univ Barcelona, Dept Fis Fonamental, Marti & Franques 1, Barcelona 08028, Spain.
+C3 University of Barcelona
+RP Kleineberg, KK; Boguñá, M (corresponding author), Univ Barcelona, Dept Fis Fonamental, Marti & Franques 1, Barcelona 08028, Spain.
+EM kkl@ffn.ub.edu; marian.boguna@ub.edu
+RI Boguna, Marian/B-7795-2011
+OI Kleineberg, Kaj Kolja/0000-0003-2944-5671
+FU European Commission [PITN-GA-2012-316808]; James S. McDonnell Foundation
+   Scholar Award in Complex Systems; ICREA Academia prize - Generalitat de
+   Catalunya; MINECO [FIS2013-47282-C2-1-P]; Generalitat de Catalunya
+   [2014SGR608]; European Commission, LASAGNE project (STREP) [318132]
+FX This work was supported by: the European Commission through the Marie
+   Curie ITN "iSocial" grant no. PITN-GA-2012-316808; a James S. McDonnell
+   Foundation Scholar Award in Complex Systems; the ICREA Academia prize,
+   funded by the Generalitat de Catalunya; the MINECO project no.
+   FIS2013-47282-C2-1-P; and the Generalitat de Catalunya grant no.
+   2014SGR608. Furthermore, M. B. acknowledges support from the European
+   Commission, LASAGNE project no. 318132 (STREP).
+CR ANDERSON R M, 1991
+   [Anonymous], 2003, 72 ONLINE ADULTS ARE
+   [Anonymous], 2011, Everything is Obvious (Once you know the answer)
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Bianconi G, 2001, PHYS REV LETT, V86, P5632, DOI 10.1103/PhysRevLett.86.5632
+   Bianconi G, 2014, PHYS REV E, V89, DOI 10.1103/PhysRevE.89.062814
+   Boguñá M, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.036112
+   Boguñá M, 2009, NAT PHYS, V5, P74, DOI 10.1038/NPHYS1130
+   Caldarelli G, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.258702
+   Cosenza V., WORLD MAP SOCIAL NET
+   D'Agostino G., 2014, UNDERSTANDING COMPLE, VXII
+   D'Souza RM, 2007, P NATL ACAD SCI USA, V104, P6112, DOI 10.1073/pnas.0606779104
+   De Domenico M, 2013, PHYS REV X, V3, DOI 10.1103/PhysRevX.3.041022
+   Dorogovtsev SN, 2001, PHYS REV E, V63, DOI [10.1103/PhysRevE.63.056125, 10.1103/PhysRevE.63.062101]
+   Fortunato S, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.218701
+   HARDIN G, 1960, SCIENCE, V131, P1292, DOI 10.1126/science.131.3409.1292
+   Jacobs A. Z., 2015, P WEBSCI 2015
+   Kivela M, 2014, J COMPLEX NETW, V2, P203, DOI 10.1093/comnet/cnu016
+   Kleineberg KK, 2015, SCI REP-UK, V5, DOI 10.1038/srep10268
+   Kleineberg KK, 2014, PHYS REV X, V4, DOI 10.1103/PhysRevX.4.031046
+   Papadopoulos F, 2012, NATURE, V489, P537, DOI 10.1038/nature11459
+   Pastor-Satorras R, 2003, J THEOR BIOL, V222, P199, DOI 10.1016/S0022-5193(03)00028-6
+   Radicchi F, 2014, PHYS REV X, V4, DOI 10.1103/PhysRevX.4.021014
+   Reis SDS, 2014, NAT PHYS, V10, P762, DOI 10.1038/NPHYS3081
+   Ribeiro B, 2014, WWW'14: PROCEEDINGS OF THE 23RD INTERNATIONAL CONFERENCE ON WORLD WIDE WEB, P653, DOI 10.1145/2566486.2567984
+   Serrano MA, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.078701
+   State B., 2013, ARXIV13030045
+   Takhteyev Y, 2012, SOC NETWORKS, V34, P73, DOI 10.1016/j.socnet.2011.05.006
+   Vázquez A, 2003, PHYS REV E, V67, DOI 10.1103/PhysRevE.67.056104
+   WeAreSocial, 2015, SDMW WE ARE SOC
+NR 30
+TC 11
+Z9 13
+U1 0
+U2 13
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD APR 27
+PY 2016
+VL 6
+AR 25116
+DI 10.1038/srep25116
+PG 12
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA DK4AO
+UT WOS:000374858800001
+PM 27117826
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Teng, X
+   Pei, S
+   Morone, F
+   Makse, HA
+AF Teng, Xian
+   Pei, Sen
+   Morone, Flaviano
+   Makse, Hernan A.
+TI Collective Influence of Multiple Spreaders Evaluated by Tracing Real
+   Information Flow in Large-Scale Social Networks
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID COMPLEX; MODEL
+AB Identifying the most influential spreaders that maximize information flow is a central question in network theory. Recently, a scalable method called "Collective Influence (CI)" has been put forward through collective influence maximization. In contrast to heuristic methods evaluating nodes' significance separately, CI method inspects the collective influence of multiple spreaders. Despite that CI applies to the influence maximization problem in percolation model, it is still important to examine its efficacy in realistic information spreading. Here, we examine real-world information flow in various social and scientific platforms including American Physical Society, Facebook, Twitter and LiveJournal. Since empirical data cannot be directly mapped to ideal multi-source spreading, we leverage the behavioral patterns of users extracted from data to construct "virtual" information spreading processes. Our results demonstrate that the set of spreaders selected by CI can induce larger scale of information propagation. Moreover, local measures as the number of connections or citations are not necessarily the deterministic factors of nodes' importance in realistic information spreading. This result has significance for rankings scientists in scientific networks like the APS, where the commonly used number of citations can be a poor indicator of the collective influence of authors in the community.
+C1 [Teng, Xian; Morone, Flaviano; Makse, Hernan A.] CUNY City Coll, Levich Inst, New York, NY 10031 USA.
+   [Teng, Xian; Morone, Flaviano; Makse, Hernan A.] CUNY City Coll, Dept Phys, New York, NY 10031 USA.
+   [Pei, Sen] Columbia Univ, Dept Environm Hlth Sci, Mailman Sch Publ Hlth, New York, NY 10032 USA.
+C3 City University of New York (CUNY) System; City College of New York
+   (CUNY); City University of New York (CUNY) System; City College of New
+   York (CUNY); Columbia University
+RP Makse, HA (corresponding author), CUNY City Coll, Levich Inst, New York, NY 10031 USA.; Makse, HA (corresponding author), CUNY City Coll, Dept Phys, New York, NY 10031 USA.
+EM hmakse@lev.ccny.cuny.edu
+RI Makse, Hernan/KPA-9630-2024; Pei, Sen/AAN-8662-2020
+OI Teng, Xiangbin/0000-0001-5360-4957; Pei, Sen/0000-0002-7072-2995
+FU NIH-NIGMS [1R21GM107641]; NSF-PoLS [PHY-1305476]; ARL Cooperative
+   Agreement [W911NF-09-2-0053]; ARL Network Science CTA
+FX This work was supported by NIH-NIGMS 1R21GM107641, NSF-PoLS PHY-1305476
+   and ARL Cooperative Agreement Number W911NF-09-2-0053, the ARL Network
+   Science CTA. We thank Lev Muchnik for providing the data on LiveJournal.
+CR Albert R, 2000, NATURE, V406, P378, DOI 10.1038/35019019
+   Altarelli F, 2013, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2013/09/P09011
+   Angel O, 2015, T AM MATH SOC, V367, P4287
+   [Anonymous], ARXIV160602739
+   Bhatia N. P., 2002, Stability theory of dynamical systems
+   Bianconi G, 2014, PHYS REV E, V89, DOI 10.1103/PhysRevE.89.062814
+   Bollobas Bela, 2006, Percolation, DOI DOI 10.1017/CBO9781139167383
+   Brin S, 1998, COMPUT NETWORKS ISDN, V30, P107, DOI 10.1016/S0169-7552(98)00110-X
+   Carmi S, 2007, P NATL ACAD SCI USA, V104, P11150, DOI 10.1073/pnas.0701175104
+   Cheng J, 2014, WWW'14: PROCEEDINGS OF THE 23RD INTERNATIONAL CONFERENCE ON WORLD WIDE WEB, P925, DOI 10.1145/2566486.2567997
+   Colizza V, 2006, NAT PHYS, V2, P110, DOI 10.1038/nphys209
+   Dorogovtsev SN, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.040601
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   FREEMAN LC, 1977, SOCIOMETRY, V40, P35, DOI 10.2307/3033543
+   Goel S., 2012, P 13 ACM C EL COMM, P623
+   Hashimoto Ki-ichiro, 1989, ADV STUD PURE MATH, V15, P211
+   Iyengar R, 2011, MARKET SCI, V30, P195, DOI 10.1287/mksc.1100.0566
+   Karrer B, 2014, PHYS REV LETT, V113, DOI 10.1103/PhysRevLett.113.208702
+   Kitsak M, 2010, NAT PHYS, V6, P888, DOI [10.1038/NPHYS1746, 10.1038/nphys1746]
+   Leskovec J, 2007, KDD-2007 PROCEEDINGS OF THE THIRTEENTH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P420
+   Morone F., 2016, ARXIV160206238
+   Morone F, 2016, SCI REP-UK, V6, DOI 10.1038/srep30062
+   Morone F, 2015, NATURE, V524, P65, DOI 10.1038/nature14604
+   Muchnik L, 2013, SCI REP-UK, V3, DOI 10.1038/srep01783
+   Newman MEJ, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.016128
+   Pastor-Satorras R, 2001, PHYS REV LETT, V86, P3200, DOI 10.1103/PhysRevLett.86.3200
+   Pei S, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0126894
+   Pei S, 2014, SCI REP-UK, V4, DOI 10.1038/srep05547
+   Pei S, 2013, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2013/12/P12002
+   Radicchi F, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.056103
+   Richardson M, 2002, KDD
+   Tardos, 2003, P 9 ACM SIGKDD INT C, P137, DOI 10.1145/956750.956769
+   Valente TW, 1999, ANN AM ACAD POLIT SS, V566, P55, DOI 10.1177/0002716299566001005
+   Van den Bulte C, 2007, MARKET SCI, V26, P400, DOI 10.1287/mksc.1060.0224
+   Viswanath B, 2009, 2ND ACM SIGCOMM WORKSHOP ON ONLINE SOCIAL NETWORKS (WOSN 09), P37
+   Wacker D, 2013, SCIENCE, V340, P615, DOI 10.1126/science.1232808
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   Watts DJ, 2002, P NATL ACAD SCI USA, V99, P5766, DOI 10.1073/pnas.082090499
+   Watts DJ, 2007, J CONSUM RES, V34, P441, DOI 10.1086/518527
+   Yan S, 2015, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2015/08/P08010
+   Yan S, 2014, PHYS REV E, V90, DOI 10.1103/PhysRevE.90.022808
+NR 41
+TC 42
+Z9 46
+U1 0
+U2 19
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD OCT 26
+PY 2016
+VL 6
+AR 36043
+DI 10.1038/srep36043
+PG 11
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA EA3AJ
+UT WOS:000386469600001
+PM 27713546
+OA gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Utz, S
+   Jankowski, J
+AF Utz, Sonja
+   Jankowski, Jaroslaw
+TI Making "Friends" in a Virtual World: The Role of Preferential
+   Attachment, Homophily, and Status
+SO SOCIAL SCIENCE COMPUTER REVIEW
+LA English
+DT Article
+DE friendship formation; homophily; preferential attachment; status;
+   virtual worlds
+ID SOCIAL NETWORKS; POPULARITY; ADOLESCENTS; SELECTION
+AB Graphical virtual worlds add two new layers to the old question what determines friendship formation. First, it is possible to distinguish between off-line (player) and online (avatar) characteristics. Second, these environments offer new possibilities for studying friendship formation. By tracking friendship requests and their acceptance rate, researchers are able to distinguish between with whom players want to become friends and with whom they actually do become friends. This article examined friendship formation in Timik, a graphical virtual world targeted at Polish teenagers. Homophily, preferential attachment and status were tested as possible underlying mechanisms. Results showed that preferential attachment and status drove invitations: Players wanted to become friends with high-status players. However, high-status players were also more likely to reject offers. Homophily only played a minor role. Players preferred players of the same avatar class and similar age but of the opposite sex. Too similar avatars were disliked. The results are discussed in the light of the generalizability of off-line theories of friendship formation to online worlds.
+C1 [Utz, Sonja] Leibniz Inst Wissensmedien, ERC Social Media, Res Grp, Tubingen, Germany.
+   [Utz, Sonja] Univ Tubingen, Commun Via Social Media, Tubingen, Germany.
+   [Jankowski, Jaroslaw] Wroclaw Univ Technol, Wroclaw, Poland.
+   [Jankowski, Jaroslaw] West Pomeranian Univ Technol, Fac Comp Sci, Szczecin, Poland.
+C3 Leibniz Institut fur Wissensmedien; Eberhard Karls University of
+   Tubingen; Wroclaw University of Science & Technology; West Pomeranian
+   University of Technology
+RP Utz, S (corresponding author), Leibniz Inst Fuer Wiussensmedien, ERC Social Media, Schleichstr 6, D-72076 Tubingen, Germany.
+EM s.utz@iwm-tuebingen.de; jjankowski@wi.zut.edu.pl
+RI Utz, Sonja/B-7256-2008
+OI Utz, Sonja/0000-0002-7979-3554
+FU National Science Centre [DEC-2013/09/B/ST6/02317]; ENGINE project
+   infrastructure, EU FP7 [316097]
+FX The work was partially supported by The National Science Centre the
+   research project 2014-2017 decision no. DEC-2013/09/B/ST6/02317 with
+   support of the ENGINE project infrastructure, EU FP7, grant no. 316097.
+CR Banakou Domna., 2010, Journal For Virtual Worlds Research, V2
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Boyd d., 2006, First Monday
+   BREWER MB, 1991, PERS SOC PSYCHOL B, V17, P475, DOI 10.1177/0146167291175001
+   Bruckman A.S., 1993, HIGH NOON ELECT FRON, P317
+   Byrne D., 1969, ADV EXP SOC PSYCHOL, P35, DOI DOI 10.1016/S0065-2601(08)60076-3
+   Chesney T, 2014, COMMUN ASSOC INF SYS, V34, P1397
+   Dijkstra JK, 2013, DEV PSYCHOL, V49, P1242, DOI 10.1037/a0030098
+   Dijkstra JK, 2010, J RES ADOLESCENCE, V20, P942, DOI 10.1111/j.1532-7795.2010.00671.x
+   Dubrovsk V. J., 1991, Human-Computer Interaction, V6, P119, DOI 10.1207/s15327051hci0602_2
+   Dunn M.J., 2014, Journal of Evolutionary Psychology, V12, P1, DOI [10.1556/JEP.12.2014.1.1, DOI 10.1556/JEP.12.2014.1.1, 10.1556/jep.12.2014.1.1]
+   Fearon JD, 2003, J ECON GROWTH, V8, P195, DOI 10.1023/A:1024419522867
+   Gebauer JE, 2012, SOC PSYCHOL PERS SCI, V3, P590, DOI 10.1177/1948550611431644
+   Hartup W W, 1993, New Dir Child Dev, P3, DOI 10.1002/cd.23219936003
+   Hu HB, 2012, PHYSICA A, V391, P1877, DOI 10.1016/j.physa.2011.10.020
+   Junzhou Zhao, 2011, IEEE INFOCOM 2011 - IEEE Conference on Computer Communications. Workshops, P924, DOI 10.1109/INFCOMW.2011.5928945
+   Kafai Y., 2008, Beyond Barbie and Moral Kombat: New Perspectives on Gender and Gaming, P111
+   KANDEL DB, 1978, J PERS SOC PSYCHOL, V36, P306, DOI 10.1037/0022-3514.36.3.306
+   KANDEL DB, 1978, AM J SOCIOL, V84, P427, DOI 10.1086/226792
+   Lin N, 1999, ANNU REV SOCIOL, V25, P467, DOI 10.1146/annurev.soc.25.1.467
+   Mazur E, 2011, J APPL DEV PSYCHOL, V32, P180, DOI 10.1016/j.appdev.2011.03.001
+   McKenna KYA, 2000, PERS SOC PSYCHOL REV, V4, P57, DOI 10.1207/S15327957PSPR0401_6
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mislove A., 2008, WOSN
+   Parks M. R., 2010, 60 ANN ICA C SING SI
+   Parks MR, 1998, J SOC PERS RELAT, V15, P517, DOI 10.1177/0265407598154005
+   Reicher S., 1995, EUR REV SOC PSYCHOL, P161, DOI DOI 10.1080/14792779443000049
+   Rivera MT, 2010, ANNU REV SOCIOL, V36, P91, DOI 10.1146/annurev.soc.34.040507.134743
+   Santor DA, 2000, J YOUTH ADOLESCENCE, V29, P163, DOI 10.1023/A:1005152515264
+   Sears DO, 2005, ADV EXP SOC PSYCHOL, V37, P95, DOI 10.1016/S0065-2601(05)37002-X
+   Trepte Sabine, 2010, Journal of Media Psychology, V22, P171, DOI [10.1027/1864-1105/a000022, DOI 10.1027/1864-1105/A000022]
+   Utz S, 2012, CYBERPSYCH BEH SOC N, V15, P37, DOI 10.1089/cyber.2010.0651
+   Utz S, 2010, J COMPUT-MEDIAT COMM, V15, P314, DOI 10.1111/j.1083-6101.2010.01522.x
+   Walther J.B., 2002, The Handbook of Interpersonal Communication, V3, P529, DOI DOI 10.1177/0893318916687397
+   Walther JB, 2008, HUM COMMUN RES, V34, P28, DOI 10.1111/j.1468-2958.2007.00312.x
+   Zhang YI, 2009, IEEE IMAGE PROC, P3549, DOI 10.1109/ICIP.2009.5414338
+   Zhao S., 2006, Journal of Computer-Mediated Communication, V11, P844, DOI [10.1111/j.1083-6101.2006.00038.x, DOI 10.1111/J.1083-6101.2006.00038.X]
+NR 37
+TC 13
+Z9 13
+U1 4
+U2 37
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0894-4393
+EI 1552-8286
+J9 SOC SCI COMPUT REV
+JI Soc. Sci. Comput. Rev.
+PD OCT
+PY 2016
+VL 34
+IS 5
+BP 546
+EP 566
+DI 10.1177/0894439315605476
+PG 21
+WC Computer Science, Interdisciplinary Applications; Information Science &
+   Library Science; Social Sciences, Interdisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science; Information Science & Library Science; Social Sciences
+   - Other Topics
+GA DV4TK
+UT WOS:000382917800003
+DA 2024-11-22
+ER
+
+PT J
+AU Dávid-Barrett, T
+   Izquierdo, IB
+   Carney, J
+   Nowak, K
+   Launay, J
+   Rotkirch, A
+AF David-Barrett, T.
+   Izquierdo, I. Behncke
+   Carney, J.
+   Nowak, K.
+   Launay, J.
+   Rotkirch, A.
+TI Life course similarities on social networking sites
+SO ADVANCES IN LIFE COURSE RESEARCH
+LA English
+DT Article
+DE Social networks; Social media; Life course; Homophily; Mating; Marriage;
+   Parenthood; Female bonds
+ID ATTITUDE SIMILARITY; SEX-DIFFERENCES; INTERPERSONAL-ATTRACTION;
+   PROXIMITY; EVOLUTION; METAANALYSIS; PARENTHOOD; FACEBOOK; BEHAVIOR;
+   SUPPORT
+AB Dyadic social relations are known to exhibit homophily - attraction and bonding between similar individuals - and recent studies have detected homophily also on the social network level. Here, we investigate whether social media networks exhibit signs of homophily with regards to life stages. Using a large and global database (N = 111,863) of social media profile pictures, we investigate proportions of picture types in an individual's social network. Typical stages of young adulthood include peer group formation, mate searching, union formation, and parenting. We studied to what extent different association categories with pictures of one or several individuals correlated with each other. Results showed that users with a profile picture of a single individual were more likely to have other profile pictures of single individuals of the opposite sex, but not of the same sex, in their social media network. Profile pictures of heterosexual couples were more likely to appear with other heterosexual couple pictures, and profiles with baby pictures were strongly associated with the frequency of other baby pictures within the same network; both of these types were negatively associated with the frequency of pictures of singles. Pictures of two females together were positively linked with the largest number of other association types. The results probably reflect both selection and contagion effects. We conclude that contemporary social media networks appear to exhibit homophily in displays related to mate searching, pair bonds, and the transition to parenthood. (C) 2016 Elsevier Ltd. All rights reserved.
+C1 [David-Barrett, T.; Izquierdo, I. Behncke; Carney, J.; Launay, J.] Univ Oxford, Dept Expt Psychol, South Parks Rd, Oxford OX1 3UD, England.
+   [David-Barrett, T.] Kiel Inst World Econ, Kiellinie 66, D-24105 Kiel, Germany.
+   [Nowak, K.] Univ Durham, Dept Anthropol, South Rd, Durham DH1 3LE, England.
+   [David-Barrett, T.; Rotkirch, A.] Vaestoliitto, Populat Res Inst, Kalevankatu 16, Helsinki 00101, Finland.
+C3 University of Oxford; Institut fur Weltwirtschaft an der Universitat
+   Kiel (IFW); Durham University
+RP Dávid-Barrett, T (corresponding author), Univ Oxford, Dept Expt Psychol, South Parks Rd, Oxford OX1 3UD, England.
+EM tamas.david-barrett@psy.ox.ac.uk
+RI Nowak, Katarzyna/AAT-5468-2021; Launay, Jacques/O-1381-2015
+OI Nowak, Katarzyna/0000-0002-4992-7910; David-Barrett,
+   Tamas/0000-0002-8979-3136; Launay, Jacques/0000-0002-4266-6834; Carney,
+   James/0000-0001-6064-7867
+FU European Union [288021]; Academy of Finland [266898]; European Research
+   Council [295663]
+FX This work was supported by the European Union FP7 under grant number
+   288021; by the Academy of Finland Research Project 266898; and by the
+   European Research Council Advanced Grant under grant number 295663.
+CR Alvergne A, 2009, HORM BEHAV, V56, P491, DOI 10.1016/j.yhbeh.2009.07.013
+   Alwin DF, 2012, J GERONTOL B-PSYCHOL, V67, P206, DOI 10.1093/geronb/gbr146
+   [Anonymous], 2003, HDB LIFE COURSE
+   [Anonymous], 2015, Dimensions of human behavior: The changing life course
+   Back MD, 2010, PSYCHOL SCI, V21, P372, DOI 10.1177/0956797609360756
+   BELSKY J, 1984, J MARRIAGE FAM, V46, P455, DOI 10.2307/352477
+   Burt RS, 2000, SOC NETWORKS, V22, P1, DOI 10.1016/S0378-8733(99)00015-5
+   BYRNE D, 1962, J PERS, V30, P164, DOI 10.1111/j.1467-6494.1962.tb01683.x
+   BYRNE D, 1961, J ABNORM SOC PSYCH, V62, P713, DOI 10.1037/h0044721
+   Byrne D, 1997, J SOC PERS RELAT, V14, P417, DOI 10.1177/0265407597143008
+   BYRNE D, 1971, HUM RELAT, V24, P201, DOI 10.1177/001872677102400302
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   David-Barrett T., 2016, PHYS SOC
+   David-Barrett T, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0118329
+   DeScioli P, 2009, PLOS ONE, V4, DOI 10.1371/journal.pone.0005802
+   ELDER GH, 1994, SOC PSYCHOL QUART, V57, P4
+   Fiore A., 2005, Homophily in online dating: When do you like someone like yourself?
+   FREEMAN LC, 1994, SOC COGNITION, V12, P223, DOI 10.1521/soco.1994.12.3.223
+   Geary DC, 2001, PARENT-SCI PRACT, V1, P5, DOI 10.1207/S15327922PAR011&2_2
+   Geary DC, 2003, DEV REV, V23, P444, DOI 10.1016/j.dr.2003.08.001
+   Hall JA, 2011, J SOC PERS RELAT, V28, P723, DOI 10.1177/0265407510386192
+   Hill K, 1999, ANNU REV ANTHROPOL, V28, P397, DOI 10.1146/annurev.anthro.28.1.397
+   Hrdy S.B., 2009, Mothers and others: The evolutionary origins of mutual understanding
+   IBARRA H, 1992, ADMIN SCI QUART, V37, P422, DOI 10.2307/2393451
+   JO HH, 2014, SCI REPORTS, V4
+   Kahn R.L., 1980, LIFE SPAN DEV BEHAV, P253, DOI DOI 10.1038/NATURE12518
+   KALMIJN M, 1994, AM J SOCIOL, V100, P422, DOI 10.1086/230542
+   Kalmijn M, 2003, SOC NETWORKS, V25, P231, DOI 10.1016/S0378-8733(03)00010-8
+   Kalmijn M, 2012, ADV LIFE COURSE RES, V17, P177, DOI 10.1016/j.alcr.2012.08.002
+   KAPLAN MF, 1973, J PERS SOC PSYCHOL, V28, P301, DOI 10.1037/h0035112
+   Launay Jacques, 2015, EVOL HUM BEHAV, V36, P36, DOI DOI 10.1016/J.EV0LHUMBEHAY.2014.08.005
+   Lee CM, 2001, INT J INTERCULT REL, V25, P373, DOI 10.1016/S0147-1767(01)00011-6
+   Lewis K, 2012, P NATL ACAD SCI USA, V109, P68, DOI 10.1073/pnas.1109739109
+   Lois D, 2014, ADV LIFE COURSE RES, V21, P123, DOI 10.1016/j.alcr.2013.10.001
+   Lyngstad TH, 2010, DEMOGRAPHY, V47, P923, DOI 10.1007/BF03213733
+   MARE RD, 1991, AM SOCIOL REV, V56, P15, DOI 10.2307/2095670
+   McDermott R, 2013, SOC FORCES, V92, P491, DOI 10.1093/sf/sot096
+   McElreath R, 2003, CURR ANTHROPOL, V44, P122, DOI 10.1086/345689
+   MCPHERSON JM, 1987, AM SOCIOL REV, V52, P370, DOI 10.2307/2095356
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Montoya RM, 2013, J SOC PERS RELAT, V30, P64, DOI 10.1177/0265407512452989
+   Munch-Rotolo A. C., 2000, CHILDREARING SOCIAL
+   Park JH, 2005, EVOL HUM BEHAV, V26, P158, DOI 10.1016/j.evolhumbehav.2004.08.013
+   Rivera MT, 2010, ANNU REV SOCIOL, V36, P91, DOI 10.1146/annurev.soc.34.040507.134743
+   Rose AJ, 2006, PSYCHOL BULL, V132, P98, DOI 10.1037/0033-2909.132.1.98
+   Schafer MH, 2015, J GERONTOL B-PSYCHOL, V70, P100, DOI 10.1093/geronb/gbu043
+   TUMA NB, 1979, SOC FORCES, V57, P1265, DOI 10.2307/2577270
+   Virpi L., 2009, OXFORD HDB EVOLUTION
+   Welbers K, 2014, AM BEHAV SCI, V58, P1361, DOI 10.1177/0002764214527086
+   Wimmer A, 2010, AM J SOCIOL, V116, P583, DOI 10.1086/653658
+   Wrzus C, 2013, PSYCHOL BULL, V139, P53, DOI 10.1037/a0028601
+NR 51
+TC 5
+Z9 5
+U1 2
+U2 34
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1040-2608
+J9 ADV LIFE COURSE RES
+JI Adv. Life Course Res.
+PD DEC
+PY 2016
+VL 30
+BP 84
+EP 89
+DI 10.1016/j.alcr.2016.04.002
+PG 6
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA EG0RI
+UT WOS:000390739500007
+OA Green Accepted, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Lerman, K
+   Yan, XR
+   Wu, XZ
+AF Lerman, Kristina
+   Yan, Xiaoran
+   Wu, Xin-Zeng
+TI The "Majority Illusion" in Social Networks
+SO PLOS ONE
+LA English
+DT Article
+ID DYNAMICS; BEHAVIOR; SPREAD; GRAPHS; MODEL
+AB Individual's decisions, from what product to buy to whether to engage in risky behavior, often depend on the choices, behaviors, or states of other people. People, however, rarely have global knowledge of the states of others, but must estimate them from the local observations of their social contacts. Network structure can significantly distort individual's local observations. Under some conditions, a state that is globally rare in a network may be dramatically over-represented in the local neighborhoods of many individuals. This effect, which we call the "majority illusion," leads individuals to systematically overestimate the prevalence of that state, which may accelerate the spread of social contagions. We develop a statistical model that quantifies this effect and validate it with measurements in synthetic and real-world networks. We show that the illusion is exacerbated in networks with a heterogeneous degree distribution and disassortative structure.
+C1 [Lerman, Kristina; Yan, Xiaoran; Wu, Xin-Zeng] USC Informat Sci Inst, Marina Del Rey, CA USA.
+   [Wu, Xin-Zeng] Univ So Calif, Dept Phys & Astron, Los Angeles, CA USA.
+   [Yan, Xiaoran] Indiana Univ, Network Sci Inst, Bloomington, IN USA.
+C3 University of Southern California; University of Southern California;
+   Indiana University System; Indiana University Bloomington
+RP Lerman, K (corresponding author), USC Informat Sci Inst, Marina Del Rey, CA USA.
+EM lerman@isi.edu
+RI Lerman, Kristina/P-5138-2019; Lerman, Kristina/F-4198-2010
+OI Lerman, Kristina/0000-0002-5071-0575
+FU Air Force Office of Scientific Research [FA9550-10-1-0569]; National
+   Science Foundation [CIF-1217605]; Defense Advanced Research Projects
+   Agency [W911NF-12-1-0034]; AFOSR [FA9550-10-1-0569]; NSF [CIF-1217605];
+   DARPA [W911NF-12-1-0034]; Division of Computing and Communication
+   Foundations; Direct For Computer & Info Scie & Enginr [1217605] Funding
+   Source: National Science Foundation
+FX This work was supported in part by Air Force Office of Scientific
+   Research (contract FA9550-10-1-0569), by the National Science Foundation
+   (grant CIF-1217605) and by Defense Advanced Research Projects Agency
+   (contract W911NF-12-1-0034). The funders had no role in study design,
+   data collection and analysis, decision to publish, or preparation of the
+   manuscript. Authors are grateful to Nathan Hodas and Farshad Kooti for
+   their inputs into this work. This work was supported in part by AFOSR
+   (contract FA9550-10-1-0569), by NSF (grant CIF-1217605) and by DARPA
+   (contract W911NF-12-1-0034).
+CR Achlioptas D., 2005, P 37 ACM S THEOR COM
+   Adamic L.A., 2005, P 3 INT WORKSH LINK, P36, DOI DOI 10.1145/1134271.1134277
+   [Anonymous], SOCIAL FORCES
+   [Anonymous], INT C SOC COMP BEH M
+   [Anonymous], ASE IEEE INT C SOC C
+   [Anonymous], INT C WEBL SOC MED I
+   [Anonymous], 2015, Theory of Computing, DOI DOI 10.4086/TOC.2015.V011A004
+   [Anonymous], P 7 INT AAAI C WEBL
+   BAER JS, 1991, J STUD ALCOHOL, V52, P580, DOI 10.15288/jsa.1991.52.580
+   BENDER EA, 1978, J COMB THEORY A, V24, P296, DOI 10.1016/0097-3165(78)90059-6
+   Bettencourt LMA, 2006, PHYSICA A, V364, P513, DOI 10.1016/j.physa.2005.08.083
+   Centola D, 2005, AM J SOCIOL, V110, P1009, DOI 10.1086/427321
+   Centola D, 2007, PHYSICA A, V374, P449, DOI 10.1016/j.physa.2006.06.018
+   Centola D, 2015, P NATL ACAD SCI USA, V112, P1989, DOI 10.1073/pnas.1418838112
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Cohen R, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.247901
+   Eom YH, 2014, SCI REP-UK, V4, DOI 10.1038/srep04603
+   Feld S.L., 1977, RES HIGH EDUC, V6, P215
+   FELD SL, 1991, AM J SOCIOL, V96, P1464, DOI 10.1086/229693
+   Galam S., 2013, Global Economics and Management Review, V18, P2, DOI DOI 10.1016/S2340-1540(13)70002-1
+   Garcia-Herranz M, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0092413
+   GRANOVETTER M, 1978, AM J SOCIOL, V83, P1420, DOI 10.1086/226707
+   Hogg T, 2012, EPJ DATA SCI, V1, DOI 10.1140/epjds5
+   Jo HH, 2014, PHYS REV E, V90, DOI 10.1103/PhysRevE.90.022809
+   Joshi-Tope G, 2005, NUCLEIC ACIDS RES, V33, pD428, DOI 10.1093/nar/gki072
+   Kim DA, 2015, LANCET, V386, P145, DOI 10.1016/S0140-6736(15)60095-2
+   Kitts JA, 2003, SOC PSYCHOL QUART, V66, P222, DOI 10.2307/1519823
+   Klimt B, 2004, LECT NOTES COMPUT SC, V3201, P217
+   LATANE B, 1969, AM SCI, V57, P244
+   Leskovec J., 2007, ACM T KNOWL DISCOV D, P2
+   Lloyd-Smith JO, 2005, NATURE, V438, P355, DOI 10.1038/nature04153
+   MARKS G, 1987, PSYCHOL BULL, V102, P72, DOI 10.1037/0033-2909.102.1.72
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mednick SC, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0009775
+   MILLER DT, 1994, PERS SOC PSYCHOL B, V20, P541, DOI 10.1177/0146167294205011
+   MOLLOY M, 1995, RANDOM STRUCT ALGOR, V6, P161, DOI 10.1002/rsa.3240060204
+   Newman MEJ, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.208701
+   PRENTICE DA, 1993, J PERS SOC PSYCHOL, V64, P243, DOI 10.1037/0022-3514.64.2.243
+   Rogers E.M., 2003, DIFFUSION INNOVATION
+   Salganik MJ, 2011, SOC NETWORKS, V33, P70, DOI 10.1016/j.socnet.2010.10.006
+   Salganik MJ, 2006, SCIENCE, V311, P854, DOI 10.1126/science.1121066
+   SCHELLING TC, 1973, J CONFLICT RESOLUT, V17, P381, DOI 10.1177/002200277301700302
+   Stewart, 2005, CHANGING CULTURE COL, P193
+   TVERSKY A, 1973, COGNITIVE PSYCHOL, V5, P207, DOI 10.1016/0010-0285(73)90033-9
+   Valente Thomas W., 1995, Quantitative Methods in Communication
+   Watts DJ, 2002, P NATL ACAD SCI USA, V99, P5766, DOI 10.1073/pnas.082090499
+   Young HP, 2011, P NATL ACAD SCI USA, V108, P21285, DOI 10.1073/pnas.1100973108
+NR 47
+TC 121
+Z9 137
+U1 4
+U2 20
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD FEB 17
+PY 2016
+VL 11
+IS 2
+AR e0147617
+DI 10.1371/journal.pone.0147617
+PG 13
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA DF3BJ
+UT WOS:000371218400007
+PM 26886112
+OA gold, Green Published, Green Submitted
+DA 2024-11-22
+ER

@@ -1,0 +1,772 @@
+
+PT J
+AU Cheng, MX
+   Yin, CZ
+   Nazarian, S
+   Bogdan, P
+AF Cheng, Mingxi
+   Yin, Chenzhong
+   Nazarian, Shahin
+   Bogdan, Paul
+TI Deciphering the laws of social network-transcendent COVID-19
+   misinformation dynamics and implications for combating misinformation
+   phenomena
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID COMPLEX; DISTRIBUTIONS; CENTRALITY
+AB The global rise of COVID-19 health risk has triggered the related misinformation infodemic. We present the first analysis of COVID-19 misinformation networks and determine few of its implications. Firstly, we analyze the spread trends of COVID-19 misinformation and discover that the COVID-19 misinformation statistics are well fitted by a log-normal distribution. Secondly, we form misinformation networks by taking individual misinformation as a node and similarity between misinformation nodes as links, and we decipher the laws of COVID-19 misinformation network evolution: (1) We discover that misinformation evolves to optimize the network information transfer over time with the sacrifice of robustness. (2) We demonstrate the co-existence of fit get richer and rich get richer phenomena in misinformation networks. (3) We show that a misinformation network evolution with node deletion mechanism captures well the public attention shift on social media. Lastly, we present a network science inspired deep learning framework to accurately predict which Twitter posts are likely to become central nodes (i.e., high centrality) in a misinformation network from only one sentence without the need to know the whole network topology. With the network analysis and the central node prediction, we propose that if we correctly suppress certain central nodes in the misinformation network, the information transfer of network would be severely impacted.
+C1 [Cheng, Mingxi; Yin, Chenzhong; Nazarian, Shahin; Bogdan, Paul] Univ Southern Calif, Los Angeles, CA 90007 USA.
+C3 University of Southern California
+RP Bogdan, P (corresponding author), Univ Southern Calif, Los Angeles, CA 90007 USA.
+EM pbogdan@usc.edu
+RI Yin, Chenzhong/JED-7116-2023; Bogdan, Paul/ITT-2991-2023
+FU National Science Foundation [CPS/CNS-1453860]; NSF [CCF-1837131,
+   MCB-1936775, CNS-1932620, CMMI 1936624]; DARPA Young Faculty Award;
+   DARPA Director's Fellowship Award [N66001-17-1-4044]; Northrop Grumman
+   grant
+FX The authors gratefully acknowledge the support by the National Science
+   Foundation under the Career AwardCPS/CNS-1453860, the NSF award under
+   Grant Numbers CCF-1837131, MCB-1936775, CNS-1932620, andCMMI 1936624,
+   the DARPA Young Faculty Award and DARPA Director's Fellowship Award,
+   under GrantNumber N66001-17-1-4044, and a Northrop Grumman grant. The
+   views, opinions, and/or findings contained inthis article are those of
+   the authors and should not be interpreted as representing the official
+   views or policies,either expressed or implied by the Defense Advanced
+   Research Projects Agency, the Department of Defense orthe National
+   Science Foundation.
+CR Acerbi A, 2019, PALGR COMMUN, V5, DOI 10.1057/s41599-019-0224-y
+   Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   Albert R, 2000, NATURE, V406, P378, DOI 10.1038/35019019
+   Alstott J, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0085777
+   Ronda-Pupo GA, 2018, SCIENTOMETRICS, V116, P363, DOI 10.1007/s11192-018-2761-3
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Bianconi G, 2001, EUROPHYS LETT, V54, P436, DOI 10.1209/epl/i2001-00260-6
+   Bianconi G, 2001, PHYS REV LETT, V86, P5632, DOI 10.1103/PhysRevLett.86.5632
+   Borgatti SP, 2005, SOC NETWORKS, V27, P55, DOI 10.1016/j.socnet.2004.11.008
+   Bovet A, 2019, NAT COMMUN, V10, DOI 10.1038/s41467-018-07761-2
+   Cancho RFI, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.051915
+   Caulfield Timothy, 2020, Nature, DOI 10.1038/d41586-020-01266-z
+   Cheng M, FRONT PSYCHOL, V12, P1566
+   Cheng MX, 2021, SCI REP-UK, V11, DOI 10.1038/s41598-021-84993-1
+   Cheng MX, 2020, WEB CONFERENCE 2020: PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE (WWW 2020), P2892, DOI 10.1145/3366423.3380054
+   Clauset A, 2018, SCI ADV, V4, DOI 10.1126/sciadv.aao3580
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   de Arruda HF, 2018, J COMPLEX NETW, V6, P125, DOI 10.1093/comnet/cnx023
+   De Masi G, 2006, PHYS REV E, V74, DOI 10.1103/PhysRevE.74.066112
+   Del Vicario M, 2019, ACM T WEB, V13, DOI 10.1145/3316809
+   Donovan Joan, 2020, Nature, DOI 10.1038/d41586-020-01107-z
+   Fleming N, 2020, NATURE, V583, P155, DOI 10.1038/d41586-020-01834-3
+   Hagberg A.A., 2008, EXPLORING NETWORK ST, P11, DOI DOI 10.1016/J.JELECTROCARD.2010.09.003
+   Hartley K, 2020, POLICY SCI, V53, P735, DOI 10.1007/s11077-020-09405-z
+   HORNER RD, 1987, AM J EPIDEMIOL, V126, P409, DOI 10.1093/oxfordjournals.aje.a114672
+   Kermarrec AM, 2011, COMPUT COMMUN, V34, P619, DOI 10.1016/j.comcom.2010.06.007
+   Kong JS, 2008, P NATL ACAD SCI USA, V105, P13724, DOI 10.1073/pnas.0805921105
+   Krapivsky PL, 2000, PHYS REV LETT, V85, P4629, DOI 10.1103/PhysRevLett.85.4629
+   Kwon S, 2013, IEEE DATA MINING, P1103, DOI 10.1109/ICDM.2013.61
+   Larson HJ, 2020, NATURE, V580, P306, DOI 10.1038/d41586-020-00920-w
+   Leskovec J, 2014, MINING OF MASSIVE DATASETS, 2ND EDITION, P1
+   Limpert E, 2001, BIOSCIENCE, V51, P341, DOI 10.1641/0006-3568(2001)051[0341:LNDATS]2.0.CO;2
+   Maggie M, 2020, GOOGLE SPEND 65 MILL
+   Meta-Facebook, 2021, COMB MIS
+   Metz JA, 1995, Adaptive dynamics: a geometrical study of the consequences of nearly faithful reproduction
+   Newman M.E.J., 2010, Networks: an introduction
+   Newman MEJ, 2005, SOC NETWORKS, V27, P39, DOI 10.1016/j.socnet.2004.11.009
+   Opsahl T, 2010, SOC NETWORKS, V32, P245, DOI 10.1016/j.socnet.2010.03.006
+   Pham T, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0137796
+   Pierri F, 2020, SCI REP-UK, V10, DOI 10.1038/s41598-020-58166-5
+   Qazvinian V., 2011, P C EMP METH NAT LAN, P1589, DOI DOI 10.5555/2145432.2145602
+   Radhakrishnan S, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0172778
+   Reimers N, 2019, P 2019 C EMP METH NA
+   Sharma K, 2019, ACM T INTEL SYST TEC, V10, DOI 10.1145/3305260
+   Sharma Karishma, 2020, Covid-19 on social media: Analyzing misinformation in twitter conversations.
+   Sigman M, 2002, P NATL ACAD SCI USA, V99, P1742, DOI 10.1073/pnas.022341799
+   Solomon S., 1999, ARXIVCONMAT9901250
+   Steyvers M, 2005, COGNITIVE SCI, V29, P41, DOI 10.1207/s15516709cog2901_3
+   Subhra P, 2020, NATURE INDIA, V583, P155
+   SUN K., 2004, Explanation of log-normal distributions and power-law distributions in biology and social science
+   Pham T, 2016, SCI REP-UK, V6, DOI 10.1038/srep32558
+   Tony R, 2020, Facebook will remove misinformation about coronavirus
+   Twitter S., 2021, TWITTER
+   USC L. Melady, 2020, COR SOC MED MISINF A
+   Vosoughi S, 2018, SCIENCE, V359, P1146, DOI 10.1126/science.aap9559
+   Williams CB, 1940, BIOMETRIKA, V31, P356, DOI 10.2307/2332615
+   Xue Y., 2019, NAT COMMUN, V10, P1, DOI [10.1038/s41467-018-07882-8, DOI 10.1038/S41467-018-07882-8]
+   Xue YK, 2017, SCI REP-UK, V7, DOI 10.1038/s41598-017-07209-5
+   Yang RL, 2020, SCI REP-UK, V10, DOI [10.1038/s41598-019-56901-1, 10.1038/s41598-020-62380-6]
+   Yin CZ, 2020, SCI REP-UK, V10, DOI 10.1038/s41598-020-72013-7
+   Yule GU, 1925, PHILOS T R SOC LON B, V213, P21, DOI 10.1098/rstb.1925.0002
+   Zhao ZL, 2020, EPJ DATA SCI, V9, DOI 10.1140/epjds/s13688-020-00224-z
+NR 62
+TC 17
+Z9 17
+U1 1
+U2 36
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD MAY 17
+PY 2021
+VL 11
+IS 1
+AR 10424
+DI 10.1038/s41598-021-89202-7
+PG 14
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA SN6YC
+UT WOS:000658433000003
+PM 34001937
+OA gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Li, N
+   Huang, Q
+   Ge, XY
+   He, M
+   Cui, SQ
+   Huang, PL
+   Li, SR
+   Fung, SF
+AF Li, Ning
+   Huang, Qian
+   Ge, Xiaoyu
+   He, Miao
+   Cui, Shuqin
+   Huang, Penglin
+   Li, Shuairan
+   Fung, Sai-Fu
+TI A Review of the Research Progress of Social Network Structure
+SO COMPLEXITY
+LA English
+DT Review
+AB Social network theory is an important paradigm of social structure research, which has been widely used in various fields of research. This paper reviews the development process and the latest progress of social network theory research and analyzes the research application of social network. In order to reveal the deep social structure, this paper analyzes the structure of social networks from three levels: microlevel, mesolevel, and macrolevel and reveals the origin, development, perfection, and latest achievements of complex network models. The regular graph model, P1 model, P2 model, exponential random graph model, small-world network model, and scale-free network model are introduced. In the end, the research on the social network structure is reviewed, and social support network and social discussion network are introduced, which are two important contents of social network research. At present, the research on social networks has been widely used in coauthor networks, citation networks, mobile social networks, enterprise knowledge management, and individual happiness, but there are few research studies on multilevel structure, dynamic research, complex network research, whole network research, and discussion network research. This provides space for future research on social networks.
+C1 [Li, Ning; Huang, Qian; He, Miao; Li, Shuairan] Xian Phys Educ Univ, Xian 710065, Peoples R China.
+   [Ge, Xiaoyu] Shanghai Univ Sport, Shanghai 200444, Peoples R China.
+   [Cui, Shuqin] Xian Univ Architecture & Technol, Sport Coll, Xian 710311, Peoples R China.
+   [Huang, Penglin] Shandong Sport Univ, Jinan 250063, Peoples R China.
+   [Fung, Sai-Fu] City Univ Hong Kong, Kowloon, Hong Kong, Peoples R China.
+C3 Xi'an Physical Education University; Shanghai University of Sport; Xi'an
+   University of Architecture & Technology; Shandong Sport University; City
+   University of Hong Kong
+RP Huang, Q (corresponding author), Xian Phys Educ Univ, Xian 710065, Peoples R China.
+EM lining960408@foxmail.com; huangqian168@126.com; 820609305@qq.com;
+   490908095@qq.com; 1633962717@qq.com; 1461535900@qq.com;
+   1929939308@qq.com; sffung@cityu.edu.hk
+RI Fung, Sai-fu/V-2808-2019
+OI Fung, Sai-fu/0000-0002-3526-6568; Huang, Qian/0000-0002-9666-6741; Li,
+   shuairan/0000-0003-3303-1930; Li, Ning/0000-0001-5012-0324
+FU National Natural Science Foundation of China [61440036, 61040029];
+   National Social Science Foundation of China [16ATY002]
+FX This work was supported in part by the National Natural Science
+   Foundation of China under Grant nos. 61440036 and 61040029 and the
+   National Social Science Foundation of China under Grant no. 16ATY002.
+CR [Anonymous], 2004, Chinese Social Sciences
+   [Anonymous], 2013, SCALE FREE NETWORKS
+   [Anonymous], 1992, Structural holes
+   [Anonymous], 2002, P INT C DISTR COMP S
+   Arnaboldi V., 2016, COMPUT COMMUN
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barnes JA, 1954, HUM RELAT, V7, P39, DOI 10.1177/001872675400700102
+   Bian Y., 2013, J HUM, V201, P107, DOI [10.15895/j.cnki.rwzz.2013.01.016, DOI 10.15895/J.CNKI.RWZZ.2013.01.016]
+   Biswas A, 2015, EXPERT SYST APPL, V42, P6913, DOI 10.1016/j.eswa.2015.05.009
+   Bo L.I., 2017, J BEIJING SPORT U, V40, P112
+   Bollobas B., 1985, RANDOM GRAPHS
+   Brandes U, 2016, SOC NETWORKS, V44, P153, DOI 10.1016/j.socnet.2015.08.003
+   Buyukkececi Z, 2021, ADV LIFE COURSE RES, V47, DOI 10.1016/j.alcr.2020.100359
+   CALVOARMENGOL A, 2005, SOC NETWORKS, V57, P500, DOI DOI 10.1016/J.JUE.2005.01.001
+   Cao R., 2014, APPL NONLINEAR COMPL
+   Carey Henry C, 1858, Principles of Social Science
+   Casquero O., 2016, UTILIZING VIRTUAL PE
+   Chakraborty S, 2016, INTELL DATA ANAL, V20, P543, DOI 10.3233/IDA-160819
+   Chen A., 2012, J JINLING SCI TECHNO, V28, P30
+   COBB S, 1976, PSYCHOSOM MED, V38, P300, DOI 10.1097/00006842-197609000-00003
+   Cohen Philip., 2004, New Scientist
+   Cook S, 2020, J HUM BEHAV SOC ENVI, V30, P816, DOI 10.1080/10911359.2020.1747585
+   Dao V.L., 2020, COMMUNITY STRUCTURE
+   [杜海峰 DU Hai-feng], 2009, [系统工程理论与实践, Systems Engineering-Theory & Practice], V29, P162
+   DUIJN MAJ, 2004, J AM STAT ASSOC, V58, P234, DOI DOI 10.1046/J.0039-0402.2003.00258.X
+   Ebel Holger, 2002, Complexity, V8, P24, DOI 10.1002/cplx.10066
+   Emmanuel J., 2015, ANN PROBABILITY OFFI, V45, P1680
+   ERDOS P, 1960, B INT STATIST INST, V38, P343
+   Ertem Z, 2016, SOC NETWORKS, V46, P1, DOI 10.1016/j.socnet.2016.01.001
+   Fang C., 2017, SCI TECHNOLOGY PROGR, V34, P80
+   Fang L., 2016, J CENTRAL CHINA NORM, V55, P54
+   Feldman Yang, 2006, CHIN J POPUL RESOUR, P19
+   Fernández-Peña R, 2018, INT J ENV RES PUB HE, V15, DOI 10.3390/ijerph15122695
+   Frank O., 2010, STAT NEERL, V45, P283
+   Friedman J.R., 1966, REGIONAL DEV POLICY
+   Gallos LK, 2007, PHYSICA A, V386, P686, DOI 10.1016/j.physa.2007.07.069
+   Ghosh R, 2014, DISCRETE CONT DYN-B, V19, P1355, DOI 10.3934/dcdsb.2014.19.1355
+   Gjoka M., P IEEE INFOCOM MAY T
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Gu H., 2006, RES IND CLUSTER UPGR
+   Guichan Y., 2015, SCI TECH INFORM DEV, V25, P109
+   GUPTA N, 2016, COMPUT STRUCT BIOTEC, V37, P1271, DOI DOI 10.1002/JOB.2104
+   HANSON BS, 1994, COMMUNITY DENT ORAL, V22, P331, DOI 10.1111/j.1600-0528.1994.tb02063.x
+   Hoffmann CP, 2016, J ASSOC INF SCI TECH, V67, P765, DOI 10.1002/asi.23423
+   HOLLAND PW, 1981, J AM STAT ASSOC, V76, P33, DOI 10.2307/2287037
+   Hong S.H., 2017, P PAC VIS S APR 2017
+   HU Y, 2021, AM SOCIOL REV, V542, P156, DOI DOI 10.1016/J.INS.2020.06.067
+   Huang L.J., 2020, J PSYCHOL, V15, P238
+   Hussein D, 2015, IEEE INTERNET COMPUT, V19, P12, DOI 10.1109/MIC.2015.27
+   Jia J., 2018, RANDOM SPATIAL NETWO
+   Jian-Rong W., 2015, CHINESE PHYS B, V24, P115
+   Jianyu Z., 2015, MANAG REV, V27, P70
+   JIMENEZ A, 2008, SOC NETWORKS, V15, P389, DOI DOI 10.5194/NPG-15-389-2008
+   Jin X., 2008, POPULATION RES, P67
+   Kereri JO, 2019, J CONSTR ENG M, V145, DOI 10.1061/(ASCE)CO.1943-7862.0001628
+   Korshunov A., 2014, SOCIAL NETWORK ANAL
+   Leonard R, 2015, BMJ SUPPORT PALLIAT, V5, P153, DOI 10.1136/bmjspcare-2012-000257
+   Li M.N., 2014, China Management Informationization, V17, P133
+   LI Z, 2019, INFORM SCIENCES, V2019, DOI DOI 10.1155/2019/6325654
+   Liang Y., 2015, FINANCIAL TEACHING R, P71
+   Lin J R., 2009, Social Network Analysis: Theory, Method and Application
+   Lin N., 2002, SOCIAL CAPITAL THEOR
+   Linyuan L., 2015, P NAT AC SCI US AM J
+   Liu J., 2004, An Introduction to Social Network Analysis
+   [刘星 Liu Xing], 2018, [计算机应用研究, Application Research of Computers], V35, P3584
+   Liu Y., 2014, SCI COMPLEX SYSTEMS, V11, P54
+   LUPTON R, 2017, J URBAN ECON, V39, P585
+   Magnani M., 2016, ENCY SOCIAL NETWORK
+   MARSDEN PV, 1987, POLIT BEHAV, V52, P122, DOI DOI 10.2307/2095397
+   Matsumura T., 2018, P IEEE INT C BIG DAT
+   Mehrle D, 2015, NETW SCI, V3, P348, DOI 10.1017/nws.2015.20
+   Miao ZQ, 2017, NETWORKS, V69, P388, DOI 10.1002/net.21745
+   Mukerjee S., 2019, SSRN ELECT J, DOI [10.2139/ssrn.3368603, DOI 10.2139/SSRN.3368603]
+   Newman MEJ, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.026113
+   Oh SK, 2018, KEDI J EDUC POLICY, V15, P21
+   Peng W., 2017, CHINA HUMAN RESOURCE, P57
+   PONTEN SC, 2007, PHYS REV LETT, V118, P918, DOI DOI 10.1016/J.CLINPH.2006.12.002
+   Ren Y., 2008, SOCIETY, P20
+   ROXIN A, 2004, TRENDS COGN SCI, V92, DOI DOI 10.1103/PHYSREVLETT.92.198101
+   Ruan D., 1990, CHINESE SOCIAL SCI
+   Scott J., 2011, The SAGE Handbook of Social Network Analysis
+   Shu Li., 2020, MINIATURE MICROCOMPU, V41, P1935
+   Shuiyuan X., 1987, Chinese Journal of Mental Health, V1, P183
+   SNIJDERS TAB, 2013, PSYCHOMETRIKA, V35, P265, DOI DOI 10.1016/J.SOCNET.2012.05.005
+   SPORNS O, 2004, NONLINEAR PROC GEOPH, V8, P418, DOI DOI 10.1016/J.TICS.2004.07.008
+   Sun L., 2010, EMPIRICAL STUDY INFL
+   Tabassum S., 2018, SOCIAL NETWORK ANAL
+   Tang X., 2012, J MANAGEMENT ENG, V32, P54
+   Tao YC., 2014, Popul Econ, V3, P3, DOI DOI 10.3969/J.ISSN.1000-4149.2014.03.001
+   TAYLOR NR, 2013, SCIENCE, V5, P1, DOI DOI 10.5936/CSBJ.201302006
+   Tortoriello M, 2015, STRATEGIC MANAGE J, V36, P586, DOI 10.1002/smj.2228
+   Valente TW, 2017, ANNU REV PUBL HEALTH, V38, P103, DOI 10.1146/annurev-publhealth-031816-044528
+   van der Hofstad R., 2017, Random graphs and complex networks, V1, DOI DOI 10.1017/9781316779422
+   VANDERPOEL MGM, 1993, SOC NETWORKS, V15, P49, DOI 10.1016/0378-8733(93)90021-C
+   VARGAS R, 2016, PHYS REV E, V6, P49, DOI DOI 10.1007/S13278-016-0361-X
+   Wang D., 2008, MODERN INTELLIGENCE, P153
+   Wang P., 2006, PNet: A program for the simulation and estimation of exponential random graph models
+   Wang S., 2016, WORLD DEV, V90
+   [王运明 Wang Yunming], 2017, [火力与指挥控制, Fire Control & Command Control], V42, P59
+   WASSERMAN S, 1996, STAT NEERL, V61, P401, DOI DOI 10.1007/BF02294547
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Weiyan Z., 2015, J JINING MED U, V38, P421
+   Wellman B., 1988, Social structures: A network approach
+   Xie YB, 2008, PHYSICA A, V387, P1683, DOI 10.1016/j.physa.2007.11.005
+   XIONG F, 2012, COMPLEXITY, V376, P2103, DOI DOI 10.1016/J.PHYSLETA.2012.05.021
+   Yang G., 2019, BOOKS INFORM WORK, V63, P100
+   Youbing Z., 2014, GEOPHYS J INT, V1, P5618
+   Zarei B, 2020, COMPUT INTELL-US, V36, P824, DOI 10.1111/coin.12273
+   Zhang J., 2017, P 2017 2 INT C MOD S
+   Zhang K., 2016, J SYST MANAGE, V25, P1083
+   Zhang L., 2018, RES DYNAMIC EVOLUTIO
+   Zhang S., 2019, THINK TANK AGE, P264
+   Zhang Z., 2020, J HENAN LIB, V40, P10
+   Zhen-Ya L., 2018, MODERN PREVENTIVE ME, V45, P1039
+   Zhongming H., 2015, J SHANDONG U ENG SCI, V45, P1
+   Zhou L., 2005, J GUANGXI NORMAL U, V33, P11
+   Zhou T., 2020, J INFORM RESOURCE MA, V10, P59
+   Zhu J., 2018, P 2018 9 INT C INF T
+NR 118
+TC 21
+Z9 21
+U1 34
+U2 309
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1076-2787
+EI 1099-0526
+J9 COMPLEXITY
+JI Complexity
+PD JAN 8
+PY 2021
+VL 2021
+AR 6692210
+DI 10.1155/2021/6692210
+PG 14
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Science & Technology - Other Topics
+GA PY1PR
+UT WOS:000611822500002
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Sigler, T
+   Martinus, K
+   Iacopini, I
+   Derudder, B
+   Loginova, J
+AF Sigler, Thomas
+   Martinus, Kirsten
+   Iacopini, Iacopo
+   Derudder, Ben
+   Loginova, Julia
+TI The structural architecture of international industry networks in the
+   global economy
+SO PLOS ONE
+LA English
+DT Article
+ID WORLD; CITIES; GLOBALIZATION; DYNAMICS; SYSTEM; FINANCIALIZATION;
+   REGIONALIZATION; MULTINATIONALS; EMBEDDEDNESS; CONNECTIONS
+AB Globalisation continuously produces novel economic relationships mediated by flows of goods, services, capital, and information between countries. The activity of multinational corporations (MNCs) has become a primary driver of globalisation, shaping these relationships through vast networks of firms and their subsidiaries. Extensive empirical research has suggested that globalisation is not a singular process, and that variation in the intensity of international economic interactions can be captured by 'multiple globalisations', however how this differs across industry sectors has remained unclear. This paper analyses how sectoral variation in the 'structural architecture' of international economic relations can be understood using a combination of social network analysis (SNA) measures based on firm-subsidiary ownership linkages. Applying an approach that combines network-level measures (Density, Clustering, Degree, Assortativity) in ways yet to be explored in the spatial networks literature, a typology of four idealised international network structures is presented to allow for comparison between sectors. All sectoral networks were found to be disassortative, indicating that international networks based on intraorganisational ties are characterised by a core-periphery structure, with professional services sectors such as Banks and Insurance being the most hierarchically differentiated. Retail sector networks, including Food & Staples Retailing, are the least clustered while the two most clustered networks-Materials and Capital Goods-have also the highest average degree, evidence of their extensive globalisations. Our findings suggest that the multiple globalisations characterising international economic interactions can be better understood through the 'structural architecture' of sectoral variation, which result from the advantages conferred by cross-border activity within each.
+C1 [Sigler, Thomas; Loginova, Julia] Univ Queensland, Sch Earth & Environm Sci, St Lucia, Qld, Australia.
+   [Martinus, Kirsten] Univ Western Australia, Ctr Reg Dev, Crawley, WA, Australia.
+   [Iacopini, Iacopo] UCL, Ctr Adv Spatial Anal, London, England.
+   [Iacopini, Iacopo] Queen Mary Univ London, Sch Math Sci, London, England.
+   [Iacopini, Iacopo] British Lib, Alan Turing Inst, London, England.
+   [Derudder, Ben] Katholieke Univ Leuven, Publ Governance Inst, Leuven, Belgium.
+C3 University of Queensland; University of Western Australia; University of
+   London; University College London; University of London; Queen Mary
+   University London; KU Leuven
+RP Sigler, T (corresponding author), Univ Queensland, Sch Earth & Environm Sci, St Lucia, Qld, Australia.
+EM t.sigler@uq.edu.au
+RI Derudder, Ben/ABH-5648-2020; Sigler, Thomas/AAI-9723-2020; Iacopini,
+   Iacopo/AAG-2656-2020; Martinus, Kirsten/H-5379-2014
+OI Martinus, Kirsten/0000-0001-9727-7310; Loginova,
+   Julia/0000-0002-1304-5967; Iacopini, Iacopo/0000-0001-8794-6410; Sigler,
+   Thomas/0000-0002-7789-0916; Derudder, Ben/0000-0001-6195-8544
+FU Australian Research Council (ARC) [DP170104359]; ARC [DE170100727];
+   United Kingdom Regions Digital Research Facility (RDRF) Urban Dynamics
+   Lab under Engineering and Physical Sciences Research Council (EPSRC)
+   [EP/M023583/1]; EPSRC [EP/NO13492/1]; Alan Turing Institute under the
+   EPSRC [EP/N510129/1]; Flemish Fund for Scientific Research (FWO)
+   [G0A9617N]
+FX T.S., K.M, B.D. and J.L. acknowledge support from the Australian
+   Research Council (ARC) (Grant No. DP170104359). K.M. was also supported
+   by Grant No. DE170100727 from the ARC. I.I. acknowledges support from
+   the United Kingdom Regions Digital Research Facility (RDRF)Urban
+   Dynamics Lab under Engineering and Physical Sciences Research Council
+   (EPSRC) Grant No. EP/M023583/1, from EPSRC Grant No. EP/NO13492/1, and
+   from The Alan Turing Institute under the EPSRC Grant No. EP/N510129/1.
+   B.D. acknowledges support from the Flemish Fund for Scientific Research
+   (FWO) (Grant No. G0A9617N) The funders had no role in study design, data
+   collection and analysis, decision to publish, or preparation of the
+   manuscript.
+CR Acemoglu D, 2012, ECONOMETRICA, V80, P1977, DOI 10.3982/ECTA9623
+   Agnew J, 1999, MILLENNIUM-J INT ST, V28, P499, DOI 10.1177/03058298990280030701
+   Agnew J, 1994, REV INT POLIT ECON, V1, P53, DOI 10.1080/09692299408434268
+   Allen J, 2010, URBAN STUD, V47, P2895, DOI 10.1177/0042098010377364
+   [Anonymous], 2009, GLOBALIZATION QUESTI
+   [Anonymous], 1999, INT J-TORONTO
+   [Anonymous], 2019, BUREAU DIJKS OSIRIS
+   [Anonymous], 2016, TRAD DEV REP
+   Balland PA, 2016, ECON GEOGR, V92, P35, DOI 10.1080/00130095.2015.1094370
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barigozzi M, 2011, COMM COM INF SC, V116, P163
+   Battiston F, 2018, J R SOC INTERFACE, V15, DOI 10.1098/rsif.2018.0514
+   Battiston F, 2014, PHYS REV E, V89, DOI 10.1103/PhysRevE.89.032804
+   Beugelsdijk S, 2010, J ECON GEOGR, V10, P485, DOI 10.1093/jeg/lbq018
+   Blöchl F, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.046127
+   Blondel VD, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/10/P10008
+   Boccaletti S, 2006, PHYS REP, V424, P175, DOI 10.1016/j.physrep.2005.10.009
+   Boccaletti S, 2014, PHYS REP, V544, P1, DOI 10.1016/j.physrep.2014.07.001
+   Bolivar LM, 2019, INT BUS REV
+   Bonaglia F, 2007, J WORLD BUS, V42, P369, DOI 10.1016/j.jwb.2007.06.001
+   Borgatti SP, 2009, SCIENCE, V323, P892, DOI 10.1126/science.1165821
+   Boschma RA, 2005, REG STUD, V39, P61, DOI 10.1080/0034340052000320887
+   Braham F, 2011, 607 EC RES FOR
+   Breul M, 2019, REG STUD REG SCI, V6, P25, DOI 10.1080/21681376.2018.1564628
+   Bridge G, 2008, J ECON GEOGR, V8, P389, DOI 10.1093/jeg/lbn009
+   Bryan D, 2017, REV INT POLIT ECON, V24, P56, DOI 10.1080/09692290.2016.1262446
+   Cerina F, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0134025
+   Csermely P, 2013, J COMPLEX NETW, V1, P93, DOI 10.1093/comnet/cnt016
+   de Jeude JAV, 2019, NEW J PHYS, V21, DOI 10.1088/1367-2630/ab022d
+   De Lombaerde P, 2018, NETW SCI, V6, P494, DOI 10.1017/nws.2018.25
+   Dicken P., 2011, Global Shift: Transforming the world economy
+   Dunning JH, 2008, MULTINATIONAL ENTERPRISES AND THE GLOBAL ECONOMY, 2ND EDITION
+   Dunning J H., 1977, The international allocation of economic activity
+   Ekeledo I, 2004, INT MARKET REV, V21, P68, DOI 10.1108/02651330410522943
+   Ernstson H, 2008, ECOL SOC, V13
+   Fagiolo G, 2008, PHYSICA A, V387, P3868, DOI 10.1016/j.physa.2008.01.050
+   Friedman TL., 2005, WORLD IS FLAT BRIEF
+   Giddens A., 1986, Capital Class, V10, P216
+   Glattfelder JB, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.036104
+   Graham M., 2013, Dialogues in Human Geography, V3, P255, DOI DOI 10.1177/2043820613513121
+   Greenberg S, 2017, J PEASANT STUD, V44, P467, DOI 10.1080/03066150.2016.1259223
+   Groβkurth P, 2019, MNE FIND THEM INTERT
+   Guillon J, 2019, NETW NEUROSCI, V3, P635, DOI 10.1162/netn_a_00087
+   Hausmann R, 2011, J ECON GROWTH, V16, P309, DOI 10.1007/s10887-011-9071-4
+   HEDLUND G, 1986, HUM RESOURCE MANAGE, V25, P9, DOI 10.1002/hrm.3930250103
+   Heemskerk E, 2018, GLOBAL NETW, V18, P3, DOI 10.1111/glob.12183
+   Hess M, 2006, ENVIRON PLANN A, V38, P1205, DOI 10.1068/a38168
+   Hidalgo CA, 2007, SCIENCE, V317, P482, DOI 10.1126/science.1144581
+   Hymer S., 1972, EC WORLD ORDER 1970, P113, DOI DOI 10.1016/j.ufug.2014.07.002
+   Hymer SH., 1976, INT OPERATION NATL F
+   Johnston R.J., 1976, WORLD TRADE SYSTEM S
+   Jones A, 2005, J ECON GEOGR, V5, P177, DOI 10.1093/jnlecg/lbh039
+   Joyez C, 2017, PHYSICA A, V473, P578, DOI 10.1016/j.physa.2017.01.014
+   Kali R, 2007, J INT BUS STUD, V38, P595, DOI 10.1057/palgrave.jibs.8400286
+   Kanellopoulos K, 2017, SOC MOVEMENT STUD, V16, P101, DOI 10.1080/14742837.2016.1153464
+   Kivela M, 2014, J COMPLEX NETW, V2, P203, DOI 10.1093/comnet/cnu016
+   Klemm K, 2005, P NATL ACAD SCI USA, V102, P18414, DOI 10.1073/pnas.0509132102
+   Knox P., 1995, World Cities in a World-System
+   Krätke S, 2014, GLOBAL NETW, V14, P121, DOI 10.1111/glob.12036
+   Krätke S, 2004, EUR PLAN STUD, V12, P459, DOI 10.1080/0965431042000212731
+   Kurt Y, 2020, INT BUS REV, V29, DOI 10.1016/j.ibusrev.2019.101633
+   Lapavitsas C, 2013, CAMB J REG ECON SOC, V6, P359, DOI 10.1093/cjres/rst019
+   Liu XJ, 2012, GEOGR ANAL, V44, P171, DOI 10.1111/j.1538-4632.2012.00844.x
+   Luo J, 2011, FIRM STRATEGIES INFL
+   Ma A, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0119678
+   Martinus K, 2018, REG STUD, V52, P1041, DOI 10.1080/00343404.2017.1314457
+   Martinus K, 2015, GEOFORUM, V64, P78, DOI 10.1016/j.geoforum.2015.06.006
+   McNerney J, 2013, PHYSICA A, V392, P6427, DOI 10.1016/j.physa.2013.07.063
+   MERTON RK, 1968, SCIENCE, V159, P56, DOI 10.1126/science.159.3810.56
+   Nemeth Roger J., 1985, Rev Fernand Braudel Center, V8, P517
+   Newman MEJ, 2003, PHYS REV E, V67, DOI 10.1103/PhysRevE.67.026126
+   Olesen T., 2005, Current Sociology, V53, P419
+   Parker R, 2018, ECON GEOGR, V94, P49, DOI 10.1080/00130095.2017.1330118
+   Pumain D, 2006, METHODS SER, V3, P1, DOI 10.1007/1-4020-4127-6
+   Reichardt J, 2006, PHYS REV E, V74, DOI 10.1103/PhysRevE.74.016110
+   Rozenblat C, 2018, ADV GEOGR EVIRON SCI, P19, DOI 10.1007/978-981-10-7799-9_2
+   Rozenblat C, 2017, GLOBAL NETW, V17, P171, DOI 10.1111/glob.12130
+   Rozenblat C, 2007, QUESTION CITIES, P124
+   Rugman AM, 2004, J INT BUS STUD, V35, P3, DOI 10.1057/palgrave.jibs.8400073
+   Saarenketo S, 2008, TECHNOVATION, V28, P591, DOI 10.1016/j.technovation.2007.12.003
+   SACHS JD, 1995, BROOKINGS PAP ECO AC, P1
+   SAWER M, 1994, AUST J POLIT SCI, V29, P435, DOI 10.1080/00323269408402306
+   Serrano MA, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.015101
+   Sigler T, 2020, REG STUD, V54, P621, DOI 10.1080/00343404.2019.1602257
+   SMITH DA, 1992, SOC FORCES, V70, P857, DOI 10.2307/2580193
+   Smith M., 2018, Networks of International Trade and Investment: Understanding globalisation through the lens of network analysis, P1
+   SNYDER D, 1979, AM J SOCIOL, V84, P1096, DOI 10.1086/226902
+   Storper M, 2004, J ECON GEOGR, V4, P351, DOI 10.1093/jnlecg/lbh027
+   Storper Michael., 2000, The Oxford Handbook of Economic Geography, P146
+   Takes Frank W, 2018, Appl Netw Sci, V3, P39, DOI 10.1007/s41109-018-0094-z
+   Takes FW, 2016, SOC NETW ANAL MIN, V6, DOI 10.1007/s13278-016-0402-5
+   Taylor P. J., 2015, WORLD CITY NETWORK G
+   Taylor PJ, 2013, T I BRIT GEOGR, V38, P497, DOI 10.1111/j.1475-5661.2012.00545.x
+   TAYLOR PJ, 1994, PROG HUM GEOG, V18, P151, DOI 10.1177/030913259401800202
+   Ter Wal ALJ, 2009, ANN REGIONAL SCI, V43, P739, DOI 10.1007/s00168-008-0258-3
+   van Meeteren M, 2016, INT J URBAN REGIONAL, V40, P62, DOI 10.1111/1468-2427.12344
+   Vitali S, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0104655
+   Vitali S, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0025995
+   Wall RS, 2011, ECON GEOGR, V87, P267, DOI 10.1111/j.1944-8287.2011.01122.x
+   WALLERSTEIN I, 1974, COMP STUD SOC HIST, V16, P387, DOI 10.1017/S0010417500007520
+   Wrigley N, 2003, OXFORD HDB EC GEOGRA, P293
+   Xu XK, 2010, PHYS REV E, V82, DOI 10.1103/PhysRevE.82.046117
+   Yergin Daniel., 1998, The Commanding Heights: The Battle between Government and the Marketplace That Is Remaking the Modern World
+   Yule GU, 1925, PHILOS T R SOC LON B, V213, P21, DOI 10.1098/rstb.1925.0002
+NR 104
+TC 7
+Z9 7
+U1 1
+U2 21
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PY 2021
+VL 16
+IS 8
+AR e0255450
+DI 10.1371/journal.pone.0255450
+PG 25
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA UC2NW
+UT WOS:000686370000014
+PM 34398876
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Tóth, G
+   Wachs, J
+   Di Clemente, R
+   Jakobi, A
+   Ságvári, B
+   Kertész, J
+   Lengyel, B
+AF Toth, Gergo
+   Wachs, Johannes
+   Di Clemente, Riccardo
+   Jakobi, Akos
+   Sagvari, Bence
+   Kertesz, Janos
+   Lengyel, Balazs
+TI Inequality is rising where social network segregation interacts with
+   urban topology
+SO NATURE COMMUNICATIONS
+LA English
+DT Article
+ID INCOME INEQUALITY; MOBILITY; THINGS
+AB Social networks amplify inequalities by fundamental mechanisms of social tie formation such as homophily and triadic closure. These forces sharpen social segregation, which is reflected in fragmented social network structure. Geographical impediments such as distance and physical or administrative boundaries also reinforce social segregation. Yet, less is known about the joint relationships between social network structure, urban geography, and inequality. In this paper we analyze an online social network and find that the fragmentation of social networks is significantly higher in towns in which residential neighborhoods are divided by physical barriers such as rivers and railroads. Towns in which neighborhoods are relatively distant from the center of town and amenities are spatially concentrated are also more socially segregated. Using a two-stage model, we show that these urban geography features have significant relationships with income inequality via social network fragmentation. In other words, the geographic features of a place can compound economic inequalities via social networks. Not much is known about the joint relationships between social network structure, urban geography, and inequality. Here, the authors analyze an online social network and find that the fragmentation of social networks is significantly higher in towns in which residential neighborhoods are divided by physical barriers such as rivers and railroads.
+C1 [Toth, Gergo; Kertesz, Janos; Lengyel, Balazs] Ctr Econ & Reg Studies, Agglomerat & Social Networks Lendulet Res Grp, Budapest, Hungary.
+   [Toth, Gergo] Univ Coll Dublin, Spatial Dynam Lab, Dublin, Ireland.
+   [Wachs, Johannes] Vienna Univ Econ & Business, Inst Data Proc & Knowledge Management, Vienna, Austria.
+   [Wachs, Johannes] Complex Sci Hub Vienna, Vienna, Austria.
+   [Di Clemente, Riccardo] Univ Exeter, Dept Comp Sci, Exeter, Devon, England.
+   [Di Clemente, Riccardo] UCL, Ctr Adv Spatial Anal, London, England.
+   [Jakobi, Akos] Eotvos Lorand Univ, Dept Reg Sci, Budapest, Hungary.
+   [Jakobi, Akos] Inst Adv Studies, Koszeg, Hungary.
+   [Sagvari, Bence] Ctr Social Sci, CSS Recens, Budapest, Hungary.
+   [Sagvari, Bence; Lengyel, Balazs] Int Business Sch Budapest, Budapest, Hungary.
+   [Kertesz, Janos] Cent European Univ, Dept Network & Data Sci, Budapest, Hungary.
+   [Lengyel, Balazs] Budapest Corvinus Univ, Corvinus Inst Adv Studies, NETI Lab, Budapest, Hungary.
+C3 Hungarian Academy of Sciences; Hungarian Research Network; HUN-REN
+   Centre for Economic & Regional Studies; University College Dublin;
+   Vienna University of Economics & Business; University of Exeter;
+   University of London; University College London; Eotvos Lorand
+   University; Hungarian Academy of Sciences; Hungarian Research Network;
+   HUN-REN Centre for Social Sciences; Central European University;
+   Corvinus University Budapest
+RP Lengyel, B (corresponding author), Ctr Econ & Reg Studies, Agglomerat & Social Networks Lendulet Res Grp, Budapest, Hungary.; Lengyel, B (corresponding author), Int Business Sch Budapest, Budapest, Hungary.; Lengyel, B (corresponding author), Budapest Corvinus Univ, Corvinus Inst Adv Studies, NETI Lab, Budapest, Hungary.
+EM lengyel.balazs@krtk.hu
+RI Kertesz, Janos/JHS-3903-2023; Toth, Gergo/Q-1133-2019; Sagvari,
+   Bence/L-7317-2019; Di Clemente, Riccardo/N-9471-2014; Wachs,
+   Johannes/W-1768-2017
+OI Sagvari, Bence/0000-0001-5862-4789; Lengyel, Balazs/0000-0001-5196-5599;
+   Di Clemente, Riccardo/0000-0001-8005-6351; Toth,
+   Gergo/0000-0003-4461-0065; Wachs, Johannes/0000-0002-9044-2018
+FU National Office for Researcher and Innovation [OTKA K129124]; Royal
+   Society; British Academy; Academy of Medical Sciences (Newton
+   International Fellowship) [NF170505]; Science Foundation Ireland, SFI
+   Science Policy Research Programme [17/SPR/5324]; Science Foundation
+   Ireland (SFI) [17/SPR/5324] Funding Source: Science Foundation Ireland
+   (SFI)
+FX The authors wish to thank Zoltan Elekes, Sandor Juhasz, Eszter Bokanyi,
+   and Laszlo Czaller for their comments and suggestions. We acknowledge
+   the significant assistance of our illustrator Szabolcs Toth-Zs. in
+   finalizing our primary figures. B.S., J.K., a.J., and B.L. acknowledge
+   financial support received from National Office for Researcher and
+   Innovation (OTKA K129124). R.D.C. as Newton International Fellow of the
+   Royal Society acknowledges support from the Royal Society, the British
+   Academy, and the Academy of Medical Sciences (Newton International
+   Fellowship, NF170505). G.T. acknowledges the support from the Science
+   Foundation Ireland, SFI Science Policy Research Programme (No.
+   17/SPR/5324).
+CR Abadie A, 2006, AM ECON REV, V96, P50, DOI 10.1257/000282806777211847
+   ALESINA A, 1994, Q J ECON, V109, P465, DOI 10.2307/2118470
+   Alonso William., 1964, Location and land use. Toward a general theory of land rent.
+   Ananat EO, 2011, AM ECON J-APPL ECON, V3, P34, DOI 10.1257/app.3.2.34
+   Angrist JD, 2001, J ECON PERSPECT, V15, P69, DOI 10.1257/jep.15.4.69
+   [Anonymous], 1949, Human behaviour and the principle of least-effort
+   Bailey M, 2018, J ECON PERSPECT, V32, P259, DOI 10.1257/jep.32.3.259
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Benton M, 2018, J URBAN HIST, V44, P1113, DOI 10.1177/0096144217696988
+   Bianconi G, 2014, PHYS REV E, V90, DOI 10.1103/PhysRevE.90.042806
+   Bischoff K, 2008, URBAN AFF REV, V44, P182, DOI 10.1177/1078087408320651
+   Blondel VD, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/10/P10008
+   Borgatti SP, 2009, SCIENCE, V323, P892, DOI 10.1126/science.1165821
+   Brueckner JK, 1999, EUR ECON REV, V43, P91, DOI 10.1016/S0014-2921(98)00019-1
+   Calabrese F, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0020814
+   Caldeira TeresaPR., 2012, The Urban Sociology Reader, P419
+   Carmona M., 2012, Public Places - Urban Spaces
+   Chetty R, 2014, Q J ECON, V129, P1553, DOI 10.1093/qje/qju022
+   Chodrow PS, 2017, P NATL ACAD SCI USA, V114, P11591, DOI 10.1073/pnas.1708201114
+   Cutler DM, 1997, Q J ECON, V112, P827, DOI 10.1162/003355397555361
+   Di Clemente R, 2018, NAT COMMUN, V9, DOI 10.1038/s41467-018-05690-8
+   DiMaggio P, 2012, ANNU REV SOCIOL, V38, P93, DOI 10.1146/annurev.soc.012809.102545
+   Eagle N, 2010, SCIENCE, V328, P1029, DOI 10.1126/science.1186605
+   Engler S, 2021, J EUR PUBLIC POLICY, V28, P153, DOI 10.1080/13501763.2020.1733636
+   Eriksson RH, 2019, ECON GEOGR, V95, P65, DOI 10.1080/00130095.2018.1498741
+   Expert P, 2011, P NATL ACAD SCI USA, V108, P7663, DOI 10.1073/pnas.1018962108
+   FREEMAN LC, 1978, SOCIOL METHOD RES, V6, P411, DOI 10.1177/004912417800600401
+   Glaeser EL, 2009, J REGIONAL SCI, V49, P617, DOI 10.1111/j.1467-9787.2009.00627.x
+   González MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   GRANOVETTER M, 1985, AM J SOCIOL, V91, P481, DOI 10.1086/228311
+   Hartmann D, 2017, WORLD DEV, V93, P75, DOI 10.1016/j.worlddev.2016.12.020
+   Heblich S, 2021, J POLIT ECON, V129, P1508, DOI 10.1086/713101
+   Helsley RW, 2014, J ECON THEORY, V150, P426, DOI 10.1016/j.jet.2013.09.009
+   Herrera-Yagüe C, 2015, SCI REP-UK, V5, DOI 10.1038/srep10265
+   Kawachi I, 1997, AM J PUBLIC HEALTH, V87, P1491, DOI 10.2105/AJPH.87.9.1491
+   Kleit RG, 2011, SOC NETWORKS, V33, P152, DOI 10.1016/j.socnet.2011.01.001
+   Kossinets G, 2009, AM J SOCIOL, V115, P405, DOI 10.1086/599247
+   Kuznets S, 1955, AM ECON REV, V45, P1
+   Lambiotte R, 2008, PHYSICA A, V387, P5317, DOI 10.1016/j.physa.2008.05.014
+   Lengyel B, 2015, MODERN TRENDS CARTOG, P227
+   Lengyel B, 2016, TIJDSCHR ECON SOC GE, V107, P298, DOI 10.1111/tesg.12150
+   Lengyel B, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0137248
+   Low SM, 2001, AM ANTHROPOL, V103, P45, DOI 10.1525/aa.2001.103.1.45
+   Lucas SR, 2001, AM J SOCIOL, V106, P1642, DOI 10.1086/321300
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Nagy M, 2002, PIT S PIT SZETTUDOM, V30, P123, DOI [10.1556/EpTud.30.2002.1-2.5, DOI 10.1556/EPTUD.30.2002.1-2.5]
+   Newman MEJ, 2006, P NATL ACAD SCI USA, V103, P8577, DOI 10.1073/pnas.0601602103
+   Noonan DS, 2005, URBAN STUD, V42, P1817, DOI 10.1080/00420980500231720
+   Norbutas L, 2018, SOC NETWORKS, V52, P120, DOI 10.1016/j.socnet.2017.06.002
+   Pan W, 2013, NAT COMMUN, V4, DOI 10.1038/ncomms2961
+   Pfeiffer D, 2016, J AM PLANN ASSOC, V82, P267, DOI 10.1080/01944363.2016.1166347
+   Picard PM, 2018, J URBAN ECON, V104, P77, DOI 10.1016/j.jue.2018.01.004
+   Piketty T, 2015, AM ECON REV, V105, P48, DOI 10.1257/aer.p20151060
+   Putnam R., 1999, BOWLING ALONE
+   Reardon SF, 2011, AM J SOCIOL, V116, P1092, DOI 10.1086/657114
+   Roberto E, 2015, ARXIV PREPRINT ARXIV
+   Ruettenauer T, 2019, URBAN STUD, V56, P2549, DOI 10.1177/0042098018795786
+   Sah P, 2017, P NATL ACAD SCI USA, V114, P4165, DOI 10.1073/pnas.1613616114
+   Sampson RJ, 2008, AM J SOCIOL, V114, P189, DOI 10.1086/589843
+   Schindler S, 2015, YALE LAW J, V124, P1934
+   Schläpfer M, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2013.0789
+   Sobolevsky S, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0081707
+   Stadtfeld C, 2018, EMERGING TRENDS SOCI, P1, DOI 10.1002/9781118900772.etrds0463
+   Storper M, 2004, J ECON GEOGR, V4, P351, DOI 10.1093/jnlecg/lbh027
+   Szelenyi Ivan., 1983, URBAN INEQUALITIES S
+   Wachs J, 2019, ROY SOC OPEN SCI, V6, DOI 10.1098/rsos.182103
+   WACHS M, 1973, SOCIO ECON PLAN SCI, V7, P437, DOI 10.1016/0038-0121(73)90041-4
+   Wang Q, 2018, P NATL ACAD SCI USA, V115, P7735, DOI 10.1073/pnas.1802537115
+   Wheeler CH, 2004, J ECON GEOGR, V4, P421, DOI 10.1093/jnlecg/lbh033
+   Williams SA, 2019, SOC SCI RES, V77, P68, DOI 10.1016/j.ssresearch.2018.10.008
+   Wright Erik Olin, 1997, Class Counts: Comparative Studies in Class Analysis
+   Zhang ML, 2020, URBAN STUD, V57, P2015, DOI 10.1177/0042098019860776
+   Zhao PJ, 2013, TIJDSCHR ECON SOC GE, V104, P571, DOI 10.1111/tesg.12030
+NR 73
+TC 68
+Z9 74
+U1 14
+U2 91
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+EI 2041-1723
+J9 NAT COMMUN
+JI Nat. Commun.
+PD FEB 18
+PY 2021
+VL 12
+IS 1
+AR 1143
+DI 10.1038/s41467-021-21465-0
+PG 9
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA QL9UT
+UT WOS:000621426600010
+PM 33602929
+OA gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Moshkovitz, K
+   Hayat, T
+AF Moshkovitz, Karin
+   Hayat, Tsahi
+TI The rich get richer: Extroverts' social capital on twitter
+SO TECHNOLOGY IN SOCIETY
+LA English
+DT Article
+DE Social network analysis; Social capital; Twitter
+ID NETWORK ANALYSIS; SITES; FACEBOOK; PERCEPTION; FRIENDS; IMPACT; USERS
+AB Previous studies have associated social capital to one's social networks. Yet, to the best of our knowledge, no previous studies have looked at the interplay between one's personality, twitter activity, and number of twitter followers; with his or her social capital. Therefore, this research paper examined a correlation between these dimensions, to see if potentially people with different personalities have different benefits from their Twitter based activity. Social capital was measured by a survey (N = 218), and number of Twitter followings was analyzed based on the social ties of participants on Twitter (these data were collected using a script developed for this purpose). Our findings indicate that there is a correlation between the frequency of Twitter use, extroversion and perceived online bridging social capital of users. In other words, extroverts gain more online social capital through their online followings (when compared to their introvert counterparts); when introverts and extroverts have the same network size, extroverts gain more social capital. Furthermore, when introverts and extroverts have the same network size and also use Twitter more frequently, extroverts gain more social capital. The use of online social networking sites is significant in terms of social capital benefits. Furthermore, our results support the 'Rich get Richer' model by showing that people who are social offline benefit from their sociability also online.
+C1 [Moshkovitz, Karin; Hayat, Tsahi] Interdisciplinary Ctr Herzliya, POB 167, IL-4610101 Herzliyya, Israel.
+C3 Reichman University
+RP Moshkovitz, K (corresponding author), Interdisciplinary Ctr Herzliya, POB 167, IL-4610101 Herzliyya, Israel.
+EM Karin.Moshkovitz@post.idc.ac.il; tsahi.hayat@idc.ac.il
+OI Moshkovitz, Karin/0000-0003-1177-1583
+CR Akhtar N, 2014, INT CONF COMM SYST, P388, DOI 10.1109/CSNT.2014.83
+   Amichai-Hamburger Y., 2017, The International Encyclopedia of Media Effects eds, DOI [10.1002/9781118783764.wbieme0170, DOI 10.1002/9781118783764.WBIEME0170]
+   Amichai-Hamburger Y, 2008, COMPUT HUM BEHAV, V24, P1907, DOI 10.1016/j.chb.2008.02.005
+   [Anonymous], MED CONS HAB SURV
+   Ashton MC, 2002, J PERS SOC PSYCHOL, V83, P245, DOI 10.1037//0022-3514.83.1.245
+   Bodas M, 2017, DISASTER MED PUBLIC, V11, P451, DOI 10.1017/dmp.2016.163
+   Bourdieu Pierre., 1984, DISTINCTION SOCIAL C, DOI DOI 10.1002/9780470755679.CH15
+   Boyd DM, 2007, J COMPUT-MEDIAT COMM, V13, P210, DOI 10.1111/j.1083-6101.2007.00393.x
+   Bruns Axel, 2012, First Monday, V17, DOI 10.5210/fm.v17i4.3937
+   Burt R.S., 2017, Social Capital Theory and Research, P31, DOI DOI 10.4324/9781315129457-2
+   Burt R.S., 1992, STRUCTURAL HOLE
+   Burt RS, 1997, ADMIN SCI QUART, V42, P339, DOI 10.2307/2393923
+   Cohen J., 2003, APPL MULTIPLE REGRES
+   COHEN S, 1983, J APPL SOC PSYCHOL, V13, P99, DOI 10.1111/j.1559-1816.1983.tb02325.x
+   Coleman J.S., 1994, FDN SOCIAL THEORY
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   Ellison N, 2006, J COMPUT-MEDIAT COMM, V11
+   Ellison NB, 2014, J COMPUT-MEDIAT COMM, V19, P855, DOI 10.1111/jcc4.12078
+   Farrell M, 2017, J LIBR ADM, V57, P436, DOI 10.1080/01930826.2017.1300455
+   de Zúñiga HG, 2017, CYBERPSYCH BEH SOC N, V20, P540, DOI 10.1089/cyber.2017.0295
+   Golbeck J, 2011, CHI 11 HUM FACT COMP, V11, P253, DOI [10.1145/1979742.1979614, DOI 10.1145/1979742.1979614]
+   Gosling SD, 2003, J RES PERS, V37, P504, DOI 10.1016/S0092-6566(03)00046-1
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Gratton C., 2010, Research methods for sports studies
+   Guntuku SC, 2017, PROCEEDINGS OF THE 2017 ACM WEB SCIENCE CONFERENCE (WEBSCI '17), P223, DOI 10.1145/3091478.3091522
+   Hamburger YA, 2000, COMPUT HUM BEHAV, V16, P441, DOI 10.1016/S0747-5632(00)00017-0
+   Hayat T., 2018, J. Customer Behav, V17, P173, DOI DOI 10.1362/147539218X15434304746027
+   Hayat T, 2020, INFORM COMMUN SOC, V23, P701, DOI 10.1080/1369118X.2020.1713844
+   Hayat T, 2019, PUBLIC UNDERST SCI, V28, P201, DOI 10.1177/0963662518812282
+   Hayat T, 2017, COMPUT HUM BEHAV, V77, P132, DOI 10.1016/j.chb.2017.08.041
+   Hayes A. F., 2012, PROCESS VERSATILE CO
+   Hershkovitz A, 2020, TECHNOL SOC, V61, DOI 10.1016/j.techsoc.2020.101261
+   Hofer M, 2013, COMPUT HUM BEHAV, V29, P2134, DOI 10.1016/j.chb.2013.04.038
+   Huberman B.A., 2009, SOCIAL NETWORKS MATT
+   Hughes DJ, 2012, COMPUT HUM BEHAV, V28, P561, DOI 10.1016/j.chb.2011.11.001
+   Huvila I, 2010, ONLINE INFORM REV, V34, P295, DOI 10.1108/14684521011037007
+   Jang J, 2014, COMPUT HUM BEHAV, V35, P489, DOI 10.1016/j.chb.2014.02.049
+   Jin SAA, 2014, J ADVERTISING, V43, P181, DOI 10.1080/00913367.2013.827606
+   Kalish Y, 2006, SOC NETWORKS, V28, P56, DOI 10.1016/j.socnet.2005.04.004
+   Kavanaugh A., 2011, MICROBLOGGING CRISIS
+   Knoke D., 1982, NETWORK ANAL
+   Kraut R, 2002, J SOC ISSUES, V58, P49, DOI 10.1111/1540-4560.00248
+   Kwon M.-W., 2013, Bulletin of Science, Technology and Society, DOI DOI 10.1177/0270467613496767
+   Leetaru K., 2019, FORBS
+   Li W., 2018, 12 INT AAAI C WEB SO
+   Marwick AE, 2011, NEW MEDIA SOC, V13, P114, DOI 10.1177/1461444810365313
+   Ong EYL, 2011, PERS INDIV DIFFER, V50, P180, DOI 10.1016/j.paid.2010.09.022
+   Otte E, 2002, J INF SCI, V28, P441, DOI 10.1177/016555150202800601
+   Phua J, 2017, COMPUT HUM BEHAV, V72, P115, DOI 10.1016/j.chb.2017.02.041
+   PUTNAM R, 1995, J DEMOCRACY, V0006
+   Putnam Robert D., 2000, BOWLING ALONE COLLAP, DOI 10.1145/358916.361990
+   Qiu L, 2012, J RES PERS, V46, P710, DOI 10.1016/j.jrp.2012.08.008
+   Rosenstiel Tom., 2015, Twitter and the news: How people use the social network to learn about the world
+   Serrat O, 2017, Knowledge Solutions: Tools, Methods, and Approaches to Drive Organizational Performance, P39, DOI 10.1007/978-981-10-0983-9_9
+   Sheldon P., 2008, J MEDIA PSYCHOL-GER, V20, P67, DOI [10.1027/1864-1105.20.2.67, DOI 10.1027/1864-1105.20.2.67]
+   Skemp K.M, 2018, TWITTER
+   Statista, 2019, TWITT NUMB ACT US 20
+   Tabachnick B. G., 2007, USING MULTIVARIATE S
+   Tong ST, 2008, J COMPUT-MEDIAT COMM, V13, P531, DOI 10.1111/j.1083-6101.2008.00409.x
+   Tufekci Z, 4 INT AAAI C
+   Valkenburg PM, 2007, CYBERPSYCHOL BEHAV, V10, P849, DOI 10.1089/cpb.2007.9941
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   Weiqin EL, 2016, J EDUC COMPUT RES, V54, P747, DOI 10.1177/0735633116631886
+   WELLMAN B., 1992, Men's Friendships, P74, DOI DOI 10.4135/9781483325736.N5
+   Williams D, 2006, J COMPUT-MEDIAT COMM, V11, DOI 10.1111/j.1083-6101.2006.00029.x
+NR 65
+TC 6
+Z9 8
+U1 1
+U2 25
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0160-791X
+EI 1879-3274
+J9 TECHNOL SOC
+JI Technol. Soc.
+PD MAY
+PY 2021
+VL 65
+AR 101551
+DI 10.1016/j.techsoc.2021.101551
+EA MAR 2021
+PG 7
+WC Social Issues; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Issues; Social Sciences - Other Topics
+GA SR5YB
+UT WOS:000661118100019
+DA 2024-11-22
+ER

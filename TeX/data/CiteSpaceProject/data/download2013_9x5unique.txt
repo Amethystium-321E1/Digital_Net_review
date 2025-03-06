@@ -1,0 +1,621 @@
+
+PT J
+AU Mills, BJ
+   Clark, JJ
+   Peeples, MA
+   Haas, WR
+   Roberts, JM
+   Hill, JB
+   Huntley, DL
+   Borck, L
+   Breiger, RL
+   Clauset, A
+   Shackley, MS
+AF Mills, Barbara J.
+   Clark, Jeffery J.
+   Peeples, Matthew A.
+   Haas, W. R., Jr.
+   Roberts, John M., Jr.
+   Hill, J. Brett
+   Huntley, Deborah L.
+   Borck, Lewis
+   Breiger, Ronald L.
+   Clauset, Aaron
+   Shackley, M. Steven
+TI Transformation of social networks in the late pre-Hispanic US Southwest
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE archaeology; North American Southwest; spatial analysis; network
+   visualization; regional interaction
+AB The late pre-Hispanic period in the US Southwest (A.D. 1200-1450) was characterized by large-scale demographic changes, including long-distance migration and population aggregation. To reconstruct how these processes reshaped social networks, we compiled a comprehensive artifact database from major sites dating to this interval in the western Southwest. We combine social network analysis with geographic information systems approaches to reconstruct network dynamics over 250 y. We show how social networks were transformed across the region at previously undocumented spatial, temporal, and social scales. Using well-dated decorated ceramics, we track changes in network topology at 50-y intervals to show a dramatic shift in network density and settlement centrality from the northern to the southern Southwest after A.D. 1300. Both obsidian sourcing and ceramic data demonstrate that long-distance network relationships also shifted from north to south after migration. Surprisingly, social distance does not always correlate with spatial distance because of the presence of network relationships spanning long geographic distances. Our research shows how a large network in the southern Southwest grew and then collapsed, whereas networks became more fragmented in the northern Southwest but persisted. The study also illustrates how formal social network analysis may be applied to large-scale databases of material culture to illustrate multigenerational changes in network structure.
+C1 [Mills, Barbara J.; Haas, W. R., Jr.; Borck, Lewis] Univ Arizona, Sch Anthropol, Tucson, AZ 85721 USA.
+   [Clark, Jeffery J.; Peeples, Matthew A.; Hill, J. Brett; Huntley, Deborah L.] Archaeol Southwest, Tucson, AZ 85701 USA.
+   [Roberts, John M., Jr.] Univ Wisconsin, Dept Sociol, Milwaukee, WI 53201 USA.
+   [Hill, J. Brett] Hendrix Coll, Dept Sociol & Anthropol, Conway, AR 72032 USA.
+   [Breiger, Ronald L.] Univ Arizona, Dept Sociol, Tucson, AZ 85721 USA.
+   [Clauset, Aaron] Univ Colorado, Dept Comp Sci, Boulder, CO 80309 USA.
+   [Clauset, Aaron] Univ Colorado, BioFrontiers Inst, Boulder, CO 80309 USA.
+   [Clauset, Aaron] Santa Fe Inst, Santa Fe, NM 87501 USA.
+   [Shackley, M. Steven] Archaeol XRF Lab, Albuquerque, NM 87113 USA.
+C3 University of Arizona; University of Wisconsin System; University of
+   Wisconsin Milwaukee; University of Arizona; University of Colorado
+   System; University of Colorado Boulder; University of Colorado System;
+   University of Colorado Boulder; The Santa Fe Institute
+RP Mills, BJ (corresponding author), Univ Arizona, Sch Anthropol, Tucson, AZ 85721 USA.
+EM bmills@email.arizona.edu
+RI Clark, Jeffery/HNI-4764-2023; Borck, Lewis/AAC-6171-2020; Breiger,
+   Ronald/Q-1801-2019
+OI Peeples, Matthew/0000-0003-4496-623X; Haas, Randall/0000-0002-7742-2127;
+   Borck, Lewis/0000-0003-0037-7249; Mills, Barbara/0000-0002-2130-2185;
+   Breiger, Ronald/0000-0003-0575-9211
+FU National Science Foundation (NSF) Human and Social Dynamics [0827007,
+   0827011, 0819657]; Direct For Social, Behav & Economic Scie; Divn Of
+   Social and Economic Sciences [0827007] Funding Source: National Science
+   Foundation; Direct For Social, Behav & Economic Scie; Divn Of Social and
+   Economic Sciences [0827011] Funding Source: National Science Foundation;
+   Division Of Behavioral and Cognitive Sci; Direct For Social, Behav &
+   Economic Scie [0819657] Funding Source: National Science Foundation
+FX We thank the many individuals and institutions that contributed data and
+   access to collections and sites, including the Arizona State Museum,
+   Museum of Northern Arizona, Museum of New Mexico (Laboratory of
+   Anthropology), Gila National Forest, and Apache-Sitgreaves National
+   Forests. We also thank the School of Advanced Research, Santa Fe, for
+   hosting the seminar that led to the formulation of this paper. Funding
+   for this project was from National. Science Foundation (NSF) Human and
+   Social Dynamics Program Awards 0827007 (to B.J.M.) and 0827011 (to
+   J.J.C.) and NSF Archaeology Program Award.0819657 (to J.J.C.). The
+   Southwest Social Networks Database is maintained by Archaeology
+   Southwest, Tucson, AZ, and is available to researchers by request.
+CR Abbott DavidR., 2003, Centuries of Decline During the Hohokam Classic Period at Pueblo Grande
+   Adams EC, 2006, PROTOHISTORIC PUEBLO, P137
+   Adams EC, 2006, PROTOHISTORIC PUEBLO
+   Adler MichaelA., 1996, The Prehistoric Pueblo World A.D. 1150-1350
+   [Anonymous], 2011, THESIS ARIZONA STATE
+   [Anonymous], 1997, Social network analysis
+   Borgatti SP, 2005, SOC NETWORKS, V27, P55, DOI 10.1016/j.socnet.2004.11.008
+   Borgatti SP, 2009, SCIENCE, V323, P892, DOI 10.1126/science.1165821
+   Breiger RonaldL., 2004, Handbook of Data Analysis, P505
+   Brughmans T, 2013, J ARCHAEOL METHOD TH, V20, P623, DOI 10.1007/s10816-012-9133-8
+   Clark J., 2011, Rethinking Anthropological Perspectives on Migration, P84, DOI DOI 10.5744/FL0RIDA/9780813036076.003.0006
+   Clark J., 2012, MIGRANTS MOUNDS CLAS
+   Conolly James., 2006, GEOGRAPHICAL INFORM
+   Cordell LindaS., 2012, Potters and Communities of Practice: Glaze Paint and Polychrome Pottery in the American Southwest
+   Cordell LindaS. Maxine E. McBrinn., 2012, Archaeology of the Southwest
+   Crown P.L., 2004, CERAMICS IDEOLOGY SA
+   Duff AndrewI., 2002, W PUEBLO IDENTITIES
+   Golitko M, 2012, ANTIQUITY, V86, P507, DOI 10.1017/S0003598X00062906
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Haury E., 1958, MIGRATIONS NEW WORLD, P1
+   Haury EW, 1945, EXCAVATION LOSMUERTO
+   Hill JB, 2004, AM ANTIQUITY, V69, P689, DOI 10.2307/4128444
+   Knappett C., 2011, ARCHAEOLOGY INTERACT
+   Lyons PD, 2006, SOCIAL CONSTRUCTION, P191
+   Marshall JT, 2002, PHOENIX BASIN PERRY
+   MAYHEW BH, 1984, J MATH SOCIOL, V9, P305, DOI 10.1080/0022250X.1984.9989953
+   Mills B.J., 1995, CERAMIC PRODUCTION A
+   Mills BJ, 2007, AM ANTIQUITY, V72, P210, DOI 10.2307/40035812
+   Mills BarbaraJ., 1999, LIVING EDGE RIM EXCA
+   Mills BJ, 2013, NEW APPROACHES REGIO
+   Mizoguchi K, 2009, J ANTHROPOL ARCHAEOL, V28, P14, DOI 10.1016/j.jaa.2008.12.001
+   Nelson MC, 2011, ECOL SOC, V16
+   Neuzil AnnaA., 2008, In the Aftermath of Migration
+   RAUTMAN AE, 1993, AM ANTIQUITY, V58, P403, DOI 10.2307/282104
+   Rice Glen., 2001, Deadly Landscapes: Case Studies in Prehistoric Southwestern Warfare
+   Roberts JM, 2012, J ARCHAEOL SCI, V39, P1513, DOI 10.1016/j.jas.2011.12.022
+   Shackley M.S., 2005, Obsidian: Geology and Archaeology in the North American Southwest
+   Stark MiriamT., 1998, ARCHAEOLOGY SOCIAL B
+   Triadan Daniela., 1997, Ceramic Commodities and Common Containers: Production and Distribution of White Mountain Redware in the Grasshopper Region, Arizona
+   Varien M.D., 1999, SEDENTISM MOBILITY S
+   Wilcox DR, 2007, ZUNI ORIGINS NEW SYN
+   Woodson M.K., 1999, Kiva, V65, P63
+NR 42
+TC 157
+Z9 209
+U1 1
+U2 36
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD APR 9
+PY 2013
+VL 110
+IS 15
+BP 5785
+EP 5790
+DI 10.1073/pnas.1219966110
+PG 6
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Science & Technology - Other Topics
+GA 125KE
+UT WOS:000317537900017
+PM 23530201
+OA Green Published, Bronze
+DA 2024-11-22
+ER
+
+PT J
+AU Smith, JA
+   Moody, J
+AF Smith, Jeffrey A.
+   Moody, James
+TI Structural effects of network sampling coverage I: Nodes missing at
+   random
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Missing data; Network sampling; Network bias
+ID SOCIAL NETWORKS; CENTRALITY MEASURES; MODELS; STABILITY; ERROR
+AB Network measures assume a census of a well-bounded population. This level of coverage is rarely achieved in practice, however, and we have only limited information on the robustness of network measures to incomplete coverage. This paper examines the effect of node-level missingness on 4 classes of network measures: centrality, centralization, topology and homophily across a diverse sample of 12 empirical networks. We use a Monte Carlo simulation process to generate data with known levels of missingness and compare the resulting network scores to their known starting values. As with past studies (Borgatti et al., 2006; Kossinets, 2006), we find that measurement bias generally increases with more missing data. The exact rate and nature of this increase, however, varies systematically across network measures. For example, betweenness and Bonacich centralization are quite sensitive to missing data while closeness and in-degree are robust. Similarly, while the tau statistic and distance are difficult to capture with missing data, transitivity shows little bias even with very high levels of missingness. The results are also clearly dependent on the features of the network. Larger, more centralized networks are generally more robust to missing data, but this is especially true for centrality and centralization measures. More cohesive networks are robust to missing data when measuring topological features but not when measuring centralization. Overall, the results suggest that missing data may have quite large or quite small effects on network measurement, depending on the type of network and the question being posed. (C) 2013 Elsevier B.V. All rights reserved.
+C1 [Smith, Jeffrey A.] Univ Nebraska Lincoln, Lincoln, NE 68588 USA.
+   [Moody, James] Duke Univ, Durham, NC 27706 USA.
+C3 University of Nebraska System; University of Nebraska Lincoln; Duke
+   University
+RP Smith, JA (corresponding author), Univ Nebraska Lincoln, Lincoln, NE 68588 USA.
+EM jsmith77@unl.edu
+RI Moody, James/E-2888-2014
+FU NICHD NIH HHS [P01 HD031921, R01 HD075712, R21 HD068317] Funding Source:
+   Medline; NIDA NIH HHS [R01 DA012831, R01 DA013709, R01 DA018225] Funding
+   Source: Medline
+CR Akritas MG, 2002, SOCIOL METHOD RES, V30, P425, DOI 10.1177/0049124102030003006
+   Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   Albert R, 2000, NATURE, V406, P378, DOI 10.1038/35019019
+   ANDERSON CJ, 1992, SOC NETWORKS, V14, P137, DOI 10.1016/0378-8733(92)90017-2
+   [Anonymous], 2010, Statistical Methodology, DOI [DOI 10.1016/J.STAMET.2009.09.007, 10.1016/j.stamet.2009.09.007]
+   [Anonymous], 1971, THESIS STOCKHOLM U S
+   [Anonymous], 2004, WOMEN HEALTH
+   BARTON AH, 1968, AM BEHAV SCI, V12, P1, DOI 10.1177/000276426801200201
+   BATAGELJ V, 1992, SOC NETWORKS, V14, P63, DOI 10.1016/0378-8733(92)90014-X
+   Borgatti SP, 2006, SOC NETWORKS, V28, P124, DOI 10.1016/j.socnet.2005.05.001
+   Bramoullé Y, 2009, J ECONOMETRICS, V150, P41, DOI 10.1016/j.jeconom.2008.12.021
+   Butts CT, 2003, SOC NETWORKS, V25, P103, DOI 10.1016/S0378-8733(02)00038-2
+   Cohen J., 1983, SOCIOL EDUC, V50, P227
+   Costenbader E, 2003, SOC NETWORKS, V25, P283, DOI 10.1016/S0378-8733(03)00012-1
+   FRANK O, 1978, SOC NETWORKS, V1, P91, DOI 10.1016/0378-8733(78)90015-1
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   FRIEDKIN NE, 1990, SOC PSYCHOL QUART, V53, P316, DOI 10.2307/2786737
+   GALASKIEWICZ J, 1991, SOC NETWORKS, V13, P347, DOI 10.1016/0378-8733(91)90002-B
+   GRANOVETTER M, 1976, AM J SOCIOL, V81, P1287, DOI 10.1086/226224
+   Handcock MS, 2010, ANN APPL STAT, V4, P5, DOI 10.1214/08-AOAS221
+   Haynie DL, 2001, AM J SOCIOL, V106, P1013, DOI 10.1086/320298
+   Holland PW., 1976, Sociol. Methodol, V7, P1, DOI [DOI 10.2307/270703, 10.2307/270703]
+   Huisman M., 2009, J SOCIAL STRUCTURE, P10
+   Jinn J.H., 1989, SOCIOL METHODOL, V19, P213
+   JOHNSEN EC, 1986, SOC NETWORKS, V8, P257, DOI 10.1016/0378-8733(86)90007-9
+   JOHNSEN EC, 1985, SOC NETWORKS, V7, P203, DOI 10.1016/0378-8733(85)90015-2
+   JOHNSON JC, 1989, SOC NETWORKS, V11, P135, DOI 10.1016/0378-8733(89)90009-9
+   KAUFMAN RL, 1985, SOCIOL METHOD RES, V13, P467, DOI 10.1177/0049124185013004002
+   KIM JO, 1977, SOCIOL METHOD RES, V6, P215, DOI 10.1177/004912417700600206
+   Kossinets G, 2006, SOC NETWORKS, V28, P247, DOI 10.1016/j.socnet.2005.07.002
+   Laumann E., 1983, Applied Network Analysis, P18
+   MACRAE D, 1960, SOCIOMETRY, V23, P360, DOI 10.2307/2785690
+   Moody J, 2003, AM SOCIOL REV, V68, P103, DOI 10.2307/3088904
+   Moore KA, 2004, AM J DRUG ALCOHOL AB, V30, P187, DOI 10.1081/ADA-120029873
+   Morris M., 2011, Hiv transmission network metastudy project: An archive of data from eight network studies, 1988-2001
+   Newman MEJ, 2002, P NATL ACAD SCI USA, V99, P2566, DOI 10.1073/pnas.012582999
+   RAND WM, 1971, J AM STAT ASSOC, V66, P846, DOI 10.2307/2284239
+   Robins G, 2004, SOC NETWORKS, V26, P257, DOI 10.1016/j.socnet.2004.05.001
+   Smith J. A, 2013, STRUCTURAL EFFECTS N
+   Steglich C, 2012, SOC NETWORKS, V34, P359, DOI 10.1016/j.socnet.2010.07.001
+   Steglich C, 2010, SOCIOL METHODOL, V40, P329, DOI 10.1111/j.1467-9531.2010.01225.x
+   Valente TW, 2003, AM J PUBLIC HEALTH, V93, P1837, DOI 10.2105/AJPH.93.11.1837
+   Wang Dan J., 2012, Social Networks
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   WASSERMAN SS, 1977, J MATH SOCIOL, V5, P61, DOI 10.1080/0022250X.1977.9989865
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   WHITE HC, 1976, AM J SOCIOL, V81, P730, DOI 10.1086/226141
+   Yuan KH, 2000, SOCIOL METHODOL, V30, P165, DOI 10.1111/0081-1750.00078
+   Zemljic B, 2005, SOC NETWORKS, V27, P73, DOI 10.1016/j.socnet.2004.11.010
+   Znidarsic A, 2012, SOC NETWORKS, V34, P438, DOI 10.1016/j.socnet.2012.02.002
+NR 50
+TC 136
+Z9 163
+U1 1
+U2 25
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD OCT
+PY 2013
+VL 35
+IS 4
+BP 652
+EP 668
+DI 10.1016/j.socnet.2013.09.003
+PG 17
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 275XU
+UT WOS:000328713500013
+PM 24311893
+OA Green Accepted
+DA 2024-11-22
+ER
+
+PT J
+AU Tang, WM
+   Yang, HM
+   Mahapatra, T
+   Huan, XP
+   Yan, HJ
+   Li, JJ
+   Fu, GF
+   Zhao, JK
+   Detels, R
+AF Tang, Weiming
+   Yang, Haitao
+   Mahapatra, Tanmay
+   Huan, Xiping
+   Yan, Hongjing
+   Li, Jianjun
+   Fu, Gengfeng
+   Zhao, Jinkou
+   Detels, Roger
+TI Feasibility of Recruiting a Diverse Sample of Men Who Have Sex with Men:
+   Observation from Nanjing, China
+SO PLOS ONE
+LA English
+DT Article
+ID HARD-TO-REACH; HIDDEN POPULATIONS; HIV-INFECTION; RESPONDENT;
+   PREVALENCE; BEHAVIOR
+AB Background: Respondent-driven-sampling (RDS) has well been recognized as a method for sampling from most hard-to-reach populations like commercial sex workers, drug users and men who have sex with men. However the feasibility of this sampling strategy in terms of recruiting a diverse spectrum of these hidden populations has not been understood well yet in developing countries.
+   Methods: In a cross sectional study in Nanjing city of Jiangsu province of China, 430 MSM were recruited including 9 seeds in 14 weeks of study period using RDS. Information regarding socio-demographic characteristics and sexual risk behavior were collected and testing was done for HIV and syphilis. Duration, completion, participant characteristics and the equilibrium of key factors were used for assessing feasibility of RDS. Homophily of key variables, socio-demographic distribution and social network size were used as the indicators of diversity.
+   Results: In the study sample, adjusted HIV and syphilis prevalence were 6.6% and 14.6% respectively. Majority (96.3%) of the participants were recruited by members of their own social network. Although there was a tendency for recruitment within the same self-identified group (homosexuals recruited 60.0% homosexuals), considerable cross-group recruitment (bisexuals recruited 52.3% homosexuals) was also seen. Homophily of the self-identified sexual orientations was 0.111 for homosexuals. Upon completion of the recruitment process, participant characteristics and the equilibrium of key factors indicated that RDS was feasible for sampling MSM in Nanjing. Participants recruited by RDS were found to be diverse after assessing the homophily of key variables in successive waves of recruitment, the proportion of characteristics after reaching equilibrium and the social network size. The observed design effects were nearly the same or even better than the theoretical design effect of 2.
+   Conclusion: RDS was found to be an efficient and feasible sampling method for recruiting a diverse sample of MSM in a reasonable time.
+C1 [Tang, Weiming; Mahapatra, Tanmay; Detels, Roger] Univ Calif Los Angeles, Sch Publ Hlth, Dept Epidemiol, Los Angeles, CA 90024 USA.
+   [Yang, Haitao; Huan, Xiping; Yan, Hongjing; Li, Jianjun; Fu, Gengfeng] Jiangsu Prov Ctr Dis Control & Prevent, Nanjing, Jiangsu, Peoples R China.
+   [Zhao, Jinkou] Global Fund Fight AIDS TB & Malaria, Impact Results & Evaluat Dept, Geneva, Switzerland.
+C3 University of California System; University of California Los Angeles;
+   Jiangsu Provincial Center for Disease Control & Prevention
+RP Zhao, JK (corresponding author), Global Fund Fight AIDS TB & Malaria, Impact Results & Evaluat Dept, Geneva, Switzerland.
+EM button.zhao@gmail.com
+RI wang, jiahui/IXD-1197-2023
+OI Zhao, Jinkou/0000-0001-9184-3385; Mahapatra, Tanmay/0000-0002-5401-2045;
+   Tang, Weiming/0000-0002-9026-707X
+FU Jiangsu Science & Technology Department (Jiangsu Provincial Technologies
+   Research Program) [BE2009685]; Jiangsu Health Department (Jiangsu
+   Province's Outstanding Medical Academic Leader Program) [RC2011087, RC
+   2011086];  [RC2011086]; National Institute of Allergy and Infectious
+   Diseases [P30MH058107] Funding Source: NIH RePORTER; National Institute
+   of Mental Health [P30MH058107] Funding Source: NIH RePORTER
+FX The study was funded by Jiangsu Science & Technology Department (Jiangsu
+   Provincial Technologies Research Program http://www.jstd.gov.cn/, grant
+   number is BE2009685), this program provided the funding for the study
+   recruitment, behavioral measures, intervention and study follow up. The
+   study was also funded by Jiangsu Health Department (Jiangsu Province's
+   Outstanding Medical Academic Leader Program, grant numbers: RC2011087,
+   RC 2011086), with the website
+   http://www.jswst.gov.cn/gb/jsswst/index.html. These two programs
+   provided the funding for STD treatment (RC2011087), serologic
+   measures(RC2011086). The funders had no role in study design, data
+   collection and analysis, decision to publish, or preparation of the
+   manuscript.
+CR Abdul-Quader AS, 2006, J URBAN HEALTH, V83, P459, DOI 10.1007/s11524-006-9052-7
+   [曹淦 CAO Gan], 2007, [南京医科大学学报. 自然科学版, Acta Universitatis Medicinalis Nanjing], V27, P637
+   Gile KJ, 2010, SOCIOL METHODOL, V40, P285, DOI 10.1111/j.1467-9531.2010.01223.x
+   Goel S, 2010, P NATL ACAD SCI USA, V107, P6743, DOI 10.1073/pnas.1000261107
+   He N, 2007, AIDS CARE, V19, P109, DOI 10.1080/09540120600888394
+   Heckathorn DD, 2002, SOC PROBL, V49, P11, DOI 10.1525/sp.2002.49.1.11
+   Heckathorn DD, 1997, SOC PROBL, V44, P174, DOI 10.1525/sp.1997.44.2.03x0221m
+   Henry G.T., 1990, Practical Sampling, Applied social research methods
+   Johnston L., 2007, Conducting respondent driven sampling (RDS) Studies in diverse settings: a training manual for planning RDS studies [e-manual]
+   Kogan SM, 2011, J ADOLESCENT RES, V26, P30, DOI 10.1177/0743558410384734
+   Li A, 2009, AIDS BEHAV, V13, P318, DOI 10.1007/s10461-008-9448-3
+   Ma XY, 2007, JAIDS-J ACQ IMM DEF, V45, P581, DOI 10.1097/QAI.0b013e31811eadbc
+   Magnani R, 2005, AIDS, V19, pS67, DOI 10.1097/01.aids.0000172879.20628.e1
+   Malekinejad M, 2008, AIDS BEHAV, V12, pS105, DOI 10.1007/s10461-008-9421-1
+   Meng X., 2010, Short report An exploratory survey of money boys and HIV transmission risk in Jilin Province, PR China
+   Montano D.E. D. Kasprzyk., 2008, Health Behavior and Health Education: Theory, Research, and Practice, VFourth
+   Montealegre JR, 2013, AIDS BEHAV, V17, P719, DOI 10.1007/s10461-012-0306-y
+   Paquette DM, 2011, INT J DRUG POLICY, V22, P267, DOI 10.1016/j.drugpo.2011.03.007
+   Platt L, 2006, J URBAN HEALTH, V83, pI39, DOI 10.1007/s11524-006-9101-2
+   Poon AFY, 2009, PLOS ONE, V4, DOI 10.1371/journal.pone.0006777
+   Salganik MJ, 2006, J URBAN HEALTH, V83, pI98, DOI 10.1007/s11524-006-9106-x
+   Salganik MJ, 2004, SOCIOL METHODOL, V34, P193, DOI 10.1111/j.0081-1750.2004.00152.x
+   Shen P, 2010, CHONGQING MED, V8
+   Szwarcwald CL, 2011, JAIDS-J ACQ IMM DEF, V57, pS129, DOI 10.1097/QAI.0b013e31821e9a36
+   Tang W, 2013, AIDS BEHAV, P1
+   U.S. Census Bureau, 2002, Technical Paper 63RV
+   van Griensven F, 2010, AIDS, V24, pS30, DOI 10.1097/01.aids.0000390087.22565.b4
+   Wang JC, 2005, DRUG ALCOHOL DEPEN, V78, P147, DOI 10.1016/j.drugalcdep.2004.10.011
+   Yeka W, 2006, J URBAN HEALTH, V83, pI60, DOI 10.1007/s11524-006-9103-0
+   Zhao JK, 2007, ACAD MED S, V83, P39
+NR 30
+TC 8
+Z9 10
+U1 0
+U2 8
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD NOV 14
+PY 2013
+VL 8
+IS 11
+AR e77645
+DI 10.1371/journal.pone.0077645
+PG 9
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA 254DJ
+UT WOS:000327143800004
+PM 24244280
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Jordan, JJ
+   Rand, DG
+   Arbesman, S
+   Fowler, JH
+   Christakis, NA
+AF Jordan, Jillian J.
+   Rand, David G.
+   Arbesman, Samuel
+   Fowler, James H.
+   Christakis, Nicholas A.
+TI Contagion of Cooperation in Static and Fluid Social Networks
+SO PLOS ONE
+LA English
+DT Article
+ID INFINITELY REPEATED GAMES; ALTRUISTIC PUNISHMENT; PROMOTE COOPERATION;
+   EMOTIONAL CONTAGION; PRISONERS-DILEMMA; MECHANICAL TURK; EVOLUTION;
+   BEHAVIOR; HUMANS; RECIPROCITY
+AB Cooperation is essential for successful human societies. Thus, understanding how cooperative and selfish behaviors spread from person to person is a topic of theoretical and practical importance. Previous laboratory experiments provide clear evidence of social contagion in the domain of cooperation, both in fixed networks and in randomly shuffled networks, but leave open the possibility of asymmetries in the spread of cooperative and selfish behaviors. Additionally, many real human interaction structures are dynamic: we often have control over whom we interact with. Dynamic networks may differ importantly in the goals and strategic considerations they promote, and thus the question of how cooperative and selfish behaviors spread in dynamic networks remains open. Here, we address these questions with data from a social dilemma laboratory experiment. We measure the contagion of both cooperative and selfish behavior over time across three different network structures that vary in the extent to which they afford individuals control over their network ties. We find that in relatively fixed networks, both cooperative and selfish behaviors are contagious. In contrast, in more dynamic networks, selfish behavior is contagious, but cooperative behavior is not: subjects are fairly likely to switch to cooperation regardless of the behavior of their neighbors. We hypothesize that this insensitivity to the behavior of neighbors in dynamic networks is the result of subjects' desire to attract new cooperative partners: even if many of one's current neighbors are defectors, it may still make sense to switch to cooperation. We further hypothesize that selfishness remains contagious in dynamic networks because of the well-documented willingness of cooperators to retaliate against selfishness, even when doing so is costly. These results shed light on the contagion of cooperative behavior in fixed and fluid networks, and have implications for influence-based interventions aiming at increasing cooperative behavior.
+C1 [Jordan, Jillian J.; Rand, David G.] Harvard Univ, Dept Psychol, Cambridge, MA 02138 USA.
+   [Arbesman, Samuel] Harvard Univ, Inst Quantitat Social Sci, Cambridge, MA 02138 USA.
+   [Arbesman, Samuel] Ewing Marion Kauffman Fdn, Kansas City, MO USA.
+   [Jordan, Jillian J.; Rand, David G.] Yale Univ, Dept Psychol, New Haven, CT 06520 USA.
+   [Christakis, Nicholas A.] Yale Univ, Dept Sociol, New Haven, CT USA.
+   [Fowler, James H.] Univ Calif San Diego, Dept Polit Sci, La Jolla, CA 92093 USA.
+   [Fowler, James H.] Univ Calif San Diego, Dept Med Genet, La Jolla, CA 92093 USA.
+C3 Harvard University; Harvard University; Yale University; Yale
+   University; University of California System; University of California
+   San Diego; University of California System; University of California San
+   Diego
+RP Rand, DG (corresponding author), Harvard Univ, Dept Psychol, 33 Kirkland St, Cambridge, MA 02138 USA.
+EM david.rand@yale.edu
+RI Rand, David/B-3716-2009; Christakis, Nicholas/B-6690-2008; Fowler,
+   James/C-2750-2008
+OI Fowler, James/0000-0001-7795-1638; Rand, David/0000-0001-8975-2783
+FU National Institute on Aging [P01-AG031093]; Pioneer Portfolio of the
+   Robert Wood Johnson Foundation; Science of Generosity Initiative of the
+   University of Notre Dame; John Templeton Foundation
+FX This work was supported by Grant P01-AG031093 from the National
+   Institute on Aging (http://www.nia.nih.gov/), a grant from the Pioneer
+   Portfolio of the Robert Wood Johnson Foundation
+   (http://www.rwjf.org/en/about-rwjf/program-areas/pioneer.html), and by
+   the Science of Generosity Initiative of the University of Notre Dame,
+   supported by The John Templeton Foundation (http://www.templeton.org/).
+   D. G. R. is also supported by a grant from The John Templeton
+   Foundation. The funders had no role in study design, data collection and
+   analysis, decision to publish, or preparation of the manuscript.
+CR Amir O, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0031461
+   [Anonymous], BRIT MED J
+   Axelrod R., 1984, EVOLUTION COOPERATIO
+   Barsade SG, 2002, ADMIN SCI QUART, V47, P644, DOI 10.2307/3094912
+   Bearman PS, 2004, AM J PUBLIC HEALTH, V94, P89, DOI 10.2105/AJPH.94.1.89
+   Boyd R, 2003, P NATL ACAD SCI USA, V100, P3531, DOI 10.1073/pnas.0630443100
+   Buhrmester M, 2011, PERSPECT PSYCHOL SCI, V6, P3, DOI 10.1177/1745691610393980
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   Christakis NA, 2013, STAT MED, V32, P556, DOI 10.1002/sim.5408
+   Cohen L, 2008, J POLIT ECON, V116, P951, DOI 10.1086/592415
+   Dal Bó P, 2005, AM ECON REV, V95, P1591
+   Dal Bó P, 2011, AM ECON REV, V101, P411, DOI 10.1257/aer.101.1.411
+   Dreber A, 2008, NATURE, V452, P348, DOI 10.1038/nature06723
+   Espín AM, 2012, P ROY SOC B-BIOL SCI, V279, P4923, DOI 10.1098/rspb.2012.2043
+   Fehr E, 2002, NATURE, V415, P137, DOI 10.1038/415137a
+   Fehr E, 2003, NATURE, V425, P785, DOI 10.1038/nature02043
+   Fowler JH, 2010, P NATL ACAD SCI USA, V107, P5334, DOI 10.1073/pnas.0913149107
+   Fowler JH, 2005, P NATL ACAD SCI USA, V102, P7047, DOI 10.1073/pnas.0500938102
+   FUDENBERG D, 1986, ECONOMETRICA, V54, P533, DOI 10.2307/1911307
+   Fudenberg D, 2012, AM ECON REV, V102, P720, DOI 10.1257/aer.102.2.720
+   Gächter S, 2009, PHILOS T R SOC B, V364, P791, DOI 10.1098/rstb.2008.0275
+   Gracia-Lázaro C, 2012, P NATL ACAD SCI USA, V109, P12922, DOI 10.1073/pnas.1206681109
+   Grechenig K, 2010, J EMPIR LEGAL STUD, V7, P847, DOI 10.1111/j.1740-1461.2010.01197.x
+   Grujic J, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0047718
+   Grujic J, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013749
+   GUTH W, 1982, J ECON BEHAV ORGAN, V3, P367, DOI 10.1016/0167-2681(82)90011-7
+   HARDIN G, 1968, SCIENCE, V162, P1243, DOI 10.1126/science.162.3859.1243
+   Herrmann B, 2008, SCIENCE, V319, P1362, DOI 10.1126/science.1153808
+   Hill AL, 2010, PLOS COMPUT BIOL, V6, DOI 10.1371/journal.pcbi.1000968
+   Hill AL, 2010, P ROY SOC B-BIOL SCI, V277, P3827, DOI 10.1098/rspb.2010.1217
+   Horton JJ, 2011, EXP ECON, V14, P399, DOI 10.1007/s10683-011-9273-9
+   HOWES MJ, 1985, J PERS SOC PSYCHOL, V49, P1110, DOI 10.1037/0022-3514.49.4.1110
+   Jackson MO, 2009, ANNU REV ECON, V1, P489, DOI 10.1146/annurev.economics.050708.143238
+   Joiner TE, 1999, CLIN PSYCHOL-SCI PR, V6, P149, DOI 10.1093/clipsy/6.2.149
+   Marmaros D, 2002, EUR ECON REV, V46, P870, DOI 10.1016/S0014-2921(01)00221-5
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   NOWAK M, 1993, NATURE, V364, P56, DOI 10.1038/364056a0
+   Nowak MA, 2006, SCIENCE, V314, P1560, DOI 10.1126/science.1133755
+   Ostrom E., 1992, CRAFTING I SELF GOVE
+   Paolacci G, 2010, JUDGM DECIS MAK, V5, P411
+   Pugh SD, 2001, ACAD MANAGE J, V44, P1018, DOI 10.5465/3069445
+   Rand DG, 2013, P NATL ACAD SCI USA, V110, P2581, DOI 10.1073/pnas.1214167110
+   Rand DG, 2012, NATURE, V489, P427, DOI 10.1038/nature11467
+   Rand DG, 2011, P NATL ACAD SCI USA, V108, P19193, DOI 10.1073/pnas.1108243108
+   Rand DG, 2012, J THEOR BIOL, V299, P172, DOI 10.1016/j.jtbi.2011.03.004
+   Rand DG, 2009, SCIENCE, V325, P1272, DOI 10.1126/science.1177418
+   Rand DG, 2013, ITS THOUGHT COUNTS R
+   Sacerdote B, 2001, Q J ECON, V116, P681, DOI 10.1162/00335530151144131
+   Salganik MJ, 2006, SCIENCE, V311, P854, DOI 10.1126/science.1121066
+   Suri S, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0016836
+   van Veelen M, 2012, P NATL ACAD SCI USA, V109, P9929, DOI 10.1073/pnas.1206694109
+   VanderWeele TJ, 2011, SOCIOL METHOD RES, V40, P240, DOI 10.1177/0049124111404821
+NR 52
+TC 62
+Z9 69
+U1 1
+U2 44
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JUN 19
+PY 2013
+VL 8
+IS 6
+AR e66199
+DI 10.1371/journal.pone.0066199
+PG 10
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA 190ST
+UT WOS:000322361200060
+PM 23840422
+OA gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Conaldi, G
+   Lomi, A
+AF Conaldi, Guido
+   Lomi, Alessandro
+TI The dual network structure of organizational problem solving: A case
+   study on open source software development
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Two-mode networks; Exponential Random Graphs; Free/open source software;
+   Organizational problem solving
+ID P-ASTERISK MODELS; SOCIAL NETWORKS; LOGIT-MODELS; PROJECTS; AFFILIATION;
+   COMMUNITY; GARBAGE; MOTIVATION; INNOVATION; DYNAMICS
+AB We reconstruct the dual network structure generated by the association between 72 contributors and 737 software bugs engaged during a full development cycle of the free/open source software project Epiphany. Estimates of structural parameters of Exponential Random Graph Models for two-mode networks reveal the structural logics shaping activities of collaborative problem solving. After controlling for contributor-specific and software bug-specific characteristics, we find that contributors ("problem solvers") tend to distribute their activity over multiple software bugs. At the same time, however, we find that software bugs ("problems") tend not to share multiple contributors. This dual tendency toward de-specialization and exclusivity is sustained by specific local network dependencies revealed by our analysis which also suggests possible organizational mechanisms that may be underlying the puzzling macro-structural regularities frequently observed, but rarely explained, in the production of open source software. By combining these mechanisms with the influence of contributors characterized by different levels of involvement in the project, we provide micro-level evidence of structural interdependence between "core" and "peripheral" members identified exclusively on the basis of their individual level of contribution to the project. (C) 2013 Elsevier B.V. All rights reserved.
+C1 [Conaldi, Guido] Univ Greenwich UK, Ctr Business Network Anal, London SE10 9LS, England.
+   [Lomi, Alessandro] Univ Lugano Switzerland, Ctr Org Res, CH-6904 Lugano, Switzerland.
+C3 Universita della Svizzera Italiana
+RP Conaldi, G (corresponding author), Univ Greenwich UK, Ctr Business Network Anal, Pk Row, London SE10 9LS, England.
+EM g.conaldi@greenwich.ac.uk; alessandro.lomi@usi.ch
+RI Lomi, Alessandro/AFR-0469-2022
+OI lomi, alessandro/0000-0002-2858-0022
+CR Abbott A, 1997, SOC FORCES, V75, P1149, DOI 10.2307/2580667
+   Agneessens F, 2008, J MATH SOCIOL, V32, P204, DOI 10.1080/00222500802148685
+   Ahuja MK, 1999, ORGAN SCI, V10, P741, DOI 10.1287/orsc.10.6.741
+   Aksulu A., 2010, J ASS INFORM SYSTEMS, V11
+   [Anonymous], 2002, J SOCIAL STRUCTURE
+   [Anonymous], P 4 INT C OP SOURC S
+   [Anonymous], ACM T SOFTWARE ENG M
+   [Anonymous], 2004, Metodoloski zvezki
+   [Anonymous], 1999, CATHEDRAL BAZAAR
+   [Anonymous], 1962, P AM PHILOS SOC
+   [Anonymous], 2005, 1 MONDAY
+   [Anonymous], 2006, P MSR, DOI 10.1145/1137983.1138016
+   [Anonymous], INT S COMM CONTR RES
+   [Anonymous], ACTOR NETWORK THEORY
+   [Anonymous], SOFTWARE PROCESS IMP
+   ARGOTE L, 1990, SCIENCE, V247, P920, DOI 10.1126/science.247.4945.920
+   Baldwin CY, 2006, MANAGE SCI, V52, P1116, DOI 10.1287/mnsc.1060.0546
+   Bendor J, 2001, AM POLIT SCI REV, V95, P169, DOI 10.1017/S0003055401000041
+   Bergquist M, 2001, INFORM SYST J, V11, P305, DOI 10.1046/j.1365-2575.2001.00111.x
+   Berry DavidM., 2008, COPY RIP BURN POLITI
+   Bird C., 2008, P INT S FDN SOFTW EN
+   Bonaccorsi A, 2003, RES POLICY, V32, P1243, DOI 10.1016/S0048-7333(03)00051-9
+   Breiger R. L., 2004, Computational & Mathematical Organization Theory, V10, P17, DOI 10.1023/B:CMOT.0000032578.16511.9d
+   Breiger RL, 2000, POETICS, V27, P91, DOI 10.1016/S0304-422X(99)00026-1
+   Butts CT, 2008, SOCIOL METHODOL, V38, P155, DOI 10.1111/j.1467-9531.2008.00203.x
+   CARLEY K, 1991, AM SOCIOL REV, V56, P331, DOI 10.2307/2096108
+   COHEN MD, 1972, ADMIN SCI QUART, V17, P1, DOI 10.2307/2392088
+   Conaldi G, 2012, ORGAN RES METHODS, V15, P385, DOI 10.1177/1094428111430541
+   Crowston K., 2006, Knowledge Technology & Policy, V18, P65, DOI 10.1007/s12130-006-1004-8
+   Crowston K., 2006, P 39 HAW INT C SYST
+   Crowston K, 2008, J DATABASE MANAGE, V19, P1, DOI 10.4018/jdm.2008040101
+   Crowston K, 2007, INFORM SOFTWARE TECH, V49, P564, DOI 10.1016/j.infsof.2007.02.004
+   Crowston K, 2012, ACM COMPUT SURV, V44, DOI 10.1145/2089125.2089127
+   Dalle J.-M., 2005, MAKING SENSE BAZAAR, P297
+   David PA, 2008, IND CORP CHANGE, V17, P647, DOI 10.1093/icc/dtn026
+   den Besten M, 2008, INF ECON POLICY, V20, P316, DOI 10.1016/j.infoecopol.2008.06.003
+   FELD SL, 1981, AM J SOCIOL, V86, P1015, DOI 10.1086/227352
+   Giuri P, 2008, INF ECON POLICY, V20, P305, DOI 10.1016/j.infoecopol.2008.06.002
+   Haefliger S, 2008, MANAGE SCI, V54, P180, DOI 10.1287/mnsc.1070.0748
+   Hars A, 2002, INT J ELECTRON COMM, V6, P25
+   Hertel G, 2003, RES POLICY, V32, P1159, DOI 10.1016/S0048-7333(03)00047-7
+   Howison J, 2006, INT FED INFO PROC, V203, P319
+   Hunter DR, 2008, J AM STAT ASSOC, V103, P248, DOI 10.1198/016214507000000446
+   Hunter DR, 2006, J COMPUT GRAPH STAT, V15, P565, DOI 10.1198/106186006X133069
+   Kogut B, 2001, OXFORD REV ECON POL, V17, P248, DOI 10.1093/oxrep/17.2.248
+   Krishnamurthy S., 2002, 1 MONDAY, V7, DOI 10.5210/fm.v0i0.1477
+   Lakhani K. R., 2003, PERSPECTIVES FREE OP, DOI [10.2139/ssrn.443040, DOI 10.2139/SSRN.443040]
+   Lakhani KR, 2003, RES POLICY, V32, P923, DOI 10.1016/S0048-7333(02)00095-1
+   Lee GK, 2003, ORGAN SCI, V14, P633, DOI 10.1287/orsc.14.6.633.24866
+   Lerner J, 2002, J IND ECON, V50, P197, DOI 10.1111/1467-6451.00174
+   Lerner J, 2001, EUR ECON REV, V45, P819, DOI 10.1016/S0014-2921(01)00124-6
+   Lomi A., 2012, The garbage can model of organizational choice: Looking forward at forty, P363
+   Long Y, 2007, J DATABASE MANAGE, V18, P25, DOI 10.4018/jdm.2007040102
+   Lungu M, 2009, 2009 6TH IEEE INTERNATIONAL WORKING CONFERENCE ON MINING SOFTWARE REPOSITORIES, P103, DOI 10.1109/MSR.2009.5069487
+   Maillart T, 2008, PHYS REV LETT, V101, DOI 10.1103/PhysRevLett.101.218701
+   Mische A, 2000, POETICS, V27, P163, DOI 10.1016/S0304-422X(99)00024-8
+   Mohr JW, 1997, THEOR SOC, V26, P305, DOI 10.1023/A:1006896022092
+   Nelson R. R., 1983, An Evolutionary Theory of Economic Change
+   Noll J., 2007, P 3 INT C OP SOURC S
+   O'Mahony S, 2003, RES POLICY, V32, P1179, DOI 10.1016/S0048-7333(03)00048-9
+   O'Mahony S, 2007, ACAD MANAGE J, V50, P1079
+   PADGETT JF, 1980, ADMIN SCI QUART, V25, P583, DOI 10.2307/2392282
+   Pattison Philippa., 2004, Mathematics and Social Sciences, V168, P11
+   Robins G., 2004, Computational & Mathematical Organization Theory, V10, P69, DOI 10.1023/B:CMOT.0000032580.12184.c0
+   Robins G, 2007, SOC NETWORKS, V29, P192, DOI 10.1016/j.socnet.2006.08.003
+   Robles Gregorio, 2009, International Journal of Open Source Software & Processes, V1, P24, DOI 10.4018/jossp.2009010102
+   Robles G., 2006, P 2 INT C OP SOURC S
+   Scacchi W., 2002, IEE Proceedings-Software, V149, P24, DOI 10.1049/ip-sen:20020202
+   Scacchi W, 2004, IEEE SOFTWARE, V21, P59, DOI 10.1109/MS.2004.1259221
+   Skvoretz J, 1999, SOCIOL METHODOL, V29, P253, DOI 10.1111/0081-1750.00066
+   Snijders TAB, 2010, SOC NETWORKS, V32, P44, DOI 10.1016/j.socnet.2009.02.004
+   Sorenson O, 2008, ADMIN SCI QUART, V53, P266, DOI 10.2189/asqu.53.2.266
+   Stallman R., 2011, WHY OPEN SOURCE MISS
+   von Krogh G, 2003, RES POLICY, V32, P1217, DOI 10.1016/S0048-7333(03)00050-7
+   von Krogh G, 2006, MANAGE SCI, V52, P975, DOI 10.1287/mnsc.1060.0560
+   von Krogh G, 2012, MIS QUART, V36, P649
+   Wang P., SOCIAL NETW IN PRESS
+   WANG P, 2008, PNET PROGRAM SIMULAT
+   Wang P, 2009, SOC NETWORKS, V31, P12, DOI 10.1016/j.socnet.2008.08.002
+   Wasserman S, 1996, PSYCHOMETRIKA, V61, P401, DOI 10.1007/BF02294547
+   Weiss D., 2005, Proceedings of the First International Conference on Open Source Systems (OSS 2005), P140
+   Wellman B, 1996, ANNU REV SOCIOL, V22, P213, DOI 10.1146/annurev.soc.22.1.213
+   Xu J, 2005, P 38 ANN HAW INT C S
+   Zeitlyn D, 2003, RES POLICY, V32, P1287, DOI 10.1016/S0048-7333(03)00053-2
+NR 84
+TC 29
+Z9 30
+U1 1
+U2 31
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD MAY
+PY 2013
+VL 35
+IS 2
+SI SI
+BP 237
+EP 250
+DI 10.1016/j.socnet.2012.12.003
+PG 14
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 165JJ
+UT WOS:000320479500009
+DA 2024-11-22
+ER

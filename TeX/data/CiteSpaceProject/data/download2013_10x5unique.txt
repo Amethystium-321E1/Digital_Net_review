@@ -1,0 +1,481 @@
+
+PT J
+AU Szell, M
+   Thurner, S
+AF Szell, Michael
+   Thurner, Stefan
+TI How women organize social networks different from men
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID ONLINE
+AB Superpositions of social networks, such as communication, friendship, or trade networks, are called multiplex networks, forming the structural backbone of human societies. Novel datasets now allow quantification and exploration of multiplex networks. Here we study gender-specific differences of a multiplex network from a complete behavioral dataset of an online-game society of about 300,000 players. On the individual level females perform better economically and are less risk-taking than males. Males reciprocate friendship requests from females faster than vice versa and hesitate to reciprocate hostile actions of females. On the network level females have more communication partners, who are less connected than partners of males. We find a strong homophily effect for females and higher clustering coefficients of females in trade and attack networks. Cooperative links between males are under-represented, reflecting competition for resources among males. These results confirm quantitatively that females and males manage their social networks in substantially different ways.
+C1 [Szell, Michael; Thurner, Stefan] Med Univ Vienna, Sect Sci Complex Syst, A-1090 Vienna, Austria.
+   [Szell, Michael] MIT, SENSEable City Lab, Cambridge, MA 02139 USA.
+   [Thurner, Stefan] Santa Fe Inst, Santa Fe, NM 87501 USA.
+   [Thurner, Stefan] IIASA, A-2361 Laxenburg, Austria.
+C3 Medical University of Vienna; Massachusetts Institute of Technology
+   (MIT); The Santa Fe Institute; International Institute for Applied
+   Systems Analysis (IIASA)
+RP Thurner, S (corresponding author), Med Univ Vienna, Sect Sci Complex Syst, Spitalgasse 23, A-1090 Vienna, Austria.
+EM stefan.thurner@meduniwien.ac.at
+RI Szell, Michael/H-5269-2011
+OI Szell, Michael/0000-0003-3022-2483
+FU Austrian Science Fund FWF [P23378]; Austrian Science Fund (FWF) [P23378]
+   Funding Source: Austrian Science Fund (FWF)
+FX The authors acknowledge support from the Austrian Science Fund FWF
+   P23378. We thank Benedikt Fuchs for assistance in data analysis, and
+   Bernat Corominas-Murtra for stimulating discussions.
+CR [Anonymous], P 28 CHI
+   [Anonymous], THESIS WRIGHT I
+   [Anonymous], ARXIV12111035
+   [Anonymous], ARXIV11122984
+   [Anonymous], P INT NETW C SAN FRA
+   [Anonymous], HAGUE EPN ELECT HIGH
+   Bainbridge WS, 2007, SCIENCE, V317, P472, DOI 10.1126/science.1146930
+   Baron NS, 2004, J LANG SOC PSYCHOL, V23, P397, DOI 10.1177/0261927X04269585
+   Bartle R. A., 2004, DESIGNING VIRTUAL WO
+   Boss M, 2004, QUANT FINANC, V4, P677, DOI 10.1080/14697680400020325
+   Castronova E., 2006, Games and Culture, V1, P163
+   Castronova Edward., 2005, Synthetic Worlds: The Business and Culture of Online Games
+   Danet B., 1998, CYBERSOCIETY 20, P129
+   Entwisle B, 2007, AM J SOCIOL, V112, P1495, DOI 10.1086/511803
+   Fox AB, 2007, J LANG SOC PSYCHOL, V26, P389, DOI 10.1177/0261927X07306982
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Griffiths MD, 2004, J ADOLESCENCE, V27, P87, DOI 10.1016/j.adolescence.2003.10.007
+   Griffiths MD, 2003, CYBERPSYCHOL BEHAV, V6, P81, DOI 10.1089/109493103321167992
+   Henrich J, 2005, BEHAV BRAIN SCI, V28, P795, DOI 10.1017/S0140525X05000142
+   Hidalgo CA, 2007, SCIENCE, V317, P482, DOI 10.1126/science.1144581
+   Hidalgo CA, 2009, P NATL ACAD SCI USA, V106, P10570, DOI 10.1073/pnas.0900943106
+   Hussain Z, 2008, CYBERPSYCHOL BEHAV, V11, P47, DOI 10.1089/cpb.2007.0020
+   Johnson NF, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.066117
+   Kyriakopoulos F, 2009, EUR PHYS J B, V71, P523, DOI 10.1140/epjb/e2009-00255-7
+   Lambiotte R, 2008, PHYSICA A, V387, P5317, DOI 10.1016/j.physa.2008.05.014
+   Lazer D, 2009, SCIENCE, V323, P721, DOI 10.1126/science.1167742
+   Leskovec J., 2008, P 14 ACM SIGKDD INT, P462
+   Leskovec J., 2007, ACM Transactions on Knowledge Discovery from Data TKDD, V1
+   Lewis K, 2008, SOC NETWORKS, V30, P330, DOI 10.1016/j.socnet.2008.07.002
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Newman MEJ, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.016128
+   Onnela JP, 2007, P NATL ACAD SCI USA, V104, P7332, DOI 10.1073/pnas.0610245104
+   Onnela JP, 2007, NEW J PHYS, V9, DOI 10.1088/1367-2630/9/6/179
+   PADGETT JF, 1993, AM J SOCIOL, V98, P1259, DOI 10.1086/230190
+   Palchykov V, 2012, SCI REP-UK, V2, DOI 10.1038/srep00370
+   Smoreda Z, 2000, SOC PSYCHOL QUART, V63, P238, DOI 10.2307/2695871
+   Stoica A., 2010, NetMob - Analysis of Mobile Phone Networks 2010 communication proposal
+   Szell M, 2012, SCI REP-UK, V2, DOI 10.1038/srep00457
+   Szell M, 2010, SOC NETWORKS, V32, P313, DOI 10.1016/j.socnet.2010.06.001
+   Szell M, 2010, P NATL ACAD SCI USA, V107, P13636, DOI 10.1073/pnas.1004008107
+   Thurner S, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0029796
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   Williams D, 2009, J COMMUN, V59, P700, DOI 10.1111/j.1460-2466.2009.01453.x
+   Yee N, 2007, HUM COMMUN RES, V33, P271, DOI 10.1111/j.1468-2958.2007.00299.x
+NR 44
+TC 92
+Z9 103
+U1 0
+U2 51
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD FEB 7
+PY 2013
+VL 3
+AR 1214
+DI 10.1038/srep01214
+PG 6
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA 086SW
+UT WOS:000314708300001
+PM 23393616
+OA Green Published, Green Submitted, gold, Green Accepted
+DA 2024-11-22
+ER
+
+PT J
+AU Gasevic, D
+   Zouaq, A
+   Janzen, R
+AF Gasevic, Dragan
+   Zouaq, Amal
+   Janzen, Robert
+TI "Choose Your Classmates, Your GPA Is at Stake!": The Association of
+   Cross-Class Social Ties and Academic Performance
+SO AMERICAN BEHAVIORAL SCIENTIST
+LA English
+DT Article
+DE learning analytics; student performance; social ties
+ID NETWORK ANALYSIS; CENTRALITY; KNOWLEDGE; WEAK; INTEGRATION; COMMUNITY;
+   STRENGTH; CREATION; OUTCOMES; IMPACT
+AB This article presents results from an investigation of the association between student academic performance and social ties. Based on social capital and networked learning research, we hypothesized that (a) students' social capital accumulated through their course progression is positively associated with their academic performance and (b) students with more social capital have significantly higher academic performance (operationalized as grade point average). Both hypotheses were supported by results of an empirical study that analyzed 10 years of student course enrolment records (N = 505) in a master's degree program offered through distance education at a Canadian university. These results are consistent with previous studies that looked at social networks built through student interaction in classrooms or computer-mediated communication environments. The significance of this research lies in the simplicity of the method used to establish student social networks from existing course registration records readily available through an institution's student information system. Direct implications of this research are that (a) study plans for students should consider investment in building new social ties in each course during degree programs and (b) readily available data about cross-class networks can be used in software systems supporting study planning.
+C1 [Gasevic, Dragan; Janzen, Robert] Athabasca Univ, Sch Comp & Informat Syst, Athabasca, AB T9S 3A3, Canada.
+   [Zouaq, Amal] Athabasca Univ, Athabasca, AB T9S 3A3, Canada.
+   [Zouaq, Amal] Royal Mil Coll Canada, Dept Math & Comp Sci, Kingston, ON K7K 5L0, Canada.
+C3 Athabasca University; Athabasca University; Royal Military College -
+   Canada
+RP Gasevic, D (corresponding author), Athabasca Univ, Sch Comp & Informat Syst, 1 Univ Dr, Athabasca, AB T9S 3A3, Canada.
+EM dgasevic@acm.org
+OI Gasevic, Dragan/0000-0001-9265-1908
+CR Adams P, 2006, EDUC 3-13, V34, P243, DOI 10.1080/03004270600898893
+   Akyol Z, 2011, BRIT J EDUC TECHNOL, V42, P233, DOI 10.1111/j.1467-8535.2009.01029.x
+   Anderson T, 2011, INT REV RES OPEN DIS, V12, P80, DOI 10.19173/irrodl.v12i3.890
+   [Anonymous], 2001, Social capital: theory and research
+   [Anonymous], 1982, Social Structure and Network Analysis
+   [Anonymous], 2002, TURKISH ONLINE J DIS
+   Bakharia A., 2011, Proceedings of the 1st International Conference on Learning Analytics and Knowledge, P168, DOI DOI 10.1145/2090116.2090144
+   Baldwin TT, 1997, ACAD MANAGE J, V40, P1369, DOI 10.5465/257037
+   Bandura A., 1977, SOCIAL LEARNING THEO
+   Bastian M, 2009, GEPHI OPEN SOURCE SO, DOI [DOI 10.1609/ICWSM.V3I1.13937, 10.13140/2.1.1341.1520]
+   BAUMEISTER RF, 1995, PSYCHOL BULL, V117, P497, DOI 10.1037/0033-2909.117.3.497
+   Bean J.P., 1990, STRATEG MANAG, P147
+   Brandes U, 2001, J MATH SOCIOL, V25, P163, DOI 10.1080/0022250X.2001.9990249
+   BRASS DJ, 1984, ADMIN SCI QUART, V29, P518, DOI 10.2307/2392937
+   Burt Ronald., 2003, NEW EC SOCIOLOGY DEV, P148, DOI DOI 10.7758/9781610442602.11
+   Burt RS, 2007, SOC SCI RES, V36, P1156, DOI 10.1016/j.ssresearch.2006.09.005
+   Burt RS, 2013, ANNU REV PSYCHOL, V64, P527, DOI 10.1146/annurev-psych-113011-143828
+   Burt RS, 2004, AM J SOCIOL, V110, P349, DOI 10.1086/421787
+   Cho HC, 2007, COMPUT EDUC, V49, P309, DOI 10.1016/j.compedu.2005.07.003
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   COOK KS, 1978, AM SOCIOL REV, V43, P721, DOI 10.2307/2094546
+   Cross R, 2008, ORGAN DYN, V37, P165, DOI 10.1016/j.orgdyn.2008.02.001
+   Dawson S, 2008, EDUC TECHNOL SOC, V11, P224
+   Dawson S, 2011, AUSTRALAS J EDUC TEC, V27, P924
+   Dawson S, 2011, AUSTRALAS J EDUC TEC, V27, P16
+   de Laat M, 2007, INT J COMP-SUPP COLL, V2, P87, DOI 10.1007/s11412-007-9006-4
+   Eckles JE, 2012, SOC PSYCHOL EDUC, V15, P165, DOI 10.1007/s11218-011-9173-z
+   Everett, 1998, CONNECTIONS, V21, P27, DOI DOI 10.1111/J.1467-9663.2010.00632.X
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   Gabelnick F., 1990, LEARNING COMMUNITIES, V40
+   Garton L., 2006, J COMPUT-MEDIAT COMM, V3, DOI DOI 10.1111/J.1083-6101.1997.TB00062.X
+   Granovetter M, 2005, J ECON PERSPECT, V19, P33, DOI 10.1257/0895330053147958
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Hadwin A, 2011, TEACH COLL REC, V113, P235
+   HAGE P, 1995, SOC NETWORKS, V17, P57, DOI 10.1016/0378-8733(94)00248-9
+   Harrer A, 2005, CSCL 2005: COMPUTER SUPPORTED COLLABORATIVE LEARNING 2005: THE NEXT 10 YEARS, PROCEEDINGS, P190
+   Haythornthwaite C, 2002, INFORM SOC, V18, P385, DOI 10.1080/01972240290108195
+   Haythornthwaite C, 2001, INFORM SOC, V17, P211, DOI 10.1080/01972240152493065
+   Haythornthwaite C., 2011, INFORM DESIGN ED TEC, P352
+   Haythornthwaite C., ENCY SOCIAL NETWORKS
+   Haythornthwaite C., 2002, BUILDING VIRTUAL COM, P159
+   Haythornthwaite C., 2010, Encyclopedia of library and information sciences, P4837
+   Haythornthwaite C., 2000, J COMPUTER MEDIATED, V6
+   Hommes J, 2012, ADV HEALTH SCI EDUC, V17, P743, DOI 10.1007/s10459-012-9349-0
+   IBARRA H, 1993, ACAD MANAGE J, V36, P471, DOI 10.5465/256589
+   Johnson DW, 2009, EDUC RESEARCHER, V38, P37, DOI 10.3102/0013189X08330540
+   Johnson RD, 2008, INT J HUM-COMPUT ST, V66, P356, DOI 10.1016/j.ijhcs.2007.11.003
+   KEENE ON, 1995, STAT MED, V14, P811, DOI 10.1002/sim.4780140810
+   Levin DZ, 2004, MANAGE SCI, V50, P1477, DOI 10.1287/mnsc.1030.0136
+   Mayer A, 2008, J PUBLIC ECON, V92, P329, DOI 10.1016/j.jpubeco.2007.09.001
+   Meece JL, 2006, ANNU REV PSYCHOL, V57, P487, DOI 10.1146/annurev.psych.56.091103.070258
+   Molm L., 1995, SOCIOLOGICAL PERSPEC
+   Nahapiet J, 1998, ACAD MANAGE REV, V23, P242, DOI 10.2307/259373
+   PUTNAM R, 1995, J DEMOCRACY, V0006
+   Reffay C, 2003, COMPUT-SUPP COLLAB L, V2, P343
+   Rizzuto T. E., 2009, Soc. Psychol. Educ, V12, P175, DOI [10.1007/s11218-008-9080-0, DOI 10.1007/S11218-008-9080-0]
+   Robbins SB, 2004, PSYCHOL BULL, V130, P261, DOI 10.1037/0033-2909.130.2.261
+   Schrire S, 2006, COMPUT EDUC, V46, P49, DOI 10.1016/j.compedu.2005.04.006
+   Seibert SE, 2001, ACAD MANAGE J, V44, P219, DOI 10.5465/3069452
+   Senko C, 2011, EDUC PSYCHOL-US, V46, P26, DOI 10.1080/00461520.2011.538646
+   Smith RA, 2007, COMMUN EDUC, V56, P278, DOI 10.1080/03634520701364890
+   Sosa ME, 2011, ORGAN SCI, V22, P1, DOI 10.1287/orsc.1090.0519
+   Sparrowe RT, 2001, ACAD MANAGE J, V44, P316, DOI 10.5465/3069458
+   Spreitzer GM, 1996, ACAD MANAGE J, V39, P483, DOI 10.5465/256789
+   Stewart-Williams S, 2007, EVOL HUM BEHAV, V28, P193, DOI 10.1016/j.evolhumbehav.2007.01.002
+   Thomas SL, 2000, J HIGH EDUC, V71, P591, DOI 10.2307/2649261
+   Tinto V, 2006, J COLL STUD RETENT-R, V8, P1
+   Tortoriello M, 2010, ACAD MANAGE J, V53, P167, DOI 10.5465/AMJ.2010.48037420
+   Townsend BK, 2009, J COLL STUD RETENT-R, V10, P405, DOI 10.2190/CS.10.4.a
+   Villar E, 2010, STUD HIGH EDUC, V35, P137, DOI 10.1080/03075070902957080
+   Vygotsky LS., 1980, MIND SOC DEV HIGHER, DOI 10.2307/j.ctvjf9vz4
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   Wellman B, 1996, ANNU REV SOCIOL, V22, P213, DOI 10.1146/annurev.soc.22.1.213
+   Yang H.L., 2003, J ASYNCHRONOUS LEARN, V7, P93
+   YORKE M, 1991, HIGH EDUC, V21, P235, DOI 10.1007/BF00137076
+   Yuan YC, 2006, INFORM SOC, V22, P25, DOI 10.1080/01972240500388347
+NR 76
+TC 93
+Z9 108
+U1 3
+U2 87
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0002-7642
+EI 1552-3381
+J9 AM BEHAV SCI
+JI Am. Behav. Sci.
+PD OCT
+PY 2013
+VL 57
+IS 10
+SI SI
+BP 1460
+EP 1479
+DI 10.1177/0002764213479362
+PG 20
+WC Psychology, Clinical; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology; Social Sciences - Other Topics
+GA 214AU
+UT WOS:000324103200006
+DA 2024-11-22
+ER
+
+PT J
+AU Walker, L
+   Davis, P
+AF Walker, Lyndon
+   Davis, Peter
+TI Modelling "Marriage Markets": A Population-Scale Implementation and
+   Parameter Test
+SO JASSS-THE JOURNAL OF ARTIFICIAL SOCIETIES AND SOCIAL SIMULATION
+LA English
+DT Article
+DE Marriage; Ethnicity; Homophily; Simulation
+ID AGENT-BASED MARRIAGE; MATE CHOICE; SOCIAL NETWORKS; PATTERNS; SEARCH
+AB Choice mechanisms and social networks, including "marriage markets", seem well-suited to be modelled using agent-type simulations. Few real-world empirical examples are available in the public literature, particularly those using human populations of size. We reviewed partnership models in both the micro-simulation and agent-based literatures. We then empirically implemented an algorithm derived from two established models using inter-censal data on first partnerships in New Zealand over the period 1981-2006. The purpose of the exercise was to test the robustness of different parameter settings and to determine whether a model simulating partnership selection among eligible never-married young adults at one census period is feasible for predicting patterns of partnership, co-habitation and marriage at the next. Varying simulation time and social network size parameters of the model showed that patterns of ethnic partnering could be consistently produced and were not dependent on these model settings. Examining the different scoring methods showed that age similarity, education similarity, and previous partnering patterns could produce partnership patterns similar to those seen in the census. The simulation produced patterns of ethnic partnering similar to those seen in the census and seemed robust to different parameter settings. To further improve these results, an optimised combination of the scoring components is proposed. The simulations also provided preliminary evidence of ethnic preferences in the New Zealand marriage market.
+C1 [Walker, Lyndon] Swinburne Univ, Melbourne, Vic 3122, Australia.
+   [Davis, Peter] Univ Auckland, Auckland, New Zealand.
+C3 Swinburne University of Technology; University of Auckland
+RP Walker, L (corresponding author), Swinburne Univ, POB 218, Melbourne, Vic 3122, Australia.
+EM lwalker@swin.edu.au; pb.davis@auckland.ac.nz
+RI Walker, Lyndon/I-7962-2015
+CR ALAM S. J., 2008, WORLD C SOC SIM, DOI [10.4054/DemRes.2007.17.3, DOI 10.4054/DEMRES.2007.17.3]
+   [Anonymous], 1989, Stat. Sci., DOI [10.1214/ss/1177012493, DOI 10.1214/SS/1177012493]
+   BACON B., 2007, APPSIM MODELLING FAM, DOI [10.4054/DemRes.2007.17.3, DOI 10.4054/DEMRES.2007.17.3]
+   Billari FC, 2007, DEMOGR RES, V17, P59, DOI 10.4054/DemRes.2007.17.3
+   BOUFFARD N., 2001, BRAZILIAN ELECT J EC, V4, DOI [10.1038/nature02541, DOI 10.1038/NATURE02541]
+   Carter KN, 2009, SOC POLICY J NZ, P32
+   CHANTARAT S., 2008, J ECON INEQUAL, DOI [10.1038/nature02541, DOI 10.1038/NATURE02541]
+   CHEESBROUGH S., 2003, 4 ESRC SAG RES GROUP, DOI [10.1038/nature02541, DOI 10.1038/NATURE02541]
+   CHEN C.-Y., 2005, POP ASS AM 2006 ANN, DOI [10.1038/nature02541, DOI 10.1038/NATURE02541]
+   Eubank S, 2004, NATURE, V429, P180, DOI 10.1038/nature02541
+   FAVREAULT M., 2004, PRIMER DYNAMIC SIMUL, DOI [10.1214/ss/1177012493, DOI 10.1214/SS/1177012493]
+   FREEMAN PR, 1983, INT STAT REV, V51, P189, DOI 10.2307/1402748
+   GALE D, 1962, AM MATH MON, V69, P9, DOI 10.2307/2312726
+   Gilber N., 2001, JASSS-J ARTIF SOC S, V4, P8
+   GUSFIELD D., 1989, STABLE MARRIAGE PROB, DOI [10.1037/0022-3514.51.4.673, DOI 10.1037/0022-3514.51.4.673]
+   HARDING A., 2007, TECHN WORKSH 1 GEN C, DOI [10.1037/0022-3514.51.4.673, DOI 10.1037/0022-3514.51.4.673]
+   Hills T, 2008, JASSS-J ARTIF SOC S, V11
+   Hoppitt W., 2011, AM J PRIMATOL, V72, P1
+   KALICK SM, 1988, J PERS SOC PSYCHOL, V54, P447
+   KALICK SM, 1986, J PERS SOC PSYCHOL, V51, P673, DOI 10.1037/0022-3514.51.4.673
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Miller G., 1999, Simple heuristics that make us smart, P287, DOI DOI 10.1111/.1745-9125.2010.00223.X
+   Miller GF, 1998, TRENDS COGN SCI, V2, P190, DOI 10.1016/S1364-6613(98)01169-3
+   Mumcu A, 2008, JASSS-J ARTIF SOC S, V11
+   ODonoghue C., 2009, International Journal of Microsimulation, V2, P16, DOI [DOI 10.34196/IJM.00009, 10.34196/IJM.00009]
+   ORCUTT G. H., 1976, POLICY EXPLORATION M, DOI [10.2307/2808052, DOI 10.2307/2808052]
+   PENNEC S., 2007, 7 NATSEM, DOI [10.2307/2808052s, DOI 10.2307/2808052]
+   PERESE K., 2002, TECHNICAL PAPER SERI, DOI [10.2307/2808052, DOI 10.2307/2808052]
+   SAGLAM I., 2011, 38493 MPRA U LIB MUN, DOI [10.2307/2808052, DOI 10.2307/2808052]
+   Sanderson WC, 1998, POPUL DEV REV, V24, P88, DOI 10.2307/2808052
+   Simao J, 2002, ADAPT BEHAV, V10, P113, DOI 10.1177/1059712302010002003
+   Simao J, 2003, ARTIF LIFE, V9, P403, DOI 10.1162/106454603322694843
+   Simao J, 2001, LECT NOTES ARTIF INT, V2159, P377, DOI 10.1007/3-540-44811-X_40
+   SPIELAUER M., 2001, BRAZILIAN ELECT J EC, V4, DOI [10.1007/978-3-7908-2715-6_7, DOI 10.1007/978-3-7908-2715-6_7]
+   TODD P. M., 2002, SIMPLE HEURISTICS MA, DOI 10.111141745-9125.2010.0022x
+   Todd PM, 2005, DEMOGRAPHY, V42, P559, DOI 10.1353/dem.2005.0027
+   Todd PM, 2003, CONTRIB ECON, P117
+   Van Imhoff E, 1998, Popul, V10, P97
+   Weerman FM, 2011, CRIMINOLOGY, V49, P253, DOI 10.1111/j.1745-9125.2010.00223.x
+   Xu ZW, 2009, GEOGR ANAL, V41, P263, DOI 10.1111/j.1538-4632.2009.00754.x
+   ZEDLEWSKI SR, 1990, MICROSIMULATION TECH
+NR 41
+TC 6
+Z9 7
+U1 0
+U2 13
+PU J A S S S
+PI GUILDFORD
+PA UNIV SURREY, DEPT SOCIOLOGY, GUILDFORD GU2 7XH, SURREY, ENGLAND
+SN 1460-7425
+J9 JASSS-J ARTIF SOC S
+JI JASSS
+PD JAN
+PY 2013
+VL 16
+IS 1
+AR 6
+DI 10.18564/jasss.2106
+PG 14
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA 138XH
+UT WOS:000318544400006
+OA Green Submitted, Green Accepted, gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Nepusz, T
+   Vicsek, T
+AF Nepusz, Tamas
+   Vicsek, Tamas
+TI Hierarchical Self-Organization of Non-Cooperating Individuals
+SO PLOS ONE
+LA English
+DT Article
+AB Hierarchy is one of the most conspicuous features of numerous natural, technological and social systems. The underlying structures are typically complex and their most relevant organizational principle is the ordering of the ties among the units they are made of according to a network displaying hierarchical features. In spite of the abundant presence of hierarchy no quantitative theoretical interpretation of the origins of a multi-level, knowledge-based social network exists. Here we introduce an approach which is capable of reproducing the emergence of a multi-levelled network structure based on the plausible assumption that the individuals (representing the nodes of the network) can make the right estimate about the state of their changing environment to a varying degree. Our model accounts for a fundamental feature of knowledge-based organizations: the less capable individuals tend to follow those who are better at solving the problems they all face. We find that relatively simple rules lead to hierarchical self-organization and the specific structures we obtain possess the two, perhaps most important features of complex systems: a simultaneous presence of adaptability and stability. In addition, the performance (success score) of the emerging networks is significantly higher than the average expected score of the individuals without letting them copy the decisions of the others. The results of our calculations are in agreement with a related experiment and can be useful from the point of designing the optimal conditions for constructing a given complex social structure as well as understanding the hierarchical organization of such biological structures of major importance as the regulatory pathways or the dynamics of neural networks.
+C1 [Nepusz, Tamas; Vicsek, Tamas] Eotvos Lorand Univ, Dept Biol Phys, Budapest, Hungary.
+   [Vicsek, Tamas] Hungarian Acad Sci, Stat & Biol Phys Res Grp, Budapest, Hungary.
+C3 Eotvos Lorand University; Hungarian Academy of Sciences
+RP Vicsek, T (corresponding author), Eotvos Lorand Univ, Dept Biol Phys, Budapest, Hungary.
+EM vicsek@hal.elte.hu
+RI Nepusz, Tamás/E-2832-2016; Vicsek, Tamas/AHI-2563-2022
+FU EU FP = COLLMOT project [227878]
+FX This work has benn supported in part by the EU FP = COLLMOT project No:
+   227878. The funders had no role in study design, data collection and
+   analysis, decision to publish, or preparation of the manuscript. No
+   additional external funding was received for this study.
+CR Ahn YY, 2010, NATURE, V466, P761, DOI 10.1038/nature09182
+   Aliprantis CD, 2010, GAMES DECISION MAKIN
+   [Anonymous], 1985, Evolving hierarchical systems: Their structure and representation
+   [Anonymous], 1994, Hierarchical decision making in stochastic manufacturing systems
+   [Anonymous], FRONT NEUROINFORM
+   Bonabeau E, 1999, B MATH BIOL, V61, P727, DOI 10.1006/bulm.1999.0108
+   Castellano C, 2009, REV MOD PHYS, V81, P591, DOI 10.1103/RevModPhys.81.591
+   Clauset A, 2008, NATURE, V453, P98, DOI 10.1038/nature06830
+   Costanzo MC, 2001, NUCLEIC ACIDS RES, V29, P75, DOI 10.1093/nar/29.1.75
+   Couzin ID, 2005, NATURE, V433, P513, DOI 10.1038/nature03236
+   Cvitanic J, 2004, INTRO EC FINANCIAL M
+   Dastani M, 2010, SPECIFICATION AND VERIFICATION OF MULTI-AGENT SYSTEMS, P1, DOI 10.1007/978-1-4419-6984-2
+   Dubreuil B, 2010, HUMAN EVOLUTION ORIG
+   EADES P, 1993, INFORM PROCESS LETT, V47, P319, DOI 10.1016/0020-0190(93)90079-O
+   Galam S, 2012, UNDERST COMPLEX SYST, P1, DOI 10.1007/978-1-4614-2032-3
+   Hemelrijk CK, 2003, BEHAVIOUR, V140, P1189, DOI 10.1163/156853903771980549
+   Jeong H, 2000, NATURE, V407, P651, DOI 10.1038/35036627
+   Lane D, 2006, METHODS SER, V3, P81
+   Lazer D, 2011, INT PUBLIC MANAG J, V14, P311, DOI 10.1080/10967494.2011.618308
+   Lee S, 2011, PHYS REV LETT, V106, DOI 10.1103/PhysRevLett.106.028702
+   Liska TF, 2007, SOC EC, V29, P363
+   Luo JX, 2011, COMPLEXITY, V16, P53, DOI 10.1002/cplx.20368
+   MACRAE D, 1960, SOCIOMETRY, V23, P360, DOI 10.2307/2785690
+   Mones E, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0033799
+   Nagy M, 2010, NATURE, V464, P890, DOI 10.1038/nature08891
+   Pumain D, 2006, METHODS SER, V3, P1, DOI 10.1007/1-4020-4127-6
+   Ravasz E, 2002, SCIENCE, V297, P1551, DOI 10.1126/science.1073374
+   Rowe R., 2007, Proceedings of the 9th WebKDD and 1st SNA-KDD 2007 Workshop on Web Mining and Social Network Analysis, WebKDD/SNA-KDD '07, P109
+   Simon H, 1973, Hierarchy Theory; the Challenge of Complex Systems, P3
+   Stein D.L., 2012, Spin Glasses and Complexity
+   Surowiecki J, 2005, WISDOM CROWDS
+   Wimberley EdT., 2009, Nested ecology: The place of humans in the ecological hierarchy
+   Yu HY, 2006, P NATL ACAD SCI USA, V103, P14724, DOI 10.1073/pnas.0508637103
+NR 33
+TC 13
+Z9 17
+U1 0
+U2 20
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD DEC 11
+PY 2013
+VL 8
+IS 12
+AR e81449
+DI 10.1371/journal.pone.0081449
+PG 9
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 276EG
+UT WOS:000328730300028
+PM 24349070
+OA Green Published, gold, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Lee, K
+   Kim, S
+   Kim, CO
+   Park, T
+AF Lee, Keeheon
+   Kim, Shintae
+   Kim, Chang Ouk
+   Park, Taeho
+TI An Agent-Based Competitive Product Diffusion Model for the Estimation
+   and Sensitivity Analysis of Social Network Structure and Purchase Time
+   Distribution
+SO JASSS-THE JOURNAL OF ARTIFICIAL SOCIETIES AND SOCIAL SIMULATION
+LA English
+DT Article
+DE Agent-Based Product Diffusion Model; Individual Purchase Time; Social
+   Network Structure; Estimation; Sensitivity Analysis
+ID SIMULATION; MARKET; INNOVATIONS; DYNAMICS
+AB To maximise the possibility of success for a new product and minimise the risk and opportunity cost of a failed product, firms must understand the diffusion dynamics of competing products. The diffusion dynamics of competing products emerge from the aggregation of consumers decisions. At the individual level, a consumer's decision consists of "which product to buy among the available products" and "when to buy a product". Individual product choices are affected by local and global social interactions among consumers. It would be helpful for firms to be able to determine the characteristics of the relevant social network for their target market and how changes in this social network influence their market shares. In addition, determining the distribution of product purchase times of consumers and how their variation affects market shares are interesting issues for firms. In this study, therefore, we propose an agent-based simulation model that generates the market share paths (market shares over time) of competing products. We apply the model to estimate the social network and purchase time distribution of the Korean netbook market. Our observation is that Korean netbook consumers tend to buy a product without hesitation, and their social network is rather regular but sparse. We also conduct sensitivity analyses with respect to the social network and the purchase time distribution.
+C1 [Lee, Keeheon; Kim, Chang Ouk] Yonsei Univ, Dept Informat & Ind Engn, Seoul 120749, South Korea.
+   [Kim, Shintae] Samsung SDS Co, Seoul, South Korea.
+   [Park, Taeho] San Jose State Univ, San Jose, CA USA.
+C3 Yonsei University; Samsung; California State University System; San Jose
+   State University
+RP Lee, K (corresponding author), Yonsei Univ, Dept Informat & Ind Engn, 50 Yonsei Ro Seodaemun Gu, Seoul 120749, South Korea.
+EM keeheon4u@gmail.com; kshintae@hanmail.net; kimco@yonsei.ac.kr;
+   taeho.park@sjsu.edu
+CR Alkemade F., 2005, Computational Economics, V25, P3, DOI 10.1007/s10614-005-6245-1
+   [Anonymous], 2001, FUZZY SET THEORY ITS, DOI [10.1007/978-94-010-0646-0, DOI 10.1007/978-94-010-0646-0]
+   Bemmaor A. C., 1994, INT SER QUANT MARKET, P201
+   Bemmaor AC, 2002, MARKET SCI, V21, P209, DOI 10.1287/mksc.21.2.209.151
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Delre S. A., 2007, Computational & Mathematical Organization Theory, V13, P185, DOI 10.1007/s10588-006-9007-2
+   Delre SA, 2007, J BUS RES, V60, P826, DOI 10.1016/j.jbusres.2007.02.002
+   Deng HP, 2006, IEEE T SYST MAN CY A, V36, P968, DOI 10.1109/TSMCA.2006.878988
+   Goldenberg J, 2001, MARKET LETT, V12, P211, DOI 10.1023/A:1011122126881
+   Goldenberg J, 2001, TECHNOL FORECAST SOC, V68, P293, DOI 10.1016/S0040-1625(00)00095-0
+   GRANOVETTER M, 1978, AM J SOCIOL, V83, P1420, DOI 10.1086/226707
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Günther M, 2011, J OPER RES SOC, V62, P12, DOI 10.1057/jors.2009.170
+   Guseo R, 2009, TECHNOL FORECAST SOC, V76, P806, DOI 10.1016/j.techfore.2008.10.005
+   Hong TP, 1996, FUZZY SET SYST, V84, P33, DOI 10.1016/0165-0114(95)00305-3
+   Janssen MA, 2003, ARTIF LIFE, V9, P343, DOI 10.1162/106454603322694807
+   Janssen MA, 2001, J ECON PSYCHOL, V22, P745, DOI 10.1016/S0167-4870(01)00063-0
+   Kim S, 2011, EXPERT SYST APPL, V38, P7270, DOI 10.1016/j.eswa.2010.12.024
+   Moldovan S, 2004, TECHNOL FORECAST SOC, V71, P425, DOI [10.1016/S0040-1625(03)00026-X, 10.1016/s0040-1625(03)00026-x]
+   Pangburn MS, 2009, EUR J OPER RES, V197, P102, DOI 10.1016/j.ejor.2008.05.026
+   ROGERS E. M., 1962, DIFFUSION INNOVATION, DOI [10.1109/TASSP.1978.1163055, DOI 10.1109/TASSP.1978.1163055]
+   SAKOE H, 1978, IEEE T ACOUST SPEECH, V26, P43, DOI 10.1109/TASSP.1978.1163055
+   Schwarz N, 2009, TECHNOL FORECAST SOC, V76, P497, DOI 10.1016/j.techfore.2008.03.024
+   SHANNON R. E., 1975, SYSTEMS SIMULATION T, DOI [10.1509/jmkr.46.2.135, DOI 10.1509/JMKR.46.2.135]
+   Tellis GJ, 2009, J MARKETING RES, V46, P135, DOI 10.1509/jmkr.46.2.135
+   Train KE, 2009, DISCRETE CHOICE METHODS WITH SIMULATION, 2ND EDITION, P1
+   Wang WJ, 2000, J INTELL FUZZY SYST, V9, P53
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Wu S. D., 2005, Engineering Economist, V50, P125, DOI 10.1080/00137910590949887
+   Yeh CH, 2003, TRANSPORT RES E-LOG, V39, P35, DOI 10.1016/S1366-5545(02)00017-0
+NR 31
+TC 18
+Z9 22
+U1 2
+U2 26
+PU J A S S S
+PI GUILDFORD
+PA UNIV SURREY, DEPT SOCIOLOGY, GUILDFORD GU2 7XH, SURREY, ENGLAND
+SN 1460-7425
+J9 JASSS-J ARTIF SOC S
+JI JASSS
+PD JAN
+PY 2013
+VL 16
+IS 1
+AR 3
+DI 10.18564/jasss.2080
+PG 22
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA 138XH
+UT WOS:000318544400003
+OA Green Submitted, gold
+DA 2024-11-22
+ER

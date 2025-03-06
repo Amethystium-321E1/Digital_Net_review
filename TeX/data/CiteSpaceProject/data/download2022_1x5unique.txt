@@ -1,0 +1,546 @@
+
+PT J
+AU Franceschi, J
+   Pareschi, L
+AF Franceschi, Jonathan
+   Pareschi, Lorenzo
+TI Spreading of fake news, competence and learning: kinetic modelling and
+   numerical approximation
+SO PHILOSOPHICAL TRANSACTIONS OF THE ROYAL SOCIETY A-MATHEMATICAL PHYSICAL
+   AND ENGINEERING SCIENCES
+LA English
+DT Article
+DE fake news; compartmental models; competence; learning dynamics;
+   interacting agents; mean-field models
+ID DIFFUSION; POWER
+AB The rise of social networks as the primary means of communication in almost every country in the world has simultaneously triggered an increase in the amount of fake news circulating online. The urgent need for models that can describe the growing infodemic of fake news has been highlighted by the current pandemic. The resulting slowdown in vaccination campaigns due to misinformation and generally the inability of individuals to discern the reliability of information is posing enormous risks to the governments of many countries. In this research using the tools of kinetic theory, we describe the interaction between fake news spreading and competence of individuals through multi-population models in which fake news spreads analogously to an infectious disease with different impact depending on the level of competence of individuals. The level of competence, in particular, is subject to evolutionary dynamics due to both social interactions between agents and external learning dynamics. The results show how the model is able to correctly describe the dynamics of diffusion of fake news and the important role of competence in their containment.This article is part of the theme issue 'Kinetic exchange models of societies and economies'.
+C1 [Franceschi, Jonathan] Univ Pavia, Dept Math, Pavia, Italy.
+   [Pareschi, Lorenzo] Univ Ferrara, Dept Math & Comp Sci, Ferrara, Italy.
+C3 University of Pavia; University of Ferrara
+RP Pareschi, L (corresponding author), Univ Ferrara, Dept Math & Comp Sci, Ferrara, Italy.
+EM lorenzo.pareschi@unife.it
+RI Pareschi, Lorenzo/HHZ-8140-2022; Pareschi, Lorenzo/D-2036-2012
+OI Pareschi, Lorenzo/0000-0002-8706-6939; Franceschi,
+   Jonathan/0000-0002-0370-6346
+FU MIUR (Ministero dell'Istruzione, dell'Universita e della Ricerca) PRIN
+   2017, project 'Innovative numerical methods for evolutionary partial
+   differential equations and applications' [2017KKJP4X]
+FX This work was partially supported by MIUR (Ministero dell'Istruzione,
+   dell'Universita e della Ricerca) PRIN 2017, project 'Innovative
+   numerical methods for evolutionary partial differential equations and
+   applications', code 2017KKJP4X.
+CR Albi G, 2017, KINET RELAT MOD, V10, P1, DOI 10.3934/krm.2017001
+   Allcott H, 2017, J ECON PERSPECT, V31, P211, DOI 10.1257/jep.31.2.211
+   Bak-Coleman JB, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2025764118
+   Bertaglia G, 2021, MATH MOD METH APPL S, V31, P2495, DOI 10.1142/S0218202521500548
+   Bettencourt LMA, 2006, PHYSICA A, V364, P513, DOI 10.1016/j.physa.2005.08.083
+   Billiard S, 2020, MATH MOD METH APPL S, V30, P2691, DOI 10.1142/S0218202520500529
+   Brisson L., 2018, COMPLEX NETWORKS THE
+   Brody D., 2018, MODEL FAKE NEWS
+   Cheng JJ, 2013, EUR PHYS J B, V86, DOI 10.1140/epjb/e2012-30483-5
+   Conroy N.K., 2015, P ASS INFORM SCI TEC, V52, P1, DOI [10.1002/pra2.2015.145052010082, DOI 10.1002/PRA2.2015.145052010082]
+   Curiel RP, 2021, SCI REP-UK, V11, DOI 10.1038/s41598-021-85555-1
+   Daley D., 1999, Epidemic modelling: an introduction
+   DALEY DJ, 1964, NATURE, V204, P1118, DOI 10.1038/2041118a0
+   Dimarco G, 2020, PHYS REV E, V102, DOI 10.1103/PhysRevE.102.022303
+   Eguíluz VM, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.108701
+   Franceschi J., 2022, FIGSHARE
+   Gelfert A, 2018, INFORMAL LOG, V38, P84, DOI 10.22329/il.v38i1.5068
+   Hethcote HW, 2000, SIAM REV, V42, P599, DOI 10.1137/S0036144500371907
+   Jin F., 2013, P 7 WORKSHOP SOCIAL, P19
+   Kai Shu, 2017, ACM SIGKDD Explorations Newsletter, V19, P22, DOI 10.1145/3137597.3137600
+   Kermack WO, 1932, P R SOC LOND A-CONTA, V138, P55, DOI 10.1098/rspa.1932.0171
+   Korobeinikov A, 2004, MATH MED BIOL, V21, P75
+   Kuperman M, 2001, PHYS REV LETT, V86, P2909, DOI 10.1103/PhysRevLett.86.2909
+   Leeder C, 2019, LIBR INFORM SCI RES, V41, DOI 10.1016/j.lisr.2019.100967
+   Loomba S, 2021, NAT HUM BEHAV, V5, P337, DOI 10.1038/s41562-021-01056-1
+   OECD, 2019, SKILLS MATT ADD RES
+   Pareschi L, 2014, PHILOS T R SOC A, V372, DOI 10.1098/rsta.2013.0396
+   Pareschi L., 2013, INTERACTING MULTIAGE
+   Pareschi L, 2018, J SCI COMPUT, V74, P1575, DOI 10.1007/s10915-017-0510-z
+   Pareschi L, 2017, PHYSICA A, V467, P201, DOI 10.1016/j.physa.2016.10.003
+   Pastor-Satorras R, 2001, PHYS REV LETT, V86, P3200, DOI 10.1103/PhysRevLett.86.3200
+   Piqueira JRC, 2020, PHYSICA A, V548, DOI 10.1016/j.physa.2019.123406
+   Ruchansky N., 2017, INT C INFORM KNOWLED
+   Shin J, 2018, COMPUT HUM BEHAV, V83, P278, DOI 10.1016/j.chb.2018.02.008
+   Shrivastava G, 2020, IEEE T COMPUT SOC SY, V7, P1159, DOI 10.1109/TCSS.2020.3014135
+   Shu K, 2020, BIG DATA-US, V8, P171, DOI 10.1089/big.2020.0062
+   Trammell TI, 2020, THESIS STANFORD U
+   Vargo CJ, 2018, NEW MEDIA SOC, V20, P2028, DOI 10.1177/1461444817712086
+   Zhang XC, 2020, INFORM PROCESS MANAG, V57, DOI 10.1016/j.ipm.2019.03.004
+   Zhao ZL, 2020, EPJ DATA SCI, V9, DOI 10.1140/epjds/s13688-020-00224-z
+NR 40
+TC 8
+Z9 8
+U1 2
+U2 15
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 1364-503X
+EI 1471-2962
+J9 PHILOS T R SOC A
+JI Philos. Trans. R. Soc. A-Math. Phys. Eng. Sci.
+PD MAY 30
+PY 2022
+VL 380
+IS 2224
+AR 20210159
+DI 10.1098/rsta.2021.0159
+PG 18
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA 0Y6RB
+UT WOS:000790514900016
+PM 35400178
+OA Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Wei, XC
+   Liao, Q
+   Zhang, YF
+   Nie, GH
+AF Wei, Xiaochao
+   Liao, Qi
+   Zhang, Yanfei
+   Nie, Guihua
+TI Effect of Overconfidence on Product Diffusion in Online Social Networks:
+   A Multiagent Simulation Based on Evolutionary Game and Overconfidence
+   Theory
+SO COMPLEXITY
+LA English
+DT Article
+ID CEO OVERCONFIDENCE; DECISION-MAKING; AGENT; MODEL; RECOMMENDATION;
+   TECHNOLOGY; KNOWLEDGE; BEHAVIOR; SYSTEMS; SUCCESS
+AB The rapid development of online social media has significantly promoted product diffusion in online social networks (PDOSN). However, prior studies focusing on irrational behavior, such as overconfidence, in PDOSN are scarce. To investigate the effect of overconfidence on PDOSN, this study combined overconfidence and an evolutionary game to conduct a multiagent simulation on PDOSN. This combined method provided an effective reference to examine product diffusion in the context of irrational behavior. After careful consideration, this study identified three overconfidence scenarios, benefit, cost, and benefit and cost overconfidence, developed a multiagent simulation model for PDOSN using various overconfidence scenarios, and conducted a comparison with real-world cases to validate the model's feasibility. The findings indicated that adoption benefits and betrayal penalties had a positive effect on the results in all models, while adoption costs had the opposite effect. When benefit and cost overconfidence occurred simultaneously, benefit overconfidence offset the negative effect of cost overconfidence. Moderate connectivity, a large number of core nodes, and high reconnection probability fully promoted product diffusion. Benefit overconfidence and cost overconfidence had a significant impact on the results in different networks. As such, this study combined psychological theory with simulation methods, providing insights for future research on product diffusion.
+C1 [Wei, Xiaochao; Liao, Qi; Zhang, Yanfei; Nie, Guihua] Wuhan Univ Technol, Dept Econ, Wuhan 430070, Peoples R China.
+C3 Wuhan University of Technology
+RP Wei, XC (corresponding author), Wuhan Univ Technol, Dept Econ, Wuhan 430070, Peoples R China.
+EM weixiaochaowin@163.com; 1561137920@qq.com; 15171431742@163.com;
+   niegh@whut.edu.cn
+OI Liao, Qi/0000-0002-9732-8883; zhang, yan fei/0000-0002-5305-6353
+FU National Natural Science Foundation of China [71601151]; MOE (Ministry
+   of Education in China) Project of Humanities and Social Sciences
+   [16YJC630131]; China Postdoctoral Science Foundation [2014M552102,
+   2018T110814]
+FX This work was supported by the National Natural Science Foundation of
+   China (no. 71601151), the MOE (Ministry of Education in China) Project
+   of Humanities and Social Sciences (no. 16YJC630131), and the China
+   Postdoctoral Science Foundation funded project (nos. 2014M552102 and
+   2018T110814).
+CR Barnaud C, 2008, ECOL ECON, V66, P615, DOI 10.1016/j.ecolecon.2007.10.022
+   BASS FM, 1969, MANAGE SCI, V15, P215, DOI 10.1287/mnsc.15.5.215
+   Berger T, 2001, AGR ECON-BLACKWELL, V25, P245, DOI 10.1111/j.1574-0862.2001.tb00205.x
+   Bertella MA, 2020, PHYSICA A, V554, DOI 10.1016/j.physa.2019.123909
+   Bonchi F, 2011, ACM T INTEL SYST TEC, V2, DOI 10.1145/1961189.1961194
+   Borge-Holthoefer J, 2012, PHYS REV E, V85, DOI 10.1103/PhysRevE.85.066123
+   Cebulla M., 2006, P INT C COMPUTATIONA, P277, DOI [10.1109/cimca.2005.1631481, DOI 10.1109/CIMCA.2005.1631481]
+   Cheng X, 2019, APPL ENERG, V251, DOI 10.1016/j.apenergy.2019.113366
+   Debondt W., 1995, HBK OPERAT RES MANAG, V9, P385, DOI 10.1016/S0927-0507(05)80057-X
+   Dellarocas C, 2006, MANAGE SCI, V52, P1577, DOI 10.1287/mnsc.1060.0567
+   Dey A.K., 2000, CHI 2000 WORKSHOP WH
+   Gatti MAD, 2013, WINT SIMUL C PROC, P1685, DOI 10.1109/WSC.2013.6721550
+   Glaser M, 2007, GENEVA RISK INS REV, V32, P1, DOI 10.1007/s10713-007-0003-3
+   Goldenberg J, 2000, PHYSICA A, V284, P335, DOI 10.1016/S0378-4371(00)00260-0
+   Goldenberg J, 2002, J MARKETING, V66, P1, DOI 10.1509/jmkg.66.2.1.18472
+   GRIFFIN D, 1992, COGNITIVE PSYCHOL, V24, P411, DOI 10.1016/0010-0285(92)90013-R
+   Haki K, 2020, MIS QUART, V44, P155, DOI 10.25300/MISQ/2020/14494
+   Hann V, 2020, ENERG POLICY, V147, DOI 10.1016/j.enpol.2020.111824
+   Jiang GY, 2020, INFORM SCIENCES, V512, P161, DOI 10.1016/j.ins.2019.09.053
+   Jiang GY, 2016, EUR J OPER RES, V248, P1093, DOI 10.1016/j.ejor.2015.07.051
+   Jiang GY, 2014, INFORM SCIENCES, V278, P250, DOI 10.1016/j.ins.2014.03.051
+   Jiang LS, 2019, IFAC PAPERSONLINE, V51, P15, DOI 10.1016/j.ifacol.2019.01.004
+   Johnson ME, 2006, AGR ECON, V35, P119, DOI 10.1111/j.1574-0862.2006.00146.x
+   Li Junfeng., 2006, A Study on the Pricing Policy of Wind Power in China
+   LOOMES G, 1982, ECON J, V92, P805, DOI 10.2307/2232669
+   Maienhofer D., 2002, Computational & Mathematical Organization Theory, V8, P259, DOI 10.1023/A:1025464501110
+   Mallat N, 2009, INFORM MANAGE-AMSTER, V46, P190, DOI 10.1016/j.im.2008.11.008
+   Malmendier U, 2005, J FINANC, V60, P2661, DOI 10.1111/j.1540-6261.2005.00813.x
+   Malmendier U, 2008, J FINANC ECON, V89, P20, DOI 10.1016/j.jfineco.2007.07.002
+   Moore DA, 2008, PSYCHOL REV, V115, P502, DOI 10.1037/0033-295X.115.2.502
+   Neri F, 2004, IEEE/WIC/ACM INTERNATIONAL CONFERENCE ON INTELLIGENT AGENT TECHNOLOGY, PROCEEDINGS, P333, DOI 10.1109/IAT.2004.1342964
+   Neville B, 2015, EXPERT SYST APPL, V42, P2884, DOI 10.1016/j.eswa.2014.10.029
+   Oh H., 2007, P 2007 IEEE POWER EN
+   OREN SS, 1988, J FORECASTING, V7, P273, DOI 10.1002/for.3980070407
+   REINGANUM JF, 1981, BELL J ECON, V12, P618, DOI 10.2307/3003576
+   Schoder D, 2000, INF ECON POLICY, V12, P181, DOI 10.1016/S0167-6245(00)00006-8
+   Serrano E, 2016, EXPERT SYST APPL, V50, P140, DOI 10.1016/j.eswa.2015.12.021
+   Shiraki T., 2011, CEUR WORKSHOP PROC, V791
+   Singhal S, 2020, TECHNOL FORECAST SOC, V161, DOI 10.1016/j.techfore.2020.120285
+   Stai E, 2018, MULTIMED TOOLS APPL, V77, P283, DOI 10.1007/s11042-016-4209-1
+   Starcke K, 2012, NEUROSCI BIOBEHAV R, V36, P1228, DOI 10.1016/j.neubiorev.2012.02.003
+   Tu Z, 2020, IEEE T MOBILE COMPUT, V19, P2670, DOI 10.1109/TMC.2019.2929388
+   TVERSKY A, 1974, SCIENCE, V185, P1124, DOI 10.1126/science.185.4157.1124
+   Van den Steen E, 2011, MANAGE SCI, V57, P884, DOI 10.1287/mnsc.1110.1323
+   Wang HY, 2021, FRONT ENERGY RES, V9, DOI 10.3389/fenrg.2021.586787
+   Wei XC, 2021, IEEE ACCESS, V9, P90061, DOI 10.1109/ACCESS.2021.3090783
+   Weil AR, 2018, HEALTH AFFAIR, V37, P175, DOI 10.1377/hlthaff.2018.0059
+   Yurur Ozgur, 2016, IEEE Communications Surveys & Tutorials, V18, P68, DOI 10.1109/COMST.2014.2381246
+   Zeelenberg M, 2007, J CONSUM PSYCHOL, V17, P3, DOI 10.1207/s15327663jcp1701_3
+NR 49
+TC 2
+Z9 2
+U1 1
+U2 36
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1076-2787
+EI 1099-0526
+J9 COMPLEXITY
+JI Complexity
+PD MAR 28
+PY 2022
+VL 2022
+AR 1516419
+DI 10.1155/2022/1516419
+PG 22
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Mathematics; Science & Technology - Other Topics
+GA 2M6LD
+UT WOS:000817808000001
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Wang, AHE
+   Yeh, YY
+   Wu, CKS
+   Chen, FY
+AF Wang, Austin Horng-En
+   Yeh, Yao-Yuan
+   Wu, Charles K. S.
+   Chen, Fang-Yu
+TI Media literacy and partisan convergence across social network sites
+SO SOCIAL SCIENCE JOURNAL
+LA English
+DT Article; Early Access
+DE Media literacy; Misinformation; Partisan bias; Taiwan politics; Fake
+   news
+ID POLARIZATION; INFORMATION
+AB The existing literature highlights social network sites (SNS) as important channels for consuming news and receiving misinformation. However, people surf multiple SNS daily, such as Facebook, Twitter, Line, etc. People also connect and interact with each other, given the characteristics of specific SNS. Driven by partisan bias, partisan supporters may be driven to converge on a specific SNS due to a political echo chamber that exists there. In such a partisan convergence scenario, politicized SNS usage may lead to bias to color the spread of fact-checking and, therefore, politically bias SNS users' level of media literacy. We examine this hypothesis in a pre-registered national survey (n = 1060) in the 2020 Taiwan Presidential Election. Results show that (1), in general, the usage of the private messaging app Line is related to a lower level of media literacy. The effect holds across political and non-political misinformation items. (2) DPP supporters are much more likely to use Facebook than other supporters, while their political opponents are alienated from Facebook. Therefore, (3) Facebook usage is related to a higher media literacy discerning DPP-related fake news but not others, and the effect exists beyond DPP supporters.
+C1 [Wang, Austin Horng-En] Univ Nevada, Dept Polit Sci, 4505 S Maryland Pkwy, Las Vegas, NV 89154 USA.
+   [Yeh, Yao-Yuan] Univ St Thomas, Dept Int Studies & Modern Languages, Houston, TX 77006 USA.
+   [Wu, Charles K. S.] Univ S Alabama, Dept Polit Sci & Criminal Justice, Mobile, AL USA.
+   [Chen, Fang-Yu] Soochow Univ, Dept Polit Sci, Taipei, Taiwan.
+C3 Nevada System of Higher Education (NSHE); University of Nevada Las
+   Vegas; University of Saint Thomas; University of South Alabama; Soochow
+   University
+RP Wang, AHE (corresponding author), Univ Nevada, Dept Polit Sci, 4505 S Maryland Pkwy, Las Vegas, NV 89154 USA.
+EM austin.wang@unlv.edu
+RI Wu, Charles/HIR-4717-2022
+OI Yeh, Yao-Yuan/0000-0001-9160-1239; Wang, Austin/0000-0002-0256-2723
+CR Achen ChristopherH Te-Yu Wang., 2017, The Taiwan Voter
+   [Anonymous], 2021, Taiwan Democracy Quarterly, V18, P107
+   Carlson TN, 2019, AM POLIT SCI REV, V113, P325, DOI 10.1017/S000305541900008X
+   Cassino D, 2007, POLIT VIERTELJAHR, V48, P205, DOI 10.1007/s11615-007-0044-3
+   Dewey C., 2014, WASHINGTON POST 0429
+   Dickey L., 2019, CONFRONTING CHALLENG
+   Garrett RK, 2019, PLOS ONE, V14, DOI 10.1371/journal.pone.0213500
+   Guess AM, 2020, P NATL ACAD SCI USA, V117, P15536, DOI 10.1073/pnas.1920498117
+   Hartnett S J., 2021, Taiwan Journal of Democracy, V17, P21
+   Huang C, 2022, ASIAN J COMMUN, V32, P75, DOI 10.1080/01292986.2021.2022174
+   Jerit J, 2012, J POLIT, V74, P672, DOI 10.1017/S0022381612000187
+   Klar S, 2020, J EXP POLIT SCI, V7, P56, DOI 10.1017/XPS.2019.26
+   LATANE B, 1979, J PERS SOC PSYCHOL, V37, P822, DOI 10.1037//0022-3514.37.6.822
+   Lazer DMJ, 2018, SCIENCE, V359, P1094, DOI 10.1126/science.aao2998
+   Locker M., 2019, FAST CO 0111
+   Lottridge D, 2018, PROCEEDINGS OF THE 2018 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS (CHI 2018), DOI 10.1145/3173574.3173634
+   Madden M., 2013, TEENS SOCIAL MEDIA P, V21, P2, DOI DOI 14/2013/05/PIP_TEENSSOCIALMEDIAANDPRIVACY_PDF.PDF
+   Mechkova Valeriya., 2020, Digital Society Project Dataset v2
+   Potter WJ, 2020, Media Literacy, VNinth
+   Rossini P, 2021, NEW MEDIA SOC, V23, P2430, DOI 10.1177/1461444820928059
+   SEARS DO, 1967, PUBLIC OPIN QUART, V31, P194, DOI 10.1086/267513
+   Shin J, 2018, COMPUT HUM BEHAV, V83, P278, DOI 10.1016/j.chb.2018.02.008
+   Stroud NJ, 2010, J COMMUN, V60, P556, DOI 10.1111/j.1460-2466.2010.01497.x
+   Timberg C., 2020, WASHINGTON POST 0220
+   Törnberg P, 2018, PLOS ONE, V13, DOI 10.1371/journal.pone.0203958
+   Triplett N., 1898, American Journal of Psychology, V9, P507, DOI DOI 10.2307/1412188
+   Wang AHE, 2019, J EAST ASIAN STUD, V19, P275, DOI 10.1017/jea.2019.25
+   Wang Tai-Li, 2020, The Asian Journal for Public Opinion Research, V8, P67
+   Zillmann D., 2013, Selective exposure to communication
+NR 29
+TC 1
+Z9 1
+U1 2
+U2 15
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0362-3319
+EI 1873-5355
+J9 SOC SCI J
+JI Soc. Sci. J.
+PD 2022 OCT 12
+PY 2022
+DI 10.1080/03623319.2022.2127174
+EA OCT 2022
+PG 14
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA 5F1BR
+UT WOS:000866058400001
+DA 2024-11-22
+ER
+
+PT J
+AU Monsted, B
+   Lehmann, S
+AF Monsted, Bjarke
+   Lehmann, Sune
+TI Characterizing polarization in online vaccine discourse-A large-scale
+   study
+SO PLOS ONE
+LA English
+DT Article
+ID HPV VACCINE; IMMUNIZATION; EXEMPTIONS; HESITANCY; PERTUSSIS;
+   MISINFORMATION; ASSOCIATION; INFORMATION; REFUSAL; MEASLES
+AB Vaccine hesitancy is currently recognized by the WHO as a major threat to global health. Recently, especially during the COVID-19 pandemic, there has been a growing interest in the role of social media in the propagation of false information and fringe narratives regarding vaccination. Using a sample of approximately 60 billion tweets, we conduct a large-scale analysis of the vaccine discourse on Twitter. We use methods from deep learning and transfer learning to estimate the vaccine sentiments expressed in tweets, then categorize individual-level user attitude towards vaccines. Drawing on an interaction graph representing mutual interactions between users, we analyze the interplay between vaccine stances, interaction network, and the information sources shared by users in vaccine-related contexts. We find that strongly anti-vaccine users frequently share content from sources of a commercial nature; typically sources which sell alternative health products for profit. An interesting aspect of this finding is that concerns regarding commercial conflicts of interests are often cited as one of the major factors in vaccine hesitancy. Further, we show that the debate is highly polarized, in the sense that users with similar stances on vaccination interact preferentially with one another. Extending this insight, we provide evidence of an epistemic echo chamber effect, where users are exposed to highly dissimilar sources of vaccine information, depending the vaccination stance of their contacts. Our findings highlight the importance of understanding and addressing vaccine mis- and dis-information in the context in which they are disseminated in social networks.
+C1 [Monsted, Bjarke; Lehmann, Sune] Tech Univ Denmark, Dept Appl Math & Comp Sci, Lyngby, Denmark.
+   [Lehmann, Sune] Univ Copenhagen, Ctr Social Data Sci, Copenhagen, Denmark.
+C3 Technical University of Denmark; University of Copenhagen
+RP Lehmann, S (corresponding author), Tech Univ Denmark, Dept Appl Math & Comp Sci, Lyngby, Denmark.; Lehmann, S (corresponding author), Univ Copenhagen, Ctr Social Data Sci, Copenhagen, Denmark.
+EM sljo@dtu.dk
+RI Lehmann, Sune/AFQ-7000-2022
+OI Lehmann, Sune/0000-0001-6099-2345
+FU Danish Council for Independent Research [4184-00556a]
+FX This study was funded entirely by the Danish Council for Independent
+   Research (Project: Microdynamics of Social Interactions, grant number
+   4184-00556a). The funders had no role in study design, data collection
+   and analysis, decision to publish, or preparation of the manuscript.
+CR André FE, 2003, VACCINE, V21, P593, DOI 10.1016/S0264-410X(02)00702-8
+   [Anonymous], 2010, ACM SIGKDD
+   Atwell JE, 2013, PEDIATRICS, V132, P624, DOI 10.1542/peds.2013-0878
+   Bail CA, 2018, P NATL ACAD SCI USA, V115, P9216, DOI 10.1073/pnas.1804840115
+   Baumann F, 2020, PHYS REV LETT, V124, DOI 10.1103/PhysRevLett.124.048301
+   Betsch C, 2010, J HEALTH PSYCHOL, V15, P446, DOI 10.1177/1359105309353647
+   Bonnevie Erika, 2021, Journal of Communication in Healthcare, V14, P12, DOI 10.1080/17538068.2020.1858222
+   Bradford WD, 2015, HEALTH AFFAIR, V34, P1383, DOI 10.1377/hlthaff.2014.1428
+   Broniatowski DA, 2018, AM J PUBLIC HEALTH, V108, P1378, DOI 10.2105/AJPH.2018.304567
+   Burki T, 2019, LANCET DIGIT HEALTH, V1, pE258, DOI 10.1016/S2589-7500(19)30136-0
+   Cornwall W, 2020, SCIENCE, V369, P14, DOI 10.1126/science.369.6499.14
+   Crescitelli MED, 2020, PUBLIC HEALTH, V180, P38, DOI 10.1016/j.puhe.2019.10.027
+   DeStefano F, 2019, CLIN INFECT DIS, V69, P726, DOI 10.1093/cid/ciz135
+   Dubé E, 2016, QUAL HEALTH RES, V26, P411, DOI 10.1177/1049732315573207
+   Dubé E, 2013, HUM VACC IMMUNOTHER, V9, P1763, DOI 10.4161/hv.24657
+   Dyda A, 2019, HUM VACC IMMUNOTHER, V15, P1488, DOI 10.1080/21645515.2019.1596712
+   Endres DM, 2003, IEEE T INFORM THEORY, V49, P1858, DOI 10.1109/TIT.2003.813506
+   Evans T, 2018, ROY SOC OPEN SCI, V5, DOI 10.1098/rsos.181122
+   Featherstone Jieyu D., 2020, Online Social Networks and Media, DOI 10.1016/j.osnem.2020.100105
+   Feikin DR, 2000, JAMA-J AM MED ASSOC, V284, P3145, DOI 10.1001/jama.284.24.3145
+   Felbo Bjarke, 2017, P EMPIRICAL METHODS, P1615, DOI [10.18653/v1/D17-1169, DOI 10.18653/V1/D17-1169]
+   Frimer JA, 2017, J EXP SOC PSYCHOL, V72, P1, DOI 10.1016/j.jesp.2017.04.003
+   Gangarosa EJ, 1998, LANCET, V351, P356, DOI 10.1016/S0140-6736(97)04334-1
+   Giese H, 2020, VACCINE, V38, P2070, DOI 10.1016/j.vaccine.2019.11.038
+   Gunaratne K, 2019, VACCINE, V37, P4867, DOI 10.1016/j.vaccine.2019.06.086
+   Hall V, 2017, MMWR-MORBID MORTAL W, V66, P713, DOI 10.15585/mmwr.mm6627a1
+   Helps C, 2019, BMJ OPEN, V9, DOI 10.1136/bmjopen-2018-026299
+   Hviid A, 2019, ANN INTERN MED, V170, P513, DOI 10.7326/M18-2101
+   Jacomy M, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0098679
+   Jamison A, 2020, AM J PUBLIC HEALTH, V110, pS331, DOI 10.2105/AJPH.2020.305940
+   Johnson NF, 2019, NATURE, V573, P261, DOI 10.1038/s41586-019-1494-7
+   Johnson NF, 2016, SCIENCE, V352, P1459, DOI 10.1126/science.aaf0675
+   Johnson NF, 2020, NATURE, V582, P230, DOI 10.1038/s41586-020-2281-1
+   Joulin A., 2016, ARXIV PREPRINT ARXIV
+   Kahan DM, 2013, JUDGM DECIS MAK, V8, P407
+   Kahan DM, 2011, J RISK RES, V14, P147, DOI 10.1080/13669877.2010.511246
+   Kahan DM, 2010, LAW HUMAN BEHAV, V34, P501, DOI 10.1007/s10979-009-9201-0
+   Kata A, 2010, VACCINE, V28, P1709, DOI 10.1016/j.vaccine.2009.12.022
+   Keelan J, 2007, JAMA-J AM MED ASSOC, V298, P2482, DOI 10.1001/jama.298.21.2482
+   Larson HJ, 2020, NATURE, V580, P306, DOI 10.1038/d41586-020-00920-w
+   Larson HJ, 2014, VACCINE, V32, P2150, DOI 10.1016/j.vaccine.2014.01.081
+   MacDonald NE, 2015, VACCINE, V33, P4161, DOI 10.1016/j.vaccine.2015.04.036
+   Majid U, 2020, QUAL HEALTH RES, V30, P1762, DOI 10.1177/1049732320933863
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mitra T., 2016, P 10 INT AAAI C WEB
+   Monsted B, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0184148
+   Motta M, 2023, POLIT GROUPS IDENTIT, V11, P108, DOI 10.1080/21565503.2021.1932528
+   Myers LB, 2011, BMC PUBLIC HEALTH, V11, DOI 10.1186/1471-2458-11-15
+   Newman MEJ, 2003, PHYS REV E, V67, DOI 10.1103/PhysRevE.67.026126
+   Omer SB, 2006, JAMA-J AM MED ASSOC, V296, P1757, DOI 10.1001/jama.296.14.1757
+   Omer SB, 2012, NEW ENGL J MED, V367, P1170, DOI 10.1056/NEJMc1209037
+   Omer SB, 2009, NEW ENGL J MED, V360, P1981, DOI 10.1056/NEJMsa0806477
+   Ozawa S, 2013, SOC SCI MED, V91, P10, DOI 10.1016/j.socscimed.2013.05.005
+   Perkins RB, 2020, PEDIATRICS, V146, DOI 10.1542/peds.2019-2737
+   Phadke VK, 2016, JAMA-J AM MED ASSOC, V315, P1149, DOI 10.1001/jama.2016.1353
+   Puri N, 2020, HUM VACC IMMUNOTHER, V16, P2586, DOI 10.1080/21645515.2020.1780846
+   Salmon DA, 2005, ARCH PEDIAT ADOL MED, V159, P470, DOI 10.1001/archpedi.159.5.470
+   Salmon DA, 1999, JAMA-J AM MED ASSOC, V282, P47, DOI 10.1001/jama.282.1.47
+   Schmid P, 2018, VACCINE, V36, P196, DOI 10.1016/j.vaccine.2016.09.065
+   Schmidt AL, 2018, VACCINE, V36, P3606, DOI 10.1016/j.vaccine.2018.05.040
+   Smith PJ, 2006, PEDIATRICS, V118, pE1287, DOI 10.1542/peds.2006-0923
+   Smith PJ, 2004, PEDIATRICS, V114, P187, DOI 10.1542/peds.114.1.187
+   Smith TC, 2017, OPEN FORUM INFECT DI, V4, DOI 10.1093/ofid/ofx146
+   Sunstein CR, 2009, J POLIT PHILOS, V17, P202, DOI 10.1111/j.1467-9760.2008.00325.x
+   Thelwall M, 2021, PROF INFORM, V30, DOI 10.3145/epi.2021.mar.12
+   Nguyen CT, 2020, EPISTEME-J INDIV SOC, V17, P141, DOI 10.1017/epi.2018.32
+   Tomaszewski T, 2021, J MED INTERNET RES, V23, DOI 10.2196/30451
+   Truong J, 2022, HEALTH PROMOT INT, V37, DOI 10.1093/heapro/daab105
+   Vaz OM, 2020, PEDIATRICS, V145, DOI 10.1542/peds.2019-0620
+   Wilson SL, 2020, BMJ GLOB HEALTH, V5, DOI 10.1136/bmjgh-2020-004206
+   Yaqub O, 2014, SOC SCI MED, V112, P1, DOI 10.1016/j.socscimed.2014.04.018
+NR 71
+TC 42
+Z9 45
+U1 1
+U2 18
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD FEB 9
+PY 2022
+VL 17
+IS 2
+AR e0263746
+DI 10.1371/journal.pone.0263746
+PG 19
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 2S0NR
+UT WOS:000821499100050
+PM 35139121
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Bellotti, E
+   Czerniawska, D
+   Everett, MG
+   Guadalupi, L
+AF Bellotti, Elisa
+   Czerniawska, Dominika
+   Everett, Martin G.
+   Guadalupi, Luigi
+TI Gender inequalities in research funding: Unequal network configurations,
+   or unequal network returns?
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Gender; Gender inequalities; Social networks; Scientific networks;
+   Bipartite networks; Bipartite projections; Brokerage; Constraint;
+   Homophily; Network returns
+ID CO-AUTHORSHIP NETWORKS; RESEARCH COLLABORATION; RESEARCH PERFORMANCE;
+   STRUCTURAL HOLES; PRODUCTIVITY; SCIENTISTS; INNOVATION; ACCESS; GAP
+AB Despite longstanding discussions and consequent improvements of gender representation in academia, the number of women working in academic research, their performance and their recognition still indicate the persistence of gender inequalities. Of the various mechanisms that may drive such inequality the one that relates the structure of research collaborative networks to the rewards that these networks facilitate is intriguing. If social networks play a role in academic performances and women are under-recognized compared to men, what are the mechanisms that relate networks to gender inequalities in academia? Do men and women obtain equal returns from similar network structure, or do women have to build different networks to obtain similar returns?
+   This article contributes to the theoretical debate that aims to disentangle the mechanisms by which social networks may affect gendered success. We do so by looking at networks of collaborations to research projects in 10 years of public funding in Italy. We use a permutation t-test analysis to see if men and women, who are equally successful in getting funded for a high number of projects, build equal or unequal collaborative networks, and if these differences vary across disciplines with more or less tenured women. Our methodological contribution proposes an innovative way of measuring brokerage and constraint in one mode projections of bipartite networks, highly clustered and valued, and measures gender homophily by taking into account the higher or lower number of women available for collaborations in different disciplinary sectors. We find that men and women build similar collaborative networks; we also find that the more women are tenured in a discipline, the more they occupy higher ranks and lead research projects. When women's presence and high-rank roles increase, we see that men's collaborative networks are significantly more heterophilous, although women do not seem to significantly increase their collaborations with other women.
+   We then regress the individual measures of network structure and composition against the average amount of money scholars receive per project and we interact each measure with gender, to observe if women obtain similar returns to men by building equal collaborative networks. Our results show that despite the similarities in network configurations in nearly all disciplines women still receive less funding than men. This suggests that an increased representation of women in academic fields is not enough to reduce inequalities. Our results are not directly generalizable to other international contexts, but the mechanisms that favor academic returns and exacerbate inequalities, and our methodological approach, are portable to other scientific and organizational contexts where collaborations are key to produce success.
+C1 [Bellotti, Elisa; Everett, Martin G.] Univ Manchester, Mitchell Ctr Social Network Anal, Dept Sociol, Arthur Lewis Bldg,Bridgeford St, Manchester M13 9PL, Lancs, England.
+   [Czerniawska, Dominika] Leiden Univ, Leiden Inst Adv Comp Sci, Niels Bohrweg 1, NL-2333 CA Leiden, Netherlands.
+   [Guadalupi, Luigi] IRISS, CNR, Via Guglielmo Sanfelice, I-80134 Naples 8, Italy.
+C3 University of Manchester; Leiden University; Leiden University - Excl
+   LUMC; Consiglio Nazionale delle Ricerche (CNR); Istituto di Ricerca su
+   Innovazione e Servizi per lo Sviluppo (IRISS-CNR)
+RP Bellotti, E (corresponding author), Univ Manchester, Mitchell Ctr Social Network Anal, Dept Sociol, Arthur Lewis Bldg,Bridgeford St, Manchester M13 9PL, Lancs, England.
+EM elisa.bellotti@manchester.ac.uk; d.czerniawska@icm.edu.pl;
+   Martin.everett@manchester.ac.uk; l.guadalupi@iriss.cnr.it
+OI Bellotti, Elisa/0000-0002-6721-3671; Everett,
+   Martin/0000-0003-2465-1329; Czerniawska-Szejda,
+   Dominika/0000-0002-4409-0234
+CR Abbasi A, 2011, J INFORMETR, V5, P594, DOI 10.1016/j.joi.2011.05.007
+   Ahuja G, 2000, ADMIN SCI QUART, V45, P425, DOI 10.2307/2667105
+   [Anonymous], 2002, Harvard, MA: Analytic Technologies
+   [Anonymous], 2016, lmPerm: Permutation tests for linear models. R package version 2.1.0
+   [Anonymous], 1989, Sociological Methodology, DOI DOI 10.2307/270949
+   Aten K, 2017, COMPUT HUM BEHAV, V72, P470, DOI 10.1016/j.chb.2017.02.056
+   Athanasiou T, 2016, POSTGRAD MED J, V92, P581, DOI 10.1136/postgradmedj-2016-134313
+   Bellotti E., 2009, Methodological Innovations Online, V4, P53, DOI DOI 10.1177/205979910900400106
+   Bellotti E, 2016, SCIENTOMETRICS, V109, P783, DOI 10.1007/s11192-016-2068-1
+   Bertolero M.A., 2020, BIORXIV
+   Biggs J, 2018, SEX ROLES, V78, P394, DOI 10.1007/s11199-017-0800-9
+   Bol T, 2018, P NATL ACAD SCI USA, V115, P4887, DOI 10.1073/pnas.1719557115
+   Bordons M, 2015, J INFORMETR, V9, P135, DOI 10.1016/j.joi.2014.12.001
+   Brands RA, 2014, ORGAN SCI, V25, P1530, DOI 10.1287/orsc.2013.0880
+   BRASS DJ, 1985, ACAD MANAGE J, V28, P327, DOI 10.5465/256204
+   Burt R.S, 1992, STRUCTURAL HOLES SOC
+   Burt R.S., 2007, Brokerage and closure: An introduction to social capital
+   Burt RS, 1998, RATION SOC, V10, P5, DOI 10.1177/104346398010001001
+   Cain CL, 2014, GENDER WORK ORGAN, V21, P516, DOI 10.1111/gwao.12052
+   Cainelli G, 2015, SCIENTOMETRICS, V102, P673, DOI 10.1007/s11192-014-1421-5
+   Cech E, 2011, AM SOCIOL REV, V76, P641, DOI 10.1177/0003122411420815
+   Chen J., 2017, J XINJIANG MED U
+   Cimenler O, 2015, J INFORMETR, V9, P577, DOI 10.1016/j.joi.2015.05.003
+   Cronin B, 2001, J AM SOC INF SCI TEC, V52, P558, DOI 10.1002/asi.1097
+   De Stefano D, 2013, SOC NETWORKS, V35, P370, DOI 10.1016/j.socnet.2013.04.004
+   EC (European Commission), 2019, SHE FIG 2018 GEND RE
+   Elisa Bellotti, 2015, MULTILEVEL NETWORK A, P213
+   Everett MG, 2020, SOC NETWORKS, V62, P50, DOI 10.1016/j.socnet.2020.02.001
+   Fay MP, 2010, J STAT SOFTW, V36, P1
+   Fox M.F., 2006, Handbook of the Sociology of Gender, P441, DOI [DOI 10.1007/0-387-36218-5_20, DOI 10.1007/0-387-36218-520]
+   Fox MF, 2001, SOC STUD SCI, V31, P109, DOI 10.1177/030631201031001006
+   Fredrickson Mark, 2019, Mendeley Data, DOI 10.17632/C6DWKXTSYH.1
+   Ghiasi G, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0145931
+   GRANOVETTER M, 1985, AM J SOCIOL, V91, P481, DOI 10.1086/228311
+   Granovetter M., 1983, SOCIOLOGICAL THEORY, V1, P201, DOI [https://doi.org/10.2307/202051, 10.2307/202051, DOI 10.2307/202051]
+   Guler I, 2012, STRATEGIC MANAGE J, V33, P535, DOI 10.1002/smj.957
+   Heijstra T, 2015, SCAND J EDUC RES, V59, P214, DOI 10.1080/00313831.2014.904417
+   Heinze T, 2007, SCIENTOMETRICS, V70, P811, DOI 10.1007/s11192-007-0313-3
+   Howe-Walsh L, 2016, STUD HIGH EDUC, V41, P415, DOI 10.1080/03075079.2014.929102
+   Ibarra H, 1997, SOC PSYCHOL QUART, V60, P91, DOI 10.2307/2787014
+   IBARRA H, 1992, ADMIN SCI QUART, V37, P422, DOI 10.2307/2393451
+   Jadidi M, 2018, ADV COMPLEX SYST, V21, DOI 10.1142/S0219525917500114
+   Katz JS, 1997, RES POLICY, V26, P1, DOI 10.1016/S0048-7333(96)00917-1
+   Lariviere Vincent, 2013, Nature, V504, P211
+   Laudel G, 2002, RES EVALUAT, V11, P3, DOI 10.3152/147154402781776961
+   Leslie SJ, 2015, SCIENCE, V347, P262, DOI 10.1126/science.1261375
+   Li WH, 2019, NAT COMMUN, V10, DOI 10.1038/s41467-019-13130-4
+   LOMPERIS AMT, 1990, J HIGH EDUC, V61, P643, DOI 10.2307/1981989
+   Lutter M, 2015, AM SOCIOL REV, V80, P329, DOI 10.1177/0003122414568788
+   Maliniak D, 2013, INT ORGAN, V67, P889, DOI 10.1017/S0020818313000209
+   Marini G, 2018, SCIENTOMETRICS, V115, P989, DOI 10.1007/s11192-018-2696-8
+   Mauleón E, 2013, SCIENTOMETRICS, V95, P87, DOI 10.1007/s11192-012-0824-4
+   Mehta C.R., 1988, COMPSTAT PHYS, DOI [10.1007/978-3-642-46900-8_31, DOI 10.1007/978-3-642-46900-8_31]
+   MERTON RK, 1968, SCIENCE, V159, P56, DOI 10.1126/science.159.3810.56
+   Moss-Racusin CA, 2012, P NATL ACAD SCI USA, V109, P16474, DOI 10.1073/pnas.1211286109
+   Prpic K, 2002, SCIENTOMETRICS, V55, P27, DOI 10.1023/A:1016046819457
+   Ridgeway CL, 1999, ANNU REV SOCIOL, V25, P191, DOI 10.1146/annurev.soc.25.1.191
+   ROSSITER MW, 1993, SOC STUD SCI, V23, P325, DOI 10.1177/030631293023002004
+   RStudio Team, 2020, RSTUDIO INT DEV R, DOI DOI 10.1145/3132847.3132886
+   Sheltzer JM, 2014, P NATL ACAD SCI USA, V111, P10107, DOI 10.1073/pnas.1403334111
+   Snijders TAB, 2017, ANNU REV STAT APPL, V4, P343, DOI 10.1146/annurev-statistics-060116-054035
+   Solano G, 2018, SOC NETWORKS, V54, P279, DOI 10.1016/j.socnet.2018.03.003
+   SUBRAMANYAM K, 1983, J INFORM SCI, V6, P33, DOI 10.1177/016555158300600105
+   Walker G, 1997, ORGAN SCI, V8, P109, DOI 10.1287/orsc.8.2.109
+   Weisshaar K, 2017, SOC FORCES, V96, P529, DOI 10.1093/sf/sox052
+   Whittington KB, 2018, RES POLICY, V47, P511, DOI 10.1016/j.respol.2017.12.006
+   Wislar JS, 2011, BRIT MED J, V343, DOI 10.1136/bmj.d6128
+   Woehler ML, 2021, J MANAGE, V47, P207, DOI 10.1177/0149206320960529
+   Wolfe AW, 1997, AM ETHNOL, V24, P219, DOI 10.1525/ae.1997.24.1.219
+   Zinilli A, 2016, SCIENTOMETRICS, V108, P633, DOI 10.1007/s11192-016-1976-4
+NR 70
+TC 10
+Z9 10
+U1 6
+U2 29
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JUL
+PY 2022
+VL 70
+BP 138
+EP 151
+DI 10.1016/j.socnet.2021.12.007
+PG 14
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 2P7QO
+UT WOS:000819930800005
+OA Green Submitted
+DA 2024-11-22
+ER

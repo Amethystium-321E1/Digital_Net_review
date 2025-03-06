@@ -1,0 +1,628 @@
+
+PT J
+AU Garcia, D
+   Kassa, YM
+   Cuevas, A
+   Cebrian, M
+   Moro, E
+   Rahwan, I
+   Cuevas, R
+AF Garcia, David
+   Mitike Kassa, Yonas
+   Cuevas, Angel
+   Cebrian, Manuel
+   Moro, Esteban
+   Rahwan, Iyad
+   Cuevas, Ruben
+TI Analyzing gender inequality through large-scale Facebook advertising
+   data
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE gender divide; Facebook; social media; inequality; development
+AB Online social media are information resources that can have a transformative power in society. While the Web was envisioned as an equalizing force that allows everyone to access information, the digital divide prevents large amounts of people from being present online. Online social media, in particular, are prone to gender inequality, an important issue given the link between social media use and employment. Understanding gender inequality in social media is a challenging task due to the necessity of data sources that can provide large-scale measurements across multiple countries. Here, we show how the Facebook Gender Divide (FGD), a metric based on aggregated statistics of more than 1.4 billion users in 217 countries, explains various aspects of worldwide gender inequality. Our analysis shows that the FGD encodes gender equality indices in education, health, and economic opportunity. We find gender differences in network externalities that suggest that using social media has an added value for women. Furthermore, we find that low values of the FGD are associated with increases in economic gender equality. Our results suggest that online social networks, while suffering evident gender imbalance, may lower the barriers that women have to access to informational resources and help to narrow the economic gender gap.
+C1 [Garcia, David] Complex Sci Hub Vienna, A-1080 Vienna, Austria.
+   [Garcia, David] Med Univ Vienna, Sect Sci Complex Syst, Ctr Med Stat Informat & Intelligent Syst, A-1090 Vienna, Austria.
+   [Mitike Kassa, Yonas] IMDEA Networks Inst, Leganes 28918, Spain.
+   [Mitike Kassa, Yonas; Cuevas, Angel; Cuevas, Ruben] Univ Carlos III Madrid, Dept Telemat Engn, Leganes 28911, Spain.
+   [Cebrian, Manuel] Data61, Commonwealth Sci & Ind Res Org, Melbourne, Vic 3008, Australia.
+   [Cebrian, Manuel; Moro, Esteban; Rahwan, Iyad] MIT, Media Lab, Cambridge, MA 02139 USA.
+   [Moro, Esteban] Univ Carlos III Madrid, Dept Math, Grp Interdisciplinar Sistemas Complejos, Leganes 28911, Spain.
+   [Rahwan, Iyad] MIT, Inst Data Syst & Soc, Cambridge, MA 02139 USA.
+C3 Medical University of Vienna; IMDEA Networks Institute; Universidad
+   Carlos III de Madrid; Commonwealth Scientific & Industrial Research
+   Organisation (CSIRO); Massachusetts Institute of Technology (MIT);
+   Universidad Carlos III de Madrid; Massachusetts Institute of Technology
+   (MIT)
+RP Cuevas, R (corresponding author), Univ Carlos III Madrid, Dept Telemat Engn, Leganes 28911, Spain.; Rahwan, I (corresponding author), MIT, Inst Data Syst & Soc, Cambridge, MA 02139 USA.
+EM irahwan@mit.edu; rcuevas@it.uc3m.es
+RI Rahwan, Iyad/ABB-2422-2020; Moro, Esteban/AAB-1159-2019; Cuevas Rumin,
+   Angel/B-9418-2017; CUEVAS, RUBEN/G-6917-2015; Garcia, David/A-2113-2014
+OI MORO, ESTEBAN/0000-0003-2894-1024; Cuevas Rumin,
+   Angel/0000-0002-5738-0820; Cebrian, Manuel/0000-0002-3681-7982; CUEVAS,
+   RUBEN/0000-0002-1440-8360; Garcia, David/0000-0002-2820-9151; Rahwan,
+   Iyad/0000-0002-1796-4303
+FU Vienna Science and Technology Fund through Vienna Research Group Grant
+   "Emotional Well-Being in the Digital Society" [VRG16-005]; H2020
+   (Horizon 2020) EU Project TYPES Grant [653449]; H2020 EU Project SMOOTH
+   (GDPR Compliance Cloud Platform for Micro Enterprises) Grant [768741];
+   Ramon y Cajal Grant [RyC-2015-17732]; Ministerio de Economia y
+   Competividad (Spain) [FIS2013-47532-C3-3-P, FIS2016-78904-C3-3-P]; H2020
+   EU project ReCRED [653417]
+FX We thank the Pew Research Center and the GWI for the access to their
+   data to validate the FGD. D.G. acknowledges funding from the Vienna
+   Science and Technology Fund through Vienna Research Group Grant
+   "Emotional Well-Being in the Digital Society" VRG16-005. Y.M.K.
+   acknowledges funding from H2020 (Horizon 2020) EU Project TYPES Grant
+   653449. A.C. acknowledges funding from H2020 EU Project SMOOTH (GDPR
+   Compliance Cloud Platform for Micro Enterprises) Grant 768741 and Ramon
+   y Cajal Grant RyC-2015-17732. E.M. acknowledges funding from Ministerio
+   de Economia y Competividad (Spain) through Projects FIS2013-47532-C3-3-P
+   and FIS2016-78904-C3-3-P. R.C. acknowledges funding from H2020 EU
+   project ReCRED (from real-world identities to privacy-preserving and
+   attribute-based credentials for device-centric access control) Grant
+   653417.
+CR [Anonymous], 2001, DIGITAL DIVIDE FACIN
+   [Anonymous], 2014, P INT AAAI C WEB SOC
+   [Anonymous], P 10 INT AAAI C WEB
+   [Anonymous], 2017, ELECTR J INF SYS DEV, DOI 10.1002/j.1681-4835.2017.tb00578.x
+   Araújo M, 2017, PROCEEDINGS OF THE 2017 ACM WEB SCIENCE CONFERENCE (WEBSCI '17), P253, DOI 10.1145/3091478.3091513
+   Berners-Lee T, 2010, SCI AM, V303, P80, DOI 10.1038/scientificamerican1210-80
+   Billari FC, 2017, P C IT STAT SOC SIS, P167
+   Brown R.H., 1995, Falling through the net: A survey of the "have nots" in rural and urban America
+   Burke Moira, 2013, P 2013 C COMP SUPP C, P1419, DOI [10.1145/2441776.2441936, DOI 10.1145/2441776.2441936]
+   Cabans JG, 2018, 180205030 ARXIV
+   Cromwell J. B., 1994, UNIVARIATE TESTS TIM, V99
+   Dubois A, 2018, 180109430 ARXIV
+   Ess C., 2004, Readings in virtual research ethics: Issues and controversies, P27
+   Fatehkia M, 2018, WORLD DEV, V107, P189, DOI 10.1016/j.worlddev.2018.03.007
+   Garcia D, 2018, EPJ DATA SCI, V7, DOI 10.1140/epjds/s13688-018-0130-3
+   Garcia D, 2017, SCI ADV, V3, DOI 10.1126/sciadv.1701172
+   Gee LK, 2017, J ECON BEHAV ORGAN, V133, P362, DOI 10.1016/j.jebo.2016.12.004
+   Cabañas JG, 2017, PROCEEDINGS OF THE 2017 ACM SIGCHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS (CHI'17), P3799, DOI 10.1145/3025453.3025903
+   Hadi AS, 2006, Regression analysis by example, P281
+   Haranko K., 2018, P INT AAAI C WEB SOC, V12
+   Hargittai E., 2013, DIGITAL INEQUALITY, V1, DOI [10.1093/oxfordhb/9780199589074.013.0007, DOI 10.1093/OXFORDHB/9780199589074.013.0007]
+   Hendler J, 2008, J WEB SEMANT, V6, P14, DOI 10.1016/j.websem.2007.11.008
+   Hofstede G, 2003, CULTURES ORG COMP VA
+   Ingram David., 2018, FACTBOX WHO IS CAMBR
+   Jensen R, 2007, Q J ECON, V122, P879, DOI 10.1162/qjec.122.3.879
+   KATZ ML, 1985, AM ECON REV, V75, P424
+   Koller M, 2011, COMPUT STAT DATA AN, V55, P2504, DOI 10.1016/j.csda.2011.02.014
+   Magno G, 2014, LECT NOTES COMPUT SC, V8851, P121, DOI 10.1007/978-3-319-13734-6_9
+   Metcalf J, 2016, BIG DATA SOC, V3, DOI 10.1177/2053951716650211
+   Norris P., 2001, DIGITAL DIVIDE CIVIC
+   Ojala Jussi., 2017, Proceedings of the International AAAI Conference on Web and Social Media, V11, P640, DOI 10.1609/icwsm.v11i1.14915
+   Plummer M., 2003, P 3 INT WORKSHOP DIS, V124, P1
+   Pötzschke S, 2017, SOC SCI COMPUT REV, V35, P633, DOI 10.1177/0894439316666262
+   Rizoiu MA, 2016, PROCEEDINGS OF THE NINTH ACM INTERNATIONAL CONFERENCE ON WEB SEARCH AND DATA MINING (WSDM'16), P215, DOI 10.1145/2835776.2835798
+   Spaiser V, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0097856
+   Uteng T.P., 2012, Discussion Paper,Technical report
+   Wagner C, 2016, EPJ DATA SCI, V5, DOI 10.1140/epjds/s13688-016-0066-4
+   World Bank, 2016, WORLD BANK HUM DEV I
+   World Bank Group, 2016, WORLD DEV REP 2016 D
+   World Economic Forum, 2016, WORLD EC FOR GEND GA
+   World Wide Web Foundation, 2015, WEB RIS GLOB IN
+   Zagheni E, 2017, POPUL DEV REV, V43, P721, DOI 10.1111/padr.12102
+NR 42
+TC 47
+Z9 52
+U1 3
+U2 76
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD JUL 3
+PY 2018
+VL 115
+IS 27
+BP 6958
+EP 6963
+DI 10.1073/pnas.1717781115
+PG 6
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA GL4GH
+UT WOS:000437107000055
+PM 29921703
+OA Green Published, Bronze, Green Accepted, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Popelier, L
+AF Popelier, Lisa
+TI A scoping review on the current and potential use of social network
+   analysis for evaluation purposes
+SO EVALUATION
+LA English
+DT Review
+DE evaluation; international development; relations; scoping review; social
+   network analysis
+ID RISK NETWORKS; HEALTH-CARE; COMMUNITY; COLLABORATION; POLICY;
+   GOVERNANCE; MANAGEMENT; SYSTEMS; WATER; TRANSPORTATION
+AB The pervasiveness and importance of relationships and networks has fueled the development of the social network analysis approach, which considers structural relationships to be primary causes of societal outcomes. While the potential of social network analysis has been demonstrated and discussed extensively in social science research, relatively little is known about the current and potential use of social network analysis for evaluation purposes. This scoping review of journal articles reveals that evaluators use social network analysis because of its ability to identify key stakeholders, assess network structures and relationships quantitatively, reveal informal relations and visualize even complex networks. However, challenges arise when interpreting findings, determining causation between network structures and outcomes and disseminating evaluation results in an ethically responsible manner. The review concludes that the evaluation field?especially in the development sector?would benefit greatly from increased use of social network analysis, but that this would first require improved use of alternative sources of network data, qualitative methods and inferential statistics that will enable evaluators to move beyond descriptive network analysis.
+C1 [Popelier, Lisa] Univ Antwerp, Inst Dev Policy IOB, Antwerp, Belgium.
+C3 University of Antwerp
+RP Popelier, L (corresponding author), Univ Antwerp, Lange Sint Annastr 7, B-2000 Antwerp, Belgium.
+EM lisa.popelier@uantwerpen.be
+CR Abma T., 2006, SAGE HDB EVALUATION, P184
+   Albrecht M, 2014, EVALUATION-US, V20, P58, DOI 10.1177/1356389013518457
+   [Anonymous], 2010, SOCIOLOGICA
+   [Anonymous], J OBESITY
+   Arribas I, 2009, WORLD DEV, V37, P127, DOI 10.1016/j.worlddev.2008.03.009
+   Barman-Adhikari A, 2014, EVAL PROGRAM PLANN, V45, P90, DOI 10.1016/j.evalprogplan.2014.03.005
+   Bastiaensen J, 2005, WORLD DEV, V33, P979, DOI 10.1016/j.worlddev.2004.09.019
+   Benjamin LM, 2009, AM J EVAL, V30, P296, DOI 10.1177/1098214009338621
+   Birk S.M., 2005, New Directions for Evaluation, V2005, P69
+   Bodin Ö, 2008, WORLD DEV, V36, P2763, DOI 10.1016/j.worlddev.2007.12.002
+   Borgatti SP, 2011, ORGAN SCI, V22, P1168, DOI 10.1287/orsc.1100.0641
+   Bowen KJ, 2014, INT J ENV RES PUB HE, V11, P1605, DOI 10.3390/ijerph110201605
+   Brunelli M, 2014, INFORM FUSION, V17, P36, DOI 10.1016/j.inffus.2011.11.001
+   Caniato M, 2014, WASTE MANAGE, V34, P938, DOI 10.1016/j.wasman.2014.02.011
+   Carley KM., 2002, Connections, V24, P79
+   Carolan B. V., 2014, SOCIAL NETWORK ANAL
+   Chen JY, 2015, LANDSCAPE URBAN PLAN, V143, P150, DOI 10.1016/j.landurbplan.2015.07.007
+   Chu-Shore J, 2010, WORLD DEV, V38, P37, DOI 10.1016/j.worlddev.2009.06.001
+   Clifton A, 2017, SOC PSYCHOL PERS SCI, V8, P442, DOI 10.1177/1948550617709114
+   Coburn CE, 2008, EDUC EVAL POLICY AN, V30, P203, DOI 10.3102/0162373708321829
+   Corlew LK, 2015, PSYCHOSOC INTERV, V24, P133, DOI 10.1016/j.psi.2015.07.004
+   Cranmer SJ, 2017, AM J POLIT SCI, V61, P237, DOI 10.1111/ajps.12263
+   Cross JE, 2009, AM J EVAL, V30, P310, DOI 10.1177/1098214009340044
+   D'Exelle B, 2011, FEM ECON, V17, P31, DOI 10.1080/13545701.2011.573488
+   D'Exelle B, 2009, J DEV STUD, V45, P1453, DOI 10.1080/00220380902890268
+   Davies R., 2009, Communication for social change consortium
+   Davies Rick., 2004, Evaluation, V10, P101
+   de Brito SR, 2013, SOC NETW ANAL MIN, V3, P497, DOI 10.1007/s13278-012-0093-5
+   DeGroff A., 2009, New Directions for Evaluation, V2009, P47, DOI DOI 10.1002/EV.313
+   Dewachter S, 2017, EVALUATION-US, V23, P339, DOI 10.1177/1356389017716740
+   Doreian P, 2001, SOCIOL METHOD RES, V30, P81, DOI 10.1177/0049124101030001005
+   Dozier AM, 2014, EVAL HEALTH PROF, V37, P19, DOI 10.1177/0163278713501693
+   Drew R, 2011, DEV PRACT, V21, P1062, DOI 10.1080/09614524.2011.590884
+   Drew R, 2011, EVALUATION-US, V17, P383, DOI 10.1177/1356389011421699
+   Durland M., 2005, NEW DIRECTIONS EVALU, V107, P5, DOI DOI 10.1002/EV.157
+   Durland M., 2005, NEW DIRECTIONS EVALU, V107, P25, DOI DOI 10.1002/EV.159
+   Durland M.M., 2005, New Directions for Evaluation, P81, DOI [10.1002/ev.163, DOI 10.1002/EV.163]
+   Durland MM, 2005, NEW DIRECTIONS EVALU, V2005, P99
+   Edwards Gemma., 2010, Mixed-Method Approaches to Social Network Analysis
+   Engelberg S, 1980, Eval Program Plann, V3, P15, DOI 10.1016/0149-7189(80)90003-8
+   Faas AJ, 2015, DEV PRACT, V25, P221, DOI 10.1080/09614524.2015.1000827
+   Fafchamps M, 2015, REV ECON-FR, V66, P657, DOI 10.3917/reco.664.0657
+   Finer LB, 2010, CONNECTIONS, V30, P29
+   Fredericks K., 2005, New Directions for Evaluation, V107, P55, DOI DOI 10.1002/EV.161
+   Fredericks K.A., 2002, NEW DIRECTIONS EVALU, V95, P5, DOI DOI 10.1002/EV.55
+   Freeman LintonC., 2011, SAGE HDB SOCIAL NETW, P26, DOI DOI 10.4135/9781446294413.03
+   Friedman SR, 1997, AM J PUBLIC HEALTH, V87, P1289, DOI 10.2105/AJPH.87.8.1289
+   Friedman SR, 2007, EVAL PROGRAM PLANN, V30, P294, DOI 10.1016/j.evalprogplan.2007.04.001
+   Gallemore C, 2016, WORLD DEV, V86, P79, DOI 10.1016/j.worlddev.2016.06.009
+   Gallemore C, 2015, ECOL ECON, V114, P168, DOI 10.1016/j.ecolecon.2015.03.024
+   Gallemore CT, 2014, ECOL SOC, V19, DOI 10.5751/ES-06418-190218
+   Gesell SB, 2013, IMPLEMENT SCI, V8, DOI 10.1186/1748-5908-8-116
+   Gest SD, 2011, PREV SCI, V12, P349, DOI 10.1007/s11121-011-0229-2
+   Giuffre K.A., 2013, COMMUNITIES NETWORKS
+   Giuliani E, 2011, PAPERS INNOVATION ST, V2014/11
+   Gold M, 2008, SOC SCI MED, V67, P1018, DOI 10.1016/j.socscimed.2008.05.020
+   Gomersall T, 2017, EVALUATION-US, V23, P192, DOI 10.1177/1356389017697615
+   Grady CA, 2015, EXPERT SYST APPL, V42, P5128, DOI 10.1016/j.eswa.2015.02.039
+   Grant MJ, 2009, HEALTH INFO LIBR J, V26, P91, DOI 10.1111/j.1471-1842.2009.00848.x
+   Gravel J, 2015, CRIMINOL PUBLIC POL, V14, P559, DOI 10.1111/1745-9133.12147
+   Green M, 2005, WORLD DEV, V33, P867, DOI 10.1016/j.worlddev.2004.09.013
+   Gregson J, 2011, J NUTR EDUC BEHAV, V43, pS67, DOI 10.1016/j.jneb.2011.02.018
+   Hagen G., 1997, CONNECTIONS, V20, P13
+   Hanneman RA, 2005, SOME STAT TOOLS
+   Harris J., 2014, An Introduction to Exponential Random Graph Modeling
+   Hawe P, 2004, J EPIDEMIOL COMMUN H, V58, P971, DOI 10.1136/jech.2003.014530
+   Hayes H, 2016, EVAL PROGRAM PLANN, V58, P199, DOI 10.1016/j.evalprogplan.2016.06.012
+   Haythornthwaite C., 1996, LIB INFORM SCI RES, V18, P323, DOI [10.1016/S0740-8188(96)90003-1, DOI 10.1016/S0740-8188(96)90003-1]
+   Heath S, 2009, QUAL RES, V9, P645, DOI 10.1177/1468794109343631
+   Heflinger CA, 1996, EVAL PROGRAM PLANN, V19, P155, DOI 10.1016/0149-7189(96)00006-7
+   Heldens H, 2015, EDUC RES EVAL, V21, P515, DOI 10.1080/13803611.2016.1153488
+   Henry GT, 2003, AM J EVAL, V24, P293
+   Hermans LM, 2012, EVAL PROGRAM PLANN, V35, P427, DOI 10.1016/j.evalprogplan.2012.01.006
+   Honeycutt TC, 2012, AM J EVAL, V33, P221, DOI 10.1177/1098214011424201
+   Hopkins M, 2017, J EDUC BEHAV STAT, V42, P639, DOI 10.3102/1076998617698111
+   Hoppe B, 2010, LEADERSHIP QUART, V21, P600, DOI 10.1016/j.leaqua.2010.06.004
+   Hunter RF, 2015, AM J PUBLIC HEALTH, V105, P513, DOI 10.2105/AJPH.2014.302399
+   Jackson MO, 2007, AM ECON REV, V97, P890, DOI 10.1257/aer.97.3.890
+   Johnsen M.C., 1997, New Directions for Evaluation, V73, P93
+   Kadushin C, 2005, SOC NETWORKS, V27, P139, DOI 10.1016/j.socnet.2005.01.005
+   Khalil KA, 2016, STUD EDUC EVAL, V51, P7, DOI 10.1016/j.stueduc.2016.08.006
+   Knoke D., 2008, Social network analysis, V2nd
+   Kochan S., 2005, New Directions for Evaluation, P41, DOI DOI 10.1002/EV.160
+   Kolleck N, 2016, J EDUC POLICY, V31, P308, DOI 10.1080/02680939.2015.1119315
+   Kuzdas C, 2015, WORLD DEV, V66, P254, DOI 10.1016/j.worlddev.2014.08.018
+   Latkin CA, 2009, SOC SCI MED, V68, P740, DOI 10.1016/j.socscimed.2008.11.019
+   Laven DN, 2010, EVALUATION REV, V34, P271, DOI 10.1177/0193841X10370668
+   Le Blanc D, 2015, SUSTAIN DEV, V23, P176, DOI 10.1002/sd.1582
+   Leavy J, 2015, J DEV EFFECT, V7, P357, DOI 10.1080/19439342.2015.1068831
+   Lehtonen M, 2014, EVALUATION-US, V20, P278, DOI 10.1177/1356389014539868
+   Levina O, 2013, PROCEDIA SOCIAL BEHA, V100, P68
+   Luke DA, 2007, ANNU REV PUBL HEALTH, V28, P69, DOI 10.1146/annurev.publhealth.28.021406.144132
+   Luke DA, 2013, HEALTH EDUC BEHAV, V40, p33S, DOI 10.1177/1090198113492760
+   Luke DA, 2010, AM J PUBLIC HEALTH, V100, P1290, DOI 10.2105/AJPH.2009.184358
+   Luque J, 2010, J COMMUNITY PSYCHOL, V38, P656, DOI 10.1002/jcop.20386
+   Marin A., 2011, SAGE HDB SOCIAL NETW, P11, DOI [DOI 10.4135/9781446294413.N2, 10.4135/9781446294413, DOI 10.4135/9781446294413]
+   Mark M.M., 2004, EVALUATION-US, V10, P35, DOI [10.1177/1356389004042326, DOI 10.1177/1356389004042326]
+   Mark M.M., 2006, SAGE HDB EVALUATION, DOI DOI 10.1016/J.COSSMS.2007.08.003
+   Martínez A, 2003, COMPUT EDUC, V41, P353, DOI 10.1016/j.compedu.2003.06.001
+   Miskel C, 2004, EDUC EVAL POLICY AN, V26, P89, DOI 10.3102/01623737026002089
+   Mohammadfam I, 2015, ENVIRON HAZARDS-UK, V14, P329, DOI 10.1080/17477891.2015.1080654
+   Murendo C, 2018, J DEV STUD, V54, P327, DOI 10.1080/00220388.2017.1296569
+   Neaigus A, 2001, EVAL PROGRAM PLANN, V24, P221, DOI 10.1016/S0149-7189(01)00012-X
+   Neal JW, 2013, J COMMUNITY PSYCHOL, V41, P549, DOI 10.1002/jcop.21556
+   O'Malley AJ, 2008, HEALTH SERV OUTCOME, V8, P222, DOI 10.1007/s10742-008-0041-z
+   OECD, 2002, GLOSS KEY TERMS EV R, P37
+   Pemsl DE, 2010, J DEV EFFECT, V2, P486, DOI 10.1080/19439342.2010.525246
+   Penuel WR, 2006, AM J EVAL, V27, P437, DOI 10.1177/1098214006294307
+   Petersen IH, 2016, DEV PRACT, V26, P360, DOI 10.1080/09614524.2016.1148661
+   Petticrew M, 2006, SYSTEMATIC REVIEWS IN THE SOCIAL SCIENCES: A PRACTICAL GUIDE, P1, DOI 10.1002/9780470754887
+   Provan KG, 2007, J MANAGE, V33, P479, DOI 10.1177/0149206307302554
+   Provan KG, 2010, EVAL PROGRAM PLANN, V33, P349, DOI 10.1016/j.evalprogplan.2009.12.005
+   Provan KG, 2005, PUBLIC ADMIN REV, V65, P603, DOI 10.1111/j.1540-6210.2005.00487.x
+   Provan KG, 2001, PUBLIC ADMIN REV, V61, P414, DOI 10.1111/0033-3352.00045
+   Real T., 2005, CONNECTIONS, V26, P89
+   Robins G., 2012, Exponential random graph models for social networks: Theory, methods, and applications, P9, DOI DOI 10.1017/CBO9780511894701.003
+   Rödder W, 2014, EXPERT SYST APPL, V41, P7968, DOI 10.1016/j.eswa.2014.06.049
+   Rotberg FJY, 2013, J INT DEV, V25, P599, DOI 10.1002/jid.2857
+   Schnegg M, 2015, WORLD DEV, V68, P205, DOI 10.1016/j.worlddev.2014.11.024
+   Scott J., 2011, The SAGE handbook of social network analysis, P1
+   Scott J., 2017, SOCIAL NETWORK ANAL
+   Seferiadis AA, 2015, PROG DEV STUD, V15, P170, DOI 10.1177/1464993414565530
+   Snijders TAB, 2010, SOC NETWORKS, V32, P44, DOI 10.1016/j.socnet.2009.02.004
+   Thomas AC, 2011, ARXIV11010788
+   Urrea G, 2016, SOCIO-ECON PLAN SCI, V56, P27, DOI 10.1016/j.seps.2016.05.001
+   Valente T.W., 1995, NETWORK MODELS DIFFU
+   Valente TW, 2010, AM J PUBLIC HEALTH, V100, P1319, DOI 10.2105/AJPH.2009.171116
+   Valente TW, 2008, EVAL PROGRAM PLANN, V31, P392, DOI 10.1016/j.evalprogplan.2008.06.002
+   VanderWeele T. J., 2013, Handbook of Causal Analysis for Social Research, P353
+   Walther OJ, 2015, J DEV STUD, V51, P603, DOI 10.1080/00220388.2015.1010152
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   WRIGHT CL, 1981, J DEV STUD, V18, P68, DOI 10.1080/00220388108421817
+   Yuldashev F, 2015, TRAMES-J HUMANIT SOC, V19, P273, DOI 10.3176/tr.2015.3.04
+   Zickafoose JS, 2014, J COMP EFFECT RES, V3, P667, DOI 10.2217/cer.14.66
+NR 134
+TC 9
+Z9 13
+U1 5
+U2 62
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 1356-3890
+EI 1461-7153
+J9 EVALUATION-US
+JI Evaluation
+PD JUL
+PY 2018
+VL 24
+IS 3
+BP 325
+EP 352
+DI 10.1177/1356389018782219
+PG 28
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA GN7MG
+UT WOS:000439325000006
+OA Green Accepted
+DA 2024-11-22
+ER
+
+PT J
+AU Tang, P
+   Chen, HJ
+   Shao, SQ
+AF Tang, Pan
+   Chen, Haojia
+   Shao, Shiqi
+TI Examining the Intergovernmental and Interorganizational Network of
+   Responding to Major Accidents for Improving the Emergency Management
+   System in China
+SO COMPLEXITY
+LA English
+DT Article
+ID GOVERNANCE; COLLABORATION
+AB Since the SARS crisis in 2003, institutionalized emergency management systems have been established in each government level for improving inter-organizational collaboration in China. Major accidents require participation of public organizations affiliated with multiple government levels, and the lack of collaboration and coordination among the involved organizations within the critical time constraints during the response process is an existing problem. In this research, a case study of examining the intergovernmental and cross-sectoral collaboration for responding to a well-known oil pipeline explosion accident in China by a complex network method is conducted. The aim is to obtain managerial insights in improving the existing emergency management system in a centralized political-administrative context, such as China. A mixed method of data collection is applied to identify the participating organizations and to determine the interaction spanning organizational boundaries in both hierarchical and horizontal dimensions. An emergency response network is built and visualized for representing intergovernmental and interorganizational collaboration during the response process of the major accident by social network analysis (SNA) tools. The SNA indicators are used to measure quantitatively the network structure at the levels of the whole network, subnetwork, and node. The obstacles of achieving intergovernmental collaboration are found, and managerial suggestions for improving the existing emergency management system are provided. This research indicates that the Chinese government should pay attention to establishing and sustaining partnerships with private and nonprofit organizations and conduct a blend of hierarchical, market, and network principles in fostering collaboration for addressing major accidents. The public organizations in the local government level are shown to be more active than other participators in coordinating their response operations, and their capability should be emphasized for improvement. Additionally, the interactive relationships among specific emergency function groups and between the affected communities and organizations performing emergency command and coordination function should be strengthened.
+C1 [Tang, Pan; Chen, Haojia; Shao, Shiqi] Jinan Univ, Res Ctr Emergency Management, Sch Publ Management Emergency Management, Guangzhou, Guangdong, Peoples R China.
+   [Tang, Pan] Hong Kong Polytech Univ, Dept Bldg & Real Estate, Hong Kong, Hong Kong, Peoples R China.
+C3 Jinan University; Hong Kong Polytechnic University
+RP Tang, P (corresponding author), Jinan Univ, Res Ctr Emergency Management, Sch Publ Management Emergency Management, Guangzhou, Guangdong, Peoples R China.; Tang, P (corresponding author), Hong Kong Polytech Univ, Dept Bldg & Real Estate, Hong Kong, Hong Kong, Peoples R China.
+EM tangpan001@163.com
+RI Shao, Shiqi/IUO-6424-2023; Peng, Yuxin/U-7376-2019
+FU National Science Fund of China [71774068, 71303093]; Humanities and
+   Social Science Youth Fund of the Ministry of Education in China
+   [13YJC630145]; National Science Fund of Guangdong Province
+   [2014A030310401, 2015A030313321]; Fundamental Research Funds for the
+   Central Universities of China [21612301]
+FX The work was supported by the National Science Fund of China (Project
+   Nos. 71774068 and 71303093), the Humanities and Social Science Youth
+   Fund of the Ministry of Education in China (Project No. 13YJC630145),
+   the National Science Fund of Guangdong Province (Project Nos.
+   2014A030310401 and 2015A030313321), and the Fundamental Research Funds
+   for the Central Universities of China (Project No. 21612301).
+CR Ansell C, 2008, J PUBL ADM RES THEOR, V18, P543, DOI 10.1093/jopart/mum032
+   Boin A, 2015, GEOGR ANN A, V97, P123, DOI 10.1111/geoa.12072
+   Brooks JM, 2013, ADMIN SOC, V45, P911, DOI 10.1177/0095399712445874
+   Bryson JM, 2015, PUBLIC ADMIN REV, V75, P647, DOI 10.1111/puar.12432
+   Chang KF., 2012, THESIS U CALIFORNIA
+   Choi SO, 2006, ADMIN SOC, V37, P651, DOI 10.1177/0095399705282879
+   Comfort LK, 2002, PUBLIUS J FEDERALISM, V32, P29, DOI 10.1093/oxfordjournals.pubjof.a004970
+   Comfort LK, 2006, NAT HAZARDS, V39, P309, DOI 10.1007/s11069-006-0030-x
+   Drabek ThomasE., 1990, EMERGENCY MANAGEMENT
+   Guo XS, 2015, NAT HAZARDS, V79, P1773, DOI 10.1007/s11069-015-1925-1
+   Hu Q, 2016, J PUBL ADM RES THEOR, V26, P593, DOI 10.1093/jopart/muv032
+   Hu Q, 2014, PUBLIC ADMIN REV, V74, P698, DOI 10.1111/puar.12284
+   Isett KR, 2011, J PUBL ADM RES THEOR, V21, pI157, DOI 10.1093/jopart/muq061
+   Jung KJ, 2015, QUAL QUANT, V49, P1465, DOI 10.1007/s11135-014-0092-x
+   Kapucu N., 2005, CONNECTIONS, V50, P139
+   Kapucu N, 2016, AM REV PUBLIC ADM, V46, P399, DOI 10.1177/0275074014555645
+   Kapucu N, 2013, AM REV PUBLIC ADM, V43, P312, DOI 10.1177/0275074012444719
+   Kapucu N, 2011, PUBLIC PERFORM MANAG, V34, P549, DOI 10.2753/PMR1530-9576340406
+   Kapucu N, 2010, ADMIN SOC, V42, P222, DOI 10.1177/0095399710362517
+   Kettl DF, 2006, PUBLIC ADMIN REV, V66, P10, DOI 10.1111/j.1540-6210.2006.00662.x
+   Koliba CJ, 2011, PUBLIC ADMIN REV, V71, P210, DOI 10.1111/j.1540-6210.2011.02332.x
+   Lu XL, 2016, PUBLIC ADMIN, V94, P414, DOI 10.1111/padm.12261
+   Mandell M, 2008, PUBLIC MANAG REV, V10, P715, DOI 10.1080/14719030802423079
+   Moynihan DP, 2009, J PUBL ADM RES THEOR, V19, P895, DOI 10.1093/jopart/mun033
+   Noran O, 2014, COMPUT IND, V65, P1032, DOI 10.1016/j.compind.2014.04.003
+   Osman FA., 2015, Public Organization Review, V15, P99, DOI [10.1007/s11115-013-0254-7, DOI 10.1007/S11115-013-0254-7]
+   POWELL WW, 1990, RES ORGAN BEHAV, V12, P295
+   Provan KG, 2008, J PUBL ADM RES THEOR, V18, P229, DOI 10.1093/jopart/mum015
+   Provan KG, 2007, J MANAGE, V33, P479, DOI 10.1177/0149206307302554
+   Robinson S. E., 2012, SSRN ELECT J, V15, P1
+   Robinson SE, 2013, PUBLIC MANAG REV, V15, P344, DOI 10.1080/14719037.2013.769849
+   Scott W., 1994, SOCIAL NETWORK ANAL
+   Waugh WL, 2006, PUBLIC ADMIN REV, V66, P131, DOI 10.1111/j.1540-6210.2006.00673.x
+   Web of State Administration of work Safety, 2014, SHANDONG QINGDAO SIN
+   Web of The Central People's Government of the People's Republic of China, 2007, ACT ADDRESSING EMERG
+   Yin R. K., 2013, CASE STUDY RES DESIG, DOI [10.3138/cjpe.30.1.108, DOI 10.1097/FCH.0B013E31822DDA9E]
+   Zhang HB, 2016, SAFETY SCI, V90, P14, DOI 10.1016/j.ssci.2015.11.012
+NR 37
+TC 12
+Z9 15
+U1 6
+U2 100
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1076-2787
+EI 1099-0526
+J9 COMPLEXITY
+JI Complexity
+PY 2018
+AR 8935872
+DI 10.1155/2018/8935872
+PG 16
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Science & Technology - Other Topics
+GA HA3JU
+UT WOS:000450146900001
+OA gold, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Czernek-Marszalek, K
+AF Czernek-Marszalek, Katarzyna
+TI Cooperation evaluation with the use of network analysis
+SO ANNALS OF TOURISM RESEARCH
+LA English
+DT Article
+DE Relationships; Collaboration/cooperation; Partnership assessment; Social
+   Network Analysis
+ID SOCIAL-STRUCTURE; TOURISM POLICY; TRUST; MANAGEMENT; DETERMINANTS;
+   DESTINATIONS; PARTNERSHIP; GOVERNANCE; EVOLUTION; POWER
+AB The aim of the paper is to propose a way of assessing tourist partnerships using Social Network Analysis (SNA). The partnership structure chosen for this assessment was the `Wisla Tourist Organization' (WTO) - a Destination Marketing Organization operating in the south of Poland. Collaboration assessment was based on discovering if, and to what extent new types of relationships between WTO members exist - and how big a part of the network structure they cover. It was assumed that the higher the extent of partnership relations in the WTO based on direct relations between WTO's members including: business cooperation, communication, knowledge, trust, mutual understanding, dialogue, benefits from cooperation, and perceived fulfilled expectations, the higher the level of collaboration evaluation.
+C1 [Czernek-Marszalek, Katarzyna] Univ Econ Katowice, Theory Management Dept, Katowice, Poland.
+C3 University of Economics in Katowice
+RP Czernek-Marszalek, K (corresponding author), Ul 1 Maja 50, PL-40287 Katowice, Poland.
+EM Katarzyna.czemek@ue.katowice.pl
+RI Czernek-Marszałek, Katarzyna/AAE-6939-2021
+OI Czernek-Marszalek, Katarzyna/0000-0002-9889-9821
+FU National Science Centre in Poland [2017/27/B/HS4/01051]
+FX The project was financed from sources of National Science Centre in
+   Poland according to decision 2017/27/B/HS4/01051. The author would like
+   to thank Reviewers and the Assciate Editor whose substantive comments
+   made it possible to improve the text. They also gave the autor
+   inspiration for future empirical research.
+CR Adnyana I. B. P., 2015, Journal of Sustainable Development, V8, P208
+   [Anonymous], 2001, TOUR EMPL IMPR QUAL
+   Augustyn MM, 2000, TOURISM MANAGE, V21, P341, DOI 10.1016/S0261-5177(99)00068-0
+   Baggio R, 2017, TOUR REV, V72, P120, DOI 10.1108/TR-01-2017-0008
+   Baggio R, 2011, CURR ISSUES TOUR, V14, P183, DOI 10.1080/13683500.2010.531118
+   Baggio R, 2010, ANN TOURISM RES, V37, P802, DOI 10.1016/j.annals.2010.02.008
+   Beesley L, 2005, TOURISM MANAGE, V26, P261, DOI 10.1016/j.tourman.2003.11.019
+   Beritelli P, 2011, ANN TOURISM RES, V38, P607, DOI 10.1016/j.annals.2010.11.015
+   Bornhorst T, 2010, TOURISM MANAGE, V31, P572, DOI 10.1016/j.tourman.2009.06.008
+   Bramwell B, 1999, ANN TOURISM RES, V26, P392, DOI 10.1016/S0160-7383(98)00105-4
+   Casanueva C, 2016, CURR ISSUES TOUR, V19, P1190, DOI 10.1080/13683500.2014.990422
+   Cooper C, 2006, ANN TOURISM RES, V33, P47, DOI 10.1016/j.annals.2005.04.005
+   Cooper C., 2010, SERV IND J, V30, P1, DOI DOI 10.1080/02642060903580649
+   Czernek K, 2014, EUR J TOUR HOSP RECR, V5, P61
+   Czernek K, 2016, TOURISM MANAGE, V52, P380, DOI 10.1016/j.tourman.2015.07.009
+   Czernek K, 2017, CURR ISSUES TOUR, V20, P204, DOI 10.1080/13683500.2014.944107
+   Czernek K, 2013, ANN TOURISM RES, V40, P83, DOI 10.1016/j.annals.2012.09.003
+   d'Angella F, 2009, TOURISM MANAGE, V30, P429, DOI 10.1016/j.tourman.2008.07.012
+   Davenport T.H., 1998, WORKING KNOWLEDGE OR
+   de Araujo LM, 2002, ANN TOURISM RES, V29, P1138, DOI 10.1016/S0160-7383(02)00033-6
+   Del Chiapa G, 2013, TOUR ANAL, V18, P1, DOI 10.3727/108354213X13613720283520
+   Dominguez S, 2014, STRUC AN S, P1, DOI 10.1017/CBO9781139227193
+   Dredge D, 2006, TOURISM MANAGE, V27, P269, DOI 10.1016/j.tourman.2004.10.003
+   EFQM, 2016, MULT AUTH EFQM ACC
+   Eisenhardt KM, 2007, ACAD MANAGE J, V50, P25, DOI 10.5465/AMJ.2007.24160888
+   Fyall A., 2005, Tourism Marketing: A Collaborative Approach
+   Gardiner S, 2014, ANN TOURISM RES, V46, P171, DOI 10.1016/j.annals.2014.01.004
+   GRANOVETTER M, 1985, AM J SOCIOL, V91, P481, DOI 10.1086/228311
+   Gray, 1991, J APPL BEHAV SCI, V27, P3, DOI DOI 10.1177/0021886391271001
+   Gray B, 2005, COOPERATIVE STRATEGY, P243
+   GULATI R, 1995, ACAD MANAGE J, V38, P85, DOI 10.5465/256729
+   Hall CM, 2008, CONTEMP GEOGR LEIS T, P1
+   Harrigan K.R., 1988, COOPERATIVE STRATEGI, P205
+   Jamal T., 1999, Journal of Sustainable Tourism, V7, P290, DOI 10.1080/09669589908667341
+   Kozak M, 2011, ROUTL ADV TOUR, P1
+   Lane B., 1999, J. Sustain. Tour, V7, P179, DOI DOI 10.1080/09669589908667335
+   Lemmetyinen A, 2009, TOURISM MANAGE, V30, P31, DOI 10.1016/j.tourman.2008.04.005
+   Liu B, 2017, TOURISM MANAGE, V58, P132, DOI 10.1016/j.tourman.2016.10.009
+   Long PE., 1997, Quality of Management in Urban Tourism, P235
+   March R, 2009, TOURISM MANAGE, V30, P455, DOI 10.1016/j.tourman.2008.09.001
+   Merinero-Rodríguez R, 2016, TOURISM MANAGE, V54, P122, DOI 10.1016/j.tourman.2015.10.010
+   Mitrega M, 2012, IND MARKET MANAG, V41, P886, DOI 10.1016/j.indmarman.2011.09.023
+   Nunkoo R, 2016, J HOSP MARKET MANAG, V25, P512, DOI 10.1080/19368623.2015.1019170
+   Nunkoo R, 2012, ANN TOURISM RES, V39, P997, DOI 10.1016/j.annals.2011.11.017
+   OLIVER C, 1991, ACAD MANAGE REV, V16, P145, DOI 10.2307/258610
+   Papaconstantinou A, 2015, CONVERSION IN LATE ANTIQUITY: CHRISTIANITY, ISLAM, AND BEYOND: PAPERS FROM THE ANDREW W. MELLON FOUNDATION SAWYER SEMINAR, UNIVERSITY OF OXFORD, 2009-2010, pXV
+   Pavlovich K, 2003, TOURISM MANAGE, V24, P203, DOI 10.1016/S0261-5177(02)00056-0
+   Pearce DG, 2014, J TRAVEL RES, V53, P141, DOI 10.1177/0047287513491334
+   Pechlaner H, 2012, ANATOLIA, V23, P151, DOI 10.1080/13032917.2011.652137
+   Peris-Ortiz M., 2015, ACHIEVING COMPETITIV
+   Peters LM, 2007, TEAM PERFORM MANAG, V13, P117, DOI 10.1108/13527590710759865
+   Pforr C, 2006, ANN TOURISM RES, V33, P87, DOI 10.1016/j.annals.2005.04.004
+   Provan KG, 2008, J PUBL ADM RES THEOR, V18, P229, DOI 10.1093/jopart/mum015
+   Pyo S, 2010, SERV IND J, V30, P1669, DOI 10.1080/02642060903580680
+   Rahman N, 2014, LONG RANGE PLANN, V47, P245, DOI 10.1016/j.lrp.2012.05.003
+   Reid LJ, 2008, TOURISM MANAGE, V29, P581, DOI 10.1016/j.tourman.2007.05.005
+   Rico R, 2009, SOC SCI INFORM, V48, P229, DOI 10.1177/0539018409102410
+   Ritter T, 1999, IND MARKET MANAG, V28, P467, DOI 10.1016/S0019-8501(99)00075-9
+   ROBERTS L., 2000, Tourism collaboration and partnerships. Politics, P230
+   SCOTT N., 2008, Network Analysis and Tourism: From Theory to Practice
+   Scott N, 2008, ANN TOURISM RES, V35, P169, DOI 10.1016/j.annals.2007.07.004
+   SELIN S, 1991, ANN TOURISM RES, V18, P639, DOI 10.1016/0160-7383(91)90079-Q
+   Selin S. W., 1998, Journal of Travel & Tourism Marketing, V7, P79, DOI 10.1300/J073v07n03_05
+   Shih HY, 2006, TOURISM MANAGE, V27, P1029, DOI 10.1016/j.tourman.2005.08.002
+   Uzzi B, 1997, ADMIN SCI QUART, V42, P35, DOI 10.2307/2393808
+   Zollo M, 2002, ORGAN SCI, V13, P339, DOI 10.1287/orsc.13.3.339.2780
+NR 66
+TC 27
+Z9 28
+U1 3
+U2 39
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0160-7383
+EI 1873-7722
+J9 ANN TOURISM RES
+JI Ann. Touris. Res.
+PD SEP
+PY 2018
+VL 72
+BP 126
+EP 139
+DI 10.1016/j.annals.2018.07.005
+PG 14
+WC Hospitality, Leisure, Sport & Tourism; Sociology
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics; Sociology
+GA GR5WW
+UT WOS:000442713600011
+DA 2024-11-22
+ER
+
+PT J
+AU Lamberson, PJ
+AF Lamberson, P. J.
+TI Approximating individual interactions in compartmental system dynamics
+   models
+SO SYSTEM DYNAMICS REVIEW
+LA English
+DT Article
+ID WINNER-TAKE-ALL; INCREASING RETURNS; NETWORK STRUCTURE; COMPLEX
+   NETWORKS; SOCIAL NETWORKS; DIFFUSION; MARKETS; POPULATION; EQUATION;
+   IMPACT
+AB This paper introduces an approach known as a pair approximation developed in physics and mathematical biology that captures some of the effects of network structure in a compartmental system dynamics (CSD) model without substantially increasing model complexity or computational efficiency. We describe the approach using a familiar example: the standard SIS model from epidemiology that underpins many models from the marketing and innovation diffusion literature. We show that the pair approximation better approximates the results of an agent-based simulation than the standard CSD. The model provides insights regarding the epidemic threshold, with implications for halting the spread of a disease or encouraging the spread of a product, that cannot be obtained from the standard CSD. We further illustrate the technique through the development of two new CSD models: a model of social contagion, SIS2, that allows for social recovery, and a model of technology adoption with local network effects. Copyright (c) 2018 System Dynamics Society
+C1 [Lamberson, P. J.] Univ Calif Los Angeles, Dept Commun, Los Angeles, CA 90095 USA.
+C3 University of California System; University of California Los Angeles
+RP Lamberson, PJ (corresponding author), Univ Calif Los Angeles, Dept Commun, Los Angeles, CA 90095 USA.
+EM lamberson@ucla.edu
+OI Lamberson, PJ/0000-0002-4176-9428
+CR [Anonymous], CONNECTIONS
+   [Anonymous], 2010, Diversity and complexity
+   [Anonymous], 2010, NETWORKS INTRO, DOI [DOI 10.1093/ACPROF:OSO/9780199206650.001.0001, DOI 10.1093/cercor/bhj127]
+   ARTHUR WB, 1989, ECON J, V99, P116, DOI 10.2307/2234208
+   Bailey NTJ., 1975, MATH THEORY INFECT D
+   Barabási AL, 2016, NETWORK SCIENCE, P1
+   BASS FM, 1969, MANAGE SCI, V15, P215, DOI 10.1287/mnsc.15.5.215
+   Bond RM, 2012, NATURE, V489, P295, DOI 10.1038/nature11421
+   BOving KB, 2004, SCANDINAVIAN J INFOR, V16, P3
+   Burt R.S., 2007, Brokerage and closure: An introduction to social capital
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   Gambardella P, 2018, P 36 INT C SYST DYN
+   Gladwell M, 2014, Q AND A WITH MALCOLM
+   Granovetter M, 2005, J ECON PERSPECT, V19, P33, DOI 10.1257/0895330053147958
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Grimm V., 2005, INDIVIDUAL BASED MOD, V8, DOI DOI 10.1515/9781400850624-007
+   Hill AL, 2010, PLOS COMPUT BIOL, V6, DOI 10.1371/journal.pcbi.1000968
+   Hill AL, 2010, P ROY SOC B-BIOL SCI, V277, P3827, DOI 10.1098/rspb.2010.1217
+   Jackson MO, 2017, J ECON LIT, V55, P49, DOI 10.1257/jel.20150694
+   Jackson ML, 2007, BMC MED INFORM DECIS, V7, DOI 10.1186/1472-6947-7-6
+   Jackson MO, 2008, SOCIAL AND ECONOMIC NETWORKS, P1
+   Keeling MJ, 1999, P ROY SOC B-BIOL SCI, V266, P859, DOI 10.1098/rspb.1999.0716
+   Keeling MJ, 1997, P ROY SOC B-BIOL SCI, V264, P1149, DOI 10.1098/rspb.1997.0159
+   Kiss I. Z., 2017, MATH EPIDEMICS NETWO, DOI DOI 10.1007/978-3-319-50806-1
+   Kramer ADI, 2014, P NATL ACAD SCI USA, V111, P8788, DOI 10.1073/pnas.1320040111
+   Lamberson PJ, 2018, J ECON MANAGE STRAT, V27, P40, DOI 10.1111/jems.12231
+   Lamberson PJ, 2016, SYST DYNAM REV, V32, P233, DOI 10.1002/sdr.1563
+   Lamberson P. J., 2015, OXFORD HDB EC NETWOR
+   Lamberson PJ., 2015, Network games with local correlation and clustering
+   Lamberson PJ, 2015, MAKING MOVEMENTS HAP
+   LeBaron B, 2002, P NATL ACAD SCI USA, V99, P7201, DOI 10.1073/pnas.072079699
+   Lee E, 2006, MANAGE SCI, V52, P1838, DOI 10.1287/mnsc.1060.0571
+   López-Pintado D, 2008, GAME ECON BEHAV, V62, P573, DOI 10.1016/j.geb.2007.08.001
+   Lowe J.W. G., 1985, The Dynamics of Apocalypse: A Systems Simulation of the Classic Maya Collapse
+   Miller JH, 2007, PRINC STUD COMPLEX, P1, DOI 10.1007/1-4020-5602-8_1
+   Miller JC, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.020901
+   Morris AndrewJ., 1997, Representing spatial interactions in simple ecological models
+   Nakamaru M, 1997, J THEOR BIOL, V184, P65, DOI 10.1006/jtbi.1996.0243
+   Neuert Christian, 1995, Verhandlungen der Gesellschaft fuer Oekologie, V24, P145
+   Newman MEJ, 2009, PHYS REV LETT, V103, DOI 10.1103/PhysRevLett.103.058701
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   Ohtsuki H, 2006, J THEOR BIOL, V243, P86, DOI 10.1016/j.jtbi.2006.06.004
+   Rahmandad H, 2008, MANAGE SCI, V54, P998, DOI 10.1287/mnsc.1070.0787
+   Rand D.A., 1999, ADV ECOLOGICAL THEOR, P100, DOI [10.1002/9781444311501.ch4, DOI 10.1002/9781444311501.CH4]
+   SATO K, 1994, J MATH BIOL, V32, P251, DOI 10.1007/BF00163881
+   Shapiro C.R., 1999, INFORM RULES STRATEG
+   Sterman J, 2000, BUSINESS DYNAMICS
+   Strang D, 1998, ANNU REV SOCIOL, V24, P265, DOI 10.1146/annurev.soc.24.1.265
+   Struben J, 2008, ENVIRON PLANN B, V35, P1070, DOI 10.1068/b33022t
+   Sunstein CassR., 2014, On rumors: How falsehoods spread, why we believe them, and what can be done
+   Valente T.W., 1995, NETWORK MODELS DIFFU
+   van Baalen Minus, 2000, P359
+   Watts DJ, 1999, AM J SOCIOL, V105, P493, DOI 10.1086/210318
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Webb SD, 2007, J THEOR BIOL, V249, P140, DOI 10.1016/j.jtbi.2007.06.013
+   worldstandardseu, 2017, PLUG SOCK TYP
+NR 56
+TC 3
+Z9 3
+U1 1
+U2 13
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0883-7066
+EI 1099-1727
+J9 SYST DYNAM REV
+JI Syst. Dyn. Rev.
+PD JAN-JUN
+PY 2018
+VL 34
+IS 1-2
+SI SI
+BP 284
+EP 326
+DI 10.1002/sdr.1599
+PG 43
+WC Management; Social Sciences, Mathematical Methods
+WE Social Science Citation Index (SSCI)
+SC Business & Economics; Mathematical Methods In Social Sciences
+GA GW0OE
+UT WOS:000446566100009
+DA 2024-11-22
+ER

@@ -1,0 +1,538 @@
+
+PT J
+AU Bergstrom, CT
+   Bak-Coleman, JB
+AF Bergstrom, Carl T.
+   Bak-Coleman, Joseph B.
+TI Gerrymandering in social networks
+SO NATURE
+LA English
+DT Editorial Material
+AB An analysis shows that information flow between individuals in a social network can be 'gerrymandered' to skew perceptions of how others in the community will vote - which can alter the outcomes of elections.
+C1 [Bergstrom, Carl T.] Univ Washington, Dept Biol, Seattle, WA 98105 USA.
+   [Bak-Coleman, Joseph B.] Princeton Univ, Dept Ecol & Evolutionary Biol, Princeton, NJ 08544 USA.
+C3 University of Washington; University of Washington Seattle; Princeton
+   University
+RP Bergstrom, CT (corresponding author), Univ Washington, Dept Biol, Seattle, WA 98105 USA.
+EM cbergst@uw.edu
+RI Bak-Coleman, Joseph B./ISS-0132-2023; Bergstrom, Carl/H-2299-2011
+OI Bergstrom, Carl/0000-0002-2070-385X
+CR [Anonymous], 2011, THE FILTER BUBBLE
+   Hodas NO, 2014, SCI REP-UK, V4, DOI 10.1038/srep04343
+   Ingraham C., 2015, The Washington Post
+   Napoli PM, 2015, TELECOMMUN POLICY, V39, P751, DOI 10.1016/j.telpol.2014.12.003
+   Pattie CJ, 2005, ENVIRON PLANN A, V37, P1191, DOI 10.1068/a3747
+   Shearer E., 2018, Social media outpaces print newspapers in the U.S. as a news source
+   Stewart I, 2019, NATURE, V571, P174, DOI 10.1038/d41586-019-02115-4
+NR 7
+TC 21
+Z9 24
+U1 1
+U2 65
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 0028-0836
+EI 1476-4687
+J9 NATURE
+JI Nature
+PD SEP 5
+PY 2019
+VL 573
+IS 7772
+BP 40
+EP 41
+DI 10.1038/d41586-019-02562-z
+PG 2
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA IV0KI
+UT WOS:000483967700030
+PM 31485063
+OA Bronze
+DA 2024-11-22
+ER
+
+PT J
+AU Xue, YK
+   Bogdan, P
+AF Xue, Yuankun
+   Bogdan, Paul
+TI Reconstructing missing complex networks against adversarial
+   interventions
+SO NATURE COMMUNICATIONS
+LA English
+DT Article
+ID RESILIENCE; ATTACK; STRATEGIES; SYSTEMS; POWER
+AB Interactions within complex network components define their operational modes, collective behaviors and global functionality. Understanding the role of these interactions is limited by either sensing methodologies or intentional adversarial efforts that sabotage the network structure. To overcome the partial observability and infer with good fidelity the unobserved network structures (latent subnetworks that are not random samples of the full network), we propose a general causal inference framework for reconstructing network structures under unknown adversarial interventions. We explore its applicability in both biological and social systems to recover the latent structures of human protein complex interactions and brain connectomes, as well as to infer the camouflaged social network structure in a simulated removal process. The demonstrated effectiveness establishes its good potential for capturing hidden information in much broader research domains.
+C1 [Xue, Yuankun; Bogdan, Paul] Univ Southern Calif, Ming Hsieh Dept Elect & Comp Engn, Los Angeles, CA 90007 USA.
+C3 University of Southern California
+RP Bogdan, P (corresponding author), Univ Southern Calif, Ming Hsieh Dept Elect & Comp Engn, Los Angeles, CA 90007 USA.
+EM pbogdan@usc.edu
+RI Bogdan, Paul/ITT-2991-2023
+OI Bogdan, Paul/0000-0003-2118-0816; Xue, Yuankun/0000-0002-6227-7764
+FU U.S. Army Defense Advanced Research Projects Agency (DARPA)
+   [W911NF-17-1-0076]; DARPA Young Faculty Award [N66001-17-1-4044];
+   National Science Foundation under CAREER Award [CPS/CNS-1453860]
+FX The authors gratefully acknowledge the support by the U.S. Army Defense
+   Advanced Research Projects Agency (DARPA) under Grant no.
+   W911NF-17-1-0076, DARPA Young Faculty Award under Grant no.
+   N66001-17-1-4044, and the National Science Foundation under CAREER Award
+   CPS/CNS-1453860 support. The views, opinions, and/or findings contained
+   in this article are those of the authors and should not be interpreted
+   as representing the official views or policies, either expressed or
+   implied, of the Defense Advanced Research Projects Agency, the
+   Department of Defense or the National Science Foundation.
+CR Abbe E, 2016, IEEE T INFORM THEORY, V62, P471, DOI 10.1109/TIT.2015.2490670
+   Achard S, 2006, J NEUROSCI, V26, P63, DOI 10.1523/JNEUROSCI.3874-05.2006
+   Ahmed NK, 2014, ACM T KNOWL DISCOV D, V8, DOI 10.1145/2601438
+   Aicher C, 2015, J COMPLEX NETW, V3, P221, DOI 10.1093/comnet/cnu026
+   Albert R, 2000, NATURE, V406, P378, DOI 10.1038/35019019
+   Angeloudis P, 2006, PHYSICA A, V367, P553, DOI 10.1016/j.physa.2005.11.007
+   [Anonymous], ARXIV180204291
+   Barabási AL, 2011, NAT REV GENET, V12, P56, DOI 10.1038/nrg2918
+   Bassett DS, 2006, NEUROSCIENTIST, V12, P512, DOI 10.1177/1073858406293182
+   Bessi A., 2016, 1 MONDAY, DOI DOI 10.5210/FM.V21I11.7090
+   Borgatti SP, 2009, SCIENCE, V323, P892, DOI 10.1126/science.1165821
+   Bullmore ET, 2009, NAT REV NEUROSCI, V10, P186, DOI 10.1038/nrn2575
+   Cai JF, 2010, SIAM J OPTIMIZ, V20, P1956, DOI 10.1137/080738970
+   Candès EJ, 2010, IEEE T INFORM THEORY, V56, P2053, DOI 10.1109/TIT.2010.2044061
+   Candès EJ, 2009, FOUND COMPUT MATH, V9, P717, DOI 10.1007/s10208-009-9045-5
+   CHAN KS, 1995, J AM STAT ASSOC, V90, P242, DOI 10.2307/2291149
+   Cohen R, 2001, PHYS REV LETT, V86, P3682, DOI 10.1103/PhysRevLett.86.3682
+   Decelle A, 2011, PHYS REV E, V84, DOI 10.1103/PhysRevE.84.066106
+   Dong GG, 2013, PHYS REV E, V87, DOI 10.1103/PhysRevE.87.052804
+   Drew K, 2017, MOL SYST BIOL, V13, DOI 10.15252/msb.20167490
+   Du RJ, 2016, PHYSICA A, V450, P687, DOI 10.1016/j.physa.2015.12.058
+   Eom YH, 2018, PHYS REV E, V97, DOI 10.1103/PhysRevE.97.042313
+   Eubank S, 2004, NATURE, V429, P180, DOI 10.1038/nature02541
+   Ferrara E, 2016, COMMUN ACM, V59, P96, DOI 10.1145/2818717
+   Ganin AA, 2016, SCI REP-UK, V6, DOI 10.1038/srep19540
+   Gao JX, 2016, NATURE, V530, P307, DOI 10.1038/nature16948
+   Gotts NM, 2007, ECOL SOC, V12
+   Huang XQ, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.065101
+   Jain P, 2013, STOC'13: PROCEEDINGS OF THE 2013 ACM SYMPOSIUM ON THEORY OF COMPUTING, P665
+   Joyce KE, 2013, PLOS COMPUT BIOL, V9, DOI 10.1371/journal.pcbi.1002885
+   Keshavan RH, 2010, IEEE T INFORM THEORY, V56, P2980, DOI 10.1109/TIT.2010.2046205
+   Kim M., 2011, P 2011 SIAM INT C DA
+   Kinney R, 2005, EUR PHYS J B, V46, P101, DOI 10.1140/epjb/e2005-00237-9
+   Leskovec J., 2012, ADV NEURAL INFORM PR, V25, P539, DOI DOI 10.1109/ICDM.2012.159
+   Leskovec J, 2010, J MACH LEARN RES, V11, P985
+   Majdandzic A, 2016, NAT COMMUN, V7, DOI 10.1038/ncomms10850
+   Majdandzic A, 2014, NAT PHYS, V10, P34, DOI [10.1038/NPHYS2819, 10.1038/nphys2819]
+   Masrour F, 2015, PROCEEDINGS OF THE 2015 IEEE/ACM INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING (ASONAM 2015), P302, DOI 10.1145/2808797.2809407
+   Matarrese P, 2005, CELL DEATH DIFFER, V12, P932, DOI 10.1038/sj.cdd.4401582
+   Miller JC, 2007, PHYSICA A, V386, P780, DOI 10.1016/j.physa.2007.08.054
+   Moreira AA, 2009, PHYS REV LETT, V102, DOI 10.1103/PhysRevLett.102.018701
+   Motter AE, 2008, MOL SYST BIOL, V4, DOI 10.1038/msb.2008.1
+   Motter AE, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.065102
+   Newman MEJ, 2016, NAT COMMUN, V7, DOI 10.1038/ncomms11863
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   Nie TY, 2015, PHYSICA A, V424, P248, DOI 10.1016/j.physa.2015.01.004
+   Palla G, 2010, P NATL ACAD SCI USA, V107, P7640, DOI 10.1073/pnas.0912983107
+   Recht B, 2011, J MACH LEARN RES, V12, P3413
+   Rozenfeld HD, 2010, PHYS REV LETT, V104, DOI 10.1103/PhysRevLett.104.025701
+   Shekhtman LM, 2015, NEW J PHYS, V17, DOI 10.1088/1367-2630/17/12/123007
+   Sodhi A, 2004, NAT REV MOL CELL BIO, V5, P998, DOI 10.1038/nrm1529
+   Sporns Olaf, 2013, Dialogues Clin Neurosci, V15, P247
+   Szalkai B, 2017, COGN NEURODYNAMICS, V11, P113, DOI 10.1007/s11571-016-9407-z
+   Venkatesh S., 2012, The Theory of Probability: Explorations and Ap-plications
+   Vogelstein B, 2000, NATURE, V408, P307, DOI 10.1038/35042675
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   WU CFJ, 1983, ANN STAT, V11, P95, DOI 10.1214/aos/1176346060
+   Xue YK, 2017, SCI REP-UK, V7, DOI 10.1038/s41598-017-07209-5
+NR 58
+TC 25
+Z9 25
+U1 1
+U2 24
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 2041-1723
+J9 NAT COMMUN
+JI Nat. Commun.
+PD APR 15
+PY 2019
+VL 10
+AR 1738
+DI 10.1038/s41467-019-09774-x
+PG 12
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA HT3WO
+UT WOS:000464494100007
+PM 30988308
+OA gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Morrow, KS
+   Glanz, H
+   Ngakan, PO
+   Riley, EP
+AF Morrow, Kristen S.
+   Glanz, Hunter
+   Ngakan, Putu Oka
+   Riley, Erin P.
+TI Interactions with humans are jointly influenced by life history stage
+   and social network factors and reduce group cohesion in moor macaques
+   (<i>Macaca maura</i>)
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID CHIMPANZEES; HABITUATION; DYNAMICS; BEHAVIOR; ROAD; PARK
+AB Human-wildlife encounters are becoming increasingly frequent across the globe, often leading people to interact with and feed wild animals and impacting animal behaviour and ecology. Although the nature of human-wildlife interactions has been well documented across a number of species, we still have limited understanding as to why some individual animals interact more frequently with humans than others. Additionally, we lack a comprehensive understanding of how these interactions influence animal social networks. Using behavioural data from a group of moor macaque monkeys (Macaca maura), we used permutation-based linear regression analyses to understand how life history and social network factors jointly explain interindividual variation in tendency to interact with humans along a provincial road in South Sulawesi, Indonesia. As our study group spent only a portion of their time in proximity to humans, we also examined how social network structure changes in response to human presence by comparing social networks in the forest to those along the road. We found that sex, individual network position, and associate network position interact in complex ways to influence individual behaviour. Individual variation in tendency to be along the road caused social networks to become less cohesive when in proximity to humans. This study demonstrates that nuanced intragroup analyses are necessary to fully understand and address conservation issues relating to human-wildlife interactions.
+C1 [Morrow, Kristen S.; Riley, Erin P.] San Diego State Univ, Dept Anthropol, San Diego, CA 92182 USA.
+   [Morrow, Kristen S.] Univ Georgia, Dept Anthropol & Integrat Conservat, Athens, GA 30602 USA.
+   [Glanz, Hunter] Calif Polytech State Univ San Luis Obispo, Dept Stat, San Luis Obispo, CA 93407 USA.
+   [Ngakan, Putu Oka] Univ Hasanuddin, Fac Forestry, Makassar 90245, Sulawesi, Indonesia.
+C3 California State University System; San Diego State University;
+   University System of Georgia; University of Georgia; California State
+   University System; California Polytechnic State University San Luis
+   Obispo; Universitas Hasanuddin
+RP Morrow, KS (corresponding author), San Diego State Univ, Dept Anthropol, San Diego, CA 92182 USA.; Morrow, KS (corresponding author), Univ Georgia, Dept Anthropol & Integrat Conservat, Athens, GA 30602 USA.
+EM ksmorrow@uga.edu
+OI Morrow, Kristen S./0000-0002-8373-4514; Glanz,
+   Hunter/0000-0001-6726-8261
+FU Hasanuddin University; San Diego State University President's Leadership
+   Fund; San Diego State University University Grants Program award; San
+   Diego State University Graduate Student Travel award
+FX The authors would like to thank the Ministry of Research, Technology,
+   and Higher Education (RISTEK), the Ministry of Environment and Forestry
+   (KLHK), and Bantimurung Bulusaraung National Park for permission to
+   conduct this research, our field assistants Hendra and Pak Haro for
+   their support in data collection, Hasanuddin University for their
+   support of the research, and members of the village of Bengo for hosting
+   us during fieldwork. The authors would also like to thank Dr. Brianne
+   Beisner for her data analysis guidance and Editorial Board member Dr.
+   Elfriede Kalcher-Sommersguter and reviewers Dr. Kimberley Hockings and
+   Dr. Sebastian Sosa for their helpful comments on this manuscript.
+   Funding was provided by San Diego State University's President's
+   Leadership Fund (PI: Erin P. Riley) and University Grants Program (PI:
+   Erin P. Riley) and Graduate Student Travel (PI: Kristen S. Morrow)
+   awards.
+CR Altmann J, 2003, AM J HUM BIOL, V15, P401, DOI 10.1002/ajhb.10157
+   [Anonymous], IUCN RED LIST THREAT
+   [Anonymous], 1996, VARIATIONS ASIAN MAC
+   [Anonymous], HUM WILDL INTERACT
+   [Anonymous], NETWORK PACKAGE MANA
+   [Anonymous], J PRIMATOL
+   [Anonymous], 2003, statnet: Software tools for the Statistical Modeling of Network Data, DOI DOI 10.1371/journal.pcbi.0020100
+   [Anonymous], 1994, SOCIAL NETWORK ANAL
+   [Anonymous], 2010, multResp() lmPerm. The R project for statistical computing
+   [Anonymous], 2002, JUVENILE PRIMATES LI
+   ASQUITH PJ, 1989, YEARB PHYS ANTHROPOL, V32, P129
+   Beisner BA, 2015, AM J PHYS ANTHROPOL, V156, P286, DOI 10.1002/ajpa.22649
+   Beisner BA, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0016365
+   Bercovitch Fred B., 2004, Cambridge Studies in Biological and Evolutionary Anthropology, V41, P61
+   Bercovitch Fred B., 2000, P298, DOI 10.1017/CBO9780511542589.012
+   Blaszczyk MB, 2018, BEHAV ECOL SOCIOBIOL, V72, DOI 10.1007/s00265-017-2425-y
+   Bode NWF, 2011, ANIM BEHAV, V82, P29, DOI 10.1016/j.anbehav.2011.04.011
+   Bonacich P, 2007, SOC NETWORKS, V29, P555, DOI 10.1016/j.socnet.2007.04.002
+   Burgin S, 2015, J ENVIRON MANAGE, V151, P210, DOI 10.1016/j.jenvman.2014.12.018
+   Butts C.T., 2016, SNA TOOLS SOCIAL NET
+   CAIRNS SJ, 1987, ANIM BEHAV, V35, P1454, DOI 10.1016/S0003-3472(87)80018-0
+   Cantor M, 2012, ANIM BEHAV, V84, P641, DOI 10.1016/j.anbehav.2012.06.019
+   Carne C, 2017, ECOHEALTH, V14, P704, DOI 10.1007/s10393-017-1284-3
+   Castles M, 2014, ANIM BEHAV, V96, P59, DOI 10.1016/j.anbehav.2014.07.023
+   Chilvers BL, 2001, P ROY SOC B-BIOL SCI, V268, P1901, DOI 10.1098/rspb.2001.1732
+   Chiyo PI, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0031382
+   Cibot M, 2015, AM J PRIMATOL, V77, P890, DOI 10.1002/ajp.22417
+   CoussiKorbel S, 1995, ANIM BEHAV, V50, P1441, DOI 10.1016/0003-3472(95)80001-8
+   Croft DP, 2008, EXPLORING ANIMAL SOCIAL NETWORKS, P1
+   Croft DP, 2005, OECOLOGIA, V143, P211, DOI 10.1007/s00442-004-1796-8
+   Csardi Gabor NT., 2005, INT J COMPLEX SYST, V2006, P1695, DOI DOI 10.3724/SP.J.1087.2009.02191
+   Davis GH, 2018, ANIM BEHAV, V141, P29, DOI 10.1016/j.anbehav.2018.04.012
+   Dunbar R.I.M., 1987, P240
+   Fa J.E., 1986, Use of time and resources by provisioned troops of monkeys: Social behaviour, time
+   Farine DR, 2015, J ANIM ECOL, V84, P1144, DOI 10.1111/1365-2656.12418
+   Flack JC, 2006, NATURE, V439, P426, DOI 10.1038/nature04326
+   Fratellone GP, 2019, PRIMATES, V60, P183, DOI 10.1007/s10329-018-0691-6
+   Fuentes A, 2005, AM J PRIMATOL, V66, P197, DOI 10.1002/ajp.20138
+   Fuentes Agustin, 2007, Almoraima, V35, P87
+   Guinn Jeremy E., 2013, Human-Wildlife Interactions, V7, P69
+   Henzi SP, 2007, ADV STUD BEHAV, V37, P43, DOI 10.1016/S0065-3454(07)37002-2
+   Higham JES, 2011, TOURISM MANAGE, V32, P1290, DOI 10.1016/j.tourman.2010.12.006
+   Hockings KJ, 2006, CURR BIOL, V16, pR668, DOI 10.1016/j.cub.2006.08.019
+   Hockings KJ, 2012, ANIM BEHAV, V83, P801, DOI 10.1016/j.anbehav.2012.01.002
+   Hsu MJ, 2009, AM J PRIMATOL, V71, P214, DOI 10.1002/ajp.20638
+   Jacobs A, 2011, INT J PRIMATOL, V32, P721, DOI 10.1007/s10764-011-9497-8
+   James R, 2009, BEHAV ECOL SOCIOBIOL, V63, P989, DOI 10.1007/s00265-009-0742-5
+   Jones-Engel L, 2005, EMERG INFECT DIS, V11, P1028, DOI 10.3201/eid1107.040957
+   Kasper C, 2009, PRIMATES, V50, P343, DOI 10.1007/s10329-009-0153-2
+   Kawazoe T, 2019, PRIMATES, V60, P213, DOI 10.1007/s10329-018-0702-7
+   Knight J, 2009, SOC ANIM, V17, P167, DOI 10.1163/156853009X418091
+   Koyama NF, 2019, PRIMATES, V60, P203, DOI 10.1007/s10329-018-0675-6
+   Krause J, 2007, BEHAV ECOL SOCIOBIOL, V62, P15, DOI 10.1007/s00265-007-0445-8
+   Kulahci IG, 2018, CURR BIOL, V28, P1306, DOI 10.1016/j.cub.2018.02.079
+   Marty PR, 2019, ANIM BEHAV, V150, P157, DOI 10.1016/j.anbehav.2019.02.010
+   Matsumura S, 1998, FOLIA PRIMATOL, V69, P346, DOI 10.1159/000021650
+   Matsumura S, 1997, INT J PRIMATOL, V18, P929, DOI 10.1023/A:1026344129760
+   McCarthy M. S., 2009, PRIM CONSERV, V24, P145, DOI [10.1896/052.024.0113, DOI 10.1896/052.024.0113]
+   McCarthy MS, 2019, ANIM BEHAV, V157, P227, DOI 10.1016/j.anbehav.2019.08.008
+   McFarland R, 2015, J ANIM ECOL, V84, P871, DOI 10.1111/1365-2656.12329
+   Murray MH, 2016, BIOL CONSERV, V204, P163, DOI 10.1016/j.biocon.2016.10.034
+   Okamoto K, 2000, AM J PRIMATOL, V52, P1
+   PROMISLOW DEL, 1990, J ZOOL, V220, P417, DOI 10.1111/j.1469-7998.1990.tb04316.x
+   Puga-Gonzalez I, 2019, PRIMATES, V60, P163, DOI 10.1007/s10329-019-00720-5
+   Puga-Gonzalez I, 2019, PRIMATES, V60, P233, DOI 10.1007/s10329-018-0684-5
+   Purvis A, 2000, P ROY SOC B-BIOL SCI, V267, P1947, DOI 10.1098/rspb.2000.1234
+   R Core Team, 2018, R LANG ENV STAT COMP
+   Riley EP, 2014, BEHAVIOUR, V151, P1021, DOI 10.1163/1568539X-00003182
+   Sabbatini G, 2006, APPL ANIM BEHAV SCI, V97, P272, DOI 10.1016/j.applanim.2005.07.002
+   Saj T, 1999, INT J PRIMATOL, V20, P977, DOI 10.1023/A:1020886820759
+   Silk JB, 2007, SCIENCE, V317, P1347, DOI 10.1126/science.1140734
+   Silk JB, 2010, CURR BIOL, V20, P1359, DOI 10.1016/j.cub.2010.05.067
+   Sosa S, 2016, FRONT PSYCHOL, V7, DOI 10.3389/fpsyg.2016.00529
+   Sundaresan SR, 2007, OECOLOGIA, V151, P140, DOI 10.1007/s00442-006-0553-6
+   Supriatna Jatna, 1992, Tropical Biodiversity, V1, P31
+   Thierry B., 2000, Primate Research, V16, P203
+   Thierry B., 2004, MACAQUE SOC MODEL ST, V41
+   Tiddi B, 2019, PRIMATES, V60, P297, DOI 10.1007/s10329-018-00711-y
+   Wolf M, 2007, NATURE, V447, P581, DOI 10.1038/nature05835
+   Wong BBM, 2015, BEHAV ECOL, V26, P665, DOI 10.1093/beheco/aru183
+   Wrangham R.W., 1987, P282
+   Yang Z, 2016, SCI REP-UK, V6, DOI 10.1038/srep30750
+   Zak AA, 2017, INT J PRIMATOL, V38, P224, DOI 10.1007/s10764-016-9945-6
+NR 83
+TC 23
+Z9 26
+U1 0
+U2 10
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD DEC 27
+PY 2019
+VL 9
+AR 20162
+DI 10.1038/s41598-019-56288-z
+PG 12
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA KF6HI
+UT WOS:000509340400041
+PM 31882849
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Broere, J
+   Buskens, V
+   Stoof, H
+   Sánchez, A
+AF Broere, Joris
+   Buskens, Vincent
+   Stoof, Henk
+   Sanchez, Angel
+TI An experimental study of network effects on coordination in asymmetric
+   games
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID SOCIAL NETWORKS; FOCAL POINTS; BATTLE
+AB Network structure has often proven to be important in understanding the decision behavior of individuals or agents in different interdependent situations. Computational studies predict that network structure has a crucial influence on behavior in iterated 2 by 2 asymmetric 'battle of the sexes' games. We test such behavioral predictions in an experiment with 240 human subjects. We found that as expected the less 'random' the network structure, the better the experimental results are predictable by the computational models. In particular, there is an effect of network clustering on the heterogeneity of convergence behavior in the network. We also found that degree centrality and having an even degree are important predictors of the decision behavior of the subjects in the experiment. We thus find empirical validation of predictions made by computational models in a computerized experiment with human subjects.
+C1 [Broere, Joris; Buskens, Vincent; Stoof, Henk] Univ Utrecht, Ctr Complex Syst Studies, Utrecht, Netherlands.
+   [Broere, Joris; Buskens, Vincent] Univ Utrecht, Dept Sociol, ICS, Utrecht, Netherlands.
+   [Stoof, Henk] Univ Utrecht, Inst Theoret Phys, Utrecht, Netherlands.
+   [Sanchez, Angel] Univ Carlos III Madrid, GISC, Dept Matemat, Madrid, Spain.
+   [Sanchez, Angel] Univ Zaragoza, Inst Biocomputac & Fis Sistemas Complejos BIFI, Zaragoza, Spain.
+   [Sanchez, Angel] Univ Carlos III Madrid, UV, UZ, UMICCS, Madrid, Spain.
+   [Sanchez, Angel] Univ Carlos III Madrid, UC3M, BS Inst Financial Big Data IBiDat, Madrid, Spain.
+C3 Utrecht University; Utrecht University; Utrecht University; Universidad
+   Carlos III de Madrid; University of Zaragoza; Universidad Carlos III de
+   Madrid; University of Valencia; Universidad Carlos III de Madrid
+RP Broere, J (corresponding author), Univ Utrecht, Ctr Complex Syst Studies, Utrecht, Netherlands.; Broere, J (corresponding author), Univ Utrecht, Dept Sociol, ICS, Utrecht, Netherlands.
+EM j.j.broere@uu.nl
+RI Buskens, Vincent/B-3134-2012; Sanchez, Angel/A-9229-2008
+OI broere, joris/0009-0009-5505-8297; Buskens, Vincent/0000-0002-4483-7238;
+   Sanchez, Angel/0000-0003-1874-2881; Stoof, Henk/0000-0003-1993-2556
+FU Complex Systems Fund; EU through FET-Open Project IBSEN [662725];
+   Ministerio de Economia y Competitividad of Spain [FIS2015-64349-P];
+   Swaantje Mondt fund
+FX The project was funded by the Complex Systems Fund, with special thanks
+   to Peter Koeze. A.S. was partially supported by the EU through FET-Open
+   Project IBSEN (contract no. 662725, A.S.), and by the Ministerio de
+   Economia y Competitividad of Spain (grant no. FIS2015-64349-P, A.S.)
+   (MINECO/FEDER, UE). Also a special thanks to the Swaantje Mondt fund,
+   who funded the research visit of JB to Universidad Carlos III de Madrid.
+   We thank Ignacio Tamarit and Pau Casanova for their help with the
+   experiments. We thank Merel van Herpen for her comments on the
+   manuscript.
+CR Alonso-Sanz R., 2012, P R SOC A
+   Alonso-Sanz R, 2012, DYN GAMES APPL, V2, P177, DOI 10.1007/s13235-012-0042-y
+   Alonso-Sanz R, 2011, INT J MOD PHYS C, V22, P1, DOI 10.1142/S0129183111016087
+   Amaral MA, 2016, PHYS REV E, V93, DOI 10.1103/PhysRevE.93.042304
+   Antonioni A, 2014, SCI REP-UK, V4, DOI 10.1038/srep06458
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Binmore K., 2007, PLAYING REAL TEXT GA
+   Bojanowski M, 2011, J MATH SOCIOL, V35, P249, DOI 10.1080/0022250X.2010.509523
+   Broere J, 2017, SCI REP-UK, V7, DOI 10.1038/s41598-017-16982-2
+   Buskens V., 2015, DYN GAMES APPL, P1
+   Chen DL, 2016, J BEHAV EXP FINANC, V9, P88, DOI 10.1016/j.jbef.2015.12.001
+   Cimini G, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2013.1186
+   COOPER R, 1989, RAND J ECON, V20, P568, DOI 10.2307/2555734
+   Crawford VP, 2008, AM ECON REV, V98, P1443, DOI 10.1257/aer.98.4.1443
+   De Kwaadsteniet EW, 2012, GROUP PROCESS INTERG, V15, P257, DOI 10.1177/1368430211410235
+   Duffy J, 2017, ECON THEOR, V64, P265, DOI 10.1007/s00199-016-0998-8
+   Easley D, 2010, Networks, Crowds, and Markets: Reasoning about A Highly Connected World, DOI [10.1017/CBO9780511761942, DOI 10.1017/CBO9780511761942]
+   Enemark D, 2014, SOC NETWORKS, V36, P122, DOI 10.1016/j.socnet.2012.10.001
+   Ezaki T, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0189220
+   Fortunato S, 2010, PHYS REP, V486, P75, DOI 10.1016/j.physrep.2009.11.002
+   Gracia-Lázaro C, 2012, P NATL ACAD SCI USA, V109, P12922, DOI 10.1073/pnas.1206681109
+   Greiner Ben., 2004, ONLINE RECRUITMENT S
+   Hernández P, 2017, ECON LETT, V155, P154, DOI 10.1016/j.econlet.2016.12.004
+   Hernández P, 2013, GAME ECON BEHAV, V79, P56, DOI 10.1016/j.geb.2013.01.004
+   Lau SHP, 2008, THEOR DECIS, V65, P153, DOI 10.1007/s11238-008-9100-8
+   Mäs M, 2016, J ECON THEORY, V162, P195, DOI 10.1016/j.jet.2015.12.010
+   Mazzoli M, 2017, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/aa9347
+   McCubbins MD, 2009, AM POLIT RES, V37, P899, DOI 10.1177/1532673X09337184
+   MEHTA J, 1994, THEOR DECIS, V36, P163, DOI 10.1007/BF01079211
+   Newman MEJ, 2006, P NATL ACAD SCI USA, V103, P8577, DOI 10.1073/pnas.0601602103
+   Perc M, 2010, BIOSYSTEMS, V99, P109, DOI 10.1016/j.biosystems.2009.10.003
+   Schelling T.C., 1980, THE STRATEGY OF CONF
+   Szabó G, 2007, PHYS REP, V446, P97, DOI 10.1016/j.physrep.2007.04.004
+   Szolnoki A, 2014, EPL-EUROPHYS LETT, V108, DOI 10.1209/0295-5075/108/28004
+   van Gerwen N, 2018, SOC NETWORKS, V52, P68, DOI 10.1016/j.socnet.2017.05.006
+   Vriens E, 2018, SOC NETWORKS, V54, P91, DOI 10.1016/j.socnet.2018.01.007
+   Wang Z, 2014, PHYS REV E, V90, DOI 10.1103/PhysRevE.90.032813
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+NR 38
+TC 7
+Z9 8
+U1 1
+U2 7
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD MAY 2
+PY 2019
+VL 9
+AR 6842
+DI 10.1038/s41598-019-43260-0
+PG 9
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA HW2HP
+UT WOS:000466504100039
+PM 31048710
+OA gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Min, Y
+   Jiang, TJ
+   Jin, C
+   Li, Q
+   Jin, XG
+AF Min, Yong
+   Jiang, Tingjun
+   Jin, Cheng
+   Li, Qu
+   Jin, Xiaogang
+TI Endogenetic structure of filter bubble in social networks
+SO ROYAL SOCIETY OPEN SCIENCE
+LA English
+DT Article
+DE social network; polarization; echo chamber; controlled experiment;
+   privacy protection
+ID NATURAL EXPERIMENT; NEWS; SPREAD
+AB The filter bubble is an intermediate structure to provoke polarization and echo chambers in social networks, and it has become one of today's most urgent issues for social media. Previous studies usually equated filter bubbles with community structures and emphasized this exogenous isolation effect, but there is a lack of full discussion of the internal organization of filter bubbles. Here, we design an experiment for analysing filter bubbles taking advantage of social bots. We deployed 128 bots to Weibo (the largest microblogging network in China), and each bot consumed a specific topic (entertainment or sci-tech) and ran for at least two months. In total, we recorded about 1.3 million messages exposed to these bots and their social networks. By analysing the text received by the bots and motifs in their social networks, we found that a filter bubble is not only a dense community of users with the same preferences but also presents an endogenetic unidirectional star-like structure. The structure could spontaneously exclude non-preferred information and cause polarization. Moreover, our work proved that the felicitous use of artificial intelligence technology could provide a useful experimental approach that combines privacy protection and controllability in studying social media.
+C1 [Min, Yong; Jiang, Tingjun; Li, Qu] Zhejiang Univ Technol, Coll Comp Sci & Technol, Hangzhou, Zhejiang, Peoples R China.
+   [Jin, Cheng] Tencent Corp, Shenzhen, Guangdong, Peoples R China.
+   [Jin, Xiaogang] Zhejiang Univ, Hangzhou, Zhejiang, Peoples R China.
+C3 Zhejiang University of Technology; Tencent; Zhejiang University
+RP Min, Y (corresponding author), Zhejiang Univ Technol, Coll Comp Sci & Technol, Hangzhou, Zhejiang, Peoples R China.
+EM myong@zjut.edu.cn
+FU National Natural Science Foundation of China [71303217, 31370354,
+   31270377]; Zhejiang Provincial Natural Science Foundation of China
+   [LY17G030030, LGF18D010001, LGF18D010002]
+FX This work was supported by the National Natural Science Foundation of
+   China (grant nos. 71303217, 31370354 and 31270377) and the Zhejiang
+   Provincial Natural Science Foundation of China (grant nos. LY17G030030,
+   LGF18D010001 and LGF18D010002).
+CR Abokhodair N, 2015, PROCEEDINGS OF THE 2015 ACM INTERNATIONAL CONFERENCE ON COMPUTER-SUPPORTED COOPERATIVE WORK AND SOCIAL COMPUTING (CSCW'15), P839, DOI 10.1145/2675133.2675208
+   [Anonymous], Grooming, Gossip, and the Evolution of Language
+   [Anonymous], 2010, TECHNICAL REPORT
+   [Anonymous], 2019, Technical Report
+   [Anonymous], 2015, Reuters Institute Digital News Report 2015 Tracking
+   Aral S, 2014, MANAGE SCI, V60, P1352, DOI 10.1287/mnsc.2014.1936
+   Bakshy E, 2015, SCIENCE, V348, P1130, DOI 10.1126/science.aaa1160
+   Barabási AL, 2002, PHYSICA A, V311, P590, DOI 10.1016/S0378-4371(02)00736-7
+   Benson AR, 2016, SCIENCE, V353, P163, DOI 10.1126/science.aad9029
+   Bianconi G, 2014, PHYS REV E, V90, DOI 10.1103/PhysRevE.90.042806
+   Bond RM, 2012, NATURE, V489, P295, DOI 10.1038/nature11421
+   Borgesius FJZ, 2016, INTERNET POLICY REV, V5, DOI 10.14763/2016.1.401
+   Centola D, 2011, SCIENCE, V334, P1269, DOI 10.1126/science.1207055
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Chen YB, 2011, J MARKETING RES, V48, P238, DOI 10.1509/jmkr.48.2.238
+   Coletto Mauro, 2017, Online Social Networks and Media, V3, P22, DOI 10.1016/j.osnem.2017.10.001
+   Conover M. D., 2011, 5 INT AAAI C WEBL SO
+   Dandekar P, 2013, P NATL ACAD SCI USA, V110, P5791, DOI 10.1073/pnas.1217220110
+   ESTEBAN JM, 1994, ECONOMETRICA, V62, P819, DOI 10.2307/2951734
+   Fagiolo G, 2007, PHYS REV E, V76, DOI 10.1103/PhysRevE.76.026107
+   Ferrara E, 2016, COMMUN ACM, V59, P96, DOI 10.1145/2818717
+   Flaxman S, 2016, PUBLIC OPIN QUART, V80, P298, DOI 10.1093/poq/nfw006
+   Guerra Pedro, 2013, 7 INT C WEBL SOC MED, V7, P215
+   Haim M, 2018, DIGIT JOURNAL, V6, P330, DOI 10.1080/21670811.2017.1338145
+   Joulin A., 2017, P 15 C EUROPEAN CHAP, P427
+   Kakiuchi K, 2018, INFLUENCE SELECTIVE
+   Kramer ADI, 2014, P NATL ACAD SCI USA, V111, P8788, DOI 10.1073/pnas.1320040111
+   Loreau M, 2001, NATURE, V412, P72, DOI 10.1038/35083573
+   Milo R, 2002, SCIENCE, V298, P824, DOI 10.1126/science.298.5594.824
+   Narayanan V., 2018, Polarization, Partisanship and Junk News Consumption over Social Media in the US
+   Newman MEJ, 2004, P NATL ACAD SCI USA, V101, P5200, DOI 10.1073/pnas.0307545100
+   Nikolov D, 2015, PEERJ COMPUT SCI, DOI 10.7717/peerj-cs.38
+   Paradise A, 2014, IEEE INTERNET COMPUT, V18, P11, DOI 10.1109/MIC.2014.81
+   Pariser Eli, 2011, FILTER BUBBLE WHAT I
+   Phan TQ, 2015, P NATL ACAD SCI USA, V112, P6595, DOI 10.1073/pnas.1404770112
+   Prior M, 2013, ANNU REV POLIT SCI, V16, P101, DOI 10.1146/annurev-polisci-100711-135242
+   Rand DG, 2011, P NATL ACAD SCI USA, V108, P19193, DOI 10.1073/pnas.1108243108
+   Reips UD, 2002, EXP PSYCHOL, V49, P243, DOI 10.1027//1618-3169.49.4.243
+   Romero DM, 2010, P 4 INT AAAI C WEBL
+   Schmidt AL, 2017, P NATL ACAD SCI USA, V114, P3035, DOI 10.1073/pnas.1617052114
+   Stroud NJ, 2010, J COMMUN, V60, P556, DOI 10.1111/j.1460-2466.2010.01497.x
+   Vosoughi S, 2018, SCIENCE, V359, P1146, DOI 10.1126/science.aap9559
+   Wu LF, 2019, NATURE, V566, P378, DOI 10.1038/s41586-019-0941-9
+   Xu L, 2014, IEEE ACCESS, V2, P1149, DOI 10.1109/ACCESS.2014.2362522
+NR 44
+TC 12
+Z9 15
+U1 10
+U2 77
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 2054-5703
+J9 ROY SOC OPEN SCI
+JI R. Soc. Open Sci.
+PD NOV
+PY 2019
+VL 6
+IS 11
+AR 190868
+DI 10.1098/rsos.190868
+PG 11
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA JX8VP
+UT WOS:000504006900023
+PM 31827834
+OA gold, Green Published, Green Submitted
+DA 2024-11-22
+ER

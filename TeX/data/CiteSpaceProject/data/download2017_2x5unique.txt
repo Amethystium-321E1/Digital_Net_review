@@ -1,0 +1,575 @@
+
+PT J
+AU Tsai, TH
+   Chang, HT
+   Chen, YJ
+   Chang, YS
+AF Tsai, Tsai-Hsuan
+   Chang, Hsien-Tsung
+   Chen, Yan-Jiun
+   Chang, Yung-Sheng
+TI Determinants of user acceptance of a specific social platform for older
+   adults: An empirical examination of user interface characteristics and
+   behavioral intention
+SO PLOS ONE
+LA English
+DT Article
+ID HEURISTIC EVALUATION; USABILITY HEURISTICS; TECHNOLOGY; SYSTEM; MODEL;
+   INTERNET; HEALTH; WEB; LONELINESS; NETWORK
+AB The use of the Internet and social applications has many benefits for the elderly, but numerous investigations have shown that the elderly do not perceive online social networks as a friendly social environment. Therefore, TreeIt, a social application specifically designed for the elderly, was developed for this study. In the TreeIt application, seven mechanisms promoting social interaction were designed to allow older adults to use social networking sites (SNSs) to increase social connection, maintain the intensity of social connections and strengthen social experience. This study's main objective was to investigate how user interface design affects older people's intention and attitude related to using SNSs. Fourteen user interface evaluation heuristics proposed by Zhang et al. were adopted as the criteria to assess user interface usability and further grouped into three categories: system support, user interface design and navigation. The technology acceptance model was adopted to assess older people's intention and attitude related to using SNSs. One hundred and one elderly persons were enrolled in this study as subjects, and the results showed that all of the hypotheses proposed in this study were valid: system support and perceived usefulness had a significant effect on behavioral intention; user interface design and perceived ease of use were positively correlated with perceived usefulness; and navigation exerted an influence on perceived ease of use. The results of this study are valuable for the future development of social applications for the elderly.
+C1 [Tsai, Tsai-Hsuan; Chen, Yan-Jiun; Chang, Yung-Sheng] Chang Gung Univ, Coll Management, Dept Ind Design, Taoyuan, Taiwan.
+   [Tsai, Tsai-Hsuan] Chang Gung Mem Hosp, Dept Internal Med, Div Cardiol, Taoyuan, Taiwan.
+   [Tsai, Tsai-Hsuan] Ming Chi Univ, Dept Visual Commun Design, New Taipei City, Taiwan.
+   [Chang, Hsien-Tsung] Chang Gung Univ, Coll Engn, Dept Comp Sci & Informat Engn, Taoyuan, Taiwan.
+   [Chang, Hsien-Tsung] Chang Gung Mem Hosp, Dept Phys Med & Rehabil, Taoyuan, Taiwan.
+C3 Chang Gung University; Chang Gung Memorial Hospital; Chang Gung
+   University; Chang Gung Memorial Hospital
+RP Tsai, TH (corresponding author), Chang Gung Univ, Coll Management, Dept Ind Design, Taoyuan, Taiwan.; Tsai, TH (corresponding author), Chang Gung Mem Hosp, Dept Internal Med, Div Cardiol, Taoyuan, Taiwan.; Tsai, TH (corresponding author), Ming Chi Univ, Dept Visual Commun Design, New Taipei City, Taiwan.
+EM ttsai.cgu@gmail.com
+RI Chang, Hsien-Tsung/E-7511-2012
+OI Chang, Hsien-Tsung/0000-0003-4987-5943
+FU Ministry of Science and Technology, Taiwan, ROC
+   [MOST103-2221-E-182-051-MY2, MOST105-2221-E-182 -025 -MY2]; Chang Gung
+   Memorial Hospital
+FX This work was supported by the Ministry of Science and Technology,
+   Taiwan, ROC under contract MOST103-2221-E-182-051-MY2,
+   MOST105-2221-E-182 -025 -MY2, and Chang Gung Memorial Hospital. The
+   funders had no role in study design, data collection and analysis,
+   decision to publish, or preparation of the manuscript.
+CR Al-Badi A., 2013, Journal of Internet Social Networking Virtual Communities (JISNVC), DOI [DOI 10.5171/2013.889433, 10.5171/2013.889433]
+   Allen M, 2006, J BIOMED INFORM, V39, P412, DOI 10.1016/j.jbi.2005.10.004
+   [Anonymous], 2012, CSCW, DOI DOI 10.1145/2145204.2145360
+   [Anonymous], 1995, ACM SIGNS DATABASE
+   [Anonymous], 2013, 72 ONLINE ADULTS ARE
+   Ashraf Anam, 2013, International Journal of Computer and Communication Engineering, V2, P711, DOI 10.7763/IJCCE.2013.V2.280
+   Atashi A, 2016, APPL CLIN INFORM, V7, P89, DOI 10.4338/ACI-2015-07-RA-0086
+   Bagozzi R. P., 1988, J ACAD MARKET SCI, V16, P74, DOI DOI 10.1007/BF02723327
+   Bedford VH, 1998, FAM RELAT, P369
+   Bennett DA, 2006, LANCET NEUROL, V5, P406, DOI 10.1016/S1474-4422(06)70417-3
+   BENTLER PM, 1980, PSYCHOL BULL, V88, P588, DOI 10.1037/0033-2909.107.2.238
+   Bondevik M, 1998, WESTERN J NURS RES, V20, P325, DOI 10.1177/019394599802000305
+   BRANSCOMB LM, 1984, IBM SYST J, V23, P224, DOI 10.1147/sj.233.0224
+   Braun MT, 2013, COMPUT HUM BEHAV, V29, P673, DOI 10.1016/j.chb.2012.12.004
+   Calisir F, 2004, COMPUT HUM BEHAV, V20, P505, DOI 10.1016/j.chb.2003.10.004
+   Castilla D, 2013, INT J HUM-COMPUT ST, V71, P350, DOI 10.1016/j.ijhcs.2012.10.017
+   Cattan M, 2005, AGEING SOC, V25, P41, DOI 10.1017/S0144686X04002594
+   Chan AJ, 2012, RADIOTHER ONCOL, V102, P142, DOI 10.1016/j.radonc.2011.05.077
+   Chang SJ, 2014, GERIATR NURS, V35, P137, DOI 10.1016/j.gerinurse.2013.11.005
+   Cho V, 2009, COMPUT EDUC, V53, P216, DOI 10.1016/j.compedu.2009.01.014
+   Choi G, 2013, INT J HUM-COMPUT INT, V29, P619, DOI 10.1080/10447318.2012.756333
+   Choi J, 2010, INT J MED INFORM, V79, P565, DOI 10.1016/j.ijmedinf.2010.05.001
+   CZAJA SJ, 1993, BEHAV INFORM TECHNOL, V12, P197, DOI 10.1080/01449299308924382
+   DAVIS FD, 1989, MANAGE SCI, V35, P982, DOI 10.1287/mnsc.35.8.982
+   De Vogli R, 2007, ARCH INTERN MED, V167, P1951, DOI 10.1001/archinte.167.18.1951
+   Dillon A, 2000, J AM SOC INFORM SCI, V51, P521, DOI 10.1002/(SICI)1097-4571(2000)51:6<521::AID-ASI4>3.0.CO;2-5
+   Duggan M., 2015, Social media update 2014
+   DUNBAR RIM, 1992, J HUM EVOL, V22, P469, DOI 10.1016/0047-2484(92)90081-J
+   FOLSTEIN MF, 1975, J PSYCHIAT RES, V12, P189, DOI 10.1016/0022-3956(75)90026-6
+   Francis D, 1991, FRIENDS WORKPLACE GR, P465
+   Gilbert E, 2009, CHI2009: PROCEEDINGS OF THE 27TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, VOLS 1-4, P211
+   Glass TA, 1999, BRIT MED J, V319, P478, DOI 10.1136/bmj.319.7208.478
+   González M, 2009, ADV ENG SOFTW, V40, P1271, DOI 10.1016/j.advengsoft.2009.01.027
+   Graham M., 2005, Journal of Visual Literacy, V25, P21, DOI [DOI 10.1080/23796529.2005.11674615, 10.1080/23796529.2005.11674615]
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Guo XT, 2013, ELECTRON MARK, V23, P49, DOI 10.1007/s12525-012-0112-4
+   Hair J.F., 1998, Multivariate Data Analysis, P5
+   Hair JF., 1979, Multivariate data analysis: With readings
+   Hartup WW, 1997, PSYCHOL BULL, V121, P355, DOI 10.1037/0033-2909.121.3.355
+   Hong W, 2001, J MANAGE INFORM SYST, V18, P97, DOI 10.1080/07421222.2002.11045692
+   Hu T, 2011, COMMUN ASSOC INF SYS, V29
+   Hvannberg ET, 2007, INTERACT COMPUT, V19, P225, DOI 10.1016/j.intcom.2006.10.001
+   Igbaria M, 1995, OMEGA-INT J MANAGE S, V23, P587, DOI 10.1016/0305-0483(95)00035-6
+   Jaspers MWM, 2009, INT J MED INFORM, V78, P340, DOI 10.1016/j.ijmedinf.2008.10.002
+   Jeong H, 2011, LIBR COLLECT ACQUIS, V35, P45, DOI 10.1016/j.lcats.2011.03.018
+   King WR, 2006, INFORM MANAGE-AMSTER, V43, P740, DOI 10.1016/j.im.2006.05.003
+   Marchionini G, 1998, INFORM PROCESS MANAG, V34, P535, DOI 10.1016/S0306-4573(98)00020-X
+   McCloskey D. W., 2006, Journal of Organizational and End User Computing, V18, P47, DOI 10.4018/joeuc.2006070103
+   Nielsen J, 1994, 10 Usability Heuristics for User Interface Design. Em
+   Nikov A, 2006, USABILITY EVALUATION
+   Nunnally J. C., 1978, PSYCHOMETRIC THEORY
+   Oztekin A, 2010, INT J IND ERGONOM, V40, P455, DOI 10.1016/j.ergon.2010.04.001
+   Oztekin A, 2009, J SYST SOFTWARE, V82, P2038, DOI 10.1016/j.jss.2009.06.047
+   Pan SY, 2010, COMPUT HUM BEHAV, V26, P1111, DOI 10.1016/j.chb.2010.03.015
+   Ramayah T., 2006, INFORM DEV, V22, P123, DOI DOI 10.1177/0266666906065575
+   Rauniar R, 2014, J ENTERP INF MANAG, V27, P6, DOI 10.1108/JEIM-04-2012-0011
+   Renaud K., 2008, South African Institute for Computer Scientists and Information Technologists Conference, P210, DOI DOI 10.1145/1456659.1456684
+   Schneiderman Ben., 1998, Designing the User Interface, VThird
+   Seeman TE, 1996, ANN EPIDEMIOL, V6, P442, DOI 10.1016/S1047-2797(96)00095-6
+   Seyal AH, 2002, BEHAV INFORM TECHNOL, V21, P71, DOI 10.1080/01449290210123354
+   Sharma S, 2005, J BUS RES, V58, P935, DOI 10.1016/j.jbusres.2003.10.007
+   Stevens N, 2001, AGEING SOC, V21, P183, DOI 10.1017/S0144686X01008108
+   Stone D., 2005, USER INTERFACE DESIG
+   Tan WS, 2009, INT J IND ERGONOM, V39, P621, DOI 10.1016/j.ergon.2008.02.012
+   Tang ZH, 2006, TELEMED J E-HEALTH, V12, P24, DOI 10.1089/tmj.2006.12.24
+   Tsai TH, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0156680
+   Venkatesh V, 2000, MANAGE SCI, V46, P186, DOI 10.1287/mnsc.46.2.186.11926
+   Wilkinson A, 2004, INT J NURS STUD, V41, P411, DOI 10.1016/j.ijnurstu.2003.11.001
+   Yang SC, 2011, AFR J BUS MANAGE, V5, P9014
+   Zhang JJ, 2003, J BIOMED INFORM, V36, P23, DOI 10.1016/S1532-0464(03)00060-1
+   Zickuhr K., 2012, OLDER ADULTS INTERNE
+NR 71
+TC 31
+Z9 33
+U1 3
+U2 59
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD AUG 24
+PY 2017
+VL 12
+IS 8
+AR e0180102
+DI 10.1371/journal.pone.0180102
+PG 23
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA FE7CK
+UT WOS:000408365000003
+PM 28837566
+OA Green Published, gold, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Sadeghipour, M
+   Khoshnevisan, MH
+   Jafari, A
+   Shariatpanahi, SP
+AF Sadeghipour, Maryam
+   Khoshnevisan, Mohammad Hossein
+   Jafari, Afshin
+   Shariatpanahi, Seyed Peyman
+TI Friendship Network and Dental Brushing Behavior among Middle School
+   Students: An Agent Based Modeling Approach
+SO PLOS ONE
+LA English
+DT Article
+ID QUALITY-OF-LIFE; SOCIAL NETWORK; ORAL-HEALTH; GENERAL HEALTH;
+   OLDER-ADULTS; DIFFUSION; SPREAD; MEDIA
+AB By using a standard questionnaire, the level of dental brushing frequency was assessed among 201 adolescent female middle school students in Tehran. The initial assessment was repeated after 5 months, in order to observe the dynamics in dental health behavior level. Logistic Regression model was used to evaluate the correlation among individuals' dental health behavior in their social network. A significant correlation on dental brushing habits was detected among groups of friends. This correlation was further spread over the network within the 5 months period. Moreover, it was identified that the average brushing level was improved within the 5 months period. Given that there was a significant correlation between social network's nodes' in-degree value, and brushing level, it was suggested that the observed improvement was partially due to more popularity of individuals with better tooth brushing habit. Agent Based Modeling (ABM) was used to demonstrate the dynamics of dental brushing frequency within a sample of friendship network. Two models with static and dynamic assumptions for the network structure were proposed. The model with dynamic network structure successfully described the dynamics of dental health behavior. Based on this model, on average, every 43 weeks a student changes her brushing habit due to learning from her friends. Finally, three training scenarios were tested by these models in order to evaluate their effectiveness. When training more popular students, considerable improvement in total students' brushing frequency was demonstrated by simulation results.
+C1 [Sadeghipour, Maryam; Khoshnevisan, Mohammad Hossein] Shahid Beheshti Univ Med Sci, Res Inst Dent Sci, Prevent Dent Res Ctr, Tehran, Iran.
+   [Sadeghipour, Maryam; Khoshnevisan, Mohammad Hossein] Shahid Beheshti Univ Med Sci, Community Oral Hlth Dept, Sch Dent, Tehran, Iran.
+   [Jafari, Afshin] Univ Tehran, Fac Management, Tehran, Iran.
+   [Shariatpanahi, Seyed Peyman] Univ Tehran, Inst Biochem & Biophys, Tehran, Iran.
+C3 Shahid Beheshti University Medical Sciences; Shahid Beheshti University
+   Medical Sciences; University of Tehran; University of Tehran
+RP Shariatpanahi, SP (corresponding author), Univ Tehran, Inst Biochem & Biophys, Tehran, Iran.
+EM pshariatpanahi@ut.ac.ir
+RI Jafari, Afshin/AAA-1782-2019; Khoshnevisan, Mohammad/X-1156-2019;
+   Shariatpanahi, Peyman/FDH-7542-2022
+OI Shariatpanahi, Peyman/0000-0002-7545-554X; Jafari,
+   Afshin/0000-0001-5153-2179; sadeghipour, maryam/0000-0003-1171-1484
+CR Adam C., 2010, International Conference on Principles and Practice of Multi-Agent Systems, P604
+   [Anonymous], 2012, SELF ORG PEDESTRIAN
+   Auchincloss AH, 2008, AM J EPIDEMIOL, V168, P1, DOI 10.1093/aje/kwn118
+   Baker SR, 2010, J DENT RES, V89, P1230, DOI 10.1177/0022034510376650
+   Berkman LF., 2000, SOCIAL EPIDEMIOLOGY, DOI DOI 10.1093/OSO/9780195083316.003.0007
+   Boccara N, 2008, INT J MOD PHYS C, V19, P93, DOI 10.1142/S0129183108011954
+   Bonabeau E, 2002, P NATL ACAD SCI USA, V99, P7280, DOI 10.1073/pnas.082080899
+   Bosse T, 2009, LECT NOTES ARTIF INT, V5925, P48, DOI 10.1007/978-3-642-11161-7_4
+   Carley KM, 2006, IEEE T SYST MAN CY A, V36, P252, DOI 10.1109/TSMCA.2005.851291
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   Christakis NA, 2013, STAT MED, V32, P556, DOI 10.1002/sim.5408
+   Cillessen AHN, 2005, CURR DIR PSYCHOL SCI, V14, P102, DOI 10.1111/j.0963-7214.2005.00343.x
+   Daly Elizabeth M., 2007, P 8 ACM INT S MOB HO
+   DODSON JA, 1978, MANAGE SCI, V24, P1568, DOI 10.1287/mnsc.24.15.1568
+   Doer B, 2012, COMMUN ACM, V55, P70, DOI 10.1145/2184319.2184338
+   El-Sayed Abdulrahman M, 2012, Epidemiol Perspect Innov, V9, P1, DOI 10.1186/1742-5573-9-1
+   ENNETT ST, 1993, J HEALTH SOC BEHAV, V34, P226, DOI 10.2307/2137204
+   Frias-Martinez E, 2011, PRIV SEC RISK TRUST
+   Gangel M, 2013, J REAL ESTATE FINANC, V46, P339, DOI 10.1007/s11146-011-9324-1
+   García EL, 2005, QUAL LIFE RES, V14, P511, DOI 10.1007/s11136-004-5329-z
+   Golub B., 2012, Annales d'Economie et de Statistique, VJuly 2012, P33, DOI DOI 10.2307/23646571
+   Gorman DM, 2006, AM J PUBLIC HEALTH, V96, P2055, DOI 10.2105/AJPH.2005.063289
+   Greenblatt M, 1982, AM J PSYCHIAT
+   Harris JK, 2013, AM J PUBLIC HEALTH, V103, P1700, DOI 10.2105/AJPH.2012.301166
+   Johnson N W, 2006, Adv Dent Res, V19, P118
+   Kanagarajah A.K., 2010, Unifying Themes in Complex Systems, P471
+   Kandelman D, 2008, SPEC CARE DENT, V28, P224, DOI 10.1111/j.1754-4505.2008.00045.x
+   Kay E, 1998, Community Dent Health, V15, P132
+   Khalil K. M., 2012, AGENT BASED MODELING, V33, P205, DOI DOI 10.1007/978-3-642-25755-111
+   Laskowski M, 2011, IEEE T INF TECHNOL B, V15, P877, DOI 10.1109/TITB.2011.2163414
+   McCarney R, 2007, BMC MED RES METHODOL, V7, DOI 10.1186/1471-2288-7-30
+   Metcalf SS, 2013, HEALTH EDUC BEHAV, V40, p63S, DOI 10.1177/1090198113493781
+   Moorhead SA, 2013, J MED INTERNET RES, V15, DOI 10.2196/jmir.1933
+   Mundt MP, 2012, BMC PEDIATR, V12, DOI 10.1186/1471-2431-12-115
+   Opsahl T, 2010, SOC NETWORKS, V32, P245, DOI 10.1016/j.socnet.2010.03.006
+   Orr MG, 2011, RES HUM DEV, V8, P48, DOI 10.1080/15427609.2011.549702
+   ORTHGOMER K, 1987, J CHRON DIS, V40, P949, DOI 10.1016/0021-9681(87)90145-7
+   Paula JS, 2012, HEALTH QUAL LIFE OUT, V10, DOI 10.1186/1477-7525-10-6
+   Perez L, 2009, INT J HEALTH GEOGR, V8, DOI 10.1186/1476-072X-8-50
+   Pinquart M, 2000, PSYCHOL AGING, V15, P187, DOI 10.1037//0882-7974.15.2.187
+   Reisine S T, 2001, J Dent Educ, V65, P1009
+   Robins G, 2009, SOC NETWORKS, V31, P105, DOI 10.1016/j.socnet.2008.10.006
+   Roudsari Maryam Sadeghipour, 2016, J Dent (Tehran), V13, P73
+   Sadeghipour M, 2016, JASSS-J ARTIF SOC S, V19, DOI 10.18564/jasss.3124
+   Sheiham A, 2005, B WORLD HEALTH ORGAN, V83, P644
+   Smith KP, 2008, ANNU REV SOCIOL, V34, P405, DOI 10.1146/annurev.soc.34.040507.134601
+   Strawbridge WJ, 2001, ANN BEHAV MED, V23, P68, DOI 10.1207/S15324796ABM2301_10
+   Valkenburg PM, 2006, CYBERPSYCHOL BEHAV, V9, P584, DOI 10.1089/cpb.2006.9.584
+   Wang J, 2010, GEOINF 2010 18 INT C
+NR 49
+TC 8
+Z9 9
+U1 0
+U2 10
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JAN 19
+PY 2017
+VL 12
+IS 1
+AR e0169236
+DI 10.1371/journal.pone.0169236
+PG 15
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA EI3HP
+UT WOS:000392381100010
+PM 28103260
+OA Green Submitted, Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Brady, WJ
+   Wills, JA
+   Jost, JT
+   Tucker, JA
+   Van Bavel, JJ
+AF Brady, William J.
+   Wills, Julian A.
+   Jost, John T.
+   Tucker, Joshua A.
+   Van Bavel, Jay J.
+TI Emotion shapes the diffusion of moralized content in social networks
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE morality; emotion; politics; social networks; social media
+ID DISGUST; ANGER
+AB Political debate concerning moralized issues is increasingly common in online social networks. However, moral psychology has yet to incorporate the study of social networks to investigate processes by which some moral ideas spread more rapidly or broadly than others. Here, we show that the expression of moral emotion is key for the spread of moral and political ideas in online social networks, a process we call "moral contagion." Using a large sample of social media communications about three polarizing moral/political issues (n = 563,312), we observed that the presence of moral-emotional words in messages increased their diffusion by a factor of 20% for each additional word. Furthermore, we found that moral contagion was bounded by group membership; moral-emotional language increased diffusion more strongly within liberal and conservative networks, and less between them. Our results highlight the importance of emotion in the social transmission of moral ideas and also demonstrate the utility of social network methods for studying morality. These findings offer insights into how people are exposed to moral and political ideas through social networks, thus expanding models of social influence and group polarization as people become increasingly immersed in social media networks.
+C1 [Brady, William J.; Wills, Julian A.; Jost, John T.; Van Bavel, Jay J.] NYU, Dept Psychol, 6 Washington Pl, New York, NY 10003 USA.
+   [Jost, John T.; Tucker, Joshua A.] NYU, Dept Polit, 550 1St Ave, New York, NY 10012 USA.
+   [Tucker, Joshua A.] NYU, Dept Russian & Slav Studies, 550 1St Ave, New York, NY 10012 USA.
+C3 New York University; New York University; New York University
+RP Van Bavel, JJ (corresponding author), NYU, Dept Psychol, 6 Washington Pl, New York, NY 10003 USA.
+EM jay.vanbavel@nyu.edu
+RI Jost, John/JBS-6965-2023; Brady, William/KCY-3415-2024
+OI Brady, William/0000-0001-6075-5446; Jost, John T./0000-0002-2844-4645
+FU Center for Social and Political Behavior at NYU; NSF [1349089,
+   SES-1248077, SES-1248077-001]; NYU's Global Institute for Advanced Study
+   (GIAS); Dean Thomas Carew's Research Investment Fund (RIF); Direct For
+   Social, Behav & Economic Scie; Divn Of Social and Economic Sciences
+   [1248077] Funding Source: National Science Foundation
+FX We are grateful for the extremely helpful feedback we received from
+   Stanley Feldman, James L. Gibson, Leonie Huddy, Kevin Lanning, George
+   Marcus, Diana Mutz, Russell Neuman, and others. We are also grateful to
+   members of the NYU Social Perception and Evaluation Lab (@vanbavellab)
+   for their comments and suggestions. We also thank Yvan Scher, Jonathen
+   Ronen, and Dominic Burkart for aid in data collection and programming.
+   The data were collected by the NYU Social Media and Political
+   Participation Laboratory (https://wp.nyu.edu/smapp/), where J.T.J. and
+   J.A.T. are principal investigators along with Richard Bonneau and
+   Jonathan Nagler. This research was presented by W.J.B. at the 2016
+   Society for Personality and Social Psychology Annual Convention and by
+   W.J.B., J.T.J., and J.V.B. at the Fall 2016 Meeting of the New York Area
+   Political Psychology (NYAPP) group, which was sponsored by the Center
+   for Social and Political Behavior at NYU. This research was supported by
+   grants from the NSF (Awards 1349089, SES-1248077, and SES-1248077-001)
+   as well as NYU's Global Institute for Advanced Study (GIAS) and Dean
+   Thomas Carew's Research Investment Fund (RIF).
+CR [Anonymous], 2010, ICWSM 10.1. 01804
+   Bakshy E., 2012, P 21 INT C WORLD WID, P519, DOI DOI 10.1145/2187836.2187907
+   Barberá P, 2015, PSYCHOL SCI, V26, P1531, DOI 10.1177/0956797615594620
+   Berger J, 2012, J MARKETING RES, V49, P192, DOI 10.1509/jmr.10.0353
+   Boutyline A, 2017, POLIT PSYCHOL, V38, P551, DOI 10.1111/pops.12337
+   Bratslavsky, 2001, REV GEN PSYCHOL, V5, P323, DOI [10.1037/1089-2680.5.4.323, DOI 10.1037/1089-2680.5.4.323]
+   Christakis NA, 2009, Connected: The Surprising Power of Our Social Networks and How They Shape Our Lives
+   Colleoni E, 2014, J COMMUN, V64, P317, DOI 10.1111/jcom.12084
+   Conover M.D., 2011, P INT AAAI C WEB SOC, P89
+   de Zúñiga HG, 2012, J COMPUT-MEDIAT COMM, V17, P319, DOI 10.1111/j.1083-6101.2012.01574.x
+   Ellsworth PC, 2003, SER AFFECTIVE SCI, P572
+   Fowler JH, 2008, BMJ-BRIT MED J, V337, DOI 10.1136/bmj.a2338
+   Giner-Sorolla R, 2017, PSYCHOL SCI, V28, P80, DOI 10.1177/0956797616673193
+   Giner-Sorolla R, 2011, PSYCHOL SCI, V22, P49, DOI 10.1177/0956797610392925
+   Graham J, 2009, J PERS SOC PSYCHOL, V96, P1029, DOI 10.1037/a0015141
+   Haidt J, 2001, PSYCHOL REV, V108, P814, DOI 10.1037//0033-295X.108.4.814
+   Haidt J., 2003, HDB AFFECTIVE SCI, P572
+   Hardin JW, 2005, ENCY STAT BEHAV SCI, P404
+   Hatfield Elaine., 1992, EMOTION SOCIAL BEHAV
+   Heath C, 2001, J PERS SOC PSYCHOL, V81, P1028, DOI 10.1037//0022-3514.81.6.1028
+   Hess U, 2013, PERS SOC PSYCHOL REV, V17, P142, DOI 10.1177/1088868312472607
+   Hilbe J.M., 2011, Public Administration Review, V70, P1
+   Hofmann W, 2014, SCIENCE, V345, P1340, DOI 10.1126/science.1251560
+   Hogg M.A., 2006, CONT SOCIAL PSYCHOL, P111, DOI 10.1515/9780804768047-008
+   Horberg EJ, 2011, EMOT REV, V3, P237, DOI 10.1177/1754073911402384
+   Hutcherson CA, 2011, J PERS SOC PSYCHOL, V100, P719, DOI 10.1037/a0022408
+   Inbar Y, 2012, SOC PSYCHOL PERS SCI, V3, P537, DOI 10.1177/1948550611429024
+   Kohlberg L, 1969, HDB SOCIALIZATION TH, P347, DOI DOI 10.12691/EDUCATION-3-9-16
+   Kramer ADI, 2014, P NATL ACAD SCI USA, V111, P8788, DOI 10.1073/pnas.1320040111
+   Newton C., 2016, THE VERGE
+   Rozin P, 1999, J PERS SOC PSYCHOL, V76, P574, DOI 10.1037/0022-3514.76.4.574
+   Salerno JM, 2013, PSYCHOL SCI, V24, P2069, DOI 10.1177/0956797613486988
+   Schillings S., 2016, Preparedness to Slow-Onset Emergencies: An investigation into local preparedness for drought in Lesotho pp, P1
+   Statista, 2017, PEN LEAD SOC NETW IN
+   Stieglitz S., 2012, 2012 45th Hawaii International Conference on System Sciences (HICSS), P3500, DOI 10.1109/HICSS.2012.476
+   Tausczik YR, 2010, J LANG SOC PSYCHOL, V29, P24, DOI 10.1177/0261927X09351676
+   Van Bavel JJ, 2015, CURR OPIN PSYCHOL, V6, P167, DOI 10.1016/j.copsyc.2015.08.009
+   Van Bavel JJ, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0048693
+   Wheatley T, 2005, PSYCHOL SCI, V16, P780, DOI 10.1111/j.1467-9280.2005.01614.x
+NR 39
+TC 510
+Z9 607
+U1 33
+U2 375
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD JUL 11
+PY 2017
+VL 114
+IS 28
+BP 7313
+EP 7318
+DI 10.1073/pnas.1618923114
+PG 6
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA FA1CR
+UT WOS:000405177100063
+PM 28652356
+OA Green Published, Bronze
+HC Y
+HP N
+DA 2024-11-22
+ER
+
+PT J
+AU Palacios-Marqués, D
+   Roig-Dobón, S
+   Comeig, I
+AF Palacios-Marques, Daniel
+   Roig-Dobon, Salvador
+   Comeig, Irene
+TI Background factors to innovation performance: results of an empirical
+   study using fsQCA methodology
+SO QUALITY & QUANTITY
+LA English
+DT Article
+DE Social networks; Firm performance; Measurement scale; Hotel; FSQCA
+ID ONLINE COMMUNITIES; SOCIAL NETWORKING; ORIENTATION; SITES; FIRMS
+AB On the one hand, we have analyzed the relationships between four key constructs: entrepreneurial orientation, online social networks, organizational learning capability and innovation performance. On the other hand, we have observed the importance of correctly using and justifying the calibration in fsQCA given that the obtained results may differ. We developed an empirical study with 209 four-star and five-star Spanish hotels. Using the fsQCA methodology, the results show that in order to obtain innovative results, hotels should combine Entrepreneurial Orientation and online Social Networks along with organizational learning capability.
+C1 [Palacios-Marques, Daniel] Univ Politecn Valencia, Dept Business Adm, Valencia, Spain.
+   [Roig-Dobon, Salvador] Univ Valencia Spain, Dept Business Adm, Avda Tarongers S-N, Valencia 46022, Spain.
+   [Comeig, Irene] Univ Valencia Spain, Dept Corp Finance & ERICES, Avda Tarongers S-N, Valencia 46022, Spain.
+C3 Universitat Politecnica de Valencia; University of Valencia; University
+   of Valencia
+RP Palacios-Marqués, D (corresponding author), Univ Politecn Valencia, Dept Business Adm, Valencia, Spain.
+EM dapamar@doe.upv.es; salvador.roig@uv.es; irene.comeig@uv.es
+RI Comeig, Irene/I-3473-2019; Roig-Dobon, Salvador/H-1883-2019
+OI Roig-Dobon, Salvador/0000-0003-1908-4921; Comeig,
+   Irene/0000-0002-0497-0907
+CR Akehurst G, 2009, SERV BUS, V3, P51, DOI 10.1007/s11628-008-0054-2
+   Aljuwaiber A, 2016, J KNOWL MANAG, V20, P731, DOI 10.1108/JKM-12-2015-0494
+   Anand A, 2016, J KNOWL MANAG, V20, P713, DOI 10.1108/JKM-10-2015-0401
+   [Anonymous], AC MAN C NEW ORL
+   [Anonymous], J COMPUT COMMUN
+   [Anonymous], P AM C INF SYST BOS
+   [Anonymous], ACAD MANAGEMENT P
+   [Anonymous], 2004, P 37 HAW INT C SYST
+   [Anonymous], OSL MAN
+   [Anonymous], 2006 ANN M AM POL SC
+   [Anonymous], 2012, CAMB CORE
+   [Anonymous], 1978, PSYCHOMTIETRIC THEOR
+   BANDURA A, 1991, ORGAN BEHAV HUM DEC, V50, P248, DOI 10.1016/0749-5978(91)90022-L
+   Beynon MJ, 2016, J BUS RES, V69, P1271, DOI 10.1016/j.jbusres.2015.10.091
+   Boyd DM, 2007, J COMPUT-MEDIAT COMM, V13, P210, DOI 10.1111/j.1083-6101.2007.00393.x
+   Brown J, 2007, J INTERACT MARK, V21, P2, DOI 10.1002/dir.20082
+   CADOGANA JohnW., 1995, Jounal of Strategic Marketing, V3, P41, DOI [https://doi.org/10.1080/09652549500000003, DOI 10.1080/09652549500000003]
+   Chiva R, 2009, BRIT J MANAGE, V20, P323, DOI 10.1111/j.1467-8551.2008.00586.x
+   Chu KM, 2009, INTERNET RES, V19, P279, DOI 10.1108/10662240910965351
+   CHURCHILL GA, 1979, J MARKETING RES, V16, P64, DOI 10.2307/3150876
+   COVIN JG, 1989, STRATEGIC MANAGE J, V10, P75, DOI 10.1002/smj.4250100107
+   Crilly D, 2012, ACAD MANAGE J, V55, P1429, DOI 10.5465/amj.2010.0697
+   Daft R.L., 1998, Organization Theory and Design, Vsixth
+   DeVellis R.F., 2017, SCALE DEV
+   Dul J, 2016, J BUS RES, V69, P1516, DOI 10.1016/j.jbusres.2015.10.134
+   Dunne A, 2010, J RES INTERACT MARK, V4, P46, DOI 10.1108/17505931011033551
+   Escribá-Esteve A, 2008, INT SMALL BUS J, V26, P463, DOI 10.1177/0266242608091174
+   Feurer S, 2016, INT MARKET REV, V33, P351, DOI 10.1108/IMR-03-2014-0075
+   Finholt T, 1990, ORGAN SCI, V1, P41, DOI 10.1287/orsc.1.1.41
+   Finin T, 2005, LEARN ORGAN, V12, P418, DOI 10.1108/09696470510611384
+   Fiss PC, 2011, ACAD MANAGE J, V54, P393, DOI 10.5465/AMJ.2011.60263120
+   Hall H, 2004, INT J INFORM MANAGE, V24, P235, DOI 10.1016/j.ijinfomgt.2004.02.004
+   Hansen MT, 2005, ACAD MANAGE J, V48, P776, DOI 10.2307/20159697
+   Hutchins E., 1990, Intellectual teamwork: Social and technological foundations of cooperative work
+   Jiménez-Zarco AI, 2011, SERV BUS, V5, P339, DOI 10.1007/s11628-011-0118-6
+   KOHLI AK, 1990, J MARKETING, V54, P1, DOI 10.2307/1251866
+   Lee SM, 2010, SERV BUS, V4, P89, DOI 10.1007/s11628-010-0093-3
+   Legewie N., 2013, FORUM QUAL SOC RES, V14, P15, DOI [10.17169/fqs-14.3.1961, DOI 10.17169/FQS-14.3.1961]
+   Lin HF, 2006, BEHAV INFORM TECHNOL, V25, P479, DOI 10.1080/01449290500330422
+   Nardi BA, 2004, COMMUN ACM, V47, P41, DOI 10.1145/1035134.1035163
+   Nelson M, 2006, PUBLISH RES Q, V22, P3, DOI 10.1007/s12109-006-0012-6
+   Pickering J. M., 1992, CSCW '92. Sharing Perspectives. Proceedings of the Conference on Computer-Supported Cooperative Work, P356, DOI 10.1145/143457.143547
+   Raban DR, 2007, COMPUT HUM BEHAV, V23, P2367, DOI 10.1016/j.chb.2006.03.013
+   Ragin C. C., 2008, REDESIGNING SOCIAL I, V240
+   Ragin C.Davey., 2014, FS/QCA [computer programme]
+   Rheingold H., 1993, VIRTUAL COMMUNITY HO
+   Ruiz-Molina ME, 2011, SERV BUS, V5, P1, DOI 10.1007/s11628-010-0098-y
+   Schneider MR, 2010, J INT BUS STUD, V41, P246, DOI 10.1057/jibs.2009.36
+   Sparks BA, 2011, TOURISM MANAGE, V32, P1310, DOI 10.1016/j.tourman.2010.12.011
+   Taylor-Greene S.J., 1997, J BEHAV EDUC, V7, P99, DOI DOI 10.1023/A:1022849722465
+   Wellman B, 1996, ANNU REV SOCIOL, V22, P213, DOI 10.1146/annurev.soc.22.1.213
+   Woodside AG, 2012, J GLOB SCHOLARS MARK, V22, P277, DOI 10.1080/21639159.2012.717369
+   Woodside AG, 2015, PSYCHOL MARKET, V32, P65, DOI 10.1002/mar.20763
+NR 53
+TC 32
+Z9 34
+U1 31
+U2 200
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0033-5177
+EI 1573-7845
+J9 QUAL QUANT
+JI Qual. Quant.
+PD SEP
+PY 2017
+VL 51
+IS 5
+SI SI
+BP 1939
+EP 1953
+DI 10.1007/s11135-016-0414-2
+PG 15
+WC Social Sciences, Interdisciplinary; Statistics & Probability
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics; Mathematics
+GA FD9QD
+UT WOS:000407856300003
+DA 2024-11-22
+ER
+
+PT J
+AU Chami, GF
+   Ahnert, SE
+   Kabatereine, NB
+   Tukahebwa, EM
+AF Chami, Goylette F.
+   Ahnert, Sebastian E.
+   Kabatereine, Narcis B.
+   Tukahebwa, Edridah M.
+TI Social network fragmentation and community health
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE community health; social networks; percolation; immunization; mass drug
+   administration
+ID COMPLEX NETWORKS
+AB Community health interventions often seek to intentionally destroy paths between individuals to prevent the spread of infectious diseases. Immunizing individuals through direct vaccination or the provision of health education prevents pathogen transmission and the propagation of misinformation concerning medical treatments. However, it remains an open question whether network-based strategies should be used in place of conventional field approaches to target individuals for medical treatment in low-income countries. We collected complete friendship and health advice networks in 17 rural villages of Mayuge District, Uganda. Here we show that acquaintance algorithms, i.e., selecting neighbors of randomly selected nodes, were systematically more efficient in fragmenting all networks than targeting well-established community roles, i.e., health workers, village government members, and schoolteachers. Additionally, community roles were not good proxy indicators of physical proximity to other households or connections to many sick people. We also show that acquaintance algorithms were effective in offsetting potential noncompliance with deworming treatments for 16,357 individuals during mass drug administration (MDA). Health advice networks were destroyed more easily than friendship networks. Only an average of 32% of nodes were removed from health advice networks to reduce the percentage of nodes at risk for refusing treatment in MDA to below 25%. Treatment compliance of at least 75% is needed in MDA to control human morbidity attributable to parasitic worms and progress toward elimination. Our findings point toward the potential use of network-based approaches as an alternative to role-based strategies for targeting individuals in rural health interventions.
+C1 [Chami, Goylette F.] Univ Cambridge, Dept Land Econ, Cambridge CB3 9EP, England.
+   [Chami, Goylette F.] Univ Cambridge, Dept Pathol, Cambridge CB2 1QP, England.
+   [Ahnert, Sebastian E.] Univ Cambridge, Cavendish Lab, Theory Condensed Matter, Cambridge CB3 0HE, England.
+   [Ahnert, Sebastian E.] Univ Cambridge, Sainsbury Lab, Cambridge CB2 1LR, England.
+   [Kabatereine, Narcis B.] Imperial Coll London, Schistosomiasis Control Initiat, London W2 1PG, England.
+   [Tukahebwa, Edridah M.] Uganda Minist Hlth, Vector Control Div, Bilharzia & Worm Control Programme, Kampala, Uganda.
+C3 University of Cambridge; University of Cambridge; University of
+   Cambridge; University of Cambridge; Imperial College London
+RP Chami, GF (corresponding author), Univ Cambridge, Dept Land Econ, Cambridge CB3 9EP, England.; Chami, GF (corresponding author), Univ Cambridge, Dept Pathol, Cambridge CB2 1QP, England.
+EM gjc36@cam.ac.uk
+OI Chami, Goylette F./0000-0002-4653-0846
+FU University of Cambridge; Schistosomiasis Control Initiative; Wellcome
+   Trust Programme [083931/Z/07/Z]; Netherlands Organization for Scientific
+   Research [452-04-333]; Isaac Newton Trust; King's College, Cambridge
+FX Profs. Alan Fenwick, Andreas A. Kontoleon, David W. Dunne, and Erwin
+   Bulte were instrumental to the setup of the field project. We appreciate
+   the involvement of the study villages in Mayuge District and field teams
+   from the Vector Control Division in Uganda. This study was financially
+   supported by the Vice Chancellor's Fund of the University of Cambridge,
+   the Schistosomiasis Control Initiative, the Wellcome Trust Programme
+   Grant 083931/Z/07/Z, the Netherlands Organization for Scientific
+   Research Grant 452-04-333, and the Isaac Newton Trust and King's
+   College, Cambridge Fellowships to G.F.C.
+CR Albert R, 2000, NATURE, V406, P378, DOI 10.1038/35019019
+   Amazigo UV, 2012, TRENDS PARASITOL, V28, P231, DOI 10.1016/j.pt.2012.03.002
+   [Anonymous], 2012, ACC WORK OV GLOB IMP
+   [Anonymous], 2006, COMPUT MATH ORG THEO
+   Banerjee A, 2014, GOSSIP IDENTIFYING C, P1
+   Banerjee A, 2013, SCIENCE, V341, P363, DOI 10.1126/science.1236498
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Bwire G, 2017, PLOS NEGLECT TROP D, V11, DOI [10.1371/journal.pntd.0005407, 10.1371/journal.pntd.0006118]
+   Carmi S, 2007, P NATL ACAD SCI USA, V104, P11150, DOI 10.1073/pnas.0701175104
+   Chami GF, 2016, CLIN INFECT DIS, V62, P200, DOI 10.1093/cid/civ829
+   Chen YP, 2007, PHYS REV E, V75, DOI 10.1103/PhysRevE.75.046107
+   Cohen R, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.247901
+   Dezso Z, 2002, PHYS REV E, V65, DOI 10.1103/PhysRevE.65.055103
+   Emukah EC, 2008, ANN TROP MED PARASIT, V102, P45, DOI 10.1179/136485908X252241
+   FELD SL, 1991, AM J SOCIOL, V96, P1464, DOI 10.1086/229693
+   Fenwick A, 2009, PARASITOLOGY, V136, P1719, DOI 10.1017/S0031182009990400
+   Fornito A, 2015, NAT REV NEUROSCI, V16, P159, DOI 10.1038/nrn3901
+   Gallos LK, 2007, PHYS REV E, V75, DOI 10.1103/PhysRevE.75.045104
+   Girvan M, 2002, P NATL ACAD SCI USA, V99, P7821, DOI 10.1073/pnas.122653799
+   Hagberg A.A., 2008, EXPLORING NETWORK ST, P11, DOI DOI 10.1016/J.JELECTROCARD.2010.09.003
+   Holme P, 2004, EUROPHYS LETT, V68, P908, DOI 10.1209/epl/i2004-10286-2
+   Holme Petter, 2002, Phys Rev E Stat Nonlin Soft Matter Phys, V65, P066109
+   Kitsak M, 2010, NAT PHYS, V6, P888, DOI [10.1038/NPHYS1746, 10.1038/nphys1746]
+   Kossinets G, 2006, SOC NETWORKS, V28, P247, DOI 10.1016/j.socnet.2005.07.002
+   Krentel A, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002447
+   Lo NC, 2015, LANCET GLOB HEALTH, V3, pE629, DOI 10.1016/S2214-109X(15)00047-9
+   Louzada VHP, 2013, J COMPLEX NETW, V1, P150, DOI 10.1093/comnet/cnt010
+   Maslov S, 2004, PHYSICA A, V333, P529, DOI 10.1016/j.physa.2003.06.002
+   Montoya JM, 2006, NATURE, V442, P259, DOI 10.1038/nature04927
+   Morone F, 2015, NATURE, V524, P65, DOI 10.1038/nature14604
+   Pastor-Satorras R, 2002, PHYS REV E, V65, DOI 10.1103/PhysRevE.65.036104
+   Pastor-Satorras R, 2001, PHYS REV LETT, V86, P3200, DOI 10.1103/PhysRevLett.86.3200
+   Scarpino SV, 2016, NAT PHYS, V12, P1042, DOI [10.1038/nphys3832, 10.1038/NPHYS3832]
+   Schneider CM, 2011, P NATL ACAD SCI USA, V108, P3838, DOI 10.1073/pnas.1009440108
+   Shuford KV, 2016, PARASITE VECTOR, V9, DOI 10.1186/s13071-016-1311-1
+   Valente TW, 1999, ANN AM ACAD POLIT SS, V566, P55, DOI 10.1177/0002716299566001005
+   Webster JP, 2014, PHILOS T R SOC B, V369, DOI 10.1098/rstb.2013.0434
+NR 37
+TC 35
+Z9 41
+U1 1
+U2 31
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD SEP 5
+PY 2017
+VL 114
+IS 36
+BP E7425
+EP E7431
+DI 10.1073/pnas.1700166114
+PG 7
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA FF7FP
+UT WOS:000409182200003
+PM 28739906
+OA Bronze, Green Published, Green Submitted
+DA 2024-11-22
+ER

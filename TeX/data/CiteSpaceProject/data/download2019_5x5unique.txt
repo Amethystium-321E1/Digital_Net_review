@@ -1,0 +1,612 @@
+
+PT J
+AU Tasic, J
+   Tantri, F
+   Amir, S
+AF Tasic, Justyna
+   Tantri, Fredy
+   Amir, Sulfikar
+TI Modelling Multilevel Interdependencies for Resilience in Complex
+   Organisation
+SO COMPLEXITY
+LA English
+DT Article
+ID INFORMAL NETWORKS; EMERGENCE; TRUST; PERSPECTIVE; GOVERNANCE; ALLIANCES;
+   RISK; TASK; VIEW; TIES
+AB This paper aims to model multilevel interdependencies in complex organisational systems and proposes application for resilience analysis. Most of the existing research studied interdependencies only at the single-level and overlooked their multilevel character. In response to this gap, we propose a multilevel approach to better comprehend the complexity of interdependencies in organisational systems. More specifically, the study focuses on how interdependencies are shaped across multiple organisational levels. To understand the research problem, we use multilevel and social network theories to elaborate the concept at five organisational levels, namely, individual, intraunit, interunit, intraorganisational, and interorganisational. Further, we show the application of multilevel interdependencies into analysis of organisational resilience. To this end, we construct a multiplex model of a real world organisational system that comprises formal and informal relations of different social exchange strength. Using the agent-based simulations of the organisational system, we investigate the relations between organisational interdependencies and organisational performance in normal and disrupted conditions. With the results, we argue that managing multilevel interdependencies is crucial to reduce vulnerability of organisational systems. By introducing the multilevel conceptualisation of interdependencies and presenting their influence on organisational resilience, we hope to pave a path to managing the complexity of interdependencies and strategic resilience enhancement in organisational systems.
+C1 [Tasic, Justyna; Tantri, Fredy] Nanyang Technol Univ, Interdisciplinary Grad Sch, Singapore, Singapore.
+   [Tasic, Justyna; Tantri, Fredy] Nanyang Technol Univ, Inst Catastrophe Risk Management, Singapore, Singapore.
+   [Tasic, Justyna; Tantri, Fredy; Amir, Sulfikar] Singapore ETH Ctr, Future Resilient Syst, Singapore, Singapore.
+   [Amir, Sulfikar] Nanyang Technol Univ, Sch Social Sci, Singapore, Singapore.
+C3 Nanyang Technological University; Nanyang Technological University;
+   Nanyang Technological University
+RP Amir, S (corresponding author), Singapore ETH Ctr, Future Resilient Syst, Singapore, Singapore.; Amir, S (corresponding author), Nanyang Technol Univ, Sch Social Sci, Singapore, Singapore.
+EM sulfikar@ntu.edu.sg
+OI Amir, Sulfikar/0000-0002-1788-1989; Tasic, Justyna/0000-0002-2710-4323;
+   Tantri, Fredy/0000-0003-4993-0535
+FU Singapore's National Research Foundation [FI 370074011]
+FX The research was conducted at the Future Resilient Systems at the
+   Singapore-ETH Centre, which was established collaboratively between ETH
+   Zurich and Singapore's National Research Foundation (FI 370074011) under
+   its Campus for Research Excellence and Technological Enterprise
+   programme.
+CR Adger WN, 2000, PROG HUM GEOG, V24, P347, DOI 10.1191/030913200701540465
+   AIKEN M, 1968, AM SOCIOL REV, V33, P912, DOI 10.2307/2092683
+   Alter C., 1993, ORG WORKING TOGETHER, V15
+   Amir S, 2018, RISK ANAL, V38, P8, DOI 10.1111/risa.12816
+   [Anonymous], Zooming in and out, DOI DOI 10.4135/9781849209915
+   Barringer BR, 2000, J MANAGE, V26, P367, DOI 10.1177/014920630002600301
+   BERTALANFFY L.v., 1969, General System Theory. Foundations, Development, Applications, V3rd
+   Bhamra R, 2011, INT J PROD RES, V49, P5375, DOI 10.1080/00207543.2011.563826
+   Boin A, 2013, PUBLIC MANAG REV, V15, P429, DOI 10.1080/14719037.2013.769856
+   Borgatti SP, 2003, J MANAGE, V29, P991, DOI 10.1016/S0149-2063(03)00087-4
+   Borgatti SP, 2009, SCIENCE, V323, P892, DOI 10.1126/science.1165821
+   Brass DJ, 2004, ACAD MANAGE J, V47, P795, DOI 10.5465/20159624
+   BRASS DJ, 1984, ADMIN SCI QUART, V29, P518, DOI 10.2307/2392937
+   Burnard K, 2011, INT J PROD RES, V49, P5581, DOI 10.1080/00207543.2011.563827
+   Burt R.S., 1982, Social Structure and Network Analysis, P219
+   Cohen B.P., 1987, INTERDEPENDENCE INTE
+   Coleman J.S., 1994, FDN SOCIAL THEORY
+   COMFORT LK., 2001, Journal of contingencies and crisis management, V9, P144, DOI DOI 10.1111/1468-5973.00164
+   Cowan G.A., 1994, Complexity: Metaphors, Models and Reality
+   Cross R. L., 2004, HIDDEN POWER SOCIAL, DOI [10.5860/CHOICE.42-0398, DOI 10.5860/CHOICE.42-0398, 10.5860/choice.42-0398]
+   de Montjoye YA, 2014, SCI REP-UK, V4, DOI 10.1038/srep05277
+   Dekker HC, 2004, ACCOUNT ORG SOC, V29, P27, DOI 10.1016/S0361-3682(02)00056-9
+   Dooley K.J., 1997, NONLINEAR DYNAMICS P, V1, P69, DOI [DOI 10.1023/A:1022375910940, 10.1023/a:1022375910940]
+   Ferriani S, 2013, STRATEG ORGAN, V11, P7, DOI 10.1177/1476127012461576
+   Flach JM, 2015, ERGONOMICS, V58, P615, DOI 10.1080/00140139.2015.1015621
+   Folke C, 2006, GLOBAL ENVIRON CHANG, V16, P253, DOI 10.1016/j.gloenvcha.2006.04.002
+   Folke C, 2010, ECOL SOC, V15
+   Gallopin GC, 2006, GLOBAL ENVIRON CHANG, V16, P293, DOI 10.1016/j.gloenvcha.2006.02.004
+   GRANOVETTER M, 1992, NETWORKS AND ORGANIZATIONS : STRUCTURE, FORM, AND ACTION, P25
+   GRANOVETTER M, 1985, AM J SOCIOL, V91, P481, DOI 10.1086/228311
+   Griffin MA, 1997, J MANAGE, V23, P759, DOI 10.1016/S0149-2063(97)90028-3
+   Gulati R, 1995, ADMIN SCI QUART, V40, P619, DOI 10.2307/2393756
+   GULATI R, 1995, ACAD MANAGE J, V38, P85, DOI 10.5465/256729
+   Gulati R, 1998, STRATEGIC MANAGE J, V19, P293, DOI 10.1002/(SICI)1097-0266(199804)19:4<293::AID-SMJ982>3.0.CO;2-M
+   Hamel G, 2003, HARVARD BUS REV, V81, P52
+   HARARY F, 1981, SOC NETWORKS, V3, P29, DOI 10.1016/0378-8733(81)90003-4
+   Haythornthwaite C., 1996, LIB INFORM SCI RES, V18, P323, DOI [10.1016/S0740-8188(96)90003-1, DOI 10.1016/S0740-8188(96)90003-1]
+   Heinimann HR, 2017, NATO SCI PEACE SECUR, P147, DOI 10.1007/978-94-024-1123-2_5
+   Hitt MA, 2007, ACAD MANAGE J, V50, P1385, DOI 10.5465/AMJ.2007.28166219
+   Hollnagel E., 2018, Safety-II in practice
+   Hollnagel E., 2006, Resilience Engineering: Concepts and Precepts
+   HOLM S, 1979, SCAND J STAT, V6, P65
+   House R., 1995, RES ORG BEHAV
+   Jones C, 1997, ACAD MANAGE REV, V22, P911, DOI 10.5465/AMR.1997.9711022109
+   Kant V., 2018, SOCIOTECHNICAL CONST, P67
+   Kapucu N, 2006, AM REV PUBLIC ADM, V36, P207, DOI 10.1177/0275074005280605
+   Katz D., 1978, CLASSICS ORG THEORY, P161
+   Kilduff M., 2008, INTERPERSONAL NETWOR
+   Klibi W, 2010, EUR J OPER RES, V203, P283, DOI 10.1016/j.ejor.2009.06.011
+   Kogut B, 2000, STRATEGIC MANAGE J, V21, P405, DOI 10.1002/(SICI)1097-0266(200003)21:3<405::AID-SMJ103>3.0.CO;2-5
+   Kozlowski S. W., 2000, MULTILEVEL APPROACH, DOI DOI 10.1177/001872679504800703
+   KRACKHARDT D, 1988, SOC PSYCHOL QUART, V51, P123, DOI 10.2307/2786835
+   KRACKHARDT D, 1993, HARVARD BUS REV, V71, P104
+   La Porte T.R., 1996, Journal Of Contingencies Crisis Management, V4, P60, DOI DOI 10.1111/J.1468-5973.1996.TB00078.X
+   La Porte T. R., 1975, ORG SOCIAL COMPLEXIT, V71
+   Lazega E., 2016, MULTILEVEL NETWORK A, V12
+   Leveson N, 2004, SAFETY SCI, V42, P237, DOI 10.1016/S0925-7535(03)00047-X
+   Liden RC, 1997, HUM RELAT, V50, P169, DOI 10.1177/001872679705000204
+   Linnenluecke MK, 2017, INT J MANAG REV, V19, P4, DOI 10.1111/ijmr.12076
+   Luo JD, 2015, AM BEHAV SCI, V59, P1024, DOI 10.1177/0002764215580612
+   Luo JD, 2011, MANAGE ORGAN REV, V7, P329, DOI 10.1111/j.1740-8784.2011.00230.x
+   Mehra A, 2001, ADMIN SCI QUART, V46, P121, DOI 10.2307/2667127
+   MEYER AD, 1993, ACAD MANAGE J, V36, P1175, DOI 10.5465/256809
+   Milch V, 2016, SAFETY SCI, V82, P9, DOI 10.1016/j.ssci.2015.08.010
+   Miller J.G., 1978, LIVING SYSTEMS
+   Moliterno TP, 2011, J MANAGE, V37, P443, DOI 10.1177/0149206310371692
+   Morgeson FP, 1999, ACAD MANAGE REV, V24, P249, DOI 10.2307/259081
+   Nicosia V, 2015, PHYS REV E, V92, DOI 10.1103/PhysRevE.92.032805
+   Oh HS, 2004, ACAD MANAGE J, V47, P860, DOI 10.5465/20159627
+   Ong AD, 2006, J PERS SOC PSYCHOL, V91, P730, DOI 10.1037/0022-3514.91.4.730
+   Ostrom E, 2003, RUSSELL SAGE TRUST, V6, P19
+   Paton D., 2017, Disaster resilience: an integrated approach
+   Poppo L, 2002, STRATEGIC MANAGE J, V23, P707, DOI 10.1002/smj.249
+   Provan KG, 2007, J MANAGE, V33, P479, DOI 10.1177/0149206307302554
+   Rijpma J.A., 1997, J CONTING CRISIS MAN, V5, P15, DOI DOI 10.1111/1468-5973.00033
+   Riolli L, 2003, OMEGA-INT J MANAGE S, V31, P227, DOI 10.1016/S0305-0483(03)00023-9
+   Roberts K., 1989, IND CRISIS Q, V3, P111, DOI [10.1177/108602668900300202, DOI 10.1177/108602668900300202]
+   Rochlin G.I., 1989, Organization Environment, V3, P159, DOI DOI 10.1177/108602668900300205
+   Rousseau D., 1985, Research in Organizational Behavior 7, P1
+   Rousseau DM, 1998, ACAD MANAGE REV, V23, P393, DOI 10.5465/AMR.1998.926617
+   Sheffi Y, 2005, MIT SLOAN MANAGE REV, V47, P41
+   Shipilov A, 2012, STRATEG ORGAN, V10, P215, DOI 10.1177/1476127012452825
+   Shipilov AV, 2009, ORGAN SCI, V20, P85, DOI 10.1287/orsc.1080.0365
+   Simon H A., 1973, Hierarchy Theory
+   Soda G, 2012, STRATEGIC MANAGE J, V33, P751, DOI 10.1002/smj.1966
+   Sola L., 2013, J NONLINEAR SCI, V23, P33131, DOI DOI 10.1063/1.4818544
+   Sutcliffe K.M., 2003, POSITIVE ORG SCHOLAR
+   Sutherland J, 2002, COMMUN ACM, V45, P59, DOI 10.1145/570907.570932
+   Tasic J, 2016, DISASTER PREV MANAG, V25, P395, DOI 10.1108/DPM-07-2015-0163
+   Thompson JD., 1967, ORG ACTION SOCIAL SC
+   Tjosvold D, 1998, SMALL GR RES, V29, P560, DOI 10.1177/1046496498295002
+   Tomkins C, 2001, ACCOUNT ORG SOC, V26, P161, DOI 10.1016/S0361-3682(00)00018-0
+   Umphress EE, 2003, ORGAN SCI, V14, P738, DOI 10.1287/orsc.14.6.738.24865
+   van der Vegt G, 1998, GROUP ORGAN MANAGE, V23, P124, DOI 10.1177/1059601198232003
+   van der Vegt GS, 2015, ACAD MANAGE J, V58, P971, DOI 10.5465/amj.2015.4004
+   Weick K.E., 2011, MANAGING UNEXPECTED, V8
+   Weick KE, 1999, RES ORGAN BEHAV, V21, P81
+NR 97
+TC 10
+Z9 11
+U1 0
+U2 33
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1076-2787
+EI 1099-0526
+J9 COMPLEXITY
+JI Complexity
+PY 2019
+AR 3946356
+DI 10.1155/2019/3946356
+PG 23
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Science & Technology - Other Topics
+GA HM7OL
+UT WOS:000459668500001
+OA gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Muntanyola-Saura, D
+   Fernández, M
+AF Muntanyola-Saura, Dafne
+   Fernandez, Miquel
+TI The Place of Religious Brokerage: A Mixed-methods Approach
+SO REVISTA ESPANOLA DE INVESTIGACIONES SOCIOLOGICAS
+LA Spanish
+DT Article
+DE Social Network Analysis; Cultural Capital; Social Capital; Place;
+   Religious Brokerage
+AB The article analyses the role of religious brokerage, arguing for the importance of cultural and social capital. A city like Barcelona is a place of arrival and settlement for a population with diverse trajectories. We see the urban environment as a cultural as well as a social attribute of the activity of religious brokerage. Our case studies are three religious communities in the city: Muslim Pakistani, Sikh and Philippine Catholic. Based on research using a mixed methodology, combining semi-structured interviews, observation and social network analysis (SNA), we look at the spaces where mediation occurs and the composition of the mediators' personal networks. The results obtained lead us to consider sense of place and sociability as necessary aspects of religious brokerage.
+C1 [Muntanyola-Saura, Dafne] UAB, Ctr Estudis Sociol Vida Quotidiana & Treball QUIT, Barcelona, Spain.
+   [Fernandez, Miquel] UAB, Invest Sociol Religio ISOR, Barcelona, Spain.
+C3 Autonomous University of Barcelona; Autonomous University of Barcelona
+RP Muntanyola-Saura, D (corresponding author), UAB, Ctr Estudis Sociol Vida Quotidiana & Treball QUIT, Barcelona, Spain.
+EM dafne.muntanyola@uab.cat; miquel.fernandez@uab.cat
+RI Fernández González, Miquel/O-6509-2019
+OI Muntanyola-Saura, Dafne/0000-0002-2684-9577
+CR Anguelovski I, 2013, CITY COMMUNITY, V12, P211, DOI 10.1111/cico.12026
+   [Anonymous], 1954, FREEDOM CONTROL MODE
+   [Anonymous], 2007, INTERACCION REDES SO
+   [Anonymous], 2002, THE WAY WE THINK
+   [Anonymous], 1986, The constitution of society: Outline of the theory of structuration
+   Berger Peter L., 1966, SOCIAL CONSTRUCTION
+   Bolíbar M, 2015, INT SOCIOL, V30, P579, DOI 10.1177/0268580915579925
+   Bourdieu P., 1979, ACTES RECH SCI SOC, V30, P3, DOI [10.3406/arss.1979.2654, DOI 10.3406/ARSS.1979.2654]
+   Bourdieu Pierre, 1994, RAISONS PRACTIQUES
+   Brekhus WayneH., 2015, Culture and Cognition
+   Cicourel Aaron, 2007, INTERACCION REDES SO
+   CORBIN J, 1990, Z SOZIOL, V19, P418, DOI 10.1007/BF00988593
+   de Jong S., 2016, Journal of Diversity and Gender Studies (DiGeSt), V2, P111
+   Freeman LC., 1996, CONNECTIONS, V19, P39
+   Gobo G, 2016, QUAL RES ORGAN MANAG, V11, P199, DOI 10.1108/QROM-07-2016-1392
+   Goffman E., 1963, BEHAV PUBLIC PLACES
+   Hillier B., 1996, SPACE IS MACHINE
+   ISOR, 2014, MAP MIN REL CAT
+   Koster M, 2016, SINGAPORE J TROP GEO, V37, P282, DOI 10.1111/sjtg.12160
+   LEFEBVRE H, 1974, HOMME SOC, P13, DOI 10.3406/homso.1974.1855
+   Lindquist Johan, 2015, INT ENCY SOCIAL BEHA, DOI DOI 10.1016/B978-0-08-097086-8.12178-6
+   Lozares C., 2019, QUAL QUANT, V53, P599, DOI DOI 10.1007/S11135-018-0777-7
+   Lozares C., 2003, REDES REV HISPANA AN, V4
+   Lozares C, 2015, INT J SOC RES METHOD, V18, P209, DOI 10.1080/13645579.2014.888238
+   Lozares C, 2014, QUAL QUANT, V48, P2657, DOI 10.1007/s11135-013-9915-4
+   Molina JL, 2015, MIGR DIASP CITIZEN, P154
+   Maya-Jariego I, 2014, STRUC AN S, P153
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Muntanola Josep, 2009, TOPOGENESE
+   Park RE, 1928, AM J SOCIOL, V33, P881, DOI 10.1086/214592
+   Rapoport Amos, 2008, ARQUITECTONICS MIND, V15, P33
+   Rérat P, 2011, T I BRIT GEOGR, V36, P126, DOI 10.1111/j.1475-5661.2010.00404.x
+   Sailer Kirstin, 2007, ARCH PHEN C HAIF 13, P1
+   Schutz Alfred, 1976, ESTUDIOS TEORIA SOCI
+   Sennett R., 2012, Together
+   Sennett Richard., 1976, FALL PUBLIC MAN
+   Serino Marco, 2011, TAFTERJOURNAL, V30
+   SIMMEL G., 1986, SECRETO SOC SECRETA, P187
+   SIMMEL Georg., 2014, Sociologia: Estudios sobre las formas de socializacion
+   Stonequist Everett., 1965, MARGINAL MAN STUDY P
+   Vera H, 2016, CULT SOCIOL-LONDON, V10, P21, DOI 10.1177/1749975515616825
+   Verd J., 2016, Introduccion a la investigacion cualitativa
+   Wacquant L, 2014, ENVIRON PLANN A, V46, P1270, DOI 10.1068/a4606ge
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   Wasserman Stanley, 1995, SOCIAL NETWORK ANAL, V8
+NR 45
+TC 0
+Z9 0
+U1 0
+U2 6
+PU CENTRO INVESTIGACIONES SOCIOLOGICAS
+PI MADRID
+PA MONTALBAN 8, MADRID, 28014, SPAIN
+SN 0210-5233
+EI 1988-5903
+J9 REV ESP INVESTIG SOC
+JI Rev. Esp. Investig. Sociol.
+PD JAN-MAR
+PY 2019
+IS 165
+BP 101
+EP 120
+DI 10.5477/cis/reis.165.101
+PG 20
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA HH4FP
+UT WOS:000455677500006
+OA Green Published, gold, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Saffer, AJ
+   Yang, AM
+   Morehouse, J
+   Qu, Y
+AF Saffer, Adam J.
+   Yang, Aimei
+   Morehouse, Jordan
+   Qu, Yan
+TI It Takes a Village: A Social Network Approach to NGOs' International
+   Public Engagement
+SO AMERICAN BEHAVIORAL SCIENTIST
+LA English
+DT Article
+DE international public relations; nonprofit communications; network
+   analysis; engagement; social media
+ID NONPROFIT ORGANIZATIONS; COMMUNITY; STAKEHOLDERS; ADVOCACY; MEDIA
+AB Nongovernmental organizations (NGOs), like most strategic communicators, are challenged with breaking through the saturated international media environment as they attempt to influence public opinion. Yet, before strategic communicators can build an agenda, they must get attention from the public. The current study examined how NGOs' network positions in the public Twitter discussion of the global refugee crisis influenced the public engagement NGOs received during two news events. Drawing from network theory and research, we posed two parallel sets of hypotheses. First, we predicted that NGOs with characteristics of "star" network structures will be well-situated in the network to garner attention. Second, we hypothesized that the "village" around an NGO also contributes to capturing attention. The results from our regressions offer evidence to support both hypotheses.
+C1 [Saffer, Adam J.] Univ N Carolina, 378 Carroll Hall,Campus Box 3365, Chapel Hill, NC 27599 USA.
+   [Morehouse, Jordan; Qu, Yan] Univ N Carolina, Sch Media & Journalism, Chapel Hill, NC 27515 USA.
+   [Yang, Aimei] Univ Southern Calif, Los Angeles, CA USA.
+C3 University of North Carolina; University of North Carolina Chapel Hill;
+   University of North Carolina; University of North Carolina Chapel Hill;
+   University of Southern California
+RP Saffer, AJ (corresponding author), Univ N Carolina, 378 Carroll Hall,Campus Box 3365, Chapel Hill, NC 27599 USA.
+EM adam.saffer@unc.edu
+RI ; Saffer, Adam/GRY-0838-2022
+OI Morehouse, Jordan/0000-0002-8584-2957; Saffer, Adam/0000-0001-8032-4256
+CR Altman Neal., 2018, ORA USERS GUIDE 2018
+   [Anonymous], 1992, Structural holes
+   Borgatti S. P., 2006, Computational & Mathematical Organization Theory, V12, P21, DOI 10.1007/s10588-006-7084-x
+   Borgatti SP, 2011, ORGAN SCI, V22, P1168, DOI 10.1287/orsc.1100.0641
+   Brammer S, 2003, J BUS ETHICS, V45, P213, DOI 10.1023/A:1024151528646
+   Carley K.M., 2014, Encyclopedia of social network analysis and mining, P1219, DOI DOI 10.1007/978-1-4614-6170-8
+   Doerfel M.L., 2018, The Handbook of Communication Engagement, Handbooks in Communication and Media, P233
+   Girvan M, 2002, P NATL ACAD SCI USA, V99, P7821, DOI 10.1073/pnas.122653799
+   Guo C, 2005, NONPROF VOLUNT SEC Q, V34, P340, DOI 10.1177/0899764005275411
+   Guo C, 2018, NONPROF VOLUNT SEC Q, V47, P5, DOI 10.1177/0899764017713724
+   Hanneman RA, 2005, Introduction to social network methods
+   Himelboim I, 2014, J PUBLIC RELAT RES, V26, P359, DOI 10.1080/1062726X.2014.908724
+   Johnston KA., 2018, HDB COMMUNICATION EN, DOI DOI 10.1002/9781119167600.CH1
+   Johnston KA., 2018, HDB COMMUNICATION EN, P19, DOI [DOI 10.1002/9781119167600.CH2, 10.1002/9781119167600, DOI 10.1002/9781119167600, 10.1002/9781119167600.ch2]
+   Kang M, 2014, J PUBLIC RELAT RES, V26, P399, DOI 10.1080/1062726X.2014.956107
+   Kent ML, 2007, PUBLIC RELAT REV, V33, P10, DOI 10.1016/j.pubrev.2006.11.002
+   Kovacs R, 2006, PUBLIC RELAT REV, V32, P429, DOI 10.1016/j.pubrev.2006.09.013
+   Lee G, 2012, GOV INFORM Q, V29, P492, DOI 10.1016/j.giq.2012.06.001
+   Lesser O, 2017, INFORM COMMUN SOC, V20, P1607, DOI 10.1080/1369118X.2016.1252411
+   Lovejoy K, 2012, J COMPUT-MEDIAT COMM, V17, P337, DOI 10.1111/j.1083-6101.2012.01576.x
+   Lovejoy K, 2012, PUBLIC RELAT REV, V38, P313, DOI 10.1016/j.pubrev.2012.01.005
+   Malinick TE, 2013, SOC NETWORKS, V35, P148, DOI 10.1016/j.socnet.2011.10.005
+   Rodriguez NS, 2016, PUBLIC RELAT REV, V42, P322, DOI 10.1016/j.pubrev.2015.12.002
+   Saffer AJ, 2019, PUBLIC RELAT REV, V45, P282, DOI 10.1016/j.pubrev.2019.02.004
+   Saffer AJ, 2018, MANAGE COMMUN Q, V32, P121, DOI 10.1177/0893318917700510
+   Saffer AJ, 2016, J PUBLIC RELAT RES, V28, P170, DOI 10.1080/1062726X.2016.1228065
+   Saxton GD, 2014, J PUBLIC RELAT RES, V26, P280, DOI 10.1080/1062726X.2014.908721
+   Schwarz A, 2014, J PUBLIC RELAT RES, V26, P161, DOI 10.1080/1062726X.2013.864242
+   Seo H, 2009, PUBLIC RELAT REV, V35, P123, DOI 10.1016/j.pubrev.2009.02.002
+   Shulman S, 2011, P 12 ANN INT DIG GOV, P373, DOI [10.1145/2037556.2037632, DOI 10.1145/2037556.2037632]
+   Shumate M., 2006, J COMPUT-MEDIAT COMM, V11, P802
+   Shumate M, 2010, J COMMUN, V60, P577, DOI 10.1111/j.1460-2466.2010.01498.x
+   Sommerfeldt EJ, 2013, PUBLIC RELAT REV, V39, P280, DOI 10.1016/j.pubrev.2012.12.004
+   Susskind AM, 2011, COMMUN RES, V38, P613, DOI 10.1177/0093650210380867
+   Taylor M, 2003, HUM COMMUN RES, V29, P153, DOI 10.1111/j.1468-2958.2003.tb00835.x
+   Taylor M., 2000, J PUBLIC RELAT RES, V12, P179
+   Tsvetovat M., 2011, Social network analysis for startups
+   UN Refugee Agency, 2018, FORC DISPL 68M 2017
+   Uzzi B, 1996, AM SOCIOL REV, V61, P674, DOI 10.2307/2096399
+   Vivek SD, 2012, J MARKET THEORY PRAC, V20, P127, DOI 10.2753/MTP1069-6679200201
+   Waters RD, 2009, PUBLIC RELAT REV, V35, P102, DOI 10.1016/j.pubrev.2009.01.006
+   WELLMAN B, 1979, AM J SOCIOL, V84, P1201, DOI 10.1086/226906
+   Yang AM, 2018, AM BEHAV SCI, V62, P421, DOI 10.1177/0002764218759578
+   Yang AM, 2013, J INT INTERCULT COMM, V6, P40, DOI 10.1080/17513057.2012.719632
+   Yang AM, 2010, PUBLIC RELAT REV, V36, P342, DOI 10.1016/j.pubrev.2010.07.001
+NR 45
+TC 24
+Z9 26
+U1 2
+U2 39
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0002-7642
+EI 1552-3381
+J9 AM BEHAV SCI
+JI Am. Behav. Sci.
+PD NOV
+PY 2019
+VL 63
+IS 12
+SI SI
+BP 1708
+EP 1727
+DI 10.1177/0002764219835265
+PG 20
+WC Psychology, Clinical; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology; Social Sciences - Other Topics
+GA JA6KH
+UT WOS:000487950800007
+DA 2024-11-22
+ER
+
+PT J
+AU Coviello, L
+   Franceschetti, M
+   García-Herranz, M
+   Rahwan, I
+AF Coviello, Lorenzo
+   Franceschetti, Massimo
+   Garcia-Herranz, Manuel
+   Rahwan, Iyad
+TI Predicting and containing epidemic risk using on-line friendship
+   networks
+SO PLOS ONE
+LA English
+DT Article
+ID INFLUENZA
+AB To what extent can online social networks predict who is at risk of an infection? Many infections are transmitted through physical encounter between humans, but collecting detailed information about it can be expensive, might invade privacy, or might not even be possible. In this paper, we ask whether online social networks help predict and contain epidemic risk. Using a dataset from a popular online review service which includes over 100 thousand users and spans 4 years of activity, we build a time-varying network that is a proxy of physical encounter between its users (the encounter network) and a static network based on their reported online friendship (the friendship With computer simulations, we compare stochastic infection processes on the two networks, considering infections on the encounter network as the benchmark. First, we show that the friendship network is useful to identify the individuals at risk of infection, despite providing lower accuracy than the ideal case in which the encounters are known. This limited prediction accuracy is not only due to the static nature of the friendship network because a static version of the encounter network provides more accurate prediction of risk than the friendship network. Then, we show that periodical monitoring of the infection spreading on the encounter network allows to correct the infection predicted by a process spreading on the friendly staff ndship network, and achieves high prediction accuracy. Finally, we show that the friendship network contains valuable information to effectively contain epidemic outbreaks even when a limited budget is available for immunization. In particular, a strategy that immunizes random friends of random individuals achieves the same performance as knowing individuals' encounters at a small additional cost, even if the infection spreads on the encounter network.
+C1 [Coviello, Lorenzo] Google Inc, Pittsburgh, PA 15206 USA.
+   [Franceschetti, Massimo] Univ Calif San Diego, Dept Elect & Comp Engn, La Jolla, CA 92093 USA.
+   [Garcia-Herranz, Manuel] Unicef, New York, NY USA.
+   [Rahwan, Iyad] MIT, Media Lab, Cambridge, MA 02139 USA.
+C3 Google Incorporated; University of California System; University of
+   California San Diego; UNICEF; Massachusetts Institute of Technology
+   (MIT)
+RP Coviello, L (corresponding author), Google Inc, Pittsburgh, PA 15206 USA.
+EM lorenzocoviello@gmail.com
+RI Rahwan, Iyad/ABB-2422-2020; Garcia-Herranz, Manuel/ABB-2617-2021;
+   Garcia-Herranz, Manuel/L-3213-2013
+OI Garcia-Herranz, Manuel/0000-0002-4252-4975
+CR ANDERSON R M, 1991
+   [Anonymous], 1996, Computational Mathematical Organization Theory
+   Brankston G, 2007, LANCET INFECT DIS, V7, P257, DOI 10.1016/S1473-3099(07)70029-4
+   Brockmann D, 2006, NATURE, V439, P462, DOI 10.1038/nature04292
+   de Montjoye YA, 2013, SCI REP-UK, V3, DOI 10.1038/srep01376
+   Diekmann O., 2000, Mathematical epidemiology of infectious diseases: model building, analysis, and interpretation
+   Dornhaus A, 2005, BEHAV ECOL, V16, P661, DOI 10.1093/beheco/ari040
+   Eagle N, 2009, P NATL ACAD SCI USA, V106, P15274, DOI 10.1073/pnas.0900282106
+   Farrahi K, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0095133
+   FELD SL, 1991, AM J SOCIOL, V96, P1464, DOI 10.1086/229693
+   Ferguson NM, 2005, NATURE, V437, P209, DOI 10.1038/nature04017
+   Garcia-Herranz M, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0092413
+   Gomes Marcelo F C, 2014, PLoS Curr, V6, DOI 10.1371/currents.outbreaks.cd818f63d40e24aef769dda7df9e0da5
+   González MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   Greene MJ, 2003, NATURE, V423, P32, DOI 10.1038/423032a
+   Gross T, 2008, J R SOC INTERFACE, V5, P259, DOI 10.1098/rsif.2007.1229
+   Halloran ME, 2014, SCIENCE, V346, P433, DOI 10.1126/science.346.6208.433-a
+   Halloran ME, 2002, SCIENCE, V298, P1428, DOI 10.1126/science.1074674
+   Hoffmann T, 2012, PHYS REV E, V86, DOI 10.1103/PhysRevE.86.046102
+   Holme P, 2005, PHYS REV E, V71, DOI 10.1103/PhysRevE.71.046119
+   Holme P, 2015, SCI REP-UK, V5, DOI 10.1038/srep14462
+   Hufnagel L, 2004, P NATL ACAD SCI USA, V101, P15124, DOI 10.1073/pnas.0308344101
+   Hussain-Alkhateeb L, 2018, PLOS ONE, V13, DOI 10.1371/journal.pone.0196811
+   Jo HH, 2014, PHYS REV X, V4, DOI 10.1103/PhysRevX.4.011041
+   Karsai M, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.025102
+   Keeling M. J., 2011, MODELING INFECT DIS
+   Kivelä M, 2012, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2012/03/P03005
+   Klasnja P, 2009, LECT NOTES COMPUT SC, V5538, P176, DOI 10.1007/978-3-642-01516-8_13
+   Koopman J, 2004, ANNU REV PUBL HEALTH, V25, P303, DOI 10.1146/annurev.publhealth.25.102802.124353
+   Kupferschmidt K., 2014, ESTIMATING EBOLA EPI
+   Lederer Scott, 2003, CHI 03 HUM FACT COMP, P724, DOI DOI 10.1145/765891.765952
+   Liu S, 2014, PHYS REV LETT, V112, DOI 10.1103/PhysRevLett.112.040601
+   Lloyd AL, 2001, SCIENCE, V292, P1316, DOI 10.1126/science.1061076
+   Lofgren ET, 2014, P NATL ACAD SCI USA, V111, P18095, DOI 10.1073/pnas.1421551111
+   Longini IM, 2005, SCIENCE, V309, P1083, DOI 10.1126/science.1115717
+   Mastrandrea R, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0136497
+   Masuda N., 2017, Temporal Network Epidemiology, P1
+   Mednick SC, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0009775
+   Pastor-Satorras R, 2001, PHYS REV LETT, V86, P3200, DOI 10.1103/PhysRevLett.86.3200
+   Perra N, 2012, PHYS REV LETT, V109, DOI 10.1103/PhysRevLett.109.238701
+   Pulse UNG, 2013, IMOBILE PHON NETW DA
+   RAPOPORT ANATOL, 1953, BULL MATH BIOPHYS, V15, P523, DOI 10.1007/BF02476440
+   Rocha LEC, 2011, PLOS COMPUT BIOL, V7, DOI 10.1371/journal.pcbi.1001109
+   Salathé M, 2010, P NATL ACAD SCI USA, V107, P22020, DOI 10.1073/pnas.1009094108
+   Sayama H, 2013, COMPUT MATH APPL, V65, P1645, DOI 10.1016/j.camwa.2012.12.005
+   Song CM, 2010, SCIENCE, V327, P1018, DOI 10.1126/science.1177170
+   Stehlé J, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0023176
+   Stehlé J, 2011, BMC MED, V9, DOI 10.1186/1741-7015-9-87
+   Sun LJ, 2013, P NATL ACAD SCI USA, V110, P13774, DOI 10.1073/pnas.1306440110
+   Vazquez A, 2007, PHYS REV LETT, V98, DOI 10.1103/PhysRevLett.98.158702
+   Wesolowski A, 2015, P NATL ACAD SCI USA, V112, P11887, DOI 10.1073/pnas.1504964112
+   Wisloff U, 2004, J PHYSIOL-LONDON, V555, P825, DOI 10.1113/jphysiol.2003.055467
+   World Health Organization, 2015, WHO/EVD/Guidance/Contact/15.1
+   Zhang Q, 2017, P NATL ACAD SCI USA, V114, pE4334, DOI 10.1073/pnas.1620161114
+NR 54
+TC 1
+Z9 1
+U1 0
+U2 1
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD MAY 16
+PY 2019
+VL 14
+IS 5
+AR e0211765
+DI 10.1371/journal.pone.0211765
+PG 21
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA HY3MG
+UT WOS:000468030100007
+PM 31095571
+OA gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Simon, M
+AF Simon, Miranda
+TI Path Dependency and Adaptation: The Effects of Policy on Migration
+   Systems
+SO JASSS-THE JOURNAL OF ARTIFICIAL SOCIETIES AND SOCIAL SIMULATION
+LA English
+DT Article
+DE Networks; Migration; Immigration Policy
+ID AGENT-BASED MODEL; RETURN MIGRATION; INTERNATIONAL MIGRATION; BORDER
+   ENFORCEMENT; SOCIAL NETWORKS; LIFE-COURSE; DYNAMICS; REMITTANCES;
+   SETTLEMENT; PATTERNS
+AB Social network theory (SNT) holds that, once a critical number of migrants have settled in a destination, migration adopts a self-perpetuating character whereby movement tends to follow the 'beaten track.' At this point, the migratory flow between two countries will no longer be strongly correlated to macro-level variables such as immigration policy. This implies that migrants from a given origin will continue to concentrate in the same destination even if other destinations offer easier possibilities for entry. The concentration of immigrants from one origin, predicted by SNT, is widely documented. However, we also see evidence of migrant flows reorienting away from locations where co-ethnics have historically settled. I develop an abstract, theory-driven agent-based model to help reconcile the existence of two apparently mutually exclusive outcomes under the framework of SNT. This model, which considers network-driven labor migration from Mexico to the USA from 1990 to 2013, demonstrates that network theory can explain the emergence of both path dependent migration systems as well as systems that shift in reaction to immigration policy, when return migration is taken into account. Return, a severely understudied aspect of migration, can help migration flows adapt to changes in immigration policy and follow the path of least resistance towards a new destination.
+C1 [Simon, Miranda] UCL, Dept Polit Sci, 35 Tavistock Sq, London WC1H 9EZ, England.
+C3 University of London; University College London
+RP Simon, M (corresponding author), UCL, Dept Polit Sci, 35 Tavistock Sq, London WC1H 9EZ, England.
+EM m.simon@ucl.ac.uk
+CR Amuedo-Dorantes C, 2010, J DEV ECON, V91, P323, DOI 10.1016/j.jdeveco.2009.06.006
+   Angelucci M., 2009, 4498 IZA
+   [Anonymous], 1993, Immigration and Entrepreneurship
+   [Anonymous], 2009, APPL COMPL SCI PUBL
+   [Anonymous], CONS PRIC IND
+   [Anonymous], 2005, NetLogo Small Worlds model
+   [Anonymous], 1993, We, the American women, P1
+   Arango J, 2000, INT SOC SCI J, V52, P283, DOI 10.1111/1468-2451.00259
+   Baláz V, 2016, POPUL SPACE PLACE, V22, P36, DOI 10.1002/psp.1858
+   Barabasi A.-L, 2016, Network Science
+   Biondo AE, 2013, JASSS-J ARTIF SOC S, V16, DOI 10.18564/jasss.2161
+   Bohn S, 2015, DEMOGRAPHY, V52, P1543, DOI 10.1007/s13524-015-0416-z
+   BORJAS GJ, 1995, J ECON PERSPECT, V9, P3, DOI 10.1257/jep.9.2.3
+   BRENNER T., 2009, JASSS-J ARTIF SOC S, V12, P4
+   Bruch E, 2015, SOCIOL METHOD RES, V44, P186, DOI 10.1177/0049124113506405
+   Carrington WJ, 1996, AM ECON REV, V86, P909
+   Castles Stephen., 2003, AGE MIGRATION
+   Cederman L.E., 1997, EMERGENT ACTORS WORL
+   Clemens M., 2018, TECH REP
+   Collyer M, 2005, J ETHN MIGR STUD, V31, P699, DOI 10.1080/13691830500109852
+   Constant A, 2002, INT MIGR, V40, P5, DOI 10.1111/1468-2435.00204
+   Constant AF, 2012, INT MIGR REV, V46, P362, DOI 10.1111/j.1747-7379.2012.00890.x
+   Czaika M, 2014, INT MIGR REV, V48, P283, DOI 10.1111/imre.12095
+   de Haas H., 2011, Working Paper no. 32
+   de Haas H, 2011, DEMOGR RES, V25, P755, DOI 10.4054/DemRes.2011.25.24
+   de Haas H, 2010, J ETHN MIGR STUD, V36, P1587, DOI 10.1080/1369183X.2010.489361
+   Durand J, 1999, J AM HIST, V86, P518, DOI 10.2307/2567043
+   Dustmann C, 2003, EUR ECON REV, V47, P353, DOI 10.1016/S0014-2921(01)00184-2
+   Ellis M, 2014, POLIT GEOGR, V42, P46, DOI 10.1016/j.polgeo.2014.06.001
+   Entwisle B, 2016, POPUL ENVIRON, V38, P47, DOI 10.1007/s11111-016-0254-y
+   Epstein GS, 2008, J ETHN MIGR STUD, V34, P567, DOI 10.1080/13691830801961597
+   Epstein J. M., 1999, Complexity, V4, P41, DOI 10.1002/(SICI)1099-0526(199905/06)4:5<41::AID-CPLX9>3.0.CO;2-F
+   Erdos P., 1959, PUBL MATH-DEBRECEN, V6, P290
+   Espíndola AL, 2006, BRAZ J PHYS, V36, P603, DOI 10.1590/S0103-97332006000500002
+   ESTES WK, 1950, PSYCHOL REV, V57, P94, DOI 10.1037/h0058559
+   Fagiolo G, 2013, PHYS REV E, V88, DOI 10.1103/PhysRevE.88.012812
+   Faist Thomas., 1997, International Migration, Immobility and Development: Multidisciplinary Perspectives, DOI DOI 10.1002/(SICI)1099-1220(199905/06)5:3<238::AID
+   Fusco W., 2011, 2011 IEEE S INT AG I, P11
+   Garcia A., 2011, RECESSION BORDERS ME
+   García-Díaz C, 2012, PHYSICA A, V391, P1563, DOI 10.1016/j.physa.2011.08.057
+   Garip F, 2016, AM BEHAV SCI, V60, P1168, DOI 10.1177/0002764216643131
+   GILBERT EN, 1959, ANN MATH STAT, V30, P1141, DOI 10.1214/aoms/1177706098
+   Gilbert N.G., 2008, AGENT BASED MODELS
+   Gilbert N, 2018, JASSS-J ARTIF SOC S, V21, DOI 10.18564/jasss.3669
+   Glennie A., 2010, Jamaica: From diverse beginning to diaspora in the developed world
+   Gonzalez-Barrera A., 2015, More Mexicans leaving than coming to the US, P19
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Guarnizo LE, 2003, AM J SOCIOL, V108, P1211, DOI 10.1086/375195
+   Gurak D.T., 1992, INT MIGRATION SYSTEM, P150
+   HARRIS JR, 1970, AM ECON REV, V60, P126
+   Hassani-Mahmooei B, 2012, ENVIRON DEV ECON, V17, P763, DOI 10.1017/S1355770X12000290
+   Hattle A., 2016, THE UMAP J, V37, P195
+   Hatton TimothyJ. Jeffrey G. Williamson., 1998, The Age of Mass Migration: Causes and Economic Impact
+   Haug S, 2008, J ETHN MIGR STUD, V34, P585, DOI 10.1080/13691830801961605
+   Heathcote A, 2000, PSYCHON B REV, V7, P185, DOI 10.3758/BF03212979
+   Heiland F, 2003, CONTRIBUT ECON, P73
+   Hollifield JamesF., 2000, MIGRATION THEORY TAL
+   Hollifield JamesF., 2014, Controlling Immigration: A Global Perspective, VThird
+   Johnson DDP, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0020851
+   Johnson SD, 2014, J RES CRIME DELINQ, V51, P509, DOI 10.1177/0022427814531490
+   King R, 2012, Working Paper
+   Klabunde A., 2011, WHAT EXPLAINS OBSERV
+   Klabunde A, 2017, POP STUD-J DEMOG, V71, P51, DOI 10.1080/00324728.2017.1350281
+   Klabunde A, 2016, EUR J POPUL, V32, P73, DOI 10.1007/s10680-015-9362-0
+   Kniveton D, 2011, GLOBAL ENV CHANGE, V21
+   Kniveton DR, 2012, NAT CLIM CHANGE, V2, P444, DOI 10.1038/NCLIMATE1447
+   Korinek K, 2005, AM SOCIOL REV, V70, P779, DOI 10.1177/000312240507000503
+   Kulu H, 2007, DEMOGR RES, V17, P567, DOI 10.4054/DemRes.2007.17.19
+   Leach MarkA., 2008, New Faces in New Places, P51
+   LEE ES, 1966, DEMOGRAPHY, V3, P47, DOI 10.2307/2060063
+   Liang Z, 2008, AM J SOCIOL, V114, P706, DOI 10.1086/592860
+   Lichter DT, 2009, INT MIGR REV, V43, P496, DOI 10.1111/j.1747-7379.2009.00775.x
+   Lichter DT, 2006, RURAL SOCIOL, V71, P109, DOI 10.1526/003601106777789828
+   Ma Y, 2013, JASSS-J ARTIF SOC S, V16, P2
+   MACDONALD JS, 1964, MILBANK FUND Q, V42, P82, DOI 10.2307/3348581
+   Massey D. S, 1997, AM J SOCIOLOGY, V102
+   Massey Douglas., 1998, Worlds in Motion: Understanding International Migration at the End of the Millennium, DOI DOI 10.1111/j.1468-2435.2010.00678.x
+   Massey DS, 2016, AM J SOCIOL, V121, P1557, DOI 10.1086/684200
+   Massey DouglasS., 1987, Return to Aztlan: The Social Proccess of International Migration from Western Mexico
+   MASSEY DS, 1994, POPUL RES POLICY REV, V13, P3, DOI 10.1007/BF01074319
+   Massey DS, 1999, POPUL DEV REV, V25, P303, DOI 10.1111/j.1728-4457.1999.00303.x
+   MASSEY DS, 1994, POPUL DEV REV, V20, P699, DOI 10.2307/2137660
+   Massey DS, 1999, P NATL ACAD SCI USA, V96, P5328, DOI 10.1073/pnas.96.9.5328
+   MASSEY DS, 1994, AM J SOCIOL, V99, P1492, DOI 10.1086/230452
+   MASSEY DS, 1993, POPUL DEV REV, V19, P431, DOI 10.2307/2938462
+   Mexicans and Americans Thinking Together, 2013, US MEX CYCL END ER
+   Moretti E, 1999, INT MIGR REV, V33, P640, DOI 10.2307/2547529
+   Mulder C.H., 1993, MIGRATION DYNAMICS L
+   MULDER CH, 1993, EUR J POPUL, V9, P55, DOI 10.1007/BF01267901
+   Organisation for Economic Co-operation and Development (OECD), 2017, PERSP GLOB DEV 2017
+   Palloni A., 2011, AM J SOCIOL, V106, P1262
+   Rehm M., 2012, THESIS
+   Roberts KD, 2003, INT MIGR REV, V37, P1252, DOI 10.1111/j.1747-7379.2003.tb00177.x
+   Rossi P., 1955, WHY FAMILIES MOVE
+   Scherer S, 2015, JASSS-J ARTIF SOC S, V18, DOI 10.18564/jasss.2834
+   Silveira JJ, 2006, PHYSICA A, V364, P445, DOI 10.1016/j.physa.2005.08.055
+   Simon M., 2019, THESIS
+   Simon M, 2018, P NATL ACAD SCI USA, V115, pE7914, DOI 10.1073/pnas.1800373115
+   SJAASTAD LA, 1962, J POLIT ECON, V70, P80, DOI 10.1086/258726
+   Smith CD, 2014, CLIM DEV, V6, P77, DOI 10.1080/17565529.2013.872593
+   Suleimenova D, 2017, SCI REP-UK, V7, DOI 10.1038/s41598-017-13828-9
+   Taylor J. E., 2005, AM AGR EC ASS ANN M
+   Telesford QK, 2011, BRAIN CONNECT, V1, P367, DOI 10.1089/brain.2011.0038
+   Terrazas Aaron., 2011, Immigrants in New-Destination States
+   U. S. Department of State, 2015, EMPL BAS IMM VIS
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Wilensky U, 1999, NETLOGO
+   Willekens F, 2011, ESF STRAT WORKSH MIG
+   Wouterse F, 2008, WORLD DEV, V36, P625, DOI 10.1016/j.worlddev.2007.03.009
+   Yegorov Y, 1997, EC SERIES I ADV STUD
+   ZOLBERG AR, 1989, INT MIGR REV, V23, P403, DOI 10.2307/2546422
+NR 111
+TC 5
+Z9 5
+U1 2
+U2 9
+PU J A S S S
+PI GUILDFORD
+PA UNIV SURREY, DEPT SOCIOLOGY, GUILDFORD GU2 7XH, SURREY, ENGLAND
+SN 1460-7425
+J9 JASSS-J ARTIF SOC S
+JI JASSS
+PD MAR 31
+PY 2019
+VL 22
+IS 2
+AR 2
+DI 10.18564/jasss.3970
+PG 31
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA HQ9JA
+UT WOS:000462742300002
+OA gold, Green Accepted, Green Submitted
+DA 2024-11-22
+ER

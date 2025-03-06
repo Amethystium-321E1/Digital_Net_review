@@ -1,0 +1,548 @@
+
+PT J
+AU Vásárhelyi, O
+   Zakhlebin, I
+   Milojevic, S
+   Horvát, EA
+AF Vasarhelyi, Orsolya
+   Zakhlebin, Igor
+   Milojevic, Stasa
+   Horvat, Emoke-Agnes
+TI Gender inequities in the online dissemination of scholars' work
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE gender inequality; scholarly communication; social networks; STEM;
+   computational social science
+ID SOCIAL MEDIA; SCIENCE; WOMEN; COLLABORATION; INEQUALITY; NETWORKS;
+   BIASES
+AB Unbiased science dissemination has the potential to alleviate some of the known gender disparities in academia by exposing female scholars' work to other scientists and the public. And yet, we lack comprehensive understanding of the relationship between gender and science dissemination online. Our largescale analyses, encompassing half a million scholars, revealed that female scholars' work is mentioned less frequently than male scholars' work in all research areas. When exploring the characteristics associated with online success, we found that the impact of prior work, social capital, and gendered tie formation in coauthorship networks are linked with online success for men, but not for women-even in the areas with the highest female representation. These results suggest that while men's scientific impact and collaboration networks are associated with higher visibility online, there are no universally identifiable facets associated with success for women. Our comprehensive empirical evidence indicates that the gender gap in online science dissemination is coupled with a lack of understanding the characteristics that are linked with female scholars' success, which might hinder efforts to close the gender gap in visibility.
+C1 [Vasarhelyi, Orsolya] Univ Warwick, Ctr Interdisciplinary Methodol, Coventry CV4 7AL, W Midlands, England.
+   [Vasarhelyi, Orsolya] Corvinus Univ, Ctr Adv Studies, Lab Networks Technol & Innovat, H-1093 Budapest, Hungary.
+   [Zakhlebin, Igor; Horvat, Emoke-Agnes] Northwestern Univ, Sch Commun, Dept Commun Studies, Evanston, IL 60208 USA.
+   [Milojevic, Stasa] Indiana Univ, Luddy Sch Informat Comp & Engn, Ctr Complex Networks & Syst Res, Bloomington, IN 47408 USA.
+   [Horvat, Emoke-Agnes] Northwestern Univ, McCormick Sch Engn, Dept Comp Sci, Evanston, IL 60208 USA.
+   [Horvat, Emoke-Agnes] Northwestern Univ, Inst Complex Syst, Evanston, IL 60208 USA.
+C3 University of Warwick; Corvinus University Budapest; Northwestern
+   University; Indiana University System; Indiana University Bloomington;
+   Northwestern University; Northwestern University
+RP Horvát, EA (corresponding author), Northwestern Univ, Sch Commun, Dept Commun Studies, Evanston, IL 60208 USA.; Horvát, EA (corresponding author), Northwestern Univ, McCormick Sch Engn, Dept Comp Sci, Evanston, IL 60208 USA.; Horvát, EA (corresponding author), Northwestern Univ, Inst Complex Syst, Evanston, IL 60208 USA.
+OI Horvat, Emoke-Agnes/0000-0001-7709-1172
+FU NSF Faculty Early Career Development Program [IIS-1943506]; European
+   Research Council [ERC-ADG-2015-695256]; Air Force Office of Scientific
+   Research [FA9550-19-1-0391]; Central European University
+FX We thank Altmetric for generously providing data from their platform.
+   This project also uses Web of Science data by Clarivate Analytics
+   provided by the Indiana University Network Science Institute and the
+   Cyberinfrastructure for Network Science Center at Indiana University.
+   This work was also enabled by a doctoral research support grant from
+   Central European University that funded O.V.'s research stay at the
+   laboratory of E.-A.H. at Northwestern University. This work has been
+   partially funded by NSF Faculty Early Career Development Program Grant
+   IIS-1943506, the European Research Council Grant ERC-ADG-2015-695256,
+   and the Air Force Office of Scientific Research under Award
+   FA9550-19-1-0391.
+CR [Anonymous], 2018, NAT CELL BIOL, V20, P1329, DOI 10.1038/s41556-018-0253-6
+   [Anonymous], 2016, P 30 INT C NEUR INF, DOI DOI 10.5555/3157382.3157584
+   Atir S, 2018, P NATL ACAD SCI USA, V115, P7278, DOI 10.1073/pnas.1805284115
+   Bardus M, 2020, J MED INTERNET RES, V22, DOI 10.2196/15607
+   Bear JB, 2011, INTERDISCIPL SCI REV, V36, P146, DOI 10.1179/030801811X13013181961473
+   Berenbaum MR, 2019, P NATL ACAD SCI USA, V116, P8086, DOI 10.1073/pnas.1904750116
+   Bornmann L, 2005, SCIENTOMETRICS, V65, P391, DOI 10.1007/s11192-005-0281-4
+   Campbell LG, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0079147
+   Card D, 2020, Q J ECON, V135, P269, DOI 10.1093/qje/qjz035
+   Costas R, 2015, J ASSOC INF SCI TECH, V66, P2003, DOI 10.1002/asi.23309
+   Dworkin JD, 2020, NAT NEUROSCI, V23, P918, DOI 10.1038/s41593-020-0658-y
+   ETZKOWITZ H, 1994, SCIENCE, V266, P51, DOI 10.1126/science.7939644
+   Ford D, 2017, S VIS LANG HUM CEN C, P239, DOI 10.1109/VLHCC.2017.8103473
+   Hargittai E, 2015, INFORM COMMUN SOC, V18, P424, DOI 10.1080/1369118X.2014.957711
+   Hengel E., 2020, Working Paper
+   Henley MM, 2015, SOCIOL COMPASS, V9, P668, DOI 10.1111/soc4.12291
+   Hicks Diana, 2015, Nature, V520, P429, DOI 10.1038/520429a
+   Holman L, 2018, PLOS BIOL, V16, DOI 10.1371/journal.pbio.2004956
+   Huang JM, 2020, P NATL ACAD SCI USA, V117, P4609, DOI 10.1073/pnas.1914221117
+   Jadidi M, 2018, ADV COMPLEX SYST, V21, DOI 10.1142/S0219525917500114
+   Karimi F, 2016, PROCEEDINGS OF THE 25TH INTERNATIONAL CONFERENCE ON WORLD WIDE WEB (WWW'16 COMPANION), P53, DOI 10.1145/2872518.2889385
+   Katz JS, 1997, SCIENTOMETRICS, V40, P541, DOI 10.1007/BF02459299
+   Koffi M., Innovative Ideas and Gender Inequality
+   Kortelainen T, 2012, J INFORMETR, V6, P661, DOI 10.1016/j.joi.2012.06.004
+   Kwok Roberta, 2013, Nature, V500, P491
+   Leahey E, 2007, AM SOCIOL REV, V72, P533, DOI 10.1177/000312240707200403
+   Li EY, 2013, RES POLICY, V42, P1515, DOI 10.1016/j.respol.2013.06.012
+   Luc JGY, 2021, ANN THORAC SURG, V111, P296, DOI 10.1016/j.athoracsur.2020.04.065
+   Lunnemann P, 2019, PALGR COMMUN, V5, DOI 10.1057/s41599-019-0256-3
+   Lutter M, 2015, AM SOCIOL REV, V80, P329, DOI 10.1177/0003122414568788
+   MCPHERSON JM, 1986, AM SOCIOL REV, V51, P61, DOI 10.2307/2095478
+   Milkman KL, 2014, P NATL ACAD SCI USA, V111, P13642, DOI 10.1073/pnas.1317511111
+   MILOJEVIC S, 2020, ENTROPY BASEL, V22, pE875
+   MILOJEVIC S, 2020, QUANT SCI STUD, V1, P1
+   Milojevic S, 2015, J INFORMETR, V9, P962, DOI 10.1016/j.joi.2015.10.005
+   Moss-Racusin CA, 2012, P NATL ACAD SCI USA, V109, P16474, DOI 10.1073/pnas.1211286109
+   Moss-Racusin CA, 2010, PSYCHOL WOMEN QUART, V34, P186, DOI 10.1111/j.1471-6402.2010.01561.x
+   Newman MEJ, 2004, P NATL ACAD SCI USA, V101, P5200, DOI 10.1073/pnas.0307545100
+   Nielsen MW, 2016, SCI PUBL POLICY, V43, P386, DOI 10.1093/scipol/scv052
+   Nielsen MW, 2017, P NATL ACAD SCI USA, V114, P1740, DOI 10.1073/pnas.1700616114
+   Nittrouer CL, 2018, P NATL ACAD SCI USA, V115, P104, DOI 10.1073/pnas.1708414115
+   Patel V, CHRON HIGHER ED
+   Paul-Hus A, 2015, PRO INT CONF SCI INF, P37
+   Perkel J, 2020, NATUREINDEX
+   Pollett S, 2020, CLIN INFECT DIS, V71, P2184, DOI 10.1093/cid/ciaa553
+   Procter R, 2010, PHILOS T R SOC A, V368, P4039, DOI 10.1098/rsta.2010.0155
+   Roberts LW, 2014, ACAD PSYCHIATR, V38, P394, DOI 10.1007/s40596-014-0175-y
+   Sarigöl E, 2014, EPJ DATA SCI, V3, DOI 10.1140/epjds/s13688-014-0009-x
+   Sarsons H, 2021, J POLIT ECON, V129, P101, DOI 10.1086/711401
+   Sarsons H, 2017, AM ECON REV, V107, P141, DOI 10.1257/aer.p20171126
+   Sekara V, 2018, P NATL ACAD SCI USA, V115, P12603, DOI 10.1073/pnas.1800471115
+   Shema H, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0035869
+   Silbiger NJ, 2019, PEERJ, V7, DOI 10.7717/peerj.8247
+   Sugimoto C.R., 2018, Measuring Research: What Everyone Needs to Know
+   Sugimoto CR, 2017, J ASSOC INF SCI TECH, V68, P2037, DOI 10.1002/asi.23833
+   Tang J., 2008, P 14 ACM SIGKDD INT, P990, DOI [10.1145/1401890.1402008, DOI 10.1145/1401890.1402008]
+   Vedres B, 2019, EPJ DATA SCI, V8, DOI 10.1140/epjds/s13688-019-0202-z
+   Webster GD, 2009, EVOL PSYCHOL-US, V7, P348
+   Westerman S, 2016, CLIN SCI, V130, P551, DOI 10.1042/CS20150586
+   Yammine SZ, 2018, SCIENCE, V360, P162, DOI 10.1126/science.aat7303
+   Yang Y, 2019, P NATL ACAD SCI USA, V116, P2033, DOI 10.1073/pnas.1721438116
+   Zagovora O., 2018, STI 2018 C P, P1182
+   Zakhlebin I., 2020, P INT AAAI C WEB SOC, P762
+NR 63
+TC 24
+Z9 26
+U1 0
+U2 39
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+EI 1091-6490
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD SEP 28
+PY 2021
+VL 118
+IS 39
+AR e2102945118
+DI 10.1073/pnas.2102945118
+PG 6
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA WI0IZ
+UT WOS:000708052600020
+PM 34544861
+OA Bronze, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Arvidsson, M
+   Collet, F
+   Hedström, P
+AF Arvidsson, M.
+   Collet, F.
+   Hedstrom, P.
+TI The Trojan-horse mechanism: How networks reduce gender segregation
+SO SCIENCE ADVANCES
+LA English
+DT Article
+ID RACIAL COMPOSITION; SOCIAL NETWORKS; SEX SEGREGATION; WORK; CONTAGION;
+   MIGRATION; MOBILITY; CHOICE; RACE; JOBS
+AB The segregation of labor markets along ethnic and gender lines is socially highly consequential, and the social science literature has long viewed homophily and network-based job recruitments as some of its most crucial drivers. Here, we focus on a previously unidentified mechanism, the Trojan-horse mechanism, which, in contradiction to the main tenet of previous research, suggests that network-based recruitment reduce rather than increase segregation levels. We identify the conditions under which networks are desegregating, and using unique data on all individuals and all workplaces located in the Stockholm region during the years 2000-2017, we find strong empirical evidence for the Trojan-horse mechanism and its role in the gender segregation of labor markets.
+C1 [Arvidsson, M.; Hedstrom, P.] Linkoping Univ, Inst Analyt Sociol, Dept Management & Engn, SE-60174 Norrkoping, Sweden.
+   [Collet, F.] Ramon Llull Univ, ESADE, People Management & Org Dept, Barcelona 08034, Spain.
+C3 Linkoping University; Universitat Ramon Llull; Escuela Superior de
+   Administracion y Direccion de Empresas (ESADE)
+RP Arvidsson, M; Hedström, P (corresponding author), Linkoping Univ, Inst Analyt Sociol, Dept Management & Engn, SE-60174 Norrkoping, Sweden.; Collet, F (corresponding author), Ramon Llull Univ, ESADE, People Management & Org Dept, Barcelona 08034, Spain.
+EM martin.arvidsson@liu.se; francois.collet@esade.edu;
+   peter.hedstrom@liu.se
+RI Collet, Francois/ABF-9395-2020
+OI COLLET, Francois/0000-0002-4427-3604; Hedstrom,
+   Peter/0000-0003-3536-8449; Arvidsson, Martin/0000-0003-4648-2829
+FU Swedish Research Council [DNR 445-2013-7681]
+FX The research leading to these results has received funding from the
+   Swedish Research Council (DNR 445-2013-7681).
+CR [Anonymous], 1995, GETTING JOB STUDY CO
+   [Anonymous], 2005, OCCUPATIONAL GHETTOS
+   [Anonymous], 2016, ARXIV160706565
+   Aral S, 2009, P NATL ACAD SCI USA, V106, P21544, DOI 10.1073/pnas.0908800106
+   Åslund O, 2010, IND LABOR RELAT REV, V63, P471, DOI 10.1177/001979391006300306
+   Åslund O, 2009, J POPUL ECON, V22, P971, DOI 10.1007/s00148-008-0189-4
+   Austin PC, 2009, STAT MED, V28, P3083, DOI 10.1002/sim.3697
+   Becker G.S., 2009, U ILLINOIS URBANA CH
+   Becker G.S., 1962, Human capital: A theoretical and empirical analysis, with special reference to education
+   Belliveau MA, 2005, ORGAN SCI, V16, P134, DOI 10.1287/orsc.1050.0119
+   Ben-Akiva M.E., 1985, Discrete choice analysis: Theory and application to travel demand
+   BIELBY WT, 1986, AM J SOCIOL, V91, P759, DOI 10.1086/228350
+   Bishop C. M., 2006, PATTERN RECOGN
+   BLAU PM, 1982, AM SOCIOL REV, V47, P45, DOI 10.2307/2095041
+   BLAU PM, 1977, AM J SOCIOL, V83, P26, DOI 10.1086/226505
+   Brands RA, 2013, J ORGAN BEHAV, V34, pS82, DOI 10.1002/job.1890
+   Bruch EE, 2006, AM J SOCIOL, V112, P667, DOI 10.1086/507856
+   Bruch EE, 2012, SOCIOL METHODOL, V42, P103, DOI 10.1177/0081175012444105
+   Bygren M, 2013, ACTA SOCIOL, V56, P3, DOI 10.1177/0001699312468802
+   Cech E, 2011, AM SOCIOL REV, V76, P641, DOI 10.1177/0003122411420815
+   Cohen PN, 2003, AM SOCIOL REV, V68, P443, DOI 10.2307/1519732
+   Correll SJ, 2004, AM SOCIOL REV, V69, P93, DOI 10.1177/000312240406900106
+   Correll SJ, 2001, AM J SOCIOL, V106, P1691, DOI 10.1086/321299
+   Davies PS, 2001, J REGIONAL SCI, V41, P337, DOI 10.1111/0022-4146.00220
+   Davis S. J., 1998, JOB CREATION DESTRUC, V1
+   Elliott JR, 2001, SOC SCI RES, V30, P401, DOI 10.1006/ssre.2001.0704
+   Elliott JR, 2001, SOC PROBL, V48, P341, DOI 10.1525/sp.2001.48.3.341
+   Fernandez RM, 2006, AM SOCIOL REV, V71, P42, DOI 10.1177/000312240607100103
+   Gottlieb PD, 2006, J REGIONAL SCI, V46, P627, DOI 10.1111/j.1467-9787.2006.00471.x
+   Grover A, 2016, KDD'16: PROCEEDINGS OF THE 22ND ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P855, DOI 10.1145/2939672.2939754
+   HALLINAN MT, 1985, SOC PSYCHOL QUART, V48, P3, DOI 10.2307/3033777
+   Ho DE, 2007, POLIT ANAL, V15, P199, DOI 10.1093/pan/mpl013
+   Iacus SM, 2012, POLIT ANAL, V20, P1, DOI 10.1093/pan/mpr013
+   Ioannides YM, 2004, J ECON LIT, V42, P1056, DOI 10.1257/0022051043004595
+   JAMES DR, 1985, SOCIOL METHODOL, P1
+   Joyner K, 2000, SOC SCI QUART, V81, P810
+   King G, 2019, POLIT ANAL, V27, P435, DOI 10.1017/pan.2019.11
+   Lewis K, 2013, P NATL ACAD SCI USA, V110, P18814, DOI 10.1073/pnas.1308501110
+   Marini MM, 1996, SOCIOL EDUC, V69, P49, DOI 10.2307/2112723
+   Marsden PeterV., 2001, SOURCEBOOK LABOR MAR, DOI 10.1007/978-1-4615-1225-7_19
+   MASSEY DS, 1994, AM SOCIOL REV, V59, P425, DOI 10.2307/2095942
+   McFadden D., 1974, FRONTIERS ECONOMETRI, P105, DOI DOI 10.1108/EB028592
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   NEAL D, 1995, J LABOR ECON, V13, P653, DOI 10.1086/298388
+   PETERSEN T, 1995, AM J SOCIOL, V101, P329, DOI 10.1086/230727
+   Reardon SeanF., 2016, RSF: The Russell Sage Foundation Journal of the Social Sciences, V2, P34
+   Reskin BF, 1999, ANNU REV SOCIOL, V25, P335, DOI 10.1146/annurev.soc.25.1.335
+   ROSENBAUM PR, 1983, BIOMETRIKA, V70, P41, DOI 10.1093/biomet/70.1.41
+   RUBIN DB, 1974, J EDUC PSYCHOL, V66, P688, DOI 10.1037/h0037350
+   Rubineau B, 2015, ORGAN SCI, V26, P1646, DOI 10.1287/orsc.2015.1015
+   Rubineau B, 2013, MANAGE SCI, V59, P2470, DOI 10.1287/mnsc.2013.1717
+   Salganik MJ, 2006, SCIENCE, V311, P854, DOI 10.1126/science.1121066
+   Shalizi CR, 2011, SOCIOL METHOD RES, V40, P211, DOI 10.1177/0049124111404820
+   Stainback K, 2012, DOCUMENTING DESEGREGATION: RACIAL AND GENDER SEGREGATION IN PRIVATE-SECTOR EMPLOYMENT SINCE THE CIVIL RIGHTS ACT, P1
+   Stouffer SA, 1940, AM SOCIOL REV, V5, P845, DOI 10.2307/2084520
+   Stuart EA, 2010, STAT SCI, V25, P1, DOI 10.1214/09-STS313
+   Tomaskovic-Devey D., 1993, GENDER RACIAL INEQUA
+   Train KE, 2009, DISCRETE CHOICE METHODS WITH SIMULATION, 2ND EDITION, P1, DOI 10.1017/CBO9780511805271
+   Trimble LB, 2011, SOCIOL COMPASS, V5, P165, DOI 10.1111/j.1751-9020.2010.00353.x
+   van de Rijt A, 2009, AM J SOCIOL, V114, P1166, DOI 10.1086/588795
+   Veitch Victor, 2019, Proceedings of the Advances in Neural Information Processing Systems, V32, P13792
+   White HarrisonC., 1970, CHAINS OPPORTUNITY S
+NR 62
+TC 8
+Z9 11
+U1 1
+U2 7
+PU AMER ASSOC ADVANCEMENT SCIENCE
+PI WASHINGTON
+PA 1200 NEW YORK AVE, NW, WASHINGTON, DC 20005 USA
+SN 2375-2548
+J9 SCI ADV
+JI Sci. Adv.
+PD APR
+PY 2021
+VL 7
+IS 16
+AR eabf6730
+DI 10.1126/sciadv.abf6730
+PG 7
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA TP4NN
+UT WOS:000677572500014
+PM 33863731
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Bokányi, E
+   Juhász, S
+   Karsai, M
+   Lengyel, B
+AF Bokanyi, Eszter
+   Juhasz, Sandor
+   Karsai, Marton
+   Lengyel, Balazs
+TI Universal patterns of long-distance commuting and social assortativity
+   in cities
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID NETWORK STRUCTURE; NEIGHBORHOOD; SEGREGATION; INEQUALITY
+AB Millions commute to work every day in cities and interact with colleagues, partners, friends, and strangers. Commuting facilitates the mixing of people from distant and diverse neighborhoods, but whether this has an imprint on social inclusion or instead, connections remain assortative is less explored. In this paper, we aim to better understand income sorting in social networks inside cities and investigate how commuting distance conditions the online social ties of Twitter users in the 50 largest metropolitan areas of the United States. An above-median commuting distance in cities is linked to more diverse individual networks, moreover, we find that longer commutes are associated with a nearly uniform, moderate reduction of overall social tie assortativity across all cities. This suggests a universal relation between long-distance commutes and the integration of social networks. Our results inform policy that facilitating access across distant neighborhoods can advance the social inclusion of low-income groups.
+C1 [Bokanyi, Eszter; Juhasz, Sandor; Lengyel, Balazs] Corvinus Univ Budapest, Lab Networks Technol & Innovat, H-1093 Budapest, Hungary.
+   [Bokanyi, Eszter; Juhasz, Sandor; Lengyel, Balazs] ELKH Ctr Econ & Reg Studies, Agglomerat & Social Networks Lendulet Res Grp, H-1097 Budapest, Hungary.
+   [Karsai, Marton] Cent European Univ, Dept Network & Data Sci, A-1100 Vienna, Austria.
+   [Karsai, Marton] Renyi Alfred Inst Math, H-1053 Budapest, Hungary.
+C3 Corvinus University Budapest; Hungarian Academy of Sciences; Hungarian
+   Research Network; HUN-REN Alfred Renyi Institute of Mathematics
+RP Bokányi, E (corresponding author), Corvinus Univ Budapest, Lab Networks Technol & Innovat, H-1093 Budapest, Hungary.; Bokányi, E (corresponding author), ELKH Ctr Econ & Reg Studies, Agglomerat & Social Networks Lendulet Res Grp, H-1097 Budapest, Hungary.
+EM bokanyi.eszter@krtk.hu
+RI Karsai, Marton/M-6684-2015
+OI Juhasz, Sandor/0000-0003-3124-8597; Bokanyi, Eszter/0000-0002-8625-1139;
+   Karsai, Marton/0000-0001-5382-8950
+FU New National Excellence Program of the Ministry for Innovation and
+   Technology from the National Research, Development and Innovation Fund
+   of Hungary [UNKP-20-4]; H2020 SoBigData++ project [H2020-871042];
+   DataRedux ANR project [ANR-19-CE46-0008]; Hungarian Scientific Research
+   Fund [OTKA K-138970]; Agence Nationale de la Recherche (ANR)
+   [ANR-19-CE46-0008] Funding Source: Agence Nationale de la Recherche
+   (ANR)
+FX Eszter Bokanyi was supported by the UNKP-20-4 New National Excellence
+   Program of the Ministry for Innovation and Technology from the source of
+   the National Research, Development and Innovation Fund of Hungary.
+   Marton Karsai acknowledges support from the H2020 SoBigData++ project
+   (H2020-871042) and the DataRedux ANR project (ANR-19-CE46-0008). Balazs
+   Lengyel and Sandor Juhasz acknowledge support from the Hungarian
+   Scientific Research Fund (OTKA K-138970). We thank for the usage of ELKH
+   Cloud (https://science-cloud.hu/) that significantly helped us achieving
+   the results published in this paper. We thank Jozsef Steger for helping
+   in the maintenance of the Twitter database, and Szabolcs Toth-Zs.
+   (https://bandart.eu/) for figure design.
+CR Abitbol JL, 2020, NAT MACH INTELL, V2, P684, DOI 10.1038/s42256-020-00243-5
+   Ananat EO, 2011, AM ECON J-APPL ECON, V3, P34, DOI 10.1257/app.3.2.34
+   [Anonymous], 2015, Segregated City: The Geography of Economic Segregation in America's Metros
+   Bailey M, 2020, J URBAN ECON, V118, DOI 10.1016/j.jue.2020.103264
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Blumenstock Joshua, 2019, CEPR Discussion Papers
+   Boeing G, 2019, APPL NETW SCI, V4, DOI 10.1007/s41109-019-0189-1
+   Bokányi E, 2016, PALGR COMMUN, V2, DOI 10.1057/palcomms.2016.10
+   Bokányi E, 2017, EPJ DATA SCI, V6, DOI 10.1140/epjds/s13688-017-0112-x
+   Bora Nibir, 2014, Social Computing, Behavioral-Cultural Modeling and Prediction. 7th International Conference, SBP 2014. Proceedings: LNCS 8393, P11, DOI 10.1007/978-3-319-05579-4_2
+   Calabrese F, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0020814
+   Chodrow PS, 2017, P NATL ACAD SCI USA, V114, P11591, DOI 10.1073/pnas.1708201114
+   Chong SK, 2020, EPJ DATA SCI, V9, DOI 10.1140/epjds/s13688-020-00234-x
+   Dahlin E, 2008, SOCIOL QUART, V49, P719, DOI 10.1111/j.1533-8525.2008.00133.x
+   Dannemann T, 2018, ROY SOC OPEN SCI, V5, DOI 10.1098/rsos.180749
+   Dong XW, 2020, EPJ DATA SCI, V9, DOI 10.1140/epjds/s13688-020-00238-7
+   Duranton G, 2020, J ECON PERSPECT, V34, P3, DOI 10.1257/jep.34.3.3
+   Eagle N, 2010, SCIENCE, V328, P1029, DOI 10.1126/science.1186605
+   Eagle N, 2009, P NATL ACAD SCI USA, V106, P15274, DOI 10.1073/pnas.0900282106
+   Florez M. A., 2016, TRANSP RES BOARD 96, V17
+   Fry Richard., 2012, PEW Charitable Trusts Rep
+   Glaeser E, 2011, SCIENCE, V333, P592, DOI 10.1126/science.1209264
+   Glaeser EL, 2009, J REGIONAL SCI, V49, P617, DOI 10.1111/j.1467-9787.2009.00627.x
+   Hargittai E, 2011, NEW MEDIA SOC, V13, P824, DOI 10.1177/1461444811405805
+   Heine C, 2021, PLOS ONE, V16, DOI 10.1371/journal.pone.0247996
+   HUCHRA JP, 1982, ASTROPHYS J, V257, P423, DOI 10.1086/160000
+   Jacobs J., 2011, DEATH LIFE GREAT AM, DOI DOI 10.1002/9781119084679.CH4
+   Jiang S, 2016, P NATL ACAD SCI USA, V113, pE5370, DOI 10.1073/pnas.1524261113
+   Joseph Kenneth, 2014, Social Computing, Behavioral-Cultural Modeling and Prediction. 7th International Conference, SBP 2014. Proceedings: LNCS 8393, P75, DOI 10.1007/978-3-319-05579-4_10
+   Kallus Z, 2017, COMM COM INF SC, V778, P3, DOI 10.1007/978-3-319-67597-8_1
+   Kallus Z, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0126713
+   Kondor, 2014, P 26 INT C SCI STAT, DOI [10.1145/2618243.2618245, DOI 10.1145/2618243.2618245]
+   Kwon Y, 2010, LECT NOTES COMPUT SC, V6187, P132, DOI 10.1007/978-3-642-13818-8_11
+   Lambiotte R, 2008, PHYSICA A, V387, P5317, DOI 10.1016/j.physa.2008.05.014
+   Dobos L, 2013, INT CONF COGN INFO, P289, DOI 10.1109/CogInfoCom.2013.6719259
+   Leo Y, 2016, J R SOC INTERFACE, V13, DOI 10.1098/rsif.2016.0598
+   Malik M. M., 2015, Proceedings of the International AAAI Conference on Web and Social Media, DOI [DOI 10.1609/ICWSM.V9I4.14688, https://doi.org/10.1609/icwsm.v9i4.14688]
+   MASSEY DS, 1988, SOC FORCES, V67, P281, DOI 10.2307/2579183
+   McNeill G, 2017, EPJ DATA SCI, V6, DOI 10.1140/epjds/s13688-017-0120-x
+   Mislove A., 2011, ICWSM
+   Morales AJ, 2019, ROY SOC OPEN SCI, V6, DOI 10.1098/rsos.190573
+   Morstatter F, 2014, WWW'14 COMPANION: PROCEEDINGS OF THE 23RD INTERNATIONAL CONFERENCE ON WORLD WIDE WEB, P555, DOI 10.1145/2567948.2576952
+   Nieuwenhuis J, 2020, URBAN STUD, V57, P176, DOI 10.1177/0042098018807628
+   Norbutas L, 2018, SOC NETWORKS, V52, P120, DOI 10.1016/j.socnet.2017.06.002
+   Pappalardo L, 2015, PROCEEDINGS 2015 IEEE INTERNATIONAL CONFERENCE ON BIG DATA, P871, DOI 10.1109/BigData.2015.7363835
+   Pfeffer J, 2018, EPJ DATA SCI, V7, DOI 10.1140/epjds/s13688-018-0178-0
+   Roberto E, 2018, SOCIOL METHODOL, V48, P182, DOI 10.1177/0081175018796871
+   Sampson RJ, 2008, AM J SOCIOL, V114, P189, DOI 10.1086/589843
+   Sloan L, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0115545
+   Small ML, 2019, ANNU REV SOCIOL, V45, P111, DOI 10.1146/annurev-soc-073018-022707
+   Storper M, 2004, J ECON GEOGR, V4, P351, DOI 10.1093/jnlecg/lbh027
+   Szüle J, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0111973
+   Tóth G, 2021, NAT COMMUN, V12, DOI 10.1038/s41467-021-21465-0
+   van Ham M., 2018, DIVIDED CITIES, V615159, P135, DOI [10.1787/9789264300385-8-en, DOI 10.1787/9789264300385-8-EN]
+   Viry G, 2012, SOC NETWORKS, V34, P59, DOI 10.1016/j.socnet.2011.07.003
+   Wang Q, 2018, P NATL ACAD SCI USA, V115, P7735, DOI 10.1073/pnas.1802537115
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Webster T., 2010, EDISON RES ARBITRON
+   Yip NM, 2016, CITIES, V59, P156, DOI 10.1016/j.cities.2016.02.003
+NR 59
+TC 12
+Z9 12
+U1 1
+U2 10
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD OCT 21
+PY 2021
+VL 11
+IS 1
+AR 20829
+DI 10.1038/s41598-021-00416-1
+PG 10
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA WK7VO
+UT WOS:000709931300064
+PM 34675333
+OA gold, Green Published, Green Accepted
+DA 2024-11-22
+ER
+
+PT J
+AU Zhang, YN
+   Wu, Z
+AF Zhang, Yining
+   Wu, Zhong
+TI Research on the spatial association network structure for innovation
+   efficiency of China's new energy vehicle industry and its influencing
+   factors
+SO PLOS ONE
+LA English
+DT Article
+ID CARBON-DIOXIDE EMISSIONS; SPILLOVERS; LOCALIZATION; FLEET
+AB It is of great significance to study the spatial network of the new energy vehicle (NEV) industry innovation efficiency and its factors to promote the rational allocation of innovative resources and the coordinated development of Chinese NEV industry. First, the Super Efficiency Data Envelope Analysis model is used to measure innovation efficiency in the NEV industry in Chinese provinces, and based on the results, the improved gravity model is applied to construct a spatial correlation network. Then, by applying social network analysis (SNA) to study NEV industry development node spatial correlations, we conclude that there is no overall hierarchical structure. The SNA are applied to examine spatial correlations with respect to NEV industry innovation efficiency in each province, and to analyze the role and position of each province in the spatial correlation network. Finally, the influencing factors of spatial correlation of the innovation efficiency of China's NEV industry has been discussed. The result shows that the difference in spatial distance and R&D investment has a significant impact on the spatial correlation of the NEV industry.
+C1 [Zhang, Yining; Wu, Zhong] Univ Shanghai Sci & Technol, Business Sch, Shanghai, Peoples R China.
+C3 University of Shanghai for Science & Technology
+RP Zhang, YN (corresponding author), Univ Shanghai Sci & Technol, Business Sch, Shanghai, Peoples R China.
+EM zynamn@163.com
+RI Zhang, Yining/AHB-5771-2022
+CR Almeida P, 1999, MANAGE SCI, V45, P905, DOI 10.1287/mnsc.45.7.905
+   [Anonymous], 2021, JIANGSU SCI TECH INF, V38, P78, DOI [10.1007/s11356-021-15232-3, DOI 10.1007/S11356-021-15232-3]
+   Archambault É, 2002, SCIENTOMETRICS, V54, P15, DOI 10.1023/A:1015654903218
+   Archibugi D., 1992, SCI PUBL POLICY, V19, P357
+   Bai CQ, 2020, J ENVIRON MANAGE, V253, DOI 10.1016/j.jenvman.2019.109765
+   Bottazzi L, 2003, EUR ECON REV, V47, P687, DOI 10.1016/S0014-2921(02)00307-0
+   Chen SB, 2021, MATH PROBL ENG, V2021, DOI 10.1155/2021/6613602
+   Chen Y., 2018, SOFT SCI, V3, P14
+   Fang SR, 2020, SUSTAINABILITY-BASEL, V12, DOI 10.3390/su12187509
+   Fatemi M, 2021, ENVIRON DEV SUSTAIN, V23, P17535, DOI 10.1007/s10668-021-01399-9
+   Groenewold N, 2008, CHINA ECON REV, V19, P32, DOI 10.1016/j.chieco.2007.10.002
+   Groenewold N, 2007, PAP REG SCI, V86, P101, DOI 10.1111/j.1435-5957.2007.00112.x
+   Hanhua Shao., 2018, RES SCI SCI, V36, P2055, DOI [10.16192/j.cnki.1003-2053.2018.11.016, DOI 10.16192/J.CNKI.1003-2053.2018.11.016]
+   Hou SY, 2021, SUSTAINABILITY-BASEL, V13, DOI 10.3390/su13020472
+   Keller W, 2002, AM ECON REV, V92, P120, DOI 10.1257/000282802760015630
+   Li Z, 2018, J DISCRET MATH SCI C, V21, P895, DOI 10.1080/09720529.2018.1480276
+   Liu H., 2015, CHIN IND EC, V5, P83, DOI [10.19581/j.cnki.ciejournal.2015.05.008, DOI 10.19581/J.CNKI.CIEJOURNAL.2015.05.008]
+   Liu JH, 2017, PROCEDIA ENGINEER, V174, P965, DOI 10.1016/j.proeng.2017.01.248
+   Nabiafjadi S, 2021, J ENVIRON MANAGE, V288, DOI 10.1016/j.jenvman.2021.112376
+   Teixeira ACR, 2016, ENERGY, V115, P1617, DOI 10.1016/j.energy.2016.07.095
+   Shufen Guo., 2018, SCI RES MANAGEMENT, V39, P55, DOI [10.19571/j.cnki.1000-2995.2018.04.006, DOI 10.19571/J.CNKI.1000-2995.2018.04.006]
+   Trost T, 2017, ENERGY, V141, P1215, DOI 10.1016/j.energy.2017.10.006
+   Wang FL, 2020, SYMMETRY-BASEL, V12, DOI 10.3390/sym12111773
+   Xu XL, 2020, CLEAN TECHNOL ENVIR, V22, P1671, DOI 10.1007/s10098-020-01908-w
+   Yang Gao., 2016, IND TECHNOLOGY EC, V35, P47
+   Yingjie Zhang., 2018, REPORT REGIONAL INNO, P06
+   Yuan XL, 2015, RENEW SUST ENERG REV, V42, P298, DOI 10.1016/j.rser.2014.10.016
+   Ywab C., J CLEAN PROD, P261, DOI [10.1016/j.jclepro.2020.121222, DOI 10.1016/J.JCLEPRO.2020.121222]
+NR 28
+TC 7
+Z9 7
+U1 8
+U2 97
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD AUG 26
+PY 2021
+VL 16
+IS 8
+AR e0255516
+DI 10.1371/journal.pone.0255516
+PG 17
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA US1HA
+UT WOS:000697186000022
+PM 34437588
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Jiang, SY
+   Wang, H
+AF Jiang, Shuyang
+   Wang, Hu
+TI Group Polarization Based on Agent Emotional Characteristics and
+   Credibility
+SO COMPLEXITY
+LA English
+DT Article
+ID GROUP DECISION-MAKING; OPINION DYNAMICS; SOCIAL NETWORKS; PROPAGATION;
+   MODELS; TRUST
+AB The frequent occurrence of group polarization in many internet mass incidents produces adverse impacts on the social stability and poses a significant challenge for social management. We construct an opinion evolution model with agent emotional characteristics and credibility based on the Deffuant model to study the evolutionary mechanism of group polarization, which connects the agent's firmness with the agent's opinion, taking a full account of the agent heterogeneity. We analyze the impacts of initial opinion distribution, network structure, and opinion leader on the group opinion evolution. The results show that group polarization is easier to form when the initial opinions are in a normal distribution, and group polarization will also form under the impact of initial minority agents with extreme opinions. Different network structures will pose different effects on the group opinion evolution, and group polarization is easier to form in the small-world network and BA scale-free network. In addition, opinion leader also affects the group opinion evolution, and it will hinder the generation of group polarization.
+C1 [Jiang, Shuyang; Wang, Hu] Southeast Univ, Sch Econ & Management, Nanjing 211189, Peoples R China.
+C3 Southeast University - China
+RP Wang, H (corresponding author), Southeast Univ, Sch Econ & Management, Nanjing 211189, Peoples R China.
+EM whseu94@163.com
+OI Wang, Hu/0000-0002-6568-1017
+FU Fundamental Research Funds for the Central Universities and Scientific
+   Research Foundation of Graduate School of Southeast University
+   [YBPY2146]
+FX This research was supported by the Fundamental Research Funds for the
+   Central Universities and Scientific Research Foundation of Graduate
+   School of Southeast University (YBPY2146).
+CR Altafini C, 2018, AUTOMATICA, V93, P114, DOI 10.1016/j.automatica.2018.03.064
+   Amblard F, 2004, PHYSICA A, V343, P725, DOI 10.1016/j.physa.2004.06.102
+   Benatti A, 2020, J STAT MECH-THEORY E, V2020, DOI 10.1088/1742-5468/ab6de3
+   Brandt MJ, 2015, PSYCHOL SCI, V26, P189, DOI 10.1177/0956797614559730
+   Burghardt K, 2016, PHYS REV E, V93, DOI 10.1103/PhysRevE.93.032305
+   Cao MS, 2021, IEEE T SYST MAN CY-S, V51, P6134, DOI 10.1109/TSMC.2019.2960052
+   Castellano C, 2009, REV MOD PHYS, V81, P591, DOI 10.1103/RevModPhys.81.591
+   Chen X, 2017, COMPLEXITY, DOI 10.1155/2017/5802182
+   Cheng ZC, 2016, PHYSICA A, V461, P429, DOI 10.1016/j.physa.2016.06.038
+   Deffuant G, 2002, JASSS-J ARTIF SOC S, V5
+   Deffuant G, 2000, APPLICATIONS OF SIMULATION TO SOCIAL SCIENCES, P87, DOI 10.1142/S0219525900000078
+   Deffuant G., 2004, Modelling group opinion shift to extreme: the smooth bounded confidence model
+   Deffuant G, 2006, JASSS-J ARTIF SOC S, V9
+   Del Vicario M, 2016, SCI REP-UK, V6, DOI 10.1038/srep37825
+   Dong YC, 2019, KNOWL-BASED SYST, V175, P87, DOI 10.1016/j.knosys.2019.03.010
+   Fang AL, 2020, COMPLEXITY, V2020, DOI 10.1155/2020/8261392
+   Frasca P, 2019, AUTOMATICA, V100, P153, DOI 10.1016/j.automatica.2018.11.017
+   Galam S, 1997, PHYSICA A, V238, P66, DOI 10.1016/S0378-4371(96)00456-6
+   Galam S, 2002, EUR PHYS J B, V25, P403, DOI 10.1140/epjb/e20020045
+   Galam S, 2007, PHYSICA A, V381, P366, DOI 10.1016/j.physa.2007.03.034
+   Ghaderi J, 2014, AUTOMATICA, V50, P3209, DOI 10.1016/j.automatica.2014.10.034
+   Hashemi E, 2018, IEEE T INTELL TRANSP, V19, P2142, DOI 10.1109/TITS.2017.2724852
+   Helbing D, 2015, J STAT PHYS, V158, P735, DOI 10.1007/s10955-014-1024-9
+   Jedrzejewski A, 2018, PHYSICA A, V505, P306, DOI 10.1016/j.physa.2018.03.077
+   Kim Y, 2019, COMPUT HUM BEHAV, V99, P219, DOI 10.1016/j.chb.2019.05.022
+   Li K, 2020, INFORM FUSION, V56, P1, DOI 10.1016/j.inffus.2019.09.006
+   Mobilia M, 2007, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2007/08/P08029
+   Mobilia M, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.028701
+   Olivares G, 2019, COMPLEXITY, DOI 10.1155/2019/5854037
+   Perc M, 2019, SCI REP-UK, V9, DOI 10.1038/s41598-019-53300-4
+   Sobkowicz P, 2015, FRONT PHYS-LAUSANNE, V3, DOI 10.3389/fphy.2015.00017
+   Su W, 2017, AUTOMATICA, V85, P448, DOI 10.1016/j.automatica.2017.08.008
+   Sznajd-Weron K, 2011, EPL-EUROPHYS LETT, V96, DOI 10.1209/0295-5075/96/48002
+   Ureña R, 2019, INFORM SCIENCES, V478, P461, DOI 10.1016/j.ins.2018.11.037
+   Walla P, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0026782
+   Weisbuch G., 2003, Heterogenous Agents, Interactions and Economic Performance, P225, DOI 10.1007/978-3-642-55651-7_14
+   Woolcock A, 2017, PHYS REV E, V96, DOI 10.1103/PhysRevE.96.032313
+   Wu J, 2019, COMPUT IND ENG, V127, P853, DOI 10.1016/j.cie.2018.11.020
+NR 38
+TC 1
+Z9 1
+U1 8
+U2 76
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1076-2787
+EI 1099-0526
+J9 COMPLEXITY
+JI Complexity
+PD AUG 20
+PY 2021
+VL 2021
+AR 9983541
+DI 10.1155/2021/9983541
+PG 12
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Mathematics; Science & Technology - Other Topics
+GA UJ2JC
+UT WOS:000691117300001
+OA gold
+DA 2024-11-22
+ER

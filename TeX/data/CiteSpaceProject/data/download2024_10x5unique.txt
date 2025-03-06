@@ -1,0 +1,594 @@
+
+PT J
+AU Lewis, K
+AF Lewis, Kevin
+TI Digital networks: Elements of a theoretical framework
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Internet; Online interaction; Computational social science;
+   Tie-generating mechanisms; Theory
+ID COLLEGE-STUDENTS USE; RANDOM GRAPH MODELS; SOCIAL NETWORKS; PREFERENCES;
+   INTERNET; CONTEXT; MATE; CHALLENGES; FRIENDS; FEATHER
+AB The proliferation of new, digital communications technologies and platforms over the past few decades has transformed the way humans relate to one another. In turn, there has been an explosion of scientific research using data on these interactions to better understand how social networks emerge and evolve. Curiously, this agenda has proceeded with little theoretical foundation-typically assuming digital and face-to-face ties operate the same way. The purpose of this article is to interrogate this assumption: I identify when, how, and to what consequence digital networks are similar to and different from other kinds of social networks and thereby attempt to strengthen the available theoretical scaffolding for this important and rapidly growing body of work.
+C1 [Lewis, Kevin] Univ Calif San Diego, Dept Sociol, 9500 Gilman Dr, La Jolla, CA 92093 USA.
+C3 University of California System; University of California San Diego
+RP Lewis, K (corresponding author), Univ Calif San Diego, Dept Sociol, 9500 Gilman Dr, La Jolla, CA 92093 USA.
+EM lewis@ucsd.edu
+CR [Anonymous], 2008, Born Digital: Understanding the First Generation of Digital Natives
+   [Anonymous], 2011, Everything is Obvious (Once you know the answer)
+   Ansari Aziz., 2015, Modern Romance
+   Blau P.M., 1977, INEQUALITY HETEROGEN
+   Block P, 2018, SOCIOL SCI, V5, P402, DOI 10.15195/v5.a18
+   Block P, 2014, NETW SCI, V2, P189, DOI 10.1017/nws.2014.17
+   Block P, 2015, SOC NETWORKS, V40, P163, DOI 10.1016/j.socnet.2014.10.005
+   Borgatti S.P., 2011, The SAGE handbook of social network analysis, P40, DOI DOI 10.4135/9781446294413
+   Borgatti SP., 2018, ANAL SOCIAL NETWORKS
+   Boyd DM, 2007, J COMPUT-MEDIAT COMM, V13, P210, DOI 10.1111/j.1083-6101.2007.00393.x
+   Brown LaurenSophie., 2011, PRESENTATION SELF DI
+   Bruch E, 2017, ANNU REV SOCIOL, V43, P207, DOI 10.1146/annurev-soc-060116-053622
+   Bruch E, 2016, P NATL ACAD SCI USA, V113, P10530, DOI 10.1073/pnas.1522494113
+   Burt RS, 2012, AM J SOCIOL, V118, P543, DOI 10.1086/667856
+   Butts CT, 2008, SOCIOL METHODOL, V38, P155, DOI 10.1111/j.1467-9531.2008.00203.x
+   CREEBER G., 2009, DIGITAL CULTURES UND
+   Curington CV, 2020, RACE SOC PROBL, V12, P195, DOI 10.1007/s12552-020-09295-z
+   Das S., 2013, Proc. Int. AAAI Conf. Web Social Media, P120, DOI [DOI 10.1609/ICWSM.V7I1.14412, 10.1609/icwsm.v7i1.14412]
+   de Nooy W, 2011, SOC NETWORKS, V33, P31, DOI 10.1016/j.socnet.2010.09.003
+   Downey DB, 2020, AM J SOCIOL, V125, P1030, DOI 10.1086/707985
+   Dunbar RIM, 2015, SOC NETWORKS, V43, P39, DOI 10.1016/j.socnet.2015.04.005
+   Earl J., 2011, DIGITALLY ENABLED SO
+   Edelmann A, 2020, ANNU REV SOCIOL, V46, P61, DOI 10.1146/annurev-soc-121919-054621
+   Ellison N, 2006, J COMPUT-MEDIAT COMM, V11
+   EMIRBAYER M, 1994, AM J SOCIOL, V99, P1411, DOI 10.1086/230450
+   Evans JSBT, 2008, ANNU REV PSYCHOL, V59, P255, DOI 10.1146/annurev.psych.59.103006.093629
+   FELD SL, 1981, AM J SOCIOL, V86, P1015, DOI 10.1086/227352
+   Fischer C.S., 1994, AM CALLING SOCIAL HI
+   Fountain C, 2005, SOC FORCES, V83, P1235, DOI 10.1353/sof.2005.0030
+   Frost JH, 2008, J INTERACT MARK, V22, P51, DOI 10.1002/dir.20107
+   Fuhse J., 2020, The Oxford Handbook of Social Networks, P34
+   Fuhse JA, 2009, SOCIOL THEOR, V27, P51, DOI 10.1111/j.1467-9558.2009.00338.x
+   Fuhse Jan A., 2015, Emerging Trends in the Social and Behavioral Sciences
+   Garton L., 1995, Communication Yearbook 18, P434, DOI [10.1080/23808985.1995.11678923, DOI 10.1080/23808985.1995.11678923]
+   Gere charlie., 2008, DIGITAL CULTURE
+   Gibson DR, 2005, AM J SOCIOL, V110, P1561, DOI 10.1086/428689
+   Golder SA, 2014, ANNU REV SOCIOL, V40, P129, DOI 10.1146/annurev-soc-071913-043145
+   Gonçalves B, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0022656
+   Goodreau SM, 2009, DEMOGRAPHY, V46, P103, DOI 10.1353/dem.0.0045
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Hampton KN, 2017, ANNU REV SOCIOL, V43, P167, DOI 10.1146/annurev-soc-060116-053505
+   Hill RA, 2003, HUM NATURE-INT BIOS, V14, P53, DOI 10.1007/s12110-003-1016-y
+   Hogan B., 2010, B SCI TECHNOL SOC, V30, P377, DOI DOI 10.1177/0270467610385893
+   Ito M, 2005, COMP SUPP COMP W SER, P131
+   Johnson AJ, 2008, J COMPUT-MEDIAT COMM, V13, P381, DOI 10.1111/j.1083-6101.2008.00401.x
+   Kalmijn M, 1998, ANNU REV SOCIOL, V24, P395, DOI 10.1146/annurev.soc.24.1.395
+   Kalmijn M, 2001, SOC FORCES, V79, P1289, DOI 10.1353/sof.2001.0044
+   Kaufer David., 1993, COMMUNICATION DISTAN
+   KIESLER S, 1984, AM PSYCHOL, V39, P1123, DOI 10.1037/0003-066X.39.10.1123
+   Kitts JA, 2021, SOC NETWORKS, V66, P161, DOI 10.1016/j.socnet.2021.01.004
+   Kitts JA, 2014, ADV GROUP PROCESS, V31, P263, DOI 10.1108/S0882-614520140000031007
+   Kitts James A., 2020, Oxford Handbook of Social Networks, P71
+   Kossinets G, 2009, AM J SOCIOL, V115, P405, DOI 10.1086/599247
+   Kross E, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0069841
+   Laumann E., 1983, Applied Network Analysis, P18
+   Lazer D, 2017, ANNU REV SOCIOL, V43, P19, DOI 10.1146/annurev-soc-060116-053457
+   Lazer D, 2009, SCIENCE, V323, P721, DOI 10.1126/science.1167742
+   Leung L., 2007, TELEMAT INFORM, V24, P115, DOI [10.1016/j.tele.2006.01.002, DOI 10.1016/J.TELE.2006.01.002]
+   Lewis K, 2020, SOC FORCES, V98, P1829, DOI 10.1093/sf/soz106
+   Lewis K, 2018, AM J SOCIOL, V123, P1684, DOI 10.1086/697525
+   Lewis K, 2015, BIG DATA SOC, V2, DOI 10.1177/2053951715602496
+   Lewis K, 2016, SOC FORCES, V95, P283, DOI 10.1093/sf/sow036
+   Lewis Kevin, 2015, Emerging Trends in the Social and Behavioral Sciences
+   Logan JA, 2008, J AM STAT ASSOC, V103, P559, DOI 10.1198/016214507000000996
+   Marwick AE, 2011, NEW MEDIA SOC, V13, P114, DOI 10.1177/1461444810365313
+   McFarland DA, 2014, AM SOCIOL REV, V79, P1088, DOI 10.1177/0003122414554001
+   McLean Paul., 2017, CULTURE IN NETWORKS
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Menchik DA, 2008, AM J SOCIOL, V114, P332, DOI 10.1086/590650
+   Pachucki MA, 2010, ANNU REV SOCIOL, V36, P205, DOI 10.1146/annurev.soc.012809.102615
+   Pager D, 2003, AM J SOCIOL, V108, P937, DOI 10.1086/374403
+   Payne JW, 1999, J RISK UNCERTAINTY, V19, P243, DOI 10.1023/A:1007843931054
+   PAYNE JW, 1992, ANNU REV PSYCHOL, V43, P87, DOI 10.1146/annurev.ps.43.020192.000511
+   Perrin A., 2019, About three-in-ten US adults say they are 'almost constantly'online
+   Rivera LA, 2012, AM SOCIOL REV, V77, P999, DOI 10.1177/0003122412463213
+   Rivera MT, 2010, ANNU REV SOCIOL, V36, P91, DOI 10.1146/annurev.soc.34.040507.134743
+   Robins G, 2007, SOC NETWORKS, V29, P173, DOI 10.1016/j.socnet.2006.08.002
+   Rosenfeld MJ, 2019, P NATL ACAD SCI USA, V116, P17753, DOI 10.1073/pnas.1908630116
+   Rosenfeld MJ, 2012, AM SOCIOL REV, V77, P523, DOI 10.1177/0003122412448050
+   Simmel Georg., 1971, On Individuality and Social Forms: Selected Writings
+   SLOVIC P, 1995, AM PSYCHOL, V50, P364, DOI 10.1037/0003-066X.50.5.364
+   Small M.L., 2017, Someone to talk to: How networks matter in practice
+   Small ML, 2019, ANNU REV SOCIOL, V45, P111, DOI 10.1146/annurev-soc-073018-022707
+   Snijders TAB, 2015, SOCIOL METHOD RES, V44, P222, DOI 10.1177/0049124113494573
+   Snijders TAB, 2010, SOC NETWORKS, V32, P44, DOI 10.1016/j.socnet.2009.02.004
+   SPROULL L, 1986, MANAGE SCI, V32, P1492, DOI 10.1287/mnsc.32.11.1492
+   Stadtfeld C, 2017, SOCIOL SCI, V4, P318, DOI 10.15195/v4.a14
+   Thomas RJ, 2020, SOC FORCES, V98, P1257, DOI 10.1093/sf/soz060
+   Thomas RJ, 2019, SOCIOL PERSPECT, V62, P822, DOI 10.1177/0731121419828399
+   Thumim N, 2012, SELF-REPRESENTATION AND DIGITAL CULTURE, P1, DOI 10.1057/9781137265135
+   Tilcsik A, 2011, AM J SOCIOL, V117, P586, DOI 10.1086/661653
+   Turkle S., 2011, Alone Together: Why we Expect More from Technology and Less from Each Other, P360
+   Turkle S., 2016, RECLAIMING CONVERSAT
+   Uslaner EM, 2004, POLIT COMMUN, V21, P223, DOI 10.1080/10584600490443895
+   VERBRUGGE LM, 1977, SOC FORCES, V56, P576, DOI 10.2307/2577741
+   Vitak J, 2014, J BROADCAST ELECTRON, V58, P470, DOI 10.1080/08838151.2014.935944
+   Walther JB, 1996, COMMUN RES, V23, P3, DOI 10.1177/009365096023001001
+   Wellman B, 1996, ANNU REV SOCIOL, V22, P213, DOI 10.1146/annurev.soc.22.1.213
+   Wellman B, 1999, CONTEMP SOCIOL, V28, P648, DOI 10.2307/2655535
+   WELLMAN B, 1979, URBAN AFF REV, V14, P363, DOI 10.1177/107808747901400305
+   Wellman B, 2001, AM BEHAV SCI, V45, P436, DOI 10.1177/00027640121957286
+   Wellman B., 1999, NETWORKS GLOBAL VILL, P1
+   Wimmer A, 2010, AM J SOCIOL, V116, P583, DOI 10.1086/653658
+   Zeng Z, 2008, AM J SOCIOL, V114, P615, DOI 10.1086/592863
+   Zisiadis George, 2011, A community of strangers: how CouchSurfing represents a new model for scalable giving
+NR 105
+TC 2
+Z9 2
+U1 4
+U2 6
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD MAY
+PY 2024
+VL 77
+BP 31
+EP 42
+DI 10.1016/j.socnet.2021.12.002
+EA FEB 2024
+PG 12
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA LQ4F9
+UT WOS:001188248400001
+OA hybrid
+DA 2024-11-22
+ER
+
+PT J
+AU Yazew, BT
+   Kassa, G
+AF Yazew, Bisrat Teklesilassie
+   Kassa, Getachew
+TI Social structure and clan group networks of Afar pastorals along the
+   Lower Awash Valley
+SO HUMANITIES & SOCIAL SCIENCES COMMUNICATIONS
+LA English
+DT Article
+AB The study examined how Afar society's clan structure and societal hierarchies were established. The links of customary law (maa'da) practices, traditional communication (dagu), and social networks (affehina) were found to be significant in the social structure for how members perform social interactions. A qualitative method was applied, which involved Key informant interviews, focused group discussions, and observation techniques as data-gathering tools. The data was interpreted using a thematic analysis technique. Accordingly, the study explored that the administrative and social structure of the society consisted of the sultanate, the clan, and youth social groups. Each social unit has its distinct functions. A clan is the highest and most territorially located social organization. In addition, it was identified that network ties would be more commonly used to depict member's interactions within the clan's network structure. However, the clan's territory (dinto) is not changeable as the season changes. The customary law applications are identified as a system of governing and controlling the social structure, social interactions, anti-social behaviours, and clan networks, with no change and differences in contents and practices in all clan groups. Furthermore, the expansion of small cities gradual change to urban centres, economic inequalities, and recurrent drought resulted in the decline of traditional norms and mutual social trusts. As a result, the study concluded that to sustain the traditional knowledge and social structure in facilitating clan vital networks, implementing visible policies will benefit the society, the government, and stakeholders to plan out effective mechanisms to preserve the sociocultural worth of the Afar pastoral societies in particular and other social groups in the country in general.
+C1 [Yazew, Bisrat Teklesilassie; Kassa, Getachew] Addis Ababa Univ, Coll Social Sci & Humanities, Ctr African & Asian Studies, Addis Ababa, Ethiopia.
+C3 Addis Ababa University
+RP Yazew, BT (corresponding author), Addis Ababa Univ, Coll Social Sci & Humanities, Ctr African & Asian Studies, Addis Ababa, Ethiopia.
+EM bisrat.tsilassie@aau.edu.et
+OI Negusse, Getachew Kassa/0009-0005-5999-3988
+CR Abdu E, 2021, COGENT ECON FINANC, V9, DOI 10.1080/23322039.2021.1920149
+   Abdulfetah A, 2018, Maa'da-Afar People Customary law, P149
+   AfDB O., 2022, Africa's Urbanisation Dynamics, P4
+   Ali Said, 1997, Pastoralists, Ethnicity and the State in Ethiopia
+   [Anonymous], 2004, Harper Collins P. L.PP-179, V184, P234
+   ANRS, 2022, Afar Regional Council, Annual Report
+   Aspers Patrik, 2009, Indo-Pac. j. phenomenol. (Online), V9, P1
+   Awol Y, 1999, Afar women in the process of socio-economic and political development of Afar national regional state
+   Balsa-Barreiro J, 2021, COMPLEXITY, V2021, DOI 10.1155/2021/8632086
+   Barabasi AL, 2013, Network Science, P1
+   Bernardi L, 2014, DEMOGR RES, V30, P641, DOI 10.4054/DemRes.2014.30.22
+   Borgatti SP, 2003, J MANAGE, V29, P991, DOI 10.1016/S0149-2063(03)00087-4
+   Bujra A, 2002, Occasional Paper, No. 4
+   Burt RS, 2000, RES ORGAN BEHAV, V22, P345, DOI 10.1016/S0191-3085(00)22009-1
+   Callinicos A., 2007, Anthony Giddens: A Contemporary Critique. Theory"and Society, V14, P133
+   Cossins NJ, 1973, A study of new cotton wealth of the old Afar Sultanate of Aussa, P17
+   Cote R., 2019, American Journal of Management, V19, P19, DOI [10.33423/ajm.v19i3.2187, DOI 10.33423/AJM.V19I3.2187]
+   Cresswell J.W., 2009, RES DESIGN QUALITATI
+   Crothers C, 2010, Encyclopaedia of Life Support Systems (EOLSS), P5
+   Crozers C, 2012, Analyzing social structures. Sociological landscape, theories, realities, and trends, P10
+   CSA (Central Statistical Authority), 2016, Report on livestock and livestock characteristics (Private Peasant Holdings), VII
+   EASTERLY W, 2006, EC POLITICS, V0018
+   EEA-SDARAGP, 2021, Socioeconomic development in Afar region achievements, gaps, and priorities, P18
+   Freeman L., 2004, DEV SOCIAL NETWORK A, P687
+   Getachew K, 2002, Ethiopian studies at the end of the second millennium, V2
+   Habib M, 2019, The History of Afar adal people, P266
+   Jamaladin I, 2015, History of the Afar and its Sources and sources, P45
+   Kassa G., 2004, Migration, Resettlement and Displacement in Ethiopia, P222
+   Levi-Strauss C., 1969, ELEMENTARY STRUCTURE
+   Lois D, 2016, DEMOGR RES, V34, P657, DOI 10.4054/DemRes.2016.34.23
+   Luhmann K, 1996, Social Systems
+   Ma CMS, 2022, INT J ENV RES PUB HE, V19, DOI 10.3390/ijerph191811462
+   Markakis John., 2011, ETHIOPIA LAST 2 FRON
+   Martin, 2015, Social Structures, P25
+   Mohammed H., 2011, Ethiop EJOSSAH, VVII, pNos.12
+   Muauz GA, 2018, A critical analysis of ISSA-AFAR violence in Ethiopia and the imperative for constructive transformation
+   Nevard I, 2021, SOC PSYCH PSYCH EPID, V56, P169, DOI 10.1007/s00127-020-01968-9
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   onilee & Spencer, 2007, Research design: qualitative and quantitative approaches, P419
+   PARSONS T, 1951, AM J ORTHOPSYCHIAT, V21, P452, DOI 10.1111/j.1939-0025.1951.tb00003.x
+   Piguet F, 2001, Even after good rains, Afar Pastoralists remain vulnerable: UN-emergencies unit for ethiopia, multi-agency assessments missions: 15-23 June and 19-23 August 2001
+   Ravasz E, 2003, PHYS REV E, V67, DOI 10.1103/PhysRevE.67.026112
+   Reda K. T., 2011, African Journal of History and Culture (AJHC), V3, P38
+   Rice E, 2015, J SOC SOC WORK RES, V6, P369, DOI 10.1086/682723
+   Roldan M.M. H., 2017, Journal of International Technology Information Management, V26, P46, DOI DOI 10.58729/1941-6679.1311
+   Tadesse B., 2007, Afar
+   Trochim W, 2005, Research methods: the concise knowledge base, P123
+   Wallerstein I., 2004, WORLD SYSTEMS ANAL
+   Wenlin L, 2017, The International Encyclopedia of Media Effects, DOI [10.1002/9781118783764, DOI 10.1002/9781118783764]
+   Yasin M Y., 2010, Regional Dynamics of Inter-ethnic Conflicts in the Horn of Africa: An Analysis of the Afar-Somali Conflict in Ethiopia and Djibouti Dissertation Submitted in partial fulfillment of the requirements for the Doctoral of Philosophy in Political Science. Hamburg: University of Hamburg
+NR 50
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SPRINGERNATURE
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON, N1 9XW, ENGLAND
+EI 2662-9992
+J9 HUM SOC SCI COMMUN
+JI Hum. Soc. Sci. Commun.
+PD JUN 22
+PY 2024
+VL 11
+IS 1
+AR 812
+DI 10.1057/s41599-024-03344-3
+PG 20
+WC Humanities, Multidisciplinary; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Arts & Humanities - Other Topics; Social Sciences - Other Topics
+GA WC2G5
+UT WOS:001252598000002
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Smirnova, O
+   Hyslip, TS
+   Holt, TJ
+AF Smirnova, Olga
+   Hyslip, Thomas S.
+   Holt, Thomas J.
+TI Are Active Users the Most Central to Hacker Social Networks? A
+   Comparative Analysis of Public and Private Online Network Structures
+   Among Hackers
+SO DEVIANT BEHAVIOR
+LA English
+DT Article; Early Access
+ID CRIME; MARKETS; ORGANIZATION
+AB The last decade witnessed significant research of user behavior and social networks within online hacker forums and illicit markets. Researchers have used the quantifiable nature of forum posting behaviors to assess network ties between actors and identify key participants based on their connections. These studies are based on the publicly identifiable associations between actors in public posts. Participants within forums can also connect with users through private messaging systems linking users directly through a sort of e-mail-based exchange. Few have considered how the public and private message networks of actors differ and what can be gleaned from their analysis. This study employed a quantitative analysis of a highly popular web forum used by hackers involved in both legal and criminal hacks. First, the networks were built of the relationships between 1,313 users across 12,531 threads and 19,862 public posts, and between those users' 1,738 private messages. Then the centrality on hidden networks was estimated from the centrality on the visible networks. The implications of this study for policy and our understanding of online network structures are discussed.
+C1 [Smirnova, Olga] East Carolina Univ, Dept Polit Sci, Greenville, NC USA.
+   [Hyslip, Thomas S.] Univ S Florida, Dept Criminol, Tampa, FL USA.
+   [Holt, Thomas J.] Michigan State Univ, Sch Criminal Justice, E Lansing, MI USA.
+C3 University of North Carolina; East Carolina University; State University
+   System of Florida; University of South Florida; Michigan State
+   University
+RP Smirnova, O (corresponding author), East Carolina Univ, Dept Polit Sci, Master Publ Adm, Greenville, NC 27858 USA.
+EM smirnovao@ecu.edu
+CR Akers R., 1999, Social Learning and Social Structure: A General Theory of Crime and Deviance
+   Al-Khateeb S., 2016, Journal of Digital Forensics, Security Law, V11, DOI [10.15394/jdfsl.2016.1375, DOI 10.15394/JDFSL.2016.1375]
+   Angrist JD, 2009, MOSTLY HARMLESS ECONOMETRICS: AN EMPIRICISTS COMPANION, P1
+   Borgatti S.P., 2002, Analytic Technologies, VVolume 1, DOI [10.1111/j.1439-0310.2009.01613.x, DOI 10.1111/J.1439-0310.2009.01613.X]
+   Bossler A.M., 2011, Corporate Hacking and Technology-Driven Crime: Social Dynamics and Implications, P38
+   Brewer R., 2021, Researching Cybercrimes: Methodologies, Ethics, and Critical Approaches, P435, DOI [10.1007/978-3-030-74837-1_22, DOI 10.1007/978-3-030-74837-1_22, 10.1007]
+   Caiani M, 2009, INFORM COMMUN SOC, V12, P66, DOI 10.1080/13691180802158482
+   Can U, 2019, PHYSICA A, V535, DOI 10.1016/j.physa.2019.122372
+   Décary-Hétu D, 2016, SECUR J, V29, P442, DOI 10.1057/sj.2013.39
+   Décary-Hétu D, 2012, GLOB CRIME, V13, P160, DOI 10.1080/17440572.2012.702523
+   Dupont B, 2017, AM BEHAV SCI, V61, P1219, DOI 10.1177/0002764217734263
+   Duxbury SW, 2018, J QUANT CRIMINOL, V34, P921, DOI 10.1007/s10940-017-9359-4
+   Faust K, 2019, ANNU REV CRIMINOL, V2, P99, DOI 10.1146/annurev-criminol-011518-024701
+   Fu JL, 2014, J SYST SCI COMPLEX, V27, P1079, DOI 10.1007/s11424-014-3034-8
+   Holt T.J., 2015, Cybercrime in progress: Theory and prevention of technology-enabled offenses
+   Holt T.J., 2009, Crimes of the Internet, P336
+   Holt TJ, 2012, AM J CRIM JUSTICE, V37, P378, DOI 10.1007/s12103-011-9117-3
+   Holt TJ, 2007, DEVIANT BEHAV, V28, P171, DOI 10.1080/01639620601131065
+   Holt TJ, 2022, TERROR POLIT VIOLENC, V34, P364, DOI 10.1080/09546553.2019.1701446
+   Holt TJ, 2019, INT J OFFENDER THER, V63, P1127, DOI 10.1177/0306624X18811101
+   Holt TJ, 2016, J CYBERSECURITY, V2, P137, DOI 10.1093/cybsec/tyw007
+   Holt TJ, 2013, GLOB CRIME, V14, P155, DOI 10.1080/17440572.2013.787925
+   Holt TJ, 2012, INT J CYBER CRIMINOL, V6, P891
+   Holt Thomas J., 2016, Data Thieves in Action: Examining the International Market for Stolen Personal Information and Cybercrime
+   Hutchings A., 2017, Cybercrime Through an Interdisciplinary Lens, P167
+   Hutchings A, 2015, BRIT J CRIMINOL, V55, P596, DOI 10.1093/bjc/azu106
+   Jordan T, 1998, SOCIOL REV, V46, P757, DOI 10.1111/1467-954X.00139
+   Kreager DA, 2011, CRIMINOLOGY, V49, P95, DOI 10.1111/j.1745-9125.2010.00219.x
+   Landreth B., 1985, Out of the Inner Circle
+   Leukfeldt ER, 2019, TRENDS ORGAN CRIME, V22, P324, DOI 10.1007/s12117-019-09366-7
+   Leukfeldt ER, 2017, BRIT J CRIMINOL, V57, P704, DOI 10.1093/bjc/azw009
+   Leukfeldt R, 2017, AM BEHAV SCI, V61, P1387, DOI 10.1177/0002764217734267
+   Lusthaus J, 2018, Industry of Anonymity: Inside the Business of Cybercrime
+   Lusthaus J, 2019, 2019 4TH IEEE EUROPEAN SYMPOSIUM ON SECURITY AND PRIVACY WORKSHOPS (EUROS&PW), P474, DOI 10.1109/EuroSPW.2019.00059
+   Malm A, 2011, J RES CRIME DELINQ, V48, P271, DOI 10.1177/0022427810391535
+   Mann D, 1998, BRIT J CRIMINOL, V38, P201
+   Matza D., 1964, DELINQUENCY DRIFT
+   Meyer G. R., 1989, The Social Organization of the Computer Underground
+   Moeller K, 2015, J RES CRIME DELINQ, V52, P691, DOI 10.1177/0022427815583912
+   MOFFITT TE, 1994, NATO ADV SCI INST SE, V76, P3
+   Morselli C, 2013, SMALL WAR INSUR, V24, P152, DOI 10.1080/09592318.2013.740232
+   Norbutas L, 2018, INT J DRUG POLICY, V56, P92, DOI 10.1016/j.drugpo.2018.03.016
+   Odabas M, 2017, AM BEHAV SCI, V61, P1267, DOI 10.1177/0002764217734266
+   Pastrana S, 2018, WEB CONFERENCE 2018: PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE (WWW2018), P1845, DOI 10.1145/3178876.3186178
+   Pete I, 2020, 2020 IEEE EUROPEAN SYMPOSIUM ON SECURITY AND PRIVACY WORKSHOPS (EUROS&PW 2020), P484, DOI 10.1109/EuroSPW51379.2020.00071
+   Petrovskiy M, 2019, 2019 IEEE 2ND INTERNATIONAL CONFERENCE ON INFORMATION AND COMPUTER TECHNOLOGIES (ICICT), P243, DOI [10.1109/infoct.2019.8711254, 10.1109/INFOCT.2019.8711254]
+   Rawat R., 2021, Computationally Intelligent Systems and Their Applications, V950, P113, DOI 10.1007/978-981-16-0407-2_9
+   Samtani S, 2016, IEEE INTERNATIONAL CONFERENCE ON INTELLIGENCE AND SECURITY INFORMATICS: CYBERSECURITY AND BIG DATA, P319, DOI 10.1109/ISI.2016.7745500
+   Scrivens R, 2023, TERROR POLIT VIOLENC, V35, P192, DOI 10.1080/09546553.2021.1891893
+   Scrivens R, 2021, DEVIANT BEHAV, V42, P1470, DOI 10.1080/01639625.2020.1756391
+   Scrivens R, 2020, DEVIANT BEHAV, V41, P216, DOI 10.1080/01639625.2018.1556994
+   Skinner WF, 1997, J RES CRIME DELINQ, V34, P495, DOI 10.1177/0022427897034004005
+   Steinmetz K. F., 2016, Hacked: A Radical Approach to Hacker Culture and Crime, V2
+   Stewart SA, 2012, J MED INTERNET RES, V14, P245, DOI 10.2196/jmir.1982
+   Veilleux-Lepage Yannick., 2019, Perspectives on Terrorism, V13, P21
+   Wall D. S., 2001, Pp. 117 in Crime and the Internet
+   Warr M., 2002, Companions in crime: The social aspects of criminal conduct, DOI [10.1017/CBO9780511803956, DOI 10.1017/CBO9780511803956]
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   Wright Richard., 1994, Burglars on the Job: Street Life and Residental Break-Ins
+   Yip M, 2013, POLIC SOC, V23, P516, DOI 10.1080/10439463.2013.780227
+NR 60
+TC 1
+Z9 1
+U1 2
+U2 2
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 0163-9625
+EI 1521-0456
+J9 DEVIANT BEHAV
+JI Deviant Behav.
+PD 2024 JUL 8
+PY 2024
+DI 10.1080/01639625.2024.2373356
+EA JUL 2024
+PG 17
+WC Criminology & Penology; Psychology, Social; Sociology
+WE Social Science Citation Index (SSCI)
+SC Criminology & Penology; Psychology; Sociology
+GA XW4B5
+UT WOS:001264690200001
+DA 2024-11-22
+ER
+
+PT J
+AU Wang, JY
+   Zhang, YJ
+   Xu, C
+   Li, JZ
+   Sun, JC
+   Xie, JR
+   Feng, L
+   Zhou, TS
+   Hu, YQ
+AF Wang, Junya
+   Zhang, Yi-Jiao
+   Xu, Cong
+   Li, Jiaze
+   Sun, Jiachen
+   Xie, Jiarong
+   Feng, Ling
+   Zhou, Tianshou
+   Hu, Yanqing
+TI Reconstructing the evolution history of networked complex systems
+SO NATURE COMMUNICATIONS
+LA English
+DT Article
+ID LINK-PREDICTION; DYNAMICS
+AB The evolution processes of complex systems carry key information in the systems' functional properties. Applying machine learning algorithms, we demonstrate that the historical formation process of various networked complex systems can be extracted, including protein-protein interaction, ecology, and social network systems. The recovered evolution process has demonstrations of immense scientific values, such as interpreting the evolution of protein-protein interaction network, facilitating structure prediction, and particularly revealing the key co-evolution features of network structures such as preferential attachment, community structure, local clustering, degree-degree correlation that could not be explained collectively by previous theories. Intriguingly, we discover that for large networks, if the performance of the machine learning model is slightly better than a random guess on the pairwise order of links, reliable restoration of the overall network formation process can be achieved. This suggests that evolution history restoration is generally highly feasible on empirical networks.
+C1 [Wang, Junya] Sun Yat Sen Univ, Sch Syst Sci & Engn, Guangzhou 510006, Peoples R China.
+   [Zhang, Yi-Jiao; Xu, Cong; Hu, Yanqing] Southern Univ Sci & Technol, Dept Stat & Data Sci, Coll Sci, Shenzhen 518055, Peoples R China.
+   [Li, Jiaze] Maastricht Univ, Sch Business & Econ, Dept Data Analyt & Digitalisat, NL-6200MD Maastricht, Netherlands.
+   [Sun, Jiachen] Tencent Inc, Shenzhen 518000, Peoples R China.
+   [Xie, Jiarong] Beijing Normal Univ, Ctr Computat Commun Res, Zhuhai 519087, Peoples R China.
+   [Xie, Jiarong] Beijing Normal Univ, Sch Journalism & Commun, Beijing 100875, Peoples R China.
+   [Feng, Ling] ASTAR, Inst High Performance Comp IHPC, Singapore 138632, Singapore.
+   [Feng, Ling] Natl Univ Singapore, Dept Phys, Singapore 117551, Singapore.
+   [Zhou, Tianshou] Sun Yat Sen Univ, Sch Math, Guangzhou 510275, Peoples R China.
+   [Hu, Yanqing] Southern Univ Sci & Technol, Ctr Complex Flows & Soft Matter Res, Shenzhen 518055, Peoples R China.
+C3 Sun Yat Sen University; Southern University of Science & Technology;
+   Maastricht University; Tencent; Beijing Normal University; Beijing
+   Normal University; Agency for Science Technology & Research (A*STAR);
+   A*STAR - Institute of High Performance Computing (IHPC); National
+   University of Singapore; Sun Yat Sen University; Southern University of
+   Science & Technology
+RP Hu, YQ (corresponding author), Southern Univ Sci & Technol, Dept Stat & Data Sci, Coll Sci, Shenzhen 518055, Peoples R China.; Hu, YQ (corresponding author), Southern Univ Sci & Technol, Ctr Complex Flows & Soft Matter Res, Shenzhen 518055, Peoples R China.
+EM yanqing.hu.sc@qq.com
+OI Zhang, Yi-Jiao/0000-0002-9055-5530
+FU National Natural Science Foundation of China [T2350710802, 12101294,
+   12275118, 11931019]; NUS AcRF [A-0004550-00-00]; National Research
+   Foundation, Prime Minister's Office, Singapore; Ministry of
+   Communications and Information, under its Online Trust and Safety (OTS)
+   Research Programme [MCI-OTS-001]
+FX The authors would like to thank Bing-Yi Jing, Ziwei Dai, Meizhen Zheng,
+   Hongxin Wei, and Guanhua Chen for many helpful discussions. This work is
+   supported by the National Natural Science Foundation of China under
+   Grants No. T2350710802, 12101294, 12275118 and 11931019. This research
+   is supported in part by NUS AcRF Grant A-0004550-00-00 and the National
+   Research Foundation, Prime Minister's Office, Singapore, and the
+   Ministry of Communications and Information, under its Online Trust and
+   Safety (OTS) Research Programme (MCI-OTS-001). Any opinions, findings
+   and conclusions or recommendations expressed in this material are those
+   of the author(s) and do not reflect the views of National Research
+   Foundation, Prime Minister's Office, Singapore, or the Ministry of
+   Communications and Information.
+CR Adamic LA, 2003, SOC NETWORKS, V25, P211, DOI 10.1016/S0378-8733(03)00009-1
+   Ahn YY, 2007, Proceedings of the 16th international conference on World Wide Web, P835, DOI DOI 10.1145/1242572.1242685
+   Barabási AL, 2004, NAT REV GENET, V5, P101, DOI 10.1038/nrg1272
+   Barabási AL, 2002, PHYSICA A, V311, P590, DOI 10.1016/S0378-4371(02)00736-7
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barrat A., 2008, DYNAMICAL PROCESSES, DOI DOI 10.1017/CBO9780511791383
+   Barzel B, 2013, NAT BIOTECHNOL, V31, P720, DOI 10.1038/nbt.2601
+   Bascompte J, 2010, SCIENCE, V329, P765, DOI 10.1126/science.1194255
+   Ben Schafer J, 2001, DATA MIN KNOWL DISC, V5, P115, DOI 10.1023/A:1009804230409
+   Bianconi G, 2001, EUROPHYS LETT, V54, P436, DOI 10.1209/epl/i2001-00260-6
+   Boccaletti S, 2006, PHYS REP, V424, P175, DOI 10.1016/j.physrep.2005.10.009
+   Bollobás B, 2003, HANDBOOK OF GRAPHS AND NETWORKS: FROM THE GENOME TO THE INTERNET, P1
+   Dunlavy DM, 2011, ACM T KNOWL DISCOV D, V5, DOI 10.1145/1921632.1921636
+   Emerson P, 2013, SOC CHOICE WELFARE, V40, P353, DOI 10.1007/s00355-011-0603-9
+   Fortunato S, 2010, PHYS REP, V486, P75, DOI 10.1016/j.physrep.2009.11.002
+   Fouss F, 2007, IEEE T KNOWL DATA EN, V19, P355, DOI 10.1109/TKDE.2007.46
+   Gallotti R, 2015, SCI DATA, V2, DOI 10.1038/sdata.2014.56
+   García-Pérez G, 2016, SCI REP-UK, V6, DOI 10.1038/srep33441
+   Grover A, 2016, KDD'16: PROCEEDINGS OF THE 22ND ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P855, DOI 10.1145/2939672.2939754
+   Gysi DM, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2025581118
+   Hopkins AL, 2008, NAT CHEM BIOL, V4, P682, DOI 10.1038/nchembio.118
+   Hu YQ, 2014, PHYS REV X, V4, DOI 10.1103/PhysRevX.4.021031
+   Jeong H, 2003, EUROPHYS LETT, V61, P567, DOI 10.1209/epl/i2003-00166-9
+   Jin YL, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0058134
+   Kendall MG, 1938, BIOMETRIKA, V30, P81, DOI 10.1093/biomet/30.1-2.81
+   Kitsak M, 2010, NAT PHYS, V6, P888, DOI [10.1038/NPHYS1746, 10.1038/nphys1746]
+   Lemos B, 2004, NAT GENET, V36, P1059, DOI 10.1038/ng1427
+   Liben-Nowell D, 2007, J AM SOC INF SCI TEC, V58, P1019, DOI 10.1002/asi.20591
+   Mersch DP, 2013, SCIENCE, V340, P1090, DOI 10.1126/science.1234316
+   Milo R, 2002, SCIENCE, V298, P824, DOI 10.1126/science.298.5594.824
+   Montoya JM, 2006, NATURE, V442, P259, DOI 10.1038/nature04927
+   Newman MEJ, 2006, P NATL ACAD SCI USA, V103, P8577, DOI 10.1073/pnas.0601602103
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   Newman MEJ, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.208701
+   Panchenko AR, 2004, PROTEIN SCI, V13, P884, DOI 10.1110/ps.03465504
+   Papadopoulos F, 2015, IEEE ACM T NETWORK, V23, P198, DOI 10.1109/TNET.2013.2294052
+   Papadopoulos F, 2012, NATURE, V489, P537, DOI 10.1038/nature11459
+   Perozzi B, 2014, PROCEEDINGS OF THE 20TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING (KDD'14), P701, DOI 10.1145/2623330.2623732
+   Qin H, 2003, P NATL ACAD SCI USA, V100, P12820, DOI 10.1073/pnas.2235584100
+   Ribeiro LFR, 2017, KDD'17: PROCEEDINGS OF THE 23RD ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P385, DOI 10.1145/3097983.3098061
+   Spearman C, 1904, AM J PSYCHOL, V15, P72, DOI 10.2307/1412159
+   Stumpf MPH, 2008, P NATL ACAD SCI USA, V105, P6959, DOI 10.1073/pnas.0708078105
+   Szklarczyk D, 2015, NUCLEIC ACIDS RES, V43, pD447, DOI 10.1093/nar/gku1003
+   Tang J, 2015, PROCEEDINGS OF THE 24TH INTERNATIONAL CONFERENCE ON WORLD WIDE WEB (WWW 2015), P1067, DOI 10.1145/2736277.2741093
+   Tesauro G., 1989, ADV NEURAL INFORM PR, P99, DOI DOI 10.1111/J.2041-210X.2012.00227.X
+   van Dijk RE, 2014, ECOL LETT, V17, P1141, DOI 10.1111/ele.12320
+   Wagner A, 2001, MOL BIOL EVOL, V18, P1283, DOI 10.1093/oxfordjournals.molbev.a003913
+   Wang DX, 2016, KDD'16: PROCEEDINGS OF THE 22ND ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P1225, DOI 10.1145/2939672.2939753
+   Wang JY, 2024, Arxiv, DOI arXiv:2403.14983
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Weiss Karl, 2016, Journal of Big Data, V3, DOI 10.1186/s40537-016-0043-6
+   Xie JR, 2021, NAT HUM BEHAV, V5, P1161, DOI 10.1038/s41562-021-01090-z
+   Yildirim MA, 2007, NAT BIOTECHNOL, V25, P1119, DOI 10.1038/nbt1338
+   Yu HY, 2008, SCIENCE, V322, P104, DOI 10.1126/science.1158684
+   Zheng MH, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2018994118
+NR 55
+TC 3
+Z9 3
+U1 15
+U2 18
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+EI 2041-1723
+J9 NAT COMMUN
+JI Nat. Commun.
+PD APR 2
+PY 2024
+VL 15
+IS 1
+AR 2849
+DI 10.1038/s41467-024-47248-x
+PG 11
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA WN2W9
+UT WOS:001255499100032
+PM 38565853
+OA gold, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Aslett, K
+   Sanderson, Z
+   Godel, W
+   Persily, N
+   Nagler, J
+   Tucker, JA
+AF Aslett, Kevin
+   Sanderson, Zeve
+   Godel, William
+   Persily, Nathaniel
+   Nagler, Jonathan
+   Tucker, Joshua A.
+TI Online searches to evaluate misinformation can increase its perceived
+   veracity
+SO NATURE
+LA English
+DT Article
+ID FALSE NEWS; INFORMATION; INTERNET
+AB Considerable scholarly attention has been paid to understanding belief in online misinformation1,2, with a particular focus on social networks. However, the dominant role of search engines in the information environment remains underexplored, even though the use of online search to evaluate the veracity of information is a central component of media literacy interventions3-5. Although conventional wisdom suggests that searching online when evaluating misinformation would reduce belief in it, there is little empirical evidence to evaluate this claim. Here, across five experiments, we present consistent evidence that online search to evaluate the truthfulness of false news articles actually increases the probability of believing them. To shed light on this relationship, we combine survey data with digital trace data collected using a custom browser extension. We find that the search effect is concentrated among individuals for whom search engines return lower-quality information. Our results indicate that those who search online to evaluate misinformation risk falling into data voids, or informational spaces in which there is corroborating evidence from low-quality sources. We also find consistent evidence that searching online to evaluate news increases belief in true news from low-quality sources, but inconsistent evidence that it increases belief in true news from mainstream sources. Our findings highlight the need for media literacy programmes to ground their recommendations in empirically tested strategies and for search engines to invest in solutions to the challenges identified here.
+   Searching online to evaluate the truthfulness of false news articles increases the probability of believing the false news articles.
+C1 [Aslett, Kevin] Univ Cent Florida, Sch Polit Secur & Int Affairs, Orlando, FL 32816 USA.
+   [Sanderson, Zeve; Godel, William; Nagler, Jonathan; Tucker, Joshua A.] NYU, Ctr Social Media & Polit, New York, NY USA.
+   [Persily, Nathaniel] Stanford Univ, Law Sch, Stanford, CA USA.
+   [Nagler, Jonathan; Tucker, Joshua A.] NYU, Wilf Family Dept Polit, New York, NY USA.
+C3 State University System of Florida; University of Central Florida; New
+   York University; Stanford University; New York University
+RP Aslett, K (corresponding author), Univ Cent Florida, Sch Polit Secur & Int Affairs, Orlando, FL 32816 USA.
+EM kevin.aslett@ucf.edu
+OI Tucker, Joshua/0000-0003-1321-8650; Aslett, Kevin/0000-0002-2613-2226
+FU National Science Foundation [2029610]; William and Flora Hewlett
+   Foundation; Center for Social Media and Politics at New York University;
+   John S. and James L. Knight Foundation; Charles Koch Foundation; Siegel
+   Family Endowment; Bill and Melinda Gates Foundation
+FX We thank M. A. Brown for her help in the production of the Chrome
+   browser extension and data collection in studies 1-5; C. Ji for
+   supporting the development of the browser extension; S. Messing and
+   numerous seminar participants at ETH Zurich, Stanford University,
+   Williams College, Dartmouth College, the Toulouse School of Economics,
+   Georgetown University, and the New York University Center for Social
+   Media and Politics for feedback and comments. We acknowledge project
+   funding from the National Science Foundation (2029610) and the William
+   and Flora Hewlett Foundation. The Center for Social Media and Politics
+   at New York University is supported by funding from the John S. and
+   James L. Knight Foundation, the Charles Koch Foundation, Craig Newmark
+   Philanthropies, the William and Flora Hewlett Foundation, the Siegel
+   Family Endowment and the Bill and Melinda Gates Foundation. This work
+   was supported in part through the NYU IT High Performance Computing
+   resources, services and staff expertise.
+CR Allcott H, 2017, J ECON PERSPECT, V31, P211, DOI 10.1257/jep.31.2.211
+   Allen J, 2021, SCI ADV, V7, DOI 10.1126/sciadv.abf4393
+   Allen J, 2020, SCI ADV, V6, DOI 10.1126/sciadv.aay3539
+   Althaus SL, 2000, POLIT COMMUN, V17, P21, DOI 10.1080/105846000198495
+   Atoy MB, 2020, J LIBR INF SCI, V52, P1015, DOI 10.1177/0961000619898213
+   DiFonzo N, 2007, DIOGENES, V54, P19, DOI 10.1177/0392192107073433
+   Druckman JN, 2022, ANNU REV POLIT SCI, V25, P65, DOI 10.1146/annurev-polisci-051120-110428
+   Flanagin AJ, 2000, JOURNALISM MASS COMM, V77, P515, DOI 10.1177/107769900007700304
+   Flanagin AJ, 2007, NEW MEDIA SOC, V9, P319, DOI 10.1177/1461444807075015
+   Gaines BJ, 2011, AM J POLIT SCI, V55, P724, DOI 10.1111/j.1540-5907.2011.00518.x
+   Granka LA, 2010, INFORM SOC, V26, P364, DOI 10.1080/01972243.2010.511560
+   Grinberg N, 2019, SCIENCE, V363, P374, DOI 10.1126/science.aau2706
+   Guess AM, 2020, P NATL ACAD SCI USA, V117, P15536, DOI 10.1073/pnas.1920498117
+   Jürgens P, 2017, POLICY INTERNET, V9, P395, DOI 10.1002/poi3.166
+   Kanuková N, 2019, MEDIA LIT ACAD RES, V2, P119
+   Loomba S, 2021, NAT HUM BEHAV, V5, P337, DOI 10.1038/s41562-021-01056-1
+   Montgomery JM, 2018, AM J POLIT SCI, V62, P760, DOI 10.1111/ajps.12357
+   Munger K, 2020, POLIT COMMUN, V37, P376, DOI 10.1080/10584609.2019.1687626
+   Pennycook G, 2020, PSYCHOL SCI, V31, P770, DOI 10.1177/0956797620939054
+   Pennycook G, 2020, J PERS, V88, P185, DOI 10.1111/jopy.12476
+   Peterson E, 2021, AM J POLIT SCI, V65, P133, DOI 10.1111/ajps.12535
+   Vosoughi S, 2018, SCIENCE, V359, P1146, DOI 10.1126/science.aap9559
+NR 22
+TC 7
+Z9 7
+U1 30
+U2 53
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 0028-0836
+EI 1476-4687
+J9 NATURE
+JI Nature
+PD JAN 18
+PY 2024
+VL 625
+IS 7995
+DI 10.1038/s41586-023-06883-y
+PG 28
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA HC4Q2
+UT WOS:001157281900005
+PM 38123685
+OA hybrid
+DA 2024-11-22
+ER

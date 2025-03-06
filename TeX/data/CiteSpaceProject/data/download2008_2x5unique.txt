@@ -1,0 +1,504 @@
+
+PT J
+AU Csizmadia, Z
+AF Csizmadia Zoltan
+TI Co-operation and Ability for Innovation: Relationship Network
+   Foundations of the Regional Innovation System
+SO SZOCIOLOGIAI SZEMLE
+LA Hungarian
+DT Article
+DE innovation system; network; cooperation
+AB In Hungary, the study of the regional innovation systems as networks with the principles and methods of social network analysis (SNA) is a new and central objective. Here we have tested empirically the two most important components of this research phenomenon. On the one hand, we analyzed the direction, composition, pattern and spatial properties of the interorganizational relationships of the enterprises in and beyond the economic field. It is the investigation of the social - particularly - institutional embeddedness of the economic actors. On the other hand, the whole network structure could be interesting; the overall pattern, the central players and inter-sector relationships between R&D institutions, universities, agencies, chambers, development organizations and clusters. The results are troublesome; the ratio of interorganizational cooperation is low and one-sided-basically with economic orientation - in the region. The composition of the ego-networks of the companies is small and simple with low density. The network of innovation institutions in the region is centralized and breaks up easily without one or two core players.
+C1 MTA RKK Nyugat Magyarorszagi Tudomanyos Int, H-9022 Gyor, Hungary.
+RP Csizmadia, Z (corresponding author), MTA RKK Nyugat Magyarorszagi Tudomanyos Int, Liszt F 10, H-9022 Gyor, Hungary.
+EM cszoltan@rkk.hu
+NR 0
+TC 0
+Z9 1
+U1 0
+U2 20
+PU MAGYAR SZOCIOLOGIAI TARASAG
+PI BUDAPEST
+PA ORSZAGHAZ U 30, BUDAPEST, H-1014, HUNGARY
+SN 1216-2051
+J9 SZOCIOL SZLE
+JI Szociol. Szle.
+PY 2008
+IS 2
+BP 22
+EP 56
+PG 35
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA 381XI
+UT WOS:000261568800002
+DA 2024-11-22
+ER
+
+PT J
+AU Liben-Nowell, D
+   Kleinberg, J
+AF Liben-Nowell, David
+   Kleinberg, Jon
+TI Tracing information flow on a global scale using Internet chain-letter
+   data
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+AB Although information, news, and opinions continuously circulate in the worldwide social network, the actual mechanics of how any single piece of information spreads on a global scale have been a mystery. Here, we trace such information-spreading processes at a person-by-person level using methods to reconstruct the propagation of massively circulated Internet chain letters. We find that rather than fanning out widely, reaching many people in very few steps according to "small-world" principles, the progress of these chain letters proceeds in a narrow but very deep tree-like pattern, continuing for several hundred steps. This suggests a new and more complex picture for the spread of information through a social network. We describe a probabilistic model based on network clustering and asynchronous response times that produces trees with this characteristic structure on social-network data.
+C1 [Liben-Nowell, David] Carleton Coll, Dept Comp Sci, Northfield, MN 55057 USA.
+   [Kleinberg, Jon] Cornell Univ, Dept Comp Sci, Ithaca, NY 14853 USA.
+C3 Carleton College; Cornell University
+RP Liben-Nowell, D (corresponding author), Carleton Coll, Dept Comp Sci, Northfield, MN 55057 USA.
+EM dlibenno@carleton.edu; kleinber@cs.cornell.edu
+CR Adamic L.A., 2006, P 7 ACM C EL COMM, P228, DOI [10.1145/1232722.1232727, 10.1145/1232722.1232727.15]
+   Adar E., 2004, IMPLICIT STRUCTURE D
+   [Anonymous], 2004, P 13 INT C WORLD WID
+   [Anonymous], P SIAM INT C DAT MIN
+   [Anonymous], EC PUBLIQUE
+   Backstrom L., 2006, P 12 ACM SIGKDD INT, P44, DOI [10.1145/1150402.1150412, DOI 10.1145/1150402.1150412]
+   Braunstein LA, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.168701
+   Contractor Noshir, 2003, Theories of Communication Networks
+   Dodds PS, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.218701
+   Dodds PS, 2003, SCIENCE, V301, P827, DOI 10.1126/science.1081058
+   Domingos Pedro, 2001, P 7 ACM SIGKDD INT C, P57, DOI [DOI 10.1145/502512.502525, 10.1145/502512.502525]
+   EDMONDS J, 1967, J RES NBS B MATH SCI, VB 71, P233, DOI 10.6028/jres.071B.032
+   GOODMAN LA, 1961, ANN MATH STAT, V32, P148, DOI 10.1214/aoms/1177705148
+   Gusfield D., 1997, ACM SIGACT NEWS, DOI 10.1017/CBO9780511574931
+   Heckathorn DD, 1997, SOC PROBL, V44, P174, DOI 10.1525/sp.1997.44.2.03x0221m
+   Kearns M, 2006, SCIENCE, V313, P824, DOI 10.1126/science.1127207
+   LESKOVEC J, 2007, MSRTR2006186
+   Liben-Nowell D, 2005, P NATL ACAD SCI USA, V102, P11623, DOI 10.1073/pnas.0503018102
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   Oliveira JG, 2005, NATURE, V437, P1251, DOI 10.1038/4371251a
+   RICHMAN S, 2003, NOT MY NAME EMAIL PR
+   Rogers EM, 1995, Diffusion of innovations
+   SERAZIO M, 2003, ARMSCHAIR ACTIVISM B
+   Strang D, 1998, ANNU REV SOCIOL, V24, P265, DOI 10.1146/annurev.soc.24.1.265
+   Tardos, 2003, P 9 ACM SIGKDD INT C, P137, DOI 10.1145/956750.956769
+   TRAVERS J, 1969, SOCIOMETRY, V32, P425, DOI 10.2307/2786545
+   Valente T.W., 1995, NETWORK MODELS DIFFU
+   Vázquez A, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.036127
+   Waterman M.S., 1995, INTRO COMPUTATIONAL
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+NR 30
+TC 214
+Z9 264
+U1 0
+U2 26
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD MAR 25
+PY 2008
+VL 105
+IS 12
+BP 4633
+EP 4638
+DI 10.1073/pnas.0708471105
+PG 6
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 285JI
+UT WOS:000254772700020
+PM 18353985
+OA Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Smith, KP
+   Christakis, NA
+AF Smith, Kirsten P.
+   Christakis, Nicholas A.
+TI Social networks and health
+SO ANNUAL REVIEW OF SOCIOLOGY
+SE Annual Review of Sociology
+LA English
+DT Review; Book Chapter
+DE egocentric; sociocentric; health behavior; homophily; peer effects
+ID SMALL-WORLD NETWORKS; SPOUSE-CAREGIVERS; MATERNAL DEPRESSION; HIDDEN
+   POPULATIONS; ALZHEIMERS-DISEASE; SEXUAL CONTACTS; MARITAL-STATUS;
+   MENTAL-HEALTH; BREAST-CANCER; SUBSTANCE USE
+AB People are interconnected, and so their health is interconnected. In recognition of this social fact, there has been growing conceptual and empirical attention over the past decade to the impact of social networks on health. This article reviews prominent findings from this literature. After drawing a distinction between social network studies and social support studies, we explore current research on dyadic and supradyadic network influences on health, highlighting findings from both egocentric and sociocentric analyses. We then discuss the policy implications of this body of work, as well as future research directions. We conclude that the existence of social networks means that people's health is interdependent and that health and health care can transcend the individual in ways that patients, doctors, policy makers, and researchers should care about.
+C1 [Smith, Kirsten P.] Harvard Univ, Sch Med, Dept Hlth Care Policy, Boston, MA 02115 USA.
+   [Christakis, Nicholas A.] Harvard Univ, Dept Sociol, Boston, MA 02115 USA.
+   [Christakis, Nicholas A.] Harvard Univ, Sch Med, Dept Hlth Care Policy, Boston, MA 02115 USA.
+C3 Harvard University; Harvard Medical School; Harvard University; Harvard
+   University; Harvard Medical School
+RP Smith, KP (corresponding author), Harvard Univ, Sch Med, Dept Hlth Care Policy, Boston, MA 02115 USA.
+EM christakis@hcp.med.harvard.edu
+RI Christakis, Nicholas/C-3205-2009
+CR Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   Albrecht S, 1998, J Am Acad Nurse Pract, V10, P119, DOI 10.1111/j.1745-7599.1998.tb01205.x
+   Amaral LAN, 2000, P NATL ACAD SCI USA, V97, P11149, DOI 10.1073/pnas.200327197
+   Andrews JA, 2002, HEALTH PSYCHOL, V21, P349, DOI 10.1037//0278-6133.21.4.349
+   [Anonymous], 1961, ACQUAINTANCE PROCESS
+   [Anonymous], 1988, SOCIAL STRUCTURES NE
+   ARMISTEAD L, 1995, CLIN PSYCHOL REV, V15, P409, DOI 10.1016/0272-7358(95)00023-I
+   Avenevoli S, 2003, ADDICTION, V98, P1, DOI 10.1046/j.1360-0443.98.s1.2.x
+   Bainbridge WS, 2007, SCIENCE, V317, P472, DOI 10.1126/science.1146930
+   Barabási AL, 2007, NEW ENGL J MED, V357, P404, DOI 10.1056/NEJMe078114
+   BARON RS, 1990, J PERS SOC PSYCHOL, V59, P344, DOI 10.1037/0022-3514.59.2.344
+   BARUSCH AS, 1989, GERONTOLOGIST, V29, P667, DOI 10.1093/geront/29.5.667
+   Bearman PS, 2004, AM J SOCIOL, V110, P44, DOI 10.1086/386272
+   Bearman PS, 2004, AM J PUBLIC HEALTH, V94, P89, DOI 10.2105/AJPH.94.1.89
+   Berkman L., 2000, Social Epidemiology p, P416
+   Berkman L.F., 1983, HLTH WAYS LIVING ALA
+   BERKMAN LF, 1979, AM J EPIDEMIOL, V109, P186, DOI 10.1093/oxfordjournals.aje.a112674
+   Berkman LF, 2000, SOC SCI MED, V51, P843, DOI 10.1016/S0277-9536(00)00065-4
+   Berkman LF., 2000, SOCIAL EPIDEMIOLOGY, DOI DOI 10.1093/OSO/9780195083316.003.0007
+   Bierut LJ, 1998, ARCH GEN PSYCHIAT, V55, P982, DOI 10.1001/archpsyc.55.11.982
+   BILLINGS AG, 1983, J ABNORM CHILD PSYCH, V11, P463, DOI 10.1007/BF00917076
+   BLACK DR, 1990, HEALTH PSYCHOL, V9, P330, DOI 10.1037/0278-6133.9.3.330
+   BLAZER DG, 1982, AM J EPIDEMIOL, V115, P684, DOI 10.1093/oxfordjournals.aje.a113351
+   BLOOD GW, 1994, J COMMUN DISORD, V27, P19, DOI 10.1016/0021-9924(94)90008-6
+   Bond KC, 1999, SOC SCI MED, V49, P1599, DOI 10.1016/S0277-9536(99)00205-1
+   Boyle MH, 2001, CAN J PUBLIC HEALTH, V92, P206, DOI 10.1007/BF03404307
+   BRESLAU N, 1987, PSYCHIAT RES, V20, P285, DOI 10.1016/0165-1781(87)90089-8
+   Brückner H, 2005, J ADOLESCENT HEALTH, V36, P271, DOI 10.1016/j.jadohealth.2005.01.005
+   Burke MA, 2007, ECON INQ, V45, P571, DOI 10.1111/j.1465-7295.2007.00025.x
+   Burt RD, 1998, PREV MED, V27, P319, DOI 10.1006/pmed.1998.0269
+   Byrne D., 1970, PERSONALITY INT J, V1, P103
+   Byrne D., 1971, ATTRACTION PARADIGM
+   Cacioppo JT, 2000, PSYCHOL BULL, V126, P829, DOI 10.1037//0033-2909.126.6.829
+   Carman K. G., 2004, SOCIAL INFLUENCES DE
+   CASPI A, 1990, J PERS SOC PSYCHOL, V58, P250, DOI 10.1037/0022-3514.58.2.250
+   CASSEL J, 1976, AM J EPIDEMIOL, V104, P107, DOI 10.1093/oxfordjournals.aje.a112281
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   Centola D, 2007, PHYSICA A, V374, P449, DOI 10.1016/j.physa.2006.06.018
+   Chown S., 1981, Personal Relationships, V2, P231
+   Christakis NA, 2006, NEW ENGL J MED, V354, P719, DOI 10.1056/NEJMsa050196
+   Christakis NA, 2004, BRIT MED J, V329, P184, DOI 10.1136/bmj.329.7459.184
+   Christakis NA, 2003, SOC SCI MED, V57, P465, DOI 10.1016/S0277-9536(02)00370-2
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   CLIPP EC, 1993, GERONTOLOGIST, V33, P534, DOI 10.1093/geront/33.4.534
+   COBB S, 1976, PSYCHOSOM MED, V38, P300, DOI 10.1097/00006842-197609000-00003
+   Cohen S, 1997, JAMA-J AM MED ASSOC, V277, P1940
+   Cohen SE, 1985, SOCIAL SUPPORT HLTH
+   COLEMAN J, 1957, SOCIOMETRY, V20, P253, DOI 10.2307/2785979
+   Coleman J.S., 1994, FDN SOCIAL THEORY
+   Coleman JamesS., 1966, Medical Innovation
+   Collins C, 1997, INT J GERIATR PSYCH, V12, P1168, DOI 10.1002/(SICI)1099-1166(199712)12:12<1168::AID-GPS711>3.0.CO;2-F
+   CONDON JW, 1988, J PERS SOC PSYCHOL, V54, P789, DOI 10.1037/0022-3514.54.5.789
+   COX PR, 1964, LANCET, V1, P163
+   Cram P, 2003, ARCH INTERN MED, V163, P1601, DOI 10.1001/archinte.163.13.1601
+   CRANE D, 1990, SANCTITY SOCIAL LIFE
+   Csikszentmihalyi M., 1992, EXPERIENCE PSYCHOPAT, P43, DOI DOI 10.1017/CBO9780511663246.006
+   CURTIS R, 1995, SOC NETWORKS, V17, P229, DOI 10.1016/0378-8733(95)00264-O
+   Ding W., 2006, 12304 NBER
+   DROTAR D, 1994, J PEDIATR PSYCHOL, V19, P525, DOI 10.1093/jpepsy/19.5.525
+   Dunkin JJ, 1998, NEUROLOGY, V51, pS53, DOI 10.1212/WNL.51.1_Suppl_1.S53
+   Eisenberg ME, 2005, SOC SCI MED, V60, P1165, DOI 10.1016/j.socscimed.2004.06.055
+   Elwert F, 2006, AM SOCIOL REV, V71, P16, DOI 10.1177/000312240607100102
+   Entwisle B, 1996, DEMOGRAPHY, V33, P1, DOI 10.2307/2061709
+   Entwisle B, 2007, AM J SOCIOL, V112, P1495, DOI 10.1086/511803
+   Esterling BA, 1996, PSYCHOSOM MED, V58, P264, DOI 10.1097/00006842-199605000-00010
+   Farr W., 1858, T NATL ASS PROMOTION, P504
+   Fischer C.S., 1977, NETWORKS PLACES SOCI
+   Fischer Claude S., 1982, To Dwell among Friends: Personal Networks in Town and City
+   FITTING M, 1986, GERONTOLOGIST, V26, P248, DOI 10.1093/geront/26.3.248
+   FLEURY J, 1993, HEART LUNG, V22, P134
+   FOREHAND R, 1986, CHILD DEV, V57, P1528, DOI 10.2307/1130430
+   Friedman SR, 1997, AM J PUBLIC HEALTH, V87, P1289, DOI 10.2105/AJPH.87.8.1289
+   GOLDMAN JA, 1981, CHILD DEV, V52, P644, DOI 10.1111/j.1467-8624.1981.tb03091.x
+   GOLDMAN N, 1993, DEMOGRAPHY, V30, P189, DOI 10.2307/2061837
+   GOLDMAN N, 1994, P NATL ACAD SCI USA, V91, P1251, DOI 10.1073/pnas.91.4.1251
+   Goodwin PJ, 2001, NEW ENGL J MED, V345, P1719, DOI 10.1056/NEJMoa011871
+   Gorin A, 2005, J CONSULT CLIN PSYCH, V73, P341, DOI 10.1037/0022-006X.73.2.341
+   GOVE WR, 1973, AM J SOCIOL, V79, P45, DOI 10.1086/225505
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Guo G, 2006, TWIN RES HUM GENET, V9, P113, DOI 10.1375/twin.9.1.113
+   Hammond R. A., 2007, 48 BROOK I CTR SOC E
+   Hampton KN, 2000, LECT NOTES COMPUT SC, V1765, P194
+   Heckathorn DD, 2002, SOC PROBL, V49, P11, DOI 10.1525/sp.2002.49.1.11
+   Heckathorn DD, 1997, SOC PROBL, V44, P174, DOI 10.1525/sp.1997.44.2.03x0221m
+   Helleringer S, 2007, AIDS, V21, P2323, DOI 10.1097/QAD.0b013e328285df98
+   HESLING KJ, 1981, AM J EPIDEMIOL, V114, P41
+   HOUSE JS, 1982, AM J EPIDEMIOL, V116, P123, DOI 10.1093/oxfordjournals.aje.a113387
+   HOUSE JS, 1988, SCIENCE, V241, P540, DOI 10.1037/0003-066X.59.8.676
+   HU YR, 1990, DEMOGRAPHY, V27, P233, DOI 10.2307/2061451
+   Jacob T, 1997, J FAM PSYCHOL, V11, P391, DOI 10.1037/0893-3200.11.4.391
+   JONES DR, 1987, J PSYCHOSOM RES, V31, P325, DOI 10.1016/0022-3999(87)90052-3
+   Jones JH, 2003, NATURE, V423, P605, DOI 10.1038/423605a
+   Kaplan CP, 2001, ADDICT BEHAV, V26, P531, DOI 10.1016/S0306-4603(00)00143-X
+   KAPRIO J, 1987, AM J PUBLIC HEALTH, V77, P283, DOI 10.2105/AJPH.77.3.283
+   Kawachi I., 2003, NEIGHBOURHOODS HLTH
+   Keating NL, 2007, J GEN INTERN MED, V22, P794, DOI 10.1007/s11606-007-0190-8
+   Kelsey K, 1997, FAM COMMUNITY HEALTH, V20, P70, DOI 10.1097/00003727-199710000-00008
+   KIECOLTGLASER JK, 1991, PSYCHOSOM MED, V53, P345, DOI 10.1097/00006842-199107000-00001
+   Klovdahl AS, 2001, SOC SCI MED, V52, P681, DOI 10.1016/S0277-9536(00)00170-2
+   Kohler H.P., 2001, FERTILITY SOCIAL INT
+   Kohler HP, 2001, DEMOGRAPHY, V38, P43, DOI 10.1353/dem.2001.0005
+   Korenman S, 1997, AM J EPIDEMIOL, V145, P995
+   Korneluk Y G, 1998, Clin Child Fam Psychol Rev, V1, P179, DOI 10.1023/A:1022654831666
+   KUPERSMIDT JB, 1995, J SOC PERS RELAT, V12, P439, DOI 10.1177/0265407595123007
+   Larson R., 1994, DIVERGENT REALITIES
+   LATKIN C, 1995, SOC NETWORKS, V17, P219, DOI 10.1016/0378-8733(95)00263-N
+   Laumann EO, 1999, SEX TRANSM DIS, V26, P250, DOI 10.1097/00007435-199905000-00003
+   LAUMANN EO, 1973, BONDS PLURALISM
+   LEE CM, 1989, J ABNORM PSYCHOL, V98, P78, DOI 10.1037/0021-843X.98.1.78
+   Liljeros F, 2003, NATURE, V423, P606, DOI 10.1038/423606a
+   Liljeros F, 2001, NATURE, V411, P907, DOI 10.1038/35082140
+   LILLARD LA, 1995, AM J SOCIOL, V100, P1131, DOI 10.1086/230634
+   Lillard LA, 1996, DEMOGRAPHY, V33, P313, DOI 10.2307/2061764
+   Lindmark E, 2001, JAMA-J AM MED ASSOC, V286, P2107, DOI 10.1001/jama.286.17.2107
+   LITWAK E, 1989, AM SOCIOL REV, V54, P49, DOI 10.2307/2095661
+   Loomis CP, 1946, SOCIOMETRY, V9, P316, DOI 10.2307/2785496
+   Louch H, 2000, SOC NETWORKS, V22, P45, DOI 10.1016/S0378-8733(00)00015-0
+   Lowe CF, 2004, EUR J CLIN NUTR, V58, P510, DOI 10.1038/sj.ejcn.1601838
+   Lutgendorf SK, 2002, CANCER-AM CANCER SOC, V95, P808, DOI 10.1002/cncr.10739
+   Malchodi CS, 2003, OBSTET GYNECOL, V101, P504, DOI 10.1016/S0029-7844(02)03070-3
+   MANSKI CF, 1995, INDENTIFICATION PROB
+   MARSDEN PV, 1987, AM SOCIOL REV, V52, P122, DOI 10.2307/2095397
+   Martikainen P, 1996, AM J PUBLIC HEALTH, V86, P1087, DOI 10.2105/AJPH.86.8_Pt_1.1087
+   MATTHEWS SH, 1995, LIFETIME RELATIONSHI, P406
+   MCKNIGHT AJ, 1986, ACCIDENT ANAL PREV, V18, P339, DOI 10.1016/0001-4575(86)90047-3
+   McLennan JD, 2000, PEDIATRICS, V105, P1090, DOI 10.1542/peds.105.5.1090
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   McPherson M, 2006, AM SOCIOL REV, V71, P353, DOI 10.1177/000312240607100301
+   Meyers LA, 2005, J THEOR BIOL, V232, P71, DOI 10.1016/j.jtbi.2004.07.026
+   Meyers LA, 2003, EMERG INFECT DIS, V9, P204, DOI 10.3201/eid0902.020188
+   MIKAIL SF, 1990, SOC SCI MED, V31, P51, DOI 10.1016/0277-9536(90)90009-H
+   Miller GE, 2002, HEALTH PSYCHOL, V21, P531, DOI 10.1037//0278-6133.21.6.531
+   Mitchell J., 1969, The Concept and Use of Social Networks. Social Networks in Urban Situations
+   MITTELMAN MS, 1995, GERONTOLOGIST, V35, P792, DOI 10.1093/geront/35.6.792
+   Montgomery GH, 2003, PREV MED, V37, P242, DOI 10.1016/S0091-7435(03)00120-8
+   MONTGOMERY MR, 1993, POP STUD-J DEMOG, V47, P457, DOI 10.1080/0032472031000147246
+   MORITZ DJ, 1989, J GERONTOL, V44, pS17, DOI 10.1093/geronj/44.1.S17
+   Murabito JM, 2001, AM J EPIDEMIOL, V154, P916, DOI 10.1093/aje/154.10.916
+   Nattinger AB, 1998, JAMA-J AM MED ASSOC, V279, P762
+   Oswald AJ, 2007, ECON J, V117, pF441, DOI 10.1111/j.1468-0297.2007.02077_1.x
+   PARKES CM, 1969, BMJ-BRIT MED J, V1, P740, DOI 10.1136/bmj.1.5646.740
+   Potterat JJ, 2002, SEX TRANSM INFECT, V78, pI159, DOI 10.1136/sti.78.suppl_1.i159
+   Pradhan AD, 2002, JAMA-J AM MED ASSOC, V288, P980, DOI 10.1001/jama.288.8.980
+   PRINCE F, 1995, ADOLESCENCE, V30, P187
+   PRUCHNO RA, 1989, GERONTOLOGIST, V29, P159, DOI 10.1093/geront/29.2.159
+   PRUCHNO RA, 1989, J GERONTOL, V44, pS177, DOI 10.1093/geronj/44.5.S177
+   PRUCHNO RA, 1989, J AM GERIATR SOC, V37, P697, DOI 10.1111/j.1532-5415.1989.tb02230.x
+   PRUCHNO RA, 1990, J GERONTOL, V45, pP192, DOI 10.1093/geronj/45.5.P192
+   Rajan KB, 2003, J ADOLESCENT HEALTH, V33, P25, DOI 10.1016/S1054-139X(03)00044-2
+   Reimer WJMSO, 1998, STROKE, V29, P1605, DOI 10.1161/01.STR.29.8.1605
+   Rende R, 2005, J FAM PSYCHOL, V19, P611, DOI 10.1037/0893-3200.19.4.611
+   Richardson HM, 1940, J SOC PSYCHOL, V11, P303, DOI 10.1080/00224545.1940.9918751
+   Ridker PM, 2000, CIRCULATION, V101, P1767, DOI 10.1161/01.CIR.101.15.1767
+   Rindfuss RR, 2004, AM SOCIOL REV, V69, P838, DOI 10.1177/000312240406900605
+   ROSEROBIXBY L, 1994, SOC FORCES, V73, P435, DOI 10.2307/2579816
+   Rothenberg RB, 1998, AIDS, V12, P1529, DOI 10.1097/00002030-199812000-00016
+   Rushton JP, 2005, PSYCHOL SCI, V16, P555, DOI 10.1111/j.0956-7976.2005.01574.x
+   RUSSO J, 1995, EXP AGING RES, V21, P273, DOI 10.1080/03610739508253985
+   RUSSO J, 1995, J ABNORM PSYCHOL, V104, P197, DOI 10.1037/0021-843X.104.1.197
+   Sacerdote B, 2001, Q J ECON, V116, P681, DOI 10.1162/00335530151144131
+   Salganik MJ, 2004, SOCIOL METHODOL, V34, P193, DOI 10.1111/j.0081-1750.2004.00152.x
+   SALLIS JF, 1987, PREV MED, V16, P825, DOI 10.1016/0091-7435(87)90022-3
+   Sanchez F., 2007, THERAPISTS GUIDE EVI, P353, DOI DOI 10.1016/B978-012369429-4/50046-X
+   SCHAEFER C, 1995, AM J EPIDEMIOL, V141, P1142, DOI 10.1093/oxfordjournals.aje.a117387
+   SCHOENBACH VJ, 1986, AM J EPIDEMIOL, V123, P577, DOI 10.1093/oxfordjournals.aje.a114278
+   Schulz R, 1999, JAMA-J AM MED ASSOC, V282, P2215, DOI 10.1001/jama.282.23.2215
+   SCHWARTZ CE, 1990, J PSYCHIATR RES, V24, P231, DOI 10.1016/0022-3956(90)90013-G
+   Seeman T E, 1993, Ann Epidemiol, V3, P325
+   Shaw WS, 1997, ANN BEHAV MED, V19, P101, DOI 10.1007/BF02883326
+   SIEGEL K, 1991, ANN ONCOL, V2, P511, DOI 10.1093/oxfordjournals.annonc.a058005
+   Silver EJ, 1998, J PEDIATR PSYCHOL, V23, P5, DOI 10.1093/jpepsy/23.1.5
+   Smith GD, 2003, INT J EPIDEMIOL, V32, P1, DOI 10.1093/ije/dyg070
+   SPIEGEL D, 1989, LANCET, V2, P888
+   Spiegel D, 2001, NEW ENGL J MED, V345, P1767, DOI 10.1056/NEJM200112133452409
+   Strauss RS, 2003, ARCH PEDIAT ADOL MED, V157, P746, DOI 10.1001/archpedi.157.8.746
+   THOITS PA, 1995, J HEALTH SOC BEHAV, V35, P53, DOI 10.2307/2626957
+   Thombs DL, 2002, J DRUG EDUC, V32, P227, DOI 10.2190/2UYU-6X9M-RJ65-3YYH
+   Thyen U, 1998, J DEV BEHAV PEDIATR, V19, P273, DOI 10.1097/00004703-199808000-00006
+   Urberg KA, 1997, DEV PSYCHOL, V33, P834, DOI 10.1037/0012-1649.33.5.834
+   Valente T.W., 1995, NETWORK MODELS DIFFU
+   Valente TW, 2001, AM J PUBLIC HEALTH, V91, P406, DOI 10.2105/AJPH.91.3.406
+   Valente TW, 1997, SOC SCI MED, V45, P677, DOI 10.1016/S0277-9536(96)00385-1
+   VERBRUGGE LM, 1977, SOC FORCES, V56, P576, DOI 10.2307/2577741
+   Verheijden MW, 2005, EUR J CLIN NUTR, V59, pS179, DOI 10.1038/sj.ejcn.1602194
+   WADDINGTON SR, 1992, GENET SOC GEN PSYCH, V118, P295
+   WALKER LS, 1994, J CONSULT CLIN PSYCH, V62, P1213, DOI 10.1037/0022-006X.62.6.1213
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   Watts DJ, 2004, ANNU REV SOCIOL, V30, P243, DOI 10.1146/annurev.soc.30.020404.104342
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   WECHSLER H, 1995, J STUD ALCOHOL, V56, P628, DOI 10.15288/jsa.1995.56.628
+   Weissman MM, 2006, JAMA-J AM MED ASSOC, V295, P1389, DOI 10.1001/jama.295.12.1389
+   WEISSMAN MM, 1987, ARCH GEN PSYCHIAT, V44, P847
+   WELIN L, 1985, LANCET, V1, P915
+   Williamson GM, 1998, HEALTH PSYCHOL, V17, P152, DOI 10.1037/0278-6133.17.2.152
+   Wing RR, 1999, J CONSULT CLIN PSYCH, V67, P132, DOI 10.1037/0022-006X.67.1.132
+   YOUNG M, 1963, LANCET, V2, P454
+   ZARIT SH, 1986, GERONTOLOGIST, V26, P260, DOI 10.1093/geront/26.3.260
+   ZICK CD, 1991, J MARRIAGE FAM, V53, P327, DOI 10.2307/352902
+   ZUCKERMAN BS, 1987, PEDIATRICS, V79, P110
+NR 199
+TC 1027
+Z9 1289
+U1 10
+U2 419
+PU ANNUAL REVIEWS
+PI PALO ALTO
+PA 4139 EL CAMINO WAY, PO BOX 10139, PALO ALTO, CA 94303-0139 USA
+SN 0360-0572
+J9 ANNU REV SOCIOL
+JI Annu. Rev. Sociol.
+PY 2008
+VL 34
+BP 405
+EP 429
+DI 10.1146/annurev.soc.34.040507.134601
+PG 27
+WC Sociology
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH); Social Science Citation Index (SSCI)
+SC Sociology
+GA 338LN
+UT WOS:000258509400019
+DA 2024-11-22
+ER
+
+PT J
+AU Aldhous, P
+AF Aldhous, Peter
+TI When the MySpace mindset meets medical science
+SO NEW SCIENTIST
+LA English
+DT News Item
+AB MySpace mindset is a medical science website in which it has enabled people with degenerative neurological disorders share information about symptoms and treatments. This online social networking is moving into genetics research. This is useful to overcome constraints in scientific progress in clinical research.
+NR 0
+TC 2
+Z9 3
+U1 0
+U2 0
+PU REED BUSINESS INFORMATION LTD
+PI SUTTON
+PA QUADRANT HOUSE THE QUADRANT, SUTTON SM2 5AS, SURREY, ENGLAND
+SN 0262-4079
+J9 NEW SCI
+JI New Sci.
+PD MAY 17
+PY 2008
+VL 198
+IS 2656
+BP 26
+EP 27
+PG 2
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 303IQ
+UT WOS:000256034600031
+DA 2024-11-22
+ER
+
+PT J
+AU Fuhse, JA
+AF Fuhse, Jan Arendt
+TI Is there a phenomenological network theory? Story, network and identity
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+ID SOCIAL-STRUCTURE; CULTURE; PUBLICS; ROLES
+AB The term >phenomenological network theory< designates a body of sociological work from the past 20 years which focuses on the interplay of symbolic forms and social network structure. The approach centers on Harrison White and his students and followers. The essay analyzes whether the approach fits the requirements of a >school< of sociological theory in the sense of an >invisible college<. Phenomenological Network Theory is thus applied to itself by descri-bing the interplay of meaning and network structure in the network of its authors. The following questions are examined: Are the authors of this approach closely interlinked? Is there a clear core in the network or a differentiation into various subgroups? Is there a common collective identity? How does the approach emerge from the combination of various theoretical strands and in opposition to other strands in sociology? These questions are examined drawing on the various methods typical of the research associated with Phenomenological Network Theory. The essay comprises a narrative account of the history of the approach (in the context of other sociological theories), a formal analysis of the network of authors, and a qualitative analysis of interviews with the main authors.
+C1 Columbia Univ, Paul F Lazarsfeld Ctr Social Sci, New York, NY 10027 USA.
+C3 Columbia University
+RP Fuhse, JA (corresponding author), Columbia Univ, Paul F Lazarsfeld Ctr Social Sci, 420 W 118th St,Mail Code 3355, New York, NY 10027 USA.
+EM jan@fuhse.net
+RI Fuhse, Jan/A-7854-2009
+CR Abbott A, 1995, SOC RES, V62, P857
+   Abbott A, 1997, SOC FORCES, V75, P1149, DOI 10.2307/2580667
+   Abbott Andrew, 2001, CHAOS DISCIPLINES
+   [Anonymous], 1972, INVISIBLE COLL
+   [Anonymous], 2006, NETZWERKE
+   [Anonymous], 1987, MICROMACRO LINK
+   [Anonymous], 1992, CULTURAL COMPLEXITY
+   [Anonymous], 2004, WOMEN HEALTH
+   Ansell CK, 1997, AM J SOCIOL, V103, P359, DOI 10.1086/231211
+   Baecker Dirk., 2005, FORM FORMEN KOMMUNIK
+   Beckert J, 2005, AKTUELLE THEORIEN SO, P286
+   Borgatti SP, 1999, SOC NETWORKS, V21, P375
+   Breiger RL, 2000, POETICS, V27, P91, DOI 10.1016/S0304-422X(99)00026-1
+   BREIGER RL, 1974, SOC FORCES, V53, P181, DOI 10.2307/2576011
+   BREIGER RL, 1976, AM SOCIOL REV, V41, P392
+   BREIGER RL, 1995, ANNU REV SOCIOL, V21, P115, DOI 10.1146/annurev.so.21.080195.000555
+   Breiger RonaldL., 2004, Handbook of Data Analysis, P505
+   Brint S., 1992, Sociological Theory, P194
+   Burt RS, 2004, AM J SOCIOL, V110, P349, DOI 10.1086/421787
+   Collins Randall., 2005, INTERACTION RITUAL C
+   Collins Randall., 1998, SOCIOLOGY PHILOS GLO
+   DiMaggio P, 1997, ANNU REV SOCIOL, V23, P263, DOI 10.1146/annurev.soc.23.1.263
+   DIMAGGIO P, 1992, NETWORKS AND ORGANIZATIONS : STRUCTURE, FORM, AND ACTION, P118
+   EMIRBAYER M, 1994, AM J SOCIOL, V99, P1411, DOI 10.1086/230450
+   Emirbayer M, 1998, AM J SOCIOL, V103, P962, DOI 10.1086/231294
+   Emirbayer M, 1997, AM J SOCIOL, V103, P281, DOI 10.1086/231209
+   ENNIS JG, 1992, AM SOCIOL REV, V57, P259, DOI 10.2307/2096209
+   Erickson BH, 1996, AM J SOCIOL, V102, P217, DOI 10.1086/230912
+   Fine Gary Alan., 1995, A Second Chicago School? The Development of a Postwar American Sociology, P1
+   Fine GaryAlan., 1983, SYMB INTERACT, V6, P97
+   Fuchs Stephan., 2001, ESSENTIALISM
+   Gibson DR, 2005, AM J SOCIOL, V110, P1561, DOI 10.1086/428689
+   Gould Roger V., 1995, Insurgent Identities: Class, Community, and Protest in Paris from 1848 to the Commune
+   GRIFFITH BC, 1972, SCIENCE, V177, P959, DOI 10.1126/science.177.4053.959
+   Hanneman RA, 2005, Introduction to social network methods
+   Hollstein B, 2004, Z PADAGOGIK, P153
+   HOLZER B, 2008, NEUES PARAD IN PRESS
+   Ikegami E, 2000, SOC RES, V67, P989
+   Knox H, 2006, ECON SOC, V35, P113, DOI 10.1080/03085140500465899
+   Kuhn T.S., 2012, The structures of scientific revolutions
+   Leifer E.M., 1991, Actors as Observers: A Theory of Skill in Social Relationships
+   Lizardo O, 2006, AM SOCIOL REV, V71, P778, DOI 10.1177/000312240607100504
+   Lopez Jose., 2000, SOCIAL STRUCTURE
+   Martin JL, 2003, AM J SOCIOL, V109, P1, DOI 10.1086/375201
+   Martin JL, 2002, AM J SOCIOL, V107, P861, DOI 10.1086/343192
+   McLean PD, 1998, AM J SOCIOL, V104, P51, DOI 10.1086/210002
+   Mische A, 2000, POETICS, V27, P163, DOI 10.1016/S0304-422X(99)00024-8
+   Mische A, 1998, SOC RES, V65, P695
+   Mische Ann., 2003, Social Movements and Networks: Relational Approaches to Collective Action, P258
+   MOHR JW, 1994, POETICS, V22, P327, DOI 10.1016/0304-422X(94)90013-2
+   Mohr JW, 2000, POETICS, V27, P57, DOI 10.1016/S0304-422X(00)00002-4
+   Mohr JW, 1998, ANNU REV SOCIOL, V24, P345, DOI 10.1146/annurev.soc.24.1.345
+   Mullins N.C., 1973, THEORIES THEORY GROU
+   MULLINS NC, 1977, AM SOCIOL REV, V42, P552, DOI 10.2307/2094554
+   MULLINS NC, 1968, AM SOCIOL REV, V33, P786, DOI 10.2307/2092888
+   PADGETT JF, 1993, AM J SOCIOL, V98, P1259, DOI 10.1086/230190
+   Podolny JM, 2001, AM J SOCIOL, V107, P33, DOI 10.1086/323038
+   SMALL H, 1974, SCI STUD, V4, P17, DOI 10.1177/030631277400400102
+   SOMERS MR, 1994, THEOR SOC, V23, P605, DOI 10.1007/BF00992905
+   Somers MR, 1998, AM J SOCIOL, V104, P722, DOI 10.1086/210085
+   Tilly Charles., 2002, Stories, Identities, and Political Change
+   Tilly Charles., 1998, DURABLE INEQUALITY
+   TREZZINI B, 1998, SCHWEIZ Z SOZIALVERS, V24, P511
+   Wellman B., 1988, Social structure: A network approach
+   Wellman B., 1983, SOCIOL THEORY, V1, P155, DOI [10.2307/202050, DOI 10.2307/202050]
+   White H.C., 1992, Identity and control: A structural theory of social action
+   White HarrisonC., 1993, CAREERS CREATIVITY S
+   WHITE HC, 1993, SOC ECON, P63
+   White HC, 1995, SOC RES, V62, P1035
+   WHITE HC, 1976, AM J SOCIOL, V81, P730, DOI 10.1086/226141
+NR 70
+TC 3
+Z9 3
+U1 0
+U2 10
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2008
+VL 59
+IS 1
+BP 31
+EP +
+PG 23
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA 331XV
+UT WOS:000258046800003
+DA 2024-11-22
+ER

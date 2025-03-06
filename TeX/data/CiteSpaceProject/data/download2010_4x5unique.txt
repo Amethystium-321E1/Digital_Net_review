@@ -1,0 +1,535 @@
+
+PT J
+AU Foster, JG
+   Foster, DV
+   Grassberger, P
+   Paczuski, M
+AF Foster, Jacob G.
+   Foster, David V.
+   Grassberger, Peter
+   Paczuski, Maya
+TI Edge direction and the structure of networks
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+ID COMPLEX; CONSTRUCTION; WORLD
+AB Directed networks are ubiquitous and are necessary to represent complex systems with asymmetric interactions-from food webs to the World Wide Web. Despite the importance of edge direction for detecting local and communitystructure, it has been disregarded in studying a basic type of global diversity in networks: the tendency of nodes with similar numbers of edges to connect. This tendency, called assortativity, affects crucial structural and dynamic properties of real-world networks, such as error tolerance or epidemic spreading. Here we demonstrate that edge direction has profound effects on assortativity. We define a set of four directed assortativity measures and assign statistical significance by comparison to randomized networks. We apply these measures to three network classes-online/social networks, food webs, and word-adjacency networks. Our measures (i) reveal patterns common to each class, (ii) separate networks that have been previously classified together, and (iii) expose limitations of several existing theoretical models. We reject the standard classification of directed networks as purely assortative or disassortative. Many display a class-specific mixture, likely reflecting functional or historical constraints, contingencies, and forces guiding the system's evolution.
+C1 [Foster, Jacob G.; Foster, David V.; Grassberger, Peter; Paczuski, Maya] Univ Calgary, Complex Sci Grp, Dept Phys & Astron, Calgary, AB T2N 1N4, Canada.
+C3 University of Calgary
+RP Foster, JG (corresponding author), Univ Calgary, Complex Sci Grp, Dept Phys & Astron, 2500 Univ Dr NW, Calgary, AB T2N 1N4, Canada.
+EM jgfoster@uchicago.edu
+RI Grasberger, Peter/ABA-5538-2021
+FU iCORE; NSERC
+FX The authors warmly thank E. A. Cartmill for her enormously helpful and
+   detailed comments on the manuscript, K. Brown, M. Cartmill, J. Davidsen,
+   and Seung-Woo Son for their thoughtful reading of the manuscript, the
+   reviewers for their useful comments, and Juyong Park for an insightful
+   discussion. J.G.F. and P.G. acknowledge the support of iCORE. This work
+   was funded in part by NSERC.
+CR Adamic L.A., 2005, P 3 INT WORKSH LINK, P36, DOI DOI 10.1145/1134271.1134277
+   Albert R, 1999, NATURE, V401, P130, DOI 10.1038/43601
+   Albert R, 2000, NATURE, V406, P378, DOI 10.1038/35019019
+   Alderson DL, 2007, PHYS REV E, V75, DOI 10.1103/PhysRevE.75.046102
+   Barabási AL, 2004, NAT REV GENET, V5, P101, DOI 10.1038/nrg1272
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barabási AL, 2009, SCIENCE, V325, P412, DOI 10.1126/science.1173299
+   Bascompte J, 2005, ECOLOGY, V86, P2868, DOI 10.1890/05-0101
+   Broder A, 2000, COMPUT NETW, V33, P309, DOI 10.1016/S1389-1286(00)00083-9
+   Camacho J, 2002, PHYS REV LETT, V88, DOI 10.1103/PhysRevLett.88.228102
+   Cancho RFI, 2001, P ROY SOC B-BIOL SCI, V268, P2261, DOI 10.1098/rspb.2001.1800
+   Capocci A, 2006, PHYS REV E, V74, DOI 10.1103/PhysRevE.74.036116
+   Christian RR, 1999, ECOL MODEL, V117, P99, DOI 10.1016/S0304-3800(99)00022-8
+   Darwin C., 2004, ORIGIN SPECIES 1859
+   Davidsen J, 2008, PHYS REV E, V77, DOI 10.1103/PhysRevE.77.066104
+   Dunne JA, 2002, P NATL ACAD SCI USA, V99, P12917, DOI 10.1073/pnas.192407699
+   Eubank S, 2004, NATURE, V429, P180, DOI 10.1038/nature02541
+   Flack JC, 2006, NATURE, V439, P426, DOI 10.1038/nature04326
+   Foster JG, 2007, PHYS REV E, V76, DOI 10.1103/PhysRevE.76.046112
+   GOLDWASSER L, 1993, ECOLOGY, V74, P1216, DOI 10.2307/1940492
+   Guimerà R, 2007, PHYS REV E, V76, DOI 10.1103/PhysRevE.76.036102
+   Hu HB, 2009, EPL-EUROPHYS LETT, V86, DOI 10.1209/0295-5075/86/18003
+   Huxham M, 1996, OIKOS, V76, P284, DOI 10.2307/3546201
+   Karrer B, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.046110
+   Kim Y, 2010, PHYS REV E, V81, DOI 10.1103/PhysRevE.81.016103
+   Kleinberg JM, 1999, J ACM, V46, P604, DOI 10.1145/324133.324140
+   Krapivsky PL, 2001, PHYS REV LETT, V86, P5401, DOI 10.1103/PhysRevLett.86.5401
+   Leicht EA, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.118703
+   MARTINEZ ND, 1991, ECOL MONOGR, V61, P367, DOI 10.2307/2937047
+   Maslov S, 2004, PHYSICA A, V333, P529, DOI 10.1016/j.physa.2003.06.002
+   Maslov S, 2002, SCIENCE, V296, P910, DOI 10.1126/science.1065103
+   Milo R, 2004, SCIENCE, V303, P1538, DOI 10.1126/science.1089167
+   Milo R, 2002, SCIENCE, V298, P824, DOI 10.1126/science.298.5594.824
+   Newman MEJ, 2003, PHYS REV E, V67, DOI 10.1103/PhysRevE.67.026126
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   Newman MEJ, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.208701
+   POLIS GA, 1991, AM NAT, V138, P123, DOI 10.1086/285208
+   Ravasz E, 2002, SCIENCE, V297, P1551, DOI 10.1126/science.1073374
+   Serrano MA, 2007, ACM T WEB, V1, DOI 10.1145/1255438.1255442
+   Stouffer DB, 2007, P ROY SOC B-BIOL SCI, V274, P1931, DOI 10.1098/rspb.2007.0571
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Williams RJ, 2004, AM NAT, V163, P458, DOI 10.1086/381964
+   Williams RJ, 2000, NATURE, V404, P180, DOI 10.1038/35004572
+   Zlatic V, 2006, PHYS REV E, V74, DOI 10.1103/PhysRevE.74.016115
+NR 44
+TC 173
+Z9 199
+U1 0
+U2 34
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD JUN 15
+PY 2010
+VL 107
+IS 24
+BP 10815
+EP 10820
+DI 10.1073/pnas.0912671107
+PG 6
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 611IC
+UT WOS:000278807400010
+PM 20505119
+OA Green Published, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Afshar, M
+   Asadpour, M
+AF Afshar, Mohammad
+   Asadpour, Masoud
+TI Opinion Formation by Informed Agents
+SO JASSS-THE JOURNAL OF ARTIFICIAL SOCIETIES AND SOCIAL SIMULATION
+LA English
+DT Article
+DE Social Networks; Informed Agents; Innovation Diffusion; Bounded
+   Confidence; Opinion Dynamics; Opinion Formation
+ID DYNAMICS
+AB Opinion formation and innovation diffusion have gained lots of attention in the last decade due to its application in social and political science. Control of the diffusion process usually takes place using the most influential people in the society, called opinion leaders or key players. But the opinion leaders can hardly be accessed or hired for spreading the desired opinion or information. This is where informed agents can play a key role. Informed agents are common people, not distinguishable from the other members of the society that act in coordination. In this paper we show that informed agents are able to gradually shift the public opinion toward a desired goal through microscopic interactions. In order to do so they pretend to have an opinion similar to others, but while interacting with them, gradually and intentionally change their opinion toward the desired direction. In this paper a computational model for opinion formation by the informed agents based on the bounded confidence model is proposed. The effects of different parameter settings including population size of the informed agents, their characteristics, and network structure, are investigated. The results show that social and open-minded informed agents are more efficient than selfish or closed-minded agents in control of the public opinion.
+CR Adamic L.A., 2006, P 7 ACM C EL COMM, P228, DOI [10.1145/1232722.1232727, 10.1145/1232722.1232727.15]
+   Alaali Alya, 2008, 2008 IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology - Workshops, P394, DOI 10.1109/WIIAT.2008.377
+   Amblard F, 2004, PHYSICA A, V343, P725, DOI 10.1016/j.physa.2004.06.102
+   [Anonymous], JASSS
+   Axelrod R, 1997, J CONFLICT RESOLUT, V41, P203, DOI 10.1177/0022002797041002001
+   Boccaletti S, 2006, PHYS REP, V424, P175, DOI 10.1016/j.physrep.2005.10.009
+   Borgatti S. P., 2006, Computational & Mathematical Organization Theory, V12, P21, DOI 10.1007/s10588-006-7084-x
+   Burger J M, 1999, Pers Soc Psychol Rev, V3, P303, DOI 10.1207/s15327957pspr0304_2
+   CARUSO F., 2005, PHYSICS0503199
+   Castellano C, 2009, REV MOD PHYS, V81, P591, DOI 10.1103/RevModPhys.81.591
+   Couzin ID, 2009, TRENDS COGN SCI, V13, P36, DOI 10.1016/j.tics.2008.10.002
+   Couzin Iain D., 2005, Effective leadership and decision making in animal groups on themove
+   DEFFUANT G., 2004, CONDMAT0410199
+   DEFFUANT G., 2001, ADV COMPLEX SYST, V3, P87
+   Di Mare A, 2007, INT J MOD PHYS C, V18, P1377, DOI 10.1142/S012918310701139X
+   Easley D., 2010, NETWORKS CROWDS MARK
+   FORTUNATO S., 2004, CONDMAT0406054
+   GALAM S., 2008, ARXIV08031800V1PHYSI
+   Halloy J, 2007, SCIENCE, V318, P1155, DOI 10.1126/science.1144259
+   Huang G, 2008, PHYSICA A, V387, P4665, DOI 10.1016/j.physa.2008.03.033
+   Krapivsky PL, 2003, PHYS REV LETT, V90, DOI 10.1103/PhysRevLett.90.238701
+   LATANE B, 1981, AM PSYCHOL, V36, P343, DOI 10.1037/0003-066X.36.4.343
+   LEWENSTEIN M, 1992, PHYS REV A, V45, P763, DOI 10.1103/PhysRevA.45.763
+   Lorenz J, 2007, INT J MOD PHYS C, V18, P1819, DOI 10.1142/S0129183107011789
+   NEWMAN MEJ, 2003, CONDMAT0308217
+   Sobkowicz P, 2009, JASSS-J ARTIF SOC S, V12
+   Valente TW, 2007, HEALTH EDUC BEHAV, V34, P881, DOI 10.1177/1090198106297855
+   Valente TW, 1999, ANN AM ACAD POLIT SS, V566, P55, DOI 10.1177/0002716299566001005
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+NR 29
+TC 59
+Z9 64
+U1 6
+U2 39
+PU J A S S S
+PI GUILDFORD
+PA UNIV SURREY, DEPT SOCIOLOGY, GUILDFORD GU2 7XH, SURREY, ENGLAND
+SN 1460-7425
+J9 JASSS-J ARTIF SOC S
+JI JASSS
+PD OCT
+PY 2010
+VL 13
+IS 4
+AR 5
+DI 10.18564/jasss.1665
+PG 16
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA 715KW
+UT WOS:000286884400005
+OA Green Submitted
+DA 2024-11-22
+ER
+
+PT S
+AU Pachucki, MA
+   Breiger, RL
+AF Pachucki, Mark A.
+   Breiger, Ronald L.
+BE Cook, KS
+   Massey, DS
+TI Cultural Holes: Beyond Relationality in Social Networks and Culture
+SO ANNUAL REVIEW OF SOCIOLOGY, VOL 36
+SE Annual Review of Sociology
+LA English
+DT Article; Book Chapter
+DE interaction; meaning; structure; boundaries; local practices
+ID MULTIPLE NETWORKS; SCIENCE; DYNAMICS; IDENTITY; FORMS; MODEL;
+   EXPLANATION; BOUNDARIES; SOCIOLOGY; LOCATION
+AB A burgeoning literature spanning sociologies of culture and social network methods has for the past several decades sought to explicate the relationships between culture and connectivity. A number of promising recent moves toward integration are worthy of review, comparison, critique, and synthesis. Network thinking provides powerful techniques for specifying cultural concepts ranging from narrative networks to classification systems, tastes, and cultural repertoires. At the same time, we see theoretical advances by sociologists of culture as providing a corrective to network analysis as it is often portrayed, as a mere collection of methods. Cultural thinking complements and sets a new agenda for moving beyond predominant forms of structural analysis that ignore action, agency, and intersubjective meaning. The notion of "cultural holes" that we use to organize our review points both to the cultural contingency of network structure and to the increasingly permeable boundary between studies of culture and research on social networks.
+C1 [Pachucki, Mark A.] Harvard Univ, Dept Sociol, Cambridge, MA 02138 USA.
+   [Breiger, Ronald L.] Univ Arizona, Dept Sociol, Tucson, AZ 85721 USA.
+C3 Harvard University; University of Arizona
+RP Pachucki, MA (corresponding author), Harvard Univ, Dept Sociol, Cambridge, MA 02138 USA.
+EM pachucki@fas.harvard.edu; breiger@arizona.edu
+RI Breiger, Ronald/Q-1801-2019
+OI Breiger, Ronald/0000-0003-0575-9211; Pachucki, Mark/0000-0002-7855-2433
+CR Abbott Andrew, 2001, CHAOS DISCIPLINES
+   Alderson AS, 2004, AM J SOCIOL, V109, P811, DOI 10.1086/378930
+   ANHEIER HK, 1995, AM J SOCIOL, V100, P859, DOI 10.1086/230603
+   [Anonymous], SYSTEMATIC SOCIOLOGY
+   [Anonymous], THESIS COLUMBIA U
+   [Anonymous], 1992, Structural holes
+   [Anonymous], 1989, Sociological Methodology, DOI DOI 10.2307/270949
+   Baldassarri D, 2007, AM SOCIOL REV, V72, P784, DOI 10.1177/000312240707200507
+   Bearman P, 2004, SOC FORCES, V83, P535, DOI 10.1353/sof.2005.0001
+   Bearman P, 1999, SOC SCI HIST, V23, P501
+   Bearman PS, 2000, POETICS, V27, P69, DOI 10.1016/S0304-422X(99)00022-4
+   Bearman PS, 2004, AM J SOCIOL, V110, P44, DOI 10.1086/386272
+   BLAU PM, 1977, AM J SOCIOL, V83, P26
+   BOORMAN SA, 1976, AM J SOCIOL, V81, P1384, DOI 10.1086/226228
+   Borgatti SP, 2009, SCIENCE, V323, P892, DOI 10.1126/science.1165821
+   Breiger R. L., 2004, Computational & Mathematical Organization Theory, V10, P17, DOI 10.1023/B:CMOT.0000032578.16511.9d
+   Breiger RL, 2000, POETICS, V27, P91, DOI 10.1016/S0304-422X(99)00026-1
+   Brint S., 1992, Sociological Theory, P194
+   CARLEY K, 1986, J MATH SOCIOL, V12, P137, DOI 10.1080/0022250X.1986.9990010
+   Cederman LE, 2005, AM J SOCIOL, V110, P864, DOI 10.1086/426412
+   Centola D, 2005, AM J SOCIOL, V110, P1009, DOI 10.1086/427321
+   Centola D, 2007, J CONFLICT RESOLUT, V51, P905, DOI 10.1177/0022002707307632
+   Charmaz K., 2006, Brokerage and closure: An introduction to social capital
+   Christakis NA, 2008, NEW ENGL J MED, V358, P2249, DOI 10.1056/NEJMsa0706154
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   Collins R, 2003, SOCIOL THEOR, V21, P69, DOI 10.1111/1467-9558.00176
+   COLLINS R, 1983, SOCIOL QUART, V24, P185, DOI 10.1111/j.1533-8525.1983.tb00697.x
+   Collins R., 2004, INTERACTION RITUAL C, DOI 10.1515/9781400851744
+   Crossley N, 2009, POETICS, V37, P24, DOI 10.1016/j.poetic.2008.10.002
+   Demerath L, 2002, SOCIOL THEOR, V20, P208, DOI 10.1111/1467-9558.00159
+   Diani M, 2007, SOC NETWORKS, V29, P316, DOI 10.1016/j.socnet.2006.12.002
+   DIMAGGIO P, 1987, AM SOCIOL REV, V52, P440, DOI 10.2307/2095290
+   DIMAGGIO P, 1994, POETICS, V22, P263, DOI 10.1016/0304-422X(94)90009-4
+   Durkheim E., 1933, DIVISION LABOR SOC
+   Elias Norbert., 1978, WHAT IS SOCIOLOGY
+   Eliasoph N, 2003, AM J SOCIOL, V108, P735, DOI 10.1086/367920
+   EMIRBAYER M, 1994, AM J SOCIOL, V99, P1411, DOI 10.1086/230450
+   Emirbayer M, 1997, AM J SOCIOL, V103, P281, DOI 10.1086/231209
+   Entwisle B, 2007, AM J SOCIOL, V112, P1495, DOI 10.1086/511803
+   Erickson BH, 1996, AM J SOCIOL, V102, P217, DOI 10.1086/230912
+   Erikson E, 2006, AM J SOCIOL, V112, P195, DOI 10.1086/502694
+   Ewick P, 2003, AM J SOCIOL, V108, P1328, DOI 10.1086/378035
+   EYAL G, 2005, BOURD THEOR HIST AN
+   FINE GA, 1979, AM J SOCIOL, V85, P1, DOI 10.1086/226971
+   Fine GaryAlan., 1983, SYMB INTERACT, V6, P97
+   Fowler JH, 2005, AM J SOCIOL, V110, P1070, DOI 10.1086/426554
+   Franzosi R, 1998, ANNU REV SOCIOL, V24, P517, DOI 10.1146/annurev.soc.24.1.517
+   Franzosi R., 2004, From words to numbers: Narrative, data, and social science
+   Freese J, 2008, AM J SOCIOL, V114, pS1, DOI 10.1086/592208
+   Friedland R, 2009, ORGANIZATION, V16, P887, DOI 10.1177/1350508409341115
+   Fuchs Stephan., 2001, ESSENTIALISM
+   Fuhse JA, 2009, SOCIOL THEOR, V27, P51, DOI 10.1111/j.1467-9558.2009.00338.x
+   GARTRELL CD, 1987, ANNU REV SOCIOL, V13, P49
+   Gibson DR, 2005, AM J SOCIOL, V110, P1561, DOI 10.1086/428689
+   Giuffre K, 1999, SOC FORCES, V77, P815, DOI 10.2307/3005962
+   Gould Roger., 2003, COMP HIST ANAL SOCIA, P241, DOI DOI 10.1017/CBO9780511803963.008
+   Han SK, 2003, SOCIOL PERSPECT, V46, P435, DOI 10.1525/sop.2003.46.4.435
+   Homans G.C., 1961, Social Behaviour: Its Elementary Forms
+   Ikegami E, 2000, SOC RES, V67, P989
+   Ikegami Eiko., 2005, BONDS CIVILITY AESTH
+   Kaufman J, 2004, ANNU REV SOCIOL, V30, P335, DOI 10.1146/annurev.soc.30.012703.110608
+   Lamont M, 2002, ANNU REV SOCIOL, V28, P167, DOI 10.1146/annurev.soc.28.110601.141107
+   Latour B., 1987, SCI ACTION FOLLOW SC
+   Latour B., 1986, LAB LIFE CONSTRUCTIO
+   Latour Bruno., 2005, REASSEMBLING SOCIAL
+   Law J, 1999, ACTOR NETWORK THEORY AND AFTER, P1, DOI 10.1111/j.1467-954X.1999.tb03479.x
+   Lazer D, 2009, SCIENCE, V323, P721, DOI 10.1126/science.1167742
+   LEIFER EM, 1988, AM SOCIOL REV, V53, P865, DOI 10.2307/2095896
+   Lewis K, 2008, SOC NETWORKS, V30, P330, DOI 10.1016/j.socnet.2008.07.002
+   Lin N, 1999, ANNU REV SOCIOL, V25, P467, DOI 10.1146/annurev.soc.25.1.467
+   Lizardo O, 2006, AM SOCIOL REV, V71, P778, DOI 10.1177/000312240607100504
+   Lorrain F., 1971, J MATH SOCIOL, V1, P49, DOI [10.1080/0022250X.1971.9989788, DOI 10.1080/0022250X.1971.9989788]
+   Mark N, 1998, AM SOCIOL REV, V63, P309, DOI 10.2307/2657552
+   Mark NP, 2003, AM SOCIOL REV, V68, P319, DOI 10.2307/1519727
+   Marsden PV., 1982, SOCIAL STRUCTURE NET, V7, P341, DOI DOI 10.1093/SF/63.3.854
+   Martin JL, 2003, AM J SOCIOL, V109, P1, DOI 10.1086/375201
+   McFarland D, 2005, SOC PSYCHOL QUART, V68, P289, DOI 10.1177/019027250506800401
+   McLean PaulD., 2007, The Art of the Network: Strategic Interaction and Patronage in Renaissance Florence
+   MCPHERSON JM, 1991, SOC FORCES, V70, P19, DOI 10.2307/2580060
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mische A, 2000, POETICS, V27, P163, DOI 10.1016/S0304-422X(99)00024-8
+   Mische Ann., 2007, Partisan Publics: Communication and Contention across Brazilian Youth Activist Networks
+   Mische Ann., 2003, Social Movements and Networks: Relational Approaches to Collective Action, P258
+   Mohr JW, 2008, THEOR SOC, V37, P485, DOI 10.1007/s11186-008-9066-0
+   Mohr JW, 1997, THEOR SOC, V26, P305, DOI 10.1023/A:1006896022092
+   Mohr JW, 1998, ANNU REV SOCIOL, V24, P345, DOI 10.1146/annurev.soc.24.1.345
+   Moody J, 2005, AM J SOCIOL, V110, P1206, DOI 10.1086/421509
+   Moody J, 2004, AM SOCIOL REV, V69, P213, DOI 10.1177/000312240406900204
+   MUETZEL S, 2007, ALPHAJOURNALISTEN DE, P55
+   Mützel S, 2009, CURR SOCIOL, V57, P871, DOI 10.1177/0011392109342223
+   Mullins N.C., 1973, THEORIES THEORY GROU
+   Mustafa Emirbayer., 2004, Thesis Eleven, V79, P5, DOI [10.1177/0725513604046951., 10.1177/0725513604046951, DOI 10.1177/0725513604046951]
+   Neff G, 2005, ANN AM ACAD POLIT SS, V597, P134, DOI 10.1177/0002716204270505
+   Ostrower F, 1998, POETICS, V26, P43, DOI 10.1016/S0304-422X(98)00010-2
+   PADGETT JF, 1993, AM J SOCIOL, V98, P1259, DOI 10.1086/230190
+   Pearson M, 2008, J OPER RES SOC, V59, P494, DOI 10.1057/palgrave.jors.2602314
+   Pedahzur A, 2006, SOC FORCES, V84, P1987, DOI 10.1353/sof.2006.0104
+   Perrin AJ, 2005, SOC FORCES, V84, P1049, DOI 10.1353/sof.2006.0028
+   PERRIN AJ, 2004, CULTURE, V18, P1
+   Podolny JM, 1998, ANNU REV SOCIOL, V24, P57, DOI 10.1146/annurev.soc.24.1.57
+   Polillo S, 2005, AM J SOCIOL, V110, P1764, DOI 10.1086/428685
+   Ryan D, 2006, SOCIOL THEOR, V24, P228, DOI 10.1111/j.1467-9558.2006.00289.x
+   SCOTT J, 1991, ANNU REV SOCIOL, V17, P181, DOI 10.1146/annurev.so.17.080191.001145
+   Scott J., 2017, SOCIAL NETWORK ANAL
+   Simmel Georg., 1971, Georg Simmel: On Individuality and Social Forms
+   Smilde D, 2005, AM J SOCIOL, V111, P757, DOI 10.1086/497306
+   Smith KP, 2008, ANNU REV SOCIOL, V34, P405, DOI 10.1146/annurev.soc.34.040507.134601
+   SMITH T, 2007, POETICS, V25, P32
+   Snijders T. A., 2005, MODELS METHODS SOCIA, V1, P215, DOI DOI 10.1017/CBO9780511811395.011
+   SOMERS MR, 1994, THEOR SOC, V23, P605, DOI 10.1007/BF00992905
+   SOMERS MR, 1993, AM SOCIOL REV, V58, P587, DOI 10.2307/2096277
+   Somers MR, 1998, AM J SOCIOL, V104, P722, DOI 10.1086/210085
+   SONNETT H, 2004, CULTURE, V19, P8
+   Sonnett J, 2004, POETICS, V32, P247, DOI 10.1016/j.poetic.2004.05.007
+   South SJ, 2004, SOC FORCES, V83, P315, DOI 10.1353/sof.2004.0128
+   SPILLMAN L, 2005, CULTURE, V19, P4
+   SPILLMAN L, 2005, CULTURE, V19, P1
+   STAR SL, 1989, SOC STUD SCI, V19, P387, DOI 10.1177/030631289019003001
+   Stark D, 2006, AM J SOCIOL, V111, P1367, DOI 10.1086/499507
+   Tarde G., 1899, SOCIAL LAWS OUTLINE
+   Tilly C, 1997, THEOR SOC, V26, P245, DOI 10.1023/A:1006836012345
+   Viterna JS, 2006, AM J SOCIOL, V112, P1, DOI 10.1086/502690
+   Walters BR, 2004, SOCIOL RELIG, V65, P285, DOI 10.2307/3712253
+   Watts DJ, 2004, ANNU REV SOCIOL, V30, P243, DOI 10.1146/annurev.soc.30.020404.104342
+   WELLMAN B, 2000, CONNECTIONS, V23, P20
+   White H., 2007, Soziale Systeme, V13, P543
+   White H.C., 1992, Identity and control: A structural theory of social action
+   White Harrison., 2007, European Journal of Social Theory, V10, P194
+   White HarrisonC., 1970, CHAINS OPPORTUNITY S
+   White HarrisonC., 2008, SCI SOCI T, V73, P16
+   White HC, 2008, IDENTITY AND CONTROL: HOW SOCIAL FORMATIONS EMERGE, 2ND EDITION, P1
+   WHITE HC, 1981, AM J SOCIOL, V87, P517, DOI 10.1086/227495
+   Whiting S. D., 2007, Endangered Species Research, V3, P1, DOI 10.3354/esr003001
+   Wimmer A, 2004, ETHNIC RACIAL STUD, V27, P1, DOI 10.1080/0141987032000147922
+   Xiao ZX, 2007, ADMIN SCI QUART, V52, P1, DOI 10.2189/asqu.52.1.1
+   Yeung KT, 2005, SOC FORCES, V84, P391, DOI 10.1353/sof.2005.0132
+NR 136
+TC 283
+Z9 333
+U1 5
+U2 150
+PU ANNUAL REVIEWS
+PI PALO ALTO
+PA 4139 EL CAMINO WAY, PO BOX 10139, PALO ALTO, CA 94303-0897 USA
+SN 0360-0572
+EI 1545-2115
+BN 978-0-8243-2236-6
+J9 ANNU REV SOCIOL
+JI Annu. Rev. Sociol.
+PY 2010
+VL 36
+BP 205
+EP 224
+DI 10.1146/annurev.soc.012809.102615
+PG 20
+WC Sociology
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH); Social Science Citation Index (SSCI)
+SC Sociology
+GA BQL62
+UT WOS:000281254500010
+DA 2024-11-22
+ER
+
+PT J
+AU Montanari, A
+   Saberi, A
+AF Montanari, Andrea
+   Saberi, Amin
+TI The spread of innovations in social networks
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE Markov chain; convergence times; game dynamics
+ID GLAUBER DYNAMICS; LOW-TEMPERATURE; METASTABILITY; DROPLETS
+AB Which network structures favor the rapid spread of new ideas, behaviors, or technologies? This question has been studied extensively using epidemic models. Here we consider a complementary point of view and consider scenarios where the individuals' behavior is the result of a strategic choice among competing alternatives. In particular, we study models that are based on the dynamics of coordination games. Classical results in game theory studying this model provide a simple condition for a new action or innovation to become widespread in the network. The present paper characterizes the rate of convergence as a function of the structure of the interaction network. The resulting predictions differ strongly from the ones provided by epidemic models. In particular, it appears that innovation spreads much more slowly on well-connected network structures dominated by long-range links than in low-dimensional ones dominated, for example, by geographic proximity.
+C1 [Saberi, Amin] Stanford Univ, Dept Management Sci & Engn, Stanford, CA 94305 USA.
+   [Montanari, Andrea] Stanford Univ, Dept Elect Engn, Stanford, CA 94305 USA.
+   [Montanari, Andrea] Stanford Univ, Dept Stat, Stanford, CA 94305 USA.
+C3 Stanford University; Stanford University; Stanford University
+RP Saberi, A (corresponding author), Stanford Univ, Dept Management Sci & Engn, Stanford, CA 94305 USA.
+EM saberi@stanford.edu
+FU National Science Foundation [CCF-0743978, DMS-0806211, CCF-0915145];
+   Direct For Computer & Info Scie & Enginr; Division of Computing and
+   Communication Foundations [0915145] Funding Source: National Science
+   Foundation; Direct For Computer & Info Scie & Enginr; Division of
+   Computing and Communication Foundations [0743978] Funding Source:
+   National Science Foundation
+FX We would like to thank Daron Acemoglu, Glenn Ellison, Fabio Martinelli,
+   Roberto Schonmann, Eva Tardos, Maria Eulalia Vares, and Peyton Young for
+   helpful discussions and pointers to the literature. The authors
+   acknowledge the support of the National Science Foundation under grants
+   CCF-0743978, DMS-0806211, and CCF-0915145.
+CR [Anonymous], 2003, STAG HUNT EVOLUTION
+   [Anonymous], 2013, Stochastic interacting systems: contact, voter and exclusion processes
+   [Anonymous], **DROPPED REF**
+   Berger N, 2005, PROBAB THEORY REL, V131, P311, DOI 10.1007/s00440-004-0369-4
+   BLUME LE, 1995, GAME ECON BEHAV, V11, P111, DOI 10.1006/game.1995.1046
+   Bovier A, 2002, J STAT PHYS, V107, P757, DOI 10.1023/A:1014586130046
+   DIACONIS P., 1993, Ann. Appl. Probab., V3, P696, DOI 10.1214/aoap/1177005359
+   DONSKER MD, 1976, COMMUN PUR APPL MATH, V29, P595, DOI 10.1002/cpa.3160290606
+   ELLISON G, 1993, ECONOMETRICA, V61, P1047, DOI 10.2307/2951493
+   FLAXMAN A, 2006, P WEB ALG WORKSH, V4936, P24
+   Fudenberg D., 1998, THEORY LEARNING GAME
+   Harsanyi J., 1998, A General Theory of Equilibrium Selection in Games
+   KANDORI M, 1993, ECONOMETRICA, V61, P29, DOI 10.2307/2951777
+   Kleinberg J, 2007, ALGORITHMIC GAME THEORY, P613
+   McKelvey R., 1995, GAME ECON BEHAV, V10, P6, DOI DOI 10.1006/GAME.1995.1023
+   Mihail M, 2006, J COMPUT SYST SCI, V72, P239, DOI 10.1016/j.jcss.2005.06.009
+   NEVES EJ, 1992, PROBAB THEORY REL, V91, P331, DOI 10.1007/BF01192061
+   NEVES EJ, 1991, COMMUN MATH PHYS, V137, P209, DOI 10.1007/BF02431878
+   Olivieri E., 2004, Large Deviations and Metastability
+   Schelling T., 1978, MICROMOTIVES MACROBE
+   SINCLAIR A, 1989, INFORM COMPUT, V82, P93, DOI 10.1016/0890-5401(89)90067-9
+   WATTS D, 2007, MEASURING WORD MOUTH, V3, P201
+   Young H. P., 2001, Individual strategy and social structure: An evolutionary theory of institutions
+   YOUNG HP, 1993, ECONOMETRICA, V61, P57, DOI 10.2307/2951778
+   YOUNG HP, 2006, EC EVOLVING COMPLEX, V3
+NR 25
+TC 244
+Z9 275
+U1 7
+U2 58
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD NOV 23
+PY 2010
+VL 107
+IS 47
+BP 20196
+EP 20201
+DI 10.1073/pnas.1004098107
+PG 6
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA 684DT
+UT WOS:000284529000013
+PM 21076030
+OA Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Liu, XD
+   Lee, LF
+AF Liu, Xiaodong
+   Lee, Lung-fei
+TI GMM estimation of social interaction models with centrality
+SO JOURNAL OF ECONOMETRICS
+LA English
+DT Article
+DE Social network; Centrality; Spatial autoregressive model; GMM;
+   Efficiency
+ID SPATIAL AUTOREGRESSIVE MODELS; ALTERNATIVE APPROXIMATIONS;
+   IDENTIFICATION; DISTRIBUTIONS; INSTRUMENTS; LIKELIHOOD; DISTURBANCES;
+   PARAMETER; NUMBER
+AB This paper considers the specification and estimation of social interaction models with network structures and the presence of endogenous, contextual, correlated, and group fixed effects. When the network structure in a group is captured by a graph in which the degrees of nodes are not all equal, the different positions of group members as measured by the Bonacich (1987) centrality provide additional information for identification and estimation. In this case, the Bonacich centrality measure for each group can be used as an instrument for the endogenous social effect, but the number of such instruments grows with the number of groups. We consider the 2SLS and GMM estimation for the model. The proposed estimators are asymptotically efficient, respectively, within the class of IV estimators and the class of GMM estimators based on linear and quadratic moments, when the sample size grows fast enough relative to the number of instruments. (C) 2010 Elsevier B.V. All rights reserved.
+C1 [Lee, Lung-fei] Ohio State Univ, Columbus, OH 43210 USA.
+   [Liu, Xiaodong] Univ Colorado, Boulder, CO 80309 USA.
+C3 University System of Ohio; Ohio State University; University of Colorado
+   System; University of Colorado Boulder
+RP Lee, LF (corresponding author), Ohio State Univ, Columbus, OH 43210 USA.
+EM lflee@econ.ohio-state.edu
+CR Alvarez J, 2003, ECONOMETRICA, V71, P1121, DOI 10.1111/1468-0262.00441
+   ANDERSON T, 2007, ASYMPTOTIC OPTIMALIT
+   [Anonymous], 1985, ADV ECONOMETRICS
+   Baltagi BH., 2001, ECONOMETRIC ANAL PAN
+   Bekker PA, 2005, STAT NEERL, V59, P239, DOI 10.1111/j.1467-9574.2005.00296.x
+   BEKKER PA, 1994, ECONOMETRICA, V62, P657, DOI 10.2307/2951662
+   Bell KP, 2000, REV ECON STAT, V82, P72, DOI 10.1162/003465300558641
+   BONACICH P, 1987, AM J SOCIOL, V92, P1170, DOI 10.1086/228631
+   Brock W., 2001, HDB ECONOMETRICS, V5.
+   Chao JC, 2005, ECONOMETRICA, V73, P1673, DOI 10.1111/j.1468-0262.2005.00632.x
+   Chao J, 2007, J ECONOMETRICS, V137, P515, DOI 10.1016/j.jeconom.2005.09.002
+   Cohen JeffreyP., 2002, Public Finance Review, V30, P41, DOI DOI 10.1177/109114210203000103
+   COX DR, 1975, BIOMETRIKA, V62, P269, DOI 10.1093/biomet/62.2.269
+   Donald SG, 2001, ECONOMETRICA, V69, P1161, DOI 10.1111/1468-0262.00238
+   Fingleton B, 2008, SPAT ECON ANAL, V3, P27, DOI 10.1080/17421770701774922
+   Han C, 2006, ECONOMETRICA, V74, P147, DOI 10.1111/j.1468-0262.2006.00652.x
+   Hansen C, 2008, J BUS ECON STAT, V26, P398, DOI 10.1198/073500108000000024
+   HAUSMAN JA, 2008, INSTRUMENTAL VARIABL
+   HORN A., 2013, Matrix Analysis, V2nd
+   Hsiao C., 2003, Analysis of Panel Data, VSecond, P95, DOI DOI 10.1146/annurev.psych.59.103006.093735
+   KALBFLEI.JD, 1970, J ROY STAT SOC B, V32, P175
+   Kelejian H.H., 1995, New Directions in Spatial Econometrics
+   Kelejian HH, 1999, INT ECON REV, V40, P509, DOI 10.1111/1468-2354.00027
+   Kelejian HH, 1998, J REAL ESTATE FINANC, V17, P99, DOI 10.1023/A:1007707430416
+   Kelejian HH, 2001, J ECONOMETRICS, V104, P219
+   KELEJIAN HH, 2007, SPECIFICATION ESTIMA
+   Lancaster T, 2000, J ECONOMETRICS, V95, P391, DOI 10.1016/S0304-4076(99)00044-5
+   Lee LF, 2004, ECONOMETRICA, V72, P1899, DOI 10.1111/j.1468-0262.2004.00558.x
+   Lee LF, 2002, ECONOMET THEOR, V18, P252, DOI 10.1017/S0266466602182028
+   LEE LF, 2009, NEAR UNIT ROOT SPATI
+   Lee LF, 2007, J ECONOMETRICS, V140, P155, DOI 10.1016/j.jeconom.2006.09.006
+   Lee LF, 2007, J ECONOMETRICS, V140, P333, DOI 10.1016/j.jeconom.2006.07.001
+   Lee LF, 2007, J ECONOMETRICS, V137, P489, DOI 10.1016/j.jeconom.2005.10.004
+   Lee LF, 2010, ECONOMET J, V13, P145, DOI 10.1111/j.1368-423X.2010.00310.x
+   Lee LF, 2010, ECONOMET THEOR, V26, P187, DOI 10.1017/S0266466609090653
+   Lee Lung-fei, 2003, Econometric Rev., V22, P307, DOI DOI 10.1081/ETC-120025891
+   LeSage J., 1999, THEORY PRACTICE SPAT
+   Lin X, 2010, J ECONOMETRICS, V157, P34, DOI 10.1016/j.jeconom.2009.10.035
+   LIU X, 2009, EFFICIENT GMM ESTIMA
+   MANSKI CF, 1993, REV ECON STUD, V60, P531, DOI 10.2307/2298123
+   Moffitt R.A., 2001, Social Dynamics
+   Neyman J, 1948, ECONOMETRICA, V16, P1, DOI 10.2307/1914288
+   van Hasselt M, 2010, ECONOMET THEOR, V26, P633, DOI 10.1017/S0266466609100117
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+NR 44
+TC 51
+Z9 59
+U1 2
+U2 19
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 0304-4076
+EI 1872-6895
+J9 J ECONOMETRICS
+JI J. Econom.
+PD NOV
+PY 2010
+VL 159
+IS 1
+BP 99
+EP 115
+DI 10.1016/j.jeconom.2010.04.009
+PG 17
+WC Economics; Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Mathematics; Mathematical Methods In Social
+   Sciences
+GA 663YL
+UT WOS:000282926000007
+DA 2024-11-22
+ER

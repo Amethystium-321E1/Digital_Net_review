@@ -1,0 +1,487 @@
+
+PT J
+AU Naroditskiy, V
+   Rahwan, I
+   Cebrian, M
+   Jennings, NR
+AF Naroditskiy, Victor
+   Rahwan, Iyad
+   Cebrian, Manuel
+   Jennings, Nicholas R.
+TI Verification in Referral-Based Crowdsourcing
+SO PLOS ONE
+LA English
+DT Article
+ID SEARCH; INFORMATION; NETWORKS
+AB Online social networks offer unprecedented potential for rallying a large number of people to accomplish a given task. Here we focus on information gathering tasks where rare information is sought through "referral-based crowdsourcing'': the information request is propagated recursively through invitations among members of a social network. Whereas previous work analyzed incentives for the referral process in a setting with only correct reports, misreporting is known to be both pervasive in crowdsourcing applications, and difficult/costly to filter out. A motivating example for our work is the DARPA Red Balloon Challenge where the level of misreporting was very high. In order to undertake a formal study of verification, we introduce a model where agents can exert costly effort to perform verification and false reports can be penalized. This is the first model of verification and it provides many directions for future research, which we point out. Our main theoretical result is the compensation scheme that minimizes the cost of retrieving the correct answer. Notably, this optimal compensation scheme coincides with the winning strategy of the Red Balloon Challenge.
+C1 [Naroditskiy, Victor; Jennings, Nicholas R.] Univ Southampton, Southampton, Hants, England.
+   [Rahwan, Iyad] Masdar Inst Sci & Technol, Abu Dhabi, U Arab Emirates.
+   [Rahwan, Iyad] Univ Edinburgh, Sch Informat, Edinburgh, Midlothian, Scotland.
+   [Cebrian, Manuel] Univ Calif San Diego, Dept Comp Sci & Engn, La Jolla, CA 92093 USA.
+   [Cebrian, Manuel] Natl Informat & Commun Technol Australia, Melbourne, Vic, Australia.
+   [Jennings, Nicholas R.] King Abdulaziz Univ, Dept Comp & Informat Technol, Jeddah 21413, Saudi Arabia.
+C3 University of Southampton; Khalifa University of Science & Technology;
+   University of Edinburgh; University of California System; University of
+   California San Diego; King Abdulaziz University
+RP Naroditskiy, V (corresponding author), Univ Southampton, Southampton, Hants, England.
+EM vn@ecs.soton.ac.uk
+RI Rahwan, Iyad/ABB-2422-2020; Jennings, Nicholas/HGU-8308-2022
+OI Rahwan, Iyad/0000-0002-1796-4303; Jennings,
+   Nicholas/0000-0003-0166-248X; Cebrian, Manuel/0000-0002-3681-7982
+FU Direct For Computer & Info Scie & Enginr; Division of Computing and
+   Communication Foundations [0905645] Funding Source: National Science
+   Foundation; EPSRC [EP/I011587/1] Funding Source: UKRI
+CR Adamic L, 2005, SOC NETWORKS, V27, P187, DOI 10.1016/j.socnet.2005.01.007
+   Adamic L.A., 2006, P 7 ACM C EL COMM, P228, DOI [10.1145/1232722.1232727, 10.1145/1232722.1232727.15]
+   Adar E, 2005, 2005 IEEE/WIC/ACM International Conference on Web Intelligence, Proceedings, P207, DOI 10.1109/WI.2005.151
+   [Anonymous], NEUR INF PROC SYST C
+   [Anonymous], ACM S THEOR COMP STO
+   [Anonymous], DARPA NETW CHALL PRO
+   [Anonymous], WEB SCI TRUST
+   [Anonymous], 2012, P ACM 2012 C COMP SU
+   [Anonymous], ACM C EL COMM
+   Aral S, 2012, SCIENCE, V337, P337, DOI 10.1126/science.1215842
+   Bakshy E., 2011, P 4 ACM INT C WEB SE, P65, DOI DOI 10.1145/1935826.1935845
+   Brandt F, 2007, 20TH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, P1207
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Dodds PS, 2003, SCIENCE, V301, P827, DOI 10.1126/science.1081058
+   Emek Y., 2011, P 12 TH ACM C ELECT, P209, DOI DOI 10.1145/1993574.1993606
+   Fu WT, 2011, LECT NOTES COMPUT SC, V6589, P147
+   Gao H, 2011, IEEE INTELL SYST, V26, P10, DOI 10.1109/MIS.2011.52
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Hsueh Pei-Yun., 2009, Proceedings of the NAACL HLT 2009 Workshop on Active Learning for Natural Language Processing, P27
+   Karsai M, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.025102
+   Kleinberg J, 2005, ANN IEEE SYMP FOUND, P132, DOI 10.1109/SFCS.2005.63
+   Kleinberg JM, 2000, NATURE, V406, P845, DOI 10.1038/35022643
+   Liben-Nowell D, 2008, P NATL ACAD SCI USA, V105, P4633, DOI 10.1073/pnas.0708471105
+   Iribarren JL, 2009, PHYS REV LETT, V103, DOI 10.1103/PhysRevLett.103.038702
+   Maskin ES, 2008, AM ECON REV, V98, P567, DOI 10.1257/aer.98.3.567
+   MILGRAM S, 1967, PSYCHOL TODAY, V1, P61
+   Nowak S, 2010, P INT C MULTIMEDIA I, P557, DOI 10.1145/1743384.1743478
+   Onnela JP, 2010, P NATL ACAD SCI USA, V107, P18375, DOI 10.1073/pnas.0914572107
+   Pickard G, 2011, SCIENCE, V334, P509, DOI 10.1126/science.1205869
+   Quinn AJ, 2011, 29TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, P1403
+   Rosvall M, 2005, PHYS REV E, V72, DOI 10.1103/PhysRevE.72.046117
+   Shapley L.S., 1953, CONTRIBUTIONS THEORY, V2
+   Smith J., 2010, IEEE MultiMedia, V17, P2
+   Starbird K., 2010, Proceedings of the 7th International ISCRAM Conference-Seattle, V1
+   Tang JC, 2011, COMMUN ACM, V54, P78, DOI 10.1145/1924421.1924441
+   Vetsikas I., 2007, Proc. 6thIntl. Conf. on Autonomous Agents and Multiagent Systems, P702
+   Vieweg S, 2010, CHI2010: PROCEEDINGS OF THE 28TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, VOLS 1-4, P1079, DOI 10.1145/1753326.1753486
+   Watts DJ, 2002, SCIENCE, V296, P1302, DOI 10.1126/science.1070120
+   Watts DJ, 2007, J CONSUM RES, V34, P441, DOI 10.1086/518527
+NR 40
+TC 21
+Z9 21
+U1 0
+U2 17
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD OCT 10
+PY 2012
+VL 7
+IS 10
+AR e45924
+DI 10.1371/journal.pone.0045924
+PG 7
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA 054ZU
+UT WOS:000312385200010
+PM 23071530
+OA Green Accepted, Green Published, gold, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Conitzer, V
+AF Conitzer, Vincent
+TI Should social network structure be taken into account in elections?
+SO MATHEMATICAL SOCIAL SCIENCES
+LA English
+DT Article
+ID MAXIMUM-LIKELIHOOD APPROACH; VOTE AGGREGATION
+AB If the social network structure among the voters in an election is known, how should this be taken into account by the voting rule? In this brief article, I argue, via the maximum likelihood approach to voting, that it is optimal to ignore the social network structure altogether-one person, one vote. (C) 2011 Elsevier B.V. All rights reserved.
+C1 Duke Univ, Durham, NC 27706 USA.
+C3 Duke University
+RP Conitzer, V (corresponding author), Duke Univ, Durham, NC 27706 USA.
+EM conitzer@cs.duke.edu
+FU Alfred P. Sloan Fellowship; NSF [IIS-0812113, CAREER-0953756]; Direct
+   For Computer & Info Scie & Enginr; Div Of Information & Intelligent
+   Systems [0953756, 0812113] Funding Source: National Science Foundation
+FX The technically rather simple observation presented in this short
+   article was presented in full in a short rump session talk at the 2010
+   Dagstuhl seminar on the Computational Foundations of Social Choice. This
+   work has been supported by an Alfred P. Sloan Fellowship and by NSF
+   under award numbers IIS-0812113 and CAREER-0953756.
+CR [Anonymous], 1785, ESSAI APPL ANAL PROB
+   [Anonymous], 2009, P IJCAI 2009
+   [Anonymous], J ECON PERSPECT
+   [Anonymous], 2005, P 21 ANN C UNCERTAIN
+   AustenSmith D, 1996, AM POLIT SCI REV, V90, P34, DOI 10.2307/2082796
+   Drissi-Bakhkhat M, 2004, SOC CHOICE WELFARE, V23, P161, DOI 10.1007/s00355-003-0242-x
+   Elkind E, 2010, AAAI CONF ARTIF INTE, P774
+   Feddersen TJ, 1996, AM ECON REV, V86, P408
+   Kemeny J.G., 1959, DAEDALUS, V88, P575
+   NITZAN S, 1982, INT ECON REV, V23, P289, DOI 10.2307/2526438
+   Truchon M, 2008, MATH SOC SCI, V55, P96, DOI 10.1016/j.mathsocsci.2007.08.001
+   YOUNG HP, 1988, AM POLIT SCI REV, V82, P1231, DOI 10.2307/1961757
+   Zuckerberg M., 2009, VOTING BEGINS GOVERN
+NR 13
+TC 14
+Z9 14
+U1 1
+U2 12
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0165-4896
+J9 MATH SOC SCI
+JI Math. Soc. Sci.
+PD JUL
+PY 2012
+VL 64
+IS 1
+SI SI
+BP 100
+EP 102
+DI 10.1016/j.mathsocsci.2011.03.006
+PG 3
+WC Economics; Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Mathematics; Mathematical Methods In Social
+   Sciences
+GA 967PH
+UT WOS:000305919800011
+OA Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Cornwell, B
+AF Cornwell, Benjamin
+TI Spousal Network Overlap as a Basis for Spousal Support
+SO JOURNAL OF MARRIAGE AND FAMILY
+LA English
+DT Article
+DE aging; marriage; relationship quality; social networks; social support;
+   spousal roles
+ID SOCIAL SUPPORT; OLDER-ADULTS; INTIMATE-RELATIONSHIPS; FRIENDSHIP
+   NETWORKS; RECEIVED SUPPORT; HEALTH-STATUS; LIFE EVENTS; PROVISION;
+   MARRIAGE; CONNECTEDNESS
+AB The role social network structure plays in facilitating flows of support between spouses is often overlooked. This study examined whether levels of support between spouses depended on the degree of overlap between spouses' networks. Network overlap may enhance spouses' support capacities by increasing their understanding of each other's support needs and their ability to coordinate support for each other. Data on 1,490 married older adults from the National Social Life, Health, and Aging Project were examined. Analyses revealed that when one's spouse had more contact with one's other network members, one was more likely to (a) view the spouse as a reliable source of support, (b) open up to the spouse, and (c) discuss health issues with the spouse. These results suggest that spousal support is not only a function of relationship quality or obligationsit also is a structural phenomenon that depends on spouses' connectedness to each other's networks.
+C1 Cornell Univ, Dept Sociol, Ithaca, NY 14853 USA.
+C3 Cornell University
+RP Cornwell, B (corresponding author), Cornell Univ, Dept Sociol, 354 Uris Hall, Ithaca, NY 14853 USA.
+EM btc49@cornell.edu
+FU NIA NIH HHS [R01 AG021487-05, R01 AG033903-01, R01 AG021487, R01
+   AG033903] Funding Source: Medline
+CR ANTONUCCI TC, 1987, SEX ROLES, V17, P737, DOI 10.1007/BF00287685
+   ANTONUCCI TC, 1987, J GERONTOL, V42, P519, DOI 10.1093/geronj/42.5.519
+   Ashida S, 2008, J AGING HEALTH, V20, P872, DOI 10.1177/0898264308324626
+   Barry RA, 2009, J FAM PSYCHOL, V23, P48, DOI 10.1037/a0014174
+   Berkman LF., 2000, SOCIAL EPIDEMIOLOGY, DOI DOI 10.1093/OSO/9780195083316.003.0007
+   Bryant CM, 1999, J MARRIAGE FAM, V61, P437, DOI 10.2307/353760
+   CARSTENSEN LL, 1992, PSYCHOL AGING, V7, P331, DOI 10.1037/0882-7974.7.3.331
+   Choi NG, 2011, AGING MENT HEALTH, V15, P307, DOI 10.1080/13607863.2010.513042
+   Cornwell B, 2008, AM SOCIOL REV, V73, P185, DOI 10.1177/000312240807300201
+   Cornwell B, 2009, SOC NETWORKS, V31, P92, DOI 10.1016/j.socnet.2008.10.005
+   Dehle C, 2001, AM J FAM THER, V29, P307, DOI 10.1080/01926180152588725
+   DiMatteo MR, 2004, HEALTH PSYCHOL, V23, P207, DOI 10.1037/0278-6133.23.2.207
+   Felmlee DH, 2001, SOC FORCES, V79, P1259, DOI 10.1353/sof.2001.0039
+   Haines VA, 1996, J HEALTH SOC BEHAV, V37, P252, DOI 10.2307/2137295
+   Iida M, 2008, J PERS SOC PSYCHOL, V94, P460, DOI 10.1037/0022-3514.94.3.460
+   Kalmijn M, 2003, SOC NETWORKS, V25, P231, DOI 10.1016/S0378-8733(03)00010-8
+   Kana'Iaupuni SM, 2005, SOC FORCES, V83, P1137, DOI 10.1353/sof.2005.0036
+   Kearns JN, 2004, J FAM PSYCHOL, V18, P383, DOI 10.1037/0893-3200.18.2.383
+   KRACKHARDT D, 1987, SOC NETWORKS, V9, P109, DOI 10.1016/0378-8733(87)90009-8
+   MILARDO RM, 1982, SOC PSYCHOL QUART, V45, P162, DOI 10.2307/3033649
+   Morgan SL, 2008, SOCIOL METHODOL, V38, P231, DOI 10.1111/j.1467-9531.2008.00204.x
+   O'Muircheartaigh C, 2009, J GERONTOL B-PSYCHOL, V64, pI12, DOI 10.1093/geronb/gbp045
+   RADLOFF L S, 1977, Applied Psychological Measurement, V1, P385, DOI 10.1177/014662167700100306
+   SCHUSTER TL, 1990, AM J COMMUN PSYCHOL, V18, P423, DOI 10.1007/BF00938116
+   Schwarzer R, 2005, SEX ROLES, V52, P523, DOI 10.1007/s11199-005-3718-6
+   SEEMAN TE, 1988, SOC SCI MED, V26, P737, DOI 10.1016/0277-9536(88)90065-2
+   Smith KP, 2008, ANNU REV SOCIOL, V34, P405, DOI 10.1146/annurev.soc.34.040507.134601
+   Sprecher S, 2000, PERS RELATIONSHIP, V7, P325, DOI 10.1111/j.1475-6811.2000.tb00020.x
+   Sprecher S., 2002, Stability and Change in Relationships, P257, DOI DOI 10.1017/CBO9780511499876.015
+   Thoits PA, 2011, J HEALTH SOC BEHAV, V52, P145, DOI 10.1177/0022146510395592
+   Verhofstadt LL, 2008, EMOTION, V8, P792, DOI 10.1037/a0013976
+   WETHINGTON E, 1986, J HEALTH SOC BEHAV, V27, P78, DOI 10.2307/2136504
+NR 32
+TC 45
+Z9 56
+U1 1
+U2 24
+PU WILEY-BLACKWELL
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 0022-2445
+J9 J MARRIAGE FAM
+JI J. Marriage Fam.
+PD APR
+PY 2012
+VL 74
+IS 2
+BP 229
+EP 238
+DI 10.1111/j.1741-3737.2012.00959.x
+PG 10
+WC Family Studies; Sociology
+WE Social Science Citation Index (SSCI)
+SC Family Studies; Sociology
+GA 910OC
+UT WOS:000301648100001
+PM 22690020
+OA Green Accepted
+DA 2024-11-22
+ER
+
+PT J
+AU Gallos, LK
+   Makse, HA
+   Sigman, M
+AF Gallos, Lazaros K.
+   Makse, Hernan A.
+   Sigman, Mariano
+TI A small world of weak ties provides optimal global integration of
+   self-similar modules in functional brain networks
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+ID BIOLOGICAL NETWORKS; COMPLEX NETWORKS; CONSCIOUSNESS; ORGANIZATION;
+   ARCHITECTURE; NEUROSCIENCE; MODULARITY; EMERGENCE; FRAMEWORK; MRI
+AB The human brain is organized in functional modules. Such an organization presents a basic conundrum: Modules ought to be sufficiently independent to guarantee functional specialization and sufficiently connected to bind multiple processors for efficient information transfer. It is commonly accepted that small-world architecture of short paths and large local clustering may solve this problem. However, there is intrinsic tension between shortcuts generating small worlds and the persistence of modularity, a global property unrelated to local clustering. Here, we present a possible solution to this puzzle. We first show that a modified percolation theory can define a set of hierarchically organized modules made of strong links in functional brain networks. These modules are "large-world" self-similar structures and, therefore, are far from being small-world. However, incorporating weaker ties to the network converts it into a small world preserving an underlying backbone of well-defined modules. Remarkably, weak ties are precisely organized as predicted by theory maximizing information transfer with minimal wiring cost. This trade-off architecture is reminiscent of the "strength of weak ties" crucial concept of social networks. Such a design suggests a natural solution to the paradox of efficient information flow in the highly modular structure of the brain.
+C1 [Gallos, Lazaros K.; Makse, Hernan A.] CUNY City Coll, Levich Inst, New York, NY 10031 USA.
+   [Gallos, Lazaros K.; Makse, Hernan A.] CUNY City Coll, Dept Phys, New York, NY 10031 USA.
+   [Makse, Hernan A.; Sigman, Mariano] Univ Buenos Aires, Fac Ciencias Exactas & Nat, Integrat Neurosci Lab, Dept Phys, Buenos Aires, DF, Argentina.
+C3 City University of New York (CUNY) System; City College of New York
+   (CUNY); City University of New York (CUNY) System; City College of New
+   York (CUNY); University of Buenos Aires
+RP Makse, HA (corresponding author), CUNY City Coll, Levich Inst, New York, NY 10031 USA.
+EM hmakse@lev.ccny.cuny.edu
+RI Gallos, Lazaros/D-8149-2011; Makse, Hernan/KPA-9630-2024
+OI Gallos, Lazaros/0000-0002-2713-7934
+FU Emerging Frontiers Program [NSF-0827508]; Human Frontiers Science
+   Program Fellowship; Emerging Frontiers; Direct For Biological Sciences
+   [0827508] Funding Source: National Science Foundation
+FX We thank D. Bansal, S. Dehaene, S. Havlin, and H. D. Rozenfeld for
+   valuable discussions. L. K. G. and H. A. M. thank the NSF-0827508
+   Emerging Frontiers Program for financial support. M. S. is supported by
+   a Human Frontiers Science Program Fellowship.
+CR Achard S, 2006, J NEUROSCI, V26, P63, DOI 10.1523/JNEUROSCI.3874-05.2006
+   Achard S, 2007, PLOS COMPUT BIOL, V3, P174, DOI 10.1371/journal.pcbi.0030017
+   [Anonymous], 1997, THEATER CONSCIOUSNES
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Bassett DS, 2010, PLOS COMPUT BIOL, V6, DOI 10.1371/journal.pcbi.1000748
+   Bassett DS, 2006, NEUROSCIENTIST, V12, P512, DOI 10.1177/1073858406293182
+   Bianconi G, 2009, P NATL ACAD SCI USA, V106, P11433, DOI 10.1073/pnas.0811511106
+   Bollobas B, 1985, Random Graphs
+   Bunde A., 1996, FRACTALS DISORDERED, DOI DOI 10.1007/978-3-642-84868-1
+   CHERNIAK C, 1995, TRENDS NEUROSCI, V18, P522, DOI 10.1016/0166-2236(95)98373-7
+   Chklovskii DB, 2000, J NEUROPHYSIOL, V83, P2113, DOI 10.1152/jn.2000.83.4.2113
+   COWEY A, 1979, Q J EXP PSYCHOL, V31, P1, DOI 10.1080/14640747908400703
+   Dehaene S, 2001, COGNITION, V79, P1, DOI 10.1016/S0010-0277(00)00123-2
+   Duncan J, 2010, TRENDS COGN SCI, V14, P172, DOI 10.1016/j.tics.2010.01.004
+   Eguíluz VM, 2005, PHYS REV LETT, V94, DOI 10.1103/PhysRevLett.94.018102
+   Felleman DJ, 1991, CEREB CORTEX, V1, P1, DOI 10.1093/cercor/1.1.1
+   Fortunato S, 2010, PHYS REP, V486, P75, DOI 10.1016/j.physrep.2009.11.002
+   Gallos LK, 2007, P NATL ACAD SCI USA, V104, P7746, DOI 10.1073/pnas.0700250104
+   Gallos LK, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.248701
+   Galvao V, 2010, P NATL ACAD SCI USA, V107, P5750, DOI 10.1073/pnas.0914748107
+   Girvan M, 2002, P NATL ACAD SCI USA, V99, P7821, DOI 10.1073/pnas.122653799
+   Goh KI, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.018701
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Hagmann P, 2007, PLOS ONE, V2, DOI 10.1371/journal.pone.0000597
+   He Y, 2007, CEREB CORTEX, V17, P2407, DOI 10.1093/cercor/bhl149
+   Kleinberg JM, 2000, NATURE, V406, P845, DOI 10.1038/35022643
+   Li G, 2010, PHYS REV LETT, V104, DOI 10.1103/PhysRevLett.104.018701
+   LINSKER R, 1986, P NATL ACAD SCI USA, V83, P7508, DOI 10.1073/pnas.83.19.7508
+   Meunier D, 2010, FRONT NEUROSCI-SWITZ, V4, DOI 10.3389/fnins.2010.00200
+   MITCHISON G, 1991, P ROY SOC B-BIOL SCI, V245, P151, DOI 10.1098/rspb.1991.0102
+   Onnela JP, 2007, P NATL ACAD SCI USA, V104, P7332, DOI 10.1073/pnas.0610245104
+   PASHLER H, 1994, PSYCHOL BULL, V116, P220, DOI 10.1037/0033-2909.116.2.220
+   Radicchi F, 2008, PHYS REV LETT, V101, DOI 10.1103/PhysRevLett.101.148701
+   Raichle ME, 2001, P NATL ACAD SCI USA, V98, P676, DOI 10.1073/pnas.98.2.676
+   Ravasz E, 2002, SCIENCE, V297, P1551, DOI 10.1126/science.1073374
+   Rozenfeld HD, 2010, PHYS REV LETT, V104, DOI 10.1103/PhysRevLett.104.025701
+   Salvador R, 2005, CEREB CORTEX, V15, P1332, DOI 10.1093/cercor/bhi016
+   Sigman M, 2007, NEUROIMAGE, V35, P655, DOI 10.1016/j.neuroimage.2006.05.064
+   Sigman M, 2008, J NEUROSCI, V28, P7585, DOI 10.1523/JNEUROSCI.0948-08.2008
+   Song CM, 2007, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2007/03/P03006
+   Song CM, 2006, NAT PHYS, V2, P275, DOI 10.1038/nphys266
+   Song CM, 2005, NATURE, V433, P392, DOI 10.1038/nature03248
+   Song S, 2005, PLOS BIOL, V3, P507, DOI 10.1371/journal.pbio.0030068
+   Sporns O, 2004, TRENDS COGN SCI, V8, P418, DOI 10.1016/j.tics.2004.07.008
+   Stam CJ, 2007, CEREB CORTEX, V17, P92, DOI 10.1093/cercor/bhj127
+   Stanley H.E., 1971, INTRO PHASE TRANSITI
+   Stanley HE, 1999, REV MOD PHYS, V71, pS358, DOI 10.1103/RevModPhys.71.S358
+   TONONI G, 1994, P NATL ACAD SCI USA, V91, P5033, DOI 10.1073/pnas.91.11.5033
+   Tononi G, 1998, SCIENCE, V282, P1846, DOI 10.1126/science.282.5395.1846
+   Treisman A, 1996, CURR OPIN NEUROBIOL, V6, P171, DOI 10.1016/S0959-4388(96)80070-5
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Yu S, 2008, CEREB CORTEX, V18, P2891, DOI 10.1093/cercor/bhn047
+   Zylberberg A, 2011, TRENDS COGN SCI, V15, P293, DOI 10.1016/j.tics.2011.05.007
+NR 53
+TC 284
+Z9 316
+U1 0
+U2 33
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD FEB 21
+PY 2012
+VL 109
+IS 8
+BP 2825
+EP 2830
+DI 10.1073/pnas.1106612109
+PG 6
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 895KM
+UT WOS:000300495100037
+PM 22308319
+OA Green Submitted, Green Accepted, Green Published, Bronze
+DA 2024-11-22
+ER
+
+PT J
+AU Ferrara, E
+AF Ferrara, Emilio
+TI A large-scale community structure analysis in Facebook
+SO EPJ DATA SCIENCE
+LA English
+DT Article
+ID COMPLEX NETWORKS; MODULARITY; EMERGENCE; BEHAVIOR
+AB Understanding social dynamics that govern human phenomena, such as communications and social relationships is a major problem in current computational social sciences. In particular, given the unprecedented success of online social networks (OSNs), in this paper we are concerned with the analysis of aggregation patterns and social dynamics occurring among users of the largest OSN as the date: Facebook. In detail, we discuss the mesoscopic features of the community structure of this network, considering the perspective of the communities, which has not yet been studied on such a large scale. To this purpose, we acquired a sample of this network containing millions of users and their social relationships; then, we unveiled the communities representing the aggregation units among which users gather and interact; finally, we analyzed the statistical features of such a network of communities, discovering and characterizing some specific organization patterns followed by individuals interacting in online social networks, that emerge considering different sampling techniques and clustering methodologies. This study provides some clues of the tendency of individuals to establish social interactions in online social networks that eventually contribute to building a well-connected social structure, and opens space for further social studies.
+C1 [Ferrara, Emilio] Indiana Univ, Sch Informat & Comp, Ctr Complex Networks & Syst Res, Bloomington, IN 47405 USA.
+   [Ferrara, Emilio] Univ Messina, Dept Math & Informat, Messina, Italy.
+C3 Indiana University System; Indiana University Bloomington; University of
+   Messina
+RP Ferrara, E (corresponding author), Indiana Univ, Sch Informat & Comp, Ctr Complex Networks & Syst Res, Bloomington, IN 47405 USA.
+EM ferrarae@indiana.edu
+RI Ferrara, Emilio/F-6136-2012
+OI Ferrara, Emilio/0000-0002-1942-2831
+CR Ahn YY, 2010, NATURE, V466, P761, DOI 10.1038/nature09182
+   Albert R, 2000, NATURE, V406, P378, DOI 10.1038/35019019
+   Anderson P, 1999, ORGAN SCI, V10, P216, DOI 10.1287/orsc.10.3.216
+   [Anonymous], P 11 INT C INT SYST
+   [Anonymous], ARXIV11114570
+   [Anonymous], 2009, Int J Technol Knowl Soc, DOI DOI 10.18848/1832-3669/CGP/V05I02/55977
+   [Anonymous], 17 ACM SIGKDD C KNOW
+   Arenas A, 2004, EUR PHYS J B, V38, P373, DOI 10.1140/epjb/e2004-00130-1
+   Backstrom L., 2006, P 12 ACM SIGKDD INT, P44, DOI [10.1145/1150402.1150412, DOI 10.1145/1150402.1150412]
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barrat A, 2004, P NATL ACAD SCI USA, V101, P3747, DOI 10.1073/pnas.0400087101
+   Blondel VD, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/10/P10008
+   Boccaletti S, 2006, PHYS REP, V424, P175, DOI 10.1016/j.physrep.2005.10.009
+   Borgatti SP, 1999, SOC NETWORKS, V21, P375
+   Brandes U, 2008, IEEE T KNOWL DATA EN, V20, P172, DOI 10.1109/TKDE.2007.190689
+   Catanese Salvatore, 2011, P INT C WEB INT MIN
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Chau DuenHorng., 2007, Proceedings of the 16th International Conference on World Wide Web, WWW '07, P1283
+   Conover MD, 2012, EPJ DATA SCI, V1, DOI 10.1140/epjds6
+   Coscia Michele, 2011, Statistical Analysis and Data Mining, V4, P514, DOI 10.1002/sam.10133
+   Crucitti P, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.045104
+   Danon L, 2005, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2005/09/P09008
+   De Meo P, 2012, KNOWL-BASED SYST, V30, P136, DOI 10.1016/j.knosys.2012.01.007
+   Dodds PS, 2003, P NATL ACAD SCI USA, V100, P12516, DOI 10.1073/pnas.1534702100
+   Everett MG, 1999, SOC NETWORKS, V21, P397
+   Ferrara Emilio, 2012, International Journal of Social Network Mining, V1, P67, DOI 10.1504/IJSNM.2012.045106
+   Ferrara E, 2010, TECHNICAL REPORT
+   Fortunato S, 2007, P NATL ACAD SCI USA, V104, P36, DOI 10.1073/pnas.0605965104
+   Fortunato S, 2010, PHYS REP, V486, P75, DOI 10.1016/j.physrep.2009.11.002
+   Girvan M, 2002, P NATL ACAD SCI USA, V99, P7821, DOI 10.1073/pnas.122653799
+   Gjoka M, 2010, IEEE INFOCOM SER, DOI 10.1109/infcom.2010.5462078
+   Goldenberg J, 2001, MARKET LETT, V12, P211, DOI 10.1023/A:1011122126881
+   Goldenberg Jacob, 2001, Academy of Marketing Science Review, V9, P1
+   Good BH, 2010, PHYS REV E, V81, DOI 10.1103/PhysRevE.81.046106
+   Grabowicz PA, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0029358
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Gregory S, 2007, LECT NOTES ARTIF INT, V4702, P91
+   HAGEN L, 1992, IEEE T COMPUT AID D, V11, P1074, DOI 10.1109/43.159993
+   Hampton K.N., 2009, Social Isolation and New Technology
+   Heer Jeffrey, 2012, ACM Queue, V10, P13, DOI 10.1145/2133416.2146416
+   Hu Y, 2010, ARXIV10022007V1
+   Hunter DR, 2008, J AM STAT ASSOC, V103, P248, DOI 10.1198/016214507000000446
+   Jin D, 2009, EIGHTH IEEE INTERNATIONAL CONFERENCE ON DEPENDABLE, AUTONOMIC AND SECURE COMPUTING, PROCEEDINGS, P615, DOI 10.1109/DASC.2009.91
+   Karrer B, 2008, PHYS REV E, V77, DOI 10.1103/PhysRevE.77.046119
+   Kleinberg J., 2000, Proceedings of the Thirty Second Annual ACM Symposium on Theory of Computing, P163, DOI 10.1145/335305.335325
+   Kurant M., 2010, P 2010 22 INT TELETR, P1
+   Kurant M, 2011, IEEE J SEL AREA COMM, V29, P1799, DOI 10.1109/JSAC.2011.111005
+   Lancichinetti A, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0018961
+   Lancichinetti A, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0011976
+   Lancichinetti A, 2009, NEW J PHYS, V11, DOI 10.1088/1367-2630/11/3/033015
+   Latora V, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.198701
+   Leskovec J, 2006, P 12 ACM SIGKDD INT, P631, DOI DOI 10.1145/1150402.1150479
+   Leskovec J., P 17 INT C WORLD WID, P695, DOI DOI 10.1145/1367497.1367591
+   Leskovec J, 2009, INTERNET MATH, V6, P29, DOI 10.1080/15427951.2009.10129177
+   Leung IXY, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.066107
+   Lozano S, 2008, PLOS ONE, V3, DOI 10.1371/journal.pone.0001892
+   McDaid AF., 2011, ARXIV PREPRINT ARXIV
+   MILGRAM S, 1967, PSYCHOL TODAY, V1, P61
+   Mislove A, 2007, IMC'07: PROCEEDINGS OF THE 2007 ACM SIGCOMM INTERNET MEASUREMENT CONFERENCE, P29
+   Newman MEJ, 2006, P NATL ACAD SCI USA, V103, P8577, DOI 10.1073/pnas.0601602103
+   Newman MEJ, 2012, NAT PHYS, V8, P25, DOI 10.1038/nphys2162
+   Newman MEJ, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.026113
+   Ng AY, 2002, ADV NEUR IN, V14, P849
+   Nishikawa T, 2011, SCI REP-UK, V1, DOI 10.1038/srep00151
+   Onnela JP, 2007, P NATL ACAD SCI USA, V104, P7332, DOI 10.1073/pnas.0610245104
+   Onnela JP, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0016939
+   Palla G, 2005, NATURE, V435, P814, DOI 10.1038/nature03607
+   Porter M. A., 2009, Notices of the AMS, V56, P1082
+   Raghavan UN, 2007, PHYS REV E, V76, DOI 10.1103/PhysRevE.76.036106
+   Ratkiewicz J, 2010, PHYS REV LETT, V105, DOI 10.1103/PhysRevLett.105.158701
+   Red V, 2011, SIAM REV, V53, P526, DOI 10.1137/080734315
+   Rosvall M, 2006, PHYS REV E, V74, DOI 10.1103/PhysRevE.74.016108
+   Tang L, 2012, DATA MIN KNOWL DISC, V25, P1, DOI 10.1007/s10618-011-0231-0
+   Tibély G, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.056125
+   Ugander J., 2011, The anatomy of the Facebook social graph, P1
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Wilson C, 2009, EUROSYS'09: PROCEEDINGS OF THE FOURTH EUROSYS CONFERENCE, P205
+   Wu F, 2004, EUR PHYS J B, V38, P331, DOI 10.1140/epjb/e2004-00125-x
+   Xie J., 2011, OVERLAPPING COMMUNIT, DOI DOI 10.1145/2501654.2501657
+   Yang J, 2012, ARXIV12056233V1
+   Yang Y, 2011, 2011 INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING (ASONAM 2011), P394, DOI 10.1109/ASONAM.2011.111
+   Zhou XJ, 2012, ARTIF INTELL REV, V37, P119, DOI 10.1007/s10462-011-9222-1
+NR 82
+TC 53
+Z9 58
+U1 1
+U2 13
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+EI 2193-1127
+J9 EPJ DATA SCI
+JI EPJ Data Sci.
+PD DEC
+PY 2012
+VL 1
+IS 1
+AR 9
+DI 10.1140/epjds9
+PG 30
+WC Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Mathematical Methods In Social Sciences
+GA V41TM
+UT WOS:000209568500009
+OA Green Published, gold
+DA 2024-11-22
+ER

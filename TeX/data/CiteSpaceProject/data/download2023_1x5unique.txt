@@ -1,0 +1,578 @@
+
+PT J
+AU Liu, S
+   Mos, M
+   Xia, HX
+   Flache, A
+AF Liu, Shuo
+   Mos, Michael
+   Xia, Haoxiang
+   Flache, Andreas
+TI Job Done? New Modeling Challenges After 20 Years of Work on
+   Bounded-Confidence Models
+SO JASSS-THE JOURNAL OF ARTIFICIAL SOCIETIES AND SOCIAL SIMULATION
+LA English
+DT Article
+DE Opinion Polarization; Agent-Based Modeling; Bounded-confidence Model;
+   Repulsion
+AB Since the first publication of the bounded-confidence models 20 years ago, hundreds of articles studying this class of social-influence models have been written. Bounded-confidence models proposed an intriguing so-lution to a pervasive research puzzle and have helped unveil and explain intriguing phenomena. Here, we re-flect about remaining research problems and future modeling challenges, arguing that there remain counter-intuitive model implications to be understood. To illustrate that there remain uncovered model challenges, we extend the bounded-confidence model. We assume assimilative influence when agents connected by posi-tive relationships hold sufficiently similar opinions, adopting the core assumption of the bounded-confidence models. We combine this with another influential modeling approach, the notion that if agents connected by a negative social relationship disagree too much, opinion differences increase due to repulsive influence. This allows us to vary the relative strength of assimilation and repulsion in the influence dynamics, also allowing for the possibility that neither occurs in a particular interaction. Simulation experiments reveal three surpris-ing findings: Counter the intuition that stronger assimilation decreases opinion diversity, we show that in the presence of repulsion, intensifying the strength of assimilation can actually generate more opinion bipolariza-tion. Second, we show that if repulsion becomes weaker this may still result in more bipolarization. Third, it turns out that more negative social relationships between or within subgroups can result in less bipolarization. We demonstrate these effects in very simple and highly stylized settings, in order to show that intuition fails to capture the complexity arising from the interplay of assimilative and repulsive influence even in these sim-ple settings. We discuss implications of our findings for the ongoing debate about societal conditions fostering bipolarization, including in particular the design of personalized online social networks. Further, we address how our results may inform future work comparing and integrating alternative models of social-influence dy-namics.
+C1 [Liu, Shuo; Xia, Haoxiang] Dalian Univ Technol, Sch Econ & Management, 2 Linggong Rd, Dalian 116024, Peoples R China.
+   [Mos, Michael] Karlsruhe Inst Technol, Inst Technol Futures, Douglasstr 24, D-76133 Karlsruhe, Germany.
+   [Flache, Andreas] Univ Groningen, Fac Behav & Social Sci, Interuniv Ctr Social Sci Theory & Methodol ICS, Dept Sociol, Grote Rozenstr 31, NL-9712 TG Groningen, Netherlands.
+C3 Dalian University of Technology; Helmholtz Association; Karlsruhe
+   Institute of Technology; University of Groningen
+RP Mos, M (corresponding author), Karlsruhe Inst Technol, Inst Technol Futures, Douglasstr 24, D-76133 Karlsruhe, Germany.
+EM michael.maes@kit.edu
+RI Flache, Andreas/E-2921-2013; Maes, Michael/K-9603-2013
+OI Flache, Andreas/0000-0002-8276-8819
+CR [Anonymous], 1964, Contributions to Mathematical Psychology
+   Bail CA, 2018, P NATL ACAD SCI USA, V115, P9216, DOI 10.1073/pnas.1804840115
+   Deffuant G, 2000, APPLICATIONS OF SIMULATION TO SOCIAL SCIENCES, P87, DOI 10.1142/S0219525900000078
+   Deffuant G, 2006, JASSS-J ARTIF SOC S, V9
+   Finkel EJ, 2012, PSYCHOL SCI PUBL INT, V13, P3, DOI 10.1177/1529100612436522
+   Flache A., 2019, New Perspectives and Challenges in Econophysics and Sociophysics, P213
+   Flache A., 2021, Research Handbooks in Sociology, P453
+   Flache A, 2008, COMPUT MATH ORGAN TH, V14, P23, DOI 10.1007/s10588-008-9019-1
+   Flache A, 2017, JASSS-J ARTIF SOC S, V20, DOI 10.18564/jasss.3521
+   Hegselmann R, 2002, JASSS-J ARTIF SOC S, V5
+   Hegselmann R., 2020, Advances in the Sociology of Trust and Cooperation: Theory, Experiment, and Field Studies, P199
+   Hegselmann R, 2015, NETW HETEROG MEDIA, V10, P477, DOI 10.3934/nhm.2015.10.477
+   Iyengar S, 2019, ANNU REV POLIT SCI, V22, P129, DOI 10.1146/annurev-polisci-051117-073034
+   Jager W., 2004, Computational & Mathematical Organization Theory, V10, P295, DOI 10.1007/s10588-005-6282-2
+   Keijzer M., 2022, PhD Thesis, DOI [10.33612/diss.196882523, DOI 10.33612/DISS.196882523]
+   Keijzer MA., 2021, ONLINE SOC NETW MEDI, V21
+   Keijzer MA., 2022, DATA SCI, V5, P139, DOI [DOI 10.3233/DS-220054, 10.3233/DS-220054]
+   Keijzer MA, 2018, COMPLEXITY, DOI 10.1155/2018/9502872
+   Kozitsin IV, 2023, J MATH SOCIOL, V47, P1, DOI 10.1080/0022250X.2021.1956917
+   Krause U, 2000, COMMUNICATIONS IN DIFFERENCE EQUATIONS, P227
+   Kurahashi-Nakamura T, 2016, JASSS-J ARTIF SOC S, V19, DOI 10.18564/jasss.3220
+   Levin SA, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2116950118
+   Linderberg Siegwart., 1992, Rational Choice Theory: Advocacy and Critique, P3
+   Liu CC, 2015, AM SOCIOL REV, V80, P192, DOI 10.1177/0003122414564182
+   Liu S, 2022, ADV COMPLEX SYST, V25, DOI 10.1142/S0219525922500114
+   Lorenz J, 2006, JASSS-J ARTIF SOC S, V9
+   Macy MW, 2003, DYNAMIC SOCIAL NETWORK MODELING AND ANALYSIS, P162
+   Mathias JD, 2016, JASSS-J ARTIF SOC S, V19, DOI 10.18564/jasss.2967
+   Takács K, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0157948
+   Waldrop MM, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2114484118
+   Zuckerberg M., 2017, Building Global Community
+NR 31
+TC 0
+Z9 0
+U1 1
+U2 5
+PU J A S S S
+PI GUILDFORD
+PA UNIV SURREY, DEPT SOCIOLOGY, GUILDFORD GU2 7XH, SURREY, ENGLAND
+SN 1460-7425
+J9 JASSS-J ARTIF SOC S
+JI JASSS
+PD OCT 31
+PY 2023
+VL 26
+IS 4
+AR 5137
+DI 10.18564/jasss.5137
+PG 23
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA Y3YA6
+UT WOS:001104643400005
+OA Green Submitted, gold
+DA 2024-11-22
+ER
+
+PT J
+AU La Cava, L
+   Aiello, LM
+   Tagarelli, A
+AF La Cava, Lucio
+   Aiello, Luca Maria
+   Tagarelli, Andrea
+TI Drivers of social influence in the Twitter migration to Mastodon
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID PSYCHOLOGY
+AB The migration of Twitter users to Mastodon following Elon Musk's acquisition presents a unique opportunity to study collective behavior and gain insights into the drivers of coordinated behavior in online media. We analyzed the social network and the public conversations of about 75,000 migrated users and observed that the temporal trace of their migrations is compatible with a phenomenon of social influence, as described by a compartmental epidemic model of information diffusion. Drawing from prior research on behavioral change, we delved into the factors that account for variations of the effectiveness of the influence process across different Twitter communities. Communities in which the influence process unfolded more rapidly exhibit lower density of social connections, higher levels of signaled commitment to migrating, and more emphasis on shared identity and exchange of factual knowledge in the community discussion. These factors account collectively for 57% of the variance in the observed data. Our results highlight the joint importance of network structure, commitment, and psycho-linguistic aspects of social interactions in characterizing grassroots collective action, and contribute to deepen our understanding of the mechanisms that drive processes of behavior change of online groups.
+C1 [La Cava, Lucio; Tagarelli, Andrea] Univ Calabria, Arcavacata Di Rende, Italy.
+   [Aiello, Luca Maria] IT Univ Copenhagen, Copenhagen, Denmark.
+   [Aiello, Luca Maria] Pioneer Ctr AI, Copenhagen, Denmark.
+C3 University of Calabria; IT University Copenhagen
+RP La Cava, L (corresponding author), Univ Calabria, Arcavacata Di Rende, Italy.
+EM lucio.lacava@dimes.unical.it
+RI La Cava, Lucio/AFV-5293-2022; Torres, Andrea/G-1526-2017
+FU Carlsbergfondet [CF21-0432]; Carlsberg Foundation [H23C22000860006,
+   M4C21.3 spoke 9]; PNRR FAIR project
+FX LMA acknowledges the support from the Carlsberg Foundation through the
+   COCOONS project (CF21-0432). AT is partly funded by the PNRR FAIR
+   project (H23C22000860006, M4C21.3 spoke 9). The funders had no role in
+   study design, data collection and analysis, decision to publish, or
+   preparation of the manuscript.
+CR Aiello LM, 2022, SCI REP-UK, V12, DOI 10.1038/s41598-022-26245-4
+   Ali S, 2020, PROCEEDINGS OF THE 13TH ACM WEB SCIENCE CONFERENCE, WEBSCI 2021, P187, DOI 10.1145/3447535.3462637
+   Ba C, 2022, PROCEEDINGS OF THE 14TH ACM WEB SCIENCE CONFERENCE, WEBSCI 2022, P174, DOI 10.1145/3501247.3531597
+   Ba CT, 2022, 2022 IEEE INTERNATIONAL CONFERENCE ON PERVASIVE COMPUTING AND COMMUNICATIONS WORKSHOPS AND OTHER AFFILIATED EVENTS (PERCOM WORKSHOPS), DOI 10.1109/PerComWorkshops53856.2022.9767453
+   Bailey NTJ., 1975, MATH THEORY INFECT D
+   Balsamo D., 2023, P INT AAAI C WEB SOC
+   Baronchelli A, 2018, ROY SOC OPEN SCI, V5, DOI 10.1098/rsos.172189
+   Bergstrom K, 2022, SOC MEDIA SOC, V8, DOI 10.1177/20563051221096817
+   Bergstrom K, 2021, SOC MEDIA SOC, V7, DOI 10.1177/20563051211010167
+   Blau P.M., 1968, INT ENCYCL SOC SCI, V7, P452, DOI [DOI 10.1016/0049-089X(72)90055-5, 10.33206/mjss.640929, DOI 10.33206/MJSS.640929]
+   Blondel VD, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/10/P10008
+   Brewster Thomas, 2023, Forbes
+   Caliò A, 2021, INFORM SCIENCES, V546, P1273, DOI 10.1016/j.ins.2020.08.093
+   Centola D, 2018, SCIENCE, V360, P1116, DOI 10.1126/science.aas8827
+   Choi MJ, 2020, WEB CONFERENCE 2020: PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE (WWW 2020), P1514, DOI 10.1145/3366423.3380224
+   Christakis NA, 2013, STAT MED, V32, P556, DOI 10.1002/sim.5408
+   Cinelli Matteo, 2020, Sci Rep, V10, P16598, DOI 10.1038/s41598-020-73510-5
+   Datta A, 2010, HANDBOOK OF SOCIAL NETWORK TECHNOLOGIES AND APPLICATIONS, P349, DOI 10.1007/978-1-4419-7142-5_17
+   Deri Sebastian, 2018, Proceedings of the ACM on Human-Computer Interaction, V2, DOI 10.1145/3274312
+   Derlega V.J., 2013, Cooperation and helping behavior: Theories and research
+   Edwards EJ, 2021, MEDIA CULT SOC, V43, P582, DOI 10.1177/0163443720968461
+   Egger R, 2022, FRONT SOCIOL, V7, DOI 10.3389/fsoc.2022.886498
+   Fiesler Casey, 2020, Proceedings of the ACM on Human-Computer Interaction, V4, DOI 10.1145/3392847
+   Galdeman A., 2023, P IEEE INT C COMM
+   Gerhart N, 2019, COMPUT HUM BEHAV, V95, P101, DOI 10.1016/j.chb.2019.01.030
+   Glynn CJ, 2007, COMMUN RES, V34, P548, DOI 10.1177/0093650207305236
+   Graves A, 2012, STUD COMPUT INTELL, V385, P1, DOI [10.1162/neco.1997.9.8.1735, 10.1007/978-3-642-24797-2, 10.1162/neco.1997.9.1.1]
+   Grootendorst M., 2022, arXiv, DOI [10.48550/arXiv.2203.05794, DOI 10.48550/ARXIV.2203.05794]
+   Habermas J., 1991, Strukturwandel der Offentlichkeit: Untersuchungen zu einer Kategorie der burgerlichen Gesellschaft
+   Habermas J., 1998, On the Pragmat. Commun
+   Habermas J., 1979, COMMUNICATION EVOLUT
+   Habermas Jrgen., 2001, On the pragmatics of social interaction: Preliminary studies in the theory of communicative action
+   Hagger M S., 2020, Cambridge Handbooks in Psychology
+   Hickey D. etal, 2023, P INT AAAI C WEB SOC
+   Hou ACY, 2019, INFORM TECHNOL PEOPL, V33, P272, DOI 10.1108/ITP-06-2017-0198
+   Howarth C, 2020, ENVIRON RESOUR ECON, V76, P1107, DOI 10.1007/s10640-020-00446-9
+   Iacopini I, 2022, COMMUN PHYS-UK, V5, DOI 10.1038/s42005-022-00845-y
+   Jeong U, 2024, Arxiv, DOI [arXiv:2305.09196, DOI 10.48550/ARXIV.2305.09196]
+   Kasinathan G., 2023, Econ. Polit. Week, V58, P21
+   Kauk J, 2021, PLOS ONE, V16, DOI 10.1371/journal.pone.0256179
+   Kollock Peter., 1998, Modeling Rationality, Morality, and Evolution, P185
+   La Cava L., 2022, P INT AAAI C WEB SOC, V16, P1378
+   La Cava L, 2022, ONLINE SOC NETW MED, V30, DOI 10.1016/j.osnem.2022.100220
+   La Cava L, 2021, APPL NETW SCI, V6, DOI 10.1007/s41109-021-00392-5
+   Lambiotte R, 2009, J INFORMETR, V3, P180, DOI 10.1016/j.joi.2009.03.007
+   LATANE B, 1981, AM PSYCHOL, V36, P343, DOI 10.1037/0003-066X.36.4.343
+   Lucchini L, 2022, ROY SOC OPEN SCI, V9, DOI 10.1098/rsos.211488
+   Ma JL, 2020, INFECT DIS MODEL, V5, P129, DOI 10.1016/j.idm.2019.12.009
+   MALONE TW, 1994, ACM COMPUT SURV, V26, P87, DOI 10.1145/174666.174668
+   Mekacher A, 2023, Arxiv, DOI [arXiv:2303.11147, DOI 10.48550/ARXIV.2303.11147]
+   Monti C, 2023, Arxiv, DOI arXiv:2303.12115
+   Monti C, 2022, SCI REP-UK, V12, DOI 10.1038/s41598-022-21720-4
+   Otala JM, 2021, WEB CONFERENCE 2021: COMPANION OF THE WORLD WIDE WEB CONFERENCE (WWW 2021), P224, DOI 10.1145/3442442.3452305
+   Reimers N, 2019, 2019 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING AND THE 9TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING (EMNLP-IJCNLP 2019), P3982
+   Ribeiro MH, 2023, PNAS NEXUS, V2, DOI 10.1093/pnasnexus/pgad035
+   Rogers R, 2020, EUR J COMMUN, V35, P213, DOI 10.1177/0267323120922066
+   Rönnerstrand B, 2015, SOC SCI MED, V142, P249, DOI 10.1016/j.socscimed.2015.08.032
+   Rosvall M., 2007, arXiv
+   Sasahara K, 2021, J COMPUT SOC SCI, V4, P381, DOI 10.1007/s42001-020-00084-7
+   Serrano MA, 2009, P NATL ACAD SCI USA, V106, P6483, DOI 10.1073/pnas.0808904106
+   Skaza J., 2017, Physica A Stat. Mech. Appl., V465
+   Tajfel H, 1966, Eugen Rev, V58, P77
+   Tardos, 2003, P 9 ACM SIGKDD INT C, P137, DOI 10.1145/956750.956769
+   Weng L, 2012, SCI REP-UK, V2, P1, DOI 10.1038/srep00335
+   Wood W, 2016, ANNU REV PSYCHOL, V67, P289, DOI 10.1146/annurev-psych-122414-033417
+   Yang L, 2020, INT J ENV RES PUB HE, V17, DOI 10.3390/ijerph17082731
+   Zhou K, 2021, IEEE PERVAS COMPUT, V20, P35, DOI 10.1109/MPRV.2021.3115879
+   Zia H.B., 2023, Flocking to mastodon: Tracking the great twitter migration
+   Zignani M., 2018, Proceedings of the International AAAI Conference on Web and Social Media, V12, P541
+NR 69
+TC 7
+Z9 7
+U1 3
+U2 4
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD DEC 8
+PY 2023
+VL 13
+IS 1
+AR 21626
+DI 10.1038/s41598-023-48200-7
+PG 12
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA EY9M6
+UT WOS:001142614900015
+PM 38062053
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Tao, ZG
+   Zhang, HB
+AF Tao, Zhiagng
+   Zhang, Haibo
+TI The emergence of complex adaptive response networks in China: A case
+   study of four disasters
+SO RISK ANALYSIS
+LA English
+DT Article
+DE complex adaptive system; exponent random graph model;
+   interorganizational networks; network analysis; network formation
+ID COMMUNICATION-NETWORKS; COLLABORATION NETWORKS; SOCIAL NETWORKS;
+   MANAGEMENT; RISK; CRISIS; MODELS; COORDINATION; INFORMATION; GOVERNANCE
+AB This study aims to identify the driving forces behind interorganizational networks in China following disasters. Using the theory of complex adaptive systems, we identified the self-organization process of disaster response as the network formation process. We identified interorganizational networks that emerged in response to two natural hazards and two technical disasters by collecting data from multiple sources. The exponential random model analysis is performed to analyze the effects of structures and organizational attributes on network formation. In structuring networks for disaster response, findings demonstrate that bonding structures take precedence over bridging structures for organizations. Meanwhile, the sector and jurisdiction-based homophily effects facilitate network formation in disaster response. On the basis of research findings, five propositions describing the network formation process in China's disaster response are proposed. Such a theoretical model is essential for advancing research and practice in complex disaster network management.
+C1 [Tao, Zhiagng] Hohai Univ, Sch Govt, Nanjing, Peoples R China.
+   [Zhang, Haibo] Nanjing Univ, Ctr Interdisciplinary Studies Risk Disaster & Cris, Sch Govt, Nanjing, Peoples R China.
+   [Zhang, Haibo] Nanjing Univ, Ctr Interdisciplinary Studies Risk Disaster &Crisi, Sch Govt, 163 Xianlin Rd, Nanjing 210046, Peoples R China.
+C3 Hohai University; Nanjing University; Nanjing University
+RP Zhang, HB (corresponding author), Nanjing Univ, Ctr Interdisciplinary Studies Risk Disaster &Crisi, Sch Govt, 163 Xianlin Rd, Nanjing 210046, Peoples R China.
+EM zhb@nju.edu.cn
+RI Zhang, Haibo/HLP-9266-2023
+FU National Natural Science Foundation of China [71921003]; National
+   Foundation for Social Science of China [20ZD160]
+FX This research was funded by the National Natural Science Foundation of
+   China (grant number 71921003), "Environmental Risk Management" and the
+   National Foundation for Social Science of China (grant number: 20&ZD160)
+   "The Modernization of China National Emergency Management System and
+   Capacity."
+CR Agranoff R, 2001, J PUBL ADM RES THEOR, V11, P295, DOI 10.1093/oxfordjournals.jpart.a003504
+   [Anonymous], 2019, CHINA NEWS
+   [Anonymous], 1994, Journal of Public Administration Research and Theory, DOI DOI 10.1093/OXFORDJOURNALS.JPART.A037220
+   [Anonymous], 1999, Harnessing Complexity: Organizational Implications of a Scientific Frontier
+   Berardo R, 2010, AM J POLIT SCI, V54, P632, DOI 10.1111/j.1540-5907.2010.00451.x
+   Bier V, 2006, ON RISK AND DISASTER: LESSONS FROM HURRICANE KATRINA, P243
+   Birkland T.A., 2006, LESSONS DISASTER
+   Bodin O, 2016, GLOBAL ENVIRON CHANG, V41, P183, DOI 10.1016/j.gloenvcha.2016.10.004
+   Charmaz K., 2006, Brokerage and closure: An introduction to social capital
+   Chen W, 2020, SAFETY SCI, V125, DOI 10.1016/j.ssci.2020.104607
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   Comfort L. K., 2004, International Journal of Emergency Management, V2, P62, DOI 10.1504/IJEM.2004.005314
+   Comfort LK, 2006, URBAN AFF REV, V41, P501, DOI 10.1177/1078087405284881
+   Comfort LK, 2007, PUBLIC ADMIN REV, V67, P189, DOI 10.1111/j.1540-6210.2007.00827.x
+   Comfort LK, 2006, NAT HAZARDS, V39, P309, DOI 10.1007/s11069-006-0030-x
+   Comfort LK, 2020, RISK ANAL, V40, P981, DOI 10.1111/risa.13442
+   Comfort LK, 2012, PUBLIC ADMIN REV, V72, DOI 10.1111/j.1540-6210.2012.02549.x
+   Comfort LKK, 2020, ADMIN SOC, V52, P827, DOI 10.1177/0095399719869991
+   Diani M., 2011, The sage handbook of social network analysis, P223
+   Drabek T.E., 2003, DISASTER PREV MANAG, V12, P97, DOI [DOI 10.1108/09653560310474214, 10.1108/09653560310474214]
+   Earl J, 2004, ANNU REV SOCIOL, V30, P65, DOI 10.1146/annurev.soc.30.012703.110603
+   Eisenhardt KM, 2007, ACAD MANAGE J, V50, P25, DOI 10.5465/AMJ.2007.24160888
+   EISENHARDT KM, 1989, ACAD MANAGE REV, V14, P532, DOI 10.2307/258557
+   Feiock RC, 2012, PUBLIC ADMIN REV, V72, pS58, DOI 10.1111/j.1540-6210.2012.02659.x
+   Feiock RC, 2010, URBAN AFF REV, V46, P241, DOI 10.1177/1078087409360509
+   Feiock Richard C., 2010, SELF ORG FEDERALISM
+   FRANK O, 1986, J AM STAT ASSOC, V81, P832, DOI 10.2307/2289017
+   Gibbert M, 2008, STRATEGIC MANAGE J, V29, P1465, DOI 10.1002/smj.722
+   Gulati R, 1999, AM J SOCIOL, V104, P1439, DOI 10.1086/210179
+   Guo XS, 2015, NAT HAZARDS, V79, P1773, DOI 10.1007/s11069-015-1925-1
+   Handcock Mark S, 2008, J Stat Softw, V24, P1548
+   Henry AD, 2011, J PUBL ADM RES THEOR, V21, P419, DOI 10.1093/jopart/muq042
+   Hossain L, 2015, KNOWL-BASED SYST, V77, P68, DOI 10.1016/j.knosys.2014.12.029
+   Hu Q, 2022, AM REV PUBLIC ADM, V52, P280, DOI 10.1177/02750740221077348
+   Hu Q, 2016, J PUBL ADM RES THEOR, V26, P593, DOI 10.1093/jopart/muv032
+   Hu Q, 2014, PUBLIC ADMIN REV, V74, P698, DOI 10.1111/puar.12284
+   Jung K, 2019, PUBLIC ADMIN REV, V79, P225, DOI 10.1111/puar.12993
+   Jung K., 2017, ADV INTEL SYS RES, V55, P950
+   Jung K, 2016, GOV INFORM Q, V33, P133, DOI 10.1016/j.giq.2015.09.010
+   Kaffuman, 1993, ORIGINS ORDERS SELF
+   Kang W., 2018, INT C E COMMERCE CON, V15, P141
+   Kapucu N., 2009, URBAN AFF REV
+   Kapucu N, 2006, AM REV PUBLIC ADM, V36, P207, DOI 10.1177/0275074005280605
+   Kapucu N, 2016, AM REV PUBLIC ADM, V46, P399, DOI 10.1177/0275074014555645
+   Kapucu N, 2013, PUBLIC PERFORM MANAG, V37, P104, DOI 10.2753/PMR1530-9576370105
+   Kim K. D., 2013, ARXIV
+   Kim K, 2017, J CONTING CRISIS MAN, V25, P148, DOI 10.1111/1468-5973.12180
+   Kong J. J., 2013, J PUBLIC MANAGEMENT, V10, P88
+   La Porte ToddR., 1996, J PUBL ADM RES THEOR, V6, P49, DOI DOI 10.1093/OXFORDJOURNALS.JPART.A024302
+   Lazer D, 2007, ADMIN SCI QUART, V52, P667, DOI 10.2189/asqu.52.4.667
+   Lee Y, 2012, POLICY STUD J, V40, P547, DOI 10.1111/j.1541-0072.2012.00464.x
+   Liu YH, 2020, SAFETY SCI, V125, DOI 10.1016/j.ssci.2020.104621
+   Lubell M, 2007, J POLIT, V69, P237, DOI 10.1111/j.1468-2508.2007.00507.x
+   Ma L, 2019, PUBLIC PERFORM MANAG, V42, P383, DOI 10.1080/15309576.2018.1464478
+   McDonald, 2008, COLLABORATIVE DECISI
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Moynihan Don., 2005, Leveraging Collaborative Networks in Infrequent Emergency Situations
+   Moynihan DP, 2008, PUBLIC ADMIN REV, V68, P350, DOI 10.1111/j.1540-6210.2007.00867.x
+   Moynihan DP, 2009, J PUBL ADM RES THEOR, V19, P895, DOI 10.1093/jopart/mun033
+   Niu YF, 2022, PUBLIC PERFORM MANAG, V45, P799, DOI 10.1080/15309576.2022.2045616
+   Nowell B, 2018, AM REV PUBLIC ADM, V48, P699, DOI 10.1177/0275074017724225
+   Ostrom E, 1998, AM POLIT SCI REV, V92, P1, DOI 10.2307/2585925
+   Pettigrew AM, 1990, ORGAN SCI, V1, P267, DOI 10.1287/orsc.1.3.267
+   Pfeffer J, 2012, COMPUT MATH ORGAN TH, V18, P280, DOI 10.1007/s10588-012-9122-1
+   Provan KG, 2008, J PUBL ADM RES THEOR, V18, P229, DOI 10.1093/jopart/mum015
+   Provan KG, 2007, J MANAGE, V33, P479, DOI 10.1177/0149206307302554
+   Provan KG, 2012, PUBLIC ADMIN REV, V72, P638, DOI 10.1111/j.1540-6210.2012.02595.x
+   Provan KG, 2001, PUBLIC ADMIN REV, V61, P414, DOI 10.1111/0033-3352.00045
+   Putnam R.D., 1995, Journal of Democracy, V6, P65, DOI [10.1007/978-1-349-62397-6_12, DOI 10.1353/JOD.1995.0002, 10.1353/jod.1995.0002]
+   Robins G, 1999, PSYCHOMETRIKA, V64, P371, DOI 10.1007/BF02294302
+   Robins G, 2007, SOC NETWORKS, V29, P173, DOI 10.1016/j.socnet.2006.08.002
+   Schneider SK, 2005, PUBLIC ADMIN REV, V65, P515, DOI 10.1111/j.1540-6210.2005.00478.x
+   Seawright J, 2008, POLIT RES QUART, V61, P294, DOI 10.1177/1065912907313077
+   Snijders TAB, 2011, ANNU REV SOCIOL, V37, P131, DOI 10.1146/annurev.soc.012809.102709
+   State Council, 2013, LUSH EARTHQ HAS AFF
+   State Council, 2016, INVESTIGATIONAL REPO
+   State Council, 2019, INVESTIGATIONAL REPO
+   Tang GJ, 2020, SAFETY SCI, V125, DOI 10.1016/j.ssci.2020.104624
+   Tao ZG, 2020, COMPLEXITY, V2020, DOI 10.1155/2020/9687390
+   Thurmaier K, 2002, PUBLIC ADMIN REV, V62, P585, DOI 10.1111/1540-6210.00239
+   Uddin S, 2013, COMPUT MATH ORGAN TH, V19, P25, DOI 10.1007/s10588-011-9104-8
+   Waugh WL, 2006, PUBLIC ADMIN REV, V66, P131, DOI 10.1111/j.1540-6210.2006.00673.x
+   Weidmann NB, 2016, AM J POLIT SCI, V60, P206, DOI 10.1111/ajps.12196
+   Ya'an Government, 2013, DIR LOSS LUSH EARTHQ
+   Yeo J, 2018, J HOMEL SECUR EMERG, V15, DOI 10.1515/jhsem-2016-0011
+   Yin R. K., 2013, CASE STUDY RES DESIG, DOI [10.3138/cjpe.30.1.108, DOI 10.1097/FCH.0B013E31822DDA9E]
+   YIN RK, 1981, ADMIN SCI QUART, V26, P58, DOI 10.2307/2392599
+   Lee Yongkwon, 2011, [Issledovanija po slavjanskim jazykam, 슬라브어 연구], V16, P113
+   Zhang H., 2022, SOC SCI CHINA, V4, P64
+   Zhang H., 2016, J HOMEL SECUR EMERG, V3, P58
+   Zhang HB, 2012, J COMP POLICY ANAL, V14, P234, DOI 10.1080/13876988.2012.687621
+   Zhang Haibo, 2016, J. Public Adm., V13, P156, DOI [10.16149/j.cnki.23-1523.2016.02.008, DOI 10.16149/J.CNKI.23-1523.2016.02.008]
+NR 92
+TC 7
+Z9 7
+U1 106
+U2 232
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0272-4332
+EI 1539-6924
+J9 RISK ANAL
+JI Risk Anal.
+PD NOV
+PY 2023
+VL 43
+IS 11
+BP 2223
+EP 2240
+DI 10.1111/risa.14121
+EA FEB 2023
+PG 18
+WC Public, Environmental & Occupational Health; Mathematics,
+   Interdisciplinary Applications; Social Sciences, Mathematical Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health; Mathematics; Mathematical
+   Methods In Social Sciences
+GA Y6AN1
+UT WOS:000940751700001
+PM 36855024
+DA 2024-11-22
+ER
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Marqués-Sánchez, P
+   Martínez-Fernández, MC
+   Benítez-Andrades, JA
+   Quiroga-Sánchez, E
+   García-Ordás, MT
+   Arias-Ramos, N
+AF Marques-Sanchez, Pilar
+   Martinez-Fernandez, Maria Cristina
+   Benitez-Andrades, Jose Alberto
+   Quiroga-Sanchez, Enedina
+   Garcia-Ordas, Maria Teresa
+   Arias-Ramos, Natalia
+TI Adolescent relational behaviour and the obesity pandemic: A descriptive
+   study applying social network analysis and machine learning techniques
+SO PLOS ONE
+LA English
+DT Article
+ID PHYSICAL-ACTIVITY; CHILDREN; OVERWEIGHT; ASSOCIATIONS; DIET
+AB AimTo study the existence of subgroups by exploring the similarities between the attributes of the nodes of the groups, in relation to diet and gender and, to analyse the connectivity between groups based on aspects of similarities between them through SNA and artificial intelligence techniques. Methods235 students from 5 different educational centres participate in this study between March and December 2015. Data analysis carried out is divided into two blocks: social network analysis and unsupervised machine learning techniques. As for the social network analysis, the Girvan-Newman technique was applied to find the best number of cohesive groups within each of the friendship networks of the different classes analysed. ResultsAfter applying Girvan-Newman in the three classes, the best division into clusters was respectively 2 for classroom A, 7 for classroom B and 6 for classroom C. There are significant differences between the groups and the gender and diet variables. After applying K-means using population diet as an input variable, a K-means clustering of 2 clusters for class A, 3 clusters for class B and 3 clusters for class C is obtained. ConclusionAdolescents form subgroups within their classrooms. Subgroup cohesion is defined by the fact that nodes share similarities in aspects that influence obesity, they share attributes related to food quality and gender. The concept of homophily, related to SNA, justifies our results. Artificial intelligence techniques together with the application of the Girvan-Newman provide robustness to the structural analysis of similarities and cohesion between subgroups.
+C1 [Marques-Sanchez, Pilar; Martinez-Fernandez, Maria Cristina; Quiroga-Sanchez, Enedina; Arias-Ramos, Natalia] Univ Leon, Fac Hlth Sci, SALBIS Res Grp, Campus Ponferrada, Leon, Spain.
+   [Benitez-Andrades, Jose Alberto] Univ Leon, Dept Elect, SALBIS Res Grp, Syst & Automat Engn, Leon, Spain.
+   [Garcia-Ordas, Maria Teresa] Univ Leon, Escuela Ingn Ind Informat, SECOMUCI Res Grp, Leon, Spain.
+C3 Universidad de Leon; Universidad de Leon; Universidad de Leon
+RP Benítez-Andrades, JA (corresponding author), Univ Leon, Dept Elect, SALBIS Res Grp, Syst & Automat Engn, Leon, Spain.
+RI Marques-Sanchez, Pilar/AFP-7333-2022; Martínez-Fernández,
+   María/AAV-5865-2021; Benitez-Andrades, Jose Alberto/M-1195-2017
+OI Martinez-Fernandez, Maria Cristina/0000-0002-1921-2826;
+   Benitez-Andrades, Jose Alberto/0000-0002-4450-349X
+CR [Anonymous], 1996, Networks in marketing, DOI [DOI 10.4135/9781483327723.N4, 10.4135/9781483327723.n4]
+   Ramos NA, 2018, PEDIATR OBES, V13, P614, DOI 10.1111/ijpo.12396
+   Barlow SE, 2007, PEDIATRICS, V120, pS164, DOI 10.1542/peds.2007-2329C
+   Bell L, 2019, BMC PUBLIC HEALTH, V19, DOI 10.1186/s12889-019-7710-4
+   Borgatti SP, 2009, SCIENCE, V323, P892, DOI 10.1126/science.1165821
+   Cheng HL, 2021, INT J NURS STUD, V121, DOI 10.1016/j.ijnurstu.2021.104008
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   Christakis NA, 2013, STAT MED, V32, P556, DOI 10.1002/sim.5408
+   Cohen-Cole E, 2008, J HEALTH ECON, V27, P1382, DOI 10.1016/j.jhealeco.2008.04.005
+   Crosnoe R, 2007, SOCIOL EDUC, V80, P241, DOI 10.1177/003804070708000303
+   de la Haye K, 2014, J BEHAV MED, V37, P234, DOI 10.1007/s10865-012-9471-8
+   de la Haye K, 2011, J ADOLESCENT HEALTH, V49, P421, DOI 10.1016/j.jadohealth.2011.02.008
+   Dietz WH, 2001, ANNU REV PUBL HEALTH, V22, P337, DOI 10.1146/annurev.publhealth.22.1.337
+   Chu DT, 2019, DIABETES METAB SYND, V13, P155, DOI 10.1016/j.dsx.2018.07.015
+   Efe YS, 2020, ARCH PSYCHIAT NURS, V34, P557, DOI 10.1016/j.apnu.2020.09.007
+   Farhat T, 2015, CURR OPIN PSYCHOL, V5, P56, DOI 10.1016/j.copsyc.2015.03.021
+   Girvan M, 2002, P NATL ACAD SCI USA, V99, P7821, DOI 10.1073/pnas.122653799
+   Gómez SF, 2018, EUR J PEDIATR, V177, P1531, DOI 10.1007/s00431-018-3207-x
+   Hastie T., 2009, ELEMENTS STAT LEARNI
+   Hung M, 2020, J MED INTERNET RES, V22, DOI 10.2196/22590
+   Kelleher JD, 2015, FUNDAMENTALS OF MACHINE LEARNING FOR PREDICTIVE DATA ANALYTICS: ALGORITHMS, WORKED EXAMPLES, AND CASE STUDIES, P1
+   Kumar S, 2017, MAYO CLIN PROC, V92, P251, DOI 10.1016/j.mayocp.2016.09.017
+   Leech RM, 2015, INT J OBESITY, V39, P1079, DOI 10.1038/ijo.2015.66
+   Li XY, 2019, SOC SCI MED, V232, P417, DOI 10.1016/j.socscimed.2019.05.026
+   Lister NB, 2023, NAT REV DIS PRIMERS, V9, DOI 10.1038/s41572-023-00435-4
+   Ljucovic J., 2016, ENTRENOVAENTerprise REsearch InNOVAtion, V2, P24
+   Lorant Vincent, 2015, BMC Res Notes, V8, P91, DOI 10.1186/s13104-015-1041-z
+   Mackenbach JD, 2016, OBES REV, V17, P96, DOI 10.1111/obr.12373
+   MacQueen J., 1967, P 5 BERK S MATH STAT, P281
+   Marques-Sanchez P., 2021, Sci Rep, V11, P1
+   Marqués-Sánchez P, 2021, BMJ OPEN, V11, DOI 10.1136/bmjopen-2020-042773
+   Marttila-Tornio K, 2020, SCAND J CARING SCI, V34, P666, DOI 10.1111/scs.12769
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Murase Y, 2019, SCI REP-UK, V9, DOI 10.1038/s41598-019-40990-z
+   Parnell JM, 2018, J ADV NURS, V74, P1310, DOI 10.1111/jan.13541
+   Pascual-Ferra P., 2020, Disaster Med Public Health Prep, P1
+   Quek YH, 2017, OBES REV, V18, P742, DOI 10.1111/obr.12535
+   Safaei M, 2021, COMPUT BIOL MED, V136, DOI 10.1016/j.compbiomed.2021.104754
+   Serra-Majem L, 2004, PUBLIC HEALTH NUTR, V7, P931, DOI 10.1079/PHN2004556
+   Shoham David A, 2015, Curr Epidemiol Rep, V2, P71
+   Townsend MJ, 2022, INT J OBESITY, V46, P447, DOI 10.1038/s41366-021-01044-5
+   Vacca R, 2020, NETW SCI, V8, P142, DOI 10.1017/nws.2019.29
+   Valente TW, 2020, HEALTH EDUC BEHAV, V47, P235, DOI 10.1177/1090198120901497
+   Valente TW, 2012, SCIENCE, V337, P49, DOI 10.1126/science.1217330
+   Valente TW, 2009, J ADOLESCENT HEALTH, V45, P202, DOI 10.1016/j.jadohealth.2009.01.007
+   Wada K, 2020, JPN J STAT DATA SCI, V3, P669, DOI 10.1007/s42081-020-00091-y
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   Wong GT, 2023, GASTROENTEROL CLIN N, V52, P443, DOI 10.1016/j.gtc.2023.03.011
+   World Health Organization [WHO], 2022, WORLD OB DAY 2022 AC
+   Xiong PC, 2021, CHIN CONTR CONF, P7474, DOI 10.23919/CCC52363.2021.9549569
+   Zhan F, 2019, 2019 IEEE SECOND INTERNATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE AND KNOWLEDGE ENGINEERING (AIKE), P113, DOI 10.1109/AIKE.2019.00029
+   Zhang S, 2018, OBES REV, V19, P976, DOI 10.1111/obr.12684
+   Zhu WY, 2015, ACSR ADV COMPUT, V34, P760
+   ,, 2017, New England Journal of Medicine, V377, P13
+NR 54
+TC 2
+Z9 2
+U1 0
+U2 5
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD AUG 15
+PY 2023
+VL 18
+IS 8
+DI 10.1371/journal.pone.0289553
+PG 14
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA Q0ED9
+UT WOS:001054317000012
+PM 37582086
+OA Green Published, gold, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU West, BJ
+   Culbreth, G
+   Dunbar, RIM
+   Grigolini, P
+AF West, Bruce J. J.
+   Culbreth, Garland
+   Dunbar, Robin I. M.
+   Grigolini, Paolo
+TI Fractal structure of human and primate social networks optimizes
+   information flow
+SO PROCEEDINGS OF THE ROYAL SOCIETY A-MATHEMATICAL PHYSICAL AND ENGINEERING
+   SCIENCES
+LA English
+DT Article
+DE networks; Dunbar's number; attractors; criticality; information;
+   collective intelligence
+ID ORGANIZATION; CONSTRAINTS
+AB Primate and human social groups exhibit a fractal structure that has a very limited range of preferred layer sizes, with groups of 5, 15, 50 and (in humans) 150 and 500 predominating. In non-human primates, this same fractal distribution is also observed in the distribution of species mean group sizes and in the internal network structure of their groups. Here we demonstrate that this preferential numbering arises because of the critical nature of dynamic self-organization within complex social networks. We calculate the size dependence of the scaling properties of complex social network models and argue that this aggregate behaviour exhibits a form of collective intelligence. Direct calculation establishes that the complexity of social networks as measured by their scaling behaviour is non-monotonic, peaking globally around 150 with a secondary peak at 500 and tertiary peaks at 5, 15 and 50. This provides a theory-based rationale for the fractal layering of primate and human social groups.
+C1 [West, Bruce J. J.; Culbreth, Garland; Grigolini, Paolo] Univ North Texas, Ctr Nonlinear Sci, Denton, TX 76203 USA.
+   [Dunbar, Robin I. M.] Univ Oxford, Dept Expt Psychol, Radcliffe Observ Quarter, Oxford OX2 6GG, England.
+C3 University of North Texas System; University of North Texas Denton;
+   University of Oxford
+RP Dunbar, RIM (corresponding author), Univ Oxford, Dept Expt Psychol, Radcliffe Observ Quarter, Oxford OX2 6GG, England.
+EM robin.dunbar@psy.ox.ac.uk
+OI dunbar, robin/0000-0002-9982-9702; Culbreth, Garland/0000-0002-3096-4834
+CR Abney DH, 2014, J EXP PSYCHOL GEN, V143, P2304, DOI 10.1037/xge0000021
+   Almurad ZMH, 2018, FRONT PHYSIOL, V9, DOI [10.3389/fphy5.2018.01766, 10.3389/fphys.2018.01766]
+   Arnaboldi Valerio, 2017, Online Social Networks and Media, V1, P44, DOI 10.1016/j.osnem.2017.04.001
+   Barab?si A.-L., 1995, FRACTAL CONCEPTS SUR, DOI 10.1017/CBO9780511599798
+   Barenblatt G.I., 1996, Scaling, self-similarity, and intermediate asymptotics: dimensional analysis and intermediate asymptotics, DOI [DOI 10.1017/CBO9781107050242, 10.1017/CBO9781107050242]
+   Bereau T, 2010, J AM CHEM SOC, V132, P13129, DOI 10.1021/ja105206w
+   CARTWRIGHT D, 1956, PSYCHOL REV, V63, P277, DOI 10.1037/h0046049
+   Couzin I, 2007, NATURE, V445, P715, DOI 10.1038/445715a
+   Culbreth G, 2019, ENTROPY-SWITZ, V21, DOI 10.3390/e21020178
+   Dunbar, 2022, bioRxiv, DOI [10.1101/2022.12.13.520310, 10.1101/2022.12.13.520310, DOI 10.1101/2022.12.13.520310]
+   Dunbar RIM, 2020, P ROY SOC A-MATH PHY, V476, DOI 10.1098/rspa.2020.0446
+   Dunbar RIM, 2018, BIOL LETTERS, V14, DOI 10.1098/rsbl.2017.0490
+   Dunbar RIM, 2018, TRENDS COGN SCI, V22, P32, DOI 10.1016/j.tics.2017.10.004
+   Dunbar RIM, 2016, ROY SOC OPEN SCI, V3, DOI 10.1098/rsos.150292
+   Dunbar RIM, 2015, SOC NETWORKS, V43, P39, DOI 10.1016/j.socnet.2015.04.005
+   Dunbar RIM, 2011, J I ECON, V7, P345, DOI 10.1017/S1744137410000366
+   Dunbar RIM, 2022, CURR OPIN BEHAV SCI, V43, P14, DOI 10.1016/j.cobeha.2021.06.009
+   Dunbar RIM, 2021, BIOL REV, V96, P1889, DOI 10.1111/brv.12730
+   Escribano D, 2022, SCI REP-UK, V12, DOI 10.1038/s41598-022-20672-z
+   Failla R, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.010101
+   Failla R, 2005, FLUCT NOISE LETT, V5, pL175, DOI 10.1142/S0219477505002537
+   Fuchs B, 2014, SCI REP-UK, V4, DOI 10.1038/srep06526
+   Grigolini P, 2001, FRACTALS, V9, P439, DOI 10.1142/S0218348X01000865
+   Hamilton MJ, 2007, P ROY SOC B-BIOL SCI, V274, P2195, DOI 10.1098/rspb.2007.0564
+   Hill RA, 2008, BIOL LETTERS, V4, P748, DOI 10.1098/rsbl.2008.0393
+   Kahneman, 2002, THINKING FAST SLOW, P49, DOI 10.1017/cbo9780511808098.004
+   Kordsmeyer T, 2017, CURR ANTHROPOL, V58, P289, DOI 10.1086/690731
+   Kudo H, 2001, ANIM BEHAV, V62, P711, DOI 10.1006/anbe.2001.1808
+   Lorenz J, 2007, INT J MOD PHYS C, V18, P1819, DOI 10.1142/S0129183107011789
+   Mac Carron P, 2016, SOC NETWORKS, V47, P151, DOI 10.1016/j.socnet.2016.06.003
+   MANDELBROT BB, 1968, SIAM REV, V10, P422, DOI 10.1137/1010093
+   Nagasaka H, 2018, ACS OMEGA, V3, P18925, DOI 10.1021/acsomega.8b02399
+   PENG CK, 1994, PHYS REV E, V49, P1685, DOI 10.1103/PhysRevE.49.1685
+   Peralta AF, 2022, Arxiv, DOI arXiv:2201.01322
+   Redner S., 2001, A Guide to First Passage Processes
+   Shultz S, 2004, P ROY SOC B-BIOL SCI, V271, P725, DOI 10.1098/rspb.2003.2626
+   Shultz S, 2022, PHILOS T R SOC B, V377, DOI 10.1098/rstb.2021.0296
+   STANLEY HE, 1994, PHYSICA A, V205, P214, DOI 10.1016/0378-4371(94)90502-9
+   Sutcliffe A, 2012, BRIT J PSYCHOL, V103, P149, DOI 10.1111/j.2044-8295.2011.02061.x
+   Sutcliffe AG, 2018, COMPUT HUM BEHAV, V85, P227, DOI 10.1016/j.chb.2018.03.050
+   Tamarit I, 2022, SCI REP-UK, V12, DOI 10.1038/s41598-022-06066-1
+   Tamarit I, 2018, P NATL ACAD SCI USA, V115, P8316, DOI 10.1073/pnas.1719233115
+   VICSEK T, 1995, PHYS REV LETT, V75, P1226, DOI 10.1103/PhysRevLett.75.1226
+   Waagen A, 2015, PHYS REV E, V91, DOI 10.1103/PhysRevE.91.022811
+   Wang P, 2020, EPJ DATA SCI, V9, DOI 10.1140/epjds/s13688-020-00230-1
+   Weiss G. H., 1994, Aspects and Applications of the Random Walk
+   West BJ, 2020, P NATL ACAD SCI USA, V117, P18355, DOI 10.1073/pnas.2006875117
+   West BJ, 2014, COMPUT SOC SCI, P1, DOI 10.1007/978-3-319-04879-6
+   West BJ., 2019, Empirical Paradox, Complexity Thinking and Generating New Kinds of Knowledge
+   West BJ, 2008, PHYS REP, V468, P1, DOI 10.1016/j.physrep.2008.06.003
+   WIENER N, 1948, ANN NY ACAD SCI, V50, P197, DOI 10.1111/j.1749-6632.1948.tb39853.x
+   Zhou WX, 2005, P ROY SOC B-BIOL SCI, V272, P439, DOI 10.1098/rspb.2004.2970
+NR 52
+TC 4
+Z9 4
+U1 1
+U2 6
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 1364-5021
+EI 1471-2946
+J9 P ROY SOC A-MATH PHY
+JI Proc. R. Soc. A-Math. Phys. Eng. Sci.
+PD JUN 28
+PY 2023
+VL 479
+IS 2274
+AR 20230028
+DI 10.1098/rspa.2023.0028
+PG 15
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA J1YI2
+UT WOS:001007632500002
+OA Green Submitted, hybrid
+DA 2024-11-22
+ER

@@ -1,0 +1,660 @@
+
+PT J
+AU Di, YN
+   Zhou, Y
+   Zhang, L
+   Indraprahasta, GS
+   Cao, JJ
+AF Di, Yuna
+   Zhou, Yi
+   Zhang, Lu
+   Indraprahasta, Galuh Syahbana
+   Cao, Jinjin
+TI Spatial Pattern and Evolution of Global Innovation Network from 2000 to
+   2019: Global Patent Dataset Perspective
+SO COMPLEXITY
+LA English
+DT Article
+ID INFORMATION; CENTRALITY; DYNAMICS
+AB In the era of the knowledge economy, the improvement of national innovation systems is playing a significant role in the global entrepreneurship ecosystem. Entrepreneurs are accelerating international intellectual property applications to be competitive. What remains to be explored is the evolution of international intellectual property network in the globe. With the application of social network analysis and intellectual property application database, the global innovation network structure from 2000 to 2019 is explored. Results showed that (1) in the period 2000-2019, the global innovation network has been expanding rapidly from a sparse network to a dense and complex one. (2) Patent application is unevenly distributed in the globe. Countries such as the US, China, and Canada have been the top countries flowing in, while Japan, Korea, EU, and Switzerland have been the main countries flowing out. (3) Global innovation network shows an obvious "core-periphery" pattern. The distribution pattern presents a quadrilateral structure with the four core regions of "US, Japan, EU, and China" as the apex. This analysis contributes to the visualization of the global layout of intellectual property and the evolution trend by analyzing intellectual property application networks. This can provide important experience reference for enterprises to study the global entrepreneurship ecosystem.
+C1 [Di, Yuna; Zhang, Lu] Beijing Technol & Business Univ, Sch Int Econ & Management, Beijing 100048, Peoples R China.
+   [Zhou, Yi; Cao, Jinjin] Beijing Technol & Business Univ, Sch Econ, Beijing 100048, Peoples R China.
+   [Indraprahasta, Galuh Syahbana] Natl Res & Innovat Agcy Indonesia BRIN, Res Ctr Populat, Jakarta, Indonesia.
+C3 Beijing Technology & Business University; Beijing Technology & Business
+   University; National Research & Innovation Agency of Indonesia (BRIN)
+RP Zhang, L (corresponding author), Beijing Technol & Business Univ, Sch Int Econ & Management, Beijing 100048, Peoples R China.
+EM diyuna@btbu.edu.cn; zyzhouyizhouyi@163.com; zhanglu113@mails.ucas.ac.cn;
+   galuh.indraprahasta@gmail.com; caojinjin153695@163.com
+RI Zhang, Lu/C-4821-2019; Indraprahasta, Galuh/ABC-6253-2020; Cao,
+   Jinjin/JVO-0325-2024
+OI Indraprahasta, Galuh Syahbana/0000-0001-8003-2341
+FU Beijing Philosophy and Social Science Foundation [21JJC023]; Beijing
+   Municipal Education Commission [SZ202110011006]; National Natural
+   Science Foundation of China [42101210]
+FX This research was supported by the Beijing Philosophy and Social Science
+   Foundation (No. 21JJC023), Key Project supported by Beijing Municipal
+   Education Commission (No. SZ202110011006), and National Natural Science
+   Foundation of China (No. 42101210).
+CR Bai X, 2019, INFORM DEV, V35, P21, DOI 10.1177/0266666917724583
+   Buchmann T, 2015, ECON INNOV NEW TECH, V24, P114, DOI 10.1080/10438599.2014.897860
+   Cantwell J, 2005, STRATEGIC MANAGE J, V26, P1109, DOI 10.1002/smj.497
+   Chen HJ, 2018, J MANAG ANAL, V5, P287, DOI 10.1080/23270012.2018.1478329
+   Coe NM, 2003, GLOBAL NETW, V3, P437, DOI 10.1111/1471-0374.00071
+   Dost M, 2016, J INTELLECT CAP, V17, P675, DOI 10.1108/JIC-04-2016-0047
+   Ernst D., 2006, East-West Center Special Report, P1
+   Ernst D, 2009, POL STUD, V54, P1
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   Grant RM, 2004, J MANAGE STUD, V41, P61, DOI 10.1111/j.1467-6486.2004.00421.x
+   Ju L., 2014, PAPERS INNOVATION ST
+   Lazzeretti L, 2016, J BUS RES, V69, P5855, DOI 10.1016/j.jbusres.2016.04.068
+   Li DD, 2015, HABITAT INT, V49, P484, DOI 10.1016/j.habitatint.2015.05.031
+   Li J., 2012, SCI TECHNOLOGY PROGR, V29, P32
+   Marrocu E., 2011, WORKING PAPER CRENOS, V80
+   May Christopher., 2015, GLOBAL POLITICAL EC, V2nd
+   Morrison G, 2014, J COMPLEX NETW, V2, P518, DOI 10.1093/comnet/cnu031
+   Pan XF, 2019, J KNOWL MANAG, V23, P1729, DOI 10.1108/JKM-06-2018-0371
+   Peng F, 2019, CHINESE GEOGR SCI, V29, P528, DOI 10.1007/s11769-019-1047-x
+   Qiu Y., 2013, Business and Management Research, V2, P33, DOI DOI 10.5430/BMR.V2N3P33
+   Reis D., 2021, INT J INNOV ED RES, V9, P108, DOI [10.31686/ijier.vol9.iss2.2879, DOI 10.31686/IJIER.VOL9.ISS2.2879]
+   Steinmo M, 2016, J BUS RES, V69, P1250, DOI 10.1016/j.jbusres.2015.09.006
+   Sun YT, 2016, TECHNOL FORECAST SOC, V108, P70, DOI 10.1016/j.techfore.2016.04.017
+   Tseng CY, 2009, TECHNOL FORECAST SOC, V76, P654, DOI 10.1016/j.techfore.2008.03.007
+   Valverde S, 2007, PHYS REV E, V76, DOI 10.1103/PhysRevE.76.056118
+   van der Valk T, 2011, TECHNOL FORECAST SOC, V78, P25, DOI 10.1016/j.techfore.2010.07.001
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Wu J, 2016, J WORLD BUS, V51, P251, DOI 10.1016/j.jwb.2015.09.002
+   Yao L, 2020, TECHNOL FORECAST SOC, V160, DOI 10.1016/j.techfore.2020.120185
+   Zhang C, 2019, BEHAV INFORM TECHNOL, V38, P876, DOI 10.1080/0144929X.2019.1584645
+   Zhang L, 2021, J ADV TRANSPORT, V2021, DOI 10.1155/2021/8810254
+   Zhang L, 2019, HABITAT INT, V93, DOI 10.1016/j.habitatint.2019.102044
+   Zhang LP, 2021, COMPLEXITY, V2021, DOI 10.1155/2021/5107630
+NR 33
+TC 1
+Z9 1
+U1 11
+U2 68
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1076-2787
+EI 1099-0526
+J9 COMPLEXITY
+JI Complexity
+PD JUN 10
+PY 2022
+VL 2022
+AR 5912696
+DI 10.1155/2022/5912696
+PG 11
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Mathematics; Science & Technology - Other Topics
+GA 2G9CF
+UT WOS:000813897300002
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Rajesh, T
+   Rangaiah, B
+AF Rajesh, Thipparapu
+   Rangaiah, B.
+TI Relationship between personality traits and facebook addiction: A
+   meta-analysis
+SO HELIYON
+LA English
+DT Article
+DE Big five personality traits; Loneliness; Narcissism; Shyness;
+   Impulsivity; Facebook addiction
+ID ONLINE SOCIAL NETWORKING; PROBLEMATIC INTERNET USE; SELF-ESTEEM; DARK
+   TRIAD; LIFE SATISFACTION; LONELINESS SCALE; SHORT VERSION; BIG 5;
+   NARCISSISM; PREDICTORS
+AB Personality traits are important factors in determining online behaviors. Especially personality traits are linked with users' behavior on Facebook. Despite the substantial quantity of studies conducted on the relationship between personality factors and Facebook addiction, researchers have yet to reach an agreement. This study sought to examine the relationship between personality traits and Facebook addiction. In this meta-analysis study, agreeableness, openness to experience and conscientiousness were negatively related to Facebook addiction. Loneliness, narcissism, impulsivity and shyness were significantly correlated with Facebook addiction. Meta analysis also found that geographical location, personality scales, Facebook addiction scales, publication status moderated the link between personality variables and Facebook addiction. The limitations and future directions are discussed.
+C1 [Rajesh, Thipparapu] Mizoram Univ, Dept Psychol, Aizawl 796004, Mizoram, India.
+   [Rangaiah, B.] Pondicherry Univ, Dept Appl Psychol, Pondicherry 605014, India.
+C3 Mizoram University; Pondicherry University
+RP Rajesh, T (corresponding author), Mizoram Univ, Dept Psychol, Aizawl 796004, Mizoram, India.
+EM thipparapu.rajesh@gmail.com
+RI Thipparapu, Rajesh/GXH-3374-2022
+OI , Rajesh/0000-0001-5218-8015; Babu, Rangaiah/0000-0002-4157-8146
+CR Abbasi I, 2019, AM J FAM THER, V47, P199, DOI 10.1080/01926187.2019.1624223
+   Ames DR, 2006, J RES PERS, V40, P440, DOI 10.1016/j.jrp.2005.03.002
+   Amichai-Hamburger Y, 2002, COMPUT HUM BEHAV, V18, P1, DOI 10.1016/S0747-5632(01)00034-6
+   Andreassen CS, 2012, PSYCHOL REP, V110, P501, DOI 10.2466/02.09.18.PR0.110.2.501-517
+   Andreassen CS, 2017, ADDICT BEHAV, V64, P287, DOI 10.1016/j.addbeh.2016.03.006
+   Andreassen CS, 2016, PSYCHOL ADDICT BEHAV, V30, P252, DOI 10.1037/adb0000160
+   Andreassen CS, 2014, J COMPUT-MEDIAT COMM, V19, P906, DOI 10.1111/jcc4.12085
+   Andreassen CS, 2013, J BEHAV ADDICT, V2, P90, DOI 10.1556/JBA.2.2013.003
+   Andreassen CS, 2014, CURR PHARM DESIGN, V20, P4053, DOI 10.2174/13816128113199990616
+   [Anonymous], 2018, J RES SOC SCI
+   Appel H, 2016, CURR OPIN PSYCHOL, V9, P44, DOI 10.1016/j.copsyc.2015.10.006
+   Arias-Carrión O, 2007, ACTA NEUROBIOL EXP, V67, P481, DOI 10.55782/ane-2007-1664
+   Atroszko PA, 2018, COMPUT HUM BEHAV, V85, P329, DOI 10.1016/j.chb.2018.04.001
+   Aung E.E.S., 2020, FACEBOOK ADDICTION L
+   Baker LR, 2010, J SOC PERS RELAT, V27, P873, DOI 10.1177/0265407510375261
+   Balcerowska JM, 2022, CURR PSYCHOL, V41, P949, DOI 10.1007/s12144-020-00625-3
+   Beard KW, 2005, CYBERPSYCHOL BEHAV, V8, P7, DOI 10.1089/cpb.2005.8.7
+   BEGG CB, 1994, BIOMETRICS, V50, P1088, DOI 10.2307/2533446
+   Biolcati R, 2018, J CLIN MED, V7, DOI 10.3390/jcm7060118
+   Blachnio A, 2015, EUR PSYCHIAT, V30, P681, DOI 10.1016/j.eurpsy.2015.04.002
+   Blachnio A, 2018, PSYCHIAT RES, V259, P514, DOI 10.1016/j.psychres.2017.11.012
+   Blachnio A, 2017, COMPUT HUM BEHAV, V68, P269, DOI 10.1016/j.chb.2016.11.037
+   Blachnio A, 2016, COMPUT HUM BEHAV, V59, P230, DOI 10.1016/j.chb.2016.02.018
+   Blachnio A, 2016, COMPUT HUM BEHAV, V55, P701, DOI 10.1016/j.chb.2015.10.026
+   Bodroza B., 2009, PROCENA PSIHOLOSKIH, P179
+   Boyd DM, 2007, J COMPUT-MEDIAT COMM, V13, P210, DOI 10.1111/j.1083-6101.2007.00393.x
+   Brailovskaia Julia, 2020, Addict Behav Rep, V11, P100265, DOI 10.1016/j.abrep.2020.100265
+   Brailovskaia J, 2019, PSYCHIAT RES, V273, P52, DOI 10.1016/j.psychres.2019.01.016
+   Brailovskaia J, 2018, CYBERPSYCH BEH SOC N, V21, P450, DOI 10.1089/cyber.2018.0140
+   Brailovskaia J, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0189719
+   Buffardi LE, 2008, PERS SOC PSYCHOL B, V34, P1303, DOI 10.1177/0146167208320061
+   Caci B, 2017, CYBERPSYCH BEH SOC N, V20, P251, DOI 10.1089/cyber.2016.0073
+   Caers R, 2013, NEW MEDIA SOC, V15, P982, DOI 10.1177/1461444813488061
+   Capan B.E, 2016, ROLE SOCIAL EMOTIONA
+   Caplan SE, 2010, COMPUT HUM BEHAV, V26, P1089, DOI 10.1016/j.chb.2010.03.012
+   Caplan SE, 2003, COMMUN RES, V30, P625, DOI 10.1177/0093650203257842
+   Caplan SE, 2005, J COMMUN, V55, P721, DOI 10.1111/j.1460-2466.2005.tb03019.x
+   Casale S, 2018, ADDICT BEHAV, V76, P312, DOI 10.1016/j.addbeh.2017.08.038
+   Casale S, 2016, CYBERPSYCH BEH SOC N, V19, P510, DOI 10.1089/cyber.2016.0189
+   Chou C, 2005, EDUC PSYCHOL REV, V17, P363, DOI 10.1007/s10648-005-8138-1
+   Cudo A, 2020, PLOS ONE, V15, DOI 10.1371/journal.pone.0237610
+   Dalvi-Esfahani M, 2019, TELEMAT INFORM, V43, DOI 10.1016/j.tele.2019.101250
+   Delaney D, 2018, ADDICT RES THEORY, V26, P478, DOI 10.1080/16066359.2017.1406482
+   Deters FG, 2013, SOC PSYCHOL PERS SCI, V4, P579, DOI 10.1177/1948550612469233
+   DiTommaso E, 2004, EDUC PSYCHOL MEAS, V64, P99, DOI 10.1177/0013164403258450
+   Ebeling-Witte S, 2007, CYBERPSYCHOL BEHAV, V10, P713, DOI 10.1089/cpb.2007.9964
+   Egger M, 1997, BMJ-BRIT MED J, V315, P629, DOI 10.1136/bmj.315.7109.629
+   Ellison NB, 2007, J COMPUT-MEDIAT COMM, V12, P1143, DOI 10.1111/j.1083-6101.2007.00367.x
+   Elphinston RA, 2011, CYBERPSYCH BEH SOC N, V14, P631, DOI 10.1089/cyber.2010.0318
+   Erevik EK, 2018, ADDICT BEHAV, V78, P131, DOI 10.1016/j.addbeh.2017.11.023
+   Eskisu M, 2017, COMPUT HUM BEHAV, V69, P294, DOI 10.1016/j.chb.2016.12.036
+   Fisher Z., 2015, ROBUMETAROBUST VARIA
+   FISKE DW, 1949, J ABNORM SOC PSYCH, V44, P329, DOI 10.1037/h0057198
+   Fowler J, 2020, PERS INDIV DIFFER, V161, DOI 10.1016/j.paid.2020.109965
+   Fox J, 2015, PERS INDIV DIFFER, V76, P161, DOI 10.1016/j.paid.2014.12.017
+   Garcia D, 2014, PERS INDIV DIFFER, V67, P92, DOI 10.1016/j.paid.2013.10.001
+   Goldberg L.R., 1999, Personality psychology in Europe, V7, P7, DOI DOI 10.1037//0021-843X.109.4.588
+   Gosling SD, 2003, J RES PERS, V37, P504, DOI 10.1016/S0092-6566(03)00046-1
+   Grant JE, 2010, AM J DRUG ALCOHOL AB, V36, P233, DOI 10.3109/00952990.2010.491884
+   Griffiths M.D., 2005, J SUBST USE, V10, P191, DOI [10.1080/14659890500114359, DOI 10.1080/14659890500114359, https://doi.org/10.1080/14659890500114359]
+   Guedes Eduardo, 2016, MedicalExpress (São Paulo, online), V3, pM160101
+   Hawi N, 2019, BEHAV INFORM TECHNOL, V38, P110, DOI 10.1080/0144929X.2018.1515984
+   Henderson L.M., 2001, CORSINI ENCY PSYCHOL, V3, P1522
+   Hendin HM, 1997, J RES PERS, V31, P588, DOI 10.1006/jrpe.1997.2204
+   Higgins JPT, 2003, BMJ-BRIT MED J, V327, P557, DOI 10.1136/bmj.327.7414.557
+   Hopko DR, 2005, J PERS ASSESS, V84, P185, DOI 10.1207/s15327752jpa8402_08
+   Horn L, 2012, PC MAGAZINE
+   Horzum M B., 2017, Sakarya University Journal of Education, V7, P398, DOI DOI 10.19126/SUJE.298430
+   Horzum MB, 2022, BIOL RHYTHM RES, V53, P1105, DOI 10.1080/09291016.2021.1907508
+   Hughes DJ, 2012, COMPUT HUM BEHAV, V28, P561, DOI 10.1016/j.chb.2011.11.001
+   Hwang HS, 2017, KSII T INTERNET INF, V11, P1032, DOI 10.3837/tiis.2017.02.022
+   Iranmanesh M, 2021, CURR PSYCHOL, V40, P5358, DOI 10.1007/s12144-019-00465-w
+   John O.P., 1999, HDB PERSONALITY THEO, V2, P102, DOI DOI 10.1525/FQ.1998.51.4.04A00260
+   John OP, 1991, Big five inventory-versions 4a and 5, DOI DOI 10.1037/T07550-000
+   Johnstone M.L., 2009, ADV CONSUM RES, VVIII, P234
+   Kanat-Maymon Y, 2018, COMPUT HUM BEHAV, V88, P227, DOI 10.1016/j.chb.2018.07.011
+   Kirschner PA, 2010, COMPUT HUM BEHAV, V26, P1237, DOI 10.1016/j.chb.2010.03.024
+   Kuo T, 2014, COMPUT HUM BEHAV, V31, P13, DOI 10.1016/j.chb.2013.10.019
+   Kuss DJ, 2017, ADDICT BEHAV, V64, P231, DOI 10.1016/j.addbeh.2016.04.005
+   Kuss DJ, 2011, INT J ENV RES PUB HE, V8, P3528, DOI 10.3390/ijerph8093528
+   Loiacono ET, 2015, INT J ELECTRON COMM, V19, P66, DOI 10.1080/10864415.2015.979479
+   Rosales FL, 2021, PSYCHOL STUD, V66, P92, DOI 10.1007/s12646-020-00591-7
+   Macit HB, 2018, J MEHMET AKIF ERSOY, V5, P882, DOI 10.30798/makuiibf.435845
+   Manch E, 2018, PERS INDIV DIFFER, V130, P107, DOI 10.1016/j.paid.2018.03.053
+   Marino C, 2018, COMPUT HUM BEHAV, V83, P262, DOI 10.1016/j.chb.2018.02.009
+   Marino C, 2016, PERS INDIV DIFFER, V101, P70, DOI 10.1016/j.paid.2016.05.053
+   Marino C, 2016, ADDICT BEHAV, V63, P51, DOI 10.1016/j.addbeh.2016.07.001
+   McCain JL, 2016, COMPUT HUM BEHAV, V64, P126, DOI 10.1016/j.chb.2016.06.050
+   McCormac A, 2017, COMPUT HUM BEHAV, V69, P151, DOI 10.1016/j.chb.2016.11.065
+   McCrae R.R., 1999, HDB PERSONALITY THEO
+   McCrae RR, 2004, PERS INDIV DIFFER, V36, P587, DOI 10.1016/S0191-8869(03)00118-1
+   MCCROSKEY JC, 1982, CENT STATES SPEECH J, V33, P459
+   Mehdizadeh S, 2010, CYBERPSYCH BEH SOC N, V13, P357, DOI 10.1089/cyber.2009.0257
+   Miceli S, 2022, CURR PSYCHOL, V41, P8811, DOI 10.1007/s12144-021-01355-w
+   Moeller FG, 2001, AM J PSYCHIAT, V158, P1783, DOI 10.1176/appi.ajp.158.11.1783
+   Montag C, 2019, INT J ENV RES PUB HE, V16, DOI 10.3390/ijerph16142612
+   Montag C, 2015, ASIA-PAC PSYCHIAT, V7, P20, DOI 10.1111/appy.12122
+   Nadkarni A, 2012, PERS INDIV DIFFER, V52, P243, DOI 10.1016/j.paid.2011.11.007
+   Nikbin D, 2021, BEHAV INFORM TECHNOL, V40, P706, DOI 10.1080/0144929X.2020.1722749
+   Oldmeadow JA, 2013, COMPUT HUM BEHAV, V29, P1142, DOI 10.1016/j.chb.2012.10.006
+   Orben A., 2019, THESIS U OXFORD
+   Orben A, 2020, SOC PSYCH PSYCH EPID, V55, P407, DOI 10.1007/s00127-019-01825-4
+   Orosz G, 2016, PERS INDIV DIFFER, V101, P167, DOI 10.1016/j.paid.2016.05.368
+   Orosz G, 2016, PERS INDIV DIFFER, V100, P95, DOI 10.1016/j.paid.2015.11.038
+   Orr ES, 2009, CYBERPSYCHOL BEHAV, V12, P337, DOI 10.1089/cpb.2008.0214
+   Pabian S, 2015, PERS INDIV DIFFER, V75, P41, DOI 10.1016/j.paid.2014.11.015
+   Patton JH, 1995, J CLIN PSYCHOL, V51, P768, DOI 10.1002/1097-4679(199511)51:6<768::AID-JCLP2270510607>3.0.CO;2-1
+   Perrone MA, 2016, THESIS ALFRED U NEW
+   Peterson RA, 2005, J APPL PSYCHOL, V90, P175, DOI 10.1037/0021-9010.90.1.175
+   Pies Ronald, 2009, Psychiatry (Edgmont), V6, P31
+   Poli R., 2017, Neuropsychiatry, V7, P04, DOI [DOI 10.4172/NEUROPSYCHIATRY.1000171, 10.4172/Neuropsychiatry.1000171]
+   R Development Core Team, 2015, R LANG ENV STAT COMP
+   RACHLIN H, 1991, J EXP ANAL BEHAV, V55, P233, DOI 10.1901/jeab.1991.55-233
+   Rahim S., 2020, FWU J SOC SCI, V14
+   Rammstedt B, 2007, J RES PERS, V41, P203, DOI 10.1016/j.jrp.2006.02.001
+   Ross C, 2009, COMPUT HUM BEHAV, V25, P578, DOI 10.1016/j.chb.2008.12.024
+   Rothen S, 2018, PLOS ONE, V13, DOI 10.1371/journal.pone.0201971
+   RUSSELL D, 1980, J PERS SOC PSYCHOL, V39, P472, DOI 10.1037/0022-3514.39.3.472
+   Russell D, 2009, J HEALTH SOC BEHAV, V50, P460, DOI 10.1177/002214650905000406
+   Ryan T, 2014, J BEHAV ADDICT, V3, P133, DOI 10.1556/JBA.3.2014.016
+   Ryan T, 2011, COMPUT HUM BEHAV, V27, P1658, DOI 10.1016/j.chb.2011.02.004
+   Sagioglou C, 2014, COMPUT HUM BEHAV, V35, P359, DOI 10.1016/j.chb.2014.03.003
+   Satici SA, 2019, INT J MENT HEALTH AD, V17, P41, DOI 10.1007/s11469-017-9862-8
+   Satici SA, 2015, COMPUT HUM BEHAV, V49, P185, DOI 10.1016/j.chb.2015.03.005
+   Scherr S, 2017, SOC MEDIA SOC, V3, DOI 10.1177/2056305117698495
+   Schoenleber M, 2015, PSYCHOL ASSESSMENT, V27, P1520, DOI 10.1037/pas0000158
+   Schyff V.K., 2020, BEHAV INFORM TECHNOL, P1
+   Sheldon P., 2013, J SOC MED SOC, V2
+   Sheldon P, 2021, PSYCHOL REP, V124, P1110, DOI 10.1177/0033294120934706
+   Shettar M, 2017, INT J SOC PSYCHIATR, V63, P325, DOI 10.1177/0020764017705895
+   Sindermann Cornelia, 2020, Addict Behav Rep, V11, P100264, DOI 10.1016/j.abrep.2020.100264
+   Sindermann C, 2020, PSYCHIAT RES, V285, DOI 10.1016/j.psychres.2020.112793
+   Skues JL, 2012, COMPUT HUM BEHAV, V28, P2414, DOI 10.1016/j.chb.2012.07.012
+   Starcevic V, 2017, CLIN NEUROPSYCHIATR, V14, P5
+   Tang JH, 2016, TELEMAT INFORM, V33, P102, DOI 10.1016/j.tele.2015.06.003
+   Tesi A, 2018, BPA APPL PSYCHOL B, V66
+   Ho TTQ, 2021, TELEMAT INFORM, V61, DOI 10.1016/j.tele.2021.101617
+   Tutal O., 2021, BA ML L K DERGISI, V22, P43, DOI [10.51982/bagimli.793837, DOI 10.51982/BAGIMLI.793837]
+   Uram P, 2022, PSYCHOL REP, V125, P218, DOI 10.1177/0033294120980970
+   Uysal R, 2013, PSYCHOL REP, V113, P948, DOI 10.2466/02.09.18.PR0.113x32z3
+   van den Eijnden RJJM, 2016, COMPUT HUM BEHAV, V61, P478, DOI 10.1016/j.chb.2016.03.038
+   Viechtbauer W, 2010, J STAT SOFTW, V36, P1, DOI 10.18637/jss.v036.i03
+   Wang CW, 2015, ADDICT BEHAV, V42, P32, DOI 10.1016/j.addbeh.2014.10.039
+   Wang JL, 2012, COMPUT HUM BEHAV, V28, P2313, DOI 10.1016/j.chb.2012.07.001
+   Weinstein A, 2010, AM J DRUG ALCOHOL AB, V36, P277, DOI 10.3109/00952990.2010.491880
+   Whiteside SP, 2005, EUR J PERSONALITY, V19, P559, DOI 10.1002/per.556
+   Widyanto L., 2006, INT J MENT HEALTH AD, V4, P31, DOI [10.1007/s11469-006-9009-9, DOI 10.1007/S11469-006-9009-9]
+   Wilson K, 2010, CYBERPSYCH BEH SOC N, V13, P173, DOI 10.1089/cyber.2009.0094
+   Wolniczak I, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0059087
+   Xu H., 2012, WHY DO I KEEP CHECKI
+   Yen JY, 2009, PSYCHIAT CLIN NEUROS, V63, P218, DOI 10.1111/j.1440-1819.2009.01943.x
+   Young KS, 1998, 69 ANN M E PSYCH ASS, P40
+NR 152
+TC 12
+Z9 11
+U1 6
+U2 29
+PU CELL PRESS
+PI CAMBRIDGE
+PA 50 HAMPSHIRE ST, FLOOR 5, CAMBRIDGE, MA 02139 USA
+EI 2405-8440
+J9 HELIYON
+JI Heliyon
+PD AUG
+PY 2022
+VL 8
+IS 8
+AR e10315
+DI 10.1016/j.heliyon.2022.e10315
+EA AUG 2022
+PG 10
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 4W9GO
+UT WOS:000860463400021
+PM 36061026
+OA gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Bohnett, E
+   Vacca, R
+   Hu, YJ
+   Hulse, D
+   Varda, D
+AF Bohnett, Eve
+   Vacca, Raffaele
+   Hu, Yujie
+   Hulse, David
+   Varda, Danielle
+TI Resilience and fragmentation in healthcare coalitions: The link between
+   resource contributions and centrality in health-related
+   interorganizational networks
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Resilience; Healthcare; Fragmentation; Centrality; Key players;
+   Core-periphery structure; Exponential Random Graph Models
+ID PUBLIC-HEALTH; COMMUNITY RESILIENCE; GOVERNANCE; PREVENTION; MODELS;
+   POLICY; LEVEL
+AB Interorganizational coalitions or collaboratives in healthcare are essential to address the health challenges of local communities, particularly during crises such as the Covid-19 pandemic. However, few studies use large-scale data to systematically assess the network structure of these collaboratives and understand their potential to be resilient or fragment in the face of structural changes. This paper analyzes data collected in 2009-2017 about 817 organizations (nodes) in 42 healthcare collaboratives (networks) throughout Florida, the third-largest U.S. state by population, including information about interorganizational ties and organizations' resource contributions to their coalitions. Social network methods are used to characterize the resilience of these collaboratives, including identification of key players through various centrality metrics, analyses of fragmentation centrality and core/periphery structure, and Exponential Random Graph Models to examine how resource contributions facilitate interorganizational ties. Results show that the most significant resource contributions are made by key players identified through fragmentation centrality and by members of the network core. Departure or removal of these organizations would both strongly disrupt network structure and sever essential resource contributions, undermining the overall resilience of a collaborative. Furthermore, one-third of collaboratives are highly susceptible to disruption if any fragmentation-central organization is removed. More fragmented networks are also associated with poorer health-system outcomes in domains such as education, health policy, and services. ERGMs reveal that two types of resource contributions - community connections and in-kind resource sharing - are especially important to facilitate the formation of interorganizational ties in these coalitions.
+C1 [Bohnett, Eve; Hulse, David] Univ Florida, Dept Landscape Architecture, Gainesville, FL 32611 USA.
+   [Bohnett, Eve; Hulse, David] Univ Florida, Florida Inst Built Environm Resilience, Gainesville, FL USA.
+   [Vacca, Raffaele] Univ Milan, Dept Social & Polit Sci, Milan, Italy.
+   [Hu, Yujie] Univ Florida, Dept Geog, Gainesville, FL 32611 USA.
+   [Varda, Danielle] Univ Colorado, Dept Hlth Syst Management & Policy, Denver, CO 80202 USA.
+C3 State University System of Florida; University of Florida; State
+   University System of Florida; University of Florida; University of
+   Milan; State University System of Florida; University of Florida;
+   University of Colorado System; University of Colorado Denver
+RP Bohnett, E (corresponding author), Univ Florida, Dept Landscape Architecture, Gainesville, FL 32611 USA.
+EM evebohnett@yahoo.com; raffaele.vacca@unimi.it
+RI Vacca, Raffaele/AAP-5528-2020; Bohnett, Eve/GLR-4416-2022; Hu,
+   Yujie/O-9860-2018
+OI Vacca, Raffaele/0000-0001-9908-3747; Bohnett, Eve/0000-0002-1870-8897;
+   Hu, Yujie/0000-0001-5814-0805
+FU Florida Institute for Built Environment Resilience
+FX Florida Institute for Built Environment Resilience funded the study.
+   Visible Network Labs provided PARTNER data and funding for training.
+CR Agranoff R, 2006, PUBLIC ADMIN REV, V66, P56, DOI 10.1111/j.1540-6210.2006.00666.x
+   An WH, 2016, R J, V8, P257
+   [Anonymous], 2020, Social determinants of health
+   [Anonymous], 2001, SOCIAL CAPITAL THEOR
+   Bakker RM, 2012, J POLICY ANAL MANAG, V31, P33, DOI 10.1002/pam.20619
+   Berkes F, 2013, SOC NATUR RESOUR, V26, P5, DOI 10.1080/08941920.2012.736605
+   Bodin Ö, 2016, ECOL SOC, V21, DOI 10.5751/ES-08368-210140
+   Borgatti S. P., 2006, Computational & Mathematical Organization Theory, V12, P21, DOI 10.1007/s10588-006-7084-x
+   Borgatti SP, 1999, SOC NETWORKS, V21, P375
+   Borgatti SP., 2018, ANAL SOCIAL NETWORKS
+   Borgatti SP, 2009, SCIENCE, V323, P892, DOI 10.1126/science.1165821
+   Caniglia B, 2016, SOCIOL FORUM, V31, P828, DOI 10.1111/socf.12275
+   Cantor J., 2016, DEV TRAUMAAND RESILI
+   Chapman CL, 2017, NONPROF VOLUNT SEC Q, V46, P1052, DOI 10.1177/0899764017713875
+   Courtney B, 2009, BIOSECUR BIOTERROR, V7, P153, DOI 10.1089/bsp.2009.0020
+   Fitzhugh SM, 2021, SOC NETWORKS, V64, P1, DOI 10.1016/j.socnet.2020.07.006
+   Fliervoet JM, 2016, ENVIRON MANAGE, V57, P355, DOI 10.1007/s00267-015-0606-x
+   Folke C, 2010, ECOL SOC, V15, DOI 10.5751/es-03610-150420
+   Fujimoto K, 2009, J COMMUNITY PSYCHOL, V37, P830, DOI 10.1002/jcop.20333
+   Goodreau SM, 2009, DEMOGRAPHY, V46, P103, DOI 10.1353/dem.0.0045
+   Harris J., 2014, An Introduction to Exponential Random Graph Modeling
+   Hegney D., 2008, BUILDING RESILIENCE
+   Hill C, 2008, CAN WATER RESOUR J, V33, P315, DOI 10.4296/cwrj3304315
+   Holder HD, 2002, SUBST USE MISUSE, V37, P901, DOI 10.1081/JA-120004158
+   Hunter DR, 2008, J AM STAT ASSOC, V103, P248, DOI 10.1198/016214507000000446
+   Hunter DR., 2008, Journal of Statistical Software, V24, P1, DOI DOI 10.18637/JSS.V024.I03
+   Huynh D., 2012, OPENREFINE FREE OPEN
+   King LM, 2021, J COMMUNITY PSYCHOL, V49, P2658, DOI 10.1002/jcop.22645
+   Kossinets G, 2006, SOC NETWORKS, V28, P247, DOI 10.1016/j.socnet.2005.07.002
+   Luke DA, 2007, ANNU REV PUBL HEALTH, V28, P69, DOI 10.1146/annurev.publhealth.28.021406.144132
+   Luthe T, 2012, REG ENVIRON CHANGE, V12, P839, DOI 10.1007/s10113-012-0294-5
+   Mays GP, 2010, PREV CHRONIC DIS, V7
+   Prilleltensky I., 2000, J COMMUNITY APPL SOC, V23
+   Provan KG, 2009, J PUBL ADM RES THEOR, V19, P873, DOI 10.1093/jopart/mun036
+   PROVAN KG, 1995, ADMIN SCI QUART, V40, P1, DOI 10.2307/2393698
+   Provan KG, 2001, PUBLIC ADMIN REV, V61, P414, DOI 10.1111/0033-3352.00045
+   Radley D.C., 2018, 2018 Scorecard on State Health System, DOI DOI 10.15868/SOCIALSECTOR.30564
+   Retrum JH, 2013, HEALTH EDUC BEHAV, V40, p13S, DOI 10.1177/1090198113492759
+   Sandstrom A.C., 2010, International Journal of the Commons, V4, P528
+   Sandström A, 2008, POLICY STUD J, V36, P497, DOI 10.1111/j.1541-0072.2008.00281.x
+   Smith J.A., 2017, SOC NETWORKS, V22
+   Smith JA, 2013, SOC NETWORKS, V35, P652, DOI 10.1016/j.socnet.2013.09.003
+   Steiner A, 2014, COMMUNITY DEV J, V49, P407, DOI 10.1093/cdj/bst042
+   Valente T. W., 2010, Social networks and health: Models, methods, and applications, DOI DOI 10.1093/ACPROF:OSO/9780195301014.001.0001
+   Valente TW, 2017, ANNU REV PUBL HEALTH, V38, P103, DOI 10.1146/annurev-publhealth-031816-044528
+   Varda DM, 2012, J PUBLIC HEALTH RES, V1, P170, DOI 10.4081/jphr.2012.e27
+   Varda DM, 2011, NONPROF VOLUNT SEC Q, V40, P896, DOI 10.1177/0899764010378171
+   Varda Danielle M, 2008, J Public Health Manag Pract, V14, pE1, DOI 10.1097/01.PHH.0000333889.60517.46
+   Varda DM., 2020, Evaluating community coalitions and collaboratives. New directions for evaluation, V2020, P67, DOI DOI 10.1002/EV.20397
+   Visible Network Labs, 2009, PARTNER DEF SURV QUE
+   Wang Y., 2020, PEER PEER NETW APPL, V1
+   Wang Y, 2020, DEV BUILT ENVIRON, V1, DOI 10.1016/j.dibe.2019.100003
+   Willem A, 2013, BMC HEALTH SERV RES, V13, DOI 10.1186/1472-6963-13-229
+   Wulff K, 2015, ANNU REV PUBL HEALTH, V36, P361, DOI 10.1146/annurev-publhealth-031914-122829
+NR 54
+TC 7
+Z9 7
+U1 3
+U2 14
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD OCT
+PY 2022
+VL 71
+BP 87
+EP 95
+DI 10.1016/j.socnet.2022.07.004
+PG 9
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 8X5BW
+UT WOS:000932028700002
+PM 36060606
+OA Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU O'Brien, D
+   Rees, G
+   Taylor, M
+AF O'Brien, Dave
+   Rees, Griffith
+   Taylor, Mark
+TI Who runs the arts in England? A social network analysis of arts boards
+SO POETICS
+LA English
+DT Article
+DE Cultural governance; Social network analysis; Inequality; Brokerage
+ID CORPORATE; AMERICAN; DETERMINANTS; INEQUALITIES; EXPERIENCE; SECTOR
+AB Recent research on cultural production has drawn attention to significant inequalities. This paper aims to unpack one possible explanation for these inequalities by focusing on the people with ultimate responsibility for arts institutions: the boards of directors. Using data from the UK's Companies House, it analyses the boards of Arts Council England's National Portfolio Organisations. It then "hops" to the other organisations with whom arts organisations also share board members, and their directors. While the network of NPOs is relatively sparse, with most organisations not sharing board members with any others, in the one-hop network the majority of these organisations are indirectly connected to one another. In addition to a large number of arts and cultural organisations, this network also contains a large proportion of film funding companies and financial services companies. The most central company in the network, measured by betweenness, is the Royal Opera House, followed by companies associated with significant tax advantages for their directors. Our results raise questions for the governance of culture, drawing further attention to its ties with financial institutions.
+C1 [O'Brien, Dave] Univ Sheffield, Cultural & Creat Ind, Sheffield, S Yorkshire, England.
+   [Rees, Griffith] Alan Turing Inst, London, England.
+   [Taylor, Mark] Univ Sheffield, Quantitat Methods, Sheffield, S Yorkshire, England.
+C3 University of Sheffield; University of Sheffield
+RP Taylor, M (corresponding author), Univ Sheffield, Quantitat Methods, Sheffield, S Yorkshire, England.
+EM m.r.taylor@sheffield.ac.uk
+OI Taylor, Mark/0000-0001-5943-9796
+FU Arts and Humanities Research Council [AH/S004483/1]; Wave 1 of The UKRI
+   Strategic Priorities Fund under the EPSRC [EP/W006022/1]; The Alan
+   Turing Institute
+FX This work was supported by the Arts and Humanities Research Council,
+   under grant reference AH/S004483/1, and was supported by Wave 1 of The
+   UKRI Strategic Priorities Fund under the EPSRC Grant EP/W006022/1,
+   particularly the Digital Twins: Urban An-alytics theme within that grant
+   & The Alan Turing Institute.
+CR Accominotti F, 2018, AM J SOCIOL, V123, P1743, DOI 10.1086/696938
+   Adams RB, 2015, CORP GOV-OXFORD, V23, P77, DOI 10.1111/corg.12106
+   Alacovska A, 2017, ORGANIZATION, V24, P377, DOI 10.1177/1350508416687766
+   Alexander VD, 2018, BRIT J SOCIOL, V69, P23, DOI 10.1111/1468-4446.12283
+   Amin A, 2020, J CORP FINANC, V64, DOI 10.1016/j.jcorpfin.2020.101662
+   [Anonymous], 2019, COBALT DATA CTR 2 LL
+   [Anonymous], 2019, INGENIOUS GAMES LLP
+   Arts Council England, 2020, LETS CREAT STRAT 202
+   Arts Council England, 2010, GREAT ART CULT EV 10
+   Azmat F, 2017, J BUS ETHICS, V141, P317, DOI 10.1007/s10551-015-2707-0
+   Banks PA, 2017, CULT SOCIOL-LONDON, V11, P97, DOI 10.1177/1749975516651288
+   Bereson R, 2002, OPERATIC STATE CULTU
+   Bertrand C., 2007, NONPROFIT Q, V14, P16
+   Brook O., 2020, Culture is bad for you
+   BURT RS, 1980, ADMIN SCI QUART, V25, P557, DOI 10.2307/2392281
+   Cadbury E., 1914, SOCIOL REV, V7, P99, DOI DOI 10.1111/J.1467-954X.1914.TB02369.X
+   Campa D, 2019, EUR MANAG J, V37, P818, DOI 10.1016/j.emj.2019.01.003
+   Campa D, 2019, POETICS, V72, P81, DOI 10.1016/j.poetic.2018.12.003
+   Campbell D, 2014, CULTURAL POLICY MANA
+   Carty HS., 2017, ACHIEVING GOOD GOVER
+   Childress C, 2017, PRINC STUD CULT, P1
+   Chu JSG, 2016, AM J SOCIOL, V122, P714, DOI 10.1086/688650
+   Cobb S, 2020, J BRIT CINE TELEV, V17, P112, DOI 10.3366/jbctv.2020.0510
+   Csardi Gabor NT., 2005, INT J COMPLEX SYST, V2006, P1695, DOI DOI 10.3724/SP.J.1087.2009.02191
+   Dent T, 2020, MEDIA CULT SOC, V42, P537, DOI 10.1177/0163443719876537
+   Dubini P, 2018, INT J ARTS MANAG, V20, P56
+   Eikhof DR, 2013, EMPL RELAT, V35, P495, DOI 10.1108/ER-08-2012-0061
+   Evans Mel., 2015, ARTWASH BIG OIL ARTS
+   Fraser A, 2016, MUSEUMS MONEY POLITI
+   Friedman S, 2014, Comedy and Distinction
+   Friedman S, 2017, CULT SOCIOL-LONDON, V11, P359, DOI 10.1177/1749975517710156
+   Friedman S, 2017, SOCIOLOGY, V51, P992, DOI 10.1177/0038038516629917
+   Gill R, 2014, SOC POLIT, V21, P509, DOI 10.1093/sp/jxu016
+   Girvan M, 2002, P NATL ACAD SCI USA, V99, P7821, DOI 10.1073/pnas.122653799
+   Griffiths D, 2008, SOCIOL REV, V56, P189, DOI 10.1111/j.1467-954X.2008.00768.x
+   Heckathorn DD, 2017, ANNU REV SOCIOL, V43, P101, DOI 10.1146/annurev-soc-060116-053556
+   HERMALIN BE, 1988, RAND J ECON, V19, P589, DOI 10.2307/2555459
+   Hesmondhalgh D., 2015, Culture Economy Politics: The Case of New Labour (New Directions in Cultural Policy Research), V1st
+   Hewison R., 2014, Cultural Capital: The Rise and Fall of Creative Britain
+   Higgins C, 2021, Guardian
+   Kossinets G, 2006, SOC NETWORKS, V28, P247, DOI 10.1016/j.socnet.2005.07.002
+   Lena JC, 2019, ENTITLED: DISCRIMINATING TASTES AND THE EXPANSION OF THE ARTS, P1
+   Lorsch j, 1990, PAWNS POTENTATES REA, V4, P85
+   Lynch MC, 1914, CALIF LAW REV, V3, P21, DOI 10.2307/3474778
+   Mace M., 1971, Directors: myth and reality
+   Malik S, 2017, J BRIT CINE TELEV, V14, P423, DOI 10.3366/jbctv.2017.0387
+   McRobbie A., 2015, Be creative: Making a living in the new culture industries, V1
+   MERTON RK, 1968, SCIENCE, V159, P56, DOI 10.1126/science.159.3810.56
+   Mizruchi MS, 1996, ANNU REV SOCIOL, V22, P271, DOI 10.1146/annurev.soc.22.1.271
+   Mould Oli., 2018, Against creativity
+   Nwonka CJ, 2018, SOCIOL REV, V66, P1111, DOI 10.1177/0038026118774183
+   O'Brien A., 2019, Women, Inequality and Media Work
+   Office for National Statistics, 2020, UK BUS ACT SIZ LOC 2
+   Ostrower F, 1998, POETICS, V26, P43, DOI 10.1016/S0304-422X(98)00010-2
+   Ostrower Francie., 2002, Trustees of Culture: Power, Wealth, and Status on Elite Art Boards
+   Pedersen T. L., 2022, GGRAPH IMPLEMENTATIO
+   RADBOURNE J, 1993, J ART MANAG LAW SOC, V23, P211, DOI 10.1080/10632921.1993.9942932
+   Radbourne Jennifer., 2003, CORP REPUT REV, V6, P212, DOI [10.1057/palgrave.crr.1540201, DOI 10.1057/PALGRAVE.CRR.1540201]
+   Raheja CG, 2005, J FINANC QUANT ANAL, V40, P283, DOI 10.1017/S0022109000002313
+   Rees G., 2020, **DATA OBJECT**, DOI 10.5281/zenodo.4381055
+   Saha A., 2018, Race and the Cultural Industries
+   Saha A., 2020, RETHINKING DIVERSITY
+   Shaked Nizan., 2022, Museums and Wealth: The Politics of Contemporary Art Collections
+   Terjesen S, 2016, J MANAG GOV, V20, P447, DOI 10.1007/s10997-014-9307-8
+   Turbide Johanne, 2008, International Journal of Arts Management, V10, P4
+   Van der Walt N, 2006, CORP GOV-INT J BUS S, V6, P129, DOI 10.1108/14720700610655141
+   Westphal JD, 2000, ADMIN SCI QUART, V45, P366, DOI 10.2307/2667075
+   Wickham H., 2016, GGPLOT2 ELEGANT GRAP
+   Williams F, 2016, BBC NEWS
+   Wreyford N., 2018, Gender Inequality in Screenwriting Work
+   Yeh Diana., 2018, CONTESTING BRIT CHIN, P31
+NR 71
+TC 4
+Z9 4
+U1 3
+U2 6
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0304-422X
+EI 1872-7514
+J9 POETICS
+JI Poetics
+PD JUN
+PY 2022
+VL 92
+AR 101646
+DI 10.1016/j.poetic.2022.101646
+EA JUN 2022
+PN A
+PG 19
+WC Literature; Sociology
+WE Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Literature; Sociology
+GA 3I6QD
+UT WOS:000832837800011
+OA Green Accepted, hybrid
+DA 2024-11-22
+ER
+
+PT J
+AU Iizuka, R
+   Toriumi, F
+   Nishiguchi, M
+   Takano, M
+   Yoshida, M
+AF Iizuka, Ryusuke
+   Toriumi, Fujio
+   Nishiguchi, Mao
+   Takano, Masanori
+   Yoshida, Mitsuo
+TI Impact of correcting misinformation on social disruption
+SO PLOS ONE
+LA English
+DT Article
+ID NEWS
+AB People are obtaining more and more information from social media and other online sources, but the spread of misinformation can lead to social disruption. In particular, social networking services (SNSs) can easily spread information of uncertain authenticity and factuality. Although many studies have proposed methods that addressed how to suppress the spread of misinformation on SNSs, few works have examined the impact on society of diffusing both misinformation and its corrective information. This study models the effects of effort to reduce misinformation and the diffusion of corrective information on social disruption, and it clarifies these effects. With the aim of reducing the impact on social disruption, we show that not only misinformation but also corrective information can cause social disruption, and we clarify how to control the spread of the latter to limit its impact. We analyzed the misinformation about a toilet-paper shortage and its correction as well as the social disruption this event caused in Japan during the COVID-19 pandemic in 2020. First, (1) we analyzed the extent to which misinformation and its corrections spread on SNS, and then (2) we created a model to estimate the impact of misinformation and its corrections on the world. Finally, (3) We used our model to analyze the change in this impact when the diffusion of the misinformation and its corrections changed. Based on our analysis results in (1), the corrective information spread much more widely than the misinformation. From the model developed in (2), the corrective information caused excessive purchasing behavior. The analysis results in (3) show that the amount of corrective information required to minimize the societal impact depends on the amount of misinformation diffusion. Most previous studies concentrated on the impact of corrective information on attitudes toward misinformation. On the other hand, the most significant contribution of this study is that it focuses on the impact of corrective information on society and clarifies the appropriate amount of it.
+C1 [Iizuka, Ryusuke; Toriumi, Fujio; Nishiguchi, Mao] Univ Tokyo, Tokyo, Japan.
+   [Takano, Masanori] CyberAgent Inc, Tokyo, Japan.
+   [Yoshida, Mitsuo] Toyohashi Univ Technol, Toyohashi, Aichi, Japan.
+C3 University of Tokyo; Toyohashi University of Technology
+RP Iizuka, R (corresponding author), Univ Tokyo, Tokyo, Japan.
+EM iizuka@torilab.net
+RI Takano, Masanori/K-3001-2019; Yoshida, Mitsuo/Q-9156-2016
+OI Takano, Masanori/0000-0002-4354-0619; Yoshida,
+   Mitsuo/0000-0002-0735-1116
+FU JSPS [19H02376]; JST RISTEX, Japan [JPMJRX20J3]
+FX Masanori Takano received funding in the form of salary from CyberAgent,
+   Inc during the course of the study. JSPS Grants-in-Aid for Scientific
+   Research Grant Numbers 19H02376, and JST RISTEX Grant Number JPMJRX20J3,
+   Japan. The specific roles of these authors are articulated in the
+   `author contributions' section. The funders had no role in study design,
+   data collection and analysis, decision to publish, or preparation of the
+   manuscript.
+CR Afroz S, 2012, P IEEE S SECUR PRIV, P461, DOI 10.1109/SP.2012.34
+   Al-Rakhami MS, 2020, IEEE ACCESS, V8, P155961, DOI 10.1109/ACCESS.2020.3019600
+   Allcott H, 2017, J ECON PERSPECT, V31, P211, DOI 10.1257/jep.31.2.211
+   Allport F. H., SOC PSYCHOL-GERMANY
+   AlSumait L, 2008, IEEE DATA MINING, P3, DOI 10.1109/ICDM.2008.140
+   [Anonymous], 2010, Twitter under Crisis: Can We Trust what We RT? the First Workshop on Social Media Analytics (SOMA10), DOI [10.1145/1964858.1964869, DOI 10.1145/1964858.1964869]
+   Anspach NM, 2017, POLIT COMMUN, V34, P590, DOI 10.1080/10584609.2017.1316329
+   Benkler Y., 2020, MAIL IN VOTER FRAUD
+   Castillo C., 2011, P 20 INT C WORLD WID, P675, DOI [DOI 10.1145/1963405.1963500, 10.1145/1963405.1963500]
+   Cato S, 2021, INT J DISAST RISK RE, V54, DOI 10.1016/j.ijdrr.2020.102034
+   Chan MPS, 2017, PSYCHOL SCI, V28, P1531, DOI 10.1177/0956797617714579
+   Chavoshi N, 2016, IEEE DATA MINING, P817, DOI [10.1109/ICDM.2016.0096, 10.1109/ICDM.2016.86]
+   Chen Y., 2015, P 2015 ACM WORKSHOP, P15, DOI [10.1145/2823465.2823467, DOI 10.1145/2823465.2823467]
+   Cinelli M, 2020, SCI REP-UK, V10, DOI 10.1038/s41598-020-73510-5
+   Davis CA, 2016, PROCEEDINGS OF THE 25TH INTERNATIONAL CONFERENCE ON WORLD WIDE WEB (WWW'16 COMPANION), P273, DOI 10.1145/2872518.2889302
+   Ferrara E, 2016, COMMUN ACM, V59, P96, DOI 10.1145/2818717
+   Frangonikolopoulos ChristosA., 2012, GLOBAL MEDIA J MEDIT, V8, P10
+   Goldenberg J, 2001, MARKET LETT, V12, P211, DOI 10.1023/A:1011122126881
+   Gupta A, 2013, PROCEEDINGS OF THE 22ND INTERNATIONAL CONFERENCE ON WORLD WIDE WEB (WWW'13 COMPANION), P729
+   Howard P. N., 2011, OPENING CLOSED REGIM
+   Jin ZW, 2016, AAAI CONF ARTIF INTE, P2972
+   Jin ZW, 2017, IEEE T MULTIMEDIA, V19, P598, DOI 10.1109/TMM.2016.2617078
+   Kai Shu, 2017, ACM SIGKDD Explorations Newsletter, V19, P22, DOI 10.1145/3137597.3137600
+   Kemp S., 2020, WE ARE SOCIAL, V30
+   Kouzy R, 2020, CUREUS J MED SCIENCE, V12, DOI 10.7759/cureus.7255
+   Kwon S, 2013, IEEE DATA MINING, P1103, DOI 10.1109/ICDM.2013.61
+   MIC(Japan), 2020, REP INF DISTR SURV C
+   Nyhan B, 2015, VACCINE, V33, P459, DOI 10.1016/j.vaccine.2014.11.017
+   Nyhan B, 2014, PEDIATRICS, V133, pE835, DOI 10.1542/peds.2013-2365
+   Nyhan B, 2010, POLIT BEHAV, V32, P303, DOI 10.1007/s11109-010-9112-2
+   Patwa P., 2021, P ACL CONSTRAINT
+   Pennycook G, 2020, PSYCHOL SCI, V31, P770, DOI 10.1177/0956797620939054
+   Potthast M, 2017, Arxiv, DOI arXiv:1702.05638
+   Rufai SR, 2020, J PUBLIC HEALTH-UK, V42, P510, DOI 10.1093/pubmed/fdaa049
+   Shao CC, 2018, Arxiv, DOI arXiv:1707.07592
+   Sharma K, 2020, Arxiv, DOI [arXiv:2003.12309, DOI 10.48550/ARXIV.2003.12309]
+   Sohn E, 2017, NATURE, V550, pS113, DOI 10.1038/550S113a
+   Sufian AJM., 2005, J DATA SCI, V3, P221, DOI [10.6339/JDS.2005.03(2).220, DOI 10.6339/JDS.2005.03(2).220]
+   Tangherlini TR, 2020, PLOS ONE, V15, DOI 10.1371/journal.pone.0233879
+   Tardos, 2003, P 9 ACM SIGKDD INT C, P137, DOI 10.1145/956750.956769
+   Ten Brinke WBM, 2017, INT J DISAST RISK RE, V21, P312, DOI 10.1016/j.ijdrr.2017.01.011
+   Varol O, 2017, Arxiv, DOI arXiv:1703.03107
+   Vosoughi S, 2018, SCIENCE, V359, P1146, DOI 10.1126/science.aap9559
+   Walter N, 2018, COMMUN MONOGR, V85, P423, DOI 10.1080/03637751.2018.1467564
+   Watts C., 2017, Extremist Content and Russian Disinformation Online
+   Zarocostas J, 2020, LANCET, V395, P676, DOI 10.1016/S0140-6736(20)30461-X
+NR 46
+TC 7
+Z9 8
+U1 3
+U2 11
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD APR 4
+PY 2022
+VL 17
+IS 4
+AR e0265734
+DI 10.1371/journal.pone.0265734
+PG 21
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 4W9BZ
+UT WOS:000860451200012
+PM 35377890
+OA Green Published, gold
+DA 2024-11-22
+ER

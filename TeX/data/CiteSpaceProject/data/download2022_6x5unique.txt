@@ -1,0 +1,640 @@
+
+PT J
+AU Mele, A
+AF Mele, Angelo
+TI A Structural Model of Homophily and Clustering in Social Networks
+SO JOURNAL OF BUSINESS & ECONOMIC STATISTICS
+LA English
+DT Article
+DE Clustering; Exponential random graphs; Homophily; Social networks
+ID SEGREGATION
+AB I develop and estimate a structural model of network formation with heterogeneous players and latent community structure, whose equilibrium homophily and clustering levels match those usually observed in real-world social networks. Players belong to communities unobserved by the econometrician and have community-specific payoffs, allowing preferences to have a bias for similar people. Players meet sequentially and decide whether to form bilateral links, after receiving a random matching shock. The model converges to a hierarchical exponential family random graph. Using school friendship network data from Add Health, I estimate the posterior distribution of parameters and unobserved heterogeneity, detecting high levels of racial homophily and payoff heterogeneity across communities. The posterior predictions of sufficient statistics show that the model is able to replicate the homophily levels and the aggregate clustering of the observed network, in contrast with standard exponential family network models without community structure.
+C1 [Mele, Angelo] Johns Hopkins Univ, Carey Business Sch, 100 Int Dr, Baltimore, MD 21202 USA.
+C3 Johns Hopkins University
+RP Mele, A (corresponding author), Johns Hopkins Univ, Carey Business Sch, 100 Int Dr, Baltimore, MD 21202 USA.
+EM angelo.mele@jhu.edu
+RI Mele, Angelo/AAE-8207-2022
+OI Mele, Angelo/0000-0003-2890-6042
+FU Eunice Kennedy Shriver National Institute of Child Health and Human
+   Development [P01-HD31921]
+FX This research uses data from Add Health, a program project designed by
+   J. Richard Udry, Peter S. Bearman, and Kathleen Mullan Harris, and
+   funded by a grant P01-HD31921 fromthe EuniceKennedy Shriver National
+   Institute of Child Health and Human Development, with cooperative
+   funding from 17 other agencies. Special acknowledgment is due Ronald R.
+   Rindfuss and Barbara Entwisle for assistance in the original design.
+   Persons interested in obtaining Data Files from Add Health should
+   contact Add Health, The University of North Carolina at Chapel Hill,
+   Carolina Population Center, 123 W. Franklin Street, Chapel Hill, NC
+   27516-2524 (addhealth@unc.edu).No direct support was received from grant
+   P01-HD31921 for this analysis.
+CR Acemoglu D, 2011, REV ECON STUD, V78, P1201, DOI 10.1093/restud/rdr004
+   Airoldi EM, 2008, J MACH LEARN RES, V9, P1981
+   [Anonymous], 2006, UNCERTAINTY ARTIFICI
+   [Anonymous], 2016, The Oxford handbook of the economics of networks
+   [Anonymous], 2002, J. Social Struct
+   Badev A, 2021, ECONOMETRICA, V89, P1179, DOI 10.3982/ECTA12576
+   Bala V, 2000, ECONOMETRICA, V68, P1181, DOI 10.1111/1468-0262.00155
+   Bonhomme S., 2017, DISCRETIZING UNOBSER
+   Boucher V, 2017, ECONOMET J, V20, pS14, DOI 10.1111/ectj.12096
+   Boucher V, 2015, INT ECON REV, V56, P235, DOI 10.1111/iere.12101
+   Breza E, 2020, AM ECON REV, V110, P2454, DOI 10.1257/aer.20170861
+   Butts Carter, 2009, USING POTENTIAL GAME
+   Caimo A, 2011, SOC NETWORKS, V33, P41, DOI 10.1016/j.socnet.2010.09.004
+   Calvó-Armengol A, 2009, REV ECON STUD, V76, P1239, DOI 10.1111/j.1467-937X.2009.00550.x
+   Carlin J. B., 2003, Bayesian data analysis, V2nd, DOI 10.1201/b16018
+   Chandrasekhar A.G., 2016, A network formation model based on subgraphs
+   Charbonneau KB, 2017, ECONOMET J, V20, pS1, DOI 10.1111/ectj.12093
+   Chatterjee S, 2013, ANN STAT, V41, P2428, DOI 10.1214/13-AOS1155
+   Conley TG, 2010, AM ECON REV, V100, P35, DOI 10.1257/aer.100.1.35
+   Currarini S, 2010, P NATL ACAD SCI USA, V107, P4857, DOI 10.1073/pnas.0911793107
+   Currarini S, 2009, ECONOMETRICA, V77, P1003, DOI 10.3982/ECTA7528
+   De Giorgi G, 2010, AM ECON J-APPL ECON, V2, P241, DOI 10.1257/app.2.2.241
+   de Paula A., 2017, Advances in Economics and Econometrics: Theory and Applications
+   de Paula A, 2018, ECONOMETRICA, V86, P263, DOI 10.3982/ECTA13564
+   Dzemski A, 2019, REV ECON STAT, V101, P763, DOI 10.1162/rest_a_00805
+   Echenique F, 2007, Q J ECON, V122, P441, DOI 10.1162/qjec.122.2.441
+   Fafchamps M, 2007, AM ECON REV, V97, P75, DOI 10.1257/aer.97.2.75
+   FREEMAN LC, 1978, SOCIOL METHOD RES, V6, P411, DOI 10.1177/004912417800600401
+   Galeotti A, 2006, ECON THEOR, V29, P163, DOI 10.1007/s00199-005-0015-0
+   GEYER CJ, 1992, J R STAT SOC B, V54, P657
+   Goldsmith-Pinkham P, 2013, J BUS ECON STAT, V31, P253, DOI 10.1080/07350015.2013.801251
+   Graham B.S., 2016, Homophily and Transitivity in Dynamic Network Formation
+   Graham BS, 2017, ECONOMETRICA, V85, P1033, DOI 10.3982/ECTA12679
+   HECKMAN JJ, 1978, ECONOMETRICA, V46, P931, DOI 10.2307/1909757
+   Hsieh C., 2012, A structural modeling approach for network formation and social interactions-with applications to students' friendship choices and selectivity on activities
+   Ishwaran H, 2001, J AM STAT ASSOC, V96, P161, DOI 10.1198/016214501750332758
+   Jackson, 2014, ARXIV12107375
+   Jackson M., 2011, ANN EC STAT, V107 108, P33
+   Jackson M.O., 2001, Seoul J. Econ, V14, P299
+   Jackson MO, 2007, AM ECON REV, V97, P890, DOI 10.1257/aer.97.3.890
+   Jackson MO, 1996, J ECON THEORY, V71, P44, DOI 10.1006/jeth.1996.0108
+   Jackson MO, 2008, SOCIAL AND ECONOMIC NETWORKS, P1
+   Jochmans K, 2017, REV ECON STAT, V99, P478, DOI 10.1162/REST_a_00620
+   Koskinen J.H., 2008, MelNet Social Networks Laboratory Technical Report 08-01
+   Laschever Ron., 2009, DOUGHBOYS NETWORK SO
+   Lehman E.L., 1983, Theory of Point Estimation
+   Leung Michael., 2014, A random-field approach to inference in large models of network formation
+   Liang FM, 2010, J STAT COMPUT SIM, V80, P1007, DOI 10.1080/00949650902882162
+   Mayer A, 2008, J PUBLIC ECON, V92, P329, DOI 10.1016/j.jpubeco.2007.09.001
+   McCormick TH, 2015, J AM STAT ASSOC, V110, P1684, DOI 10.1080/01621459.2014.991395
+   McLachlan GJ., 2000, WILEY SER PROB STAT, DOI 10.1002/0471721182
+   Mele A., REV ECON STAT
+   Mele A, 2020, AM ECON J-ECON POLIC, V12, P228, DOI 10.1257/pol.20170604
+   Mele A, 2017, ECONOMETRICA, V85, P825, DOI 10.3982/ECTA10400
+   Menzel K., 2015, STRATEGIC NETWORK FO
+   Monderer D, 1996, GAME ECON BEHAV, V14, P124, DOI 10.1006/game.1996.0044
+   Moody J, 2001, AM J SOCIOL, V107, P679, DOI 10.1086/338954
+   Nakajima R, 2007, REV ECON STUD, V74, P897, DOI 10.1111/j.1467-937X.2007.00448.x
+   Priebe, 2021, SPECTRAL ESTIMATION
+   Schweinberger M, 2020, ANN STAT, V48, P374, DOI 10.1214/19-AOS1810
+   Schweinberger M, 2020, BERNOULLI, V26, P1205, DOI 10.3150/19-BEJ1153
+   Schweinberger M, 2018, J STAT SOFTW, V85, P1, DOI 10.18637/jss.v085.i01
+   Schweinberger M, 2015, J R STAT SOC B, V77, P647, DOI 10.1111/rssb.12081
+   Sheng, 2020, STRUCTURAL ECONOMETR
+   Sheng S., 2015, WORKING PAPERS
+   Stephens M, 2000, J ROY STAT SOC B, V62, P795, DOI 10.1111/1467-9868.00265
+   Topa G, 2001, REV ECON STUD, V68, P261, DOI 10.1111/1467-937X.00169
+   Wang J, 2014, COMMUN STAT-SIMUL C, V43, P359, DOI 10.1080/03610918.2012.703359
+NR 68
+TC 12
+Z9 13
+U1 3
+U2 23
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 0735-0015
+EI 1537-2707
+J9 J BUS ECON STAT
+JI J. Bus. Econ. Stat.
+PD JUN 16
+PY 2022
+VL 40
+IS 3
+BP 1377
+EP 1389
+DI 10.1080/07350015.2021.1930013
+EA JUN 2021
+PG 13
+WC Economics; Social Sciences, Mathematical Methods; Statistics &
+   Probability
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Mathematical Methods In Social Sciences;
+   Mathematics
+GA 2C9WN
+UT WOS:000662771500001
+DA 2024-11-22
+ER
+
+PT J
+AU Kim, K
+   Baker, MA
+AF Kim, Kawon
+   Baker, Melissa A.
+TI Do I Deserve to Spend? Online Social Support and Spending Pleasure
+SO CORNELL HOSPITALITY QUARTERLY
+LA English
+DT Article
+DE online social networks; online social support; self-deservingness;
+   spending pleasure; tie strength
+ID COMPUTER-MEDIATED COMMUNICATION; SELF-ESTEEM; DONT DESERVE;
+   SATISFACTION; MANAGEMENT; STRENGTH; FACEBOOK; EXPERIENCES; RESPONSES;
+   JUSTICE
+AB Despite evidence of people posting their consumption experiences to online social networks to fulfill the needs of social support, an understanding of how online social support affects post-consumption spending behaviors remains elusive. This research aims to examine how online social support from online social network friends and the firm influence perceptions of self-deservingness and spending pleasure. Across two studies, this research provides evidence that social support gained through online social networks influences consumers' spending pleasure through perceptions of their own deservingness. Notably, this study reveals that people obtain social support in online social networks from two sources: social networks friends and firms through receiving "Likes" and "Comments" on their post. This study also explores boundary conditions for when online social support is more effective on spending pleasure. The findings not only broaden the social support literature but also address the benefit to the service industry by understanding how social support can enhance spending pleasure.
+C1 [Kim, Kawon] Univ South Carolina, Sch Hotel Restaurant & Tourism Management, Coll Hospitality Sports & Retail Management, Columbia, SC 29208 USA.
+   [Baker, Melissa A.] Univ Massachusetts, Dept Hospitality & Tourism Management, Isenberg Sch Management, Amherst, MA 01003 USA.
+C3 University of South Carolina System; University of South Carolina
+   Columbia; University of Massachusetts System; University of
+   Massachusetts Amherst
+RP Kim, K (corresponding author), Univ South Carolina, Sch Hotel Restaurant & Tourism Management, Coll Hospitality Retail & Sport Management, 1705 Coll St, Columbia, SC 29208 USA.
+EM kkim01@mailbox.sc.edu
+OI Baker, Melissa/0000-0002-2805-871X; Kim, Kawon/0000-0002-2748-467X
+CR Abrams D., 1990, SOCIAL IDENTITY THEO, P1
+   [Anonymous], 2014, SOCIAL MEDIA UPDATES
+   [Anonymous], 2011, 2011 44 HAWAII INTER, DOI DOI 10.1109/HICSS.2011.435
+   Baker MA, 2017, ROUTL HANDBK, P396
+   BAUMEISTER RF, 1995, PSYCHOL BULL, V117, P497, DOI 10.1037/0033-2909.117.3.497
+   del Río-Lanza AB, 2009, J BUS RES, V62, P775, DOI 10.1016/j.jbusres.2008.09.015
+   Buhrmester M, 2011, PERSPECT PSYCHOL SCI, V6, P3, DOI 10.1177/1745691610393980
+   Burke Moira, 2013, P 2013 C COMP SUPP C, P1419, DOI [10.1145/2441776.2441936, DOI 10.1145/2441776.2441936]
+   Cavanaugh LA, 2014, J MARKETING RES, V51, P218, DOI 10.1509/jmr.12.0133
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   Dagger TS, 2009, J SERV RES-US, V11, P371, DOI 10.1177/1094670508331251
+   Deters FG, 2016, COMPUT HUM BEHAV, V61, P1, DOI 10.1016/j.chb.2016.02.093
+   Feather N T, 1999, Pers Soc Psychol Rev, V3, P86, DOI 10.1207/s15327957pspr0302_1
+   Frison E, 2015, COMPUT HUM BEHAV, V44, P315, DOI 10.1016/j.chb.2014.11.070
+   Gonzales AL, 2011, CYBERPSYCH BEH SOC N, V14, P79, DOI 10.1089/cyber.2009.0411
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Grégoire Y, 2009, J MARKETING, V73, P18, DOI 10.1509/jmkg.73.6.18
+   Gruss R, 2020, J HOSP TOUR RES, V44, P201, DOI 10.1177/1096348019892071
+   Gu B, 2014, PROD OPER MANAG, V23, P570, DOI 10.1111/poms.12043
+   Harter S., 2012, CONSTRUCTION SELF DE
+   Herzlick J., 2019, REPLYING BAD ONLINE
+   Ho TH, 2009, AM ECON REV, V99, P2022, DOI 10.1257/aer.99.5.2022
+   Howe N., 2009, Millennials rising: The next great generation
+   Hur K, 2017, TOURISM MANAGE, V63, P170, DOI 10.1016/j.tourman.2017.06.013
+   Kang J, 2012, INT J HOSP MANAG, V31, P772, DOI 10.1016/j.ijhm.2011.09.014
+   Karr, 2018, STAT TRAVELERS UTILI
+   Kelman H. C., 1958, Journal of Conflict Resolution, V2, P51, DOI [https://doi.org/10.1177/002200275800200106, DOI 10.1177/002200275800200106]
+   Khan U, 2006, J MARKETING RES, V43, P259, DOI 10.1509/jmkr.43.2.259
+   Ki C, 2017, EUR J MARKETING, V51, P722, DOI 10.1108/EJM-07-2015-0419
+   Kiatkawsin K, 2019, INT J HOSP MANAG, V82, P209, DOI 10.1016/j.ijhm.2019.04.024
+   Kim JM, 2020, INT J HOSP MANAG, V88, DOI 10.1016/j.ijhm.2020.102526
+   Kim K, 2020, CORNELL HOSP Q, V61, P113, DOI 10.1177/1938965519889288
+   Kim YS, 2020, CORNELL HOSP Q, V61, P84, DOI 10.1177/1938965519857539
+   Kivetz R, 2002, J CONSUM RES, V29, P199, DOI 10.1086/341571
+   LERNER MJ, 1975, J SOC ISSUES, V31, P1, DOI 10.1111/j.1540-4560.1975.tb00995.x
+   Liang TP, 2011, INT J ELECTRON COMM, V16, P69, DOI 10.2753/JEC1086-4415160204
+   Luna-Cortés G, 2019, J TRAVEL RES, V58, P398, DOI 10.1177/0047287518755502
+   Mittal V., 2000, Marketing Research, V12, P26
+   Molm LD, 2010, SOC PSYCHOL QUART, V73, P119, DOI 10.1177/0190272510369079
+   Okada EM, 2005, J MARKETING RES, V42, P43, DOI 10.1509/jmkr.42.1.43.56889
+   Olson ED, 2020, CORNELL HOSP Q, V61, P312, DOI 10.1177/1938965519892902
+   Perry-Smith JE, 2014, J APPL PSYCHOL, V99, P831, DOI 10.1037/a0036385
+   Preacher KJ, 2007, MULTIVAR BEHAV RES, V42, P185, DOI 10.1080/00273170701341316
+   Prelec D, 2001, MARKET LETT, V12, P5, DOI 10.1023/A:1008196717017
+   Proserpio D, 2017, MARKET SCI, V36, P645, DOI 10.1287/mksc.2017.1043
+   Raghunathan R, 2006, J MARKETING RES, V43, P386, DOI 10.1509/jmkr.43.3.386
+   Review Trackers, 2019, 23 REST SOC MED STAT
+   Rose M, 2016, CORNELL HOSP Q, V57, P396, DOI 10.1177/1938965516632610
+   Rosenberg M., 1965, SOC ADOLESCENT SELF, DOI DOI 10.1515/9781400876136-003
+   Scissors L, 2016, ACM CONFERENCE ON COMPUTER-SUPPORTED COOPERATIVE WORK AND SOCIAL COMPUTING (CSCW 2016), P1501, DOI 10.1145/2818048.2820066
+   Shemwell D.J., 1995, J CUSTOMER SERVICE M, V1, P65, DOI DOI 10.1300/J127V01N02_07
+   SIMONSON I, 1989, J CONSUM RES, V16, P158, DOI 10.1086/209205
+   Slama Mark., 1999, Journal of Marketing, V63, P135, DOI DOI 10.2307/1251979
+   Sparks BA, 2017, J HOSP TOUR RES, V41, P719, DOI 10.1177/1096348014538052
+   TAFARODI RW, 1995, J PERS ASSESS, V65, P322, DOI 10.1207/s15327752jpa6502_8
+   Tajvidi M, 2020, J BUS RES, V121, P476, DOI 10.1016/j.jbusres.2018.06.008
+   Tsiros M, 2004, J CONSUM RES, V31, P476, DOI 10.1086/422124
+   Valenzuela S, 2009, J COMPUT-MEDIAT COMM, V14, P875, DOI 10.1111/j.1083-6101.2009.01474.x
+   Valkenburg PM, 2006, CYBERPSYCHOL BEHAV, V9, P584, DOI 10.1089/cpb.2006.9.584
+   Walther JB, 2009, COMMUN RES, V36, P229, DOI 10.1177/0093650208330251
+   Wei W, 2013, INT J HOSP MANAG, V33, P316, DOI 10.1016/j.ijhm.2012.10.002
+   Wilcox K, 2013, J CONSUM RES, V40, P90, DOI 10.1086/668794
+   Wills T.A., 1991, SOCIAL SUPPORT INTER
+   Wood JV, 2009, J PERS SOC PSYCHOL, V96, P363, DOI 10.1037/a0012881
+   Wright KB, 2003, J HEALTH PSYCHOL, V8, P39, DOI 10.1177/1359105303008001429
+   Xie KL, 2014, INT J HOSP MANAG, V43, P1, DOI 10.1016/j.ijhm.2014.07.007
+   Xu J, 2009, J MARKETING RES, V46, P25, DOI 10.1509/jmkr.46.1.25
+   Xu Q, 2015, J CONSUM PSYCHOL, V25, P219, DOI 10.1016/j.jcps.2014.11.004
+   Zhang C, 2017, J MARKETING, V81, P132, DOI 10.1509/jm.16.0038
+   Zhang L, 2020, CORNELL HOSP Q, V61, P68, DOI 10.1177/1938965519864864
+   Zhu J, 2019, J INTERACT MARK, V46, P101, DOI 10.1016/j.intmar.2018.10.002
+NR 71
+TC 6
+Z9 6
+U1 6
+U2 51
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 1938-9655
+EI 1938-9663
+J9 CORNELL HOSP Q
+JI Cornell Hosp. Q.
+PD MAY
+PY 2022
+VL 63
+IS 2
+BP 152
+EP 168
+AR 1938965520973576
+DI 10.1177/1938965520973576
+EA NOV 2020
+PG 17
+WC Hospitality, Leisure, Sport & Tourism; Management; Sociology
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics; Business & Economics; Sociology
+GA 0H2KE
+UT WOS:000626212700001
+DA 2024-11-22
+ER
+
+PT J
+AU Schroeder, DT
+   Langguth, J
+   Burchard, L
+   Pogorelov, K
+   Lind, PG
+AF Schroeder, Daniel Thilo
+   Langguth, Johannes
+   Burchard, Luk
+   Pogorelov, Konstantin
+   Lind, Pedro G.
+TI The connectivity network underlying the German's Twittersphere: a
+   testbed for investigating information spreading phenomena
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+AB Online social networks are ubiquitous, have billions of users, and produce large amounts of data. While platforms like Reddit are based on a forum-like organization where users gather around topics, Facebook and Twitter implement a concept in which individuals represent the primary entity of interest. This makes them natural testbeds for exploring individual behavior in large social networks. Underlying these individual-based platforms is a network whose "friend" or "follower" edges are of binary nature only and therefore do not necessarily reflect the level of acquaintance between pairs of users. In this paper,we present the network of acquaintance "strengths" underlying the German Twittersphere. To that end, we make use of the full non-verbal information contained in tweet-retweet actions to uncover the graph of social acquaintances among users, beyond pure binary edges. The social connectivity between pairs of users is weighted by keeping track of the frequency of shared content and the time elapsed between publication and sharing. Moreover, we also present a preliminary topological analysis of the German Twitter network. Finally, making the data describing the weighted German Twitter network of acquaintances, we discuss how to apply this framework as a ground basis for investigating spreading phenomena of particular contents.
+C1 [Schroeder, Daniel Thilo; Langguth, Johannes; Burchard, Luk; Pogorelov, Konstantin] High Performance Comp, Simula Res Lab, N-1364 Fornebu, Norway.
+   [Schroeder, Daniel Thilo] Tech Univ Berlin, Distributed & Operating Syst, D-10623 Berlin, Germany.
+   [Lind, Pedro G.] Oslo Metropolitan Univ, Dept Comp Sci, POB 4,St Olavs Plass, N-0167 Oslo, Norway.
+   [Lind, Pedro G.] Artificial Intelligent OsloMet Lab, Pilestredet 52, N-0130 Oslo, Norway.
+   [Lind, Pedro G.] NordSTAR Nordic Ctr Sustainable & Trustworthy Art, Pilestredet 52, N-0166 Oslo, Norway.
+C3 Technical University of Berlin; Oslo Metropolitan University (OsloMet)
+RP Lind, PG (corresponding author), Oslo Metropolitan Univ, Dept Comp Sci, POB 4,St Olavs Plass, N-0167 Oslo, Norway.; Lind, PG (corresponding author), Artificial Intelligent OsloMet Lab, Pilestredet 52, N-0130 Oslo, Norway.; Lind, PG (corresponding author), NordSTAR Nordic Ctr Sustainable & Trustworthy Art, Pilestredet 52, N-0166 Oslo, Norway.
+EM pedro.lind@oslomet.no
+RI Goncalves Lind, Pedro/G-5124-2010
+OI Goncalves Lind, Pedro/0000-0002-8176-666X
+FU Norwegian Research Council [303404]; Research Council of Norway [270053]
+FX This work was funded by the Norwegian Research Council project "Enabling
+   Graph Neural Networks at Exascale" (#303404). The research presented in
+   this paper has benefited from the Experimental Infrastructure for
+   Exploration of Exascale Computing (eX3), which is financially supported
+   by the Research Council of Norway under contract #270053. In addition,
+   we are indebted to Soeren Becker from the Technical University of Berlin
+   for managing the infrastructure.
+CR [Anonymous], 2014, ARXIV14113555
+   [Anonymous], 2016, FRONT APP DYN SYST
+   Bilton C, 2010, INT J CULT POLICY, V16, P255, DOI 10.1080/10286630903128518
+   Borgesius FJZ, 2016, INTERNET POLICY REV, V5, DOI 10.14763/2016.1.401
+   Bruns A., 2017, 6 BIENNIAL FUTURE JO
+   Burchard L, 2020, 2020 SEVENTH INTERNATIONAL CONFERENCE ON SOCIAL NETWORK ANALYSIS, MANAGEMENT AND SECURITY (SNAMS), P27, DOI 10.1109/SNAMS52053.2020.9336530
+   Coser RoseL., 1975, IDEA SOCIAL STRUCTUR
+   Daminelli S, 2015, NEW J PHYS, V17, DOI 10.1088/1367-2630/17/11/113037
+   Findlay K, 2018, INT J MARKET RES, V60, P169, DOI 10.1177/1470785317753025
+   González MC, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.088702
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Gupta P., 2013, P 22 INT C WORLD WID, P505, DOI [DOI 10.1145/2488388.2488433, 10.1145/2488388.2488433]
+   Liben-Nowell D, 2005, P NATL ACAD SCI USA, V102, P11623, DOI 10.1073/pnas.0503018102
+   Lü LY, 2010, EPL-EUROPHYS LETT, V89, DOI 10.1209/0295-5075/89/18001
+   MCPHERSON JM, 1982, AM J SOCIOL, V87, P883, DOI 10.1086/227525
+   Michail D, 2020, ACM T MATH SOFTWARE, V46, DOI 10.1145/3381449
+   MONTGOMERY JD, 1992, AM SOCIOL REV, V57, P586, DOI 10.2307/2095914
+   Myers SA, 2014, WWW'14 COMPANION: PROCEEDINGS OF THE 23RD INTERNATIONAL CONFERENCE ON WORLD WIDE WEB, P493, DOI 10.1145/2567948.2576939
+   Nuernbergk C, 2016, JOURNAL PRACT, V10, P868, DOI 10.1080/17512786.2016.1162669
+   Pamann J, 2018, SOZIALE LOGIK TWITTE
+   Recuero R., 2021, 5 INT AAAI C WEBL SO, V5, P305, DOI 10.1609/icwsm.v5i1.14115
+   Schroeder DT, 2019, 2019 SIXTH INTERNATIONAL CONFERENCE ON SOCIAL NETWORKS ANALYSIS, MANAGEMENT AND SECURITY (SNAMS), P134, DOI [10.1109/SNAMS.2019.8931870, 10.1109/snams.2019.8931870]
+   Suh B., 2010, 2010 IEEE 2 INT C SO, DOI [10.1109/SocialCom.2010.33, DOI 10.1109/SOCIALCOM.2010.33]
+   Symeonidis P., 2010, P 4 ACM C REC SYST, P183, DOI DOI 10.1145/1864708.1864744
+   Toole JL, 2015, J R SOC INTERFACE, V12, DOI 10.1098/rsif.2014.1128
+   Tsugawa S, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0170279
+   Verweij P, 2012, JOURNAL PRACT, V6, P680, DOI 10.1080/17512786.2012.667272
+   Vosoughi S, 2018, SCIENCE, V359, P1146, DOI 10.1126/science.aap9559
+   Yang J, 2010, ICIM 2010: PROCEEDINGS OF THE TENTH INTERNATIONAL CONFERENCE ON INDUSTRIAL MANAGEMENT, P356
+   ZORZI O., 2019, Schlusselwerke der Netzwerkforschung, P243, DOI [10.1007/978-3-658-21742-6_55, DOI 10.1007/978-3-658-21742-6_55]
+NR 30
+TC 3
+Z9 3
+U1 0
+U2 1
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD MAR 8
+PY 2022
+VL 12
+IS 1
+AR 4085
+DI 10.1038/s41598-022-07961-3
+PG 13
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 2Z3IA
+UT WOS:000826474600135
+PM 35260708
+OA gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Williams, D
+   Bartelt, E
+   Thomas, B
+   Guerra-Reyes, L
+   Carspecken, L
+   Gonzalez, YRR
+   Klimek, S
+   Dodge, B
+AF Williams, Deana
+   Bartelt, Elizabeth
+   Thomas, Breanna
+   Guerra-Reyes, Lucia
+   Carspecken, Lucinda
+   Gonzalez, Yael R. Rosenstock
+   Klimek, Sally
+   Dodge, Brian
+TI Beyond the Boundaries: Exploring the Identity-Related Experiences of
+   Biracial/Multiracial and Bisexual Adults
+SO ARCHIVES OF SEXUAL BEHAVIOR
+LA English
+DT Article
+DE Bisexual; Biracial; Multiracial; Intersectionality; Sexual orientation
+ID SEXUAL ORIENTATION; MENTAL-HEALTH; MINORITY STRESS; PEOPLE; WOMEN;
+   INTERSECTIONALITY; GAY; RACISM; COLOR; DISPARITIES
+AB Most prior bisexual research takes a monolithic approach to racial identity, and existing racial/ethnic minority research often overlooks bisexuality. Consequently, previous studies have rarely examined the experiences and unique health needs of biracial/multiracial and bisexual individuals. This exploratory qualitative study investigated the identity-related experiences of biracial/multiracial and bisexual adults within the context of health and well-being. Data were collected through 90-min semi-structured telephone interviews. Participants were recruited through online social network sites and included 24 adults between ages 18 and 59 years. We aimed to explore how identity-related experiences shape biracial/multiracial and bisexual individuals' identity development processes; how biracial/multiracial and bisexual individuals negotiate their identities; how the blending of multiple identities may contribute to perceptions of inclusion, exclusion, and social connectedness; and how biracial/multiracial and bisexual individuals may attribute positive and negative experiences to their identities. Interview transcripts were analyzed using an inductive thematic approach. Analysis highlighted four major themes: passing and invisible identities, not measuring up and erasing complexity, cultural binegativity/queerphobia and intersectional oppressions, and navigating beyond boundaries. Our findings imply promoting affirmative visibility and developing intentional support networks may help biracial/multiracial and bisexual individuals cultivate resiliency and navigate sources of identity stress. We encourage future research to explore mental health and chronic stress among this community.
+C1 [Williams, Deana; Thomas, Breanna; Guerra-Reyes, Lucia; Gonzalez, Yael R. Rosenstock; Klimek, Sally; Dodge, Brian] Indiana Univ, Ctr Sexual Hlth Promot, Sch Publ Hlth, 1025 E 7th St, Bloomington, IN 47405 USA.
+   [Bartelt, Elizabeth] Univ Buffalo SUNY, Sch Publ Hlth & Hlth Profess, Buffalo, NY USA.
+   [Carspecken, Lucinda] Indiana Univ, Sch Educ, Bloomington, IN 47405 USA.
+C3 Indiana University System; Indiana University Bloomington; State
+   University of New York (SUNY) System; University at Buffalo, SUNY;
+   Indiana University System; Indiana University Bloomington
+RP Williams, D (corresponding author), Indiana Univ, Ctr Sexual Hlth Promot, Sch Publ Hlth, 1025 E 7th St, Bloomington, IN 47405 USA.
+EM dw77@iu.edu
+RI Dodge, Brian/JNS-5713-2023; Guerra-Reyes, Lucia/P-5474-2016; Dodge,
+   Brian/H-3123-2013
+OI Dodge, Brian/0000-0003-4491-6603; Williams, Deana/0000-0001-5649-1425;
+   Klimek, Sally/0000-0001-7572-9419
+CR Abrams JA, 2020, SOC SCI MED, V258, DOI 10.1016/j.socscimed.2020.113138
+   Adams Q., 2018, IT GOES BOTH WAYS NE
+   Alvidrez J, 2021, AM J PUBLIC HEALTH, V111, P95, DOI 10.2105/AJPH.2020.305986
+   Ando H., 2014, Comprehensive Psychology, V3, p03. CP. 03.04, DOI [DOI 10.2466/03.CP.3.4, 10.2466/03.CP.3.4]
+   [Anonymous], 2012, FACT SHEET HLTH DISP
+   Anzaldua G., 1999, BORDERLANDS FRONTERA, V2nd
+   Balsam KF, 2013, MEAS EVAL COUNS DEV, V46, P3, DOI 10.1177/0748175612449743
+   Bauer GR, 2014, SOC SCI MED, V110, P10, DOI 10.1016/j.socscimed.2014.03.022
+   Bostwick WB, 2019, ARCH SEX BEHAV, V48, P79, DOI 10.1007/s10508-018-1370-9
+   Bostwick WB, 2010, AM J PUBLIC HEALTH, V100, P468, DOI 10.2105/AJPH.2008.152942
+   Bowleg L, 2008, SEX ROLES, V59, P312, DOI 10.1007/s11199-008-9400-z
+   Bowleg L, 2020, AM J PUBLIC HEALTH, V110, P917, DOI 10.2105/AJPH.2020.305766
+   Bowleg L, 2013, SEX ROLES, V68, P754, DOI 10.1007/s11199-012-0152-4
+   Bowleg L, 2012, AM J PUBLIC HEALTH, V102, P1267, DOI 10.2105/AJPH.2012.300750
+   Bradford M., 2004, Journal of bisexuality, V4, P7, DOI [DOI 10.1300/J159V04N01_02, 10.1300/J159v04n01_02]
+   Braun V., 2006, QUAL RES PSYCHOL, V3, P77, DOI [10.1191/1478088706qp063oa, DOI 10.1191/1478088706QP063OA]
+   Brooks LM, 2010, J BISEXUALITY, V10, P253, DOI 10.1080/15299716.2010.500959
+   Camacho G, 2020, CURR OPIN PSYCHOL, V31, P28, DOI 10.1016/j.copsyc.2019.07.031
+   Cheng CY, 2009, J SOC ISSUES, V65, P51, DOI 10.1111/j.1540-4560.2008.01587.x
+   Chmielewski JF, 2017, SEX ROLES, V77, P533, DOI 10.1007/s11199-017-0740-4
+   Choo HY, 2010, SOCIOL THEOR, V28, P129, DOI 10.1111/j.1467-9558.2010.01370.x
+   Collins J.F., 2004, J BISEXUALITY, V4, P99, DOI [10.1300/J159v04n01_08, DOI 10.1300/J159V04N01_08, 10.1300/J159v04n0108]
+   Collins J.F., 2000, INT J SEXUALITY GEND, V5, P221, DOI [DOI 10.1023/A:1010137025394, https://doi.org/10.1023/A:1010137025394]
+   Collins PH, 2015, ANNU REV SOCIOL, V41, P1, DOI 10.1146/annurev-soc-073014-112142
+   Collins PH., 2008, BLACK FEMINIST THOUG
+   Collins PH., 2016, INTERSECTIONALITY
+   Corbin J. M., 2008, BASICS QUALITATIVE R, DOI 10.4135/9781452230153
+   DeCapua SR, 2017, J BISEXUALITY, V17, P451, DOI 10.1080/15299716.2017.1382424
+   Dodge B., 2007, Becoming visible: Counseling bisexuals across the lifespan, P28
+   Dodge B, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0164430
+   Donnella Leah., 2017, NPR
+   Dworkin S.H., 2002, Journal of Bisexuality, V2, P93, DOI [10.1300/J159v02n04_06, DOI 10.1300/J159V02N04_06, 10.1300/J159v02n0406, DOI 10.1300/J159V02N0406]
+   Dworkin Sharil., 2015, MEN RISK MASCULINITY
+   Feinstein BA, 2020, J BISEXUALITY, V20, P324, DOI 10.1080/15299716.2020.1743402
+   Firestein B., 2007, Becoming Visible: Counseling Bisexuals Across the Lifespan, P91, DOI [10.1037/11482-004, DOI 10.1037/11482-004]
+   Franco MG, 2016, INT J INTERCULT REL, V50, P96, DOI 10.1016/j.ijintrel.2015.12.004
+   Fredriksen-Goldsen KI, 2010, AM J PUBLIC HEALTH, V100, P2255, DOI 10.2105/AJPH.2009.177329
+   Fredriksen-Goldsen KI, 2010, RES AGING, V32, P372, DOI 10.1177/0164027509360355
+   Friedman MR, 2014, LGBT HEALTH, V1, P309, DOI 10.1089/lgbt.2014.0005
+   Frost DM, 2008, J LGBT YOUTH, V5, P27, DOI 10.1300/J524v05n01_04
+   Fukuyama MA, 1999, HANDBOOK OF COUNSELING AND PSYCHOTHERAPY WITH LESBIAN, GAY, AND BISEXUAL CLIENTS, P81
+   Galupo MP, 2019, J BISEXUALITY, V19, P152, DOI 10.1080/15299716.2019.1619066
+   Garr-Schultz A, 2021, SELF IDENTITY, V20, P528, DOI 10.1080/15298868.2019.1625435
+   Ghabrial M.A., 2018, PSYCHOL SEX ORIENTAT, V5, P132, DOI DOI 10.1037/SGD0000286
+   Ghabrial MA, 2019, J BISEXUALITY, V19, P169, DOI 10.1080/15299716.2019.1617526
+   Ghabrial MA, 2017, SEX RES SOC POLICY, V14, P42, DOI 10.1007/s13178-016-0229-x
+   Goldberg SB, 2009, SOC JUSTICE, P124
+   Gonzalez KA, 2019, J BISEXUALITY, V19, P147, DOI 10.1080/15299716.2019.1624121
+   Guest G, 2006, FIELD METHOD, V18, P59, DOI 10.1177/1525822X05279903
+   [Guy-Sheftall Beverly. Combahee River Collective Combahee River Collective], 1995, WORDS FIRE ANTHOLOGY, P232
+   Hall Stuart., 2017, FAMILIAR STRANGER LI
+   Harper Gary W, 2004, Cultur Divers Ethnic Minor Psychol, V10, P187, DOI 10.1037/1099-9809.10.3.187
+   Harrell SP, 2000, AM J ORTHOPSYCHIAT, V70, P42, DOI 10.1037/h0087722
+   Harris KL, 2018, AM BEHAV SCI, V62, P2072, DOI 10.1177/0002764218810747
+   Hayfield N, 2013, WOMEN STUD INT FORUM, V40, P172, DOI 10.1016/j.wsif.2013.07.015
+   Israel T, 2004, WOMEN THER, V27, P173, DOI 10.1300/J015v27n01_12
+   Jain A, 1999, BRIT MED J, V318, P1596, DOI 10.1136/bmj.318.7198.1596
+   Jaiswal J, 2019, CULT HEALTH SEX, V21, P373, DOI 10.1080/13691058.2018.1470674
+   Johnson MJ, 2016, CANCER NURS, V39, P455, DOI 10.1097/NCC.0000000000000338
+   Kich G., 1996, MULTIRACIAL EXPERIEN, P263, DOI [10.4135/9781483327433.n16, DOI 10.4135/9781483327433.N16]
+   Kich G.K., 1992, RACIALLY MIXED PEOPL
+   King AR, 2013, J LGBT YOUTH, V10, P308, DOI 10.1080/19361653.2013.825198
+   King AR, 2011, J COLL STUDENT DEV, V52, P440, DOI 10.1353/csd.2011.0050
+   Lerum K, 2009, J SEX RES, V46, P250, DOI 10.1080/00224490903079542
+   Lincoln Y. S., 1985, NATURALISTIC INQUIRY
+   Lingel J, 2009, J BISEXUALITY, V9, P381, DOI 10.1080/15299710903316646
+   Lorde Audre., 1984, SISTER OUTSIDER ESSA
+   Maliepaard E, 2017, J BISEXUALITY, V17, P325, DOI 10.1080/15299716.2017.1342214
+   Mather M., 2019, Population Bulletin, V74, P1
+   McHugh ML, 2012, BIOCHEM MEDICA, V22, P276, DOI 10.11613/bm.2012.031
+   Meyer I.H., 2007, HLTH SEXUAL MINORITI, P242, DOI [10.1007/978-0-387-31334-4_10, DOI 10.1007/978-0-387-31334-4_10]
+   MEYER IH, 1995, J HEALTH SOC BEHAV, V36, P38, DOI 10.2307/2137286
+   Meyer IH, 2003, PSYCHOL BULL, V129, P674, DOI 10.1037/0033-2909.129.5.674
+   Mihas P., 2019, LEARN BUILD CODEBOOK
+   Mosley D, 2019, J BISEXUALITY, V19, P276, DOI 10.1080/15299716.2019.1617552
+   Movement Advancement Project, 2016, INV MAJ DISP FAC BIS
+   Muñoz-Laboy M, 2019, ARCH SEX BEHAV, V48, P317, DOI 10.1007/s10508-018-1318-0
+   Nakashima C.L., 1992, Racially Mixed People in America, P162
+   Nowell LS, 2017, INT J QUAL METH, V16, DOI 10.1177/1609406917733847
+   Ochs R., 1996, BISEXUALITY, P217
+   Pachankis JE, 2007, PSYCHOL BULL, V133, P328, DOI 10.1037/0033-2909.133.2.328
+   POSTON WSC, 1990, J COUNS DEV, V69, P152, DOI 10.1002/j.1556-6676.1990.tb01477.x
+   Ragins BR, 2007, J APPL PSYCHOL, V92, P1103, DOI 10.1037/0021-9010.92.4.1103
+   Ramirez JL, 2018, J HOMOSEXUAL, V65, P579, DOI 10.1080/00918369.2017.1328217
+   Rev, 2020, CONV AUD VID TEXT
+   Roberts K, 2019, BMC MED RES METHODOL, V19, DOI 10.1186/s12874-019-0707-y
+   Roberts TS, 2015, J BISEXUALITY, V15, P554, DOI 10.1080/15299716.2015.1111183
+   Root M.P. P., 1990, WOMEN THER, V9, P185, DOI [DOI 10.1300/J015V09N01_11, 10.1300/J015v09n01_11]
+   Ross LE, 2018, J SEX RES, V55, P435, DOI 10.1080/00224499.2017.1387755
+   Ross LE, 2010, AM J PUBLIC HEALTH, V100, P496, DOI 10.2105/AJPH.2008.156307
+   Rust P.C., 1996, BISEXUALITY, P53
+   Rust P.C., 2000, J BISEXUALITY, V1, P31, DOI DOI 10.1300/J159V01N01_04
+   Silvermint D, 2018, ERGO-ANN ARBOR, V5, P1, DOI 10.3998/ergo.12405314.0005.001
+   Socio Cultural Research Consultants, 2018, DED VERS 8 1 8
+   Stanley JL, 2004, WOMEN THER, V27, P159, DOI 10.1300/J015v27n01_11
+   Thompson BY, 2012, J BISEXUALITY, V12, P417, DOI 10.1080/15299716.2012.702623
+   Thompson BY, 2000, FRONTIERS, V21, P171, DOI 10.2307/3347042
+   Thorne S, 1997, RES NURS HEALTH, V20, P169
+   Thorne S., 2004, INT J QUAL METH, V3, P1, DOI DOI 10.1177/160940690400300101
+   Valk Anne., 2008, Radical Sisters: Second-Wave Feminism and Black Liberation in Washington
+   Venkatraman S., 2020, NBC
+   Walters Mikel., 2013, The National Intimate Partner and Sexual Violence Survey (NISVS): 2010 Findings on Victimization by Sexual Orientation
+   Watson LB, 2021, J BISEXUALITY, V21, P225, DOI 10.1080/15299716.2021.1932008
+   Whitney Elizabeth., 2002, J BISEXUALITY, V2, P109, DOI [DOI 10.1300/J159V02N02_08, 10.1300/J159v02n02_08]
+   Williams D, 2020, J BISEXUALITY, V20, P301, DOI 10.1080/15299716.2020.1822256
+   Winant H, 1998, ETHNIC RACIAL STUD, V21, P755, DOI 10.1080/014198798329856
+NR 106
+TC 6
+Z9 10
+U1 2
+U2 6
+PU SPRINGER/PLENUM PUBLISHERS
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0004-0002
+EI 1573-2800
+J9 ARCH SEX BEHAV
+JI Arch. Sex. Behav.
+PD MAY
+PY 2022
+VL 51
+IS 4
+BP 2241
+EP 2259
+DI 10.1007/s10508-021-02236-w
+EA MAY 2022
+PG 19
+WC Psychology, Clinical; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology; Social Sciences - Other Topics
+GA 2C2BX
+UT WOS:000805528500001
+PM 35622076
+OA Bronze, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Liu, S
+   Mäs, M
+   Xia, HX
+   Flache, A
+AF Liu, Shou
+   Maes, Michael
+   Xia, Haoxiang
+   Flache, Andreas
+TI WHEN INTUITION FAILS: THE COMPLEX EFFECTS OF ASSIMILATIVE AND REPULSIVE
+   INFLUENCE ON OPINION POLARIZATION
+SO ADVANCES IN COMPLEX SYSTEMS
+LA English
+DT Article
+DE Opinion polarization; opinion dynamics; repulsion; negative influence;
+   online social networks; filter bubbles; complexity
+ID DYNAMICS
+AB There is a public and scholarly debate about whether personalized services of social-media platforms contribute to the rise of bipolarization of political opinions. On the one hand, it is argued that personalized services of online social networks generate filter bubbles limiting contact between users who disagree. This reduces opportunities for assimilative social influence between users from different camps and prevents opinion convergence. On the other hand, empirical research also indicated that exposing users to content from the opposite political spectrum can activate the counter-part of assimilative influence, repulsive influence. Fostering contact that leads to opinion assimilation and limiting contacts likely to induce repulsive interactions, it has been concluded, may therefore prevent bipolarization. With an agent-based model, we demonstrate here that these conclusions fail to capture the complexity that assimilative and repulsive influence generate in social networks. Sometimes, more assimilative influence can actually lead to more and not less opinion bipolarization. Likewise, increasing the exposure of users to like-minded individuals sometimes intensifies opinion polarization. While emerging only in specific parts of the parameter space, these counter-intuitive dynamics are robust, as our simulation experiments demonstrate. We discuss implications for the debate about filter bubbles and approaches to improve the design of online social networks. While we applaud the growing empirical research on the micro-processes of assimilative and repulsive influence in online settings, we warn that drawing conclusions about resulting macro-outcomes like opinion bipolarization requires a rigorous analysis capturing the complexity of online communication systems. Intuition alone is error-prone in this context. Accordingly, models capturing the complexity of social influence in networks should play a more important role in the design of communication systems.
+C1 [Liu, Shou; Xia, Haoxiang] Dalian Univ Technol, Sch Econ & Management, 2 Linggong Rd, Dalian 116024, Peoples R China.
+   [Maes, Michael] Karlsruhe Inst Technol, Inst Technol Futures, Douglasstr 24, D-76133 Karlsruhe, Germany.
+   [Flache, Andreas] Univ Groningen, Dept Sociol, Grote Rozenstr 31, NL-9712 TG Groningen, Netherlands.
+C3 Dalian University of Technology; Helmholtz Association; Karlsruhe
+   Institute of Technology; University of Groningen
+RP Mäs, M (corresponding author), Karlsruhe Inst Technol, Inst Technol Futures, Douglasstr 24, D-76133 Karlsruhe, Germany.
+EM liushuo1260@mail.dlut.edu.cn; michael.maes@kit.edu; hxxia@dlut.edu.cn;
+   a.flache@rug.nl
+RI Maes, Michael/K-9603-2013; Flache, Andreas/E-2921-2013
+OI Flache, Andreas/0000-0002-8276-8819
+FU National Natural Science Foundation of China [71871042]; Humanities and
+   Social Science Project of the Ministry of Education of China
+   [18YJA630118]; China Scholarship Council (CSC) through the program
+   public postgraduates of national construction high-level universities
+   [202006060168]; InfoXpand project -Federal Ministry of Education and
+   Research of Germany by the Netherlands Institute for Advanced Studies in
+   the Humanities and Social Sciences (NIAS) [031L0300B]; Lorentz Center
+   for funding the Lorentz-NIAS Theme Group "Social Media for Digital
+   Democracy"; Netherlands Organization for Scientific Research (NWO) under
+   the 2018 ORA grant ToRealSim [464.18.112]
+FX This work was partly supported by the National Natural Science
+   Foundation of China under Grant 71871042 (to HX), the Humanities and
+   Social Science Project of the Ministry of Education of China Grant
+   18YJA630118 (to HX). SL gratefully acknowledges the financial support
+   provided by China Scholarship Council (CSC) through the program public
+   postgraduates of national construction high-level universities
+   (202006060168). MM acknowledges support by the InfoXpand project
+   (031L0300B) funded by the Federal Ministry of Education and Research of
+   Germany and support by the Netherlands Institute for Advanced Studies in
+   the Humanities and Social Sciences (NIAS) and the Lorentz Center for
+   funding the Lorentz-NIAS Theme Group "Social Media for Digital
+   Democracy" that informed this work. AF acknowledges financial support by
+   the Netherlands Organization for Scientific Research (NWO) under the
+   2018 ORA grant ToRealSim (464.18.112).
+CR [Anonymous], 2006, Micromotives and Macrobehavior
+   Bail CA, 2018, P NATL ACAD SCI USA, V115, P9216, DOI 10.1073/pnas.1804840115
+   Boxell L, 2017, P NATL ACAD SCI USA, V114, P10612, DOI 10.1073/pnas.1706588114
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   Dandekar P, 2013, P NATL ACAD SCI USA, V110, P5791, DOI 10.1073/pnas.1217220110
+   Deffuant G, 2000, APPLICATIONS OF SIMULATION TO SOCIAL SCIENCES, P87, DOI 10.1142/S0219525900000078
+   Deffuant G, 2018, ADV COMPLEX SYST, V21, DOI 10.1142/S0219525918500212
+   Del Vicario M, 2017, SOC NETWORKS, V50, P6, DOI 10.1016/j.socnet.2017.02.002
+   Del Vicario M, 2016, P NATL ACAD SCI USA, V113, P554, DOI 10.1073/pnas.1517441113
+   FESTINGER L, 1962, SCI AM, V207, P93, DOI 10.1038/scientificamerican1062-93
+   Finkel EJ, 2020, SCIENCE, V370, P533, DOI 10.1126/science.abe1715
+   Flache A, 2008, SIMUL MODEL PRACT TH, V16, P175, DOI 10.1016/j.simpat.2007.11.020
+   Flache A, 2018, ADV COMPLEX SYST, V21, DOI 10.1142/S0219525918500170
+   Flache A, 2017, JASSS-J ARTIF SOC S, V20, DOI 10.18564/jasss.3521
+   Flache A, 2011, J MATH SOCIOL, V35, P146, DOI 10.1080/0022250X.2010.532261
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Hegselmann R., 2020, Advances in the Sociology of Trust and Cooperation: Theory, Experiment, and Field Studies, P197
+   Heider F, 1946, J PSYCHOL, V21, P107, DOI 10.1080/00223980.1946.9917275
+   Huet S, 2008, ADV COMPLEX SYST, V11, P529, DOI 10.1142/S0219525908001799
+   Huet S, 2010, ADV COMPLEX SYST, V13, P405, DOI 10.1142/S0219525910002633
+   Iyengar S, 2019, ANNU REV POLIT SCI, V22, P129, DOI 10.1146/annurev-polisci-051117-073034
+   Jager W., 2004, Computational & Mathematical Organization Theory, V10, P295, DOI 10.1007/s10588-005-6282-2
+   Keijzer, 2022, OPINION DYNAMICS ONL
+   Keijzer, 2022, DATA SCI, V5, P139
+   Keijzer MA., 2021, ONLINE SOC NETW MEDI, V21
+   Kozitsin IV, 2023, J MATH SOCIOL, V47, P1, DOI 10.1080/0022250X.2021.1956917
+   Levin SA, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2116950118
+   Liu CC, 2015, AM SOCIOL REV, V80, P192, DOI 10.1177/0003122414564182
+   Macy MW, 2003, DYNAMIC SOCIAL NETWORK MODELING AND ANALYSIS, P162
+   Macy MW, 2002, ANNU REV SOCIOL, V28, P143, DOI 10.1146/annurev.soc.28.110601.141117
+   Mäs M, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0074516
+   Mds, 2021, RES HDB ANALYTICAL S, P100
+   Obama, 2017, NEW YORK TIMES
+   Pariser E, 2011, The Filter Bubble: How the New Personalized Web Is Changing What We Read and How We Think
+   Schweighofer S, 2020, JASSS-J ARTIF SOC S, V23, DOI 10.18564/jasss.4306
+   Steinmeier F.-W., 2018, 2018 CHRISTMAS MESSA
+   Takarinda KC, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0147828
+   Watts DJ, 1999, AM J SOCIOL, V105, P493, DOI 10.1086/210318
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Zuckerberg M., 2017, Building Global Community
+NR 40
+TC 1
+Z9 1
+U1 2
+U2 14
+PU WORLD SCIENTIFIC PUBL CO PTE LTD
+PI SINGAPORE
+PA 5 TOH TUCK LINK, SINGAPORE 596224, SINGAPORE
+SN 0219-5259
+EI 1793-6802
+J9 ADV COMPLEX SYST
+JI Adv. Complex Syst.
+PD DEC
+PY 2022
+VL 25
+IS 08
+DI 10.1142/S0219525922500114
+EA JAN 2023
+PG 30
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Mathematics; Science & Technology - Other Topics
+GA D9UA7
+UT WOS:000923377500001
+OA Green Published
+DA 2024-11-22
+ER

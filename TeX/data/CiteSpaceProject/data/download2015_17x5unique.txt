@@ -1,0 +1,672 @@
+
+PT J
+AU Dunbar, RIM
+   Arnaboldi, V
+   Conti, M
+   Passarella, A
+AF Dunbar, R. I. M.
+   Arnaboldi, Valerio
+   Conti, Marco
+   Passarella, Andrea
+TI The structure of online social networks mirrors those in the offline
+   world
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Ego-centric social networks; Network scaling; Network structure;
+   Facebook; Twitter
+ID GROUP-SIZE; ORGANIZATION; STRENGTH; CORTEX
+AB We use data on frequencies of bi-directional posts to define edges (or relationships) in two Facebook datasets and a Twitter dataset and use these to create ego-centric social networks. We explore the internal structure of these networks to determine whether they have the same kind of layered structure as has been found in offline face-to-face networks (which have a distinctively scaled structure with successively inclusive layers at 5, 15,50 and 150 alters). The two Facebook datasets are best described by a four-layer structure and the Twitter dataset by a five-layer structure. The absolute sizes of these layers and the mean frequencies of contact with alters within each layer match very closely the observed values from offline networks. In addition, all three datasets reveal the existence of an innermost network layer at similar to 1.5 alters. Our analyses thus confirm the existence of the layered structure of ego-centric social networks with a very much larger sample (in total, >185,000 egos) than those previously used to describe them, as well as identifying the existence of an additional network layer whose existence was only hypothesised in offline social networks. In addition, our analyses indicate that online communities have very similar structural characteristics to offline face-to-face networks. Published by Elsevier B.V.
+C1 [Dunbar, R. I. M.; Arnaboldi, Valerio] Univ Oxford, Dept Expt Psychol, Oxford OX1 3UD, England.
+   [Arnaboldi, Valerio; Conti, Marco; Passarella, Andrea] CNR, Inst Informat & Telemat, I-56100 Pisa, Italy.
+C3 University of Oxford; Consiglio Nazionale delle Ricerche (CNR); Istituto
+   di Informatica e Telematica (IIT-CNR)
+RP Dunbar, RIM (corresponding author), Univ Oxford, Dept Expt Psychol, S Parks Rd, Oxford OX1 3UD, England.
+EM robin.dunbar@psy.ox.ac.uk
+RI Conti, Marco/D-7415-2017; Passarella, Andrea/ABC-8675-2020; Passarella,
+   Andrea/F-3128-2018
+OI Conti, Marco/0000-0003-4097-4064; Passarella,
+   Andrea/0000-0002-1694-612X; Arnaboldi, Valerio/0000-0002-2563-5374
+FU European Research Council Advanced grant [295663]; European Research
+   Council (ERC) [295663] Funding Source: European Research Council (ERC)
+FX RD's research is supported by a European Research Council Advanced grant
+   (grant No. 295663).
+CR AKAIKE H, 1974, IEEE T AUTOMAT CONTR, VAC19, P716, DOI 10.1109/TAC.1974.1100705
+   Arnaboldi V, 2013, IEEE INFOCOM SER, P3459
+   Arnaboldi V, 2013, COMPUT COMMUN, V36, P1130, DOI 10.1016/j.comcom.2013.03.003
+   Arnaboldi V, 2012, PROCEEDINGS OF 2012 ASE/IEEE INTERNATIONAL CONFERENCE ON PRIVACY, SECURITY, RISK AND TRUST AND 2012 ASE/IEEE INTERNATIONAL CONFERENCE ON SOCIAL COMPUTING (SOCIALCOM/PASSAT 2012), P31, DOI 10.1109/SocialCom-PASSAT.2012.41
+   Burgess R.L., 1979, SOCIAL EXCHANGE DEV
+   Curry O, 2013, BRIT J PSYCHOL, V104, P283, DOI 10.1111/j.2044-8295.2012.02119.x
+   Dunbar RIM, 2012, PHILOS T R SOC B, V367, P1837, DOI 10.1098/rstb.2011.0217
+   Dunbar R. I. M., 2011, OXFORD HDB SOCIAL NE, DOI DOI 10.1093/OXFORDHB/9780195342161.013.0003
+   DUNBAR RIM, 1993, BEHAV BRAIN SCI, V16, P681, DOI 10.1017/S0140525X00032325
+   DUNBAR RIM, 1995, HUM NATURE-INT BIOS, V6, P273, DOI 10.1007/BF02734142
+   DUNBAR RIM, 1992, J HUM EVOL, V22, P469, DOI 10.1016/0047-2484(92)90081-J
+   Ester M., 1996, KDD-96 Proceedings. Second International Conference on Knowledge Discovery and Data Mining, P226
+   Gonçalves B, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0022656
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Haerter JO, 2012, PHYS REV LETT, V109, DOI 10.1103/PhysRevLett.109.168701
+   Hamilton MJ, 2007, P ROY SOC B-BIOL SCI, V274, P2195, DOI 10.1098/rspb.2007.0564
+   Hill RA, 2003, HUM NATURE-INT BIOS, V14, P53, DOI 10.1007/s12110-003-1016-y
+   Joffe TH, 1997, P ROY SOC B-BIOL SCI, V264, P1303, DOI 10.1098/rspb.1997.0180
+   Kanai R, 2012, P ROY SOC B-BIOL SCI, V279, P1327, DOI 10.1098/rspb.2011.1959
+   Kinderman P, 1998, BRIT J PSYCHOL, V89, P191, DOI 10.1111/j.2044-8295.1998.tb02680.x
+   Kriegel HP, 2011, WIRES DATA MIN KNOWL, V1, P231, DOI 10.1002/widm.30
+   Lewis PA, 2011, NEUROIMAGE, V57, P1624, DOI 10.1016/j.neuroimage.2011.05.030
+   Miritello G, 2013, SOC NETWORKS, V35, P89, DOI 10.1016/j.socnet.2013.01.003
+   Pollet TV, 2011, J INDIVID DIFFER, V32, P161, DOI 10.1027/1614-0001/a000048
+   Pollet TV, 2011, CYBERPSYCH BEH SOC N, V14, P253, DOI 10.1089/cyber.2010.0161
+   Powell J, 2012, P ROY SOC B-BIOL SCI, V279, P2157, DOI 10.1098/rspb.2011.2574
+   Roberts SGB, 2009, SOC NETWORKS, V31, P138, DOI 10.1016/j.socnet.2008.12.002
+   Roberts SGB, 2011, EVOL HUM BEHAV, V32, P186, DOI 10.1016/j.evolhumbehav.2010.08.005
+   Sallet J, 2013, J NEUROSCI, V33, P12255, DOI 10.1523/JNEUROSCI.5108-12.2013
+   Saramäki J, 2014, P NATL ACAD SCI USA, V111, P942, DOI 10.1073/pnas.1308540110
+   Stiller J, 2007, SOC NETWORKS, V29, P93, DOI 10.1016/j.socnet.2006.04.001
+   Sutcliffe A, 2012, BRIT J PSYCHOL, V103, P149, DOI 10.1111/j.2044-8295.2011.02061.x
+   Viswanath B, 2009, 2ND ACM SIGCOMM WORKSHOP ON ONLINE SOCIAL NETWORKS (WOSN 09), P37
+   Wang HZ, 2011, R J, V3, P29, DOI 10.32614/rj-2011-015
+   Wilson C, 2012, ACM T WEB, V6, DOI 10.1145/2382616.2382620
+   Zhou WX, 2005, P ROY SOC B-BIOL SCI, V272, P439, DOI 10.1098/rspb.2004.2970
+NR 36
+TC 241
+Z9 267
+U1 3
+U2 159
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD OCT
+PY 2015
+VL 43
+BP 39
+EP 47
+DI 10.1016/j.socnet.2015.04.005
+PG 9
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA CN7PL
+UT WOS:000358626400004
+OA Green Submitted, hybrid
+HC Y
+HP N
+DA 2024-11-22
+ER
+
+PT J
+AU Wong, LHH
+   Gygax, AF
+   Wang, P
+AF Wong, Ling Heng Henry
+   Gygax, Andre F.
+   Wang, Peng
+TI Board interlocking network and the design of executive compensation
+   packages
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Board interlocking network; Homophily; Imitation; Structural p*
+   modeling; Executive compensation
+ID CORPORATE GOVERNANCE; UNITED-STATES; INTERORGANIZATIONAL IMITATION;
+   STATISTICAL-MECHANICS; LOGISTIC REGRESSIONS; SOCIAL NETWORKS;
+   LOGIT-MODELS; CEO PAY; AGENCY; OWNERSHIP
+AB The standard approach used to model interlocks in the business and management literature is to treat each interlock of a network as an independent data point. However, such an approach ignores the complex inter-dependencies among the common director interlocks. We propose that an interlocking board network is an important inter-corporate setting that has bearing on how company boards make corporate decisions. Using a sample of 725 large U.S.-based public companies over the period 2007-2010, board member information, executive compensation information, and exponential random graph modeling (ERGM) techniques for social networks, we present evidence that board interlocks are positively linked with similarities in the design of executive compensation packages in interlocked firms, particularly the proportions of the options component. We also find evidence that board interlocks are positively linked with similarities in a number of board characteristics. (C) 2014 Elsevier B.V. All rights reserved.
+C1 [Wong, Ling Heng Henry] Univ Melbourne, Victorian Funds Management Corp, Melbourne, Vic 3010, Australia.
+   [Wong, Ling Heng Henry; Gygax, Andre F.] Univ Melbourne, Dept Finance, Melbourne, Vic 3010, Australia.
+   [Wang, Peng] Univ Melbourne, Melbourne Sch Psychol Sci, Melbourne, Vic 3010, Australia.
+C3 University of Melbourne; University of Melbourne; University of
+   Melbourne
+RP Gygax, AF (corresponding author), Univ Melbourne, Dept Finance, Melbourne, Vic 3010, Australia.
+EM agygax@unimelb.edu.au
+RI Gygax, André/C-5733-2009; Wang, Peng/AAV-7760-2021; Gygax, Andre
+   F./D-8015-2011; Wong, Ling Heng Henry/P-2280-2014
+OI Wang, Peng/0000-0002-7701-561X; Gygax, Andre F./0000-0001-7265-9400;
+   Wong, Ling Heng Henry/0000-0002-3998-1147
+CR Adams RB, 2009, J FINANC ECON, V94, P291, DOI 10.1016/j.jfineco.2008.10.007
+   ALCHIAN AA, 1972, AM ECON REV, V62, P777
+   ALLEN MP, 1978, SOC SCI QUART, V58, P597
+   ALLEN MP, 1974, AM SOCIOL REV, V39, P393, DOI 10.2307/2094297
+   Anderson S., 2011, EXECUTIVE EXCESS
+   [Anonymous], 2002, J. Social Struct
+   Arrow Kenneth., 1971, Essays in the Theory of Risk Bearing
+   Bebchuk L, 2005, OXFORD REV ECON POL, V21, P283, DOI 10.1093/oxrep/gri017
+   BEBCHUK LA, 1990, CALIF LAW REV, V78, P1071, DOI 10.2307/3480745
+   Bebchuk LA, 2003, J ECON PERSPECT, V17, P71, DOI 10.1257/089533003769204362
+   Bebchuk LA, 2002, U CHICAGO LAW REV, V69, P751, DOI 10.2307/1600632
+   Bebchuk LA, 2006, ACAD MANAGE PERSPECT, V20, P5, DOI 10.5465/AMP.2006.19873407
+   Belliveau MA, 1996, ACAD MANAGE J, V39, P1568, DOI 10.5465/257069
+   Berle AdolfA., 1991, MODERN CORPORATION P
+   BESAG J, 1974, J ROY STAT SOC B MET, V36, P192
+   Bizjak J, 2009, REV FINANC STUD, V22, P4821, DOI 10.1093/rfs/hhn120
+   Bollobas B, 1998, Modern Graph Theory
+   Bollobas B., 1985, RANDOM GRAPHS
+   Bryan S, 2000, J BUS, V73, P661, DOI 10.1086/209658
+   Burt R.S., 1983, CORPORATE PROFITS CO
+   Cai Y, 2012, J FINANC ECON, V103, P327, DOI 10.1016/j.jfineco.2011.05.017
+   Carter ME, 2007, ACCOUNT REV, V82, P327, DOI 10.2308/accr.2007.82.2.327
+   Cohen L, 2008, J POLIT ECON, V116, P951, DOI 10.1086/592415
+   Cohen L, 2010, J FINANC, V65, P1409, DOI 10.1111/j.1540-6261.2010.01574.x
+   Core JE, 1999, J FINANC ECON, V51, P371, DOI 10.1016/S0304-405X(98)00058-0
+   Davis G. F., 2003, Strategic Organization, V1, P301, DOI 10.1177/14761270030013002
+   DAVIS GF, 1991, ADMIN SCI QUART, V36, P583, DOI 10.2307/2393275
+   Diestel R, 2000, J GRAPH THEOR, V35, P273, DOI 10.1002/1097-0118(200012)35:4<273::AID-JGT4>3.0.CO;2-B
+   DIMAGGIO PJ, 1983, AM SOCIOL REV, V48, P147, DOI 10.2307/2095101
+   DiPrete TA, 2010, AM J SOCIOL, V115, P1671, DOI 10.1086/652297
+   DOOLEY PC, 1969, AM ECON REV, V59, P314
+   EISENHARDT KM, 1989, ACAD MANAGE REV, V14, P57, DOI 10.2307/258191
+   Erdos P., 1959, PUBL MATH-DEBRECEN, V6, P290
+   FAMA EF, 1980, J POLIT ECON, V88, P288, DOI 10.1086/260866
+   FAMA EF, 1983, J LAW ECON, V26, P327, DOI 10.1086/467038
+   Farkas I, 2004, LECT NOTES PHYS, V650, P163
+   Fich EM, 2005, J CORP FINANC, V11, P175, DOI 10.1016/j.jcorpfin.2003.06.002
+   FRANK O, 1986, J AM STAT ASSOC, V81, P832, DOI 10.2307/2289017
+   Gabaix X, 2008, Q J ECON, V123, P49, DOI 10.1162/qjec.2008.123.1.49
+   GALASKIEWICZ J, 1989, ADMIN SCI QUART, V34, P454, DOI 10.2307/2393153
+   Gale DM, 2007, AM ECON REV, V97, P99, DOI 10.1257/aer.97.2.99
+   GAREN JE, 1994, J POLIT ECON, V102, P1175, DOI 10.1086/261967
+   Geletkanycz MA, 2001, STRATEGIC MANAGE J, V22, P889, DOI 10.1002/smj.172
+   GRANOVETTER M, 1985, AM J SOCIOL, V91, P481, DOI 10.1086/228311
+   GROSSMAN SJ, 1983, ECONOMETRICA, V51, P7, DOI 10.2307/1912246
+   Hall BJ, 1998, Q J ECON, V113, P653, DOI 10.1162/003355398555702
+   Hallen BL, 2008, ADMIN SCI QUART, V53, P685, DOI 10.2189/asqu.53.4.685
+   Hallock K.F., 1998, EC EXECUTIVE COMPENS
+   Haunschild PR, 1997, ADMIN SCI QUART, V42, P472, DOI 10.2307/2393735
+   HAUNSCHILD PR, 1993, ADMIN SCI QUART, V38, P564, DOI 10.2307/2393337
+   Haunschild PR, 1998, ADMIN SCI QUART, V43, P815, DOI 10.2307/2393617
+   Hermalin BE, 1998, AM ECON REV, V88, P96
+   Hilferding Rudolf., 1910, Das Finanzkapital. Eine Studie ber die jngste Entwicklung des Kapitalismus
+   Hochberg YV, 2007, J FINANC, V62, P251, DOI 10.1111/j.1540-6261.2007.01207.x
+   Holmstrom B, 2001, J ECON PERSPECT, V15, P121, DOI 10.1257/jep.15.2.121
+   HOLMSTROM B, 1982, BELL J ECON, V13, P324, DOI 10.2307/3003457
+   Janson S., 2011, WIL INT S D
+   JENSEN MC, 1976, J FINANC ECON, V3, P305, DOI 10.1016/0304-405X(76)90026-X
+   JENSEN MC, 1983, J FINANC ECON, V11, P5, DOI 10.1016/0304-405X(83)90004-1
+   JENSEN MC, 1990, HARVARD BUS REV, V68, P138
+   Kotz DavidM., 1978, Bank Control of Large Corporations in the United States
+   Kuhnen CM, 2009, J FINANC, V64, P2185, DOI 10.1111/j.1540-6261.2009.01498.x
+   Leitner Y, 2005, J FINANC, V60, P2925, DOI 10.1111/j.1540-6261.2005.00821.x
+   LEVITT B, 1988, ANNU REV SOCIOL, V14, P319, DOI 10.1146/annurev.so.14.080188.001535
+   Lorsch JW, 1989, Pawns or potentates: The reality of America's boards
+   Mace M., 1971, Directors: myth and reality
+   March J.G., 1984, SCANDINAVIAN J MANAG, V1, P53
+   MARIOLIS P, 1982, ADMIN SCI QUART, V27, P571, DOI 10.2307/2392531
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   MIRRLEES JA, 1976, BELL J ECON, V7, P105, DOI 10.2307/3003192
+   Mizruchi M.S., 1982, The American corporate network
+   Mizruchi MS, 1996, ANNU REV SOCIOL, V22, P271, DOI 10.1146/annurev.soc.22.1.271
+   MIZRUCHI MS, 1988, ADMIN SCI QUART, V33, P194, DOI 10.2307/2393055
+   Murphy K.J., 1998, Handbook of Labor Economics
+   Murphy K.J., 2003, MANAGERIAL CAP UNPUB
+   Murphy KJ, 2004, AM ECON REV, V94, P192, DOI 10.1257/0002828041302262
+   Murphy KJ, 2000, J ACCOUNT ECON, V30, P245, DOI 10.1016/S0165-4101(01)00013-1
+   PALMER D, 1983, ADMIN SCI QUART, V28, P40, DOI 10.2307/2392384
+   PALMER DA, 1993, ADMIN SCI QUART, V38, P100, DOI 10.2307/2393256
+   Park J, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.066117
+   Pattison P, 1999, BRIT J MATH STAT PSY, V52, P169, DOI 10.1348/000711099159053
+   Pennings J.M., 1980, Interlocking Directorates
+   Perlo Victor., 1957, EMPIRE HIGH FINANCE
+   Perry T., 2000, TUCK JFE CONT CORP G
+   PFEFFER J, 1972, ADMIN SCI QUART, V17, P218, DOI 10.2307/2393956
+   Pfeffer J., 1978, EXTERNAL CONTROL ORG
+   Pittinsky M, 2013, SOC SCI RES, V42, P1675, DOI 10.1016/j.ssresearch.2013.07.013
+   RAJAGOPALAN N, 1992, STRATEGIC MANAGE J, V13, P127, DOI 10.1002/smj.4250131010
+   RAPOPORT ANATOL, 1953, BULL MATH BIOPHYS, V15, P523, DOI 10.1007/BF02476440
+   Robins G., 2004, Computational & Mathematical Organization Theory, V10, P69, DOI 10.1023/B:CMOT.0000032580.12184.c0
+   Robins G, 2001, PSYCHOMETRIKA, V66, P161, DOI 10.1007/BF02294834
+   Robins G, 2001, SOC NETWORKS, V23, P1, DOI 10.1016/S0378-8733(01)00029-6
+   Robins G, 1999, PSYCHOMETRIKA, V64, P371, DOI 10.1007/BF02294302
+   Robins G, 2007, SOC NETWORKS, V29, P192, DOI 10.1016/j.socnet.2006.08.003
+   ROSS SA, 1973, AM ECON REV, V63, P134
+   Schweitzer F, 2009, SCIENCE, V325, P422, DOI 10.1126/science.1173644
+   Shivdasani A, 1999, J FINANC, V54, P1829, DOI 10.1111/0022-1082.00168
+   Snijders TAB, 2006, SOCIOL METHODOL, V36, P99, DOI 10.1111/j.1467-9531.2006.00176.x
+   Sorenson O, 2008, ADMIN SCI QUART, V53, P266, DOI 10.2189/asqu.53.2.266
+   Steglich C, 2010, SOCIOL METHODOL, V40, P329, DOI 10.1111/j.1467-9531.2010.01225.x
+   Stokman F., 1985, NETWORKS CORPORATE P
+   USEEM M, 1982, ADMIN SCI QUART, V27, P199, DOI 10.2307/2392300
+   Useem M., 1984, The Inner Circle
+   Wasserman S, 1996, PSYCHOMETRIKA, V61, P401, DOI 10.1007/BF02294547
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   Watts Duncan J., 1999, Small Worlds: The Dynamics of Networks between Order and Randomness
+   Yermack D, 1997, J FINANC, V52, P449, DOI 10.1111/j.1540-6261.1997.tb04809.x
+   ZAJAC EJ, 1988, ACAD MANAGE J, V31, P428, DOI 10.5465/256558
+   ZEITLIN M, 1974, AM J SOCIOL, V79, P1073, DOI 10.1086/225672
+NR 109
+TC 29
+Z9 36
+U1 6
+U2 65
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD MAY
+PY 2015
+VL 41
+BP 85
+EP 100
+DI 10.1016/j.socnet.2014.12.002
+PG 16
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA CE6WO
+UT WOS:000351979100008
+DA 2024-11-22
+ER
+
+PT J
+AU Nabel, LCT
+AF Torres Nabel, Luis Cesar
+TI WHO SCHEDULES ONLINE SOCIAL NETWORKS? The case of Twitter in the
+   movement #<i>YoSoy132</i> in Mexico
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Article
+DE Social Influence; Social Movements; Social Networks; Twitter; #YoSoy132
+ID INTERNET; BEHAVIOR
+AB The article discusses the latest hypothesis that social networks and Internet social influence is spontaneous and accidental, which contradicts the old hypothesis of the initial programming of all social movements from a previously defined strategic influence. The discussion starts from analyzing of the most influential players in the movement #YoSoy132 on social network Twitter in Mexico.
+C1 Univ Pedag Nacl, Unidad Guadalajara, Guadalajara, Jalisco, Mexico.
+RP Nabel, LCT (corresponding author), Univ Pedag Nacl, Unidad Guadalajara, Guadalajara, Jalisco, Mexico.
+EM 7nab.hd@gmail.com
+CR Allagui I, 2011, INT J COMMUN-US, V5, P1435
+   [Anonymous], 1996, COMP PERSPECTIVES SO
+   [Anonymous], 1962, DIFFUSION INNOVATION
+   [Anonymous], 2006, MACH3 SOFTW INT
+   [Anonymous], HOMESTEADING ELECT F
+   [Anonymous], 1994, PUBLIC OPIN Q
+   [Anonymous], 1996, The Rise of the Network Society
+   [Anonymous], 2010, 4 INT AAAI C WEBLOGS
+   [Anonymous], 2003, Six Degrees: The Science of a Connected Age
+   Aouragh M, 2011, INT J COMMUN-US, V5, P1344
+   Berelson B., 1968, The people's choice: How the voter makes up his mind in a presidential campaign
+   Bimber B, 1998, POLITY, V31, P133, DOI 10.2307/3235370
+   Bond RM, 2012, NATURE, V489, P295, DOI 10.1038/nature11421
+   Budge I., 1996, NEW CHALLENGE DIRECT
+   Burt RS, 1999, ANN AM ACAD POLIT SS, V566, P37, DOI 10.1177/0002716299566001004
+   Castells M., 2012, Redes de indignacion y esperanza: Los movimientos sociales en la Era de Internet
+   Castells Manuel., 2009, COMUNICACION PODER
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Constanza-Chock S., 2012, OCCUPY RES
+   De Leon J., 2011, TUNISIA EGYPT UNREST
+   Dertouzos M., 1997, What will be: how the new information marketplace will change our lives
+   Diani M., 2000, Information Communication & Society, V3, P386, DOI 10.1080/13691180051033333
+   Diani M, 2011, SWISS POLIT SCI REV, V17, P469, DOI 10.1111/j.1662-6370.2011.02040.x
+   Eltantawy N, 2011, INT J COMMUN-US, V5, P1207
+   Gladwell M., 2000, TIPPING POINT LITTLE
+   Gonzalez-Bailon S., 2013, 2268165 SSRN
+   Grossman Lawrence., 1995, The Electronic Republic
+   Gunnarson V., 2009, ICELANDS RAINBOW REV
+   Homans G.C., 1967, SOCIOLOGY
+   Keller E., 2003, The influentials: One American in ten tells the other nine how to vote, where to eat, and what to buy
+   Mauleon H., 2012, DE LA RED LAS CALLES
+   McCarthy C., 2008, SEM RED SOC U GUAD
+   Merton RobertK., 1968, Social Theory and Social Structure, P441
+   Morales AJ, 2012, PHYSICA A, V391, P5244, DOI 10.1016/j.physa.2012.05.015
+   Morris AldonD., 2004, BLACKWELL COMPANION, P171, DOI DOI 10.1002/9780470999103.CH8
+   Negroponte N., 1995, Being Digital
+   Newman MEJ, 2001, PHYS REV E, V64, DOI 10.1103/PhysRevE.64.026118
+   Norris P., 1999, DEMOCRACY
+   Pompper D., 2001, REPRESENTING RESISTA, P173
+   Putnam R., 1999, BOWLING ALONE
+   Shapiro AndrewL., 1999, CONTROL REVOLUTION
+   Sunstein C. R., 2001, REPUBLIC COM
+   Tarrow S., 2011, FOREING AFFAIRS 1010
+   Torres L. C., 2010, SOCIOLOGIA TECNOCIEN, V2, P63
+   Torres Nabel L. C., 2013, INVESTIGAR REDES SOC, P192
+   Torres Nabel L. C., 2009, RAZON PALABRA, V70
+   Torres Nabel LC, 2007, CIBEROAMERICA RED ES, P104
+   Torres Nabel Luis César, 2011, Espiral (Guadalaj.), V18, P141
+   Torres Nabel Luis Cesar, 2013, APOSTA REV CIENCIAS, V58
+   Van Alstyne Marshall., 1997, Electronic Communities: Global Village or Cyberbalkans?
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   WATTS D., 2007, WORD MOUTH MARKETING, V3, P202
+   Watts DJ, 2007, J CONSUM RES, V34, P441, DOI 10.1086/518527
+   Wu S., 2011, WORLD WID WEB C COMM
+NR 54
+TC 4
+Z9 4
+U1 0
+U2 21
+PU CONSEJO SUPERIOR INVESTIGACIONES CIENTIFICAS-CSIC
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+EI 1988-429X
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD MAY-AUG
+PY 2015
+VL 73
+IS 2
+AR e010
+DI 10.3989/ris.2013.05.29
+PG 12
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA CN8AO
+UT WOS:000358658700006
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Kryvasheyeu, Y
+   Chen, HH
+   Moro, E
+   Van Hentenryck, P
+   Cebrian, M
+AF Kryvasheyeu, Yury
+   Chen, Haohui
+   Moro, Esteban
+   Van Hentenryck, Pascal
+   Cebrian, Manuel
+TI Performance of Social Network Sensors during Hurricane Sandy
+SO PLOS ONE
+LA English
+DT Article
+ID CLIMATE; SENTIMENT; SCIENCE; RISK
+AB Information flow during catastrophic events is a critical aspect of disaster management. Modern communication platforms, in particular online social networks, provide an opportunity to study such flow and derive early-warning sensors, thus improving emergency preparedness and response. Performance of the social networks sensor method, based on topological and behavioral properties derived from the "friendship paradox", is studied here for over 50 million Twitter messages posted before, during, and after Hurricane Sandy. We find that differences in users' network centrality effectively translate into moderate awareness advantage (up to 26 hours); and that geo-location of users within or outside of the hurricane-affected area plays a significant role in determining the scale of such an advantage. Emotional response appears to be universal regardless of the position in the network topology, and displays characteristic, easily detectable patterns, opening a possibility to implement a simple "sentiment sensing" technique that can detect and locate disasters.
+C1 [Kryvasheyeu, Yury; Chen, Haohui; Van Hentenryck, Pascal; Cebrian, Manuel] Natl Informat & Commun Technol Australia, Melbourne, Vic, Australia.
+   [Moro, Esteban] Univ Carlos III Madrid, Dept Math, Leganas, Spain.
+   [Moro, Esteban] Univ Carlos III Madrid, GISC, Leganas, Spain.
+   [Moro, Esteban] Univ Autonoma Madrid, Inst Ingn Conocimiento, Madrid, Spain.
+   [Van Hentenryck, Pascal] Australian Natl Univ, Res Sch Comp Sci, Canberra, ACT, Australia.
+   [Cebrian, Manuel] Univ Calif San Diego, Dept Comp Sci & Engn, La Jolla, CA 92093 USA.
+C3 Universidad Carlos III de Madrid; Universidad Carlos III de Madrid;
+   Autonomous University of Madrid; Australian National University;
+   University of California System; University of California San Diego
+RP Cebrian, M (corresponding author), Natl Informat & Commun Technol Australia, Melbourne, Vic, Australia.
+EM manuel.cebrian@nicta.com.au
+RI Moro, Esteban/AAB-1159-2019; Chen, Haohui/T-8965-2018
+OI MORO, ESTEBAN/0000-0003-2894-1024; Chen, Haohui/0000-0001-8976-3634;
+   Cebrian, Manuel/0000-0002-3681-7982
+FU Australian Government; Australian Research Council through the ICT
+   Centre of Excellence program; Spanish Ministry of Science and Technology
+   [FIS2013-47532-C3-3-P]; Army Research Laboratory [W911NF-09-2-0053,
+   W911NF-11-1-0363]; National Science Foundation [0905645]; DARPA/Lockheed
+   Martin Guard Dog Programme [PO 4100149822]
+FX Yury Kryvasheyeu, Haohui Chen, Pascal Van Hentenryck and Manuel Cebrian
+   acknowledge the support of the Australian Government represented by the
+   Department of Broadband, Communications and Digital Economy; and the
+   Australian Research Council through the ICT Centre of Excellence
+   program. Esteban Moro acknowledges the support of Spanish Ministry of
+   Science and Technology under grant FIS2013-47532-C3-3-P. This research
+   was also supported by the Army Research Laboratory under Cooperative
+   Agreement Numbers W911NF-09-2-0053 and W911NF-11-1-0363, the National
+   Science Foundation under grant 0905645, and DARPA/Lockheed Martin Guard
+   Dog Programme under PO 4100149822. The funders had no role in study
+   design, data collection and analysis, decision to publish, or
+   preparation of the manuscript.
+CR [Anonymous], 2013, NATL HURRIC CENT
+   [Anonymous], 2001, LINGUISTIC INQUIRY W
+   [Anonymous], 2010, Proceedings of the 19th International Conference on World Wide Web. 00000, DOI [10.1145/1772690.1772777, DOI 10.1145/1772690.1772777]
+   Bagrow JP, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0017680
+   Baker E. J., 1991, Int. J. Mass Emerg. Disasters, V9, P287, DOI [10.1029/2018GL077597, DOI 10.1029/2018GL077597, DOI 10.1177/028072709100900210]
+   Caragea C., 2011, ISCRAM
+   Christakis NA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0012948
+   Cooper S, 2010, NATURE, V466, P756, DOI 10.1038/nature09304
+   Cutter SL, 2008, P NATL ACAD SCI USA, V105, P2301, DOI 10.1073/pnas.0710375105
+   Diffenbaugh NS, 2013, SCIENCE, V341, P486, DOI 10.1126/science.1237123
+   Earle PS, 2011, ANN GEOPHYS-ITALY, V54, P708, DOI 10.4401/ag-5364
+   Eom Y-H, 2014, ARXIV14011458
+   FELD SL, 1991, AM J SOCIOL, V96, P1464, DOI 10.1086/229693
+   Gao L, 2014, SCI REP-UK, V4, DOI 10.1038/srep03997
+   Garcia-Herranz M, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0092413
+   Golder SA, 2011, SCIENCE, V333, P1878, DOI 10.1126/science.1202775
+   Guikema SD, 2009, SCIENCE, V323, P1302, DOI 10.1126/science.1169057
+   Guy M, 2010, LECT NOTES COMPUT SC, V6065, P42
+   Helbing D, 2000, NATURE, V407, P487, DOI 10.1038/35035023
+   Helbing D, 2013, NATURE, V497, P51, DOI 10.1038/nature12047
+   Helbing D, 2012, EPJ DATA SCI, V1, DOI 10.1140/epjds7
+   Hodas NO., 2013, PROC 7 INT AAAI C WE, P225, DOI DOI 10.1609/ICWSM.V7I1.14440
+   Hughes AL, 2009, INT J EMERG MANAG, V6, P248, DOI 10.1504/IJEM.2009.031564
+   Kennedy D, 2002, SCIENCE, V295, P405, DOI 10.1126/science.295.5554.405
+   Kooti Farshad., 2014, Eighth International AAAI Con- ference on Weblogs and Social Media, P266
+   Lazer D, 2009, SCIENCE, V323, P721, DOI 10.1126/science.1167742
+   Li J, 2010, ELECTR J INF SYS DEV, V42
+   Mislove A, 2011, UNDERSTANDING DEMOGR
+   National Hurricane Center, 2013, NHC GIS ARCH TROP CY
+   Nelson Bryn, 2013, Nature, V495, P271
+   Perry RW, 2003, DISASTERS, V27, P336, DOI 10.1111/j.0361-3666.2003.00237.x
+   Pickard G, 2011, SCIENCE, V334, P509, DOI 10.1126/science.1205869
+   Preis T, 2013, SCI REP-UK, V3, DOI 10.1038/srep03141
+   Press F, 1999, SCIENCE, V284, P1927, DOI 10.1126/science.284.5422.1927
+   Quarantelli EnricoLouis., 1980, Evacuation Behavior and Problems: Findings and Implications from the Research Literature
+   Rahwan I, 2013, COMPUTER, V46, P68, DOI 10.1109/MC.2012.295
+   Riad JK, 1999, J APPL SOC PSYCHOL, V29, P918, DOI 10.1111/j.1559-1816.1999.tb00132.x
+   Schiermeier Q, 2006, NATURE, V441, P674, DOI [10.1038/441674a, 10.1038/441674b]
+   Sun LJ, 2014, SCI REP-UK, V4, DOI 10.1038/srep05099
+   Taboada M, 2011, COMPUT LINGUIST, V37, P267, DOI 10.1162/COLI_a_00049
+   Thelwall M, 2010, J AM SOC INF SCI TEC, V61, P2544, DOI 10.1002/asi.21416
+   Tollefson J, 2012, NATURE NEWS, DOI [10.1111/cob.12003, DOI 10.1111/COB.12003]
+   van Aalst MK, 2006, DISASTERS, V30, P5, DOI 10.1111/j.1467-9523.2006.00303.x
+   Vespignani A, 2009, SCIENCE, V325, P425, DOI 10.1126/science.1171990
+   von Ahn L, 2008, SCIENCE, V321, P1465, DOI 10.1126/science.1160379
+   Wang D, 2012, SOCIAL NETWORKS EMER
+   Watts D., 2013, WORKSH CURR KNOWL RE
+NR 47
+TC 85
+Z9 102
+U1 1
+U2 41
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD FEB 18
+PY 2015
+VL 10
+IS 2
+AR e0117288
+DI 10.1371/journal.pone.0117288
+PG 19
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA CC0WZ
+UT WOS:000350061500047
+PM 25692690
+OA Green Submitted, Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Baldassarri, D
+AF Baldassarri, Delia
+TI Cooperative Networks: Altruism, Group Solidarity, Reciprocity, and
+   Sanctioning in Ugandan Producer Organizations
+SO AMERICAN JOURNAL OF SOCIOLOGY
+LA English
+DT Article
+ID RATIONAL CHOICE THEORY; COLLECTIVE-ACTION; PUBLIC-GOODS; FIELD
+   EXPERIMENT; SOCIAL COHESION; UNITED-STATES; EVOLUTION; TRUST;
+   PUNISHMENT; FAIRNESS
+AB Repeated interaction and social networks are commonly considered viable solutions to collective action problems. This article identifies and systematically measures four general mechanismsthat is, generalized altruism, group solidarity, reciprocity, and the threat of sanctioningand tests which of them brings about cooperation in the context of Ugandan producer organizations. Using an innovative methodological framework that combines lab-in-the-field experiments with survey interviews and complete social networks data, the article goes beyond the assessment of a relationship between social networks and collective outcomes to study the mechanisms that favor cooperative behavior. The article first establishes a positive relationship between position in the network structure and propensity to cooperate in the producer organization and then uses farmers' behavior in dictator and public goods games to test different mechanisms that may account for such a relationship. Results show that cooperation is induced by patterns of reciprocity that emerge through repeated interaction rather than other-regarding preferences like altruism or group solidarity.
+C1 [Baldassarri, Delia] Bocconi Univ, Dondena Ctr, New York, NY USA.
+   [Baldassarri, Delia] Bocconi Univ, Princeton Inst Int & Reg Studies, New York, NY USA.
+   [Baldassarri, Delia] NYU, Dept Sociol, New York, NY 10012 USA.
+C3 Princeton University; New York University
+RP Baldassarri, D (corresponding author), NYU, Dept Sociol, 295 Lafayette St,4th Floor, New York, NY 10012 USA.
+EM delia.b@nyu.edu
+RI Baldassarri, Delia/KXA-0663-2024
+OI Baldassarri, Delia/0000-0002-9264-035X
+FU National Science Foundation [SES[IOS]-0924778]; Princeton Institute for
+   International and Regional Studies; Dondena Center at Bocconi University
+FX I am grateful to Alex Barnard, Guy Grossman, Eliana Horn, Sylvie Hoster,
+   Vivian Lu, and our local team of interviewers for excellent research
+   assistance. I thank Maria Abascal, Peter Bearman, Guy Grossman, Mark
+   Lubell, and the AJS reviewers for helpful comments. I gratefully
+   acknowledge support from the National Science Foundation (grant
+   SES[IOS]-0924778), the Princeton Institute for International and
+   Regional Studies, and the Dondena Center at Bocconi University. This
+   work is dedicated to the memory of Jerry Marwell. Direct correspondence
+   to Delia Baldassarri, Department of Sociology, New York University, 295
+   Lafayette Street, 4th Floor, New York, New York, 10012. E-mail:
+   delia.b@nyu.edu
+CR Abascal Maria, 2015, AM SOCIOLOG IN PRESS, V80
+   Adida CL, 2010, P NATL ACAD SCI USA, V107, P22384, DOI 10.1073/pnas.1015550107
+   [Anonymous], 2003, WYE CAMPUS
+   [Anonymous], 2005, Dissecting the Social. On the Principles of Analytical Sociology
+   [Anonymous], 1988, TRUST MAKING BREAKIN
+   [Anonymous], 2009, OXFORD HDB ANAL SOCI
+   [Anonymous], 1998, COMMUNITY ORG BUILDI
+   [Anonymous], 2009, Whom Can We Trust?
+   Apicella CL, 2012, NATURE, V481, P497, DOI 10.1038/nature10736
+   AXELROD R, 1986, AM POLIT SCI REV, V80, P1095, DOI 10.2307/1960858
+   Baldassarri D, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0058750
+   Baldassarri D, 2011, P NATL ACAD SCI USA, V108, P11023, DOI 10.1073/pnas.1105456108
+   Baldassarri Delia., 2009, OXFORD HDB ANAL SOCI, P391
+   Banerjee A. V., 2010, Poor Economics. A Radical Rethinking of the Way to Fight Global Poverty
+   Barr A, 2003, ECON J, V113, P614, DOI 10.1111/1468-0297.t01-1-00150
+   Barr A, 2009, J ECON BEHAV ORGAN, V72, P225, DOI 10.1016/j.jebo.2009.07.006
+   Bates R.H., 1981, MARKETS STATES TROPI
+   Bearman P, 1997, AM J SOCIOL, V102, P1383, DOI 10.1086/231087
+   BEARMAN PS, 1991, SOC FORCES, V70, P321, DOI 10.2307/2580242
+   Bingen J, 2003, FOOD POLICY, V28, P405, DOI 10.1016/j.foodpol.2003.08.007
+   Bohnet I, 1999, AM ECON REV, V89, P335, DOI 10.1257/aer.89.1.335
+   BONACICH P, 1972, J MATH SOCIOL, V2, P113, DOI 10.1080/0022250X.1972.9989806
+   Brañas-Garza P, 2010, GAME ECON BEHAV, V69, P249, DOI 10.1016/j.geb.2009.10.014
+   Broadbent J., 2003, Social Movements and Networks: Relational Approaches to Collective Action
+   Burt R.S., 2007, Brokerage and closure: An introduction to social capital
+   Burt RS, 2000, RES ORGAN BEHAV, V22, P345, DOI 10.1016/S0191-3085(00)22009-1
+   Burt RS, 2004, AM J SOCIOL, V110, P349, DOI 10.1086/421787
+   Camerer CF., 2003, BEHAV GAME THEORY EX
+   Carpenter JP, 2004, URBAN STUD, V41, P853, DOI 10.1080/0042098042000194142
+   Carrol T.F., 2001, SOCIAL CAPITAL LOCAL
+   Chen Y, 2009, AM ECON REV, V99, P431, DOI 10.1257/aer.99.1.431
+   Coleman J.S., 1994, FDN SOCIAL THEORY
+   Coleman JamesS., 1989, RATION SOC, V1, P5
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   Collier P., 1998, WORKING PAPER
+   Cook K.S., 2009, Whom Can We Trust? How Groups, Networks, and Institutions Make Trust Possible
+   D'Exelle Ben, 2010, 5356 IZA I STUD LAB
+   DEININGER K, 1995, WORLD DEV, V23, P1317, DOI 10.1016/0305-750X(95)00044-D
+   Durkheim Emile., 1964, DIVISION LABOUR SOC
+   Durlauf SN, 2005, HANDB ECON, V22, P1639
+   Elster Jon, 2007, Explaining social behavior: more nuts and bolts for the social sciences
+   Elster Jon., 1989, CEMENT SOC
+   Ermisch J, 2010, J ECON BEHAV ORGAN, V75, P365, DOI 10.1016/j.jebo.2010.05.007
+   Fafchamps M, 1999, J DEV STUD, V35, P1, DOI 10.1080/00220389908422600
+   Farrell J, 1996, J ECON PERSPECT, V10, P103, DOI 10.1257/jep.10.3.103
+   Fearon JD, 2009, AM ECON REV, V99, P287, DOI 10.1257/aer.99.2.287
+   Fehr E, 2002, NATURE, V415, P137, DOI 10.1038/415137a
+   Fehr E, 1999, Q J ECON, V114, P817, DOI 10.1162/003355399556151
+   Fehr E, 2007, ANNU REV SOCIOL, V33, P43, DOI 10.1146/annurev.soc.33.040406.131812
+   Fershtman C, 2001, Q J ECON, V116, P351, DOI 10.1162/003355301556338
+   Fischbacher U, 2001, ECON LETT, V71, P397, DOI 10.1016/S0165-1765(01)00394-9
+   Foley MW, 1996, J DEMOCR, V7, P38, DOI 10.1353/jod.1996.0048
+   FRANK RH, 1993, ETHOL SOCIOBIOL, V14, P247, DOI 10.1016/0162-3095(93)90020-I
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   Fukuyama F., 1995, TRUST
+   Gambetta Diego., 2005, Making Sense of Suicide Missions
+   Gilligan MJ, 2014, AM J POLIT SCI, V58, P604, DOI 10.1111/ajps.12067
+   Gintis H., 2005, Moral sentiments and material interests: the foundations of cooperation in economic life, V6
+   Goeree JK, 2010, AM ECON J-MICROECON, V2, P183, DOI 10.1257/mic.2.1.183
+   Goette L, 2006, AM ECON REV, V96, P212, DOI 10.1257/000282806777211658
+   Goette Lorenz, 2012, 5189 IZA I STUD LAB
+   Gould Roger V., 1995, Insurgent Identities: Class, Community, and Protest in Paris from 1848 to the Commune
+   GOULD RV, 1993, AM SOCIOL REV, V58, P182, DOI 10.2307/2095965
+   GRANOVETTER M, 1978, AM J SOCIOL, V83, P1420, DOI 10.1086/226707
+   GRANOVETTER M, 1985, AM J SOCIOL, V91, P481, DOI 10.1086/228311
+   GREIF A, 1993, AM ECON REV, V83, P525
+   Grootaert C., 2002, Understanding and Measuring Social Capital: A Multidisciplinary Tool for Practitioners
+   Grossman G, 2012, AM J POLIT SCI, V56, P964, DOI 10.1111/j.1540-5907.2012.00596.x
+   Habyarimana J, 2007, AM POLIT SCI REV, V101, P709, DOI 10.1017/S0003055407070499
+   HARDIN G, 1968, SCIENCE, V162, P1243, DOI 10.1126/science.162.3859.1243
+   Heckathorn DD, 1996, AM SOCIOL REV, V61, P250, DOI 10.2307/2096334
+   HECKATHORN DD, 1990, AM SOCIOL REV, V55, P366, DOI 10.2307/2095762
+   Henrich J, 2001, AM ECON REV, V91, P73, DOI 10.1257/aer.91.2.73
+   Henrich J, 2006, SCIENCE, V312, P1767, DOI 10.1126/science.1127333
+   Henrich J, 2010, SCIENCE, V327, P1480, DOI 10.1126/science.1182238
+   Herrmann B, 2008, SCIENCE, V319, P1362, DOI 10.1126/science.1153808
+   Hussi P., 1993, DEV COOPERATIVES OTH
+   Isham J, 2000, WORKING PAPER
+   Jones D, 2010, SCIENCE, V328, P1627, DOI 10.1126/science.328.5986.1627
+   Karlan DS, 2005, AM ECON REV, V95, P1688, DOI 10.1257/000282805775014407
+   Khandker S.R., 1998, FIGHTING POVERTY MIC
+   Kim HJ, 1997, AM SOCIOL REV, V62, P70, DOI 10.2307/2657453
+   Konow J, 2010, J PUBLIC ECON, V94, P279, DOI 10.1016/j.jpubeco.2009.11.008
+   Krishna A, 2002, COMP POLIT STUD, V35, P437, DOI 10.1177/0010414002035004003
+   Kroneberg C, 2012, ANNU REV SOCIOL, V38, P73, DOI 10.1146/annurev-soc-071811-145441
+   Leider S, 2009, Q J ECON, V124, P1815, DOI 10.1162/qjec.2009.124.4.1815
+   Levitt SD, 2007, J ECON PERSPECT, V21, P153, DOI 10.1257/jep.21.2.153
+   Lin N., 2000, Social capital: A theory of structure and action
+   Lubell M, 2001, AM J POLIT SCI, V45, P160, DOI 10.2307/2669365
+   MACY MW, 1991, AM SOCIOL REV, V56, P730, DOI 10.2307/2096252
+   MARWELL G, 1979, AM J SOCIOL, V84, P1335, DOI 10.1086/226937
+   Marwell G, 1993, The critical mass in collective action
+   McAdam Doug, 1986, AM J SOCIOL, V92, P253
+   Merton R. K., 1957, SOCIAL THEORY SOCIAL
+   Molm LD, 2010, SOC PSYCHOL QUART, V73, P119, DOI 10.1177/0190272510369079
+   Narayan-Parker D., 2002, Empowerment and poverty reduction
+   Nee Victor., 2012, Capitalism from below: Markets and Institutional Change in China
+   Nowak MA, 2005, NATURE, V437, P1291, DOI 10.1038/nature04131
+   Obershall A., 1973, SOCIAL CONFLICT SOCI
+   Olson M., 1965, The logic of collective action
+   Opp KD, 1999, J THEOR POLIT, V11, P171, DOI 10.1177/0951692899011002002
+   Ostrom E, 2005, UNDERSTANDING INSTITUTIONAL DIVERSITY, P1
+   Ostrom E, 1998, AM POLIT SCI REV, V92, P1, DOI 10.2307/2585925
+   OSTROM E, 1992, AM POLIT SCI REV, V86, P404, DOI 10.2307/1964229
+   Ostrom E, 2000, J ECON PERSPECT, V14, P137, DOI 10.1257/jep.14.3.137
+   Ostrom E., 1992, CRAFTING I SELF GOVE
+   Ostrom E, 2010, J ECON BEHAV ORGAN, V73, P68, DOI 10.1016/j.jebo.2008.11.008
+   Polanyi Karl., 2001, The Great Transformation: The Political and Economic Origins of Our Time, V2nd
+   Portes A, 1998, ANNU REV SOCIOL, V24, P1, DOI 10.1146/annurev.soc.24.1.1
+   Poteete AR, 2010, WORKING TOGETHER: COLLECTIVE ACTION, THE COMMONS, AND MULTIPLE METHODS IN PRACTICE, P1
+   Putnam R., 1999, BOWLING ALONE
+   Ruttan LM, 2008, WORLD DEV, V36, P969, DOI 10.1016/j.worlddev.2007.05.005
+   Scholz JT, 1997, AM J POLIT SCI, V41, P693, DOI 10.2307/2111672
+   Sigmund K, 2007, TRENDS ECOL EVOL, V22, P593, DOI 10.1016/j.tree.2007.06.012
+   Sobel J, 2002, J ECON LIT, V40, P139
+   Staatz JohnM., 1987, J AGR COOPERATION, V2, P74
+   Tafjel H., 1979, SOCIAL PSYCHOL INTER, P33
+   TRIVERS RL, 1971, Q REV BIOL, V46, P35, DOI 10.1086/406755
+   Uzzi B, 1996, AM SOCIOL REV, V61, P674, DOI 10.2307/2096399
+   Watts DJ, 2007, J CONSUM RES, V34, P441, DOI 10.1086/518527
+   Weber Max., 2006, PROTESTANT ETHIC SPI
+   Whitt S, 2007, AM J POLIT SCI, V51, P655, DOI 10.1111/j.1540-5907.2007.00273.x
+   Willer R, 2009, AM SOCIOL REV, V74, P23, DOI 10.1177/000312240907400102
+   Woolcock M, 1998, THEOR SOC, V27, P151, DOI 10.1023/A:1006884930135
+   Yamagishi T, 2011, SCI MIND, P1, DOI 10.1007/978-4-431-53936-0
+   Yamagishi T, 1998, AM J SOCIOL, V104, P165, DOI 10.1086/210005
+   YAMAGISHI T, 1993, SOC PSYCHOL QUART, V56, P235, DOI 10.2307/2786661
+   Yunus M, 1998, BANKER OF THE POOR
+NR 128
+TC 73
+Z9 82
+U1 4
+U2 85
+PU UNIV CHICAGO PRESS
+PI CHICAGO
+PA 1427 E 60TH ST, CHICAGO, IL 60637-2954 USA
+SN 0002-9602
+EI 1537-5390
+J9 AM J SOCIOL
+JI Am. J. Sociol.
+PD SEP
+PY 2015
+VL 121
+IS 2
+BP 355
+EP 395
+DI 10.1086/682418
+PG 41
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA CT5HZ
+UT WOS:000362840900001
+PM 26594712
+DA 2024-11-22
+ER

@@ -1,0 +1,504 @@
+
+PT J
+AU Psorakis, I
+   Roberts, SJ
+   Rezek, I
+   Sheldon, BC
+AF Psorakis, Ioannis
+   Roberts, Stephen J.
+   Rezek, Iead
+   Sheldon, Ben C.
+TI Inferring social network structure in ecological systems from
+   spatio-temporal data streams
+SO JOURNAL OF THE ROYAL SOCIETY INTERFACE
+LA English
+DT Article
+DE network analysis; spatio-temporal data streams; animal social networks
+AB We propose a methodology for extracting social network structure from spatio-temporal datasets that describe timestamped occurrences of individuals. Our approach identifies temporal regions of dense agent activity and links are drawn between individuals based on their co-occurrences across these 'gathering events'. The statistical significance of these connections is then tested against an appropriate null model. Such a framework allows us to exploit the wealth of analytical and computational tools of network analysis in settings where the underlying connectivity pattern between interacting agents (commonly termed the adjacency matrix) is not given a priori. We perform experiments on two large-scale datasets (greater than 10(6) points) of great tit Parus major wild bird foraging records and illustrate the use of this approach by examining the temporal dynamics of pairing behaviour, a process that was previously very hard to observe. We show that established pair bonds are maintained continuously, whereas new pair bonds form at variable times before breeding, but are characterized by a rapid development of network proximity. The method proposed here is general, and can be applied to any system with information about the temporal co-occurrence of interacting agents.
+C1 [Psorakis, Ioannis; Roberts, Stephen J.; Rezek, Iead] Univ Oxford, Pattern Anal & Machine Learning Res Grp, Oxford, England.
+   [Psorakis, Ioannis; Sheldon, Ben C.] Univ Oxford, Edward Grey Inst, Oxford, England.
+C3 University of Oxford; University of Oxford
+RP Psorakis, I (corresponding author), Univ Oxford, Pattern Anal & Machine Learning Res Grp, Oxford, England.
+EM ioannis.psorakis@eng.ox.ac.uk
+RI Sheldon, Ben/A-8056-2010
+OI Sheldon, Ben/0000-0002-5240-7828
+FU National Environment Research Council [NE/D011744/1]; European Research
+   Council [AdG 250164]; Microsoft Research European PhD scholarship; UK
+   Research Council for project 'Orchid' [EP/I011587/1]; EPSRC
+   [EP/I011587/1] Funding Source: UKRI; NERC [NE/D011744/1] Funding Source:
+   UKRI
+FX The authors are grateful to Simon Evans, Ada Grabowska and particularly
+   Teddy Wilkin for data collection, and to the National Environment
+   Research Council (NE/D011744/1) and the European Research Council (AdG
+   250164) for funding aspects of the work. Ioannis Psorakis is funded by a
+   Microsoft Research European PhD scholarship, for which we are most
+   grateful. Additionally, we gratefully acknowledge funding from the UK
+   Research Council for project 'Orchid', grant EP/I011587/1. Finally, we
+   warmly thank the reviewers for their constructive comments and
+   evaluation.
+CR Barrat A, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.066149
+   Buchanan M, 2010, PHYS WORLD, V23, P22
+   Fortunato S, 2010, PHYS REP, V486, P75, DOI 10.1016/j.physrep.2009.11.002
+   Franz M, 2009, P R SOC B, V276, P1829, DOI 10.1098/rspb.2008.1824
+   Gero S, 2009, BEHAV ECOL, V20, P838, DOI 10.1093/beheco/arp068
+   GINSBERG JR, 1992, ANIM BEHAV, V44, P377, DOI 10.1016/0003-3472(92)90042-8
+   Krause J, 2009, BEHAV ECOL SOCIOBIOL, V63, P967, DOI 10.1007/s00265-009-0747-0
+   Krings G., 2012, EFFECTS TIME WINDOW
+   Lauw H. W., 2005, Computational & Mathematical Organization Theory, V11, P97, DOI 10.1007/s10588-005-3939-9
+   LILLIEFORS HW, 1967, J AM STAT ASSOC, V62, P399, DOI 10.2307/2283970
+   Newman M., 2010, NETWORKS INTRO, DOI 10.1162/artl_r_00062
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   Oh KP, 2010, AM NAT, V176, pE80, DOI 10.1086/655216
+   Porter M. A., 2009, Notices of the AMS, V56, P1082
+   Psorakis I, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.066114
+   Rosvall M., 2006, Information horizons in a complex world
+   Wey T, 2008, ANIM BEHAV, V75, P333, DOI 10.1016/j.anbehav.2007.06.020
+   Whitehead H, 1999, ADV STUD BEHAV, V28, P33, DOI 10.1016/S0065-3454(08)60215-6
+   Whitehead H., 2008, ANAL ANIMAL SOC, DOI 10.7208/chicago/9780226895246.001.0001
+   Zuberbühler K, 2009, ADV STUD BEHAV, V40, P277, DOI 10.1016/S0065-3454(09)40008-1
+NR 20
+TC 122
+Z9 140
+U1 2
+U2 50
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 1742-5689
+EI 1742-5662
+J9 J R SOC INTERFACE
+JI J. R. Soc. Interface
+PD NOV 7
+PY 2012
+VL 9
+IS 76
+BP 3055
+EP 3066
+DI 10.1098/rsif.2012.0223
+PG 12
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 012XD
+UT WOS:000309269100027
+PM 22696481
+OA Green Published, Bronze
+DA 2024-11-22
+ER
+
+PT J
+AU Schneider, J
+   Dickinson, MH
+   Levine, JD
+AF Schneider, Jonathan
+   Dickinson, Michael H.
+   Levine, Joel D.
+TI Social structures depend on innate determinants and chemosensory
+   processing in <i>Drosophila</i>
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE social network; emergent phenotypes; complex systems
+ID MATING-BEHAVIOR; MELANOGASTER
+AB Flies display transient social interactions in groups. However, whether fly-fly interactions are stochastic or structured remains unknown. We hypothesized that groups of flies exhibit patterns of social dynamics that would manifest as nonrandom social interaction networks. To test this, we applied a machine vision system to track the position and orientation of flies in an arena and designed a classifier to detect interactions between pairs of flies. We show that the vinegar fly, Drosophila melanogaster, forms nonrandom social interaction networks, distinct from virtual network controls (constructed from the intersections of individual locomotor trajectories). In addition, the formation of interaction networks depends on chemosensory cues. Gustatory mutants form networks that cannot be distinguished from their virtual network controls. Olfactory mutants form networks that are greatly disrupted compared with control flies. Different wild-type strains form social interaction networks with quantitatively different properties, suggesting that the genes that influence this network phenotype vary across and within wild-type populations. We have established a paradigm for studying social behaviors at a group level in Drosophila and expect that a genetic dissection of this phenomenon will identify conserved molecular mechanisms of social organization in other species.
+C1 [Schneider, Jonathan; Levine, Joel D.] Univ Toronto, Dept Biol, Mississauga, ON L5L 1C6, Canada.
+   [Dickinson, Michael H.] Univ Washington, Dept Biol, Seattle, WA 98195 USA.
+C3 University of Toronto; University Toronto Mississauga; University of
+   Washington; University of Washington Seattle
+RP Levine, JD (corresponding author), Univ Toronto, Dept Biol, Mississauga, ON L5L 1C6, Canada.
+EM joel.levine@utoronto.ca
+RI Schneider, Jonathan/N-1916-2013
+OI Schneider, Jonathan/0000-0003-1114-618X
+FU Canada Research Chair; Canadian Institutes of Health Research; National
+   Sciences and Engineering Research Council of Canada; National Science
+   Foundation [0623527]; Emerging Frontiers; Direct For Biological Sciences
+   [0623527] Funding Source: National Science Foundation
+FX We thank Jean-Christoph Billeter, Jayed Atallah, Rebecca Rooke, Altaf
+   Ramji, Carl Bergstrom, Phillip Kim, Laurent Keller, Bruce Schneider,
+   Andrew Straw, and Kristin Branson for their suggestions and discussion.
+   This study was funded by grants from the Canada Research Chair, the
+   Canadian Institutes of Health Research, and the National Sciences and
+   Engineering Research Council of Canada (to J.D.L.) and by National
+   Science Foundation Grant 0623527 (to M.H.D.).
+CR Allee W.C., 1958, SOCIAL LIFE ANIMALS, V2nd
+   Battesti M, 2012, CURR BIOL, V22, P309, DOI 10.1016/j.cub.2011.12.050
+   Bellen HJ, 2010, NAT REV NEUROSCI, V11, P514, DOI 10.1038/nrn2839
+   BENJAMINI Y, 1995, J R STAT SOC B, V57, P289, DOI 10.1111/j.2517-6161.1995.tb02031.x
+   Billeter JC, 2012, P ROY SOC B-BIOL SCI, V279, P2417, DOI 10.1098/rspb.2011.2676
+   Billeter JC, 2009, NATURE, V461, P987, DOI 10.1038/nature08495
+   Branson K, 2009, NAT METHODS, V6, P451, DOI [10.1038/NMETH.1328, 10.1038/nmeth.1328]
+   CONNOLLY K, 1968, ANIM BEHAV, V16, P385, DOI 10.1016/0003-3472(68)90023-7
+   Gong ZF, 2004, J NEUROSCI, V24, P9059, DOI 10.1523/JNEUROSCI.1645-04.2004
+   Hoskins RA, 2001, GENOME RES, V11, P1100, DOI 10.1101/gr.GR-1780R
+   Kent C, 2008, CURR BIOL, V18, P1384, DOI 10.1016/j.cub.2008.07.088
+   Kossinets G, 2006, SCIENCE, V311, P88, DOI 10.1126/science.1116869
+   Krstic D, 2009, PLOS ONE, V4, DOI 10.1371/journal.pone.0004457
+   Krupp JJ, 2008, CURR BIOL, V18, P1373, DOI 10.1016/j.cub.2008.07.089
+   Larsson MC, 2004, NEURON, V43, P703, DOI 10.1016/j.neuron.2004.08.019
+   Latora V, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.198701
+   Manly B. F. J., 2020, Randomization, bootstrap and Monte Carlo methods in biology, V4th ed., DOI DOI 10.1201/9781315273075
+   Mery F, 2009, CURR BIOL, V19, P730, DOI 10.1016/j.cub.2009.02.064
+   Milo R, 2004, SCIENCE, V303, P1538, DOI 10.1126/science.1089167
+   Milo R, 2002, SCIENCE, V298, P824, DOI 10.1126/science.298.5594.824
+   Newman M., 2010, Networks: An introduction oxford univ
+   Newman MEJ, 2001, PHYS REV E, V64, DOI [10.1103/PhysRevE.64.016132, 10.1103/PhysRevE.64.016131]
+   Robie AA, 2010, J EXP BIOL, V213, P2494, DOI 10.1242/jeb.041749
+   Rubinov M, 2010, NEUROIMAGE, V52, P1059, DOI 10.1016/j.neuroimage.2009.10.003
+   Sakai T, 2002, GENES GENET SYST, V77, P187, DOI 10.1266/ggs.77.187
+   Sarin S, 2009, P ROY SOC B-BIOL SCI, V276, P4323, DOI 10.1098/rspb.2009.1294
+   SEXTON OWEN J., 1961, ANIMAL BEHAVIOUR, V9, P77, DOI 10.1016/0003-3472(61)90053-7
+   Shorrocks B., 1972, Drosophila
+   Simon JC, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0008793
+   Sokolowski MB, 2010, NEURON, V65, P780, DOI 10.1016/j.neuron.2010.03.007
+   STARK WS, 1973, J INSECT PHYSIOL, V19, P999, DOI 10.1016/0022-1910(73)90026-7
+   Tinbergen N., 1971, Social behaviour in animals; with special reference to vertebrates, V2d
+   Vosshall LB, 2011, CHEM SENSES, V36, P497, DOI 10.1093/chemse/bjr022
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   Wertheim B, 2005, ANNU REV ENTOMOL, V50, P321, DOI 10.1146/annurev.ento.49.061802.123329
+   Yurkovic A, 2006, P NATL ACAD SCI USA, V103, P17519, DOI 10.1073/pnas.0608211103
+NR 36
+TC 83
+Z9 98
+U1 0
+U2 46
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+EI 1091-6490
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD OCT 16
+PY 2012
+VL 109
+SU 2
+BP 17174
+EP 17179
+DI 10.1073/pnas.1121252109
+PG 6
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 029QL
+UT WOS:000310510500006
+PM 22802679
+OA Green Published, Bronze, Green Accepted
+DA 2024-11-22
+ER
+
+PT J
+AU Nsoesie, EO
+   Beckman, RJ
+   Marathe, MV
+AF Nsoesie, Elaine O.
+   Beckman, Richard J.
+   Marathe, Madhav V.
+TI Sensitivity Analysis of an Individual-Based Model for Simulation of
+   Influenza Epidemics
+SO PLOS ONE
+LA English
+DT Article
+ID PANDEMIC INFLUENZA; NETWORK STRUCTURE; A H1N1; SCHOOLCHILDREN;
+   HETEROGENEITY; TRANSMISSION; STRATEGIES; SPREAD; LINE
+AB Individual-based epidemiology models are increasingly used in the study of influenza epidemics. Several studies on influenza dynamics and evaluation of intervention measures have used the same incubation and infectious period distribution parameters based on the natural history of influenza. A sensitivity analysis evaluating the influence of slight changes to these parameters (in addition to the transmissibility) would be useful for future studies and real-time modeling during an influenza pandemic. In this study, we examined individual and joint effects of parameters and ranked parameters based on their influence on the dynamics of simulated epidemics. We also compared the sensitivity of the model across synthetic social networks for Montgomery County in Virginia and New York City (and surrounding metropolitan regions) with demographic and rural-urban differences. In addition, we studied the effects of changing the mean infectious period on age-specific epidemics. The research was performed from a public health standpoint using three relevant measures: time to peak, peak infected proportion and total attack rate. We also used statistical methods in the design and analysis of the experiments. The results showed that: (i) minute changes in the transmissibility and mean infectious period significantly influenced the attack rate; (ii) the mean of the incubation period distribution appeared to be sufficient for determining its effects on the dynamics of epidemics; (iii) the infectious period distribution had the strongest influence on the structure of the epidemic curves; (iv) the sensitivity of the individual-based model was consistent across social networks investigated in this study and (v) age-specific epidemics were sensitive to changes in the mean infectious period irrespective of the susceptibility of the other age groups. These findings suggest that small changes in some of the disease model parameters can significantly influence the uncertainty observed in real-time forecasting and predicting of the characteristics of an epidemic.
+C1 [Nsoesie, Elaine O.; Beckman, Richard J.; Marathe, Madhav V.] Virginia Tech, Virginia Bioinformat Inst, Network Dynam & Simulat Sci Lab, Blacksburg, VA 24061 USA.
+   [Marathe, Madhav V.] Virginia Tech, Dept Comp Sci, Blacksburg, VA USA.
+C3 Virginia Polytechnic Institute & State University; Virginia Polytechnic
+   Institute & State University
+RP Nsoesie, EO (corresponding author), Virginia Tech, Virginia Bioinformat Inst, Network Dynam & Simulat Sci Lab, Blacksburg, VA 24061 USA.
+EM onelaine@vt.edu
+OI Nsoesie, Elaine/0000-0001-9170-8714
+FU National Science Foundation Netse Grant [CNS-1011769]; Defense Threat
+   Reduction Agency (DTRA) RD Grant [HDTRA1-0901-0017]; DTRA Comprehensive
+   National Incident Management System (CNIMS) Grant [HDTRA1-07-C-0113];
+   National Institutes of Health Models of Infectious Disease Study (MIDAS)
+   project [2U01GM070694-7]; DTRA Rigorous Approaches for Validation and
+   Verification of Networked Systems Grant
+FX This work has been partially supported by National Science Foundation
+   Netse Grant CNS-1011769, Defense Threat Reduction Agency (DTRA) R&D
+   Grant HDTRA1-0901-0017, DTRA Comprehensive National Incident Management
+   System (CNIMS) Grant HDTRA1-07-C-0113, National Institutes of Health
+   Models of Infectious Disease Study (MIDAS) project 2U01GM070694-7 and
+   DTRA Rigorous Approaches for Validation and Verification of Networked
+   Systems Grant. The funders had no role in study design, data collection
+   and analysis, decision to publish, or preparation of the manuscript.
+CR [Anonymous], STAT COMMUNICATIONS
+   Barrett C, 2004, SIAM NEWS MATH NETWO
+   Barrett C, 2011, EPIDEMICS-NETH, V3, P19, DOI 10.1016/j.epidem.2010.11.002
+   Barrett CL, 2001, TECHNICAL REPORT
+   Basta NE, 2009, AM J EPIDEMIOL, V170, P679, DOI 10.1093/aje/kwp237
+   Beckman R, 2008, 07043 NDSSL VBI VIRG
+   Beckman RJ, 1996, TRANSPORT RES A-POL, V30, P415, DOI 10.1016/0965-8564(96)00004-3
+   Bisset KR, 2009, ICS'09: PROCEEDINGS OF THE 2009 ACM SIGARCH INTERNATIONAL CONFERENCE ON SUPERCOMPUTING, P430, DOI 10.1145/1542275.1542336
+   Bowman J, 1998, P 8 WORLD C TRANS RE
+   Bowman JL, 2001, TRANSPORT RES A-POL, V35, P1, DOI 10.1016/S0965-8564(99)00043-9
+   Box G.E., 1978, STAT EXPT
+   Burke DS, 2006, ACAD EMERG MED, V13, P1142, DOI 10.1111/j.1553-2712.2006.tb01638.x
+   Cacuci Dan G, 2005, Sensitivity and Uncertainty Analysis: Applications to Large-Scale Systems, VII, DOI DOI 10.2134/jeq2005.0213
+   Cauchemez S, 2009, NEW ENGL J MED, V361, P2619, DOI 10.1056/NEJMoa0905498
+   Chao DL, 2011, AM J EPIDEMIOL, V173, P1121, DOI 10.1093/aje/kwq497
+   Chao DL, 2010, J INFECT DIS, V202, P877, DOI 10.1086/655810
+   Chao DL, 2010, PLOS COMPUT BIOL, V6, DOI 10.1371/journal.pcbi.1000656
+   Cowling BJ, 2010, NEW ENGL J MED, V362, P2175, DOI 10.1056/NEJMoa0911530
+   Epstein JM, 2009, NATURE, V460, P687, DOI 10.1038/460687a
+   Eubank S., 2010, Journal of Biological Dynamics, V4, P446, DOI 10.1080/17513751003778687
+   Eubank Stephen, 2004, NATURE
+   Frey HC, 2002, RISK ANAL, V22, P553
+   Germann TC, 2006, P NATL ACAD SCI USA, V103, P5935, DOI 10.1073/pnas.0601266103
+   Ginot V, 2006, ECOLOGICAL MODELLING, V193
+   Goldstein E, 2010, J R SOC INTERFACE, V7, P755, DOI 10.1098/rsif.2009.0393
+   Halloran ME, 2008, P NATL ACAD SCI
+   HAMBY DM, 1995, HEALTH PHYS, V68, P195, DOI 10.1097/00004032-199502000-00005
+   Heath B, 2009, JASSS-J ARTIF SOC S, V12, pA143
+   Helton J.C., 2008, COMPUTATIONAL METHOD, V62, P207
+   Keeling MJ, 2005, J R SOC INTERFACE, V2, P295, DOI 10.1098/rsif.2005.0051
+   Lipsitch M, 2011, BIOSECUR BIOTERROR, V9, P89, DOI 10.1089/bsp.2011.0007
+   Longini IM, 2005, SCIENCE, V309, P1083, DOI 10.1126/science.1115717
+   MCKAY MD, 1979, TECHNOMETRICS, V21, P239, DOI 10.2307/1268522
+   Merler S, 2010, P ROY SOC B-BIOL SCI, V277, P557, DOI 10.1098/rspb.2009.1605
+   Monto AS, 1969, B WORLD HEALTH ORGAN, V41, P53742
+   Nishiura H, 2011, BIOMED ENG ONLINE, V10, DOI 10.1186/1475-925X-10-15
+   Ohkusa Y, 2011, J INFECT CHEMOTHERAP
+   Ong JBS, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0010036
+   Opatowski L, 2011, PLOS PATHOG, V7, DOI 10.1371/journal.ppat.1002225
+   Pautasso M, 2008, ECOL COMPLEX, V5, P1, DOI 10.1016/j.ecocom.2007.07.001
+   Rahmandad H, 2008, MANAGE SCI, V54, P998, DOI 10.1287/mnsc.1070.0787
+   Reichert TA, 2001, NEW ENGL J MED, V344, P889, DOI 10.1056/NEJM200103223441204
+   Salathe Marcel., 2010, P NATL ACAD SCI
+   Saltelli A., 2004, SENSITIVITY ANAL PRA, V1
+   Saltelli A, 2010, COMPUT PHYS COMMUN, V181, P259, DOI 10.1016/j.cpc.2009.09.018
+   Speckman P, 1997, TRANSP RES BOARD 199
+   Yang Y, 2010, J AM STAT ASSOC, V105, P1310, DOI 10.1198/jasa.2010.ap09581
+NR 47
+TC 31
+Z9 33
+U1 0
+U2 21
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD OCT 29
+PY 2012
+VL 7
+IS 10
+AR e45414
+DI 10.1371/journal.pone.0045414
+PG 16
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA 032HH
+UT WOS:000310705300004
+PM 23144693
+OA Green Published, gold, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Aral, S
+   Walker, D
+AF Aral, Sinan
+   Walker, Dylan
+TI Identifying Influential and Susceptible Members of Social Networks
+SO SCIENCE
+LA English
+DT Article
+ID CONTAGION; IDENTIFICATION; DIVERSITY; SPREAD
+AB Identifying social influence in networks is critical to understanding how behaviors spread. We present a method that uses in vivo randomized experimentation to identify influence and susceptibility in networks while avoiding the biases inherent in traditional estimates of social contagion. Estimation in a representative sample of 1.3 million Facebook users showed that younger users are more susceptible to influence than older users, men are more influential than women, women influence men more than they influence other women, and married individuals are the least susceptible to influence in the decision to adopt the product offered. Analysis of influence and susceptibility together with network structure revealed that influential individuals are less susceptible to influence than noninfluential individuals and that they cluster in the network while susceptible individuals do not, which suggests that influential people with influential friends may be instrumental in the spread of this product in the network.
+C1 [Aral, Sinan; Walker, Dylan] NYU, Stern Sch Business, New York, NY 10012 USA.
+C3 New York University
+RP Aral, S (corresponding author), NYU, Stern Sch Business, 550 1St Ave, New York, NY 10012 USA.
+EM sinan@stern.nyu.edu; dwalker@stern.nyu.edu
+OI Aral, Sinan/0000-0002-2762-058X; Walker, Dylan/0000-0002-1354-4969
+FU Microsoft; NSF [0953832]; Direct For Computer & Info Scie & Enginr; Div
+   Of Information & Intelligent Systems [0953832] Funding Source: National
+   Science Foundation
+FX We thank S. Aral, H. Frydman, C. Hurvich, P. Perry, J. Simonoff, and M.
+   Sternberg for invaluable discussions. Supported by a Microsoft research
+   faculty fellowship (S. A.) and by NSF Career Award 0953832 (S. A.). The
+   research was approved by the NYU institutional review board. There are
+   legal obstacles to making the data available, but code is available upon
+   request. The requests for data and randomization of message targets we
+   used are standard ways in which applications request and use user data
+   on Facebook. They are covered by the Facebook privacy policy and terms
+   of service. Opt-in permissions were granted by the user to the
+   application developer on a per-application basis when the user installed
+   the application, via Facebook application authentication dialogs. In the
+   dialogs we asked for all the categories of data we used in the study,
+   and all of these requests were in line with the Facebook terms of
+   service. Users saw these requests and opted in to them before installing
+   the app.
+CR [Anonymous], P 3 INT C WEBL SOC M
+   [Anonymous], 2011, Statistics, Politics, and Policy, DOI [DOI 10.2202/2151, DOI 10.2202/2151-7509.1024]
+   Aral S, 2011, IEEE INTELL SYST, V26, P91, DOI 10.1109/MIS.2011.89
+   Aral S, 2011, MANAGE SCI, V57, P1623, DOI 10.1287/mnsc.1110.1421
+   Aral S, 2011, AM J SOCIOL, V117, P90, DOI 10.1086/661238
+   Aral S, 2011, MARKET SCI, V30, P217, DOI 10.1287/mksc.1100.0596
+   Aral S, 2009, P NATL ACAD SCI USA, V106, P21544, DOI 10.1073/pnas.0908800106
+   Bakshy E., 2012, P 21 INT C WORLD WID, P519, DOI DOI 10.1145/2187836.2187907
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   Currarini S, 2010, P NATL ACAD SCI USA, V107, P4857, DOI 10.1073/pnas.0911793107
+   Dodds PS, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.218701
+   Eagle N, 2010, SCIENCE, V328, P1029, DOI 10.1126/science.1186605
+   Godes D, 2005, MARKET LETT, V16, P415, DOI 10.1007/s11002-005-5902-4
+   Golder SA, 2011, SCIENCE, V333, P1878, DOI 10.1126/science.1202775
+   GRANOVETTER M, 1978, AM J SOCIOL, V83, P1420, DOI 10.1086/226707
+   Hartmann WR, 2008, MARKET LETT, V19, P287, DOI 10.1007/s11002-008-9048-z
+   Heath C, 2001, J PERS SOC PSYCHOL, V81, P1028, DOI 10.1037//0022-3514.81.6.1028
+   Iyengar R, 2011, MARKET SCI, V30, P195, DOI 10.1287/mksc.1100.0566
+   KATZ E, 1957, PUBLIC OPIN QUART, V21, P61, DOI 10.1086/266687
+   Kossinets G, 2006, SCIENCE, V311, P88, DOI 10.1126/science.1116869
+   Lazer D, 2009, SCIENCE, V323, P721, DOI 10.1126/science.1167742
+   Leider S, 2009, Q J ECON, V124, P1815, DOI 10.1162/qjec.2009.124.4.1815
+   Leskovec J., 2007, ACM Trans., DOI [10.1145/1232722.232727, DOI 10.1145/1232722.232727]
+   MANSKI CF, 1993, SOCIOL METHODOL, V23, P1, DOI 10.2307/271005
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Noel H, 2011, SOC NETWORKS, V33, P211, DOI 10.1016/j.socnet.2011.05.003
+   Shalizi CR, 2011, SOCIOL METHOD RES, V40, P211, DOI 10.1177/0049124111404820
+   Tardos, 2003, P 9 ACM SIGKDD INT C, P137, DOI 10.1145/956750.956769
+   Valente T.W., 1995, NETWORK MODELS DIFFU
+   Watts DJ, 2007, J CONSUM RES, V34, P441, DOI 10.1086/518527
+NR 32
+TC 680
+Z9 827
+U1 12
+U2 484
+PU AMER ASSOC ADVANCEMENT SCIENCE
+PI WASHINGTON
+PA 1200 NEW YORK AVE, NW, WASHINGTON, DC 20005 USA
+SN 0036-8075
+EI 1095-9203
+J9 SCIENCE
+JI Science
+PD JUL 20
+PY 2012
+VL 337
+IS 6092
+BP 337
+EP 341
+DI 10.1126/science.1215842
+PG 5
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA 975WQ
+UT WOS:000306542600050
+PM 22722253
+OA Bronze
+DA 2024-11-22
+ER
+
+PT J
+AU Fu, F
+   Nowak, MA
+   Christakis, NA
+   Fowler, JH
+AF Fu, Feng
+   Nowak, Martin A.
+   Christakis, Nicholas A.
+   Fowler, James H.
+TI The Evolution of Homophily
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID SOCIAL NETWORKS; PRISONERS-DILEMMA; COOPERATION; FRIENDSHIP; SELECTION;
+   ADHESION; BEHAVIOR; MODELS
+AB Biologists have devoted much attention to assortative mating or homogamy, the tendency for sexual species tomate with similar others. In contrast, there has been little theoretical work on the broader phenomenon of homophily, the tendency for individuals to interact with similar others. Yet this behaviour is also widely observed in nature. Here, we model how natural selection can give rise to homophily when individuals engage in social interaction in a population with multiple observable phenotypes. Payoffs to interactions depend on whether or not individuals have the same or different phenotypes, and each individual has a preference that determines how likely they are to interact with others of their own phenotype (homophily) or of opposite phenotypes (heterophily). The results show that homophily tends to evolve under a wide variety of conditions, helping to explain its ubiquity in nature.
+C1 [Fowler, James H.] Univ Calif San Diego, Div Med Genet, La Jolla, CA 92093 USA.
+   [Fu, Feng; Christakis, Nicholas A.] Harvard Univ, Dept Hlth Care Policy, Sch Med, Boston, MA 02115 USA.
+   [Fu, Feng; Nowak, Martin A.] Harvard Univ, Program Evolutionary Dynam, Cambridge, MA 02138 USA.
+   [Nowak, Martin A.] Harvard Univ, Dept Organism & Evolutionary Biol, Cambridge, MA 02138 USA.
+   [Nowak, Martin A.] Harvard Univ, Dept Math, Cambridge, MA 02138 USA.
+   [Christakis, Nicholas A.] Harvard Univ, Dept Med, Sch Med, Boston, MA 02115 USA.
+   [Christakis, Nicholas A.] Harvard Univ, Fac Arts & Sci, Dept Sociol, Cambridge, MA 02138 USA.
+   [Fowler, James H.] Univ Calif San Diego, Dept Polit Sci, La Jolla, CA 92093 USA.
+C3 University of California System; University of California San Diego;
+   Harvard University; Harvard Medical School; Harvard University; Harvard
+   University; Harvard University; Harvard University; Harvard Medical
+   School; Harvard University; University of California System; University
+   of California San Diego
+RP Fowler, JH (corresponding author), Univ Calif San Diego, Div Med Genet, La Jolla, CA 92093 USA.
+EM jhfowler@ucsd.edu
+RI Nowak, Martin/A-6977-2008; Christakis, Nicholas/B-6690-2008; Fu,
+   Feng/R-3686-2017; Fowler, James/C-2750-2008
+OI Fu, Feng/0000-0001-8252-1990; Fowler, James/0000-0001-7795-1638
+FU National Institute on Aging [P-01 AG031093, P30 AG034420]; John
+   Templeton Foundation; National Science Foundation/National Institute of
+   Health joint program in mathematical biology (NIH) [R01GM078986]; Bill
+   and Melinda Gates Foundation [37874]
+FX We are grateful for support from the National Institute on Aging (P-01
+   AG031093 and P30 AG034420), the John Templeton Foundation, the National
+   Science Foundation/National Institute of Health joint program in
+   mathematical biology (NIH grant no. R01GM078986), and the Bill and
+   Melinda Gates Foundation (Grand Challenges grant 37874).
+CR [Anonymous], 2008, Coalescent Theory
+   Antal T, 2009, P NATL ACAD SCI USA, V106, P8597, DOI 10.1073/pnas.0902528106
+   Apicella CL, 2012, NATURE, V481, P497, DOI 10.1038/nature10736
+   Axelrod R, 1997, J CONFLICT RESOLUT, V41, P203, DOI 10.1177/0022002797041002001
+   Bergstrom T. C, 2003, Int. Game Theory Rev, V5, P1, DOI DOI 10.1142/S0219198903001021
+   Brent LJN, 2011, AM J PRIMATOL, V73, P720, DOI 10.1002/ajp.20949
+   Centola D, 2011, SCIENCE, V334, P1269, DOI 10.1126/science.1207055
+   Currarini S, 2009, ECONOMETRICA, V77, P1003, DOI 10.3982/ECTA7528
+   Dieckmann U, 1999, NATURE, V400, P354, DOI 10.1038/22521
+   Doebeli M, 2005, ECOL LETT, V8, P748, DOI 10.1111/j.1461-0248.2005.00773.x
+   EDELMAN GM, 1985, ANNU REV BIOCHEM, V54, P135, DOI 10.1146/annurev.biochem.54.1.135
+   FISCHER CS, 1983, SOC FORCES, V62, P124, DOI 10.2307/2578351
+   Fowler JH, 2011, P NATL ACAD SCI USA, V108, P1993, DOI 10.1073/pnas.1011687108
+   Gracia-Lázaro C, 2012, SCI REP-UK, V2, DOI 10.1038/srep00325
+   Hawks J, 2007, P NATL ACAD SCI USA, V104, P20753, DOI 10.1073/pnas.0707650104
+   Helbing D, 2009, P NATL ACAD SCI USA, V106, P3680, DOI 10.1073/pnas.0811503106
+   Kaplan H., 2005, Moral sentiments and material interests: The foundations of cooperation in economic life, P75
+   Kleene R, 2004, NAT REV NEUROSCI, V5, P195, DOI 10.1038/nrn1349
+   Kutsukake N, 2006, INT J PRIMATOL, V27, P1271, DOI 10.1007/s10764-006-9072-x
+   Lusseau D, 2004, P ROY SOC B-BIOL SCI, V271, pS477, DOI 10.1098/rsbl.2004.0225
+   M'Gonigle LK, 2012, NATURE, V484, P506, DOI 10.1038/nature10971
+   Madden JR, 2011, BEHAV ECOL SOCIOBIOL, V65, P1857, DOI 10.1007/s00265-011-1194-2
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Moody J, 2004, AM SOCIOL REV, V69, P213, DOI 10.1177/000312240406900204
+   Nowak MA, 2004, NATURE, V428, P646, DOI 10.1038/nature02414
+   Onnela JP, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0016939
+   Otto SP, 2008, GENETICS, V179, P2091, DOI 10.1534/genetics.107.084418
+   Rand DG, 2011, P NATL ACAD SCI USA, V108, P19193, DOI 10.1073/pnas.1108243108
+   Rivera MT, 2010, ANNU REV SOCIOL, V36, P91, DOI 10.1146/annurev.soc.34.040507.134743
+   Roca CP, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.158701
+   SCHELLING TC, 1971, J MATH SOCIOL, V1, P143, DOI 10.1080/0022250X.1971.9989794
+   Smith Adam., 1994, INQUIRY NATURE CAUSE
+   Sundaresan SR, 2007, OECOLOGIA, V151, P140, DOI 10.1007/s00442-006-0553-6
+   Szolnoki A, 2012, PHYS REV LETT, V109, DOI 10.1103/PhysRevLett.109.078701
+   TAJFEL H, 1982, ANNU REV PSYCHOL, V33, P1, DOI 10.1146/annurev.ps.33.020182.000245
+   Tarnita CE, 2011, P NATL ACAD SCI USA, V108, P2334, DOI 10.1073/pnas.1016008108
+   Traulsen A, 2008, B MATH BIOL, V70, P1410, DOI 10.1007/s11538-008-9305-6
+   Wakayama T, 2007, BIOL REPROD, V76, P1081, DOI 10.1095/biolreprod.106.058974
+   Wuchty S, 2007, SCIENCE, V316, P1036, DOI 10.1126/science.1136099
+NR 39
+TC 105
+Z9 115
+U1 0
+U2 86
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD NOV 13
+PY 2012
+VL 2
+AR 845
+DI 10.1038/srep00845
+PG 6
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA 037JL
+UT WOS:000311099800001
+PM 23150792
+OA Green Published, gold
+DA 2024-11-22
+ER

@@ -1,0 +1,476 @@
+
+PT J
+AU Blonder, B
+   Dornhaus, A
+AF Blonder, Benjamin
+   Dornhaus, Anna
+TI Time-Ordered Networks Reveal Limitations to Information Flow in Ant
+   Colonies
+SO PLOS ONE
+LA English
+DT Article
+ID SOCIAL NETWORK; BEHAVIOR; ORGANIZATION; DYNAMICS; PATTERNS; MODELS; SIZE
+AB Background: An important function of many complex networks is to inhibit or promote the transmission of disease, resources, or information between individuals. However, little is known about how the temporal dynamics of individual-level interactions affect these networks and constrain their function. Ant colonies are a model comparative system for understanding general principles linking individual-level interactions to network-level functions because interactions among individuals enable integration of multiple sources of information to collectively make decisions, and allocate tasks and resources.
+   Methodology/Findings: Here we show how the temporal and spatial dynamics of such individual interactions provide upper bounds to rates of colony-level information flow in the ant Temnothorax rugatulus. We develop a general framework for analyzing dynamic networks and a mathematical model that predicts how information flow scales with individual mobility and group size.
+   Conclusions/Significance: Using thousands of time-stamped interactions between uniquely marked ants in four colonies of a range of sizes, we demonstrate that observed maximum rates of information flow are always slower than predicted, and are constrained by regulation of individual mobility and contact rate. By accounting for the ordering and timing of interactions, we can resolve important difficulties with network sampling frequency and duration, enabling a broader understanding of interaction network functioning across systems and scales.
+C1 [Blonder, Benjamin; Dornhaus, Anna] Univ Arizona, Dept Ecol & Evolutionary Biol, Tucson, AZ 85721 USA.
+C3 University of Arizona
+RP Blonder, B (corresponding author), Univ Arizona, Dept Ecol & Evolutionary Biol, Tucson, AZ 85721 USA.
+EM bblonder@email.arizona.edu
+FU NSF [IOS 0841756]; Direct For Biological Sciences; Division Of
+   Integrative Organismal Systems [0841756] Funding Source: National
+   Science Foundation
+FX B.B. was supported by a NSF graduate research fellowship. A.D. was
+   supported by NSF grant IOS 0841756. The funders had no role in study
+   design, data collection and analysis, decision to publish, or
+   preparation of the manuscript.
+CR Barabási AL, 2005, NATURE, V435, P207, DOI 10.1038/nature03459
+   Cao TT, 2008, BIOL LETTERS, V4, P613, DOI 10.1098/rsbl.2008.0381
+   Cattuto C, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0011596
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Cole BJ, 1996, AM NAT, V148, P1, DOI 10.1086/285908
+   COLE BJ, 1991, AM NAT, V137, P244, DOI 10.1086/285156
+   Dornhaus A, 2006, INSECT SOC, V53, P420, DOI 10.1007/s00040-006-0887-4
+   González MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   GORDON DM, 1993, ANIM BEHAV, V45, P1083, DOI 10.1006/anbe.1993.1134
+   Gordon DM, 1996, NATURE, V380, P121, DOI 10.1038/380121a0
+   Greene MJ, 2007, BEHAV ECOL, V18, P451, DOI 10.1093/beheco/arl105
+   HATCHER MJ, 1992, NATURWISSENSCHAFTEN, V79, P32, DOI 10.1007/BF01132279
+   Hethcote HW, 2000, SIAM REV, V42, P599, DOI 10.1137/S0036144500371907
+   Hutchinson JMC, 2007, BIOL REV, V82, P335, DOI 10.1111/j.1469-185X.2007.00014.x
+   Ings TC, 2009, J ANIM ECOL, V78, P253, DOI 10.1111/j.1365-2656.2008.01460.x
+   Kossinets G., 2008, SIGKDD, P435
+   Kostakos V, 2009, PHYSICA A, V388, P1007, DOI 10.1016/j.physa.2008.11.021
+   Naug D, 2008, BEHAV ECOL SOCIOBIOL, V62, P1719, DOI 10.1007/s00265-008-0600-x
+   Naug D, 2009, BEHAV ECOL SOCIOBIOL, V63, P1023, DOI 10.1007/s00265-009-0721-x
+   Olesen JM, 2008, ECOLOGY, V89, P1573, DOI 10.1890/07-0451.1
+   Onnela JP, 2007, P NATL ACAD SCI USA, V104, P7332, DOI 10.1073/pnas.0610245104
+   Pacala SW, 1996, EVOL ECOL, V10, P127, DOI 10.1007/BF01241782
+   Pastor-Satorras R, 2001, PHYS REV LETT, V86, P3200, DOI 10.1103/PhysRevLett.86.3200
+   PINTERWOLLMAN N, 2011, J R SOC INT IN PRESS
+   Pratt SC, 2005, BEHAV ECOL, V16, P488, DOI 10.1093/beheco/ari020
+   Robinson EJH, 2009, BEHAV ECOL SOCIOBIOL, V63, P627, DOI 10.1007/s00265-008-0696-z
+   ROMANO CM, 2010, PLOS ONE, V5
+   Salathé M, 2010, PLOS COMPUT BIOL, V6, DOI 10.1371/journal.pcbi.1000736
+   Sendova-Franks AB, 2010, ANIM BEHAV, V79, P473, DOI 10.1016/j.anbehav.2009.11.035
+   SENDOVAFRANKS AB, 1995, ANIM BEHAV, V50, P121, DOI 10.1006/anbe.1995.0226
+   Sih A, 2009, BEHAV ECOL SOCIOBIOL, V63, P975, DOI 10.1007/s00265-009-0725-6
+   SOLE RV, 1993, J THEOR BIOL, V161, P343, DOI 10.1006/jtbi.1993.1060
+   Valverde S, 2006, IEEE INTELL SYST, V21, P36, DOI 10.1109/MIS.2006.34
+   Wey T, 2008, ANIM BEHAV, V75, P333, DOI 10.1016/j.anbehav.2007.06.020
+NR 34
+TC 79
+Z9 107
+U1 0
+U2 28
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD MAY 20
+PY 2011
+VL 6
+IS 5
+AR e20298
+DI 10.1371/journal.pone.0020298
+PG 8
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 766OI
+UT WOS:000290793400053
+PM 21625450
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Haynes, P
+AF Haynes, Paul
+TI CONCEPTUALIZING NETWORKS AS ASSEMBLAGES A case study from the Spanish
+   ceramics sector
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA English
+DT Article
+DE Assemblages; Innovation; Social Networks
+ID SOCIAL NETWORKS; STRUCTURAL HOLES; INNOVATION; COLLABORATION; PARADIGM
+AB Network structures are being used to explain social interactions within and between organisations in many ways that have become very influential. Many of the sociological features of organisations are captured very effectively by network descriptions, but such descriptions also retain serious limitations. Some network theories, for example, are composed of fragmented and internally inconsistent theories, while others depend upon essentialist and reductionist models. Perhaps a more serious problem is that networks describe relationships rather than explain the mechanisms through which these relationships function. This paper introduces the notion of assemblages as a corrective to these problems. The concept offers a clear, though suitably complex, framework with which to clarify the dynamics and structures that afford engagement and enable collective action among diverse elements of organisations. Using brief examples from recent research in the innovation literature, supported by an empirical case study in the Spanish ceramics sector, this paper will illustrate how reconceptualising network relationships in terms of their assemblages enables a more robust and consistent theoretical grounding for network research.
+C1 Univ Politecn Valencia, CSIC, INGENIO, Valencia, Spain.
+C3 Universitat Politecnica de Valencia; Consejo Superior de Investigaciones
+   Cientificas (CSIC)
+RP Haynes, P (corresponding author), Univ Politecn Valencia, CSIC, INGENIO, Valencia, Spain.
+EM pjhaynes@ingenio.upv.es
+RI haynes, paul/K-4281-2014
+OI haynes, paul/0000-0002-6868-7780
+CR Ahuja G, 2000, ADMIN SCI QUART, V45, P425, DOI 10.2307/2667105
+   ALLENT TJ, 1977, MANAGING FLOW TECHNO
+   [Anonymous], 1992, National Systems of innovation: towards a theory of innovation and interactive learning
+   Archer M., 1995, Realistic social theory
+   ARSDEN PV, 1990, ANNU REV SOCIOL, V16, P435
+   Bhaskar R, 1997, J THEOR SOC BEHAV, V27, P139, DOI 10.1111/1468-5914.00031
+   Borgatti SP, 2003, J MANAGE, V29, P991, DOI 10.1016/S0149-2063(03)00087-4
+   Brass DJ, 2004, ACAD MANAGE J, V47, P795, DOI 10.5465/20159624
+   BURKHARDT ME, 1990, ADMIN SCI QUART, V35, P104, DOI 10.2307/2393552
+   Burt R. S, 1992, STRUCTURAL HOLES SOC
+   Burt RS, 2004, AM J SOCIOL, V110, P349, DOI 10.1086/421787
+   Callon M, 1998, LAWS OF THE MARKETS, P1, DOI 10.1111/j.1467-954X.1998.tb03468.x
+   Callon M., 1992, TECHNOLOGICAL CHANGE
+   Callon Michel., 2005, EC SOCIOLOGY EUROPEA, V6, P3
+   CASTELL M, 1996, NETWORK SOC INFORM A
+   Cooke P, 1999, SMALL BUS ECON, V13, P219, DOI 10.1023/A:1008178808631
+   Cowan R, 2004, J ECON DYN CONTROL, V28, P1557, DOI 10.1016/j.jedc.2003.04.002
+   De Landa Manuel., 2006, DELEUZE SOCIAL, P250, DOI DOI 10.3366/EDINBURGH/9780748620920.003.0013
+   De-Landa Manuel., 2010, Deleuze: History and Science
+   DEBRESSON C, 1991, RES POLICY, V20, P363, DOI 10.1016/0048-7333(91)90063-V
+   DeLanda M, 2006, NEW PHILOS SOC ASSEM, DOI DOI 10.1111/J.1467-8330.2008.00646.X
+   Deleuze Gilles., 1988, 1000 PLATEAUS CAPITA, DOI DOI 10.2307/203963
+   Deleuze Gilles., 1987, DIALOGUES
+   EMIRBAYER M, 1994, AM J SOCIOL, V99, P1411, DOI 10.1086/230450
+   FREEMAN C, 1991, RES POLICY, V20, P499, DOI 10.1016/0048-7333(91)90072-X
+   Giddens Anthony, 1986, The constitution of society: Outline of the theory of structuration, DOI DOI 10.1086/678034
+   GOULD RV, 1991, AM SOCIOL REV, V56, P716, DOI 10.2307/2096251
+   Granovetter M., 1983, SOCIOLOGICAL THEORY, V1, P201, DOI [https://doi.org/10.2307/202051, 10.2307/202051, DOI 10.2307/202051]
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   HAYPES P, 2008, 1 INT SOC ASS FOR BA
+   HERVAS J, 2005, J INTELLECT CAP, V7, P354
+   Kilduff M, 2006, ACAD MANAGE REV, V31, P1031, DOI 10.5465/AMR.2006.22528168
+   Latour Bruno., 2005, REASSEMBLING SOCIAL
+   LEWRICK MR, 2007, J TECHNOLOGY MANAGEM, V3, P12
+   Marcus GE, 2006, THEOR CULT SOC, V23, P101, DOI 10.1177/0263276406062573
+   Meyer-Stamer J., 2001, 54 INEF
+   Molina F., 2008, La estructura y naturaleza del capital social en las aglomeraciones territoriales de empresa: una aplicacion al sector ceramico espanol
+   Molina-Morales FX, 2005, GROWTH CHANGE, V36, P74, DOI 10.1111/j.1468-2257.2005.00267.x
+   Moreno A, 2006, BOL SOC ESP CERAM V, V45, P59, DOI 10.3989/cyv.2006.v45.i2.313
+   NELSON RR, 1977, RES POLICY, V6, P36, DOI 10.1016/0048-7333(77)90029-4
+   Obstfeld D, 2005, ADMIN SCI QUART, V50, P100, DOI 10.2189/asqu.2005.50.1.100
+   Ong AihwaStephen J. Collier., 2005, GLOBAL ASSEMBLAGES T, DOI DOI 10.1002/9780470696569
+   Owen-Smith J, 2004, ORGAN SCI, V15, P5, DOI 10.1287/orsc.1030.0054
+   PADGETT JF, 1993, AM J SOCIOL, V98, P1259, DOI 10.1086/230190
+   Parkhe A, 2006, ACAD MANAGE REV, V31, P560, DOI [10.5465/AMR.2006.21318917, 10.2307/20159228]
+   Powell WW, 1996, ADMIN SCI QUART, V41, P116, DOI 10.2307/2393988
+   RUSSO M, 1985, RES POLICY, V14, P329, DOI 10.1016/0048-7333(85)90003-4
+   SALANCIK GR, 1995, ADMIN SCI QUART, V40, P345, DOI 10.2307/2393642
+   Sassen S, 2006, TERRITORY, AUTHORITY, RIGHTS: FROM MEDIEVAL TO GLOBAL ASSEMBLAGES, P1
+   Sorenson O, 2003, J EVOL ECON, V13, P513, DOI 10.1007/s00191-003-0165-9
+   Tracey P, 2003, GROWTH CHANGE, V34, P1, DOI 10.1111/1468-2257.00196
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   Wellman B., 1997, Social Structures: A Network Approach (Contemporary Studies in Sociology)
+   WHITE HC, 1995, J INST THEOR ECON, V151, P58
+   YU G, 1995, SCIENCE, V270, P1789, DOI 10.1126/science.270.5243.1789
+NR 55
+TC 2
+Z9 2
+U1 1
+U2 6
+PU CONSEJO SUPERIOR INVESTIGACIONES CIENTIFICAS-CSIC
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+EI 1988-429X
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD MAY-AUG
+PY 2011
+VL 69
+IS 2
+BP 417
+EP 437
+DI 10.3989/ris.2009.06.29
+PG 21
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA 765PC
+UT WOS:000290720000005
+OA gold, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Centola, D
+AF Centola, Damon
+TI An Experimental Study of Homophily in the Adoption of Health Behavior
+SO SCIENCE
+LA English
+DT Article
+ID SOCIAL NETWORK; DIFFUSION; DISPARITIES; INEQUALITY; FEATHER; SPREAD;
+   BIRDS; TIES
+AB How does the composition of a population affect the adoption of health behaviors and innovations? Homophily-similarity of social contacts-can increase dyadic-level influence, but it can also force less healthy individuals to interact primarily with one another, thereby excluding them from interactions with healthier, more influential, early adopters. As a result, an important network-level effect of homophily is that the people who are most in need of a health innovation may be among the least likely to adopt it. Despite the importance of this thesis, confounding factors in observational data have made it difficult to test empirically. We report results from a controlled experimental study on the spread of a health innovation through fixed social networks in which the level of homophily was independently varied. We found that homophily significantly increased overall adoption of a new health behavior, especially among those most in need of it.
+C1 MIT, Sloan Sch, Cambridge, MA 02142 USA.
+C3 Massachusetts Institute of Technology (MIT)
+RP Centola, D (corresponding author), MIT, Sloan Sch, Cambridge, MA 02142 USA.
+EM dcentola@mit.edu
+FU James S. McDonnell Foundation; Center for the Study of Social
+   Organization at Princeton University; Institute for Research in the
+   Social Sciences at Stanford University
+FX I thank A. van de Rijt for helpful discussion, and N. Christakis, S.
+   Levin, J. Freese, R. Reagans, E. Zuckerman, J. Fowler, F. Garip, and P.
+   DiMaggio for useful comments and suggestions; W. Pan for programming
+   assistance; A. Wagner, T. Groves, and A. Michal for website development;
+   and K. Schive, M. Kirkbride, and MIT Medical for assistance with site
+   design and participant recruitment. Supported by the James S. McDonnell
+   Foundation, and by time in residence at the Center for the Study of
+   Social Organization at Princeton University, and the Institute for
+   Research in the Social Sciences at Stanford University. Data on
+   population characteristics and adoption behavior are provided in (28).
+CR [Anonymous], AM SOCIOLOGICAL REV
+   Aral S, 2009, P NATL ACAD SCI USA, V106, P21544, DOI 10.1073/pnas.0908800106
+   Berkman L., 2000, Social Epidemiology p, P416
+   Blau PeterMichael., 1984, CROSSCUTTING SOCIAL
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   Centola D, 2007, J CONFLICT RESOLUT, V51, P905, DOI 10.1177/0022002707307632
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Chang VW, 2009, J HEALTH SOC BEHAV, V50, P245, DOI 10.1177/002214650905000301
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   Correll S.J., 2006, HDB SOCIAL PSYCHOL, P29
+   Crosnoe R, 2008, SOC FORCES, V86, P1189
+   DiMaggio P, 2011, AM J SOCIOL, V116, P1887, DOI 10.1086/659653
+   Freese J, 2011, HANDB SOCIOL SOC RES, P67, DOI 10.1007/978-1-4419-7261-3_4
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Kawachi I., 2003, NEIGHBORHOODS HLTH
+   Kossinets G, 2009, AM J SOCIOL, V115, P405, DOI 10.1086/599247
+   Lazarsfeld P.F., 1954, Freedom and Control in Modern Society, P18, DOI DOI 10.1111/J.1467-8705.2012.02056_3.X
+   Luke DA, 2007, ANNU REV PUBL HEALTH, V28, P69, DOI 10.1146/annurev.publhealth.28.021406.144132
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Onnela JP, 2007, P NATL ACAD SCI USA, V104, P7332, DOI 10.1073/pnas.0610245104
+   Pampel FC, 2002, SOC PROBL, V49, P35, DOI 10.1525/sp.2002.49.1.35
+   Pampel FC, 2010, ANNU REV SOCIOL, V36, P349, DOI 10.1146/annurev.soc.012809.102529
+   Phelan JC, 2010, J HEALTH SOC BEHAV, V51, pS28, DOI 10.1177/0022146510383498
+   RAO AG, 1980, IND J EXT ED, V16, P19
+   Rogers EM, 1995, Diffusion of innovations
+   Rostila M, 2010, SOCIOL HEALTH ILL, V32, P382, DOI 10.1111/j.1467-9566.2009.01196.x
+   Smith KP, 2008, ANNU REV SOCIOL, V34, P405, DOI 10.1146/annurev.soc.34.040507.134601
+   Strang D, 1998, ANNU REV SOCIOL, V24, P265, DOI 10.1146/annurev.soc.24.1.265
+   Umberson D, 2010, ANNU REV SOCIOL, V36, P139, DOI 10.1146/annurev-soc-070308-120011
+   Valente TW, 2009, J ADOLESCENT HEALTH, V45, P202, DOI 10.1016/j.jadohealth.2009.01.007
+   Valente TW, 2001, AM J PUBLIC HEALTH, V91, P406, DOI 10.2105/AJPH.91.3.406
+NR 31
+TC 429
+Z9 517
+U1 2
+U2 136
+PU AMER ASSOC ADVANCEMENT SCIENCE
+PI WASHINGTON
+PA 1200 NEW YORK AVE, NW, WASHINGTON, DC 20005 USA
+SN 0036-8075
+J9 SCIENCE
+JI Science
+PD DEC 2
+PY 2011
+VL 334
+IS 6060
+BP 1269
+EP 1272
+DI 10.1126/science.1207055
+PG 4
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA 855HD
+UT WOS:000297553600048
+PM 22144624
+DA 2024-11-22
+ER
+
+PT J
+AU Highfield, T
+   Kirchhoff, L
+   Nicolai, T
+AF Highfield, Tim
+   Kirchhoff, Lars
+   Nicolai, Thomas
+TI Challenges of Tracking Topical Discussion Networks Online
+SO SOCIAL SCIENCE COMPUTER REVIEW
+LA English
+DT Article
+DE blogs; France; methodology; network mapping; social media; visualization
+AB Attempts to map online networks, representing relationships between people and sites, have covered sites including Facebook, Twitter, and blogs. However, the predominant approach of static network visualization, treating months of data as a single case rather than depicting changes over time or between topics, remains a flawed process. As different events and themes provoke varying interactions and conversations, it is proposed that case-by-case analysis would aid studies of online social networks by further examining the dynamics of links and information flows. This study uses hyperlink analysis of a population of French political blogs to compare connections between sites from January to August 2009. Themes discussed in this period were identified for subsequent analysis of topic-oriented networks. By comparing static blogrolls with topical citations within posts, this research addresses challenges and methods in mapping online networks, providing new information on temporal aspects of linking behaviors and information flows within these systems.
+C1 [Highfield, Tim] Queensland Univ Technol, Brisbane, Qld 4059, Australia.
+   [Kirchhoff, Lars; Nicolai, Thomas] Sociomant Labs, Berlin, Germany.
+C3 Queensland University of Technology (QUT)
+RP Highfield, T (corresponding author), Queensland Univ Technol, K505, Brisbane, Qld 4059, Australia.
+EM t.highfield@qut.edu.au; lars.kirchhoff@sociomantic.com;
+   thomas.nicolai@sociomantic.com
+CR Adamic L.A., 2008, The Hyperlinked Society, P227
+   Adamic LGlance., 2005, The Political Blogosphere and the 2004 U.S. Election: Divided They Blog
+   ALLARD L, 2006, CONT FRENCH CIVILIZA, V31, P197
+   [Anonymous], MOTS LANGAGES POLITI
+   [Anonymous], DISCUSSION PAPER NET
+   [Anonymous], DEMOCRATIE NUMERIQUE
+   [Anonymous], 2009, INTRO WEBOMETRICS QU, DOI DOI 10.1007/978-3-031-02261-6
+   Barabasi A.-L, 2002, LINKED NEW SCI NETWO
+   Bastian M., 2009, Association for the Advancement of Artificial Intelligence
+   Benkler Y., 2010, TALE TWO BLOGOSPHERE
+   Boyd DM, 2007, J COMPUT-MEDIAT COMM, V13, P210, DOI 10.1111/j.1083-6101.2007.00393.x
+   BRUNS A, 2007, 1 MONDAY, P12
+   BRUNS A, 2010, ICA 2010 SING
+   Bruns A., 2009, INT RES 10 0 INT CRI
+   Cardon Dominique., 2006, Reseaux, V24, P15
+   DEMAEYER J, 2010, INT S ONL J AUST TX
+   ECHCHAIBI N, 2009, INT BLOGGING, P11
+   Etling Bruce., 2009, Mapping the Arabic Blogosphere: Politics, Culture, and Dissent
+   Farrell H, 2008, PUBLIC CHOICE, V134, P15, DOI 10.1007/s11127-007-9198-1
+   *FORR RES, 2006, PROF EUR BLOGG
+   FOUETILLOU G, 2006, ECOLOGIE SEGOSPHERE
+   Fouetillou G, 2006, WEB DEBAT CONSTITUTI
+   Franck R., 2005, European Journal of Political Economy, V21, P1071
+   FRUCHTERMAN TMJ, 1991, SOFTWARE PRACT EXPER, V21, P1129, DOI 10.1002/spe.4380211102
+   Gaines BJ, 2009, J INF TECHNOL POLITI, V6, P216, DOI 10.1080/19331680903031531
+   GRANOVETTER MS, 2001, SOCIAL STRATIFICATIO, P447
+   Halavais A., 2008, The hyperlinked society: Questioning connections in the digital age, P39, DOI DOI 10.2307/J.CTV65SXN0
+   Hargittai E, 2008, PUBLIC CHOICE, V134, P67, DOI 10.1007/s11127-007-9201-x
+   HIGHFIELD T, 2009, ANZCA 09 BRISB
+   HIGHFIELD T, 2009, INT RES 10 0 INT CRI
+   Huberman BA, 2009, 1 MONDAY, P14
+   Kelly John., 2008, MAPPING IRANS ONLINE
+   KIRCHHOFF L, 2009, P ANZCA ANN C BRISB, P982
+   Lerman K., 2010, 4 INT C WEBL SOC MED
+   Lewis K, 2008, SOC NETWORKS, V30, P330, DOI 10.1016/j.socnet.2008.07.002
+   Lovink Geert., 2008, Zero Comments: Blogging and Critical Internet Culture
+   Park HW, 2008, J COMPUT-MEDIAT COMM, V13, P856, DOI 10.1111/j.1083-6101.2008.00422.x
+   Rogers R., 2009, The End of the Virtual: Digital Methods
+   Tremayne M., 2006, BLOGGING CITIZENSHIP
+   Vaccari C, 2008, FR POLITICS, V6, P1, DOI 10.1057/palgrave.fp.8200139
+   Watts D. J., 2004, 6 DEGREES SCI CONNEC
+   2007, BLOGOPOLE
+NR 42
+TC 10
+Z9 14
+U1 1
+U2 20
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0894-4393
+J9 SOC SCI COMPUT REV
+JI Soc. Sci. Comput. Rev.
+PD AUG
+PY 2011
+VL 29
+IS 3
+BP 340
+EP 353
+DI 10.1177/0894439310382514
+PG 14
+WC Computer Science, Interdisciplinary Applications; Information Science &
+   Library Science; Social Sciences, Interdisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science; Information Science & Library Science; Social Sciences
+   - Other Topics
+GA 795ES
+UT WOS:000292955700007
+OA Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Shalizi, CR
+   Thomas, AC
+AF Shalizi, Cosma Rohilla
+   Thomas, Andrew C.
+TI Homophily and Contagion Are Generically Confounded in Observational
+   Social Network Studies
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+DE contagion; social influence; homophily; causal inference; network
+   confounding; neutral models
+ID SPREAD; MODELS
+AB The authors consider processes on social networks that can potentially involve three factors: homophily, or the formation of social ties due to matching individual traits; social contagion, also known as social influence; and the causal effect of an individual's covariates on his or her behavior or other measurable responses. The authors show that generically, all of these are confounded with each other. Distinguishing them from one another requires strong assumptions on the parametrization of the social process or on the adequacy of the covariates used (or both). In particular the authors demonstrate, with simple examples, that asymmetries in regression coefficients cannot identify causal effects and that very simple models of imitation (a form of social contagion) can produce substantial correlations between an individual's enduring traits and his or her choices, even when there is no intrinsic affinity between them. The authors also suggest some possible constructive responses to these results.
+C1 [Shalizi, Cosma Rohilla; Thomas, Andrew C.] Carnegie Mellon Univ, Pittsburgh, PA 15213 USA.
+C3 Carnegie Mellon University
+RP Shalizi, CR (corresponding author), 5000 Forbes Ave, Pittsburgh, PA 15231 USA.
+EM cshalizi@stat.cmu.edu
+OI Shalizi, Cosma/0000-0002-9195-1308
+CR Airoldi EM, 2008, J MACH LEARN RES, V9, P1981
+   [Anonymous], AAAI 2008 SPRING S S
+   [Anonymous], 1992, Realism and the aim of science
+   [Anonymous], 952001 U GRON INT CT
+   [Anonymous], SPREAD EVIDENCE POOR
+   [Anonymous], 1995, Structure and Influence
+   [Anonymous], 1965, ROUTES CONTAGION
+   [Anonymous], CAUSATION PREDICTION
+   [Anonymous], MERSIH 2
+   [Anonymous], JUST SO STORIES
+   [Anonymous], 1960, Stochastic Population Models: In Ecology and Epidemiology
+   [Anonymous], 1973, Cause and Meaning in the Social Sciences
+   [Anonymous], 1991, COMP METHOD EVOLUTIO
+   [Anonymous], 2008, Proceedings of the 15th ACM SIGKDD international conference on Knowledge discovery and data mining, DOI [10.1145/1401890.1401897, DOI 10.1145/1401890.1401897]
+   [Anonymous], 2009, NOTICES AM MATH SOC
+   Aral S, 2009, P NATL ACAD SCI USA, V106, P21544, DOI 10.1073/pnas.0908800106
+   Aron R., 1989, Main Currents In Sociological Thought
+   Atkinson RL, 2007, MAYO CLIN PROC, V82, P1192, DOI 10.4065/82.10.1192
+   Bakshy E, 2009, 10TH ACM CONFERENCE ON ELECTRONIC COMMERCE - EC 2009, P325
+   Bartlett FC, 1932, REMEMBERING STUDY EX
+   Berger BennettM., 1995, An Essay on Culture: Symbolic Structure and Social Structure
+   Bickel PJ, 2009, P NATL ACAD SCI USA, V106, P21068, DOI 10.1073/pnas.0907096106
+   Blume LawrenceE., 2010, Handbook of Social Economics, V1, P853
+   Boudon R., 1989, ANAL IDEOLOGY
+   Bourdieu, 2006, DISTINCTION SOCIAL C
+   Bramoullé Y, 2009, J ECONOMETRICS, V150, P41, DOI 10.1016/j.jeconom.2008.12.021
+   Calvó-Armengol A, 2009, AM ECON J-MICROECON, V1, P124, DOI 10.1257/mic.1.1.124
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   Cohen-Cole E, 2008, BMJ-BRIT MED J, V337, DOI 10.1136/bmj.a2533
+   COX JT, 1986, ANN PROBAB, V14, P347, DOI 10.1214/aop/1176992521
+   Ellner S.P., 2006, Dynamic Models in Biology
+   Elwert F, 2008, DEMOGRAPHY, V45, P851
+   Fortunato S, 2010, PHYS REP, V486, P75, DOI 10.1016/j.physrep.2009.11.002
+   Fowler JH, 2010, P NATL ACAD SCI USA, V107, P5334, DOI 10.1073/pnas.0913149107
+   Fowler JH, 2008, BMJ-BRIT MED J, V337, DOI 10.1136/bmj.a2338
+   Friedkin N., 1998, A structural theory of social influence
+   Gelman AndrewDavid Park., 2008, RED STATE BLUE STATE
+   Gillespie J.H., 1998, Population genetics: a concise guide
+   Girvan M, 2002, P NATL ACAD SCI USA, V99, P7821, DOI 10.1073/pnas.122653799
+   Huckfeldt R., 2004, POLITICAL DISAGREEME
+   Kaufman J, 2004, ANNU REV SOCIOL, V30, P335, DOI 10.1146/annurev.soc.30.012703.110608
+   Lieberson S, 2002, ANNU REV SOCIOL, V28, P1, DOI 10.1146/annurev.soc.28.110601.141122
+   Lieberson Stanley., 2000, A Matter of Taste: How Names, Fashions, and Culture Change
+   Manski C.F, 2007, IDENTIFICATION PREDI
+   MANSKI CF, 1993, REV ECON STUD, V60, P531, DOI 10.2307/2298123
+   MARTINS ML, 1991, PHYS REV LETT, V66, P2045, DOI 10.1103/PhysRevLett.66.2045
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Morgan SL, 2007, ANAL METHOD SOC RES, P1, DOI 10.1017/CBO9780511804564
+   Newman M.E. J., 2003, Physical Review E, V69
+   Newman MEJ, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.066133
+   Newman MEJ, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.016128
+   Pearl J., 2000, MODELS REASONING INF
+   Pearl J, 2009, CAUSALITY MODELS REA
+   Pearl J, 2009, STAT SURV, V3, P96, DOI 10.1214/09-SS057
+   Reichardt J, 2007, EUR PHYS J B, V60, P217, DOI 10.1140/epjb/e2007-00340-y
+   Rogers E.M., 2003, DIFFUSION INNOVATION
+   ROSENBAUM PR, 1983, BIOMETRIKA, V70, P41, DOI 10.1093/biomet/70.1.41
+   Sood V, 2005, PHYS REV LETT, V94, DOI 10.1103/PhysRevLett.94.178701
+   Sperber D., 1996, EXPLAINING CULTURE N
+   Yang Y, 2007, ANN APPL STAT, V1, P211, DOI 10.1214/07-AOAS105
+   Zhang BC, 2016, J BASIC MICROB, V56, P670, DOI 10.1002/jobm.201500751
+NR 61
+TC 575
+Z9 715
+U1 3
+U2 142
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+EI 1552-8294
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD MAY
+PY 2011
+VL 40
+IS 2
+BP 211
+EP 239
+DI 10.1177/0049124111404820
+PG 29
+WC Social Sciences, Mathematical Methods; Sociology
+WE Social Science Citation Index (SSCI)
+SC Mathematical Methods In Social Sciences; Sociology
+GA 764UZ
+UT WOS:000290661200001
+PM 22523436
+OA Green Accepted, Green Submitted
+DA 2024-11-22
+ER

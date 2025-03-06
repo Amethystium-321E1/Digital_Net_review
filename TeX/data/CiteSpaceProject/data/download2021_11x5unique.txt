@@ -1,0 +1,578 @@
+
+PT J
+AU Giordano, G
+   Primerano, I
+   Vitale, P
+AF Giordano, Giuseppe
+   Primerano, Ilaria
+   Vitale, Pierluigi
+TI A Network-Based Indicator of Travelers Performativity on Instagram
+SO SOCIAL INDICATORS RESEARCH
+LA English
+DT Article
+DE Data visualization; Social media; Social network analysis; Visual
+   content analysis
+AB The spread of Internet and online social media has created a huge amount of data able to provide new insights to researchers in different disciplinary fields, but it also presents new challenges for data science. Data arising from online social networks can be naturally coded as relational data in affiliation and adjacency matrices, then analyzed with social network analysis. In this study, we apply an interdisciplinary approach (based on automatic visual content analysis, social network analysis, and exploratory statistical techniques) to define and derive a suitable indicator for characterizing places, along with the online activities of travelers, in terms of sharing images. We envisage a novel storytelling perspective where stories are related to places and the narrative activity is realized through posting images. Specifically, we use data extracted from an online social network (i.e., Instagram) to identify travelers' paths among sites of interests. Starting from a large collection of pictures geolocalized in a pre-specified set of locations (i.e., five locations in the Campania region of Italy during the 2018 Christmas season), we use automatic alternative text to produce an ex-post taxonomy of images on the most recurrent themes emerging from pictures posted on Instagram. Quantitative measures defined on the co-occurrence of locations and the emerging themes are used to build a statistical indicator able to characterize paths among different locations as narrated from travelers' posts. The proposed analysis, presented and discussed along with real data, can be useful for stakeholders interested in the fields of policy-making, communication design, and territory profiling strategies.
+C1 [Giordano, Giuseppe] Univ Salerno, Dept Polit & Social Studies, Fisciano, Italy.
+   [Primerano, Ilaria] Univ Salerno, Dept Comp Engn Elect Engn & Appl Math, Fisciano, Italy.
+   [Vitale, Pierluigi] Univ Salerno, Dept Commun & Polit Sci, Fisciano, Italy.
+C3 University of Salerno; University of Salerno; University of Salerno
+RP Giordano, G (corresponding author), Univ Salerno, Dept Polit & Social Studies, Fisciano, Italy.
+EM ggiordano@unisa.it; iprimerano@unisa.it; pvitale@unisa.it
+RI GIORDANO, Giuseppe/ADL-4827-2022
+OI Giordano, Giuseppe/0000-0002-0582-109X
+CR ALBERS PC, 1988, ANN TOURISM RES, V15, P134, DOI 10.1016/0160-7383(88)90076-X
+   [Anonymous], LNCS
+   Balomenou N, 2019, TOURISM MANAGE, V70, P201, DOI 10.1016/j.tourman.2018.08.014
+   Bastian M, 2009, GEPHI OPEN SOURCE SO, DOI [DOI 10.1609/ICWSM.V3I1.13937, 10.13140/2.1.1341.1520]
+   Batrinca B, 2015, AI SOC, V30, P89, DOI 10.1007/s00146-014-0549-4
+   Bello-Orgaz G, 2016, INFORM FUSION, V28, P45, DOI 10.1016/j.inffus.2015.08.005
+   Clement J., 2019, Statista
+   Cuzzocrea A., 2011, P ACM 14 INT WORKSHO, P101, DOI DOI 10.1145/2064676.2064695
+   Emmison M., 2000, RES VISUAL IMAGES OB
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   Hepp A, 2018, INT J COMMUN-US, V12, P439
+   ISTAT, 2018, PERM CENS POP HOUS
+   Jacomy M, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0098679
+   KAMADA T, 1989, INFORM PROCESS LETT, V31, P7, DOI 10.1016/0020-0190(89)90102-6
+   Kambatla K, 2014, J PARALLEL DISTR COM, V74, P2561, DOI 10.1016/j.jpdc.2014.01.003
+   Kapoor KK, 2018, INFORM SYST FRONT, V20, P531, DOI 10.1007/s10796-017-9810-y
+   Laney, 2001, META GROUP RES NOTE, P1
+   Manikonda L, 2014, ARXIV PREPRINT ARXIV
+   Margolis E., 2011, The SAGE Handbook of Visual Research Methods
+   Marine-Roig E, 2017, SUSTAINABILITY-BASEL, V9, DOI 10.3390/su9081425
+   Okuyama K.YanaiK, 2013, ERA INTERACTIVE MEDI, P657, DOI DOI 10.1007/978-1-4614-3501-3_54
+   Olshannikova Ekaterina, 2017, Journal of Big Data, V4, DOI 10.1186/s40537-017-0063-x
+   OpenRefine, 2019, FREE OP SOURC POW TO
+   Pantano E, 2017, TOURISM MANAGE, V60, P430, DOI 10.1016/j.tourman.2016.12.020
+   Richards Greg, 2010, Encontros Científicos, P9
+   Silva T.H., 2013, P 2 ACM SIGKDD INT W, p4:1
+   Stephens T, 2018, RES HANDB CLIM LAW, P31
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   Wu XD, 2014, IEEE T KNOWL DATA EN, V26, P97, DOI 10.1109/TKDE.2013.109
+NR 29
+TC 3
+Z9 3
+U1 3
+U2 16
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0303-8300
+EI 1573-0921
+J9 SOC INDIC RES
+JI Soc. Indic. Res.
+PD AUG
+PY 2021
+VL 156
+IS 2-3
+SI SI
+BP 631
+EP 649
+DI 10.1007/s11205-020-02326-7
+EA MAR 2020
+PG 19
+WC Social Sciences, Interdisciplinary; Sociology
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics; Sociology
+GA TR0GI
+UT WOS:000522719800002
+DA 2024-11-22
+ER
+
+PT J
+AU Bonaventura, M
+   Aiello, LM
+   Quercia, D
+   Latora, V
+AF Bonaventura, Moreno
+   Aiello, Luca Maria
+   Quercia, Daniele
+   Latora, Vito
+TI Predicting urban innovation from the US Workforce Mobility Network
+SO HUMANITIES & SOCIAL SCIENCES COMMUNICATIONS
+LA English
+DT Article
+ID GAZELLES; DYNAMICS; GROWTH; FIRMS
+AB While great emphasis has been placed on the role of social interactions as a driver of innovation growth, very few empirical studies have explicitly investigated the impact of social network structures on the innovation performance of cities. Past research has mostly explored scaling laws of socio-economic outputs of cities as determined by, for example, the single predictor of population. Here, by drawing on a publicly available dataset of the startup ecosystem, we build the first Workforce Mobility Network among metropolitan areas in the US. We found that node centrality computed on this network accounts for most of the variability observed in cities' innovation performance and significantly outperforms other predictors such as population size or density, suggesting that policies and initiatives aiming at sustaining innovation processes might benefit from fostering professional networks alongside other economic or systemic incentives. As opposed to previous approaches powered by census data, our model can be updated in real-time upon open databases, opening up new opportunities both for researchers in a variety of disciplines to study urban economies in new ways, and for practitioners to design tools for monitoring such economies in real-time.
+C1 [Bonaventura, Moreno; Latora, Vito] Queen Mary Univ London, Sch Math Sci, London E1 4NS, England.
+   [Aiello, Luca Maria; Quercia, Daniele] Nokia Bell Labs, Cambridge CB30FA, England.
+   [Quercia, Daniele] Kings Coll London, CUSP, London WC2R 2LS, England.
+   [Latora, Vito] Univ Catania, Dipartimento Fis & Astron, I-95123 Catania, Italy.
+   [Latora, Vito] INFN, I-95123 Catania, Italy.
+   [Latora, Vito] Alan Turing Inst, British Lib, London NW12DB, England.
+C3 University of London; Queen Mary University London; Nokia Corporation;
+   University of London; King's College London; University of Catania;
+   Istituto Nazionale di Fisica Nucleare (INFN)
+RP Quercia, D (corresponding author), Nokia Bell Labs, Cambridge CB30FA, England.; Quercia, D (corresponding author), Kings Coll London, CUSP, London WC2R 2LS, England.
+EM quercia@cantab.net
+RI Aiello, Luca Maria/ABB-2507-2021
+OI Aiello, Luca Maria/0000-0002-0654-2527
+FU Leverhulme Trust Research Fellowship "CREATE: the network components of
+   creativity and success"
+FX We thank Valerio Ciotti for his help in collecting the data. VL work was
+   funded by the Leverhulme Trust Research Fellowship "CREATE: the network
+   components of creativity and success".
+CR Acs ZJ, 2008, SMALL BUS ECON, V30, P85, DOI 10.1007/s11187-007-9052-3
+   [Anonymous], 2001, Social Dynamics
+   [Anonymous], 1970, EC CITIES
+   [Anonymous], 1986, AKAIKE INFORM CRITER
+   [Anonymous], 1980, INTRO BIVARIATE MULT
+   [Anonymous], 1993, EXPLOR EC SOCIOL
+   Arasu Arvind, 2002, Proceedings of the Eleventh International World Wide Web Conference, Poster Track, P107
+   Arbesman S, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.016115
+   Arcaute E, 2015, J R SOC INTERFACE, V12, DOI 10.1098/rsif.2014.0745
+   Barbosa H, 2018, PHYS REP, V734, P1, DOI 10.1016/j.physrep.2018.01.001
+   Barthelemy M., 2016, STRUCTURE DYNAMICS C, DOI DOI 10.1017/9781316271377
+   Barthelemy M, 2019, NAT REV PHYS, V1, P406, DOI 10.1038/s42254-019-0054-2
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2007, RES POLICY, V36, P107, DOI 10.1016/j.respol.2006.09.026
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Boldi P, 2014, INTERNET MATH, V10, P222, DOI 10.1080/15427951.2013.865686
+   Bonaventura M, 2020, SCI REP-UK, V10, DOI 10.1038/s41598-019-57209-w
+   Bos JWB, 2014, IND CORP CHANGE, V23, P145, DOI 10.1093/icc/dtt050
+   Cohen L, 2016, SCIENCE, V352, P521, DOI 10.1126/science.aad2686
+   Coscia M, 2017, PROC INT CONF DATA, P425, DOI 10.1109/ICDE.2017.100
+   Crucitti P, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.036125
+   Decker R, 2014, J ECON PERSPECT, V28, P3, DOI 10.1257/jep.28.3.3
+   Depersin J, 2018, P NATL ACAD SCI USA, V115, P2317, DOI 10.1073/pnas.1718690115
+   Eagle N, 2010, SCIENCE, V328, P1029, DOI 10.1126/science.1186605
+   Florida R., 2005, Cities and the Creative Class, DOI DOI 10.1016/j.landurbplan.2013.04.009
+   Glaeser E., 2011, TRIUMPH CITY URBAN S
+   Glaeser EL, 2010, J URBAN ECON, V67, P1, DOI 10.1016/j.jue.2009.10.005
+   Grömping U, 2006, J STAT SOFTW, V17, DOI 10.18637/jss.v017.i01
+   Hall PeterGeoffrey., 1998, Cities in Civilization
+   Haltiwanger J, 2013, REV ECON STAT, V95, P347, DOI 10.1162/REST_a_00288
+   Hargadon AB, 1998, CALIF MANAGE REV, V40, P209, DOI 10.2307/41165951
+   Jacobs J., 2011, DEATH LIFE GREAT AM, DOI DOI 10.1002/9781119084679.CH4
+   Keuschnigg M, 2019, SCI ADV, V5, DOI 10.1126/sciadv.aav0042
+   Kirkley A, 2018, NAT COMMUN, V9, DOI 10.1038/s41467-018-04978-z
+   Lämmer S, 2006, PHYSICA A, V363, P89, DOI 10.1016/j.physa.2006.01.051
+   Latora V., 2017, COMPLEX NETWORKS PRI
+   Makarem NP, 2016, ENVIRON PLANN C, V34, P91, DOI 10.1177/0263774X15614691
+   Marchiori M, 2000, PHYSICA A, V285, P539, DOI 10.1016/S0378-4371(00)00311-3
+   Moretti E., 2012, NEW GEOGRAPHY JOBS
+   Mumford Lewis., 1961, CITY HIST ITS ORIGIN, V67
+   Nicholas T, 2014, ANTITRUST LAW J, V79, P405
+   Page L., 1999, The PageRank citation ranking: Bringing order to the web
+   Pan RK, 2011, PHYS REV E, V84, DOI 10.1103/PhysRevE.84.016105
+   Parise S, 2015, MIT SLOAN MANAGE REV, V56, P21
+   Powell WW, 1996, ADMIN SCI QUART, V41, P116, DOI 10.2307/2393988
+   Saxenian, 1996, REGIONAL ADVANTAGE C
+   Sorenson O, 2001, AM J SOCIOL, V106, P1546, DOI 10.1086/321301
+   Tria F, 2014, SCI REP-UK, V4, DOI 10.1038/srep05890
+   Wiens J., 2014, The importance of young firms for economic growth. Kauffman Foundation
+   Xing WP, 2004, SECOND ANNUAL CONFERENCE ON COMMUNICATION NETWORKS AND SERVICES RESEARCH, PROCEEDINGS, P305, DOI 10.1109/DNSR.2004.1344743
+NR 50
+TC 15
+Z9 17
+U1 4
+U2 22
+PU SPRINGERNATURE
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON, N1 9XW, ENGLAND
+EI 2662-9992
+J9 HUM SOC SCI COMMUN
+JI Hum. Soc. Sci. Commun.
+PD JAN 7
+PY 2021
+VL 8
+IS 1
+AR 10
+DI 10.1057/s41599-020-00685-7
+PG 9
+WC Humanities, Multidisciplinary; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Arts & Humanities - Other Topics; Social Sciences - Other Topics
+GA PW1AY
+UT WOS:000610409700001
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Lou, YC
+   Wang, SY
+AF Lou, Youcheng
+   Wang, Shouyang
+TI The equivalence of two rational expectations equilibrium economies with
+   different approaches to processing neighbors' information
+SO MATHEMATICAL SOCIAL SCIENCES
+LA English
+DT Article
+DE Rational expectations equilibrium; Social networks; Network structure;
+   Signal structure
+ID SOCIAL-INTERACTION; ACQUISITION; NETWORKS; MARKET; COMPLEMENTARITIES;
+   AGGREGATION; TRADES
+AB We consider a finite-agent Hellwig (1980) economy with an extension to allow traders to observe their neighbors' signals in an exogenously given social network. There are two potential approaches for traders to process observed signals: directly infer information about the fundamentals from the complete collection of observed signals, or indirectly from an average of observed signals. The two approaches lead to different information sets for traders. In this study, we investigate whether the two economies corresponding to the two approaches are equivalent in the sense that they have the same market equilibrium. For general network and signal structures, we present a necessary and sufficient condition for the equivalence, revealing that the two finite-agent economies are not equivalent in general unless the network structure and signal structure coordinate well. When traders have homogeneous preferences and the signal structure takes the classical form in the literature, we find that the two finite-agent economies are equivalent for regular graphs, but not for chain and star graphs. Finally, for the classical signal structure, we show that the two large economies, defined as the limit of a sequence of replica finite-agent economies, are equivalent for any network structure. (C) 2020 Elsevier B.V. All rights reserved.
+C1 [Lou, Youcheng; Wang, Shouyang] Chinese Acad Sci, Acad Math & Syst Sci, MDIS, Beijing, Peoples R China.
+   [Wang, Shouyang] Chinese Acad Sci, Ctr Forecasting Sci, Beijing, Peoples R China.
+   [Wang, Shouyang] Univ Chinese Acad Sci, Sch Econ & Management, Beijing, Peoples R China.
+C3 Chinese Academy of Sciences; Chinese Academy of Sciences; Chinese
+   Academy of Sciences; University of Chinese Academy of Sciences, CAS
+RP Lou, YC (corresponding author), Chinese Acad Sci, Acad Math & Syst Sci, 55 Zhongguancun East Rd, Beijing 100190, Peoples R China.
+EM louyoucheng@amss.ac.cn
+OI Lou, Youcheng/0000-0002-1112-4100
+FU National Natural Science Foundation of China [71971208]
+FX This work was supported in part by the National Natural Science
+   Foundation of China under Grant 71971208.
+CR BANERJEE AV, 1992, Q J ECON, V107, P797, DOI 10.2307/2118364
+   BIKHCHANDANI S, 1992, J POLIT ECON, V100, P992, DOI 10.1086/261849
+   Brown JR, 2008, J FINANC, V63, P1509, DOI 10.1111/j.1540-6261.2008.01364.x
+   Carpio R., 2019, BE J THEOR ECON
+   Colla P, 2010, REV FINANC STUD, V23, P203, DOI 10.1093/rfs/hhp021
+   DeGroot M. H., 2004, Optimal Statistical Decisions
+   DEGROOT MH, 1974, J AM STAT ASSOC, V69, P118, DOI 10.2307/2285509
+   DeMarzo PM, 2003, Q J ECON, V118, P909, DOI 10.1162/00335530360698469
+   Feng L, 2004, J FINANC, V59, P2117, DOI 10.1111/j.1540-6261.2004.00694.x
+   Ganguli JV, 2009, J EUR ECON ASSOC, V7, P90, DOI 10.1162/JEEA.2009.7.1.90
+   Goldstein I, 2017, ANNU REV FINANC ECON, V9, P101, DOI 10.1146/annurev-financial-110716-032355
+   Goldstein I, 2015, J FINANC, V70, P1723, DOI 10.1111/jofi.12226
+   GROSSMAN S, 1976, J FINANC, V31, P573, DOI 10.2307/2326627
+   GROSSMAN SJ, 1980, AM ECON REV, V70, P393
+   Halim E, 2019, J FINANC, V74, P1975, DOI 10.1111/jofi.12768
+   Han B, 2013, MANAGE SCI, V59, P1444, DOI 10.1287/mnsc.1120.1678
+   He X.Z., 2019, WORKING PAPER
+   Heimer RZ, 2016, REV FINANC STUD, V29, P3177, DOI 10.1093/rfs/hhw063
+   HELLWIG MF, 1980, J ECON THEORY, V22, P477, DOI 10.1016/0022-0531(80)90056-3
+   Hong H, 2005, J FINANC, V60, P2801, DOI 10.1111/j.1540-6261.2005.00817.x
+   Hong H, 2004, J FINANC, V59, P137, DOI 10.1111/j.1540-6261.2004.00629.x
+   Indjejikian R, 2014, MANAGE SCI, V60, P2762, DOI 10.1287/mnsc.2014.1975
+   Jadbabaie A, 2012, GAME ECON BEHAV, V76, P210, DOI 10.1016/j.geb.2012.06.001
+   Lou YC, 2020, J MATH ECON, V90, P119, DOI 10.1016/j.jmateco.2020.07.003
+   Lou YC, 2019, J ECON THEORY, V183, P594, DOI 10.1016/j.jet.2019.05.004
+   Manela A, 2014, J FINANC ECON, V111, P181, DOI 10.1016/j.jfineco.2013.10.007
+   Molavi P, 2018, ECONOMETRICA, V86, P445, DOI 10.3982/ECTA14613
+   Ozsoylev HN, 2014, REV FINANC STUD, V27, P1323, DOI 10.1093/rfs/hht065
+   Ozsoylev HN, 2011, J ECON THEORY, V146, P2252, DOI 10.1016/j.jet.2011.10.003
+   Pool VK, 2015, J FINANC, V70, P2679, DOI 10.1111/jofi.12208
+   Rahi R, 2018, J ECON THEORY, V177, P558, DOI 10.1016/j.jet.2018.07.007
+   VERRECCHIA RE, 1982, ECONOMETRICA, V50, P1415, DOI 10.2307/1913389
+   Vives X, 2008, INFORMATION AND LEARNING IN MARKETS: THE IMPACT OF MARKET MICROSTRUCTURE, P1
+   Walden J, 2019, REV ECON STUD, V86, P2248, DOI 10.1093/restud/rdy058
+   Yang LY, 2020, REV FINANC STUD, V33, P1484, DOI 10.1093/rfs/hhz070
+NR 35
+TC 1
+Z9 1
+U1 0
+U2 6
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0165-4896
+EI 1879-3118
+J9 MATH SOC SCI
+JI Math. Soc. Sci.
+PD JAN
+PY 2021
+VL 109
+BP 93
+EP 105
+DI 10.1016/j.mathsocsci.2020.11.003
+PG 13
+WC Economics; Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Mathematics; Mathematical Methods In Social
+   Sciences
+GA PW1CA
+UT WOS:000610412600008
+DA 2024-11-22
+ER
+
+PT J
+AU Marquez, C
+   Kerkhoff, AD
+   Naso, J
+   Contreras, MG
+   Diaz, EC
+   Rojas, S
+   Peng, J
+   Rubio, L
+   Jones, D
+   Jacobo, J
+   Rojas, S
+   Gonzalez, R
+   Fuchs, JD
+   Black, D
+   Ribeiro, S
+   Nossokoff, J
+   Tulier-Laiwa, V
+   Martinez, J
+   Chamie, G
+   Pilarowski, G
+   DeRisi, J
+   Petersen, M
+   Havlir, DV
+AF Marquez, Carina
+   Kerkhoff, Andrew D.
+   Naso, Jamie
+   Contreras, Maria G.
+   Diaz, Edgar Castellanos
+   Rojas, Susana
+   Peng, James
+   Rubio, Luis
+   Jones, Diane
+   Jacobo, Jon
+   Rojas, Susy
+   Gonzalez, Rafael
+   Fuchs, Jonathan D.
+   Black, Douglas
+   Ribeiro, Salustiano
+   Nossokoff, Jen
+   Tulier-Laiwa, Valerie
+   Martinez, Jacqueline
+   Chamie, Gabriel
+   Pilarowski, Genay
+   DeRisi, Joseph
+   Petersen, Maya
+   Havlir, Diane, V
+TI A multi-component, community-based strategy to facilitate COVID-19
+   vaccine uptake among Latinx populations: From theory to practice
+SO PLOS ONE
+LA English
+DT Article
+ID KNOWLEDGE; HESITANCY; IMPACT
+AB Background COVID-19 vaccine coverage in the Latinx community depends on delivery systems that overcome barriers such as institutional distrust, misinformation, and access to care. We hypothesized that a community-centered vaccination strategy that included mobilization, vaccination, and "activation" components could successfully reach an underserved Latinx population, utilizing its social networks to boost vaccination coverage.
+   Methods Our community-academic-public health partnership, "Unidos en Salud," utilized a theory-informed approach to design our "Motivate, Vaccinate, and Activate" COVID-19 vaccination strategy. Our strategy's design was guided by the PRECEDE Model and sought to address and overcome predisposing, enabling, and reinforcing barriers to COVID-19 vaccination faced by Latinx individuals in San Francisco. We evaluated our prototype outdoor, "neighborhood" vaccination program located in a central commercial and transport hub in the Mission District in San Francisco, using the Reach, Effectiveness, Adoption, Implementation and Maintenance (RE-AIM) framework during a 16-week period from February 1, 2021 to May 19, 2021. Programmatic data, city-wide COVID-19 surveillance data, and a survey conducted between May 2, 2021 and May 19, 2021 among 997 vaccinated clients >= 16 years old were used in the evaluation.
+   Results There were 20,792 COVID-19 vaccinations administered at the neighborhood site during the 16-week evaluation period. Vaccine recipients had a median age of 43 (IQR 32-56) years, 53.9% were male and 70.5% were Latinx, 14.1% white, 7.7% Asian, 2.4% Black, and 5.3% other. Latinx vaccinated clients were substantially more likely than non-Latinx clients to have an annual household income of less than $50,000 a year (76.1% vs. 33.5%), be a first-generation immigrant (60.2% vs. 30.1%), not have health insurance (47.3% vs. 16.0%), and not have access to primary care provider (62.4% vs. 36.2%). The most frequently reported reasons for choosing vaccination at the site were its neighborhood location (28.6%), easy and convenient scheduling (26.9%) and recommendation by someone they trusted (18.1%); approximately 99% reported having an overall positive experience, regardless of ethnicity. Notably, 58.3% of clients reported that they were able to get vaccinated earlier because of the neighborhood vaccination site, 98.4% of clients completed both vaccine doses, and 90.7% said that they were more likely to recommend COVID-19 vaccination to family and friends after their experience; these findings did not substantially differ according to ethnicity. There were 40.3% of vaccinated clients who said they still knew at least one unvaccinated person (64.6% knew >= 3). Among clients who received both vaccine doses (n = 729), 91.0% said that after their vaccination experience, they had personally reached out to at least one unvaccinated person they knew (61.6% reached out to >= 3) to recommend getting vaccinated; 83.0% of clients reported that one or more friends, and/or family members got vaccinated as a result of their outreach, including 18.9% who reported 6 or more persons got vaccinated as a result of their influence.
+   Conclusions A multi-component, "Motivate, Vaccinate, and Activate" community-based strategy addressing barriers to COVID-19 vaccination for the Latinx population reached the intended population, and vaccinated individuals served as ambassadors to recruit other friends and family members to get vaccinated.
+C1 [Marquez, Carina; Kerkhoff, Andrew D.; Peng, James; Rubio, Luis; Black, Douglas; Chamie, Gabriel; Havlir, Diane, V] Univ Calif San Francisco, Zuckerberg San Francisco Gen Hosp, Div HIV Infect Dis & Global Med, San Francisco, CA 94143 USA.
+   [Marquez, Carina; Kerkhoff, Andrew D.; Peng, James; Rubio, Luis; Black, Douglas; Chamie, Gabriel; Havlir, Diane, V] Univ Calif San Francisco, Trauma Ctr, San Francisco, CA 94143 USA.
+   [Naso, Jamie; Contreras, Maria G.; Diaz, Edgar Castellanos; Jones, Diane; Martinez, Jacqueline] Unidos Salud, San Francisco, CA USA.
+   [Contreras, Maria G.] Univ Calif San Francisco, Dept Med, San Francisco, CA 94143 USA.
+   [Contreras, Maria G.; Diaz, Edgar Castellanos] Clin Martin Baro, San Francisco, CA USA.
+   [Contreras, Maria G.; Rojas, Susana; Jacobo, Jon; Rojas, Susy; Tulier-Laiwa, Valerie] San Francisco Latino Task Force Response COVID 19, San Francisco, CA USA.
+   [Diaz, Edgar Castellanos] Univ Calif San Francisco, Dept Radiol & Biomed Imaging, San Francisco, CA 94143 USA.
+   [Gonzalez, Rafael; Fuchs, Jonathan D.] San Francisco Dept Publ Hlth, San Francisco, CA USA.
+   [Ribeiro, Salustiano; Nossokoff, Jen] Bay Area Phlebot & Lab Serv BayPLS, San Francisco, CA USA.
+   [Pilarowski, Genay] Stanford Univ, Dept Pathol, Stanford, CA 94305 USA.
+   [DeRisi, Joseph] Chan Zuckerberg Biohub, San Francisco, CA USA.
+   [DeRisi, Joseph] Univ Calif San Francisco, Dept Biochem & Biophys, San Francisco, CA USA.
+   [Petersen, Maya] Univ Calif Berkeley, Sch Publ Hlth, Div Epidemiol & Biostat, Berkeley, CA 94720 USA.
+C3 University of California System; University of California San Francisco;
+   University of California System; University of California San Francisco;
+   University of California System; University of California San Francisco;
+   University of California System; University of California San Francisco;
+   San Francisco Department of Public Health; Stanford University;
+   University of California System; University of California San Francisco;
+   University of California System; University of California Berkeley
+RP Marquez, C (corresponding author), Univ Calif San Francisco, Zuckerberg San Francisco Gen Hosp, Div HIV Infect Dis & Global Med, San Francisco, CA 94143 USA.; Marquez, C (corresponding author), Univ Calif San Francisco, Trauma Ctr, San Francisco, CA 94143 USA.
+EM Carina.Marquez@ucsf.edu
+RI Rubio, Luis/AAJ-9561-2021
+OI Marquez, Carina/0000-0002-7622-6562
+FU University of California, San Francisco; Chan Zuckerberg Initiative; San
+   Francisco Department of Public Health;  [T32 AI060530]; National
+   Institute of Allergy and Infectious Diseases [T32AI060530] Funding
+   Source: NIH RePORTER
+FX This work was supported by University of California, San Francisco
+   (http://www.ucsf.edu), the Chan Zuckerberg Initiative
+   (https://urldefense.com/v3/__https://chanzuckerberg.com__;!!LQC6C
+   pwp!_kOZyaVmp6cASxENUlQH2bpstcBdps63uoc
+   YYCdsMxaO5vd9CxrZckurtdxZ0dDkrqqPlw$), and the San Francisco Department
+   of Public Health. A. D.K and L.R. was funded by T32 AI060530. The
+   funders had no role in study design, data collection and analysis,
+   decision to publish, or preparation of the manuscript.
+CR Abdul-Mutakabbir JC., 2021, LANCET GLOBAL HEAL, V9, P749, DOI [10.1016/S2214-109X%2821%2900099-1, DOI 10.1016/S2214-109X%2821%2900099-1]
+   [Anonymous], 2020, SAN FRANCISCO LATINO
+   Baden LR, 2021, NEW ENGL J MED, V384, P403, DOI 10.1056/NEJMoa2035389
+   Banerjee AV, 2010, BMJ-BRIT MED J, V340, DOI 10.1136/bmj.c2220
+   Benenson S, 2021, NEW ENGL J MED, V384, P1775, DOI 10.1056/NEJMc2101951
+   Bibbins-Domingo Kirsten, 2021, JAMA Health Forum, V2, pe210213, DOI 10.1001/jamahealthforum.2021.0213
+   Cabanatuan M, 2021, SAN FRANCISCO CHRONI
+   California Department of Public Health, VACC PROGR DAT COR C
+   Census Reporter, ZIP COD TAB AR 94110
+   Chamie G, 2021, CLIN INFECT DIS, V73, pS127, DOI 10.1093/cid/ciaa1234
+   Drahota A, 2016, MILBANK Q, V94, P163, DOI 10.1111/1468-0009.12184
+   Fields J., 2021, NEJM Catal
+   Fisher EB, 2015, HEALTH AFFAIR, V34, P1523, DOI 10.1377/hlthaff.2015.0365
+   Funnell MM, 2010, FAM PRACT, V27, pI17, DOI 10.1093/fampra/cmp027
+   Gil RM, 2020, J INFECT DIS, V222, P1592, DOI 10.1093/infdis/jiaa474
+   Glasgow RE, 2019, FRONT PUBLIC HEALTH, V7, DOI 10.3389/fpubh.2019.00064
+   Gottvall M, 2010, INT J STD AIDS, V21, P558, DOI 10.1258/ijsa.2010.010063
+   Haas EJ, 2021, LANCET, V397, P1819, DOI 10.1016/S0140-6736(21)00947-8
+   Hunter RF, 2019, PLOS MED, V16, DOI 10.1371/journal.pmed.1002890
+   Jarrett C, 2015, VACCINE, V33, P4180, DOI 10.1016/j.vaccine.2015.04.040
+   Kaiser Family Foundation, 2021, KFF COV 19 VACC MON
+   Kerkhoff AD, 2020, PLOS ONE, V15, DOI 10.1371/journal.pone.0239400
+   Kriss JL, 2021, MMWR-MORBID MORTAL W, V70, P389, DOI 10.15585/mmwr.mm7011e2
+   Kullar R, 2020, J INFECT DIS, V222, P890, DOI 10.1093/infdis/jiaa372
+   MacDonald NE, 2015, VACCINE, V33, P4161, DOI 10.1016/j.vaccine.2015.04.036
+   Marcelin JR., 2021, OPEN FORUM INFECT DI, DOI [10.1093/ofid/ofab417, DOI 10.1093/OFID/OFAB417]
+   Martinez O, 2015, J IMMIGR MINOR HEALT, V17, P947, DOI 10.1007/s10903-013-9968-4
+   McNamara D, 2021, MEDSCAPE MED NEWS
+   Medicine NA of S Engineering, 2021, STRATEGIES BUILDING
+   Morey BN, 2018, AM J PUBLIC HEALTH, V108, P460, DOI [10.2105/AJPH.2017.304266, 10.2105/ajph.2017.304266]
+   Ndugga N., 2022, Latest Data on COVID-19 Vaccinations by Race/Ethnicity
+   Nuriddin A, 2020, LANCET, V396, P949, DOI 10.1016/S0140-6736(20)32032-8
+   O'Donoghue T., 1999, GLOB HLTH J, V89, P103, DOI [10.1257/aer.89.1.103, DOI 10.1016/J.GLOHJ.2021.02.005, 10.1016/j.glohj.2021.02.005]
+   Peng J, 2021, OPEN FORUM INFECT DI, V8, DOI 10.1093/ofid/ofab202
+   Peterson P, 2019, PUBLIC HEALTH REP, V134, P241, DOI 10.1177/0033354919834579
+   Pilarowski G, 2021, J INFECT DIS, V223, P1139, DOI 10.1093/infdis/jiaa802
+   Polack FP, 2020, NEW ENGL J MED, V383, P2603, DOI 10.1056/NEJMoa2034577
+   Porter CM, 2016, HEALTH EDUC J, V75, P753, DOI 10.1177/0017896915619645
+   Prevention C for DC and, MMWR MORB MORTAL WKL, P1
+   Rodriguez-Diaz CE, 2020, ANN EPIDEMIOL, V52, P46, DOI 10.1016/j.annepidem.2020.07.007
+   Rubio LA, 2021, OPEN FORUM INFECT DI, V8, DOI 10.1093/ofid/ofab023
+   Saadi A, 2020, JAMA NETW OPEN, V3, DOI 10.1001/jamanetworkopen.2020.3028
+   San Francisco Department of Public Health, COVID 19 DAT REP
+   Shelton RC, 2020, FRONT PUBLIC HEALTH, V8, DOI 10.3389/fpubh.2020.00134
+   Spleen AM, 2012, J CANCER EDUC, V27, P312, DOI 10.1007/s13187-011-0294-z
+   Urban Displacement Project, 2018, RIS HOUS COSTS RES S
+   Vavreck L, 2021, NEW YORK TIMES
+   Hooper MW, 2021, J GEN INTERN MED, V36, P2130, DOI 10.1007/s11606-021-06698-5
+   Weiland N, 2021, New York Times
+   Williams DR, 2019, INT J ENV RES PUB HE, V16, DOI 10.3390/ijerph16040606
+   Zaveri M., 2021, NEW YORK TIMES
+NR 51
+TC 60
+Z9 63
+U1 0
+U2 11
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD SEP 20
+PY 2021
+VL 16
+IS 9
+AR e0257111
+DI 10.1371/journal.pone.0257111
+PG 27
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA WG6BN
+UT WOS:000707078200021
+PM 34543291
+OA Green Published, Green Submitted, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Radicioni, T
+   Saracco, F
+   Pavan, E
+   Squartini, T
+AF Radicioni, Tommaso
+   Saracco, Fabio
+   Pavan, Elena
+   Squartini, Tiziano
+TI Analysing Twitter semantic networks: the case of 2018 Italian elections
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID CAMPAIGNS; HASHTAG
+AB Social media play a key role in shaping citizens' political opinion. According to the Eurobarometer, the percentage of EU citizens employing online social networks on a daily basis has increased from 18% in 2010 to 48% in 2019. The entwinement between social media and the unfolding of political dynamics has motivated the interest of researchers for the analysis of users online behavior-with particular emphasis on group polarization during debates and echo-chambers formation. In this context, semantic aspects have remained largely under-explored. In this paper, we aim at filling this gap by adopting a two-steps approach. First, we identify the discursive communities animating the political debate in the run up of the 2018 Italian Elections as groups of users with a significantly-similar retweeting behavior. Second, we study the mechanisms that shape their internal discussions by monitoring, on a daily basis, the structural evolution of the semantic networks they induce. Above and beyond specifying the semantic peculiarities of the Italian electoral competition, our approach innovates studies of online political discussions in two main ways. On the one hand, it grounds semantic analysis within users' behaviors by implementing a method, rooted in statistical theory, that guarantees that our inference of socio-semantic structures is not biased by any unsupported assumption about missing information; on the other, it is completely automated as it does not rest upon any manual labelling (either based on the users' features or on their sharing patterns). These elements make our method applicable to any Twitter discussion regardless of the language or the topic addressed.
+C1 [Radicioni, Tommaso] Scuola Normale Super Pisa, Pzza Cavalieri 7, I-56126 Pisa, Italy.
+   [Radicioni, Tommaso; Saracco, Fabio; Squartini, Tiziano] IMT Sch Adv Studies, Pzza S Ponziano 6, I-55100 Lucca, Italy.
+   [Pavan, Elena] Univ Trento, Via Verdi 26, I-38122 Trento, Italy.
+C3 Scuola Normale Superiore di Pisa; IMT School for Advanced Studies Lucca;
+   University of Trento
+RP Radicioni, T (corresponding author), Scuola Normale Super Pisa, Pzza Cavalieri 7, I-56126 Pisa, Italy.; Radicioni, T (corresponding author), IMT Sch Adv Studies, Pzza S Ponziano 6, I-55100 Lucca, Italy.
+EM tommaso.radicioni@sns.it
+RI Saracco, Fabio/O-5295-2015; Squartini, Tiziano/H-8823-2017
+OI Saracco, Fabio/0000-0003-0812-5927; Squartini,
+   Tiziano/0000-0001-9011-966X
+FU European Project SoBigData++ [871042]; Italian 'Programma di Attivita
+   Integrata' (PAI) project 'TOol for Fighting FakEs' (TOFFE) - IMT School
+   for Advanced Studies Lucca; project "I-Polhys-Investigating Polarization
+   in Hybrid Media Systems" - Italian Ministry of University and Research
+   [20175HFEB3]
+FX F.S. and T.S. acknowledge support from the European Project SoBigData++
+   (GA. 871042). F.S. also acknowledges support from the Italian 'Programma
+   di Attivita Integrata' (PAI) project 'TOol for Fighting FakEs' (TOFFE),
+   funded by IMT School for Advanced Studies Lucca. E.P. acknowledges
+   support from the project "I-Polhys-Investigating Polarization in Hybrid
+   Media Systems" funded by the Italian Ministry of University and Research
+   within the PRIN 2017 framework (Research Projects of Relevant National
+   Interest for the year 2017; project code: 20175HFEB3).
+CR [Anonymous], 2019, STANDARD EUROBAROMET, DOI 10.2775/80086
+   [Anonymous], 2011, 5 INT AAAI C WEBL SO
+   Badawy A, 2018, 2018 IEEE/ACM INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING (ASONAM), P258
+   Bastian M., 2009, GEPHI OPEN SOURCE SO
+   Bastos MT, 2016, NEW MEDIA SOC, V18, P2359, DOI 10.1177/1461444815584764
+   Becatti C, 2019, PALGR COMMUN, V5, DOI 10.1057/s41599-019-0300-3
+   Bianconi G, 2014, PHYS REV E, V90, DOI 10.1103/PhysRevE.90.042806
+   Bobba G., 2018, ITAL POLIT SCI, V1
+   Bovet A, 2019, NAT COMMUN, V10, DOI 10.1038/s41467-018-07761-2
+   Caldarelli G, 2020, COMMUN PHYS-UK, V3, DOI 10.1038/s42005-020-0340-4
+   Castells M, 2011, INT J COMMUN-US, V5, P773
+   Celli F, 2015, COMPUT INTELL-US, V31, P184, DOI 10.1111/coin.12023
+   Cherepnalkoski Darko, 2016, Appl Netw Sci, V1, P2, DOI 10.1007/s41109-016-0001-4
+   Conover M. D., 2011, Proceedings of the 2011 IEEE Third International Conference on Privacy, Security, Risk and Trust and IEEE Third International Conference on Social Computing (PASSAT/SocialCom 2011), P192, DOI 10.1109/PASSAT/SocialCom.2011.34
+   Cosenza V, 2019, SOCIAL MEDIA ITALIA
+   Cresci Stefano, 2019, Online Social Networks and Media, V9, P1, DOI 10.1016/j.osnem.2018.10.005
+   Cresci S, 2018, COMPANION PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE 2018 (WWW 2018), P1469, DOI 10.1145/3184558.3191595
+   Cresci S, 2015, DECIS SUPPORT SYST, V80, P56, DOI 10.1016/j.dss.2015.09.003
+   de Jeude JV, 2019, EPL-EUROPHYS LETT, V125, DOI 10.1209/0295-5075/125/68001
+   Del Vicario M, 2017, SOC NETWORKS, V50, P6, DOI 10.1016/j.socnet.2017.02.002
+   Del Vicario M, 2017, SCI REP-UK, V7, DOI 10.1038/srep40391
+   Easley D., 2010, Networks, Crowds, and Markets Reasoning about a Highly Connected World, DOI [10.1017/CBO9780511761942, DOI 10.1017/CBO9780511761942]
+   Elisa S., 2018, NEWS USE SOCIAL MEDI
+   Evans HK, 2017, SOC MEDIA SOC, V3, DOI 10.1177/2056305117704408
+   Ferrara E, 2016, COMMUN ACM, V59, P96, DOI 10.1145/2818717
+   Gaumont N, 2018, PLOS ONE, V13, DOI 10.1371/journal.pone.0201879
+   Giglietto F, 2018, SSRN Electron. J., DOI DOI 10.2139/SSRN.3179930
+   Giglietto F., 2015, Proceedings of the 5th Workshop on Making Sense of Microposts co-located with the 24th International World Wide Web Conference, V1395, P33
+   Gillespie T., 2013, MAT MEDIA COMMUNICAT
+   Gomaa W.H., 2013, International Journal of Computer Applications, V68, P13, DOI [10.5120/11638-7118, DOI 10.5120/11638-7118]
+   González-Bailón S, 2013, AM BEHAV SCI, V57, P943, DOI 10.1177/0002764213479371
+   Hanna A, 2013, MOBILIZATION, V18, P367
+   Hanna Alexander., 2013, Proceedings of the 2nd Workshop on Politics, Elections and Data, PLEAD'13, page, P15
+   Highfield T., 2016, ROUTLEDGE COMPANION, P338
+   Jungherr A, 2016, J INF TECHNOL POLITI, V13, P72, DOI 10.1080/19331681.2015.1132401
+   Keller TR, 2020, ENVIRON COMMUN, V14, P219, DOI 10.1080/17524032.2019.1643383
+   Keller TR, 2019, POLIT COMMUN, V36, P171, DOI 10.1080/10584609.2018.1526238
+   Kitsak M, 2010, NAT PHYS, V6, P888, DOI [10.1038/NPHYS1746, 10.1038/nphys1746]
+   Kong YX, 2019, PHYS REP, V832, P1, DOI 10.1016/j.physrep.2019.10.004
+   Latour, 2005, Reassembling the Social: An Introduction to Actor-Network Theory
+   Lin YR, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0094093
+   Malvestio I., 2020, INTERPLAY CORE COMMU
+   Marchetti R, 2016, JOURNAL PRACT, V10, P626, DOI 10.1080/17512786.2015.1040051
+   Morales AJ, 2015, CHAOS, V25, DOI 10.1063/1.4913758
+   Padovani C, 2016, GLOBAL NETW, V16, P350, DOI 10.1111/glob.12119
+   Pariser E., 2011, FILTER BUBBLE WHAT I
+   Pavan E, 2017, SOC MOVEMENT STUD, V16, P433, DOI 10.1080/14742837.2016.1268956
+   Pei S, 2014, SCI REP-UK, V4, DOI 10.1038/srep05547
+   Pfeffer J, 2018, EPJ DATA SCI, V7, DOI 10.1140/epjds/s13688-018-0178-0
+   Radicioni T., 2021, ARXIV210304653
+   Rapini A., 2019, ANN C ASS IT POL COM
+   Saracco F, 2017, NEW J PHYS, V19, DOI 10.1088/1367-2630/aa6b38
+   Saracco F, 2015, SCI REP-UK, V5, DOI 10.1038/srep10595
+   Schmidt AL, 2018, VACCINE, V36, P3606, DOI 10.1016/j.vaccine.2018.05.040
+   Schmidt AL, 2017, P NATL ACAD SCI USA, V114, P3035, DOI 10.1073/pnas.1617052114
+   Small TA, 2011, INFORM COMMUN SOC, V14, P872, DOI 10.1080/1369118X.2011.554572
+   Straka MJ, 2017, PHYS REV E, V96, DOI 10.1103/PhysRevE.96.022306
+   Xiong Y, 2019, PUBLIC RELAT REV, V45, P10, DOI 10.1016/j.pubrev.2018.10.014
+   Zollo F, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0181821
+NR 59
+TC 16
+Z9 16
+U1 0
+U2 12
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD JUN 24
+PY 2021
+VL 11
+IS 1
+AR 13207
+DI 10.1038/s41598-021-92337-2
+PG 22
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA TF4YI
+UT WOS:000670723800010
+PM 34168169
+OA Green Published, Green Submitted, gold
+DA 2024-11-22
+ER

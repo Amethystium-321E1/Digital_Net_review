@@ -1,0 +1,636 @@
+
+PT J
+AU Franken, R
+   Bekhuis, H
+   Tolsma, J
+AF Franken, Rob
+   Bekhuis, Hidde
+   Tolsma, Jochem
+TI Kudos make you run! How runners influence each other on the online
+   social network Strava
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Social network analysis; Sports; Social support; Social influence;
+   Strava; SAOM
+ID PHYSICAL-ACTIVITY; SELECTION; DYNAMICS; DRINKING; SUPPORT
+AB Strava is the largest online social network for athletes. We used Strava's big data to investigate how runners in the same virtual Strava club influenced each other's running behavior. We hypothesized that receiving kudos on recorded activities would spur exercise rates, and that the running behavior of clubmates to whom ego gave kudos would serve as a motivational example. We focused on five different Strava clubs that functioned as a virtual extension of real-life Dutch running clubs with a total of 329 members. Using data on kudos and recorded activities, we constructed a longitudinal dataset of complete networks and behavior over 11 periods with a one -month time window. We tested our hypotheses using SIENA. We found that receiving kudos induced runners to run more and more often. Moreover, athletes tended to adjust their running behavior to that of their 'kudos -friends' (i.e., those to whom they gave kudos). Contrary to our expectation, kudos-friends who ran more and more often than ego were not the most influential. If anything, the reverse was true; athletes were more likely to come to resemble the running behavior of their kudos-friends who ran less and less often.
+C1 [Franken, Rob; Tolsma, Jochem] Radboud Univ Nijmegen, Dept Sociol, POB 9104, NL-6500 HE Nijmegen, Netherlands.
+   [Bekhuis, Hidde] Radboud Univ Nijmegen, Dept Orthopedagog Learning & Dev, POB 9104, NL-6500 HE Nijmegen, Netherlands.
+   [Tolsma, Jochem] Univ Groningen, Dept Sociol, Grote Rozenstr 31, NL-9712 TG Groningen, Netherlands.
+C3 Radboud University Nijmegen; Radboud University Nijmegen; University of
+   Groningen
+RP Franken, R (corresponding author), Radboud Univ Nijmegen, Dept Sociol, POB 9104, NL-6500 HE Nijmegen, Netherlands.
+EM rob.franken@ru.nl; hidde.bekhuis@ru.nl; jochem.tolsma@ru.nl
+RI Tolsma, Jochem/H-5746-2012; Bekhuis, Hidde/E-6645-2013
+OI Franken, Rob/0000-0002-9715-617X; Bekhuis, Hidde/0000-0001-6174-5637
+CR AJZEN I, 1991, ORGAN BEHAV HUM DEC, V50, P179, DOI 10.1016/0749-5978(91)90020-T
+   Almquist ZW, 2019, FIELD METHOD, V31, P23, DOI 10.1177/1525822X18799426
+   [Anonymous], 2006, Methodology
+   Bandura A, 2001, ANNU REV PSYCHOL, V52, P1, DOI 10.1146/annurev.psych.52.1.1
+   Bernard H.R., 1977, HUMAN COMMUNICATIONS, V4, P3, DOI DOI 10.1111/J.1468-2958.1977.TB00591.X
+   Block P, 2015, SOC NETWORKS, V40, P163, DOI 10.1016/j.socnet.2014.10.005
+   Bojanowski M, 2014, SOC NETWORKS, V39, P14, DOI 10.1016/j.socnet.2014.04.001
+   Centola D, 2015, SOC SCI MED, V125, P19, DOI 10.1016/j.socscimed.2014.05.019
+   Chen Y, 2014, PROCEEDINGS OF CHINESE CHI 2014: SECOND INTERNATIONAL SYMPOSIUM OF CHINESE CHI (CHINESE CHI 2014), P25, DOI 10.1145/2592235.2592240
+   COLEMAN JS, 1958, HUM ORGAN, V17, P28, DOI 10.17730/humo.17.4.q5604m676260q8n7
+   Couture J, 2021, QUAL RES SPORT EXERC, V13, P184, DOI 10.1080/2159676X.2020.1836514
+   de la Haye K, 2011, SOC SCI MED, V73, P719, DOI 10.1016/j.socscimed.2011.06.023
+   Diel K, 2021, PSYCHOL SPORT EXERC, V57, DOI 10.1016/j.psychsport.2021.102048
+   Diel K, 2021, J PERS SOC PSYCHOL, V120, P1415, DOI 10.1037/pspa0000204
+   Dyrstad SM, 2014, MED SCI SPORT EXER, V46, P99, DOI 10.1249/MSS.0b013e3182a0595f
+   Edelmann A, 2020, ANNU REV SOCIOL, V46, P61, DOI 10.1146/annurev-soc-121919-054621
+   Festinger L, 1954, HUM RELAT, V7, P117, DOI 10.1177/001872675400700202
+   Fitzgerald A, 2012, J ADOLESCENCE, V35, P941, DOI 10.1016/j.adolescence.2012.01.002
+   Franken R, 2020, DANS, DOI 10.17026/dans-zd5-bp24
+   Franken R, 2022, FRONT SPORTS ACT LIV, V4, DOI 10.3389/fspor.2022.643150
+   Fujimoto K, 2018, NETW SCI, V6, P370, DOI 10.1017/nws.2018.11
+   Gallupe O, 2019, J QUANT CRIMINOL, V35, P313, DOI 10.1007/s10940-018-9384-y
+   Goethals G., 1977, Social comparisons processes: Theoretical and empirical perspectives, P259
+   Hamari J, 2015, COMPUT HUM BEHAV, V50, P333, DOI 10.1016/j.chb.2015.04.018
+   Heaney C. A., 2008, HLTH BEHAV HLTH ED, V4, P189, DOI DOI 10.1177/109019818501200106
+   Hedges L. V., 2014, STAT METHODS META AN
+   Huisman M, 2003, SOCIOL METHOD RES, V32, P253, DOI 10.1177/0049124103256096
+   Hunter RF, 2019, PLOS MED, V16, DOI 10.1371/journal.pmed.1002890
+   Indlekofer N., 2013, Network Science, V1, P278, DOI DOI 10.1017/NWS.2013.21
+   Janssen M, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0181167
+   Karahanoglu A, 2021, SENSORS-BASEL, V21, DOI 10.3390/s21113687
+   Keegan R, 2011, SPORTS ATHL PREP PER, P1
+   Keeling MJ, 2005, J R SOC INTERFACE, V2, P295, DOI 10.1098/rsif.2005.0051
+   Koivisto J, 2019, INT J INFORM MANAGE, V45, P191, DOI 10.1016/j.ijinfomgt.2018.10.013
+   Lospinoso J., 2019, METHODOLOGICAL INNOV, V12, P1, DOI DOI 10.1177/2059799119884282
+   Lupton D., 2016, QUANTIFIED SELF
+   Marsh HW, 2008, J EDUC PSYCHOL, V100, P510, DOI 10.1037/0022-0663.100.3.510
+   McFarland DA, 2014, AM SOCIOL REV, V79, P1088, DOI 10.1177/0003122414554001
+   McMillan C, 2018, SOC NETWORKS, V55, P86, DOI 10.1016/j.socnet.2018.05.008
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Merriam-Webster, KUD
+   MORAN PAP, 1948, J ROY STAT SOC B, V10, P243
+   Moreno MA, 2012, ARCH PEDIAT ADOL MED, V166, P157, DOI 10.1001/archpediatrics.2011.180
+   Murray JM, 2017, SOC SCI MED, V192, P125, DOI 10.1016/j.socscimed.2017.09.021
+   Noakes T., 2003, LORE RUNNING, V4th
+   Pratt M, 2020, BRIT J SPORT MED, V54, P760, DOI 10.1136/bjsports-2019-101392
+   Ragan DT, 2020, CRIMINOLOGY, V58, P336, DOI 10.1111/1745-9125.12238
+   Rambaran JA, 2017, CHILD DEV, V88, P523, DOI 10.1111/cdev.12611
+   Ripley R.M., 2022, MANUAL RSIENA, V1
+   Salathé M, 2013, EPJ DATA SCI, V2, DOI 10.1140/epjds16
+   Sauder M, 2012, ANNU REV SOCIOL, V38, P267, DOI 10.1146/annurev-soc-071811-145503
+   Scheerder J, 2015, RUNNING ACROSS EUROPE: THE RISE AND SIZE OF ONE OF THE LARGEST SPORT MARKETS, P1
+   Schmidt-Kraepelin M., 2019, Proceedings of the 14th International Conference on Wirtschaftsinformatik, P1032
+   Schweinberger M, 2012, BRIT J MATH STAT PSY, V65, P263, DOI 10.1111/j.2044-8317.2011.02022.x
+   Shalizi CR, 2011, SOCIOL METHOD RES, V40, P211, DOI 10.1177/0049124111404820
+   Sheridan D, 2014, INT REV SPORT EXER P, V7, P198, DOI 10.1080/1750984X.2014.931999
+   Shoham DA, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0039795
+   Simpkins SD, 2013, J RES ADOLESCENCE, V23, P537, DOI 10.1111/j.1532-7795.2012.00836.x
+   Smith NR, 2020, CURR NUTR REP, V9, P31, DOI 10.1007/s13668-020-00302-8
+   Smith WR, 2017, COMMUN STUD, V68, P135, DOI 10.1080/10510974.2016.1269818
+   Snijders TAB, 2010, SOC NETWORKS, V32, P44, DOI 10.1016/j.socnet.2009.02.004
+   Spotswood F, 2020, SOCIOL HEALTH ILL, V42, P772, DOI 10.1111/1467-9566.13057
+   Stadtfeld C, 2018, EMERGING TRENDS SOCI, P1, DOI 10.1002/9781118900772.etrds0463
+   Stadtfeld C, 2017, SOCIOL SCI, V4, P318, DOI 10.15195/v4.a14
+   Stier S, 2020, SOC SCI COMPUT REV, V38, P503, DOI 10.1177/0894439319843669
+   Stragier J, 2018, HEALTH EDUC BEHAV, V45, P124, DOI 10.1177/1090198117703055
+   Strava, 2022, FEED ORD
+   Subrahmanyam K, 2008, J APPL DEV PSYCHOL, V29, P420, DOI 10.1016/j.appdev.2008.07.003
+   Viechtbauer W, 2010, J STAT SOFTW, V36, P1, DOI 10.18637/jss.v036.i03
+   Walton CC, 2020, PSYCHOL SPORT EXERC, V50, DOI 10.1016/j.psychsport.2020.101733
+   World Health Organization, 2018, Global action plan on physical activity 2018-2030: more active people for a healthier world Internet
+   Zhang Jingwen, 2015, Prev Med Rep, V2, P651, DOI 10.1016/j.pmedr.2015.08.005
+   Zhang Jingwen, 2016, Prev Med Rep, V4, P453, DOI 10.1016/j.pmedr.2016.08.008
+NR 73
+TC 7
+Z9 9
+U1 17
+U2 36
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JAN
+PY 2023
+VL 72
+BP 151
+EP 164
+DI 10.1016/j.socnet.2022.10.001
+EA OCT 2022
+PG 14
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 6G6AY
+UT WOS:000884837300001
+OA Green Published, hybrid
+DA 2024-11-22
+ER
+
+PT J
+AU Wittek, M
+   Bartenhagen, C
+   Berthold, F
+AF Wittek, Mark
+   Bartenhagen, Christoph
+   Berthold, Frank
+TI The development of stratification and segregation in a new scientific
+   field: A study of collaboration among scientists in neuroblastoma
+   research between 1975 and 2016
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Scientific networks; Long-term changes in network structure; Status;
+   Segregation; Matthew effect; ERGMs
+ID RANDOM GRAPH MODELS; CUMULATIVE ADVANTAGE; BIOMEDICAL-RESEARCH; STATUS
+   HIERARCHIES; SOCIAL NETWORK; PHD EXCHANGE; SCIENCE; IMPACT; CONSENSUS;
+   SIZE
+AB Using a new data set on scientific collaboration in neuroblastoma research over a period of 41 years, we study how the structure of collaboration ties in an evolving scientific field changes over time. Guided by concepts from the sociology of knowledge and status theories, we highlight the importance of a field's size and age for processes of stratification and segregation within it. Our findings suggest that stratification becomes stronger and di-versifies as the field of neuroblastoma research expands. Moreover, we find that the occurrence of collaboration between researchers with a similar status becomes more likely as the field matures. While previous work has primarily examined established fields, our study focuses on how scientific fields change their structure over time. More broadly, our article demonstrates the potential analytical merits of adopting a dynamic and relational perspective on the developmental trajectories of organizational and cultural fields.
+C1 [Wittek, Mark] Univ Cologne, Inst Sociol & Social Psychol, Meister-Ekkehardt-Str 1, D-50937 Cologne, Germany.
+   [Bartenhagen, Christoph; Berthold, Frank] Univ Cologne, Dept Pediat Oncol & Hematol, Kerpener Str 62, D-50924 Cologne, Germany.
+   [Wittek, Mark] Univ Cologne, Inst Sociol & Social Psychol, Albertus Magnus Pl, D-50923 Cologne, Germany.
+C3 University of Cologne; University of Cologne; University of Cologne
+RP Wittek, M (corresponding author), Univ Cologne, Inst Sociol & Social Psychol, Albertus Magnus Pl, D-50923 Cologne, Germany.
+EM wiso@uni-koeln.de; c.bartenhagen@uni-koeln.de;
+   frank.berthold@uk-koeln.de
+RI Berthold, Frank/HNC-2850-2023
+OI Berthold, Frank/0000-0002-7613-1723; Wittek, Mark/0000-0003-3818-1997
+FU European Research Council (ERC) under the European Union [716461];
+   European Research Council (ERC) [716461] Funding Source: European
+   Research Council (ERC)
+FX This work has been supported by funding from the European Research
+   Council (ERC) under the European Union?s Horizon 2020 research and
+   innovation pro- gramme (grant agreement No. 716461) .
+CR Adams J, 2016, J HEALTH SOC BEHAV, V57, P22, DOI 10.1177/0022146515627848
+   Adler P.A., 1998, Peer power: Preadolescent culture and identity
+   Alberts B, 2014, P NATL ACAD SCI USA, V111, P5773, DOI 10.1073/pnas.1404402111
+   ALLISON PD, 1982, AM SOCIOL REV, V47, P615, DOI 10.2307/2095162
+   Anderson BS, 1999, SOC NETWORKS, V21, P239, DOI 10.1016/S0378-8733(99)00011-8
+   Anderson C, 2015, PSYCHOL BULL, V141, P574, DOI 10.1037/a0038781
+   [Anonymous], 1993, Canvases and Careers: Institutional Change in the French Painting World
+   [Anonymous], 2011, HDB SOCIAL NETWORK A
+   Avisse C, 2000, SURG CLIN N AM, V80, P403, DOI 10.1016/S0039-6109(05)70412-6
+   Azoulay P, 2010, Q J ECON, V125, P549, DOI 10.1162/qjec.2010.125.2.549
+   BADHAM J.M., 2013, Network Science, V1, P213, DOI [DOI 10.1017/NWS.2013.10, 10.1017/nws.2013.10]
+   Barabási AL, 2002, PHYSICA A, V311, P590, DOI 10.1016/S0378-4371(02)00736-7
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Baumann S, 2001, AM SOCIOL REV, V66, P404, DOI 10.2307/3088886
+   Becker Howard S., 2008, ART WORLDS
+   Bennett Dianne M, 2003, Emerg Med (Fremantle), V15, P263, DOI 10.1046/j.1442-2026.2003.00432.x
+   BERGER J, 1972, AM SOCIOL REV, V37, P241, DOI 10.2307/2093465
+   Berthold F, 2019, PLOS ONE, V14, DOI 10.1371/journal.pone.0210994
+   Blau P.M., 1977, INEQUALITY HETEROGEN
+   Blau P.M., 1994, ORG ACAD WORK, V2nd
+   BLAU PM, 1968, AM J SOCIOL, V73, P453, DOI 10.1086/224506
+   Boardman PC, 2007, J HIGH EDUC-UK, V78, P51, DOI 10.1353/jhe.2007.0000
+   Bojanowski M, 2014, SOC NETWORKS, V39, P14, DOI 10.1016/j.socnet.2014.04.001
+   Bol T, 2018, P NATL ACAD SCI USA, V115, P4887, DOI 10.1073/pnas.1719557115
+   Borkenhagen C, 2018, SOC FORCES, V97, P1, DOI 10.1093/sf/soy024
+   Bourdieu, 1984, DISTINCTION SOCIAL C, P331
+   Johnson Randal., 1993, FIELD CULTURAL PRODU
+   Bourdieu P., 1988, HOMOACADEMICUS
+   Bozeman B, 2011, RES POLICY, V40, P1393, DOI 10.1016/j.respol.2011.07.002
+   Brashears ME, 2015, SOC NETWORKS, V41, P113, DOI 10.1016/j.socnet.2014.11.003
+   Brashears ME, 2013, SCI REP-UK, V3, DOI 10.1038/srep01513
+   BRODEUR GM, 1993, J CLIN ONCOL, V11, P1466, DOI 10.1200/JCO.1993.11.8.1466
+   Brodeur GM, 2003, NAT REV CANCER, V3, P203, DOI 10.1038/nrc1014
+   Burris V, 2004, AM SOCIOL REV, V69, P239, DOI 10.1177/000312240406900205
+   Carnabuci G, 2018, ORGAN SCI, V29, P118, DOI 10.1287/orsc.2017.1171
+   CHEUNG NKV, 1991, J CLIN ONCOL, V9, P1050, DOI 10.1200/JCO.1991.9.6.1050
+   CHUBIN DE, 1976, SOCIOL QUART, V17, P448, DOI 10.1111/j.1533-8525.1976.tb01715.x
+   Cole J, 1973, Social Stratification in Science
+   Coleman J., 1961, ADOLESCENT SOC, V1st
+   Coser L.A., 1975, The Idea of Social Structure
+   Costas R, 2011, SCIENTOMETRICS, V88, P145, DOI 10.1007/s11192-011-0368-z
+   Crane D., 1972, INVISIBLE COLL DIFFU
+   Dahlander L, 2013, ADMIN SCI QUART, V58, P69, DOI 10.1177/0001839212474272
+   DEHNER LP, 1988, AM J PEDIAT HEMATOL, V10, P143
+   Duxbury S., 2019, ergMargins: Process Analysis for Exponential Random Graph Models. R package version 0.1.0
+   Duxbury SW, 2023, SOCIOL METHOD RES, V52, P764, DOI 10.1177/0049124120986178
+   Eom YH, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0024926
+   EVANS AE, 1971, CANCER, V27, P374, DOI 10.1002/1097-0142(197102)27:2<374::AID-CNCR2820270221>3.0.CO;2-G
+   Evans JA, 2008, SCIENCE, V321, P395, DOI 10.1126/science.1150473
+   FELD SL, 1981, AM J SOCIOL, V86, P1015, DOI 10.1086/227352
+   Ferligoj A, 2015, SCIENTOMETRICS, V104, P985, DOI 10.1007/s11192-015-1585-7
+   Fisher JC, 2018, SOC CURR, V5, P49, DOI 10.1177/2329496517704859
+   Fiske S.T., 2011, ENVY SCORN STATUS DI
+   Fochler M, 2016, MINERVA, V54, P175, DOI 10.1007/s11024-016-9292-y
+   Foster JG, 2015, AM SOCIOL REV, V80, P875, DOI 10.1177/0003122415601618
+   Frickel S, 2005, AM SOCIOL REV, V70, P204, DOI 10.1177/000312240507000202
+   FRIEDKIN NE, 1978, AM J SOCIOL, V83, P1444, DOI 10.1086/226708
+   Galvez SMN, 2020, AM EDUC RES J, V57, P612, DOI 10.3102/0002831219860511
+   Gondal N, 2018, SOC NETWORKS, V55, P202, DOI 10.1016/j.socnet.2018.07.005
+   Gondal N, 2013, SOC NETWORKS, V35, P499, DOI 10.1016/j.socnet.2013.06.004
+   Gondal N, 2013, POETICS, V41, P122, DOI 10.1016/j.poetic.2012.12.002
+   Gondal N, 2011, SOC NETWORKS, V33, P20, DOI 10.1016/j.socnet.2010.09.001
+   Goodreau SM, 2009, DEMOGRAPHY, V46, P103, DOI 10.1353/dem.0.0045
+   Gould RV, 2002, AM J SOCIOL, V107, P1143, DOI 10.1086/341744
+   GRIFFITH BC, 1972, SCIENCE, V177, P959, DOI 10.1126/science.177.4053.959
+   Grow A, 2015, JASSS-J ARTIF SOC S, V18, DOI 10.18564/jasss.2740
+   HAGSTROM WO, 1971, SOCIOL EDUC, V44, P375, DOI 10.2307/2112029
+   Han SK, 2003, SOC NETWORKS, V25, P251, DOI 10.1016/S0378-8733(03)00011-X
+   Hâncean MG, 2021, SCIENTOMETRICS, V126, P201, DOI 10.1007/s11192-020-03746-5
+   Hannan Michael., 1993, Organizational Ecology
+   Holman L, 2019, PLOS ONE, V14, DOI 10.1371/journal.pone.0216128
+   Hunter D.R., 2008, J STAT SOFTW, V4860
+   Hunter DR, 2007, SOC NETWORKS, V29, P216, DOI 10.1016/j.socnet.2006.08.005
+   Hutchison R, 1907, Q J MED, V1, P33
+   Jones BF, 2008, SCIENCE, V322, P1259, DOI 10.1126/science.1158357
+   Jurgens D., 2018, T ASSOC COMPUT LING, V6, DOI DOI 10.1162/TACL_A_00028
+   Kaghad M, 1997, CELL, V90, P809, DOI 10.1016/S0092-8674(00)80540-1
+   Knorr C.K, 1999, EPISTEMIC CULTURES S
+   Koppman Sharon, 2016, P 2016, DOI [10.5465/ambpp.2016.11676abstract, DOI 10.5465/AMBPP.2016.11676ABSTRACT]
+   Krackhardt D, 1999, J PERS SOC PSYCHOL, V76, P770, DOI 10.1037/0022-3514.76.5.770
+   Kreager DA, 2021, CRIMINOLOGY, V59, P42, DOI 10.1111/1745-9125.12260
+   Kronegger L, 2012, SCIENTOMETRICS, V90, P631, DOI 10.1007/s11192-011-0493-8
+   Kronegger L, 2011, QUAL QUANT, V45, P989, DOI 10.1007/s11135-011-9484-3
+   Kuhn T., 1970, STRUCTURE SCI REVOLU
+   Lamont M., 2009, How Professors Think: Inside the Curious World of Academic Judgment
+   Latour B., 1987, SCI ACTION FOLLOW SC
+   Latour B., 1986, LAB LIFE CONSTRUCTIO
+   Laudel G., 2006, Science and Public Policy, V33, P489, DOI DOI 10.3152/147154306781778777
+   Lazega E, 2006, SCIENTOMETRICS, V67, P27, DOI 10.1556/Scient.67.2006.1.3
+   Lazega E, 2016, SOC NETWORKS, V47, P1, DOI 10.1016/j.socnet.2016.04.001
+   Leahey E, 2020, RES POLICY, V49, DOI 10.1016/j.respol.2019.103910
+   Leahey E, 2016, ANNU REV SOCIOL, V42, P81, DOI 10.1146/annurev-soc-081715-074219
+   Lewis K, 2018, AM J SOCIOL, V123, P1684, DOI 10.1086/697525
+   Li EY, 2013, RES POLICY, V42, P1515, DOI 10.1016/j.respol.2013.06.012
+   Lok C, 2016, NATURE, V537, P471, DOI 10.1038/537471a
+   Lusher D., 2013, EXPONENTIAL RANDOM G, V35
+   Lynn FB, 2014, SOC FORCES, V93, P355, DOI 10.1093/sf/sou069
+   Lynn FB, 2009, AM J SOCIOL, V115, P755, DOI 10.1086/603537
+   Ma Dali., 2020, Social Networks, V63, P162, DOI DOI 10.1016/J.SOCNET.2020.07.004
+   Main JB, 2014, REV HIGH EDUC, V37, P349, DOI 10.1353/rhe.2014.0019
+   MARCHAND F, 1891, INT BEITR WISS MED F, V1, P535
+   Maris JM, 2010, NEW ENGL J MED, V362, P2202, DOI 10.1056/NEJMra0804577
+   Mark NP, 2009, AM J SOCIOL, V115, P832, DOI 10.1086/606142
+   Martin JL, 2009, SOCIAL STRUCTURES, P1
+   Martin John Levi., 2020, Journal of Social Structure, V21, P77, DOI [10.21307/joss-2020-003, DOI 10.21307/JOSS-2020-003]
+   Martynov I, 2020, BMC CANCER, V20, DOI 10.1186/s12885-020-06974-3
+   Matthay KK, 1999, NEW ENGL J MED, V341, P1165, DOI 10.1056/NEJM199910143411601
+   MAYHEW BH, 1973, AM SOCIOL REV, V38, P468, DOI 10.2307/2094216
+   MAYHEW BH, 1976, AM J SOCIOL, V82, P86, DOI 10.1086/226271
+   McFarland DA, 2014, AM SOCIOL REV, V79, P1088, DOI 10.1177/0003122414554001
+   McMahan P, 2017, STRUCT STATUS, DOI [10.6082/M1WQ01XN, DOI 10.6082/M1WQ01XN]
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   MERTON RK, 1968, SCIENCE, V159, P56, DOI 10.1126/science.159.3810.56
+   MERTON RK, 1988, ISIS, V79, P606, DOI 10.1086/354848
+   Milner M., 2013, Freaks, geeks, and cool kids: American teenagers, schools, and the culture of consumption
+   Mood C, 2010, EUR SOCIOL REV, V26, P67, DOI 10.1093/esr/jcp006
+   Moody J, 2004, AM SOCIOL REV, V69, P213, DOI 10.1177/000312240406900204
+   Moody J, 2011, SOC NETWORKS, V33, P101, DOI 10.1016/j.socnet.2010.10.001
+   Mossé YP, 2008, NATURE, V455, P930, DOI 10.1038/nature07261
+   Münch R, 2012, MINERVA, V50, P97, DOI 10.1007/s11024-012-9189-3
+   MULLINS NC, 1972, MINERVA, V10, P51, DOI 10.1007/BF01881390
+   MULLINS NC, 1977, AM SOCIOL REV, V42, P552, DOI 10.2307/2094554
+   Munch R., 2020, Academic capitalism: universities in the global struggle for excellence
+   Newman MEJ, 2001, P NATL ACAD SCI USA, V98, P404, DOI 10.1073/pnas.021544898
+   Newman MEJ, 2001, PHYS REV E, V64, DOI [10.1103/PhysRevE.64.026118, 10.1103/PhysRevE.64.016132]
+   Newman MEJ, 2001, PHYS REV E, V64, DOI [10.1103/PhysRevE.64.016132, 10.1103/PhysRevE.64.016131]
+   Olson JS., 1989, HIST CANC ANNOTATED
+   Padgett JF, 2012, EMERGENCE OF ORGANIZATIONS AND MARKETS, P1
+   Parker JN, 2012, AM SOCIOL REV, V77, P21, DOI 10.1177/0003122411433763
+   Pepper W, 1901, AM J MED SCI, V121, P287, DOI 10.1097/00000441-190103000-00004
+   Petersen AM, 2014, P NATL ACAD SCI USA, V111, P15316, DOI 10.1073/pnas.1323111111
+   Podolny JoelM., 2010, Status signals: A sociological study of market competition
+   Ramage D, 2020, Arxiv, DOI [arXiv:2004.01291, 10.48550/arXiv.2004.01291]
+   Rawlings CM, 2015, SOC FORCES, V93, P1687, DOI 10.1093/sf/sov004
+   Ray S.K., 2019, NEUROBLASTOMA MOL ME
+   RIDGEWAY C, 1991, SOC FORCES, V70, P367, DOI 10.2307/2580244
+   Ridgeway CL, 2006, SOC FORCES, V85, P431, DOI 10.1353/sof.2006.0139
+   Ridgeway CL, 2014, AM SOCIOL REV, V79, P1, DOI 10.1177/0003122413515997
+   Ridgeway CL, 2019, STATUS: WHY IS IT EVERYWHERE? WHY DOES IT MATTER?, P1, DOI 10.7758/9781610448895
+   Ridgeway CL, 2000, AM J SOCIOL, V106, P579, DOI 10.1086/318966
+   Ripley R.M., 2019, MANUAL RSIENA
+   Rubineau B, 2019, SOC NETWORKS, V56, P33, DOI 10.1016/j.socnet.2018.08.005
+   Sauder M, 2012, ANNU REV SOCIOL, V38, P267, DOI 10.1146/annurev-soc-071811-145503
+   Savitz DA, 1999, AM J EPIDEMIOL, V149, P401
+   Schaefer DR, 2020, AM SOCIOL REV, V85, P709, DOI 10.1177/0003122420941021
+   Schwemmer C, 2020, SOCIOLOGY, V54, P3, DOI 10.1177/0038038519853146
+   Shalizi CR, 2011, SOCIOL METHOD RES, V40, P211, DOI 10.1177/0049124111404820
+   SHAPIRO DW, 1994, JAMA-J AM MED ASSOC, V271, P438, DOI 10.1001/jama.271.6.438
+   Shi F, 2015, SOC NETWORKS, V43, P73, DOI 10.1016/j.socnet.2015.02.006
+   SHIMADA H, 1984, JNCI-J NATL CANCER I, V73, P405, DOI 10.1093/jnci/73.2.405
+   Shwed U, 2010, AM SOCIOL REV, V75, P817, DOI 10.1177/0003122410388488
+   Simpson CR, 2020, SOC NETWORKS, V61, P107, DOI 10.1016/j.socnet.2019.10.001
+   Smith S, 2016, AM J SOCIOL, V121, P1223, DOI 10.1086/684032
+   Snijders TAB, 2015, SOCIOL METHOD RES, V44, P222, DOI 10.1177/0049124113494573
+   Snijders TAB, 2010, SOC NETWORKS, V32, P44, DOI 10.1016/j.socnet.2009.02.004
+   Stark TH, 2020, SOCIOL SCI, V7, P433, DOI 10.15195/v7.a18
+   Steglich C, 2010, SOCIOL METHODOL, V40, P329, DOI 10.1111/j.1467-9531.2010.01225.x
+   Tal D, 2017, SCIENTOMETRICS, V112, P1391, DOI 10.1007/s11192-017-2425-8
+   Venturini T., 2019, Digital STS: A field guide for science & technology studies, P510
+   White HC, 2008, IDENTITY AND CONTROL: HOW SOCIAL FORMATIONS EMERGE, 2ND EDITION, P1
+   Wimmer A, 2010, AM J SOCIOL, V116, P583, DOI 10.1086/653658
+   Wuchty S, 2007, SCIENCE, V316, P1036, DOI 10.1126/science.1136099
+   ZUCKERMAN HA, 1968, AM J SOCIOL, V74, P276, DOI 10.1086/224641
+NR 163
+TC 5
+Z9 5
+U1 4
+U2 23
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JAN
+PY 2023
+VL 72
+BP 80
+EP 107
+DI 10.1016/j.socnet.2022.05.001
+EA SEP 2022
+PG 28
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 5M5EJ
+UT WOS:000871117900002
+DA 2024-11-22
+ER
+
+PT J
+AU Itao, K
+   Kaneko, K
+AF Itao, Kenji
+   Kaneko, Kunihiko
+TI Transition of social organisations driven by gift relationships
+SO HUMANITIES & SOCIAL SCIENCES COMMUNICATIONS
+LA English
+DT Article
+ID KINSHIP STRUCTURES; EMERGENCE; EVOLUTION; MARRIAGE; INHERITANCE;
+   COOPERATION; RECIPROCITY; INEQUALITY; NETWORKS; DYNAMICS
+AB Anthropologists have observed that gifts bring goods to the recipient and honour to the donor in many human societies. The totality of such social relationships constitutes a network. Social networks characterise different types of social organisations including bands of small kin groups, tribal unions of families, and hierarchically organised chiefdoms. However, the factors and mechanisms that cause the transition between these types have hardly been explained. Here, we focus on gifts as the driving force for such changes. We build the model by idealising gift interactions and simulating the consequent social changes due to long-term massive interactions. In the model, people give their wealth to each other, produce wealth, and reciprocate for the gift. Gifts and reciprocation strengthen relationships. Through simulation, we demonstrate that, as the frequency and scale of gifts increase, economic and social disparities successively arise. Simultaneously, network structures shift from bands to tribes and then, chiefdoms. Statistical analysis using the Standard Cross-Cultural Sample, a global ethnographic database, empirically verifies the theoretical results. The constructive simulation study, as presented here, explains how people's interactions shape various social structures in response to environmental conditions. It provides the basic mechanistic explanation for social evolution and integrates microscopic and macroscopic theories in social sciences.
+C1 [Itao, Kenji] Univ Tokyo, Grad Sch Arts & Sci, Dept Basic Sci, Komaba 3 8 1,Meguro ku, Tokyo 1538902, Japan.
+   [Itao, Kenji] Max Planck Inst Evolutionary Anthropol, Dept Human Behav Ecol & Culture, Leipzig, Germany.
+   [Kaneko, Kunihiko] Univ Copenhagen, Niels Bohr Inst, Blegdamsvej 17, DK-2100 Copenhagen, Denmark.
+   [Kaneko, Kunihiko] Univ Tokyo, Res Ctr Complex Syst Biol, Bunkyo, Japan.
+C3 University of Tokyo; Max Planck Society; University of Copenhagen; Niels
+   Bohr Institute; University of Tokyo
+RP Kaneko, K (corresponding author), Univ Copenhagen, Niels Bohr Inst, Blegdamsvej 17, DK-2100 Copenhagen, Denmark.; Kaneko, K (corresponding author), Univ Tokyo, Res Ctr Complex Syst Biol, Bunkyo, Japan.
+EM kaneko@complex.c.u-tokyo.ac.jp
+RI Itao, Kenji/KGM-0315-2024
+OI Kaneko, Kunihiko/0000-0001-6400-8587; Itao, Kenji/0000-0002-2215-1120
+FU Ministry of Education, Culture, Sports, Science, and Technol ogy (MEXT)
+   of Japan [20H00123]; JSPS KAKENHI [JP21J21565]; Novo Nordisk Fonden
+   [NNF21OC0065542]
+FX The authors thank Heidi Colleran and Tetsuhiro S. Hatakeyama for a
+   stimulating discussion and Takumi Moriyama, Koji Hukushima, and Takahiro
+   Miyachi for illuminating comments. This study was partially supported by
+   a Grant in-Aid for Scientific Research (A) (20H00123) from the Ministry
+   of Education, Culture, Sports, Science, and Technol ogy (MEXT) of Japan.
+   KI is supported by JSPS KAKENHI Grant Number JP21J21565. KK is supported
+   by Novo Nordisk Fonden Grant Number NNF21OC0065542.
+CR Acemoglu D., 2019, The narrow corridor: How nations struggle for liberty
+   [Anonymous], 1954, Political systems of highland Burma: a study of Kachin social structure
+   [Anonymous], 2011, ORIGINE SYSTEMES FAM
+   Apicella CL, 2012, NATURE, V481, P497, DOI 10.1038/nature10736
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Bataille G, 1949, PART MAUDITE ESSAI E, V2
+   Bernard H. R., 2017, RES METHODS ANTHR QU
+   Bird RB, 2018, NAT HUM BEHAV, V2, P452, DOI 10.1038/s41562-018-0298-3
+   CARNEIRO RL, 1970, SCIENCE, V169, P733, DOI 10.1126/science.169.3947.733
+   Cavalli-Sforza LL., 1981, CULTURAL TRANSMISSIO
+   Chapais B., 2009, Primeval kinship: How pair-bonding gave birth to human society
+   Colleran H., 2014, Soc Biol Hum Aff, V78, P7
+   Creanza N, 2017, P NATL ACAD SCI USA, V114, P7782, DOI 10.1073/pnas.1620732114
+   Dorogovtsev SN, 2000, PHYS REV LETT, V85, P4633, DOI 10.1103/PhysRevLett.85.4633
+   Fukuyama Francis, 2011, ORIGINS POLITICAL OR
+   Furusawa C, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.011912
+   Gibson MA, 2011, P NATL ACAD SCI USA, V108, P2200, DOI 10.1073/pnas.1010241108
+   Harrell S, 1997, Human Families
+   Hill KR, 2011, SCIENCE, V331, P1286, DOI 10.1126/science.1199071
+   Itao K, 2022, P ROY SOC B-BIOL SCI, V289, DOI 10.1098/rspb.2021.2641
+   Itao K, 2021, HUM SOC SCI COMMUN, V8, DOI 10.1057/s41599-021-00919-2
+   Itao K, 2020, P NATL ACAD SCI USA, V117, P2378, DOI 10.1073/pnas.1917716117
+   Kirby KR, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0158391
+   Kitanishi Koichi., 1998, AFRICAN STUDY MONOGR, V25, P3, DOI DOI 10.14989/68394
+   Komter A, 2007, INT SOCIOL, V22, P93, DOI 10.1177/0268580907070127
+   Krapivsky PL, 2000, PHYS REV LETT, V85, P4629, DOI 10.1103/PhysRevLett.85.4629
+   L├a┬vi-Strauss Claude., 1949, STRUCTURES ELEMENTAI
+   Leach E., 1982, SOC ANTHROPOL
+   Luo JX, 2011, COMPLEXITY, V16, P53, DOI 10.1002/cplx.20368
+   Malinowski B., 1922, ARGONAUTS W PACIFIC
+   Malthus T.R., 1798, ESSAY PRINCIPLE POPU
+   Marsh RM, 1967, COMP SOCIOL
+   Marx Karl., 1979, A Contribution to the Critique of Political Economy
+   Mauss M., 1923, ANN SOCIOLOGIQUE, V1, P30
+   Minocher R, 2019, EVOL HUM BEHAV, V40, P176, DOI 10.1016/j.evolhumbehav.2018.11.003
+   Moriyama T, 2021, GIFT SACRA MARCEL MA
+   Mulder MB, 2009, SCIENCE, V326, P682, DOI 10.1126/science.1178336
+   MURDOCK GP, 1969, ETHNOLOGY, V8, P329, DOI 10.2307/3772907
+   Nettle D, 2008, AM NAT, V172, P658, DOI 10.1086/591690
+   Planer RJ, 2021, BIOL THEORY, V16, P148, DOI 10.1007/s13752-019-00339-1
+   Polanyi Karl., 1957, The Sociology of Economic Life, P3
+   Rand DG, 2013, TRENDS COGN SCI, V17, P413, DOI 10.1016/j.tics.2013.06.003
+   Ready E, 2018, CURR ANTHROPOL, V59, P74, DOI 10.1086/696018
+   Ricardo D., 1891, Principles of Political Economy and Taxation
+   Schnegg M, 2006, INT J MOD PHYS C, V17, P1067, DOI 10.1142/S0129183106009473
+   Schnegg M, 2015, HUM NATURE-INT BIOS, V26, P313, DOI 10.1007/s12110-015-9236-5
+   Service E. R., 1962, Primitive social organization: an evolutionary perspective
+   Smith EA, 2010, CURR ANTHROPOL, V51, P85, DOI 10.1086/649029
+   Strathern Andrew., 1971, ROPE MOKA BIG MEN CE
+   Takeuchi N, 2017, NAT COMMUN, V8, DOI 10.1038/s41467-017-00243-x
+   Thomas MG, 2018, ROY SOC OPEN SCI, V5, DOI 10.1098/rsos.171535
+   Todd E, 1999, DIVERSITE MONDE STRU
+   Traulsen A, 2006, P NATL ACAD SCI USA, V103, P10952, DOI 10.1073/pnas.0602530103
+   Turchin P, 2009, SOC EVOL HIST, V8, P167
+   von Rueden CR, 2019, P ROY SOC B-BIOL SCI, V286, DOI 10.1098/rspb.2019.1367
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Weber M., 1930, The Protestant Ethic and the Spirit of Capitalism
+   Ylikoski P., 2012, OXFORD HDB PHILOS SO
+NR 59
+TC 0
+Z9 0
+U1 1
+U2 3
+PU SPRINGERNATURE
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON, N1 9XW, ENGLAND
+EI 2662-9992
+J9 HUM SOC SCI COMMUN
+JI Hum. Soc. Sci. Commun.
+PD APR 29
+PY 2023
+VL 10
+IS 1
+AR 188
+DI 10.1057/s41599-023-01688-w
+PG 10
+WC Humanities, Multidisciplinary; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Arts & Humanities - Other Topics; Social Sciences - Other Topics
+GA E9JB6
+UT WOS:000978608000002
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Avery, L
+   Rotondi, M
+AF Avery, Lisa
+   Rotondi, Michael
+TI Evaluation of Respondent-Driven Sampling Prevalence Estimators Using
+   Real-World Reported Network Degree
+SO SOCIOLOGICAL METHODOLOGY
+LA English
+DT Article
+DE respondent-driven sampling; disease prevalence; sampling; social
+   networks; validation
+ID INFERENCE; VARIANCE
+AB Respondent-driven sampling (RDS) is used to measure trait or disease prevalence in populations that are difficult to reach and often marginalized. The authors evaluated the performance of RDS estimators under varying conditions of trait prevalence, homophily, and relative activity. They used large simulated networks (N = 20,000) derived from real-world RDS degree reports and an empirical Facebook network (N = 22,470) to evaluate estimators of binary and categorical trait prevalence. Variability in prevalence estimates is higher when network degree is drawn from real-world samples than from the commonly assumed Poisson distribution, resulting in lower coverage rates. Newer estimators perform well when the sample is a substantive proportion of the population, but bias is present when the population size is unknown. The choice of preferred RDS estimator needs to be study specific, considering both statistical properties and knowledge of the population under study.
+C1 [Avery, Lisa] Univ Hlth Network, Princess Margaret Canc Ctr, Dept Biostat, Toronto, ON, Canada.
+   [Avery, Lisa] Univ Toronto, Dalla Lana Sch Publ Hlth, Toronto, ON, Canada.
+   [Rotondi, Michael] York Univ, Toronto, ON, Canada.
+   [Avery, Lisa] Univ Hlth Network, Princess Margaret Canc Ctr, Dept Biostat, 700 Univ Ave, Toronto, ON M5G 2C1, Canada.
+C3 University of Toronto; University Health Network Toronto; Princess
+   Margaret Cancer Centre; University of Toronto; York University - Canada;
+   University of Toronto; University Health Network Toronto; Princess
+   Margaret Cancer Centre
+RP Avery, L (corresponding author), Univ Hlth Network, Princess Margaret Canc Ctr, Dept Biostat, 700 Univ Ave, Toronto, ON M5G 2C1, Canada.
+EM lisa.avery@uhnresearch.ca
+OI Avery, Lisa/0000-0002-8431-5143
+CR Abdesselam K, 2020, DRUG ALCOHOL DEPEN, V206, DOI 10.1016/j.drugalcdep.2019.107702
+   Abdesselam Kahina., 2019, THESIS U OTTAWA OTTA
+   Avery L, 2021, PLOS ONE, V16, DOI 10.1371/journal.pone.0249074
+   Baraff Aaron J, 2016, CRAN
+   Baraff Aaron J., 2016, P NATL ACAD SCI, V113
+   Crawford FW, 2016, SOCIOL METHODOL, V46, P187, DOI 10.1177/0081175016641713
+   Fellows IE, 2019, STAT MED, V38, P131, DOI 10.1002/sim.7973
+   Gile KJ, 2018, ANNU REV STAT APPL, V5, P65, DOI 10.1146/annurev-statistics-031017-100704
+   Gile KJ, 2011, J AM STAT ASSOC, V106, P135, DOI 10.1198/jasa.2011.ap09475
+   Goel S, 2010, P NATL ACAD SCI USA, V107, P6743, DOI 10.1073/pnas.1000261107
+   Green AKB, 2020, BIOMETRIKA, V107, P497, DOI 10.1093/biomet/asz067
+   Handcock MS, 2014, ELECTRON J STAT, V8, P1491, DOI 10.1214/14-EJS923
+   Handcock Mark S., 2021, RDS RESPONDENT DRIVE
+   Heckathorn DD, 1997, SOC PROBL, V44, P174, DOI 10.1525/sp.1997.44.2.03x0221m
+   Lachowsky NJ, 2019, SEX HEALTH, V16, P84, DOI 10.1071/SH17223
+   McCreesh N, 2012, EPIDEMIOLOGY, V23, P138, DOI 10.1097/EDE.0b013e31823ac17c
+   Mullan Harris Kathleen, 2021, NATL LONGITUDINAL ST
+   Potterat J., 2004, NETWORK EPIDEMIOLOGY, P87
+   Raats M. M., 1992, Food Quality and Preference, V3, P89, DOI 10.1016/0950-3293(91)90028-D
+   Rozemberczki B, 2021, J COMPLEX NETW, V9, DOI 10.1093/comnet/cnab014
+   Salganik MJ, 2004, SOCIOL METHODOL, V34, P193, DOI 10.1111/j.0081-1750.2004.00152.x
+   Solomon SS, 2019, LANCET HIV, V6, pE283, DOI 10.1016/S2352-3018(19)30034-7
+   Spiller MW, 2018, J SURV STAT METHODOL, V6, P23, DOI 10.1093/jssam/smx018
+   Verdery AM, 2015, EPIDEMIOLOGY, V26, P661, DOI 10.1097/EDE.0000000000000335
+   Volz E, 2008, J OFF STAT, V24, P79
+   Weikum D, 2019, JMIR PUBLIC HLTH SUR, V5, P173, DOI 10.2196/11285
+   Wejnert C, 2009, SOCIOL METHODOL, V39, P73, DOI 10.1111/j.1467-9531.2009.01216.x
+NR 27
+TC 0
+Z9 0
+U1 3
+U2 9
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0081-1750
+EI 1467-9531
+J9 SOCIOL METHODOL
+JI Sociol. Methodol.
+PD AUG
+PY 2023
+VL 53
+IS 2
+BP 269
+EP 287
+DI 10.1177/00811750231163832
+PG 19
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA M1QV2
+UT WOS:001027993300003
+PM 37456805
+OA hybrid, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Govindankutty, S
+   Gopalan, SP
+AF Govindankutty, Sreeraag
+   Gopalan, Shynu Padinjappurathu
+TI SEDIS-A Rumor Propagation Model for Social Networks by Incorporating the
+   Human Nature of Selection
+SO SYSTEMS
+LA English
+DT Article
+DE social networks; network epidemic; rumor propagation; misinformation;
+   fake news; model
+AB The explosive evolution of the internet has paved the path for the rise of social networks, which can help people connect remotely. Currently, social networks are commonly used for sharing thoughts, feelings, information, and personal life, which vary from individual to individual. The world has witnessed a tremendous increase in social media usage in the last decade, and more people are expected to spend their time online after the COVID-19 pandemic. This increases the rapid propagation of rumors and fake news within societies and communities. On one end, social networks act as an excellent platform for digital marketing and sharing information. However, on the other end, social network rumors and fake news create a significant impact on society, including riots. To study and analyze social network rumors, several mathematical rumor propagation epidemic models have been proposed. The majority are related to disease-spreading epidemic models and reject the human aspect of social selection. This paper introduces a new mathematical rumor propagation model for social networks by incorporating the human psychological aspect of selection as a separate state. Our mathematical analysis and computational simulation proved that the model exists within the system. It was also proven that the system is always non-negative and there always exists a solution in the system. Our implementation of an intervention mechanism within the discrete compartmental model simulation proved the necessity of an effective interference that can help to prevent the implications of uncontrolled rumor dissemination within social networks.
+C1 [Govindankutty, Sreeraag; Gopalan, Shynu Padinjappurathu] Vellore Inst Technol, Sch Informat Technol & Engn, Vellore 632014, India.
+C3 Vellore Institute of Technology (VIT); VIT Vellore
+RP Gopalan, SP (corresponding author), Vellore Inst Technol, Sch Informat Technol & Engn, Vellore 632014, India.
+EM pgshynu@vit.ac.in
+OI G, Sreeraag/0000-0002-5762-5760; Padinjappurathu Gopalan,
+   Shynu/0000-0002-4130-943X
+FU School of Information Technology and Engineering, Vellore Institute of
+   Technology, Vellore, Tamil Nadu, India
+FX This research was funded by the School of Information Technology and
+   Engineering, Vellore Institute of Technology, Vellore, Tamil Nadu,
+   India-632014.
+CR Al-Yazidi S, 2020, IEEE ACCESS, V8, P105824, DOI 10.1109/ACCESS.2020.2999033
+   Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   Alotaibi NB, 2019, IEEE ACCESS, V7, P153417, DOI 10.1109/ACCESS.2019.2947163
+   Alsawalqa RO, 2021, HELIYON, V7, DOI 10.1016/j.heliyon.2021.e06711
+   [Anonymous], 2019, FRPTSOFTWARE SNAPSHO, P6
+   Ardèvol-Abreu A, 2020, PROF INFORM, V29, DOI 10.3145/epi.2020.sep.07
+   Bao YY, 2013, 2013 IEEE/ACM INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING (ASONAM), P1472
+   Bass H., 2018, ABA J, V104, P2
+   Choi E, 2021, SUSTAINABILITY-BASEL, V13, DOI 10.3390/su132011211
+   Das Swain V, 2020, 2020 IEEE SECOND INTERNATIONAL CONFERENCE ON COGNITIVE MACHINE INTELLIGENCE (COGMI 2020), P121, DOI 10.1109/CogMI50398.2020.00025
+   Diekmann O, 2010, J R SOC INTERFACE, V7, P873, DOI 10.1098/rsif.2009.0386
+   Dong S, 2017, COMMUN THEOR PHYS, V68, P545, DOI 10.1088/0253-6102/68/4/545
+   Dumitru EA, 2020, SOCIETIES, V10, DOI 10.3390/soc10030071
+   Fang M, 2019, INT CONF CLOUD COMP, P374, DOI 10.1109/CloudCom.2019.00064
+   Ghazzali R, 2020, DISCRETE DYN NAT SOC, V2020, DOI 10.1155/2020/6724815
+   Grabowski A, 2008, ACTA PHYS POL A, V114, P589, DOI 10.12693/APhysPolA.114.589
+   Han QY, 2018, PEER PEER NETW APPL, V11, P955, DOI 10.1007/s12083-017-0616-y
+   Han ZQ, 2021, FRONT PSYCHOL, V12, DOI 10.3389/fpsyg.2021.664612
+   Horn I.S., 2015, J DIRECT DATA DIGITA, V16, P193
+   Jain L., 2019, 2019 12 INT C CONT C, P1, DOI DOI 10.1109/IC3.2019.8844911
+   Kermack WO, 1927, P R SOC LOND A-CONTA, V115, P700, DOI 10.1098/rspa.1927.0118
+   Keshri AK, 2020, CHAOS SOLITON FRACT, V131, DOI 10.1016/j.chaos.2019.109497
+   Kim J. H., 2011, PACIS 2011 P, P98
+   McIntyre K.E., 2014, The Journal of Social Media in Society, V3
+   Mumtaz N, 2022, SYSTEMS-BASEL, V10, DOI 10.3390/systems10020050
+   Nakano Tadashi, 2016, 2016 IEEE Tenth International Conference on Semantic Computing (ICSC). Proceedings, P337, DOI 10.1109/ICSC.2016.111
+   Narayan N, 2021, COMMUN MATH APPL, V12, P711, DOI 10.26713/cma.v12i3.1566
+   Shrivastava G, 2020, IEEE T COMPUT SOC SY, V7, P1159, DOI 10.1109/TCSS.2020.3014135
+   Smith M, 2014, Mapping twitter topic networks: From polarized crowds to community clusters
+   Sumith N, 2016, PROCEEDINGS OF THE 2016 IEEE REGION 10 CONFERENCE (TENCON), P2224, DOI 10.1109/TENCON.2016.7848423
+   Swift J., 2018, Publ, V151, P38
+   Woodruff A, 2014, 32ND ANNUAL ACM CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS (CHI 2014), P149, DOI 10.1145/2556288.2557126
+   Yu ZH, 2021, INFORM SCIENCES, V580, P857, DOI 10.1016/j.ins.2021.09.012
+NR 33
+TC 2
+Z9 2
+U1 4
+U2 36
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2079-8954
+J9 SYSTEMS-BASEL
+JI Systems-Basel
+PD JAN
+PY 2023
+VL 11
+IS 1
+AR 12
+DI 10.3390/systems11010012
+PG 17
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA 8D5DH
+UT WOS:000918312900001
+OA gold
+DA 2024-11-22
+ER

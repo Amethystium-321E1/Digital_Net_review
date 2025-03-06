@@ -1,0 +1,562 @@
+
+PT J
+AU Barnes, ML
+   Lynham, J
+   Kalberg, K
+   Leung, P
+AF Barnes, Michele L.
+   Lynham, John
+   Kalberg, Kolter
+   Leung, PingSun
+TI Social networks and environmental outcomes
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE social networks; environmental outcomes; homophily; shark bycatch;
+   sustainability
+ID LONGLINE FISHERY; SHARK CATCH; DYNAMICS; BEHAVIOR; MODEL; SEGREGATION;
+   HOMOGENEITY; RESILIENCE; MANAGEMENT; MORTALITY
+AB Social networks can profoundly affect human behavior, which is the primary force driving environmental change. However, empirical evidence linking microlevel social interactions to large-scale environmental outcomes has remained scarce. Here, we leverage comprehensive data on information-sharing networks among large-scale commercial tuna fishers to examine how social networks relate to shark bycatch, a global environmental issue. We demonstrate that the tendency for fishers to primarily share information within their ethnic group creates segregated networks that are strongly correlated with shark bycatch. However, some fishers share information across ethnic lines, and examinations of their bycatch rates show that network contacts are more strongly related to fishing behaviors than ethnicity. Our findings indicate that social networks are tied to actions that can directly impact marine ecosystems, and that biases toward within-group ties may impede the diffusion of sustainable behaviors. Importantly, our analysis suggests that enhanced communication channels across segregated fisher groups could have prevented the incidental catch of over 46,000 sharks between 2008 and 2012 in a single commercial fishery.
+C1 [Barnes, Michele L.; Leung, PingSun] Univ Hawaii Manoa, Dept Nat Resources & Environm Management, Honolulu, HI 96822 USA.
+   [Barnes, Michele L.] Univ Hawaii Manoa, Dept Bot, Honolulu, HI 96822 USA.
+   [Barnes, Michele L.; Kalberg, Kolter] Univ Hawaii, Joint Inst Marine & Atmospher Res, Honolulu, HI 96822 USA.
+   [Barnes, Michele L.] James Cook Univ, Australian Res Council, Ctr Excellence Coral Reef Studies, Townsville, Qld 4811, Australia.
+   [Lynham, John] Univ Hawaii Manoa, Dept Econ, Honolulu, HI 96822 USA.
+   [Lynham, John] Univ Hawaii Manoa, Univ Hawaii, Econ Res Org, Honolulu, HI 96822 USA.
+C3 University of Hawaii System; University of Hawaii Manoa; University of
+   Hawaii System; University of Hawaii Manoa; University of Hawaii System;
+   James Cook University; University of Hawaii System; University of Hawaii
+   Manoa; University of Hawaii System; University of Hawaii Manoa
+RP Barnes, ML (corresponding author), Univ Hawaii Manoa, Dept Nat Resources & Environm Management, Honolulu, HI 96822 USA.; Barnes, ML (corresponding author), Univ Hawaii Manoa, Dept Bot, Honolulu, HI 96822 USA.; Barnes, ML (corresponding author), Univ Hawaii, Joint Inst Marine & Atmospher Res, Honolulu, HI 96822 USA.; Barnes, ML (corresponding author), James Cook Univ, Australian Res Council, Ctr Excellence Coral Reef Studies, Townsville, Qld 4811, Australia.
+EM michele.barnes@jcu.edu.au
+RI Barnes, Michele/ABE-7497-2020
+OI Barnes, Michele L/0000-0002-1151-4037; Lynham, John/0000-0002-5816-9648
+FU National Science Foundation (NSF) Coupled Natural-Human Systems Grant
+   [GEO-1211972]; NSF Social, Behavioral, and Economic Sciences
+   Postdoctoral Fellowship [1513354]; University of Hawaii Graduate Student
+   Organization; Direct For Social, Behav & Economic Scie [1513314] Funding
+   Source: National Science Foundation; Directorate For Geosciences
+   [1211972] Funding Source: National Science Foundation; SBE Off Of
+   Multidisciplinary Activities [1513314] Funding Source: National Science
+   Foundation
+FX We thank M. Jackson, P. Pin, T. Valente, J. Cinner, O. Bodin, and J.
+   Rummer for helpful comments. We also thank the NOAA Pacific Islands
+   Regional Office Federal Fisheries Observer Program and NOAA Pacific
+   Islands Fisheries Science Center for data access and logistical support,
+   and all of the fishers who participated in this project. This work was
+   supported by National Science Foundation (NSF) Coupled Natural-Human
+   Systems Grant GEO-1211972. M.L.B. was also supported by NSF Social,
+   Behavioral, and Economic Sciences Postdoctoral Fellowship Grant 1513354
+   and the University of Hawaii Graduate Student Organization.
+CR [Anonymous], 1995, DIFFUSION INNOVATION
+   [Anonymous], 2000, Small worlds: The dynamics of networks between order and randomness
+   [Anonymous], 2002, NETDRAW GRAPH VISUAL
+   Aral S, 2009, P NATL ACAD SCI USA, V106, P21544, DOI 10.1073/pnas.0908800106
+   Axelrod R, 1997, J CONFLICT RESOLUT, V41, P203, DOI 10.1177/0022002797041002001
+   Baerveldt C, 2004, SOC NETWORKS, V26, P55, DOI 10.1016/j.socnet.2004.01.003
+   Barnes M, 2016, SOC NETWORKS, V45, P55, DOI 10.1016/j.socnet.2015.11.004
+   Barnes-Mauthe M, 2013, ECOL SOC, V18, DOI 10.5751/ES-05295-180123
+   Blau PeterMichael., 1984, CROSSCUTTING SOCIAL
+   Bodin O., 2011, Social Networks and Natural Resource Management: Uncovering the Social Fabric of Environmental Governance, P376
+   Branch TA, 2006, CAN J FISH AQUAT SCI, V63, P1647, DOI 10.1139/F06-072
+   Brodziak J, 2013, CAN J FISH AQUAT SCI, V70, P1723, DOI 10.1139/cjfas-2013-0111
+   Bromhead D, 2012, J FISH BIOL, V80, P1870, DOI 10.1111/j.1095-8649.2012.03238.x
+   Burt RS, 1992, SOCIAL STRUCTURE COM, P57
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   Centola D, 2007, J CONFLICT RESOLUT, V51, P905, DOI 10.1177/0022002707307632
+   Centola D, 2011, SCIENCE, V334, P1269, DOI 10.1126/science.1207055
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Christakis NA, 2008, NEW ENGL J MED, V358, P2249, DOI 10.1056/NEJMsa0706154
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   Crona B., 2011, Social networks and natural resource management: Uncovering the social fabric of environmental governance, P206
+   Currarini S, 2009, ECONOMETRICA, V77, P1003, DOI 10.3982/ECTA7528
+   Dowd AM, 2014, NAT CLIM CHANGE, V4, P558, DOI [10.1038/NCLIMATE2275, 10.1038/nclimate2275]
+   ENNETT ST, 1994, J PERS SOC PSYCHOL, V67, P653, DOI 10.1037/0022-3514.67.4.653
+   Folke C, 2006, GLOBAL ENVIRON CHANG, V16, P253, DOI 10.1016/j.gloenvcha.2006.04.002
+   Fortin B, 2015, OXFORD HDB EC NETWOR, P277
+   FRIEDKIN NE, 1984, SOCIOL METHOD RES, V12, P235, DOI 10.1177/0049124184012003001
+   Gilman E, 2008, MAR POLICY, V32, P1, DOI 10.1016/j.marpol.2007.05.001
+   Golub B, 2012, Q J ECON, V127, P1287, DOI 10.1093/qje/qjs021
+   Hughes TP, 2005, TRENDS ECOL EVOL, V20, P380, DOI 10.1016/j.tree.2005.03.022
+   Lazarsfeld PF, 1954, FREEDOM CONTROL MODE, V18, P18
+   Lewison RL, 2004, TRENDS ECOL EVOL, V19, P598, DOI 10.1016/j.tree.2004.09.004
+   MARSDEN PV, 1987, AM SOCIOL REV, V52, P122, DOI 10.2307/2095397
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mercken L, 2010, SOC NETWORKS, V32, P72, DOI 10.1016/j.socnet.2009.02.005
+   Moody J, 2001, AM J SOCIOL, V107, P679, DOI 10.1086/338954
+   Ostrom E., 1994, Rules, Games and Common -Pool Resources
+   Poteete AR, 2004, DEV CHANGE, V35, P435, DOI 10.1111/j.1467-7660.2004.00360.x
+   Robins G., 2015, Doing social network research: Network-based research design for social scientists
+   Walsh WA, 2002, FISH RES, V58, P79, DOI 10.1016/S0165-7836(01)00361-7
+   Walsh WA, 2009, MAR COAST FISH, V1, P270, DOI 10.1577/C09-003.1
+   WILSON JA, 1990, LAND ECON, V66, P12, DOI 10.2307/3146679
+NR 42
+TC 160
+Z9 176
+U1 6
+U2 131
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD JUN 7
+PY 2016
+VL 113
+IS 23
+BP 6466
+EP 6471
+DI 10.1073/pnas.1523245113
+PG 6
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA DN6BF
+UT WOS:000377155400043
+PM 27217551
+OA Bronze, Green Published
+HC Y
+HP N
+DA 2024-11-22
+ER
+
+PT J
+AU Isakov, A
+   Holcomb, A
+   Glowacki, L
+   Christakis, NA
+AF Isakov, Alexander
+   Holcomb, Amelia
+   Glowacki, Luke
+   Christakis, Nicholas A.
+TI Modeling the Role of Networks and Individual Differences in Inter-Group
+   Violence
+SO PLOS ONE
+LA English
+DT Article
+ID COOPERATION; POPULATION; AGGRESSION; CONFLICT; WARFARE; PATTERN
+AB There is significant heterogeneity within and between populations in their propensity to engage in conflict. Most research has neglected the role of within-group effects in social networks in contributing to between-group violence and focused instead on the precursors and consequences of violence, or on the role of between-group ties. Here, we explore the role of individual variation and of network structure within a population in promoting and inhibiting group violence towards other populations. Motivated by ethnographic observations of collective behavior in a small-scale society, we describe a model with differentiated roles for individuals embedded within friendship networks. Using a simple model based on voting-like dynamics, we explore several strategies for influencing group-level behavior. When we consider changing population level attitude changes and introducing control nodes separately, we find that a particularly effective control strategy relies on exploiting network degree. We also suggest refinements to our model such as tracking fine-grained information spread dynamics that can lead to further enrichment in using evolutionary game theory models for sociological phenomena.
+C1 [Isakov, Alexander] Harvard Univ, Dept Phys, Cambridge, MA 02138 USA.
+   [Holcomb, Amelia] Yale Univ, Dept Math, New Haven, CT 06520 USA.
+   [Glowacki, Luke] Harvard Univ, Dept Human Evolutionary Biol, Cambridge, MA 02138 USA.
+   [Glowacki, Luke] Harvard Univ, Program Evolutionary Dynam, Cambridge, MA 02138 USA.
+   [Christakis, Nicholas A.] Yale Univ, Dept Sociol, New Haven, CT USA.
+   [Christakis, Nicholas A.] Yale Univ, Dept Ecol & Evolutionary Biol, New Haven, CT USA.
+   [Christakis, Nicholas A.] Yale Univ, Yale Inst Network Sci, New Haven, CT USA.
+C3 Harvard University; Yale University; Harvard University; Harvard
+   University; Yale University; Yale University; Yale University
+RP Christakis, NA (corresponding author), Yale Univ, Dept Sociol, New Haven, CT USA.; Christakis, NA (corresponding author), Yale Univ, Dept Ecol & Evolutionary Biol, New Haven, CT USA.; Christakis, NA (corresponding author), Yale Univ, Yale Inst Network Sci, New Haven, CT USA.
+EM nicholas.christakis@yale.edu
+RI Christakis, Nicholas/B-6690-2008
+FU Star Family Foundation; Wenner-Gren Foundation; Department of Defense,
+   Air Force Office of Scientific Research [FA9550-11-C-0028]; National
+   Defense Science and Engineering Graduate Fellowship [32 CFR 168a]
+FX This work was supported by grants from the Star Family Foundation and
+   the Wenner-Gren Foundation (http://www.wennergren.org/). A. I. was
+   supported under FA9550-11-C-0028 awarded by the Department of Defense,
+   Air Force Office of Scientific Research, National Defense Science and
+   Engineering Graduate Fellowship, 32 CFR 168a
+   (http://www.wpafb.af.mil/afrl/afosr/). The funders had no role in study
+   design, data collection and analysis, decision to publish, or
+   preparation of the manuscript.
+CR [Anonymous], 2013, The Better Angels of Our Nature
+   Bakshy E., 2011, P 4 ACM INT C WEB SE, P65, DOI DOI 10.1145/1935826.1935845
+   Boster JS, 2003, ETHOS, V31, P471, DOI 10.1525/eth.2003.31.4.471
+   Collins H., 2009, VIOLENCE MICROSOCIOL
+   Fowler JH, 2008, BMJ-BRIT MED J, V337, DOI 10.1136/bmj.a2338
+   Gelfand M, 2012, PHILOS T R SOC B, V367, P692, DOI 10.1098/rstb.2011.0304
+   Glowacki L, 2015, PHILOS T R SOC B, V370, DOI 10.1098/rstb.2015.0010
+   Glowacki L, 2015, P NATL ACAD SCI USA, V112, P348, DOI 10.1073/pnas.1412287112
+   Glowacki L, 2013, HUM NATURE-INT BIOS, V24, P444, DOI 10.1007/s12110-013-9178-8
+   Isakov A, 2012, DYN GAMES APPL, V2, P97, DOI 10.1007/s13235-011-0020-9
+   Johnson N, 2011, SCIENCE, V333, P81, DOI 10.1126/science.1205068
+   Keeley L., 1996, WAR CIVILIZATION
+   Keeling MJ, 2005, J R SOC INTERFACE, V2, P295, DOI 10.1098/rsif.2005.0051
+   Kim DA, 2015, LANCET, V386, P145, DOI 10.1016/S0140-6736(15)60095-2
+   Labianca G, 1998, ACAD MANAGE J, V41, P55, DOI 10.5465/256897
+   Lim M, 2007, SCIENCE, V317, P1540, DOI 10.1126/science.1142734
+   Macfarlan SJ, 2014, P NATL ACAD SCI USA, V111, P16662, DOI 10.1073/pnas.1418639111
+   McDoom OS, 2014, J CONFLICT RESOLUT, V58, P865, DOI 10.1177/0022002713484282
+   NELSON RE, 1989, ACAD MANAGE J, V32, P377, DOI 10.5465/256367
+   Page-Gould E, 2012, SOC PSYCHOL PERS SCI, V3, P462, DOI 10.1177/1948550611426937
+   Papachristos AV, 2015, SOC SCI MED, V125, P139, DOI 10.1016/j.socscimed.2014.01.056
+   Papachristos AV, 2014, AM J PUBLIC HEALTH, V104, P143, DOI 10.2105/AJPH.2013.301441
+   Papachristos AV, 2009, AM J SOCIOL
+   Pastor-Satorras R, 2001, PHYS REV LETT, V86, P3200, DOI 10.1103/PhysRevLett.86.3200
+   Rand DG, 2014, P NATL ACAD SCI USA, V111, P17093, DOI 10.1073/pnas.1400406111
+   Rand DG, 2011, P NATL ACAD SCI USA, V108, P19193, DOI 10.1073/pnas.1108243108
+   Robarchek Carole Robarchek Clayton A., 1998, Waorani: The Contexts of Violence and War
+   Roithmayr D, 2015, GAMES           0603, DOI [10.3390/g6020124, DOI 10.3390/G6020124]
+   Sood V, 2005, PHYS REV LETT, DOI [10.1103/ PhysRevLett.947178701, DOI 10.1103/PHYSREVLETT.947178701]
+   von Rueden C, 2015, PHILOS T R SOC B, V370, DOI 10.1098/rstb.2015.0002
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   WIESSNER P, 2010, YOUTHS ELDERS WAGES
+   Wiessner P, 2012, SCIENCE, V337, P1651, DOI 10.1126/science.1221685
+NR 33
+TC 6
+Z9 8
+U1 0
+U2 9
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD FEB 1
+PY 2016
+VL 11
+IS 2
+AR e0148314
+DI 10.1371/journal.pone.0148314
+PG 10
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA DC9NL
+UT WOS:000369548200095
+PM 26828362
+OA gold, Green Published, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Valtchanov, BL
+   Parry, DC
+   Glover, TD
+   Mulcahy, CM
+AF Valtchanov, Bronwen L.
+   Parry, Diana C.
+   Glover, Troy D.
+   Mulcahy, Caitlin M.
+TI 'A Whole New World': Mothers' Technologically Mediated Leisure
+SO LEISURE SCIENCES
+LA English
+DT Article
+DE ideologies; mediated leisure; motherhood; public; private; technology
+ID ONLINE; PROFESSIONALS; TRANSITION; IDEOLOGIES; SITES
+AB This study explored the roles of an online social networking site called Momstown.ca as a form of technologically mediated leisure in mothers' experiences of online connections. Active interviews with 22members of Momstown.ca revealed that mothers encounter limiting ideologies of motherhood reinforced through the separation of the public and private spheres. This separation constructs mothers' experiences as less visible, less socially relevant, and confined within private spaces. Through mothers' technologically mediated leisure, the public and private spheres were blurred and ideologies of motherhood were both reinforced and resisted. Mothers demonstrated distinct social dynamics through their mediated leisure suggesting the cyberfeminist potential for transformations in public discourse and private practice that may uniquely contribute to alleviating the contemporary challenges of mothers' increased social isolation and an anxiety-inducing culture.
+C1 [Valtchanov, Bronwen L.; Parry, Diana C.; Glover, Troy D.] Univ Waterloo, Dept Recreat & Leisure Studies, Waterloo, ON N2L 3G1, Canada.
+   [Mulcahy, Caitlin M.] St Jeromes Univ, Dept Sexual Marriage & Family Studies, Waterloo, ON, Canada.
+C3 University of Waterloo; University of Waterloo; St. Jerome's University
+RP Valtchanov, BL (corresponding author), Univ Waterloo, Dept Recreat & Leisure Studies, 200 Univ Ave West, Waterloo, ON N2L 3G1, Canada.
+EM bvaltcha@uwaterloo.ca
+RI Valtchanov, Bronwen/GXZ-6066-2022
+FU Canadian Social Sciences and Humanities Research Council
+FX This research was funded by the Canadian Social Sciences and Humanities
+   Research Council.
+CR [Anonymous], 1998, FEMINISM PUBLIC PRIV
+   [Anonymous], 2013, LEISURE WOMEN GENDER
+   [Anonymous], THESIS
+   Arendell T, 2000, J MARRIAGE FAM, V62, P1192, DOI 10.1111/j.1741-3737.2000.01192.x
+   Boyd DM, 2007, J COMPUT-MEDIAT COMM, V13, P210, DOI 10.1111/j.1083-6101.2007.00393.x
+   Brady KP, 2010, J INTERACT ONLINE LE, V9, P151
+   Brenner J., 2013, Wishing mom a happy mother's day...on facebook
+   Brodie M, 2000, HEALTH AFFAIR, V19, P255, DOI 10.1377/hlthaff.19.6.255
+   Cairney J, 2004, SOC SCI MED, V59, P2535, DOI 10.1016/j.socscimed.2004.03.035
+   Canadian Digital Mom, 2012, CAN DIG MOM 2012 REP
+   Charmaz K., 2006, Brokerage and closure: An introduction to social capital
+   Choi P, 2005, J REPROD INFANT PSYC, V23, P167, DOI 10.1080/02646830500129487
+   Daniels Jessie., 2009, WOMENS STUDIES Q, V37, P101, DOI [10.1353/wsq.0.0158, DOI 10.1353/WSQ.0.0158]
+   Douglas SusanJ., 2005, MOMMY MYTH IDEALIZAT
+   Drentea P, 2005, SOCIOL HEALTH ILL, V27, P920, DOI 10.1111/j.1467-9566.2005.00464.x
+   Dupuis SL, 1999, LEISURE SCI, V21, P43, DOI 10.1080/014904099273282
+   Fernandez Maria., 2003, Domain Errors!: Cyberfeminist Practices
+   Fineman MarthaAlbertson., 1995, The Neutered Mother, The Sexual Family and Other Twentieth Century Tragedies
+   Flanagan Mary., 2002, RELOAD RETHINKING WO
+   Freysinger ValeriaJ., 2013, Leisure, Women, and Gender
+   Gal Susan., 2002, differences: A Journal of Feminist Cultural Studies, V13, P77
+   Gaudet S, 2011, CAN REV SOCIOL, V48, P153, DOI 10.1111/j.1755-618X.2011.01260.x
+   Gill R., 2005, SCI CULTURE, V14, P97
+   Glover TD, 2008, J LEISURE RES, V40, P208, DOI 10.1080/00222216.2008.11950138
+   Goodman JH, 2005, JOGNN-J OBST GYN NEO, V34, P190, DOI 10.1177/0884217505274581
+   Hall W, 2009, J ADV NURS, V65, P175, DOI 10.1111/j.1365-2648.2008.04856.x
+   Hays Sharon., 1996, The cultural contradictions of motherhood, DOI DOI 10.1177/001979390505800401
+   Hesse-Biber S.N., 2012, HDB FEMINIST RES THE
+   Hilbrecht M, 2008, GENDER WORK ORGAN, V15, P454, DOI 10.1111/j.1468-0432.2008.00413.x
+   Hocschild A.R., 1989, The Second Shift: working parents and the revolution of the home
+   Jessella K, 2009, AM PROSPECT      APR, P31
+   Ley BL, 2007, J COMPUT-MEDIAT COMM, V12, P1388, DOI 10.1111/j.1083-6101.2007.00378.x
+   Lin KY, 2011, COMPUT HUM BEHAV, V27, P1152, DOI 10.1016/j.chb.2010.12.009
+   Livingston Gretchen., 2014, GROWING NUMBER DADS
+   Lloyd B, 2003, SOC SCI MED, V57, P1783, DOI 10.1016/S0277-9536(03)00061-3
+   Lopez LK, 2009, NEW MEDIA SOC, V11, P729, DOI 10.1177/1461444809105349
+   Madge C, 2006, SOC CULT GEOGR, V7, P199, DOI 10.1080/14649360600600528
+   Moravec Michelle., 2011, MOTHERHOOD ONLINE
+   Nakamura Lisa., 2002, Race after the internet
+   Nelson Fiona., 2009, OTHER ROOM ENTERING
+   O'Connor H., 2004, Community, Work Family, V7, P351, DOI [DOI 10.1080/1366880042000295754, 10.1016/j.midw.2015.05.002, DOI 10.1016/J.MIDW.2015.05.002]
+   Parry DC, 2014, J LEISURE RES, V46, P38, DOI 10.1080/00222216.2014.11950312
+   Parry DC, 2013, J LEISURE RES, V45, P23, DOI 10.18666/jlr-2013-v45-i1-2941
+   Plantin L, 2009, BMC FAM PRACT, V10, DOI 10.1186/1471-2296-10-34
+   Ren YQ, 2007, ORGAN STUD, V28, P377, DOI 10.1177/0170840607076007
+   Rubin Herbert J., 2011, QUALITATIVE INTERVIE
+   Samuel A., 2011, Motherhood Online, pxi
+   Shaw SM, 2001, J LEISURE RES, V33, P186, DOI 10.1080/00222216.2001.11949937
+   Shaw SM, 2008, SOCIOL COMPASS, V2, P688, DOI 10.1111/j.1751-9020.2007.00076.x
+   Statistics Canada, 2011, FEM POP
+   Statistics Canada, 2014, MOTH DAY NUMB
+   Stewart WP, 2008, J LEISURE RES, V40, P360, DOI 10.1080/00222216.2008.11950145
+   Sullivan A., 2013, Leisure, women, and gender, P97
+   United States Census, 2010, FERT AM WOM TABL 1
+   Valtchanov BL, 2014, GEND TECHNOL DEV, V18, P187, DOI 10.1177/0971852414529481
+   Warner J., 2005, PERFECT MADNESS MOTH
+   Wearing B., 1998, LEISURE FEMINIST THE, P143
+   Weinstraub J., 1997, PUBLIC PRIVATE THOUG, P1
+   Wittkower D., 2010, Facebook and Philosophy: What's on Your Mind?
+NR 59
+TC 21
+Z9 28
+U1 2
+U2 14
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 0149-0400
+EI 1521-0588
+J9 LEISURE SCI
+JI Leis. Sci.
+PD JAN 1
+PY 2016
+VL 38
+IS 1
+BP 50
+EP 67
+DI 10.1080/01490400.2015.1043414
+PG 18
+WC Hospitality, Leisure, Sport & Tourism; Sociology
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics; Sociology
+GA DA5LM
+UT WOS:000367844600004
+DA 2024-11-22
+ER
+
+PT J
+AU Hu, Y
+   Zhao, JC
+   Wu, JJ
+AF Hu, Yue
+   Zhao, Jichang
+   Wu, Junjie
+TI Emoticon-Based Ambivalent Expression: A Hidden Indicator for Unusual
+   Behaviors in Weibo
+SO PLOS ONE
+LA English
+DT Article
+ID ONLINE SOCIAL NETWORKING; HAPPINESS; LIFE
+AB Recent decades have witnessed online social media being a big-data window for testifying conventional social theories quantitatively and exploring much detailed human behavioral patterns. In this paper, by tracing the emoticon use in Weibo, a group of hidden "ambivalent users" are disclosed for frequently posting ambivalent tweets containing both positive and negative emotions. Further investigation reveals that this ambivalent expression could be a novel indicator of many unusual social behaviors. For instance, ambivalent users with the female as the majority like to make a sound in midnights and at weekends. They mention their close friends frequently in ambivalent tweets, which attract more replies and serve as a more private communication way. Ambivalent users also respond differently to public affairs from others and demonstrate more interests in entertainment and sports events. Moreover, the sentiment shift in ambivalent tweets is more evident than usual and exhibits a clear "negative to positive" pattern. The above observations, though being promiscuous seemingly, actually point to the self-regulation of negative mood in Weibo, which could find its basis from the traditional emotion management theories in sociology but makes an important extension to the online environment in this study. Finally, as an interesting corollary, ambivalent users are found connected with compulsive buyers and turn out to be perfect targets for online marketing.
+C1 [Hu, Yue; Zhao, Jichang; Wu, Junjie] Beihang Univ, Sch Econ & Management, Beijing 100191, Peoples R China.
+C3 Beihang University
+RP Wu, JJ (corresponding author), Beihang Univ, Sch Econ & Management, Beijing 100191, Peoples R China.
+EM wujj@buaa.edu.cn
+FU National Natural Science Foundation of China [71322104, 71171007,
+   71471009, 71531001]; National Center for International Joint Research on
+   E-Business Information Processing [2013B01035]; National High Technology
+   Research and Development Program of China (863 Program)
+   [SS2014AA012303]; Foundation for the Author of National Excellent
+   Doctoral Dissertation of PR China [201189]; Program for New Century
+   Excellent Talents in University [NCET-11-0778]; Academy of Finland (AKA)
+   [201189] Funding Source: Academy of Finland (AKA)
+FX This work was partially supported by National Natural Science Foundation
+   of China (71322104, 71171007, 71471009 and 71531001), National Center
+   for International Joint Research on E-Business Information Processing
+   (2013B01035), National High Technology Research and Development Program
+   of China (863 Program) (SS2014AA012303), Foundation for the Author of
+   National Excellent Doctoral Dissertation of PR China (201189), and
+   Program for New Century Excellent Talents in University (NCET-11-0778).
+   JZ thanks NSF of China (71501005). The funders had no role in study
+   design, data collection and analysis, decision to publish, or
+   preparation of the manuscript.
+CR ABELSON RP, 1983, PERS SOC PSYCHOL B, V9, P37, DOI 10.1177/0146167283091006
+   [Anonymous], STRENGTH WEAK TIES
+   [Anonymous], AAAI
+   [Anonymous], 2013, P 7 INT AAAI C WEBL
+   [Anonymous], 2013, P 22 INT C WORLD WID, DOI [10.1145/2488388.2488442, DOI 10.1145/2488388.2488442]
+   [Anonymous], 2012, University of Pennsylvania Working Papers in Linguistics
+   Apaolaza V, 2014, COMPUT HUM BEHAV, V41, P203, DOI 10.1016/j.chb.2014.09.029
+   Bagozzi RP, 1999, COGNITION EMOTION, V13, P641, DOI 10.1080/026999399379023
+   Bliss CA, 2012, J COMPUT SCI-NETH, V3, P388, DOI 10.1016/j.jocs.2012.05.001
+   Bollen J, 2011, ARTIF LIFE, V17, P237, DOI 10.1162/artl_a_00034
+   DANDOY AC, 1990, J SOC BEHAV PERS, V5, P275
+   Derks D, 2007, COMPUT HUM BEHAV, V23, P842, DOI 10.1016/j.chb.2004.11.013
+   Dodds PS, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0026752
+   Faber RJ, 1996, PSYCHOL MARKET, V13, P803, DOI 10.1002/(SICI)1520-6793(199612)13:8<803::AID-MAR6>3.0.CO;2-J
+   Fan R, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0110184
+   Frank MR, 2013, SCI REP-UK, V3, DOI 10.1038/srep02625
+   Gallup JG, 1989, PEOPLES RELIG AM FAI
+   Garas A, 2012, SCI REP-UK, V2, DOI 10.1038/srep00402
+   González MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   Hormes JM, 2014, ADDICTION, V109, P2079, DOI 10.1111/add.12713
+   Kramer ADI, 2014, P NATL ACAD SCI USA, V111, P8788, DOI 10.1073/pnas.1320040111
+   Liu B, 2010, CH CRC MACH LEARN PA, P627
+   Liu SH, 2013, PROCEEDINGS OF THE 22ND ACM INTERNATIONAL CONFERENCE ON INFORMATION & KNOWLEDGE MANAGEMENT (CIKM'13), P2079, DOI 10.1145/2505515.2505569
+   Mathiesen J, 2013, P NATL ACAD SCI USA, V110, P17259, DOI 10.1073/pnas.1304179110
+   Mitchell L, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0064417
+   Oh HJ, 2014, COMPUT HUM BEHAV, V30, P69, DOI 10.1016/j.chb.2013.07.053
+   Pantic I, 2012, PSYCHIAT DANUB, V24, P90
+   Preis T, 2013, SCI REP-UK, V3, DOI 10.1038/srep03141
+   Ptaszynski M., 2011, Conference: The Seventeenth Annual Meeting of The Association for Natural Language proceedings, P1159
+   Purver M., 2012, Proceedings of ACL, P482
+   Speriosu M., 2011, P 1 WORKSH UNS LEARN, P53, DOI DOI 10.1017/CBO9781107415324.004
+   Suvakov M, 2013, J R SOC INTERFACE, V10, DOI 10.1098/rsif.2012.0819
+   Thelwall M, 2010, J AM SOC INF SCI TEC, V61, P2544, DOI 10.1002/asi.21416
+   Tossell CC, 2012, COMPUT HUM BEHAV, V28, P659, DOI 10.1016/j.chb.2011.11.012
+   Valenza G, 2014, SCI REP-UK, V4, DOI 10.1038/srep04998
+   Valkenburg PM, 2006, CYBERPSYCHOL BEHAV, V9, P584, DOI 10.1089/cpb.2006.9.584
+   Wood SA, 2013, SCI REP-UK, V3, DOI 10.1038/srep02976
+   Yang J., 2011, WSDM'11, P177, DOI DOI 10.1145/1935826.1935863
+   Zhao Jichang., 2012, Proceedings of the 18th ACM SIGKDD international conference on Knowledge discovery and data mining, P1528, DOI DOI 10.1145/2339530.2339772
+   Zhao ZD, 2015, CHAOS, V25, DOI 10.1063/1.4922302
+   Zhao ZD, 2014, PHYS REV E, V90, DOI 10.1103/PhysRevE.90.050802
+   Zhao ZD, 2013, SCI REP-UK, V3, DOI 10.1038/srep03472
+NR 42
+TC 10
+Z9 10
+U1 0
+U2 71
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JAN 22
+PY 2016
+VL 11
+IS 1
+AR e0147079
+DI 10.1371/journal.pone.0147079
+PG 14
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA DB6WB
+UT WOS:000368655300058
+PM 26800119
+OA Green Published, gold, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Newman, MEJ
+   Clauset, A
+AF Newman, M. E. J.
+   Clauset, Aaron
+TI Structure and inference in annotated networks
+SO NATURE COMMUNICATIONS
+LA English
+DT Article
+ID COMMUNITY DETECTION
+AB For many networks of scientific interest we know both the connections of the network and information about the network nodes, such as the age or gender of individuals in a social network. Here we demonstrate how this 'metadata' can be used to improve our understanding of network structure. We focus in particular on the problem of community detection in networks and develop a mathematically principled approach that combines a network and its metadata to detect communities more accurately than can be done with either alone. Crucially, the method does not assume that the metadata are correlated with the communities we are trying to find. Instead, the method learns whether a correlation exists and correctly uses or ignores the metadata depending on whether they contain useful information. We demonstrate our method on synthetic networks with known structure and on real-world networks, large and small, drawn from social, biological and technological domains.
+C1 [Newman, M. E. J.] Univ Michigan, Dept Phys, 450 Church St, Ann Arbor, MI 48109 USA.
+   [Newman, M. E. J.] Univ Michigan, Ctr Study Complex Syst, 450 Church St, Ann Arbor, MI 48109 USA.
+   [Newman, M. E. J.; Clauset, Aaron] Santa Fe Inst, 1399 Hyde Pk Rd, Santa Fe, NM 87501 USA.
+   [Clauset, Aaron] Univ Colorado, Dept Comp Sci, 430 UCB, Boulder, CO 80309 USA.
+   [Clauset, Aaron] Univ Colorado, BioFrontiers Inst, 596 UCB, Boulder, CO 80309 USA.
+C3 University of Michigan System; University of Michigan; University of
+   Michigan System; University of Michigan; The Santa Fe Institute;
+   University of Colorado System; University of Colorado Boulder;
+   University of Colorado System; University of Colorado Boulder
+RP Newman, MEJ (corresponding author), Univ Michigan, Dept Phys, 450 Church St, Ann Arbor, MI 48109 USA.; Newman, MEJ (corresponding author), Univ Michigan, Ctr Study Complex Syst, 450 Church St, Ann Arbor, MI 48109 USA.; Newman, MEJ; Clauset, A (corresponding author), Santa Fe Inst, 1399 Hyde Pk Rd, Santa Fe, NM 87501 USA.; Clauset, A (corresponding author), Univ Colorado, Dept Comp Sci, 430 UCB, Boulder, CO 80309 USA.; Clauset, A (corresponding author), Univ Colorado, BioFrontiers Inst, 596 UCB, Boulder, CO 80309 USA.
+EM mejn@umich.edu; aaron.clauset@colorado.edu
+OI CLAUSET, AARON/0000-0002-3529-8746
+FU National Institute of Child Health and Human Development [P01HD31921];
+   US National Science Foundation [DMS-1107796, DMS-1407207, IIS-1452718];
+   Direct For Mathematical & Physical Scien [1107796] Funding Source:
+   National Science Foundation; Division Of Mathematical Sciences [1107796]
+   Funding Source: National Science Foundation; Division Of Mathematical
+   Sciences; Direct For Mathematical & Physical Scien [1407207] Funding
+   Source: National Science Foundation; Div Of Information & Intelligent
+   Systems; Direct For Computer & Info Scie & Enginr [1452718] Funding
+   Source: National Science Foundation
+FX We thank Daniel Larremore, Cristopher Moore, Leto Peel and Mason Porter
+   for useful conversations, and Darko Hric, Richard Darst and Santo
+   Fortunato for sharing the Internet data set and taking the time to
+   explain it to us. This work uses data from Add Health, a programme
+   project designed by J. Richard Udry, Peter S. Bearman and Kathleen
+   Mullan Harris, and funded by a grant P01HD31921 from the National
+   Institute of Child Health and Human Development, with cooperative
+   funding from 17 other agencies. Special acknowledgment is due Ronald R.
+   Rindfuss and Barbara Entwisle for assistance in the original design.
+   This research was funded in part by the US National Science Foundation
+   under grants DMS-1107796 and DMS-1407207 (M.E.J.N.) and IIS-1452718
+   (A.C.).
+CR Adamic L.A., 2005, P 3 INT WORKSH LINK, P36, DOI DOI 10.1145/1134271.1134277
+   Aicher C, 2015, J COMPLEX NETW, V3, P221, DOI 10.1093/comnet/cnu026
+   [Anonymous], 2011, P 17 ACM SIGKDD INT
+   Ball B., 2013, Network Science, V1, P16, DOI [DOI 10.1017/NWS.2012.4, 10.1017/nws.2012.4]
+   Barthélemy M, 2011, PHYS REP, V499, P1, DOI 10.1016/j.physrep.2010.11.002
+   Binkiewicz N., 2014, PREPRINT
+   Borgatti SP, 1999, SOC NETWORKS, V21, P375
+   Bothorel C, 2015, NETW SCI, V3, P408, DOI 10.1017/nws.2015.9
+   Brose U., 2005, ECOLOGY, V86, P2545, DOI DOI 10.1890/05-0379
+   Bull PC, 2007, MOL BIOCHEM PARASIT, V154, P98, DOI 10.1016/j.molbiopara.2007.03.011
+   Bull PC, 2005, PLOS PATHOG, V1, P202, DOI 10.1371/journal.ppat.0010026
+   Clauset A, 2008, NATURE, V453, P98, DOI 10.1038/nature06830
+   Cover T. M., 2006, ELEMENTS INFORM THEO, DOI 10.1002/0471200611
+   Danon L, 2005, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2005/09/P09008
+   Decelle A, 2011, PHYS REV LETT, V107, DOI 10.1103/PhysRevLett.107.065701
+   Eaton E., 2012, P 26 AAAI C ART INT, P900, DOI DOI 10.1609/AAAI.V26I1.8320
+   Expert P, 2011, P NATL ACAD SCI USA, V108, P7663, DOI 10.1073/pnas.1018962108
+   Fortunato S, 2010, PHYS REP, V486, P75, DOI 10.1016/j.physrep.2009.11.002
+   Galbrun E, 2014, DATA MIN KNOWL DISC, V28, P1586, DOI 10.1007/s10618-014-0373-y
+   Good BH, 2010, PHYS REV E, V81, DOI 10.1103/PhysRevE.81.046106
+   Guimerà R, 2005, NATURE, V433, P895, DOI 10.1038/nature03288
+   Hansen TJ, 2014, J MACH LEARN RES, V15, P3691
+   Hoff PD, 2002, J AM STAT ASSOC, V97, P1090, DOI 10.1198/016214502388618906
+   HOLLAND PW, 1983, SOC NETWORKS, V5, P109, DOI 10.1016/0378-8733(83)90021-7
+   Holme P, 2003, BIOINFORMATICS, V19, P532, DOI 10.1093/bioinformatics/btg033
+   Hric D, 2014, PHYS REV E, V90, DOI 10.1103/PhysRevE.90.062805
+   Jacob U., 2005, THESIS U BREMEN
+   Jacobs A. Z., 2014, PREPRINT
+   Karrer B, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.016107
+   Larremore DB, 2014, PHYS REV E, V90, DOI 10.1103/PhysRevE.90.012805
+   Larremore DB, 2013, PLOS COMPUT BIOL, V9, DOI 10.1371/journal.pcbi.1003268
+   Leng Mingwei., 2013, P INT C DAT SYST ADV, V7826, P324, DOI [10.1007/978-3-642-37450-0_25, DOI 10.1007/978-3-642-37450-0_25]
+   Li J, 2012, IEEE IJCNN
+   Ma XK, 2010, PHYSICA A, V389, P187, DOI 10.1016/j.physa.2009.09.018
+   McDaid AF., 2011, ARXIV PREPRINT ARXIV
+   Milo R, 2002, SCIENCE, V298, P824, DOI 10.1126/science.298.5594.824
+   Moody J, 2001, AM J SOCIOL, V107, P679, DOI 10.1086/338954
+   Mossel E, 2015, PROBAB THEORY REL, V162, P431, DOI 10.1007/s00440-014-0576-6
+   Newman M., 2010, NETWORKS, DOI [DOI 10.1093/ACPROF:OSO/9780199206650.001.0001, 10.1093/acprof:oso/9780199206650.001.0001]
+   Peel L, 2012, ECML PKDD WORKSH COL
+   Report W. M., 2012, WORLD MALARIA REPORT
+   Traud AL, 2012, PHYSICA A, V391, P4165, DOI 10.1016/j.physa.2011.12.021
+   Warimwe GM, 2009, P NATL ACAD SCI USA, V106, P21801, DOI 10.1073/pnas.0907590106
+   Woodward G, 2005, TRENDS ECOL EVOL, V20, P402, DOI 10.1016/j.tree.2005.04.005
+   Yang J, 2013, IEEE DATA MINING, P1151, DOI 10.1109/ICDM.2013.167
+   Yedidia J S., 2003, Exploring Artificial Intelligence in the new Millennium, ppp 239
+   Zhang P, 2014, PHYS REV E, V90, DOI 10.1103/PhysRevE.90.052802
+   Zhang Yingxun., 2015, PREPRINT
+   Zhang ZY, 2013, EPL-EUROPHYS LETT, V101, DOI 10.1209/0295-5075/101/48005
+   Zuev K, 2015, SCI REP-UK, V5, DOI 10.1038/srep09421
+NR 50
+TC 226
+Z9 253
+U1 0
+U2 47
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+EI 2041-1723
+J9 NAT COMMUN
+JI Nat. Commun.
+PD JUN
+PY 2016
+VL 7
+AR 11863
+DI 10.1038/ncomms11863
+PG 11
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA DP9JL
+UT WOS:000378812400001
+PM 27306566
+OA Green Submitted, gold, Green Published
+DA 2024-11-22
+ER

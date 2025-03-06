@@ -1,0 +1,582 @@
+
+PT J
+AU Foley, M
+   Forber, P
+   Smead, R
+   Riedl, C
+AF Foley, Michael
+   Forber, Patrick
+   Smead, Rory
+   Riedl, Christoph
+TI Conflict and convention in dynamic networks
+SO JOURNAL OF THE ROYAL SOCIETY INTERFACE
+LA English
+DT Article
+DE game theory; networks; reinforcement learning; evolutionary dynamics;
+   convention
+ID EVOLUTION; GAMES; COOPERATION; MODEL
+AB An important way to resolve games of conflict (snowdrift, hawk-dove, chicken) involves adopting a convention: a correlated equilibrium that avoids any conflict between aggressive strategies. Dynamic networks allow individuals to resolve conflict via their network connections rather than changing their strategy. Exploring how behavioural strategies coevolve with social networks reveals new dynamics that can help explain the origins and robustness of conventions. Here, we model the emergence of conventions as correlated equilibria in dynamic networks. Our results show that networks have the tendency to break the symmetry between the two conventional solutions in a strongly biased way. Rather than the correlated equilibrium associated with ownership norms (play aggressive at home, not away), we usually see the opposite host-guest norm (play aggressive away, not at home) evolve on dynamic networks, a phenomenon common to human interaction. We also show that learning to avoid conflict can produce realistic network structures in a way different than preferential attachment models.
+C1 [Foley, Michael; Riedl, Christoph] Northeastern Univ, Network Sci Inst, Boston, MA 02115 USA.
+   [Smead, Rory] Northeastern Univ, Dept Philosophy & Relig, Boston, MA 02115 USA.
+   [Riedl, Christoph] Northeastern Univ, DAmore McKim Sch Business, Boston, MA 02115 USA.
+   [Riedl, Christoph] Northeastern Univ, Coll Comp & Informat Sci, Boston, MA 02115 USA.
+   [Forber, Patrick] Tufts Univ, Dept Philosophy, Medford, MA 02155 USA.
+   [Riedl, Christoph] Harvard Univ, Inst Quantitat Social Sci, Cambridge, MA 02138 USA.
+C3 Northeastern University; Northeastern University; Northeastern
+   University; Northeastern University; Tufts University; Harvard
+   University
+RP Riedl, C (corresponding author), Northeastern Univ, Network Sci Inst, Boston, MA 02115 USA.; Riedl, C (corresponding author), Northeastern Univ, DAmore McKim Sch Business, Boston, MA 02115 USA.; Riedl, C (corresponding author), Northeastern Univ, Coll Comp & Informat Sci, Boston, MA 02115 USA.; Riedl, C (corresponding author), Harvard Univ, Inst Quantitat Social Sci, Cambridge, MA 02138 USA.
+EM c.riedl@neu.edu
+RI Riedl, Christoph/KHW-0308-2024
+OI Riedl, Christoph/0000-0002-3807-6364; Forber,
+   Patrick/0000-0002-5060-2187
+FU Army Research Office [W911NF-14-1-0478]; Office of Naval Research
+   [N00014-16-1-3005, N00014-17-1-2542]
+FX This research was supported in part by Army Research Office grant no.
+   W911NF-14-1-0478, and Office of Naval Research grants N00014-16-1-3005
+   and N00014-17-1-2542.
+CR Alexander JM, 2007, STRUCT EV MOR
+   Allen B, 2017, NATURE, V544, P227, DOI 10.1038/nature21723
+   [Anonymous], 1997, Evolutionary Games and Equilibrium Selection
+   [Anonymous], 2014, EVOLUTION SOCIAL CON
+   [Anonymous], 1998, THEORY LEARNING GAME
+   Arifovic J, 2019, J ECON BEHAV ORGAN, V157, P171, DOI 10.1016/j.jebo.2016.09.011
+   Aumann R. J., 1974, Journal of Mathematical Economics, V1, P67, DOI [10.1016/0304-4068(74)90037-8, DOI 10.1016/0304-4068(74)90037-8]
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barrat A, 2004, P NATL ACAD SCI USA, V101, P3747, DOI 10.1073/pnas.0400087101
+   Beggs AW, 2005, J ECON THEORY, V122, P1, DOI 10.1016/j.jet.2004.03.008
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Dodds PS, 2005, J THEOR BIOL, V232, P587, DOI 10.1016/j.jtbi.2004.09.006
+   Duffy J, 2010, INT ECON REV, V51, P701, DOI 10.1111/j.1468-2354.2010.00598.x
+   Erev I, 1998, AM ECON REV, V88, P848
+   Fehl K, 2011, ECOL LETT, V14, P546, DOI 10.1111/j.1461-0248.2011.01615.x
+   Foster DP, 1997, GAME ECON BEHAV, V21, P40, DOI 10.1006/game.1997.0595
+   Fudenberg D., 1991, Game theory, 1991, V393
+   Goyal S, 2005, GAME ECON BEHAV, V50, P178, DOI 10.1016/j.geb.2004.01.005
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Gross T, 2008, J R SOC INTERFACE, V5, P259, DOI 10.1098/rsif.2007.1229
+   Guala F, 2010, J ECON PSYCHOL, V31, P749, DOI 10.1016/j.joep.2010.05.009
+   Hart S, 2000, ECONOMETRICA, V68, P1127, DOI 10.1111/1468-0262.00153
+   Hauert C, 2004, NATURE, V428, P643, DOI 10.1038/nature02360
+   Herrnstein RJ, 1970, J EXP ANAL BEHAV, V13, P243, DOI 10.1901/jeab.1970.13-243
+   Huttegger S, 2014, P NATL ACAD SCI USA, V111, P10873, DOI 10.1073/pnas.1400838111
+   Jackson MO, 2002, GAME ECON BEHAV, V41, P265, DOI 10.1016/S0899-8256(02)00504-3
+   Kakade S., 2003, P 4 ACM C EL COMM, P42
+   Kokko H, 2006, AM NAT, V167, P901, DOI 10.1086/504604
+   Krebs JR., 1993, INTRO BEHAV ECOLOGY, VThird
+   Lewis David., 1969, CONVENTION PHILOS ST
+   Macy MW, 2002, P NATL ACAD SCI USA, V99, P7229, DOI 10.1073/pnas.092080099
+   Maynard Smith J., 1982, pi
+   Maynard Smith J, 1976, NATURE, V146, P15, DOI [10.1086/504604), DOI 10.1086/504604]
+   Mesterton-Gibbons M, 2014, DYN GAMES APPL, V4, P407, DOI 10.1007/s13235-014-0111-5
+   Nowak MA, 2006, SCIENCE, V314, P1560, DOI 10.1126/science.1133755
+   Ohtsuki H, 2006, NATURE, V441, P502, DOI 10.1038/nature04605
+   Pacheco JM, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.258103
+   Pemantle R, 2004, MATH SOC SCI, V48, P315, DOI 10.1016/j.mathsocsci.2004.03.007
+   Perc M, 2010, BIOSYSTEMS, V99, P109, DOI 10.1016/j.biosystems.2009.10.003
+   Pinheiro FL, 2016, PHYS REV LETT, V116, DOI 10.1103/PhysRevLett.116.128702
+   Pinheiro FL, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0032114
+   Rand DG, 2014, P NATL ACAD SCI USA, V111, P17093, DOI 10.1073/pnas.1400406111
+   Rand DG, 2011, P NATL ACAD SCI USA, V108, P19193, DOI 10.1073/pnas.1108243108
+   ROTH AE, 1995, GAME ECON BEHAV, V8, P164, DOI 10.1016/S0899-8256(05)80020-X
+   Sandholm W.H., 2010, POPULATION GAMES EVO
+   Santos FC, 2005, PHYS REV LETT, V95, DOI 10.1103/PhysRevLett.95.098104
+   Santos FC, 2006, PLOS COMPUT BIOL, V2, P1284, DOI 10.1371/journal.pcbi.0020140
+   Skyrms B, 2000, P NATL ACAD SCI USA, V97, P9340, DOI 10.1073/pnas.97.16.9340
+   Szabó G, 2007, PHYS REP, V446, P97, DOI 10.1016/j.physrep.2007.04.004
+   Szabó G, 2016, PHYS REP, V624, P1, DOI 10.1016/j.physrep.2016.02.006
+   Vanderschraaf P., 1995, ERKENNTNIS, V42, P65, DOI DOI 10.1007/BF01666812
+   Watts DJ, 2007, J CONSUM RES, V34, P441, DOI 10.1086/518527
+   Weibull JW., 1997, EVOLUTIONARY GAME TH
+   Wu B, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0011187
+   Yook SH, 2001, PHYS REV LETT, V86, P5835, DOI 10.1103/PhysRevLett.86.5835
+   YOUNG HP, 1993, ECONOMETRICA, V61, P57, DOI 10.2307/2951778
+NR 56
+TC 7
+Z9 8
+U1 0
+U2 20
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 1742-5689
+EI 1742-5662
+J9 J R SOC INTERFACE
+JI J. R. Soc. Interface
+PD MAR
+PY 2018
+VL 15
+IS 140
+AR 20170835
+DI 10.1098/rsif.2017.0835
+PG 8
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA GA8GH
+UT WOS:000428576200008
+PM 29563244
+OA Bronze, Green Submitted, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Abbas, R
+   Mesch, G
+AF Abbas, Rana
+   Mesch, Gustavo
+TI Do rich teens get richer? Facebook use and the link between offline and
+   online social capital among Palestinian youth in Israel
+SO INFORMATION COMMUNICATION & SOCIETY
+LA English
+DT Article
+DE Computer-mediated communication; social media; social networking; young
+   people; social capital; Facebook features; youth; rich-get-richer model
+ID NETWORKING SITES; GENDER-DIFFERENCES; INTERNET USE; ADOLESCENTS;
+   COMPETENCE; RESOURCES; TEENAGERS; MINORITY; CREATION; PEOPLE
+AB Studies have shown that using social networking sites contributes to social capital. This study investigated the association between specific features of Facebook and online social capital. Two contrasting hypothesis were tested. The first posits that the rich get richer, meaning that the creation of social capital online reflects the stock of offline resources already available. In contrast, the compensation hypothesis argues that disadvantaged ethnic minorities are more likely to use social media to compensate for their lack of social capital offline. We tested these two theories among a representative sample of Palestinian teenagers (N = 567). While we found no gender differences in the use of Facebook's features, our results highlight the positive correlation between the use of active and passive communication features and perceived social capital online. Moreover, the results support the rich-getricher model; in that, even among this socially disadvantaged group, the youngsters who already had a store of social capital offline benefitted more from using Facebook.
+C1 [Abbas, Rana; Mesch, Gustavo] Univ Haifa, Dept Sociol & Anthropol, IL-31905 Haifa, Israel.
+C3 University of Haifa
+RP Mesch, G (corresponding author), Univ Haifa, Dept Sociol & Anthropol, IL-31905 Haifa, Israel.
+EM gustavo@soc.haifa.ac.il
+RI mesch, gustavo/W-9537-2019
+OI Mesch, Gustavo/0000-0002-9470-621X
+CR Abbas R, 2015, COMPUT HUM BEHAV, V48, P644, DOI 10.1016/j.chb.2015.02.031
+   Ahn J, 2012, INFORM SOC, V28, P99, DOI 10.1080/01972243.2011.649394
+   [Anonymous], 2001, Social capital: theory and research
+   [Anonymous], STAT ABSTR ISR
+   [Anonymous], 2001, BOWLING ALONE BOWLIN
+   [Anonymous], 2005, SSRN ELECT J
+   [Anonymous], 2010, WIRED YOUTH SOCIAL R
+   [Anonymous], HERMES
+   [Anonymous], 2006, J COMPUTER MEDIATED
+   [Anonymous], 2010, THESIS
+   Antheunis ML, 2016, J EARLY ADOLESCENCE, V36, P348, DOI 10.1177/0272431614564060
+   Bassani C., 2007, J YOUTH STUD, V10, P17, DOI [10.1080/13676260701196087, DOI 10.1080/13676260701196087]
+   Baym, 2015, PERSONAL CONNECTIONS
+   Beilmann M, 2014, CHILD INDIC RES, V7, P589, DOI 10.1007/s12187-014-9232-z
+   Best SJ, 2006, SOC SCI COMPUT REV, V24, P395, DOI 10.1177/0894439306286855
+   Bohn A, 2014, SOC NETWORKS, V37, P29, DOI 10.1016/j.socnet.2013.11.003
+   Boyd D., 2011, NETWORKED SELF IDENT, P39, DOI DOI 10.4324/9780203876527-8
+   Boyd DM, 2007, J COMPUT-MEDIAT COMM, V13, P210, DOI 10.1111/j.1083-6101.2007.00393.x
+   Bryant JA, 2006, J COMPUT-MEDIAT COMM, V11
+   Burke M, 2011, 29TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, P571
+   Burke M, 2010, CHI2010: PROCEEDINGS OF THE 28TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, VOLS 1-4, P1909
+   Chang TS, 2014, SYST RES BEHAV SCI, V31, P102, DOI 10.1002/sres.2169
+   Coleman J.S., 1994, FDN SOCIAL THEORY
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   Ellison NB, 2011, NEW MEDIA SOC, V13, P873, DOI 10.1177/1461444810385389
+   Ellison NB, 2015, HBK COMMUN MEDIA, P205
+   Ellison NB, 2014, J COMPUT-MEDIAT COMM, V19, P855, DOI 10.1111/jcc4.12078
+   Englund MM, 2011, INT J BEHAV DEV, V35, P490, DOI 10.1177/0165025411422994
+   Gross EF, 2002, J SOC ISSUES, V58, P75, DOI 10.1111/1540-4560.00249
+   Gui M, 2011, NEW MEDIA SOC, V13, P963, DOI 10.1177/1461444810389751
+   Haferkamp N, 2012, CYBERPSYCH BEH SOC N, V15, P91, DOI 10.1089/cyber.2011.0151
+   Hargittai E, 2007, J COMPUT-MEDIAT COMM, V13, P276, DOI 10.1111/j.1083-6101.2007.00396.x
+   Hargittai E, 2010, SOCIOL INQ, V80, P92, DOI 10.1111/j.1475-682X.2009.00317.x
+   Hofer M, 2013, COMPUT HUM BEHAV, V29, P2134, DOI 10.1016/j.chb.2013.04.038
+   Huysman M., 2004, SOCIAL CAPITAL INFOR
+   Kao G, 2004, SOCIOL EDUC, V77, P172, DOI 10.1177/003804070407700204
+   Khan S, 2016, COMPUT HUM BEHAV, V55, P940, DOI 10.1016/j.chb.2015.09.046
+   Kiesler S., 2002, IT Society, V1, P120
+   Kraut R, 2002, J SOC ISSUES, V58, P49, DOI 10.1111/1540-4560.00248
+   Lee E, 2014, COMPUT HUM BEHAV, V36, P440, DOI 10.1016/j.chb.2014.04.007
+   Lee JY, 2016, J YOUTH STUD, V19, P1164, DOI 10.1080/13676261.2016.1145637
+   Lesser E.L., 2000, Knowledge and social capital. Foundatios and applications, P43
+   Liu D, 2014, COMPUT HUM BEHAV, V38, P213, DOI 10.1016/j.chb.2014.06.003
+   Livingstone S, 2007, NEW MEDIA SOC, V9, P671, DOI 10.1177/1461444807080335
+   McKenna KYA, 1998, J PERS SOC PSYCHOL, V75, P681, DOI 10.1037/0022-3514.75.3.681
+   Mesch GS, 2012, COMMUN RES, V39, P317, DOI 10.1177/0093650211398865
+   Micheli M, 2016, INFORM COMMUN SOC, V19, P565, DOI 10.1080/1369118X.2016.1139614
+   Neumark Y, 2013, J HEALTH COMMUN, V18, P1097, DOI 10.1080/10810730.2013.778360
+   Peter J, 2006, POETICS, V34, P293, DOI 10.1016/j.poetic.2006.05.005
+   Pettit GS, 2011, INT J BEHAV DEV, V35, P482, DOI 10.1177/0165025411422995
+   Poley MEM, 2012, COMPUT HUM BEHAV, V28, P414, DOI 10.1016/j.chb.2011.10.012
+   Putnam R.D., 1993, The American Prospect, P35, DOI DOI 10.1287/mnsc.1120.1644
+   Raacke J, 2008, CYBERPSYCHOL BEHAV, V11, P169, DOI 10.1089/cpb.2007.0056
+   Schaefer-McDaniel N.J., 2004, CHILDREN YOUTH ENV, V14, P140
+   Smock AD, 2011, COMPUT HUM BEHAV, V27, P2322, DOI 10.1016/j.chb.2011.07.011
+   Steinfield C, 2008, J APPL DEV PSYCHOL, V29, P434, DOI 10.1016/j.appdev.2008.07.002
+   Subrahmanyam K, 2008, J APPL DEV PSYCHOL, V29, P420, DOI 10.1016/j.appdev.2008.07.003
+   Valkenburg PM, 2009, CURR DIR PSYCHOL SCI, V18, P1, DOI 10.1111/j.1467-8721.2009.01595.x
+   van Emmerik IIJH, 2006, SOC NETWORKS, V28, P24, DOI 10.1016/j.socnet.2005.04.002
+   Vitak J, 2013, NEW MEDIA SOC, V15, P243, DOI 10.1177/1461444812451566
+   Wellman B, 2001, AM BEHAV SCI, V45, P436, DOI 10.1177/00027640121957286
+   Xie WJ, 2014, COMPUT HUM BEHAV, V41, P228, DOI 10.1016/j.chb.2014.09.042
+   Yoder C, 2011, 29TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, P585
+NR 63
+TC 38
+Z9 43
+U1 0
+U2 0
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1369-118X
+EI 1468-4462
+J9 INFORM COMMUN SOC
+JI Info. Commun. Soc.
+PY 2018
+VL 21
+IS 1
+BP 63
+EP 79
+DI 10.1080/1369118X.2016.1261168
+PG 17
+WC Communication; Sociology
+WE Social Science Citation Index (SSCI)
+SC Communication; Sociology
+GA FP5DG
+UT WOS:000417639100005
+DA 2024-11-22
+ER
+
+PT J
+AU Norbutas, L
+   Corten, R
+AF Norbutas, Lukas
+   Corten, Rense
+TI Network structure and economic prosperity in municipalities: A
+   large-scale test of social capital theory using social media data
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Network structure; Social capital; Online; Economic prosperity
+ID WEAK TIES; ONLINE; TRUST; EMBEDDEDNESS; COMMUNITY; DIVERSITY; STRENGTH;
+   QUALITY; SITES
+AB In this study, we analyze the relationship between network structure and economic prosperity in 438 Dutch municipalities. We focus on the structural aspects of social capital theory and test how three forms of social capital- network density, fragmentation (bonding), diversity and geographical distance of ties (bridging)- are associated with economic prosperity at the municipality level. We use data from a Dutch online social network that consists of more than 10 million users to test the hypotheses. We find that communities that have high network diversity are also more prosperous economically, while high network fragmentation is associated with lower prosperity. Contrary to previous literature, we find some support that network density at the community level is negatively associated with economic prosperity. (C) 2017 Elsevier B.V. All rights reserved.
+C1 [Norbutas, Lukas; Corten, Rense] Univ Utrecht, Dept Sociol ICS, Padualaan 14, NL-3584 CH Utrecht, Netherlands.
+C3 Utrecht University
+RP Norbutas, L (corresponding author), Univ Utrecht, Dept Sociol ICS, Padualaan 14, NL-3584 CH Utrecht, Netherlands.
+EM l.norbutas@uu.nl; r.corten@uu.nl
+RI Corten, Rense/D-7090-2013; Norbutas, Lukas/S-7762-2016
+OI Norbutas, Lukas/0000-0003-4712-5348
+CR Adler PaulS., 2002, ACAD MANAGE REV, V27, P17
+   Ahlerup P, 2009, EUR J POLIT ECON, V25, P1, DOI 10.1016/j.ejpoleco.2008.09.008
+   [Anonymous], 1990, Foundations of social theory, DOI 10.2307/2579680
+   [Anonymous], 2001, Social capital: theory and research
+   [Anonymous], SOCIAL MEDIA UPDATE
+   [Anonymous], 2001, SOCIAL CAPITAL THEOR
+   [Anonymous], 1992, CONT SOCIOLOGICAL TH
+   Beugelsdijk S., 2003, The cultural diversity of European unity, P147
+   Blondel VD, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/10/P10008
+   Brandtzæg PB, 2012, J COMPUT-MEDIAT COMM, V17, P467, DOI 10.1111/j.1083-6101.2012.01580.x
+   Burt R. S., 2005, BROKERAGE CLOSURE IN, P93
+   Buskens V, 2000, RATION SOC, V12, P227, DOI 10.1177/104346300012002004
+   Buskens V., 2002, ADV GROUP PROCESSES, V19, P167, DOI DOI 10.1016/S0882-6145(02)19007-2
+   Buskens V, 2008, AM J SOCIOL, V114, P371, DOI 10.1086/590674
+   Buskens V, 2010, SOC NETWORKS, V32, P301, DOI 10.1016/j.socnet.2010.05.001
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   Corten R, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0034760
+   Dunbar RIM, 2016, ROY SOC OPEN SCI, V3, DOI 10.1098/rsos.150292
+   Dunbar RIM, 2015, SOC NETWORKS, V43, P39, DOI 10.1016/j.socnet.2015.04.005
+   Eagle N, 2010, SCIENCE, V328, P1029, DOI 10.1126/science.1186605
+   Everett, 1998, CONNECTIONS, V21, P27, DOI DOI 10.1111/J.1467-9663.2010.00632.X
+   Fishman RobertM., 2009, Social Capital: Reaching Out, Reaching In, P66
+   Fortunato S, 2007, P NATL ACAD SCI USA, V104, P36, DOI 10.1073/pnas.0605965104
+   FRIEDKIN N, 1980, SOC NETWORKS, V2, P411, DOI 10.1016/0378-8733(80)90006-4
+   Graeff P, 2013, QUAL QUANT, V47, P2829, DOI 10.1007/s11135-012-9693-4
+   GRANOVETTER M, 1985, AM J SOCIOL, V91, P481, DOI 10.1086/228311
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Growiec J, 2010, EUR SOC, V12, P231, DOI 10.1080/14616690902718381
+   Hauser C, 2007, REG STUD, V41, P75, DOI 10.1080/00343400600928368
+   Huber F, 2009, TIJDSCHR ECON SOC GE, V100, P160, DOI 10.1111/j.1467-9663.2009.00526.x
+   Kadaster, 2015, TOP 10 NL
+   Karlan D, 2009, Q J ECON, V124, P1307, DOI 10.1162/qjec.2009.124.3.1307
+   Kim H, 2007, J COMPUT-MEDIAT COMM, V12, P1183, DOI 10.1111/j.1083-6101.2007.00369.x
+   Knack S, 1997, Q J ECON, V112, P1251, DOI 10.1162/003355300555475
+   Knudsen Brian., 2007, Bridging and Bonding: A Multi- Dimensional Approach to regional Social Capital
+   Kogovsek T, 2004, QUAL QUANT, V38, P517
+   Lancee B, 2010, INT MIGR REV, V44, P202, DOI 10.1111/j.1747-7379.2009.00803.x
+   Lengyel B, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0137248
+   Lin N, 1999, ANNU REV SOCIOL, V25, P467, DOI 10.1146/annurev.soc.25.1.467
+   Lin N., 2001, Social capital: Theory and research, P3, DOI 10.1017/CBO9780511815447
+   Malecki EJ, 2012, REG STUD, V46, P1023, DOI 10.1080/00343404.2011.607806
+   Matzat U, 2010, SOC NETWORKS, V32, P105, DOI 10.1016/j.socnet.2009.08.002
+   McEvily B, 1999, STRATEGIC MANAGE J, V20, P1133, DOI 10.1002/(SICI)1097-0266(199912)20:12<1133::AID-SMJ74>3.0.CO;2-7
+   Microsoft, 2015, BING MAPS REST SERV
+   Portes A, 1998, ANNU REV SOCIOL, V24, P1, DOI 10.1146/annurev.soc.24.1.1
+   Putnam R., 1999, BOWLING ALONE
+   Putnam RD, 2007, SCAND POLIT STUD, V30, P137, DOI 10.1111/j.1467-9477.2007.00176.x
+   Reich SM, 2012, DEV PSYCHOL, V48, P356, DOI 10.1037/a0026980
+   Rooks G, 2000, ACTA SOCIOL, V43, P123, DOI 10.1177/000169930004300203
+   Sabatini F, 2008, KYKLOS, V61, P466, DOI 10.1111/j.1467-6435.2008.00413.x
+   Sajuria J, 2015, AM POLIT RES, V43, P708, DOI 10.1177/1532673X14557942
+   Sankowska A., 2015, MANAGEMENT NETWORK O, P39, DOI [10.1007/978-3-319-17347-4_4, DOI 10.1007/978-3-319-17347-4_4]
+   Scellato Salvatore., 2010, P 3 C ONL SOC NETW
+   Spanjar R., 2011, 3 NAAR 10000000 VRIE
+   Statistics Netherlands, 2009, WIJK EN BUURTK 2009
+   Statistics Netherlands, 2015, KERNC WIJK BUURT 200
+   Statistics Netherlands, 2013, MOR HALF EMPL COMM W
+   Subrahmanyam K, 2008, J APPL DEV PSYCHOL, V29, P420, DOI 10.1016/j.appdev.2008.07.003
+   van Deursen A.J., 2010, TECHNICAL REPORT
+   van Ham M, 2001, ENVIRON PLANN A, V33, P921, DOI 10.1068/a33164
+   van Zalk MHW, 2014, EUR J PERSONALITY, V28, P134, DOI 10.1002/per.1895
+   Volkovich Y., 2012, ICWSM
+   Westlund H, 2010, EUR PLAN STUD, V18, P893, DOI 10.1080/09654311003701431
+   WHITE H, 1980, ECONOMETRICA, V48, P817, DOI 10.2307/1912934
+   Whiteley PF, 2000, POLIT STUD-LONDON, V48, P443, DOI 10.1111/1467-9248.00269
+   Woolcock M, 2000, WORLD BANK RES OBSER, V15, P225, DOI 10.1093/wbro/15.2.225
+   Woolcock M, 1998, THEOR SOC, V27, P151, DOI 10.1023/A:1006884930135
+   World Bank, 2015, COUNTR GLANC TECHN N
+   World Bank, 2014, WHAT IS SOC CAP
+   Wu WF, 2014, J BANK FINANC, V39, P146, DOI 10.1016/j.jbankfin.2013.11.019
+NR 70
+TC 36
+Z9 42
+U1 1
+U2 59
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JAN
+PY 2018
+VL 52
+BP 120
+EP 134
+DI 10.1016/j.socnet.2017.06.002
+PG 15
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA FO1DG
+UT WOS:000416496300012
+OA Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Cárdenas, JP
+   Vidal, G
+   Urbina, C
+   Olivares, G
+   Rodrigo, P
+   Fuentes, M
+AF Pablo Cardenas, Juan
+   Vidal, Gerardo
+   Urbina, Carolina
+   Olivares, Gaston
+   Rodrigo, Pablo
+   Fuentes, Miguel
+TI Social Crises: Signatures of Complexity in a Fast-Growing Economy
+SO COMPLEXITY
+LA English
+DT Article
+ID HAPPINESS; INCOME
+AB Social systems are always exposed to critical processes in which their organization, or part of it, is questioned by the society that demands solutions through different critical saliences. The traditional approach to such social crises has mainly focused on their anticipation and management, implying that the focus is on trying to deal with crises once they occur, rather than delving in their essential characteristics that seemingly depend on the adaptive nature of the system and the increase in its internal complexity. To address this issue, we propose a dual approach that utilizes both qualitative (documentary analysis) and quantitative methods (online social network analysis) in order to delve into the relationship between the complexity of the social system, its adaptation, and critical episodes. Our analysis shows how an explosive economic growth affects a social system, increasing its complexity. This complexity produces different demands from the system itself. These demands manifest signatures of complexity such as a heterogeneous and rich social structure, which emerges during moments when the society acts strongly.
+C1 [Pablo Cardenas, Juan] Net Works, Angamos 451, Vina Del Mar, Chile.
+   [Vidal, Gerardo; Urbina, Carolina] Pontificia Univ Catolica Valparaiso, Ave Brasil 2950, Valparaiso, Chile.
+   [Vidal, Gerardo] Ctr Estudios Estrateg Armada, Tomas Ramos 12, Valparaiso, Chile.
+   [Olivares, Gaston] Univ Politecn Madrid, Escuela Tecn Super Ingn Agron Alimentaria & Biosi, Grp Sistemas Complejos, E-28040 Madrid, Spain.
+   [Rodrigo, Pablo] Univ Adolfo Ibanez, Escuela Negocios, Av Padre Hurtado 750, Vina Del Mar, Chile.
+   [Fuentes, Miguel] Santa Fe Inst, 1399 Hyde Pk Rd, Santa Fe, NM 87501 USA.
+   [Fuentes, Miguel] IIF Sadaf CONICET, Bulnes 642, RA-1428 Buenos Aires, DF, Argentina.
+   [Fuentes, Miguel] Univ San Sebastian, Fac Ingn & Tecnol, Bellavista 7, Santiago 8420524, Chile.
+C3 Pontificia Universidad Catolica de Valparaiso; Universidad Politecnica
+   de Madrid; Universidad Adolfo Ibanez; The Santa Fe Institute;
+   Universidad San Sebastian
+RP Cárdenas, JP (corresponding author), Net Works, Angamos 451, Vina Del Mar, Chile.; Fuentes, M (corresponding author), Santa Fe Inst, 1399 Hyde Pk Rd, Santa Fe, NM 87501 USA.; Fuentes, M (corresponding author), IIF Sadaf CONICET, Bulnes 642, RA-1428 Buenos Aires, DF, Argentina.; Fuentes, M (corresponding author), Univ San Sebastian, Fac Ingn & Tecnol, Bellavista 7, Santiago 8420524, Chile.
+EM juanpablo@net-works.cl; fuentesm@santafe.edu
+RI Fuentes, Miguel Angel/GYQ-5828-2022; Olivares, Gastón/GXM-4685-2022;
+   Yáñez-Urbina, Cristopher/AFO-9564-2022; Rodrigo, Pablo/JNS-6835-2023
+OI Urbina, Carolina/0000-0001-7051-4654; Olivares Fernandez,
+   Gaston/0000-0003-3655-7831; Cardenas, Juan Pablo/0000-0001-9324-1898;
+   Fuentes, Miguel Angel/0000-0003-0833-1245
+FU Office of Naval Research Global (ONRG) [N62909-17-1-2010]; FONDECYT
+   [1140278]; CONICYT Doctorado Becas Chile [72180383]
+FX This work was supported by the Office of Naval Research Global (ONRG)
+   under Grant no. N62909-17-1-2010. Miguel Fuentes acknowledges FONDECYT
+   (1140278). Gaston Olivares acknowledges CONICYT Doctorado Becas Chile
+   (72180383). The authors acknowledge Analitic S.A. for the data provided.
+CR AIM, 2015, EST COMPL NUEV MOD G
+   Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   Alesina A, 2004, J PUBLIC ECON, V88, P2009, DOI 10.1016/j.jpubeco.2003.07.006
+   [Anonymous], WHICH COUNTRIES HAVE
+   [Anonymous], 2015, OECD EC SURV CHIL 20
+   Bar-Yam Y., 2002, Encyclopedia of Life Support Systems (EOLSS)
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Bardoscia M, 2017, NAT COMMUN, V8, DOI 10.1038/ncomms14416
+   Barton L., 1993, Crisis in organizations: Managing and communicating in the heat of chaos
+   Benabou R, 1996, REV ECON STUD, V63, P237, DOI 10.2307/2297851
+   Berg A, 2012, J DEV ECON, V98, P149, DOI 10.1016/j.jdeveco.2011.08.002
+   Bristow G, 2015, CAMB J REG ECON SOC, V8, P241, DOI 10.1093/cjres/rsv002
+   Cárdenas JP, 2010, PHYSICA A, V389, P1789, DOI 10.1016/j.physa.2009.12.030
+   Chorin A, 1994, Applied Mathematical Sciences, V103
+   Consejo Nacional de Educacion Superior and Ministerio de Educacion de Chile, 2017, IND ED SUP
+   Dobry M., 1968, INTERDEPENDENCIA TAC, P155
+   Dorogovtsev SN, 2002, ADV PHYS, V51, P1079, DOI 10.1080/00018730110112519
+   EASTERLY W, 2006, EC POLITICS, V0018
+   Feder J., 1988, FRACTALS
+   Gell-Mann M., 1996, Complexity, V2, P44, DOI 10.1002/(SICI)1099-0526(199609/10)2:1<44::AID-CPLX10>3.0.CO;2-X
+   Gilbert N, 2014, COMPLEXITY, V19, P1, DOI 10.1002/cplx.21550
+   Gilipin D. R., 2008, CRISIS MANAGEMENT CO
+   Grahamand C., 2005, 38 CTR SOC EC DYN
+   Headey B, 2008, SOC INDIC RES, V87, P65, DOI 10.1007/s11205-007-9146-y
+   Holland JH, 1995, HIDDEN ORDER ADAPTAT
+   Hurst H.E., 1956, INT ASSCI HYDROL B, V1, P13, DOI [DOI 10.1080/02626665609493644, 10.1061/TACEAT.0006518, DOI 10.1061/TACEAT.0006518]
+   Johnson G. J., 1978, SOCIAL ARCHEOLOGY SU
+   Kolmogorov A.N., 1963, Sankhya, P369, DOI [10.1016/S0304-3975(98)00075-9, DOI 10.1016/S0304-3975(98)00075-9]
+   Kunegis J., 2013, P ACM WEB SCI C, P205
+   Leetaru K., 2013, Mapping the global Twitter heartbeat: The geography of Twitter
+   Linke C.G., 1989, Experts in action, P166
+   Lopez E. R., 2011, SERIE DOCUMENTOS TRA, V346
+   Lopez Ramon.Figueroa., 2013, SERIE DOCUMENTOS TRA
+   Mascareño A, 2016, COMPLEXITY, V21, P13, DOI 10.1002/cplx.21778
+   MAY RM, 1972, NATURE, V238, P413, DOI 10.1038/238413a0
+   McGuire R.H., 1983, Advances in archaeological method and theory, P91, DOI [DOI 10.1016/B978-0-12-003106-1.50008-0, 10.1016/B978-0-12-003106-1.50008-0]
+   MIDEPLAN, 2011, ENC POSTT PRINC EF P
+   MISHAN EJ, 1972, AM ECON REV, V62, P971
+   MORAWETZ D, 1977, ECON J, V87, P511, DOI 10.2307/2231556
+   Morin E., 2012, La voie: pour l'avenir de l'humanite
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   OPS, 2010, INF SIT TERR CHIL
+   Cárdenas JP, 2015, NETW HETEROG MEDIA, V10, P167, DOI 10.3934/nhm.2015.10.167
+   PACKEL EW, 1987, NATURE, V328, P29, DOI 10.1038/328029a0
+   Page SE, 2011, PRIMER COMPLEX SYST, P1
+   Perakyla A., 2005, The sage handbook of qualitative research, V3rd, P869
+   Ramalingam Ben., 2008, EXPLORING SCI COMPLE
+   Richman JS, 2000, AM J PHYSIOL-HEART C, V278, pH2039
+   Roberts KM, 2016, J POLITICS LAT AM, V8, P125, DOI 10.1177/1866802X1600800305
+   Rodrik D, 1999, J ECON GROWTH, V4, P385, DOI 10.1023/A:1009863208706
+   Sachs J.D., 1990, LABOUR RELATIONS EC, P137
+   Strogatz SH, 2001, NATURE, V410, P268, DOI 10.1038/35065725
+   Tainter J.A., 1988, The Collapse of Complex Societies
+   The World Bank, 2016, CHIL OV
+   Thom R., 1989, ESQUISSE SEMIOPHYSIQ
+   Thomas J, 2016, COMPLEXITY, V21, P207, DOI 10.1002/cplx.21799
+   USGS - United States Geological Survey, 2010, TSUN EARTHQ RES
+   Weik K.E., 1995, SENSEMAKING ORG
+   Weng J., 2010, P 3 ACM INT C WEB SE, P261, DOI [DOI 10.1145/1718487.1718520, 10.1145/1718487.1718520]
+   ZUREK WH, 1989, NATURE, V341, P119, DOI 10.1038/341119a0
+NR 60
+TC 7
+Z9 7
+U1 0
+U2 9
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1076-2787
+EI 1099-0526
+J9 COMPLEXITY
+JI Complexity
+PY 2018
+AR 9343451
+DI 10.1155/2018/9343451
+PG 11
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Science & Technology - Other Topics
+GA GE9LD
+UT WOS:000431550300001
+OA Green Accepted, Green Published, Green Submitted, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Bodaghi, A
+   Goliaei, S
+AF Bodaghi, Amirhosein
+   Goliaei, Sama
+TI A NOVEL MODEL FOR RUMOR SPREADING ON SOCIAL NETWORKS WITH CONSIDERING
+   THE INFLUENCE OF DISSENTING OPINIONS
+SO ADVANCES IN COMPLEX SYSTEMS
+LA English
+DT Article
+DE Rumor spreading; dissenting opinion; social networks; stochastic;
+   anti-rumor
+ID DIFFUSION; TWITTER
+AB Rumor spreading is a good sample of spreading in which human beings are the main players in the spreading process. Therefore, in order to have a more realistic model of rumor spreading on online social networks, the influence of psycho-sociological factors particularly those which affect users' reactions toward rumor/anti-rumor should be considered. To this aim, we present a new model that considers the influence of dissenting opinions on those users who have already believed in rumor/anti-rumor but have not spread the rumor/anti-rumor yet. We hypothesize that influence is a motive for the believers to spread their beliefs in rumor/anti-rumor. We derive the stochastic equations of the new model and evaluate it by using two real datasets of rumor spreading on Twitter. The evaluation results support the new hypothesis and show that the novel model which is relied on the new hypothesis is able to better represent rumor spreading.
+C1 [Bodaghi, Amirhosein; Goliaei, Sama] Univ Tehran, Fac New Sci & Technol, Kargar St, Tehran, Iran.
+C3 University of Tehran
+RP Goliaei, S (corresponding author), Univ Tehran, Fac New Sci & Technol, Kargar St, Tehran, Iran.
+EM a_bodaghi@ut.ac.ir; sgoliaei@ut.ac.ir
+RI Bodaghi, Amirhosein/ABB-1362-2021
+OI Bodaghi, Amirhosein/0000-0002-9284-474X
+CR Allport G.W., 1947, The Psychology of Rumor
+   [Anonymous], WORKING PAPER
+   [Anonymous], 2017, INT C E INT DAT WEB
+   [Anonymous], 2015, Proceedings of SOTICS 2015: The Fifth International Conference on Social Media Technologies, Communication, and Informatics
+   ANTHONY S, 1973, J SOC PSYCHOL, V89, P91, DOI 10.1080/00224545.1973.9922572
+   Askay DA, 2015, NEW MEDIA SOC, V17, P1811, DOI 10.1177/1461444814535190
+   Barberá P, 2015, PSYCHOL SCI, V26, P1531, DOI 10.1177/0956797615594620
+   Castillo C, 2013, INTERNET RES, V23, P560, DOI 10.1108/IntR-05-2012-0095
+   Choi J., 2004, ASIAN J COMMUN, V14, P95
+   COLE C, 1990, ADV CONSUM RES, P231
+   Cook A, 2004, LAW HUMAN BEHAV, V28, P389, DOI 10.1023/B:LAHU.0000039332.21386.f4
+   Csányi G, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.036131
+   Daley DJ, 2000, EPIDEMIC MODELING
+   Daley DJ., 1965, Rev. Mod. Phys, V1, P42, DOI DOI 10.1093/IMAMAT/1.1.42
+   Ebel H, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.035103
+   Festinger, 1964, CONFLICT DECISION DI
+   Galam S, 2003, PHYSICA A, V320, P571, DOI 10.1016/S0378-4371(02)01582-0
+   Ghaoui Claude, 2005, Encyclopedia of human computer interaction, DOI DOI 10.1152/jn.00458.2005
+   Guille A, 2013, SIGMOD REC, V42, P17
+   Huet S., 2007, INTERACTIONS INCREAS
+   Isham V, 2010, PHYSICA A, V389, P561, DOI 10.1016/j.physa.2009.10.001
+   Jie RL, 2016, PHYSICA A, V454, P129, DOI 10.1016/j.physa.2016.02.048
+   Karrer B, 2011, PHYS REV E, V84, DOI 10.1103/PhysRevE.84.036106
+   Kuran T., 2007, University of Chicago Public Law Legal Theory Working Paper No. 181
+   Kwon KH, 2017, GOV INFORM Q, V34, P307, DOI 10.1016/j.giq.2017.04.002
+   Kwon KH, 2016, ASIAN J COMMUN, V26, P201, DOI 10.1080/01292986.2015.1130157
+   Leskovec J., 2007, INFORM PROPAGATION N
+   Liu F., 2014, P 18 PAC AS C INF SY
+   McDevitt M, 2003, INT J PUBLIC OPIN R, V15, P454, DOI 10.1093/ijpor/15.4.454
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Metaxas PanagiotisTakas., 2015, P 18 ACM C COMPANION, P69, DOI DOI 10.1145/2685553.2702691
+   Moreno Y, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.066130
+   NADEAU R, 1993, INT POLIT SCI REV, V14, P203, DOI 10.1177/019251219301400204
+   Nekovee M, 2007, PHYSICA A, V374, P457, DOI 10.1016/j.physa.2006.07.017
+   Newman MEJ, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.016128
+   NOELLENE.E, 1974, J COMMUN, V24, P43, DOI 10.1111/j.1460-2466.1974.tb00367.x
+   Onook Oh, 2013, MIS Quarterly, V37, P407
+   Pastor-Satorras R, 2015, REV MOD PHYS, V87, P925, DOI 10.1103/RevModPhys.87.925
+   Peterson WA, 1951, AM J SOCIOL, V57, P159, DOI 10.1086/220916
+   Qazvinian V., 2011, P C EMP METH NAT LAN, P1589, DOI DOI 10.5555/2145432.2145602
+   Rojecki A, 2016, NEW MEDIA SOC, V18, P25, DOI 10.1177/1461444814535724
+   Serrano E., 2015, ANONIMIZED TWITTER D
+   Serrano E, 2015, WWW'15 COMPANION: PROCEEDINGS OF THE 24TH INTERNATIONAL CONFERENCE ON WORLD WIDE WEB, P811, DOI 10.1145/2740908.2742466
+   Shin J, 2017, NEW MEDIA SOC, V19, P1214, DOI 10.1177/1461444816634054
+   Stanoev A, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0095669
+   Sunstein C., 2009, ON RUMORS
+   Trpevski D, 2010, PHYS REV E, V81, DOI 10.1103/PhysRevE.81.056102
+   van Veen V, 2009, NAT NEUROSCI, V12, P1469, DOI 10.1038/nn.2413
+   Wang F, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.036123
+   Wei XT, 2012, ACM SIGCOMM COMP COM, V42, P5, DOI 10.1145/2378956.2378958
+   Xu QC, 2015, IEEE T EMERG TOP COM, V3, P399, DOI 10.1109/TETC.2015.2414792
+   Yu XY, 2016, ADV COGN NEURODYN, P661, DOI 10.1007/978-981-10-0207-6_89
+   Zhao LJ, 2012, PHYSICA A, V391, P3978, DOI 10.1016/j.physa.2012.02.004
+   Zhao LJ, 2012, PHYSICA A, V391, P2444, DOI 10.1016/j.physa.2011.12.008
+   Zhao LJ, 2011, PHYSICA A, V390, P2619, DOI 10.1016/j.physa.2011.03.010
+   Zhao ZJ, 2016, PHYSICA A, V443, P263, DOI 10.1016/j.physa.2015.09.060
+   Zhu X, 2016, AM BEHAV SCI, V60, P1342, DOI 10.1177/0002764216657382
+NR 57
+TC 18
+Z9 18
+U1 3
+U2 67
+PU WORLD SCIENTIFIC PUBL CO PTE LTD
+PI SINGAPORE
+PA 5 TOH TUCK LINK, SINGAPORE 596224, SINGAPORE
+SN 0219-5259
+EI 1793-6802
+J9 ADV COMPLEX SYST
+JI Adv. Complex Syst.
+PD SEP-NOV
+PY 2018
+VL 21
+IS 6-7
+AR 1850011
+DI 10.1142/S021952591850011X
+PG 24
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Science & Technology - Other Topics
+GA HH2ZY
+UT WOS:000455589800003
+DA 2024-11-22
+ER

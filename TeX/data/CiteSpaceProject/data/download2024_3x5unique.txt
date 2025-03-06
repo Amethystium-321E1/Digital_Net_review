@@ -1,0 +1,611 @@
+
+PT J
+AU Pethes, R
+   Bodor-Eranus, E
+   Takács, K
+   Kovács, L
+AF Pethes, Robert
+   Bodor-Eranus, Eliza
+   Takacs, Karoly
+   Kovacs, Levente
+TI The Core Might Change Anyhow We Define It: The Instability of Key Actors
+   in Longitudinal Social Network Data
+SO COMPLEXITY
+LA English
+DT Article
+ID OPINION LEADERS; CENTRALITY; BEHAVIOR; INTERVENTION; INFLUENTIALS;
+   INNOVATIONS; PREVENTION; DIFFUSION; STUDENTS
+AB Central actors or opinion leaders are in the right structural position to spread relevant information or convince others about adopting an innovation or behaviour change. Who is a central actor or opinion leader might be conceptualised in various ways. Widely accepted centrality measures do not take into account that those in central positions in the social network may change over time. A longitudinal comparison of the set and importance of opinion leaders is problematic with these measures and therefore needs a novel approach. In this study, we investigate ways to compare the stability of the set of central actors over time. Using longitudinal survey data from primary schools (where the members of the social networks do not change much over time) on advice-seeking and friendship networks, we find a relatively poor stability of who is in the central positions anyhow we define centrality. We propose the application of combined indices in order to achieve more efficient targeting results. Our results suggest that because opinion leaders may change over time, researchers should be careful about relying on simple centrality indices from cross-sectional data to gain and interpret information (for example, in the design of prevention programs, network-based interventions or infection control) and must rely on more diverse structural information instead.
+C1 [Pethes, Robert; Kovacs, Levente] Obuda Univ, Physiol Controls Res Ctr, Becsi St 96-B, H-1034 Budapest, Hungary.
+   [Bodor-Eranus, Eliza; Takacs, Karoly] Computat Social Sci Res Ctr Educ, Computat Social Sci Res Ctr Educ & Network Stud CS, Toth Kalman St 4, H-1097 Budapest, Hungary.
+   [Takacs, Karoly] Linkoping Univ, Inst Analyt Sociol IAS, S-60174 Norrkoping, Sweden.
+   [Kovacs, Levente] Obuda Univ, Biomat & Appl Artificial Intelligence Inst, John von Neumann Fac Informat, Becsi St 96-B, H-1034 Budapest, Hungary.
+C3 Obuda University; Linkoping University; Obuda University
+RP Bodor-Eranus, E (corresponding author), Computat Social Sci Res Ctr Educ, Computat Social Sci Res Ctr Educ & Network Stud CS, Toth Kalman St 4, H-1097 Budapest, Hungary.
+EM pethes.robert@uni-obuda.hu; bodor-eranus.eliza@tk.hu;
+   karoly.takacs@liu.se; kovacs@uni-obuda.hu
+OI Pethes, Robert/0009-0008-2185-5020; Bodor-Eranus,
+   Eliza/0000-0001-5672-3118
+FU Lenduelet Program of Hungarian Academy of Sciences; European Research
+   Council (ERC) [679681]; National Research, Development and Innovation
+   Fund of Hungary [FK-143024, 2019-1.3.1-KK, 2019-1.3.1-KK-2019-00007,
+   TKP2021-NKTA-36]
+FX The authors acknowledge that the data used in this study have been
+   collected by the Research Center for Educational and Network Studies
+   (RECENS), supported by Lenduelet Program of Hungarian Academy of
+   Sciences. This work was supported in part by the European Research
+   Council (ERC) through the European Union's Horizon 2020 Research and
+   Innovation Programme under Agreement 679681 and in part by the National
+   Research, Development and Innovation Fund of Hungary through the
+   FK-143024 project, the 2019-1.3.1-KK Funding Scheme under Project
+   2019-1.3.1-KK-2019-00007 and under the TKP2021-NKTA-36 Funding Scheme.
+CR Airoldi E. M., 2008, ADV NEURAL INFORM PR, V21
+   An WH, 2016, R J, V8, P257
+   [Anonymous], 1992, Structural holes
+   Aslam J. A., 2001, SIGIR Forum, P276
+   Bae J, 2014, PHYSICA A, V395, P549, DOI 10.1016/j.physa.2013.10.047
+   Banerjee A, 2013, SCIENCE, V341, P363, DOI 10.1126/science.1236498
+   Bartal A, 2020, IEEE T KNOWL DATA EN, V32, P1773, DOI 10.1109/TKDE.2019.2911067
+   Batagelj V, 2011, ADV DATA ANAL CLASSI, V5, P129, DOI 10.1007/s11634-010-0079-y
+   Becker J, 2019, P NATL ACAD SCI USA, V116, P10717, DOI 10.1073/pnas.1817195116
+   Bilan Y, 2021, ACTA POLYTECH HUNG, V18, P105, DOI 10.12700/APH.18.2.2021.2.6
+   Blumm N, 2012, PHYS REV LETT, V109, DOI 10.1103/PhysRevLett.109.128701
+   BONACICH P, 1972, J MATH SOCIOL, V2, P113, DOI 10.1080/0022250X.1972.9989806
+   Borda J. D., 1781, M'emoire sur les' elections au scrutin
+   Borgatti S. P., 2006, Computational & Mathematical Organization Theory, V12, P21, DOI 10.1007/s10588-006-7084-x
+   Borgatti S.P., 1995, CONNECTIONS, V18, P112
+   Brin S, 1998, COMPUT NETWORKS ISDN, V30, P107, DOI 10.1016/S0169-7552(98)00110-X
+   Bucur D, 2020, SCI REP-UK, V10, DOI 10.1038/s41598-020-77536-7
+   BURT RS, 1992, NETWORKS AND ORGANIZATIONS : STRUCTURE, FORM, AND ACTION, P57
+   Campbell R, 2008, LANCET, V371, P1595, DOI 10.1016/S0140-6736(08)60692-3
+   Centola D., 2018, How Behavior Spreads: The Science of Complex Contagions, DOI DOI 10.2307/J.CTVC7758P
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   Charmaz K., 2006, Brokerage and closure: An introduction to social capital
+   Coleman J., 1961, ADOLESCENT SOC, V1st
+   Costa G, 2022, ARTIF INTELL, V302, DOI 10.1016/j.artint.2021.103580
+   Costa G, 2018, ACM T KNOWL DISCOV D, V12, DOI 10.1145/3106368
+   Costa G, 2016, ACM T INTERNET TECHN, V16, DOI 10.1145/2934681
+   Csardi Gabor NT., 2005, INT J COMPLEX SYST, V2006, P1695, DOI DOI 10.3724/SP.J.1087.2009.02191
+   Dwork C, 2001, P 10 INT C WORLD WID, P613, DOI [10.1145/371920.372165, DOI 10.1145/371920.372165]
+   Estevez JL, 2022, FRONT PSYCHOL, V13, DOI 10.3389/fpsyg.2022.815383
+   Everett MG, 1999, J MATH SOCIOL, V23, P181, DOI 10.1080/0022250X.1999.9990219
+   Fagin R, 2003, SIAM J DISCRETE MATH, V17, P134, DOI 10.1137/S0895480102412856
+   Franke N, 2006, J PROD INNOVAT MANAG, V23, P301, DOI 10.1111/j.1540-5885.2006.00203.x
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   FREEMAN LC, 1980, SOC NETWORKS, V2, P119, DOI 10.1016/0378-8733(79)90002-9
+   Ghoshal G, 2011, NAT COMMUN, V2, DOI 10.1038/ncomms1396
+   GILBERT G, 1972, NATURE, V239, P174, DOI 10.1038/239174c0
+   Green O, 2012, PROCEEDINGS OF 2012 ASE/IEEE INTERNATIONAL CONFERENCE ON PRIVACY, SECURITY, RISK AND TRUST AND 2012 ASE/IEEE INTERNATIONAL CONFERENCE ON SOCIAL COMPUTING (SOCIALCOM/PASSAT 2012), P11, DOI 10.1109/SocialCom-PASSAT.2012.37
+   Guilbeault D., 2018, Spreading Dynamics in Social Systems
+   Guilbeault D, 2021, NAT COMMUN, V12, DOI 10.1038/s41467-021-24704-6
+   Handcock Mark S, 2008, J Stat Softw, V24, P1548
+   Henrikson Jeff, 1999, MIT Undergraduate Journal of Mathematics, V1, P10
+   Hofstad R., 2016, Random Graphs and Complex Networks (Cambridge Series in Statistical and Probabilistic Mathematics)
+   Holme P, 2019, COMPUT SOC SCI, P1, DOI 10.1007/978-3-030-23495-9_1
+   Holme P, 2012, PHYS REP, V519, P97, DOI 10.1016/j.physrep.2012.03.001
+   Ibnoulouafi A, 2018, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/aace08
+   Jackson MO, 2008, SOCIAL AND ECONOMIC NETWORKS, P20
+   Kas M., 2013, P 2013 IEEEACM INT C
+   Keller T, 2022, SOC FORCES, V101, P341, DOI 10.1093/sf/soab111
+   KELLY JA, 1991, AM J PUBLIC HEALTH, V81, P168, DOI 10.2105/AJPH.81.2.168
+   Kendall M. G., 1948, Rank correlation methods.
+   Kisfalusi D, 2018, INTERSECTIONS-E EUR, V4, P133, DOI 10.17356/ieejsp.v4i1.372
+   Kosub S, 2019, PATTERN RECOGN LETT, V120, P36, DOI 10.1016/j.patrec.2018.12.007
+   Kourtellis N, 2015, IEEE T KNOWL DATA EN, V27, P2494, DOI 10.1109/TKDE.2015.2419666
+   Kratzer J, 2009, J CONSUM RES, V36, P646, DOI 10.1086/599324
+   Latkin C A, 1998, Public Health Rep, V113 Suppl 1, P151
+   Lazarsfeld, 1955, PERSONAL INFLUENCE P
+   Lazarsfeld P., 1944, The peoples choice: How the voter makes up his mind in a presidential campaign
+   LOMAS J, 1991, JAMA-J AM MED ASSOC, V265, P2202, DOI 10.1001/jama.265.17.2202
+   Madotto A, 2016, SCI REP-UK, V6, DOI 10.1038/srep38994
+   McNeal J. U., 1992, Kids as Consumers
+   Merton RobertK., 1949, SOCIAL THEORY SOCIAL
+   Moody J, 2002, SOC FORCES, V81, P25, DOI 10.1353/sof.2002.0056
+   Nowicki K, 2001, J AM STAT ASSOC, V96, P1077, DOI 10.1198/016214501753208735
+   Perry CL, 2003, ARCH PEDIAT ADOL MED, V157, P178, DOI 10.1001/archpedi.157.2.178
+   Mai PT, 2021, ACTA POLYTECH HUNG, V18, P67
+   Powell WW, 1996, J INST THEOR ECON, V152, P197
+   Ressler S., 2006, Homeland Security Affairs, V2, P2
+   Rogers E.M., 2010, DIFFUSION INNOVATION
+   Rossi RA, 2015, IEEE T KNOWL DATA EN, V27, P1112, DOI 10.1109/TKDE.2014.2349913
+   Schreuders E, 2021, NAT COMMUN, V12, DOI 10.1038/s41467-020-20042-1
+   SHANNON CE, 1948, BELL SYST TECH J, V27, P379, DOI 10.1002/j.1538-7305.1948.tb01338.x
+   Somin S, 2022, ROY SOC OPEN SCI, V9, DOI 10.1098/rsos.220899
+   Tsalouchidou I, 2020, INT J DATA SCI ANAL, V9, P257, DOI 10.1007/s41060-019-00189-x
+   Valente TW, 2007, HEALTH EDUC BEHAV, V34, P881, DOI 10.1177/1090198106297855
+   Valente TW, 2003, AM J PUBLIC HEALTH, V93, P1837, DOI 10.2105/AJPH.93.11.1837
+   Valente TW, 1999, ANN AM ACAD POLIT SS, V566, P55, DOI 10.1177/0002716299566001005
+   Van den Bulte C, 2007, MARKET SCI, V26, P400, DOI 10.1287/mksc.1060.0224
+   VONHIPPEL E, 1986, MANAGE SCI, V32, P791, DOI 10.1287/mnsc.32.7.791
+   Vörös A, 2017, SOC NETWORKS, V49, P93, DOI 10.1016/j.socnet.2017.01.002
+   Watts DJ, 2007, J CONSUM RES, V34, P441, DOI 10.1086/518527
+   Webber W, 2010, ACM T INFORM SYST, V28, DOI 10.1145/1852102.1852106
+   Weimann G., 1994, INFLUENTIALS PEOPLE, DOI DOI 10.5860/CHOICE.32-4316
+NR 82
+TC 0
+Z9 0
+U1 2
+U2 2
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1076-2787
+EI 1099-0526
+J9 COMPLEXITY
+JI Complexity
+PD MAR 2
+PY 2024
+VL 2024
+AR 3956877
+DI 10.1155/2024/3956877
+PG 22
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Mathematics; Science & Technology - Other Topics
+GA KM8L5
+UT WOS:001180474100001
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Son, JY
+   Vives, ML
+   Bhandari, A
+   Feldmanhall, O
+AF Son, Jae-Young
+   Vives, Marc-Lluis
+   Bhandari, Apoorva
+   Feldmanhall, Oriel
+TI Replay shapes abstract cognitive maps for efficient social navigation
+SO NATURE HUMAN BEHAVIOUR
+LA English
+DT Article; Early Access
+ID SUCCESSOR REPRESENTATION; RELATIONAL MEMORY; MODEL SELECTION; SEQUENCES;
+   KNOWLEDGE; HUMANS
+AB To make adaptive social decisions, people must anticipate how information flows through their social network. While this requires knowledge of how people are connected, networks are too large to have first-hand experience with every possible route between individuals. How, then, are people able to accurately track information flow through social networks? Here we find that people immediately cache abstract knowledge about social network structure as they learn who is friends with whom, which enables the identification of efficient routes between remotely connected individuals. These cognitive maps of social networks, which are built while learning, are then reshaped through overnight rest. During these extended periods of rest, a replay-like mechanism helps to make these maps increasingly abstract, which privileges improvements in social navigation accuracy for the longest communication paths that span distinct communities within the network. Together, these findings provide mechanistic insight into the sophisticated mental representations humans use for social navigation.
+   How do people track information flow through social networks? New research finds that extended periods of rest, such as sleep, help people build abstract cognitive maps that identify efficient routes between remotely connected network members.
+C1 [Son, Jae-Young; Bhandari, Apoorva; Feldmanhall, Oriel] Brown Univ, Dept Cognit & Psychol Sci, Providence, RI 02912 USA.
+   [Vives, Marc-Lluis] Leiden Univ, Inst Psychol, Leiden, Netherlands.
+   [Feldmanhall, Oriel] Brown Univ, Robert J & Nancy D Carney Inst Brain Sci, Providence, RI 02912 USA.
+C3 Brown University; Leiden University; Leiden University - Excl LUMC;
+   Brown University
+RP Bhandari, A; Feldmanhall, O (corresponding author), Brown Univ, Dept Cognit & Psychol Sci, Providence, RI 02912 USA.; Feldmanhall, O (corresponding author), Brown Univ, Robert J & Nancy D Carney Inst Brain Sci, Providence, RI 02912 USA.
+EM apoorva_bhandari@brown.edu; oriel.feldmanhall@brown.edu
+RI Bhandari, Apoorva/H-8500-2019; Son, Jae-Young/GPS-6388-2022
+OI Son, Jae-Young/0000-0002-3852-1237; FeldmanHall,
+   Oriel/0000-0002-0726-3861
+FU National Science Foundation (NSF) [1S10OD025181]; NIH [2123469];
+   National Science Foundation
+FX We thank I. Aslarus, K. Danowski, E. Duchan, Y.-F. Jerry Hu, A.
+   Lawrence, J. Palfy, V. Poyraz, M. Malhotra, M. Mazumder, S. Shulman, A.
+   Stein, S. Vaca Narvaja and J. Wang for assisting with data collection.
+   We thank A. Maddah for developing some of the task code used in these
+   studies and Y. Yang Teoh for helpful computational modelling advice.
+   Part of this research was conducted using computational resources and
+   services at the Centre for Computation and Visualization, Brown
+   University. Advanced access to these computing resources was supported
+   by NIH award 1S10OD025181. This work is supported by the National
+   Science Foundation award 2123469 (O.F.H. and A.B.). The funders had no
+   role in study design, data collection and analysis, decision to publish
+   or preparation of the paper.
+CR [Anonymous], 2024, Network-navigation-replay
+   Behrens TEJ, 2018, NEURON, V100, P490, DOI 10.1016/j.neuron.2018.10.002
+   Bellmund JLS, 2018, SCIENCE, V362, DOI 10.1126/science.aat6766
+   Brooks ME, 2017, R J, V9, P378, DOI 10.32614/RJ-2017-066
+   Callaway F, 2022, NAT HUM BEHAV, V6, P1112, DOI 10.1038/s41562-022-01332-8
+   Christakis NA, 2013, STAT MED, V32, P556, DOI 10.1002/sim.5408
+   Constantinescu AO, 2016, SCIENCE, V352, P1464, DOI 10.1126/science.aaf0941
+   Correa CG, 2023, PLOS COMPUT BIOL, V19, DOI 10.1371/journal.pcbi.1011087
+   DAYAN P, 1993, NEURAL COMPUT, V5, P613, DOI 10.1162/neco.1993.5.4.613
+   Ellenbogen JM, 2007, P NATL ACAD SCI USA, V104, P7723, DOI 10.1073/pnas.0700094104
+   Feld GB, 2022, SCI REP-UK, V12, DOI 10.1038/s41598-022-17747-2
+   Foster DJ, 2017, ANNU REV NEUROSCI, V40, P581, DOI 10.1146/annurev-neuro-072116-031538
+   Foster DJ, 2006, NATURE, V440, P680, DOI 10.1038/nature04587
+   Garvert MM, 2017, ELIFE, V6, DOI 10.7554/eLife.17086
+   Gershman SJ, 2012, NEURAL COMPUT, V24, P1553, DOI 10.1162/NECO_a_00282
+   Gómez RL, 2006, PSYCHOL SCI, V17, P670, DOI 10.1111/j.1467-9280.2006.01764.x
+   Hafting T, 2005, NATURE, V436, P801, DOI 10.1038/nature03721
+   Igata H, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2011266118
+   Jadhav SP, 2012, SCIENCE, V336, P1454, DOI 10.1126/science.1217230
+   Klinzing JG, 2019, NAT NEUROSCI, V22, P1598, DOI 10.1038/s41593-019-0467-3
+   Kurth-Nelson Z, 2016, NEURON, V91, P194, DOI 10.1016/j.neuron.2016.05.028
+   Lau HY, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0027139
+   Lau T, 2020, ELIFE, V9, DOI 10.7554/eLife.53162
+   Lewis PA, 2011, TRENDS COGN SCI, V15, P343, DOI 10.1016/j.tics.2011.06.004
+   Liu YZ, 2021, SCIENCE, V372, P807, DOI 10.1126/science.abf1357
+   Lutz ND, 2017, SCI REP-UK, V7, DOI 10.1038/srep42950
+   Lynn CW, 2020, P NATL ACAD SCI USA, V117, P29407, DOI 10.1073/pnas.1912328117
+   Lynn CW, 2020, NAT COMMUN, V11, DOI 10.1038/s41467-020-15146-7
+   Ma DS, 2015, BEHAV RES METHODS, V47, P1122, DOI 10.3758/s13428-014-0532-5
+   Momennejad I, 2017, NAT HUM BEHAV, V1, P680, DOI 10.1038/s41562-017-0180-8
+   Momennejad I., 2018, BIORXIV, DOI DOI 10.1101/449470
+   Momennejad I, 2020, CURR OPIN BEHAV SCI, V32, P155, DOI 10.1016/j.cobeha.2020.02.017
+   OKEEFE J, 1979, BEHAV BRAIN SCI, V2, P487, DOI 10.1017/S0140525X00063949
+   Park SA, 2020, NEURON, V107, P1226, DOI 10.1016/j.neuron.2020.06.030
+   Pereira SIR, 2023, J NEUROSCI, V43, P3838, DOI 10.1523/JNEUROSCI.1966-21.2022
+   Pudhiyidath A, 2022, J COGNITIVE NEUROSCI, V34, P1736, DOI 10.1162/jocn_a_01864
+   Rigoux L, 2014, NEUROIMAGE, V84, P971, DOI 10.1016/j.neuroimage.2013.08.065
+   Russek EM, 2017, PLOS COMPUT BIOL, V13, DOI 10.1371/journal.pcbi.1005768
+   Schapiro AC, 2018, NAT COMMUN, V9, DOI 10.1038/s41467-018-06213-1
+   Schapiro AC, 2013, NAT NEUROSCI, V16, P486, DOI 10.1038/nn.3331
+   Schuck NW, 2019, SCIENCE, V364, P1254, DOI 10.1126/science.aaw5181
+   Son JY, 2023, P NATL ACAD SCI USA, V120, DOI 10.1073/pnas.2310801120
+   Son JY, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2021699118
+   St Clair M. C., 2008, P ANN M COGN SCI SOC, V30
+   Stachenfeld KL, 2017, NAT NEUROSCI, V20, P1643, DOI 10.1038/nn.4650
+   Stoianov I, 2022, PROG NEUROBIOL, V217, DOI 10.1016/j.pneurobio.2022.102329
+   Sun WA, 2023, NAT NEUROSCI, V26, P1438, DOI 10.1038/s41593-023-01382-9
+   Tavares RM, 2015, NEURON, V87, P231, DOI 10.1016/j.neuron.2015.06.011
+   TOLMAN EC, 1948, PSYCHOL REV, V55, P189, DOI 10.1037/h0061626
+   TRAVERS J, 1969, SOCIOMETRY, V32, P425, DOI 10.2307/2786545
+   Wagenmakers EJ, 2004, PSYCHON B REV, V11, P192, DOI 10.3758/BF03206482
+   Walker MP, 2010, NAT REV NEUROSCI, V11, DOI 10.1038/nrn2762-c1
+   Whittington JCR, 2020, CELL, V183, P1249, DOI 10.1016/j.cell.2020.10.024
+   Wilson RC, 2019, ELIFE, V8, DOI 10.7554/eLife.49547
+   Wittkuhn L., 2022, bioRxiv, DOI [10.1101/2022.02.02.478787, DOI 10.1101/2022.02.02.478787]
+   Wu C. M., 2021, Comput. Brain Behav., V4, P125
+   Zhou ZL, 2024, bioRxiv, DOI [10.1101/2023.03.22.533833, 10.1101/2023.03.22.533833, DOI 10.1101/2023.03.22.533833]
+NR 57
+TC 1
+Z9 1
+U1 5
+U2 5
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2397-3374
+J9 NAT HUM BEHAV
+JI Nat. Hum. Behav.
+PD 2024 SEP 19
+PY 2024
+DI 10.1038/s41562-024-01990-w
+EA SEP 2024
+PG 15
+WC Psychology, Biological; Multidisciplinary Sciences; Neurosciences;
+   Psychology, Experimental
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychology; Science & Technology - Other Topics; Neurosciences &
+   Neurology
+GA G3R7J
+UT WOS:001315855300002
+PM 39300309
+DA 2024-11-22
+ER
+
+PT J
+AU Bajpai, S
+   Chaturvedi, A
+AF Bajpai, Shruti
+   Chaturvedi, Amrita
+TI Toward Detecting Rumor Initiator in Online Social Networks Using
+   Ontology-Driven Model
+SO ARABIAN JOURNAL FOR SCIENCE AND ENGINEERING
+LA English
+DT Article; Early Access
+DE Online social network; Ontology; Knowledge representation; Rumor
+   initiator; Interoperability
+ID CREDIBILITY; PROPAGATION; FRAMEWORK; OQUARE
+AB Online social networks (OSNs) have become breeding grounds for negative content like rumor, misinformation, disinformation, etc. A rumor is an unverified piece of information in circulation. Rumor diffusion is one of the important problems that OSNs are facing. Finding rumor initiator in an OSN is both important and challenging. Firstly, most of the solutions proposed are based on network structure while completely ignoring network semantics. Secondly, the solutions proposed are for networks that are limited in cycles, directions, and degrees. To deal with semantics and limited network structure, researchers have proposed ontological models for OSNs. However, these models are intended to solve problems like social tagging mechanism, social network access control, rumor detection, rumor modeling, etc., rather than finding rumor initiators in OSNs. In this research article, we propose an ontology-based model for OSNs that is intended to find rumor initiators in OSNs. This model comprises three layers-design-time layer, integration layer, and runtime layer. The model maps interoperable concepts of different OSNs in the upper-level ontology, which is further used to obtain vendor-specific lower-level ontology. The model is populated and queried using the property path expressions of SPARQL to find rumor initiators for two scenarios, viz. when the veracity of the rumor is known and when the veracity of the rumor is unknown. Further, the model is assessed using the OQuaRE framework for ontology quality assessment. The OQuaRE framework evaluated our proposed model for seven characteristics of ontology quality, viz. structural, functional adequacy, maintainability, reliability, operability, compatibility, and transferability.
+C1 [Bajpai, Shruti; Chaturvedi, Amrita] Indian Inst Technol BHU, Dept Comp Sci & Engn, Varanasi 221005, India.
+C3 Indian Institute of Technology System (IIT System); Indian Institute of
+   Technology BHU Varanasi (IIT BHU Varanasi)
+RP Chaturvedi, A (corresponding author), Indian Inst Technol BHU, Dept Comp Sci & Engn, Varanasi 221005, India.
+EM shrutibajpai.rs.cse17@itbhu.ac.in; amrita.cse@iitbhu.ac.in
+RI Chaturvedi, Amrita/D-7823-2017
+CR Acharya M., 2023, SN COMPUT SCI, V4, P252, DOI [10.1007/s42979-023-01683-7, DOI 10.1007/S42979-023-01683-7]
+   Alrubaian M, 2019, IEEE ACCESS, V7, P2828, DOI 10.1109/ACCESS.2018.2886314
+   Alsaeedi A, 2020, ARAB J SCI ENG, V45, P10813, DOI 10.1007/s13369-020-04839-2
+   Atkinson C, 2003, IEEE SOFTWARE, V20, P36, DOI 10.1109/MS.2003.1231149
+   Bian T, 2020, AAAI CONF ARTIF INTE, V34, P549
+   Carminati B, 2009, SACMAT'09: PROCEEDINGS OF THE 14TH ACM SYMPOSIUM ON ACCESS CONTROL MODELS AND TECHNOLOGIES, P177, DOI 10.1145/1542207.1542237
+   Caron J, 2016, AUGMENT ALTERN COMM, V32, P25, DOI 10.3109/07434618.2015.1052887
+   Castillo C., 2011, P 20 INT C WORLD WID, P675, DOI [DOI 10.1145/1963405.1963500, 10.1145/1963405.1963500]
+   Cen JJ, 2022, COMPUT INTEL NEUROSC, V2022, DOI 10.1155/2022/1354233
+   Chen T, 2018, LECT NOTES ARTIF INT, V11154, P40, DOI 10.1007/978-3-030-04503-6_4
+   Chen XC, 2021, DISCRETE DYN NAT SOC, V2021, DOI 10.1155/2021/5301461
+   Chinthakayala KC, 2014, WORLD WIDE WEB, V17, P1233, DOI 10.1007/s11280-013-0222-8
+   Declerck T., 2016, Commun. Comput. Inf. Sci, DOI [10.1007/978-3-319-32942-0_1, DOI 10.1007/978-3-319-32942-0_1]
+   Diehl T, 2022, COMPUT HUM BEHAV, V128, DOI 10.1016/j.chb.2021.107121
+   Difonzo N, 2007, FRONT SOC PSYCHOL, P271
+   Djafarova E, 2019, INFORM COMMUN SOC, V22, P1432, DOI 10.1080/1369118X.2018.1438491
+   DuCharme B, 2013, Learning SPARQL, V2nd
+   Duque-Ramos A, 2013, EXPERT SYST APPL, V40, P2696, DOI 10.1016/j.eswa.2012.11.004
+   Duque-Ramos A, 2011, J RES PRACT INF TECH, V43, P159
+   Fuchs M., 2015, Rumor source detection for rumor spreading on random increasing trees
+   Gongane Vaishali U., 2022, Advanced Machine Intelligence and Signal Processing. Lecture Notes in Electrical Engineering (858), P649, DOI 10.1007/978-981-19-0840-8_50
+   Guo MC, 2020, MATH PROBL ENG, V2020, DOI 10.1155/2020/7562567
+   Hamasaki M., 2007, INT WORKSHOP SEMANTI
+   Hashmi A., 2013, Are all social networks structurally similar? A comparative study using network statistics and metrics
+   Huang Q, 2019, IEEE IJCNN, DOI 10.1109/ijcnn.2019.8852468
+   Jung JJ, 2007, LECT NOTES COMPUT SC, V4519, P267
+   Kitsantas A, 2016, LECT NOTES SOC NETW, P225, DOI 10.1007/978-3-319-17716-8_14
+   Kochkina Elena, 2018, Figshare
+   Kumar A, 2019, MULTIMED TOOLS APPL, V78, P24083, DOI 10.1007/s11042-019-7398-6
+   Kwon S, 2013, IEEE DATA MINING, P1103, DOI 10.1109/ICDM.2013.61
+   Lpezde VergaraMndez J., 2002, Semantic management: advantages of using an ontology-based management information meta-model
+   Ma J., 2016, P 25 INT JOINT C ART, P3818
+   Mika P, 2005, J WEB SEMANT, V3, P211, DOI 10.1016/j.websem.2005.05.006
+   Mika P, 2007, J WEB SEMANT, V5, P5, DOI 10.1016/j.websem.2006.11.002
+   Newman R, 2016, INT J INFORM MANAGE, V36, P591, DOI 10.1016/j.ijinfomgt.2016.03.010
+   Pattanaik B, 2023, KNOWL INF SYST, V65, P3839, DOI 10.1007/s10115-023-01902-w
+   Poddar L, 2018, PROC INT C TOOLS ART, P65, DOI 10.1109/ICTAI.2018.00021
+   Sarfraz A., 2023, PREPRINT (Version 1) available at Research Square, DOI [10.21203/rs.3.rs-1583922/v1, DOI 10.21203/RS.3.RS-1583922/V1]
+   Seo E, 2012, PROC SPIE, V8389, DOI 10.1117/12.919823
+   Shah D, 2011, IEEE T INFORM THEORY, V57, P5163, DOI 10.1109/TIT.2011.2158885
+   Shelke Sushila, 2019, Online Social Networks and Media, V9, P30, DOI 10.1016/j.osnem.2018.12.001
+   Shelke S, 2022, MULTIMED TOOLS APPL, V81, P17347, DOI 10.1007/s11042-022-12761-y
+   Shen ZQ, 2006, IEEE T VIS COMPUT GR, V12, P1427, DOI 10.1109/TVCG.2006.107
+   Sicilia R, 2018, EXPERT SYST APPL, V110, P33, DOI 10.1016/j.eswa.2018.05.019
+   Spencer S, 2016, INT CONF ACOUST SPEE, P2199, DOI 10.1109/ICASSP.2016.7472067
+   Staab S., 2003, Handbook on Ontologies
+   Tu KF, 2021, INFORM SCIENCES, V560, P137, DOI 10.1016/j.ins.2020.12.080
+   Varshney D, 2021, EXPERT SYST APPL, V168, DOI 10.1016/j.eswa.2020.114208
+   Verdonck M, 2018, LECT NOTES COMPUT SC, V11157, P43, DOI 10.1007/978-3-030-00847-5_5
+   Vosoughi S, 2017, ACM T KNOWL DISCOV D, V11, DOI 10.1145/3070644
+   Wang ZX, 2018, PROCEEDINGS OF THE TWENTY-SEVENTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, P1021
+   Wei LW, 2021, Arxiv, DOI arXiv:2107.11934
+   Wongthongtham P, 2018, J ORG COMP ELECT COM, V28, P354, DOI 10.1080/10919392.2018.1517481
+   Xu W, 2015, 2015 11TH INTERNATIONAL CONFERENCE ON MOBILE AD-HOC AND SENSOR NETWORKS (MSN), P236, DOI 10.1109/MSN.2015.36
+   Xu Y., 2022, 2022 ASIA PACIFIC CO, P61, DOI [10.1109/APCT55107.2022.00021, DOI 10.1109/APCT55107.2022.00021]
+   Yu PD, 2017, INFO THEOR WORKSH, P439, DOI 10.1109/ITW.2017.8277993
+   Zhang HY, 2010, J SYST SOFTWARE, V83, P803, DOI 10.1016/j.jss.2009.11.735
+   Zhang JW, 2017, INT CON DISTR COMP S, P1900, DOI 10.1109/ICDCS.2017.72
+   Zhao LJ, 2012, PHYSICA A, V391, P3978, DOI 10.1016/j.physa.2012.02.004
+   Zubiaga A, 2018, ACM COMPUT SURV, V51, DOI 10.1145/3161603
+NR 60
+TC 1
+Z9 1
+U1 1
+U2 1
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 2193-567X
+EI 2191-4281
+J9 ARAB J SCI ENG
+JI Arab. J. Sci. Eng.
+PD 2024 MAR 11
+PY 2024
+DI 10.1007/s13369-024-08852-7
+EA MAR 2024
+PG 17
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA KM5J4
+UT WOS:001180393900003
+DA 2024-11-22
+ER
+
+PT J
+AU Bullinger, M
+   Lenzner, P
+   Melnichenko, A
+AF Bullinger, Martin
+   Lenzner, Pascal
+   Melnichenko, Anna
+TI Network creation with homophilic agents
+SO SOCIAL CHOICE AND WELFARE
+LA English
+DT Article; Early Access
+ID SEGREGATION; CONTACT; MODELS
+AB Network Creation Games are an important framework for understanding the formation of real-world networks. These games usually assume a set of indistinguishable agents strategically buying edges at a uniform price, which leads to the formation of a network among them. However, in real life, agents are heterogeneous and their relationships often display a bias towards similar agents, say of the same ethnic group. This homophilic behavior on the agent level can then lead to the emergent global phenomenon of social segregation. We study Network Creation Games with multiple types of homophilic agents and non-uniform edge cost, introducing two models focusing on the perception of same-type and different-type neighbors, respectively. Despite their different initial conditions, both our theoretical and experimental analysis show that both the composition and segregation strength of the resulting stable networks are very similar, indicating a robust structure of social networks under homophily.
+C1 [Bullinger, Martin] Univ Oxford, Dept Comp Sci, Oxford, England.
+   [Lenzner, Pascal] Univ Augsburg, Inst Comp Sci, Augsburg, Germany.
+   [Melnichenko, Anna] Univ Potsdam, Hasso Plattner Inst, Potsdam, Germany.
+C3 University of Oxford; University of Augsburg; University of Potsdam
+RP Bullinger, M (corresponding author), Univ Oxford, Dept Comp Sci, Oxford, England.
+EM martin.bullinger@cs.ox.ac.uk; pascal.lenzner@uni-a.de;
+   anna.melnichenko@hpi.de
+FU Deutsche Forschungsgemeinschaft
+FX A preliminary version of this article appeared in the Proceedings of the
+   31th International Joint Conference on Artificial Intelligence (2021).
+   We would like to thank the anonymous reviewers from IJCAI and SCW for
+   their helpful feedback.
+CR Agarwal A, 2021, ARTIF INTELL, V301, DOI 10.1016/j.artint.2021.103576
+   Allport GW., 1954, NATURE PREJUDICE
+   Àlvarez C, 2017, Arxiv, DOI arXiv:1706.09132
+   AMIR Y, 1969, PSYCHOL BULL, V71, P319, DOI 10.1037/h0027352
+   Bilò D, 2023, PROCEEDINGS OF THE THIRTY-SECOND INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, IJCAI 2023, P2520
+   Bilo D, 2024, SIAM J DISCRETE MATH, V38, P277, DOI 10.1137/20M1376662
+   Bilò D, 2022, PROCEEDINGS OF THE THIRTY-FIRST INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, IJCAI 2022, P81
+   Bilò D, 2022, AUTON AGENT MULTI-AG, V36, DOI 10.1007/s10458-022-09573-7
+   Bilò D, 2021, AAAI CONF ARTIF INTE, V35, P5185
+   Bilo D, 2020, THEOR COMPUT SYST, V64, P422, DOI 10.1007/s00224-019-09945-9
+   Boehmer N, 2020, AAAI CONF ARTIF INTE, V34, P1822
+   Brandt F, 2023, ACM T ECON COMPUT, V11, DOI 10.1145/3588753
+   Bredereck R, 2019, AAMAS '19: PROCEEDINGS OF THE 18TH INTERNATIONAL CONFERENCE ON AUTONOMOUS AGENTS AND MULTIAGENT SYSTEMS, P565
+   Bullinger M, 2021, AAAI CONF ARTIF INTE, V35, P5236
+   Chauhan Ankit, 2018, Algorithmic Game Theory. 11th International Symposium, SAGT 2018. Proceedings: Lecture Notes in Computer Science (LNCS 11059), P137, DOI 10.1007/978-3-319-99660-8_13
+   Chauhan A, 2017, LECT NOTES COMPUT SC, V10504, P160, DOI 10.1007/978-3-319-66700-3_13
+   Corbo J., 2005, ACM S PRINCIPLES DIS, P99, DOI DOI 10.1145/1073814.1073833
+   Cord-Landwehr A, 2014, LECT NOTES COMPUT SC, V8877, P423, DOI 10.1007/978-3-319-13129-0_34
+   Darmann A, 2021, LECT NOTES ARTIF INT, V13023, P357, DOI 10.1007/978-3-030-87756-9_23
+   de Martí J, 2017, SCAND J ECON, V119, P656, DOI 10.1111/sjoe.12178
+   Demaine ED, 2012, ACM T ALGORITHMS, V8, DOI 10.1145/2151171.2151176
+   Dimitrov D, 2006, SOC CHOICE WELFARE, V26, P421, DOI 10.1007/s00355-006-0104-4
+   Dippel J, 2024, LEIBNIZ INT PR INFOR, V289, DOI 10.4230/LIPIcs.STACS.2024.28
+   Dovidio JR, 2003, GROUP PROCESS INTERG, V6, P5, DOI 10.1177/1368430203006001009
+   Echzell H, 2019, LECT NOTES COMPUT SC, V11920, P156, DOI 10.1007/978-3-030-35389-6_12
+   Fabrikant A, 2003, P 22 ANN ACM S PRINC, P347, DOI [10.1145/872035.872088, DOI 10.1145/872035.872088]
+   Friedrich T, 2023, LECT NOTES COMPUT SC, V14238, P111, DOI 10.1007/978-3-031-43254-5_7
+   Friedrich T, 2023, PROCEEDINGS OF THE 2023 ACM SYMPOSIUM ON PRINCIPLES OF DISTRIBUTED COMPUTING, PODC 2023, P321, DOI 10.1145/3583668.3594588
+   Henry AD, 2011, P NATL ACAD SCI USA, V108, P8605, DOI 10.1073/pnas.1014486108
+   Jackson MO, 1996, J ECON THEORY, V71, P44, DOI 10.1006/jeth.1996.0108
+   Kanellopoulos P, 2021, THEOR COMPUT SCI, V880, P1, DOI 10.1016/j.tcs.2021.05.032
+   Kawald B, 2013, P 25 ACM S PAR ALG A, P83, DOI DOI 10.1145/2486159.2486185
+   Kerkmann AM, 2020, J ARTIF INTELL RES, V67, P705
+   Leskovec J, 2005, ACM SIGKDD C KNOWLED, P177
+   Mamageishvili A, 2015, INTERNET MATH, V11, P472, DOI 10.1080/15427951.2015.1016248
+   MASSEY DS, 1988, SOC FORCES, V67, P281, DOI 10.2307/2579183
+   Matthew OJ., 2010, Social and economic networks
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Meirom EA, 2014, P 15 ACM C EC COMP A, P735
+   Newman M., 2018, Networks, DOI DOI 10.1093/OSO/9780198805090.001.0001
+   Paolillo R, 2018, ADV COMPLEX SYST, V21, DOI 10.1142/S0219525918500261
+   SCHELLING TC, 1969, AM ECON REV, V59, P488
+   SCHELLING TC, 1971, J MATH SOCIOL, V1, P143, DOI 10.1080/0022250X.1971.9989794
+   Wilensky U., 1997, Netlogo segregation model. Center for connected learning and computer-based modeling
+   Zhang JF, 2011, J REGIONAL SCI, V51, P167, DOI 10.1111/j.1467-9787.2010.00671.x
+NR 45
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN 0176-1714
+EI 1432-217X
+J9 SOC CHOICE WELFARE
+JI Soc Choice Welf.
+PD 2024 NOV 5
+PY 2024
+DI 10.1007/s00355-024-01562-x
+EA NOV 2024
+PG 45
+WC Economics; Social Sciences, Mathematical Methods
+WE Social Science Citation Index (SSCI)
+SC Business & Economics; Mathematical Methods In Social Sciences
+GA L4S8G
+UT WOS:001350640000001
+OA hybrid
+DA 2024-11-22
+ER
+
+PT J
+AU Martín-Corral, D
+   García-Herranz, M
+   Cebrian, M
+   Moro, E
+AF Martin-Corral, David
+   Garcia-Herranz, Manuel
+   Cebrian, Manuel
+   Moro, Esteban
+TI Social media sensors as early signals of influenza outbreaks at scale
+SO EPJ DATA SCIENCE
+LA English
+DT Article
+DE Computational epidemiology; Social networks; Informational epidemics;
+   Biological epidemics
+ID NETWORKS; ONLINE; SARS
+AB Detecting early signals of an outbreak in a viral process is challenging due to its exponential nature, yet crucial given the benefits to public health it can provide. If available, the network structure where infection happens can provide rich information about the very early stages of viral outbreaks. For example, more central nodes have been used as social network sensors in biological or informational diffusion processes to detect early contagious outbreaks. We aim to combine both approaches to detect early signals of a biological viral process (influenza-like illness, ILI), using its informational epidemic coverage in public social media. We use a large social media dataset covering three years in a country. We demonstrate that it is possible to use highly central users on social media, more precisely high out-degree users from Twitter, as sensors to detect the early signals of ILI outbreaks in the physical world without monitoring the whole population. We also investigate other behavioral and content features that distinguish those early sensors in social media beyond centrality. While high centrality on Twitter is the most distinctive feature of sensors, they are more likely to talk about local news, language, politics, or government than the rest of the users. Our new approach could detect a better and smaller set of social sensors for epidemic outbreaks and is more operationally efficient and privacy respectful than previous ones, not requiring the collection of vast amounts of data.
+C1 [Martin-Corral, David; Moro, Esteban] Univ Carlos III Madrid, Dept Math, Leganes 28911, Spain.
+   [Martin-Corral, David; Moro, Esteban] Univ Carlos III Madrid, GISC, Leganes 28911, Spain.
+   [Moro, Esteban] MIT, Inst Data Syst & Soc, Cambridge, MA 02139 USA.
+   [Garcia-Herranz, Manuel] UNICEF, New York, NY USA.
+   [Cebrian, Manuel] Spanish Natl Res Council, Ctr Automat & Robot, Madrid, Spain.
+   [Moro, Esteban] Northeastern Univ, Network Sci Inst, Boston, MA 02115 USA.
+   [Martin-Corral, David] Univ Pontificia Comillas, ICAI Engn Sch, Dept Telemat & Comp, Madrid 28015, Spain.
+C3 Universidad Carlos III de Madrid; Universidad Carlos III de Madrid;
+   Massachusetts Institute of Technology (MIT); UNICEF; Consejo Superior de
+   Investigaciones Cientificas (CSIC); Universidad Politecnica de Madrid;
+   CSIC-UPM - Centro de Automatica y Robotica; Northeastern University;
+   Comillas Pontifical University
+RP Moro, E (corresponding author), Univ Carlos III Madrid, Dept Math, Leganes 28911, Spain.; Moro, E (corresponding author), Univ Carlos III Madrid, GISC, Leganes 28911, Spain.; Moro, E (corresponding author), MIT, Inst Data Syst & Soc, Cambridge, MA 02139 USA.
+EM esteban.moroegido@gmail.com
+FU Northeastern University Library; Ministerio de Ciencia e
+   Innovacion/Agencia Espanola de Investigacion (MCIN/AEI)
+   [PID2019-106811GB-C32]; Ministry of Universities of the Government of
+   Spain, under the program "Convocatoria de Ayudas para larecualificacion
+   del sistema universitario espanol para 2021-2023, de la Universidad
+   Carlos III de Madrid, de 1 de Julio de2021"; Project "Ayuda MCIN/AEI "
+   [PID2022-137243OB-I00]; FEDER Una manera de hacer Europa
+FX Open access funding provided by Northeastern University Library.E.M.
+   acknowledges support by Ministerio de Ciencia e Innovacion/Agencia
+   Espanola de Investigacion(MCIN/AEI/10.13039/501100011033) through grant
+   PID2019-106811GB-C32. M.C. wishes to acknowledge the following funding:
+   the Ministry of Universities of the Government of Spain, under the
+   program "Convocatoria de Ayudas para larecualificacion del sistema
+   universitario espanol para 2021-2023, de la Universidad Carlos III de
+   Madrid, de 1 de Julio de2021". Furthermore, he is thankful for the
+   support of project "Ayuda PID2022-137243OB-I00 financiada por
+   MCIN/AEI/10.13039/501100011033" and by "FEDER Una manera de hacer
+   Europa".
+CR Achrekar H., 2011, IEEE INFOCOM 2011 - IEEE Conference on Computer Communications. Workshops, P702, DOI 10.1109/INFCOMW.2011.5928903
+   Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   Aleta A, 2022, P NATL ACAD SCI USA, V119, DOI 10.1073/pnas.2112182119
+   Aleta A, 2020, NAT HUM BEHAV, V4, P964, DOI 10.1038/s41562-020-0931-9
+   Alexander M, 2022, P NATL ACAD SCI USA, V119, DOI 10.1073/pnas.2120742119
+   [Anonymous], 2010, Proceedings of the first workshop on social media analytics
+   Briand S, 2014, NEW ENGL J MED, V371, P1180, DOI 10.1056/NEJMp1409858
+   Carter SE, 2020, BMJ GLOB HEALTH, V5, DOI 10.1136/bmjgh-2020-003607
+   Chamorro-Premuzic T, 2007, BRIT J PSYCHOL, V98, P175, DOI 10.1348/000712606X111177
+   Chen LZ, 2014, IEEE DATA MINING, P755, DOI 10.1109/ICDM.2014.137
+   Christakis NA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0012948
+   Christley RM, 2005, AM J EPIDEMIOL, V162, P1024, DOI 10.1093/aje/kwi308
+   Csardi Gabor NT., 2005, INT J COMPLEX SYST, V2006, P1695, DOI DOI 10.3724/SP.J.1087.2009.02191
+   Dunbar RIM, 2015, SOC NETWORKS, V43, P39, DOI 10.1016/j.socnet.2015.04.005
+   European Commision, 2018, Official Journal of the European Union, V2119, P1
+   Farrahi K, 2015, PROCEEDINGS OF THE 2015 ACM INTERNATIONAL CONFERENCE ON COMPUTER-SUPPORTED COOPERATIVE WORK AND SOCIAL COMPUTING (CSCW'15), P1214, DOI 10.1145/2675133.2675237
+   Feldmann H, 2011, LANCET, V377, P849, DOI 10.1016/S0140-6736(10)60667-8
+   Fouchier RAM, 2003, NATURE, V423, P240, DOI 10.1038/423240a
+   Galesic M, 2021, NATURE, V595, P214, DOI 10.1038/s41586-021-03649-2
+   Garcia-Herranz M, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0092413
+   Generous N, 2014, PLOS COMPUT BIOL, V10, DOI 10.1371/journal.pcbi.1003892
+   Ghosh R, 2021, IEEE Int Things J
+   Ginsberg J, 2009, NATURE, V457, P1012, DOI 10.1038/nature07634
+   Golbeck J., 2011, Proceedings of the 2011 IEEE Third International Conference on Privacy, Security, Risk and Trust and IEEE Third International Conference on Social Computing (PASSAT/SocialCom 2011), P149, DOI 10.1109/PASSAT/SocialCom.2011.33
+   González MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   Grupo de Vigilancia de Gripe del Centro Nacional de Epidemiologia, Instituto de Salud Carlos III: Sistema de Vigilancia de la Gripe en Espana
+   Hodas NO., 2013, ICWSM, V13, P8
+   Huang GC, 2014, J ADOLESCENT HEALTH, V54, P508, DOI 10.1016/j.jadohealth.2013.07.001
+   Kianersi S, 2020, medRxiv
+   Kishore N, 2022, LANCET DIGIT HEALTH, V4, P27, DOI 10.1016/S2589-7500(21)00214-4
+   Kogan NE, 2021, SCI ADV, V7, DOI 10.1126/sciadv.abd6989
+   Lampos V, 2021, NPJ DIGIT MED, V4, DOI 10.1038/s41746-021-00384-w
+   Li CL, 2020, EUROSURVEILLANCE, V25, P7, DOI 10.2807/1560-7917.ES.2020.25.10.2000199
+   Li Q, 2020, NEW ENGL J MED, V382, P1199, DOI 10.1056/NEJMoa2001316
+   Ma LL, 2016, PHYSICA A, V451, P205, DOI 10.1016/j.physa.2015.12.162
+   McIver DJ, 2014, PLOS COMPUT BIOL, V10, DOI 10.1371/journal.pcbi.1003581
+   Nelson KN, 2022, EPIDEMICS-NETH, V40, DOI 10.1016/j.epidem.2022.100605
+   Parry J, 2013, BMJ-BRIT MED J, V346, DOI 10.1136/bmj.f2151
+   Pastor-Satorras R, 2001, PHYS REV LETT, V86, P3200, DOI 10.1103/PhysRevLett.86.3200
+   Pedregosa F, 2011, J MACH LEARN RES, V12, P2825
+   Petersen LR, 2016, NEW ENGL J MED, V374, P1552, DOI [10.1056/NEJMra1602113, 10.1056/NEJMc1606769]
+   Preotiuc-Pietro D, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0138717
+   Qin L, 2020, INT J ENV RES PUB HE, V17, DOI 10.3390/ijerph17072365
+   Rashid MT, 2021, ARTIF INTELL REV, V54, P1, DOI 10.1007/s10462-020-09852-3
+   Reich SM, 2012, DEV PSYCHOL, V48, P356, DOI 10.1037/a0026980
+   Riou J, 2020, EUROSURVEILLANCE, V25, P7, DOI 10.2807/1560-7917.ES.2020.25.4.2000058
+   Santillana M, 2015, PLOS COMPUT BIOL, V11, DOI 10.1371/journal.pcbi.1004513
+   Shao HJ, 2016, Arxiv, DOI arXiv:1602.06866
+   Soebiyanto RP, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0009450
+   Stadler K, 2003, NAT REV MICROBIOL, V1, P209, DOI 10.1038/nrmicro775
+   Troncy R, 2008, LECT NOTES COMPUT SC, V5318, P483, DOI 10.1007/978-3-540-88564-1_31
+   Twitter, Twitter Developer Documentation
+   Wang Z, 2016, PHYS REP, V664, P1, DOI 10.1016/j.physrep.2016.10.006
+   World H Organization, Integrated Outbreak Analytics (IOA)
+   World H Organization, Global Outbreak Alert and Response Network (GOARN)
+   World H Organization, Epidemic Intelligence from Open Sources (EIOS)
+   World Health Organization, Epi-Brain
+   Yuan QY, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0064323
+   Zhang JW, 2019, ANNU REV SOCIOL, V45, P91, DOI 10.1146/annurev-soc-073117-041421
+NR 59
+TC 0
+Z9 0
+U1 1
+U2 1
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+EI 2193-1127
+J9 EPJ DATA SCI
+JI EPJ Data Sci.
+PD JUN 17
+PY 2024
+VL 13
+IS 1
+AR 43
+DI 10.1140/epjds/s13688-024-00474-1
+PG 16
+WC Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Mathematical Methods In Social Sciences
+GA UN5F8
+UT WOS:001248745300001
+OA gold
+DA 2024-11-22
+ER

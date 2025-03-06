@@ -1,0 +1,634 @@
+
+PT J
+AU Hyon, R
+   Youm, Y
+   Kim, J
+   Chey, J
+   Kwak, S
+   Parkinson, C
+AF Hyon, Ryan
+   Youm, Yoosik
+   Kim, Junsol
+   Chey, Jeanyung
+   Kwak, Seyul
+   Parkinson, Carolyn
+TI Similarity in functional brain connectivity at rest predicts
+   interpersonal closeness in the social network of an entire village
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE social networks; homophily; fMRI; resting state; functional connectomes
+ID STATE; COMMUNICATION; PERSONALITY; CONNECTOME; DYNAMICS; PATTERNS;
+   SPREAD
+AB People often have the intuition that they are similar to their friends, yet evidence for homophily (being friends with similar others) based on self-reported personality is inconsistent. Functional connectomes-patterns of spontaneous synchronization across the brain-are stable within individuals and predict how people tend to think and behave. Thus, they may capture interindividual variability in latent traits that are particularly similar among friends but that might elude self-report. Here, we examined interpersonal similarity in functional connectivity at rest-that is, in the absence of external stimuli-and tested if functional connectome similarity is associated with proximity in a real-world social network. The social network of a remote village was reconstructed; a subset of residents underwent functional magnetic resonance imaging. Similarity in functional connectomes was positively related to social network proximity, particularly in the default mode network. Controlling for similarities in demographic and personality data (the Big Five personality traits) yielded similar results. Thus, functional connectomes may capture latent interpersonal similarities between friends that are not fully captured by commonly used demographic or personality measures. The localization of these results suggests how friendsmay be particularly similar to one another. Additionally, geographic proximity moderated the relationship between neural similarity and social network proximity, suggesting that such associations are particularly strong among people who live particularly close to one another. These findings suggest that social connectivity is reflected in signatures of brain functional connectivity, consistent with the common intuition that friends share similarities that go beyond, for example, demographic similarities.
+C1 [Hyon, Ryan; Parkinson, Carolyn] Univ Calif Los Angeles, Dept Psychol, Los Angeles, CA 90095 USA.
+   [Youm, Yoosik; Kim, Junsol] Yonsei Univ, Dept Sociol, Seoul 03722, South Korea.
+   [Chey, Jeanyung] Seoul Natl Univ, Dept Psychol, Seoul 08826, South Korea.
+   [Kwak, Seyul] Seoul Natl Univ, Coll Med, Seoul Metropolitan Govt, Boramae Med Ctr, Seoul 03080, South Korea.
+   [Parkinson, Carolyn] Univ Calif Los Angeles, Brain Res Inst, Los Angeles, CA 90095 USA.
+C3 University of California System; University of California Los Angeles;
+   Yonsei University; Seoul National University (SNU); Seoul National
+   University (SNU); Seoul National University Hospital; University of
+   California System; University of California Los Angeles
+RP Parkinson, C (corresponding author), Univ Calif Los Angeles, Dept Psychol, Los Angeles, CA 90095 USA.; Youm, Y (corresponding author), Yonsei Univ, Dept Sociol, Seoul 03722, South Korea.; Parkinson, C (corresponding author), Univ Calif Los Angeles, Brain Res Inst, Los Angeles, CA 90095 USA.
+EM yoosik@yonsei.ac.kr; cparkinson@ucla.edu
+RI YOUM, YOOSIK/KBD-0367-2024; Kwak, Seyul/D-3600-2017
+OI HYON, RYAN/0000-0001-9751-5374; Parkinson, Carolyn/0000-0001-7128-3480;
+   Kwak, Seyul/0000-0001-6985-2680; Youm, Yoosik/0000-0003-3822-5777; Kim,
+   Junsol/0000-0003-1065-6479
+FU National Research Foundation of Korea [NRF-2017S1A3A2067165]; Yonsei
+   University; Sloan Foundation Research Fellowship
+FX We thank Dr. Elisa Baek and Joao Guassi Moreira for helpful discussion.
+   This work was supported by the National Research Foundation of Korea
+   (NRF-2017S1A3A2067165) and Yonsei University Research Grant of 2020
+   (Y.Y.) and a Sloan Foundation Research Fellowship (C.P.).
+CR Aiken LS., 1991, MULTIPLE REGRESSION
+   [Anonymous], APPL MULTIPLE REGRES
+   Apicella CL, 2012, NATURE, V481, P497, DOI 10.1038/nature10736
+   Bates D, 2015, J STAT SOFTW, V67, P1, DOI 10.18637/jss.v067.i01
+   Beaty RE, 2018, P NATL ACAD SCI USA, V115, P1087, DOI 10.1073/pnas.1713532115
+   Berger C.R., 1975, HUMAN COMMUNICATION, V1, P99, DOI [10.1111/j.1468-2958.1975.tb00258.x, DOI 10.1111/J.1468-2958.1975.TB00258.X]
+   Bolis D, 2017, PSYCHOPATHOLOGY, V50, P355, DOI 10.1159/000484353
+   Cacioppo JT, 2009, J PERS SOC PSYCHOL, V97, P977, DOI 10.1037/a0016076
+   Cantlon JF, 2013, PLOS BIOL, V11, DOI 10.1371/journal.pbio.1001462
+   Cattuto C, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0011596
+   Chen G, 2017, NEUROIMAGE, V147, P825, DOI 10.1016/j.neuroimage.2016.08.029
+   Chey J., 2007, The Elderly Memory Disorder Scale
+   Christakis NA, 2008, NEW ENGL J MED, V358, P2249, DOI 10.1056/NEJMsa0706154
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   Christakis NA, 2013, STAT MED, V32, P556, DOI 10.1002/sim.5408
+   Christov-Moore L, 2020, FRONT INTEGR NEUROSC, V14, DOI 10.3389/fnint.2020.00003
+   Cialdini RB, 2004, ANNU REV PSYCHOL, V55, P591, DOI 10.1146/annurev.psych.55.090902.142015
+   Clore G.L., 1974, Foundations of interpersonal attraction, P143, DOI [10.1016/b978-0-12-362950-0.50013-6, DOI 10.1016/B978-0-12-362950-0.50013-6]
+   Cole MW, 2012, J NEUROSCI, V32, P8988, DOI 10.1523/JNEUROSCI.0536-12.2012
+   Csardi G., 2014, INTERJOURNAL COMPLEX, V1695
+   de Waal FBM, 2007, ADV CONSC RES, V68, P49
+   Dijkstra E. W., 1959, Numerische mathematik, V1, P269, DOI [DOI 10.1007/BF01386390, 10.1007/BF01386390]
+   Dubois J., 2018, Personal Neurosci, V1, DOI 10.1017/pen.2018.8
+   Esteban O, 2019, NAT METHODS, V16, P111, DOI 10.1038/s41592-018-0235-4
+   Falk EB, 2017, TRENDS COGN SCI, V21, P674, DOI 10.1016/j.tics.2017.06.009
+   Feiler DC, 2015, PSYCHOL SCI, V26, P593, DOI 10.1177/0956797615569580
+   Finn ES, 2017, NEUROIMAGE, V160, P140, DOI 10.1016/j.neuroimage.2017.03.064
+   Finn ES, 2015, NAT NEUROSCI, V18, P1664, DOI 10.1038/nn.4135
+   Fowler JH, 2010, P NATL ACAD SCI USA, V107, P5334, DOI 10.1073/pnas.0913149107
+   Fowler JH, 2008, BMJ-BRIT MED J, V337, DOI 10.1136/bmj.a2338
+   Green MF, 2018, SCHIZOPHRENIA BULL, V44, P242, DOI 10.1093/schbul/sbx082
+   Han Ji Won, 2010, [Journal of Korean Geriatric Psychiatry, 노인정신의학], V14, P27
+   Horien C, 2019, NEUROIMAGE, V189, P676, DOI 10.1016/j.neuroimage.2019.02.002
+   Hyon R, 2020, NEUROIMAGE, V216, DOI 10.1016/j.neuroimage.2019.116492
+   John O. P., 2008, HDB PERSONALITY THEO, P114, DOI [DOI 10.1016/S0191-8869, DOI 10.1016/S0191-8869(97)81000-8]
+   Joo WT, 2017, SCI REP-UK, V7, DOI 10.1038/s41598-017-04904-1
+   Kim S.W. S. Y., 2016, Korean Journal of Biological Psychiatry, V17, P15
+   Krishnan A, 2011, NEUROIMAGE, V56, P455, DOI 10.1016/j.neuroimage.2010.07.034
+   Kuznetsova A, 2017, J STAT SOFTW, V82, P1, DOI 10.18637/jss.v082.i13
+   Lahnakoski JM, 2020, ROY SOC OPEN SCI, V7, DOI 10.1098/rsos.191815
+   Lahnakoski JM, 2014, NEUROIMAGE, V100, P316, DOI 10.1016/j.neuroimage.2014.06.022
+   Lambiotte R, 2008, PHYSICA A, V387, P5317, DOI 10.1016/j.physa.2008.05.014
+   Lee JM, 2014, EPIDEMIOL HEALTH, V36, DOI 10.4178/epih/e2014003
+   Liben-Nowell D, 2005, P NATL ACAD SCI USA, V102, P11623, DOI 10.1073/pnas.0503018102
+   Liu W, 2019, NEUROIMAGE, V186, P56, DOI 10.1016/j.neuroimage.2018.10.062
+   Mackey AP, 2013, J NEUROSCI, V33, P4796, DOI 10.1523/JNEUROSCI.4141-12.2013
+   McIntosh AR, 2013, ANNU REV PSYCHOL, V64, P499, DOI 10.1146/annurev-psych-113011-143804
+   McNabb CB, 2020, SCI REP-UK, V10, DOI 10.1038/s41598-020-67718-8
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mehmood T, 2012, CHEMOMETR INTELL LAB, V118, P62, DOI 10.1016/j.chemolab.2012.07.010
+   Meskaldji DE, 2016, NEUROIMAGE-CLIN, V12, P785, DOI 10.1016/j.nicl.2016.10.004
+   Miranda-Dominguez O, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0111048
+   MORRIS JC, 1993, NEUROLOGY, V43, P2412, DOI 10.1212/WNL.43.11.2412-a
+   Mossong J, 2008, PLOS MED, V5, P381, DOI 10.1371/journal.pmed.0050074
+   Moussaïd M, 2017, P NATL ACAD SCI USA, V114, P4117, DOI 10.1073/pnas.1611998114
+   Moussaid M, 2015, P NATL ACAD SCI USA, V112, P5631, DOI 10.1073/pnas.1421883112
+   NAHEMOW L, 1975, J PERS SOC PSYCHOL, V32, P205, DOI 10.1037/0022-3514.32.2.205
+   O'Donnell MB, 2017, SOC COGN AFFECT NEUR, V12, P61, DOI 10.1093/scan/nsw158
+   Onnela JP, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0016939
+   Otti A, 2010, NEUROSCIENCE, V169, P143, DOI 10.1016/j.neuroscience.2010.04.072
+   Pagnoni G, 2012, J NEUROSCI, V32, P5242, DOI 10.1523/JNEUROSCI.4135-11.2012
+   Parkinson C, 2018, NAT COMMUN, V9, DOI 10.1038/s41467-017-02722-7
+   Paunonen SV, 2003, J PERS SOC PSYCHOL, V84, P411, DOI 10.1037/0022-3514.84.2.411
+   Pedregosa F., 2011, J. Mach. Learn. Res., V12, P2825
+   Power JD, 2011, NEURON, V72, P665, DOI 10.1016/j.neuron.2011.09.006
+   Redcay E, 2019, NAT REV NEUROSCI, V20, P495, DOI 10.1038/s41583-019-0179-4
+   Rosenberg MD, 2018, J COGNITIVE NEUROSCI, V30, P160, DOI 10.1162/jocn_a_01197
+   Rosenberg MD, 2016, NAT NEUROSCI, V19, P165, DOI 10.1038/nn.4179
+   Rosenquist JN, 2011, MOL PSYCHIATR, V16, P273, DOI 10.1038/mp.2010.13
+   Rossignac-Milon M., 2020, J PERS SOC PSYCHOL
+   Schilbach L, 2016, PHILOS T R SOC B, V371, DOI 10.1098/rstb.2015.0081
+   Schmläzle R, 2017, P NATL ACAD SCI USA, V114, P5153, DOI 10.1073/pnas.1616130114
+   Selfhout M, 2009, J PERS SOC PSYCHOL, V96, P1152, DOI 10.1037/a0014468
+   Stephens GJ, 2010, P NATL ACAD SCI USA, V107, P14425, DOI 10.1073/pnas.1008662107
+   Stopczynski A., 2018, SCI REP-UK, V8, P1
+   Vaidya CJ, 2013, BRAIN CONNECT, V3, P99, DOI 10.1089/brain.2012.0110
+   Yeshurun Y, 2017, PSYCHOL SCI, V28, P307, DOI 10.1177/0956797616682029
+   Youm Y, 2014, BMC GERIATR, V14, DOI 10.1186/1471-2318-14-102
+NR 78
+TC 35
+Z9 43
+U1 2
+U2 41
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+EI 1091-6490
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD DEC 29
+PY 2020
+VL 117
+IS 52
+BP 33149
+EP 33160
+DI 10.1073/pnas.2013606117
+PG 12
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA PN5XM
+UT WOS:000604551600048
+PM 33318188
+OA Green Published, Bronze
+DA 2024-11-22
+ER
+
+PT J
+AU Lei, L
+   Zhang, HF
+   Wang, X
+AF Lei, Lei
+   Zhang, Huifang
+   Wang, Xin
+TI Adolescent Sports Behavior and Social Networks: The Role of Social
+   Efficacy and Self-Presentation in Sports Behavior
+SO COMPLEXITY
+LA English
+DT Article
+AB Social networks are a complex system that members communicate, create new connections or destroy existing connections, and further deliver major impacts on each member's life. Given the spread of the Internet and increased academic pressure, sedentary and prescreen behaviors are very common among adolescents; meanwhile, sports behaviors are gradually decreasing. This situation has had an adverse effect on health. This paper used a questionnaire survey to investigate the influence of social networks on adolescent sports behavior, including the intermediary role of social efficacy and moderating effect of self-presentation. The questionnaire survey was conducted on 568 students from 6 high schools in Shaanxi, Henan, and Shandong Provinces. After this, factor analysis and weighted least squares method were used for the empirical test. Based on theoretical and empirical analysis, this paper found the following: (1) Social networks of adolescents have obvious positive predictive effects on their sports behavior. A single online social network and an offline social network, instrumental network, emotional network, and mixed network have obvious positive predictive effects on adolescent sports behaviors. However, under the influence of multiple types of social networks, an offline social network has a negative predictive effect, while a mixed network has effects that are not as obvious. (2) Social efficacy plays an intermediary role in the relationship between social network and adolescent sports behavior. (3) The moderating effect of self-presentation is not significant.
+C1 [Lei, Lei] Northwest A&F Univ, Sports Dept, Yangling 712100, Shaanxi, Peoples R China.
+   [Lei, Lei; Zhang, Huifang] Xi An Jiao Tong Univ, Sch Econ & Finance, Xian 710064, Peoples R China.
+   [Wang, Xin] Beijing Inst Comp Technol & Applicat, Dev Planning Off, Beijing 100854, Peoples R China.
+C3 Northwest A&F University - China; Xi'an Jiaotong University
+RP Zhang, HF (corresponding author), Xi An Jiao Tong Univ, Sch Econ & Finance, Xian 710064, Peoples R China.
+EM goodguaner@163.com; zhanghuifang@xjtu.edu.cn; 3831848@qq.com
+FU MOE (Ministry of Education in China) Project of Humanities and Social
+   Sciences [18YJC890012]
+FX This study was supported by the MOE (Ministry of Education in China)
+   Project of Humanities and Social Sciences (Project no. 18YJC890012).
+CR Aral S, 2017, NAT COMMUN, V8, DOI 10.1038/ncomms14753
+   BANDURA A, 1982, AM PSYCHOL, V37, P122, DOI 10.1037/0003-066X.37.2.122
+   Bandura A., 1997, SELF EFFICACY EXERCI
+   Cornwell B, 2014, J GERONTOL B-PSYCHOL, V69, pS75, DOI 10.1093/geronb/gbu037
+   de la Haye K, 2011, SOC SCI MED, V73, P719, DOI 10.1016/j.socscimed.2011.06.023
+   Edwards MJ, 2015, BMJ OPEN, V5, DOI 10.1136/bmjopen-2014-006593
+   Eller LS, 2018, INT J NURS KNOWL, V29, P38, DOI 10.1111/2047-3095.12143
+   Fan C, 1998, SOC BEHAV PERSONAL, V26, P131, DOI 10.2224/sbp.1998.26.2.131
+   Guo LB, 2019, DATA INTELLIGENCE, V1, P289, DOI 10.1162/dint_a_00016
+   Jeong EJ, 2011, CYBERPSYCH BEH SOC N, V14, P213, DOI 10.1089/cyber.2009.0289
+   Ji S., 2020, SURVEY KNOWLEDGE GRA
+   Kim J, 2011, CYBERPSYCH BEH SOC N, V14, P359, DOI 10.1089/cyber.2010.0374
+   Le Saux N, 2002, BMC INFECT DIS, V2, DOI 10.1186/1471-2334-2-16
+   Li ZY, 2019, COMPLEXITY, DOI 10.1155/2019/6325654
+   Love A, 2012, SPORT MANAG REV, V15, P244, DOI 10.1016/j.smr.2011.08.001
+   Manasatchakun P, 2016, J CROSS-CULT GERONTO, V31, P369, DOI 10.1007/s10823-016-9296-y
+   Mao HY, 2020, PLOS ONE, V15, DOI 10.1371/journal.pone.0228191
+   Marks J., 2015, PLOS ONE, V10, P1
+   Monahan KC, 2009, DEV PSYCHOL, V45, P1520, DOI 10.1037/a0017417
+   Park S, 2018, RES AGING, V40, P131, DOI 10.1177/0164027516682814
+   Salvy SJ, 2009, J PEDIATR PSYCHOL, V34, P217, DOI 10.1093/jpepsy/jsn071
+   Smith GL, 2017, INT J BEHAV NUTR PHY, V14, DOI 10.1186/s12966-017-0509-8
+   Smith KP, 2008, ANNU REV SOCIOL, V34, P405, DOI 10.1146/annurev.soc.34.040507.134601
+   Spear LP, 2000, NEUROSCI BIOBEHAV R, V24, P417, DOI 10.1016/S0149-7634(00)00014-2
+   Valente TW, 2009, J ADOLESCENT HEALTH, V45, P202, DOI 10.1016/j.jadohealth.2009.01.007
+   Wei MF, 2005, J COUNS PSYCHOL, V52, P602, DOI 10.1037/0022-0167.52.4.602
+   [温忠麟 Wen Zhonglin], 2014, [心理科学进展, Advances in Psychological Science], V22, P731
+   Wu ZH, 2021, IEEE T NEUR NET LEAR, V32, P4, DOI 10.1109/TNNLS.2020.2978386
+   Xiong F, 2020, IEEE T CYBERNETICS, V50, P4186, DOI 10.1109/TCYB.2019.2939390
+   Xiong F, 2020, IEEE T SYST MAN CY-S, V50, P3804, DOI 10.1109/TSMC.2018.2854000
+   Yu B, 2019, DATA INTELLIGENCE, V1, P381, DOI 10.1162/dint_a_00053
+   Zhu QY, 2011, THESIS
+NR 32
+TC 3
+Z9 3
+U1 11
+U2 34
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1076-2787
+EI 1099-0526
+J9 COMPLEXITY
+JI Complexity
+PD AUG 29
+PY 2020
+VL 2020
+AR 4938161
+DI 10.1155/2020/4938161
+PG 10
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Science & Technology - Other Topics
+GA NN1OJ
+UT WOS:000568559800001
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Park, KA
+   Eum, SY
+   Oh, H
+   Cho, MH
+   Chang, HS
+   Lee, YS
+   Kim, S
+   Park, CS
+AF Park, Kyung Ah
+   Eum, So Yeon
+   Oh, Hyeonjung
+   Cho, Myung Hae
+   Chang, Hang-Seok
+   Lee, Yong Sang
+   Kim, Sanghee
+   Park, Cheong Soo
+TI Factors affecting online health community participation behavior in
+   patients with thyroid cancer
+SO PLOS ONE
+LA English
+DT Article
+ID HOSPITAL ANXIETY; DISTRESS; SUPPORT; DEPRESSION; SURVIVORS; BREAST;
+   WOMEN
+AB Globally, cancer patients obtain much of their disease information online. Online health communities allow patients to share questions and information about diseases. However, there have been few studies on the factors affecting online health community participation behavior in cancer patients. Online social networking is associated with mental health problems, and patients with thyroid cancer experience high levels of distress, anxiety and depression. The purpose of this study was to investigate factors associated with use of online health communities by patients with thyroid cancer to understand the characteristics of patients participating in such online communities. A questionnaire survey was completed by 114 thyroid cancer patients admitted for surgery at a general hospital in Seoul, Korea. General characteristics, clinical characteristics, attitude toward cancer, distress, and anxiety and depression scores of patients who joined an online health community (user group) and patients who did not (non-user group) were compared. The factors affecting online health community participation were education (p= 0.049), tumor size (p= 0.010), attitude toward cancer (p= 0.022), and anxiety and depression (p= 0.021). The average score of satisfaction with the online health community was 4.25 of 5. The user group had larger tumors, a high awareness of the risk of thyroid cancer, and high levels of anxiety and depression. Patients who actively used the online health community have relatively larger cancer size and had higher levels of mental stress. As such patients are often very anxious and depend heavily on the gathered information, the quality of this information is important. Healthcare professionals need to develop appropriate interventions for patients participating in the online health community.
+C1 [Park, Kyung Ah; Chang, Hang-Seok; Lee, Yong Sang; Park, Cheong Soo] Yonsei Univ Hlth Syst, Gangnam Severance Hosp, Thyroid Canc Ctr, Seoul, South Korea.
+   [Park, Kyung Ah; Eum, So Yeon; Oh, Hyeonjung; Cho, Myung Hae] Yonsei Univ Hlth Syst, Gangnam Severance Hosp, Div Nursing, Seoul, South Korea.
+   [Park, Kyung Ah] Yonsei Univ, Grad Sch, Dept Nursing, Seoul, South Korea.
+   [Chang, Hang-Seok; Lee, Yong Sang; Park, Cheong Soo] Yonsei Univ, Dept Surg, Coll Med, Seoul, South Korea.
+   [Chang, Hang-Seok; Lee, Yong Sang; Park, Cheong Soo] Yonsei Univ, Inst Refractory Thyroid Canc, Seoul, South Korea.
+   [Kim, Sanghee] Yonsei Univ, Coll Nursing, Seoul, South Korea.
+   [Kim, Sanghee] Yonsei Univ, Mo Im Kim Nursing Res Inst, Seoul, South Korea.
+C3 Yonsei University; Yonsei University Health System; Yonsei University;
+   Yonsei University Health System; Yonsei University; Yonsei University;
+   Yonsei University Health System; Yonsei University; Yonsei University;
+   Yonsei University Health System; Yonsei University
+RP Lee, YS (corresponding author), Yonsei Univ Hlth Syst, Gangnam Severance Hosp, Thyroid Canc Ctr, Seoul, South Korea.; Lee, YS (corresponding author), Yonsei Univ, Dept Surg, Coll Med, Seoul, South Korea.; Lee, YS (corresponding author), Yonsei Univ, Inst Refractory Thyroid Canc, Seoul, South Korea.; Kim, S (corresponding author), Yonsei Univ, Coll Nursing, Seoul, South Korea.; Kim, S (corresponding author), Yonsei Univ, Mo Im Kim Nursing Res Inst, Seoul, South Korea.
+EM medilys@yuhs.ac; sangheekim@yuhs.ac
+RI LEE, YS/JTU-4754-2023; Kim, Sanghee/HNS-3553-2023
+OI Kim, Sanghee/0000-0002-9806-2757; Lee, Yong Sang/0000-0002-8234-8718;
+   Chang, Hang-Seok/0000-0002-5162-103X
+CR AlGhamdi KM, 2012, INT J MED INFORM, V81, P363, DOI 10.1016/j.ijmedinf.2011.12.004
+   Algtewi E, 2017, QUAL LIFE RES, V26, P2351, DOI 10.1007/s11136-017-1575-8
+   An Un-Seok, 2007, [Journal of Product Research, 상품학연구], V25, P99
+   [Anonymous], 2017 SURV INT US SUM
+   [Anonymous], 2013, CLIN PRACT GUID ONC
+   Beckjord EB, 2007, J MED INTERNET RES, V9, DOI 10.2196/jmir.9.3.e20
+   Bessiere Katie, 2010, J Med Internet Res, V12, pe6, DOI 10.2196/jmir.1149
+   Bjelland I, 2002, J PSYCHOSOM RES, V52, P69, DOI 10.1016/S0022-3999(01)00296-3
+   Buchmann L, 2015, OTOLARYNG HEAD NECK, V152, P644, DOI 10.1177/0194599814565761
+   Bujnowska-Fedak MM, 2015, BMC PUBLIC HEALTH, V15, P194, DOI [10.1186/s12889-015-1473-3, DOI 10.1186/S12889-015-1473-3]]
+   Chen AY, 2009, CANCER-AM CANCER SOC, V115, P3801, DOI 10.1002/cncr.24416
+   Dalessandro B, 2015, BIG DATA-US, V3, P90, DOI 10.1089/big.2015.0006
+   Drabe N, 2016, PSYCHO-ONCOLOGY, V25, P203, DOI 10.1002/pon.3903
+   Feng JW, 2019, CLIN TRANSL ONCOL, V21, P1482, DOI 10.1007/s12094-019-02076-0
+   Fogel J, 2002, J MED INTERNET RES, V4, DOI 10.2196/jmir.4.2.e9
+   Griffiths K.M., 2009, Journal of Medical Internet Research, V11, P1
+   Harkin LJ, 2017, J CANCER SURVIV, V11, P658, DOI 10.1007/s11764-017-0616-1
+   Hoey LM, 2008, PATIENT EDUC COUNS, V70, P315, DOI 10.1016/j.pec.2007.11.016
+   Hong W, 2018, INT J MED INFORM, V110, P77, DOI 10.1016/j.ijmedinf.2017.11.009
+   Hong Y, 2012, PATIENT EDUC COUNS, V86, P288, DOI 10.1016/j.pec.2011.06.014
+   Ito Y, 2018, EJSO-EUR J SURG ONC, V44, P307, DOI 10.1016/j.ejso.2017.03.004
+   Jacob L, 2017, PSYCHO-ONCOLOGY, V26, P1535, DOI 10.1002/pon.4328
+   Jeongl S, 2007, HEALTHC INFORM RES, V13, P207, DOI 10.4258/jksmi.2007.13.3.207
+   Jung KW, 2013, CANCER RES TREAT, V45, P15, DOI 10.4143/crt.2013.45.1.15
+   Kim Jong-Min, 2011, [Journal of the Korea Institute Of Information and Communication Engineering, 한국정보통신학회논문지], V15, P2426
+   Kuenzel U, 2018, J CANCER EDUC, V33, P960, DOI 10.1007/s13187-017-1173-z
+   LeeMinKyu, 2009, [Journal of Communication Science, 언론과학연구], V9, P506
+   Leenhardt L, 2011, ANN ENDOCRINOL-PARIS, V72, P136, DOI 10.1016/j.ando.2011.03.025
+   Lobchuk M, 2015, CANCER NURS, V38, pE21, DOI 10.1097/NCC.0000000000000207
+   Mardani-Hamooleh Marjan, 2017, J Adv Pract Oncol, V8, P680
+   Norum J, 2001, J MED INTERNET RES, V3, DOI 10.2196/jmir.3.4.e30
+   O'Donnell E, 2013, INT J HEALTH CARE Q, V26, P353, DOI 10.1108/09526861311319573
+   Pantic I, 2014, CYBERPSYCH BEH SOC N, V17, P652, DOI 10.1089/cyber.2014.0070
+   Papaleontiou M, 2019, THYROID, V29, P1080, DOI 10.1089/thy.2019.0163
+   Randle RW, 2017, THYROID, V27, P902, DOI 10.1089/thy.2016.0632
+   Ryu M, 2019, PUBLIC HEALTH NURS, V36, P144, DOI 10.1111/phn.12571
+   Schmidt H, 2016, AM SURGEON, V82, P397
+   Seok JH, 2013, YONSEI MED J, V54, P658, DOI 10.3349/ymj.2013.54.3.658
+   Shaha Maya, 2003, Eur J Oncol Nurs, V7, P191, DOI 10.1016/S1462-3889(03)00026-7
+   Suh SR, 1998, J KOREAN ACAD ADULT, V10, P268
+   van Eenbergen MC, 2017, JMIR CANCER, V3, DOI 10.2196/cancer.7312
+   Winzelberg AJ, 2003, CANCER-AM CANCER SOC, V97, P1164, DOI 10.1002/cncr.11174
+   Yoo Shijung, 2006, [Journal of Korea Service Management Society, 서비스경영학회지], V7, P153
+   Yu ES, 2012, PSYCHO-ONCOLOGY, V21, P541, DOI 10.1002/pon.1931
+   Yu Jung Ok, 2005, Taehan Kanho Hakhoe Chi, V35, P1258
+   ZIGMOND AS, 1983, ACTA PSYCHIAT SCAND, V67, P361, DOI 10.1111/j.1600-0447.1983.tb09716.x
+NR 46
+TC 6
+Z9 7
+U1 5
+U2 83
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JUN 24
+PY 2020
+VL 15
+IS 6
+AR e0235056
+DI 10.1371/journal.pone.0235056
+PG 11
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA MF9GS
+UT WOS:000545646600029
+PM 32579575
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Talpur, BA
+   O'Sullivan, D
+AF Talpur, Bandeh Ali
+   O'Sullivan, Declan
+TI Cyberbullying severity detection: A machine learning approach
+SO PLOS ONE
+LA English
+DT Article
+ID SOCIAL MEDIA; AGREEMENT; CLASSIFICATION; RELIABILITY; SUICIDE; KAPPA
+AB With widespread usage of online social networks and its popularity, social networking platforms have given us incalculable opportunities than ever before, and its benefits are undeniable. Despite benefits, people may be humiliated, insulted, bullied, and harassed by anonymous users, strangers, or peers. In this study, we have proposed a cyberbullying detection framework to generate features from Twitter content by leveraging a pointwise mutual information technique. Based on these features, we developed a supervised machine learning solution for cyberbullying detection and multi-class categorization of its severity in Twitter. In the study we applied Embedding, Sentiment, and Lexicon features along with PMI-semantic orientation. Extracted features were applied with Naive Bayes, KNN, Decision Tree, Random Forest, and Support Vector Machine algorithms. Results from experiments with our proposed framework in a multi-class setting are promising both with respect to Kappa, classifier accuracy and f-measure metrics, as well as in a binary setting. These results indicate that our proposed framework provides a feasible solution to detect cyberbullying behavior and its severity in online social networks. Finally, we compared the results of proposed and baseline features with other machine learning algorithms. Findings of the comparison indicate the significance of the proposed features in cyberbullying detection.
+C1 [Talpur, Bandeh Ali] Trinity Coll Dublin, Sch Comp Sci & Stat, Dublin, Ireland.
+   [O'Sullivan, Declan] Trinity Coll Dublin, ADAPT Ctr, Sch Comp Sci & Stat, Dublin, Ireland.
+C3 Trinity College Dublin; Trinity College Dublin
+RP Talpur, BA (corresponding author), Trinity Coll Dublin, Sch Comp Sci & Stat, Dublin, Ireland.
+EM bandehali@gmail.com
+RI Talpur, Bandeh/AAM-6344-2021
+OI TALPUR, BANDEH ALI/0000-0002-5047-9254
+FU ADAPT SFI Research Centre at Trinity College Dublin; Science Foundation
+   Ireland through the SFI Research Centres Programme; European Regional
+   Development Fund (ERDF) [13/RC/2106]
+FX This research was conducted partially with the support of the ADAPT SFI
+   Research Centre at Trinity College Dublin. The ADAPT SFI Centre for
+   Digital Media Technology is funded by Science Foundation Ireland through
+   the SFI Research Centres Programme and is co-funded under the European
+   Regional Development Fund (ERDF) through Grant #13/RC/2106 to DOS. The
+   funder had no role in study design, data collection and analysis,
+   decision to publish, or preparation of the manuscript.
+CR Abraham A, 2018, EMERGING TECHNOLOGIE, P495
+   Abu-Nimeh S, 2011, COMPUTER, V44, P23, DOI 10.1109/MC.2011.222
+   Al-Garadi MA, 2019, IEEE ACCESS, V7, P70701, DOI 10.1109/ACCESS.2019.2918354
+   Al-garadr MA, 2016, COMPUT HUM BEHAV, V63, P433, DOI 10.1016/j.chb.2016.05.051
+   Alber M, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0178161
+   Anderson T., 2007, YOUNG ADULT LIB SERV, V5, P24
+   [Anonymous], 2018, OBSTET GYNECOL, V13, pe49
+   [Anonymous], 2013, AESTHETIC SURG J S, V22, p1S
+   [Anonymous], 2019, NEW DISTRICTS
+   [Anonymous], 2012, P 2012 C N AM CHAPT
+   Ashktorab Z, 2016, PROCEEDINGS OF THE 19TH ACM CONFERENCE ON COMPUTER SUPPORTED COOPERATIVE WORK AND SOCIAL COMPUTING COMPANION, P126, DOI 10.1145/2818052.2874346
+   Awad M., 2015, EFFICIENT LEARNING M, DOI [10.1007/978-1-4302-5990-9_7, DOI 10.1007/978-1-4302-5990-9_7, 10.1007/978-1-4302-5990-9_4, DOI 10.1007/978-1-4302-5990-9_4]
+   Baccianella S, 2010, SENTIWORDNET 3 0 ENH, P5
+   Banerjee M, 1999, CAN J STAT, V27, P3, DOI 10.2307/3315487
+   Bauman S, 2013, J ADOLESCENCE, V36, P341, DOI 10.1016/j.adolescence.2012.12.001
+   Bayzick J., 2011, DETECTING PRESENCE C
+   Bravo-Marquez F, 2016, 2016 IEEE/WIC/ACM INTERNATIONAL CONFERENCE ON WEB INTELLIGENCE (WI 2016), P536, DOI [10.1109/WI.2016.90, 10.1109/WI.2016.0091]
+   Camacho Sonia, 2014, HCI in Business. First International Conference, HCIB 2014. Held as Part of HCI International 2014. Proceedings: LNCS 8527, P133, DOI 10.1007/978-3-319-07293-7_13
+   Chavan VS, 2015, 2015 INTERNATIONAL CONFERENCE ON ADVANCES IN COMPUTING, COMMUNICATIONS AND INFORMATICS (ICACCI), P2354, DOI 10.1109/ICACCI.2015.7275970
+   Chawla NV, 2002, J ARTIF INTELL RES, V16, P321, DOI 10.1613/jair.953
+   Citron DK, 2015, THE INTERNET, V6, P12
+   COHEN J, 1960, EDUC PSYCHOL MEAS, V20, P37, DOI 10.1177/001316446002000104
+   Cooper, 2002, BULLYING EMOTIONAL A
+   Dadvar M.F. De Jong., 2012, P 21 INT C WORLD WID, P121, DOI DOI 10.1145/2187980.2187995
+   Dinakar K, 2011, MODELING DETECTION T, P7
+   Doer B, 2012, COMMUN ACM, V55, P70, DOI 10.1145/2184319.2184338
+   Duggan, 2017, ONLINE HARASSMENT 20
+   Duggan M., 2014, ONLINE HARASSMENT
+   Ferrara P, 2018, ITAL J PEDIATR, V44, DOI 10.1186/s13052-018-0446-4
+   Fire M, 2014, IEEE COMMUN SURV TUT, V16, P2019, DOI 10.1109/COMST.2014.2321628
+   Foody Mairead, 2015, Internet Interventions, V2, P235, DOI 10.1016/j.invent.2015.05.002
+   Foster D., 2019, Generative Deep Learning: Teaching Machines to Paint, Write, Compose and Play
+   Fridh M, 2015, BMC PUBLIC HEALTH, V15, DOI 10.1186/s12889-015-2239-7
+   Garrett M, 2018, LEVERAGING MUTUAL IN, P7
+   Gimpel K, 2011, P 49 ANN M ASS COMP, P42
+   Gini G, 2014, JAMA-J AM MED ASSOC, V312, P545, DOI 10.1001/jama.2014.3212
+   Goadrich M, 2006, P 23 INT C MACH LEAR, P233, DOI [10.1145/1143844.1143874, DOI 10.1145/1143844.1143874]
+   de Almeida MMG, 2010, PROCEEDINGS OF THE ASME INTERNATIONAL PIPELINE CONFERENCE 2010, VOL 3, P1
+   Hall M., 2009, SIGKDD EXPLORATIONS, V11, P10, DOI [10.1145/1656274.1656278, DOI 10.1145/1656274.1656278]
+   Hee C., 2015, P INT C REC ADV NAT, P672
+   Hosseinmardi H, 2014, 2014 IEEE FOURTH INTERNATIONAL CONFERENCE ON BIG DATA AND CLOUD COMPUTING (BDCLOUD), P355, DOI 10.1109/BDCloud.2014.87
+   Hu M, 2014, MINING SUMMARIZING C, P10
+   Huang J, 2005, IEEE T KNOWL DATA EN, V17, P299, DOI 10.1109/TKDE.2005.50
+   Jaidka K, 2019, ASIAN J COMMUN, V29, P252, DOI 10.1080/01292986.2018.1453849
+   Kavanaugh AL, 2012, GOV INFORM Q, V29, P480, DOI 10.1016/j.giq.2012.06.002
+   Kiritchenko S, 2014, J ARTIF INTELL RES, V50, P723, DOI 10.1613/jair.4272
+   Kowsari K, 2019, INFORMATION, V10, DOI 10.3390/info10040150
+   Kurka DB, 2015, ARXIV150405655PHYS
+   Lagopoulos A, 2019, IEEE J BIOMED HEALTH, V23, P2230, DOI 10.1109/JBHI.2019.2902303
+   LANDIS JR, 1977, BIOMETRICS, V33, P159, DOI 10.2307/2529310
+   Lauw HW, 2010, IEEE INTERNET COMPUT, V14, P15, DOI 10.1109/MIC.2010.25
+   Li YH, 1998, COMPUT J, V41, P537, DOI 10.1093/comjnl/41.8.537
+   Liu Y, 2005, IEEE IJCNN, P849
+   LOVINS JB, 1968, MECH TRANSL, V11, P22
+   McHugh ML, 2012, BIOCHEM MEDICA, V22, P276, DOI 10.11613/bm.2012.031
+   Mehta Rajat., 2017, BIG DATA ANAL JAVA
+   Mohammad S.M., 2013, SemEva, V2, P321
+   Mohammad S. M., 2013, ARXIV13086297CS
+   Myers CA, 2019, INT J ENV RES PUB HE, V16, DOI 10.3390/ijerph16071217
+   Nalini K, 2015, ADV INTELL SYST COMP, V338, P637, DOI 10.1007/978-3-319-13731-5_69
+   Ng AY, 2002, ADV NEUR IN, V14, P841
+   Nielsen F, 2011, ARXIV11032903CS
+   Nixon CL, 2014, ADOLESC HEALTH MED T, V5, P143, DOI 10.2147/AHMT.S36456
+   Pattnaik P.K., 2018, PROGR COMPUTING ANAL
+   Penni J, 2017, TELEMAT INFORM, V34, P498, DOI 10.1016/j.tele.2016.10.009
+   Petrovic S., 2010, P NAACL HLT WORKSHOP, P25, DOI DOI 10.1371/journal.pcbi.1004513
+   Potha N, 2014, 2014 IEEE INTERNATIONAL CONFERENCE ON DATA MINING WORKSHOP (ICDMW), P373, DOI 10.1109/ICDMW.2014.170
+   Ptaszynski M, 2017, LEARNING DEEP CYBERB, P8
+   Quinlan JR, 2014, C4 5 PROGRAMS MACHIN
+   Reynolds K., 2011, Proceedings of the 2011 Tenth International Conference on Machine Learning and Applications (ICMLA 2011), P241, DOI 10.1109/ICMLA.2011.152
+   Rezvan M, 2018, WEBSCI'18: PROCEEDINGS OF THE 10TH ACM CONFERENCE ON WEB SCIENCE, P33, DOI 10.1145/3201064.3201103
+   Rosa H, 2019, COMPUT HUM BEHAV, V93, P333, DOI 10.1016/j.chb.2018.12.021
+   Safaria T, 2016, TURK ONLINE J EDUC T, V15, P10
+   Sampasa-Kanyinga H, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0102145
+   Sokolova M, 2009, INFORM PROCESS MANAG, V45, P427, DOI 10.1016/j.ipm.2009.03.002
+   Sundararaman A, 2018, BIG DATA RES, V13, P65, DOI 10.1016/j.bdr.2018.05.004
+   Thelwall M, 2012, J AM SOC INF SCI TEC, V63, P163, DOI 10.1002/asi.21662
+   Turney PD, 2002, 40TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, PROCEEDINGS OF THE CONFERENCE, P417
+   Volk AA, 2017, AGGRESS VIOLENT BEH, V36, P34, DOI 10.1016/j.avb.2017.07.003
+   Wall D., 2004, Crim Justice Matters, V58, P20, DOI DOI 10.1080/09627250408553239
+   Wilson T, RECOGNIZING CONTEXTU, P8
+   Witten IH, 2011, MOR KAUF D, P1
+   Zhao R., 2016, P 17 INT C DISTR COM, P1, DOI DOI 10.1145/2833312.2849567
+   Zuckerberg M, 2012, 1000000000 PEOPLE FA
+NR 84
+TC 22
+Z9 23
+U1 5
+U2 30
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD OCT 27
+PY 2020
+VL 15
+IS 10
+AR e0240924
+DI 10.1371/journal.pone.0240924
+PG 19
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA OP8WV
+UT WOS:000588372400016
+PM 33108392
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Schwartz-Chassidim, H
+   Ayalon, O
+   Mendel, T
+   Hirschprung, R
+   Toch, E
+AF Schwartz-Chassidim, Hadas
+   Ayalon, Oshrat
+   Mendel, Tamir
+   Hirschprung, Ron
+   Toch, Eran
+TI Selectivity in posting on social networks: the role of privacy concerns,
+   social capital, and technical literacy
+SO HELIYON
+LA English
+DT Article
+DE Privacy; Online social networks; Privacy controls; Social capital;
+   Behavior analysis; Boundary regulation theory; Facebook; Computer
+   privacy; Cognitive aspect of human-computer system; Interaction design;
+   User interface; Software engineering; Computer science; Psychology
+ID SELF-DISCLOSURE; INFORMATION PRIVACY; FACEBOOK; ATTITUDES; STRATEGIES;
+   MANAGEMENT; BEHAVIORS; BENEFITS; IDENTITY; SITES
+AB People's posting behaviors in social networks was perceived as ambiguous, with concerns misaligned with people's public postings. To address this gap, we suggest a model that offers new insights into the relationship between perceptions and actual behaviors. We define a quantitative marker for agility, the frequency in which people update their audience selection when posting information in online social networks, and evaluate the factors that contribute to the variability of agility between different users. We analyzed the posting behavior of Facebook 181 participants, as well as their answers to open and close questions. We find that frequent changes in privacy settings are correlated with high social privacy and with institutional privacy concerns, whereas social concerns were found to be more prominent. Agility was negatively correlated with low public sharing. Our findings show that users use privacy settings to effectively mitigate privacy concerns and desires for creating and strengthening social connections. We discuss how agility can be used to design and to evaluate new user interfaces for managing privacy in social settings.
+C1 [Schwartz-Chassidim, Hadas; Ayalon, Oshrat; Mendel, Tamir; Toch, Eran] Tel Aviv Univ, Dept Ind Engn, Tel Aviv, Israel.
+   [Schwartz-Chassidim, Hadas] Shamoon Coll Engn, Software Engn Dept, Beer Sheva, Israel.
+   [Hirschprung, Ron] Ariel Univ, Fac Engn, Ariel, Israel.
+C3 Tel Aviv University; Ariel University
+RP Schwartz-Chassidim, H (corresponding author), Tel Aviv Univ, Dept Ind Engn, Tel Aviv, Israel.; Schwartz-Chassidim, H (corresponding author), Shamoon Coll Engn, Software Engn Dept, Beer Sheva, Israel.
+EM hadasch@ac.sce.ac.il
+RI Toch, Eran/AAD-6233-2019; Hirschprung, Ron/JUV-4695-2023
+OI Toch, Eran/0000-0001-6939-5870; Shwartz Chassidim,
+   Hadas/0000-0002-3575-9602; Ayalon, Oshrat/0000-0002-5905-9838
+CR Acquisti A, 2005, IEEE SECUR PRIV, V3, P26, DOI 10.1109/MSP.2005.22
+   Acquisti A, 2006, LECT NOTES COMPUT SC, V4258, P36
+   Acquisti A, 2015, SCIENCE, V347, P509, DOI 10.1126/science.aaa1465
+   Altman I., 1975, ENV SOCIAL BEHAV
+   [Anonymous], 2016, J.Int. J. Eng. Comput.Sci.
+   [Anonymous], 2016, INT J COMMUNICATION
+   [Anonymous], 2017, TECH REP
+   [Anonymous], WHO ARE TURKERS CHAR
+   [Anonymous], J ASS INF SCI TECHNO
+   [Anonymous], 2017, P 50 HAW INT C SYST
+   [Anonymous], 2014, SOUPS2014 WORKSH PRI
+   [Anonymous], 2012, P 8 S US PRIV SEC
+   [Anonymous], J INT COMMUN
+   [Anonymous], 2018, MENTAL HLTH RELIG CU
+   [Anonymous], 2018, CAMBRIDGE ANAL FACEB
+   [Anonymous], S US PRIV SEC SOUPS
+   [Anonymous], AM C INF SYST
+   [Anonymous], 2013, REGRESSION ANAL COUN
+   Ayalon O., 2019, 15 S US PRIV SEC SOU
+   Barth S, 2017, TELEMAT INFORM, V34, P1038, DOI 10.1016/j.tele.2017.04.013
+   Braunstein Alex, 2011, P PETRA
+   Brenner PS, 2016, SOC PSYCHOL QUART, V79, P333, DOI 10.1177/0190272516628298
+   Chalklen C, 2017, SOC MEDIA SOC, V3, DOI 10.1177/2056305117707187
+   Chen HT, 2015, CYBERPSYCH BEH SOC N, V18, P13, DOI 10.1089/cyber.2014.0456
+   Cheung C, 2015, INTERNET RES, V25, P279, DOI 10.1108/IntR-09-2013-0192
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   De Wolf R, 2014, COMPUT HUM BEHAV, V35, P444, DOI 10.1016/j.chb.2014.03.010
+   Debatin B, 2009, J COMPUT-MEDIAT COMM, V15, P83, DOI 10.1111/j.1083-6101.2009.01494.x
+   Dey R., 2012, 2012 IEEE International Conference on Pervasive Computing and Communications Workshops (PerCom Workshops), P346, DOI 10.1109/PerComW.2012.6197508
+   Dienlin T, 2016, J COMPUT-MEDIAT COMM, V21, P368, DOI 10.1111/jcc4.12163
+   Dienlin T, 2015, EUR J SOC PSYCHOL, V45, P285, DOI 10.1002/ejsp.2049
+   Dinev T, 2013, EUR J INFORM SYST, V22, P295, DOI 10.1057/ejis.2012.23
+   Dong C., 2015, Ninth International AAAI Conference on Web and Social Media, P91
+   Ellison NB, 2007, J COMPUT-MEDIAT COMM, V12, P1143, DOI 10.1111/j.1083-6101.2007.00367.x
+   Ellison NB, 2015, HBK COMMUN MEDIA, P205
+   Ellison NB, 2011, PRIVACY ONLINE: PERSPECTIVES ON PRIVACY AND SELF-DISCLOSURE IN THE SOCIAL WEB, P19, DOI 10.1007/978-3-642-21521-6_3
+   Gruzd A, 2018, CYBERPSYCH BEH SOC N, V21, P418, DOI 10.1089/cyber.2017.0709
+   Hair J.F., 2006, MULTIVARIATE DATA AN
+   Hampton TG, 2012, FRONT PHARMACOL, V3, DOI 10.3389/fphar.2012.00080
+   Hargittai E, 2011, NEW MEDIA SOC, V13, P824, DOI 10.1177/1461444811405805
+   Harrell FE, 2015, SPRINGER SER STAT, P1, DOI 10.1007/978-3-319-19425-7_1
+   Hirschprung R, 2017, ACM T INTEL SYST TEC, V8, DOI 10.1145/3046676
+   Hodkinson P, 2017, NEW MEDIA SOC, V19, P272, DOI 10.1177/1461444815605454
+   Hughes-Roberts T, 2013, 2013 ASE/IEEE INTERNATIONAL CONFERENCE ON SOCIAL COMPUTING (SOCIALCOM), P909, DOI 10.1109/SocialCom.2013.140
+   James TL, 2017, INFORM MANAGE-AMSTER, V54, P851, DOI 10.1016/j.im.2017.01.001
+   James TL, 2015, INFORM MANAGE-AMSTER, V52, P893, DOI 10.1016/j.im.2015.07.010
+   Jeong Y, 2017, COMPUT HUM BEHAV, V69, P302, DOI 10.1016/j.chb.2016.12.042
+   Johnston K, 2013, BEHAV INFORM TECHNOL, V32, P24, DOI 10.1080/0144929X.2010.550063
+   Jordaan Y, 2017, COMPUT HUM BEHAV, V70, P90, DOI 10.1016/j.chb.2016.12.048
+   Kairam S., 2012, P SIGCHI C HUM FACT, P1065, DOI DOI 10.1145/2207676.2208552
+   Kelley P., 2010, S USABLE PRIVACY SEC
+   Kokolakis S, 2017, COMPUT SECUR, V64, P122, DOI 10.1016/j.cose.2015.07.002
+   Krasnova Hanna, 2009, Identity in the Information Society, V2, P34, DOI 10.1007/s12394-009-0019-1
+   Krasnova H, 2010, J INF TECHNOL-UK, V25, P109, DOI 10.1057/jit.2010.6
+   Lambert A, 2016, NEW MEDIA SOC, V18, P2559, DOI 10.1177/1461444815588902
+   Lampinen A, 2011, 29TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, P3217
+   Li Y, 2015, COMPUT SECUR, V49, P239, DOI 10.1016/j.cose.2014.10.012
+   Li Y, 2018, POL J CHEM TECHNOL, V20, P108, DOI 10.2478/pjct-2018-0062
+   Litt E, 2016, ACM CONFERENCE ON COMPUTER-SUPPORTED COOPERATIVE WORK AND SOCIAL COMPUTING (CSCW 2016), P1488, DOI 10.1145/2818048.2819933
+   Litt E, 2013, COMPUT HUM BEHAV, V29, P1649, DOI 10.1016/j.chb.2013.01.049
+   Malhotra NK, 2004, INFORM SYST RES, V15, P336, DOI 10.1287/isre.1040.0032
+   Matei SA, 2015, COMPUT SOC SCI, P109, DOI 10.1007/978-3-319-18552-1_6
+   Paolacci G, 2014, CURR DIR PSYCHOL SCI, V23, P184, DOI 10.1177/0963721414531598
+   Perrin A., 2015, SOCIAL MEDIA USAGE
+   Preibusch S, 2013, INT J HUM-COMPUT ST, V71, P1133, DOI 10.1016/j.ijhcs.2013.09.002
+   Quinn K, 2016, J BROADCAST ELECTRON, V60, P61, DOI 10.1080/08838151.2015.1127245
+   Raynes-Goldie K., 2010, ALIASES CREEPING WAL
+   Saeri AK, 2014, J SOC PSYCHOL, V154, P352, DOI 10.1080/00224545.2014.914881
+   Skeels MM, 2009, GROUP 2009 PROCEEDINGS, P95
+   Smith A., 2018, SOCIAL MEDIA USE 201
+   Stutzman F., 2012, Journal of Privacy and Confidentiality, V4, P7
+   Stutzman F., 2012, ICWSM
+   Stutzman F., 2006, J INT DIGITAL MEDIA, V3, P10
+   Stutzman F, 2011, COMPUT HUM BEHAV, V27, P590, DOI 10.1016/j.chb.2010.10.017
+   Stutzman F, 2010, CHI2010: PROCEEDINGS OF THE 28TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, VOLS 1-4, P1553
+   Stutzman Fred., 2012, P ACM C COMPUTER SUP, P769, DOI [10.1145/2145204.2145320, DOI 10.1145/2145204.2145320]
+   Taddei S, 2013, COMPUT HUM BEHAV, V29, P821, DOI 10.1016/j.chb.2012.11.022
+   Tan X, 2012, INTERNET RES, V22, P211, DOI 10.1108/10662241211214575
+   Tsay-Vogel M, 2018, NEW MEDIA SOC, V20, P141, DOI 10.1177/1461444816660731
+   Utz S., 2009, CYBERPSYCHOLOGY, V3, pArticl
+   Utz S, 2015, COMPUT HUM BEHAV, V45, P1, DOI 10.1016/j.chb.2014.11.076
+   Williams D, 2006, J COMPUT-MEDIAT COMM, V11, DOI 10.1111/j.1083-6101.2006.00029.x
+   Wilson DaveJoseph S. Valacich., 2012, UNPACKING PRIVACY PA
+   Wisniewski P., 2012, Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, P609, DOI DOI 10.1145/2207676.2207761
+   Wisniewski P, 2015, PROCEEDINGS OF THE 2015 ACM INTERNATIONAL CONFERENCE ON COMPUTER-SUPPORTED COOPERATIVE WORK AND SOCIAL COMPUTING (CSCW'15), P1427, DOI 10.1145/2675133.2675256
+NR 85
+TC 16
+Z9 16
+U1 5
+U2 33
+PU CELL PRESS
+PI CAMBRIDGE
+PA 50 HAMPSHIRE ST, FLOOR 5, CAMBRIDGE, MA 02139 USA
+EI 2405-8440
+J9 HELIYON
+JI Heliyon
+PD FEB
+PY 2020
+VL 6
+IS 2
+AR e03298
+DI 10.1016/j.heliyon.2020.e03298
+PG 11
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA KS5SJ
+UT WOS:000518367800026
+PM 32055733
+OA Green Published, gold
+DA 2024-11-22
+ER

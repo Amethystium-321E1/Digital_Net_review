@@ -1,0 +1,615 @@
+
+PT J
+AU Amati, V
+   Lomi, A
+   Mascia, D
+AF Amati, Viviana
+   Lomi, Alessandro
+   Mascia, Daniele
+TI Some days are better than others: Examining time-specific variation in
+   the structuring of interorganizational relations
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Health care organizations; Interorganizational relations; Network
+   dynamics; Patient referral; Relational event models; Social mechanisms
+ID ACUTE MYOCARDIAL-INFARCTION; CRITICALLY-ILL PATIENTS; IN-HOSPITAL
+   MORTALITY; PATIENT-TRANSFERS; HIERARCHY FORMATION; ALLIANCE FORMATION;
+   NETWORK DYNAMICS; FIELD EVOLUTION; EVENT MODELS; CARE
+AB The generative mechanisms controlling change in interorganizational relations are typically assumed to be time- independent, i.e., operate homogeneously and synchronously over time. In this paper we consider some of the implications of violating this assumption. We adopt and extend statistical models for relational events to reveal time-specific variations in mechanisms underlying interorganizational relations observed within a small community of health care organizations. We find that aggregate estimates of parameters associated with mechanisms of theoretical interest mask fine-grained temporal variation in relational events sequences. We discuss the implications of this result for studies of interorganizational relations - and social networks snore generally.
+C1 [Amati, Viviana] Swiss Fed Inst Technol, Dept Humanities Social & Polit Sci, Weinbergstr 109, CH-8092 Zurich, Switzerland.
+   [Lomi, Alessandro] Univ Italian Switzerland, Inst Computat Sci, Via Buffi 13, CH-6900 Lugano, Switzerland.
+   [Lomi, Alessandro] Univ Southern Calif, 3502 Watt Way, Los Angeles, CA USA.
+   [Mascia, Daniele] Univ Bologna, Dept Management, Via Capo di Lucca 34, Bologna, Italy.
+C3 Swiss Federal Institutes of Technology Domain; ETH Zurich; Universita
+   della Svizzera Italiana; University of Southern California; University
+   of Bologna
+RP Amati, V (corresponding author), Swiss Fed Inst Technol, Dept Humanities Social & Polit Sci, Weinbergstr 109, CH-8092 Zurich, Switzerland.
+EM viviana.amati@gess.ethz.ch; alessandro.lomi@usi.ch; d.mascia@unibo.it
+RI Lomi, Alessandro/AFR-0469-2022; Mascia, Daniele/AAB-9384-2022
+OI MASCIA, Daniele/0000-0002-9255-3520
+FU Swiss National Science Foundation [100018_165764, 100018_150126]; Swiss
+   National Science Foundation (SNF) [100018_165764, 100018_150126] Funding
+   Source: Swiss National Science Foundation (SNF)
+FX We gratefully acknowledge financial support from the Swiss National
+   Science Foundation (SNSF grants number 100018_165764 and 100018_150126).
+CR ABBOTT A, 1995, ANNU REV SOCIOL, V21, P93, DOI 10.1146/annurev.so.21.080195.000521
+   Abbott A, 1990, ORGAN SCI, V1, P375, DOI 10.1287/orsc.1.4.375
+   Allison PD, 1999, SOCIOL METHOD RES, V28, P186, DOI 10.1177/0049124199028002003
+   An CK, 2018, STAT MED, V37, P847, DOI 10.1002/sim.7565
+   Ananthakrishnan AN, 2009, CLIN GASTROENTEROL H, V7, P296, DOI 10.1016/j.cgh.2008.08.013
+   [Anonymous], 2012, Events in social networks: A stochastic actor-oriented framework for dynamic event processes in social networks
+   Baker W. E., 2002, INTERORGANIZATIONAL, P520
+   Barnett MJ, 2002, MED CARE, V40, P530, DOI 10.1097/00005650-200206000-00010
+   Bathelt H, 2003, J ECON GEOGR, V3, P117, DOI 10.1093/jeg/3.2.117
+   Baum JAC, 2003, IND CORP CHANGE, V12, P697, DOI 10.1093/icc/12.4.697
+   Becker DJ, 2007, HEALTH SERV RES, V42, P1589, DOI 10.1111/j.1475-6773.2006.00663.x
+   Bell CM, 2001, NEW ENGL J MED, V345, P663, DOI 10.1056/NEJMsa003376
+   Berger A, 2008, AM J CARDIOL, V101, P422, DOI 10.1016/j.amjcard.2007.09.092
+   Bianchi F, 2017, 37 SUNB C INT NETW S
+   Block P., 2016, SOCIOL METHOD RES
+   Block P, 2018, SOC NETWORKS, V52, P180, DOI 10.1016/j.socnet.2017.08.001
+   Block P, 2015, SOC NETWORKS, V40, P163, DOI 10.1016/j.socnet.2014.10.005
+   Borgatti SP, 2011, ORGAN SCI, V22, P1168, DOI 10.1287/orsc.1100.0641
+   Brailly J, 2016, J ECON GEOGR, V16, P1279, DOI 10.1093/jeg/lbw034
+   Brandes U, 2009, 2009 INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING, P200, DOI 10.1109/ASONAM.2009.28
+   Burt RS, 2002, SOC NETWORKS, V24, P333, DOI 10.1016/S0378-8733(02)00017-5
+   Butts CT, 2007, J MATH SOCIOL, V31, P121, DOI 10.1080/00222500601188056
+   Butts CT, 2008, SOCIOL METHODOL, V38, P155, DOI 10.1111/j.1467-9531.2008.00203.x
+   Butts CT, 2009, SCIENCE, V325, P414, DOI 10.1126/science.1171022
+   Cebul RD, 2008, J ECON PERSPECT, V22, P93, DOI 10.1257/jep.22.4.93
+   CHASE ID, 1974, BEHAV SCI, V19, P374, DOI 10.1002/bs.3830190604
+   CHASE ID, 1982, SCIENCE, V216, P439, DOI 10.1126/science.216.4544.439
+   CHASE ID, 1980, AM SOCIOL REV, V45, P905, DOI 10.2307/2094909
+   COHEN MD, 1972, ADMIN SCI QUART, V17, P1, DOI 10.2307/2392088
+   Cohen MD, 2010, QUAL SAF HEALTH CARE, V19, P493, DOI 10.1136/qshc.2009.033480
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   Cooke CR, 2011, MED CARE, V49, P662, DOI 10.1097/MLR.0b013e31821d98b2
+   Corbo L, 2016, ORGAN STUD, V37, P323, DOI 10.1177/0170840615613373
+   Cram P, 2004, AM J MED, V117, P151, DOI 10.1016/j.amjmed.2004.02.035
+   Davis G. F., 2003, Strategic Organization, V1, P301, DOI 10.1177/14761270030013002
+   DiMaggio Paul., 1991, NEW I ORG ANAL, P267
+   Dodds PS, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0026752
+   DuBois C, 2013, J MATH PSYCHOL, V57, P297, DOI 10.1016/j.jmp.2013.04.001
+   Vu D, 2017, STAT MED, V36, P2265, DOI 10.1002/sim.7247
+   Vu D, 2015, SOC NETWORKS, V43, P121, DOI 10.1016/j.socnet.2015.05.001
+   FREEMAN LC, 1987, AM ANTHROPOL, V89, P310, DOI 10.1525/aa.1987.89.2.02a00020
+   GALASKIEWICZ J, 1985, ANNU REV SOCIOL, V11, P281, DOI 10.1146/annurev.so.11.080185.001433
+   Gibson DR, 2011, AM J SOCIOL, V117, P361, DOI 10.1086/661761
+   Golder SA, 2007, Communities and Technologies 2007, P41, DOI 10.1007/978-1-84628-905-7_3
+   Golder SA, 2011, SCIENCE, V333, P1878, DOI 10.1126/science.1202775
+   Gulati R, 1999, AM J SOCIOL, V104, P1439, DOI 10.1086/210179
+   Gulati R, 2008, ORGAN SCI, V19, P688, DOI 10.1287/orsc.1070.0345
+   Hilligoss B, 2013, ANN EMERG MED, V61, P155, DOI 10.1016/j.annemergmed.2012.04.009
+   Hoh BL, 2010, STROKE, V41, P2323, DOI 10.1161/STROKEAHA.110.591081
+   Hollway J, 2017, NETW SCI, V5, P187, DOI 10.1017/nws.2017.8
+   Ingram P, 2007, ADMIN SCI QUART, V52, P558, DOI 10.2189/asqu.52.4.558
+   Iwashyna TJ, 2012, CRIT CARE MED, V40, P2470, DOI 10.1097/CCM.0b013e318254516f
+   Iwashyna TJ, 2011, CURR OPIN CRIT CARE, V17, P641, DOI 10.1097/MCC.0b013e32834b3e55
+   Iwashyna TJ, 2009, MED CARE, V47, P787, DOI 10.1097/MLR.0b013e318197b1f5
+   JACOBSEN M., 2006, PROB APPLIC
+   Jneid H, 2008, CIRCULATION, V117, P2502, DOI 10.1161/CIRCULATIONAHA.107.752113
+   Kitts JA, 2017, AM J SOCIOL, V123, P850, DOI 10.1086/693704
+   Kogut B, 2001, AM SOCIOL REV, V66, P317, DOI 10.2307/3088882
+   Koskinen J, 2013, J STAT PHYS, V151, P523, DOI 10.1007/s10955-013-0732-x
+   Kostis WJ, 2007, NEW ENGL J MED, V356, P1099, DOI 10.1056/NEJMoa063355
+   LAUMANN EO, 1978, ANNU REV SOCIOL, V4, P455, DOI 10.1146/annurev.so.04.080178.002323
+   LAUMANN EO, 1982, SOC NETWORKS, V4, P329, DOI 10.1016/0378-8733(82)90017-X
+   Lee BY, 2011, AM J PUBLIC HEALTH, V101, P707, DOI 10.2105/AJPH.2010.202754
+   Lerner Jurgen, 2017, Appl Netw Sci, V2, P24, DOI 10.1007/s41109-017-0043-2
+   Lomi A., 2013, EXPONENTIAL RANDOM G, P202
+   Lomi A.Negro., 2008, The Oxford handbook of inter-organizational relations
+   Lomi A, 2006, ORGAN SCI, V17, P313, DOI 10.1287/orsc.1060.0190
+   Lomi A, 2014, MED CARE, V52, P407, DOI 10.1097/MLR.0000000000000107
+   Lomi A, 2012, SOC NETWORKS, V34, P101, DOI 10.1016/j.socnet.2010.10.005
+   Lospinoso JA, 2011, ADV DATA ANAL CLASSI, V5, P147, DOI 10.1007/s11634-010-0076-1
+   Mannak R., 2018, WHOM FINNS FORM TIES, DOI [10.31219/osf.io/3akbn, DOI 10.31219/OSF.IO/3AKBN]
+   Marcum CS, 2012, POLICY STUD J, V40, P516, DOI 10.1111/j.1541-0072.2012.00463.x
+   Martin GP, 2017, BMJ OPEN, V7, DOI 10.1136/bmjopen-2017-016866
+   Mascia D, 2017, REG STUD, V51, P1348, DOI 10.1080/00343404.2016.1185517
+   Mascia D, 2015, SOC SCI MED, V132, P113, DOI 10.1016/j.socscimed.2015.03.029
+   Mascia D, 2011, HEALTH CARE MANAGE R, V36, P327, DOI 10.1097/HMR.0b013e31821fa519
+   McFadden D., 1974, FRONTIERS ECONOMETRI, P105, DOI DOI 10.1108/EB028592
+   Mood C, 2010, EUR SOCIOL REV, V26, P67, DOI 10.1093/esr/jcp006
+   Needleman J, 2002, NEW ENGL J MED, V346, P1715, DOI 10.1056/NEJMsa012247
+   Newman MEJ, 2001, PHYS REV E, V64, DOI [10.1103/PhysRevE.64.016132, 10.1103/PhysRevE.64.016131]
+   Newman MEJ, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.208701
+   Padgett J, 2018, AM J SOCIOL
+   Padgett JF, 2012, EMERGENCE OF ORGANIZATIONS AND MARKETS, P168
+   Palmer WL, 2012, ARCH NEUROL-CHICAGO, V69, P1296, DOI 10.1001/archneurol.2012.1030
+   Perry PO, 2013, J R STAT SOC B, V75, P821, DOI 10.1111/rssb.12013
+   Pescosolido BA, 2000, AM SOCIOL REV, V65, P52, DOI 10.2307/2657289
+   Pham HH, 2007, NEW ENGL J MED, V356, P1130, DOI 10.1056/NEJMsa063979
+   PODOLNY JM, 1994, ADMIN SCI QUART, V39, P458, DOI 10.2307/2393299
+   Powell WW, 2005, AM J SOCIOL, V110, P1132, DOI 10.1086/421508
+   Pronovost PJ, 2002, JAMA-J AM MED ASSOC, V288, P2151, DOI 10.1001/jama.288.17.2151
+   Redelmeier DA, 2007, NEW ENGL J MED, V356, P1164, DOI 10.1056/NEJMe068310
+   Rivera MT, 2010, ANNU REV SOCIOL, V36, P91, DOI 10.1146/annurev.soc.34.040507.134743
+   Robins G, 2009, SOC NETWORKS, V31, P105, DOI 10.1016/j.socnet.2008.10.006
+   Rosenkopf L, 2008, ORGAN SCI, V19, P669, DOI 10.1287/orsc.1070.0339
+   Saposnik G, 2007, STROKE, V38, P1211, DOI 10.1161/01.STR.0000259622.78616.ea
+   Schilling PL, 2010, MED CARE, V48, P224, DOI 10.1097/MLR.0b013e3181c162c0
+   Schmid M, 2015, BJU INT, V116, P911, DOI 10.1111/bju.12891
+   Sharp AL, 2013, AM J EMERG MED, V31, P835, DOI 10.1016/j.ajem.2013.01.006
+   Snijders TAB, 2010, SOC NETWORKS, V32, P44, DOI 10.1016/j.socnet.2009.02.004
+   Sorenson O, 2008, ADMIN SCI QUART, V53, P266, DOI 10.2189/asqu.53.2.266
+   Stadtfeld C, 2017, SOCIOL SCI, V4, P318, DOI 10.15195/v4.a14
+   Stadtfeld C, 2016, SOC NETWORKS, V44, P363, DOI 10.1016/j.socnet.2015.04.010
+   Stange KC, 2009, ANN FAM MED, V7, P100, DOI 10.1370/afm.971
+   Stark D, 2006, AM J SOCIOL, V111, P1367, DOI 10.1086/499507
+   Stuart TE, 1998, ADMIN SCI QUART, V43, P668, DOI 10.2307/2393679
+   Stuart TE, 2010, J FINANC ECON, V97, P174, DOI 10.1016/j.jfineco.2010.03.012
+   SUGIURA N, 1978, COMMUN STAT A-THEOR, V7, P13, DOI 10.1080/03610927808827599
+   Thaler R.H., 1987, J EC PERSP, V1, P197, DOI DOI 10.1257/JEP.1.1.197
+   THALER RH, 1988, J ECON PERSPECT, V2, P161, DOI 10.1257/jep.2.2.161
+   Train KE, 2009, DISCRETE CHOICE METHODS WITH SIMULATION, 2ND EDITION, P1, DOI 10.1017/CBO9780511805271
+   Uzzi B, 1997, ADMIN SCI QUART, V42, P35, DOI 10.2307/2393808
+   Uzzi B, 2008, J PHYS A-MATH THEOR, V41, DOI 10.1088/1751-8113/41/22/224023
+   Veinot TC, 2012, SOC SCI MED, V75, P1800, DOI 10.1016/j.socscimed.2012.07.011
+   Vu, 2012, THESIS
+   Vu D., 2011, ADV NEURAL INFORM PR, P2492
+   White H.C., 1970, CHAINS OPPORTUNITY
+   Zare MM, 2007, ANN SURG, V246, P866, DOI 10.1097/SLA.0b013e3180cc2e60
+   Zerubavel Eviatar., 1979, PATTERNS TIME HOSP L
+   Zhao K, 2010, LECT NOTES COMPUT SC, V6007, P265, DOI 10.1007/978-3-642-12079-4_33
+NR 119
+TC 28
+Z9 31
+U1 2
+U2 28
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD MAY
+PY 2019
+VL 57
+BP 18
+EP 33
+DI 10.1016/j.socnet.2018.10.001
+PG 16
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA HK8FH
+UT WOS:000458224300002
+OA Green Accepted
+DA 2024-11-22
+ER
+
+PT J
+AU Starkey, L
+   Eppel, EA
+   Sylvester, A
+AF Starkey, Louise
+   Eppel, Elizabeth A.
+   Sylvester, Allan
+TI How do 10-year-old New Zealanders participate in a digital world?
+SO INFORMATION COMMUNICATION & SOCIETY
+LA English
+DT Article
+DE Digital divide; young people; identity; ICTs
+ID CHILDREN; DIVIDE
+AB This article reports findings from a study that examined how pre-adolescent children, age 9?11 years participate in the digital world. Children from 14 different communities across New Zealand were interviewed in focus groups to explore their experience of using digital devices and the Internet. The findings indicate that the differences in use and participation were influenced predominantly by their family and their teacher and the similarities across the sample were a reflection of a type of pre-teen culture. The children in the study were consuming content from websites, creating and sharing digital artefacts and gaming. Interactions with online social networks were restricted to family and friends. The findings suggest that there are age-based stages for learning how to participate effectively in the digital world that may be context specific. For young people transitioning into social media, this includes developing online identity and how to interact appropriately within digital environments.
+C1 [Starkey, Louise] Victoria Univ Wellington, Sch Educ, Wellington, New Zealand.
+   [Eppel, Elizabeth A.] Victoria Univ Wellington, Sch Govt, Wellington, New Zealand.
+   [Sylvester, Allan] Victoria Univ Wellington, Sch Informat Management, Ringgold Stand Inst, Wellington, New Zealand.
+C3 Victoria University Wellington; Victoria University Wellington; Victoria
+   University Wellington
+RP Starkey, L (corresponding author), Victoria Univ Wellington, Sch Educ, Ringgold Stand Inst, Wellington 6140, New Zealand.
+EM louise.starkey@vuw.ac.nz; elizabeth.eppel@vuw.ac.nz;
+   allan.sylvester@vuw.ac.nz
+RI Starkey, Louise/V-1827-2019; Sylvester, Allan/AAO-7416-2020; Eppel,
+   Elizabeth/N-3339-2016
+OI Starkey, Louise/0000-0002-8607-366X; Eppel,
+   Elizabeth/0000-0001-5331-2911; Sylvester, Allan/0000-0003-3262-6780
+FU New Zealand Ministry of Education [CW40111]
+FX This work was supported by the New Zealand Ministry of Education [grant
+   number CW40111].
+CR [Anonymous], 2014, New media society
+   [Anonymous], 2009, Comparing childrens online opportunities and risks across Europe: Cross-national comparisons for EU Kids Online
+   [Anonymous], 2015, HDB CHILDREN YOUTH S
+   [Anonymous], 2015, INEQUALITIES DIGITAL, DOI DOI 10.1787/9789264239555-8-EN
+   Cohen Stanley, 1972, FOLK DEVILS MORAL PA
+   Colmar Brunton, 2015, CHILDR MED US STUD O
+   Creswell JW, 2011, Designing and conducting mixed methods research
+   Crux Research, 2015, PAR POLL BETT HEAR S
+   de Almeida AN, 2015, NEW MEDIA SOC, V17, P1436, DOI 10.1177/1461444814528293
+   DiMaggio P., 2004, SOCIAL INEQUALITY, P355, DOI DOI 10.7758/9781610444200.14
+   Domahidi E, 2014, COMPUT HUM BEHAV, V35, P107, DOI 10.1016/j.chb.2014.02.023
+   Elliott T, 2018, NEW MEDIA SOC, V20, P698, DOI 10.1177/1461444816669159
+   Goh WWL, 2015, TELEMAT INFORM, V32, P787, DOI 10.1016/j.tele.2015.04.002
+   Haddon L, 2009, J CHILD MEDIA, V3, P379, DOI 10.1080/17482790903233432
+   Hartnett M, 2017, BRIT J EDUC TECHNOL, V48, P642, DOI 10.1111/bjet.12430
+   Helsper EJ, 2017, NEW MEDIA SOC, V19, P1253, DOI 10.1177/1461444816634676
+   Lips M., 2017, UNDERSTANDING CHILDR
+   Livingstone S., 2010, Risks and safety on the internet: the perspective of European children: key findings from the EU Kids Online survey of 9-16 year olds and their parents in 25 countries
+   Livingstone S, 2007, NEW MEDIA SOC, V9, P671, DOI 10.1177/1461444807080335
+   Livingstone S, 2014, EUR J COMMUN, V29, P271, DOI 10.1177/0267323114521045
+   Logicalis  U. K, 2016, REALTIME GENERATION
+   Lu JY, 2016, COMPUT HUM BEHAV, V64, P55, DOI 10.1016/j.chb.2016.06.019
+   Meeus W, 1996, J YOUTH ADOLESCENCE, V25, P569, DOI 10.1007/BF01537355
+   Ministry of Education, 2017, ED COUNTS SCH DIR
+   Nusche D., 2012, OECD reviews of evaluation and assessment in education: New Zealand 2011
+   Olafsson K, 2018, NEW MEDIA SOC, V20, P1360, DOI 10.1177/1461444817691531
+   Patton Q. M., 1987, How to Use Qualitative Methods in Evaluation
+   Robinson L, 2009, INFORM COMMUN SOC, V12, P488, DOI 10.1080/13691180902857678
+   Selwyn N., 2006, LEARN MEDIA TECHNOL, V31, P5, DOI [10.1080/17439880500515416, DOI 10.1080/17439880500515416]
+   Shapiro LAS, 2014, CLIN CHILD FAM PSYCH, V17, P1, DOI 10.1007/s10567-013-0135-1
+   Smith J, 2015, INFORM COMMUN SOC, V18, P1022, DOI 10.1080/1369118X.2015.1007074
+   Starkey L., 2018, 2 HDB INFORM TECHNOL, P1
+   Starkey L, 2017, J RES TECHNOL EDUC, V49, P31, DOI 10.1080/15391523.2017.1292161
+   Starkey L, 2016, CURRIC MATTERS, V12, P29, DOI 10.18296/cm.0012
+   van Deursen AJAM, 2015, STUD MEDIA COMMUN, V10, P29, DOI 10.1108/S2050-206020150000010002
+   Wei KK, 2011, INFORM SYST RES, V22, P170, DOI 10.1287/isre.1090.0273
+NR 36
+TC 5
+Z9 5
+U1 3
+U2 29
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1369-118X
+EI 1468-4462
+J9 INFORM COMMUN SOC
+JI Info. Commun. Soc.
+PD NOV 10
+PY 2019
+VL 22
+IS 13
+BP 1929
+EP 1944
+DI 10.1080/1369118X.2018.1472795
+PG 16
+WC Communication; Sociology
+WE Social Science Citation Index (SSCI)
+SC Communication; Sociology
+GA JL8HD
+UT WOS:000495767500005
+DA 2024-11-22
+ER
+
+PT J
+AU Jia, YH
+   Song, T
+   Wu, SY
+   Zhang, Q
+   Su, YX
+AF Jia, Ya-hui
+   Song, Taotao
+   Wu, Shun-yao
+   Zhang, Qi
+   Su, Yu-xia
+TI Dynamic Influence Prediction of Social Network Based on Partial
+   Autoregression Single Index Model
+SO DISCRETE DYNAMICS IN NATURE AND SOCIETY
+LA English
+DT Article
+ID VARIABLE SELECTION
+AB Everything is connected in the world. From small groups to global societies, the interactions among people, technology, and policies need sophisticated techniques to be perceived and forecasted. In social network, it has been concluded that the microblog users influence and microblog grade are nonlinearly dependent. However, to the best of our knowledge, the nonlinear influence predication of social network has not been explored in the existing literature. This article proposes a partial autoregression single index model to combine network structure (linear) and static covariates (nonparametric) flexibly. Compared with previous work, our model has fewer limits and more applications. The profile least squares estimation is employed to infer this semiparametric model, and variables selection is performed via the smoothly clipped absolute deviation penalty (SCAD). Simulations are conducted to demonstrate finite sample behaviors.
+C1 [Jia, Ya-hui; Wu, Shun-yao; Zhang, Qi] Qingdao Univ, Qingdao 266071, Shandong, Peoples R China.
+   [Song, Taotao] Daqin Railway Co Ltd, Datong, Peoples R China.
+   [Su, Yu-xia] Qufu Normal Univ, Jining, Peoples R China.
+C3 Qingdao University; Qufu Normal University
+RP Zhang, Q (corresponding author), Qingdao Univ, Qingdao 266071, Shandong, Peoples R China.; Su, YX (corresponding author), Qufu Normal Univ, Jining, Peoples R China.
+EM 2017020675@qdu.edu.cn; 2016021258@qdu.edu.cn; wu_shunyao@126.com;
+   qizhang8409@gmail.com; qfsyx@163.com
+RI meng, meng/KHW-8303-2024
+OI Wu, Shunyao/0000-0001-7774-9261; Su, Yuxia/0000-0003-3683-3031
+FU NNSF projects of China [11501314, 11701318, 11871294]; NSF project of
+   Shandong Province of China [ZR2019PF012, ZR2019BA028]; project of
+   Shandong Province Higher Educational Science and Technology Program
+   [J18KA356]
+FX This paper is supported by NNSF projects of China (11501314, 11701318,
+   11871294), NSF project of Shandong Province of China (ZR2019PF012,
+   ZR2019BA028), and a project of Shandong Province Higher Educational
+   Science and Technology Program (J18KA356).
+CR [Anonymous], NONLINEAR TIME SERIE
+   [Anonymous], 1976, HOLDEN DAY SERIES TI
+   Bai Y, 2009, J MULTIVARIATE ANAL, V100, P152, DOI 10.1016/j.jmva.2008.04.004
+   Bansal S, 2011, COMM COM INF SC, V116, P196
+   Benson AR, 2016, SCIENCE, V353, P163, DOI 10.1126/science.aad9029
+   Carroll RJ, 1997, J AM STAT ASSOC, V92, P477, DOI 10.2307/2965697
+   Chen SZ, 2017, J AM STAT ASSOC, V112, P1697, DOI 10.1080/01621459.2016.1229197
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Cryer J. D., 2011, J ROY STAT SOC, V174, P507, DOI [10.1111/j.1467-985X.2010.00681_4.x, DOI 10.1111/J.1467-985X.2010.00681_4.X]
+   Fan JQ, 2001, J AM STAT ASSOC, V96, P1348, DOI 10.1198/016214501753382273
+   Gerda C., 2010, INT ENCY SOCIAL BEHA, V172, P937
+   HOLLAND PW, 1981, J AM STAT ASSOC, V76, P33, DOI 10.2307/2287037
+   JENNRICH RI, 1969, ANN MATH STAT, V40, P633, DOI 10.1214/aoms/1177697731
+   KAY E, 1977, OPER RES QUART, V28, P237, DOI 10.2307/3008805
+   Li GR, 2015, STAT COMPUT, V25, P579, DOI 10.1007/s11222-013-9447-8
+   Lü L, 2016, NAT COMMUN, V7, DOI [10.1038/ncomms10168, 10.1038/ncomms11119]
+   Ma Jun, 2013, Application Research of Computers, V30, P2483, DOI 10.3969/j.issn.1001-3695.2013.08.061
+   Nguyen NP, 2011, IEEE INFOCOM SER, P2282, DOI 10.1109/INFCOM.2011.5935045
+   Nowicki K, 2001, J AM STAT ASSOC, V96, P1077, DOI 10.1198/016214501753208735
+   Taylor JE, 2007, BIOMETRIKA, V94, P1, DOI 10.1093/biomet/asm004
+   Tian Z, 2016, PROCEDIA ENGINEER, V138, P537, DOI 10.1016/j.proeng.2016.01.290
+   Tibshirani R, 1996, J ROY STAT SOC B, V58, P267, DOI 10.1111/j.2517-6161.1996.tb02080.x
+   Wu HL, 2002, J AM STAT ASSOC, V97, P883, DOI 10.1198/016214502388618672
+   Wu HL, 2014, J AM STAT ASSOC, V109, P700, DOI 10.1080/01621459.2013.859617
+   Wu SY, 2014, PHYSICA A, V398, P217, DOI 10.1016/j.physa.2013.12.046
+   Xia LL, 2015, PHYSICA A, V437, P295, DOI 10.1016/j.physa.2015.05.113
+   ZEGER SL, 1986, BIOMETRICS, V42, P121, DOI 10.2307/2531248
+   Zhu XN, 2017, ANN STAT, V45, P1096, DOI 10.1214/16-AOS1476
+   Zou H, 2005, J R STAT SOC B, V67, P301, DOI 10.1111/j.1467-9868.2005.00503.x
+NR 29
+TC 2
+Z9 2
+U1 0
+U2 13
+PU HINDAWI LTD
+PI LONDON
+PA ADAM HOUSE, 3RD FLR, 1 FITZROY SQ, LONDON, W1T 5HF, ENGLAND
+SN 1026-0226
+EI 1607-887X
+J9 DISCRETE DYN NAT SOC
+JI Discrete Dyn. Nat. Soc.
+PD AUG 20
+PY 2019
+VL 2019
+AR 6237406
+DI 10.1155/2019/6237406
+PG 15
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Mathematics; Science & Technology - Other Topics
+GA IW1HO
+UT WOS:000484717700001
+OA gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Wesselow, M
+   Mashele, NJ
+AF Wesselow, Maren
+   Mashele, N'wa-Jama
+TI "<i>Who Needs Money if You Got Hands, if You Got Plants</i>" Forming
+   Community Resilience in Two Urban Gardening Networks in South Africa
+SO HUMAN ECOLOGY
+LA English
+DT Article
+DE Community resilience; Social networks; Urban agriculture; Western Cape;
+   South Africa
+ID SOCIAL NETWORKS; CLIMATE-CHANGE; ADAPTATION; AGRICULTURE; FARMERS;
+   SYSTEMS; GOVERNANCE; EXTENSION; MEMORY; POWER
+AB Community resilience is influenced by the structure of social networks in a community. In urban areas, social networks tend to be fragmented and diverse, and hence building community resilience is a challenge. Our objective is to shed light on how social network structures affect community resilience in two urban gardening groups in South Africa. The results of this qualitative study show that the two non-hierarchical groups place a strong emphasis on key personalities as leaders. The common motivation and shared values of the group help individuals overcome social heterogeneity and form trust. A decentralized network structure with different kinds of leaders helps group members divide power and responsibility; it also promotes a sense of ownership and capacity building in its members. Moreover, a no-money policy supports independence from access to financial resources, makes the group self-sufficient, and prevents conflict. Our results suggest that for a certain size of group, working in local clusters can create a decentralized network and a redundant leadership structure.
+C1 [Wesselow, Maren] Carl von Ossietzky Univ Oldenburg, Ammerlander Heerstr 114-118, D-26129 Oldenburg, Germany.
+   [Mashele, N'wa-Jama] Nelson Mandela Univ, George Campus, George, South Africa.
+C3 Carl von Ossietzky Universitat Oldenburg; Nelson Mandela University
+RP Wesselow, M (corresponding author), Carl von Ossietzky Univ Oldenburg, Ammerlander Heerstr 114-118, D-26129 Oldenburg, Germany.
+EM Maren.wesselow@uol.de; Jama.mashele@mandela.ac.za
+OI Mashele, N'wa-Jama/0000-0003-4722-3191
+FU BMBF funding agency [01DG17005]
+FX This research was funded by the BMBF funding agency [grant number
+   01DG17005].
+CR Adger WN, 2003, ECON GEOGR, V79, P387
+   [Anonymous], 2015, GOVERNING COMMONS EV
+   Arora S, 2012, J SUSTAIN AGR, V36, P207, DOI 10.1080/10440046.2011.620231
+   Barabási AL, 2003, SCI AM, V288, P60, DOI 10.1038/scientificamerican0503-60
+   Barthel S, 2015, URBAN STUD, V52, P1321, DOI 10.1177/0042098012472744
+   Barthel S, 2010, GLOBAL ENVIRON CHANG, V20, P255, DOI 10.1016/j.gloenvcha.2010.01.001
+   Barthel Stephan, 2011, STUDIES GLOBAL ARCHA, V15, P391
+   Burt R.S., 2003, The New Economic Sociology: Developments in an Emerging Field
+   Calzadilla A, 2014, WATER RESOUR ECON, V5, P24, DOI 10.1016/j.wre.2014.03.001
+   Climo J., 2002, Social Memory and History. Anthropological Perspectives
+   Cox K.R., 2004, S AFR GEOGR J, V86, P7, DOI DOI 10.1080/03736245.2004.9713802
+   Crona BI, 2006, ECOL SOC, V11
+   Faulkner L, 2018, ECOL SOC, V23, DOI 10.5751/ES-09784-230124
+   Flick U., 2009, An Introduction to Qualitative Research
+   Folke C, 2005, ANNU REV ENV RESOUR, V30, P441, DOI 10.1146/annurev.energy.30.050504.144511
+   Folke C, 2006, GLOBAL ENVIRON CHANG, V16, P253, DOI 10.1016/j.gloenvcha.2006.04.002
+   George Municipality, 2016, INT DEV PLAN
+   Harvey D., 1996, CITY, V1, P38, DOI [DOI 10.1080/13604819608900022, DOI 10.1080/00045608.2014.988102]
+   Haysom G., 2015, Urban Forum, V26, P263, DOI [10.1007/s12132-015-9255-7, DOI 10.1007/S12132-015-9255-7]
+   Hoang LA, 2006, AGR HUM VALUES, V23, P513, DOI 10.1007/s10460-006-9013-5
+   Isaac ME, 2014, ECOL SOC, V19, DOI 10.5751/ES-06589-190256
+   Janssen MA, 2006, ECOL SOC, V11
+   Lewicka M, 2008, J ENVIRON PSYCHOL, V28, P209, DOI 10.1016/j.jenvp.2008.02.001
+   Liu W., 2017, Social Network Theory In The International Encyclopedia of Media Effects, DOI DOI 10.1002/9781118783764.WBIEME0092
+   Maclean K, 2014, J ENVIRON PLANN MAN, V57, P144, DOI 10.1080/09640568.2013.763774
+   Magis K, 2010, SOC NATUR RESOUR, V23, P401, DOI 10.1080/08941920903305674
+   Mannetti LM, 2015, HUM ECOL, V43, P481, DOI 10.1007/s10745-015-9760-2
+   Marais L, 2017, DEV SO AFR, V34, P182, DOI 10.1080/0376835X.2016.1259993
+   Matous P, 2013, INT J AGR SUSTAIN, V11, P301, DOI 10.1080/14735903.2012.751701
+   Matuschke I, 2009, AGR ECON-BLACKWELL, V40, P493, DOI 10.1111/j.1574-0862.2009.00393.x
+   Miller JR, 2005, TRENDS ECOL EVOL, V20, P430, DOI 10.1016/j.tree.2005.05.013
+   Misztal BarbaraA., 2003, Theories of Social Remembering
+   Moore ML, 2011, ECOL SOC, V16
+   Moser CON, 1998, WORLD DEV, V26, P1, DOI 10.1016/S0305-750X(97)10015-8
+   Newman L., 2005, Ecology and Society, V10, pr2, DOI [DOI 10.5751/ES-01396-1001R02, DOI 10.5751/ES-01396-1001r02]
+   Olivier DW, 2017, DEV SO AFR, V34, P168, DOI 10.1080/0376835X.2016.1259988
+   Owens GR, 2016, J MOD AFR STUD, V54, P443, DOI 10.1017/S0022278X16000392
+   Pickett STA, 2004, LANDSCAPE URBAN PLAN, V69, P369, DOI 10.1016/j.landurbplan.2003.10.035
+   Rapaport C, 2018, INT J DISAST RISK RE, V31, P470, DOI 10.1016/j.ijdrr.2018.05.020
+   Rockenbauch T, 2017, ECOL SOC, V22, DOI [10.5751/ES-09009-220110, 10.5751/es-09009-220110]
+   Schmidt S, 2015, CITIES, V42, P153, DOI 10.1016/j.cities.2014.05.013
+   Siebert A, 2020, J PEASANT STUD, V47, P401, DOI 10.1080/03066150.2018.1543275
+   Smit W, 2016, CITIES, V58, P80, DOI 10.1016/j.cities.2016.05.001
+   Spielman DJ, 2011, AGR HUM VALUES, V28, P195, DOI 10.1007/s10460-010-9273-y
+   Tamako N, 2017, J CONSUM SCI, P16
+   Titz A, 2018, SOCIETIES, V8, DOI 10.3390/soc8030071
+   Vervisch TGA, 2013, DISASTERS, V37, P267, DOI 10.1111/j.1467-7717.2012.01301.x
+   WELLMAN B, 1979, AM J SOCIOL, V84, P1201, DOI 10.1086/226906
+   Wirth L, 1938, AM J SOCIOL, V44, P1, DOI 10.1086/217913
+   Wossen T, 2013, INT J SUST DEV WORLD, V20, P477, DOI 10.1080/13504509.2013.856048
+   YAMAGISHI T, 1988, AM J SOCIOL, V93, P833, DOI 10.1086/228826
+NR 51
+TC 3
+Z9 4
+U1 2
+U2 19
+PU SPRINGER/PLENUM PUBLISHERS
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0300-7839
+EI 1572-9915
+J9 HUM ECOL
+JI Hum. Ecol.
+PD DEC
+PY 2019
+VL 47
+IS 6
+BP 855
+EP 864
+DI 10.1007/s10745-019-00116-5
+PG 10
+WC Anthropology; Environmental Studies; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Environmental Sciences & Ecology; Sociology
+GA KE2OX
+UT WOS:000508400300005
+DA 2024-11-22
+ER
+
+PT J
+AU Hernandez, EM
+   Pullen, E
+   Brauer, J
+AF Hernandez, Elaine M.
+   Pullen, Erin
+   Brauer, Jonathan
+TI Social networks and the emergence of health inequalities following a
+   medical advance: Examining prenatal H1N1 vaccination decisions
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Egocentric networks; Education; Mediation; Health; Health behaviors
+ID FUNDAMENTAL CAUSES; SOCIOECONOMIC DISPARITIES; EDUCATIONAL
+   DIFFERENTIALS; TECHNOLOGICAL-INNOVATION; UNITED-STATES; MORTALITY;
+   CAUSALITY; DYNAMICS; SERVICES; BEHAVIOR
+AB Health inequalities persist, in part, because people in socioeconomically advantageous positions possess resources to avoid new health risks when medicine advances. Although these health decisions rarely occur in isolation, we know less about the specific role of networks. We examine whether social capital mediates the relationship between individual educational attainment and decisions about a medical advance: H1N1 vaccination during pregnancy. Building on prior work that defines social capital as the resources of network members, we examine two mechanisms through which social capital may affect health decisions, facilitating information flow and exerting influence. Using egocentric network data collected from 225 pregnant women during the 2009-10 H1N1 pandemic, we measure social capital as the proportion of networks that are college-educated H1N1 discussants (information flow) and the proportion of college-educated H1N1 supporters (influence). Findings reveal that college-educated women knew more college-educated H1N1 discussants and supporters. Further, both measures of social capital predicted higher probabilities of vaccination, with the latter mechanism emerging as a particularly strong predictor. Our findings provide evidence that health decisions are shaped by individual resources as well as social capital available through network ties, offering a unique perspective of the ways that social networks contribute to producing, and potentially reproducing, unequal health.
+C1 [Hernandez, Elaine M.] Indiana Univ, Dept Sociol, Ballantine Hall 744,1020 E Kirkwood Ave, Bloomington, IN 47405 USA.
+   [Pullen, Erin] Indiana Univ, Network Sci Inst, Bloomington, IN USA.
+   [Brauer, Jonathan] Indiana Univ, Dept Criminal Justice, Bloomington, IN USA.
+C3 Indiana University System; Indiana University Bloomington; Indiana
+   University System; Indiana University Bloomington; Indiana University
+   System; Indiana University Bloomington
+RP Hernandez, EM (corresponding author), Indiana Univ, Dept Sociol, Ballantine Hall 744,1020 E Kirkwood Ave, Bloomington, IN 47405 USA.
+EM ehernan@indiana.edu
+FU Foundation for Informed Medical Decision Making; National Science
+   Foundation; National Institute of Child Health and Human Development [1
+   F32 HD070595-01]; Children, Youth and Family Consortium at the
+   University of Minnesota; Department of Sociology at the University of
+   Minnesota; Graduate School Thesis Research Grant at the University of
+   Minnesota
+FX We are very grateful to John Robert Warren, Phyllis Moen, Bernice
+   Pescosolido, Robert Hummer, David Knoke, Andrew Halpern-Manners, Mark
+   Hayward, Michael Davern, Kathleen Call, Eric Grodsky, J. Michael Oakes,
+   Jeylan Mortimer, Debra Umberson, Chris Uggen, Jeremy Freese, Brea Perry,
+   Fabio Rojas, Ann McCranie and Ross MacMillan for their assistance and
+   feedback on various aspects of this research. We would also like to
+   acknowledge Helen Ding and James A. Singleton at the Centers for Disease
+   Control and Prevention. This study was supported by the Department of
+   Sociology, the Graduate School Thesis Research Grant and the Children,
+   Youth and Family Consortium at the University of Minnesota as well as
+   the Foundation for Informed Medical Decision Making, the National
+   Science Foundation, and the National Institute of Child Health and Human
+   Development (grant 1 F32 HD070595-01). We are also indebted to Laura
+   Cudzilo, Victoria Dutcher, Melissa Fousek, Molly Laney, Krista Reagan,
+   Sarah Simpson, Jane van Dis and Remy Wong for their research assistance,
+   advice about the medical accuracy of this study, and transcription as
+   well as the anonymous staff at four health care clinics. However, errors
+   and omissions are solely our responsibility.
+CR [Anonymous], 2008, SOCIAL CLASS
+   [Anonymous], NEW COMPANION MED SO
+   [Anonymous], 2018, American Community Survey - 1 Year Estimates
+   [Anonymous], 2009 H1N1 INFL VIR S
+   [Anonymous], 2005, ANN EC STAT
+   [Anonymous], MORBIDITY MORTALITY
+   [Anonymous], 2009, BEH RISK FACT SURV S
+   [Anonymous], 2017, SOCIAL CAPITAL, DOI DOI 10.4324/9781315129457-1
+   Asparouhov T., 2010, BAYESIAN ANAL LATENT
+   Asparouhov T., 2010, BAYESIAN ANAL USING
+   Bourdieu P, 2001, SOCIOLOGY OF ECONOMIC LIFE, SECOND EDITION, P96
+   Carpiano RM, 2006, SOC SCI MED, V62, P165, DOI 10.1016/j.socscimed.2005.05.020
+   Chang VW, 2009, J HEALTH SOC BEHAV, V50, P245, DOI 10.1177/002214650905000301
+   Christakis NA, 2008, NEW ENGL J MED, V358, P2249, DOI 10.1056/NEJMsa0706154
+   Coleman J.S., 1994, FDN SOCIAL THEORY
+   DiMaggio P, 2012, ANNU REV SOCIOL, V38, P93, DOI 10.1146/annurev.soc.012809.102545
+   Ding H, 2011, AM J OBSTET GYNECOL, V204, pS96, DOI 10.1016/j.ajog.2011.03.003
+   Doyle TJ, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0079040
+   Durkheim Emile., 1979, Suicide
+   Elo IT, 1996, SOC SCI MED, V42, P47, DOI 10.1016/0277-9536(95)00062-3
+   FELDMAN JJ, 1989, AM J EPIDEMIOL, V129, P919, DOI 10.1093/oxfordjournals.aje.a115225
+   Freese J, 2011, HANDB SOCIOL SOC RES, P67, DOI 10.1007/978-1-4419-7261-3_4
+   FREIDSON E, 1960, AM J SOCIOL, V65, P374, DOI 10.1086/222726
+   Frisbie WP, 2004, DEMOGRAPHY, V41, P773, DOI 10.1353/dem.2004.0030
+   Gilbert B C, 1999, Matern Child Health J, V3, P199, DOI 10.1023/A:1022325421844
+   Glied S, 2008, DEMOGRAPHY, V45, P741
+   Gortmaker SL, 1997, ANNU REV SOCIOL, V23, P147, DOI 10.1146/annurev.soc.23.1.147
+   Haas SA, 2010, J HEALTH SOC BEHAV, V51, P424, DOI 10.1177/0022146510386791
+   Hayes A. F., 2018, INTRO MEDIATION MODE
+   Hernandez EM, 2013, SOC SCI MED, V82, P35, DOI 10.1016/j.socscimed.2013.01.018
+   HOUSE JS, 1994, J HEALTH SOC BEHAV, V35, P213, DOI 10.2307/2137277
+   HOUSE JS, 1988, SCIENCE, V241, P540, DOI 10.1037/0003-066X.59.8.676
+   Hummer Robert A, 2013, Popul Bull, V68, P1
+   Kitagawa E.M., 1973, DIFFERENTIAL MORTALI
+   Knoke D., 2008, QUANTITATIVE APPL SO, V154
+   Kohler HP, 2001, DEMOGRAPHY, V38, P43, DOI 10.1353/dem.2001.0005
+   Lin N, 1999, ANNU REV SOCIOL, V25, P467, DOI 10.1146/annurev.soc.25.1.467
+   Lin N., 2000, Social capital: A theory of structure and action
+   LINK BG, 1995, J HEALTH SOC BEHAV, V35, P80, DOI 10.2307/2626958
+   Link BG, 1998, MILBANK Q, V76, P375, DOI 10.1111/1468-0009.00096
+   Link BG, 2002, AM J PUBLIC HEALTH, V92, P730, DOI 10.2105/AJPH.92.5.730
+   Liu KY, 2010, AM J SOCIOL, V115, P1387, DOI 10.1086/651448
+   Lutfey K, 2005, AM J SOCIOL, V110, P1326, DOI 10.1086/428914
+   Miech R, 2008, J HEALTH SOC BEHAV, V49, P352, DOI 10.1177/002214650804900308
+   Mirowsky J., 2003, ED SOCIAL STATUS HLT
+   Moen Phyllis., 2009, The Craft of Life Course Research, P258
+   Moore S, 2005, AM J PUBLIC HEALTH, V95, P1330, DOI 10.2105/AJPH.2004.046094
+   Moore S, 2014, J EPIDEMIOL COMMUN H, V68, P233, DOI 10.1136/jech-2013-202996
+   Muthén B, 2012, PSYCHOL METHODS, V17, P313, DOI 10.1037/a0026802
+   Newsome Kimberly, 2011, Morbidity and Mortality Weekly Report, V60, P1193
+   Nutbeam D, 2008, SOC SCI MED, V67, P2072, DOI 10.1016/j.socscimed.2008.09.050
+   Pampel FC, 2010, ANNU REV SOCIOL, V36, P349, DOI 10.1146/annurev.soc.012809.102529
+   Perry BL, 2015, SOC SCI MED, V125, P116, DOI 10.1016/j.socscimed.2013.12.033
+   Perry Perry BL. BL., Egocentric network analysis: Foundations, methods, and models
+   PESCOSOLIDO BA, 1992, AM J SOCIOL, V97, P1096, DOI 10.1086/229863
+   Pescosolido BA, 1998, SOC SCI MED, V46, P275, DOI 10.1016/S0277-9536(97)00160-3
+   Phelan JC, 2004, J HEALTH SOC BEHAV, V45, P265, DOI 10.1177/002214650404500303
+   Polonijo AN, 2013, SOC SCI MED, V82, P115, DOI 10.1016/j.socscimed.2012.12.020
+   Price J, 2009, J HEALTH ECON, V28, P1166, DOI 10.1016/j.jhealeco.2009.08.005
+   Putnam R., 1999, BOWLING ALONE
+   Siston AM, 2010, JAMA-J AM MED ASSOC, V303, P1517, DOI 10.1001/jama.2010.479
+   Song LJ, 2018, ELGAR COMPANION TO SOCIAL CAPITAL AND HEALTH, P233
+   Song LJ, 2017, SOCIOL PERSPECT, V60, P997, DOI 10.1177/0731121416680597
+   Song LJ, 2012, SOC NETWORKS, V34, P658, DOI 10.1016/j.socnet.2012.08.002
+   Song LJ, 2011, J HEALTH SOC BEHAV, V52, P478, DOI 10.1177/0022146511411921
+   Umberson D, 2010, J HEALTH SOC BEHAV, V51, pS54, DOI 10.1177/0022146510383501
+   Umberson D, 2010, ANNU REV SOCIOL, V36, P139, DOI 10.1146/annurev-soc-070308-120011
+   Valente TW, 1996, SOC NETWORKS, V18, P69, DOI 10.1016/0378-8733(95)00256-1
+   Yang S, 2014, INT J EPIDEMIOL, V43, P1284, DOI 10.1093/ije/dyu051
+NR 69
+TC 9
+Z9 10
+U1 3
+U2 12
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JUL
+PY 2019
+VL 58
+BP 156
+EP 167
+DI 10.1016/j.socnet.2019.03.002
+PG 12
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA IF1BX
+UT WOS:000472813200013
+PM 31186600
+OA Green Accepted, Bronze
+DA 2024-11-22
+ER

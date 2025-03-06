@@ -1,0 +1,619 @@
+
+PT J
+AU Shirado, H
+   Crawford, FW
+   Christakis, NA
+AF Shirado, Hirokazu
+   Crawford, Forrest W.
+   Christakis, Nicholas A.
+TI Collective communication and behaviour in response to uncertain 'Danger'
+   in network experiments
+SO PROCEEDINGS OF THE ROYAL SOCIETY A-MATHEMATICAL PHYSICAL AND ENGINEERING
+   SCIENCES
+LA English
+DT Article
+DE social coordination under uncertainty; collective intelligence;
+   information diffusion; communication network; social experiments
+ID ANIMAL GROUPS; COORDINATION; EVACUATION; INEQUALITY; DYNAMICS; SPREAD;
+   MODEL
+AB In emergencies, social coordination is especially challenging. People connected with each other may respond better or worse to an uncertain danger than isolated individuals. We performed experiments involving a novel scenario simulating an unpredictable situation faced by a group in which 2480 subjects in 108 groups had to both communicate information and decide whether to 'evacuate'. We manipulated the permissible sorts of interpersonal communication and varied group topology and size. Compared to groups of isolated individuals, we find that communication networks suppress necessary evacuations because of the spontaneous and diffuse emergence of false reassurance; yet, communication networks also restrain unnecessary evacuations in situations without disasters. At the individual level, subjects have thresholds for responding to social information that are sensitive to the negativity, but not the actual accuracy, of the signals being transmitted. Social networks can function poorly as pathways for inconvenient truths that people would rather ignore.
+C1 [Shirado, Hirokazu] Carnegie Mellon Univ, Sch Comp Sci, Pittsburgh, PA 15213 USA.
+   [Crawford, Forrest W.; Christakis, Nicholas A.] Yale Univ, Yale Inst Network Sci, New Haven, CT 06520 USA.
+   [Christakis, Nicholas A.] Yale Univ, Dept Sociol, New Haven, CT 06520 USA.
+   [Crawford, Forrest W.] Yale Sch Publ Hlth, Dept Biostat, New Haven, CT 06510 USA.
+C3 Carnegie Mellon University; Yale University; Yale University; Yale
+   University
+RP Shirado, H (corresponding author), Carnegie Mellon Univ, Sch Comp Sci, Pittsburgh, PA 15213 USA.
+EM shirado@cmu.edu
+OI Shirado, Hirokazu/0000-0003-4545-7859
+FU Robert Wood Johnson Foundation; Tata Sons Limited; Tata Consultancy
+   Services Limited; Tata Chemicals Limited; Nomis foundation; National
+   Institute of Social Sciences; NIH [NICHD 1DP2HD091799-01]
+FX Support was provided by grants from the Robert Wood Johnson Foundation,
+   Tata Sons Limited, Tata Consultancy Services Limited, Tata Chemicals
+   Limited, the Nomis foundation, and the National Institute of Social
+   Sciences. F.W.C. was funded by NIH grant no. NICHD 1DP2HD091799-01.
+CR Albert R, 2000, NATURE, V406, P378, DOI 10.1038/35019019
+   BANERJEE AV, 1992, Q J ECON, V107, P797, DOI 10.2307/2118364
+   Barash V, 2012, SOC NETWORKS, V34, P451, DOI 10.1016/j.socnet.2012.02.003
+   BIKHCHANDANI S, 1992, J POLIT ECON, V100, P992, DOI 10.1086/261849
+   Bode NWF, 2012, BEHAV ECOL SOCIOBIOL, V66, P835, DOI 10.1007/s00265-012-1331-6
+   Broniatowski DA, 2018, AM J PUBLIC HEALTH, V108, P1378, DOI 10.2105/AJPH.2018.304567
+   Castillo C, 2016, BIG CRISIS DATA: SOCIAL MEDIA IN DISASTERS AND TIME-CRITICAL SITUATIONS
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   COOPER R, 1992, Q J ECON, V107, P739, DOI 10.2307/2118488
+   Couzin ID, 2005, NATURE, V433, P513, DOI 10.1038/nature03236
+   Dasgupta P, 2005, AM ECON REV, V95, P1290, DOI 10.1257/0002828054825637
+   Drabek T.E., 1986, HUMAN SYSTEM RESPONS
+   Ellingsen T, 2010, AM ECON REV, V100, P1695, DOI 10.1257/aer.100.4.1695
+   Erdos P., 1959, PUBL MATH-DEBRECEN, V6, P290
+   Fisher LD, 1999, ANNU REV PUBL HEALTH, V20, P145, DOI 10.1146/annurev.publhealth.20.1.145
+   Flack A, 2015, J R SOC INTERFACE, V12, DOI 10.1098/rsif.2015.0213
+   Friedkin NE, 2017, P NATL ACAD SCI USA, V114, P11380, DOI 10.1073/pnas.1710603114
+   Fu F, 2017, SCI REP-UK, V7, DOI 10.1038/srep43634
+   Galton F, 1907, NATURE, V75, P450, DOI 10.1038/075450a0
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Hall SS, 2011, NATURE, V477, P264, DOI 10.1038/477264a
+   Heide EAD, 2004, 1 HOURS COMMUNITY AP
+   Helbing D, 2015, J STAT PHYS, V158, P735, DOI 10.1007/s10955-014-1024-9
+   KAHNEMAN D, 1991, J ECON PERSPECT, V5, P193, DOI 10.1257/jep.5.1.193
+   Kurvers RHJM, 2014, BEHAV ECOL SOCIOBIOL, V68, P449, DOI 10.1007/s00265-013-1659-6
+   Larson HJ, 2016, EBIOMEDICINE, V12, P295, DOI 10.1016/j.ebiom.2016.08.042
+   Lindell MK, 2012, RISK ANAL, V32, P616, DOI 10.1111/j.1539-6924.2011.01647.x
+   Lofgren ET, 2007, LANCET INFECT DIS, V7, P625, DOI 10.1016/S1473-3099(07)70212-8
+   Lorenz J, 2011, P NATL ACAD SCI USA, V108, P9020, DOI 10.1073/pnas.1008636108
+   Maddock J., 2014, ICONFERENCE 2014 P B, P654, DOI [DOI 10.9776/14308, 10.9776/14308]
+   Moussaïd M, 2016, SCI REP-UK, V6, DOI 10.1038/srep33417
+   Moussaid M, 2015, P NATL ACAD SCI USA, V112, P5631, DOI 10.1073/pnas.1421883112
+   Onnela JP, 2007, P NATL ACAD SCI USA, V104, P7332, DOI 10.1073/pnas.0610245104
+   Peysakhovich A, 2014, NAT COMMUN, V5, DOI 10.1038/ncomms5939
+   Phan TQ, 2015, P NATL ACAD SCI USA, V112, P6595, DOI 10.1073/pnas.1404770112
+   Rand DG, 2012, J THEOR BIOL, V299, P172, DOI 10.1016/j.jtbi.2011.03.004
+   Regnier E, 2008, MANAGE SCI, V54, P16, DOI 10.1287/mnsc.1070.0764
+   Ripley A., 2009, The Unthinkable
+   Rosenthal SB, 2015, P NATL ACAD SCI USA, V112, P4690, DOI 10.1073/pnas.1420068112
+   Salganik MJ, 2006, SCIENCE, V311, P854, DOI 10.1126/science.1121066
+   Shakya HB, 2015, SOC SCI MED, V125, P129, DOI 10.1016/j.socscimed.2014.03.009
+   Shirado H, 2017, NATURE, V545, P370, DOI 10.1038/nature22332
+   Small M., 2017, SOMEONE TO TALK TO
+   Solnit Rebecca, 2009, A Paradise Built in Hell: The Extraordinary Communities that Arise in Disaster
+   Takayasu M, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0121443
+   Tavoni A, 2011, P NATL ACAD SCI USA, V108, P11825, DOI 10.1073/pnas.1102493108
+   Thomas KA, 2017, COMPUT HUM BEHAV, V77, P184, DOI 10.1016/j.chb.2017.08.038
+   Thompson RR, 2017, RISK ANAL, V37, P812, DOI 10.1111/risa.12654
+   Törnberg P, 2018, PLOS ONE, V13, DOI 10.1371/journal.pone.0203958
+   TVERSKY A, 1974, SCIENCE, V185, P1124, DOI 10.1126/science.185.4157.1124
+   Vosoughi S, 2018, SCIENCE, V359, P1146, DOI 10.1126/science.aap9559
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Wolf M, 2013, P ROY SOC B-BIOL SCI, V280, DOI 10.1098/rspb.2012.2777
+   Wu JC, 2018, STAT MED, V37, P2561, DOI 10.1002/sim.7658
+   Zhang RX, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0110848
+NR 55
+TC 8
+Z9 8
+U1 4
+U2 22
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 1364-5021
+EI 1471-2946
+J9 P ROY SOC A-MATH PHY
+JI Proc. R. Soc. A-Math. Phys. Eng. Sci.
+PD MAY 27
+PY 2020
+VL 476
+IS 2237
+AR 20190685
+DI 10.1098/rspa.2019.0685
+PG 19
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA LU6TM
+UT WOS:000537885600008
+PM 32518501
+OA Green Published, hybrid
+DA 2024-11-22
+ER
+
+PT J
+AU Lorenz, G
+   Boda, Z
+   Salikutluk, Z
+   Jansen, M
+AF Lorenz, Georg
+   Boda, Zsofia
+   Salikutluk, Zerrin
+   Jansen, Malte
+TI Social influence or selection? Peer effects on the development of
+   adolescents' educational expectations in Germany
+SO BRITISH JOURNAL OF SOCIOLOGY OF EDUCATION
+LA English
+DT Article
+DE Educational expectations; peer effects; social network analysis; ability
+   tracking; adolescence; multilevel SAOMs
+ID INTERPERSONAL INFLUENCES; ACHIEVEMENT PARADOX; FRIENDSHIP; NETWORKS;
+   ASPIRATIONS; SEGREGATION; DECISIONS; ATTITUDES; CONTEXTS; CREATION
+AB Educational expectations are a key predictor of educational attainment. Throughout adolescence, friends increasingly function as 'significant others' and, thus, can affect the development of these expectations. Although scholars often interpret the clustering of students with similar expectations within friendship networks as the outcome of peer influence, a similarity of friends can also be a result of friendship selection processes and preselection due to ability tracking. We apply multilevel social network models to panel data of adolescents from Germany (1,992 ninth-grade students in 91 classes) to disentangle these mechanisms. Beyond selecting similar friends (homophily), we find that adolescents adapt their expectations towards the average expectations of their friends (social influence) but only in secondary-school tracks that support diverse educational paths. We conclude that peer socialization is important for the development of students' educational expectations in contexts that are sufficiently heterogeneous to allow for the emergence of distinct peer milieus.
+C1 [Lorenz, Georg; Jansen, Malte] Humboldt Univ, Inst Educ Qual Improvement IQB, Berlin, Germany.
+   [Boda, Zsofia] Swiss Fed Inst Technol, Chair Social Networks, Zurich, Switzerland.
+   [Boda, Zsofia] UCL, Inst Educ, London, England.
+   [Salikutluk, Zerrin] Humboldt Univ, Chair Migrat & Gender, Berlin, Germany.
+   [Salikutluk, Zerrin] Berlin Inst Integrat & Migrat Res BIM, Berlin, Germany.
+   [Jansen, Malte] Ctr Int Student Assessment ZIB, Munich, Germany.
+C3 Humboldt University of Berlin; Swiss Federal Institutes of Technology
+   Domain; ETH Zurich; University of London; University College London; UCL
+   Institute of Education; Humboldt University of Berlin
+RP Lorenz, G (corresponding author), Humboldt Univ, Inst Educ Qual Improvement IQB, Berlin, Germany.
+EM Georg.Lorenz@iqb.hu-berlin.de
+RI Jansen, Malte/LLM-9494-2024; Lorenz, Georg/JXL-8637-2024
+OI , Georg/0000-0001-6814-6901
+FU Volkswagen Foundation (project ISONET) [93 489]
+FX The authors acknowledge financial support from the Volkswagen Foundation
+   (project ISONET, funding number 93 489). The responsibility for the
+   content of this publication lies with the authors.
+CR Alvarado SE, 2012, SOC SCI RES, V41, P1451, DOI 10.1016/j.ssresearch.2012.05.017
+   Andrew M, 2017, SOC SCI RES, V61, P218, DOI 10.1016/j.ssresearch.2016.06.016
+   Andrew M, 2011, SOC FORCES, V90, P497, DOI 10.1093/sf/sor005
+   [Anonymous], 1987, WERE THEY PUSHED DID, DOI DOI 10.1017/CBO9780511735868
+   Azoulay P, 2017, AM J SOCIOL, V122, P1223, DOI 10.1086/689890
+   Block P, 2014, NETW SCI, V2, P189, DOI 10.1017/nws.2014.17
+   Block P, 2015, SOC NETWORKS, V40, P163, DOI 10.1016/j.socnet.2014.10.005
+   Boda Z, 2019, EUR SOCIOL REV, V35, P567, DOI 10.1093/esr/jcz019
+   Boda Z, 2018, SOCIOL SCI, V5, P29, DOI 10.15195/v5.a3
+   Bodovski K, 2014, BRIT J SOCIOL EDUC, V35, P389, DOI 10.1080/01425692.2013.776932
+   Bozick R, 2010, SOC FORCES, V88, P2027
+   Breen R, 1999, RATION SOC, V11, P463, DOI 10.1177/104346399011004005
+   Breen R, 1997, RATION SOC, V9, P275, DOI 10.1177/104346397009003002
+   Breen R, 2014, EUR SOCIOL REV, V30, P258, DOI 10.1093/esr/jcu039
+   Buchmann C, 2002, SOCIOL EDUC, V75, P99, DOI 10.2307/3090287
+   Carbonaro W, 2016, SOC SCI RES, V58, P184, DOI 10.1016/j.ssresearch.2016.02.005
+   Carolan BV, 2015, SOCIOL PERSPECT, V58, P168, DOI 10.1177/0731121414562967
+   Cheng S, 2002, SOCIOL EDUC, V75, P306, DOI 10.2307/3090281
+   Cialdini RB, 2004, ANNU REV PSYCHOL, V55, P591, DOI 10.1146/annurev.psych.55.090902.142015
+   CILS4EU, 2014, TECHNICAL REPORT
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   Crosnoe R, 2003, SOCIOL PERSPECT, V46, P331, DOI 10.1525/sop.2003.46.3.331
+   Crosnoe R, 2008, CHILD DEV, V79, P139, DOI 10.1111/j.1467-8624.2007.01116.x
+   DAVIS JA, 1967, HUM RELAT, V20, P181, DOI 10.1177/001872676702000206
+   DiMaggio P, 2012, ANNU REV SOCIOL, V38, P93, DOI 10.1146/annurev.soc.012809.102545
+   Dollmann Jorg, 2014, 156 ZENTR EUR SOZ
+   Domina T, 2011, SOCIOL EDUC, V84, P93, DOI 10.1177/1941406411401808
+   Downey DB, 2009, SOCIOL EDUC, V82, P1, DOI 10.1177/003804070908200101
+   Festinger L, 1954, HUM RELAT, V7, P117, DOI 10.1177/001872675400700202
+   Flashman J, 2014, SOCIOL SCI, V1, P260, DOI 10.15195/v1.a17
+   Flashman J, 2012, SOCIOL EDUC, V85, P61, DOI 10.1177/0038040711417014
+   Frank KA, 2008, AM J SOCIOL, V113, P1645, DOI 10.1086/587153
+   GELMAN A., 2013, Texts in statistical science, V3rd, DOI [DOI 10.1201/B16018, 10.1201/b16018]
+   Gremmen MC, 2017, DEV PSYCHOL, V53, P1356, DOI 10.1037/dev0000314
+   Heider F, 1946, J PSYCHOL, V21, P107, DOI 10.1080/00223980.1946.9917275
+   Huisman M, 2008, SOC NETWORKS, V30, P297, DOI 10.1016/j.socnet.2008.04.004
+   Jacob BA, 2011, WHITHER OPPORTUNITY?: RISING INEQUALITY, SCHOOLS, AND CHILDREN'S LIFE CHANCES, P133
+   Kalter Frank, 2017, CHILDREN IMMIGRANTS
+   Kao G, 1998, AM J EDUC, V106, P349, DOI 10.1086/444188
+   Kiuru N, 2007, J YOUTH ADOLESCENCE, V36, P995, DOI 10.1007/s10964-006-9118-6
+   Koskinen Johan, 2020, UNPUB
+   Kretschmer D, 2018, SOC NETWORKS, V52, P251, DOI 10.1016/j.socnet.2017.09.003
+   Kruse Hanno, 2016, WAVE120102011
+   Kruse Hanno, 2016, WAVE220112012
+   LARSON R, 1991, CHILD DEV, V62, P284, DOI 10.1111/j.1467-8624.1991.tb01531.x
+   Lin Nan., 2002, Social capital
+   Lomi A, 2011, SOC SCI RES, V40, P1506, DOI 10.1016/j.ssresearch.2011.06.010
+   Manski CF, 2004, ECONOMETRICA, V72, P1329, DOI 10.1111/j.1468-0262.2004.00537.x
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Moody J, 2001, AM J SOCIOL, V107, P679, DOI 10.1086/338954
+   Morgan S. L., 2007, BLACKWELL ENCY SOCIO, DOI [10.1002/9781405165518.wbeose085, DOI 10.1002/9781405165518.WBEOSE085]
+   Morgan S.L., 2005, On the edge of commitment: Educational attainment and race in the United States
+   Morgan SL, 2002, RATION SOC, V14, P387, DOI 10.1177/1043463102014004001
+   Mouw T, 2006, AM J SOCIOL, V112, P394, DOI 10.1086/506415
+   Raabe IJ, 2019, EUR SOCIOL REV, V35, P1, DOI 10.1093/esr/jcy048
+   Ripley R.M., 2020, MANUAL RSIENA
+   Roth T, 2017, RES SOC STRAT MOBIL, V48, P68, DOI 10.1016/j.rssm.2016.12.001
+   Roth T, 2012, BRIT J SOCIOL EDUC, V33, P701, DOI 10.1080/01425692.2012.668835
+   Ryan AM, 2001, CHILD DEV, V72, P1135, DOI 10.1111/1467-8624.00338
+   Salikutluk Z, 2016, EUR SOCIOL REV, V32, P581, DOI 10.1093/esr/jcw004
+   SEWELL WH, 1969, AM SOCIOL REV, V34, P82, DOI 10.2307/2092789
+   SEWELL WH, 1970, AM SOCIOL REV, V35, P1014, DOI 10.2307/2093379
+   Shalizi CR, 2011, SOCIOL METHOD RES, V40, P211, DOI 10.1177/0049124111404820
+   Smith S, 2014, SOC NETWORKS, V39, P33, DOI 10.1016/j.socnet.2014.04.003
+   Snijders TAB, 2001, SOCIOL METHODOL, V31, P361, DOI 10.1111/0081-1750.00099
+   Snijders TAB, 2017, ANNU REV STAT APPL, V4, P343, DOI 10.1146/annurev-statistics-060116-054035
+   Snijders TAB, 2010, SOC NETWORKS, V32, P44, DOI 10.1016/j.socnet.2009.02.004
+   Snijders Tom A. B., 2018, HOMOPHILY INCORPORAT
+   Sokatch A, 2006, EDUC URBAN SOC, V39, P128, DOI 10.1177/0013124506291783
+   Steglich C, 2010, SOCIOL METHODOL, V40, P329, DOI 10.1111/j.1467-9531.2010.01225.x
+   UNESCO, 2012, International standard classification of education 2011
+   WEINSTEIN CS, 1991, ANNU REV PSYCHOL, V42, P493
+   Wimmer A, 2010, AM J SOCIOL, V116, P583, DOI 10.1086/653658
+NR 73
+TC 38
+Z9 42
+U1 5
+U2 52
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0142-5692
+EI 1465-3346
+J9 BRIT J SOCIOL EDUC
+JI Br. J. Sociol. Educ.
+PD JUL 3
+PY 2020
+VL 41
+IS 5
+BP 643
+EP 669
+DI 10.1080/01425692.2020.1763163
+EA MAY 2020
+PG 27
+WC Education & Educational Research; Sociology
+WE Social Science Citation Index (SSCI)
+SC Education & Educational Research; Sociology
+GA NA5EK
+UT WOS:000545118000001
+DA 2024-11-22
+ER
+
+PT J
+AU Ylä-Anttila, T
+   Gronow, A
+   Karimo, A
+   Goodman, J
+   da Rimini, F
+AF Yla-Anttila, Tuomas
+   Gronow, Antti
+   Karimo, Aasa
+   Goodman, James
+   da Rimini, Francesca
+TI Breaking the Treadmill? Climate Change Policy Networks and the Prospects
+   for Low Carbon Futures in Australia and Finland
+SO SOCIETY & NATURAL RESOURCES
+LA English
+DT Article
+DE Advocacy Coalition Framework; climate change; policy change; policy
+   networks; treadmill of production
+ID ADVOCACY COALITION FRAMEWORK; TRANSITIONS; BROKERAGE; POLITICS; DRIVERS;
+   AFRAID; POWER
+AB The Treadmill of Production Theory (TPT) argues that in advanced capitalist societies, business organizations, trade unions, and state actors form a constellation that prioritizes economic growth over environmental concerns. We combine this perspective with the Advocacy Coalition Framework (ACF) and use methods of social network analysis, survey data on key organizations in Finland and Australia, and in-depth interviews to map the policy network structures that resist low carbon transitions, and identify potential for change in these structures. We find that a coalition of economic, labor, and governmental organizations resists a low carbon transition in both countries. However, we also find several possible avenues of incremental change through changes in the network structures and the beliefs held by actors in the networks. Theoretically, this suggests that the TPT is correct in its diagnosis of the current situation, but the ACF may be a more fruitful perspective for identifying potential for change.
+C1 [Yla-Anttila, Tuomas; Gronow, Antti; Karimo, Aasa] Univ Helsinki, Fac Social Sci, POB 54, Helsinki 00014, Finland.
+   [Goodman, James; da Rimini, Francesca] Univ Technol Sydney, Fac Arts & Social Sci, Sydney, NSW, Australia.
+C3 University of Helsinki; University of Technology Sydney
+RP Ylä-Anttila, T (corresponding author), Univ Helsinki, Fac Social Sci, POB 54, Helsinki 00014, Finland.
+EM tuomas.yla-anttila@helsinki.fi
+RI ; Goodman, James/M-7803-2015
+OI da Rimini, Francesca/0000-0003-2080-0198; Yla-Anttila,
+   Tuomas/0000-0002-6908-3495; Goodman, James/0000-0003-3211-3416
+CR [Anonymous], 2019, CLIM CHANG PERF IND
+   Ansell C, 2009, POLICY STUD J, V37, P717, DOI 10.1111/j.1541-0072.2009.00332.x
+   Baer HA, 2016, ENERG POLICY, V99, P194, DOI 10.1016/j.enpol.2016.05.033
+   Blondel VD, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/10/P10008
+   Brockhaus M, 2014, ECOL SOC, V19, DOI 10.5751/ES-06643-190414
+   Bulkeley H, 2000, ENVIRON PLANN C, V18, P727, DOI 10.1068/c9905j
+   Cranmer SJ, 2017, AM J POLIT SCI, V61, P237, DOI 10.1111/ajps.12263
+   Crowley K, 2013, WIRES CLIM CHANGE, V4, P603, DOI 10.1002/wcc.239
+   DEE, 2018, Q UPD AUSTR NAT GREE
+   Dunlap RileyE., 2015, Climate Change and Society: Sociological Perspectives
+   EEA (European Environmental Agency), 2018, GREENH GAS EM PER CA
+   Finnegan, 2019, 353 CTR CLIM CHANG E
+   Fischer M, 2015, SOC NETWORKS, V42, P60, DOI 10.1016/j.socnet.2015.02.008
+   Geels FW, 2002, RES POLICY, V31, P1257, DOI 10.1016/S0048-7333(02)00062-8
+   Gould KA, 2004, ORGAN ENVIRON, V17, P296, DOI 10.1177/1086026604268747
+   Gronow A, 2019, ENVIRON POLIT, V28, P1061, DOI 10.1080/09644016.2019.1625149
+   Gronow A, 2019, POLICY STUD J, V47, P854, DOI 10.1111/psj.12185
+   Harrison Kathryn., 2010, Global Commons, Domestic Decisions: The Comparative Politics of Climate Change
+   Hildén M, 2011, J CLEAN PROD, V19, P1798, DOI 10.1016/j.jclepro.2011.05.004
+   Howes M, 2015, J ENVIRON PLANN MAN, V58, P757, DOI 10.1080/09640568.2014.891974
+   Hudson M, 2017, ENERGY RES SOC SCI, V28, P11, DOI 10.1016/j.erss.2017.03.014
+   Ingold K, 2017, POLICY STUD J, V45, P442, DOI 10.1111/psj.12173
+   Ingold K, 2012, J PUBL ADM RES THEOR, V22, P319, DOI 10.1093/jopart/mur035
+   Ingold K, 2011, POLICY STUD J, V39, P435, DOI 10.1111/j.1541-0072.2011.00416.x
+   JenkinsSmith H.C., 2014, THEORIES POLICY PROC, V3, P183
+   Kankare M., 2019, KAUPPALEHTI 0503
+   Keohane RO, 2015, PS-POLIT SCI POLIT, V48, P19, DOI 10.1017/S1049096514001541
+   Kerkkanen A., 2010, THESIS
+   Köhler J, 2019, ENVIRON INNOV SOC TR, V31, P1, DOI 10.1016/j.eist.2019.01.004
+   Kriesi H, 2006, J EUR PUBLIC POLICY, V13, P341, DOI 10.1080/13501760500528803
+   Kukkonen A, 2017, PUBLIC ADMIN, V95, P713, DOI 10.1111/padm.12321
+   Lachapelle E, 2013, CLIM POLICY, V13, P547, DOI 10.1080/14693062.2013.811333
+   Leifeld P, 2013, POLICY STUD J, V41, P169, DOI 10.1111/psj.12007
+   Leifeld P, 2012, AM J POLIT SCI, V56, P731, DOI 10.1111/j.1540-5907.2011.00580.x
+   Lijphart Arend., 1999, PATTERNS DEMOCRACY
+   Markard J, 2016, ENVIRON INNOV SOC TR, V18, P215, DOI 10.1016/j.eist.2015.05.003
+   Meckling J, 2017, NAT ENERGY, V2, P918, DOI 10.1038/s41560-017-0025-8
+   Meckling J, 2015, SCIENCE, V349, P1170, DOI 10.1126/science.aab1336
+   Moschitz H, 2009, FOOD POLICY, V34, P258, DOI 10.1016/j.foodpol.2009.03.007
+   Przeworski A., 1970, LOGIC COMP SOCIAL IN
+   Rip A., 1998, HUMAN CHOICE CLIMATE, P327, DOI DOI 10.1007/BF02887432
+   Ruostetsaari I, 2010, REV POLICY RES, V27, P273, DOI 10.1111/j.1541-1338.2010.00442.x
+   Sabatier PA, 1998, J EUR PUBLIC POLICY, V5, P98, DOI 10.1080/13501768880000051
+   Schmidt TS, 2017, NAT ENERGY, V2, DOI 10.1038/nenergy.2017.84
+   Schnaiberg A., 1994, ENV SOC ENDURING CON
+   Schnaiberg A., 1980, ENV SURPLUS SCARCITY
+   Teräväinen T, 2010, ENVIRON POLIT, V19, P196, DOI 10.1080/09644010903574475
+   UNFCCC, 2019, WINN 2019 UN GLOB CL
+   Unruh GC, 2000, ENERG POLICY, V28, P817, DOI 10.1016/S0301-4215(00)00070-7
+   Wagner P, 2018, ENVIRON POLIT, V27, P872, DOI 10.1080/09644016.2018.1458406
+   Weible C. M., 2019, POLICY STUDIES J, DOI 10.1111/psj.12360
+   Wright EO, 2004, ORGAN ENVIRON, V17, P317, DOI 10.1177/1086026604267937
+   Ylä-Anttila T, 2018, ENERGY RES SOC SCI, V45, P258, DOI 10.1016/j.erss.2018.06.020
+   Yun SJ, 2014, CLIM POLICY, V14, P283, DOI 10.1080/14693062.2013.831240
+NR 54
+TC 10
+Z9 11
+U1 2
+U2 13
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 0894-1920
+EI 1521-0723
+J9 SOC NATUR RESOUR
+JI Soc. Nat. Resour.
+PD NOV 1
+PY 2020
+VL 33
+IS 11
+BP 1380
+EP 1398
+DI 10.1080/08941920.2020.1802540
+EA AUG 2020
+PG 19
+WC Development Studies; Environmental Studies; Regional & Urban Planning;
+   Sociology
+WE Social Science Citation Index (SSCI)
+SC Development Studies; Environmental Sciences & Ecology; Public
+   Administration; Sociology
+GA OP1ZJ
+UT WOS:000559543000001
+OA Green Published, hybrid
+DA 2024-11-22
+ER
+
+PT J
+AU Yang, RC
+   Bogdan, P
+AF Yang, Ruochen
+   Bogdan, Paul
+TI Controlling the Multifractal Generating Measures of Complex Networks
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID VISUALIZATION SYSTEM; SELF-SIMILARITY; CASCADE MODELS; FRACTALITY;
+   PROVIDES; WIJS
+AB Mathematical modelling of real complex networks aims to characterize their architecture and decipher their underlying principles. Self-repeating patterns and multifractality exist in many real-world complex systems such as brain, genetic, geoscience, and social networks. To better comprehend the multifractal behavior in the real networks, we propose the weighted multifractal graph model to characterize the spatiotemporal complexity and heterogeneity encoded in the interaction weights. We provide analytical tools to verify the multifractal properties of the proposed model. By varying the parameters in the initial unit square, the model can reproduce a diverse range of multifractal spectrums with different degrees of symmetry, locations, support and shapes. We estimate and investigate the weighted multifractal graph model corresponding to two real-world complex systems, namely (i) the chromosome interactions of yeast cells in quiescence and in exponential growth, and (ii) the brain networks of cognitively healthy people and patients exhibiting late mild cognitive impairment leading to Alzheimer disease. The analysis of recovered models show that the proposed random graph model provides a novel way to understand the self-similar structure of complex networks and to discriminate different network structures. Additionally, by mapping real complex networks onto multifractal generating measures, it allows us to develop new network design and control strategies, such as the minimal control of multifractal measures of real systems under different functioning conditions or states.
+C1 [Yang, Ruochen; Bogdan, Paul] Univ Southern Calif, Ming Hsieh Dept Elect & Comp Engn, Los Angeles, CA 90089 USA.
+C3 University of Southern California
+RP Bogdan, P (corresponding author), Univ Southern Calif, Ming Hsieh Dept Elect & Comp Engn, Los Angeles, CA 90089 USA.
+EM pbogdan@usc.edu
+RI Bogdan, Paul/ITT-2991-2023
+FU National Science Foundation Career award [CPS/CNS-1453860, CCF-1837131,
+   MCB-1936775, CNS-1932620]; U.S. Army Research Office (ARO)
+   [W911NF-17-1-0076]; Okawa Foundation award; Defense Advanced Research
+   Projects Agency (DARPA) [N6600117-1-4044]
+FX The authors gratefully acknowledge the support by the National Science
+   Foundation Career award under Grant No. CPS/CNS-1453860, CCF-1837131,
+   MCB-1936775, CNS-1932620, the U.S. Army Research Office (ARO) under
+   Grant No. W911NF-17-1-0076, the Okawa Foundation award, and the Defense
+   Advanced Research Projects Agency (DARPA) Young Faculty Award and
+   Director's Fellowship award under Grant No. N6600117-1-4044 support.
+   P.B. thanks to S. Stanton for insightful discussions on concepts related
+   to multifractals and complex networks that contributed to and inspired
+   this problem definition of controlling complex networks. The views,
+   opinions, and/or findings contained in this article are those of the
+   authors and should not be interpreted as representing the official views
+   or policies, either expressed or implied by the Defense Advanced
+   Research Projects Agency, the Air Force Research Lab, the Department of
+   Defense or the National Science Foundation.
+CR Agterberg FP, 2007, NONLINEAR PROC GEOPH, V14, P201, DOI 10.5194/npg-14-201-2007
+   Agterberg F, 2007, MATH GEOL, V39, P1, DOI 10.1007/s11004-006-9063-7
+   Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   Balaban V, 2018, SCI REP-UK, V8, DOI 10.1038/s41598-018-30654-9
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barch DM, 2013, NEUROIMAGE, V80, P169, DOI 10.1016/j.neuroimage.2013.05.033
+   Benson AR, 2018, P NATL ACAD SCI USA, V115, pE11221, DOI 10.1073/pnas.1800683115
+   Benson AR, 2014, PROCEEDINGS OF THE 20TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING (KDD'14), P1326, DOI 10.1145/2623330.2623718
+   Bian T, 2018, CHAOS, V28, DOI 10.1063/1.5030894
+   Boccaletti S, 2006, PHYS REP, V424, P175, DOI 10.1016/j.physrep.2005.10.009
+   Boccaletti S, 2014, PHYS REP, V544, P1, DOI 10.1016/j.physrep.2014.07.001
+   BOLLOBAS B, 1976, MATH PROC CAMBRIDGE, V80, P419, DOI 10.1017/S0305004100053056
+   Bunde A., 1996, FRACTALS DISORDERED
+   Cheng Q, 2014, NONLINEAR PROC GEOPH, V21, P477, DOI 10.5194/npg-21-477-2014
+   Cheng QM, 2005, MATH GEOL, V37, P915, DOI 10.1007/s11004-005-9223-1
+   de Wijs H. J., 1951, Journal of the Royal Netherlands Geological and Mining Society, New Series, V13, P365
+   Durand NC, 2016, CELL SYST, V3, P99, DOI 10.1016/j.cels.2015.07.012
+   ERDOS P, 1960, B INT STATIST INST, V38, P343
+   Erdos P., 1959, PUBL MATH-DEBRECEN, V6, P290
+   Ford A, 2009, MINER DEPOSITA, V44, P233, DOI 10.1007/s00126-008-0213-3
+   FRIEZE AM, 1990, DISCRETE MATH, V81, P171, DOI 10.1016/0012-365X(90)90149-C
+   Gallos LK, 2007, PHYSICA A, V386, P686, DOI 10.1016/j.physa.2007.07.069
+   Glasser MF, 2013, NEUROIMAGE, V80, P105, DOI 10.1016/j.neuroimage.2013.04.127
+   Joshi AA, 2018, NEUROIMAGE, V172, P740, DOI 10.1016/j.neuroimage.2018.01.058
+   Kim M., 2011, UAI
+   Kim M, 2010, LECT NOTES COMPUT SC, V6516, P62, DOI 10.1007/978-3-642-18009-5_7
+   Leskovec J., 2007, 24 INT C MACHINE LEA, V227, P497
+   Leskovec J, 2010, J MACH LEARN RES, V11, P985
+   Mahdian M, 2007, LECT NOTES COMPUT SC, V4863, P179
+   Mandelbrot B. B., 1983, FRACTAL GEOMETRY NAT, V173
+   MANDELBROT BB, 1989, PURE APPL GEOPHYS, V131, P5, DOI 10.1007/BF00874478
+   MARSHAK A, 1994, PHYS REV E, V49, P55, DOI 10.1103/PhysRevE.49.55
+   Mulet R, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.268701
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   Opsahl T, 2009, SOC NETWORKS, V31, P155, DOI 10.1016/j.socnet.2009.02.002
+   Palla G, 2010, P NATL ACAD SCI USA, V107, P7640, DOI 10.1073/pnas.0912983107
+   Pigolotti S., 2019, ARXIV190612090
+   Robinson JT, 2018, CELL SYST, V6, P256, DOI 10.1016/j.cels.2018.01.001
+   Rutledge MT, 2015, NUCLEIC ACIDS RES, V43, P8299, DOI 10.1093/nar/gkv723
+   Sia J, 2019, SCI REP-UK, V9, DOI 10.1038/s41598-019-46079-x
+   Smith SM, 2013, TRENDS COGN SCI, V17, P666, DOI 10.1016/j.tics.2013.09.016
+   Song CM, 2007, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2007/03/P03006
+   Song CM, 2006, NAT PHYS, V2, P275, DOI 10.1038/nphys266
+   Song CM, 2005, NATURE, V433, P392, DOI 10.1038/nature03248
+   van Berkum Nynke L, 2010, J Vis Exp, DOI 10.3791/1869
+   Van Laarhoven P. J., 1987, Simulated Annealing, DOI 10.1007/978-94-015-7744-1_2
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Wei B, 2019, PHYSICA A, V522, P80, DOI 10.1016/j.physa.2019.01.125
+   Wei DJ, 2013, SCI REP-UK, V3, DOI 10.1038/srep03049
+   Wen T, 2020, INFORM SCIENCES, V512, P549, DOI 10.1016/j.ins.2019.10.003
+   Wen T, 2019, COMMUN NONLINEAR SCI, V78, DOI 10.1016/j.cnsns.2019.104867
+   Xue YK, 2019, NAT COMMUN, V10, DOI 10.1038/s41467-019-09774-x
+   Xue YK, 2017, SCI REP-UK, V7, DOI 10.1038/s41598-017-07209-5
+NR 53
+TC 5
+Z9 5
+U1 0
+U2 6
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD MAR 26
+PY 2020
+VL 10
+IS 1
+AR 5541
+DI 10.1038/s41598-020-62380-6
+PG 13
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA LJ1MP
+UT WOS:000529936700001
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Wang, ZZ
+   O'Connell, PJ
+AF Wang, Zizhen
+   O'Connell, Philip J.
+TI Social Capital and Post-Graduation Destination: International Students
+   in Ireland
+SO ECONOMIC AND SOCIAL REVIEW
+LA English
+DT Article
+ID HIGHER-EDUCATION; STUDYING ABROAD; MIGRATION; MOBILITY; LABOR;
+   IMMIGRANTS; NETWORKS; UK; DETERMINANTS; MOTIVATIONS
+AB Drawing from social network theory, this study investigates the extent to which bonding and bridging social capital influence the likelihood of staying abroad or returning home after graduation among international students in Ireland. Bonding refers to co-national networks and is measured as the strength of ties and the abundance of resources with co-nationals or family members. Bridging implies crosscutting ties beyond ones co-national network and is measured as contacts with the locals or non-co-nationals. A survey was carried out among Irish university international alumni who graduated between 2014 and 2016. Our main findings suggest: (1) bridging social capital, particularly high-quality and with close bridging ties, are positively associated with the likelihood of staying abroad; (2) human capital, especially field of study and language ability, is positively associated with the likelihood of staying abroad. Policy implications are discussed.
+C1 [Wang, Zizhen; O'Connell, Philip J.] Univ Coll Dublin, Dublin, Ireland.
+C3 University College Dublin
+RP Wang, ZZ (corresponding author), Univ Coll Dublin, Dublin, Ireland.
+EM zizhen.wang1992@qq.com
+CR Alberts HC, 2013, INTERNATIONAL STUDENTS AND SCHOLARS IN THE UNITED STATES: COMING FROM ABROAD, P1, DOI 10.1057/9781137024473
+   [Anonymous], 2001, Social capital: theory and research
+   [Anonymous], 2017, The Irish Times
+   [Anonymous], 2014, MOBILITY STUDENTS HI
+   [Anonymous], 2018, GLOB FLOW TERT LEV S
+   Baruch Y, 2007, J WORLD BUS, V42, P99, DOI 10.1016/j.jwb.2006.11.004
+   Bauder H, 2003, ANTIPODE, V35, P699, DOI 10.1046/j.1467-8330.2003.00346.x
+   Becker G.S., 1964, Human capital theory
+   Beech SE, 2015, SOC CULT GEOGR, V16, P332, DOI 10.1080/14649365.2014.983961
+   Beech SE, 2014, AREA, V46, P170, DOI 10.1111/area.12096
+   Beine M, 2016, WORLD ECON, V39, P496, DOI 10.1111/twec.12265
+   Belfield C., 1999, HIGH ED Q, V53, P240, DOI DOI 10.1111/1468-2273.00129
+   Bian YJ, 1997, AM SOCIOL REV, V62, P366, DOI 10.2307/2657311
+   Bourdieu Pierre., 1984, DISTINCTION SOCIAL C, DOI DOI 10.1002/9780470755679.CH15
+   BOYD M, 1989, INT MIGR REV, V23, P638, DOI 10.2307/2546433
+   Brooks R, 2011, STUDENT MOBILITIES, MIGRATION AND THE INTERNATIONALIZATION OF HIGHER EDUCATION, P1, DOI 10.1057/9780230305588
+   Brooks R, 2010, GLOB SOC EDUC, V8, P143, DOI 10.1080/14767720903574132
+   Brooks R, 2009, J RES INT EDUC, V8, P191, DOI 10.1177/1475240909105204
+   BURT RS, 1984, SOC NETWORKS, V6, P293, DOI 10.1016/0378-8733(84)90007-8
+   Burt RS, 1997, SOC NETWORKS, V19, P355, DOI 10.1016/S0378-8733(97)00003-8
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   Coll R., 2006, Research in Science Technological Education, V24, P29
+   Collins FL, 2017, POPUL SPACE PLACE, V23, DOI 10.1002/psp.2029
+   Collins FL, 2008, GLOBAL NETW, V8, P398, DOI 10.1111/j.1471-0374.2008.00231.x
+   Constant AF, 2010, AIEL SER LABOUR ECON, P247, DOI 10.1007/978-3-7908-2164-2_10
+   Courtois A., 2018, SIGNIFICANCE INT STU
+   de Grip A, 2010, ECON INNOV NEW TECH, V19, P407, DOI 10.1080/10438590903434828
+   Doerschler P, 2006, SOC SCI QUART, V87, P1100, DOI 10.1111/j.1540-6237.2006.00418.x
+   Dustmann C, 2003, ECON J, V113, P695, DOI 10.1111/1468-0297.t01-1-00151
+   Findlay A, 2017, AREA, V49, P192, DOI 10.1111/area.12315
+   Findlay AM, 2012, T I BRIT GEOGR, V37, P118, DOI 10.1111/j.1475-5661.2011.00454.x
+   Findlay AM, 2011, INT MIGR, V49, P162, DOI 10.1111/j.1468-2435.2010.00643.x
+   Flap HendrikDerk., 2004, Creation and Returns of Social Capital, P20, DOI DOI 10.4324/9780203643648-11
+   Gerard M., 2015, MOBILITY STUDENTS HI
+   Gilmartin M., 2016, 80 NIRSA MAYN U
+   Gingras Y, 2000, CAN PUBLIC POL, V26, pS159, DOI 10.2307/3552510
+   Ginwright SA, 2007, AM BEHAV SCI, V51, P403, DOI 10.1177/0002764207306068
+   GRANOVETTER M, 1985, AM J SOCIOL, V91, P481, DOI 10.1086/228311
+   Granovetter M., 2018, GETTING JOB STUDY CO
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Guruz K., 2011, Higher education and international student mobility in the global knowledge economy
+   Guth J, 2008, J ETHN MIGR STUD, V34, P825, DOI 10.1080/13691830802106119
+   Han XF, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0117811
+   Haug S, 2008, J ETHN MIGR STUD, V34, P585, DOI 10.1080/13691830801961605
+   Hazelkorn E, 2014, STUD HIGH EDUC, V39, P1343, DOI 10.1080/03075079.2014.949540
+   Hazen HD, 2006, POPUL SPACE PLACE, V12, P201, DOI 10.1002/psp.409
+   Heath A., 2005, UNDERSTANDING SOCIAL, P187
+   Higher Education Authority, 2018, STAT ARCH
+   Higher Education Authority, 2016, HIGH ED SHEET INT
+   Hugo G.J., 1981, MIGRATION DECISION M, P186
+   Jallade J., 1997, STUDENT MOBILITY EUR
+   Kanas A, 2012, INT MIGR REV, V46, P680, DOI 10.1111/j.1747-7379.2012.00901.x
+   Kapur Devesh., 2005, GIVE US YOUR BEST BR
+   Kauppinen I, 2015, BRIT J SOCIOL EDUC, V36, P336, DOI 10.1080/01425692.2013.823833
+   Kawachi I, 1999, AM J PUBLIC HEALTH, V89, P1187, DOI 10.2105/AJPH.89.8.1187
+   Kawachi I., 2000, SOCIAL EPIDEMIOLOGY, V174, P290, DOI [DOI 10.1093/MED/9780195377903.003.0008, 10.1093/med/9780195377903.003.0008]
+   King R, 2018, GLOB SOC EDUC, V16, P176, DOI 10.1080/14767724.2017.1405244
+   King R, 2013, POPUL SPACE PLACE, V19, P127, DOI 10.1002/psp.1746
+   King R, 2003, MIGRATION AND IMMIGRANTS: BETWEEN POLICY AND REALITY, P155
+   King Russell., 1995, EUR URBAN REG STUD, V2, P21
+   Kofman E, 2006, ANTIPODE, V38, P282, DOI 10.1111/j.1467-8330.2006.00580.x
+   Lancee B, 2010, INT MIGR REV, V44, P202, DOI 10.1111/j.1747-7379.2009.00803.x
+   Lin N, 1999, ANNU REV SOCIOL, V25, P467, DOI 10.1146/annurev.soc.25.1.467
+   Lin N., 2017, CONNECTIONS, P3, DOI DOI 10.4324/9781315129457-1
+   Lin Nan., 2010, SOCIAL CAPITAL INT R
+   Massey D.S., 1999, J POLITICAL EC
+   Mazzarol T., 2002, INT J EDUC MANAG, V16, P82, DOI [10.1108/09513540210418403, DOI 10.1108/09513540210418403, https://doi.org/10.1108/09513540210418403]
+   Murphy-Lejeune E., 2002, STUDENT MOBILITY NAR, V1
+   Naidoo V, 2007, J RES INT EDUC, V6, P287, DOI 10.1177/1475240907083197
+   Nannestad P, 2008, J ETHN MIGR STUD, V34, P607, DOI 10.1080/13691830801961621
+   O'Leary S., 2013, HEA Journal Enhancing Learning in the Social Sciences, V5, P37, DOI DOI 10.11120/ELSS.2013.05010037
+   Oosterbeek H, 2011, ECONOMICA, V78, P347, DOI 10.1111/j.1468-0335.2009.00818.x
+   Organisation for Economic Co-operation and Development, 2013, IS INT STUD MOB SHAP
+   Parey M, 2011, ECON J, V121, P194, DOI 10.1111/j.1468-0297.2010.02369.x
+   Portes A, 1998, ANNU REV SOCIOL, V24, P1, DOI 10.1146/annurev.soc.24.1.1
+   PUTNAM R, 1995, J DEMOCRACY, V0006
+   Reitz JeffreyG., 2001, J INT MIGR INTEGR, V2, P347, DOI DOI 10.1007/S12134-001-1004-1
+   González CR, 2011, HIGH EDUC, V62, P413, DOI 10.1007/s10734-010-9396-5
+   SCHULTZ TW, 1961, AM ECON REV, V51, P1
+   SJAASTAD LA, 1962, J POLIT ECON, V70, P80, DOI 10.1086/258726
+   Sondhi G, 2017, J ETHN MIGR STUD, V43, P1308, DOI 10.1080/1369183X.2017.1300288
+   Soon JJ, 2012, J ETHN MIGR STUD, V38, P147, DOI 10.1080/1369183X.2012.640026
+   Todaro Michael P., 1976, Migration and Economic Development: A Review of Theory, Evidence, Methodology and Research Priorities
+   TODARO MP, 1987, POPUL DEV REV, V13, P101, DOI 10.2307/1972122
+   TODARO MP, 1969, AM ECON REV, V59, P138
+   TUCKMAN HP, 1970, SOUTHERN ECON J, V37, P184, DOI 10.2307/1056128
+   Waters J, 2011, POPUL SPACE PLACE, V17, P567, DOI 10.1002/psp.613
+   Wilson J, 1997, AM SOCIOL REV, V62, P694, DOI 10.2307/2657355
+   Wong BernardP., 2006, CHINESE SILICON VALL
+NR 89
+TC 4
+Z9 4
+U1 3
+U2 10
+PU ECONOMIC & SOCIAL STUDIES
+PI DUBLIN 2
+PA C/O ESRI, WHITAKER SQ, SIR JOHN ROGERSON'S QUAY, DUBLIN 2, 00000,
+   IRELAND
+SN 0012-9984
+J9 ECON SOC REV
+JI Econ. Soc. Rev.
+PD FAL
+PY 2020
+VL 52
+IS 3
+BP 381
+EP 406
+PG 26
+WC Economics; Sociology
+WE Social Science Citation Index (SSCI)
+SC Business & Economics; Sociology
+GA NV6AW
+UT WOS:000574402900002
+DA 2024-11-22
+ER

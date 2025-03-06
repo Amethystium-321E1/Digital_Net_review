@@ -1,0 +1,658 @@
+
+PT J
+AU Khadangi, E
+   Bagheri, A
+   Zarean, A
+AF Khadangi, Ehsan
+   Bagheri, Alireza
+   Zarean, Ali
+TI Empirical analysis of structural properties, macroscopic and microscopic
+   evolution of various Facebook activity networks
+SO QUALITY & QUANTITY
+LA English
+DT Article
+DE Social network analysis; Social media; Activity network; Structural
+   properties; Network evolution; Facebook
+ID DISTRIBUTIONS; CENTRALITY
+AB Recently, some works have been done in studying activity network as a more realistic representation of users' behavior in online social networks. However, there is a major deficiency of a suitable definition of activity network based on a comprehensive study of various activity networks separately and combined. The main purpose of our research is to understand the differences between users' behavior by various Facebook activities, so as to claim that these networks should not be blindly composed; neither should the result of analyzing each of them individually be generalized to others. For this purpose, degree distribution, small-world phenomenon, degree correlation, reciprocity, and homophily by different attributes of various activity networks are studied. Then, we study densification and shrinking diameter properties and some structural characteristics of activity networks over time. We also examine microscopic evolution of different activity networks. Ultimately, we conclude that there are some differences between users' behavior by various Facebook activities but all evolve almost similarly at macroscopic and microscopic levels. However, post network evolves considerably different from other activity networks. Accordingly, a comprehensive definition for activity network is suggested so that the results of analyzing the modeled activity network fit realistic data.
+C1 [Khadangi, Ehsan; Bagheri, Alireza] Amirkabir Univ Technol, Dept Comp Engn & Informat Technol, Tehran, Iran.
+   [Zarean, Ali] Sharif Univ Technol, Dept Comp Engn, Tehran, Iran.
+C3 Amirkabir University of Technology; Sharif University of Technology
+RP Khadangi, E (corresponding author), Amirkabir Univ Technol, Dept Comp Engn & Informat Technol, Tehran, Iran.
+EM khadangi@gmail.com
+RI Bagheri, Alireza/Y-2949-2019
+OI Bagheri, Alireza/0000-0002-3542-7763
+CR [Anonymous], 2010, IMC 2010 P
+   [Anonymous], COMP LINKAGE GRAPH A
+   [Anonymous], P INT C FDN COMP SCI
+   [Anonymous], 2015, ARXIV150204321
+   [Anonymous], 2009, Proceedings of the 18th international conference on World Wide Web (WWW)
+   [Anonymous], ICWSM
+   [Anonymous], 2011, 11114503 ARXIV
+   [Anonymous], 2011, P 34 INT ACM SIGIR C
+   [Anonymous], P 8 ACM SIGCOMM C IN
+   [Anonymous], 2010, NETWORKS INTRO, DOI [DOI 10.1093/ACPROF:OSO/9780199206650.001.0001, DOI 10.1093/cercor/bhj127]
+   Backstrom L., 2011, P 4 ACM INT C WEB SE, P635, DOI DOI 10.1145/1935826.1935914
+   Backstrom L, 2012, PROCEEDINGS OF THE 3RD ANNUAL ACM WEB SCIENCE CONFERENCE, 2012, P33
+   Bakshy E., 2012, P 21 INT C WORLD WID, P519, DOI DOI 10.1145/2187836.2187907
+   Baltar F, 2012, INTERNET RES, V22, P57, DOI 10.1108/10662241211199960
+   Catanese Salvatore., 2011, WIMS, P52, DOI DOI 10.1145/1988688.1988749
+   Chen HL, 2016, TELEMAT INFORM, V33, P432, DOI 10.1016/j.tele.2015.09.001
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Cohen R, 2003, PHYS REV LETT, V90, DOI 10.1103/PhysRevLett.90.058701
+   Corbellini Alejandro, 2012, Advances in New Technologies, Interactive Interfaces and Communicability. Second International Conference, ADNTIIC 2011. Revised Selected Papers, P114, DOI 10.1007/978-3-642-34010-9_11
+   Crucitti P, 2004, PHYSICA A, V340, P388, DOI 10.1016/j.physa.2004.04.031
+   Estrada E, 2012, PHYS REP, V514, P89, DOI 10.1016/j.physrep.2012.01.006
+   Fagiolo G, 2013, J ECON INTERACT COOR, V8, P75, DOI 10.1007/s11403-012-0104-7
+   Garlaschelli D, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.268701
+   Gilbert E, 2009, CHI2009: PROCEEDINGS OF THE 27TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, VOLS 1-4, P211
+   Gjoka M, 2011, IEEE J SEL AREA COMM, V29, P1893, DOI 10.1109/JSAC.2011.111012
+   Gjoka M, 2011, IEEE J SEL AREA COMM, V29, P1872, DOI 10.1109/JSAC.2011.111011
+   Gjoka M, 2010, IEEE INFOCOM SER, DOI 10.1109/infcom.2010.5462078
+   Golder SA, 2007, Communities and Technologies 2007, P41, DOI 10.1007/978-1-84628-905-7_3
+   Hu HB, 2009, PHYS LETT A, V373, P1105, DOI 10.1016/j.physleta.2009.02.004
+   Jiang J, 2013, ACM T WEB, V7, DOI 10.1145/2517040
+   Khadangi E, 2013, PROCEEDINGS OF THE 3RD INTERNATIONAL CONFERENCE ON COMPUTER AND KNOWLEDGE ENGINEERING (ICCKE 2013), P461, DOI 10.1109/ICCKE.2013.6682863
+   Khadangi E, 2013, PROCEEDINGS OF THE 3RD INTERNATIONAL CONFERENCE ON COMPUTER AND KNOWLEDGE ENGINEERING (ICCKE 2013), P466, DOI 10.1109/ICCKE.2013.6682864
+   Kivela M, 2014, J COMPLEX NETW, V2, P203, DOI 10.1093/comnet/cnu016
+   Klein A, 2015, TELEMAT INFORM, V32, P321, DOI 10.1016/j.tele.2014.09.008
+   Kleinberg J., 2000, Proceedings of the Thirty Second Annual ACM Symposium on Theory of Computing, P163, DOI 10.1145/335305.335325
+   Kruse K, 2013, NUCLEIC ACIDS RES, V41, P701, DOI 10.1093/nar/gks1096
+   Kumar R, 2010, LINK MINING: MODELS, ALGORITHMS, AND APPLICATIONS, P337, DOI 10.1007/978-1-4419-6515-8_13
+   Kurant M, 2011, IEEE J SEL AREA COMM, V29, P1799, DOI 10.1109/JSAC.2011.111005
+   Kurata M., 2010, 5th World Conference of Structural Control and Monitoring, P1, DOI DOI 10.1109/ITC.2010.5608727
+   Leskovec J., 2008, P 14 ACM SIGKDD INT, P462
+   Leskovec J., 2008, Proceedings of the 17th International Conference on World Wide Web, DOI 10.1145/1367497.1367620
+   Leskovec J, 2005, ACM SIGKDD C KNOWLED, P177
+   Lin CY, 2012, P IEEE, V100, P2759, DOI 10.1109/JPROC.2012.2203090
+   Macskassy S.A., 2012, ICWSM
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Myers S. A., 2012, Proceedings of the 18th ACM SIGKDD international conference on Knowledge discovery and data mining, P33
+   Nazir Atif., 2012, Proceedings of the 12th ACM SIGCOMM Conference on Internet Measurement, IMC '12, Boston, MA, USA, November 14-16, 2012, P467
+   Newman MEJ, 2006, P NATL ACAD SCI USA, V103, P8577, DOI 10.1073/pnas.0601602103
+   Newman MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444
+   Newman MEJ, 2003, PHYS REV E, V67, DOI 10.1103/PhysRevE.67.026126
+   Newman MEJ, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.208701
+   Nguyen V., 2010, Proceedings of the SIAM International Conference on Data Mining, P72
+   Opsahl T, 2010, SOC NETWORKS, V32, P245, DOI 10.1016/j.socnet.2010.03.006
+   Papadopoulos S, 2012, DATA MIN KNOWL DISC, V24, P515, DOI 10.1007/s10618-011-0224-z
+   Park SJ, 2016, TELEMAT INFORM, V33, P557, DOI 10.1016/j.tele.2015.08.004
+   Piraveenan M, 2012, IEEE ACM T COMPUT BI, V9, P66, DOI 10.1109/TCBB.2010.80
+   Rejaie R, 2010, IEEE NETWORK, V24, P32, DOI 10.1109/MNET.2010.5578916
+   Rezvanian A, 2016, COMPUT HUM BEHAV, V64, P621, DOI 10.1016/j.chb.2016.07.032
+   Rezvanian A, 2016, SOC NETW ANAL MIN, V6, DOI 10.1007/s13278-016-0371-8
+   Shahmohammadi A, 2016, NEUROCOMPUTING, V210, P217, DOI 10.1016/j.neucom.2016.06.024
+   Solé RV, 2004, LECT NOTES PHYS, V650, P189
+   Vázquez A, 2003, PHYS REV E, V67, DOI 10.1103/PhysRevE.67.056104
+   Viswanath B, 2009, 2ND ACM SIGCOMM WORKSHOP ON ONLINE SOCIAL NETWORKS (WOSN 09), P37
+   Wilson C, 2012, ACM T WEB, V6, DOI 10.1145/2382616.2382620
+   Wilson C, 2009, EUROSYS'09: PROCEEDINGS OF THE FOURTH EUROSYS CONFERENCE, P205
+   Yang LX, 2013, APPL MATH COMPUT, V219, P8705, DOI 10.1016/j.amc.2013.02.031
+NR 66
+TC 7
+Z9 7
+U1 0
+U2 19
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0033-5177
+EI 1573-7845
+J9 QUAL QUANT
+JI Qual. Quant.
+PD JAN
+PY 2018
+VL 52
+IS 1
+SI SI
+BP 249
+EP 275
+DI 10.1007/s11135-016-0465-4
+PG 27
+WC Social Sciences, Interdisciplinary; Statistics & Probability
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics; Mathematics
+GA FU7PL
+UT WOS:000424044500015
+DA 2024-11-22
+ER
+
+PT J
+AU Hu, YQ
+   Ji, SG
+   Jin, YL
+   Feng, L
+   Stanley, HE
+   Havlin, S
+AF Hu, Yanqing
+   Ji, Shenggong
+   Jin, Yuliang
+   Feng, Ling
+   Stanley, H. Eugene
+   Havlin, Shlomo
+TI Local structure can identify and quantify influential global spreaders
+   in large scale social networks
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE media; complex network; percolation; influence; viral marketing
+AB Measuring and optimizing the influence of nodes in big-data online social networks are important for many practical applications, such as the viral marketing and the adoption of new products. As the viral spreading on a social network is a global process, it is commonly believed that measuring the influence of nodes inevitably requires the knowledge of the entire network. Using percolation theory, we show that the spreading process displays a nucleation behavior: Once a piece of information spreads from the seeds to more than a small characteristic number of nodes, it reaches a point of no return and will quickly reach the percolation cluster, regardless of the entire network structure; otherwise the spreading will be contained locally. Thus, we find that, without the knowledge of the entire network, any node's global influence can be accurately measured using this characteristic number, which is independent of the network size. This motivates an efficient algorithm with constant time complexity on the long-standing problem of best seed spreaders selection, with performance remarkably close to the true optimum.
+C1 [Hu, Yanqing] Sun Yat Sen Univ, Sch Data & Comp Sci, Guangzhou 510006, Guangdong, Peoples R China.
+   [Ji, Shenggong] Southwest Jiaotong Univ, Sch Informat Sci & Technol, Chengdu 610031, Sichuan, Peoples R China.
+   [Jin, Yuliang] Chinese Acad Sci, Inst Theoret Phys, Key Lab Theoret Phys, Beijing 100190, Peoples R China.
+   [Feng, Ling] Agcy Sci Technol & Res, Comp Sci, Inst High Performance Comp, Singapore 138632, Singapore.
+   [Feng, Ling] Natl Univ Singapore, Dept Phys, Singapore 117551, Singapore.
+   [Stanley, H. Eugene] Boston Univ, Ctr Polymer Studies, Boston, MA 02215 USA.
+   [Stanley, H. Eugene] Boston Univ, Dept Phys, 590 Commonwealth Ave, Boston, MA 02215 USA.
+   [Havlin, Shlomo] Bar Ilan Univ, Dept Phys, IL-52900 Ramat Gan, Israel.
+C3 Sun Yat Sen University; Southwest Jiaotong University; Chinese Academy
+   of Sciences; Institute of Theoretical Physics, CAS; Agency for Science
+   Technology & Research (A*STAR); A*STAR - Institute of High Performance
+   Computing (IHPC); National University of Singapore; Boston University;
+   Boston University; Bar Ilan University
+RP Hu, YQ (corresponding author), Sun Yat Sen Univ, Sch Data & Comp Sci, Guangzhou 510006, Guangdong, Peoples R China.; Stanley, HE (corresponding author), Boston Univ, Dept Phys, 590 Commonwealth Ave, Boston, MA 02215 USA.
+EM huyanq@mail.sysu.edu.cn; hes@bu.edu
+RI stanley, harry/ABJ-5063-2022; Havlin, Shlomo/ABF-1527-2020; Feng,
+   Ling/ABD-1751-2020; Yujie, Liang/GLQ-6360-2022
+OI Stanley, H./0000-0003-2800-4495
+FU National Nature Science Foundation of China [61773412, U1711265,
+   71731002]; Guangzhou Science and Technology Project Grant
+   [201804010473]; Three Big Constructions Supercomputing Application
+   Cultivation Projects - National Supercomputer Center in Guangzhou;
+   Chinese Academy of Sciences; Israel Science Foundation; Israel Ministry
+   of Science and Technology (MOST); Italy Ministry of Foreign Affairs;
+   MOST; Japan Science and Technology Agency; Bar-Ilan University Center
+   for Research in Applied Cryptography and Cyber Security; Defense Threat
+   Reduction Agency [HDTRA-1-10-1-0014, HDTRA1-14-1-0017]; National Science
+   Foundation [PHY-1505000, CMMI-1125290, CHE-1213217]; Div Of Civil,
+   Mechanical, & Manufact Inn; Directorate For Engineering [1125290]
+   Funding Source: National Science Foundation
+FX Y.H., S.J., and L.F. are supported by The National Nature Science
+   Foundation of China Grants 61773412, U1711265, 71731002; Guangzhou
+   Science and Technology Project Grant 201804010473; and Three Big
+   Constructions Supercomputing Application Cultivation Projects sponsored
+   by National Supercomputer Center in Guangzhou. Y.J. is supported by
+   Chinese Academy of Sciences Hundred-Talent Program. S.H. acknowledges
+   the Israel Science Foundation, the Israel Ministry of Science and
+   Technology ( MOST) with the Italy Ministry of Foreign Affairs, MOST with
+   the Japan Science and Technology Agency, the Bar-Ilan University Center
+   for Research in Applied Cryptography and Cyber Security, and Defense
+   Threat Reduction Agency Grants HDTRA-1-10-1-0014 for financial support.
+   The Boston University Center for Polymer Studies is supported by
+   National Science Foundation Grants PHY-1505000, CMMI-1125290, and
+   CHE-1213217, and by Defense Threat Reduction Agency Grant
+   HDTRA1-14-1-0017.
+CR [Anonymous], 2015, Theory of Computing, DOI DOI 10.4086/TOC.2015.V011A004
+   Aral S, 2012, SCIENCE, V337, P337, DOI 10.1126/science.1215842
+   Bakshy E., 2011, P 4 ACM INT C WEB SE, P65, DOI DOI 10.1145/1935826.1935845
+   Barrat A., 2008, DYNAMICAL PROCESSES, DOI DOI 10.1017/CBO9780511791383
+   Bond RM, 2012, NATURE, V489, P295, DOI 10.1038/nature11421
+   Borge-Holthoefer J, 2012, PHYS REV E, V85, DOI 10.1103/PhysRevE.85.066123
+   Borge-Holthoefer J, 2012, PHYS REV E, V85, DOI 10.1103/PhysRevE.85.026116
+   Bunde A., 1991, Fractals and Disordered Systems, Vfirst
+   Castellano C, 2009, REV MOD PHYS, V81, P591, DOI 10.1103/RevModPhys.81.591
+   Chen W, 2009, KDD-09: 15TH ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P199, DOI 10.1145/1557019.1557047
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   Christakis NA, 2013, STAT MED, V32, P556, DOI 10.1002/sim.5408
+   Cohen R., 2010, COMPLEX NETWORKS STR
+   Colizza V, 2006, P NATL ACAD SCI USA, V103, P2015, DOI 10.1073/pnas.0510525103
+   DALEY DJ, 1964, NATURE, V204, P1118, DOI 10.1038/2041118a0
+   Dorogovtsev SN, 2008, REV MOD PHYS, V80, P1275, DOI 10.1103/RevModPhys.80.1275
+   Eubank S, 2004, NATURE, V429, P180, DOI 10.1038/nature02541
+   Feng L, 2015, NEW J PHYS, V17, DOI 10.1088/1367-2630/17/6/063025
+   Ferguson R, 2008, J CONSUM MARK, V25, P179, DOI 10.1108/07363760810870671
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   Grabowski A, 2008, PHYS REV E, V78, DOI 10.1103/PhysRevE.78.066110
+   Katz Leo, 1953, PSYCHOMETRIKA, V18, P39, DOI DOI 10.1007/BF02289026
+   Kitsak M, 2010, NAT PHYS, V6, P888, DOI [10.1038/NPHYS1746, 10.1038/nphys1746]
+   Leskovec J, 2007, KDD-2007 PROCEEDINGS OF THE THIRTEENTH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P420
+   Iribarren JL, 2011, PHYS REV E, V84, DOI 10.1103/PhysRevE.84.046116
+   Meloni S, 2009, P NATL ACAD SCI USA, V106, P16897, DOI 10.1073/pnas.0907121106
+   Morone F, 2015, NATURE, V524, P65, DOI 10.1038/nature14604
+   Newman MEJ, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.016128
+   Newman MEJ, 2001, PHYS REV E, V64, DOI [10.1103/PhysRevE.64.016132, 10.1103/PhysRevE.64.016131]
+   Pastor-Satorras R, 2015, REV MOD PHYS, V87, P925, DOI 10.1103/RevModPhys.87.925
+   RUST RT, 1994, J ADVERTISING, V23, P71, DOI 10.1080/00913367.1943.10673460
+   Wang P, 2009, SCIENCE, V324, P1071, DOI 10.1126/science.1167053
+   Yuan X, 2017, P NATL ACAD SCI USA, V114, P3311, DOI 10.1073/pnas.1621369114
+NR 33
+TC 73
+Z9 78
+U1 2
+U2 66
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+EI 1091-6490
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD JUL 17
+PY 2018
+VL 115
+IS 29
+BP 7468
+EP 7472
+DI 10.1073/pnas.1710547115
+PG 5
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA GN3GQ
+UT WOS:000438892600044
+PM 29970418
+OA Bronze, Green Published, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Dobbels, L
+   Voets, J
+   Marlier, M
+   De Waegeneer, E
+   Willem, A
+AF Dobbels, Lies
+   Voets, Joris
+   Marlier, Mathieu
+   De Waegeneer, Els
+   Willem, Annick
+TI Why network structure and coordination matter: A social network analysis
+   of sport for disadvantaged people
+SO INTERNATIONAL REVIEW FOR THE SOCIOLOGY OF SPORT
+LA English
+DT Article
+DE disadvantaged communities; network theory; social network analysis;
+   sport-for-all; sport participation
+ID PUBLIC MANAGEMENT; PARTICIPATION; COMMUNITIES; CENTRALITY; LEADERSHIP;
+   PROGRAM; SECTOR; POLICY; SCOPE
+AB Although local governments attempt to promote sports among all layers of society, people with a lower socio-economic status are still under-represented in grassroots sports. Previous studies indicate that inter-sectoral networks and joint efforts can contribute to an increase in sport participation among these groups, but a systematic analysis of the structure, coordination and interactions in the networks is still missing. Insight into networks to promote sport for disadvantaged people may help in designing effective networks. Therefore, we conducted a social network analysis to explore the network structure and characteristics of networks that promote sport participation among disadvantaged people in three Flemish cities. Our results show that the networks needed to be coordinated by a sport administrator, in the initial stage. Once the network is up and running, coordination can be shared so that the sport administration can rely on the experiences of other sectors. More sport initiatives and a better network structure were found in the cities with a community sport development program, through which the sport-for-all policy is implemented and coordinated, compared to a city without such a program.
+C1 [Dobbels, Lies; Voets, Joris; Marlier, Mathieu; De Waegeneer, Els; Willem, Annick] Univ Ghent, Ghent, Belgium.
+C3 Ghent University
+RP Willem, A (corresponding author), Univ Ghent, Dept Movement & Sports Sci, Watersportlaan 2, B-9000 Ghent, Belgium.
+EM annick.willem@ugent.be
+RI Marlier, Mathieu/AAX-6359-2020; Voets, Joris/AAQ-3704-2020; Willem,
+   Annick/A-7311-2017
+OI Willem, Annick/0000-0003-3753-2919; Marlier,
+   Mathieu/0000-0001-5351-9824; De Waegeneer, Els/0000-0002-4534-4363
+CR Agranoff R, 2006, PUBLIC ADMIN REV, V66, P56, DOI 10.1111/j.1540-6210.2006.00666.x
+   Berry FS, 2004, PUBLIC ADMIN REV, V64, P539, DOI 10.1111/j.1540-6210.2004.00402.x
+   Blanchet K, 2012, HEALTH POLICY PLANN, V27, P438, DOI 10.1093/heapol/czr055
+   BONACICH P, 1987, AM J SOCIOL, V92, P1170, DOI 10.1086/228631
+   Borgatti SP., 2018, ANAL SOCIAL NETWORKS
+   Borgatti SP, 2011, ORGAN SCI, V22, P1168, DOI 10.1287/orsc.1100.0641
+   Cleland CL, 2012, PREV MED, V54, P371, DOI 10.1016/j.ypmed.2012.04.004
+   Coalter F, 2010, INT REV SOCIOL SPORT, V45, P295, DOI 10.1177/1012690210366791
+   Council of Europe, 2014, ENL PART AGR SPORT E
+   Cousens L., 2012, International Journal of Sport Management and Marketing, V12, P198, DOI 10.1504/IJSMM.2012.052667
+   Cousens L, 2009, J SPORT MANAGE, V23, P574, DOI 10.1123/jsm.23.5.574
+   Day JC, 2010, SOCIOL SPECTRUM, V30, P138, DOI 10.1080/02732170903495937
+   de Nooy W., 2011, Exploratory Social Network Analysis with Prajek, DOI [10.1017/CBO9780511996368, DOI 10.1017/CBO9780511996368]
+   Ferreri L, 2014, PHYS REV E, V90, DOI 10.1103/PhysRevE.90.012812
+   Fransen K, 2015, J SPORT EXERCISE PSY, V37, P274, DOI 10.1123/jsep.2014-0259
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   Frisby W., 2002, European Sport Management Quarterly, V2, P209
+   Gazley B, 2008, PUBLIC ADMIN REV, V68, P141, DOI 10.1111/j.1540-6210.2007.00844.x
+   Graddy EA, 2006, J PUBL ADM RES THEOR, V16, P533, DOI 10.1093/jopart/muj005
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Hallmann K, 2015, INT J SPORT POLICY P, V7, P565, DOI 10.1080/19406940.2015.1088051
+   Hanneman B., 2005, Introduction to social network methods
+   Hardcastle S, 2012, J BEHAV MED, V35, P318, DOI 10.1007/s10865-012-9417-1
+   Head B, 2008, PUBLIC MANAG REV, V10, P733, DOI 10.1080/14719030802423087
+   Hoeijmakers M, 2007, HEALTH PROMOT INT, V22, P112, DOI 10.1093/heapro/dam009
+   Hossain L, 2009, INT J PROJ MANAG, V27, P795, DOI 10.1016/j.ijproman.2009.02.003
+   Houlihan B., 2005, International Review for the Sociology of Sport, V40, P163, DOI 10.1177/1012690205057193
+   Kadushin C, 2002, SOC NETWORKS, V24, P77, DOI 10.1016/S0378-8733(01)00052-1
+   Keast R., 2007, INT PUBLIC MANAG J, V10, P9, DOI DOI 10.1080/10967490601185716
+   Kesenne S, 2000, SPORT EC SAMENLEVING
+   Lewis JM, 2006, SOC SCI MED, V62, P2125, DOI 10.1016/j.socscimed.2005.10.004
+   Love A, 2012, SPORT MANAG REV, V15, P244, DOI 10.1016/j.smr.2011.08.001
+   Lucidarme S, 2014, INT J PUBLIC HEALTH, V59, P51, DOI 10.1007/s00038-013-0527-5
+   MacLean J, 2011, J SPORT MANAGE, V25, P562, DOI 10.1123/jsm.25.6.562
+   Mandell M, 2008, PUBLIC MANAG REV, V10, P715, DOI 10.1080/14719030802423079
+   Marlier M, 2015, BMC PUBLIC HEALTH, V15, DOI 10.1186/s12889-015-2605-5
+   Marlier M, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0140196
+   Marlier M, 2014, J URBAN HEALTH, V91, P1114, DOI 10.1007/s11524-014-9879-2
+   Meier KJ, 2003, PUBLIC ADMIN REV, V63, P689, DOI 10.1111/1540-6210.00332
+   Müller-Seitz G, 2012, INT J MANAG REV, V14, P428, DOI 10.1111/j.1468-2370.2011.00324.x
+   Parent MM, 2015, INT REV SOCIOL SPORT, V50, P326, DOI 10.1177/1012690213481467
+   Parent MM, 2009, EUR SPORT MANAG Q, V9, P23, DOI 10.1080/16184740802461694
+   Penedo FJ, 2005, CURR OPIN PSYCHIATR, V18, P189, DOI 10.1097/00001504-200503000-00013
+   Poole D.L., 2008, Nonprofit Management and Leadership, V18, P275, DOI [10.1002/nml.186, DOI 10.1002/NML.186]
+   Provan KG, 2008, J PUBL ADM RES THEOR, V18, P229, DOI 10.1093/jopart/mum015
+   Provan Keith G, 2005, J Health Organ Manag, V19, P504, DOI 10.1108/14777260510629706
+   Provan Keith G, 2004, Health Promot Pract, V5, P174, DOI 10.1177/1524839903259303
+   Provan KG, 2005, PUBLIC ADMIN REV, V65, P603, DOI 10.1111/j.1540-6210.2005.00487.x
+   PUTNAM R, 1995, J DEMOCRACY, V0006
+   Quatman C, 2008, J SPORT MANAGE, V22, P338, DOI 10.1123/jsm.22.3.338
+   Riley A, 2012, CHILD YOUTH SERV REV, V34, P1367, DOI 10.1016/j.childyouth.2012.03.008
+   Scheerder J., 2005, European Physical Education Review, V11, P5, DOI 10.1177/1356336X05049822
+   Seippel O, 2008, EUR SOCIOL REV, V24, P69, DOI 10.1093/esr/jcm035
+   Seippel O, 2006, ACTA SOCIOL, V49, P169, DOI 10.1177/0001699306064771
+   Skille E, 2011, INT J SPORT POLICY P, V3, P289, DOI 10.1080/19406940.2010.547867
+   Skinner J., 2008, Sport management review, V11, P253, DOI DOI 10.1016/S1441-3523(08)70112-8
+   Sleap M, 1982, INT REV SOCIOL SPORT, V17, P5
+   Smith BJ, 2006, HEALTH PROMOT INT, V21, P340, DOI 10.1093/heapro/dal033
+   STERN RN, 1979, ADMIN SCI QUART, V24, P242, DOI 10.2307/2392496
+   Theeboom M, 2010, SPORT SOC, V13, P1392, DOI 10.1080/17430437.2010.510677
+   Tichy N.M., 1979, Academy of Management Review, V4, P507, DOI [DOI 10.5465/AMR.1979.4498309, 10.5465/amr.1979.4498309 10.5465/amr.1979.4498309]
+   Turrini A, 2010, PUBLIC ADMIN, V88, P528, DOI 10.1111/j.1467-9299.2009.01791.x
+   Vail SE, 2007, J SPORT MANAGE, V21, P571, DOI 10.1123/jsm.21.4.571
+   Vandermeerschen H, 2015, SPORT EDUC SOC, V20, P941, DOI 10.1080/13573322.2013.856293
+   Willem A, 2014, PUBLIC MANAG REV, V16, P733, DOI 10.1080/14719037.2012.744426
+   Wolfe R, 2002, J BUS RES, V55, P611, DOI 10.1016/S0148-2963(00)00191-0
+NR 66
+TC 19
+Z9 20
+U1 2
+U2 34
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 1012-6902
+EI 1461-7218
+J9 INT REV SOCIOL SPORT
+JI Int. Rev. Sociol. Sport
+PD AUG
+PY 2018
+VL 53
+IS 5
+BP 572
+EP 593
+DI 10.1177/1012690216666273
+PG 22
+WC Hospitality, Leisure, Sport & Tourism; Sociology
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics; Sociology
+GA GM9OI
+UT WOS:000438578800004
+DA 2024-11-22
+ER
+
+PT J
+AU Kermani, MAMA
+   Ghesmati, R
+   Jalayer, M
+AF Kermani, Mehrdad Agha Mohammad Ali
+   Ghesmati, Reza
+   Jalayer, Masoijd
+TI OPINION-AWARE INFLUENCE MAXIMIZATION: HOW TO MAXIMIZE A FAVORITE OPINION
+   IN A SOCIAL NETWORK?
+SO ADVANCES IN COMPLEX SYSTEMS
+LA English
+DT Article
+DE Opinion-aware influence maximization; seed nodes; information diffusion;
+   genetic algorithm; mathematical programming; opinion dynamics
+ID STATISTICAL PHYSICS; COMPUTATIONAL MODEL; BOUNDED CONFIDENCE; DYNAMICS;
+   NODES; DIFFUSION; TOPSIS
+AB Influence maximization is a well-known problem in the social network analysis literature which is to find a small subset of seed nodes to maximize the diffusion or spread of information. The main application of this problem in the real-world is in viral marketing. However, the classic influence maximization is disabled to model the real-world viral marketing problem, since the effect of the marketing message content and nodes' opinions have not been considered. In this paper, a modified version of influence maximization which is named as "opinion-aware influence maximization" (OAIM) problem is proposed to make the model more realistic. In this problem, the main objective is to maximize the spread of a desired opinion, by optimizing the message content, rather than the number of infected nodes, which leads to selection of the best set of seed nodes. A nonlinear bi-objective mathematical programming model is developed to model the considered problem. Some transformation techniques are applied to convert the proposed model to a linear single-objective mathematical programming model. The exact solution of the model in small datasets can be obtained by CPLEX algorithm. For the medium and large-scale datasets, a new genetic algorithm is proposed to cope with the size of the problem. Experimental results on some of the well-known datasets show the efficiency and applicability of the proposed OAIM model. In addition, the proposed genetic algorithm overcomes state-of-the-art algorithms.
+C1 [Kermani, Mehrdad Agha Mohammad Ali] Iran Univ Sci & Technol, Dept Proc Engn, Tehran, Iran.
+   [Ghesmati, Reza] Amirkabir Univ Technol, Tehran 158754413, Iran.
+   [Jalayer, Masoijd] Politecn Milan, Piazza Leonardo da Vinci 32, I-20133 Milan, Italy.
+C3 Iran University Science & Technology; Amirkabir University of
+   Technology; Polytechnic University of Milan
+RP Kermani, MAMA (corresponding author), Iran Univ Sci & Technol, Dept Proc Engn, Tehran, Iran.
+EM kermani.m.a.m.a@gmail.com
+RI Agha Mohammad Ali Kermani, Mehrdad/AAH-7948-2019; Jalayer,
+   Masoud/LJL-9407-2024
+OI Jalayer, Masoud/0000-0001-8013-8613
+CR Acemoglu D, 2011, DYN GAMES APPL, V1, P3, DOI 10.1007/s13235-010-0004-1
+   Albinali H., 2016, P 2016 12 INT C MOB
+   Alizadeh M, 2015, JASSS-J ARTIF SOC S, V18, DOI 10.18564/jasss.2733
+   Alizadeh M, 2015, ADV COMPLEX SYST, V18, DOI 10.1142/S0219525915500022
+   Alizadeh M, 2014, JASSS-J ARTIF SOC S, V17, DOI 10.18564/jasss.2559
+   [Anonymous], 2006, Micromotives and Macrobehavior
+   Aslay C., 2014, P INT C TECHN EDBT
+   Axelrod R, 1997, J CONFLICT RESOLUT, V41, P203, DOI 10.1177/0022002797041002001
+   Banerjee A, 2013, SCIENCE, V341, P363, DOI 10.1126/science.1236498
+   Barbieri N, 2012, IEEE DATA MINING, P81, DOI 10.1109/ICDM.2012.122
+   Barbosa LA, 2009, THEOR BIOSCI, V128, P205, DOI 10.1007/s12064-009-0066-z
+   Bisin A, 2001, J ECON THEORY, V97, P298, DOI 10.1006/jeth.2000.2678
+   Boyd R., 1988, P29
+   Boyd R., 2005, NOT GENES ALONE CULT
+   Cai J. L. Z., 2016, P 35 ANN IEEE INT C, DOI [10.1109/INFOCOM.2016.7524471, DOI 10.1109/INFOCOM.2016.7524471]
+   Carletti T, 2011, ADV COMPLEX SYST, V14, P13, DOI 10.1142/S021952591100286X
+   González-Avella JC, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0020207
+   Castellano C, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.041129
+   Castellano C, 2009, REV MOD PHYS, V81, P591, DOI 10.1103/RevModPhys.81.591
+   Cavalli-Sforza LL., 1981, CULTURAL TRANSMISSIO
+   Chen S, 2015, PROC VLDB ENDOW, V8, P666, DOI 10.14778/2735703.2735706
+   Chen W., ARXIV14030057CSSI
+   Chen Wei, 2016, Comput Soc Netw, V3, P8, DOI 10.1186/s40649-016-0033-z
+   Chen W, 2009, KDD-09: 15TH ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P199, DOI 10.1145/1557019.1557047
+   CLIFFORD P, 1973, BIOMETRIKA, V60, P581, DOI 10.2307/2335008
+   Crokidakis N, 2012, PHYSICA A, V391, P1729, DOI 10.1016/j.physa.2011.11.038
+   Dandekar P, 2013, P NATL ACAD SCI USA, V110, P5791, DOI 10.1073/pnas.1217220110
+   De Sanctis L, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.046108
+   Deffuant G, 2000, APPLICATIONS OF SIMULATION TO SOCIAL SCIENCES, P87, DOI 10.1142/S0219525900000078
+   Deffuant G., ARXIV12033065PHYSICS
+   Dolfin M, 2015, NETW HETEROG MEDIA, V10, P877, DOI 10.3934/nhm.2015.10.877
+   Domingos P., 2001, KDD-2001. Proceedings of the Seventh ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, P57, DOI 10.1145/502512.502525
+   Du YX, 2014, PHYSICA A, V399, P57, DOI 10.1016/j.physa.2013.12.031
+   Laguna MF, 2013, EUR PHYS J B, V86, DOI 10.1140/epjb/e2013-30783-2
+   Flache A, 2008, COMPUT MATH ORGAN TH, V14, P23, DOI 10.1007/s10588-008-9019-1
+   Flache A, 2008, SIMUL MODEL PRACT TH, V16, P175, DOI 10.1016/j.simpat.2007.11.020
+   Fortunato S, 2005, INT J MOD PHYS C, V16, P1535, DOI 10.1142/S0129183105008126
+   FRENCH JRP, 1956, PSYCHOL REV, V63, P181, DOI 10.1037/h0046123
+   Galam S, 1999, PHYSICA A, V274, P132, DOI 10.1016/S0378-4371(99)00320-9
+   Galam S, 2002, EUR PHYS J B, V25, P403, DOI 10.1140/epjb/e20020045
+   Gong MG, 2016, INFORM SCIENCES, V367, P600, DOI 10.1016/j.ins.2016.07.012
+   Goyal A., 2011, PROC 20 INT C COMPAN, P47
+   Goyal S, 2012, STOC'12: PROCEEDINGS OF THE 2012 ACM SYMPOSIUM ON THEORY OF COMPUTING, P759
+   Hegselmann R., 2005, Computational Economics, V25, P381, DOI 10.1007/s10614-005-6296-3
+   Hegselmann R, 2002, JASSS-J ARTIF SOC S, V5
+   Hegselmann R., ARXIV14108419MATHOC
+   Helbing D., 2008, Understanding Complex Systems, DOI [10.1007/978-3-540-75261-51, DOI 10.1007/978-3-540-75261-51, DOI 10.1007/978-3-540-75261-5]
+   Hu JT, 2016, PHYSICA A, V444, P73, DOI 10.1016/j.physa.2015.09.028
+   Inderbitzen H.M., 1992, Psychological Assessment, V4, P451, DOI [10.1037/1040-3590.4.4.451, DOI 10.1037/1040-3590.4.4.451]
+   Jalayer M, 2018, COMPUT IND ENG, V120, P234, DOI 10.1016/j.cie.2018.04.049
+   Jiang Q., 2011, Proceedings of the Twenty-Fifth AAAI Conference on Articial Intelligence, P127, DOI DOI 10.1609/AAAI.V25I1.7838
+   Kermani M.A.M.A., 2014, INT J CURR LIFE SCI, V4, P2510
+   Kermani MAMA, 2017, PHYSICA A, V466, P570, DOI 10.1016/j.physa.2016.09.038
+   Kermani MAMA, 2016, INT J COMMUN SYST, V29, P1235, DOI 10.1002/dac.3090
+   Kermani MAMA, 2016, COMPUT HUM BEHAV, V56, P295, DOI 10.1016/j.chb.2015.11.008
+   Kim S, 2017, INFORM SCIENCES, V415, P171, DOI 10.1016/j.ins.2017.06.018
+   Klemm K, 2003, PHYS REV E, V67, DOI [10.1103/PhysRevE.67.045101, 10.1063/1.1571335]
+   Leskovec J, 2007, KDD-2007 PROCEEDINGS OF THE THIRTEENTH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P420
+   Li G., 2014, P 2014 ACM SIGMOD IN
+   Li J., 2016, P 2016 12 INT C MOB
+   Liebrand W.B., 1998, Computer modelling of social processes
+   Liu B, 2014, IEEE T KNOWL DATA EN, V26, P1904, DOI 10.1109/TKDE.2013.106
+   Lorenz J., ARXIV07082923PHYSICS
+   Lorenz J, 2007, INT J MOD PHYS C, V18, P1819, DOI 10.1142/S0129183107011789
+   Lorenz J, 2006, JASSS-J ARTIF SOC S, V9
+   Lorenz J, 2010, COMPLEXITY, V15, P43, DOI 10.1002/cplx.20295
+   Lu F, 2017, J NETW COMPUT APPL, V86, P15, DOI 10.1016/j.jnca.2016.10.020
+   Lusseau D, 2003, P ROY SOC B-BIOL SCI, V270, pS186, DOI 10.1098/rsbl.2003.0057
+   Mäs M, 2010, PLOS COMPUT BIOL, V6, DOI 10.1371/journal.pcbi.1000959
+   Martins A. C. R., ARXIV09041882PHYSICS
+   Martins ACR, 2008, INT J MOD PHYS C, V19, P617, DOI 10.1142/S0129183108012339
+   Martins ACR, 2014, PHYSICA A, V395, P352, DOI 10.1016/j.physa.2013.10.009
+   Martins ACR, 2008, PHYS REV E, V78, DOI 10.1103/PhysRevE.78.036104
+   Mesgari I., 2015, Mathematical technology of networks, P137, DOI DOI 10.1007/978-3-319-16619-3_10
+   Morone F., ARXIV150608326PHYSIC
+   Pace B, 2014, PHYS REV E, V89, DOI 10.1103/PhysRevE.89.062804
+   Pei S., ARXIV160602739PHYSIC
+   Pineda M, 2009, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2009/08/P08001
+   Pineda M., ARXIV13092858PHYSICS
+   Quattrociocchi W., ARXIV11022336CSSI
+   Sîrbu A, 2017, UNDERST COMPLEX SYST, P363, DOI 10.1007/978-3-319-25658-0_17
+   Stauffer D, 2005, AIP CONF PROC, V779, P56, DOI 10.1063/1.2008591
+   Sznajd-Weron K, 2002, INT J MOD PHYS C, V13, P115, DOI 10.1142/S0129183102003000
+   Sznajd-Weron K, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/11/P11018
+   Tang YZ, 2014, SIGMOD'14: PROCEEDINGS OF THE 2014 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P75, DOI 10.1145/2588555.2593670
+   Tardos, 2003, P 9 ACM SIGKDD INT C, P137, DOI 10.1145/956750.956769
+   Tessone CJ, 2004, EUR PHYS J B, V39, P535, DOI 10.1140/epjb/e2004-00227-5
+   Trusov M, 2010, J MARKETING RES, V47, P643, DOI 10.1509/jmkr.47.4.643
+   Wang XY, 2016, PROC INT CONF DATA, P1, DOI 10.1109/ICDE.2016.7498224
+   Xia HX, 2011, INT J KNOWL SYST SCI, V2, P72, DOI 10.4018/jkss.2011100106
+   Yang W.-S., 2012, INT J SWARM INTELL E, V1
+   Yildiz E., 2011, Discrete opinion dynamics with stubborn agents
+   Zhou T., 2015, P 24 ACM INT C INF K
+   Zschaler G, 2012, PHYS REV E, V85, DOI 10.1103/PhysRevE.85.046107
+NR 94
+TC 3
+Z9 3
+U1 1
+U2 10
+PU WORLD SCIENTIFIC PUBL CO PTE LTD
+PI SINGAPORE
+PA 5 TOH TUCK LINK, SINGAPORE 596224, SINGAPORE
+SN 0219-5259
+EI 1793-6802
+J9 ADV COMPLEX SYST
+JI Adv. Complex Syst.
+PD SEP-NOV
+PY 2018
+VL 21
+IS 6-7
+AR 1850022
+DI 10.1142/S0219525918500224
+PG 27
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Science & Technology - Other Topics
+GA HH2ZY
+UT WOS:000455589800008
+DA 2024-11-22
+ER
+
+PT J
+AU Khan, J
+   Lee, S
+AF Khan, Jebran
+   Lee, Sungchang
+TI Online Social Networks (OSN) Evolution Model Based on Homophily and
+   Preferential Attachment
+SO SYMMETRY-BASEL
+LA English
+DT Article
+DE SN model; SN data; SN topology; homophily; interactions; interests
+ID COMMUNITY STRUCTURE; AGE; DYNAMICS; SEARCH; SCALE; TRUST
+AB In this paper, we propose a new scale-free social networks (SNs) evolution model that is based on homophily combined with preferential attachments. Our model enables the SN researchers to generate SN synthetic data for the evaluation of multi-facet SN models that are dependent on users' attributes and similarities. Homophily is one of the key factors for interactive relationship formation in SN. The synthetic graph generated by our model is scale-invariant and has symmetric relationships. The model is dynamic and sustainable to changes in input parameters, such as number of nodes and nodes' attributes, by conserving its structural properties. Simulation and evaluation of models for large-scale SN applications need large datasets. One way to get SN data is to generate synthetic data by using SN evolution models. Various SN evolution models are proposed to approximate the real-life SN graphs in previous research. These models are based on SN structural properties such as preferential attachment. The data generated by these models is suitable to evaluate SN models that are structure dependent but not suitable to evaluate models which depend on the SN users' attributes and similarities. In our proposed model, users' attributes and similarities are utilized to synthesize SN graphs. We evaluated the resultant synthetic graph by analyzing its structural properties. In addition, we validated our model by comparing its measures with the publicly available real-life SN datasets and previous SN evolution models. Simulation results show our resultant graph to be a close representation of real-life SN graphs with users' attributes.
+C1 [Khan, Jebran; Lee, Sungchang] Korea Aerosp Univ, Sch Elect & Informat Engn, Goyang Si 412791, Gyeonggi Do, South Korea.
+C3 Korea Aerospace University
+RP Lee, S (corresponding author), Korea Aerosp Univ, Sch Elect & Informat Engn, Goyang Si 412791, Gyeonggi Do, South Korea.
+EM jebran.khan@kau.kr; sclee@kau.ac.kr
+RI Khan, Jebran/AAB-7446-2020
+OI Khan, Jebran/0000-0002-9971-1149; Lee, Sungchang/0000-0002-4698-6018
+FU Basic Science Research Programs through the National Research Foundation
+   of Korea (NRF) - Ministry of Education [NRF-2017R1A2B1010817]
+FX This research was supported by Basic Science Research Programs through
+   the National Research Foundation of Korea (NRF) funded by the Ministry
+   of Education (NRF-2017R1A2B1010817).
+CR Adamic L, 2005, SOC NETWORKS, V27, P187, DOI 10.1016/j.socnet.2005.01.007
+   Ahmad K, 2019, MULTIMED TOOLS APPL, V78, P2837, DOI 10.1007/s11042-018-5982-9
+   Ajrouch KJ, 2005, J GERONTOL B-PSYCHOL, V60, pS311, DOI 10.1093/geronb/60.6.S311
+   Al Qundus J, 2018, COMM COM INF SC, V903, P278, DOI 10.1007/978-3-319-99133-7_23
+   Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   [Anonymous], 2013, P 4 INT WORKSHOP MOD
+   [Anonymous], Social Science Research Network, DOI [DOI 10.5210/FM.V14I1.2317, DOI 10.2139/SSRN.1313405]
+   [Anonymous], 2006, P INT C MATHEMATICIA
+   [Anonymous], 1968, THESIS CORNELL U US
+   [Anonymous], 2004, Proceedings of the 13th International Conference on World Wide Web, WWW'04, page, DOI [10.1145/988672.988674, DOI 10.1145/988672.988674]
+   Bai Y., 2018, INT J PERFORM ENG, V14, P691, DOI [10.23940/ijpe.18.04.p12.691698, DOI 10.23940/IJPE.18.04.P12.691698]
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barabási AL, 2009, SCIENCE, V325, P412, DOI 10.1126/science.1173299
+   Bobadilla J, 2013, KNOWL-BASED SYST, V46, P109, DOI 10.1016/j.knosys.2013.03.012
+   Bollobas B., 1985, RANDOM GRAPHS
+   BURT MR, 1980, J PERS SOC PSYCHOL, V38, P217, DOI 10.1037/0022-3514.38.2.217
+   Chakrabarti D, 2004, SIAM PROC S, P442
+   Chung F., 2002, ANN COMB, V6, P125, DOI [DOI 10.1007/PL00012580, 10.1007/PL00012580]
+   Chung F., 2004, Internet Math., V1, P91, DOI 10.1080/15427951.2004.10129081
+   Cornwell B, 2008, AM SOCIOL REV, V73, P185, DOI 10.1177/000312240807300201
+   Cornwell B, 2011, RES AGING, V33, P598, DOI 10.1177/0164027511409442
+   Dillon M., 1983, INTRO MODERN INFORM, P491
+   Dodds PS, 2003, SCIENCE, V301, P827, DOI 10.1126/science.1081058
+   Doherty NA, 2004, PERS RELATIONSHIP, V11, P469, DOI 10.1111/j.1475-6811.2004.00093.x
+   Dorogovtsev S. N., 2013, EVOLUTION NETWORKS B, DOI DOI 10.1007/s00454-002-0743-x
+   Dorogovtsev SN, 2002, ADV PHYS, V51, P1079, DOI 10.1080/00018730110112519
+   Dürr M, 2012, 2012 IEEE/ACM INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING (ASONAM), P660, DOI 10.1109/ASONAM.2012.110
+   Erdos P., 1959, PUBL MATH-DEBRECEN, V6, P290
+   Fetterly D, 2004, SOFTWARE PRACT EXPER, V34, P213, DOI 10.1002/spe.577
+   Gauch S., 2007, The Adaptive Web. Methods and Strategies of Web Personalization, P54
+   Gerich J., 2006, METHODOLOGY-EUR, V2, P7, DOI [DOI 10.1027/1614-2241.2.1.7, 10.1027/1614-2241.2.1.7]
+   Girvan M, 2002, P NATL ACAD SCI USA, V99, P7821, DOI 10.1073/pnas.122653799
+   Guille A, 2013, SIGMOD REC, V42, P17
+   Han X, 2014, 2014 PROCEEDINGS OF THE IEEE/ACM INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING (ASONAM 2014), P491, DOI 10.1109/ASONAM.2014.6921631
+   Hanani U, 2001, USER MODEL USER-ADAP, V11, P203, DOI 10.1023/A:1011196000674
+   Huber GA, 2017, J POLIT, V79, P269, DOI 10.1086/687533
+   Jaccard P., 1901, B SOC VAUD SCI N, V37, P547, DOI [DOI 10.5169/SEALS-266450, 10.5169/seals-266450]
+   Jaewon Yang, 2015, Knowledge and Information Systems, V42, P181, DOI 10.1007/s10115-013-0693-z
+   Jin Xie, 2012, 2012 2nd International Conference on Consumer Electronics, Communications and Networks (CECNet), P1112, DOI 10.1109/CECNet.2012.6201864
+   JOHNSEN EC, 1986, SOC NETWORKS, V8, P257, DOI 10.1016/0378-8733(86)90007-9
+   JOHNSON JC, 1986, SOC NETWORKS, V8, P343, DOI 10.1016/0378-8733(86)90002-X
+   Kleinberg JM, 1999, J ACM, V46, P604, DOI 10.1145/324133.324140
+   Klimt B., 2004, P 2004 CEAS MOUNT VI
+   Knuth DE., 1993, STANFORD GRAPHBASE P
+   Koren Y, 2009, COMPUTER, V42, P30, DOI 10.1109/MC.2009.263
+   Kumar R, 2005, WORLD WIDE WEB, V8, P159, DOI 10.1007/s11280-004-4872-4
+   Kumar R, 2004, COMMUN ACM, V47, P35, DOI 10.1145/1035134.1035162
+   LANCICHINETTI A, 2009, PHYS REV E 2, V80, DOI [DOI 10.1103/PHYSREVE.80.056117, 10.1103/PhysRevE.80.056117]
+   Lancichinetti A, 2008, PHYS REV E, V78, DOI 10.1103/PhysRevE.78.046110
+   Leskovec J, 2012, P INT C NEUR INF PRO, P539, DOI DOI 10.5555/2999134.2999195
+   Leskovec J., 2014, STANFORD LARGE NETWO
+   Leskovec J, 2009, INTERNET MATH, V6, P29, DOI 10.1080/15427951.2009.10129177
+   Liben-Nowell D, 2005, P NATL ACAD SCI USA, V102, P11623, DOI 10.1073/pnas.0503018102
+   Marcum CS, 2013, RES AGING, V35, P612, DOI 10.1177/0164027512453468
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Menczer F, 2004, P NATL ACAD SCI USA, V101, P5261, DOI 10.1073/pnas.0307554100
+   Mui Lik, 2002, THESIS
+   Nettleton DF, 2016, SOC NETW ANAL MIN, V6, DOI 10.1007/s13278-016-0352-y
+   Newman MEJ, 2006, P NATL ACAD SCI USA, V103, P8577, DOI 10.1073/pnas.0601602103
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   Newman MEJ, 2002, P NATL ACAD SCI USA, V99, P2566, DOI 10.1073/pnas.012582999
+   Neyer FJ, 2003, J PERS SOC PSYCHOL, V84, P310, DOI 10.1037/0022-3514.84.2.310
+   Palmer MC, 2008, FISH RES, V89, P57, DOI 10.1016/j.fishres.2007.09.001
+   Panzarasa P, 2009, J AM SOC INF SCI TEC, V60, P911, DOI 10.1002/asi.21015
+   Papadopoulos F, 2012, NATURE, V489, P537, DOI 10.1038/nature11459
+   Pérez-Rosés H, 2015, J SIMUL, V9, P279, DOI 10.1057/jos.2014.29
+   Pouli Vasiliki., 2015, 2015 13th International Conference on Telecommunications (ConTEL), P1
+   Quinn D., 2011, Proceedings of the 2011 IEEE International Conference on Internet of Things and 4th IEEE International Conference on Cyber, Physical and Social Computing (iThings/CPSCom 2011), P266, DOI 10.1109/iThings/CPSCom.2011.86
+   Radicchi F, 2004, P NATL ACAD SCI USA, V101, P2658, DOI 10.1073/pnas.0400054101
+   Redner S, 1998, EUR PHYS J B, V4, P131, DOI 10.1007/s100510050359
+   Rose D.E., 2010, U.S. Patent Application, Patent No. [10/388,362, 10388362]
+   Sagduyu YE, 2018, IEEE T COMPUT SOC SY, V5, P605, DOI 10.1109/TCSS.2018.2854668
+   Said A., 2010, P 2010 INT C INT US
+   Simsek O, 2008, P NATL ACAD SCI USA, V105, P12758, DOI 10.1073/pnas.0800497105
+   SINNOTT RW, 1984, SKY TELESCOPE, V68, P159
+   Stai E, 2018, MULTIMED TOOLS APPL, V77, P283, DOI 10.1007/s11042-016-4209-1
+   Stehlé J, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0023176
+   Strogatz SH, 2001, NATURE, V410, P268, DOI 10.1038/35065725
+   Tardos, 2003, P 9 ACM SIGKDD INT C, P137, DOI 10.1145/956750.956769
+   Ugander J., 2011, The anatomy of the Facebook social graph, P1
+   Ullah F, 2017, CHAOS SOLITON FRACT, V103, P194, DOI 10.1016/j.chaos.2017.05.041
+   Ullah F, 2016, SYMMETRY-BASEL, V8, DOI 10.3390/sym8090089
+   van Tilburg T, 1998, J GERONTOL B-PSYCHOL, V53, pS313, DOI 10.1093/geronb/53B.6.S313
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   WAXMAN BM, 1988, IEEE J SEL AREA COMM, V6, P1617, DOI 10.1109/49.12889
+   Wilson C, 2012, ACM T WEB, V6, DOI 10.1145/2382616.2382620
+   Yu HF, 2006, ACM SIGCOMM COMP COM, V36, P267, DOI 10.1145/1151659.1159945
+   ZACHARY WW, 1977, J ANTHROPOL RES, V33, P452, DOI 10.1086/jar.33.4.3629752
+NR 89
+TC 3
+Z9 3
+U1 0
+U2 11
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2073-8994
+J9 SYMMETRY-BASEL
+JI Symmetry-Basel
+PD NOV
+PY 2018
+VL 10
+IS 11
+AR 654
+DI 10.3390/sym10110654
+PG 26
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA HB6GL
+UT WOS:000451165100121
+OA gold
+DA 2024-11-22
+ER

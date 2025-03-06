@@ -1,0 +1,561 @@
+
+PT J
+AU Yang, Y
+   Dong, YX
+   Chawla, NV
+AF Yang, Yang
+   Dong, Yuxiao
+   Chawla, Nitesh V.
+TI Predicting Node Degree Centrality with the Node Prominence Profile
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID NETWORKS
+AB Centrality of a node measures its relative importance within a network. There are a number of applications of centrality, including inferring the influence or success of an individual in a social network, and the resulting social network dynamics. While we can compute the centrality of any node in a given network snapshot, a number of applications are also interested in knowing the potential importance of an individual in the future. However, current centrality is not necessarily an effective predictor of future centrality. While there are different measures of centrality, we focus on degree centrality in this paper. We develop a method that reconciles preferential attachment and triadic closure to capture a node's prominence profile. We show that the proposed node prominence profile method is an effective predictor of degree centrality. Notably, our analysis reveals that individuals in the early stage of evolution display a distinctive and robust signature in degree centrality trend, adequately predicted by their prominence profile. We evaluate our work across four real-world social networks. Our findings have important implications for the applications that require prediction of a node's future degree centrality, as well as the study of social network dynamics.
+C1 [Yang, Yang; Dong, Yuxiao; Chawla, Nitesh V.] Univ Notre Dame, Dept Comp Sci & Engn, Interdisciplinary Ctr Network Sci & Applicat iCeN, Notre Dame, IN 46556 USA.
+C3 University of Notre Dame
+RP Chawla, NV (corresponding author), Univ Notre Dame, Dept Comp Sci & Engn, Interdisciplinary Ctr Network Sci & Applicat iCeN, Notre Dame, IN 46556 USA.
+EM nchawla@nd.edu
+RI Yang, Yang/A-6288-2017; Chawla, Nitesh/F-2690-2016
+OI Chawla, Nitesh/0000-0003-3932-5956; Yang, Yang/0000-0003-4140-8128
+FU Army Research Laboratory [W911NF-09-2-0053]; U.S. Air Force Office of
+   Scientific Research (AFOSR) [FA9550-12-1-0405]; Defense Advanced
+   Research Projects Agency (DARPA)
+FX Research was sponsored by the Army Research Laboratory under Cooperative
+   Agreement Number W911NF-09-2-0053, and by the grant FA9550-12-1-0405
+   from the U.S. Air Force Office of Scientific Research (AFOSR) and the
+   Defense Advanced Research Projects Agency (DARPA).
+CR Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Brin S, 1998, COMPUT NETWORKS ISDN, V30, P107, DOI 10.1016/S0169-7552(98)00110-X
+   Burt R., 1983, APPL NETWORK ANAL ME, V1st
+   Davidsen J, 2002, PHYS REV LETT, V88, DOI 10.1103/PhysRevLett.88.128701
+   Davis J., 2006, P 23 INT C MACH LEAR, P233, DOI [10.1145/1143844.1143874, DOI 10.1145/1143844.1143874]
+   Deng H., 2011, PROC ACM SIGKDD C KN, P1271, DOI DOI 10.1145/2020408.2020600
+   Fawcett T., 2004, MACHINE LEARNING, V31, P1
+   FREEMAN LC, 1977, SOCIOMETRY, V40, P35, DOI 10.2307/3033543
+   Gross T, 2008, J R SOC INTERFACE, V5, P259, DOI 10.1098/rsif.2007.1229
+   Jin EM, 2001, PHYS REV E, V64, DOI 10.1103/PhysRevE.64.046132
+   Klimek P, 2013, NEW J PHYS, V15, DOI 10.1088/1367-2630/15/6/063008
+   Leskovec J., 2008, P 14 ACM SIGKDD INT, P462
+   Leskovec J, 2009, INTERNET MATH, V6, P29, DOI 10.1080/15427951.2009.10129177
+   Li MH, 2013, SCI REP-UK, V3, DOI 10.1038/srep02512
+   Li MH, 2010, NEW J PHYS, V12, DOI 10.1088/1367-2630/12/4/043029
+   Lichtenwalter J. T., 2010, Proceedings of the 16th ACM SIGKDD international conference on Knowledge discovery and data mining, P243
+   Litchenwalter R., 2012, Proceedings of the 21st World Wide Web Conference (WWW'12), P1019, DOI DOI 10.1145/2187836.2187973
+   Marsili M, 2004, P NATL ACAD SCI USA, V101, P1439, DOI 10.1073/pnas.0305684101
+   Mason SJ, 2002, Q J ROY METEOR SOC, V128, P2145, DOI 10.1256/003590002320603584
+   NEWCOMB T, 1958, AM SOCIOL REV, V23, P742, DOI 10.2307/2089062
+   Newman MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444
+   ROTHENBERG RB, 1995, SOC NETWORKS, V17, P273, DOI 10.1016/0378-8733(95)00267-R
+   SABIDUSSI G, 1966, PSYCHOMETRIKA, V31, P581, DOI 10.1007/BF02289527
+   Sahu A., 2011, IEEE Applied Imagery Pattern Recognition Workshop (AIPR), P1
+   Sharara H., 2012, Human Journal, V1, P1
+   Szell M, 2010, P NATL ACAD SCI USA, V107, P13636, DOI 10.1073/pnas.1004008107
+   Toivonen R, 2009, SOC NETWORKS, V31, P240, DOI 10.1016/j.socnet.2009.06.004
+   Valente Thomas W, 2008, Connect (Tor), V28, P16
+   Viswanath B, 2009, 2ND ACM SIGCOMM WORKSHOP ON ONLINE SOCIAL NETWORKS (WOSN 09), P37
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+NR 30
+TC 20
+Z9 23
+U1 0
+U2 10
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD NOV 28
+PY 2014
+VL 4
+AR 7236
+DI 10.1038/srep07236
+PG 7
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA AW4MI
+UT WOS:000346254800001
+PM 25429797
+OA gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Jung, JJ
+AF Jung, Jason J.
+TI Measuring trustworthiness of information diffusion by risk discovery
+   process in social networking services
+SO QUALITY & QUANTITY
+LA English
+DT Article
+DE Risk discovery; Knowledge dissemination; Personalized knowledge
+   management; Social network analysis
+ID CENTRALITY; FRAMEWORK; SYSTEM
+AB Most of current social network services are vulnerable to malicious actions. For example, rumor (e.g., contaminated and distorted information) can be diffused along the social links. In this paper, given a social network service, we design a peer-to-peer (P2P) network, and propose a robust information diffusion model to efficiently detect the malicious peers from which a risk (i.e., rumor) has been generated on the P2P network. Thereby, by aggregating social interactions among users, a set of interaction sequences are obtained. Given a set of interaction sequences, statistical sequence mining method is exploited to discover a certain social position which provides peculiar patterns on the P2P networks. For evaluating the proposed method, we conducted two experimentations with NetLogo simulation platform for risk discovery on social network.
+C1 Yeungnam Univ, Dept Comp Engn, Geongsan, South Korea.
+C3 Yeungnam University
+RP Jung, JJ (corresponding author), Yeungnam Univ, Dept Comp Engn, Geongsan, South Korea.
+EM j2jung@gmail.com
+RI Jung, Jason/B-9622-2012
+OI Jung, Jason/0000-0003-0050-7445
+CR [Anonymous], 35 ANN HAW INT C SYS
+   [Anonymous], P 10 INT C WORLD WID
+   [Anonymous], ACM SIGECOM EXCHANGE
+   Arrow KJ., 1951, SOCIAL CHOICE INDIVI
+   Borgatti SP, 2005, SOC NETWORKS, V27, P55, DOI 10.1016/j.socnet.2004.11.008
+   Chirita P. A., 2005, P 7 ANN ACM INT WORK, P67, DOI [10.1145/1097047.1097061, DOI 10.1145/1097047.1097061]
+   FREEMAN LC, 1977, SOCIOMETRY, V40, P35, DOI 10.2307/3033543
+   Garey M.R., 1979, GUIDE THEORY NP COMP
+   Goguen J., 2002, Formal Aspects of Computing, V13, P274, DOI 10.1007/s001650200013
+   Good N, 1999, SIXTEENTH NATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE (AAAI-99)/ELEVENTH INNOVATIVE APPLICATIONS OF ARTIFICIAL INTELLIGENCE (IAAI-99), P439
+   Jordan K., 2003, First Monday, V8
+   Jung JJ, 2012, INFORM SCIENCES, V182, P30, DOI 10.1016/j.ins.2010.08.042
+   Jung JJ, 2011, EXPERT SYST APPL, V38, P12786, DOI 10.1016/j.eswa.2011.04.070
+   Jung JJ, 2010, EXPERT SYST APPL, V37, P8401, DOI 10.1016/j.eswa.2010.05.041
+   Jung JJ, 2009, EXPERT SYST APPL, V36, P7123, DOI 10.1016/j.eswa.2008.08.048
+   Jung JJ, 2005, J UNIVERS COMPUT SCI, V11, P1780
+   Jung JJ, 2005, J UNIVERS COMPUT SCI, V11, P1383
+   Mooney C, 2002, MANAG INFORMAT SYST, V6, P93
+   Mooney CH, 2006, LECT NOTES ARTIF INT, V3755, P229
+   Newman MEJ, 2006, P NATL ACAD SCI USA, V103, P8577, DOI 10.1073/pnas.0601602103
+   Nguyen NT, 2002, INFORM SCIENCES, V147, P91, DOI 10.1016/S0020-0255(02)00260-8
+   O'Donovan J, 2005, 19TH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI-05), P1663
+   Ohsawa Y, 2002, NEW GENERAT COMPUT, V20, P143, DOI 10.1007/BF03037576
+   OMAHONY MP, 2002, LNCS, V2453, P494, DOI DOI 10.1007/3-540-46146-949
+   Roddick JF, 2005, IEEE T KNOWL DATA EN, V17, P133, DOI 10.1109/TKDE.2005.12
+   SABIDUSSI G, 1966, PSYCHOMETRIKA, V31, P581, DOI 10.1007/BF02289527
+   SHIMBEL ALFONSO, 1953, BULL MATH BIOPHYS, V15, P501, DOI 10.1007/BF02476438
+   Spiliopoulou M, 2003, INFORMS J COMPUT, V15, P171, DOI 10.1287/ijoc.15.2.171.14445
+   Teacy W., 2005, P 4 INT JOINT C AUTO, P997
+   Vidal J.M., 2004, TRUSTING AGENTS TRUS, P200
+   Vlachos M, 2006, DATA MIN KNOWL DISC, V12, P1, DOI 10.1007/s10618-005-0016-4
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   Yu B., 2003, 2 INT JOINT C AUTONO, P65, DOI DOI 10.1145/860575.860587
+   Zhang S., 2006, P 12 ACM SIGKDD INT, P809
+NR 34
+TC 17
+Z9 17
+U1 1
+U2 37
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0033-5177
+EI 1573-7845
+J9 QUAL QUANT
+JI Qual. Quant.
+PD MAY
+PY 2014
+VL 48
+IS 3
+BP 1325
+EP 1336
+DI 10.1007/s11135-013-9837-1
+PG 12
+WC Social Sciences, Interdisciplinary; Statistics & Probability
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics; Mathematics
+GA AI7GK
+UT WOS:000337053100012
+DA 2024-11-22
+ER
+
+PT J
+AU Appel, L
+   Dadlani, P
+   Dwyer, M
+   Hampton, K
+   Kitzie, V
+   Matni, ZA
+   Moore, P
+   Teodoro, R
+AF Appel, Lora
+   Dadlani, Punit
+   Dwyer, Maria
+   Hampton, Keith
+   Kitzie, Vanessa
+   Matni, Ziad A.
+   Moore, Patricia
+   Teodoro, Rannie
+TI Testing the validity of social capital measures in the study of
+   information and communication technologies
+SO INFORMATION COMMUNICATION & SOCIETY
+LA English
+DT Article
+DE social network; social support; Facebook; belonging; social capital;
+   attachment
+ID RESOURCE GENERATOR; NETWORK SITES; ONLINE; SUPPORT; HEALTH; ASSOCIATION;
+   RELIABILITY; ACCESS; TIES; GSS
+AB Social capital has been considered a cause and consequence of various uses of new information and communication technologies (ICTs). However, there is a growing divergence between how social capital is commonly measured in the study of ICTs and how it is measured in other fields. This departure raises questions about the validity of some of the most widely cited studies of social capital and ICTs. We compare the Internet Social Capital Scales (ISCS) developed by Williams [2006. On and off the 'net: scales for social capital in an online era. Journal of Computer-Mediated Communication, 11(2), 593-628. doi: 10.1111/j.1083-6101.2006.00029.x] - a series of psychometric scales commonly used to measure 'social capital' - to established, structural measures of social capital: name, position, and resource generators. Based on a survey of 880 undergraduate students (the population to which the ISCS has been most frequently administered), we find that, unlike structural measures, the ISCS does not distinguish between the distinct constructs of bonding and bridging social capital. The ISCS does not have convergent validity with structural measures of bonding or bridging social capital; it does not measure the same concept as structural measures. The ISCS conflates social capital with the related constructs of social support and attachment. The ISCS does not measure perceived or actual social capital. These findings raise concerns about the interpretations of existing studies of 'social capital' and ICTs that are based on the ISCS. Given the absence of measurement validity, we urge those studying social capital to abandon the ISCS in favor of alternative approaches.
+C1 [Hampton, Keith] Rutgers State Univ, Sch Commun & Informat, New Brunswick, NJ 08901 USA.
+C3 Rutgers University System; Rutgers University New Brunswick
+RP Hampton, K (corresponding author), Rutgers State Univ, Sch Commun & Informat, 4 Huntington St, New Brunswick, NJ 08901 USA.
+EM keith.hampton@rutgers.edu
+RI Hampton, Keith/R-7031-2019
+OI Kitzie, Vanessa/0000-0002-6499-9584; Hampton, Keith/0000-0001-6181-4700
+CR Ahn J, 2012, INFORM SOC, V28, P99, DOI 10.1080/01972243.2011.649394
+   [Anonymous], 2009, P 4 INT C COMM TECHN
+   [Anonymous], 2001, Social capital: theory and research
+   Bailey S, 1999, SOC NETWORKS, V21, P287, DOI 10.1016/S0378-8733(99)00013-1
+   Batjargal B, 2003, ORGAN STUD, V24, P535, DOI 10.1177/0170840603024004002
+   Bearman P, 2004, SOC FORCES, V83, P535, DOI 10.1353/sof.2005.0001
+   Bourdieu Pierre., 1984, DISTINCTION SOCIAL C, DOI DOI 10.1002/9780470755679.CH15
+   Bowlby J., 1979, MAKING BREAKING AFFE
+   Burke M., 2010, P SIGCHI C HUM FACT, P1909, DOI [DOI 10.1145/1753326.1753613, https://doi.org/10.1145/1753326.1753613]
+   BURT RS, 1984, SOC NETWORKS, V6, P293, DOI 10.1016/0378-8733(84)90007-8
+   Burt RS, 1997, SOC NETWORKS, V19, P355, DOI 10.1016/S0378-8733(97)00003-8
+   CAMPBELL DT, 1959, PSYCHOL BULL, V56, P81, DOI 10.1037/h0046016
+   Campbell SW, 2010, NEW MEDIA SOC, V12, P435, DOI 10.1177/1461444809343307
+   Chen WH, 2013, SOC SCI COMPUT REV, V31, P404, DOI 10.1177/0894439313480345
+   Chen WH, 2013, INFORM SOC, V29, P13, DOI 10.1080/01972243.2012.739265
+   Cohen J., 1988, STAT POWER ANAL BEHA, DOI 10.4324/9780203771587
+   COHEN S, 1983, J APPL SOC PSYCHOL, V13, P99, DOI 10.1111/j.1559-1816.1983.tb02325.x
+   Coleman J. S., 1966, MED INNOVATION DIFFU
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   Durlauf S.N., 1999, Focus, V20, P1
+   Ellison N, 2006, J COMPUT-MEDIAT COMM, V11
+   Erickson BonnieH., 2004, CREATION RETURNS SOC, P27
+   Fischer C.S., 1982, DWELL FRIENDS
+   Fischer CS, 2009, AM SOCIOL REV, V74, P657, DOI 10.1177/000312240907400408
+   Fischer CS, 2005, SOC NETWORKS, V27, P155, DOI 10.1016/j.socnet.2005.01.009
+   France MK, 2010, EDUC PSYCHOL MEAS, V70, P440, DOI 10.1177/0013164409344510
+   Furr RM, 2011, Scale Construction and Psychometrics for Social and Personality Psychology, P153, DOI [10.4135/9781446287866, DOI 10.4135/9781446287866]
+   Goulet LS., 2012, THESIS U PENNSYLVANI
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Hong-Chi Shiau, 2008, International Journal of Electronic Democracy, V1, P85, DOI 10.1504/IJED.2008.021279
+   Janevic MR, 2004, INT J AGING HUM DEV, V59, P153, DOI 10.2190/BY6D-LMK8-P8HT-DMP9
+   Kadushin C, 2004, SOC NETWORKS, V26, P75, DOI 10.1016/j.socnet.2004.01.009
+   Klofstad CA, 2009, PUBLIC OPIN QUART, V73, P462, DOI 10.1093/poq/nfp032
+   Lake RL, 1998, POLIT PSYCHOL, V19, P567, DOI 10.1111/0162-895x.00118
+   LIN N, 1986, SOC NETWORKS, V8, P365, DOI 10.1016/0378-8733(86)90003-1
+   Lin N., 2017, CONNECTIONS, P3, DOI DOI 10.4324/9781315129457-1
+   Lin N., 2002, SOCIAL CAPITAL THEOR
+   Lin Nan, 2001, Social capital: theory and research, P31
+   Lin Nan., 2008, Social Capital: An International Research Program, P1, DOI DOI 10.1093/ACPROF:OSO/9780199234387.003.0010
+   MARSDEN PV, 1987, AM SOCIOL REV, V52, P122, DOI 10.2307/2095397
+   Oh HS, 2004, ACAD MANAGE J, V47, P860, DOI 10.5465/20159627
+   OREILLY C, 1986, J APPL PSYCHOL, V71, P492, DOI 10.1037/0021-9010.71.3.492
+   PUTNAM R, 1995, J DEMOCRACY, V0006
+   Putnam R., 2001, CANADIAN J POLICY RE, V2, P41
+   Putnam Robert D., 2000, BOWLING ALONE COLLAP, DOI 10.1145/358916.361990
+   Rainie L, 2012, NETWORKED: THE NEW SOCIAL OPERATING SYSTEM, P1
+   Rains SA, 2011, COMMUN MONOGR, V78, P511, DOI 10.1080/03637751.2011.618142
+   Robinson JP, 2010, SOC SCI COMPUT REV, V28, P45, DOI 10.1177/0894439309335230
+   Scheufele DA, 2000, COMMUN RES, V27, P107, DOI 10.1177/009365000027002001
+   SHERBOURNE CD, 1991, SOC SCI MED, V32, P705, DOI 10.1016/0277-9536(91)90150-B
+   Skoric MM, 2009, J COMPUT-MEDIAT COMM, V14, P414, DOI 10.1111/j.1083-6101.2009.01447.x
+   STANSFELD S, 1992, SOC SCI MED, V35, P1027, DOI 10.1016/0277-9536(92)90242-I
+   Steinfield C, 2008, J APPL DEV PSYCHOL, V29, P434, DOI 10.1016/j.appdev.2008.07.002
+   Straits BC, 2000, SOC NETWORKS, V22, P123, DOI 10.1016/S0378-8733(00)00018-6
+   Tindall D.B., 2008, Social Capital: An International Research Program, P282
+   Tovar E, 2010, MEAS EVAL COUNS DEV, V43, P199, DOI 10.1177/0748175610384811
+   Trepte S, 2012, COMPUT HUM BEHAV, V28, P832, DOI 10.1016/j.chb.2011.12.003
+   Ugander J., 2011, The anatomy of the Facebook social graph, P1
+   Valenzuela S, 2009, J COMPUT-MEDIAT COMM, V14, P875, DOI 10.1111/j.1083-6101.2009.01474.x
+   Van Der Gaag M, 2005, SOC NETWORKS, V27, P1, DOI 10.1016/j.socnet.2004.10.001
+   Van der Gaag M., 2008, Position generator measures and their relationship to other social capital measures
+   Verhaeghe PP, 2012, HEALTH PLACE, V18, P358, DOI 10.1016/j.healthplace.2011.11.005
+   Webber MP, 2007, SOC SCI MED, V65, P481, DOI 10.1016/j.socscimed.2007.03.030
+   Weiten W., 2013, Psychology: Themes and variations, V9th
+   WELLMAN B, 1990, AM J SOCIOL, V96, P558, DOI 10.1086/229572
+   WELLMAN B, 1979, AM J SOCIOL, V84, P1201, DOI 10.1086/226906
+   Wellman B., 1999, NETWORKS GLOBAL VILL, P1
+   Williams D, 2006, J COMPUT-MEDIAT COMM, V11, DOI 10.1111/j.1083-6101.2006.00029.x
+   Woolcock M, 2010, ANNU REV POLIT SCI, V13, P469, DOI 10.1146/annurev.polisci.031108.094151
+NR 69
+TC 66
+Z9 78
+U1 2
+U2 120
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1369-118X
+EI 1468-4462
+J9 INFORM COMMUN SOC
+JI Info. Commun. Soc.
+PD APR 21
+PY 2014
+VL 17
+IS 4
+SI SI
+BP 398
+EP 416
+DI 10.1080/1369118X.2014.884612
+PG 19
+WC Communication; Sociology
+WE Social Science Citation Index (SSCI)
+SC Communication; Sociology
+GA AE3IR
+UT WOS:000333870700002
+DA 2024-11-22
+ER
+
+PT J
+AU Sueur, C
+   Maire, A
+AF Sueur, Cedric
+   Maire, Anais
+TI Modelling Animal Group Fission Using Social Network Dynamics
+SO PLOS ONE
+LA English
+DT Article
+ID COLLECTIVE DECISION-MAKING; FUSION DYNAMICS; TROOP FISSION; GROUP-SIZE;
+   MACAQUES; BEHAVIOR; CONSEQUENCES; INFORMATION; POPULATION; PRIMATES
+AB Group life involves both advantages and disadvantages, meaning that individuals have to compromise between their nutritional needs and their social links. When a compromise is impossible, the group splits in order to reduce conflict of interests and favour positive social interactions between its members. In this study we built a dynamic model of social networks to represent a succession of temporary fissions involving a change in social relations that could potentially lead to irreversible group fission (i.e. no more group fusion). This is the first study that assesses how a social network changes according to group fission-fusion dynamics. We built a model that was based on different parameters: the group size, the influence of nutritional needs compared to social needs, and the changes in the social network after a temporary fission. The results obtained from this theoretical data indicate how the percentage of social relation transfer, the number of individuals and the relative importance of nutritional requirements and social links influence the average number of days before irreversible fission occurs. The greater the nutritional needs and the higher the transfer of social relations during temporary fission, the fewer days will be observed before an irreversible fission. It is crucial to bridge the gap between the individual and the population level if we hope to understand how simple, local interactions may drive ecological systems.
+C1 [Sueur, Cedric; Maire, Anais] CNRS, Dept Ecol Physiol & Ethol, Strasbourg, France.
+   [Sueur, Cedric; Maire, Anais] Univ Strasbourg, Inst Pluridisciplinaire Hubert Curien, Strasbourg, France.
+   [Sueur, Cedric] Univ Libre Bruxelles, Unit Social Ecol, Brussels, Belgium.
+C3 Universites de Strasbourg Etablissements Associes; Universite de
+   Strasbourg; Centre National de la Recherche Scientifique (CNRS);
+   Universites de Strasbourg Etablissements Associes; Universite de
+   Strasbourg; Universite Libre de Bruxelles
+RP Sueur, C (corresponding author), CNRS, Dept Ecol Physiol & Ethol, Strasbourg, France.
+EM cedric.sueur@iphc.cnrs.fr
+RI Sueur, Cedric/A-4020-2011
+OI Sueur, Cedric/0000-0001-8206-2739
+FU Fyssen foundation; USIAS (University of Strasbourg Institute for
+   Advanced Study)
+FX CS is granted by the Fyssen foundation and the USIAS (University of
+   Strasbourg Institute for Advanced Study). The funders had no role in
+   study design, data collection and analysis, decision to publish, or
+   preparation of the manuscript.
+CR Alexander R.D., 1974, Annual Rev Ecol Syst, V5, P325, DOI 10.1146/annurev.es.05.110174.001545
+   [Anonymous], 2002, Living in Groups
+   Asensio N, 2009, BEHAV ECOL SOCIOBIOL, V63, P649, DOI 10.1007/s00265-008-0699-9
+   Aureli F, 2008, CURR ANTHROPOL, V49, P627, DOI 10.1086/586708
+   Baigger A, 2013, NATURWISSENSCHAFTEN, V100, P895, DOI 10.1007/s00114-013-1090-x
+   Bull CM, 2012, MOL ECOL, V21, P4386, DOI 10.1111/j.1365-294X.2012.05653.x
+   Conradt L, 2005, TRENDS ECOL EVOL, V20, P449, DOI 10.1016/j.tree.2005.05.008
+   Conradt L, 2003, NATURE, V421, P155, DOI 10.1038/nature01294
+   Couzin ID, 2009, CURR BIOL, V19, pR633, DOI 10.1016/j.cub.2009.05.034
+   CROOK JH, 1966, NATURE, V210, P1200, DOI 10.1038/2101200a0
+   Danchin É, 2004, SCIENCE, V305, P487, DOI 10.1126/science.1098254
+   DITTUS WPJ, 1988, ANIM BEHAV, V36, P1626, DOI 10.1016/S0003-3472(88)80104-0
+   Dunbar RIM, 1998, EVOL ANTHROPOL, V6, P178, DOI 10.1002/(SICI)1520-6505(1998)6:5<178::AID-EVAN5>3.3.CO;2-P
+   Foster EA, 2012, ANIM BEHAV, V83, P731, DOI 10.1016/j.anbehav.2011.12.021
+   Freeman HD, 2010, AM J PRIMATOL, V72, P653, DOI 10.1002/ajp.20833
+   Grimm V, 2006, ECOL MODEL, V198, P115, DOI 10.1016/j.ecolmodel.2006.04.023
+   Grimm V, 2010, ECOL MODEL, V221, P2760, DOI 10.1016/j.ecolmodel.2010.08.019
+   HAMILTON WD, 1971, J THEOR BIOL, V31, P295, DOI 10.1016/0022-5193(71)90189-5
+   Hood LC, 1995, INT J PRIMATOL, V16, P997, DOI 10.1007/BF02696113
+   Jacobs A, 2011, INT J PRIMATOL, V32, P721, DOI 10.1007/s10764-011-9497-8
+   Jacobs A, 2010, BEHAV PROCESS, V84, P678, DOI 10.1016/j.beproc.2010.03.004
+   Kanngiesser P, 2011, AM J PRIMATOL, V73, P758, DOI 10.1002/ajp.20914
+   Kasper C, 2009, PRIMATES, V50, P343, DOI 10.1007/s10329-009-0153-2
+   Kerth G, 2011, P ROY SOC B-BIOL SCI, V278, P2761, DOI 10.1098/rspb.2010.2718
+   King AJ, 2011, ANIM BEHAV, V82, P1337, DOI 10.1016/j.anbehav.2011.09.017
+   King AJ, 2009, BEHAV ECOL, V20, P1039, DOI 10.1093/beheco/arp095
+   Lefebvre D, 2003, BEHAV ECOL SOCIOBIOL, V53, P402, DOI 10.1007/s00265-002-0578-8
+   Lehmann J, 2009, P ROY SOC B-BIOL SCI, V276, P4417, DOI 10.1098/rspb.2009.1409
+   Lusseau D, 2004, P ROY SOC B-BIOL SCI, V271, pS477, DOI 10.1098/rsbl.2004.0225
+   Lycett SJ, 2007, P NATL ACAD SCI USA, V104, P17588, DOI 10.1073/pnas.0707930104
+   Martin-Ordas G, 2013, CURR BIOL, V23, P1438, DOI 10.1016/j.cub.2013.06.017
+   MELNICK DJ, 1983, BEHAV ECOL SOCIOBIOL, V12, P229, DOI 10.1007/BF00290775
+   MENARD N, 1993, INT J PRIMATOL, V14, P479, DOI 10.1007/BF02192778
+   Morrell LJ, 2008, ANIM BEHAV, V76, P855, DOI 10.1016/j.anbehav.2008.02.015
+   OI T, 1988, PRIMATES, V29, P1, DOI 10.1007/BF02380846
+   Okamoto K, 2001, INT J PRIMATOL, V22, P481, DOI 10.1023/A:1010711813637
+   Petit O, 2009, P ROY SOC B-BIOL SCI, V276, P3495, DOI 10.1098/rspb.2009.0983
+   PRUDHOMME J, 1991, PRIMATES, V32, P9, DOI 10.1007/BF02381597
+   R Foundation for Statistical Computing, 2020, R LANGUAGE ENV STAT
+   Ramos-Fernández G, 2006, BEHAV ECOL SOCIOBIOL, V60, P536, DOI 10.1007/s00265-006-0197-x
+   Romey WL, 2008, BEHAV ECOL, V19, P338, DOI 10.1093/beheco/arm138
+   Simpson SJ, 2004, ANIM BEHAV, V68, P1299, DOI 10.1016/j.anbehav.2004.03.003
+   Smith JE, 2008, ANIM BEHAV, V76, P619, DOI 10.1016/j.anbehav.2008.05.001
+   Suddendorf T, 2003, TRENDS COGN SCI, V7, P391, DOI 10.1016/S1364-6613(03)00187-6
+   Sueur C, 2011, ANIM BEHAV, V82, P845, DOI 10.1016/j.anbehav.2011.07.020
+   Sueur C, 2011, P ROY SOC B-BIOL SCI, V278, P1697, DOI 10.1098/rspb.2010.2084
+   Sueur C, 2010, J EXP BIOL, V213, P1338, DOI 10.1242/jeb.039016
+   Sueur C, 2009, ANIM BEHAV, V78, P1087, DOI 10.1016/j.anbehav.2009.07.029
+   Sueur C, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0032566
+   Sueur C, 2011, INT J PRIMATOL, V32, P1413, DOI 10.1007/s10764-011-9520-0
+   Sueur C, 2011, OIKOS, V120, P1608, DOI 10.1111/j.1600-0706.2011.19685.x
+   Sueur C, 2011, J THEOR BIOL, V273, P156, DOI 10.1016/j.jtbi.2010.12.035
+   Sueur C, 2011, AM J PRIMATOL, V73, P703, DOI 10.1002/ajp.20915
+   Sueur C, 2010, PLOS COMPUT BIOL, V6, DOI 10.1371/journal.pcbi.1000917
+   Tisue S., 2004, INT C COMPL SYST BOS, V21, P16
+   Van Horn RC, 2007, BEHAV ECOL SOCIOBIOL, V61, P1823, DOI 10.1007/s00265-007-0415-1
+   Voelkl B, 2008, J THEOR BIOL, V252, P77, DOI 10.1016/j.jtbi.2008.02.002
+   Wey T, 2008, ANIM BEHAV, V75, P333, DOI 10.1016/j.anbehav.2007.06.020
+   Wittemyer G, 2005, ANIM BEHAV, V69, P1357, DOI 10.1016/j.anbehav.2004.08.018
+   Wolf JBW, 2008, P ROY SOC B-BIOL SCI, V275, P2063, DOI 10.1098/rspb.2008.0356
+   Wolf M, 2012, TRENDS ECOL EVOL, V27, P452, DOI 10.1016/j.tree.2012.05.001
+   WRANGHAM RW, 1980, BEHAVIOUR, V75, P262, DOI 10.1163/156853980X00447
+   YAMAGIWA J, 1985, Primates, V26, P105, DOI 10.1007/BF02382011
+NR 63
+TC 20
+Z9 20
+U1 0
+U2 45
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD MAY 15
+PY 2014
+VL 9
+IS 5
+AR e97813
+DI 10.1371/journal.pone.0097813
+PG 10
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA AI3UI
+UT WOS:000336789500119
+PM 24831471
+OA Green Published, Green Submitted, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Robbins, B
+   Welser, HT
+   Grigoryeva, M
+   Gleave, E
+AF Robbins, Blaine
+   Welser, Howard T.
+   Grigoryeva, Maria
+   Gleave, Eric
+TI Power-use in cooperative competition: A power-dependence model and an
+   empirical test of network structure and geographic mobility
+SO SOCIAL SCIENCE RESEARCH
+LA English
+DT Article
+DE Power-dependence theory; Social exchange theory; Exponential random
+   graph models
+ID RANDOM GRAPH MODELS; P-ASTERISK MODELS; EXCHANGE NETWORKS; SOCIAL
+   NETWORKS; LOGISTIC REGRESSIONS; NEGOTIATED EXCHANGE; RECIPROCAL
+   EXCHANGE; ULTIMATE FRISBEE; MARKOV GRAPHS; FORMAL THEORY
+AB Although the social exchange paradigm has produced a vibrant research program, the theoretical tradition is rarely used to model the structure of social networks outside of experiments and simulations. To address this limitation, we derive power-dependence predictions about network structure and geographic mobility-the outcomes of power-use-and test these predictions using complete data on competition networks and travel schedules among amateur sports teams. Poisson regression and exponential random graph models provide strong support for our predictions. The findings illustrate exchange dynamics in which status resources desired by teams, coupled with the availability of geographically proximal alternatives, create power and dependence that dictate where and with whom teams compete. Although evidence supports Georg Simmel's classic proposition that networks form on the basis of values and propinquity, we show that this complex dynamic is conditional on power and dependence. We conclude by discussing implications and directions for future research. (c) 2014 Elsevier Inc. All rights reserved.
+C1 [Robbins, Blaine; Grigoryeva, Maria; Gleave, Eric] Univ Washington, Dept Sociol, Seattle, WA 98195 USA.
+   [Welser, Howard T.] Ohio Univ, Dept Sociol & Anthropol, Athens, OH 45701 USA.
+C3 University of Washington; University of Washington Seattle; University
+   System of Ohio; Ohio University
+RP Robbins, B (corresponding author), Univ Washington, Dept Sociol, 211 Savery Hall,Box 353340, Seattle, WA 98195 USA.
+EM adduct@uw.edu; welser@ohio.edu; grigorym@uw.edu; eric.gleave@gmail.com
+RI Welser, Howard/O-9868-2019
+OI Welser, Howard/0000-0002-6715-1335
+CR [Anonymous], 1968, Latent structure analysis
+   [Anonymous], 2003, statnet: Software tools for the Statistical Modeling of Network Data, DOI DOI 10.1371/journal.pcbi.0020100
+   [Anonymous], 1972, Sociological theories in progress
+   [Anonymous], 1992, Structural holes
+   [Anonymous], ADV GROUP PROCESSES
+   Berger J, 2006, AM J SOCIOL, V111, P1038, DOI 10.1086/498633
+   Blau P.M., 1964, EXCHANGE POWER SOC
+   Blau P.M., 1977, INEQUALITY HETEROGEN
+   Blau PeterMichael., 1984, CROSSCUTTING SOCIAL
+   Bossard JHS, 1932, AM J SOCIOL, V38, P219, DOI 10.1086/216031
+   Burris V, 2004, AM SOCIOL REV, V69, P239, DOI 10.1177/000312240406900205
+   Butts CT, 2003, SOC NETWORKS, V25, P103, DOI 10.1016/S0378-8733(02)00038-2
+   Casciaro T, 2005, ADMIN SCI QUART, V50, P167, DOI 10.2189/asqu.2005.50.2.167
+   Coleman J.S., 1994, FDN SOCIAL THEORY
+   Cook K., 1987, Social exchange theory
+   COOK KS, 1992, ANNU REV SOCIOL, V18, P109, DOI 10.1146/annurev.so.18.080192.000545
+   COOK KS, 1978, AM SOCIOL REV, V43, P721, DOI 10.2307/2094546
+   COOK KS, 1983, AM J SOCIOL, V89, P275, DOI 10.1086/227866
+   COOK KS, 1992, SOC NETWORKS, V14, P245, DOI 10.1016/0378-8733(92)90004-Q
+   Corra M, 2002, SOCIOL THEOR, V20, P180, DOI 10.1111/1467-9558.00158
+   DiPrete TA, 2006, ANNU REV SOCIOL, V32, P271, DOI 10.1146/annurev.soc.32.061604.123127
+   Ekeh Peter., 1974, SOCIAL EXCHANGE THEO
+   EMERSON RM, 1962, AM SOCIOL REV, V27, P31, DOI 10.2307/2089716
+   EMERSON RM, 1964, SOCIOMETRY, V27, P282, DOI 10.2307/2785619
+   Feld SL, 1997, SOC NETWORKS, V19, P91, DOI 10.1016/S0378-8733(96)00293-6
+   Foa U.G., 1976, Contemporary topics in social psychology
+   Foa U.G., 1974, SOC STRUCTURES MIND
+   FRANK O, 1986, J AM STAT ASSOC, V81, P832, DOI 10.2307/2289017
+   Frank RH, 1988, Passions within Reason: The Strategic Role of Emotions
+   FRIEDKIN NE, 1986, J MATH SOCIOL, V12, P103, DOI 10.1080/0022250X.1986.9990008
+   FRIEDKIN NE, 1992, SOC NETWORKS, V14, P213, DOI 10.1016/0378-8733(92)90002-O
+   Goodreau SM, 2007, SOC NETWORKS, V29, P231, DOI 10.1016/j.socnet.2006.08.001
+   GRANOVETTER M, 1985, AM J SOCIOL, V91, P481, DOI 10.1086/228311
+   Griggs G, 2009, SPORT SOC, V12, P1317, DOI 10.1080/17430430903204827
+   Griggs G, 2011, SPORT SOC, V14, P97, DOI 10.1080/17430437.2011.530013
+   Griggs G, 2009, SOC CULT GEOGR, V10, P757, DOI 10.1080/14649360903205124
+   Gulati R, 1995, ADMIN SCI QUART, V40, P619, DOI 10.2307/2393756
+   HEDSTROM P, 1994, AM J SOCIOL, V99, P1157, DOI 10.1086/230408
+   Heider F, 1958, PSYCHOL INTERPERSONA
+   Hoff PD, 2002, J AM STAT ASSOC, V97, P1090, DOI 10.1198/016214502388618906
+   Holland PW., 1976, Sociol. Methodol, V7, P1, DOI [DOI 10.2307/270703, 10.2307/270703]
+   Homans G.C., 1950, The Human Group
+   Homans G.C., 1974, Social Behavior: Its Elementary Forms
+   Huberman BA, 2004, SOC PSYCHOL QUART, V67, P103, DOI 10.1177/019027250406700109
+   Hunter DR, 2007, SOC NETWORKS, V29, P216, DOI 10.1016/j.socnet.2006.08.005
+   Kossinets G, 2006, SOC NETWORKS, V28, P247, DOI 10.1016/j.socnet.2005.07.002
+   Krivitsky PN, 2012, ELECTRON J STAT, V6, P1100, DOI 10.1214/12-EJS696
+   Lawler EJ, 2008, AM SOCIOL REV, V73, P519, DOI 10.1177/000312240807300401
+   Lawler EJ, 2001, AM J SOCIOL, V107, P321, DOI 10.1086/324071
+   LAWLER EJ, 1993, AM SOCIOL REV, V58, P465, DOI 10.2307/2096071
+   Lazer D, 2009, SCIENCE, V323, P721, DOI 10.1126/science.1167742
+   Leonardo P. A., 2005, Ultimate: The First Four Decades
+   LOVAGLIA MJ, 1995, SMALL GR RES, V26, P400, DOI 10.1177/1046496495263005
+   Lusher Dean, 2012, Exponential random graph models for social networks: Theory, methods, and applications
+   Manger MS, 2012, J CONFLICT RESOLUT, V56, P853, DOI 10.1177/0022002712438351
+   MARKOVSKY B, 1988, AM SOCIOL REV, V53, P220, DOI 10.2307/2095689
+   MEEKER BF, 1971, AM SOCIOL REV, V36, P485, DOI 10.2307/2093088
+   MERTON RK, 1968, SCIENCE, V159, P56, DOI 10.1126/science.159.3810.56
+   Molm L.D., 1997, COERCIVE POWER SOCIA
+   Molm L.D., 1995, Sociological Perspectives on Social Psychology, P209
+   Molm LD, 1999, AM SOCIOL REV, V64, P876, DOI 10.2307/2657408
+   Molm LD, 2000, AM J SOCIOL, V105, P1396, DOI 10.1086/210434
+   Molm LD, 2003, ADV GROUP PROCESS, V20, P31, DOI 10.1006/S0882-6145(03)20002-3
+   Pattison P, 1999, BRIT J MATH STAT PSY, V52, P169, DOI 10.1348/000711099159053
+   Rivera MT, 2010, ANNU REV SOCIOL, V36, P91, DOI 10.1146/annurev.soc.34.040507.134743
+   Robbins B, 2004, J SPORT SOC ISSUES, V28, P314, DOI 10.1177/0193723504266992
+   Robbins BG, 2012, SOCIOL SPECTRUM, V32, P270, DOI 10.1080/02732173.2012.663713
+   Robins G, 2007, SOC NETWORKS, V29, P173, DOI 10.1016/j.socnet.2006.08.002
+   Schaefer DR, 2012, SOC FORCES, V90, P1271, DOI 10.1093/sf/sos065
+   Simmel G., 1950, SOCIOLOGY G SIMMEL
+   SIMPSON B, 2002, STRUCTURE CULTURE HI, P231
+   SKVORETZ J, 1995, SOC PSYCHOL QUART, V58, P163, DOI 10.2307/2787040
+   SKVORETZ J, 1993, AM SOCIOL REV, V58, P801, DOI 10.2307/2095952
+   Snijders TAB, 2006, SOCIOL METHODOL, V36, P99, DOI 10.1111/j.1467-9531.2006.00176.x
+   Snijders TAB, 2011, ANNU REV SOCIOL, V37, P131, DOI 10.1146/annurev.soc.012809.102709
+   Sorenson O, 2001, AM J SOCIOL, V106, P1546, DOI 10.1086/321301
+   Steglich C, 2010, SOCIOL METHODOL, V40, P329, DOI 10.1111/j.1467-9531.2010.01225.x
+   STOLTE JF, 1988, SOC PSYCHOL QUART, V51, P357, DOI 10.2307/2786762
+   Stolte John., 1977, BEHAV THEORY SOCIOLO, P117, DOI [DOI 10.4324/9781351319201, 10.4324/9781351319201]
+   Stuart T, 2003, RES POLICY, V32, P229, DOI 10.1016/S0048-7333(02)00098-7
+   Stuart TE, 2003, ADMIN SCI QUART, V48, P175, DOI 10.2307/3556656
+   Thye SR, 2000, AM SOCIOL REV, V65, P407, DOI 10.2307/2657464
+   Thye SR, 2006, SOC FORCES, V84, P1471, DOI 10.1353/sof.2006.0070
+   van de Rijt A, 2006, SOC FORCES, V84, P1455
+   Wasserman S, 1996, PSYCHOMETRIKA, V61, P401, DOI 10.1007/BF02294547
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   Wellman B., 1983, SOCIOL THEORY, V1, P155, DOI [10.2307/202050, DOI 10.2307/202050]
+   White H.C., 1970, CHAINS OPPORTUNITY
+   Willer David., 1987, THEORY EXPT INVESTIG
+   YAMAGISHI T, 1988, AM J SOCIOL, V93, P833, DOI 10.1086/228826
+   Zhu MX, 2013, SOC NETWORKS, V35, P251, DOI 10.1016/j.socnet.2013.03.001
+NR 91
+TC 2
+Z9 3
+U1 2
+U2 39
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0049-089X
+EI 1096-0317
+J9 SOC SCI RES
+JI Soc. Sci. Res.
+PD MAY
+PY 2014
+VL 45
+BP 131
+EP 151
+DI 10.1016/j.ssresearch.2014.01.004
+PG 21
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA AD1NI
+UT WOS:000333000300010
+PM 24576632
+DA 2024-11-22
+ER

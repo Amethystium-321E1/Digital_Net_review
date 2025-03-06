@@ -1,0 +1,600 @@
+
+PT J
+AU Ma, SJ
+   Feng, L
+   Lai, CH
+AF Ma, Sijuan
+   Feng, Ling
+   Lai, Choy-Heng
+TI Mechanistic modelling of viral spreading on empirical social network and
+   popularity prediction
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+AB Online social networks are becoming major platforms for people to exchange opinions and information. While spreading models have been used to study the dynamics of spreading on social networks, the actual spreading mechanism on social networks may be different from these previous models due to users' limited attention and heterogeneous interests. The tractability of the spreading process in social networks allows us to develop a detailed and realistic model accounting for these factors. In addition, the empirical social networks have higher order correlations among node degrees, especially for directed networks like Twitter, that could affect the dynamics of spreading. Based on the analysis of the retweet process in the empirical Twitter network, we find both non-trivial correlations in network structures and non-standard spreading mechanisms for viral tweets. In particular, there is a strong evidence of information overload for retweeting behaviors that is not in line with the standard spreading model like the SIR (Susceptible, Infectious and Recovered) model, and can be described by a sublinear function. From these empirical findings, we introduce an intrinsic variable "attractiveness" to the message, describing the overall propensity for any node to retweet the message, and present the analytical equations to solve such an empirical process, validated through numerical simulations. The results from our model is consistent with findings from the empirical Twitter data. Our analysis also indicates a close relationship between the spreading sub-network structure and the final popularity of the information, leading to a method to predict the popularity of tweets more accurately than existing models.
+C1 [Ma, Sijuan; Feng, Ling; Lai, Choy-Heng] Natl Univ Singapore, Dept Phys, Singapore 117551, Singapore.
+   [Feng, Ling] ASTAR, Inst High Performance Comp, Comp Sci Dept, Singapore 138632, Singapore.
+   [Lai, Choy-Heng] Natl Univ Singapore, Ctr Quantum Technol, Singapore 117543, Singapore.
+C3 National University of Singapore; Agency for Science Technology &
+   Research (A*STAR); A*STAR - Institute of High Performance Computing
+   (IHPC); National University of Singapore
+RP Feng, L (corresponding author), Natl Univ Singapore, Dept Phys, Singapore 117551, Singapore.; Feng, L (corresponding author), ASTAR, Inst High Performance Comp, Comp Sci Dept, Singapore 138632, Singapore.
+EM felney@gmail.com
+RI Feng, Ling/ABD-1751-2020
+CR Abdullah S, 2011, PROC INT C TOOLS ART, P163, DOI 10.1109/ICTAI.2011.33
+   Bailey NTJ., 1975, MATH THEORY INFECT D
+   Bakshy E., 2012, P 21 INT C WORLD WID, P519, DOI DOI 10.1145/2187836.2187907
+   Bakshy E., 2011, P 4 ACM INT C WEB SE, P65, DOI DOI 10.1145/1935826.1935845
+   Bao P, 2013, PROCEEDINGS OF THE 22ND INTERNATIONAL CONFERENCE ON WORLD WIDE WEB (WWW'13 COMPANION), P177
+   Cha M, 2007, IMC'07: PROCEEDINGS OF THE 2007 ACM SIGCOMM INTERNET MEASUREMENT CONFERENCE, P1
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Feng L, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0126090
+   Galuba W., 2010, WOSN, V10, P3
+   Gao S, 2014, WWW'14 COMPANION: PROCEEDINGS OF THE 23RD INTERNATIONAL CONFERENCE ON WORLD WIDE WEB, P269, DOI 10.1145/2567948.2577312
+   Giachanou A, 2016, ACM COMPUT SURV, V49, DOI 10.1145/2938640
+   Gleeson JP, 2016, PHYS REV X, V6, DOI 10.1103/PhysRevX.6.021019
+   Gleeson JP, 2014, P NATL ACAD SCI USA, V111, P10411, DOI 10.1073/pnas.1313895111
+   Goel S, 2016, MANAGE SCI, V62, P180, DOI 10.1287/mnsc.2015.2158
+   Grinberg Nir., 2013, ICWSM
+   Gruhl D., 2004, P 13 INT C WORLD WID, P491, DOI [DOI 10.1145/988672.988739, DOI 10.1145/1046456.1046462]
+   Harris T. E., 2002, THEORY BRANCHING PRO
+   Hong L., 2011, P 20 INT C COMPANION, P57, DOI [DOI 10.1145/1963192.1963222, 10.1145/1963192.1963222]
+   Hu Y., 2015, QUANTIFY MAXIMISE GL
+   Ienco D., 2010, Proceedings 2010 10th IEEE International Conference on Data Mining Workshops (ICDMW 2010), P328, DOI 10.1109/ICDMW.2010.127
+   Jaakkola TS, 2001, NEU INF PRO, P129
+   Jiang Wang., 2014, INT J MULTIMED UBIQU, V9, P21, DOI DOI 10.1371/J0URNAL.P0NE.0099225
+   Jin F., 2013, P 7 WORKSH SOC NETW, V8
+   Jong Gun Lee, 2010, Proceedings 2010 IEEE/ACM International Conference on Web Intelligence-Intelligent Agent Technology (WI-IAT), P623, DOI 10.1109/WI-IAT.2010.209
+   Kitsak M, 2010, NAT PHYS, V6, P888, DOI [10.1038/NPHYS1746, 10.1038/nphys1746]
+   Król D, 2015, INTEL SYST REF LIBR, V85, pV
+   Kumar Shamanth., 2013, TWITTER DATA ANAL
+   Lerman K., 2012, Social Contagion: An Empirical Study of Information Spread
+   Lerman K., 2010, Proc. of WWW '10, P621, DOI DOI 10.1145/1772690.1772754
+   Lerman K., 2011, ARXIV11060346
+   Lerman K, 2016, FUTURE INTERNET, V8, DOI 10.3390/fi8020021
+   Makse H. A, 2016, ARXIV161001587
+   Nekovee M, 2007, PHYSICA A, V374, P457, DOI 10.1016/j.physa.2006.07.017
+   Newman MEJ, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.016128
+   Pastor-Satorras R, 2001, PHYS REV LETT, V86, P3200, DOI 10.1103/PhysRevLett.86.3200
+   Szabo G, 2010, COMMUN ACM, V53, P80, DOI 10.1145/1787234.1787254
+   Vega-Redondo F., 2007, COMPLEX SOCIAL NETWO, V44
+   Weng L, 2012, SCI REP-UK, V2, P1, DOI 10.1038/srep00335
+   Wu F, 2007, P NATL ACAD SCI USA, V104, P17599, DOI 10.1073/pnas.0704916104
+   Yang L., 2012, P 21 INT C WORLD WID, P261, DOI 10.1145/2187836.2187872
+   Zhao LJ, 2013, PHYSICA A, V392, P995, DOI 10.1016/j.physa.2012.09.030
+   Zhao QY, 2015, KDD'15: PROCEEDINGS OF THE 21ST ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P1513, DOI 10.1145/2783258.2783401
+NR 42
+TC 4
+Z9 6
+U1 0
+U2 13
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD SEP 3
+PY 2018
+VL 8
+AR 13126
+DI 10.1038/s41598-018-31346-0
+PG 10
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA GS3GS
+UT WOS:000443477000010
+PM 30177853
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Haber, N
+   Smith, ER
+   Moscoe, E
+   Andrews, K
+   Audy, R
+   Bell, W
+   Brennan, AT
+   Breskin, A
+   Kane, JC
+   Karra, M
+   McClure, ES
+   Suarez, EA
+AF Haber, Noah
+   Smith, Emily R.
+   Moscoe, Ellen
+   Andrews, Kathryn
+   Audy, Robin
+   Bell, Winnie
+   Brennan, Alana T.
+   Breskin, Alexander
+   Kane, Jeremy C.
+   Karra, Mahesh
+   McClure, Elizabeth S.
+   Suarez, Elizabeth A.
+CA CLAIMS Res Team
+TI Causal language and strength of inference in academic and media articles
+   shared in social media (CLAIMS): A systematic review
+SO PLOS ONE
+LA English
+DT Review
+ID RANDOMIZED CONTROLLED-TRIALS; PRESS RELEASES; OBESITY; CANCER; HEALTH;
+   IMPACT; NEWS
+AB Background
+   The pathway from evidence generation to consumption contains many steps which can lead to overstatement or misinformation. The proliferation of internet-based health news may encourage selection of media and academic research articles that overstate strength of causal inference. We investigated the state of causal inference in health research as it appears at the end of the pathway, at the point of social media consumption.
+   Methods
+   We screened the NewsWhip Insights database for the most shared media articles on Facebook and Twitter reporting about peer-reviewed academic studies associating an exposure with a health outcome in 2015, extracting the 50 most-shared academic articles and media articles covering them. We designed and utilized a review tool to systematically assess and summarize studies' strength of causal inference, including generalizability, potential confounders, and methods used. These were then compared with the strength of causal language used to describe results in both academic and media articles. Two randomly assigned independent reviewers and one arbitrating reviewer from a pool of 21 reviewers assessed each article.
+   Results
+   We accepted the most shared 64 media articles pertaining to 50 academic articles for review, representing 68% of Facebook and 45% of Twitter shares in 2015. Thirty-four percent of academic studies and 48% of media articles used language that reviewers considered too strong for their strength of causal inference. Seventy percent of academic studies were considered low or very low strength of inference, with only 6% considered high or very high strength of causal inference. The most severe issues with academic studies' causal inference were reported to be omitted confounding variables and generalizability. Fifty-eight percent of media articles were found to have inaccurately reported the question, results, intervention, or population of the academic study.
+   Conclusions
+   We find a large disparity between the strength of language as presented to the research consumer and the underlying strength of causal inference among the studies most widely shared on social media. However, because this sample was designed to be representative of the articles selected and shared on social media, it is unlikely to be representative of all academic and media work. More research is needed to determine how academic institutions, media organizations, and social network sharing patterns impact causal inference and language as received by the research consumer.
+C1 [Haber, Noah; Smith, Emily R.; Moscoe, Ellen; Andrews, Kathryn; Karra, Mahesh] Harvard TH Chan Sch Publ Hlth, Dept Global Hlth & Populat, Boston, MA 02215 USA.
+   [Haber, Noah; Andrews, Kathryn] Univ North Carolina Chapel Hill, Carolina Populat Ctr, Chapel Hill, NC 27599 USA.
+   [Smith, Emily R.] Boston Childrens Hosp, Div Gastroenterol Hepatol & Nutr, Boston, MA USA.
+   [Moscoe, Ellen] Univ Penn, Perelman Sch Med, Dept Med Eth & Hlth Policy, Philadelphia, PA 19104 USA.
+   [Audy, Robin] Unaffiliated, Philadelphia, PA USA.
+   [Bell, Winnie] Tufts Univ, Friedman Sch Nutr Sci & Policy, Boston, MA 02111 USA.
+   [Brennan, Alana T.] Boston Univ, Sch Publ Hlth, Dept Global Hlth, Boston, MA USA.
+   [Brennan, Alana T.] Boston Univ, Sch Publ Hlth, Dept Epidemiol, Boston, MA USA.
+   [Breskin, Alexander; McClure, Elizabeth S.; Suarez, Elizabeth A.] Univ N Carolina, Gillings Sch Global Publ Hlth, Dept Epidemiol, Chapel Hill, NC 27515 USA.
+   [Kane, Jeremy C.] Johns Hopkins Bloomberg Sch Publ Hlth, Dept Mental Hlth, Baltimore, MD USA.
+   [Karra, Mahesh] Boston Univ, Frederick S Pardee Sch Global Studies, Boston, MA 02215 USA.
+C3 Harvard University; Harvard T.H. Chan School of Public Health;
+   University of North Carolina School of Medicine; University of North
+   Carolina; University of North Carolina Chapel Hill; Harvard University;
+   Boston Children's Hospital; University of Pennsylvania; Tufts
+   University; Boston University; Boston University; University of North
+   Carolina; University of North Carolina Chapel Hill; Johns Hopkins
+   University; Johns Hopkins Bloomberg School of Public Health; Boston
+   University
+RP Haber, N (corresponding author), Harvard TH Chan Sch Publ Hlth, Dept Global Hlth & Populat, Boston, MA 02215 USA.
+EM nhaber@unc.edu; ersmith@hsph.harvard.edu; ellen.moscoe@gmail.com;
+   kathryn.andrews@mail.harvard.edu; robinaudy@gmail.com;
+   winnie.bell@tufts.edu; abrennan@bu.edu; abreskin@live.unc.edu;
+   jkane29@jhu.edu; mvkarra@bu.edu; emcclure@unc.edu; easuarez4@gmail.com
+RI Kane, Jeremy/JTU-1481-2023; Karra, Mahesh/K-8578-2019; Breskin,
+   Alexander/L-6375-2019
+OI Brennan, Alana/0000-0002-7746-0668; McClure,
+   Elizabeth/0000-0002-2339-8766; Breskin, Alexander/0000-0001-5568-2510;
+   Karra, Mahesh/0000-0003-0962-092X; Suarez,
+   Elizabeth/0000-0001-8989-7878; Haber, Noah/0000-0002-5672-1769
+CR Anand V, 2016, PULM CIRC, V6, P295, DOI 10.1086/687304
+   [Anonymous], INSIGHTS
+   [Anonymous], 2016, State of the news media
+   [Anonymous], 2015, J CITATION REPORTS
+   [Anonymous], HEALTH MEDIA REVIEW
+   [Anonymous], 2015, SCIENCE, DOI [DOI 10.1126/science.aac4716, 10.1126/science.aac4716, DOI 10.1126/SCIENCE.AAC4716]
+   [Anonymous], RES PROJ SUCC RAT NI
+   Boutron I, 2014, J CLIN ONCOL, V32, P4120, DOI 10.1200/JCO.2014.56.7503
+   Boutron I, 2010, JAMA-J AM MED ASSOC, V303, P2058, DOI 10.1001/jama.2010.651
+   Brookes PS, 2014, PEERJ, V2, DOI 10.7717/peerj.313
+   Brown AW, 2013, AM J CLIN NUTR, V98, P1298, DOI 10.3945/ajcn.113.064410
+   Chapman S, 2007, TOB CONTROL, V16, P71, DOI 10.1136/tc.2006.019034
+   Chiu K, 2017, PLOS BIOL, V15, DOI 10.1371/journal.pbio.2002173
+   Cofield SS, 2010, OBESITY FACTS, V3, P353, DOI 10.1159/000322940
+   Desai S, 2016, BMJ-BRIT MED J, V355, DOI 10.1136/bmj.i6357
+   Dumas-Mallet E, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0172650
+   Dwan K, 2008, PLOS ONE, V3, DOI 10.1371/journal.pone.0003081
+   Faasse K, 2012, BMJ OPEN, V2, DOI 10.1136/bmjopen-2012-001607
+   Fanelli D, 2012, SCIENTOMETRICS, V90, P891, DOI 10.1007/s11192-011-0494-7
+   Gillum LA, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0016837
+   Grilli R., 2002, Cochrane Database Syst Rev, DOI [DOI 10.1002/14651858.CD000389, 10.1002/14651858.cd000389, 10.1002/14651858.CD000389]
+   Haneef R, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0140889
+   Head ML, 2015, PLOS BIOL, V13, DOI 10.1371/journal.pbio.1002106
+   Hernán MA, 2008, EPIDEMIOLOGY, V19, P766, DOI 10.1097/EDE.0b013e3181875e61
+   HIGGINS JPT, 2011, COCHRANE HDB SYSTEMA, V0001
+   Higgins JPT, 2016, COCHRANE DB SYST REV, V10, P29
+   Horton R, 2015, LANCET, V385, P1380, DOI 10.1016/S0140-6736(15)60696-1
+   Ioannidis JPA, 2016, PLOS MED, V13, DOI 10.1371/journal.pmed.1002049
+   Ioannidis JPA, 2005, PLOS MED, V2, P696, DOI 10.1371/journal.pmed.0020124
+   Kelaher M, 2008, INT J EPIDEMIOL, V37, P1326, DOI 10.1093/ije/dyn090
+   Lesko CR, 2017, EPIDEMIOLOGY, V28, P20, DOI 10.1097/EDE.0000000000000565
+   Lockyer S, 2013, TRIALS, V14, DOI 10.1186/1745-6215-14-371
+   Marcovitch H, 2010, PLOS MED, V7, DOI 10.1371/journal.pmed.1000355
+   Matthews A, 2016, BMJ-BRIT MED J, V353, DOI 10.1136/bmj.i3283
+   Moher D, 2010, INT J SURG, V8, P336, DOI [10.1016/j.ijsu.2010.02.007, 10.1136/bmj.b2535, 10.1016/j.ijsu.2010.07.299, 10.1371/journal.pmed.1000097, 10.1186/2046-4053-4-1, 10.1136/bmj.b2700, 10.1136/bmj.i4086]
+   Moynihan R, 2000, NEW ENGL J MED, V342, P1645, DOI 10.1056/NEJM200006013422206
+   Nielsen R., 2016, Challenges and Opportunities for News Media and Journalism in an Increasingly Digital, Mobile, and Social Media Environment
+   OCEBM Levels of Evidence Working Group, 2011, OXFORD 2011 LEVELS E
+   Prasad V, 2013, J CLIN EPIDEMIOL, V66, P361, DOI 10.1016/j.jclinepi.2012.11.005
+   R Core Team, 2016, R LANG ENV STAT COMP
+   Rysz-Górzynska M, 2016, SCI REP-UK, V6, DOI 10.1038/srep30060
+   Schwitzer G, 2008, PLOS MED, V5, P700, DOI 10.1371/journal.pmed.0050095
+   Sterne JAC, 2016, BMJ-BRIT MED J, V355, DOI 10.1136/bmj.i4919
+   Sumner P, 2014, BMJ-BRIT MED J, V349, DOI 10.1136/bmj.g7015
+   Westreich D, 2016, AM J PUBLIC HEALTH, V106, P1011, DOI 10.2105/AJPH.2016.303226
+   Woloshin S, 2009, ANN INTERN MED, V150, P613, DOI 10.7326/0003-4819-150-9-200905050-00007
+   Yavchitz A, 2012, PLOS MED, V9, DOI 10.1371/journal.pmed.1001308
+NR 47
+TC 56
+Z9 62
+U1 1
+U2 23
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD MAY 30
+PY 2018
+VL 13
+IS 5
+AR e0196346
+DI 10.1371/journal.pone.0196346
+PG 21
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA GH7NG
+UT WOS:000433634800008
+PM 29847549
+OA Green Published, Green Submitted, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Karczmarczyk, A
+   Jankowski, J
+   Watróbski, J
+AF Karczmarczyk, Artur
+   Jankowski, Jaroslaw
+   Watrobski, Jaroslaw
+TI Multi-criteria decision support for planning and evaluation of
+   performance of viral marketing campaigns in social networks
+SO PLOS ONE
+LA English
+DT Article
+ID INFLUENTIAL SPREADERS; SELECTION; INFORMATION; DIFFUSION;
+   IDENTIFICATION; ELECTRE; BUDGET; TIME
+AB The current marketing landscape, apart from conventional approaches, consists of campaigns designed especially for launching information diffusion processes within online networks. Associated research is focused on information propagation models, campaign initialization strategies and factors affecting campaign dynamics. In terms of algorithms and performance evaluation, the final coverage represented by the fraction of activated nodes within a target network is usually used. It is not necessarily consistent with the real marketing campaigns using various characteristics and parameters related to coverage, costs, behavioral patterns and time factors for overall evaluation. This paper presents assumptions for a decision support system for multi-criteria campaign planning and evaluation with inputs from agent-based simulations. The results, which are delivered from a simulation model based on synthetic networks in a form of decision scenarios, are verified within a real network. Last, but not least, the study proposes a multi-objective campaign evaluation framework with several campaign evaluation metrics integrated. The results showed that the recommendations generated with the use of synthetic networks applied to real networks delivered results according to the decision makers' expectation in terms of the used evaluation criteria. Apart from practical applications, the proposed multi-objective approach creates new evaluation possibilities for theoretical studies focused on information spreading processes within complex networks.
+C1 [Karczmarczyk, Artur; Jankowski, Jaroslaw] West Pomeranian Univ Technol Szczecin, Fac Comp Sci & Informat Technol, Ul Zolnierska 49, PL-71210 Szczecin, Poland.
+   [Watrobski, Jaroslaw] Univ Szczecin, Fac Econ & Management, Mickiewicza 64, PL-71101 Szczecin, Poland.
+C3 West Pomeranian University of Technology; University of Szczecin
+RP Jankowski, J (corresponding author), West Pomeranian Univ Technol Szczecin, Fac Comp Sci & Informat Technol, Ul Zolnierska 49, PL-71210 Szczecin, Poland.
+EM jjankowski@wi.zut.edu.pl
+RI Karczmarczyk, Artur/Q-4066-2019; Wątróbski, Jarosław/ABI-7844-2020
+OI Karczmarczyk, Artur/0000-0002-1135-7510; Watrobski,
+   Jaroslaw/0000-0002-4415-9414; Jankowski, Jaroslaw/0000-0002-3658-3039
+FU National Science Centre, Poland [2016/21/B/HS4/01562]
+FX This work was supported by the National Science Centre, Poland, grant
+   no. 2016/21/B/HS4/01562. This work was supported by the National Science
+   Centre, Poland, grant no. 2016/21/B/HS4/01562.
+CR [Anonymous], ARXIV170904123
+   [Anonymous], 2007, BUS HORIZONS, DOI DOI 10.1016/J.BUSHOR.2007.01.004
+   [Anonymous], GEN FRAMEWORK MULTIC
+   [Anonymous], 2015, Theory of Computing, DOI DOI 10.4086/TOC.2015.V011A004
+   [Anonymous], SCI CHINA INFORM SCI
+   [Anonymous], ARXIV160907526
+   [Anonymous], ARXIV180206946
+   [Anonymous], 2010, An integrated approach to communication theory and research
+   [Anonymous], 1994, SOCIAL NETWORK ANAL
+   Bampo M, 2008, INFORM SYST RES, V19, P273, DOI 10.1287/isre.1070.0152
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Berger J, 2012, J MARKETING RES, V49, P192, DOI 10.1509/jmr.10.0353
+   Camarero C, 2011, COMPUT HUM BEHAV, V27, P2292, DOI 10.1016/j.chb.2011.07.008
+   Ceballos B, 2016, PROG ARTIF INTELL, V5, P315, DOI 10.1007/s13748-016-0093-1
+   Celik M, 2009, EXPERT SYST APPL, V36, P6477, DOI 10.1016/j.eswa.2008.07.038
+   Chang YH, 2013, APPL SOFT COMPUT, V13, P2179, DOI 10.1016/j.asoc.2012.12.009
+   Chen W, 2010, KDD
+   Corrente S, 2013, OMEGA-INT J MANAGE S, V41, P820, DOI 10.1016/j.omega.2012.10.009
+   Cruz D, 2008, MARK INTELL PLAN, V26, P743, DOI 10.1108/02634500810916690
+   Dinh TN, 2014, IEEE ACM T NETWORK, V22, P2001, DOI 10.1109/TNET.2013.2290714
+   Doo M, 2014, IEEE T SERV COMPUT, V7, P387, DOI 10.1109/TSC.2014.2310216
+   Erdos P., 1959, PUBL MATH-DEBRECEN, V6, P290
+   Figueira J, 2005, INT SER OPER RES MAN, V78, P1, DOI 10.1007/b100605
+   Goyal A, 2013, SOC NETW ANAL MIN, V3, P179, DOI 10.1007/s13278-012-0062-z
+   Granell C, 2014, PHYS REV E, V90, DOI 10.1103/PhysRevE.90.012808
+   Guitouni A, 1998, EUR J OPER RES, V109, P501, DOI 10.1016/S0377-2217(98)00073-3
+   Hanna R, 2011, BUS HORIZONS, V54, P265, DOI 10.1016/j.bushor.2011.01.007
+   He JL, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0145283
+   Helm S., 2001, Electronic Markets, V10, P158, DOI 10.1080/10196780050177053
+   Hinz O, 2011, J MARKETING, V75, P55, DOI 10.1509/jm.10.0088
+   Ho JYC, 2010, J BUS RES, V63, P1000, DOI 10.1016/j.jbusres.2008.08.010
+   Hu H, 2018, IEEE T CIRC SYST VID, V28, P759, DOI 10.1109/TCSVT.2016.2620152
+   Jankowski J, 2018, SCI REP-UK, V8, DOI 10.1038/s41598-018-32081-2
+   Jankowski J, 2017, ENTROPY-SWITZ, V19, DOI 10.3390/e19040170
+   Kandhway K, 2014, APPL MATH COMPUT, V231, P79, DOI 10.1016/j.amc.2013.12.164
+   Kiss C, 2008, DECIS SUPPORT SYST, V46, P233, DOI 10.1016/j.dss.2008.06.007
+   Kitsak M, 2010, NAT PHYS, V6, P888, DOI [10.1038/NPHYS1746, 10.1038/nphys1746]
+   Kolios A, 2016, ENERGIES, V9, DOI 10.3390/en9070566
+   Kotnis B, 2017, IEEE ACM T NETWORK, V25, P1621, DOI 10.1109/TNET.2016.2645281
+   KULLBACK S, 1951, ANN MATH STAT, V22, P79, DOI 10.1214/aoms/1177729694
+   Kurka T, 2013, RENEW SUST ENERG REV, V27, P225, DOI 10.1016/j.rser.2013.07.001
+   Liu-Thompkins Y, 2012, J ADVERTISING RES, V52, P465, DOI 10.2501/JAR-52-4-465-478
+   Long C, 2014, INFORM SYST, V46, P1, DOI 10.1016/j.is.2014.05.003
+   Iribarren JL, 2009, PHYS REV LETT, V103, DOI 10.1103/PhysRevLett.103.038702
+   Mardani A, 2015, EXPERT SYST APPL, V42, P4126, DOI 10.1016/j.eswa.2015.01.003
+   Massaro E, 2014, PHYS REV E, V90, DOI 10.1103/PhysRevE.90.052817
+   Michalski R, 2014, NEW GENERAT COMPUT, V32, P213, DOI 10.1007/s00354-014-0402-9
+   Nanopoulos A, 2015, ECIS
+   Nejad MG, 2015, J RETAILING, V91, P68, DOI 10.1016/j.jretai.2014.11.002
+   Newman MEJ, 2001, P NATL ACAD SCI USA, V98, P404, DOI 10.1073/pnas.021544898
+   Nguyen HT, 2016, IEEE INFOCOM SER
+   Ni YD, 2017, J AMB INTEL HUM COMP, V8, P819, DOI 10.1007/s12652-017-0552-y
+   Peng Y, 2012, INFORM SCIENCES, V191, P3, DOI 10.1016/j.ins.2010.04.019
+   Pfitzner R., 2012, ICWSM, V12, P2
+   Roy B, 2005, INT SER OPER RES MAN, V78, P3, DOI 10.1007/0-387-23081-5_1
+   Roy B, 2013, EURO J DECIS PROCESS, V1, P69, DOI 10.1007/s40070-013-0004-7
+   Salehi M, 2015, IEEE T NETW SCI ENG, V2, P65, DOI 10.1109/TNSE.2015.2425961
+   Sankar CP, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0168125
+   Seeman L, 2013, ANN IEEE SYMP FOUND, P459, DOI 10.1109/FOCS.2013.56
+   Shakarian P, 2012, 2012 IEEE/ACM INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING (ASONAM), P1, DOI 10.1109/ASONAM.2012.11
+   Stieglitz S, 2013, J MANAGE INFORM SYST, V29, P217, DOI 10.2753/MIS0742-1222290408
+   Tang J., 2016, Intl. Test Conf, P1
+   Ulengin F, 2001, LECT NOTES ECON MATH, V507, P101
+   VANSNICK JC, 1986, EUR J OPER RES, V24, P288, DOI 10.1016/0377-2217(86)90051-2
+   Wang C, 2012, DATA MIN KNOWL DISC, V25, P545, DOI 10.1007/s10618-012-0262-1
+   Wang XT, 2008, OMEGA-INT J MANAGE S, V36, P45, DOI 10.1016/j.omega.2005.12.003
+   Watróbski J, 2018, SUSTAINABILITY-BASEL, V10, DOI 10.3390/su10093223
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Watts Duncan J., 2007, Viral marketing for the real world
+   Wei X, 2018, SIAM J APPL DYN SYST, V17, P1503, DOI 10.1137/17M1134202
+   Wei X, 2016, EPL-EUROPHYS LETT, V114, DOI 10.1209/0295-5075/114/26006
+   Welker C. B., 2002, Information Services & Use, V22, P3
+   Zhang BL, 2015, LECT NOTES COMPUT SC, V9050, P418, DOI 10.1007/978-3-319-18123-3_25
+   Zhang JX, 2016, SCI REP-UK, V6, DOI 10.1038/srep27823
+   Zhang P, 2014, PROCEEDINGS OF THE 20TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING (KDD'14), P1306, DOI 10.1145/2623330.2623684
+   Zhang X, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0183290
+NR 76
+TC 35
+Z9 35
+U1 0
+U2 25
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD DEC 27
+PY 2018
+VL 13
+IS 12
+AR e0209372
+DI 10.1371/journal.pone.0209372
+PG 32
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA HF7KM
+UT WOS:000454418200021
+PM 30589859
+OA Green Published, gold, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Yu, LS
+   Woodall, WH
+   Tsui, KL
+AF Yu, Lisha
+   Woodall, William H.
+   Tsui, Kwok-Leung
+TI Detecting node propensity changes in the dynamic degree corrected
+   stochastic block model
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Dynamic networks; Multivariate control charts; Network surveillance;
+   Statistical process monitoring
+ID MULTIVARIATE CONTROL CHARTS; ANOMALY DETECTION; BLOCKMODELS; NETWORKS
+AB Many applications involve dynamic networks for which a sequence of snapshots of network structure is available over time. Studying the evolution of node propensity over time can be important in exploring and analyzing these networks. In this paper, we propose a multivariate surveillance plan to monitor node propensity in the dynamic degree corrected stochastic block model. The method is flexible enough to detect anomalous nodes that arise from different mechanisms, including individual change, individuals switch, and global change. Experiments on simulated and case study social network data streams demonstrate that our surveillance strategy can efficiently detect node propensity changes in dynamic networks. (C) 2018 Elsevier B.V. All rights reserved.
+C1 [Yu, Lisha; Tsui, Kwok-Leung] City Univ Hong Kong, Dept Syst Engn & Engn Management, Kowloon, Hong Kong, Peoples R China.
+   [Woodall, William H.] Virginia Tech, Dept Stat, Blacksburg, VA USA.
+C3 City University of Hong Kong; Virginia Polytechnic Institute & State
+   University
+RP Yu, LS (corresponding author), City Univ Hong Kong, Dept Syst Engn & Engn Management, Kowloon, Hong Kong, Peoples R China.
+EM lishayu2-c@my.cityu.edu.hk; bwoodall@vt.edu; kltsui@cityu.edu.hk
+RI Tsui, Kwok-Leung/JTU-2163-2023; Woodall, William/A-8094-2009
+OI YU, Lisha/0000-0001-8025-6396
+FU NSF [CMMI-1436365]; Hong Kong Research Grant Council [T32-101/15-R];
+   National Natural Science Foundation of China [11471275]
+FX We would like to thank the anonymous reviewers for their insightful
+   comments and suggestions. The work of W. H. Woodall was supported by NSF
+   grant CMMI-1436365. Kwok-Leung Tsui's research was supported by the Hong
+   Kong Research Grant Council (Ref. T32-101/15-R), and National Natural
+   Science Foundation of China (Ref. 11471275).
+CR AITCHISON J, 1982, J ROY STAT SOC B, V44, P139
+   Aitchison J, 2005, MATH GEOL, V37, P829, DOI 10.1007/s11004-005-7383-7
+   Akoglu L, 2010, LECT NOTES ARTIF INT, V6119, P410
+   [Anonymous], 2013, P NIPS, DOI DOI 10.1103/PHYSREVD.29.2975
+   [Anonymous], EUR PHYS J B
+   [Anonymous], 2011, DETECTING CHANGE LON
+   [Anonymous], ARXIV160504049
+   Azarnoush B, 2016, J QUAL TECHNOL, V48, P28, DOI 10.1080/00224065.2016.11918149
+   Bindu PV, 2016, J NETW COMPUT APPL, V68, P213, DOI 10.1016/j.jnca.2016.02.021
+   Boyles RA, 1997, J APPL STAT, V24, P589, DOI 10.1080/02664769723567
+   Buccianti A, 2011, COMPOSITIONAL DATA ANALYSIS: THEORY AND APPLICATIONS, P255
+   Chau DH, 2006, LECT NOTES ARTIF INT, V4213, P103
+   Chen You, 2011, ISI, V2011, P119, DOI 10.1109/ISI.2011.5984061
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Eagle N., 2005, MACHINE PERCEPTION L
+   Eagle N, 2006, PERS UBIQUIT COMPUT, V10, P255, DOI 10.1007/s00779-005-0046-3
+   Eberle W, 2010, J APPL SEC RES, V6, P32, DOI 10.1080/19361610.2011.529413
+   Egozcue JJ, 2003, MATH GEOL, V35, P279, DOI 10.1023/A:1023818214614
+   Fire M., 2012, HUMAN J, V1, P26
+   Hassanzadeh R., 2012, International Conference on Web Information Systems Engineering, P624
+   HOLLAND PW, 1983, SOC NETWORKS, V5, P109, DOI 10.1016/0378-8733(83)90021-7
+   Holmes D.S., 1993, QUAL ENG, V5, P619, DOI DOI 10.1080/08982119308919004
+   Hotelling H., 1947, Techniques of Statistical Analysis, P111
+   Jiang W, 2008, IIE TRANS, V40, P650, DOI 10.1080/07408170701745352
+   Jindal Nitin., 2010, Proceedings of the 19th ACM international conference on Information and knowledge management, CIKM '10, P1549
+   Karrer B, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.016107
+   Keefe MJ, 2015, QUAL ENG, V27, P488, DOI 10.1080/08982112.2015.1065323
+   Li ZM, 2012, DATA MIN KNOWL DISC, V25, P577, DOI 10.1007/s10618-012-0255-0
+   LOWRY CA, 1995, IIE TRANS, V27, P800, DOI 10.1080/07408179508936797
+   Marchette D, 2012, WIRES COMPUT STAT, V4, P466, DOI 10.1002/wics.1217
+   Mateu-Figueras G, 2008, MATH GEOSCI, V40, P489, DOI 10.1007/s11004-008-9169-1
+   Mateu-Figueras G, 2013, SORT-STAT OPER RES T, V37, P29
+   Montgomery DC., 2013, INTRO STAT QUALITY
+   Neil J, 2013, TECHNOMETRICS, V55, P403, DOI 10.1080/00401706.2013.822830
+   Newman MEJ, 2006, P NATL ACAD SCI USA, V103, P8577, DOI 10.1073/pnas.0601602103
+   Newman MEJ, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.066133
+   Nowicki K, 2001, J AM STAT ASSOC, V96, P1077, DOI 10.1198/016214501753208735
+   Park Y, 2013, IEEE J-STSP, V7, P67, DOI 10.1109/JSTSP.2012.2233712
+   PIGNATIELLO JJ, 1990, J QUAL TECHNOL, V22, P173, DOI 10.1080/00224065.1990.11979237
+   Priebe C. Y., 2005, Computational & Mathematical Organization Theory, V11, P229, DOI 10.1007/s10588-005-5378-z
+   Ranshous S, 2015, WIRES COMPUT STAT, V7, P223, DOI 10.1002/wics.1347
+   Saleh NA, 2015, J QUAL TECHNOL, V47, P127, DOI 10.1080/00224065.2015.11918120
+   Savage D, 2014, SOC NETWORKS, V39, P62, DOI 10.1016/j.socnet.2014.05.002
+   Sengupta S, 2015, STAT SINICA, V25, P1081, DOI 10.5705/ss.2013.231
+   Snijders TAB, 1996, J MATH SOCIOL, V21, P149, DOI 10.1080/0022250X.1996.9990178
+   Sullivan JH, 1996, J QUAL TECHNOL, V28, P398, DOI 10.1080/00224065.1996.11979698
+   Timm NH, 1996, J QUAL TECHNOL, V28, P233, DOI 10.1080/00224065.1996.11979663
+   TRACY ND, 1992, J QUAL TECHNOL, V24, P88, DOI 10.1080/00224065.1992.12015232
+   Vives-Mestres M, 2016, IIE TRANS, V48, P661, DOI 10.1080/0740817X.2015.1125042
+   Vives-Mestres M, 2014, J QUAL TECHNOL, V46, P127, DOI 10.1080/00224065.2014.11917958
+   Vives-Mestres M, 2014, QUAL RELIAB ENG INT, V30, P337, DOI 10.1002/qre.1583
+   Williams JD, 2006, J QUAL TECHNOL, V38, P217, DOI 10.1080/00224065.2006.11918611
+   WOODALL WH, 1985, TECHNOMETRICS, V27, P285, DOI 10.2307/1269710
+   Woodall WH, 2017, IISE TRANS, V49, P354, DOI 10.1080/0740817X.2016.1213468
+   Xu KS, 2014, IEEE J-STSP, V8, P552, DOI 10.1109/JSTSP.2014.2310294
+   Yang GQ, 2004, J MATER CIVIL ENG, V16, P28, DOI 10.1061/(ASCE)0899-1561(2004)16:1(28)
+   Zhao M, 2017, THESIS
+   Zhu YJ, 2014, J COMPLEX NETW, V2, P1, DOI 10.1093/comnet/cnt011
+NR 58
+TC 29
+Z9 32
+U1 1
+U2 12
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JUL
+PY 2018
+VL 54
+BP 209
+EP 227
+DI 10.1016/j.socnet.2018.03.004
+PG 19
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA GG5XH
+UT WOS:000432768600018
+DA 2024-11-22
+ER
+
+PT J
+AU Parkinson, C
+   Kleinbaum, AM
+   Wheatley, T
+AF Parkinson, Carolyn
+   Kleinbaum, Adam M.
+   Wheatley, Thalia
+TI Similar neural responses predict friendship
+SO NATURE COMMUNICATIONS
+LA English
+DT Article
+ID SOCIAL NETWORKS; BRAIN ACTIVITY; PERSONALITY; ATTENTION; STORY
+AB Human social networks are overwhelmingly homophilous: individuals tend to befriend others who are similar to them in terms of a range of physical attributes (e.g., age, gender). Do similarities among friends reflect deeper similarities in how we perceive, interpret, and respond to the world? To test whether friendship, and more generally, social network proximity, is associated with increased similarity of real-time mental responding, we used functional magnetic resonance imaging to scan subjects' brains during free viewing of naturalistic movies. Here we show evidence for neural homophily: neural responses when viewing audiovisual movies are exceptionally similar among friends, and that similarity decreases with increasing distance in a real-world social network. These results suggest that we are exceptionally similar to our friends in how we perceive and respond to the world around us, which has implications for interpersonal influence and attraction.
+C1 [Parkinson, Carolyn] Univ Calif Los Angeles, Dept Psychol, 1285 Franz Hall,Box 951563, Los Angeles, CA 90095 USA.
+   [Kleinbaum, Adam M.] Dartmouth Coll, Tuck Sch Business, 100 Tuck Hall, Hanover, NH 03755 USA.
+   [Wheatley, Thalia] Dartmouth Coll, Dept Psychol & Brain Sci, 6207 Moore Hall, Hanover, NH 03755 USA.
+C3 University of California System; University of California Los Angeles;
+   Dartmouth College; Dartmouth College
+RP Parkinson, C (corresponding author), Univ Calif Los Angeles, Dept Psychol, 1285 Franz Hall,Box 951563, Los Angeles, CA 90095 USA.
+EM cparkinson@ucla.edu
+RI ; Kleinbaum, Adam/M-4316-2013
+OI Parkinson, Carolyn/0000-0001-7128-3480; Kleinbaum,
+   Adam/0000-0003-3654-2154
+FU Neukom Institute for Computational Science; Dartmouth Cross-disciplinary
+   Collaboration Seed Grant
+FX This work was supported by a graduate fellowship from the Neukom
+   Institute for Computational Science and a Dartmouth Cross-disciplinary
+   Collaboration Seed Grant.
+CR Ames DL, 2015, J COGNITIVE NEUROSCI, V27, P655, DOI 10.1162/jocn_a_00728
+   [Anonymous], BEING MOVED MIRROR N
+   [Anonymous], 2012, R: A Language and Environment for Statistical Computing
+   [Anonymous], NIPY PYSURFER VERSIO
+   [Anonymous], 2006, INTERJOURNALCOMPLEX
+   [Anonymous], 1992, Structural holes
+   [Anonymous], 2016, SEABORN V0 7 1
+   Apicella CL, 2012, NATURE, V481, P497, DOI 10.1038/nature10736
+   Ben-Yakov A, 2011, J NEUROSCI, V31, P9032, DOI 10.1523/JNEUROSCI.0702-11.2011
+   Berger C.R., 1975, HUMAN COMMUNICATION, V1, P99, DOI [10.1111/j.1468-2958.1975.tb00258.x, DOI 10.1111/J.1468-2958.1975.TB00258.X]
+   Cameron AC, 2011, J BUS ECON STAT, V29, P238, DOI 10.1198/jbes.2010.07136
+   Cantlon JF, 2013, PLOS BIOL, V11, DOI 10.1371/journal.pbio.1001462
+   Christakis NA, 2009, Connected: The Surprising Power of Our Social Networks and How They Shape Our Lives
+   Christakis NA, 2014, P NATL ACAD SCI USA, V111, P10796, DOI 10.1073/pnas.1400825111
+   Christakis NA, 2013, STAT MED, V32, P556, DOI 10.1002/sim.5408
+   Cialdini RB, 2004, ANNU REV PSYCHOL, V55, P591, DOI 10.1146/annurev.psych.55.090902.142015
+   Clore G.L., 1974, Foundations of interpersonal attraction, P143, DOI [10.1016/b978-0-12-362950-0.50013-6, DOI 10.1016/B978-0-12-362950-0.50013-6]
+   Corbetta M, 2002, NAT REV NEUROSCI, V3, P201, DOI 10.1038/nrn755
+   Cox RW, 1996, COMPUT BIOMED RES, V29, P162, DOI 10.1006/cbmr.1996.0014
+   Dagli MS, 1999, NEUROIMAGE, V9, P407, DOI 10.1006/nimg.1998.0424
+   Desikan RS, 2006, NEUROIMAGE, V31, P968, DOI 10.1016/j.neuroimage.2006.01.021
+   Feiler DC, 2015, PSYCHOL SCI, V26, P593, DOI 10.1177/0956797615569580
+   Fischl B, 2012, NEUROIMAGE, V62, P774, DOI 10.1016/j.neuroimage.2012.01.021
+   Fowler JH, 2011, P NATL ACAD SCI USA, V108, P1993, DOI 10.1073/pnas.1011687108
+   Fu F, 2012, SCI REP-UK, V2, DOI 10.1038/srep00845
+   Gilchrist JS, 2007, BEHAV PROCESS, V76, P100, DOI 10.1016/j.beproc.2006.12.013
+   Hasson U, 2012, TRENDS COGN SCI, V16, P114, DOI 10.1016/j.tics.2011.12.007
+   Hasson U, 2010, TRENDS COGN SCI, V14, P40, DOI 10.1016/j.tics.2009.10.011
+   Hasson U, 2009, AUTISM RES, V2, P220, DOI 10.1002/aur.89
+   Hunter JD, 2007, COMPUT SCI ENG, V9, P90, DOI 10.1109/MCSE.2007.55
+   Kastner S, 2000, ANNU REV NEUROSCI, V23, P315, DOI 10.1146/annurev.neuro.23.1.315
+   Kenny D. A., 2020, DYADIC DATA ANAL
+   King MF, 2000, PSYCHOL MARKET, V17, P79, DOI 10.1002/(SICI)1520-6793(200002)17:2<79::AID-MAR2>3.0.CO;2-0
+   Kleinbaum AM, 2015, ORGAN SCI, V26, P1226, DOI 10.1287/orsc.2014.0961
+   Kleinbaum AM, 2013, ORGAN SCI, V24, P1316, DOI 10.1287/orsc.1120.0804
+   Knutson B, 2005, CURR OPIN NEUROL, V18, P411, DOI 10.1097/01.wco.0000173463.24758.f6
+   Lahnakoski JM, 2014, NEUROIMAGE, V100, P316, DOI 10.1016/j.neuroimage.2014.06.022
+   Lewis K, 2012, P NATL ACAD SCI USA, V109, P68, DOI 10.1073/pnas.1109739109
+   Mar RA, 2011, ANNU REV PSYCHOL, V62, P103, DOI 10.1146/annurev-psych-120709-145406
+   Massen JJM, 2014, EVOL HUM BEHAV, V35, P1, DOI 10.1016/j.evolhumbehav.2013.08.008
+   Mcclure SM, 2004, NEUROSCIENTIST, V10, P260, DOI 10.1177/1073858404263526
+   MCPHERSON JM, 1987, AM SOCIOL REV, V52, P370, DOI 10.2307/2095356
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Monti MM, 2011, FRONT HUM NEUROSCI, V5, DOI 10.3389/fnhum.2011.00028
+   Moody J, 2004, AM SOCIOL REV, V69, P213, DOI 10.1177/000312240406900204
+   Nummenmaa L, 2012, P NATL ACAD SCI USA, V109, P9599, DOI 10.1073/pnas.1206095109
+   Parkinson C, 2017, NAT HUM BEHAV, V1, DOI 10.1038/s41562-017-0072
+   Pedregosa F, 2011, J MACH LEARN RES, V12, P2825
+   Rivera MT, 2010, ANNU REV SOCIOL, V36, P91, DOI 10.1146/annurev.soc.34.040507.134743
+   Selfhout M, 2010, J PERS, V78, P509, DOI 10.1111/j.1467-6494.2010.00625.x
+   Selfhout M, 2009, J PERS SOC PSYCHOL, V96, P1152, DOI 10.1037/a0014468
+   Shomstein S, 2012, FRONT INTEGR NEUROSC, V6, DOI 10.3389/fnint.2012.00038
+   SMITH JM, 1984, BEHAV BRAIN SCI, V7, P95, DOI 10.1017/S0140525X00026327
+   Soon CS, 2008, NAT NEUROSCI, V11, P543, DOI 10.1038/nn.2112
+   Titelman G.Y., 1996, RANDOM HOUSE DICT PO
+   Wickham H, 2009, USE R, P1, DOI 10.1007/978-0-387-98141-3
+   Willems RM, 2014, NAT REV NEUROSCI, V15, P193, DOI 10.1038/nrn3679
+   Wilson T.D., 2002, STRANGERS OURSELVES
+   Wilson T.D., 1978, Social Psychology, V41, P118
+   Windischberger C, 2002, MAGN RESON IMAGING, V20, P575, DOI 10.1016/S0730-725X(02)00563-5
+   Yeshurun Y, 2017, PSYCHOL SCI, V28, P307, DOI 10.1177/0956797616682029
+NR 61
+TC 169
+Z9 193
+U1 3
+U2 68
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+EI 2041-1723
+J9 NAT COMMUN
+JI Nat. Commun.
+PD JAN 30
+PY 2018
+VL 9
+AR 332
+DI 10.1038/s41467-017-02722-7
+PG 14
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA FT9ZE
+UT WOS:000423510200001
+PM 29382820
+OA Green Published, gold
+DA 2024-11-22
+ER

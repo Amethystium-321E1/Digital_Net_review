@@ -1,0 +1,647 @@
+
+PT J
+AU Smolla, M
+   Akçay, E
+AF Smolla, Marco
+   Akcay, Erol
+TI Cultural selection shapes network structure
+SO SCIENCE ADVANCES
+LA English
+DT Article
+ID SOCIAL NETWORKS; POPULATION; DEMOGRAPHY; PROPAGATION; STRATEGIES;
+   EMERGENCE; EXPLAIN; MODELS; SIZE; TIME
+AB Cultural evolution relies on the social transmission of cultural traits along a population's social network. Research indicates that network structure affects information spread and thus the capacity for cumulative culture. However, how network structure itself is driven by population-culture co-evolution remains largely unclear. We use a simple model to investigate how populations negotiate the trade-off between acquiring new skills and getting better at existing skills and how this trade-off shapes social networks. We find unexpected eco-evolutionary feedbacks from culture onto social networks and vice versa. We show that selecting for skill generalists results in sparse networks with diverse skill sets, whereas selecting for skill specialists results in dense networks and a population that specializes on the same few skills on which everyone is an expert. Our model advances our understanding of the complex feedbacks in cultural evolution and demonstrates how individual-level behavior can lead to the emergence of population-level structure.
+C1 [Smolla, Marco; Akcay, Erol] Univ Penn, Dept Biol, Philadelphia, PA 19104 USA.
+C3 University of Pennsylvania
+RP Smolla, M (corresponding author), Univ Penn, Dept Biol, Philadelphia, PA 19104 USA.
+EM smolla@sas.upenn.edu
+RI Akcay, Erol/G-3167-2011; Smolla, Marco/H-5634-2019
+OI Akcay, Erol/0000-0001-8149-7124; Smolla, Marco/0000-0001-6367-8765
+FU Army Research Office [W911NF-17-1-0017]; Defense Advanced Research
+   Projects Agency Next Generation Social Science Program [D17AC00005]
+FX This work was supported by the Army Research Office (W911NF-17-1-0017)
+   and Defense Advanced Research Projects Agency Next Generation Social
+   Science Program (Grant D17AC00005).
+CR Akçay E, 2018, NAT COMMUN, V9, DOI 10.1038/s41467-018-05130-7
+   Anderson KA, 2017, P NATL ACAD SCI USA, V114, P12720, DOI 10.1073/pnas.1706597114
+   [Anonymous], 2015, Frontiers in Physics, DOI DOI 10.3389/FPHY.2015.00071
+   Aplin LM, 2015, ANIM BEHAV, V108, P117, DOI 10.1016/j.anbehav.2015.07.016
+   Aplin LM, 2012, P ROY SOC B-BIOL SCI, V279, P4199, DOI 10.1098/rspb.2012.1591
+   Barkoczi D, 2016, NAT COMMUN, V7, DOI 10.1038/ncomms13109
+   Becker J, 2017, P NATL ACAD SCI USA, V114, pE5070, DOI 10.1073/pnas.1615978114
+   Bettencourt LMA, 2009, J INFORMETR, V3, P210, DOI 10.1016/j.joi.2009.03.001
+   Buchanan B, 2016, ARCHAEOL ANTHROP SCI, V8, P625, DOI 10.1007/s12520-015-0245-4
+   Cantor M, 2013, PHILOS T R SOC B, V368, DOI 10.1098/rstb.2012.0340
+   Carter AJ, 2016, ELIFE, V5, DOI 10.7554/eLife.13125
+   Carter AJ, 2015, ROY SOC OPEN SCI, V2, DOI 10.1098/rsos.140444
+   Centola D, 2015, P NATL ACAD SCI USA, V112, P1989, DOI 10.1073/pnas.1418838112
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Coman A, 2016, P NATL ACAD SCI USA, V113, P8171, DOI 10.1073/pnas.1525569113
+   Creanza N, 2017, J R SOC INTERFACE, V14, DOI 10.1098/rsif.2017.0171
+   Danchev V, 2019, ELIFE, V8, DOI 10.7554/eLife.43094
+   Derex M, 2018, PHILOS T R SOC B, V373, DOI 10.1098/rstb.2017.0062
+   Derex M, 2016, P NATL ACAD SCI USA, V113, P2982, DOI 10.1073/pnas.1518798113
+   Derex M, 2013, NATURE, V503, P389, DOI 10.1038/nature12774
+   Fay N, 2019, P NATL ACAD SCI USA, V116, P6726, DOI 10.1073/pnas.1811413116
+   Fogarty L, 2017, PHILOS T R SOC B, V372, DOI 10.1098/rstb.2016.0428
+   García GSC, 2006, J ETHNOBIOL ETHNOMED, V2, DOI 10.1186/1746-4269-2-39
+   Grove M, 2016, J ARCHAEOL SCI, V74, P75, DOI 10.1016/j.jas.2016.09.002
+   Henrich J, 2004, AM ANTIQUITY, V69, P197, DOI 10.2307/4128416
+   HEWLETT BS, 1986, AM ANTHROPOL, V88, P922
+   Hill KR, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0102806
+   Hodas NO, 2014, SCI REP-UK, V4, DOI 10.1038/srep04343
+   Hong L, 2004, P NATL ACAD SCI USA, V101, P16385, DOI 10.1073/pnas.0403723101
+   Ilany A, 2016, INTEGR COMP BIOL, V56, P1197, DOI 10.1093/icb/icw068
+   Ilany A, 2016, NAT COMMUN, V7, DOI 10.1038/ncomms12084
+   KARNI A, 1993, NATURE, V365, P250, DOI 10.1038/365250a0
+   Karni A, 1998, P NATL ACAD SCI USA, V95, P861, DOI 10.1073/pnas.95.3.861
+   Kempe M, 2014, WIRES COGN SCI, V5, P317, DOI 10.1002/wcs.1288
+   Kolodny O, 2016, PLOS COMPUT BIOL, V12, DOI 10.1371/journal.pcbi.1005302
+   Kulahci IG, 2019, TRENDS ECOL EVOL, V34, P545, DOI 10.1016/j.tree.2019.02.007
+   Kulahci IG, 2018, CURR BIOL, V28, P1306, DOI 10.1016/j.cub.2018.02.079
+   Leu ST, 2016, ANIM BEHAV, V111, P23, DOI 10.1016/j.anbehav.2015.10.001
+   Lew-Levy S, 2018, HUM NATURE-INT BIOS, V29, P157, DOI 10.1007/s12110-018-9314-6
+   Lew-Levy S, 2017, HUM NATURE-INT BIOS, V28, P367, DOI 10.1007/s12110-017-9302-2
+   Lewis HM, 2014, NAT COMMUN, V5, DOI 10.1038/ncomms6789
+   Lorenz J, 2011, P NATL ACAD SCI USA, V108, P9020, DOI 10.1073/pnas.1008636108
+   Mason W, 2012, P NATL ACAD SCI USA, V109, P764, DOI 10.1073/pnas.1110069108
+   Mason WA, 2008, J EXP PSYCHOL GEN, V137, P422, DOI 10.1037/a0012798
+   Mesoudi A, 2018, P ROY SOC B-BIOL SCI, V285, DOI 10.1098/rspb.2018.0712
+   Mesoudi A, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0018239
+   Migliano AB, 2017, NAT HUM BEHAV, V1, DOI 10.1038/s41562-016-0043
+   Morelli GA, 2003, INT J BEHAV DEV, V27, P264, DOI 10.1080/01650250244000335
+   Muthukrishna M, 2014, P ROY SOC B-BIOL SCI, V281, DOI 10.1098/rspb.2013.2511
+   Pasquaretta C, 2016, P ROY SOC B-BIOL SCI, V283, DOI 10.1098/rspb.2015.2954
+   Powell A, 2009, SCIENCE, V324, P1298, DOI 10.1126/science.1170165
+   ROUX V, 1995, WORLD ARCHAEOL, V27, P63, DOI 10.1080/00438243.1995.9980293
+   Roux V., 1989, POTTERS WHEEL CRAFT
+   Ruiz-Mallén I, 2013, LEARN INDIVID DIFFER, V27, P213, DOI 10.1016/j.lindif.2012.12.012
+   Shennan S, 2001, CAMB ARCHAEOL J, V11, P5, DOI 10.1017/S0959774301000014
+   Shi F, 2015, SOC NETWORKS, V43, P73, DOI 10.1016/j.socnet.2015.02.006
+   SIMPSON EH, 1949, NATURE, V163, P688, DOI 10.1038/163688a0
+   Stiner MC, 2006, HUM ECOL, V34, P693, DOI 10.1007/s10745-006-9041-1
+   Vaesen K, 2016, P NATL ACAD SCI USA, V113, pE2241, DOI 10.1073/pnas.1520288113
+   Voelkl B, 2008, J THEOR BIOL, V252, P77, DOI 10.1016/j.jtbi.2008.02.002
+   Wallaert-Pêtre H, 2001, J ANTHROPOL RES, V57, P471, DOI 10.1086/jar.57.4.3631356
+   Weng LL, 2013, SCI REP-UK, V3, DOI 10.1038/srep02522
+   Williams HTP, 2015, GLOBAL ENVIRON CHANG, V32, P126, DOI 10.1016/j.gloenvcha.2015.03.006
+   Yeaman S, 2012, J R SOC INTERFACE, V9, P848, DOI 10.1098/rsif.2011.0555
+NR 64
+TC 37
+Z9 41
+U1 0
+U2 21
+PU AMER ASSOC ADVANCEMENT SCIENCE
+PI WASHINGTON
+PA 1200 NEW YORK AVE, NW, WASHINGTON, DC 20005 USA
+SN 2375-2548
+J9 SCI ADV
+JI Sci. Adv.
+PD AUG
+PY 2019
+VL 5
+IS 8
+AR eaaw0609
+DI 10.1126/sciadv.aaw0609
+PG 10
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA IR9WX
+UT WOS:000481798400019
+PM 31453324
+OA Green Published, Green Submitted, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Scheufele, DA
+   Krause, NM
+AF Scheufele, Dietram A.
+   Krause, Nicole M.
+TI Science audiences, misinformation, and fake news
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE misinformation; disinformation; fake news; motivated reasoning; science
+   literacy
+ID MEDIA USE; INFORMATION; MISPERCEPTIONS; BIAS; COMMUNICATION;
+   POLARIZATION; INCIVILITY; KNOWLEDGE; EDUCATION; LITERACY
+AB Concerns about public misinformation in the United States-ranging from politics to science-are growing. Here, we provide an overview of how and why citizens become (and sometimes remain) misinformed about science. Our discussion focuses specifically on misinformation among individual citizens. However, it is impossible to understand individual information processing and acceptance without taking into account social networks, information ecologies, and other macro-level variables that provide important social context. Specifically, we show how being misinformed is a function of a person's ability and motivation to spot falsehoods, but also of other group-level and societal factors that increase the chances of citizens to be exposed to correct(ive) information. We conclude by discussing a number of research areas-some of which echo themes of the 2017 National Academies of Sciences, Engineering, and Medicine's Communicating Science Effectively report-that will be particularly important for our future understanding of misinformation, specifically a systems approach to the problem of misinformation, the need for more systematic analyses of science communication in new media environments, and a (re)focusing on traditionally underserved audiences.
+C1 [Scheufele, Dietram A.; Krause, Nicole M.] Univ Wisconsin, Coll Agr & Life Sci, Dept Life Sci Commun, Madison, WI 53706 USA.
+C3 University of Wisconsin System; University of Wisconsin Madison
+RP Scheufele, DA; Krause, NM (corresponding author), Univ Wisconsin, Coll Agr & Life Sci, Dept Life Sci Commun, Madison, WI 53706 USA.
+EM scheufele@wisc.edu; nmkrause@wisc.edu
+RI Krause, Nicole/AAE-1363-2019; Scheufele, Dietram/A-8737-2008
+OI Krause, Nicole/0000-0003-0550-9546; Scheufele,
+   Dietram/0000-0002-9914-5407
+CR Anderson AA, 2018, INT J PUBLIC OPIN R, V30, P156, DOI 10.1093/ijpor/edw022
+   Anderson AA, 2014, J COMPUT-MEDIAT COMM, V19, P373, DOI 10.1111/jcc4.12009
+   [Anonymous], 2016, Spills of Diluted Bitumen from Pipelines: A Comparative Study of Environmental Fate, Effects, and Response, DOI [DOI 10.17226/21834, 10.17226/21834]
+   [Anonymous], 2007, POSTBROADCAST DEMOCR
+   [Anonymous], 2018, Science engineering indicators 2018: Higher education in science and engineering
+   [Anonymous], 2018, The Economist
+   Barthel M., 2016, MANY AM BELIEVE FAKE
+   Berelson B. R., 1954, Voting: A study of opinion formation in a presidential campaign
+   Berinsky AJ, 2018, J POLIT, V80, P211, DOI 10.1086/694258
+   Berinsky AJ, 2017, BRIT J POLIT SCI, V47, P241, DOI 10.1017/S0007123415000186
+   Bhattacharjee Y, 2010, SCIENCE, V328, P150, DOI 10.1126/science.328.5975.150
+   Bode L, 2015, J COMMUN, V65, P619, DOI 10.1111/jcom.12166
+   Boykoff MT, 2004, GLOBAL ENVIRON CHANG, V14, P125, DOI 10.1016/j.gloenvcha.2003.10.001
+   Brossard D, 2007, INT J PUBLIC OPIN R, V19, P24, DOI 10.1093/ijpor/edl003
+   Brossard D, 2013, P NATL ACAD SCI USA, V110, P14096, DOI 10.1073/pnas.1212744110
+   Cacciatore MA, 2018, J MASS COMMUN Q, V95, P404, DOI 10.1177/1077699018770447
+   Cacciatore MA, 2014, PS-POLIT SCI POLIT, V47, P654, DOI 10.1017/S1049096514000791
+   Coe K, 2014, J COMMUN, V64, P658, DOI 10.1111/jcom.12104
+   Conroy N.K., 2015, P ASS INFORM SCI TEC, V52, P1, DOI [10.1002/pra2.2015.145052010082, DOI 10.1002/PRA2.2015.145052010082]
+   DiFonzo N, 2013, J EXP SOC PSYCHOL, V49, P378, DOI 10.1016/j.jesp.2012.12.010
+   Downie Leonard., 2009, RECONSTRUCTION AM JO
+   Druckman JN, 2012, CRIT REV, V24, P199, DOI 10.1080/08913811.2012.711022
+   Druckman JN, 2011, J COMMUN, V61, P659, DOI 10.1111/j.1460-2466.2011.01562.x
+   Drummond C, 2017, P NATL ACAD SCI USA, V114, P9587, DOI 10.1073/pnas.1704882114
+   Dudo A, 2011, J MASS COMMUN Q, V88, P55, DOI 10.1177/107769901108800104
+   Ferrara E, 2016, COMMUN ACM, V59, P96, DOI 10.1145/2818717
+   FESTINGER L, 1962, SCI AM, V207, P93, DOI 10.1038/scientificamerican1062-93
+   Frenkel Sheera., 2018, New York Times
+   Friggeri A., 2014, Proceedings of the International AAAI Conference on Web and Social Media, DOI 10.1609/icwsm.v8i1.14559
+   Funk C., 2017, Science news and information today
+   Funk Cary., 2015, Public and scientists' views on science and society
+   Garrett RK, 2017, J APPL RES MEM COGN, V6, P370, DOI 10.1016/j.jarmac.2017.09.011
+   Garrett RK, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0184733
+   Graves L., 2016, DECIDING WHATS TRUE
+   Gupta A, 2013, PROCEEDINGS OF THE 22ND INTERNATIONAL CONFERENCE ON WORLD WIDE WEB (WWW'13 COMPANION), P729
+   Hamilton JamesT., 2004, ALL NEWS THATS FIT S
+   Ho SS, 2008, INT J PUBLIC OPIN R, V20, P171, DOI 10.1093/ijpor/edn017
+   Hochschild JL, 2015, POLIT SCI QUART, V130, P585, DOI 10.1002/polq.12398
+   Huckfeldt R, 2004, POLIT PSYCHOL, V25, P65, DOI 10.1111/j.1467-9221.2004.00357.x
+   Isaac M., 2018, NY TIMES
+   Iyengar S, 2009, J COMMUN, V59, P19, DOI 10.1111/j.1460-2466.2008.01402.x
+   Kahan DM, 2017, J RISK RES, V20, P995, DOI 10.1080/13669877.2016.1148067
+   Kahan DM, 2017, OXFORD HDB SCI SCI C, P421, DOI DOI 10.1093/OXFORDHB/9780190497620.013.45
+   Kitts JA, 2003, SOC PSYCHOL QUART, V66, P222, DOI 10.2307/1519823
+   Klurfeld J., 2014, News literacy: Teaching the internet generation to make reliable information choices
+   Kraft PW, 2015, ANN AM ACAD POLIT SS, V658, P121, DOI 10.1177/0002716214554758
+   Kuklinski JH, 2000, J POLIT, V62, P790, DOI 10.1111/0022-3816.00033
+   Kull S, 2003, POLIT SCI QUART, V118, P569, DOI 10.1002/j.1538-165X.2003.tb00406.x
+   KUNDA Z, 1990, PSYCHOL BULL, V108, P480, DOI 10.1037/0033-2909.108.3.480
+   Lazer D., 2017, Combating fake news: An agenda for research and action, P2
+   Lazer DMJ, 2018, SCIENCE, V359, P1094, DOI 10.1126/science.aao2998
+   Lerman K, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0147617
+   Lewandowsky S, 2017, J APPL RES MEM COGN, V6, P353, DOI 10.1016/j.jarmac.2017.07.008
+   Lewandowsky S, 2015, GLOBAL ENVIRON CHANG, V33, P1, DOI 10.1016/j.gloenvcha.2015.02.013
+   Lewandowsky S, 2012, PSYCHOL SCI PUBL INT, V13, P106, DOI 10.1177/1529100612451018
+   LIVINGSTONE S, 2004, COMMUNICATION REV, V0007
+   Lodge M., 2013, RATIONALIZING VOTER
+   Loftus EF, 2005, LEARN MEMORY, V12, P361, DOI 10.1101/lm.94705
+   LORD CG, 1979, J PERS SOC PSYCHOL, V37, P2098, DOI 10.1037/0022-3514.37.11.2098
+   Messing S, 2014, COMMUN RES, V41, P1042, DOI 10.1177/0093650212466406
+   Milkman KL, 2014, P NATL ACAD SCI USA, V111, P13642, DOI 10.1073/pnas.1317511111
+   Mosseri A., 2018, Helping ensure news on facebook is from trusted sources [facebook newsroom]
+   National Academies of Sciences Engineering and Medicine, 2016, GEN ENG CROPS EXP PR, P420
+   National Academies of Sciences Engineering and Medicine, 2017, COMM SCI EFF RES AG, P152
+   National Academies of Sciences Engineering and Medicine, 2015, TRUST CONF INT LIF S, P66
+   Nelson JL, 2017, SOC MEDIA SOC, V3, DOI 10.1177/2056305117729314
+   Newman Nic, 2017, DIGITAL NEWS REPORT
+   Nuccitelli D., 2018, The Guardian
+   Nyhan B, 2010, POLIT BEHAV, V32, P303, DOI 10.1007/s11109-010-9112-2
+   Oliver JE, 2014, AM J POLIT SCI, V58, P952, DOI 10.1111/ajps.12084
+   Rutenberg J., 2017, NY Times
+   Scheufele D.A., 2012, COMMUNICATION YB, V36, P45
+   Scheufele DA, 2014, P NATL ACAD SCI USA, V111, P13585, DOI 10.1073/pnas.1317516111
+   Scheufele DA, 2013, P NATL ACAD SCI USA, V110, P14040, DOI 10.1073/pnas.1213275110
+   Schiller Dan., 2000, Digital Capitalism: Networking the Global Market System
+   Schudson Michael., 1981, Discovering the News: A Social History of American Newspapers
+   Schwarz N, 2007, ADV EXP SOC PSYCHOL, V39, P127, DOI 10.1016/S0065-2601(06)39003-X
+   Shane Scott, 2017, NY TIMES        0907
+   Sloan WD, 2002, MEDIA AM HIST
+   Smith Jeff., 2017, MEDIUM
+   Turow J., 2007, Breaking up America: advertisers and the new media world
+   Turri J, 2012, SYNTHESE, V184, P247, DOI 10.1007/s11229-010-9773-8
+   Uscinski JE, 2016, POLIT RES QUART, V69, P57, DOI 10.1177/1065912915621621
+   Van Duyn E, 2019, MASS COMMUN SOC, V22, P29, DOI 10.1080/15205436.2018.1511807
+   van Prooijen JW, 2017, APPL COGNITIVE PSYCH, V31, P50, DOI 10.1002/acp.3301
+   Vosoughi S, 2018, SCIENCE, V359, P1146, DOI 10.1126/science.aap9559
+   Vraga EK, 2017, J APPL RES MEM COGN, V6, P382, DOI 10.1016/j.jarmac.2017.09.008
+   Weeks BE, 2015, J COMMUN, V65, P699, DOI 10.1111/jcom.12164
+   Weingart P., 2017, The Oxford Handbook of the Science of Science Communication, P111, DOI DOI 10.1093/OXFORDHB/9780190497620.013.12
+   Weise E., 2017, US TODAY
+   Wineburg Sam, 2016, Stanford Digital Repository
+   Wittebols JamesH., 2004, SOAP OPERA PARADIGM
+   Wood T, 2019, POLIT BEHAV, V41, P135, DOI 10.1007/s11109-018-9443-y
+   Xenos MA, 2011, SOC SCI QUART, V92, P1191, DOI 10.1111/j.1540-6237.2011.00814.x
+   Yeo SK, 2018, INFORM COMMUN SOC, V22, P129, DOI 10.1080/1369118X.2017.1356861
+   Yeo SK, 2015, ANN AM ACAD POLIT SS, V658, P172, DOI 10.1177/0002716214557782
+NR 96
+TC 412
+Z9 476
+U1 35
+U2 503
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+EI 1091-6490
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD APR 16
+PY 2019
+VL 116
+IS 16
+BP 7662
+EP 7669
+DI 10.1073/pnas.1805871115
+PG 8
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA HT7TO
+UT WOS:000464767500015
+PM 30642953
+OA Green Published, Bronze
+HC Y
+HP N
+DA 2024-11-22
+ER
+
+PT J
+AU Headworth, S
+AF Headworth, Spencer
+TI Getting to Know You: Welfare Fraud Investigation and the Appropriation
+   of Social Ties
+SO AMERICAN SOCIOLOGICAL REVIEW
+LA English
+DT Article
+DE welfare; social ties; social control; poverty
+ID NETWORKS; STATE; MOBILITY; STIGMA; RISK; RACE; RESPONSIBILIZATION;
+   NEIGHBORHOOD; STRATEGIES; PUNISHMENT
+AB State-level public assistance agencies completed nearly a million SNAP fraud investigations in fiscal year 2016. These investigations hinge on compiling incriminating information about clients. Drawing on interviews with welfare fraud workers in five U.S. states, this article shows how fraud investigators creatively exploit clients' social networks to extract such information, and thus use clients' social ties against them. Investigators gain some information through elective cooperation, when people voluntarily implicate others. Fraud workers say these denunciations typically arise from negative-valence ties (bad blood). Other times, investigators co-opt neutral or positive-valence ties (good will) for enforcement purposes. This co-optation includes eliciting information from unwitting acquaintances and exploiting clients' own online social networking activity. These findings demonstrate social ties' appropriability, through which they serve as resources for relational outsiders' interests. Repurposing welfare clients' social ties for fraud enforcement presents a two-fold threat to subsistence and social mobility prospects: it imposes punishments-including program disqualifications-while simultaneously damaging social support networks. These enforcement practices reveal appropriability as an unrecognized property of social ties, particularly for socioeconomically marginalized people, and constitute a noteworthy element of contemporary poverty governance.
+C1 [Headworth, Spencer] Purdue Univ, Sociol, W Lafayette, IN USA.
+C3 Purdue University System; Purdue University
+RP Headworth, S (corresponding author), Purdue Univ, 700 W State St,Room 347, W Lafayette, IN 47907 USA.
+EM sheadworth@purdue.edu
+CR Adelman RD, 2014, JAMA-J AM MED ASSOC, V311, P1052, DOI 10.1001/jama.2014.304
+   Aiello M.F., 2018, The Police Journal: Theory, Practice, and Principles, V91, P89, DOI DOI 10.1177/0032258X17690932
+   [Anonymous], U COLORADO LAW REV
+   [Anonymous], 2008, U BALTIMORE LAW FORU
+   [Anonymous], 2014, 515 CSHB
+   [Anonymous], RES AGING
+   Arneil B, 2006, DIVERSE COMMUNITIES: THE PROBLEM WITH SOCIAL CAPITAL, P1, DOI 10.2277/ 0521673909
+   Beckett Katherine., 2009, BANISHED NEW SOCIAL
+   Bell MC, 2016, LAW SOC REV, V50, P314, DOI 10.1111/lasr.12200
+   Belle D., 1983, WOMEN HEALTH, V9, P89, DOI DOI 10.1300/J002V05N04_06
+   Bergemann P, 2017, AM SOCIOL REV, V82, P384, DOI 10.1177/0003122417694456
+   Briggs XD, 1998, HOUS POLICY DEBATE, V9, P177, DOI 10.1080/10511482.1998.9521290
+   Brodkin EZ, 1997, SOC SERV REV, V71, P1, DOI 10.1086/604228
+   BRODKIN EZ, 1993, LAW SOCIAL INQUIRY, V18, P647
+   Chunn D.E., 2006, Criminalizing women: Gender and injustice in neo-liberal times, P217
+   Cohen AlbertKircidel., 1965, Delinquent Boys; The Culture of the Gang
+   Desmond M., 2017, EVICTED POVERTY PROF
+   Desmond M, 2018, AM SOCIOL REV, V83, P869, DOI 10.1177/0003122418792836
+   Desmond M, 2012, AM J SOCIOL, V117, P1295, DOI 10.1086/663574
+   DiMaggio P, 2012, ANNU REV SOCIOL, V38, P93, DOI 10.1146/annurev.soc.012809.102545
+   DiPrete TA, 2006, ANNU REV SOCIOL, V32, P271, DOI 10.1146/annurev.soc.32.061604.123127
+   Domínguez S, 2003, SOC PROBL, V50, P111, DOI 10.1525/sp.2003.50.1.111
+   Duneier M., 1999, SIDEWALK
+   Edin Kathryn., 1997, MAKING ENDS MEET SIN
+   Edin Kathryn J., 2015, 200 DAY LIVING ALMOS
+   Epp Charles R., 2014, PULLED POLICE STOPS
+   Eubanks V., 2018, AUTOMATING INEQUALIT
+   Food and Nutrition Service, 2017, SUPPL NUTR ASS PROGR
+   Garand JC, 2017, AM J POLIT SCI, V61, P146, DOI 10.1111/ajps.12233
+   Garland D, 1996, BRIT J CRIMINOL, V36, P445
+   Garland D., 2017, The Oxford Handbook of Criminology, VSixth, P77
+   Garland D., 1985, PUNISHMENT WELFARE H
+   Gilliom John., 2001, Overseers of the Poor: Surveillance, Resistance, and the Limits of Privacy
+   Goddard T, 2012, THEOR CRIMINOL, V16, P347, DOI 10.1177/1362480611433432
+   Goffman Alice., 2014, RUN FUGITIVE LIFE AM
+   Goffman Erving., 1969, Strategic Interaction
+   Goffman Erving., 1974, FRAME ANAL ESSAY ORG
+   Gowan T., 2010, Critical Sociology, V37, P47
+   Granovetter M, 1995, Getting a Job: A Study of Contacts and Careers
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Gray David., 2017, The Fourth Amendment in an Age of Surveillance
+   Green B, 2017, JAMA INTERN MED, V177, P326, DOI 10.1001/jamainternmed.2016.8245
+   Gustafson K., 2011, CHEATING WELFARE PUB
+   Gustafson K, 2009, J CRIM LAW CRIM, V99, P643
+   Hagan J, 1996, AM SOCIOL REV, V61, P368, DOI 10.2307/2096354
+   Halushka J, 2017, PUNISHM SOC, V19, P482, DOI 10.1177/1462474516669356
+   Hancock Ange-Marie., 2004, POLITICS DISGUST PUB
+   Hannah-Moffat K, 2005, PUNISHM SOC, V7, P29, DOI 10.1177/1462474505048132
+   Headworth S., 2017, Social Justice, V44, P55
+   Horder J, 2015, CURR LEGAL PROBL, V68, P197, DOI 10.1093/clp/cuv008
+   Hughes CC, 2019, J CONTEMP ETHNOGR, V48, P339, DOI 10.1177/0891241618784151
+   Ioannides YM, 2004, J ECON LIT, V42, P1056, DOI 10.1257/0022051043004595
+   Jerolmack C, 2014, SOCIOL METHOD RES, V43, P178, DOI 10.1177/0049124114523396
+   Joh EE., 2017, NYUL Rev. Online, V92, P19
+   Katz Michael., 2013, The Undeserving Poor: America's Enduring Confrontation with Poverty
+   Klinenberg E., 2015, HEAT WAVE SOCIAL AUT
+   Kohler-Hausmann J, 2007, J SOC HIST, V41, P329, DOI 10.1353/jsh.2008.0002
+   KRACKHARDT D, 1992, NETWORKS AND ORGANIZATIONS : STRUCTURE, FORM, AND ACTION, P216
+   Lageson SE, 2018, PUNISHM SOC, V20, P113, DOI 10.1177/1462474517737050
+   Lageson SE, 2015, LAW SOCIAL INQUIRY, V40, P175, DOI 10.1111/lsi.12066
+   Lara-Millán A, 2017, CRIMINOLOGY, V55, P59, DOI 10.1111/1745-9125.12128
+   Lara-Millán A, 2014, AM SOCIOL REV, V79, P866, DOI 10.1177/0003122414549552
+   Leopold T, 2014, J MARRIAGE FAM, V76, P300, DOI 10.1111/jomf.12099
+   Levine Judith., 2013, AINT NO TRUST BOSSES
+   Lin N, 1999, ANNU REV SOCIOL, V25, P467, DOI 10.1146/annurev.soc.25.1.467
+   Lipsky M, 2010, STREET-LEVEL BUREAUCRACY: DILEMMAS OF THE INDIVIDUAL IN PUBLIC SERVICES, 30TH EDITION, P1
+   Madden M., 2017, Washington University Law Review, V95, P53
+   Marx Gary, 2016, WINDOWS SOUL SURVEIL
+   MATSUEDA RL, 1982, AM SOCIOL REV, V47, P489, DOI 10.2307/2095194
+   Maynard-Moody S., 2003, Cops, teachers, counselors: stories from the front line of public service
+   Mazelis JoanMaya., 2017, SURVIVING POVERTY CR
+   McElhattan D., 2018, STUDIES LAW POLITICS, V77, P99, DOI DOI 10.1108/S1059-433720180000077005
+   McKim A., 2017, ADDICTED REHAB RACE
+   Menjivar C., 2000, Fragmented ties: Salvadoran immigrant networks in America
+   Merton RK., 1948, ANTIOCH REV, V8, P193, DOI [DOI 10.2307/4609267, 10.2307/4609267]
+   Miller RJ, 2014, PUNISHM SOC, V16, P305, DOI 10.1177/1462474514527487
+   Miller ReubenJonathan., 2016, Michigan Journal of Race and Law, V21, P291, DOI [10.36643/mjrl.21.2.price, DOI 10.36643/MJRL.21.2.PRICE]
+   Mills C.Wright., 2000, POWER ELITE
+   Miron-Shatz T, 2009, EMOTION, V9, P885, DOI 10.1037/a0017823
+   Morgan KimberlyJ., 2017, The Many Hands of the State: Theorizing Political Authority and Social Control
+   Natapoff A., 2009, Snitching: criminal informants and the erosion of American justice
+   Newman KatharineS., 1999, NO SHAME MY GAME WOR
+   Ocen PA, 2012, UCLA LAW REV, V59, P1540
+   Pantell M, 2013, AM J PUBLIC HEALTH, V103, P2056, DOI 10.2105/AJPH.2013.301261
+   Patton DU, 2017, SOC MEDIA SOC, V3, DOI 10.1177/2056305117733344
+   Piven F.F., 1993, REGULATING POOR
+   Pound Roscoe., 1910, American Law Rev, V44, P12
+   Prottas J.M., 1979, PEOPLE PROCESSING ST
+   Putnam Robert D., 2000, BOWLING ALONE COLLAP, DOI 10.1145/358916.361990
+   Quadagno JillS., 1994, The Color of Welfare: How Racism Undermined the War on Poverty
+   Raschick M, 2004, FAM RELAT, V53, P317, DOI 10.1111/j.0022-2445.2004.0008.x
+   Raudenbush D, 2016, SOCIOL FORUM, V31, P1018, DOI 10.1111/socf.12294
+   Reeves Joshua., 2017, CITIZEN SPIES LONG R
+   Rivera LaurenA., 2015, PEDIGREE ELITE STUDE
+   Roberts Dorothy., 2002, Shattered Bonds : The Color of Child Welfare
+   Roberts DE, 2012, UCLA LAW REV, V59, P1474
+   Roberts Dorothy E., 1997, Killing the Black Body: Race, Reproduction, and the Meaning of Liberty
+   Rosen E, 2014, CITY COMMUNITY, V13, P310, DOI 10.1111/cico.12087
+   Rosenblatt P, 2012, CITY COMMUNITY, V11, P254, DOI 10.1111/j.1540-6040.2012.01413.x
+   Sandelowski M., 2008, The Sage encyclopedia of qualitative methods, V1, P875, DOI DOI 10.4135/9781412963909.N456
+   Sarat A., 1990, Yale Journal of Law and Humanities, V2, P343
+   Sartre Jean-Paul, 1993, BEING NOTHINGNESS
+   SCHNEIDER A, 1993, AM POLIT SCI REV, V87, P334, DOI 10.2307/2939044
+   Schram SE, 2009, AM SOCIOL REV, V74, P398, DOI 10.1177/000312240907400304
+   Scott JC., 1998, SEEING STATE CERTAIN
+   Scoular J, 2007, BRIT J CRIMINOL, V47, P764, DOI 10.1093/bjc/azm014
+   Simmel Georg., 2002, The Blackwell City Reader
+   Simon Jonathan., 2007, GOVERNING CRIME
+   Skolnick J., 1966, Justice without trial: Law enforcement in a democratic society
+   Small ML, 2009, ETHNOGRAPHY, V10, P5, DOI 10.1177/1466138108099586
+   Smith KP, 2008, ANNU REV SOCIOL, V34, P405, DOI 10.1146/annurev.soc.34.040507.134601
+   Smith SandraSusan., 2007, LONE PURSUIT DISTRUS
+   Smith SS, 2005, AM J SOCIOL, V111, P1, DOI 10.1086/428814
+   Soss J., 2011, DISCIPLINING POOR NE, DOI DOI 10.7208/CHICAGO/9780226768786.001.0001
+   Stack C., 1974, ALL OUR KIN STRATEGI
+   STACK CB, 1993, J COMP FAM STUD, V24, P157, DOI 10.3138/jcfs.24.2.157
+   Stuart Forrest., 2016, OUT ARREST POLICING, DOI DOI 10.7208/CHICAGO/9780226370958.001.0001
+   Suitor JJ, 2014, GERONTOLOGIST, V54, P580, DOI 10.1093/geront/gnt065
+   Sutherland EdwinH., 1974, CRIMINOLOGY, V9 th
+   Thomas K, 2013, AM CRIM LAW REV, V50, P247
+   Trottier D., 2017, European Journal of Cultural and Political Sociology, V4, P457, DOI [DOI 10.1080/23254823.2017.1333442, 10.1080/23254823.2017.1333442.]
+   Uggen C, 2014, CRIMINOLOGY, V52, P627, DOI 10.1111/1745-9125.12051
+   van Dijck J., 2013, The Culture of Connectivity: A Critical History of Social Media
+   Venkatesh SudhirA., 2006, Off the Books: The Underground Economy of the Urban Poor
+   Wacquant L., 2009, Punishing the Poor: The Neoliberal Government of Social Insecurity
+   Wacquant L.J., 1998, NETHERLANDS J HOUSIN, V13, P25, DOI DOI 10.1007/BF02496932
+   WALDINGER R, 1995, ETHNIC RACIAL STUD, V18, P555, DOI 10.1080/01419870.1995.9993879
+   Watkins-Hayes Celeste., 2009, The New Welfare Bureaucrats: Entanglements of Race, Class, and Policy Reform
+   Yin R. K., 2013, CASE STUDY RES DESIG, DOI [10.3138/cjpe.30.1.108, DOI 10.1097/FCH.0B013E31822DDA9E]
+NR 129
+TC 41
+Z9 46
+U1 2
+U2 24
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0003-1224
+EI 1939-8271
+J9 AM SOCIOL REV
+JI Am. Sociol. Rev.
+PD FEB
+PY 2019
+VL 84
+IS 1
+BP 171
+EP 196
+DI 10.1177/0003122418818198
+PG 26
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA HL6UT
+UT WOS:000458872100007
+OA Bronze
+DA 2024-11-22
+ER
+
+PT J
+AU Dhand, A
+   Luke, D
+   Lang, C
+   Tsiaklides, M
+   Feske, S
+   Lee, JM
+AF Dhand, Amar
+   Luke, Douglas
+   Lang, Catherine
+   Tsiaklides, Michael
+   Feske, Steven
+   Lee, Jin-Moo
+TI Social networks and risk of delayed hospital arrival after acute stroke
+SO NATURE COMMUNICATIONS
+LA English
+DT Article
+ID SEEKING; CARE; ASSOCIATION; ACTIVATION; OUTCOMES; IMPACT; ONSET
+AB Arriving rapidly to the hospital after a heart attack or stroke is critical for patients to be within time windows for treatment. Prior research in heart attacks has suggested a paradoxical role of the social environment: those who arrive early are surrounded by nonrelatives, while those who arrive late are surrounded by spouses or family members. Here, we used network methods to more deeply examine the influence of social context in stroke. We examined the relationship of personal social networks and arrival time in 175 stroke patients. Our results confirmed the paradox by showing that small and close-knit personal networks of highly familiar contacts, independent of demographic, clinical, and socioeconomic factors, were related to delay. The closed network structure led to constricted information flow in which patients and close confidants, absent outside perspectives, elected to watch-and-wait. Targeting patients with small, close-knit networks may be one strategy to improve response times.
+C1 [Dhand, Amar; Feske, Steven] Harvard Med Sch, Brigham & Womens Hosp, Dept Neurol, Boston, MA 02115 USA.
+   [Dhand, Amar] Northeastern Univ, Network Sci Inst, Boston, MA 02115 USA.
+   [Luke, Douglas] Washington Univ, Ctr Publ Hlth Syst Sci, St Louis, MO 63130 USA.
+   [Lang, Catherine] Washington Univ, Sch Med, Program Phys Therapy, St Louis, MO 63108 USA.
+   [Tsiaklides, Michael; Lee, Jin-Moo] Washington Univ, Sch Med, Dept Neurol, St Louis, MO 63110 USA.
+C3 Harvard University; Harvard Medical School; Brigham & Women's Hospital;
+   Northeastern University; Washington University (WUSTL); Washington
+   University (WUSTL); Washington University (WUSTL)
+RP Dhand, A (corresponding author), Harvard Med Sch, Brigham & Womens Hosp, Dept Neurol, Boston, MA 02115 USA.; Dhand, A (corresponding author), Northeastern Univ, Network Sci Inst, Boston, MA 02115 USA.
+EM adhand@bwh.harvard.edu
+RI Luke, Douglas/LKJ-9854-2024
+OI Dhand, Amar/0000-0001-6470-7548; Lang, Catherine/0000-0002-7120-0136
+FU National Center for Medical Rehabilitation Research [K23HD083489];
+   American Heart Association [14CRP20080001]; National Institute of
+   Diabetes and Digestive and Kidney Diseases [P30DK046200]; National
+   Institute of Neurological Disorders and Stroke [R01NS085419]; Football
+   Players Health Study at Harvard University; National Football League
+   Players Association; American Heart Association (AHA) [14CRP20080001]
+   Funding Source: American Heart Association (AHA)
+FX We were supported by National Center for Medical Rehabilitation Research
+   (K23HD083489, PI: Dhand), American Heart Association (14CRP20080001, PI:
+   Dhand), National Institute of Diabetes and Digestive and Kidney Diseases
+   (P30DK046200, PI: Corkey), National Institute of Neurological Disorders
+   and Stroke (R01NS085419, PI: Lee), and the Football Players Health Study
+   at Harvard University. The Football Players Health Study is funded by a
+   grant from the National Football League Players Association. The content
+   is solely the responsibility of the authors and does not necessarily
+   represent the official views of Harvard Medical School, Harvard
+   University or its affiliated academic health care centers, the National
+   Football League Players Association, or Brigham and Women's Hospital. We
+   also wish to acknowledge Angela H. Kim, Karen Li, Abby Halm, and Liam
+   McCafferty for aiding in manuscript preparation.
+CR Abilleira S, 2011, EUR J NEUROL, V18, P850, DOI 10.1111/j.1468-1331.2010.03258.x
+   Addo J, 2012, J AM HEART ASSOC, V1, DOI 10.1161/JAHA.112.001685
+   Agresti Alan., 1978, Sociological Methodology, V9, P204
+   ALONZO AA, 1986, SOC SCI MED, V22, P1297, DOI 10.1016/0277-9536(86)90093-6
+   [Anonymous], SOCIAL CAPITAL THEOR
+   [Anonymous], 2009, STRUCTURAL HOLES
+   Aral S, 2017, NAT COMMUN, V8, DOI 10.1038/ncomms14753
+   Boden-Albala B, 2011, CEREBROVASC DIS EXTR, V1, P75, DOI 10.1159/000328726
+   Borgatti SP., 2018, ANAL SOCIAL NETWORKS
+   Bouckaert M, 2009, NAT REV NEUROL, V5, P477, DOI 10.1038/nrneurol.2009.116
+   BURT RS, 1984, SOC NETWORKS, V6, P293, DOI 10.1016/0378-8733(84)90007-8
+   Burt RS, 2004, AM J SOCIOL, V110, P349, DOI 10.1086/421787
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   Dhand A, 2018, NAT COMMUN, V9, DOI 10.1038/s41467-018-06408-6
+   Dhand A, 2016, NAT REV NEUROL, V12, P605, DOI 10.1038/nrneurol.2016.119
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Green HD, 2014, FIELD METHOD, V26, P126, DOI [10.1177/1525822x13492676, 10.1177/1525822X13492676]
+   Iosif C, 2012, NEURORADIOLOGY, V54, P361, DOI 10.1007/s00234-011-0884-9
+   Kadushin C., 2012, UNDERSTANDING SOCIAL
+   Kitts JA, 2003, SOC PSYCHOL QUART, V66, P222, DOI 10.2307/1519823
+   Mandelzweig L, 2006, STROKE, V37, P1248, DOI 10.1161/01.STR.0000217200.61167.39
+   Matsuo R, 2017, STROKE, V48, P3049, DOI 10.1161/STROKEAHA.117.018132
+   Moser DK, 2006, CIRCULATION, V114, P168, DOI 10.1161/CIRCULATIONAHA.106.176040
+   O'Malley AJ, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0036250
+   Perry BL, 2015, SOC SCI MED, V125, P116, DOI 10.1016/j.socscimed.2013.12.033
+   R Core Team, 2016, R LANG ENV STAT COMP
+   Reeves MJ, 2014, STROKE, V45, P3083, DOI 10.1161/STROKEAHA.114.006520
+   Shah Muzafar, 2007, J Stroke Cerebrovasc Dis, V16, P71, DOI 10.1016/j.jstrokecerebrovasdis.2006.11.004
+   Spencer L., 2013, QUALITATIVE RES PRAC, V2nd
+   Stovel K, 2012, ANNU REV SOCIOL, V38, P139, DOI 10.1146/annurev-soc-081309-150054
+   Strully KW, 2012, SOC SCI MED, V74, P1125, DOI 10.1016/j.socscimed.2011.12.033
+   Tong D, 2012, STROKE, V43, P1912, DOI 10.1161/STROKEAHA.111.644963
+   Wein TH, 2000, STROKE, V31, P1925, DOI 10.1161/01.STR.31.8.1925
+NR 33
+TC 44
+Z9 48
+U1 0
+U2 10
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+EI 2041-1723
+J9 NAT COMMUN
+JI Nat. Commun.
+PD MAR 14
+PY 2019
+VL 10
+AR 1206
+DI 10.1038/s41467-019-09073-5
+PG 8
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA HO7WU
+UT WOS:000461161500002
+PM 30872570
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Lin, SW
+   Faust, L
+   Robles-Granda, P
+   Kajdanowicz, T
+   Chawla, NV
+AF Lin, Suwen
+   Faust, Louis
+   Robles-Granda, Pablo
+   Kajdanowicz, Tomasz
+   Chawla, Nitesh V.
+TI Social network structure is predictive of health and wellness
+SO PLOS ONE
+LA English
+DT Article
+ID COLLECTIVE DYNAMICS; SPREAD
+AB Social networks influence health-related behavior, such as obesity and smoking. While researchers have studied social networks as a driver for diffusion of influences and behavior, it is less understood how the structure or topology of the network, in itself, impacts an individual's health behavior and wellness state. In this paper, we investigate whether the structure or topology of a social network offers additional insight and predictability on an individual's health and wellness. We develop a method called the Network-Driven health predictor (NetCARE) that leverages features representative of social network structure. Using a large longitudinal data set of students enrolled in the NetHealth study at the University of Notre Dame, we show that the NetCARE method improves the overall prediction performance over the baseline models that use demographics and physical attributes-by 38%, 65%, 55%, and 54% for the wellness states-stress, happiness, positive attitude, and self assessed health-considered in this paper.
+C1 [Lin, Suwen; Faust, Louis; Robles-Granda, Pablo; Chawla, Nitesh V.] Univ Notre Dame, Dept Comp Sci & Engn, Notre Dame, IN 46556 USA.
+   [Lin, Suwen; Faust, Louis; Robles-Granda, Pablo; Chawla, Nitesh V.] Univ Notre Dame, Interdisciplinary Ctr Network Sci & Applicat, Notre Dame, IN 46556 USA.
+   [Kajdanowicz, Tomasz; Chawla, Nitesh V.] Wroclaw Univ Sci & Technol, Dept Computat Intelligence, Wroclaw, Poland.
+C3 University of Notre Dame; University of Notre Dame; Wroclaw University
+   of Science & Technology
+RP Chawla, NV (corresponding author), Univ Notre Dame, Dept Comp Sci & Engn, Notre Dame, IN 46556 USA.; Chawla, NV (corresponding author), Univ Notre Dame, Interdisciplinary Ctr Network Sci & Applicat, Notre Dame, IN 46556 USA.; Chawla, NV (corresponding author), Wroclaw Univ Sci & Technol, Dept Computat Intelligence, Wroclaw, Poland.
+EM nchawla@nd.edu
+RI Lin, Suwen/GOE-3935-2022; Robles, Pablo/AAE-8434-2019; Kajdanowicz,
+   Tomasz/B-6269-2013; Chawla, Nitesh/F-2690-2016
+OI Chawla, Nitesh/0000-0003-3932-5956; Faust, Louis/0000-0002-9741-7894;
+   Kajdanowicz, Tomasz/0000-0002-8417-1012
+FU National Heart, Lung, and Blood Institute (NHLBI) of the National
+   Institutes of Health [R01HL117757]; National Science Centre, Poland
+   [2016/23/B/ST6/01735]
+FX The research reported in this paper was supported by the National Heart,
+   Lung, and Blood Institute (NHLBI) of the National Institutes of Health
+   under award number R01HL117757. The content is solely the responsibility
+   of the authors and does not necessarily represent the official views of
+   the National Institutes of Health. The project was also partially
+   supported by The National Science Centre, Poland, research project no.
+   2016/23/B/ST6/01735. The funders had no role in study design, data
+   collection and analysis, decision to publish, or preparation of the
+   manuscript.
+CR [Anonymous], LECT NOTES COMPUT SC
+   Bearman PS, 2004, AM J SOCIOL, V110, P44, DOI 10.1086/386272
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Christakis NA, 2008, NEW ENGL J MED, V358, P2249, DOI 10.1056/NEJMsa0706154
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   COHEN CI, 1985, GERONTOLOGIST, V25, P297, DOI 10.1093/geront/25.3.297
+   Cohen-Cole E, 2008, BMJ-BRIT MED J, V337, DOI 10.1136/bmj.a2533
+   Coppersmith G., 2014, P WORKSHOP COMPUTATI, P51
+   Diestel R., 2005, GRAD TEXTS MATH, V101
+   DUNN OJ, 1961, J AM STAT ASSOC, V56, P52, DOI 10.2307/2282330
+   FitBit, 2016, WHAT AR ACT MIN
+   Flori KL, 2006, J GERONTOL B-PSYCHOL, V61, pP25, DOI 10.1093/geronb/61.1.P25
+   Fowler JH, 2008, BMJ-BRIT MED J, V337, DOI 10.1136/bmj.a2338
+   FREEMAN LC, 1977, SOCIOMETRY, V40, P35, DOI 10.2307/3033543
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Morgan WP, 2013, EXERCISE MENTAL HLTH
+   Muaremi A, 2013, BIONANOSCIENCE, V3, P172, DOI 10.1007/s12668-013-0089-2
+   Newman MEJ, 2003, PHYS REV E, V67, DOI 10.1103/PhysRevE.67.026126
+   Purta R, 2016, IEEE INT SYM WRBL CO, P28, DOI 10.1145/2971763.2971767
+   Reece AG, 2017, SCI REP-UK, V7, DOI 10.1038/s41598-017-12961-9
+   Rosenquist JN, 2011, MOL PSYCHIATR, V16, P273, DOI 10.1038/mp.2010.13
+   SABIDUSSI G, 1966, PSYCHOMETRIKA, V31, P581, DOI 10.1007/BF02289527
+   Stieglitz S, 2013, J MANAGE INFORM SYST, V29, P217, DOI 10.2753/MIS0742-1222290408
+   Stütz T, 2015, LECT NOTES COMPUT SC, V9146, P240, DOI 10.1007/978-3-319-20267-9_20
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Weerkamp W., 2012, SIGIR WORKSH TIM AW
+   Wenger GC, 1997, AGING MENT HEALTH, V1, P311, DOI 10.1080/13607869757001
+   World Health Organization, 2002, report
+   Yoo JC, 2009, CIRC SYST SIGNAL PR, V28, P819, DOI [10.1007/s00034-009-9130-7, 10.1007/S00034-009-9130-7]
+NR 29
+TC 19
+Z9 26
+U1 0
+U2 11
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JUN 6
+PY 2019
+VL 14
+IS 6
+AR e0217264
+DI 10.1371/journal.pone.0217264
+PG 17
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA IB4TA
+UT WOS:000470263700023
+PM 31170181
+OA Green Submitted, Green Published, gold
+DA 2024-11-22
+ER

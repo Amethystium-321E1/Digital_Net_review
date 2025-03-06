@@ -1,0 +1,582 @@
+
+PT J
+AU Schmläzle, R
+   O'Donnell, MB
+   Garcia, JO
+   Cascio, CN
+   Bayer, J
+   Bassett, DS
+   Vettel, JM
+   Falk, EB
+AF Schmlazle, Ralf
+   O'Donnell, Matthew Brook
+   Garcia, Javier O.
+   Cascio, Christopher N.
+   Bayer, Joseph
+   Bassett, Danielle S.
+   Vettel, Jean M.
+   Falk, Emily B.
+TI Brain connectivity dynamics during social interaction reflect social
+   network structure
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE social exclusion; mentalizing; fMRI; functional connectivity; social
+   networks
+ID PREFRONTAL CORTEX; RECONFIGURATION; EXCLUSION; REJECTION; PERSONALITY;
+   ACTIVATION; EMERGENCE; STRENGTH; MODELS; HEALTH
+AB Social ties are crucial for humans. Disruption of ties through social exclusion has a marked effect on our thoughts and feelings; however, such effects can be tempered by broader social network resources. Here, we use fMRI data acquired from 80 male adolescents to investigate how social exclusion modulates functional connectivity within and across brain networks involved in social pain and understanding the mental states of others (i.e., mentalizing). Furthermore, using objectively logged friendship network data, we examine how individual variability in brain reactivity to social exclusion relates to the density of participants' friendship networks, an important aspect of social network structure. We find increased connectivity within a set of regions previously identified as a mentalizing system during exclusion relative to inclusion. These results are consistent across the regions of interest as well as a whole-brain analysis. Next, examining how social network characteristics are associated with task-based connectivity dynamics, we find that participants who showed greater changes in connectivity within the mentalizing system when socially excluded by peers had less dense friendship networks. This work provides insight to understand how distributed brain systems respond to social and emotional challenges and how such brain dynamics might vary based on broader social network characteristics.
+C1 [Schmlazle, Ralf] Michigan State Univ, Dept Commun, E Lansing, MI 48824 USA.
+   [Schmlazle, Ralf; O'Donnell, Matthew Brook; Cascio, Christopher N.; Falk, Emily B.] Univ Penn, Annenberg Sch Commun, Philadelphia, PA 19104 USA.
+   [Garcia, Javier O.; Vettel, Jean M.] US Army Res Lab, Human Res & Engn Directorate, Aberdeen Proving Ground, MD 21005 USA.
+   [Bayer, Joseph] Ohio State Univ, Sch Commun, Columbus, OH 43210 USA.
+   [Bassett, Danielle S.; Vettel, Jean M.] Univ Penn, Dept Bioengn, Philadelphia, PA 19104 USA.
+   [Bassett, Danielle S.] Univ Penn, Dept Elect & Syst Engn, Philadelphia, PA 19104 USA.
+   [Vettel, Jean M.] Univ Calif Santa Barbara, Dept Psychol & Brain Sci, Santa Barbara, CA 93106 USA.
+C3 Michigan State University; University of Pennsylvania; United States
+   Department of Defense; US Army Research, Development & Engineering
+   Command (RDECOM); US Army Research Laboratory (ARL); United States Army;
+   University System of Ohio; Ohio State University; University of
+   Pennsylvania; University of Pennsylvania; University of California
+   System; University of California Santa Barbara
+RP Falk, EB (corresponding author), Univ Penn, Annenberg Sch Commun, Philadelphia, PA 19104 USA.
+EM falk@asc.upenn.edu
+RI Vettel, Jean/D-2598-2009; Bayer, Joseph/S-7211-2016
+OI Bassett, Danielle/0000-0002-6183-4493; Schmalzle,
+   Ralf/0000-0002-0179-1364; O'Donnell, Matthew Brook/0000-0001-5665-3930;
+   Bayer, Joseph/0000-0002-6555-4472
+FU Eunice Kennedy Shriver National Institute of Child Health and Human
+   Development [R21HD073549]; NIH [1DP2DA03515601]; Army Research
+   Laboratory [W911NF-10-2-0022]; Defense Advanced Research Projects Agency
+   [YFA-D14AP00048]; John D. and Catherine T. MacArthur Foundation; Alfred
+   P. Sloan Foundation; Army Research Office [W911NF-14-1-0679]; National
+   Institute of Mental Health [2-R01-DC-009209-11]; National Institute of
+   Child Health and Human Development [1R01HD086888-01]; Office of Naval
+   Research [CRCNS BCS-1441502, CAREER PHY-1554488]; National Science
+   Foundation
+FX We thank Nicole Cooper, Qawi Telesford, and Marcelo Mattar for valuable
+   comments and discussions; the University of Michigan Transportation
+   Research Institute for research assistance; the staff of the University
+   of Michigan fMRI Center; and Raymond Bingham, Jean Shope, Marie Claude
+   Ouimet, Anuj Pradhan, Bruce Simons-Morton, Kristin Shumaker, Elizabeth
+   Beard, Jennifer LaRose, Farideh Almani, and Johanna Dolle. This research
+   was supported by the Eunice Kennedy Shriver National Institute of Child
+   Health and Human Development under Award R21HD073549, by NIH New
+   Innovator Award 1DP2DA03515601 (to E.B.F.), by the Army Research
+   Laboratory under Cooperative Agreement Number W911NF-10-2-0022, and the
+   Defense Advanced Research Projects Agency Young Faculty Award
+   YFA-D14AP00048 (to E.B.F.). D.S.B. received support from the John D. and
+   Catherine T. MacArthur Foundation, the Alfred P. Sloan Foundation, the
+   Army Research Office through Contract W911NF-14-1-0679, National
+   Institute of Mental Health Grant 2-R01-DC-009209-11, National Institute
+   of Child Health and Human Development Grant 1R01HD086888-01, the Office
+   of Naval Research Award CRCNS BCS-1441502, CAREER PHY-1554488, and the
+   National Science Foundation. The views and the conclusions contained in
+   this document are those of the authors and should not be interpreted as
+   representing the official policies, either expressed or implied, of the
+   NIH and its subdivisions, the Army Research Laboratory, or the US
+   Government.
+CR Abraham A, 2010, COMPUT COMMUN NETW S, P1, DOI 10.1007/978-1-84882-229-0
+   Abraham A, 2014, FRONT NEUROINFORM, V8, DOI 10.3389/fninf.2014.00014
+   Andersson MA, 2012, SOCIOL QUART, V53, P92, DOI 10.1111/j.1533-8525.2011.01227.x
+   [Anonymous], 1992, Structural holes
+   Arnaboldi V, 2013, COMPUT COMMUN, V36, P1130, DOI 10.1016/j.comcom.2013.03.003
+   Bassett DS, 2015, NAT NEUROSCI, V18, P744, DOI 10.1038/nn.3993
+   Bassett DS, 2013, PLOS COMPUT BIOL, V9, DOI 10.1371/journal.pcbi.1003171
+   Bassett DS, 2011, P NATL ACAD SCI USA, V108, P7641, DOI 10.1073/pnas.1018985108
+   Beyer F, 2014, BIOL PSYCHOL, V96, P102, DOI 10.1016/j.biopsycho.2013.12.008
+   Bolling DZ, 2011, DEVELOPMENTAL SCI, V14, P1431, DOI 10.1111/j.1467-7687.2011.01087.x
+   Braun U, 2015, P NATL ACAD SCI USA, V112, P11678, DOI 10.1073/pnas.1422487112
+   Bullmore ET, 2011, ANNU REV CLIN PSYCHO, V7, P113, DOI 10.1146/annurev-clinpsy-040510-143934
+   Burt RS, 1998, SOC NETWORKS, V20, P63, DOI 10.1016/S0378-8733(97)00005-1
+   Cacioppo JT, 2014, SOC PERSONAL PSYCHOL, V8, P58, DOI 10.1111/spc3.12087
+   CASSEL J, 1976, AM J EPIDEMIOL, V104, P107, DOI 10.1093/oxfordjournals.aje.a112281
+   COBB S, 1976, PSYCHOSOM MED, V38, P300, DOI 10.1097/00006842-197609000-00003
+   Contractor Noshir, 2003, Theories of Communication Networks
+   Dore B. P., 2015, EMOTION REGULATION, P53
+   Doron KW, 2012, P NATL ACAD SCI USA, V109, P18661, DOI 10.1073/pnas.1216402109
+   Eisenberger NI, 2012, NAT REV NEUROSCI, V13, P421, DOI 10.1038/nrn3231
+   Eisenberger NI, 2003, SCIENCE, V302, P290, DOI 10.1126/science.1089134
+   Ekman M, 2012, P NATL ACAD SCI USA, V109, P16714, DOI 10.1073/pnas.1207523109
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Gu S, 2015, P NATL ACAD SCI USA, V112, P13681, DOI 10.1073/pnas.1502829112
+   Holt-Lunstad J, 2010, PLOS MED, V7, DOI 10.1371/journal.pmed.1000316
+   Hunter JD, 2007, COMPUT SCI ENG, V9, P90, DOI 10.1109/MCSE.2007.55
+   Hurlbert JS, 2000, AM SOCIOL REV, V65, P598, DOI 10.2307/2657385
+   Kalish Y, 2006, SOC NETWORKS, V28, P56, DOI 10.1016/j.socnet.2005.04.004
+   Kawamoto T, 2015, FRONT NEUROSCI-SWITZ, V9, DOI 10.3389/fnins.2015.00062
+   Landis B, 2016, J ORGAN BEHAV, V37, pS107, DOI 10.1002/job.2004
+   Lewis PA, 2011, NEUROIMAGE, V57, P1624, DOI 10.1016/j.neuroimage.2011.05.030
+   Lin Nan., 2002, Social capital
+   Mantzaris AV, 2013, J COMPLEX NETW, V1, P83, DOI 10.1093/comnet/cnt001
+   Mars RB, 2012, FRONT HUM NEUROSCI, V6, DOI 10.3389/fnhum.2012.00189
+   Masten CL, 2012, SOC COGN AFFECT NEUR, V7, P106, DOI 10.1093/scan/nsq098
+   Masten CL, 2009, SOC COGN AFFECT NEUR, V4, P143, DOI 10.1093/scan/nsp007
+   Mattar MG, 2015, PLOS COMPUT BIOL, V11, DOI 10.1371/journal.pcbi.1004533
+   Medaglia JD, 2015, J COGNITIVE NEUROSCI, V27, P1471, DOI 10.1162/jocn_a_00810
+   Meyer ML, 2013, SOC COGN AFFECT NEUR, V8, P446, DOI 10.1093/scan/nss019
+   Miller G, 2009, ANNU REV PSYCHOL, V60, P501, DOI 10.1146/annurev.psych.60.110707.163551
+   Muscatell KA, 2015, NEUROCOGNITIVE PHYSL, P29
+   O'Donnell MB, 2017, SOC COGN AFFECT NEUR, V12, P61, DOI 10.1093/scan/nsw158
+   O'Donnell MB, 2015, ANN AM ACAD POLIT SS, V659, P274, DOI 10.1177/0002716215569446
+   Onoda K, 2010, SOC COGN AFFECT NEUR, V5, P385, DOI 10.1093/scan/nsq002
+   Parks M.R., 2011, The SAGE handbook of interpersonal communication, P355
+   Powell JL, 2010, NEUROPSYCHOLOGIA, V48, P3554, DOI 10.1016/j.neuropsychologia.2010.08.004
+   Power JD, 2011, NEURON, V72, P665, DOI 10.1016/j.neuron.2011.09.006
+   Powers KE, 2013, SOC COGN AFFECT NEUR, V8, P151, DOI 10.1093/scan/nsr079
+   Puetz VB, 2014, J AM ACAD CHILD PSY, V53, P1328, DOI 10.1016/j.jaac.2014.09.004
+   Roberts SGB, 2008, PERS INDIV DIFFER, V44, P954, DOI 10.1016/j.paid.2007.10.033
+   Rotge JY, 2015, SOC COGN AFFECT NEUR, V10, P19, DOI 10.1093/scan/nsu110
+   Sallet J, 2011, SCIENCE, V334, P697, DOI 10.1126/science.1210027
+   Schilbach L, 2013, BEHAV BRAIN SCI, V36, P393, DOI 10.1017/S0140525X12000660
+   Schmalzle R, 2016, BIORXIV, DOI [10.1101/096420, DOI 10.1101/096420]
+   Schwarzer R., 1989, Psychology and Health, V3, P1, DOI [DOI 10.1080/08870448908400361, 10.1080/08870448908400361]
+   Slavich GM, 2010, P NATL ACAD SCI USA, V107, P14817, DOI 10.1073/pnas.1009164107
+   Smith KP, 2008, ANNU REV SOCIOL, V34, P405, DOI 10.1146/annurev.soc.34.040507.134601
+   Smith SM, 2013, TRENDS COGN SCI, V17, P666, DOI 10.1016/j.tics.2013.09.016
+   Sporns O, 2013, CURR OPIN NEUROBIOL, V23, P162, DOI 10.1016/j.conb.2012.11.015
+   van den Heuvel MP, 2010, EUR NEUROPSYCHOPHARM, V20, P519, DOI 10.1016/j.euroneuro.2010.03.008
+   Waskom M, 2014, SEABORN V0 5 0 NOVEM, DOI [10.5281/zenodo.12710, DOI 10.5281/ZENODO.12710.]
+   Williams K.D., 2013, The Social Outcast: Ostracism, Social Exclusion, Rejection and Bullying
+   Williams KD, 2000, J PERS SOC PSYCHOL, V79, P748, DOI 10.1037/0022-3514.79.5.748
+   Williams KD, 1997, PERS SOC PSYCHOL REV
+NR 64
+TC 90
+Z9 99
+U1 3
+U2 53
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD MAY 16
+PY 2017
+VL 114
+IS 20
+BP 5153
+EP 5158
+DI 10.1073/pnas.1616130114
+PG 6
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA EU8UT
+UT WOS:000401314700052
+PM 28465434
+OA Bronze, Green Published, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Lesser, O
+   Hayat, T
+   Elovici, Y
+AF Lesser, Ofrit
+   Hayat, Tsahi (Zack)
+   Elovici, Yuval
+TI The role of network setting and gender in online content popularity
+SO INFORMATION COMMUNICATION & SOCIETY
+LA English
+DT Article
+DE Content popularity; gender; online social networks; social capital;
+   social network analysis
+ID INEQUALITY; TIES
+AB In this study, we explore the role of specific network structures that enhance social capital and assess the extent to which gender, social ties, and communication interaction relate to content popularity within online social networks (OSNs). Our results are based on an extensive OSN data set, containing over 100,000 members, connected by over 1.7 million links. The findings indicate that content popularity inference is more accurate when considering activity interaction among users and that network structures known as advantageous for amassing social capital in the offline environment are relevant online as well. We conclude by discussing how gender mediates the correlation between some network measures and the growth of users' content popularity and provide a potential explanation for the emergence of gender differences.
+C1 [Lesser, Ofrit] Ben Gurion Univ Negev, Dept Informat Syst Engn, Beer Sheva, Israel.
+   [Hayat, Tsahi (Zack)] Interdisciplinary Ctr IDC, Sammy Ofer Sch Commun, Herzliyya, Israel.
+   [Elovici, Yuval] Ben Gurion Univ Negev, Deutsch Telekom Labs, Beer Sheva, Israel.
+C3 Ben Gurion University; Reichman University; Ben Gurion University;
+   Deutsche Telekom AG
+RP Lesser, O (corresponding author), Ben Gurion Univ Negev, Dept Informat Syst Engn, Beer Sheva, Israel.
+EM lessero@post.bgu.ac.il; tsahi.hayat@idc.ac.il; elovici@bgu.ac.il
+RI ; Hayat, Tsahi/U-5117-2017
+OI Lesser, Ofrit/0000-0002-5735-9167; Hayat, Tsahi/0000-0002-9807-6024
+CR [Anonymous], 2009, AIS Trans. Hum. Comput. Int., DOI [10.17705/1thci.00005, DOI 10.17705/1THCI.00005]
+   [Anonymous], 2009, Proceedings of the 18th international conference on World Wide Web (WWW)
+   BONACICH P, 1972, J MATH SOCIOL, V2, P113, DOI 10.1080/0022250X.1972.9989806
+   Bourdieu Pierre., 1984, DISTINCTION SOCIAL C, DOI DOI 10.1002/9780470755679.CH15
+   Brashears ME, 2016, SOC NETWORKS, V44, P74, DOI 10.1016/j.socnet.2015.06.002
+   Brooks B, 2014, SOC NETWORKS, V38, P1, DOI 10.1016/j.socnet.2014.01.002
+   Burris V, 2004, AM SOCIOL REV, V69, P239, DOI 10.1177/000312240406900205
+   Burt R.S., 2009, STRUCTURAL HOLES SOC
+   Burt RS, 2000, RES ORGAN BEHAV, V22, P345, DOI 10.1016/S0191-3085(00)22009-1
+   Burt RS, 1998, RATION SOC, V10, P5, DOI 10.1177/104346398010001001
+   BURT RS, 1995, RATION SOC, V7, P255, DOI 10.1177/1043463195007003003
+   BURT RS, 1992, NETWORKS AND ORGANIZATIONS : STRUCTURE, FORM, AND ACTION, P57
+   Castells, 2015, NETWORKS OUTRAGE HOP, DOI DOI 10.1002/9781444319514
+   Chang HH, 2011, INFORM MANAGE-AMSTER, V48, P9, DOI 10.1016/j.im.2010.11.001
+   Eagly A. H., 2013, SEX DIFFERENCES SOCI
+   Ellison N, 2006, J COMPUT-MEDIAT COMM, V11
+   Ellison NB, 2014, J COMPUT-MEDIAT COMM, V19, P855, DOI 10.1111/jcc4.12078
+   Erickson BH, 1996, AM J SOCIOL, V102, P217, DOI 10.1086/230912
+   Everett, 1998, CONNECTIONS, V21, P27, DOI DOI 10.1111/J.1467-9663.2010.00632.X
+   Ganley D, 2009, DECIS SUPPORT SYST, V47, P266, DOI 10.1016/j.dss.2009.02.013
+   Ghosh R, 2010, P KDD WORKSH SOC NET
+   Groysberg B., 2012, Chasing stars: The myth of talent and the portability of performance
+   Hayat T, 2015, AM BEHAV SCI, V59, P582, DOI 10.1177/0002764214556802
+   Ibarra H, 1997, SOC PSYCHOL QUART, V60, P91, DOI 10.2307/2787014
+   Lerman K., 2010, Proc. of WWW '10, P621, DOI DOI 10.1145/1772690.1772754
+   LILLIEFORS HW, 1967, J AM STAT ASSOC, V62, P399, DOI 10.2307/2283970
+   Lin Nan., 2008, The Handbook of Social Capital, P50, DOI DOI 10.4337/9781789907285.00009
+   Lutter M, 2015, AM SOCIOL REV, V80, P329, DOI 10.1177/0003122414568788
+   MARSDEN PV, 1987, AM SOCIOL REV, V52, P122, DOI 10.2307/2095397
+   McGuire GM, 2002, GENDER SOC, V16, P303, DOI 10.1177/0891243202016003003
+   Misiolek NoraI., 2005, P 38 HAWAII INT C SY, DOI [10.1109/HICSS.2005.486, DOI 10.1109/HICSS.2005.486]
+   MOORE G, 1990, AM SOCIOL REV, V55, P726, DOI 10.2307/2095868
+   Onnela JP, 2007, P NATL ACAD SCI USA, V104, P7332, DOI 10.1073/pnas.0610245104
+   Rogers E.M., 1971, Communication of Innovations
+   Sudweeks F, 2005, P 38 ANN HAW INT C S
+   Szabo G, 2010, COMMUN ACM, V53, P80, DOI 10.1145/1787234.1787254
+   Szell M, 2013, SCI REP-UK, V3, DOI 10.1038/srep01214
+   Tabachnick B. G., 2007, USING MULTIVARIATE S
+   Volkovich Y, 2014, GENDER PATTERNS LARG, P139
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   WELLMAN B, 1990, AM J SOCIOL, V96, P558, DOI 10.1086/229572
+   Weng L, 2012, SCI REP-UK, V2, P1, DOI 10.1038/srep00335
+   Williams D, 2006, J COMPUT-MEDIAT COMM, V11, DOI 10.1111/j.1083-6101.2006.00029.x
+NR 43
+TC 6
+Z9 6
+U1 1
+U2 24
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1369-118X
+EI 1468-4462
+J9 INFORM COMMUN SOC
+JI Info. Commun. Soc.
+PD NOV
+PY 2017
+VL 20
+IS 11
+BP 1607
+EP 1624
+DI 10.1080/1369118X.2016.1252411
+PG 18
+WC Communication; Sociology
+WE Social Science Citation Index (SSCI)
+SC Communication; Sociology
+GA FA4IW
+UT WOS:000405408000002
+DA 2024-11-22
+ER
+
+PT J
+AU Vasiljevska, J
+   Douw, J
+   Mengolini, A
+   Nikolic, I
+AF Vasiljevska, Julija
+   Douw, Jochem
+   Mengolini, Anna
+   Nikolic, Igor
+TI An Agent-Based Model of Electricity Consumer: Smart Metering Policy
+   Implications in Europe
+SO JASSS-THE JOURNAL OF ARTIFICIAL SOCIETIES AND SOCIAL SIMULATION
+LA English
+DT Article
+DE Electricity Consumer; Agent-Based Modelling; Smart Metering; Consumer
+   Values
+ID DIFFUSION
+AB EU Regulation 2009/72/EC concerning commonrules for internal market in electricity calls upon 80% of EU electricity consumers to be equipped with smart metering systems by 2020, provided that a positive economic assessment of all long-term costs and benefits to the market and the individual consumer is guaranteed. Understanding the impact that smart metering systems may have on the electricity stakeholders (consumers, distribution system operators, energy suppliers and the society at large) is important for faster and effective deployment of such systems and of the innovative services they offer. For this purpose, in this paper an agent-based model is developed, where the electricity consumer behaviour due to different smart metering policies is simulated. Consumers are modelled as household agents having dynamic preferences on types of electricity contracts offered by the supplier. Development of preferences depends on personal values, memory and attitudes, as well as the degree of interaction in a social network structure. We are interested in exploring possible diffusion rates of smart metering enabled services under different policy interventions and the impact of this technological diffusion on individual and societal performance indicators. In four simulation experiments and three intervention policies we observe the diffusion of energy services and individual and societal performance indicators (electricity savings, CO2 emissions savings, social welfare, consumers' comfort change), as well as consumers' satisfaction. From these results and based on expert validation, we conclude that providing the consumer with more options does not necessarily lead to higher consumer's satisfaction, or better societal performance. A good policy should be centred on effective ways to tackle consumers concerns.
+C1 [Vasiljevska, Julija; Mengolini, Anna] European Commiss, Joint Res Ctr Directorate Energy Transport & Clim, Westerduinweg 3, NL-1755 LE Petten, Netherlands.
+   [Douw, Jochem] Delft Univ Technol, POB 5015, NL-2600 GA Delft, Netherlands.
+   [Nikolic, Igor] Delft Univ Technol, Fac Technol Policy & Management, POB 5015, NL-2600 GA Delft, Netherlands.
+C3 European Commission Joint Research Centre; EC JRC Institute for Energy &
+   Transport (IET); Delft University of Technology; Delft University of
+   Technology
+RP Vasiljevska, J (corresponding author), European Commiss, Joint Res Ctr Directorate Energy Transport & Clim, Westerduinweg 3, NL-1755 LE Petten, Netherlands.
+EM julija.vasiljevska@ec.europa.eu
+RI Vasiljevska, Julija/KFG-3623-2024; Nikolic, Igor/D-6080-2011
+OI Nikolic, Igor/0000-0002-6002-7083; Vasiljevska,
+   Julija/0000-0001-5840-1104
+CR AJZEN I, 1991, ORGAN BEHAV HUM DEC, V50, P179, DOI 10.1016/0749-5978(91)90020-T
+   [Anonymous], Handbook of Sociological Theory, DOI DOI 10.1007/0-387-36274-6_29
+   [Anonymous], 2012, AGENT BASED MODELLIN
+   [Anonymous], 2016, Eurostat Statistics Explained
+   Boardman B., 2005, 40 HOUSE
+   Box G. E., 1987, EMPIRICAL MODEL BUIL, V424
+   Box G. E. P., 2006, EFFECTIVENESS FEEDBA
+   Box G. E. P., 2014, MAPPING ASSESSMENT E
+   Chappin E. J. L., 2010, SIMULATING ENERGY TR
+   Covenant of Mayors, 2010, GUID
+   Darby SJ, 2012, ENERG POLICY, V49, P759, DOI 10.1016/j.enpol.2012.07.026
+   Epstein J. M., 1996, GROWING ARTIFICIAL S
+   Fetchenhauer D., 2006, SOLIDARITY PROSOCIAL
+   Fischer C., 2007, ECEEE 2007 SUMMER ST
+   Grimm V, 2010, ECOL MODEL, V221, P2760, DOI 10.1016/j.ecolmodel.2010.08.019
+   Kowalska-Pyzalska A, 2014, ENERG POLICY, V72, P164, DOI 10.1016/j.enpol.2014.04.021
+   Lindenberg S., 2008, ANAL KRITIK, V30, P669, DOI DOI 10.1515/AUK-2008-0217
+   Lindenberg S, 2007, J SOC ISSUES, V63, P117, DOI 10.1111/j.1540-4560.2007.00499.x
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Menanteau P, 2000, RES POLICY, V29, P375, DOI 10.1016/S0048-7333(99)00038-4
+   Organisation W. H., 1990, INDOOR ENV HLTH ASPE
+   Rixen M, 2014, TECHNOL FORECAST SOC, V85, P153, DOI 10.1016/j.techfore.2013.08.011
+   Schwartz B., 2004, POSITIVE PSYCHOL PRA, P86
+   Steg L., 2012, OXFORD HDB ENV CONSE, P81, DOI [10.1093/oxfordhb/9780199733026.013.0005, DOI 10.1093/OXFORDHB/9780199733026.013.0005]
+   Steg L, 2014, J ENVIRON PSYCHOL, V38, P104, DOI 10.1016/j.jenvp.2014.01.002
+   van Elburg H., 2014, DUTCH ENERGY SAVINGS
+   Wilensky U, 1999, NETLOGO
+   Zhang T, 2011, J PROD INNOVAT MANAG, V28, P169, DOI 10.1111/j.1540-5885.2011.00790.x
+NR 28
+TC 7
+Z9 7
+U1 3
+U2 23
+PU J A S S S
+PI GUILDFORD
+PA UNIV SURREY, DEPT SOCIOLOGY, GUILDFORD GU2 7XH, SURREY, ENGLAND
+SN 1460-7425
+J9 JASSS-J ARTIF SOC S
+JI JASSS
+PD JAN 31
+PY 2017
+VL 20
+IS 1
+AR 12
+DI 10.18564/jasss.3150
+PG 21
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA EP1TV
+UT WOS:000397168100011
+OA Green Published, Green Submitted, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Kern, RL
+   Gil-Egui, G
+AF Kern, Rebecca L.
+   Gil-Egui, Gisela
+TI Women behaving badly: negative posts on Facebook memorial pages
+SO INFORMATION COMMUNICATION & SOCIETY
+LA English
+DT Article
+DE Facebook; mourning; flaming; venting; transgression; women online
+ID COMPUTER-MEDIATED COMMUNICATION; ONLINE HARASSMENT; YOUNG-ADULTS;
+   ASSOCIATIONS; AGGRESSION; GRIEF; DEAD; MEN
+AB This study explores negative posts in Facebook pages dedicated to dead subjects. As with places for mourning in offline environments, memorial pages in Facebook appear to exude a sacred character as objects to both celebrate the life of the deceased and grieve their departure with others. Through a two-step content analysis of an initial sample of 600 pages containing the R.I.P.' acronym in their title, we found, however, a number of posts violating conventional expectations of respect for these mourning spaces. Negative posts in memorial pages take the form of flames (i.e., insults directed at the subject of the page, its administrator, or other visitors), venting (e.g., violent language against the victimizers of the subject of a memorial page), or spam' (i.e., advertisement and content not related to the subject and purpose of the page). Moreover, while results show that most memorial pages in Facebook are created and maintained by women (even thought the subject in the majority of those pages are young males who died an untimely death), they also reveal that women post the majority of negative posts in those pages as well. In other words, whereas women seem to perpetuate traditional offline roles in connection to mourning and grieving rituals, in the online world, they are also the first ones challenging the socially sanctioned sacral attributes of those practices in social networking sites.
+C1 [Kern, Rebecca L.] Manhattan Coll, Dept Commun, Manhattan Coll Pkwy, New York, NY 10471 USA.
+   [Gil-Egui, Gisela] Fairfield Univ, Dept Commun, Fairfield, CT 06430 USA.
+C3 Manhattan University; Fairfield University
+RP Kern, RL (corresponding author), Manhattan Coll, Dept Commun, Manhattan Coll Pkwy, New York, NY 10471 USA.
+EM rebecca.kern@manhattan.edu
+CR Aiken M, 2000, INFORM MANAGE, V37, P95, DOI 10.1016/S0378-7206(99)00036-1
+   Alonzo M, 2004, DECIS SUPPORT SYST, V36, P205, DOI 10.1016/S0167-9236(02)00190-2
+   [Anonymous], 2013, CONTENT ANAL INTRO I
+   Barnes S.B., 2008, Mediated interpersonal communication, P14
+   Blauner R., 1977, PASSING VISION DEATH, P174
+   Buckels EE, 2014, PERS INDIV DIFFER, V67, P97, DOI 10.1016/j.paid.2014.01.016
+   Burkell J, 2014, INFORM COMMUN SOC, V17, P974, DOI 10.1080/1369118X.2013.870591
+   Courbet D, 2014, CELEBR STUD, V5, P275, DOI 10.1080/19392397.2013.872361
+   Davis J.A., 1971, ELEMENTARY SURVEY AN
+   DeGroot JM, 2014, DEATH STUD, V38, P79, DOI 10.1080/07481187.2012.725450
+   Dewey J., 1967, SYMB INTERACT, P104
+   Douglas K.M., 2008, Mediated interpersonal communication, P200
+   EAGLY AH, 1986, PSYCHOL BULL, V100, P309, DOI 10.1037/0033-2909.100.3.309
+   Fichman P, 2015, SOC SCI COMPUT REV, V33, P163, DOI 10.1177/0894439314533169
+   Finn J, 2004, J INTERPERS VIOLENCE, V19, P468, DOI 10.1177/0886260503262083
+   Firth R., 1964, ESSAYS SOCIAL ORG VA
+   Forman A., 2012, First Monday, V17
+   FRODI A, 1977, PSYCHOL BULL, V84, P634, DOI 10.1037/0033-2909.84.4.634
+   Görzig A, 2013, J CHILD MEDIA, V7, P9, DOI 10.1080/17482798.2012.739756
+   Gotved S, 2015, INFORM COMMUN SOC, V18, P269, DOI 10.1080/1369118X.2014.989250
+   Hardaker C, 2010, J POLITENESS RES-LAN, V6, P215, DOI 10.1515/JPLR.2010.011
+   Haridakis PM, 2006, COMMUN Q, V54, P227, DOI 10.1080/01463370600650951
+   Hmielowski JD, 2014, INFORM COMMUN SOC, V17, P1196, DOI 10.1080/1369118X.2014.899609
+   Hunter J, 2007, OMEGA-J DEATH DYING, V56, P153, DOI 10.2190/OM.56.2.b
+   Irwin MD, 2015, OMEGA-J DEATH DYING, V72, P119, DOI 10.1177/0030222815574830
+   Jorgensen-Earp CR, 1998, Q J SPEECH, V84, P150, DOI 10.1080/00335639809384211
+   Kern R. L., 2013, ANN M INT ASS MED CO
+   Kern R, 2013, TELEMAT INFORM, V30, P2, DOI 10.1016/j.tele.2012.03.002
+   Khoo PN, 2004, PSYCHOL WOMEN QUART, V28, P204, DOI 10.1111/j.1471-6402.2004.00137.x
+   KIESLER S, 1984, AM PSYCHOL, V39, P1123, DOI 10.1037/0003-066X.39.10.1123
+   KIESLER S, 1986, HARVARD BUS REV, V64, P46
+   Lange P., 2006, 1 MONDAY, P11
+   Lea M., 1992, Contexts of Computer-Mediated Communication, P30
+   Leonard LG, 2012, COMMUN STUD, V63, P387, DOI 10.1080/10510974.2011.629274
+   Marwick A, 2012, J BROADCAST ELECTRON, V56, P378, DOI 10.1080/08838151.2012.705197
+   O'Sullivan PB, 2003, NEW MEDIA SOC, V5, P69, DOI 10.1177/1461444803005001908
+   Papacharissi Z., 2010, NETWORKED SELF IDENT, P304, DOI DOI 10.4324/9780203876527
+   Parker JS, 2005, OMEGA-J DEATH DYING, V51, P257, DOI 10.2190/FM7M-314B-U3RT-E2CB
+   Parsons T., 1990, CULTURE SOC CONT DEB, P39
+   Phillips W., 2011, First Monday, V16, P12, DOI DOI 10.5210/FM.V16I12.3168
+   Postmes T, 2000, HUM COMMUN RES, V26, P341, DOI 10.1093/hcr/26.3.341
+   Rheingold H., 2000, VIRTUAL COMMUNITY HO
+   Rosenblatt PaulC., 1976, GRIEF MOURNING CROSS
+   Schwab R, 2004, GENERATIONS, V28, P26
+   Secomb Linnell., 1999, MORTALITY, V4, P111, DOI DOI 10.1080/713685975
+   Selwyn N, 2008, ASSESS EVAL HIGH EDU, V33, P465, DOI 10.1080/02602930701563104
+   SIEGEL J, 1986, ORGAN BEHAV HUM DEC, V37, P157, DOI 10.1016/0749-5978(86)90050-6
+   Taipale S, 2016, INFORM COMMUN SOC, V19, P80, DOI 10.1080/1369118X.2015.1093528
+   Tanis M, 2003, J COMMUN, V53, P676, DOI 10.1093/joc/53.4.676
+   Van Gennep, 1977, RITES PASSAGE
+   VANZOONEN L, 2001, FEMINIST MEDIA STUDI, V1, P67, DOI DOI 10.1080/14680770120042864
+   Vernon G.M., 1970, Sociology of death: an analysis of death-related behavior
+   Walter T, 2011, OMEGA-J DEATH DYING, V64, P275, DOI 10.2190/OM.64.4.a
+   Walther JB, 2008, HUM COMMUN RES, V34, P28, DOI 10.1111/j.1468-2958.2007.00312.x
+   Wright MF, 2013, AGGRESSIVE BEHAV, V39, P161, DOI 10.1002/ab.21470
+   Wright MF, 2011, COMPUT HUM BEHAV, V27, P1959, DOI 10.1016/j.chb.2011.04.019
+   Ybarra ML, 2004, J ADOLESCENCE, V27, P319, DOI 10.1016/j.adolescence.2004.03.007
+NR 57
+TC 6
+Z9 7
+U1 2
+U2 47
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1369-118X
+EI 1468-4462
+J9 INFORM COMMUN SOC
+JI Info. Commun. Soc.
+PD NOV
+PY 2017
+VL 20
+IS 11
+BP 1756
+EP 1770
+DI 10.1080/1369118X.2016.1257040
+PG 15
+WC Communication; Sociology
+WE Social Science Citation Index (SSCI)
+SC Communication; Sociology
+GA FA4IW
+UT WOS:000405408000010
+DA 2024-11-22
+ER
+
+PT J
+AU López-Cuevas, A
+   Ramírez-Márquez, J
+   Sanchez-Ante, G
+   Barker, K
+AF Lopez-Cuevas, Armando
+   Ramirez-Marquez, Jose
+   Sanchez-Ante, Gildardo
+   Barker, Kash
+TI A Community Perspective on Resilience Analytics: A Visual Analysis of
+   Community Mood
+SO RISK ANALYSIS
+LA English
+DT Article
+DE Mood; Paris attacks; social networks; steady-state; Twitter
+ID DISASTER; SYSTEM; RISK; DEFINITIONS; LIFE
+AB Social networks are ubiquitous in everyday life. Although commonly analyzed from a perspective of individual interactions, social networks can provide insights about the collective behavior of a community. It has been shown that changes in the mood of social networks can be correlated to economic trends, public demonstrations, and political reactions, among others. In this work, we study community resilience in terms of the mood variations of the community. We have developed a method to characterize the mood steady-state of online social networks and to analyze how this steady-state is affected under certain perturbations or events that affect a community. We applied this method to study community behavior for three real social network situations, with promising results.
+C1 [Lopez-Cuevas, Armando] Tecnol Monterrey, Escuela Ingn & Ciencias, Monterrey, Estado De Mexic, Mexico.
+   [Ramirez-Marquez, Jose] Stevens Inst Technol, Enterprise Sci & Engn Div, Hoboken, NJ 07030 USA.
+   [Sanchez-Ante, Gildardo] Univ Politecn Yucatan, Carretera Merida Tetiz Km 4-5, Mexico City, DF, Mexico.
+   [Barker, Kash] Univ Oklahoma, Sch Ind & Syst Engn, 202 W Boyd St,Rm 124, Norman, OK 73019 USA.
+C3 Tecnologico de Monterrey; Stevens Institute of Technology; University of
+   Oklahoma System; University of Oklahoma - Norman
+RP Barker, K (corresponding author), Univ Oklahoma, Sch Ind & Syst Engn, 202 W Boyd St,Rm 124, Norman, OK 73019 USA.
+EM kashbarker@ou.edu
+RI Marquez, Jose/AAI-7595-2020; Barker, Kash/GQA-6312-2022; Sanchez-Ante,
+   Gildardo/C-7900-2014
+OI Sanchez-Ante, Gildardo/0000-0003-3666-0855; Barker,
+   Kash/0000-0002-0142-1558
+FU Strategic Research Council at the Academy of Finland [293446]; National
+   Science Foundation, CRISP Type 2/Collaborative Research: Resilience
+   Analytics: A Data-Driven Approach for Enhanced Interdependent Network
+   Resilience [1541165]; Div Of Civil, Mechanical, & Manufact Inn;
+   Directorate For Engineering [1541165] Funding Source: National Science
+   Foundation
+FX Part of the research performed by Jose E. Ramirez Marquez and leading to
+   these results has received funding from the Strategic Research Council
+   at the Academy of Finland under grant agreement no: 293446 - Platform
+   Value Now: Value Capturing in the Fast Emerging Platform Ecosystems.
+   Also, part of the research performed by Jose E. Ramirez Marquez and Kash
+   Barker and leading to these results has received funding from the
+   National Science Foundation, CRISP Type 2/Collaborative Research:
+   Resilience Analytics: A Data-Driven Approach for Enhanced Interdependent
+   Network Resilience, award number 1541165.
+CR Aldrich D.P., 2012, Building Resilience: Social Capital in Post-Disaster Recovery, P1
+   [Anonymous], 1996, NONLINEAR SYSTEM
+   [Anonymous], 2012, POMS-2 manual: A profile of mood states
+   [Anonymous], NIST SPEC PUBL
+   [Anonymous], 2010, ICWSM 10.1. 01804
+   Aven T, 2011, RISK ANAL, V31, P515, DOI 10.1111/j.1539-6924.2010.01528.x
+   Bakkensen L.A., 2016, RISK ANAL
+   Bansal H.S., 2000, Journal of Service Research, V3, P166, DOI [10.1177/109467050032005, DOI 10.1177/109467050032005]
+   Barker K, 2016, DEFINING RESILIENCE
+   Barker K, 2013, RELIAB ENG SYST SAFE, V117, P89, DOI 10.1016/j.ress.2013.03.012
+   Bollen Johan, 2011, J COMPUT SCI-NETH, DOI [10.1016/j.jocs.2010.12.007, DOI 10.1016/j.jocs.2010.12.007]
+   Bonanno GA, 2007, J CONSULT CLIN PSYCH, V75, P671, DOI 10.1037/0022-006X.75.5.671
+   Buneviciute J, 2013, J HEALTH PSYCHOL, V18, P1493, DOI 10.1177/1359105312465909
+   Burnap P, 2014, SOC NETW ANAL MIN, V4, DOI 10.1007/s13278-014-0206-4
+   Chatfield AT, 2013, P ANN HICSS, P2050, DOI 10.1109/HICSS.2013.579
+   Cutter SL, 2014, GLOBAL ENVIRON CHANG, V29, P65, DOI 10.1016/j.gloenvcha.2014.08.005
+   Dai L, 2012, SCIENCE, V336, P1175, DOI 10.1126/science.1219805
+   Denef S., 2013, Proceedings of CHI 2013, P3471
+   DesChoudhury M, 2012, 2012 INT AAAI C WEB
+   Foote J, 2000, 2000 IEEE INTERNATIONAL CONFERENCE ON MULTIMEDIA AND EXPO, PROCEEDINGS VOLS I-III, P452, DOI 10.1109/ICME.2000.869637
+   Foote JT, 2003, PROC SPIE, V5021, P167, DOI 10.1117/12.476302
+   Franco N, 2016, MEDICINA, V49, P9
+   Gonalves P, 2013, ARXIV13081857V1
+   Gunderson LH, 2000, ANNU REV ECOL SYST, V31, P425, DOI 10.1146/annurev.ecolsys.31.1.425
+   He SK, 2014, 2014 PROCEEDINGS OF THE IEEE/ACM INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING (ASONAM 2014), P642, DOI 10.1109/ASONAM.2014.6921653
+   Henry D, 2012, RELIAB ENG SYST SAFE, V99, P114, DOI 10.1016/j.ress.2011.09.002
+   Hosseini S, 2016, RELIAB ENG SYST SAFE, V145, P47, DOI 10.1016/j.ress.2015.08.006
+   Hughes AL, 2012, J HOMEL SECUR EMERG, V9
+   Ignacio C, 2013, GOVT INFORM Q, V30, P319
+   Kaigo M., 2012, Keio Communication Review, V34, P19
+   Keim Mark E, 2011, Am J Disaster Med, V6, P47
+   Kuehn C, 2014, J COMPLEX NETW, V2, P141, DOI 10.1093/comnet/cnt022
+   KULLBACK S, 1951, ANN MATH STAT, V22, P79, DOI 10.1214/aoms/1177729694
+   Lee JEC, 2009, RISK ANAL, V29, P1265, DOI 10.1111/j.1539-6924.2009.01264.x
+   Magis K, 2010, SOC NATUR RESOUR, V23, P401, DOI 10.1080/08941920903305674
+   Manyena SB, 2011, LOCAL ENVIRON, V16, P417, DOI 10.1080/13549839.2011.583049
+   Meier P., 2014, HDB HUMAN COMPUTATIO, P95
+   Meier P., 2014, VERIFICATION HDB DEF
+   Meier P., 2014, CRISIS MAPPING AREAS, P130
+   Morris J Glenn Jr, 2013, Trans Am Clin Climatol Assoc, V124, P191
+   National Academy of Sciences, 2012, DIRENAT IMP
+   Ohmura M, 2014, INT C INFO SCI APPL
+   Pang B, 2002, PROCEEDINGS OF THE 2002 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING, P79, DOI 10.3115/1118693.1118704
+   Park J, 2013, RISK ANAL, V33, P356, DOI 10.1111/j.1539-6924.2012.01885.x
+   PORTER MF, 1980, PROGRAM-AUTOM LIBR, V14, P130, DOI 10.1108/eb046814
+   Sheffi Y., 2005, RESILIENCE ENTERPRIS
+   St Denis Lise Ann., 2014, Mastering Social Media: An Analysis of Jefferson County's Communications during the 2013 Colorado Floods, P737
+   Terry PC, 1999, J SPORT SCI, V17, P861, DOI 10.1080/026404199365425
+   Ursula M., 2015, COGENT PSYCHOL, V2
+   Webb CT, 2007, BIOSCIENCE, V57, P470, DOI 10.1641/B570602
+   Wicke FS, 2014, BMC FAM PRACT, V15, DOI 10.1186/1471-2296-15-62
+   Yang ZY, 2015, RISK ANAL, V35, P1789, DOI 10.1111/risa.12343
+NR 52
+TC 18
+Z9 19
+U1 3
+U2 43
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0272-4332
+EI 1539-6924
+J9 RISK ANAL
+JI Risk Anal.
+PD AUG
+PY 2017
+VL 37
+IS 8
+SI SI
+BP 1566
+EP 1579
+DI 10.1111/risa.12788
+PG 14
+WC Public, Environmental & Occupational Health; Mathematics,
+   Interdisciplinary Applications; Social Sciences, Mathematical Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health; Mathematics; Mathematical
+   Methods In Social Sciences
+GA FD6BC
+UT WOS:000407612600010
+PM 28314062
+OA Bronze
+DA 2024-11-22
+ER

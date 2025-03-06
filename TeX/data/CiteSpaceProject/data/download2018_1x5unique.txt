@@ -1,0 +1,502 @@
+
+PT J
+AU Qi, JS
+   Liang, X
+   Wang, Y
+   Cheng, HC
+AF Qi, Jinshan
+   Liang, Xun
+   Wang, Yi
+   Cheng, Hengchao
+TI Discrete time information diffusion in online social networks: micro and
+   macro perspectives
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+AB Opinions shared publicly in online social networks spread broadly and at an extremely high speed. However, modelling information diffusion in online social networks is still a challenge that is intriguing to many researchers. To monitor public opinions online, it is necessary to model the process of information dissemination. In this paper, we first study information diffusion based on the network structure and time occupation. By taking into consideration the availability of a user, e.g., his online or offline state, we present the discrete-time bi-probability independent cascade model. We next analyse the information diffusion from a macro perspective. A diffusion model is established by merging the interferences from other events and the cumulative effect that occurs over time. Finally, we observe the factors in online social networks that impact a message's diffusion from a micro perspective and discuss more complex user behaviour and various types of interferences with their effects from a macro perspective. Experiments are conducted with real world data, and the experimental results justify our models.
+C1 [Qi, Jinshan; Liang, Xun; Wang, Yi; Cheng, Hengchao] Renmin Univ China, Sch Informat, Beijing 100872, Peoples R China.
+   [Qi, Jinshan] Huaiyin Normal Univ, Sch Comp Sci & Technol, Huaian 223300, Jiangsu, Peoples R China.
+C3 Renmin University of China; Huaiyin Normal University
+RP Liang, X (corresponding author), Renmin Univ China, Sch Informat, Beijing 100872, Peoples R China.
+EM Xun__liang@163.com
+OI Liang, Xun/0000-0002-3431-5954
+FU National Natural Science Foundation of China [71531012, 71271211,
+   71601013]; Natural Science Foundation of Jiangsu Province of China
+   [BK20141253]
+FX This work is supported by the National Natural Science Foundation of
+   China (Grant Nos 71531012, 71271211 and 71601013) and the Natural
+   Science Foundation of Jiangsu Province of China (Grant No. BK20141253).
+CR Chen W., 2015, P 15 ACM SIGKDD INT, P199
+   Cheng J, 2014, WWW'14: PROCEEDINGS OF THE 23RD INTERNATIONAL CONFERENCE ON WORLD WIDE WEB, P925, DOI 10.1145/2566486.2567997
+   Del Vicario M, 2017, SOC NETWORKS, V50, P6, DOI 10.1016/j.socnet.2017.02.002
+   Dunbar RIM, 2015, SOC NETWORKS, V43, P39, DOI 10.1016/j.socnet.2015.04.005
+   Halberstam Y, 2016, J PUBLIC ECON, V143, P73, DOI 10.1016/j.jpubeco.2016.08.011
+   Lahiri Mayank., 2010, The genetic algorithm as a general diffusion model for social networks
+   Litou I., 2016, IEEE INT C MOB DAT M, P187
+   Pathak N., 2010, GEN LINEAR THRESHOLD, V595, P965
+   Pfitzner R, 2013, PHYS REV LETT, V110, DOI 10.1103/PhysRevLett.110.198701
+   Saito K, 2009, LECT NOTES ARTIF INT, V5828, P322, DOI 10.1007/978-3-642-05224-8_25
+   Tardos, 2003, P 9 ACM SIGKDD INT C, P137, DOI 10.1145/956750.956769
+   Taxidou I, 2015, WWW'15 COMPANION: PROCEEDINGS OF THE 24TH INTERNATIONAL CONFERENCE ON WORLD WIDE WEB, P819, DOI 10.1145/2740908.2742475
+   Taxidou L, 2013, PROC VLDB ENDOW, V6, P1416
+   Wan S., 2014, J CHINESE INFORM PRO, V03, P68
+   Xiang Z., 2015, J COMPUT RES DEV, V52, P437
+   Xiao LX, 2012, PROCEEDINGS OF 2012 IEEE 14TH INTERNATIONAL CONFERENCE ON COMMUNICATION TECHNOLOGY, P469, DOI 10.1109/ICCT.2012.6511264
+   Yang J., 2011, WSDM'11, P177, DOI DOI 10.1145/1935826.1935863
+NR 17
+TC 13
+Z9 14
+U1 1
+U2 11
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD AUG 8
+PY 2018
+VL 8
+AR 11872
+DI 10.1038/s41598-018-29733-8
+PG 15
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA GP6JD
+UT WOS:000440985100014
+PM 30089814
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Mones, E
+   Stopczynski, A
+   Pentland, A
+   Hupert, N
+   Lehmann, S
+AF Mones, Enys
+   Stopczynski, Arkadiusz
+   Pentland, Alex 'Sandy'
+   Hupert, Nathaniel
+   Lehmann, Sune
+TI Optimizing targeted vaccination across cyber-physical networks: an
+   empirically based mathematical simulation study
+SO JOURNAL OF THE ROYAL SOCIETY INTERFACE
+LA English
+DT Article
+DE epidemiology; vaccination; disease transmission; digital networks;
+   social networks; physical proximity
+ID IMMUNIZATION STRATEGY; EPIDEMIC PROCESSES; IMPACT; VIRUS
+AB Targeted vaccination, whether to minimize the forward transmission of infectious diseases or their clinical impact, is one of the 'holy grails' of modern infectious disease outbreak response, yet it is difficult to achieve in practice due to the challenge of identifying optimal targets in real time. If interruption of disease transmission is the goal, targeting requires knowledge of underlying person-to-person contact networks. Digital communication networks may reflect not only virtual but also physical interactions that could result in disease transmission, but the precise overlap between these cyber and physical networks has never been empirically explored in real-life settings. Here, we study the digital communication activity of more than 500 individuals along with their person-to-person contacts at a 5-min temporal resolution. We then simulate different disease transmission scenarios on the person-to-person physical contact network to determine whether cyber communication networks can be harnessed to advance the goal of targeted vaccination for a disease spreading on the network of physical proximity. We show that individuals selected on the basis of their closeness centrality within cyber networks (what we call 'cyber-directed vaccination') can enhance vaccination campaigns against diseases with short-range (but not full-range) modes of transmission.
+C1 [Mones, Enys; Stopczynski, Arkadiusz; Lehmann, Sune] Tech Univ Denmark, Dept Appl Math & Comp Sci, Lyngby, Denmark.
+   [Stopczynski, Arkadiusz; Pentland, Alex 'Sandy'] MIT, Media Lab, Cambridge, MA 02139 USA.
+   [Hupert, Nathaniel] Cornell Univ, Weill Cornell Med Coll, Ithaca, NY USA.
+   [Lehmann, Sune] Univ Copenhagen, Niels Bohr Inst, Copenhagen, Denmark.
+C3 Technical University of Denmark; Massachusetts Institute of Technology
+   (MIT); Cornell University; Weill Cornell Medicine; University of
+   Copenhagen; Niels Bohr Institute
+RP Lehmann, S (corresponding author), Tech Univ Denmark, Dept Appl Math & Comp Sci, Lyngby, Denmark.; Lehmann, S (corresponding author), Univ Copenhagen, Niels Bohr Inst, Copenhagen, Denmark.
+EM sljo@dtu.dk
+RI Lehmann, Sune/AFQ-7000-2022
+OI Lehmann, Sune/0000-0001-6099-2345; Mones, Enys/0000-0001-7724-0094
+FU Villum Foundation (Young Investigator Programme 'High Resolution
+   Networks' grant); Danish Council for Independent Research (Sapere Aude
+   Programme 'Micro dynamics of influence in social systems'); University
+   of Copenhagen (UCPH Excellence Programme for Interdisciplinary Research
+   Social Fabric grant); Cornell Institute for Disease and Disaster
+   Preparedness; New York-Presbyterian Hospital
+FX This work was supported by the Villum Foundation (Young Investigator
+   Programme 'High Resolution Networks' grant (to S.L.)), The Danish
+   Council for Independent Research (Sapere Aude Programme 'Micro dynamics
+   of influence in social systems') and the University of Copenhagen (UCPH
+   Excellence Programme for Interdisciplinary Research Social Fabric
+   grant). N.H. was supported by the Cornell Institute for Disease and
+   Disaster Preparedness and New York-Presbyterian Hospital. Funders had no
+   role in the design of the study and collection, analysis and
+   interpretation of data, nor did they have a role in writing the
+   manuscript.
+CR ANDERSON R M, 1991
+   Bansal S, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0009360
+   Barrat A, 2014, CLIN MICROBIOL INFEC, V20, P10, DOI 10.1111/1469-0691.12472
+   Black SR, 2003, INFECT DIS, P90
+   Chen L, 2015, J THEOR BIOL, V385, P58, DOI 10.1016/j.jtbi.2015.07.037
+   Christakis NA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0012948
+   Cohen R, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.247901
+   Ferguson NM, 2006, NATURE, V442, P448, DOI 10.1038/nature04795
+   Ferguson NM, 2003, NATURE, V425, P681, DOI 10.1038/nature02007
+   Fraser C, 2009, SCIENCE, V324, P1557, DOI 10.1126/science.1176062
+   Génois M, 2015, NAT COMMUN, V6, DOI 10.1038/ncomms9860
+   Greenwood S., 2016, PEW RES CTR
+   Hufnagel L, 2004, P NATL ACAD SCI USA, V101, P15124, DOI 10.1073/pnas.0308344101
+   Isella L, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0017144
+   Jordan H. T., 2009, Morbidity and Mortality Weekly Report, V58, P470
+   Kiti MC, 2016, EPJ DATA SCI, V5, DOI 10.1140/epjds/s13688-016-0084-2
+   Kumar R, 2011, BMC PUBLIC HEALTH, V11, DOI 10.1186/1471-2458-11-549
+   Liu Y, 2016, J THEOR BIOL, V400, P92, DOI 10.1016/j.jtbi.2016.04.018
+   Machens A, 2013, BMC INFECT DIS, V13, DOI 10.1186/1471-2334-13-185
+   Masuda N., 2017, TEMPORAL NETWORK EPI, DOI DOI 10.1007/978-981-10-5287-3
+   Mills CE, 2004, NATURE, V432, P904, DOI 10.1038/nature03063
+   Moore M, 2003, INT J HYG ENVIR HEAL, V206, P269, DOI 10.1078/1438-4639-00223
+   Onnela JP, 2007, P NATL ACAD SCI USA, V104, P7332, DOI 10.1073/pnas.0610245104
+   Pastor-Satorras R, 2015, REV MOD PHYS, V87, P925, DOI 10.1103/RevModPhys.87.925
+   Salathé M, 2012, PLOS COMPUT BIOL, V8, DOI 10.1371/journal.pcbi.1002616
+   Salathé M, 2010, P NATL ACAD SCI USA, V107, P22020, DOI 10.1073/pnas.1009094108
+   Sekara V, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0100915
+   Shams B, 2015, THEOR POPUL BIOL, V106, P83, DOI 10.1016/j.tpb.2015.10.007
+   Smieszek T, 2013, BMC MED, V11, DOI 10.1186/1741-7015-11-35
+   Starnini M, 2013, J THEOR BIOL, V337, P89, DOI 10.1016/j.jtbi.2013.07.004
+   Stehlé J, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0023176
+   Stopczynski A., 2015, Physical Proximity and Spreading in Dynamic Social Networks
+   Stopczynski A, 2015, EUR PHYS J B, V88, DOI 10.1140/epjb/e2015-60549-7
+   Stopczynski A, 2014, PLOS ONE, V9, DOI [10.1371/journal.pone.0100915, 10.1371/journal.pone.0095978]
+   Teunis PFM, 2010, EPIDEMICS-NETH, V2, P215, DOI 10.1016/j.epidem.2010.10.001
+   Tildesley MJ, 2006, NATURE, V440, P83, DOI 10.1038/nature04324
+   Ugander J., 2011, The Anatomy of the Facebook Social Graph
+   Wesolowski A, 2012, SCIENCE, V338, P267, DOI 10.1126/science.1223467
+   Xie X, 2007, INDOOR AIR, V17, P211, DOI 10.1111/j.1600-0668.2007.00469.x
+NR 39
+TC 8
+Z9 8
+U1 0
+U2 6
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 1742-5689
+EI 1742-5662
+J9 J R SOC INTERFACE
+JI J. R. Soc. Interface
+PD JAN 1
+PY 2018
+VL 15
+IS 138
+AR 20170783
+DI 10.1098/rsif.2017.0783
+PG 9
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA FU3SB
+UT WOS:000423770900021
+PM 29298957
+OA Green Published, hybrid
+DA 2024-11-22
+ER
+
+PT J
+AU Zeppini, P
+   Frenken, K
+AF Zeppini, Paolo
+   Frenken, Koen
+TI Networks, Percolation, and Consumer Demand
+SO JASSS-THE JOURNAL OF ARTIFICIAL SOCIETIES AND SOCIAL SIMULATION
+LA English
+DT Article
+DE Clustering; Diffusion; Efficiency; Phase Transition; Small-World
+   Network; Welfare
+ID MODEL; INNOVATION; DIFFUSION; SPREAD
+AB Understanding diffusion processes is key to market strategies as well as innovation and sustainability policies. In promoting new products and technologies, firms and governments need to understand the conditions favouring successful spread of these products. We propose a generic diffiusion model based on percolation theory. Our reference is a new product diffusion in a social network through word-of-mouth. Given that consumers differ in their reservation prices, a critical price exists that defines a phase transition froma no-diffusion to a diffusion regime. As consumer surplus is maximised just below a product's critical price, one can systematically compare the economic efficiency of network structures by investigating their critical price. Networks with lowclustering were themost efficient, because clustering leads to redundant information flows hampering effective product diffusion. We further showed that the more equal a society, the more efficient the diffusion process.
+C1 [Zeppini, Paolo] Univ Cote Azur, CNRS, GREDEG, F-06560 Valbonne, France.
+   [Zeppini, Paolo] Univ Bath, Dept Econ, Bath BA2 7AY, Avon, England.
+   [Frenken, Koen] Univ Utrecht, Copernicus Inst Sustainable Dev, 2 Heidelberglaan, NL-3584 CS Utrecht, Netherlands.
+C3 Universite Cote d'Azur; Centre National de la Recherche Scientifique
+   (CNRS); University of Bath; Utrecht University
+RP Zeppini, P (corresponding author), Univ Cote Azur, CNRS, GREDEG, F-06560 Valbonne, France.; Zeppini, P (corresponding author), Univ Bath, Dept Econ, Bath BA2 7AY, Avon, England.
+EM paolo.zeppini@gmail.com
+RI ; Frenken, Koen/C-4486-2017
+OI Zeppini, Paolo/0000-0002-1630-9462; Frenken, Koen/0000-0003-4731-0201
+FU Netherlands Organisation for Scientific Research (NWO) under the Social
+   Sciences Open Competition Scheme [400 - 09 - 459]
+FX We thank Luis Izquierdo and Fernando Vega-Redondo for their suggestions
+   and comments. We acknowledge feedback from presentations of this article
+   at the Centre of Networks and Collective Behaviour of the University of
+   Bath (2015), the Workshop of Economics and Finance of Karlsruhe
+   Institute of Technology (2015), the Lorentz Center workshops
+   "Socio-Economic complexity" (2015) and "Econophysics and networks across
+   scales" (2013) in Leiden, the UNU-MERIT of Maastricht University, the
+   5th Conference on Sustainability Transitions in Utrecht (2014), the
+   Department of Economics of the University of Venice, the ECCS 2013
+   conference in Barcelona, the WEHIA 2013 workshop in Reykjavik, the 11th
+   Workshop on Networks in Utrecht (2013), the 4th CompleNet Workshop in
+   Berlin (2013), the College of Management of EPFL Lausanne, the LATSIS
+   2012 Symposium and the ABM-CTS 2012 conference at ETH, Zurich, and the
+   Amsterdam School of Economics. Funding has been provided by the
+   Netherlands Organisation for Scientific Research (NWO) under the Social
+   Sciences Open Competition Scheme, no. 400 - 09 - 459.
+CR Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   Amaral LAN, 2000, P NATL ACAD SCI USA, V97, P11149, DOI 10.1073/pnas.200327197
+   [Anonymous], 2007, COMPLEX SOCIAL NETWO
+   Banerjee A, 2013, SCIENCE, V341, P363, DOI 10.1126/science.1236498
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   BASS FM, 1969, MANAGE SCI, V15, P215, DOI 10.1287/mnsc.15.5.215
+   Birke D, 2010, J ECON BEHAV ORGAN, V76, P153, DOI 10.1016/j.jebo.2010.06.005
+   Boyer T, 2014, J ECON BEHAV ORGAN, V100, P20, DOI 10.1016/j.jebo.2014.01.009
+   Callaway DS, 2000, PHYS REV LETT, V85, P5468, DOI 10.1103/PhysRevLett.85.5468
+   Campbell A, 2013, AM ECON REV, V103, P2466, DOI 10.1257/aer.103.6.2466
+   Cantono S, 2009, TECHNOL FORECAST SOC, V76, P487, DOI 10.1016/j.techfore.2008.04.010
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Cowan R, 2004, J ECON DYN CONTROL, V28, P1557, DOI 10.1016/j.jedc.2003.04.002
+   DAVIES SW, 1979, EUR ECON REV, V12, P299, DOI 10.1016/0014-2921(79)90023-0
+   Delre SA, 2010, J PROD INNOVAT MANAG, V27, P267, DOI 10.1111/j.1540-5885.2010.00714.x
+   Dover Y, 2012, MARKET SCI, V31, P689, DOI 10.1287/mksc.1120.0711
+   ERDOS P, 1960, B INT STATIST INST, V38, P343
+   Fogli A., 2014, DP10222 CEPR
+   Garber T, 2004, MARKET SCI, V23, P419, DOI 10.1287/mksc.1040.0051
+   Goldenberg J, 2009, J MARKETING, V73, P1, DOI 10.1509/jmkg.73.2.1
+   GRILICHES Z, 1957, ECONOMETRICA, V25, P501, DOI 10.2307/1905380
+   Hohnisch M, 2008, IND CORP CHANGE, V17, P1001, DOI 10.1093/icc/dtn031
+   Huang CY, 2005, JASSS-J ARTIF SOC S, V8
+   MANSFIELD E, 1961, ECONOMETRICA, V29, P741, DOI 10.2307/1911817
+   Newman MEJ, 1999, PHYS REV E, V60, P7332, DOI 10.1103/PhysRevE.60.7332
+   Newman MEJ, 2001, PHYS REV E, V64, DOI [10.1103/PhysRevE.64.016132, 10.1103/PhysRevE.64.016131]
+   Rogers, 2003, DIFFUSION INNOVATION
+   Shao P, 2017, JASSS-J ARTIF SOC S, V20, DOI 10.18564/jasss.3207
+   Silverberg G, 2005, J ECON DYN CONTROL, V29, P225, DOI 10.1016/j.jedc.2003.05.005
+   Solomon S, 2000, PHYSICA A, V277, P239, DOI 10.1016/S0378-4371(99)00543-9
+   Stauffer D, 1992, INTRO PERCOLATION TH, DOI 10.1201/9781315274386
+   Stoneman P., 2001, EC TECHNOLOGICAL DIF
+   TRAVERS J, 1969, SOCIOMETRY, V32, P425, DOI 10.2307/2786545
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+NR 35
+TC 5
+Z9 6
+U1 1
+U2 20
+PU J A S S S
+PI GUILDFORD
+PA UNIV SURREY, DEPT SOCIOLOGY, GUILDFORD GU2 7XH, SURREY, ENGLAND
+SN 1460-7425
+J9 JASSS-J ARTIF SOC S
+JI JASSS
+PD JUN 30
+PY 2018
+VL 21
+IS 3
+AR 1
+DI 10.18564/jasss.3658
+PG 15
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA GO3AC
+UT WOS:000439852500001
+OA Green Submitted, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Manivannan, A
+   Yow, WQ
+   Bouffanais, R
+   Barrat, A
+AF Manivannan, Ajaykumar
+   Yow, W. Quin
+   Bouffanais, Roland
+   Barrat, Alain
+TI Are the different layers of a social network conveying the same
+   information?
+SO EPJ DATA SCIENCE
+LA English
+DT Article
+DE Social networks; Multilayer networks; Temporal homophily
+ID PATTERNS
+AB Comprehensive and quantitative investigations of social theories and phenomena increasingly benefit from the vast breadth of data describing human social relations that is now available within the realm of computational social science. Such data are, however, typically proxies for one of the many interaction layers composing social networks, which can be defined in many ways and are composed of communication of various types (e.g., phone calls, face-to-face communication, etc.). As a result, many studies focus on one single layer, corresponding to the data at hand. Several studies have however shown that these layers are not interchangeable, despite the presence of a certain level of correlation between them. Here, we investigate whether different layers of interactions among individuals lead to similar conclusions with respect to the presence of homophily patterns in a population-homophily represents one of the widest studied phenomenon in social networks. To this aim, we consider a data set describing interactions and links of various nature in a population of Asian students with diverse nationalities, first language and gender. We study homophily patterns, as well as their temporal evolution in each layer of the social network. To facilitate our analysis, we put forward a general method to assess whether the homophily patterns observed in one layer inform us about patterns in another layer. For instance, our study reveals that three network layers-cell phone communications, questionnaires about friendship, and trust relations-lead to similar and consistent results despite some minor discrepancies. The homophily patterns of the co-presence network layer, however, does not yield any meaningful information about other network layers.
+C1 [Manivannan, Ajaykumar; Yow, W. Quin; Bouffanais, Roland] Singapore Univ Technol & Design, Singapore, Singapore.
+   [Barrat, Alain] Univ Toulon & Var, Aix Marseille Univ, CNRS, CPT, Marseille, France.
+   [Barrat, Alain] Inst Sci Interchange ISI Fdn, Data Sci Lab, Turin, Italy.
+C3 Singapore University of Technology & Design; Universite de Toulon;
+   Aix-Marseille Universite; Centre National de la Recherche Scientifique
+   (CNRS)
+RP Barrat, A (corresponding author), Univ Toulon & Var, Aix Marseille Univ, CNRS, CPT, Marseille, France.; Barrat, A (corresponding author), Inst Sci Interchange ISI Fdn, Data Sci Lab, Turin, Italy.
+EM alain.barrat@gmail.com
+RI Manivannan, Ajaykumar/AAO-6899-2021; Bouffanais, Roland/L-3460-2013
+OI Manivannan, Ajaykumar/0000-0002-2860-8195; Barrat,
+   Alain/0000-0001-8683-269X; Bouffanais, Roland/0000-0002-2507-4642
+FU SUTD-MIT International Design Center (IDC) [IDG31100106, IDD41100104]
+FX This work was partially supported by the SUTD-MIT International Design
+   Center (IDC) under Grant IDG31100106 and IDD41100104 (AM, WQY, and RB).
+   The funder had no role in study design, data collection and analysis,
+   decision to publish, or preparation of the manuscript.
+CR Aiello L.-M, 2010, Proceedings of the 2010 IEEE Second International Conference on Social Computing (SocialCom 2010). the Second IEEE International Conference on Privacy, Security, Risk and Trust (PASSAT 2010), P249, DOI 10.1109/SocialCom.2010.42
+   [Anonymous], ARXIV180403488
+   [Anonymous], 2010, P 19 INT C WORLD WID
+   Barrat A., 2008, DYNAMICAL PROCESSES, DOI DOI 10.1017/CBO9780511791383
+   Barrat A, 2015, COMPUT SOC SCI, P37, DOI 10.1007/978-3-319-14011-7_3
+   Boonstra TW, 2017, ARXIV170608777
+   Borgatti SP, 2009, SCIENCE, V323, P892, DOI 10.1126/science.1165821
+   Dabkowski M, 2015, SOC NETWORKS, V40, P1, DOI 10.1016/j.socnet.2014.06.003
+   Hill RA, 2003, HUM NATURE-INT BIOS, V14, P53, DOI 10.1007/s12110-003-1016-y
+   Hubert LawrenceJ. ., 1987, Assignment Methods in Combinatorial Data Analysis
+   Jo HH, 2014, SCI REP-UK, V4, DOI 10.1038/srep06988
+   Kossinets G, 2009, AM J SOCIOL, V115, P405, DOI 10.1086/599247
+   Kovanen L, 2013, P NATL ACAD SCI USA, V110, P18070, DOI 10.1073/pnas.1307941110
+   KRACKHARDT D, 1988, SOC NETWORKS, V10, P359, DOI 10.1016/0378-8733(88)90004-4
+   KRACKHARDT D, 1987, SOC NETWORKS, V9, P171, DOI 10.1016/0378-8733(87)90012-8
+   Laniado D, 2016, EPJ DATA SCI, V5, DOI 10.1140/epjds/s13688-016-0080-6
+   Leecaster M, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0153690
+   Maslov S, 2004, PHYSICA A, V333, P529, DOI 10.1016/j.physa.2003.06.002
+   Mastrandrea R, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0136497
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Miritello G, 2013, SCI REP-UK, V3, DOI 10.1038/srep01950
+   Mollgaard A, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0157436
+   Mones E, 2017, EPJ DATA SCI, V6, DOI 10.1140/epjds/s13688-017-0103-y
+   Navarro H, 2017, ARXIV170606188
+   Newman MEJ, 2009, PHYS REV LETT, V103, DOI 10.1103/PhysRevLett.103.058701
+   Nicosia V, 2015, PHYS REV E, V92, DOI 10.1103/PhysRevE.92.032805
+   Onnela JP, 2007, P NATL ACAD SCI USA, V104, P7332, DOI 10.1073/pnas.0610245104
+   Palchykov V, 2012, SCI REP-UK, V2, DOI 10.1038/srep00370
+   Read JM, 2012, EPIDEMIOL INFECT, V140, P2117, DOI 10.1017/S0950268812000842
+   Roberts SGB, 2009, SOC NETWORKS, V31, P138, DOI 10.1016/j.socnet.2008.12.002
+   Roberts SGB, 2011, PERS RELATIONSHIP, V18, P439, DOI 10.1111/j.1475-6811.2010.01310.x
+   Saramäki J, 2014, P NATL ACAD SCI USA, V111, P942, DOI 10.1073/pnas.1308540110
+   Sekara V, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0100915
+   Smieszek T, 2016, BMC INFECT DIS, V16, DOI 10.1186/s12879-016-1676-y
+   Smirnov I, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0183473
+   Snijders TAB, 2013, SOC NETWORKS, V35, P265, DOI 10.1016/j.socnet.2012.05.005
+   Stehlé J, 2013, SOC NETWORKS, V35, P604, DOI 10.1016/j.socnet.2013.08.003
+   Stopczynski A, 2014, PLOS ONE, V9, DOI [10.1371/journal.pone.0100915, 10.1371/journal.pone.0095978]
+   Szell M, 2010, P NATL ACAD SCI USA, V107, P13636, DOI 10.1073/pnas.1004008107
+   Vörös A, 2017, SOC NETWORKS, V49, P93, DOI 10.1016/j.socnet.2017.01.002
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   Yow WQ, 2014, IEEE ICC, P3925, DOI 10.1109/ICC.2014.6883934
+NR 42
+TC 9
+Z9 9
+U1 2
+U2 10
+PU SPRINGEROPEN
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON, N1 9XW, ENGLAND
+SN 2193-1127
+J9 EPJ DATA SCI
+JI EPJ Data Sci.
+PD SEP 15
+PY 2018
+VL 7
+AR 34
+DI 10.1140/epjds/s13688-018-0161-9
+PG 26
+WC Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Mathematical Methods In Social Sciences
+GA GT8LD
+UT WOS:000444788100001
+OA Green Published, Green Submitted, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Block, P
+AF Block, Per
+TI Network Evolution and Social Situations
+SO SOCIOLOGICAL SCIENCE
+LA English
+DT Article
+DE friendship networks; reciprocity; transitivity; homophily; network
+   theory
+ID RANDOM GRAPH MODELS; FRIENDSHIP NETWORKS; SEGREGATION; DYNAMICS;
+   SMOKING; BEHAVIOR; ORIGINS
+AB Studying the evolution of friendship networks has a long tradition in sociology. Multiple micromechanisms underlying friendship formation have been discovered, the most pervasive being reciprocity, transitivity, and homophily. Although each mechanism is studied in depth on its own, their relation to one another is rarely analyzed, and a theoretical framework that integrates research on all of them does not exist. This article introduces a friendship evolution model, which proposes that each micromechanism is related to interactions in different social situations. Based on this model, decreasing returns to embedding in multiple mechanisms are hypothesized. Complete social network data of adolescents and statistical network models are used to test these hypotheses. Results show a consistently negative interaction in line with the formulated model. The consequences of this negative relation between the network evolution mechanisms are explored in a simulation study, which suggests that this is a strong determinant of network-level integration and segregation.
+C1 [Block, Per] Swiss Fed Inst Technol, Dept Humanities Social & Polit Sci, Zurich, Switzerland.
+C3 Swiss Federal Institutes of Technology Domain; ETH Zurich
+RP Block, P (corresponding author), Swiss Fed Inst Technol, Dept Humanities Social & Polit Sci, Zurich, Switzerland.
+EM per.block@gess.ethz.ch
+OI Block, Per/0000-0002-7583-2392
+FU Chief Scientist Office of the Scottish Home and Health Department under
+   Smoking Initiative [K/OPR/17/8]; medical research council of the United
+   Kingdom [ISRCTN55572965]
+FX The Chief Scientist Office of the Scottish Home and Health Department
+   funded the study under its Smoking Initiative (grant K/OPR/17/8).The
+   study was funded by the medical research council of the United Kingdom
+   (project number ISRCTN55572965).
+CR Adams RG, 2000, J AGING STUD, V14, P117, DOI 10.1016/S0890-4065(00)80019-5
+   [Anonymous], 1992, Structural holes
+   BAUMEISTER RF, 1995, PSYCHOL BULL, V117, P497, DOI 10.1037/0033-2909.117.3.497
+   Blau PeterMichael., 1984, CROSSCUTTING SOCIAL
+   BLAU PM, 1977, AM J SOCIOL, V83, P26
+   Block P, 2018, SOC NETWORKS, V52, P180, DOI 10.1016/j.socnet.2017.08.001
+   Block P, 2014, NETW SCI, V2, P189, DOI 10.1017/nws.2014.17
+   Block P, 2015, SOC NETWORKS, V40, P163, DOI 10.1016/j.socnet.2014.10.005
+   Boda Z, 2018, SOCIOL SCI, V5, P29, DOI 10.15195/v5.a3
+   Campbell R, 2008, LANCET, V371, P1595, DOI 10.1016/S0140-6736(08)60692-3
+   Coleman J., 1961, ADOLESCENT SOC, V1st
+   Dunbar RIM, 2018, TRENDS COGN SCI, V22, P32, DOI 10.1016/j.tics.2017.10.004
+   Eagle N, 2009, P NATL ACAD SCI USA, V106, P15274, DOI 10.1073/pnas.0900282106
+   EMERSON RM, 1976, ANNU REV SOCIOL, V2, P335, DOI 10.1146/annurev.so.02.080176.002003
+   FELD SL, 1981, AM J SOCIOL, V86, P1015, DOI 10.1086/227352
+   FELD SL, 1982, AM SOCIOL REV, V47, P797, DOI 10.2307/2095216
+   Festinger L., 1950, SOCIAL PRESSURES INF, V30, P384, DOI 10.2307/3348388
+   FISCHER CS, 1982, SOC NETWORKS, V3, P287, DOI 10.1016/0378-8733(82)90004-1
+   Fujimoto K, 2017, SOC NETWORKS, V48, P100, DOI 10.1016/j.socnet.2016.07.006
+   Gould RV, 2002, AM J SOCIOL, V107, P1143, DOI 10.1086/341744
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Heider F., 1958, PSYCHOL INTERPERSONA, DOI [DOI 10.1037/10628-000, 10.1037/10628-000]
+   Igarashi T., 2013, Exponential random graph models for social networks: Theory, methods and applications, P248
+   Johnson JC, 2003, J MATH SOCIOL, V27, P89, DOI 10.1080/00222500305890
+   Kossinets G, 2009, AM J SOCIOL, V115, P405, DOI 10.1086/599247
+   Kreager Derek A., 2015, JUSTICE Q, V8825, P37
+   Labun A, 2016, NETW SCI, V4, P364, DOI 10.1017/nws.2016.7
+   Leszczensky L, 2015, SOC NETWORKS, V42, P18, DOI 10.1016/j.socnet.2015.02.002
+   MARSDEN PV, 1990, ANNU REV SOCIOL, V16, P435, DOI 10.1146/annurev.so.16.080190.002251
+   MCPHERSON JM, 1987, AM SOCIOL REV, V52, P370, DOI 10.2307/2095356
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Moody J, 2001, AM J SOCIOL, V107, P679, DOI 10.1086/338954
+   Moren-Cross Jennifer., 2008, SOCIAL CAPITAL INT R, P364, DOI DOI 10.1093/ACPROF:OSO/9780199234387.003.0161
+   Mouw T, 2006, AM J SOCIOL, V112, P394, DOI 10.1086/506415
+   Mouw T, 2006, ANNU REV SOCIOL, V32, P79, DOI 10.1146/annurev.soc.32.061604.123150
+   Pattison P, 2002, SOCIOL METHODOL, V32, P301, DOI 10.1111/1467-9531.00119
+   Pattison PE, 2013, J MATH PSYCHOL, V57, P284, DOI 10.1016/j.jmp.2013.05.004
+   Pearson M, 2000, DRUG-EDUC PREV POLIC, V7, P21, DOI 10.1080/713660095
+   Pearson M., 2006, CONNECTIONS, V27, P47
+   Raento M, 2009, SOCIOL METHOD RES, V37, P426, DOI 10.1177/0049124108330005
+   Reicher S.D., 1987, REDISCOVERING SOCIAL
+   Rivera MT, 2010, ANNU REV SOCIOL, V36, P91, DOI 10.1146/annurev.soc.34.040507.134743
+   Schaefer DR, 2018, FRONT SOCIOL SOC RES, P315, DOI 10.1007/978-3-319-71544-5_15
+   Simmel G., 1950, SOCIOLOGY G SIMMEL
+   Smetana JG, 2006, ANNU REV PSYCHOL, V57, P255, DOI 10.1146/annurev.psych.57.102904.190124
+   Snijders T. A., 2005, MODELS METHODS SOCIA, V1, P215, DOI DOI 10.1017/CBO9780511811395.011
+   Snijders TAB, 2003, J MATH SOCIOL, V27, P123, DOI 10.1080/00222500305892
+   Snijders TAB, 2001, SOCIOL METHOD RES, V30, P3, DOI 10.1177/0049124101030001001
+   Snijders TAB, 2006, SOCIOL METHODOL, V36, P99, DOI 10.1111/j.1467-9531.2006.00176.x
+   Snijders TAB, 2013, SOC NETWORKS, V35, P265, DOI 10.1016/j.socnet.2012.05.005
+   Snijders TAB, 2010, SOC NETWORKS, V32, P44, DOI 10.1016/j.socnet.2009.02.004
+   Sorenson O, 2008, ADMIN SCI QUART, V53, P266, DOI 10.2189/asqu.53.2.266
+   Stadtfeld C., 2015, SOC FORCES, V94, P1, DOI DOI 10.1093/SF/S0V079
+   Stadtfeld C, 2017, SOCIOL SCI, V4, P318, DOI 10.15195/v4.a14
+   Steglich C, 2012, SOC NETWORKS, V34, P359, DOI 10.1016/j.socnet.2010.07.001
+   Steglich C, 2010, SOCIOL METHODOL, V40, P329, DOI 10.1111/j.1467-9531.2010.01225.x
+   Steinberg L, 2001, ANNU REV PSYCHOL, V52, P83, DOI 10.1146/annurev.psych.52.1.83
+   Stivala AD, 2016, SOC NETWORKS, V47, P167, DOI 10.1016/j.socnet.2015.11.003
+   Van De Bunt G. G., 1999, Computational & Mathematical Organization Theory, V5, P167, DOI 10.1023/A:1009683123448
+   VERBRUGGE LM, 1977, SOC FORCES, V56, P576, DOI 10.2307/2577741
+   Watts DJ, 1999, AM J SOCIOL, V105, P493, DOI 10.1086/210318
+NR 61
+TC 23
+Z9 25
+U1 0
+U2 15
+PU SOC SOCIOLOGICAL SCIENCE
+PI STANFORD
+PA 940 COTTRELL WAY, STANFORD, CA 94305 USA
+EI 2330-6696
+J9 SOCIOL SCI
+JI Sociol. Sci.
+PD JUL 5
+PY 2018
+VL 5
+BP 402
+EP 431
+DI 10.15195/v5.a18
+PG 30
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA GM3XZ
+UT WOS:000438047000001
+OA Green Submitted, gold, Green Published
+DA 2024-11-22
+ER

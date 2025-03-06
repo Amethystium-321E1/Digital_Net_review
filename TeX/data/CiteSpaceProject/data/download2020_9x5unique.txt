@@ -1,0 +1,627 @@
+
+PT J
+AU Thomas, LJ
+   Huang, P
+   Yin, F
+   Luo, XI
+   Almquist, ZW
+   Hipp, JR
+   Butts, CT
+AF Thomas, Loring J.
+   Huang, Peng
+   Yin, Fan
+   Luo, Xiaoshuang Iris
+   Almquist, Zack W.
+   Hipp, John R.
+   Butts, Carter T.
+TI Spatial heterogeneity can lead to substantial local variations in
+   COVID-19 timing and severity
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE COVID-19; spatial heterogeneity; diffusion; health disparities; social
+   networks
+ID NETWORK; SPREAD; MODELS
+AB Standard epidemiological models for COVID-19 employ variants of compartment (SIR or susceptible-infectious-recovered) models at local scales, implicitly assuming spatially uniform local mixing. Here, we examine the effect of employing more geographically detailed diffusion models based on known spatial features of interpersonal networks, most particularly the presence of a long-tailed but monotone decline in the probability of interaction with distance, on disease diffusion. Based on simulations of unrestricted COVID-19 diffusion in 19 US cities, we conclude that heterogeneity in population distribution can have large impacts on local pandemic timing and severity, even when aggregate behavior at larger scales mirrors a classic SIR-like pattern. Impacts observed include severe local outbreaks with long lag time relative to the aggregate infection curve, and the presence of numerous areas whose disease trajectories correlate poorly with those of neighboring areas. A simple catchment model for hospital demand illustrates potential implications for health care utilization, with substantial disparities in the timing and extremity of impacts even without distancing interventions. Likewise, analysis of social exposure to others who are morbid or deceased shows considerable variation in how the epidemic can appear to individuals on the ground, potentially affecting risk assessment and compliance with mitigation measures. These results demonstrate the potential for spatial network structure to generate highly nonuniform diffusion behavior even at the scale of cities, and suggest the importance of incorporating such structure when designing models to inform health care planning, predict community outcomes, or identify potential disparities.
+C1 [Thomas, Loring J.; Huang, Peng; Butts, Carter T.] Univ Calif Irvine, Dept Sociol, Irvine, CA 92697 USA.
+   [Yin, Fan; Butts, Carter T.] Univ Calif Irvine, Dept Stat, Irvine, CA 92697 USA.
+   [Luo, Xiaoshuang Iris; Hipp, John R.] Univ Calif Irvine, Dept Criminol Law & Soc, Irvine, CA 92697 USA.
+   [Almquist, Zack W.] Univ Washington, Ctr Studies Demog & Ecol, Ctr Stat & Social Sci, Dept Sociol,eSci, Seattle, WA 98195 USA.
+   [Butts, Carter T.] Univ Calif Irvine, Dept Comp Sci, Irvine, CA 92697 USA.
+   [Butts, Carter T.] Univ Calif Irvine, Dept Elect Engn & Comp Sci, Irvine, CA 92697 USA.
+C3 University of California System; University of California Irvine;
+   University of California System; University of California Irvine;
+   University of California System; University of California Irvine;
+   University of Washington; University of Washington Seattle; University
+   of California System; University of California Irvine; University of
+   California System; University of California Irvine
+RP Butts, CT (corresponding author), Univ Calif Irvine, Dept Sociol, Irvine, CA 92697 USA.; Butts, CT (corresponding author), Univ Calif Irvine, Dept Stat, Irvine, CA 92697 USA.; Butts, CT (corresponding author), Univ Calif Irvine, Dept Comp Sci, Irvine, CA 92697 USA.; Butts, CT (corresponding author), Univ Calif Irvine, Dept Elect Engn & Comp Sci, Irvine, CA 92697 USA.
+EM buttsc@uci.edu
+RI Huang, Peng/HGF-0630-2022; Luo, Xiaoshuang/X-7530-2019; Yin,
+   Fan/ABD-3088-2021
+OI Yin, Fan/0000-0002-8028-2217; Almquist, Zack/0000-0002-1967-123X; Hipp,
+   John/0000-0001-9006-2587; Huang, Peng/0000-0001-5614-786X; Reis,
+   AlessanRSS/0000-0001-8486-7469
+FU NSF [IIS-1939237, SES-1826589]; University of California, Irvine Council
+   on Research, Computing and Libraries grant
+FX This material is based on research supported by NSF Awards IIS-1939237
+   and SES-1826589 to C.T.B., and by a University of California, Irvine
+   Council on Research, Computing and Libraries grant.
+CR Almquist ZW, 2020, ENVIRON PLAN B-URBAN, V47, P523, DOI 10.1177/2399808318785375
+   Almquist ZW, 2015, GEOGR ANAL, V47, P50, DOI 10.1111/gean.12045
+   Almquist ZW, 2012, DEMOGR RES, V26, P593, DOI 10.4054/DemRes.2012.26.22
+   [Anonymous], 2004, Network Epidemiology
+   [Anonymous], NY TIMES
+   Block P, 2020, NAT HUM BEHAV, V4, P588, DOI 10.1038/s41562-020-0898-6
+   Brockmann D, 2013, SCIENCE, V342, P1337, DOI 10.1126/science.1245200
+   Butts C. T., 2011, SAGE HDB GIS SOC RES, P222, DOI DOI 10.4135/9781446201046.N12
+   Butts C.T., 2008, J STAT SOFTW, V24, P1, DOI DOI 10.18637/JSS.V024.I02
+   Butts CT, 2012, SOC NETWORKS, V34, P82, DOI 10.1016/j.socnet.2011.08.003
+   Department of Homeland Security, HOM INFR FDN LEV DAT
+   Dowd JB, 2020, P NATL ACAD SCI USA, V117, P9696, DOI 10.1073/pnas.2004911117
+   Geng YJ, 2020, CARDIOVASC PATHOL, V47, DOI 10.1016/j.carpath.2020.107228
+   Handcock Mark S, 2008, J Stat Softw, V24, P1548
+   Hipp JR, 2013, SOC NETWORKS, V35, P614, DOI 10.1016/j.socnet.2013.07.002
+   Jackson ML, 2020, EFFECTS WEATHER RELA, DOI [DOI 10.1101/2020.03.02.20027599, 10.1101/2020.03.02.20027599]
+   Jiang F, 2020, J GEN INTERN MED, V35, P1545, DOI 10.1007/s11606-020-05762-w
+   Li L, 2019, APPL MATH COMPUT, V347, P566, DOI 10.1016/j.amc.2018.11.042
+   Massey D.S., 1993, Social Stratification, Class, Race, and Gender in Sociological Perspective. In Social Stratification, Class, Race, and Gender in Sociological Perspective, DOI DOI 10.4324/9780429306419-102/AMERICAN-APARTHEID-SEGREGATION-MAKING
+   Massey DS, 2018, ETHNIC RACIAL STUD, V41, P1594, DOI 10.1080/01419870.2017.1312010
+   Onder G, 2020, JAMA-J AM MED ASSOC, V323, P1775, DOI 10.1001/jama.2020.4683
+   Pujari BS., 2020, MULTICITY MODELING E, DOI [10.1101/2020.03.13.20035386., DOI 10.1101/2020.03.13.20035386, 10.1101/2020.03.13.20035386]
+   R Core Team, 2020, R LANG ENV STAT COMP
+   Riley S, 2007, SCIENCE, V316, P1298, DOI 10.1126/science.1134695
+   Sampson RJ, 2008, DEMOGRAPHY, V45, P1, DOI 10.1353/dem.2008.0012
+   Smith EJ, 2015, J GERONTOL B-PSYCHOL, V70, P91, DOI 10.1093/geronb/gbu142
+   Spiro Emma S., 2016, Socius, V2, P1, DOI [DOI 10.1177/2378023116634340, 10.1177/2378023116634340]
+   Stokes EK, 2020, MMWR-MORBID MORTAL W, V69, P759, DOI 10.15585/mmwr.mm6924e2
+   Thomas L. J., 2020, HARVARD DATAVERSE, DOI [10.7910/DVN/B9XKSR, DOI 10.7910/DVN/B9XKSR]
+   Verhagen M. D., 2020, OSF, DOI [DOI 10.31219/OSF.IO/G8S96, 10.31219/osf.io/g8s96]
+   Viboud C, 2006, SCIENCE, V312, P447, DOI 10.1126/science.1125237
+   Wang Q, 2018, P NATL ACAD SCI USA, V115, P7735, DOI 10.1073/pnas.1802537115
+   World Health Organization, 2020, 205 WHO
+   World Health Organization (WHO), 2020, Coronavirus Disease 2019 (COVID-19) Situation Report-43
+   Zhang Y, 2020, INT CONF BIG DATA, P1, DOI 10.1109/BigComp48618.2020.0-109
+   Zipf GeorgeK, 2016, HUMAN BEHAV PRINCIPL
+NR 36
+TC 74
+Z9 80
+U1 2
+U2 22
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD SEP 29
+PY 2020
+VL 117
+IS 39
+BP 24180
+EP 24187
+DI 10.1073/pnas.2011656117
+PG 8
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA NY8WI
+UT WOS:000576664200030
+PM 32913057
+OA Green Published, hybrid, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Chen, TG
+   Shi, JW
+   Yang, JJ
+   Cong, GD
+   Li, GF
+AF Chen, Tinggui
+   Shi, Jiawen
+   Yang, Jianjun
+   Cong, Guodong
+   Li, Gongfa
+TI Modeling Public Opinion Polarization in Group Behavior by Integrating
+   SIRS-Based Information Diffusion Process
+SO COMPLEXITY
+LA English
+DT Article
+ID EPIDEMIC MODEL
+AB Currently, China is in the period of social transformation. Such transformation continuously results in high group polarization behaviors, which attracts many attentions. In order to explore the evolutionary mechanism and formation process of group polarization behavior, this paper proposes a group polarization model which is integrated into the Susceptible-Infected-Recovered-Susceptible (SIRS) epidemic model. In this paper, firstly, the SIRS epidemic model and the factors of relationship strength are introduced based on the J-A model (proposed by Jager and Amblard) to enhance the information transmission and interaction among individuals. In addition, the BA network (proposed by Barabasi and Albert) model is used as the agent adjacency model due to its closeness to the real social network structure. After that, the Monte Carlo method is applied to conduct experimental simulation. Subsequently, this paper analyzes the simulation results in threefold: (1) comparison of polarization processes with and without integration of the SIRS epidemic model; (2) adjusting the immune recovery parameter gamma and the relationship strengthzto explore the role of these two parameters in the polarization process; and (3) comparing the polarization effects of different network structures. Through the experiments, we find that BA network is more polarized than small-world network in the same scale. Finally, corresponding measures are proposed to prevent and mitigate the occurrence of group polarization.
+C1 [Chen, Tinggui] Zhejiang Gongshang Univ, Sch Stat & Math, Hangzhou, Peoples R China.
+   [Shi, Jiawen] Hangzhou Vocat & Tech Coll, Business & Tourism Inst, Hangzhou, Peoples R China.
+   [Yang, Jianjun] Univ North Georgia, Dept Comp Sci & Informat Syst, Oakwood, GA USA.
+   [Cong, Guodong] Zhejiang Gongshang Univ, Sch Tourism & Urban Rural Planning, Hangzhou, Peoples R China.
+   [Li, Gongfa] Wuhan Univ Sci & Technol, Hubei Key Lab Mech Transmiss & Mfg Engn, Wuhan, Peoples R China.
+C3 Zhejiang Gongshang University; Hangzhou Vocational & Technical College;
+   University of North Georgia; Zhejiang Gongshang University; Wuhan
+   University of Science & Technology
+RP Chen, TG (corresponding author), Zhejiang Gongshang Univ, Sch Stat & Math, Hangzhou, Peoples R China.
+EM ctgsimon@mail.zjgsu.edu.cn
+RI Yang, Jianjun/ABC-6752-2021
+OI li, gongfa/0000-0002-2695-2742; Chen, Tinggui/0000-0001-6061-2517
+FU Major Project of Humanities and Social Sciences in University of
+   Zhejiang Province, China [2018QN006]; Hubei Key Laboratory of Mechanical
+   Transmission and Manufacturing Engineering [2018A02]; Contemporary
+   Business and Trade Research Center; Center for Collaborative Innovation
+   Studies of Modern Business of Zhejiang Gongshang University of China
+   [14SMXY05YB]
+FX This research was supported by the Major Project of Humanities and
+   Social Sciences in University of Zhejiang Province, China (Grant no.
+   2018QN006), Hubei Key Laboratory of Mechanical Transmission and
+   Manufacturing Engineering (2018A02) as well as Contemporary Business and
+   Trade Research Center, and Center for Collaborative Innovation Studies
+   of Modern Business of Zhejiang Gongshang University of China (Grant no.
+   14SMXY05YB).
+CR [Anonymous], 2015, FUNDAMENTALS EVOLUTI
+   Baumann F., 2019, MODELING ECHOCHAMBER
+   BOCCARA N, 1992, J PHYS A-MATH GEN, V25, P2447, DOI 10.1088/0305-4470/25/9/018
+   Bramson A, 2017, PHILOS SCI, V84, P115, DOI 10.1086/688938
+   Bramson A, 2016, J MATH SOCIOL, V40, P80, DOI 10.1080/0022250X.2016.1147443
+   Chen TG, 2020, HEALTHCARE-BASEL, V8, DOI 10.3390/healthcare8030200
+   Chen TG, 2020, HEALTHCARE-BASEL, V8, DOI 10.3390/healthcare8020160
+   Chen TG, 2020, COMPLEXITY, V2020, DOI 10.1155/2020/7501891
+   Chen TG, 2020, INT J ENV RES PUB HE, V17, DOI 10.3390/ijerph17030946
+   Chen TG, 2019, MATHEMATICS-BASEL, V7, DOI 10.3390/math7100917
+   Chen TG, 2019, INT J ENV RES PUB HE, V16, DOI 10.3390/ijerph16234677
+   Chen TG, 2019, HUM-CENT COMPUT INFO, V9, DOI 10.1186/s13673-019-0164-y
+   Conover M. D., 2011, Proceedings of the 2011 IEEE Third International Conference on Privacy, Security, Risk and Trust and IEEE Third International Conference on Social Computing (PASSAT/SocialCom 2011), P192, DOI 10.1109/PASSAT/SocialCom.2011.34
+   Dai F, 2008, AD HOC SENS WIREL NE, V5, P1
+   Deffuant G, 2000, APPLICATIONS OF SIMULATION TO SOCIAL SCIENCES, P87, DOI 10.1142/S0219525900000078
+   Flache A, 2017, JASSS-J ARTIF SOC S, V20, DOI 10.18564/jasss.3521
+   Huo LA, 2016, PHYSICA A, V461, P73, DOI 10.1016/j.physa.2016.05.028
+   Jager W., 2004, Computational & Mathematical Organization Theory, V10, P295, DOI 10.1007/s10588-005-6282-2
+   Kabir KMA, 2020, CHAOS SOLITON FRACT, V132, DOI 10.1016/j.chaos.2019.109548
+   Kabir KMA, 2019, COMMUN NONLINEAR SCI, V76, P92, DOI 10.1016/j.cnsns.2019.04.007
+   Kabir KMA, 2019, COMMUN NONLINEAR SCI, V72, P565, DOI 10.1016/j.cnsns.2019.01.020
+   Kabir KMA, 2019, CHAOS SOLITON FRACT, V119, P118, DOI 10.1016/j.chaos.2018.12.017
+   Kabir KMA, 2019, CHAOS SOLITON FRACT, V119, P180, DOI 10.1016/j.chaos.2018.12.023
+   Krueger T, 2017, ENTROPY-SWITZ, V19, DOI 10.3390/e19070371
+   Kyrychko YN, 2005, NONLINEAR ANAL-REAL, V6, P495, DOI 10.1016/j.nonrwa.2004.10.001
+   Lan Y. X., 2017, J INTELLIGENCE, V36, P134
+   Li J, 2017, JASSS-J ARTIF SOC S, V20, DOI 10.18564/jasss.3385
+   Li T, 2017, APPL MATH LETT, V70, P52, DOI 10.1016/j.aml.2017.03.005
+   Seagren CW, 2015, SOC SCI COMPUT REV, V33, P198, DOI 10.1177/0894439314534810
+   Siedlecki P, 2016, JASSS-J ARTIF SOC S, V19, DOI 10.18564/jasss.3203
+   Sîrbu A, 2013, J STAT PHYS, V151, P218, DOI 10.1007/s10955-013-0724-x
+   Stella M, 2018, P NATL ACAD SCI USA, V115, P12435, DOI 10.1073/pnas.1803470115
+   Wang Shixiong, 2014, Journal of the China Society for Scientific and Technical Information, V33, P614, DOI 10.3772/j.issn.1000-0135.2014.06.006
+   WEISBUCH G, 2010, COMPLEXITY, V7, P55, DOI DOI 10.1002/cplx.10031
+   Xu CH, 2018, INFORM PROCESS MANAG, V54, P463, DOI 10.1016/j.ipm.2018.02.005
+   Yang Y, 2015, J PERINATOL, V35, P16, DOI 10.1038/jp.2014.136
+   Zhang Y. F., 2015, EMERGENT COMPUTATION
+   Zhang YZ, 2020, CONCURR COMP-PRACT E, V32, DOI 10.1002/cpe.5707
+   Zhang YH, 2018, PHYSICA A, V503, P862, DOI 10.1016/j.physa.2018.02.087
+NR 39
+TC 33
+Z9 33
+U1 8
+U2 104
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1076-2787
+EI 1099-0526
+J9 COMPLEXITY
+JI Complexity
+PD SEP 26
+PY 2020
+VL 2020
+AR 4791527
+DI 10.1155/2020/4791527
+PG 20
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Science & Technology - Other Topics
+GA OB2BR
+UT WOS:000578279100003
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Hartley, K
+   Khuong, VM
+AF Hartley, Kris
+   Khuong, Vu Minh
+TI Fighting fake news in the COVID-19 era: policy insights from an
+   equilibrium model
+SO POLICY SCIENCES
+LA English
+DT Article
+DE Fake news; Policy sciences; Equilibrium model; COVID-19
+ID SOCIAL MEDIA; POST-TRUTH; PERCEPTIONS; IDEOLOGY; IDENTITY;
+   MISINFORMATION; COMMUNICATION; CONSTRUCTION; CHALLENGES; POLITICS
+AB The COVID-19 crisis has revealed structural failures in governance and coordination on a global scale. With related policy interventions dependent on verifiable evidence, pandemics require governments to not only consider the input of experts but also ensure that science is translated for public understanding. However, misinformation and fake news, including content shared through social media, compromise the efficacy of evidence-based policy interventions and undermine the credibility of scientific expertise with potentially longer-term consequences. We introduce a formal mathematical model to understand factors influencing the behavior of social media users when encountering fake news. The model illustrates that direct efforts by social media platforms and governments, along with informal pressure from social networks, can reduce the likelihood that users who encounter fake news embrace and further circulate it. This study has implications at a practical level for crisis response in politically fractious settings and at a theoretical level for research about post-truth and the construction of fact.
+C1 [Hartley, Kris] Educ Univ Hong Kong, Dept Asian & Policy Studies, Tai Po, Hong Kong, Peoples R China.
+   [Khuong, Vu Minh] Natl Univ Singapore, Lee Kuan Yew Sch Publ Policy, Singapore, Singapore.
+C3 Education University of Hong Kong (EdUHK); National University of
+   Singapore
+RP Hartley, K (corresponding author), Educ Univ Hong Kong, Dept Asian & Policy Studies, Tai Po, Hong Kong, Peoples R China.
+EM hartley@eduhk.hk
+RI Hartley, Kris/GQP-0052-2022
+OI VU, Khuong/0000-0001-9807-7003; Hartley, Kris/0000-0001-5349-0427
+CR Agustin F, 2014, CHANGING ROLE LAW AG, P287
+   Allcott H, 2017, J ECON PERSPECT, V31, P211, DOI 10.1257/jep.31.2.211
+   Armus T, 2020, WASHINGTON POST
+   Barberá P, 2015, PSYCHOL SCI, V26, P1531, DOI 10.1177/0956797615594620
+   Baron S., 2017, FIGHTING FAKE NEWS
+   Barwise Patrick., 2018, DIGITAL DOMINANCE PO
+   Batson C.D., 2003, HDB SOCIAL PSYCHOL, VVol. 5, P463
+   BECK PJ, 1989, J ACCOUNT PUBLIC POL, V8, P1, DOI 10.1016/0278-4254(89)90009-4
+   Berling TV, 2017, GEOFORUM, V84, P332, DOI 10.1016/j.geoforum.2017.05.008
+   Boberg S., 2020, PANDEMIC POPULISM FA
+   Borgesius FJZ, 2016, INTERNET POLICY REV, V5, DOI 10.14763/2016.1.401
+   Brandtzaeg PB, 2016, JOURNAL PRACT, V10, P323, DOI 10.1080/17512786.2015.1020331
+   Brewster Jack., 2020, Forbes
+   Caprara GianVittorio., 2013, The Oxford Handbook of Political Psychology, V2nd, P23
+   Castellacci F, 2018, RES POLICY, V47, P308, DOI 10.1016/j.respol.2017.11.007
+   Cinelli Matteo, 2020, Sci Rep, V10, P16598, DOI 10.1038/s41598-020-73510-5
+   Cohen J. N., 2018, J MEDIA LITERACY ED, V10, P139, DOI DOI 10.23860/JMLE-2018-10-2-8
+   Conger K., 2020, The New York Times
+   Contractor NS, 1996, HUM COMMUN RES, V22, P451, DOI 10.1111/j.1468-2958.1996.tb00375.x
+   Devine CJ, 2015, POLIT BEHAV, V37, P509, DOI 10.1007/s11109-014-9280-6
+   DiFranzo D., 2017, Crossroads, V23, P32, DOI DOI 10.1145/3055153
+   Duckitt J, 2016, POLIT PSYCHOL, V37, P109, DOI 10.1111/pops.12222
+   Edis T, 2020, DISPUTATIO-SPAIN, V9
+   Eisenhauer J G., 2006, Eastern Economic Journal, V32, P437
+   Eisenhauer J.G., 2008, The Journal of Socio-Economics, V37, P45, DOI DOI 10.1016/J.SOCEC.2007.01.030
+   Emanuelson E, 2018, ADMIN LAW REV, V70, P209
+   Fang AJ, 2019, SAGE OPEN, V9, DOI 10.1177/2158244018791653
+   Fischer F., 2009, DEMOCRACY EXPERTISE, DOI [10.1093/nar/26.2.512, DOI 10.1093/ANNONC/MDZ011]
+   Fischer F, 2020, CRIT POLICY STUD, V14, P124, DOI 10.1080/19460171.2020.1734846
+   Fischer F, 2019, CRIT POLICY STUD, V13, P133, DOI 10.1080/19460171.2019.1602067
+   Flaxman S, 2016, PUBLIC OPIN QUART, V80, P298, DOI 10.1093/poq/nfw006
+   Flew T, 2019, J DIGIT MEDIA POLICY, V10, P33, DOI 10.1386/jdmp.10.1.33_1
+   Frenkel S., 2021, NEW YORK TIMES
+   Fulk J., 1990, ORG COMMUNICATION TE
+   Fung ICH, 2016, PUBLIC HEALTH REP, V131, P461, DOI 10.1177/003335491613100312
+   Gaughan AnthonyJ., 2017, Duke J. Const. L. Pub. Pol'y, V12, P57
+   Guess A, 2019, SCI ADV, V5, DOI 10.1126/sciadv.aau4586
+   Guo Y, 2018, ANN ALLERTON CONF, P341, DOI 10.1109/ALLERTON.2018.8635641
+   Hartley K, 2019, J ENVIRON MANAGE, V250, DOI 10.1016/j.jenvman.2019.109505
+   Hay C, 2004, PUBLIC ADMIN, V82, P39, DOI 10.1111/j.0033-3298.2004.00382.x
+   He LN, 2019, SAGE OPEN, V9, DOI 10.1177/2158244019876273
+   Hemphill TA, 2019, J RESPONSIBLE INNOV, V6, P240, DOI 10.1080/23299460.2019.1602817
+   Hoffmann AL, 2018, NEW MEDIA SOC, V20, P199, DOI 10.1177/1461444816660784
+   Hogan M, 2020, THE TELEGRAPH UK
+   Hu Z., 2020, Infodemiological study on COVID-19 epidemic and COVID-19 infodemic
+   Hua JL, 2020, INT J ENV RES PUB HE, V17, DOI 10.3390/ijerph17072309
+   Huber RA, 2020, ENVIRON POLIT, V29, P959, DOI 10.1080/09644016.2019.1708186
+   Jang SM, 2018, COMPUT HUM BEHAV, V80, P295, DOI 10.1016/j.chb.2017.11.034
+   Jones BryanD., 2005, The Supply of Information and the Size of Government in the United States
+   KAHNEMAN D, 1994, J INST THEOR ECON, V150, P18
+   Kim HM, 1998, EUR J POLIT RES, V33, P73, DOI 10.1111/1475-6765.00376
+   Kim J, 2018, WSDM'18: PROCEEDINGS OF THE ELEVENTH ACM INTERNATIONAL CONFERENCE ON WEB SEARCH AND DATA MINING, P324, DOI 10.1145/3159652.3159734
+   Kim Y, 2016, CYBERPSYCH BEH SOC N, V19, P264, DOI 10.1089/cyber.2015.0408
+   KINDER DR, 1978, J PERS SOC PSYCHOL, V36, P859, DOI 10.1037/0022-3514.36.8.859
+   Kouzy R, 2020, CUREUS J MED SCIENCE, V12, DOI 10.7759/cureus.7255
+   Kreiss D, 2019, POLIT COMMUN, V36, P499, DOI 10.1080/10584609.2019.1619639
+   Kumar KPK, 2014, HUM-CENT COMPUT INFO, V4, DOI 10.1186/s13673-014-0014-x
+   Lazer DMJ, 2018, SCIENCE, V359, P1094, DOI 10.1126/science.aao2998
+   Lee NM, 2018, COMMUN EDUC, V67, P460, DOI 10.1080/03634523.2018.1503313
+   Lejano RP, 2017, POLICY SCI, V50, P195, DOI 10.1007/s11077-016-9274-9
+   Lewandowsky S, 2017, J APPL RES MEM COGN, V6, P353, DOI 10.1016/j.jarmac.2017.07.008
+   Lewandowsky S, 2015, GLOBAL ENVIRON CHANG, V33, P1, DOI 10.1016/j.gloenvcha.2015.02.013
+   Lin JYF, 2020, J ECON POLICY REFORM, V23, P138, DOI 10.1080/17487870.2018.1551137
+   MCGUIRE WJ, 1964, ADV EXP SOC PSYCHOL, V1, P191, DOI 10.1016/S0065-2601(08)60052-0
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Medford RJ, 2020, OPEN FORUM INFECT DI, V7, DOI 10.1093/ofid/ofaa258
+   MINAR DW, 1961, MIDWEST J POLIT SCI, V5, P317, DOI 10.2307/2108991
+   Mohd Hanafiah K., 2020, Public Knowledge, Perception and Communication Behavior Surrounding COVID-19 in Malaysia, DOI 10.31124/advance.12102816.v1
+   Mullainathan S, 2005, AM ECON REV, V95, P1031, DOI 10.1257/0002828054825619
+   OSTROM E, 1991, AM POLIT SCI REV, V85, P237, DOI 10.2307/1962889
+   Ostrom E., 1990, GOVERNING COMMONS EV, DOI DOI 10.1017/CBO9780511807763
+   Ouellet M, 2019, DIGITALIZATION SOC S, P81
+   Owens B, 2020, LANCET RHEUMATOL, V2, pE257, DOI 10.1016/S2665-9913(20)30089-8
+   Papanastasiou Y, 2020, MANAGE SCI, V66, P1826, DOI 10.1287/mnsc.2019.3295
+   Pennycook G, 2020, PSYCHOL SCI, V31, P770, DOI 10.1177/0956797620939054
+   Pennycook G, 2019, P NATL ACAD SCI USA, V116, P2521, DOI 10.1073/pnas.1806781116
+   Perl A, 2018, POLICY SCI, V51, P581, DOI 10.1007/s11077-018-9334-4
+   Polletta F, 2019, CULT SOCIOL-SER, P55, DOI 10.1007/978-3-319-95945-0_4
+   Porumbescu GA, 2018, POLICY DES PRACT, V1, P233, DOI 10.1080/25741292.2018.1507239
+   Pulido CM, 2020, INT SOCIOL, V35, P377, DOI 10.1177/0268580920914755
+   Rodríguez CP, 2020, INT MULTIDISCIP J SO, V9, P107, DOI 10.17583/rimcis.2020.5386
+   Rini R, 2017, KENNEDY INST ETHIC J, V27, P43, DOI 10.1353/ken.2017.0025
+   Schifferes S, 2014, DIGIT JOURNAL, V2, P406, DOI 10.1080/21670811.2014.892747
+   Seli P., 2020, ANAL THINKING PREDIC
+   Shear MD, 2020, NEW YORK TIMES
+   Shu K., 2017, ACM SIGKDD EXPLOR NE, V19, P22, DOI [DOI 10.1145/3137597.3137600, 10.1145/3137597.3137600]
+   Singh L., 2020, ARXIV200313907
+   Smyth S.M., 2019, International Journal of Cyber Criminology, V13, P578, DOI [10.5281/zenodo.3718955, DOI 10.5281/ZENODO.3718955]
+   Sommariva S, 2018, AM J HEALTH EDUC, V49, P246, DOI 10.1080/19325037.2018.1473178
+   Spinney L, 2019, SCIENCE, V363, P213, DOI 10.1126/science.363.6424.213
+   Spohr Dominic, 2017, Business Information Review, V34, P150, DOI DOI 10.1177/0266382117722446
+   Srinivasan T.N., 1973, J PUBLIC ECON, V2, P339, DOI 10.1016/0047-2727(73)90024-8
+   Szabados K, 2019, POPULISM-US, V2, P207, DOI 10.1163/25888072-02021028
+   Tandoc EC, 2020, JOURNALISM, V21, P381, DOI 10.1177/1464884919868325
+   Tandoc EC, 2018, DIGIT JOURNAL, V6, P137, DOI 10.1080/21670811.2017.1360143
+   Tasnim S., 2020, Impact of rumors or misinformation on coronavirus disease (COVID-19) in social media
+   Taylor N., 2003, S CHINA MORNING POST
+   Thelwall M., 2020, arXiv preprint arXiv:2004.02793
+   Torres RR, 2018, PROCEEDINGS OF THE 51ST ANNUAL HAWAII INTERNATIONAL CONFERENCE ON SYSTEM SCIENCES (HICSS), P3976
+   Tufekci Z., 2015, NEW PERSPECTIVES Q, V32, P9
+   Van Bavel JJ, 2020, NAT HUM BEHAV, V4, P460, DOI 10.1038/s41562-020-0884-z
+   Van Bavel JJ, 2018, TRENDS COGN SCI, V22, P213, DOI 10.1016/j.tics.2018.01.004
+   van der Linden S, 2017, GLOB CHALL, V1, DOI 10.1002/gch2.201600008
+   Vegetti F, 2019, POLIT BEHAV, V41, P257, DOI 10.1007/s11109-018-9451-y
+   Waszak PM, 2018, HEALTH POLICY TECHN, V7, P115, DOI 10.1016/j.hlpt.2018.03.002
+   Weiner Tim., 2020, The Folly and the Glory: America, Russia, and Political Warfare 1945-2020
+   Wilson R, 2019, PROCEEDINGS OF THE 18TH EUROPEAN CONFERENCE ON CYBER WARFARE AND SECURITY (ECCWS 2019), P587
+   Wong JEL, 2020, JAMA-J AM MED ASSOC, V323, P1243, DOI 10.1001/jama.2020.2467
+   YANIV G, 1994, PUBLIC FINANC, V49, P107
+   Cuan-Baltazar JY, 2020, JMIR PUBLIC HLTH SUR, V6, P176, DOI 10.2196/18444
+   Zarocostas J, 2020, LANCET, V395, P676, DOI 10.1016/S0140-6736(20)30461-X
+   Zubiaga A, 2014, SOC NETW ANAL MIN, V4, DOI 10.1007/s13278-014-0163-y
+NR 112
+TC 80
+Z9 87
+U1 6
+U2 119
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0032-2687
+EI 1573-0891
+J9 POLICY SCI
+JI Policy Sci.
+PD DEC
+PY 2020
+VL 53
+IS 4
+BP 735
+EP 758
+DI 10.1007/s11077-020-09405-z
+EA SEP 2020
+PG 24
+WC Public Administration; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Public Administration; Social Sciences - Other Topics
+GA OB2MP
+UT WOS:000567726900001
+PM 32921821
+OA hybrid, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Deng, XL
+   Ding, H
+   Chen, Y
+   Chen, C
+   Lv, TJ
+AF Deng, Xiaolong
+   Ding, Hao
+   Chen, Yong
+   Chen, Cai
+   Lv, Tiejun
+TI Novel Node Centrality-Based Efficient Empirical Robustness Assessment
+   for Directed Network
+SO COMPLEXITY
+LA English
+DT Article
+ID COMPLEX NETWORKS; IDENTIFICATION; VULNERABILITY; RESILIENCE
+AB In recent years, while extensive researches on various networks properties have been proposed and accomplished, little has been proposed and done on network robustness and node vulnerability assessment under cascades in directed large-scale online community networks. In essential, an online directed social network is a group-centered and information spread-dominated online platform which is very different from the traditional undirected social network. Some further research studies have indicated that the online social network has high robustness to random removals of nodes but fails to the intentional attacks, particularly to those attacks based on node betweenness or node directed coefficient. To explore on the robustness of directed social network, in this article, we have proposed two novel node centralities of ITG (information transfer gain-based probability clustering coefficient) and IMp(v) (directed path-based node importance centrality). These two new centrality models are designed to capture this cascading effect in directed online social networks. Furthermore, we also propose a new and highly efficient computing method based on iterations for IMp(v). Then, with the abundant experiments on the synthetic signed network and real-life networks derived from directed online social media and directed human mobile phone calling network, it has been proved that our ITG and IMp (v) based on directed social network robustness and node vulnerability assessment method is more accurate, efficient, and faster than several traditional centrality methods such as degree and betweenness. And we also have proposed the solid reasoning and proof process of iteration times k in computation of IMp (v). To the best knowledge of us, our research has drawn some new light on the leading edge of robustness on the directed social network.
+C1 [Deng, Xiaolong; Ding, Hao; Lv, Tiejun] Beijing Univ Post & Telecommun, Key Lab Trustworthy Distributed Comp & Serv, Educ Minist, Beijing 100876, Peoples R China.
+   [Chen, Yong] North Automat Control Technol Inst, Taiyuan, Peoples R China.
+   [Chen, Cai] China Acad Informat & Commun Technol CAICT, Beijing 100037, Peoples R China.
+RP Deng, XL (corresponding author), Beijing Univ Post & Telecommun, Key Lab Trustworthy Distributed Comp & Serv, Educ Minist, Beijing 100876, Peoples R China.
+EM shannondeng@bupt.edu.cn; dhsd96@126.com; chenyong1997@163.com;
+   chencai@caict.ac.cn; lvtiejun@bupt.edu.cn
+OI deng, xiaolong/0000-0002-8847-7174
+FU National Key Research and Development Program of China [2017YFC0820603,
+   31511040103]
+FX This study was supported by the National Key Research and Development
+   Program of China (Grant no. 2017YFC0820603) and Advance Research Project
+   of Shared Information System in 2019 (Grant no. 31511040103).
+CR Albert R, 2000, NATURE, V406, P378, DOI 10.1038/35019019
+   [Anonymous], 1999, WWW 1999
+   [Anonymous], 2013, Proceedings of the first ACM conference on Online social networks, DOI DOI 10.1145/2512938.2512946
+   Chakrabarti S., 2002, MINING WEB ANAL
+   Cohen R, 2000, PHYS REV LETT, V85, P4626, DOI 10.1103/PhysRevLett.85.4626
+   Cohen R., 2010, COMPLEX NETWORKS STR
+   Costa LD, 2007, ADV PHYS, V56, P167, DOI 10.1080/00018730601170527
+   Deng XL, 2017, IEEE ACCESS, V5, P17106, DOI 10.1109/ACCESS.2017.2740962
+   Deng XL, 2016, NEUROCOMPUTING, V210, P3, DOI 10.1016/j.neucom.2015.10.142
+   Fortuna S, 2009, POWER OF DISTURBANCE: ELSA MORANTES ARACOELI, P1
+   Gao JX, 2016, NATURE, V530, P307, DOI 10.1038/nature16948
+   Gu N, 2013, EURASIP J WIREL COMM, DOI 10.1186/1687-1499-2013-234
+   Holme P, 2002, PHYS REV E, V65, DOI 10.1103/PhysRevE.65.056109
+   Hopcroft J., 2013, COMPUTER SCI THEORY
+   Ji M, 2010, LECT NOTES ARTIF INT, V6321, P570
+   Kiss C, 2008, DECIS SUPPORT SYST, V46, P233, DOI 10.1016/j.dss.2008.06.007
+   Kitsak M, 2010, NAT PHYS, V6, P888, DOI [10.1038/NPHYS1746, 10.1038/nphys1746]
+   Kleinberg JM, 1999, J ACM, V46, P604, DOI 10.1145/324133.324140
+   Lancichinetti A, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0018961
+   Liu Fanzhen, 2020, P 20 9 INT JOINT C A, P4981, DOI DOI 10.24963/IJCAI.2020/693
+   Malliaros FD, 2015, EPL-EUROPHYS LETT, V110, DOI 10.1209/0295-5075/110/68006
+   Meusel Robert, 2015, The Journal of Web Science, V1, P33, DOI DOI 10.1561/106.00000003
+   Myers SA, 2012, IEEE DATA MINING, P539, DOI 10.1109/ICDM.2012.159
+   Nanavati AA, 2008, IEEE T KNOWL DATA EN, V20, P703, DOI 10.1109/TKDE.2007.190733
+   Nepusz T, 2012, NAT PHYS, V8, P568, DOI [10.1038/nphys2327, 10.1038/NPHYS2327]
+   Newman MEJ, 2006, PHYS REV E, V74, DOI 10.1103/PhysRevE.74.036104
+   Newman MEJ, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.138701
+   Pearl J., 1988, PROBABILISTIC REASON
+   Rosvall M, 2008, P NATL ACAD SCI USA, V105, P1118, DOI 10.1073/pnas.0706851105
+   Scheffer M, 2012, SCIENCE, V338, P344, DOI 10.1126/science.1225244
+   Scott P Carrington J., 2005, Models and methods in social network analysis
+   Subramanian M., 2010, Network Management: Principles and Practice
+   Wu J, 2015, IEEE T CYBERNETICS, V45, P430, DOI 10.1109/TCYB.2014.2327111
+   Wu J, 2014, IEEE T KNOWL DATA EN, V26, P2382, DOI 10.1109/TKDE.2013.2297923
+   Xu H, 2005, IEEE INT SYMP CIRC S, P3395
+   Yang J, 2015, KNOWL INF SYST, V42, P181, DOI 10.1007/s10115-013-0693-z
+   [周涛 Zhou Tao], 2005, [物理, Physics], V34, P31
+NR 37
+TC 2
+Z9 2
+U1 0
+U2 35
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1076-2787
+EI 1099-0526
+J9 COMPLEXITY
+JI Complexity
+PD NOV 21
+PY 2020
+VL 2020
+AR 8715619
+DI 10.1155/2020/8715619
+PG 14
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Mathematics; Science & Technology - Other Topics
+GA PA9KV
+UT WOS:000595947500010
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Kim, ACH
+   Newman, JI
+   Kwon, W
+AF Kim, Amy Chan Hyung
+   Newman, Joshua I.
+   Kwon, Woong
+TI Developing community structure on the sidelines: A social network
+   analysis of youth sport league parents
+SO SOCIAL SCIENCE JOURNAL
+LA English
+DT Article
+DE Social network; Homophily effect; Social network analysis; Youth sports;
+   Density
+ID INTERRACIAL FRIENDSHIP; INTEGRATION; RECREATION; FAMILY; SOCIALIZATION;
+   DETERMINANTS; CHALLENGES; PATTERNS; COHESION; DESIGN
+AB The extant literature suggests that the formation of social networks within local communities may be linked to both positive (e.g., health, social well-being) and negative (e.g., social segregation or stratification) outcomes. In this study, we examine the social networks formed at the structural level by parents of community-based youth sport programs. Employing Quadratic Assignment Procedurest-test and Quadratic Assignment Procedures correlation, we empirically tested changes in recalled network density and homophily effects of parents (n= 391) at a community-level youth sport league located in the Southeastern USA. Our findings suggest that parents' social networks significantly increased in density from pre- to post-season. However, while we found no significant homophily effects based on socioeconomic characteristics, we did observe significant racial homophily effects for participants in basketball and baseball/softball.
+C1 [Kim, Amy Chan Hyung; Newman, Joshua I.] Florida State Univ, 1026 Tully Gym,139 Chieftan Way, Tallahassee, FL 32306 USA.
+   [Kwon, Woong] Hanyang Univ, 222 Wangsimni Ro, Seoul, South Korea.
+C3 State University System of Florida; Florida State University; Hanyang
+   University
+RP Kim, ACH (corresponding author), Florida State Univ, 1026 Tully Gym,139 Chieftan Way, Tallahassee, FL 32306 USA.
+EM kamy@fsu.edu
+OI Newman, Joshua/0000-0001-9033-2081; Kim, Amy Chan
+   Hyung/0000-0002-0443-6851
+CR Anderson-Butcher D, 2014, J SPORT MANAGE, V28, P236, DOI 10.1123/jsm.2012-0237
+   [Anonymous], 2008, Sport and social capital
+   [Anonymous], 2010, Sport Policy and Development
+   Barnes-Mauthe M, 2013, ECOL SOC, V18, DOI 10.5751/ES-05295-180123
+   Berkman L.F., 2014, Social epidemiology, P1
+   Berry B, 2006, DEMOGRAPHY, V43, P491, DOI 10.1353/dem.2006.0020
+   Blau P.M., 1977, INEQUALITY HETEROGEN
+   Bond MA, 2006, AM J COMMUN PSYCHOL, V37, P157, DOI 10.1007/s10464-006-9013-z
+   Borgatti S.P., 2002, Analytic Technologies, VVolume 1, DOI [10.1111/j.1439-0310.2009.01613.x, DOI 10.1111/J.1439-0310.2009.01613.X]
+   Borgatti SP, 2003, J MANAGE, V29, P991, DOI 10.1016/S0149-2063(03)00087-4
+   Borgatti SP., 2018, ANAL SOCIAL NETWORKS
+   Brooks B, 2011, INFORM COMMUN SOC, V14, P529, DOI 10.1080/1369118X.2011.562221
+   Brownson RC, 2001, AM J PUBLIC HEALTH, V91, P1995, DOI 10.2105/AJPH.91.12.1995
+   Bruening JE, 2015, SPORT MANAG REV, V18, P69, DOI 10.1016/j.smr.2014.07.002
+   Burt RS, 2000, RES ORGAN BEHAV, V22, P345, DOI 10.1016/S0191-3085(00)22009-1
+   Carmon A.F., 2010, J FAMILY BUS STRATEG, V1, P210, DOI [DOI 10.1016/J.JFBS.2010.10.003, 10.1016/j.jfbs.2010.10.003]
+   Chalip L, 2011, INT SPORT COACH J, V4, P4, DOI 10.1123/jce.4.2.4
+   Cheong PH, 2007, CRIT SOC POLICY, V27, P24, DOI 10.1177/0261018307072206
+   Collins Michael F., SPORT SOCIAL EXCLUSI
+   Collins R., 1988, THEORETICAL SOCIOLOG
+   Conti N, 2010, SOC NETWORKS, V32, P30, DOI 10.1016/j.socnet.2009.08.001
+   Crona BI, 2006, ECOL SOC, V11
+   Crow Graham., 2004, Social Networks and Social Exclusion: Sociological and Policy Issues, P7
+   Dalton J.H., 2001, Community psychology: Linking individuals and communities
+   Daly J.A., 1975, HUMAN COMMUNICATION, V1, P323, DOI [DOI 10.1111/J.1468-2958.1975.TB00281.X, 10.1111/j.1468-2958.1975.tb00281.x, https://doi.org/10.1111/j.1468-2958.1975.tb00281.x]
+   Dorsch TE, 2015, SPORT EXERC PERFORM, V4, P3, DOI 10.1037/spy0000021
+   Dorsch TE, 2009, J SPORT EXERCISE PSY, V31, P444, DOI 10.1123/jsep.31.4.444
+   Duncan OtisD., 1972, Socioeconomic Background and Achievement
+   FELD SL, 1982, AM SOCIOL REV, V47, P797, DOI 10.2307/2095216
+   Flint J., 2008, Community cohesion in crisis"
+   Forde SD, 2015, SPORT MANAG REV, V18, P126, DOI 10.1016/j.smr.2014.02.002
+   Gibbons D, 2003, J PERS SOC PSYCHOL, V84, P340, DOI 10.1037/0022-3514.84.2.340
+   Gilchrist A., 2009, The well-connected community: A networking approach to community development
+   Giuffre K.A., 2013, COMMUNITIES NETWORKS
+   Glover TD, 2007, LEISURE SCI, V29, P195, DOI 10.1080/01490400601160895
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Gray S, 2012, ECOL MODEL, V229, P88, DOI 10.1016/j.ecolmodel.2011.09.011
+   HALLINAN MT, 1989, AM SOCIOL REV, V54, P67, DOI 10.2307/2095662
+   Halpern David., 2005, Social Capital
+   Hanneman RA, 2005, Introduction to social network methods
+   Hero RE, 2007, RACIAL DIVERSITY AND SOCIAL CAPITAL: EQUALITY AND COMMUNITY IN AMERICA, P1, DOI 10.1017/CBO9780511618826
+   Inoue Y, 2013, J SPORT MANAGE, V27, P439, DOI 10.1123/jsm.27.6.439
+   Jamieson KM, 2005, J SPORT SOC ISSUES, V29, P133, DOI 10.1177/0193723504269889
+   Joyner K, 2000, SOC SCI QUART, V81, P810
+   Kadushin C., 2012, UNDERSTANDING SOCIAL
+   Kalmijn M, 1998, ANNU REV SOCIOL, V24, P395, DOI 10.1146/annurev.soc.24.1.395
+   Kao G, 2004, SOCIOL QUART, V45, P557, DOI 10.1111/j.1533-8525.2004.tb02303.x
+   Kaplanidou K, 2012, EUR SPORT MANAG Q, V12, P3, DOI 10.1080/16184742.2011.637173
+   Kegen NV, 2013, PROCD SOC BEHV, V79, P62, DOI 10.1016/j.sbspro.2013.05.057
+   Kim A.C.H., 2016, J AMATEUR SPORT, V2, P39
+   King N.K., 2004, Nonprofit Management and Leadership, V14, P471, DOI DOI 10.1002/NML.48
+   Kleinbaum AM, 2013, ORGAN SCI, V24, P1316, DOI 10.1287/orsc.1120.0804
+   KRACKHARDT D, 1988, SOC PSYCHOL QUART, V51, P123, DOI 10.2307/2786835
+   Labianca G, 2014, RES SOCIOL ORGAN-RES, V40, P239, DOI 10.1108/S0733-558X(2014)0000040012
+   Long J., 2001, Sport in the city: the role of sport in economic and social regeneration, P187
+   Louch H, 2000, SOC NETWORKS, V22, P45, DOI 10.1016/S0378-8733(00)00015-0
+   Marmaros D, 2006, Q J ECON, V121, P79, DOI 10.1162/003355306776083563
+   MARSDEN PV, 1988, SOC NETWORKS, V10, P57, DOI 10.1016/0378-8733(88)90010-X
+   MARSDEN PV, 1987, AM SOCIOL REV, V52, P122, DOI 10.2307/2095397
+   Mayer A, 2008, J PUBLIC ECON, V92, P329, DOI 10.1016/j.jpubeco.2007.09.001
+   McCulloh Ian., 2013, Social Network Analysis with Applications
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Moody J, 2001, AM J SOCIOL, V107, P679, DOI 10.1086/338954
+   Morrow V., 2005, J SOCIAL SCI, V9, P57
+   Myrdal G., 1944, AM DILEMMA
+   Nahapiet J, 1998, ACAD MANAGE REV, V23, P242, DOI 10.2307/259373
+   Nicholson M., 2008, Sport and social capital
+   Pescosolido B., 2001, HDB DISABILITY STUDI
+   Phillipson Chris., 2004, Social Networks and Social Exclusion
+   Prell C., 2012, Social Network Analysis: History, Theory and Methodology
+   Rosso EGF, 2013, INT REV SOCIOL SPORT, V48, P453, DOI 10.1177/1012690212444409
+   Seippel O, 2006, ACTA SOCIOL, V49, P169, DOI 10.1177/0001699306064771
+   Sibley David., 1995, Geographies of Exclusion
+   Skinner J., 2008, Sport management review, V11, P253, DOI DOI 10.1016/S1441-3523(08)70112-8
+   Smith TE, 1995, J MARRIAGE FAM, V57, P930, DOI 10.2307/353413
+   Spaaij R., 2014, SPORT SOCIAL EXCLUSI
+   Stora M, 2011, IEEE AUTOTESTCON, P26, DOI 10.1109/AUTEST.2011.6058759
+   Tagiuri R., 1958, Person perception and interpersonal behavior, P316
+   Tebbutt Melanie., 1995, Women's Talk? A Social History of 'Gossip' in Working-class Neighbourhoods, 1880-1960
+   Van Gundy KT, 2011, RURAL SOCIOL, V76, P293, DOI 10.1111/j.1549-0831.2011.00050.x
+   Warde A, 2005, J LEISURE RES, V37, P402, DOI 10.1080/00222216.2005.11950060
+   Warner S, 2015, J APPL SPORT MANAG, V7, P45
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   Weiss M., 1995, PEDIATR EXERC SCI, V7, P36
+   WELLMAN B, 1990, AM J SOCIOL, V96, P558, DOI 10.1086/229572
+   Whitbred R., 2011, Encyclopedia of Social Networks, P732
+   Wiersma LD, 2008, J LEISURE RES, V40, P505, DOI 10.1080/00222216.2008.11950150
+   Wilkinson R., 1996, UNHEALTHY SOC AFFLIC, DOI [10.4324/9780203421680, DOI 10.4324/9780203421680]
+   WILLIAMS DR, 1995, ANNU REV SOCIOL, V21, P349, DOI 10.1146/annurev.so.21.080195.002025
+   Wimmer A, 2010, AM J SOCIOL, V116, P583, DOI 10.1086/653658
+   Wise S, 2014, EUR MANAG J, V32, P703, DOI 10.1016/j.emj.2013.12.005
+   Woolcock M, 2000, WORLD BANK RES OBSER, V15, P225, DOI 10.1093/wbro/15.2.225
+NR 92
+TC 19
+Z9 23
+U1 5
+U2 21
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0362-3319
+EI 1873-5355
+J9 SOC SCI J
+JI Soc. Sci. J.
+PD APR 2
+PY 2020
+VL 57
+IS 2
+BP 178
+EP 194
+DI 10.1016/j.soscij.2018.11.011
+PG 17
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA MK5IA
+UT WOS:000548819300004
+DA 2024-11-22
+ER

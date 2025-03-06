@@ -1,0 +1,603 @@
+
+PT J
+AU Young, MJ
+   Silk, MJ
+   Pritchard, AJ
+   Fefferman, NH
+AF Young, Matthew J.
+   Silk, Matthew J.
+   Pritchard, Alexander J.
+   Fefferman, Nina H.
+TI The interplay of social constraints and individual variation in risk
+   tolerance in the emergence of superspreaders
+SO JOURNAL OF THE ROYAL SOCIETY INTERFACE
+LA English
+DT Article
+DE epidemic modelling; game theory; heterogeneous population;
+   superspreaders
+ID POPULATIONS; SPREAD
+AB Individual host behaviours can drastically impact the spread of infection through a population. Differences in the value individuals place on both socializing with others and avoiding infection have been shown to yield emergent homophily in social networks and thereby shape epidemic outcomes. We build on this understanding to explore how individuals who do not conform to their social surroundings contribute to the propagation of infection during outbreaks. We show how non-conforming individuals, even if they do not directly expose a disproportionate number of other individuals themselves, can become functional superspreaders through an emergent social structure that positions them as the functional links by which infection jumps between otherwise separate communities. Our results can help estimate the potential success of real-world interventions that may be compromised by a small number of non-conformists if their impact is not anticipated, and plan for how best to mitigate their effects on intervention success.
+C1 [Young, Matthew J.] Univ Tennessee Knoxville, Dept Math, Knoxville, TN 37996 USA.
+   [Silk, Matthew J.; Pritchard, Alexander J.] Univ Tennessee Knoxville, Dept NIMBioS, Knoxville, TN 37996 USA.
+   [Fefferman, Nina H.] Univ Tennessee Knoxville, Knoxville, TN USA.
+C3 University of Tennessee System; University of Tennessee Knoxville;
+   University of Tennessee System; University of Tennessee Knoxville;
+   University of Tennessee System; University of Tennessee Knoxville
+RP Young, MJ (corresponding author), Univ Tennessee Knoxville, Dept Math, Knoxville, TN 37996 USA.
+EM myoung89@utk.edu
+RI Pritchard, Alexander J./LDG-8227-2024
+OI Pritchard, Alexander J./0000-0003-4922-3347; Silk,
+   Matthew/0000-0002-8318-5383
+FU NSF [DEB 2028710]; European Union [101023948]; Marie Curie Actions
+   (MSCA) [101023948] Funding Source: Marie Curie Actions (MSCA)
+FX This work was supported by NSF DEB 2028710. M.J.S. received funding from
+   the European Union's Horizon 2020 research and innovation programme
+   under the Marie Sklodowska-Curie grant agreement no. 101023948.
+CR Arregui S, 2018, PLOS COMPUT BIOL, V14, DOI 10.1371/journal.pcbi.1006638
+   Buono C, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0092200
+   Catching A, 2021, SCI REP-UK, V11, DOI 10.1038/s41598-021-94960-5
+   Caulkins JP, 2021, J MATH ECON, V93, DOI 10.1016/j.jmateco.2021.102489
+   Cetrulo Armanda, 2020, Inter Econ, V55, P142, DOI 10.1007/s10272-020-0891-3
+   Chen X, 2019, PHYSICA A, V536, DOI 10.1016/j.physa.2019.122481
+   Duan W, 2013, IEEE INTELL SYST, V28, P18, DOI 10.1109/MIS.2013.29
+   Edholm CJ, 2018, Assoc Women Math Ser Internet, V14, P1, DOI [10.1007/978-3-319-98083-6_1, 10.1007/978-3-319-98083-61, DOI 10.1007/978-3-319-98083-61]
+   Enright J, 2018, EPIDEMICS-NETH, V24, P88, DOI 10.1016/j.epidem.2018.04.003
+   Evans JC, 2021, BEHAV ECOL SOCIOBIOL, V75, DOI 10.1007/s00265-021-03102-4
+   Fefferman NH, 2007, PHYS REV E, V76, DOI 10.1103/PhysRevE.76.031919
+   Fefferman N, 2021, ISCIENCE, V24, DOI 10.1016/j.isci.2021.103389
+   Feng ZL, 2015, J THEOR BIOL, V386, P177, DOI 10.1016/j.jtbi.2015.09.006
+   Fujie R, 2007, PHYSICA A, V374, P843, DOI 10.1016/j.physa.2006.08.050
+   Galvani AP, 2005, NATURE, V438, P293, DOI 10.1038/438293a
+   Garske T, 2008, J THEOR BIOL, V253, P228, DOI 10.1016/j.jtbi.2008.02.038
+   Gündüç S, 2021, PHYSICA A, V563, DOI 10.1016/j.physa.2020.125483
+   Hoang T, 2019, EPIDEMIOLOGY, V30, P723, DOI 10.1097/EDE.0000000000001047
+   House T, 2011, J THEOR BIOL, V272, P1, DOI 10.1016/j.jtbi.2010.12.009
+   James A, 2007, P ROY SOC B-BIOL SCI, V274, P741, DOI 10.1098/rspb.2006.0219
+   Ji T, 2020, CLIN INFECT DIS, V71, P1454, DOI 10.1093/cid/ciaa390
+   Karatayev VA, 2020, P NATL ACAD SCI USA, V117, P24575, DOI 10.1073/pnas.2014385117
+   Kawagoe K, 2021, PHYS REV RES, V3, DOI 10.1103/PhysRevResearch.3.033283
+   Keeling M., 2013, MATH TODAY, V49, P40
+   Keeling MJ, 2008, MODELING INFECT DIS
+   KEMPER JT, 1980, MATH BIOSCI, V48, P111, DOI 10.1016/0025-5564(80)90018-8
+   Kirkegaard JB., 2021, SCI REP-UK, V11, P1, DOI [10.1038/s41598-020-79139-8, DOI 10.1038/S41598-020-79139-8]
+   KRACKHARDT D, 1988, SOC PSYCHOL QUART, V51, P123, DOI 10.2307/2786835
+   La Greca AM, 2001, J PEDIATR PSYCHOL, V26, P131, DOI 10.1093/jpepsy/26.3.131
+   Leecaster M, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0153690
+   Lewis N, 2013, J APPL SOC PSYCHOL, V43, pE97, DOI 10.1111/jasp.12038
+   Liu FC, 2015, BMC PUBLIC HEALTH, V15, DOI 10.1186/s12889-015-1766-6
+   Lofgren ET, 2014, P NATL ACAD SCI USA, V111, P18095, DOI 10.1073/pnas.1421551111
+   Mancastroppa M, 2019, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/ab16c4
+   McBryde ES, 2009, CLIN INFECT DIS, V48, P685, DOI 10.1086/597012
+   Min B, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.036102
+   Morgan O, 2019, PHILOS T R SOC B, V374, DOI 10.1098/rstb.2018.0365
+   Nielsen BF, 2021, PHYS REV LETT, V126, DOI 10.1103/PhysRevLett.126.118301
+   Paltiel AD, 2021, HEALTH AFFAIR, V40, P42, DOI 10.1377/hlthaff.2020.02054
+   Paull SH, 2012, FRONT ECOL ENVIRON, V10, P75, DOI 10.1890/110111
+   Piraveenan M, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0053095
+   Ren XF, 2020, EURASIAN GEOGR ECON, V61, P423, DOI 10.1080/15387216.2020.1762103
+   Rimal RN, 2020, HEALTH COMMUN, V35, P1732, DOI 10.1080/10410236.2020.1838091
+   Sah P, 2017, P NATL ACAD SCI USA, V114, P4165, DOI 10.1073/pnas.1613616114
+   Szapudi I, 2020, APPL NETW SCI, V5, DOI 10.1007/s41109-020-00336-5
+   Townsend AK, 2020, P ROY SOC B-BIOL SCI, V287, DOI 10.1098/rspb.2020.1039
+   TULJAPURKAR S, 1991, SCIENCE, V254, P591, DOI 10.1126/science.254.5031.591
+   Yan G, 2005, CHINESE PHYS LETT, V22, P510, DOI 10.1088/0256-307X/22/2/068
+   Young MJ, 2022, PHYS REV E, V105, DOI 10.1103/PhysRevE.105.044315
+   Young MJ., 2023, FIGSHARE, DOI [10.6084/m9.figshare.c.6751396, DOI 10.6084/M9.FIGSHARE.C.6751396]
+   Zhang YS, 2020, INT J ENV RES PUB HE, V17, DOI 10.3390/ijerph17249309
+NR 51
+TC 0
+Z9 0
+U1 1
+U2 2
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 1742-5689
+EI 1742-5662
+J9 J R SOC INTERFACE
+JI J. R. Soc. Interface
+PD AUG 2
+PY 2023
+VL 20
+IS 205
+AR 20230077
+DI 10.1098/rsif.2023.0077
+PG 12
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA O0RV2
+UT WOS:001040989000001
+PM 37528679
+OA Green Published, Bronze
+DA 2024-11-22
+ER
+
+PT J
+AU Sobol, M
+   Blachnio, A
+   Pasternak, K
+AF Sobol, Malgorzata
+   Blachnio, Agata
+   Pasternak, Katarzyna
+TI Time in a Virtual World: Facebook Intrusion, Time Perspective, and
+   Contents of Facebook Narratives
+SO SAGE OPEN
+LA English
+DT Article
+DE time perspective; Facebook intrusion; narratives; fatalism; future;
+   virtual world
+ID INTERNET USE; SOCIAL SELF; PERSONALITY; DEPRESSION; ORIENTATION;
+   NETWORKING; ADDICTION; MATTER; BODY
+AB Online social networking sites are places where users spend a lot of their time and leave a huge number of narratives. In the virtual world of Facebook, moving in a space is limited to only a slight hand movement. The aim of this study was to examine the relationship between the level of Facebook intrusion, time perspective, and the contents of Facebook narratives. The participants were 83 Polish Facebook users, aged 18 to 62 years. We used the Facebook Intrusion Questionnaire, the Zimbardo Time Perspective Inventory, and the Linguistic Inquiry and Word Count program. The results suggest that Facebook intrusion is connected with the low future perspective of Facebook users. Moreover, the stronger the Facebook intrusion, the more swear words in Facebook narratives. There were significant positive relationships between a present fatalistic time perspective and words expressing aggression in Facebook narratives. The results were interpreted in the context of the theory of embodied cognition.
+C1 [Sobol, Malgorzata] Univ Warsaw, Warsaw, Poland.
+   [Blachnio, Agata; Pasternak, Katarzyna] John Paul II Catholic Univ Lublin, Lublin, Poland.
+   [Sobol, Malgorzata] Univ Warsaw, Dept Psychol, Ul Stawki 5-8, PL-00183 Warsaw, Poland.
+C3 University of Warsaw; Catholic University of Lublin; University of
+   Warsaw
+RP Sobol, M (corresponding author), Univ Warsaw, Dept Psychol, Ul Stawki 5-8, PL-00183 Warsaw, Poland.
+EM malgorzata.sobol@psych.uw.edu.pl
+OI Blachnio, Agata/0000-0002-2384-2396
+CR Andreassen CS., 2015, CURRENT ADDICTION RE, V2, P175, DOI DOI 10.1007/S40429-015-0056-9
+   [Anonymous], 2017, Statistics
+   [Anonymous], 2012, Subclinical problem gambling, implicit affect, and stress: A psychopharmacological explanation
+   Banjanin N, 2015, COMPUT HUM BEHAV, V43, P308, DOI 10.1016/j.chb.2014.11.013
+   Barber LK, 2009, PERS INDIV DIFFER, V46, P250, DOI 10.1016/j.paid.2008.10.007
+   Barsalou LW, 1999, BEHAV BRAIN SCI, V22, P577, DOI 10.1017/S0140525X99532147
+   Blachnio A, 2015, EUR PSYCHIAT, V30, P681, DOI 10.1016/j.eurpsy.2015.04.002
+   Blachnio A, 2016, COMPUT HUM BEHAV, V59, P230, DOI 10.1016/j.chb.2016.02.018
+   Boroditsky L, 2002, PSYCHOL SCI, V13, P185, DOI 10.1111/1467-9280.00434
+   Boroditsky L, 2000, COGNITION, V75, P1, DOI 10.1016/S0010-0277(99)00073-6
+   Brailovskaia J, 2020, COMPUT HUM BEHAV, V108, DOI 10.1016/j.chb.2020.106332
+   Brailovskaia J, 2019, PSYCHIAT RES, V276, P167, DOI 10.1016/j.psychres.2019.05.014
+   Brailovskaia J, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0189719
+   Bryant F. B., 2005, Journal of Happiness Studies, V6, P227, DOI DOI 10.1007/S10902-005-3889-4
+   Caplan SE, 2005, J COMMUN, V55, P721, DOI 10.1111/j.1460-2466.2005.tb03019.x
+   Cerruti R, 2017, CLIN NEUROPSYCHIATR, V14, P374
+   Chittaro L, 2013, PERS INDIV DIFFER, V55, P989, DOI 10.1016/j.paid.2013.08.007
+   Cybis N., 2012, 1 INT C TIME PERSP P
+   Daugherty JR, 2010, PERS INDIV DIFFER, V48, P202, DOI 10.1016/j.paid.2009.10.007
+   DUCLOS SE, 1989, J PERS SOC PSYCHOL, V57, P100, DOI 10.1037/0022-3514.57.1.100
+   Elphinston RA, 2011, CYBERPSYCH BEH SOC N, V14, P631, DOI 10.1089/cyber.2010.0318
+   Faul F, 2007, BEHAV RES METHODS, V39, P175, DOI 10.3758/BF03193146
+   Gignac GE, 2016, PERS INDIV DIFFER, V102, P74, DOI 10.1016/j.paid.2016.06.069
+   Hirsh JB, 2009, J RES PERS, V43, P524, DOI 10.1016/j.jrp.2009.01.006
+   Kern ML, 2014, ASSESSMENT, V21, P158, DOI 10.1177/1073191113514104
+   Klingemann H, 2001, TIME SOC, V10, P303, DOI 10.1177/0961463X01010002008
+   Korkeila J, 2010, EUR PSYCHIAT, V25, P236, DOI 10.1016/j.eurpsy.2009.02.008
+   Kraut R, 1998, AM PSYCHOL, V53, P1017, DOI 10.1037/0003-066X.53.9.1017
+   Lakoff G., 1980, METAPHOR WE LIVE BY
+   Lukavska K, 2012, CYBERPSYCH BEH SOC N, V15, P50, DOI 10.1089/cyber.2011.0171
+   MacKillop J, 2006, PSYCHOL ADDICT BEHAV, V20, P75, DOI 10.1037/0893-164X.20.1.75
+   Mahon BZ, 2015, CAN J EXP PSYCHOL, V69, P172, DOI 10.1037/cep0000060
+   Margolies SO, 2008, COGNITION EMOTION, V22, P1401, DOI 10.1080/02699930701810335
+   Muise A, 2009, CYBERPSYCHOL BEHAV, V12, P441, DOI 10.1089/cpb.2008.0263
+   Naaman M, 2010, 2010 ACM CONFERENCE ON COMPUTER SUPPORTED COOPERATIVE WORK, P189
+   Niedenthal PM, 2005, PERS SOC PSYCHOL REV, V9, P184, DOI 10.1207/s15327957pspr0903_1
+   Park G, 2017, J PERS, V85, P270, DOI 10.1111/jopy.12239
+   Pennebaker JamesW., 2007, LINGUISTIC INQUIRY W
+   Pennebaker JW, 2003, ANNU REV PSYCHOL, V54, P547, DOI 10.1146/annurev.psych.54.101601.145041
+   Przepiorka A, 2016, PERS INDIV DIFFER, V101, P78, DOI 10.1016/j.paid.2016.05.047
+   Przepiorka A, 2016, COMPUT HUM BEHAV, V60, P13, DOI 10.1016/j.chb.2016.02.045
+   Roberts B., 2006, HDB MULTIMETHOD MEAS, P321, DOI DOI 10.1037/11383-022
+   Schwartz H., 2014, P WORKSH COMP LING C, P118, DOI DOI 10.3115/V1/W14-3214
+   Stolarski M, 2014, J HAPPINESS STUD, V15, P809, DOI 10.1007/s10902-013-9450-y
+   Stronge S, 2015, SEX ROLES, V73, P200, DOI 10.1007/s11199-015-0517-6
+   Sword RM, 2014, J LOSS TRAUMA, V19, P197, DOI 10.1080/15325024.2013.763632
+   Szymczyk B., 2012, Przeglad Psychol, V55, P195
+   Valkenburg PM, 2006, CYBERPSYCHOL BEHAV, V9, P584, DOI 10.1089/cpb.2006.9.584
+   van Beek W, 2011, TIME SOC, V20, P364, DOI 10.1177/0961463X10373960
+   van Beek W, 2009, BMC PSYCHIATRY, V9, DOI 10.1186/1471-244X-9-65
+   Wells GL, 1980, BASIC APPL SOC PSYCH, V1, P219, DOI 10.1207/s15324834basp0103_2
+   Weston SJ, 2016, J PERS, V84, P594, DOI 10.1111/jopy.12183
+   Wilson M, 2002, PSYCHON B REV, V9, P625, DOI 10.3758/BF03196322
+   Winkielman P, 2008, EMBODIED GROUNDING: SOCIAL, COGNITIVE, AFFECTIVE, AND NEUROSCIENTIFIC APPROACHES, P263
+   Wolniczak I, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0059087
+   Woods HC, 2016, J ADOLESCENCE, V51, P41, DOI 10.1016/j.adolescence.2016.05.008
+   Young K., 1998, CYBERPSYCHOL BEHAV, V1, P237, DOI DOI 10.1089/CPB.1998.1.237
+   Zhang JW, 2011, PERS INDIV DIFFER, V50, P1261, DOI 10.1016/j.paid.2011.02.021
+   Zimbardo P.G., 2008, TIME PARADOX NEW PSY
+   Zimbardo PG, 1997, PERS INDIV DIFFER, V23, P1007, DOI 10.1016/S0191-8869(97)00113-X
+   Zimbardo PG, 1999, J PERS SOC PSYCHOL, V77, P1271, DOI 10.1037/0022-3514.77.6.1271
+NR 61
+TC 0
+Z9 0
+U1 2
+U2 4
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 2158-2440
+J9 SAGE OPEN
+JI SAGE Open
+PD JUL
+PY 2023
+VL 13
+IS 3
+AR 21582440231184860
+DI 10.1177/21582440231184860
+PG 10
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA N4UB2
+UT WOS:001036970300001
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Turbic, NGB
+   Galesic, M
+AF Turbic, N. Gizem Bacaksizlar
+   Galesic, Mirta
+TI Group threat, political extremity, and collective dynamics in online
+   discussions
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID SOCIAL NETWORKS PROMOTE; COEFFICIENT; COHESION; CULTURE; ANXIETY
+AB Collectives adapt their network structure to the challenges they face. It has been hypothesized that collectives experiencing a real or imagined threat from an outgroup tend to consolidate behind a few group members, and that network structures in which a few members attract most of the attention are more likely in politically extreme groups. These hypotheses have not been tested in large-scale real-world settings. We reconstruct networks of tens of thousands of commenters participating in comment sections of high-profile U.S. political news websites spanning the political spectrum from left to right, including Mother Jones, The Atlantic, The Hill, and Breitbart. We investigate the relationship between different indices of inequality of attention in commenters' networks and perceived group threat associated with significant societal events, from elections and political rallies to mass shootings. Our findings support the hypotheses that groups facing a real or imagined outgroup threat and groups that are more politically extreme are more likely to attend to a few high-profile members. These results provide an extensive real-world test of theoretical accounts of collective adaptation to outgroup threats.
+C1 [Turbic, N. Gizem Bacaksizlar; Galesic, Mirta] Santa Fe Inst, Santa Fe, NM 87501 USA.
+   [Turbic, N. Gizem Bacaksizlar] NOVA Univ Lisbon, P-1069061 Lisbon, Portugal.
+   [Turbic, N. Gizem Bacaksizlar] GESIS Leibniz Inst Social Sci, D-50667 Cologne, Germany.
+   [Galesic, Mirta] Complex Sci Hub, A-1080 Vienna, Austria.
+   [Galesic, Mirta] Univ Vermont, Vermont Complex Syst Ctr, Burlington, VT 05405 USA.
+C3 The Santa Fe Institute; Universidade Nova de Lisboa; Leibniz Institut
+   fur Sozialwissenschaften (GESIS); University of Vermont
+RP Turbic, NGB (corresponding author), Santa Fe Inst, Santa Fe, NM 87501 USA.; Turbic, NGB (corresponding author), NOVA Univ Lisbon, P-1069061 Lisbon, Portugal.; Turbic, NGB (corresponding author), GESIS Leibniz Inst Social Sci, D-50667 Cologne, Germany.
+EM gizem.bacaksizlarturbic@gesis.org
+RI Galesic, Mirta/B-8327-2012
+OI Bacaksizlar Turbic, N. Gizem/0000-0002-8489-793X; Galesic,
+   Mirta/0000-0002-1712-9455
+FU National Science Foundation [DRMS 1757211]
+FX AcknowledgementsThis work was supported by a grant from the National
+   Science Foundation (DRMS 1757211). The funder had no role in the study
+   design or interpretation of results. We thank Joshua Garland, Haiko
+   Lietz, Allison Morgan, Henrik Olsson, and Kenan Turbic for their helpful
+   comments.
+CR adfontes media, INTERACTIVE MEDIA BI
+   Adorno T. W., 1950, AUTHORITARIAN PERSON
+   AllSides, MED BIAS RAT
+   Almaatouq A, 2020, P NATL ACAD SCI USA, V117, P11379, DOI 10.1073/pnas.1917687117
+   Altemeyer B, 1998, ADV EXP SOC PSYCHOL, V30, P47, DOI 10.1016/S0065-2601(08)60382-2
+   Altemeyer B., 1996, The authoritarian specter
+   [Anonymous], Amazon mechanical turk
+   [Anonymous], Google Trends
+   [Anonymous], MOTHER JONES
+   [Anonymous], BREITBART
+   [Anonymous], DISQUS SORTING COMME
+   [Anonymous], MEDIA BIAS RATINGS L
+   [Anonymous], 2005, Suicide
+   [Anonymous], MEDIA BIASFACT CHECK
+   [Anonymous], The Hill
+   [Anonymous], DISQUS TERMS SERVICE
+   [Anonymous], 2020, ATLANTIC
+   [Anonymous], DISQUS MODERATION SE
+   [Anonymous], DISQUS PRIVACY POLIC
+   [Anonymous], DISQUS API
+   Bak-Coleman J. B., 2021, Proceedings of the National Academy of Sciences, V118
+   BallardBrown T., SOME 2017 S BIGGEST
+   BENDEL RB, 1989, OECOLOGIA, V78, P394, DOI 10.1007/BF00379115
+   BOBEE B, 1975, WATER RESOUR RES, V11, P851, DOI 10.1029/WR011i006p00851
+   Brader T, 2005, AM J POLIT SCI, V49, P388, DOI 10.1111/j.0092-5853.2005.00130.x
+   Chandler J, 2019, BEHAV RES METHODS, V51, P2022, DOI 10.3758/s13428-019-01273-7
+   Claidière N, 2012, PSYCHOL BULL, V138, P126, DOI 10.1037/a0025868
+   Colleoni E, 2014, J COMMUN, V64, P317, DOI 10.1111/jcom.12084
+   Darcy O., FACEBOOK NEWS LAUNCH
+   de Regt S, 2011, COMMUNIS POST-COMMUN, V44, P299, DOI 10.1016/j.postcomstud.2011.10.006
+   Dimock M., 2014, Political polarization in the American public: How increasing ideological uniformity and partisan antipathy affect politics, compromise, and everyday life
+   Doherty C., 2016, 5 FACTS REPUBLICANS
+   Douglas Mary., 1970, Natural Symbols: Explorations in Cosmology
+   Duggan M., 2016, The political environment on social media
+   Festinger L., 1950, SOCIAL PRESSURES INF, V30, P384, DOI 10.2307/3348388
+   Gerber AS, 2011, ANNU REV POLIT SCI, V14, P265, DOI 10.1146/annurev-polisci-051010-111659
+   Goldenberg A, 2020, CURR DIR PSYCHOL SCI, V29, P154, DOI 10.1177/0963721420901574
+   Habermas J., 1989, The Structural Transformation of the Public Sphere, DOI DOI 10.1177/02632764221112341
+   Harrell A, 2018, SCI ADV, V4, DOI 10.1126/sciadv.aau9109
+   Harwell D., 2021, WASHINGTON POST 0113
+   Hauser Gerard A., 2022, Vernacular Voices: The Rhetoric of Publics and Public Spheres, V2nd ed
+   Hirst W, 2018, TRENDS COGN SCI, V22, P438, DOI 10.1016/j.tics.2018.02.010
+   History.com, 2017 EV
+   Janis I.L., 1982, GROUPTHINK PSYCHOL S
+   Jennings W, 2021, medRxiv
+   Jost JT, 2003, PSYCHOL BULL, V129, P339, DOI 10.1037/0033-2909.129.3.339
+   KEINAN G, 1987, J PERS SOC PSYCHOL, V52, P639, DOI 10.1037/0022-3514.52.3.639
+   Kirke C, 2010, DEF SECUR ANAL, V26, P143, DOI 10.1080/14751798.2010.488856
+   Kobayashi R., 2021, ARXIV
+   Lewandowsky S, 2020, NAT COMMUN, V11, DOI 10.1038/s41467-020-19644-6
+   Lorenz-Spreen P., 2021, SOCARXIV DIGITAL MED
+   MacCoun R.J., 2010, Sexual Orientation and US Military Personnel Policy: An Update of RAND's 1993 Study
+   MARCUS GE, 1993, AM POLIT SCI REV, V87, P672, DOI 10.2307/2938743
+   MCCLOSKY H, 1985, BRIT J POLIT SCI, V15, P329, DOI 10.1017/S0007123400004221
+   Naab TK, 2020, JOURNALISM STUD, V21, P783, DOI 10.1080/1461670X.2020.1724181
+   Newman MEJ, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.056131
+   Office for Human Research Protections (OHRP), ABOUT US
+   Page L., 1998, PAGERANK CITATION RA, P161, DOI DOI 10.1007/978-3-319-08789-4_10
+   Prochazka F, 2018, JOURNALISM STUD, V19, P62, DOI 10.1080/1461670X.2016.1161497
+   Rand DG, 2011, P NATL ACAD SCI USA, V108, P19193, DOI 10.1073/pnas.1108243108
+   RAVEN BH, 1974, J SOC ISSUES, V30, P297, DOI 10.1111/j.1540-4560.1974.tb01765.x
+   Redlawsk DP, 2010, POLIT PSYCHOL, V31, P563, DOI 10.1111/j.1467-9221.2010.00772.x
+   Sengupta J, 2001, PERS SOC PSYCHOL B, V27, P139, DOI 10.1177/0146167201272001
+   Shils Edward., 1954, Authoritarianism "Right" and "Left."
+   Stone W. F., 1980, POLIT PSYCHOL, V, 2, P3, DOI [DOI 10.2307/3790998, 10.2307/3790998]
+   THOMPSON JE, 1976, J SOC PSYCHOL, V100, P263, DOI 10.1080/00224545.1976.9711937
+   Toepfl F, 2015, J COMMUN, V65, P465, DOI 10.1111/jcom.12156
+   TURNER ME, 1992, J PERS SOC PSYCHOL, V63, P781, DOI 10.1037/0022-3514.63.5.781
+   Tyson A., 2020, REPUBLICANS REMAIN F
+   Valentino NA, 2008, POLIT PSYCHOL, V29, P247, DOI 10.1111/j.1467-9221.2008.00625.x
+   White HC, 2008, IDENTITY AND CONTROL: HOW SOCIAL FORMATIONS EMERGE, 2ND EDITION, P1
+   Wikipedia, REL SOURC
+   Ziegele M, 2018, J BROADCAST ELECTRON, V62, P636, DOI 10.1080/08838151.2018.1532430
+   Ziegele M, 2018, INFORM COMMUN SOC, V21, P1419, DOI 10.1080/1369118X.2017.1324505
+   Ziegele M, 2014, J COMMUN, V64, P1111, DOI 10.1111/jcom.12123
+NR 75
+TC 2
+Z9 2
+U1 0
+U2 1
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD FEB 7
+PY 2023
+VL 13
+IS 1
+AR 2206
+DI 10.1038/s41598-023-28569-1
+PG 12
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA I5UW9
+UT WOS:001003441900044
+PM 36750599
+OA Green Submitted, gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Kates-Harbeck, J
+   Nowak, M
+AF Kates-Harbeck, Julian
+   Nowak, Martin
+TI Trust based attachment
+SO PLOS ONE
+LA English
+DT Article
+ID INDIRECT RECIPROCITY; SOCIAL NETWORKS; EVOLUTION; COOPERATION;
+   REPUTATION; SPREAD; PERCOLATION; DYNAMICS; GOSSIP; MODEL
+AB In social systems subject to indirect reciprocity, a positive reputation is key for increasing one's likelihood of future positive interactions [1-13]. The flow of gossip can amplify the impact of a person's actions on their reputation depending on how widely it spreads across the social network, which leads to a percolation problem [14]. To quantify this notion, we calculate the expected number of individuals, the "audience", who find out about a particular interaction. For a potential donor, a larger audience constitutes higher reputational stakes, and thus a higher incentive, to perform "good" actions in line with current social norms [7, 15]. For a receiver, a larger audience therefore increases the trust that the partner will be cooperative. This idea can be used for an algorithm that generates social networks, which we call trust based attachment (TBA). TBA produces graphs that share crucial quantitative properties with real-world networks, such as high clustering, small-world behavior, and powerlaw degree distributions [16-21]. We also show that TBA can be approximated by simple friend-of-friend routines based on triadic closure, which are known to be highly effective at generating realistic social network structures [19, 22-25]. Therefore, our work provides a new justification for triadic closure in social contexts based on notions of trust, gossip, and social information spread. These factors are thus identified as potential significant influences on how humans form social ties.
+C1 [Kates-Harbeck, Julian] Harvard Univ, Dept Phys, Cambridge, MA USA.
+   [Nowak, Martin] Harvard Univ, Dept Math, Cambridge, MA 02138 USA.
+   [Nowak, Martin] Harvard Univ, Dept Organism & Evolutionary Biol, Cambridge, MA 02138 USA.
+C3 Harvard University; Harvard University; Harvard University
+RP Nowak, M (corresponding author), Harvard Univ, Dept Math, Cambridge, MA 02138 USA.; Nowak, M (corresponding author), Harvard Univ, Dept Organism & Evolutionary Biol, Cambridge, MA 02138 USA.
+EM martin_nowak@harvard.edu
+RI Kates-Harbeck, Julian/Y-3186-2019
+FU Department of Energy Computational Science Graduate Fellowship Program
+   of the Office of Science; National Nuclear Security Administration in
+   the Department of Energy [DE-FG02-97ER25308]
+FX & nbsp;This work was supported by the Department of Energy Computational
+   Science Graduate Fellowship Program of the Office of Science and
+   National Nuclear Security Administration in the Department of Energy
+   under contract DE-FG02-97ER25308 (to J.K.H.). There was no additional
+   external funding received for this study. The funders had no role in
+   study design,data collection and analysis, decision to publish, or
+   preparation of the manuscript.
+CR Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   Alexander R., 1987, FDN HUMAN BEHAV
+   Apicella CL, 2012, NATURE, V481, P497, DOI 10.1038/nature10736
+   Avin C, 2020, PHYSICA A, V555, DOI 10.1016/j.physa.2020.124723
+   Bakshy E., 2012, P 21 INT C WORLD WID, P519, DOI DOI 10.1145/2187836.2187907
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Berger U, 2011, GAME ECON BEHAV, V72, P30, DOI 10.1016/j.geb.2010.08.009
+   Bhat U, 2016, PHYS REV E, V94, DOI 10.1103/PhysRevE.94.062302
+   Bhat U, 2014, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2014/11/P11035
+   Bianconi G, 2014, PHYS REV E, V90, DOI 10.1103/PhysRevE.90.042806
+   Borge-Holthoefer J, 2013, J COMPLEX NETW, V1, P3, DOI 10.1093/comnet/cnt006
+   Brandt H, 2005, P NATL ACAD SCI USA, V102, P2666, DOI 10.1073/pnas.0407370102
+   Broido AD, 2019, NAT COMMUN, V10, DOI 10.1038/s41467-019-08746-5
+   Callaway DS, 2000, PHYS REV LETT, V85, P5468, DOI 10.1103/PhysRevLett.85.5468
+   Centola D., 2018, How Behavior Spreads: The Science of Complex Contagions, DOI DOI 10.2307/J.CTVC7758P
+   Chalub FACC, 2006, J THEOR BIOL, V241, P233, DOI 10.1016/j.jtbi.2005.11.028
+   Christakis N.A., 2010, Technical Report
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Coleman J.S., 1994, FDN SOCIAL THEORY
+   Corten R, 2014, WILEY SER COMPU QUAN, P1, DOI 10.1002/9781118762912
+   Davidsen J, 2002, PHYS REV LETT, V88, DOI 10.1103/PhysRevLett.88.128701
+   Easley D, 2010, Networks, Crowds, and Markets: Reasoning about A Highly Connected World, DOI [10.1017/CBO9780511761942, DOI 10.1017/CBO9780511761942]
+   Engelmann D, 2009, GAME ECON BEHAV, V67, P399, DOI 10.1016/j.geb.2008.12.006
+   GILBERT EN, 1959, ANN MATH STAT, V30, P1141, DOI 10.1214/aoms/1177706098
+   Holzhauer S, 2013, COMPUT MATH ORGAN TH, V19, P128, DOI 10.1007/s10588-012-9145-7
+   House T, 2011, J R SOC INTERFACE, V8, P67, DOI 10.1098/rsif.2010.0179
+   Jackson MO, 2007, AM ECON REV, V97, P890, DOI 10.1257/aer.97.3.890
+   Jackson MO, 2008, SOCIAL AND ECONOMIC NETWORKS, P1
+   Johansson T, 2017, PHYSICA A, V471, P126, DOI 10.1016/j.physa.2016.11.132
+   Kim K, 2017, COMMUN NONLINEAR SCI, V44, P482, DOI 10.1016/j.cnsns.2016.08.011
+   KIRKPATRICK S, 1973, REV MOD PHYS, V45, P574, DOI 10.1103/RevModPhys.45.574
+   Kolda TG, 2014, SIAM J SCI COMPUT, V36, pC424, DOI 10.1137/130914218
+   Lambiotte R, 2016, PHYS REV LETT, V117, DOI 10.1103/PhysRevLett.117.218301
+   Leskovec J., 2007, ACM T KNOWL DISCOV D, P2
+   Leskovec J, 2012, P INT C NEUR INF PRO, P539, DOI DOI 10.5555/2999134.2999195
+   Leskovec J., 2014, STANFORD LARGE NETWO
+   Leskovec J, 2005, ACM SIGKDD C KNOWLED, P177
+   Lind PG, 2007, PHYS REV E, V76, DOI 10.1103/PhysRevE.76.036117
+   Mohtashemi M, 2003, J THEOR BIOL, V223, P523, DOI 10.1016/S0022-5193(03)00143-7
+   Montanari A, 2010, P NATL ACAD SCI USA, V107, P20196, DOI 10.1073/pnas.1004098107
+   Murase Y, 2019, SCI REP-UK, V9, DOI 10.1038/s41598-019-40990-z
+   Nowak MA, 2005, NATURE, V437, P1291, DOI 10.1038/nature04131
+   Nowak MA, 1998, NATURE, V393, P573, DOI 10.1038/31225
+   Nowak MA, 2006, SCIENCE, V314, P1560, DOI 10.1126/science.1133755
+   Ohtsuki H, 2004, J THEOR BIOL, V231, P107, DOI 10.1016/j.jtbi.2004.06.005
+   Orsini C, 2015, NAT COMMUN, V6, DOI 10.1038/ncomms9627
+   Papadopoulos F, 2012, NATURE, V489, P537, DOI 10.1038/nature11459
+   Pasquaretta C, 2014, SCI REP-UK, V4, DOI 10.1038/srep07600
+   Pujol JM, 2005, JASSS-J ARTIF SOC S, V8
+   Radzvilavicius A., 2018, bioRxiv, P447151
+   RAUB W, 1990, AM J SOCIOL, V96, P626, DOI 10.1086/229574
+   Raub W, 2013, SOC NETWORKS, V35, P720, DOI 10.1016/j.socnet.2013.05.006
+   Santos FP, 2018, NATURE, V555, P242, DOI 10.1038/nature25763
+   Sigmund K., 2010, CALCULUS SELFISHNESS
+   Sommerfeld RD, 2007, P NATL ACAD SCI USA, V104, P17435, DOI 10.1073/pnas.0704598104
+   Stumpf MPH, 2012, SCIENCE, V335, P665, DOI 10.1126/science.1216142
+   Traag V. A., 2011, 2011 IEEE SSCI Symposium on Artificial Life (ALIFE), P154, DOI 10.1109/ALIFE.2011.5954642
+   Vega-Redondo F, 2006, J ECON DYN CONTROL, V30, P2305, DOI 10.1016/j.jedc.2005.07.004
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Watts DJ, 2002, P NATL ACAD SCI USA, V99, P5766, DOI 10.1073/pnas.082090499
+   Wedekind C, 2000, SCIENCE, V288, P850, DOI 10.1126/science.288.5467.850
+   Wu HR, 2017, PHYS REV E, V95, DOI 10.1103/PhysRevE.95.012301
+   Wu XY, 2008, PHYSICA A, V387, P623, DOI 10.1016/j.physa.2007.09.039
+   Wu ZH, 2015, SCI REP-UK, V5, DOI 10.1038/srep10073
+NR 64
+TC 0
+Z9 0
+U1 3
+U2 5
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD AUG 23
+PY 2023
+VL 18
+IS 8
+AR e0288142
+DI 10.1371/journal.pone.0288142
+PG 13
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA Q2MB1
+UT WOS:001055897500026
+PM 37610996
+OA Green Published, gold, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Ben Gibson, C
+   Sutton, J
+   Vos, SK
+   Butts, CT
+AF Ben Gibson, C.
+   Sutton, Jeannette
+   Vos, Sarah K.
+   Butts, Carter T.
+TI Practical Methods for Imputing Follower Count Dynamics
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+DE imputation; degree dynamics; social network; social media; polynomials;
+   mathematical sociology; bootstrapping
+ID MULTIPLE IMPUTATION; SOCIAL MEDIA; MISSING VALUES; TWITTER; BEHAVIOR;
+   ADOPTION; POWER
+AB Microblogging sites have become important data sources for studying network dynamics and information transmission. Both areas of study, however, require accurate counts of indegree, or follower counts; unfortunately, collection of complete time series on follower counts can be limited by application programming interface constraints, system failures, or temporal constraints. In addition, there is almost always a time difference between the point at which follower counts are queried and the time a user posts a tweet. Here, we consider the use of three classes of simple, easily implemented methods for follower imputation: polynomial functions, splines, and generalized linear models. We evaluate the performance of each method via a case study of accounts from 236 health organizations during the 2014 Ebola outbreak. For accurate interpolation and extrapolation, we find that negative binomial regression, modeled separately for each account, using time as an interval variable, accurately recovers missing values while retaining narrow prediction intervals.
+C1 [Ben Gibson, C.] Oak Ridge Natl Lab, Oak Ridge, TN 37831 USA.
+   [Sutton, Jeannette; Vos, Sarah K.] Univ Kentucky, Lexington, KY USA.
+   [Butts, Carter T.] Univ Calif Irvine, Irvine, CA USA.
+C3 United States Department of Energy (DOE); Oak Ridge National Laboratory;
+   University of Kentucky; University of California System; University of
+   California Irvine
+RP Ben Gibson, C (corresponding author), Oak Ridge Natl Lab, Oak Ridge, TN 37831 USA.
+EM cbgibson@uci.edu
+FU HEROIC (NSF) [CMMI-1031853]
+FX The author(s) disclosed receipt of the following financial support for
+   the research, authorship, and/or publication of this article: This work
+   is funded by HEROIC (NSF award CMMI-1031853).
+CR Abramowitz M., 1972, Handbook of Mathematical Functions with Formulas, Graphs, and Mathematical Tables
+   Aghababaei S, 2017, HUM-CENT COMPUT INFO, V7, DOI 10.1186/s13673-016-0084-z
+   Almquist ZW, 2017, SOCIAL NETWORK ANALYSIS OF DISASTER RESPONSE, RECOVERY, AND ADAPTATION, P93, DOI 10.1016/B978-0-12-805196-2.00007-8
+   [Anonymous], ARXIV170306027
+   [Anonymous], ARXIV170200048
+   Bakshy E., 2011, P 4 ACM INT C WEB SE, P65, DOI DOI 10.1145/1935826.1935845
+   Barberá P, 2015, POLIT ANAL, V23, P76, DOI 10.1093/pan/mpu011
+   Barnard J, 1999, STAT METHODS MED RES, V8, P17, DOI 10.1191/096228099666230705
+   Borge-Holthoefer J, 2015, PROCEEDINGS OF THE 2015 ACM INTERNATIONAL CONFERENCE ON COMPUTER-SUPPORTED COOPERATIVE WORK AND SOCIAL COMPUTING (CSCW'15), P700, DOI 10.1145/2675133.2675163
+   Cha M., 2010, ICWSM, V10, P10, DOI DOI 10.1609/ICWSM.V4I1.14033
+   Chauhan Apoorva, 2015, P ISCRAM 2015 C KRIS
+   Clark JS, 2004, ECOLOGY, V85, P3140, DOI 10.1890/03-0520
+   Cook JM, 2017, AM BEHAV SCI, V61, P724, DOI 10.1177/0002764217717564
+   Davison A.C., 1997, Bootstrap methods and their application, V1
+   Demirtas H, 2008, COMMUN STAT-SIMUL C, V37, P1682, DOI 10.1080/03610910802101531
+   Dewey T., 2012, The Impact of Social Media on Social Unrest in the Arab Spring
+   Dogruel L., 2014, The Journal of Media Innovations, V1, P52, DOI DOI 10.5617/JMI.V1I1.665
+   Dubois E, 2014, AM BEHAV SCI, V58, P1260, DOI 10.1177/0002764214527088
+   Dufouil C, 2004, STAT MED, V23, P2215, DOI 10.1002/sim.1821
+   Eltantawy N, 2011, INT J COMMUN-US, V5, P1207
+   Fjeldsoe BS, 2009, AM J PREV MED, V36, P165, DOI 10.1016/j.amepre.2008.09.040
+   Franklin Victoria, 2003, Diabetes Technol Ther, V5, P991, DOI 10.1089/152091503322641042
+   Fraustino J. D., 2012, Social media use during disasters: A review of the knowledge base and gaps
+   Gao H, 2011, IEEE INTELL SYST, V26, P10, DOI 10.1109/MIS.2011.52
+   GAUTSCHI W, 2016, ORTHOGONAL POLYNOMIA
+   Gerbaudo P., 2018, DIGITAL PARTY
+   Haber RN, 2000, PSYCHOL PUBLIC POL L, V6, P1057, DOI 10.1037/1076-8971.6.4.1057
+   Harris JK, 2013, AM J PUBLIC HEALTH, V103, P1700, DOI 10.2105/AJPH.2012.301166
+   Hastie T., 1986, STAT SCI, V1, P297, DOI DOI 10.1214/SS/1177013604
+   Hazewinkel M., 1997, Encyclopaedia of Mathematics
+   Kalman R. E., 1960, J BASIC ENG, V82, P35, DOI [DOI 10.1115/1.3662552, 10.1115/1.3662552]
+   Lin LucChia-Shin., 2012, Journalism and mass communication, V2, P565
+   Mebane WR Jr, 2011, J STAT SOFTW, V42, P1
+   Metallo Concetta., 2016, International Journal of Auditing Technology, V3, P79, DOI DOI 10.1504/IJAUDIT.2016.081979
+   Pan B, 2017, TOURISM VERGE, P203, DOI 10.1007/978-3-319-44263-1_12
+   Piot P, 2017, PHILOS T R SOC B, V372, DOI 10.1098/rstb.2017.0020
+   R Core Team, 2022, R LANG ENV STAT COMP
+   Rodgers A, 2005, TOB CONTROL, V14, P255, DOI 10.1136/tc.2005.011577
+   Royston P, 2005, STATA J, V5, P527, DOI 10.1177/1536867X0500500404
+   Rubin DB., 2004, MULTIPLE IMPUTATION, DOI 10.1002/9780470316696
+   Runge C., 1901, Zeitschrift fur Mathematik und Physik, V46
+   Scanfeld D, 2010, AM J INFECT CONTROL, V38, P182, DOI 10.1016/j.ajic.2009.11.004
+   Scott WF, 2017, COMMUN STAT-THEOR M, V46, P3342, DOI 10.1080/03610926.2015.1060345
+   Seaman SR, 2012, BMC MED RES METHODOL, V12, DOI 10.1186/1471-2288-12-46
+   Son Jaebong, 2017, 23 AM C INF SYST BOS
+   Spiro Emma S., 2016, Socius, V2, P1, DOI [DOI 10.1177/2378023116634340, 10.1177/2378023116634340]
+   Steinert-Threlkeld ZC, 2017, AM POLIT SCI REV, V111, P379, DOI 10.1017/S0003055416000769
+   Suh S, 2010, PROCEEDINGS OF THE 5TH INTERNATIONAL CONFERENCE ON ASIAN AND PACIFIC COASTS, VOL 3, P177
+   Sutton J, 2015, P NATL ACAD SCI USA, V112, P14793, DOI 10.1073/pnas.1508916112
+   Sutton J, 2014, INFORM COMMUN SOC, V17, P765, DOI 10.1080/1369118X.2013.862561
+   Sutton Jeannette, 2014, P INT C INF SYST CRI
+   Szeg Gabor., 1939, Orthogonal Polynomials
+   Van Buuren S, 1999, STAT MED, V18, P681, DOI 10.1002/(SICI)1097-0258(19990330)18:6<681::AID-SIM71>3.3.CO;2-I
+   Van Dongen S, 2001, J EVOLUTION BIOL, V14, P552, DOI 10.1046/j.1420-9101.2001.00315.x
+   Varol O., 2014, P 2014 ACM C WEB SCI, P81
+   Vilella A, 2004, PREV MED, V38, P503, DOI 10.1016/j.ypmed.2003.12.005
+   Vink G, 2013, SOCIOL METHOD RES, V42, P598, DOI 10.1177/0049124113502943
+   von Hippel PT, 2009, SOCIOL METHODOL, V39, P265, DOI 10.1111/j.1467-9531.2009.01215.x
+   Weng J., 2010, P 3 ACM INT C WEB SE, P261, DOI [DOI 10.1145/1718487.1718520, 10.1145/1718487.1718520]
+   Wolfsfeld G, 2013, INT J PRESS/POLIT, V18, P115, DOI 10.1177/1940161212471716
+   Wood S.N., 2017, GEN ADDITIVE MODELS
+   Wood SN, 2003, J ROY STAT SOC B, V65, P95, DOI 10.1111/1467-9868.00374
+NR 62
+TC 1
+Z9 1
+U1 2
+U2 8
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+EI 1552-8294
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD FEB
+PY 2023
+VL 52
+IS 1
+BP 412
+EP 437
+AR 0049124120926210
+DI 10.1177/0049124120926210
+EA JUL 2020
+PG 26
+WC Social Sciences, Mathematical Methods; Sociology
+WE Social Science Citation Index (SSCI)
+SC Mathematical Methods In Social Sciences; Sociology
+GA 8O3YO
+UT WOS:000558559100001
+DA 2024-11-22
+ER

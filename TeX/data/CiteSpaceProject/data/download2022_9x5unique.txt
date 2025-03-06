@@ -1,0 +1,755 @@
+
+PT J
+AU Jamalzadeh, S
+   Barker, K
+   González, AD
+   Radhakrishnan, S
+AF Jamalzadeh, Saeed
+   Barker, Kash
+   Gonzalez, Andres D.
+   Radhakrishnan, Sridhar
+TI Protecting infrastructure performance from disinformation attacks
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID OPTIMIZATION MODEL; FLOW OPTIMIZATION; POWER; SYSTEM; PROPAGATION;
+   RESILIENCE; SPREAD; NEWS
+AB Disinformation campaigns are prevalent, affecting vaccination coverage, creating uncertainty in election results, and causing supply chain disruptions, among others. Unfortunately, the problems of misinformation and disinformation are exacerbated due to the wide availability of online platforms and social networks. Naturally, these emerging disinformation networks could lead users to engage with critical infrastructure systems in harmful ways, leading to broader adverse impacts. One such example involves the spread of false pricing information, which causes drastic and sudden changes in user commodity consumption behavior, leading to shortages. Given this, it is critical to address the following related questions: (i) How can we monitor the evolution of disinformation dissemination and its projected impacts on commodity consumption? (ii) What effects do the mitigation efforts of human intermediaries have on the performance of the infrastructure network subject to disinformation campaigns? (iii) How can we manage infrastructure network operations and counter disinformation in concert to avoid shortages and satisfy user demands? To answer these questions, we develop a hybrid approach that integrates an epidemiological model of disinformation spread (based on a susceptible-infectious-recovered model, or SIR) with an efficient mixed-integer programming optimization model for infrastructure network performance. The goal of the optimization model is to determine the best protection and response actions against disinformation to minimize the general shortage of commodities at different nodes over time. The proposed model is illustrated with a case study involving a subset of the western US interconnection grid located in Los Angeles County in California.
+C1 [Jamalzadeh, Saeed; Barker, Kash; Gonzalez, Andres D.] Univ Oklahoma, Sch Ind & Syst Engn, Norman, OK 73019 USA.
+   [Radhakrishnan, Sridhar] Univ Oklahoma, Sch Comp Sci, Norman, OK 73019 USA.
+C3 University of Oklahoma System; University of Oklahoma - Norman;
+   University of Oklahoma System; University of Oklahoma - Norman
+RP Barker, K (corresponding author), Univ Oklahoma, Sch Ind & Syst Engn, Norman, OK 73019 USA.
+EM kashbarker@ou.edu
+RI Jamalzadeh, Saeed/JXL-4238-2024; Barker, Kash/GQA-6312-2022; González,
+   Andrés/AAL-2814-2020
+OI Barker, Kash/0000-0002-0142-1558
+FU National Institute of Standards and Technology (NIST) Center of
+   Excellence for Risk-Based Community Resilience Planning; National
+   Science Foundation (NSF) [2052930]; Colorado State University
+   [70NANB20H008, 70NANB15H044]; Div of Res, Innovation, Synergies, & Edu;
+   Directorate For Geosciences [2052930] Funding Source: National Science
+   Foundation
+FX This research was partially funded by the National Institute of
+   Standards and Technology (NIST) Center of Excellence for Risk-Based
+   Community Resilience Planning through a cooperative agreement with
+   Colorado State University [70NANB20H008 and 70NANB15H044]. Also, this
+   research was partially funded by National Science Foundation (NSF)
+   through award 2052930. The contents expressed in this paper are the
+   views of the authors and do not necessarily represent the opinions or
+   views of NIST or the NSF.
+CR Allcott H, 2019, RES POLITICS, V6, DOI 10.1177/2053168019848554
+   Almoghathawi Y, 2021, NETW SPAT ECON, V21, P229, DOI 10.1007/s11067-020-09515-4
+   [Anonymous], US
+   [Anonymous], IBM ILOG CPLEX Optimizer
+   [Anonymous], WIRELESS MOBILE NETW
+   [Anonymous], US CENSUS APPL PROGR
+   [Anonymous], MERRIAM WEBSTER DICT
+   Banda MK, 2006, NETW HETEROG MEDIA, V1, P41, DOI 10.3934/nhm.2006.1.41
+   Barker K, 2017, SUSTAIN RESIL INFRAS, V2, P59, DOI 10.1080/23789689.2017.1294859
+   Barrett B., 2020, VERGE
+   Bertsekas D., 2015, Convex Optimization Algorithms
+   Bertsekas D. P., 1998, Network Optimization: Continuous and Discrete Methods
+   Beskow DM, 2019, WINT SIMUL C PROC, P750, DOI 10.1109/WSC40007.2019.9004942
+   Bettencourt LMA, 2006, PHYSICA A, V364, P513, DOI 10.1016/j.physa.2005.08.083
+   Bodaghi A, 2019, APPL MATH COMPUT, V357, P167, DOI 10.1016/j.amc.2019.04.005
+   Borenstein S., 2009, WHAT ELECTRICITY PRI
+   Brounen D, 2012, EUR ECON REV, V56, P931, DOI 10.1016/j.euroecorev.2012.02.007
+   Burke PJ, 2018, ENERG J, V39, P123, DOI 10.5547/01956574.39.2.pbur
+   Cheng J., 2019, JOINT OPTIMIZATION C, P61
+   Clack CTM, 2015, INT J ELEC POWER, V68, P103, DOI 10.1016/j.ijepes.2014.12.049
+   Costa A, 2018, INT J ELEC POWER, V99, P594, DOI 10.1016/j.ijepes.2018.01.020
+   Csikós A, 2017, TRANSPORT RES C-EMER, V83, P120, DOI 10.1016/j.trc.2017.08.002
+   Darayi M, 2017, NETW SPAT ECON, V17, P1111, DOI 10.1007/s11067-017-9359-9
+   DeBruhl B., 2018, OPTIMIZING MISINFORM, P1
+   DifferentialEquations.jl, SCI MACH LEARN SCIML
+   Dormand J.R., 1980, J COMPUT APPL MATH, V6, P19, DOI DOI 10.1016/0771-050X(80)90013-3
+   Dunning I, 2017, SIAM REV, V59, P295, DOI 10.1137/15M1020575
+   EIA Website, US
+   Fang X, 2012, IEEE COMMUN SURV TUT, V14, P944, DOI 10.1109/SURV.2011.101911.00087
+   Floridi L, 2005, PHILOS PHENOMEN RES, V70, P351, DOI 10.1111/j.1933-1592.2005.tb00531.x
+   Ghorbani-Renani N, 2020, RELIAB ENG SYST SAFE, V199, DOI 10.1016/j.ress.2020.106907
+   González AD, 2016, COMPUT-AIDED CIV INF, V31, P334, DOI 10.1111/mice.12171
+   Hamil J. Todd, 2007, International Journal of Operational Research, V2, P357, DOI 10.1504/IJOR.2007.014168
+   Hamill J.T., 2006, ANAL LAYERED SOCIAL
+   Han QY, 2018, PEER PEER NETW APPL, V11, P955, DOI 10.1007/s12083-017-0616-y
+   Haraguchi M, 2016, INT J DISASTER RESIL, V7, P133, DOI 10.1108/IJDRBE-03-2015-0015
+   He ZB, 2015, INT CON DISTR COMP S, P205, DOI 10.1109/ICDCS.2015.29
+   Hethcote HW, 2000, SIAM REV, V42, P599, DOI 10.1137/S0036144500371907
+   Hosseini S, 2016, RELIAB ENG SYST SAFE, V145, P47, DOI 10.1016/j.ress.2015.08.006
+   Hsu NS, 2002, J WATER RES PL-ASCE, V128, P102, DOI 10.1061/(ASCE)0733-9496(2002)128:2(102)
+   Huang KX, 2020, IEEE T IND ELECTRON, V67, P2371, DOI 10.1109/TIE.2019.2907451
+   Jain M, 2015, INT CONF SMART GRID, P453, DOI 10.1109/SmartGridComm.2015.7436342
+   Jin F., 2013, P 7 WORKSH SOC NETW, P1, DOI [DOI 10.1145/2501025.2501027, 10.1145/2501025.2501027]
+   Jiyoung Woo, 2011, 2011 IEEE International Conference on Intelligence and Security Informatics (ISI 2011), P15, DOI 10.1109/ISI.2011.5984043
+   Keeling MJ, 2005, J R SOC INTERFACE, V2, P295, DOI 10.1098/rsif.2005.0051
+   Kermack WO, 1927, P R SOC LOND A-CONTA, V115, P700, DOI 10.1098/rspa.1927.0118
+   Khurana P., 2018, P 3 INT C INTERNET T, P26, DOI DOI 10.2139/SSRN.3166095
+   Kovendan AKP, 2017, LECT NOTES ELECTR EN, V403, P275, DOI 10.1007/978-981-10-2999-8_23
+   Leuthold FU, 2012, NETW SPAT ECON, V12, P75, DOI 10.1007/s11067-010-9148-1
+   Li WJ, 2020, HUM-CENT COMPUT INFO, V10, DOI 10.1186/s13673-020-00226-w
+   Liang G, 2015, IEEE TRANS COMPUT SO, V2, P99, DOI 10.1109/TCSS.2016.2517458
+   Liu QM, 2017, PHYSICA A, V469, P372, DOI 10.1016/j.physa.2016.11.067
+   Liu W, 2020, RELIAB ENG SYST SAFE, V193, DOI 10.1016/j.ress.2019.106617
+   Luenberger D. G., 1997, Optimization by vector space methods
+   Lund PD, 2015, RENEW SUST ENERG REV, V45, P785, DOI 10.1016/j.rser.2015.01.057
+   Martin A, 2006, MATH PROGRAM, V105, P563, DOI 10.1007/s10107-005-0665-5
+   Medvedeva M, 2021, MATH METHOD APPL SCI, V44, P3819, DOI 10.1002/mma.6985
+   Meel P, 2020, EXPERT SYST APPL, V153, DOI 10.1016/j.eswa.2019.112986
+   Miller M, 2016, ENERG POLICY, V97, P235, DOI 10.1016/j.enpol.2016.07.031
+   Molina M D., 2019, Journalism and truth in an age of social media, P40
+   Nasrolahpour E., 2012, 2012 20th Iranian Conference on Electrical Engineering (ICEE 2012), P416, DOI 10.1109/IranianCEE.2012.6292394
+   Nguyen L.N., 2019, VULNERABILITY ASSESS, P1
+   Ning C, 2019, PHYSICA A, V523, P671, DOI 10.1016/j.physa.2019.01.104
+   Ouyang M, 2014, RELIAB ENG SYST SAFE, V121, P43, DOI 10.1016/j.ress.2013.06.040
+   Pastor-Satorras R, 2015, REV MOD PHYS, V87, P925, DOI 10.1103/RevModPhys.87.925
+   QGIS, ABOUT US
+   Raman G, 2020, PLOS ONE, V15, DOI 10.1371/journal.pone.0236517
+   Raman G, 2019, IEEE T IND INFORM, V15, P5575, DOI 10.1109/TII.2019.2903882
+   Rui XB, 2018, PHYSICA A, V506, P254, DOI 10.1016/j.physa.2018.04.062
+   Sahafizadeh E, 2018, PHYSICA A, V506, P412, DOI 10.1016/j.physa.2018.04.038
+   Santos-d'Amorim K., 2021, Encontros Bibli: Revista Eletronica de Biblioteconomia e Ciencia Da Informacao, V26, P01, DOI DOI 10.5007/1518-2924.2021.E76900
+   Schuitema G, 2017, IEEE POWER ENERGY M, V15, P53, DOI 10.1109/MPE.2016.2620658
+   Shrivastava G, 2020, IEEE T COMPUT SOC SY, V7, P1159, DOI 10.1109/TCSS.2020.3014135
+   Soltan S, 2019, IEEE SYST J, V13, P625, DOI 10.1109/JSYST.2018.2825785
+   Statista website, US
+   Tahiri A, 2018, WATER RESOUR MANAG, V32, DOI 10.1007/s11269-018-2004-7
+   Tang DG, 2019, IEEE ACCESS, V7, P80491, DOI 10.1109/ACCESS.2019.2923578
+   Tapia AG, 2019, RISK ANAL, V39, P2032, DOI 10.1111/risa.13372
+   Thomaselli R., 2020, MAN TRIES DELAY FLIG
+   Tian W, 2020, IEEE ACCESS, V8, P64075, DOI 10.1109/ACCESS.2020.2984795
+   Tsitouras C, 2011, COMPUT MATH APPL, V62, P770, DOI 10.1016/j.camwa.2011.06.002
+   Tufnell N., 2014, WIRED
+   Vasin A, 2020, J GLOBAL OPTIM, V76, P499, DOI 10.1007/s10898-019-00785-y
+   Vosoughi S, 2018, SCIENCE, V359, P1146, DOI 10.1126/science.aap9559
+   Wang B, 2021, ENERG BUILDINGS, V240, DOI 10.1016/j.enbuild.2021.110888
+   Wang QY, 2015, KNOWL-BASED SYST, V81, P46, DOI 10.1016/j.knosys.2015.02.006
+   Wang Y, 2021, COMPLEXITY, V2021, DOI 10.1155/2021/6693334
+   Waniek M, 2021, SCI REP-UK, V11, DOI 10.1038/s41598-021-84291-w
+   Wardle C., 2018, Journalism, fake news disinformation: Handbook for journalism education and training, P43
+   Watts DJ, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.1912443118
+   Wirtz M, 2021, ENERG CONVERS MANAGE, V240, DOI 10.1016/j.enconman.2021.114249
+   Woo J, 2016, SPRINGERPLUS, V5, DOI 10.1186/s40064-016-1675-x
+   Zetter K., Wired
+   Zhao LJ, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0124978
+   Zhao LJ, 2012, PHYSICA A, V391, P2444, DOI 10.1016/j.physa.2011.12.008
+   Zhao ZL, 2020, EPJ DATA SCI, V9, DOI 10.1140/epjds/s13688-020-00224-z
+NR 96
+TC 1
+Z9 1
+U1 2
+U2 21
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD JUL 26
+PY 2022
+VL 12
+IS 1
+AR 12707
+DI 10.1038/s41598-022-16832-w
+PG 14
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 3L8HT
+UT WOS:000835004100056
+PM 35882902
+OA gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Hâncean, MG
+   Lerner, J
+   Perc, M
+   Oana, I
+   Bunaciu, DA
+   Stoica, AA
+   Ghita, MC
+AF Hancean, Marian-Gabriel
+   Lerner, Juergen
+   Perc, Matjaz
+   Oana, Iulian
+   Bunaciu, David-Andrei
+   Stoica, Adelina Alexandra
+   Ghita, Maria-Cristina
+TI Occupations and their impact on the spreading of COVID-19 in urban
+   communities
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID HEALTH-CARE WORKERS; NETWORKS
+AB The current pandemic has disproportionally affected the workforce. To improve our understanding of the role that occupations play in the transmission of COVID-19, we analyse real-world network data that were collected in Bucharest between August 1st and October 31st 2020. The data record sex, age, and occupation of 6895 patients and the 13,272 people they have interacted with, thus providing a social network from an urban setting through which COVID-19 has spread. Quite remarkably, we find that medical occupations have no significant effect on the spread of the virus. Instead, we find common transmission chains to start with infected individuals who hold jobs in the private sector and are connected with non-active alters, such as spouses, siblings, or elderly relatives. We use relational hyperevent models to assess the most likely homophily and network effects in the community transmission. We detect homophily with respect to age and anti-homophily with respect to sex and employability. We note that, although additional data would be welcomed to perform more in-depth network analyses, our findings may help public authorities better target under-performing vaccination campaigns.
+C1 [Hancean, Marian-Gabriel; Oana, Iulian; Bunaciu, David-Andrei; Stoica, Adelina Alexandra; Ghita, Maria-Cristina] Univ Bucharest, Dept Sociol, Panduri 90-92, Bucharest 050663, Romania.
+   [Lerner, Juergen] Univ Konstanz, Dept Comp & Informat Sci, D-78457 Constance, Germany.
+   [Lerner, Juergen] Rhein Westfal TH Aachen, Human Technol Ctr, D-52062 Aachen, Germany.
+   [Perc, Matjaz] Univ Maribor, Fac Nat Sci & Math, Koroska Cesta 160, Maribor 2000, Slovenia.
+   [Perc, Matjaz] China Med Univ, China Med Univ Hosp, Dept Med Res, Taichung 404332, Taiwan.
+   [Perc, Matjaz] Alma Mater Europaea, Slovenska Ulica 17, Maribor 2000, Slovenia.
+   [Perc, Matjaz] Complex Sci Hub Vienna, Josefstadterstr 39, A-1080 Vienna, Austria.
+C3 University of Bucharest; University of Konstanz; RWTH Aachen University;
+   University of Maribor; China Medical University Taiwan; China Medical
+   University Hospital - Taiwan
+RP Hâncean, MG (corresponding author), Univ Bucharest, Dept Sociol, Panduri 90-92, Bucharest 050663, Romania.
+EM gabriel.hancean@sas.unibuc.ro
+RI Bunaciu, David/GLS-9362-2022; Ghita, Maria/GXW-3326-2022; Oana,
+   Iulian/AFZ-3244-2022; Perc, Matjaz/A-5148-2009; Hancean,
+   Marian-Gabriel/B-7145-2019
+OI Perc, Matjaz/0000-0002-3087-541X; Oana, Iulian/0000-0002-6052-6595;
+   Hancean, Marian-Gabriel/0000-0001-9358-5287
+FU Executive Unit for Financing Higher Education, Research, Development and
+   Innovation (UEFISCDI) [PN-III-P4-ID-PCE-2020-2828]; Deutsche
+   Forschungsgemeinschaft (DFG) [321869138]; Slovenian Research Agency
+   [P1-0403, J1-2457]
+FX This study was supported in part by the grants from the Executive Unit
+   for Financing Higher Education, Research, Development and Innovation
+   (UEFISCDI) (PN-III-P4-ID-PCE-2020-2828 to M.-G.H.); Deutsche
+   Forschungsgemeinschaft (DFG) (321869138 to J.L.); and Slovenian Research
+   Agency (P1-0403 and J1-2457 to M. P.).
+CR Al-Kuwari MG, 2021, J OCCUP MED TOXICOL, V16, DOI 10.1186/s12995-021-00311-5
+   Askitas N, 2021, SCI REP-UK, V11, DOI 10.1038/s41598-021-81442-x
+   Bambra C, 2020, J EPIDEMIOL COMMUN H, V74, P964, DOI 10.1136/jech-2020-214401
+   Behrens GMN, 2020, INFECTION, V48, P631, DOI 10.1007/s15010-020-01461-0
+   Boeri T., 2020, CEPR Covid Economics, V2, P60
+   Borgan O, 1995, ANN STAT, V23, P1749, DOI 10.1214/aos/1176324322
+   Burdorf A, 2021, SCAND J WORK ENV HEA, V47, P245, DOI 10.5271/sjweh.3956
+   Burgos Rodrigo M, 2021, Drugs Context, V10, DOI 10.7573/dic.2020-12-2
+   Christakis NA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0012948
+   Cohen R, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.247901
+   Control CfD Prevention., 2020, COR DIS COVID 19 TRA, V12
+   Costa LD, 2007, ADV PHYS, V56, P167, DOI 10.1080/00018730601170527
+   Danon L., 2011, Interdisciplinary Perspectives on Infectious Diseases, V2011, P284909, DOI 10.1155/2011/284909
+   de Gier B, 2020, EUROSURVEILLANCE, V25, P7, DOI 10.2807/1560-7917.ES.2020.25.50.2001884
+   ECDC European Centre for Disease Prevention and Control, 2020, COVID 19 CLUST OUTBR
+   Elliot P., 2021, REACT 1 ROUND 13 FIN
+   European Centre for Disease Prevention and Control, 2022, COVID 19 VACC TRACK
+   Flaxman S, 2020, NATURE, V584, P257, DOI 10.1038/s41586-020-2405-7
+   Forman R, 2021, HEALTH POLICY, V125, P553, DOI 10.1016/j.healthpol.2021.03.013
+   Fumanelli L, 2012, PLOS COMPUT BIOL, V8, DOI 10.1371/journal.pcbi.1002673
+   Gallos LK, 2007, PHYS REV E, V75, DOI 10.1103/PhysRevE.75.045104
+   Gholami M, 2021, INT J INFECT DIS, V104, P335, DOI 10.1016/j.ijid.2021.01.013
+   Gosak M, 2021, NEW J PHYS, V23, DOI 10.1088/1367-2630/abf459
+   Gross T, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.208701
+   Hancean Marian-Gabriel, 2021, Zenodo, DOI 10.5281/ZENODO.6899738
+   Hâncean MG, 2022, SCI DATA, V9, DOI 10.1038/s41597-022-01374-7
+   Hâncean MG, 2021, J COMPLEX NETW, V9, DOI 10.1093/comnet/cnab026
+   Hâncean MG, 2020, J COMPLEX NETW, V8, DOI 10.1093/comnet/cnaa041
+   Hâncean MG, 2020, ROY SOC OPEN SCI, V7, DOI 10.1098/rsos.200780
+   Health National Institute of Public Health, VACC REP
+   Heymann DL, 2006, CURR TOP MICROBIOL, V304, P1
+   Hu K, 2006, CHINESE PHYS, V15, P2782, DOI 10.1088/1009-1963/15/12/003
+   Huang KL., 2020, PHYS PROXIMITY OTHER
+   International Labour Organization, 2012, International Standard Classification of Occupations: Structure, V1
+   Kain MP, 2021, EPIDEMICS-NETH, V34, DOI [10.1016/j.epidem.2020.100430, 10.1101/2020.06.30.20143115]
+   Keogh RH., 2014, CASE CONTROL STUDIES
+   Lan FY, 2021, INFECT CONT HOSP EP, V42, P1473, DOI 10.1017/ice.2021.17
+   Lan FY, 2020, PLOS ONE, V15, DOI 10.1371/journal.pone.0233588
+   Lerner J., PREPRINT
+   Lerner J, EVENT NETWORK ANAL E
+   Lerner J, 2021, SOC NETWORKS, V66, P224, DOI 10.1016/j.socnet.2021.04.001
+   Lerner J, 2020, NETW SCI, V8, P97, DOI 10.1017/nws.2019.57
+   Lerner J, 2019, Arxiv, DOI arXiv:1912.07403
+   Magnusson K., 2020, PREPRINT, DOI 10.29.20220426
+   Maheshwari P, 2020, APPL NETW SCI, V5, DOI 10.1007/s41109-020-00344-5
+   Markovic R, 2021, RESULTS PHYS, V26, DOI 10.1016/j.rinp.2021.104433
+   McPherson Miller, 2019, Socius, V5, DOI 10.1177/2378023119868591
+   Moreno Y, 2002, EUR PHYS J B, V26, P521, DOI 10.1140/epjb/e20020122
+   Pastor-Satorras R, 2002, PHYS REV E, V65, DOI 10.1103/PhysRevE.65.036104
+   Pastor-Satorras R, 2001, PHYS REV E, V63, DOI 10.1103/PhysRevE.63.066117
+   Perc M, 2020, FRONT PHYS-LAUSANNE, V8, DOI 10.3389/fphy.2020.00127
+   Perra N, 2021, PHYS REP, V913, P1, DOI 10.1016/j.physrep.2021.02.001
+   Sierpinski R, 2020, INT J OCCUP MED ENV, V33, P781, DOI 10.13075/ijomeh.1896.01663
+   Sikkema RS, 2020, LANCET INFECT DIS, V20, P1273, DOI 10.1016/S1473-3099(20)30527-2
+   Sturmberg JP, 2020, J EVAL CLIN PRACT, V26, P1361, DOI 10.1111/jep.13419
+   Therneau T., SURVIVAL PACKAGE R
+   Wang Z, 2016, PHYS REP, V664, P1, DOI 10.1016/j.physrep.2016.10.006
+   Wouters OJ, 2021, LANCET, V397, P1023, DOI 10.1016/S0140-6736(21)00306-8
+   Zhang MC, 2021, AM J IND MED, V64, P39, DOI 10.1002/ajim.23199
+   Zheng C, 2020, J HOSP INFECT, V106, P325, DOI 10.1016/j.jhin.2020.07.025
+NR 60
+TC 22
+Z9 23
+U1 0
+U2 8
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD AUG 18
+PY 2022
+VL 12
+IS 1
+AR 14115
+DI 10.1038/s41598-022-18392-5
+PG 12
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 3V8XO
+UT WOS:000841942700035
+PM 35982107
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Rabb, N
+   Cowen, L
+   de Ruiter, JP
+   Scheutz, M
+AF Rabb, Nicholas
+   Cowen, Lenore
+   de Ruiter, Jan P.
+   Scheutz, Matthias
+TI Cognitive cascades: How to model (and potentially counter) the spread of
+   fake news
+SO PLOS ONE
+LA English
+DT Article
+ID COMPLEX CONTAGIONS; POLITICAL-IDEOLOGY; PUBLIC-HEALTH; DYNAMICS;
+   DIFFUSION; EMERGENCE; BELIEF; SCALE; MEDIA
+AB Understanding the spread of false or dangerous beliefs-often called misinformation or disinformation-through a population has never seemed so urgent. Network science researchers have often taken a page from epidemiologists, and modeled the spread of false beliefs as similar to how a disease spreads through a social network. However, absent from those disease-inspired models is an internal model of an individual's set of current beliefs, where cognitive science has increasingly documented how the interaction between mental models and incoming messages seems to be crucially important for their adoption or rejection. Some computational social science modelers analyze agent-based models where individuals do have simulated cognition, but they often lack the strengths of network science, namely in empirically-driven network structures. We introduce a cognitive cascade model that combines a network science belief cascade approach with an internal cognitive model of the individual agents as in opinion diffusion models as a public opinion diffusion (POD) model, adding media institutions as agents which begin opinion cascades. We show that the model, even with a very simplistic belief function to capture cognitive effects cited in disinformation study (dissonance and exposure), adds expressive power over existing cascade models. We conduct an analysis of the cognitive cascade model with our simple cognitive function across various graph topologies and institutional messaging patterns. We argue from our results that population-level aggregate outcomes of the model qualitatively match what has been reported in COVID-related public opinion polls, and that the model dynamics lend insights as to how to address the spread of problematic beliefs. The overall model sets up a framework with which social science misinformation researchers and computational opinion diffusion modelers can join forces to understand, and hopefully learn how to best counter, the spread of disinformation and "alternative facts."
+C1 [Rabb, Nicholas; Cowen, Lenore; de Ruiter, Jan P.; Scheutz, Matthias] Tufts Univ, Dept Comp Sci, Medford, MA 02155 USA.
+   [de Ruiter, Jan P.] Tufts Univ, Dept Psychol, Medford, MA USA.
+C3 Tufts University; Tufts University
+RP Rabb, N (corresponding author), Tufts Univ, Dept Comp Sci, Medford, MA 02155 USA.
+EM nicholas.rabb@tufts.edu
+OI Rabb, Nicholas/0000-0002-6362-0448; Scheutz,
+   Matthias/0000-0002-0064-2789
+FU National Science Foundation [NSF-NRT 2021874]; NSF [CCF-1934553]
+FX We thank the Tufts Data Intensive Studies Center (DISC) and National
+   Science Foundation grant NSF-NRT 2021874, for supporting this research.
+   LC and NR also thank NSF CCF-1934553 for additional support.
+CR Abebe R, 2022, ACM T KNOWL DISCOV D, V16, DOI 10.1145/3466617
+   Adamic LA, 2016, PROCEEDINGS OF THE NINTH ACM INTERNATIONAL CONFERENCE ON WEB SEARCH AND DATA MINING (WSDM'16), P473, DOI 10.1145/2835776.2835827
+   [Anonymous], 2012, CENT EUR J OPER RES, DOI [10.1007/s10100-011-0210-y, DOI 10.1007/s10100-011-0210-y]
+   [Anonymous], 1994, Manufacturing consent: The political economy of the mass media
+   [Anonymous], 2005, Simulation for the Social Scientist
+   Anunrojwong Jerry, 2020, SOCIAL LEARNING PLAT
+   Arendt F, 2019, MEDIA PSYCHOL, V22, P526, DOI 10.1080/15213269.2017.1338963
+   Axelrod R, 1997, J CONFLICT RESOLUT, V41, P203, DOI 10.1177/0022002797041002001
+   Bago B, 2020, J EXP PSYCHOL GEN, V149, P1608, DOI 10.1037/xge0000729
+   Bail CA, 2018, P NATL ACAD SCI USA, V115, P9216, DOI 10.1073/pnas.1804840115
+   Bakshy E, 2015, SCIENCE, V348, P1130, DOI 10.1126/science.aaa1160
+   Baldassarri D, 2007, AM SOCIOL REV, V72, P784, DOI 10.1177/000312240707200507
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   BEGG IM, 1992, J EXP PSYCHOL GEN, V121, P446, DOI 10.1037/0096-3445.121.4.446
+   Benkler Y., 2018, NETWORK PROPAGANDA M
+   Bernays E., 2004, Propaganda
+   Brady WJ, 2020, PERSPECT PSYCHOL SCI, V15, P978, DOI 10.1177/1745691620917336
+   Brainard J, 2020, REV EPIDEMIOL SANTE
+   Brennen JS., 2020, THESIS U OXFORD
+   Bursztyn Leonardo, 2020, Becker Friedman Institute Working Paper 2020-44, DOI DOI 10.2139/SSRN.3580487
+   Cardenal AS, 2019, INT J PRESS/POLIT, V24, P465, DOI 10.1177/1940161219862988
+   Centola D, 2005, AM J SOCIOL, V110, P1009, DOI 10.1086/427321
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   Centola D, 2007, PHYSICA A, V374, P449, DOI 10.1016/j.physa.2006.06.018
+   Christakis NA, 2013, STAT MED, V32, P556, DOI 10.1002/sim.5408
+   Clinton Joshua, 2020, PARTISAN PANDEMIC PA
+   Conover M. D., 2011, 5 INT AAAI C WEBL SO
+   COX EP, 1980, J MARKETING RES, V17, P407, DOI 10.1177/002224378001700401
+   Dandekar P, 2013, P NATL ACAD SCI USA, V110, P5791, DOI 10.1073/pnas.1217220110
+   Deffuant G, 2000, APPLICATIONS OF SIMULATION TO SOCIAL SCIENCES, P87, DOI 10.1142/S0219525900000078
+   DEGROOT MH, 1974, J AM STAT ASSOC, V69, P118, DOI 10.2307/2285509
+   Del Vicario M, 2016, P NATL ACAD SCI USA, V113, P554, DOI 10.1073/pnas.1517441113
+   DellaPosta D, 2015, AM J SOCIOL, V120, P1473, DOI 10.1086/681254
+   Ding B, 2018, CHIN CONT DECIS CONF, P1836, DOI 10.1109/CCDC.2018.8407425
+   Ebrahimi R, 2017, IEEE T NETW SCI ENG, V4, P201, DOI 10.1109/TNSE.2017.2718024
+   Ehsanfar A., 2017, 2017 12th System of Systems Engineering Conference (SoSE), P1, DOI DOI 10.1109/EI2.2017.8245673
+   Epstein B, 2012, ROUT STU PHILOS SCI, V9, P115
+   ERDOS P, 1960, B INT STATIST INST, V38, P343
+   Ferreira GBS, 2018, 2018 CONFERENCE ON ARTIFICIAL LIFE (ALIFE 2018), P194
+   Ferreira GBS, 2018, ADAPT BEHAV, V26, P285, DOI 10.1177/1059712318798601
+   FESTINGER L, 1962, SCI AM, V207, P93, DOI 10.1038/scientificamerican1062-93
+   Fowler JH, 2010, P NATL ACAD SCI USA, V107, P5334, DOI 10.1073/pnas.0913149107
+   Friedkin NE, 2016, SCIENCE, V354, P321, DOI 10.1126/science.aag2624
+   Gertz M, 2020, 6 DIFFERENT POLLS SH
+   Giddens Anthony, 1984, CONSTITUTION SOC
+   Gilbert N., 2019, Agent-based models
+   Goel S, 2016, MANAGE SCI, V62, P180, DOI 10.1287/mnsc.2015.2158
+   GOFFMAN W, 1964, NATURE, V204, P225, DOI 10.1038/204225a0
+   Goldberg A, 2018, AM SOCIOL REV, V83, P897, DOI 10.1177/0003122418797576
+   Gramlich J, 2020, 20 STRIKING FINDINGS
+   GRANOVETTER M, 1978, AM J SOCIOL, V83, P1420, DOI 10.1086/226707
+   Grim P, 2020, COMPUTATIONAL PHILOS
+   Guilbeault D, 2018, COMPUT SOC SCI, P3, DOI 10.1007/978-3-319-77332-2_1
+   Hegselmann R, 2002, JASSS-J ARTIF SOC S, V5
+   Islam MS, 2020, AM J TROP MED HYG, V103, P1621, DOI 10.4269/ajtmh.20-0812
+   Iyengar S, 2009, J COMMUN, V59, P19, DOI 10.1111/j.1460-2466.2008.01402.x
+   Jost JT, 2012, MOTIV EMOTION, V36, P55, DOI 10.1007/s11031-011-9260-7
+   Jost JT, 2009, ANNU REV PSYCHOL, V60, P307, DOI 10.1146/annurev.psych.60.110707.163600
+   Jost JT, 2003, PSYCHOL BULL, V129, P339, DOI 10.1037/0033-2909.129.3.339
+   Jurkowitz M, 2020, FEWER AM NOW SAY MED
+   Karlsen R, 2020, J BROADCAST ELECTRON, V64, P794, DOI 10.1080/08838151.2020.1835428
+   Kearney MD, 2020, Harvard Kennedy School Misinformation Review, V1, DOI DOI 10.37016/MR-2020-42
+   Kim M, 2011, Arxiv, DOI arXiv:1106.5053
+   Kopp C, 2018, PLOS ONE, V13, DOI 10.1371/journal.pone.0207383
+   Kouzy R, 2020, CUREUS J MED SCIENCE, V12, DOI 10.7759/cureus.7255
+   Kramer ADI, 2014, P NATL ACAD SCI USA, V111, P8788, DOI 10.1073/pnas.1320040111
+   Li K, 2020, INFORM FUSION, V56, P1, DOI 10.1016/j.inffus.2019.09.006
+   Lippmann W, 1946, Public Opinion, V1
+   Macal CM, 2009, WINT SIMUL C PROC, P86, DOI 10.1109/WSC.2009.5429318
+   Maghool S, 2019, PLOS ONE, V14, DOI 10.1371/journal.pone.0225447
+   Matz SC, 2017, P NATL ACAD SCI USA, V114, P12714, DOI 10.1073/pnas.1710966114
+   Messing S, 2014, COMMUN RES, V41, P1042, DOI 10.1177/0093650212466406
+   Mitchell A., 2020, 3 MONTHS MANY AM SEE
+   Musco C, 2018, WEB CONFERENCE 2018: PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE (WWW2018), P369, DOI 10.1145/3178876.3186103
+   Nasrinpour HR, 2016, Arxiv, DOI arXiv:1611.07454
+   Pennycook G, 2020, PSYCHOL SCI, V31, P770, DOI 10.1177/0956797620939054
+   Pennycook G, 2019, COGNITION, V188, P39, DOI 10.1016/j.cognition.2018.06.011
+   Pereira Andrea., 2018, IDENTITY CONCERNS DR
+   Pfeffer J., 2017, Networked Governance: New Research Perspectives, P143
+   Porot N, 2021, WIRES COGN SCI, V12, DOI 10.1002/wcs.1539
+   Reynolds C.W., 1987, ACM SIGGRAPH COMPUTE, V21, P25, DOI [DOI 10.1145/37402.37406, 10.1145/37401.37406]
+   Rosenkopf L., 1999, Computational & Mathematical Organization Theory, V5, P361, DOI 10.1023/A:1009620618662
+   Ross B, 2019, EUR J INFORM SYST, V28, P394, DOI 10.1080/0960085X.2018.1560920
+   Ryan B, 1943, RURAL SOCIOL, V8, P15
+   Schaeffer K., 2020, LOOK AMERICANS WHO B
+   SCHELLING TC, 1971, J MATH SOCIOL, V1, P143, DOI 10.1080/0022250X.1971.9989794
+   Scheutz M., 2006, Proceedings of Artificial Life, VX, P412
+   Scheutz M, 2009, MODEL BASED APPROACH, P261
+   Secchi D, 2016, COMPUT MATH ORGAN TH, V22, P88, DOI 10.1007/s10588-015-9199-4
+   Shannon Joel., 2019, USA Today
+   Shugars S, 2021, COMMUN METHODS MEAS, V15, P273, DOI 10.1080/19312458.2020.1768521
+   Sikder O, 2020, SCI REP-UK, V10, DOI 10.1038/s41598-020-62085-w
+   Swire-Thompson B, 2020, J APPL RES MEM COGN, V9, P286, DOI 10.1016/j.jarmac.2020.06.006
+   Swire-Thompson B, 2020, ANNU REV PUBL HEALTH, V41, P433, DOI 10.1146/annurev-publhealth-040119-094127
+   Talev M, 2020, AXIOS IPSOS POLL SKE
+   Tardos, 2003, P 9 ACM SIGKDD INT C, P137, DOI 10.1145/956750.956769
+   Thaler R.H., 2009, Nudge
+   Uscinski J. E., 2020, HARVARD KENNEDY SCH, V1, P1, DOI [10.37016/mr-2020-015, DOI 10.37016/MR-2020-015]
+   Van Bavel JJ, 2020, NAT HUM BEHAV, V4, P460, DOI 10.1038/s41562-020-0884-z
+   Van Bavel JJ, 2018, TRENDS COGN SCI, V22, P213, DOI 10.1016/j.tics.2018.01.004
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Webster JG, 2012, J COMMUN, V62, P39, DOI 10.1111/j.1460-2466.2011.01616.x
+   Wilensky U, 1999, NETLOGO
+   Wiley C, 2019, MINDF CK CAMBRIDGE A
+   ZAJONC RB, 1968, J PERS SOC PSYCHOL, V9, P1, DOI 10.1037/h0025848
+   Zhang HF, 2019, ARTIF INTELL REV, V52, P707, DOI 10.1007/s10462-017-9577-z
+NR 106
+TC 13
+Z9 14
+U1 4
+U2 12
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JAN 7
+PY 2022
+VL 17
+IS 1
+AR e0261811
+DI 10.1371/journal.pone.0261811
+PG 32
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA G3MD3
+UT WOS:000988228800001
+PM 34995299
+OA Green Submitted, gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Obradovich, N
+   Oezak, O
+   Martin, I
+   Ortuno-Ortin, I
+   Awad, E
+   Cebrian, M
+   Cuevas, R
+   Desmet, K
+   Rahwan, I
+   Cuevas, A
+AF Obradovich, Nick
+   Oezak, Oemer
+   Martin, Ignacio
+   Ortuno-Ortin, Ignacio
+   Awad, Edmond
+   Cebrian, Manuel
+   Cuevas, Ruben
+   Desmet, Klaus
+   Rahwan, Iyad
+   Cuevas, Angel
+TI Expanding the measurement of culture with a sample of two billion humans
+SO JOURNAL OF THE ROYAL SOCIETY INTERFACE
+LA English
+DT Article
+DE culture; cultural distance; identity; regional culture; gender
+   differences
+ID EVOLUTION; DIVERSITY; PERCEPTION; TRADITIONS; ETHNICITY; FACEBOOK;
+   DISTANCE; SCIENCE; MODEL; TIME
+AB Culture has played a pivotal role in human evolution. Yet, the ability of social scientists to study culture is limited by the currently available measurement instruments. Scholars of culture must regularly choose between scalable but sparse survey-based methods or restricted but rich ethnographic methods. Here, we demonstrate that massive online social networks can advance the study of human culture by providing quantitative, scalable and high-resolution measurement of behaviourally revealed cultural values and preferences. We employ data across nearly 60 000 topic dimensions drawn from two billion Facebook users across 225 countries and territories. We first validate that cultural distances calculated from this measurement instrument correspond to traditional survey-based and objective measures of cross-national cultural differences. We then demonstrate that this expanded measure enables rich insight into the cultural landscape globally at previously impossible resolution. We analyse the importance of national borders in shaping culture and compare subnational divisiveness with gender divisiveness across countries. Our measure enables detailed investigation into the geopolitical stability of countries, social cleavages within small- and large-scale human groups, the integration of migrant populations and the disaffection of certain population groups from the political process, among myriad other potential future applications.
+C1 [Obradovich, Nick; Cebrian, Manuel; Rahwan, Iyad] Max Planck Inst Human Dev, Ctr Humans & Machines, D-14195 Berlin, Germany.
+   [Oezak, Oemer] Southern Methodist Univ, Ctr Sci Comp, Dept Econ, Dallas, TX 75205 USA.
+   [Oezak, Oemer] IZA, Inst Lab Econ, D-53113 Bonn, Germany.
+   [Oezak, Oemer] GLO Global Lab Org, D-45141 Essen, Germany.
+   [Martin, Ignacio] Nommon Solut & Technol, Madrid 28020, Spain.
+   [Martin, Ignacio] Univ Carlos III Madrid, Dept Telemat Engn, Leganes 28911, Madrid, Spain.
+   [Ortuno-Ortin, Ignacio] Univ Carlos III Madrid, Dept Econ, Getafe 28903, Madrid, Spain.
+   [Awad, Edmond] Univ Exeter Business Sch, Dept Econ, Exeter EX4 4PU, Devon, England.
+   [Cuevas, Ruben; Cuevas, Angel] Univ Carlos III Madrid, St ander Big Data Inst, Dept Telemat Engn, UC3M, Madrid 28911, Spain.
+   [Desmet, Klaus] Southern Methodist Univ, Cox Sch Business, Dept Econ, Dallas, TX 75205 USA.
+   [Desmet, Klaus; Rahwan, Iyad] NBER Natl Bur Econ Res, Cambridge, MA 02138 USA.
+   [Desmet, Klaus] CEPR Ctr Econ Policy Res, London EC1V 0DX, England.
+C3 Max Planck Society; Southern Methodist University; IZA Institute Labor
+   Economics; Universidad Carlos III de Madrid; Universidad Carlos III de
+   Madrid; Universidad Carlos III de Madrid; Southern Methodist University
+RP Rahwan, I (corresponding author), Max Planck Inst Human Dev, Ctr Humans & Machines, D-14195 Berlin, Germany.; Cuevas, A (corresponding author), Univ Carlos III Madrid, St ander Big Data Inst, Dept Telemat Engn, UC3M, Madrid 28911, Spain.; Desmet, K (corresponding author), Southern Methodist Univ, Cox Sch Business, Dept Econ, Dallas, TX 75205 USA.; Desmet, K; Rahwan, I (corresponding author), NBER Natl Bur Econ Res, Cambridge, MA 02138 USA.; Desmet, K (corresponding author), CEPR Ctr Econ Policy Res, London EC1V 0DX, England.
+EM kdesmet@smu.edu; rahwan@mpib-berlin.mpg.de; acrumin@it.uc3m.es
+RI Martínez, Ignacio/AAC-7855-2020; Cuevas, Rubén/G-6917-2015; Rahwan,
+   Iyad/ABB-2422-2020; Cuevas Rumin, Angel/B-9418-2017
+OI Cebrian, Manuel/0000-0002-3681-7982; Cuevas Rumin,
+   Angel/0000-0002-5738-0820; /0000-0001-7272-7186; Rahwan,
+   Iyad/0000-0002-1796-4303
+CR Acerbi A, 2009, P NATL ACAD SCI USA, V106, P18931, DOI 10.1073/pnas.0908889106
+   Alesina A, 2005, J ECON LIT, V43, P762, DOI 10.1257/002205105774431243
+   Alesina A, 2000, AM ECON REV, V90, P1276, DOI 10.1257/aer.90.5.1276
+   Alesina A, 1997, Q J ECON, V112, P1027, DOI 10.1162/003355300555411
+   [Anonymous], 2010, RUZHYA MIKROBY STALI
+   Archer J, 2006, PERS SOC PSYCHOL REV, V10, P133, DOI 10.1207/s15327957pspr1002_3
+   Arendt Hannah., 2007, REFLECTIONS LIT CULT
+   Atkinson QD, 2011, SCIENCE, V332, P346, DOI 10.1126/science.1199295
+   Atran Scott, 2010, Biological Theory, V5, P18, DOI 10.1162/BIOT_a_00018
+   Bail CA, 2014, THEOR SOC, V43, P465, DOI 10.1007/s11186-014-9216-5
+   BETANCOURT H, 1993, AM PSYCHOL, V48, P629, DOI 10.1037/0003-066X.48.6.629
+   Blondel VD, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/10/P10008
+   Bontempo RN, 1997, RISK ANAL, V17, P479, DOI 10.1111/j.1539-6924.1997.tb00888.x
+   Boyd R., 2005, NOT GENES ALONE CULT
+   Brady WJ, 2017, P NATL ACAD SCI USA, V114, P7313, DOI 10.1073/pnas.1618923114
+   Brewer J., 2000, ETHNOGRAPHY
+   Carrignon S, 2019, PALGR COMMUN, V5, DOI 10.1057/s41599-019-0295-9
+   Cavalli-Sforza L., 2000, GENES PEOPLES LANGUA
+   Cavalli-Sforza L.L., 1994, HIST GEOGRAPHY HUMAN
+   Cavalli-Sforza LL., 1981, CULTURAL TRANSMISSIO
+   Chau PYK, 2002, COMMUN ACM, V45, P138, DOI 10.1145/570907.570911
+   CHILTON S, 1988, WESTERN POLIT QUART, V41, P419, DOI 10.2307/448596
+   Cohen AB, 2009, AM PSYCHOL, V64, P194, DOI 10.1037/a0015308
+   Craig E., 1998, ROUTLEDGE ENCY PHILO
+   Dean LG, 2012, SCIENCE, V335, P1114, DOI 10.1126/science.1213969
+   Desmet K, 2012, J DEV ECON, V97, P322, DOI 10.1016/j.jdeveco.2011.02.003
+   Desmet K, 2011, J ECON GROWTH, V16, P183, DOI 10.1007/s10887-011-9068-z
+   EKMAN P, 1987, J PERS SOC PSYCHOL, V53, P712, DOI 10.1037/0022-3514.53.4.712
+   Faulkner S.L., 2006, REDEFINING CULTURE P, DOI DOI 10.4324/9781410617002
+   Fearon JD, 2003, J ECON GROWTH, V8, P195, DOI 10.1023/A:1024419522867
+   Fearon JD, 2003, AM POLIT SCI REV, V97, P75, DOI 10.1017/S0003055403000534
+   FISHER RJ, 1993, J CONSUM RES, V20, P303, DOI 10.1086/209351
+   Galor O, 2016, AM ECON REV, V106, P3064, DOI 10.1257/aer.20150020
+   Geertz C., 2008, CULTURAL GEOGRAPHY R, P41, DOI DOI 10.4324/9780203931950-11
+   Geertz C., 1993, INTERPRETATION CULTU, P3, DOI DOI 10.4324/9781315613192
+   GOLDSTEIN LJ, 1957, AM ANTHROPOL, V59, P1075, DOI 10.1525/aa.1957.59.6.02a00110
+   Cabañas JG, 2021, COMMUN ACM, V64, P62, DOI 10.1145/3426361
+   Harris Marvin., 2001, CULTURAL MAT STRUGGL
+   Hebert PDN, 2003, P ROY SOC B-BIOL SCI, V270, pS96, DOI 10.1098/rsbl.2003.0025
+   Henrich J, 2016, SECRET OF OUR SUCCESS: HOW CULTURE IS DRIVING HUMAN EVOLUTION, DOMESTICATING OUR SPECIES, AND MAKING US SMARTER, P1
+   Henrich J, 2004, AM ANTIQUITY, V69, P197, DOI 10.2307/4128416
+   Hofstede Geert., 1983, INT STUDIES MANAGEME, V13, P46, DOI DOI 10.1080/00208825.1983.11656358
+   HONG JW, 1987, J ADVERTISING, V16, P55, DOI 10.1080/00913367.1987.10673061
+   HUNTINGTON SP, 1993, FOREIGN AFF, V72, P22, DOI 10.2307/20045621
+   Inglehart Ronald, 2016, 2818659 SSRN, DOI [10.14281/18241.1, DOI 10.14281/18241.1]
+   Kempe M, 2014, J THEOR BIOL, V359, P29, DOI 10.1016/j.jtbi.2014.05.046
+   Kirby S, 2007, P NATL ACAD SCI USA, V104, P5241, DOI 10.1073/pnas.0608222104
+   Kosinski M, 2015, AM PSYCHOL, V70, P543, DOI 10.1037/a0039210
+   Kosinski M, 2013, P NATL ACAD SCI USA, V110, P5802, DOI 10.1073/pnas.1218772110
+   Kottak C.P., 1990, PRIME TIME SOC ANTHR
+   Lazer D, 2009, SCIENCE, V323, P721, DOI 10.1126/science.1167742
+   Luo YD, 2001, J INT BUS STUD, V32, P41, DOI 10.1057/palgrave.jibs.8490937
+   Matz SC, 2017, P NATL ACAD SCI USA, V114, P12714, DOI 10.1073/pnas.1710966114
+   McCambridge J, 2014, J CLIN EPIDEMIOL, V67, P267, DOI 10.1016/j.jclinepi.2013.08.015
+   Mesoudi A, 2018, P ROY SOC B-BIOL SCI, V285, DOI 10.1098/rspb.2018.0712
+   Mesoudi A, 2017, P NATL ACAD SCI USA, V114, P7853, DOI 10.1073/pnas.1620741114
+   Mesoudi A, 2016, CURR OPIN PSYCHOL, V7, P17, DOI 10.1016/j.copsyc.2015.07.001
+   Michel JB, 2011, SCIENCE, V331, P176, DOI 10.1126/science.1199644
+   Moore O.K., 1952, Philosophy of science, V19, P245, DOI DOI 10.1086/287209
+   Murray JH, 2006, POP COMMUN, V4, P185, DOI 10.1207/s15405710pc0403_3
+   Murthy D, 2008, SOCIOLOGY, V42, P837, DOI 10.1177/0038038508094565
+   Muthukrishna M, 2020, PSYCHOL SCI, V31, P678, DOI 10.1177/0956797620916782
+   Obradovich N., 2022, FIGSHARE, DOI [10.6084/m9.figshare.c.5978508, DOI 10.6084/M9.FIGSHARE.C.5978508]
+   Oosterbeek H., 2001, CULTURAL DIFFERENCES, DOI [10.2139/ssrn.286428, DOI 10.2139/SSRN.286428]
+   Ottaviano GIP, 2006, J ECON GEOGR, V6, P9, DOI 10.1093/jeg/lbi002
+   Posner DN, 2004, AM POLIT SCI REV, V98, P529, DOI 10.1017/S0003055404041334
+   Ramachandran S, 2005, P NATL ACAD SCI USA, V102, P15942, DOI 10.1073/pnas.0507611102
+   Rampazzo F, 2021, DEMOGRAPHY, V58, P2193, DOI 10.1215/00703370-9578562
+   Reeves B, 2020, NATURE, V577, P314, DOI 10.1038/d41586-020-00032-5
+   Richerson P.J., 2013, Cultural evolution: society, technology, language, and religion
+   Rogers DS, 2009, P ROY SOC B-BIOL SCI, V276, P3835, DOI 10.1098/rspb.2009.1088
+   Ross MarcH., 2009, Comparative Politics: Rationality, Culture and Structure, P134, DOI DOI 10.1017/CBO9780511804007.007
+   Schimmack U, 2005, PERS SOC PSYCHOL REV, V9, P17, DOI 10.1207/s15327957pspr0901_2
+   SEGALL MH, 1963, SCIENCE, V139, P769, DOI 10.1126/science.139.3556.769
+   Spolaore E., 2016, PALGRAVE HDB EC LANG, P174, DOI DOI 10.1007/978-1-137-32505-1_7
+   SWIDLER A, 1986, AM SOCIOL REV, V51, P273, DOI 10.2307/2095521
+   Tamariz M, 2016, CURR OPIN PSYCHOL, V8, P37, DOI 10.1016/j.copsyc.2015.09.003
+   Taras V, 2009, J INT MANAG, V15, P357, DOI 10.1016/j.intman.2008.08.005
+   Thomson R, 2018, P NATL ACAD SCI USA, V115, P7521, DOI 10.1073/pnas.1713191115
+   Tomasello M., 2009, CULTURAL ORIGINS HUM
+   Tylor EB., 1871, PRIMITIVE CULTURE RE
+   Van der Post DJ, 2008, ANIM BEHAV, V75, P133, DOI 10.1016/j.anbehav.2007.04.021
+   Yuki M, 2005, PERS SOC PSYCHOL B, V31, P48, DOI 10.1177/0146167204271305
+   Zhang Y., 1997, EUR J MARKETING, V31, P134, DOI DOI 10.1108/03090569710157106
+NR 84
+TC 10
+Z9 10
+U1 1
+U2 8
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 1742-5689
+EI 1742-5662
+J9 J R SOC INTERFACE
+JI J. R. Soc. Interface
+PD MAY 25
+PY 2022
+VL 19
+IS 190
+AR 20220085
+DI 10.1098/rsif.2022.0085
+PG 13
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 1N3ZN
+UT WOS:000800597400006
+PM 35611621
+OA Green Submitted, Green Published, hybrid
+DA 2024-11-22
+ER
+
+PT J
+AU Bertogg, A
+   Koos, S
+AF Bertogg, Ariane
+   Koos, Sebastian
+TI Who Received Informal Social Support During the First COVID-19 Lockdown
+   in Germany, and Who Did Not? The Role of Social Networks, Life Course
+   and Pandemic-Specific Risks
+SO SOCIAL INDICATORS RESEARCH
+LA English
+DT Article
+DE Social support; Informal Help; Need; Receiving; Solidarity; COVID-19
+   pandemic; Life Course; Social Networks
+ID CARE; EDUCATION; WORK; TIES
+AB In this article, we study the receipt of informal support during the first wave of the COVID-19 pandemic in Germany. The containment measures have had various, far-reaching consequences for the wellbeing of people, creating demands for economic, practical, and emotional support-even among individuals who hitherto were not in need of support. Existing research has shown substantial levels of informal support during the pandemic, often based on individuals' existing social networks, but has predominantly taken the perspective of donors. In this article, we focus on the "demand" or recipient "side" of informal support, and ask: (1) Who receives which type of informal social support during the pandemic? (2) Who reports unmet need? (3) Which factors explain support receipt, unmet need and the type of support received? To explain patterns of receiving social support, we identify "classic" life course and "new" pandemic-specific risks and complement this perspective with individuals' support potentials from their social networks. Empirically, we use data from an online survey, collected among a quota sample of the German population (n = 4,496) at the end of the first lockdown in late spring 2020. Our analysis shows that one in six respondents received social support, while only 3% report unmet need. Practical and emotional support are most widespread. Using logistic and multinomial logistic regression models our results show that social support in general and the type of support received can be explained by life course and pandemic risks, while unmet need is mainly a consequence of social network structure.
+C1 [Bertogg, Ariane] Univ Konstanz, Inst Adv Studies, Dept Hist & Sociol, Constance, Germany.
+   [Koos, Sebastian] Univ Konstanz, Dept Hist & Sociol, Cluster Excellence Polit Inequal, Constance, Germany.
+C3 University of Konstanz; University of Konstanz
+RP Bertogg, A (corresponding author), Univ Konstanz, Inst Adv Studies, Dept Hist & Sociol, Constance, Germany.
+EM ariane.bertogg@uni-konstanz.de; sebastian.koos@uni-konstanz.de
+RI Koos, Sebastian/S-7741-2016; Bertogg, Ariane/K-9362-2019
+OI Bertogg, Ariane/0000-0001-9959-618X
+FU German Research Foundation (DFG) [EXC-2035/1-390681379]
+FX The collection of data occurred through the Cluster of Excellence "The
+   Politics of Inequality", which is funded by the German Research
+   Foundation (DFG), grant number EXC-2035/1-390681379 (Co-PI Sebastian
+   Koos).
+CR Andersen D., 2020, CONTEXTS, V19, P14, DOI [10.1177/1536504220977928, DOI 10.1177/1536504220977928]
+   ANDERSEN R, 1973, MILBANK FUND Q, V51, P95, DOI 10.2307/3349613
+   Antonucei ToniC., 2010, The handbook of Life-span Development, Social and Emotional Development, P434, DOI [DOI 10.1002/9780470880166.HLSD002012, 10.1002/9780470880166.hlsd002012]
+   Armitage R, 2020, LANCET PUBLIC HEALTH, V5, pE256, DOI 10.1016/S2468-2667(20)30061-X
+   Arnett JJ, 2000, AM PSYCHOL, V55, P469
+   Arpino B., 2020, FINDINGS ON LINE SUR, DOI [10.31235/osf.io/4sfv9, DOI 10.31235/OSF.IO/4SFV9]
+   Attias-Donfut Claudine, 2005, Eur J Ageing, V2, P161, DOI 10.1007/s10433-005-0008-7
+   Barnett K, 2012, LANCET, V380, P37, DOI 10.1016/S0140-6736(12)60240-2
+   BARRERA M, 1983, J COMMUNITY PSYCHOL, V11, P133, DOI 10.1002/1520-6629(198304)11:2<133::AID-JCOP2290110207>3.0.CO;2-L
+   Beggs JJ, 1996, SOC FORCES, V75, P201, DOI 10.2307/2580762
+   Bekkers R, 2011, VOLUNT SECT REV, V2, P337, DOI 10.1332/204080511X6087712
+   Bertogg A, 2021, RES SOC STRAT MOBIL, V74, DOI 10.1016/j.rssm.2021.100612
+   Bertogg A, 2020, AGEING SOC, V40, P735, DOI 10.1017/S0144686X18001320
+   Bradley EH, 2002, HEALTH SERV RES, V37, P1221, DOI 10.1111/1475-6773.01053
+   Brandt M, 2009, EUR SOCIOL REV, V25, P585, DOI 10.1093/esr/jcn076
+   Brown E, 2007, NONPROF VOLUNT SEC Q, V36, P85, DOI 10.1177/0899764006293178
+   Bundesagentur fur Arbeit, 2020, IN KONJ KURZ
+   Carlsen HB, 2021, EUR SOC, V23, pS122, DOI 10.1080/14616696.2020.1818270
+   CARSTENSEN LL, 1992, PSYCHOL AGING, V7, P331, DOI 10.1037/0882-7974.7.3.331
+   Choi NG, 2007, RES AGING, V29, P99, DOI 10.1177/0164027506296759
+   Conkova N, 2018, EUR SOC, V20, P131, DOI 10.1080/14616696.2017.1405058
+   Cooney TM, 2011, AGEING SOC, V31, P1026, DOI 10.1017/S0144686X10001339
+   Douglas M, 2020, BMJ-BRIT MED J, V369, DOI 10.1136/bmj.m1557
+   Elder GH, 1998, CHILD DEV, V69, P1, DOI 10.1111/j.1467-8624.1998.tb06128.x
+   Erlinghagen M, 2010, EUR SOC, V12, P603, DOI 10.1080/14616691003716902
+   Ermer AE, 2019, RES AGING, V41, P336, DOI 10.1177/0164027518815260
+   Esping-Andersen Gosta, 1990, 3 WORLDS WELFARE CAP
+   Eurostat, 2021, ICT usage in Households and by Individuals
+   Fortier N., 2020, International Journal of Wellbeing, V10, P77, DOI DOI 10.5502/IJW.V10I3.1305
+   Gauthier GR, 2021, J GERONTOL B-PSYCHOL, V76, pE88, DOI 10.1093/geronb/gbaa117
+   Granovetter M., 1983, SOCIOLOGICAL THEORY, V1, P201, DOI [https://doi.org/10.2307/202051, 10.2307/202051, DOI 10.2307/202051]
+   Grunow D, 2019, KOLNER Z SOZIOL SOZ, V71, P247, DOI 10.1007/s11577-019-00601-1
+   Hale T, 2021, NAT HUM BEHAV, V5, P529, DOI 10.1038/s41562-021-01079-8
+   Havens JohnJ., 2006, The Non-Profit Sector: A Research Handbook, P542
+   Holst H, 2021, EUR SOC, V23, pS495, DOI 10.1080/14616696.2020.1828979
+   Jordan RE, 2020, BMJ-BRIT MED J, V368, DOI 10.1136/bmj.m1198
+   Kafetsios K, 2006, SOC INDIC RES, V76, P127, DOI 10.1007/s11205-005-4859-2
+   Kahn R. L., 1980, LIFE-SPAN DEV BEHAV, V3, P253, DOI DOI 10.1002/9780470880166.HLSD002012
+   KANIASTY KZ, 1990, J APPL SOC PSYCHOL, V20, P85, DOI 10.1111/j.1559-1816.1990.tb00401.x
+   Kasapoglu A, 2004, SOC INDIC RES, V66, P229, DOI 10.1023/B:SOCI.0000003584.27504.f0
+   Krause N, 2015, RES AGING, V37, P439, DOI 10.1177/0164027514541703
+   Kulic N, 2021, EUR SOC, V23, pS400, DOI 10.1080/14616696.2020.1828974
+   Künemund H, 1999, AGEING SOC, V19, P93, DOI 10.1017/S0144686X99007205
+   Kushtanina V, 2021, EUR SOC, V23, pS564, DOI 10.1080/14616696.2020.1832239
+   Kutak RI, 1938, SOC FORCES, V17, P66, DOI 10.2307/2571151
+   Landes SD, 2019, ADV LIFE COURSE RES, V42, DOI 10.1016/j.alcr.2019.100306
+   Leopold T, 2015, SOC FORCES, V94, P801, DOI 10.1093/sf/sov066
+   Luiggi-Hernández JG, 2020, J HUMANIST PSYCHOL, V60, P626, DOI 10.1177/0022167820937503
+   Mayer KU, 2009, ANNU REV SOCIOL, V35, P413, DOI 10.1146/annurev.soc.34.040507.134619
+   McNamara N, 2021, BRIT J SOC PSYCHOL, V60, P1379, DOI 10.1111/bjso.12456
+   MESSERI P, 1993, J HEALTH SOC BEHAV, V34, P122, DOI 10.2307/2137239
+   Mood C, 2010, EUR SOCIOL REV, V26, P67, DOI 10.1093/esr/jcp006
+   Ohlbrecht H, 2021, EUR SOC, V23, pS905, DOI 10.1080/14616696.2020.1852440
+   Patterson SarahE., 2019, SOCIUS SOCIOLOGICAL, V5, P1, DOI DOI 10.1177/2378023119862737
+   Perry BL, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2020685118
+   Plickert G, 2007, SOC NETWORKS, V29, P405, DOI 10.1016/j.socnet.2007.01.007
+   Putnam R., 1999, BOWLING ALONE
+   Riley MathildaW., 1993, CHANGING CONTRACT GE, P169
+   Sarkisian N, 2016, J SOC PERS RELAT, V33, P361, DOI 10.1177/0265407515597564
+   Schnettler S, 2016, AGEING SOC, V36, P1339, DOI 10.1017/S0144686X15000197
+   Settersten RA, 2020, ADV LIFE COURSE RES, V45, DOI 10.1016/j.alcr.2020.100360
+   Shanahan L, 2022, PSYCHOL MED, V52, P824, DOI 10.1017/S003329172000241X
+   Suanet B, 2017, J GERONTOL B-PSYCHOL, V72, P706, DOI 10.1093/geronb/gbw075
+   Taylor-Gooby P., 2004, New risks, new welfare: the transformation of the European welfare state, DOI DOI 10.1093/019926726X.001.0001
+   Thoits PA, 2011, J HEALTH SOC BEHAV, V52, P145, DOI 10.1177/0022146510395592
+   Travers JL, 2020, BMC GERIATR, V20, DOI 10.1186/s12877-019-1405-7
+   Uslaner E., 2002, SSRN ELECT J, DOI [10.2139/ssrn.824504, DOI 10.2139/SSRN.824504]
+   Vagni G, 2022, SOCIOLOGY, V56, P262, DOI 10.1177/00380385211033147
+   van Groenou MIB, 2016, EUR J AGEING, V13, P271, DOI 10.1007/s10433-016-0370-7
+   Vandecasteele L, 2010, EUR SOC, V12, P257, DOI 10.1080/14616690903056005
+   Varese F, 2000, RATION SOC, V12, P307, DOI 10.1177/104346300012003003
+NR 71
+TC 6
+Z9 7
+U1 3
+U2 10
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0303-8300
+EI 1573-0921
+J9 SOC INDIC RES
+JI Soc. Indic. Res.
+PD SEP
+PY 2022
+VL 163
+IS 2
+BP 585
+EP 607
+DI 10.1007/s11205-022-02890-0
+EA MAR 2022
+PG 23
+WC Social Sciences, Interdisciplinary; Sociology
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics; Sociology
+GA 3X6ST
+UT WOS:000768624900002
+PM 35310536
+OA Green Published, hybrid
+DA 2024-11-22
+ER

@@ -1,0 +1,632 @@
+
+PT J
+AU Mele, A
+   Hao, LX
+   Cape, J
+   Priebe, CE
+AF Mele, Angelo
+   Hao, Lingxin
+   Cape, Joshua
+   Priebe, Carey E.
+TI Spectral Estimation of Large Stochastic Blockmodels with Discrete Nodal
+   Covariates
+SO JOURNAL OF BUSINESS & ECONOMIC STATISTICS
+LA English
+DT Article
+DE Asymptotic normality; Conditionally independent links; Generalized
+   random dot product graphs; Large networks; Spectral estimation;
+   Stochastic blockmodel
+ID SOCIAL NETWORKS; MODEL; INFERENCE; LIKELIHOOD
+AB In many applications of network analysis, it is important to distinguish between observed and unobserved factors affecting network structure. We show that a network model with discrete unobserved link heterogeneity and binary (or discrete) covariates corresponds to a stochastic blockmodel (SBM). We develop a spectral estimator for the effect of covariates on link probabilities, exploiting the correspondence of SBMs and generalized random dot product graphs (GRDPG). We show that computing our estimator is much faster than standard variational expectation-maximization algorithms and scales well for large networks. Monte Carlo experiments suggest that the estimator performs well under different data generating processes. Our application to Facebook data shows evidence of homophily in gender, role and campus-residence, while allowing us to discover unobserved communities. Finally, we establish asymptotic normality of our estimators.
+C1 [Mele, Angelo] Johns Hopkins Univ, Carey Business Sch, Baltimore, MD 21218 USA.
+   [Hao, Lingxin] Johns Hopkins Univ, Dept Sociol, Baltimore, MD 21218 USA.
+   [Cape, Joshua] Univ Wisconsin, Dept Stat, Madison, WI 53706 USA.
+   [Priebe, Carey E.] Johns Hopkins Univ, Dept Appl Math & Stat, Baltimore, MD USA.
+C3 Johns Hopkins University; Johns Hopkins University; University of
+   Wisconsin System; University of Wisconsin Madison; Johns Hopkins
+   University
+RP Mele, A (corresponding author), Johns Hopkins Univ, Carey Business Sch, Baltimore, MD 21218 USA.
+EM angelo.mele@jhu.edu
+RI Mele, Angelo/HIK-2064-2022
+OI Cape, Joshua/0000-0002-1471-1650; Mele, Angelo/0000-0003-2890-6042
+FU Institute of Data Intensive Engineering and Science (IDIES) at Johns
+   Hopkins University; NSF [DMS-1902755, SES-1951005]
+FX Funding from the Institute of Data Intensive Engineering and Science
+   (IDIES) at Johns Hopkins University and NSF grant SES-1951005 is
+   gratefully acknowledged. Joshua Cape also gratefully acknowledges
+   support from NSF grant DMS-1902755.
+CR Abbe E, 2018, FOUND TRENDS COMMUN, V14, P1, DOI 10.1561/0100000067
+   Abowd JM, 1999, ECONOMETRICA, V67, P251, DOI 10.1111/1468-0262.00020
+   Airoldi EM, 2008, J MACH LEARN RES, V9, P1981
+   [Anonymous], 2016, The Oxford handbook of the economics of networks
+   Athreya A, 2021, STAT SCI, V36, P68, DOI 10.1214/20-STS787
+   Athreya A, 2018, J MACH LEARN RES, V18
+   Auerbach E., 2019, IDENTIFICATION ESTIM
+   Badev A., ECONOMETRICA
+   Beaman LA, 2012, REV ECON STUD, V79, P128, DOI 10.1093/restud/rdr017
+   Bickel P, 2013, ANN STAT, V41, P1922, DOI 10.1214/13-AOS1124
+   Bonhomme S, 2019, ECONOMETRICA, V87, P699, DOI 10.3982/ECTA15722
+   Calvó-Armengol A, 2009, REV ECON STUD, V76, P1239, DOI 10.1111/j.1467-937X.2009.00550.x
+   Cape J., 2018, ARXIV
+   Carrell SE, 2013, ECONOMETRICA, V81, P855, DOI 10.3982/ECTA10168
+   Chatterjee S, 2013, ANN STAT, V41, P2428, DOI 10.1214/13-AOS1155
+   Choi DS, 2012, BIOMETRIKA, V99, P273, DOI 10.1093/biomet/asr053
+   Daudin JJ, 2008, STAT COMPUT, V18, P173, DOI 10.1007/s11222-007-9046-7
+   de Paula A., 2017, Advances in Economics and Econometrics: Theory and Applications
+   DeGiorgi G., 2009, IZA DISCUSSION PAPER
+   Dzemski A., 2017, An empirical model of dyadic link formation in a network with unobserved heterogeneity
+   Fafchamps M, 2007, AM ECON REV, V97, P75, DOI 10.1257/aer.97.2.75
+   Fraley C, 1999, J CLASSIF, V16, P297, DOI 10.1007/s003579900058
+   Graham B., 2020, ECONOMETRIC AANALYSI
+   Graham B., 2020, HDB ECONOMETRICS, V7A
+   Graham BS, 2017, ECONOMETRICA, V85, P1033, DOI 10.3982/ECTA12679
+   Hoff PD, 2002, J AM STAT ASSOC, V97, P1090, DOI 10.1198/016214502388618906
+   HUBERT L, 1985, J CLASSIF, V2, P193, DOI 10.1007/BF01908075
+   Jackson MO, 2008, SOCIAL AND ECONOMIC NETWORKS, P1
+   Jochmans K, 2017, REV ECON STAT, V99, P478, DOI 10.1162/REST_a_00620
+   Latouche P, 2012, STAT MODEL, V12, P93, DOI 10.1177/1471082X1001200105
+   Le CM, 2017, RANDOM STRUCT ALGOR, V51, P538, DOI 10.1002/rsa.20713
+   Mele A., REV ECON STAT
+   Mele A, 2022, J BUS ECON STAT, V40, P1377, DOI 10.1080/07350015.2021.1930013
+   Mele A, 2017, ECONOMETRICA, V85, P825, DOI 10.3982/ECTA10400
+   Menzel K, 2017, Working paper
+   Mu C, 2022, IEEE T NETW SCI ENG, V9, P3373, DOI 10.1109/TNSE.2022.3177708
+   Nakajima R, 2007, REV ECON STUD, V74, P897, DOI 10.1111/j.1467-937X.2007.00448.x
+   Nowicki K, 2001, J AM STAT ASSOC, V96, P1077, DOI 10.1198/016214501753208735
+   Rohe K, 2011, ANN STAT, V39, P1878, DOI 10.1214/11-AOS887
+   Roy S, 2019, J COMPUT GRAPH STAT, V28, P609, DOI 10.1080/10618600.2018.1554486
+   Rubin-Delanchy P., J ROYAL STAT SOC B
+   Sweet TM, 2015, J EDUC BEHAV STAT, V40, P635, DOI 10.3102/1076998615606110
+   Tang M, 2022, BERNOULLI, V28, P1049, DOI 10.3150/21-BEJ1376
+   Tang M, 2018, ANN STAT, V46, P2360, DOI 10.1214/17-AOS1623
+   Traud AL, 2012, PHYSICA A, V391, P4165, DOI 10.1016/j.physa.2011.12.021
+   Vu DQ, 2013, ANN APPL STAT, V7, P1010, DOI 10.1214/12-AOAS617
+   Zeleneev A., 2020, DENTIFICATION ESTIMA
+   Zheng D, 2017, IEEE T PARALL DISTR, V28, P1470, DOI 10.1109/TPDS.2016.2618791
+   Zhu M, 2006, COMPUT STAT DATA AN, V51, P918, DOI 10.1016/j.csda.2005.09.010
+NR 49
+TC 1
+Z9 1
+U1 2
+U2 7
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 0735-0015
+EI 1537-2707
+J9 J BUS ECON STAT
+JI J. Bus. Econ. Stat.
+PD OCT 2
+PY 2023
+VL 41
+IS 4
+BP 1364
+EP 1376
+DI 10.1080/07350015.2022.2139709
+EA NOV 2022
+PG 13
+WC Economics; Social Sciences, Mathematical Methods; Statistics &
+   Probability
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Mathematical Methods In Social Sciences;
+   Mathematics
+GA U4ME2
+UT WOS:000884265800001
+DA 2024-11-22
+ER
+
+PT J
+AU Shirzadian, P
+   Antony, B
+   Gattani, AG
+   Tasnina, N
+   Heath, LS
+AF Shirzadian, Pouyan
+   Antony, Blessy
+   Gattani, Akshaykumar G. G.
+   Tasnina, Nure
+   Heath, Lenwood S. S.
+TI A time evolving online social network generation algorithm
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID RECOMMENDATION; GROWTH; MODEL
+AB The rapid growth of online social media usage in our daily lives has increased the importance of analyzing the dynamics of online social networks. However, the dynamic data of existing online social media platforms are not readily accessible. Hence, there is a necessity to synthesize networks emulating those of online social media for further study. In this work, we propose an epidemiology-inspired and community-based, time-evolving online social network generation algorithm (EpiCNet), to generate a time-evolving sequence of random networks that closely mirror the characteristics of real-world online social networks. Variants of the algorithm can produce both undirected and directed networks to accommodate different user interaction paradigms. EpiCNet utilizes compartmental models inspired by mathematical epidemiology to simulate the flow of individuals into and out of the online social network. It also employs an overlapping community structure to enable more realistic connections between individuals in the network. Furthermore, EpiCNet evolves the community structure and connections in the simulated online social network as a function of time and with an emphasis on the behavior of individuals. EpiCNet is capable of simulating a variety of online social networks by adjusting a set of tunable parameters that specify the individual behavior and the evolution of communities over time. The experimental results show that the network properties of the synthetic time-evolving online social network generated by EpiCNet, such as clustering coefficient, node degree, and diameter, match those of typical real-world online social networks such as Facebook and Twitter.
+C1 [Shirzadian, Pouyan; Antony, Blessy; Gattani, Akshaykumar G. G.; Tasnina, Nure; Heath, Lenwood S. S.] Virginia Tech, Dept Comp Sci, Blacksburg, VA 24061 USA.
+C3 Virginia Polytechnic Institute & State University
+RP Shirzadian, P; Gattani, AG (corresponding author), Virginia Tech, Dept Comp Sci, Blacksburg, VA 24061 USA.
+EM pshirzadian@vt.edu; agattani@vt.edu
+CR Akoglu L, 2010, LECT NOTES ARTIF INT, V6119, P410
+   Alotaibi N, 2022, J KING SAUD UNIV-COM, V34, P5646, DOI 10.1016/j.jksuci.2021.08.016
+   [Anonymous], 2012, P 2012 INT MEAS C, DOI DOI 10.1145/2398776.2398794
+   Arazy Ofer, 2009, IT Professional, V11, P38, DOI 10.1109/MITP.2009.76
+   Balcan D, 2010, J COMPUT SCI-NETH, V1, P132, DOI 10.1016/j.jocs.2010.07.002
+   Baldassarri D, 2007, AM SOCIOL REV, V72, P784, DOI 10.1177/000312240707200507
+   BASS FM, 1969, MANAGE SCI, V15, P215, DOI 10.1287/mnsc.15.5.215
+   Bearman PS, 2004, AM J SOCIOL, V110, P44, DOI 10.1086/386272
+   Benyahia O, 2016, LECT NOTES ARTIF INT, V9853, P41, DOI 10.1007/978-3-319-46131-1_9
+   Beutel W., 2013, P 22 INT C WORLD WID, P119, DOI DOI 10.1145/2488388.2488400
+   Carrington PJ., 2011, The SAGE handbook of social network analysis
+   Cazabet R, 2020, J COMPLEX NETW, V8, DOI 10.1093/comnet/cnaa027
+   Cherifi H, 2019, APPL NETW SCI, V4, DOI 10.1007/s41109-019-0238-9
+   Coles N, 2001, BRIT J CRIMINOL, V41, P580, DOI 10.1093/bjc/41.4.580
+   Eubank S, 2004, NATURE, V429, P180, DOI 10.1038/nature02541
+   FELD SL, 1991, AM J SOCIOL, V96, P1464, DOI 10.1086/229693
+   Ferrara E, 2012, EPJ DATA SCI, V1, DOI 10.1140/epjds9
+   Gjoka M, 2010, IEEE INFOCOM SER, DOI 10.1109/infcom.2010.5462078
+   Golbeck J, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0135169
+   Jiang M, 2014, PROCEEDINGS OF THE 20TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING (KDD'14), P941, DOI 10.1145/2623330.2623632
+   Kermack WO, 1927, P R SOC LOND A-CONTA, V115, P700, DOI 10.1098/rspa.1927.0118
+   Koher A, 2019, PHYS REV X, V9, DOI 10.1103/PhysRevX.9.031017
+   Leskovec J., 2007, ACM T KNOWL DISCOV D, P2
+   Leskovec J., 2008, Proceedings of the 17th International Conference on World Wide Web, DOI 10.1145/1367497.1367620
+   Li D., 2021, IEEE T CYBERN
+   Liu FK, 2010, EXPERT SYST APPL, V37, P4772, DOI 10.1016/j.eswa.2009.12.061
+   Low-Beer Daniel, 2004, Afr J AIDS Res, V3, P1, DOI 10.2989/16085900409490313
+   Luo WJ, 2020, IEEE T COMPUT SOC SY, V7, P610, DOI 10.1109/TCSS.2020.2979806
+   Ma H, 2011, ACM T INFORM SYST, V29, DOI 10.1145/1961209.1961212
+   MANSFIELD E, 1961, ECONOMETRICA, V29, P741, DOI 10.2307/1911817
+   Mata AS, 2021, SAO PAULO J MATH SCI, V15, P1025, DOI 10.1007/s40863-021-00268-7
+   MILGRAM S, 1967, PSYCHOL TODAY, V1, P61
+   Mislove A, 2007, IMC'07: PROCEEDINGS OF THE 2007 ACM SIGCOMM INTERNET MEASUREMENT CONFERENCE, P29
+   Mohammadmosaferi KK, 2020, EXPERT SYST APPL, V147, DOI 10.1016/j.eswa.2020.113221
+   Moody J, 2001, AM J SOCIOL, V107, P679, DOI 10.1086/338954
+   Myers SA, 2014, WWW'14 COMPANION: PROCEEDINGS OF THE 23RD INTERNATIONAL CONFERENCE ON WORLD WIDE WEB, P493, DOI 10.1145/2567948.2576939
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   Noveck Beth., 2021, GovLab
+   Ortiz-Ospina E., 2019, The rise of social media
+   Pandit Shashank, 2007, P 16 INT C WORLD WID, P201, DOI DOI 10.1145/1242572.1242600
+   Peres R, 2010, INT J RES MARK, V27, P91, DOI 10.1016/j.ijresmar.2009.12.012
+   Ratkiewicz J., 2011, P INT AAAI C WEB SOC
+   Reed LJ, 1929, J PHYS CHEM-US, V33, P760, DOI 10.1021/j150299a014
+   RICHARDS FJ, 1959, J EXP BOT, V10, P290, DOI 10.1093/jxb/10.2.290
+   Rossetti G, 2017, J COMPLEX NETW, V5, P893, DOI 10.1093/comnet/cnx016
+   Stieglitz S, 2018, INT J INFORM MANAGE, V39, P156, DOI 10.1016/j.ijinfomgt.2017.12.002
+   Ugander J., 2011, The Anatomy of the Facebook Social Graph
+   Walter FE, 2008, AUTON AGENT MULTI-AG, V16, P57, DOI 10.1007/s10458-007-9021-x
+   Wilson C, 2009, EUROSYS'09: PROCEEDINGS OF THE FOURTH EUROSYS CONFERENCE, P205
+   Xu KS, 2014, IEEE J-STSP, V8, P552, DOI 10.1109/JSTSP.2014.2310294
+   Yang XW, 2013, IEEE T PARALL DISTR, V24, P642, DOI 10.1109/TPDS.2012.192
+   Yao L, 2016, PROCEDIA COMPUT SCI, V83, P82, DOI 10.1016/j.procs.2016.04.102
+   Yasami Y, 2017, COMPUT COMMUN, V100, P52, DOI 10.1016/j.comcom.2016.11.010
+   Yousuf MI, 2021, KNOWL INF SYST, V63, P2347, DOI 10.1007/s10115-021-01596-y
+   Yousuf MI, 2020, J STAT PHYS, V179, P1, DOI 10.1007/s10955-020-02517-z
+   Zhu KL, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0100023
+NR 56
+TC 3
+Z9 3
+U1 2
+U2 8
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD JAN 29
+PY 2023
+VL 13
+IS 1
+AR 2395
+DI 10.1038/s41598-023-29443-w
+PG 14
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA VM4ZZ
+UT WOS:001024680800065
+PM 36765153
+OA gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Kitsak, M
+   Ganin, A
+   Elmokashfi, A
+   Cui, HZ
+   Eisenberg, DA
+   Alderson, DL
+   Korkin, D
+   Linkov, I
+AF Kitsak, Maksim
+   Ganin, Alexander
+   Elmokashfi, Ahmed
+   Cui, Hongzhu
+   Eisenberg, Daniel A.
+   Alderson, David L.
+   Korkin, Dmitry
+   Linkov, Igor
+TI Finding shortest and nearly shortest path nodes in large substantially
+   incomplete networks by hyperbolic mapping
+SO NATURE COMMUNICATIONS
+LA English
+DT Article
+ID UBIQUITINATION
+AB Shortest paths between the nodes of complex networks are challenging to obtain if the information on network structure is incomplete. Here the authors show that the shortest paths are geometrically localized in hyperbolic representations of networks, and can be detected even if the large amount of network links are missing. The authors demonstrate the utility of geometric pathfinding in Internet routing and the reconstruction of cellular pathways.
+   Dynamic processes on networks, be it information transfer in the Internet, contagious spreading in a social network, or neural signaling, take place along shortest or nearly shortest paths. Computing shortest paths is a straightforward task when the network of interest is fully known, and there are a plethora of computational algorithms for this purpose. Unfortunately, our maps of most large networks are substantially incomplete due to either the highly dynamic nature of networks, or high cost of network measurements, or both, rendering traditional path finding methods inefficient. We find that shortest paths in large real networks, such as the network of protein-protein interactions and the Internet at the autonomous system level, are not random but are organized according to latent-geometric rules. If nodes of these networks are mapped to points in latent hyperbolic spaces, shortest paths in them align along geodesic curves connecting endpoint nodes. We find that this alignment is sufficiently strong to allow for the identification of shortest path nodes even in the case of substantially incomplete networks, where numbers of missing links exceed those of observable links. We demonstrate the utility of latent-geometric path finding in problems of cellular pathway reconstruction and communication security.
+C1 [Kitsak, Maksim] Delft Univ Technol, Fac Elect Engn Math & Comp Sci, NL-2600 GA Delft, Netherlands.
+   [Kitsak, Maksim] Northeastern Univ, Network Sci Inst, 177 Huntington Ave, Boston, MA 02115 USA.
+   [Ganin, Alexander] Univ Virginia, Dept Syst & Informat Engn, Charlottesville, VA 22904 USA.
+   [Ganin, Alexander] US Army, Engineer Res & Dev Ctr, Concord, MA 01742 USA.
+   [Elmokashfi, Ahmed] Simula Metropolitan Ctr Digital Engn, Oslo, Norway.
+   [Cui, Hongzhu; Korkin, Dmitry] Worcester Polytech Inst, Bioinformat & Computat Biol Program, Worcester, MA 01609 USA.
+   [Cui, Hongzhu] Columbia Univ, Inst Genom Med, Med Ctr, New York, NY USA.
+   [Eisenberg, Daniel A.; Alderson, David L.] Naval Postgrad Sch, Dept Operat Res, Monterey, CA 93943 USA.
+   [Korkin, Dmitry] Worcester Polytech Inst, Comp Sci Dept, Worcester, MA 01609 USA.
+   [Korkin, Dmitry] Worcester Polytech Inst, Data Sci Program, Worcester, MA 01609 USA.
+   [Linkov, Igor] US Army, Engineer Res & Dev Ctr, Environm Lab, Concord, MA 01742 USA.
+C3 Delft University of Technology; Northeastern University; University of
+   Virginia; United States Department of Defense; United States Army; U.S.
+   Army Corps of Engineers; U.S. Army Engineer Research & Development
+   Center (ERDC); ERDC - Risk Modeling; Worcester Polytechnic Institute;
+   Columbia University; United States Department of Defense; United States
+   Navy; Naval Postgraduate School; Worcester Polytechnic Institute;
+   Worcester Polytechnic Institute; United States Department of Defense;
+   United States Army; U.S. Army Corps of Engineers; U.S. Army Engineer
+   Research & Development Center (ERDC); ERDC - Risk Modeling
+RP Kitsak, M (corresponding author), Delft Univ Technol, Fac Elect Engn Math & Comp Sci, NL-2600 GA Delft, Netherlands.; Kitsak, M (corresponding author), Northeastern Univ, Network Sci Inst, 177 Huntington Ave, Boston, MA 02115 USA.; Linkov, I (corresponding author), US Army, Engineer Res & Dev Ctr, Environm Lab, Concord, MA 01742 USA.
+EM maksim.kitsak@gmail.com; igor.linkov@usace.mil
+RI Linkov, Igor/AAH-5981-2019; Cui, Hongzhu/GPW-9463-2022
+OI Linkov, Igor/0000-0002-0823-8107; Korkin, Dmitry/0000-0002-3875-9085;
+   Kitsak, Maksim/0000-0002-6862-6021
+FU U.S. Defense Threat Reduction Agency; U.S. Army Corps of Engineers under
+   FLEX project on Compounding Threats; NSF [IIS-1741355]; ARO
+   [W911NF-16-1-0391, W911NF-17-1-0491]; Dutch Research Council (NWO)
+   [OCENW.M20.244]; NIH [R01LM014017]
+FX The authors thank to I. Voitalov, H. Hartle, W.L.F. van der Hoorn,
+   P.F.A. Van Mieghem, and D. Krioukov for stimulating discussions. This
+   work was supported by the U.S. Defense Threat Reduction Agency.
+   Additional support was provided by the U.S. Army Corps of Engineers
+   under FLEX project on Compounding Threats. MK was additionally supported
+   by NSF grant IIS-1741355, ARO grants W911NF-16-1-0391 and
+   W911NF-17-1-0491, and the Dutch Research Council (NWO) grant
+   OCENW.M20.244. DK is supported by NIH grant R01LM014017. The views and
+   opinions expressed in this article are those of the individual authors
+   and not those of the U.S. Army, or other sponsor organizations.
+CR Alanis-Lobato G, 2018, BIOINFORMATICS, V34, P2826, DOI 10.1093/bioinformatics/bty206
+   Albert R, 2000, NATURE, V406, P378, DOI 10.1038/35019019
+   Aldecoa R, 2015, COMPUT PHYS COMMUN, V196, P492, DOI 10.1016/j.cpc.2015.05.028
+   Ali AM, 2012, BLOOD, V119, P3285, DOI 10.1182/blood-2011-10-385963
+   Serrano MA, 2012, MOL BIOSYST, V8, P843, DOI 10.1039/c2mb05306c
+   [Anonymous], HYPERLINK EMB
+   Barabási AL, 2011, NAT REV GENET, V12, P56, DOI 10.1038/nrg2918
+   Bienko M, 2005, SCIENCE, V310, P1821, DOI 10.1126/science.1120615
+   Boguña M, 2021, NAT REV PHYS, V3, P114, DOI 10.1038/s42254-020-00264-4
+   Boguñá M, 2010, NAT COMMUN, V1, DOI 10.1038/ncomms1063
+   Cannistraci CV, 2022, NAT COMMUN, V13, DOI 10.1038/s41467-022-34634-6
+   Cohen R, 2003, PHYS REV LETT, V90, DOI 10.1103/PhysRevLett.90.058701
+   Cui P, 2019, IEEE T KNOWL DATA EN, V31, P833, DOI 10.1109/TKDE.2018.2849727
+   Deng L, 2020, SIGNAL TRANSDUCT TAR, V5, DOI 10.1038/s41392-020-0107-0
+   Dijkstra E. W., 1959, Numerische mathematik, V1, P269, DOI [DOI 10.1007/BF01386390, 10.1007/BF01386390]
+   FREEMAN LC, 1977, SOCIOMETRY, V40, P35, DOI 10.2307/3033543
+   Gao LX, 2002, GLOB TELECOMM CONF, P2180
+   Gao LX, 2001, IEEE ACM T NETWORK, V9, P733, DOI 10.1109/90.974527
+   Geng LY, 2010, J CELL BIOL, V191, P249, DOI 10.1083/jcb.201005101
+   Goyal P, 2018, KNOWL-BASED SYST, V151, P78, DOI 10.1016/j.knosys.2018.03.022
+   Green T, 2018, LECT NOTES COMPUT SC, V10771, P203, DOI 10.1007/978-3-319-76481-8_15
+   Grover A, 2016, KDD'16: PROCEEDINGS OF THE 22ND ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P855, DOI 10.1145/2939672.2939754
+   Gustin JK, 2011, FRONT MICROBIOL, V2, DOI 10.3389/fmicb.2011.00161
+   Hu HB, 2016, CELL RES, V26, P457, DOI 10.1038/cr.2016.40
+   Huang DW, 2009, NAT PROTOC, V4, P44, DOI 10.1038/nprot.2008.211
+   Kitsak M, 2020, PHYS REV RES, V2, DOI 10.1103/PhysRevResearch.2.043113
+   Krioukov D, 2016, PHYS REV LETT, V116, DOI 10.1103/PhysRevLett.116.208302
+   Krioukov D, 2010, PHYS REV E, V82, DOI 10.1103/PhysRevE.82.036106
+   Maimon O, 2010, DATA MINING AND KNOWLEDGE DISCOVERY HANDBOOK, SECOND EDITION, P1, DOI 10.1007/978-0-387-09823-4
+   Morrow JK, 2015, FUTURE MED CHEM, V7, P2333, DOI 10.4155/fmc.15.148
+   Nam H, 2011, CURR OPIN BIOTECH, V22, P595, DOI 10.1016/j.copbio.2011.03.006
+   Newman M., 2010, NETWORKS, DOI [DOI 10.1093/ACPROF:OSO/9780199206650.001.0001, 10.1093/acprof:oso/9780199206650.001.0001]
+   Papadopoulos F, 2012, NATURE, V489, P537, DOI 10.1038/nature11459
+   Peisley A, 2014, NATURE, V509, P110, DOI 10.1038/nature13140
+   Penrose R., 1955, P CAMBRIDGE PHILOS S, V51, P406, DOI 10.1017/S0305004100030401
+   Perozzi B, 2014, PROCEEDINGS OF THE 20TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING (KDD'14), P701, DOI 10.1145/2623330.2623732
+   Rahighi S, 2009, CELL, V136, P1098, DOI 10.1016/j.cell.2009.03.007
+   Rekhter Y., 2014, INTERNET ENG TASK FO, V6, P34
+   Rodríguez-Flores MA, 2020, SCI REP-UK, V10, DOI 10.1038/s41598-020-77277-7
+   Sermpezis P, 2018, ACM SIGCOMM COMP COM, V48, P64, DOI 10.1145/3211852.3211862
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+NR 41
+TC 5
+Z9 5
+U1 3
+U2 18
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+EI 2041-1723
+J9 NAT COMMUN
+JI Nat. Commun.
+PD JAN 17
+PY 2023
+VL 14
+IS 1
+DI 10.1038/s41467-022-35181-w
+PG 9
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA I6CO1
+UT WOS:001003645200027
+PM 36650144
+OA Green Published, Green Submitted, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Hu, HF
+   Zhang, SR
+   Wang, YN
+AF Hu, Hefei
+   Zhang, Sirui
+   Wang, Yanan
+TI An Interlayer Link Prediction Method Based on Edge-Weighted Embedding
+SO COMPLEXITY
+LA English
+DT Article
+ID IDENTIFICATION
+AB Presently, users usually register accounts on online social networks (OSNs). Identifying the same user in different networks is also known as interlayer link prediction. Most existing interlayer link prediction studies use embedding methods, which represent nodes in a common representation space by learning mapping functions. However, these studies often directly model links within the pre-embedding layer as equal weights, fail to effectively distinguish the strength of edge relationships, and do not fully utilize network topology information. In this paper, we propose an interlayer link prediction model based on weighted embedding of connected edges within the network layer, which models the links within the network layer as weighted graphs to better represent the network and then uses appropriate embedding methods to represent the network in a low-dimensional space. After embedding, vector similarity and distance similarity are used as comprehensive evaluation scores. This paper has conducted a large number of simulation experiments on actual networks. The results show that our proposed model has higher prediction accuracy in all aspects than current advanced models and can achieve the highest accuracy when the training frequency is low, which proves the validity of the proposed model.
+C1 [Hu, Hefei; Zhang, Sirui; Wang, Yanan] Beijing Univ Posts & Telecommun, Sch Informat & Commun Engn, Beijing 100876, Peoples R China.
+   [Hu, Hefei] Beijing Univ Posts & Telecommun, Beijing Key Lab Work Safety Intelligent Monitoring, Beijing 100876, Peoples R China.
+C3 Beijing University of Posts & Telecommunications; Beijing University of
+   Posts & Telecommunications
+RP Zhang, SR (corresponding author), Beijing Univ Posts & Telecommun, Sch Informat & Commun Engn, Beijing 100876, Peoples R China.
+EM huhefei@bupt.edu.cn; 2847613146@qq.com; 1010844697@qq.com
+RI Hu, Hefei/B-3482-2013
+OI zhang, sirui/0009-0003-6552-6935
+FU National Natural Science Foundation of China;  [61821001]
+FX This study was supported by the National Natural Science Foundation of
+   China (Grant no. 61821001).
+CR Bartunov S., 2012, P 6 INT C KNOWL DISC, P12
+   Cui P, 2019, IEEE T KNOWL DATA EN, V31, P833, DOI 10.1109/TKDE.2018.2849727
+   Ding X, 2022, IEEE T COMPUT SOC SY, V9, P997, DOI 10.1109/TCSS.2021.3068468
+   Fu S, 2020, KNOWL-BASED SYST, V193, DOI 10.1016/j.knosys.2019.105301
+   Huang Z, 2005, ACM-IEEE J CONF DIG, P141, DOI 10.1145/1065385.1065415
+   Iofciu T., 2021, P INT AAAI C WEB SOC, V5, P522
+   Kai Shu, 2016, ACM SIGKDD Explorations Newsletter, V18, P5, DOI 10.1145/3068777.3068781
+   Li YJ, 2020, INFORM SCIENCES, V506, P78, DOI 10.1016/j.ins.2019.08.022
+   Liu L., 2016, IJCAI, DOI DOI 10.5555/3060832.3060869
+   Liu L, 2020, IEEE T KNOWL DATA EN, V32, P1824, DOI 10.1109/TKDE.2019.2911516
+   Mallick K, 2019, IEEE T COMPUT SOC SY, V6, P1306, DOI 10.1109/TCSS.2019.2950589
+   Man T., 2016, PROC 25 INT JOINT C, P1823
+   Narayanan A, 2011, 2011 INTERNATIONAL JOINT CONFERENCE ON NEURAL NETWORKS (IJCNN), P1825, DOI 10.1109/IJCNN.2011.6033446
+   Narayanan A, 2010, COMMUN ACM, V53, P24, DOI 10.1145/1743546.1743558
+   Nasiri E, 2022, BIG DATA, V10, P138, DOI 10.1089/big.2021.0254
+   Nasiri E, 2021, CHAOS SOLITON FRACT, V151, DOI 10.1016/j.chaos.2021.111230
+   Sha Y, 2016, PROCEDIA COMPUT SCI, V80, P2423, DOI 10.1016/j.procs.2016.05.541
+   Sun ZQ, 2018, PROCEEDINGS OF THE TWENTY-SEVENTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, P4396
+   Tan SL, 2014, AAAI CONF ARTIF INTE, P159
+   Tang J, 2015, PROCEEDINGS OF THE 24TH INTERNATIONAL CONFERENCE ON WORLD WIDE WEB (WWW 2015), P1067, DOI 10.1145/2736277.2741093
+   Tang R, 2023, IEEE T CYBERNETICS, V53, P2426, DOI 10.1109/TCYB.2021.3120134
+   Tang R, 2020, KNOWL-BASED SYST, V194, DOI 10.1016/j.knosys.2020.105598
+   Wang SK, 2019, ENTROPY-SWITZ, V21, DOI 10.3390/e21030254
+   Zafarani R, 2015, ACM T KNOWL DISCOV D, V10, DOI 10.1145/2747880
+   Zafarani R, 2013, 19TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING (KDD'13), P41
+   Zhang JW, 2016, PROCEEDINGS OF THE 25TH INTERNATIONAL CONFERENCE ON WORLD WIDE WEB (WWW'16), P749, DOI 10.1145/2872427.2883038
+   Zhang JW, 2015, PROCEEDINGS OF THE TWENTY-FOURTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI), P2125
+   Zhang YT, 2015, KDD'15: PROCEEDINGS OF THE 21ST ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P1485, DOI 10.1145/2783258.2783268
+   Zhao DS, 2018, PROC INT C TOOLS ART, P616, DOI 10.1109/ICTAI.2018.00099
+   Zhou F, 2018, IEEE INFOCOM SER, P1313, DOI 10.1109/INFOCOM.2018.8486231
+   Zhou JY, 2019, IEEE INFOCOM SER, P2116, DOI [10.1109/infocom.2019.8737542, 10.1109/INFOCOM.2019.8737542]
+   Zhou XP, 2019, CLUSTER COMPUT, V22, pS8677, DOI 10.1007/s10586-018-1940-6
+   Zhou XP, 2018, IEEE T KNOWL DATA EN, V30, P1178, DOI 10.1109/TKDE.2017.2784430
+   Zhou XP, 2016, IEEE T KNOWL DATA EN, V28, P411, DOI 10.1109/TKDE.2015.2485222
+NR 34
+TC 0
+Z9 0
+U1 1
+U2 1
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1076-2787
+EI 1099-0526
+J9 COMPLEXITY
+JI Complexity
+PD DEC 8
+PY 2023
+VL 2023
+AR 3541437
+DI 10.1155/2023/3541437
+PG 13
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Mathematics; Science & Technology - Other Topics
+GA DB2P2
+UT WOS:001129510500002
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Shevtsov, A
+   Oikonomidou, M
+   Antonakaki, D
+   Pratikakis, P
+   Ioannidis, S
+AF Shevtsov, Alexander
+   Oikonomidou, Maria
+   Antonakaki, Despoina
+   Pratikakis, Polyvios
+   Ioannidis, Sotiris
+TI What Tweets and YouTube comments have in common? Sentiment and graph
+   analysis on data related to US elections 2020
+SO PLOS ONE
+LA English
+DT Article
+ID COMMUNITY DETECTION; SOCIAL NETWORKS; ECHO CHAMBER; TWITTER; VIDEOS;
+   CONVERSATIONS; INFORMATION; CAMPAIGNS; DIFFUSION; USERS
+AB Most studies analyzing political traffic on Social Networks focus on a single platform, while campaigns and reactions to political events produce interactions across different social media. Ignoring such cross-platform traffic may lead to analytical errors, missing important interactions across social media that e.g. explain the cause of trending or viral discussions. This work links Twitter and YouTube social networks using cross-postings of video URLs on Twitter to discover the main tendencies and preferences of the electorate, distinguish users and communities' favouritism towards an ideology or candidate, study the sentiment towards candidates and political events, and measure political homophily. This study shows that Twitter communities correlate with YouTube comment communities: that is, Twitter users belonging to the same community in the Retweet graph tend to post YouTube video links with comments from YouTube users belonging to the same community in the YouTube Comment graph. Specifically, we identify Twitter and YouTube communities, we measure their similarity and differences and show the interactions and the correlation between the largest communities on YouTube and Twitter. To achieve that, we have gather a dataset of approximately 20M tweets and the comments of 29K YouTube videos; we present the volume, the sentiment, and the communities formed in YouTube and Twitter graphs, and publish a representative sample of the dataset, as allowed by the corresponding Twitter policy restrictions.
+C1 [Shevtsov, Alexander; Oikonomidou, Maria; Antonakaki, Despoina; Pratikakis, Polyvios; Ioannidis, Sotiris] Fdn Res & Technol, Inst Comp Sci, Iraklion, Greece.
+   [Shevtsov, Alexander; Oikonomidou, Maria; Pratikakis, Polyvios] Univ Crete, Comp Sci Dept, Voutes Campus, Iraklion, Greece.
+   [Ioannidis, Sotiris] Tech Univ Crete, Sch Elect & Comp Engn, Univ Campus, Khania, Greece.
+C3 University of Crete
+RP Antonakaki, D (corresponding author), Fdn Res & Technol, Inst Comp Sci, Iraklion, Greece.
+EM despoina@ics.forth.gr
+RI Antonakaki, Despoina/LEN-0367-2024
+OI Shevtsov, Alexander/0000-0001-5072-5569; Oikonomidou,
+   Maria/0000-0002-0251-3825; Antonakaki, Despoina/0000-0001-9081-6115
+FU European Commission, project CONCORDIA [830927]; European Union; Greek
+   national funds through the Operational Program Competitiveness,
+   Entrepreneurship and Innovation [T1EDK-02857, T1EDK-01800]
+FX This document is the results of the research project co-funded by the
+   European Commission, project CONCORDIA, with grant number 830927
+   (EUROPEAN COMMISSION Directorate-General Communications Networks,
+   Content and Technology) and by the European Union and Greek national
+   funds through the Operational Program Competitiveness, Entrepreneurship
+   and Innovation, under the call RESEARCH - CREATE - INNOVATE (project
+   ode:T1EDK-02857 and T1EDK-01800). The funders had no role in study
+   design, data collection and analysis, decision to publish, or
+   preparation of the manuscript.
+CR Alharbi ASM, 2019, COGN SYST RES, V54, P50, DOI 10.1016/j.cogsys.2018.10.001
+   Amarasekara I, 2019, PUBLIC UNDERST SCI, V28, P68, DOI 10.1177/0963662518786654
+   [Anonymous], 2011, P 20 ACM INT C INF K
+   [Anonymous], 2012, WORKSHOPS 26 AAAI C
+   [Anonymous], 2009, Entropy
+   [Anonymous], 2012, CEUR WORKSHOP P
+   [Anonymous], 2012, AAAI
+   [Anonymous], 2010, P INT AAAI C WEBL SO
+   [Anonymous], 2011, HP LAB TECHNICAL REP
+   [Anonymous], 2009, Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit
+   [Anonymous], 2010, ICWSM 10.1. 01804
+   Antonakaki D, 2021, EXPERT SYST APPL, V164, DOI 10.1016/j.eswa.2020.114006
+   Antonakaki D, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0186836
+   Antonakaki D, 2016, PROCEEDINGS OF THE 2016 IEEE/ACM INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING ASONAM 2016, P100, DOI 10.1109/ASONAM.2016.7752220
+   Aparaschivei P.A., 2011, Journal of Media Research, V2, P39
+   Aragon P, 2013, POLICY INTERNET, V5, P183, DOI 10.1002/1944-2866.POI327
+   Araujo CS, 2017, INT C SOC INF, P341
+   Bajaj Payal, 2016, P 2016 ACM WORKSH VI, P53
+   Bakshi RK, 2016, PROCEEDINGS OF THE 10TH INDIACOM - 2016 3RD INTERNATIONAL CONFERENCE ON COMPUTING FOR SUSTAINABLE GLOBAL DEVELOPMENT, P452
+   Baluja S, 2008, WWW, P895
+   Barbera P, 2019, AM POLIT SCI REV, V113, P883, DOI 10.1017/S0003055419000352
+   Barbieri N, 2014, PROCEEDINGS OF THE 20TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING (KDD'14), P1266, DOI 10.1145/2623330.2623733
+   Bastian M., 2009, 3 INT AAAI C WEBL SO
+   Baumgartner JC., 2010, COMMUNICATOR IN CHIE
+   Baviera T, 2019, COMMUN REV, V22, P117, DOI 10.1080/10714421.2019.1599642
+   Baviera T, 2018, EUR J COMMUN, V33, P321, DOI 10.1177/0267323118763910
+   Bekafigo MA, 2013, SOC SCI COMPUT REV, V31, P625, DOI 10.1177/0894439313490405
+   Blondel VD, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/10/P10008
+   Bollen J, 2009, Arxiv, DOI [arXiv:0911.1583, 10.48550/arXiv.0911.1583, DOI 10.48550/ARXIV.0911.1583]
+   Burgess J, 2016, COMMUN RES PRACT, V2, P79, DOI 10.1080/22041451.2016.1155338
+   Caetano JA, 2018, J INTERNET SERV APPL, V9, DOI 10.1186/s13174-018-0089-0
+   Caldarelli G, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0095809
+   Chamberlain Joshua M., 2021, ACM Transactions on Social Computing, V4, DOI 10.1145/3439827
+   Christensen C, 2013, INFORM COMMUN SOC, V16, P646, DOI 10.1080/1369118X.2013.783609
+   Colleoni E, 2014, J COMMUN, V64, P317, DOI 10.1111/jcom.12084
+   Conover M.D., 2011, P INT AAAI C WEB SOC, P89
+   D'heer E, 2014, EUR J COMMUN, V29, P720, DOI 10.1177/0267323114544866
+   Daniel M, 2017, EXPERT SYST APPL, V71, P111, DOI 10.1016/j.eswa.2016.11.022
+   Davidson I, 2020, SOC NETW ANAL MIN, V10, DOI 10.1007/s13278-019-0611-9
+   Davies A., 2011, 5 SNA KDD WORKSH 11
+   Diakopoulos NA, 2010, CHI2010: PROCEEDINGS OF THE 28TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, VOLS 1-4, P1195
+   Dokoohaki N, 2015, PROCEEDINGS OF THE 2015 IEEE/ACM INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING (ASONAM 2015), P1269, DOI 10.1145/2808797.2808915
+   Dos Santos C., 2014, P COLING 2014 25 INT, P69
+   Effing R, 2016, PUB ADMIN INF TECH, V15, P281, DOI 10.1007/978-3-319-17722-9_15
+   Elbagir Shihab, 2019, International MultiConference of Engineers and Computer Scientists 2019 (IMECS 2019). Proceedings. Lecture Notes in Engineering and Computer Science, P12
+   Enli G, 2017, EUR J COMMUN, V32, P50, DOI 10.1177/0267323116682802
+   Eom YH, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0131184
+   Faralli S, 2015, PROCEEDINGS OF THE TWENTY-FOURTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI), P2334
+   Gayo-Avello D, 2013, SOC SCI COMPUT REV, V31, P649, DOI 10.1177/0894439313493979
+   Gayo-Avello Daniel., 2011, Limits Of Electoral Predictions Using Twitter
+   Ghiassi M, 2018, EXPERT SYST APPL, V106, P197, DOI 10.1016/j.eswa.2018.04.006
+   Giachanou A, 2016, ACM COMPUT SURV, V49, DOI 10.1145/2938640
+   Golovchenko Y, 2020, INT J PRESS/POLIT, V25, P357, DOI 10.1177/1940161220912682
+   Gong ZY, 2020, PLOS ONE, V15, DOI 10.1371/journal.pone.0233660
+   Guerrero-Solé F, 2017, SOC SCI COMPUT REV, V35, P244, DOI 10.1177/0894439315617254
+   Guo L, 2020, INFORM COMMUN SOC, V23, P234, DOI 10.1080/1369118X.2018.1499793
+   Guthier B, 2017, IEEE SYS MAN CYBERN, P2105, DOI 10.1109/SMC.2017.8122930
+   Hagberg Aric, 2005, PYTHON NETWORKX LIB
+   Halberstam Y, 2016, J PUBLIC ECON, V143, P73, DOI 10.1016/j.jpubeco.2016.08.011
+   Hanusch F, 2019, DIGIT JOURNAL, V7, P22, DOI 10.1080/21670811.2018.1436977
+   Himelboim I, 2016, NEW MEDIA SOC, V18, P1382, DOI 10.1177/1461444814555096
+   Howard PN, 2018, J INF TECHNOL POLITI, V15, P81, DOI 10.1080/19331681.2018.1448735
+   Huang MQ, 2018, INFORM SCIENCES, V432, P164, DOI 10.1016/j.ins.2017.11.055
+   Hutto C. J, 2014, 8 INT AAAI C WEBLOGS, DOI [10.1609/icwsm.v8i1.14550, DOI 10.1609/ICWSM.V8I1.14550]
+   Jang HJ, 2013, EXPERT SYST APPL, V40, P7492, DOI 10.1016/j.eswa.2013.06.069
+   Jungherr A, 2012, SOC SCI COMPUT REV, V30, P229, DOI 10.1177/0894439311404119
+   Just MR, 2012, APSA 2012 ANN M
+   Klotz RJ, 2010, J INF TECHNOL POLITI, V7, P110, DOI 10.1080/19331681003748917
+   Kolchyna O., 2015, ARXIV PREPRINT ARXIV
+   Kouloumpis E., 2011, TWITTER SENTIMENT AN, P538
+   Krishna A., 2013, Proceedings of the 19th International Conference on Management of Data, COMAD13 (Ahmedabad, India, 2013), P125, DOI 10.5555/2694476.2694505
+   Ladhari R, 2020, J RETAIL CONSUM SERV, V54, DOI 10.1016/j.jretconser.2019.102027
+   Lindgren S, 2012, EUR J COMMUN, V27, P152, DOI 10.1177/0267323112443461
+   Martínez-Cámara E, 2014, NAT LANG ENG, V20, P1, DOI 10.1017/S1351324912000332
+   Mittal A, 2012, Stock prediction using twitter sentiment analysis, V15, P2352
+   Morales AJ, 2015, CHAOS, V25, DOI 10.1063/1.4913758
+   Mukherjee Subhabrata, 2012, Computational Linguistics and Intelligent Text Processing. Proceedings 13th International Conference (CICLing 2012), P475, DOI 10.1007/978-3-642-28604-9_39
+   Nahon K., 2015, ROUTLEDGE COMPANION, P39
+   Narr S., 2012, Knowledge Discovery and Machine Learning (KDML), P12
+   O'Callaghan D, 2012, Arxiv, DOI arXiv:1201.3783
+   Pak Alexander, 2010, LREC 2010 7 INT C LA
+   Panizo-LLedot A, 2019, INT C COMPLEX NETWOR, P427
+   Pano T, 2020, BIG DATA COGN COMPUT, V4, DOI 10.3390/bdcc4040033
+   Park SJ, 2015, TECHNOL FORECAST SOC, V95, P208, DOI 10.1016/j.techfore.2015.02.003
+   Pennacchiotti M., 2011, Proceedings of the 17th ACM SIGKDD international conference on Knowledge discovery and data mining, P430
+   Pennacchiotti M., 2011, ICWSM
+   Plotkowiak Thomas, 2013, First Monday, V18, P143, DOI 10.5210/fm.v18i5.3816
+   Poria S, 2016, NEUROCOMPUTING, V174, P50, DOI 10.1016/j.neucom.2015.01.095
+   Preotiuc-Pietro D, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0138717
+   Ptacek T., 2014, P COLING 2014 25 INT, P213
+   Ramteke J, 2016, 2016 INTERNATIONAL CONFERENCE ON INVENTIVE COMPUTATION TECHNOLOGIES (ICICT), VOL 1, P107
+   Ravi K, 2015, KNOWL-BASED SYST, V89, P14, DOI 10.1016/j.knosys.2015.06.015
+   Ridout TN, 2010, APSA 2010 ANN M
+   Rosenbusch H, 2019, SOC PSYCHOL PERS SCI, V10, P1028, DOI 10.1177/1948550618820309
+   Saroufim Carl., 2018, Proceedings of the 9th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis, P14, DOI DOI 10.18653/V1/W18-6204
+   Serrano-Guerrero J, 2015, INFORM SCIENCES, V311, P18, DOI 10.1016/j.ins.2015.03.040
+   Severyn A, 2015, SIGIR 2015: PROCEEDINGS OF THE 38TH INTERNATIONAL ACM SIGIR CONFERENCE ON RESEARCH AND DEVELOPMENT IN INFORMATION RETRIEVAL, P959, DOI 10.1145/2766462.2767830
+   Severyn A, 2016, INFORM PROCESS MANAG, V52, P46, DOI 10.1016/j.ipm.2015.03.002
+   Severyn Aliaksei., 2015, P 9 INTERNATIONALWOR, P464
+   Shelar Amrita, 2018, 2018 5th International Conference on Computational Science and Computational Intelligence (CSCI), P1301, DOI 10.1109/CSCI46756.2018.00252
+   Singh Shivdeep, 2021, 2021 2nd International Conference on Secure Cyber Computing and Communications (ICSCCC), P250, DOI 10.1109/ICSCCC51823.2021.9478128
+   Smailovic J., 2015, 2015 IEEE INT C DATA, P1
+   Sureka A, 2010, LECT NOTES COMPUT SC, V6458, P13, DOI 10.1007/978-3-642-17187-1_2
+   Susarla A, 2012, INFORM SYST RES, V23, P23, DOI 10.1287/isre.1100.0339
+   Thelwall M, 2012, J AM SOC INF SCI TEC, V63, P616, DOI 10.1002/asi.21679
+   Vaccari C, 2016, SOC MEDIA SOC, V2, DOI 10.1177/2056305116664221
+   Vergeer M, 2015, SOCIOL COMPASS, V9, P745, DOI 10.1111/soc4.12294
+   Vesnic-Alujevic L, 2014, J POLITICAL MARKETIN, V13, P195, DOI 10.1080/15377857.2014.929886
+   Wang H, 2012, P ACL 2012 SYST DEM, P115
+   Wang H, 2015, PROCEEDINGS 2015 IEEE INTERNATIONAL CONFERENCE ON BIG DATA, P2404, DOI 10.1109/BigData.2015.7364034
+   Wattenhofer M, 2012, 6 INT AAAI C WEBLOGS
+   Weber I, 2013, 2013 IEEE/ACM INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING (ASONAM), P296
+   Wehrmann J, 2017, IEEE IJCNN, P2384, DOI 10.1109/IJCNN.2017.7966145
+   Wikipedia, 2020, 2020 US PRES DEB
+   Wikipedia, 2020, LIST US STAT TERR AB
+   Wu Z, 2013, LECT NOTES COMPUT SC, V8181, P43, DOI 10.1007/978-3-642-41154-0_4
+   Xu SF, 2020, COMPUT HUM BEHAV, V102, P87, DOI 10.1016/j.chb.2019.08.006
+   Yamamoto Y, 2014, 16TH INTERNATIONAL CONFERENCE ON INFORMATION INTEGRATION AND WEB-BASED APPLICATIONS & SERVICES (IIWAS 2014), P107
+   Yaqub U, 2017, GOV INFORM Q, V34, P613, DOI 10.1016/j.giq.2017.11.001
+   You QZ, 2015, AAAI CONF ARTIF INTE, P381
+   Zahoor Sheresh, 2020, 2020 8th International Conference on Reliability, Infocom Technologies and Optimization (Trends and Future Directions) (ICRITO), P537, DOI 10.1109/ICRITO48877.2020.9197910
+   ZHANG S, 2017, P 22 AUSTR DOC COMP, DOI DOI 10.1145/3166072.3166082
+   Zhang YN, 2018, NEW MEDIA SOC, V20, P3161, DOI 10.1177/1461444817744390
+   Zhao JQ, 2018, IEEE ACCESS, V6, P23253, DOI 10.1109/ACCESS.2017.2776930
+   Zhao JQ, 2017, IEEE ACCESS, V5, P2870, DOI 10.1109/ACCESS.2017.2672677
+   Zhao Jichang., 2012, Proceedings of the 18th ACM SIGKDD international conference on Knowledge discovery and data mining, P1528, DOI DOI 10.1145/2339530.2339772
+NR 126
+TC 5
+Z9 5
+U1 3
+U2 19
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JAN 31
+PY 2023
+VL 18
+IS 1
+AR e0270542
+DI 10.1371/journal.pone.0270542
+PG 31
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA D1UQ3
+UT WOS:000966644300001
+PM 36719868
+OA gold, Green Submitted, Green Published
+DA 2024-11-22
+ER

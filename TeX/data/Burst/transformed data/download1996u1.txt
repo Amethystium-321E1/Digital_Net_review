@@ -1,0 +1,78 @@
+PT J
+AU Wasserman, S
+   Pattison, P
+AF Wasserman, S
+   Pattison, P
+TI Logit models and logistic regressions for social networks .1. An introduction to Markov graphs and p
+SO PSYCHOMETRIKA
+LA English
+DT Article
+DE categorical data analysis; social network analysis; random graphs
+ID statistical-analysis; directed-graphs
+AB Spanning nearly sixty years of research, statistical network analysis has passed through (at least) two generations of researchers and models. Beginning in the late 1930's, the first generation of research dealt with the distribution of various network statistics, under a variety of null models. The second generation, beginning in the 1970's and continuing into the 1980's, concerned models, usually for probabilities of relational ties among very small subsets of actors, in which various simple substantive tendencies were parameterized. Much of this research, most of which utilized log linear models, first appeared in applied statistics publications. But recent developments in social network analysis promise to bring us into a third generation. The Markov random graphs of Frank and Strauss (1986) and especially the estimation strategy for these models developed by Strauss and Ikeda (1990; described in brief in Strauss, 1992), are very recent and promising contributions to this field. Here we describe a large class of models that can be used to investigate structure in social networks. These models include several generalizations of stochastic blockmodels, as well as models parameterizing global tendencies towards clustering and centralization, and individual differences in such tendencies. Approximate model fits are obtained using Strauss and Ikeda's (1990) estimation strategy. In this paper we describe and extend these models and demonstrate how they can be used to address a variety of substantive questions about structure in social networks.
+C1 UNIV MELBOURNE,PARKVILLE,VIC 3052,AUSTRALIA.
+C3 University of Melbourne
+RP Wasserman, S (corresponding author), UNIV ILLINOIS,603 E DANIEL ST,CHAMPAIGN,IL 61820, USA.
+CR AGRESTI A, 1990, CATEGROICAL DATA ANA, V0, P0
+   ANDERSON CJ, 1995, SOCIOL METHOD RES, V24, P96, DOI 10.1177/0049124195024001005
+   Unknown -, 1980, THE ANALYSIS OF CROSS-CLASSIFIED CATEGORICAL DATA, V0, P0
+   Unknown -, 1994, SOCIAL NETWORK ANAL, V0, P0
+   BESAG J, 1974, J ROY STAT SOC B MET, V36, P192
+   Faust K, 1992, JOURNAL OF QUANTITATIVE ANTHROPOLOGY, V4, P23
+   Fienberg Stephen E, 1981, SOCIOLOGICAL METHODOLOGY, V12, P156, DOI 10.2307/27074118.Girvan
+   FRANK O, 1986, J AM STAT ASSOC, V81, P832, DOI 10.2307/2289017
+   Holland PW, 1975, SOCIOL METHODOL, V0, PP1, DOI 10.2307/270703
+   HOLLAND PW, 1981, J AM STAT ASSOC, V76, P33, DOI 10.2307/2287037
+   HOLLAND PW, 1978, SOCIOL METHOD RES, V7, P227, DOI 10.1177/004912417800700207
+   HOLLAND PW, 1973, J MATH SOCIOL, V3, P85, DOI 10.1080/0022250X.1973.9989825
+   HOLLAND PW, 1977, UNPUB NOTES STAT ANA, V0, P0
+   IACOBUCCI D, 1990, PSYCHOMETRIKA, V55, P707, DOI 10.1007/BF02294618
+   Ising E, 1925, Z PHYS, V31, P253, DOI 10.1007/BF02980577
+   JOHNSEN EC, 1986, SOC NETWORKS, V8, P257, DOI 10.1016/0378-8733(86)90007-9
+   JOHNSEN EC, 1985, SOC NETWORKS, V7, P203, DOI 10.1016/0378-8733(85)90015-2
+   KINDERMANN RP, 1980, J MATH SOCIOL, V8, P1
+   KOEHLY L, 1994, UNPUB CLASSIFICATION, V0, P0
+   REITZ KP, 1982, SOC NETWORKS, V4, P243, DOI 10.1016/0378-8733(82)90025-9
+   Ripley BD, 1981, SPAT STAT-NETH, V0, P0, DOI DOI 10.1002/0471725218
+   Sampson Samuel Franklin, 1968, A NOVITIATE IN A PERIOD OF CHANGE: AN EXPERIMENTAL AND CASE STUDY OF SOCIAL RELATIONSHIPS, V0, P0
+   SNIJDERS TAB, 1991, PSYCHOMETRIKA, V56, P397, DOI 10.1007/BF02294482
+   SPEED TP, 1978, SUPPLEMENT ADV APPL, V10, P111
+   STRAUSS D, 1990, J AM STAT ASSOC, V85, P204, DOI 10.2307/2289546
+   STRAUSS D, 1986, SIAM REV, V28, P513, DOI 10.1137/1028156
+   STRAUSS D, 1992, AM STAT, V46, P321, DOI 10.2307/2685327
+   STRAUSS DJ, 1977, J APPL PROBAB, V14, P135, DOI 10.2307/3213266
+   Vickers M, 1981, REPRESENTING CLASSROOM SOCIAL STRUCTURE, V0, P0
+   VICKERS M, 1981, THESIS U MELBOURNE, V0, P0
+   WALKER ME, 1995, THESIS U ILLINOIS, V0, P0
+   WANG YJ, 1987, J AM STAT ASSOC, V82, P8, DOI 10.2307/2289119
+   WASSERMAN S, 1984, SOC NETWORKS, V6, P177, DOI 10.1016/0378-8733(84)90016-9
+   WASSERMAN S, 1987, PSYCHOMETRIKA, V52, P3, DOI 10.1007/BF02293953
+   WASSERMAN S, 1986, BRIT J MATH STAT PSY, V39, P41, DOI 10.1111/j.2044-8317.1986.tb00844.x
+   WASSERMAN SS, 1978, ADV APPL PROBAB, V10, P803, DOI 10.2307/1426660
+NR 38
+TC 792
+Z9 983
+U1 1
+U2 67
+PU PSYCHOMETRIC SOC
+PI WILLIAMSBURG
+PA COLLEGE OF WILLIAM AND MARY DEPT PSYCHOLOGY, WILLIAMSBURG, VA 23185
+SN 0033-3123
+EI 
+J9 PSYCHOMETRIKA
+JI Psychometrika
+PD SEP 15
+PY 1996
+VL 61
+IS 3
+BP 401
+EP 425
+DI 10.1007/BF02294547
+PG 25
+WC Mathematics, Interdisciplinary Applications; Social Sciences, Mathematical Methods; Psychology, Mathematical
+SC Mathematics; Mathematical Methods In Social Sciences; Psychology
+GA VN080
+UT WOS:A1996VN08000001
+DA 2024-11-30
+ER
+

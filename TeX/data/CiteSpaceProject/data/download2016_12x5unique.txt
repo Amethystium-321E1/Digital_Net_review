@@ -1,0 +1,579 @@
+
+PT J
+AU Koren, H
+   Kaminer, I
+   Raban, DR
+AF Koren, Hila
+   Kaminer, Ido
+   Raban, Daphne Ruth
+TI Consume, Modify, Share (CMS): The Interplay between Individual Decisions
+   and Structural Network Properties in the Diffusion of Information
+SO PLOS ONE
+LA English
+DT Article
+ID SOCIAL NETWORK; ONLINE; COMMUNICATION; INNOVATIONS
+AB Widely used information diffusion models such as Independent Cascade Model, Susceptible Infected Recovered (SIR) and others fail to acknowledge that information is constantly subject to modification. Some aspects of information diffusion are best explained by network structural characteristics while in some cases strong influence comes from individual decisions. We introduce reinvention, the ability to modify information, as an individual level decision that affects the diffusion process as a whole. Based on a combination of constructs from the Diffusion of Innovations and the Critical Mass Theories, the present study advances the CMS (consume, modify, share) model which accounts for the interplay between network structure and human behavior and interactions. The model's building blocks include processes leading up to and following the formation of a critical mass of information adopters and disseminators. We examine the formation of an inflection point, information reach, sustainability of the diffusion process and collective value creation. The CMS model is tested on two directed networks and one undirected network, assuming weak or strong ties and applying constant and relative modification schemes. While all three networks are designed for disseminating new knowledge they differ in structural properties. Our findings suggest that modification enhances the diffusion of information in networks that support undirected connections and carries the biggest effect when information is shared via weak ties. Rogers' diffusion model and traditional information contagion models are fine tuned. Our results show that modifications not only contribute to a sustainable diffusion process, but also aid information in reaching remote areas of the network. The results point to the importance of cultivating weak ties, allowing reciprocal interaction among nodes and supporting the modification of information in promoting diffusion processes. These results have theoretical and practical implications for designing networks aimed at accelerating the creation and diffusion of information.
+C1 [Koren, Hila; Raban, Daphne Ruth] Univ Haifa, Dept Informat & Knowledge Management, Haifa, Israel.
+   [Kaminer, Ido] MIT, Dept Phys, Cambridge, MA 02139 USA.
+C3 University of Haifa; Massachusetts Institute of Technology (MIT)
+RP Raban, DR (corresponding author), Univ Haifa, Dept Informat & Knowledge Management, Haifa, Israel.
+EM draban@univ.haifa.ac.il
+RI Raban, Daphne/N-5724-2019; Raban, Daphne/F-6433-2017
+OI Raban, Daphne/0000-0003-1791-0310
+FU CORE Program of the Planning and Budgeting Committee; Israel Science
+   Foundation [1716/12]
+FX This research was supported by the CORE Program of the Planning and
+   Budgeting Committee and the Israel Science Foundation 1716/12. The
+   funders had no role in study design, data collection and analysis,
+   decision to publish, or preparation of the manuscript.This research was
+   supported by the I-CORE Program of the Planning and Budgeting Committee
+   and the Israel Science Foundation 1716/12.
+CR Allsop DT, 2007, J ADVERTISING RES, V47, P398, DOI 10.2501/S0021849907070419
+   [Anonymous], 1997, J COMPUTER MEDIATED
+   [Anonymous], 2011, SSRN ELECT J, DOI DOI 10.2139/SSRN.908999
+   [Anonymous], 2002, LINKED EVERYTHING IS
+   [Anonymous], 2013, Spreadable Media: Creating Value and Meaning in a Networked Culture
+   [Anonymous], 2012, 1 MONDAY
+   [Anonymous], 2004, INFORM DIFFUSION BLO, DOI DOI 10.1145/988672.988739
+   [Anonymous], ARXIV14026792
+   [Anonymous], 2011, ICWSM
+   [Anonymous], 2015, Theory of Computing, DOI DOI 10.4086/TOC.2015.V011A004
+   [Anonymous], CONFRONTING CHALLENG
+   Bakshy E., 2012, P 21 INT C WORLD WID, P519, DOI DOI 10.1145/2187836.2187907
+   Barker V, 2009, CYBERPSYCHOL BEHAV, V12, P209, DOI 10.1089/cpb.2008.0228
+   Benkler Y., 2006, WEALTH NETWORKS SOCI
+   Berger J, 2012, J MARKETING RES, V49, P192, DOI 10.1509/jmr.10.0353
+   Brown J, 2007, J INTERACT MARK, V21, P2, DOI 10.1002/dir.20082
+   Burt RS, 2000, RES ORGAN BEHAV, V22, P345, DOI 10.1016/S0191-3085(00)22009-1
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   Christakis NA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0012948
+   Dezso Z, 2002, PHYS REV E, V65, DOI 10.1103/PhysRevE.65.055103
+   Fehr E, 1998, EUR ECON REV, V42, P1, DOI 10.1016/S0014-2921(96)00051-7
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   FRIEDKIN N, 1980, SOC NETWORKS, V2, P411, DOI 10.1016/0378-8733(80)90006-4
+   Gilbert E, 2008, CHI 2008: 26TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS VOLS 1 AND 2, CONFERENCE PROCEEDINGS, P1603
+   Goldenberg J, 2001, TECHNOL FORECAST SOC, V68, P293, DOI 10.1016/S0040-1625(00)00095-0
+   Granell C, 2014, PHYS REV E, V90, DOI 10.1103/PhysRevE.90.012808
+   Granell C, 2013, PHYS REV LETT, V111, DOI 10.1103/PhysRevLett.111.128701
+   GRANOVETTER M, 1978, AM J SOCIOL, V83, P1420, DOI 10.1086/226707
+   Granovetter M, 2005, J ECON PERSPECT, V19, P33, DOI 10.1257/0895330053147958
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Havelock RG., 1974, WHAT DO RES FINDINGS
+   Hui Cindy, 2010, International Journal of Agent Technologies & Systems, V2, P31, DOI 10.4018/jats.2010070103
+   Kelly JA, 2000, AIDS EDUC PREV, V12, P87
+   Kermack WO, 1927, P R SOC LOND A-CONTA, V115, P700, DOI 10.1098/rspa.1927.0118
+   Kirby J., 2006, CONNECTED MARKETING
+   Kivela E M, 2014, J COMPLEX NETW
+   Knoble M., 2007, A new literacies sampler, P199
+   Kwak H., WWW'10, DOI [10.1145/1772690.1772751, DOI 10.1145/1772690.1772751]
+   Lazarsfeld PF, 1961, COMPLEX ORG, P1
+   Leskovec J., 2014, STANFORD LARGE NETWO
+   LIN N, 1978, SOCIOL METHOD RES, V7, P149
+   Ma XJ, 2010, EUR PHYS J B, V76, P179, DOI 10.1140/epjb/e2010-00208-1
+   Macy MW, 2002, ANNU REV SOCIOL, V28, P143, DOI 10.1146/annurev.soc.28.110601.141117
+   Marwell G, 1993, The critical mass in collective action
+   Moldovan S, 2004, TECHNOL FORECAST SOC, V71, P425, DOI [10.1016/S0040-1625(03)00026-X, 10.1016/s0040-1625(03)00026-x]
+   Monge PR, 1998, ORGAN SCI, V9, P411, DOI 10.1287/orsc.9.3.411
+   Nahon K., 2013, POLITY
+   OLIVER P, 1985, AM J SOCIOL, V91, P522, DOI 10.1086/228313
+   Pastor-Satorras R, 2001, PHYS REV LETT, V86, P3200, DOI 10.1103/PhysRevLett.86.3200
+   Pearson Erika., 2007, First Monday, V12
+   Petersen G., 2007, P 23C3 CHAOS COMM C
+   Raban DR, 2007, INTERNET RES, V17, P306, DOI 10.1108/10662240710758948
+   Rafaeli S, 2005, INT J KNOWL LEARN, V1, P62, DOI 10.1504/IJKL.2005.006251
+   Rogers E.M., 2003, DIFFUSION INNOVATION
+   Rogers EM, 1962, DIFFUSION INNOVATION
+   Rogers EM, 1995, Diffusion of innovations
+   Romero D.M., 2011, Proceedings of the 20th international conference on World wide web, P695, DOI DOI 10.1145/1963405.1963503
+   Saito K, 2008, LECT NOTES ARTIF INT, V5179, P67, DOI 10.1007/978-3-540-85567-5_9
+   Sanz J, 2014, PHYS REV X, V4, DOI 10.1103/PhysRevX.4.041005
+   Schelling T., 1978, MICROMOTIVES MACROBE
+   Schwarz N, 2009, TECHNOL FORECAST SOC, V76, P497, DOI 10.1016/j.techfore.2008.03.024
+   Shifman L, 2010, NEW MEDIA SOC, V12, P1348, DOI 10.1177/1461444810365311
+   Walther JB, 2010, INTERACTION INTERPER
+   Weitzel T, 2006, MIS QUART, V30, P489
+   Xia CY, 2013, PHYSICA A, V392, P1577, DOI 10.1016/j.physa.2012.11.043
+   Xia CY, 2012, NONLINEAR DYNAM, V69, P927, DOI 10.1007/s11071-011-0313-y
+   Yew J, 2009, GROUP 2009 PROCEEDINGS, P397
+   Zhao JC, 2010, PHYS REV E, V82, DOI 10.1103/PhysRevE.82.016105
+   Zhao LJ, 2012, PHYSICA A, V391, P2444, DOI 10.1016/j.physa.2011.12.008
+NR 69
+TC 0
+Z9 0
+U1 1
+U2 16
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD OCT 31
+PY 2016
+VL 11
+IS 10
+AR e0164651
+DI 10.1371/journal.pone.0164651
+PG 30
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA EA6BX
+UT WOS:000386711100011
+PM 27798636
+OA Green Submitted, Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU García, MD
+   Daly, AJ
+   Sánchez-Cabezudo, SS
+AF del Fresno Garcia, Miguel
+   Daly, Alan J.
+   Segado Sanchez-Cabezudo, Sagrario
+TI Identifying the new Influencers in the Internet Era: Social Media and
+   Social Network Analysis
+SO REVISTA ESPANOLA DE INVESTIGACIONES SOCIOLOGICAS
+LA Spanish
+DT Article
+DE Network Analysis; Social Communication; Social Influence; Media; Social
+   Networks
+ID INNOVATION; ORGANIZATIONS; COLLABORATION; CENTRALITY; POSITIONS
+AB Social media influencers (SMIs) can be defined as a new type of independent actor who are able to shape audience attitudes through the use of social media channels in competition and coexistence with professional media. Being able to accurately identify SMIs is critical no matter what is being transmitted in a social system. Social Network Analysis (SNA) has been recognized as a powerful tool for representing social network structures and information dissemination. SMIs can be identified by their high-ranking position in a network as the most important or central nodes. The results reveal the existence of three different typologies of SMIs: disseminator, engager and leader. This methodology permits the optimization of resources to create effective online communication strategies.
+C1 [del Fresno Garcia, Miguel; Segado Sanchez-Cabezudo, Sagrario] Univ Nacl Educ Distancia, Madrid, Spain.
+   [Daly, Alan J.] Univ Calif San Diego, La Jolla, CA 92093 USA.
+C3 Universidad Nacional de Educacion a Distancia (UNED); University of
+   California System; University of California San Diego
+RP García, MD (corresponding author), Univ Nacl Educ Distancia, Madrid, Spain.
+EM mdelfresno@der.uned.es; ajdaly@ucsd.edu; ssegado@der.uned.es
+RI Sánchez-Cabezudo, Sagrario/ABF-8336-2021
+CR Ahuja G, 2000, ADMIN SCI QUART, V45, P425, DOI 10.2307/2667105
+   Allen Thomas J., 1977, ROLE PERSON PERSON C
+   [Anonymous], 2000, Code and Other Laws of Cyberspace
+   [Anonymous], Zooming in and out, DOI DOI 10.4135/9781849209915
+   [Anonymous], 2011, NETNOGRAFIA INVESTIG
+   [Anonymous], 2004, Protocol: How Control Exists After Decentralization
+   [Anonymous], 1999, Introducing Social Networks, DOI 10.4135/9781849209373
+   [Anonymous], 1994, PUBLIC OPIN Q
+   [Anonymous], 1992, Structural holes
+   [Anonymous], 2010, ANAL SOCIAL MEDIA NE
+   [Anonymous], 2009, CONNECTED
+   [Anonymous], 2006, COMPUT MATH ORG THEO
+   Arceneaux N, 2010, NEW MEDIA SOC, V12, P1262, DOI 10.1177/1461444809360773
+   BAKER WE, 1992, J MATH SOCIOL, V16, P305, DOI 10.1080/0022250X.1992.9990093
+   Basille D., 2009, Social Media Influencers are not Traditional Influencers
+   Biddix JP, 2008, NEW MEDIA SOC, V10, P871, DOI 10.1177/1461444808096249
+   Booth N, 2011, CORP COMMUN, V16, P184, DOI 10.1108/13563281111156853
+   Borgatti SP, 2003, J MANAGE, V29, P991, DOI 10.1016/S0149-2063(03)00087-4
+   Borgatti SP, 2009, SCIENCE, V323, P892, DOI 10.1126/science.1165821
+   BOSTIAN LR, 1970, JOURNALISM QUART, V47, P109, DOI 10.1177/107769907004700115
+   BRASS DJ, 1993, ACAD MANAGE J, V36, P441, DOI 10.5465/256588
+   Burt RonaldS., 1982, Toward a Structural Theory of Action : Network Models of Social Structure, Perception, and Action
+   Burt RS, 2000, RES ORGAN BEHAV, V22, P345, DOI 10.1016/S0191-3085(00)22009-1
+   BURT RS, 1987, AM J SOCIOL, V92, P1287, DOI 10.1086/228667
+   Burt RS, 1997, SOC NETWORKS, V19, P355, DOI 10.1016/S0378-8733(97)00003-8
+   Burt RS, 1999, ANN AM ACAD POLIT SS, V566, P37, DOI 10.1177/0002716299566001004
+   Castells Manuel., 2009, COMUNICACION PODER
+   Daly A.J., 2010, Social Network Theory and Educational Change
+   DEGROOT MH, 1974, J AM STAT ASSOC, V69, P118, DOI 10.2307/2285509
+   García MD, 2014, QUAL SOC WORK, V13, P85, DOI 10.1177/1473325013507736
+   Del Fresno M., 2012, El consumidor social: Reputacion online y "social media"
+   DeMarzo PM, 2003, Q J ECON, V118, P909, DOI 10.1162/00335530360698469
+   Dorsey Joey, 2012, TWITTER TAKES PULSE
+   Durkheim Emile., 1997, Suicide: A Study in Sociology
+   Easley D., 2010, NETWORKS CROWDS MARK
+   Elmer G, 2013, NEW MEDIA SOC, V15, P18, DOI 10.1177/1461444812457328
+   Everton SF., 2011, Connections, V32, P12
+   Flap Henk., 2002, CONVENTIONS STRUCTUR
+   Freberg K, 2011, PUBLIC RELAT REV, V37, P90, DOI 10.1016/j.pubrev.2010.11.001
+   Freeman L., 2004, DEV SOCIAL NETWORK A, P687
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   FREEMAN LC, 1977, SOCIOMETRY, V40, P35, DOI 10.2307/3033543
+   Freeman Linton, 2000, J SOCIAL STRUCTURE, V1
+   Fresno Miguel del, 2011, PROF INFORM, V205, P548
+   Friedkin NE, 1997, SOC NETWORKS, V19, P209, DOI 10.1016/S0378-8733(96)00298-5
+   FRIEDKIN NE, 1990, J MATH SOCIOL, V15, P193, DOI 10.1080/0022250X.1990.9990069
+   Fuller M., 2003, BLIP ESSAYS CULTURE
+   Geere D., 2010, WIRED
+   Gladwell M., 2000, TIPPING POINT LITTLE
+   Golbeck J., 2013, ANAL SOCIAL WEB 1
+   Gorry GA, 2009, CORP REPUT REV, V12, P195, DOI 10.1057/crr.2009.16
+   GRANOVETTER M, 1985, AM J SOCIOL, V91, P481, DOI 10.1086/228311
+   GULATI R, 1995, ACAD MANAGE J, V38, P85, DOI 10.5465/256729
+   HOEDE C, 1982, J MATH SOCIOL, V8, P309, DOI 10.1080/0022250X.1982.9989927
+   Howard PN, 2002, NEW MEDIA SOC, V4, P550, DOI 10.1177/146144402321466813
+   Jackson MO, 2008, SOCIAL AND ECONOMIC NETWORKS, P1
+   Jones C, 1997, ACAD MANAGE REV, V22, P911, DOI 10.5465/AMR.1997.9711022109
+   Kadushin C., 2012, UNDERSTANDING SOCIAL
+   Larsson AO, 2012, NEW MEDIA SOC, V14, P729, DOI 10.1177/1461444811422894
+   Lazarsfeld, 1955, PERSONAL INFLUENCE P
+   Lazarsfeld P., 1944, The peoples choice: How the voter makes up his mind in a presidential campaign
+   Lenart S., 1994, SHAPING POLITICAL AT
+   Lessig L., 2009, Remix: Making Art and Commerce Thrive in the Hybrid Economy
+   LEVY MR, 1978, PUBLIC OPIN QUART, V42, P402, DOI 10.1086/268463
+   Lovejoy K, 2012, PUBLIC RELAT REV, V38, P313, DOI 10.1016/j.pubrev.2012.01.005
+   Mitchell W., 1995, CITY BITS SPACE PLAC
+   Moreno J.L., 1934, WHO SHALL SURVIVE NE, V58, DOI 10.1037/10648-000
+   Newman M., 2010, Networks: An introduction oxford univ
+   O'Keefe G., 1982, COMMUNICATION YB, V5, P667
+   Powell WW, 1996, ADMIN SCI QUART, V41, P116, DOI 10.2307/2393988
+   Raider H., 2001, COMPANION ORG, P58
+   ROBINSON JP, 1976, PUBLIC OPIN QUART, V40, P304, DOI 10.1086/268307
+   Rogers E.M., 2003, DIFFUSION INNOVATION
+   Rogers E.M., 1961, RES B, V882
+   ROGERS EM, 1962, PUBLIC OPIN QUART, V26, P435, DOI 10.1086/267118
+   Rogers EM., 1981, COMMUNICATION NETWOR
+   Rusinowska A, 2011, LECT NOTES COMPUT SC, V6663, P22, DOI 10.1007/978-3-642-21070-9_2
+   Schelling T., 1978, MICROMOTIVES MACROBE
+   Schultz F, 2011, PUBLIC RELAT REV, V37, P20, DOI 10.1016/j.pubrev.2010.12.001
+   Scott J., 2011, SOCIAL NETWORK ANAL, V2
+   Simmel George, 1971, DEV SOCIAL NETWORK A
+   Straley B., 2010, TARGET SOCIAL MEDIA
+   Stuart TE, 1998, ADMIN SCI QUART, V43, P668, DOI 10.2307/2393679
+   Sun E., 2009, Proc AAAI Intl Conf on Weblogs and Social Media, P146
+   Tsai WP, 2001, ACAD MANAGE J, V44, P996, DOI 10.5465/3069443
+   Uzzi B, 1997, ADMIN SCI QUART, V42, P35, DOI 10.2307/2393808
+   Uzzi B, 1996, AM SOCIOL REV, V61, P674, DOI 10.2307/2096399
+   Valente T. W., 2010, Social networks and health: Models, methods, and applications, DOI DOI 10.1093/ACPROF:OSO/9780195301014.001.0001
+   Valente TW, 2007, HEALTH EDUC BEHAV, V34, P881, DOI 10.1177/1090198106297855
+   van den Ban A.W., 1964, Gazette, VX, P237
+   Wasserman S., 1994, SOCIAL NETWORK ANAL
+NR 91
+TC 69
+Z9 90
+U1 3
+U2 157
+PU CENTRO INVESTIGACIONES SOCIOLOGICAS
+PI MADRID
+PA MONTALBAN 8, MADRID, 28014, SPAIN
+SN 0210-5233
+EI 1988-5903
+J9 REV ESP INVESTIG SOC
+JI Rev. Esp. Investig. Sociol.
+PD JAN-MAR
+PY 2016
+IS 153
+BP 23
+EP 42
+DI 10.5477/cis/reis.153.23
+PG 20
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA DA4WQ
+UT WOS:000367803200002
+OA Green Submitted, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Onorati, T
+   Díaz, P
+AF Onorati, Teresa
+   Diaz, Paloma
+TI Giving meaning to tweets in emergency situations: a semantic approach
+   for filtering and visualizing social data
+SO SPRINGERPLUS
+LA English
+DT Article
+DE Information visualization; Information categorization; Emergency
+   management; Semantic modeling; Ontologies
+AB In this paper, we propose a semantic approach for monitoring information published on social networks about a specific event. In the era of Big Data, when an emergency occurs information posted on social networks becomes more and more helpful for emergency operators. As direct witnesses of the situation, people share photos, videos or text messages about events that call their attention. In the emergency operation center, these data can be collected and integrated within the management process to improve the overall understanding of the situation and in particular of the citizen reactions. To support the tracking and analyzing of social network activities, there are already monitoring tools that combine visualization techniques with geographical maps. However, tweets are written from the perspective of citizens and the information they provide might be inaccurate, irrelevant or false. Our approach tries to deal with data relevance proposing an innovative ontology-based method for filtering tweets and extracting meaningful topics depending on their semantic content. In this way data become relevant for the operators to make decisions. Two real cases used to test its applicability showed that different visualization techniques might be needed to support situation awareness. This ontology-based approach can be generalized for analyzing the information flow about other domains of application changing the underlying knowledge base.
+C1 [Onorati, Teresa; Diaz, Paloma] Univ Carlos III Madrid, Dept Comp Sci, Avda Univ 30, Leganes 28911, Spain.
+C3 Universidad Carlos III de Madrid
+RP Onorati, T (corresponding author), Univ Carlos III Madrid, Dept Comp Sci, Avda Univ 30, Leganes 28911, Spain.
+EM tonorati@inf.uc3m.es
+RI ., TERESA/AAA-7118-2019
+OI ONORATI, TERESA/0000-0002-3154-249X; DIAZ PEREZ, MARIA
+   PALOMA/0000-0002-9493-7739
+FU project emerCien grant - Spanish Ministry of Economy and Competitivity
+   [TIN2012-09687]
+FX This work is supported by the project emerCien grant funded by the
+   Spanish Ministry of Economy and Competitivity (TIN2012-09687).
+CR Alexander DE, 2014, SCI ENG ETHICS, V20, P717, DOI 10.1007/s11948-013-9502-z
+   [Anonymous], ACM IUI WORKSH VIS T
+   Cao N, 2012, IEEE T VIS COMPUT GR, V18, P2649, DOI 10.1109/TVCG.2012.291
+   Diakopoulos N., 2010, 2010 Proceedings of IEEE Symposium on Visual Analytics Science and Technology (VAST 2010), P115, DOI 10.1109/VAST.2010.5652922
+   Diaz P, 2013, P 7 C METH TECHN TOO
+   Díaz P, 2014, LECT NOTES BUS INF P, V196, P85
+   Dörk M, 2010, IEEE T VIS COMPUT GR, V16, P1129, DOI 10.1109/TVCG.2010.129
+   Endsley M.R., 2003, DESIGNING SITUATION
+   Hiltz StarrRoxanne., 2014, ISCRAM, DOI DOI 10.13140/2.1.3122.4005
+   Hodgson B, 2015, GERMANWINGS 9525 ANA
+   Hoffman SussanaM., 2002, Catastrophe and Culture: The Anthropology of Disaster
+   Imran M, 2015, ACM COMPUT SURV, V47, DOI 10.1145/2771588
+   Kleinberg J, 2008, COMMUN ACM, V51, P66, DOI 10.1145/1400214.1400232
+   Lindsay B.R., 2010, J CURRENT ISSUES MED, V2, P287
+   LIU SX, 2014, SYSTEMS MAN CYBERN A, P183
+   MacEachren A. M., 2011, 2011 IEEE Conference on Visual Analytics Science and Technology, P181, DOI 10.1109/VAST.2011.6102456
+   Malizia A, 2010, EXPERT SYST APPL, V37, P3380, DOI 10.1016/j.eswa.2009.10.010
+   Miller G.A., 1990, International Journal of Lexicography, V3, P235, DOI [10.1093/ijl/3.4.235, DOI 10.1093/IJL/3.4.235]
+   Ming Hao, 2011, 2011 IEEE Conference on Visual Analytics Science and Technology, P277, DOI 10.1109/VAST.2011.6102472
+   Morstatter F, 2013, 19TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING (KDD'13), P1482
+   Onorati T, 2014, EXPERT SYST APPL, V41, P7124, DOI 10.1016/j.eswa.2014.05.039
+   Onorati T, 2015, P ISCRAM IN PRESS
+   Palen L., 2007, Proceedings of the ACM Conference on Human Factors in Computing Systems CHI 2007, P727, DOI DOI 10.1145/1240624.1240736
+   Reuter Christian, 2012, International Journal of Information Systems for Crisis Response and Management, V4, P1, DOI 10.4018/jiscrm.2012010101
+   Thom D, 2015, IEEE PAC VIS SYMP, P183, DOI 10.1109/PACIFICVIS.2015.7156376
+   Thomas J. J., 2005, Illuminating the Path: The Research and Development Agenda for Visual Analytics
+   Thomson AJ, 2007, COMPUT ELECTRON AGR, V59, P21, DOI 10.1016/j.compag.2007.04.007
+   Westlund O, 2013, DIGIT JOURNAL, V1, P6, DOI 10.1080/21670811.2012.740273
+   Wu Y, 2014, IEEE TVCG, V2626(C), P1
+   Yin J, 2012, IEEE INTELL SYST, V27, P52, DOI 10.1109/MIS.2012.6
+   Zimmerman C, 2015, LECT NOTES COMPUT SC, V9073, P386, DOI 10.1007/978-3-319-18714-3_28
+NR 31
+TC 14
+Z9 16
+U1 1
+U2 20
+PU SPRINGER INT PUBL AG
+PI CHAM
+PA GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN 2193-1801
+J9 SPRINGERPLUS
+JI SpringerPlus
+PD OCT 13
+PY 2016
+VL 5
+AR 1782
+DI 10.1186/s40064-016-3384-x
+PG 17
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA EH5IZ
+UT WOS:000391807900001
+PM 27795924
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Eckles, D
+   Kizilcec, RF
+   Bakshy, E
+AF Eckles, Dean
+   Kizilcec, Rene F.
+   Bakshy, Eytan
+TI Estimating peer effects in networks with peer encouragement designs
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE social interactions; social networks; causal inference; experimental
+   design
+ID INSTRUMENTAL VARIABLES; SOCIAL NETWORK; IDENTIFICATION; CONTAGION;
+   MODELS; INFERENCE; SPREAD
+AB Peer effects, in which the behavior of an individual is affected by the behavior of their peers, are central to social science. Because peer effects are often confounded with homophily and common external causes, recent work has used randomized experiments to estimate effects of specific peer behaviors. These experiments have often relied on the experimenter being able to randomly modulate mechanisms by which peer behavior is transmitted to a focal individual. We describe experimental designs that instead randomly assign individuals' peers to encouragements to behaviors that directly affect those individuals. We illustrate this method with a large peer encouragement design on Facebook for estimating the effects of receiving feedback from peers on posts shared by focal individuals. We find evidence for substantial effects of receiving marginal feedback on multiple behaviors, including giving feedback to others and continued posting. These findings provide experimental evidence for the role of behaviors directed at specific individuals in the adoption and continued use of communication technologies. In comparison, observational estimates differ substantially, both underestimating and overestimating effects, suggesting that researchers and policy makers should be cautious in relying on them.
+C1 [Eckles, Dean] MIT, Sloan Sch Management, 77 Massachusetts Ave, Cambridge, MA 02139 USA.
+   [Eckles, Dean; Kizilcec, Rene F.; Bakshy, Eytan] Facebook, Menlo Pk, CA 94025 USA.
+   [Kizilcec, Rene F.] Stanford Univ, Dept Commun, Stanford, CA 94305 USA.
+C3 Massachusetts Institute of Technology (MIT); Facebook Inc; Stanford
+   University
+RP Eckles, D (corresponding author), MIT, Sloan Sch Management, 77 Massachusetts Ave, Cambridge, MA 02139 USA.; Eckles, D (corresponding author), Facebook, Menlo Pk, CA 94025 USA.
+EM dean@deaneckles.com
+OI Eckles, Dean/0000-0001-8439-442X
+CR Angelucci M, 2009, AM ECON REV, V99, P486, DOI 10.1257/aer.99.1.486
+   Angrist JD, 1996, J AM STAT ASSOC, V91, P444, DOI 10.2307/2291629
+   ANGRIST JD, 1995, J AM STAT ASSOC, V90, P431, DOI 10.2307/2291054
+   [Anonymous], 2012, NATURAL EXPT SOCIAL
+   Aral S, 2012, SCIENCE, V337, P337, DOI 10.1126/science.1215842
+   Aral S, 2011, MANAGE SCI, V57, P1623, DOI 10.1287/mnsc.1110.1421
+   Aral S, 2009, P NATL ACAD SCI USA, V106, P21544, DOI 10.1073/pnas.0908800106
+   Aronow P, 2014, WORKING PAPER
+   Aronow PM, 2013, POLIT ANAL, V21, P492, DOI 10.1093/pan/mpt013
+   ASCH SE, 1956, PSYCHOL MONOGR, V70, P1, DOI 10.1037/h0093718
+   Athey S, 2015, ARXIV150602084
+   Bakshy E., 2012, P 13 ACM C EL COMM, P146
+   Bakshy E., 2012, P 21 INT C WORLD WID, P519, DOI DOI 10.1145/2187836.2187907
+   Belloni A, 2012, ECONOMETRICA, V80, P2369, DOI 10.3982/ECTA9626
+   Bogatz GA., 1971, The Second Year of Sesame Street: A Continuing Evaluation. Volume, V1
+   Bond RM, 2012, NATURE, V489, P295, DOI 10.1038/nature11421
+   BOUND J, 1995, J AM STAT ASSOC, V90, P443, DOI 10.2307/2291055
+   Burke M, 2014, 32ND ANNUAL ACM CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS (CHI 2014), P4187, DOI 10.1145/2556288.2557094
+   Burke M, 2009, CHI2009: PROCEEDINGS OF THE 27TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, VOLS 1-4, P945
+   Cai J, 2012, AM ECON J-APPL ECON, V7, P81
+   Cameron AC, 2011, J BUS ECON STAT, V29, P238, DOI 10.1198/jbes.2010.07136
+   Carrell SE, 2009, J LABOR ECON, V27, P439, DOI 10.1086/600143
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Christakis NA, 2008, NEW ENGL J MED, V358, P2249, DOI 10.1056/NEJMsa0706154
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   Christakis NA, 2013, STAT MED, V32, P556, DOI 10.1002/sim.5408
+   Cohen-Cole E, 2008, BMJ-BRIT MED J, V337, DOI 10.1136/bmj.a2533
+   Conley TG, 1999, J ECONOMETRICS, V92, P1, DOI 10.1016/S0304-4076(98)00084-0
+   Coppock A, 2016, POLIT BEHAV, V38, P105, DOI 10.1007/s11109-015-9308-6
+   COX D. R., 1958, A Wiley Publication in Applied Statistics
+   Deaton A, 2010, J ECON LIT, V48, P424, DOI 10.1257/jel.48.2.424
+   DEUTSCH MORTON, 1955, JOUR ABNORMAL AND SOCIAL PSYCHOL, V51-31, P629, DOI 10.1037/h0046408
+   Duflo E, 2003, Q J ECON, V118, P815, DOI 10.1162/00335530360698432
+   Forastiere L, 2016, J AM STAT ASSOC, V111, P510, DOI 10.1080/01621459.2015.1125788
+   Frey BS, 2001, J ECON SURV, V15, P589, DOI 10.1111/1467-6419.00150
+   Heckman JJ, 1999, P NATL ACAD SCI USA, V96, P4730, DOI 10.1073/pnas.96.8.4730
+   Holl P, 1988, SOCIOLOGICAL METHODO, V18, P449, DOI DOI 10.1002/J.2330-8516.1988.TB00270.X
+   Imbens GW, 2014, STAT SCI, V29, P323, DOI 10.1214/14-STS480
+   Imbens GW, 2010, J ECON LIT, V48, P399, DOI 10.1257/jel.48.2.399
+   Imbens GW, 2015, CAUSAL INFERENCE FOR STATISTICS, SOCIAL, AND BIOMEDICAL SCIENCES: AN INTRODUCTION, P1, DOI 10.1017/CBO9781139025751
+   IMBENS GW, 1994, ECONOMETRICA, V62, P467, DOI 10.2307/2951620
+   Jacobs A. Z., 2015, P WEBSCI 2015
+   Kling JR, 2007, ECONOMETRICA, V75, P83, DOI 10.1111/j.1468-0262.2007.00733.x
+   Lochner L, 2015, REV ECON STAT, V97, P387, DOI 10.1162/REST_a_00475
+   MANSKI CF, 1993, REV ECON STUD, V60, P531, DOI 10.2307/2298123
+   Manski CF, 2000, J ECON PERSPECT, V14, P115, DOI 10.1257/jep.14.3.115
+   Manski CF, 2013, ECONOMET J, V16, pS1, DOI 10.1111/j.1368-423X.2012.00368.x
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Miguel E, 2004, ECONOMETRICA, V72, P159, DOI 10.1111/j.1468-0262.2004.00481.x
+   Moffitt R. A, 2001, SOC DYNAM, V4, P6, DOI DOI 10.7551/MITPRESS/6294.003.0005
+   Nickerson DW, 2008, AM POLIT SCI REV, V102, P49, DOI 10.1017/S0003055408080039
+   Ogburn EL, 2014, STAT SCI, V29, P559, DOI 10.1214/14-STS501
+   Pearl J, 2009, STAT SURV, V3, P96, DOI 10.1214/09-SS057
+   POWERS DE, 1984, J EDUC PSYCHOL, V76, P266
+   Sacerdote B, 2001, Q J ECON, V116, P681, DOI 10.1162/00335530151144131
+   Salganik MJ, 2006, SCIENCE, V311, P854, DOI 10.1126/science.1121066
+   Shalizi CR, 2011, SOCIOL METHOD RES, V40, P211, DOI 10.1177/0049124111404820
+   Shriver SK, 2013, MANAGE SCI, V59, P1425, DOI 10.1287/mnsc.1110.1648
+   Thomas AC, 2013, STAT MED, V32, P581, DOI 10.1002/sim.5551
+   Tibshirani R, 1996, J ROY STAT SOC B, V58, P267, DOI 10.1111/j.2517-6161.1996.tb02080.x
+   Tucker CE, 2008, MANAGE SCI, V54, P2024, DOI 10.1287/mnsc.1080.0897
+   Ugander J, 2012, P NATL ACAD SCI USA, V109, P5962, DOI 10.1073/pnas.1116502109
+   Walker D, 2014, P IEEE, V102, P1940, DOI 10.1109/JPROC.2014.2363674
+NR 63
+TC 56
+Z9 80
+U1 6
+U2 51
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD JUL 5
+PY 2016
+VL 113
+IS 27
+BP 7316
+EP 7322
+DI 10.1073/pnas.1511201113
+PG 7
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA DQ2GW
+UT WOS:000379021700034
+PM 27382145
+OA Green Published, Bronze
+DA 2024-11-22
+ER
+
+PT J
+AU Ramazi, P
+   Cao, M
+   Weissing, FJ
+AF Ramazi, Pouria
+   Cao, Ming
+   Weissing, Franz J.
+TI Evolutionary Dynamics of Homophily and Heterophily
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID SOCIAL NETWORKS; COOPERATION; ALTRUISM; CONTINGENT; MODEL; COEVOLUTION;
+   BEHAVIOR; GAMES
+AB Most social interactions do not take place at random. In many situations, individuals choose their interaction partners on the basis of phenotypic cues. When this happens, individuals are often homophilic, that is, they tend to interact with individuals that are similar to them. Here we investigate the joint evolution of phenotypic cues and cue-dependent interaction strategies. By a combination of individual-based simulations and analytical arguments, we show that homophily evolves less easily than earlier studies suggest. The evolutionary interplay of cues and cue-based behaviour is intricate and has many interesting facets. For example, an interaction strategy like heterophily may stably persist in the population even if it is selected against in association with any particular cue. Homophily persisted for extensive periods of time just in those simulations where homophilic interactions provide a lower (rather than a higher) payoff than heterophilic interactions. Our results indicate that even the simplest cue-based social interactions can have rich dynamics and a surprising diversity of evolutionary outcomes.
+C1 [Ramazi, Pouria; Cao, Ming] Univ Groningen, Fac Math & Nat Sci, ENTEG, Nijenborgh 4, NL-9747 AG Groningen, Netherlands.
+   [Weissing, Franz J.] Univ Groningen, Groningen Inst Evolutionary Life Sci, Nijenborgh 7, NL-9747 AG Groningen, Netherlands.
+C3 University of Groningen; University of Groningen
+RP Weissing, FJ (corresponding author), Univ Groningen, Groningen Inst Evolutionary Life Sci, Nijenborgh 7, NL-9747 AG Groningen, Netherlands.
+EM f.j.weissing@rug.nl
+RI Cao, Ming/B-6808-2013; Cao, Ming/L-5257-2016
+OI Weissing, Franz J./0000-0003-3281-663X; Cao, Ming/0000-0001-5472-562X
+FU European Research Council [ERC-StG-307207]
+FX P.R. and M.C. are in part supported by the European Research Council
+   (ERC-StG-307207).
+CR Antal T, 2009, P NATL ACAD SCI USA, V106, P8597, DOI 10.1073/pnas.0902528106
+   Axelrod R, 2004, EVOLUTION, V58, P1833
+   Baracchi D, 2015, P ROY SOC B-BIOL SCI, V282, DOI 10.1098/rspb.2014.2750
+   Bojanowski M, 2014, SOC NETWORKS, V39, P14, DOI 10.1016/j.socnet.2014.04.001
+   Botero CA, 2010, EVOLUTION, V64, P3123, DOI 10.1111/j.1558-5646.2010.01065.x
+   Cooper R., 1998, COORDINATION GAMES
+   Croft DP, 2005, OECOLOGIA, V143, P211, DOI 10.1007/s00442-004-1796-8
+   Débarre F, 2014, NAT COMMUN, V5, DOI 10.1038/ncomms4409
+   Foster KR, 2006, J EVOLUTION BIOL, V19, P1283, DOI 10.1111/j.1420-9101.2005.01073.x
+   Fu F, 2012, SCI REP-UK, V2, DOI 10.1038/srep00845
+   García J, 2014, J THEOR BIOL, V360, P181, DOI 10.1016/j.jtbi.2014.07.002
+   Gardner A, 2011, J EVOLUTION BIOL, V24, P1020, DOI 10.1111/j.1420-9101.2011.02236.x
+   Gardner A, 2010, EVOLUTION, V64, P25, DOI 10.1111/j.1558-5646.2009.00842.x
+   Guttridge TL, 2009, ANIM BEHAV, V78, P543, DOI 10.1016/j.anbehav.2009.06.009
+   Hadzibeganovic T, 2015, BEHAV PROCESS, V113, P86, DOI 10.1016/j.beproc.2015.01.003
+   Hadzibeganovic T, 2012, COMPUT PHYS COMMUN, V183, P2315, DOI 10.1016/j.cpc.2012.05.020
+   HAMILTON WD, 1964, J THEOR BIOL, V7, P1, DOI [10.1016/0022-5193(64)90038-4, 10.1016/0022-5193(64)90039-6]
+   Hammond RA, 2006, THEOR POPUL BIOL, V69, P333, DOI 10.1016/j.tpb.2005.12.002
+   Hammond RA, 2006, J CONFLICT RESOLUT, V50, P926, DOI 10.1177/0022002706293470
+   Harsanyi J. C., 1988, GEN THEORY EQUILIBRI, V1
+   Jansen VAA, 2006, NATURE, V440, P663, DOI 10.1038/nature04387
+   Jansson F, 2015, J THEOR BIOL, V373, P100, DOI 10.1016/j.jtbi.2015.03.008
+   Jansson F, 2013, JASSS-J ARTIF SOC S, V16, DOI 10.18564/jasss.2163
+   Jensen NH, 2015, HUM NATURE-INT BIOS, V26, P210, DOI 10.1007/s12110-015-9229-4
+   Jost L, 2006, OIKOS, V113, P363, DOI 10.1111/j.2006.0030-1299.14714.x
+   Kuijper B, 2012, ANNU REV ECOL EVOL S, V43, P287, DOI 10.1146/annurev-ecolsys-110411-160245
+   Laird RA, 2012, INT J BIFURCAT CHAOS, V22, DOI 10.1142/S021812741230039X
+   Laird RA, 2011, J THEOR BIOL, V288, P84, DOI 10.1016/j.jtbi.2011.07.023
+   Lieberman E, 2005, NATURE, V433, P312, DOI 10.1038/nature03204
+   Maynard Smith J., 1982, pi
+   McAvity DM, 2013, J THEOR BIOL, V333, P58, DOI 10.1016/j.jtbi.2013.04.027
+   McNamara J. M., 2010, SOCIAL BEHAV GENES E, P109
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Molleman L, 2013, EVOL HUM BEHAV, V34, P342, DOI 10.1016/j.evolhumbehav.2013.06.001
+   Pacheco JM, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.258103
+   Perc M, 2010, BIOSYSTEMS, V99, P109, DOI 10.1016/j.biosystems.2009.10.003
+   Ramazi P, 2014, IEEE DECIS CONTR P, P4515, DOI 10.1109/CDC.2014.7040094
+   Riolo RL, 2001, NATURE, V414, P441, DOI 10.1038/35106555
+   Rivera MT, 2010, ANNU REV SOCIOL, V36, P91, DOI 10.1146/annurev.soc.34.040507.134743
+   Roberts G, 2002, NATURE, V418, P499, DOI 10.1038/418499b
+   Roca CP, 2011, P NATL ACAD SCI USA, V108, P11370, DOI 10.1073/pnas.1101044108
+   Samuelson Larry., 1998, Evolutionary games and equilibrium selection
+   Schelling TC, 1960, The strategy of conflict
+   SELTEN R, 1983, MATH SOC SCI, V5, P269, DOI 10.1016/0165-4896(83)90012-4
+   Shutters ST, 2013, JASSS-J ARTIF SOC S, V16, DOI 10.18564/jasss.2090
+   Simon B, 2013, EVOLUTION, V67, P1561, DOI 10.1111/j.1558-5646.2012.01835.x
+   SMITH JM, 1976, ANIM BEHAV, V24, P159, DOI 10.1016/S0003-3472(76)80110-8
+   Szabó G, 2007, PHYS REP, V446, P97, DOI 10.1016/j.physrep.2007.04.004
+   Traulsen A, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.046128
+   Traulsen A, 2007, PLOS ONE, V2, DOI 10.1371/journal.pone.0000270
+   van Baalen M, 2003, P ROY SOC B-BIOL SCI, V270, P69, DOI 10.1098/rspb.2002.2151
+   Van Damme E., 1991, STABILITY PERFECTION
+   van den Berg P, 2015, P ROY SOC B-BIOL SCI, V282, DOI 10.1098/rspb.2015.1382
+   van Doorn GS, 2006, AM NAT, V168, P742, DOI 10.1086/508634
+   Van Doorn GS, 2003, BEHAVIOUR, V140, P1305, DOI 10.1163/156853903771980602
+   Wakano JY, 2009, P NATL ACAD SCI USA, V106, P7910, DOI 10.1073/pnas.0812644106
+   Wang Z, 2015, PHYS LIFE REV, V14, P1, DOI 10.1016/j.plrev.2015.04.033
+   Wolf M, 2011, P ROY SOC B-BIOL SCI, V278, P440, DOI 10.1098/rspb.2010.1051
+   Wu T, 2013, J THEOR BIOL, V330, P45, DOI 10.1016/j.jtbi.2013.04.007
+   YOUNG HP, 1993, ECONOMETRICA, V61, P57, DOI 10.2307/2951778
+   Zhang CY, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0035183
+NR 61
+TC 19
+Z9 20
+U1 0
+U2 29
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD MAR 8
+PY 2016
+VL 6
+AR 22766
+DI 10.1038/srep22766
+PG 9
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA DF9DC
+UT WOS:000371659500001
+PM 26951038
+OA gold, Green Published
+DA 2024-11-22
+ER

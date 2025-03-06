@@ -1,0 +1,589 @@
+
+PT J
+AU Aral, S
+   Muchnik, L
+   Sundararajan, A
+AF Aral, Sinan
+   Muchnik, Lev
+   Sundararajan, Arun
+TI Distinguishing influence-based contagion from homophily-driven diffusion
+   in dynamic networks
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE dynamic matching estimation; peer influence; social networks;
+   identification
+ID IDENTIFICATION; SPREAD
+AB Node characteristics and behaviors are often correlated with the structure of social networks over time. While evidence of this type of assortative mixing and temporal clustering of behaviors among linked nodes is used to support claims of peer influence and social contagion in networks, homophily may also explain such evidence. Here we develop a dynamic matched sample estimation framework to distinguish influence and homophily effects in dynamic networks, and we apply this framework to a global instant messaging network of 27.4 million users, using data on the day-by-day adoption of a mobile service application and users' longitudinal behavioral, demographic, and geographic data. We find that previous methods overestimate peer influence in product adoption decisions in this network by 300-700%, and that homophily explains >50% of the perceived behavioral contagion. These findings and methods are essential to both our understanding of the mechanisms that drive contagions in networks and our knowledge of how to propagate or combat them in domains as diverse as epidemiology, marketing, development economics, and public health.
+C1 [Aral, Sinan; Muchnik, Lev; Sundararajan, Arun] NYU, Kaufmann Management Ctr, Stern Sch Business, Informat Operat & Management Sci Dept, New York, NY 10012 USA.
+   [Aral, Sinan] MIT, Alfred P Sloan Sch Management, Ctr Digital Business, Cambridge, MA 02142 USA.
+C3 New York University; Massachusetts Institute of Technology (MIT)
+RP Aral, S (corresponding author), NYU, Kaufmann Management Ctr, Stern Sch Business, Informat Operat & Management Sci Dept, 44 W 4th St, New York, NY 10012 USA.
+EM sinan@stern.nyu.edu
+OI Aral, Sinan/0000-0002-2762-058X; Muchnik, Lev/0000-0002-5011-8336
+FU Institute for Innovation and Information Productivity; Marketing
+   Sciences Institute; New York University Stern School of Business;
+   National Science Foundation [0953832]; IBM; Oracle; Div Of Information &
+   Intelligent Systems; Direct For Computer & Info Scie & Enginr [0953832]
+   Funding Source: National Science Foundation
+FX We thank Yahoo! Inc. for their generosity in providing the data for this
+   study. Financial support was received from the Institute for Innovation
+   and Information Productivity, the Marketing Sciences Institute, and the
+   New York University Stern School of Business. S.A. received financial
+   support from National Science Foundation CAREER Award 0953832, IBM, and
+   Oracle.
+CR Adamic L.A., 2005, P 3 INT WORKSH LINK, P36, DOI DOI 10.1145/1134271.1134277
+   [Anonymous], 2006, KDD
+   [Anonymous], 2008, Proceedings of the 15th ACM SIGKDD international conference on Knowledge discovery and data mining, DOI [10.1145/1401890.1401897, DOI 10.1145/1401890.1401897]
+   ARAL S, 2009, INFORM TECHNOLOGY IN
+   ARAL S, 2008, PRODUCTIVITY EFFECTS
+   Aral S, 2009, NETWORKS INFORM BROK
+   Balthrop J, 2004, SCIENCE, V304, P527, DOI 10.1126/science.1095845
+   Barthélemy M, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.178701
+   Bramoullé Y, 2009, J ECONOMETRICS, V150, P41, DOI 10.1016/j.jeconom.2008.12.021
+   Brock WA, 2001, REV ECON STUD, V68, P235, DOI 10.1111/1467-937X.00168
+   Cartwright D., 1965, HDB ORG, P1
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   Christakis NA, 2008, NEW ENGL J MED, V358, P2249, DOI 10.1056/NEJMsa0706154
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   COLEMAN JS, 1958, HUM ORGAN, V17, P28, DOI 10.17730/humo.17.4.q5604m676260q8n7
+   Crandall DavidJ., 2008, KDD, P160, DOI 10.1145/1401890.1401914
+   Dodds PS, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.218701
+   Eubank S, 2004, NATURE, V429, P180, DOI 10.1038/nature02541
+   Fowler JH, 2008, BMJ-BRIT MED J, V337, DOI 10.1136/bmj.a2338
+   FRANK O, 1986, J AM STAT ASSOC, V81, P832, DOI 10.2307/2289017
+   Guimerà R, 2005, SCIENCE, V308, P697, DOI 10.1126/science.1106340
+   Hidalgo CA, 2007, SCIENCE, V317, P482, DOI 10.1126/science.1144581
+   Hill S, 2006, STAT SCI, V21, P256, DOI 10.1214/088342306000000222
+   Jackson MO, 2008, LECT NOTES COMPUT SC, V5385, P4, DOI 10.1007/978-3-540-92185-1_3
+   JAVA A, 2006, WWW C ED UK
+   Kossinets G, 2006, SCIENCE, V311, P88, DOI 10.1126/science.1116869
+   Lazer D, 2009, SCIENCE, V323, P721, DOI 10.1126/science.1167742
+   Leskovec J., 2008, Proceedings of the 17th International Conference on World Wide Web, DOI 10.1145/1367497.1367620
+   Madar N, 2004, EUR PHYS J B, V38, P269, DOI 10.1140/epjb/e2004-00119-8
+   MANSKI CF, 1993, REV ECON STUD, V60, P531, DOI 10.2307/2298123
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Newman MEJ, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.208701
+   Oestreicher-Singer G., 2008, VISIBLE HAND SOCIAL
+   Onnela JP, 2007, P NATL ACAD SCI USA, V104, P7332, DOI 10.1073/pnas.0610245104
+   Palla G, 2007, NATURE, V446, P664, DOI 10.1038/nature05670
+   Park JY, 2007, P NATL ACAD SCI USA, V104, P17916, DOI 10.1073/pnas.0705081104
+   ROSENBAUM PR, 1983, BIOMETRIKA, V70, P41, DOI 10.1093/biomet/70.1.41
+   Sacerdote B, 2001, Q J ECON, V116, P681, DOI 10.1162/00335530151144131
+   Snijders T, 2007, EUR ASSOC METHODOL S, P41
+   Tucker CE, 2008, MANAGE SCI, V54, P2024, DOI 10.1287/mnsc.1080.0897
+   Venkatesan K, 2009, NAT METHODS, V6, P83, DOI 10.1038/NMETH.1280
+NR 41
+TC 730
+Z9 926
+U1 4
+U2 201
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD DEC 22
+PY 2009
+VL 106
+IS 51
+BP 21544
+EP 21549
+DI 10.1073/pnas.0908800106
+PG 6
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA 535TM
+UT WOS:000272994200017
+PM 20007780
+OA Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Chen, WH
+   Wellman, B
+AF Chen, Wenhong
+   Wellman, Barry
+TI NET AND JET The Internet use, travel and social networks of Chinese
+   Canadian entrepreneurs
+SO INFORMATION COMMUNICATION & SOCIETY
+LA English
+DT Article
+DE computer-mediated communication; Internet; travel; social networks;
+   social capital; glocalized networks
+ID PERFORMANCE; TECHNOLOGY; CORE; TIES
+AB How does the connectivity afforded by new communication and transportation technologies affect entrepreneurs' geographic and social closeness to each other? Using qualitative and quantitative evidence we analyse how Chinese Canadian entrepreneurs combine the Internet and airplane travel in their business activities. Our results show that the use of new communication and transportation technologies are positively related to the creation and maintenance of 'glocalized' networks, a function of both local embeddedness and global outreach. We find that online interaction cannot replace face-to-face interaction; travel abroad is crucial for adding a human touch to glocalized networks. Moreover, while technologies help to liberate communication from being local, Internet use and travel have limited impact on the ethnic diversity of the entrepreneurs' social networks.
+C1 [Chen, Wenhong] Duke Univ, Dept Sociol, Durham, NC 27708 USA.
+   [Wellman, Barry] Univ Toronto, Dept Sociol, Toronto, ON M55 2J4, Canada.
+C3 Duke University; University of Toronto
+RP Chen, WH (corresponding author), Duke Univ, Dept Sociol, 265 SOC PSYCH BLDG Box 9088, Durham, NC 27708 USA.
+EM wenhong.chen@duke.edu; wellman@chass.utoronto.ca
+CR [Anonymous], 2008, SOCIAL CAPITAL INT R
+   [Anonymous], THESIS GRONINGEN
+   [Anonymous], WORKING PAPER SERIES
+   [Anonymous], 2018, RSAI NEWSL NEW SER
+   [Anonymous], 2004, HDB ENTREPRENEURIAL
+   Arenius P, 2005, J INT ENTREP, V3, P279, DOI 10.1007/s10843-006-7856-x
+   Baker WayneE., 1984, SOCIAL DYNAMICS FINA, P107
+   BATES S, 1995, END GEOGRAPHY S THEO
+   Bender Thomas., 1978, COMMUNITY SOCIAL CHA
+   BOASE J, 2006, THESIS U TORONTO
+   Castells M., 2006, Rise of the Network Society
+   CHEN W, 2007, THESIS U TORONTO
+   Chen WH, 2006, NEW TECHNOLOGIES IN GLOBAL SOCIETIES, P197, DOI 10.1142/9789812773555_0009
+   Dimitrova D., 2007, WHO DO SCI NETWORK
+   Erickson B., 2004, A report on measuring the social capital in weak ties
+   FELD SL, 1982, AM SOCIOL REV, V47, P797, DOI 10.2307/2095216
+   Festinger L, 1963, SOCIAL PRESSURE INFO
+   Friedman TL., 2005, WORLD IS FLAT BRIEF
+   Gibson CB, 2006, ADMIN SCI QUART, V51, P451, DOI 10.2189/asqu.51.3.451
+   Hallowell EM, 1999, HARVARD BUS REV, V77, P58
+   HAMPTON K, 1999, DIGITAL CITIES EXPER, P475
+   Hampton K.H., 2001, THESIS U TORONTO
+   Haythornthwaite C., 2002, INTERNET EVERYDAY LI, P3
+   Hiller HH, 2004, NEW MEDIA SOC, V6, P731, DOI 10.1177/146144804044327
+   Katz J. E., 2002, Social consequences of Internet use: access, involvement, and interaction
+   Kossinets G, 2006, SCIENCE, V311, P88, DOI 10.1126/science.1116869
+   Lin N, 2000, CONTEMP SOCIOL, V29, P785, DOI 10.2307/2654086
+   Lin N., 2000, Social capital: A theory of structure and action
+   MARSDEN PV, 1987, AM SOCIOL REV, V52, P122, DOI 10.2307/2095397
+   Matei S., 2002, INTERNET EVERYDAY LI, P404
+   McDougall P., 2003, J INT ENTREP, V1, P59
+   McLuhan M., 1989, The global village: Transformations in world life and media in the 21st century
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   McPherson M, 2006, AM SOCIOL REV, V71, P353, DOI 10.1177/000312240607100301
+   Merton R. K., 1957, SOCIAL THEORY SOCIAL
+   MILGRAM S, 1967, PSYCHOL TODAY, V1, P61
+   Miller D., 2000, INTERNET ETHNOGRAPHI
+   MOK D, 2009, DOES DISTANCE MATTER
+   Mok D, 2007, SOC NETWORKS, V29, P430, DOI 10.1016/j.socnet.2007.01.009
+   Ong Aihwa., 1997, UNGROUNDED EMPIRES C
+   Panagakos AN, 2006, GLOBAL NETW, V6, P109, DOI 10.1111/j.1471-0374.2006.00136.x
+   Panagakos AN, 2003, IDENTITIES-GLOB STUD, V10, P201, DOI 10.1080/10702890304326
+   Peng MW, 2000, ACAD MANAGE J, V43, P486, DOI 10.5465/1556406
+   Quan-Haase A, 2002, INTERNET EVERYDAY LI, P291, DOI DOI 10.1002/9780470774298.CH10
+   Quan-Haase A., 2006, The firm as a collaborative community, P281
+   Reynolds Malvina., 1962, LITTLE BOXES
+   Rialp-Criado A., 2002, PHENOMENON INT NEW V
+   Saxenian A.L., 1994, Regional advantage: Culture and competition in Silicon Valley and Route, V128
+   Shklovski I., 2004, J COMPUTER MEDIATED, V10
+   Shklovski I., 2006, COMPUTERS PHONES INT, P251
+   Simmel Georg., 1908, On Individuality and Social Forms, P143
+   Sorenson O, 2001, AM J SOCIOL, V106, P1546, DOI 10.1086/321301
+   Staber U, 1995, CAN J SOCIOL, V20, P441, DOI 10.2307/3341853
+   Uzzi B, 1996, AM SOCIOL REV, V61, P674, DOI 10.2307/2096399
+   WANG HH, 2009, AM BEHAV SC IN PRESS
+   WEBBER M, 1963, CITIES SPACE FUTURE, P51
+   Wellman B, 2002, LECT NOTES COMPUT SC, V2362, P10
+   Wellman B., 1999, NETWORKS GLOBAL VILL, P331, DOI DOI 10.4324/9780429498718
+   Ye JL, 2006, J COMPUT-MEDIAT COMM, V11
+   YOO M, 2003, THESIS U MICHIGAN
+   Zhao SY, 2006, J COMPUT-MEDIAT COMM, V11
+NR 61
+TC 32
+Z9 36
+U1 1
+U2 22
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1369-118X
+EI 1468-4462
+J9 INFORM COMMUN SOC
+JI Info. Commun. Soc.
+PY 2009
+VL 12
+IS 4
+BP 525
+EP 547
+DI 10.1080/13691180902858080
+PG 23
+WC Communication; Sociology
+WE Social Science Citation Index (SSCI)
+SC Communication; Sociology
+GA V16LM
+UT WOS:000207871100005
+DA 2024-11-22
+ER
+
+PT J
+AU Ackland, R
+AF Ackland, Robert
+TI Social Network Services as Data Sources and Platforms for e-Researching
+   Social Networks
+SO SOCIAL SCIENCE COMPUTER REVIEW
+LA English
+DT Article
+DE e-Research; hyperlink analysis; social network analysis; social science
+   methods; online networks; social network services; Facebook
+ID SEMANTIC WEB; LINKS
+AB Social network services such as Facebook provide new data for social science research into, for example, the role of individual characteristics in friendship formation and the diffusion of tastes in social networks. This article assesses the potential of social network services for social science research in two ways. First, it is argued that social scientists conduct hyperlink analysis differently to applied physicists and researchers from the library and information sciences, and face constraints (relating to theory, methods and availability of appropriate tools) that are not encountered in the other disciplinary approaches. However, the constraints regarding theory and methods are less likely to be faced by researchers of online social networks, and for this reason, the rise of Facebook and other similar services is a potential boon for empirical social scientists interested in networks. The second part of the article focuses specifically on the availability of research tools, and it is argued that social network services may eventually serve as e-Research platforms for delivering social network analysis tools.
+C1 Australian Natl Univ, Australian Demog & Social Res Inst, Canberra, ACT, Australia.
+C3 Australian National University
+RP Ackland, R (corresponding author), Australian Natl Univ, Australian Demog & Social Res Inst, Canberra, ACT, Australia.
+EM robert.ackland@anu.edu.au
+RI Ackland, Robert/D-9273-2013
+OI Ackland, Robert/0000-0002-0008-1766
+CR ALMIND TC, 1997, J DOC, V55, P404
+   [Anonymous], AUSTR EL GOV C APR 1
+   [Anonymous], 2006, 26 INT SUNB SOC NETW
+   [Anonymous], J COMPUTER MEDIATED
+   [Anonymous], 2 INT C E SOC SCI JU
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barjak F, 2008, J AM SOC INF SCI TEC, V59, P628, DOI 10.1002/asi.20776
+   Benkler Y., 2006, WEALTH NETWORKS SOCI
+   Berners-Lee T, 2001, SCI AM, V284, P34, DOI 10.1038/scientificamerican0501-34
+   Björneborn L, 2004, J AM SOC INF SCI TEC, V55, P1216, DOI 10.1002/asi.20077
+   Boyd DM, 2007, J COMPUT-MEDIAT COMM, V13, P210, DOI 10.1111/j.1083-6101.2007.00393.x
+   CHIN J, 2004, UKES200401
+   CONTRACTOR N, 2008, 4 INT E SOC SCI C JU
+   DIANI M, 2001, INFORM COMMUNICATION, V3, P86
+   Diani Mario., 2003, SOCIAL MOVEMENTS NET, P299, DOI [10.1093/0199251789.001.0001, DOI 10.1093/0199251789.001.0001]
+   GONZALEZBAILO S, 2007, THESIS U OXFORD
+   Jackson M., 2004, Group Formation in Economics; Networks, Clubs and Coalitions
+   Jackson MO, 2005, J EUR ECON ASSOC, V3, P617, DOI 10.1162/1542476054473440
+   Lewis K, 2008, SOC NETWORKS, V30, P330, DOI 10.1016/j.socnet.2008.07.002
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Newman MEJ, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.208701
+   Park HW, 2008, JAVNOST-PUBLIC, V15, P57
+   Rogers R, 2000, PUBLIC UNDERST SCI, V9, P141, DOI 10.1088/0963-6625/9/2/304
+   Shadbolt N, 2006, IEEE INTELL SYST, V21, P96, DOI 10.1109/MIS.2006.62
+   Shumate M, 2008, J COMPUT-MEDIAT COMM, V13, P405, DOI 10.1111/j.1083-6101.2008.00402.x
+   Tapscott D., 2007, Wikinomics: How mass collaboration changes everything
+   Thelwall M, 2005, ANNU REV INFORM SCI, V39, P81, DOI 10.1002/aris.1440390110
+   Thelwall M, 2004, INFORM PROCESS MANAG, V40, P125, DOI 10.1016/S0306-4573(02)00083-3
+   Thelwall M, 2002, J AM SOC INF SCI TEC, V53, P995, DOI 10.1002/asi.10135
+   Thompson SK, 2006, BIOMETRICS, V62, P1224, DOI 10.1111/j.1541-0420.2006.00576.x
+   Von Hippel, 2006, DEMOCRATIZING INNOVA
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   Welser H.T., 2007, Journal of social structure, V8, P1
+   YANG X, 2006, P WEBIST C APR 11 13
+NR 34
+TC 46
+Z9 49
+U1 6
+U2 124
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0894-4393
+EI 1552-8286
+J9 SOC SCI COMPUT REV
+JI Soc. Sci. Comput. Rev.
+PD NOV
+PY 2009
+VL 27
+IS 4
+BP 481
+EP 492
+DI 10.1177/0894439309332291
+PG 12
+WC Computer Science, Interdisciplinary Applications; Information Science &
+   Library Science; Social Sciences, Interdisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science; Information Science & Library Science; Social Sciences
+   - Other Topics
+GA 509AW
+UT WOS:000270984300003
+DA 2024-11-22
+ER
+
+PT J
+AU Schnettler, S
+AF Schnettler, Sebastian
+TI A structured overview of 50 years of small-world research
+SO SOCIAL NETWORKS
+LA English
+DT Review
+DE Small-world phenomenon; Social networks; Six degrees of separation;
+   Small-world experiment; Social process; Social structure; Complex
+   networks; New science of networks; Milgram; Social capital; Network
+   dynamics
+ID ACQUAINTANCE NETWORKS; HIDDEN POPULATIONS; MULTIPLE NETWORKS;
+   SOCIAL-STRUCTURE; INFORMATION; DYNAMICS; CONTACTS; INTERNET; SEARCH;
+   CHAINS
+AB This paper offers a structured overview of 50 years of small-world research. Initially formulated by Pool and Kochen in the mid-1950s, the small-world concept can be divided into six research foci, based on three dimensions (structural, process-related, psychological), and two process-related themes (diffusion, search). Building on this analytical distinction, the article provides a historical summary of the different phases of research on the small-world problem, and summarizes the empirical and theoretical progress on different facets of the small-world phenomenon. The paper concludes with a brief assessment of accomplishments and open questions, suggesting some possible future research areas. (C) 2009 Elsevier B.V. All rights reserved.
+C1 Yale Univ, Dept Sociol, Ctr Res Inequal & Life Course, New Haven, CT 06520 USA.
+C3 Yale University
+RP Schnettler, S (corresponding author), Yale Univ, Dept Sociol, Ctr Res Inequal & Life Course, POB 208265, New Haven, CT 06520 USA.
+EM sebastian.schnettler@yale.edu
+RI Schnettler, Sebastian/I-1657-2012
+CR Acquisti A, 2006, PRIVACY AND TECHNOLOGIES OF IDENTITY: A CROSS-DISCIPLINARY CONVERSATION, P15, DOI 10.1007/0-387-28222-X_2
+   Adamic L, 2005, SOC NETWORKS, V27, P187, DOI 10.1016/j.socnet.2005.01.007
+   Adamic LA, 2001, PHYS REV E, V64, DOI 10.1103/PhysRevE.64.046135
+   Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   Albert R, 1999, NATURE, V401, P130, DOI 10.1038/43601
+   Albert R, 2000, NATURE, V406, P378, DOI 10.1038/35019019
+   Albet R, 2001, NATURE, V409, P542, DOI 10.1038/35054111
+   [Anonymous], 1997, CONNECTIONS
+   [Anonymous], 1977, ANN INT COMMUN ASS
+   [Anonymous], 1976, U COMMUNICATION NETW
+   [Anonymous], 1953, Em: Bulletin of Mathematical Biology, DOI DOI 10.1007/BF02476441
+   [Anonymous], 1989, The Small World
+   [Anonymous], 1989, The Small world
+   [Anonymous], 2003, Six Degrees: The Science of a Connected Age
+   Bainbridge WS, 2007, SCIENCE, V317, P472, DOI 10.1126/science.1146930
+   Barabási AL, 2003, JASSS-J ARTIF SOC S, V6
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barnes Susan., 2006, 1 MONDAY, P11
+   Bearman PS, 2004, AM J SOCIOL, V110, P44, DOI 10.1086/386272
+   Bell DC, 2007, SOC NETWORKS, V29, P279, DOI 10.1016/j.socnet.2006.12.004
+   BERNARD HR, 1990, SOC NETWORKS, V12, P179, DOI 10.1016/0378-8733(90)90005-T
+   BERNARD HR, 1979, SOCIOLOGICAL S, V28, P87
+   Bian YJ, 1997, AM SOCIOL REV, V62, P366, DOI 10.2307/2657311
+   BOCHNER S, 1976, J SOC PSYCHOL, V100, P277, DOI 10.1080/00224545.1976.9711939
+   BOCHNER S, 1976, J APPL SOC PSYCHOL, V6, P275, DOI 10.1111/j.1559-1816.1976.tb01331.x
+   BOCHNER S, 1979, INT J PSYCHOL, V14, P37, DOI 10.1080/00207597908246710
+   BOORMAN SA, 1976, AM J SOCIOL, V81, P1384, DOI 10.1086/226228
+   BRISTOR JM, 1989, THE SMALL WORLD, P88
+   Broder A, 2000, COMPUT NETW, V33, P309, DOI 10.1016/S1389-1286(00)00083-9
+   BURT RS, 1992, NETWORKS AND ORGANIZATIONS : STRUCTURE, FORM, AND ACTION, P57
+   BURTCH R, 1989, TECHNICAL PAPERS : 1989 ASPRS/ACSM ANNUAL CONVENTION, VOL 5, P67
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   Charmaz K., 2006, Brokerage and closure: An introduction to social capital
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   COLEMAN J, 1957, SOCIOMETRY, V20, P253, DOI 10.2307/2785979
+   Collins R., 2004, INTERACTION RITUAL C, DOI 10.1515/9781400851744
+   Crossley N, 2005, SOCIOL REV, V53, P351, DOI 10.1111/j.1467-954X.2005.00518_1.x
+   CUTHBERT KR, 1989, THE SMALL WORLD, P211
+   Davis G. F., 2003, Strategic Organization, V1, P301, DOI 10.1177/14761270030013002
+   DEUTSCH KW, 1989, THE SMALL WORLD, pR15
+   Dodds PS, 2003, SCIENCE, V301, P827, DOI 10.1126/science.1081058
+   Donovan P, 2007, DIOGENES, V54, P59, DOI 10.1177/0392192107073434
+   Doreian P, 2004, SOC NETWORKS, V26, P29, DOI 10.1016/j.socnet.2004.01.002
+   Dorogovtsev SN, 2002, ADV PHYS, V51, P1079, DOI 10.1080/00018730110112519
+   ERICKSON BH, 1978, CAN J SOCIOL, V3, P71, DOI 10.2307/3339794
+   ERICKSON BH, 1975, CAN REV SOC ANTHROP, V12, P585
+   Erickson BH., 1979, SOCIOL METHODOL, V10, P276, DOI DOI 10.2307/270774
+   FELD SL, 1989, THE SMALL WORLD, P100
+   Fowler JamesH., 2005, SOCIAL LOGIC POLITIC, P269
+   Freeman L., 1989, SMALL WORLD, P147
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   FREEMAN LC, 1978, SOC NETWORKS, V1, P1
+   Fulkerson GM, 2008, SOCIOL INQ, V78, P536, DOI 10.1111/j.1475-682X.2008.00260.x
+   Gigerenzer G., 1999, SIMPLE HEURISTICS MA, DOI DOI 10.1177/1354067X0171006
+   GILLY MC, 1991, J CONSUM AFF, V25, P295, DOI 10.1111/j.1745-6606.1991.tb00007.x
+   Granovetter M, 2003, SCIENCE, V301, P773, DOI 10.1126/science.1088508
+   Granovetter M, 1995, Getting a Job: A Study of Contacts and Careers
+   Granovetter M., 1983, SOCIOLOGICAL THEORY, V1, P201, DOI [https://doi.org/10.2307/202051, 10.2307/202051, DOI 10.2307/202051]
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Guare J., 1990, Six degrees of separation: A Play
+   GUIOT JM, 1976, EUR J SOC PSYCHOL, V6, P503, DOI 10.1002/ejsp.2420060409
+   Heckathorn DD, 2002, SOC PROBL, V49, P11, DOI 10.1525/sp.2002.49.1.11
+   Heckathorn DD, 1997, SOC PROBL, V44, P174, DOI 10.1525/sp.1997.44.2.03x0221m
+   Hedström P, 2000, AM J SOCIOL, V106, P145, DOI 10.1086/303109
+   Huberman BA, 1999, NATURE, V401, P131, DOI 10.1038/43604
+   HUNTER JE, 1974, SOC FORCES, V52, P321, DOI 10.2307/2576887
+   IAMNITCHI A, 2004, SMALL WORLD FILE SHA, V2, P952
+   JOHNSEN EC, 1989, THE SMALL WORLD, P239
+   Keller EF, 2005, BIOESSAYS, V27, P1060, DOI 10.1002/bies.20294
+   KILLWORTH PD, 1978, SOC NETWORKS, V1, P159, DOI 10.1016/0378-8733(78)90018-7
+   Killworth PD, 2006, SOC NETWORKS, V28, P85, DOI 10.1016/j.socnet.2005.06.001
+   KILLWORTH PD, 1976, HUM ORGAN, V35, P269, DOI 10.17730/humo.35.3.10215j2m359266n2
+   Kleinberg J., 2000, Proceedings of the Thirty Second Annual ACM Symposium on Theory of Computing, P163, DOI 10.1145/335305.335325
+   Kleinberg JM, 2000, NATURE, V406, P845, DOI 10.1038/35022643
+   Klovdahl AS., 1989, SMALL WORLD, P176
+   KOCHEN M, 1985, SOC NETWORKS, V7, P323, DOI 10.1016/0378-8733(85)90011-5
+   KOCHEN M, 1989, THE SMALL WORLD, pR7
+   Kogut B, 2001, AM SOCIOL REV, V66, P317, DOI 10.2307/3088882
+   KORTE C, 1970, J PERS SOC PSYCHOL, V15, P101, DOI 10.1037/h0029198
+   Latora V, 2002, PHYSICA A, V314, P109, DOI 10.1016/S0378-4371(02)01089-0
+   Latora V, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.198701
+   Lee N., 1969, SEARCH ABORTIONIST
+   LESKOVEC L, 2007, WORLDWIDE BUZZ PLANE
+   Liben-Nowell D, 2008, P NATL ACAD SCI USA, V105, P4633, DOI 10.1073/pnas.0708471105
+   Liljeros F, 2001, NATURE, V411, P907, DOI 10.1038/35082140
+   LIN N, 1978, SOCIOL METHOD RES, V7, P149
+   Lin N., 2001, SOCIAL CAPITAL THEOR, V4, P57, DOI [10.4324/9781315129457-3, DOI 10.4324/9781315129457-3]
+   LIN N, 1989, THE SMALL WORLD, P231
+   Lin N., 2002, SOCIAL CAPITAL THEOR
+   Lin Nan., 2008, Social Capital: An International Research Program, P1, DOI DOI 10.1093/ACPROF:OSO/9780199234387.003.0010
+   LUNDBERG CC, 1975, PAC SOCIOL REV, V18, P206
+   Magnani R, 2005, AIDS, V19, pS67, DOI 10.1097/01.aids.0000172879.20628.e1
+   McCarty C, 2001, HUM ORGAN, V60, P28, DOI 10.17730/humo.60.1.efx5t9gjtgmga73y
+   McDonald S, 2006, SOC FORCES, V85, P521, DOI 10.1353/sof.2006.0133
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   MILGRAM S, 1967, PSYCHOL TODAY, V1, P61
+   Milgram S., 1977, INDIVIDUAL SOCIAL WO
+   Mouw T, 2003, AM SOCIOL REV, V68, P868, DOI 10.2307/1519749
+   Newman ME., 2006, STRUCTURE DYNAMICS N
+   Newman MEJ, 2000, J STAT PHYS, V101, P819, DOI 10.1023/A:1026485807148
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   Newman MEJ, 2001, PHYS REV E, V64, DOI [10.1103/PhysRevE.64.016132, 10.1103/PhysRevE.64.016131]
+   Newman MEJ, 2000, PHYS REV LETT, V84, P3201, DOI 10.1103/PhysRevLett.84.3201
+   Plickert G, 2007, SOC NETWORKS, V29, P405, DOI 10.1016/j.socnet.2007.01.007
+   POOL ID, 1978, SOC NETWORKS, V1, P5, DOI 10.1016/0378-8733(78)90011-4
+   PUTNAM RD, 1995, PS, V28, P664, DOI 10.2307/420517
+   RAPOPORT A, 1989, THE SMALL WORLD
+   RAPOPORT ANATOL, 1953, BULL MATH BIOPHYS, V15, P523, DOI 10.1007/BF02476440
+   RICHARDSON RJ, 1979, CAN J SOCIOL, V4, P379, DOI 10.2307/3340260
+   Rogers E., 2003, DIFFUSION INNOVATION
+   Röper A, 2009, SOC NETWORKS, V31, P40, DOI 10.1016/j.socnet.2008.09.002
+   Salganik MJ, 2004, SOCIOL METHODOL, V34, P193, DOI 10.1111/j.0081-1750.2004.00152.x
+   Schnettler S, 2009, SOC NETWORKS, V31, P179, DOI 10.1016/j.socnet.2008.12.005
+   SKVORETZ J, 1989, THE SMALL WORLD, P296
+   STEVENSON WB, 1991, ACAD MANAGE J, V34, P918, DOI 10.5465/256396
+   TRAVERS J, 1969, SOCIOMETRY, V32, P425, DOI 10.2307/2786545
+   Urry J, 2004, GLOBAL NETW, V4, P109, DOI 10.1111/j.1471-0374.2004.00083.x
+   van der Leij M., 2006, STRONG TIES SMALL WO
+   WALLACE MD, 1989, THE SMALL WORLD, P128
+   Watts DJ, 1999, AM J SOCIOL, V105, P493, DOI 10.1086/210318
+   Watts DJ, 2004, ANNU REV SOCIOL, V30, P243, DOI 10.1146/annurev.soc.30.020404.104342
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Watts DJ, 2002, SCIENCE, V296, P1302, DOI 10.1126/science.1070120
+   Watts Duncan J., 1999, Small Worlds: The Dynamics of Networks between Order and Randomness
+   WEIMANN G, 1983, SOC NETWORKS, V5, P289, DOI 10.1016/0378-8733(83)90029-1
+   White D. R., 2002, Complexity, V8, P72, DOI 10.1002/cplx.10053
+   White HarrisonC., 1970, CHAINS OPPORTUNITY S
+   White HC, 2008, IDENTITY AND CONTROL: HOW SOCIAL FORMATIONS EMERGE, 2ND EDITION, P1
+   WHITE HC, 1981, AM J SOCIOL, V87, P517, DOI 10.1086/227495
+   WILLIAMSON PR, 1989, THE SMALL WORLD, P108
+   Xu J., 2005, P 38 ANN HAW INT C S, p198a
+NR 131
+TC 97
+Z9 118
+U1 1
+U2 105
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JUL
+PY 2009
+VL 31
+IS 3
+BP 165
+EP 178
+DI 10.1016/j.socnet.2008.12.004
+PG 14
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 468RX
+UT WOS:000267838900001
+DA 2024-11-22
+ER
+
+PT J
+AU Crossley, N
+AF Crossley, Nick
+TI The man whose web expanded: Network dynamics in Manchester's post/punk
+   music scene 1976-1980
+SO POETICS
+LA English
+DT Article
+ID SOCIAL NETWORKS; COLLECTIVE ACTION; INTERDEPENDENCE
+AB The Manchester (UK) music scene has been extremely important in the development of independent and alternative music within Europe. As such it has been the topic of two major films. It is commonly held that the Manchester scene 'took off' in the late 1970s. This paper observes that its 'take off' was facilitated by the formation of a network between a critical mass of key social actors. The aim of the paper is to demonstrate this process of network formation and to seek to contribute to its explanation by identifying the key mechanisms (of network formation) involved.
+   The paper uses formal social network analysis to map the network in question and to demonstrate its growth. It uses a more straightforward historical-sociological approach, which is qualitative and archival in nature, to identify the salient mechanisms. The paper adds an interesting and important case study to the existing literature on music scenes and also suggests a novel way for both advancing research on music scenes and further extending the use of social network analysis (and network analytic concepts) in relation to the arts. Finally, it makes an important empirical contribution to the newly emerging area of 'network dynamics'. (C) 2008 Elsevier B.V. All rights reserved.
+C1 Univ Manchester, Sch Social Sci, Manchester M13 9PL, Lancs, England.
+C3 University of Manchester
+RP Crossley, N (corresponding author), Univ Manchester, Sch Social Sci, Oxford Rd, Manchester M13 9PL, Lancs, England.
+EM nick.crossley@manchester.ac.uk
+OI Crossley, Nick/0000-0003-0969-9121
+CR [Anonymous], 2006, Micromotives and Macrobehavior
+   [Anonymous], SHAKE RATTLE RAIN
+   [Anonymous], MANCHESTER ENGLAND
+   [Anonymous], 1992, CONT SOCIOLOGICAL TH
+   [Anonymous], 1999, Small Worlds
+   [Anonymous], ENGLANDS DREAMING
+   [Anonymous], 1952, STRUCTURE FUNCTION P
+   [Anonymous], 2003, SOCIAL MOVEMENTS NET
+   Barabasi Albert-Laszlo., 2003, LINKED
+   Becker Howard S., 2008, ART WORLDS
+   Bennett A, 2004, POETICS, V32, P223, DOI 10.1016/j.poetic.2004.05.004
+   Bottero Wendy., 2005, STRATIFICATION
+   BOURDIEU P, 1986, HOMO ACAD
+   BOURDIEU R, 1992, INTRO REFLEXIVE SOCI
+   Bourdieu R, 1993, FIELD CULTURAL PRODU
+   BOURDIEU R, 1990, LOVE ART
+   Burk WJ, 2007, INT J BEHAV DEV, V31, P397, DOI 10.1177/0165025407077762
+   Burt R.S., 2007, Brokerage and closure: An introduction to social capital
+   CERULO KA, 1984, SOCIAL FORCES, V62
+   Cohen S., 1991, ROCK CULTURE LIVERPO
+   Coleman J.S., 1994, FDN SOCIAL THEORY
+   Crossley N, 2001, THEOR SOC, V30, P81, DOI 10.1023/A:1011070710987
+   CROSSLEY N, 2008, KEY CONCEPTS
+   Crossley N, 2008, THEOR CULT SOC, V25, P89, DOI 10.1177/0263276408095546
+   Crossley N, 2008, BRIT J SOCIOL, V59, P475, DOI 10.1111/j.1468-4446.2008.00204.x
+   Curtis D., 1995, TOUCHING DISTANCE
+   de Nooy W, 2003, POETICS, V31, P305, DOI 10.1016/S0304-422X(03)00035-4
+   De Nooy W., 2018, EXPLORATORY SOCIAL N
+   Durkheim Emile., 1915, The Elementary Forms of the Religious Life
+   EDWARDS G, 2009, METHODOLOGI IN PRESS
+   Elias Norbert., 1978, WHAT IS SOCIOLOGY
+   Elster Jon, 2007, Explaining social behavior: more nuts and bolts for the social sciences
+   EMIRBAYER M, 1994, AM J SOCIOL, V99, P1411, DOI 10.1086/230450
+   FELD SL, 1981, AM J SOCIOL, V86, P1015, DOI 10.1086/227352
+   FELD SL, 1982, AM SOCIOL REV, V47, P797, DOI 10.2307/2095216
+   FORD S, 2003, HIP PRIEST
+   GOULD RV, 1991, AM SOCIOL REV, V56, P716, DOI 10.2307/2096251
+   GOULD RV, 1993, AM SOCIOL REV, V58, P182, DOI 10.2307/2095965
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Halpern David., 2005, Social Capital
+   Hedstrom P., 1998, SOCIAL MECH
+   Huisman M., 2005, MODELS METHODS SOCIA, P270
+   Kim HJ, 1997, AM SOCIOL REV, V62, P70, DOI 10.2307/2657453
+   Knox H, 2006, ECON SOC, V35, P113, DOI 10.1080/03085140500465899
+   Latour, 2005, Reassembling the Social: An Introduction to Actor-Network Theory
+   Lopez Jose., 2000, SOCIAL STRUCTURE
+   MARWELL G, 1988, AM J SOCIOL, V94, P502, DOI 10.1086/229028
+   McAdam Doug., 1999, POLITICAL PROCESS DE, V2nd
+   McAdam Doug., 2003, Dynamics of Contention
+   MIDDLES M, 1985, SMITHS
+   MIDDLES M, 1993, RED MICK
+   Mische A, 1998, SOC RES, V65, P695
+   Morris A., 1984, ORIGIN CIVIL RIGHTS
+   Nadel S.F., 1957, The Theory of Social Structure
+   NOLAN D, 2007, BERNARD SUMNER
+   Nolan David., 2006, I SWEAR I WAS THERE
+   O'Connor A., 2002, POP MUSIC, V21, P225, DOI DOI 10.1017/S0261143002002143
+   OLIVER P, 1985, AM J SOCIOL, V91, P522, DOI 10.1086/228313
+   OLIVER PE, 1988, AM SOCIOL REV, V53, P1, DOI 10.2307/2095728
+   Ott Chris, 2006, Unknown Pleasures
+   Reddington H., 2007, LOST WOMEN ROCK MUSI
+   Reynolds Simon., 2005, RIP IT START AGAIN
+   Shank Barry., 1994, DISSONANT IDENTITIES
+   SHARP C, 2007, WHO KILLED M HANNETT
+   SNOW DA, 1980, AM SOCIOL REV, V45, P787, DOI 10.2307/2094895
+   Straw Will., 1991, Cultural Studies, V5, P361
+   Thornton S., 1995, CLUB CULTURES
+   Tilly Charles., 2002, Stories, Identities, and Political Change
+   Tilly Charles., 2006, IDENTITIES BOUNDARIE
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   Watts D.J., 2004, 6 DEGREES
+   Wellman B., 1997, Social Structures: A Network Approach (Contemporary Studies in Sociology)
+   Wilson Tony., 2002, 24 HOUR PARTY PEOPLE
+NR 73
+TC 57
+Z9 71
+U1 2
+U2 420
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0304-422X
+EI 1872-7514
+J9 POETICS
+JI Poetics
+PD FEB
+PY 2009
+VL 37
+IS 1
+BP 24
+EP 49
+DI 10.1016/j.poetic.2008.10.002
+PG 26
+WC Literature; Sociology
+WE Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Literature; Sociology
+GA 405GM
+UT WOS:000263211000002
+DA 2024-11-22
+ER

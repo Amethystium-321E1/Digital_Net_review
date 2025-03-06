@@ -1,0 +1,509 @@
+
+PT J
+AU Shirado, H
+   Iosifidis, G
+   Tassiulas, L
+   Christakis, NA
+AF Shirado, Hirokazu
+   Iosifidis, George
+   Tassiulas, Leandros
+   Christakis, Nicholas A.
+TI Resource sharing in technologically defined social networks
+SO NATURE COMMUNICATIONS
+LA English
+DT Article
+ID COMMUNITY STRUCTURE; EXCHANGE; BEHAVIOR; TRUST; POWER; RECIPROCITY;
+   CENTRALITY; EMERGENCE; EVOLUTION
+AB Technologically enabled sharing-economy networks are changing the way humans trade and collaborate. Here, using a novel 'Wi-Fi sharing' game, we explored determinants of human sharing strategy. Subjects (N = 1,950) participated in a networked game in which they could choose how to allocate a limited, but personally not usable, resource (representing unused Wi-Fi bandwidth) to immediate network neighbors. We first embedded N = 600 subjects into 30 networks, experimentally manipulating the range over which subjects could connect. We find that denser networks decrease any wealth inequality, but that this effect saturates. Individuals' benefit is shaped by their network position, with having many partners who in turn have few partners being especially beneficial. We propose a new, simplified "sharing centrality" metric for quantifying this. Further experiments (N = 1,200) confirm the robustness of the effect of network structure on sharing behavior. Our findings suggest the possibility of interventions to help more evenly distribute shared resources over networks.
+C1 [Shirado, Hirokazu; Tassiulas, Leandros; Christakis, Nicholas A.] Yale Univ, Yale Inst Network Sci, New Haven, CT 06520 USA.
+   [Shirado, Hirokazu; Christakis, Nicholas A.] Yale Univ, Dept Sociol, New Haven, CT 06520 USA.
+   [Iosifidis, George] Trinity Coll Dublin, Sch Comp Sci & Stat, Dublin 2, Ireland.
+   [Iosifidis, George] SFI Res Ctr CONNECT, Dublin 2, Ireland.
+   [Tassiulas, Leandros] Yale Univ, Dept Elect Engn, New Haven, CT 06520 USA.
+   [Christakis, Nicholas A.] Yale Univ, Dept Biomed Engn, New Haven, CT 06520 USA.
+C3 Yale University; Yale University; Trinity College Dublin; Yale
+   University; Yale University
+RP Christakis, NA (corresponding author), Yale Univ, Yale Inst Network Sci, New Haven, CT 06520 USA.; Christakis, NA (corresponding author), Yale Univ, Dept Sociol, New Haven, CT 06520 USA.; Christakis, NA (corresponding author), Yale Univ, Dept Biomed Engn, New Haven, CT 06520 USA.
+EM nicholas.christakis@yale.edu
+OI Shirado, Hirokazu/0000-0003-4545-7859; Iosifidis, George
+   (Georgios)/0000-0003-1001-2323; Christakis, Nicholas/0000-0001-5547-1086
+FU Robert Wood Johnson Foundation; Tata Sons Limited; Tata Consultancy
+   Services Limited; Tata Chemicals Limited; National Institute of Social
+   Science; Science Foundation Ireland [17/CDA/4760, 16/IA/4610]; Science
+   Foundation Ireland (SFI) [17/CDA/4760] Funding Source: Science
+   Foundation Ireland (SFI)
+FX We thank Forrest W. Crawford, Dimitrios Katsaros, Andrew V.
+   Papachristos, Yongren Shi, and Martin Wainstein for helpful comments.
+   Special thanks go to Mark McKnight who provided technical advice,
+   support, and programming for our Breadboard platform. Support for this
+   research was provided by a grant from the Robert Wood Johnson
+   Foundation, Tata Sons Limited, Tata Consultancy Services Limited, Tata
+   Chemicals Limited, and the National Institute of Social Science. G. I.
+   acknowledges the support by Science Foundation Ireland through grants
+   17/CDA/4760 and 16/IA/4610.
+CR Abrahao B, 2017, P NATL ACAD SCI USA, V114, P9848, DOI 10.1073/pnas.1604234114
+   Ai W, 2016, P NATL ACAD SCI USA, V113, P14944, DOI 10.1073/pnas.1606085113
+   Allen B, 2017, NATURE, V544, P227, DOI 10.1038/nature21723
+   ALLISON PD, 1978, AM SOCIOL REV, V43, P865, DOI 10.2307/2094626
+   [Anonymous], 1999, WWW 1999
+   Azevedo EM, 2016, SCIENCE, V352, P1056, DOI 10.1126/science.aaf7781
+   Bendtsen KM, 2016, P NATL ACAD SCI USA, V113, P12099, DOI 10.1073/pnas.1511273113
+   BERG J, 1995, GAME ECON BEHAV, V10, P122, DOI 10.1006/game.1995.1027
+   BONACICH P, 1987, AM J SOCIOL, V92, P1170, DOI 10.1086/228631
+   BOYD R, 1988, J THEOR BIOL, V132, P337, DOI 10.1016/S0022-5193(88)80219-4
+   Braess D, 2005, TRANSPORT SCI, V39, P446, DOI 10.1287/trsc.1050.0127
+   Chaudhuri A, 2011, EXP ECON, V14, P47, DOI 10.1007/s10683-010-9257-1
+   DAWES RM, 1980, ANNU REV PSYCHOL, V31, P169, DOI 10.1146/annurev.ps.31.020180.001125
+   Efstathiou EC, 2010, IEEE T MOBILE COMPUT, V9, P1147, DOI 10.1109/TMC.2010.79
+   Fehl K, 2011, ECOL LETT, V14, P546, DOI 10.1111/j.1461-0248.2011.01615.x
+   FELSON M, 1978, AM BEHAV SCI, V21, P614, DOI 10.1177/000276427802100411
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   Gavaldà-Miralles A, 2014, P NATL ACAD SCI USA, V111, P15322, DOI 10.1073/pnas.1309389111
+   Georgiadis L., 2015, SIGMETRICS, V15, P43
+   Gkatzikis L, 2014, INT CONF SMART GRID, P103, DOI 10.1109/SmartGridComm.2014.7007630
+   Gracia-Lázaro C, 2012, P NATL ACAD SCI USA, V109, P12922, DOI 10.1073/pnas.1206681109
+   Gurven M, 2004, BEHAV BRAIN SCI, V27, P543, DOI 10.1017/S0140525X04000123
+   Hawkes K, 2002, EVOL ANTHROPOL, V11, P58, DOI 10.1002/evan.20005
+   Iosifidis G, 2018, NAT HUM BEHAV, V2, P822, DOI 10.1038/s41562-018-0450-0
+   Iosifidis G, 2014, IEEE COMMUN MAG, V52, P20, DOI 10.1109/MCOM.2014.6894448
+   Jackson M. O., 2012, AM EC ASS, V102, P1957
+   Judd JS, 2008, EC'08: PROCEEDINGS OF THE 2008 ACM CONFERENCE ON ELECTRONIC COMMERCE, P150
+   LAWLER EJ, 1993, AM SOCIOL REV, V58, P465, DOI 10.2307/2096071
+   Levi-Strauss Claude., 1949, The Elementary Structures of Kinship
+   MARKOVSKY B, 1993, AM SOCIOL REV, V58, P197, DOI 10.2307/2095966
+   Mauss M., 2001, The Gift: Forms and Functions of Exchange in Archaic Societies
+   Micholia P, 2018, IEEE COMMUN SURV TUT, V20, P3581, DOI 10.1109/COMST.2018.2817686
+   Molm LD, 2000, AM J SOCIOL, V105, P1396, DOI 10.1086/210434
+   Newman MEJ, 2003, LECT NOTES PHYS, V625, P66
+   Nishi A, 2015, NATURE, V526, P426, DOI 10.1038/nature15392
+   Nowak MA., 2006, EVOLUTIONARY DYNAMIC, DOI [10.1086/523139, DOI 10.2307/J.CTVJGHW98, 10.2307/j.ctvjghw98]
+   Penrose M., 2003, Oxford Studies in Probability., V5
+   Perc M, 2017, PHYS REP, V687, P1, DOI 10.1016/j.physrep.2017.05.004
+   Perc M, 2010, BIOSYSTEMS, V99, P109, DOI 10.1016/j.biosystems.2009.10.003
+   Rand DG, 2013, TRENDS COGN SCI, V17, P413, DOI 10.1016/j.tics.2013.06.003
+   Rand DG, 2012, J THEOR BIOL, V299, P172, DOI 10.1016/j.jtbi.2011.03.004
+   Santi P, 2014, P NATL ACAD SCI USA, V111, P13290, DOI 10.1073/pnas.1403657111
+   Shirado H, 2017, NATURE, V545, P370, DOI 10.1038/nature22332
+   Shirado H, 2013, NAT COMMUN, V4, DOI 10.1038/ncomms3814
+   Simmel G., 1971, INDIVIDUALITY SOCIAL, P324
+   Squartini T., 2013, NATURE SCI REP, V3, P1
+   Sundararajan A., 2016, THE SHARING EC
+   Syrivelis Dimitris, 2015, 2015 IEEE Conference on Computer Communications (INFOCOM). Proceedings, P2146, DOI 10.1109/INFOCOM.2015.7218600
+   Szolnoki A., 2014, PHYS REV E, V89, P3055
+   Szolnoki A, 2013, NEW J PHYS, V15, DOI 10.1088/1367-2630/15/5/053010
+   THOMAS D, 1990, J HUM RESOUR, V25, P635, DOI 10.2307/145670
+   Thomas KA, 2017, COMPUT HUM BEHAV, V77, P184, DOI 10.1016/j.chb.2017.08.038
+   Wang Y, 2006, MANAGE SCI, V52, P1223, DOI 10.1287/mnsc.1060.0513
+   YAMAGISHI T, 1993, SOC PSYCHOL QUART, V56, P235, DOI 10.2307/2786661
+   YAMAGISHI T, 1986, J PERS SOC PSYCHOL, V51, P110, DOI 10.1037/0022-3514.51.1.110
+   Zelizer VA, 2000, LAW SOCIAL INQUIRY, V25, P817, DOI 10.1111/j.1747-4469.2000.tb00162.x
+NR 56
+TC 21
+Z9 21
+U1 2
+U2 21
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 2041-1723
+J9 NAT COMMUN
+JI Nat. Commun.
+PD MAR 6
+PY 2019
+VL 10
+AR 1079
+DI 10.1038/s41467-019-08935-2
+PG 10
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA HN7YS
+UT WOS:000460410300004
+PM 30842424
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Zhu, XZ
+   Ma, JM
+   Su, X
+   Tian, H
+   Wang, W
+   Cai, SM
+AF Zhu, Xuzhen
+   Ma, Jinming
+   Su, Xin
+   Tian, Hui
+   Wang, Wei
+   Cai, Shimin
+TI Information Spreading on Weighted Multiplex Social Network
+SO COMPLEXITY
+LA English
+DT Article
+ID COMPLEX NETWORKS; DYNAMICS; FACEBOOK; DIFFUSION; EVOLUTION; TWITTER;
+   MODEL
+AB Information spreading on multiplex networks has been investigated widely. For multiplex networks, the relations of each layer possess different extents of intimacy, which can be described as weighted multiplex networks. Nevertheless, the effect of weighted multiplex network structures on information spreading has not been analyzed comprehensively. We herein propose an information spreading model on a weighted multiplex network. Then, we develop an edge-weight-based compartmental theory to describe the spreading dynamics. We discover that under any adoption threshold of two subnetworks, reducing weight distribution heterogeneity does not alter the growth pattern of the final adoption size versus information transmission probability while accelerating information spreading. For fixed weight distribution, the growth pattern changes with the heterogeneous of degree distribution. There is a critical initial seed size, below which no global information outbreak can occur. Extensive numerical simulations affirm that the theoretical predictions agree well with the numerical results.
+C1 [Zhu, Xuzhen; Ma, Jinming; Tian, Hui] Beijing Univ Posts & Telecommun, State Key Lab Networking & Switching Technol, Beijing 100876, Peoples R China.
+   [Su, Xin] Beijing Univ Posts & Telecommun, Sch Econ & Management, Beijing 100876, Peoples R China.
+   [Wang, Wei] Sichuan Univ, Cybersecur Res Inst, Chengdu 610065, Sichuan, Peoples R China.
+   [Cai, Shimin] Univ Elect Sci & Technol China, Sch Comp Sci & Engn, Web Sci Ctr, Chengdu 611731, Sichuan, Peoples R China.
+C3 Beijing University of Posts & Telecommunications; Beijing University of
+   Posts & Telecommunications; Sichuan University; University of Electronic
+   Science & Technology of China
+RP Wang, W (corresponding author), Sichuan Univ, Cybersecur Res Inst, Chengdu 610065, Sichuan, Peoples R China.
+EM wwzqbx@hotmail.com
+RI Yang, Zhaohui/T-5687-2019; Su, Xin/GMX-2317-2022; Cai,
+   Shimin/L-7841-2014; Wang, Wei/A-1091-2016
+OI Cai, Shimin/0000-0002-2089-5150; Su, Xin/0000-0003-3425-9734; Zhu,
+   Xuzhen/0000-0002-9159-6844; Wang, Wei/0000-0003-4088-5395
+FU National Natural Science Foundation of China [61602048, 61673086];
+   Fundamental Research Funds of the Central Universities
+FX This work was supported by the National Natural Science Foundation of
+   China (nos. 61602048, and 61673086) and the Fundamental Research Funds
+   of the Central Universities.
+CR Amato R, 2017, NEW J PHYS, V19, DOI 10.1088/1367-2630/aa936a
+   Amato R, 2017, SCI REP-UK, V7, DOI 10.1038/s41598-017-06933-2
+   Anand S, 2015, IEEE T KNOWL DATA EN, V27, P2839, DOI 10.1109/TKDE.2015.2419653
+   [Anonymous], 2018, NETWORKS
+   Banerjee A, 2013, SCIENCE, V341, P363, DOI 10.1126/science.1236498
+   Barrat A, 2004, P NATL ACAD SCI USA, V101, P3747, DOI 10.1073/pnas.0400087101
+   Boccaletti S, 2006, PHYS REP, V424, P175, DOI 10.1016/j.physrep.2005.10.009
+   Bu Z, 2019, INFORM SCIENCES, V498, P41, DOI 10.1016/j.ins.2019.05.050
+   Cao J, 2019, IEEE T SYST MAN CY-S, V49, P1652, DOI 10.1109/TSMC.2019.2899366
+   Castellano C, 2009, REV MOD PHYS, V81, P591, DOI 10.1103/RevModPhys.81.591
+   Catanzaro M, 2005, PHYS REV E, V71, DOI 10.1103/PhysRevE.71.027103
+   Centola D, 2011, SCIENCE, V334, P1269, DOI 10.1126/science.1207055
+   Chen XL, 2018, NEW J PHYS, V20, DOI 10.1088/1367-2630/aa9cda
+   Cozzo E, 2015, NEW J PHYS, V17, DOI 10.1088/1367-2630/17/7/073029
+   Del Vicario M, 2017, SOC NETWORKS, V50, P6, DOI 10.1016/j.socnet.2017.02.002
+   Dodds PS, 2013, PHYS REV LETT, V110, DOI 10.1103/PhysRevLett.110.158701
+   Dong YX, 2017, ACM T INFORM SYST, V35, DOI 10.1145/3057278
+   Erdos P, 1959, PUBL MATH-PARIS, V4, P3286
+   Gleeson JP, 2007, PHYS REV E, V75, DOI 10.1103/PhysRevE.75.056103
+   Goggin G., 2006, Cell phone culture: Mobile technology in everyday life
+   Gutiérrez-Roig M, 2016, ROY SOC OPEN SCI, V3, DOI 10.1098/rsos.160177
+   Jansen BJ, 2009, J AM SOC INF SCI TEC, V60, P2169, DOI 10.1002/asi.21149
+   Jiang SS, 2018, COMPLEXITY, DOI 10.1155/2018/2929157
+   Jin SV, 2018, COMPUT HUM BEHAV, V79, P154, DOI 10.1016/j.chb.2017.10.033
+   Ju CH, 2017, NEUROCOMPUTING, V253, P15, DOI 10.1016/j.neucom.2016.11.075
+   Karrer B, 2010, PHYS REV E, V82, DOI 10.1103/PhysRevE.82.016101
+   Li D, 2017, IEEE T KNOWL DATA EN, V29, P1985, DOI 10.1109/TKDE.2017.2702162
+   Li WH, 2015, PHYS REV E, V92, DOI 10.1103/PhysRevE.92.042810
+   Liu C, 2015, NEW J PHYS, V17, DOI 10.1088/1367-2630/17/11/113045
+   Liu MX, 2017, PHYS REV E, V95, DOI 10.1103/PhysRevE.95.052306
+   Liu PD, 2017, COMPLEXITY, DOI 10.1155/2017/3571459
+   Liu QH, 2017, PHYS REV E, V95, DOI 10.1103/PhysRevE.95.042320
+   Macarthy A., 2018, 500 Social Media Marketing Tips: Essential Advice, Hints and Strategy for Business Facebook, Twitter, Pinterest, Google+, YouTube, Instagram, LinkedIn, and More!
+   Miller JC, 2013, J MATH BIOL, V67, P869, DOI 10.1007/s00285-012-0572-3
+   Miller JC, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0069162
+   Nematzadeh A, 2014, PHYS REV LETT, V113, DOI 10.1103/PhysRevLett.113.088701
+   Newman MEJ, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.035101
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   O'Reilly T., 2007, WHAT IS WEB 2 0 DESI
+   Pastor-Satorras R, 2001, PHYS REV LETT, V86, P3200, DOI 10.1103/PhysRevLett.86.3200
+   Requejo RJ, 2016, PHYS REV E, V94, DOI 10.1103/PhysRevE.94.022301
+   Shu PP, 2018, CHAOS, V28, DOI 10.1063/1.5042677
+   Song AB, 2019, EXPERT SYST APPL, V118, P329, DOI 10.1016/j.eswa.2018.10.018
+   Sun Y, 2014, PHYS LETT A, V378, P635, DOI 10.1016/j.physleta.2014.01.004
+   Tur EM, 2018, PHYS REV E, V97, DOI 10.1103/PhysRevE.97.022302
+   Vosoughi S, 2018, SCIENCE, V359, P1146, DOI 10.1126/science.aap9559
+   Wang W, 2019, PHYS REP, V820, P1, DOI 10.1016/j.physrep.2019.07.001
+   Wang W, 2018, PHYS REV E, V98, DOI 10.1103/PhysRevE.98.062320
+   Wang W, 2016, ASIAN J CONTROL, V18, P619, DOI 10.1002/asjc.1104
+   Wang W, 2015, PHYS REV E, V92, DOI 10.1103/PhysRevE.92.012820
+   Wang Z, 2017, CHAOS SOLITON FRACT, V103, P177, DOI 10.1016/j.chaos.2017.06.004
+   Wang Z, 2016, PHYS REP, V664, P1, DOI 10.1016/j.physrep.2016.10.006
+   Wang Z, 2014, NEW J PHYS, V16, DOI 10.1088/1367-2630/16/3/033041
+   Wang Z, 2013, SCI REP-UK, V3, DOI 10.1038/srep02470
+   Waterloo SF, 2018, NEW MEDIA SOC, V20, P1813, DOI 10.1177/1461444817707349
+   Watts DJ, 2007, J CONSUM RES, V34, P441, DOI 10.1086/518527
+   Whitney DE, 2010, PHYS REV E, V82, DOI 10.1103/PhysRevE.82.066110
+   Wu L, 2017, IEEE T KNOWL DATA EN, V29, P1240, DOI 10.1109/TKDE.2017.2663422
+   Young HP, 2011, P NATL ACAD SCI USA, V108, P21285, DOI 10.1073/pnas.1100973108
+   Yu DG, 2016, ONLINE INFORM REV, V40, P867, DOI 10.1108/OIR-12-2015-0391
+   Yuan X, 2017, P NATL ACAD SCI USA, V114, P3311, DOI 10.1073/pnas.1621369114
+   Zhan XX, 2018, APPL MATH COMPUT, V332, P437, DOI 10.1016/j.amc.2018.03.050
+   Zhang GQ, 2008, NEW J PHYS, V10, DOI 10.1088/1367-2630/10/12/123027
+   Zhang YC, 2013, PHYS REV E, V87, DOI 10.1103/PhysRevE.87.032133
+   Zhang ZK, 2016, PHYS REP, V651, P1, DOI 10.1016/j.physrep.2016.07.002
+   Zheng MH, 2013, PHYS REV E, V88, DOI 10.1103/PhysRevE.88.012818
+   Zhu XJ, 2018, AIP ADV, V8, DOI 10.1063/1.5051760
+   Zhu XZ, 2018, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/aac914
+   Zhu XZ, 2018, SCI REP-UK, V8, DOI 10.1038/s41598-018-25006-6
+   Zhu YX, 2017, PHYS REV E, V96, DOI 10.1103/PhysRevE.96.012306
+NR 70
+TC 19
+Z9 20
+U1 3
+U2 22
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1076-2787
+EI 1099-0526
+J9 COMPLEXITY
+JI Complexity
+PD NOV 11
+PY 2019
+VL 2019
+AR 5920187
+DI 10.1155/2019/5920187
+PG 15
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Science & Technology - Other Topics
+GA JQ7WA
+UT WOS:000499149700001
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Xu, Y
+   Belyi, A
+   Santi, P
+   Ratti, C
+AF Xu, Yang
+   Belyi, Alexander
+   Santi, Paolo
+   Ratti, Carlo
+TI Quantifying segregation in an integrated urban physical-social space
+SO JOURNAL OF THE ROYAL SOCIETY INTERFACE
+LA English
+DT Article
+DE social segregation; social network; urban mobility; mobile phone data;
+   big data analytics; homophily
+ID RESIDENTIAL SEGREGATION; ETHNIC SEGREGATION; HUMAN MOBILITY; PATTERNS;
+   EXPOSURE; BEHAVIOR; APART; USAGE; CITY
+AB Our knowledge of how cities bring together different social classes is still limited. Much effort has been devoted to investigating residential segregation, mostly over well-defined social groups (e.g. race). Little is known of how mobility and human communications affect urban social integration. The dynamics of spatial and social-network segregation and individual variations along these two dimensions are largely untapped. In this article, we put forward a computational framework based on coupling large-scale information on human mobility, social-network connections and people's socio-economic status (SES), to provide a breakthrough in our understanding of the dynamics of spatio-temporal and social-network segregation in cities. Building on top of a social similarity measure, the framework can be used to depict segregation dynamics down to the individual level, and also provide aggregate measurements at the scale of places and cities, and their evolution over time. By applying the methodology in Singapore using large-scale mobile phone and socio-economic datasets, we find a relatively higher level of segregation among relatively wealthier classes, a finding that holds for both social and physical space. We also highlight the interplay between the effect of distance decay and homophily as forces that determine communication intensity, defining a notion of characteristic 'homophily distance' that can be used to measure social segregation across cities. The time-resolved analysis reveals the changing landscape of urban segregation and the time-varying roles of places. Segregations in physical and social space are weakly correlated at the individual level but highly correlated when grouped across at least hundreds of individuals. The methodology and analysis presented in this paper enable a deeper understanding of the dynamics of human segregation in social and physical space, which can assist social scientists, planners and city authorities in the design of more integrated cities.
+C1 [Xu, Yang] Hong Kong Polytech Univ, Dept Land Surveying & Geoinformat, Kowloon, Hong Kong, Peoples R China.
+   [Belyi, Alexander] Singapore MIT Alliance Res & Technol, 1 Create Way, Singapore, Singapore.
+   [Belyi, Alexander] Belarusian State Univ, Fac Appl Math & Comp Sci, Minsk, BELARUS.
+   [Santi, Paolo; Ratti, Carlo] MIT, Senseable City Lab, 77 Massachusetts Ave, Cambridge, MA 02139 USA.
+   [Santi, Paolo] CNR, Ist Informat & Telemat, Pisa, Italy.
+C3 Hong Kong Polytechnic University; Singapore-MIT Alliance for Research &
+   Technology Centre (SMART); Belarusian State University; Massachusetts
+   Institute of Technology (MIT); Consiglio Nazionale delle Ricerche (CNR);
+   Istituto di Informatica e Telematica (IIT-CNR)
+RP Xu, Y (corresponding author), Hong Kong Polytech Univ, Dept Land Surveying & Geoinformat, Kowloon, Hong Kong, Peoples R China.
+EM yang.ls.xu@polyu.edu.hk
+RI Xu, Yang/ABD-4970-2021; Belyi, Alexander/H-6891-2019
+OI Xu, Yang/0000-0003-3898-022X; Belyi, Alexander/0000-0001-5650-3182
+FU Research Grant Council of Hong Kong [25610118]; Hong Kong Polytechnic
+   UniversityStart-Up Grant [1-BE0J]; National Research Foundation, Prime
+   Minister's Office, Singapore, under its CREATE programme, Singapore-MIT
+   Alliance for Research and Technology (SMART) Future Urban Mobility (FM)
+   IRG
+FX This work was supported by the Research Grant Council of Hong Kong
+   (grant no. 25610118), the Hong Kong Polytechnic UniversityStart-Up Grant
+   (grant no. 1-BE0J) and the National Research Foundation, Prime
+   Minister's Office, Singapore, under its CREATE programme, Singapore-MIT
+   Alliance for Research and Technology (SMART) Future Urban Mobility (FM)
+   IRG.
+CR [Anonymous], 2006, Micromotives and Macrobehavior
+   [Anonymous], 1972, STAT DECOMPOSITION A
+   Backstrom L., 2010, P 19 INT C WORLD WID, P61, DOI DOI 10.1145/1772690.1772698
+   Bischoff K., 2014, DIVERSITY DISPARITIE, V43
+   Blumenstock J, 2015, SCIENCE, V350, P1073, DOI 10.1126/science.aac4420
+   Chetty R, 2016, AM ECON REV, V106, P855, DOI 10.1257/aer.20150572
+   Cho E, 2011, KDD
+   Chodrow PS, 2017, P NATL ACAD SCI USA, V114, P11591, DOI 10.1073/pnas.1708201114
+   Crandall DJ, 2010, P NATL ACAD SCI USA, V107, P22436, DOI 10.1073/pnas.1006155107
+   Dannemann T, 2018, ROY SOC OPEN SCI, V5, DOI 10.1098/rsos.180749
+   Deville P, 2014, P NATL ACAD SCI USA, V111, P15888, DOI 10.1073/pnas.1408439111
+   Di Clemente R, 2018, NAT COMMUN, V9, DOI 10.1038/s41467-018-05690-8
+   Eagle N, 2010, SCIENCE, V328, P1029, DOI 10.1126/science.1186605
+   Ellis M, 2004, ANN ASSOC AM GEOGR, V94, P620, DOI 10.1111/j.1467-8306.2004.00417.x
+   Farber S, 2015, J TRANSP GEOGR, V49, P26, DOI 10.1016/j.jtrangeo.2015.10.009
+   Gao J, 2019, PHYS REP, V817, P1, DOI 10.1016/j.physrep.2019.05.002
+   González MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   Hellerstein JK, 2008, REV ECON STAT, V90, P459, DOI 10.1162/rest.90.3.459
+   Järv O, 2015, URBAN STUD, V52, P2680, DOI 10.1177/0042098014550459
+   Kamenik K, 2015, LEISURE STUD, V34, P566, DOI 10.1080/02614367.2014.938773
+   Kossinets G, 2009, AM J SOCIOL, V115, P405, DOI 10.1086/599247
+   Krings G, 2009, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2009/07/L07003
+   Kukk K, 2019, TIJDSCHR ECON SOC GE, V110, P289, DOI 10.1111/tesg.12307
+   Kwan MP, 2013, ANN ASSOC AM GEOGR, V103, P1078, DOI 10.1080/00045608.2013.792177
+   Kwan MP, 2009, SOC SCI MED, V69, P1311, DOI 10.1016/j.socscimed.2009.07.013
+   Lambiotte R, 2008, PHYSICA A, V387, P5317, DOI 10.1016/j.physa.2008.05.014
+   Le Roux G, 2017, J TRANSP GEOGR, V59, P134, DOI 10.1016/j.jtrangeo.2017.02.003
+   Leo Y, 2016, J R SOC INTERFACE, V13, DOI 10.1098/rsif.2016.0598
+   Liben-Nowell D, 2005, P NATL ACAD SCI USA, V102, P11623, DOI 10.1073/pnas.0503018102
+   MASSEY DS, 1988, SOC FORCES, V67, P281, DOI 10.2307/2579183
+   MASSEY DS, 1987, AM SOCIOL REV, V52, P802, DOI 10.2307/2095836
+   MCPHERSON JM, 1987, AM SOCIOL REV, V52, P370, DOI 10.2307/2095356
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Musterd S, 2017, URBAN GEOGR, V38, P1062, DOI 10.1080/02723638.2016.1228371
+   Östh J, 2018, ENVIRON PLANN A, V50, P809, DOI 10.1177/0308518X18763167
+   Peterson R. D., 2010, DIVERGENT SOCIAL WOR
+   Quillian L., 2014, Soc Probl, V61, P402, DOI DOI 10.1525/SP.2014.12193
+   Ravallion M, 2014, SCIENCE, V344, P851, DOI 10.1126/science.1251875
+   Saez E, 2016, Q J ECON, V131, P519, DOI 10.1093/qje/qjw004
+   Silm S, 2018, J ETHN MIGR STUD, V44, P1797, DOI 10.1080/1369183X.2017.1400425
+   Silm S, 2014, SOC SCI RES, V47, P30, DOI 10.1016/j.ssresearch.2014.03.011
+   Singh VK, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0136628
+   Sobolevsky S, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0146291
+   Song CM, 2010, SCIENCE, V327, P1018, DOI 10.1126/science.1177170
+   Tan YM, 2017, CITIES, V64, P26, DOI 10.1016/j.cities.2017.02.003
+   Wang D., 2011, P 17 ACM SIGKDD INT, P1100, DOI [10.1145/2020408.2020581, DOI 10.1145/2020408.2020581]
+   Wang Q, 2018, P NATL ACAD SCI USA, V115, P7735, DOI 10.1073/pnas.1802537115
+   Williams DR, 2001, PUBLIC HEALTH REP, V116, P404, DOI 10.1016/S0033-3549(04)50068-7
+   Wodtke GT, 2011, AM SOCIOL REV, V76, P713, DOI 10.1177/0003122411420816
+   Wong DWS, 2011, J GEOGR SYST, V13, P127, DOI 10.1007/s10109-010-0112-x
+   Xu Y, 2018, COMPUT ENVIRON URBAN, V72, P51, DOI 10.1016/j.compenvurbsys.2018.04.001
+   Xu Y, 2017, T GIS, V21, P468, DOI 10.1111/tgis.12285
+   Zhang XH, 2018, J TRANSP GEOGR, V70, P78, DOI 10.1016/j.jtrangeo.2018.05.002
+   Zhang X, 2019, CITIES, V88, P166, DOI 10.1016/j.cities.2018.10.009
+   Zhong C, 2014, INT J GEOGR INF SCI, V28, P2178, DOI 10.1080/13658816.2014.914521
+NR 55
+TC 48
+Z9 52
+U1 2
+U2 54
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 1742-5689
+EI 1742-5662
+J9 J R SOC INTERFACE
+JI J. R. Soc. Interface
+PD NOV
+PY 2019
+VL 16
+IS 160
+AR 20190536
+DI 10.1098/rsif.2019.0536
+PG 14
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA KD6ON
+UT WOS:000507984200011
+PM 31744420
+OA Green Accepted, Bronze, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Kim, H
+   Kwak, S
+   Kim, J
+   Youm, Y
+   Chey, J
+AF Kim, Hairin
+   Kwak, Seyul
+   Kim, Junsol
+   Youm, Yoosik
+   Chey, Jeanyung
+TI Social Network Position Moderates the Relationship between Late-life
+   Depressive Symptoms and Memory Differently in Men and Women
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID COGNITIVE DECLINE; HIPPOCAMPAL ATROPHY; GENDER-DIFFERENCES; CEREBRAL
+   ATROPHY; OLDER-ADULTS; HEALTH; SUPPORT; ASSOCIATION; PERFORMANCE;
+   POPULATION
+AB Late-life depression has been considered to be associated with memory deficits and hippocampal volume reduction. Considering that not all depression patients undergo the same amount of cognitive impairment or regional brain volume loss, moderating factors such as complex mental activity and social activity have been examined to assess whether these factors attenuate the detrimental impact of depressive symptoms on cognitive function and regional brain volume. However, the premise that a cognitively stimulating experience may modify the association between depressive symptoms and memory or hippocampal volume has not been investigated using social network data, which would reflect individuals' concrete characteristic of everyday social activity. In a social network, a brokerage position which connects two otherwise unconnected others demands mental and physical efforts. Using complete social network data in an entire village in South Korea, we examined whether opportunities for brokerage in social networks alter the negative association between depressive symptoms and episodic memory function or hippocampal volume in older adults. Initially, 125 participants were included in the analysis involving episodic memory function. Then, of which 65 participants completed the MRI scan, and were included in the subsequent analysis containing the hippocampal volume. Furthermore, we investigated the gender-specific effect of brokerage based on the previously reported gender difference in the effect of social networks. We found a gender-specific moderating effect of brokerage. For men, a large opportunity for brokerage weakened the negative association between depressive symptoms and memory performance and left hippocampal volume. In contrast, women showed that a large opportunity for brokerage was not beneficial for assuaging the impact of depressive symptoms on memory performance and hippocampal volume. In women, the opportunity for brokerage was positively associated with the detrimental impact of depressive symptoms on memory performance and hippocampal volume. Our findings suggest that occupying a bridging position in a social network may minimize the impact of depressive symptoms on memory function and hippocampal volume among older men, whereas the opposite holds true for older women.
+C1 [Kim, Hairin; Kwak, Seyul; Chey, Jeanyung] Seoul Natl Univ, Dept Psychol, Seoul, South Korea.
+   [Kim, Junsol; Youm, Yoosik] Yonsei Univ, Dept Sociol, Seoul, South Korea.
+C3 Seoul National University (SNU); Yonsei University
+RP Chey, J (corresponding author), Seoul Natl Univ, Dept Psychol, Seoul, South Korea.; Youm, Y (corresponding author), Yonsei Univ, Dept Sociol, Seoul, South Korea.
+EM yoosik@yonsei.ac.kr; jychey@snu.ac.kr
+RI YOUM, YOOSIK/KBD-0367-2024; Kwak, Seyul/V-2416-2019
+OI Kim, Hairin/0000-0002-9623-608X; Kwak, Seyul/0000-0001-6985-2680
+FU National Research Foundation of Korea [NRF-2017S1A3A2067165]; Ministry
+   of Education, Science, and Technology
+FX This research is supported by the National Research Foundation of Korea
+   (NRF-2017S1A3A2067165), funded by the Ministry of Education, Science,
+   and Technology.
+CR [Anonymous], STRUCTURAL EQUATION
+   Baek J, 2016, J GERIATR CARDIOL, V13, P580, DOI 10.11909/j.issn.1671-5411.2016.07.005
+   Bastos AM, 2015, FRONT AGING NEUROSCI, V7, DOI 10.3389/fnagi.2015.00156
+   Bhalla RK, 2005, INT J GERIATR PSYCH, V20, P413, DOI 10.1002/gps.1296
+   Blanchard-Fields F., 2008, HDB COGNITIVE AGING
+   Buckner RL, 2004, NEUROIMAGE, V23, P724, DOI 10.1016/j.neuroimage.2004.06.018
+   Burt R.S., 2009, STRUCTURAL HOLES SOC
+   Burt RS, 2000, RES ORGAN BEHAV, V22, P345, DOI 10.1016/S0191-3085(00)22009-1
+   Burt RS, 1998, RATION SOC, V10, P5, DOI 10.1177/104346398010001001
+   Burt RS, 2002, SOC NETWORKS, V24, P333, DOI 10.1016/S0378-8733(02)00017-5
+   Carboni I, 2012, GROUP DYN-THEOR RES, V16, P218, DOI 10.1037/a0028753
+   Chey J., 2007, The Elderly Memory Disorder Scale
+   Chodosh J, 2007, AM J GERIAT PSYCHIAT, V15, P406, DOI 10.1097/01.JGP.0b013e31802c0c63
+   Cohen S., 1984, HDB PSYCHOL HLTH, V4, P253, DOI DOI 10.1387/IJDB.082595MG
+   Cornwell B, 2009, J GERONTOL B-PSYCHOL, V64, pI47, DOI 10.1093/geronb/gbp042
+   Cornwell B, 2009, J AGING HEALTH, V21, P129, DOI 10.1177/0898264308328649
+   Cornwell B, 2009, SOC NETWORKS, V31, P92, DOI 10.1016/j.socnet.2008.10.005
+   Fiori KL, 2012, J AGING HEALTH, V24, P407, DOI 10.1177/0898264311425087
+   Fischl B, 2002, NEURON, V33, P341, DOI 10.1016/S0896-6273(02)00569-X
+   FUHRER R, 1992, PSYCHOL MED, V22, P159, DOI 10.1017/S0033291700032815
+   Geerlings M. I., 2017, BIOL PSYCHIAT
+   Glass TA, 2006, J AGING HEALTH, V18, P604, DOI 10.1177/0898264306291017
+   Haines VA, 2008, SEX ROLES, V59, P164, DOI 10.1007/s11199-008-9441-3
+   Han Ji Won, 2010, [Journal of Korean Geriatric Psychiatry, 노인정신의학], V14, P27
+   Hayes A. F., 2018, INTRO MEDIATION MODE
+   Hickie I, 2005, BRIT J PSYCHIAT, V186, P197, DOI 10.1192/bjp.186.3.197
+   James BD, 2011, J INT NEUROPSYCH SOC, V17, P998, DOI 10.1017/S1355617711000531
+   Joo WT, 2017, SCI REP-UK, V7, DOI 10.1038/s41598-017-04904-1
+   Jung I.K., 1997, J KOREAN NEUROPSYCHI, P103
+   Kim DA, 2016, P ROY SOC B-BIOL SCI, V283, DOI 10.1098/rspb.2016.0958
+   Kindermann SS, 1997, J CLIN EXP NEUROPSYC, V19, P625, DOI 10.1080/01688639708403749
+   Landfield PW, 2007, CURR ALZHEIMER RES, V4, P205, DOI 10.2174/156720507780362083
+   Lupien SJ, 2007, NEUROIMAGE, V34, P479, DOI 10.1016/j.neuroimage.2006.09.041
+   Lupien SJ, 1998, NAT NEUROSCI, V1, P69, DOI 10.1038/271
+   Mische A, 1998, SOC RES, V65, P695
+   O'Shea DM, 2015, INT J GERIATR PSYCH, V30, P614, DOI 10.1002/gps.4192
+   Opdebeeck C, 2015, REV CLIN GERONTOL, V25, P181, DOI 10.1017/S0959259815000155
+   Pálsson S, 1999, BRIT J PSYCHIAT, V174, P249, DOI 10.1192/bjp.174.3.249
+   Pálsson S, 2001, PSYCHOL MED, V31, P39, DOI 10.1017/S0033291799003050
+   Parkinson C, 2017, NAT HUM BEHAV, V1, DOI 10.1038/s41562-017-0072
+   Paterniti S, 2002, BRIT J PSYCHIAT, V181, P406, DOI 10.1192/bjp.181.5.406
+   Potter GG, 2013, AM J GERIAT PSYCHIAT, V21, P297, DOI 10.1016/j.jagp.2012.12.009
+   Sáez-Fonseca JA, 2007, J AFFECT DISORDERS, V101, P123, DOI 10.1016/j.jad.2006.11.004
+   SAPOLSKY RM, 1986, J NEUROSCI, V6, P2240
+   Sapolsky RM, 2001, P NATL ACAD SCI USA, V98, P12320, DOI 10.1073/pnas.231475998
+   Schafer MH, 2011, J GERONTOL B-PSYCHOL, V66, P795, DOI 10.1093/geronb/gbr112
+   Schmläzle R, 2017, P NATL ACAD SCI USA, V114, P5153, DOI 10.1073/pnas.1616130114
+   Seeman TE, 2001, HEALTH PSYCHOL, V20, P243, DOI 10.1037//0278-6133.20.4.243
+   Seider TR, 2016, FRONT AGING NEUROSCI, V8, DOI 10.3389/fnagi.2016.00094
+   Sexton CE, 2013, AM J GERIAT PSYCHIAT, V21, P184, DOI 10.1016/j.jagp.2012.10.019
+   SHYE D, 1995, SOC SCI MED, V41, P935, DOI 10.1016/0277-9536(94)00404-H
+   Smith KP, 2008, ANNU REV SOCIOL, V34, P405, DOI 10.1146/annurev.soc.34.040507.134601
+   Steffens DC, 2011, AM J GERIAT PSYCHIAT, V19, P4, DOI 10.1097/JGP.0b013e3181d6c245
+   Steffens DC, 2000, BIOL PSYCHIAT, V48, P301, DOI 10.1016/S0006-3223(00)00829-5
+   Stiller J, 2007, SOC NETWORKS, V29, P93, DOI 10.1016/j.socnet.2006.04.001
+   Story TJ, 2008, AM J GERIAT PSYCHIAT, V16, P752, DOI 10.1097/JGP.0b013e31817e739a
+   Valenzuela MJ, 2008, PLOS ONE, V3, DOI 10.1371/journal.pone.0002598
+   White HC, 2008, IDENTITY AND CONTROL: HOW SOCIAL FORMATIONS EMERGE, 2ND EDITION, P1
+   Wight RG, 2002, J AGING HEALTH, V14, P211, DOI 10.1177/089826430201400203
+   Wilson RS, 2004, J NEUROL NEUROSUR PS, V75, P126
+   Yaffe K, 1999, ARCH GEN PSYCHIAT, V56, P425, DOI 10.1001/archpsyc.56.5.425
+   YESAVAGE JA, 1983, J PSYCHIATR RES, V17, P37, DOI 10.1016/0022-3956(82)90033-4
+   Youm Y, 2014, BMC GERIATR, V14, DOI 10.1186/1471-2318-14-102
+   Zerubavel N, 2015, P NATL ACAD SCI USA, V112, P15072, DOI 10.1073/pnas.1511477112
+NR 64
+TC 8
+Z9 8
+U1 0
+U2 10
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD APR 16
+PY 2019
+VL 9
+AR 6142
+DI 10.1038/s41598-019-42388-3
+PG 10
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA HT6CS
+UT WOS:000464652400013
+PM 30992479
+OA gold, Green Published
+DA 2024-11-22
+ER

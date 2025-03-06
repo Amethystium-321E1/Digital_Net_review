@@ -1,0 +1,520 @@
+
+PT J
+AU Yoo, K
+   Blumsack, S
+AF Yoo, Kyungjin
+   Blumsack, Seth
+TI The Political Complexity of Regional Electricity Policy Formation
+SO COMPLEXITY
+LA English
+DT Article
+ID COMMUNITY STRUCTURE; NETWORK ANALYSIS; SOCIAL NETWORKS; UNITED-STATES;
+   CENTRALITY; DEPLOYMENT; BROKERAGE; MARKET; POWER
+AB The integration of renewable power supplies into existing electrical grids, or other major technology transitions in electric power, is a complex sociotechnical process. While the technical challenges are well-understood, the process of adapting electricity policy and market rules to these new technologies is understudied. Planning and market rules are a critical determinant of the technical success of renewable energy integration efforts and the financial viability of renewable energy investments. Organizational adaptation can be particularly complex in electric power, where transmission grids cross multiple political boundaries and decisions are made not by central authorities or governments, but in cooperative regional frameworks that must accommodate many divergent interests. We add to a recently emerging literature on the governance of regional organizations that plan and operate electric power grids by developing and illustrating a novel approach to the study of political power in multistakeholder electricity organizations. We use semistructured interviews with participants in a specific regional electric grid authority, the PJM Regional Transmission Operator in the Mid-Atlantic United States, to elicit perceptions of where tensions arise in stakeholder-driven processes for changing PJM's rules and perceptions of those groups of stakeholders that possess political power. We treat these perceptions as hypotheses that can be evaluated empirically using five years of data from PJM on how stakeholders voted on a wide variety of regional electricity policy issues. Representing voting behavior as a network, we use a community detection method to identify strong coalitions of stakeholders in PJM that provide support for some stakeholder perceptions of political power and refute other perceptions. The degree distribution of the voting network exhibits a fat tail relative to those in other canonical graph models. We show, using relatively simple network metrics including degree, betweenness, and the mixing parameter, that the reason for this fat tail in the degree distribution is the existence of swing voters in RTO stakeholder networks. These voters are identifiable in the tail of the degree distribution of the voting network and are influential in pushing highly contentious rule change proposals towards passage or failure. The method we develop is generalizable to other contexts and provides a new framework for the study of regional electricity policy formation.
+C1 [Yoo, Kyungjin; Blumsack, Seth] Penn State Univ, John & Willie Leone Family Dept Energy & Mineral, University Pk, PA 16802 USA.
+   [Blumsack, Seth] Santa Fe Inst, Santa Fe, NM 87501 USA.
+C3 Pennsylvania Commonwealth System of Higher Education (PCSHE);
+   Pennsylvania State University; Pennsylvania State University -
+   University Park; The Santa Fe Institute
+RP Blumsack, S (corresponding author), Penn State Univ, John & Willie Leone Family Dept Energy & Mineral, University Pk, PA 16802 USA.; Blumsack, S (corresponding author), Santa Fe Inst, Santa Fe, NM 87501 USA.
+EM kxy151@psu.edu; sab51@psu.edu
+OI Yoo, Kyungjin/0000-0002-3336-0542; Blumsack, Seth/0000-0002-1979-3659
+FU US National Science Foundation [SES-1261867]; Alfred P. Sloan Foundation
+FX The authors acknowledge support from the US National Science Foundation
+   under award SES-1261867 as well as the Alfred P. Sloan Foundation for
+   their support of the workshop "The Nature of Technological, Social and
+   Industrial Transition in the Electric Power Industry," held at the Santa
+   Fe Institute in March 2016. We thank participants at the Santa Fe
+   Workshop and the CRRI Eastern Workshop on Regulation and Competition for
+   helpful comments and suggestions. Additional helpful feedback was
+   provided by Stephanie Lenhart, Natalie Nelson-Marsh, Christina Simeone,
+   David Solan, Benjamin Stafford, and Elizabeth Wilson. The authors would
+   like to extend particular thanks to David Anders at PJM for his
+   assistance in understanding the PJM stakeholder process and for locating
+   data related to voting outcomes from the PJM Members Committee.
+CR Alizadeh M, 2014, IEEE T SMART GRID, V5, P848, DOI 10.1109/TSG.2013.2275988
+   [Anonymous], PARTY POLARIZATION C
+   [Anonymous], COMM AMP GROUPS FAQS
+   [Anonymous], ASS PUBLIC POLICY AN
+   [Anonymous], P 50 HAW INT C SYST
+   [Anonymous], B MOSCOW U
+   [Anonymous], CAN REFORMS IMPROVE
+   [Anonymous], ASS PUBLIC POLICY AN
+   [Anonymous], ROST MEMB COMM
+   [Anonymous], ELECT CHOICES
+   Ansell C, 2009, POLICY STUD J, V37, P717, DOI 10.1111/j.1541-0072.2009.00332.x
+   Blondel VD, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/10/P10008
+   Bu Z, 2013, KNOWL-BASED SYST, V37, P366, DOI 10.1016/j.knosys.2012.08.016
+   Campbell DE, 2013, ANNU REV POLIT SCI, V16, P33, DOI 10.1146/annurev-polisci-033011-201728
+   Chassin DP, 2014, J APPL MATH, DOI 10.1155/2014/492320
+   Clauset A, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.066111
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   CORBIN J, 1990, Z SOZIOL, V19, P418, DOI 10.1007/BF00988593
+   Deissenroth M, 2017, COMPLEXITY, DOI 10.1155/2017/7494313
+   Dworkin M.H., 2007, Energy Law Journal, V28, P543
+   Fortunato S, 2007, P NATL ACAD SCI USA, V104, P36, DOI 10.1073/pnas.0605965104
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   Hong H, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.067105
+   Hunt SD, 2008, ORGAN STUD, V29, P1469, DOI 10.1177/0170840608099521
+   Ingold K, 2011, POLICY STUD J, V39, P435, DOI 10.1111/j.1541-0072.2011.00416.x
+   Jackson J, 2010, ENERG POLICY, V38, P3771, DOI 10.1016/j.enpol.2010.02.055
+   James M., 2017, R Street Policy Study, V112, P19
+   Jiménez-Bravo DM, 2018, COMPLEXITY, DOI 10.1155/2018/4012740
+   Klebanov L, 2007, BIOL DIRECT, V2, DOI 10.1186/1745-6150-2-9
+   Kolmogorov A., 1933, GIORN I ITAL DEGLI A, V4, P83, DOI DOI 10.12691/AJAMS-1-1-2
+   Lancichinetti A, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.056117
+   Lancichinetti A, 2008, PHYS REV E, V78, DOI 10.1103/PhysRevE.78.046110
+   Lazer D, 2011, PS-POLIT SCI POLIT, V44, P61, DOI 10.1017/S1049096510001873
+   Lenhart S, 2016, ENERGY RES SOC SCI, V19, P94, DOI 10.1016/j.erss.2016.05.015
+   Lienert J, 2013, J ENVIRON MANAGE, V125, P134, DOI 10.1016/j.jenvman.2013.03.052
+   Mucha PJ, 2010, SCIENCE, V328, P876, DOI 10.1126/science.1184819
+   Newman MEJ, 2006, P NATL ACAD SCI USA, V103, P8577, DOI 10.1073/pnas.0601602103
+   Newman MEJ, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.066133
+   Orman Gunce Keziban, 2013, International Journal of Web Based Communities, V9, P349
+   Orman GK, 2011, COMM COM INF SC, V167, P265
+   Paine N, 2014, ENERG ECON, V46, P10, DOI 10.1016/j.eneco.2014.08.017
+   Porter MA, 2007, PHYSICA A, V386, P414, DOI 10.1016/j.physa.2007.07.039
+   Prabhakar AJ, 2013, IEEE POW ENER SOC GE
+   Radicchi F, 2004, P NATL ACAD SCI USA, V101, P2658, DOI 10.1073/pnas.0400054101
+   Ronhovde P, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.016109
+   Stafford BA, 2016, ENERGY RES SOC SCI, V21, P222, DOI 10.1016/j.erss.2016.08.001
+   Stephens JC, 2008, TECHNOL FORECAST SOC, V75, P1224, DOI 10.1016/j.techfore.2007.12.003
+   Stephens JennieC., 2015, Smart Grid (R)Evolution
+   Strauss A. L., 1994, HDB QUALITATIVE RES, P273, DOI DOI 10.1007/BF00988593
+   STRUTZEL E, 1968, NURS RES, V17, P364
+   Wakita K., 2007, FINDING COMMUNITY ST, P1275, DOI 10.1145/1242572.1242805
+   Wang QY, 2010, PHYSICA A, V389, P3299, DOI 10.1016/j.physa.2010.03.031
+   Ward MD, 2011, ANNU REV POLIT SCI, V14, P245, DOI 10.1146/annurev.polisci.12.040907.115949
+   Xia ZY, 2012, KNOWL-BASED SYST, V26, P30, DOI 10.1016/j.knosys.2011.06.014
+   Xue F, 2017, COMPLEXITY, DOI 10.1155/2017/7539089
+   Yan EJ, 2009, J AM SOC INF SCI TEC, V60, P2107, DOI 10.1002/asi.21128
+   YANG Z, 2016, SCI REP UK, V6
+   Yoo K, 2018, J REGUL ECON, V53, P127, DOI 10.1007/s11149-018-9354-1
+   Zhang Y, 2008, PHYSICA A, V387, P1705, DOI 10.1016/j.physa.2007.11.004
+NR 59
+TC 4
+Z9 5
+U1 0
+U2 2
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1076-2787
+EI 1099-0526
+J9 COMPLEXITY
+JI Complexity
+PY 2018
+AR 3493492
+DI 10.1155/2018/3493492
+PG 18
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Science & Technology - Other Topics
+GA HF2VD
+UT WOS:000454093900001
+OA gold, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Smailovic, V
+   Podobnik, V
+   Lovrek, I
+AF Smailovic, Vanja
+   Podobnik, Vedran
+   Lovrek, Ignac
+TI A Methodology for Evaluating Algorithms That Calculate Social Influence
+   in Complex Social Networks
+SO COMPLEXITY
+LA English
+DT Article
+ID CENTRALITY
+AB Online social networks are complex systems often involving millions or even billions of users. Understanding the dynamics of a social network requires analysing characteristics of the network (in its entirety) and the users (as individuals). This paper focuses on calculating user's social influence, which depends on (i) the user's positioning in the social network and (ii) interactions between the user and all other users in the social network. Given that data on all users in the social network is required to calculate social influence, something not applicable for today's social networks, alternative approaches relying on a limited set of data on users are necessary. However, these approaches introduce uncertainty in calculating (i.e., predicting) the value of social influence. Hence, a methodology is proposed for evaluating algorithms that calculate social influence in complex social networks; this is done by identifying the most accurate and precise algorithm. The proposed methodology extends the traditional ground truth approach, often used in descriptive statistics and machine learning. Use of the proposed methodology is demonstrated using a case study incorporating four algorithms for calculating a user's social influence.
+C1 [Smailovic, Vanja] Sandv Machining Solut AB, Stockholm, Sweden.
+   [Smailovic, Vanja; Podobnik, Vedran; Lovrek, Ignac] Univ Zagreb, Social Networking & Comp Lab socialLAB, Fac Elect Engn & Comp, Zagreb, Croatia.
+   [Podobnik, Vedran; Lovrek, Ignac] Univ Zagreb, Fac Elect Engn & Comp, Dept Telecommun, Zagreb, Croatia.
+C3 University of Zagreb; University of Zagreb
+RP Podobnik, V (corresponding author), Univ Zagreb, Social Networking & Comp Lab socialLAB, Fac Elect Engn & Comp, Zagreb, Croatia.; Podobnik, V (corresponding author), Univ Zagreb, Fac Elect Engn & Comp, Dept Telecommun, Zagreb, Croatia.
+EM vedran.podobnik@fer.hr
+OI Podobnik, Vedran/0000-0001-7070-9283; Smailovic,
+   Vanja/0000-0002-9872-2364
+FU research project "Managing Trust and Coordinating Interactions in Smart
+   Networks of People, Machines and Organizations" - Croatian Science
+   Foundation [UIP-11-2013-8813]; research project "Ericsson Context-Aware
+   Social Networking for Mobile Media" - Unity through Knowledge Fund;
+   research project "A Platform for Context-aware Social Networking of
+   Mobile Users" - Ericsson Nikola Tesla; European Regional Development
+   Fund [KK.01.1.1.01.0009]
+FX The authors acknowledge the support of research projects "Managing Trust
+   and Coordinating Interactions in Smart Networks of People, Machines and
+   Organizations," funded by the Croatian Science Foundation under the
+   Grant UIP-11-2013-8813; "Ericsson Context-Aware Social Networking for
+   Mobile Media," funded by the Unity through Knowledge Fund; and "A
+   Platform for Context-aware Social Networking of Mobile Users," funded by
+   Ericsson Nikola Tesla. This research has also been partly supported by
+   the European Regional Development Fund under the Grant KK.01.1.1.01.0009
+   (DATACROSS). Furthermore, the authors would like to thank all
+   participants who provided their personal data by installing the
+   SmartSocial Android application and participating in questionnaires by
+   which they greatly contributed to this research.
+CR [Anonymous], 2009, ARTIFACTS BEHAV RES
+   [Anonymous], 2014, Standards for Educational Psychology and Testing
+   [Anonymous], P 6 INT C INF SOC TE
+   [Anonymous], KLOUT SCORE MEASURIN
+   [Anonymous], 2010, 4 INT AAAI C WEBLOGS
+   ASCH SE, 1955, SCI AM, V193, P31, DOI 10.1038/scientificamerican1155-31
+   Beck J.S., 2010, The Corsini Encyclopedia of Psychology
+   Bonett DG, 2006, COMPUT STAT DATA AN, V50, P2953, DOI 10.1016/j.csda.2005.05.007
+   Borgatti SP, 2005, SOC NETWORKS, V27, P55, DOI 10.1016/j.socnet.2004.11.008
+   Cialdini R.B., 2000, Influence: Science and practice, V4th
+   DEUTSCH MORTON, 1955, JOUR ABNORMAL AND SOCIAL PSYCHOL, V51-31, P629, DOI 10.1037/h0046408
+   Fink M., 2010, MAXIMUM CENTRALITY A
+   Gabielkov M., 2014 ACM INT C MEAS, P277
+   Goh KI, 2003, PHYS REV E, V67, DOI 10.1103/PhysRevE.67.017101
+   Golbeck J., 2006, ACM Transactions on Internet Technology, V6, P497, DOI 10.1145/1183463.1183470
+   Gourieroux C, 1995, STAT ECONOMETRIC MOD, V1
+   Gravetter F. J., 2012, Research methods: For the behavioral sciences
+   Haney Craig., 1973, International Journal of Criminology Penology, V1, P69, DOI DOI 10.1037/H0076835
+   HE XM, 1990, J AM STAT ASSOC, V85, P446, DOI 10.2307/2289782
+   Huber P., 2009, ROBUST STAT, DOI [DOI 10.1002/9780470434697.CH7, 10.1002/9780470434697, DOI 10.1002/9780470434697]
+   Kiss C, 2008, DECIS SUPPORT SYST, V46, P233, DOI 10.1016/j.dss.2008.06.007
+   Klout Inc., 2016, KLOUT BE KNOWN WHAT
+   Klout Inc., 2017, KLOUT SCOR
+   Kred T. L. D., 2017, KRED HOME INFLUENCE
+   Krzywinski M, 2014, NAT METHODS, V11, P119, DOI 10.1038/nmeth.2813
+   Landherr A, 2010, BUS INFORM SYST ENG+, V2, P371, DOI 10.1007/s12599-010-0127-3
+   LATANE B, 1981, AM PSYCHOL, V36, P343, DOI 10.1037/0003-066X.36.4.343
+   LAWSHE CH, 1975, PERS PSYCHOL, V28, P563, DOI 10.1111/j.1744-6570.1975.tb01393.x
+   Leys C, 2013, J EXP SOC PSYCHOL, V49, P764, DOI 10.1016/j.jesp.2013.03.013
+   Liu YF, 2017, COMPLEXITY, DOI 10.1155/2017/4783159
+   Louviere JJ., 2015, BEST WORST SCALING T
+   Marley AAJ, 2005, J MATH PSYCHOL, V49, P464, DOI 10.1016/j.jmp.2005.05.003
+   Maronna RA, 2002, TECHNOMETRICS, V44, P307, DOI 10.1198/004017002188618509
+   Masters Jeff., 2016, WEATHER UNDERGROUND
+   McCarney R, 2007, BMC MED RES METHODOL, V7, DOI 10.1186/1471-2288-7-30
+   MILGRAM S, 1963, J ABNORM PSYCHOL, V67, P371, DOI 10.1037/h0040525
+   Navidi W., 2011, STAT ENG SCI
+   Openinfluence. Com, 2017, OPENINGFLUENCE   AUG
+   Papoulis A., 1984, Probability, Random Variables, and Stochastic Processes, chapter Bernoulli Trials, V2nd, P57
+   Podobnik V., 2012, Proceedings of the 20th International Conference on Software, Telecommunications and Computer Networks (SoftCOM), P1
+   Pticek M, 2016, INT J DISTRIB SENS N, DOI 10.1155/2016/8178417
+   Rad AA, 2011, LECT NOTES BUS INF P, V78, P227
+   Rosenfeld MJ, 2012, AM SOCIOL REV, V77, P523, DOI 10.1177/0003122412448050
+   ROUSSEEUW PJ, 1993, J AM STAT ASSOC, V88, P1273, DOI 10.2307/2291267
+   Runtime Collective Limited (Brandwatch), 2017, PEER IND SOC AN INFL
+   SACKETT DL, 1979, J CHRON DIS, V32, P51, DOI 10.1016/0021-9681(79)90012-2
+   Smailovic Vanja, 2014, 2014 22nd International Conference on Software, Telecommunications and Computer Networks (SoftCOM), P383, DOI 10.1109/SOFTCOM.2014.7039080
+   Smailovic V., 2014, ICT INN 2014 WEB P O
+   Smailovic V, 2016, J UNIVERS COMPUT SCI, V22, P394
+   Spitzer M, 2014, NAT METHODS, V11, P121, DOI 10.1038/nmeth.2811
+   Stupalo M, 2017, PROCEEDINGS OF THE 14TH INTERNATIONAL CONFERENCE ON TELECOMMUNICATIONS CONTEL 2017, P155, DOI 10.23919/ConTEL.2017.8000052
+   Turner J.C., 1991, Social Influence
+   Ugander J., 2011, The anatomy of the Facebook social graph, P1
+   Wang Q., 2013, LECT NOTES COMPUTER, V8178
+   Wessa P, 2016, FREE STAT SOFTWARE V
+NR 55
+TC 0
+Z9 0
+U1 1
+U2 16
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1076-2787
+EI 1099-0526
+J9 COMPLEXITY
+JI Complexity
+PY 2018
+AR 1084795
+DI 10.1155/2018/1084795
+PG 20
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Science & Technology - Other Topics
+GA GQ8BW
+UT WOS:000441976000001
+OA Green Submitted, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Burchard, J
+   Cornwell, B
+AF Burchard, Jake
+   Cornwell, Benjamin
+TI Structural holes and bridging in two-mode networks
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Structural hole; Two-mode network; Bridging; Effective size; Elite;
+   Organization
+ID VOLUNTARY ORGANIZATIONS; AFFILIATION; ASSOCIATION; DUALITY; POWER
+AB Social networks are often structured in such a way that there are gaps, or "structural holes," between regions. Some actors are in the position to bridge or span these gaps, giving rise to individual advantages relating to brokerage, gatekeeping, access to non-redundant contacts, and control over network flows. The most widely used measures of a given actor's bridging potential gauge the extent to which that actor is directly connected to others who are otherwise not well connected to each other. Unfortunately, the measures that have been developed to identify structural holes cannot be adapted directly to two-mode networks, like individual-to-organization networks. In two-mode networks, direct contacts cannot be directly connected to each other by definition, making the calculation of redundancy, effective size, and constraint impossible with conventional one-mode methods. We therefore describe a new framework for the measurement of bridging in two-mode networks that hinges on the mathematical concept of the intersection of sets. An actor in a given node class ("ego") has bridging potential to the extent that s/he is connected to actors in the opposite node class that have unique profiles of connections to actors in ego's own node class. We review the relevant literature pertaining to structural holes in two-mode networks, and we compare our primary bridging measure (effective size) to measures of bridging that result when using one-mode projections of two-mode data. We demonstrate the results of applying our approach to empirical data on the organizational affiliations of elites in a large U.S. city. (C) 2018 Elsevier B.V. All rights reserved.
+C1 [Burchard, Jake; Cornwell, Benjamin] Cornell Univ, 342 Uris Hall, Ithaca, NY USA.
+   [Burchard, Jake] 4 Wyman St, Worcester, MA 01610 USA.
+C3 Cornell University
+RP Burchard, J (corresponding author), Cornell Univ, 342 Uris Hall, Ithaca, NY USA.; Burchard, J (corresponding author), 4 Wyman St, Worcester, MA 01610 USA.
+EM jkb239@cornell.edu; btc49@cornell.edu
+CR [Anonymous], 1997, Connections
+   [Anonymous], 1992, Structural holes
+   [Anonymous], 1989, Sociological Methodology, DOI DOI 10.2307/270949
+   Berardo R, 2014, POLICY STUD J, V42, P197, DOI 10.1111/psj.12056
+   Borgatti SP, 1997, SOC NETWORKS, V19, P243, DOI 10.1016/S0378-8733(96)00301-2
+   BREIGER RL, 1974, SOC FORCES, V53, P181, DOI 10.2307/2576011
+   Burt RS, 2013, ANNU REV PSYCHOL, V64, P527, DOI 10.1146/annurev-psych-113011-143828
+   Coffé H, 2007, NONPROF VOLUNT SEC Q, V36, P121, DOI 10.1177/0899764006293181
+   Cornwell B, 2014, SOC FORCES, V93, P803, DOI 10.1093/sf/sou068
+   Field S, 2006, SOC NETWORKS, V28, P97, DOI 10.1016/j.socnet.2005.04.005
+   GAMSON WA, 1966, AM J SOCIOL, V72, P121, DOI 10.1086/224272
+   GOULD RV, 1989, SOC FORCES, V68, P531, DOI 10.2307/2579259
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Hunter F., 1953, COMMUNITY POWER STRU
+   Keister LA., 2009, SOCIOLOGICAL ANAL, V2, P5
+   Latapy M, 2008, SOC NETWORKS, V30, P31, DOI 10.1016/j.socnet.2007.04.006
+   Marsden PV, 2002, SOC NETWORKS, V24, P407, DOI 10.1016/S0378-8733(02)00016-3
+   MCPHERSON JM, 1987, AM SOCIOL REV, V52, P370, DOI 10.2307/2095356
+   MCPHERSON M, 1983, AM SOCIOL REV, V48, P519, DOI 10.2307/2117719
+   Opsahl T, 2013, SOC NETWORKS, V35, P159, DOI 10.1016/j.socnet.2011.07.001
+   POPIELARZ PA, 1995, AM J SOCIOL, V101, P698, DOI 10.1086/230757
+   Popielarz PA, 1999, GENDER SOC, V13, P234, DOI 10.1177/089124399013002005
+   Putnam R., 1999, BOWLING ALONE
+   Simmel G., 1950, SOCIOLOGY G SIMMEL
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+NR 25
+TC 17
+Z9 20
+U1 1
+U2 51
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD OCT
+PY 2018
+VL 55
+BP 11
+EP 20
+DI 10.1016/j.socnet.2018.04.001
+PG 10
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA GT6YH
+UT WOS:000444666300002
+DA 2024-11-22
+ER
+
+PT J
+AU Emms, R
+   Crossley, N
+AF Emms, Rachel
+   Crossley, Nick
+TI Translocality, Network Structure, and Music Worlds: Underground Metal in
+   the United Kingdom
+SO CANADIAN REVIEW OF SOCIOLOGY-REVUE CANADIENNE DE SOCIOLOGIE
+LA English
+DT Article
+ID CENTRALITY MEASURES; ORGANIZATION; EMBODIMENT; BOURDIEU
+AB Translocal music worlds are often defined as networks of local music worlds. However, their networked character and more especially their network structure is generally assumed rather than concretely mapped and explored. Formal social network analysis (SNA) is beginning to attract interest in music sociology but it has not previously been used to explore a translocal music world. In this paper, drawing upon a survey of the participation of 474 enthusiasts in 148 live music events, spread across 6 localities, we use SNA to explore a significant slice of the network structure of the U.K.'s translocal underground heavy metal world. Translocality is generated in a number of ways, we suggest, but one way, the way we focus upon, involves audiences traveling between localities to attend gigs and festivals. Our analysis of this network uncovers a core-periphery structure which, we further find, maps onto locality. Not all live events enjoy equal standing in our music world and some localities are better placed to capture more prestigious events, encouraging inward travel. The identification of such structures, and the inequality they point to, is, we believe, one of several benefits of using SNA to analyze translocal music worlds.
+C1 [Emms, Rachel; Crossley, Nick] Univ Manchester, Manchester, Lancs, England.
+C3 University of Manchester
+RP Emms, R (corresponding author), Univ Manchester, Dept Sociol, Oxford Rd, Manchester M13 9PL, Lancs, England.
+EM Rachel.Emms@postgrad.manchester.ac.uk
+OI Crossley, Nick/0000-0003-0969-9121
+CR Adorno TW., 1976, INTRO SOCIOLOGY MUSI
+   Allingtona D, 2015, CULT TRENDS, V24, P211, DOI 10.1080/09548963.2015.1066073
+   [Anonymous], 2002, Harvard, MA: Analytic Technologies
+   [Anonymous], 2015, The Elementary Forms of Religious Life
+   [Anonymous], JAZZ RES J
+   Banks M, 2012, POP MUSIC, V31, P69, DOI 10.1017/S0261143011000468
+   Becker Howard., 2004, MUSIC SCENES LOCAL T, P17
+   Becker HS, 2006, SOCIOL FORUM, V21, P275, DOI 10.1007/s11206-006-9018-2
+   Becker Howard S., 2008, ART WORLDS
+   BECKER HS, 1974, AM SOCIOL REV, V39, P767, DOI 10.2307/2094151
+   Bennett A., 2012, GROWING OLD DISGRACE
+   BENNETT A., 2012, AGEING YOUTH CULTURE
+   Bennett Tony., 2009, Culture, Class Distinction, DOI DOI 10.4324/9780203930571
+   Bin Quader S, 2015, CULT STUD, V29, P401, DOI 10.1080/09502386.2014.937945
+   Borgatti SP, 2006, SOC NETWORKS, V28, P124, DOI 10.1016/j.socnet.2005.05.001
+   Bottero W, 2011, CULT SOCIOL-LONDON, V5, P99, DOI 10.1177/1749975510389726
+   Johnson Randal., 1993, FIELD CULTURAL PRODU
+   BREIGER RL, 1974, SOC FORCES, V53, P181, DOI 10.2307/2576011
+   Bryson B, 1996, AM SOCIOL REV, V61, P884, DOI 10.2307/2096459
+   Cormany DL, 2015, J POP MUSIC STUD, V27, P184, DOI 10.1111/jpms.12120
+   Costenbader E, 2003, SOC NETWORKS, V25, P283, DOI 10.1016/S0378-8733(03)00012-1
+   Crossley N, 2015, MUSIC SOCIETY, P1, DOI 10.7765/9781847799937
+   Crossley N, 2015, ROUTL ADV SOCIOL, V126, P1
+   Crossley N, 2011, SOCIOLOGICA, DOI 10.2383/34639
+   Crossley N, 2015, CULT SOCIOL-LONDON, V9, P471, DOI 10.1177/1749975515576585
+   Crossley N, 2015, CULT SOCIOL-LONDON, V9, P38, DOI 10.1177/1749975514533209
+   Crossley N, 2015, CULT SOCIOL-LONDON, V9, P3, DOI 10.1177/1749975514546236
+   Crossley Nick., 2016, Methodological Innovations, V9, P1, DOI DOI 10.1177/2059799116630663
+   DIMAGGIO P, 1987, AM SOCIOL REV, V52, P440, DOI 10.2307/2095290
+   Dowd TimothyJ., 2004, Music Scenes: Local, Translocal and Virtual, P149
+   Elafros A, 2013, POETICS, V41, P75, DOI 10.1016/j.poetic.2012.11.002
+   Emms R., 2017, THESIS
+   FELD SL, 1981, AM J SOCIOL, V86, P1015, DOI 10.1086/227352
+   Finnegan Ruth., 1989, THE HIDDEN MUSICIANS
+   Futrell R, 2006, SOCIOL QUART, V47, P275, DOI 10.1111/j.1533-8525.2006.00046.x
+   GILMORE S, 1987, SYMB INTERACT, V10, P209, DOI 10.1525/si.1987.10.2.209
+   GILMORE S, 1988, SOCIOL QUART, V29, P203, DOI 10.1111/j.1533-8525.1988.tb01251.x
+   Hesmondhalgh David., 2005, J YOUTH STUD, V8, P21, DOI DOI 10.1080/13676260500063652
+   Hield F, 2015, ROUTL ADV SOCIOL, V126, P189
+   Hodkinson Paul., 2004, MUSIC SCENES, P131
+   Kahn-Harris Keith., 2000, Popular music, V19, P13, DOI DOI 10.1017/S0261143000000052
+   Kahn-Harris Keith., 2007, EXTREME METAL MUSIC
+   Keil Charles., 1966, URBAN BLUES
+   Krenske L., 2000, J FEMINIST GEOGRAPHY, V7, P287, DOI [DOI 10.1080/713668874, 10.1080/713668874]
+   Kruse H., 2003, SITE AND SOUND
+   Kruse Holly., 1993, POP MUSIC, V12, P33
+   Lopes Paul., 2002, The Rise of a Jazz Art World
+   Lopez Jose., 2000, SOCIAL STRUCTURE
+   Ma EricKit-wai., 2002, International Journal of Cultural Studies, V5, P131, DOI [https://doi.org/10.1177/1367877902005002568, DOI 10.1177/1367877902005002568]
+   Madrid AL, 2006, POP MUSIC, V25, P383, DOI 10.1017/S0261143006000961
+   Martin PJ, 2006, SYMB INTERACT, V29, P95, DOI 10.1525/si.2006.29.1.95
+   Martin-Iverson S, 2014, INTER-ASIA CULT STUD, V15, P532, DOI 10.1080/14649373.2014.972636
+   McAndrew S, 2015, CULT SOCIOL-LONDON, V9, P56, DOI 10.1177/1749975514542486
+   Millward P, 2017, CULT SOCIOL-LONDON, V11, P318, DOI 10.1177/1749975517712045
+   Negus Keith., 1999, Music Genres and Corporate Cultures
+   Newton Francis., 1961, The Jazz Scene
+   O'Neill A., 2017, La historia del Heavy Metal
+   O'Shea S, 2015, ROUTL ADV SOCIOL, V126, P122
+   Peirce CS., 1955, PHILOS WRITINGS PEIR
+   Peterson RichardA., 2004, Music Scenes: Local, Translocal, and Virtual
+   Savage M, 2006, CULT TRENDS, V15, P159, DOI 10.1080/09548960600712975
+   Small Christopher., 1998, Musicking: The Meaning of Performing and Listening
+   Solomon T, 2009, EUR J CULT STUD, V12, P305, DOI 10.1177/1367549409105366
+   Straw W., 1991, CULT STUD, V5, P368, DOI DOI 10.1080/09502389100490311
+   Thornton S., 1995, CLUB CULTURES
+   Toynbee Jason., 2000, Making Popular Music
+   Walser Robert., 1993, RUNNING DEVIL
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   Weinstein Deena., 1991, HEAVY METAL
+NR 69
+TC 6
+Z9 12
+U1 1
+U2 20
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1755-6171
+EI 1755-618X
+J9 CAN REV SOCIOL
+JI Can. Rev. Sociol.
+PD FEB
+PY 2018
+VL 55
+IS 1
+BP 111
+EP 135
+DI 10.1111/cars.12181
+PG 25
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA FW2LN
+UT WOS:000425134700006
+PM 29446535
+OA Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Bernstein, E
+   Shore, J
+   Lazer, D
+AF Bernstein, Ethan
+   Shore, Jesse
+   Lazer, David
+TI How intermittent breaks in interaction improve collective intelligence
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE collective intelligence; social influence; social networks
+ID TRAVELING SALESMAN PROBLEM; NETWORK STRUCTURE; PERFORMANCE; INCENTIVES;
+   INNOVATIONS; ABILITY
+AB People influence each other when they interact to solve problems. Such social influence introduces both benefits (higher average solution quality due to exploitation of existing answers through social learning) and costs (lower maximum solution quality due to a reduction in individual exploration for novel answers) relative to independent problem solving. In contrast to prior work, which has focused on how the presence and network structure of social influence affect performance, here we investigate the effects of time. We show that when social influence is intermittent it provides the benefits of constant social influence without the costs. Human subjects solved the canonical traveling salesperson problem in groups of three, randomized into treatments with constant social influence, intermittent social influence, or no social influence. Groups in the intermittent social-influence treatment found the optimum solution frequently (like groups without influence) but had a high mean performance (like groups with constant influence); they learned from each other, while maintaining a high level of exploration. Solutions improved most on rounds with social influence after a period of separation. We also show that storing subjects' best solutions so that they could be reloaded and possibly modified in subsequent rounds-a ubiquitous feature of personal productivity software-is similar to constant social influence: It increases mean performance but decreases exploration.
+C1 [Bernstein, Ethan] Harvard Univ, Harvard Business Sch, Org Behav Unit, Boston, MA 02163 USA.
+   [Shore, Jesse] Boston Univ, Questrom Sch Business, Informat Syst Dept, Boston, MA 02215 USA.
+   [Lazer, David] Northeastern Univ, Coll Comp & Informat Sci, Dept Polit Sci, Boston, MA 02115 USA.
+   [Lazer, David] Harvard Univ, Inst Quantitat Social Sci, Cambridge, MA 02138 USA.
+C3 Harvard University; Boston University; Northeastern University; Harvard
+   University
+RP Shore, J (corresponding author), Boston Univ, Questrom Sch Business, Informat Syst Dept, Boston, MA 02215 USA.
+EM jccs@bu.edu
+RI Bernstein, Ethan/I-7714-2013
+OI Shore, Jesse/0000-0003-3812-0262
+FU Office of Naval Research [G00005072]; Harvard Business School Division
+   of Research and Faculty Development
+FX This research was supported by Office of Naval Research Grant G00005072
+   and funding from the Harvard Business School Division of Research and
+   Faculty Development. The viewpoints expressed in this article are the
+   authors' alone.
+CR [Anonymous], 2003, EUROPEAN HERITAGE EC, DOI DOI 10.1007/0-306-48082-4_
+   Arrow KJ, 2008, SCIENCE, V320, P877, DOI 10.1126/science.1157679
+   Becker J, 2017, P NATL ACAD SCI USA, V114, pE5070, DOI 10.1073/pnas.1615978114
+   Berdahl A, 2013, SCIENCE, V339, P574, DOI 10.1126/science.1225883
+   Boudreau KJ, 2015, RES POLICY, V44, P4, DOI 10.1016/j.respol.2014.08.001
+   Boudreau KJ, 2011, MANAGE SCI, V57, P843, DOI 10.1287/mnsc.1110.1322
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   CERNY V, 1985, J OPTIMIZ THEORY APP, V45, P41, DOI 10.1007/BF00940812
+   DIEHL M, 1987, J PERS SOC PSYCHOL, V53, P497, DOI 10.1037/0022-3514.53.3.497
+   Galton F, 1907, NATURE, V75, P450, DOI 10.1038/075450a0
+   Girotra K, 2010, MANAGE SCI, V56, P591, DOI 10.1287/mnsc.1090.1144
+   Hackman J.R., 2011, Collaborative intelligence: Using teams to solve hard problems
+   Hackman JR, 1970, SOCIOMETRY, V33, P1
+   Hong L, 2004, P NATL ACAD SCI USA, V101, P16385, DOI 10.1073/pnas.0403723101
+   Lazer D, 2007, ADMIN SCI QUART, V52, P667, DOI 10.2189/asqu.52.4.667
+   Levinthal DA, 1997, MANAGE SCI, V43, P934, DOI 10.1287/mnsc.43.7.934
+   LIANG DW, 1995, PERS SOC PSYCHOL B, V21, P384, DOI 10.1177/0146167295214009
+   Lorenz J, 2011, P NATL ACAD SCI USA, V108, P9020, DOI 10.1073/pnas.1008636108
+   MacGregor JN, 1996, PERCEPT PSYCHOPHYS, V58, P527, DOI 10.3758/BF03213088
+   Madirolas G, 2014, P COLL INT C ACM NEW, P10
+   Malone TW, 2010, MIT SLOAN MANAGE REV, V51, P21
+   Mason W, 2012, P NATL ACAD SCI USA, V109, P764, DOI 10.1073/pnas.1110069108
+   Mason WA, 2008, J EXP PSYCHOL GEN, V137, P422, DOI 10.1037/a0012798
+   Noveck BS, 2009, WIKI GOVERNMENT: HOW TECHNOLOGY CAN MAKE GOVERNMENT BETTER, DEMOCRACY STRONGER, AND CITIZENS MORE POWERFUL, P1
+   Pan W, 2012, Proceedings of 2012 ASE/IEEE International Conference on Privacy, Security, Risk and Trust and 2012 ASE/IEEE International Conference on Social Computing (SocialCom/PASSAT 2012), P203, DOI 10.1109/SocialCom-PASSAT.2012.133
+   Papadimitriou C. H., 1977, Theoretical Computer Science, V4, P237, DOI 10.1016/0304-3975(77)90012-3
+   Paulus P.B., 2002, European Review of Social Psychology, V12, P299, DOI [10.1080/14792772143000094, DOI 10.1080/14792772143000094]
+   Riedl C, 2017, ACAD MANAG DISCOV, V3, P382, DOI 10.5465/amd.2015.0097
+   Sekara V, 2016, P NATL ACAD SCI USA, V113, P9977, DOI 10.1073/pnas.1602803113
+   Shore J, 2015, ORGAN SCI, V26, P1432, DOI 10.1287/orsc.2015.0980
+   Steiner I.D., 2007, Group Process and Productivity
+   Sunstein CassR., 2005, Why societies need dissent, V9
+   Tibshirani R, 1996, J ROY STAT SOC B, V58, P267, DOI 10.1111/j.2517-6161.1996.tb02080.x
+   Valentine MA, 2017, PROCEEDINGS OF THE 2017 ACM SIGCHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS (CHI'17), P3523, DOI 10.1145/3025453.3025811
+   Woolley AW, 2010, SCIENCE, V330, P686, DOI 10.1126/science.1193147
+NR 35
+TC 68
+Z9 76
+U1 4
+U2 25
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD AUG 28
+PY 2018
+VL 115
+IS 35
+BP 8734
+EP 8739
+DI 10.1073/pnas.1802407115
+PG 6
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA GR7ID
+UT WOS:000442861600049
+PM 30104371
+OA Green Published, hybrid
+DA 2024-11-22
+ER

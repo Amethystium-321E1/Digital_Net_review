@@ -1,0 +1,640 @@
+
+PT J
+AU Graif, C
+   Lungeanu, A
+   Yetter, AM
+AF Graif, Corina
+   Lungeanu, Alina
+   Yetter, Alyssa M.
+TI Neighborhood isolation in Chicago: Violent crime effects on structural
+   isolation and homophily in inter-neighborhood commuting networks
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Neighborhood networks; Commuting; Violence; Social isolation; Homophily;
+   TERGM
+ID DISCRETE TEMPORAL MODELS; NATURAL EXPERIMENT; SOCIAL NETWORKS; JOB
+   SEARCH; MOBILITY; URBAN; DISADVANTAGE; EMPLOYMENT; DIVERSITY;
+   DISCRIMINATION
+AB Urban sociologists and, criminologists have long been interested in the link between neighborhood isolation and crime. Yet studies have focused predominantly on the internal dimension of social isolation (i.e., increased social disorganization and insufficient jobs and opportunities). This study highlights the need to assess the external dimension of neighborhood isolation, the disconnectedness from other neighbor-hoods in the city. Analyses of Chicago's neighborhood commuting network over twelve years (2002-2013) showed that violence predicted network isolation. Moreover, pairwise similarity in neighborhood violence predicted commuting ties, supporting homophily expectations. Violence homophily affected tie formation most, while neighborhood violence was important in dissolving ties. (C) 2017 Elsevier B.V. All rights reserved.
+C1 [Graif, Corina; Yetter, Alyssa M.] Penn State Univ, Dept Sociol & Criminol, 603 Oswald Tower, University Pk, PA 16802 USA.
+   [Graif, Corina; Lungeanu, Alina] Penn State Univ, Populat Res Inst, University Pk, PA 16802 USA.
+C3 Pennsylvania Commonwealth System of Higher Education (PCSHE);
+   Pennsylvania State University; Pennsylvania State University -
+   University Park; Pennsylvania Commonwealth System of Higher Education
+   (PCSHE); Pennsylvania State University; Pennsylvania State University -
+   University Park
+RP Graif, C (corresponding author), Penn State Univ, Dept Sociol & Criminol, 603 Oswald Tower, University Pk, PA 16802 USA.
+EM corina.graif@psu.edu
+RI Lungeanu, Alina/AAV-5066-2020
+FU National Science Foundation [NSF CNS-1544455]; Penn State's Social
+   Science Research Institute; Population Research Institute; Eunice
+   Kennedy Shriver National Institute of Child Health and Human Development
+   [NIH R24-HD044943]
+FX The authors are grateful for funding from the National Science
+   Foundation (NSF CNS-1544455), Penn State's Social Science Research
+   Institute, Population Research Institute, and the Eunice Kennedy Shriver
+   National Institute of Child Health and Human Development (NIH
+   R24-HD044943).
+CR [Anonymous], MODELS METHODS SOCIA
+   [Anonymous], 2005, Technical Paper TP-2006-01
+   [Anonymous], 1977, INEQUALITY HETEROGEN
+   [Anonymous], 1942, JUVENILE DELINQUENCY
+   Bastian M., 2009, GEPHI OPEN SOURCE SO
+   Baumer EP, 2002, CRIMINOLOGY, V40, P579, DOI 10.1111/j.1745-9125.2002.tb00967.x
+   Baumer EP, 2010, CRIMINOLOGY, V48, P131, DOI 10.1111/j.1745-9125.2010.00182.x
+   Bernasco W, 2010, EUR J CRIMINOL, V7, P251, DOI 10.1177/1477370810363372
+   Bertrand M, 2004, AM ECON REV, V94, P991, DOI 10.1257/0002828042002561
+   Besbris M, 2015, P NATL ACAD SCI USA, V112, P4994, DOI 10.1073/pnas.1414139112
+   Boggess LN, 2010, J QUANT CRIMINOL, V26, P351, DOI 10.1007/s10940-010-9093-7
+   Browning CR, 2015, SOC SCI MED, V125, P163, DOI 10.1016/j.socscimed.2014.06.028
+   Bursik R.J., 1993, Neighborhoods crime
+   Bursik RobertJ., 1989, THEORETICAL INTEGRAT
+   Clear TR, 2003, JUSTICE Q, V20, P33, DOI 10.1080/07418820300095451
+   Cranmer SJ, 2011, POLIT ANAL, V19, P66, DOI 10.1093/pan/mpq037
+   Dwyer RE, 2007, SOC PROBL, V54, P23, DOI 10.1525/sp.2007.54.1.23
+   Felson M., 2015, CRIME SCI, V4, P1, DOI [10.1186/s40163-015-0039-0, DOI 10.1186/S40163-015-0039-0]
+   FRANK O, 1986, J AM STAT ASSOC, V81, P832, DOI 10.2307/2289017
+   GALASKIEWICZ J, 1981, ADMIN SCI QUART, V26, P434, DOI 10.2307/2392516
+   Geolytics, 2003, CENS CD NEIGHB CHANG
+   Gobillon L, 2007, URBAN STUD, V44, P2401, DOI 10.1080/00420980701540937
+   Graham M.R., 2014, WORKING PAPERS, V14-38
+   Graif C, 2014, SOCIOL COMPASS, V8, P1140, DOI 10.1111/soc4.12199
+   Graif C, 2009, HOMICIDE STUD, V13, P242, DOI 10.1177/1088767909336728
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Greenbaum RT, 2004, URBAN STUD, V41, P2495, DOI 10.1080/0042098042000294538
+   HALLINAN MT, 1989, AM SOCIOL REV, V54, P67, DOI 10.2307/2095662
+   Handcock M.S., 2015, SUNBELT 2015
+   Hanneke S, 2007, LECT NOTES COMPUT SC, V4503, P115
+   Hanneke S, 2010, ELECTRON J STAT, V4, P585, DOI 10.1214/09-EJS548
+   Harding D. J., 2010, Living the Drama: Community, Conflict, and Culture Among InnerCity Boys
+   Hellerstein JK, 2014, J URBAN ECON, V79, P39, DOI 10.1016/j.jue.2013.03.001
+   Hellerstein JK, 2011, J LABOR ECON, V29, P659, DOI 10.1086/660776
+   Hipp JR, 2007, AM SOCIOL REV, V72, P659, DOI 10.1177/000312240707200501
+   Hipp JR, 2009, CITY COMMUNITY, V8, P5, DOI 10.1111/j.1540-6040.2009.01267.x
+   Hunter A., 1985, CHALLENGE SOCIAL CON, P230
+   Hunter DR, 2007, SOC NETWORKS, V29, P216, DOI 10.1016/j.socnet.2006.08.005
+   Hurlbert JS, 2000, AM SOCIOL REV, V65, P598, DOI 10.2307/2657385
+   IBARRA H, 1995, ACAD MANAGE J, V38, P673, DOI 10.5465/256742
+   Jacomy M, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0098679
+   KAIN JF, 1968, Q J ECON, V82, P175, DOI 10.2307/1885893
+   Kirk DS, 2015, P NATL ACAD SCI USA, V112, P6943, DOI 10.1073/pnas.1501987112
+   Kirk DS, 2009, AM SOCIOL REV, V74, P484, DOI 10.1177/000312240907400308
+   Krivitsky PN, 2014, J ROY STAT SOC B, V76, P29, DOI 10.1111/rssb.12014
+   Krivo LJ, 2013, SOC FORCES, V92, P141, DOI 10.1093/sf/sot043
+   Logan JohnR., 1987, Urban fortunes: The political economy of place
+   MARKS SR, 1994, SOC FORCES, V72, P843, DOI 10.2307/2579783
+   Marsden PeterV., 1990, Structures of Power and Constraint: Papers in Honor of Peter Blau, P397
+   MARSDEN PV, 1988, SOC NETWORKS, V10, P57, DOI 10.1016/0378-8733(88)90010-X
+   MARSDEN PV, 1987, AM SOCIOL REV, V52, P122, DOI 10.2307/2095397
+   Massey D.S., 1993, Social Stratification, Class, Race, and Gender in Sociological Perspective. In Social Stratification, Class, Race, and Gender in Sociological Perspective, DOI DOI 10.4324/9780429306419-102/AMERICAN-APARTHEID-SEGREGATION-MAKING
+   Massey DouglasS., 2003, BROOKS WHARTON PAPER, P1
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Morenoff JD, 1997, SOC FORCES, V76, P31, DOI 10.2307/2580317
+   Murphy AK, 2010, SOC SCI QUART, V91, P1164, DOI 10.1111/j.1540-6237.2010.00726.x
+   Neal Z, 2015, AM J COMMUN PSYCHOL, V55, P369, DOI 10.1007/s10464-015-9720-4
+   Neal ZP, 2014, AM J COMMUN PSYCHOL, V53, P1, DOI 10.1007/s10464-013-9608-0
+   Ong PM, 2005, J PLAN EDUC RES, V25, P43, DOI 10.1177/0739456X04270244
+   Pager D, 2003, AM J SOCIOL, V108, P937, DOI 10.1086/374403
+   Pager D, 2008, ANNU REV SOCIOL, V34, P181, DOI 10.1146/annurev.soc.33.040406.131740
+   Pager D, 2009, ANN AM ACAD POLIT SS, V623, P195, DOI 10.1177/0002716208330793
+   Papachristos AV, 2013, AM SOCIOL REV, V78, P417, DOI 10.1177/0003122413486800
+   Regoeczi W.C., 2014, NATIONS 2 MEASURES H
+   Reskin BF, 1999, ANNU REV SOCIOL, V25, P335, DOI 10.1146/annurev.soc.25.1.335
+   Robins G, 2007, SOC NETWORKS, V29, P173, DOI 10.1016/j.socnet.2006.08.002
+   Sampson R.J., 2009, WHOM CAN WE TRUST GR, P182
+   Sampson RJ, 1997, SCIENCE, V277, P918, DOI 10.1126/science.277.5328.918
+   SAMPSON RJ, 1984, SOC FORCES, V62, P618, DOI 10.2307/2578703
+   Sampson RJ, 2008, DEMOGRAPHY, V45, P1, DOI 10.1353/dem.2008.0012
+   Sampson RJ, 2009, AM BEHAV SCI, V52, P1579, DOI 10.1177/0002764209331527
+   Sampson RobertJ., 2011, Great American City: Chicago and the Enduring Neighborhood Effect
+   Schaefer DR, 2012, SOC NETWORKS, V34, P141, DOI 10.1016/j.socnet.2011.02.001
+   Schmutte IM, 2015, J LABOR ECON, V33, P1, DOI 10.1086/677389
+   Selod H, 2006, ECON J, V116, P1057, DOI 10.1111/j.1468-0297.2006.01123.x
+   Serrano MA, 2009, P NATL ACAD SCI USA, V106, P6483, DOI 10.1073/pnas.0808904106
+   Small ML, 2006, SOC FORCES, V84, P1697, DOI 10.1353/sof.2006.0067
+   SOUTH SJ, 1990, SOC FORCES, V69, P71, DOI 10.2307/2579608
+   SOUTH SJ, 1986, AM J SOCIOL, V91, P1409, DOI 10.1086/228427
+   STARK R, 1987, CRIMINOLOGY, V25, P893, DOI 10.1111/j.1745-9125.1987.tb00824.x
+   Stivala A, 2016, AM J COMMUN PSYCHOL, V57, P243, DOI 10.1002/ajcp.12021
+   Stoll MA, 2005, URBAN STUD, V42, P695, DOI 10.1080/00420980500060228
+   Tita G, 2005, J RES CRIME DELINQ, V42, P275, DOI 10.1177/0022427804270051
+   Tran VC, 2013, CITY COMMUNITY, V12, P187, DOI 10.1111/cico.12028
+   Vélez MB, 2012, CRIMINOLOGY, V50, P1025, DOI 10.1111/j.1745-9125.2012.00287.x
+   Vigne La, 2003, PORTRAIT PRISONER RE
+   Wasserman S, 1996, PSYCHOMETRIKA, V61, P401, DOI 10.1007/BF02294547
+   Weigensberg Elizabeth, 2011, CHICAGOS LABOR FORCE
+   Wellman B, 1996, SOC NETWORKS, V18, P347, DOI 10.1016/0378-8733(95)00282-0
+   Wilson William J., 1996, JOBS DISAPPEAR WORLD
+   Wilson William Julius., 1987, TRULY DISADVANTAGED
+   Xie M, 2008, CRIMINOLOGY, V46, P809, DOI 10.1111/j.1745-9125.2008.00133.x
+NR 92
+TC 48
+Z9 53
+U1 5
+U2 40
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD OCT
+PY 2017
+VL 51
+SI SI
+BP 40
+EP 59
+DI 10.1016/j.socnet.2017.01.007
+PG 20
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA FI2LV
+UT WOS:000411771300005
+PM 29104357
+OA Green Accepted, Bronze
+DA 2024-11-22
+ER
+
+PT J
+AU Koen, EL
+   Tosa, MI
+   Nielsen, CK
+   Schauber, EM
+AF Koen, Erin L.
+   Tosa, Marie I.
+   Nielsen, Clayton K.
+   Schauber, Eric M.
+TI Does landscape connectivity shape local and global social network
+   structure in white-tailed deer?
+SO PLOS ONE
+LA English
+DT Article
+ID CHRONIC WASTING DISEASE; HOME-RANGE OVERLAP; GENETIC RELATEDNESS;
+   ODOCOILEUS-VIRGINIANUS; DENSITY-DEPENDENCE; SPATIAL PROXIMITY; AFRICAN
+   BUFFALO; CIRCUIT-THEORY; CONTACT RATES; GROUP-SIZE
+AB Intraspecific social behavior can be influenced by both intrinsic and extrinsic factors. While much research has focused on how characteristics of individuals influence their roles in social networks, we were interested in the role that landscape structure plays in animal sociality at both individual (local) and population (global) levels. We used female white-tailed deer (Odocoileus virginianus) in Illinois, USA, to investigate the potential effect of landscape on social network structure by weighting the edges of seasonal social networks with association rate (based on proximity inferred from GPS collar data). At the local level, we found that sociality among female deer in neighboring social groups (n = 36) was mainly explained by their home range overlap, with two exceptions: 1) during fawning in an area of mixed forest and grassland, deer whose home ranges had low forest connectivity were more social than expected; and 2) during the rut in an area of intensive agriculture, deer inhabiting home ranges with high amount and connectedness of agriculture were more social than expected. At the global scale, we found that deer populations (n = 7) in areas with highly connected forest-agriculture edge, a high proportion of agriculture, and a low proportion of forest tended to have higher weighted network closeness, although low sample size precluded statistical significance. This result implies that infectious disease could spread faster in deer populations inhabiting such landscapes. Our work advances the general understanding of animal social networks, demonstrating how landscape features can underlie differences in social behavior both within and among wildlife social networks.
+C1 [Koen, Erin L.; Tosa, Marie I.; Nielsen, Clayton K.; Schauber, Eric M.] Southern Illinois Univ, Cooperat Wildlife Res Lab, Carbondale, IL 62901 USA.
+   [Tosa, Marie I.; Schauber, Eric M.] Southern Illinois Univ, Dept Zool, Carbondale, IL USA.
+   [Tosa, Marie I.; Schauber, Eric M.] Southern Illinois Univ, Ctr Ecol, Carbondale, IL USA.
+   [Nielsen, Clayton K.] Southern Illinois Univ, Dept Forestry, Carbondale, IL USA.
+C3 Southern Illinois University System; Southern Illinois University;
+   Southern Illinois University System; Southern Illinois University;
+   Southern Illinois University System; Southern Illinois University;
+   Southern Illinois University System; Southern Illinois University
+RP Koen, EL (corresponding author), Southern Illinois Univ, Cooperat Wildlife Res Lab, Carbondale, IL 62901 USA.
+EM erinkoen@hotmail.com
+RI Tosa, Marie/JXW-8140-2024; Schauber, Eric/K-4043-2019
+OI Tosa, Marie/0000-0002-9020-5098; Schauber, Eric/0000-0002-0667-2604
+FU Federal Aid in Wildlife Restoration [W-87-R]
+FX This research was funded by Federal Aid in Wildlife Restoration Project
+   W-87-R, administered through the Illinois Department of Natural
+   Resources. The funders had no role in study design, data collection and
+   analysis, decision to publish, or preparation of the manuscript.
+CR Altizer S, 2003, ANNU REV ECOL EVOL S, V34, P517, DOI 10.1146/annurev.ecolsys.34.030102.151725
+   Anderson CW, 2013, WILDLIFE SOC B, V37, P146, DOI 10.1002/wsb.231
+   [Anonymous], WILDLIFE RES
+   [Anonymous], ILL CHRON WAST DIS 2
+   [Anonymous], P ROY SOC B
+   [Anonymous], J APPL ECOL
+   [Anonymous], 2015 ILL WEATH ARCH
+   [Anonymous], WILDLIFE MONOGRAPHS
+   Barton K, 2012, R PACKAGE VER 1 7 2
+   Beyer H.L., 2012, GEOSPATIAL MODELLING
+   BOX GEP, 1964, J ROY STAT SOC B, V26, P211, DOI 10.1111/j.2517-6161.1964.tb00553.x
+   Brashares JS, 2002, J ANIM ECOL, V71, P626, DOI 10.1046/j.1365-2656.2002.00633.x
+   Brent LJN, 2013, SCI REP-UK, V3, DOI 10.1038/srep01042
+   Burnham K. P., 2013, MODEL SELECTION MULT
+   Calenge C, 2006, ECOL MODEL, V197, P516, DOI 10.1016/j.ecolmodel.2006.03.017
+   Cameron EZ, 2009, P NATL ACAD SCI USA, V106, P13850, DOI 10.1073/pnas.0900639106
+   Clay CA, 2009, P R SOC B, V276, P1305, DOI 10.1098/rspb.2008.1693
+   Comer CE, 2005, J WILDLIFE MANAGE, V69, P332, DOI 10.2193/0022-541X(2005)069<0332:FGSASO>2.0.CO;2
+   Craft ME, 2015, PHILOS T R SOC B, V370, DOI 10.1098/rstb.2014.0107
+   Craft ME, 2011, J R SOC INTERFACE, V8, P776, DOI 10.1098/rsif.2010.0511
+   Cross PC, 2004, ANN ZOOL FENN, V41, P879
+   Daszak P, 2000, SCIENCE, V287, P443, DOI 10.1126/science.287.5452.443
+   Dijkstra EW., 1959, NUMER MATH, V1, P269, DOI 10.1007/BF01386390
+   DOYLE P. G., 1984, Carus Math. Monogr., V22
+   Felix AB, 2007, J WILDLIFE MANAGE, V71, P804, DOI 10.2193/2006-366
+   Fieberg J, 2005, J WILDLIFE MANAGE, V69, P1346, DOI 10.2193/0022-541X(2005)69[1346:QHOTIO]2.0.CO;2
+   Fletcher RJ, 2011, P NATL ACAD SCI USA, V108, P19282, DOI 10.1073/pnas.1107549108
+   Fortin D, 2009, ECOLOGY, V90, P2480, DOI 10.1890/08-0345.1
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   Garroway CJ, 2013, BEHAV ECOL SOCIOBIOL, V67, P113, DOI 10.1007/s00265-012-1431-3
+   GERARD JF, 1995, J THEOR BIOL, V176, P511, DOI 10.1006/jtbi.1995.0217
+   Gobush K, 2009, MOL ECOL, V18, P722, DOI 10.1111/j.1365-294X.2008.04043.x
+   Grear DA, 2006, J WILDLIFE MANAGE, V70, P546, DOI 10.2193/0022-541X(2006)70[546:DPAHVO]2.0.CO;2
+   Grear DA, 2010, J APPL ECOL, V47, P532, DOI 10.1111/j.1365-2664.2010.01813.x
+   Greer AL, 2008, J ANIM ECOL, V77, P364, DOI 10.1111/j.1365-2656.2007.01330.x
+   Habib TJ, 2011, ECOL MODEL, V222, P2722, DOI 10.1016/j.ecolmodel.2011.05.007
+   HAMILTON WD, 1971, J THEOR BIOL, V31, P295, DOI 10.1016/0022-5193(71)90189-5
+   HAWKINS RE, 1970, J WILDLIFE MANAGE, V34, P407, DOI 10.2307/3799027
+   Hirsch BT, 2013, ANIM BEHAV, V85, P463, DOI 10.1016/j.anbehav.2012.12.011
+   Hirth D.H., 1977, WILDLIFE MONGRAPHS, V53, P3
+   Holekamp KE, 1997, J MAMMAL, V78, P55, DOI 10.2307/1382638
+   Jacoby DMP, 2014, BEHAV ECOL SOCIOBIOL, V68, P1995, DOI 10.1007/s00265-014-1805-9
+   Kappeler PM, 2015, PHILOS T R SOC B, V370, DOI 10.1098/rstb.2014.0116
+   Kelley JL, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0024280
+   Kilpatrick HJ, 2001, CAN J ZOOL, V79, P949, DOI 10.1139/cjz-79-6-949
+   Kjær LJ, 2008, J WILDLIFE MANAGE, V72, P1819, DOI 10.2193/2007-489
+   Kjellander P, 2004, OECOLOGIA, V139, P478, DOI 10.1007/s00442-004-1529-z
+   Koen EL, 2014, METHODS ECOL EVOL, V5, P626, DOI 10.1111/2041-210X.12197
+   Korte LM, 2008, J ZOOL, V275, P229, DOI 10.1111/j.1469-7998.2008.00430.x
+   Krause J, 2010, PHILOS T R SOC B, V365, P4099, DOI 10.1098/rstb.2010.0216
+   Kurvers RHJM, 2013, ANIM BEHAV, V86, P993, DOI 10.1016/j.anbehav.2013.09.001
+   Lesage L, 2000, CAN J ZOOL, V78, P1930, DOI 10.1139/cjz-78-11-1930
+   Long J.A., 2014, wildlifeDI: Calculate indices of dynamic interaction for wildlife telemetry data
+   Magle SB, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0056568
+   McDonald DB, 2007, P NATL ACAD SCI USA, V104, P10910, DOI 10.1073/pnas.0701159104
+   McRae B.H., 2009, Circuitscape user's guide
+   Mcrae BH, 2008, ECOLOGY, V89, P2712, DOI 10.1890/07-1861.1
+   Mcrae BH, 2007, P NATL ACAD SCI USA, V104, P19885, DOI 10.1073/pnas.0706568104
+   Miller BF, 2010, J MAMMAL, V91, P681, DOI 10.1644/09-MAMM-A-258.1
+   Miller MW, 2004, EMERG INFECT DIS, V10, P1003, DOI 10.3201/eid1006.040010
+   MOHR CO, 1947, AM MIDL NAT, V37, P223, DOI 10.2307/2421652
+   Mokross K, 2014, P ROY SOC B-BIOL SCI, V281, DOI 10.1098/rspb.2013.2599
+   NELSON ME, 1993, J MAMMAL, V74, P316, DOI 10.2307/1382386
+   Oh KP, 2010, AM NAT, V176, pE80, DOI 10.1086/655216
+   Olson AK, 2015, AM MIDL NAT, V174, P96, DOI 10.1674/0003-0031-174.1.96
+   Opsahl T., 2009, Structure and Evolution of Weighted Networks, P104
+   Opsahl T, 2010, SOC NETWORKS, V32, P245, DOI 10.1016/j.socnet.2010.03.006
+   Osnas EE, 2009, ECOL APPL, V19, P1311, DOI 10.1890/08-0578.1
+   Pike TW, 2008, P ROY SOC B-BIOL SCI, V275, P2515, DOI 10.1098/rspb.2008.0744
+   Pinter-Wollman N, 2009, P ROY SOC B-BIOL SCI, V276, P1009, DOI 10.1098/rspb.2008.1538
+   Pinter-Wollman N, 2014, BEHAV ECOL, V25, P242, DOI 10.1093/beheco/art047
+   Podgórski T, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0099875
+   PULLIAM HR, 1973, J THEOR BIOL, V38, P419, DOI 10.1016/0022-5193(73)90184-7
+   R Core Team, 2015, R LANG ENV STAT COMP
+   Robert K, 2013, J ZOOL, V290, P199, DOI 10.1111/jzo.12027
+   Robinson SJ, 2012, MOL ECOL, V21, P4190, DOI 10.1111/j.1365-294X.2012.05681.x
+   Saunders SE, 2012, EMERG INFECT DIS, V18, P369, DOI 10.3201/eid1803.110685
+   Schauber EM, 2007, J WILDLIFE MANAGE, V71, P155, DOI 10.2193/2005-546
+   Schauber EM, 2015, J MAMMAL, V96, P16, DOI 10.1093/jmammal/gyu027
+   SCHWEDE G, 1993, ANIM BEHAV, V45, P1007, DOI 10.1006/anbe.1993.1118
+   Silk JB, 2003, SCIENCE, V302, P1231, DOI 10.1126/science.1088580
+   Silk JB, 2007, PHILOS T R SOC B, V362, P539, DOI 10.1098/rstb.2006.1994
+   Stanton MA, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0047508
+   Stein RA, 2011, INT J INFECT DIS, V15, pE510, DOI 10.1016/j.ijid.2010.06.020
+   Sundaresan SR, 2007, OECOLOGIA, V151, P140, DOI 10.1007/s00442-006-0553-6
+   Tosa MI, 2015, J WILDLIFE DIS, V51, P79, DOI 10.7589/2013-06-139
+   Vander Wal E, 2015, ECOLOGY, V96, P631, DOI 10.1890/14-1320.1
+   Vander Wal E, 2012, ECOLOGY, V93, P206, DOI 10.1890/11-0020.1
+   Vander Wal E, 2014, BEHAV ECOL SOCIOBIOL, V68, P383, DOI 10.1007/s00265-013-1652-0
+   Vander Wal E, 2012, MOL ECOL, V21, P1271, DOI 10.1111/j.1365-294X.2011.05431.x
+   Venables WN, 2002, MODERN APPL STAT S, DOI [DOI 10.1007/978-0-387-21706-2, 10.1007/978-0-387-21706-2]
+   Walter WD, 2009, LANDSCAPE ECOL, V24, P1405, DOI 10.1007/s10980-009-9374-4
+   WALTHER F R, 1972, Zeitschrift fuer Tierpsychologie, V31, P348
+   Williams ES, 2002, J WILDLIFE MANAGE, V66, P551, DOI 10.2307/3803123
+   WORTON BJ, 1989, ECOLOGY, V70, P164, DOI 10.2307/1938423
+NR 95
+TC 17
+Z9 18
+U1 4
+U2 57
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD MAR 17
+PY 2017
+VL 12
+IS 3
+AR e0173570
+DI 10.1371/journal.pone.0173570
+PG 21
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA EO5CJ
+UT WOS:000396710300011
+PM 28306748
+OA Green Published, gold, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Chesney, T
+AF Chesney, Thomas
+TI The Cascade Capacity Predicts Individuals to Seed for Diffusion Through
+   Social Networks
+SO SYSTEMS RESEARCH AND BEHAVIORAL SCIENCE
+LA English
+DT Article
+DE social contagion; critical mass; simulation; Twitter; viral marketing
+ID CONTAGION; CENTRALITY; DYNAMICS
+AB Why ideas and practices spread an important topic for management scholars and practitioners. This paper presents the cascade capacity as an aspect of network structure as a measure of essentially how 'choosy' everyone in a social network can be and still allow an individual to cause something to spread completely through the network. Drawing on social contagion theory and network theory, we propose a research model about how network structure relates to diffusion and test it by simulation, using network data from the popular microblogging service Twitter. Results show the cascade capacity is an important determinant of diffusion, even when we model for homophily. We show how the concept could be used to select individuals to seed to encourage word of mouth marketing. Copyright (C) 2016 John Wiley & Sons, Ltd.
+C1 [Chesney, Thomas] Univ Nottingham, Sch Business, Nottingham, England.
+C3 University of Nottingham
+RP Chesney, T (corresponding author), Univ Nottingham, Sch Business, Nottingham, England.
+EM thomas.chesney@nottingham.ac.uk
+OI Chesney, Thomas/0000-0003-0256-4523
+CR Angst CM, 2010, MANAGE SCI, V56, P1219, DOI 10.1287/mnsc.1100.1183
+   [Anonymous], SYSTEMS RES BEHAV SC
+   [Anonymous], 1954, FREEDOM CONTROL MODE
+   [Anonymous], GOD FROM THE MACHINE
+   [Anonymous], 2010, Science in the age of computer simulation
+   [Anonymous], PHYS A
+   [Anonymous], 2015, Theory of Computing, DOI DOI 10.4086/TOC.2015.V011A004
+   [Anonymous], NETWORKS
+   Aral S., 2013, NETW SCI, V1, P125, DOI [DOI 10.1017/NWS.2013.6, 10.1017/nws.2013.6]
+   Aral S, 2012, SCIENCE, V337, P337, DOI 10.1126/science.1215842
+   Bampo M, 2008, INFORM SYST RES, V19, P273, DOI 10.1287/isre.1070.0152
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Bermudez Jose Luis., 2010, Cognitive Science
+   BIKHCHANDANI S, 1992, J POLIT ECON, V100, P992, DOI 10.1086/261849
+   BONACICH P, 1987, AM J SOCIOL, V92, P1170, DOI 10.1086/228631
+   Borgatti SP, 2011, ORGAN SCI, V22, P1168, DOI 10.1287/orsc.1100.0641
+   Carli LL, 2001, J SOC ISSUES, V57, P725, DOI 10.1111/0022-4537.00238
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Chen W, 2010, KDD
+   Chesney T, 2014, DECIS SUPPORT SYST, V57, P11, DOI 10.1016/j.dss.2013.07.006
+   Coleman JamesS., 1966, Medical Innovation
+   Fichman R.G., 2004, J ASSOC INF SYST, V5, P314
+   FREEMAN LC, 1977, SOCIOMETRY, V40, P35, DOI 10.2307/3033543
+   Gaba V, 2008, ACAD MANAGE J, V51, P976
+   Galeotti A, 2009, RAND J ECON, V40, P509, DOI 10.1111/j.1756-2171.2009.00075.x
+   Garg R, 2011, J MANAGE INFORM SYST, V28, P11, DOI 10.2753/MIS0742-1222280202
+   Goldenberg J, 2001, MARKET LETT, V12, P211, DOI 10.1023/A:1011122126881
+   GRANOVETTER M, 1978, AM J SOCIOL, V83, P1420, DOI 10.1086/226707
+   GREENBERG BS, 1964, JOURNALISM QUART, V41, P489, DOI 10.1177/107769906404100402
+   Hinz O, 2011, J MARKETING, V75, P55, DOI 10.1509/jm.10.0088
+   Hirschheim R, 2007, J ASSOC INF SYST, V8, P203, DOI 10.17705/1jais.00128
+   Ho JYC, 2010, J BUS RES, V63, P1000, DOI 10.1016/j.jbusres.2008.08.010
+   HOLDEN RT, 1986, AM J SOCIOL, V91, P874, DOI 10.1086/228353
+   Holme P, 2002, PHYS REV E, V65, DOI 10.1103/PhysRevE.65.026107
+   Iyengar R, 2011, MARKET SCI, V30, P195, DOI 10.1287/mksc.1100.0566
+   Jackson MO, 2008, SOCIAL AND ECONOMIC NETWORKS, P1
+   Janakiraman R, 2011, DECISION SCI, V42, P889, DOI 10.1111/j.1540-5915.2011.00335.x
+   Kempe D., 2005, Automata, Languages and Programming. 32nd International Colloquium, ICALP 2005. Proceedings (Lecture Notes in Computer Science Vol. 3580), P1127, DOI 10.1007/11523468_91
+   Klemm K, 2002, PHYS REV E, V65, DOI 10.1103/PhysRevE.65.057102
+   Leskovec J, 2007, ACM Transactions on the Web, V1, P380
+   Leskovec J, 2006, LECT NOTES ARTIF INT, V3918, P380
+   MANSKI CF, 1993, REV ECON STUD, V60, P531, DOI 10.2307/2298123
+   Marwell G, 1993, The critical mass in collective action
+   MILGRAM S, 1967, PSYCHOL TODAY, V1, P61
+   Newman M., 2010, NETWORKS, DOI [DOI 10.1093/ACPROF:OSO/9780199206650.001.0001, 10.1093/acprof:oso/9780199206650.001.0001]
+   Newman MEJ, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.036122
+   Newman MEJ, 2001, PHYS REV E, V64, DOI [10.1103/PhysRevE.64.016132, 10.1103/PhysRevE.64.016131]
+   Newman MEJ, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.208701
+   Palka W, 2009, J INF TECHNOL-UK, V24, P122, DOI 10.1057/jit.2008.37
+   Phelps C, 2012, J MANAGE, V38, P1115, DOI 10.1177/0149206311432640
+   Rogers E. M., 1995, DIFFUSION INNOVATION
+   Ryan B, 1943, RURAL SOCIOL, V8, P15
+   Salganik MJ, 2008, SOC PSYCHOL QUART, V71, P338, DOI 10.1177/019027250807100404
+   SCHELLING TC, 1971, J MATH SOCIOL, V1, P143, DOI 10.1080/0022250X.1971.9989794
+   Shi Z, 2014, MIS QUART, V38, P123, DOI 10.25300/MISQ/2014/38.1.06
+   Tang FC, 2011, SYST RES BEHAV SCI, V28, P270, DOI 10.1002/sres.1074
+   Ugander J, 2012, P NATL ACAD SCI USA, V109, P5962, DOI 10.1073/pnas.1116502109
+   Valente TW, 2012, SCIENCE, V337, P49, DOI 10.1126/science.1217330
+   Van den Bulte C, 2004, MARKET SCI, V23, P530, DOI 10.1287/mksc.1040.0054
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Watts DJ, 2007, J CONSUM RES, V34, P441, DOI 10.1086/518527
+   Wu DD, 2014, SYST RES BEHAV SCI, V31, P502, DOI 10.1002/sres.2291
+NR 63
+TC 2
+Z9 2
+U1 2
+U2 18
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1092-7026
+EI 1099-1743
+J9 SYST RES BEHAV SCI
+JI Syst. Res. Behav. Sci.
+PD JAN-FEB
+PY 2017
+VL 34
+IS 1
+BP 51
+EP 61
+DI 10.1002/sres.2398
+PG 11
+WC Management; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Business & Economics; Social Sciences - Other Topics
+GA EO1TG
+UT WOS:000396480200004
+DA 2024-11-22
+ER
+
+PT J
+AU Bollen, J
+   Gonçalves, B
+   van de Leemput, I
+   Ruan, G
+AF Bollen, Johan
+   Goncalves, Bruno
+   van de Leemput, Ingrid
+   Ruan, Guangchen
+TI The happiness paradox: your friends are happier than you
+SO EPJ DATA SCIENCE
+LA English
+DT Article
+DE subjective well-being; social media; social network; friendship paradox;
+   sentiment analysis; natural language processing; data science
+ID SENTIMENT
+AB Most individuals in social networks experience a so-called Friendship Paradox: they are less popular than their friends on average. This effect may explain recent findings that widespread social network media use leads to reduced happiness. However the relation between popularity and happiness is poorly understood. A Friendship paradox does not necessarily imply a Happiness paradox where most individuals are less happy than their friends. Here we report the first direct observation of a significant Happiness Paradox in a large-scale online social network of 39,110 Twitter users. Our results reveal that popular individuals are indeed happier and that a majority of individuals experience a significant Happiness paradox. The magnitude of the latter effect is shaped by complex interactions between individual popularity, happiness, and the fact that users strongly cluster by similar level of happiness. Our results indicate that the topology of online social networks, combined with how happiness is distributed in some populations, may be associated with significant psycho-social effects.
+C1 [Bollen, Johan; Ruan, Guangchen] Indiana Univ, Sch Informat & Comp, Bloomington, IN 47405 USA.
+   [Goncalves, Bruno] NYU, Ctr Data Sci, New York, NY 10003 USA.
+   [van de Leemput, Ingrid] Wageningen Univ, Environm Sci, Wageningen, Netherlands.
+C3 Indiana University System; Indiana University Bloomington; New York
+   University; Wageningen University & Research
+RP Bollen, J (corresponding author), Indiana Univ, Sch Informat & Comp, Bloomington, IN 47405 USA.
+EM jbollen@indiana.edu
+FU Moore Foundation as part of the Moore-Sloan Data Science Environment at
+   NYU; Sloan Foundation as part of the Moore-Sloan Data Science
+   Environment at NYU; Defense Advance Research Projects Agency
+   [D17AC00005]; National Science Foundation [SMA-SBE: 1636636]
+FX Bruno Goncalves thanks the Moore and Sloan Foundations for support as
+   part of the Moore-Sloan Data Science Environment at NYU. Johan Bollen
+   thanks the Defense Advance Research Projects Agency (NGS2 2016
+   #D17AC00005) and the National Science Foundation (SMA-SBE: 1636636) for
+   their support.
+CR [Anonymous], P 7 INT AAAI C WEBL
+   Apicella CL, 2012, NATURE, V481, P497, DOI 10.1038/nature10736
+   Bollen J, 2011, ARTIF LIFE, V17, P237, DOI 10.1162/artl_a_00034
+   Burke M, 2010, CHI2010: PROCEEDINGS OF THE 28TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, VOLS 1-4, P1909
+   de la Garza A, 2010, CARLO ALBERTO NOTEBO
+   Dunbar RIM, 2012, PHILOS T R SOC B, V367, P2192, DOI 10.1098/rstb.2012.0121
+   Dunbar RIM, 2010, NEUROSCI BIOBEHAV R, V34, P260, DOI 10.1016/j.neubiorev.2008.07.001
+   FELD SL, 1991, AM J SOCIOL, V96, P1464, DOI 10.1086/229693
+   Ferrara E, 2015, PEERJ COMPUT SCI, DOI 10.7717/peerj-cs.26
+   Ferrara E, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0142390
+   Fowler JH, 2008, BMJ-BRIT MED J, V337, DOI 10.1136/bmj.a2338
+   Gonçalves B, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0022656
+   Kramer ADI, 2014, P NATL ACAD SCI USA, V111, P8788, DOI 10.1073/pnas.1320040111
+   Kross E, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0069841
+   Krueger AB, 2014, SCIENCE, V346, P42, DOI 10.1126/science.1256392
+   Lin LY, 2016, DEPRESS ANXIETY, V33, P323, DOI 10.1002/da.22466
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mitchell L, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0064417
+   Oswald AJ, 2010, SCIENCE, V327, P576, DOI 10.1126/science.1180606
+   Perrin A., 2015, SOCIAL MEDIA USAGE
+   Pinker S, 2015, ATLANTIC BOOKS
+   Posel DR, 2011, SOC INDIC RES, V104, P195, DOI 10.1007/s11205-010-9740-2
+   Ribeiro FN, 2016, EPJ DATA SCI, V5, DOI 10.1140/epjds/s13688-016-0085-1
+   Steptoe A, 2013, P NATL ACAD SCI USA, V110, P5797, DOI 10.1073/pnas.1219686110
+   Stiller B, 2010, MEASURING NATL WELL
+   Tromholt M, 2015, FACEBOOK EXPERIMENT
+   Wilson T., 2005, P HLT EMNLP 2005 INT, P34
+NR 27
+TC 41
+Z9 47
+U1 2
+U2 37
+PU SPRINGEROPEN
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON, N1 9XW, ENGLAND
+EI 2193-1127
+J9 EPJ DATA SCI
+JI EPJ Data Sci.
+PD MAY 18
+PY 2017
+VL 6
+AR 4
+DI 10.1140/epjds/s13688-017-0100-1
+PG 10
+WC Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Mathematical Methods In Social Sciences
+GA EW0SJ
+UT WOS:000402201200001
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Migliano, AB
+   Page, AE
+   Gómez-Gardeñes, J
+   Salali, GD
+   Viguier, S
+   Dyble, M
+   Thompson, J
+   Chaudhary, N
+   Smith, D
+   Strods, J
+   Mace, R
+   Thomas, MG
+   Latora, V
+   Vinicius, L
+AF Migliano, A. B.
+   Page, A. E.
+   Gomez-Gardenes, J.
+   Salali, G. D.
+   Viguier, S.
+   Dyble, M.
+   Thompson, J.
+   Chaudhary, Nikhill
+   Smith, D.
+   Strods, J.
+   Mace, R.
+   Thomas, M. G.
+   Latora, V.
+   Vinicius, L.
+TI Characterization of hunter-gatherer networks and implications for
+   cumulative culture
+SO NATURE HUMAN BEHAVIOUR
+LA English
+DT Article
+ID EVOLUTION
+AB Social networks in modern societies are highly structured, usually involving frequent contact with a small number of unrelated 'friends'(1). However, contact network structures in traditional small-scale societies, especially hunter-gatherers, are poorly characterized. We developed a portable wireless sensing technology (motes) to study within-camp proximity networks among Agta and BaYaka hunter-gatherers in fine detail. We show that hunter-gatherer social networks exhibit signs of increased efficiency(2) for potential information exchange. Increased network efficiency is achieved through investment in a few strong links among non-kin 'friends' connecting unrelated families. We show that interactions with non-kin appear in childhood, creating opportunities for collaboration and cultural exchange beyond family at early ages. We also show that strong friendships are more important than family ties in predicting levels of shared knowledge among individuals. We hypothesize that efficient transmission of cumulative culture(3-6) may have shaped human social networks and contributed to our tendency to extend networks beyond kin and form strong non-kin ties.
+C1 [Migliano, A. B.; Page, A. E.; Salali, G. D.; Viguier, S.; Dyble, M.; Thompson, J.; Chaudhary, Nikhill; Smith, D.; Strods, J.; Mace, R.; Vinicius, L.] UCL, Dept Anthropol, London WC1H 0BW, England.
+   [Gomez-Gardenes, J.] Univ Zaragoza, Dept Condensed Matter Phys, E-50009 Zaragoza, Spain.
+   [Gomez-Gardenes, J.] Univ Zaragoza, Inst Biocomputat & Phys Complex Syst, E-50009 Zaragoza, Spain.
+   [Thomas, M. G.] UCL, Dept Genet Evolut & Environm, London WC1E 6BT, England.
+   [Latora, V.] Queen Mary Univ London, Sch Math Sci, London E1 4NS, England.
+C3 University of London; University College London; University of Zaragoza;
+   University of Zaragoza; University of London; University College London;
+   University of London; Queen Mary University London
+RP Migliano, AB (corresponding author), UCL, Dept Anthropol, London WC1H 0BW, England.
+EM a.migliano@ucl.ac.uk
+RI Gomez-Gardenes, Jesus/M-9825-2019; Salali, Deniz/ADE-1863-2022; Davey
+   Smith, George/A-7407-2013; Page, Abigail/AAF-4436-2021; Dyble,
+   Mark/LKK-2083-2024; Gomez-Gardenes, Jesus/B-5818-2009; Thomas,
+   Mark/A-2219-2012
+OI Migliano, Andrea/0000-0003-4364-2735; Latora, Vito/0000-0002-0984-8038;
+   Gomez-Gardenes, Jesus/0000-0001-5204-1937; Dyble,
+   Mark/0000-0001-6861-1631; Page, Abigail/0000-0002-0973-1569; Smith,
+   Daniel/0000-0001-6467-2023; Chaudhary, Nikhil/0000-0001-7528-8529;
+   Thomas, Mark/0000-0002-2452-981X; Salali, Gul Deniz/0000-0001-9538-3064
+FU Leverhulme Trust [RP2011-R-045]; European Research Council [AdG 249347]
+FX We thank J. Lewis and R.K. Schlaepfer for help in the field. We thank
+   R.K. Schlaepfer and RKSmedia for producing the accompanying movies, and
+   R. Foley and J. Bertranpetit for comments. We also thank our assistants
+   in Congo and the Philippines, as well as the Agta and BaYaka
+   communities. This project was funded by the Leverhulme Trust grant
+   RP2011-R-045 to A.B.M., M.G.T. and R.M. R.M. also received funding from
+   European Research Council Advanced Grant AdG 249347. The funders had no
+   role in study design, data collection and analysis, decision to publish,
+   or preparation of the manuscript.
+CR Albert R, 1999, NATURE, V401, P130, DOI 10.1038/43601
+   Apicella CL, 2012, NATURE, V481, P497, DOI 10.1038/nature10736
+   Aplin LM, 2015, NATURE, V518, P538, DOI 10.1038/nature13998
+   Burkart JM, 2009, EVOL ANTHROPOL, V18, P175, DOI 10.1002/evan.20222
+   DAGUM C, 1980, ECON APPL, V33, P327
+   Derex M, 2016, P NATL ACAD SCI USA, V113, P2982, DOI 10.1073/pnas.1518798113
+   Dunbar D, 2010, MANY FRIENDS DOES ON
+   Dyble M, 2015, SCIENCE, V348, P796, DOI 10.1126/science.aaa5139
+   Dyble M, 2016, CURR BIOL, V26, P2017, DOI 10.1016/j.cub.2016.05.064
+   Feldman MW, 1996, TRENDS ECOL EVOL, V11, P453, DOI 10.1016/0169-5347(96)10052-5
+   Fowler JH, 2009, P NATL ACAD SCI USA, V106, P1720, DOI 10.1073/pnas.0806746106
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Gross T, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.208701
+   Henrich J, 2016, SECRET OF OUR SUCCESS: HOW CULTURE IS DRIVING HUMAN EVOLUTION, DOMESTICATING OUR SPECIES, AND MAKING US SMARTER, P1
+   Hill KR, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0102806
+   Hill KR, 2011, SCIENCE, V331, P1286, DOI 10.1126/science.1199071
+   Hruschka Daniel J., 2010, Friendship: Development, ecology, and evolution of a relationship, V5
+   Jaeggi A. V., 2015, EVOL ANTHROPOL, V22, P186
+   Kramer KL, 2011, TRENDS ECOL EVOL, V26, P533, DOI 10.1016/j.tree.2011.06.002
+   Latora V, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.198701
+   Lawler Andrew, 2015, Science, V348, P1072, DOI 10.1126/science.348.6239.1072
+   Lewis HM, 2014, NAT COMMUN, V5, DOI 10.1038/ncomms6789
+   Macfarlan SJ, 2014, P NATL ACAD SCI USA, V111, P16662, DOI 10.1073/pnas.1418639111
+   Meehan CL, 2013, AM J HUM BIOL, V25, P42, DOI 10.1002/ajhb.22336
+   Minter T., 2010, The Agta of the Northern Sierra Madre: Livelihood Strategies and Resilience among Philippine Hunter-Gatherers
+   Page AE, 2016, P NATL ACAD SCI USA, V113, P4694, DOI 10.1073/pnas.1524031113
+   Powell A, 2009, SCIENCE, V324, P1298, DOI 10.1126/science.1170165
+   Rendell L, 2010, SCIENCE, V328, P208, DOI 10.1126/science.1184719
+   Salali GD, 2016, CURR BIOL, V26, P2516, DOI 10.1016/j.cub.2016.07.015
+   Saramäki J, 2014, P NATL ACAD SCI USA, V111, P942, DOI 10.1073/pnas.1308540110
+   Uzzi B, 2005, AM J SOCIOL, V111, P447, DOI 10.1086/432782
+   Warneken F, 2014, COGNITIVE DEV, V31, P48, DOI 10.1016/j.cogdev.2014.02.003
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Whiten A, 2010, DEV PSYCHOL, V46, P1694, DOI 10.1037/a0020786
+   Wohlgemuth J, 2014, COMPLEX SYST, V23, P197, DOI 10.25088/ComplexSystems.23.3.197
+NR 35
+TC 81
+Z9 87
+U1 1
+U2 27
+PU NATURE RESEARCH
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2397-3374
+J9 NAT HUM BEHAV
+JI Nat. Hum. Behav.
+PD FEB
+PY 2017
+VL 1
+IS 2
+AR 0043
+DI 10.1038/s41562-016-0043
+PG 6
+WC Psychology, Biological; Multidisciplinary Sciences; Neurosciences;
+   Psychology, Experimental
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychology; Science & Technology - Other Topics; Neurosciences &
+   Neurology
+GA FR0TR
+UT WOS:000418777100014
+OA Green Accepted, Green Submitted
+DA 2024-11-22
+ER

@@ -1,0 +1,629 @@
+
+PT J
+AU Hasenjager, MJ
+   Hoppitt, W
+   Leadbeater, E
+AF Hasenjager, Matthew J.
+   Hoppitt, William
+   Leadbeater, Ellouise
+TI Network-based diffusion analysis reveals context-specific dominance of
+   dance communication in foraging honeybees
+SO NATURE COMMUNICATIONS
+LA English
+DT Article
+ID WAGGLE DANCE; BEE RECRUITMENT; FOOD SOURCES; INFORMATION; TRANSMISSION;
+   BEHAVIOR; HIVE; HYMENOPTERA; STRATEGIES; OLFACTION
+AB The honeybee (Apis mellifera) dance communication system is a marvel of collective behaviour, but the added value it brings to colony foraging efficiency is poorly understood. In temperate environments, preventing communication of foraging locations rarely decreases colony food intake, potentially because simultaneous transmission of olfactory information also plays a major role in foraging. Here, we employ social network analyses that quantify information flow across multiple temporally varying networks (each representing a different interaction type) to evaluate the relative contributions of dance communication and hive-based olfactory information transfer to honeybee recruitment events. We show that virtually all successful recruits to novel locations rely upon dance information rather than olfactory cues that could otherwise guide them to the same resource. Conversely, during reactivation to known sites, dances are relatively less important, as foragers are primarily guided by olfactory information. By disentangling the contributions of multiple information networks, the contexts in which dance communication truly matters amid a complex system full of redundancy can now be identified.
+   Honeybees have a sophisticated system to communicate foraging locations through a "dance", but they also share food-related olfactory cues. Here, Hasenjager and colleagues use social network analysis to disentangle how foraging information is transmitted through these systems in different contexts.
+C1 [Hasenjager, Matthew J.; Hoppitt, William; Leadbeater, Ellouise] Royal Holloway Univ London, Dept Biol Sci, Egham TW20 0EX, Surrey, England.
+C3 University of London; Royal Holloway University London
+RP Hasenjager, MJ (corresponding author), Royal Holloway Univ London, Dept Biol Sci, Egham TW20 0EX, Surrey, England.
+EM matthew.hasenjager@rhul.ac.uk
+RI Hoppitt, William/T-4582-2018
+OI Leadbeater, Ellouise/0000-0002-4029-7254
+FU European Research Council (ERC) under the European Union [638873]
+FX We would like to thank Miranda Burke for her assistance in carrying out
+   the experimental work. This research has received funding from the
+   European Research Council (ERC) under the European Union's Horizon 2020
+   research and innovation programme (grant number 638873).
+CR Al Toufailia H, 2013, ETHOLOGY, V119, P1096, DOI 10.1111/eth.12170
+   Allen J, 2013, SCIENCE, V340, P485, DOI 10.1126/science.1231976
+   Aplin LM, 2015, NATURE, V518, P538, DOI 10.1038/nature13998
+   Atton N, 2012, P ROY SOC B-BIOL SCI, V279, P4272, DOI 10.1098/rspb.2012.1462
+   Balbuena MS, 2012, BEHAV ECOL SOCIOBIOL, V66, P445, DOI 10.1007/s00265-011-1290-3
+   Beekman M, 2008, BEHAV ECOL SOCIOBIOL, V62, P1259, DOI 10.1007/s00265-008-0554-z
+   Beekman M, 2008, BEHAV ECOL, V19, P255, DOI 10.1093/beheco/arm117
+   Beekman M, 2007, BEHAV ECOL SOCIOBIOL, V61, P985, DOI 10.1007/s00265-006-0331-9
+   Biesmeijer J, 2005, BEHAV ECOL SOCIOBIOL, V59, P133, DOI 10.1007/s00265-005-0019-6
+   Burnham K. P., 2013, MODEL SELECTION MULT
+   Cholé H, 2019, CURR BIOL, V29, P1407, DOI 10.1016/j.cub.2019.03.025
+   Couvillon MJ, 2012, INSECT SOC, V59, P297, DOI 10.1007/s00040-012-0224-z
+   Couvillon MJ, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0093495
+   De Marco RJ, 2001, BEHAV ECOL SOCIOBIOL, V50, P441, DOI 10.1007/s002650100382
+   Díaz PC, 2007, BEHAV ECOL SOCIOBIOL, V61, P1589, DOI 10.1007/s00265-007-0391-5
+   Donaldson-Matasci MC, 2012, BEHAV ECOL SOCIOBIOL, V66, P583, DOI 10.1007/s00265-011-1306-z
+   Dornhaus A, 2004, BEHAV ECOL SOCIOBIOL, V55, P395, DOI 10.1007/s00265-003-0726-9
+   Dornhaus A, 2002, ENTOMOL GEN, V26, P93
+   ESCH H, 1970, Z VERGL PHYSIOL, V68, P175, DOI 10.1007/BF00297693
+   Farina WM, 2005, P ROY SOC B-BIOL SCI, V272, P1923, DOI 10.1098/rspb.2005.3172
+   Farina WM, 1996, BEHAV ECOL SOCIOBIOL, V38, P59, DOI 10.1007/s002650050217
+   Farine DR, 2015, P ROY SOC B-BIOL SCI, V282, DOI 10.1098/rspb.2014.2804
+   Fernández PC, 2003, BEHAV ECOL SOCIOBIOL, V54, P80, DOI 10.1007/s00265-003-0607-2
+   Franz M, 2009, P R SOC B, V276, P1829, DOI 10.1098/rspb.2008.1824
+   Garbuzov M, 2014, INSECT CONSERV DIVER, V7, P91, DOI 10.1111/icad.12033
+   Gernat T, 2018, P NATL ACAD SCI USA, V115, P1433, DOI 10.1073/pnas.1713568115
+   Gil M, 2005, J EXP BIOL, V208, P671, DOI 10.1242/jeb.01474
+   Gil M, 2002, NATURWISSENSCHAFTEN, V89, P322, DOI 10.1007/s00114-002-0323-1
+   GOULD JL, 1975, SCIENCE, V189, P685, DOI 10.1126/science.1154023
+   Grüter C, 2008, P R SOC B, V275, P1321, DOI 10.1098/rspb.2008.0186
+   Grüter C, 2013, ANIM BEHAV, V85, P1443, DOI 10.1016/j.anbehav.2013.03.041
+   Grüter C, 2009, TRENDS ECOL EVOL, V24, P242, DOI 10.1016/j.tree.2008.12.007
+   Grüter C, 2006, BEHAV ECOL SOCIOBIOL, V60, P707, DOI 10.1007/s00265-006-0214-0
+   Hasenjager MJ, 2017, P ROY SOC B-BIOL SCI, V284, DOI 10.1098/rspb.2017.2020
+   Hebets EA, 2016, P ROY SOC B-BIOL SCI, V283, DOI 10.1098/rspb.2015.2889
+   Hobaiter C, 2014, PLOS BIOL, V12, DOI 10.1371/journal.pbio.1001960
+   Hoppitt W., 2019, R package v.0.8.3, V10
+   Hoppitt W. J. E., 2013, Social Learning: An Introduction to Mechanisms, Methods, and Models
+   Hoppitt W, 2017, PHILOS T R SOC B, V372, DOI 10.1098/rstb.2016.0418
+   Hoppitt W, 2010, J THEOR BIOL, V263, P544, DOI 10.1016/j.jtbi.2010.01.004
+   JOHNSON DL, 1967, ANIM BEHAV, V15, P487, DOI 10.1016/0003-3472(67)90048-6
+   Kirchner WH, 1998, J INSECT BEHAV, V11, P169, DOI 10.1023/A:1021098405564
+   Kreutz C, 2013, FEBS J, V280, P2564, DOI 10.1111/febs.12276
+   LINDAUER M, 1955, Z VERGL PHYSIOL, V37, P263, DOI 10.1007/BF00303153
+   Mason PH, 2015, BIOSYSTEMS, V128, P1, DOI 10.1016/j.biosystems.2014.12.003
+   Menzel R, 1999, J COMP PHYSIOL A, V185, P323, DOI 10.1007/s003590050392
+   Menzel R, 2013, J COMP PHYSIOL A, V199, P867, DOI 10.1007/s00359-013-0850-6
+   Mersch DP, 2013, SCIENCE, V340, P1090, DOI 10.1126/science.1234316
+   Morgan BJT, 2009, CH CRC TEXT STAT SCI, P1
+   Munz T, 2005, J HIST BIOL, V38, P535, DOI 10.1007/s10739-005-0552-1
+   NIXON HL, 1952, PROC R SOC SER B-BIO, V140, P43, DOI 10.1098/rspb.1952.0042
+   Nürnberger F, 2017, PEERJ, V5, DOI 10.7717/peerj.3441
+   NUNEZ J A, 1970, Animal Behaviour, V18, P527, DOI 10.1016/0003-3472(70)90049-7
+   Pinter-Wollman N, 2011, J R SOC INTERFACE, V8, P1562, DOI 10.1098/rsif.2011.0059
+   Price RI, 2019, SCI ADV, V5, DOI 10.1126/sciadv.aat0450
+   Reinhard J, 2004, NATURE, V427, P411, DOI 10.1038/427411a
+   Riley JR, 2005, NATURE, V435, P205, DOI 10.1038/nature03526
+   Schürch R, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0104660
+   Seeley T. D., 2010, HONEYBEE DEMOCRACY
+   Seeley TD, 1995, WISDOM HIVE SOCIAL P
+   Sherman G, 2002, NATURE, V419, P920, DOI 10.1038/nature01127
+   Tanner D, 2009, APIDOLOGIE, V40, P55, DOI 10.1051/apido:2008074
+   Tautz J, 2003, J COMP PHYSIOL A, V189, P293, DOI 10.1007/s00359-003-0402-6
+   Thom C, 2007, PLOS BIOL, V5, P1862, DOI 10.1371/journal.pbio.0050228
+   von Frisch K., 1967, DANCE LANGUAGE ORIEN
+   Wario F, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0188626
+   Wenner A.M., 1990, ANATOMY CONTROVERSY
+   WENNER AM, 1969, SCIENCE, V164, P84, DOI 10.1126/science.164.3875.84
+   Whitacre JM, 2010, THEOR BIOL MED MODEL, V7, DOI 10.1186/1742-4682-7-6
+NR 69
+TC 14
+Z9 16
+U1 2
+U2 31
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 2041-1723
+J9 NAT COMMUN
+JI Nat. Commun.
+PD JAN 31
+PY 2020
+VL 11
+IS 1
+AR 625
+DI 10.1038/s41467-020-14410-0
+PG 9
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA KL2FU
+UT WOS:000513245600008
+PM 32005817
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Singh, A
+   Kaur, M
+AF Singh, Amanpreet
+   Kaur, Maninder
+TI Detection Framework for Content-Based Cybercrime in Online Social
+   Networks Using Metaheuristic Approach
+SO ARABIAN JOURNAL FOR SCIENCE AND ENGINEERING
+LA English
+DT Article
+DE Machine learning algorithms; Cuckoo search algorithm; Cybercrime;
+   Cyberbullying; Online social networks
+ID CYBERBULLYING DETECTION
+AB In recent years, content-based cybercrime detection has become a topic of attraction among researchers. Cybercrime has emerged as a money-driven industry with malicious intent towards online social networks. Cyber-criminals aim to manipulate vulnerable areas in cyberspace by playing on human understanding and making a profit. They threaten minors, especially adolescents, who are not adequately overseen while online. To address this issue, there is an urgent need for a robust content-based cybercrime detection framework. The aim of this research work is to explore possible combinations of various preprocessing, feature selection and classification methodologies using the cuckoo search metaheuristic approach. This approach seeks to improve the performance of content-based cybercrime detection system. For the purpose of this research, four publicly available datasets for cyberbullying detection have been utilized for evaluating the effectiveness of the proposed algorithm. The algorithm was then further compared with three recent cyberbullying detection models based on various evaluation parameters. These parameters included precision, recall and f-measure. The experimental results demonstrate the effectiveness of the proposed approach. This approach outperformed other recent techniques on all the datasets, giving high predictive recall value via tenfold cross-validation.
+C1 [Singh, Amanpreet; Kaur, Maninder] Thapar Inst Engn & Technol, Dept Comp Sci & Engn, Patiala, Punjab, India.
+C3 Thapar Institute of Engineering & Technology
+RP Kaur, M (corresponding author), Thapar Inst Engn & Technol, Dept Comp Sci & Engn, Patiala, Punjab, India.
+EM manindersohal@thapar.edu
+RI Kaur, Maninder/IXD-4944-2023
+OI Kaur, Maninder/0000-0003-3955-7562
+CR Agrawal S, 2018, LECT NOTES COMPUT SC, V10772, P141, DOI 10.1007/978-3-319-76941-7_11
+   Al-garadr MA, 2016, COMPUT HUM BEHAV, V63, P433, DOI 10.1016/j.chb.2016.05.051
+   [Anonymous], 3 ANN ACM WEB SCI C
+   [Anonymous], 2016, P ACM INT C AUTOMATI, DOI DOI 10.1145/2833312.2849567
+   Balakrishnan V, 2019, PERS INDIV DIFFER, V141, P252, DOI 10.1016/j.paid.2019.01.024
+   Ben-Hur A, 2010, METHODS MOL BIOL, V609, P223, DOI 10.1007/978-1-60327-241-4_13
+   Catrysse J, 2015, IEEE INT SYMP ELEC, P13, DOI 10.1109/ISEMC.2015.7256124
+   Chen H, 2017, ADV INTELL SYST COMP, V513, P187, DOI 10.1007/978-3-319-46562-3_12
+   Chen JN, 2009, EXPERT SYST APPL, V36, P5432, DOI 10.1016/j.eswa.2008.06.054
+   Cooke M, 2008, INT J MARKET RES, V50, P267, DOI 10.1177/147078530805000208
+   Dadvar Maral, 2013, Advances in Information Retrieval. 35th European Conference on IR Research, ECIR 2013. Proceedings, P693, DOI 10.1007/978-3-642-36973-5_62
+   Dadvar Maral, 2018, ARXIV181208046
+   Dani H, 2017, LECT NOTES ARTIF INT, V10534, P52, DOI 10.1007/978-3-319-71249-9_4
+   Dinakar K, 2012, ACM T INTERACT INTEL, V2, DOI 10.1145/2362394.2362400
+   Galán-García P, 2016, LOG J IGPL, V24, P42, DOI 10.1093/jigpal/jzv048
+   Gill SS, 2019, J SYST SOFTWARE, V155, P104, DOI 10.1016/j.jss.2019.05.025
+   Heidemann J, 2012, COMPUT NETW, V56, P3866, DOI 10.1016/j.comnet.2012.08.009
+   Hinduja S, 2010, ARCH SUICIDE RES, V14, P206, DOI 10.1080/13811118.2010.494133
+   Huang JL, 2015, INFORM SOFTWARE TECH, V67, P108, DOI 10.1016/j.infsof.2015.07.004
+   Ibn Rafiq R, 2018, 33RD ANNUAL ACM SYMPOSIUM ON APPLIED COMPUTING, P1738, DOI 10.1145/3167132.3167317
+   Ibn Rafiq R, 2015, PROCEEDINGS OF THE 2015 IEEE/ACM INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING (ASONAM 2015), P617, DOI 10.1145/2808797.2809381
+   Joachims T, 2015, WSDM'15: PROCEEDINGS OF THE EIGHTH ACM INTERNATIONAL CONFERENCE ON WEB SEARCH AND DATA MINING, P137, DOI 10.1145/2684822.2685327
+   Mangaonkar A, 2015, INT CONF ELECTRO INF, P611, DOI 10.1109/EIT.2015.7293405
+   Nahar Vinita, 2012, Web Technologies and Applications. Proceedings of the 14th Asia-Pacific Web Conference, APWeb 2012, P767, DOI 10.1007/978-3-642-29253-8_75
+   Nahar V, 2013, 11 AUSTR DAT MIN C A
+   Nahar V, 2014, LECT NOTES COMPUT SC, V8506, P160
+   Raisi Elaheh, 2017, 2017 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), P409, DOI 10.1145/3110025.3110049
+   Reynolds K., 2011, Proceedings of the 2011 Tenth International Conference on Machine Learning and Applications (ICMLA 2011), P241, DOI 10.1109/ICMLA.2011.152
+   Shih Y.E., 2007, International Review of Research in Open and Distance Learning, V8, P1, DOI [10.19173/irrodl.v8i2.361, DOI 10.19173/IRR0DL.V8I2.361]
+   Singh V.K., 2017, P 2017 CHI C HUM FAC, P2090
+   Singh VK, 2016, PROCEEDINGS OF THE 2016 IEEE/ACM INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING ASONAM 2016, P884, DOI 10.1109/ASONAM.2016.7752342
+   Sourander A, 2010, ARCH GEN PSYCHIAT, V67, P720, DOI 10.1001/archgenpsychiatry.2010.79
+   Sticca F, 2013, J YOUTH ADOLESCENCE, V42, P739, DOI 10.1007/s10964-012-9867-3
+   Van Hee C, 2018, PLOS ONE, V13, DOI 10.1371/journal.pone.0203794
+   Wall D., 2004, Crim Justice Matters, V58, P20, DOI DOI 10.1080/09627250408553239
+   WILLIAMSON DF, 1989, ANN INTERN MED, V110, P916, DOI 10.7326/0003-4819-110-11-916
+   Yang XS, 2009, WOR CONG NAT BIOL, P210, DOI 10.1109/nabic.2009.5393690
+   Yang XS, 2014, NEURAL COMPUT APPL, V24, P169, DOI 10.1007/s00521-013-1367-1
+   Yin D., 2009, P CONTENT ANAL WEB, P1
+   Zhao R, 2017, IEEE T AFFECT COMPUT, V8, P328, DOI 10.1109/TAFFC.2016.2531682
+NR 40
+TC 8
+Z9 8
+U1 1
+U2 14
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 2193-567X
+EI 2191-4281
+J9 ARAB J SCI ENG
+JI Arab. J. Sci. Eng.
+PD APR
+PY 2020
+VL 45
+IS 4
+BP 2705
+EP 2719
+DI 10.1007/s13369-019-04125-w
+PG 15
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA LB2DM
+UT WOS:000524444000024
+DA 2024-11-22
+ER
+
+PT J
+AU Dunbar, RIM
+AF Dunbar, R. I. M.
+TI Structure and function in human and primate social networks:
+   implications for diffusion, network stability and health
+SO PROCEEDINGS OF THE ROYAL SOCIETY A-MATHEMATICAL PHYSICAL AND ENGINEERING
+   SCIENCES
+LA English
+DT Review
+DE fractal network structure; time constraint; trust; network
+   fragmentation; morbidity; mortality
+ID GROUP-SIZE; INDIVIDUAL-DIFFERENCES; BEHAVIORAL SYNCHRONY; SEXUAL
+   SEGREGATION; INFECTIOUS-DISEASE; PREFRONTAL VOLUME; SMALL-WORLD; BRAIN;
+   EVOLUTION; BONDS
+AB The human social world is orders of magnitude smaller than our highly urbanized world might lead us to suppose. In addition, human social networks have a very distinct fractal structure similar to that observed in other primates. In part, this reflects a cognitive constraint, and in part a time constraint, on the capacity for interaction. Structured networks of this kind have a significant effect on the rates of transmission of both disease and information. Because the cognitive mechanism underpinning network structure is based on trust, internal and external threats that undermine trust or constrain interaction inevitably result in the fragmentation and restructuring of networks. In contexts where network sizes are smaller, this is likely to have significant impacts on psychological and physical health risks.
+C1 [Dunbar, R. I. M.] Univ Oxford, Dept Expt Psychol, Radcliffe Observ Quarter, New Radcliffe Bldg, Oxford OX1 6GG, England.
+C3 University of Oxford
+RP Dunbar, RIM (corresponding author), Univ Oxford, Dept Expt Psychol, Radcliffe Observ Quarter, New Radcliffe Bldg, Oxford OX1 6GG, England.
+EM robin.dunbar@psy.ox.ac.uk
+OI dunbar, robin/0000-0002-9982-9702
+FU UK EPSRC/ESRC TESS research grant; British Academy Centenary Research
+   Project; ERC RELNET Advanced research fellowship; EU FP7 Socialnets
+   grant; EU Horizon 2020 IBSEN research grant
+FX Most of the research reported here was funded by the UK EPSRC/ESRC TESS
+   research grant, British Academy Centenary Research Project (Lucy to
+   Language), the ERC RELNET Advanced research fellowship, the EU FP7
+   Socialnets grant and the EU Horizon 2020 IBSEN research grant.
+CR Acharjee S, 2020, SYMMETRY-BASEL, V12, DOI 10.3390/sym12060932
+   ANDERSON R M, 1991
+   [Anonymous], 1995, ARCHAEOLOGY HUMAN AN
+   Arnaboldi Valerio, 2017, Online Social Networks and Media, V1, P44, DOI 10.1016/j.osnem.2017.04.001
+   Arnaboldi V, 2014, ADV NETWORK SCI, P82
+   ARON A, 1992, J PERS SOC PSYCHOL, V63, P596, DOI 10.1037/0022-3514.63.4.596
+   Barrio RA, 2015, J R SOC INTERFACE, V12, DOI 10.1098/rsif.2015.0798
+   Baym NK, 2004, NEW MEDIA SOC, V6, P299, DOI 10.1177/1461444804041438
+   Becher A, 1989, ACAD TRIBES TERRITOR
+   Benoit S, 2017, REV FINANC, V21, P109, DOI 10.1093/rof/rfw026
+   Berry JW, 2019, STAT ANAL DATA MIN, V12, P449, DOI 10.1002/sam.11420
+   Bhattacharya K, 2017, EPJ DATA SCI, V6, DOI 10.1140/epjds/s13688-016-0097-x
+   Bhattacharya K, 2016, ROY SOC OPEN SCI, V3, DOI 10.1098/rsos.160097
+   Bickart KC, 2012, J NEUROSCI, V32, P14729, DOI 10.1523/JNEUROSCI.1599-12.2012
+   Bickart KC, 2011, NAT NEUROSCI, V14, P163, DOI 10.1038/nn.2724
+   Boyd R., 1985, Culture and the Evolutionary Process
+   Brent LJN, 2017, P ROY SOC B-BIOL SCI, V284, DOI 10.1098/rspb.2017.0515
+   Bryant F.C., 1981, We're all kin: A cultural study of a mountain neighborhood
+   Burt RS, 2000, SOC NETWORKS, V22, P1, DOI 10.1016/S0378-8733(99)00015-5
+   Burton-Chellew MN, 2015, BEHAV ECOL, V26, P130, DOI 10.1093/beheco/aru165
+   Bzdok D, 2020, TRENDS COGN SCI, V24, P717, DOI 10.1016/j.tics.2020.05.016
+   Caballero RJ, 2013, J FINANC, V68, P2549, DOI 10.1111/jofi.12087
+   Calhim S, 2006, ANIM BEHAV, V72, P31, DOI 10.1016/j.anbehav.2005.08.013
+   Casari M, 2018, P NATL ACAD SCI USA, V115, P2728, DOI 10.1073/pnas.1713496115
+   Centellegher S, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0173110
+   Cheney DL, 2016, ROY SOC OPEN SCI, V3, DOI 10.1098/rsos.160255
+   Clayton JB, 2018, AM J PRIMATOL, V80, DOI 10.1002/ajp.22867
+   Cohen EEA, 2010, BIOL LETTERS, V6, P106, DOI 10.1098/rsbl.2009.0670
+   Cowlishaw G., 2000, Primate conservation biology
+   Cummings J.N., 2006, COMPUTERS PHONES INT, P265
+   Curry O, 2013, HUM NATURE-INT BIOS, V24, P336, DOI 10.1007/s12110-013-9174-z
+   Curry O, 2013, BRIT J PSYCHOL, V104, P283, DOI 10.1111/j.2044-8295.2012.02119.x
+   Cutillo LA, 2009, IEEE COMMUN MAG, V47, P94, DOI 10.1109/MCOM.2009.5350374
+   Danon L, 2013, P ROY SOC B-BIOL SCI, V280, DOI 10.1098/rspb.2013.1037
+   David-Barrett T, 2017, J THEOR BIOL, V417, P20, DOI 10.1016/j.jtbi.2017.01.015
+   David-Barrett T, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0118329
+   Dávid-Barrett T, 2014, BEHAV ECOL, V25, P58, DOI 10.1093/beheco/art085
+   Dávid-Barrett T, 2012, J THEOR BIOL, V308, P88, DOI 10.1016/j.jtbi.2012.05.007
+   Depue RA, 2005, BEHAV BRAIN SCI, V28, P313
+   Devaine M, 2017, PLOS COMPUT BIOL, V13, DOI 10.1371/journal.pcbi.1005833
+   Dunbar R., 2014, Journal of Evolutionary Psychology, V12, P109, DOI [DOI 10.1556/JEP-D-13-00024, 10.1556/JEP-D-13-00024]
+   Dunbar RIM, 2020, BIOL J LINN SOC, V129, P1, DOI 10.1093/biolinnean/blz172
+   Dunbar RIM, 2019, J ZOOL, V308, P9, DOI 10.1111/jzo.12644
+   Dunbar RIM, 2018, BIOL LETTERS, V14, DOI 10.1098/rsbl.2017.0700
+   Dunbar RIM, 2018, ANIM BEHAV, V136, P53, DOI 10.1016/j.anbehav.2017.12.005
+   Dunbar RIM, 2018, BIOL LETTERS, V14, DOI 10.1098/rsbl.2017.0490
+   Dunbar RIM, 2018, TRENDS COGN SCI, V22, P32, DOI 10.1016/j.tics.2017.10.004
+   Dunbar RIM, 2017, ADAPT HUM BEHAV PHYS, V3, P198, DOI 10.1007/s40750-017-0061-4
+   Dunbar RIM, 2017, ADAPT HUM BEHAV PHYS, V3, P118, DOI 10.1007/s40750-016-0058-4
+   Dunbar RIM, 2017, PHILOS T R SOC B, V372, DOI 10.1098/rstb.2016.0244
+   Dunbar RIM, 2016, ROY SOC OPEN SCI, V3, DOI 10.1098/rsos.160288
+   Dunbar RIM, 2016, ROY SOC OPEN SCI, V3, DOI 10.1098/rsos.150292
+   Dunbar RIM, 2015, SOC NETWORKS, V43, P39, DOI 10.1016/j.socnet.2015.04.005
+   Dunbar RIM, 2011, J I ECON, V7, P345, DOI 10.1017/S1744137410000366
+   Dunbar RIM, 2009, BIOL REV, V84, P413, DOI 10.1111/j.1469-185X.2009.00080.x
+   Dunbar RIM, 2010, NEUROSCI BIOBEHAV R, V34, P260, DOI 10.1016/j.neubiorev.2008.07.001
+   DUNBAR RIM, 1992, BEHAV ECOL SOCIOBIOL, V31, P35, DOI 10.1007/BF00167814
+   DUNBAR RIM, 1993, BEHAV BRAIN SCI, V16, P681, DOI 10.1017/S0140525X00032325
+   DUNBAR RIM, 1995, HUM NATURE-INT BIOS, V6, P273, DOI 10.1007/BF02734142
+   Dunbar RIM, 1998, EVOL ANTHROPOL, V6, P178, DOI 10.1002/(SICI)1520-6505(1998)6:5<178::AID-EVAN5>3.3.CO;2-P
+   Dunbar RIM, 2008, ETHOLOGY, V114, P444, DOI 10.1111/j.1439-0310.2008.01478.x
+   Dunbar RIM, 2010, BEHAVIOUR, V147, P775, DOI 10.1163/000579510X501151
+   Fincher CL, 2008, P ROY SOC B-BIOL SCI, V275, P2587, DOI 10.1098/rspb.2008.0688
+   Fincher CL, 2008, P ROY SOC B-BIOL SCI, V275, P1279, DOI 10.1098/rspb.2008.0094
+   Fuchs B, 2014, SCI REP-UK, V4, DOI 10.1038/srep06526
+   Gai P, 2010, P ROY SOC A-MATH PHY, V466, P2401, DOI 10.1098/rspa.2009.0410
+   Glasserman P, 2016, J ECON LIT, V54, P779, DOI 10.1257/jel.20151228
+   Gonçalves B, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0022656
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Grove M, 2010, J ARCHAEOL SCI, V37, P2612, DOI 10.1016/j.jas.2010.05.021
+   Gursul D, 2018, CURR BIOL, V28, pR1380, DOI 10.1016/j.cub.2018.11.014
+   Haerter JO, 2012, PHYS REV LETT, V109, DOI 10.1103/PhysRevLett.109.168701
+   Hamilton MJ, 2007, P ROY SOC B-BIOL SCI, V274, P2195, DOI 10.1098/rspb.2007.0564
+   Hampton WH, 2016, SOC COGN AFFECT NEUR, V11, P721, DOI 10.1093/scan/nsv153
+   Heider F, 1958, PSYCHOL INTERKPERSON
+   Hill D., 1981, ATLAS ANGLOSAXON ENG
+   Hill RA, 2003, HUM NATURE-INT BIOS, V14, P53, DOI 10.1007/s12110-003-1016-y
+   Hill RA, 2019, DUNBARS NUMBER, P21
+   Hill RA, 2008, BIOL LETTERS, V4, P748, DOI 10.1098/rsbl.2008.0393
+   Holt-Lunstad J, 2010, PLOS MED, V7, DOI 10.1371/journal.pmed.1000316
+   House T, 2009, EPIDEMIOL INFECT, V137, P654, DOI 10.1017/S0950268808001416
+   HURD JP, 1985, ETHOL SOCIOBIOL, V6, P49, DOI 10.1016/0162-3095(85)90040-8
+   Inagaki TK, 2013, PSYCHOL SCI, V24, P2272, DOI 10.1177/0956797613492773
+   Iñiguez G, 2014, P ROY SOC B-BIOL SCI, V281, DOI 10.1098/rspb.2014.1195
+   Jenkins R, 2018, P ROY SOC B-BIOL SCI, V285, DOI 10.1098/rspb.2018.1319
+   Johnson GA., 1982, Theory and explanation in archaeology, P389
+   Kanai R, 2012, P ROY SOC B-BIOL SCI, V279, P1327, DOI 10.1098/rspb.2011.1959
+   Keeling MJ, 1999, P ROY SOC B-BIOL SCI, V266, P859, DOI 10.1098/rspb.1999.0716
+   KEVERNE EB, 1989, PSYCHONEUROENDOCRINO, V14, P155, DOI 10.1016/0306-4530(89)90065-6
+   Kiesow H, 2020, SCI ADV, V6, DOI 10.1126/sciadv.aaz1170
+   KILLWORTH PD, 1984, CURR ANTHROPOL, V25, P381, DOI 10.1086/203158
+   Kingma SA, 2014, TRENDS ECOL EVOL, V29, P476, DOI 10.1016/j.tree.2014.05.013
+   Kleinberg JM, 2000, NATURE, V406, P845, DOI 10.1038/35022643
+   Klimek P, 2013, NEW J PHYS, V15, DOI 10.1088/1367-2630/15/6/063008
+   Kordsmeyer T, 2017, CURR ANTHROPOL, V58, P289, DOI 10.1086/690731
+   Kudo H, 2001, ANIM BEHAV, V62, P711, DOI 10.1006/anbe.2001.1808
+   Kwak S, 2018, P ROY SOC B-BIOL SCI, V285, DOI 10.1098/rspb.2017.2708
+   Laakasuo M, 2020, FRONT PSYCHOL, V11, DOI 10.3389/fpsyg.2020.00710
+   Laniado D, 2016, EPJ DATA SCI, V5, DOI 10.1140/epjds/s13688-016-0080-6
+   Laslett Peter., 1971, WORLD WE HAVE LOST, Vsecond
+   Launay J, 2016, PLOS ONE, V10, pe0129688
+   Lebreton M, 2009, EUR J NEUROSCI, V29, P2247, DOI 10.1111/j.1460-9568.2009.06782.x
+   Lehman Julia., 2014, Lucy to Language: The Benchmark Papers, P245, DOI DOI 10.1093/ACPROF:OSOBL/9780199652594.003.0011
+   Lehmann J, 2007, ANIM BEHAV, V74, P1617, DOI 10.1016/j.anbehav.2006.10.025
+   Lewis PA, 2017, SOC COGN AFFECT NEUR, V12, P1063, DOI 10.1093/scan/nsx034
+   Lewis PA, 2011, NEUROIMAGE, V57, P1624, DOI 10.1016/j.neuroimage.2011.05.030
+   Loseth GE, 2014, FRONT BEHAV NEUROSCI, V8, DOI 10.3389/fnbeh.2014.00430
+   Lu Y-E, 2009, P 18 ACM C INF KNOWL
+   Lu Y-E, 2009, P IEEE INT C SOC COM
+   Mac Carron P, 2016, SOC NETWORKS, V47, P151, DOI 10.1016/j.socnet.2016.06.003
+   MacDonald CB, 1955, ENCYCL BRITANNICA, P143
+   Machin AJ, 2011, BEHAVIOUR, V148, P985, DOI 10.1163/000579511X596624
+   Mange A, 1980, GENETICS HUMAN ASPEC
+   Manninen S, 2017, J NEUROSCI, V37, P6125, DOI 10.1523/JNEUROSCI.0688-16.2017
+   Mars RB, 2016, BRAIN STRUCT FUNCT, V221, P4059, DOI 10.1007/s00429-015-1146-0
+   Massen JJM, 2010, BEHAVIOUR, V147, P1379, DOI 10.1163/000579510X528224
+   Masuda N, 2019, SCI REP, V28, P1
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Meguerditchian A, EVOL HUM BEHAV
+   Miritello G, 2013, SCI REP-UK, V3, DOI 10.1038/srep01950
+   Münger E, 2018, FRONT INTEGR NEUROSC, V12, DOI 10.3389/fnint.2018.00021
+   Noonan MP, 2018, BEHAV BRAIN RES, V355, P12, DOI 10.1016/j.bbr.2018.02.019
+   Nummenmaa L, 2018, NAT COMMUN, V9, DOI 10.1038/s41467-018-03848-y
+   Nummenmaa L, 2016, NEUROIMAGE, V138, P242, DOI 10.1016/j.neuroimage.2016.05.063
+   Olausson H, 2010, NEUROSCI BIOBEHAV R, V34, P185, DOI 10.1016/j.neubiorev.2008.09.011
+   Passingham RE., 2012, NEUROBIOLOGY PREFRON
+   Pearce E, 2015, ROY SOC OPEN SCI, V2, DOI 10.1098/rsos.150221
+   Pellis L, 2009, J R SOC INTERFACE, V6, P979, DOI 10.1098/rsif.2008.0493
+   Pollet TV, 2011, J INDIVID DIFFER, V32, P161, DOI 10.1027/1614-0001/a000048
+   Powell J, 2012, P ROY SOC B-BIOL SCI, V279, P2157, DOI 10.1098/rspb.2011.2574
+   Powell JL, 2014, CORTEX, V54, P63, DOI 10.1016/j.cortex.2014.02.010
+   Powell JL, 2010, NEUROPSYCHOLOGIA, V48, P3554, DOI 10.1016/j.neuropsychologia.2010.08.004
+   Read JM, 2008, J R SOC INTERFACE, V5, P1001, DOI 10.1098/rsif.2008.0013
+   Read JM, 2014, P ROY SOC B-BIOL SCI, V281, DOI 10.1098/rspb.2014.0268
+   Roberts SBG, 2015, HUM NATURE-INT BIOS, V26, P426, DOI 10.1007/s12110-015-9242-7
+   Roberts SGB, 2008, PERS INDIV DIFFER, V44, P954, DOI 10.1016/j.paid.2007.10.033
+   Roberts SGB, 2009, SOC NETWORKS, V31, P138, DOI 10.1016/j.socnet.2008.12.002
+   Roberts SGB, 2011, EVOL HUM BEHAV, V32, P186, DOI 10.1016/j.evolhumbehav.2010.08.005
+   Roberts SGB, 2011, PERS RELATIONSHIP, V18, P439, DOI 10.1111/j.1475-6811.2010.01310.x
+   Sallet J, 2011, SCIENCE, V334, P697, DOI 10.1126/science.1210027
+   Sandeford DS, 2018, ROY SOC OPEN SCI, V5, DOI 10.1098/rsos.171137
+   Saramäki J, 2014, P NATL ACAD SCI USA, V111, P942, DOI 10.1073/pnas.1308540110
+   Sarkar A, BIOL REV
+   Shultz S, 2007, P ROY SOC B-BIOL SCI, V274, P2429, DOI 10.1098/rspb.2007.0693
+   Shultz S, 2011, NATURE, V479, P219, DOI 10.1038/nature10601
+   Silk JB, 2003, SCIENCE, V302, P1231, DOI 10.1126/science.1088580
+   Silk JB, 2010, CURR BIOL, V20, P1359, DOI 10.1016/j.cub.2010.05.067
+   Silk JB, 2009, P ROY SOC B-BIOL SCI, V276, P3099, DOI 10.1098/rspb.2009.0681
+   Sorniotti A, 2010, COMPUT SECUR, V29, P619, DOI 10.1016/j.cose.2009.11.004
+   Spagna A, 2018, J COMP NEUROL, V526, P1183, DOI 10.1002/cne.24402
+   Spence JC., 1954, 1000 FAMILIES NEWCAS
+   Stiller J, 2007, SOC NETWORKS, V29, P93, DOI 10.1016/j.socnet.2006.04.001
+   Sutcliffe AG, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0158605
+   Sutcliffe A, 2012, BRIT J PSYCHOL, V103, P149, DOI 10.1111/j.2044-8295.2011.02061.x
+   Sutcliffe AG, 2018, COMPUT HUM BEHAV, V85, P227, DOI 10.1016/j.chb.2018.03.050
+   Sutcliffe AG, 2015, ACM T INTERNET TECHN, V15, DOI 10.1145/2815620
+   Suvilehto JT, 2019, P ROY SOC B-BIOL SCI, V286, DOI 10.1098/rspb.2019.0467
+   Suvilehto JT, 2015, P NATL ACAD SCI USA, V112, P13811, DOI 10.1073/pnas.1519231112
+   Tamarit I, 2018, P NATL ACAD SCI USA, V115, P8316, DOI 10.1073/pnas.1719233115
+   Tarr B, 2017, ADAPT HUM BEHAV PHYS, V3, P241, DOI 10.1007/s40750-017-0067-y
+   Tarr B, 2016, EVOL HUM BEHAV, V37, P343, DOI 10.1016/j.evolhumbehav.2016.02.004
+   Van Overwalle F, 2009, HUM BRAIN MAPP, V30, P829, DOI 10.1002/hbm.20547
+   Wang P, 2020, EPJ DATA SCI, V9, DOI 10.1140/epjds/s13688-020-00230-1
+   Wasdell D, 1974, 1 URB CHURCH PROJ
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Webber E, 2020, PLOS ONE, V15, DOI 10.1371/journal.pone.0232204
+   Wittig RM, 2016, NAT COMMUN, V7, DOI 10.1038/ncomms13361
+   Young C, 2014, P NATL ACAD SCI USA, V111, P18195, DOI 10.1073/pnas.1411450111
+   Zhou WX, 2005, P ROY SOC B-BIOL SCI, V272, P439, DOI 10.1098/rspb.2004.2970
+NR 169
+TC 52
+Z9 56
+U1 1
+U2 20
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 1364-5021
+EI 1471-2946
+J9 P ROY SOC A-MATH PHY
+JI Proc. R. Soc. A-Math. Phys. Eng. Sci.
+PD AUG 26
+PY 2020
+VL 476
+IS 2240
+AR 20200446
+DI 10.1098/rspa.2020.0446
+PG 26
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA NK1PM
+UT WOS:000566511200001
+PM 32922160
+OA hybrid, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Chu, HR
+   Yang, JZ
+AF Chu, Haoran
+   Yang, Janet Z.
+TI Building disaster resilience using social messaging networks: the WeChat
+   community in Houston, Texas, during Hurricane Harvey
+SO DISASTERS
+LA English
+DT Article
+DE disaster resilience; Hurricane Harvey; social capital; social messaging
+   network; WeChat
+ID MEDIA; COMMUNICATION; PERCEPTIONS; RECOVERY; LINKING; ACCESS
+AB Analyses of disaster resilience have focused increasingly on the role of social capital and online social networks in recovery. This study complements this field of work by investigating three key issues. First, it examines how a social messaging application, WeChat, helped individuals to access and to mobilise three types of social capital-bonding, bridging, and linking-during Hurricane Harvey, a Category 4 storm that made landfall in Louisiana and Texas in the United States in August 2017, resulting in significant flooding and loss of life. Second, it pinpoints and assesses quantitatively how individuals' WeChat group usage and social capital influenced their post-disaster well-being. Third, it demonstrates how a minority and immigrant community in Houston, Texas, overcame the disadvantages commonly observed in other disaster research through the utilisation of social media. The findings of this study should aid governmental and community efforts to foster resilience in the face of natural and human-induced hazards.
+C1 [Chu, Haoran] Texas Tech Univ, Coll Media & Commun, 3003 15th St, Lubbock, TX 79407 USA.
+   [Yang, Janet Z.] Univ Buffalo, Dept Commun, Buffalo, NY USA.
+C3 Texas Tech University System; Texas Tech University; State University of
+   New York (SUNY) System; University at Buffalo, SUNY
+RP Chu, HR (corresponding author), Texas Tech Univ, Coll Media & Commun, 3003 15th St, Lubbock, TX 79407 USA.
+EM haoran.chu@ttu.edu
+RI Yang, Janet/IAO-0713-2023; Chu, Haoran/GNH-4600-2022
+OI Yang, Janet/0000-0002-5989-5254
+FU National Science Foundation [1761843]; Direct For Social, Behav &
+   Economic Scie; Divn Of Social and Economic Sciences [1761843] Funding
+   Source: National Science Foundation
+FX This work was supported by the National Science Foundation (grant
+   number: 1761843).
+CR Acar Adam, 2011, International Journal of Web Based Communities, V7, P392, DOI 10.1504/IJWBC.2011.041206
+   Adler PaulS., 2002, ACAD MANAGE REV, V27, P17
+   Aldrich D.P., 2012, Building Resilience: Social Capital in Post-Disaster Recovery, DOI [10.7208/chicago/9780226012896.001.0001, DOI 10.7208/CHICAGO/9780226012896.001.0001]
+   Aldrich DP, 2015, AM BEHAV SCI, V59, P254, DOI 10.1177/0002764214550299
+   [Anonymous], 2011, A whole community approach to emergency management: Principles, themes, and pathways for action
+   [Anonymous], 1970, ORGANIZED BEHAV DISA
+   [Anonymous], 2015, J COMMUNITY INFORM
+   [Anonymous], 2012, Making cities resilient report 2012
+   [Anonymous], 2018, WeChatting American Politics: Misinformation, Polarization, and Immigrant Chinese Media
+   Barros V, 2012, MANAGING THE RISKS OF EXTREME EVENTS AND DISASTERS TO ADVANCE CLIMATE CHANGE ADAPTATION, pIX
+   Berenguer A, 2017, IEEE CONSUM ELECTR M, V6, P104, DOI 10.1109/MCE.2016.2614524
+   Bird D, 2012, AUST J EMERG MANAG, V27, P27
+   Boyd DM, 2007, J COMPUT-MEDIAT COMM, V13, P210, DOI 10.1111/j.1083-6101.2007.00393.x
+   BURT RS, 1992, NETWORKS AND ORGANIZATIONS : STRUCTURE, FORM, AND ACTION, P57
+   Chamlee-Wright E., 2006, 70 G MAS U MERC CTR
+   Chamlee-Wright E, 2009, RATION SOC, V21, P429, DOI 10.1177/1043463109337097
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   Dynes R., 1987, Sociology of disasters: Contributions of sociology to disaster research, P71
+   Elliott JR, 2010, SOCIOL QUART, V51, P624, DOI 10.1111/j.1533-8525.2010.01186.x
+   Gao H, 2011, IEEE INTELL SYST, V26, P10, DOI 10.1109/MIS.2011.52
+   Goodspeed T.R., 2004, COASTAL TRENDS REPOR, V55
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Hanifan LJ, 1916, ANN AM ACAD POLIT SS, V67, P130, DOI 10.1177/000271621606700118
+   Hawkins RL, 2010, BRIT J SOC WORK, V40, P1777, DOI 10.1093/bjsw/bcp087
+   Houston JB, 2017, J CONTING CRISIS MAN, V25, P354, DOI 10.1111/1468-5973.12171
+   Houston JB, 2015, AM BEHAV SCI, V59, P270, DOI 10.1177/0002764214548563
+   Huang Cheng-Min, 2010, BMC Med Inform Decis Mak, V10, P57, DOI 10.1186/1472-6947-10-57
+   Imran M., 2013, Extracting information nuggets from disaster-related messages in social media
+   Islam R, 2015, NAT HAZARDS, V78, P1707, DOI 10.1007/s11069-015-1797-4
+   Kaigo M., 2012, Keio Communication Review, V34, P19
+   Kim J, 2018, INT J INFORM MANAGE, V38, P86, DOI 10.1016/j.ijinfomgt.2017.08.003
+   Kroenke K, 2002, PSYCHIAT ANN, V32, P509, DOI 10.3928/0048-5713-20020901-06
+   LIN N, 1986, SOC NETWORKS, V8, P365, DOI 10.1016/0378-8733(86)90003-1
+   Lin N., 2017, CONNECTIONS, P3, DOI DOI 10.4324/9781315129457-1
+   Lindsay B.R., 2011, Social Media and Disasters: Current Uses, Future Options, and Policy Considerations
+   Lobb A, 2012, PREHOSP DISASTER MED, V27, P319, DOI 10.1017/S1049023X12000908
+   Lowe SR, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0125761
+   Mathbor GM, 2007, INT SOC WORK, V50, P357, DOI 10.1177/0020872807076049
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Messias DKH, 2012, DISASTERS, V36, P101, DOI 10.1111/j.1467-7717.2011.01243.x
+   Nakagawa S., 2004, International Journal of Mass Emergencies and Disasters, V22, P5, DOI [DOI 10.1177/028072700402200101, DOI 10.1017/CBO9781107415324.004]
+   NOAA, 2018, Costliest U.S. tropical cyclones tables updated
+   Norris FH, 2008, AM J COMMUN PSYCHOL, V41, P127, DOI 10.1007/s10464-007-9156-6
+   PUTNAM RD, 1995, PS, V28, P664, DOI 10.2307/420517
+   Qiu J., 2016, LIFECYCLE CASCADE WE
+   Riad JK, 1999, J APPL SOC PSYCHOL, V29, P918, DOI 10.1111/j.1559-1816.1999.tb00132.x
+   Sadri AM, 2018, NAT HAZARDS, V90, P1377, DOI 10.1007/s11069-017-3103-0
+   Spialek ML, 2016, INT J DISAST RISK RE, V17, P154, DOI 10.1016/j.ijdrr.2016.04.006
+   Sultan DH, 2014, HEALTH SOCIOL REV, V23, P178, DOI 10.1080/14461242.2014.11081972
+   Szreter S, 2004, INT J EPIDEMIOL, V33, P650, DOI 10.1093/ije/dyh013
+   Tse C.-W., 2013, 344 CTR GLOB DEV
+   United States Census Bureau, 2015, AM COMM SURV DEM HOU
+   van der Gaag M., 2008, SOCIAL CAPITAL, P27, DOI DOI 10.1093/ACPROF:OSO/9780199234387.003.0011
+   Vieweg S., 2008, P 5 INT ISCRAM C
+   Yin J, 2012, IEEE INTELL SYST, V27, P52, DOI 10.1109/MIS.2012.6
+NR 55
+TC 33
+Z9 37
+U1 3
+U2 59
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0361-3666
+EI 1467-7717
+J9 DISASTERS
+JI Disasters
+PD OCT
+PY 2020
+VL 44
+IS 4
+BP 726
+EP 752
+DI 10.1111/disa.12388
+EA MAR 2020
+PG 27
+WC Environmental Studies; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Environmental Sciences & Ecology; Social Sciences - Other Topics
+GA NK6LZ
+UT WOS:000562499600001
+PM 31294861
+DA 2024-11-22
+ER
+
+PT J
+AU Lee, F
+   Butts, CT
+AF Lee, Francis
+   Butts, Carter T.
+TI Incorporating structural stigma into network analysis
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Social network analysis; Homophily; Stigma; Social sanctions;
+   Xenophobia; ERGM
+ID MODELS; FEATHER; PACKAGE; BIRDS
+AB A rich literature has explored the modeling of homophily and other forms of nonuniform mixing associated with individual-level covariates within the exponential family random graph (ERGM) framework. Such differential mixing does not fully explain phenomena such as stigma, however, which involve the active maintenance of social boundaries by ostracism of persons with out-group ties. Here, we introduce a new family of statistics that allows for such effects to be captured, making it possible to probe for the potential presence of boundary maintenance above and beyond simple differences in nomination rates. We demonstrate these statistics in the context of gender segregation in a school classroom, and introduce a framework for understanding the associated coefficients via network perturbation.
+C1 [Lee, Francis] Univ Calif Irvine, Dept Sociol, Irvine, CA USA.
+   [Butts, Carter T.] Univ Calif Irvine, Inst Math Behav Sci, Dept Sociol, Irvine, CA USA.
+   [Butts, Carter T.] Univ Calif Irvine, Inst Math Behav Sci, Dept Stat, Irvine, CA USA.
+   [Butts, Carter T.] Univ Calif Irvine, Inst Math Behav Sci, Dept Comp Sci, Irvine, CA USA.
+   [Butts, Carter T.] Univ Calif Irvine, Inst Math Behav Sci, Dept EECS, Irvine, CA USA.
+C3 University of California System; University of California Irvine;
+   University of California System; University of California Irvine;
+   University of California System; University of California Irvine;
+   University of California System; University of California Irvine;
+   University of California System; University of California Irvine
+RP Butts, CT (corresponding author), UC Irvine, SSPA 2145, Irvine, CA 92697 USA.
+EM buttsc@uci.edu
+FU ARO [W911NF-14-1-055]; NSF [SES-1826589]
+FX This research was supported in part by ARO award W911NF-14-1-055 and NSF
+   award SES-1826589.
+CR [Anonymous], 1989, Sociological Methodology, DOI DOI 10.2307/270949
+   Benaglia T, 2009, J STAT SOFTW, V32, P1
+   Blau PeterM., 1994, Structural Contexts of Opportunities
+   Butts CT, 2011, SOCIOL METHODOL, V41, P299, DOI 10.1111/j.1467-9531.2011.01246.x
+   Butts CT, 2007, SOCIOL METHODOL, V37, P283, DOI 10.1111/j.1467-9531.2006.00187.x
+   Butts CT, 2003, SOC NETWORKS, V25, P103, DOI 10.1016/S0378-8733(02)00038-2
+   Goffman E., 1963, BEHAV PUBLIC PLACES
+   Goodreau SM, 2017, LANCET HIV, V4, pE311, DOI 10.1016/S2352-3018(17)30067-X
+   Goodreau SM, 2009, DEMOGRAPHY, V46, P103, DOI 10.1353/dem.0.0045
+   Grazioli G, 2019, J PHYS CHEM B, V123, P5452, DOI 10.1021/acs.jpcb.9b03494
+   Handcock Mark S, 2008, J Stat Softw, V24, P1548
+   Handcock MS, 2003, DYNAMIC SOCIAL NETWORK MODELING AND ANALYSIS, P229
+   Heider F, 1946, J PSYCHOL, V21, P107, DOI 10.1080/00223980.1946.9917275
+   Hunter D., 2013, J STAT SOFTW, V52, P1, DOI DOI 10.18637/JSS.V052.I02
+   Hunter DR, 2007, SOC NETWORKS, V29, P216, DOI 10.1016/j.socnet.2006.08.005
+   KRACKHARDT D, 1988, SOC PSYCHOL QUART, V51, P123, DOI 10.2307/2786835
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   PARKER JG, 1993, DEV PSYCHOL, V29, P611, DOI 10.1037/0012-1649.29.4.611
+   Sakoda J M., 1971, J. Math. Sociol, V1, P119, DOI [10.1080/0022250X.1971.9989791, DOI 10.1080/0022250X.1971.9989791]
+   Schaefer DR, 2017, SOC NETWORKS, V51, P88, DOI 10.1016/j.socnet.2016.12.006
+   SCHELLING TC, 1971, J MATH SOCIOL, V1, P143, DOI 10.1080/0022250X.1971.9989794
+   Snijders T.A.B., 2006, SOCIOL METHODOL, V36
+   Wang P, 2016, METHODS SER, V12, P125, DOI 10.1007/978-3-319-24520-1_6
+   Yaveroglu ÖN, 2015, J STAT SOFTW, V65, P1
+NR 24
+TC 4
+Z9 5
+U1 1
+U2 17
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29a, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD OCT
+PY 2020
+VL 63
+BP 91
+EP 99
+DI 10.1016/j.socnet.2020.05.005
+PG 9
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA NG3XU
+UT WOS:000563919700009
+OA Green Submitted, Bronze
+DA 2024-11-22
+ER

@@ -1,0 +1,549 @@
+
+PT J
+AU Landry, NW
+   Adams, J
+AF Landry, Nicholas W.
+   Adams, Jimi
+TI On limitations of uniplex networks for modeling multiplex contagion
+SO PLOS ONE
+LA English
+DT Article
+ID DYNAMICS
+AB Many network contagion processes are inherently multiplex in nature, yet are often reduced to processes on uniplex networks in analytic practice. We therefore examine how data modeling choices can affect the predictions of contagion processes. We demonstrate that multiplex contagion processes are not simply the union of contagion processes over their constituent uniplex networks. We use multiplex network data from two different contexts-(1) a behavioral network to represent their potential for infectious disease transmission using a "simple" epidemiological model, and (2) users from online social network sites to represent their potential for information spread using a threshold-based "complex" contagion process. Our results show that contagion on multiplex data is not captured accurately in models developed from the uniplex networks even when they are combined, and that the nature of the differences between the (combined) uniplex and multiplex results depends on the specific spreading process over these networks.
+C1 [Landry, Nicholas W.] Univ Vermont, Vermont Complex Syst Ctr, Burlington, VT USA.
+   [Landry, Nicholas W.] Univ Vermont, Dept Math & Stat, Burlington, VT USA.
+   [Landry, Nicholas W.] Univ Colorado Boulder, Dept Appl Math, Boulder, CO USA.
+   [Adams, Jimi] Univ Colorado Denver, Dept Hlth & Behav Sci, Denver, CO 80204 USA.
+   [Adams, Jimi] Univ Colorado Boulder, Inst Behav Sci, Boulder, CO 80204 USA.
+C3 University of Vermont; University of Vermont; University of Colorado
+   System; University of Colorado Boulder; Children's Hospital Colorado;
+   University of Colorado System; University of Colorado Anschutz Medical
+   Campus; University of Colorado Denver; University of Colorado System;
+   University of Colorado Boulder
+RP Adams, J (corresponding author), Univ Colorado Denver, Dept Hlth & Behav Sci, Denver, CO 80204 USA.; Adams, J (corresponding author), Univ Colorado Boulder, Inst Behav Sci, Boulder, CO 80204 USA.
+EM jimi.adams@ucdenver.edu
+RI Landry, Nicholas/HPH-1538-2023
+OI Landry, Nicholas/0000-0003-1270-4980; adams, jimi/0000-0001-5043-1149
+CR Adams J, 2013, AM J PUBLIC HEALTH, V103, P322, DOI 10.2105/AJPH.2012.300908
+   Aral S, 2009, P NATL ACAD SCI USA, V106, P21544, DOI 10.1073/pnas.0908800106
+   Boccaletti S, 2014, PHYS REP, V544, P1, DOI 10.1016/j.physrep.2014.07.001
+   Bode L, 2018, POLIT COMMUN, V35, P1, DOI 10.1080/10584609.2017.1334730
+   Bond RM, 2012, NATURE, V489, P295, DOI 10.1038/nature11421
+   De Domenico M, 2016, NAT PHYS, V12, P901, DOI 10.1038/nphys3865
+   Gómez S, 2013, PHYS REV LETT, V110, DOI 10.1103/PhysRevLett.110.028701
+   Granell C, 2013, PHYS REV LETT, V111, DOI 10.1103/PhysRevLett.111.128701
+   Guilbeault D, 2021, NAT COMMUN, V12, DOI 10.1038/s41467-021-24704-6
+   Hargittai E, 2015, ANN AM ACAD POLIT SS, V659, P63, DOI 10.1177/0002716215570866
+   Jalili M, 2017, ROY SOC OPEN SCI, V4, DOI 10.1098/rsos.160863
+   Jalili Mahdi., 2017, JOAPP from Link Prediction in Muliplex Online Social Networks
+   Kapferer B., 1969, SOCIAL NETWORKS URBA, P181
+   Kauffman K, 2022, J R SOC INTERFACE, V19, DOI 10.1098/rsif.2021.0690
+   Kivela M, 2014, J COMPLEX NETW, V2, P203, DOI 10.1093/comnet/cnu016
+   KLOVDAHL AS, 1994, SOC SCI MED, V38, P79, DOI 10.1016/0277-9536(94)90302-6
+   Lazer DMJ, 2018, SCIENCE, V359, P1094, DOI 10.1126/science.aao2998
+   MAY RM, 1987, NATURE, V326, P137, DOI 10.1038/326137a0
+   Moody J, 2017, NETW SCI, V5, P461, DOI 10.1017/nws.2017.3
+   Morris M., 2011, Hiv transmission network metastudy project: An archive of data from eight network studies, 1988-2001
+   Potterat J., 2004, NETWORK EPIDEMIOLOGY, P87
+   Radicchi F, 2013, NAT PHYS, V9, P717, DOI [10.1038/NPHYS2761, 10.1038/nphys2761]
+   Valente T.W., 1995, NETWORK MODELS DIFFU
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Watts DJ, 2007, J CONSUM RES, V34, P441, DOI 10.1086/518527
+   Zannettou S, 2017, PROCEEDINGS OF THE 2017 INTERNET MEASUREMENT CONFERENCE (IMC'17), P405, DOI 10.1145/3131365.3131390
+NR 26
+TC 1
+Z9 1
+U1 0
+U2 2
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JAN 20
+PY 2023
+VL 18
+IS 1
+AR e0279345
+DI 10.1371/journal.pone.0279345
+PG 11
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 0A4CV
+UT WOS:000951772900001
+PM 36662810
+OA Green Submitted, gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Young, LE
+   Tang, JL
+   Schneider, JA
+AF Young, Lindsay E.
+   Tang, Jack Lipei
+   Schneider, John A.
+TI Demographic and HIV status diversities as mechanisms of social
+   integration and segregation among Black sexual and gender minorities
+   enrolled in a community-based social network intervention
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Social integration; Social segregation; Intersectionality; Black sexual
+   and gender minorities; Social network interventions; Exponential random
+   graph models
+ID AFRICAN-AMERICAN MEN; GAY COMMUNITY; PREEXPOSURE PROPHYLAXIS; PREVENTION
+   INTERVENTION; RISK BEHAVIORS; POSITIVE MEN; YOUNG MEN; HEALTH; SUPPORT;
+   MSM
+AB Drawing on a social integration and intersectionality framework, this study advances a dynamic network un-derstanding of the mechanisms that enable differential patterns of within-group social integration and segre-gation among Black sexual and gender minorities (BSGM). Specifically, in a cohort of BSGM (18-35 years of age, n symbolscript 340) participating in a community-based network intervention for HIV prevention, we examine how sexual, gender, age, and HIV status diversities contribute to friendship formation and maintenance patterns over the 12 -month study enrollment period. We found attenuated social integration (or social activity) among non-gay -identified and older BSGM and evidence of social segregation (or homophily) on the basis of sexual identity and age similarities. Accounting for the moderating effects of the intervention revealed that the attenuated integration of non-gay-identified and older BSGM were stronger for participants who received the peer leader-ship training, and integration challenges were also found for transgender BSGM who received the peer leadership training. Meanwhile, BSGM living with HIV who received the peer leadership training were significantly more integrated than their counterparts in the control arm. These findings help us understand the complicated social fabric among BSGM and the dynamics that interventions for this community may have to contend with or alter.
+C1 [Young, Lindsay E.; Tang, Jack Lipei] Univ Southern Calif, Annenberg Sch Commun & Journalism, Los Angeles, CA USA.
+   [Schneider, John A.] Univ Chicago, Chicago Ctr HIV Eliminat, Chicago, IL USA.
+   [Schneider, John A.] Univ Chicago, Dept Med & Publ Hlth Sci, Chicago, IL USA.
+   [Schneider, John A.] Univ Chicago, Crown Sch Social Work Practice & Policy, Chicago, IL USA.
+   [Young, Lindsay E.] 3502 Watt Way, Los Angeles, CA 90089 USA.
+C3 University of Southern California; University of Chicago; University of
+   Chicago; University of Chicago
+RP Young, LE (corresponding author), 3502 Watt Way, Los Angeles, CA 90089 USA.
+EM lindsay.young@usc.edu
+RI Tang, Jack Lipei/AHB-3640-2022; Young, Lindsay/ABE-4901-2021
+OI Tang, Jack Lipei/0000-0001-6207-6367
+FU National Institute of Child Health and Human Development [R00HD094648];
+   National Institute of Allergy and Infectious Diseases [R01AI20700]
+FX This work was supported by the National Institute of Child Health and
+   Human Development (R00HD094648) . Parent study data collection was
+   supported by the National Institute of Allergy and Infectious Diseases
+   (R01AI20700) . The contents of this publication are solely the
+   responsibility of the authors and do not necessarily represent the
+   official views of the National Institutes of Health or the Department of
+   Health and Human Services.
+CR Amirkhanian YA, 2014, CURR HIV-AIDS REP, V11, P81, DOI 10.1007/s11904-013-0194-4
+   [Anonymous], 2005, Models and methods in social network analysis, DOI DOI 10.1017/CBO9780511811395.006
+   [Anonymous], 2008, Born Digital: Understanding the First Generation of Digital Natives
+   [Anonymous], 1999, The structure of adolescent social relations: modeling friendship in dynamic social settings
+   [Anonymous], 2012, P 21 ACM INT C INF K
+   Arnaboldi V., 2015, Online Social Networks: Human Cognitive Constraints in Facebook and Twitter Personal Graphs, V1st
+   Baral SD, 2013, LANCET INFECT DIS, V13, P214, DOI 10.1016/S1473-3099(12)70315-8
+   Bellah Robert N., 1996, HABITS HEART INDIVID
+   BERKMAN LF, 1995, PSYCHOSOM MED, V57, P245, DOI 10.1097/00006842-199505000-00006
+   Berkman LF., 2000, SOCIAL EPIDEMIOLOGY, DOI DOI 10.1093/OSO/9780195083316.003.0007
+   Boellstorff T, 2011, CULT ANTHROPOL, V26, P287, DOI 10.1111/j.1548-1360.2011.01100.x
+   Bogart LM, 2015, ANN BEHAV MED, V49, P865, DOI 10.1007/s12160-015-9724-1
+   Bowleg L, 2013, SEX ROLES, V68, P754, DOI 10.1007/s11199-012-0152-4
+   Bowleg L, 2012, AM J PUBLIC HEALTH, V102, P1267, DOI 10.2105/AJPH.2012.300750
+   Buttram ME, 2013, J COMMUN HEALTH, V38, P62, DOI 10.1007/s10900-012-9582-8
+   Chan RCH, 2019, AM J MENS HEALTH, V13, DOI 10.1177/1557988319873778
+   Collins Patricia Hill, 2000, BLACK FEMINIST THOUG
+   Courtenay-Quirk C, 2006, AIDS EDUC PREV, V18, P56, DOI 10.1521/aeap.2006.18.1.56
+   Dodge B, 2012, J BISEXUALITY, V12, P223, DOI 10.1080/15299716.2012.674862
+   Durkheim E., 1951, SUICIDE STUDY SOCIOL
+   Emlet CA, 2006, HEALTH SOC WORK, V31, P299, DOI 10.1093/hsw/31.4.299
+   Fergus S, 2009, HEALTH EDUC BEHAV, V36, P846, DOI 10.1177/1090198108319891
+   Friedman MR, 2017, AIDS CARE, V29, P469, DOI 10.1080/09540121.2016.1211614
+   Frost DM, 2016, AM J ORTHOPSYCHIAT, V86, P91, DOI 10.1037/ort0000117
+   Frost DM, 2012, J SEX RES, V49, P36, DOI 10.1080/00224499.2011.565427
+   Fujimoto K, 2015, AM J PUBLIC HEALTH, V105, P1128, DOI 10.2105/AJPH.2014.302474
+   Fujimoto K, 2013, SEX TRANSM DIS, V40, P453, DOI 10.1097/OLQ.0b013e31829186e5
+   Ghabrial MA, 2017, SEX RES SOC POLICY, V14, P42, DOI 10.1007/s13178-016-0229-x
+   Hart TA, 2003, J SEX RES, V40, P179, DOI 10.1080/00224490309552179
+   Heckathorn DD, 1997, SOC PROBL, V44, P174, DOI 10.1525/sp.1997.44.2.03x0221m
+   Heider F, 1946, J PSYCHOL, V21, P107, DOI 10.1080/00223980.1946.9917275
+   Herbst JH, 2008, AIDS BEHAV, V12, P1, DOI 10.1007/s10461-007-9299-3
+   Hosek SG, 2015, AIDS CARE, V27, P355, DOI 10.1080/09540121.2014.963016
+   Hotton AL, 2018, J GAY LESBIAN SOC SE, V30, P64, DOI 10.1080/10538720.2017.1408518
+   HOUSE JS, 1988, SCIENCE, V241, P540, DOI 10.1037/0003-066X.59.8.676
+   Hunter RF, 2017, LANCET, V390, pS47, DOI 10.1016/S0140-6736(17)32982-3
+   Janulis P, 2018, JAIDS-J ACQ IMM DEF, V77, P459, DOI 10.1097/QAI.0000000000001620
+   Jones KT, 2008, AM J PUBLIC HEALTH, V98, P1043, DOI 10.2105/AJPH.2007.120337
+   Kawachi I, 2001, J URBAN HEALTH, V78, P458, DOI 10.1093/jurban/78.3.458
+   Kawachi I., 2000, SOCIAL EPIDEMIOLOGY, V174, P290, DOI [DOI 10.1093/MED/9780195377903.003.0008, 10.1093/med/9780195377903.003.0008]
+   Khanna AS, 2017, ANN EPIDEMIOL, V27, P176, DOI 10.1016/j.annepidem.2016.11.006
+   Kraft JM, 2000, HEALTH EDUC BEHAV, V27, P430, DOI 10.1177/109019810002700406
+   Krivitsky P.N., 2019, STERGM-Separable Temporal ERGMs for modeling discrete relational dynamics with statnet
+   Krivitsky PN, 2014, J ROY STAT SOC B, V76, P29, DOI 10.1111/rssb.12014
+   Latkin CA, 2009, SOC SCI MED, V68, P740, DOI 10.1016/j.socscimed.2008.11.019
+   LeGrand S, 2014, AIDS CARE, V26, P1194, DOI 10.1080/09540121.2014.894608
+   Lindquist R, 2007, J NURS SCHOLARSHIP, V39, P214, DOI 10.1111/j.1547-5069.2007.00171.x
+   McConnell Elizabeth A, 2018, Psychol Sex Orientat Gend Divers, V5, P1, DOI 10.1037/sgd0000265
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mihailovic A, 2015, AIDS BEHAV, V19, P1792, DOI 10.1007/s10461-015-1048-4
+   Millett GA, 2007, AIDS, V21, P2083, DOI 10.1097/QAD.0b013e3282e9a64b
+   Mungovan D, 2011, COMPUT MATH ORGAN TH, V17, P152, DOI 10.1007/s10588-011-9085-7
+   Noel H, 2011, SOC NETWORKS, V33, P211, DOI 10.1016/j.socnet.2011.05.003
+   Operario D, 2008, AIDS EDUC PREV, V20, P347, DOI 10.1521/aeap.2008.20.4.347
+   Pagkas-Bather J, 2020, CURR HIV-AIDS REP, V17, P450, DOI 10.1007/s11904-020-00524-z
+   PESCOSOLIDO BA, 1990, SOCIOL QUART, V31, P337, DOI 10.1111/j.1533-8525.1990.tb00332.x
+   Ramirez-Valles J, 2010, J HEALTH SOC BEHAV, V51, P30, DOI 10.1177/0022146509361176
+   Reed SJ, 2016, AM J COMMUN PSYCHOL, V57, P129, DOI 10.1002/ajcp.12028
+   Reich SM, 2012, DEV PSYCHOL, V48, P356, DOI 10.1037/a0026980
+   Robins G, 2007, SOC NETWORKS, V29, P173, DOI 10.1016/j.socnet.2006.08.002
+   Rose T, 2014, CHILD DEV, V85, P1003, DOI [10.1111/cdev.12257, 10.1111/cdev.12182]
+   RStudio Team, 2022, RSTUDIO INT DEV ENV
+   Schaefer DR, 2014, AM J PUBLIC HEALTH, V104, P1223, DOI 10.2105/AJPH.2013.301768
+   Schneider JA, 2021, JAIDS-J ACQ IMM DEF, V86, P31, DOI 10.1097/QAI.0000000000002518
+   Schneider John A, 2013, Am J Public Health, V103, pe28, DOI 10.2105/AJPH.2012.301003
+   Snijders TAB, 2010, SOC NETWORKS, V32, P44, DOI 10.1016/j.socnet.2009.02.004
+   Spencer L., 2006, RETHINKING FRIENDSHI
+   Tsai AC, 2015, SOC SCI MED, V125, P1, DOI 10.1016/j.socscimed.2014.10.045
+   Valente T. W., 2010, Social networks and health: Models, methods, and applications, DOI DOI 10.1093/ACPROF:OSO/9780195301014.001.0001
+   Valente TW, 2012, SCIENCE, V337, P49, DOI 10.1126/science.1217330
+   Williams A., 2013, Intergenerational communication across the life span
+   Wilson BDM, 2016, SEX RES SOC POLICY, V13, P202, DOI 10.1007/s13178-016-0219-z
+   Winiker AK, 2023, J GAY LESBIAN MENT H, V27, P175, DOI 10.1080/19359705.2021.1957741
+   Young LE, 2022, JMIR FORM RES, V6, DOI 10.2196/37982
+   Young LE, 2022, AIDS BEHAV, V26, P3747, DOI 10.1007/s10461-022-03704-7
+   Young LE, 2021, INT J ENV RES PUB HE, V18, DOI 10.3390/ijerph18116051
+   Young Lindsay E, 2020, Soc Networks, V63, P201, DOI 10.1016/j.socnet.2020.06.003
+   Young LE, 2018, AIDS BEHAV, V22, P3324, DOI 10.1007/s10461-018-2087-4
+   Young LE, 2018, CLIN TRIALS, V15, P44, DOI 10.1177/1740774517730012
+   Young RM, 2005, AM J PUBLIC HEALTH, V95, P1144, DOI 10.2105/AJPH.2004.046714
+   Zhang JW, 2019, ANNU REV SOCIOL, V45, P91, DOI 10.1146/annurev-soc-073117-041421
+NR 81
+TC 2
+Z9 2
+U1 1
+U2 7
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD MAY
+PY 2023
+VL 73
+BP 51
+EP 61
+DI 10.1016/j.socnet.2022.12.006
+EA JAN 2023
+PG 11
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 8H8TA
+UT WOS:000921299900001
+PM 36684039
+OA Bronze, Green Accepted
+DA 2024-11-22
+ER
+
+PT J
+AU Aggarwal, K
+   Arora, A
+AF Aggarwal, Kirti
+   Arora, Anuja
+TI Assessment of Discrete BAT-Modified (DBAT-M) Optimization Algorithm for
+   Community Detection in Complex Network
+SO ARABIAN JOURNAL FOR SCIENCE AND ENGINEERING
+LA English
+DT Article
+DE Community detection algorithm; Optimization; BAT
+AB The science of networks has made drastic changes in the modeling of complex real-world systems. Community detection is one of the most important complex network concepts to divulge the unknown structural patterns of the network and extract unknown information from network structure. Extant literature has revealed that community detection in a complex network is an NP-hard problem. Therefore, an optimized and effective community detection algorithm is the most significant research gap. By employing the concept of optimization and nonlinear network structure, a Discrete BAT-Modified (DBAT-M) algorithm is developed. The modifications in the existing BAT algorithm are incorporated to achieve fast convergence and effective detection of communities in a complex network. The algorithm is compared with the Discrete BAT algorithm and two social network community detection algorithms-Greedy and Label Propagation. The performance evaluation and comparison of DBAT-M is measured using modularity Q index, stability, coverage, and performance evaluation metrics. The community detection results are evident proof of the best performance of the proposed DBAT-M algorithm over other algorithms. Thereby, a Discrete BAT-Modified algorithm is offered which is able to achieve effective and stable community partitioning as compared to existing community detection approaches.
+C1 [Aggarwal, Kirti; Arora, Anuja] Jaypee Inst Informat Technol, Dept Comp Sci & Engn & Informat Technol, Noida, India.
+C3 Jaypee Institute of Information Technology (JIIT)
+RP Arora, A (corresponding author), Jaypee Inst Informat Technol, Dept Comp Sci & Engn & Informat Technol, Noida, India.
+EM aggarwalkirti25@gmail.com; anuja.arora29@gmail.com
+RI ; , Anuja/T-7013-2019
+OI Aggarwal, Kirti/0000-0003-2474-2669; , Anuja/0000-0001-5215-1300
+CR Aggarwal K., 2022, INT J FUZZY SYST APP, DOI 10.4018/ijfsa.296588
+   [Anonymous], ECHOLOCATION BATS US
+   [Anonymous], 1983, Structural Models in Anthropology: Cambridge Studies in Social Anthropology
+   [Anonymous], The konect project
+   Anping Song, 2016, IAENG International Journal of Computer Science, V43, P37
+   Attea BA, 2021, SWARM EVOL COMPUT, V63, DOI 10.1016/j.swevo.2021.100885
+   Chaitanya K, 2018, IEEE C EVOL COMPUTAT, P2483, DOI 10.1109/CEC.2018.8477659
+   Chaudhary R, 2020, SWARM EVOL COMPUT, V55, DOI 10.1016/j.swevo.2020.100672
+   Chaudhary R, 2019, SOFT COMPUT, V23, P11461, DOI 10.1007/s00500-018-03688-4
+   Chen Z., 2019, ARXIV
+   Choong JJ, 2018, IEEE DATA MINING, P69, DOI 10.1109/ICDM.2018.00022
+   Clauset A, 2005, PHYS REV E, V72, DOI 10.1103/PhysRevE.72.026132
+   Cohen Y, 2017, SPRINGER PR COMPLEX, P1, DOI 10.1007/978-3-319-55471-6_1
+   Cordasco G., 2010, IEEE INT WORKSH BUS, DOI 10.1109/BASNA.2010.5730298
+   Duch J, 2005, PHYS REV E, V72, DOI 10.1103/PhysRevE.72.027104
+   Fani H, 2020, INFORM PROCESS MANAG, V57, DOI 10.1016/j.ipm.2019.102056
+   Fortunato S, 2010, PHYS REP, V486, P75, DOI 10.1016/j.physrep.2009.11.002
+   Freeman LC, 1998, SOC NETWORKS, V20, P109, DOI 10.1016/S0378-8733(97)00016-6
+   Girvan M, 2002, P NATL ACAD SCI USA, V99, P7821, DOI 10.1073/pnas.122653799
+   Gleiser PM, 2003, ADV COMPLEX SYST, V6, P565, DOI 10.1142/S0219525903001067
+   Gómez S, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.016114
+   Gupta GP, 2018, ENG APPL ARTIF INTEL, V68, P101, DOI 10.1016/j.engappai.2017.11.003
+   Gupta S, 2020, DATA KNOWL ENG, V125, DOI 10.1016/j.datak.2019.101777
+   Hayes B, 2006, AM SCI, V94, P400, DOI 10.1511/2006.61.400
+   Huang J, 2021, INT J PATTERN RECOGN, V35, DOI 10.1142/S0218001421590060
+   Jia YT, 2019, WEB CONFERENCE 2019: PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE (WWW 2019), P784, DOI 10.1145/3308558.3313564
+   Kakkavas G, 2020, IEEE ICC, DOI 10.1109/icc40277.2020.9149412
+   Kamboj S, 2018, INT J INFORM MANAGE, V39, P169, DOI 10.1016/j.ijinfomgt.2017.12.001
+   Lancichinetti A, 2008, PHYS REV E, V78, DOI 10.1103/PhysRevE.78.046110
+   Li CL, 2019, INFORM PROCESS MANAG, V56, P91, DOI 10.1016/j.ipm.2018.10.004
+   Li XJ, 2019, APPL SOFT COMPUT, V81, DOI 10.1016/j.asoc.2019.05.003
+   Li X, 2020, INFORM PROCESS MANAG, V57, DOI 10.1016/j.ipm.2020.102353
+   Liu J, 2010, PHYSICA A, V389, P2300, DOI 10.1016/j.physa.2010.01.042
+   Lu XG, 2021, SIGNAL IMAGE VIDEO P, V15, P681, DOI 10.1007/s11760-020-01638-y
+   Mashwani WK, 2021, ALEX ENG J, V60, P6013, DOI 10.1016/j.aej.2021.04.002
+   Misra S, 2012, IEEE GLOB COMM CONF, P1647, DOI 10.1109/GLOCOM.2012.6503350
+   Newman MEJ, 2016, PHYS REV E, V94, DOI 10.1103/PhysRevE.94.052315
+   Newman M.E.J., 2004, PHYS REV E, V69, DOI [DOI 10.1103/PHYSREVE.69.026113, 10.1103/PhysRevE.69.066133, DOI 10.1103/PHYSREVE.69.066133]
+   Papadopoulos S, 2012, DATA MIN KNOWL DISC, V24, P515, DOI 10.1007/s10618-011-0224-z
+   Pizzuti C, 2008, LECT NOTES COMPUT SC, V5199, P1081, DOI 10.1007/978-3-540-87700-4_107
+   Raghavan UN, 2007, PHYS REV E, V76, DOI 10.1103/PhysRevE.76.036106
+   Rahimi S, 2018, SWARM EVOL COMPUT, V39, P297, DOI 10.1016/j.swevo.2017.10.009
+   Ramli MR, 2019, J KING SAUD UNIV-COM, V31, P452, DOI 10.1016/j.jksuci.2018.03.010
+   Rana N, 2020, NEURAL COMPUT APPL, V32, P16245, DOI 10.1007/s00521-020-04849-z
+   Shang JL, 2021, SYMMETRY-BASEL, V13, DOI 10.3390/sym13010049
+   Su X, 2024, IEEE T NEUR NET LEAR, V35, P4682, DOI 10.1109/TNNLS.2021.3137396
+   Taha K, 2018, IEEE T COMPUT SOC SY, V5, P493, DOI 10.1109/TCSS.2018.2822738
+   Tasgin M., 2007, ARXIV
+   Thanushkodi K, 2011, INT J COMPUT SCI NET, V11, P27
+   Vairachilai S., 2016, Circuits Syst, V7, P1268, DOI [10.4236/cs.2016.78111, DOI 10.4236/CS.2016.78111]
+   Velickovic P., 6 INT C LEARNING REP
+   Verma Y. P., 2008, EC LOAD DISPATCH SOL
+   Wang YY, 2021, APPL MATH COMPUT, V390, DOI 10.1016/j.amc.2020.125601
+   Yang XS, 2014, J MULT-VALUED LOG S, V22, P223
+   Yang XS, 2010, STUD COMPUT INTELL, V284, P65, DOI 10.1007/978-3-642-12538-6_6
+   Yang Z, 2016, SCI REP-UK, V6, DOI 10.1038/srep30750
+   Zhu J, 2015, IEEE PR SER POWER, P1, DOI 10.1002/9781118887004
+NR 57
+TC 1
+Z9 1
+U1 0
+U2 6
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 2193-567X
+EI 2191-4281
+J9 ARAB J SCI ENG
+JI Arab. J. Sci. Eng.
+PD FEB
+PY 2023
+VL 48
+IS 2
+BP 2277
+EP 2296
+DI 10.1007/s13369-022-07229-y
+EA SEP 2022
+PG 20
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA F9BP0
+UT WOS:000853473900015
+DA 2024-11-22
+ER
+
+PT J
+AU Fernandes, MR
+AF Fernandes, Marcos R.
+TI Confirmation bias in social networks
+SO MATHEMATICAL SOCIAL SCIENCES
+LA English
+DT Article
+DE Social networks; Social learning; Misinformation; Confirmation bias
+ID AMBIGUITY; DYNAMICS; EAGER; MODEL
+AB In this study, I present a theoretical social learning model to investigate how confirmation bias affects opinions when agents exchange information over a social network. Hence, besides exchanging opinions with friends, agents observe a public sequence of potentially ambiguous signals and interpret it according to a rule that includes confirmation bias. First, this study shows that regardless of level of ambiguity both for people or networked society, only two types of opinions can be formed, and both are biased. However, one opinion type is less biased than the other depending on the state of the world. The size of both biases depends on the ambiguity level and relative magnitude of the state and confirmation biases. Hence, long-run learning is not attained even when people impartially interpret ambiguity. Finally, analytically confirming the probability of emergence of the less-biased consensus when people are connected and have different priors is difficult. Hence, I used simulations to analyze its determinants and found three main results: (i) some network topologies are more conducive to consensus efficiency, (ii) some degree of partisanship enhances consensus efficiency even under confirmation bias and (iii) open-mindedness (i.e. when partisans agree to exchange opinions with opposing partisans) might inhibit efficiency in some cases.(c) 2023 Elsevier B.V. All rights reserved.
+C1 [Fernandes, Marcos R.] Univ Sao Paulo, Dept Econ, Sao Paulo, Brazil.
+C3 Universidade de Sao Paulo
+RP Fernandes, MR (corresponding author), Univ Sao Paulo, Dept Econ, Sao Paulo, Brazil.
+EM marcosross@usp.br
+RI Ross Fernandes, Marcos/A-9119-2013
+OI Ross Fernandes, Marcos/0000-0001-9632-6627
+FU Department of Economics of Stony Brook University; Stony Brook Graduate
+   Students Organization; 4th Network Science in Economics conference
+   series
+FX I thank Sandro Brusco, Pradeep Dubey, Ben Golub, Laura Karpuska, Ehud
+   Lehrer, Ting Liu, Mihai Manea, Alejandro Melo, Ron Peretz, Max Silva,
+   Michael Sinkey, Eilon Solan, Troy Tassier, Yair Tauman, and two
+   anonymous referees for helpful comments and suggestions. I also thank
+   all participants of the 29th International Conference on Game Theory
+   (Stony Brook) , 23rd Coalition Theory Network workshop (Maastricht) ,
+   4th Annual Conference on Network Science and Economics (Nashville) ,
+   44th Eastern Economic Association conference (Boston) and the seminar
+   participants at UFABC, Fordham University, Stony Brook Center for
+   Behavioral Political Economy, INSPER and University of S?o Paulo. I
+   gratefully acknowledge the Department of Economics of Stony Brook
+   University (Juan Carlos Conesa) , Stony Brook Graduate Students
+   Organization and the 4th Network Science in Economics conference series
+   (Myrna Wooders) for financial support.
+CR Acemoglu D, 2011, DYN GAMES APPL, V1, P3, DOI 10.1007/s13235-010-0004-1
+   Acemoglu D, 2011, REV ECON STUD, V78, P1201, DOI 10.1093/restud/rdr004
+   Acemoglu D, 2010, GAME ECON BEHAV, V70, P194, DOI 10.1016/j.geb.2010.01.005
+   Azzimonti M., 2022, EUR J POLIT ECON
+   Bala V, 1998, REV ECON STUD, V65, P595, DOI 10.1111/1467-937X.00059
+   Bala V, 2001, ECON THEOR, V17, P101, DOI 10.1007/PL00004094
+   Banerjee A, 2004, GAME ECON BEHAV, V46, P1, DOI 10.1016/S0899-8256(03)00048-4
+   BANERJEE AV, 1992, Q J ECON, V107, P797, DOI 10.2307/2118364
+   Buechel B., 2022, EUROPACE, V2022
+   Dandekar P, 2013, P NATL ACAD SCI USA, V110, P5791, DOI 10.1073/pnas.1217220110
+   DEGROOT MH, 1974, J AM STAT ASSOC, V69, P118, DOI 10.2307/2285509
+   DeMarzo PM, 2003, Q J ECON, V118, P909, DOI 10.1162/00335530360698469
+   ELLSBERG D, 1961, Q J ECON, V75, P643, DOI 10.2307/1884324
+   Epstein LG, 2007, REV ECON STUD, V74, P1275, DOI 10.1111/j.1467-937X.2007.00464.x
+   Fryer RG Jr, 2019, J EUR ECON ASSOC, V17, P1470, DOI 10.1093/jeea/jvy025
+   Furnham A, 1995, CURR PSYCHOL, V14, P179, DOI 10.1007/BF02686907
+   Furnham A., 2013, Psychology, V4, DOI [10.4236/psych.2013.49102, DOI 10.4236/PSYCH.2013.49102]
+   Gallo E, 2020, Arxiv, DOI arXiv:2011.00520
+   GILBOA I, 1993, J ECON THEORY, V59, P33, DOI 10.1006/jeth.1993.1003
+   GILBOA I, 1989, J MATH ECON, V18, P141, DOI 10.1016/0304-4068(89)90018-9
+   Golub B., 2017, LEARNING SOCIAL NETW
+   Golub B, 2010, AM ECON J-MICROECON, V2, P112, DOI 10.1257/mic.2.1.112
+   Grabisch M, 2020, GAMES-BASEL, V11, DOI 10.3390/g11040065
+   Hegselmann R., 2005, Computational Economics, V25, P381, DOI 10.1007/s10614-005-6296-3
+   Hegselmann R, 2002, JASSS-J ARTIF SOC S, V5
+   HELLMAN ME, 1970, ANN MATH STAT, V41, P765, DOI 10.1214/aoms/1177696958
+   Jadbabaie A, 2012, GAME ECON BEHAV, V76, P210, DOI 10.1016/j.geb.2012.06.001
+   Mao YB, 2020, IEEE T NETW SCI ENG, V7, P688, DOI 10.1109/TNSE.2018.2878377
+   Molden DC, 2008, J EXP SOC PSYCHOL, V44, P1219, DOI 10.1016/j.jesp.2008.03.009
+   Molden DC, 2004, SOC COGNITION, V22, P248, DOI 10.1521/soco.22.2.248.35461
+   Nickerson RS., 1998, REV GEN PSYCHOL, V2, P175, DOI [10.1037/1089-2680.2.2.175, DOI 10.1037/1089-2680.2.2.175]
+   Rabin M, 1999, Q J ECON, V114, P37, DOI 10.1162/003355399555945
+   Siegrist K., 2021, Probability, Mathematical Statistics, and Stochastic Processes
+   Sikder O, 2020, SCI REP-UK, V10, DOI 10.1038/s41598-020-62085-w
+   Simonovic N, 2022, J BEHAV MED, V45, P159, DOI 10.1007/s10865-021-00266-2
+   Wilson A, 2014, ECONOMETRICA, V82, P2257, DOI 10.3982/ECTA12188
+NR 36
+TC 3
+Z9 3
+U1 9
+U2 40
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0165-4896
+EI 1879-3118
+J9 MATH SOC SCI
+JI Math. Soc. Sci.
+PD MAY
+PY 2023
+VL 123
+BP 59
+EP 76
+DI 10.1016/j.mathsocsci.2023.02.007
+EA MAR 2023
+PG 18
+WC Economics; Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Mathematics; Mathematical Methods In Social
+   Sciences
+GA A9NZ9
+UT WOS:000958326700001
+OA Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Bonney, PR
+   Hansen, BD
+   Baldwin, C
+AF Bonney, Patrick R. R.
+   Hansen, Birgita D. D.
+   Baldwin, Claudia
+TI Citizen Science and Natural Resource Management: A Social Network
+   Analysis of Two Community-Based Water Monitoring Programs
+SO SOCIETY & NATURAL RESOURCES
+LA English
+DT Article
+DE Citizen science; natural resource management; social networks; policy;
+   collaboration
+ID CONSERVATION
+AB In natural resource management contexts, citizen science programs often involve a diversity of actors collaborating in broad social networks. However, the characteristics and functioning of these networks has received limited attention. In this article, we demonstrate the benefits of applying social network research to citizen science practice. Through a mixed methods approach, we compare data sharing and collaboration networks of two community-based water monitoring programs in Australia. The quantitative component revealed that despite similarities in actor diversity and activities, both programs have created divergent network structures (centralized vs decentralized) corresponding to their scale of influence in environmental decision-making (regional vs local impacts). The qualitative component showed how individuals navigated their relationships and managed key tensions inherent to network functioning. This study provides new insights on the role of social networks in citizen science and concludes by recommending program leaders adopt a "networking mindset" to maximize their sphere of influence.
+C1 [Bonney, Patrick R. R.; Hansen, Birgita D. D.] Federat Univ, Ctr eRes & Digital Innovat, Mt Helen, Vic, Australia.
+   [Hansen, Birgita D. D.] Food Agil CRC, Sydney, NSW, Australia.
+   [Baldwin, Claudia] Univ Sunshine Coast, Sustainabil Res Ctr, Sippy Downs, Australia.
+C3 Federation University Australia; University of the Sunshine Coast
+RP Bonney, PR (corresponding author), Federat Univ, Ctr eRes & Digital Innovat, Mt Helen, Vic, Australia.
+EM patrick.bonney@rmit.edu.au
+RI , Claudia and Baldwin/G-6889-2019
+OI Bonney, Patrick/0000-0003-4335-5728; Hansen, Birgita/0000-0003-3608-7622
+CR Aceves-Bueno E, 2015, ECOSYSTEMS, V18, P493, DOI 10.1007/s10021-015-9842-4
+   [Anonymous], 2016, Stakeholder Analysis: International Citizen Science Stakeholder Analysis on Data Interoperability Final Report
+   BARAN P, 1964, IEEE T COMMUN SYST, VCS12, P1, DOI 10.1109/TCOM.1964.1088883
+   Bodin O, 2011, SOCIAL NETWORKS NATU
+   Bodin Ö, 2009, GLOBAL ENVIRON CHANG, V19, P366, DOI 10.1016/j.gloenvcha.2009.05.002
+   Bolíbar M, 2016, QUAL QUANT, V50, P2217, DOI 10.1007/s11135-015-0259-0
+   Borgatti S P., 2002, NetDraw Software for Network Visualization
+   Borgatti S.P., 2002, Analytic Technologies, VVolume 1, DOI [10.1111/j.1439-0310.2009.01613.x, DOI 10.1111/J.1439-0310.2009.01613.X]
+   Borgatti SP., 2018, ANAL SOCIAL NETWORKS
+   Borgatti SP, 2009, SCIENCE, V323, P892, DOI 10.1126/science.1165821
+   Buckland-Nicks A, 2016, JCOM-J SCI COMMUN, V15
+   Buytaert W, 2014, FRONT EARTH SC-SWITZ, V2, DOI 10.3389/feart.2014.00026
+   Carr G, 2012, WATER RESOUR RES, V48, DOI 10.1029/2011WR011662
+   Chase SK, 2018, CONSERV LETT, V11, DOI 10.1111/conl.12382
+   Conrad C., 2006, Environments Journal, V34, P25
+   Conrad CC, 2011, ENVIRON MONIT ASSESS, V176, P273, DOI 10.1007/s10661-010-1582-5
+   Crona BI, 2006, ECOL SOC, V11
+   Diani Mario., 2003, Social Movements and Networks: Relational Approaches to Collective Action
+   DOREIAN P, 1992, SOC SCI RES, V21, P216, DOI 10.1016/0049-089X(92)90016-A
+   Farr CM, 2018, ENVIRON MANAGE, V61, P732, DOI 10.1007/s00267-018-1017-6
+   Fereday J., 2006, INT J QUAL METH, V1, P80, DOI [10.1177/160940690600500107, DOI 10.1177/160940690600500107]
+   Fernandez-Gimenez ME, 2008, ECOL SOC, V13
+   Fetters MD, 2013, HEALTH SERV RES, V48, P2134, DOI 10.1111/1475-6773.12117
+   Floress K, 2011, SOC NATUR RESOUR, V24, P871, DOI 10.1080/08941920903493926
+   Forrester TD, 2017, BIOL CONSERV, V208, P98, DOI 10.1016/j.biocon.2016.06.025
+   Fuhse J, 2011, QUAL QUANT, V45, P1067, DOI 10.1007/s11135-011-9492-3
+   Glisczinski D, 2018, J TRANSFORM EDUC, V16, P175, DOI 10.1177/1541344618777367
+   Groce JE, 2019, CONSERV BIOL, V33, P53, DOI 10.1111/cobi.13127
+   Hecker S., 2018, Citizen Science: Theory and Practice, V3, P1, DOI [DOI 10.5334/CSTP.114, 10.5334/cstp.114]
+   Hollstein B., 2011, The SAGE handbook of social network analysis, P404, DOI DOI 10.4135/9781446294413.N27
+   Hollstein B, 2014, STRUC AN S, P3
+   Innes J., 2004, PLANNING THEORY PRAC, V5, P419, DOI [10.1080/1464935042000293170, DOI 10.1080/1464935042000293170]
+   Irwin Alan., 2015, SCI COMMUNICATION TO, P29
+   Jalbert K., 2014, J Environ Stud Sci, V4, P78, DOI [DOI 10.1007/S13412-013-0155-7, 10.1007/s13412-013-0155-7]
+   Latimore JA, 2014, FRESHW SCI, V33, P686, DOI 10.1086/676118
+   Leach W.D., 2005, Swimming Upstream Collaborative Approaches to Watershed Management, P233
+   Marin A., 2011, SAGE HDB SOCIAL NETW, P11, DOI [DOI 10.4135/9781446294413.N2, 10.4135/9781446294413, DOI 10.4135/9781446294413]
+   McGreavy B, 2016, ECOL SOC, V21, DOI 10.5751/ES-08437-210248
+   McKinley DC, 2017, BIOL CONSERV, V208, P15, DOI 10.1016/j.biocon.2016.05.015
+   Mills M, 2006, INT SOCIOL, V21, P619, DOI 10.1177/0268580906067833
+   Mills M, 2014, BIOL CONSERV, V169, P6, DOI 10.1016/j.biocon.2013.10.015
+   Nerbonne JF, 2008, ENVIRON MANAGE, V42, P470, DOI 10.1007/s00267-008-9103-9
+   Newig J, 2010, ECOL SOC, V15
+   Newman G, 2017, BIOL CONSERV, V208, P55, DOI 10.1016/j.biocon.2016.07.019
+   Newman L, 2005, ECOL SOC, V10, DOI 10.5751/ES-01396-1001r02
+   Overdevest C., 2004, HUM ECOL REV, V11, P177
+   Pollock RM, 2005, LOCAL ENVIRON, V10, P211, DOI 10.1080/13549830500075438
+   Prell C, 2009, SOC NATUR RESOUR, V22, P501, DOI 10.1080/08941920802199202
+   Provan KG, 2008, J PUBL ADM RES THEOR, V18, P229, DOI 10.1093/jopart/mum015
+   Richter A, 2018, J INSECT CONSERV, V22, P731, DOI 10.1007/s10841-018-0097-1
+   Robins G., 2015, Doing social network research: Network-based research design for social scientists
+   Sandström A, 2010, ECOL SOC, V15
+   Shirk JL, 2012, ECOL SOC, V17, DOI 10.5751/ES-04705-170229
+   Stepenuck KF, 2019, SOC NATUR RESOUR, V32, P275, DOI 10.1080/08941920.2018.1511022
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications, DOI DOI 10.1525/AE.1997.24.1.219
+   Weston S., 2015, Environment and Natural Resources Research, V5, P1
+   White KB, 2022, HEALTH SOC CARE COMM, V30, pE6067, DOI 10.1111/hsc.14044
+   Worboys G.L., 2005, PROTECTED AREA MANAG
+   Yin RK, 2013, EVALUATION-US, V19, P321, DOI 10.1177/1356389013497081
+NR 59
+TC 2
+Z9 2
+U1 6
+U2 14
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 0894-1920
+EI 1521-0723
+J9 SOC NATUR RESOUR
+JI Soc. Nat. Resour.
+PD JUN 3
+PY 2023
+VL 36
+IS 6
+BP 600
+EP 621
+DI 10.1080/08941920.2023.2183445
+EA MAR 2023
+PG 22
+WC Development Studies; Environmental Studies; Regional & Urban Planning;
+   Sociology
+WE Social Science Citation Index (SSCI)
+SC Development Studies; Environmental Sciences & Ecology; Public
+   Administration; Sociology
+GA K7CG9
+UT WOS:000966030700001
+OA hybrid
+DA 2024-11-22
+ER

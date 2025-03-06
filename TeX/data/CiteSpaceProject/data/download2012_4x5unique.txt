@@ -1,0 +1,626 @@
+
+PT J
+AU Bravo, G
+   Squazzoni, F
+   Boero, R
+AF Bravo, Giangiacomo
+   Squazzoni, Flaminio
+   Boero, Riccardo
+TI Trust and partner selection in social networks: An experimentally
+   grounded model
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Partner selection; Trust; Cooperation; Laboratory experiment;
+   Agent-based model; Social networks
+ID COLLECTIVE ACTION; COOPERATION; DYNAMICS; EMERGENCE; EVOLUTION;
+   BEHAVIOR; RECIPROCITY; EXCHANGE; RISK; GAME
+AB This article investigates the importance of the endogenous selection of partners for trust and cooperation in market exchange situations, where there is information asymmetry between investors and trustees. We created an experimental-data driven agent-based model where the endogenous link between interaction outcome and social structure formation was examined starting from heterogeneous agent behaviour. By testing various social structure configurations, we showed that dynamic networks lead to more cooperation when agents can create more links and reduce exploitation opportunities by free riders. Furthermore, we found that the endogenous network formation was more important for cooperation than the type of network. Our results cast serious doubt about the static view of network structures on cooperation and can provide new insights into market efficiency. (C) 2012 Elsevier B.V. All rights reserved.
+C1 [Bravo, Giangiacomo] Univ Turin, Coll Carlo Alberto, I-10124 Turin, Italy.
+   [Bravo, Giangiacomo; Squazzoni, Flaminio; Boero, Riccardo] GECS Res Grp Expt & Computat Sociol, Brescia, Italy.
+   [Squazzoni, Flaminio] Univ Brescia, Dipartimento Sociali, I-25121 Brescia, Italy.
+   [Boero, Riccardo] Univ Turin, Dipartimento Sci Econ & Finanziarie G Prato, I-10124 Turin, Italy.
+C3 Collegio Carlo Alberto; University of Turin; University of Brescia;
+   University of Turin
+RP Bravo, G (corresponding author), Dipartimento Sci Sociali, Via S Ottavio 50, I-10124 Turin, Italy.
+EM giangiacomo.bravo@unito.it
+RI Boero, Riccardo/AAF-2003-2020; Bravo, Giangiacomo/I-2081-2013
+OI Bravo, Giangiacomo/0000-0003-2837-0137; Boero,
+   Riccardo/0000-0002-7468-9096; Squazzoni, Flaminio/0000-0002-6503-6077
+CR Aktipis CA, 2004, J THEOR BIOL, V231, P249, DOI 10.1016/j.jtbi.2004.06.020
+   [Anonymous], J ARTIFICIAL SOC SOC, DOI DOI 10.1007/BF02289599
+   Ashlock D, 1996, BIOSYSTEMS, V37, P99, DOI 10.1016/0303-2647(95)01548-5
+   Axelrod R, 2002, PERS SOC PSYCHOL REV, V6, P341, DOI 10.1207/S15327957PSPR0604_08
+   Axelrod R, 2004, EVOLUTION, V58, P1833
+   Axelrod R., 1984, EVOLUTION COOPERATIO
+   Back I, 2008, RATION SOC, V20, P65, DOI 10.1177/1043463107085437
+   Back I, 2006, JASSS-J ARTIF SOC S, V9
+   Back IH, 2010, EVOL HUM BEHAV, V31, P22, DOI 10.1016/j.evolhumbehav.2009.06.006
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barabási AL, 2009, SCIENCE, V325, P412, DOI 10.1126/science.1173299
+   Barrera D., 2009, eTrust: Forming Relationships in the Online World, P37
+   Beckman CM, 2004, ORGAN SCI, V15, P259, DOI 10.1287/orsc.1040.0065
+   BERG J, 1995, GAME ECON BEHAV, V10, P122, DOI 10.1006/game.1995.1027
+   Boero R, 2005, JASSS-J ARTIF SOC S, V8
+   Boero R, 2009, SOCIOL RES ONLINE, V14, DOI 10.5153/sro.2042
+   Boero R, 2010, JASSS-J ARTIF SOC S, V13, DOI 10.18564/jasss.1620
+   Boero Riccardo., 2009, The Journal of Socio-Economics, V38, P871, DOI [DOI 10.1016/J.SOCEC.2009.05.004, 10.1016/j.socec.2009.05.004]
+   Bravo G, 2011, RATION SOC, V23, P117, DOI 10.1177/1043463110387268
+   Buchanan Mark., 2002, NEXUS SMALL WORLDS G
+   Buskens V., 2008, HDB RATIONAL CHOICE
+   Buskens V, 2008, J PEACE RES, V45, P205, DOI 10.1177/0022343307087177
+   Calvó-Armengol A, 2002, INT J GAME THEORY, V30, P503, DOI 10.1007/s001820200094
+   Camerer CF., 2003, BEHAV GAME THEORY EX
+   Charles E, 2006, JASSS-J ARTIF SOC S, V9, P4
+   Chiang YS, 2010, EVOL HUM BEHAV, V31, P265, DOI 10.1016/j.evolhumbehav.2010.03.003
+   Chmura T, 2007, JASSS-J ARTIF SOC S, V10
+   Cohen MD, 2001, RATION SOC, V13, P5, DOI 10.1177/104346301013001001
+   Coleman J.S., 1994, FDN SOCIAL THEORY
+   Colquitt JA, 2007, J APPL PSYCHOL, V92, P909, DOI 10.1037/0021-9010.92.4.909
+   Corten R, 2010, SOC NETWORKS, V32, P4, DOI 10.1016/j.socnet.2009.04.002
+   Cronk L, 2007, EVOL HUM BEHAV, V28, P352, DOI 10.1016/j.evolhumbehav.2007.05.006
+   De Vos H, 2001, RATION SOC, V13, P5
+   Deadman P., 2000, Journal of Artificial Societies and Social Simulation, V3, P2
+   Diani Mario., 1995, GREEN NETWORKS STRUC
+   Dutta B, 2005, J ECON THEORY, V122, P143, DOI 10.1016/j.jet.2004.05.001
+   Ebenhöh E, 2008, RATION SOC, V20, P227, DOI 10.1177/1043463108089546
+   Eguíluz VM, 2005, AM J SOCIOL, V110, P977, DOI 10.1086/428716
+   Fischbacher U, 2007, EXP ECON, V10, P171, DOI 10.1007/s10683-006-9159-4
+   Flache A, 2001, RATION SOC, V13, P304
+   Fowler JH, 2010, P NATL ACAD SCI USA, V107, P5334, DOI 10.1073/pnas.0913149107
+   GOULD RV, 1993, AM SOCIOL REV, V58, P182, DOI 10.2307/2095965
+   Greiner B, 2005, J ECON PSYCHOL, V26, P711, DOI 10.1016/j.joep.2004.04.003
+   Grimm V, 2009, GAME ECON BEHAV, V66, P202, DOI 10.1016/j.geb.2008.05.005
+   Güth W, 2007, J PUBLIC ECON, V91, P1023, DOI 10.1016/j.jpubeco.2006.10.007
+   Gulati R., 1995, ADM SCI Q, V43, P58
+   Gürerk Ö, 2006, SCIENCE, V312, P108, DOI 10.1126/science.1123633
+   Hales D, 2001, LECT NOTES ARTIF INT, V1979, P157
+   Hammond RA, 2006, THEOR POPUL BIOL, V69, P333, DOI 10.1016/j.tpb.2005.12.002
+   Haruvy E, 2006, J ECON DYN CONTROL, V30, P457, DOI 10.1016/j.jedc.2005.02.002
+   Hauk E., 2001, Computational Economics, V18, P65, DOI 10.1023/A:1013866527989
+   Helbing D, 2008, ADV COMPLEX SYST, V11, P641, DOI 10.1142/S0219525908001866
+   Jackson MO, 1996, J ECON THEORY, V71, P44, DOI 10.1006/jeth.1996.0108
+   Jackson MO, 2002, J ECON THEORY, V106, P265, DOI 10.1006/jeth.2001.2903
+   Jager W, 2002, COMPLEXITY AND ECOSYSTEM MANAGEMENT, P75
+   Janssen MA, 2006, ECOL SOC, V11
+   Johnson ND, 2011, J ECON PSYCHOL, V32, P865, DOI 10.1016/j.joep.2011.05.007
+   Kagel JH, 2000, Q J ECON, V115, P201, DOI 10.1162/003355300554719
+   Keser C, 2003, IBM SYST J, V42, P498, DOI 10.1147/sj.423.0498
+   Kim JW, 2010, JASSS-J ARTIF SOC S, V13, DOI 10.18564/jasss.1584
+   King-Casas B, 2005, SCIENCE, V308, P78, DOI 10.1126/science.1108062
+   Knoch D, 2009, P NATL ACAD SCI USA, V106, P20895, DOI 10.1073/pnas.0911619106
+   KOLLOCK P, 1994, AM J SOCIOL, V100, P313, DOI 10.1086/230539
+   MACY MW, 1991, AM SOCIOL REV, V56, P730, DOI 10.2307/2096252
+   Mark N, 1998, AM SOCIOL REV, V63, P309, DOI 10.2307/2657552
+   McCabe KA, 2000, P NATL ACAD SCI USA, V97, P3777, DOI 10.1073/pnas.040577397
+   Merlone U., 2004, JASSS-J ARTIF SOC S, V7, P2
+   Molm LD, 2000, AM J SOCIOL, V105, P1396, DOI 10.1086/210434
+   North DC, 2005, PRINC ECON HIST W WO, P1
+   Ortmann A., 2000, Exp Econ, V3, P81, DOI [10.1023/A:1009946125005, DOI 10.1023/A:1009946125005]
+   Ostrom Elinor., 2003, TRUST RECIPROCITY
+   Page T, 2005, ECON J, V115, P1032, DOI 10.1111/j.1468-0297.2005.01031.x
+   Podolny JM, 2001, AM J SOCIOL, V107, P33, DOI 10.1086/323038
+   Pujol J.M., 2005, Journal of Artificial Societies and Social Simulation, V8, P12, DOI DOI 10.1080/14792779443000049
+   Rand DG, 2011, P NATL ACAD SCI USA, V108, P19193, DOI 10.1073/pnas.1108243108
+   Rauhut H, 2009, JASSS-J ARTIF SOC S, V12
+   Riolo RL, 2001, NATURE, V414, P441, DOI 10.1038/35106555
+   Rouchier J., 2003, Journal of Artificial Societies and social simulation, V6, P7
+   Santos FC, 2011, J THEOR BIOL, V274, P30, DOI 10.1016/j.jtbi.2011.01.004
+   Skyrms B, 2000, P NATL ACAD SCI USA, V97, P9340, DOI 10.1073/pnas.97.16.9340
+   Slonim R, 2008, EXP ECON, V11, P134, DOI 10.1007/s10683-007-9162-4
+   Suri S, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0016836
+   Takacs K., 2010, CEU POLITICAL SCI J, V5, P316
+   Takás K, 2008, SOC NETWORKS, V30, P177, DOI 10.1016/j.socnet.2008.02.003
+   Tversky A., 2000, CHOICES VALUES FRAME
+   Vincent B USKENS., 2000, Analyse Kritic, V22, P44
+   Watts DJ, 1999, AM J SOCIOL, V105, P493, DOI 10.1086/210318
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   White H.C., 2004, MARKETS NETWORKS SOC
+   Yamagishi T, 1998, AM J SOCIOL, V104, P165, DOI 10.1086/210005
+   Yen ST, 2002, APPL ECON LETT, V9, P837, DOI 10.1080/13504850210148189
+NR 92
+TC 59
+Z9 61
+U1 1
+U2 75
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD OCT
+PY 2012
+VL 34
+IS 4
+BP 481
+EP 492
+DI 10.1016/j.socnet.2012.03.001
+PG 12
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 067OD
+UT WOS:000313304100012
+OA Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Bellotti, E
+AF Bellotti, Elisa
+TI Getting funded. Multi-level network of physicists in Italy
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Sociology of science; Multi-level networks; Bipartite networks;
+   Meso-sociology; Fish/pond; Research funding
+AB Much of the work in the sociology of science observes scientific communities from a micro perspective, focusing on interactions in laboratories in order to uncover the impact of social and cultural norms in the everyday production of scientific results. Other studies approach the topic from a macro perspective, analysing scientific organizations and the reciprocal influence they have with wider society, or uncovering the invisible colleges that become apparent through the analysis of co-authorship and citations' patterns. Less attention has been paid to the meso level of interaction within and between scientists and the institutions they work in. This paper extends the structural approach of Lazega et al. (2008. Catching up with big fish in the big pond? Multi-level network analysis through linked design. Social Networks 30, 157-176) and analyses the local system of public funding to physics in Italy using bipartite networks. Data cover 10 years of funding of Projects of National Interest (Prin) from the Italian Ministry of University and Research. The micro level (collaborations between scientists), macro level (collaborations between institutions) and meso level (the combination of network measures at a micro and macro level) of interactions are independently analysed, and results are used to model the total amount of money physicists have received over the 10 years against the variables that meaningfully describe the network structure of collaborations. Results show that in order to be successfully funded what counts more than being a big fish (a scientist with a lot of connections) working in a big pond (a large University), is being in a brokerage position interacting over the years with different research groups. (C) 2011 Elsevier B.V. All rights reserved.
+C1 [Bellotti, Elisa] Univ Manchester, Mitchell Ctr Social Network Anal, Manchester M13 9PL, Lancs, England.
+   [Bellotti, Elisa] Univ Manchester, Sustainable Consumpt Inst, Manchester M13 9PL, Lancs, England.
+C3 University of Manchester; University of Manchester
+RP Bellotti, E (corresponding author), Arthur Lewis Bldg,Bridgeford St, Manchester M13 9PL, Lancs, England.
+EM Elisa.Bellotti@manchester.ac.uk
+OI Bellotti, Elisa/0000-0002-6721-3671
+CR [Anonymous], 1972, INVISIBLE COLL
+   [Anonymous], RATIONALITY RELATIVI
+   Bellotti E., 2008, CAMPO SOCIALE FISICA
+   Bellotti E, 2011, PROCD SOC BEHV, V10, DOI 10.1016/j.sbspro.2011.01.018
+   Beltrame L., 2008, CAMPO SOCIALE FISICA
+   Bourdieu P., 2004, An invitation to reflexive sociology
+   BREIGER RL, 1974, SOC FORCES, V53, P181, DOI 10.2307/2576011
+   Burt R.S., 2007, Brokerage and closure: An introduction to social capital
+   BURT RS, 1978, SOC NETWORKS, V1, P105, DOI 10.1016/0378-8733(78)90017-5
+   Callon M., 2001, SOCIOLOGIES TRAVAIL
+   Cambrosio A, 2004, SOC STUD SCI, V34, P325, DOI 10.1177/0306312704043767
+   Collins Harry M., 1985, 19851992. Changing Order: Replication and Induction in Scientific Practice
+   FARARO TJ, 1984, SOC NETWORKS, V6, P141, DOI 10.1016/0378-8733(84)90015-7
+   Gilbert GN., 1984, OPENING PANDORAS BOX
+   Hedström P, 2000, AM J SOCIOL, V106, P145, DOI 10.1086/303109
+   HUMMON NP, 1993, SOC NETWORKS, V15, P71, DOI 10.1016/0378-8733(93)90022-D
+   HUMMON NP, 1989, SOC NETWORKS, V11, P39, DOI 10.1016/0378-8733(89)90017-8
+   Ippolito Felice, 1974, La questione energetica: Dieci anni perduti 1963/1973
+   Knorr-Cetina Karin., 1992, Science as Practice and Culture
+   KRACKHARDT D, 1988, SOC PSYCHOL QUART, V51, P123, DOI 10.2307/2786835
+   Kuhn TS., 1962, STRUCTURE SCI REVOLU
+   Latour, 2005, Reassembling the Social: An Introduction to Actor-Network Theory
+   Latour, 1987, SCI ACTION
+   Lazega E, 2008, SOC NETWORKS, V30, P159, DOI 10.1016/j.socnet.2008.02.001
+   Leenders RTAJ, 2002, SOC NETWORKS, V24, P21, DOI 10.1016/S0378-8733(01)00049-1
+   Liberman S, 1998, SOC NETWORKS, V20, P239, DOI 10.1016/S0378-8733(98)00003-3
+   LIEVROUW LA, 1987, SOC NETWORKS, V9, P217, DOI 10.1016/0378-8733(87)90021-9
+   Merton R.K., 1949, On sociological theories of the middle range [1949]
+   Parcel T.L., 1991, SOCIOLOGICAL METHODO
+   Price DJDS., 1963, Little Science, Big Science
+   Volonte P., 2008, CAMPO SOCIALE FISICA
+   Whittle A, 2008, ORGAN STUD, V29, P611, DOI 10.1177/0170840607082223
+   WILSON TP, 1982, SOC NETWORKS, V4, P105, DOI 10.1016/0378-8733(82)90028-4
+NR 33
+TC 38
+Z9 45
+U1 1
+U2 34
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD MAY
+PY 2012
+VL 34
+IS 2
+BP 215
+EP 229
+DI 10.1016/j.socnet.2011.12.002
+PG 15
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 920HJ
+UT WOS:000302394600007
+OA Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Volkema, R
+   Rivers, C
+AF Volkema, Roger
+   Rivers, Cheryl
+TI Beyond Frogs and Scorpions: A Risk-Based Framework for Understanding
+   Negotiating Counterparts' Ethical Motivations
+SO NEGOTIATION JOURNAL
+LA English
+DT Review
+DE negotiation; negotiation ethics; counterpart; unethical; motivation;
+   risks; tactics; neutralize
+ID UNETHICAL BARGAINING TACTICS; CROSS-CULTURAL DIFFERENCES;
+   DECISION-MAKING; BUSINESS NEGOTIATIONS; INFORMATION EXCHANGE;
+   SITUATIONAL FACTORS; DECEPTION; BEHAVIOR; TRUST; IMPACT
+AB Managing the flow of valid information is one of the biggest challenges that negotiators face. The high incidence of questionable or unethical negotiating tactics has been well documented, but ways of dealing with the deceptive practices of a counterpart have received comparatively little attention. In this article, we suggest that, in addition to avoidance and confrontation, negotiators typically attempt to manage the unethical tendencies of their counterparts through twelve neutralizing approaches. These approaches are based on four types of perceived risk that counterparts often consider when deciding whether to use ethically ambiguous negotiation tactics: risks to immediate or short-term goals/tasks; risks to immediate or short-term relationship(s); risks to future or long-term goals/tasks; and, risks to future or long-term relationships. By applying expectancy theory, resource dependency theory, social identity theory, and social network theory to this framework, we have developed propositions related to these twelve neutralizing approaches. We also discuss the opportunities and challenges related to evaluating these propositions in future research.
+C1 [Volkema, Roger] Pontificia Univ Catolica Rio de Janeiro, IAG, Rio De Janeiro, Brazil.
+   [Rivers, Cheryl] Victoria Univ Wellington, Sch Mkt & Int Business, Wellington, New Zealand.
+C3 Pontificia Universidade Catolica do Rio de Janeiro; Victoria University
+   Wellington
+RP Volkema, R (corresponding author), Pontificia Univ Catolica Rio de Janeiro, IAG, Rio De Janeiro, Brazil.
+EM volkema@iag.puc-rio.br; cheryl.rivers@vuw.ac.nz
+CR Ackman W., 2008, C ROSE SHOW
+   Adler RS, 2007, MIT SLOAN MANAGE REV, V48, P69
+   Anderson D.E., 1999, SOCIAL CONTEXT NONVE
+   [Anonymous], NEGOTIATION
+   [Anonymous], CURRENT ISSUES COGNI
+   [Anonymous], 1975, The social psychology of bargaining and negotiation
+   [Anonymous], 2003, Six Degrees: The Science of a Connected Age
+   Aquino K, 1998, INT J CONFL MANAGE, V9, P195, DOI 10.1108/eb022809
+   Aquino K, 2005, J ORGAN BEHAV, V26, P661, DOI 10.1002/job.332
+   AXELROD R, 1981, SCIENCE, V211, P1390, DOI 10.1126/science.7466396
+   Banas JosephT., 2002, International Negotiation, V7, P235, DOI DOI 10.1163/138234002761384981
+   BENYOAV O, 1984, J EXP SOC PSYCHOL, V20, P323, DOI 10.1016/0022-1031(84)90029-5
+   BLUEN SD, 1990, J ORGAN BEHAV, V11, P105, DOI 10.1002/job.4030110203
+   Boles TL, 2000, ORGAN BEHAV HUM DEC, V83, P235, DOI 10.1006/obhd.2000.2908
+   BOMMER M, 1987, J BUS ETHICS, V6, P265, DOI 10.1007/BF00382936
+   Brass DJ, 1998, ACAD MANAGE REV, V23, P14, DOI 10.2307/259097
+   BRODT SE, 1994, ORGAN BEHAV HUM DEC, V58, P172, DOI 10.1006/obhd.1994.1033
+   Buelens M, 2004, J BUS PSYCHOL, V19, P23, DOI 10.1023/B:JOBU.0000040270.10433.54
+   Butler JK, 1999, GROUP ORGAN MANAGE, V24, P217, DOI 10.1177/1059601199242005
+   Cialdini Robert B, 2007, Influence. Influence At Work
+   Cohen H., 1982, You can negotiate anything: The world's best negotiator tells you how to get what you want
+   Cohen TR, 2010, J BUS ETHICS, V94, P569, DOI 10.1007/s10551-009-0338-z
+   Comeau DJ, 2005, PERS REV, V34, P310, DOI 10.1108/00483480510591453
+   CROTT H, 1980, EUR J SOC PSYCHOL, V10, P149, DOI 10.1002/ejsp.2420100204
+   Curhan JR, 2008, ORGAN BEHAV HUM DEC, V107, P192, DOI 10.1016/j.obhdp.2008.02.009
+   DANIELS V, 1967, J EXP SOC PSYCHOL, V3, P47, DOI 10.1016/0022-1031(67)90037-6
+   De Cremer D, 2010, BUS ETHICS Q, V20, P107, DOI 10.5840/beq20102018
+   De Dreu CKW, 2003, ORGAN BEHAV HUM DEC, V91, P280, DOI 10.1016/S0749-5978(03)00022-0
+   Dees J., 1991, Business Ethics Quaterly, V1, P135, DOI [10.1017/S1052150X0000885X, DOI 10.1017/S1052150X0000885X]
+   DeRue DS, 2009, J APPL PSYCHOL, V94, P1032, DOI 10.1037/a0014965
+   Dey PK, 2008, INT J HEALTHC TECHNO, V9, P392, DOI 10.1504/IJHTM.2008.019675
+   Di Cagno D, 2010, J ECON BEHAV ORGAN, V75, P156, DOI 10.1016/j.jebo.2010.04.003
+   Ellis P, 2000, J INT BUS STUD, V31, P443, DOI 10.1057/palgrave.jibs.8490916
+   Faber L., 2001, COLUMBIA JOURNALISM, V39, P28
+   Ferrin DL, 2008, ORGAN BEHAV HUM DEC, V107, P161, DOI 10.1016/j.obhdp.2008.02.012
+   Fitzsimons GM, 2010, J PERS SOC PSYCHOL, V98, P535, DOI 10.1037/a0018581
+   Fudge RS, 1999, J BUS ETHICS, V18, P295, DOI 10.1023/A:1005801022353
+   Fulmer IS, 2009, J BUS ETHICS, V88, P691, DOI 10.1007/s10551-008-9975-x
+   Graebner ME, 2009, ACAD MANAGE J, V52, P435, DOI 10.5465/AMJ.2009.41330413
+   Gurley K., 2007, Journal of Legal, Ethical, Regulatory Issues, V10, P91
+   Hargie O, 2008, COMMUN RES, V35, P792, DOI 10.1177/0093650208324270
+   HEGARTY WH, 1979, J APPL PSYCHOL, V64, P331
+   Henderson MD, 2006, J PERS SOC PSYCHOL, V91, P712, DOI 10.1037/0022-3514.91.4.712
+   Hite JM, 2005, ENTREP THEORY PRACT, V29, P113, DOI 10.1111/j.1540-6520.2005.00072.x
+   Huybrecht V., 2010, STRATEGIC COMMUNICAT, V14, P28
+   Jack R., 1989, MORAL VISON PROFESSI
+   Jones GE, 1996, J BUS ETHICS, V15, P511, DOI 10.1007/BF00381927
+   KABANOFF B, 1991, ACAD MANAGE REV, V16, P416, DOI 10.2307/258869
+   Keil M, 2010, DECISION SCI, V41, P787, DOI 10.1111/j.1540-5915.2010.00288.x
+   Kern MC, 2009, PSYCHOL SCI, V20, P378, DOI 10.1111/j.1467-9280.2009.02296.x
+   Kidder DL, 2005, J BUS ETHICS, V57, P389, DOI 10.1007/s10551-004-6713-x
+   Kim PH, 2005, ACAD MANAGE REV, V30, P799, DOI 10.2307/20159169
+   Koning L, 2010, BUS ETHICS Q, V20, P57, DOI 10.5840/beq20102015
+   Kray L. J., 2008, NEGOTIATION CONFLICT, V1, P135
+   Lee GK, 2007, STRATEGIC MANAGE J, V28, P17, DOI 10.1002/smj.566
+   Lewicki R., 2009, Negotiation
+   Lewicki R.J., 1983, NEGOTIATING ORG, P68
+   Lewicki RJ, 1998, J BUS ETHICS, V17, P665
+   Lewin K., 1936, DYNAMIC THEORY PERS
+   Lewis M., 2010, LIARS POKER
+   Logsdon JM, 2009, J BUS ETHICS, V90, P537, DOI 10.1007/s10551-010-0605-z
+   London M, 1999, GROUP ORGAN MANAGE, V24, P5, DOI 10.1177/1059601199241002
+   Lount RB, 2008, PERS SOC PSYCHOL B, V34, P1601, DOI 10.1177/0146167208324512
+   Luce RD, 2000, UTILITY GAINS LOSSES
+   Ma ZZ, 2010, J BUS ETHICS, V91, P123, DOI 10.1007/s10551-010-0571-5
+   Malshe A, 2010, J BUS-BUS MARK, V17, P173, DOI 10.1080/10517120902762518
+   Meltsner M., 2004, WHATS FAIR ETHICS NE
+   Menkel-Meadow C., 2006, Mediation: practice, policy and ethics
+   Murnighan JK, 1999, INT J CONFL MANAGE, V10, P313, DOI 10.1108/eb022828
+   Nas T.F., 1996, COST BENEFIT ANAL TH
+   O'Fallon MJ, 2005, J BUS ETHICS, V59, P375, DOI 10.1007/s10551-005-2929-7
+   OConnor KM, 1997, PERS SOC PSYCHOL B, V23, P504, DOI 10.1177/0146167297235006
+   Ogilvie JR, 2008, INT J CONFL MANAGE, V19, P132, DOI 10.1108/10444060810856076
+   Ojasalo J., 2008, The Business Review, Cambridge, V11, P91
+   Okhuysen GA, 2003, ORGAN BEHAV HUM DEC, V91, P269, DOI 10.1016/S0749-5978(03)00023-2
+   Olekalns M, 1996, ORGAN BEHAV HUM DEC, V68, P68, DOI 10.1006/obhd.1996.0090
+   Olekalns M, 2007, J BUS ETHICS, V76, P225, DOI 10.1007/s10551-006-9279-y
+   Olekalns M, 2009, J BUS ETHICS, V85, P347, DOI 10.1007/s10551-008-9774-4
+   Patton C, 2010, J BUS RES, V63, P809, DOI 10.1016/j.jbusres.2009.07.002
+   Perry D., 2005, J AGRIC APPL ECON, V37, P1
+   Perry GM, 2005, J BUS ETHICS, V62, P25, DOI 10.1007/s10551-005-8177-z
+   Peterson E, 1997, ORGAN BEHAV HUM DEC, V72, P364, DOI 10.1006/obhd.1997.2747
+   PINKLEY RL, 1994, ORGAN BEHAV HUM DEC, V57, P97, DOI 10.1006/obhd.1994.1006
+   Pruitt Dean G., 1994, SOCIAL CONFLICT ESCA
+   RAHIM MA, 1983, ACAD MANAGE J, V26, P368, DOI 10.5465/255985
+   Reardon K. K., 2004, SKILLED NEGOTIATOR M
+   Rivers C, 2009, THUNDERBIRD INT BUS, V51, P473, DOI 10.1002/tie.20284
+   Rivers C, 2007, INT NEGOT, V12, P1, DOI 10.1163/138234007X191894
+   Robertson DC, 2001, BUS ETHICS Q, V11, P455, DOI 10.2307/3857849
+   Robinson RJ, 2000, J ORGAN BEHAV, V21, P649, DOI 10.1002/1099-1379(200009)21:6<649::AID-JOB45>3.0.CO;2-#
+   ROTH AE, 1982, ECONOMETRICA, V50, P1123, DOI 10.2307/1911866
+   RUBIN JZ, 1988, NEGOTIATION J, V4, P395, DOI 10.1007/BF01000775
+   Salacuse JW, 1999, GROUP DECIS NEGOT, V8, P217, DOI 10.1023/A:1008660330550
+   SCHNEER JA, 1987, HUM RELAT, V40, P575, DOI 10.1177/001872678704000903
+   Schweitzer ME, 2006, ORGAN BEHAV HUM DEC, V101, P1, DOI 10.1016/j.obhdp.2006.05.005
+   Schweitzer ME, 1999, INT J CONFL MANAGE, V10, P225, DOI 10.1108/eb022825
+   Schweitzer ME, 2004, ACAD MANAGE J, V47, P422, DOI [10.2307/20159591, 10.5465/20159591]
+   Shapiro R. M., 2005, BULLIES TYRANTS IMPO
+   Shell G. R., 2004, WHATS FAIR ETHICS NE
+   SHELL GR, 1991, SLOAN MANAGE REV, V32, P93
+   Sivunen A, 2006, GROUP DECIS NEGOT, V15, P345, DOI 10.1007/s10726-006-9046-6
+   Smith NC, 2007, BUS ETHICS Q, V17, P633, DOI 10.5840/beq20071743
+   Steel P, 2006, ACAD MANAGE REV, V31, P889, DOI 10.5465/AMR.2006.22527462
+   Steinel W, 2004, J PERS SOC PSYCHOL, V86, P419, DOI 10.1037/0022-3514.86.3.419
+   Taylor EZ, 2010, J BUS ETHICS, V93, P21, DOI 10.1007/s10551-009-0179-9
+   Tenbrunsel AE, 2008, ACAD MANAG ANN, V2, P545, DOI 10.1080/19416520802211677
+   Thomas K.W., 1976, HDB IND ORG PSYCHOL, V2, P889
+   Thompson L, 2002, J SOC ISSUES, V58, P109, DOI 10.1111/1540-4560.00251
+   Thompson L., 1998, MIND HEART NEGOTIATO
+   THOMPSON LL, 1991, J EXP SOC PSYCHOL, V27, P161, DOI 10.1016/0022-1031(91)90020-7
+   Tinsley CH, 2002, ORGAN BEHAV HUM DEC, V88, P621, DOI 10.1016/S0749-5978(02)00005-5
+   TRAWICK IF, 1988, J BUS RES, V17, P299, DOI 10.1016/0148-2963(88)90061-6
+   Treviño LK, 2006, J MANAGE, V32, P951, DOI 10.1177/0149206306294258
+   TREVINO LK, 1990, J APPL PSYCHOL, V75, P378, DOI 10.1037/0021-9010.75.4.378
+   Trope Y, 2003, PSYCHOL REV, V110, P403, DOI 10.1037/0033-295X.110.3.403
+   TVERSKY A, 1981, SCIENCE, V211, P453, DOI 10.1126/science.7455683
+   Van Kenhove P, 2003, J BUS ETHICS, V44, P261, DOI 10.1023/A:1023678507088
+   Volkema RJ, 2002, J BUS ETHICS, V36, P381, DOI 10.1023/A:1014496017565
+   Volkema RJ, 1999, J BUS RES, V45, P59, DOI 10.1016/S0148-2963(98)00056-3
+   Volkema R, 2010, NEGOTIATION J, V26, P263, DOI 10.1111/j.1571-9979.2010.00273.x
+   Volkema RJ, 2011, IEEE T PROF COMMUN, V54, P299, DOI 10.1109/TPC.2011.2161804
+   Vrij A., 2000, Detecting Lies and Deceit
+   Vroom V. H., 1964, WORK MOTIVATION
+   Wetlaufer G. B., 2004, WHATS FAIR ETHICS NE
+   White J. J., 2004, WHATS FAIR ETHICS NE
+   Williams M, 2001, ACAD MANAGE REV, V26, P377, DOI 10.5465/AMR.2001.4845794
+   Wong SS, 2010, ACAD MANAGE J, V53, P129, DOI 10.5465/AMJ.2010.48037265
+   Yuki M, 2005, PERS SOC PSYCHOL B, V31, P48, DOI 10.1177/0146167204271305
+   Zarkada-Fraser A, 2001, J BUS IND MARK, V16, P274, DOI 10.1108/EUM0000000005501
+   Zhang Y, 2010, ACAD MANAGE J, V53, P743, DOI 10.5465/AMJ.2010.52814593
+NR 130
+TC 8
+Z9 11
+U1 0
+U2 33
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0748-4526
+EI 1571-9979
+J9 NEGOTIATION J
+JI Negot. J.
+PD OCT
+PY 2012
+VL 28
+IS 4
+BP 379
+EP 405
+DI 10.1111/j.1571-9979.2012.00348.x
+PG 27
+WC Management; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Business & Economics; Social Sciences - Other Topics
+GA 011TZ
+UT WOS:000309189400003
+OA Bronze
+DA 2024-11-22
+ER
+
+PT J
+AU Daraganova, G
+   Pattison, P
+   Koskinen, J
+   Mitchell, B
+   Bill, A
+   Watts, M
+   Baum, S
+AF Daraganova, Galina
+   Pattison, Pip
+   Koskinen, Johan
+   Mitchell, Bill
+   Bill, Anthea
+   Watts, Martin
+   Baum, Scott
+TI Networks and geography: Modelling community network structures as the
+   outcome of both spatial and network processes
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Exponential random graph models; Endogenous network processes;
+   Clustering; Distance; Spatial processes
+ID SMALL-WORLD; SOCIAL NETWORKS; COMMUNICATION; SPACE
+AB This paper focuses on how to extend the exponential random graph models to take into account the geographical embeddedness of individuals in modelling social networks. We develop a hierarchical set of nested models for spatially embedded social networks, in which, following Butts (2002), an interaction function between tie probability and Euclidean distance between nodes is introduced. The models are illustrated by an empirical example from a study of the role of social networks in understanding spatial clustering in unemployment in Australia. The analysis suggests that a spatial effect cannot solely explain the emergence of organised network structure and it is necessary to include both spatial and endogenous network effects in the model. (C) 2010 Elsevier B.V. All rights reserved.
+C1 [Daraganova, Galina; Pattison, Pip] Univ Melbourne, Sch Behav Sci, Melbourne, Vic 3010, Australia.
+   [Koskinen, Johan] Univ Oxford, Nuffield Coll, Oxford OX1 2JD, England.
+   [Mitchell, Bill; Bill, Anthea; Watts, Martin] Univ Newcastle, Callaghan, NSW 2308, Australia.
+   [Baum, Scott] Griffith Univ, Nathan, Qld 4111, Australia.
+C3 University of Melbourne; University of Oxford; University of Newcastle;
+   Griffith University
+RP Daraganova, G (corresponding author), Univ Melbourne, Sch Behav Sci, Melbourne, Vic 3010, Australia.
+EM galina.daraganova@gmail.com
+RI Watts, Martin/G-7218-2013
+OI Baum, Scott/0000-0003-1711-2087; Pattison, Philippa/0000-0001-9626-2897;
+   Mitchell, William/0000-0002-5573-7697; WATTS,
+   Martin/0000-0003-4724-964X; koskinen, johan/0000-0002-6860-325X
+CR [Anonymous], J ROYAL STAT SOC B
+   [Anonymous], 2010, Statistical Methodology, DOI [DOI 10.1016/J.STAMET.2009.09.007, 10.1016/j.stamet.2009.09.007]
+   [Anonymous], 2005, Models and methods in social network analysis: Structural analysis in the social sciences
+   [Anonymous], 2002, J. Social Struct
+   Axhausen K.W., 2006, MOVING NETS PHYS SOC
+   BERNARD HR, 1988, ETHNOLOGY, V27, P155, DOI 10.2307/3773626
+   BESAG J, 1974, J ROY STAT SOC B MET, V36, P192
+   BLAKE RR, 1956, SOCIOMETRY, V19, P133, DOI 10.2307/2786123
+   Brown L.A., 1970, ENVIRON PLANN, V2, P443
+   Butts C.T., 2011, SPACE STRUCTURE METH
+   Butts C.T., 2000, Spatial Models of Large-Scale Interpersonal Networks
+   Butts CT, 2007, J MATH SOCIOL, V31, P121, DOI 10.1080/00222500601188056
+   Butts CT, 2003, DYNAMIC SOCIAL NETWORK MODELING AND ANALYSIS, P313
+   Caplow T, 1950, AM SOCIOL REV, V15, P357, DOI 10.2307/2087177
+   CARLEY K, 1991, KNOWLEDGE, V12, P406, DOI 10.1177/107554709101200405
+   Carley K., 2000, SPATIAL MODELS UNPUB
+   CARROTHERS GAP, 1956, J AM I PLANNERS, V22, P94, DOI 10.1080/01944365608979229
+   Daraganova G., 2008, THESIS U MELBOURNE
+   Dodds PS, 2003, SCIENCE, V301, P827, DOI 10.1126/science.1081058
+   Erdos P., 1959, PUBL MATH-DEBRECEN, V6, P290
+   Faust K, 1999, SOC NETWORKS, V21, P311
+   Festinger L., 1950, SOCIAL PRESSURES INF, V30, P384, DOI 10.2307/3348388
+   FRANK O, 1986, J AM STAT ASSOC, V81, P832, DOI 10.2307/2289017
+   Franks Ove., 1994, J OFF STAT, V10, P53
+   FREEMAN LC, 1976, DEMOGRAPHY, V13, P571, DOI 10.2307/2060511
+   Goodman L.A., 1961, The Annals of Mathematical Statistics, V32, P148, DOI [DOI 10.1214/AOMS/1177705148, 10.1214/aoms/1177705148]
+   Goodreau S., 2007, SOCIAL NETWORKS, V29
+   Handcock MS, 2007, J ROY STAT SOC A STA, V170, P301, DOI 10.1111/j.1467-985X.2007.00471.x
+   Handcock MS, 2010, ANN APPL STAT, V4, P5, DOI 10.1214/08-AOAS221
+   Hoff PD, 2002, J AM STAT ASSOC, V97, P1090, DOI 10.1198/016214502388618906
+   Hunter DR, 2008, J AM STAT ASSOC, V103, P248, DOI 10.1198/016214507000000446
+   Hunter DR, 2006, J COMPUT GRAPH STAT, V15, P565, DOI 10.1198/106186006X133069
+   IRWIN MD, 1992, SOC FORCES, V71, P17, DOI 10.2307/2579964
+   KILLWORTH PD, 1978, SOC NETWORKS, V1, P159, DOI 10.1016/0378-8733(78)90018-7
+   Kleinberg JM, 2000, NATURE, V406, P845, DOI 10.1038/35022643
+   Korte C., 1970, J PERSONALITY SOCIAL, V15
+   Larsen Jonas., 2006, MOBILITIES NETWORKS, DOI DOI 10.1016/j.gloenvcha.2006.05.001
+   LATANE B, 1995, PERS SOC PSYCHOL B, V21, P795, DOI 10.1177/0146167295218002
+   Liben-Nowell D, 2005, P NATL ACAD SCI USA, V102, P11623, DOI 10.1073/pnas.0503018102
+   Merton R., 1948, Current trends in social psychology, P163
+   MILGRAM S, 1967, PSYCHOL TODAY, V1, P61
+   Mok D, 2007, SOC NETWORKS, V29, P430, DOI 10.1016/j.socnet.2007.01.009
+   MORRILL RL, 1963, PAPERS P REGIONAL SC, V11, P75
+   Pattison P, 2002, SOCIOL METHODOL, V32, P301, DOI 10.1111/1467-9531.00119
+   Pattison P., 2008, Handbook of probability: Theory and applications, P291
+   Pattison P.E., CONDITIONAL ES UNPUB
+   Preciado P, 2012, SOC NETWORKS, V34, P18, DOI 10.1016/j.socnet.2011.01.002
+   Robins G, 2005, AM J SOCIOL, V110, P894, DOI 10.1086/427322
+   Robins G, 2001, PSYCHOMETRIKA, V66, P161, DOI 10.1007/BF02294834
+   Snijders TAB, 2006, SOCIOL METHODOL, V36, P99, DOI 10.1111/j.1467-9531.2006.00176.x
+   Sommer R., 1969, PERSONAL SPACE
+   TRAVERS J, 1969, SOCIOMETRY, V32, P425, DOI 10.2307/2786545
+   WANG P, 2008, PNET PROGRAM SIMULAT
+   Wasserman S, 1996, PSYCHOMETRIKA, V61, P401, DOI 10.1007/BF02294547
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Wellman B, 1996, SOC NETWORKS, V18, P347, DOI 10.1016/0378-8733(95)00282-0
+   Whyte WilliamHollingsworth., 1957, ORG MAN
+   Wong LH, 2006, PHYSICA A, V360, P99, DOI 10.1016/j.physa.2005.04.029
+NR 58
+TC 94
+Z9 112
+U1 2
+U2 45
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JAN
+PY 2012
+VL 34
+IS 1
+SI SI
+BP 6
+EP 17
+DI 10.1016/j.socnet.2010.12.001
+PG 12
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 890FX
+UT WOS:000300131600002
+DA 2024-11-22
+ER
+
+PT J
+AU Bechmann, A
+AF Bechmann, Anja
+TI TOWARDS CROSS-PLATFORM VALUE CREATION Four patterns of circulation and
+   control
+SO INFORMATION COMMUNICATION & SOCIETY
+LA English
+DT Article
+DE computer-mediated communication; media studies; economics;
+   organizational studies; social networking
+AB Old media companies are being challenged by new structures of relating content to other 'value' creators, both within the controlled channels of the company and outside the companies' own channels. On the basis of two ethnographic case studies of cross-platform production at a commercial regional newspaper ( now media house) and a non-commercial public service broadcaster, the article identifies four main content flow structures that form part of the strategic challenges of the companies: Create and Play, in which the company maintains control and ownership over the content; Discover and Link, in which the company releases the content from its context, but retains ownership; Fetch and Distribute, in which the company is deprived of control and ownership over the content; and finally Open and Play, in which the users, in various ways, produce the content and the communications framework. The content flow structures constitute a common basis for cross-platform strategic analysis across non-commercial and commercial old media companies, and various understandings of 'value' and change related to these structures are discussed in the article.
+C1 [Bechmann, Anja] Aarhus Univ, Dept Informat & Media Studies, DK-8200 Aarhus, Denmark.
+C3 Aarhus University
+RP Bechmann, A (corresponding author), Aarhus Univ, Dept Informat & Media Studies, Helsingforsgade 14, DK-8200 Aarhus, Denmark.
+EM anjabechmann@gmail.com
+CR Anderson C., 2009, FREE FUTURE RADICAL
+   [Anonymous], 2007, The Cult of the Amateur-How Today's Internet is Killing our Culture
+   [Anonymous], 2005, Communications of the Association for Information Systems, DOI DOI 10.17705/1CAIS.01601
+   [Anonymous], NO LIGHTS
+   [Anonymous], 2004, COMP MEDIA SYSTEMS 3, DOI DOI 10.1007/s10584-015-1529-5
+   Arsenault Amelia., 2008, International Journal of Communication, V2, P707
+   Aviles J.A. G., 2008, Convergence, V14, P221, DOI [10.1177/1354856507087945, DOI 10.1177/1354856507087945]
+   Bechmann A., 2010, UNDERHOLDENDE TV, P255
+   Bechmann A., 2009, THESIS AARHUS U AARH
+   Benkler Y., 2006, WEALTH NETWORK SOC
+   Berman S.J., 2007, Strategy Leadership, V35, P23, DOI [10.1108/10878570710761354, DOI 10.1108/10878570710761354]
+   Boczkowski PJ, 2004, INSIDE TECHNOL, P1
+   Born Georgina., 2004, Uncertain Vision: Birt
+   Boyd D., 2008, Taken Out of Context: American Teen Sociality in Networked Publics, P51
+   Bruns A, 2012, INFORM COMMUN SOC, V15, P815, DOI 10.1080/1369118X.2012.680482
+   Bruns Axel., 2008, BLOGS WIKIPEDIA 2 LI
+   Burgess Jean., 2009, YOUTUBE ONLINE VIDEO
+   Committee of Ministers, 2007, RECOMMENDATION REC 2
+   Dailey L, 2005, ATL J COMMUN, V13, P150, DOI 10.1207/s15456889ajc1303_2
+   Danish Ministry of Culture, 2011, LBK DAN MIN CULT
+   Deuze M., 2004, JOURNALISM STUD, V5, P139, DOI [10.1080/1461670042000211131, https://doi.org/10.1080/1461670042000211131, DOI 10.1080/1461670042000211131]
+   DR, 2006, DR ANN REP 2006
+   DR. Media Research, 2004, MED 2004
+   Erdal IJ, 2009, JOURNAL PRACT, V3, P178, DOI 10.1080/17512780802681223
+   Hansen F, 2007, DANSKE REKLAMEMARKED
+   Hawkins R, 2010, E LIFE DOT COM BUST, P65
+   Hesmondhalgh David., 2002, CULTURAL IND
+   Huang E., 2006, Convergence, V12, P83
+   Huntsberger M, 2008, RIPE 2008 MAINZ GERM
+   Jakubowicz K, 2004, CHANGING MEDIA, V1, P277
+   Jenkins H., 2006, CONVERGENCE CULTURE
+   Jensen K, 2008, COMON           0707
+   Kung Lucy., 2000, INSIDE BBC CNN MANAG
+   Larsen P, 2009, BORSEN          0211
+   Lessig L., 2008, Remix: Making art and commerce thrive in the hybrid economy
+   LIEBERMAN MB, 1988, STRATEGIC MANAGE J, V9, P41, DOI 10.1002/smj.4250090706
+   Loosen W, 2012, INFORM COMMUN SOC, V15, P867, DOI 10.1080/1369118X.2012.665467
+   Moe H., 2007, NORDICOM REV, V29, P149
+   Moe H., 2008, PUBLIC SERVICE NETVC, P67
+   Nel F, 2010, JOURNAL PRACT, P1
+   Newman N., 2011, MAINSTREAM MEDIA DIS
+   Nissen C, 2007, GEN VEJE VILDVEJE
+   Pavlik JohnV., 1996, New Media Technologies: Cultural and Commercial Perspectives
+   Pedersen R, 2008, COMPUTERWORLD   0731
+   Schantin D, 2010, WAN IFRA NEWSPLEX SP, P8
+   Sepstrup, 1994, TV KULT PERSP 1954 1
+   Singer J.B., 2004, Journalism Studies, V5, P3, DOI DOI 10.1080/1461670032000174701
+   Sondergaard H, 2008, PUBLIC SERVICE NETVR, P31
+   Storsul D., 2007, 4 INT CICT C COP 29
+   Syvertsen T, 2008, NORSK MEDIETIDSSKRIF, V15, P211
+   von Hippel E., 2005, Democratizing innovation, DOI DOI 10.7551/MITPRESS/2333.001.0001
+   Westlund O, 2011, JMM-INT J MEDIA MANA, V13, P177, DOI 10.1080/14241277.2011.595020
+   Westlund Oscar., 2011, CROSS MEDIA NEWS WOR
+NR 53
+TC 18
+Z9 19
+U1 1
+U2 17
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1369-118X
+EI 1468-4462
+J9 INFORM COMMUN SOC
+JI Info. Commun. Soc.
+PY 2012
+VL 15
+IS 6
+SI SI
+BP 888
+EP 908
+DI 10.1080/1369118X.2012.680483
+PG 21
+WC Communication; Sociology
+WE Social Science Citation Index (SSCI)
+SC Communication; Sociology
+GA 972ZL
+UT WOS:000306320300006
+DA 2024-11-22
+ER

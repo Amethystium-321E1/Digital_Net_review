@@ -1,0 +1,666 @@
+
+PT J
+AU Cheng, XK
+   Zhao, NR
+   Li, CQ
+AF Cheng, Xiaokang
+   Zhao, Narisa
+   Li, Chenqi
+TI The Impact of Herding Tendency in Modular Networks on the Diffusion of
+   Internet Investment Products
+SO SYMMETRY-BASEL
+LA English
+DT Article
+DE herding behavior; social network; modular network structure; internet
+   investment product diffusion; investment decision
+ID BEHAVIOR; SPREAD; MODEL
+AB In this paper, we aim to study the impact of the shift in herding tendency on the diffusion of internet investment products in modular social networks. The epidemic spreading mechanism is applied and numerical analyses are conducted. The results suggest that the increase in herding tendency slows down the diffusion process and postpones the outbreak time of the diffusion, but such negative effects can be compromised when the independent acceptance willingness is high. When independent acceptance willingness is low, the limited extent of the herding tendency increases the diffusion scope. In addition, the expansion of the propagation lifetime or the increase of the clustering coefficient increases the threshold so that the herding tendency has an effect on outbreak size. Further, the growth of the herding propensity tends to magnify the positive influence of the clustering coefficient and the negative effect of the modularity.
+C1 [Cheng, Xiaokang; Zhao, Narisa] Dalian Univ Technol, Inst Syst Engn, Dalian 116023, Peoples R China.
+   [Li, Chenqi] Cent Univ Finance & Econ, China Econ & Management Acad, Beijing 100081, Peoples R China.
+C3 Dalian University of Technology; Central University of Finance &
+   Economics
+RP Cheng, XK; Zhao, NR (corresponding author), Dalian Univ Technol, Inst Syst Engn, Dalian 116023, Peoples R China.
+EM chengxk@mail.dlut.edu.cn; nmgnrs@dlut.edu.cn; lichenqidy@gmail.com
+FU General Program of Natural Science Foundation of China [61471083];
+   Humanities and Social Sciences Research Program of the Ministry of
+   Education of China [14YJA630044]; Scientific and Technological
+   Innovation Foundation of Dalian [2018J11CY009]
+FX This research was supported by the General Program of Natural Science
+   Foundation of China (Grant No. 61471083), Humanities and Social Sciences
+   Research Program of the Ministry of Education of China (Grant No.
+   14YJA630044), and Scientific and Technological Innovation Foundation of
+   Dalian (Grant No. 2018J11CY009).
+CR [Anonymous], 2018, Thesis
+   [Anonymous], STOCK MARKETS
+   Balcilar M, 2017, ENERG ECON, V65, P50, DOI 10.1016/j.eneco.2017.04.031
+   Bikhchandani S, 2001, IMF STAFF PAPERS, V47, P279
+   CHAUHAN Y, 2019, IIMB MANAG REV, V32, P143, DOI DOI 10.1016/J.IIMB.2019.10.008
+   Chen JJ, 2015, SCI REP-UK, V5, DOI 10.1038/srep08399
+   Chen RD, 2019, PAC-BASIN FINANC J, V56, P151, DOI 10.1016/j.pacfin.2019.05.010
+   Christoffersen J, 2019, EUR FINANC MANAG, V25, P1348, DOI 10.1111/eufm.12231
+   Colapinto C, 2014, PHYSICA A, V395, P1, DOI 10.1016/j.physa.2013.10.001
+   D'Arcangelis M., 2019, J BUS RES
+   Devenow A, 1996, EUR ECON REV, V40, P603, DOI 10.1016/0014-2921(95)00073-9
+   Kononovicius A, 2013, EPL-EUROPHYS LETT, V101, DOI 10.1209/0295-5075/101/28001
+   LAKONISHOK J, 1992, J FINANC ECON, V32, P23, DOI 10.1016/0304-405X(92)90023-Q
+   Li W, 2017, PAC-BASIN FINANC J, V45, P174, DOI 10.1016/j.pacfin.2016.11.005
+   Lu YF, 2015, PHYS LETT A, V379, P1023, DOI 10.1016/j.physleta.2015.02.004
+   Manahov V, 2013, PHYSICA A, V392, P4351, DOI 10.1016/j.physa.2013.05.029
+   Nofsinger JR, 1999, J FINANC, V54, P2263, DOI 10.1111/0022-1082.00188
+   Rantala V, 2019, J FINANC, V74, P2349, DOI 10.1111/jofi.12822
+   Shive S, 2010, J FINANC QUANT ANAL, V45, P169, DOI 10.1017/S0022109009990470
+   Venezia I, 2011, J BANK FINANC, V35, P1599, DOI 10.1016/j.jbankfin.2010.11.015
+   Wang GC, 2018, ECON MODEL, V68, P74, DOI 10.1016/j.econmod.2017.04.018
+   Wang L, 2019, CHAOS SOLITON FRACT, V119, P37, DOI 10.1016/j.chaos.2018.12.007
+   Yang XL, 2018, J BEHAV EXP ECON, V75, P45, DOI 10.1016/j.socec.2018.05.001
+   Yum H, 2012, ELECTRON COMMER R A, V11, P469, DOI 10.1016/j.elerap.2012.05.003
+   Zhang K, 2017, ELECTRON COMMER R A, V23, P45, DOI 10.1016/j.elerap.2017.04.001
+   Zhang T, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0079162
+   Zhao N, 2018, PHYSICA A, V512, P427, DOI 10.1016/j.physa.2018.08.075
+   Zhao N, 2017, PHYSICA A, V466, P232, DOI 10.1016/j.physa.2016.09.019
+   Zheng DZ, 2017, INT REV ECON FINANC, V51, P487, DOI 10.1016/j.iref.2017.07.005
+   Zhu AD, 2017, PHYSICA A, V479, P128, DOI 10.1016/j.physa.2017.03.015
+NR 30
+TC 0
+Z9 0
+U1 1
+U2 14
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2073-8994
+J9 SYMMETRY-BASEL
+JI Symmetry-Basel
+PD FEB
+PY 2020
+VL 12
+IS 2
+AR 318
+DI 10.3390/sym12020318
+PG 11
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA KW4PJ
+UT WOS:000521147600127
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Zhou, B
+   Pei, S
+   Muchnik, L
+   Meng, XY
+   Xu, XK
+   Sela, A
+   Havlin, S
+   Stanley, HE
+AF Zhou, Bin
+   Pei, Sen
+   Muchnik, Lev
+   Meng, Xiangyi
+   Xu, Xiaoke
+   Sela, Alon
+   Havlin, Shlomo
+   Stanley, H. Eugene
+TI Realistic modelling of information spread using peer-to-peer diffusion
+   patterns
+SO NATURE HUMAN BEHAVIOUR
+LA English
+DT Article
+ID COMPLEX; IDENTIFICATION; NETWORKS; ADOPTION
+AB Zhou, Pei et al. develop a more realistic information cascade model that reproduces key structures of real-world diffusion trees in distinct social platforms by combining a peer-to-peer diffusion pattern with a correction for observational bias.
+   In computational social science, epidemic-inspired spread models have been widely used to simulate information diffusion. However, recent empirical studies suggest that simple epidemic-like models typically fail to generate the structure of real-world diffusion trees. Such discrepancy calls for a better understanding of how information spreads from person to person in real-world social networks. Here, we analyse comprehensive diffusion records and associated social networks in three distinct online social platforms. We find that the diffusion probability along a social tie follows a power-law relationship with the numbers of disseminator's followers and receiver's followees. To develop a more realistic model of information diffusion, we incorporate this finding together with a heterogeneous response time into a cascade model. After adjusting for observational bias, the proposed model reproduces key structural features of real-world diffusion trees across the three platforms. Our finding provides a practical approach to designing more realistic generative models of information diffusion.
+C1 [Zhou, Bin] Jiangsu Univ Sci & Technol, Sch Econ & Management, Zhenjiang, Jiangsu, Peoples R China.
+   [Zhou, Bin; Meng, Xiangyi; Havlin, Shlomo; Stanley, H. Eugene] Boston Univ, Ctr Polymer Studies, Boston, MA 02215 USA.
+   [Zhou, Bin; Meng, Xiangyi; Havlin, Shlomo; Stanley, H. Eugene] Boston Univ, Dept Phys, 590 Commonwealth Ave, Boston, MA 02215 USA.
+   [Pei, Sen] Columbia Univ, Mailman Sch Publ Hlth, Dept Environm Hlth Sci, New York, NY 10027 USA.
+   [Muchnik, Lev] Hebrew Univ Jerusalem, Sch Business Adm, Jerusalem, Israel.
+   [Muchnik, Lev] Microsoft Res Israel, Alan Turing 3, Hertzliya, Israel.
+   [Xu, Xiaoke] Dalian Minzu Univ, Coll Informat & Commun Engn, Dalian, Peoples R China.
+   [Sela, Alon] Ariel Univ, Ind Engn Dept, Ariel, Israel.
+   [Havlin, Shlomo] Bar Ilan Univ, Dept Phys, Ramat Gan, Israel.
+C3 Jiangsu University of Science & Technology; Boston University; Boston
+   University; Columbia University; Hebrew University of Jerusalem; Dalian
+   Minzu University; Ariel University; Bar Ilan University
+RP Zhou, B (corresponding author), Jiangsu Univ Sci & Technol, Sch Econ & Management, Zhenjiang, Jiangsu, Peoples R China.; Zhou, B (corresponding author), Boston Univ, Ctr Polymer Studies, Boston, MA 02215 USA.; Zhou, B (corresponding author), Boston Univ, Dept Phys, 590 Commonwealth Ave, Boston, MA 02215 USA.; Pei, S (corresponding author), Columbia Univ, Mailman Sch Publ Hlth, Dept Environm Hlth Sci, New York, NY 10027 USA.
+EM binzhou@mail.ustc.edu.cn; sp3449@cumc.columbia.edu
+RI Meng, Xiangyi/HNJ-0648-2023; stanley, harry/ABJ-5063-2022; Havlin,
+   Shlomo/ABF-1527-2020; xu, xiaoke/GQY-8278-2022; Pei, Sen/AAN-8662-2020;
+   Sela, Alon/D-4718-2018
+OI Meng, Xiangyi/0000-0001-5184-7648; Pei, Sen/0000-0002-7072-2995; Sela,
+   Alon/0000-0001-5544-0837
+FU Natural Science Foundation of China [61503159]; Jiangsu University
+   Overseas Training Programme; NIH NIGMS [5U01GM110748]; Israel Science
+   Foundation [1777/17]; NSF [PHY-1505000]; DTRA [HDTRA-1-14-1-0017,
+   HDTRA-1-19-1-0016]; National Natural Science Foundation of China
+   [61773091]; Ariel Cyber Innovation Centre; Italian Ministry of Foreign
+   Affairs and International Cooperation; Israeli Ministry of Science,
+   Technology, and Space (MOST); ONR; Japan Science Foundation; MOST;
+   BSF-NSF; ARO; Bar-Ilan University Centre for Research in Applied
+   Cryptography and Cyber Security; Israel National directorate in the
+   Prime Minister's Office
+FX B.Z. is funded by Natural Science Foundation of China (grant no.
+   61503159) and Jiangsu University Overseas Training Programme. S.P. is
+   supported by NIH NIGMS grant no. 5U01GM110748. L.M. is supported by
+   Israel Science Foundation grant no. 1777/17. X.M. and H.E.S. are
+   supported by NSF Grant PHY-1505000 and DTRA grant no. HDTRA-1-14-1-0017.
+   X.X. is supported by National Natural Science Foundation of China (grant
+   no. 61773091). A.S. wishes to thank the Ariel Cyber Innovation Centre in
+   conjunction with the Israel National directorate in the Prime Minister's
+   Office for their support. S.H. thanks the Italian Ministry of Foreign
+   Affairs and International Cooperation jointly with the Israeli Ministry
+   of Science, Technology, and Space (MOST); the Israel Science Foundation,
+   ONR, the Japan Science Foundation with MOST, BSF-NSF, ARO, the Bar-Ilan
+   University Centre for Research in Applied Cryptography and Cyber
+   Security and DTRA (grant no. HDTRA-1-19-1-0016) for financial support.
+   The funders had no role in study design, data collection and analysis,
+   decision to publish or preparation of the manuscript.
+CR Akbarpour M, 2018, P NATL ACAD SCI USA, V115, pE6996, DOI 10.1073/pnas.1722089115
+   Aral S., 2013, NETW SCI, V1, P125, DOI [DOI 10.1017/NWS.2013.6, 10.1017/nws.2013.6]
+   Aral S, 2018, NAT HUM BEHAV, V2, P375, DOI 10.1038/s41562-018-0346-z
+   Aral S, 2012, SCIENCE, V337, P337, DOI 10.1126/science.1215842
+   Aral S, 2011, MANAGE SCI, V57, P1623, DOI 10.1287/mnsc.1110.1421
+   Bapna R, 2016, MANAGE SCI, V62, P3100, DOI 10.1287/mnsc.2015.2301
+   Barabási AL, 2005, NATURE, V435, P207, DOI 10.1038/nature03459
+   BROOKS G, 1992, SIGPLAN NOTICES, V27, P1, DOI [10.13334/j.0258-8013.pcsee.213043, 10.1145/143103.143108]
+   Castellano C, 2009, REV MOD PHYS, V81, P591, DOI 10.1103/RevModPhys.81.591
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   Centola D, 2011, SCIENCE, V334, P1269, DOI 10.1126/science.1207055
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Cheng J, 2014, WWW'14: PROCEEDINGS OF THE 23RD INTERNATIONAL CONFERENCE ON WORLD WIDE WEB, P925, DOI 10.1145/2566486.2567997
+   De Domenico M, 2013, SCI REP-UK, V3, DOI 10.1038/srep02980
+   Domingos Pedro, 2001, P 7 ACM SIGKDD INT C, P57, DOI [DOI 10.1145/502512.502525, 10.1145/502512.502525]
+   Eckles D, 2016, P NATL ACAD SCI USA, V113, P7316, DOI 10.1073/pnas.1511201113
+   Efron B., 1993, INTRO BOOTSTRAP, DOI 10.1007/978-1-4899-4541-9
+   Feng L, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0126090
+   Gleeson JP, 2014, PHYS REV LETT, V112, DOI 10.1103/PhysRevLett.112.048701
+   Goel S., 2012, P 13 ACM C EL COMM, P623
+   Goel S, 2016, MANAGE SCI, V62, P180, DOI 10.1287/mnsc.2015.2158
+   Goldenberg J, 2001, MARKET LETT, V12, P211, DOI 10.1023/A:1011122126881
+   Goldenberg J, 2009, J MARKETING, V73, P1, DOI 10.1509/jmkg.73.2.1
+   Gruhl D., 2004, P 13 INT C WORLD WID, P491, DOI [DOI 10.1145/988672.988739, DOI 10.1145/1046456.1046462]
+   Hodas NO, 2012, PROCEEDINGS OF 2012 ASE/IEEE INTERNATIONAL CONFERENCE ON PRIVACY, SECURITY, RISK AND TRUST AND 2012 ASE/IEEE INTERNATIONAL CONFERENCE ON SOCIAL COMPUTING (SOCIALCOM/PASSAT 2012), P249, DOI 10.1109/SocialCom-PASSAT.2012.129
+   Hu YQ, 2018, P NATL ACAD SCI USA, V115, P7468, DOI 10.1073/pnas.1710547115
+   Kermack WO, 1927, P R SOC LOND A-CONTA, V115, P700, DOI 10.1098/rspa.1927.0118
+   Kitsak M, 2010, NAT PHYS, V6, P888, DOI [10.1038/NPHYS1746, 10.1038/nphys1746]
+   Lerman K, 2016, FUTURE INTERNET, V8, DOI 10.3390/fi8020021
+   Leskovec J., 2007, ACM T WEB, V1, P1, DOI [DOI 10.1145/1232722.1232727, 10.1145/1232722.1232727]
+   Liben-Nowell D, 2008, P NATL ACAD SCI USA, V105, P4633, DOI 10.1073/pnas.0708471105
+   Lü LY, 2016, PHYS REP, V650, P1, DOI 10.1016/j.physrep.2016.06.007
+   Iribarren JL, 2011, PHYS REV E, V84, DOI 10.1103/PhysRevE.84.046116
+   Iribarren JL, 2009, PHYS REV LETT, V103, DOI 10.1103/PhysRevLett.103.038702
+   Monsted B, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0184148
+   Moreno Y, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.066130
+   Muchnik L, 2013, SCIENCE, V341, P647, DOI 10.1126/science.1240466
+   Muchnik L, 2013, SCI REP-UK, V3, DOI 10.1038/srep01783
+   Newman M., 2011, The Structure and Dynamics of Networks, DOI DOI 10.1515/9781400841356
+   Pastor-Satorras R, 2015, REV MOD PHYS, V87, P925, DOI 10.1103/RevModPhys.87.925
+   Pei S, 2014, SCI REP, V4
+   Pei S, 2020, J COMPLEX NETW, V8, DOI 10.1093/comnet/cnz029
+   Pei S, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0126894
+   Pei S, 2013, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2013/12/P12002
+   Rodriguez MG., 2014, P 8 INT AAAI C WEBLO, DOI DOI 10.1002/JBM.A.34687
+   Rogers E.M., 2010, DIFFUSION INNOVATION
+   Salganik MJ, 2006, SCIENCE, V311, P854, DOI 10.1126/science.1121066
+   Stephen AndrewT., 2017, 201801 SAID BUS SCH, DOI DOI 10.2139/SSRN.2897582
+   Tardos, 2003, P 9 ACM SIGKDD INT C, P137, DOI 10.1145/956750.956769
+   Vosoughi S, 2018, SCIENCE, V359, P1146, DOI 10.1126/science.aap9559
+   Watts DJ, 2002, P NATL ACAD SCI USA, V99, P5766, DOI 10.1073/pnas.082090499
+   Watts DJ, 2007, J CONSUM RES, V34, P441, DOI 10.1086/518527
+   Weng L, 2013, SCI REP-UK, V3, DOI [10.1038/srep02304, 10.1038/srep02522]
+   Zhang ZK, 2016, PHYS REP, V651, P1, DOI 10.1016/j.physrep.2016.07.002
+NR 54
+TC 22
+Z9 23
+U1 8
+U2 60
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2397-3374
+J9 NAT HUM BEHAV
+JI Nat. Hum. Behav.
+PD NOV
+PY 2020
+VL 4
+IS 11
+BP 1198
+EP 1207
+DI 10.1038/s41562-020-00945-1
+EA AUG 2020
+PG 10
+WC Psychology, Biological; Multidisciplinary Sciences; Neurosciences;
+   Psychology, Experimental
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychology; Science & Technology - Other Topics; Neurosciences &
+   Neurology
+GA OQ4AU
+UT WOS:000563649500001
+PM 32860013
+DA 2024-11-22
+ER
+
+PT S
+AU Smith, EB
+   Brands, RA
+   Brashears, ME
+   Kleinbaum, AM
+AF Smith, Edward Bishop
+   Brands, Raina A.
+   Brashears, Matthew E.
+   Kleinbaum, Adam M.
+BE Cook, KS
+   Massey, DS
+TI Social Networks and Cognition
+SO ANNUAL REVIEW OF SOCIOLOGY, VOL 46
+SE Annual Review of Sociology
+LA English
+DT Article; Book Chapter
+DE social networks; cognition; social capital; network perception;
+   evolution; sociobiology
+ID NEOCORTEX SIZE; INFORMANT ACCURACY; SELF-MONITORS; NEURAL BASIS; RECALL;
+   GENDER; ACTIVATION; BROKERAGE; LANGUAGE; PREDICT
+AB Social network analysis, now often thought of simply as network science, has penetrated nearly every scientific and many scholarly fields and has become an indispensable resource. Yet, social networks are special by virtue of being specifically social, and our growing understanding of the brain is affecting our understanding of how social networks form, mature, and are exploited by their members. We discuss the expanding research on how the brain manages social information, how this information is heuristically processed, and how network cognitions are affected by situation and circumstance. In the process, we argue that the cognitive turn in social networks exemplifies the modern conception of the brain as fundamentally reprogrammable by experience and circumstance. Far from social networks being dependent upon the brain, we anticipate a modern view in which cognition and social networks coconstitute each other.
+C1 [Smith, Edward Bishop] Northwestern Univ, Kellogg Sch Management, Evanston, IL 60208 USA.
+   [Brands, Raina A.] London Business Sch, London NW1 4SA, England.
+   [Brashears, Matthew E.] Univ South Carolina, Dept Sociol, Columbia, SC 29208 USA.
+   [Kleinbaum, Adam M.] Dartmouth Coll, Tuck Sch Business, Hanover, NH 03755 USA.
+C3 Northwestern University; University of London; London Business School;
+   University of South Carolina System; University of South Carolina
+   Columbia; Dartmouth College
+RP Smith, EB (corresponding author), Northwestern Univ, Kellogg Sch Management, Evanston, IL 60208 USA.
+EM ned-smith@kellogg.northwestern.edu
+RI Brands, Raina/C-3589-2014; Kleinbaum, Adam/M-4316-2013
+OI Brands, Raina/0000-0001-5465-8383
+CR [Anonymous], 1992, Structural holes
+   Baddeley A., 1986, OXFORD PSYCHOL, V11
+   Bartels A, 2000, NEUROREPORT, V11, P3829, DOI 10.1097/00001756-200011270-00046
+   Bartlett FC, 1932, REMEMBERING STUDY EX
+   Barton RA, 1996, P ROY SOC B-BIOL SCI, V263, P173, DOI 10.1098/rspb.1996.0028
+   Bell DC, 2007, SOC NETWORKS, V29, P279, DOI 10.1016/j.socnet.2006.12.004
+   Bernard H.R., 1977, HUMAN COMMUNICATIONS, V4, P3, DOI DOI 10.1111/J.1468-2958.1977.TB00591.X
+   BERNARD HR, 1982, SOC SCI RES, V11, P30, DOI 10.1016/0049-089X(82)90006-0
+   BERNARD HR, 1980, SOC NETWORKS, V2, P191, DOI 10.1016/0378-8733(79)90014-5
+   Bickart KC, 2011, NAT NEUROSCI, V14, P163, DOI 10.1038/nn.2724
+   Brands RA, 2019, ACAD MANAGE J, V62, P196, DOI 10.5465/amj.2016.0860
+   Brands RA, 2015, ORGAN SCI, V26, P1210, DOI 10.1287/orsc.2015.0965
+   Brands RA, 2014, ORGAN SCI, V25, P1530, DOI 10.1287/orsc.2013.0880
+   Brashears ME, 2016, ADV GROUP PROCESS, V33, P1, DOI 10.1108/S0882-614520160000033001
+   Brashears ME, 2014, SOCIOL SCI, V1, P493, DOI 10.15195/v1.a27
+   Brashears ME, 2016, SOC NETWORKS, V44, P74, DOI 10.1016/j.socnet.2015.06.002
+   Brashears ME, 2015, SOC NETWORKS, V41, P113, DOI 10.1016/j.socnet.2014.11.003
+   Brashears ME, 2013, SCI REP-UK, V3, DOI 10.1038/srep01513
+   BREWER DD, 1994, SOC NETWORKS, V16, P347, DOI 10.1016/0378-8733(94)90016-7
+   Brewer DD, 2001, SEX TRANSM DIS, V28, P666, DOI 10.1097/00007435-200111000-00010
+   BREWER WF, 1981, COGNITIVE PSYCHOL, V13, P207, DOI 10.1016/0010-0285(81)90008-6
+   Cao J, 2020, WHY HIGH STATUS PEOP
+   Casciaro T, 1998, SOC NETWORKS, V20, P331, DOI 10.1016/S0378-8733(98)00008-2
+   DESOTO CB, 1960, J ABNORM SOC PSYCH, V60, P417, DOI 10.1037/h0047511
+   DUNBAR RIM, 1993, BEHAV BRAIN SCI, V16, P681, DOI 10.1017/S0140525X00032325
+   DUNBAR RIM, 1995, J HUM EVOL, V28, P287, DOI 10.1006/jhev.1995.1021
+   DUNBAR RIM, 1992, J HUM EVOL, V22, P469, DOI 10.1016/0047-2484(92)90081-J
+   EAGLY AH, 1986, PSYCHOL BULL, V100, P283, DOI 10.1037/0033-2909.100.3.283
+   Enemark D, 2014, SOC NETWORKS, V36, P122, DOI 10.1016/j.socnet.2012.10.001
+   Fang RL, 2015, ORGAN SCI, V26, P1243, DOI 10.1287/orsc.2015.0972
+   Flynn FJ, 2006, J PERS SOC PSYCHOL, V91, P1123, DOI 10.1037/0022-3514.91.6.1123
+   Flynn FJ, 2010, J PERS SOC PSYCHOL, V99, P855, DOI 10.1037/a0020961
+   FREEMAN LC, 1987, HUM ORGAN, V46, P330, DOI 10.17730/humo.46.4.u122402864140315
+   FREEMAN LC, 1987, AM ANTHROPOL, V89, P310, DOI 10.1525/aa.1987.89.2.02a00020
+   FREEMAN LC, 1992, SOC PSYCHOL QUART, V55, P118, DOI 10.2307/2786941
+   FREEMAN LC, 1988, J SOC BIOL STRUCT, V11, P415, DOI 10.1016/0140-1750(88)90080-2
+   Freeman LC., 1989, J QUANTITATIVE ANTHR, V1, P229
+   Garrard P, 1999, APHASIOLOGY, V13, P609, DOI 10.1080/026870399401966
+   Gobbini MI, 2007, NEUROPSYCHOLOGIA, V45, P32, DOI 10.1016/j.neuropsychologia.2006.04.015
+   Gonçalves B, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0022656
+   Heilman ME, 2008, IND ORGAN PSYCHOL-US, V1, P393, DOI 10.1111/j.1754-9434.2008.00072.x
+   Hilton JL, 1996, ANNU REV PSYCHOL, V47, P237, DOI 10.1146/annurev.psych.47.1.237
+   Hinde, 1976, GROWING POINTS ETHOL, DOI DOI 10.2307/375925
+   Hlebec V, 2001, SOC NETWORKS, V23, P125, DOI 10.1016/S0378-8733(01)00037-5
+   Hsieh YP, 2015, SOC NETWORKS, V41, P101, DOI 10.1016/j.socnet.2014.11.006
+   Hyon R, 2020, NEUROIMAGE, V216, DOI 10.1016/j.neuroimage.2019.116492
+   Janicik GA, 2005, J PERS SOC PSYCHOL, V88, P348, DOI 10.1037/0022-3514.88.2.348
+   Kanai R, 2012, P ROY SOC B-BIOL SCI, V279, P1327, DOI 10.1098/rspb.2011.1959
+   Kashima Y, 2013, SOC NETWORKS, V35, P711, DOI 10.1016/j.socnet.2013.06.002
+   KILLWORTH PD, 1979, SOC NETWORKS, V2, P19, DOI 10.1016/0378-8733(79)90009-1
+   KILLWORTH PD, 1982, SOC NETWORKS, V3, P307, DOI 10.1016/0378-8733(82)90005-3
+   Kovacs B, 2020, PSYCHOL SCI, V31, P202, DOI 10.1177/0956797619894557
+   KRACKHARDT D, 1987, SOC NETWORKS, V9, P109, DOI 10.1016/0378-8733(87)90009-8
+   KRACKHARDT D, 1990, ADMIN SCI QUART, V35, P342, DOI 10.2307/2393394
+   Kudo H, 2001, ANIM BEHAV, V62, P711, DOI 10.1006/anbe.2001.1808
+   Landis B, 2018, J APPL PSYCHOL, V103, P929, DOI 10.1037/apl0000299
+   Maguire EA, 2006, HIPPOCAMPUS, V16, P1091, DOI 10.1002/hipo.20233
+   Marin A, 2004, SOC NETWORKS, V26, P289, DOI 10.1016/j.socnet.2004.06.001
+   MARSDEN PV, 1987, AM SOCIOL REV, V52, P122, DOI 10.2307/2095397
+   MARTIN CL, 1993, DEV REV, V13, P184, DOI 10.1006/drev.1993.1008
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mehra A, 2001, ADMIN SCI QUART, V46, P121, DOI 10.2307/2667127
+   Menon T, 2014, SOC SCI RES, V45, P117, DOI 10.1016/j.ssresearch.2014.01.001
+   Neisser U., 1967, COGNITIVE PSYCHOL
+   O'Connor KM, 2015, SOC NETWORKS, V40, P123, DOI 10.1016/j.socnet.2014.09.002
+   Omodei E, 2017, SCI REP-UK, V7, DOI 10.1038/s41598-017-17385-z
+   Parkinson C, 2019, NETWORK CENTRALITY M
+   Parkinson C, 2018, NAT COMMUN, V9, DOI 10.1038/s41467-017-02722-7
+   Parkinson C, 2017, NAT HUM BEHAV, V1, DOI 10.1038/s41562-017-0072
+   Parkinson C, 2015, TRENDS COGN SCI, V19, P133, DOI 10.1016/j.tics.2015.01.003
+   Parkinson C, 2014, J NEUROSCI, V34, P1979, DOI 10.1523/JNEUROSCI.2159-13.2014
+   Pascual-Leone A, 2005, ANNU REV NEUROSCI, V28, P377, DOI 10.1146/annurev.neuro.27.070203.144216
+   Powell J, 2012, P ROY SOC B-BIOL SCI, V279, P2157, DOI 10.1098/rspb.2011.2574
+   Reisberg D., 1997, Cognition: Exploring the science of the mind
+   Roberts SGB, 2009, SOC NETWORKS, V31, P138, DOI 10.1016/j.socnet.2008.12.002
+   ROMNEY AK, 1982, SOC NETWORKS, V4, P285, DOI 10.1016/0378-8733(82)90015-6
+   Sallet J, 2011, SCIENCE, V334, P697, DOI 10.1126/science.1210027
+   Schwarz N, 2009, FRONT SOC PSYCHOL, P121
+   Semin G.R., 2015, Theory and explanation in social psychology, P283
+   Shea CT, 2016, ORGAN BEHAV HUM DEC, V137, P45, DOI 10.1016/j.obhdp.2016.07.002
+   Shea CT, 2015, SOC NETWORKS, V43, P91, DOI 10.1016/j.socnet.2015.01.003
+   Shiffrin, 1968, PSYCHOL LEARN MOTIV, V2, P89, DOI [DOI 10.1016/S0079-7421, 10.1016/S0079-7421(08)60422-3]
+   Simpson B, 2011, SOC NETWORKS, V33, P166, DOI 10.1016/j.socnet.2010.10.007
+   Small M., 2017, SOMEONE TO TALK TO
+   Smith EB, 2012, ORGAN SCI, V23, P67, DOI 10.1287/orsc.1100.0643
+   Spencer SJ, 2016, ANNU REV PSYCHOL, V67, P415, DOI 10.1146/annurev-psych-073115-103235
+   Stiller J, 2007, SOC NETWORKS, V29, P93, DOI 10.1016/j.socnet.2006.04.001
+   VANKREVELD D, 1966, J PERS, V34, P205
+   Von Der Heide R, 2014, SOC COGN AFFECT NEUR, V9, P1962, DOI 10.1093/scan/nsu009
+   Welles BF, 2018, SOC NETWORKS, V54, P162, DOI 10.1016/j.socnet.2018.01.005
+   Zerubavel N, 2015, P NATL ACAD SCI USA, V112, P15072, DOI 10.1073/pnas.1511477112
+NR 91
+TC 55
+Z9 63
+U1 15
+U2 89
+PU ANNUAL REVIEWS
+PI PALO ALTO
+PA 4139 EL CAMINO WAY, PO BOX 10139, PALO ALTO, CA 94303-0897 USA
+SN 0360-0572
+EI 1545-2115
+BN 978-0-8243-2246-5
+J9 ANNU REV SOCIOL
+JI Annu. Rev. Sociol.
+PY 2020
+VL 46
+BP 159
+EP 174
+DI 10.1146/annurev-soc-121919-054736
+PG 16
+WC Sociology
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH); Social Science Citation Index (SSCI)
+SC Sociology
+GA BQ4MJ
+UT WOS:000590460000008
+OA Bronze
+DA 2024-11-22
+ER
+
+PT J
+AU Montes, F
+   Jaramillo, AM
+   Meisel, JD
+   Diaz-Guilera, A
+   Valdivia, JA
+   Sarmiento, OL
+   Zarama, R
+AF Montes, Felipe
+   Maria Jaramillo, Ana
+   Meisel, Jose D.
+   Diaz-Guilera, Albert
+   Valdivia, Juan A.
+   Sarmiento, Olga L.
+   Zarama, Roberto
+TI Benchmarking seeding strategies for spreading processes in social
+   networks: an interplay between influencers, topologies and sizes
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID BEHAVIOR-CHANGE; DIFFUSION; EPIDEMICS; INTERNET
+AB The explosion of network science has permitted an understanding of how the structure of social networks affects the dynamics of social contagion. In community-based interventions with spill-over effects, identifying influential spreaders may be harnessed to increase the spreading efficiency of social contagion, in terms of time needed to spread all the largest connected component of the network. Several strategies have been proved to be efficient using only data and simulation-based models in specific network topologies without a consensus of an overall result. Hence, the purpose of this paper is to benchmark the spreading efficiency of seeding strategies related to network structural properties and sizes. We simulate spreading processes on empirical and simulated social networks within a wide range of densities, clustering coefficients, and sizes. We also propose three new decentralized seeding strategies that are structurally different from well-known strategies: community hubs, ambassadors, and random hubs. We observe that the efficiency ranking of strategies varies with the network structure. In general, for sparse networks with community structure, decentralized influencers are suitable for increasing the spreading efficiency. By contrast, when the networks are denser, centralized influencers outperform. These results provide a framework for selecting efficient strategies according to different contexts in which social networks emerge.
+C1 [Montes, Felipe; Maria Jaramillo, Ana; Zarama, Roberto] Univ Los Andes, Dept Ind Engn, Social & Hlth Complex Ctr, Bogota, Colombia.
+   [Meisel, Jose D.] Univ Ibague, Fac Ingn, Ibague, Colombia.
+   [Diaz-Guilera, Albert] Univ Barcelona, Dept Fis Mat Condensada, Barcelona, Spain.
+   [Diaz-Guilera, Albert] Univ Barcelona, Univ Barcelona Inst Complex Syst UBICS, Barcelona, Spain.
+   [Valdivia, Juan A.] Univ Chile, Fac Ciencias, Dept Fis, Santiago, Chile.
+   [Sarmiento, Olga L.] Univ Los Andes, Sch Med, Social & Hlth Complex Ctr, Bogota, Colombia.
+C3 Universidad de los Andes (Colombia); University of Barcelona; University
+   of Barcelona; Universidad de Chile; Universidad de los Andes (Colombia)
+RP Montes, F (corresponding author), Univ Los Andes, Dept Ind Engn, Social & Hlth Complex Ctr, Bogota, Colombia.
+EM fel-mont@uniandes.edu.co
+RI Meisel, Jose/AAV-8857-2021; Montes, Felipe/AAV-3051-2020; Jaramillo,
+   Ana/AAR-8244-2021; Valdivia, Juan/A-3631-2008; Sarmiento,
+   Olga/AAS-4165-2020; DIaz-Guilera, Albert/A-5218-2009
+OI Montes, Felipe/0000-0002-9923-4004; DIaz-Guilera,
+   Albert/0000-0002-3114-0984; Valdivia, Juan
+   Alejandro/0000-0003-3381-9904; Meisel, Jose/0000-0002-1032-0900
+FU FAPA grant of Universidad de los Andes; Global Health Equity Scholars
+   Program NIH FIC [D43TW010540]; Research office from the Universidad de
+   Ibague [17-466-INT]; Fondecyt [1190703]; MINECO (MINECO/FEDER,UE)
+   [PGC2018-094754-B-C22]; National Institutes of Health from the U.S.
+   [1P20CA217199-001]
+FX We are grateful to Philip Bonacich, Jukka-Pekka Onnela, J. Gomez-Garde
+   ~nes, and Emma Rye for their help at various stages. FM and AMJ were
+   funded by the FAPA grant of Universidad de los Andes, FM was also funded
+   by The Global Health Equity Scholars Program NIH FIC D43TW010540. JDM
+   received funding from the Research office from the Universidad de Ibague
+   (project 17-466-INT). We also thank the support of Fondecyt Grant No.
+   1190703. ADG acknowledges financial support from MINECO via Project
+   PGC2018-094754-B-C22 (MINECO/FEDER,UE), OLS received funding from the
+   National Institutes of Health from the U.S. grant number
+   1P20CA217199-001.
+CR Albert R, 1999, NATURE, V401, P130, DOI 10.1038/43601
+   [Anonymous], 2014, PHYS REV E, DOI DOI 10.1103/PhysRevE.90.032812
+   Aral S., 2013, NETW SCI, V1, P125, DOI [DOI 10.1017/NWS.2013.6, 10.1017/nws.2013.6]
+   Banerjee A, 2013, SCIENCE, V341, P363, DOI 10.1126/science.1236498
+   Barrat A., 2008, DYNAMICAL PROCESSES, DOI DOI 10.1017/CBO9780511791383
+   Blondel VD, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/10/P10008
+   Borge-Holthoefer J, 2013, J COMPLEX NETW, V1, P3, DOI 10.1093/comnet/cnt006
+   Brin S, 1998, COMPUT NETWORKS ISDN, V30, P107, DOI 10.1016/S0169-7552(98)00110-X
+   Carmi S, 2007, P NATL ACAD SCI USA, V104, P11150, DOI 10.1073/pnas.0701175104
+   Centola D, 2011, SCIENCE, V334, P1269, DOI 10.1126/science.1207055
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Chen DB, 2014, SCI REP-UK, V4, DOI 10.1038/srep06108
+   Chen DB, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0077455
+   Christakis NA, 2013, STAT MED, V32, P556, DOI 10.1002/sim.5408
+   Christakis NA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0012948
+   Christley RM, 2005, AM J EPIDEMIOL, V162, P1024, DOI 10.1093/aje/kwi308
+   Cimini G, 2012, PHYS REV E, V85
+   Comin CH, 2011, PHYS REV E, V84, DOI 10.1103/PhysRevE.84.056105
+   Erkol S, 2019, SCI REP-UK, V9, DOI 10.1038/s41598-019-51209-6
+   FajardoFontiveros O, 2018, REV ESPANOLA FISICA, V32
+   Gao C, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0066732
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Guille A, 2013, SIGMOD REC, V42, P17
+   Gutiérrez-Martinez L, 2018, REV SAUDE PUBL, V52, DOI [10.11606/s1518-8787.2018052017173, 10.11606/S1518-8787.2018052017173]
+   He JL, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0145283
+   Holme P, 2002, PHYS REV E, V65, DOI 10.1103/PhysRevE.65.066109
+   Hunter RF, 2015, AM J PUBLIC HEALTH, V105, P513, DOI 10.2105/AJPH.2014.302399
+   Katzmarzyk PT, 2019, NUTRIENTS, V11, DOI 10.3390/nu11040848
+   Kim DA, 2015, LANCET, V386, P145, DOI 10.1016/S0140-6736(15)60095-2
+   Kitsak M, 2010, NAT PHYS, V6, P888, DOI [10.1038/NPHYS1746, 10.1038/nphys1746]
+   Liu Y, 2015, SCI REP-UK, V5, DOI 10.1038/srep09602
+   Madotto A, 2016, SCI REP-UK, V6, DOI 10.1038/srep38994
+   Malliaros FD, 2016, SCI REP-UK, V6, DOI 10.1038/srep19307
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Meisel C, 2016, THESIS
+   Miller JC, 2007, PHYSICA A, V386, P780, DOI 10.1016/j.physa.2007.08.054
+   Newman MEJ, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.026113
+   Nowzari C, 2016, IEEE CONTR SYST MAG, V36, P26, DOI 10.1109/MCS.2015.2495000
+   Onnela JP, 2007, NEW J PHYS, V9, DOI 10.1088/1367-2630/9/6/179
+   Polk D. E, 2014, CAMBRIDGE HDB PSYCHO, VSecond, P344
+   Rios A., 2017, Revista Brasileira de Atividade Fisica & Saude, V22, P206, DOI DOI 10.12820/RBAFS.V.22N2P206-211
+   Saramäki J, 2005, J THEOR BIOL, V234, P413, DOI 10.1016/j.jtbi.2004.12.003
+   SEIDMAN SB, 1983, SOC NETWORKS, V5, P269, DOI 10.1016/0378-8733(83)90028-X
+   TULJAPURKAR S, 1991, SCIENCE, V254, P591, DOI 10.1126/science.254.5031.591
+   Valente T. W., 2010, Social networks and health: Models, methods, and applications, DOI DOI 10.1093/ACPROF:OSO/9780195301014.001.0001
+   Valente TW, 2012, SCIENCE, V337, P49, DOI 10.1126/science.1217330
+   Valente TW, 1996, SOC NETWORKS, V18, P69, DOI 10.1016/0378-8733(95)00256-1
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Zhang JX, 2016, SCI REP-UK, V6, DOI 10.1038/srep27823
+   Zhang XH, 2013, KNOWL-BASED SYST, V42, P74, DOI 10.1016/j.knosys.2013.01.017
+NR 50
+TC 12
+Z9 12
+U1 1
+U2 10
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD FEB 28
+PY 2020
+VL 10
+IS 1
+AR 3666
+DI 10.1038/s41598-020-60239-4
+PG 12
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA NP4IV
+UT WOS:000570142200001
+PM 32111953
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Golovchenko, Y
+AF Golovchenko, Yevgeniy
+TI Measuring the scope of pro-Kremlin disinformation on twitter
+SO HUMANITIES & SOCIAL SCIENCES COMMUNICATIONS
+LA English
+DT Article
+ID RUSSIA; WARFARE; MEDIA; MISINFORMATION; NEWS
+AB This article examines the scope of pro-Kremlin disinformation about Crimea. I deploy content analysis and a social network approach to analyze tweets related to the region. I find that pro-Kremlin disinformation partially penetrated the Twitter debates about Crimea. However, these disinformation narratives are accompanied by a much larger wave of information that disagrees with the disinformation and are less prevalent in relative terms. The impact of Russian state-controlled news outlets-which are frequent sources of pro-Kremlin disinformation-is concentrated in one, highly popular news outlet, RT. The few, popular Russian news media have to compete with many popular Western media outlets. As a result, the combined impact of Russian state-controlled outlets is relatively low when comparing to its Western alternatives.
+C1 [Golovchenko, Yevgeniy] Univ Copenhagen, Dept Polit Sci, Copenhagen, Denmark.
+C3 University of Copenhagen
+RP Golovchenko, Y (corresponding author), Univ Copenhagen, Dept Polit Sci, Copenhagen, Denmark.
+EM yg@ifs.ku.dk
+OI Golovchenko, Yevgeniy/0000-0003-3292-7372
+FU Carlsberg Foundation - ERC [CF16-0012];  [680102]
+FX I would like to thank Rebecca Adler-Nissen, Sune Lehmann, Lene Hansen,
+   James Pamment and Alicia Fjallhed for the invaluable feedback. I am very
+   grateful to Isabelle Augenstein for co-developing the codebook, as well
+   as Alona Shevchuk and Valentina Shapovalova for assisting with the
+   annotation process. The research was conducted as part of the 'Digital
+   Disinformation' project (no. CF16-0012), funded by the Carlsberg
+   Foundation and DIPLOFACE, funded by the ERC (project no. 680102). Both
+   projects are directed by Rebecca Adler-Nissen.
+CR Abrams S., 2016, Connections: The Quarterly Journal, V15, P5, DOI [10.11610/Connections.15.1.01, DOI 10.11610/CONNECTIONS.15.1.01]
+   AFP, 2019, RUSS RT FUM FAC BLOC
+   Allcott H, 2017, TECHNICAL REPORT
+   [Anonymous], 2017, BBC
+   [Anonymous], 2019, The Economist
+   [Anonymous], 2016, MEPS SOUND AL ANT EU
+   [Anonymous], 2019, BBC
+   Badawy A, 2018, 2018 IEEE/ACM INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING (ASONAM), P258
+   Bail CA, 2020, P NATL ACAD SCI USA, V117, P243, DOI 10.1073/pnas.1906420116
+   Barberá P, 2015, SOC SCI COMPUT REV, V33, P712, DOI 10.1177/0894439314558836
+   Bastos M, 2019, SOC MEDIA SOC, V5, DOI 10.1177/2056305119865466
+   Bjola C., 2016, GLOBAL AFFAIRS, V2, P1
+   Bode L, 2018, HEALTH COMMUN, V33, P1131, DOI 10.1080/10410236.2017.1331312
+   Borgatti SP, 1999, SOC NETWORKS, V21, P375
+   Bovet A, 2019, NAT COMMUN, V10, DOI 10.1038/s41467-018-07761-2
+   Broniatowski DA, 2018, AM J PUBLIC HEALTH, V108, P1378, DOI 10.2105/AJPH.2018.304567
+   Charbonneau L, 2014, Reuters
+   Cimbala StephenJ., 2014, Journal of Slavic Military Studies, V27, P359
+   Clement J., 2020, COUNTRIES MOST TWITT
+   COHEN J, 1960, EDUC PSYCHOL MEAS, V20, P37, DOI 10.1177/001316446002000104
+   Cottiero C, 2015, NATL PAP, V43, P533, DOI 10.1080/00905992.2015.1013527
+   Darczewska Jolanta., 2014, ANATOMY RUSSIAN INFO
+   Department of Justice, 2018, GRAND JUR IND 13 RUS
+   Department of National Intelligence, 2017, ASS RUSS ACT INT REC
+   DiResta R, 2018, NEW KNOWLEDGE
+   Elliot R, 2019, GUARDIAN
+   EU, 2018, QUEST ANSW E STRATCO
+   European Parliament, 2016, TECHNICAL REPORT
+   Fallis D, 2015, LIBR TRENDS, V63, P401, DOI 10.1353/lib.2015.0014
+   Forslid R, 2003, J ECON GEOGR, V3, P229, DOI 10.1093/jeg/3.3.229
+   Fredheim R., 2015, Journal of Soviet and Post-Soviet Politics and Society: Russian Media and the War in Ukraine, V1, P37
+   Fredheim R, 2017, POST-SOV AFF, V33, P34, DOI 10.1080/1060586X.2016.1200797
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   Gallagher RJ, 2020, CLARIFIED TYPOLOGY C
+   Gaufman Elizavet., 2015, Journal of Regional Security, V10, P17
+   Golovchenko Y, 2020, INT J PRESS/POLIT, V25, P357, DOI 10.1177/1940161220912682
+   Golovchenko Y, 2018, INT AFF, V94, P975, DOI 10.1093/ia/iiy148
+   Grinberg N, 2019, SCIENCE, V363, P374, DOI 10.1126/science.aau2706
+   Guess A., 2018, EUR RES COUNC, V9, P1
+   Guess A, 2019, SCI ADV, V5, DOI 10.1126/sciadv.aau4586
+   Hjorth F, 2019, J COMMUN, V69, P168, DOI 10.1093/joc/jqz006
+   Howard Philip., 2018, IRA SOCIAL MEDIA POL
+   Howard PN, 2017, US NEWS
+   Jamieson K.H., 2018, CYBERWAR RUSSIAN HAC
+   Kalla JL, 2018, AM POLIT SCI REV, V112, P148, DOI 10.1017/S0003055417000363
+   Keller Franziska B, 2017, 11 INT AAAI C WEB SO
+   la Cour C, 2020, INT POLITICS, V57, P704, DOI 10.1057/s41311-020-00215-x
+   Lanoszka A, 2016, INT AFF, V92, P175, DOI 10.1111/1468-2346.12509
+   Lawrence RG, 2019, PUBLIC OPIN QUART, V83, P163, DOI 10.1093/poq/nfy050
+   Lewandowsky S, 2012, PSYCHOL SCI PUBL INT, V13, P106, DOI 10.1177/1529100612451018
+   Linvill DL, 2019, COMPUT HUM BEHAV, V99, P292, DOI 10.1016/j.chb.2019.05.027
+   Lockie A, 2017, US RUSSIA ARE FIGHTI
+   Lockwood Alisa, 2018, RUSSIA HAS WON INFOR
+   Lucas E, 2015, 1 CEPA
+   Margolin DB, 2018, POLIT COMMUN, V35, P196, DOI 10.1080/10584609.2017.1334018
+   Mejias UA, 2017, MEDIA CULT SOC, V39, P1027, DOI 10.1177/0163443716686672
+   Mellon J, 2017, RES POLITICS, V4, DOI 10.1177/2053168017720008
+   Monsted B, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0184148
+   Myriam DC, 2008, POWER SECURITY INFOR
+   Nyhan Brendan., 2014, New York Times
+   Oates Sarah., 2016, Russian Politics, V1, P398, DOI [10.1163/2451-8921-00104004, DOI 10.1163/2451-8921-00104004]
+   Pamment J, 2018, Countering information influence activities: the state of the art
+   Pei S, 2014, SCI REP-UK, V4, DOI 10.1038/srep05547
+   Pennycook G, 2018, J EXP PSYCHOL GEN, V147, P1865, DOI 10.1037/xge0000465
+   Pomerantsev P, 2015, J DEMOCR, V26, P40
+   Pyung-Kyun W, 2015, KOREAN J DEF ANAL, V27, P383
+   Ramsay G., 2018, Weaponising news RT, Sputnik and targeted disinformation
+   Reisinger H, 2014, OSTEUROPA, V64, P119
+   Renz B, 2016, CONTEMP POLIT, V22, P283, DOI 10.1080/13569775.2016.1201316
+   RT, 2014, PUT ACKN RUSS MIL SE
+   Sanovich S, 2017, WORKING PAPER
+   SEIDMAN SB, 1983, SOC NETWORKS, V5, P269, DOI 10.1016/0378-8733(83)90028-X
+   Shao CC, 2018, NAT COMMUN, V9, DOI 10.1038/s41467-018-06930-7
+   Slutsky P, 2017, AM BEHAV SCI, V61, P334, DOI 10.1177/0002764217693281
+   Snegovaya M, 2015, RUSSIA REP, V1, P133
+   Soe SO, 2018, J DOC, V74, P309, DOI 10.1108/JD-05-2017-0075
+   Soe SilleObelitz., 2016, The Urge to Detect, the Need to Clarify: Gricean Perspectives on Information, Misinformation and Disinformation
+   Taylor PhilipM., 2003, Munitions of the Mind: A History of Propaganda from the Ancient World to the Present Day
+   Thiele R., 2015, ISPSW Strategy Series: Focus on Defense and International Security, V347, P1
+   Thornton R, 2015, RUSI J, V160, P40, DOI 10.1080/03071847.2015.1079047
+   Times M, 2015, Moscow Times
+   Torossian R, 2016, OBSERVER
+   Unver H, 2019, Foreign Policy
+   Vandiver J., 2020, STARS STRIPES
+   Varol Onur, 2017, 11 INT AAAI C WEB SO
+   Vosoughi S, 2018, SCIENCE, V359, P1146, DOI 10.1126/science.aap9559
+   Wallance GJ, 2018, HILL
+   Xia Y, 2019, INT J COAL PREP UTIL, P1
+   Yin L, 2018, YOUR FRIENDLY NEIGHB
+   Zannettou S., 2019, Proceedings of the ACM Web Science Conference (WebSci)
+   Zannettou S, 2019, COMPANION OF THE WORLD WIDE WEB CONFERENCE (WWW 2019 ), P218, DOI 10.1145/3308560.3316495
+NR 91
+TC 12
+Z9 16
+U1 0
+U2 25
+PU SPRINGERNATURE
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON, N1 9XW, ENGLAND
+EI 2662-9992
+J9 HUM SOC SCI COMMUN
+JI Hum. Soc. Sci. Commun.
+PD DEC 11
+PY 2020
+VL 7
+IS 1
+AR 176
+DI 10.1057/s41599-020-00659-9
+PG 11
+WC Humanities, Multidisciplinary; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Arts & Humanities - Other Topics; Social Sciences - Other Topics
+GA PG5CR
+UT WOS:000599753200001
+OA gold
+DA 2024-11-22
+ER
