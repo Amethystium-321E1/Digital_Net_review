@@ -1,0 +1,473 @@
+
+PT J
+AU Agneessens, F
+   Skvoretz, J
+AF Agneessens, Filip
+   Skvoretz, John
+TI Group differences in reciprocity, multiplexity and exchange: measures
+   and application
+SO QUALITY & QUANTITY
+LA English
+DT Article
+DE Reciprocity; Multiplexity; Exchange; Social network analysis; Group
+   differences; Homophily
+ID BIASED NET THEORY; SOCIAL NETWORK; POWER; COMMITMENT; CHOICES
+AB Local forces structure social networks. One major and widely researched local force is reciprocity, often assumed to work homogeneously across actors-i.e., all actors are equally subject to the same level of force towards reciprocity. Other local forces, like multiplexity and exchange, are also often assumed to apply equally to different actors. But social theory provides us with ample arguments why such forces might be stronger in some subsets of actors than others, or why such forces might affect intergroup ties more than intragroup ties. In this paper we introduce standard measures to capture these group specific forces towards reciprocity, multiplexity, and exchange. All the measures control for differential tendencies of actors to initiate ties of various types. We also introduce a procedure by which differences in the strength of these forces between groups and subgroups can be statistically evaluated.
+C1 [Agneessens, Filip] Univ Groningen, ICS, Groningen, Netherlands.
+   [Skvoretz, John] Univ S Florida, Tampa, FL USA.
+C3 University of Groningen; State University System of Florida; University
+   of South Florida
+RP Agneessens, F (corresponding author), Univ Groningen, ICS, Groningen, Netherlands.
+EM f.agneessens@rug.nl; jskvoretz@usf.edu
+OI Agneessens, Filip/0000-0003-2705-3535
+CR Agneessens F, 2006, SOC NETWORKS, V28, P427, DOI 10.1016/j.socnet.2005.10.001
+   [Anonymous], ADV SOCIAL NETWORK A
+   [Anonymous], 2001, The collegial phenomenon: The social mechanisms of cooperation among peers in a corporate law partnership
+   [Anonymous], 1992, CONT SOCIOLOGICAL TH
+   Blau P.M., 1964, EXCHANGE POWER SOC
+   Boissevain J., 1973, NETWORK ANAL STUDIES, pvii
+   COOK KS, 1978, AM SOCIOL REV, V43, P721, DOI 10.2307/2094546
+   Gluckman Max., 1955, The Judical Process among the Barotse of the northern Rodhesia
+   GOULDNER AW, 1960, AM SOCIOL REV, V25, P161, DOI 10.2307/2092623
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   HARTMAN RL, 1989, HUM COMMUN RES, V15, P523, DOI 10.1111/j.1468-2958.1989.tb00198.x
+   Kapferer B., 1969, Social Networks in Urban Situations:Analyses of Personal Relationships in CentralAfrican Towns, P11
+   KATZ L, 1956, PSYCHOMETRIKA, V21, P299, DOI 10.1007/BF02289141
+   Katz L., 1955, SOCIOMETRY, V19, P403
+   Komter A, 2007, INT SOCIOL, V22, P93, DOI 10.1177/0268580907070127
+   Lazega E, 1999, SOC NETWORKS, V21, P67, DOI 10.1016/S0378-8733(99)00002-7
+   Lazega E, 1997, SOC NETWORKS, V19, P375, DOI 10.1016/S0378-8733(97)00006-3
+   Mandel M, 2000, SOC NETWORKS, V22, P285, DOI 10.1016/S0378-8733(00)00027-7
+   Minor M., 1983, APPL NETWORK ANAL ME
+   Mitchell J.C., 1969, SOCIAL NETWORKS URBA
+   Molm L.D., 1995, Sociological Perspectives on Social Psychology, P209
+   MOLM LD, 1990, AM SOCIOL REV, V55, P427, DOI 10.2307/2095767
+   Molm LD, 2007, SOC PSYCHOL QUART, V70, P199, DOI 10.1177/019027250707000208
+   Pattison P, 1999, BRIT J MATH STAT PSY, V52, P169, DOI 10.1348/000711099159053
+   RAO AR, 1987, SANKHYA SER A, V49, P141
+   SKVORETZ J, 1993, AM SOCIOL REV, V58, P801, DOI 10.2307/2095952
+   Skvoretz J, 2004, SOC NETWORKS, V26, P113, DOI 10.1016/j.socnet.2004.01.005
+   SKVORETZ J, 1990, SOC NETWORKS, V12, P217, DOI 10.1016/0378-8733(90)90006-U
+   Skvoretz J, 2007, QUAL QUANT, V41, P341, DOI 10.1007/s11135-006-9005-y
+   SNIJDERS TAB, 1991, PSYCHOMETRIKA, V56, P397, DOI 10.1007/BF02294482
+   Wheeldon P.D., 1969, Social Networks in Urban Situations: analyses of personal relationships in Central african towns
+   Willer D., 1999, NETWORK EXCHANGE THE
+NR 32
+TC 7
+Z9 12
+U1 0
+U2 16
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0033-5177
+J9 QUAL QUANT
+JI Qual. Quant.
+PD AUG
+PY 2012
+VL 46
+IS 5
+BP 1523
+EP 1545
+DI 10.1007/s11135-011-9465-6
+PG 23
+WC Social Sciences, Interdisciplinary; Statistics & Probability
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics; Mathematics
+GA 968FH
+UT WOS:000305962200013
+DA 2024-11-22
+ER
+
+PT J
+AU Wang, DJ
+   Shi, XL
+   McFarland, DA
+   Leskovec, J
+AF Wang, Dan J.
+   Shi, Xiaolin
+   McFarland, Daniel A.
+   Leskovec, Jure
+TI Measurement error in network data: A re-classification
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Measurement error; Missing data; Simulation
+ID CENTRALITY MEASURES; SOCIAL NETWORKS
+AB Research on measurement error in network data has typically focused on missing data. We embed missing data, which we term false negative nodes and edges, in a broader classification of error scenarios. This includes false positive nodes and edges and falsely aggregated and disaggregated nodes. We simulate these six measurement errors using an online social network and a publication citation network, reporting their effects on four node-level measures - degree centrality, clustering coefficient, network constraint, and eigenvector centrality. Our results suggest that in networks with more positively-skewed degree distributions and higher average clustering, these measures tend to be less resistant to most forms of measurement error. In addition, we argue that the sensitivity of a given measure to an error scenario depends on the idiosyncracies of the measure's calculation, thus revising the general claim from past research that the more 'global' a measure, the less resistant it is to measurement error. Finally, we anchor our discussion to commonly-used networks in past research that suffer from these different forms of measurement error and make recommendations for correction strategies. (C) 2012 Elsevier B.V. All rights reserved.
+C1 [Wang, Dan J.; McFarland, Daniel A.; Leskovec, Jure] Stanford Univ, Dept Sociol, Stanford, CA 94305 USA.
+   [Shi, Xiaolin] Microsoft Corp, Redmond, WA 98052 USA.
+C3 Stanford University; Microsoft
+RP Wang, DJ (corresponding author), Stanford Univ, Dept Sociol, 450 Serra Mall, Stanford, CA 94305 USA.
+EM djwang@stanford.edu
+RI ; McFarland, Daniel/L-7619-2017
+OI Leskovec, Jure/0000-0002-5411-923X; McFarland,
+   Daniel/0000-0002-6805-0798
+FU Direct For Computer & Info Scie & Enginr; Div Of Information &
+   Intelligent Systems [1016909] Funding Source: National Science
+   Foundation; Division Of Computer and Network Systems; Direct For
+   Computer & Info Scie & Enginr [1010921] Funding Source: National Science
+   Foundation; Division Of Research On Learning; Direct For Education and
+   Human Resources [0835614] Funding Source: National Science Foundation
+CR Ackland R, 2009, SOC SCI COMPUT REV, V27, P481, DOI 10.1177/0894439309332291
+   Ahuja G, 2000, ADMIN SCI QUART, V45, P425, DOI 10.2307/2667105
+   Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   [Anonymous], P 28 CHI
+   [Anonymous], 2003, Acm Sigkdd Explorations Newsletter, DOI 10.1145/980972.980992
+   [Anonymous], 2010, P 19 INT C WORLD WID
+   [Anonymous], 1992, Structural holes
+   AZOULAY P, 2005, PEER EFFECTS WORKPLA
+   Barnes J.A., 1979, PERSPECTIVES SOCIAL, P402
+   BERNARD HR, 1984, ANNU REV ANTHROPOL, V13, P495, DOI 10.1146/annurev.an.13.100184.002431
+   BONACICH P, 1987, AM J SOCIOL, V92, P1170, DOI 10.1086/228631
+   Borgatti SP, 2006, SOC NETWORKS, V28, P124, DOI 10.1016/j.socnet.2005.05.001
+   Brewer DD, 2000, SOC NETWORKS, V22, P29, DOI 10.1016/S0378-8733(99)00017-9
+   BURT RS, 1984, SOC NETWORKS, V6, P293, DOI 10.1016/0378-8733(84)90007-8
+   Carley KathleenM., 2005, COMPUTATIONAL MATH O, P179
+   Coleman J.S., 1961, SOCIAL CLIMATES HIGH
+   Costenbader E, 2003, SOC NETWORKS, V25, P283, DOI 10.1016/S0378-8733(03)00012-1
+   Csardi G, 2006, INTERJOURNAL COMPLEX, V1695
+   ERICKSON BH, 1978, SOCIOL METHODOL, P276
+   Feld SL, 2002, SOC NETWORKS, V24, P365, DOI 10.1016/S0378-8733(02)00013-8
+   Fleming L, 2007, ADMIN SCI QUART, V52, P443, DOI 10.2189/asqu.52.3.443
+   Fleming L, 2007, ADV COMPLEX SYST, V10, P53, DOI 10.1142/S0219525907000921
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   GRANOVETTER M, 1976, AM J SOCIOL, V81, P1287, DOI 10.1086/226224
+   Guimerà R, 2009, P NATL ACAD SCI USA, V106, P22073, DOI 10.1073/pnas.0908366106
+   Hagberg A.A., 2008, EXPLORING NETWORK ST, P11, DOI DOI 10.1016/J.JELECTROCARD.2010.09.003
+   Handcock MS, 2010, ANN APPL STAT, V4, P5, DOI 10.1214/08-AOAS221
+   HOLLAND PW, 1973, J MATH SOCIOL, V3, P85, DOI 10.1080/0022250X.1973.9989825
+   Holme P, 2002, PHYS REV E, V65, DOI 10.1103/PhysRevE.65.026107
+   Huisman M., 2014, Encyclopedia of Social Network Analysis and Mining, P707, DOI [10.21307/joss-2019-050, DOI 10.21307/JOSS-2019-050, DOI 10.1007/978-1-4614-6170-8_394]
+   Kapferer Bruce., 1969, Social Networks in Urban Situations, P181
+   Kim M., 2011, P 2011 SIAM INT C DA
+   Kossinets G, 2006, SOC NETWORKS, V28, P247, DOI 10.1016/j.socnet.2005.07.002
+   Laumann E., 1983, Applied Network Analysis, P18
+   Leskovec J, 2006, KDD
+   Lewis K, 2008, SOC NETWORKS, V30, P330, DOI 10.1016/j.socnet.2008.07.002
+   MARSDEN PV, 1990, ANNU REV SOCIOL, V16, P435, DOI 10.1146/annurev.so.16.080190.002251
+   Narayanan A, 2009, P IEEE S SECUR PRIV, P173, DOI 10.1109/SP.2009.22
+   Nardi Bonnie, 2006, P 2006 20 ANN C COMP, P149, DOI DOI 10.1145/1180875.1180898
+   Newman M.E.J., 2002, WHO IS BEST CONNECTE, P1
+   Newman MEJ, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.036122
+   Newman MEJ, 2001, P NATL ACAD SCI USA, V98, P404, DOI 10.1073/pnas.021544898
+   Nyberg S., 2010, FAKE ACCOUNTS FACEBO
+   POOL ID, 1978, SOC NETWORKS, V1, P5, DOI 10.1016/0378-8733(78)90011-4
+   Richmond R., 2010, STOLEN FACEBOOK ACCO
+   Sadikov E., 2011, P 4 ACM INT C WEB SE, P55, DOI DOI 10.1145/1935826.1935844
+   Shi X, 2010, P 10 ANN JOINT C DIG, P49, DOI DOI 10.1145/1816123.1816131
+   STORK D, 1992, GROUP ORGAN MANAGE, V17, P193, DOI 10.1177/1059601192172006
+   SUDMAN S, 1985, SOC NETWORKS, V7, P127, DOI 10.1016/0378-8733(85)90002-4
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Wuchty S, 2007, SCIENCE, V316, P1036, DOI 10.1126/science.1136099
+   Wuchty S, 2009, P NATL ACAD SCI USA, V106, P15099, DOI 10.1073/pnas.0907905106
+NR 52
+TC 105
+Z9 127
+U1 0
+U2 30
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD OCT
+PY 2012
+VL 34
+IS 4
+BP 396
+EP 409
+DI 10.1016/j.socnet.2012.01.003
+PG 14
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 067OD
+UT WOS:000313304100004
+DA 2024-11-22
+ER
+
+PT J
+AU Zhang, YL
+   Lin, N
+   Li, T
+AF Zhang, Yanlong
+   Lin, Nan
+   Li, Ting
+TI Markets or networks: Households' choice of financial intermediary in
+   Western China
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Household; Financial intermediary; Social network; Socioeconomic status
+ID INFORMAL CREDIT MARKETS; ECONOMIC-DEVELOPMENT; MICROFINANCE; ACCESS;
+   INCOME; TIES; EMBEDDEDNESS; INEQUALITY; RESOURCES; STRENGTH
+AB We argue that households' choice of financial intermediary is conditioned by households' social network structures and socioeconomic status. Analyses show that households' social network size and network composition affect their choices by limiting the quality and quantity of information, resources, and social influence one can access through social ties. Moreover, we find that high-SES families favor formal intermediaries due not only to their richer financial knowledge, higher affordability, and greater capacity to repay loans, but also to their high demands and special types of financial needs that can hardly be satisfied by embedded resources. (c) 2012 Elsevier B.V. All rights reserved.
+C1 [Zhang, Yanlong] Peking Univ, Guanghua Sch Management, Beijing 100871, Peoples R China.
+   [Lin, Nan] Duke Univ, Dept Sociol, Durham, NC 27708 USA.
+   [Li, Ting] Univ N Carolina, Carolina Populat Ctr, Chapel Hill, NC 27516 USA.
+C3 Peking University; Duke University; University of North Carolina;
+   University of North Carolina Chapel Hill
+RP Zhang, YL (corresponding author), Peking Univ, Guanghua Sch Management, RM 313,BLDG 2, Beijing 100871, Peoples R China.
+EM yanlong.zhang@gsm.pku.edu.cn; nanlin@duke.edu; tingli@email.unc.edu
+CR Adams D.W., 1992, INFORMAL FINANCE LOW
+   [Anonymous], 1989, World Development Report 1989: Financial Systems and Development
+   [Anonymous], 2006, Regression models for categorical dependent variables using Stata
+   [Anonymous], PURCHASE INTIMACY
+   [Anonymous], 1992, Structural holes
+   [Anonymous], 1998, ANN REV SOCIOLOGY
+   [Anonymous], 2001, SOURCEBOOK LABOR MAR
+   Ayyagari M., 2008, Formal versus Informal Finance: Evidence from China
+   Batjargal B, 2004, ORGAN SCI, V15, P159, DOI 10.1287/orsc.1030.0044
+   Bearman P, 1997, AM J SOCIOL, V102, P1383, DOI 10.1086/231087
+   Besley T, 1996, ECON J, V106, P39, DOI 10.2307/2234930
+   BESLEY T, 1995, J DEV ECON, V46, P1, DOI 10.1016/0304-3878(94)00045-E
+   Besley T., 1995, HDB DEV EC, V3A.
+   Bian Y., 2001, TSINGHUA SOCIOLOGICA, V2, P1
+   Bian YJ, 1997, AM SOCIOL REV, V62, P366, DOI 10.2307/2657311
+   Blau P.M., 1964, EXCHANGE POWER SOC
+   Bose P, 1998, J DEV ECON, V56, P265, DOI 10.1016/S0304-3878(98)00066-2
+   CFSA C. F. S. A., 2006, ALM CHIN FIN BANK
+   Chang ML, 2005, SOC FORCES, V83, P1469, DOI 10.1353/sof.2005.0061
+   CHRISTENSEN G, 1993, WORLD DEV, V21, P721, DOI 10.1016/0305-750X(93)90029-9
+   Cornwell EY, 2008, SOCIOL PERSPECT, V51, P853, DOI 10.1525/sop.2008.51.4.853
+   DEGRAAF ND, 1988, SOC FORCES, V67, P452, DOI 10.2307/2579190
+   DiMaggio P, 1998, AM SOCIOL REV, V63, P619, DOI 10.2307/2657331
+   Ferrary M., 2003, J SOC EC, V31, P672
+   Ghate P., 1992, Informal Finance . Some findings from Asia
+   Granovetter M, 2005, J ECON PERSPECT, V19, P33, DOI 10.1257/0895330053147958
+   Granovetter M, 1995, Getting a Job: A Study of Contacts and Careers
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Guiso L, 1996, AM ECON REV, V86, P158
+   He G.W., 1999, China Rural Economy, V10, P42
+   Hilgert M. A., 2003, Federal Reserve Bulletin, V89, P309
+   [简小鹰 JIAN Xaioying], 2007, [中国农业科技导报, Journal of Agricultural Science and Technology], V9, P112
+   Jiang S., 2009, INFORMAL FINANCE CHI
+   Keister LA, 2000, ANNU REV SOCIOL, V26, P63, DOI 10.1146/annurev.soc.26.1.63
+   Keister LisaA., 2000, WEALTH AM TRENDS WEA
+   Kenny D.A., 2008, MEDIATION DICHOTOMOO
+   Lai GN, 1998, SOC NETWORKS, V20, P159, DOI 10.1016/S0378-8733(97)00012-9
+   Laurenceson J., 2003, FINANCIAL REFORMS EC
+   Li Jianjun., 2009, INFORMAL FINANCE CHI
+   LIN N, 1986, SOC NETWORKS, V8, P365, DOI 10.1016/0378-8733(86)90003-1
+   Lin N, 1999, ANNU REV SOCIOL, V25, P467, DOI 10.1146/annurev.soc.25.1.467
+   Lin Nan., 2010, Social Capital: An International Research Program, P107
+   Lin X., 2010, J LIB INFORM SCI AGR, V22, P8
+   MacKinnon DP, 2007, ANNU REV PSYCHOL, V58, P593, DOI 10.1146/annurev.psych.58.110405.085542
+   MARSDEN PV, 1987, AM SOCIOL REV, V52, P122, DOI 10.2307/2095397
+   Millman Marcia., 1991, WARM HEARTS COLD CAS
+   Mohieldin MS, 2000, ECON DEV CULT CHANGE, V48, P657, DOI 10.1086/452614
+   Molm LD, 2000, AM J SOCIOL, V105, P1396, DOI 10.1086/210434
+   MONTGOMERY JD, 1992, AM SOCIOL REV, V57, P586, DOI 10.2307/2095914
+   Morduch J, 1999, J ECON LIT, V37, P1569, DOI 10.1257/jel.37.4.1569
+   *NBS, 2010, NBS CHIN STAT YB
+   Ong L, 2006, CHINA QUART, P377, DOI 10.1017/S0305741006000208
+   Putnam R., 1999, BOWLING ALONE
+   Rankin KN, 2002, FEM ECON, V8, P1, DOI 10.1080/13545700210125167
+   Rozelle S, 1998, WORLD DEV, V26, P2137, DOI 10.1016/S0305-750X(98)00104-1
+   Sanyal P, 2009, AM SOCIOL REV, V74, P529, DOI 10.1177/000312240907400402
+   SHANMUGAM B, 1991, MOD ASIAN STUD, V25, P209, DOI 10.1017/S0026749X00010659
+   Shih Victor., 2004, Journal of Contemporary China, V13, P3
+   Shirai S., 2002, 43 ADB I
+   Soriano Cheryll Ruth R., 2007, Electronic Journal on Information Systems in Developing Countries, V32, P1
+   Spilerman S, 2000, ANNU REV SOCIOL, V26, P497, DOI 10.1146/annurev.soc.26.1.497
+   Stiglitz J.E., 1992, OXFORD REV ECON POL, V5, P55
+   TANG SY, 1995, WORLD DEV, V23, P845, DOI 10.1016/0305-750X(95)00014-4
+   TARLOV AR, 1989, JAMA-J AM MED ASSOC, V262, P925, DOI 10.1001/jama.262.7.925
+   Uzzi B, 1999, AM SOCIOL REV, V64, P481, DOI 10.2307/2657252
+   Uzzi B, 2004, AM SOCIOL REV, V69, P319, DOI 10.1177/000312240406900301
+   Woolcock M, 1998, THEOR SOC, V27, P151, DOI 10.1023/A:1006884930135
+   Wu G., 1997, CHINA RURAL SURVEY, P7
+   Yang DT, 1999, AM ECON REV, V89, P306, DOI 10.1257/aer.89.2.306
+   Zelizer VA, 1996, SOCIOL FORUM, V11, P481, DOI 10.1007/BF02408389
+   ZELIZER VA, 1989, AM J SOCIOL, V95, P342, DOI 10.1086/229272
+   Zhang J., 2005, J FINANC, V296, P1
+NR 72
+TC 12
+Z9 14
+U1 1
+U2 37
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD OCT
+PY 2012
+VL 34
+IS 4
+BP 670
+EP 681
+DI 10.1016/j.socnet.2012.08.003
+PG 12
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 067OD
+UT WOS:000313304100029
+DA 2024-11-22
+ER
+
+PT J
+AU Lewis, K
+   Gonzalez, M
+   Kaufman, J
+AF Lewis, Kevin
+   Gonzalez, Marco
+   Kaufman, Jason
+TI Social selection and peer influence in an online social network
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+ID FEATHER; BIRDS; HOMOGENEITY; DIFFUSION; BEHAVIOR; SPREAD; MODELS; TASTES
+AB Disentangling the effects of selection and influence is one of social science's greatest unsolved puzzles: Do people befriend others who are similar to them, or do they become more similar to their friends over time? Recent advances in stochastic actor-based modeling, combined with self-reported data on a popular online social network site, allow us to address this question with a greater degree of precision than has heretofore been possible. Using data on the Facebook activity of a cohort of college students over 4 years, we find that students who share certain tastes in music and in movies, but not in books, are significantly likely to befriend one another. Meanwhile, we find little evidence for the diffusion of tastes among Facebook friends-except for tastes in classical/jazz music. These findings shed light on the mechanisms responsible for observed network homogeneity; provide a statistically rigorous assessment of the coevolution of cultural tastes and social relationships; and suggest important qualifications to our understanding of both homophily and contagion as generic social processes.
+C1 [Lewis, Kevin; Gonzalez, Marco] Harvard Univ, Dept Sociol, Cambridge, MA 02138 USA.
+   [Lewis, Kevin; Kaufman, Jason] Harvard Univ, Berkman Ctr Internet & Soc, Cambridge, MA 02138 USA.
+   [Gonzalez, Marco] Santa Rosa Jr Coll, Behav Sci Dept, Santa Rosa, CA 95401 USA.
+C3 Harvard University; Harvard University; Santa Rosa Junior College
+RP Lewis, K (corresponding author), Harvard Univ, Dept Sociol, Cambridge, MA 02138 USA.
+EM kmlewis@fas.harvard.edu
+OI Lewis, Kevin/0000-0003-2113-801X
+FU National Science Foundation [SES-0819400]
+FX We thank Cheri Minton for assistance with data processing; Andreas
+   Wimmer and Nicholas Christakis for their collaboration in compiling the
+   dataset on which this research is based; and two anonymous reviewers for
+   their valuable comments and suggestions. This research was supported by
+   National Science Foundation Grant SES-0819400.
+CR Aral S, 2009, P NATL ACAD SCI USA, V106, P21544, DOI 10.1073/pnas.0908800106
+   Blau PeterMichael., 1984, CROSSCUTTING SOCIAL
+   Bourdieu, 2006, DISTINCTION SOCIAL C
+   Bryson B, 1996, AM SOCIOL REV, V61, P884, DOI 10.2307/2096459
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Currarini S, 2010, P NATL ACAD SCI USA, V107, P4857, DOI 10.1073/pnas.0911793107
+   DIMAGGIO P, 1985, AM J SOCIOL, V90, P1231, DOI 10.1086/228209
+   Ellison NB, 2007, J COMPUT-MEDIAT COMM, V12, P1143, DOI 10.1111/j.1083-6101.2007.00367.x
+   ENNETT ST, 1994, J PERS SOC PSYCHOL, V67, P653, DOI 10.1037/0022-3514.67.4.653
+   Fischer Claude S., 1982, To Dwell among Friends: Personal Networks in Town and City
+   Gladwell M., 2000, TIPPING POINT LITTLE
+   Goodreau SM, 2009, DEMOGRAPHY, V46, P103, DOI 10.1353/dem.0.0045
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Huisman M, 2008, SOC NETWORKS, V30, P297, DOI 10.1016/j.socnet.2008.04.004
+   IBARRA H, 1992, ADMIN SCI QUART, V37, P422, DOI 10.2307/2393451
+   KANDEL DB, 1978, AM J SOCIOL, V84, P427, DOI 10.1086/226792
+   Kaufman J, 2005, AM SOCIOL REV, V70, P82, DOI 10.1177/000312240507000105
+   Keller E., 2003, The influentials: One American in ten tells the other nine how to vote, where to eat, and what to buy
+   KNOKE D, 1990, SOC FORCES, V68, P1041, DOI 10.2307/2579133
+   Kossinets G, 2006, SCIENCE, V311, P88, DOI 10.1126/science.1116869
+   Lewis K, 2008, SOC NETWORKS, V30, P330, DOI 10.1016/j.socnet.2008.07.002
+   Lieberson Stanley., 2000, A Matter of Taste: How Names, Fashions, and Culture Change
+   Lizardo O, 2006, AM SOCIOL REV, V71, P778, DOI 10.1177/000312240607100504
+   Mark N, 1998, SOC FORCES, V77, P453, DOI 10.2307/3005535
+   MARSDEN PV, 1988, SOC NETWORKS, V10, P57, DOI 10.1016/0378-8733(88)90010-X
+   MARSDEN PV, 1990, ANNU REV SOCIOL, V16, P435, DOI 10.1146/annurev.so.16.080190.002251
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Rivera MT, 2010, ANNU REV SOCIOL, V36, P91, DOI 10.1146/annurev.soc.34.040507.134743
+   Rogers E.M., 2003, DIFFUSION INNOVATION
+   Snijders T. A., 2005, MODELS METHODS SOCIA, V1, P215, DOI DOI 10.1017/CBO9780511811395.011
+   Snijders TAB, 2001, SOCIOL METHODOL, V31, P361, DOI 10.1111/0081-1750.00099
+   Snijders T, 2007, EUR ASSOC METHODOL S, P41
+   Snijders TAB, 2010, ANN APPL STAT, V4, P567, DOI 10.1214/09-AOAS313
+   Snijders TAB, 2010, SOC NETWORKS, V32, P44, DOI 10.1016/j.socnet.2009.02.004
+   Steglich C, 2010, SOCIOL METHODOL, V40, P329, DOI 10.1111/j.1467-9531.2010.01225.x
+   TVERSKY A, 1973, COGNITIVE PSYCHOL, V5, P207, DOI 10.1016/0010-0285(73)90033-9
+   Wimmer A, 2010, AM J SOCIOL, V116, P583, DOI 10.1086/653658
+NR 37
+TC 316
+Z9 384
+U1 4
+U2 175
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD JAN 3
+PY 2012
+VL 109
+IS 1
+BP 68
+EP 72
+DI 10.1073/pnas.1109739109
+PG 5
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA 873IV
+UT WOS:000298876500020
+PM 22184242
+OA Green Published, Bronze
+DA 2024-11-22
+ER
+
+PT J
+AU Van Rooy, D
+AF Van Rooy, Dirk
+TI A CONNECTIONIST ABM OF SOCIAL CATEGORIZATION PROCESSES
+SO ADVANCES IN COMPLEX SYSTEMS
+LA English
+DT Article; Proceedings Paper
+CT European Conference on Complex Systems (ECCS) / Cultural and Opinion
+   Dynamics - Modeling, Experiments and Challenges for the Future (CODYM)
+CY SEP 12-16, 2011
+CL Vienna, AUSTRIA
+DE Social influence; connectionism; agent-based modeling; social psychology
+ID EMERGENCE
+AB This paper introduces a connectionist Agent-Based Model (cABM) that incorporates detailed, micro-level understanding of social influence processes derived from laboratory studies and that aims to contextualize these processes in such a way that it becomes possible to model multidirectional, dynamic influences in extended social networks. At the micro-level, agent processes are simulated by recurrent auto-associative networks, an architecture that has a proven ability to simulate a variety of individual psychological and memory processes [D. Van Rooy, F. Van Overwalle, T. Vanhoomissen, C. Labiouse and R. French, Psychol. Rev. 110, 536 (2003)]. At the macro-level, these individual networks are combined into a "community of networks" so that they can exchange their individual information with each other by transmitting information on the same concepts from one net to another. This essentially creates a network structure that reflects a social system in which (a collection of) nodes represent individual agents and the links between agents the mutual social influences that connect them [B. Hazlehurst, and E. Hutchins, Lang. Cogn. Process. 13, 373 (1998)]. The network structure itself is dynamic and shaped by the interactions between the individual agents through simple processes of social adaptation. Through simulations, the cABM generates a number of novel predictions that broadly address three main issues: (1) the consequences of the interaction between multiple sources and targets of social influence (2) the dynamic development of social influence over time and (3) collective and individual opinion trajectories over time. Some of the predictions regarding individual level processes have been tested and confirmed in laboratory experiments. In a extensive research program, data is currently being collected from real groups that will allow validating the predictions of cABM regarding aggregate outcomes.
+C1 Australian Natl Univ, Dept Psychol, Fac Coll Med Biol & Environm, Canberra, ACT 0200, Australia.
+C3 Australian National University
+RP Van Rooy, D (corresponding author), Australian Natl Univ, Dept Psychol, Fac Coll Med Biol & Environm, Canberra, ACT 0200, Australia.
+EM dirk.vanrooy@anu.edu.au
+RI Van Rooy, Dirk/AAH-4985-2019
+OI Van Rooy, Dirk/0000-0003-2525-5408
+CR [Anonymous], 1988, Explorations in Parallel Distributed Processing, DOI DOI 10.1016/j.geoderma.2007.08.022
+   Haslam SA, 1999, PERS SOC PSYCHOL B, V25, P809, DOI 10.1177/0146167299025007004
+   Hazlehurst B, 1998, LANG COGNITIVE PROC, V13, P373, DOI 10.1080/016909698386564
+   Hegselmann R, 2002, JASSS-J ARTIF SOC S, V5
+   Huet S, 2008, ADV COMPLEX SYST, V11, P529, DOI 10.1142/S0219525908001799
+   Kruglanski A. W., 1996, PSYCHOL REV, V103, P163
+   Mason WA, 2007, PERS SOC PSYCHOL REV, V11, P279, DOI 10.1177/1088868307301032
+   MCCLELLAND JL, 1985, J EXP PSYCHOL GEN, V114, P159, DOI 10.1037/0096-3445.114.2.159
+   Reicher S.D., 1987, REDISCOVERING SOCIAL
+   Resnick M., 1994, Turtles, termites and traffic jams: Explorations in massively parallel microworlds
+   Sallach DL, 2003, SOC SCI COMPUT REV, V21, P179, DOI [10.1177/0894439303021002004, 10.1177/0894439303251558]
+   Smith ER, 2007, PERS SOC PSYCHOL REV, V11, P87, DOI 10.1177/1088868306294789
+   Smith ER, 1998, J PERS SOC PSYCHOL, V74, P21, DOI 10.1037/0022-3514.74.1.21
+   Tajfel H., 1986, PSYCHOL INTERGROUP R
+   Troitzsch KG, 2012, SIMUL-T SOC MOD SIM, V88, P7, DOI 10.1177/0037549710386515
+   Turner J.C., 1989, PSYCHOL GROUP INFLUE, V2nd
+   Van Overwalle F., 2007, 7 INT C COGN MOD TRI, P606
+   Van Rooy D, 2003, PSYCHOL REV, V110, P536, DOI 10.1037/0033-295X.110.3.536
+   Wolfram, 2002, NEW KIND SCI, V5
+   Zoethout K, 2009, SEMIOTICA, V175, P317, DOI 10.1515/semi.2009.052
+NR 20
+TC 8
+Z9 8
+U1 2
+U2 15
+PU WORLD SCIENTIFIC PUBL CO PTE LTD
+PI SINGAPORE
+PA 5 TOH TUCK LINK, SINGAPORE 596224, SINGAPORE
+SN 0219-5259
+EI 1793-6802
+J9 ADV COMPLEX SYST
+JI Adv. Complex Syst.
+PD AUG
+PY 2012
+VL 15
+IS 6
+AR 1250077
+DI 10.1142/S0219525912500774
+PG 21
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Mathematics; Science & Technology - Other Topics
+GA 036SH
+UT WOS:000311050300006
+DA 2024-11-22
+ER

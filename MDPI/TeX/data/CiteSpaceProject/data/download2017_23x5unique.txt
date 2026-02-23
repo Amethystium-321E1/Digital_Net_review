@@ -1,0 +1,520 @@
+
+PT J
+AU Garcia, D
+AF Garcia, David
+TI Leaking privacy and shadow profiles in online social networks
+SO SCIENCE ADVANCES
+LA English
+DT Article
+AB Social interaction and data integration in the digital society can affect the control that individuals have on their privacy. Social networking sites can access data from other services, including user contact lists where nonusers are listed too. Although most research on online privacy has focused on inference of personal information of users, this data integration poses the question of whether it is possible to predict personal information of nonusers. This article tests the shadow profile hypothesis, which postulates that the data given by the users of an online service predict personal information of nonusers. Using data from a disappeared social networking site, we perform a historical audit to evaluate whether personal data of nonusers could have been predicted with the personal data and contact lists shared by the users of the site. We analyze personal information of sexual orientation and relationship status, which follow regular mixing patterns in the social network. Going back in time over the growth of the network, we measure predictor performance as a function of network size and tendency of users to disclose their contact lists. This article presents robust evidence supporting the shadow profile hypothesis and reveals a multiplicative effect of network size and disclosure tendencies that accelerates the performance of predictors. These results call for new privacy paradigms that take into account the fact that individual privacy decisions do not happen in isolation and are mediated by the decisions of others.
+C1 [Garcia, David] ETH, Chair Syst Design, Weinbergstr 56-58, CH-8092 Zurich, Switzerland.
+C3 Swiss Federal Institutes of Technology Domain; ETH Zurich
+RP Garcia, D (corresponding author), ETH, Chair Syst Design, Weinbergstr 56-58, CH-8092 Zurich, Switzerland.
+EM dgarcia@ethz.ch
+RI Garcia, David/A-2113-2014
+OI Garcia, David/0000-0002-2820-9151
+FU ETH Foundation through the ETH Risk Center Seed Project "Systemic Risks
+   for Privacy in Online Interaction"
+FX This research has been funded by the ETH Foundation through the ETH Risk
+   Center Seed Project "Systemic Risks for Privacy in Online Interaction."
+CR Al Zamal F., 2012, P INT AAAI C WEB SOC, P387
+   [Anonymous], 2013, Proceedings of the first ACM conference on Online social networks, DOI DOI 10.1145/2512938.2512946
+   [Anonymous], ZDNET
+   Backstrom L, 2014, Proceedings of the 17th ACM conference on Computer supported cooperative work social computing, P831
+   Bennett WL, 2012, INFORM COMMUN SOC, V15, P739, DOI 10.1080/1369118X.2012.670661
+   Boyd D, 2012, SURVEILL SOC, V10, P348
+   Castells M., 2011, RISE NETWORK SOC
+   Fawcett T, 2006, PATTERN RECOGN LETT, V27, P861, DOI 10.1016/j.patrec.2005.10.010
+   HANLEY JA, 1983, RADIOLOGY, V148, P839, DOI 10.1148/radiology.148.3.6878708
+   Horvát EA, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0034740
+   Jernigan C., 2009, First Monday, V14, DOI 10.5210/fm.v14i10.2611
+   Kendall M. G., 1948, Rank correlation methods.
+   Kim S, 2015, COMMUN STAT APPL MET, V22, P665, DOI 10.5351/CSAM.2015.22.6.665
+   Kleinberg J, 2013, PHILOS T R SOC A, V371, DOI 10.1098/rsta.2012.0378
+   Knibbs K., 2013, DIGITAL TRENDS
+   Kosinski M, 2013, P NATL ACAD SCI USA, V110, P5802, DOI 10.1073/pnas.1218772110
+   Liu Y., 2011, Proceedings of the 2011 ACM SIGCOMM conference on Internet measurement conference, P61, DOI [10.1145/2068816.2068823, DOI 10.1145/2068816.2068823]
+   Marwick AE, 2012, SURVEILL SOC, V9, P378
+   Onnela JP, 2010, P NATL ACAD SCI USA, V107, P18375, DOI 10.1073/pnas.0914572107
+   Robin X, 2011, BMC BIOINFORMATICS, V12, DOI 10.1186/1471-2105-12-77
+   Rouvroy A, 2009, REINVENTING DATA PROTECTION, P45, DOI 10.1007/978-1-4020-9498-9_2
+   Sarigol E., 2014, Proceedings of the second ACM conference on Online social networks, P95
+   Wu YY, 2015, P NATL ACAD SCI USA, V112, P1036, DOI 10.1073/pnas.1418680112
+   Zheleva E., 2009, P 18 INT C WORLD WID, P531, DOI DOI 10.1145/1526709.1526781
+NR 24
+TC 56
+Z9 61
+U1 0
+U2 14
+PU AMER ASSOC ADVANCEMENT SCIENCE
+PI WASHINGTON
+PA 1200 NEW YORK AVE, NW, WASHINGTON, DC 20005 USA
+SN 2375-2548
+J9 SCI ADV
+JI Sci. Adv.
+PD AUG
+PY 2017
+VL 3
+IS 8
+AR e1701172
+DI 10.1126/sciadv.1701172
+PG 6
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA FI0CW
+UT WOS:000411589900016
+PM 28798961
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Shi, YR
+   Dokshin, FA
+   Genkin, M
+   Brashears, ME
+AF Shi, Yongren
+   Dokshin, Fedor A.
+   Genkin, Michael
+   Brashears, Matthew E.
+TI A Member Saved Is a Member Earned? The Recruitment-Retention Trade-Off
+   and Organizational Strategies for Membership Growth
+SO AMERICAN SOCIOLOGICAL REVIEW
+LA English
+DT Article
+DE organizations; ecology; social networks; social movements
+ID SOCIAL NETWORKS; COMPETITION; NICHE; PERSISTENCE; EVOLUTION; DYNAMICS;
+   ECOLOGY; FAITH; MODEL
+AB A long line of research documents the essential role of social networks in mediating the recruitment and retention of members in organizations. But organizations also comprise a primary context where people form social ties. We investigate how the network structure an organization creates among its members influences its ability to grow and reproduce. In particular, we propose that two dimensions of organizational strategy influence affiliation dynamics: (1) the extent to which an organization induces social interaction among its members (social encapsulation), and (2) the time and energy that an organization demands of its members (time and energy demand). We examine membership dynamics in an ecology where competitor organizations deploying varied strategies vie for the same pool of members. Results show a curvilinear relationship between membership growth and the rate of social encapsulation. Furthermore, we find that time and energy demand mediates the effect of social encapsulation by shaping its members' opportunities for maintaining external affiliations. Different opportunity structures result in different levels of network turnover, thus either reinforcing or dissolving intra-organizational ties. For most types of organizations, attaining sustained growth requires a balance between open networks (for recruitment) and network closure (for retention).
+C1 [Shi, Yongren] Yale Univ, 17 Hillhouse Ave,POB 208 263, New Haven, CT 06511 USA.
+   [Dokshin, Fedor A.] Cornell Univ, Dept Sociol, Ithaca, NY 14853 USA.
+   [Genkin, Michael] Singapore Management Univ, Sociol, Singapore, Singapore.
+   [Brashears, Matthew E.] Univ South Carolina, Columbia, SC USA.
+C3 Yale University; Cornell University; Singapore Management University;
+   University of South Carolina System; University of South Carolina
+   Columbia
+RP Shi, YR (corresponding author), Yale Univ, 17 Hillhouse Ave,POB 208 263, New Haven, CT 06511 USA.
+EM yongren.shi@yale.edu
+RI GENKIN, Michael/J-4130-2014
+OI Shi, Yongren/0000-0002-1876-6237
+FU Defense Threat Reduction Agency [HDTRA-10-1-0043]
+FX This research was supported by a grant from the Defense Threat Reduction
+   Agency (HDTRA-10-1-0043).
+CR [Anonymous], 1972, Exit, voice, and loyalty: responses to decline in firms, organisations, and states
+   [Anonymous], J ARTIFICIAL SOC SOC
+   Baldassarri D, 2007, AM SOCIOL REV, V72, P784, DOI 10.1177/000312240707200507
+   BARNETT WP, 1995, ANNU REV SOCIOL, V21, P217
+   Brashears ME, 2013, SCI REP-UK, V3, DOI 10.1038/srep01513
+   BREIGER RL, 1974, SOC FORCES, V53, P181, DOI 10.2307/2576011
+   Burger MJ, 2009, SOC NETWORKS, V31, P63, DOI 10.1016/j.socnet.2008.10.001
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   Centola D, 2015, AM J SOCIOL, V120, P1295, DOI 10.1086/681275
+   Chattoe E, 2006, BRIT J SOCIOL, V57, P379, DOI 10.1111/j.1468-4446.2006.00116.x
+   Coleman J.S., 1994, FDN SOCIAL THEORY
+   Coser LewisA., 1974, GREEDY I PATTERNS UN
+   Cress DM, 1997, SOCIOL PERSPECT, V40, P61, DOI 10.2307/1389493
+   della Porta D., 1988, New social movements in Western Europe and the United States, P155
+   DellaPosta D, 2015, AM J SOCIOL, V120, P1473, DOI 10.1086/681254
+   DIMAGGIO PJ, 1983, AM SOCIOL REV, V48, P147, DOI 10.2307/2095101
+   DUNBAR RIM, 1992, J HUM EVOL, V22, P469, DOI 10.1016/0047-2484(92)90081-J
+   Edwards B, 2004, SOC FORCES, V83, P621, DOI 10.1353/sof.2005.0009
+   Entwisle B, 2007, AM J SOCIOL, V112, P1495, DOI 10.1086/511803
+   FELD SL, 1981, AM J SOCIOL, V86, P1015, DOI 10.1086/227352
+   Friedkin NE, 1999, ADV GROUP, V16, P1
+   Geard N, 2010, ADV COMPLEX SYST, V13, P501, DOI 10.1142/S0219525910002712
+   Gould R.V., 2003, SOCIAL MOVEMENTS NET, P233, DOI DOI 10.1093/0199251789.003.0010
+   GOULD RV, 1991, AM SOCIOL REV, V56, P716, DOI 10.2307/2096251
+   Granovetter M, 1995, Getting a Job: A Study of Contacts and Careers
+   Guimerà R, 2005, SCIENCE, V308, P697, DOI 10.1126/science.1106340
+   Han H, 2016, AM POLIT SCI REV, V110, P296, DOI 10.1017/S000305541600006X
+   HANNAN MT, 1977, AM J SOCIOL, V82, P929, DOI 10.1086/226424
+   HARRISON JR, 1991, ADMIN SCI QUART, V36, P552, DOI 10.2307/2393274
+   Hechter M., 1987, PRINCIPLES GROUP SOL
+   IANNACCONE LR, 1994, AM J SOCIOL, V99, P1180, DOI 10.1086/230409
+   Ingram P, 2007, ADMIN SCI QUART, V52, P558, DOI 10.2189/asqu.52.4.558
+   Johnson NormanL., 1977, Urn Model and Their Application: An Approach to Modern Discrete Probability Theory
+   Kanter RosabethMoss., 1972, Commitment and Community: Communes and Utopias in Sociological Perspective
+   Kitts JA, 1999, SOCIOL INQ, V69, P551, DOI 10.1111/j.1475-682X.1999.tb00886.x
+   Kitts JamesA., 2000, MOBILIZATION, V5, P241, DOI [10.17813/maiq.5.2.5408016w34215787, DOI 10.17813/MAIQ.5.2.5408016W34215787]
+   KRACKHARDT D, 1988, SOC PSYCHOL QUART, V51, P123, DOI 10.2307/2786835
+   Labianca G, 2006, ACAD MANAGE REV, V31, P596, DOI [10.5465/AMR.2006.21318920, 10.2307/20159231]
+   Lewis K, 2014, SOCIOL SCI, V1, P1, DOI 10.15195/v1.a1
+   Lim C, 2008, SOC FORCES, V87, P961
+   Lizardo O, 2006, AM SOCIOL REV, V71, P778, DOI 10.1177/000312240607100504
+   LOFLAND J, 1965, AM SOCIOL REV, V30, P862, DOI 10.2307/2090965
+   Lofland J., 1978, CONVERSION CAREERS, P10
+   Macy MW, 2002, ANNU REV SOCIOL, V28, P143, DOI 10.1146/annurev.soc.28.110601.141117
+   Mark N, 1998, SOC FORCES, V77, P453, DOI 10.2307/3005535
+   Marsden PeterV., 2001, SOURCEBOOK LABOR MAR, DOI 10.1007/978-1-4615-1225-7_19
+   MARSDEN PV, 1984, SOC FORCES, V63, P482, DOI 10.2307/2579058
+   MAYHEW BH, 1976, AM J SOCIOL, V81, P1017, DOI 10.1086/226184
+   MCADAM D, 1986, AM J SOCIOL, V92, P64, DOI 10.1086/228463
+   MCADAM D, 1993, AM J SOCIOL, V99, P640, DOI 10.1086/230319
+   McAdam Doug., 1999, POLITICAL PROCESS DE, V2nd
+   McAdam Doug., 2003, Social Movements and Networks: Relational Approaches to Collective Action, P281
+   McFarland DA, 2014, AM SOCIOL REV, V79, P1088, DOI 10.1177/0003122414554001
+   MCPHERSON JM, 1992, AM SOCIOL REV, V57, P153, DOI 10.2307/2096202
+   McPherson JM, 1996, AM SOCIOL REV, V61, P179, DOI 10.2307/2096330
+   MCPHERSON JM, 1991, SOC FORCES, V70, P19, DOI 10.2307/2580060
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   McPherson M, 2004, IND CORP CHANGE, V13, P263, DOI 10.1093/icc/13.1.263
+   MCPHERSON M, 1983, AM SOCIOL REV, V48, P519, DOI 10.2307/2117719
+   McPherson M., 2002, Group Cohesion, Trust and Solidarity: Advances in Group Processes, P1
+   Morris AldonD., 1984, The origins of the civil rights movement : Black communities organizing for change
+   Mowday R.T., 1982, ORG LINKAGES PSYCHOL
+   Neal Z, 2014, SOC NETWORKS, V39, P84, DOI 10.1016/j.socnet.2014.06.001
+   OLIVER P, 1984, AM SOCIOL REV, V49, P601, DOI 10.2307/2095418
+   Pattison P, 2002, SOCIOL METHODOL, V32, P301, DOI 10.1111/1467-9531.00119
+   Pfeffer J., 1978, EXTERNAL CONTROL ORG
+   POPIELARZ PA, 1995, AM J SOCIOL, V101, P698, DOI 10.1086/230757
+   Popielarz PA, 2007, ANNU REV SOCIOL, V33, P65, DOI 10.1146/annurev.soc.32.061604.123118
+   PUTNAM R, 1995, J DEMOCRACY, V0006
+   Putnam Robert D., 2000, BOWLING ALONE COLLAP, DOI 10.1145/358916.361990
+   ROCHFORD EB, 1982, SOC PROBL, V29, P399
+   Rotolo T, 2001, SOC FORCES, V79, P1095, DOI 10.1353/sof.2001.0024
+   Saramäki J, 2014, P NATL ACAD SCI USA, V111, P942, DOI 10.1073/pnas.1308540110
+   Scott W.R., 1992, Organizations: Rational, natural, and open systems, V3rd
+   Simmel Georg., 1955, Conflict and the Web of Group-Affiliations
+   Simon H. A., 2013, ADM BEHAV
+   Skocpol Theda., 2013, DIMINISHED DEMOCRACY
+   Small Mario Luis, 2009, Unanticipated gains
+   SNOW DA, 1980, AM SOCIOL REV, V45, P787, DOI 10.2307/2094895
+   STARK R, 1980, AM J SOCIOL, V85, P1376, DOI 10.1086/227169
+   Stern C, 1999, EUR SOCIOL REV, V15, P91, DOI 10.1093/oxfordjournals.esr.a018256
+   Stiller J, 2007, SOC NETWORKS, V29, P93, DOI 10.1016/j.socnet.2006.04.001
+   Walgrave S, 2014, AM J SOCIOL, V119, P1670, DOI 10.1086/676853
+   Walker E., 2014, Grassroots for hire: Public affairs consultants in American democracy
+   Wellman B, 2001, INT J URBAN REGIONAL, V25, P227, DOI 10.1111/1468-2427.00309
+   Winship Christopher, 2009, OXFORD HDB ANAL SOCI, P498
+   Young C, 2014, SOCIOL SCI, V1, P10, DOI 10.15195/v1.a2
+   Zweig KA, 2011, SOC NETW ANAL MIN, V1, P187, DOI 10.1007/s13278-011-0021-0
+NR 88
+TC 27
+Z9 45
+U1 1
+U2 27
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0003-1224
+EI 1939-8271
+J9 AM SOCIOL REV
+JI Am. Sociol. Rev.
+PD APR
+PY 2017
+VL 82
+IS 2
+BP 407
+EP 434
+DI 10.1177/0003122417693616
+PG 28
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA EQ5NJ
+UT WOS:000398129300007
+OA Green Accepted
+DA 2024-11-22
+ER
+
+PT J
+AU Török, J
+   Kertész, J
+AF Torok, Janos
+   Kertesz, Janos
+TI Cascading collapse of online social networks
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID BEHAVIOR; INTERNET
+AB Online social networks have increasing influence on our society, they may play decisive roles in politics and can be crucial for the fate of companies. Such services compete with each other and some may even break down rapidly. Using social network datasets we show the main factors leading to such a dramatic collapse. At early stage mostly the loosely bound users disappear, later collective effects play the main role leading to cascading failures. We present a theory based on a generalised threshold model to explain the findings and show how the collapse time can be estimated in advance using the dynamics of the churning users. Our results shed light to possible mechanisms of instabilities in other competing social processes.
+C1 [Torok, Janos; Kertesz, Janos] Cent European Univ, Ctr Network Sci, Nador U 9, H-1051 Budapest, Hungary.
+   [Torok, Janos; Kertesz, Janos] Budapest Univ Technol & Econ, Dept Theoret Phys, H-1111 Budapest, Hungary.
+C3 Central European University; Budapest University of Technology &
+   Economics
+RP Török, J (corresponding author), Cent European Univ, Ctr Network Sci, Nador U 9, H-1051 Budapest, Hungary.; Török, J (corresponding author), Budapest Univ Technol & Econ, Dept Theoret Phys, H-1111 Budapest, Hungary.
+EM torok@phy.bme.hu
+RI Kertesz, Janos/JHS-3903-2023; /A-9944-2012
+FU OTKA of the Hungarian Science foundation [K112713]; H FETPROACTGSS
+   CIMPLEX Grant [641191]
+FX This work was supported by OTKA K112713 of the Hungarian Science
+   foundation and by the H2020 FETPROACTGSS CIMPLEX Grant No. 641191. We
+   thank Zhongyuan Ruan for data analysis at an early stage of this work.
+CR Albert R, 2000, NATURE, V406, P378, DOI 10.1038/35019019
+   Andjelkovic M, 2015, PHYSICA A, V436, P582, DOI 10.1016/j.physa.2015.05.075
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Buldyrev SV, 2010, NATURE, V464, P1025, DOI 10.1038/nature08932
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Cohen R, 2001, PHYS REV LETT, V86, P3682, DOI 10.1103/PhysRevLett.86.3682
+   Cohen R, 2000, PHYS REV LETT, V85, P4626, DOI 10.1103/PhysRevLett.85.4626
+   Dunbar RIM, 2015, SOC NETWORKS, V43, P39, DOI 10.1016/j.socnet.2015.04.005
+   Easley D, 2010, Networks, Crowds, and Markets: Reasoning about A Highly Connected World, DOI [10.1017/CBO9780511761942, DOI 10.1017/CBO9780511761942]
+   Faust K, 1994, SOCIAL NETWORK ANAL
+   Gleeson JP, 2013, PHYS REV X, V3, DOI 10.1103/PhysRevX.3.021004
+   Gleeson JP, 2011, PHYS REV LETT, V107, DOI 10.1103/PhysRevLett.107.068701
+   Gleeson JP, 2007, PHYS REV E, V75, DOI 10.1103/PhysRevE.75.056103
+   Goltsev AV, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.056101
+   González-Bailón S, 2011, SCI REP-UK, V1, DOI 10.1038/srep00197
+   GRANOVETTER M, 1978, AM J SOCIOL, V83, P1420, DOI 10.1086/226707
+   Ipsos G. H. K, 2007, GEMIUS IPSOS AUDIENC
+   Karsai M, 2016, SCI REP-UK, V6, DOI 10.1038/srep27178
+   Karsai M, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2014.0694
+   Kim HS, 2004, TELECOMMUN POLICY, V28, P751, DOI 10.1016/j.telpol.2004.05.013
+   Kleinberg JM, 1999, J ACM, V46, P604, DOI 10.1145/324133.324140
+   Kossinets G, 2006, SCIENCE, V311, P88, DOI 10.1126/science.1116869
+   Lengyel B., 2014, PLOS ONE
+   Lerman K., 2010, P 4 INT AAAI C WEBL, P90
+   Leskovec J., 2014, STANFORD LARGE NETWO
+   Leskovec J, 2005, ACM SIGKDD C KNOWLED, P177
+   Mitrovic M, 2011, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2011/02/P02005
+   Morone F, 2015, NATURE, V524, P65, DOI 10.1038/nature14604
+   Newman M., 2010, NETWORKS INTRO
+   Pastor-Satorras R, 2015, REV MOD PHYS, V87, P925, DOI 10.1103/RevModPhys.87.925
+   Rogers E.M., 2010, DIFFUSION INNOVATION
+   Ruan ZY, 2015, PHYS REV LETT, V115, DOI 10.1103/PhysRevLett.115.218702
+   Saavedra S, 2008, P NATL ACAD SCI USA, V105, P16466, DOI 10.1073/pnas.0804740105
+   Singh P, 2013, SCI REP-UK, V3, DOI 10.1038/srep02330
+   Suvakov M., 2012, ARXIV12066588
+   Tadic B., 2017, CYBEREMOTIONS, P207
+   Tadic B, 2013, ENTROPY-SWITZ, V15, P5084, DOI 10.3390/e15125084
+   The World Bank, 1990, INT US
+   Török J, 2016, PHYS REV E, V94, DOI 10.1103/PhysRevE.94.052319
+   Watts DJ, 2002, P NATL ACAD SCI USA, V99, P5766, DOI 10.1073/pnas.082090499
+   Weng LL, 2013, 19TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING (KDD'13), P356
+NR 41
+TC 14
+Z9 15
+U1 0
+U2 5
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD DEC 1
+PY 2017
+VL 7
+AR 16743
+DI 10.1038/s41598-017-17135-1
+PG 8
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA FO5YO
+UT WOS:000416938200051
+PM 29196654
+OA Green Submitted, Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Wilson, JD
+   Denny, MJ
+   Bhamidi, S
+   Cranmer, SJ
+   Desmarais, BA
+AF Wilson, James D.
+   Denny, Matthew J.
+   Bhamidi, Shankar
+   Cranmer, Skyler J.
+   Desmarais, Bruce A.
+TI Stochastic weighted graphs: Flexible model specification and simulation
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Exponential random graph; Generalized exponential random graph; Markov
+   Chain Monte Carlo; Metropolis-Hastings
+ID EXPONENTIAL-FAMILY; LOGISTIC REGRESSIONS; SOCIAL NETWORKS; LOGIT-MODELS;
+   DISTRIBUTIONS; MIGRATION; FINANCE
+AB In most domains of network analysis researchers consider networks that arise in nature with weighted edges. Such networks are routinely dichotomized in the interest of using available methods for statistical inference with networks. The generalized exponential random graph model (GERGM) is a recently proposed method used to simulate and model the edges of a weighted graph. The GERGM specifies a joint distribution for an exponential family of graphs with continuous-valued edge weights. However, current estimation algorithms for the GERGM only allow inference on a restricted family of model specifications. To address this issue, we develop a Metropolis-Hastings method that can be used to estimate any GERGM specification, thereby significantly extending the family of weighted graphs that can be modeled with the GERGM. We show that new flexible model specifications are capable of avoiding likelihood degeneracy and efficiently capturing network structure in applications where such models were not previously available. We demonstrate the utility of this new class of GERGMs through application to two real network data sets, and we further assess the effectiveness of our proposed methodology by simulating non-degenerate model specifications from the well-studied two-stars model. A working R version of the GERGM code is available in the supplement and is incorporated in the GERGM CRAN package. (C) 2016 Elsevier B.V. All rights reserved.
+C1 [Wilson, James D.] Univ San Francisco, Dept Math & Stat, San Francisco, CA 94117 USA.
+   [Denny, Matthew J.] Penn State Univ, Dept Polit Sci & Social Data Analyt, University Pk, PA 16802 USA.
+   [Bhamidi, Shankar] Univ N Carolina, Dept Stat & Operat Res, Chapel Hill, NC 27515 USA.
+   [Cranmer, Skyler J.] Ohio State Univ, Dept Polit Sci, Columbus, OH 43210 USA.
+   [Desmarais, Bruce A.] Penn State Univ, Dept Polit Sci, University Pk, PA 16802 USA.
+C3 University of San Francisco; Pennsylvania Commonwealth System of Higher
+   Education (PCSHE); Pennsylvania State University; Pennsylvania State
+   University - University Park; University of North Carolina; University
+   of North Carolina Chapel Hill; University System of Ohio; Ohio State
+   University; Pennsylvania Commonwealth System of Higher Education
+   (PCSHE); Pennsylvania State University; Pennsylvania State University -
+   University Park
+RP Desmarais, BA (corresponding author), Penn State Univ, Dept Polit Sci, University Pk, PA 16802 USA.
+EM jdwilson4@usfca.edu; mdenny@psu.edu; bhamidi@email.unc.edu;
+   cranmer.12@osu.edu; bdesmarais@psu.edu
+RI ; Cranmer, Skyler/D-9414-2016
+OI Desmarais, Bruce/0000-0002-3031-8883; Bhamidi,
+   Shankar/0009-0000-3953-936X; Cranmer, Skyler/0000-0002-6213-6400
+FU National Science Foundation; NSF [DGE-1144860, DMS-1105581, DMS-1310002,
+   DMS-160683, DMS-161307, SES-1357622, SES-1357606, SES-1461493,
+   SES-1514750]; Alexander von Humboldt Foundation;  [CISE-1320219]
+FX The authors gratefully acknowledge the National Science Foundation and
+   NSF grants DGE-1144860, DMS-1105581, DMS-1310002, DMS-160683,
+   DMS-161307, SES-1357622, SES-1357606, SES-1461493, SES-1514750 and the
+   Alexander von Humboldt Foundation, and CISE-1320219.
+CR Amini H., 2013, MATH FINANC, P1
+   [Anonymous], 2002, J. Social Struct
+   Billio M, 2012, J FINANC ECON, V104, P535, DOI 10.1016/j.jfineco.2011.12.010
+   Browne WJ, 2006, COMPUT STAT DATA AN, V50, P1655, DOI 10.1016/j.csda.2005.02.008
+   Chatterjee S, 2013, ANN STAT, V41, P2428, DOI 10.1214/13-AOS1155
+   Chun YW, 2008, J GEOGR SYST, V10, P317, DOI 10.1007/s10109-008-0068-2
+   Claeskens G, 2010, J R STAT SOC B, V72, P673, DOI 10.1111/j.1467-9868.2010.00752.x
+   CLARK GL, 1981, ECON GEOGR, V57, P95, DOI 10.2307/144135
+   Desmarais BA, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0030136
+   FRANK O, 1986, J AM STAT ASSOC, V81, P832, DOI 10.2307/2289017
+   Franks AM, 2015, J AM STAT ASSOC, V110, P27, DOI 10.1080/01621459.2014.964404
+   Gai P, 2010, P ROY SOC A-MATH PHY, V466, P2401, DOI 10.1098/rspa.2009.0410
+   GENEST C, 1986, AM STAT, V40, P280, DOI 10.2307/2684602
+   Geweke J., 1992, BAYESIAN STAT, P169
+   GEYER CJ, 1992, J R STAT SOC B, V54, P657
+   Gimpel JG, 2001, J POLIT, V63, P207, DOI 10.1111/0022-3816.00065
+   Häggström O, 1999, J APPL PROBAB, V36, P1101, DOI 10.1239/jap/1032374758
+   Handcock M.S., 2003, 39 U WASH CTR STAT S
+   HOLLAND PW, 1981, J AM STAT ASSOC, V76, P33, DOI 10.2307/2287037
+   Hunter DR, 2006, J COMPUT GRAPH STAT, V15, P565, DOI 10.1198/106186006X133069
+   Hunter DR., 2008, Journal of Statistical Software, V24, P1, DOI DOI 10.18637/JSS.V024.I03
+   Iori G, 2008, J ECON DYN CONTROL, V32, P259, DOI 10.1016/j.jedc.2007.01.032
+   Jonasson J, 1999, J APPL PROBAB, V36, P852, DOI 10.1239/jap/1032374639
+   Krivitsky PN, 2012, ELECTRON J STAT, V6, P1100, DOI 10.1214/12-EJS696
+   Levine PB, 1999, J POPUL ECON, V12, P391, DOI 10.1007/s001480050105
+   Lubetzky E., 2014, RANDOM STRUCT ALGORI
+   Lubetzky E, 2015, RANDOM STRUCT ALGOR, V47, P109, DOI 10.1002/rsa.20536
+   Müller G, 2010, J FINANC ECONOMET, V8, P481, DOI 10.1093/jjfinec/nbq029
+   Neelon B, 2014, STAT METHODS MED RES, V23, P119, DOI 10.1177/0962280212447149
+   Niemira MP, 2004, INT J FORECASTING, V20, P573, DOI 10.1016/j.ijforecast.2003.09.013
+   Nier E, 2007, J ECON DYN CONTROL, V31, P2033, DOI 10.1016/j.jedc.2007.01.014
+   Oatley T, 2013, PERSPECT POLIT, V11, P133, DOI 10.1017/S1537592712003593
+   Park J, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.066146
+   Park J, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.066117
+   Pattison P, 2002, SOCIOL METHODOL, V32, P301, DOI 10.1111/1467-9531.00119
+   Rinaldo A, 2009, ELECTRON J STAT, V3, P446, DOI 10.1214/08-EJS350
+   Roberts GO, 1997, ANN APPL PROBAB, V7, P110, DOI 10.1214/aoap/1034625254
+   Robins G, 1999, PSYCHOMETRIKA, V64, P371, DOI 10.1007/BF02294302
+   Rodriguez J. C., 2007, J. Empir. Financ, V14, P401, DOI [DOI 10.1016/J.JEMPFIN.2006.07.002, 10.1016/j.jempfin.2006.07.002]
+   Schweinberger M, 2011, J AM STAT ASSOC, V106, P1361, DOI 10.1198/jasa.2011.tm10747
+   Simpson SL, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0020039
+   Snijders TAB, 2006, SOCIOL METHODOL, V36, P99, DOI 10.1111/j.1467-9531.2006.00176.x
+   Snyman JA, 2005, APPL OPTIM, V97, P1, DOI 10.1007/b105200
+   STRAUSS D, 1990, J AM STAT ASSOC, V85, P204, DOI 10.2307/2289546
+   van Duijn MAJ, 2009, SOC NETWORKS, V31, P52, DOI 10.1016/j.socnet.2008.10.003
+   Wasserman S, 1996, PSYCHOMETRIKA, V61, P401, DOI 10.1007/BF02294547
+   Wyatt D, 2010, AAAI CONF ARTIF INTE, P630
+NR 47
+TC 32
+Z9 36
+U1 0
+U2 28
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD MAY
+PY 2017
+VL 49
+BP 37
+EP 47
+DI 10.1016/j.socnet.2016.11.002
+PG 11
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA EM8ZX
+UT WOS:000395601700004
+OA Green Submitted, Bronze
+DA 2024-11-22
+ER
+
+PT J
+AU Del Vicario, M
+   Zollo, F
+   Caldarelli, G
+   Scala, A
+   Quattrociocchi, W
+AF Del Vicario, Michela
+   Zollo, Fabiana
+   Caldarelli, Guido
+   Scala, Antonio
+   Quattrociocchi, Walter
+TI Mapping social dynamics on Facebook: The Brexit debate
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Collective debates; Polarization; Online social networks
+ID BEHAVIOR
+AB Nowadays users get informed and shape their opinion through social media. However, the disintermediated access to contents does not guarantee quality of information. Selective exposure and confirmation bias, indeed, have been shown to play a pivotal role in content consumption and information spreading. Users tend to select information adhering (and reinforcing) their worldview and to ignore dissenting information. This pattern elicits the formation of polarized groups - i.e., echo chambers where the interaction with like-minded people might even reinforce polarization. In this work we address news consumption around Brexit in UK on Facebook. In particular, we perform a massive analysis on more than I million users interacting with Brexit related posts from the main news providers between January and July 2016. We show that consumption patterns elicit the emergence of two distinct communities of news outlets. Furthermore, to better characterize inner group dynamics, we introduce a new technique which combines automatic topic extraction and sentiment analysis. We compare how the same topics are presented on posts and the related emotional response on comments finding significant differences in both echo chambers and that polarization influences the perception of topics. Our results provide important insights about the determinants of polarization and evolution of core narratives on online debating. (C) 2017 Elsevier B.V. All rights reserved.
+C1 [Del Vicario, Michela; Zollo, Fabiana; Caldarelli, Guido; Quattrociocchi, Walter] IMT Sch Adv Studies, CSSLab, Lucca, Italy.
+   [Scala, Antonio] CNR, ICS, Rome, Italy.
+   [Zollo, Fabiana] Ca Foscari Univ Venice, Dept Environm Sci Informat & Stat, Venice, Italy.
+C3 IMT School for Advanced Studies Lucca; Consiglio Nazionale delle
+   Ricerche (CNR); Universita Ca Foscari Venezia
+RP Del Vicario, M (corresponding author), IMT Sch Adv Studies, CSSLab, Lucca, Italy.
+EM michela.delvicario@imtlucca.it
+RI Quattrociocchi, Walter/IAQ-5197-2023; Zollo, Fabiana/Z-1506-2019;
+   Caldarelli, Guido/AAB-8206-2022; Quattrociocchi, Walter/L-4550-2016;
+   Scala, Antonio/A-2098-2012; Caldarelli, Guido/A-5274-2010
+OI Quattrociocchi, Walter/0000-0002-4374-9324; Scala,
+   Antonio/0000-0002-3414-2686; Caldarelli, Guido/0000-0001-9377-3616;
+   Zollo, Fabiana/0000-0002-0833-5388
+CR Adamic L.A., 2005, P 3 INT WORKSH LINK, P36, DOI DOI 10.1145/1134271.1134277
+   Alchemy API, 2016, POW NEW AI EC
+   [Anonymous], 2015, Reuters Institute Digital News Report 2015 Tracking
+   [Anonymous], ARXIV151004267
+   Backstrom J., 2013, P 6 ACM INT C WEB SE, P13, DOI DOI 10.1145/2433396.2433401
+   Bessi A, 2015, WWW'15 COMPANION: PROCEEDINGS OF THE 24TH INTERNATIONAL CONFERENCE ON WORLD WIDE WEB, P355, DOI 10.1145/2740908.2745939
+   Bessi A, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0159641
+   Bessi A, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0118093
+   Bianchetti M., 2016, BREXIT BREMAIN EVIDE
+   Blondel VD, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/10/P10008
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Clauset A, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.066111
+   Del Vicario M, 2016, P NATL ACAD SCI USA, V113, P554, DOI 10.1073/pnas.1517441113
+   Diao Q., 2012, P 50 ANN M ASS COMP, P536
+   Fowler JH, 2010, P NATL ACAD SCI USA, V107, P5334, DOI 10.1073/pnas.0913149107
+   Gangemi Aldo, 2013, Semantic Web: Semantics and Big Data. Proceedings of 10th International Conference (ESWC 2013): LNCS 7882, P351
+   Howard PN, 2016, Bots,# StrongerIn, and# Brexit: computational propaganda during the UK-EU referendum
+   HUBERT L, 1985, J CLASSIF, V2, P193, DOI 10.1007/BF01908075
+   Kramer ADI, 2014, P NATL ACAD SCI USA, V111, P8788, DOI 10.1073/pnas.1320040111
+   Pons P, 2005, LECT NOTES COMPUT SC, V3733, P284
+   Quattrociocchi W., 2016, SOCIAL SCI RES NETWO
+   Quattrociocchi W, 2014, SCI REP-UK, V4, DOI 10.1038/srep04938
+   Raghavan UN, 2007, PHYS REV E, V76, DOI 10.1103/PhysRevE.76.036106
+   RAND WM, 1971, J AM STAT ASSOC, V66, P846, DOI 10.2307/2284239
+   Romero D.M., 2011, Proceedings of the 20th international conference on World wide web, P695, DOI DOI 10.1145/1963405.1963503
+   Salganik MJ, 2006, SCIENCE, V311, P854, DOI 10.1126/science.1121066
+   Serrano MA, 2009, P NATL ACAD SCI USA, V106, P6483, DOI 10.1073/pnas.0808904106
+   Steinberger R, 2013, ARXIV PREPRINT ARXIV, P1
+   Stolz B., 2016, ARXIV161000752
+   Sunstein CR, 2002, J POLIT PHILOS, V10, P175, DOI 10.1111/1467-9760.00148
+   Zollo F, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0138740
+NR 31
+TC 129
+Z9 140
+U1 5
+U2 128
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JUL
+PY 2017
+VL 50
+BP 6
+EP 16
+DI 10.1016/j.socnet.2017.02.002
+PG 11
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA EX8VI
+UT WOS:000403527900002
+OA Green Submitted
+DA 2024-11-22
+ER

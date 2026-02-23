@@ -1,0 +1,569 @@
+
+PT J
+AU Gehl, RW
+   Zulli, D
+AF Gehl, Robert W.
+   Zulli, Diana
+TI The digital covenant: non-centralized platform governance on the
+   mastodon social network
+SO INFORMATION COMMUNICATION & SOCIETY
+LA English
+DT Article
+DE Alternative social media; federalist political theory; mastodon;
+   platform governance; social media
+AB The majority of scholarship on platform governance focuses on for-profit, corporate social media with highly centralized network structures. Instead, we show how non-centralized platform governance functions in the Mastodon social network. Through an analysis of survey data, Github and Discourse developer discussions, Mastodon Codes of Conduct, and participant observations, we argue Mastodon's platform governance is an exemplar of the covenant, a key concept from federalist political theory. We contrast Mastodon's covenantal federalism platform governance with the contractual form used by corporate social media. We also use covenantal federalist theory to explain how Mastodon's users, administrators, and developers justify revoking or denying membership in the federation. In doing so, this study sheds new light on the innovations in platform governance that go beyond the corporate/alt-right platform dichotomy.
+C1 [Gehl, Robert W.] York Univ, Commun & Media Studies, Toronto, ON, Canada.
+   [Zulli, Diana] Purdue Univ, Brian Lamb Sch Commun, W Lafayette, IN 47907 USA.
+C3 York University - Canada; Purdue University System; Purdue University
+RP Gehl, RW (corresponding author), 2015 Victor Phillip Dandaleh Bldg,4700 Keele St, Toronto, ON M3J 1P3, Canada.
+EM rwg@yorku.ca
+OI Gehl, Robert/0000-0001-6000-4722
+FU Brian Lamb School of Communication; Louisiana Board of Regents
+FX This research was funded by the Brian Lamb School of Communication and
+   The Louisiana Board of Regents.
+CR [Anonymous], MASTODON SOCIAL TARG
+   [Anonymous], MASTODON SERVER COVE
+   Atton Chris., 2002, Alternative Media
+   BAKER JW, 1993, PUBLIUS J FEDERALISM, V23, P19
+   Barojan D., 2017, MEDIUM
+   Berman M, 2014, COMPUT NETW, V61, P5, DOI 10.1016/j.bjp.2013.12.037
+   Biesecker M., 2021, AP NEWS 0420
+   Bond S., 2021, NPR 0125
+   Burgess Michael., 2012, In Search of the Federal Spirit: New Theoretical and Empirical Perspectives in Comparative Federalism
+   Caelin Derek, 2022, Fundamental Challenges to Global Peace and Security: The Future of Humanity, P143
+   Carey J.W., 1989, COMMUNICATION CULTUR, P173
+   DJSundog, 2017, MIGRATORY ACCOUNTS C
+   Dunbar-Hester Christina., 2019, Hacking Diversity
+   Dwoskin Elizabeth, 2021, The Washington Post.com
+   Ehmke C.A., 2020, RISING ETHICAL STORM
+   Elazar D.J., 1995, JEWISH POLITICAL STU, V7, P5
+   Elazar D.J., 2007, ENCY POLITICS RELIG, P217, DOI [10.4135/9781483300535, DOI 10.4135/9781483300535]
+   ELAZAR DJ, 1982, PUBLIUS J FEDERALISM, V12, P1
+   Eleanor, 2019, OFFICIAL MASTOD 0604
+   Ess C., 2009, Digital media ethics
+   Flew T, 2019, J DIGIT MEDIA POLICY, V10, P33, DOI 10.1386/jdmp.10.1.33_1
+   Friz A, 2016, MEDIA CULT SOC, V38, P686, DOI 10.1177/0163443715620925
+   Gehl RW, 2015, SOC MEDIA SOC, V1, DOI 10.1177/2056305115604338
+   Gehl RW., 2017, The SAGE Handbook of Social Media, P330
+   Gillespie T, 2020, INTERNET POLICY REV, V9, DOI 10.14763/2020.4.1512
+   Gorwa R, 2020, BIG DATA SOC, V7, DOI 10.1177/2053951719897945
+   Grimmelmann J., 2015, Yale Journal of Law and Technology, V17
+   hach-que, 2016, SUPP ACC MIGR
+   Hawley G., 2019, The Alt-Right: What Everyone Needs to Know
+   Kor-Sins R, 2023, NEW MEDIA SOC, V25, P2321, DOI 10.1177/14614448211038810
+   LUTZ DS, 1980, PUBLIUS J FEDERALISM, V10, P101
+   Makuch B., 2019, VICE 0711
+   Mastodon/mastodon, 2021, MASTODON
+   Meyer C.B., 2001, FIELD METHOD, V13, P329, DOI [DOI 10.1177/1525822X0101300402, 10.1177/1525822X0101300402]
+   Mills C.W., 1999, The Racial Contract
+   Moots Glenn A., 2009, ASHGATE RES COMPANIO, P391
+   OSTROM V, 1980, PUBLIUS J FEDERALISM, V10, P83
+   Pateman Carol., 1988, SEXUAL CONTRACT
+   Peters C., 2021, VOX 0110
+   Rankovic D., 2019, RECLAIM NET 0706
+   Rankovic D., 2019, RECLAIM NET 0705
+   Ray S., 2021, FORBES 0414
+   Rhodes A., 2020, HACKERS PLANET 0729
+   Robertson A., 2021, VERGE 1022
+   Rodríguez C, 2014, MEDIA CULT SOC, V36, P150, DOI 10.1177/0163443714523877
+   Roscam Abbing R., 2021, THESIS MALMO U
+   Scott KA, 2012, PUBLIUS J FEDERALISM, V42, P592, DOI 10.1093/publius/pjr050
+   Young IrisMarion., 2000, Political Theory and the Rights of Indigenous Peoples, P237
+   Zuckerberg M., 2021, SHOCKING EVENTS LAST
+   Zuckerman E., 2021, Deplatforming our way to the Alt-Tech ecosystem
+   Zulli D, 2020, NEW MEDIA SOC, V22, P1188, DOI 10.1177/1461444820912533
+NR 51
+TC 5
+Z9 5
+U1 9
+U2 45
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1369-118X
+EI 1468-4462
+J9 INFORM COMMUN SOC
+JI Info. Commun. Soc.
+PD DEC 10
+PY 2023
+VL 26
+IS 16
+BP 3277
+EP 3293
+DI 10.1080/1369118X.2022.2147400
+EA NOV 2022
+PG 17
+WC Communication; Sociology
+WE Social Science Citation Index (SSCI)
+SC Communication; Sociology
+GA CX5V1
+UT WOS:000899108700001
+OA hybrid
+DA 2024-11-22
+ER
+
+PT J
+AU Kozitsin, IV
+AF Kozitsin, Ivan V.
+TI Opinion dynamics of online social network users: a micro-level analysis
+SO JOURNAL OF MATHEMATICAL SOCIOLOGY
+LA English
+DT Article
+DE Opinion dynamics; online social networks; repulsive influence
+ID TUTORIAL; BEHAVIOR; FEATHER; BIRDS
+AB In this paper, we present an empirical study of the opinion dynamics of a large-scale sample of online social network users. We estimate users' opinions as continuous scalars based on their subscriptions to information sources and analyze how friendship connections affect the dynamics of these estimations. Distinguishing between positive (toward friends' opinions) and negative (away from friends' opinions) opinion shifts, we find that the existence and magnitude of both types of shifts are positively related (largely through linear or inverted U-shaped form) to the distance in opinions between a user and their friends. The distance additionally moderates the balance between positive and negative movements: if the distance is within a certain moderate range, there is a relatively high chance of a positive shift.
+C1 [Kozitsin, Ivan V.] Russian Acad Sci, VA Trapeznikov Inst Control Sci, Lab Act Syst, Moscow, Russia.
+   [Kozitsin, Ivan V.] Moscow Inst Phys & Technol, Dept Higher Math, Dolgoprudnyi, Russia.
+C3 Russian Academy of Sciences; V.A. Trapeznikov Institute of Control
+   Sciences, Russian Academy of Sciences; Moscow Institute of Physics &
+   Technology
+RP Kozitsin, IV (corresponding author), Russian Acad Sci, Trapeznikov Inst Control Sci, Lab Act Syst, 65 Profsoyuznaya St, Moscow 117997, Russia.
+EM kozitsin.ivan@mail.ru
+RI Koz, Ivan/AAJ-4817-2021
+FU Russian Foundation for Basic Research [18-2922042]
+FX This work was supported by the Russian Foundation for Basic Research,
+   project no. 18-2922042.
+CR Abelson R. P., 1964, Contributions to Mathematical Psychology, V3, P1
+   Abid Ons, 2018, Online Social Networks and Media, V6, P1, DOI 10.1016/j.osnem.2018.02.002
+   Altafini C, 2013, IEEE T AUTOMAT CONTR, V58, P935, DOI 10.1109/TAC.2012.2224251
+   [Anonymous], 1990, EUR J SOC PSYCHOL, DOI DOI 10.1002/EJSP.2420200306
+   [Anonymous], 2018, [No title captured], P44
+   Aral S, 2017, NAT COMMUN, V8, DOI 10.1038/ncomms14753
+   Asch S., 1961, Documents of Gestalt Psychology, P222, DOI DOI 10.1525/9780520313514-017
+   Bakshy E, 2015, SCIENCE, V348, P1130, DOI 10.1126/science.aaa1160
+   Barberá P, 2015, POLIT ANAL, V23, P76, DOI 10.1093/pan/mpu011
+   Bary Pradelski, 2017, MICR INFL MACR DYN O, DOI [10.2139/ssrn.2974413, DOI 10.2139/SSRN.2974413]
+   Bond RM, 2012, NATURE, V489, P295, DOI 10.1038/nature11421
+   Böttcher L, 2020, EPJ DATA SCI, V9, DOI 10.1140/epjds/s13688-020-00249-4
+   Castellano C, 2009, REV MOD PHYS, V81, P591, DOI 10.1103/RevModPhys.81.591
+   Centola D, 2019, NAT HUM BEHAV, V3, P664, DOI 10.1038/s41562-019-0607-5
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Christakis NA, 2013, STAT MED, V32, P556, DOI 10.1002/sim.5408
+   Dandekar P, 2013, P NATL ACAD SCI USA, V110, P5791, DOI 10.1073/pnas.1217220110
+   Deffuant G, 2000, APPLICATIONS OF SIMULATION TO SOCIAL SCIENCES, P87, DOI 10.1142/S0219525900000078
+   DEGROOT MH, 1974, J AM STAT ASSOC, V69, P118, DOI 10.2307/2285509
+   Del Vicario M, 2017, SCI REP-UK, V7, DOI 10.1038/srep40391
+   Flache A, 2008, COMPUT MATH ORGAN TH, V14, P23, DOI 10.1007/s10588-008-9019-1
+   Flache A, 2017, JASSS-J ARTIF SOC S, V20, DOI 10.18564/jasss.3521
+   Frasca, 2019, ARXIV180904644PHYSIC
+   Frey D., 1986, ADV EXP SOC PSYCHOL, V19, P41, DOI [10.1016/S0065-2601(08)60212-9, DOI 10.1016/S0065-2601(08)60212-9]
+   Friedkin NE, 2021, SOC NETWORKS, V65, P157, DOI 10.1016/j.socnet.2020.12.009
+   Friedkin NE, 2017, P NATL ACAD SCI USA, V114, P11380, DOI 10.1073/pnas.1710603114
+   Friedkin NE, 2016, SCIENCE, V354, P321, DOI 10.1126/science.aag2624
+   Gaisbauer F, 2020, PHYS REV E, V102, DOI 10.1103/PhysRevE.102.042303
+   Geschke D, 2019, BRIT J SOC PSYCHOL, V58, P129, DOI 10.1111/bjso.12286
+   Hegselmann R, 2002, JASSS-J ARTIF SOC S, V5
+   Herzog S., 2020, PSYARXIV, DOI [10.31234/osf.io/3q4mg, DOI 10.31234/OSF.IO/3Q4MG]
+   Holme P, 2006, PHYS REV E, V74, DOI 10.1103/PhysRevE.74.056108
+   Kerckhove CV, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0157685
+   Kovanen L, 2013, P NATL ACAD SCI USA, V110, P18070, DOI 10.1073/pnas.1307941110
+   Kozitsin I. V., 2020, Mathematical Models and Computer Simulations, V12, P185, DOI 10.1134/S2070048220020088
+   Kozitsin IV, 2022, J MATH SOCIOL, V46, P120, DOI 10.1080/0022250X.2020.1835894
+   Krizan Z, 2007, EUR J SOC PSYCHOL, V37, P191, DOI 10.1002/ejsp.345
+   Kurahashi-Nakamura T, 2016, JASSS-J ARTIF SOC S, V19, DOI 10.18564/jasss.3220
+   Liu CC, 2015, AM SOCIOL REV, V80, P192, DOI 10.1177/0003122414564182
+   Mäs M, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0074516
+   Mäs M, 2010, PLOS COMPUT BIOL, V6, DOI 10.1371/journal.pcbi.1000959
+   MAZEN R, 1972, J EXP SOC PSYCHOL, V8, P289, DOI 10.1016/0022-1031(72)90019-4
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Michael Maes, 2019, Computer Simulation Validation: Fundamental Concepts, Methodological Frameworks, and Philosophical Perspectives, P857, DOI [10.1007/978-3-319-70766-2_35, DOI 10.1007/978-3-319-70766-2_35]
+   Monsted B, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0184148
+   Moussaïd M, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0078433
+   Newman MEJ, 2001, PHYS REV E, V64, DOI [10.1103/PhysRevE.64.016132, 10.1103/PhysRevE.64.016131]
+   Nickerson RS., 1998, REV GEN PSYCHOL, V2, P175, DOI [10.1037/1089-2680.2.2.175, DOI 10.1037/1089-2680.2.2.175]
+   Olbrich, 2019, ARXIV180906134PHYSIC
+   Perra N, 2019, SCI REP-UK, V9, DOI 10.1038/s41598-019-43830-2
+   Peshkovskaya A, 2019, RATION SOC, V31, P337, DOI 10.1177/1043463119858788
+   Petrov A., 2020, P C MOD AN COMPL SYS, P79
+   Proskurnikov, 2020, ARXIV200706713CSEESS
+   Proskurnikov AV, 2018, ANNU REV CONTROL, V45, P166, DOI 10.1016/j.arcontrol.2018.03.005
+   Proskurnikov AV, 2017, IFAC PAPERSONLINE, V50, P11896, DOI 10.1016/j.ifacol.2017.08.1424
+   Proskurnikov AV, 2017, ANNU REV CONTROL, V43, P65, DOI 10.1016/j.arcontrol.2017.03.002
+   Sherif M., 1961, SOCIAL JUDGEMENT ASS
+   Snijders TAB, 2017, ANNU REV STAT APPL, V4, P343, DOI 10.1146/annurev-statistics-060116-054035
+   Takarinda KC, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0147828
+   Tang T, 2019, JASSS-J ARTIF SOC S, V22, DOI 10.18564/jasss.4020
+   Ugander J, 2012, P NATL ACAD SCI USA, V109, P5962, DOI 10.1073/pnas.1116502109
+NR 61
+TC 29
+Z9 30
+U1 2
+U2 17
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 0022-250X
+EI 1545-5874
+J9 J MATH SOCIOL
+JI J. Math. Sociol.
+PD JAN 2
+PY 2023
+VL 47
+IS 1
+BP 1
+EP 41
+DI 10.1080/0022250X.2021.1956917
+EA AUG 2021
+PG 41
+WC Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods; Sociology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Mathematical Methods In Social Sciences; Sociology
+GA 7L2SN
+UT WOS:000681201400001
+OA Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Ruiz-García, M
+   Ozaita, J
+   Pereda, M
+   Alfonso, A
+   Brañas-Garza, P
+   Cuesta, JA
+   Sánchez, A
+AF Ruiz-Garcia, Miguel
+   Ozaita, Juan
+   Pereda, Maria
+   Alfonso, Antonio
+   Branas-Garza, Pablo
+   Cuesta, Jose A.
+   Sanchez, Angel
+TI Triadic influence as a proxy for compatibility in social relationships
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE social networks; influence; relationship prediction; machine learning
+ID LINK-PREDICTION; DYNAMICS
+AB Networks of social interactions are the substrate upon which civilizations are built. Often, we create new bonds with people that we like or feel that our relationships are damaged through the intervention of third parties. Despite their importance and the huge impact that these processes have in our lives, quantitative scientific understanding of them is still in its infancy, mainly due to the difficulty of collecting large datasets of social networks including individual attributes. In this work, we present a thorough study of real social networks of 13 schools, with more than 3,000 students and 60,000 declared positive and negative relationships, including tests for personal traits of all the students. We introduce a metric-the "triadic influence"-that measures the influence of nearest neighbors in the relationships of their contacts. We use neural networks to predict the sign of the relationships in these social networks, extracting the probability that two students are friends or enemies depending on their personal attributes or the triadic influence. We alternatively use a high-dimensional embedding of the network structure to also predict the relationships. Remarkably, using the triadic influence (a simple one-dimensional metric) achieves the best accuracy, and adding the personal traits of the students does not improve the results, suggesting that the triadic influence acts as a proxy for the social compatibility of students. We postulate that the probabilities extracted from the neural networks-functions of the triadic influence and the personalities of the students-control the evolution of real social networks, opening an avenue for the quantitative study of these systems.
+C1 [Ruiz-Garcia, Miguel] Univ Complutense Madrid, Dept Estruct Mat Fis Term & Elect, Madrid 28040, Spain.
+   [Ruiz-Garcia, Miguel; Pereda, Maria; Cuesta, Jose A.; Sanchez, Angel] Grp Interdisciplinar Sistemas Complejos GISC, Madrid 28911, Spain.
+   [Ruiz-Garcia, Miguel; Ozaita, Juan; Cuesta, Jose A.; Sanchez, Angel] Univ Carlos III Madrid, Dept Matemat, Leganes 28911, Spain.
+   [Pereda, Maria] Univ Politecn Madrid, Escuela Tecn Super Ingn Ind, Dept Ingn Org Adm Empresas & Estadist, Grp Invest Ingn Org & Logist IOL, Madrid 28006, Spain.
+   [Alfonso, Antonio; Branas-Garza, Pablo] Univ Loyola Andalucia, Dept Econ & Fdn ETEA, LoyolaBehLAB, Cordoba 14004, Spain.
+   [Cuesta, Jose A.] Univ Zaragoza, Inst Biocomp & Fis Sistemas Complejos BIFI, Zaragoza 50018, Spain.
+C3 Complutense University of Madrid; Universidad Carlos III de Madrid;
+   Universidad Politecnica de Madrid; Universidad Loyola Andalucia;
+   University of Zaragoza
+RP Ruiz-García, M (corresponding author), Univ Complutense Madrid, Dept Estruct Mat Fis Term & Elect, Madrid 28040, Spain.; Ruiz-García, M (corresponding author), Grp Interdisciplinar Sistemas Complejos GISC, Madrid 28911, Spain.; Ruiz-García, M (corresponding author), Univ Carlos III Madrid, Dept Matemat, Leganes 28911, Spain.
+EM miguel.ruiz.garcia@ucm.es
+RI Ruiz-Garcia, Miguel/AAH-5885-2019; Alfonso, Antonio/AAZ-5341-2021;
+   Cuesta, Jose A/A-7157-2008; Branas-Garza, Pablo/Q-1532-2018; Sanchez,
+   Angel/A-9229-2008; Pereda, Maria/K-1865-2014
+OI Alfonso, Antonio/0000-0002-5396-3711; Ruiz-Garcia,
+   Miguel/0000-0002-0738-5770; Cuesta, Jose A/0000-0001-9890-9367;
+   Branas-Garza, Pablo/0000-0001-8456-6009; Sanchez,
+   Angel/0000-0003-1874-2881; Pereda, Maria/0000-0002-6151-1176
+FU MCIN/AEI; Spanish Ministry of Science and Innovation; NextGeneration EU
+   through the Ramon y Cajal program [801538]; ERDF A way of making Europe;
+   CONEX-Plus program - Universidad Carlos III de Madrid; European Union;
+   MCIN; Agencia Andaluza de Cooperacion Internacional parael Desarrollo;
+   Universidad de Granada; Junta de Andalucia;  [RYC2021-032055-I]; 
+   [PGC2018-098186-B-I00];  [PID2021-126892NB-I00];  [AACID-0I008/2020]; 
+   [B.SEJ.280.UGR20];  [PY18-FR-007]
+FX This work has been partly supported by grant PGC2018-098186-B-I00
+   (BASIC) funded by MCIN/AEI/10.13039/501100011033 and by "ERDF A way of
+   making Europe". M.R.-G. acknowledges support from the Spanish Ministry
+   of Science and Innovation and NextGeneration EU through the Ramon y
+   Cajal program (RYC2021-032055-I) and from the CONEX-Plus program funded
+   by Universidad Carlos III de Madrid and the European Union's Horizon
+   2020 research and innovation program under the Marie Sklodowska-Curie
+   grant agreement No. 801538. P.B.-G. acknowledges support from
+   MCIN(PID2021-126892NB-I00), Agencia Andaluza de Cooperacion
+   Internacional parael Desarrollo (AACID-0I008/2020), Universidad de
+   Granada (B.SEJ.280.UGR20), and Junta de Andalucia (PY18-FR-007)
+CR Abadi M., 2015, TensorFlow. Large-Scale Machine Learning on Heterogeneous Systems, V1, DOI DOI 10.5281/ZENODO.8071599
+   Airoldi EM, 2008, J MACH LEARN RES, V9, P1981
+   Alfonso-Costillo A., 2022, PREPRINT
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Berlusconi G, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0154244
+   Bianconi G, 2001, EUROPHYS LETT, V54, P436, DOI 10.1209/epl/i2001-00260-6
+   Boardman JD, 2012, P NATL ACAD SCI USA, V109, P17377, DOI 10.1073/pnas.1208975109
+   Branas Garza P., 2022, ROLE UNOBSERVABLE CH
+   Brañas-Garza P, 2019, J BEHAV EXP ECON, V82, DOI 10.1016/j.socec.2019.101455
+   Brockmann D, 2006, NATURE, V439, P462, DOI 10.1038/nature04292
+   Brodersen Kay H., 2010, Proceedings of the 2010 20th International Conference on Pattern Recognition (ICPR 2010), P3121, DOI 10.1109/ICPR.2010.764
+   Buijs VL, 2022, SOC NETWORKS, V70, P25, DOI 10.1016/j.socnet.2021.10.008
+   CARTWRIGHT D, 1956, PSYCHOL REV, V63, P277, DOI 10.1037/h0046049
+   Cattuto C, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0011596
+   Chawla NV, 2002, J ARTIF INTELL RES, V16, P321, DOI 10.1613/jair.953
+   Dunbar RIM, 2020, P ROY SOC A-MATH PHY, V476, DOI 10.1098/rspa.2020.0446
+   Easley D, 2010, Networks, Crowds, and Markets: Reasoning about A Highly Connected World, DOI [10.1017/CBO9780511761942, DOI 10.1017/CBO9780511761942]
+   Escribano D, 2021, SCI REP-UK, V11, DOI 10.1038/s41598-021-90984-z
+   Fehr E, 2008, NATURE, V454, P1079, DOI 10.1038/nature07155
+   Gelardi V, 2020, P ROY SOC A-MATH PHY, V476, DOI 10.1098/rspa.2019.0737
+   Goodfellow I, 2016, ADAPT COMPUT MACH LE, P1
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Grover A, 2016, KDD'16: PROCEEDINGS OF THE 22ND ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P855, DOI 10.1145/2939672.2939754
+   Guimerà R, 2009, P NATL ACAD SCI USA, V106, P22073, DOI 10.1073/pnas.0908366106
+   Hanneke S, 2010, ELECTRON J STAT, V4, P585, DOI 10.1214/09-EJS548
+   Hao ZG, 2019, IEEE ACCESS, V7, P54133, DOI 10.1109/ACCESS.2019.2912662
+   HARARY F, 1959, BEHAV SCI, V4, P316
+   Heider F, 1946, J PSYCHOL, V21, P107, DOI 10.1080/00223980.1946.9917275
+   Holme P, 2012, PHYS REP, V519, P97, DOI 10.1016/j.physrep.2012.03.001
+   Jackson MO, 2008, SOCIAL AND ECONOMIC NETWORKS, P1
+   Jin EM, 2001, PHYS REV E, V64, DOI 10.1103/PhysRevE.64.046132
+   Kumar A, 2020, PHYSICA A, V553, DOI 10.1016/j.physa.2020.124289
+   Leecaster M, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0153690
+   Liben-Nowell D, 2007, J AM SOC INF SCI TEC, V58, P1019, DOI 10.1002/asi.20591
+   Longa A., 2021, PYTORCH GEOMETRIC TU
+   Lü LY, 2012, PHYS REP, V519, P1, DOI 10.1016/j.physrep.2012.02.006
+   MORENO JACOBL., 1993, Who Shall Survive?: Foundations of Sociometry, Group Psychotherapy and Sociodrama
+   Newman M., 2010, NETWORKS, DOI [DOI 10.1093/ACPROF:OSO/9780199206650.001.0001, 10.1093/acprof:oso/9780199206650.001.0001]
+   Newman MEJ, 2001, PHYS REV E, V64, DOI 10.1103/PhysRevE.64.025102
+   Oliveira JG, 2005, NATURE, V437, P1251, DOI 10.1038/4371251a
+   Onnela JP, 2007, P NATL ACAD SCI USA, V104, P7332, DOI 10.1073/pnas.0610245104
+   Peter J, 2005, CYBERPSYCHOL BEHAV, V8, P423, DOI 10.1089/cpb.2005.8.423
+   Ruiz-Garcia M., ZENODO
+   Ruiz-Garcia M., GITHUB
+   Ruiz-Garcia M, 2021, PR MACH LEARN RES, V139
+   Ruiz-García M, 2019, PHYS REV E, V100, DOI 10.1103/PhysRevE.100.052608
+   Snijders TAB, 2010, SOC NETWORKS, V32, P44, DOI 10.1016/j.socnet.2009.02.004
+   Song HH, 2009, IMC'09: PROCEEDINGS OF THE 2009 ACM SIGCOMM INTERNET MEASUREMENT CONFERENCE, P322
+   Starnini M, 2013, PHYS REV LETT, V110, DOI 10.1103/PhysRevLett.110.168701
+   Tamarit I., 2019, THESIS U CARLOS 2 MA
+   Ureña-Carrion J, 2020, EPJ DATA SCI, V9, DOI 10.1140/epjds/s13688-020-00256-5
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+NR 53
+TC 0
+Z9 0
+U1 4
+U2 13
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+EI 1091-6490
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD MAR 28
+PY 2023
+VL 120
+IS 13
+AR e2215041120
+DI 10.1073/pnas.2215041120
+PG 8
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA I2UD5
+UT WOS:001001376000001
+PM 36947512
+OA Green Published, hybrid, Green Accepted, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Ogino, M
+   Maldonado-Chaparro, AA
+   Aplin, LM
+   Farine, DR
+AF Ogino, Mina
+   Maldonado-Chaparro, Adriana A. A.
+   Aplin, Lucy M. M.
+   Farine, Damien R. R.
+TI Group-level differences in social network structure remain repeatable
+   after accounting for environmental drivers
+SO ROYAL SOCIETY OPEN SCIENCE
+LA English
+DT Article
+DE group-level behaviour; social network; environment; partitioning;
+   repeatability; zebra finch
+ID GROUP-SIZE; BEHAVIOR; SOCIABILITY
+AB Individuals show consistent between-individual behavioural variation when they interact with conspecifics or heterospecifics. Such patterns might underlie emergent group-specific behavioural patterns and between-group behavioural differences. However, little is known about (i) how social and non-social drivers (external drivers) shape group-level social structures and (ii) whether animal groups show consistent between-group differences in social structure after accounting for external drivers. We used automated tracking to quantify daily social interactions and association networks in 12 colonies of zebra finches (Taeniopygia guttata). We quantified the effects of five external drivers (group size, group composition, ecological factors, physical environments and methodological differences) on daily interaction and association networks and tested whether colonies expressed consistent differences in day-to-day network structure after controlling for these drivers. Overall, we found that external drivers contribute significantly to network structure. However, even after accounting for the contribution of external drivers, there remained significant support for consistent between-group differences in both interaction (repeatability R: up to 0.493) and association (repeatability R: up to 0.736) network structures. Our study demonstrates how group-level differences in social behaviour can be partitioned into different drivers of variation, with consistent contributions from both social and non-social factors.
+C1 [Ogino, Mina; Maldonado-Chaparro, Adriana A. A.] Univ Konstanz, Dept Biol, D-78464 Constance, Germany.
+   [Ogino, Mina; Maldonado-Chaparro, Adriana A. A.; Aplin, Lucy M. M.; Farine, Damien R. R.] Univ Konstanz, Ctr Adv Study Collect Behav, D-78464 Constance, Germany.
+   [Ogino, Mina; Maldonado-Chaparro, Adriana A. A.; Farine, Damien R. R.] Max Planck Inst Anim Behav, Dept Collect Behav, D-78467 Constance, Germany.
+   [Ogino, Mina; Farine, Damien R. R.] Univ Zurich, Dept Evolutionary Biol & Environm Studies, CH-8006 Zurich, Switzerland.
+   [Maldonado-Chaparro, Adriana A. A.] Univ Rosario, Fac Nat Sci, Dept Biol, Cra 26 63B-48, Bogota, Colombia.
+   [Aplin, Lucy M. M.] Max Planck Inst Anim Behav, Cognit & Cultural Ecol Res Grp, D-78315 Radolfzell am Bodensee, Germany.
+C3 University of Konstanz; University of Konstanz; Max Planck Society;
+   University of Zurich; Universidad del Rosario; Max Planck Society
+RP Ogino, M (corresponding author), Univ Konstanz, Dept Biol, D-78464 Constance, Germany.; Ogino, M; Farine, DR (corresponding author), Univ Konstanz, Ctr Adv Study Collect Behav, D-78464 Constance, Germany.; Ogino, M; Farine, DR (corresponding author), Max Planck Inst Anim Behav, Dept Collect Behav, D-78467 Constance, Germany.; Ogino, M; Farine, DR (corresponding author), Univ Zurich, Dept Evolutionary Biol & Environm Studies, CH-8006 Zurich, Switzerland.
+EM mina.ogino@uzh.ch; damien.farine@ieu.uzh.ch
+RI Ogino, Mina/GYD-5124-2022; Farine, Damien/Y-2454-2019
+OI Ogino, Mina/0000-0002-3780-2942; Maldonado-Chaparro, Adriana
+   A./0000-0003-0853-4966; Farine, Damien/0000-0003-2208-7613; Aplin,
+   Lucy/0000-0001-5367-826X
+CR Alarcón-Nieto G, 2018, METHODS ECOL EVOL, V9, P1536, DOI 10.1111/2041-210X.13005
+   Almeling L, 2016, CURR BIOL, V26, P1744, DOI 10.1016/j.cub.2016.04.066
+   Anderson BS, 1999, SOC NETWORKS, V21, P239, DOI 10.1016/S0378-8733(99)00011-8
+   Anderson DR, 2001, J WILDLIFE MANAGE, V65, P373, DOI 10.2307/3803088
+   Aplin LM, 2015, ANIM BEHAV, V108, P117, DOI 10.1016/j.anbehav.2015.07.016
+   Aplin LM, 2014, P ROY SOC B-BIOL SCI, V281, DOI 10.1098/rspb.2014.1016
+   Bell AM, 2009, ANIM BEHAV, V77, P771, DOI 10.1016/j.anbehav.2008.12.022
+   Bentzur A, 2021, CURR BIOL, V31, P486, DOI 10.1016/j.cub.2020.10.060
+   Biro D, 2016, TRENDS ECOL EVOL, V31, P550, DOI 10.1016/j.tree.2016.03.018
+   Bond ML, 2021, J ANIM ECOL, V90, P212, DOI 10.1111/1365-2656.13247
+   Borner KK, 2015, BEHAV ECOL SOCIOBIOL, V69, P645, DOI 10.1007/s00265-015-1875-3
+   Bürkner PC, 2018, R J, V10, P395
+   Cantor M, 2020, ANIM BEHAV, V166, P139, DOI 10.1016/j.anbehav.2020.06.017
+   Carter GG, 2020, CURR BIOL, V30, P1275, DOI 10.1016/j.cub.2020.01.055
+   Castles M, 2014, ANIM BEHAV, V96, P59, DOI 10.1016/j.anbehav.2014.07.023
+   Colchen T, 2017, CURR ZOOL, V63, P175, DOI 10.1093/cz/zow048
+   Csardi Gabor NT., 2005, INT J COMPLEX SYST, V2006, P1695, DOI DOI 10.3724/SP.J.1087.2009.02191
+   Davis GH, 2018, ANIM BEHAV, V141, P29, DOI 10.1016/j.anbehav.2018.04.012
+   DWDClimateDataCenter, 2018 DWD CLIM DAT CT
+   Farine DR, 2022, METHODS ECOL EVOL, V13, P144, DOI 10.1111/2041-210X.13741
+   Farine DR, 2019, P NATL ACAD SCI USA, V116, P16674, DOI 10.1073/pnas.1900143116
+   Farine DR, 2015, ROY SOC OPEN SCI, V2, DOI 10.1098/rsos.150367
+   Farine DR, 2015, TRENDS ECOL EVOL, V30, P609, DOI 10.1016/j.tree.2015.07.005
+   Farine DR, 2015, J ANIM ECOL, V84, P1144, DOI 10.1111/1365-2656.12418
+   Farine DR, 2015, ANIM BEHAV, V104, pE1, DOI 10.1016/j.anbehav.2014.11.019
+   Farine DR, 2013, METHODS ECOL EVOL, V4, P1187, DOI 10.1111/2041-210X.12121
+   Foster EA, 2012, ANIM BEHAV, V83, P731, DOI 10.1016/j.anbehav.2011.12.021
+   Funghi C, 2019, ANIM BEHAV, V149, P33, DOI 10.1016/j.anbehav.2019.01.004
+   Graving J., 2017, PINPOINT BEHAV TRACK, DOI 105281/zenodo 1008969
+   Guindre-Parker S, 2018, ROY SOC OPEN SCI, V5, DOI 10.1098/rsos.172406
+   He P, 2023, METHODS ECOL EVOL, V14, P1887, DOI 10.1111/2041-210X.13999
+   He P, 2019, BEHAV ECOL SOCIOBIOL, V73, DOI 10.1007/s00265-018-2602-7
+   Heathcote RJP, 2017, SCI REP-UK, V7, DOI 10.1038/srep41679
+   Hoppitt WJE, 2018, ANIM BEHAV, V136, P227, DOI 10.1016/j.anbehav.2017.08.029
+   Johnson DH, 1999, J WILDLIFE MANAGE, V63, P763, DOI 10.2307/3802789
+   Jolles JW, 2018, P ROY SOC B-BIOL SCI, V285, DOI 10.1098/rspb.2017.2629
+   Lantz SM, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0183144
+   Leu ST, 2016, PEERJ, V4, DOI 10.7717/peerj.1844
+   Lima Steven L., 1996, P201
+   Littlewood D, 2021, ANIM BEHAV, V175, P181, DOI 10.1016/j.anbehav.2021.01.022
+   Ludecke D., 2021, J OPEN SOURCE SOFTW, V6, P3139, DOI DOI 10.21105/JOSS.03139
+   MacGregor HEA., 2021, EMERGENCE VARIATION, P2021, DOI [10.1101/2021.02.23.432454, DOI 10.1101/2021.02.23.432454]
+   Maldonado-Chaparro AA, 2021, ANIM BEHAV, V182, P43, DOI 10.1016/j.anbehav.2021.09.0
+   MCNAMARA JM, 1992, ANIM BEHAV, V43, P641, DOI 10.1016/0003-3472(92)90086-O
+   Menz CS, 2017, ANIM BEHAV, V126, P3, DOI 10.1016/j.anbehav.2017.01.012
+   Ogino M., 2023, FIGSHARE, DOI [10.6084/m9.figshare.c.6742204, DOI 10.6084/M9.FIGSHARE.C.6742204]
+   Ogino M, 2023, PHILOS T R SOC B, V378, DOI 10.1098/rstb.2022.0064
+   Papageorgiou D, 2020, ELIFE, V9, DOI 10.7554/eLife.59902
+   Raats M. M., 1992, Food Quality and Preference, V3, P89, DOI 10.1016/0950-3293(91)90028-D
+   Robert K, 2013, J ZOOL, V290, P199, DOI 10.1111/jzo.12027
+   Rodriguez-Pinto II, 2020, ANIM BEHAV, V165, P107, DOI 10.1016/j.anbehav.2020.05.002
+   Rubenstein DR, 2007, P ROY SOC B-BIOL SCI, V274, P967, DOI 10.1098/rspb.2006.0051
+   Seebacher F, 2017, PHILOS T R SOC B, V372, DOI 10.1098/rstb.2016.0231
+   Silk MJ, 2019, PHILOS T R SOC B, V374, DOI 10.1098/rstb.2018.0211
+   Smolla M, 2019, SCI ADV, V5, DOI 10.1126/sciadv.aaw0609
+   Sosa S, 2021, METHODS ECOL EVOL, V12, P10, DOI 10.1111/2041-210X.13366
+   Stoffel MA, 2017, METHODS ECOL EVOL, V8, P1639, DOI 10.1111/2041-210X.12797
+   Strickland K, 2018, BEHAV ECOL, V29, P236, DOI 10.1093/beheco/arx148
+   van Leeuwen EJC, 2021, ETHOLOGY, V127, P517, DOI 10.1111/eth.13154
+   Webber QMR, 2019, ANIM BEHAV, V149, P77, DOI 10.1016/j.anbehav.2019.01.010
+NR 60
+TC 4
+Z9 4
+U1 1
+U2 6
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 2054-5703
+J9 ROY SOC OPEN SCI
+JI R. Soc. Open Sci.
+PD JUL 19
+PY 2023
+VL 10
+IS 7
+AR 230340
+DI 10.1098/rsos.230340
+PG 15
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA M7LC3
+UT WOS:001031984700005
+PM 37476518
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Tur, EM
+   Zeppini, P
+   Frenken, K
+AF Tur, Elena M.
+   Zeppini, Paolo
+   Frenken, Koen
+TI Diffusion in small worlds with homophily and social reinforcement: A
+   theoretical model
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Diffusion; Word-of-mouth; Percolation; Homophily; Social reinforcement;
+   Small worlds
+ID NETWORK STRUCTURE; PERCOLATION; SELECTION; CONTAGION; CHOICE
+AB We introduce homophily in a percolation model of word-of-mouth diffusion in social networks by reorganizing the nodes according to similarity in preferences for adoption of an innovation. Such preferences are described by a "minimum utility requirement"for an agent to adopt. We show that homophily removes the non-linear relation between preferences and diffusion in the standard percolation model with a high diffusion regime ("hit") and a low diffusion regime ("flop"). Instead, in a model with perfect homophily, the final diffusion scales linearly with individual preferences: all agents who are willing to adopt, do adopt the innovation. We also investigate the combined effect of homophily and social reinforcement in diffusion. Results indicate that social reinforcement renders clustered networks more efficient in terms of diffusion size for network with strong homophily, while the opposite is true for networks without homophily. The simple structure of our model allows to disentangle the effect of social influence, homophily and the network structure on diffusion. However, the controllability of the theoretical structure comes at the expenses of the realism of the model. For this, we discuss possible extensions and empirical applications.
+C1 [Tur, Elena M.] Eindhoven Univ Technol, Sch Innovat Sci, Eindhoven, Netherlands.
+   [Tur, Elena M.] Univ Gothenburg, Inst Innovat & Entrepreneurship, Sch Business Law & Econ, Gothenburg, Sweden.
+   [Zeppini, Paolo] Univ Cote Azur, CNRS, GREDEG, Valbonne, France.
+   [Zeppini, Paolo] Univ Bath, Dept Econ, Bath, England.
+   [Frenken, Koen] Univ Utrecht, Copernicus Inst Sustainable Dev, Utrecht, Netherlands.
+C3 Eindhoven University of Technology; University of Gothenburg; Universite
+   Cote d'Azur; Centre National de la Recherche Scientifique (CNRS);
+   University of Bath; Utrecht University
+RP Tur, EM (corresponding author), Eindhoven Univ Technol, Sch Innovat Sci, Eindhoven, Netherlands.
+EM e.m.mas.tur@tue.nl
+RI Tur, Elena/AAZ-9053-2020
+OI Zeppini, Paolo/0000-0002-1630-9462
+CR Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   Aral S, 2009, P NATL ACAD SCI USA, V106, P21544, DOI 10.1073/pnas.0908800106
+   Berry G, 2019, SOC NETWORKS, V56, P93, DOI 10.1016/j.socnet.2018.09.001
+   Brock WA, 2002, AM ECON REV, V92, P298, DOI 10.1257/000282802320189438
+   Brock WA, 2001, REV ECON STUD, V68, P235, DOI 10.1111/1467-937X.00168
+   Campbell A, 2013, AM ECON REV, V103, P2466, DOI 10.1257/aer.103.6.2466
+   Cantono S, 2009, TECHNOL FORECAST SOC, V76, P487, DOI 10.1016/j.techfore.2008.04.010
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   Centola D, 2015, AM J SOCIOL, V120, P1295, DOI 10.1086/681275
+   Centola D, 2011, SCIENCE, V334, P1269, DOI 10.1126/science.1207055
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Cowan R, 2004, J ECON DYN CONTROL, V28, P1557, DOI 10.1016/j.jedc.2003.04.002
+   de Almeida ML, 2013, EUR PHYS J B, V86, DOI 10.1140/epjb/e2012-30802-x
+   Delre S. A., 2007, Computational & Mathematical Organization Theory, V13, P185, DOI 10.1007/s10588-006-9007-2
+   Dorogovtsev S. N., 2013, EVOLUTION NETWORKS B, DOI DOI 10.1007/s00454-002-0743-x
+   Ertug G, 2022, ACAD MANAG ANN, V16, P38, DOI 10.5465/annals.2020.0230
+   Flores R, 2012, SOC NETWORKS, V34, P570, DOI 10.1016/j.socnet.2012.06.003
+   Hohnisch M, 2008, IND CORP CHANGE, V17, P1001, DOI 10.1093/icc/dtn031
+   Jeong W, 2022, CHAOS SOLITON FRACT, V165, DOI 10.1016/j.chaos.2022.112784
+   Konc T, 2019, PHYS REV E, V100, DOI 10.1103/PhysRevE.100.022305
+   Liang H, 2021, TELEMAT INFORM, V62, DOI 10.1016/j.tele.2021.101623
+   McMillan C, 2018, SOC NETWORKS, V55, P86, DOI 10.1016/j.socnet.2018.05.008
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Newman MEJ, 1999, PHYS REV E, V60, P7332, DOI 10.1103/PhysRevE.60.7332
+   Qiao T, 2019, INT J INFORM MANAGE, V47, P152, DOI 10.1016/j.ijinfomgt.2019.01.016
+   Shalizi CR, 2011, SOCIOL METHOD RES, V40, P211, DOI 10.1177/0049124111404820
+   Snijders TAB, 1996, J MATH SOCIOL, V21, P149, DOI 10.1080/0022250X.1996.9990178
+   Solomon S, 2000, PHYSICA A, V277, P239, DOI 10.1016/S0378-4371(99)00543-9
+   Stauffer D, 1992, INTRO PERCOLATION TH, DOI 10.1201/9781315274386
+   Tur EM, 2018, PHYS REV E, V97, DOI 10.1103/PhysRevE.97.022302
+   Valente TW, 2020, HEALTH EDUC BEHAV, V47, P235, DOI 10.1177/1090198120901497
+   Valente TW, 1996, SOC NETWORKS, V18, P69, DOI 10.1016/0378-8733(95)00256-1
+   Valente TW, 1999, ANN AM ACAD POLIT SS, V566, P55, DOI 10.1177/0002716299566001005
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Zheng MH, 2013, PHYS REV E, V88, DOI 10.1103/PhysRevE.88.012818
+NR 35
+TC 2
+Z9 2
+U1 1
+U2 7
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JAN
+PY 2023
+VL 76
+BP 12
+EP 21
+DI 10.1016/j.socnet.2023.05.004
+EA JUN 2023
+PG 10
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA M5BN1
+UT WOS:001030366400001
+OA Green Published, hybrid
+DA 2024-11-22
+ER

@@ -1,0 +1,507 @@
+
+PT J
+AU Bian, J
+   Xie, MJ
+   Hudson, TJ
+   Eswaran, H
+   Brochhausen, M
+   Hanna, J
+   Hogan, WR
+AF Bian, Jiang
+   Xie, Mengjun
+   Hudson, Teresa J.
+   Eswaran, Hari
+   Brochhausen, Mathias
+   Hanna, Josh
+   Hogan, William R.
+TI CollaborationViz: Interactive Visual Exploration of Biomedical Research
+   Collaboration Networks
+SO PLOS ONE
+LA English
+DT Article
+ID VISUALIZATION
+AB Social network analysis (SNA) helps us understand patterns of interaction between social entities. A number of SNA studies have shed light on the characteristics of research collaboration networks (RCNs). Especially, in the Clinical Translational Science Award (CTSA) community, SNA provides us a set of effective tools to quantitatively assess research collaborations and the impact of CTSA. However, descriptive network statistics are difficult for non-experts to understand. In this article, we present our experiences of building meaningful network visualizations to facilitate a series of visual analysis tasks. The basis of our design is multidimensional, visual aggregation of network dynamics. The resulting visualizations can help uncover hidden structures in the networks, elicit new observations of the network dynamics, compare different investigators and investigator groups, determine critical factors to the network evolution, and help direct further analyses. We applied our visualization techniques to explore the biomedical RCNs at the University of Arkansas for Medical Sciences - a CTSA institution. And, we created CollaborationViz, an open-source visual analytical tool to help network researchers and administration apprehend the network dynamics of research collaborations through interactive visualization.
+C1 [Bian, Jiang; Eswaran, Hari; Brochhausen, Mathias] Univ Arkansas Med Sci, Div Biomed Informat, Little Rock, AR 72205 USA.
+   [Xie, Mengjun] Univ Arkansas, Dept Comp Sci, Little Rock, AR 72204 USA.
+   [Hudson, Teresa J.] Univ Arkansas Med Sci, Dept Psychiat & Behav Sci, Little Rock, AR 72205 USA.
+   [Eswaran, Hari] Univ Arkansas Med Sci, Dept Obstet & Gynecol Res, Little Rock, AR 72205 USA.
+   [Hudson, Teresa J.] Cent Arkansas Vet Healthcare Syst, HSR&D Ctr Mental Healthcare & Outcomes Res, Dept Vet Affairs, Little Rock, AR USA.
+   [Hanna, Josh] Univ Florida, Gainesville, FL 32610 USA.
+   [Hogan, William R.] Univ Florida, Dept Hlth Outcomes & Policy, Gainesville, FL 32610 USA.
+   [Hogan, William R.] Univ Florida, Clin & Translat Sci Inst, Gainesville, FL 32610 USA.
+C3 University of Arkansas System; University of Arkansas Medical Sciences;
+   University of Arkansas System; University of Arkansas Little Rock;
+   University of Arkansas Fayetteville; University of Arkansas System;
+   University of Arkansas Medical Sciences; University of Arkansas System;
+   University of Arkansas Medical Sciences; US Department of Veterans
+   Affairs; Veterans Health Administration (VHA); Central Arkansas Veterans
+   Healthcare System; State University System of Florida; University of
+   Florida; State University System of Florida; University of Florida;
+   State University System of Florida; University of Florida
+RP Bian, J (corresponding author), Univ Arkansas Med Sci, Div Biomed Informat, Little Rock, AR 72205 USA.
+EM jbian@uams.edu
+RI Hudson, Teresa/AEK-2092-2022; Xie, Mengjun/M-8031-2014
+OI Hogan, William/0000-0002-9881-1017; Xie, Mengjun/0000-0001-5089-9614
+FU National Center for Advancing Translational Sciences [UL1TR000039]
+FX The work described in this manuscript is supported by award UL1TR000039
+   through National Center for Advancing Translational Sciences (i.e.,
+   formerly UL1RR029884 through the NIH National Center for Research
+   Resources). The content is solely the responsibility of the authors and
+   does not necessarily represent the official views of the NIH. The
+   funders had no role in study design, data collection and analysis,
+   decision to publish, or preparation of the manuscript.
+CR Alsukhni M, 2012, 2012 IEEE 13TH INTERNATIONAL CONFERENCE ON INFORMATION REUSE AND INTEGRATION (IRI), P247, DOI 10.1109/IRI.2012.6303017
+   Auber D., 2012, The Tulip 3 framework: A scalable software library for information visualization applications based on relational data
+   Bastian M, 2009, GEPHI OPEN SOURCE SO, DOI [DOI 10.1609/ICWSM.V3I1.13937, 10.13140/2.1.1341.1520]
+   Batagelj V, 2004, MATH VIS, P77
+   Bian J, 2013, BIOINF BIOM BIBM 201, P9, DOI [10.1109/BIBM.2013.6732728, DOI 10.1109/BIBM.2013.6732728]
+   Bian J, 2014, J BIOMED INFORM, V52, P130, DOI 10.1016/j.jbi.2014.01.015
+   Blei DM, 2003, J MACH LEARN RES, V3, P993, DOI 10.1162/jmlr.2003.3.4-5.993
+   Bostock M, 2011, IEEE T VIS COMPUT GR, V17, P2301, DOI 10.1109/TVCG.2011.185
+   Csardi Gabor NT., 2005, INT J COMPLEX SYST, V2006, P1695, DOI DOI 10.3724/SP.J.1087.2009.02191
+   CTSA Consortium: Evaluation Key Function Committee, 2011, EV SOC NETW AN
+   Dwork C, 2001, P 10 INT C WORLD WID, P613, DOI [10.1145/371920.372165, DOI 10.1145/371920.372165]
+   Dwyer T, 2009, COMPUT GRAPH FORUM, V28, P991, DOI 10.1111/j.1467-8659.2009.01449.x
+   EMCA International, 2013, JSON DAT INT FORM
+   Enright AJ, 2001, BIOINFORMATICS, V17, P853, DOI 10.1093/bioinformatics/17.9.853
+   Freeman Linton, 2000, J SOCIAL STRUCTURE, V1
+   Gansner ER, 2000, SOFTWARE PRACT EXPER, V30, P1203, DOI 10.1002/1097-024X(200009)30:11<1203::AID-SPE338>3.0.CO;2-N
+   Hagberg A.A., 2008, EXPLORING NETWORK ST, P11, DOI DOI 10.1016/J.JELECTROCARD.2010.09.003
+   Heer J, 2005, INFOVIS 05: IEEE SYMPOSIUM ON INFORMATION VISUALIZATION, PROCEEDINGS, P33
+   Ignacio Alvarez-Hamelin J., 2005, CoRR
+   Kobourov S. G., 2012, ARXIV12013011
+   Krzywinski M, 2012, BRIEF BIOINFORM, V13, P627, DOI 10.1093/bib/bbr069
+   Liang J, 2010, IEEE INT CONF INF VI, P79, DOI 10.1109/IV.2010.21
+   Nagarajan R, 2013, J BIOMED INFORM, V46, P40, DOI 10.1016/j.jbi.2012.08.002
+   Nagarajan Radhakrishnan, 2011, AMIA Annu Symp Proc, V2011, P987
+   Newman M., 2010, Networks: An introduction oxford univ
+   Newman MEJ, 2004, P NATL ACAD SCI USA, V101, P5200, DOI 10.1073/pnas.0307545100
+   Newman MEJ, 2001, P NATL ACAD SCI USA, V98, P404, DOI 10.1073/pnas.021544898
+   Newman MEJ, 2001, PHYS REV E, V64, DOI [10.1103/PhysRevE.64.016132, 10.1103/PhysRevE.64.016131]
+   Opsahl T, 2010, SOC NETWORKS, V32, P245, DOI 10.1016/j.socnet.2010.03.006
+   Pavlopoulos GA, 2008, BMC SYST BIOL, V2, DOI 10.1186/1752-0509-2-104
+   Shannon P, 2003, GENOME RES, V13, P2498, DOI 10.1101/gr.1239303
+   Shen Zeqian, 2006, P 2006 AS PAC S INF, P93
+   Thomas JJ, 2006, IEEE COMPUT GRAPH, V26, P10, DOI 10.1109/MCG.2006.5
+   Uddin S, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0057546
+   VERLET L, 1967, PHYS REV, V159, P98, DOI 10.1103/PhysRev.159.98
+   W3C SVG Working Group, 2011, SCAL VECT GRAPH SVG
+NR 36
+TC 11
+Z9 11
+U1 0
+U2 12
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD NOV 18
+PY 2014
+VL 9
+IS 11
+AR e111928
+DI 10.1371/journal.pone.0111928
+PG 8
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA AX7UZ
+UT WOS:000347121300018
+PM 25405477
+OA Green Submitted, Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Nguyen, NP
+   Dinh, TN
+   Shen, Y
+   Thai, MT
+AF Nguyen, Nam P.
+   Dinh, Thang N.
+   Shen, Yilin
+   Thai, My T.
+TI Dynamic Social Community Detection and Its Applications
+SO PLOS ONE
+LA English
+DT Article
+ID NETWORKS
+AB Community structure is one of the most commonly observed features of Online Social Networks (OSNs) in reality. The knowledge of this feature is of great advantage: it not only provides helpful insights into developing more efficient social-aware solutions but also promises a wide range of applications enabled by social and mobile networking, such as routing strategies in Mobile Ad Hoc Networks (MANETs) and worm containment in OSNs. Unfortunately, understanding this structure is very challenging, especially in dynamic social networks where social interactions are evolving rapidly. Our work focuses on the following questions: How can we efficiently identify communities in dynamic social networks? How can we adaptively update the network community structure based on its history instead of recomputing from scratch? To this end, we present Quick Community Adaptation (QCA), an adaptive modularity-based framework for not only discovering but also tracing the evolution of network communities in dynamic OSNs. QCA is very fast and efficient in the sense that it adaptively updates and discovers the new community structure based on its history together with the network changes only. This flexible approach makes QCA an ideal framework applicable for analyzing large-scale dynamic social networks due to its lightweight computing-resource requirement. To illustrate the effectiveness of our framework, we extensively test QCA on both synthesized and real-world social networks including Enron, arXiv e-print citation, and Facebook networks. Finally, we demonstrate the applicability of QCA in real applications: (1) A social-aware message forwarding strategy in MANETs, and (2) worm propagation containment in OSNs. Competitive results in comparison with other methods reveal that social-based techniques employing QCA as a community detection core outperform current available methods.
+C1 [Nguyen, Nam P.; Dinh, Thang N.; Shen, Yilin; Thai, My T.] Univ Florida, Dept Comp & Informat Sci & Engn, Gainesville, FL USA.
+C3 State University System of Florida; University of Florida
+RP Nguyen, NP (corresponding author), Towson Univ, Dept Comp & Informat Sci, Towson, MD 21252 USA.
+EM npnguyen@towson.edu
+RI Nguyen, Nguyen/GVT-4511-2022; Dinh, Thang N/C-3390-2009
+OI Dinh, Thang N/0000-0003-4847-8356
+FU NSF [0953284]; DTRA YIP [HDTRA1-09-1-0061]; Division Of Computer and
+   Network Systems; Direct For Computer & Info Scie & Enginr [0953284]
+   Funding Source: National Science Foundation
+FX This work is partially supported by NSF CAREER Award #0953284 and DTRA
+   YIP HDTRA1-09-1-0061. The funders had no role in study design, data
+   collection and analysis, decision to publish, or preparation of the
+   manuscript.
+CR [Anonymous], 2003, KDD Cup 2003
+   Blondel VD, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/10/P10008
+   Bose A., 2006, PROC ACM WKSHP WIREL, P95, DOI [10.1145/1161289.1161307, DOI 10.1145/1161289.1161307]
+   Chaintreau A, 2007, IEEE T MOBILE COMPUT, V6, P606, DOI 10.1109/TMC.2007.1060
+   Clauset A, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.066111
+   Daly E, 2007, MOBIHOC'07: PROCEEDINGS OF THE EIGHTH ACM INTERNATIONAL SYMPOSIUM ON MOBILE AD HOC NETWORKING AND COMPUTING, P32
+   Dinh TN, 2009, IEEE IPCCC, P161, DOI 10.1109/PCCC.2009.5403845
+   Dourisboure Y., 2007, P 16 INT C WORLD WID, P461, DOI 10.1145/1242572.1242635
+   Eagle N, 2006, PERS UBIQUIT COMPUT, V10, P255, DOI 10.1007/s00779-005-0046-3
+   Fortunato S, 2007, P NATL ACAD SCI USA, V104, P36, DOI 10.1073/pnas.0605965104
+   Fortunato S, 2010, PHYS REP, V486, P75, DOI 10.1016/j.physrep.2009.11.002
+   Girvan M, 2002, P NATL ACAD SCI USA, V99, P7821, DOI 10.1073/pnas.122653799
+   Hopcroft J, 2004, P NATL ACAD SCI USA, V101, P5249, DOI 10.1073/pnas.0307750100
+   Hui P, 2007, FIFTH ANNUAL IEEE INTERNATIONAL CONFERENCE ON PERVASIVE COMPUTING AND COMMUNICATIONS WORKSHOPS, PROCEEDINGS, P65, DOI 10.1109/PERCOMW.2007.55
+   Hui P, 2008, MOBIHOC'08: PROCEEDINGS OF THE NINTH ACM INTERNATIONAL SYMPOSIUM ON MOBILE AD HOC NETWORKING AND COMPUTING, P241, DOI 10.1145/1374618.1374652
+   Kim HA, 2004, USENIX ASSOCIATION PROCEEDINGS OF THE 13TH USENIX SECURITY SYMPOSIUM, P271
+   Kumar R, 2005, WORLD WIDE WEB, V8, P159, DOI 10.1007/s11280-004-4872-4
+   Lancichinetti A, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0018961
+   Lancichinetti A, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.056117
+   Leskovec J., 2010, P 19 INT C WORLD WID, P631, DOI DOI 10.1002/asi.21331
+   Leskovec J, 2005, ACM SIGKDD C KNOWLED, P177
+   Lin Y.R., 2008, P 17 INT C WORLD WID, P685, DOI [10.1145/1367497.1367590, DOI 10.1145/1367497.1367590]
+   Lin YR, 2009, ACM T KNOWL DISCOV D, V3, DOI 10.1145/1514888.1514891
+   Newman MEJ, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.026113
+   Palla G, 2009, UNDERST COMPLEX SYST, P11, DOI 10.1007/978-3-642-01284-6_2
+   Sekar V, 2006, I C DEPEND SYS NETWO, P189, DOI 10.1109/DSN.2006.6
+   Sun JM, 2007, KDD-2007 PROCEEDINGS OF THE THIRTEENTH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P687
+   Tantipathananandh C, 2009, KDD-09: 15TH ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P827
+   TOYODA M., 2003, P 14 ACM C HYPERTEXT, P28, DOI DOI 10.1145/900051.900059
+   Viswanath B, 2009, 2ND ACM SIGCOMM WORKSHOP ON ONLINE SOCIAL NETWORKS (WOSN 09), P37
+   Wakita K., 2007, FINDING COMMUNITY ST, P1275, DOI 10.1145/1242572.1242805
+   Wang P, 2009, SCIENCE, V324, P1071, DOI 10.1126/science.1167053
+   Weaver N., 2004, SSYM 04, P3
+   Ye ZQ, 2008, PHYS REV E, V78, DOI 10.1103/PhysRevE.78.046115
+   Zhang YZ, 2009, KDD-09: 15TH ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P997
+   Zhu ZC, 2009, IEEE INFOCOM SER, P1476, DOI 10.1109/INFCOM.2009.5062064
+NR 36
+TC 84
+Z9 91
+U1 0
+U2 37
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD APR 10
+PY 2014
+VL 9
+IS 4
+AR e91431
+DI 10.1371/journal.pone.0091431
+PG 18
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA AI5LS
+UT WOS:000336909100007
+PM 24722164
+OA gold, Green Submitted, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Silvis, A
+   Kniowski, AB
+   Gehrt, SD
+   Ford, WM
+AF Silvis, Alexander
+   Kniowski, Andrew B.
+   Gehrt, Stanley D.
+   Ford, W. Mark
+TI Roosting and Foraging Social Structure of the Endangered Indiana Bat
+   (<i>Myotis sodalis</i>)
+SO PLOS ONE
+LA English
+DT Article
+ID FEMALE BECHSTEINS BATS; FISSION-FUSION DYNAMICS; LONG-EARED BATS; BIG
+   BROWN BATS; INFORMATION-TRANSFER; NETWORK ANALYSIS; ASSOCIATION
+   PATTERNS; EPTESICUS-FUSCUS; RANGE OVERLAP; HOME-RANGE
+AB Social dynamics are an important but poorly understood aspect of bat ecology. Herein we use a combination of graph theoretic and spatial approaches to describe the roost and social network characteristics and foraging associations of an Indiana bat (Myotis sodalis) maternity colony in an agricultural landscape in Ohio, USA. We tracked 46 bats to 50 roosts (423 total relocations) and collected 2,306 foraging locations for 40 bats during the summers of 2009 and 2010. We found the colony roosting network was highly centralized in both years and that roost and social networks differed significantly from random networks. Roost and social network structure also differed substantially between years. Social network structure appeared to be unrelated to segregation of roosts between age classes. For bats whose individual foraging ranges were calculated, many shared foraging space with at least one other bat. Compared across all possible bat dyads, 47% and 43% of the dyads showed more than expected overlap of foraging areas in 2009 and 2010 respectively. Colony roosting area differed between years, but the roosting area centroid shifted only 332 m. In contrast, whole colony foraging area use was similar between years. Random roost removal simulations suggest that Indiana bat colonies may be robust to loss of a limited number of roosts but may respond differently from year to year. Our study emphasizes the utility of graphic theoretic and spatial approaches for examining the sociality and roosting behavior of bats. Detailed knowledge of the relationships between social and spatial aspects of bat ecology could greatly increase conservation effectiveness by allowing more structured approaches to roost and habitat retention for tree-roosting, socially-aggregating bat species.
+C1 [Silvis, Alexander; Kniowski, Andrew B.; Ford, W. Mark] Virginia Polytech Inst & State Univ, Dept Fish & Wildlife Conservat, Blacksburg, VA 24061 USA.
+   [Gehrt, Stanley D.] Ohio State Univ, Sch Environm & Nat Resources, Columbus, OH 43210 USA.
+   [Ford, W. Mark] Virginia Polytech Inst & State Univ, US Geol Survey, Virginia Cooperat Fish & Wildlife Res Unit, Dept Fish & Wildlife Conservat, Blacksburg, VA 24061 USA.
+C3 Virginia Polytechnic Institute & State University; University System of
+   Ohio; Ohio State University; United States Department of the Interior;
+   United States Geological Survey; Virginia Polytechnic Institute & State
+   University
+RP Silvis, A (corresponding author), Virginia Polytech Inst & State Univ, Dept Fish & Wildlife Conservat, Blacksburg, VA 24061 USA.
+EM silvis@vt.edu
+RI Gehrt, Stanley/J-8700-2012
+OI Silvis, Alexander/0000-0003-1163-0123
+FU Ohio Department of Transportation; Ohio Division of Wildlife; Ohio State
+   University School of Environment and Natural Resources; Terrestrial
+   Wildlife Ecology Laboratory
+FX The authors thank the Ohio Department of Transportation, the Ohio
+   Division of Wildlife, The Ohio State University School of Environment
+   and Natural Resources, and the Terrestrial Wildlife Ecology Laboratory
+   for their funding and support. The funders had no role in study design,
+   data collection and analysis, decision to publish, or preparation of the
+   manuscript.
+CR [Anonymous], 1997, Bootstrap methods and their application
+   [Anonymous], THESIS QUEEN MARY U
+   Aureli F, 2008, CURR ANTHROPOL, V49, P627, DOI 10.1086/586708
+   Bagne KE, 2008, FOREST ECOL MANAG, V255, P99, DOI 10.1016/j.foreco.2007.08.024
+   Benhamou S, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0014592
+   Blehert DS, 2009, SCIENCE, V323, P227, DOI 10.1126/science.1163874
+   Borgatti SP, 1997, SOC NETWORKS, V19, P243, DOI 10.1016/S0378-8733(96)00301-2
+   BRIGHAM RM, 1986, CAN J ZOOL, V64, P1128, DOI 10.1139/z86-169
+   Britzke ER, 2003, SOUTHEAST NAT, V2, P235, DOI 10.1656/1528-7092(2003)002[0235:IBMSMR]2.0.CO;2
+   Calenge C, 2006, ECOL MODEL, V197, P516, DOI 10.1016/j.ecolmodel.2006.03.017
+   Callahan EV, 1997, J MAMMAL, V78, P818, DOI 10.2307/1382939
+   Carter TC, 2005, FOREST ECOL MANAG, V219, P259, DOI 10.1016/j.foreco.2005.08.049
+   Chaverri G, 2007, ANIM BEHAV, V73, P157, DOI 10.1016/j.anbehav.2006.06.003
+   Chaverri G, 2013, BEHAV ECOL, V24, P481, DOI 10.1093/beheco/ars188
+   Chaverri G, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0028821
+   Chaverri G, 2010, ADV STUD BEHAV, V42, P275, DOI 10.1016/S0065-3454(10)42009-4
+   Csardi Gabor NT., 2005, INT J COMPLEX SYST, V2006, P1695, DOI DOI 10.3724/SP.J.1087.2009.02191
+   Dong J, 2007, BMC SYST BIOL, V1, DOI 10.1186/1752-0509-1-24
+   ERDOS P, 1960, B INT STATIST INST, V38, P343
+   Fieberg J, 2005, J WILDLIFE MANAGE, V69, P1346, DOI 10.2193/0022-541X(2005)69[1346:QHOTIO]2.0.CO;2
+   Fortuna MA, 2009, ECOLOGY, V90, P934, DOI 10.1890/08-0174.1
+   Foster RW, 1999, J MAMMAL, V80, P659, DOI 10.2307/1383310
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   Gardner James E., 2002, P9
+   Garroway CJ, 2007, CAN J ZOOL, V85, P956, DOI 10.1139/Z07-079
+   Gitzen RA, 2006, J WILDLIFE MANAGE, V70, P1334, DOI 10.2193/0022-541X(2006)70[1334:BSFFAO]2.0.CO;2
+   Guisan A, 2000, ECOL MODEL, V135, P147, DOI 10.1016/S0304-3800(00)00354-9
+   Gumbert Mark W., 2002, P143
+   Harvey Michael J., 2002, P29
+   Homer C, 2004, PHOTOGRAMM ENG REM S, V70, P829, DOI 10.14358/PERS.70.7.829
+   HOPE ACA, 1968, J ROY STAT SOC B, V30, P582
+   HUMPHREY SR, 1977, J MAMMAL, V58, P334, DOI 10.2307/1379332
+   Jacoby DMP, 2012, METHODS ECOL EVOL, V3, P574, DOI 10.1111/j.2041-210X.2012.00187.x
+   James R, 2009, BEHAV ECOL SOCIOBIOL, V63, P989, DOI 10.1007/s00265-009-0742-5
+   Johnson JS, 2013, ACTA CHIROPTEROL, V15, P1, DOI 10.3161/150811013X667821
+   Johnson JS, 2012, J MAMMAL, V93, P1545, DOI 10.1644/12-MAMM-A-097.1
+   Johnson JB, 2012, FOREST ECOL MANAG, V266, P223, DOI 10.1016/j.foreco.2011.11.032
+   Jonker MN, 2010, ACTA CHIROPTEROL, V12, P197, DOI 10.3161/150811010X504699
+   Kerth G, 2001, BEHAV ECOL SOCIOBIOL, V50, P283, DOI 10.1007/s002650100352
+   Kerth G, 2003, P ROY SOC B-BIOL SCI, V270, P511, DOI 10.1098/rspb.2002.2267
+   Kerth G, 1999, BEHAVIOUR, V136, P1187, DOI 10.1163/156853999501711
+   Kerth G, 2008, CURR BIOL, V18, pR740, DOI 10.1016/j.cub.2008.07.038
+   Kerth G, 2008, BIOSCIENCE, V58, P737, DOI 10.1641/B580810
+   Kerth G, 2006, P ROY SOC B-BIOL SCI, V273, P2785, DOI 10.1098/rspb.2006.3647
+   Kerth G, 2011, P ROY SOC B-BIOL SCI, V278, P2761, DOI 10.1098/rspb.2010.2718
+   Kniowski AB, 2014, J WILDLIFE MANAGE, V78, P503, DOI 10.1002/jwmg.677
+   KOZHURINA EI, 1993, ETHOLOGY, V93, P89
+   Kunz TH, 2003, BAT ECOLOGY, P3
+   Kurta A, 2002, J MAMMAL, V83, P585, DOI 10.1644/1545-1542(2002)083<0585:PAMOBI>2.0.CO;2
+   KURTA A, 1993, AM MIDL NAT, V129, P132, DOI 10.2307/2426441
+   Kurta A., 2005, INDIANA BAT COAL MIN, P29
+   Kurta Allen, 2002, P118
+   Lusseau D, 2004, P ROY SOC B-BIOL SCI, V271, pS477, DOI 10.1098/rsbl.2004.0225
+   Mann O, 2011, ACTA CHIROPTEROL, V13, P411, DOI 10.3161/150811011X624893
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Metheny JD, 2008, BEHAV ECOL SOCIOBIOL, V62, P1043, DOI 10.1007/s00265-007-0531-y
+   Miller G. S., 1928, Bulletin United States National Museum, Vno. 144, P1
+   Miller Nancy E., 2002, P165
+   Minnis AM, 2013, FUNGAL BIOL-UK, V117, P638, DOI 10.1016/j.funbio.2013.07.001
+   Moorman CE, 1999, FOREST ECOL MANAG, V118, P37, DOI 10.1016/S0378-1127(98)00482-4
+   Nams V.O., 2006, LOCATE 3 USERS GUIDE
+   Newman MEJ, 2006, PHYS REV E, V74, DOI 10.1103/PhysRevE.74.036104
+   Newman MEJ, 2006, P NATL ACAD SCI USA, V103, P8577, DOI 10.1073/pnas.0601602103
+   Newman ME., 2006, STRUCTURE DYNAMICS N
+   Patriquin KJ, 2013, BEHAV ECOL, V24, P949, DOI 10.1093/beheco/art012
+   Patriquin KJ, 2010, BEHAV ECOL SOCIOBIOL, V64, P899, DOI 10.1007/s00265-010-0905-4
+   Popa-Lisseanu AG, 2008, ANIM BEHAV, V75, P471, DOI 10.1016/j.anbehav.2007.05.011
+   R. Development Core Team, 2011, R: A language and environment for statistical computing
+   Reckardt K, 2007, OECOLOGIA, V154, P581, DOI 10.1007/s00442-007-0843-7
+   Rhodes M, 2007, J MAMMAL, V88, P1252, DOI 10.1644/06-MAMM-A-374R1.1
+   Sih A, 2009, BEHAV ECOL SOCIOBIOL, V63, P975, DOI 10.1007/s00265-009-0725-6
+   Sikes RS, 2011, J MAMMAL, V92, P235, DOI 10.1644/10-MAMM-F-355.1
+   Silvis A, 2014, BEHAV PROCESS, V103, P283, DOI 10.1016/j.beproc.2014.01.016
+   Sparks D.W., 2005, Foraging ecology of the endangered Indiana bat, P15
+   Sparks DW, 2003, NORTHEAST NAT, V10, P105, DOI 10.1656/1092-6194(2003)010[0105:DORBBW]2.0.CO;2
+   Timpone JC, 2010, AM MIDL NAT, V163, P115, DOI 10.1674/0003-0031-163.1.115
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   West D, 1996, INTRO GRAPH THEORY, V2
+   Wey T, 2008, ANIM BEHAV, V75, P333, DOI 10.1016/j.anbehav.2007.06.020
+   Whitaker John O. Jr, 2002, P48
+   WILKINSON GS, 1992, ANIM BEHAV, V44, P501, DOI 10.1016/0003-3472(92)90059-I
+   Williams RJ, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0017645
+   Willis CKR, 2004, ANIM BEHAV, V68, P495, DOI 10.1016/j.anbehav.2003.08.028
+   Willis CKR, 2007, BEHAV ECOL SOCIOBIOL, V62, P97, DOI 10.1007/s00265-007-0442-y
+   Wisdom MJ, 2008, FOREST ECOL MANAG, V255, P2085, DOI 10.1016/j.foreco.2007.12.027
+NR 86
+TC 29
+Z9 41
+U1 1
+U2 88
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD MAY 9
+PY 2014
+VL 9
+IS 5
+AR e96937
+DI 10.1371/journal.pone.0096937
+PG 12
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA AI4LX
+UT WOS:000336838000081
+PM 24816811
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Zhang, X
+   Xia, ZY
+   Bu, Z
+AF Zhang, Xia
+   Xia, Zhengyou
+   Bu, Zhan
+TI Popularity Evaluation Model for Microbloggers Online Social Network
+SO DISCRETE DYNAMICS IN NATURE AND SOCIETY
+LA English
+DT Article
+ID COMMUNITY DETECTION; INFORMATION; ALGORITHM
+AB Recently, microblogging is widely studied by the researchers in the domain of the online social network (OSN). How to evaluate the popularities of microblogging users is an important research field, which can be applied to commercial advertising, user behavior analysis and information dissemination, and so forth. Previous studies on the evaluation methods cannot effectively solve and accurately evaluate the popularities of the microbloggers. In this paper, we proposed an electromagnetic field theory based model to analyze the popularities of microbloggers. The concept of the source in microblogging field is first put forward, which is based on the concept of source in the electromagnetic field; then, one's microblogging flux is calculated according to his/her behaviors (send or receive feedbacks) on the microblogging platform; finally, we used three methods to calculate one's microblogging flux density, which can represent one's popularity on the microblogging platform. In the experimental work, we evaluated our model using real microblogging data and selected the best one from the three popularity measure methods. We also compared our model with the classic PageRank algorithm; and the results show that our model is more effective and accurate to evaluate the popularities of the microbloggers.
+C1 [Zhang, Xia; Xia, Zhengyou; Bu, Zhan] Nanjing Univ Aeronaut & Astronaut, Coll Comp Sci & Technol, Nanjing 210016, Jiangsu, Peoples R China.
+   [Zhang, Xia] Nanjing Coll Informat Technol, Dept Comp & Software, Nanjing 210016, Jiangsu, Peoples R China.
+C3 Nanjing University of Aeronautics & Astronautics
+RP Xia, ZY (corresponding author), Nanjing Univ Aeronaut & Astronaut, Coll Comp Sci & Technol, Nanjing 210016, Jiangsu, Peoples R China.
+EM zhengyou_xia@nuaa.edu.cn
+RI Bu, Zhan/H-6089-2013
+FU NUAA Fundamental Research Funds [NS2013090]
+FX This work is supported by the NUAA Fundamental Research Funds
+   (NS2013090).
+CR [Anonymous], 2010, ICWSM
+   [Anonymous], 2013, 2 INT C COMP SCI EL, DOI DOI 10.2991/ICCSEE.2013.284
+   [Anonymous], P WEBSCI10 EXT FRONT
+   Bu Z, 2013, KNOWL-BASED SYST, V50, P246, DOI 10.1016/j.knosys.2013.06.014
+   Bu Z, 2013, PHYSICA A, V392, P2240, DOI 10.1016/j.physa.2013.01.006
+   Bu Z, 2013, KNOWL-BASED SYST, V37, P366, DOI 10.1016/j.knosys.2012.08.016
+   Chen Chien-Chou, 2011, P PAC AS C INF SYST, P41
+   Chen JL, 2010, CHI2010: PROCEEDINGS OF THE 28TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, VOLS 1-4, P1185
+   Chen P, 2007, J INFORMETR, V1, P8, DOI 10.1016/j.joi.2006.06.001
+   Guy I, 2010, SIGIR 2010: PROCEEDINGS OF THE 33RD ANNUAL INTERNATIONAL ACM SIGIR CONFERENCE ON RESEARCH DEVELOPMENT IN INFORMATION RETRIEVAL, P194
+   Kwak H., WWW'10, DOI [10.1145/1772690.1772751, DOI 10.1145/1772690.1772751]
+   Mislove A, 2007, IMC'07: PROCEEDINGS OF THE 2007 ACM SIGCOMM INTERNET MEASUREMENT CONFERENCE, P29
+   Musial K, 2013, WORLD WIDE WEB, V16, P31, DOI 10.1007/s11280-011-0155-z
+   Saito K, 2010, LECT NOTES COMPUT SC, V6007, P149, DOI 10.1007/978-3-642-12079-4_20
+   Scanfeld D, 2010, AM J INFECT CONTROL, V38, P182, DOI 10.1016/j.ajic.2009.11.004
+   Tang J, 2009, KDD-09: 15TH ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P807
+   Xia Z, 2008, KNOWL-BASED SYST, V21, P434, DOI 10.1016/j.knosys.2008.03.004
+   Xia ZY, 2012, KNOWL-BASED SYST, V26, P30, DOI 10.1016/j.knosys.2011.06.014
+   Yang J, 2010, ICIM 2010: PROCEEDINGS OF THE TENTH INTERNATIONAL CONFERENCE ON INDUSTRIAL MANAGEMENT, P356
+   Yun S, 2010, PROCEEDINGS OF THE 5TH INTERNATIONAL CONFERENCE ON FUTURE INTERNET TECHNOLOGIES (CFI10), P1, DOI 10.1145/1853079.1853081
+   Zhao JC, 2010, PHYS REV E, V82, DOI 10.1103/PhysRevE.82.016105
+NR 21
+TC 1
+Z9 1
+U1 1
+U2 7
+PU HINDAWI LTD
+PI LONDON
+PA ADAM HOUSE, 3RD FLR, 1 FITZROY SQ, LONDON, W1T 5HF, ENGLAND
+SN 1026-0226
+EI 1607-887X
+J9 DISCRETE DYN NAT SOC
+JI Discrete Dyn. Nat. Soc.
+PY 2014
+VL 2014
+AR 356072
+DI 10.1155/2014/356072
+PG 12
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Mathematics; Science & Technology - Other Topics
+GA AJ2DW
+UT WOS:000337466600001
+OA gold, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Ballester, C
+   Vorsatz, M
+AF Ballester, Coralio
+   Vorsatz, Marc
+TI RANDOM WALK-BASED SEGREGATION MEASURES
+SO REVIEW OF ECONOMICS AND STATISTICS
+LA English
+DT Article
+ID SOCIAL NETWORKS; SPATIAL MISMATCH; EDUCATION; MATTER
+AB We propose an intuitive way of how to measure segregation in social and spatial networks. Using random walks, we define the segregation index as the probability that an individual meets an individual from the same social group. The segregation index is a generalization of the isolation index and a homophily index introduced in Currarini, Jackson, and Pin (2009), and it has a closed-form relation to PageRank that facilitates its computation. We also show that the Spectral Segregation Index proposed by Echenique and Fryer (2007) is not continuous with respect to the network structure. Finally, we apply the measure to Spanish census data and to citations data from economics, and rationalize the index as the equilibrium outcome of a game.
+C1 [Ballester, Coralio] Univ Alicante, Alicante, Spain.
+   [Vorsatz, Marc] Univ Nacl Educ Distancia, Madrid, Spain.
+   [Vorsatz, Marc] Fdn Estudios Econ Aplicada, Madrid, Spain.
+C3 Universitat d'Alacant; Universidad Nacional de Educacion a Distancia
+   (UNED)
+RP Ballester, C (corresponding author), Univ Alicante, Alicante, Spain.
+RI Ballester, Coralio/E-3279-2010; Vorsatz, Marc/H-1489-2015
+OI Ballester, Coralio/0000-0002-9130-1735; Vorsatz,
+   Marc/0000-0001-6244-3606
+CR BENABOU R, 1993, Q J ECON, V108, P619, DOI 10.2307/2118403
+   Boeri T., 2012, IZA DISCUSSION PAPER, V6834
+   BOJE DM, 1981, ADMIN SCI QUART, V26, P378, DOI 10.2307/2392513
+   BORJAS GJ, 1995, AM ECON REV, V85, P365
+   BRASS DJ, 1984, ADMIN SCI QUART, V29, P518, DOI 10.2307/2392937
+   Brin S, 1998, COMPUT NETWORKS ISDN, V30, P107, DOI 10.1016/S0169-7552(98)00110-X
+   Calvó-Armengol A, 2009, REV ECON STUD, V76, P1239, DOI 10.1111/j.1467-937X.2009.00550.x
+   Card D, 2007, J PUBLIC ECON, V91, P2158, DOI 10.1016/j.jpubeco.2007.03.006
+   Currarini S, 2009, ECONOMETRICA, V77, P1003, DOI 10.3982/ECTA7528
+   Cutler DM, 2008, REV ECON STAT, V90, P478, DOI 10.1162/rest.90.3.478
+   Cutler DM, 1997, Q J ECON, V112, P827, DOI 10.1162/003355397555361
+   Echenique F, 2007, Q J ECON, V122, P441, DOI 10.1162/qjec.122.2.441
+   Edin PA, 2003, Q J ECON, V118, P329, DOI 10.1162/00335530360535225
+   Frankel DM, 2011, J ECON THEORY, V146, P1, DOI 10.1016/j.jet.2010.10.008
+   Gobillon L, 2007, URBAN STUD, V44, P2401, DOI 10.1080/00420980701540937
+   Goldenberg J., 2009, DISTANCE IS NOT DEAD
+   Haynie DL, 2001, AM J SOCIOL, V106, P1013, DOI 10.1086/320298
+   Ihlanfeldt KR, 1998, HOUS POLICY DEBATE, V9, P849, DOI 10.1080/10511482.1998.9521321
+   Jackson MO, 2007, AM ECON REV, V97, P890, DOI 10.1257/aer.97.3.890
+   Kling JR, 2007, ECONOMETRICA, V75, P83, DOI 10.1111/j.1468-0262.2007.00733.x
+   Langville A. N., 2006, GOOGLES PAGERANK BEY
+   Lieberson Stanley., 1981, Ethnic Segregation in Cities, P61
+   MASSEY DS, 1988, SOC FORCES, V67, P281, DOI 10.2307/2579183
+   Mehra A, 2001, ADMIN SCI QUART, V46, P121, DOI 10.2307/2667127
+   Mok D, 2010, URBAN STUD, V47, P2747, DOI 10.1177/0042098010377363
+   Palacios-Huerta I, 2004, ECONOMETRICA, V72, P963, DOI 10.1111/j.1468-0262.2004.00519.x
+   Powell WW, 1996, ADMIN SCI QUART, V41, P116, DOI 10.2307/2393988
+   Uzzi B, 1997, ADMIN SCI QUART, V42, P35, DOI 10.2307/2393808
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   Zenou Y, 2009, UNIFIED IS EUROPEAN
+NR 30
+TC 22
+Z9 24
+U1 1
+U2 15
+PU MIT PRESS
+PI CAMBRIDGE
+PA 55 HAYWARD STREET, CAMBRIDGE, MA 02142 USA
+SN 0034-6535
+EI 1530-9142
+J9 REV ECON STAT
+JI Rev. Econ. Stat.
+PD JUL
+PY 2014
+VL 96
+IS 3
+BP 383
+EP 401
+DI 10.1162/REST_a_00399
+PG 19
+WC Economics; Social Sciences, Mathematical Methods
+WE Social Science Citation Index (SSCI)
+SC Business & Economics; Mathematical Methods In Social Sciences
+GA AL8OB
+UT WOS:000339397500001
+OA Green Submitted
+DA 2024-11-22
+ER

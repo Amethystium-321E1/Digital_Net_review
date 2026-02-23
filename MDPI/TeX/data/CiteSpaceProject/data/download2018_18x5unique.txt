@@ -1,0 +1,538 @@
+
+PT J
+AU Gaumont, N
+   Panahi, M
+   Chavalarias, D
+AF Gaumont, Noe
+   Panahi, Maziyar
+   Chavalarias, David
+TI Reconstruction of the socio-semantic dynamics of political activist
+   Twitter networks-Method and application to the 2017 French presidential
+   election
+SO PLOS ONE
+LA English
+DT Article
+ID CONTINUED INFLUENCE; MISINFORMATION; TWEET
+AB Background
+   Digital spaces, and in particular social networking sites, are becoming increasingly present and influential in the functioning of our democracies. In this paper, we propose an integrated methodology for the data collection, the reconstruction, the analysis and the visualization of the development of a country's political landscape from Twitter data.
+   Method
+   The proposed method relies solely on the interactions between Twitter accounts and is independent of the characteristics of the shared contents such as the language of the tweets. We validate our methodology on a case study on the 2017 French presidential election (60 million Twitter exchanges between more than 2.4 million users) via two independent methods: the comparison between our automated political categorization and a human categorization based on the evaluation of a sample of 5000 profiles descriptions; the correspondence between the reconfigurations detected in the reconstructed political landscape and key political events reported in the media. This latter validation demonstrated the ability of our approach to accurately reflect the reconfigurations at play in the off-line political scene.
+   Results
+   We built on this reconstruction to give insights into the opinion dynamics and the reconfigurations of political communities at play during a presidential election. First, we propose a quantitative description and analysis of the political engagement of members of political communities. Second, we analyze the impact of political communities on information diffusion and in particular on their role in the fake news phenomena. We measure a differential echo chamber effect on the different types of political news (fake news, debunks, standard news) caused by the community structure and emphasize the importance of addressing the meso-structures of political networks in understanding the fake news phenomena.
+   Conclusions
+   Giving access to an intermediate level, between sociological surveys in the field and large statistical studies (such as those conducted by national or international organizations) we demonstrate that social networks data make it possible to qualify and quantify the activity of political communities in a multi-polar political environment; as well as their temporal evolution and reconfiguration, their structure, their alliance strategies and their semantic particularities during a presidential campaign through the analysis of their digital traces. We conclude this paper with a comment on the political and ethical implications of the use of social networks data in politics. We stress the importance of developing social macroscopes that will enable citizens to better understand how they collectively make society and propose as example the "Politoscope", a macroscope that delivers some of our results in an interactive way.
+C1 [Gaumont, Noe; Chavalarias, David] Ecole Hautes Etud EHESS, CNRS, CAMS, Paris, France.
+   [Panahi, Maziyar; Chavalarias, David] CNRS, ISC PIF, Paris, France.
+C3 Centre National de la Recherche Scientifique (CNRS); Centre National de
+   la Recherche Scientifique (CNRS); Universite Paris Cite
+RP Chavalarias, D (corresponding author), Ecole Hautes Etud EHESS, CNRS, CAMS, Paris, France.; Chavalarias, D (corresponding author), CNRS, ISC PIF, Paris, France.
+EM david.chavalarias@ehess.fr
+OI Panahi, Maziyar/0000-0002-3060-9883; Chavalarias,
+   David/0000-0001-9485-1399
+FU CNRS; Complex Systems Institute of Paris IIe-de-France; ANR project
+   Algodiv [ANR-15-CE38-0001]; NoeA Gaumont's Post-Doc; Region
+   IIe-de-France through the Domaine d'Interet Majeur "Problematique
+   Transversales aux Systemes Complexes" DIM (Field of major interest) from
+   the IIe-de-France Region; City of Paris; Agence Nationale de la
+   Recherche (ANR) [ANR-15-CE38-0001] Funding Source: Agence Nationale de
+   la Recherche (ANR)
+FX This work has been supported by the CNRS (http://cnrs.fr), as hosting
+   institution and financer of the PI David Chavalarias and Maziyar Panahi;
+   The Complex Systems Institute of Paris IIe-de-France
+   (https://iscpif.fr), that hosted the team and provided computing
+   infrastructure; the ANR project Algodiv (ANR-15-CE38-0001,
+   http://www.agence-nationale-recherche.fr), workpackage leader for CAMS
+   David Chavalarias, that financed NoeA Gaumont's Post-Doc; The Region
+   IIe-de-France through the Domaine d'Interet Majeur "Problematique
+   Transversales aux Systemes Complexes" DIM (Field of major interest) from
+   the IIe-de-France Region that co-funded the IT infrastructure; and The
+   Science en Poche project funded by the City of Paris (Programme
+   Emergence(s), PI David Chavalarias, https://www.paris.fr) that financed
+   the Multivac software development. The funders had no role in study
+   design, data collection and analysis, decision to publish, or
+   preparation of the manuscript.
+CR Adamic L.A., 2005, P 3 INT WORKSH LINK, P36, DOI DOI 10.1145/1134271.1134277
+   Alonso P, 2016, ALLIE FRANCAIS PARAN
+   [Anonymous], 2010, P 1 WORKSH SOC MED A, DOI DOI 10.1145/1964858.1964870
+   [Anonymous], 2016, DYNAMIC NETWORKS CYB, DOI DOI 10.1142/9781786340757_0005
+   [Anonymous], 2010, 4 INT AAAI C WEBLOGS
+   Bakshy E., 2011, P 4 ACM INT C WEB SE, P65, DOI DOI 10.1145/1935826.1935845
+   Barberá P, 2015, SOC SCI COMPUT REV, V33, P712, DOI 10.1177/0894439314558836
+   Barberá P, 2015, PSYCHOL SCI, V26, P1531, DOI 10.1177/0956797615594620
+   Barberá P, 2015, POLIT ANAL, V23, P76, DOI 10.1093/pan/mpu011
+   Bastian M., 2009, GEPHI OPEN SOURCE SO
+   Besse Desmoulieres R, 2017, PRESIDENTIELLE MELEN
+   Blei DM, 2003, J MACH LEARN RES, V3, P993, DOI 10.1162/jmlr.2003.3.4-5.993
+   Blondel VD, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/10/P10008
+   Botsman Rachel., BIG DATA MEETS BIG B
+   Boutet A, 2012, 2012 IEEE/ACM INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING (ASONAM), P132, DOI 10.1109/ASONAM.2012.32
+   Boyd D., 2010, 43 HAW INT C SYST SC, P1, DOI [DOI 10.1109/HICSS.2010.412, DOI 10.1353/JSM.2016.0009]
+   Briatte F., 2015, Science Po Quanti
+   Brunel A., 2017, TECHNOLOGIES BIGDATA
+   CALLON M, 1983, SOC SCI INFORM, V22, P191, DOI 10.1177/053901883022002003
+   Cavelier J, 2017, SPECTACULAIRE REVIRE
+   Challenges, 2017, UDI REST RALL LR MAI
+   Chavalarias D, 2017, TWITTER LEPENISTES P
+   Chavalarias D, 2018, POLITOSCOPE DATA TWE
+   Cherepnalkoski Darko, 2016, Appl Netw Sci, V1, P2, DOI 10.1007/s41109-016-0001-4
+   Cherepnalkoski D, 2015, 2015 11TH INTERNATIONAL CONFERENCE ON SIGNAL-IMAGE TECHNOLOGY & INTERNET-BASED SYSTEMS (SITIS), P350, DOI 10.1109/SITIS.2015.8
+   Chrisafis A, 2018, E MACRON PROMISES BA
+   Clifton D, 2017, FAKE NEWS TWITTER IN
+   Cohen Raviv, 2013, P INT AAAI C WEB SOC, DOI DOI 10.1609/ICWSM.V7I1.14434
+   Cointet JP, 2008, NETW HETEROG MEDIA, P267, DOI [10.3934/Phm.2008.3.267, DOI 10.3934/PHM.2008.3.267]
+   Colleoni E, 2014, J COMMUN, V64, P317, DOI 10.1111/jcom.12084
+   Conover M. D., 2011, Proceedings of the 2011 IEEE Third International Conference on Privacy, Security, Risk and Trust and IEEE Third International Conference on Social Computing (PASSAT/SocialCom 2011), P192, DOI 10.1109/PASSAT/SocialCom.2011.34
+   Darmon D, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0134860
+   Decodeurs L, 2017, LE MONDEFR
+   Decodeurs L., 2017, MANIFESTATION TROCAD
+   Dias G, 2008, LECT NOTES ARTIF INT, V5268, P198, DOI 10.1007/978-3-540-87696-0_19
+   Enchaine LC, 2017, 600 000 EUROS GAGNE
+   Falkowski T, 2006, ECIS, P318
+   Forcari C, 2017, UDI EST DIVISEE ENTR
+   Fortunato S, 2016, PHYS REP, V659, P1, DOI 10.1016/j.physrep.2016.09.002
+   Garimella K, 2016, PROCEEDINGS OF THE NINTH ACM INTERNATIONAL CONFERENCE ON WEB SEARCH AND DATA MINING (WSDM'16), P33
+   Gaumont N, 2018, DATA RECONSTRUCTION
+   Green K., 2015, HUFFINGTON POST
+   Greenwald G., 2015, No Place to Hide: Edward Snowden, the NSA, and the US Surveillance State
+   Guerrero-Solé F, 2017, SOC SCI COMPUT REV, V35, P244, DOI 10.1177/0894439315617254
+   Hopcroft J, 2004, P NATL ACAD SCI USA, V101, P5249, DOI 10.1073/pnas.0307750100
+   Howard P.N., 2017, Social media, news and political information during the US election: Was polarizing content concentrated in swing states?
+   Huberty M, 2015, INT J FORECASTING, V31, P992, DOI 10.1016/j.ijforecast.2014.08.005
+   Hussonnois-Alaya C, 2016, VIE APRES PRIMAIRE
+   Jacomy M, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0098679
+   JOHNSON HM, 1994, J EXP PSYCHOL LEARN, V20, P1420, DOI 10.1037/0278-7393.20.6.1420
+   Kanawati Rushed, 2014, Social Computing and Social Media. 6th International Conference, SCSM 2014, Held as Part of HCI International 2014. Proceedings: LNCS 8531, P197, DOI 10.1007/978-3-319-07632-4_19
+   Kwak H., WWW'10, DOI [10.1145/1772690.1772751, DOI 10.1145/1772690.1772751]
+   Larsson AO, 2012, NEW MEDIA SOC, V14, P729, DOI 10.1177/1461444811422894
+   Lazer DMJ, 2018, SCIENCE, V359, P1094, DOI 10.1126/science.aao2998
+   Lemarie A A, 2017, JUPPE RENONCE DROITE
+   Lepelletier P, 2016, JP MIGNARD INTIME HO
+   Lewandowsky S, 2017, J APPL RES MEM COGN, V6, P353, DOI 10.1016/j.jarmac.2017.07.008
+   Lewandowsky S, 2012, PSYCHOL SCI PUBL INT, V13, P106, DOI 10.1177/1529100612451018
+   Leydesdorff L, 2015, ARXIV151103020CS
+   Martin A, 2016, CAN PSYCHOL, V57, P101, DOI 10.1037/cap0000048
+   Mediametrie, 2017, AUD INT MOB FRANC SE
+   Monde L, 2017, PRESIDENTIELLE BAYRO
+   Morales AJ, 2015, CHAOS, V25, DOI 10.1063/1.4913758
+   O'Sullivan D, 2018, RNC FILES INSIDE LAR
+   Page L., 1999, The PageRank citation ranking: Bringing order to the web
+   Palla G, 2007, NATURE, V446, P664, DOI 10.1038/nature05670
+   Point L, 2017, LEGISLATIVES NKM SER
+   Popescu Ana-Maria, 2011, P INT AAAI C WEB SOC, V1, P281, DOI [10.1609/icwsm.v5i1.14139, DOI 10.1609/ICWSM.V5I1.14139]
+   Poussart A, 2017, NICOLAS DUPONT AIGNA
+   Preotiuc-Pietro D, 2017, PROCEEDINGS OF THE 55TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2017), VOL 1, P729, DOI 10.18653/v1/P17-1068
+   Rao D., 2010, Proc. of the NIPS MLSN Workshop, P1, DOI DOI 10.1109/HIPC.2010.5713191
+   Siraud M, 2017, JADOT ANNONCE QUIL R
+   SPARCKJONES K, 1972, J DOC, V28, P11, DOI 10.1108/eb026526
+   Statista, 2018, TWITT MAU WORLDW 201
+   Stoycheff E, 2016, J MASS COMMUN Q, V93, P296, DOI 10.1177/1077699016630255
+   Tarde G, 1890, LOIS LIMITATION
+   Tomasello M., 2009, CULTURAL ORIGINS HUM
+   Vosoughi S, 2018, SCIENCE, V359, P1146, DOI 10.1126/science.aap9559
+   Xie J., 2013, ACM Comput. Surv, V45, P1, DOI DOI 10.1145/2501654.2501657
+NR 79
+TC 34
+Z9 34
+U1 4
+U2 36
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD SEP 19
+PY 2018
+VL 13
+IS 9
+AR e0201879
+DI 10.1371/journal.pone.0201879
+PG 38
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA GU3GJ
+UT WOS:000445164300012
+PM 30231018
+OA gold, Green Submitted, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Dutta, R
+   Mira, A
+   Onnela, JP
+AF Dutta, Ritabrata
+   Mira, Antonietta
+   Onnela, Jukka-Pekka
+TI Bayesian inference of spreading processes on networks
+SO PROCEEDINGS OF THE ROYAL SOCIETY A-MATHEMATICAL PHYSICAL AND ENGINEERING
+   SCIENCES
+LA English
+DT Article
+DE network; spreading process; epidemics; Bayesian inference; approximate
+   Bayesian computation
+ID TUTORIAL INTRODUCTION; MODEL; EPIDEMICS; POPULATIONS; COMPUTATION;
+   EVOLUTION
+AB Infectious diseases are studied to understand their spreading mechanisms, to evaluate control strategies and to predict the risk and course of future outbreaks. Because people only interact with few other individuals, and the structure of these interactions influence spreading processes, the pairwise relationships between individuals can be usefully represented by a network. Although the underlying transmission processes are different, the network approach can be used to study the spread of pathogens in a contact network or the spread of rumours in a social network. We study simulated simple and complex epidemics on synthetic networks and on two empirical networks, a social/contact network in an Indian village and an online social network. Our goal is to learn simultaneously the spreading process parameters and the first infected node, given a fixed network structure and the observed state of nodes at several time points. Our inference scheme is based on approximate Bayesian computation, a likelihood-free inference technique. Our method is agnostic about the network topology and the spreading process. It generally performs well and, somewhat counter-intuitively, the inference problem appears to be easier on more heterogeneous network topologies, which enhances its future applicability to real-world settings where few networks have homogeneous topologies.
+C1 [Dutta, Ritabrata; Mira, Antonietta] Univ Svizzera Italiana, Inst Computat Sci, Lugano, Switzerland.
+   [Mira, Antonietta] Univ Insubria, Dept Sci & High Technol, Varese, Italy.
+   [Onnela, Jukka-Pekka] Harvard Univ, Dept Biostat, Boston, MA 02115 USA.
+C3 Universita della Svizzera Italiana; University of Insubria; Harvard
+   University
+RP Dutta, R (corresponding author), Univ Svizzera Italiana, Inst Computat Sci, Lugano, Switzerland.
+EM duttar@usi.ch
+RI ; Dutta, Ritabrata/GWC-8579-2022
+OI Mira, Antonietta/0000-0002-5609-7935; Dutta,
+   Ritabrata/0000-0001-8209-7747
+FU Swiss National Science Foundation [105218_163196]; Swiss National
+   Science Foundation (SNF) [105218_163196] Funding Source: Swiss National
+   Science Foundation (SNF)
+FX The research was supported by Swiss National Science Foundation grant
+   no. 105218_163196 (Statistical Inference on Large-Scale Mechanistic
+   Network Models).
+CR Albert C, 2015, STAT COMPUT, V25, P1217, DOI 10.1007/s11222-014-9507-8
+   [Anonymous], 2015, GLARMA PACKAGE
+   [Anonymous], P 17 INT WORKSH STAT
+   [Anonymous], WORK PAP ESOCIALSCIE
+   [Anonymous], IMPACT DEGREE TRUNCA
+   [Anonymous], 2017, SOCIAL MEDIA FAKE NE
+   [Anonymous], 2015, Reuters Institute Digital News Report 2015 Tracking
+   Banerjee A, 2013, SCIENCE, V341, P363, DOI 10.1126/science.1236498
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barash V, 2012, SOC NETWORKS, V34, P451, DOI 10.1016/j.socnet.2012.02.003
+   Britton T, 2002, SCAND J STAT, V29, P375, DOI 10.1111/1467-9469.00296
+   Brooks-Pollock E, 2014, NATURE, V511, P228, DOI 10.1038/nature13529
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Demiris N, 2005, J R STAT SOC B, V67, P731, DOI 10.1111/j.1467-9868.2005.00524.x
+   Demiris N, 2005, SCAND J STAT, V32, P265, DOI 10.1111/j.1467-9469.2005.00420.x
+   Dong W, 2013, IEEE INT SYMP INFO, P2671, DOI 10.1109/ISIT.2013.6620711
+   Drovandi CC, 2015, STAT SCI, V30, P72, DOI 10.1214/14-STS498
+   Drovandi CC, 2011, J R STAT SOC C-APPL, V60, P317, DOI 10.1111/j.1467-9876.2010.00747.x
+   Dutta R, 2017, PROCEEDINGS OF THE PLATFORM FOR ADVANCED SCIENTIFIC COMPUTING CONFERENCE (PASC17), DOI 10.1145/3093172.3093233
+   Easley D., 2010, NETWORKS CROWDS MARK
+   Erdos P., 1959, PUBL MATH-DEBRECEN, V6, P290
+   Eyre RW, 2017, ROY SOC OPEN SCI, V4, DOI 10.1098/rsos.170336
+   Farajtabar M, 2015, JMLR WORKSH CONF PRO, V38, P232
+   Fearnhead P, 2012, J R STAT SOC B, V74, P419, DOI 10.1111/j.1467-9868.2011.01010.x
+   Fink C., 2016, 10 INT AAAI C WEB SO, V10, P121, DOI https://doi.org/10.1609/icwsm.v10i1.14751
+   GRANOVETTER M, 1978, AM J SOCIOL, V83, P1420, DOI 10.1086/226707
+   Gutmann MU, 2018, STAT COMPUT, V28, P411, DOI 10.1007/s11222-017-9738-6
+   Hill EM, 2015, P ROY SOC B-BIOL SCI, V282, DOI 10.1098/rspb.2015.1180
+   HOLLAND PW, 1973, J MATH SOCIOL, V3, P85, DOI 10.1080/0022250X.1973.9989825
+   Jiang B, 2017, STAT SINICA, V27, P1595, DOI 10.5705/ss.202015.0340
+   Kypraios T, 2017, MATH BIOSCI, V287, P42, DOI 10.1016/j.mbs.2016.07.001
+   Lappas T., 2010, P 16 ACM SIGKDD INT, P1059, DOI DOI 10.1145/1835804.1835937
+   Leskovec J., 2012, ADV NEURAL INFORM PR, V25, P539, DOI DOI 10.1109/ICDM.2012.159
+   Lintusaari J, 2017, SYST BIOL, V66, pE66, DOI 10.1093/sysbio/syw077
+   Marin JM, 2012, STAT COMPUT, V22, P1167, DOI 10.1007/s11222-011-9288-2
+   Martinez EA, 2016, NATURE, V534, P516, DOI 10.1038/nature18318
+   Neal P, 2005, STAT COMPUT, V15, P315, DOI 10.1007/s11222-005-4074-7
+   Neal P, 2012, STAT COMPUT, V22, P1239, DOI 10.1007/s11222-010-9216-x
+   O'Neill PD, 2002, MATH BIOSCI, V180, P103, DOI 10.1016/S0025-5564(02)00109-8
+   Okamura H, 2007, ISSRE 2007: 18TH IEEE INTERNATIONAL SYMPOSIUM ON SOFTWARE RELIABILITY ENGINEERING, PROCEEDINGS, P149, DOI 10.1109/ISSRE.2007.28
+   Pinto PC, 2012, PHYS REV LETT, V109, DOI 10.1103/PhysRevLett.109.068702
+   Prakash BA, 2014, KNOWL INF SYST, V38, P35, DOI 10.1007/s10115-013-0671-5
+   Prakash BA, 2012, IEEE DATA MINING, P11, DOI 10.1109/ICDM.2012.136
+   Pudlo P, 2016, BIOINFORMATICS, V32, P859, DOI 10.1093/bioinformatics/btv684
+   Robert C., 2005, TECHNOMETRICS, V47, P243, DOI DOI 10.1126/science.1086909
+   Schaye J, 2015, MON NOT R ASTRON SOC, V446, P521, DOI 10.1093/mnras/stu2058
+   Schmidt AL, 2017, P NATL ACAD SCI USA, V114, P3035, DOI 10.1073/pnas.1617052114
+   Shah D, 2011, IEEE T INFORM THEORY, V57, P5163, DOI 10.1109/TIT.2011.2158885
+   Spinelli B, 2017, PROCEEDINGS OF THE 26TH INTERNATIONAL CONFERENCE ON WORLD WIDE WEB (WWW'17), P1151, DOI 10.1145/3038912.3052584
+   Staples P.C., 2016, Leveraging contact network information in clustered randomized trials of infectious processes
+   Sundareisan S., 2015, P 2015 SIAM INT C DA, P415
+   Toni T, 2009, J R SOC INTERFACE, V6, P187, DOI 10.1098/rsif.2008.0172
+   Turchin P, 2013, P NATL ACAD SCI USA, V110, P16384, DOI 10.1073/pnas.1308825110
+   Wuqiong Luo, 2012, 2012 9th Annual IEEE Communications Society Conference on Sensor, Mesh and Ad Hoc Communications and Networks (SECON), P281, DOI 10.1109/SECON.2012.6275788
+   Zhou T, 2006, PHYS REV E, V74, DOI 10.1103/PhysRevE.056109
+   Zhu K, 2016, IEEE ACM T NETWORK, V24, P408, DOI 10.1109/TNET.2014.2364972
+   Zhu K, 2014, IEEE INFOCOM SER, P2211, DOI 10.1109/INFOCOM.2014.6848164
+NR 58
+TC 16
+Z9 16
+U1 0
+U2 16
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 1364-5021
+EI 1471-2946
+J9 P ROY SOC A-MATH PHY
+JI Proc. R. Soc. A-Math. Phys. Eng. Sci.
+PD JUL
+PY 2018
+VL 474
+IS 2215
+AR 20180129
+DI 10.1098/rspa.2018.0129
+PG 18
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA GO6JB
+UT WOS:000440145500015
+PM 30100809
+OA Green Submitted, Green Published, Bronze
+DA 2024-11-22
+ER
+
+PT J
+AU Parks, AD
+AF Parks, Allen D.
+TI Schutzenberger Symmetries in Network Structures
+SO SYMMETRY-BASEL
+LA English
+DT Article
+DE Schutzenberger symmetry; Schutzenberger symmetry group; Green's
+   relations; network classification; network evolution; network invariants
+ID BINARY RELATIONS
+AB It is known that the set of all networks of fixed order form a semigroup. This fact provides for the Green's L, R, H and D equivalence classifications of all such networks. These classifications reveal certain structural invariants common to all networks within a Green's equivalence class and enables the computation of the associated invariant preserving symmetries that transform a network into another network within a Green's equivalence class. Here, the notion of Schutzenberger symmetries in network structures is introduced. These are computable symmetries which transform any network within an H-equivalence class into another network within that class in a manner that preserves the associated structural invariants. Useful applications of Schiitzenberger symmetries include enabling the classification and analysis of biological network data, identifying important relationships in social networks, and understanding the consequences of link reconfiguration in communication and sensor networks.
+C1 [Parks, Allen D.] Electromagnet & Sensor Syst Dept, Naval Surface Warfare Ctr Dahlgren Div, 18444 Frontage Rd Suite 327, Dahlgren, VA 22448 USA.
+RP Parks, AD (corresponding author), Electromagnet & Sensor Syst Dept, Naval Surface Warfare Ctr Dahlgren Div, 18444 Frontage Rd Suite 327, Dahlgren, VA 22448 USA.
+EM allen.parks@navy.mil
+FU Naval Surface Warfare Center Dahlgren Division's In-house Laboratory
+   Independent Research Program
+FX This research was funded by a grant from the Naval Surface Warfare
+   Center Dahlgren Division's In-house Laboratory Independent Research
+   Program.
+CR Barr M., 1990, CATEGORY THEORY COMP, P63
+   Clifford A., 1961, ALGEBRAIC THEORY SEM, VI, P41
+   Fan S. H., 2005, ELECT NOTES DISCRETE, V23, P51, DOI DOI 10.1016/J.ENDM.2005.07.079
+   Fan SH, 2009, DISCRETE MATH, V309, P5411, DOI 10.1016/j.disc.2009.02.027
+   Howie J., 1976, INTRO SEMIGROUP THEO, P38
+   KONIECZNY J, 1994, SEMIGROUP FORUM, V48, P235, DOI 10.1007/BF02573672
+   Lallement G., 1979, SEMIGROUPS COMBINATO, P19
+   National Research Council, 2002, DYNAMIC SOCIAL NETWO
+   Parks A., 2017, INT J NETW SCI
+   Parks A., 2018, TECHN EN DIG ENG S D
+   Parks AD, 2011, SYMMETRY-BASEL, V3, P564, DOI 10.3390/sym3030564
+   Petri G, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2014.0873
+   PLEMMONS RJ, 1970, PAC J MATH, V35, P743, DOI 10.2140/pjm.1970.35.743
+   Rosen J, 2008, FRONT COLLECT, P1
+   Wikipedia, GREENS REL
+NR 15
+TC 0
+Z9 0
+U1 0
+U2 0
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2073-8994
+J9 SYMMETRY-BASEL
+JI Symmetry-Basel
+PD JUL
+PY 2018
+VL 10
+IS 7
+AR 260
+DI 10.3390/sym10070260
+PG 8
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA GO7DD
+UT WOS:000440215400030
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Zhou, W
+   Li, JP
+   Zhang, ML
+   Ning, J
+AF Zhou, Wang
+   Li, Jianping
+   Zhang, Malu
+   Ning, Jin
+TI Incorporating Social Network and User's Preference in Matrix
+   Factorization for Recommendation
+SO ARABIAN JOURNAL FOR SCIENCE AND ENGINEERING
+LA English
+DT Article
+DE Matrix factorization; Social network; Preference; Recommender systems
+AB Recommender systems have been comprehensively applied in many industries, such as social Web sites, e-commerce, tourism service and so on, although suffering from the data sparsity and cold start problems. Currently, due to the advantage of online social networking, many social network-based recommendation scenarios have been developed to improve the recommendation accuracy, via exploring hidden social relations between users from the social network. In this article, focusing on addressing these problems, a novel social network and preference-based recommendation methodSRMP, is proposed, which incorporates the social network information and user's preference in matrix factorization for recommendation. In contrast to previous approaches, to improve the recommendation accuracy, SRMP performs recommendation in each independent sub-community, which is derived from the initial social community according to different category tags. The experimental analysis on large real-world datasets demonstrates that the proposed method SRMP outperforms state-of-the-art approaches, especially in recommendation accuracy and solving the cold start problem.
+C1 [Zhou, Wang; Li, Jianping; Zhang, Malu; Ning, Jin] Univ Elect Sci & Technol China, Sch Comp Sci & Engn, Chengdu 610054, Sichuan, Peoples R China.
+C3 University of Electronic Science & Technology of China
+RP Zhou, W (corresponding author), Univ Elect Sci & Technol China, Sch Comp Sci & Engn, Chengdu 610054, Sichuan, Peoples R China.
+EM dean_uestc@163.com; jpli2222@uestc.edu.cn; maluzhang@126.com;
+   anjinning@hotmail.com
+RI li, jianping/A-9544-2012
+FU National Science Foundation of China [61370073]
+FX This work was supported by a grant from National Science Foundation of
+   China, No. 61370073.
+CR [Anonymous], 2016, ADV INTEL SYS RES
+   [Anonymous], 2010, P INT C WORLD WID WE
+   [Anonymous], 2001, P 10 INT C WORLD WID
+   [Anonymous], 2011, Proceedings of the Fifth ACM Conference on Recommender Systems', RecSys'11, DOI DOI 10.1145/2043932.2043975
+   [Anonymous], 2012, P INT C MACH LEARN
+   Blei DM, 2003, J MACH LEARN RES, V3, P993, DOI 10.1162/jmlr.2003.3.4-5.993
+   Bobadilla J, 2013, KNOWL-BASED SYST, V46, P109, DOI 10.1016/j.knosys.2013.03.012
+   Bourkoukou O, 2016, ARAB J SCI ENG, V42, P1
+   Carminati B, 2012, PROC INT CONF DATA, P1281, DOI 10.1109/ICDE.2012.127
+   Christakopoulou E, 2016, PROCEEDINGS OF THE 10TH ACM CONFERENCE ON RECOMMENDER SYSTEMS (RECSYS'16), P67, DOI 10.1145/2959100.2959185
+   Chua FCT, 2013, IEEE T KNOWL DATA EN, V25, P2036, DOI 10.1109/TKDE.2012.137
+   Cui P., 2011, P 25 AAAI C ART INT
+   Feng H, 2013, PROCEEDINGS OF THE 22ND ACM INTERNATIONAL CONFERENCE ON INFORMATION & KNOWLEDGE MANAGEMENT (CIKM'13), P1521
+   Forsati R, 2014, ACM T INFORM SYST, V32, DOI 10.1145/2641564
+   Gao J., 2014, P 2014 C EMP METH NA, P2, DOI [DOI 10.3115/V1/D14-1002, 10.3115/v1/D14-1002]
+   Jamali M, 2010, P 4 ACM C REC SYST, P135
+   Jiang M., 2012, PROC 21 ACM INT C IN, P1422
+   Koren Y, 2008, P 14 ACM SIGKDD INT, P426
+   Koren Y, 2009, COMPUTER, V42, P30, DOI 10.1109/MC.2009.263
+   Li Hui, 2015, RECSYS, P27, DOI DOI 10.1145/2792838.2800171
+   Li XP, 2017, KDD'17: PROCEEDINGS OF THE 23RD ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P305, DOI 10.1145/3097983.3098077
+   Liu FK, 2010, EXPERT SYST APPL, V37, P4772, DOI 10.1016/j.eswa.2009.12.061
+   Liu Q, 2012, IEEE T SYST MAN CY B, V42, P218, DOI 10.1109/TSMCB.2011.2163711
+   Ma H., 2011, P 4 ACM INT C WEB SE, P287
+   Ma H, 2013, SIGIR'13: THE PROCEEDINGS OF THE 36TH INTERNATIONAL ACM SIGIR CONFERENCE ON RESEARCH & DEVELOPMENT IN INFORMATION RETRIEVAL, P73
+   Ma H, 2009, PROCEEDINGS 32ND ANNUAL INTERNATIONAL ACM SIGIR CONFERENCE ON RESEARCH AND DEVELOPMENT IN INFORMATION RETRIEVAL, P203, DOI 10.1145/1571941.1571978
+   Ma Hao, 2008, P CIKM08 C INFORM KN
+   Massa P, 2007, RECSYS 07: PROCEEDINGS OF THE 2007 ACM CONFERENCE ON RECOMMENDER SYSTEMS, P17
+   McAuley J., 2013, P 7 ACM C REC SYST, P165
+   Mnih A., 2008, ADV NEURAL INFORM PR
+   Qian XM, 2014, IEEE T KNOWL DATA EN, V26, P1763, DOI 10.1109/TKDE.2013.168
+   Ren XY, 2017, NEUROCOMPUTING, V241, P38, DOI 10.1016/j.neucom.2017.02.005
+   Richardson M, 2002, KDD
+   Salakhutdinov R, 2008, P INT C MACH LEARN, P880, DOI DOI 10.1145/1390156.1390267
+   Sattar A, 2017, ARAB J SCI ENG, V42, P3229, DOI 10.1007/s13369-016-2410-1
+   Semwal VB, 2017, MULTIMED TOOLS APPL, V76, P24457, DOI 10.1007/s11042-016-4110-y
+   Shi Y, 2014, ACM COMPUT SURV, V47, DOI 10.1145/2556270
+   Shi Y, 2013, ACM T INTEL SYST TEC, V4, DOI 10.1145/2414425.2414441
+   Wu L, 2016, AAAI CONF ARTIF INTE, P279
+   Wu L, 2017, IEEE T KNOWL DATA EN, V29, P1240, DOI 10.1109/TKDE.2017.2663422
+   Yang SQ, 2017, 2017 IEEE INTERNATIONAL CONFERENCE ON SERVICES COMPUTING (SCC), P204, DOI 10.1109/SCC.2017.33
+   Yang XW, 2013, IEEE T PARALL DISTR, V24, P642, DOI 10.1109/TPDS.2012.192
+   Yang Xiwang., 2012, P 18 ACM SIGKDD INT, P1267, DOI [10.1145/2339530.2339728, DOI 10.1145/2339530.2339728]
+   Zhao GS, 2016, IEEE T MULTIMEDIA, V18, P496, DOI 10.1109/TMM.2016.2515362
+NR 44
+TC 9
+Z9 9
+U1 1
+U2 40
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 2193-567X
+EI 2191-4281
+J9 ARAB J SCI ENG
+JI Arab. J. Sci. Eng.
+PD DEC
+PY 2018
+VL 43
+IS 12
+BP 8179
+EP 8193
+DI 10.1007/s13369-018-3380-2
+PG 15
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA HA0XV
+UT WOS:000449936300095
+DA 2024-11-22
+ER
+
+PT J
+AU Gan, CQ
+   Li, X
+   Wang, LS
+   Zhang, ZF
+AF Gan, Chenquan
+   Li, Xiaoke
+   Wang, Lisha
+   Zhang, Zufan
+TI The Impact of User Behavior on Information Diffusion in D2D
+   Communications: A Discrete Dynamical Model
+SO DISCRETE DYNAMICS IN NATURE AND SOCIETY
+LA English
+DT Article
+ID TO-DEVICE COMMUNICATIONS; SOCIAL NETWORKS; SPREAD
+AB This paper aims to explore the impact of user behavior on information diffusion in D2D (Device-to-Device) communications. A discrete dynamical model, which combines network metrics and user behaviors, including social relationship, user influence, and interest, is proposed and analyzed. Specifically, combined with social tie and user interest, the success rate of data dissemination between D2D users is described, and the interaction factor, user influence, and stability factor are also defined. Furthermore, the state transition process of user is depicted by a discrete-time Markov chain, and global stability analysis of the proposed model is also performed. Finally, some experiments are examined to illustrate the main results and effectiveness of the proposed model.
+C1 [Gan, Chenquan; Li, Xiaoke; Wang, Lisha; Zhang, Zufan] Chongqing Univ Posts & Telecommun, Sch Commun & Informat Engn, Chongqing 400065, Peoples R China.
+C3 Chongqing University of Posts & Telecommunications
+RP Li, X (corresponding author), Chongqing Univ Posts & Telecommun, Sch Commun & Informat Engn, Chongqing 400065, Peoples R China.
+EM lxkever@foxmail.com
+OI Gan, Chenquan/0000-0002-0453-5630; zhang, zufan/0000-0001-5315-2065
+FU Natural Science Foundation of China [61702066, 11747125]; Scientific and
+   Technological Research Program of Chongqing Municipal Education
+   Commission [KJ1704080]; Chongqing Research Program of Basic Research and
+   Frontier Technology [cstc2017jcyjAX0256, cstc2018jcyjAX0154]; Research
+   Innovation Program for Postgraduate of Chongqing [CYS17217, CYS18238]
+FX This work is supported by Natural Science Foundation of China (Grants
+   nos. 61702066 and 11747125), Scientific and Technological Research
+   Program of Chongqing Municipal Education Commission (Grant no.
+   KJ1704080), Chongqing Research Program of Basic Research and Frontier
+   Technology (Grants nos. cstc2017jcyjAX0256 and cstc2018jcyjAX0154), and
+   Research Innovation Program for Postgraduate of Chongqing (Grants nos.
+   CYS17217 and CYS18238).
+CR Albreem Mahmoud A. M., 2015, 2015 International Conference on Computer, Communications and Control Technology (I4CT), P493, DOI 10.1109/I4CT.2015.7219627
+   [Anonymous], 2012, Am. Math. Soc.
+   [Anonymous], 2011, P 4 JOINT IFIP WIR M
+   [Anonymous], LECT NOTES COMPUTER
+   Aoude L, 2018, WIREL COMMUN MOB COM, DOI 10.1155/2018/5606829
+   Bakshy E., 2012, P 21 INT C WORLD WID, P519, DOI DOI 10.1145/2187836.2187907
+   Cheng HH, 2015, IEEE T PARALL DISTR, V26, P3160, DOI 10.1109/TPDS.2014.2363652
+   Cianca E, 2005, WIRELESS PERS COMMUN, V33, P327, DOI 10.1007/s11277-005-0577-y
+   Elaydi S., 2005, Undergraduate Texts in Mathematics, V3rd
+   Gan CQ, 2014, UTILITAS MATHEMATICA, V93, P193
+   Gan CQ, 2013, DISCRETE DYN NAT SOC, V2013, DOI 10.1155/2013/963757
+   Gan CQ, 2014, COMMUN NONLINEAR SCI, V19, P92, DOI 10.1016/j.cnsns.2013.06.018
+   Gan CQ, 2012, DISCRETE DYN NAT SOC, V2012, DOI 10.1155/2012/106950
+   Guille A, 2013, SIGMOD REC, V42, P17
+   I CL, 2014, IEEE INT CONF COMMUN, P246, DOI 10.1109/ICCChina.2014.7008280
+   Jang-Ho Choi, 2015, International Journal of Future Computer and Communication, V4, P7, DOI 10.7763/IJFCC.2015.V4.346
+   Jiang JJ, 2016, IEEE J SEL AREA COMM, V34, P82, DOI 10.1109/JSAC.2015.2452493
+   Lagnier Cedric, 2013, Advances in Information Retrieval. 35th European Conference on IR Research, ECIR 2013. Proceedings, P74, DOI 10.1007/978-3-642-36973-5_7
+   Lei L, 2012, IEEE WIREL COMMUN, V19, P96, DOI 10.1109/MWC.2012.6231164
+   Li JL, 2016, IEEE T COMMUN, V64, P1132, DOI 10.1109/TCOMM.2016.2521741
+   Li Y, 2014, IEEE T MOBILE COMPUT, V13, P1579, DOI 10.1109/TMC.2013.61
+   Li Y, 2014, IEEE COMMUN MAG, V52, P150, DOI 10.1109/MCOM.2014.6829957
+   Liu WP, 2019, APPL MATH COMPUT, V343, P214, DOI 10.1016/j.amc.2018.09.048
+   Liu WP, 2018, APPL MATH MODEL, V63, P491, DOI 10.1016/j.apm.2018.07.010
+   Myers Seth, 2010, NIPS, V23
+   Paarporn K, 2015, ANN ALLERTON CONF, P51, DOI 10.1109/ALLERTON.2015.7446985
+   Pyattaev A, 2015, IEEE J SEL AREA COMM, V33, P156, DOI 10.1109/JSAC.2014.2384232
+   Reider N, 2012, EURASIP J WIREL COMM, DOI 10.1186/1687-1499-2012-266
+   Wallinga J, 2004, AM J EPIDEMIOL, V160, P509, DOI 10.1093/aje/kwh255
+   [王超 Wang Chao], 2014, [电子学报, Acta Electronica Sinica], V42, P2325
+   Wang TY, 2015, IEEE T WIREL COMMUN, V14, P7004, DOI 10.1109/TWC.2015.2463281
+   Wang X, 2014, IEEE INFOCOM SER, P2346, DOI 10.1109/INFOCOM.2014.6848179
+   Wu D, 2018, IEEE T VEH TECHNOL, V67, P7538, DOI 10.1109/TVT.2018.2825366
+   Yang LX, 2013, APPL MATH COMPUT, V219, P8705, DOI 10.1016/j.amc.2013.02.031
+   Yi YX, 2018, PHYSICA A, V509, P783, DOI 10.1016/j.physa.2018.06.063
+   Zhang HF, 2014, CHAOS, V24, DOI 10.1063/1.4896333
+   Zhang YR, 2013, IEEE GLOB COMM CONF, P4597, DOI 10.1109/GLOCOMW.2013.6855676
+   Zhang YR, 2015, IEEE T WIREL COMMUN, V14, P177, DOI 10.1109/TWC.2014.2334661
+   Zhang YR, 2013, IEEE INT CONF COMMUN, P182, DOI 10.1109/ICCChinaW.2013.6670590
+   Zhang ZF, 2018, NEUROCOMPUTING, V309, P36, DOI 10.1016/j.neucom.2018.04.068
+   Zhang ZF, 2018, NEUROCOMPUTING, V275, P1407, DOI 10.1016/j.neucom.2017.09.080
+   Zhu QY, 2012, COMMUN NONLINEAR SCI, V17, P5117, DOI 10.1016/j.cnsns.2012.05.030
+NR 42
+TC 5
+Z9 6
+U1 1
+U2 9
+PU HINDAWI LTD
+PI LONDON
+PA ADAM HOUSE, 3RD FLR, 1 FITZROY SQ, LONDON, W1T 5HF, ENGLAND
+SN 1026-0226
+EI 1607-887X
+J9 DISCRETE DYN NAT SOC
+JI Discrete Dyn. Nat. Soc.
+PY 2018
+VL 2018
+AR 3745769
+DI 10.1155/2018/3745769
+PG 9
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Mathematics; Science & Technology - Other Topics
+GA HN7RV
+UT WOS:000460390300001
+OA Green Submitted, gold
+DA 2024-11-22
+ER

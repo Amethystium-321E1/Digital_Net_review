@@ -1,0 +1,565 @@
+
+PT J
+AU Arentze, TA
+   Kowald, M
+   Axhausen, KW
+AF Arentze, Theo A.
+   Kowald, Matthias
+   Axhausen, Kay W.
+TI An agent-based random-utility-maximization model to generate social
+   networks with transitivity in geographic space
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Social network generation; Random utility maximization; Spatial choice
+   modeling; Agent-based modeling; Likelihood estimation
+ID ACTIVITY-TRAVEL BEHAVIOR; TIES
+AB Stochastic actor-based approaches receive increasing interest in the generation of social networks for simulation in time and space. Existing models however cannot be readily integrated in agent-based models that assume random-utility-maximizing behavior of agents. We propose an agent-based model to generate social networks explicitly in geographic space which is formulated in the random-utility-maximizing (RUM) framework. The proposed model consists of a friendship formation mechanism and a component to simulate social encounters in a population. We show how transitivity can be incorporated in both components and how the model can be estimated based on data of personal networks using likelihood estimation. In an application to the Swiss context, we demonstrate the estimation and ability of the model to reproduce relevant characteristics of networks, such as geographic proximity, attribute similarity (homophily), size of personal networks (degree distribution) and clustering (transitivity). We conclude that the proposed social-network model fits seamlessly in existing large-scale micro-simulation systems which assume RUM behavior of agents. (c) 2013 Elsevier B.V. All rights reserved.
+C1 [Arentze, Theo A.] Eindhoven Univ Technol, Fac Built Environm, Urban Planning Grp, NL-5600 MB Eindhoven, Netherlands.
+   [Kowald, Matthias; Axhausen, Kay W.] ETH, Inst Transport Planning & Syst IVT, CH-8093 Zurich, Switzerland.
+C3 Eindhoven University of Technology; Swiss Federal Institutes of
+   Technology Domain; ETH Zurich
+RP Arentze, TA (corresponding author), Eindhoven Univ Technol, Fac Built Environm, Urban Planning Grp, NL-5600 MB Eindhoven, Netherlands.
+EM t.a.arentze@bwk.tue.nl; kowald@ivt.baug.ethz.ch;
+   axhausen@ivt.baug.ethz.ch
+RI Kowald, Matthias/ABE-3402-2021; Axhausen, Kay/A-1598-2008
+OI Kowald, Matthias/0000-0002-2836-0476
+CR [Anonymous], 2005, Models and Methods in Social Network Analysis, DOI DOI 10.1017/CBO9780511811395.008
+   Arentze TA, 2004, TRANSPORT RES B-METH, V38, P613, DOI 10.1016/j.trb.2002.10.001
+   Arentze T, 2012, ENVIRON PLANN A, V44, P1101, DOI 10.1068/a4438
+   Arentze T, 2008, ENVIRON PLANN B, V35, P1012, DOI 10.1068/b3319t
+   Arentze TA, 2009, TRANSPORT RES B-METH, V43, P251, DOI 10.1016/j.trb.2008.05.007
+   Axhausen KW, 2008, ENVIRON PLANN B, V35, P981, DOI 10.1068/b3316t
+   Axhausen K.W., 2006, P 11 INT C TRAV BEH
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barrett Christopher L., 2009, Proceedings of the 2009 Winter Simulation Conference (WSC 2009), P1003, DOI 10.1109/WSC.2009.5429425
+   Ben-Akiva M.E., 1985, Discrete choice analysis: Theory and application to travel demand
+   BfS ARE, 2007, MOB SCHWEIZ ERG MIKR
+   Butts CT, 2012, SOC NETWORKS, V34, P82, DOI 10.1016/j.socnet.2011.08.003
+   Carley KM, 2006, IEEE T SYST MAN CY A, V36, P252, DOI 10.1109/TSMCA.2005.851291
+   Carrasco JA, 2008, ENVIRON PLANN B, V35, P961, DOI 10.1068/b3317t
+   Doreian P, 2006, SOC NETWORKS, V28, P137, DOI 10.1016/j.socnet.2005.05.002
+   Dugundji ER, 2011, TRANSPORT RES A-POL, V45, P239, DOI 10.1016/j.tra.2011.01.001
+   Frick M., 2005, P 84 ANN M TRANSP RE
+   Goyal S., 2007, Connections
+   Hummon NP, 2000, SOC NETWORKS, V22, P221, DOI 10.1016/S0378-8733(00)00024-1
+   Ikkink KK, 1999, SOC NETWORKS, V21, P131
+   Illenberger J, 2011, EUR PHYS J B, V84, P549, DOI 10.1140/epjb/e2011-10872-0
+   Jackson MO, 2008, SOCIAL AND ECONOMIC NETWORKS, P1
+   Kalmijn M, 2003, SOC NETWORKS, V25, P231, DOI 10.1016/S0378-8733(03)00010-8
+   Kowald M, 2012, ENVIRON PLANN A, V44, P1085, DOI 10.1068/a43458
+   Lusher Dean, 2012, Exponential random graph models for social networks: Theory, methods, and applications
+   Mayer A, 2008, J PUBLIC ECON, V92, P329, DOI 10.1016/j.jpubeco.2007.09.001
+   McFadden D., 1974, Journal of Public Economics, V3, P303
+   McFadden D., 1978, SPATIAL INTERACTION, V673, P72
+   McFadden D., 1986, MARKET SCI, V5, P275, DOI [10.1287/mksc.5.4.275, DOI 10.1287/MKSC.5.4.275]
+   Mok D, 2007, SOC NETWORKS, V29, P430, DOI 10.1016/j.socnet.2007.01.009
+   Mollenhorst G, 2008, SOC NETWORKS, V30, P60, DOI 10.1016/j.socnet.2007.07.003
+   Moon IC, 2007, IEEE INTELL SYST, V22, P40, DOI 10.1109/MIS.2007.4338493
+   Neutens T, 2008, COMPUT ENVIRON URBAN, V32, P331, DOI 10.1016/j.compenvurbsys.2008.06.001
+   Robins G, 2007, SOC NETWORKS, V29, P173, DOI 10.1016/j.socnet.2006.08.002
+   Snijders TAB, 2010, SOC NETWORKS, V32, P44, DOI 10.1016/j.socnet.2009.02.004
+   Train KE, 2009, DISCRETE CHOICE METHODS WITH SIMULATION, 2ND EDITION, P1, DOI 10.1017/CBO9780511805271
+   van den Berg P., 2012, 13 M INT ASS TRAV BE
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   WELLMAN B, 1990, AM J SOCIOL, V96, P558, DOI 10.1086/229572
+NR 39
+TC 25
+Z9 27
+U1 2
+U2 26
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JUL
+PY 2013
+VL 35
+IS 3
+BP 451
+EP 459
+DI 10.1016/j.socnet.2013.05.002
+PG 9
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 195HJ
+UT WOS:000322692600016
+OA Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Nastos, J
+   Gao, Y
+AF Nastos, James
+   Gao, Yong
+TI Familial groups in social networks
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Networks; Community; Partition; Graph theory; Familial groups
+ID COMMUNITY STRUCTURE; CLIQUES; THRESHOLD
+AB Many structural definitions for social community have been proposed in attempt to characterize and further understand the structure of social relationships. Algorithms using quantitative concepts such as centrality measures, spectral methods and other clustering measures have been used to compute social communities. While these methods have had much success in extracting meaningful subgroups in social and biological (and other) networks, they do not necessarily reveal the defining structure of social attraction.
+   We propose a new definition here for social community with a very clear and simple graph-theoretic structure which can also be realized as a new clique-relaxation. This structure evolved from Freeman's definition of social community, and this definition is further supported by long-standing sociometric principles such as Granovetter's weak-tie hypothesis or Faust's and others' studies on how global structure can be inferred from a complete understanding of local structures (although our definition goes beyond dyadic and triadic configurations). We provide computational results that show our simply-stated structural definition reveals communities that correspond almost identically to, and sometimes are better than, the widely used centrality-based methods.
+   We name these new communities familial groups, inspired by the network structures resulting from inheritance or blood-line relations. These structures form naturally in hierarchical arrangements such as in corporate settings. Using results from graph theory, our structural definition for familial groups also immediately implies a ranking of the individuals within the group, easily identifying leaders and subcommunities. (c) 2013 Elsevier B.V. All rights reserved.
+C1 [Nastos, James; Gao, Yong] Univ British Columbia Okanagan, Dept Comp Sci, Kelowna, BC V1V 1V7, Canada.
+C3 University of British Columbia; University of British Columbia Okanagan
+RP Nastos, J (corresponding author), Univ British Columbia Okanagan, Dept Comp Sci, Kelowna, BC V1V 1V7, Canada.
+EM jnastos@interchange.ubc.ca; yong.gao@ubc.ca
+OI Nastos, James/0000-0002-0965-2190
+CR ALBA RD, 1973, J MATH SOCIOL, V3, P113, DOI 10.1080/0022250X.1973.9989826
+   Balasundaram B, 2005, J COMB OPTIM, V10, P23, DOI 10.1007/s10878-005-1857-x
+   Balasundaram B, 2011, OPER RES, V59, P133, DOI 10.1287/opre.1100.0851
+   Bansal N, 2004, MACH LEARN, V56, P89, DOI 10.1023/B:MACH.0000033116.57574.95
+   Böcker S, 2011, ALGORITHMICA, V60, P316, DOI 10.1007/s00453-009-9339-7
+   Brandstadt A., 1999, Graph Classes: A Survey
+   Burzyn P, 2006, DISCRETE APPL MATH, V154, P1824, DOI 10.1016/j.dam.2006.03.031
+   Cai LZ, 1996, INFORM PROCESS LETT, V58, P171, DOI 10.1016/0020-0190(96)00050-6
+   Chu FPM, 2008, INFORM PROCESS LETT, V107, P7, DOI 10.1016/j.ipl.2007.12.009
+   Chvatal V., 1977, Annals of Discrete Mathematics, V1, P145
+   Clauset A, 2008, NATURE, V453, P98, DOI 10.1038/nature06830
+   COZZENS MB, 1990, DISCRETE MATH, V86, P101, DOI 10.1016/0012-365X(90)90353-J
+   Davis JA, 1967, SOCIOLOGICAL THEORIE, V2, P218
+   DAWAH HA, 1995, J ANIM ECOL, V64, P708, DOI 10.2307/5850
+   Donnelly S, 1999, DISCRETE MATH, V202, P33, DOI 10.1016/S0012-365X(98)00346-X
+   El-Mallah E. S., 1988, P 18 SE C COMB GRAPH, V61, P275
+   Evans TS, 2010, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2010/12/P12037
+   Falzon L, 2000, SOC NETWORKS, V22, P159, DOI 10.1016/S0378-8733(00)00021-6
+   Faust K, 2008, SOC NETWORKS, V30, P273, DOI 10.1016/j.socnet.2008.04.002
+   Fellows MR, 2011, DISCRETE OPTIM, V8, P2, DOI 10.1016/j.disopt.2010.09.006
+   Fortunato S, 2010, PHYS REP, V486, P75, DOI 10.1016/j.physrep.2009.11.002
+   Freeman LC, 1996, SOC NETWORKS, V18, P173, DOI 10.1016/0378-8733(95)00271-5
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   FREEMAN LC, 1977, SOCIOMETRY, V40, P35, DOI 10.2307/3033543
+   Girvan M, 2002, P NATL ACAD SCI USA, V99, P7821, DOI 10.1073/pnas.122653799
+   Golumbic M. C., 2004, ANN DISCRETE MATH, V57, pxiii
+   GOLUMBIC MC, 1978, DISCRETE MATH, V24, P105, DOI 10.1016/0012-365X(78)90178-4
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Guo J, 2007, LECT NOTES COMPUT SC, V4835, P915
+   Hastings MB, 2006, PHYS REV E, V74, DOI 10.1103/PhysRevE.74.035102
+   Homans G.C., 1950, The Human Group
+   Karrer B, 2008, PHYS REV E, V77, DOI 10.1103/PhysRevE.77.046119
+   Kazienko P, 2007, LECT NOTES ARTIF INT, V4827, P529
+   Knuth DE., 1993, STANFORD GRAPHBASE P
+   Lemmouchi S., 2009, P INT C MAN EM DIG E, P78
+   Liu YL, 2012, THEOR COMPUT SCI, V461, P45, DOI 10.1016/j.tcs.2011.11.040
+   LUCCIO F, 1969, IEEE T CIRCUITS SYST, VCT16, P184, DOI 10.1109/TCT.1969.1082924
+   Luce R. D., 1950, PSYCHOMETRIKA, V15, P169
+   Lusseau D, 2003, P ROY SOC B-BIOL SCI, V270, pS186, DOI 10.1098/rsbl.2003.0057
+   Mancini Federico, 2008, THESIS U BERGEN
+   Mishra N, 2008, INTERNET MATH, V5, P155, DOI 10.1080/15427951.2008.10129299
+   MOKKEN RJ, 1979, QUAL QUANT, V13, P161, DOI 10.1007/BF00139635
+   Nastos J, 2012, DISCRET MATH ALGORIT, V4, DOI 10.1142/S1793830912500085
+   Nastos J, 2010, LECT NOTES COMPUT SC, V6509, P332, DOI 10.1007/978-3-642-17461-2_27
+   Newman M., 2010, NETWORKS, DOI [DOI 10.1093/ACPROF:OSO/9780199206650.001.0001, 10.1093/acprof:oso/9780199206650.001.0001]
+   Newman MEJ, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.026113
+   Palla G, 2005, NATURE, V435, P814, DOI 10.1038/nature03607
+   Radicchi F, 2004, P NATL ACAD SCI USA, V101, P2658, DOI 10.1073/pnas.0400054101
+   Ravasz E, 2003, PHYS REV E, V67, DOI 10.1103/PhysRevE.67.026112
+   REED B, 1987, J COMB THEORY B, V43, P223, DOI 10.1016/0095-8956(87)90022-0
+   Schaeffer SE, 2007, COMPUT SCI REV, V1, P27, DOI 10.1016/j.cosrev.2007.05.001
+   SEIDMAN SB, 1978, J MATH SOCIOL, V6, P139, DOI 10.1080/0022250X.1978.9989883
+   WARD JH, 1963, J AM STAT ASSOC, V58, P236, DOI 10.2307/2282967
+   White Scott., 2005, SDM
+   Wolk E.S., 1962, P. Amer. Math. Soc., V13, P789, DOI DOI 10.1090/S0002-9939-1962-0172273-0
+   Yan JH, 1996, DISCRETE APPL MATH, V69, P247, DOI 10.1016/0166-218X(96)00094-7
+   ZACHARY WW, 1977, J ANTHROPOL RES, V33, P452, DOI 10.1086/jar.33.4.3629752
+NR 57
+TC 22
+Z9 23
+U1 2
+U2 15
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JUL
+PY 2013
+VL 35
+IS 3
+BP 439
+EP 450
+DI 10.1016/j.socnet.2013.05.001
+PG 12
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 195HJ
+UT WOS:000322692600015
+DA 2024-11-22
+ER
+
+PT J
+AU Coburn, CE
+   Mata, WS
+   Choi, L
+AF Coburn, Cynthia E.
+   Mata, Willow S.
+   Choi, Linda
+TI The Embeddedness of Teachers' Social Networks: Evidence from a Study of
+   Mathematics Reform
+SO SOCIOLOGY OF EDUCATION
+LA English
+DT Article
+DE Social networks; embeddedness; teachers; implementation
+ID ORGANIZATIONAL ROUTINES; TRANSACTIVE MEMORY; COLLEGIAL FOCUS;
+   HIGH-SCHOOLS; CLASSROOM; POLICY; ACCOUNTABILITY; PERFORMANCE;
+   RETHINKING; MECHANISMS
+AB Teachers' social networks can play an important role in teacher learning and organizational change. But what influences teachers' networks? Why do some teachers have networks that are likely to support individual and organizational change, while others do not? This study is a first step in answering this question. We focus on how district policy influences the quality and configuration of teachers' social networks. We draw on a longitudinal, qualitative study of implementation of a mathematics curriculum in four schools. We show that district policy (1) shaped the tie formation process, influencing the structure of networks; (2) mobilized resources that teachers subsequently accessed via their networks, influencing the benefits accrued through network exchanges; and (3) introduced interaction routines that interrupted conventional ways that teachers talked together. We thus uncover heretofore unexplored facets of network formation and change. We also provide insight into dimensions of social networks that are amenable to outside intervention.
+C1 [Coburn, Cynthia E.] Northwestern Univ, Sch Educ & Social Policy, Evanston, IL 60208 USA.
+   [Mata, Willow S.] Univ Calif Berkeley, Berkeley, CA 94720 USA.
+   [Choi, Linda] Univ Calif Berkeley, Sch Educ, Berkeley, CA 94720 USA.
+C3 Northwestern University; University of California System; University of
+   California Berkeley; University of California System; University of
+   California Berkeley
+RP Coburn, CE (corresponding author), Northwestern Univ, 315 Annenberg Hall,2120 Campus Dr, Evanston, IL 60208 USA.
+EM cynthia.coburn@northwestern.edu
+CR Adam Gamoran, 2003, TRANSFORMING TEACHIN
+   Adler PaulS., 2002, ACAD MANAGE REV, V27, P17
+   Anagnostopoulos D, 2003, EDUC POLICY, V17, P291, DOI 10.1177/0895904803017003001
+   [Anonymous], ORG SCH IMPROVEMENT
+   [Anonymous], AM J SOCIOLOGY
+   Anselm Strauss., 1990, Basics of Qualitative Research: Grounded Theory Procedures and Techniques
+   Anthony Bryk, 2002, TRUST SCH CORE RESOU
+   Barry W., 1988, SOCIAL STRUCTURES NE
+   Bean R.M., 2004, READING SPECIALIST
+   Bidwell CE, 1999, SOCIOL EDUC, V72, P234, DOI 10.2307/2673155
+   Borgatti SP, 2003, J MANAGE, V29, P991, DOI 10.1016/S0149-2063(03)00087-4
+   Borgatti Stephen P., 2010, SOCIAL NETWORK THEOR, P17
+   Brass Daniel J., OXFORD HDB ORG PSYCH
+   Brian Rowan, 2008, ED RES, V38, P120
+   Burt RS, 2000, SOC NETWORKS, V22, P1, DOI 10.1016/S0378-8733(99)00015-5
+   Carrasco Juan A, 2006, 85 TRANSP RES BOARD
+   Coburn CE, 2004, SOCIOL EDUC, V77, P211, DOI 10.1177/003804070407700302
+   Coburn CE, 2008, EDUC EVAL POLICY AN, V30, P203, DOI 10.3102/0162373708321829
+   Coburn CE, 2006, AM J EDUC, V112, P469, DOI 10.1086/505056
+   Coburn CE, 2012, AM J EDUC, V119, P137, DOI 10.1086/667699
+   Coburn CE, 2012, READ RES QUART, V47, P5, DOI 10.1002/RRQ.008
+   Coburn Cynthia E, 2010, SOCIAL NETWORK THEOR, P33
+   Coburn Cynthia E, 2003, ED RES, V32, P3
+   Daniel Lortie, 1975, SCHOOLTEACHER SOCIOL
+   Desimone Laura M, 2010, ED RES, V38, P181
+   Diamond JB, 2007, SOCIOL EDUC, V80, P285, DOI 10.1177/003804070708000401
+   Elmore Richard F., 1996, RESTRUCTURING CLASSR
+   Elmore Richard F., 1999, TEACHING LEARNING PR, P263
+   Faraj S, 2000, MANAGE SCI, V46, P1554, DOI 10.1287/mnsc.46.12.1554.12072
+   FELD SL, 1981, AM J SOCIOL, V86, P1015, DOI 10.1086/227352
+   Feldman MS, 2003, ADMIN SCI QUART, V48, P94, DOI 10.2307/3556620
+   Frank KA, 2004, SOCIOL EDUC, V77, P148, DOI 10.1177/003804070407700203
+   Gamoran A., 2005, SOCIAL ORG SCH, P111
+   Grossman P, 2001, TEACH COLL REC, V103, P942, DOI 10.1111/0161-4681.00140
+   Hamilton LS, 2008, RES SOCIOL EDUC, V16, P31, DOI 10.1016/S1479-3539(08)16002-5
+   Jennings J, 2010, SOCIOL EDUC, V83, P227, DOI 10.1177/0038040710375688
+   Johnson Susan M., 2005, WHO STAYS TEACHING W
+   Kilduff M, 2010, ACAD MANAG ANN, V4, P317, DOI 10.1080/19416520.2010.494827
+   LIANG DW, 1995, PERS SOC PSYCHOL B, V21, P384, DOI 10.1177/0146167295214009
+   Liping Ma, 2010, KNOWING TEACHING ELE
+   Little JW, 2007, YEARB NATL SOC STUD, V106, P217, DOI 10.1111/j.1744-7984.2007.00103.x
+   LITTLE JW, 1990, TEACH COLL REC, V91, P509
+   Loewenberg Ball Deborah, 1990, ELEMENTARY SCH J, V90, P449
+   Louis KS, 1998, AM J EDUC, V106, P532, DOI 10.1086/444197
+   Mario Small., 2009, Unanticipated Gains
+   MATTHEW M, 1994, QUALITATIVE DATA ANA
+   McLaughlin Milbrey W., 2006, BUILDING SCH BASED P
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Min Sun, 2011, AM ED RES ASS C APR
+   Moreland RL, 2000, ORGAN BEHAV HUM DEC, V82, P117, DOI 10.1006/obhd.2000.2891
+   Nan Lin., 2001, Social Capital: A Theory of Social Structure and Action
+   Newmann FM, 2000, AM J EDUC, V108, P259, DOI 10.1086/444249
+   Nienke Moolenaar, 2010, SOCIAL NETWORK THEOR, P97
+   Penuel William R., 2010, SOCIAL NETWORK THEOR, P159
+   Post Thomas R., 1991, INTEGRATING RES TEAC, P177
+   Powell WW, 2005, AM J SOCIOL, V110, P1132, DOI 10.1086/421508
+   Rallis Sharon F., 2000, PRINCIPALS DYNAMIC S
+   Reagans R, 2003, ADMIN SCI QUART, V48, P240, DOI 10.2307/3556658
+   Rivera MT, 2010, ANNU REV SOCIOL, V36, P91, DOI 10.1146/annurev.soc.34.040507.134743
+   Rob Cross, 2000, SUNB SOC NETW C VANC
+   Rosenholtz Susan J, 1991, TEACHERS WORKPLACE S
+   Small ML, 2006, SOC PROBL, V53, P274, DOI 10.1525/sp.2006.53.2.274
+   Smith AK, 2001, EDUC POLICY, V15, P499, DOI 10.1177/0895904801015004001
+   Spillane JP, 2011, AM EDUC RES J, V48, P586, DOI 10.3102/0002831210385102
+   Spillane James P, 2005, SCH LEADERSHIP MANAG, V25, P383
+   Uzzi B, 2004, AM SOCIOL REV, V69, P319, DOI 10.1177/000312240406900301
+   VANMAANEN J, 1984, RES ORGAN BEHAV, V6, P287
+   Yasumoto JY, 2001, SOCIOL EDUC, V74, P181, DOI 10.2307/2673274
+NR 68
+TC 74
+Z9 119
+U1 1
+U2 53
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0038-0407
+J9 SOCIOL EDUC
+JI Sociol. Educ.
+PD OCT
+PY 2013
+VL 86
+IS 4
+BP 311
+EP 342
+DI 10.1177/0038040713501147
+PG 32
+WC Education & Educational Research; Sociology
+WE Social Science Citation Index (SSCI)
+SC Education & Educational Research; Sociology
+GA 224SW
+UT WOS:000324910700011
+DA 2024-11-22
+ER
+
+PT J
+AU Pallotti, F
+   Lomi, A
+   Mascia, D
+AF Pallotti, Francesca
+   Lomi, Alessandro
+   Mascia, Daniele
+TI From network ties to network structures: Exponential Random Graph Models
+   of interorganizational relations
+SO QUALITY & QUANTITY
+LA English
+DT Article
+DE Interorganizational networks; Interorganizational relations; Exponential
+   Random Graph Models; Hospital organizations
+ID P-ASTERISK MODELS; SOCIAL NETWORKS; ALLIANCE FORMATION; MULTIPLE
+   NETWORKS; FAMILY MODELS; SMALL-WORLD; DYNAMICS; ORGANIZATIONS; EXCHANGE;
+   EMBEDDEDNESS
+AB Theoretical accounts of network ties between organizations emphasize the interdependence of individual intentions, opportunities, and actions embedded in local configurations of network ties. These accounts are at odds with empirical models based on assumptions of independence between network ties. As a result, the relation between models for network ties and the observed network structure of interorganizational fields is problematic. Using original fieldwork and data that we have collected on collaborative network ties within a regional community of hospital organizations we estimate newly developed specifications of Exponential Random Graph Models (ERGM) that help to narrow the gap between theories and empirical models of interorganizational networks. After controlling for the main factors known to affect partner selection decisions, full models in which local dependencies between network ties are appropriately specified outperform restricted models in which such dependencies are left unspecified and only controlled for statistically. We use computational methods to show that networks based on empirical estimates produced by models accounting for local network dependencies reproduce with accuracy salient features of the global network structure that was actually observed. We show that models based on assumptions of independence between network ties do not. The results of the study suggest that mechanisms behind the formation of network ties between organizations are local, but their specification and identification depends on an accurate characterization of network structure. We discuss the implications of this view for current research on interorganizational networks, communities, and fields.
+C1 [Pallotti, Francesca; Lomi, Alessandro] Univ Lugano, Lugano, Switzerland.
+   [Mascia, Daniele] Univ Cattolica Sacro Cuore, Rome, Italy.
+C3 Universita della Svizzera Italiana; Catholic University of the Sacred
+   Heart; IRCCS Policlinico Gemelli
+RP Lomi, A (corresponding author), Univ Lugano, Lugano, Switzerland.
+EM francesca.pallotti@usi.ch; alessandro.lomi@usi.ch; dmascia@rm.unicatt.it
+RI Mascia, Daniele/AAB-9384-2022; Lomi, Alessandro/AFR-0469-2022
+OI MASCIA, Daniele/0000-0002-9255-3520; lomi,
+   alessandro/0000-0002-2858-0022; Pallotti, Francesca/0000-0002-1045-4722
+FU Swiss National Science Foundation (Fonds National Suisse de la Recherche
+   Scientifique) [124537]; Academy of Finland (AKA) [124537] Funding
+   Source: Academy of Finland (AKA)
+FX We gratefully acknowledge the financial support provided by the Swiss
+   National Science Foundation (Fonds National Suisse de la Recherche
+   Scientifique, Research Grant Number 124537). Our gratitude extends to
+   the Public Health Agency of Lazio for making the data available
+CR Ahuja G., 2011, ORG SCI IN PRESS
+   Ahuja G, 2009, STRATEGIC MANAGE J, V30, P941, DOI 10.1002/smj.774
+   [Anonymous], 1983, ORG ENV
+   [Anonymous], 2005, Models and Methods in Social Network Analysis, DOI DOI 10.1017/CBO9780511811395.008
+   [Anonymous], 1993, Algebraic Models for Social Network
+   [Anonymous], 2002, J. Social Struct
+   Baum JAC, 2003, IND CORP CHANGE, V12, P697, DOI 10.1093/icc/12.4.697
+   BAUM JAC, 1994, AM J SOCIOL, V100, P346, DOI 10.1086/230540
+   Baum JAC, 2010, MANAGE SCI, V56, P2094, DOI 10.1287/mnsc.1100.1229
+   Bearman P, 1997, AM J SOCIOL, V102, P1383, DOI 10.1086/231087
+   Beckman CM, 2004, ORGAN SCI, V15, P259, DOI 10.1287/orsc.1040.0065
+   BOORMAN SA, 1976, AM J SOCIOL, V81, P1384, DOI 10.1086/226228
+   Brass DJ, 2004, ACAD MANAGE J, V47, P795, DOI 10.5465/20159624
+   Britton T, 2006, J STAT PHYS, V124, P1377, DOI 10.1007/s10955-006-9168-x
+   Cropper S., 2008, The Oxford handbook of inter-organizational relations, DOI DOI 10.1093/OXFORDHB/9780199282944.003.0023
+   Dahlander L., 2009, INTELLECTUAL TIE FOR
+   Davis G.F., 2003, STRATEG ORG, V8, P43
+   Epstein JM., 2007, GENERATIVE SOCIAL SC
+   FENNELL ML, 1980, ADMIN SCI QUART, V25, P485, DOI 10.2307/2392265
+   GERLACH ML, 1992, ADMIN SCI QUART, V37, P105, DOI 10.2307/2393535
+   Goodreau SM, 2007, SOC NETWORKS, V29, P231, DOI 10.1016/j.socnet.2006.08.001
+   Greve HR, 2005, ORGAN STUD, V26, P1025, DOI 10.1177/0170840605053539
+   Gulati R, 1999, AM J SOCIOL, V104, P1439, DOI 10.1086/210179
+   Hunter DR, 2008, J AM STAT ASSOC, V103, P248, DOI 10.1198/016214507000000446
+   Hunter DR, 2007, SOC NETWORKS, V29, P216, DOI 10.1016/j.socnet.2006.08.005
+   Hunter DR, 2006, J COMPUT GRAPH STAT, V15, P565, DOI 10.1198/106186006X133069
+   Iwashyna TJ, 2009, CHEST, V135, P827, DOI 10.1378/chest.08-1052
+   Iwashyna TJ, 2009, MED CARE, V47, P787, DOI 10.1097/MLR.0b013e318197b1f5
+   Kogut B, 2001, AM SOCIOL REV, V66, P317, DOI 10.2307/3088882
+   LARSON A, 1992, ADMIN SCI QUART, V37, P76, DOI 10.2307/2393534
+   LAUMANN EO, 1982, SOC NETWORKS, V4, P329, DOI 10.1016/0378-8733(82)90017-X
+   Lazega E, 1999, SOC NETWORKS, V21, P67, DOI 10.1016/S0378-8733(99)00002-7
+   Lee BY, 2011, AM J PUBLIC HEALTH, V101, P707, DOI 10.2105/AJPH.2010.202754
+   Lomi A, 2006, ORGAN SCI, V17, P313, DOI 10.1287/orsc.1060.0190
+   Lubbers MJ, 2007, SOC NETWORKS, V29, P489, DOI 10.1016/j.socnet.2007.03.002
+   Lusher D., 2012, EXPONENTIAL IN PRESS
+   Macy MW, 2002, ANNU REV SOCIOL, V28, P143, DOI 10.1146/annurev.soc.28.110601.141117
+   Milo R, 2002, SCIENCE, V298, P824, DOI 10.1126/science.298.5594.824
+   Mitsuhashi H, 2009, ACAD MANAGE J, V52, P975, DOI 10.5465/AMJ.2009.44634482
+   Newman MEJ, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.036122
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   Newman MEJ, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.208701
+   Pachucki MA, 2010, ANNU REV SOCIOL, V36, P205, DOI 10.1146/annurev.soc.012809.102615
+   Pattison P, 2002, SOCIOL METHODOL, V32, P301, DOI 10.1111/1467-9531.00119
+   Piccardi C, 2010, PHYSICA A, V389, P5247, DOI 10.1016/j.physa.2010.06.038
+   Podolny JoelM., 2005, STATUS SIGNALS
+   Powell WW, 2005, AM J SOCIOL, V110, P1132, DOI 10.1086/421508
+   Provan KG, 2007, J MANAGE, V33, P479, DOI 10.1177/0149206307302554
+   PROVAN KG, 1995, ADMIN SCI QUART, V40, P1, DOI 10.2307/2393698
+   Provan KG, 2001, PUBLIC ADMIN REV, V61, P414, DOI 10.1111/0033-3352.00045
+   Rivera MT, 2010, ANNU REV SOCIOL, V36, P91, DOI 10.1146/annurev.soc.34.040507.134743
+   Robins G, 2005, AM J SOCIOL, V110, P894, DOI 10.1086/427322
+   Robins G., 2004, Computational & Mathematical Organization Theory, V10, P69, DOI 10.1023/B:CMOT.0000032580.12184.c0
+   Robins G, 2007, SOC NETWORKS, V29, P192, DOI 10.1016/j.socnet.2006.08.003
+   Robins G, 2009, SOC NETWORKS, V31, P105, DOI 10.1016/j.socnet.2008.10.006
+   Ruef M, 1998, ADMIN SCI QUART, V43, P877, DOI 10.2307/2393619
+   Snijders TAB, 2006, SOCIOL METHODOL, V36, P99, DOI 10.1111/j.1467-9531.2006.00176.x
+   Sohn MW, 2002, HEALTH SERV RES, V37, P457, DOI 10.1111/1475-6773.032
+   Sohn MW, 2001, SOC NETWORKS, V23, P141, DOI 10.1016/S0378-8733(01)00039-9
+   Sorenson O, 2008, ADMIN SCI QUART, V53, P266, DOI 10.2189/asqu.53.2.266
+   Stuart TE, 1998, ADMIN SCI QUART, V43, P668, DOI 10.2307/2393679
+   Stuart TE, 2010, J FINANC ECON, V97, P174, DOI 10.1016/j.jfineco.2010.03.012
+   Stuart TobyE., 2007, MISSING LINKS FORMAT
+   Thompson J.D., 2011, Organizations in action: Social science bases of administrative theory, DOI DOI 10.1007/S13398-014-0173-7.2
+   Trapido D, 2007, SOC FORCES, V86, P165, DOI 10.1353/sof.2007.0110
+   Uzzi B, 1996, AM SOCIOL REV, V61, P674, DOI 10.2307/2096399
+   Uzzi B, 2003, MANAGE SCI, V49, P383, DOI 10.1287/mnsc.49.4.383.14427
+   van de Bunt GG, 2007, ORGAN RES METHODS, V10, P463, DOI 10.1177/1094428107300203
+   Wasserman S, 1996, PSYCHOMETRIKA, V61, P401, DOI 10.1007/BF02294547
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Westphal JD, 1997, ADMIN SCI QUART, V42, P161, DOI 10.2307/2393812
+   WHITE HC, 1975, SOCIETY, V12, P68, DOI 10.1007/BF02699922
+   WHITE HC, 1976, AM J SOCIOL, V81, P730, DOI 10.1086/226141
+NR 73
+TC 20
+Z9 21
+U1 2
+U2 89
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0033-5177
+EI 1573-7845
+J9 QUAL QUANT
+JI Qual. Quant.
+PD APR
+PY 2013
+VL 47
+IS 3
+BP 1665
+EP 1685
+DI 10.1007/s11135-011-9619-6
+PG 21
+WC Social Sciences, Interdisciplinary; Statistics & Probability
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics; Mathematics
+GA 077OI
+UT WOS:000314036600026
+DA 2024-11-22
+ER
+
+PT J
+AU Szalay, KZ
+   Csermely, P
+AF Szalay, Kristof Z.
+   Csermely, Peter
+TI Perturbation Centrality and Turbine: A Novel Centrality Measure Obtained
+   Using a Versatile Network Dynamics Tool
+SO PLOS ONE
+LA English
+DT Article
+ID MAMMALIAN CYTOCHROME P4502B4; CELLULAR NETWORKS; PROTEINS; DATABASE;
+   SYSTEMS; SIMULATIONS; INFORMATION; PROPAGATION; PARADIGM; RESIDUES
+AB Analysis of network dynamics became a focal point to understand and predict changes of complex systems. Here we introduce Turbine, a generic framework enabling fast simulation of any algorithmically definable dynamics on very large networks. Using a perturbation transmission model inspired by communicating vessels, we define a novel centrality measure: perturbation centrality. Hubs and inter-modular nodes proved to be highly efficient in perturbation propagation. High perturbation centrality nodes of the Met-tRNA synthetase protein structure network were identified as amino acids involved in intra-protein communication by earlier studies. Changes in perturbation centralities of yeast interactome nodes upon various stresses well recapitulated the functional changes of stressed yeast cells. The novelty and usefulness of perturbation centrality was validated in several other model, biological and social networks. The Turbine software and the perturbation centrality measure may provide a large variety of novel options to assess signaling, drug action, environmental and social interventions.
+C1 [Szalay, Kristof Z.; Csermely, Peter] Semmelweis Univ, Dept Med Chem, H-1085 Budapest, Hungary.
+C3 Semmelweis University
+RP Csermely, P (corresponding author), Semmelweis Univ, Dept Med Chem, H-1085 Budapest, Hungary.
+EM csermely.peter@med.semmelweis-univ.hu
+RI Csermely, Peter/J-2067-2017
+OI Csermely, Peter/0000-0001-9234-0659; Szalay, Kristof/0000-0001-7876-3516
+FU Hungarian National Science Foundation [OTKA-K83314]; EU
+   [TAMOP-4.2.2/B-10/1-2010-0013]
+FX Funding has been provided by research grants from the Hungarian National
+   Science Foundation (OTKA-K83314) and from the EU
+   (TAMOP-4.2.2/B-10/1-2010-0013). The funders had no role in study design,
+   data collection and analysis, decision to publish, or preparation of the
+   manuscript.
+CR Albert I, 2008, SOURCE CODE BIOL MED, V3, DOI 10.1186/1751-0473-3-16
+   [Anonymous], 2010, PYMOL MOL GRAPHICS S
+   Antal MA, 2009, CURR PROTEIN PEPT SC, V10, P161, DOI 10.2174/138920309787847617
+   Barabási AL, 2004, NAT REV GENET, V5, P101, DOI 10.1038/nrg1272
+   Behar M, 2007, P NATL ACAD SCI USA, V104, P16146, DOI 10.1073/pnas.0703894104
+   Böde C, 2007, FEBS LETT, V581, P2776, DOI 10.1016/j.febslet.2007.05.021
+   Calzone L, 2006, BIOINFORMATICS, V22, P1805, DOI 10.1093/bioinformatics/btl172
+   Chatr-aryamontri A, 2013, NUCLEIC ACIDS RES, V41, pD816, DOI 10.1093/nar/gks1158
+   Chen C.T., 1998, LINEAR SYSTEM THEORY
+   Csardi G., 2006, INT J COMPLEX SYST
+   Csermely P, 2005, TRENDS PHARMACOL SCI, V26, P178, DOI 10.1016/j.tips.2005.02.007
+   Csermely P, 2013, PHARMACOL THERAPEUT, V138, P333, DOI 10.1016/j.pharmthera.2013.01.016
+   Csermely P, 2010, TRENDS BIOCHEM SCI, V35, P539, DOI 10.1016/j.tibs.2010.04.009
+   Csermely Peter., 2006, Weak Links: The Universal Key to the Stability of Networks and Complex Systems
+   Danon L, 2008, PHYS REV E, V77, DOI 10.1103/PhysRevE.77.036103
+   de Almeida RMC, 2001, J NON-CRYST SOLIDS, V287, P201, DOI 10.1016/S0022-3093(01)00628-7
+   Di Paola L, 2013, CHEM REV, V113, P1598, DOI 10.1021/cr3002356
+   Doncheva NT, 2011, TRENDS BIOCHEM SCI, V36, P179, DOI 10.1016/j.tibs.2011.01.002
+   Farkas IJ, 2011, SCI SIGNAL, V4, DOI 10.1126/scisignal.2001950
+   Franks DW, 2008, ADAPT BEHAV, V16, P264, DOI 10.1177/1059712308090536
+   Garg A, 2012, METHODS MOL BIOL, V786, P397, DOI 10.1007/978-1-61779-292-2_22
+   Gasch AP, 2000, MOL BIOL CELL, V11, P4241, DOI 10.1091/mbc.11.12.4241
+   Ghosh A, 2007, P NATL ACAD SCI USA, V104, P15711, DOI 10.1073/pnas.0704459104
+   Gong YC, 2007, ANN NY ACAD SCI, V1115, P267, DOI 10.1196/annals.1407.011
+   Gong YC, 2007, ANN NY ACAD SCI, V1115, P249, DOI 10.1196/annals.1407.010
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Guimerà R, 2005, NATURE, V433, P895, DOI 10.1038/nature03288
+   Holstege FCP, 1998, CELL, V95, P717, DOI 10.1016/S0092-8674(00)81641-4
+   Kitano H, 2007, NAT REV DRUG DISCOV, V6, P202, DOI 10.1038/nrd2195
+   Kovács IA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0012528
+   Lancichinetti A, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.016118
+   Li F, 2010, BIOINFORMATICS, V26, P275, DOI 10.1093/bioinformatics/btp634
+   LINDQUIST S, 1981, NATURE, V293, P311, DOI 10.1038/293311a0
+   Liu T, 2007, P NATL ACAD SCI USA, V104, P4347, DOI 10.1073/pnas.0607132104
+   Martin AJM, 2011, BIOINFORMATICS, V27, P2003, DOI 10.1093/bioinformatics/btr191
+   Maslov S, 2007, P NATL ACAD SCI USA, V104, P13655, DOI 10.1073/pnas.0702905104
+   MAY RM, 1972, NATURE, V238, P413, DOI 10.1038/238413a0
+   Mihalik A, 2011, PLOS COMPUT BIOL, V7, DOI 10.1371/journal.pcbi.1002187
+   Miller JC, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.020901
+   MIZOCK BA, 1995, AM J MED, V98, P75, DOI 10.1016/S0002-9343(99)80083-7
+   Nussinov R, 2011, TRENDS PHARMACOL SCI, V32, P686, DOI 10.1016/j.tips.2011.08.004
+   Page Lawrence., 1998, P 7 INT WORLD WIDE W
+   Palotai R, 2008, IUBMB LIFE, V60, P10, DOI 10.1002/iub.8
+   Piazza F, 2008, PHYS BIOL, V5, DOI 10.1088/1478-3975/5/2/026001
+   R Core Team, 2012, R LANG ENV STAT COMP
+   Reimand J, 2011, NUCLEIC ACIDS RES, V39, pW307, DOI 10.1093/nar/gkr378
+   Rothkegel A, 2012, CHAOS, V22, DOI 10.1063/1.3685527
+   Saadatpour A, 2011, PLOS COMPUT BIOL, V7, DOI 10.1371/journal.pcbi.1002267
+   Scott EE, 2003, P NATL ACAD SCI USA, V100, P13196, DOI 10.1073/pnas.2133986100
+   Scott EE, 2004, J BIOL CHEM, V279, P27294, DOI 10.1074/jbc.M403349200
+   Sethi A, 2009, P NATL ACAD SCI USA, V106, P6620, DOI 10.1073/pnas.0810961106
+   Shmulevich I, 2002, BIOINFORMATICS, V18, P1319, DOI 10.1093/bioinformatics/18.10.1319
+   Stojmirovic A, 2009, BIOINFORMATICS, V25, P2447, DOI 10.1093/bioinformatics/btp398
+   Szklarczyk D, 2011, NUCLEIC ACIDS RES, V39, pD561, DOI 10.1093/nar/gkq973
+   Trpevski D, 2010, PHYS REV E, V81, DOI 10.1103/PhysRevE.81.056102
+   Vishveshwara S, 2009, CURR PROTEIN PEPT SC, V10, P146, DOI 10.2174/138920309787847590
+   Wang RS, 2011, BMC SYST BIOL, V5, DOI 10.1186/1752-0509-5-44
+   Xenarios I, 2002, NUCLEIC ACIDS RES, V30, P303, DOI 10.1093/nar/30.1.303
+   Zhong Q, 2009, MOL SYST BIOL, V5, DOI 10.1038/msb.2009.80
+NR 59
+TC 21
+Z9 24
+U1 0
+U2 17
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD OCT 21
+PY 2013
+VL 8
+IS 10
+AR e78059
+DI 10.1371/journal.pone.0078059
+PG 11
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 239NN
+UT WOS:000326032600066
+PM 24205090
+OA Green Published, gold, Green Submitted
+DA 2024-11-22
+ER

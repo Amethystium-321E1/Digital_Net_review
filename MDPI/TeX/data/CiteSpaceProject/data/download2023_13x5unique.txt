@@ -1,0 +1,1216 @@
+
+PT J
+AU Singh, MS
+   Pasumarthy, R
+   Vaidya, U
+   Leonhardt, S
+AF Singh, Moirangthem Sailash
+   Pasumarthy, Ramkrishna
+   Vaidya, Umesh
+   Leonhardt, Steffen
+TI On quantification and maximization of information transfer in network
+   dynamical systems
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID MEMORY; FLOW
+AB Information flow among nodes in a complex network describes the overall cause-effect relationships among the nodes and provides a better understanding of the contributions of these nodes individually or collectively towards the underlying network dynamics. Variations in network topologies result in varying information flows among nodes. We integrate theories from information science with control network theory into a framework that enables us to quantify and control the information flows among the nodes in a complex network. The framework explicates the relationships between the network topology and the functional patterns, such as the information transfers in biological networks, information rerouting in sensor nodes, and influence patterns in social networks. We show that by designing or re-configuring the network topology, we can optimize the information transfer function between two chosen nodes. As a proof of concept, we apply our proposed methods in the context of brain networks, where we reconfigure neural circuits to optimize excitation levels among the excitatory neurons.
+C1 [Singh, Moirangthem Sailash; Pasumarthy, Ramkrishna] IIT Madras, Elect Dept, Chennai, India.
+   [Vaidya, Umesh] Clemson Univ, Mech Dept, Clemson, SC USA.
+   [Leonhardt, Steffen] Rhein Westfal TH Aachen, Chair Med Informat Technol, Aachen, Germany.
+C3 Indian Institute of Technology System (IIT System); Indian Institute of
+   Technology (IIT) - Madras; Clemson University; RWTH Aachen University
+RP Singh, MS (corresponding author), IIT Madras, Elect Dept, Chennai, India.
+EM sailashm@gmail.com
+RI Leonhardt, Steffen/AAO-9082-2021
+OI Vaidya, Umesh/0000-0002-0483-4921
+CR Albieri G, 2015, CEREB CORTEX, V25, P3025, DOI 10.1093/cercor/bhu098
+   Allahverdyan AE, 2009, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2009/09/P09011
+   Ay N, 2008, ADV COMPLEX SYST, V11, P17, DOI 10.1142/S0219525908001465
+   Barnes SJ, 2015, J NEUROSCI, V35, P9024, DOI 10.1523/JNEUROSCI.4583-14.2015
+   Barnes SJ, 2010, NEUROSCIENTIST, V16, P186, DOI 10.1177/1073858409343961
+   Bomela W, 2020, SCI REP-UK, V10, DOI 10.1038/s41598-020-65401-6
+   Braun U, 2018, NEURON, V97, P14, DOI 10.1016/j.neuron.2017.11.007
+   Brovelli A, 2004, P NATL ACAD SCI USA, V101, P9849, DOI 10.1073/pnas.0308538101
+   Bullmore ET, 2009, NAT REV NEUROSCI, V10, P186, DOI 10.1038/nrn2575
+   Bullmore ET, 2000, NEUROIMAGE, V11, P289, DOI 10.1006/nimg.2000.0544
+   Cafaro C, 2016, PHYS REV E, V93, DOI 10.1103/PhysRevE.93.022114
+   Chamon LFO, 2016, IEEE GLOB CONF SIG, P1265, DOI 10.1109/GlobalSIP.2016.7906044
+   Chellappani V, 2016, COMPUT NETW, V104, P1, DOI 10.1016/j.comnet.2016.04.015
+   Chen CR, 2005, REV FINANC ECON, V14, P1, DOI 10.1016/j.rfe.2004.03.001
+   Chklovskii DB, 2004, NATURE, V431, P782, DOI 10.1038/nature03012
+   ERMENTROUT GB, 1991, J MATH BIOL, V29, P195, DOI 10.1007/BF00160535
+   Estrada E, 2012, PHYS REP, V514, P89, DOI 10.1016/j.physrep.2012.01.006
+   Friston KJ, 2014, NEUROIMAGE, V101, P796, DOI 10.1016/j.neuroimage.2014.06.062
+   Friston KJ, 2003, NEUROIMAGE, V19, P1273, DOI 10.1016/S1053-8119(03)00202-7
+   González MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   JAYNES ET, 1957, PHYS REV, V106, P620, DOI 10.1103/PhysRev.106.620
+   Kim J, 2012, SCI REP-UK, V2, DOI 10.1038/srep00900
+   Kirst C, 2016, NAT COMMUN, V7, DOI 10.1038/ncomms11061
+   Kiwata H, 2022, PHYS REV E, V105, DOI 10.1103/PhysRevE.105.044130
+   Kleinberg JM, 2000, NATURE, V406, P845, DOI 10.1038/35022643
+   Kovacevic M, 2012, 2012 IEEE INFORMATION THEORY WORKSHOP (ITW), P512, DOI 10.1109/ITW.2012.6404727
+   Liang XS, 2005, PHYS REV LETT, V95, DOI 10.1103/PhysRevLett.95.244101
+   Liu YY, 2011, NATURE, V473, P167, DOI 10.1038/nature10011
+   Martin SJ, 2000, ANNU REV NEUROSCI, V23, P649, DOI 10.1146/annurev.neuro.23.1.649
+   Maxwell J.C., 2001, Theory of Heat, DOI DOI 10.1038/nature08902
+   MCINTOSH AR, 1994, J NEUROSCI, V14, P655
+   Nabavi S, 2014, NATURE, V511, P348, DOI 10.1038/nature13294
+   NEMHAUSER GL, 1978, MATH PROGRAM, V14, P265, DOI 10.1007/BF01588971
+   Peruani F, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0028860
+   Schreiber T, 2000, PHYS REV LETT, V85, P461, DOI 10.1103/PhysRevLett.85.461
+   Sinha S, 2020, J NONLINEAR SCI, V30, P1651, DOI 10.1007/s00332-020-09620-1
+   Sinha S, 2019, IEEE T POWER SYST, V34, P3804, DOI 10.1109/TPWRS.2019.2909723
+   Sinha S, 2015, IEEE DECIS CONTR P, P5731, DOI 10.1109/CDC.2015.7403119
+   Smirnov DA, 2013, PHYS REV E, V87, DOI 10.1103/PhysRevE.87.042917
+   Srighakollapu MV, 2021, SYST CONTROL LETT, V158, DOI 10.1016/j.sysconle.2021.105061
+   Sun J, 2014, PHYSICA D, V267, P49, DOI 10.1016/j.physd.2013.07.001
+   Tkacik G, 2008, P NATL ACAD SCI USA, V105, P12265, DOI 10.1073/pnas.0806077105
+   Tyson JJ, 2001, NAT REV MOL CELL BIO, V2, P908, DOI 10.1038/35103078
+   Ursino M, 2020, FRONT COMPUT NEUROSC, V14, DOI 10.3389/fncom.2020.00045
+   VASTANO JA, 1988, PHYS REV LETT, V60, P1773, DOI 10.1103/PhysRevLett.60.1773
+   Wang S, 2018, P NATL ACAD SCI USA, V115, P9300, DOI 10.1073/pnas.1721286115
+   Whitlock JR, 2006, SCIENCE, V313, P1093, DOI 10.1126/science.1128134
+NR 47
+TC 3
+Z9 3
+U1 1
+U2 7
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD APR 5
+PY 2023
+VL 13
+IS 1
+AR 5588
+DI 10.1038/s41598-023-32762-7
+PG 11
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA F7BU0
+UT WOS:000983866100005
+PM 37019948
+OA gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Wang, YW
+   Zhou, Y
+AF Wang, Yawei
+   Zhou, Yuan
+TI Innovation network, knowledge absorption ability, and technology
+   innovation performance--An empirical analysis of China's intelligent
+   manufacturing industry
+SO PLOS ONE
+LA English
+DT Article
+ID CAPACITY; FIRMS
+AB Based on the social network theory, this study utilizes knowledge absorption capacity as the mediating variable and technology turbulence as the moderating variable; furthermore, it focuses on China's intelligent manufacturing industry data to explore the effect of the intelligent manufacturing enterprise innovation network on technology innovation performance and the regulating mechanism of technology turbulence. Based on the patent data obtained from Derwent Database (survey period: 2016-2020), the empirical analysis indicates the following: (1) Network relationship, network location, and network density are significantly and positively correlated with technology innovation performance; however, network size exerts no significant effect on technology innovation performance. (2) Network relationship strength, network location, and network density exert significantly positive effects on the two dimensions of knowledge absorption capacity, namely the In-degree and the Out-degree. Network size exerts no significant effect on knowledge absorption capacity. (3) Knowledge absorption capacity exerts a partial mediating effect on the relationship between innovation network and technology innovation performance. (4) The three dimensions of innovation network that exert a significant effect on technology innovation performance are positively correlated with the interaction terms of technology turbulence, which indicates that the interaction terms, namely innovation network and technology turbulence, exert a positive impact on technology innovation performance through knowledge absorption capacity, and that the moderating effect of technology turbulence exerts a role through knowledge absorption capacity. Finally, this study postulates implementations and policy proposals for enhancing the innovation performance of intelligent manufacturing enterprises.
+C1 [Wang, Yawei] Beijing Wuzi Univ, Sch Informat, Beijing, Peoples R China.
+   [Zhou, Yuan] Tsinghua Univ, Sch Publ Policy & Management, Beijing, Peoples R China.
+C3 Beijing Wuzi University; Tsinghua University
+RP Wang, YW (corresponding author), Beijing Wuzi Univ, Sch Informat, Beijing, Peoples R China.
+EM wangyawei@bwu.edu.cn
+FU Beijing Municipal Social Science Foundation [20GLC053]
+FX This work was supported by the Beijing Municipal Social Science
+   Foundation [grant number 20GLC053], and the fund host is Beijing
+   Philosophy and Municipal Social Science Planning Office. The fund
+   website is: https://www.bjsk.org. cn/.
+CR Bao YC, 2012, J BUS RES, V65, P1226, DOI 10.1016/j.jbusres.2011.06.036
+   Cassiman B, 2006, MANAGE SCI, V52, P68, DOI 10.1287/mnsc.1050.0470
+   Chen LY., 2016, Forum on Science and Technology in China, P88
+   COHEN WM, 1990, ADMIN SCI QUART, V35, P128, DOI 10.2307/2393553
+   Dang XH., 2016, Research on the Impact of Organizational Inertia in Technological Innovation Networks on Dual Innovation. Studies in Science of Science, V34, P1432
+   Day CP, 2018, ENGINEERING-PRC, V4, P440, DOI 10.1016/j.eng.2018.07.012
+   Dhanaraj C, 2006, ACAD MANAGE REV, V31, P659, DOI [10.5465/AMR.2006.21318923, 10.2307/20159234]
+   Droge C, 2008, J PROD INNOVAT MANAG, V25, P272, DOI 10.1111/j.1540-5885.2008.00300.x
+   Feng SC, 2017, J COMPUT INF SCI ENG, V17, DOI 10.1115/1.4037178
+   Ferrary M, 2009, ECON SOC, V38, P326, DOI 10.1080/03085140902786827
+   FREEMAN C, 1991, RES POLICY, V20, P499, DOI 10.1016/0048-7333(91)90072-X
+   Gao GB, 2021, RELIAB ENG SYST SAFE, V216, DOI 10.1016/j.ress.2021.107965
+   Gao Q., 2019, Modern Manufacturing Engineering, V462, P136
+   GARUD R, 1994, STRATEGIC MANAGE J, V15, P365, DOI 10.1002/smj.4250150504
+   Gong YX., 2020, The Impact of Network Density and Knowledge Absorption Capacity on Enterprise Innovation Performance. National Circulation Economy, V2, P82
+   GRANOVETTER M, 1985, AM J SOCIOL, V91, P481, DOI 10.1086/228311
+   JAWORSKI BJ, 1993, J MARKETING, V57, P53, DOI 10.2307/1251854
+   Leite E, 2022, J BUS RES, V139, P325, DOI 10.1016/j.jbusres.2021.09.072
+   Leu C.S., 2022, RES SCI TECHNOLOGY M, V42, P184, DOI DOI 10.3969/J.ISSN.1000-7695.2022.3.023
+   Li CQ, 2022, ENG SCI TECHNOL, V29, DOI 10.1016/j.jestch.2021.06.001
+   Li K, 2023, COMPUT IND ENG, V178, DOI 10.1016/j.cie.2023.109114
+   Li MX., 2020, Technology Progress and Policy, V37, P118
+   Li P., 2015, Technology Economics, V11, P16
+   Li Q., 2020, Journal of Shandong University of Finance and Economics, V32, P79
+   Li W, 2013, J SMALL BUS MANAGE, V51, P1, DOI 10.1111/j.1540-627X.2012.00375.x
+   Li YR., 2021, Prediction, V40, P83
+   Liu LJ., 2019, The Evolution Law of Innovation Network Research and Visual Analysis of Hot Fields. Research and Development Management, V31, P145
+   Lu RY., 2021, Journal of Management World, V1, P217
+   Lv YB., 2020, Scientific Management, V33, P86
+   Ma SY, 2020, J CLEAN PROD, V274, DOI 10.1016/j.jclepro.2020.123155
+   Mannak RS, 2023, SOC NETWORKS, V74, P62, DOI 10.1016/j.socnet.2023.02.004
+   Markard J, 2015, ENVIRON INNOV SOC TR, V16, P76, DOI 10.1016/j.eist.2015.07.006
+   Meng FS., 2018, Technology Progress and Policy, V35, P66
+   Mezgebe TT, 2023, SCI AFR, V19, DOI 10.1016/j.sciaf.2023.e01547
+   Moon H, 2022, J BUS RES, V144, P821, DOI 10.1016/j.jbusres.2022.02.035
+   Nonaka I, 1998, CALIF MANAGE REV, V40, P40, DOI 10.2307/41165942
+   Qi QS, 2023, TECHNOL FORECAST SOC, V190, DOI 10.1016/j.techfore.2023.122401
+   Qu Y, 2018, PROCEDIA COMPUT SCI, V139, P299, DOI 10.1016/j.procs.2018.10.272
+   Rojas MGA, 2018, RES POLICY, V47, P1111, DOI 10.1016/j.respol.2018.03.018
+   Sherlekar R, 2019, PROCEDIA MANUF, V34, P893, DOI 10.1016/j.promfg.2019.06.158
+   Song, 2020, J MANAGEMENT SCI, V33, P63
+   [苏媛 Su Yuan], 2021, [中国管理科学, Chinese Journal of Management Science], V29, P46
+   Sun XM., 2014, Science of Science and Management of S, V35, P142
+   [孙垠 Sun Yin], 2020, [系统管理学报, Journal of Systems & Management], V29, P41
+   Thornhill S, 2006, J BUS VENTURING, V21, P687, DOI 10.1016/j.jbusvent.2005.06.001
+   Tian ZZ., 2020, Soft science, V34, P77
+   Tsai KH, 2009, RES POLICY, V38, P765, DOI 10.1016/j.respol.2008.12.012
+   Tsai WP, 2001, ACAD MANAGE J, V44, P996, DOI 10.5465/3069443
+   Wang AQ., 2020, Statistics Decision, V36, P186
+   Wang B, 2018, ENGINEERING-PRC, V4, P722, DOI 10.1016/j.eng.2018.07.020
+   Wang HH., 2019, Science and Technology Management Research, V39, P26
+   Wang JP., 2020, Science Research Management, V41, P92
+   Wang JP., 2020, The impact mechanism of absorptive capacity on organizational efficiency in knowledge intensive organizations Information Science, V38, P43
+   Wang YW, 2018, SUSTAINABILITY-BASEL, V10, DOI 10.3390/su10114166
+   Weimin Yang, 2019, Advanced Industrial and Engineering Polymer Research, V2, P88, DOI 10.1016/j.aiepr.2019.03.001
+   Wu ZC., 2021, Journal of Beijing Jiaotong University(Social Sciences Edition), V20, P79
+   Xie XM., 2013, Nankai Management Review, V16, P47
+   [熊正德 Xiong Zhengde], 2020, [科学学研究, Studies in Science of Science], V38, P1304
+   [徐二明 XU Erming], 2008, [管理学报, Chinese Journal of Management], V5, P841
+   Xu LY, 2017, TECHNOL ANAL STRATEG, V29, P973, DOI 10.1080/09537325.2016.1260105
+   Xu Q., 2020, Forecasting, V39, P9
+   Xu ZG, 2018, ADV ENG INFORM, V38, P441, DOI 10.1016/j.aei.2018.08.013
+   Xue J., 2015, Technology Progress and Policy, V32, P98
+   [杨靓 Yang Jing], 2021, [科学学研究, Studies in Science of Science], V39, P867
+   Yu YB, 2021, TECHNOL FORECAST SOC, V172, DOI 10.1016/j.techfore.2021.120999
+   Zack MH, 1999, CALIF MANAGE REV, V41, P125, DOI 10.2307/41166000
+   Zahra SA, 2002, ACAD MANAGE REV, V27, P185, DOI 10.2307/4134351
+   Zahra SA, 2012, SMALL BUS ECON, V38, P51, DOI 10.1007/s11187-010-9266-7
+   Zhan K., 2018, RD Management, V30, P47
+   [张红娟 Zhang Hongjuan], 2022, [科学学研究, Studies in Science of Science], V40, P704
+   Zhong RY, 2017, ENGINEERING-PRC, V3, P616, DOI 10.1016/J.ENG.2017.05.015
+   Zhou J, 2018, ENGINEERING-PRC, V4, P11, DOI 10.1016/j.eng.2018.01.002
+   Zhou Y., 2019, Engineering, V5, P11
+NR 73
+TC 1
+Z9 1
+U1 22
+U2 44
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD NOV 10
+PY 2023
+VL 18
+IS 11
+AR e0293429
+DI 10.1371/journal.pone.0293429
+PG 22
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA CH1Z8
+UT WOS:001124284600023
+PM 37948423
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Lorenz-Spreen, P
+   Oswald, L
+   Lewandowsky, S
+   Hertwig, R
+AF Lorenz-Spreen, Philipp
+   Oswald, Lisa
+   Lewandowsky, Stephan
+   Hertwig, Ralph
+TI A systematic review of worldwide causal and correlational evidence on
+   digital media and democracy
+SO NATURE HUMAN BEHAVIOUR
+LA English
+DT Review
+ID SOCIAL NETWORK SITES; REDUCING INTERGROUP PREJUDICE; PARTISAN SELECTIVE
+   EXPOSURE; POLITICAL-PARTICIPATION; ONLINE NEWS; INTERNET USE; FAKE NEWS;
+   ECHO-CHAMBERS; PROTEST PARTICIPATION; CIVIC ENGAGEMENT
+AB One of today's most controversial and consequential issues is whether the global uptake of digital media is causally related to a decline in democracy. We conducted a systematic review of causal and correlational evidence (N = 496 articles) on the link between digital media use and different political variables. Some associations, such as increasing political participation and information consumption, are likely to be beneficial for democracy and were often observed in autocracies and emerging democracies. Other associations, such as declining political trust, increasing populism and growing polarization, are likely to be detrimental to democracy and were more pronounced in established democracies. While the impact of digital media on political systems depends on the specific variable and system in question, several variables show clear directions of associations. The evidence calls for research efforts and vigilance by governments and civil societies to better understand, design and regulate the interplay of digital media and democracy.
+   This systematic review on digital media and democracy finds beneficial relationships mostly in emerging democracies but detrimental associations in established democracies for different political variables across methods.
+C1 [Lorenz-Spreen, Philipp; Hertwig, Ralph] Max Planck Inst Human Dev, Ctr Adapt Rational, Berlin, Germany.
+   [Oswald, Lisa] Hertie Sch, Berlin, Germany.
+   [Lewandowsky, Stephan] Univ Bristol, Sch Psychol Sci, Bristol, Avon, England.
+   [Lewandowsky, Stephan] Univ Bristol, Cabot Inst, Bristol, Avon, England.
+   [Lewandowsky, Stephan] Univ Western Australia, Sch Psychol Sci, Perth, WA, Australia.
+C3 Max Planck Society; Hertie School; University of Bristol; University of
+   Bristol; University of Western Australia
+RP Lorenz-Spreen, P (corresponding author), Max Planck Inst Human Dev, Ctr Adapt Rational, Berlin, Germany.
+EM lorenz-spreen@mpib-berlin.mpg.de
+RI Hertwig, Ralph/B-3468-2015; Lewandowsky, Stephan/L-4272-2019;
+   Lewandowsky, Stephan/H-5285-2014
+OI Lorenz-Spreen, Philipp/0000-0001-6319-4154; Lewandowsky,
+   Stephan/0000-0003-1655-2013; Oswald, Lisa/0000-0002-8418-282X; Hertwig,
+   Ralph/0000-0002-9908-9556
+FU Volkswagen Foundation; Humboldt Foundation; ERC Advanced Grant
+   (PRODEMINFO); German National Academic Foundation
+FX We thank S. Munzert for providing his perspective on causal inference
+   and issues specific to political science, D. Ain for editing the
+   manuscript and F. Stock for help in the literature comparison. P.L.-S.,
+   S.L. and R.H. acknowledge financial support from the Volkswagen
+   Foundation (grant 'Reclaiming individual autonomy and democratic
+   discourse online: How to rebalance human and algorithmic
+   decision-making'). S.L. acknowledges support from the Humboldt
+   Foundation through a research award and partial support by an ERC
+   Advanced Grant (PRODEMINFO) during completion of this paper. L.O.
+   acknowledges financial support by the German National Academic
+   Foundation in the form of a PhD scholarship. The authors received no
+   specific funding for this work. The funders had no role in study design,
+   data collection and analysis, decision to publish or preparation of the
+   manuscript.
+CR Ackland R, 2019, ASIAN J COMMUN, V29, P235, DOI 10.1080/01292986.2018.1462393
+   Adam S, 2019, NEW MEDIA SOC, V21, P2671, DOI 10.1177/1461444819855966
+   Adegbola O, 2019, INT J COMMUN-US, V13, P1231
+   Adena M, 2015, Q J ECON, V130, P1885, DOI 10.1093/qje/qjv030
+   Adena Maja., 2021, Bombs, broadcasts and resistance: Allied intervention and domestic opposition to the nazi regime during world war ii, DOI DOI 10.2139/SSRN.3661643
+   Ahmed M, 2021, MEDIA EDUC-RUSS, P4, DOI 10.13187/me.2021.1.4
+   Alam A, 2019, J KOMUN, V35, P125, DOI 10.17576/JKMJC-2019-3503-08
+   Allcott H, 2020, AM ECON REV, V110, P629, DOI 10.1257/aer.20190658
+   Allcott H, 2017, J ECON PERSPECT, V31, P211, DOI 10.1257/jep.31.2.211
+   Allington D, 2021, VACCINE, V39, P2595, DOI 10.1016/j.vaccine.2021.02.054
+   Alshareef M, 2021, INT J GEN MED, V14, P5127, DOI 10.2147/IJGM.S326767
+   Amit S, 2020, CONFL STUD Q, P3, DOI 10.24193/csq.31.1
+   Castaño-Pulgarín SA, 2021, AGGRESS VIOLENT BEH, V58, DOI 10.1016/j.avb.2021.101608
+   Angrist JD, 2009, MOSTLY HARMLESS ECONOMETRICS: AN EMPIRICISTS COMPANION, P1
+   Angrist JD, 2010, J ECON PERSPECT, V24, P3, DOI 10.1257/jep.24.2.3
+   Angyal EÉ, 2020, INTERSECTIONS-E EUR, V6, P81, DOI 10.17356/ieejsp.v6i2.649
+   [Anonymous], 2021, NAT HUM BEHAV, V5, P539, DOI 10.1038/s41562-021-01131-7
+   [Anonymous], 2022, SVERIGES RIKSBANK PR
+   Apuke OD, 2021, HEALTH INFORM J, V27, DOI 10.1177/14604582211021470
+   Ardi R, 2019, MAKARA HUBS-ASIA, V23, P6, DOI 10.7454/hubs.asia.1160219
+   Arlt D., STUDIES COMMUNICATIO, P231, DOI DOI 10.24434/J.SCOMS.2018.02.003
+   Arlt D, 2018, COMMUNICATIONS-GER, V43, P75, DOI 10.1515/commun-2017-0045
+   Arshad S, 2020, GOV INFORM Q, V37, DOI 10.1016/j.giq.2020.101486
+   Asimovic N, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2022819118
+   Asker D, 2019, PUBLIC OPIN QUART, V83, P487, DOI 10.1093/poq/nfz042
+   Bachtiger A, 2018, OXFORD HDB DELIBERAT, DOI [10.1093/oxfordhb/9780198747369.001.0001, DOI 10.1093/OXFORDHB/9780198747369.001.0001]
+   Bail CA, 2020, P NATL ACAD SCI USA, V117, P243, DOI 10.1073/pnas.1906420116
+   Bail CA, 2018, P NATL ACAD SCI USA, V115, P9216, DOI 10.1073/pnas.1804840115
+   Bail CA, 2018, SCI ADV, V4, DOI 10.1126/sciadv.aao5948
+   Bak-Coleman JB, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2025764118
+   Balcells J, 2020, INT J PRESS/POLIT, V25, P28, DOI 10.1177/1940161219858687
+   Baldassarri D, 2008, AM J SOCIOL, V114, P408, DOI 10.1086/590649
+   Bale T, 2019, POLIT STUD-LONDON, V67, P658, DOI 10.1177/0032321718794740
+   Banks A, 2021, INT J PRESS/POLIT, V26, P609, DOI 10.1177/1940161220940964
+   Barnidge M, 2019, TELEMAT INFORM, V44, DOI 10.1016/j.tele.2019.101263
+   Barnidge M, 2018, INT J PRESS/POLIT, V23, P161, DOI 10.1177/1940161218773838
+   Barnidge M, 2015, MASS COMMUN SOC, V18, P259, DOI 10.1080/15205436.2014.923463
+   Barnidge M, 2014, INT J COMMUN-US, V8, P1831
+   Ibáñez DB, 2015, INT J E-POLIT, V6, P15, DOI 10.4018/IJEP.2015100102
+   Basch CE, 2021, JMIR PUBLIC HLTH SUR, V7, DOI 10.2196/28352
+   Batool SH, 2022, INF DISCOV DELIV, V50, P64, DOI 10.1108/IDD-03-2020-0031
+   Beam MA, 2018, AM BEHAV SCI, V62, P1079, DOI 10.1177/0002764218764253
+   Beam MA, 2018, INFORM COMMUN SOC, V21, P940, DOI 10.1080/1369118X.2018.1444783
+   Beam MA, 2016, COMPUT HUM BEHAV, V59, P215, DOI 10.1016/j.chb.2016.02.013
+   Beaudoin CE, 2008, NEW MEDIA SOC, V10, P455, DOI 10.1177/1461444807085327
+   Bekmagambetov A, 2018, CENT ASIAN SURV, V37, P526, DOI 10.1080/02634937.2018.1479374
+   Bermes A, 2021, J RETAIL CONSUM SERV, V61, DOI 10.1016/j.jretconser.2021.102555
+   Biancovilli P, 2021, BMC PUBLIC HEALTH, V21, DOI 10.1186/s12889-021-11165-1
+   Bimber B, 2001, POLIT RES QUART, V54, P53, DOI 10.1177/106591290105400103
+   Blank G, 2018, NEW MEDIA SOC, V20, P618, DOI 10.1177/1461444816667135
+   Bliuc AM, 2020, PLOS ONE, V15, DOI 10.1371/journal.pone.0230302
+   Bode L, 2018, J INF TECHNOL POLITI, V15, P215, DOI 10.1080/19331681.2018.1485607
+   Bode L, 2014, J COMPUT-MEDIAT COMM, V19, P414, DOI 10.1111/jcc4.12048
+   Bodrunova SS, 2018, COMM COM INF SC, V850, P393, DOI 10.1007/978-3-319-92270-6_56
+   Bond RM, 2012, NATURE, V489, P295, DOI 10.1038/nature11421
+   Bosi L, 2022, POLITICS-OXFORD, V42, P95, DOI 10.1177/02633957211014453
+   Bosilkov I, 2019, CENT EUR J COMMUN, V12, P206, DOI 10.19195/1899-5101.12.2(23).6
+   Boukes M, 2019, J INF TECHNOL POLITI, V16, P36, DOI 10.1080/19331681.2019.1572568
+   Boulianne S, 2020, NEW MEDIA SOC, V22, P683, DOI 10.1177/1461444819893983
+   Boulianne S, 2020, COMMUN RES, V47, P947, DOI 10.1177/0093650218808186
+   Boulianne S, 2015, INFORM COMMUN SOC, V18, P524, DOI 10.1080/1369118X.2015.1008542
+   Bovet A, 2019, NAT COMMUN, V10, DOI 10.1038/s41467-018-07761-2
+   Bowman WM, 2016, J MOD AFR STUD, V54, P495, DOI 10.1017/S0022278X16000380
+   Boxell L, 2017, P NATL ACAD SCI USA, V114, P10612, DOI 10.1073/pnas.1706588114
+   Brandtzaeg PB, 2017, SOC SCI COMPUT REV, V35, P103, DOI 10.1177/0894439315605806
+   Brugnoli E, 2019, SCI REP-UK, V9, DOI 10.1038/s41598-019-56191-7
+   Bryson BP, 2020, INT J SOCIOL SOC POL, V40, P99, DOI 10.1108/IJSSP-09-2019-0181
+   Bucy EP, 2018, NEW MEDIA SOC, V20, P1889, DOI 10.1177/1461444817709281
+   Bursztyn Leonardo., 2019, SOCIAL MEDIA XENOPHO
+   Cacciatore MA, 2018, J MASS COMMUN Q, V95, P404, DOI 10.1177/1077699018770447
+   Cano-Orón L, 2021, PROF INFORM, V30, DOI 10.3145/epi.2021.jul.12
+   Cardenal AS, 2019, INT J PUBLIC OPIN R, V31, P589, DOI 10.1093/ijpor/edy025
+   Cardenal AS, 2019, EUR J COMMUN, V34, P360, DOI 10.1177/0267323119844409
+   Carrella F., 2020, BRNO STUD ENGL, V46, P5, DOI DOI 10.5817/BSE2020-2-1
+   Carrieri V, 2019, HEALTH ECON, V28, P1377, DOI 10.1002/hec.3937
+   Casara BGS, 2019, J EXP PSYCHOL-APPL, V25, P354, DOI 10.1037/xap0000211
+   Casas A, 2019, POLIT RES QUART, V72, P360, DOI 10.1177/1065912918786805
+   Casero-Ripollés A, 2020, MEDIA COMMUN-LISBON, V8, P96, DOI 10.17645/mac.v8i4.3145
+   Casero-Ripollés A, 2020, REV ICONO 14, V18, P33, DOI 10.7195/ri14.v18i1.1527
+   Celik S, 2019, INFORM TECHNOL PEOPL, V32, P1446, DOI 10.1108/ITP-01-2018-0009
+   Chadwick A, 2021, SOC MEDIA SOC, V7, DOI 10.1177/20563051211008817
+   Chae Y, 2019, ASIAN J COMMUN, V29, P35, DOI 10.1080/01292986.2018.1499121
+   Chan MPS, 2018, SOC SCI MED, V212, P50, DOI 10.1016/j.socscimed.2018.07.007
+   Chan M, 2021, SOC MEDIA SOC, V7, DOI 10.1177/20563051211035697
+   Chan M, 2019, INT J PRESS/POLIT, V24, P127, DOI 10.1177/1940161218814480
+   Chan M, 2017, J MASS COMMUN Q, V94, P663, DOI 10.1177/1077699016638837
+   Chan NTK, 2021, POLIT RES QUART, V74, P882, DOI 10.1177/1065912920945391
+   Chang K, 2021, INT J PRESS/POLIT, V26, P547, DOI 10.1177/1940161220940962
+   Chayinska M, 2021, COMPUT HUM BEHAV, V121, DOI 10.1016/j.chb.2021.106810
+   Chekol MA, 2023, INFORM COMMUN SOC, V26, P218, DOI 10.1080/1369118X.2021.1942955
+   Chen C, 2019, NEW MEDIA SOC, V21, P1667, DOI 10.1177/1461444819828718
+   Chen HT, 2021, J MASS COMMUN Q, V98, P526, DOI 10.1177/1077699019866432
+   Chen HT, 2018, NEW MEDIA SOC, V20, P3917, DOI 10.1177/1461444818763384
+   Cho J, 2018, COMMUN RES, V45, P83, DOI 10.1177/0093650216644020
+   Choi DH, 2017, COMPUT HUM BEHAV, V72, P422, DOI 10.1016/j.chb.2017.03.004
+   Choi DH, 2017, INFORM COMMUN SOC, V20, P151, DOI 10.1080/1369118X.2016.1154586
+   Choi J, 2021, SOC SCI J, DOI 10.1080/03623319.2021.1949548
+   Choi J, 2021, INT J COMMUN-US, V15, P1595
+   Choli M, 2021, COMPUT HUM BEHAV, V124, DOI 10.1016/j.chb.2021.106895
+   Cinelli M, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2023301118
+   Cinelli M, 2020, PLOS ONE, V15, DOI 10.1371/journal.pone.0234689
+   Cinelli M, 2020, PLOS ONE, V15, DOI 10.1371/journal.pone.0229129
+   Coppedge M, 2020, VARIETIES OF DEMOCRACY: MEASURING TWO CENTURIES OF POLITICAL CHANGE, P1, DOI 10.1017/9781108347860
+   Corbu N, 2020, EUR J COMMUN, V35, P165, DOI 10.1177/0267323120903686
+   Costello M, 2020, YOUTH SOC, V52, P710, DOI 10.1177/0044118X18768115
+   Costello M, 2018, VIOLENCE GEND, V5, P55, DOI 10.1089/vio.2017.0048
+   Cota W, 2019, EPJ DATA SCI, V8, DOI 10.1140/epjds/s13688-019-0213-9
+   Criss S, 2021, INT J ENV RES PUB HE, V18, DOI 10.3390/ijerph18115693
+   Dahlgren PM, 2019, EUR J COMMUN, V34, P159, DOI 10.1177/0267323119830056
+   David CC, 2019, PLOS ONE, V14, DOI 10.1371/journal.pone.0212263
+   Davis NT, 2016, PUBLIC OPIN QUART, V80, P272, DOI 10.1093/poq/nfw002
+   De Coninck D, 2021, FRONT PSYCHOL, V12, DOI 10.3389/fpsyg.2021.646394
+   de Zúñiga HG, 2021, COMPUT HUM BEHAV, V121, DOI 10.1016/j.chb.2021.106803
+   de Zúñiga HG, 2011, COMMUN RES, V38, P397, DOI 10.1177/0093650210384984
+   Di C, 2019, INFORM DEV, V35, P688, DOI 10.1177/0266666918782361
+   Dias T, 2021, LAT AM POLIT SOC, V63, P69, DOI 10.1017/lap.2021.22
+   Diehl T, 2021, INT J PUBLIC OPIN R, V33, P197, DOI 10.1093/ijpor/edz040
+   Dilliplane S, 2011, PUBLIC OPIN QUART, V75, P287, DOI 10.1093/poq/nfr006
+   Dodsworth S., 2020, Political trust: The glue that keeps democracies together
+   Dohle M, 2017, MASS COMMUN SOC, V20, P595, DOI 10.1080/15205436.2017.1303072
+   Doroshenko L, 2018, INT J COMMUN-US, V12, P3186
+   Dozier DM, 2016, PUBLIC RELAT REV, V42, P82, DOI 10.1016/j.pubrev.2015.11.006
+   Dvir-Gvirsman S, 2016, NEW MEDIA SOC, V18, P857, DOI 10.1177/1461444814549041
+   Eady G, 2019, SAGE OPEN, V9, DOI 10.1177/2158244019832705
+   Eddington SM, 2018, SOC MEDIA SOC, V4, DOI 10.1177/2056305118790763
+   Edgerly S, 2018, AM BEHAV SCI, V62, P1042, DOI 10.1177/0002764218764236
+   Ejaz W, 2021, HEALTH RISK SOC, V23, P162, DOI 10.1080/13698575.2021.1929865
+   Elliott T, 2018, NEW MEDIA SOC, V20, P698, DOI 10.1177/1461444816669159
+   Elvestad E, 2018, DIGIT JOURNAL, V6, P216, DOI 10.1080/21670811.2017.1332484
+   Emamjomehzadeh SJ, 2018, TEOR PRAKSA, V55, P666
+   Enders AM, 2023, POLIT BEHAV, V45, P781, DOI 10.1007/s11109-021-09734-6
+   Engesser S, 2017, INFORM COMMUN SOC, V20, P1109, DOI 10.1080/1369118X.2016.1207697
+   Enikolopov R, 2020, ECONOMETRICA, V88, P1479, DOI 10.3982/ECTA14281
+   Erdem R, 2021, REV CERCET INTERV SO, V72, P187, DOI 10.33788/rcis.72.13
+   Feezell JT, 2021, INFORM COMMUN SOC, V24, P1283, DOI 10.1080/1369118X.2019.1697340
+   Feezell JT, 2018, POLIT RES QUART, V71, P482, DOI 10.1177/1065912917744895
+   Feld SL, 2020, NETW SCI, V8, P399, DOI 10.1017/nws.2020.5
+   Fletcher R, 2020, INT J PRESS/POLIT, V25, P169, DOI 10.1177/1940161219892768
+   Fletcher R, 2018, NEW MEDIA SOC, V20, P2450, DOI 10.1177/1461444817724170
+   Fletcher R, 2018, DIGIT JOURNAL, V6, P976, DOI 10.1080/21670811.2018.1502045
+   Florio K., 2019, P 2019 8 INT C AFF C 2019 8 INT C AFFECTI, P1
+   Foos F, 2021, POLIT SCI RES METH, V9, P500, DOI 10.1017/psrm.2020.13
+   Forati AM, 2021, APPL GEOGR, V133, DOI 10.1016/j.apgeog.2021.102473
+   Freudenthaler R, 2022, INT J PRESS/POLIT, V27, P417, DOI 10.1177/19401612211015077
+   Frimpong ANK, 2022, POLIT BEHAV, V44, P599, DOI 10.1007/s11109-020-09632-3
+   Gagliarducci S, 2020, AM ECON J-APPL ECON, V12, P1, DOI 10.1257/app.20190410
+   Gainous J, 2021, INT J PRESS/POLIT, V26, P464, DOI 10.1177/1940161220963606
+   Gallego J, 2019, ELECT STUD, V62, DOI 10.1016/j.electstud.2019.102072
+   Garimella V., 2021, AAAI ICWSM, P152, DOI 10.1609/icwsm.v15i1.18049
+   Garrett RK, 2021, SCI ADV, V7, DOI 10.1126/sciadv.abf1234
+   Garrett RK, 2019, PLOS ONE, V14, DOI 10.1371/journal.pone.0213500
+   Garrett RK, 2014, HUM COMMUN RES, V40, P309, DOI 10.1111/hcre.12028
+   Garrett RK, 2009, J COMMUN, V59, P676, DOI 10.1111/j.1460-2466.2009.01452.x
+   Gavazza A, 2019, REV ECON STUD, V86, P2092, DOI 10.1093/restud/rdy028
+   Geraci A, 2022, J PUBLIC ECON, V206, DOI 10.1016/j.jpubeco.2021.104578
+   Germani F, 2021, PLOS ONE, V16, DOI 10.1371/journal.pone.0247642
+   Germann M, 2019, POLIT COMMUN, V36, P149, DOI 10.1080/10584609.2018.1526237
+   Gerosa T, 2021, INT J COMMUN-US, V15, P2196
+   Gherghina S, 2021, SOC SCI QUART, V102, P1311, DOI 10.1111/ssqu.12979
+   de Zúñiga HG, 2018, INFORM SOC, V34, P302, DOI 10.1080/01972243.2018.1497743
+   Göbel S, 2018, SOC SCI COMPUT REV, V36, P157, DOI 10.1177/0894439317703579
+   Gondal MT, 2019, CLIN SOC WORK HEALTH, V10, P27, DOI 10.22359/cswhi_10_3_04
+   Gorodnichenko Y, 2021, EUR ECON REV, V136, DOI 10.1016/j.euroecorev.2021.103772
+   Gorski LC, 2022, COMMUN RES, V49, P942, DOI 10.1177/00936502211025907
+   Gottfried JA, 2017, POLIT COMMUN, V34, P172, DOI 10.1080/10584609.2016.1154120
+   Goyanes M, 2021, COMPUT HUM BEHAV, V120, DOI 10.1016/j.chb.2021.106759
+   Goyanes M, 2020, JOURNAL PRACT, V14, P714, DOI 10.1080/17512786.2019.1631710
+   Granberg-Rademacker JS, 2021, CONGR PRESIDENCY, V48, P78, DOI 10.1080/07343469.2020.1728425
+   Grover P, 2019, TECHNOL FORECAST SOC, V145, P438, DOI 10.1016/j.techfore.2018.09.009
+   Guenther L, 2020, SOC MEDIA SOC, V6, DOI 10.1177/2056305119898777
+   Guerrero-Solé F, 2018, SOC MEDIA SOC, V4, DOI 10.1177/2056305118808776
+   Guerrero-Solé F, 2019, SOC SCI COMPUT REV, V37, P3, DOI 10.1177/0894439317744163
+   Guess AM, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2013464118
+   Guess AM, 2021, AM J POLIT SCI, V65, P1007, DOI 10.1111/ajps.12589
+   Guess AM, 2020, NAT HUM BEHAV, V4, P472, DOI 10.1038/s41562-020-0833-x
+   Guntuku SC, 2021, VACCINE, V39, P4034, DOI 10.1016/j.vaccine.2021.06.014
+   Gusenbauer M, 2020, RES SYNTH METHODS, V11, P181, DOI 10.1002/jrsm.1378
+   Habermas Jurgen, 2021, Ein neuer Struktur- wandel der Offentlichkeit?, V49, P470, DOI 10.5771/9783748912187
+   Habermas Jurgen., 1974, NEW GERMAN CRITIQUE, V3, P49, DOI [https://doi.org/10.2307/487737, DOI 10.2307/487737]
+   Haenschen K, 2019, POLIT COMMUN, V36, P357, DOI 10.1080/10584609.2018.1548530
+   Hajj N, 2019, MEDITERR POLIT, V24, P62, DOI 10.1080/13629395.2017.1380116
+   Halpern D, 2019, LECT NOTES COMPUT SC, V11578, P217, DOI 10.1007/978-3-030-21902-4_16
+   Hasangani S, 2022, J ASIAN AFR STUD, V57, P247, DOI 10.1177/00219096211008466
+   Hashemi M, 2022, J INF COMMUN ETHICS, V20, P1, DOI 10.1108/JICES-04-2021-0039
+   Hassan G., 2018, INT J DEV SCI, V12, P71, DOI DOI 10.3233/DEV-170233
+   Hawdon J, 2020, IN SY AP IN WE HC, V12194, P243, DOI 10.1007/978-3-030-49570-1_17
+   Hawkins I, 2023, NEW MEDIA SOC, V25, P3308, DOI 10.1177/14614448211040520
+   Heatherly KA, 2017, NEW MEDIA SOC, V19, P1271, DOI 10.1177/1461444816634677
+   Hedayatifar L, 2019, J R SOC INTERFACE, V16, DOI 10.1098/rsif.2019.0509
+   Heinsohn T, 2019, J INF TECHNOL POLITI, V16, P250, DOI 10.1080/19331681.2019.1644265
+   Heiss R, 2019, POLIT COMMUN, DOI 10.1080/10584609.2019.1661890
+   Vettehen PH, 2020, COMMUN RES, V47, P967, DOI 10.1177/0093650217701033
+   Hermann E, 2020, INTERNET RES, V30, P1123, DOI 10.1108/INTR-10-2019-0423
+   Hernandez RG, 2021, HUM VACC IMMUNOTHER, V17, P2962, DOI 10.1080/21645515.2021.1912551
+   Herrera-Peco I, 2021, VACCINES-BASEL, V9, DOI 10.3390/vaccines9060656
+   Herrero-Jiménez B, 2018, COMMUN SOC-SPAIN, V31, P141, DOI 10.15581/003.31.3.141-157
+   Hjorth F, 2019, J COMMUN, V69, P168, DOI 10.1093/joc/jqz006
+   Hoffmann CP, 2021, POLICY INTERNET, V13, P6, DOI 10.1002/poi3.225
+   Hokka J, 2020, NEW MEDIA SOC, V22, P770, DOI 10.1177/1461444819868686
+   Hollewell GF, 2022, INT J OFFENDER THER, V66, P896, DOI 10.1177/0306624X211028771
+   Hong S, 2019, POLICY INTERNET, V11, P305, DOI 10.1002/poi3.201
+   Hong S, 2016, GOV INFORM Q, V33, P777, DOI 10.1016/j.giq.2016.04.007
+   Housholder E, 2018, J BROADCAST ELECTRON, V62, P337, DOI 10.1080/08838151.2018.1451854
+   Howard JW, 2019, ANNU REV POLIT SCI, V22, P93, DOI 10.1146/annurev-polisci-051517-012343
+   Howard P. N., 2013, Democracy's Fourth Wave?: Digital Media and the Arab Spring
+   Huber B, 2019, PUBLIC UNDERST SCI, V28, P759, DOI 10.1177/0963662519869097
+   Ida Rachmah, 2020, International Journal of Web Based Communities, V16, P378, DOI 10.1504/IJWBC.2020.111361
+   Imai K, 2010, PSYCHOL METHODS, V15, P309, DOI 10.1037/a0020761
+   Imran MS, 2017, INT CONF INF COMMUN, P82, DOI 10.1109/ICICT.2017.8320169
+   Inguanzo I, 2021, INFORM COMMUN SOC, V24, P2133, DOI 10.1080/1369118X.2021.1962940
+   Iyengar S, 2019, ANNU REV POLIT SCI, V22, P129, DOI 10.1146/annurev-polisci-051117-073034
+   Jackson S.J., 2020, HASHTAGACTIVISM NETW
+   Jamal A, 2019, GOV INFORM Q, V36, P510, DOI 10.1016/j.giq.2019.04.001
+   Jennings W, 2021, VACCINES-BASEL, V9, DOI 10.3390/vaccines9060593
+   Jeroense T, 2022, EUR POLIT SCI, V21, P193, DOI 10.1057/s41304-020-00306-6
+   Jiang S., 2019, Proceedings of the International AAAI Conference on Web and Social Media, V13, P278
+   Johannesson MP, 2021, DIGIT JOURNAL, V9, P1141, DOI 10.1080/21670811.2020.1805780
+   Johnson TJ, 2017, ATL J COMMUN, V25, P181, DOI 10.1080/15456870.2017.1324454
+   Jones MO, 2019, INT J COMMUN-US, V13, P1389
+   Jungherr A, 2016, J INF TECHNOL POLITI, V13, P72, DOI 10.1080/19331681.2015.1132401
+   Justwan F, 2018, J ELECT PUBLIC OPIN, V28, P424, DOI 10.1080/17457289.2018.1434784
+   Kaakinen M, 2018, COMPUT HUM BEHAV, V78, P90, DOI 10.1016/j.chb.2017.09.022
+   Kahne J, 2018, POLIT COMMUN, V35, P470, DOI 10.1080/10584609.2018.1426662
+   Kane B, 2018, IEEE INT CONF BIG DA, P3665, DOI 10.1109/BigData.2018.8622535
+   Karakaya S, 2019, J INF TECHNOL POLITI, V16, P290, DOI 10.1080/19331681.2019.1645784
+   Karlsen R, 2020, J BROADCAST ELECTRON, V64, P794, DOI 10.1080/08838151.2020.1835428
+   Kibet A, 2018, AFR JOURNAL STUD, V39, P42, DOI 10.1080/23743670.2018.1537979
+   Kim B, 2022, INTERNET RES, V32, P362, DOI 10.1108/INTR-11-2020-0678
+   Kim B, 2023, SOC SCI J, V60, P862, DOI 10.1080/03623319.2020.1782641
+   Kim C, 2021, SOC SCI QUART, V102, P2942, DOI 10.1111/ssqu.13055
+   Kim DH, 2021, DIGIT JOURNAL, V9, P1123, DOI 10.1080/21670811.2020.1827966
+   Kim DH, 2017, J BROADCAST ELECTRON, V61, P682, DOI 10.1080/08838151.2017.1375498
+   Kim HHS, 2019, INT J COMP SOCIOL, V60, P409, DOI 10.1177/0020715219894724
+   Kim H, 2020, INT J COMMUN-US, V14, P4803
+   Kim H, 2021, J INF TECHNOL POLITI, V18, P455, DOI 10.1080/19331681.2021.1900979
+   Kim H, 2020, SOC INDIC RES, V150, P121, DOI 10.1007/s11205-020-02298-8
+   Kim M, 2018, TELEMAT INFORM, V35, P1373, DOI 10.1016/j.tele.2018.03.007
+   Kim Y, 2016, J BROADCAST ELECTRON, V60, P694, DOI 10.1080/08838151.2016.1203318
+   Kim Y, 2015, INT J COMMUN-US, V9, P2344
+   Kim Y, 2013, J COMMUN, V63, P498, DOI 10.1111/jcom.12034
+   Kitchens B, 2020, MIS QUART, V44, P1619, DOI 10.25300/MISQ/2020/16371
+   Klein E, 2020, POLIT COMMUN, V37, P46, DOI 10.1080/10584609.2019.1661891
+   Kleinberg MS, 2021, POLIT PSYCHOL, V42, P93, DOI 10.1111/pops.12689
+   Kleinnijenhuis J, 2019, J COMMUN, V69, P650, DOI 10.1093/joc/jqz038
+   Kobayashi T, 2019, ASIAN J COMMUN, V29, P274, DOI 10.1080/01292986.2018.1458326
+   Kohler-Koch Beate., 2013, De-mystification of participatory democracy: EU-governance and civil society
+   Koiranen I, 2019, TELEMAT INFORM, V36, P117, DOI 10.1016/j.tele.2018.11.009
+   Koivula A, 2019, POLICY INTERNET, V11, P396, DOI 10.1002/poi3.211
+   Kopacheva E, 2021, COMMUN SOC-SPAIN, V34, P67, DOI 10.15581/003.34.2.67-85
+   Kozlowski AC, 2021, SOC SCI RES, V94, DOI 10.1016/j.ssresearch.2020.102498
+   Krolo K, 2014, DRUS ISTRAZ, V23, P383, DOI 10.5559/di.23.3.01
+   Krueger BS, 2006, AM POLIT RES, V34, P759, DOI 10.1177/1532673X06290911
+   Kruikemeier S, 2014, COMPUT HUM BEHAV, V34, P131, DOI 10.1016/j.chb.2014.01.025
+   Kubin Emily., 2021, Annals of the International Communication Association, V45, P188, DOI DOI 10.1080/23808985.2021.1976070
+   Kulshrestha J, 2019, INFORM RETRIEVAL J, V22, P188, DOI 10.1007/s10791-018-9341-2
+   Kurfi MY, 2021, GALACTICA MEDIA, V3, P103, DOI 10.46539/gmd.v3i1.111
+   Kushin MJ, 2019, SOC MEDIA SOC, V5, DOI 10.1177/2056305119855139
+   Kwak N, 2020, INT J COMMUN-US, V14, P5663
+   LaCombe SJ, 2022, POLIT RES QUART, V75, P353, DOI 10.1177/10659129211006783
+   Lai M, 2019, DATA KNOWL ENG, V124, DOI 10.1016/j.datak.2019.101738
+   Lake JS, 2021, RACE JUSTICE, V11, P500, DOI 10.1177/2153368718809833
+   Lee C, 2018, TELEMAT INFORM, V35, P245, DOI 10.1016/j.tele.2017.11.005
+   Lee FLF, 2017, ASIAN J POLIT SCI, V25, P365, DOI 10.1080/02185377.2017.1352523
+   Lee H, 2018, ASIAN J COMMUN, V28, P227, DOI 10.1080/01292986.2017.1384845
+   Lee Jae Mook., 2018, Issues Studies, V54, DOI [10.1142/S1013251118400064, DOI 10.1142/S1013251118400064]
+   Lee S, 2022, NEW MEDIA SOC, V24, P178, DOI 10.1177/1461444820962121
+   Lee S, 2020, MASS COMMUN SOC, V23, P810, DOI 10.1080/15205436.2020.1821381
+   Lee S, 2019, ASIAN J COMMUN, V29, P111, DOI 10.1080/01292986.2018.1549264
+   Lee S, 2019, COMPUT HUM BEHAV, V90, P18, DOI 10.1016/j.chb.2018.08.006
+   Lee S, 2018, INT J COMMUN-US, V12, P1523
+   Lelkes Y, 2020, J COMPUT-MEDIAT COMM, V25, P199, DOI 10.1093/jcmc/zmaa002
+   Levy R, 2021, AM ECON REV, V111, P831, DOI 10.1257/aer.20191777
+   Lewandowsky S., 2020, Technology and democracy: Understanding the influence of online technologies on political behaviour and decision making, DOI [10.2760/709177, DOI 10.2760/709177]
+   Lewandowsky S, 2020, NAT COMMUN, V11, DOI 10.1038/s41467-020-19644-6
+   Li Darryl., 2004, J GENOCIDE RES, V6, P9
+   Li LS, 2020, MIS QUART, V44, P1957, DOI 10.25300/MISQ/2020/14614
+   Licari PR, 2020, AM POLIT RES, V48, P792, DOI 10.1177/1532673X20915222
+   Lilleker D, 2021, INFORM COMMUN SOC, V24, P2037, DOI 10.1080/1369118X.2021.1961005
+   Lin WY, 2010, J ADOLESCENT RES, V25, P839, DOI 10.1177/0743558410371125
+   Linvill DL, 2019, COMPUT HUM BEHAV, V99, P292, DOI 10.1016/j.chb.2019.05.027
+   Liu WL, 2018, AM BEHAV SCI, V62, P1022, DOI 10.1177/0002764218764243
+   Liu YI, 2019, INT J COMMUN-US, V13, P1438
+   López-Rabadán P, 2021, PROF INFORM, V30, DOI 10.3145/epi.2021.mar.20
+   Lu J, 2020, INFORM DEV, V36, P288, DOI 10.1177/0266666919848815
+   Lu YQ, 2018, ONLINE INFORM REV, V42, P372, DOI 10.1108/OIR-09-2016-0262
+   Luhrmann Anna., 2019, V DEM ANN DEMOCRACY
+   Lukito J, 2020, POLIT COMMUN, V37, P238, DOI 10.1080/10584609.2019.1661889
+   Machácková H, 2020, COMMUN TODAY, V11, P64
+   Machackova H, 2017, CYBERPSYCHOLOGY, V11, DOI 10.5817/CP2017-4-5
+   Magalhaes PC, 2020, PARTY POLIT, V26, P605, DOI 10.1177/1354068818797367
+   Makhortykh M, 2021, NEW MEDIA SOC, V23, P2773, DOI 10.1177/1461444820933221
+   Robles JM, 2020, INFORM COMMUN SOC, V23, P216, DOI 10.1080/1369118X.2018.1499792
+   Mari S, 2022, POLIT PSYCHOL, V43, P277, DOI 10.1111/pops.12754
+   Marozzo F, 2017, SOC NETW ANAL MIN, V8, DOI 10.1007/s13278-017-0479-5
+   Marquart F, 2020, EUR UNION POLIT, V21, P680, DOI 10.1177/1465116520943670
+   Martin JD, 2022, CONVERGENCE-US, V28, P867, DOI 10.1177/13548565211012552
+   Mashuri A, 2022, J SOC PSYCHOL, V162, P504, DOI 10.1080/00224545.2021.1935678
+   Matthes J, 2018, COMMUN RES, V45, P3, DOI 10.1177/0093650217745429
+   Matuszewski P, 2019, SOC MEDIA SOC, V5, DOI 10.1177/2056305119837671
+   McCoy J, 2019, ANN AM ACAD POLIT SS, V681, P234, DOI 10.1177/0002716218818782
+   Melki J, 2021, PLOS ONE, V16, DOI 10.1371/journal.pone.0252830
+   Miao Hongna, 2019, The Asian Journal for Public Opinion Research, V7, P1, DOI 10.15206/ajpor.2019.7.1.1
+   Milani E, 2020, MEDIA COMMUN-LISBON, V8, P364, DOI 10.17645/mac.v8i2.2847
+   Milner H., 2002, CIVIC LITERACY INFOR
+   Min G, 2015, PROCEEDINGS OF THE 12TH INTERNATIONAL CONFERENCE ON INNOVATION AND MANAGEMENT, P1222
+   Miner L, 2015, J PUBLIC ECON, V132, P66, DOI 10.1016/j.jpubeco.2015.10.002
+   Mitts T, 2019, AM POLIT SCI REV, V113, P173, DOI 10.1017/S0003055418000618
+   Moeller J, 2018, J COMMUN, V68, P1052, DOI 10.1093/joc/jqy062
+   Moeller J, 2018, J BROADCAST ELECTRON, V62, P445, DOI 10.1080/08838151.2018.1451866
+   Mohamad B, 2018, J KOMUN, V34, P192, DOI 10.17576/JKMJC-2018-3403-11
+   Moher D, 2009, J CLIN EPIDEMIOL, V62, P1006, DOI 10.1016/j.jclinepi.2009.06.005
+   Mosca L, 2021, INFORM COMMUN SOC, V24, P1441, DOI 10.1080/1369118X.2021.1894211
+   Mothes C, 2019, MEDIA COMMUN-LISBON, V7, P42, DOI 10.17645/mac.v7i3.2183
+   Mousavi R, 2019, INFORM SYST RES, V30, P133, DOI 10.1287/isre.2018.0791
+   Müller JW, 2016, WHAT IS POPULISM?, P1, DOI 10.9783/9780812293784
+   Müller P, 2023, NEW MEDIA SOC, V25, P2663, DOI 10.1177/14614448211032969
+   Mueller-Herbst JM, 2020, SOC MEDIA SOC, V6, DOI 10.1177/2056305120930412
+   Müller K, 2021, J EUR ECON ASSOC, V19, P2131, DOI 10.1093/jeea/jvaa045
+   Munger K, 2020, PUBLIC OPIN QUART, V84, P49, DOI 10.1093/poq/nfaa008
+   Munzert S, 2021, POLIT COMMUN, V38, P691, DOI 10.1080/10584609.2020.1843572
+   Mustapha L. K., 2020, The Round Table: The Commonwealth Journal of International Affairs, V109, P441
+   Mustapha LK, 2016, TRIPODOS, P127
+   Nagayoshi K, 2021, PAC AFF, V94, P5, DOI 10.5509/20219415
+   Nah S, 2022, COMMUN RES, V49, P327, DOI 10.1177/00936502211019677
+   Nah S, 2018, AM BEHAV SCI, V62, P1061, DOI 10.1177/0002764218764240
+   Nazar S, 2021, FRONT PUBLIC HEALTH, V9, DOI 10.3389/fpubh.2021.649930
+   Neely S, 2021, J MED INTERNET RES, V23, DOI 10.2196/29802
+   Nguyen A, 2007, J SOCIOL, V43, P167, DOI 10.1177/1440783307076894
+   Nguyen An., 2019, Firs Monday, V24, DOI DOI 10.5210/FM.V24I6.9632
+   Nguyen TT, 2021, SSM-POPUL HLTH, V13, DOI 10.1016/j.ssmph.2021.100750
+   North S, 2021, POLICY INTERNET, V13, P185, DOI 10.1002/poi3.247
+   O'Connell Brian., 1999, Civil Society: The Underpinnings of American Democracy
+   Odag Ozen., 2019, Journal for Deradicalization, P261
+   Oh HJ, 2021, SAGE OPEN, V11, DOI 10.1177/2158244020988685
+   Ohme J, 2019, INFORM COMMUN SOC, V22, P1903, DOI 10.1080/1369118X.2018.1469657
+   Olise FP, 2021, J KOMUN, V37, P210, DOI 10.17576/JKMJC-2021-3702-13
+   Omotayo F., 2020, JEDEM EJOURNAL EDEMO, V12, P133, DOI [10.29379/jedem.v12i1.585, DOI 10.29379/JEDEM.V12I1.585]
+   Onat I, 2023, CRIME DELINQUENCY, V69, P891, DOI 10.1177/00111287211036130
+   Onuch O, 2021, SOC MEDIA SOC, V7, DOI 10.1177/2056305121999656
+   Oser J, 2020, PUBLIC OPIN QUART, V84, P355, DOI 10.1093/poq/nfaa017
+   Osmundsen M, 2021, AM POLIT SCI REV, V115, P999, DOI 10.1017/S0003055421000290
+   Ozeren S, 2024, STUD CONFL TERROR, V47, P345, DOI 10.1080/1057610X.2021.1965728
+   Pagoto LG, 2021, CHASQUI-REV LAT COM, P181
+   Paluck EL, 2009, J PERS SOC PSYCHOL, V96, P574, DOI 10.1037/a0011989
+   Pang H, 2018, ONLINE INFORM REV, V42, P663, DOI 10.1108/OIR-04-2017-0136
+   Panizo-LLedot A, 2020, STUD COMPUT INTELL, V882, P427, DOI 10.1007/978-3-030-36683-4_35
+   Pariser E., 2011, The Filter Bubble: What The Internet Is Hiding From You
+   Park CS, 2018, J MASS COMMUN Q, V95, P1103, DOI 10.1177/1077699017753149
+   Park CS, 2014, ASIAN J COMMUN, V24, P370, DOI 10.1080/01292986.2014.892146
+   Park I, 2020, INFORM RES, V25, DOI 10.47989/irpaper882
+   Park S, 2020, JMM-INT J MEDIA MANA, V22, P83, DOI 10.1080/14241277.2020.1799794
+   Pasquetto I., 2020, Harvard Kennedy School Misinformation Review, V1, P1, DOI DOI 10.37016/MR-2020-49
+   Patra RK, 2021, DESIDOC J LIB INF TE, V41, P275, DOI 10.14429/djlit.41.4.16556
+   Pérez-Curiel C, 2021, SOC SCI-BASEL, V10, DOI 10.3390/socsci10050152
+   Persily N, 2020, SSRC ANXIET DEMOCR, P1, DOI 10.1017/9781108890960
+   Peterson E, 2021, POLIT SCI RES METH, V9, P242, DOI 10.1017/psrm.2019.55
+   Petrova M, 2021, MANAGE SCI, V67, P2997, DOI 10.1287/mnsc.2020.3740
+   Piazza JA, 2019, TERROR POLIT VIOLENC, P1, DOI 10.1080/09546553.2019.1606801
+   Placek M, 2018, INT J COMMUN-US, V12, P2810
+   Placek MA, 2017, DEMOCRATIZATION, V24, P632, DOI 10.1080/13510347.2016.1202929
+   Popa SA, 2016, J INF TECHNOL POLITI, V13, P222, DOI 10.1080/19331681.2016.1194241
+   Popova O., 2021, PROC INT C INTERNET, V2813, P181
+   Porumbescu G, 2017, INT PUBLIC MANAG J, V20, P409, DOI 10.1080/10967494.2016.1269859
+   Powell A, 2020, EUR J CRIMINOL, V17, P199, DOI 10.1177/1477370818788006
+   Powers E, 2019, INT J COMMUN-US, V13, P3630
+   Poy S, 2020, RES POLICY, V49, DOI 10.1016/j.respol.2019.103861
+   Praprotnik K., 2019, AUSTRIAN J POLIT SCI
+   Qin AY, 2022, MASS COMMUN SOC, V25, P237, DOI 10.1080/15205436.2021.1977327
+   Quenette AM, 2018, INT J COMMUN-US, V12, P4839
+   Quintanilha TL, 2019, COMMUN SOC-SPAIN, V32, P17, DOI 10.15581/003.32.3.17-33
+   Rao A, 2021, J MED INTERNET RES, V23, DOI 10.2196/26692
+   Rathje S, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2024292118
+   Rau JP., 2019, VGL POLIT, V13, P399, DOI [10.1007/s12286-019-00429-1, DOI 10.1007/S12286-019-00429-1]
+   Ribeiro MH, 2020, FAT* '20: PROCEEDINGS OF THE 2020 CONFERENCE ON FAIRNESS, ACCOUNTABILITY, AND TRANSPARENCY, P131, DOI 10.1145/3351095.3372879
+   Rice LL, 2019, J INF TECHNOL POLITI, V16, P87, DOI 10.1080/19331681.2019.1574249
+   Riikonen R., 2020, 7 EUR C SOC MED ECSM, P240
+   Rivero G, 2019, CONTEMP SOC SCI, V14, P54, DOI 10.1080/21582041.2017.1325924
+   Rodríguez-Virgili J, 2021, MEDIA COMMUN-LISBON, V9, P323, DOI 10.17645/mac.v9i1.3521
+   Romer D, 2021, J MED INTERNET RES, V23, DOI 10.2196/25215
+   Rosenbusch H, 2019, SOC PSYCHOL PERS SCI, V10, P1028, DOI 10.1177/1948550618820309
+   Ruijgrok K, 2021, CONTEMP POLIT, V27, P247, DOI 10.1080/13569775.2020.1851931
+   Sabatini F, 2019, SOC INDIC RES, V142, P229, DOI 10.1007/s11205-018-1887-2
+   Sainudiin R, 2019, SOC NETW ANAL MIN, V9, DOI 10.1007/s13278-019-0567-9
+   Sakya SM, 2021, CURR MED RES OPIN, V37, P911, DOI 10.1080/03007995.2021.1901679
+   Salaudeen MA, 2020, COGENT ARTS HUMANITE, V7, DOI 10.1080/23311983.2020.1837461
+   Samuel-Azran T, 2019, COMUNICAR, V27, P71, DOI 10.3916/C60-2019-07
+   Santini RM, 2021, INT J COMMUN-US, V15, P1220
+   Saud M., 2020, Quality & Quantity, V54, P1285
+   Saud M, 2020, MASYARAKAT KEBUDAYAA, V33, P248, DOI 10.20473/mkp.V33I32020.248-255
+   Schaub M, 2020, EUR J POLIT RES, V59, P752, DOI 10.1111/1475-6765.12373
+   Scheffauer R, 2021, ONLINE INFORM REV, V45, P633, DOI 10.1108/OIR-04-2020-0133
+   Scheufele DA, 2000, INT J PUBLIC OPIN R, V12, P3, DOI 10.1093/ijpor/12.1.3
+   Schulz W, 2019, SCM STUD COMM MEDIA, V8, P77, DOI 10.5771/2192-4007-2019-1-77
+   Schulze H, 2020, POLITICS GOV, V8, P6, DOI 10.17645/pag.v8i3.2925
+   Schumann S, 2022, INFORM COMMUN SOC, V25, P1934, DOI 10.1080/1369118X.2021.1907435
+   Schumann S, 2021, INFORM COMMUN SOC, V24, P921, DOI 10.1080/1369118X.2019.1668455
+   Seebruck R, 2013, SOC SCI JPN J, V16, P279, DOI 10.1093/ssjj/jyt017
+   Sell TK, 2020, BMC PUBLIC HEALTH, V20, DOI 10.1186/s12889-020-08697-3
+   Serhan F., 2020, OPCION-MARACAIBO, V36, P166
+   Serrano JCM, 2019, SMSOCIETY'19: PROCEEDINGS OF THE 10TH INTERNATIONAL CONFERENCE ON SOCIAL MEDIA AND SOCIETY, P214, DOI 10.1145/3328529.3328562
+   Shahin S, 2021, J INF TECHNOL POLITI, V18, P148, DOI 10.1080/19331681.2020.1832012
+   Sharma I, 2020, ONLINE INFORM REV, V44, P1421, DOI 10.1108/OIR-03-2020-0084
+   Shen F, 2020, TELEMAT INFORM, V47, DOI 10.1016/j.tele.2019.101303
+   Shim K, 2018, COMPUT HUM BEHAV, V86, P181, DOI 10.1016/j.chb.2018.04.012
+   Shin J, 2020, SOC MEDIA SOC, V6, DOI 10.1177/2056305120981039
+   Shin SH, 2021, SOC SCI MED, V278, DOI 10.1016/j.socscimed.2021.113944
+   Shmargad Y, 2020, POLIT COMMUN, V37, P423, DOI 10.1080/10584609.2020.1713267
+   Siegel AA, 2021, WORLD POLIT, V73, P243, DOI 10.1017/S0043887120000295
+   Siegel AA, 2021, Q J POLIT SCI, V16, P71, DOI 10.1561/100.00019045
+   Sihombing SO, 2021, J ASIAN FINANC ECON, V8, P445, DOI 10.13106/jafeb.2021.vol8.no5.0445
+   Sindermann C, 2020, HELIYON, V6, DOI 10.1016/j.heliyon.2020.e03214
+   Siongers J., 2019, J SOC SCI ED, DOI [10.4119/jsse-901, DOI 10.4119/JSSE-901]
+   Sismeiro C, 2018, MANAGE SCI, V64, P5014, DOI 10.1287/mnsc.2017.2896
+   Skoric MM, 2018, AM BEHAV SCI, V62, P1097, DOI 10.1177/0002764218764251
+   Smith ST, 2018, 2018 IEEE STATISTICAL SIGNAL PROCESSING WORKSHOP (SSP), P328, DOI 10.1109/SSP.2018.8450823
+   Sommariva S, 2018, AM J HEALTH EDUC, V49, P246, DOI 10.1080/19325037.2018.1473178
+   Song HJ, 2020, COMMUN RES, V47, P125, DOI 10.1177/0093650218790144
+   Soral W, 2020, INT J CONFL VIOLENCE, V14, DOI 10.4119/ijcv-3774
+   Sridhar D, 2019, PROCEEDINGS OF THE TWENTY-EIGHTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, P1872
+   Staub E, 2009, J PERS SOC PSYCHOL, V96, P588, DOI 10.1037/a0014045
+   Steffan D, 2020, INT J COMMUN-US, V14, P3096
+   Steffan D, 2020, EUR J COMMUN, V35, P370, DOI 10.1177/0267323120903681
+   Stella M, 2018, P NATL ACAD SCI USA, V115, P12435, DOI 10.1073/pnas.1803470115
+   Stier S, 2020, INT J PRESS/POLIT, V25, P426, DOI 10.1177/1940161220907018
+   Stoica AA, 2018, WEB CONFERENCE 2018: PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE (WWW2018), P923, DOI 10.1145/3178876.3186140
+   Strauss N, 2021, SOC MEDIA SOC, V7, DOI 10.1177/20563051211024966
+   Strauss N, 2020, DIGIT JOURNAL, V8, P1181, DOI 10.1080/21670811.2020.1832130
+   Stroud NJ, 2010, J COMMUN, V60, P556, DOI 10.1111/j.1460-2466.2010.01497.x
+   Wilkerson HS, 2021, DIGIT JOURNAL, V9, P1040, DOI 10.1080/21670811.2021.1899011
+   Sugihartati R, 2020, SOC SCI-BASEL, V9, DOI 10.3390/socsci9040040
+   Suhay E, 2015, AM POLIT RES, V43, P643, DOI 10.1177/1532673X14553834
+   Sunstein CR, 2002, J POLIT PHILOS, V10, P175, DOI 10.1111/1467-9760.00148
+   Supovitz JA, 2020, TEACH COLL REC, V122
+   Sydnor E, 2018, POLIT COMMUN, V35, P97, DOI 10.1080/10584609.2017.1355857
+   Tai KT, 2020, PUBLIC MANAG REV, V22, P278, DOI 10.1080/14719037.2019.1584233
+   Tal-Or N, 2010, COMMUN RES, V37, P801, DOI 10.1177/0093650210362684
+   Taneja H, 2019, CHI 2019: PROCEEDINGS OF THE 2019 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, DOI 10.1145/3290605.3300770
+   Terren L, 2021, REV COMMUN RES, V9, P99, DOI 10.12840/ISSN.2255-4165.028
+   Theocharis Y, 2020, SAGE OPEN, V10, DOI 10.1177/2158244020919447
+   Theocharis Y, 2021, POLICY INTERNET, V13, P30, DOI 10.1002/poi3.231
+   Thorson K, 2021, INFORM COMMUN SOC, V24, P183, DOI 10.1080/1369118X.2019.1642934
+   Tolbert CJ, 2003, POLIT RES QUART, V56, P175, DOI 10.1177/106591290305600206
+   Törnberg A, 2018, SOCIOL FORSKNIN, V55, P267
+   Towner TL, 2018, J POLITICAL MARKETIN, V17, P32, DOI 10.1080/15377857.2016.1153561
+   Tucker J, 2018, Social Science Research Network (SSRN), P1, DOI [10.2139/ssrn.3144139, DOI 10.2139/SSRN.3144139]
+   Urman A, 2019, INT J COMMUN-US, V13, P5158
+   Vaccari C, 2018, SAGE OPEN, V8, DOI 10.1177/2158244018784986
+   Valenzuela S, 2022, INT J PRESS/POLIT, V27, P353, DOI 10.1177/19401612211025238
+   Valenzuela S, 2021, DIGIT JOURNAL, V9, P155, DOI 10.1080/21670811.2019.1693904
+   Valenzuela S, 2019, DIGIT JOURNAL, V7, P802, DOI 10.1080/21670811.2019.1623701
+   Van Bavel JJ, 2021, TRENDS COGN SCI, V25, P913, DOI 10.1016/j.tics.2021.07.013
+   Van Duyn E, 2021, SOC SCI COMPUT REV, V39, P181, DOI 10.1177/0894439319864876
+   van Erkel PFA, 2021, POLIT COMMUN, V38, P407, DOI 10.1080/10584609.2020.1784328
+   van Tubergen F, 2021, PLOS ONE, V16, DOI 10.1371/journal.pone.0254881
+   Villanueva CF, 2021, COMMUN SOC-SPAIN, V34, P449, DOI 10.15581/003.34.2.449-468
+   Visentin M, 2021, PSYCHOL MARKET, V38, P1828, DOI 10.1002/mar.21542
+   Vissenberg J, 2021, COMMUNICATIONS-GER, V46, P373, DOI 10.1515/commun-2021-0047
+   Vozab D, 2019, MEDIJSKE STUD, V10, P107, DOI 10.20901/ms.10.20.6
+   Vraga EK, 2021, INFORM COMMUN SOC, V24, P150, DOI 10.1080/1369118X.2019.1637445
+   Wagner K. M., 2021, GENDER DIFFERENCES C, V39, P211
+   Wang DD, 2021, J MED INTERNET RES, V23, DOI 10.2196/27009
+   Wang LX, 2022, J INF TECHNOL POLITI, V19, P83, DOI 10.1080/19331681.2021.1923497
+   Wang XT, 2021, CHIN J COMMUN, V14, P139, DOI 10.1080/17544750.2020.1807372
+   Warren ME, 2017, HANDBOOK ON POLITICAL TRUST, P33
+   Warzel C., 2022, The Atlantic
+   Wasisto A, 2021, MASYARAKAT KEBUDAYAA, V34, P281, DOI 10.20473/mkp.V34I32021.281-292
+   Weeks BE, 2023, NEW MEDIA SOC, V25, P2644, DOI 10.1177/14614448211033300
+   Weeks BE, 2022, INT J PRESS/POLIT, V27, P243, DOI 10.1177/1940161221991550
+   Wei K, 2020, WEB CONFERENCE 2020: PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE (WWW 2020), P2443, DOI 10.1145/3366423.3380307
+   Wei R, 2008, INT J PUBLIC OPIN R, V20, P347, DOI 10.1093/ijpor/edn032
+   Wen NN, 2018, INT J COMMUN-US, V12, P3729
+   Westerwick A, 2020, MASS COMMUN SOC, V23, P510, DOI 10.1080/15205436.2020.1721542
+   Wiedlitzka S, 2023, J QUANT CRIMINOL, V39, P75, DOI 10.1007/s10940-021-09530-9
+   Wolfowicz M, 2023, J EXP CRIMINOL, V19, P119, DOI 10.1007/s11292-021-09471-0
+   Wollebæk D, 2019, SOC MEDIA SOC, V5, DOI 10.1177/2056305119829859
+   Wong SHW, 2020, SOC SCI QUART, V101, P1489, DOI 10.1111/ssqu.12812
+   Workneh TW, 2021, INFORM COMMUN SOC, V24, P309, DOI 10.1080/1369118X.2020.1811367
+   Xenos MA, 2018, INT J COMMUN-US, V12, P706
+   Xiong J, 2020, INFORM PROCESS MANAG, V57, DOI 10.1016/j.ipm.2020.102229
+   Yamamoto M, 2022, J INF TECHNOL POLITI, V19, P269, DOI 10.1080/19331681.2021.1969611
+   Yamamoto M, 2019, SOC MEDIA SOC, V5, DOI 10.1177/2056305119843619
+   Yamamoto M, 2018, NEW MEDIA SOC, V20, P2070, DOI 10.1177/1461444817712722
+   Yang J, 2011, NEW MEDIA SOC, V13, P1211, DOI 10.1177/1461444811401708
+   Yang T, 2020, P NATL ACAD SCI USA, V117, P28678, DOI 10.1073/pnas.2006089117
+   Yarchi M, 2021, POLIT COMMUN, V38, P98, DOI 10.1080/10584609.2020.1785067
+   Young LE, 2023, POLIT BEHAV, V45, P445, DOI 10.1007/s11109-021-09711-z
+   Yu RP, 2018, TELEMAT INFORM, V35, P2299, DOI 10.1016/j.tele.2018.09.010
+   Zang LZ, 2019, SOC SCI COMPUT REV, V37, P295, DOI 10.1177/0894439318767957
+   Zannettou S, 2020, P INT AAAI C WEB SOC, V14, P786, DOI [10.1609/icwsm.v14i1.7343, DOI 10.1609/ICWSM.V14I1.7343]
+   Zannettou S, 2019, COMPANION OF THE WORLD WIDE WEB CONFERENCE (WWW 2019 ), P218, DOI 10.1145/3308560.3316495
+   Zhang N, 2018, INT J COMMUN-US, V12, P380
+   Zhang XZ, 2018, COMPUT HUM BEHAV, V79, P217, DOI 10.1016/j.chb.2017.10.036
+   Zhou C, 2021, INFORM PROCESS MANAG, V58, DOI 10.1016/j.ipm.2021.102554
+   Zhou D, 2020, EMERG MARK FINANC TR, V56, P3235, DOI 10.1080/1540496X.2019.1644161
+   Zhu AYF, 2020, E ASIA-NETHERLANDS, V37, P45, DOI 10.1007/s12140-019-09326-6
+   Zhu AYF, 2019, J ADOLESCENCE, V77, P108, DOI 10.1016/j.adolescence.2019.10.010
+   Zhu Z, 2020, INT J DISAST RISK RE, V50, DOI 10.1016/j.ijdrr.2020.101717
+   Zimmermann F, 2020, POLIT COMMUN, V37, P215, DOI 10.1080/10584609.2019.1686095
+   Zumárraga-Espinosa M, 2020, DOXA COMUN, P55, DOI 10.31921/doxacom.n30a3
+   Zunino E., 2021, UNIVERSITAS, V34, P127
+   Ahmad S, 2020, J HUM BEHAV SOC ENVI, V30, P457, DOI 10.1080/10911359.2019.1698485
+   Akpan IJ, 2021, J MED INTERNET RES, V23, DOI 10.2196/28975
+   Allen J, 2020, SCI ADV, V6, DOI 10.1126/sciadv.aay3539
+   Alsaad A, 2018, TECHNOL SOC, V55, P41, DOI 10.1016/j.techsoc.2018.06.002
+   Ardèvol-Abreu A, 2018, JOURNALISM, V19, P611, DOI 10.1177/1464884917700447
+   Aruguete N, 2021, DIGIT JOURNAL, V9, P1, DOI 10.1080/21670811.2020.1852094
+   Bäck EA, 2019, NEW MEDIA SOC, V21, P298, DOI 10.1177/1461444818795487
+   Bae SY, 2020, JOURNALISM, V21, P1522, DOI 10.1177/1464884917722657
+   Baek YM, 2015, COMPUT HUM BEHAV, V44, P12, DOI 10.1016/j.chb.2014.11.021
+   Bastien F, 2020, J INF TECHNOL POLITI, V17, P218, DOI 10.1080/19331681.2020.1742264
+   Bhat Suhail Iqbal, 2020, International Journal of Web Based Communities, V16, P321, DOI 10.1504/IJWBC.2020.111377
+   Bobba G, 2018, INT J PRESS/POLIT, V23, P458, DOI 10.1177/1940161218787046
+   Bobba G, 2019, EUR POLIT SCI, V18, P11, DOI 10.1057/s41304-017-0141-8
+   Boulianne S, 2020, INFORM COMMUN SOC, V23, P642, DOI 10.1080/1369118X.2020.1713847
+   Bursztyn L., 2019, W26567 NBER
+   Cábelková I, 2022, SUSTAIN DEV, V30, P110, DOI 10.1002/sd.2232
+   Castillo-Díaz A, 2018, PROF INFORM, V27, P1248, DOI 10.3145/epi.2018.nov.08
+   Corrigall-Brown C, 2014, SOC SCI J, V51, P408, DOI 10.1016/j.soscij.2014.03.009
+   David Y, 2022, SOC MOVEMENT STUD, V21, P334, DOI 10.1080/14742837.2021.1875321
+   Davidson BI, 2019, PLOS ONE, V14, DOI 10.1371/journal.pone.0216932
+   Enjolras B, 2013, NEW MEDIA SOC, V15, P890, DOI 10.1177/1461444812462844
+   Ferrucci P, 2020, NEW MEDIA SOC, V22, P1095, DOI 10.1177/1461444819873110
+   Frissen T, 2021, COMPUT HUM BEHAV, V114, DOI 10.1016/j.chb.2020.106549
+   Gainous J, 2019, POLIT BEHAV, V41, P401, DOI 10.1007/s11109-018-9456-6
+   Giglietto F, 2020, INFORM COMMUN SOC, V23, P867, DOI 10.1080/1369118X.2020.1739732
+   Guess A, 2019, SCI ADV, V5, DOI 10.1126/sciadv.aau4586
+   Heiss R, 2020, COMMUNICATIONS-GER, V45, P671, DOI 10.1515/commun-2019-2054
+   Heiss R, 2019, NEW MEDIA SOC, V21, P2463, DOI 10.1177/1461444819850755
+   Hunter LY, 2020, INT J SOCIOL, V50, P201, DOI 10.1080/00207659.2020.1757297
+   Kaur M., 2018, INDIAN J MARKET, V48, P43, DOI [10.17010/ijom/2018/v48/i11/137984, DOI 10.17010/IJOM/2018/V48/I11/137984]
+   Kobayashi T, 2020, NEW MEDIA SOC, V22, P1339, DOI 10.1177/1461444820910124
+   Kwak N, 2018, HUM COMMUN RES, V44, P197, DOI 10.1093/hcr/hqx008
+   Lee H, 2020, PALGR COMMUN, V6, DOI 10.1057/s41599-019-0368-9
+   Lee SH, 2019, J EAST ASIAN STUD, V19, P89, DOI 10.1017/jea.2018.25
+   Lelkes Y, 2017, AM J POLIT SCI, V61, P5, DOI 10.1111/ajps.12237
+   Lu J, 2020, INFORM COMMUN SOC, V23, P252, DOI 10.1080/1369118X.2018.1499794
+   Lu YD, 2021, POLIT COMMUN, V38, P23, DOI 10.1080/10584609.2020.1765914
+   Mahmood QK, 2018, EDUC INF TECHNOL, V23, P2235, DOI 10.1007/s10639-018-9715-5
+   Marcinkowski F, 2021, NEW MEDIA SOC, V23, P457, DOI 10.1177/1461444820902104
+   Martínez-Torres H, 2019, J APPL ECON, V22, P527, DOI 10.1080/15140326.2019.1673082
+   Min H, 2018, KOREA OBS, V49, P137, DOI 10.29152/KOIKS.2018.49.1.137
+   Nanz A, 2022, ACTA POLIT, V57, P235, DOI 10.1057/s41269-020-00182-4
+   Nelson JL, 2018, NEW MEDIA SOC, V20, P3720, DOI 10.1177/1461444818758715
+   Nikolov D, 2019, J ASSOC INF SCI TECH, V70, P218, DOI 10.1002/asi.24121
+   Park B, 2020, SUSTAINABILITY-BASEL, V12, DOI 10.3390/su12155997
+   Piatak J, 2021, NONPROF VOLUNT SEC Q, V50, P1079, DOI 10.1177/0899764021999444
+   Popan JR, 2019, COMPUT HUM BEHAV, V96, P123, DOI 10.1016/j.chb.2019.02.017
+   Salman A, 2018, J NUSANT STUD-JONUS, V3, P51, DOI 10.24200/jonus.vol3iss1pp51-63
+   Scharkow M, 2020, P NATL ACAD SCI USA, V117, P2761, DOI 10.1073/pnas.1918279117
+   Schmidt AL, 2018, VACCINE, V36, P3606, DOI 10.1016/j.vaccine.2018.05.040
+   Sharar B., 2018, 2018 INT C COMPUTING, P1
+   Song TT, 2019, INFORM SYST RES, V30, P912, DOI 10.1287/isre.2019.0838
+   Stetka V, 2021, JAVNOST-PUBLIC, V28, P90, DOI 10.1080/13183222.2020.1841381
+   Talwar S, 2019, J RETAIL CONSUM SERV, V51, P72, DOI 10.1016/j.jretconser.2019.05.026
+   Tewksbury D, 2015, J BROADCAST ELECTRON, V59, P381, DOI 10.1080/08838151.2015.1054996
+   Troian J, 2019, CYBERPSYCHOLOGY, V13, DOI 10.5817/CP2019-3-4
+   Vaccari C, 2018, INT J PRESS/POLIT, V23, P367, DOI 10.1177/1940161218779170
+   Valenzuela S, 2018, POLIT COMMUN, V35, P117, DOI 10.1080/10584609.2017.1334726
+   Waechter N, 2019, OSTERR Z SOZIOL, V44, P217, DOI 10.1007/s11614-019-00356-1
+   Wang TJ, 2018, ASIAN J COMMUN, V28, P620, DOI 10.1080/01292986.2018.1494204
+   Yamamoto M, 2020, NEW MEDIA SOC, V22, P1885, DOI 10.1177/1461444819886295
+   Yamamoto M, 2018, TELEMAT INFORM, V35, P2376, DOI 10.1016/j.tele.2018.10.008
+   Ye YJ, 2017, TELEMAT INFORM, V34, P705, DOI 10.1016/j.tele.2016.05.021
+   Yun GW, 2013, MEDIA PSYCHOL, V16, P295, DOI 10.1080/15213269.2012.759462
+NR 564
+TC 86
+Z9 89
+U1 57
+U2 248
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2397-3374
+J9 NAT HUM BEHAV
+JI Nat. Hum. Behav.
+PD JAN
+PY 2023
+VL 7
+IS 1
+BP 74
+EP +
+DI 10.1038/s41562-022-01460-1
+EA NOV 2022
+PG 30
+WC Psychology, Biological; Multidisciplinary Sciences; Neurosciences;
+   Psychology, Experimental
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychology; Science & Technology - Other Topics; Neurosciences &
+   Neurology
+GA 8K7BE
+UT WOS:000879717300002
+PM 36344657
+OA hybrid, Green Published
+HC Y
+HP N
+DA 2024-11-22
+ER
+
+PT J
+AU Goldman, AW
+   Cornwell, EY
+   Cornwell, B
+AF Goldman, Alyssa W.
+   Cornwell, Erin York
+   Cornwell, Benjamin
+TI Neighborhood conditions and social network turnover among older adults
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Personal networks; Neighborhoods; Concentrated disadvantage; Network
+   dynamics; Aging
+ID CONCENTRATED DISADVANTAGE; COLLECTIVE EFFICACY; PERSONAL NETWORKS;
+   SPATIAL DYNAMICS; TIES; HEALTH; LIFE; STABILITY; SUPPORT; CRIME
+AB Increasing research highlights heterogeneity in patterns of social network change, with growing evidence that these patterns are shaped in part by social structure. The role of social and structural neighborhood conditions in the addition and loss of kin and non-kin network members, however, has not been fully considered. In this paper, we argue that the residential neighborhood context can either facilitate or prevent the turnover of core network relationships in later life - a period of the life course characterized by heightened reliance on network ties and vulnerability to neighborhood conditions. Using longitudinal data from the National Social Life, Health, and Aging Project linked with data from the American Community Survey, we find that higher levels of neighborhood concentrated disadvantage are associated with the loss of older adults' kin and non-kin network members over time. Higher levels of perceived neighborhood social interaction, however, are associated with higher rates of adding non-kin network members and lower rates of adding kin network members over time. We suggest that neighborhood conditions, including older adults' perceptions of neighborhood social life, represent an underexplored influence on kin and non-kin social network dynamics, which could have implications for access to social resources later in the life course.
+C1 [Goldman, Alyssa W.] Boston Coll, Dept Sociol, 140 Commonwealth Ave,424 McGuinn Hall, Chestnut Hill, MA 02467 USA.
+   [Cornwell, Erin York; Cornwell, Benjamin] Cornell Univ, Dept Sociol, Ithaca, NY USA.
+C3 Boston College; Cornell University
+RP Goldman, AW (corresponding author), Boston Coll, Dept Sociol, 140 Commonwealth Ave,424 McGuinn Hall, Chestnut Hill, MA 02467 USA.
+EM alyssa.goldman@bc.edu
+OI York Cornwell, Erin/0000-0003-2145-8224
+FU National Institute on Aging; National Institutes of Health [R01AG021487,
+   R37AG030481, R01AG033903, R01AG043538, R01AG048511]
+FX The National Social Life, Health, and Aging Project is supported by the
+   National Institute on Aging and the National Institutes of Health
+   (R01AG021487, R37AG030481, R01AG033903, R01AG043538, R01AG048511). The
+   content is solely the responsibility of the authors and does not
+   necessarily represent the official views of the National Institutes of
+   Health. The authors thank Vida Maralani, Kim Greenwell, and the editor
+   and reviewers for their feedback and suggestions on this manuscript
+CR Alwin DF, 2018, FRONT SOCIOL SOC RES, P3, DOI 10.1007/978-3-319-71544-5_1
+   Amorim M, 2023, SOC PROBL, V70, P1063, DOI 10.1093/socpro/spab068
+   Aneshensel CS, 2010, ADVANCES IN THE CONCEPTUALIZATION OF THE STRESS PROCESS: ESSAYS IN HONOR OF LEONARD I. PEARLIN, P35, DOI 10.1007/978-1-4419-1021-9_3
+   [Anonymous], 1942, JUVENILE DELINQUENCY
+   Bailey EJ, 2014, ANN EPIDEMIOL, V24, P214, DOI 10.1016/j.annepidem.2013.12.007
+   Berkman LF, 2000, SOC SCI MED, V51, P843, DOI 10.1016/S0277-9536(00)00065-4
+   Bidart C, 2005, SOC NETWORKS, V27, P359, DOI 10.1016/j.socnet.2004.11.003
+   BLAU PM, 1977, AM J SOCIOL, V83, P26
+   Bloem BA, 2008, PERS RELATIONSHIP, V15, P465, DOI 10.1111/j.1475-6811.2008.00210.x
+   Bookwala J, 2017, GERONTOLOGIST, V57, P1041, DOI 10.1093/geront/gnw108
+   BURT RS, 1992, NETWORKS AND ORGANIZATIONS : STRUCTURE, FORM, AND ACTION, P57
+   Burt RS, 1998, SOC NETWORKS, V20, P63, DOI 10.1016/S0378-8733(97)00005-1
+   Burt RS, 2000, SOC NETWORKS, V22, P1, DOI 10.1016/S0378-8733(99)00015-5
+   Charles ST, 2010, ANNU REV PSYCHOL, V61, P383, DOI 10.1146/annurev.psych.093008.100448
+   Charmaz K., 2006, Brokerage and closure: An introduction to social capital
+   Coleman J.S., 1994, FDN SOCIAL THEORY
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   Cornwell B, 2021, J GERONTOL B-PSYCHOL, V76, P778, DOI 10.1093/geronb/gbaa026
+   Cornwell B, 2015, SOC SCI MED, V125, P94, DOI 10.1016/j.socscimed.2013.09.011
+   Cornwell B, 2015, J GERONTOL B-PSYCHOL, V70, P132, DOI 10.1093/geronb/gbu078
+   Cornwell B, 2014, J GERONTOL B-PSYCHOL, V69, pS75, DOI 10.1093/geronb/gbu037
+   Cornwell EY, 2021, J GERONTOL B-PSYCHOL, V76, P790, DOI 10.1093/geronb/gbaa033
+   Cornwell EY, 2017, J GERONTOL B-PSYCHOL, V72, P864, DOI 10.1093/geronb/gbx063
+   Cornwell EY, 2015, CITY COMMUNITY, V14, P311, DOI 10.1111/cico.12124
+   Cornwell EY, 2014, J GERONTOL B-PSYCHOL, V69, pS51, DOI 10.1093/geronb/gbu052
+   Dawkins CJ, 2006, HOUSING STUD, V21, P867, DOI 10.1080/02673030600917776
+   Denney JT, 2018, POPUL RES POLICY REV, V37, P301, DOI 10.1007/s11113-018-9461-9
+   Desmond M, 2015, SOCIOL SCI, V2, P329, DOI 10.15195/v2.a16
+   Desmond M, 2012, AM J SOCIOL, V117, P1295, DOI 10.1086/663574
+   Ellwardt L, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0116731
+   Faris R, 2018, FRONT SOCIOL SOC RES, P185, DOI 10.1007/978-3-319-71544-5_9
+   Feld SL, 2007, FIELD METHOD, V19, P218, DOI 10.1177/1525822X06299134
+   FELD SL, 1981, AM J SOCIOL, V86, P1015, DOI 10.1086/227352
+   Fischer CS, 2020, SOC NETWORKS, V61, P78, DOI 10.1016/j.socnet.2019.08.008
+   Fischer CS, 2015, J GERONTOL B-PSYCHOL, V70, P123, DOI 10.1093/geronb/gbu057
+   Fischer Claude S., 1982, To Dwell among Friends: Personal Networks in Town and City
+   Goldman AW, 2018, J MARRIAGE FAM, V80, P1314, DOI 10.1111/jomf.12503
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Ha JH, 2008, J MARRIAGE FAM, V70, P306, DOI 10.1111/j.1741-3737.2008.00483.x
+   HECKMAN JJ, 1979, ECONOMETRICA, V47, P153, DOI 10.2307/1912352
+   Hill TD, 2005, J HEALTH SOC BEHAV, V46, P170, DOI 10.1177/002214650504600204
+   Hurlbert JS, 2000, AM SOCIOL REV, V65, P598, DOI 10.2307/2657385
+   Kadushin C, 2002, SOC NETWORKS, V24, P77, DOI 10.1016/S0378-8733(01)00052-1
+   Kalish Y, 2006, SOC NETWORKS, V28, P56, DOI 10.1016/j.socnet.2005.04.004
+   Kalmijn M, 2012, ADV LIFE COURSE RES, V17, P177, DOI 10.1016/j.alcr.2012.08.002
+   Kana'Iaupuni SM, 2005, SOC FORCES, V83, P1137, DOI 10.1353/sof.2005.0036
+   Karb RA, 2012, SOC SCI MED, V75, P1038, DOI 10.1016/j.socscimed.2012.03.031
+   Lizardo O, 2006, AM SOCIOL REV, V71, P778, DOI 10.1177/000312240607100504
+   Mair CA, 2019, J GERONTOL B-PSYCHOL, V74, P1416, DOI 10.1093/geronb/gbz029
+   MARSDEN PV, 1987, AM SOCIOL REV, V52, P122, DOI 10.2307/2095397
+   Martin JL, 2006, SOC NETWORKS, V28, P331, DOI 10.1016/j.socnet.2005.07.008
+   McDonald S, 2010, SOCIOL FORUM, V25, P335, DOI 10.1111/j.1573-7861.2010.01179.x
+   Meijer M, 2012, SOC SCI MED, V74, P1204, DOI 10.1016/j.socscimed.2011.11.034
+   Mills JP, 1926, BIOMETRIKA, V18, P395, DOI 10.2307/2331957
+   Mollenhorst G, 2014, SOC NETWORKS, V37, P65, DOI 10.1016/j.socnet.2013.12.003
+   Mollenhorst G, 2011, SOC NETWORKS, V33, P292, DOI 10.1016/j.socnet.2011.09.001
+   Morenoff JD, 2001, CRIMINOLOGY, V39, P517, DOI 10.1111/j.1745-9125.2001.tb00932.x
+   Morgan SL, 2008, SOCIOL METHODOL, V38, P231, DOI 10.1111/j.1467-9531.2008.00204.x
+   Mulder CH, 2009, POPUL SPACE PLACE, V15, P299, DOI 10.1002/psp.556
+   O'Muircheartaigh C, 2014, J GERONTOL B-PSYCHOL, V69, pS15, DOI 10.1093/geronb/gbu053
+   Offer S, 2021, ANNU REV SOCIOL, V47, P177, DOI 10.1146/annurev-soc-090820-025827
+   Offer S, 2020, J HEALTH SOC BEHAV, V61, P418, DOI 10.1177/0022146520952767
+   Offer S, 2018, AM SOCIOL REV, V83, P111, DOI 10.1177/0003122417737951
+   Oh JH, 2009, J COMMUNITY PSYCHOL, V37, P21, DOI 10.1002/jcop.20269
+   Paik A, 2013, AM SOCIOL REV, V78, P339, DOI 10.1177/0003122413482919
+   Pattillo ME, 1998, SOC FORCES, V76, P747, DOI 10.2307/3005693
+   Ross CE, 2000, AM J COMMUN PSYCHOL, V28, P401, DOI 10.1023/A:1005137713332
+   Ross CE, 2000, AM SOCIOL REV, V65, P581, DOI 10.2307/2657384
+   Roux AVD, 2010, ANN NY ACAD SCI, V1186, P125, DOI 10.1111/j.1749-6632.2009.05333.x
+   Ruppel EH, 2022, J HEALTH SOC BEHAV, V63, P392, DOI 10.1177/00221465211072310
+   Sampson RJ, 1999, AM SOCIOL REV, V64, P633, DOI 10.2307/2657367
+   SAMPSON RJ, 1991, SOC FORCES, V70, P43, DOI 10.2307/2580061
+   Sampson RJ, 2002, ANNU REV SOCIOL, V28, P443, DOI 10.1146/annurev.soc.28.110601.141114
+   SAMPSON RJ, 1989, AM J SOCIOL, V94, P774, DOI 10.1086/229068
+   Sampson RJ, 1997, SCIENCE, V277, P918, DOI 10.1126/science.277.5328.918
+   Sampson RobertJ., 2012, GREAT AMERICAN CITY, DOI DOI 10.7208/CHICAGO/9780226733883.001.0001
+   Schafer MH, 2016, SOC FORCES, V94, P1795, DOI 10.1093/sf/sow024
+   Schafer MH, 2015, J GERONTOL B-PSYCHOL, V70, P597, DOI 10.1093/geronb/gbu071
+   Schieman S, 2005, SOC FORCES, V83, P1031, DOI 10.1353/sof.2005.0045
+   Schwartz E, 2019, J GERONTOL B-PSYCHOL, V74, P694, DOI 10.1093/geronb/gbx131
+   Schwartz E, 2017, INT PSYCHOGERIATR, V29, P2047, DOI 10.1017/S1041610217001338
+   Settels J, 2021, J APPL GERONTOL, V40, P1288, DOI 10.1177/0733464820969054
+   Settels J, 2018, WORK AGING RETIRE, V4, P274, DOI 10.1093/workar/wax029
+   Sharkey P, 2014, ANNU REV SOCIOL, V40, P559, DOI 10.1146/annurev-soc-071913-043350
+   Sharkey P, 2012, DEMOGRAPHY, V49, P889, DOI 10.1007/s13524-012-0105-0
+   Shaw BA, 2007, J GERONTOL B-PSYCHOL, V62, pS90, DOI 10.1093/geronb/62.2.S90
+   Singh J. K., 2003, Artificial breeding and reproduction management in buffaloes: compendium of the lectures delivered in the Indian Council of Agricultural Research, Summer School, Central Institute for Research on Buffaloes, Sirsa Road, Hisar, Haryana, India, 10-30 June 2003, P127
+   Small ML, 2019, ANNU REV SOCIOL, V45, P111, DOI 10.1146/annurev-soc-073018-022707
+   Small ML, 2007, SOC SCI QUART, V88, P320, DOI 10.1111/j.1540-6237.2007.00460.x
+   Small ML, 2006, SOC PROBL, V53, P274, DOI 10.1525/sp.2006.53.2.274
+   Small ML, 2015, SOC NETWORKS, V40, P90, DOI 10.1016/j.socnet.2014.09.001
+   Small Mario Luis, 2009, Unanticipated gains
+   Stack C., 1974, ALL OUR KIN STRATEGI
+   Suitor JJ, 1997, SOC NETWORKS, V19, P1, DOI 10.1016/S0378-8733(96)00287-0
+   Suzman R, 2009, J GERONTOL B-PSYCHOL, V64, pI5, DOI 10.1093/geronb/gbp078
+   THOMESE GCF, 2005, CAMBRIDGE HDB AGE AG
+   Tigges LM, 1998, SOCIOL QUART, V39, P53, DOI 10.1111/j.1533-8525.1998.tb02349.x
+   Torres S, 2019, J GERONTOL B-PSYCHOL, V74, P1474, DOI 10.1093/geronb/gby154
+   UMBERSON D, 1992, SOC SCI MED, V34, P907, DOI 10.1016/0277-9536(92)90259-S
+   Van Eijk G., 2010, Unequal networks: Spatial segregation, relationships and inequality in the city
+   von Hippel PT, 2007, SOCIOL METHODOL, V37, P83, DOI 10.1111/j.1467-9531.2007.00180.x
+   Weden MA, 2008, SOC SCI MED, V66, P1256, DOI 10.1016/j.socscimed.2007.11.041
+   Wellman B, 1997, SOC NETWORKS, V19, P27, DOI 10.1016/S0378-8733(96)00289-4
+   WELLMAN B, 1990, AM J SOCIOL, V96, P558, DOI 10.1086/229572
+   Wheaton B, 2003, AM SOCIOL REV, V68, P680, DOI 10.2307/1519758
+   Wilson William Julius., 1987, TRULY DISADVANTAGED
+   Wirth L, 1938, AM J SOCIOL, V44, P1, DOI 10.1086/217913
+   Wodtke GT, 2011, AM SOCIOL REV, V76, P713, DOI 10.1177/0003122411420816
+   Yen IH, 2009, AM J PREV MED, V37, P455, DOI 10.1016/j.amepre.2009.06.022
+   Zettel LA, 2004, PSYCHOL AGING, V19, P433, DOI 10.1037/0882-7974.19.3.433
+NR 110
+TC 1
+Z9 1
+U1 3
+U2 13
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD MAY
+PY 2023
+VL 73
+BP 114
+EP 129
+DI 10.1016/j.socnet.2023.01.003
+EA FEB 2023
+PG 16
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 8W8VR
+UT WOS:000931603800001
+PM 36960419
+OA Bronze, Green Accepted
+DA 2024-11-22
+ER
+
+PT J
+AU González-Gordon, L
+   Porphyre, T
+   Muwonge, A
+   Nantima, N
+   Ademun, R
+   Ochwo, S
+   Mwiine, NF
+   Boden, L
+   Muhanguzi, D
+   Bronsvoort, BMD
+AF Gonzalez-Gordon, Lina
+   Porphyre, Thibaud
+   Muwonge, Adrian
+   Nantima, Noelina
+   Ademun, Rose
+   Ochwo, Sylvester
+   Mwiine, Norbert Frank
+   Boden, Lisa
+   Muhanguzi, Dennis
+   Bronsvoort, Barend Mark de C.
+TI Identifying target areas for risk-based surveillance and control of
+   transboundary animal diseases: a seasonal analysis of slaughter and
+   live-trade cattle movements in Uganda
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID NETWORK; DYNAMICS
+AB Animal movements are a major driver for the spread of Transboundary Animal Diseases (TADs). These movements link populations that would otherwise be isolated and hence create opportunities for susceptible and infected individuals to meet. We used social network analysis to describe the seasonal network structure of cattle movements in Uganda and unravel critical network features that identify districts or sub-regions for targeted risk-based surveillance and intervention. We constructed weighted, directed networks based on 2019 between-district cattle movements using official livestock mobility data; the purpose of the movement ('slaughter' vs. 'live trade') was used to subset the network and capture the risks more reliably. Our results show that cattle trade can result in local and long-distance disease spread in Uganda. Seasonal variability appears to impact the structure of the network, with high heterogeneity of node and edge activity identified throughout the seasons. These observations mean that the structure of the live trade network can be exploited to target influential district hubs within the cattle corridor and peripheral areas in the south and west, which would result in rapid network fragmentation, reducing the contact structure-related trade risks. Similar exploitable features were observed for the slaughter network, where cattle traffic serves mainly slaughter hubs close to urban centres along the cattle corridor. Critically, analyses that target the complex livestock supply value chain offer a unique framework for understanding and quantifying risks for TADs such as Foot-and-Mouth disease in a land-locked country like Uganda. These findings can be used to inform the development of risk-based surveillance strategies and decision making on resource allocation. For instance, vaccine deployment, biosecurity enforcement and capacity building for stakeholders at the local community and across animal health services with the potential to limit the socio-economic impact of outbreaks, or indeed reduce their frequency.
+C1 [Gonzalez-Gordon, Lina; Muwonge, Adrian; Bronsvoort, Barend Mark de C.] Univ Edinburgh, Roslin Inst Royal Dick Sch Vet Studies, Epidemiology Econ & Risk Assessment EERA Grp, Easter Bush, Midlothian EH25 9RG, Scotland.
+   [Gonzalez-Gordon, Lina; Boden, Lisa] Univ Edinburgh, Global Acad Agr & Food Syst, Royal Dick Sch Vet Studies, Edinburgh EH25 9RG, Midlothian, Scotland.
+   [Porphyre, Thibaud] Univ Claude Bernard Lyon 1, Lab Biometrie & Biol Evolut, CNRS, UMR 5558,VetAgro Sup, F-69622 Marcy lEtoile, France.
+   [Muwonge, Adrian] Univ Edinburgh, Roslin Inst Royal Dick Sch Vet Studies, Digital One Hlth Lab, Easter Bush, Edinburgh EH25 9RG, Midlothian, Scotland.
+   [Nantima, Noelina; Ademun, Rose] Minist Agr Anim Ind & Fisheries, Dept Anim Hlth, Entebbe, Uganda.
+   [Ochwo, Sylvester] Univ Minnesota, Coll Vet Med, Ctr Anim Hlth & Food Safety, St Paul, MN 55108 USA.
+   [Mwiine, Norbert Frank; Muhanguzi, Dennis] Makerere Univ, Coll Vet Med, Dept Biomol Resources & Biolab Sci BBS, Kampala, Uganda.
+C3 UK Research & Innovation (UKRI); Biotechnology and Biological Sciences
+   Research Council (BBSRC); Roslin Institute; University of Edinburgh;
+   University of Edinburgh; Centre National de la Recherche Scientifique
+   (CNRS); Universite Claude Bernard Lyon 1; VetAgro Sup; University of
+   Edinburgh; UK Research & Innovation (UKRI); Biotechnology and Biological
+   Sciences Research Council (BBSRC); Roslin Institute; University of
+   Minnesota System; University of Minnesota Twin Cities; Makerere
+   University
+RP González-Gordon, L (corresponding author), Univ Edinburgh, Roslin Inst Royal Dick Sch Vet Studies, Epidemiology Econ & Risk Assessment EERA Grp, Easter Bush, Midlothian EH25 9RG, Scotland.; González-Gordon, L (corresponding author), Univ Edinburgh, Global Acad Agr & Food Syst, Royal Dick Sch Vet Studies, Edinburgh EH25 9RG, Midlothian, Scotland.
+EM lina.gonzalez@ed.ac.uk
+RI ADRIAN, MUWONGE/KFB-8385-2024; Muhanguzi, Dennis/AAV-2887-2020;
+   Porphyre, Thibaud/N-7581-2018
+OI Boden, Lisa/0000-0002-9317-4741; Muhanguzi, Dennis/0000-0001-5458-8530;
+   Mwiine, Frank/0000-0002-8434-4710
+FU LGG is supported by the University of Edinburgh through the
+   Principalapos;s Career Development and the Edinburgh Global
+   Scholarships. AM is a Chancellor's Fellow at the Roslin Institute and
+   his time was paid for by core funding, and as a Future leader fel;
+   University of Edinburgh through the Principalapos;s Career Development
+   [BB/P007767/1]; Edinburgh Global Scholarships - BBSRC; Welcome Trust
+   ISSF3; French National Research Agency [ANR-16-IDEX-0005]; Boehringer
+   Ingelheim Animal Health France; Industrial Chair in Veterinary Public
+   Health, as part of the VPH Hub in Lyon [BBS/E/RL/230002D]; BBSRC
+   Institute Strategic Program Grant
+FX LGG is supported by the University of Edinburgh through the Principal &
+   apos;s Career Development and the Edinburgh Global Scholarships. AM is a
+   Chancellor's Fellow at the Roslin Institute and his time was paid for by
+   core funding, and as a Future leader fellow funded by BBSRC
+   (BB/P007767/1) and Welcome Trust ISSF3 (Welcome Trust ISSF3). TP would
+   like to thank the French National Research Agency and Boehringer
+   Ingelheim Animal Health France for support through the IDEXLYON project
+   (ANR-16-IDEX-0005) and the Industrial Chair in Veterinary Public Health,
+   as part of the VPH Hub in Lyon. MB is supported by the BBSRC Institute
+   Strategic Program Grant (BBS/E/RL/230002D).
+CR Adamchick J, 2021, VIRUSES-BASEL, V13, DOI 10.3390/v13122407
+   Adamchick J, 2021, VIRUSES-BASEL, V13, DOI 10.3390/v13112112
+   Aklilu Y., 2017, Livestock trade in Karamoja, Uganda: An update of market dynamics and trends
+   Albert R, 2000, NATURE, V406, P378, DOI 10.1038/35019019
+   Alex N., 2013, African Journal of Environmental Science and Technology, V7, P770
+   Amprako L, 2021, SUSTAINABILITY-BASEL, V13, DOI 10.3390/su13010171
+   Ayoade F, 2021, SCI REP-UK, V11, DOI 10.1038/s41598-021-93347-w
+   Bett B., 2015, Preliminary report
+   Bhih A, 2020, J SUPERCOMPUT, V76, P226, DOI 10.1007/s11227-019-03018-x
+   Birungi D, 2021, J ENVIRON PUBLIC HEA, V2021, DOI 10.1155/2021/8881191
+   Chaters GL, 2019, PHILOS T R SOC B, V374, DOI 10.1098/rstb.2018.0264
+   Chenais E, 2019, BMC VET RES, V15, DOI 10.1186/s12917-019-2005-7
+   Chiuya T, 2021, TRANSBOUND EMERG DIS, V68, P2429, DOI 10.1111/tbed.13911
+   Ciccolini M, 2014, P NATL ACAD SCI USA, V111, P2271, DOI 10.1073/pnas.1308062111
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Clemmons EA, 2021, ANIMALS-BASEL, V11, DOI 10.3390/ani11072039
+   Dairy Development Authority, 2021, Annual report FY 2020/2021
+   Delgado AH, 2014, PREV VET MED, V117, P518, DOI 10.1016/j.prevetmed.2014.09.010
+   Dubé C, 2009, TRANSBOUND EMERG DIS, V56, P73, DOI 10.1111/j.1865-1682.2008.01064.x
+   Ekwem D, 2021, SCI REP-UK, V11, DOI 10.1038/s41598-021-95706-z
+   FAO, 2018, Africa Sustainable Livestock 2050 (ASL 2050), P1
+   Fortunato S, 2010, PHYS REP, V486, P75, DOI 10.1016/j.physrep.2009.11.002
+   Fournie G, 2013, P NATL ACAD SCI USA, V110, P9177, DOI 10.1073/pnas.1220815110
+   Fredrickson MM, 2019, SOC NETWORKS, V59, P171, DOI 10.1016/j.socnet.2019.08.001
+   Gerken KN, 2022, ONE HEALTH-AMSTERDAM, V15, DOI 10.1016/j.onehlt.2022.100457
+   Green E, 2015, REG FED STUD, V25, P491, DOI 10.1080/13597566.2015.1114925
+   Gunasekara U, 2021, VIRUSES-BASEL, V13, DOI 10.3390/v13112203
+   Hasahya E, 2023, FRONT VET SCI, V10, DOI 10.3389/fvets.2023.1095293
+   Huang W, 2007, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2007/01/P01014
+   Humphries MD, 2008, PLOS ONE, V3, DOI 10.1371/journal.pone.0002051
+   Ilukor J, 2022, PASTORALISM, V12, DOI 10.1186/s13570-022-00230-y
+   Innocent GT, 2017, FRONT VET SCI, V4, DOI 10.3389/fvets.2017.00065
+   Jahel C, 2020, SCI REP-UK, V10, DOI 10.1038/s41598-020-65132-8
+   Kerfua SD, 2018, ONDERSTEPOORT J VET, V85, DOI 10.4102/ojyr.v85i1.1528
+   Kiss IZ, 2006, J R SOC INTERFACE, V3, P669, DOI 10.1098/rsif.2006.0129
+   Kyeyamwa H, 2008, J INT FOOD AGRIBUS M, V20, P59, DOI 10.1080/08974430802355523
+   Lentz HHK, 2011, PREV VET MED, V98, P176, DOI 10.1016/j.prevetmed.2010.10.011
+   Lentz HHK, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0155196
+   MAAIF-Ministry of Agriculture Animal Industry and Fisheries, 2000, The Animal Diseases Act
+   Manly B., 2005, Multivariable Statistical Methods: A Primer
+   Martínez-López B, 2009, TRANSBOUND EMERG DIS, V56, P109, DOI 10.1111/j.1865-1682.2009.01073.x
+   Ministry of Local Government Uganda, 2019, Ministry of Local Government Fact Sheet
+   Motta P, 2018, BMC VET RES, V14, DOI 10.1186/s12917-018-1515-z
+   Motta P, 2017, SCI REP-UK, V7, DOI 10.1038/srep43932
+   Mugezi I, 2020, REV SCI TECH OIE, V39, P847, DOI 10.20506/rst.39.3.3182
+   Mulabbi EN, 2013, J S AFR VET ASSOC, V84, DOI 10.4102/jsava.v84i1.922
+   Munsey A, 2022, PATHOGENS, V11, DOI 10.3390/pathogens11050524
+   Munsey A, 2021, MOL ECOL, V30, P3815, DOI 10.1111/mec.15991
+   Muwonge A, 2023, FRONT DIGIT HEALTH, V5, DOI 10.3389/fdgth.2023.1199635
+   Mwiine FN, 2010, TRANSBOUND EMERG DIS, V57, P365, DOI 10.1111/j.1865-1682.2010.01157.x
+   Ndumu DB, 2021, BMC VET RES, V17, DOI 10.1186/s12917-021-02867-0
+   Nicolas G, 2018, PLOS ONE, V13, DOI 10.1371/journal.pone.0199547
+   Ochwo S, 2020, BMC VET RES, V16, DOI 10.1186/s12917-020-02288-5
+   Ochwo S, 2018, BMC VET RES, V14, DOI 10.1186/s12917-018-1503-3
+   Okello WO, 2021, FRONT VET SCI, V8, DOI 10.3389/fvets.2021.611141
+   Okello WO, 2021, FRONT VET SCI, V8, DOI 10.3389/fvets.2021.611132
+   Oldham S, 2019, PLOS ONE, V14, DOI 10.1371/journal.pone.0220061
+   Piraveenan M, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0053095
+   Porphyre T, 2020, TRANSBOUND EMERG DIS, V67, DOI 10.1111/tbed.13459
+   Sartori F, 2022, SCI REP-UK, V12, DOI 10.1038/s41598-022-24652-1
+   Singer BJ, 2022, J R SOC INTERFACE, V19, DOI 10.1098/rsif.2021.0709
+   Ssemadaali MA., 2017, Pan Afr. Med. J, V27, P2
+   Tadesse B, 2019, EPIDEMIOL INFECT, V147, DOI [10.1017/s0950268819000803, 10.1017/S0950268819000803]
+   The World Bank Group, 2020, Climate Risk Profile: Uganda
+   Turner MD, 2019, PASTORALISM, V9, DOI 10.1186/s13570-019-0150-z
+   UBOS, 2021, Meat production in metric tons, 2013-2017
+   USAID, 2022, Livestock in Karamoja: Improving markets and veterinary services
+   Valdano E, 2015, PLOS COMPUT BIOL, V11, DOI 10.1371/journal.pcbi.1004152
+   Valerio V. C., 2020, The structure of livestock trade in West Africa, DOI [10.1787/f8c71341-en, DOI 10.1787/F8C71341-EN]
+   Van Campenhout B., 2019, IFPRI Discuss. Papers, DOI [10.2499/p15738coll2.133502, DOI 10.2499/P15738COLL2.133502]
+   VanderWaal K, 2017, ROY SOC OPEN SCI, V4, DOI 10.1098/rsos.170808
+   Vial F, 2019, FRONT VET SCI, V5, DOI 10.3389/fvets.2018.00332
+   Vudriko P, 2021, FRONT VET SCI, V8, DOI 10.3389/fvets.2021.721800
+   Watts D. J., 1998, NATURE, V393, P440, DOI [DOI 10.1038/30918, DOI 10.1515/9781400841356.301, 10.1038/30918]
+   Wild H, 2020, TROP MED INT HEALTH, V25, P1332, DOI 10.1111/tmi.13481
+   World Organization for Animal Health-WOAH, 2018, Eastern African Veterinary Authorities Update Roadmap for regional FMD control in Eastern Africa countries between 2018 and 2025, using the principles of the Progressive Control Pathway for FMD (FMD-PCP)
+NR 76
+TC 0
+Z9 0
+U1 0
+U2 5
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD OCT 30
+PY 2023
+VL 13
+IS 1
+AR 18619
+DI 10.1038/s41598-023-44518-4
+PG 16
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA W9SV2
+UT WOS:001094965500033
+PM 37903814
+OA gold, Green Published
+DA 2024-11-22
+ER

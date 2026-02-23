@@ -1,0 +1,594 @@
+
+PT J
+AU Pagan, N
+   Mei, WJ
+   Li, C
+   Dörfler, F
+AF Pagan, Nicolo
+   Mei, Wenjun
+   Li, Cheng
+   Doerfler, Florian
+TI A meritocratic network formation model for the rise of social media
+   influencers
+SO NATURE COMMUNICATIONS
+LA English
+DT Article
+ID BEHAVIOR
+AB Many of today's most used online social networks such as Instagram, YouTube, Twitter, or Twitch are based on User-Generated Content (UGC). Thanks to the integrated search engines, users of these platforms can discover and follow their peers based on the UGC and its quality. Here, we propose an untouched meritocratic approach for directed network formation, inspired by empirical evidence on Twitter data: actors continuously search for the best UGC provider. We theoretically and numerically analyze the network equilibria properties under different meeting probabilities: while featuring common real-world networks properties, e.g., scaling law or small-world effect, our model predicts that the expected in-degree follows a Zipf's law with respect to the quality ranking. Notably, the results are robust against the effect of recommendation systems mimicked through preferential attachment based meeting approaches. Our theoretical results are empirically validated against large data sets collected from Twitch, a fast-growing platform for online gamers.
+   Dynamical development process of various social network platforms shows emergence and transformation of user communities. The authors model social network formation processes considering the meritocratic perspective, where users make their decisions based on the user-generated content.
+C1 [Pagan, Nicolo; Mei, Wenjun; Li, Cheng; Doerfler, Florian] Swiss Fed Inst Technol, Automat Control Lab, Zurich, Switzerland.
+   [Pagan, Nicolo] Univ Zurich, Social Comp Grp, Zurich, Switzerland.
+   [Pagan, Nicolo] Swiss Fed Inst Technol, Social Networks Lab, Zurich, Switzerland.
+   [Mei, Wenjun] Peking Univ, Dept Mech & Engn Sci, Beijing, Peoples R China.
+C3 Swiss Federal Institutes of Technology Domain; ETH Zurich; University of
+   Zurich; Swiss Federal Institutes of Technology Domain; ETH Zurich;
+   Peking University
+RP Mei, WJ (corresponding author), Swiss Fed Inst Technol, Automat Control Lab, Zurich, Switzerland.; Mei, WJ (corresponding author), Peking Univ, Dept Mech & Engn Sci, Beijing, Peoples R China.
+EM mei@pku.edu.cn
+OI Mei, Wenjun/0000-0001-9575-1496; Li, Cheng/0000-0002-9016-5874; Pagan,
+   Nicolo/0000-0003-0071-7856
+FU ETH Zurich; National Natural Science Foundation of China [72131001]
+FX The authors gratefully acknowledge financial support from ETH Zurich and
+   National Natural Science Foundation of China under the grant number
+   72131001.
+CR Adamic L. A., ZIPF POWER LAWS PARE
+   Adamic LA, 2003, SOC NETWORKS, V25, P211, DOI 10.1016/S0378-8733(03)00009-1
+   [Anonymous], 2010, P IEEE S COMP COMM J
+   Axtell RL, 2001, SCIENCE, V293, P1818, DOI 10.1126/science.1062081
+   Bakshy E., 2012, P 21 INT C WORLD WID, P519, DOI DOI 10.1145/2187836.2187907
+   Bandiera O, 2006, ECON J, V116, P869, DOI 10.1111/j.1468-0297.2006.01115.x
+   Barabási AL, 2003, SCI AM, V288, P60, DOI 10.1038/scientificamerican0503-60
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Broido AD, 2019, NAT COMMUN, V10, DOI 10.1038/s41467-019-08746-5
+   Caldarelli G, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.258702
+   Caldarelli Guido., 2007, LARGE SCALE STRUCTUR, V2
+   Castellano C, 2009, REV MOD PHYS, V81, P591, DOI 10.1103/RevModPhys.81.591
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Conover M.D., 2011, P INT AAAI C WEB SOC, P89
+   Cristelli M, 2012, SCI REP-UK, V2, DOI 10.1038/srep00812
+   Dewey C., INSIDE WORLD INSTAFA
+   Duffy B. E., 2020, INT ENCY GENDER MEDI, P1
+   Easley D., 2010, Networks, Crowds, and Markets, V81
+   Erdos P., 1959, PUBL MATH-PARIS, V6, P290
+   Fagiolo G, 2007, PHYS REV E, V76, DOI 10.1103/PhysRevE.76.026107
+   Ferrara Emilio., 2014, Proceedings of the 25th ACM conference on Hypertext and social media, P24, DOI DOI 10.1145/2631775.2631808
+   Gabaix X, 2009, ANNU REV ECON, V1, P255, DOI 10.1146/annurev.economics.050708.142940
+   Garretson O., 2014, P SIGCHI C HUM FACT
+   Ghosh A., 2011, P 20 INT C WORLD WID, P137, DOI [DOI 10.1145/1963405.1963428, 10.1145/1963405.1963428]
+   Ghosh A, 2012, ACM SIGECOM EXCH, V11, P16
+   GIBRAT R., 1931, Les inegalits economiques
+   Gillin P., 2007, NEW INFLUENCERS MARK
+   Goh KY, 2013, INFORM SYST RES, V24, P88, DOI 10.1287/isre.1120.0469
+   Grabowski A, 2009, EUR PHYS J B, V69, P605, DOI 10.1140/epjb/e2009-00185-4
+   Grabowski A, 2008, EUR PHYS J B, V66, P107, DOI 10.1140/epjb/e2008-00379-2
+   Hall W, 2018, COMPUTER, V51, P18, DOI 10.1109/MC.2018.1151005
+   Jaccard P, 1901, Bull Soc Vaud Sci Nat, V37, P241, DOI DOI 10.5169/SEALS-266440
+   Jackson MO, 2005, GROUP FORMATION IN ECONOMICS: NETWORKS, CLUBS, AND COALITIONS, P11, DOI 10.1017/CBO9780511614385.002
+   Jackson MO, 1996, J ECON THEORY, V71, P44, DOI 10.1006/jeth.1996.0108
+   Jackson MO, 2008, SOCIAL AND ECONOMIC NETWORKS, P1
+   Jin SV, 2019, MARK INTELL PLAN, V37, P567, DOI 10.1108/MIP-09-2018-0375
+   Kaplan AM, 2010, BUS HORIZONS, V53, P59, DOI 10.1016/j.bushor.2009.09.003
+   Kong JS, 2008, P NATL ACAD SCI USA, V105, P13724, DOI 10.1073/pnas.0805921105
+   Latora V., 2017, COMPLEX NETWORKS PRI
+   Li NN, 2008, PHYSICA A, V387, P6391, DOI 10.1016/j.physa.2008.07.021
+   Maher CA, 2014, J MED INTERNET RES, V16, DOI 10.2196/jmir.2952
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Myers SA, 2014, WWW'14 COMPANION: PROCEEDINGS OF THE 23RD INTERNATIONAL CONFERENCE ON WORLD WIDE WEB, P493, DOI 10.1145/2567948.2576939
+   Obar JA, 2015, TELECOMMUN POLICY, V39, P745, DOI 10.1016/j.telpol.2015.07.014
+   Pagan N., 2020, MERITOCRATIC NETWORK, DOI [10.3929/ethz-b-000511049, DOI 10.3929/ETHZ-B-000511049]
+   Pagan N., 2021, MERITOCRATIC NETWORK, DOI [10.3929/ethz-b-000512497, DOI 10.3929/ETHZ-B-000512497]
+   Pagan N., 2020, MERITOCRATIC NETWORK, DOI [10.3929/ethz-b-000511065, DOI 10.3929/ETHZ-B-000511065]
+   Pagan N, 2019, NAT COMMUN, V10, DOI 10.1038/s41467-019-13148-8
+   Rawashdeh A., 2015, MAICS, P153
+   Robertson M., 2018, Instagram Marketing: How to Grow Your Instagram Page And Gain Millions of Followers Quickly With Step-by-Step Social Media Marketing Strategies
+   Robertson S.P., 2009, The Proceedings of the 10th International Digital Government Research Conference, P6
+   Ryu MH, 2009, COMPUT HUM BEHAV, V25, P619, DOI 10.1016/j.chb.2008.08.013
+   SIMON HA, 1955, BIOMETRIKA, V42, P425
+   Snijders TAB, 2001, SOCIOL METHODOL, V31, P361, DOI 10.1111/0081-1750.00099
+   Snijders TAB, 1996, J MATH SOCIOL, V21, P149, DOI 10.1080/0022250X.1996.9990178
+   Subrahmanian VS, 2016, COMPUTER, V49, P38, DOI 10.1109/MC.2016.183
+   Teng SY, 2015, PROCEEDINGS OF THE 2015 IEEE/ACM INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING (ASONAM 2015), P266, DOI 10.1145/2808797.2809416
+   Vijaymeena M. K., 2016, Machine Learning and Applications, V3, P19, DOI [DOI 10.5121/MLAIJ.2016.3103, DOI 10.5121/MLAIJ2016.3103]
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Zipf GeorgeK, 2016, HUMAN BEHAV PRINCIPL
+NR 60
+TC 10
+Z9 11
+U1 6
+U2 43
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+EI 2041-1723
+J9 NAT COMMUN
+JI Nat. Commun.
+PD NOV 30
+PY 2021
+VL 12
+IS 1
+AR 6865
+DI 10.1038/s41467-021-27089-8
+PG 12
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA XG0KL
+UT WOS:000724450600007
+PM 34848698
+OA Green Published, gold, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Jung, S
+   Kim, K
+   Lee, C
+AF Jung, Sungdo
+   Kim, Keungoui
+   Lee, Changjun
+TI The nature of ICT in technology convergence: A knowledge-based network
+   analysis
+SO PLOS ONE
+LA English
+DT Article
+ID ECONOMIC-GROWTH; RELATEDNESS; INFORMATION; FUSION; CENTRALITY;
+   DIFFUSION; DYNAMICS; STRATEGY; INDUSTRY
+AB This study aims to understand the nature of information and communication technology in technology convergence. We form a knowledge network by applying social network theories to Korean patent data collected from the European Patent Organization. A knowledge network consists of nodes representing technology sectors identified by their International Patent Classification codes and edges that link International Patent Classification codes when they appear concurrently in a patent. We test the proposed hypotheses using four indices (degree centrality, E-I index, entropy index, and clustering coefficient). The results show that information and communication technology is easily attached but tends to converge with similar technology and has the greatest influence on technology convergence over other technologies. This study is expected to help practitioners and policymakers understand the structure and interaction mechanisms of technology from a systematic perspective and improve national-level technology policies.
+C1 [Jung, Sungdo] Korea Construct Infonet, Seoul, South Korea.
+   [Kim, Keungoui] Univ Coll Dublin, Spatial Dynam Lab, Sch Architecture Planning & Environm Policy, Dublin, Ireland.
+   [Lee, Changjun] Hanyang Univ ERICA, Media & Social Informat, Ansan, South Korea.
+C3 University College Dublin; Hanyang University
+RP Lee, C (corresponding author), Hanyang Univ ERICA, Media & Social Informat, Ansan, South Korea.
+EM changjunlee@hanyang.ac.kr
+RI Changjun, Lee/AAG-3168-2020; Kim, Keungoui/Y-2668-2019
+OI LEE, Changjun/0000-0002-8859-9796; Kim, Keungoui/0000-0002-0839-8813
+FU Hanyang University [HY-2021-G]
+FX CJL would like to acknowledge the support by the research fund of
+   Hanyang University (HY-2021-G). The funders had no role in study design,
+   data collection and analysis, decision to publish, or preparation of the
+   manuscript. The specific roles of these authors are articulated in the
+   `author contributions' section.
+CR [Anonymous], 1992, CONT SOCIOLOGICAL TH
+   Antonelli Cristiano, 2010, Structural Change and Economic Dynamics, V21, P50, DOI 10.1016/j.strueco.2009.12.001
+   ARTHUR WB, 1989, ECON J, V99, P116, DOI 10.2307/2234208
+   Avila-Robinson A, 2013, TECHNOL FORECAST SOC, V80, P1071, DOI 10.1016/j.techfore.2012.07.012
+   Basu S, 2007, GER ECON REV, V8, P146, DOI 10.1111/j.1468-0475.2007.00402.x
+   Breschi S, 2003, RES POLICY, V32, P69, DOI 10.1016/S0048-7333(02)00004-5
+   Caviggioli F, 2016, TECHNOVATION, V55-56, P22, DOI 10.1016/j.technovation.2016.04.003
+   Choi C, 2007, TECHNOL FORECAST SOC, V74, P1296, DOI 10.1016/j.techfore.2006.10.008
+   Choi J, 2014, TECHNOL FORECAST SOC, V83, P170, DOI 10.1016/j.techfore.2013.07.004
+   Choudrie J, 2003, J INF TECHNOL-UK, V18, P281, DOI 10.1080/0268396032000150816
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Corrocher N, 2007, RES POLICY, V36, P418, DOI 10.1016/j.respol.2007.01.002
+   Curran CS, 2011, TECHNOL FORECAST SOC, V78, P256, DOI 10.1016/j.techfore.2010.06.021
+   DAVID PA, 1985, AM ECON REV, V75, P332
+   de Solla Price D., 1989, MAPPING SUBJECT CATE
+   DOSI G, 1994, J MATH ECON, V23, P1, DOI 10.1016/0304-4068(94)90032-9
+   Everett MG, 2012, SOC NETWORKS, V34, P562, DOI 10.1016/j.socnet.2012.06.002
+   Fan JPH, 2000, J BUS, V73, P629, DOI 10.1086/209657
+   Fleming L, 2001, MANAGE SCI, V47, P117, DOI 10.1287/mnsc.47.1.117.10671
+   Gambardella A, 1998, RES POLICY, V27, P445, DOI 10.1016/S0048-7333(98)00062-6
+   Gemba K, 2001, RES POLICY, V30, P1165, DOI 10.1016/S0048-7333(00)00140-2
+   Genet C, 2012, TECHNOVATION, V32, P205, DOI 10.1016/j.technovation.2011.10.007
+   Geum Y, 2012, ETRI J, V34, P439, DOI 10.4218/etrij.12.1711.0010
+   Girvan M, 2002, P NATL ACAD SCI USA, V99, P7821, DOI 10.1073/pnas.122653799
+   Granstrand O, 1998, RES POLICY, V27, P465, DOI 10.1016/S0048-7333(98)00067-5
+   Hacklin F, 2009, TECHNOL FORECAST SOC, V76, P723, DOI 10.1016/j.techfore.2009.03.003
+   Han EJ, 2016, TECHNOL FORECAST SOC, V106, P1, DOI 10.1016/j.techfore.2016.02.003
+   Han YJ, 2006, WORLD PAT INF, V28, P235, DOI 10.1016/j.wpi.2006.01.015
+   Hansen MT, 1999, ADMIN SCI QUART, V44, P82, DOI 10.2307/2667032
+   Hwang I, 2020, PLOS ONE, V15, DOI 10.1371/journal.pone.0228616
+   Johnson DK., OECD SCI TECHNOLOGY, DOI [10.1787/521138670407.2002, DOI 10.1787/521138670407.2002]
+   Joo SH, 2010, SCIENTOMETRICS, V83, P435, DOI 10.1007/s11192-009-0108-9
+   Jung HJ, 2013, TELECOMMUN POLICY, V37, P292, DOI 10.1016/j.telpol.2012.06.006
+   Kalthaus M, 2020, J EVOL ECON, V30, P643, DOI 10.1007/s00191-020-00661-z
+   Karvonen M., 2011 P PICMET 11 TEC, V2011, P1
+   Kim K., 2013, PATTERNS INNOVATION
+   Kim K, 2020, SCI PUBL POLICY, V47, P514, DOI 10.1093/scipol/scaa031
+   Kim MS, 2012, PROCD SOC BEHV, V40, P657, DOI 10.1016/j.sbspro.2012.03.245
+   Kim TS, 2020, TECHNOL FORECAST SOC, V157, DOI 10.1016/j.techfore.2020.120095
+   Ko N, 2014, EXPERT SYST APPL, V41, P1955, DOI 10.1016/j.eswa.2013.08.091
+   KODAMA F, 1992, HARVARD BUS REV, V70, P70
+   KRACKHARDT D, 1988, SOC PSYCHOL QUART, V51, P123, DOI 10.2307/2786835
+   Lee C., 2019, GLOBAL ENCY PUBLIC A, P1, DOI [10.1007/978-3-319-31816-5_3801-1, DOI 10.1007/978-3-319-31816-5_3801-1]
+   Lee C, 2019, INFORM PROCESS MANAG, V56, P1576, DOI 10.1016/j.ipm.2018.09.007
+   Lee S, 2009, TELECOMMUN POLICY, V33, P253, DOI 10.1016/j.telpol.2009.02.004
+   Luan CJ, 2013, SCIENTOMETRICS, V97, P461, DOI 10.1007/s11192-013-1057-x
+   Makri M, 2010, STRATEGIC MANAGE J, V31, P602, DOI 10.1002/smj.829
+   Miyazaki K., 1994, IND CORP CHANGE, V3, P631, DOI DOI 10.1093/ICC/3.3.631
+   NELSON RR, 1977, RES POLICY, V6, P36, DOI 10.1016/0048-7333(77)90029-4
+   Newman MEJ, 2002, P NATL ACAD SCI USA, V99, P2566, DOI 10.1073/pnas.012582999
+   No HJ, 2010, TECHNOL FORECAST SOC, V77, P63, DOI 10.1016/j.techfore.2009.06.006
+   Opsahl T, 2010, SOC NETWORKS, V32, P245, DOI 10.1016/j.socnet.2010.03.006
+   PALEPU K, 1985, STRATEGIC MANAGE J, V6, P239, DOI 10.1002/smj.4250060305
+   Rosenberg N., 1976, Perspectives on technology, DOI [10.1017/CBO9780511561313, DOI 10.1017/CBO9780511561313]
+   Saba CS, 2020, TELECOMMUN POLICY, V44, DOI 10.1016/j.telpol.2020.102010
+   García-Muñiz AS, 2014, TELECOMMUN POLICY, V38, P360, DOI 10.1016/j.telpol.2013.12.003
+   Schmoch Ulrich., 2008, Final Report to the World Intellectial Property Office (WIPO)
+   Schumpeter J.A., 1934, THEORY EC DEV INQUIR, P244
+   Shin J, 2007, INF ECON POLICY, V19, P249, DOI 10.1016/j.infoecopol.2007.01.003
+   Shin J, 2010, TECHNOVATION, V30, P612, DOI 10.1016/j.technovation.2010.04.004
+   Siegel S., 1988, Nonparametric statistics for the behavioural sciences, V2nd, P144
+   TEECE DJ, 1994, J ECON BEHAV ORGAN, V23, P1, DOI 10.1016/0167-2681(94)90094-9
+   Tsai WP, 2001, ACAD MANAGE J, V44, P996, DOI 10.5465/3069443
+   Xing W, 2011, TELECOMMUN POLICY, V35, P301, DOI 10.1016/j.telpol.2011.02.003
+NR 64
+TC 8
+Z9 8
+U1 4
+U2 85
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JUL 9
+PY 2021
+VL 16
+IS 7
+AR e0254424
+DI 10.1371/journal.pone.0254424
+PG 20
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA TK6YI
+UT WOS:000674301400059
+PM 34242332
+OA gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Wäsche, H
+   Wolbring, L
+   Woll, A
+AF Waesche, Hagen
+   Wolbring, Laura
+   Woll, Alexander
+TI Physical activity promotion in an urban district: Analyzing the
+   mechanisms of interorganizational cooperation
+SO PLOS ONE
+LA English
+DT Article
+ID SOCIAL NETWORK ANALYSIS; P-ASTERISK MODELS; PUBLIC-HEALTH; COMMUNITY
+   COALITIONS; SPORT; COLLABORATION; PARTNERSHIPS; PARTICIPATION;
+   PERSPECTIVE; GOVERNANCE
+AB Past research has identified the importance of cooperation among community-based organizations from different sectors to address public health problems such as insufficient physical activity. However, little is known about how and why interorganizational cooperation occurs. The present study sought to analyze the structure and emergent patterns of interorganizational cooperation within a network promoting physical activity based in an urban district neighborhood of a city in Southwestern Germany. Survey data on cooperative relations among 61 network organizations and organizational attributes (e.g., possession of sport facilities) were collected. Social network analysis was applied to examine network properties and exponential random graph models were estimated to test hypotheses concerning mechanisms and conditions of cooperative tie formation. The results show that the network of cooperation is sparse but characterized by a tendency for cooperation to occur in triangular structures. Other significant mechanisms of cooperative tie formation are preferential attachment, with the community department for education and sports being the most central network actor, and heterophily regarding the cooperation of organizations from different sectors. This study provides valid and reliable findings on conditions of network formation and significant mechanisms of interorganizational cooperation in the field of physical activity promotion. Knowledge about these mechanisms can help to manage networks effectively and efficiently and reveal potentials for improvement and intensification of interorganizational cooperation in both the present and other research areas of health promotion.
+C1 [Waesche, Hagen; Wolbring, Laura; Woll, Alexander] Karlsruhe Inst Technol, Inst Sports & Sports Sci, Karlsruhe, Germany.
+C3 Helmholtz Association; Karlsruhe Institute of Technology
+RP Wolbring, L (corresponding author), Karlsruhe Inst Technol, Inst Sports & Sports Sci, Karlsruhe, Germany.
+EM laura.wolbring@kit.edu
+OI Woll, Alexander/0000-0002-5736-2980; Wolbring, Laura/0000-0001-9596-1119
+FU Ministry of Science, Research and Arts of BadenWurttemberg, a federal
+   state of Germany; Karlsruhe Institute of Technology
+FX The study was funded by the Ministry of Science, Research and Arts of
+   BadenWurttemberg, a federal state of Germany, within a research program
+   to increase the contribution of science to sustainable development that
+   started in 2015
+   (https://mwk.baden-wuerttemberg.de/de/forschung/forschungspolitik/wissen
+   schaft-fuernachhaltigkeit/).We acknowledge support by the
+   KIT-Publication Fund of the Karlsruhe Institute of Technology. The
+   funders had no role in study design, data collection and analysis,
+   decision to publish, or preparation of the manuscript.
+CR Agranoff Robert., 2003, LEVERAGING NETWORKS, DOI 10.1002/jmv.10253
+   An RP, 2017, AM J HEALTH BEHAV, V41, P127, DOI [10.5993/AJHB.41.2.3, 10.5993/ajhb.41.2.3]
+   An Ruopeng, 2017, Prev Med Rep, V6, P294, DOI 10.1016/j.pmedr.2017.03.007
+   [Anonymous], 1978, The external control of organizations: A resource dependence perspective
+   [Anonymous], 2013, Theory, methods, and applications
+   [Anonymous], 1992, Structural holes
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barnes M, 2010, HEALTH PROMOT INT, V25, P238, DOI 10.1093/heapro/daq002
+   Bauman AE, 2012, LANCET, V380, P258, DOI 10.1016/S0140-6736(12)60735-1
+   Bevc CA, 2015, INT J ENV RES PUB HE, V12, P12412, DOI 10.3390/ijerph121012412
+   Bevc CA, 2015, AM J PUBLIC HEALTH, V105, pS230, DOI 10.2105/AJPH.2014.302256
+   Borgatti SP., 2021, ANALYTIC TECHNOLOGIE
+   Borgatti SP., 2018, ANAL SOCIAL NETWORKS
+   Borgatti SP, 2009, SCIENCE, V323, P892, DOI 10.1126/science.1165821
+   Brandes U., 2021, VISONE VISUAL SOCIAL
+   Brownson RC, 2010, J PHYS ACT HEALTH, V7, pS242, DOI 10.1123/jpah.7.s2.s242
+   Buchthal OV, 2013, J PHYS ACT HEALTH, V10, P19, DOI 10.1123/jpah.10.1.19
+   Butterfoss FD, 1996, HEALTH EDUC QUART, V23, P65, DOI 10.1177/109019819602300105
+   Contandriopoulos D., 2016, HEALTHC POLICY, V12
+   de la Haye K, 2010, SOC NETWORKS, V32, P161, DOI 10.1016/j.socnet.2009.09.001
+   Emirbayer M, 1997, AM J SOCIOL, V103, P281, DOI 10.1086/231209
+   Erlhofer S., 2010, NETZWERKANALYSE NETZ, P251
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   Goodreau SM, 2009, DEMOGRAPHY, V46, P103, DOI 10.1353/dem.0.0045
+   Guthold R, 2018, LANCET GLOB HEALTH, V6, pE1077, DOI [10.1016/S2214-109X(18)30357-7, 10.1016/s2214-109x(18)30357-7]
+   Hall JA, 2007, ADDICT BEHAV, V32, P3054, DOI 10.1016/j.addbeh.2007.04.008
+   Hambrick ME, 2019, SPORT MANAG REV, V22, P708, DOI 10.1016/j.smr.2018.12.002
+   Hamer M, 2017, ADV EXP MED BIOL, V999, P3, DOI 10.1007/978-981-10-4307-9_1
+   Hennig M., 2012, Studying Social Networks. A Guide to Empirical Research
+   Jones GJ, 2018, EUR SPORT MANAG Q, V18, P133, DOI 10.1080/16184742.2017.1322625
+   Jones GJ, 2017, J SPORT MANAGE, V31, P148, DOI 10.1123/jsm.2016-0118
+   Kadushin C., 2012, UNDERSTANDING SOCIAL
+   Lasker RD, 2003, J URBAN HEALTH, V80, P14, DOI 10.1093/jurban/jtg014
+   Loitz CC, 2017, BMC PUBLIC HEALTH, V17, DOI 10.1186/s12889-017-4661-5
+   Luke DA, 2007, ANNU REV PUBL HEALTH, V28, P69, DOI 10.1146/annurev.publhealth.28.021406.144132
+   Mays GP, 2010, PREV CHRONIC DIS, V7
+   McCullough J Mac, 2016, BMC Public Health, V16, P566, DOI 10.1186/s12889-016-3194-7
+   MCLEROY KR, 1988, HEALTH EDUC QUART, V15, P351, DOI 10.1177/109019818801500401
+   Meisel Jose D, 2014, Am J Health Promot, V28, pe127, DOI 10.4278/ajhp.120912-QUAN-443
+   Moreno J.L., 1934, NERVOUS MENTAL DIS M
+   Mouttapa M, 2004, ADOLESCENCE, V39, P315
+   Parra DC, 2011, SOC SCI MED, V73, P1365, DOI 10.1016/j.socscimed.2011.08.020
+   POWELL WW, 1990, RES ORGAN BEHAV, V12, P295
+   Provan KG, 2008, J PUBL ADM RES THEOR, V18, P229, DOI 10.1093/jopart/mum015
+   Provan KG, 2005, PUBLIC ADMIN REV, V65, P603, DOI 10.1111/j.1540-6210.2005.00487.x
+   Provan KG, 2001, PUBLIC ADMIN REV, V61, P414, DOI 10.1111/0033-3352.00045
+   Reiner M, 2013, BMC PUBLIC HEALTH, V13, DOI 10.1186/1471-2458-13-813
+   Retrum JH, 2013, HEALTH EDUC BEHAV, V40, p13S, DOI 10.1177/1090198113492759
+   Robins G, 2007, SOC NETWORKS, V29, P192, DOI 10.1016/j.socnet.2006.08.003
+   Robins G, 2007, SOC NETWORKS, V29, P173, DOI 10.1016/j.socnet.2006.08.002
+   Robins G, 2012, POLICY STUD J, V40, P375, DOI 10.1111/j.1541-0072.2012.00458.x
+   Rowe K, 2013, SPORT MANAG REV, V16, P364, DOI 10.1016/j.smr.2012.12.003
+   Sallis JE, 2006, ANNU REV PUBL HEALTH, V27, P297, DOI 10.1146/annurev.publhealth.27.021405.102100
+   Schoen MW, 2014, SOC SCI MED, V123, P90, DOI 10.1016/j.socscimed.2014.10.057
+   Thibault L., 2004, COMMERCIALISATION SP, P22
+   Timm I, 2021, INT J ENV RES PUB HE, V18, DOI 10.3390/ijerph18147306
+   Valente TW, 2007, AM J PUBLIC HEALTH, V97, P880, DOI 10.2105/AJPH.2005.063644
+   Valente TW, 2010, AM J PUBLIC HEALTH, V100, P1319, DOI 10.2105/AJPH.2009.171116
+   Varda D, 2012, AM J PUBLIC HEALTH, V102, P564, DOI 10.2105/AJPH.2011.300286
+   Varda DM, 2012, J PUBLIC HEALTH RES, V1, P170, DOI 10.4081/jphr.2012.e27
+   Varda Danielle M, 2008, J Public Health Manag Pract, V14, pE1, DOI 10.1097/01.PHH.0000333889.60517.46
+   Wäsche H, 2017, EUR J SPORT SOC, V14, P138, DOI 10.1080/16138171.2017.1318198
+   Wäsche H, 2015, SPORT MANAG REV, V18, P542, DOI 10.1016/j.smr.2015.01.003
+   Waitz C., 2017, BERICHTE GEOGRAPHIE, V91, P67
+   Wang P., 2009, MELBOURNE SCH PSYCHO
+   Wasche H, 2019, RES HANDB BUS MANAG, P202
+   Wäsche H, 2021, INT J SPORT MARK SPO, V22, P816, DOI 10.1108/IJSMS-05-2020-0081
+   Wolbring L, 2021, HEALTH RES POLICY SY, V19, DOI 10.1186/s12961-021-00729-7
+   World Health Organization (WHO), 2018, MOR ACT PEOPL HEALTH
+   Yessis J, 2013, HEALTH EDUC BEHAV, V40, p43S, DOI 10.1177/1090198113490724
+NR 70
+TC 6
+Z9 6
+U1 5
+U2 18
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD NOV 15
+PY 2021
+VL 16
+IS 11
+AR e0260053
+DI 10.1371/journal.pone.0260053
+PG 18
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA YZ2IU
+UT WOS:000755305800089
+PM 34780572
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Rodríguez-Pascual, I
+   Gualda, E
+   Morales-Marente, E
+   Palacios-Gálvez, MS
+AF Rodriguez-Pascual, Ivan
+   Gualda, Estrella
+   Morales-Marente, Elena
+   Palacios-Galvez, M. Soledad
+TI Is the Use of Digital Social Networks Associated with Conspiracy
+   Theories? Evidence from Spain's Andalusian Society
+SO REVISTA ESPANOLA DE INVESTIGACIONES SOCIOLOGICAS
+LA English
+DT Article
+DE Mass Media; New Media; Social Networks; Conspiracy Theories
+ID ECHO-CHAMBERS; BELIEFS
+AB This work examines the relationship between the use of social networks and the extent to which populations support certain conspiracy theories, within the context of a Spanish region. Results suggest an association between a higher level of social network use and an increased degree of support for at least 3 of the 4 considered conspiracy theories. Multivariate analysis also reveals that social networking is significant in all cases, but certain sociodemographic, political and psychosocial variables are involved and may play a specific role in each considered case. It has been concluded that follow-up and additional studies are necessary to ensure a greater understanding of this relationship.
+C1 [Rodriguez-Pascual, Ivan] Grp E6 UHU, Huelva, Spain.
+   [Gualda, Estrella] Grp E6, Huelva, Spain.
+   [Gualda, Estrella; Morales-Marente, Elena; Palacios-Galvez, M. Soledad] Ctr Invest Pensamiento Contemporaneo & Innovac De, Huelva, Spain.
+RP Rodríguez-Pascual, I (corresponding author), Grp E6 UHU, Huelva, Spain.
+EM ivan@uhu.es; estrella@uhu.es; elena.morales@dpsi.uhu.es;
+   maria.palacios@dpsi.uhu.es
+RI Pascual, Iván/K-4221-2017; Gualda, Estrella/D-3189-2013
+CR [Anonymous], 2018, SSRN
+   [Anonymous], 2018, POLARIZATION FAKE NE
+   [Anonymous], 2013, GLOBAL RISKS 2013
+   Avaaz, 2019, FAR RIGHT NETW DEC
+   Bessi A, 2016, COMPUT HUM BEHAV, V65, P319, DOI 10.1016/j.chb.2016.08.016
+   Bessi A, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0134641
+   Bessi A, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0118093
+   Bessi A, 2014, LECT NOTES COMPUT SC, V8851, P259, DOI 10.1007/978-3-319-13734-6_18
+   Brotherton R, 2013, FRONT PSYCHOL, V4, DOI 10.3389/fpsyg.2013.00279
+   Bruder M, 2013, FRONT PSYCHOL, V4, DOI 10.3389/fpsyg.2013.00225
+   Butter M., 2014, PLOTS DESIGNS SCHEME
+   Butter M, 2015, DIOGENES, V62, P17, DOI 10.1177/0392192116669289
+   Byford J., 2011, CONSP THEOR CRIT
+   Cardenal AS, 2019, EUR J COMMUN, V34, P360, DOI 10.1177/0267323119844409
+   Cichocka A, 2016, BRIT J PSYCHOL, V107, P556, DOI 10.1111/bjop.12158
+   Claessen FMAP, 2016, PSYCHOSOMATICS, V57, P47, DOI 10.1016/j.psym.2015.09.005
+   Del Vicario M, 2016, SCI REP-UK, V6, DOI 10.1038/srep37825
+   Del Vicario M, 2016, P NATL ACAD SCI USA, V113, P554, DOI 10.1073/pnas.1517441113
+   Douglas KM, 2008, J SOC PSYCHOL, V148, P210, DOI 10.3200/SOCP.148.2.210-222
+   Dubois E, 2018, INFORM COMMUN SOC, V21, P729, DOI 10.1080/1369118X.2018.1428656
+   Glensli M, 2018, IEEE T COMPUT SOC SY, V5, P1071, DOI 10.1109/TCSS.2018.2881071
+   Gualda E, 2019, COMMUN SOC-SPAIN, V32, P179, DOI 10.15581/003.32.1.179-194
+   High-Level Expert Group on Fake News and Disinformation, 2018, IND HIGH LEV GROUP F
+   Introne Joshua, 2017, P 8 INT C SOC MED SO, P1, DOI [10.1145/3097286.3097297, DOI 10.1145/3097286.3097297]
+   Jolley D, 2014, BRIT J PSYCHOL, V105, P35, DOI 10.1111/bjop.12018
+   Kunda Z., 1999, Social Cognition: Making Sense of People
+   Lewis Rebecca, 2017, MED MAN DIS ONL DAT
+   Mancosu M, 2017, S EUR SOC POLIT, V22, P327, DOI 10.1080/13608746.2017.1359894
+   Mocanu D, 2015, COMPUT HUM BEHAV, V51, P1198, DOI 10.1016/j.chb.2015.01.024
+   Sunstein CR, 2009, J POLIT PHILOS, V17, P202, DOI 10.1111/j.1467-9760.2008.00325.x
+   Sunstein Cass R., 2018, REPUBLIC DIVIDED MOC
+   Swami V, 2012, FRONT PSYCHOL, V3, DOI 10.3389/fpsyg.2012.00280
+   Swami V, 2012, PERS INDIV DIFFER, V53, P443, DOI 10.1016/j.paid.2012.04.015
+   Torres Nabel Luis César, 2011, Espiral (Guadalaj.), V18, P141
+   Torres-Nabel Luis., 2014, Icono 14. Revista de comunicacion y tecnologias emergentes, V12, P318, DOI [https://doi.org/10.7195/ri14.v12i2.625, DOI 10.7195/RI14.V12I2.625]
+   Uscinski JE, 2016, POLIT RES QUART, V69, P57, DOI 10.1177/1065912915621621
+   Wood MJ, 2012, SOC PSYCHOL PERS SCI, V3, P767, DOI 10.1177/1948550611434786
+   Zollo F, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0138740
+NR 38
+TC 5
+Z9 5
+U1 1
+U2 17
+PU CENTRO INVESTIGACIONES SOCIOLOGICAS
+PI MADRID
+PA MONTALBAN 8, MADRID, 28014, SPAIN
+SN 0210-5233
+EI 1988-5903
+J9 REV ESP INVESTIG SOC
+JI Rev. Esp. Investig. Sociol.
+PD JAN-MAR
+PY 2021
+IS 173
+BP 101
+EP 118
+DI 10.5477/cis/reis.173.101
+PG 18
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA PO7MG
+UT WOS:000605352200006
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Bai, PX
+   Wu, QQ
+   Li, Q
+   Xue, CL
+   Zhang, L
+AF Bai, Pengxia
+   Wu, Qunqi
+   Li, Qian
+   Xue, Chenlei
+   Zhang, Lei
+TI RETRACTED: Mediating Effect of Organizational Learning Capacity on the
+   Relationship between Relational Embeddedness and Innovation Performance
+   in Freight Logistics Service (Retracted Article)
+SO COMPLEXITY
+LA English
+DT Article; Retracted Publication
+ID SOCIAL NETWORK THEORY; MANUFACTURING FIRMS; CAPABILITY; STRENGTH;
+   COMPANIES; CULTURE; TRUST; TIES
+AB Cooperative innovation has become a critical method for freight logistics firms in supply chain management. The previous study has proved that relational embeddedness (RE) has a positive effect on service innovation performance. However, the influence of organizational learning capacity (OLC) has been widely ignored. This study focuses on explaining the mechanism of OLC on the relationship between RE and innovation performance of freight logistics service (IPFLS). Firstly, a theoretical model is constructed based on Social Network Theory, and four research hypotheses are presented. Secondly, a sample of 236 respondents from freight logistics firms in China is analyzed to test the hypotheses. Finally, several management implications and recommendations are suggested. The research results demonstrate that both RE and OLC have positive effects on IPFLS. Meanwhile, OLC partially mediates the relationship between RE and IPFLS. The findings provide practical guidance for managers to strengthen the relationship with partners and enhance OLC.
+C1 [Bai, Pengxia; Xue, Chenlei] Changan Univ, Sch Transportat Engn, Xian 710064, Peoples R China.
+   [Bai, Pengxia; Wu, Qunqi; Xue, Chenlei] Changan Univ, Integrated Transportat Econ & Management Res Ctr, Xian 710064, Peoples R China.
+   [Wu, Qunqi; Li, Qian] Changan Univ, Sch Econ & Management, Xian 710064, Peoples R China.
+   [Zhang, Lei] Massey Univ, Massey Business Sch, Palmerston North 4442, New Zealand.
+C3 Chang'an University; Chang'an University; Chang'an University; Massey
+   University
+RP Li, Q (corresponding author), Changan Univ, Sch Econ & Management, Xian 710064, Peoples R China.
+EM bpx@chd.edu.cn; wqq@chd.edu.cn; q.li@chd.edu.cn; xcl@chd.edu.cn;
+   l.zhang2@massey.ac.nz
+RI Wu, Qunqi/R-1113-2019
+OI Zhang, Lei/0000-0001-6578-3673
+FU National Social Science Foundation of China [19CGL004]; Shaanxi
+   Education Department Foundation [19JZ011]; Central Universities
+   Fundamental Research Foundation for Chang'an University [300102231603,
+   300102231615]
+FX This research was supported by the National Social Science Foundation of
+   China (No. 19CGL004), Shaanxi Education Department Foundation (No.
+   19JZ011), and Central Universities Fundamental Research Foundation for
+   Chang'an University (Nos. 300102231603 and 300102231615).
+CR Akgün AE, 2014, PROCD SOC BEHV, V150, P531, DOI 10.1016/j.sbspro.2014.09.071
+   Akram T, 2020, J INNOV KNOWL, V5, P117, DOI 10.1016/j.jik.2019.10.001
+   Al Hattab M, 2015, AUTOMAT CONSTR, V52, P59, DOI 10.1016/j.autcon.2015.02.014
+   Al-Harrasi N, 2014, PROCD SOC BEHV, V147, P86, DOI 10.1016/j.sbspro.2014.07.119
+   Ali S, 2020, INT J HOSP MANAG, V85, DOI 10.1016/j.ijhm.2019.102349
+   [Anonymous], 2020, ANAL REPORT CHINAS C
+   [Anonymous], 2020, STAT COMMUNIQUE DEV
+   AtuaheneGima K, 1996, J PROD INNOVAT MANAG, V13, P35, DOI 10.1016/0737-6782(95)00090-9
+   Bahrami Mohammad Amin, 2016, Osong Public Health Res Perspect, V7, P190, DOI 10.1016/j.phrp.2016.04.007
+   Behyan M, 2011, PROCD SOC BEHV, V25, DOI 10.1016/j.sbspro.2011.10.551
+   Benítez-Avila C, 2018, INT J PROJ MANAG, V36, P429, DOI 10.1016/j.ijproman.2017.12.005
+   Calabrese A, 2018, J CLEAN PROD, V193, P533, DOI 10.1016/j.jclepro.2018.05.073
+   Chang KC, 2011, SOC SCI RES, V40, P1214, DOI 10.1016/j.ssresearch.2011.03.005
+   Chien SH, 2012, IND MARKET MANAG, V41, P460, DOI 10.1016/j.indmarman.2011.05.001
+   Chu ZF, 2018, TRANSPORT RES E-LOG, V118, P291, DOI 10.1016/j.tre.2018.08.007
+   Czernek-Marszalek K, 2020, J DESTIN MARK MANAGE, V15, DOI 10.1016/j.jdmm.2019.100401
+   Day M, 2013, IND MARKET MANAG, V42, P152, DOI 10.1016/j.indmarman.2012.12.004
+   Maciel Cristiano de Oliveira, 2017, Rev. Adm. (São Paulo), V52, P189, DOI 10.1016/j.rausp.2016.12.008
+   Ebers M, 2014, RES POLICY, V43, P318, DOI 10.1016/j.respol.2013.10.017
+   Farsani JJ, 2012, PROCD SOC BEHV, V62, P1297, DOI 10.1016/j.sbspro.2012.09.222
+   Feng CL, 2020, J CLEAN PROD, V253, DOI 10.1016/j.jclepro.2020.120002
+   Gachanja I. M., 2020, INT J INNOVATION STU, V4, P16, DOI [10.1016/j.ijis.2020.02.001, DOI 10.1016/J.IJIS.2020.02.001]
+   Gebreeyesus M, 2013, WORLD DEV, V41, P302, DOI 10.1016/j.worlddev.2012.05.029
+   de Jesus AH, 2020, J INNOV KNOWL, V5, P140, DOI 10.1016/j.jik.2019.04.002
+   Gölgeci I, 2019, J BUS RES, V102, P97, DOI 10.1016/j.jbusres.2019.05.011
+   Gomes Giancarlo, 2017, Rev. Adm. (São Paulo), V52, P163, DOI 10.1016/j.rausp.2016.12.003
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Grant RM, 1996, ORGAN SCI, V7, P375, DOI 10.1287/orsc.7.4.375
+   Hanaysha J, 2016, PROCD SOC BEHV, V229, P289, DOI 10.1016/j.sbspro.2016.07.139
+   Hao CC, 2019, SUSTAINABILITY-BASEL, V11, DOI 10.3390/su11195319
+   Hirata E, 2017, ASIAN J SHIPPING LOG, V33, P27, DOI 10.1016/j.ajsl.2017.03.004
+   Hong JT, 2019, J CLEAN PROD, V241, DOI 10.1016/j.jclepro.2019.118377
+   Hsieh JK, 2016, PROCD SOC BEHV, V224, P292, DOI 10.1016/j.sbspro.2016.05.488
+   Huang MC, 2019, ASIA PAC MANAG REV, V24, P167, DOI 10.1016/j.apmrv.2018.03.001
+   Hussain K, 2016, PROCD SOC BEHV, V224, P35, DOI 10.1016/j.sbspro.2016.05.397
+   Hussein N, 2015, PROC ECON FINANC, V37, P512, DOI 10.1016/S2212-5671(16)30159-9
+   Isaac VR, 2019, INT BUS REV, V28, P638, DOI 10.1016/j.ibusrev.2018.12.009
+   Kalmuk G, 2015, PROCD SOC BEHV, V210, P164, DOI 10.1016/j.sbspro.2015.11.355
+   Kao TW, 2019, INT J PROD ECON, V212, P176, DOI 10.1016/j.ijpe.2019.02.020
+   Kumar A, 2022, TRANSPORT POLICY, V124, P43, DOI 10.1016/j.tranpol.2020.01.006
+   Lee Chien-Ching, 2013, Acta Anaesthesiol Taiwan, V51, P22, DOI 10.1016/j.aat.2013.03.013
+   Lee ES, 2019, ASIAN J SHIPPING LOG, V35, P213, DOI 10.1016/j.ajsl.2019.12.008
+   Li Q, 2020, SUSTAINABILITY-BASEL, V12, DOI 10.3390/su12062209
+   Li Q, 2019, SUSTAINABILITY-BASEL, V11, DOI 10.3390/su11030596
+   Lisowska R, 2015, PROC ECON FINANC, V23, P1273, DOI 10.1016/S2212-5671(15)00509-2
+   Ma F, 2020, SUSTAINABILITY-BASEL, V12, DOI 10.3390/su12051991
+   Ma F, 2019, INT J ENV RES PUB HE, V16, DOI 10.3390/ijerph16122154
+   Myung YS, 2020, TRANSPORT RES E-LOG, V133, DOI 10.1016/j.tre.2019.101827
+   NELSON RE, 1989, ACAD MANAGE J, V32, P377, DOI 10.5465/256367
+   Oehmichen J, 2016, J INT MANAG, V22, P17, DOI 10.1016/j.intman.2015.11.002
+   Qammach NIJ, 2016, PROC ECON FINANC, V39, P562, DOI 10.1016/S2212-5671(16)30300-8
+   Rindfleisch A, 2001, J MARKETING, V65, P1, DOI 10.1509/jmkg.65.2.1.18253
+   Santamaría L, 2012, TECHNOVATION, V32, P144, DOI 10.1016/j.technovation.2011.08.006
+   Sgroi D, 2008, TELECOMMUN POLICY, V32, P62, DOI 10.1016/j.telpol.2007.11.008
+   Sirilli G, 1998, RES POLICY, V27, P881, DOI 10.1016/S0048-7333(98)00084-5
+   Storey C, 2001, SERV IND J, V21, P71, DOI 10.1080/714005018
+   Sutanto EM, 2017, ASIA PAC MANAG REV, V22, P128, DOI 10.1016/j.apmrv.2016.11.002
+   Taques FH, 2021, J INNOV KNOWL, V6, P11, DOI 10.1016/j.jik.2019.12.001
+   Tohidi H, 2012, PROC TECH, V1, P528, DOI 10.1016/j.protcy.2012.02.114
+   Tohidi H, 2012, PROCD SOC BEHV, V31, P428, DOI 10.1016/j.sbspro.2011.12.079
+   Turi JA, 2019, HELIYON, V5, DOI 10.1016/j.heliyon.2019.e02398
+   von Kutzschenbach M, 2010, PROCD SOC BEHV, V4, P83, DOI 10.1016/j.sbspro.2010.07.485
+   West S, 2018, IFAC PAPERSONLINE, V51, P1317, DOI 10.1016/j.ifacol.2018.08.350
+   Yang CC, 2009, INT J PROD ECON, V122, P4, DOI 10.1016/j.ijpe.2009.03.016
+   Yang D., 2011, RES TRANSP ECON, V32, P15, DOI DOI 10.1016/J.RETREC.2011.06.002
+   Yuen KF, 2019, TRANSPORT RES E-LOG, V128, P316, DOI 10.1016/j.tre.2019.06.014
+   Zhang H, 2020, INFORM MANAGE-AMSTER, V57, DOI 10.1016/j.im.2019.103200
+NR 67
+TC 5
+Z9 6
+U1 4
+U2 34
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1076-2787
+EI 1099-0526
+J9 COMPLEXITY
+JI Complexity
+PD APR 19
+PY 2021
+VL 2021
+AR 5516599
+DI 10.1155/2021/5516599
+PG 18
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Science & Technology - Other Topics
+GA SW9WF
+UT WOS:000664863500009
+OA gold
+DA 2024-11-22
+ER

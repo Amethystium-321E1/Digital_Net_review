@@ -1,0 +1,654 @@
+
+PT J
+AU Robins, G
+AF Robins, Garry
+TI A tutorial on methods for the modeling and analysis of social network
+   data
+SO JOURNAL OF MATHEMATICAL PSYCHOLOGY
+LA English
+DT Article
+ID P-ASTERISK MODELS; EXPONENTIAL FAMILY MODELS; LOGIT-MODELS;
+   PROBABILITY-DISTRIBUTIONS; STATISTICAL EVALUATION; LOGISTIC REGRESSIONS;
+   2-MODE NETWORKS; GRAPH; INFERENCE; DYNAMICS
+AB This article provides a tutorial review of some fundamental ideas and important methods for the modeling of empirical social network data. It describes basic concepts from graph theory and central elements from social network theory. It presents models for the network degree distribution and for network roles and positions, as well as algebraic approaches, before reviewing recent work on statistical methods to analyze social networks, including boot-strap procedures for testing the prevalence of network structures, basic edge- and dyad-independent statistical models, and more recent statistical network models that assume dependence, exponential random graph models and dynamic stochastic actor oriented models. Network social influence models are reviewed. The article concludes with a summary of new developments relating to models for time-ordered transactions. (C) 2013 Elsevier Inc. All rights reserved.
+C1 Univ Melbourne, Melbourne Sch Psychol Sci, Melbourne, Vic 3010, Australia.
+C3 University of Melbourne
+RP Robins, G (corresponding author), Univ Melbourne, Melbourne Sch Psychol Sci, Melbourne, Vic 3010, Australia.
+EM garrylr@unimelb.edu.au
+OI Robins, Garry/0000-0001-7538-5804
+CR Adams J, 2012, SOC NETWORKS, V34, P1, DOI 10.1016/j.socnet.2011.10.007
+   Airoldi EM, 2008, J MACH LEARN RES, V9, P1981
+   Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   [Anonymous], 2004, Network Epidemiology
+   [Anonymous], 2005, Models and methods in social network analysis, DOI DOI 10.1017/CBO9780511811395.006
+   [Anonymous], 2013, Netw. sci., DOI DOI 10.1017/NWS.2013.2
+   [Anonymous], 1992, Sociol. Methodol., DOI DOI 10.2307/270991
+   [Anonymous], J ROYAL STAT SOC B
+   [Anonymous], 2002, Harvard, MA: Analytic Technologies
+   [Anonymous], 2002, J SOC STRUCT, DOI DOI 10.1021/pr060392u
+   [Anonymous], 1939, Management and the Worker
+   [Anonymous], CITCDS04006 ENG APPL
+   [Anonymous], SAGE HDB SOCIAL NETW
+   [Anonymous], 1996, SANKHYA INDIAN J S A
+   [Anonymous], 2013, Theory, methods, and applications
+   [Anonymous], PSYCHOMETRIKA
+   [Anonymous], ENCY COMPLEXITY SYST
+   [Anonymous], 2000, Small worlds: The dynamics of networks between order and randomness
+   [Anonymous], 2010, Statistical Methodology, DOI [DOI 10.1016/J.STAMET.2009.09.007, 10.1016/j.stamet.2009.09.007]
+   [Anonymous], 2011, Statistics, Politics, and Policy, DOI [DOI 10.2202/2151, DOI 10.2202/2151-7509.1024]
+   [Anonymous], 1992, Structural holes
+   [Anonymous], 2002, Contributions to social network analysis, information theory, and other topics in statistics
+   [Anonymous], 1994, ADV SOCIAL NETWORK A, DOI DOI 10.4135/9781452243528.N1
+   [Anonymous], 2012, NAT PHYS
+   [Anonymous], 1989, The Small World
+   [Anonymous], 1989, Spatial statistics: Past, present, future
+   [Anonymous], 2006, Methodology
+   [Anonymous], 2013, Exponential Random Graph Models for Social Networks, DOI DOI 10.1017/CBO9780511894701.011
+   [Anonymous], 2010, SOCIAL EC NETWORKS
+   [Anonymous], 2011, The Sage Handbook of Social Network Analysis
+   [Anonymous], 2004, WOMEN HEALTH
+   [Anonymous], 2011, SAGE HDB SOCIAL NETW
+   [Anonymous], 1993, Algebraic Models for Social Network
+   ANSELIN L, 1984, PAP REG SCI ASSOC, V54, P165, DOI 10.1007/BF01940131
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   BOORMAN SA, 1976, AM J SOCIOL, V81, P1384, DOI 10.1086/226228
+   BORGATTI SP, 1993, SOC NETWORKS, V15, P361, DOI 10.1016/0378-8733(93)90012-A
+   BOYD JP, 1969, J MATH PSYCHOL, V6, P139, DOI 10.1016/0022-2496(69)90032-7
+   Brandes U, 2009, 2009 INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING, P200, DOI 10.1109/ASONAM.2009.28
+   BREIGER RL, 1975, J MATH PSYCHOL, V12, P328, DOI 10.1016/0022-2496(75)90028-0
+   Butts CT, 2008, ASIAN J SOC PSYCHOL, V11, P13, DOI 10.1111/j.1467-839X.2007.00241.x
+   Butts CT, 2008, SOCIOL METHODOL, V38, P155, DOI 10.1111/j.1467-9531.2008.00203.x
+   CARTWRIGHT D, 1956, PSYCHOL REV, V63, P277, DOI 10.1037/h0046049
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   Christakis NA, 2013, STAT MED, V32, P556, DOI 10.1002/sim.5408
+   Cliff A. D., 1973, SPATIAL AUTOCORRELAT
+   Cliff A. D., 1981, SPATIAL PROCESSES MO
+   Daraganova G, 2012, SOC NETWORKS, V34, P6, DOI 10.1016/j.socnet.2010.12.001
+   DAVIS JA, 1970, AM SOCIOL REV, V35, P843, DOI 10.2307/2093295
+   DAWID AP, 1979, J ROY STAT SOC B MET, V41, P1
+   de la Haye K, 2010, SOC NETWORKS, V32, P161, DOI 10.1016/j.socnet.2009.09.001
+   de Nooy W, 2011, SOC NETWORKS, V33, P31, DOI 10.1016/j.socnet.2010.09.003
+   Dekker D, 2007, PSYCHOMETRIKA, V72, P563, DOI 10.1007/s11336-007-9016-1
+   DOREIAN P, 1984, SOCIOL METHOD RES, V13, P155, DOI 10.1177/0049124184013002001
+   DOREIAN P, 1982, SOCIOL METHOD RES, V10, P243, DOI 10.1177/0049124182010003001
+   Doreian P., 1989, RES METHODS SOCIAL N, P295
+   Doreian Patrick, 2005, Generalized Blockmodeling
+   Durlauf StevenN., 2001, SOC DYNAMICS, P1
+   ENNETT ST, 1993, J HEALTH SOC BEHAV, V34, P226, DOI 10.2307/2137204
+   ERBRING L, 1979, SOCIOL METHOD RES, V7, P396, DOI 10.1177/004912417900700404
+   Erdos P., 1959, PUBL MATH-DEBRECEN, V6, P290
+   EVERETT MG, 1985, SOC NETWORKS, V7, P353, DOI 10.1016/0378-8733(85)90013-9
+   Ferligoj A., 2011, The Sage Handbook of Social Network Analysis, P434
+   FRANK O, 1986, J AM STAT ASSOC, V81, P832, DOI 10.2307/2289017
+   Frank O., 1993, QUO VADIS GRAPH THEO, V55, P349
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   FREEMAN LC, 1992, AM J SOCIOL, V98, P152, DOI 10.1086/229972
+   Freeman LintonC., 2011, SAGE HDB SOCIAL NETW, P26, DOI DOI 10.4135/9781446294413.03
+   Friedkin N., 1998, A structural theory of social influence
+   Friedkin NE, 1997, SOC NETWORKS, V19, P209, DOI 10.1016/S0378-8733(96)00298-5
+   FRIEDKIN NE, 1990, J MATH SOCIOL, V15, P193, DOI 10.1080/0022250X.1990.9990069
+   GILBERT EN, 1959, ANN MATH STAT, V30, P1141, DOI 10.1214/aoms/1177706098
+   Girvan M, 2002, P NATL ACAD SCI USA, V99, P7821, DOI 10.1073/pnas.122653799
+   Goel S, 2010, J PERS SOC PSYCHOL, V99, P611, DOI 10.1037/a0020697
+   Goodreau SM, 2007, SOC NETWORKS, V29, P231, DOI 10.1016/j.socnet.2006.08.001
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Handcock MS, 2010, ANN APPL STAT, V4, P5, DOI 10.1214/08-AOAS221
+   Handcock MS, 2003, DYNAMIC SOCIAL NETWORK MODELING AND ANALYSIS, P229
+   Handcock MS, 2004, THEOR POPUL BIOL, V65, P413, DOI 10.1016/j.tpb.2003.09.006
+   Heider F, 1946, J PSYCHOL, V21, P107, DOI 10.1080/00223980.1946.9917275
+   Hoff PD, 2002, J AM STAT ASSOC, V97, P1090, DOI 10.1198/016214502388618906
+   HOLLAND PW, 1981, J AM STAT ASSOC, V76, P33, DOI 10.2307/2287037
+   HOLLAND PW, 1983, SOC NETWORKS, V5, P109, DOI 10.1016/0378-8733(83)90021-7
+   Holland PW., 1976, Sociol. Methodol, V7, P1, DOI [DOI 10.2307/270703, 10.2307/270703]
+   HUBERT L, 1976, BRIT J MATH STAT PSY, V29, P190, DOI 10.1111/j.2044-8317.1976.tb00714.x
+   Hubert LawrenceJ. ., 1987, Assignment Methods in Combinatorial Data Analysis
+   Huisman M., 2005, MODELS METHODS SOCIA, P270
+   Hunter DR, 2008, J AM STAT ASSOC, V103, P248, DOI 10.1198/016214507000000446
+   Hunter DR, 2007, SOC NETWORKS, V29, P216, DOI 10.1016/j.socnet.2006.08.005
+   Hunter DR, 2006, J COMPUT GRAPH STAT, V15, P565, DOI 10.1198/106186006X133069
+   IACOBUCCI D, 1990, PSYCHOMETRIKA, V55, P707, DOI 10.1007/BF02294618
+   Jonasson J, 1999, J APPL PROBAB, V36, P852, DOI 10.1239/jap/1032374639
+   Jones JH, 2003, P ROY SOC B-BIOL SCI, V270, P1123, DOI 10.1098/rspb.2003.2369
+   Kalish Y, 2006, SOC NETWORKS, V28, P56, DOI 10.1016/j.socnet.2005.04.004
+   KATZ L, 1957, ANN MATH STAT, V28, P442, DOI 10.1214/aoms/1177706972
+   Kolaczyk ED, 2009, SPRINGER SER STAT, P1, DOI 10.1007/978-0-387-88146-1_1
+   Koskinen Johan., 2013, Exponential Random Graph Models for Social Networks, P77
+   KRACKHARDT D, 1988, SOC NETWORKS, V10, P359, DOI 10.1016/0378-8733(88)90004-4
+   KRACKHARDT D, 1987, SOC NETWORKS, V9, P171, DOI 10.1016/0378-8733(87)90012-8
+   Latapy M, 2008, SOC NETWORKS, V30, P31, DOI 10.1016/j.socnet.2007.04.006
+   Lauritzen S., 1996, GRAPH MODELS
+   Lazega E, 1999, SOC NETWORKS, V21, P67, DOI 10.1016/S0378-8733(99)00002-7
+   Lazega E, 2008, SOC NETWORKS, V30, P159, DOI 10.1016/j.socnet.2008.02.001
+   Leenders RTAJ, 2002, SOC NETWORKS, V24, P21, DOI 10.1016/S0378-8733(01)00049-1
+   Lorrain F., 1971, J MATH SOCIOL, V1, P49, DOI [10.1080/0022250X.1971.9989788, DOI 10.1080/0022250X.1971.9989788]
+   Lusher Dean., 2013, Exponential Random Graph Models for Social Networks, P16, DOI DOI 10.1017/CBO9780511894701.004
+   MANSKI CF, 1993, REV ECON STUD, V60, P531, DOI 10.2307/2298123
+   MANTEL N, 1967, CANCER RES, V27, P209
+   Mason WA, 2007, PERS SOC PSYCHOL REV, V11, P279, DOI 10.1177/1088868307301032
+   McDonald JW, 2007, SOC NETWORKS, V29, P127, DOI 10.1016/j.socnet.2006.04.003
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   MILGRAM S, 1967, PSYCHOL TODAY, V1, P61
+   Milo R, 2002, SCIENCE, V298, P824, DOI 10.1126/science.298.5594.824
+   Moody J, 2002, SOC FORCES, V81, P25, DOI 10.1353/sof.2002.0056
+   Moreno JL, 1938, SOCIOMETRY, V1, P342, DOI 10.2307/2785588
+   Newman M., 2010, NETWORKS, DOI [DOI 10.1093/ACPROF:OSO/9780199206650.001.0001, 10.1093/acprof:oso/9780199206650.001.0001]
+   Newman MEJ, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.036122
+   Newman MEJ, 2001, PHYS REV E, V64, DOI [10.1103/PhysRevE.64.016132, 10.1103/PhysRevE.64.016131]
+   Nowicki K, 2001, J AM STAT ASSOC, V96, P1077, DOI 10.1198/016214501753208735
+   ORD K, 1975, J AM STAT ASSOC, V70, P120, DOI 10.2307/2285387
+   Park J, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.066146
+   Pattison P, 2002, SOCIOL METHODOL, V32, P301, DOI 10.1111/1467-9531.00119
+   PATTISON P, 1995, J MATH PSYCHOL, V39, P57, DOI 10.1006/jmps.1995.1005
+   Pattison P, 2000, J MATH PSYCHOL, V44, P536, DOI 10.1006/jmps.1999.1261
+   Pattison P, 1999, BRIT J MATH STAT PSY, V52, P169, DOI 10.1348/000711099159053
+   Pattison P., 2008, Handbook of probability: Theory and applications, P291
+   POOL ID, 1978, SOC NETWORKS, V1, P5, DOI 10.1016/0378-8733(78)90011-4
+   RAPOPORT A, 1961, BEHAV SCI, V6, P279
+   RAPOPORT ANATOL, 1957, BULL MATH BIOPHYS, V19, P257, DOI 10.1007/BF02478417
+   RAPOPORT ANATOL, 1953, BULL MATH BIOPHYS, V15, P523, DOI 10.1007/BF02476440
+   Roberts JM, 2000, SOC NETWORKS, V22, P273, DOI 10.1016/S0378-8733(00)00026-5
+   Robins G, 2005, AM J SOCIOL, V110, P894, DOI 10.1086/427322
+   Robins G, 2001, PSYCHOMETRIKA, V66, P161, DOI 10.1007/BF02294834
+   Robins G, 1999, PSYCHOMETRIKA, V64, P371, DOI 10.1007/BF02294302
+   Robins G, 2008, ASIAN J SOC PSYCHOL, V11, P1, DOI 10.1111/j.1467-839X.2007.00240.x
+   Robins G, 2007, SOC NETWORKS, V29, P192, DOI 10.1016/j.socnet.2006.08.003
+   Robins G, 2007, SOC NETWORKS, V29, P173, DOI 10.1016/j.socnet.2006.08.002
+   Robins G, 2009, SOC NETWORKS, V31, P105, DOI 10.1016/j.socnet.2008.10.006
+   Schnettler S, 2009, SOC NETWORKS, V31, P165, DOI 10.1016/j.socnet.2008.12.004
+   Schweinberger M, 2003, SOCIOL METHODOL, V33, P307, DOI 10.1111/j.0081-1750.2003.00134.x
+   Simmel Georg., 1908, SOCIOLOGY G SIMMEL, P87
+   SIMON HA, 1955, BIOMETRIKA, V42, P425
+   Skvoretz J, 1999, SOCIOL METHODOL, V29, P253, DOI 10.1111/0081-1750.00066
+   SNIJDERS TAB, 1991, PSYCHOMETRIKA, V56, P397, DOI 10.1007/BF02294482
+   Snijders TAB, 2001, SOCIOL METHODOL, V31, P361, DOI 10.1111/0081-1750.00099
+   Snijders TAB, 1996, J MATH SOCIOL, V21, P149, DOI 10.1080/0022250X.1996.9990178
+   Snijders T, 2007, EUR ASSOC METHODOL S, P41
+   Snijders TAB, 2006, SOCIOL METHODOL, V36, P99, DOI 10.1111/j.1467-9531.2006.00176.x
+   Snijders TAB, 2012, SOC NETWORKS, V34, P289, DOI 10.1016/j.socnet.2012.05.001
+   Snijders TAB, 2011, ANNU REV SOCIOL, V37, P131, DOI 10.1146/annurev.soc.012809.102709
+   Snijders TAB, 2010, SOC NETWORKS, V32, P44, DOI 10.1016/j.socnet.2009.02.004
+   Stadtfeld C, 2011, SOC NETWORKS, V33, P258, DOI 10.1016/j.socnet.2011.07.004
+   STRAUSS D, 1990, J AM STAT ASSOC, V85, P204, DOI 10.2307/2289546
+   Valente T.W., 1995, NETWORK MODELS DIFFU
+   van Duijn MAJ, 2004, STAT NEERL, V58, P234
+   Verhelst N, 2008, PSYCHOMETRIKA, V73, P705, DOI 10.1007/s11336-008-9062-3
+   Wang P, 2009, SOC NETWORKS, V31, P12, DOI 10.1016/j.socnet.2008.08.002
+   Wasserman S, 1996, PSYCHOMETRIKA, V61, P401, DOI 10.1007/BF02294547
+   WASSERMAN S, 1991, BRIT J MATH STAT PSY, V44, P13, DOI 10.1111/j.2044-8317.1991.tb00949.x
+   Wasserman S., 2012, APA Handbook of Research Methods in Psychology, P451
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   WASSERMAN SS, 1977, J MATH SOCIOL, V5, P61, DOI 10.1080/0022250X.1977.9989865
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   WHITE DR, 1983, SOC NETWORKS, V5, P193, DOI 10.1016/0378-8733(83)90025-4
+   White H., 1963, ANATOMY KINSHIP
+   WHITE HC, 1981, AM J SOCIOL, V87, P517, DOI 10.1086/227495
+   WINSBOROUGH HH, 1963, AM SOCIOL REV, V28, P977, DOI 10.2307/2090317
+   Yule GU, 1925, PHILOS T R SOC LON B, V213, P21, DOI 10.1098/rstb.1925.0002
+NR 168
+TC 56
+Z9 65
+U1 1
+U2 95
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0022-2496
+EI 1096-0880
+J9 J MATH PSYCHOL
+JI J. Math. Psychol.
+PD DEC
+PY 2013
+VL 57
+IS 6
+SI SI
+BP 261
+EP 274
+DI 10.1016/j.jmp.2013.02.001
+PG 14
+WC Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods; Psychology, Mathematical
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Mathematical Methods In Social Sciences; Psychology
+GA 275XI
+UT WOS:000328712300001
+DA 2024-11-22
+ER
+
+PT J
+AU Suvakov, M
+   Mitrovic, M
+   Gligorijevic, V
+   Tadic, B
+AF Suvakov, Milovan
+   Mitrovic, Marija
+   Gligorijevic, Vladimir
+   Tadic, Bosiljka
+TI How the online social networks are used: dialogues-based structure of
+   MySpace
+SO JOURNAL OF THE ROYAL SOCIETY INTERFACE
+LA English
+DT Article
+DE online social networks; user communities; patterns of emotion flow;
+   self-organized dynamics
+ID UNIVERSALITY; EMOTIONS; PATTERNS; PHYSICS
+AB Quantitative study of collective dynamics in online social networks is a new challenge based on the abundance of empirical data. Conclusions, however, may depend on factors such as user's psychology profiles and their reasons to use the online contacts. In this study, we have compiled and analysed two datasets from MySpace. The data contain networked dialogues occurring within a specified time depth, high temporal resolution and texts of messages, in which the emotion valence is assessed by using the SentiStrength classifier. Performing a comprehensive analysis, we obtain three groups of results: dynamic topology of the dialogues-based networks have a characteristic structure with Zipf's distribution of communities, low link reciprocity and disassortative correlations. Overlaps supporting 'weak-ties' hypothesis are found to follow the laws recently conjectured for online games. Long-range temporal correlations and persistent fluctuations occur in the time series of messages carrying positive (negative) emotion; patterns of user communications have dominant positive emotion (attractiveness) and strong impact of circadian cycles and interactivity times longer than 1 day. Taken together, these results give a new insight into the functioning of online social networks and unveil the importance of the amount of information and emotion that is communicated along the social links. All data used in this study are fully anonymized.
+C1 [Suvakov, Milovan; Mitrovic, Marija; Gligorijevic, Vladimir; Tadic, Bosiljka] Jozef Stefan Inst, Dept Theoret Phys, Ljubljana 1001, Slovenia.
+   [Suvakov, Milovan] Univ Belgrade, Inst Phys, Belgrade, Serbia.
+C3 Slovenian Academy of Sciences & Arts (SASA); Jozef Stefan Institute;
+   University of Belgrade
+RP Tadic, B (corresponding author), Jozef Stefan Inst, Dept Theoret Phys, Box 3000, Ljubljana 1001, Slovenia.
+EM bosiljka.tadic@ijs.si
+RI Tadic, Bosiljka/X-3144-2019; Šuvakov, Milovan/AAJ-4276-2020; Mitrovic
+   Dankulov, Marija/I-3007-2012
+OI Mitrovic Dankulov, Marija/0000-0002-8484-3501; Tadic,
+   Bosiljka/0000-0002-8147-2741; Suvakov, Milovan/0000-0002-5839-9611
+FU Research agency of the Republic of Slovenia [P1-0044, P1-0044-3];
+   research projects of the Republic of Serbia [OI171037, III41011];
+   FP7-ICT-2008-3 [231323]
+FX Funding for this research was received in part from the programme
+   P1-0044 of the Research agency of the Republic of Slovenia (project no.
+   P1-0044-3). M. S. also thanks the research projects (OI171037 and
+   III41011) of the Republic of Serbia and the project from FP7-ICT-2008-3
+   under grant agreement no. 231323. We thank George Paltoglou for
+   providing a user-friendly version of the emotion classifier described in
+   Paltoglou et al. [15]. Designed the research: B. T.; contributed new
+   software and compiled the data: M. S.; performed emotion classification
+   of the data: M. M.; analysed the results and produced figures: B. T., V.
+   G., M. S., M. M.; wrote the manuscript: B.T.
+CR Ahn YY, 2007, Proceedings of the 16th international conference on World Wide Web, P835, DOI DOI 10.1145/1242572.1242685
+   Amichai-Hamburger Y, 2010, COMPUT HUM BEHAV, V26, P1289, DOI 10.1016/j.chb.2010.03.018
+   [Anonymous], 2010, P 3 INT WORKSH EM CO
+   [Anonymous], 2011, TEMPORAL PATTERNS
+   Blondel VD, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/10/P10008
+   Bollobas B., 2013, MODERN GRAPH THEORY, V184
+   Calvo RA, 2010, IEEE T AFFECT COMPUT, V1, P18, DOI 10.1109/T-AFFC.2010.1
+   Castellano C, 2009, REV MOD PHYS, V81, P591, DOI 10.1103/RevModPhys.81.591
+   Cheung CMK, 2011, COMPUT HUM BEHAV, V27, P1337, DOI 10.1016/j.chb.2010.07.028
+   Chmiel A, 2011, PHYSICA A, V390, P2936, DOI 10.1016/j.physa.2011.03.040
+   Cho A, 2009, SCIENCE, V325, P406, DOI 10.1126/science.325_406
+   Coan J.A., 2007, Series in affective science. Handbook of emotion elicitation and assessment
+   Ferrero E. M., 2012, PRIMATES CLASSIFICAT, P1
+   Gao JB, 2012, J R SOC INTERFACE, V9, P1956, DOI 10.1098/rsif.2011.0846
+   Garlaschelli D, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.268701
+   Giles J, 2011, NATURE, V470, P18, DOI 10.1038/470018a
+   Guimerà R, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.065103
+   Hu J, 2009, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2009/02/P02066
+   Johnson NF, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.066117
+   Kleinberg J, 2008, COMMUN ACM, V51, P66, DOI 10.1145/1400214.1400232
+   Lang P. J., 1999, Tech. Rep. C-1
+   Malmgren RD, 2009, SCIENCE, V325, P1696, DOI 10.1126/science.1174562
+   Martínez-Mekler G, 2009, PLOS ONE, V4, DOI 10.1371/journal.pone.0004791
+   Mitrovic M, 2010, EUR PHYS J B, V73, P293, DOI 10.1140/epjb/e2009-00431-9
+   Mitrovic M, 2010, EUR PHYS J B, V77, P597, DOI 10.1140/epjb/e2010-00279-x
+   Mitrovic M, 2011, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2011/02/P02005
+   Mitrovic M, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.026123
+   Newman MEJ, 2003, PHYS REV E, V67, DOI 10.1103/PhysRevE.67.026126
+   Onnela JP, 2007, NEW J PHYS, V9, DOI 10.1088/1367-2630/9/6/179
+   Paltoglou G., 2010, Proceedings of Engage 2010, Springer LNCS State-of-the-Art Survey, P13
+   Panzarasa P, 2009, J AM SOC INF SCI TEC, V60, P911, DOI 10.1002/asi.21015
+   Radicchi F, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.026118
+   RUSSELL JA, 1980, J PERS SOC PSYCHOL, V39, P1161, DOI 10.1037/h0077714
+   Ryan T, 2011, COMPUT HUM BEHAV, V27, P1658, DOI 10.1016/j.chb.2011.02.004
+   Scherer KR, 2005, SOC SCI INFORM, V44, P695, DOI 10.1177/0539018405058216
+   Szell M, 2010, SOC NETWORKS, V32, P313, DOI 10.1016/j.socnet.2010.06.001
+   Szell M, 2010, P NATL ACAD SCI USA, V107, P13636, DOI 10.1073/pnas.1004008107
+   Thelwall M, 2010, J AM SOC INF SCI TEC, V61, P2544, DOI 10.1002/asi.21416
+   Ugander J., 2011, The Anatomy of the Facebook Social Graph
+   Vázquez A, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.036127
+   Yarkoni T, 2010, J RES PERS, V44, P363, DOI 10.1016/j.jrp.2010.04.001
+NR 41
+TC 35
+Z9 35
+U1 1
+U2 50
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 1742-5689
+EI 1742-5662
+J9 J R SOC INTERFACE
+JI J. R. Soc. Interface
+PD FEB 6
+PY 2013
+VL 10
+IS 79
+AR 20120819
+DI 10.1098/rsif.2012.0819
+PG 12
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA 048VB
+UT WOS:000311940200012
+PM 23193108
+OA Green Published, Bronze
+DA 2024-11-22
+ER
+
+PT J
+AU Yamanoi, J
+   Sayama, H
+AF Yamanoi, Junichi
+   Sayama, Hiroki
+TI Post-merger cultural integration from a social network perspective: a
+   computational modeling approach
+SO COMPUTATIONAL AND MATHEMATICAL ORGANIZATION THEORY
+LA English
+DT Article
+DE Mergers; Cultural integration; Social networks; Agent-based models;
+   Adaptive networks
+ID TURNOVER; COMMUNICATION; ACQUISITIONS; PERFORMANCE; ACCULTURATION;
+   COMPETITION; SIMILARITY; CONFLICT; TASK
+AB Although cultural integration, or sharing a common corporate culture, is crucial for the success of mergers, previous studies have been limited to firm-level analyses. From a social network perspective, this study explores how cultural integration emerges from the patterns of social interactions among individuals. Using an agent-based model, we investigate the impact of network structures within and between two merging firms on post-merger cultural integration and organizational dysfunctions-individual turnover, interpersonal conflict and organizational communication ineffectiveness-that arise from insufficient cultural integration. The simulation results demonstrate that the highest level of cultural integration is achieved when social ties are more centralized within each merging firm and the social ties between the merging firms are less concentrated on central individuals. Additionally, the results show that within-firm and between-firm network structures significantly affect individual turnover, interpersonal conflict and organizational communication ineffectiveness, and that these three outcome measurements do not vary in tandem.
+C1 [Yamanoi, Junichi] Chuo Univ, Fac Policy Studies, Hiachioji, Tokyo 1930393, Japan.
+   [Sayama, Hiroki] SUNY Binghamton, Dept Bioengn & Syst Sci, Binghamton, NY 13902 USA.
+   [Sayama, Hiroki] SUNY Binghamton, Dept Ind Engn, Binghamton, NY 13902 USA.
+C3 State University of New York (SUNY) System; Binghamton University, SUNY;
+   State University of New York (SUNY) System; Binghamton University, SUNY
+RP Yamanoi, J (corresponding author), Chuo Univ, Fac Policy Studies, Hiachioji, Tokyo 1930393, Japan.
+EM yamanoi@fps.chuo-u.ac.jp; sayama@binghamton.edu
+RI Sayama, Hiroki/GQH-1782-2022
+OI Sayama, Hiroki/0000-0002-2670-5864
+CR Allatta JT, 2011, STRATEGIC MANAGE J, V32, P1099, DOI 10.1002/smj.930
+   [Anonymous], 1979, Research in Organizational Behavior, DOI [DOI 10.1108/S2046-410X(2013)0000001006, 10.1017/CBO9780511902574.005, DOI 10.1016/B978-0-03-022421-3.50013-3]
+   [Anonymous], 1992, Structural holes
+   [Anonymous], 2008, P 7 PYTHON SCI C
+   [Anonymous], INT J CONFLICT MANAG
+   Barry B, 2000, ORGAN SCI, V11, P648, DOI 10.1287/orsc.11.6.648.12537
+   Bearman PS, 2004, AM J SOCIOL, V110, P44, DOI 10.1086/386272
+   Birkinshaw J, 2000, J MANAGE STUD, V37, P395, DOI 10.1111/1467-6486.00186
+   Braha D, 2006, COMPLEXITY, V12, P59, DOI 10.1002/cplx.20156
+   Braha D, 2011, SOC NETWORKS, V33, P219, DOI 10.1016/j.socnet.2011.05.004
+   Buono A.F. Bowditch., 1989, HUMAN SIDE MERGERS A
+   Calori R, 1997, ORGAN SCI, V8, P681, DOI 10.1287/orsc.8.6.681
+   CARLEY K, 1991, AM SOCIOL REV, V56, P331, DOI 10.2307/2096108
+   CHATTERJEE S, 1992, STRATEGIC MANAGE J, V13, P319, DOI 10.1002/smj.4250130502
+   Darr ED, 2000, ORGAN BEHAV HUM DEC, V82, P28, DOI 10.1006/obhd.2000.2885
+   David K., 1994, MANAGEMENT CORPORATE, P251
+   Davis JP, 2007, ACAD MANAGE REV, V32, P480, DOI 10.5465/AMR.2007.24351453
+   De Dreu CKW, 2003, J APPL PSYCHOL, V88, P741, DOI 10.1037/0021-9010.88.4.741
+   Earley PC, 2000, ACAD MANAGE J, V43, P26, DOI 10.5465/1556384
+   Finkelstein S., 2002, DAIMLERCHRYSLER MERG
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Griffeth RW, 2000, J MANAGE, V26, P463, DOI 10.1177/014920630002600304
+   Gross T, 2009, UNDERST COMPLEX SYST, P1, DOI 10.1007/978-3-642-01284-6
+   Gross T, 2008, J R SOC INTERFACE, V5, P259, DOI 10.1098/rsif.2007.1229
+   Haleblian J, 2009, J MANAGE, V35, P469, DOI 10.1177/0149206308330554
+   Harrison JR, 2007, ACAD MANAGE REV, V32, P1229, DOI 10.5465/AMR.2007.26586485
+   JEHN KA, 1995, ADMIN SCI QUART, V40, P256, DOI 10.2307/2393638
+   Jemison DB., 1991, Managing acquisitions: Creating value through corporate renewal
+   Kilduff M, 2010, ACAD MANAG ANN, V4, P317, DOI 10.1080/19416520.2010.494827
+   King DR, 2004, STRATEGIC MANAGE J, V25, P187, DOI 10.1002/smj.371
+   KRACKHARDT D, 1985, ADMIN SCI QUART, V30, P242, DOI 10.2307/2393107
+   KRACKHARDT D, 1986, J APPL PSYCHOL, V71, P50, DOI 10.1037/0021-9010.71.1.50
+   Larsson R, 2001, HUM RELAT, V54, P1573, DOI 10.1177/00187267015412002
+   Lubatkin M, 1999, J MANAGE, V25, P55, DOI 10.1177/014920639902500103
+   Macy MW, 2002, ANNU REV SOCIOL, V28, P143, DOI 10.1146/annurev.soc.28.110601.141117
+   Mark NP, 2003, AM SOCIOL REV, V68, P319, DOI 10.2307/1519727
+   Moynihan DP, 2008, J PUBL ADM RES THEOR, V18, P205, DOI 10.1093/jopart/mum013
+   NAHAVANDI A, 1988, ACAD MANAGE REV, V13, P79
+   OREILLY CA, 1991, ACAD MANAGE J, V34, P487, DOI 10.5465/256404
+   OReilly CA, 1996, RES ORGAN BEHAV, V18, P157
+   Rafferty AE, 2010, J MANAGE, V36, P1309, DOI 10.1177/0149206309341480
+   Ramaswamy K, 1997, ACAD MANAGE J, V40, P697, DOI 10.5465/257059
+   Rogers E.M., 2003, DIFFUSION INNOVATION
+   Schein E. H., 2010, ORG CULTURE LEADERSH, V2
+   SCHWEIGER DM, 1991, ACAD MANAGE J, V34, P110, DOI 10.5465/256304
+   Stahl GK, 2008, ORGAN SCI, V19, P160, DOI 10.1287/orsc.1070.0270
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Weber RA, 2003, MANAGE SCI, V49, P400, DOI 10.1287/mnsc.49.4.400.14430
+   Zollo M, 2004, STRATEGIC MANAGE J, V25, P1233, DOI 10.1002/smj.426
+NR 50
+TC 8
+Z9 11
+U1 1
+U2 58
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1381-298X
+EI 1572-9346
+J9 COMPUT MATH ORGAN TH
+JI Comput. Math. Organ. Theory
+PD DEC
+PY 2013
+VL 19
+IS 4
+BP 516
+EP 537
+DI 10.1007/s10588-012-9139-5
+PG 22
+WC Computer Science, Interdisciplinary Applications; Mathematics,
+   Interdisciplinary Applications; Social Sciences, Mathematical Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science; Mathematics; Mathematical Methods In Social Sciences
+GA 256OJ
+UT WOS:000327322900007
+DA 2024-11-22
+ER
+
+PT J
+AU Gaudeul, A
+   Giannetti, C
+AF Gaudeul, Alexia
+   Giannetti, Caterina
+TI The role of reciprocation in social network formation, with an
+   application to LiveJournal
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Blogs; Friendship; LiveJournal; Reciprocation; Social capital; Social
+   networks
+ID DYNAMIC PANELS; UNIT ROOTS; IDENTIFICATION; INSTRUMENTS; ATTENTION;
+   EMERGENCE; BLOGGERS; MODEL; NORM; GMM
+AB This paper deals with the role of reciprocation in the formation of individuals' social networks. We follow the activity of a panel of bloggers over more than a year and investigate the extent to which initiating a relation brings about its reciprocation. We adapt a standard capital investment model to study how reciprocation affects the build-up of the individual social capital of bloggers, as measured by their links and interactions with others. This allows us to measure the role of content production and relationship building in the dynamics of online social networks and to distinguish between the social networking and media aspects of blogging. (c) 2013 Elsevier B.V. All rights reserved.
+C1 [Gaudeul, Alexia] Max Planck Inst Econ, Jena, Germany.
+   [Giannetti, Caterina] Univ Bologna, Dept Econ, I-40126 Bologna, Italy.
+C3 Max Planck Society; University of Bologna
+RP Gaudeul, A (corresponding author), Max Planck Inst Econ, Jena, Germany.
+EM alexia.gaudeul@econ.mpg.de; caterina.giannetti@unibo.it
+RI ; Gaudeul, Alexia/B-7556-2015
+OI GIANNETTI, CATERINA/0000-0003-2962-3087; Gaudeul,
+   Alexia/0000-0003-3397-4234
+CR Ammann R, 2011, PROCD SOC BEHV, V22, DOI 10.1016/j.sbspro.2011.07.053
+   [Anonymous], DIVERSITY POPULARITY
+   [Anonymous], 1998, CONNECTIONS
+   [Anonymous], AMCIS 2009 DOCT CONS
+   [Anonymous], JENA EC RES PAPERS
+   [Anonymous], P 18 ANN WORKSH INF
+   [Anonymous], INTERNET RES ANN
+   [Anonymous], THESIS U TEXAS AUSTI
+   [Anonymous], SCREEN SCRAP VERS 5
+   [Anonymous], GLOSS BLOGG
+   [Anonymous], P 38 HAW INT C SYST
+   [Anonymous], 97 CDSE U MANNH
+   [Anonymous], 2006, P 15 INT WORLD WIDE
+   [Anonymous], 777 IZA
+   [Anonymous], 2011, LiveJournal
+   [Anonymous], 2003, Power Laws, Weblogs, and Inequality
+   [Anonymous], 2006, ANN C INT COMM ASS D
+   [Anonymous], THESIS NATL U SINGAP
+   [Anonymous], JOURNALISM JOURNALIS
+   [Anonymous], SOCIAL MEDIA INNOVAT
+   [Anonymous], 2007, J COMPUTER MEDIATED
+   [Anonymous], 2004, Wired Magazine
+   [Anonymous], 0928 NET I
+   [Anonymous], 2011, Stata statistical software: Release 12
+   [Anonymous], STAT BLOG 2009
+   [Anonymous], 2001, SOCIAL CAPITAL THEOR
+   ARELLANO M, 1995, J ECONOMETRICS, V68, P29, DOI 10.1016/0304-4076(94)01642-D
+   Argyle M., 1984, J SOC PERS RELAT, V1, P211, DOI [10.1177/0265407584012005, DOI 10.1177/0265407584012005]
+   Bar-Ilan J, 2005, J INF SCI, V31, P297, DOI 10.1177/0165551505054175
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Bianconi G, 2001, EUROPHYS LETT, V54, P436, DOI 10.1209/epl/i2001-00260-6
+   Blozis SA, 2003, PSYCHOMETRIKA, V68, P151, DOI 10.1007/BF02296658
+   Blundell R, 1998, J ECONOMETRICS, V87, P115, DOI 10.1016/S0304-4076(98)00009-8
+   Bobba M, 2007, ECON LETT, V96, P301, DOI 10.1016/j.econlet.2007.01.018
+   Bramoulle Y., 2010, NEW PALGRAVE DICT EC
+   Bramoullé Y, 2007, J ECON THEORY, V135, P478, DOI 10.1016/j.jet.2006.06.006
+   Chan KW, 2010, J BUS RES, V63, P1033, DOI 10.1016/j.jbusres.2008.08.009
+   Choi I, 2001, J INT MONEY FINANC, V20, P249, DOI 10.1016/S0261-5606(00)00048-6
+   Chun H, 2008, IMC'08: PROCEEDINGS OF THE 2008 ACM SIGCOMM INTERNET MEASUREMENT CONFERENCE, P57
+   Currarini S, 2009, ECONOMETRICA, V77, P1003, DOI 10.3982/ECTA7528
+   Donath J, 2004, BT TECHNOL J, V22, P71, DOI 10.1023/B:BTTJ.0000047585.06264.cc
+   Doreian P, 1996, J MATH SOCIOL, V21, P113, DOI 10.1080/0022250X.1996.9990176
+   FELD SL, 1991, AM J SOCIOL, V96, P1464, DOI 10.1086/229693
+   Galeotti A, 2010, AM ECON REV, V100, P1468, DOI 10.1257/aer.100.4.1468
+   Gaudeul A, 2010, ECON BULL, V30, P2230
+   Gintis H, 2008, SOC JUSTICE RES, V21, P241, DOI 10.1007/s11211-008-0067-y
+   Glaeser EL, 2003, J EUR ECON ASSOC, V1, P345, DOI 10.1162/154247603322390982
+   Glaeser EL, 2002, ECON J, V112, pF437, DOI 10.1111/1468-0297.00078
+   Gorny Eugene., 2006, Control + Shift. Public and Private Usages of the Russian Internet
+   GOULDNER AW, 1960, AM SOCIOL REV, V25, P161, DOI 10.2307/2092623
+   Gu B., 2009, McCombs Research Paper Series No. IROM-06-09
+   HALLINAN MT, 1978, SOC NETWORKS, V1, P193, DOI 10.1016/0378-8733(78)90019-9
+   Han C, 2010, ECONOMET THEOR, V26, P119, DOI 10.1017/S026646660909063X
+   Harris RDF, 1999, J ECONOMETRICS, V91, P201, DOI 10.1016/S0304-4076(98)00076-1
+   Henrich J, 2001, AM ECON REV, V91, P73, DOI 10.1257/aer.91.2.73
+   Herring S. C., 2005, Information Technology & People, V18, P142, DOI 10.1108/09593840510601513
+   Huang CY, 2007, J ADVERTISING RES, V47, P472, DOI 10.2501/S0021849907070493
+   Huberman BA, 2009, J INF SCI, V35, P758, DOI 10.1177/0165551509346786
+   Im KS, 2003, J ECONOMETRICS, V115, P53, DOI 10.1016/S0304-4076(03)00092-7
+   Jackson MO, 2012, AM ECON REV, V102, P1857, DOI 10.1257/aer.102.5.1857
+   Jackson MO, 1996, J ECON THEORY, V71, P44, DOI 10.1006/jeth.1996.0108
+   Kumar R, 2010, LINK MINING: MODELS, ALGORITHMS, AND APPLICATIONS, P337, DOI 10.1007/978-1-4419-6515-8_13
+   Kwak H., WWW'10, DOI [10.1145/1772690.1772751, DOI 10.1145/1772690.1772751]
+   Lenhart A., 2006, BLOGGERS PORTRAIT IN
+   Lussier JT, 2010, LECT NOTES COMPUT SC, V6007, P228, DOI 10.1007/978-3-642-12079-4_29
+   Lutkepohl, 2013, NEW INTRO MULTIPLE T
+   MANSKI CF, 1993, REV ECON STUD, V60, P531, DOI 10.2307/2298123
+   Marwick Alice., 2008, LiveJournal Users: Passionate, Prolific, and Private
+   Mayzlin D, 2012, MANAGE SCI, V58, P1651, DOI 10.1287/mnsc.1110.1510
+   McKenna L, 2008, PUBLIC CHOICE, V134, P97, DOI 10.1007/s11127-007-9203-8
+   Mednick SC, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0009775
+   NEWEY WK, 1985, J ECONOMETRICS, V29, P229
+   Rivas J, 2009, INT J GAME THEORY, V38, P521, DOI 10.1007/s00182-009-0168-3
+   Roodman D, 2009, STATA J, V9, P86, DOI 10.1177/1536867X0900900106
+   Roodman D, 2009, OXFORD B ECON STAT, V71, P135, DOI 10.1111/j.1468-0084.2008.00542.x
+   RUNGER G, 1980, SOC NETWORKS, V2, P143, DOI 10.1016/0378-8733(79)90003-0
+   Schaefer DR, 2010, SOC NETWORKS, V32, P61, DOI 10.1016/j.socnet.2009.04.003
+   Schmidt J, 2007, J COMPUT-MEDIAT COMM, V12, P1409, DOI 10.1111/j.1083-6101.2007.00379.x
+   Snijders TAB, 2010, SOC NETWORKS, V32, P44, DOI 10.1016/j.socnet.2009.02.004
+   Van Der Gaag M, 2005, SOC NETWORKS, V27, P1, DOI 10.1016/j.socnet.2004.10.001
+   van Duijn MAJ, 1999, SOC NETWORKS, V21, P187, DOI 10.1016/S0378-8733(99)00009-X
+   Wei L, 2009, J COMPUT-MEDIAT COMM, V14, P532, DOI 10.1111/j.1083-6101.2009.01452.x
+   Zhang XQ, 2011, AM ECON REV, V101, P1601, DOI 10.1257/aer.101.4.1601
+NR 83
+TC 21
+Z9 26
+U1 1
+U2 24
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JUL
+PY 2013
+VL 35
+IS 3
+BP 317
+EP 330
+DI 10.1016/j.socnet.2013.03.003
+PG 14
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 195HJ
+UT WOS:000322692600005
+DA 2024-11-22
+ER
+
+PT J
+AU Himelboim, I
+   Hansen, D
+   Bowser, A
+AF Himelboim, Itai
+   Hansen, Derek
+   Bowser, Anne
+TI PLAYING IN THE SAME TWITTER NETWORK Political information seeking in the
+   2010 US gubernatorial elections
+SO INFORMATION COMMUNICATION & SOCIETY
+LA English
+DT Article
+DE politics; social media; social networks; gubernatorial elections; theory
+   of channel complementarity
+ID NEWS; INTERNET
+AB New media platforms such as Twitter allow users to choose from a wide range of political information sources including traditional media, politicians, bloggers and other Twitter users. This study extends the theory of channel complementarity by considering the complementary selection of information sources that occur within a single social media space. This study also conceptualizes information seeking as a social network created by follow relationships on Twitter, allowing tracking actual patterns of source selection. We applied this theoretical and methodological framework to examine information seeking on Twitter related to four US gubernatorial races. We identified the main types of highly followed accounts (i.e. information hubs). Traditional news media outlets (national and local) accounted for nearly half of the information hubs, and grassroots sources such as activists and other users accounted for nearly a third. The patterns of follow relationships indicated local and national subgroups (i.e. clusters) of users identified based on network topology. Local clusters included a subgroup of more densely interconnected users in which local news media and political candidates were hubs. National clusters included a subgroup of more sparsely interconnected users in which national media and online-only news sources served as hubs. High-density clusters were also more likely to host information sources that exhibited two-way information flow with other users, while low-density clusters preferred hubs that follow traditional one-to-many information flow. Theoretical and practical implications for news media and political candidates are discussed.
+C1 [Himelboim, Itai] Univ Georgia, Athens, GA 30602 USA.
+   [Hansen, Derek] Brigham Young Univ, Coll Engn & Technol, Provo, UT 84602 USA.
+   [Bowser, Anne] Univ Maryland, Coll Informat Studies, iSch, College Pk, MD 20742 USA.
+C3 University System of Georgia; University of Georgia; Brigham Young
+   University; University System of Maryland; University of Maryland
+   College Park
+RP Himelboim, I (corresponding author), Univ Georgia, 101L Journalism Bldg,120 Hooper St, Athens, GA 30602 USA.
+EM itai@uga.edu; shakmatt@gmail.com; anne.bowser@gmail.com
+RI Hansen, Derek/X-4483-2019; Himelboim, Itai/IYS-3654-2023
+OI Hansen, Derek/0000-0002-9645-3279; Himelboim, Itai/0000-0001-7981-5613
+CR Adamic LGlance., 2005, The Political Blogosphere and the 2004 U.S. Election: Divided They Blog
+   [Anonymous], INT ROL CAMP 2008
+   [Anonymous], Social Science Research Network, DOI [DOI 10.5210/FM.V14I1.2317, DOI 10.2139/SSRN.1313405]
+   [Anonymous], 1 MONDAY
+   [Anonymous], ASS PRESS
+   [Anonymous], PEW INT CTR PROJ EXC
+   [Anonymous], EMCIS VAL 24 26 JUN
+   [Anonymous], J COMPUTER MEDIATED
+   [Anonymous], 2010, P 1 WORKSH SOC MED A
+   [Anonymous], US TWITT AM NEWSP
+   [Anonymous], 2011, DEATH LIFE AM JOURNA
+   [Anonymous], REPUBLIC 2 0
+   [Anonymous], TWITTER SOCIAL NETWO
+   [Anonymous], J COMPUTER MEDIATED
+   Atkin C.K., 1985, Selective exposure to communication, P63
+   Chadwick A, 2011, INT J PRESS/POLIT, V16, P3, DOI 10.1177/1940161210384730
+   Clauset A, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.066111
+   Dutta-Bergman MJ, 2005, HEALTH COMMUN, V17, P1, DOI 10.1207/s15327027hc1701_1
+   Dutta-Bergman MJ, 2004, NEW MEDIA SOC, V6, P659, DOI 10.1177/146144804047086
+   Dutta-Bergman MJ, 2004, J BROADCAST ELECTRON, V48, P41, DOI 10.1207/s15506878jobem4801_3
+   FRIEDKIN NE, 1981, SOC NETWORKS, V3, P41, DOI 10.1016/0378-8733(81)90004-6
+   Glaser BG., 1971, STATUS PASSAGE
+   Gunter B, 2009, ASLIB PROC, V61, P185, DOI 10.1108/00012530910946929
+   Hampton K.N., 2003, CITY COMMUNITY, V2, P277, DOI [10.1046/j.1535-6841.2003.00057.x, DOI 10.1046/J.1535-6841.2003.00057.X]
+   Hansen DL, 2011, ANALYZING SOCIAL MEDIA NETWORKS WITH NODEXL: INSIGHTS FROM A CONNECTED WORLD, P1
+   Himelboim I, 2009, J COMPUT-MEDIAT COMM, V14, P771, DOI 10.1111/j.1083-6101.2009.01470.x
+   Ho DE, 2008, AM STAT, V62, P279, DOI 10.1198/000313008X366145
+   Hoskins A, 2007, NEW SECUR CHALL, P1, DOI 10.1057/9780230592810
+   Huisman M., 2005, MODELS METHODS SOCIA, P270
+   Krebs V, 2004, SOCIAL LIFE BOOKS VI
+   Lampe C., 2006, P 2006 20 ANN C COMP, P167, DOI [10.1145/1180875.1180901, DOI 10.1145/1180875.1180901]
+   Lariscy RW, 2011, AM BEHAV SCI, V55, P749, DOI 10.1177/0002764211398091
+   McGeough R. E, 2010, ANN CONV NAT COMM AS
+   Newman MEJ, 2004, EUR PHYS J B, V38, P321, DOI 10.1140/epjb/e2004-00124-y
+   Sweetser K.D., 2008, International Journal of Strategic Communication, V2, P175
+   Van Alstyne Marshall., 1996, Proceedings of the 17th International Conference on Information Systems, P80
+   Wasserman S., 1999, Social network analysis: Methods and applications
+NR 37
+TC 33
+Z9 36
+U1 1
+U2 49
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1369-118X
+EI 1468-4462
+J9 INFORM COMMUN SOC
+JI Info. Commun. Soc.
+PD NOV 1
+PY 2013
+VL 16
+IS 9
+BP 1373
+EP 1396
+DI 10.1080/1369118X.2012.706316
+PG 24
+WC Communication; Sociology
+WE Social Science Citation Index (SSCI)
+SC Communication; Sociology
+GA 217LQ
+UT WOS:000324361400001
+DA 2024-11-22
+ER

@@ -1,0 +1,565 @@
+
+PT S
+AU Almquist, ZW
+   Butts, CT
+AF Almquist, Zack W.
+   Butts, Carter T.
+BE Liao, TF
+TI LOGISTIC NETWORK REGRESSION FOR SCALABLE ANALYSIS OF NETWORKS WITH JOINT
+   EDGE/VERTEX DYNAMICS
+SO SOCIOLOGICAL METHODOLOGY 2014, VOL 44
+SE Sociological Methodology
+LA English
+DT Article; Book Chapter
+DE dynamic networks; exponential family random graph models; logistic
+   regression; vertex dynamics; model assessment; goodness of fit; dynamic
+   prediction
+ID RANDOM GRAPH MODELS; SOCIAL NETWORKS; LOGIT-MODELS;
+   STATISTICAL-ANALYSIS; MAXIMUM-LIKELIHOOD; FEATHER; FAMILY; BIRDS
+AB Change in group size and composition has long been an important area of research in the social sciences. Similarly, interest in interaction dynamics has a long history in sociology and social psychology. However, the effects of endogenous group change on interaction dynamics are a surprisingly understudied area. One way to explore these relationships is through social network models. Network dynamics may be viewed as a process of change in the edge structure of a network, in the vertex set on which edges are defined, or in both simultaneously. Although early studies of such processes were primarily descriptive, recent work on this topic has increasingly turned to formal statistical models. Although showing great promise, many of these modern dynamic models are computationally intensive and scale very poorly in the size of the network under study and/or the number of time points considered. Likewise, currently used models focus on edge dynamics, with little support for endogenously changing vertex sets. Here, the authors show how an existing approach based on logistic network regression can be extended to serve as a highly scalable framework for modeling large networks with dynamic vertex sets. The authors place this approach within a general dynamic exponential family (exponential-family random graph modeling) context, clarifying the assumptions underlying the framework (and providing a clear path for extensions), and they show how model assessment methods for cross-sectional networks can be extended to the dynamic case. Finally, the authors illustrate this approach on a classic data set involving interactions among windsurfers on a California beach.
+C1 [Almquist, Zack W.] Univ Minnesota, Dept Sociol, Minneapolis, MN 55455 USA.
+   [Almquist, Zack W.] Univ Minnesota, Sch Stat, Minneapolis, MN 55455 USA.
+   [Butts, Carter T.] Univ Calif Irvine, Dept Sociol, Irvine, CA USA.
+   [Butts, Carter T.] Univ Calif Irvine, Dept Stat, Irvine, CA USA.
+   [Butts, Carter T.] Univ Calif Irvine, Inst Math Behav Sci, Irvine, CA USA.
+C3 University of Minnesota System; University of Minnesota Twin Cities;
+   University of Minnesota System; University of Minnesota Twin Cities;
+   University of California System; University of California Irvine;
+   University of California System; University of California Irvine;
+   University of California System; University of California Irvine
+RP Almquist, ZW (corresponding author), Univ Minnesota, Dept Sociol, 909 Social Sci Bldg,267 19th Ave South, Minneapolis, MN 55455 USA.
+EM almquist@umn.edu
+OI Almquist, Zack/0000-0002-1967-123X
+CR AKAIKE H, 1974, IEEE T AUTOMAT CONTR, VAC19, P716, DOI 10.1109/TAC.1974.1100705
+   Anderson BS, 1999, SOC NETWORKS, V21, P239, DOI 10.1016/S0378-8733(99)00011-8
+   Anderson CJ, 1999, SOC NETWORKS, V21, P37, DOI 10.1016/S0378-8733(98)00012-4
+   [Anonymous], 1999, GEN LINEAR MODELS
+   [Anonymous], 1961, ACQUAINTANCE PROCESS
+   [Anonymous], 2004, LOGISTIC REGRESSION
+   [Anonymous], Statistical Network Analysis: Models, Issues, and New Directions, DOI DOI 10.1007/978-3-540-73133-7_2
+   [Anonymous], STAT NETWORK ANAL MO
+   [Anonymous], THESIS U WASHINGTON
+   [Anonymous], 1986, IMS Lecture Notes Monograph Series
+   [Anonymous], 2003, statnet: Software tools for the Statistical Modeling of Network Data, DOI DOI 10.1371/journal.pcbi.0020100
+   [Anonymous], 9 U WASH CTR STAT SO
+   [Anonymous], J SOCIAL STRUCTURE
+   [Anonymous], THESIS U MICHIGAN AN
+   [Anonymous], 2002, J. Social Struct
+   BAKER WE, 1984, AM J SOCIOL, V89, P775, DOI 10.1086/227944
+   Banks DL, 1996, J MATH SOCIOL, V21, P173, DOI 10.1080/0022250X.1996.9990179
+   BESAG J, 1974, J ROY STAT SOC B MET, V36, P192
+   Brockwell P.J., 2002, INTRO TIME SERIES FO, V2nd ed.
+   Butts CT, 2008, ASIAN J SOC PSYCHOL, V11, P13, DOI 10.1111/j.1467-839X.2007.00241.x
+   Butts CT, 2011, SOCIOL METHODOL, V41, P299, DOI 10.1111/j.1467-9531.2011.01246.x
+   Butts CarterT., 2007, Journal of Statistical Software, V24, P1
+   Butts CT, 2003, DYNAMIC SOCIAL NETWORK MODELING AND ANALYSIS, P313
+   Carlin J. B., 2003, Bayesian data analysis, V2nd, DOI 10.1201/b16018
+   Coleman JS., 1964, INTRO MATH SOCIOLOGY
+   Cornwell B, 2009, SOC NETWORKS, V31, P92, DOI 10.1016/j.socnet.2008.10.005
+   Corten R, 2010, SOC NETWORKS, V32, P4, DOI 10.1016/j.socnet.2009.04.002
+   Desmarais BA, 2012, PHYSICA A, V391, P1865, DOI 10.1016/j.physa.2011.10.018
+   Faust K, 2010, SOC NETWORKS, V32, P221, DOI 10.1016/j.socnet.2010.03.004
+   FERGUSON TS, 1973, ANN STAT, V1, P209, DOI 10.1214/aos/1176342360
+   FESTINGER L, 1951, J ABNORM SOC PSYCH, V46, P92, DOI 10.1037/h0054899
+   FRANK O, 1986, J AM STAT ASSOC, V81, P832, DOI 10.2307/2289017
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   FREEMAN LC, 1992, AM J SOCIOL, V98, P152, DOI 10.1086/229972
+   FREEMAN LC, 1988, J SOC BIOL STRUCT, V11, P415, DOI 10.1016/0140-1750(88)90080-2
+   Gelman A, 2008, ANN APPL STAT, V2, P1360, DOI 10.1214/08-AOAS191
+   GEYER CJ, 1992, J R STAT SOC B, V54, P657
+   Goodreau SM, 2009, DEMOGRAPHY, V46, P103, DOI 10.1353/dem.0.0045
+   GRANOVETTER M, 1985, AM J SOCIOL, V91, P481, DOI 10.1086/228311
+   Hanneke S, 2010, ELECTRON J STAT, V4, P585, DOI 10.1214/09-EJS548
+   HOLLAND PW, 1981, J AM STAT ASSOC, V76, P62
+   Huisman M, 2003, SOCIOL METHOD RES, V32, P253, DOI 10.1177/0049124103256096
+   Hummon NP, 2003, SOC NETWORKS, V25, P17, DOI 10.1016/S0378-8733(02)00019-9
+   Hunter DR, 2008, J AM STAT ASSOC, V103, P248, DOI 10.1198/016214507000000446
+   KING G, 2001, POLIT ANAL, V0009
+   Kiwiel KC, 2001, MATH PROGRAM, V90, P1, DOI 10.1007/PL00011414
+   Komarek P., 2003, Fast Robust Logistic Regression for Large Sparse Datasets with Binary Outputs
+   KRACKHARDT D, 1987, SOC NETWORKS, V9, P109, DOI 10.1016/0378-8733(87)90009-8
+   KRACKHARDT D, 1988, SOC NETWORKS, V10, P359, DOI 10.1016/0378-8733(88)90004-4
+   KRACKHARDT D, 1987, SOC NETWORKS, V9, P171, DOI 10.1016/0378-8733(87)90012-8
+   Krackhardt D., 1994, Computational organization theory, P89
+   Krivitsky PN, 2014, J ROY STAT SOC B, V76, P29, DOI 10.1111/rssb.12014
+   Krivitsky PN, 2011, STAT METHODOL, V8, P319, DOI 10.1016/j.stamet.2011.01.005
+   Lazega E, 1997, SOC NETWORKS, V19, P375, DOI 10.1016/S0378-8733(97)00006-3
+   Lin CJ, 2008, J MACH LEARN RES, V9, P627
+   MANSKI CF, 1977, ECONOMETRICA, V45, P1977, DOI 10.2307/1914121
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   NEWCOMB TM, 1953, PSYCHOL REV, V60, P393, DOI 10.1037/h0063098
+   Pattison P, 1999, BRIT J MATH STAT PSY, V52, P169, DOI 10.1348/000711099159053
+   PRENTICE RL, 1979, BIOMETRIKA, V66, P403, DOI 10.1093/biomet/66.3.403
+   Ripley RuthM., 2011, MANUAL RSIENA
+   Robins G, 2005, AM J SOCIOL, V110, P894, DOI 10.1086/427322
+   Robins G, 2001, J MATH SOCIOL, V25, P5, DOI 10.1080/0022250X.2001.9990243
+   Robins G, 1999, PSYCHOMETRIKA, V64, P371, DOI 10.1007/BF02294302
+   Robins G., 2009, PNET PROGRAM SIMULAT
+   Sampson Samuel Franklin, 1968, THESIS CORNELL U ITH
+   SCHWARZ G, 1978, ANN STAT, V6, P461, DOI 10.1214/aos/1176344136
+   Shumway R.H., 2006, TIME SERIES ANAL ITS
+   Snijders T.A., 2007, MANUAL SIENA VERSION
+   Snijders T. A., 2005, MODELS METHODS SOCIA, V1, P215, DOI DOI 10.1017/CBO9780511811395.011
+   Snijders TAB, 2001, SOCIOL METHODOL, V31, P361, DOI 10.1111/0081-1750.00099
+   Snijders TAB, 1996, J MATH SOCIOL, V21, P149, DOI 10.1080/0022250X.1996.9990178
+   STRAUSS D, 1990, J AM STAT ASSOC, V85, P204, DOI 10.2307/2289546
+   van Duijn MAJ, 2004, STAT NEERL, V58, P234
+   van Duijn MAJ, 2009, SOC NETWORKS, V31, P52, DOI 10.1016/j.socnet.2008.10.003
+   Wang P, 2009, SOC NETWORKS, V31, P12, DOI 10.1016/j.socnet.2008.08.002
+   Wasserman S, 1996, PSYCHOMETRIKA, V61, P401, DOI 10.1007/BF02294547
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   Wasserman Stanley., 2005, Models and Methods in Social Network Analysis, P192
+   Wimmer A, 2010, AM J SOCIOL, V116, P583, DOI 10.1086/653658
+   Zeggelink EPH, 1996, J MATH SOCIOL, V21, P29, DOI 10.1080/0022250X.1996.9990173
+   Zhang BC, 2016, J BASIC MICROB, V56, P670, DOI 10.1002/jobm.201500751
+NR 82
+TC 31
+Z9 37
+U1 0
+U2 19
+PU SAGE PUBLICATIONS INC
+PI NEWBURY PK
+PA 2455 TELLER RD, NEWBURY PK, CA 91320 USA
+SN 0081-1750
+J9 SOCIOL METHODOL
+JI Sociol. Methodol.
+PY 2014
+VL 44
+BP 273
+EP 321
+DI 10.1177/0081175013520159
+PG 49
+WC Sociology
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH); Social Science Citation Index (SSCI)
+SC Sociology
+GA BC0ER
+UT WOS:000349000200014
+PM 26120218
+OA Green Submitted, Green Accepted
+DA 2024-11-22
+ER
+
+PT J
+AU Fan, R
+   Zhao, JC
+   Chen, Y
+   Xu, K
+AF Fan, Rui
+   Zhao, Jichang
+   Chen, Yan
+   Xu, Ke
+TI Anger Is More Influential than Joy: Sentiment Correlation in Weibo
+SO PLOS ONE
+LA English
+DT Article
+ID HAPPINESS
+AB Recent years have witnessed the tremendous growth of the online social media. In China, Weibo, a Twitter-like service, has attracted more than 500 million users in less than five years. Connected by online social ties, different users might share similar affective states. We find that the correlation of anger among users is significantly higher than that of joy. While the correlation of sadness is surprisingly low. Moreover, there is a stronger sentiment correlation between a pair of users if they share more interactions. And users with larger number of friends possess more significant sentiment correlation with their neighborhoods. Our findings could provide insights for modeling sentiment influence and propagation in online social networks.
+C1 [Fan, Rui; Chen, Yan; Xu, Ke] Beihang Univ, State Key Lab Software Dev Environm, Beijing 100191, Peoples R China.
+   [Zhao, Jichang] Beihang Univ, Sch Econ & Management, Beijing 100191, Peoples R China.
+C3 Beihang University; Beihang University
+RP Xu, K (corresponding author), Beihang Univ, State Key Lab Software Dev Environm, Beijing 100191, Peoples R China.
+EM kexu@nlsde.buaa.edu.cn
+RI xu, ke/JSL-2305-2023
+FU 863 Program [2012AA011005]; SKLSDE [SKLSDE-2013ZX-06]; Research Fund for
+   the Doctoral Program of Higher Education of China [20111102110019];
+   Fundamental Research Funds for the Central Universities [YWF-14-RSC-109,
+   YWF-14-JGXY-001]
+FX This work was supported by 863 Program (grant no. 2012AA011005), SKLSDE
+   (grant no. SKLSDE-2013ZX-06), and Research Fund for the Doctoral Program
+   of Higher Education of China (grant no. 20111102110019). Jichang Zhao
+   was partially supported by the Fundamental Research Funds for the
+   Central Universities (grant nos. YWF-14-RSC-109 and YWF-14-JGXY-001).
+   The funders had no role in study design, data collection and analysis,
+   decision to publish, or preparation of the manuscript.
+CR [Anonymous], Grooming, Gossip, and the Evolution of Language
+   [Anonymous], TECHNICAL REPORT
+   [Anonymous], ARXIV13092402
+   [Anonymous], TECHNICAL REPORT
+   [Anonymous], 5 ICWSM
+   [Anonymous], ARXIV08090690
+   Aoki Sho, 2011, Recent Researchers in Applied Computer and Applied Computational Science. 10th WSEAS International Conference on Applied Computer and Applied Computational Science (ACACOS' 11), P132
+   Bliss CA, 2012, J COMPUT SCI-NETH, V3, P388, DOI 10.1016/j.jocs.2012.05.001
+   Bollen J, 2011, ARTIF LIFE, V17, P237, DOI 10.1162/artl_a_00034
+   Bollen Johan, 2011, J COMPUT SCI-NETH, DOI [10.1016/j.jocs.2010.12.007, DOI 10.1016/j.jocs.2010.12.007]
+   Chmiel A, 2011, PHYSICA A, V390, P2936, DOI 10.1016/j.physa.2011.03.040
+   Derks D, 2008, COMPUT HUM BEHAV, V24, P766, DOI 10.1016/j.chb.2007.04.004
+   Dodds PS, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0026752
+   Dodds PS, 2010, J HAPPINESS STUD, V11, P441, DOI 10.1007/s10902-009-9150-9
+   Golder SA, 2011, SCIENCE, V333, P1878, DOI 10.1126/science.1202775
+   Li C., 2012, Proceedings of the 21st ACM International Conference on Information and Knowledge Management - CIKM'12, P155, DOI DOI 10.1145/2396761.2396785
+   Liben-Nowell D, 2007, J AM SOC INF SCI TEC, V58, P1019, DOI 10.1002/asi.20591
+   Liu B, 2010, CH CRC MACH LEARN PA, P627
+   Marchetti-Bowick Micol, 2012, Proceedings of the 13th Conference of the European Chapter of the Association for Computational Linguistics, P603
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mislove A, 2007, IMC'07: PROCEEDINGS OF THE 2007 ACM SIGCOMM INTERNET MEASUREMENT CONFERENCE, P29
+   Pang B, 2002, PROCEEDINGS OF THE 2002 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING, P79, DOI 10.3115/1118693.1118704
+   Read J, 2005, Proceedings of the ACL Student Research Workshop, P43, DOI DOI 10.3115/1628960.1628969
+   Shalizi C, 2010, AM SCI, V98, P186, DOI 10.1511/2010.84.186
+   Sun GX, 2012, TANG 5 DYNASTIES BEI
+   Tossell CC, 2012, COMPUT HUM BEHAV, V28, P659, DOI 10.1016/j.chb.2011.11.012
+   Xiong XB, 2013, SCI CHINA INFORM SCI, V56, DOI 10.1007/s11432-013-4892-8
+   Zhao JC, 2014, NEUROCOMPUTING, V142, P343, DOI 10.1016/j.neucom.2014.04.025
+   Zhao Jichang., 2012, Proceedings of the 18th ACM SIGKDD international conference on Knowledge discovery and data mining, P1528, DOI DOI 10.1145/2339530.2339772
+NR 29
+TC 111
+Z9 132
+U1 1
+U2 63
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD OCT 15
+PY 2014
+VL 9
+IS 10
+AR e110184
+DI 10.1371/journal.pone.0110184
+PG 8
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA AX2IH
+UT WOS:000346766200099
+PM 25333778
+OA Green Published, Green Submitted, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Soon, C
+   Cho, HC
+AF Soon, Carol
+   Cho, Hichang
+TI OMGs! Offline-based movement organizations, online-based movement
+   organizations and network mobilization: a case study of political
+   bloggers in Singapore
+SO INFORMATION COMMUNICATION & SOCIETY
+LA English
+DT Article
+DE social movements; collective action; social networks; new media;
+   movement organizations
+ID RESOURCE MOBILIZATION; SOCIAL NETWORKS; PUBLIC SPHERES; INTERNET;
+   PARTICIPATION; ACTIVISM; SOCIETY; MEDIA; EAST; TIES
+AB The proliferation of Internet technologies has paved the way for technology adoption among marginalized communities and individuals for advancing varied political and civic agendas. Social movement scholars advocate that technology is becoming an integral component of the social movement repertoire, and building on their work, Internet scholars have examined the evolving nature of movement organizations and formal networks. Adopting resource mobilization and social network theories as the conceptual framework, this study examines political bloggers' social networks. Through 41 in-depth interviews and 76 survey responses, we collected data on political bloggers' activism participation and their organizational affiliations. Social networking patterns are linked to different organizational affiliation types - membership with formal organizations rooted in the offline context; membership with issue-based online organizations which assume a temporal nature and non-membership. Focusing on the dialectics between offline and online, permanence and temporality, the study showed that activists who belonged to offline-based organizations experienced greater social influence and collectiveness with one another. However, activist bloggers who belonged to online-based groups shared strong ties and sustained communication even after a campaign ended. More significantly, the findings show that online movement groups, although temporal in nature, foster what Sunstein [(2009). Republic.com 2.0 (pp. 19-45). Princeton, NJ: Princeton University Press] termed as 'enclave deliberation', attributed to the inclusive and open networks of online-based movement organizations.
+C1 [Soon, Carol] Natl Univ Singapore, Inst Policy Studies, Lee Kuan Yew Sch Publ Policy, Singapore 259599, Singapore.
+   [Cho, Hichang] Natl Univ Singapore, Dept Commun & New Media, Singapore 117416, Singapore.
+C3 National University of Singapore; National University of Singapore
+RP Soon, C (corresponding author), Natl Univ Singapore, Inst Policy Studies, Lee Kuan Yew Sch Publ Policy, 1C Cluny Rd House 5, Singapore 259599, Singapore.
+EM carol.soon@nus.edu.sg; cnmch@nus.edu.sg
+CR [Anonymous], CIVIC WEB ONLINE POL
+   Ayers Michael., 2003, CYBERACTIVISM ONLINE, P145
+   Bennett Lance., 2009, Handbook of Internet Politics, P246
+   Bennett W. L., 2003, Information Communication & Society, V6, P143, DOI 10.1080/1369118032000093860
+   Biddix JP, 2008, NEW MEDIA SOC, V10, P871, DOI 10.1177/1461444808096249
+   Bosch T, 2010, COMMUNICAT-S AFR J C, V36, P265, DOI 10.1080/02500167.2010.485374
+   BUECHLER SM, 1993, SOCIOL QUART, V34, P217, DOI 10.1111/j.1533-8525.1993.tb00388.x
+   BUECHLER SM, 1995, SOCIOL QUART, V36, P441, DOI 10.1111/j.1533-8525.1995.tb00447.x
+   Charmaz K., 2004, APPROACHES QUALITATI, P496, DOI DOI 10.4135/9781412950589
+   de Ziga HG, 2010, J INF TECHNOL POLITI, V7, P36, DOI 10.1080/19331680903316742
+   De Zúñiga HG, 2009, NEW MEDIA SOC, V11, P553, DOI 10.1177/1461444809102960
+   DIANI M, 2000, INFORMATION COMMUNIC, V3, P386, DOI DOI 10.1080/13691180051033333
+   Dixon M, 2003, AM J SOCIOL, V108, P1292, DOI 10.1086/375198
+   ECHCHAIBI N, 2009, INT BLOGGING, P11
+   Flanagin AJ, 2006, COMMUN MONOGR, V73, P29, DOI 10.1080/03637750600557099
+   Fritzen SA, 2007, INT J PUBLIC ADMIN, V30, P1435, DOI 10.1080/01900690701229590
+   George C., 2003, COMMUN REV, V6, P247
+   GOULD RV, 1991, AM SOCIOL REV, V56, P716, DOI 10.2307/2096251
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   HANNIGAN JA, 1985, SOCIOL QUART, V26, P435, DOI 10.1111/j.1533-8525.1985.tb00237.x
+   Haythornthwaite C, 2002, INFORM SOC, V18, P385, DOI 10.1080/01972240290108195
+   Ho KC, 2002, BRIT J SOCIOL, V53, P127, DOI 10.1080/00071310120109366
+   Holloway W., 2000, DOING QUALITATIVE RE
+   Jenkins H., 2006, FANS BLOGGERS GAMERS
+   JENKINS JC, 1983, ANNU REV SOCIOL, V9, P527, DOI 10.1146/annurev.so.09.080183.002523
+   KLANDERMANS B, 1984, AM SOCIOL REV, V49, P583, DOI 10.2307/2095417
+   Kvale S., 1996, INTERVIEWS INTRO QUA
+   Langman L, 2005, SOCIOL THEOR, V23, P42, DOI 10.1111/j.0735-2751.2005.00242.x
+   Lin Jia., 2007, Connections, V27, P15
+   Locher D.A., 2002, Collective behavior, P231
+   Mamadouh V, 2004, TIJDSCHR ECON SOC GE, V95, P482, DOI 10.1111/j.0040-747X.2004.00334.x
+   MCADAM D, 1986, AM J SOCIOL, V92, P64, DOI 10.1086/228463
+   MCADAM D, 1993, AM J SOCIOL, V99, P640, DOI 10.1086/230319
+   McAdam Doug., 1999, POLITICAL PROCESS DE, V2nd
+   McAdam Doug., 2003, Dynamics of Contention
+   MCCARTHY JD, 1977, AM J SOCIOL, V82, P1212, DOI 10.1086/226464
+   McCarthy John., 1973, TREND SOCIAL MOVEMEN
+   Nah S, 2006, J COMPUT-MEDIAT COMM, V12, P230, DOI 10.1111/j.1083-6101.2006.00323.x
+   Olson M., 1965, The logic of collective action
+   Olson M., 1968, LOGIC COLLECTIVE ACT
+   Oppenheimer M., 1989, The Sit-In Movement of 1960
+   Pfaff S, 1996, SOC FORCES, V75, P91, DOI 10.2307/2580758
+   Porta DonatellaDella., 2006, SOCIAL MOVEMENTS INT, VSecond
+   Rodan G, 2003, PAC REV, V16, P455, DOI 10.1080/0951274032000132209
+   Rodan G, 1998, POLIT SCI QUART, V113, P63, DOI 10.2307/2657651
+   SNOW DA, 1980, AM SOCIOL REV, V45, P787, DOI 10.2307/2094895
+   Soon C, 2011, J INF TECHNOL POLITI, V8, P93, DOI 10.1080/19331681.2010.514538
+   Sunstein C., 2009, REPUBLIC COM 2 0, P19
+   Tarrow Sidney., 1994, POWER MOVEMENT
+   Tilly Charles, 2020, Social Movements
+   Tilly Charles., 1978, From Mobilisation to Revolution
+   Tindall DB, 2002, CAN REV SOC ANTHROP, V39, P413
+   Van Laer J, 2010, INFORM COMMUN SOC, V13, P1146, DOI 10.1080/13691181003628307
+   Vegh S., 2003, CYBERACTIVISM ONLINE, p7 1
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   Wellman B., 1999, COMMUNITIES CYBERSPA, P167, DOI DOI 10.2307/2655574
+NR 56
+TC 15
+Z9 18
+U1 1
+U2 43
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1369-118X
+EI 1468-4462
+J9 INFORM COMMUN SOC
+JI Info. Commun. Soc.
+PD MAY 28
+PY 2014
+VL 17
+IS 5
+BP 537
+EP 559
+DI 10.1080/1369118X.2013.808256
+PG 23
+WC Communication; Sociology
+WE Social Science Citation Index (SSCI)
+SC Communication; Sociology
+GA AE3JX
+UT WOS:000333873900002
+DA 2024-11-22
+ER
+
+PT J
+AU Savage, D
+   Zhang, XZ
+   Yu, XH
+   Chou, P
+   Wang, QM
+AF Savage, David
+   Zhang, Xiuzhen
+   Yu, Xinghuo
+   Chou, Pauline
+   Wang, Qingmai
+TI Anomaly detection in online social networks
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Anomaly detection; Link mining; Link analysis; Social network analysis;
+   Online social networks
+ID NOVELTY DETECTION; WEB
+AB Anomalies in online social networks can signify irregular, and often illegal behaviour. Detection of such anomalies has been used to identify malicious individuals, including spammers, sexual predators, and online fraudsters. In this paper we survey existing computational techniques for detecting anomalies in online social networks. We characterise anomalies as being either static or dynamic, and as being labelled or unlabelled, and survey methods for detecting these different types of anomalies. We suggest that the detection of anomalies in online social networks is composed of two sub-processes; the selection and calculation of network features, and the classification of observations from this feature space. In addition, this paper provides an overview of the types of problems that anomaly detection can address and identifies key areas for future research. (C) 2014 Elsevier B.V. All rights reserved.
+C1 [Savage, David; Zhang, Xiuzhen; Yu, Xinghuo; Chou, Pauline; Wang, Qingmai] RMIT Univ, Sch CS&IT, Melbourne, Vic 3001, Australia.
+   [Chou, Pauline] Australian Transact Reports & Anal Ctr, Melbourne, Vic 8010, Australia.
+C3 Royal Melbourne Institute of Technology (RMIT)
+RP Savage, D (corresponding author), RMIT Univ, Sch CS&IT, GPO Box 2476, Melbourne, Vic 3001, Australia.
+EM david.savage@rmit.edu.au
+RI Sui, Xinghua/HZM-5992-2023; Zhang, Hao Lan/B-8824-2008; Yu,
+   Xinghuo/D-8423-2013
+OI Zhang, Xiuzhen (Jenny)/0000-0001-5558-3790; Lin,
+   Pauline/0000-0001-6407-2028; Yu, Xinghuo/0000-0001-8093-9787
+CR Akoglu L., 2013, ICWSM, P1
+   Akoglu L, 2010, LECT NOTES ARTIF INT, V6119, P410
+   Akoglu L, 2009, DATA MIN KNOWL DISC, V19, P194, DOI 10.1007/s10618-009-0140-7
+   Akoglu Leman, 2013, P 6 ACM INT C WEB SE, P773, DOI DOI 10.1145/2433396.2433496
+   [Anonymous], 2013, Netw. sci., DOI DOI 10.1017/NWS.2013.2
+   [Anonymous], 2005, Asor Bulletin
+   [Anonymous], 2011, THESIS U NEW MEXICO
+   Arney DC, 2013, J DEF MODEL SIMUL-AP, V10, P57, DOI 10.1177/1548512912438066
+   Barnett V, 1994, Outliers in statistical data.
+   Bird C., 2008, Proceedings of the 2008 ACM SIGSOFT Symposium on the Foundations of Software Engineering, P24
+   Bolton RJ, 2002, STAT SCI, V17, P235
+   Chakrabarti D, 2004, SIAM PROC S, P442
+   Chakrabarti D, 2006, ACM COMPUT SURV, V38, pA1, DOI 10.1145/1132952.1132954
+   Chandola V, 2009, THESIS U MINNESOTA
+   Chandola V, 2012, IEEE T KNOWL DATA EN, V24, P823, DOI 10.1109/TKDE.2010.235
+   Chau DH, 2006, LECT NOTES ARTIF INT, V4213, P103
+   Cheboli D., 2010, THESIS U MINNESOTA
+   Chen ZZ, 2012, J INTELL INF SYST, V39, P59, DOI 10.1007/s10844-011-0183-2
+   Cheng Adriel, 2013, Trends and Applications in Knowledge Discovery and Data Mining. PAKDD 2013 International Workshops: DMApps, DANTH, QIMIE, BDM, CDA, CloudSD. Revised Selected Papers: LNCS 7867, P1, DOI 10.1007/978-3-642-40319-4_1
+   Eberle William, 2007, Proceedings of the International Conference on Data Mining. DMIN 2007, P376
+   Eberle W, 2009, ISI: 2009 IEEE INTERNATIONAL CONFERENCE ON INTELLIGENCE AND SECURITY INFORMATICS, P206, DOI 10.1109/ISI.2009.5137304
+   Fire M., 2012, HUMAN J, V1, P26
+   Friedland L., 2009, ENCY DATA WAREHOUSIN, P39
+   Gao J., 2013, GRAPH EMBEDDING PATT, P205
+   Gao J., 2010, KDD, P813, DOI DOI 10.1145/1835804.1835907
+   García-Teodoro P, 2009, COMPUT SECUR, V28, P18, DOI 10.1016/j.cose.2008.08.003
+   Gay G, 2011, P 2011 ICONFERENCE A, P122, DOI DOI 10.1145/1940761.1940778
+   Getoor L., 2005, SigKDD Explorations Special Issue on Link Mining, V7, P3, DOI [10.1145/1117454.1117456, DOI 10.1145/1117454.1117456]
+   Glasser J, 2013, IEEE CS SECURITY AND PRIVACY WORKSHOPS (SPW 2013), P98, DOI 10.1109/SPW.2013.37
+   Gogoi P, 2011, COMPUT J, V54, P570, DOI 10.1093/comjnl/bxr026
+   Gupta Manish, 2012, Machine Learning and Knowledge Discovery in Databases. Proceedings of the European Conference (ECML PKDD 2012), P692, DOI 10.1007/978-3-642-33486-3_44
+   Hassanzadeh R., 2012, International Conference on Web Information Systems Engineering, P624
+   Heard NA, 2010, ANN APPL STAT, V4, P645, DOI 10.1214/10-AOAS329
+   Hodge VJ, 2004, ARTIF INTELL REV, V22, P85, DOI 10.1023/B:AIRE.0000045502.10941.a9
+   Huang Z., 2006, Systems, Man and Cybernetics, V2, P1131
+   Hummel A, 2012, EUROPEAN SIMULATION AND MODELLING CONFERENCE 2012, P212
+   Janakiram D, 2006, 2006 1ST INTERNATIONAL CONFERENCE ON COMMUNICATION SYSTEMS SOFTWARE & MIDDLEWARE, VOLS 1 AND 2, P552
+   Jyothsna V., 2011, INT J COMPUT APPL
+   Kim H, 2012, COMPUTER AND INFORMATION SCIENCES II, P257, DOI 10.1007/978-1-4471-2155-8_32
+   Kim Haseong, 2009, BMC Genomics, V10 Suppl 3, pS26, DOI 10.1186/1471-2164-10-S3-S26
+   Krebs, 2002, CONNECTIONS, V24, P43
+   Malm A, 2011, J RES CRIME DELINQ, V48, P271, DOI 10.1177/0022427810391535
+   Marchette D, 2012, WIRES COMPUT STAT, V4, P466, DOI 10.1002/wics.1217
+   Markou M, 2003, SIGNAL PROCESS, V83, P2499, DOI 10.1016/j.sigpro.2003.07.019
+   Markou M, 2003, SIGNAL PROCESS, V83, P2481, DOI 10.1016/j.sigpro.2003.07.018
+   McCulloh I., 2011, DETECTING CHANGE LON, V12, P1, DOI DOI 10.21307/JOSS-2019-031
+   Menges F, 2008, 2008 WINTER SIMULATION CONFERENCE, VOLS 1-5, P2792, DOI 10.1109/WSC.2008.4736399
+   Miller B.A., 2011, 2011 Proceedings of the 14th International Conference on Information Fusion (FUSION), P1
+   Miller B.A., 2010, Advances in Neural Inform. Process. Syst. 23, P1633
+   Miller BA, 2013, 2013 IEEE INTERNATIONAL CONFERENCE ON INTELLIGENCE AND SECURITY INFORMATICS: BIG DATA, EMERGENT THREATS, AND DECISION-MAKING IN SECURITY INFORMATICS, P179, DOI 10.1109/ISI.2013.6578815
+   Miller BA, 2011, 2011 IEEE STATISTICAL SIGNAL PROCESSING WORKSHOP (SSP), P509, DOI 10.1109/SSP.2011.5967745
+   Miller BA, 2010, INT CONF ACOUST SPEE, P5414, DOI 10.1109/ICASSP.2010.5494930
+   Müller E, 2013, I C DATA ENGIN WORKS, P216, DOI 10.1109/ICDEW.2013.6547453
+   Newman MEJ, 2006, PHYS REV E, V74, DOI 10.1103/PhysRevE.74.036104
+   Newman MEJ, 2001, PHYS REV E, V64, DOI 10.1103/PhysRevE.64.025102
+   Newman MEJ, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.036122
+   Noble C.C., 2003, P INT C KNOWL DISC D, P631, DOI DOI 10.1145/956750.956831
+   Pandit Shashank, 2007, P 16 INT C WORLD WID, P201, DOI DOI 10.1145/1242572.1242600
+   Papadimitriou P, 2010, J INTERNET SERV APPL, V1, P19, DOI 10.1007/s13174-010-0003-x
+   Park Y., 2009, SDM
+   Patcha A, 2007, COMPUT NETW, V51, P3448, DOI 10.1016/j.comnet.2007.02.001
+   Phua C., 2010, Computers in Human Behavior, P1, DOI [10.1016/j.chb.2012.01.002, DOI 10.1016/J.CHB.2012.01.002]
+   Prasad NR, 2009, CMC-COMPUT MATER CON, V14, P1, DOI 10.1145/1541880.1541882
+   Priebe C. Y., 2005, Computational & Mathematical Organization Theory, V11, P229, DOI 10.1007/s10588-005-5378-z
+   Reid E, 2005, LECT NOTES COMPUT SC, V3495, P402
+   Rowe M., 2012, Proceedings of the 11th international conference on The Semantic Web Volume Part I, P476, DOI DOI 10.1007/978-3-642-35176-1_30
+   Sallaberry A, 2013, SOC NETW ANAL MIN, V3, P597, DOI 10.1007/s13278-013-0105-0
+   Serin E, 2012, 2012 IEEE/ACM INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING (ASONAM), P1099, DOI 10.1109/ASONAM.2012.189
+   Shashi Shekhar, 2001, KDD-2001. Proceedings of the Seventh ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, P371, DOI 10.1145/502512.502567
+   Shetty J., 2005, P 3 INT WORKSHOP LIN, P74, DOI [10.1145/1134271.1134282, DOI 10.1145/1134271.1134282]
+   Shrivastava N, 2008, PROC INT CONF DATA, P486, DOI 10.1109/ICDE.2008.4497457
+   Silva J, 2008, 2008 42ND ANNUAL CONFERENCE ON INFORMATION SCIENCES AND SYSTEMS, VOLS 1-3, P636, DOI 10.1109/CISS.2008.4558601
+   Subelj L, 2011, EXPERT SYST APPL, V38, P1039, DOI 10.1016/j.eswa.2010.07.143
+   Tambayong L, 2014, INTEL SYST REF LIBR, V52, P43, DOI 10.1007/978-3-642-39149-1_5
+   Tengfei Ji, 2013, Machine Learning and Knowledge Discovery in Databases. European Conference (ECML PKDD 2013). Proceedings: LNCS 8189, P1, DOI 10.1007/978-3-642-40991-2_1
+   Tengfei Ji, 2012, Web-Age Information Management. Proceedings of the 13th International Conference, WAIM 2012, P434, DOI 10.1007/978-3-642-32281-5_42
+   Tsugawa S., 2010, Information and Telecommunication Technologies (APSITT), 2010 8th Asia-Pacific Symposium on, P1
+   Zhang Y, 2010, IEEE COMMUN SURV TUT, V12, P159, DOI 10.1109/SURV.2010.021510.00088
+   Zoltan G., 2004, P 30 INT C VER LARG, P576, DOI 10.1016/B978-012088469-8.50052-8
+NR 79
+TC 169
+Z9 198
+U1 10
+U2 68
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD OCT
+PY 2014
+VL 39
+BP 62
+EP 70
+DI 10.1016/j.socnet.2014.05.002
+PG 9
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA AN1JM
+UT WOS:000340338600006
+OA Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Wang, W
+   Neuman, EJ
+   Newman, DA
+AF Wang, Wei
+   Neuman, Eric J.
+   Newman, Daniel A.
+TI Statistical power of the social network autocorrelation model
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Network autocorrelation model; Social network analysis; Statistical
+   power
+ID AUTO-CORRELATION; DEPENDENCY TESTS; ESTIMATION BIAS; TOPOLOGY; DYNAMICS;
+   DENSITY
+AB The network autocorrelation model has become an increasingly popular tool for conducting social network analysis. More and more researchers, however, have documented evidence of a systematic negative bias in the estimation of the network effect (rho). In this paper, we take a different approach to the problem by investigating conditions under which, despite the underestimation bias, a network effect can still be detected by the network autocorrelation model. Using simulations, we find that moderately-sized network effects (e.g., rho=.3) are still often detectable in modest-sized networks (i.e., 40 or more nodes). Analyses reveal that statistical power is primarily a nonlinear function of network effect size (rho) and network size (N), although both of these factors can interact with network density and network structure to impair power under certain rare conditions. We conclude by discussing implications of these findings and guidelines for users of the autocorrelation model. (C) 2014 Elsevier B.V. All rights reserved.
+C1 [Wang, Wei] Univ Cent Florida, Orlando, FL 32816 USA.
+   [Neuman, Eric J.; Newman, Daniel A.] Univ Illinois, Urbana, IL USA.
+C3 State University System of Florida; University of Central Florida;
+   University of Illinois System; University of Illinois Urbana-Champaign
+RP Wang, W (corresponding author), Univ Cent Florida, Dept Psychol, 4000 Cent Florida Blvd,Psychol Bldg 99 Ste 320, Orlando, FL 32816 USA.
+EM wei.wang@ucf.edu
+RI Newman, Daniel/AAE-3556-2022; Wang, Wei/X-6900-2019
+OI Wang, Wei/0000-0002-4090-4712
+CR Abraham WT, 2008, SOC PERSONAL PSYCHOL, V2, P283, DOI 10.1111/j.1751-9004.2007.00052.x
+   [Anonymous], SPATIAL STAT PAST PR
+   [Anonymous], 1988, STAT POWER ANAL BEHA
+   [Anonymous], FAO IRRIGATION DRAIN
+   ANSELIN L, 1992, REG SCI URBAN ECON, V22, P509, DOI 10.1016/0166-0462(92)90042-Y
+   Butts C.T., 2008, J STAT SOFTW, V24, P1, DOI DOI 10.18637/JSS.V024.I02
+   Cho WKT, 2003, AM J POLIT SCI, V47, P368, DOI 10.2307/3186145
+   Cliff A. D., 1981, SPATIAL PROCESSES MO
+   COHEN J, 1962, J ABNORM PSYCHOL, V65, P145, DOI 10.1037/h0045186
+   COHEN J, 1992, PSYCHOL BULL, V112, P155, DOI 10.1037/0033-2909.112.1.155
+   COHEN J., 1969, Statistical power analysis
+   Crowder K, 2008, AM SOCIOL REV, V73, P792, DOI 10.1177/000312240807300505
+   DOREIAN P, 1984, SOCIOL METHOD RES, V13, P155, DOI 10.1177/0049124184013002001
+   DOREIAN P, 1980, SOCIOL METHOD RES, V9, P29, DOI 10.1177/004912418000900102
+   Doreian P., 1981, Sociological Methodology, V12, P359, DOI [10.2307/270747, DOI 10.2307/270747]
+   Dow MM, 2008, CROSS-CULT RES, V42, P148, DOI 10.1177/1069397107311186
+   Dow MM, 2007, CROSS-CULT RES, V41, P336, DOI 10.1177/1069397107305452
+   DOW MM, 1982, SOC NETWORKS, V4, P169, DOI 10.1016/0378-8733(82)90031-4
+   Farber S, 2010, ADV SPAT SCI, P29, DOI 10.1007/978-3-642-03326-1_3
+   Farber S, 2009, GEOGR ANAL, V41, P158, DOI 10.1111/j.1538-4632.2009.00751.x
+   Francis G, 2012, P NATL ACAD SCI USA, V109, pE1587, DOI 10.1073/pnas.1203591109
+   Francis G, 2012, SCIENCE, V336, P802, DOI 10.1126/science.336.6083.802-a
+   Franzese RJ, 2007, POLIT ANAL, V15, P140, DOI 10.1093/pan/mpm005
+   Franzese RJ, 2012, POLIT ANAL, V20, P175, DOI 10.1093/pan/mpr049
+   Fujimoto K, 2011, SOC NETWORKS, V33, P231, DOI 10.1016/j.socnet.2011.06.001
+   Girvan M, 2002, P NATL ACAD SCI USA, V99, P7821, DOI 10.1073/pnas.122653799
+   IBARRA H, 1993, ADMIN SCI QUART, V38, P277, DOI 10.2307/2393414
+   Kelejian HH, 2002, REG SCI URBAN ECON, V32, P691, DOI 10.1016/S0166-0462(02)00003-0
+   Kraemer H. C., 1987, MANY SUBJECTS STAT P
+   Leenders RTAJ, 2002, SOC NETWORKS, V24, P21, DOI 10.1016/S0378-8733(01)00049-1
+   LeSage JamesP., 1999, Spatial econometrics
+   LOFTIN C, 1983, AM SOCIOL REV, V48, P121, DOI 10.2307/2095150
+   Mizruchi MS, 2008, SOC NETWORKS, V30, P190, DOI 10.1016/j.socnet.2008.02.002
+   Mizruchi MS, 2006, AM SOCIOL REV, V71, P310, DOI 10.1177/000312240607100207
+   Murphy K.R., 1998, Statistical power analysis: A simple and general model for traditional and modern hypothesis tests
+   Neuman EJ, 2010, SOC NETWORKS, V32, P290, DOI 10.1016/j.socnet.2010.04.003
+   ORD K, 1975, J AM STAT ASSOC, V70, P120, DOI 10.2307/2285387
+   Pisati M., 2001, STATA TECHNICAL B, P21
+   R Development Core Team, 2012, R: A language and environment for statistical computing
+   ROSENTHAL R, 1979, PSYCHOL BULL, V86, P638, DOI 10.1037/0033-2909.86.3.638
+   SCHMIDT FL, 1992, AM PSYCHOL, V47, P1173, DOI 10.1037/0003-066X.47.10.1173
+   Simmons JP, 2011, PSYCHOL SCI, V22, P1359, DOI 10.1177/0956797611417632
+   Smith TE, 2009, GEOGR ANAL, V41, P307, DOI 10.1111/j.1538-4632.2009.00758.x
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   WHITE DR, 1981, AM ANTHROPOL, V83, P824, DOI 10.1525/aa.1981.83.4.02a00040
+NR 45
+TC 28
+Z9 31
+U1 1
+U2 21
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JUL
+PY 2014
+VL 38
+BP 88
+EP 99
+DI 10.1016/j.socnet.2014.03.004
+PG 12
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA AI6VP
+UT WOS:000337015400008
+DA 2024-11-22
+ER

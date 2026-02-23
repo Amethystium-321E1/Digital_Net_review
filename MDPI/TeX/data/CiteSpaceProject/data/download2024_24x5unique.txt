@@ -1,0 +1,576 @@
+
+PT J
+AU Butts, CT
+AF Butts, Carter T.
+TI Continuous time graph processes with known ERGM equilibria: contextual
+   review, extensions, and synthesis
+SO JOURNAL OF MATHEMATICAL SOCIOLOGY
+LA English
+DT Review
+ID ACTOR-ORIENTED MODELS; SOCIAL NETWORKS; DYNAMIC NETWORKS; HIV
+   PREVALENCE; INFERENCE; SELECTION; DISPARITIES; REGRESSION; FORMS
+AB Graph processes that unfold in continuous time are of obvious theoretical and practical interest. Particularly useful are those whose long-term behavior converges to a graph distribution of known form. Here, we review some of the conditions for such convergence, and provide examples of novel and/or known processes that do so. These include subfamilies of the well-known stochastic actor-oriented models, as well as continuum extensions of temporal and separable temporal exponential family random graph models. We also comment on some related threads in the broader work on network dynamics, which provide additional context for the continuous time case.
+C1 [Butts, Carter T.] Univ Calif Irvine, EECS & Inst Math Behav Sci, Dept Sociol Stat & Comp Sci, Irvine, CA USA.
+   [Butts, Carter T.] Univ Calif Irvine, EECS & Inst Math Behav Sci, Dept Sociol Stat & Comp Sci, Irvine, CA 92697 USA.
+C3 University of California System; University of California Irvine;
+   University of California System; University of California Irvine
+RP Butts, CT (corresponding author), Univ Calif Irvine, EECS & Inst Math Behav Sci, Dept Sociol Stat & Comp Sci, Irvine, CA 92697 USA.
+EM buttsc@uci.edu
+FU NIH [1R01GM144964-01]; NSF [SES-1826589]
+FX This work was supported by the NIH award 1R01GM144964-01 and NSF award
+   SES-1826589. The author thanks Martina Morris, Michael Schweinberger,
+   Chad Klumb, and Steve Goodreau for their input and helpful comments.
+CR Almquist ZW, 2013, POLIT ANAL, V21, P430, DOI 10.1093/pan/mpt016
+   [Anonymous], 1998, Individual Strategy and Social Structure: An Evolutionary Theory of Institutions
+   [Anonymous], 2012, Events in social networks: A stochastic actor-oriented framework for dynamic event processes in social networks
+   [Anonymous], 2002, J. Social Struct
+   BAKER WE, 1984, AM J SOCIOL, V89, P775, DOI 10.1086/227944
+   Ben Gibson C, 2023, SOC NETWORKS, V73, P104, DOI 10.1016/j.socnet.2022.10.003
+   Block P, 2019, SOCIOL METHOD RES, V48, P202, DOI 10.1177/0049124116672680
+   Borgers T, 1997, J ECON THEORY, V77, P1, DOI 10.1006/jeth.1997.2319
+   Burk WJ, 2007, INT J BEHAV DEV, V31, P397, DOI 10.1177/0165025407077762
+   Burt RS, 2002, SOC NETWORKS, V24, P333, DOI 10.1016/S0378-8733(02)00017-5
+   Burt RS, 2000, SOC NETWORKS, V22, P1, DOI 10.1016/S0378-8733(99)00015-5
+   Butts C. T., 2020, J MATH SOCIOL
+   Butts C. T., 2009, ASA ANN M PRESENTATI
+   Butts CT, 2021, J MATH SOCIOL, V45, P135, DOI 10.1080/0022250X.2020.1746298
+   Butts CT, 2019, J MATH SOCIOL, V43, P40, DOI 10.1080/0022250X.2018.1490737
+   Butts CT, 2017, SOCIOL METHODOL, V47, P47, DOI 10.1177/0081175017728929
+   Butts CT, 2018, J MATH SOCIOL, V42, P17, DOI 10.1080/0022250X.2017.1396985
+   Butts CT, 2015, J MATH SOCIOL, V39, P163, DOI 10.1080/0022250X.2014.967851
+   Butts CT, 2008, SOCIOL METHODOL, V38, P155, DOI 10.1111/j.1467-9531.2008.00203.x
+   Byshkin M, 2016, J STAT PHYS, V165, P740, DOI 10.1007/s10955-016-1650-5
+   CARLEY K, 1991, AM SOCIOL REV, V56, P331, DOI 10.2307/2096108
+   Carnegie NB, 2015, J COMPUT GRAPH STAT, V24, P502, DOI 10.1080/10618600.2014.903087
+   COX DR, 1972, J R STAT SOC B, V34, P187
+   Crouch B., 1998, MARKOV CHAIN MONTE C
+   de la Haye K, 2011, J ADOLESCENT HEALTH, V49, P421, DOI 10.1016/j.jadohealth.2011.02.008
+   Desmarais BA, 2012, PHYSICA A, V391, P1865, DOI 10.1016/j.physa.2011.10.018
+   Diessner EM, 2023, J PHYS CHEM B, V127, P685, DOI 10.1021/acs.jpcb.2c07672
+   FELD SL, 1981, AM J SOCIOL, V86, P1015, DOI 10.1086/227352
+   FREEMAN LC, 1988, J SOC BIOL STRUCT, V11, P415, DOI 10.1016/0140-1750(88)90080-2
+   Grazioli G, 2019, J PHYS CHEM B, V123, P5452, DOI 10.1021/acs.jpcb.9b03494
+   Grimmett G. R., 1992, PROBABILITY RANDOM P
+   Häggström O, 1999, J APPL PROBAB, V36, P1101, DOI 10.1239/jap/1032374758
+   Handcock MS, 2010, ANN APPL STAT, V4, P5, DOI 10.1214/08-AOAS221
+   Handcock MS, 2003, DYNAMIC SOCIAL NETWORK MODELING AND ANALYSIS, P229
+   Hanneke S, 2007, LECT NOTES COMPUT SC, V4503, P115
+   Hoffman M, 2020, NETW SCI, V8, pS4, DOI 10.1017/nws.2020.3
+   HOLLAND PW, 1977, J MATH SOCIOL, V5, P5, DOI 10.1080/0022250X.1977.9989862
+   HUMMON NP, 1995, SOC NETWORKS, V17, P1, DOI 10.1016/0378-8733(94)00245-6
+   Hunter DR., 2008, Journal of Statistical Software, V24, P1, DOI DOI 10.18637/JSS.V024.I03
+   KAHNEMAN D, 1979, ECONOMETRICA, V47, P263, DOI 10.2307/1914185
+   KATZ L, 1959, PSYCHOMETRIKA, V24, P317, DOI 10.1007/BF02289814
+   Klumb C., 2022, REV EDGES DISSOLUTIO
+   Koskinen J, 2015, NETW SCI, V3, P58, DOI 10.1017/nws.2015.3
+   Koskinen JH, 2007, J STAT PLAN INFER, V137, P3930, DOI 10.1016/j.jspi.2007.04.011
+   Koskinen JH, 2013, SOC NETWORKS, V35, P514, DOI 10.1016/j.socnet.2013.07.003
+   Krivitsky P. N., 2012, MODELING DYNAMIC NET, V12, P1
+   Krivitsky PN, 2017, ANN APPL STAT, V11, P427, DOI 10.1214/16-AOAS1010
+   Krivitsky PN, 2015, STAT SCI, V30, P184, DOI 10.1214/14-STS502
+   Krivitsky PN, 2014, J ROY STAT SOC B, V76, P29, DOI 10.1111/rssb.12014
+   Krivitsky PN, 2012, ELECTRON J STAT, V6, P1100, DOI 10.1214/12-EJS696
+   Krivitsky PN, 2011, STAT METHODOL, V8, P319, DOI 10.1016/j.stamet.2011.01.005
+   Lawson BG, 2000, JASSS, V3, pU35
+   Lerner J, 2013, J MATH PSYCHOL, V57, P275, DOI 10.1016/j.jmp.2012.03.002
+   Lospinoso J., 2019, METHODOLOGICAL INNOV, V12, P1, DOI DOI 10.1177/2059799119884282
+   Lusher Dean, 2012, Exponential random graph models for social networks: Theory, methods, and applications
+   Lutkepohl H., 1993, INTRO MULTIVARIATE T
+   MAYHEW BH, 1984, J MATH SOCIOL, V9, P305, DOI 10.1080/0022250X.1984.9989953
+   Mele A., 2010, 1016 NET I
+   Mele A, 2017, ECONOMETRICA, V85, P825, DOI 10.3982/ECTA10400
+   Morris Martina, 2008, J Stat Softw, V24, P1548
+   Morris M, 2009, AM J PUBLIC HEALTH, V99, P1023, DOI 10.2105/AJPH.2008.147835
+   Niezink NMD, 2017, ANN APPL STAT, V11, P1948, DOI 10.1214/17-AOAS1037
+   Park J, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.066146
+   Perry PO, 2013, J R STAT SOC B, V75, P821, DOI 10.1111/rssb.12013
+   Radin C, 2013, ANN APPL PROBAB, V23, P2458, DOI 10.1214/12-AAP907
+   Robins G, 2005, AM J SOCIOL, V110, P894, DOI 10.1086/427322
+   Robins G, 2001, J MATH SOCIOL, V25, P5, DOI 10.1080/0022250X.2001.9990243
+   Schaefer DR, 2020, AM SOCIOL REV, V85, P709, DOI 10.1177/0003122420941021
+   Schweinberger M, 2007, COMPUT STAT DATA AN, V51, P4465, DOI 10.1016/j.csda.2006.07.014
+   Schweinberger M, 2020, STAT SCI, V35, P627, DOI 10.1214/19-STS743
+   Schweinberger M, 2011, J AM STAT ASSOC, V106, P1361, DOI 10.1198/jasa.2011.tm10747
+   Sijtsema JJ, 2010, SOC DEV, V19, P515, DOI 10.1111/j.1467-9507.2009.00566.x
+   SKVORETZ J, 1985, SOC NETWORKS, V7, P225, DOI 10.1016/0378-8733(85)90016-4
+   Snijders TAB, 2001, SOCIOL METHODOL, V31, P361, DOI 10.1111/0081-1750.00099
+   Snijders TAB, 1996, J MATH SOCIOL, V21, P149, DOI 10.1080/0022250X.1996.9990178
+   Snijders TAB, 2010, ANN APPL STAT, V4, P567, DOI 10.1214/09-AOAS313
+   Snijders TomA. B., 1997, Simulating Social Phenomena, P493
+   Stadtfeld C, 2017, SOCIOL METHODOL, V47, P1, DOI 10.1177/0081175017709295
+   Steglich C, 2010, SOCIOL METHODOL, V40, P329, DOI 10.1111/j.1467-9531.2010.01225.x
+   Stivala AD, 2016, SOC NETWORKS, V47, P167, DOI 10.1016/j.socnet.2015.11.003
+   STRAUSS D, 1986, SIAM REV, V28, P513, DOI 10.1137/1028156
+   Vu D., 2011, P 28 INT C MACH LEAR, P857
+   Vu D., 2011, P 2011 INT C NEURAL
+   Wang J, 2014, COMMUN STAT-SIMUL C, V43, P359, DOI 10.1080/03610918.2012.703359
+   Wasserman SS., 1980, Sociological Methodology, V11, P392, DOI DOI 10.2307/270870
+   Weerman FM, 2011, CRIMINOLOGY, V49, P253, DOI 10.1111/j.1745-9125.2010.00223.x
+   Yu Y, 2020, SCI REP-UK, V10, DOI 10.1038/s41598-020-72260-8
+NR 87
+TC 3
+Z9 3
+U1 1
+U2 14
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 0022-250X
+EI 1545-5874
+J9 J MATH SOCIOL
+JI J. Math. Sociol.
+PD APR 2
+PY 2024
+VL 48
+IS 2
+BP 129
+EP 171
+DI 10.1080/0022250X.2023.2180001
+EA FEB 2023
+PG 43
+WC Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods; Sociology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Mathematical Methods In Social Sciences; Sociology
+GA IZ8J4
+UT WOS:000941945000001
+PM 38681800
+OA Green Accepted
+DA 2024-11-22
+ER
+
+PT J
+AU Chadha, S
+   Ha, T
+   Wood, A
+AF Chadha, Sareena
+   Ha, Tiffany
+   Wood, Adrienne
+TI Thinking you&apos;re different matters more for belonging than being
+   different
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID PLURALISTIC IGNORANCE; NETWORK STRUCTURE; SIMILARITY; NORMS; SENSE;
+   ADOLESCENTS; PERCEPTION; FRIENDSHIP; STUDENTS; ATTRACTION
+AB Belonging to a community is essential for wellbeing, but potentially unattainable for those dissimilar from a group. In the present work, we ask whether belongingness is better predicted by acting and thinking like peers or believing you act and think like peers. Students (N = 1181) reported their belonging and how much they, their friends, and an "average student" endorsed local behavioral norms and general values. We calculated difference scores for behaviors and values capturing perceived similarity to the average, actual similarity to the average, and accuracy around the norm. Key results indicate that perceived behavioral similarity to the average, when controlling for other differences, predicts belonging and most robustly mediates between identity and belonging. Using social network analysis, we find behavioral differences from friends are meaningfully linked to network density and racial homophily. Efficient interventions for enhanced belonging could highlight similarities between students and their peers.
+C1 [Chadha, Sareena; Ha, Tiffany; Wood, Adrienne] Univ Virginia, Dept Psychol, 485 McCormick Rd, Charlottesville, VA 22904 USA.
+C3 University of Virginia
+RP Chadha, S (corresponding author), Univ Virginia, Dept Psychol, 485 McCormick Rd, Charlottesville, VA 22904 USA.
+EM sc2hr@virginia.edu
+RI Wood, Adrienne/AAQ-2072-2020
+CR Allen KA, 2021, AUST J PSYCHOL, V73, P87, DOI 10.1080/00049530.2021.1883409
+   Aral S, 2009, P NATL ACAD SCI USA, V106, P21544, DOI 10.1073/pnas.0908800106
+   BAUMEISTER RF, 1995, PSYCHOL BULL, V117, P497, DOI 10.1037/0033-2909.117.3.497
+   Berkowitz A.D., 2004, Higher Education Center for Alcohol and Other Drug Abuse and Violence Prevention
+   Bouton ME, 2014, PREV MED, V68, P29, DOI 10.1016/j.ypmed.2014.06.010
+   Bursztyn L, 2022, ANNU REV ECON, V14, P425, DOI 10.1146/annurev-economics-051520-023322
+   BURT RS, 1992, NETWORKS AND ORGANIZATIONS : STRUCTURE, FORM, AND ACTION, P57
+   Cameron JA, 2004, SOC COGNITION, V22, P650, DOI 10.1521/soco.22.6.650.54818
+   Chen BW, 2015, MOTIV EMOTION, V39, P216, DOI 10.1007/s11031-014-9450-1
+   Civitci A, 2015, PROCD SOC BEHV, V205, P271, DOI 10.1016/j.sbspro.2015.09.077
+   de Vreeze J, 2018, BRIT J SOC PSYCHOL, V57, P684, DOI 10.1111/bjso.12253
+   Donohew RL, 1999, J STUD ALCOHOL, V60, P622, DOI 10.15288/jsa.1999.60.622
+   Elmore KL, 2001, MON WEATHER REV, V129, P540, DOI 10.1175/1520-0493(2001)129<0540:EDAASM>2.0.CO;2
+   FLOYD K, 1995, J PSYCHOL, V129, P193, DOI 10.1080/00223980.1995.9914958
+   Galesic M, 2018, PSYCHOL REV, V125, P363, DOI 10.1037/rev0000096
+   Gelfand MJ, 2015, J CROSS CULT PSYCHOL, V46, P1273, DOI 10.1177/0022022115600796
+   Glasford DE, 2008, J EXP SOC PSYCHOL, V44, P1057, DOI 10.1016/j.jesp.2007.10.004
+   Gomila R, 2020, J SOC POLIT PSYCHOL, V8, P220, DOI 10.5964/jspp.v8i1.1134
+   Gopalan M, 2020, EDUC RESEARCHER, V49, P134, DOI [10.3102/0013189X19897622, 10.3102/0013189x19897622]
+   Hamm JV, 2005, NEW DIR CHILD ADOLES, V107, P61, DOI 10.1002/cd.121
+   Hanel PHP, 2020, NAT COMMUN, V11, DOI 10.1038/s41467-020-18831-9
+   Hanel PHP, 2018, J CROSS CULT PSYCHOL, V49, P831, DOI 10.1177/0022022118767574
+   Hausmann LRM, 2009, RES HIGH EDUC, V50, P649, DOI 10.1007/s11162-009-9137-8
+   Haynie DL, 2001, AM J SOCIOL, V106, P1013, DOI 10.1086/320298
+   Johnson DR, 2007, J COLL STUDENT DEV, V48, P525, DOI 10.1353/csd.2007.0054
+   Kamara A, 2017, J INT STUDENTS, V7, P291
+   Kao G, 2004, SOCIOL QUART, V45, P557, DOI 10.1111/j.1533-8525.2004.tb02303.x
+   Kim K, 2019, GROUP PROCESS INTERG, V22, P116, DOI 10.1177/1368430217733116
+   LaBrie JW, 2013, J CONSULT CLIN PSYCH, V81, P1074, DOI 10.1037/a0034087
+   Lapinski MK, 2005, COMMUN THEOR, V15, P127, DOI 10.1111/j.1468-2885.2005.tb00329.x
+   Layous K, 2017, J EXP SOC PSYCHOL, V69, P227, DOI 10.1016/j.jesp.2016.09.008
+   Lee S, 2018, HEALTH COMMUN, V33, P22, DOI 10.1080/10410236.2016.1242032
+   Lewin K, 1943, PSYCHOL REV, V50, P292, DOI 10.1037/h0062738
+   Lin N., 2017, CONNECTIONS, P3, DOI DOI 10.4324/9781315129457-1
+   Lindeman M, 2005, J PERS ASSESS, V85, P170, DOI 10.1207/s15327752jpa8502_09
+   MARKS G, 1987, PSYCHOL BULL, V102, P72, DOI 10.1037/0033-2909.102.1.72
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   MILLER DT, 1987, J PERS SOC PSYCHOL, V53, P298, DOI 10.1037/0022-3514.53.2.298
+   Montoya RM, 2008, J SOC PERS RELAT, V25, P889, DOI 10.1177/0265407508096700
+   Morris MW, 2015, ORGAN BEHAV HUM DEC, V129, P1, DOI 10.1016/j.obhdp.2015.03.001
+   Neighbors C, 2006, J STUD ALCOHOL, V67, P290, DOI 10.15288/jsa.2006.67.290
+   NISBETT RE, 1985, J PERS SOC PSYCHOL, V48, P297, DOI 10.1037/0022-3514.48.2.297
+   OGORMAN HJ, 1986, J HIST BEHAV SCI, V22, P333
+   Patterson Silver Wolf DA., 2021, Journal of College Student Retention: Research, Theory Practice, V23, P507, DOI [10.1177/1521025119848749, DOI 10.1177/1521025119848749]
+   PRENTICE DA, 1993, J PERS SOC PSYCHOL, V64, P243, DOI 10.1037/0022-3514.64.2.243
+   ROSS L, 1977, J EXP SOC PSYCHOL, V13, P279, DOI 10.1016/0022-1031(77)90049-X
+   Rosseel Y., 2017, PACKAGE LAVAAN LATEN
+   Schonbrodt F., 2023, Package 'RSA'
+   Schwartz S. H., 2012, ONLINE READINGS PSYC, V2, P2307, DOI [DOI 10.9707/2307-0919.1116, https://doi.org/10.9707/2307-0919.1116]
+   SECORD PF, 1964, SOCIOMETRY, V27, P115, DOI 10.2307/2785710
+   Selfhout M, 2009, J PERS SOC PSYCHOL, V96, P1152, DOI 10.1037/a0014468
+   Selfhout MHW, 2009, J ADOLESCENCE, V32, P95, DOI 10.1016/j.adolescence.2007.11.004
+   Slepian ML, 2021, SOC PSYCHOL PERS SCI, V12, P392, DOI 10.1177/1948550619895008
+   Stephens NM, 2012, J PERS SOC PSYCHOL, V102, P1178, DOI 10.1037/a0027143
+   Taylor S., 2011, OXFORD HDB HLTH PSYC
+   Tidwell ND, 2013, PERS RELATIONSHIP, V20, P199, DOI 10.1111/j.1475-6811.2012.01405.x
+   Trawalter S, 2021, J PERS SOC PSYCHOL, V120, P131, DOI 10.1037/pspi0000248
+   TSUI AS, 1992, ADMIN SCI QUART, V37, P549, DOI 10.2307/2393472
+   Vaccaro A, 2016, J COLL STUDENT DEV, V57, P925, DOI 10.1353/csd.2016.0091
+   Valente Thomas W, 2004, Subst Use Misuse, V39, P1685, DOI 10.1081/JA-200033210
+   Wilson TD, 2022, PSYCHOL REV, V129, P873, DOI 10.1037/rev0000373
+   Yzerbyt V, 2018, J PERS SOC PSYCHOL, V115, P929, DOI 10.1037/pspa0000132
+NR 62
+TC 0
+Z9 0
+U1 0
+U2 1
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD MAR 30
+PY 2024
+VL 14
+IS 1
+AR 7574
+DI 10.1038/s41598-024-58252-y
+PG 15
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA MS3F7
+UT WOS:001195576900044
+PM 38555409
+OA Green Published, gold, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Roth, WD
+   Coté, R
+   Eastmond, J
+AF Roth, Wendy D.
+   Cote, Rochelle
+   Eastmond, Jasmyne
+TI Bridging Boundaries? The Effect of Genetic Ancestry Testing on Ties
+   across Racial Groups
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE social networks; racial interactions; genetic ancestry testing;
+   homophily; bridging social capital
+ID RACE; NETWORKS; DIVERSITY; SOCIOLOGY; STANDARD; CONTACT; IMPACT; BLACK;
+   SELF; ERA
+AB The phenomenon of widespread genetic ancestry testing has raised questions about its social impact, particularly on issues of race. Some accounts suggest testing can promote bridging social capital - connections between racial groups. In this multi-method paper, we ask whether (1) taking genetic ancestry tests (GATs) and (2) receiving results of African, Asian, or Native American ancestry increases network racial diversity for White Americans. We use a randomized controlled trial of 802 White, non-Hispanic Americans, half of whom received GATs. Unexpected findings show that test-takers' network racial diversity decreases after testing. Using 58 follow-up interviews, we develop and test a possible theory, finding initial evidence that test-takers' network racial diversity declines because they reconsider their racial appraisals of others in their networks.
+C1 [Roth, Wendy D.] Univ Penn, Philadelphia, PA USA.
+   [Cote, Rochelle] Mem Univ Newfoundland, St John, NF, Canada.
+   [Eastmond, Jasmyne] Univ Cambridge, Cambridge, England.
+C3 University of Pennsylvania; Memorial University Newfoundland; University
+   of Cambridge
+RP Roth, WD (corresponding author), Univ Penn, 3718 Locust Walk,McNeil Bldg 353, Philadelphia, PA 19104 USA.
+EM wroth3@sas.upenn.edu
+FU Social Sciences and Humanities Research Council of Canada
+   [435-2014-0467, 435-2019-0502]; Canada Foundation for Innovation [23744]
+FX The authors sincerely thank Sule Yaylaci, Kate McGlone West, Mark
+   Youcheng Ding, Marcella Chan, and Elias Tai, Catherine Lee, Ann Morning,
+   Torsten H. Voigt, Bonnie Erickson, Alexandra Marin, Maria Abascal,
+   Jennifer Lee, Yao Lu, Andreas Wimmer, and Jerry Jacobs. An earlier
+   version of this paper was presented at the Columbia University Race,
+   Ethnicity & Migration Workshop. This work was supported by the Social
+   Sciences and Humanities Research Council of Canada [435-2014-0467 to
+   W.R., 435-2019-0502 to W.R.]; and the Canada Foundation for Innovation
+   [23744 to W.R.]. None of the authors has a conflict of interest.
+CR Allport GW., 1954, NATURE PREJUDICE
+   Anyabwile Thabiti, 2019, THE GOSPEL COALITION
+   Bolnick DA, 2007, SCIENCE, V318, P399, DOI 10.1126/science.1150098
+   BRASS DJ, 1985, ACAD MANAGE J, V28, P327, DOI 10.5465/256204
+   BREWER MB, 1991, PERS SOC PSYCHOL B, V17, P475, DOI 10.1177/0146167291175001
+   Bryc K, 2015, AM J HUM GENET, V96, P37, DOI 10.1016/j.ajhg.2014.11.010
+   Burt RS, 2000, RES ORGAN BEHAV, V22, P345, DOI 10.1016/S0191-3085(00)22009-1
+   Cigler A, 2002, POLIT RES QUART, V55, P7, DOI 10.1177/106591290205500101
+   Co^t~e Rochelle, 2012, WELL BEING URBAN ABO, P73
+   Copeland Libby, 2020, The Lost Family: How DNA Testing Is Upending Who We Are
+   Dixon JC, 2004, SOC SCI QUART, V85, P257, DOI 10.1111/j.0038-4941.2004.08502003.x
+   Duster Troy., 2011, RACE GENETIC REVOLUT, P99, DOI [10.7312/columbia/9780231156974.003.0005, DOI 10.7312/COLUMBIA/9780231156974.003.0005]
+   Elias N., 2001, The society of individuals
+   Fujimura JH, 2011, SOC STUD SCI, V41, P5, DOI 10.1177/0306312710379170
+   Ganzeboom HBG, 1996, SOC SCI RES, V25, P201, DOI 10.1006/ssre.1996.0010
+   IBARRA H, 1995, ACAD MANAGE J, V38, P673, DOI 10.5465/256742
+   Johfre SS, 2021, DEMOGRAPHY, V58, P785, DOI 10.1215/00703370-9142013
+   Kilgannon Corey, 2007, NEW YORK TIMES  0314
+   Kolata Gina, 2017, New York Times
+   Lee SSJ, 2009, SCIENCE, V325, P38, DOI 10.1126/science.1173038
+   Leroux D, 2018, SOC STUD SCI, V48, P80, DOI 10.1177/0306312717751863
+   LetsOpenOurWorld, 2016, MOMONDO THE DNA JOUR
+   Lin N., 2001, SOCIAL CAPITAL THEOR, V4, P57, DOI [10.4324/9781315129457-3, DOI 10.4324/9781315129457-3]
+   Lin N., SOCIAL CAPITAL THEOR, P3
+   Marcus AmyDockser., 2019, Wall Street Journal
+   MARSDEN PV, 1987, AM SOCIOL REV, V52, P122, DOI 10.2307/2095397
+   Maslow A. H., 1970, MOTIVATION PERSONALI
+   May Vanessa., 2013, CONNECTING SELF SOC, DOI DOI 10.1007/978-1-137-36726-6
+   McDermott Sarah, 2019, BBC NEWS
+   McDonald S, 2011, SOC NETWORKS, V33, P317, DOI 10.1016/j.socnet.2011.10.002
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Miething A, 2017, SOC SCI MED, V190, P207, DOI 10.1016/j.socscimed.2017.08.022
+   Miyata K., 2008, in Social Capital: An International Research Program, P206
+   Morning A, 2009, SOC FORCES, V87, P1167
+   Nelson Alondra., 2016, SOCIAL LIFE DNA RACE
+   Panofsky A, 2019, SOC STUD SCI, V49, P653, DOI 10.1177/0306312719861434
+   Pettigrew TF, 2011, ESSAYS SOCIAL PSYCHO, P1
+   Phelan JC, 2014, SOC PSYCHOL QUART, V77, P296, DOI 10.1177/0190272514529439
+   Phinney J.S., 1989, J EARLY ADOLESCENCE, V9, P34, DOI DOI 10.1177/0272431689091004
+   Putnam RD, 2007, SCAND POLIT STUD, V30, P137, DOI 10.1111/j.1467-9477.2007.00176.x
+   Putnam Robert D., 2000, BOWLING ALONE COLLAP, DOI 10.1145/358916.361990
+   Regalado A., 2018, MIT Technology Review
+   Rich CG, 2014, GEORGETOWN LAW J, V102, P1501
+   Rich CG, 2013, GEORGETOWN LAW J, V102, P179
+   ROBERTS DOROTHY, 2011, Fatal Invention: How Science, Politics, and Big Business Recreate Race in the Twenty-First Century
+   Roth W., 2018, Reconsidering Race: Social Science Perspectives on Racial Categories in the Age of Genomics, P133
+   Roth WD, 2020, PLOS ONE, V15, DOI 10.1371/journal.pone.0227399
+   Roth WD, 2018, AM J SOCIOL, V124, P150, DOI 10.1086/697487
+   Roth WD, 2018, ETHNIC RACIAL STUD, V41, P1093, DOI 10.1080/01419870.2018.1417616
+   Schuller T., 2001, Social Capital, P1
+   Schulz KF, 2010, BMJ-BRIT MED J, V340, DOI [10.1136/bmj.c332, 10.4103/0976-500X.72352, 10.1016/j.jclinepi.2010.02.005, 10.1016/j.ijsu.2011.09.004, 10.1186/1741-7015-8-18, 10.1136/bmj.c869]
+   Sigelman L, 1996, AM J SOCIOL, V101, P1306, DOI 10.1086/230824
+   Tajfel H., 2004, POLITICAL PSYCHOL KE
+   Tajfel Henri., 1982, SOCIAL IDENTITY INTE
+   TallBear Kim, 2013, Native American DNA: Tribal Belonging and the False Promise of Genetic Science
+   Umana-Taylor A.J., 2004, IDENTITY, V4, P9, DOI DOI 10.1207/S1532706XID0401_2
+   Uslaner E. M., 2002, MORAL FDN TRUST, DOI DOI 10.2139/SSRN.824504
+   Wallace W.L., 1971, LOGIC SCI SOCIOLOGY
+   Yaylaci S, 2021, CURR PSYCHOL, V40, P3794, DOI 10.1007/s12144-019-00311-z
+NR 59
+TC 4
+Z9 5
+U1 3
+U2 4
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD JAN 16
+PY 2024
+VL 71
+IS 1
+BP 180
+EP 202
+DI 10.1093/socpro/spab082
+EA JAN 2022
+PG 23
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA GH3U6
+UT WOS:001081224700003
+DA 2024-11-22
+ER
+
+PT J
+AU Hou, L
+   Jin, BS
+   Wu, YH
+AF Hou, Li
+   Jin, Baisuo
+   Wu, Yuehua
+TI Estimation and variable selection for high-dimensional spatial data
+   models
+SO JOURNAL OF ECONOMETRICS
+LA English
+DT Article
+DE Spatial dynamic panel data model; Network structure; Eigendecomposition;
+   Complex linear least square; Consistency
+ID DYNAMIC PANEL-DATA; MAXIMUM LIKELIHOOD ESTIMATORS; TIME-SERIES;
+   LINEAR-REGRESSION; DISTRIBUTIONS; FAMILY; GMM
+AB Spatiotemporal modeling of networks is of great practical importance, with modern applications in epidemiology and social network analysis. Despite rapid methodological advances, how to effectively and efficiently estimate the parameters of spatial dynamic panel models remains a challenging problem. To tackle this problem, we construct consistent complex least-squares estimators by the eigendecomposition of a spatial weight matrix method originally proposed for undirected networks. We no longer require all eigenvalues and eigenvectors to be real, which is a remarkable achievement as it implies that the proposed method is now applicable to spatiotemporal data modeling of directed networks. Under mild, interpretable conditions, we show that the proposed parameter estimators are consistent and asymptotically normally distributed. We also present a complex orthogonal greedy algorithm for variable selection and rigorously investigate its convergence properties. Moreover, we incorporate fixed effects into the spatial dynamic panel models and provide a model transformation so that the proposed method can also be applied to the transformed model. Extensive simulation studies and data examples demonstrate the effectiveness of the proposed method.
+C1 [Hou, Li; Jin, Baisuo] Univ Sci & Technol China, Dept Stat & Finance, Hefei 230026, Peoples R China.
+   [Wu, Yuehua] York Univ, Dept Math & Stat, Toronto, ON M3J 1P3, Canada.
+C3 Chinese Academy of Sciences; University of Science & Technology of
+   China, CAS; York University - Canada
+RP Jin, BS (corresponding author), Univ Sci & Technol China, Dept Stat & Finance, Hefei 230026, Peoples R China.
+EM houli@mail.ustc.edu.cn; jbs@ustc.edu.cn; wuyh@yorku.ca
+FU National Natural Science Foundation of China [71873128, 72111530199,
+   12231017, 71921001]; Natural Science Foundation of Anhui Province of
+   China [2108085J02]; Natural Sciences and Engineering Research Council of
+   Canada [RGPIN-2017-05720, RGPIN-2023-05655]
+FX <B>Acknowledgments</B> The authors thank the editor, the associate
+   editor and the referees for their insightful comments and constructive
+   suggestions. This work was supported by the National Natural Science
+   Foundation of China [grant numbers 71873128, 72111530199, 12231017,
+   71921001] ; Natural Science Foundation of Anhui Province of China [grant
+   number 2108085J02] ; and Natural Sciences and Engineering Research
+   Council of Canada [grant numbers RGPIN-2017-05720, RGPIN-2023-05655] .
+CR ARELLANO M, 1995, J ECONOMETRICS, V68, P29, DOI 10.1016/0304-4076(94)01642-D
+   Bai JS, 2021, J ECONOMETRICS, V224, P134, DOI 10.1016/j.jeconom.2020.12.002
+   Beenstock M, 2007, INT REGIONAL SCI REV, V30, P335, DOI 10.1177/0160017607304542
+   Cai LQ, 2020, SCAND J STAT, V47, P587, DOI 10.1111/sjos.12452
+   CHAMBERLAIN G, 1982, J ECONOMETRICS, V18, P5, DOI 10.1016/0304-4076(82)90094-X
+   CHAMBERLAIN G, 1980, REV ECON STUD, V47, P225, DOI 10.2307/2297110
+   Chiou HT, 2020, J ECONOMETRICS, V216, P118, DOI 10.1016/j.jeconom.2020.01.009
+   Fan JQ, 2001, J AM STAT ASSOC, V96, P1348, DOI 10.1198/016214501753382273
+   Hafner CM, 2020, INT J ENV RES PUB HE, V17, DOI 10.3390/ijerph17113827
+   Hahn JY, 2002, ECONOMETRICA, V70, P1639, DOI 10.1111/1468-0262.00344
+   HOLLAND PW, 1981, J AM STAT ASSOC, V76, P33, DOI 10.2307/2287037
+   Horn, 2012, MATRIX ANAL, DOI 10.1017/CBO9780511810817
+   Hsu HL, 2019, ANN STAT, V47, P1061, DOI 10.1214/18-AOS1706
+   Huang DY, 2019, ELECTRON J STAT, V13, P1135, DOI 10.1214/19-EJS1549
+   Ing CK, 2020, ANN STAT, V48, P1959, DOI 10.1214/19-AOS1872
+   Ing CK, 2011, STAT SINICA, V21, P1473, DOI 10.5705/ss.2010.081
+   Jacobs J.P, 2009, Dynamic Panel Data Models Featuring Endogenous Interaction and Spatially Correlated Errors, V92, P1
+   Jin BS, 2020, P NATL ACAD SCI USA, V117, P5235, DOI 10.1073/pnas.1917411117
+   Kapoor M, 2007, J ECONOMETRICS, V140, P97, DOI 10.1016/j.jeconom.2006.09.004
+   Kelejian HH, 1999, INT ECON REV, V40, P509, DOI 10.1111/1468-2354.00027
+   Kelejian HH, 1998, J REAL ESTATE FINANC, V17, P99, DOI 10.1023/A:1007707430416
+   Lee LF, 2004, ECONOMETRICA, V72, P1899, DOI 10.1111/j.1468-0262.2004.00558.x
+   Lee LF, 2007, J ECONOMETRICS, V137, P489, DOI 10.1016/j.jeconom.2005.10.004
+   Lee LF, 2014, J ECONOMETRICS, V180, P174, DOI 10.1016/j.jeconom.2014.03.003
+   Lee LF, 2010, ECONOMET THEOR, V26, P564, DOI 10.1017/S0266466609100099
+   Lee LF, 2010, J ECONOMETRICS, V154, P165, DOI 10.1016/j.jeconom.2009.08.001
+   Li KP, 2017, J ECONOMETRICS, V198, P102, DOI 10.1016/j.jeconom.2017.02.001
+   Li LY, 2021, J ECONOMETRICS, V221, P424, DOI 10.1016/j.jeconom.2020.05.016
+   Liu Y, 2024, COMMUN STAT-THEOR M, V53, P2122, DOI 10.1080/03610926.2022.2119088
+   Medeiros MC, 2016, J ECONOMETRICS, V191, P255, DOI 10.1016/j.jeconom.2015.10.011
+   MUNDLAK Y, 1978, ECONOMETRICA, V46, P69, DOI 10.2307/1913646
+   Mutl J., 2006, Dynamic Panel Data Models with Spatially Correlated Disturbances
+   ORD K, 1975, J AM STAT ASSOC, V70, P120, DOI 10.2307/2285387
+   Phillips PCB, 1999, ECONOMETRICA, V67, P1057, DOI 10.1111/1468-0262.00070
+   Shi W, 2017, J ECONOMETRICS, V197, P323, DOI 10.1016/j.jeconom.2016.12.001
+   Tibshirani R, 1996, J ROY STAT SOC B, V58, P267, DOI 10.1111/j.2517-6161.1996.tb02080.x
+   Yu JH, 2008, J ECONOMETRICS, V146, P118, DOI 10.1016/j.jeconom.2008.08.002
+   Yu JH, 2012, J ECONOMETRICS, V167, P16, DOI 10.1016/j.jeconom.2011.05.014
+   Yu JH, 2010, ECONOMET THEOR, V26, P1332, DOI 10.1017/S0266466609990600
+   Zhang CH, 2010, ANN STAT, V38, P894, DOI 10.1214/09-AOS729
+NR 40
+TC 0
+Z9 0
+U1 14
+U2 26
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 0304-4076
+EI 1872-6895
+J9 J ECONOMETRICS
+JI J. Econom.
+PD JAN
+PY 2024
+VL 238
+IS 2
+AR 105605
+DI 10.1016/j.jeconom.2023.105605
+EA NOV 2023
+PG 20
+WC Economics; Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Mathematics; Mathematical Methods In Social
+   Sciences
+GA Z3BD0
+UT WOS:001110850900001
+DA 2024-11-22
+ER
+
+PT J
+AU Chen, CYH
+   Okhrin, Y
+   Wang, TY
+AF Chen, Cathy Yi-Hsuan
+   Okhrin, Yarema
+   Wang, Tengyao
+TI Monitoring Network Changes in Social Media
+SO JOURNAL OF BUSINESS & ECONOMIC STATISTICS
+LA English
+DT Article
+DE Change point; Network; CUSUM; Social media; Sparsity
+ID CHANGE-POINT DETECTION; TIME-SERIES
+AB Econometricians are increasingly working with high-dimensional networks and their dynamics. Econometricians, however, are often confronted with unforeseen changes in network dynamics. In this article, we develop a method and the corresponding algorithm for monitoring changes in dynamic networks. We characterize two types of changes, edge-initiated and node-initiated, to feature the complexity of networks. The proposed approach accounts for three potential challenges in the analysis of networks. First, networks are high-dimensional objects causing the standard statistical tools to suffer from the curse of dimensionality. Second, any potential changes in social networks are likely driven by a few nodes or edges in the network. Third, in many dynamic network applications such as monitoring network connectedness or its centrality, it will be more practically applicable to detect the change in an online fashion than the offline version. The proposed detection method at each time point projects the entire network onto a low-dimensional vector by taking the sparsity into account, then sequentially detects the change by comparing consecutive estimates of the optimal projection direction. As long as the change is sizeable and persistent, the projected vectors will converge to the optimal one, leading to a jump in the sine angle distance between them. A change is therefore declared. Strong theoretical guarantees on both the false alarm rate and detection delays are derived in a sub-Gaussian setting, even under spatial and temporal dependence in the data stream. Numerical studies and an application to the social media messages network support the effectiveness of our method.
+C1 [Chen, Cathy Yi-Hsuan] Univ Glasgow, Adam Smith Business Sch, Glasgow, Lanark, Scotland.
+   [Chen, Cathy Yi-Hsuan] Humboldt Univ, IRTG High Dimens Non Stationary Time Series 1792, Berlin, Germany.
+   [Okhrin, Yarema] Univ Augsburg, Dept Stat, Augsburg, Germany.
+   [Wang, Tengyao] London Sch Econ, Dept Stat, London, England.
+C3 University of Glasgow; Humboldt University of Berlin; University of
+   Augsburg; University of London; London School Economics & Political
+   Science
+RP Okhrin, Y (corresponding author), Univ Augsburg, Fac Business & Econ, Dept Stat, Univ Str 16, D-86159 Augsburg, Germany.
+EM yarema.okhrin@wiwi.uni-augsburg.de
+RI Wang, Tengyao/HXU-0720-2023; Okhrin, Yarema/AAF-5305-2019
+OI Wang, Tengyao/0000-0003-2072-6645
+FU German Research Foundation (DFG), Germany via the International Research
+   Training Group 1792 "High Dimensional Nonstationary Time Series" in
+   Humboldt-Universitat zu Berlin; German Research Foundation (DFG),
+   Germany [DFG 103/61]; EPSRC [EP/T02772X/1]; EPSRC [EP/T02772X/1] Funding
+   Source: UKRI
+FX Cathy Yi-Hsuan Chen appreciates the financial support from the German
+   Research Foundation (DFG), Germany via the International Research
+   Training Group 1792 "High Dimensional Nonstationary Time Series" in
+   Humboldt-Universitat zu Berlin. Yarema Okhrin thanks German Research
+   Foundation (DFG), Germany for the financial support via DFG 103/61
+   "Empirical Similarity: estimation, multivariate extensions, and
+   applications." Tengyao Wang appreciates the financial support of EPSRC
+   grant EP/T02772X/1.
+CR Aue A, 2009, ANN STAT, V37, P4046, DOI 10.1214/09-AOS707
+   BARNARD GA, 1959, J ROY STAT SOC B, V21, P239
+   Bücher A, 2014, J MULTIVARIATE ANAL, V132, P111, DOI 10.1016/j.jmva.2014.07.012
+   Cavaliere G, 2020, J BUS ECON STAT, V38, P55, DOI 10.1080/07350015.2018.1448830
+   Chen, 2020, ARXIV200303668
+   Chen CYH, 2022, J ECONOMETRICS, V228, P177, DOI 10.1016/j.jeconom.2021.02.008
+   Chen CYH, 2019, J RISK FINANC MANAG, V12, DOI 10.3390/jrfm12020053
+   Cho HR, 2016, ELECTRON J STAT, V10, P2000, DOI 10.1214/16-EJS1155
+   Cho H, 2015, J R STAT SOC B, V77, P475, DOI 10.1111/rssb.12079
+   Dette H, 2022, J AM STAT ASSOC, V117, P444, DOI 10.1080/01621459.2020.1785477
+   Duncan A. J., 1952, QUALITY CONTROL IND
+   Enikeeva F, 2019, ANN STAT, V47, P2051, DOI 10.1214/18-AOS1740
+   Hafner CM, 2020, J FINANC ECONOMET, V18, P233, DOI 10.1093/jjfinec/nby023
+   Han XY, 2021, J BUS ECON STAT, V39, P120, DOI 10.1080/07350015.2019.1639395
+   Horváth L, 2012, J TIME SER ANAL, V33, P631, DOI 10.1111/j.1467-9892.2012.00796.x
+   Jirak M, 2015, ANN STAT, V43, P2451, DOI 10.1214/15-AOS1347
+   Jochmans K, 2018, J BUS ECON STAT, V36, P705, DOI 10.1080/07350015.2017.1286242
+   Lavielle M., 2006, Lithuanian Mathematical Journal, V46, P287, DOI DOI 10.1007/S10986-006-0028-9
+   Marchal O, 2017, ELECTRON COMMUN PROB, V22, DOI 10.1214/17-ECP92
+   PAGE ES, 1954, BIOMETRIKA, V41, P100, DOI 10.1093/biomet/41.1-2.100
+   Preuss P, 2015, J AM STAT ASSOC, V110, P654, DOI 10.1080/01621459.2014.920613
+   VERSHYNIN R., 2012, Compressed sensing, P210, DOI [10.1017/cbo9780511794308.006, 10.1017/CBO9780511794308.006]
+   Wang D., 2019, ARXIV190906359
+   Wang DR, 2021, ANN STAT, V49, P203, DOI 10.1214/20-AOS1953
+   Wang T., 2016, INSPECT CHANGE POINT
+   Wang TY, 2018, J R STAT SOC B, V80, P57, DOI 10.1111/rssb.12243
+   Zhang NR, 2010, BIOMETRIKA, V97, P631, DOI 10.1093/biomet/asq025
+   Zhu XN, 2017, ANN STAT, V45, P1096, DOI 10.1214/16-AOS1476
+   Zou CL, 2015, TECHNOMETRICS, V57, P374, DOI 10.1080/00401706.2014.940089
+NR 29
+TC 6
+Z9 6
+U1 8
+U2 17
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 0735-0015
+EI 1537-2707
+J9 J BUS ECON STAT
+JI J. Bus. Econ. Stat.
+PD APR 2
+PY 2024
+VL 42
+IS 2
+BP 391
+EP 406
+DI 10.1080/07350015.2021.2016425
+EA FEB 2022
+PG 16
+WC Economics; Social Sciences, Mathematical Methods; Statistics &
+   Probability
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Mathematical Methods In Social Sciences;
+   Mathematics
+GA NB4E8
+UT WOS:000750238200001
+OA Green Accepted
+DA 2024-11-22
+ER

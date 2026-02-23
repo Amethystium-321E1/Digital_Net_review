@@ -1,0 +1,616 @@
+
+PT J
+AU Enikolopov, R
+   Makarin, A
+   Petrova, M
+AF Enikolopov, Ruben
+   Makarin, Alexey
+   Petrova, Maria
+TI Social Media and Protest Participation: Evidence From Russia
+SO ECONOMETRICA
+LA English
+DT Article
+DE Social media; political protests; collective action; technology adoption
+ID INFORMATION-TECHNOLOGY; ONLINE; INSTRUMENTS; NETWORKS; COVERAGE; IMPACT;
+   RADIO; PRESS; TESTS; SIZE
+AB Do new communication technologies, such as social media, alleviate the collective action problem? This paper provides evidence that penetration of VK, the dominant Russian online social network, led to more protest activity during a wave of protests in Russia in 2011. As a source of exogenous variation in network penetration, we use the information on the city of origin of the students who studied with the founder of VK, controlling for the city of origin of the students who studied at the same university several years earlier or later. We find that a 10% increase in VK penetration increased the probability of a protest by 4.6% and the number of protesters by 19%. Additional results suggest that social media induced protest activity by reducing the costs of coordination rather than by spreading information critical of the government. We observe that VK penetration increased pro-governmental support, with no evidence of increased polarization. We also find that cities with higher fractionalization of network users between VK and Facebook experienced fewer protests, and the effect of VK on protests exhibits threshold behavior.
+C1 [Enikolopov, Ruben; Petrova, Maria] New Econ Sch, Moscow, Russia.
+   [Enikolopov, Ruben; Petrova, Maria] Univ Pompeu Fabra, Dept Econ & Business, Barcelona, Spain.
+   [Enikolopov, Ruben; Petrova, Maria] Barcelona Grad Sch Econ, Inst Polit Econ & Governance, Barcelona, Spain.
+   [Enikolopov, Ruben; Petrova, Maria] ICREA, Barcelona, Spain.
+   [Makarin, Alexey] Einaudi Inst Econ & Finance EIEF, Rome, Italy.
+   [Makarin, Alexey] CEPR, Washington, DC USA.
+C3 New Economic School; Pompeu Fabra University; ICREA; Center for Economic
+   & Policy Research (CEPR)
+RP Enikolopov, R (corresponding author), New Econ Sch, Moscow, Russia.; Enikolopov, R (corresponding author), Univ Pompeu Fabra, Dept Econ & Business, Barcelona, Spain.; Enikolopov, R (corresponding author), Barcelona Grad Sch Econ, Inst Polit Econ & Governance, Barcelona, Spain.; Enikolopov, R (corresponding author), ICREA, Barcelona, Spain.
+EM Ruben.Enikolopov@upf.edu; alexey.makarin@eief.it; maria.petrova@upf.edu
+RI Petrova, Maria/L-2921-2014; Makarin, Alexey/HLW-7598-2023; Enikolopov,
+   Ruben/N-7403-2013
+FU Center for the Study of New Media and Society; Spanish Ministry of
+   Economy and Competitiveness [BFU2011-12345]; Ministry of Education and
+   Science of the Russian Federation [14.U04.31.0002]; European Research
+   Council (ERC) under the European Union's Horizon 2020 research and
+   innovation programme [638221]; European Research Council (ERC) [638221]
+   Funding Source: European Research Council (ERC)
+FX We thank four anonymous referees for the insightful comments. We are
+   grateful to Sergey Chernov, Nikolai Klemashev, Aleksander Malairev,
+   Natalya Naumenko, and Alexey Romanov for invaluable help with data
+   collection, and to Tatiana Tsygankova and Aniket Panjwani for editorial
+   help in preparing the manuscript. We thank the Center for the Study of
+   New Media and Society for financial and organizational support. Ruben
+   Enikolopov and Maria Petrova acknowledge financial support from the
+   Spanish Ministry of Economy and Competitiveness (Grant BFU2011-12345)
+   and the Ministry of Education and Science of the Russian Federation
+   (Grant 14.U04.31.0002). This project has received funding from the
+   European Research Council (ERC) under the European Union's Horizon 2020
+   research and innovation programme (Grant Agreement 638221). We are
+   indebted to Daron Acemoglu, Sinan Aral, Lori Beaman, Matt Gentzkow, Sam
+   Greene, Kosuke Imai, Kirabo Jackson, Vasily Korovkin, John Londregan,
+   Eliana La Ferrara, Monica Martinez-Bravo, Sam Norris, Ricardo
+   Perez-Truglia, Gautam Rao, Tom Romer, Jake Shapiro, Jesse Shapiro,
+   Gaurav Sood, Erik Snowberg, David Stromberg, Adam Szeidl, Josh Tucker,
+   Glen Weyl, Noam Yuchtman, Katia Zhuravskaya, and seminar participants at
+   Aix-Marseille School of Economics, BGSE Summer Forum, Berkeley Haas,
+   BCCP, Bocconi, Cambridge INET, Carlos III, CEMFI, CEU, Chicago Harris,
+   CREI, EIEF, Hebrew, Hertie School of Government, Harvard, Higher School
+   of Economics, HKUST, IBEI, IIES Stockholm, Kellogg MEDS, Mannheim,
+   Maryland, Moscow State University, Microsoft Research, Northwestern,
+   NYU, NYU Abu Dhabi, Paris School of Economics, Princeton, Rice, Science
+   Po, SITE Stockholm, Stanford, Trinity College Dublin, University of
+   Helsinki, University of Macau, UPF, UW-Madison, NBER Digitization and
+   Political Economy Meetings, 11thWorkshop inMedia Economics in Tel Aviv,
+   6thWorkshop in Applied Economics in Petralia, SMaPP 2013 at NYU
+   Florence, Political Economy Conference in Vancouver, NEUDC 2016 at MIT,
+   Michigan State University Development Day, SIOE 2016, MPSA 2016,
+   Conference on Culture, Diversity and Development at NES Moscow, BEROC,
+   4th European Meeting on Networks, and CPEC 2018 for helpful discussions.
+CR Acemoglu D, 2018, REV FINANC STUD, V31, P1, DOI 10.1093/rfs/hhx086
+   Aday S., 2010, BLOGS BULLETS NEW ME
+   Adena M, 2015, Q J ECON, V130, P1885, DOI 10.1093/qje/qjv030
+   Aidt TS, 2015, ECONOMETRICA, V83, P505, DOI 10.3982/ECTA11484
+   Andrews I, 2019, ANNU REV ECON, V11, P727, DOI 10.1146/annurev-economics-080218-025643
+   Andrienko Y, 2004, ECON TRANSIT, V12, P1, DOI 10.1111/j.0967-0750.2004.00170.x
+   [Anonymous], 2007, Q J EC
+   [Anonymous], 2016, WORKING PAPER
+   [Anonymous], Q J EC
+   [Anonymous], 2010, Uncommon grounds: the history of coffee and how it transformed our world
+   Barbera S., 2016, A model of protests, revolution, and information
+   Battaglini M, 2017, Q J ECON, V132, P485, DOI 10.1093/qje/qjw039
+   Beissinger M., 2002, NATIONALIST MOBILISA
+   Bhuller M, 2013, REV ECON STUD, V80, P1237, DOI 10.1093/restud/rdt013
+   Bond RM, 2012, NATURE, V489, P295, DOI 10.1038/nature11421
+   Bursztyn Leonardo, 2019, WORKING PAPER
+   Campante F, 2018, J EUR ECON ASSOC, V16, P1094, DOI 10.1093/jeea/jvx044
+   Cantoni D, 2019, Q J ECON, V134, P1021, DOI 10.1093/qje/qjz002
+   Cantoni D, 2014, Q J ECON, V129, P823, DOI 10.1093/qje/qju007
+   Chernozhukov V, 2008, ECON LETT, V100, P68, DOI 10.1016/j.econlet.2007.11.012
+   Chiang CF, 2011, REV ECON STUD, V78, P795, DOI 10.1093/restud/rdq037
+   Czernich N, 2011, ECON J, V121, P505, DOI 10.1111/j.1468-0297.2011.02420.x
+   de Mesquita EB, 2010, AM POLIT SCI REV, V104, P446, DOI 10.1017/S0003055410000274
+   DellaVigna S, 2014, AM ECON J-APPL ECON, V6, P103, DOI 10.1257/app.6.3.103
+   Dittmar JE, 2011, Q J ECON, V126, P1133, DOI 10.1093/qje/qjr035
+   Dokuka SF, 2014, SOTSIOL ISSLED+, P137
+   Edmond C, 2013, REV ECON STUD, V80, P1422, DOI 10.1093/restud/rdt020
+   Enikolopov R., 2020, ECONOMETRICA S, V88, DOI [10.3982/ECTA14281, DOI 10.3982/ECTA14281]
+   Enikolopov R., 2017, WORKING PAPER
+   Enikolopov R, 2018, AM ECON J-APPL ECON, V10, P150, DOI 10.1257/app.20160089
+   Enikolopov R, 2013, P NATL ACAD SCI USA, V110, P448, DOI 10.1073/pnas.1206770110
+   Enikolopov R, 2011, AM ECON REV, V101, P3253, DOI 10.1257/aer.101.7.3253
+   Esfandiari Golnaz., 2010, FOREIGN POLICY
+   Falck O, 2014, AM ECON REV, V104, P2238, DOI 10.1257/aer.104.7.2238
+   Finlay K, 2009, STATA J, V9, P398, DOI 10.1177/1536867X0900900304
+   Gavazza A., 2015, WORKING PAPER
+   Gentzkow M, 2019, ECONOMETRICA, V87, P1307, DOI 10.3982/ECTA16566
+   Gentzkow M, 2015, J EUR ECON ASSOC, V13, P29, DOI 10.1111/jeea.12119
+   Gentzkow M, 2011, AM ECON REV, V101, P2980, DOI 10.1257/aer.101.7.2980
+   Gentzkow M, 2011, Q J ECON, V126, P1799, DOI 10.1093/qje/qjr044
+   Gladwell M., 2010, NEW YORKER, V4, P42
+   GRANOVETTER M, 1978, AM J SOCIOL, V83, P1420, DOI 10.1086/226707
+   Greene SamuelA., 2014, MOSCOW MOVEMENT POWE
+   Halberstam Y, 2016, J PUBLIC ECON, V143, P73, DOI 10.1016/j.jpubeco.2016.08.011
+   HARDIN R., 1982, COLLECTIVE ACTION
+   Hassanpour N, 2014, POLIT COMMUN, V31, P1, DOI 10.1080/10584609.2012.737439
+   Hendel I, 2017, RAND J ECON, V48, P972, DOI 10.1111/1756-2171.12212
+   Jensen R, 2007, Q J ECON, V122, P879, DOI 10.1162/qjec.122.3.879
+   King G, 2014, SCIENCE, V345, P891, DOI 10.1126/science.1251722
+   King G, 2013, AM POLIT SCI REV, V107, P326, DOI 10.1017/S0003055413000014
+   König MD, 2017, ECONOMETRICA, V85, P1093, DOI 10.3982/ECTA13117
+   Kononov NV., 2012, KOD DUROVA
+   Little AT, 2016, J POLIT, V78, P152, DOI 10.1086/683187
+   LOHMANN S, 1993, AM POLIT SCI REV, V87, P319, DOI 10.2307/2939043
+   LOHMANN S, 1994, WORLD POLIT, V47, P42, DOI 10.2307/2950679
+   Lynch M, 2011, PERSPECT POLIT, V9, P301, DOI 10.1017/S1537592711000910
+   Madestam A, 2013, Q J ECON, V128, P1633, DOI 10.1093/qje/qjt021
+   Manrique P, 2016, SCI ADV, V2, DOI 10.1126/sciadv.1501742
+   Mikusheva A, 2006, STATA J, V6, P335, DOI 10.1177/1536867X0600600303
+   Morozov Evgeny., 2011, The Net Delusion: How Not to Liberate the World
+   Olea JLM, 2013, J BUS ECON STAT, V31, P358, DOI 10.1080/00401706.2013.806694
+   Olson M., 1965, The logic of collective action
+   Ostrom E., 1992, CRAFTING I SELF GOVE
+   Passarelli F, 2017, J POLIT ECON, V125, P903, DOI 10.1086/691700
+   Pierskalla JH, 2013, AM POLIT SCI REV, V107, P207, DOI 10.1017/S0003055413000075
+   Qin B., 2013, WORKING PAPER
+   Qin B, 2017, J ECON PERSPECT, V31, P117, DOI 10.1257/jep.31.1.117
+   Reuter OJ, 2015, BRIT J POLIT SCI, V45, P29, DOI 10.1017/S0007123413000203
+   Robertson G., 2017, BRIT J POLIT SCI, DOI [10.1017/S0007123415000356, DOI 10.1017/S0007123415000356]
+   Robertson GraemeB., 2011, POLITICS PROTEST HYB
+   Shirky C., 2008, HERE COMES EVERYBODY
+   Shirky C, 2011, FOREIGN AFF, V90, P28
+   Snyder JM, 2010, J POLIT ECON, V118, P355, DOI 10.1086/652903
+   Steinert-Threlkeld ZC, 2015, EPJ DATA SCI, V4, DOI 10.1140/epjds/s13688-015-0056-y
+   Stock J., 2005, IDENTIFICATION INFER, DOI [10.1017/CBO9780511614491.006, DOI 10.1017/CBO9780511614491.006]
+   Strömberg D, 2004, Q J ECON, V119, P189, DOI 10.1162/003355304772839560
+   Tufekci Z, 2012, J COMMUN, V62, P363, DOI 10.1111/j.1460-2466.2012.01629.x
+   Yanagizawa-Drott D, 2014, Q J ECON, V129, P1947, DOI 10.1093/qje/qju020
+NR 78
+TC 93
+Z9 95
+U1 9
+U2 103
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0012-9682
+EI 1468-0262
+J9 ECONOMETRICA
+JI Econometrica
+PD JUL
+PY 2020
+VL 88
+IS 4
+BP 1479
+EP 1514
+DI 10.3982/ECTA14281
+PG 36
+WC Economics; Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods; Statistics & Probability
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Mathematics; Mathematical Methods In Social
+   Sciences
+GA MN9QP
+UT WOS:000551174500009
+OA Green Published, Bronze
+DA 2024-11-22
+ER
+
+PT J
+AU Sun, TS
+   Taylor, SJ
+AF Sun, Tianshu
+   Taylor, Sean J.
+TI Displaying things in common to encourage friendship formation: A large
+   randomized field experiment
+SO QME-QUANTITATIVE MARKETING AND ECONOMICS
+LA English
+DT Article
+DE Network formation; Social interactions; Field experiment; Things in
+   common; Homophily; Information theory; Diversity
+ID GENERATED CONTENT EVIDENCE; RECOMMENDER SYSTEMS; SOCIAL INTERACTIONS;
+   NETWORK STRUCTURE; STRUCTURAL MODEL; CONTAGION; PREFERENCES; DIVERSITY;
+   ECONOMICS; RETURNS
+AB Friendship formation is of central importance to online social network sites and to society, but can suffer from significant and unequal frictions. In this study, we demonstrate that social networks and policy makers may use an IT-facilitated intervention - displaying things in common (TIC) between users (mutual hometown, interest, education, work, city) - to encourage friendship formation, especially among people who are different from each other. Displaying TIC may update an individual's belief about the shared similarity with another and reduce information friction that may be hard to overcome in offline communication. In collaboration with an online social network, we design and implement a randomized field experiment, which randomly varies the prominence of different types of things in common information when a user (viewer) is browsing a non-friend's profile. The dyad-level exogenous variation, orthogonal to any (un)observed structural factors in viewer-profile's network, allows us to cleanly isolate the role of individuals' preference for TIC in driving network formation and homophily. We find that displaying TIC to viewers may significantly increase their probability of sending a friend request and forming a friendship, and is especially effective for pairs of people who have little in common. Such findings suggest that information intervention is a very effective and zero-cost approach to encourage the formation of weak ties, and also provide the first experimental evidence on the crucial role of individuals' preference (versus structural embeddedness) in network formation. We further demonstrate that displaying TIC could improve friendship formation for a wide range of viewers with different demographics and friendship status, and is more effective when the TIC information is more surprising to the viewer. Our study offers actionable insights to social networks and policy makers on the design of information intervention to encourage friendship formation and improve the diversity of the friendship, at both an aggregate and an individual level.
+C1 [Sun, Tianshu] Univ Southern Calif, Marshall Sch Business, Los Angeles, CA 90007 USA.
+   [Taylor, Sean J.] Facebook Inc, Menlo Pk, CA 94025 USA.
+C3 University of Southern California; Facebook Inc
+RP Sun, TS (corresponding author), Univ Southern Calif, Marshall Sch Business, Los Angeles, CA 90007 USA.; Taylor, SJ (corresponding author), Facebook Inc, Menlo Pk, CA 94025 USA.
+EM tianshus@marshall.usc.edu; seanjtaylor@gmail.com
+RI Sun, Tianshu/AAD-7598-2019
+CR Altenburger KM, 2018, NAT HUM BEHAV, V2, P284, DOI 10.1038/s41562-018-0321-8
+   Ameri M., 2017, WORKING PAPER
+   [Anonymous], 1998, HDB SOCIAL PSYCHOL
+   [Anonymous], P NAT AC SCI NAT AC
+   Aral S, 2012, SCIENCE
+   Aral S, 2014, MANAGE SCI, V60, P1352, DOI 10.1287/mnsc.2014.1936
+   Aral S, 2011, MANAGE SCI, V57, P1623, DOI 10.1287/mnsc.1110.1421
+   Aral S, 2009, P NATL ACAD SCI USA, V106, P21544, DOI 10.1073/pnas.0908800106
+   Bakshy E., 2012, P 13 ACM C EL COMM, P146
+   Bakshy E., 2012, P 21 INT C WORLD WID, P519, DOI DOI 10.1145/2187836.2187907
+   Bakshy E, 2013, 19TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING (KDD'13), P1303
+   Bakshy E, 2015, SCIENCE, V348, P1130, DOI 10.1126/science.aaa1160
+   Bala V, 2000, ECONOMETRICA, V68, P1181, DOI 10.1111/1468-0262.00155
+   Bapna R., 2017, MIS Q, V41
+   Bapna R, 2016, MANAGE SCI, V62, P3100, DOI 10.1287/mnsc.2015.2301
+   Bapna R, 2015, MANAGE SCI, V61, P1902, DOI 10.1287/mnsc.2014.2081
+   Bénabou R, 2016, J ECON PERSPECT, V30, P141, DOI 10.1257/jep.30.3.141
+   Brzozowski M.J., 2011, ICWSM
+   Burke M, 2016, J COMPUT-MEDIAT COMM, V21, P265, DOI 10.1111/jcc4.12162
+   Bursztyn L., 2017, TECHNICAL REPORT
+   Centola D, 2015, AM J SOCIOL, V120, P1295, DOI 10.1086/681275
+   Church K.W., 1990, WORD ASS NORMS MUTUA, V16, P22
+   Currarini S, 2010, P NATL ACAD SCI USA, V107, P4857, DOI 10.1073/pnas.0911793107
+   Currarini S, 2009, ECONOMETRICA, V77, P1003, DOI 10.3982/ECTA7528
+   Dhar V, 2014, INFORM SYST RES, V25, P264, DOI 10.1287/isre.2013.0510
+   Eagle N, 2010, SCIENCE, V328, P1029, DOI 10.1126/science.1186605
+   Easley D., 2010, NETWORKS CROWDS MARK
+   Eckles D, 2016, P NATL ACAD SCI USA, V113, P7316, DOI 10.1073/pnas.1511201113
+   Ely J, 2015, J POLIT ECON, V123, P215, DOI 10.1086/677350
+   FELMLEE D, 1990, SOC PSYCHOL QUART, V53, P13, DOI 10.2307/2786866
+   Fischer MJ, 2008, SOC SCI QUART, V89, P631, DOI 10.1111/j.1540-6237.2008.00552.x
+   Fisman R, 2008, REV ECON STUD, V75, P117, DOI 10.1111/j.1467-937X.2007.00465.x
+   Fisman R, 2006, Q J ECON, V121, P673, DOI 10.1162/qjec.2006.121.2.673
+   Fleder D, 2009, MANAGE SCI, V55, P697, DOI 10.1287/mnsc.1080.0974
+   Forman C, 2008, INFORM SYST RES, V19, P291, DOI 10.1287/isre.1080.0193
+   Fradkin A, 2017, SSRN ELECT J
+   Gee LK, 2017, J ECON BEHAV ORGAN, V133, P362, DOI 10.1016/j.jebo.2016.12.004
+   Goel S, 2014, MARKET SCI, V33, P82, DOI 10.1287/mksc.2013.0817
+   Goel S, 2010, J PERS SOC PSYCHOL, V99, P611, DOI 10.1037/a0020697
+   Goes PB, 2014, INFORM SYST RES, V25, P222, DOI 10.1287/isre.2013.0512
+   Granovetter M.S, 1973, AM J SOCIOL, V78, P1360, DOI DOI 10.1086/225469
+   Hartmann WR, 2008, MARKET LETT, V19, P287, DOI 10.1007/s11002-008-9048-z
+   Hartmann WR, 2010, MARKET SCI, V29, P585, DOI 10.1287/mksc.1100.0559
+   Hosanagar K, 2014, MANAGE SCI, V60, P805, DOI 10.1287/mnsc.2013.1808
+   Huang Y, 2015, MANAGE SCI, V61, P2825, DOI 10.1287/mnsc.2014.2125
+   IBARRA H, 1992, ADMIN SCI QUART, V37, P422, DOI 10.2307/2393451
+   Iyengar R, 2011, MARKET SCI, V30, P195, DOI 10.1287/mksc.1100.0566
+   Jackson MO, 2008, SOCIAL AND ECONOMIC NETWORKS, P1
+   Katona Z, 2008, MARKET SCI, V27, P764, DOI 10.1287/mksc.1070.0349
+   Kossinets G, 2009, AM J SOCIOL, V115, P405, DOI 10.1086/599247
+   Kwon HE, 2017, J MANAGE INFORM SYST, V34, P768, DOI 10.1080/07421222.2017.1373008
+   Lerman K, 2013, 2013 INTERNATIONAL CONFERENCE ON SOCIAL INTELLIGENCE AND TECHNOLOGY (SOCIETY), P80, DOI 10.1109/SOCIETY.2013.11
+   Lewis RA, 2015, Q J ECON, V130, P1941, DOI 10.1093/qje/qjv023
+   Lin MF, 2016, MANAGE SCI, V62, P1393, DOI 10.1287/mnsc.2015.2206
+   Mayzlin D, 2012, MANAGE SCI, V58, P1651, DOI 10.1287/mnsc.1110.1510
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mele A, 2017, ECONOMETRICA, V85, P825, DOI 10.3982/ECTA10400
+   Mollica KA, 2003, ORGAN SCI, V14, P123, DOI 10.1287/orsc.14.2.123.14994
+   Moricz M., 2010, Proceedings of the 2010 ACM SIGMOD International Conference on Management of data, New York, NY, USA, P999
+   Oestreicher-Singer G, 2013, J MARKETING, V77, P1
+   Oestreicher-Singer G, 2012, MIS QUART, V36, P65, DOI 10.2307/41410406
+   Owen AB, 2012, ANN APPL STAT, V6, P895, DOI 10.1214/12-AOAS547
+   Peng J, 2018, J MARKETING RES, V55, P571, DOI 10.1509/jmr.14.0643
+   Phan TQ, 2018, MARKET SCI, V37, P259, DOI 10.1287/mksc.2017.1077
+   Phan TQ, 2015, P NATL ACAD SCI USA, V112, P6595, DOI 10.1073/pnas.1404770112
+   Price R, 2012, GROWTH HACKING LEADI
+   Shalizi CR, 2011, SOCIOL METHOD RES, V40, P211, DOI 10.1177/0049124111404820
+   SHANNON CE, 1948, BELL SYST TECH J, V27, P379, DOI 10.1002/j.1538-7305.1948.tb01338.x
+   Shi Z, 2014, MIS QUART, V38, P123, DOI 10.25300/MISQ/2014/38.1.06
+   Shriver SK, 2013, MANAGE SCI, V59, P1425, DOI 10.1287/mnsc.1110.1648
+   Su J, 2016, PROCEEDINGS OF THE 25TH INTERNATIONAL CONFERENCE ON WORLD WIDE WEB (WWW'16), P1157, DOI 10.1145/2872427.2883040
+   Sun T., 2019, MANAGEMENT SCI
+   Sundquist A, 2007, BMC MICROBIOL, V7, DOI 10.1186/1471-2180-7-108
+   Susarla A, 2012, INFORM SYST RES, V23, P23, DOI 10.1287/isre.1100.0339
+   Thelwall M, 2009, J AM SOC INF SCI TEC, V60, P219, DOI 10.1002/asi.20978
+   Toubia O, 2013, MARKET SCI, V32, P368, DOI 10.1287/mksc.2013.0773
+   Tucker CE, 2008, MANAGE SCI, V54, P2024, DOI 10.1287/mnsc.1080.0897
+   Wang C., 2018, INFORM SYSTEMS RES
+   Yadav MS, 2014, J MARKETING, V78, P20, DOI 10.1509/jm.12.0020
+   Yoganarasimhan H, 2012, QME-QUANT MARK ECON, V10, P111, DOI 10.1007/s11129-011-9105-4
+NR 80
+TC 10
+Z9 12
+U1 2
+U2 18
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN 1570-7156
+EI 1573-711X
+J9 QME-QUANT MARK ECON
+JI QME-Quant. Mark. Econ.
+PD SEP
+PY 2020
+VL 18
+IS 3
+BP 237
+EP 271
+DI 10.1007/s11129-020-09224-9
+EA MAY 2020
+PG 35
+WC Business; Economics; Social Sciences, Mathematical Methods
+WE Social Science Citation Index (SSCI)
+SC Business & Economics; Mathematical Methods In Social Sciences
+GA MU9HG
+UT WOS:000534844600001
+DA 2024-11-22
+ER
+
+PT J
+AU Zhu, L
+   Menzies, NA
+   Wang, JN
+   Linas, BP
+   Goodreau, SM
+   Salomon, JA
+AF Zhu, Lin
+   Menzies, Nicolas A.
+   Wang, Jianing
+   Linas, Benjamin P.
+   Goodreau, Steven M.
+   Salomon, Joshua A.
+TI Estimation and correction of bias in network simulations based on
+   respondent-driven sampling data
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID HEPATITIS-C TRANSMISSION; INJECTION-DRUG USERS; SOCIAL NETWORK;
+   PREEXPOSURE PROPHYLAXIS; RISK; RECRUITMENT; INFERENCE; SNOWBALL;
+   CENTERS; MODELS
+AB Respondent-driven sampling (RDS) is widely used for collecting data on hard-to-reach populations, including information about the structure of the networks connecting the individuals. Characterizing network features can be important for designing and evaluating health programs, particularly those that involve infectious disease transmission. While the validity of population proportions estimated from RDS-based datasets has been well studied, little is known about potential biases in inference about network structure from RDS. We developed a mathematical and statistical platform to simulate network structures with exponential random graph models, and to mimic the data generation mechanisms produced by RDS. We used this framework to characterize biases in three important network statistics - density/mean degree, homophily, and transitivity. Generalized linear models were used to predict the network statistics of the original network from the network statistics of the sample network and observable sample design features. We found that RDS may introduce significant biases in the estimation of density/mean degree and transitivity, and may exaggerate homophily when preferential recruitment occurs. Adjustments to network-generating statistics derived from the prediction models could substantially improve validity of simulated networks in terms of density, and could reduce bias in replicating mean degree, homophily, and transitivity from the original network.
+C1 [Zhu, Lin; Menzies, Nicolas A.] Harvard TH Chan Sch Publ Hlth, Dept Global Hlth & Populat, Boston, MA USA.
+   [Zhu, Lin; Salomon, Joshua A.] Stanford Univ, Dept Med, Sch Med, Stanford, CA 94305 USA.
+   [Wang, Jianing; Linas, Benjamin P.] Boston Med Ctr, Dept Med, Infect Dis Sect, Boston, MA USA.
+   [Linas, Benjamin P.] Boston Univ, Sch Publ Hlth, Dept Epidemiol, Boston, MA USA.
+   [Goodreau, Steven M.] Stanford Univ, Univ Washington, Ctr Studies Demog & Ecol, Dept Epidemiol,Dept Anthropol, Seattle, WA USA.
+C3 Harvard University; Harvard T.H. Chan School of Public Health; Stanford
+   University; Boston Medical Center; Boston University; University of
+   Washington; University of Washington Seattle; Stanford University
+RP Zhu, L (corresponding author), Harvard TH Chan Sch Publ Hlth, Dept Global Hlth & Populat, Boston, MA USA.; Zhu, L (corresponding author), Stanford Univ, Dept Med, Sch Med, Stanford, CA 94305 USA.
+EM linzhu1@stanford.edu
+RI Goodreau, Steven/P-2366-2017; Wang, Jianing/GOV-3778-2022; Salomon,
+   Joshua/D-3898-2009
+OI Salomon, Joshua/0000-0003-3929-5515; Wang, Jianing/0000-0003-4709-3091
+FU U.S. Centers for Disease Control and Prevention, National Center for
+   HIV/AIDS, Viral Hepatitis, STD, and TB Prevention Epidemiologic and
+   Economic Modeling Agreement [5NU38PS004644]
+FX This work was supported by the U.S. Centers for Disease Control and
+   Prevention, National Center for HIV/AIDS, Viral Hepatitis, STD, and TB
+   Prevention Epidemiologic and Economic Modeling Agreement
+   (5NU38PS004644). We thank Dr. April Young and Dr. Jennifer Havens from
+   University of Kentucky, and Dr. Abby Rudolph from Temple University for
+   discussion on data collection with respondent-driven sampling in their
+   SNAP study.
+CR [Anonymous], 2013, INTRO STAT LEARNING
+   Baraff AJ, 2016, P NATL ACAD SCI USA, V113, P14668, DOI 10.1073/pnas.1617258113
+   Crawford F, 2018, AM J EPIDEMIOL, V187, P153, DOI 10.1093/aje/kwx208
+   De P, 2007, ADDICTION, V102, P1730, DOI 10.1111/j.1360-0443.2007.01936.x
+   Gile KJ, 2015, J R STAT SOC A STAT, V178, P619, DOI 10.1111/rssa.12091
+   Gile KJ, 2015, J R STAT SOC A STAT, V178, P241, DOI 10.1111/rssa.12059
+   Gile KJ, 2011, J AM STAT ASSOC, V106, P135, DOI 10.1198/jasa.2011.ap09475
+   Goel S, 2010, P NATL ACAD SCI USA, V107, P6743, DOI 10.1073/pnas.1000261107
+   Goodreau SM, 2012, AIDS BEHAV, V16, P312, DOI 10.1007/s10461-010-9858-x
+   Goodreau SM, 2009, DEMOGRAPHY, V46, P103, DOI 10.1353/dem.0.0045
+   Heckathorn DD, 2002, SOC PROBL, V49, P11, DOI 10.1525/sp.2002.49.1.11
+   Heckathorn DD, 1997, SOC PROBL, V44, P174, DOI 10.1525/sp.1997.44.2.03x0221m
+   Heckathorn DD, 2017, ANNU REV SOCIOL, V43, P101, DOI 10.1146/annurev-soc-060116-053556
+   Heckathorn DD, 2011, SOCIOL METHODOL, V41, P355, DOI 10.1111/j.1467-9531.2011.01244.x
+   Hellard M, 2015, INT J DRUG POLICY, V26, P958, DOI 10.1016/j.drugpo.2015.05.006
+   Hellard M, 2014, HEPATOLOGY, V60, P1861, DOI 10.1002/hep.27403
+   Hunter DR, 2006, J COMPUT GRAPH STAT, V15, P565, DOI 10.1198/106186006X133069
+   Hunter DR., 2008, Journal of Statistical Software, V24, P1, DOI DOI 10.18637/JSS.V024.I03
+   Jenness SM, 2016, J INFECT DIS, V214, P1800, DOI 10.1093/infdis/jiw223
+   Krivitsky PN, 2011, STAT METHODOL, V8, P319, DOI 10.1016/j.stamet.2011.01.005
+   Li JH, 2017, IEEE IMAGE PROC, P1, DOI 10.1109/ICIP.2017.8296231
+   Liu AY, 2013, JAIDS-J ACQ IMM DEF, V64, P87, DOI 10.1097/QAI.0b013e31828f097a
+   Lurie MN, 2010, AIDS BEHAV, V14, P34, DOI 10.1007/s10461-009-9640-0
+   Malekinejad M, 2008, AIDS BEHAV, V12, pS105, DOI 10.1007/s10461-008-9421-1
+   Metzig C, 2017, SCI REP-UK, V7, DOI 10.1038/s41598-017-01862-6
+   Molina JM, 2015, NEW ENGL J MED, V373, P2237, DOI 10.1056/NEJMoa1506273
+   Ostrow DG, 2009, JAIDS-J ACQ IMM DEF, V51, P349, DOI 10.1097/QAI.0b013e3181a24b20
+   Potterat JJ, 2002, SEX TRANSM INFECT, V78, pI159, DOI 10.1136/sti.78.suppl_1.i159
+   Read JM, 2003, P ROY SOC B-BIOL SCI, V270, P699, DOI 10.1098/rspb.2002.2305
+   Rolls DA, 2012, J THEOR BIOL, V297, P73, DOI 10.1016/j.jtbi.2011.12.008
+   Rolls DA, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0078286
+   Rothenberg RB, 1998, AIDS, V12, P1529, DOI 10.1097/00002030-199812000-00016
+   Sacks-Davis R, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0047335
+   Salganik MJ, 2004, SOCIOL METHODOL, V34, P193, DOI 10.1111/j.0081-1750.2004.00152.x
+   Shi YR, 2019, SOCIOL METHOD RES, V48, P3, DOI 10.1177/0049124116672682
+   Sperandei S, 2018, SOC NETWORKS, V52, P48, DOI 10.1016/j.socnet.2017.05.004
+   Strathdee SA, 2008, JAIDS-J ACQ IMM DEF, V47, P369, DOI 10.1097/QAI.0b013e318160d5ae
+   Tomas A, 2011, ELECTRON J STAT, V5, P899, DOI 10.1214/11-EJS630
+   Wang JC, 2005, DRUG ALCOHOL DEPEN, V78, P147, DOI 10.1016/j.drugalcdep.2004.10.011
+   Yeka W, 2006, J URBAN HEALTH, V83, pI60, DOI 10.1007/s11524-006-9103-0
+   Young AM, 2018, CURR HIV-AIDS REP, V15, P113, DOI 10.1007/s11904-018-0391-2
+   Young AM, 2014, J EPIDEMIOL COMMUN H, V68, P792, DOI 10.1136/jech-2014-203935
+   Zelenev A, 2017, LANCET INFECT DIS
+NR 43
+TC 1
+Z9 2
+U1 0
+U2 4
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD APR 14
+PY 2020
+VL 10
+IS 1
+AR 6348
+DI 10.1038/s41598-020-63269-0
+PG 11
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA ND8OT
+UT WOS:000562162800026
+PM 32286412
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Mican, D
+   Sitar-Taut, DA
+   Mihut, IS
+AF Mican, Daniel
+   Sitar-Taut, Dan-Andrei
+   Mihut, Ioana-Sorina
+TI User Behavior on Online Social Networks: Relationships among Social
+   Activities and Satisfaction
+SO SYMMETRY-BASEL
+LA English
+DT Article
+DE social networks; behavior analysis; social behavior; social networking
+   satisfaction
+ID COLLEGE-STUDENTS; FACEBOOK USE; SITES; INSTAGRAM; TWITTER
+AB Social networking sites (SNSs) are now ubiquitous communities for constant online interpersonal interactions that trigger symmetric or asymmetric effects on our everyday life. Recent studies advocate in favor of the significant role that SNSs have in promoting well-being and, more importantly, in disseminating reliable information during a global crisis, such as the current COVID-19 pandemic. Based on the growing importance of SNSs to the global framework, the main purpose of this study is to empirically assess the link between the use of symmetric social networks such as Facebook, or asymmetric social networks, like Instagram, and the level of satisfaction, employing the methodology of structural equation modeling. The results of the research validate the hypothesis that SNS activities increase the level of satisfaction, and therefore, that there is a direct link between the number of posts and comments and the level of satisfaction. Furthermore, based on the reversible and significant link between the level of satisfaction and the importance attributed to SNSs, the main conclusion of the study is that the higher the importance of the SNS, the greater the level of dissatisfaction experienced by users. Also, public activities on social networks positively affect social network satisfaction, while private activities have a direct negative relationship with the importance of social networks.
+C1 [Mican, Daniel; Sitar-Taut, Dan-Andrei; Mihut, Ioana-Sorina] Babes Bolyai Univ, Fac Econ & Business Adm, Cluj Napoca 400591, Romania.
+C3 Babes Bolyai University from Cluj
+RP Sitar-Taut, DA (corresponding author), Babes Bolyai Univ, Fac Econ & Business Adm, Cluj Napoca 400591, Romania.
+EM daniel.mican@econ.ubbcluj.ro; dan.sitar@econ.ubbcluj.ro;
+   ioana.mihut@econ.ubbcluj.ro
+RI Andreica (Mihut), Ioana/ABA-2389-2020; Mican, Daniel/K-6927-2018;
+   Sitar-Taut, Dan-Andrei/U-4746-2017
+OI Mican, Daniel/0000-0003-0277-9700; Sitar-Taut,
+   Dan-Andrei/0000-0001-5360-3874
+CR Abosag I, 2020, J BUS RES, V117, P862, DOI 10.1016/j.jbusres.2019.03.016
+   Alnjadat R, 2019, J TAIBAH UNIV MED SC, V14, P390, DOI 10.1016/j.jtumed.2019.05.002
+   [Anonymous], 1987, MULTIVARIATE DATA AN
+   Arampatzi E, 2018, J HAPPINESS STUD, V19, P99, DOI 10.1007/s10902-016-9808-z
+   BAUMEISTER RF, 1995, PSYCHOL BULL, V117, P497, DOI 10.1037/0033-2909.117.3.497
+   Bettmann JE, 2021, CLIN SOC WORK J, V49, P368, DOI 10.1007/s10615-020-00752-1
+   Bonett DG, 2000, PSYCHOMETRIKA, V65, P23, DOI 10.1007/BF02294183
+   Boyd DM, 2007, J COMPUT-MEDIAT COMM, V13, P210, DOI 10.1111/j.1083-6101.2007.00393.x
+   Burke M, 2016, J COMPUT-MEDIAT COMM, V21, P265, DOI 10.1111/jcc4.12162
+   Celi G, 2020, J IND BUS ECON, V47, P411, DOI 10.1007/s40812-020-00165-8
+   Chen B, 2020, SYMMETRY-BASEL, V12, DOI 10.3390/sym12050843
+   Cochran WG., 1963, SAMPLING TECHNIQUES
+   Conejero JM, 2016, SYMMETRY-BASEL, V8, DOI 10.3390/sym8080071
+   Dhir A, 2016, COMPUT HUM BEHAV, V59, P420, DOI 10.1016/j.chb.2016.02.040
+   DIENER E, 1985, J PERS ASSESS, V49, P71, DOI 10.1207/s15327752jpa4901_13
+   FORNELL C, 1981, J MARKETING RES, V18, P39, DOI 10.2307/3151312
+   Hair J.F., 2016, PRIMER PARTIAL LEAST
+   Hair JF, 2011, J MARKET THEORY PRAC, V19, P139, DOI 10.2753/MTP1069-6679190202
+   Hair JF, 2019, EUR BUS REV, V31, P2, DOI 10.1108/EBR-11-2018-0203
+   Henseler J, 2015, J ACAD MARKET SCI, V43, P115, DOI 10.1007/s11747-014-0403-8
+   Hruska J, 2020, SOCIETIES, V10, DOI 10.3390/soc10010027
+   Ilakkuvan V, 2019, J ADOLESCENT HEALTH, V64, P158, DOI 10.1016/j.jadohealth.2018.06.025
+   Kaplan AM, 2010, BUS HORIZONS, V53, P59, DOI 10.1016/j.bushor.2009.09.003
+   Kavianpour S, 2019, J INF SECUR APPL, V49, DOI 10.1016/j.jisa.2019.102402
+   Khan NA, 2019, GOV INFORM Q, V36, DOI 10.1016/j.giq.2019.07.003
+   Kim C, 2020, COMPUT HUM BEHAV, V105, DOI 10.1016/j.chb.2019.106222
+   Kross E, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0069841
+   Lee Y, 2020, INTERNET RES, V30, P971, DOI 10.1108/INTR-06-2019-0264
+   Liao CH, 2020, SYMMETRY-BASEL, V12, DOI 10.3390/sym12071105
+   Malik K. A. A., 2019, OPEN J SCI TECHNOLOG, V2, P14, DOI [https://doi.org/10.31580/ojst.v2i1.909, DOI 10.31580/OJST.V2I1.909]
+   Moqbel M, 2018, INFORM MANAGE-AMSTER, V55, P109, DOI 10.1016/j.im.2017.05.001
+   Nabity-Grover T, 2020, INT J INFORM MANAGE, V55, DOI 10.1016/j.ijinfomgt.2020.102188
+   Paul JZ, 2019, COMPUT ASSIST LANG L, V32, P587, DOI 10.1080/09588221.2018.1527364
+   Pérez-Escoda A, 2020, INT J ENV RES PUB HE, V17, DOI 10.3390/ijerph17145261
+   Phua J, 2017, COMPUT HUM BEHAV, V72, P115, DOI 10.1016/j.chb.2017.02.041
+   Pollet TV, 2019, EVOL PSYCHOL SCI, V5, P357, DOI 10.1007/s40806-019-00192-2
+   Purcell K., 2010, Social media mobile Internet use among teens and young adults
+   Qi M, 2020, J ADOLESCENT HEALTH, V67, P514, DOI 10.1016/j.jadohealth.2020.07.001
+   Reis HT, 2003, FLOURISHING: POSITIVE PSYCHOLOGY AND THE LIFE WELL-LIVED, P129, DOI 10.1037/10594-006
+   Ringle C.M., SMARTPLS, P3
+   Sabatini F, 2017, KYKLOS, V70, P456, DOI 10.1111/kykl.12145
+   Sahni H, 2020, INT J ACAD MED, V6, P70, DOI 10.4103/IJAM.IJAM_50_20
+   Schlosser AE, 2020, CURR OPIN PSYCHOL, V31, P1, DOI 10.1016/j.copsyc.2019.06.025
+   Seo S. B., 2015, Journal of Foodservice Business Research, V18, P111, DOI 10.1080/15378020.2015.1029384
+   Shane-Simpson C, 2018, COMPUT HUM BEHAV, V86, P276, DOI 10.1016/j.chb.2018.04.041
+   Shmueli G, 2016, J BUS RES, V69, P4552, DOI 10.1016/j.jbusres.2016.03.049
+   Sitar-Taut DA, 2020, INFORM TECHNOL MANAG, V21, P131, DOI 10.1007/s10799-019-00309-w
+   Starnes D. S., 2010, The Practice of Statistics
+   Tafesse W, 2020, EDUC INF TECHNOL, V25, P4747, DOI 10.1007/s10639-020-10162-y
+   Tang CSK, 2017, ASIAN J PSYCHIATR, V25, P175, DOI 10.1016/j.ajp.2016.10.027
+   Toma CL, 2013, PERS SOC PSYCHOL B, V39, P321, DOI 10.1177/0146167212474694
+   Valenzuela S, 2009, J COMPUT-MEDIAT COMM, V14, P875, DOI 10.1111/j.1083-6101.2009.01474.x
+   Valkenburg PM, 2016, ANNU REV PSYCHOL, V67, P315, DOI 10.1146/annurev-psych-122414-033608
+   Verswijvel K, 2018, COMPUT HUM BEHAV, V86, P289, DOI 10.1016/j.chb.2018.04.050
+   Villanti AC, 2017, J MED INTERNET RES, V19, DOI 10.2196/jmir.7303
+   Yao JJ, 2017, COMPUT HUM BEHAV, V75, P415, DOI 10.1016/j.chb.2017.04.055
+   Zhan LH, 2016, ASLIB J INFORM MANAG, V68, P347, DOI 10.1108/AJIM-12-2015-0195
+   Zou X, 2015, MOTIV EMOTION, V39, P693, DOI 10.1007/s11031-015-9490-1
+NR 58
+TC 6
+Z9 7
+U1 3
+U2 26
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2073-8994
+J9 SYMMETRY-BASEL
+JI Symmetry-Basel
+PD OCT
+PY 2020
+VL 12
+IS 10
+AR 1656
+DI 10.3390/sym12101656
+PG 16
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA ON8TU
+UT WOS:000586966700001
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Zhao, NS
+AF Zhao, Ningshe
+TI Athlete Social Support Network Modeling Based on Modern Valence Bond
+   Theory
+SO COMPLEXITY
+LA English
+DT Article
+AB Based on the Valence Bond theory, an attempt is proposed to the complex network. The principle of chemical bonding of the basic particles that make up the substance creates a metaphor between the formation of social networks. By analyzing the integration of atoms by relying on the chemical bonds between particles, then the social basis for the connection between social network nodes should depend on the tangible or intangible attribute resources that characterize social capital around the main node. Based on the above analysis, the social node is divided into active nodes and passive nodes, and a dynamic model of social network formation is proposed, the Valence Bond model of social network. Through this model, the actual athlete group nodes are depicted, and the representation of the model and the evolution of network structure are given with the actual data.
+C1 [Zhao, Ningshe] Xian Univ, Sch Informat Engn, Xian 710065, Peoples R China.
+C3 Xi'an University
+RP Zhao, NS (corresponding author), Xian Univ, Sch Informat Engn, Xian 710065, Peoples R China.
+EM zhaoningshe@foxmail.com
+OI Zhao, Ningshe/0000-0002-6500-4913
+FU Shaanxi Provincial Social Science Fund Project [2018R13, 2015P002];
+   Xi'an University 2020-2021 Education and Teaching Achievements Award
+   Cultivation Project [JY2020CGPY01]
+FX This work was supported by Shaanxi Provincial Social Science Fund
+   Project (under Grant nos. 2018R13 and 2015P002) and Xi'an University
+   2020-2021 Education and Teaching Achievements Award Cultivation Project
+   (JY2020CGPY01).
+CR Chen F. J., 2016, J XINJIANG U FINANCE, V68, P55
+   Ding J., 2016, J XIAN I PHYS ED NOL, V4, P405
+   Guan SG, 2020, SCI SIN-PHYS MECH AS, V50, DOI 10.1360/SSPMA-2019-0135
+   Guan Y., 2013, TELECOMMUNICATIONS S, V29, P112
+   Hou H., 2016, U CHEM, V31, P24, DOI [10.3866/pku.dxhx201512025, DOI 10.3866/PKU.DXHX201512025]
+   Hu C., 2019, J ENG MANAGEMENT, V2, P72
+   Huang NE, 2020, SCI BULL, V65, P425, DOI 10.1016/j.scib.2020.02.005
+   Huang Q, 2020, IEEE ACCESS, V8, P4301, DOI 10.1109/ACCESS.2019.2960559
+   Hussain S., 2018, J. Appl. Comput. Sci. Math, V12, P14, DOI [https://doi.org/10.4316/JACSM.201801002, DOI 10.4316/JACSM.201801002, 10.4316/JACSM.201801002]
+   Jia Ming., 2015, Computational Social Networks, V2, P5, DOI DOI 10.1186/S40649-015-0014-7
+   Lai B., 2017, RES EFFECT SOCIAL CA
+   Lai B., 2017, STUDY INFLUENCE SOCI
+   Li Z., 2012, SOCIAL SCI FRONT, V199, P159
+   Li ZY, 2019, COMPLEXITY, DOI 10.1155/2019/6325654
+   Liu J., 2014, PRACTICAL GUIDE INTE
+   [刘维 Liu Wei], 2020, [信息与控制, Information and Control], V49, P1
+   Liu Z., 2020, BUSINESS ECONOMICS A, V341, P15
+   Luo J., 2019, FOREIGN EC MANAGEMEN, V41, P112
+   Pan Y., 2019, J NETWORK INFORM SEC, V5, P67
+   Qian Y., 2014, ONLINE SOCIAL NETWOR
+   Ren Z., 2020, J PHYS, V69, P24
+   [王慧 Wang Hui], 2020, [计算机科学, Computer Science], V47, P302
+   [王龙 Wang Long], 2018, [中国科学. 信息科学, Scientia Sinica Informationis], V48, P3
+   Wang X, 2014, SCI SOC, V1, P27
+   Wang Y., 2018, BIG DATA, V4, P81, DOI [10.1109/icaci.2018.8377582, DOI 10.1109/ICACI.2018.8377582]
+   Wu W., 2001, J XIAMEN U, V40, P338
+   Xie M., 2019, STUDY NODE ATTRIBUTE
+   Xiong F, 2020, IEEE T CYBERNETICS, V50, P4186, DOI 10.1109/TCYB.2019.2939390
+   Xiong F, 2020, IEEE T SYST MAN CY-S, V50, P3804, DOI 10.1109/TSMC.2018.2854000
+   [徐恪 Xu Ke], 2014, [计算机学报, Chinese Journal of Computers], V37, P165
+   Xu X., 2019, RES MODERNIZATION NA, V1, P250
+   Yu B, 2019, DATA INTELLIGENCE, V1, P381, DOI 10.1162/dint_a_00053
+   ZHAN X, 2020, COMPUTER ENG APPL, DOI DOI 10.1080/03007995.2020.1846173
+   Zhang N., 2019, COMPUTER APPL RES, V37, P1
+   Zhang X., 2019, MATH RESOLUTION RES, V440, P96
+   Zhao W., 2019, COMPUTER SCI, V47, P10
+   Zhao Y., 2005, FOREIGN SOCIAL SCI, V1, P18
+NR 37
+TC 0
+Z9 0
+U1 0
+U2 6
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1076-2787
+EI 1099-0526
+J9 COMPLEXITY
+JI Complexity
+PD NOV 24
+PY 2020
+VL 2020
+AR 4392975
+DI 10.1155/2020/4392975
+PG 8
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Mathematics; Science & Technology - Other Topics
+GA PD8OO
+UT WOS:000597937600005
+OA gold
+DA 2024-11-22
+ER

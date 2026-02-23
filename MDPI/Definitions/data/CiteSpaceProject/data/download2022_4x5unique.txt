@@ -1,0 +1,630 @@
+
+PT J
+AU Interdonato, R
+   Bourgoin, J
+   Grislain, Q
+   Tagarelli, A
+AF Interdonato, Roberto
+   Bourgoin, Jeremy
+   Grislain, Quentin
+   Tagarelli, Andrea
+TI The new abnormal: Identifying and ranking anomalies in the land trade
+   market
+SO PLOS ONE
+LA English
+DT Article
+ID SCALE; RUSH
+AB Large-scale national and transnational commercial land transactions, or Large-Scale Land Acquisitions (LSLAs), have been gaining a lot of academic attention since the late 2000s and since the reported rush for land, resulting in turn from an increase in demand for arable land. If many data exist to characterize land deals, the analysis of investment networks remain limited and predominantly portrays power asymmetries between countries from the Global North investing in the Global South. The aim of this work is to perform a deeper investigation on the land trade market, specifically focusing on cases that do not follow such narratives. For instance, almost 25% of the countries included in the transnational land trade network do not follow a strict investor/target dichotomy, thus being characterized by a double role, i.e., they both acquire and cede land in the transnational context. In order to globally acknowledge for what was currently considered as abnormal cases, we model open access data about LSLAs extracted from the Land Matrix Initiative (LMI) open-access database into a network graph, and adapt an eigenvector based centrality method originally conceived for online social networks, namely LurkerRank, to identify and rank anomalous profiles in the land trade market. We take into account three different network snapshots: a multi-sector network (including all the transnational deals in the LMI database), and three networks referring to specific investment sectors (agriculture,mines and biofuels). Experimental results show that emerging economies (e.g., China and Malaysia) play a central role in the land trade market, by creating alternative dynamics that escape the classic North/South one. Our analyses also show how African countries that are often seen as targets of land trade transactions in a specific sector, may often acquire foreign land in the context of investments in the same sector (i.e., Zimbabwe for biofuels and the Democratic Republic of Congo for the mining sector).
+C1 [Interdonato, Roberto; Bourgoin, Jeremy; Grislain, Quentin] CIRAD, UMR TETIS, Montpellier, France.
+   [Interdonato, Roberto; Bourgoin, Jeremy; Grislain, Quentin] Univ Montpellier, INRAE, CNRS, CIRAD,AgroParisTech,TETIS, Montpellier, France.
+   [Tagarelli, Andrea] Univ Calabria, DIMES, Arcavacata Di Rende, Italy.
+C3 CIRAD; AgroParisTech; Centre National de la Recherche Scientifique
+   (CNRS); Universite de Montpellier; CIRAD; INRAE; AgroParisTech;
+   University of Calabria
+RP Interdonato, R (corresponding author), CIRAD, UMR TETIS, Montpellier, France.; Interdonato, R (corresponding author), Univ Montpellier, INRAE, CNRS, CIRAD,AgroParisTech,TETIS, Montpellier, France.
+EM roberto.interdonato@cirad.fr
+RI Torres, Andrea/HLP-6166-2023; Interdonato, Roberto/ABC-3468-2021
+OI Interdonato, Roberto/0000-0002-0536-6277; Grislain,
+   Quentin/0000-0002-1829-2203; Bourgoin, Jeremy/0000-0002-6871-1859
+FU Land Matrix initiative, International Land Coalition (ILC); Centre de
+   Cooperation Internationale en Recherche Agronomique pour le
+   Developpement (CIRAD); Centre for Development and Environment (CDE);
+   German Institute of Global and Area Studies (GIGA); Deutsche
+   Gesellschaft fur Internationale Zusammenarbeit (GIZ)
+FX This study was financially supported by Land Matrix initiative,
+   International Land Coalition (ILC), Centre de Cooperation Internationale
+   en Recherche Agronomique pour le Developpement (CIRAD), Centre for
+   Development and Environment (CDE), German Institute of Global and Area
+   Studies (GIGA) and Deutsche Gesellschaft fur Internationale
+   Zusammenarbeit (GIZ) in the form of an award to JB. The funders had no
+   role in study design, data analysis, decision to publish, or preparation
+   of the manuscript.
+CR Akesson U., 2016, ENV CLIMATE CHANGE P
+   Anseeuw W., 2012, Transnational Land Deals for Agriculture in the Global South. Analytical Report based on the Land Matrix Database
+   Anseeuw W, 2013, S AFR J INT AFF, V20, P159, DOI 10.1080/10220461.2013.780326
+   Arezki R, 2015, WORLD BANK ECON REV, V29, P207, DOI 10.1093/wber/lht034
+   Bonacich P, 2001, SOC NETWORKS, V23, P191, DOI 10.1016/S0378-8733(01)00038-7
+   Borras SM, 2011, J PEASANT STUD, V38, P209, DOI 10.1080/03066150.2011.559005
+   Brin S, 1998, COMPUT NETWORKS ISDN, V30, P107, DOI 10.1016/S0169-7552(98)00110-X
+   Budalakoti S., 2012, Proc. of the 21st international confer- ence on World Wide Web (WWW), P709
+   Cotula L., 2013, HUMAN RIGHTS NATURAL
+   Cotula L, 2012, J PEASANT STUD, V39, P649, DOI 10.1080/03066150.2012.674940
+   Cotula Lorenzo., 2009, LAND GRAB DEV OPPORT
+   Dell'Angelo J, 2017, WORLD DEV, V92, P1, DOI 10.1016/j.worlddev.2016.11.005
+   Interdonato R., 2019, P 8 INT C COMPL NETW, V2019, P152
+   Interdonato R, 2020, PLOS ONE, V15, DOI 10.1371/journal.pone.0240051
+   Lay J, 2018, J ECON GEOGR, V18, P59, DOI 10.1093/jeg/lbx011
+   Liao C, 2020, LAND DEGRAD DEV, V31, P1241, DOI 10.1002/ldr.3544
+   Nolte K., 2016, FRESH INSIGHTS LAND, DOI DOI 10.7892/BORIS.85304
+   Oya C, 2013, J PEASANT STUD, V40, P503, DOI 10.1080/03066150.2013.799465
+   Perna D., 2019, SIGWEB NEWSL, V2019, P31
+   Perna D, 2018, IEEE T COMPUT SOC SY, V5, P46, DOI 10.1109/TCSS.2017.2762730
+   Pitron G., 2018, La guerre des metaux rares, La face cachee de la transition energetique et numerique
+   Schut M, 2010, ENERG POLICY, V38, P5151, DOI 10.1016/j.enpol.2010.04.048
+   Scoones I, 2013, J PEASANT STUD, V40, P469, DOI 10.1080/03066150.2013.801341
+   Tagarelli A., 2018, Mining lurkers in online social networks: Principles, models, and computational methods, DOI DOI 10.1007/978-3-030-00229-9
+   Tagarelli A, 2014, SOC NETW ANAL MIN, V4, DOI 10.1007/s13278-014-0230-4
+   Tagarelli A, 2013, 2013 IEEE/ACM INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING (ASONAM), P221
+   The World Bank, 2011, J PEASANT STUD
+   Zoomers A, 2016, GEOFORUM, V69, P147, DOI 10.1016/j.geoforum.2015.11.017
+NR 28
+TC 1
+Z9 1
+U1 1
+U2 3
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD DEC 1
+PY 2022
+VL 17
+IS 12
+AR e0277608
+DI 10.1371/journal.pone.0277608
+PG 18
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 8O3JO
+UT WOS:000925734000060
+PM 36454792
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU McMillan, C
+   Kreager, DA
+   Veenstra, R
+AF McMillan, Cassie
+   Kreager, Derek A.
+   Veenstra, Rene
+TI Keeping to the code: How local norms of friendship and dating inform
+   macro-structures of adolescents' romantic networks
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Dating networks; Friendship networks; Adolescence; Temporal ERGMs;
+   Social norms; Network topology; Disease diffusion
+ID SOCIAL NETWORKS; MODELS; STRENGTH
+AB Even though romantic partnerships are often understood as pairwise relationships, there is value in conceptualizing the dating patterns of adolescents as network phenomena, particularly as related to the spread of sexually transmitted infections. The current study adopts this perspective to evaluate how a local norm guiding the coexistence of dating and friendship informs macro-level romantic network structures. Using twelve months of romantic relationship data from the Peers and the Emergence of Adolescent Romance (PEAR) study, we find that the global dating network resembles a chain-like, spanning tree structure consistent with that observed by Bearman and colleagues (2004)in their foundational study. Then, through the application of temporal ERGMs, we uncover evidence that adolescents adhere to a social norm against dating their friends' previous romantic partners. We use these findings to empirically ground a series of network simulations, which demonstrate that the romantic network's structure becomes less redundant and more clustered as the norm against dating friends' previous partners is relaxed. By understanding how local norms shape patterns of friendship and dating, we can better conceptualize the macro-level structural patterns of romantic networks and their implications for infectious disease diffusion.
+C1 [McMillan, Cassie] Northeastern Univ, Sch Criminol & Criminal Justice, Dept Sociol & Anthropol, Boston, MA 02115 USA.
+   [Kreager, Derek A.] Penn State Univ, Dept Sociol & Criminol, University Pk, PA USA.
+   [Veenstra, Rene] Univ Groningen, Dept Sociol, Groningen, Netherlands.
+C3 Northeastern University; Pennsylvania Commonwealth System of Higher
+   Education (PCSHE); Pennsylvania State University; Pennsylvania State
+   University - University Park; University of Groningen
+RP McMillan, C (corresponding author), Northeastern Univ, Sch Criminol & Criminal Justice, Dept Sociol & Anthropol, Boston, MA 02115 USA.; Veenstra, R (corresponding author), Univ Groningen, Dept Sociol, Groningen, Netherlands.
+EM c.mcmillan@northeastern.edu; d.r.veenstra@rug.nl
+RI McMillan, Cassie/KGM-6448-2024; Veenstra, Rene/G-6696-2011
+OI Veenstra, Rene/0000-0001-6686-6307; Kreager, Derek
+   A./0000-0003-0350-7803; McMillan, Cassie/0000-0002-4108-8112
+FU NWO Research Talent Program, the Netherlands [406-12-022]
+FX We thank Tom A. B. Snijders for feedback on earlier versions of this
+   paper, as well as Jan Kornelis Dijkstra, Chaim la Roi, and Ruta
+   Savickait.e for their assistance with data collection. The data
+   collection for this project was funded by the NWO Research Talent
+   Program, the Netherlands (project number 406-12-022).
+CR Adams J, 2015, NETW SCI, V3, P293, DOI 10.1017/nws.2015.16
+   Aral SO, 2000, SEX TRANSM DIS, V27, P327, DOI 10.1097/00007435-200007000-00005
+   Bearman PS, 2004, AM J SOCIOL, V110, P44, DOI 10.1086/386272
+   Coleman J., 1961, ADOLESCENT SOC, V1st
+   Connolly J, 2004, J RES ADOLESCENCE, V14, P185, DOI 10.1111/j.1532-7795.2004.01402003.x
+   Connolly J, 2000, CHILD DEV, V71, P1395, DOI 10.1111/1467-8624.00235
+   Cranmer S J., 2021, Inferential network analysis
+   DAVIS JA, 1970, AM SOCIOL REV, V35, P843, DOI 10.2307/2093295
+   Dezso Z, 2002, PHYS REV E, V65, DOI 10.1103/PhysRevE.65.055103
+   Duck S., 1982, PERSONAL RELATIONSHI
+   DUNPHY DC, 1963, SOCIOMETRY, V26, P230, DOI 10.2307/2785909
+   Faris R, 2020, AM J SOCIOL, V126, P673, DOI 10.1086/712972
+   Faust K, 2010, SOC NETWORKS, V32, P221, DOI 10.1016/j.socnet.2010.03.004
+   Felmlee D., 2018, J SOC STRUCT, V18, P1
+   Felmlee DH, 2001, SOC FORCES, V79, P1259, DOI 10.1353/sof.2001.0039
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   FRIEDKIN N, 1980, SOC NETWORKS, V2, P411, DOI 10.1016/0378-8733(80)90006-4
+   Fuhrman Wyndol., 2015, HDB CHILD PSYCHOL DE, P1, DOI [10.1002/9781118963418.childpsy322, DOI 10.1002/9781118963418.CHILDPSY322]
+   Furman W, 2009, J CLIN CHILD ADOLESC, V38, P75, DOI 10.1080/15374410802575347
+   GOULDNER AW, 1960, AM SOCIOL REV, V25, P161, DOI 10.2307/2092623
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   HALLINAN MT, 1974, AM J SOCIOL, V80, P364, DOI 10.1086/225804
+   Hanneke S, 2010, ELECTRON J STAT, V4, P585, DOI 10.1214/09-EJS548
+   Heider F, 1946, J PSYCHOL, V21, P107, DOI 10.1080/00223980.1946.9917275
+   Hethcote H., 1984, MATH BIOSCI, V58, P93
+   HOLLAND PW, 1971, COMP GROUP STUD, V2, P107, DOI 10.1177/104649647100200201
+   Kalmijn M, 2001, SOC FORCES, V79, P1289, DOI 10.1353/sof.2001.0044
+   Kreager DA, 2016, J RES ADOLESCENCE, V26, P257, DOI 10.1111/jora.12189
+   Kreager DA, 2011, AM SOCIOL REV, V76, P737, DOI 10.1177/0003122411416934
+   la Roi C, 2020, J YOUTH ADOLESCENCE, V49, P2229, DOI 10.1007/s10964-020-01298-8
+   Laursen B, 2021, J RES ADOLESCENCE, V31, P889, DOI 10.1111/jora.12606
+   Leinhardt S., 1972, SOCIOL THEORIES PROG
+   Lewis K, 2013, P NATL ACAD SCI USA, V110, P18814, DOI 10.1073/pnas.1308501110
+   Marcum CS, 2016, NETW SCI, V4, P400, DOI 10.1017/nws.2016.3
+   Martin JL, 2009, SOCIAL STRUCTURES, P1
+   McFarland DA, 2014, AM SOCIOL REV, V79, P1088, DOI 10.1177/0003122414554001
+   McMillan C, 2020, SOC PSYCHOL QUART, V83, P383, DOI 10.1177/0190272520944151
+   McMillan C, 2020, J QUANT CRIMINOL, V36, P559, DOI 10.1007/s10940-019-09426-9
+   Miller S, 2009, J EARLY ADOLESCENCE, V29, P839, DOI 10.1177/0272431609332665
+   Moody J., 2009, The Oxford Handbook of Analytical Sociology, P447
+   MORRIS M, 1993, SOCIOL METHOD RES, V22, P99, DOI 10.1177/0049124193022001005
+   Onnela JP, 2007, P NATL ACAD SCI USA, V104, P7332, DOI 10.1073/pnas.0610245104
+   Poulin F, 2007, DEV PSYCHOL, V43, P1484, DOI 10.1037/0012-1649.43.6.1484
+   Qian ZC, 2007, AM SOCIOL REV, V72, P68, DOI 10.1177/000312240707200104
+   Ripley R.M., 2021, MANUAL SIENA VERSION
+   Robins G., 2004, Computational & Mathematical Organization Theory, V10, P69, DOI 10.1023/B:CMOT.0000032580.12184.c0
+   Roisman GI, 2004, CHILD DEV, V75, P123, DOI 10.1111/j.1467-8624.2004.00658.x
+   Rollie S., 2006, Handbook of divorce and relationship dissolution, P223
+   Savickaite R, 2020, J EARLY ADOLESCENCE, V40, P377, DOI 10.1177/0272431619847530
+   Schaefer DR, 2011, DEV PSYCHOL, V47, P1141, DOI 10.1037/a0024091
+   Schalet AmyT., 2000, BODY SOC, V6, P75, DOI DOI 10.1177/1357034X00006001006
+   Simmel G, 1902, AM J SOCIOL, V8, P1, DOI 10.1086/211115
+   Snijders TAB, 2001, SOCIOL METHODOL, V31, P361, DOI 10.1111/0081-1750.00099
+   Sprecher S, 2006, CAMBRIDGE HANDBOOK OF PERSONAL RELATIONSHIPS, P463, DOI 10.1017/CBO9780511606632.026
+   Stadtfeld C, 2017, SOCIOL METHODOL, V47, P1, DOI 10.1177/0081175017709295
+   Steen R, 2000, SEX TRANSM DIS, V27, P1, DOI 10.1097/00007435-200001000-00001
+   Valente TW, 2012, SCIENCE, V337, P49, DOI 10.1126/science.1217330
+NR 57
+TC 8
+Z9 8
+U1 3
+U2 11
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JUL
+PY 2022
+VL 70
+BP 126
+EP 137
+DI 10.1016/j.socnet.2021.11.012
+PG 12
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 2P7QO
+UT WOS:000819930800004
+OA Green Published, hybrid
+DA 2024-11-22
+ER
+
+PT J
+AU Foon, KWC
+   Brown, HCP
+   Pittman, J
+AF Foon, Kimberly Wishart Chu
+   Brown, H. Carolyn Peach
+   Pittman, Jeremy
+TI Exploring Conservation Actor Networks in Trinidad And Tobago
+SO SOCIETY & NATURAL RESOURCES
+LA English
+DT Article
+DE Caribbean; collaboration; conservation; conservation organizations;
+   islands; networks; social network analysis
+ID SOCIAL NETWORKS; GOVERNANCE
+AB Networks play an important role in conservation by facilitating and strengthening collaboration among conservation organizations. This study explores the structural characteristics of networks that could promote or inhibit conservation in Trinidad and Tobago. To achieve this, a questionnaire was sent out to all identifiable conservation actors on the island. Social network analysis software was used to analyze the data and generate network measures and maps. Results show that there are 69 conservation organizations on the island and NGOs play an important role. The overall network density and centralization are low while network cohesion across most categories of actor subgroups was positive. Ego network measures on centrality and brokerage were used to provide recommendations that could help to strengthen collaboration between organizations. As the first study of its kind using network analysis applied to conservation in this geographical context, it can help to inform future conservation research and initiatives.
+C1 [Foon, Kimberly Wishart Chu] Univ Prince Edward Isl, Fac Sci, Dept Biol, Charlottetown, PE, Canada.
+   [Brown, H. Carolyn Peach] Univ Prince Edward Isl, Fac Sci, Dept Environm Studies, Charlottetown, PE, Canada.
+   [Pittman, Jeremy] Univ Waterloo, Fac Environm, Sch Planning, Waterloo, ON, Canada.
+C3 University of Prince Edward Island; University of Prince Edward Island;
+   University of Waterloo
+RP Foon, KWC (corresponding author), Univ Prince Edward Isl, Fac Sci, Dept Biol, Charlottetown, PE, Canada.
+EM kwishartchuf@upei.ca
+RI Pittman, Jeremy/N-4355-2015
+OI Pittman, Jeremy/0000-0001-8327-184X
+CR Alexander SM, 2015, GLOBAL ENVIRON CHANG, V35, P213, DOI 10.1016/j.gloenvcha.2015.09.001
+   [Anonymous], 2002, Harvard, MA: Analytic Technologies
+   [Anonymous], 2014, FOOD WASTAGE FOOTPRI
+   [Anonymous], 2002, GLOBAL ENV GOVERNANC
+   Bastian M, 2009, GEPHI OPEN SOURCE SO, DOI [DOI 10.1609/ICWSM.V3I1.13937, 10.13140/2.1.1341.1520]
+   Berkes F, 2004, CONSERV BIOL, V18, P621, DOI 10.1111/j.1523-1739.2004.00077.x
+   Berkes F., 1998, LINKING SOCIAL ECOLO
+   Bishop J., 2009, Journal of Sustainable Forestry, V28, P285, DOI 10.1080/10549810902791481
+   Bixler RP, 2016, FRONT ECOL ENVIRON, V14, P165, DOI 10.1002/fee.1252
+   Bodin O, 2011, SOCIAL NETWORKS NATU
+   Bodin Ö, 2009, GLOBAL ENVIRON CHANG, V19, P366, DOI 10.1016/j.gloenvcha.2009.05.002
+   Borgatti SP., 2018, ANAL SOCIAL NETWORKS
+   Brass DJ, 2004, ACAD MANAGE J, V47, P795, DOI 10.5465/20159624
+   Brown K., 2003, ASIAN J PUBLIC ADM, V25, P107
+   CANARI, 2008, GOV CIV SOC PART NAT
+   Cohen PJ, 2012, CONSERV LETT, V5, P376, DOI 10.1111/j.1755-263X.2012.00255.x
+   Crona B, 2006, ECOL SOC, V11
+   Crona BI, 2006, ECOL SOC, V11
+   Cross R, 2002, CALIF MANAGE REV, V44, P25, DOI 10.2307/41166121
+   Environmental Management Authority of Trinidad and Tobago, 2004, NO RANG ASS 2005
+   Folke C, 2005, ANNU REV ENV RESOUR, V30, P441, DOI 10.1146/annurev.energy.30.050504.144511
+   Government of the Republic of Trinidad and Tobago, 2011, NAT PROT AR POL
+   Guerrero AM, 2015, CONSERV LETT, V8, P107, DOI 10.1111/conl.12112
+   Hanneman RA, 2005, Introduction to social network methods
+   James MC, 2005, MAR BIOL, V147, P845, DOI 10.1007/s00227-005-1581-1
+   Kapos V, 2009, ORYX, V43, P336, DOI 10.1017/S0030605309990275
+   Kark S, 2015, CURR OPIN ENV SUST, V12, P12, DOI 10.1016/j.cosust.2014.08.005
+   Knoke David, 2020, Social Network Analysis: Third Edition. Applications in the Social Sciences, V3rd, DOI DOI 10.4135/9781506389332
+   Labianca G, 2006, ACAD MANAGE REV, V31, P596, DOI [10.5465/AMR.2006.21318920, 10.2307/20159231]
+   Levesque VR, 2017, SOC NATUR RESOUR, V30, P245, DOI 10.1080/08941920.2016.1180726
+   McIntosh S., 2010, International Journal of the Commons, V4, P160, DOI DOI 10.18352/IJC.135
+   Montoute A., 2019, CARIBBEAN STUD, V47, P81, DOI [10.1353/crb.2019.0015, DOI 10.1353/CRB.2019.0015]
+   Newig J, 2010, ECOL SOC, V15
+   Oehler DA, 2001, BIRD CONSERV INT, V11, P129
+   Pittman J, 2019, ECOL ECON, V157, P61, DOI 10.1016/j.ecolecon.2018.10.013
+   Pittman J, 2017, ECOL SOC, V22, DOI 10.5751/ES-09593-220405
+   Pittman J, 2015, MAR POLICY, V51, P486, DOI 10.1016/j.marpol.2014.08.009
+   Prell C, 2009, SOC NATUR RESOUR, V22, P501, DOI 10.1080/08941920802199202
+   Romero Aldemaro, 2002, Environment and History, V8, P255, DOI 10.3197/096734002129342666
+   Salpeteur M, 2017, ECOL SOC, V22, DOI 10.5751/ES-08790-220141
+   Sandström A, 2010, ECOL SOC, V15
+   Scarlett L, 2016, FRONT ECOL ENVIRON, V14, P116, DOI 10.1002/fee.1247
+   Scott J., 2017, SOCIAL NETWORK ANAL
+   Scott M, 2018, ENVIRON SOCIOL, V4, P286, DOI 10.1080/23251042.2017.1374232
+   Scott M, 2015, PROG HUM GEOG, V39, P449, DOI 10.1177/0309132514554322
+   Singh S, 2019, SOCIOLOGY, V53, P762, DOI 10.1177/0038038518821307
+   Turner RA, 2020, ENVIRON CONSERV, V47, P284, DOI 10.1017/S0376892920000351
+   Vance-Borland K, 2011, CONSERV LETT, V4, P278, DOI 10.1111/j.1755-263X.2011.00176.x
+NR 48
+TC 0
+Z9 0
+U1 1
+U2 3
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 0894-1920
+EI 1521-0723
+J9 SOC NATUR RESOUR
+JI Soc. Nat. Resour.
+PD SEP 2
+PY 2022
+VL 35
+IS 9
+BP 993
+EP 1011
+DI 10.1080/08941920.2022.2092668
+EA JUN 2022
+PG 19
+WC Development Studies; Environmental Studies; Regional & Urban Planning;
+   Sociology
+WE Social Science Citation Index (SSCI)
+SC Development Studies; Environmental Sciences & Ecology; Public
+   Administration; Sociology
+GA 3T7ST
+UT WOS:000818898600001
+DA 2024-11-22
+ER
+
+PT J
+AU Naranjo-Zolotov, M
+   Acedo, A
+   Lascano, JE
+AF Naranjo-Zolotov, Mijail
+   Acedo, Albert
+   Lascano, Jorge Edison
+TI Exploring the effects of social capital on the compulsive use of online
+   social networks in civil unrest contexts
+SO HELIYON
+LA English
+DT Article
+DE Social capital theory; Social networking sites (SNS); Partial least
+   squares structural equation; modelling (PLS-SEM); Bridging social
+   capital; Bonding social capital; Compulsive usage behaviour
+ID MEDIA; SITES; ENGAGEMENT; ADDICTION; INTERNET; CREATION; TRUST;
+   EXPERIENCES; FACEBOOK; BENEFITS
+AB The use of online social networking sites has become part of everyday life for more than three billion people worldwide. However, its use may go beyond being a habit, leading to compulsive use behaviours that jeopardize the well-being of an individual and the whole society. This study proposes and evaluates a theoretical model that examines the four dimensions of social capital, mediated by bonding and bridging social capital, as drivers of compulsive use of online social networks in the context of civil unrest. We evaluate the model using partial least squares structural equation modelling with data collected from a developing country. We found that reciprocity is the most important driver for bonding and bridging social capital with online members. Whereas trust, contra-dicting most of the literature in the field, was not statistically significant over bonding and bridging social capital. Bonding social capital shows a significant association with compulsive use behaviour. On the other hand, the effect of bridging social capital on compulsive use behaviour, although not significant, may become significant in the presence of a strong usage habit.
+C1 [Naranjo-Zolotov, Mijail; Acedo, Albert] Univ Nova Lisboa, NOVA Informat Management Sch NOVA IMS, Campus Campolide, P-1070312 Lisbon, Portugal.
+   [Acedo, Albert] Univ Jaume 1, Inst New Imaging Technol, GEOTEC, Castellon de La Plana, Spain.
+   [Acedo, Albert] Univ Lisbon, ITI LARSyS, Inst Super Tecn, Lisbon, Portugal.
+   [Lascano, Jorge Edison] Univ Fuerzas Armadas ESPE, Dept Comp Sci, Sangolqui, Ecuador.
+C3 Universidade Nova de Lisboa; Universitat Jaume I; Universidade de
+   Lisboa; Escuela Politecnica Superior del Ejercito
+RP Naranjo-Zolotov, M (corresponding author), Univ Nova Lisboa, NOVA Informat Management Sch NOVA IMS, Campus Campolide, P-1070312 Lisbon, Portugal.
+EM mijail.naranjo@novaims.unl.pt
+RI Acedo, Albert/AAA-1767-2020
+OI Lascano, Jorge Edison/0000-0002-0200-7543; Naranjo-Zolotov, Mijail
+   Juanovich/0000-0001-5153-3315
+FU Fundacao para a Ciencia e a Tecnologia (FCT) [2021.00086.CEECIND,
+   UIDB/04152/2020]
+FX This work was supported by the Fundacao para a Ciencia e a Tecnologia
+   (FCT) (UIDB/04152/2020-Centro de Investigacao em Gestao de Informacao
+   (MagIC)). Albert Acedo Sanchez was supported by the grant contract
+   2021.00086.CEECIND (Fundacao para a Ciencia e a Tecnologia, Portugal) .
+CR Aboelmaged M, 2021, J CLEAN PROD, V278, DOI 10.1016/j.jclepro.2020.124182
+   Acedo A, 2019, HELIYON, V5, DOI 10.1016/j.heliyon.2019.e02261
+   Ahn J, 2012, INFORM SOC, V28, P99, DOI 10.1080/01972243.2011.649394
+   [Anonymous], 2019, GUARDIAN NEWS
+   [Anonymous], 2020, BBC News
+   Baird TD, 2014, WORLD DEV, V60, P14, DOI 10.1016/j.worlddev.2014.02.002
+   Baltar F, 2012, INTERNET RES, V22, P57, DOI 10.1108/10662241211199960
+   BBC News, 2019, BBC NEWS
+   Bolino MC, 2002, ACAD MANAGE REV, V27, P505, DOI 10.2307/4134400
+   Bruns A, 2013, AM BEHAV SCI, V57, P871, DOI 10.1177/0002764213479374
+   Burt R.S., 2007, Brokerage and closure: An introduction to social capital
+   Busso Matas., 2020, INEQUALITY CRISIS LA
+   Caplan SE, 2010, COMPUT HUM BEHAV, V26, P1089, DOI 10.1016/j.chb.2010.03.012
+   Chang HH, 2011, INFORM MANAGE-AMSTER, V48, P9, DOI 10.1016/j.im.2010.11.001
+   Charlton JP, 2007, COMPUT HUM BEHAV, V23, P1531, DOI 10.1016/j.chb.2005.07.002
+   Cheikh-Ammar M, 2020, INFORM MANAGE-AMSTER, V57, DOI 10.1016/j.im.2020.103368
+   Chen XF, 2021, INFORM MANAGE-AMSTER, V58, DOI 10.1016/j.im.2020.103280
+   Chiu CM, 2006, DECIS SUPPORT SYST, V42, P1872, DOI 10.1016/j.dss.2006.04.001
+   Chow WS, 2008, INFORM MANAGE-AMSTER, V45, P458, DOI 10.1016/j.im.2008.06.007
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   Collins CR, 2014, AM J COMMUN PSYCHOL, V54, P328, DOI 10.1007/s10464-014-9675-x
+   de Zúñiga HG, 2012, J COMPUT-MEDIAT COMM, V17, P319, DOI 10.1111/j.1083-6101.2012.01574.x
+   Ellison NB, 2007, J COMPUT-MEDIAT COMM, V12, P1143, DOI 10.1111/j.1083-6101.2007.00367.x
+   FORNELL C, 1981, J MARKETING RES, V18, P39, DOI 10.2307/3151312
+   Foster KA, 2015, CITY COMMUNITY, V14, P392, DOI 10.1111/cico.12133
+   Freedom House, 2022, FREED NET 2020 EC
+   de Zúñiga HG, 2018, INFORM SOC, V34, P302, DOI 10.1080/01972243.2018.1497743
+   Guo J, 2022, COMPUT HUM BEHAV, V133, DOI 10.1016/j.chb.2022.107248
+   Hadlington L, 2018, HELIYON, V4, DOI 10.1016/j.heliyon.2018.e00872
+   Hair J.F., 2017, ADV ISSUES PARTIAL L
+   Hair J.F., 2016, A First on Partial Least Squares Structural Equation Modeling (PLS-SEM), V2nd
+   Hampton KN, 2011, INFORM COMMUN SOC, V14, P130, DOI 10.1080/1369118X.2010.513417
+   Heidari E, 2023, INTERACT LEARN ENVIR, V31, P214, DOI 10.1080/10494820.2020.1769682
+   Henseler J, 2015, J ACAD MARKET SCI, V43, P115, DOI 10.1007/s11747-014-0403-8
+   Henseler J, 2009, ADV INT MARKETING, V20, P277, DOI 10.1108/S1474-7979(2009)0000020014
+   Hofstede Geert., 2004, CULTURES ORG SOFTWAR
+   Horng SM, 2020, INFORM MANAGE-AMSTER, V57, DOI 10.1016/j.im.2019.103176
+   Hsu CP, 2022, COMPUT HUM BEHAV, V129, DOI 10.1016/j.chb.2021.107139
+   Hu T, 2018, J COMPUT INFORM SYST, V58, P334, DOI 10.1080/08874417.2016.1261378
+   Huang J, 2019, INFORM MANAGE-AMSTER, V56, DOI 10.1016/j.im.2019.01.006
+   Jia L, 2018, INFORM TECHNOL PEOPL, V31, P986, DOI 10.1108/ITP-03-2017-0075
+   Jin CH, 2015, NEW MEDIA SOC, V17, P501, DOI 10.1177/1461444813506977
+   Kahne J, 2018, POLIT COMMUN, V35, P470, DOI 10.1080/10584609.2018.1426662
+   Karduni A, 2020, SOC MEDIA SOC, V6, DOI 10.1177/2056305119897320
+   Katz E., 1973, PUBLIC OPIN QUART, V37
+   Kaya T, 2020, TECHNOL SOC, V63, DOI 10.1016/j.techsoc.2020.101380
+   Korkmaz G, 2016, SOC NETW ANAL MIN, V6, DOI 10.1007/s13278-016-0355-8
+   Krasnova H, 2010, J INF TECHNOL-UK, V25, P109, DOI 10.1057/jit.2010.6
+   Lager D, 2015, GEOFORUM, V59, P87, DOI 10.1016/j.geoforum.2014.12.009
+   Leonard M, 2004, SOCIOLOGY, V38, P927, DOI 10.1177/0038038504047176
+   Lewicka M, 2005, J ENVIRON PSYCHOL, V25, P381, DOI 10.1016/j.jenvp.2005.10.004
+   Lewicka M, 2011, J ENVIRON PSYCHOL, V31, P207, DOI 10.1016/j.jenvp.2010.10.001
+   Li Q, 2017, INFORM MANAGE-AMSTER, V54, P613, DOI 10.1016/j.im.2016.12.004
+   Lieberman A, 2020, CURR OPIN PSYCHOL, V31, P16, DOI 10.1016/j.copsyc.2019.06.022
+   Lin KY, 2011, CYBERPSYCH BEH SOC N, V14, P565, DOI 10.1089/cyber.2010.0472
+   Liu C, 2018, PERS INDIV DIFFER, V134, P55, DOI 10.1016/j.paid.2018.05.046
+   Longstreet P, 2017, TECHNOL SOC, V50, P73, DOI 10.1016/j.techsoc.2017.05.003
+   Lukiyanto K, 2020, HELIYON, V6, DOI 10.1016/j.heliyon.2020.e04879
+   Mihaylov N., 2014, Place attachment: Advances in theory, methods and application, P61
+   Moran P, 2005, STRATEGIC MANAGE J, V26, P1129, DOI 10.1002/smj.486
+   Mou Y, 2013, TELEMAT INFORM, V30, P359, DOI 10.1016/j.tele.2013.04.002
+   Nahapiet J, 1998, ACAD MANAGE REV, V23, P242, DOI 10.2307/259373
+   Naranjo-Zolotov M, 2019, FUTURE GENER COMP SY, V92, P302, DOI 10.1016/j.future.2018.09.044
+   Ng YL, 2024, NEW MEDIA SOC, V26, P1429, DOI 10.1177/14614448221074047
+   Perkins D., 2002, J COMMUNITY DEV SOC, V33, P33, DOI DOI 10.1080/15575330209490141
+   Pew Research Center, 2019, SOCIAL MEDIA FACT SH
+   Phua J, 2017, COMPUT HUM BEHAV, V72, P115, DOI 10.1016/j.chb.2017.02.041
+   Phua J, 2011, ASIAN J COMMUN, V21, P504, DOI 10.1080/01292986.2011.587015
+   Pratono AH, 2018, MANAG RES REV, V41, P680, DOI 10.1108/MRR-03-2017-0080
+   PUTNAM R, 1995, J DEMOCRACY, V0006
+   Putnam Robert D., 2000, BOWLING ALONE COLLAP, DOI 10.1145/358916.361990
+   Ramadan R, 2017, HELIYON, V3, DOI 10.1016/j.heliyon.2017.e00483
+   Reinartz W, 2009, INT J RES MARK, V26, P332, DOI 10.1016/j.ijresmar.2009.08.001
+   Ringle CM., 2015, SMARTPLS 3
+   Ryan L, 2008, SOCIOLOGY, V42, P672, DOI 10.1177/0038038508091622
+   Seo D, 2019, COMPUT HUM BEHAV, V99, P109, DOI 10.1016/j.chb.2019.05.018
+   Shah Z, 2019, TECHNOL SOC, V59, DOI 10.1016/j.techsoc.2019.101195
+   Silva L, 2017, INFORM MANAGE-AMSTER, V54, P103, DOI 10.1016/j.im.2016.04.006
+   Skoric MM, 2016, NEW MEDIA SOC, V18, P1817, DOI 10.1177/1461444815616221
+   Soror A, 2022, INFORM TECHNOL PEOPL, V35, P67, DOI 10.1108/ITP-11-2019-0603
+   Statista, 2020, NUMBER SOCIAL NETWOR
+   Szreter S, 2004, INT J EPIDEMIOL, V33, P650, DOI 10.1093/ije/dyh013
+   Tam C, 2020, INFORM SYST FRONT, V22, P243, DOI 10.1007/s10796-018-9864-5
+   Tsai WP, 1998, ACAD MANAGE J, V41, P464, DOI 10.5465/257085
+   Turel O, 2017, COMPUT HUM BEHAV, V77, P47, DOI 10.1016/j.chb.2017.08.022
+   Turel O, 2012, EUR J INFORM SYST, V21, P512, DOI 10.1057/ejis.2012.1
+   van den Eijnden RJJM, 2016, COMPUT HUM BEHAV, V61, P478, DOI 10.1016/j.chb.2016.03.038
+   Wang Z, 2019, EUR MANAG J, V37, P222, DOI 10.1016/j.emj.2018.04.004
+   Warren AM, 2014, GOV INFORM Q, V31, P291, DOI 10.1016/j.giq.2013.11.007
+   Wellman B., 1999, COMMUNITIES CYBERSPA, P167, DOI DOI 10.2307/2655574
+   Westlund H, 2006, ADV SPAT SCI, P1
+   Williams D, 2006, J COMPUT-MEDIAT COMM, V11, DOI 10.1111/j.1083-6101.2006.00029.x
+   Young L, 2020, HELIYON, V6, DOI 10.1016/j.heliyon.2020.e04056
+   Zhang WW, 2022, HELIYON, V8, DOI 10.1016/j.heliyon.2021.e08705
+NR 94
+TC 2
+Z9 3
+U1 3
+U2 23
+PU CELL PRESS
+PI CAMBRIDGE
+PA 50 HAMPSHIRE ST, FLOOR 5, CAMBRIDGE, MA 02139 USA
+EI 2405-8440
+J9 HELIYON
+JI Heliyon
+PD JUL
+PY 2022
+VL 8
+IS 7
+AR e09990
+DI 10.1016/j.heliyon.2022.e09990
+EA JUL 2022
+PG 10
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 3Y1TD
+UT WOS:000843511300005
+PM 35874073
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU McFarland, DA
+   Wolff, T
+AF McFarland, Daniel A.
+   Wolff, Tom
+TI Writing into relationships
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Social network theory; Relationships; Social network dynamics;
+   Qualitative network analysis; Communication; Writing; Romantic
+   relationships; Cognitive social structure
+ID NETWORK; COURTSHIP; ACCURACY
+AB Social network change is often accomplished through communicative efforts but seldom studied as such. This article studies communicative efforts at tie change as expressed in interpersonal notes between adolescents. Communicative efforts bring about tie change by identifying perceived relational problems and social corroboration with surrounding actors, dyads and contiguous events. This pressures others to respond in ways that form, maintain, revise, or dissolve relationships. Social corroboration is sought through a process with several identifiable stages. First, writers describe a relational scene composed of perceived interpersonal stances between actors. Within the scene, some stances are clearly defined, enacted, felt, and/or socially confirmed, suggesting stable ties. Other stances are uncertain and reflect focal problems in need of relational work, becoming the focal story in the relational scene. Second, writers present stories in an attempt to motivate audience response by revealing the writer's intention, by assigning undesirable identities to select actors, and by implicating some tie changes as (in)appropriate to the scene. Last, audiences respond to these notes with their own communication, either affirming and aligning relations in ways that move desired tie changes toward actualization, or redefining the story in ways that require additional exchanges. In this manner individuals write their way into relationships.
+C1 [McFarland, Daniel A.] Stanford Univ, Stanford, CA 94305 USA.
+   [Wolff, Tom] Duke Univ, Durham, NC 27706 USA.
+C3 Stanford University; Duke University
+RP McFarland, DA (corresponding author), Stanford Univ, Stanford, CA 94305 USA.
+EM mcfarland@stanford.edu
+RI McFarland, Daniel/L-7619-2017
+OI McFarland, Daniel/0000-0002-6805-0798; Wolff, Tom/0000-0002-4884-251X
+CR Agarwal A., 2013, P 6 INT JOINT C NATU, P1202
+   [Anonymous], SOC RES, P695
+   [Anonymous], 2011, The SAGE handbook of social network analysis
+   [Anonymous], AM J SOCIOL, V100, P477
+   [Anonymous], ANNU REV SOCIOL, V27, P415
+   [Anonymous], ANTHROPOL EDUC QUART, V20, P291
+   [Anonymous], HARVARD EDUC REV, V47, P257
+   [Anonymous], POLYM GELS NETW, V24, P365
+   [Anonymous], SOC NETWORKS, V29, P279
+   [Anonymous], IEEE NETWORK, V40, P90
+   ANTAKI C, 1987, ACCOUNTING RELATIONS, P97
+   Bandelj N, 2020, ANNU REV SOCIOL, V46, P251, DOI 10.1146/annurev-soc-121919-054719
+   Battaglia DM, 1998, J SOC PERS RELAT, V15, P829, DOI 10.1177/0265407598156007
+   Baxter L.A., 1987, ACCOUNTING RELATIONS, P192
+   Baxter LA, 2001, J SOC PERS RELAT, V18, P173, DOI 10.1177/0265407501182002
+   Baxter LA, 1997, J SOC PERS RELAT, V14, P655, DOI 10.1177/0265407597145005
+   Biber Douglas, 1988, VARIATION SPEECH WRI, P29
+   Bondonio D, 1998, SOC NETWORKS, V20, P301, DOI 10.1016/S0378-8733(98)00007-0
+   Brands RA, 2013, J ORGAN BEHAV, V34, pS82, DOI 10.1002/job.1890
+   Brown Gillian, 1983, DISCOURSE ANAL
+   Brown Penelope., 1978, Politeness: Some Universals in Language Usage
+   Burnett R., 1987, ACCOUNTING RELATIONS
+   BURT RS, 1976, SOC FORCES, V55, P93, DOI 10.2307/2577097
+   Butts CT, 2008, SOCIOL METHODOL, V38, P155, DOI 10.1111/j.1467-9531.2008.00203.x
+   Cahill Spencer E., 2002, PRAGMATICS NEW SERIE, V93, P77
+   Canaan J.E., 1990, Uncertain terms: negotiating gender in American culture, P215
+   CARTWRIGHT D, 1956, PSYCHOL REV, V63, P277, DOI 10.1037/h0046049
+   Collins Randall., 2005, INTERACTION RITUAL C
+   Cotterell J., 2007, SOCIAL NETWORKS YOUT
+   Dailey RM, 2012, J SOC PERS RELAT, V29, P52, DOI 10.1177/0265407511420192
+   Danet Brenda, 1998, ENCY SEMIOTICS
+   DEVITO JA, 1967, CENT STATES SPEECH J, V18, P81, DOI 10.1080/10510976709362867
+   Diani M., SOCIAL MOVEMENTS NET
+   Diehl D, 2012, SOCIOL EDUC, V85, P326, DOI 10.1177/0038040712452093
+   EDER D, 1988, SOC PSYCHOL QUART, V51, P225, DOI 10.2307/2786921
+   Eder D., 1995, School talk: Gender and adolescent culture
+   EMIRBAYER M, 1994, AM J SOCIOL, V99, P1411, DOI 10.1086/230450
+   Emirbayer M, 1997, AM J SOCIOL, V103, P281, DOI 10.1086/231209
+   Erikson E, 2013, SOCIOL THEOR, V31, P219, DOI 10.1177/0735275113501998
+   Festinger L., 1950, SOCIAL PRESSURES INF, V30, P384, DOI 10.2307/3348388
+   Finders Margaret., 1997, JUST GIRLS HIDDEN LI
+   Fischer Claude S., 1982, To Dwell among Friends: Personal Networks in Town and City
+   Flaherty MG, 2001, TIME SOC, V10, P147, DOI 10.1177/0961463X01010002001
+   FRIEDKIN NE, 1990, SOC NETWORKS, V12, P239, DOI 10.1016/0378-8733(90)90007-V
+   Fuhse Jan, 2014, APPL RELATIONAL SOCI, P181
+   Fuhse JA, 2009, SOCIOL THEOR, V27, P51, DOI 10.1111/j.1467-9558.2009.00338.x
+   Fuhse JanA., 2021, Social Networks of Meaning and Communication
+   Gibson DR, 2008, ANNU REV SOCIOL, V34, P359, DOI 10.1146/annurev.soc.34.040507.134556
+   Gibson DR, 2003, SOC FORCES, V81, P1335, DOI 10.1353/sof.2003.0055
+   GIORDANO PC, 1995, AM J SOCIOL, V101, P661, DOI 10.1086/230756
+   Goffman E, 1959, PRESENTATION SELF EV
+   Goffman E., 1981, Forms of Talk
+   Goffman Erving., 1967, INTERACTION RITUAL E, VA596, DOI DOI 10.4324/9780203788387
+   Goffman Erving., 1961, ASYLUMS
+   Goodwin Charles., 1990, CONFLICT TALK, P85
+   Gould RV, 2002, AM J SOCIOL, V107, P1143, DOI 10.1086/341744
+   GRISWOLD WENDY., 1987, SOCIOL METHODOL, V17, P1, DOI DOI 10.2307/271027
+   Groffman Erving, 1974, Frame Analysis: An Essay on the Organization of Experience, P21
+   Gumperz J.J., 1984, COHERENCE SPOKEN WRI, P3
+   Hassan A., 2012, Workshop proceedings of TextGraphs-7, P6
+   Hey V., 1997, CO SHE KEEPS ETHNOGR
+   Hinde R.A., 1997, RELATIONSHIPS DIALEC
+   HINDE RA, 1976, MAN, V11, P1, DOI 10.2307/2800384
+   Kadushin C., 2012, UNDERSTANDING SOCIAL
+   Kilduff M, 2008, ORGAN BEHAV HUM DEC, V107, P15, DOI 10.1016/j.obhdp.2007.12.003
+   KILLWORTH PD, 1976, HUM ORGAN, V35, P269, DOI 10.17730/humo.35.3.10215j2m359266n2
+   Kitts JA, 2021, SOC NETWORKS, V66, P161, DOI 10.1016/j.socnet.2021.01.004
+   Knobloch L.K., 1999, COMMUN STUD, V50, P261, DOI [10.1080/10510979909388499, DOI 10.1080/10510979909388499]
+   Knobloch LK, 2006, HUM COMMUN RES, V32, P244, DOI 10.1111/j.1468-2958.2006.00275.x
+   Knoke D., 2008, Social network analysis, V2nd
+   KRACKHARDT D, 1987, SOC NETWORKS, V9, P109, DOI 10.1016/0378-8733(87)90009-8
+   KRACKHARDT D, 1990, ADMIN SCI QUART, V35, P342, DOI 10.2307/2393394
+   Krappman L., 1996, CO THEY KEEP, P19
+   Lee Monica, 2018, POETICS, V68
+   Leifer E.M., 2000, SOZIALE SYSTEME, V2, P251
+   LEIFER EM, 1988, AM SOCIOL REV, V53, P865, DOI 10.2307/2095896
+   Lorrain F., 1971, J MATH SOCIOL, V1, P49, DOI [10.1080/0022250X.1971.9989788, DOI 10.1080/0022250X.1971.9989788]
+   MARSDEN PV, 1990, ANNU REV SOCIOL, V16, P435, DOI 10.1146/annurev.so.16.080190.002251
+   Martin JL, 2009, SOCIAL STRUCTURES, P1
+   McFarland DA, 2004, AM J SOCIOL, V109, P1249, DOI 10.1086/381913
+   McFarland DA, 2013, AM J SOCIOL, V118, P1596, DOI 10.1086/670240
+   McLean Paul., 2017, CULTURE IN NETWORKS
+   McLean PD, 1998, AM J SOCIOL, V104, P51, DOI 10.1086/210002
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mische Ann, 2003, CROSS TALK MOVEMENTS
+   Nadel S.F., 1957, The Theory of Social Structure
+   Rawlins W., 2008, The compass of friendship: Narratives, identities, and dialogues
+   Ridgeway CL, 1999, ANNU REV SOCIOL, V25, P191, DOI 10.1146/annurev.soc.25.1.191
+   Simmel G., 1950, SOCIOLOGY G SIMMEL
+   Srivastava Shashank., 2016, P AAAI C ARTIFICIAL, V30
+   Tannen D., 1982, Spoken and written language: Exploring orality and literacy, V32
+   Tannen Deborah., 1985, Literacy, language and learning: The nature and consequences of reading and writing, P124
+   Thiemann Matthias, 2014, Applying Relational Sociology, P137
+   Thomas W.I., 1923, UNADJUSTED GIRL CASE
+   Tomasello M, 2008, JEAN NICOD LECT, P1
+   Vaughan D., 1986, UNCOUPLING TURNING P
+   VUCHINICH S, 1984, SOC PSYCHOL QUART, V47, P217, DOI 10.2307/3033819
+   Wang DJ, 2012, SOC NETWORKS, V34, P396, DOI 10.1016/j.socnet.2012.01.003
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   Weber Max, 1949, The Methodology of Social Sciences, P49
+   White HC, 2007, SOCIOLOGICA, DOI 10.2383/25960
+   White HarrisonC., 1992, Identity and Control
+   White HC, 1995, SOC RES, V62, P1035
+   Wieder D.L., 1974, LANGUAGE SOCIAL REAL, DOI [10.1515/9783111410999, DOI 10.1515/9783111410999]
+   Zelizer VA, 2000, LAW SOCIAL INQUIRY, V25, P817, DOI 10.1111/j.1747-4469.2000.tb00162.x
+   Zelizer VA, 2012, POLIT SOC, V40, P145, DOI 10.1177/0032329212441591
+   Zerubavel N, 2018, P NATL ACAD SCI USA, V115, P4375, DOI 10.1073/pnas.1802176115
+NR 107
+TC 5
+Z9 6
+U1 1
+U2 3
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD OCT
+PY 2022
+VL 71
+BP 96
+EP 114
+DI 10.1016/j.socnet.2022.06.006
+PG 19
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 8X5BW
+UT WOS:000932028700003
+DA 2024-11-22
+ER

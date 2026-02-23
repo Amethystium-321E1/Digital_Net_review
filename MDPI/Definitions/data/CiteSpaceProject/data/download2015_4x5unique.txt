@@ -1,0 +1,585 @@
+
+PT J
+AU Zhao, JC
+   Liang, X
+   Xu, K
+AF Zhao, Jichang
+   Liang, Xiao
+   Xu, Ke
+TI Competition between Homophily and Information Entropy Maximization in
+   Social Networks
+SO PLOS ONE
+LA English
+DT Article
+AB In social networks, it is conventionally thought that two individuals with more overlapped friends tend to establish a new friendship, which could be stated as homophily breeding new connections. While the recent hypothesis of maximum information entropy is presented as the possible origin of effective navigation in small-world networks. We find there exists a competition between information entropy maximization and homophily in local structure through both theoretical and experimental analysis. This competition suggests that a newly built relationship between two individuals with more common friends would lead to less information entropy gain for them. We demonstrate that in the evolution of the social network, both of the two assumptions coexist. The rule of maximum information entropy produces weak ties in the network, while the law of homophily makes the network highly clustered locally and the individuals would obtain strong and trust ties. A toy model is also presented to demonstrate the competition and evaluate the roles of different rules in the evolution of real networks. Our findings could shed light on the social network modeling from a new perspective.
+C1 [Zhao, Jichang] Beihang Univ, Sch Econ & Management, Beijing 100191, Peoples R China.
+   [Liang, Xiao] Chinese Acad Sci, Inst Elect, Key Lab Technol Geospatial Informat Proc & Applic, Beijing, Peoples R China.
+   [Xu, Ke] Beihang Univ, State Key Lab Software Dev Environm, Beijing 100191, Peoples R China.
+C3 Beihang University; Chinese Academy of Sciences; Institute of
+   Electronics, CAS; Beihang University
+RP Zhao, JC (corresponding author), Beihang Univ, Sch Econ & Management, Beijing 100191, Peoples R China.
+EM jichang@buaa.edu.cn
+RI xu, ke/JSL-2305-2023
+FU State Key Laboratory of Software Development Environment
+   [SKLSDE-2015ZX-28, SKLSDE-2015ZX-05]; Fundamental Research Funds for the
+   Central Universities [YWF-15-JGXY-011]
+FX This work was partially supported by the fund of the State Key
+   Laboratory of Software Development Environment (Grant nos.
+   SKLSDE-2015ZX-28 and SKLSDE-2015ZX-05) and the Fundamental Research
+   Funds for the Central Universities (Grant no. YWF-15-JGXY-011). No
+   authors of this paper are employed or contracted by the above funders.
+CR Ahn YY, 2007, Proceedings of the 16th international conference on World Wide Web, P835, DOI DOI 10.1145/1242572.1242685
+   [Anonymous], Grooming, Gossip, and the Evolution of Language
+   [Anonymous], 2007, ARXIVPHYSICS0701168
+   [Anonymous], ARXIV09063202V2
+   [Anonymous], STRENGTH WEAK TIES
+   [Anonymous], 2013, PLOS ONE, DOI DOI 10.1371/journal.pone.0076027
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Cheng XQ, 2010, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2010/10/P10011
+   Davidsen J, 2002, PHYS REV LETT, V88, DOI 10.1103/PhysRevLett.88.128701
+   Golder SA, 2007, Communities and Technologies 2007, P41, DOI 10.1007/978-1-84628-905-7_3
+   Holme P, 2002, PHYS REV E, V65, DOI 10.1103/PhysRevE.65.026107
+   Hu YQ, 2011, PHYS REV LETT, V106, DOI 10.1103/PhysRevLett.106.108701
+   Jin EM, 2001, PHYS REV E, V64, DOI 10.1103/PhysRevE.64.046132
+   Kibanov M, 2014, SCI CHINA INFORM SCI, V57, DOI 10.1007/s11432-014-5067-y
+   Kim BJ, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.045101
+   Kossinets G, 2006, SCIENCE, V311, P88, DOI 10.1126/science.1116869
+   Leskovec J., 2007, ACM T KNOWL DISCOV D, P2
+   Leskovec J, 2005, ACM SIGKDD C KNOWLED, P177
+   Liben-Nowell D, 2007, J AM SOC INF SCI TEC, V58, P1019, DOI 10.1002/asi.20591
+   Lü LY, 2011, PHYSICA A, V390, P1150, DOI 10.1016/j.physa.2010.11.027
+   Ma XJ, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.056106
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mislove A, 2007, IMC'07: PROCEEDINGS OF THE 2007 ACM SIGCOMM INTERNET MEASUREMENT CONFERENCE, P29
+   Newman MEJ, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.036122
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   Onnela JP, 2007, P NATL ACAD SCI USA, V104, P7332, DOI 10.1073/pnas.0610245104
+   Pollet TV, 2011, CYBERPSYCH BEH SOC N, V14, P253, DOI 10.1089/cyber.2010.0161
+   Ribeiro B, 2010, P 10 ACM SIGCOMM C I, P390
+   Toivonen R, 2006, PHYSICA A, V371, P851, DOI 10.1016/j.physa.2006.03.050
+   Vázquez A, 2003, PHYS REV E, V67, DOI 10.1103/PhysRevE.67.056104
+   Viswanath B, 2009, 2ND ACM SIGCOMM WORKSHOP ON ONLINE SOCIAL NETWORKS (WOSN 09), P37
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Zhang W, 2014, SCI CHINA INFORM SCI, V57, DOI 10.1007/s11432-013-4930-6
+   Zhang WQ, 2014, SCI CHINA INFORM SCI, V57, DOI 10.1007/s11432-014-5221-6
+   Zhao JC, 2014, NEUROCOMPUTING, V142, P343, DOI 10.1016/j.neucom.2014.04.025
+   Zhao JC, 2012, KNOWL INF SYST, V32, P589, DOI 10.1007/s10115-011-0445-x
+   Zhao JC, 2010, PHYS REV E, V82, DOI 10.1103/PhysRevE.82.016105
+   Zhou HJ, 2005, P NATL ACAD SCI USA, V102, P10052, DOI 10.1073/pnas.0409296102
+NR 38
+TC 2
+Z9 2
+U1 0
+U2 26
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD SEP 3
+PY 2015
+VL 10
+IS 9
+AR e0136896
+DI 10.1371/journal.pone.0136896
+PG 12
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA CQ5AJ
+UT WOS:000360615400031
+PM 26334994
+OA gold, Green Submitted, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Herrera-Yagüe, C
+   Schneider, CM
+   Couronné, T
+   Smoreda, Z
+   Benito, RM
+   Zufiria, PJ
+   González, MC
+AF Herrera-Yaguee, C.
+   Schneider, C. M.
+   Couronne, T.
+   Smoreda, Z.
+   Benito, R. M.
+   Zufiria, P. J.
+   Gonzalez, M. C.
+TI The anatomy of urban social networks and its implications in the
+   searchability problem
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID SMALL-WORLD; COMMUNITIES; MULTISCALE; DIVERSITY; PATTERNS; SEARCH
+AB The appearance of large geolocated communication datasets has recently increased our understanding of how social networks relate to their physical space. However, many recurrently reported properties, such as the spatial clustering of network communities, have not yet been systematically tested at different scales. In this work we analyze the social network structure of over 25 million phone users from three countries at three different scales: country, provinces and cities. We consistently find that this last urban scenario presents significant differences to common knowledge about social networks. First, the emergence of a giant component in the network seems to be controlled by whether or not the network spans over the entire urban border, almost independently of the population or geographic extension of the city. Second, urban communities are much less geographically clustered than expected. These two findings shed new light on the widely-studied searchability in self-organized networks. By exhaustive simulation of decentralized search strategies we conclude that urban networks are searchable not through geographical proximity as their country-wide counterparts, but through an homophily-driven community structure.
+C1 [Herrera-Yaguee, C.; Schneider, C. M.; Benito, R. M.; Gonzalez, M. C.] MIT, Dept Civil & Environm Engn, Cambridge, MA 02139 USA.
+   [Herrera-Yaguee, C.; Zufiria, P. J.] Univ Politecn Madrid, ETSI Telecomunicac, Dept Matemat Aplicada Tecnol Informac & Comunicac, E-28040 Madrid, Spain.
+   [Herrera-Yaguee, C.; Zufiria, P. J.] Univ Politecn Madrid, Catedra Orange, E-28040 Madrid, Spain.
+   [Couronne, T.; Smoreda, Z.] Orange Labs, Sociol & Econ Networks & Serv Dept, Issy Les Moulineaux, France.
+   [Benito, R. M.] Univ Politecn Madrid, ETSI Agron, Dept Fis & Mecan, Grp Sistemas Complejos, E-28040 Madrid, Spain.
+C3 Massachusetts Institute of Technology (MIT); Universidad Politecnica de
+   Madrid; Universidad Politecnica de Madrid; Orange SA; Universidad
+   Politecnica de Madrid
+RP González, MC (corresponding author), MIT, Dept Civil & Environm Engn, 77 Massachusetts Ave, Cambridge, MA 02139 USA.
+EM martag@mit.edu
+RI Zufiria, Pedro/M-1014-2014; Gonzalez, Marta/E-9456-2011; Smoreda,
+   Zbigniew/D-9265-2011
+OI Smoreda, Zbigniew/0000-0002-4047-7597; BENITO ZAFRILLA, ROSA
+   MARIA/0000-0003-3949-8232
+FU New England UTC Year 23 grant; Center for Complex Engineering Systems
+   (CCES) at KACST; MIT-Accenture alliance; Orange Spain (France Telecom
+   Group); Ministerio de Ciencia e Innovacion [MTM2010-15102]; UPM [Q10
+   0930-144]; Fundacion Caja Madrid (Spain); MINECO-Spain [MTM2012-39101]
+FX This work was partially funded by New England UTC Year 23 grant, the
+   Center for Complex Engineering Systems (CCES) at KACST under the
+   co-direction of Anas Alfaris and the MIT-Accenture alliance. CHY and PJZ
+   acknowledge support from Orange Spain (France Telecom Group), PJZ from
+   MTM2010-15102 of Ministerio de Ciencia e Innovacion and Q10 0930-144 of
+   the UPM, and RMB from Fundacion Caja Madrid (Spain) and project grant
+   MINECO-Spain MTM2012-39101.
+CR Ahn YY, 2010, NATURE, V466, P761, DOI 10.1038/nature09182
+   [Anonymous], [No title captured]
+   [Anonymous], 2006, P INT C MATHEMATICIA
+   [Anonymous], 2004, PHYS REV E, DOI DOI 10.1103/PHYSREVE.69.066133
+   [Anonymous], 2011, PHYS REP, DOI DOI 10.1016/j.physrep.2010.11.002
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Blondel V, 2010, BRUSS STUD, P1, DOI 10.4000/brussels.806
+   Blondel VD, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/10/P10008
+   Bogardus ES, 1947, SOCIOMETRY, V10, P306, DOI 10.2307/2785570
+   Calabrese F., 2011, Proceedings of the 2011 IEEE Third International Conference on Privacy, Security, Risk and Trust and IEEE Third International Conference on Social Computing (PASSAT/SocialCom 2011), P223, DOI 10.1109/PASSAT/SocialCom.2011.247
+   Calabrese F, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0020814
+   Centola D, 2011, SCIENCE, V334, P1269, DOI 10.1126/science.1207055
+   Cho E, 2011, KDD
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   de Montjoye YA, 2013, SCI REP-UK, V3, DOI 10.1038/srep01376
+   Dodds PS, 2003, SCIENCE, V301, P827, DOI 10.1126/science.1081058
+   Eagle N, 2010, SCIENCE, V328, P1029, DOI 10.1126/science.1186605
+   Eagle N, 2009, P NATL ACAD SCI USA, V106, P15274, DOI 10.1073/pnas.0900282106
+   Expert P, 2011, P NATL ACAD SCI USA, V108, P7663, DOI 10.1073/pnas.1018962108
+   Fortunato S, 2010, PHYS REP, V486, P75, DOI 10.1016/j.physrep.2009.11.002
+   FREEMAN LC, 1977, SOCIOMETRY, V40, P35, DOI 10.2307/3033543
+   Gao S, 2013, T GIS, V17, P463, DOI 10.1111/tgis.12042
+   González MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   Kitsak M, 2010, NAT PHYS, V6, P888, DOI [10.1038/NPHYS1746, 10.1038/nphys1746]
+   Kleinberg JM, 2000, NATURE, V406, P845, DOI 10.1038/35022643
+   Kowald M, 2013, J TRANSP GEOGR, V31, P236, DOI 10.1016/j.jtrangeo.2013.06.006
+   Lambiotte R, 2008, PHYSICA A, V387, P5317, DOI 10.1016/j.physa.2008.05.014
+   Leskovec J., 2008, Proceedings of the 17th International Conference on World Wide Web, DOI 10.1145/1367497.1367620
+   Levine Donald., 1971, Georg Simmel: On Individuality and Social Forms
+   Liben-Nowell D, 2005, P NATL ACAD SCI USA, V102, P11623, DOI 10.1073/pnas.0503018102
+   McAuley J, 2014, ACM T KNOWL DISCOV D, V8, P73, DOI 10.1145/2556612
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   MILGRAM S, 1967, PSYCHOL TODAY, V1, P61
+   Moreno Y, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.066130
+   Newman MEJ, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.036122
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   Noulas A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0037027
+   Onnela JP, 2007, P NATL ACAD SCI USA, V104, P7332, DOI 10.1073/pnas.0610245104
+   Onnela JP, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0016939
+   Pan W, 2013, NAT COMMUN, V4, DOI 10.1038/ncomms2961
+   Ratti C, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0014248
+   Rutherford Alex, 2013, Proc Natl Acad Sci U S A, V110, P6281, DOI 10.1073/pnas.1216338110
+   Rybski D, 2009, P NATL ACAD SCI USA, V106, P12640, DOI 10.1073/pnas.0902667106
+   Scellato S., 2011, Proceedings of the 17th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, P1046
+   Sun LJ, 2013, P NATL ACAD SCI USA, V110, P13774, DOI 10.1073/pnas.1306440110
+   Thiemann C, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0015422
+   TRAVERS J, 1969, SOCIOMETRY, V32, P425, DOI 10.2307/2786545
+   Ugander J, 2012, P NATL ACAD SCI USA, V109, P5962, DOI 10.1073/pnas.1116502109
+   Watts DJ, 2005, P NATL ACAD SCI USA, V102, P11157, DOI 10.1073/pnas.0501226102
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Watts DJ, 2002, SCIENCE, V296, P1302, DOI 10.1126/science.1070120
+NR 51
+TC 27
+Z9 29
+U1 0
+U2 25
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD JUN 2
+PY 2015
+VL 5
+AR 10265
+DI 10.1038/srep10265
+PG 13
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA CJ6MP
+UT WOS:000355608200001
+PM 26035529
+OA gold, Green Published, Green Accepted, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Lengyel, B
+   Varga, A
+   Ságvári, B
+   Jakobi, A
+   Kertész, J
+AF Lengyel, Balazs
+   Varga, Attila
+   Sagvari, Bence
+   Jakobi, Akos
+   Kertesz, Janos
+TI Geographies of an Online Social Network
+SO PLOS ONE
+LA English
+DT Article
+ID DISTANCE; FEATHER; BIRDS
+AB How is online social media activity structured in the geographical space? Recent studies have shown that in spite of earlier visions about the "death of distance", physical proximity is still a major factor in social tie formation and maintenance in virtual social networks. Yet, it is unclear, what are the characteristics of the distance dependence in online social networks. In order to explore this issue the complete network of the former major Hungarian online social network is analyzed. We find that the distance dependence is weaker for the online social network ties than what was found earlier for phone communication networks. For a further analysis we introduced a coarser granularity: We identified the settlements with the nodes of a network and assigned two kinds of weights to the links between them. When the weights are proportional to the number of contacts we observed weakly formed, but spatially based modules resemble to the borders of macro-regions, the highest level of regional administration in the country. If the weights are defined relative to an uncorrelated null model, the next level of administrative regions, counties are reflected.
+C1 [Lengyel, Balazs; Sagvari, Bence] Int Business Sch Budapest, OSON Res Lab, Budapest, Hungary.
+   [Lengyel, Balazs] Hungarian Acad Sci, Ctr Econ & Reg Studies, Budapest, Hungary.
+   [Varga, Attila] Univ Arizona, Sch Sociol, Tucson, AZ USA.
+   [Sagvari, Bence] Hungarian Acad Sci, Ctr Social Sci, Budapest, Hungary.
+   [Jakobi, Akos] Eotvos Lorand Univ, Dept Reg Sci, Budapest, Hungary.
+   [Kertesz, Janos] Cent European Univ, Ctr Network Sci, Budapest, Hungary.
+   [Kertesz, Janos] Budapest Univ Technol & Econ, Inst Phys, Budapest, Hungary.
+C3 Hungarian Academy of Sciences; Hungarian Research Network; HUN-REN
+   Centre for Economic & Regional Studies; University of Arizona; Hungarian
+   Academy of Sciences; Hungarian Research Network; HUN-REN Centre for
+   Social Sciences; Eotvos Lorand University; Central European University;
+   Budapest University of Technology & Economics
+RP Lengyel, B (corresponding author), Int Business Sch Budapest, OSON Res Lab, Budapest, Hungary.
+EM blengyel@ibs-b.hu
+RI Kertesz, Janos/JHS-3903-2023; Sagvari, Bence/L-7317-2019; Jakobi,
+   Akos/L-5223-2018
+OI Lengyel, Balazs/0000-0001-5196-5599; Sagvari, Bence/0000-0001-5862-4789;
+   Jakobi, Akos/0000-0001-9624-7785
+FU International Business School; Hungarian Scientific Research Fund (OTKA)
+   [K112713]; Hungarian Academy of Sciences; EU grant MULTIPLEX [317532];
+   U.S. Air Force Office of Scientific Research (MURI Award)
+   [FA9550-10-1-0569]
+FX Financial support from International Business School and the Hungarian
+   Scientific Research Fund (OTKA, K112713) is gratefully acknowledged.
+   Research work of AJ was supported by the Janos Bolyai Fellowship of the
+   Hungarian Academy of Sciences. JK acknowledges partial support from EU
+   grant MULTIPLEX (Grant No. 317532). AV was supported by the U.S. Air
+   Force Office of Scientific Research (MURI Award FA9550-10-1-0569).
+CR Acar A., 2014, Culture and social media: An elementary textbook
+   Ahn YY, 2007, Proceedings of the 16th international conference on World Wide Web, P835, DOI DOI 10.1145/1242572.1242685
+   [Anonymous], 2011, PREPRINT
+   [Anonymous], 1949, Human behaviour and the principle of least-effort
+   Backstrom L, 2012, PROCEEDINGS OF THE 3RD ANNUAL ACM WEB SCIENCE CONFERENCE, 2012, P33
+   Blau PeterMichael., 1984, CROSSCUTTING SOCIAL
+   Blondel VD, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/10/P10008
+   Borgatti SP, 2009, SCIENCE, V323, P892, DOI 10.1126/science.1165821
+   Boyd DM, 2007, J COMPUT-MEDIAT COMM, V13, P210, DOI 10.1111/j.1083-6101.2007.00393.x
+   Cairncross F., 2001, DEATH DISTANCE COMMU
+   Csányi G, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.036131
+   Dunbar RIM, 2012, PHILOS T R SOC B, V367, P2192, DOI 10.1098/rstb.2012.0121
+   Dunbar RIM, 2011, J I ECON, V7, P345, DOI 10.1017/S1744137410000366
+   DUNBAR RIM, 1992, J HUM EVOL, V22, P469, DOI 10.1016/0047-2484(92)90081-J
+   Ellison N., 2006, Implicit and explicit learning of languages, P1
+   Expert P, 2011, P NATL ACAD SCI USA, V108, P7663, DOI 10.1073/pnas.1018962108
+   Goldenberg J., 2009, PREPRINT
+   Gonçalves B, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0022656
+   Goodreau SM, 2009, DEMOGRAPHY, V46, P103, DOI 10.1353/dem.0.0045
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Hecht B, 2011, 29TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, P237
+   Helminen V, 2007, J TRANSP GEOGR, V15, P331, DOI 10.1016/j.jtrangeo.2006.12.004
+   Hipp JR, 2009, CITY COMMUNITY, V8, P5, DOI 10.1111/j.1540-6040.2009.01267.x
+   Jakobi A, 2015, LECT NOTES GEOINFORM, P227, DOI [10.1007/978-3-319-07926-4_18, DOI 10.1007/978-3-319-07926-4_18]
+   Krings G, 2009, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2009/07/L07003
+   Lambiotte R, 2008, PHYSICA A, V387, P5317, DOI 10.1016/j.physa.2008.05.014
+   Leskovec J, 2014, IEEE TRANS COMPUT SO, V1, P156, DOI 10.1109/TCSS.2014.2377789
+   Liben-Nowell D, 2005, P NATL ACAD SCI USA, V102, P11623, DOI 10.1073/pnas.0503018102
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mok D, 2010, URBAN STUD, V47, P2747, DOI 10.1177/0042098010377363
+   Onnela JP, 2007, P NATL ACAD SCI USA, V104, P7332, DOI 10.1073/pnas.0610245104
+   Onnela JP, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0016939
+   Scellato S., 2010, Proceedings of the 3rd conference on Online social networks, P8
+   Takhteyev Y, 2012, SOC NETWORKS, V34, P73, DOI 10.1016/j.socnet.2011.05.006
+NR 34
+TC 55
+Z9 58
+U1 1
+U2 23
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD SEP 11
+PY 2015
+VL 10
+IS 9
+AR e0137248
+DI 10.1371/journal.pone.0137248
+PG 13
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA CR0WB
+UT WOS:000361043100027
+PM 26359668
+OA gold, Green Published, Green Submitted, Green Accepted
+DA 2024-11-22
+ER
+
+PT J
+AU Ellison, NB
+   Gibbs, JL
+   Weber, MS
+AF Ellison, Nicole B.
+   Gibbs, Jennifer L.
+   Weber, Matthew S.
+TI The Use of Enterprise Social Network Sites for Knowledge Sharing in
+   Distributed Organizations: The Role of Organizational Affordances
+SO AMERICAN BEHAVIORAL SCIENTIST
+LA English
+DT Article
+DE social media; distributed organizations; enterprise social network
+   sites; knowledge sharing; affordances
+ID COMPUTER-MEDIATED COMMUNICATION; SELF-PRESENTATION; WEAK TIES;
+   TECHNOLOGY; INNOVATION; DIVERSITY; FACEBOOK; STRENGTH; WORK
+AB Enterprise social network sites (ESNSs) are increasingly being introduced into large multinational organizations. In this article, we consider their potential for supporting knowledge-sharing practices within the organization. First, we build on prior work on affordances by applying notions of collective affordances and affordances for organizing to the study of social media, and we theorize how ESNSs may provide organizational affordances for knowledge sharing in distributed multinational organizations in particular. Second, we articulate ways in which ESNS affordances may shape knowledge sharing through consideration of social capital dynamics, support for relationships and interactions, context collapse, and network interactions. Finally, and building on these ideas, we propose a research agenda and suggestions for future research on this topic.
+C1 [Ellison, Nicole B.] Univ Michigan, Sch Informat, Ann Arbor, MI 48109 USA.
+   [Gibbs, Jennifer L.; Weber, Matthew S.] Rutgers State Univ, Sch Commun & Informat, New Brunswick, NJ 08903 USA.
+C3 University of Michigan System; University of Michigan; Rutgers
+   University System; Rutgers University New Brunswick
+RP Ellison, NB (corresponding author), Univ Michigan, 4322 N Quad,105 S State St, Ann Arbor, MI 48109 USA.
+EM enicole@umich.edu
+RI Weber, Matthew/AAN-4516-2020; Gibbs, Jennifer/JZT-5912-2024
+OI Weber, Matthew/0000-0003-3880-9131
+CR Ahuja G, 2000, ADMIN SCI QUART, V45, P425, DOI 10.2307/2667105
+   ANCONA DG, 1992, ORGAN SCI, V3, P321, DOI 10.1287/orsc.3.3.321
+   [Anonymous], ANN M AC MAN BOST MA
+   [Anonymous], 2012, P 6 INT AAAI C WEBL
+   [Anonymous], GLOB SOC MED CHECK U
+   [Anonymous], ENCY SOCIAL NETWORKI
+   [Anonymous], SENS WORKSH 26 INT C
+   [Anonymous], 2008, 9 INT S ONL JOURN AU
+   [Anonymous], 1992, Structural holes
+   [Anonymous], 2002, Distributed work
+   [Anonymous], 2000, The Social Life of Information
+   [Anonymous], 2012, MIT SLOAN MANAGE REV
+   Aral S, 2011, AM J SOCIOL, V117, P90, DOI 10.1086/661238
+   Argote L, 2000, ORGAN BEHAV HUM DEC, V82, P150, DOI 10.1006/obhd.2000.2893
+   Boyd D., 2011, NETWORKED SELF IDENT, P39, DOI DOI 10.4324/9780203876527-8
+   Boyd DM, 2007, J COMPUT-MEDIAT COMM, V13, P210, DOI 10.1111/j.1083-6101.2007.00393.x
+   Brzozowski MJ, 2009, GROUP 2009 PROCEEDINGS, P219
+   Brzozowski MJ, 2009, GROUP 2009 PROCEEDINGS, P61
+   Burke M, 2011, 29TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, P571
+   Burke M, 2010, CHI2010: PROCEEDINGS OF THE 28TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, VOLS 1-4, P1909
+   Burke Moira, 2013, P 2013 C COMP SUPP C, P1419, DOI [10.1145/2441776.2441936, DOI 10.1145/2441776.2441936]
+   BURKHARDT ME, 1990, ADMIN SCI QUART, V35, P104, DOI 10.2307/2393552
+   Burt R.S., 2007, Brokerage and closure: An introduction to social capital
+   Cramton CD, 2007, J MANAGE, V33, P525, DOI 10.1177/0149206307302549
+   Cramton CD, 2001, ORGAN SCI, V12, P346, DOI 10.1287/orsc.12.3.346.10098
+   Cross R, 2001, ORGAN DYN, V30, P100, DOI 10.1016/S0090-2616(01)00046-8
+   Cummings JN, 2004, MANAGE SCI, V50, P352, DOI 10.1287/mnsc.1030.0134
+   Cummings JN, 2005, SOC STUD SCI, V35, P703, DOI 10.1177/0306312705055535
+   DiMicco JM, 2007, GROUP'07: PROCEEDINGS OF THE 2007 INTERNATIONAL ACM CONFERENCE ON SUPPORTING GROUP WORK, P383
+   DiMicco Joan Morris, 2009, IEEE, P1
+   Donath J, 2004, BT TECHNOL J, V22, P71, DOI 10.1023/B:BTTJ.0000047585.06264.cc
+   Ellison N.B., 2013, SOCIALITY SOCIAL NET, DOI [10.1093/oxfordhb/9780199589074.001.0001, 10.1093/oxfordhb/9780199589074.013.0008, DOI 10.1093/OXFORDHB/9780199589074.013.0008]
+   Ellison N.B., 2013, PROC ICWSM 2013, P155
+   Ellison NB, 2007, J COMPUT-MEDIAT COMM, V12, P1143, DOI 10.1111/j.1083-6101.2007.00367.x
+   Ellison NB, 2011, NEW MEDIA SOC, V13, P873, DOI 10.1177/1461444810385389
+   Espinosa JA, 2007, J MANAGE INFORM SYST, V24, P135, DOI 10.2753/MIS0742-1222240104
+   Faraj S, 2000, MANAGE SCI, V46, P1554, DOI 10.1287/mnsc.46.12.1554.12072
+   Farnham Shelly D., 2011, P ACM 2011 C COMP SU, P359, DOI [10.1145/1958824.1958880, DOI 10.1145/1958824.1958880]
+   FULK J, 1995, ORGAN SCI, V6, P337, DOI 10.1287/orsc.6.4.337
+   FULK J, 1993, ACAD MANAGE J, V36, P921, DOI 10.5465/256641
+   Fulk J., 2005, Advances in international management: Vol. 18, V18, P155, DOI DOI 10.1016/S0747-7929(05)18006-8
+   Geyer W, 2008, CHI 2008: 26TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS VOLS 1 AND 2, CONFERENCE PROCEEDINGS, P1545
+   Gibbs J., 2008, COMMUNICATION YB, V32, P187
+   Gibbs J, 2009, HUM RELAT, V62, P905, DOI 10.1177/0018726709104547
+   Gibbs JL, 2015, AM BEHAV SCI, V59, P75, DOI 10.1177/0002764214540511
+   Gibbs JL, 2013, J COMPUT-MEDIAT COMM, V19, P102, DOI 10.1111/jcc4.12034
+   Gibson CB, 2006, ADMIN SCI QUART, V51, P451, DOI 10.2189/asqu.51.3.451
+   Gibson CB, 2011, ORGAN SCI, V22, P1481, DOI 10.1287/orsc.1100.0586
+   Gibson J.J., 1979, The EcologicalApproach toVisual Perception, DOI 10.1177/0956797611429578
+   Granovetter M., 1983, SOCIOLOGICAL THEORY, V1, P201, DOI [https://doi.org/10.2307/202051, 10.2307/202051, DOI 10.2307/202051]
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Gray R., 2013, P 2013 C COMPUTER SU, P1213
+   Gupta AK, 2000, STRATEGIC MANAGE J, V21, P473, DOI 10.1002/(SICI)1097-0266(200004)21:4<473::AID-SMJ84>3.0.CO;2-I
+   Hampton KN, 2011, NEW MEDIA SOC, V13, P1031, DOI 10.1177/1461444810390342
+   Hansen MT, 1999, ADMIN SCI QUART, V44, P82, DOI 10.2307/2667032
+   Hansen MT, 2005, ACAD MANAGE J, V48, P776, DOI 10.2307/20159697
+   Hermida A, 2010, JOURNAL PRACT, V4, P297, DOI 10.1080/17512781003640703
+   Hinds P., 2002, TECHNOLOGY DISTRIBUT, P137, DOI DOI 10.7551/MITPRESS/2464.003.0010
+   Kane GC, 2014, MIS QUART, V38, P275, DOI 10.25300/MISQ/2014/38.1.13
+   KANTER RM, 1988, RES ORGAN BEHAV, V10, P169
+   Lampe C, 2007, CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, VOLS 1 AND 2, P435
+   Lampe C, 2011, INT J COMP-SUPP COLL, V6, P329, DOI 10.1007/s11412-011-9115-y
+   Leonardi PM, 2013, MIS QUART, V37, P749, DOI 10.25300/MISQ/2013/37.3.04
+   Leonardi PM, 2012, INFORM ORGAN-UK, V22, P37, DOI 10.1016/j.infoandorg.2011.10.003
+   Leonardi PM, 2011, MIS QUART, V35, P147
+   Levin DZ, 2004, MANAGE SCI, V50, P1477, DOI 10.1287/mnsc.1030.0136
+   Lin N., 2000, Social capital: A theory of structure and action
+   LINCOLN JR, 1979, ADMIN SCI QUART, V24, P181, DOI 10.2307/2392493
+   Majchrzak A, 2013, J COMPUT-MEDIAT COMM, V19, P38, DOI 10.1111/jcc4.12030
+   Marwick A, 2012, J BROADCAST ELECTRON, V56, P378, DOI 10.1080/08838151.2012.705197
+   Marwick AE, 2011, NEW MEDIA SOC, V13, P114, DOI 10.1177/1461444810365313
+   Morris MR, 2010, CHI2010: PROCEEDINGS OF THE 28TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, VOLS 1-4, P1739
+   Naaman M, 2010, 2010 ACM CONFERENCE ON COMPUTER SUPPORTED COOPERATIVE WORK, P189
+   Nardi B., 2002, DISTRIBUTED WORK
+   Norman D. A., 1988, PSYCHOL EVERYDAY THI
+   Norman DonaldA., 1990, DESIGN EVERYDAY THIN
+   Olson GM, 2000, HUM-COMPUT INTERACT, V15, P139, DOI 10.1207/S15327051HCI1523_4
+   ORLIKOWSKI WJ, 1992, ORGAN SCI, V3, P398, DOI 10.1287/orsc.3.3.398
+   Podolny JM, 1998, ANNU REV SOCIOL, V24, P57, DOI 10.1146/annurev.soc.24.1.57
+   POOLE MS, 1992, HUM COMMUN RES, V19, P5
+   Sole D, 2002, BRIT J MANAGE, V13, pS17, DOI 10.1111/1467-8551.13.s2.3
+   Steinfield C., 2009, Proc fourth international conference on communities and technologies, P245, DOI DOI 10.1145/1556460.1556496
+   Szulanski G, 1996, STRATEGIC MANAGE J, V17, P27, DOI 10.1002/smj.4250171105
+   Szulanski G, 2000, ORGAN BEHAV HUM DEC, V82, P9, DOI 10.1006/obhd.2000.2884
+   Treem J.W., 2013, Annals of the International Communication Association, V36, P143, DOI [DOI 10.1080/23808985.2013.11679130, 10.1080/23808985.203.11679130, DOI 10.1080/23808985.203.11679130]
+   Tsai WP, 2001, ACAD MANAGE J, V44, P996, DOI 10.5465/3069443
+   Vitak Jessica., 2012, P 2012 ICONFERENCE I, P555, DOI [DOI 10.1145/2132176.2132286, 10.1145/2132176.2132286]
+   Walther J.B., 2002, The Handbook of Interpersonal Communication, V3, P529, DOI DOI 10.1177/0893318916687397
+   Walther JB, 2007, COMPUT HUM BEHAV, V23, P2538, DOI 10.1016/j.chb.2006.05.002
+   Walther JB, 2009, COMMUN RES, V36, P229, DOI 10.1177/0093650208330251
+   Weber MS, 2012, J COMPUT-MEDIAT COMM, V17, P187, DOI 10.1111/j.1083-6101.2011.01563.x
+   Weick K. E., 1995, SENSEMAKING ORG, DOI DOI 10.1016/J.LEAQUA.2020.101381
+   Westerman CYK, 2010, COMMUN STUD, V61, P585, DOI 10.1080/10510974.2010.514674
+   Zammuto RF, 2007, ORGAN SCI, V18, P749, DOI 10.1287/orsc.1070.0307
+   Zorn T.E., 2004, Key issues in organizational communication, P96
+NR 95
+TC 253
+Z9 294
+U1 6
+U2 179
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0002-7642
+EI 1552-3381
+J9 AM BEHAV SCI
+JI Am. Behav. Sci.
+PD JAN
+PY 2015
+VL 59
+IS 1
+SI SI
+BP 103
+EP 123
+DI 10.1177/0002764214540510
+PG 21
+WC Psychology, Clinical; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology; Social Sciences - Other Topics
+GA AW3EY
+UT WOS:000346170000006
+DA 2024-11-22
+ER
+
+PT J
+AU Keipi, T
+   Oksanen, A
+   Räsänen, P
+AF Keipi, Teo
+   Oksanen, Atte
+   Rasanen, Pekka
+TI Who prefers anonymous self-expression online? A survey-based study of
+   Finns aged 15-30 years
+SO INFORMATION COMMUNICATION & SOCIETY
+LA English
+DT Article
+DE internet; social networking; youth; anonymity
+ID SOCIAL NETWORKING SITES; TEENAGERS USE; RISK-TAKING; ESTEEM; INTERNET;
+   FACEBOOK; NARCISSISM; TRUST; COMMUNICATION; PERSONALITY
+AB The dominance of computer-mediated communication in the online relational landscape continues to affect millions of users; yet, few studies have identified and analyzed characteristics shared by those specifically valuing its anonymous aspects for self-expression. This article identifies and investigates key characteristics of such users through online survey by two samples of Finnish users of social networking sites aged 15-30 years (n = 1013; 544). Various characteristics espoused by those especially valuing anonymity for self-expression online were identified and analyzed in relation to the users in question. Favoring anonymity was positively correlated with both grandiosity, a component of narcissism, and low self-esteem. In addition, users with stronger anonymity preference tended to be younger, highly trusting, having strong ties to online communities while having few offline friends. Findings emphasize the significance of a deeper understanding of how anonymity effects and attracts users seeking its benefits while also providing new insights into how user characteristics interact depending on motivation.
+C1 [Keipi, Teo; Rasanen, Pekka] Univ Turku, Dept Social Res, FI-20014 Turku, Finland.
+   [Oksanen, Atte] Univ Tampere, Sch Social Sci & Humanities, FI-33014 Tampere, Finland.
+C3 University of Turku; Tampere University
+RP Oksanen, A (corresponding author), Univ Tampere, Sch Social Sci & Humanities, FI-33014 Tampere, Finland.
+EM atte.oksanen@uta.fi
+RI Oksanen, Atte/AAA-6682-2019; Keipi, Teo/I-8636-2016
+OI Keipi, Teo/0000-0002-7572-9328; Räsänen, Pekka/0000-0001-7472-6355
+FU Alfred Kordelin Foundation; Kone Foundation
+FX This research was funded by the Alfred Kordelin Foundation [funding
+   decision 2012, Keipi Dr. dissertation grant] and the Kone Foundation
+   [project funding decisions 2012-2014, Oksanen & Rasanen, Hate
+   Communities Project].
+CR Ackerman RA, 2011, ASSESSMENT, V18, P67, DOI 10.1177/1073191110382845
+   Ames DR, 2006, J RES PERS, V40, P440, DOI 10.1016/j.jrp.2005.03.002
+   Anderson B, 2012, PSYCHOL POP MEDIA CU, V1, P23, DOI 10.1037/a0026452
+   [Anonymous], 2009, CYBERPSYCHOLOGY
+   Baumeister RF, 2003, PSYCHOL SCI, P1, DOI 10.1111/1529-1006.01431
+   BURKE PJ, 1991, AM SOCIOL REV, V56, P836, DOI 10.2307/2096259
+   Bushman BJ, 1998, J PERS SOC PSYCHOL, V75, P219, DOI 10.1037//0022-3514.75.1.219
+   Carlson EN, 2011, J PERS SOC PSYCHOL, V101, P185, DOI 10.1037/a0023781
+   Carpenter CJ, 2012, PERS INDIV DIFFER, V52, P482, DOI 10.1016/j.paid.2011.11.011
+   CARVER CS, 1981, J EXP SOC PSYCHOL, V17, P545, DOI 10.1016/0022-1031(81)90039-1
+   Chew HE, 2011, INFORM COMMUN SOC, V14, P726, DOI 10.1080/1369118X.2010.539243
+   Christofides E, 2009, CYBERPSYCHOL BEHAV, V12, P341, DOI 10.1089/cpb.2008.0226
+   Davidson J, 2013, INFORM COMMUN SOC, V16, P1456, DOI 10.1080/1369118X.2012.701655
+   Dickinson KA, 2003, J PERS DISORD, V17, P188, DOI 10.1521/pedi.17.3.188.22146
+   Ellison NB, 2007, J COMPUT-MEDIAT COMM, V12, P1143, DOI 10.1111/j.1083-6101.2007.00367.x
+   Farrell D, 2010, SOCIOL INQ, V80, P114, DOI 10.1111/j.1475-682X.2009.00318.x
+   Fogel J, 2009, COMPUT HUM BEHAV, V25, P153, DOI 10.1016/j.chb.2008.08.006
+   Hargittai E, 2010, INT J COMMUN-US, V4, P468
+   Henderson S, 2004, NEW MEDIA SOC, V6, P487, DOI 10.1177/146144804044331
+   Jackson LA, 2009, CYBERPSYCHOL BEHAV, V12, P437, DOI 10.1089/cpb.2008.0286
+   Joinson AN, 2001, EUR J SOC PSYCHOL, V31, P177, DOI 10.1002/ejsp.36
+   Keipi T, 2014, J YOUTH STUD, V17, P1097, DOI 10.1080/13676261.2014.881988
+   Kreijns K, 2004, CYBERPSYCHOL BEHAV, V7, P155, DOI 10.1089/109493104323024429
+   Leary MR, 2007, ANNU REV PSYCHOL, V58, P317, DOI 10.1146/annurev.psych.58.110405.085658
+   Lehdonvirta V, 2011, J YOUTH STUD, V14, P91, DOI 10.1080/13676261.2010.506530
+   Livingstone S, 2008, NEW MEDIA SOC, V10, P393, DOI 10.1177/1461444808089415
+   Livingstone S, 2010, NEW MEDIA SOC, V12, P309, DOI 10.1177/1461444809342697
+   McKenna KYA, 2000, PERS SOC PSYCHOL REV, V4, P57, DOI 10.1207/S15327957PSPR0401_6
+   Mehdizadeh S, 2010, CYBERPSYCH BEH SOC N, V13, P357, DOI 10.1089/cyber.2009.0257
+   Merchant G, 2012, LEARN MEDIA TECHNOL, V37, P4, DOI 10.1080/17439884.2011.567992
+   Näsi M, 2011, TECHNOL SOC, V33, P4, DOI 10.1016/j.techsoc.2011.03.003
+   Official Statistics of Finland, 2013, POPULATION STRUCTURE
+   Oksanen A, 2013, VULNERABLE CHILD YOU, V8, P298, DOI 10.1080/17450128.2012.752119
+   Panek ET, 2013, COMPUT HUM BEHAV, V29, P2004, DOI 10.1016/j.chb.2013.04.012
+   Pfitzmann A., 2001, Designing Privacy Enhancing Technologies. International Workshop on Design Issues in Anonymity and Unobservability. Proceedings (Lecture Notes in Computer Science Vol.2009), P1
+   Pompili M, 2007, DEATH STUD, V31, P751, DOI 10.1080/07481180701490727
+   RAUB W, 1990, AM J SOCIOL, V96, P626, DOI 10.1086/229574
+   Robins RW, 2001, PERS SOC PSYCHOL B, V27, P151, DOI 10.1177/0146167201272002
+   Rourke L., 1999, Journal of Distance Education, V14, P50
+   Ryan T, 2011, COMPUT HUM BEHAV, V27, P1658, DOI 10.1016/j.chb.2011.02.004
+   Sedikides C, 2004, J PERS SOC PSYCHOL, V87, P400, DOI 10.1037/0022-3514.87.3.400
+   Shaw LH, 2002, CYBERPSYCHOL BEHAV, V5, P157, DOI 10.1089/109493102753770552
+   Sheldon P., 2008, J MEDIA PSYCHOL-GER, V20, P67, DOI [10.1027/1864-1105.20.2.67, DOI 10.1027/1864-1105.20.2.67]
+   Shropshire KO, 2009, SOCIOL METHOD RES, V37, P344, DOI 10.1177/0049124108327130
+   Subrahmanyam K, 2007, ADOLESCENCE, V42, P659
+   Subrahmanyam K, 2008, J APPL DEV PSYCHOL, V29, P420, DOI 10.1016/j.appdev.2008.07.003
+   Szwedo DE, 2012, J RES ADOLESCENCE, V22, P453, DOI 10.1111/j.1532-7795.2012.00788.x
+   Valenzuela S, 2009, J COMPUT-MEDIAT COMM, V14, P875, DOI 10.1111/j.1083-6101.2009.01474.x
+   Wang SS, 2013, SOC SCI COMPUT REV, V31, P437, DOI 10.1177/0894439313481424
+   Weinberg JD, 2014, SOCIOL SCI, V1, P292, DOI 10.15195/v1.a19
+   Wilson K, 2010, CYBERPSYCH BEH SOC N, V13, P173, DOI 10.1089/cyber.2009.0094
+   Wolak J, 2003, J ADOLESCENCE, V26, P105, DOI 10.1016/S0140-1971(02)00114-8
+NR 52
+TC 18
+Z9 24
+U1 0
+U2 94
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1369-118X
+EI 1468-4462
+J9 INFORM COMMUN SOC
+JI Info. Commun. Soc.
+PD JUN 3
+PY 2015
+VL 18
+IS 6
+BP 717
+EP 732
+DI 10.1080/1369118X.2014.991342
+PG 16
+WC Communication; Sociology
+WE Social Science Citation Index (SSCI)
+SC Communication; Sociology
+GA CE3SN
+UT WOS:000351748900008
+OA Bronze
+DA 2024-11-22
+ER

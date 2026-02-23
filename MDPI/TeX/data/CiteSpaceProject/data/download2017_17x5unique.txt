@@ -1,0 +1,433 @@
+
+PT J
+AU Liu, JG
+   Zhou, Q
+   Guo, Q
+   Yang, ZH
+   Xie, F
+   Han, JT
+AF Liu, Jian-Guo
+   Zhou, Qing
+   Guo, Qiang
+   Yang, Zhen-Hua
+   Xie, Fei
+   Han, Jing-Ti
+TI Knowledge diffusion of dynamical network in terms of interaction
+   frequency
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID COMMUNICATION; COEVOLUTION; PROXIMITY; MODELS
+AB In this paper, we present a knowledge diffusion (SKD) model for dynamic networks by taking into account the interaction frequency which always used to measure the social closeness. A set of agents, which are initially interconnected to form a random network, either exchange knowledge with their neighbors or move toward a new location through an edge-rewiring procedure. The activity of knowledge exchange between agents is determined by a knowledge transfer rule that the target node would preferentially select one neighbor node to transfer knowledge with probability p according to their interaction frequency instead of the knowledge distance, otherwise, the target node would build a new link with its second-order neighbor preferentially or select one node in the system randomly with probability 1 - p. The simulation results show that, comparing with the Null model defined by the random selection mechanism and the traditional knowledge diffusion (TKD) model driven by knowledge distance, the knowledge would spread more fast based on SKD driven by interaction frequency. In particular, the network structure of SKD would evolve as an assortative one, which is a fundamental feature of social networks. This work would be helpful for deeply understanding the coevolution of the knowledge diffusion and network structure.
+C1 [Liu, Jian-Guo; Yang, Zhen-Hua; Han, Jing-Ti] Shanghai Univ Finance & Econ, Data Sci & Cloud Serv Res Ctr, Shanghai 200433, Peoples R China.
+   [Zhou, Qing; Guo, Qiang] Univ Shanghai Sci & Technol, Res Ctr Complex Syst Sci, Shanghai 200093, Peoples R China.
+   [Xie, Fei] Shanghai Univ Finance & Econ, Sch Finance, Shanghai 200433, Peoples R China.
+   [Yang, Zhen-Hua] Huzhou Univ, Business Sch, Huzhou 313000, Peoples R China.
+C3 Shanghai University of Finance & Economics; University of Shanghai for
+   Science & Technology; Shanghai University of Finance & Economics; Huzhou
+   University
+RP Liu, JG (corresponding author), Shanghai Univ Finance & Econ, Data Sci & Cloud Serv Res Ctr, Shanghai 200433, Peoples R China.
+EM liujg004@ustc.edu.cn
+RI Liu, Jianguo/B-4492-2012; Guo, Qiang/B-2635-2014
+OI Liu, Jianguo/0000-0002-5641-0266
+FU National Natural Science Foundation of China [71271126, 61374177,
+   71371125]; Program for Professor of Special Appointment (Eastern
+   Scholar) at Shanghai Institutions of Higher Learning; Shuguang Program
+   Project of Shanghai Educational Committee [14SG42]
+FX This work is supported by the National Natural Science Foundation of
+   China (Grant Nos 71271126, 61374177, 71371125), Research supported by
+   The Program for Professor of Special Appointment (Eastern Scholar) at
+   Shanghai Institutions of Higher Learning, Supported by Shuguang Program
+   Project of Shanghai Educational Committee (Grant No. 14SG42).
+CR [Anonymous], 2017, TRANSP LETT, DOI DOI 10.1080/19427867.2016.1267304
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Boschma RA, 2005, REG STUD, V39, P61, DOI 10.1080/0034340052000320887
+   Cowan R, 2004, J ECON DYN CONTROL, V28, P1557, DOI 10.1016/j.jedc.2003.04.002
+   Darvish H, 2016, SCIENTOMETRICS, V107, P569, DOI 10.1007/s11192-016-1854-0
+   Demirkan I, 2013, J MANAGE, V39, P1462, DOI 10.1177/0149206312453739
+   Gao J., 2017, PHYSICA A
+   Gross T, 2008, J R SOC INTERFACE, V5, P259, DOI 10.1098/rsif.2007.1229
+   Guimerà R, 2005, SCIENCE, V308, P697, DOI 10.1126/science.1106340
+   HAMEL G, 1991, STRATEGIC MANAGE J, V12, P83, DOI 10.1002/smj.4250120908
+   Hansen MT, 1999, ADMIN SCI QUART, V44, P82, DOI 10.2307/2667032
+   Herie M, 2002, SOC WORK, V47, P85, DOI 10.1093/sw/47.1.85
+   Hudson S, 2016, INT J RES MARK, V33, P27, DOI 10.1016/j.ijresmar.2015.06.004
+   Jiang N., 2016, INFORM SCI, V6
+   Jones C, 1997, ACAD MANAGE REV, V22, P911, DOI 10.5465/AMR.1997.9711022109
+   KRACKHARDT D, 1993, HARVARD BUS REV, V71, P104
+   Krackhardt D., 1994, INTRAORGANIZATIONAL
+   Lazarsfeld P.F., 1954, Freedom and Control in Modern Society, P18, DOI DOI 10.1111/J.1467-8705.2012.02056_3.X
+   Leenders RTAJ, 2003, J ENG TECHNOL MANAGE, V20, P69, DOI 10.1016/S0923-4748(03)00005-5
+   Li JJ, 2017, PHYSICA A, V468, P740, DOI 10.1016/j.physa.2016.11.126
+   Li L, 2016, MOB INF SYST, V2016, DOI 10.1155/2016/4961014
+   Liu JG, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0089746
+   Luo SL, 2015, EXPERT SYST APPL, V42, P3619, DOI 10.1016/j.eswa.2014.12.038
+   Ozkan Canbolat E., 2016, J BUS RES, V69, P1807
+   Palazzolo ET, 2006, COMMUN THEOR, V16, P223, DOI 10.1111/j.1468-2885.2006.00269.x
+   Peng SC, 2017, INFORM SCIENCES, V379, P146, DOI 10.1016/j.ins.2016.08.023
+   Pentland A, 2012, HARVARD BUS REV, V90, P61
+   Phelps C, 2012, J MANAGE, V38, P1115, DOI 10.1177/0149206311432640
+   Reagans R, 2003, ADMIN SCI QUART, V48, P240, DOI 10.2307/3556658
+   Rivera MT, 2010, ANNU REV SOCIOL, V36, P91, DOI 10.1146/annurev.soc.34.040507.134743
+   Roth C, 2010, SOC NETWORKS, V32, P16, DOI 10.1016/j.socnet.2009.04.005
+   Sabater J., 2002, Proceedings of the First International Joint Conference on Autonomous Agents and Multiagent Systems, P475
+   Taha Havakhor A. A., 2016, INFORM SYSTEMS J, V11
+   Tang F., 2007, NETWORK STRUCTURE KN
+   Tomasello MV, 2016, ADV COMPLEX SYST, V19, DOI 10.1142/S0219525916500041
+   Van den Bosch FAJ, 1999, ORGAN SCI, V10, P551, DOI 10.1287/orsc.10.5.551
+   Van Waarde H. J., 2017, IEEE T AUTOMATIC CON
+   Wang SG, 2016, J COMPUT SYST SCI, V82, P130, DOI 10.1016/j.jcss.2015.06.009
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Xue X., 2017, J CLEANER PRODUCTION
+   Zhang ZK, 2016, PHYS REP, V651, P1, DOI 10.1016/j.physrep.2016.07.002
+   Zhou Y., 2016, J NETWORK COMPUTER A
+   Zhu HM, 2016, PHYSICA A, V452, P320, DOI 10.1016/j.physa.2016.01.048
+NR 43
+TC 10
+Z9 12
+U1 5
+U2 39
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD SEP 7
+PY 2017
+VL 7
+AR 10755
+DI 10.1038/s41598-017-11057-8
+PG 7
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA FG1NC
+UT WOS:000409561800008
+PM 28883456
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Zhu, QF
+AF Zhu, Qinfeng
+TI Citizen-Driven International Networks and Globalization of Social
+   Movements on Twitter
+SO SOCIAL SCIENCE COMPUTER REVIEW
+LA English
+DT Article
+DE social media; social movement; world systems theory; social network
+   analysis
+ID INTERNET USE; WORLD; MEDIA; NEWS; RISE; HYPERLINKS; SYSTEM
+AB Social media offer an avenue for the formation of citizen-driven global networks that are vital to mobilizing international support and curating global public discourse in social movements. This study looks into the global flow of information and communication about Hong Kong's Occupy Central Movement with a focus on the country/territory-level international network that emerged on Twitter. Drawing on the world systems theory and the literature on social movement, it examines whether the globalization of a local social movement via social media is circumscribed by the existing order of the world system (i.e., from the developed core countries/territories to the developing peripheral). It focuses its analysis on the network structure and the predictors of countries/territories' centrality in the network. Findings of the social network analysis show that the structure of the international network still follows the existing order of the world system to a large extent. It is further supported by the result of the multivariate analysis that national income, a widely used benchmark for determining a country/territory's position in the world economy, is significantly and substantially related to centrality. However, national income does not have the largest predicting power. Instead, a country/territory's level of political grievances is found to be the strongest predictor. In addition, countries/territories with high Internet penetration rates tend to have high-centrality scores, and yet the effect size is smaller than the other predictors.
+C1 [Zhu, Qinfeng] City Univ Hong Kong, Dept Media & Commun, Kowloon, Hong Kong, Peoples R China.
+C3 City University of Hong Kong
+RP Zhu, QF (corresponding author), City Univ Hong Kong, Dept Media & Commun, Run Run Shaw Creat Media Ctr, M5009 Level 5,Cornwall St,18 Tat Hong Ave, Kowloon, Hong Kong, Peoples R China.
+EM qinfenzhu3-c@my.cityu.edu.hk
+RI Zhu, Qinfeng/AAA-8996-2022
+OI Zhu, Qinfeng/0000-0001-8038-0274
+CR [Anonymous], 2012, ICWSM
+   [Anonymous], S CHINA MORNING POST
+   [Anonymous], 1963, Theory of collective behavior
+   [Anonymous], SOC NETW POP GLOB
+   [Anonymous], 2014, S CHINA MORNING 0831
+   [Anonymous], 2010, ANAL SOCIAL MEDIA NE
+   Aridas T., 2013, GLOBAL FINANCE
+   Babones SJ, 2005, J WORLD SYST RES, V11, P29, DOI 10.5195/JWSR.2005.392
+   Backstrom L, 2012, PROCEEDINGS OF THE 3RD ANNUAL ACM WEB SCIENCE CONFERENCE, 2012, P33
+   BARNETT GA, 1995, INT POLIT SCI REV, V16, P249, DOI 10.1177/019251219501600305
+   Barnett GA, 2005, ANN TELECOMMUN, V60, P1110
+   Boulianne S, 2009, POLIT COMMUN, V26, P193, DOI 10.1080/10584600902854363
+   Castells M., 2009, Communication Power
+   Cederman LE, 2011, AM POLIT SCI REV, V105, P478, DOI 10.1017/S0003055411000207
+   Chang T., 2000, Gazette: The International Journal of Mass Communications Studies, V62, P505, DOI DOI 10.1177/0016549200062006004
+   Chang T.-K., 2009, INT COMMUN GAZ, V71, P137, DOI [10.1177/1748048508100910, DOI 10.1177/1748048508100910]
+   Chang TK, 1998, COMMUN RES, V25, P528, DOI 10.1177/009365098025005004
+   Chinn MD, 2010, REV INT ECON, V18, P153, DOI 10.1111/j.1467-9396.2009.00861.x
+   Crooks A, 2014, SOC SCI COMPUT REV, V32, P205, DOI 10.1177/0894439313506851
+   Fravel MT, 2010, INT STUD REV, V12, P505, DOI 10.1111/j.1468-2486.2010.00958.x
+   GALTUNG J, 1971, J PEACE RES, V8, P81, DOI 10.1177/002234337100800201
+   Gamson William A., 1992, Talking politics
+   Garrett R. K., 2006, Information Communication & Society, V9, P202, DOI 10.1080/13691180600630773
+   Golan G., 2008, International Communication Gazette, V70, P41, DOI [10.1177/1748048507084577, DOI 10.1177/174804]
+   González-Bailón S, 2014, WILEY SER COMPU QUAN, P263
+   Griffiths J., 2014, South China Morning Post
+   Gurr TR., 2015, WHY MEN REBEL
+   Harold S., 2014, FOREIGN AFFAIRS
+   Himelboim I, 2010, J MASS COMMUN Q, V87, P297, DOI 10.1177/107769901008700205
+   Himelboim I, 2010, J BROADCAST ELECTRON, V54, P373, DOI 10.1080/08838151.2010.499050
+   Howard PN, 2011, J DEMOCR, V22, P35, DOI 10.1353/jod.2011.0041
+   Hu F., 2013, BLOOMBERG BUSINESS
+   Hussain MM, 2013, INT STUD REV, V15, P48, DOI 10.1111/misr.12020
+   Juris JS, 2004, NETWORK SOCIETY: A CROSS-CULTURAL PERSPECTIVE, P341
+   Kamath K. Y., 2012, P 21 ACM INT C INF K, P962, DOI [10.1145/2396761.2396883, DOI 10.1145/2396761.2396883]
+   Kanbur R., 2011, COPING CRISIS WORKIN
+   Kaufmann D, 2011, HAGUE J RULE LAW, V3, P220, DOI 10.1017/S1876404511200046
+   Lee Danny., 2014, South China Morning Post
+   Lei YW, 2011, POLIT COMMUN, V28, P291, DOI 10.1080/10584609.2011.572449
+   Lim L., 2011, CHINESE ACTIVISTS TU
+   Lim M, 2012, J COMMUN, V62, P231, DOI 10.1111/j.1460-2466.2012.01628.x
+   Lotan Gilad., 2011, International Journal of Communication, V5, P31
+   Manuel Castells., 2012, Networks of Outrage and Hope-Social Movements in the Internet Age
+   McKirdy E., 2014, THAILAND CRISIS WHAT
+   Mills C. W., 1959, Sociological Imagination
+   Nisbet EC, 2012, J COMMUN, V62, P249, DOI 10.1111/j.1460-2466.2012.01627.x
+   Price M.E., 2002, Media and sovereignty: The global information revolution and its challenge to state power
+   Said E., 1982, Covering Islam
+   State B., 2013, The Mesh of Civilizations and International Email Flows
+   Takhteyev Y, 2012, SOC NETWORKS, V34, P73, DOI 10.1016/j.socnet.2011.05.006
+   Tufekci Z, 2013, AM BEHAV SCI, V57, P843, DOI 10.1177/0002764213479376
+   Tufekci Z, 2013, AM BEHAV SCI, V57, P848, DOI 10.1177/0002764213479369
+   United Nations Development Programme, 2013, ED IND
+   Verba S., 1995, VOICE EQUALITY CIVIC
+   WALLERSTEIN I, 1974, COMP STUD SOC HIST, V16, P387, DOI 10.1017/S0010417500007520
+   World Government Indicators, 2013, FULL DAT
+NR 56
+TC 8
+Z9 10
+U1 4
+U2 55
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0894-4393
+EI 1552-8286
+J9 SOC SCI COMPUT REV
+JI Soc. Sci. Comput. Rev.
+PD FEB
+PY 2017
+VL 35
+IS 1
+SI SI
+BP 68
+EP 83
+DI 10.1177/0894439315617263
+PG 16
+WC Computer Science, Interdisciplinary Applications; Information Science &
+   Library Science; Social Sciences, Interdisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science; Information Science & Library Science; Social Sciences
+   - Other Topics
+GA EJ3HN
+UT WOS:000393103300005
+DA 2024-11-22
+ER
+
+PT J
+AU Obaa, BB
+   Mazur, RE
+AF Obaa, Bernard B.
+   Mazur, Robert E.
+TI Social network characteristics and resource access among formerly
+   displaced households in Lira, Uganda
+SO DISASTERS
+LA English
+DT Article
+DE livelihoods; northern Uganda; post conflict; social networks
+ID SUPPORT NETWORKS; CRISIS; WOMEN
+AB In rural African communities, the support of extended family, friends, and neighbours is essential in borrowing or leveraging land, labour, food, and money, especially at times of social and financial turmoil. Little is known, though, about the nature of the networks and the conditions under which they may generate greater support in post-conflict communities. This study, conducted in the Lira district of northern Uganda, examined the composition, proximity, and size of the networks that households utilise to gain access to resources during and after resettlement. Network structures with more kin and co-resident ties were found to offer greater resource access to households in post-conflict settings. Furthermore, there was a lack of meaningful linkages outside of a person's own village, especially with regard to households whose head has no or a low level of education. These findings enhance understanding of the specific role of relationships in social support for resource access among households in post-conflict communities.
+C1 [Obaa, Bernard B.] Makerere Univ, Sch Agr Sci, Dept Extens & Innovat Studies, Kampala, Uganda.
+   [Mazur, Robert E.] Iowa State Univ, Dept Sociol, Ames, IA USA.
+C3 Makerere University; Iowa State University
+RP Obaa, BB (corresponding author), Makerere Univ, Coll Agr & Environm Sci, Sch Agr Sci, Dept Extens & Innovat Studies, POB 7062, Kampala, Uganda.
+EM obaaben@agric.mak.ac.ug
+CR Adelman S, 2013, J DEV ECON, V103, P284, DOI 10.1016/j.jdeveco.2013.03.007
+   [Anonymous], 2001, Social capital: theory and research
+   [Anonymous], 26 MICROCON U SUSS I
+   [Anonymous], NATURAL RESOURCE PER
+   Bastani S, 2007, SOC NETWORKS, V29, P357, DOI 10.1016/j.socnet.2007.01.004
+   Brune NE, 2009, SOC SCI MED, V68, P885, DOI 10.1016/j.socscimed.2008.12.024
+   Dershem L, 1998, WORLD DEV, V26, P1827, DOI 10.1016/S0305-750X(98)00085-0
+   Fisher M, 2010, WORLD DEV, V38, P966, DOI 10.1016/j.worlddev.2009.11.024
+   Granovetter M., 1983, Sociological Theory, V1, P201
+   Hadley C., 2004, HUMAN NATURE, V51, P377
+   Hadley C, 2007, PUBLIC HEALTH NUTR, V10, P544, DOI 10.1017/S1368980007246725
+   Harrell-Bond B.E., 1986, Imposing Aid: Assistance to refugees
+   IDMC, 2008, UG FOC SHIFTS SEC DU
+   IDMC, 2016, GRID 2016 GLOB REP I
+   IDMC (Internal Displacement Monitoring Center), 2007, UG UNC PEAC PROC IMP
+   Internal Displacement Monitoring Centre (IDMC), 2009, UG RET OUTP REC PLAN
+   Internal Displacement Monitoring Centre (IDMC), 2014, UG NEW DISPL UG CONT
+   Kebede W, 2009, INT SOC WORK, V52, P357, DOI 10.1177/0020872808102069
+   Knoke D., 2008, QUANTITATIVE APPL SO, V154
+   Lee RPL, 2005, SOC NETWORKS, V27, P249, DOI 10.1016/j.socnet.2005.04.001
+   LOMBE M, 2007, J SOCIOLOGY SOCIAL W, V34, P37
+   Longley C., 2001, 115 ODI
+   MARSDEN PV, 1984, SOC FORCES, V63, P482, DOI 10.2307/2579058
+   Martin E., 2009, Livelihoods in crisis: A Longitudinal study in Pader, Uganda
+   Nyikahadon K., 2013, J FOOD RES, V2, P47
+   Oxfam, 2008, 118 OXF
+   Plan Uganda, 2011, VILL SAV LOAN ASS AP
+   Podolny JM, 1997, AM SOCIOL REV, V62, P673, DOI 10.2307/2657354
+   Proctor K., 2013, THEY WERE JUST THROW
+   Remington T, 2002, DISASTERS, V26, P316, DOI 10.1111/1467-7717.00209
+   Rose LL, 2005, DEV CHANGE, V36, P911, DOI 10.1111/j.0012-155X.2005.00441.x
+   Rwabwogo M. O., 2005, UGANDA DISTRICTS INF
+   Silvey R, 2003, WORLD DEV, V31, P865, DOI 10.1016/S0305-750X(03)00013-5
+   SLRC, 2014, 4 SLRC OV DEV I
+   SLRC (Secure Livelihoods Resource Consortium), 2014, 6 SLRC OV DEV I
+   Small Mario Luis, 2009, Unanticipated gains
+   *UN NAT, 2008, MILL DEV GOALS
+   United States Agency for International Development, 2008, AGR REC RES PREL FRA
+   Wendo C, 2003, LANCET, V362, P1818, DOI 10.1016/S0140-6736(03)14952-5
+   Woolcock M, 1998, THEOR SOC, V27, P151, DOI 10.1023/A:1006884930135
+NR 40
+TC 5
+Z9 7
+U1 1
+U2 18
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0361-3666
+EI 1467-7717
+J9 DISASTERS
+JI Disasters
+PD JUL
+PY 2017
+VL 41
+IS 3
+BP 468
+EP 486
+DI 10.1111/disa.12210
+PG 19
+WC Environmental Studies; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Environmental Sciences & Ecology; Social Sciences - Other Topics
+GA EX6IV
+UT WOS:000403346900003
+PM 27654130
+DA 2024-11-22
+ER
+
+PT J
+AU Zhou, CQ
+   Zhao, QC
+   Lu, WB
+AF Zhou, Cangqi
+   Zhao, Qianchuan
+   Lu, Wenbo
+TI Cumulative Dynamics of Independent Information Spreading Behaviour: A
+   Physical Perspective
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID DIFFUSION; NETWORKS; MODEL
+AB The popularization of information spreading in online social networks facilitates daily communication among people. Although much work has been done to study the effect of interactions among people on spreading, there is less work that considers the pattern of spreading behaviour when people independently make their decisions. By comparing microblogging, an important medium for information spreading, with the disordered spin glass system, we find that there exist interesting corresponding relationships between them. And the effect of aging can be observed in both systems. Based on the analogy with the Trap Model of spin glasses, we derive a model with a unified powerfunction form for the growth of independent spreading activities. Our model takes several key factors into consideration, including memory effect, the dynamics of human interest, and the fact that older messages are more difficult to discover. We validate our model by a real-world microblogging data set. Our work indicates that, other than various features, some invariable rules should be considered during spreading prediction. This work also contributes a useful methodology for studying human dynamics.
+C1 [Zhou, Cangqi; Zhao, Qianchuan; Lu, Wenbo] Tsinghua Univ, Dept Automat, Ctr Intelligent & Networked Syst CFINS, Beijing 100084, Peoples R China.
+   [Zhou, Cangqi; Zhao, Qianchuan; Lu, Wenbo] Tsinghua Univ, TNList, Beijing 100084, Peoples R China.
+C3 Tsinghua University; Tsinghua University
+RP Zhao, QC (corresponding author), Tsinghua Univ, Dept Automat, Ctr Intelligent & Networked Syst CFINS, Beijing 100084, Peoples R China.; Zhao, QC (corresponding author), Tsinghua Univ, TNList, Beijing 100084, Peoples R China.
+EM zhaoqc@tsinghua.edu.cn
+RI Zhao, Qian/AHA-5793-2022; Lu, Wenbo/H-4653-2011; Zhao,
+   Qianchuan/C-2159-2019
+OI Zhao, Qianchuan/0000-0002-7952-5621
+FU National Key Research and Development Project of China (entitled New
+   Generation Intelligent Building Platform Techniques) [2017YFC09019010,
+   2016YFB0901901]; National Natural Science Foundation of China
+   [61425027]; 111 International Collaboration Program of China [B06002];
+   Innovation Joint Research Center for Cyber-Physical-Society System
+FX This work was supported by the National Key Research and Development
+   Project of China (No. 2017YFC09019010 entitled New Generation
+   Intelligent Building Platform Techniques, and 2016YFB0901901), the
+   National Natural Science Foundation of China (No. 61425027), the 111
+   International Collaboration Program of China under Grant B06002, and
+   Innovation Joint Research Center for Cyber-Physical-Society System.
+CR Bao P, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0076027
+   Barabási AL, 2005, NATURE, V435, P207, DOI 10.1038/nature03459
+   Bi DP, 2014, SOFT MATTER, V10, P1885, DOI 10.1039/c3sm52893f
+   BOUCHAUD JP, 1992, J PHYS I, V2, P1705, DOI 10.1051/jp1:1992238
+   Castellano C, 2009, REV MOD PHYS, V81, P591, DOI 10.1103/RevModPhys.81.591
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Chierichetti F., 2012, P 21 INT C WORLD WID, P609, DOI DOI 10.1145/2187836.2187919
+   Crane R, 2008, P NATL ACAD SCI USA, V105, P15649, DOI 10.1073/pnas.0803685105
+   DERRIDA B, 1981, PHYS REV B, V24, P2613, DOI 10.1103/PhysRevB.24.2613
+   Goel S., 2012, P 13 ACM C EL COMM, P623
+   Goldenberg J, 2001, MARKET LETT, V12, P211, DOI 10.1023/A:1011122126881
+   Guille A, 2013, SIGMOD REC, V42, P17
+   Han XP, 2008, NEW J PHYS, V10, DOI 10.1088/1367-2630/10/7/073010
+   He MF, 2004, INT J MOD PHYS C, V15, P997, DOI 10.1142/S0129183104006418
+   Helbing D, 2000, NATURE, V407, P487, DOI 10.1038/35035023
+   Jia T, 2017, NAT HUM BEHAV, V1, DOI 10.1038/s41562-017-0078
+   Jiang CX, 2014, IEEE T SIGNAL PROCES, V62, P4573, DOI 10.1109/TSP.2014.2339799
+   Jianjun Xie, 2011, 2011 Eighth International Conference on Fuzzy Systems and Knowledge Discovery (FSKD 2011), P2290, DOI 10.1109/FSKD.2011.6020045
+   Jo HH, 2012, NEW J PHYS, V14, DOI 10.1088/1367-2630/14/1/013055
+   Johansen A, 2004, PHYSICA A, V338, P286, DOI 10.1016/j.physa.2004.02.054
+   Johansen A, 2000, PHYSICA A, V276, P338, DOI 10.1016/S0378-4371(99)00468-9
+   Johansen A, 2001, PHYSICA A, V296, P539, DOI 10.1016/S0378-4371(01)00202-3
+   Kawamoto T, 2014, PHYSICA A, V406, P34, DOI 10.1016/j.physa.2014.03.054
+   Krause SM, 2012, PHYS REV E, V86, DOI 10.1103/PhysRevE.86.056106
+   Lerman K., 2010, P 4 INT AAAI C WEBL, P90
+   Liu ZH, 2005, EUROPHYS LETT, V72, P315, DOI 10.1209/epl/i2004-10550-5
+   Lü LY, 2011, NEW J PHYS, V13, DOI 10.1088/1367-2630/13/12/123005
+   Iribarren JL, 2011, PHYS REV E, V84, DOI 10.1103/PhysRevE.84.046116
+   Iribarren JL, 2009, PHYS REV LETT, V103, DOI 10.1103/PhysRevLett.103.038702
+   Matsubara Y., 2012, P 18 ACM SIGKDD INT, P6, DOI DOI 10.1145/2339530.2339537
+   Newman MEJ, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.035101
+   Pastor-Satorras R, 2001, PHYS REV LETT, V86, P3200, DOI 10.1103/PhysRevLett.86.3200
+   Samarakoon A., 2016, P NATL ACAD SCI USA
+   Seyed-Allaei H, 2008, PHYS REV E, V77, DOI 10.1103/PhysRevE.77.031105
+   Wang D, 2013, IEEE INFOCOM SER, P2391
+   Yakovenko VM, 2009, REV MOD PHYS, V81, P1703, DOI 10.1103/RevModPhys.81.1703
+   Yang J., 2011, WSDM'11, P177, DOI DOI 10.1145/1935826.1935863
+   Zhou CQ, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0140556
+NR 38
+TC 2
+Z9 2
+U1 1
+U2 14
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD JUL 17
+PY 2017
+VL 7
+AR 5530
+DI 10.1038/s41598-017-05899-5
+PG 14
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA FA8DC
+UT WOS:000405675400010
+PM 28717214
+OA gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Preventing ID pilferage <i>Online social network</i>
+SO CURRENT SCIENCE
+LA English
+DT News Item
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU INDIAN ACAD SCIENCES
+PI BANGALORE
+PA C V RAMAN AVENUE, SADASHIVANAGAR, P B #8005, BANGALORE 560 080, INDIA
+SN 0011-3891
+J9 CURR SCI INDIA
+JI Curr. Sci.
+PD JUL 10
+PY 2017
+VL 113
+IS 1
+BP 13
+EP 13
+PG 1
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA FA7JT
+UT WOS:000405623700014
+DA 2024-11-22
+ER

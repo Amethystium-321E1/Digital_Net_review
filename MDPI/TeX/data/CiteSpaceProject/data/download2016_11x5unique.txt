@@ -1,0 +1,550 @@
+
+PT J
+AU Safdari, H
+   Kamali, MZ
+   Shirazi, A
+   Khalighi, M
+   Jafari, G
+   Ausloos, M
+AF Safdari, Hadiseh
+   Kamali, Milad Zare
+   Shirazi, Amirhossein
+   Khalighi, Moein
+   Jafari, Gholamreza
+   Ausloos, Marcel
+TI Fractional Dynamics of Network Growth Constrained by Aging Node
+   Interactions
+SO PLOS ONE
+LA English
+DT Article
+ID SCALING BEHAVIOR; EVOLUTION; EMERGENCE; POPULATIONS; SIMILARITY;
+   INTERNET; SYSTEM
+AB In many social complex systems, in which agents are linked by non-linear interactions, the history of events strongly influences the whole network dynamics. However, a class of "commonly accepted beliefs" seems rarely studied. In this paper, we examine how the growth process of a (social) network is influenced by past circumstances. In order to tackle this cause, we simply modify the well known preferential attachment mechanism by imposing a time dependent kernel function in the network evolution equation. This approach leads to a fractional order Barabosi-Albert (BA) differential equation, generalizing the BA model. Our results show that, with passing time, an aging process is observed for the network dynamics. The aging process leads to a decay for the node degree values, thereby creating an opposing process to the preferential attachment mechanism. On one hand, based on the preferential attachment mechanism, nodes with a high degree are more likely to absorb links; but, on the other hand, a node's age has a reduced chance for new connections. This competitive scenario allows an increased chance for younger members to become a hub. Simulations of such a network growth with aging constraint confirm the results found from solving the fractional BA equation. We also report, as an exemplary application, an investigation of the collaboration network between Hollywood movie actors. It is undubiously shown that a decay in the dynamics of their collaboration rate is found, even including a sex difference. Such findings suggest a widely universal application of the so generalized BA model.
+C1 [Safdari, Hadiseh; Kamali, Milad Zare; Shirazi, Amirhossein; Jafari, Gholamreza] Shahid Beheshti Univ, GC, Dept Phys, Tehran 19839, Iran.
+   [Khalighi, Moein] Tarbiat Modares Univ, Dept Math, Tehran, Iran.
+   [Jafari, Gholamreza] Shahid Beheshti Univ, IBCS, Tehran 19839, Iran.
+   [Jafari, Gholamreza] Cent European Univ, Ctr Network Sci, Nador 9, H-1051 Budapest, Hungary.
+   [Ausloos, Marcel] GRAPES, Rue Belle Jardiniere 483, B-4031 Angleur, Belgium.
+   [Ausloos, Marcel] Univ Leicester, Sch Management, Univ Rd, Leicester LE1 7RH, Leics, England.
+   [Ausloos, Marcel] Royal Netherlands Acad Arts & Sci, EHumanities Grp, Joan Muyskenweg 25, NL-1096 CJ Amsterdam, Netherlands.
+C3 Shahid Beheshti University; Tarbiat Modares University; Shahid Beheshti
+   University; Central European University; University of Leicester
+RP Jafari, G (corresponding author), Shahid Beheshti Univ, GC, Dept Phys, Tehran 19839, Iran.; Jafari, G (corresponding author), Shahid Beheshti Univ, IBCS, Tehran 19839, Iran.; Jafari, G (corresponding author), Cent European Univ, Ctr Network Sci, Nador 9, H-1051 Budapest, Hungary.
+EM gjafari@gmail.com
+RI Ausloos, Marcel/AAC-8812-2020; jafari, Reza/D-8181-2011; Khalighi,
+   Moein/AAC-1520-2019; Safdari, Hadi/ABA-8610-2020
+OI Jafari, G. Reza/0000-0003-4308-207X; safdari, hadi/0000-0002-0917-7609;
+   Khalighi, Moein/0000-0001-8176-0367; Jafari,
+   Gholamreza/0000-0002-0448-5549
+CR Adamic LA, 2000, SCIENCE, V287, DOI 10.1126/science.287.5461.2115a
+   Albert R, 2000, PHYS REV LETT, V85, P5234, DOI 10.1103/PhysRevLett.85.5234
+   Albert R, 1999, NATURE, V401, P130, DOI 10.1038/43601
+   Amaral LAN, 2000, P NATL ACAD SCI USA, V97, P11149, DOI 10.1073/pnas.200327197
+   Amaral LAN, 2004, EUR PHYS J B, V38, P147, DOI 10.1140/epjb/e2004-00110-5
+   [Anonymous], P 8 INT WORLD WID WE
+   Arad A, 2013, ORGAN BEHAV HUM DEC, V121, P267, DOI 10.1016/j.obhdp.2013.01.006
+   Barabási AL, 2002, PHYSICA A, V311, P590, DOI 10.1016/S0378-4371(02)00736-7
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barabási AL, 2012, NATURE, V489, P507, DOI 10.1038/nature11486
+   Börner K, 2004, P NATL ACAD SCI USA, V101, P5266, DOI 10.1073/pnas.0307625100
+   Bruus H., 2004, Many-body quantum theory in condensed matter physics: an introduction
+   CAPUTO M, 1967, GEOPHYS J ROY ASTR S, V13, P529, DOI 10.1111/j.1365-246X.1967.tb02303.x
+   Caram LF, 2015, PHYS REV E, V92, DOI 10.1103/PhysRevE.92.022805
+   Caram LF, 2010, PHYSICA A, V389, P2628, DOI 10.1016/j.physa.2010.02.032
+   Chen QH, 2004, PHYSICA A, V335, P240, DOI 10.1016/j.physa.2003.12.014
+   Dal Maso C, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0116046
+   Diethelm K, 2002, NONLINEAR DYNAM, V29, P3, DOI 10.1023/A:1016592219341
+   Dimitrova ZI, 2015, OPEN PHYS, V13, P218, DOI 10.1515/phys-2015-0029
+   Domhoff GW, 4 NETWORKS THEORY PO
+   Dorogovtsev SN, 2000, PHYS REV E, V62, P1842, DOI 10.1103/PhysRevE.62.1842
+   Dorogovtsev SN, 2000, PHYS REV LETT, V85, P4633, DOI 10.1103/PhysRevLett.85.4633
+   Eguíluz VM, 2005, PHYS REV LETT, V94, DOI 10.1103/PhysRevLett.94.018102
+   Frederico GSF, 2010, APPL MATH COMPUT, V217, P1023, DOI 10.1016/j.amc.2010.01.100
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   Gabaix Xavier, 2004, Handbook of Urban and Regional Economics, V4, P2341, DOI DOI 10.1016/S1574-0080(04)80010-5
+   Galam S, 2012, UNDERST COMPLEX SYST, P41
+   Garrappa R, 2010, INT J COMPUT MATH, V87, P2281, DOI 10.1080/00207160802624331
+   Goychuk I, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.046125
+   Hafner-Burton EM, 2009, INT ORGAN, V63, P559, DOI 10.1017/S0020818309090195
+   Hajra KB, 2006, PHYSICA A, V368, P575, DOI 10.1016/j.physa.2005.12.044
+   Holme P, 2004, SOC NETWORKS, V26, P155, DOI 10.1016/j.socnet.2004.01.007
+   Jeon JH, 2010, PHYS REV E, V81, DOI 10.1103/PhysRevE.81.021103
+   Klafter J., 2011, FRACTIONAL DYNAMICS
+   Lambiotte R, 2007, EPL-EUROPHYS LETT, V77, DOI 10.1209/0295-5075/77/58002
+   Lehmann S, 2005, EUROPHYS LETT, V69, P298, DOI 10.1209/epl/i2004-10331-2
+   Leicht EA, 2007, EUR PHYS J B, V59, P75, DOI 10.1140/epjb/e2007-00271-7
+   LEVINS R, 1994, AM SCI, V82, P52
+   Lind PG, 2007, NEW J PHYS, V9, DOI 10.1088/1367-2630/9/7/228
+   Linkenkaer-Hansen K, 2001, J NEUROSCI, V21, P1370
+   Lundstrom BN, 2008, NAT NEUROSCI, V11, P1335, DOI 10.1038/nn.2212
+   Mainardi F, 1996, EXTRACTA MATH, V101, P140
+   MANTEGNA RN, 1995, NATURE, V376, P46, DOI 10.1038/376046a0
+   Medo M, 2011, PHYS REV LETT, V107, DOI 10.1103/PhysRevLett.107.238701
+   Newman MEJ, 2009, EPL-EUROPHYS LETT, V86, DOI 10.1209/0295-5075/86/68001
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   Newman MEJ, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.208701
+   Palla G, 2007, NATURE, V446, P664, DOI 10.1038/nature05670
+   Papadopoulos F, 2012, NATURE, V489, P537, DOI 10.1038/nature11459
+   Peace AG, 2003, COMMUN ACM, V46, P104, DOI 10.1145/948383.948388
+   PENG CK, 1995, CHAOS, V5, P82, DOI 10.1063/1.166141
+   Redner S, 2005, PHYS TODAY, V58, P49, DOI 10.1063/1.1996475
+   Roohi AA, 2010, PHYSICA A, V389, P5530, DOI 10.1016/j.physa.2010.08.007
+   Rotundo G, 2014, QUAL QUANT, V48, P1893, DOI 10.1007/s11135-013-9858-9
+   Safdari Hadiseh, 2015, European Physical Journal B - Condensed Matter and Complex Systems, V88, DOI 10.1140/epjb/e2015-60286-y
+   Samko S. G., 1993, Fractional Integral and Derivatives: Theory and Applications
+   Sarshar N, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.026101
+   Scheffer M, 2006, P NATL ACAD SCI USA, V103, P6230, DOI 10.1073/pnas.0508024103
+   Shirazi A. H., 2013, JASSS-J ARTIF SOC S, V6, P1, DOI 10.18564/jasss.2054
+   Small R, 1986, VIRGINIA ENGLISH B, V36, P3
+   Tufekci Z, 2008, Bulletin of Science, Technology Society, V28, P20, DOI DOI 10.1177/0270467607311484
+   VANDEWALLE N, 1995, PHYS REV E, V51, P597, DOI 10.1103/PhysRevE.51.597
+   Verhulst P-F, 1845, BELLES LETT BRUXELLE, V18, P1
+   Vitanov NK, 2009, COMMUN NONLINEAR SCI, V14, P2379, DOI 10.1016/j.cnsns.2008.07.015
+   Vitanov NK, 2015, J APPL STAT, V42, P2686, DOI 10.1080/02664763.2015.1047744
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   West BJ, 2015, NEW J PHYS, V17, DOI 10.1088/1367-2630/17/4/045009
+   West B.J., 2011, Complex Webs, Anticipating the Improbable
+   West BJ, 2015, PHYSICA A, V429, P103, DOI 10.1016/j.physa.2015.02.073
+   Zhu H, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.056121
+NR 70
+TC 24
+Z9 24
+U1 0
+U2 8
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD MAY 12
+PY 2016
+VL 11
+IS 5
+AR e0154983
+DI 10.1371/journal.pone.0154983
+PG 13
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA DM8CQ
+UT WOS:000376588600054
+PM 27171424
+OA Green Published, Green Submitted, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Yu, YJ
+   McCarty, C
+   Jones, JH
+   Li, XM
+AF Yu, Yeon Jung
+   McCarty, Christopher
+   Jones, James Holland
+   Li, Xiaoming
+TI In-Transitivity: Network Patterns of Female Sex Workers (FSWs) in China
+SO HUMAN ORGANIZATION
+LA English
+DT Article
+DE female sex workers (FSWs); social (ego) networks; in-transitivity;
+   stigma; illegal industry; post-socialist China
+ID MIGRANTS; RISK
+AB Previous studies propose "transitivity" as a key network property. Our research suggests that when networks consist of relations that potentially carry major social costs, members of those networks may actively prevent transitivity (e.g., information flow), fostering in-transitivity. Using mixed research methods, we analyzed the social network structure of 175 female sex workers (FSWs) in post-socialist China. We identify four patterns of sex worker networks (i.e., dense, moderate, weak, separate relationships) depending on the degree of social cohesion between urban and rural networks. The distinct network configurations that we discovered result from a combination of factors: the level of hometown stigma (against female sex workers), age/work experience, and competitiveness in the sex industry. We conclude that triads trend toward in-transitivity when subgroups within social networks maintain competing cultural norms. As the first study mapping the social networks of female sex workers in China, this article demonstrates the women's aptitude for network management in order to prevent negative consequences of their engaging in stigmatized activities.
+C1 [Yu, Yeon Jung] Western Washington Univ, Dept Anthropol, Bellingham, WA 98225 USA.
+   [McCarty, Christopher] Univ Florida, Dept Anthropol, Gainesville, FL 32611 USA.
+   [Jones, James Holland] Stanford Univ, Dept Anthropol, Stanford, CA 94305 USA.
+   [Li, Xiaoming] Univ South Carolina, Sch Publ Hlth, Columbia, SC 29208 USA.
+C3 Western Washington University; State University System of Florida;
+   University of Florida; Stanford University; University of South Carolina
+   System; University of South Carolina Columbia
+RP Yu, YJ (corresponding author), Western Washington Univ, Dept Anthropol, Bellingham, WA 98225 USA.
+RI ; Li, Xiaoming/AAF-1362-2019
+OI Jones, James/0000-0003-1680-6757; Li, Xiaoming/0000-0002-5555-9034;
+   McCarty, Christopher/0000-0002-2917-8318
+FU National Science Foundation [BCS-0753231]; National Institute of Child
+   Health and Human Development [R01HD074221]; Freeman Spogli Institute at
+   Stanford University; Michelle R. Clayman Institute at Stanford
+   University; Center for East Asian Studies at Stanford University;
+   Anthropology Department at Stanford University
+FX Yeon Jung Yu is Assistant Professor in the Department of Anthropology,
+   Western Washington University; Christopher McCarty is Professor and
+   Chair in the Department of Anthropology, University of Florida; James
+   Holland Jones is Associate Professor in the Department of Anthropology,
+   Stanford University; and Xiaoming Li is Professor at the School of
+   Public Health, University of South Carolina. This research was made
+   possible with generous support from the National Science Foundation
+   (BCS-0753231), the National Institute of Child Health and Human
+   Development (R01HD074221), the Freeman Spogli Institute, the Michelle R.
+   Clayman Institute, Center for East Asian Studies, and the Anthropology
+   Department at Stanford University. We are grateful to anonymous
+   reviewers and to Human Organization editor Sarah Lyon who helped with
+   crucial revisions to the article. Finally, we owe sincere thanks to the
+   women who participated in this research.
+CR Allison A., 2009, NIGHTWORK SEXUALITY
+   Anagnost A, 2004, PUBLIC CULTURE, V16, P189, DOI 10.1215/08992363-16-2-189
+   [Anonymous], 1984, FEMALE SEXUAL SLAVER
+   [Anonymous], 24 INT SUNB SOC NETW
+   [Anonymous], 1988, FEMINISM UNMODIFIED
+   [Anonymous], 1996, I INT EC WORKING PAP
+   [Anonymous], 1988, SOCIAL STRUCTURES NE
+   Bearman PS, 2004, AM J SOCIOL, V110, P44, DOI 10.1086/386272
+   Bernard R, 2006, RES METHODS ANTHR QU
+   Brownell Susan., 2001, CHINA URBAN, P123, DOI DOI 10.1215/9780822381334
+   Burt R.S., 2018, Social Stratification, P659
+   Chen XG, 2011, HUM ORGAN, V70, P22, DOI 10.17730/humo.70.1.k76047734m703500
+   Chen YS, 2012, CHINESE SOCIOL REV, V45, P28, DOI 10.2753/CSA2162-0555450102
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   Constable N., 2007, MAID ORDER HONG KONG
+   Davis Deborah., 2000, The Consumer Revolution in Urban China, V22
+   Davis J. A., 1972, SOCIOLOGICAL THEORIE, V2, P218
+   Delacoste F., 1987, SEX WORK WRITING WOM
+   Doreian P, 1996, J MATH SOCIOL, V21, P113, DOI 10.1080/0022250X.1996.9990176
+   Evans-Pritchard EE, 1929, MAN, V29, P190, DOI 10.2307/2789028
+   Faier L, 2009, INTIMATE ENCOUNTERS: FILIPINA WOMEN AND THE REMAKING OF RURAL JAPAN, P1
+   Farmer Paul., 1992, AIDS and Accusation: Haiti and the Geography of Blame
+   Farrer James., 2002, OPENING YOUTH SEX CU
+   Faust K, 2008, SOC NETWORKS, V30, P273, DOI 10.1016/j.socnet.2008.04.002
+   Faust K, 2010, SOC NETWORKS, V32, P221, DOI 10.1016/j.socnet.2010.03.004
+   Friedman S R, 1995, NIDA Res Monogr, V151, P196
+   Fu Hualing., 2010, Gender Policy and HIV in China: Catalyzing Policy Change, P189
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   HALLINAN M, 1975, SOCIOMETRY, V38, P195, DOI 10.2307/2786600
+   Heckathorn DD, 2002, SOC PROBL, V49, P11, DOI 10.1525/sp.2002.49.1.11
+   Heckathorn DD, 1997, SOC PROBL, V44, P174, DOI 10.1525/sp.1997.44.2.03x0221m
+   Heider F, 1946, J PSYCHOL, V21, P107, DOI 10.1080/00223980.1946.9917275
+   Hershatter G., 2007, WOMEN CHINAS LONG 20
+   Hyde SandraTeresa., 2007, EATING SPRING RICE C
+   Jankowiak WilliamR., 1993, SEX DEATH HIERARCHY
+   Jeffreys Elaine., 2004, CHINA SEX PROSTITUTI
+   Johnston LG, 2006, J URBAN HEALTH, V83, pI16, DOI 10.1007/s11524-006-9099-5
+   Kalish Y, 2006, SOC NETWORKS, V28, P56, DOI 10.1016/j.socnet.2005.04.004
+   Kuper Adam., 2005, REINVENTION PRIMITIV
+   Latkin C A, 1995, NIDA Res Monogr, V151, P181
+   LEINHARDT S, 1972, AM SOCIOL REV, V37, P202, DOI 10.2307/2094028
+   Liao MZ, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0034085
+   Lopez Jose., 2000, SOCIAL STRUCTURE
+   Lubbers MJ, 2007, INT SOCIOL, V22, P721, DOI 10.1177/0268580907082255
+   McCarty C., 2002, STRUCTURE PERSONAL N
+   McCarty C, 2007, FIELD METHOD, V19, P145, DOI 10.1177/1525822x06298592
+   Mitchell J.C., 1969, SOCIAL NETWORKS URBA
+   Parish William., 2000, CHINESE URBAN LIFE R, P232
+   Portes A., 1995, The economic sociology of immigration: Essays on networks, ethnicity, and entrepreneurship
+   PUTNAM R, 1995, J DEMOCRACY, V0006
+   Radcliffe-Brown AR, 1940, J R ANTHROPOL INST G, V70, P1, DOI 10.2307/2844197
+   RAPOPORT ANATOL, 1953, BULL MATH BIOPHYS, V15, P523, DOI 10.1007/BF02476440
+   Rofel Lisa., 2007, DESIRING CHINA EXPT
+   Rogers SJ, 2002, AIDS EDUC PREV, V14, P217, DOI 10.1521/aeap.14.3.217.23892
+   Salganik MJ, 2004, SOCIOL METHODOL, V34, P193, DOI 10.1111/j.0081-1750.2004.00152.x
+   Schaefer DR, 2010, SOC NETWORKS, V32, P61, DOI 10.1016/j.socnet.2009.04.003
+   Schensul JeanJ., 1999, MAPPING SOCIAL NETWO
+   Scott G, 2008, INT J DRUG POLICY, V19, P42, DOI 10.1016/j.drugpo.2007.11.014
+   Thompson SK, 2002, DRUG ALCOHOL DEPEN, V68, pS57
+   Trotter RobertT., 1999, Mapping Social Networks, Spatial Data, P1
+   Trotter RobertT. II., 1998, Handbook of Methods in Cultural Anthropology, P691
+   Tucker JD, 2005, AIDS, V19, P539, DOI 10.1097/01.aids.0000163929.84154.87
+   Van Der Gaag M, 2005, SOC NETWORKS, V27, P1, DOI 10.1016/j.socnet.2004.10.001
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   Wellman B, 2001, INT J URBAN REGIONAL, V25, P227, DOI 10.1111/1468-2427.00309
+   White DouglasR., 2005, NETWORK ANAL ETHNOGR
+   Yu YJ, 2013, MED ANTHROPOL Q, V27, P348, DOI 10.1111/maq.12050
+   Yu Yeon Jung, 2016, AIDS CARE, P1
+   Zhang EYH, 2011, DEEP CHINA: THE MORAL LIFE OF THE PERSON, WHAT ANTHROPOLOGY AND PSYCHIATRY TELL US ABOUT CHINA TODAY, P106
+   Zhang L., 2001, Strangers in the City: Reconfigurations of Space, Power, and Social Networks within China's Floating Population
+   Zhao YH, 2003, CONTEMP ECON POLICY, V21, P500, DOI 10.1093/cep/byg028
+   Zheng Tiantian., 2009, RED LIGHTS LIVES SEX
+NR 72
+TC 2
+Z9 2
+U1 0
+U2 7
+PU SOC APPLIED ANTHROPOLOGY
+PI OKLAHOMA CITY
+PA 3000 UNITED FOUNDERS BLVD, STE 148, OKLAHOMA CITY, OK 73112 USA
+SN 0018-7259
+EI 1938-3525
+J9 HUM ORGAN
+JI Hum. Organ.
+PD WIN
+PY 2016
+VL 75
+IS 4
+BP 358
+EP 370
+DI 10.17730/1938-3525-75.4.358
+PG 13
+WC Anthropology; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Social Sciences - Other Topics
+GA EJ2EY
+UT WOS:000393024100008
+DA 2024-11-22
+ER
+
+PT J
+AU Van Kessel, G
+   Kavanagh, M
+   Maher, C
+AF Van Kessel, Gisela
+   Kavanagh, Madeleine
+   Maher, Carol
+TI A Qualitative Study to Examine Feasibility and Design of an Online
+   Social Networking Intervention to Increase Physical Activity in Teenage
+   Girls
+SO PLOS ONE
+LA English
+DT Article
+ID MARKETING CAMPAIGN; PROJECT; MEDIA
+AB Background
+   Online social networks present wide-reaching and flexible platforms through which to deliver health interventions to targeted populations. This study used a social marketing approach to explore teenage girls' perceptions of physical activity and the potential use of online social networks to receive a physical activity intervention.
+   Methods
+   Six focus groups were conducted with 19 Australian teenage girls (ages 13 to 18 years) with varying levels of physical activity and socioeconomic status. A semi-structured format was used, with groups discussion transcribed verbatim. Content analysis identified emergent themes, with triangulation and memos used to ensure accuracy.
+   Results
+   Physical activity was most appealing when it emphasised sport, exercise and fitness, along with opportunities for socialisation with friends and self-improvement. Participants were receptive to delivery of a physical activity intervention via online social networks, with Facebook the most widely reported site. Participants commonly accessed online social networks via mobile devices and particularly smartphones. Undesirable features included promotion of physical activity in terms of walking; use of cartoon imagery; use of humour; and promotion of the intervention via schools, each of which were considered "uncool". Participants noted that their parents were likely to be supportive of them using an online social networking physical activity intervention, particularly if not promoted as a weight loss intervention.
+   Conclusion This study identified key features likely to increase the feasibility and retention of an online social networking physical activity intervention for teenage girls. Guidelines for the design of interventions for teenage girls are provided for future applications.
+C1 [Van Kessel, Gisela; Kavanagh, Madeleine; Maher, Carol] Univ S Australia, Sch Hlth Sci, Adelaide, SA 5001, Australia.
+C3 University of South Australia
+RP Maher, C (corresponding author), Univ S Australia, Sch Hlth Sci, Adelaide, SA 5001, Australia.
+EM carol.maher@unisa.edu.au
+RI Maher, Carol/C-8169-2009; van Kessel, Gisela/E-4765-2013
+OI Maher, Carol/0000-0002-8676-0224; van Kessel, Gisela/0000-0002-6955-0727
+FU Australian National Heart Foundation; University of South Australia;
+   Trans-disciplinary Grant Development from Research and Innovations,
+   University of South Australia
+FX Carol Maher is supported by a research fellowship from the Australian
+   National Heart Foundation. Madeleine Kavanagh was supported by a Summer
+   Vacation Scholarship from the University of South Australia. Data
+   collection expenses were supported by Trans-disciplinary Grant
+   Development funding from Research and Innovations, University of South
+   Australia. The funders had no role in study design, data collection and
+   analysis, decision to publish, or preparation of the manuscript.
+CR Andreasen A.R., 2006, SOCIAL MARKETING 21
+   Australian Bureau of Statistics, 2011, SEIFA POST COD AR
+   Australian Bureau of Statistics, 2013, AUSTR HLTH SURV PHYS
+   Burroughs Ericka, 2006, Prev Chronic Dis, V3, pA08
+   Cavallo DN, 2012, AM J PREV MED, V43, P527, DOI 10.1016/j.amepre.2012.07.019
+   De Meester F, 2009, INT J BEHAV NUTR PHY, V6, DOI 10.1186/1479-5868-6-82
+   Department of Health, 2014, AUSTR PHYS ACT SED B
+   Dharod JM, 2011, HEALTH PROMOT PRACT, V12, P312, DOI 10.1177/1524839909355521
+   Dwyer JJM, 2006, ADOLESCENCE, V41, P75
+   Fine GA, 2004, SOCIOL QUART, V45, P1, DOI 10.1111/j.1533-8525.2004.tb02395.x
+   Gentina E, 2014, J BUS RES, V67, P83, DOI 10.1016/j.jbusres.2012.11.013
+   Habgood MPJ, 2011, J LEARN SCI, V20, P169, DOI 10.1080/10508406.2010.508029
+   Harris KC, 2009, CAN MED ASSOC J, V180, P719, DOI 10.1503/cmaj.080966
+   Hromek R, 2009, SIMULATION GAMING
+   Keller C, 2012, HEALTH PROMOT INT
+   Lee N.R., 2011, SOCIAL MARKETING INF
+   Maher C, 2015, J MED INTERNET RES, V17, DOI 10.2196/jmir.4086
+   Maher CA, 2014, J MED INTERNET RES, V16, DOI 10.2196/jmir.2952
+   Mayer AB, 2012, J FOOD PROTECT, V75, P1453, DOI 10.4315/0362-028X.11-551
+   Napolitano MA, 2013, OBESITY, V21, P25, DOI 10.1002/oby.20232
+   Nelson MC, 2006, PEDIATRICS, V118, pE1627, DOI 10.1542/peds.2006-0926
+   Olds T., 2009, ACHPER Healthy Lifestyles Journal, V56, P11
+   Riddoch CJ, 2004, MED SCI SPORT EXER, V36, P86, DOI 10.1249/01.MSS.0000106174.43932.92
+   Subitha L, 2013, NATL MED J INDIA, V26, P12
+   Thompson D, 2014, JMIR RES PROTOC, V3, DOI 10.2196/resprot.3074
+   Trost S.G., 2005, Discussion paper for the development of recommendations for children's and youth's participation in health promoting physical activity
+   Van Duyn MAS, 2007, PREVENTING CHRONIC D, V4
+   Van Sluijs EM, 2007, BMJ
+   Wilson DK, 2013, INT J BEHAV NUTR PHY, V10, DOI 10.1186/1479-5868-10-33
+   Withall J, 2012, BMC PUBLIC HEALTH, V12, DOI 10.1186/1471-2458-12-836
+   Wong F., 2004, Preventing Chronic Disease, V1, P1
+   World Health Organisation, 2010, GLOB REC PHYS ACT HL
+NR 32
+TC 17
+Z9 22
+U1 1
+U2 41
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD MAR 2
+PY 2016
+VL 11
+IS 3
+AR e0150817
+DI 10.1371/journal.pone.0150817
+PG 11
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA DG0AN
+UT WOS:000371724200117
+PM 26934191
+OA gold, Green Submitted, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Hristova, D
+   Noulas, A
+   Brown, C
+   Musolesi, M
+   Mascolo, C
+AF Hristova, Desislava
+   Noulas, Anastasios
+   Brown, Chloe
+   Musolesi, Mirco
+   Mascolo, Cecilia
+TI A multilayer approach to multiplexity and link prediction in online
+   geo-social networks
+SO EPJ DATA SCIENCE
+LA English
+DT Article
+DE online social networks; media multiplexity; multilayer networks; link
+   prediction
+AB Online social systems are multiplex in nature as multiple links may exist between the same two users across different social media. In this work, we study the geo-social properties of multiplex links, spanning more than one social network and apply their structural and interaction features to the problem of link prediction across social networking services. Exploring the intersection of two popular online platforms Twitter and location-based social network Foursquare - we represent the two together as a composite multilayer online social network, where each platform represents a layer in the network. We find that pairs of users connected on both services, have greater neighbourhood similarity and are more similar in terms of their social and spatial properties on both platforms in comparison with pairs who are connected on just one of the social networks. Our evaluation, which aims to shed light on the implications of multiplexity for the link generation process, shows that we can successfully predict links across social networking services. In addition, we also show how combining information from multiple heterogeneous networks in a multilayer configuration can provide new insights into user interactions on online social networks, and can significantly improve link prediction systems with valuable applications to social bootstrapping and friend recommendations.
+C1 [Hristova, Desislava; Brown, Chloe; Mascolo, Cecilia] Univ Cambridge, Comp Lab, 15 JJ Thompson Ave, Cambridge CB3 0FD, England.
+   [Noulas, Anastasios] Univ Lancaster, Data Sci Inst, South Dr, Lancaster LA1 4YW, England.
+   [Musolesi, Mirco] UCL, Dept Geog, Gower St, London WC1E 6BT, England.
+C3 University of Cambridge; Lancaster University; University of London;
+   University College London
+RP Hristova, D (corresponding author), Univ Cambridge, Comp Lab, 15 JJ Thompson Ave, Cambridge CB3 0FD, England.
+EM dh475@cam.ac.uk
+RI Brown, Chloe/KRR-1287-2024; Musolesi, Mirco/C-9329-2014
+OI Siegele-Brown, Chloe/0000-0002-9229-3351; Musolesi,
+   Mirco/0000-0001-9712-4090; Mascolo, Cecilia/0000-0001-9614-4380
+FU Project LASAGNE - European Commission [318132]; EPSRC through Grant GALE
+   [EP/K019392]; EPSRC [EP/K019392/1] Funding Source: UKRI
+FX This work was supported by the Project LASAGNE, Contract No. 318132
+   (STREP), funded by the European Commission and EPSRC through Grant GALE
+   (EP/K019392).
+CR Adamic LA, 2003, SOC NETWORKS, V25, P211, DOI 10.1016/S0378-8733(03)00009-1
+   [Anonymous], 2012, PROC 5 ACM INT C WEB, DOI DOI 10.1145/2124295.2124380
+   [Anonymous], 2012, WSDM
+   Backstrom L., 2011, P 4 ACM INT C WEB SE, P635, DOI DOI 10.1145/1935826.1935914
+   Berlingerio M, 2013, WORLD WIDE WEB, V16, P567, DOI 10.1007/s11280-012-0190-4
+   Breiman L., 2001, Machine Learning, V45, P5, DOI 10.1023/A:1010933404324
+   Brodka P, 2012, CORR
+   Brown C., 2012, WOSN, P31
+   Cho E, 2011, KDD
+   Crandall DJ, 2010, P NATL ACAD SCI USA, V107, P22436, DOI 10.1073/pnas.1006155107
+   Fawcett T, 2006, PATTERN RECOGN LETT, V27, P861, DOI 10.1016/j.patrec.2005.10.010
+   Gilbert E., 2009, CHI
+   Haythornthwaite C., 2005, Information Communication & Society, V8, P125, DOI 10.1080/13691180500146185
+   Haythornthwaite C, 1998, J AM SOC INFORM SCI, V49, P1101, DOI 10.1002/(SICI)1097-4571(1998)49:12<1101::AID-ASI6>3.0.CO;2-Z
+   Hill RA, 2003, HUM NATURE-INT BIOS, V14, P53, DOI 10.1007/s12110-003-1016-y
+   Hristova D., 2014, P INT AAAI C WEB SOC
+   Kazienko P, 2010, SOCIALCOM
+   Kivela M, 2014, J COMPLEX NETW, V2, P203, DOI 10.1093/comnet/cnu016
+   Kwak H., 2010, P 19 INT C WORLD WID, P591, DOI [10.1145/1772690.1772751, DOI 10.1145/1772690.1772751]
+   Lee K, 2014, UBICOMP
+   Liben-Nowell D, 2007, J AM SOC INF SCI TEC, V58, P1019, DOI 10.1002/asi.20591
+   Lichtenwalter J. T., 2010, Proceedings of the 16th ACM SIGKDD international conference on Knowledge discovery and data mining, P243
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Menon AK, 2011, LECT NOTES ARTIF INT, V6912, P437, DOI 10.1007/978-3-642-23783-6_28
+   Noulas A., 2011, ICWSM, V5, P570, DOI [10.1609/icwsm.v5i1.14175, DOI 10.1609/ICWSM.V5I1.14175]
+   Noulas A, 2012, PROCEEDINGS OF 2012 ASE/IEEE INTERNATIONAL CONFERENCE ON PRIVACY, SECURITY, RISK AND TRUST AND 2012 ASE/IEEE INTERNATIONAL CONFERENCE ON SOCIAL COMPUTING (SOCIALCOM/PASSAT 2012), P144, DOI 10.1109/SocialCom-PASSAT.2012.70
+   Onnela JP, 2007, P NATL ACAD SCI USA, V104, P7332, DOI 10.1073/pnas.0610245104
+   Ottoni R., 2014, ICWSM
+   Padgett JF, 2006, AM J SOCIOL, V111, P1463, DOI 10.1086/498470
+   Pappalardo L, 2012, 2012 IEEE/ACM INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING (ASONAM), P1040, DOI 10.1109/ASONAM.2012.180
+   Pedregosa F, 2011, J MACH LEARN RES, V12, P2825
+   Rodrigue J.P., 2013, GEOGRAPHY TRANSPORT, DOI DOI 10.4324/9780203371183
+   Rossetti G., 2011, 2011 IEEE International Conference on Data Mining Workshops, P979, DOI 10.1109/ICDMW.2011.150
+   Scellato S., 2011, ICWSM, V11, P329
+   Scellato S., 2011, Proceedings of the 17th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, P1046
+   Szell M, 2010, P NATL ACAD SCI USA, V107, P13636, DOI 10.1073/pnas.1004008107
+   Wang D., 2011, P 17 ACM SIGKDD INT, P1100, DOI [10.1145/2020408.2020581, DOI 10.1145/2020408.2020581]
+   Yang Y, 2012, IEEE DATA MINING, P755, DOI 10.1109/ICDM.2012.144
+   Zhong C, 2014, WWW
+NR 39
+TC 69
+Z9 73
+U1 3
+U2 47
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+EI 2193-1127
+J9 EPJ DATA SCI
+JI EPJ Data Sci.
+PD JUL 26
+PY 2016
+VL 5
+AR 24
+DI 10.1140/epjds/s13688-016-0087-z
+PG 17
+WC Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Mathematical Methods In Social Sciences
+GA EA9OB
+UT WOS:000386972500001
+PM 32355599
+OA Green Published, gold, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Milojevic, S
+AF Milojevic, Stasa
+TI Revisiting the connection between Solar eruptions and primary headaches
+   and migraines using Twitter
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID GEOMAGNETIC-ACTIVITY; GLOBAL BURDEN; WEATHER; TRIGGERS; STRESS
+AB Many internal and environmental triggers of primary headaches have been proposed, but establishing firm evidence for any of them has proved elusive. Geomagnetic storms, the disturbances of Earth's magnetic field following Solar eruptions, have been proposed as one such trigger. In this study, we utilized a vast amount of self-reported symptoms from the online social networking service Twitter in order to investigate a purported link between the level of geomagnetic activity and the onset of primary headaches and migraines. We analyzed 63 million keyword-bearing messages posted over the three years covering the maximum of Solar Cycle 24. No correlation has been found despite the large sample size. The simulation reveals that the significant correlation would have emerged even if only 1% of headache (2% of migraine) instances were caused by geomagnetic disturbances, thus placing very low upper limits on the prevalence of this trigger among Twitter users.
+C1 [Milojevic, Stasa] Indiana Univ, Sch Informat & Comp, Ctr Complex Networks & Syst Res, Bloomington, IN 47408 USA.
+C3 Indiana University System; Indiana University Bloomington
+RP Milojevic, S (corresponding author), Indiana Univ, Sch Informat & Comp, Ctr Complex Networks & Syst Res, Bloomington, IN 47408 USA.
+EM smilojev@indiana.edu
+CR Ahlwardt K, 2014, J AM DENT ASSOC, V145, P737, DOI 10.14219/jada.2014.30
+   Bartels J., 1939, TERR MAGN ATMOS ELEC, V44, P411, DOI [DOI 10.1029/TE044I004P00411, 10.1029/TE044i004p00411]
+   Becker WJ, 2011, CEPHALALGIA, V31, P387, DOI 10.1177/0333102410385583
+   BLAU JN, 1992, PATHOL BIOL, V40, P367
+   Boteler DH, 1998, ADV SPACE RES, V22, P17, DOI 10.1016/S0273-1177(97)01096-X
+   Chunara R, 2012, AM J TROP MED HYG, V86, P39, DOI 10.4269/ajtmh.2012.11-0597
+   Close J, 2012, P ROY SOC B-BIOL SCI, V279, P2081, DOI 10.1098/rspb.2012.0324
+   DEMATTEIS G, 1994, HEADACHE, V34, P41
+   FLEISS JL, 1973, EDUC PSYCHOL MEAS, V33, P613, DOI 10.1177/001316447303300309
+   Friedman DI, 2009, HEADACHE, V49, P941, DOI 10.1111/j.1526-4610.2009.01443.x
+   Golder SA, 2011, SCIENCE, V333, P1878, DOI 10.1126/science.1202775
+   GOSLING JT, 1990, GEOPHYS RES LETT, V17, P901, DOI 10.1029/GL017i007p00901
+   Hathaway DH, 2015, LIVING REV SOL PHYS, V12, DOI 10.1007/lrsp-2015-4
+   Kelman L, 2007, CEPHALALGIA, V27, P394, DOI 10.1111/j.1468-2982.2007.01303.x
+   Kostkova P, 2014, ACM TRANS MANAG INF, V5, DOI 10.1145/2597892
+   KURITZKY A, 1987, HEADACHE, V27, P87, DOI 10.1111/j.1526-4610.1987.hed2702087.x
+   Lazer D, 2009, SCIENCE, V323, P721, DOI 10.1126/science.1167742
+   Linnman C, 2013, CEPHALALGIA, V33, P68, DOI 10.1177/0333102412465207
+   Nascimento TD, 2014, J MED INTERNET RES, V16, P205, DOI 10.2196/jmir.3265
+   Palmer SJ, 2006, SURV GEOPHYS, V27, P557, DOI 10.1007/s10712-006-9010-7
+   Paul MJ, 2014, PLOS ONE, V9, DOI [10.1371/journal.pone.0103408, 10.1371/currents.outbreaks.90b9ed0f59bae4ccaa683a39865d9117]
+   Prince PB, 2004, HEADACHE, V44, P596, DOI 10.1111/j.1526-4610.2004.446008.x
+   Sauro KM, 2009, HEADACHE, V49, P1378, DOI [10.1111/j.1526-4610.2009.01486.x, 10.1111/j.1526-4610.2009.01476.x]
+   Signorini A, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0019467
+   Steiner TJ, 2013, J HEADACHE PAIN, V14, DOI 10.1186/1129-2377-14-1
+   Stovner LJ, 2007, CEPHALALGIA, V27, P193, DOI 10.1111/j.1468-2982.2007.01288.x
+   Vos T, 2012, LANCET, V380, P2163, DOI 10.1016/S0140-6736(12)61729-2
+   WILKINSON M, 1979, HEADACHE, V19, P375, DOI 10.1111/j.1526-4610.1979.hed1907375.x
+   Zebenholzer K, 2011, CEPHALALGIA, V31, P391, DOI 10.1177/0333102410385580
+NR 29
+TC 6
+Z9 6
+U1 0
+U2 7
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD DEC 23
+PY 2016
+VL 6
+AR 39769
+DI 10.1038/srep39769
+PG 7
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA EG0XC
+UT WOS:000390754700001
+PM 28008966
+OA gold, Green Published
+DA 2024-11-22
+ER

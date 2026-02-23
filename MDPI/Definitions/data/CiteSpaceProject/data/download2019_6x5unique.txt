@@ -1,0 +1,517 @@
+
+PT J
+AU Zeng, RX
+   Zhu, D
+AF Zeng, Runxi
+   Zhu, Di
+TI A model and simulation of the emotional contagion of netizens in the
+   process of rumor refutation
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID ONLINE SOCIAL NETWORKS; INFORMATION DIFFUSION; OPINION EVOLUTION;
+   SENTIMENT; MEDIA; PROPAGATION; ACCEPTANCE; COMPLEX; SPREAD
+AB The emotional contagion of netizens is an important factor that accelerates the spread of rumors, and it is also key to the effectiveness of rumor refutation. Based on the existing emotional model, we improved the method for calculating the emotional value and the transformation rules to simulate how the infection transforms individual emotion to group emotion during rumor refutation. The results show that the cycle and trend of netizen emotional change vary by period, but the final distribution structure presents a relatively stable state. The factors that affect the emotional changes of netizens are mainly objective and subjective aspects, both of which can promote the evolution of emotional contagion. The objective aspect depends on the speed and credibility of the rumor, and the subjective aspect depends on the degree of intimacy between netizens. After rumor refutation, emotions generally change from negative emotions to positive or immune emotions.
+C1 [Zeng, Runxi; Zhu, Di] Chongqing Univ, Sch Journalism & Commun, Ctr Commun & Social Dev, Chongqing 401331, Peoples R China.
+C3 Chongqing University
+RP Zeng, RX (corresponding author), Chongqing Univ, Sch Journalism & Commun, Ctr Commun & Social Dev, Chongqing 401331, Peoples R China.
+EM zrx@cqu.edu.cn
+RI Zhu, Di/JAZ-1513-2023; 曾, 润喜/G-1135-2010
+OI zhu, di/0000-0001-7840-4273; Zeng, Runxi/0000-0002-8353-9479
+FU National Social Science Fund of China [18BZZ078]
+FX This work was supported by the National Social Science Fund of China
+   (Grant No. 18BZZ078).
+CR Bae Y, 2012, J AM SOC INF SCI TEC, V63, P2521, DOI 10.1002/asi.22768
+   Barsade S. G., 2006, ADM SCI Q, V47, P644
+   Basak AE, 2018, COMPUT GRAPH-UK, V72, P70, DOI 10.1016/j.cag.2018.02.004
+   Berger J, 2014, J CONSUM PSYCHOL, V24, P586, DOI 10.1016/j.jcps.2014.05.002
+   Berinsky AJ, 2017, BRIT J POLIT SCI, V47, P241, DOI 10.1017/S0007123415000186
+   Bordia P, 2004, SOC PSYCHOL QUART, V67, P33, DOI 10.1177/019027250406700105
+   Bordia P, 2002, ASIAN J SOC PSYCHOL, V5, P49, DOI 10.1111/1467-839X.00093
+   Bordia P, 2000, J APPL SOC PSYCHOL, V30, P2309, DOI 10.1111/j.1559-1816.2000.tb02438.x
+   Borge-Holthoefer J, 2012, PHYS REV E, V85, DOI 10.1103/PhysRevE.85.026116
+   Bosse T, 2009, PRINC PRACT MULT SYS
+   Brockmann D, 2013, SCIENCE, V342, P1337, DOI 10.1126/science.1245200
+   Coviello L, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0090315
+   Daley DJ., 1965, Rev. Mod. Phys, V1, P42, DOI DOI 10.1093/IMAMAT/1.1.42
+   Deng L, 2012, PHYSICA A, V391, P6409, DOI 10.1016/j.physa.2012.07.037
+   Dezecache G, 2015, TRENDS COGN SCI, V19, P297, DOI 10.1016/j.tics.2015.03.011
+   DiFonzo N, 2007, DIOGENES, V54, P19, DOI 10.1177/0392192107073433
+   DiFonzo N, 2013, NATURE, V493, P135, DOI 10.1038/493135a
+   DiFonzo N, 2010, SOC PERSONAL PSYCHOL, V4, P1124, DOI 10.1111/j.1751-9004.2010.00321.x
+   Doer B, 2012, COMMUN ACM, V55, P70, DOI 10.1145/2184319.2184338
+   Durupinar F, 2016, IEEE T VIS COMPUT GR, V22, P2145, DOI 10.1109/TVCG.2015.2501801
+   Fan R, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0110184
+   Ferrara E, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0142390
+   Fu LB, 2014, PHYSICA A, V405, P380, DOI 10.1016/j.physa.2014.03.043
+   Gomes O, 2015, PHYSICA A, V428, P224, DOI 10.1016/j.physa.2015.01.084
+   Gosling SD, 2011, CYBERPSYCH BEH SOC N, V14, P483, DOI 10.1089/cyber.2010.0087
+   Hatfield E, 2010, CURRENT DIRECTIONS P, V2, P96
+   Hatfield E., 1992, Review of personality and social psychology
+   Hatfield E., 2014, Collective Emotions, P108, DOI DOI 10.1093/ACPROF:OSO/9780199659180.003.0008
+   Hess U, 2014, SOC PERSONAL PSYCHOL, V8, P45, DOI 10.1111/spc3.12083
+   Huo LA, 2018, PHYSICA A, V506, P24, DOI 10.1016/j.physa.2018.03.063
+   Iyer A, 2008, EUR REV SOC PSYCHOL, V19, P86, DOI 10.1080/10463280802079738
+   Jamroziak K, 2017, BLOOD, V130
+   Kuang WB, 2018, SOCIOL MED JOUR CHIN, P225, DOI 10.1007/978-981-13-0914-4_9
+   Kwon KH, 2016, ASIAN J COMMUN, V26, P201, DOI 10.1080/01292986.2015.1130157
+   Li H, 2014, COMPUT HUM BEHAV, V41, P278, DOI 10.1016/j.chb.2014.08.009
+   Liu WP, 2019, APPL MATH COMPUT, V343, P214, DOI 10.1016/j.amc.2018.09.048
+   Liu Y, 2015, SCI REPORTS, V5
+   Lobato E, 2014, APPL COGNITIVE PSYCH, V28, P617, DOI 10.1002/acp.3042
+   Lorenzo C, 2014, PLOS ONE, V9
+   Ma J, 2016, PHYSICA A, V447, P108, DOI 10.1016/j.physa.2015.12.005
+   Mackie D. M, 1993, AFFECT COGNITION STE, P371
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Michelson G., 2000, Management Decision, V38, P339, DOI DOI 10.1108/00251740010340508
+   Na K, 2018, J HEALTH COMMUN, V23, P791, DOI 10.1080/10810730.2018.1527877
+   Nekovee M, 2007, PHYSICA A, V374, P457, DOI 10.1016/j.physa.2006.07.017
+   Neumann R, 2000, J PERS SOC PSYCHOL, V79, P211, DOI 10.1037//0022-3514.79.2.211
+   Ozturk P, 2015, P ANN HICSS, P2406, DOI 10.1109/HICSS.2015.288
+   Paukert AL, 2008, BEHAV THER, V39, P277, DOI 10.1016/j.beth.2007.08.001
+   Sahafizadeh E, 2018, PHYSICA A, V506, P412, DOI 10.1016/j.physa.2018.04.038
+   Schul Y, 2008, J EXP SOC PSYCHOL, V44, P1293, DOI 10.1016/j.jesp.2008.05.003
+   Si XM, 2017, PHYSICA A, V471, P480, DOI 10.1016/j.physa.2016.11.018
+   Si XM, 2016, PHYSICA A, V451, P549, DOI 10.1016/j.physa.2015.12.152
+   Stieglitz S, 2013, J MANAGE INFORM SYST, V29, P217, DOI 10.2753/MIS0742-1222290408
+   Trevors GJ, 2016, DISCOURSE PROCESS, V53, P339, DOI 10.1080/0163853X.2015.1136507
+   Verbeke W, 1997, PSYCHOL MARKET, V14, P617, DOI 10.1002/(SICI)1520-6793(199709)14:6<617::AID-MAR6>3.3.CO;2-U
+   Vosoughi S, 2018, SCIENCE, V359, P1146, DOI 10.1126/science.aap9559
+   Wang XM, 2016, KNOWL-BASED SYST, V109, P35, DOI 10.1016/j.knosys.2016.06.022
+   Warren ZJ, 2015, CULT PSYCHOL, V21, P359, DOI 10.1177/1354067X15601190
+   Wróbel M, 2019, PERSPECT PSYCHOL SCI, V14, P437, DOI 10.1177/1745691618808523
+   [徐恪 Xu Ke], 2014, [计算机学报, Chinese Journal of Computers], V37, P165
+   Zeng L, 2016, P ANN HICSS, P1969, DOI 10.1109/HICSS.2016.248
+   Zhao LJ, 2014, PHYSICA A, V394, P17, DOI 10.1016/j.physa.2013.09.057
+   Zhu H, 2019, PHYSICA A, V513, P257, DOI 10.1016/j.physa.2018.09.015
+   Zhu HM, 2018, PHYSICA A, V492, P2034, DOI 10.1016/j.physa.2017.11.121
+   Zschaler G, 2012, EUR PHYS J-SPEC TOP, V211, P1, DOI 10.1140/epjst/e2012-01648-5
+NR 65
+TC 53
+Z9 55
+U1 7
+U2 104
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD OCT 2
+PY 2019
+VL 9
+AR 14164
+DI 10.1038/s41598-019-50770-4
+PG 15
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA JB3UF
+UT WOS:000488481500027
+PM 31578405
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Requena, F
+   Ayuso, L
+AF Requena, Felix
+   Ayuso, Luis
+TI Individualism or complementarity? The effect of digital personal
+   networks on face-to-face personal networks
+SO INFORMATION COMMUNICATION & SOCIETY
+LA English
+DT Article
+DE Social support networks; virtual social networks; sociability;
+   information and communication technologies
+AB Information and communication technologies (ICTs) are affecting ways of networking in advanced societies. This study analyzes the interaction of face-to-face social networks and digital social networks in Spain, a Mediterranean country characterized by significant sociability in every social sphere. Our aim is to contrast this with the hypothesis that new forms of networking can lead to isolation or individualization. This study uses two surveys carried out by the Centro de Investigaciones Sociol?gicas [Center for Sociological Research] in 2014 and 2016, involving 4922 people over 18 years of age who were asked about these two types of networks (face-to-face and digital) and other topics related to demographics, family, social position, and personality traits. The results indicate complementarity between networks: digital networks served to enrich face-to-face networks, especially when people described themselves as extraverted. However, nuances were observed in relation to rural or urban habitat and forms of coexistence among those interviewed.
+C1 [Requena, Felix; Ayuso, Luis] Univ Malaga, Fac Econ Sci, Dept Sociol, Campus El Ejido, E-29071 Malaga, Spain.
+C3 Universidad de Malaga
+RP Requena, F (corresponding author), Univ Malaga, Fac Econ Sci, Dept Sociol, Campus El Ejido, E-29071 Malaga, Spain.
+EM frequena@uma.es
+FU Ministry of Economy and Competitiveness of Spain [CSO-2013-46440-P,
+   CSO-2017-86349-P]
+FX Financial support for this research was provided by the Ministry of
+   Economy and Competitiveness of Spain (Project no. CSO-2013-46440-P;
+   CSO-2017-86349-P). The authors are grateful for this funding support.
+CR Anderson B., 2002, INTERNET EVERYDAY LI, P139
+   [Anonymous], 1996, RISE NETWORK SOC CIT
+   [Anonymous], 1994, MAKING DEMOCRACY WOR
+   [Anonymous], 1994, Reflexive modernization: Politics, tradition, and aesthetics in the modern social order
+   [Anonymous], 2003, UNS AVEC AUTRES QUAN
+   Beilmann M, 2012, TRAMES-J HUMANIT SOC, V16, P205, DOI 10.3176/tr.2012.3.01
+   Boase J., 2006, STRENGTH INTERNET TI
+   Castells M., 2013, The Impact of the Internet on Society: A Global Perspective, P127
+   Castells M., 1997, The Power of Identity, The Information Age: Economy, Society and Culture
+   Castells M., 2007, La transicion a la sociedad red
+   Castells M., 1998, END MILLENNIUM INFOR, V3
+   Dawson M, 2012, ACTA SOCIOL, V55, P305, DOI 10.1177/0001699312447634
+   De Miguel Veronica., 2015, Revista Espanola de Investigaciones Sociologicas, V150, P151
+   Dunbar RIM, 2015, SOC NETWORKS, V43, P39, DOI 10.1016/j.socnet.2015.04.005
+   Ellison N., 2011, NETWORKED SELF, P124
+   Foucault B., 2009, 59 ANN C INT COMM AS
+   Gardner H., 2013, Creating ethnicities and identities in the Roman world
+   Gosling SD, 2003, J RES PERS, V37, P504, DOI 10.1016/S0092-6566(03)00046-1
+   Hampton K.N., 2009, Social Isolation and New Technology
+   Howard Philip., 2002, INTERNET EVERY DAY L, P45, DOI DOI 10.1002/9780470774298.CH1
+   John O.P., 1999, HDB PERSONALITY THEO
+   Katz JamesE., 2002, INTERNET EVERYDAY LI, P114
+   Lee PSN, 2011, SOC INDIC RES, V100, P375, DOI 10.1007/s11205-010-9618-3
+   Leung L, 2001, NEW MEDIA SOC, V3, P483, DOI 10.1177/14614440122226209
+   Licoppe C, 2005, SOC NETWORKS, V27, P317, DOI 10.1016/j.socnet.2004.11.001
+   Licoppe C, 2004, ENVIRON PLANN D, V22, P135, DOI 10.1068/d323t
+   Ling R.S., 2008, New tech, new ties
+   Lubbers MJ, 2010, SOC NETWORKS, V32, P91, DOI 10.1016/j.socnet.2009.05.001
+   Parks M., 2011, NETWORKED SELF IDENT, P105
+   Rainie L, 2012, NETWORKED: THE NEW SOCIAL OPERATING SYSTEM, P1
+   Rammstedt B, 2007, J RES PERS, V41, P203, DOI 10.1016/j.jrp.2006.02.001
+   Requena Felix, 2008, Redes sociales y sociedad civil
+   Sennett R., 2006, CULTURE NEW CAPITALI
+   Stoilova M, 2014, SOCIOLOGY, V48, P1075, DOI 10.1177/0038038514523697
+   Thrift N, 2004, ENVIRON PLANN D, V22, P175, DOI 10.1068/d321t
+   Wellman B., 2002, The Internet in everyday life
+   Wellman B., 2008, Networked families
+   Word Bank, 2015, MOB CELL SUBSCR PER
+NR 38
+TC 16
+Z9 17
+U1 3
+U2 22
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1369-118X
+EI 1468-4462
+J9 INFORM COMMUN SOC
+JI Info. Commun. Soc.
+PD DEC 6
+PY 2019
+VL 22
+IS 14
+BP 2097
+EP 2111
+DI 10.1080/1369118X.2018.1477968
+PG 15
+WC Communication; Sociology
+WE Social Science Citation Index (SSCI)
+SC Communication; Sociology
+GA JR9OG
+UT WOS:000499945100005
+OA Green Accepted
+DA 2024-11-22
+ER
+
+PT J
+AU Rathnayake, C
+   Suthers, DD
+AF Rathnayake, Chamil
+   Suthers, Daniel D.
+TI 'Enclaves of exposure': A conceptual viewpoint to explore cross-ideology
+   exposure on social network sites
+SO SOCIAL SCIENCE JOURNAL
+LA English
+DT Article
+DE Cross-ideology exposure; Political controversy; Social media; Sri Lanka;
+   Ethnic conflict
+ID SRI-LANKA; ONLINE
+AB Previous studies indicate mixed results as to whether social media constitutes ideological echo chambers. This inconsistency may arise due to a lack of theoretical frames that acknowledge the fact that contextual and technological factors allow varying levels of cross-cutting exposure on social media. This study suggests an alternative theoretical lens, divergence of exposure - co-existence of user groups with varying degrees of cross-ideology exposure related to the same issue - as a notion that serves as an overarching perspective. We suggest that mediated spaces, such as social media groups, can serve as enclaves of exposure that offer affordances for formation of user groups irrespective of offline social distinctions. Yet social elements cause some of them to display more cross-ideology exchange than others. To establish this claim empirically, we examine two Facebook page user networks ( 'Sri Lanka's Killing Fields' and 'Sri Lankans Hate Channel 4') that emerged in response to Sri Lanka's Killing Fields, a controversial documentary broadcast by Channel 4 that accused Sri Lankan armed forces of human rights violation during the final stage of the separatist conflict in Sri Lanka. The results showed that the Facebook group network that supported the claims made by Channel 4 is more diverse in terms of ethnic composition, and is neither assortative nor disassortative across ethnicity, suggesting the presence of cross-ethnicity interaction. The pro-allegiant group was largely homogenous and less active, resembling a passive echo chamber. 'Social mediation' repurposes enclaves of exposure to represent polarized ideologies where some venues display cross-ideology exposure, while others resemble an 'echo chamber'. (C) 2018 Western Social Science Association. Published by Elsevier Inc. All rights reserved.
+C1 [Rathnayake, Chamil] Univ Strathclyde, Sch Humanities, Lord Hope Level 4, Glasogow G4 0LT, Scotland.
+   [Suthers, Daniel D.] Univ Hawaii, Dept Informat & Comp Sci, Honolulu, HI 96822 USA.
+C3 University of Strathclyde; University of Hawaii System
+RP Rathnayake, C (corresponding author), Univ Strathclyde, Sch Humanities, Lord Hope Level 4, Glasogow G4 0LT, Scotland.
+EM chamil.rathnayake@strath.ac.uk; Suthers@hawaii.edu
+RI rathnayake, chamil/AFR-7922-2022
+OI Rathnayake, Chamil/0000-0003-1964-2639
+CR [Anonymous], 2011, BBC
+   [Anonymous], INFORM COMMUNICATION
+   [Anonymous], 2010, NETWORKS INTRO, DOI [DOI 10.1093/ACPROF:OSO/9780199206650.001.0001, DOI 10.1093/cercor/bhj127]
+   Bakshy E, 2015, SCIENCE, V348, P1130, DOI 10.1126/science.aaa1160
+   Barberá P, 2015, PSYCHOL SCI, V26, P1531, DOI 10.1177/0956797615594620
+   BERKOWITZ MW, 1979, PRELIMINARY MANUAL C
+   Blondel V. D, 2008, STAT MECH THEORY EXP, V10, P1000
+   Bouffard Sonia., 2006, J S ASIAN DEV, V1, P151
+   Boyd d., 2011, NETWORKED SELF IDENT, P39, DOI DOI 10.4324/9780203876527
+   Bruns A., 2017, FUTURE JOURNALISM 20
+   Campbell HA, 2011, MEDIA CULT SOC, V33, P709, DOI 10.1177/0163443711404464
+   Carpini MXD, 2004, ANNU REV POLIT SCI, V7, P315, DOI 10.1146/annurev.polisci.7.121003.091630
+   Conover MD, 2012, EPJ DATA SCI, V1, DOI 10.1140/epjds6
+   De Silva A., 2009, PERSONAL NAMES ASIA, P262
+   de Silva KM, 2010, INDIA Q, V66, P237, DOI 10.1177/097492841006600301
+   Feith D, 2010, GLOB CHANG PEACE SEC, V22, P345, DOI 10.1080/14781158.2010.510270
+   Garcia D, 2015, POLICY INTERNET, V7, P46, DOI 10.1002/poi3.82
+   Grasmuck S, 2009, J COMPUT-MEDIAT COMM, V15, P158, DOI 10.1111/j.1083-6101.2009.01498.x
+   Grömping M, 2014, ASIA PAC MEDIA EDUC, V24, P39, DOI 10.1177/1326365X14539185
+   Himelboim I, 2014, J BROADCAST ELECTRON, V58, P76, DOI 10.1080/08838151.2013.875017
+   Himelboim I, 2013, J COMPUT-MEDIAT COMM, V18, P40, DOI 10.1111/jcc4.12001
+   Hofstra B, 2018, BIG DATA SOC, V5, DOI 10.1177/2053951718761141
+   Karlsen R, 2017, EUR J COMMUN, V32, P257, DOI 10.1177/0267323117695734
+   Kim Y, 2011, COMPUT HUM BEHAV, V27, P971, DOI 10.1016/j.chb.2010.12.001
+   Kolaczyk ED, 2014, USE R, V65, P1, DOI 10.1007/978-1-4939-0983-4
+   La John., 2004, Peace Review, V16, P379, DOI [10.1080/1040265042000278630, DOI 10.1080/1040265042000278630]
+   Lee FL, 2016, Communication and the Public, V1, P56, DOI [DOI 10.1177/2057047315617763, 10.1177/2057047315617763]
+   Marcuse P, 1997, URBAN AFF REV, V33, P228, DOI 10.1177/107808749703300206
+   Marres N, 2015, SOC MEDIA SOC, V1, DOI 10.1177/2056305115604176
+   Matusov E., 1996, MIND CULT ACT, V3, P25, DOI [DOI 10.1207/S15327884MCA0301_4, DOI 10.1207/S15327884MCA03014]
+   Orjuela C, 2016, J S ASIAN DEV, V11, P149, DOI 10.1177/0973174116648818
+   Quintelier E, 2012, POLIT RES QUART, V65, P868, DOI 10.1177/1065912911411099
+   Rhee S. L, 2015, DISS ABSTR INT A, V75, DOI [10.1177/0020872817741183, DOI 10.1177/0020872817741183]
+   Turner B.S., 2007, EUR J SOC THEORY, V10, P287, DOI DOI 10.1177/1368431007077807
+   Uyangoda J., 2006, SRI LANKAS ETHNIC CO
+   Uyangoda J, 2010, ASIAN SURV, V50, P104, DOI 10.1525/as.2010.50.1.104
+   Vaccari C, 2016, SOC MEDIA SOC, V2, DOI 10.1177/2056305116664221
+   Venturini T, 2010, PUBLIC UNDERST SCI, V19, P258, DOI 10.1177/0963662509102694
+   Wojcieszak ME, 2009, J COMMUN, V59, P40, DOI 10.1111/j.1460-2466.2008.01403.x
+   Zhang Chunni, 2016, Chin J Sociol, V2, P214, DOI 10.1177/2057150X16633580
+NR 40
+TC 5
+Z9 6
+U1 3
+U2 24
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0362-3319
+EI 1873-5355
+J9 SOC SCI J
+JI Soc. Sci. J.
+PD JUN
+PY 2019
+VL 56
+IS 2
+BP 145
+EP 155
+DI 10.1016/j.soscij.2018.08.015
+PG 11
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA HY5TD
+UT WOS:000468189900001
+OA Green Accepted
+DA 2024-11-22
+ER
+
+PT J
+AU Zhuang, XW
+   Jin, X
+   Ren, LD
+AF Zhuang, Xiaowei
+   Jin, Xiu
+   Ren, Land D.
+TI Based on Fund Managers' Emotional Labor to Discuss the Effect of Social
+   Network on Work Performance
+SO REVISTA DE CERCETARE SI INTERVENTIE SOCIALA
+LA English
+DT Article
+DE social network; fund manager; emotional labor; work performance;
+   adolescence; relationship
+ID ALCOHOL; MODEL
+AB Interpersonal relationship is an important element for business activity in Chinese societies. Venture capital companies have invested in various industries in past years and the funds of most venture capital companies are not large that venture industry would form an investment network to construct the information flow channel with the network activity among managers through the social network. It does not simply enhance the contact with other potential partners, but is also the information source and resource acquisition method. The difference in fund managers' investment decision-making lies in individual characteristics as well as the position in the social network to further influence the investment performance. Aiming at fund managers in Beijing, the research results show 1.negative relations between social network and emotional labor, 2.negative relations between emotional labor and work performance, and 3.positive relations between social network and work performance. According to the results to propose suggestions, it is expected to assist in selecting good fund managers, help fund managers make correct decisions, and benefit enterprises creating competitive advantage.
+C1 [Zhuang, Xiaowei; Jin, Xiu] Northeastern Univ, Sch Business Adm, Shenyang, Liaoning, Peoples R China.
+   [Ren, Land D.] Pusan Natl Univ, Dept Naval Architecture & Ocean Engn, Busan, South Korea.
+C3 Northeastern University - China; Pusan National University
+RP Zhuang, XW (corresponding author), Northeastern Univ, Sch Business Adm, Shenyang, Liaoning, Peoples R China.
+EM bhalo8695@sina.com; xjin@mail.neu.edu.cn; rendi1218@hotmail.com
+RI Zhuang, Xiaowei/GLT-6857-2022
+FU National Science Foundation of China [71571041]
+FX This work was supported by the National Science Foundation of China (No:
+   71571041).
+CR Akerman N, 2015, J INT ENTREP, V13, P242, DOI 10.1007/s10843-015-0152-x
+   [Anonymous], 2015, Introduction to Qualitative Research Methods: A Guidebook and Resource
+   Baker WE, 2016, J PROD INNOVAT MANAG, V33, P104, DOI 10.1111/jpim.12263
+   Bolt-Evensen K, 2018, INT J BEHAV NUTR PHY, V15, DOI 10.1186/s12966-018-0646-8
+   Chan K, 2016, YOUNG CONSUM, V17, P32, DOI 10.1108/YC-03-2015-00520
+   Chen MH, 2015, CREAT INNOV MANAG, V24, P493, DOI 10.1111/caim.12108
+   Cruwys T, 2015, APPETITE, V86, P3, DOI 10.1016/j.appet.2014.08.035
+   Bibiloni MD, 2016, NUTRIENTS, V8, DOI 10.3390/nu8070389
+   Dellyana D, 2016, INT J BUS, V21, P191
+   Domahidi E, 2018, MEDIA PSYCHOL, V21, P288, DOI 10.1080/15213269.2016.1257393
+   Gasser L, 2017, J APPL DEV PSYCHOL, V49, P1, DOI 10.1016/j.appdev.2016.12.002
+   Giese H, 2015, FRONT PSYCHOL, V6, DOI [10.3389/fpsyc.2015.01308, 10.3389/fpsyg.2015.01308]
+   Guo H, 2016, ASIA PAC J MANAG, V33, P533, DOI 10.1007/s10490-015-9428-x
+   Hsieh CS, 2016, J APPL ECONOMET, V31, P301, DOI 10.1002/jae.2426
+   Illescas-Zarate D, 2015, BMC PUBLIC HEALTH, V15, DOI 10.1186/s12889-015-1699-0
+   Kwahk KY, 2016, COMPUT HUM BEHAV, V55, P826, DOI 10.1016/j.chb.2015.09.044
+   Lazega E, 2016, SOC NETWORKS, V47, P1, DOI 10.1016/j.socnet.2016.04.001
+   Lee IC, 2015, DRUG ALCOHOL DEPEN, V153, P50, DOI 10.1016/j.drugalcdep.2015.06.010
+   Lin X, 2015, EMPIR ECON, V49, P929, DOI 10.1007/s00181-014-0897-4
+   Nam S, 2015, NURS OUTLOOK, V63, P299, DOI 10.1016/j.outlook.2014.11.001
+   Nieto M, 2016, INT ENTREP MANAG J, V12, P507, DOI 10.1007/s11365-014-0353-0
+   Patacchini E, 2017, J ECON BEHAV ORGAN, V134, P190, DOI 10.1016/j.jebo.2016.10.020
+   Ren SG, 2016, INT ENTREP MANAG J, V12, P465, DOI 10.1007/s11365-014-0350-3
+   Shih Y.- H., 2015, 2015 APHA ANN M CHIC
+   Singh GM, 2015, CIRCULATION, V132, P639, DOI 10.1161/CIRCULATIONAHA.114.010636
+   Smirnov I, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0183473
+   Van Ryzin MJ, 2016, ADDICT BEHAV, V53, P168, DOI 10.1016/j.addbeh.2015.10.017
+   Vartanian LR, 2015, SOC INFLUENCE, V10, P119, DOI 10.1080/15534510.2015.1008037
+NR 28
+TC 0
+Z9 0
+U1 0
+U2 13
+PU EXPERT PROJECTS PUBLISHING
+PI IASI
+PA IASI, STR VOINESTI 63, IASI, 700615, ROMANIA
+SN 1583-3410
+EI 1584-5397
+J9 REV CERCET INTERV SO
+JI Rev. Cercet. Interv. Soc.
+PD MAR
+PY 2019
+VL 64
+BP 46
+EP 56
+DI 10.33788/rcis.64.4
+PG 11
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA JW1KH
+UT WOS:000502817200004
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Vasconcelos, VV
+   Levin, SA
+   Pinheiro, FL
+AF Vasconcelos, Vitor V.
+   Levin, Simon A.
+   Pinheiro, Flavio L.
+TI Consensus and polarization in competing complex contagion processes
+SO JOURNAL OF THE ROYAL SOCIETY INTERFACE
+LA English
+DT Article
+DE information diffusion; complex contagion processes; social networks;
+   population dynamics; social influence; spatial correlations
+ID STATISTICAL-MECHANICS; OPINION DYNAMICS; EVOLUTION; COOPERATION;
+   NETWORKS; CASCADES; MODELS
+AB The rate of adoption of new information depends on reinforcement from multiple sources in a way that often cannot be described by simple contagion processes. In such cases, contagion is said to be complex. Complex contagion happens in the diffusion of human behaviours, innovations and knowledge. Based on that evidence, we propose a model that considers multiple, potentially asymmetric and competing contagion processes and analyse its respective population-wide dynamics, bringing together ideas from complex contagion, opinion dynamics, evolutionary game theory and language competition by shifting the focus from individuals to the properties of the diffusing processes. We show that our model spans a dynamical space in which the population exhibits patterns of consensus, dominance, and, importantly, different types of polarization, a more diverse dynamical environment that contrasts with single simple contagion processes. We show how these patterns emerge and how different population structures modify them through a natural development of spatial correlations: structured interactions increase the range of the dominance regime by reducing that of dynamic polarization, tight modular structures can generate structural polarization, depending on the interplay between fundamental properties of the processes and the modularity of the interaction network.
+C1 [Vasconcelos, Vitor V.; Levin, Simon A.] Princeton Univ, Dept Ecol & Evolutionary Biol, Princeton, NJ 08544 USA.
+   [Pinheiro, Flavio L.] Univ Nova Lisboa, Nova Informat Management Sch NOVA IMS, Lisbon, Portugal.
+   [Pinheiro, Flavio L.] MIT, Media Lab, Cambridge, MA 02139 USA.
+C3 Princeton University; Universidade Nova de Lisboa; Massachusetts
+   Institute of Technology (MIT)
+RP Vasconcelos, VV (corresponding author), Princeton Univ, Dept Ecol & Evolutionary Biol, Princeton, NJ 08544 USA.; Pinheiro, FL (corresponding author), Univ Nova Lisboa, Nova Informat Management Sch NOVA IMS, Lisbon, Portugal.; Pinheiro, FL (corresponding author), MIT, Media Lab, Cambridge, MA 02139 USA.
+EM vvldv@princeton.edu; fpinheiro@novaims.unl.pt
+RI Vasconcelos, Vítor/JWO-3133-2024; Levin, Simon/J-1218-2014; Pinheiro,
+   Flavio/F-9214-2011; Vasconcelos, Vitor V./O-7667-2015
+OI Levin, Simon/0000-0002-8216-5639; Pinheiro, Flavio/0000-0002-0561-9641;
+   Vasconcelos, Vitor V./0000-0002-4621-5272
+FU Fundacao para a Ciencia e a Tecnologia (FCT), Portugal
+   [PTDC/MAT-STA/3358/2014, PTDC/EEI-SII/5081/2014]; US Defense Advanced
+   Research Project Agency [D17AC00005]; National Science Foundation
+   [GEO-1211972]; Army Research Office [W911NF-18-1-0325]; Masdar
+   Institute-MIT Cooperative Agreement (USA)
+   [0002/MI/MIT/CP/11/07633/GEN/G/]; MIT Media Lab Consortia; Fundação para
+   a Ciência e a Tecnologia [PTDC/MAT-STA/3358/2014,
+   PTDC/EEI-SII/5081/2014] Funding Source: FCT
+FX This work was supported by the Fundacao para a Ciencia e a Tecnologia
+   (FCT), Portugal through grant nos. PTDC/MAT-STA/3358/2014 and
+   PTDC/EEI-SII/5081/2014; by the US Defense Advanced Research Project
+   Agency D17AC00005, the National Science Foundation grant no.
+   GEO-1211972, and the Army Research Office grant no. W911NF-18-1-0325;
+   and the Masdar Institute-MIT Cooperative Agreement (USA Ref.
+   0002/MI/MIT/CP/11/07633/GEN/G/) and the MIT Media Lab Consortia.
+CR Abrams DM, 2003, NATURE, V424, P900, DOI 10.1038/424900a
+   Acemoglu D, 2011, DYN GAMES APPL, V1, P3, DOI 10.1007/s13235-010-0004-1
+   Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   Alshamsi A, 2018, NAT COMMUN, V9, DOI 10.1038/s41467-018-03740-9
+   [Anonymous], 2015, Frontiers in Physics, DOI DOI 10.3389/FPHY.2015.00071
+   [Anonymous], 2015, Theory of Computing, DOI DOI 10.4086/TOC.2015.V011A004
+   [Anonymous], 1996, Computational Mathematical Organization Theory
+   [Anonymous], 2018, Shooting high or low: Do countries benefit from entering unrelated activities?
+   Banisch S, 2012, SOC NETWORKS, V34, P549, DOI 10.1016/j.socnet.2012.06.001
+   BLUME LE, 1993, GAME ECON BEHAV, V5, P387, DOI 10.1006/game.1993.1023
+   Bornholdt S, 2011, PHYS REV LETT, V106, DOI 10.1103/PhysRevLett.106.058701
+   Broadbent S.R., 1957, Math. Proc. Cambridge, V53, P629, DOI DOI 10.1017/S0305004100032680
+   Callaway DS, 2000, PHYS REV LETT, V85, P5468, DOI 10.1103/PhysRevLett.85.5468
+   Campbell E, 2013, SCI REP-UK, V3, DOI 10.1038/srep01905
+   Castellano C, 2009, REV MOD PHYS, V81, P591, DOI 10.1103/RevModPhys.81.591
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   Chang HCH, 2018, NEW J PHYS, V20, DOI 10.1088/1367-2630/aadce7
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   Conover M.D., 2011, P INT AAAI C WEB SOC, P89
+   Cressman R, 2003, ECON LEARN SOC EVOL, P1
+   Durrett R, 2005, J ECON BEHAV ORGAN, V57, P267, DOI 10.1016/j.jebo.2003.09.017
+   Ehrlich PR, 2005, PLOS BIOL, V3, P943, DOI 10.1371/journal.pbio.0030194
+   ERDOS P, 1960, B INT STATIST INST, V38, P343
+   Evans T, 2018, ROY SOC OPEN SCI, V5, DOI 10.1098/rsos.181122
+   Fennell PG, 2019, SIAM REV, V61, P92, DOI 10.1137/16M1109345
+   FOSTER D, 1990, THEOR POPUL BIOL, V38, P219, DOI 10.1016/0040-5809(90)90011-J
+   Fu F, 2008, PHYS REV E, V78, DOI 10.1103/PhysRevE.78.016104
+   GALAM S, 1991, EUR J SOC PSYCHOL, V21, P49, DOI 10.1002/ejsp.2420210105
+   Galam S, 2008, INT J MOD PHYS C, V19, P409, DOI 10.1142/S0129183108012297
+   Gao J., 2017, Collective Learning in China's Regional Economic Development Formations of Co-Inventors During the Dot-com Bubble in the Research Triangle Region
+   Gleeson JP, 2013, PHYS REV X, V3, DOI 10.1103/PhysRevX.3.021004
+   Gleeson JP, 2011, PHYS REV LETT, V107, DOI 10.1103/PhysRevLett.107.068701
+   GRANOVETTER M, 1978, AM J SOCIOL, V83, P1420, DOI 10.1086/226707
+   Guevara MR, 2016, SCIENTOMETRICS, V109, P1695, DOI 10.1007/s11192-016-2125-9
+   Guilbeault D, 2018, COMPUT SOC SCI, P3, DOI 10.1007/978-3-319-77332-2_1
+   Hidalgo C. A., 2018, INT C COMPL SYST CAM, P451, DOI [10.1007/978-3-319-96661-8_46, DOI 10.1007/978-3-319-96661-8_46]
+   Karsai M, 2016, SCI REP-UK, V6, DOI 10.1038/srep27178
+   Karsai M, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2014.0694
+   Klimek P, 2019, J R SOC INTERFACE, V16, DOI 10.1098/rsif.2018.0731
+   Levin S., 1998, Environment and Development Economics, V3, P221
+   Masuda N, 2010, PHYS REV E, V82, DOI 10.1103/PhysRevE.82.010103
+   Min B, 2018, SCI REP-UK, V8, DOI 10.1038/s41598-018-28615-3
+   Mobilia M, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.028701
+   Molofsky J, 1999, THEOR POPUL BIOL, V55, P270, DOI 10.1006/tpbi.1998.1404
+   Moretti P, 2013, J STAT PHYS, V151, P113, DOI 10.1007/s10955-013-0704-1
+   Myers SA, 2012, IEEE DATA MINING, P539, DOI 10.1109/ICDM.2012.159
+   Nematzadeh A, 2014, PHYS REV LETT, V113, DOI 10.1103/PhysRevLett.113.088701
+   Pacheco JM, 2014, PHYS LIFE REV, V11, P573, DOI 10.1016/j.plrev.2014.02.003
+   Pinheiro FL, 2014, PHYS REV LETT, V112, DOI 10.1103/PhysRevLett.112.098702
+   Pinheiro FL, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0032114
+   Przybyla P, 2011, PHYS REV E, V84, DOI 10.1103/PhysRevE.84.031117
+   Roukny T, 2013, SCI REP-UK, V3, DOI 10.1038/srep02759
+   Santos FC, 2005, PHYS REV E, V72, DOI 10.1103/PhysRevE.72.056128
+   Santos FC, 2006, P NATL ACAD SCI USA, V103, P3490, DOI 10.1073/pnas.0508201103
+   Sigmund K, 1999, CURR BIOL, V9, pR503, DOI 10.1016/S0960-9822(99)80321-2
+   Sood V, 2005, PHYS REV LETT, V94, DOI 10.1103/PhysRevLett.94.178701
+   Sood V, 2008, PHYS REV E, V77, DOI 10.1103/PhysRevE.77.041121
+   Tavoni A, 2012, J THEOR BIOL, V299, P152, DOI 10.1016/j.jtbi.2011.07.003
+   Traulsen A, 2005, PHYS REV LETT, V95, DOI 10.1103/PhysRevLett.95.238701
+   Unicomb S, 2018, SCI REP-UK, V8, DOI 10.1038/s41598-018-21261-9
+   Valdano E, 2018, PHYS REV LETT, V120, DOI 10.1103/PhysRevLett.120.068302
+   Van Kampen N. G., 1992, Stochastic processes in physics and chemistry, V1
+   Vasconcelos VV, 2017, PHYS REV LETT, V118, DOI 10.1103/PhysRevLett.118.058301
+   Vasconcelos VV, 2015, MATH MOD METH APPL S, V25, P2503, DOI 10.1142/S0218202515400163
+   Vazquez F., 2010, J. Stat. Mech. Theory. Exp, P04007
+   Watts DJ, 2002, P NATL ACAD SCI USA, V99, P5766, DOI 10.1073/pnas.082090499
+   Watts DJ, 2007, J CONSUM RES, V34, P441, DOI 10.1086/518527
+   WEIDLICH W, 1971, BRIT J MATH STAT PSY, V24, P251, DOI 10.1111/j.2044-8317.1971.tb00470.x
+   Weng L, 2012, SCI REP-UK, V2, P1, DOI 10.1038/srep00335
+   Widder S, 2016, ISME J, V10, P2557, DOI 10.1038/ismej.2016.45
+   Wieland S, 2013, PHYS REV E, V88, DOI 10.1103/PhysRevE.88.062809
+   Xia HX, 2011, INT J KNOWL SYST SCI, V2, P72, DOI 10.4018/jkss.2011100106
+NR 72
+TC 29
+Z9 31
+U1 5
+U2 22
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 1742-5689
+EI 1742-5662
+J9 J R SOC INTERFACE
+JI J. R. Soc. Interface
+PD JUN
+PY 2019
+VL 16
+IS 155
+AR 20190196
+DI 10.1098/rsif.2019.0196
+PG 8
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA IG4EL
+UT WOS:000473756800015
+PM 31213174
+OA Green Published, Green Submitted, Bronze
+DA 2024-11-22
+ER

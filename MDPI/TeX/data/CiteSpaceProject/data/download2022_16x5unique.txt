@@ -1,0 +1,508 @@
+
+PT J
+AU Nathe, C
+   Gambuzza, LV
+   Frasca, M
+   Sorrentino, F
+AF Nathe, Chad
+   Gambuzza, Lucia Valentina
+   Frasca, Mattia
+   Sorrentino, Francesco
+TI Looking beyond community structure leads to the discovery of dynamical
+   communities in weighted networks
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID COMPUTATION; SYMMETRIES; LATTICE
+AB A fundamental question is whether groups of nodes of a complex network can possibly display long-term cluster-synchronized behavior. While this question has been addressed for the restricted classes of unweighted and labeled graphs, it remains an open problem for the more general class of weighted networks. The emergence of coordinated motion of nodes in natural and technological networks is directly related to the network structure through the concept of an equitable partition, which determines which nodes can show long-term synchronized behavior and which nodes cannot. We provide a method to detect the presence of nearly equitable partitions in weighted networks, based on minimal information about the network structure. With this approach we are able to discover the presence of dynamical communities in both synthetic and real technological, biological, and social networks, to a statistically significant level. We show that our approach based on dynamical communities is better at predicting the emergence of synchronized behavior than existing methods to detect community structure.
+C1 [Nathe, Chad; Sorrentino, Francesco] Univ New Mexico, Dept Mech Engn, Albuquerque, NM 87131 USA.
+   [Gambuzza, Lucia Valentina; Frasca, Mattia] Univ Catania, Dept Elect Elect & Comp Sci Engn, Catania, Italy.
+C3 University of New Mexico; University of Catania
+RP Sorrentino, F (corresponding author), Univ New Mexico, Dept Mech Engn, Albuquerque, NM 87131 USA.
+EM fsorrent@unm.edu
+FU Italian Ministry of University and Research (MUR) through Research
+   Program PRIN [2017CWMF93]
+FX The authors are indebted to Isaac Klickstein for providing a code for
+   fast calculation of the correction cost and to Sam McKenzie and Bruce
+   Rosen for insightful discussions. L.V.G. and M.F. acknowledge partial
+   support of this work by the Italian Ministry of University and Research
+   (MUR) through Research Program PRIN 2017 under Grant 2017CWMF93, project
+   "Advanced Network Control of Future Smart Grids - VECTORS".
+CR Aguiar MAD, 2014, J NONLINEAR SCI, V24, P949, DOI 10.1007/s00332-014-9209-6
+   Barrat A, 2004, P NATL ACAD SCI USA, V101, P3747, DOI 10.1073/pnas.0400087101
+   Batagelj V, 2006, PAJEK DATASETS
+   Belykh I, 2011, CHAOS, V21, DOI 10.1063/1.3563581
+   Belykh VN, 2008, CHAOS, V18, DOI 10.1063/1.2956986
+   Belykh VN, 2001, PHYS REV E, V63, DOI 10.1103/PhysRevE.63.036216
+   Betzel RF, 2016, SCI REP-UK, V6, DOI 10.1038/srep30770
+   Blaha KA, 2019, PHYS REV LETT, V122, DOI 10.1103/PhysRevLett.122.014101
+   Bragg J.D., 1942, J AM HIST, V28, P646, DOI [10.2307/1916593, DOI 10.2307/1916593]
+   Chavez M, 2005, PHYS REV LETT, V94, DOI 10.1103/PhysRevLett.94.218701
+   Christie R., 1993, POWER SYSTEMS TEST C
+   Cottingham WN, 2007, INTRODUCTION TO THE STANDARD MODEL OF PARTICLE PHYSICS, 2ND EDITION, P1
+   Della Rossa F, 2020, NAT COMMUN, V11, DOI [10.1038/s41467-020-16343-0, 10.1038/s41467-020-18827-5]
+   Freeman S.C., 1979, Social Science Research Reports
+   Gambuzza LV, 2021, IEEE T NETW SCI ENG, V8, P282, DOI 10.1109/TNSE.2020.3037039
+   Golubitsky M., 2003, The Symmetry Perspective: From Equilibrium to Chaos in Phase Space and Physical Space, V200
+   Golubitsky M, 2006, B AM MATH SOC, V43, P305, DOI 10.1090/S0273-0979-06-01108-6
+   GUENOCHE A, 1991, J CLASSIF, V8, P5, DOI 10.1007/BF02616245
+   Hwang DU, 2005, PHYS REV LETT, V94, DOI 10.1103/PhysRevLett.94.138701
+   Jiang XY, 2014, COMP GEOM-THEOR APPL, V47, P164, DOI 10.1016/j.comgeo.2012.10.001
+   Jin X., 2011, K-Medoids Clustering, P564, DOI DOI 10.1007/978-0-387-30164-8_426
+   Kamei H, 2013, SIAM J APPL DYN SYST, V12, P352, DOI 10.1137/100819795
+   Klickstein I, 2019, CHAOS, V29, DOI 10.1063/1.5098335
+   Kosmann-Schwarzbach Y, 2010, Groups and symmetries
+   Kunegis J, 2013, PROCEEDINGS OF THE 22ND INTERNATIONAL CONFERENCE ON WORLD WIDE WEB (WWW'13 COMPANION), P1343
+   Latora V., 2017, COMPLEX NETWORKS PRI
+   Longo Giuseppe, 2014, Perspectives on Organisms: Biological Time, Symmetries and Singularities
+   MAINZER K, 1988, CHIMIA, V42, P161
+   Menichetti G, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0097857
+   Morone F, 2019, NAT COMMUN, V10, DOI 10.1038/s41467-019-12675-8
+   Newman MEJ, 2006, P NATL ACAD SCI USA, V103, P8577, DOI 10.1073/pnas.0601602103
+   Newman MEJ, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.066133
+   Nicosia V, 2013, PHYS REV LETT, V110, DOI 10.1103/PhysRevLett.110.174102
+   Pecora LM, 2014, NAT COMMUN, V5, DOI 10.1038/ncomms5079
+   Raviv D, 2013, IEEE T PATTERN ANAL, V35, P1985, DOI 10.1109/TPAMI.2012.260
+   Raviv D, 2010, INT J COMPUT VISION, V89, P18, DOI 10.1007/s11263-010-0320-3
+   Rosell-Tarragó G, 2021, J COMPLEX NETW, V9, DOI 10.1093/comnet/cnab025
+   Rossi RA, 2015, AAAI CONF ARTIF INTE, P4292
+   Schaub MT, 2016, CHAOS, V26, DOI 10.1063/1.4961065
+   Siddique A, 2018, PHYS REV E, V97, DOI 10.1103/PhysRevE.97.042217
+   Sorrentino F, 2019, CHAOS, V29, DOI 10.1063/1.5081023
+   Sorrentino F, 2016, CHAOS, V26, DOI 10.1063/1.4961967
+   Sorrentino F, 2016, SCI ADV, V2, DOI 10.1126/sciadv.1501737
+   Straumann N., 2012, General Relativity
+NR 44
+TC 3
+Z9 3
+U1 0
+U2 0
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD MAR 16
+PY 2022
+VL 12
+IS 1
+AR 4524
+DI 10.1038/s41598-022-08214-z
+PG 12
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA ZU6UH
+UT WOS:000769975800033
+PM 35296689
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Fernandes, CAD
+   Flache, A
+   Bakker, DM
+   Dijkstra, J
+AF Fernandes, Carlos A. de Matos
+   Flache, Andreas
+   Bakker, Dieko M.
+   Dijkstra, Jacob
+TI A Bad Barrel Spoils a Good Apple: How Uncertainty and Networks Affect
+   Whether Matching Rules Can Foster Cooperation
+SO JASSS-THE JOURNAL OF ARTIFICIAL SOCIETIES AND SOCIAL SIMULATION
+LA English
+DT Article
+DE Cooperation; Meritocratic Matching; Information; Homophily; Threshold
+   Model; Learning
+ID SOCIAL DILEMMAS; EVOLUTION; SEGREGATION; RECIPROCITY; DYNAMICS; BEHAVIOR
+AB Meritocratic matching solves the problem of cooperation by ensuring that only prosocial agents group together while excluding proselfs who are less inclined to cooperate. However, matching is less effective when estimations of individual merit rely on group-level outcomes. Prosocials in uncooperative groups are unable to change the nature of the group and are themselves forced to defect to avoid exploitation. They are then indistinguishable from proselfs, preventing them from accessing cooperative groups. We investigate informal social networks as a potential solution. Interactions in dyadic network relations provide signals of individual cooperativeness which are easier to interpret. Network relations can thus help prosocials to escape from uncooperative groups. To test our intuitions, we develop an ABM modeling cooperative behavior based on a stochastic learning model with adaptive thresholds. We investigate both randomly and homophilously formed networks. We find that homophilous networks create conditions under which meritocratic matching can function as intended. Simulation experiments identify two underlying reasons. First, dyadic network interactions in homophilous networks differentiate more between prosocials and proselfs. Second, homophilous networks create groups of prosocial agents who are aware of each other's behavior. The stronger this prosociality segregation is, the more easily prosocials cooperate in the group context. Further analyses also highlight a downside of homophilous networks. When prosocials successfully escape from uncooperative groups, noncooperatives have fewer encounters with prosocials, diminishing their chances to learn to cooperate through those encounters.
+C1 [Fernandes, Carlos A. de Matos; Flache, Andreas; Bakker, Dieko M.; Dijkstra, Jacob] Univ Groningen, Dept Sociol, Interuniv Ctr Social Sci Theory & Methodol ICS, Grote Rozenstr 31, NL-9712 TG Groningen, Netherlands.
+C3 University of Groningen
+RP Fernandes, CAD (corresponding author), Univ Groningen, Dept Sociol, Interuniv Ctr Social Sci Theory & Methodol ICS, Grote Rozenstr 31, NL-9712 TG Groningen, Netherlands.
+EM c.a.de.matos.fernandes@rug.nl
+RI de Matos Fernandes, Carlos A./GYJ-6462-2022; Flache,
+   Andreas/E-2921-2013; Dijkstra, Jacob/E-8396-2013
+OI de Matos Fernandes, Carlos A./0000-0002-3664-4989
+FU NWO; Dutch Ministry of Education, Culture, and Science [024.003.025];
+   Netherlands Organization for Scientific Research (NWO) [464.18.112]
+FX The first, second, and fourth author acknowledge that this study is part
+   of the research program Sustainable Cooperation -Roadmaps to Resilient
+   Societies (SCOOP) funded by NWO and the Dutch Ministry of Education,
+   Culture, and Science (OCW) in its 2017 Gravitation Program (grant number
+   024.003.025). The second and third author acknowledge financial support
+   by the Netherlands Organization for Scientific Research (NWO) under the
+   2018 ORA grant ToRealSim (464.18.112). We want to stipulate that this
+   work has benefitted from enriching discussions with the members of the
+   "Norms and Networks Cluster" at the Department of Sociology at the
+   University of Groningen as well as with members of the Interuniversity
+   Center for Social Science Theory and Methodology (ICS).
+CR Axelrod R., 1984, EVOLUTION COOPERATIO
+   Balliet D, 2009, GROUP PROCESS INTERG, V12, P533, DOI 10.1177/1368430209105040
+   Bianchi F, 2020, J MATH SOCIOL, V44, P249, DOI 10.1080/0022250X.2019.1704284
+   Bowles S, 2004, THEOR POPUL BIOL, V65, P17, DOI 10.1016/j.tpb.2003.07.001
+   Brouwer J, 2018, HIGH EDUC, V76, P483, DOI 10.1007/s10734-017-0221-2
+   Buskens V., 2002, ADV GROUP PROCESSES, V19, P167, DOI DOI 10.1016/S0882-6145(02)19007-2
+   CHATTOE E., 1998, JASSS-J ARTIF SOC S, V1, P2
+   Chaudhuri A, 2011, EXP ECON, V14, P47, DOI 10.1007/s10683-010-9257-1
+   DAWES RM, 1980, ANNU REV PSYCHOL, V31, P169, DOI 10.1146/annurev.ps.31.020180.001125
+   Duca S, 2018, COMPUT ECON, V52, P1029, DOI 10.1007/s10614-017-9774-5
+   Duca S, 2018, J R SOC INTERFACE, V15, DOI 10.1098/rsif.2018.0158
+   Fang H., 2011, HDB SOCIAL EC, P133, DOI [DOI 10.1016/B978-0-444-53187-2.00005-X, 10.1016/B978-0-444-53187-2.00005-X]
+   Gambetta D., 2001, Trust in Society, P148
+   Gambetta Diego., 2009, The Oxford Handbook of Analytical Sociology, P168
+   Grow A., 2017, MODEL GLOBAL DIVERSI
+   Grow A, 2017, SOCIOL SCI, V4, P611, DOI 10.15195/v4.a25
+   Guido A, 2019, J ECON BEHAV ORGAN, V159, P192, DOI 10.1016/j.jebo.2019.02.009
+   Gunnthorsdottir A, 2007, J ECON BEHAV ORGAN, V62, P304, DOI 10.1016/j.jebo.2005.03.008
+   Heckathorn DD, 1996, AM SOCIOL REV, V61, P250, DOI 10.2307/2096334
+   Hoglinger M, 2017, SOCIAL DILEMMAS I EV, P527
+   Keijzer MA, 2018, COMPLEXITY, DOI 10.1155/2018/9502872
+   Lazarsfeld P.F., 1954, Freedom and Control in Modern Society, P18, DOI DOI 10.1111/J.1467-8705.2012.02056_3.X
+   Macy MW, 2020, SOCIOL SCI, V7, P628, DOI 10.15195/v7.a26
+   MACY MW, 1991, AM J SOCIOL, V97, P808, DOI 10.1086/229821
+   Macy MW, 2002, P NATL ACAD SCI USA, V99, P7229, DOI 10.1073/pnas.092080099
+   MACY MW, 1991, AM SOCIOL REV, V56, P730, DOI 10.2307/2096252
+   MARWELL G, 1981, J PUBLIC ECON, V15, P295, DOI 10.1016/0047-2727(81)90013-X
+   Mäs M, 2016, SOC NETWORKS, V47, P116, DOI 10.1016/j.socnet.2016.05.004
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Melamed D, 2020, AM J SOCIOL, V125, P1084, DOI 10.1086/708142
+   Moody J, 2001, AM J SOCIOL, V107, P679, DOI 10.1086/338954
+   Murphy RO., 2017, GAMES-BASEL, V8, P50, DOI 10.3390/g8040050
+   Nax HH, 2016, J THEOR BIOL, V395, P194, DOI 10.1016/j.jtbi.2016.01.032
+   Nax HH, 2015, SCI REP-UK, V5, DOI 10.1038/srep12145
+   Nowak MA, 1998, NATURE, V393, P573, DOI 10.1038/31225
+   Nowak MA, 2006, SCIENCE, V314, P1560, DOI 10.1126/science.1133755
+   Olson M., 1965, LOGIC COLLECTIVE ACT, DOI 10.4159/9780674041660
+   Przepiorka W, 2017, SOCIAL DILEMMAS I EV, P447
+   RAUB W, 1990, AM J SOCIOL, V96, P626, DOI 10.1086/229574
+   ROSS LD, 1977, J PERS SOC PSYCHOL, V35, P485, DOI 10.1037/0022-3514.35.7.485
+   Simpson B, 2015, ANNU REV SOCIOL, V41, P43, DOI 10.1146/annurev-soc-073014-112242
+   SPENCE M, 1973, Q J ECON, V87, P355, DOI 10.2307/1882010
+   Thielmann I, 2020, PSYCHOL BULL, V146, P30, DOI 10.1037/bul0000217
+   Wilensky U, 1999, NETLOGO
+   Wittek R., 2013, The Handbook of Rational Choice Social Research, P1
+   Wong LH, 2006, PHYSICA A, V360, P99, DOI 10.1016/j.physa.2005.04.029
+NR 46
+TC 3
+Z9 3
+U1 0
+U2 7
+PU J A S S S
+PI GUILDFORD
+PA UNIV SURREY, DEPT SOCIOLOGY, GUILDFORD GU2 7XH, SURREY, ENGLAND
+SN 1460-7425
+J9 JASSS-J ARTIF SOC S
+JI JASSS
+PD JAN 31
+PY 2022
+VL 25
+IS 1
+AR 6
+DI 10.18564/jasss.4754
+PG 19
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA YV2CN
+UT WOS:000752538900003
+OA Green Submitted, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Bennion, J
+AF Bennion, Janet
+TI Polyamory in Paris: A social network theory application
+SO SEXUALITIES
+LA English
+DT Article
+DE Polyamory; social network analysis; gender dynamics
+ID SEX
+AB Multiple sexual partnerships can be viewed as networks in order to assess the nature of links between lovers and metamours (lover's lovers) as well as the larger population. In such non-monogamous networks, where participants share sex, friendship, ideas, and economic resources, there exists a vast web of nodes connected in much more intimate and complex ways than one finds in the mono-normative landscape. This study explored gender dynamics in network centrality on a sample of 62 polyamorists in Paris, France using participant-observation, informal and structured interviews, and social network analysis. Though evolutionary psychology and pornographic film tend to reinforce heteronormative stereotypes of males as central social actors with multiple sexual partners and women as sexually passive, feminist theorists have argued for a more "agentic female sexual subjectivity". My data showed that cis- and trans-women, with a strong sense of family and skills in interpersonal communication, score highest on network metrics of density/degree, homophily, indirectedness, and transitivity. The network data also indicate high modularity and endogamy with clustering tendencies for both cis-men and cis- and trans-women linked to kink, atypical intelligence, sexual and gender non-conformity, and mitigating factors of socioeconomic advantage and racial privilege.
+C1 [Bennion, Janet] Northern Vermont Univ, Sociocultural Anthropol, Johnson, VT USA.
+RP Bennion, J (corresponding author), Northern Vermont Univ, 337 Coll Hill Rd, Johnson, VT 05656 USA.
+EM janet.bennion@northernvermont.edu
+OI Bennion, Janet/0000-0001-5339-5526
+CR Anapol D, 2012, POLYAMORY 21 CENTURY
+   [Anonymous], 2016, COGENT ARTS HUMANITE, DOI [DOI 10.1080/23311983.2016.1171458, 10.1080/23311983.2016.1171458]
+   [Anonymous], 1969, MEN IN GROUPS
+   Baker R., 2006, Sperm wars
+   Balzarini R, 2019, SOCIAL PSYCHOL, V40, P185
+   Batten M, 2008, SEXUAL STRATEGIES FE
+   Beckerman S., 2002, CULTURES MULTIPLE FA
+   Bennion J, 2012, BRANDEIS SER GENDER, P1
+   Birke D, 2013, SOCIAL NETWORKS AND THEIR ECONOMICS: INFLUENCING CONSUMER CHOICE, P1, DOI 10.1002/9781118699638
+   Bostwick WB, 2014, AM J ORTHOPSYCHIAT, V84, P35, DOI 10.1037/h0098851
+   BURT RS, 1987, AM J SOCIOL, V92, P1287, DOI 10.1086/228667
+   BURTON ML, 1981, BEHAV SCI RES, V16, P275, DOI 10.1177/106939718101600304
+   Buss DM, 1998, J SEX RES, V35, P19, DOI 10.1080/00224499809551914
+   Button J, 2019, NONM CONT INT C BARC
+   Cockbain E, 2011, POLIC-J POLICY PRACT, V5, P144, DOI 10.1093/police/par025
+   Combessie P, 2013, ETHNOLOGIE FRANCAISE, VXLIII, P399
+   Contractor NS, 2014, P NATL ACAD SCI USA, V111, P13650, DOI 10.1073/pnas.1401211111
+   Copeland L, 2012, SLATE MAGAZINE
+   Dahlberg F, 2009, WOMAN GATHERER
+   de Laat M, 2007, INT J COMP-SUPP COLL, V2, P87, DOI 10.1007/s11412-007-9006-4
+   Diana N, 2017, SEVENTH INTERNATIONAL LEARNING ANALYTICS & KNOWLEDGE CONFERENCE (LAK'17), P272, DOI 10.1145/3027385.3027441
+   Eagly AH, 2007, HARVARD BUS REV, V85, P62
+   Engels Friedrich, 2010, The Origin of the Family, Private Property, and the State
+   Fisher HelenE., 1983, The sex contract: The Evolution of the human behavior
+   FREEMAN LC, 1977, SOCIOMETRY, V40, P35, DOI 10.2307/3033543
+   Gilligan Carol., 1983, DIFFERENT VOICE PSYC
+   Golbeck Jennifer, 2013, Analyzing the Social Web
+   Goldhill O, 2018, POLYAMORY IS QUIETLY
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   HAGE P, 1979, ANNU REV ANTHROPOL, V8, P115, DOI 10.1146/annurev.an.08.100179.000555
+   Halberstam Judith., 2005, In a Queer Time and Place: Transgender Bodies, Subcultural Lives
+   Haupert ML, 2017, J SEX MARITAL THER, V43, P424, DOI 10.1080/0092623X.2016.1178675
+   HOLLAND PW, 1971, COMP GROUP STUD, V2, P107, DOI 10.1177/104649647100200201
+   Hrdy S.B., 1999, Mother nature: A history of mothers, infants, and natural selection
+   Iwanowska Joanna., 2018, Graduate Journal of Social Science, V14, P100
+   Jenefsky C, 1998, WOMEN STUD INT FORUM, V21, P375, DOI 10.1016/S0277-5395(98)00042-9
+   Klesse C, 2013, INT J POLITICS CULTU, V27, P2
+   Klesse Christian., 2006, Sexualities, V9, P565, DOI [10.1177/1363460706069986, DOI 10.1177/1363460706069986]
+   Kolesar A, 2011, AM PSYCH ASS 2011 CO
+   Labriola K., 2003, Models of open relationships
+   Lala N, 2019, NICHOLAS IS FB ALIAS
+   Le Cunff A, 2018, SSRN ELECT J, DOI [10.2139/ssrn.3232078, DOI 10.2139/SSRN.3232078]
+   Levine SB, 2003, ARCH SEX BEHAV, V32, P279, DOI 10.1023/A:1023421819465
+   Levy JudithA., 1994, Sexuality across the life course, P287, DOI DOI 10.1093/SW/40.6.844
+   Liljeros F, 2003, MICROBES INFECT, V5, P189, DOI 10.1016/S1286-4579(02)00058-8
+   Mcdougall S, 2014, LAW HIST REV, V32, P491, DOI 10.1017/S0738248014000212
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mikesell M, 2015, THESIS
+   Mitchell KR, 2019, J SEX RES, V56, P1, DOI 10.1080/00224499.2018.1481193
+   Morgan LH, 1856, P AM ASS ADV SCI, VXI
+   Otte E, 2002, J INF SCI, V28, P441, DOI 10.1177/016555150202800601
+   Pitagora D, 2016, SEX RELATSH THER, V31, P391, DOI 10.1080/14681994.2016.1156081
+   Podolny JM, 1997, AM SOCIOL REV, V62, P673, DOI 10.2307/2657354
+   Rice R, 2011, DIFFUSION INNOVATION
+   Rogers E.M., 2003, DIFFUSION INNOVATION
+   Ryan C., 2012, Sex at dawn: How we mate, why we stray, and what it means for modern relationships
+   Schmitt DP, 2015, EVOL PSYCHOL-SER, P221, DOI 10.1007/978-3-319-09384-0_11
+   Sciaud Facchin J., 2008, Trop intelligent pour etre heureux
+   Shannon D, 2010, SEXUALITIES, V13, P433, DOI 10.1177/1363460710370655
+   SHEFF E, 2005, J CONTEMP ETHNOGR, V20, P1
+   Sheff E., 2016, When Someone You Love Is Polyamorous: Understanding Poly People and Relationships
+   Sheff E, 2005, POLYAMOROUS RELATION
+   Starkweather KE, 2012, HUM NATURE-INT BIOS, V23, P149, DOI 10.1007/s12110-012-9144-x
+   Symons Donald., 1981, The Evolution of Human Sexuality
+   van Anders SM, 2015, ARCH SEX BEHAV, V44, P1177, DOI 10.1007/s10508-015-0490-8
+   Wade M, 2011, EVOL HUM BEHAV, V32, P79
+   Widmer ED, 2018, J FAM ISSUES, V39, P1573, DOI 10.1177/0192513X17714507
+   Zou GD, 2010, 2010 INTERNATIONAL CONFERENCE ON INFORMATION, ELECTRONIC AND COMPUTER SCIENCE, VOLS 1-3, P22
+NR 68
+TC 3
+Z9 3
+U1 1
+U2 11
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 1363-4607
+EI 1461-7382
+J9 SEXUALITIES
+JI Sexualities
+PD MAR
+PY 2022
+VL 25
+IS 3
+BP 173
+EP 197
+AR 1363460720975328
+DI 10.1177/1363460720975328
+EA DEC 2020
+PG 25
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA ZZ5GV
+UT WOS:000599964900001
+DA 2024-11-22
+ER
+
+PT J
+AU Cao, X
+   Li, P
+   Huang, XZ
+   Fan, LM
+AF Cao, Xin
+   Li, Peng
+   Huang, Xiaozhi
+   Fan, Limin
+TI The dual mechanism of social networks on the relationship between
+   internationalization and firm performance: Empirical evidence from china
+SO PLOS ONE
+LA English
+DT Article
+ID POLITICAL TIES; INWARD FDI; GUANXI; BUSINESS; INNOVATION; CONTINGENT;
+   EXPANSION; DYNAMICS; LOCATION; FUTURE
+AB The effects of social networks on the relationship between internationalization and firm performance have been well documented in the international literature, and two dimensions of social networks have also been identified: business ties and political ties. However, few efforts have been made to examine whether there are different mechanisms of business ties and political ties. Based on social network theory and boundary spanning theory, we build a model of a dual mechanism of social networks, and the business ties and political ties of social networks that correspond with information processing and the external representation of boundary spanning theory. Using the data of Chinese listed companies in 2005-2013 and 2013-2017 to test the model, the results indicate that (1) in the relationship between internationalization and firm performance, the role of social networks has a dual mechanism. (2) Business ties play a mediating role in the relationship between internationalization and firm performance. Business ties are conducive to a company's information acquisition and knowledge sharing and play the role of information processing. (3) Political ties play a U-shaped moderating role in the relationship between internationalization and firm performance and assume the role of external representation.
+C1 [Cao, Xin] Guangxi Univ, Sch Econ, Nanning, Peoples R China.
+   [Cao, Xin] Guangxi Univ Finance & Econ, Sch Econ & Trade, Nanning, Peoples R China.
+   [Li, Peng; Huang, Xiaozhi; Fan, Limin] Guangxi Univ, Sch Business Adm, Nanning, Peoples R China.
+C3 Guangxi University; Guangxi University of Finance & Economics; Guangxi
+   University
+RP Li, P; Huang, XZ (corresponding author), Guangxi Univ, Sch Business Adm, Nanning, Peoples R China.
+EM lp35682@163.com; hxiaozhi@mail3.sysu.edu.cn
+OI Huang, Xiaozhi/0000-0002-2998-8273; Li, Peng/0000-0002-3792-6216; Cao,
+   Xin/0000-0001-9897-2171
+FU National Social Science Key Foundation of China [17AJL012]; National
+   Natural Science Foundation of China [72062001,71872055]; Open subject of
+   first-class discipline (cultivation) of Applied Economics in Guangxi
+   [2018ZD15]
+FX This work was supported by the National Social Science Key Foundation of
+   China (17AJL012),the National Natural Science Foundation of China
+   (72062001,71872055), the Open subject of first-class discipline
+   (cultivation) of Applied Economics in Guangxi(2018ZD15).
+NR 0
+TC 6
+Z9 6
+U1 3
+U2 38
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD FEB 11
+PY 2022
+VL 17
+IS 2
+AR e0263674
+DI 10.1371/journal.pone.0263674
+PG 20
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 1M6VZ
+UT WOS:000800108800023
+PM 35148330
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Jing, FS
+   Ye, Y
+   Zhou, Y
+   Zhou, HC
+   Xu, ZZ
+   Lu, Y
+   Tao, XY
+   Yang, SJ
+   Cheng, WB
+   Tian, JZ
+   Tang, WM
+   Wu, D
+AF Jing, Fengshi
+   Ye, Yang
+   Zhou, Yi
+   Zhou, Hanchu
+   Xu, Zhongzhi
+   Lu, Ying
+   Tao, Xiaoyu
+   Yang, Shujuan
+   Cheng, Weibin
+   Tian, Junzhang
+   Tang, Weiming
+   Wu, Dan
+TI Modelling the geographical spread of HIV among MSM in Guangdong, China:
+   a metapopulation model considering the impact of pre-exposure
+   prophylaxis
+SO PHILOSOPHICAL TRANSACTIONS OF THE ROYAL SOCIETY A-MATHEMATICAL PHYSICAL
+   AND ENGINEERING SCIENCES
+LA English
+DT Article
+DE HIV transmission; human mobility data; social media data; sexual
+   behaviour data; MSM
+ID TRANSMISSION; EPIDEMIC
+AB Men who have sex with men (MSM) make up the majority of new human immunodeficiency virus (HIV) diagnoses among young people in China. Understanding HIV transmission dynamics among the MSM population is, therefore, crucial for the control and prevention of HIV infections, especially for some newly reported genotypes of HIV. This study presents a metapopulation model considering the impact of pre-exposure prophylaxis (PrEP) to investigate the geographical spread of a hypothetically new genotype of HIV among MSM in Guangdong, China. We use multiple data sources to construct this model to characterize the behavioural dynamics underlying the spread of HIV within and between 21 prefecture-level cities (i.e. Guangzhou, Shenzhen, Foshan, etc.) in Guangdong province: the online social network via a gay social networking app, the offline human mobility network via the Baidu mobility website, and self-reported sexual behaviours among MSM. Results show that PrEP initiation exponentially delays the occurrence of the virus for the rest of the cities transmitted from the initial outbreak city; hubs on the movement network, such as Guangzhou, Shenzhen, and Foshan are at a higher risk of 'earliest' exposure to the new HIV genotype; most cities acquire the virus directly from the initial outbreak city while others acquire the virus from cities that are not initial outbreak locations and have relatively high betweenness centralities, such as Guangzhou, Shenzhen and Shantou. This study provides insights in predicting the geographical spread of a new genotype of HIV among an MSM population from different regions and assessing the importance of prefecture-level cities in the control and prevention of HIV in Guangdong province. This article is part of the theme issue 'Data science approach to infectious disease surveillance'.
+C1 [Jing, Fengshi; Cheng, Weibin; Tian, Junzhang; Tang, Weiming] Guangdong Second Prov Gen Hosp, Inst Healthcare Artificial Intelligence, Guangzhou 510317, Peoples R China.
+   [Jing, Fengshi; Lu, Ying; Tang, Weiming; Wu, Dan] Univ North Carolina Project China, Guangzhou 510085, Peoples R China.
+   [Jing, Fengshi; Ye, Yang; Zhou, Hanchu; Cheng, Weibin] City Univ Hong Kong, Sch Data Sci, Hong Kong, Peoples R China.
+   [Zhou, Yi; Tao, Xiaoyu] Macau Univ Sci & Technol, Fac Med, Macau, Peoples R China.
+   [Zhou, Yi] Zhuhai Ctr Dis Control & Prevent, Zhuhai 519060, Peoples R China.
+   [Zhou, Hanchu] Cent South Univ, Sch Traff & Transportat Engn, Changsha 410075, Peoples R China.
+   [Xu, Zhongzhi] Univ Hong Kong, Hong Kong Jockey Club Ctr Suicide Res & Prevent, Hong Kong, Peoples R China.
+   [Yang, Shujuan; Wu, Dan] Sichuan Univ, West China Sch Publ Hlth, Chengdu 610041, Peoples R China.
+   [Wu, Dan] London Sch Hyg & Trop Med, Dept Clin Res, London WC1E 7HT, England.
+C3 City University of Hong Kong; Macau University of Science & Technology;
+   Central South University; University of Hong Kong; Sichuan University;
+   University of London; London School of Hygiene & Tropical Medicine
+RP Wu, D (corresponding author), Univ North Carolina Project China, Guangzhou 510085, Peoples R China.; Wu, D (corresponding author), Sichuan Univ, West China Sch Publ Hlth, Chengdu 610041, Peoples R China.; Wu, D (corresponding author), London Sch Hyg & Trop Med, Dept Clin Res, London WC1E 7HT, England.
+EM dan.wu@lshtm.ac.uk
+RI Wu, Dan/AEQ-0432-2022; Zhao, Shihua/A-7553-2019; Jing,
+   Fengshi/KHD-2106-2024; tang, wei/HZH-5205-2023; Zhou,
+   Hanchu/AAA-1234-2019; Cheng, Weibin/C-9441-2018
+OI XU, ZHONGZHI/0000-0002-0514-0200; Tao, Xiaoyu/0000-0001-5648-6802;
+   Cheng, Weibin/0000-0002-9845-6676; Tian, Junzhang/0000-0002-6212-1882;
+   Wu, Dan/0000-0003-0415-5467; Zhou, Hanchu/0000-0002-6305-7907; JING,
+   Fengshi/0000-0002-6747-6527; YE, Yang/0000-0003-0710-1341
+FU Key-Area Research and Development Program of Guangdong Province
+   [2020B0101130020]; Research Grants Council of the Hong Kong Special
+   Administrative Region, China [11218221]; Economic and Social Research
+   Council, UK Research and Innovation (UKRI) [ES/T014547/1]; FIC
+   [ES/T014547/1] Funding Source: UKRI
+FX This study was supported by Key-Area Research and Development Program of
+   Guangdong Province (2020B0101130020); Research Grants Council of the
+   Hong Kong Special Administrative Region, China (Project No. CityU
+   11218221); and Economic and Social Research Council, UK Research and
+   Innovation (UKRI) (Grant No. ES/T014547/1).
+CR Anderson PL, 2012, SCI TRANSL MED, V4, DOI 10.1126/scitranslmed.3004006
+   Booton RD, 2021, HIV MED, V22, P467, DOI 10.1111/hiv.13063
+   Borgatti S.P., 1995, CONNECTIONS, V18, P112
+   Brockmann D, 2013, SCIENCE, V342, P1337, DOI 10.1126/science.1245200
+   Chang S, 2021, NATURE, V589, P82, DOI 10.1038/s41586-020-2923-3
+   Coffee M, 2007, AIDS, V21, P343, DOI 10.1097/QAD.0b013e328011dac9
+   Dong MJ, 2019, BMC INFECT DIS, V19, DOI 10.1186/s12879-019-4559-1
+   Huang WT, 2020, OPEN FORUM INFECT DI, V7, DOI 10.1093/ofid/ofaa147
+   Isdory A, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0142805
+   Liao HP, 2020, INNOVATION-AMSTERDAM, V1, DOI 10.1016/j.xinn.2020.04.003
+   Pei S, 2018, P NATL ACAD SCI USA, V115, P2752, DOI 10.1073/pnas.1708856115
+   Rodger AJ, 2016, JAMA-J AM MED ASSOC, V316, P171, DOI 10.1001/jama.2016.5148
+   Ruktanonchai NW, 2020, SCIENCE, V369, P1465, DOI 10.1126/science.abc5096
+   Smith RJ, 2009, BMC PUBLIC HEALTH, V9, DOI 10.1186/1471-2458-9-S1-S15
+   Soriano-Paños D, 2018, PHYS REV X, V8, DOI 10.1103/PhysRevX.8.031039
+   Sun XD, 2018, SCI REP-UK, V8, DOI 10.1038/s41598-017-18743-7
+   UNAIDS, 2019, 2019 CHIN AIDS RESP
+   Wang L, 2018, NAT COMMUN, V9, DOI 10.1038/s41467-017-02344-z
+   Wang LW, 2021, AIDS, V35, P1113, DOI 10.1097/QAD.0000000000002826
+   Wu ZY, 2019, CURR HIV-AIDS REP, V16, P458, DOI 10.1007/s11904-019-00471-4
+   Xiao YN, 2013, J THEOR BIOL, V317, P271, DOI 10.1016/j.jtbi.2012.09.037
+   Xu JJ, 2020, LANCET HIV, V7, pE155, DOI 10.1016/S2352-3018(19)30293-0
+   Young SD, 2016, AIDS CARE, V28, P112, DOI 10.1080/09540121.2015.1069789
+   Yu GL, 2020, CURR HIV RES, V18, P210, DOI 10.2174/1570162X18666200415140652
+   Zhao J, 2016, SCI REP-UK, V6, DOI 10.1038/srep28703
+   Zheng SF, 2018, LANCET PUBLIC HEALTH, V3, pE311, DOI 10.1016/S2468-2667(18)30098-7
+NR 26
+TC 4
+Z9 5
+U1 4
+U2 25
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 1364-503X
+EI 1471-2962
+J9 PHILOS T R SOC A
+JI Philos. Trans. R. Soc. A-Math. Phys. Eng. Sci.
+PD JAN 10
+PY 2022
+VL 380
+IS 2214
+AR 20210126
+DI 10.1098/rsta.2021.0126
+PG 13
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA XA7TO
+UT WOS:000720844400008
+PM 34802265
+OA Green Published, hybrid, Green Accepted
+DA 2024-11-22
+ER

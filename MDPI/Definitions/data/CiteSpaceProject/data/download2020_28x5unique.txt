@@ -1,0 +1,592 @@
+
+PT J
+AU Basov, N
+AF Basov, Nikita
+TI The ambivalence of cultural homophily: Field positions, semantic
+   similarities, and social network ties in creative collectives
+SO POETICS
+LA English
+DT Article
+DE Field; Practice; Small group; Cultural structure; Socio-semantic
+   network; Mixed method
+ID DUALITY; ART; DISCOURSE; FEATHER; AGENCY; TASTES; BIRDS
+AB This paper utilizes a mixture of qualitative, formal, and statistical socio-semantic network analyses to examine how cultural homophily works when field logic meets practice. On the one hand, because individuals in similar field positions are also imposed with similar cultural orientations, cultural homophily reproduces 'objective' field structure in intersubjective social network ties. On the other hand, fields are operative in practice and to accomplish pragmatic goals individuals who occupy different field positions often join in groups, creatively reinterpret the field-imposed cultural orientations, and produce cultural similarities alternative to the position-specific ones. Drawing on these emergent similarities, the cultural homophily mechanism might stimulate social network ties between members who occupy not the same but different field positions, thus contesting fields. I examine this ambivalent role of cultural homophily in two creative collectives, each embracing members positioned closer to the opposite poles of the field of cultural production. I find different types of cultural similarities to affect different types of social network ties within and between the field positions: Similarity of vocabularies stimulates friendship and collaboration ties within positions, thus reproducing the field, while affiliation with the same cultural structures stimulates collaboration ties between positions, thus contesting the field. The latter effect is visible under statistical analysis of ethnographic data, but easy to oversee in qualitative analysis of texts because informants tend to flag conformity to their positions in their explicit statements. This highlights the importance of mixed socio-semantic network analysis, both sensitive to the local context and capable of unveiling the mechanisms underlying the interplay between the cultural and the social.
+C1 [Basov, Nikita] St Petersburg State Univ, Ctr German & European Studies, Univ Skaya 7-9, St Petersburg 199034, Russia.
+C3 Saint Petersburg State University
+RP Basov, N (corresponding author), St Petersburg State Univ, Ctr German & European Studies, Univ Skaya 7-9, St Petersburg 199034, Russia.
+EM n.basov@spbu.ru
+RI Basov, Nikita/C-2539-2013; Basov, Nikita/P-9139-2015
+OI Basov, Nikita/0000-0003-3630-6119
+FU Russian Foundation for Basic Research [18-011-00796]; Centre for German
+   and European Studies (Bielefeld University); Centre for German and
+   European Studies (St. Petersburg State University); Centre for German
+   and European Studies (German Academic Exchange Service (DAAD)); Centre
+   for German and European Studies (German Foreign Office)
+FX The work presented here was supported by Russian Foundation for Basic
+   Research (18-011-00796 "Dynamic of Sociocultural Network Structures",
+   2018-2020) and The Centre for German and European Studies (Bielefeld
+   University, St. Petersburg State University, and German Academic
+   Exchange Service (DAAD) with funds from the German Foreign Office). The
+   author expresses his gratitude to those who participated in collection
+   and processing of the data used in this analysis: Aleksandra Nenko,
+   Dafne Mutanyola, Artem Antonyuk, and Maria Drozdova. I am indebted to
+   Wouter de Nooy and Ron Breiger for continuous theoretical and
+   methodological discussions. My special thanks are to Darya Kholodova,
+   who helped in translating the quotes presented in the paper from Spanish
+   and Catalan, and to Andrej Belyaev, who assisted in calculating
+   similarity indices and in producing network plots presented in Fig. 5.
+   Furthermore, I gratefully acknowledge the advice received from Peng
+   Wang, Tom Snijders, and Garry Robins on applying MERGMs in this kind of
+   analysis. I also cordially thank Aleksandra Nenko and Ksenia Puzireva
+   for many discussions of the findings and their friendly reviews on the
+   earlier versions of the manuscript. In addition, this work has benefited
+   from the comments of the participants of the seminar on "Socio-semantic
+   patterns" in Paris, 2017. Finally, my special thanks are to Iina
+   Hellsten and three anonymous reviewers, who provided their comments on
+   the manuscript. All errors and mistakes are my own.
+CR Abramson CM, 2015, SOCIOL METHODOL, V45, P272, DOI 10.1177/0081175015578740
+   [Anonymous], 1951, GEN THEOR ACTION
+   [Anonymous], STUDENT POLITICS PRO
+   [Anonymous], AUTOMATED ANAL TOPIC
+   [Anonymous], 2013, EXPONENTIAL RANDOM G
+   [Anonymous], DTIC DOCUMENT
+   [Anonymous], MATH IDEAS SOCIOLOGI
+   [Anonymous], 1989, TRANSFORMATION AVANT
+   [Anonymous], 180706623 ARXIV
+   [Anonymous], ORG SCI
+   [Anonymous], 2014, MPNet: Program for the simulation and estimation of (p*) exponential random graph models for multilevel networks
+   [Anonymous], 20 ERIC
+   [Anonymous], 2002, J. Social Struct
+   Antonyuk A, 2018, LECT NOTES COMPUT SC, V11193, P92, DOI 10.1007/978-3-030-01437-7_8
+   Basov N, 2017, RES SOCIOL ORGAN-RES, V53, P87, DOI 10.1108/S0733-558X20170000053005
+   Basov N, 2018, SOC NETWORKS, V54, P179, DOI 10.1016/j.socnet.2018.02.003
+   Basov N, 2017, STUD COMPUT INTELL, V693, P785, DOI 10.1007/978-3-319-50901-3_62
+   Bellotti E, 2016, SOCIOL RES ONLINE, V21, DOI 10.5153/sro.3936
+   Bellotti Elisa., 2014, QUALITATIVE NETWORKS
+   Bendixen P., 2000, International Journal of Arts Management, V2, P4
+   Bottero W, 2011, CULT SOCIOL-LONDON, V5, P99, DOI 10.1177/1749975510389726
+   Bottero W, 2009, BRIT J SOCIOL, V60, P399, DOI 10.1111/j.1468-4446.2009.01236.x
+   Bourdieu, 2006, DISTINCTION SOCIAL C
+   Bourdieu P, 1990, LOGIC PRACTICE
+   Johnson Randal., 1993, FIELD CULTURAL PRODU
+   Bourdieu Pierre., 1996, The Rules of Art: Genesis and Structure of the Literary Field
+   Bourdieu Pierre., 1998, STATE NOBILITY, VFirst
+   Bourdieu PIERRE, 1996, 10 U OSL
+   Breiger R.L., 2015, International Encyclopedia of Social and Behavioral Sciences, V5, P557
+   Breiger RL, 2000, POETICS, V27, P91, DOI 10.1016/S0304-422X(99)00026-1
+   BREIGER RL, 1974, SOC FORCES, V53, P181, DOI 10.2307/2576011
+   Brennecke J, 2017, RES POLICY, V46, P768, DOI 10.1016/j.respol.2017.02.002
+   CARLEY K, 1991, AM SOCIOL REV, V56, P331, DOI 10.2307/2096108
+   CARLEY K, 1986, J MATH SOCIOL, V12, P137, DOI 10.1080/0022250X.1986.9990010
+   Childress C, 2017, POETICS, V60, P48, DOI 10.1016/j.poetic.2016.10.001
+   Christopoulos D, 2015, J SOC ENTREP, V6, P1, DOI 10.1080/19420676.2014.954254
+   COHEN J, 1978, PAC SOCIOL REV, V21, P441
+   Cook R., 2001, SOCIOL REV, V49, P164, DOI [https://doi.org/10.1111/j.1467-954X.2001.tb03540.x, DOI 10.1111/J.1467-954X.2001.TB03540.X]
+   Crossley N, 2016, SOCIOL RES ONLINE, V21, DOI 10.5153/sro.3920
+   Dahlander L, 2013, ADMIN SCI QUART, V58, P69, DOI 10.1177/0001839212474272
+   Danowski J.A., 1982, COMMUNICATION YB 6, P905
+   de Nooy W, 2003, POETICS, V31, P305, DOI 10.1016/S0304-422X(03)00035-4
+   De Nooy W, 1999, POETICS, V26, P385, DOI 10.1016/S0304-422X(99)00009-1
+   de Nooy Wouter., 2009, Methodological Innovations Online, V4, P39, DOI 10.1177/205979910900400105
+   DeVereaux C, 2009, J ART MANAG LAW SOC, V39, P65, DOI 10.3200/JAML.39.1.65-72
+   DIMAGGIO P, 1987, AM SOCIOL REV, V52, P440, DOI 10.2307/2095290
+   Dominguez S, 2014, STRUC AN S, P1, DOI 10.1017/CBO9781139227193
+   Edelmann A, 2018, POETICS, V68, P1, DOI 10.1016/j.poetic.2018.05.003
+   Elsbach KD, 2009, HUM RELAT, V62, P1041, DOI 10.1177/0018726709335538
+   EMIRBAYER M, 1994, AM J SOCIOL, V99, P1411, DOI 10.1086/230450
+   Erickson B.H., 1988, SOCIAL STRUCTURES NE, P99
+   Erickson BH, 1996, AM J SOCIOL, V102, P217, DOI 10.1086/230912
+   Farrell MichaelP., 2003, COLLABORATIVE CIRCLE
+   FINE GA, 1979, AM SOCIOL REV, V44, P733, DOI 10.2307/2094525
+   FINE GA, 1979, AM J SOCIOL, V85, P1, DOI 10.1086/226971
+   Friedland Roger., 2004, MATTERCULTURE CULT, P1
+   Fuhse J, 2011, QUAL QUANT, V45, P1067, DOI 10.1007/s11135-011-9492-3
+   Fuhse JA, 2009, SOCIOL THEOR, V27, P51, DOI 10.1111/j.1467-9558.2009.00338.x
+   Giuffre K, 1999, SOC FORCES, V77, P815, DOI 10.2307/3005962
+   Godart FC, 2018, POETICS, V68, P72, DOI 10.1016/j.poetic.2018.04.004
+   Godart FC, 2010, POETICS, V38, P567, DOI 10.1016/j.poetic.2010.09.003
+   Godart FC, 2009, SOC FORCES, V88, P671, DOI 10.1353/sof.0.0266
+   Hesmondhalgh David., 2002, CULTURAL IND
+   Hewison R., 2014, Cultural Capital: The Rise and Fall of Creative Britain
+   Howkins J., 2002, CREATIVE EC PEOPLE M
+   KANDEL DB, 1978, AM J SOCIOL, V84, P427, DOI 10.1086/226792
+   Kuesters I, 2010, J ART MANAG LAW SOC, V40, P43, DOI 10.1080/10632921003603976
+   Kuleva M, 2018, CULT STUD, V32, P727, DOI 10.1080/09502386.2018.1429005
+   Lee M, 2018, POETICS, V68, P18, DOI 10.1016/j.poetic.2018.01.001
+   Lee M, 2015, AM J CULT SOCIOL, V3, P1, DOI 10.1057/ajcs.2014.13
+   Lewis K, 2018, AM J SOCIOL, V123, P1684, DOI 10.1086/697525
+   Lizardo O, 2006, AM SOCIOL REV, V71, P778, DOI 10.1177/000312240607100504
+   Malinick TE, 2013, SOC NETWORKS, V35, P148, DOI 10.1016/j.socnet.2011.10.005
+   Mark N, 1998, SOC FORCES, V77, P453, DOI 10.2307/3005535
+   Matous P, 2019, SOC NETWORKS, V56, P10, DOI 10.1016/j.socnet.2018.08.002
+   McLean PD, 1998, AM J SOCIOL, V104, P51, DOI 10.1086/210002
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mische A, 2000, POETICS, V27, P163, DOI 10.1016/S0304-422X(99)00024-8
+   Mohr JW, 2009, RES SOCIOL ORGAN-RES, V27, P203, DOI 10.1108/S0733-558X(2009)0000027009
+   Mohr JW, 1997, THEOR SOC, V26, P305, DOI 10.1023/A:1006896022092
+   Mohr JW, 1998, ANNU REV SOCIOL, V24, P345, DOI 10.1146/annurev.soc.24.1.345
+   Nenko A, 2017, GEOJOURNAL LIB, V123, P241, DOI 10.1007/978-3-319-53217-2_11
+   Nerghes A, 2015, INT J COMMUN-US, V9, P106
+   Pavan E., 2012, Frames and Connections in the Governance of Global Communications: A Network Study of the Internet Governance Forum
+   Pavan E, 2018, PARTECIP CONFL, V11, P394, DOI 10.1285/i20356609v11i2p394
+   Pivovarov AM., 2016, Indian Journal of Science and Technology, V9, P1, DOI [10.17485/ijst/2016/v9i25/90760, DOI 10.17485/ijst/2016/v9i25/90760]
+   PORTER MF, 1980, PROGRAM-AUTOM LIBR, V14, P130, DOI 10.1108/eb046814
+   Roth C, 2010, SOC NETWORKS, V32, P16, DOI 10.1016/j.socnet.2009.04.005
+   Ruef M, 1999, SOC FORCES, V77, P1403, DOI 10.2307/3005881
+   Saint-Charles J, 2018, SOC NETWORKS, V52, P228, DOI 10.1016/j.socnet.2017.09.001
+   Sanchez-Jankowski Martin., 2008, Cracks in the Pavement: Social Change and Resilience in Poor Neighborhoods
+   SEWELL WH, 1992, AM J SOCIOL, V98, P1, DOI 10.1086/229967
+   Vaisey S, 2010, SOC FORCES, V88, P1595
+   Wang P, 2013, SOC NETWORKS, V35, P96, DOI 10.1016/j.socnet.2013.01.004
+   White HC, 2007, SOCIOLOGICA, DOI 10.2383/25960
+   White HarrisonC., 1993, CAREERS CREATIVITY S
+   Yeung KT, 2005, SOC FORCES, V84, P391, DOI 10.1353/sof.2005.0132
+NR 97
+TC 17
+Z9 17
+U1 4
+U2 27
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0304-422X
+EI 1872-7514
+J9 POETICS
+JI Poetics
+PD FEB
+PY 2020
+VL 78
+AR 101353
+DI 10.1016/j.poetic.2019.02.004
+PG 19
+WC Literature; Sociology
+WE Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Literature; Sociology
+GA LY8WY
+UT WOS:000540811400003
+OA Green Published, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Lee, F
+   Butts, CT
+AF Lee, Francis
+   Butts, Carter T.
+TI On the validity of perceived social structure
+SO JOURNAL OF MATHEMATICAL PSYCHOLOGY
+LA English
+DT Article
+ID NETWORK; INFERENCE; CONSENSUS; BALANCE; ORGANIZATION; ATTRIBUTES;
+   ACCURACY
+AB The validity of survey-based reports of social relationships is a critical assumption for much social network research. Research on informant accuracy has shown that observational data and recalled behavior by informants are imperfectly correlated, which calls into question whether complex relations like friendship and advice-seeking can be accurately measured from individual reports. A class of network inference models, the Bayesian Network Accuracy Models, growing out of the pioneering work of Batchelder and Romney on inference from informant reports, provides a principled basis for inferring network structure given such error-prone data. Using these models, we can gain insight into the accuracy of informants' self and proxy reports of social ties, and more broadly, the reliability and validity of respondents' reports of informal social relations. While existing data does not provide a criterion validity check for inferring most relationships, other notions of validity and/or reliability can still be applied. For instance, if friendship reports are generated from a common underlying network that is perceivable (albeit imperfectly) by all actors, then random subsets of actors should produce estimates that should agree (i.e., split-half reliability). Using informant reports on friendship and advice-seeking networks from four different organizations, we show substantially higher levels of split-half reliability than can be explained by chance, suggesting that models are indeed estimating a common underlying relation. We also show that informants' errors appear to be structured in ways that are consistent with cognitive models of social perception, with greater accuracy on average for large-scale network features rather than fine details, for own versus others' ties, and for core-periphery structures versus bipartitions. Evidence from construct validity checks further suggests the that common networks underlying informants' reports have properties that would be expected of true social structures. Taken together, our findings support the view that informants' mental models of social structure, while error-prone, nevertheless reflect an underlying social reality. (c) 2020 Elsevier Inc. All rights reserved.
+C1 [Lee, Francis; Butts, Carter T.] Univ Calif Irvine, Dept Sociol, Irvine, CA 92697 USA.
+   [Butts, Carter T.] Univ Calif Irvine, Dept Stat, Irvine, CA 92697 USA.
+   [Butts, Carter T.] Univ Calif Irvine, Dept Comp Sci, Irvine, CA 92697 USA.
+   [Butts, Carter T.] Univ Calif Irvine, Dept EECS, Irvine, CA 92697 USA.
+   [Butts, Carter T.] Univ Calif Irvine, Inst Math Behav Sci, Irvine, CA 92697 USA.
+C3 University of California System; University of California Irvine;
+   University of California System; University of California Irvine;
+   University of California System; University of California Irvine;
+   University of California System; University of California Irvine;
+   University of California System; University of California Irvine
+RP Butts, CT (corresponding author), Univ Calif Irvine, SSPA 2145, Irvine, CA 92697 USA.
+EM buttsc@uci.edu
+FU National Science Foundation, United States of America [SES-1826589]
+FX This work was supported under National Science Foundation, United States
+   of America award SES-1826589.
+CR Agrawal S, 2012, PROCEEDINGS OF THE 2012 INTERNATIONAL CONFERENCE ON COMMUNICATIONS, DEVICES AND INTELLIGENT SYSTEMS (CODLS), P535, DOI 10.1109/CODIS.2012.6422257
+   Alhazmi H, 2015, 2015 INTERNATIONAL CONFERENCE ON COMPUTING, NETWORKING AND COMMUNICATIONS (ICNC), P863, DOI 10.1109/ICCNC.2015.7069459
+   Anderson BS, 1999, SOC NETWORKS, V21, P239, DOI 10.1016/S0378-8733(99)00011-8
+   [Anonymous], 1961, ACQUAINTANCE PROCESS
+   Baer RD, 2003, CULT MED PSYCHIAT, V27, P315, DOI 10.1023/A:1025351231862
+   BANKS D, 1994, J CLASSIF, V11, P121, DOI 10.1007/BF01201026
+   BATCHELDER WH, 1988, PSYCHOMETRIKA, V53, P71, DOI 10.1007/BF02294195
+   BERNARD HR, 1984, ANNU REV ANTHROPOL, V13, P495, DOI 10.1146/annurev.an.13.100184.002431
+   BERNARD HR, 1980, SOC NETWORKS, V2, P191, DOI 10.1016/0378-8733(79)90014-5
+   Brashears ME, 2015, SOC NETWORKS, V41, P113, DOI 10.1016/j.socnet.2014.11.003
+   Brewis AA, 2011, CURR ANTHROPOL, V52, P269, DOI 10.1086/659309
+   Butts C. T., 2005, Computational & Mathematical Organization Theory, V11, P291, DOI 10.1007/s10588-005-5586-6
+   Butts C. T., 2014, ARXIV171002773
+   Butts CT, 2003, SOC NETWORKS, V25, P103, DOI 10.1016/S0378-8733(02)00038-2
+   CARTWRIGHT D, 1956, PSYCHOL REV, V63, P277, DOI 10.1037/h0046049
+   Casciaro T, 1998, SOC NETWORKS, V20, P331, DOI 10.1016/S0378-8733(98)00008-2
+   Creswick N, 2010, INT J MED INFORM, V79, pE116, DOI 10.1016/j.ijmedinf.2008.08.005
+   CRONBACH LJ, 1955, PSYCHOL BULL, V52, P281, DOI 10.1037/h0040957
+   Davis J. A., 1972, SOCIOLOGICAL THEORIE, V2, P218
+   DAVIS JA, 1963, AM J SOCIOL, V68, P444, DOI 10.1086/223401
+   de Puiseau BW, 2017, PSYCHOL RES-PSYCH FO, V81, P947, DOI 10.1007/s00426-016-0802-1
+   Dearing JW, 2017, IMPLEMENT SCI, V12, DOI 10.1186/s13012-017-0542-7
+   Doran D, 2013, INT CONF COMPU ASPEC, P68, DOI 10.1109/CASoN.2013.6622602
+   Dougherty ER, 2007, CURR GENOMICS, V8, P351, DOI 10.2174/138920207783406505
+   Drost EA, 2011, Education Research and Perspectives, V38, P105, DOI 10.3316/informit.491551710186460
+   FISCHER CS, 1982, SOC NETWORKS, V3, P287, DOI 10.1016/0378-8733(82)90004-1
+   FISKE AP, 1991, J PERS SOC PSYCHOL, V60, P656, DOI 10.1037/0022-3514.60.5.656
+   Gelman A, 1996, STAT SINICA, V6, P733
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Hadley C, 2019, ECOL FOOD NUTR, V58, P93, DOI 10.1080/03670244.2019.1566131
+   HALLINAN MT, 1978, SOC NETWORKS, V1, P193, DOI 10.1016/0378-8733(78)90019-9
+   Heshmati S, 2019, J SOC PERS RELAT, V36, P214, DOI 10.1177/0265407517724600
+   Howison J, 2011, J ASSOC INF SYST, V12, P767
+   Hubert LawrenceJ. ., 1987, Assignment Methods in Combinatorial Data Analysis
+   Kilduff M., 2008, Interpersonal networks in organizations: Cognition, personality, dynamics, and culture, V30
+   Koskinen J., 2019, C PRES INT SUNB NETW
+   Koskinen JH, 2013, SOC NETWORKS, V35, P514, DOI 10.1016/j.socnet.2013.07.003
+   KRACKHARDT D, 1987, SOC NETWORKS, V9, P109, DOI 10.1016/0378-8733(87)90009-8
+   KRACKHARDT D, 1992, NETWORKS AND ORGANIZATIONS : STRUCTURE, FORM, AND ACTION, P216
+   Krackhardt D, 1999, J PERS SOC PSYCHOL, V76, P770, DOI 10.1037/0022-3514.76.5.770
+   KRACKHARDT D, 1987, SOC NETWORKS, V9, P171, DOI 10.1016/0378-8733(87)90012-8
+   KUMBASAR E, 1994, AM J SOCIOL, V100, P477, DOI 10.1086/230544
+   Lee F, 2018, SOC NETWORKS, V55, P55, DOI 10.1016/j.socnet.2018.05.005
+   Lomi A, 2014, ORGAN SCI, V25, P438, DOI 10.1287/orsc.2013.0850
+   Marcum CS, 2012, POLICY STUD J, V40, P516, DOI 10.1111/j.1541-0072.2012.00463.x
+   MINGAY DJ, 1994, AUTOBIOGRAPHICAL MEMORY AND THE VALIDITY OF RETROSPECTIVE REPORTS, P235
+   Newman MEJ, 2006, P NATL ACAD SCI USA, V103, P8577, DOI 10.1073/pnas.0601602103
+   Nunnally J.C., 1978, Psychometric Theory, V2nd
+   Oravecz Z, 2015, AM J PSYCHOL, V128, P61, DOI 10.5406/amerjpsyc.128.1.0061
+   PICEK JS, 1975, J PERS SOC PSYCHOL, V31, P758, DOI 10.1037/0022-3514.31.4.758
+   Qian Xiaoning, 2013, Frontiers in Genetics, V4, P272, DOI 10.3389/fgene.2013.00272
+   Richards W.D., 2000, Journal of Social Structure, V1, P1
+   ROMNEY AK, 1986, AM ANTHROPOL, V88, P313, DOI 10.1525/aa.1986.88.2.02a00020
+   ROMNEY AK, 1982, SOC NETWORKS, V4, P285, DOI 10.1016/0378-8733(82)90015-6
+   ROMNEY AK, 1987, AM BEHAV SCI, V31, P163, DOI 10.1177/000276487031002003
+   Sudman S., 1996, THINKING ANSWERS APP, P227
+   Wolfe AW, 1997, AM ETHNOL, V24, P219, DOI 10.1525/ae.1997.24.1.219
+NR 57
+TC 8
+Z9 8
+U1 1
+U2 3
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0022-2496
+EI 1096-0880
+J9 J MATH PSYCHOL
+JI J. Math. Psychol.
+PD SEP
+PY 2020
+VL 98
+AR 102384
+DI 10.1016/j.jmp.2020.102384
+PG 11
+WC Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods; Psychology, Mathematical
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Mathematical Methods In Social Sciences; Psychology
+GA OC9MV
+UT WOS:000579479700010
+OA Bronze
+DA 2024-11-22
+ER
+
+PT J
+AU Nöldeke, B
+   Winter, E
+   Grote, U
+AF Noeldeke, Beatrice
+   Winter, Etti
+   Grote, Ulrike
+TI Seed Selection Strategies for Information Diffusion in Social Networks:
+   An Agent-Based Model Applied to Rural Zambia
+SO JASSS-THE JOURNAL OF ARTIFICIAL SOCIETIES AND SOCIAL SIMULATION
+LA English
+DT Article
+DE Information Diffusion; Social Networks; Agent-Based Modelling; Seeding;
+   Zambia
+ID TECHNOLOGY ADOPTION; KNOWLEDGE DIFFUSION; AGRICULTURAL TECHNOLOGIES;
+   FARMERS; INNOVATIONS; DETERMINANTS; SIMULATION; EXTENSION; DYNAMICS;
+   EXPOSURE
+AB The successful adoption of innovations depends on the provision of adequate information to farmers. In rural areas of developing countries, farmers usually rely on their social networks as an information source. Hence, policy-makers and program-implementers can benefit fromsocial diffusion processes to effectively disseminate information. This study aims to identify the set of farmers who initially obtain information ('seeds') that optimises diffusion through the network. It systematically evaluates different criteria for seed selection, number of seeds, and their interaction effects. An empirical Agent-Based Model adjusted to a case study in rural Zambia was applied to predict diffusion outcomes for varying seed sets ex ante. Simulations revealed that informing farmers with the most connections leads to highest diffusion speed and reach. Also targeting village heads and farmers with high betweenness centrality, who function as bridges connecting different parts of the network, enhances diffusion. An increased number of seeds improves reach, but the marginal effects of additional seeds decline. Interdependencies between seed set size and selection criteria highlight the importance of considering both seed selection criteria and seed set size for optimising seeding strategies to enhance information diffusion.
+C1 [Noeldeke, Beatrice; Winter, Etti; Grote, Ulrike] Leibniz Univ Hannover, Inst Environm Econ & World Trade, Konigsworther Pl 1, D-30167 Hannover, Germany.
+C3 Leibniz University Hannover
+RP Nöldeke, B (corresponding author), Leibniz Univ Hannover, Inst Environm Econ & World Trade, Konigsworther Pl 1, D-30167 Hannover, Germany.
+EM noeldeke@iuw.uni-hannover.de
+OI Grote, Ulrike/0000-0002-9073-6294; Noeldeke,
+   Beatrice/0000-0003-2945-2396
+FU Zambian local Ministry of Agriculture; Federal Office for Agriculture
+   and Food (BLE) [2813FSNU11]; Federal Ministry of Food and Agriculture
+   (BMEL) [2813FSNU11]
+FX We thank the community of Mantapala for their participation and
+   continuous cooperation. We also thank the Zambian local Ministry of
+   Agriculture for their support in the organization of the research
+   activities. This work was supported by the Federal Office for
+   Agriculture and Food (BLE) and funded by the Federal Ministry of Food
+   and Agriculture (BMEL) under grant 2813FSNU11.
+CR Ahrweiler P, 2017, SCIENTOMETRICS, V110, P391, DOI 10.1007/s11192-016-2105-0
+   Akbarpour M., 2018, Just a Few Seeds More: Value of Network Information for Diffusion
+   Anderson JR, 2004, WORLD BANK RES OBSER, V19, P41, DOI 10.1093/wbro/lkh013
+   [Anonymous], 2014, 20422 NBER
+   Aral S., 2013, NETW SCI, V1, P125, DOI [DOI 10.1017/NWS.2013.6, 10.1017/nws.2013.6]
+   Bampo M, 2008, INFORM SYST RES, V19, P273, DOI 10.1287/isre.1070.0152
+   Bandiera O, 2006, ECON J, V116, P869, DOI 10.1111/j.1468-0297.2006.01115.x
+   Banerjee A., 2013, SCIENCE, V116
+   Barbuto A, 2019, AGR FOOD ECON, V7, DOI 10.1186/s40100-019-0121-0
+   Beaman L., 2018, 2139 YAL U EC GROWTH
+   Beaman L, 2018, J DEV ECON, V133, P147, DOI 10.1016/j.jdeveco.2018.01.009
+   Beyene AD, 2019, FOR TREES LIVELIHOOD, V28, P194, DOI 10.1080/14728028.2019.1620137
+   Bogner K, 2018, INT J COMPUT ECON EC, V8, P388, DOI 10.1504/IJCEE.2018.096365
+   Borgatti SP., 2018, ANAL SOCIAL NETWORKS
+   Cadger K, 2016, AGRICULTURE-BASEL, V6, DOI 10.3390/agriculture6030032
+   Caffaro F, 2020, J RURAL STUD, V76, P264, DOI 10.1016/j.jrurstud.2020.04.028
+   Centola D., 2018, How Behavior Spreads: The Science of Complex Contagions, DOI DOI 10.2307/J.CTVC7758P
+   Central Statistical Office of Zambia, 2018, ZAMB FIG 2018
+   Chavas JP, 2020, APPL ECON PERSPECT P, V42, P42, DOI 10.1002/aepp.13003
+   Conley T, 2001, AM J AGR ECON, V83, P668, DOI 10.1111/0002-9092.00188
+   Cowan R, 2004, J ECON DYN CONTROL, V28, P1557, DOI 10.1016/j.jedc.2003.04.002
+   DAngelo G., 2017, 42 INT S MATH FDN CO
+   Dechesne F, 2015, AI SOC, V30, P311, DOI 10.1007/s00146-014-0535-x
+   Delre S. A., 2007, Computational & Mathematical Organization Theory, V13, P185, DOI 10.1007/s10588-006-9007-2
+   Delre SA, 2010, J PROD INNOVAT MANAG, V27, P267, DOI 10.1111/j.1540-5885.2010.00714.x
+   Dijkxhoorn Y, 2019, J DEV EFFECT, V11, P146, DOI 10.1080/19439342.2019.1624596
+   Erlandsson F., 2018, INT C COMPL NETW THE
+   FEDER G, 1985, ECON DEV CULT CHANGE, V33, P255, DOI 10.1086/451461
+   FOSTER AD, 1995, J POLIT ECON, V103, P1176, DOI 10.1086/601447
+   Gassner A, 2019, OUTLOOK AGR, V48, P309, DOI 10.1177/0030727019888513
+   Genius M., 2014, AM J AGR ECON, V96, P344, DOI [10.1093/ajae/aat054, DOI 10.1093/ajae/aat054]
+   Gilbert N, 2018, JASSS-J ARTIF SOC S, V21, DOI 10.18564/jasss.3669
+   Goldenberg J, 2009, J MARKETING, V73, P1, DOI 10.1509/jmkg.73.2.1
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Grimm V, 2006, ECOL MODEL, V198, P115, DOI 10.1016/j.ecolmodel.2006.04.023
+   Grimm V, 2010, ECOL MODEL, V221, P2760, DOI 10.1016/j.ecolmodel.2010.08.019
+   Gronau S., 2018, Natural Resources, V9, P268, DOI [DOI 10.4236/NR.2018.96017, 10.4236/nr.2018.96017]
+   Hampwaye G., 2014, ZAMBIA COUNTRY BACKG
+   Hinz O, 2011, J MARKETING, V75, P55, DOI 10.1509/jm.10.0088
+   Hui Cindy, 2010, International Journal of Agent Technologies & Systems, V2, P31, DOI 10.4018/jats.2010070103
+   Nguyen HK, 2019, JASSS-J ARTIF SOC S, V22, DOI 10.18564/jasss.4008
+   Hussain O., 2013, 2013 INT C CLOUD GRE
+   Isaac ME, 2007, ECOL SOC, V12
+   Jang J, 2019, JASSS-J ARTIF SOC S, V22, DOI 10.18564/jasss.4037
+   Kabunga NS, 2012, AGR ECON-BLACKWELL, V43, P473, DOI 10.1111/j.1574-0862.2012.00597.x
+   KAHNEMAN D, 1979, ECONOMETRICA, V47, P263, DOI 10.2307/1914185
+   Kempe D., 2003, ACM C WASH DC
+   Khonje M, 2015, WORLD DEV, V66, P695, DOI 10.1016/j.worlddev.2014.09.008
+   Kowalska-Styczen A, 2018, JASSS-J ARTIF SOC S, V21, DOI 10.18564/jasss.3659
+   Krejci C, 2015, JASSS-J ARTIF SOC S, V18, DOI 10.18564/jasss.2727
+   LAWRANCE EC, 1991, J POLIT ECON, V99, P54, DOI 10.1086/261740
+   Leavy J, 2015, J DEV EFFECT, V7, P357, DOI 10.1080/19439342.2015.1068831
+   Leeuwis C., 2004, COMMUNICATION RURAL, VThird
+   Liebenehm S, 2014, AM J AGR ECON, V96, P1420, DOI 10.1093/ajae/aau056
+   Llewellyn RS, 2020, APPL ECON PERSPECT P, V42, P100, DOI 10.1002/aepp.13012
+   Lü LY, 2016, PHYS REP, V650, P1, DOI 10.1016/j.physrep.2016.06.007
+   Magnan N, 2015, J DEV ECON, V116, P223, DOI 10.1016/j.jdeveco.2015.05.003
+   Manson SM, 2016, ENVIRON MODELL SOFTW, V75, P388, DOI 10.1016/j.envsoft.2014.09.015
+   Matuschke I., 2008, 00816 IFPRI FAO UN
+   Matuschke I, 2009, AGR ECON-BLACKWELL, V40, P493, DOI 10.1111/j.1574-0862.2009.00393.x
+   Mekonnen DA, 2018, WORLD DEV, V105, P321, DOI 10.1016/j.worlddev.2017.04.020
+   Mochalova A., 2013, P 21 EUR C INF SYST
+   Morone P, 2004, J EVOL ECON, V14, P327, DOI 10.1007/s00191-004-0211-2
+   MORONE P, 2004, JASSS-J ARTIF SOC S, V7, P5
+   Muange E. N., 2014, AGR RUR INN HEALTH S
+   Mueller M, 2017, J ECON INTERACT COOR, V12, P613, DOI 10.1007/s11403-016-0178-8
+   Muller E, 2019, INT J RES MARK, V36, P3, DOI 10.1016/j.ijresmar.2018.05.003
+   Natcher D., 2016, Sustainable Agriculture Research, V5, P1, DOI 10.5539/sar.v5n3p1
+   Okello J, 2019, EUR J DEV RES, V31, P271, DOI 10.1057/s41287-018-0152-5
+   Olum S, 2020, OUTLOOK AGR, V49, P187, DOI 10.1177/0030727019879453
+   Perello-Moragues A, 2019, JASSS-J ARTIF SOC S, V22, DOI 10.18564/jasss.4100
+   Polhill JG, 2019, GEOINFORMATICA, V23, P169, DOI 10.1007/s10707-018-00340-z
+   Prawiti A., 2017, Journal of Economic Structures, V6, DOI [DOI 10.1186/S40008-017-0069-8, 10.1186/s40008-017-0069-8]
+   Qiao T, 2019, INT J INFORM MANAGE, V47, P152, DOI 10.1016/j.ijinfomgt.2019.01.016
+   Rink A, 2017, J DEV EFFECT, V9, P361, DOI 10.1080/19439342.2017.1327880
+   Rogers EM., 1983, Diffusion of Innovations, V3
+   Saint Ville AS, 2016, FOOD SECUR, V8, P535, DOI 10.1007/s12571-016-0581-y
+   Santoro M, 2017, J VASC RES, V54, P45
+   Scheller F., 2018, CONTRIBUTIONS I INFR
+   Shikuku KM, 2019, WORLD DEV, V115, P94, DOI 10.1016/j.worlddev.2018.11.012
+   Songsermsawas T, 2016, WORLD DEV, V83, P163, DOI 10.1016/j.worlddev.2016.01.023
+   Nguyen TT, 2017, WORLD DEV, V89, P199, DOI 10.1016/j.worlddev.2016.08.010
+   Valente TW, 1999, ANN AM ACAD POLIT SS, V566, P55, DOI 10.1177/0002716299566001005
+   Van den Broeck K, 2011, J DEV STUD, V47, P231, DOI 10.1080/00220381003599360
+   Vasilaky KN, 2018, ECON DEV CULT CHANGE, V66, P755, DOI 10.1086/697430
+   Wang Y., 2014, INT C INT COMP TAIYU
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Wood BA, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0105203
+   Xiong H, 2018, JASSS-J ARTIF SOC S, V21, DOI 10.18564/jasss.3797
+   Xu Q, 2020, JASSS-J ARTIF SOC S, V23, DOI 10.18564/jasss.4204
+   Zambia Statistics Agency, 2017, CROP FOR SURV
+   Zhao JC, 2010, PHYS REV E, V82, DOI 10.1103/PhysRevE.82.016105
+NR 92
+TC 6
+Z9 6
+U1 2
+U2 25
+PU J A S S S
+PI GUILDFORD
+PA UNIV SURREY, DEPT SOCIOLOGY, GUILDFORD GU2 7XH, SURREY, ENGLAND
+SN 1460-7425
+J9 JASSS-J ARTIF SOC S
+JI JASSS
+PD OCT 31
+PY 2020
+VL 23
+IS 4
+AR 9
+DI 10.18564/jasss.4429
+PG 24
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA OK2VO
+UT WOS:000584510500009
+OA gold, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Cheng, KF
+   Guo, XY
+   Cui, XT
+   Shan, FC
+AF Cheng, Kefei
+   Guo, Xiaoyong
+   Cui, Xiaotong
+   Shan, Fengchi
+TI Dynamical Modeling, Analysis, and Control of Information Diffusion over
+   Social Networks: A Deep Learning-Based Recommendation Algorithm in
+   Social Network
+SO DISCRETE DYNAMICS IN NATURE AND SOCIETY
+LA English
+DT Article
+AB The recommendation algorithm can break the restriction of the topological structure of social networks, enhance the communication power of information (positive or negative) on social networks, and guide the information transmission way of the news in social networks to a certain extent. In order to solve the problem of data sparsity in news recommendation for social networks, this paper proposes a deep learning-based recommendation algorithm in social network (DLRASN). First, the algorithm is used to process behavioral data in a serializable way when users in the same social network browse information. Then, global variables are introduced to optimize the encoding way of the central sequence of Skip-gram, in which way online users' browsing behavior habits can be learned. Finally, the information that the target users' have interests in can be calculated by the similarity formula and the information is recommended in social networks. Experimental results show that the proposed algorithm can improve the recommendation accuracy.
+C1 [Cheng, Kefei; Cui, Xiaotong] Chongqing Univ Posts & Telecommun, Sch Cyber Secur & Informat Law, Chongqing 400065, Peoples R China.
+   [Guo, Xiaoyong; Shan, Fengchi] Chongqing Univ Posts & Telecommun, Sch Comp Sci & Technol, Chongqing 400065, Peoples R China.
+C3 Chongqing University of Posts & Telecommunications; Chongqing University
+   of Posts & Telecommunications
+RP Guo, XY (corresponding author), Chongqing Univ Posts & Telecommun, Sch Comp Sci & Technol, Chongqing 400065, Peoples R China.
+EM chengkf@cqupt.edu.cn; 546740998@qq.com; cuixt@cqupt.edu.cn;
+   shanfengchi@qq.com
+RI Cui, Xiaotong/D-3722-2016
+OI Cui, Xiaotong/0000-0002-7208-1204
+CR [Anonymous], 2012, XIANG PRACTICE RECOM, P23
+   [Anonymous], 2014, PROC 20 ACM SIGKDD, DOI DOI 10.1145/2623330.2623732
+   Barkan Oren, 2016, IEEE INT WORKSH MACH
+   Blei DM, 2003, J MACH LEARN RES, V3, P993, DOI 10.1162/jmlr.2003.3.4-5.993
+   Cai Y, 2014, IEEE T KNOWL DATA EN, V26, P766, DOI 10.1109/TKDE.2013.7
+   Djuric N, 2015, PROCEEDINGS OF THE 24TH INTERNATIONAL CONFERENCE ON WORLD WIDE WEB (WWW 2015), P248, DOI 10.1145/2736277.2741643
+   Djuric N, 2014, IEEE DATA MINING, P779, DOI 10.1109/ICDM.2014.150
+   Gantz J., 2012, IDC IVIEW IDC ANALYZ, V2007, P1
+   Grbovic M, 2018, KDD'18: PROCEEDINGS OF THE 24TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY & DATA MINING, P311, DOI 10.1145/3219819.3219885
+   Grbovic M, 2015, KDD'15: PROCEEDINGS OF THE 21ST ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P1809, DOI 10.1145/2783258.2788627
+   Grbovic M, 2016, SIGIR'16: PROCEEDINGS OF THE 39TH INTERNATIONAL ACM SIGIR CONFERENCE ON RESEARCH AND DEVELOPMENT IN INFORMATION RETRIEVAL, P375, DOI 10.1145/2911451.2911538
+   Grover A, 2016, KDD'16: PROCEEDINGS OF THE 22ND ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P855, DOI 10.1145/2939672.2939754
+   Melucci M., 2009, ENCY DATABASE SYSTEM, P3259
+   Mikolov T., 2013, ADV NEURAL INFORM PR, P3111, DOI DOI 10.5555/2999792.2999959
+   Nedelec T., 2017, P 2 WORKSH DEEP LEAR, P10
+   Tagami Y, 2015, WWW'15 COMPANION: PROCEEDINGS OF THE 24TH INTERNATIONAL CONFERENCE ON WORLD WIDE WEB, P125, DOI 10.1145/2740908.2742712
+   Wang DJ, 2016, ICMR'16: PROCEEDINGS OF THE 2016 ACM INTERNATIONAL CONFERENCE ON MULTIMEDIA RETRIEVAL, P249, DOI 10.1145/2911996.2912045
+   [王妍 Wang Yan], 2018, [中文信息学报, Journal of Chinese Information Processing], V32, P114
+   Weston J., 2013, P 7 ACM C REC SYST, P65, DOI [10.1145/2507157.2507209, DOI 10.1145/2507157.2507209]
+NR 19
+TC 2
+Z9 2
+U1 2
+U2 18
+PU HINDAWI LTD
+PI LONDON
+PA ADAM HOUSE, 3RD FLR, 1 FITZROY SQ, LONDON, W1T 5HF, ENGLAND
+SN 1026-0226
+EI 1607-887X
+J9 DISCRETE DYN NAT SOC
+JI Discrete Dyn. Nat. Soc.
+PD JUL 3
+PY 2020
+VL 2020
+AR 3273451
+DI 10.1155/2020/3273451
+PG 8
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Mathematics; Science & Technology - Other Topics
+GA MQ3PH
+UT WOS:000552808200003
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Zhao, LD
+   Papachristos, AV
+AF Zhao, Linda
+   Papachristos, Andrew V.
+TI Network Position and Police Who Shoot
+SO ANNALS OF THE AMERICAN ACADEMY OF POLITICAL AND SOCIAL SCIENCE
+LA English
+DT Article
+DE police; police misconduct; social networks; brokerage; betweenness
+ID SOCIAL NETWORKS; CENTRALITY; CONTAGION; VIOLENCE
+AB This study applies the growing field of network science to explore whether police violence is associated with characteristics of an officer's social networks and his or her placement within those networks. To do this, we re-create the network of police misconduct for the Chicago Police Department using more than 38,442 complaints filed against police officers between 2000 and 2003. Our statistical models reveal that officers who shoot at civilians are often "brokers" within the social networks of policing, occupying important positions between other actors in the network and often connecting otherwise disconnected parts of the social structure between other officers within larger networks of misconduct. This finding holds, even net measures of officer activity, career movement, and sociodemographic background. Our finding suggest that policies and interventions aimed at curbing police shootings should include not only individual assessments of risk but also an understanding of officers' positions within larger social networks.
+C1 [Zhao, Linda] Harvard Univ, Dept Sociol, Cambridge, MA 02138 USA.
+   [Papachristos, Andrew V.] Northwestern Univ, Sociol, Evanston, IL 60208 USA.
+   [Papachristos, Andrew V.] Northwestern Univ, Inst Policy Res, Evanston, IL 60208 USA.
+C3 Harvard University; Northwestern University; Northwestern University
+RP Zhao, LD (corresponding author), Harvard Univ, Dept Sociol, Cambridge, MA 02138 USA.
+EM lzhao@fas.harvard.edu
+RI zhao, Linda/HGU-0391-2022
+CR [Anonymous], 2002, COMPANIONS CRIME SOC
+   [Anonymous], 1992, Structural holes
+   [Anonymous], 1989, Sociological Methodology, DOI DOI 10.2307/270949
+   Bloch P., 1974, Policewomen on patrol: Final report
+   Borgatti SP, 2006, SOC NETWORKS, V28, P466, DOI 10.1016/j.socnet.2005.11.005
+   Brandl SG, 2001, J CRIM JUST, V29, P521, DOI 10.1016/S0047-2352(01)00114-3
+   Burt RS, 2004, AM J SOCIOL, V110, P349, DOI 10.1086/421787
+   Chappell AT, 2004, DEVIANT BEHAV, V25, P89, DOI 10.1080/01639620490251642
+   Everett MG, 2016, SOC NETWORKS, V44, P202, DOI 10.1016/j.socnet.2015.09.001
+   Fagan J, 2007, CAMB HANDB PSYCHOL, P688
+   Faris R, 2011, AM SOCIOL REV, V76, P48, DOI 10.1177/0003122410396196
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   FREEMAN LC, 1977, SOCIOMETRY, V40, P35, DOI 10.2307/3033543
+   Fyfe J.J., 1978, Shots fired: An examination of New York City police firearms discharges
+   FYFE JJ, 1981, J POLICE SCI ADMIN, V9, P367
+   Getty RM, 2016, CRIME DELINQUENCY, V62, P821, DOI 10.1177/0011128714545829
+   Green B, 2017, JAMA INTERN MED, V177, P326, DOI 10.1001/jamainternmed.2016.8245
+   Haynie DanaL., 2013, The Oxford Handbook of Criminological Theory, P257
+   KRACKHARDT D, 1990, ADMIN SCI QUART, V35, P342, DOI 10.2307/2393394
+   Loeffler C, 2018, J QUANT CRIMINOL, V34, P999, DOI 10.1007/s10940-017-9363-8
+   McKee M, 2019, AIMS GEOSCI, V5, P1, DOI 10.3934/geosci.2019.1.1
+   Moskos P., 2008, COP HOOD
+   Novak KJ, 2011, POLICING, V34, P566, DOI 10.1108/13639511111180216
+   Ouellet M., 2019, CRIMINOL PUBLIC POL, V18, P675, DOI [10.1111/1745-9133, DOI 10.1111/1745-9133.12459]
+   Papachristos AV, 2015, SOC SCI MED, V125, P139, DOI 10.1016/j.socscimed.2014.01.056
+   Papachristos AV, 2011, ADV CRIM THEOR, V17, P101
+   Quispe-Torreblanca EG, 2019, NAT HUM BEHAV, V3, P797, DOI 10.1038/s41562-019-0612-8
+   Ridgeway G., 2016, STAT PUBLIC POLICY P, V3, P1
+   RIKSHEIM EC, 1993, J CRIM JUST, V21, P353, DOI 10.1016/0047-2352(93)90019-J
+   Roithmayr Daria., 2016, U CHICAGO LEGAL FORU, V10
+   SAVITZ L, 1970, AM BEHAV SCI, V13, P693, DOI 10.1177/000276427001300505
+   Short MB, 2014, DISCRETE CONT DYN-B, V19, P1459, DOI 10.3934/dcdsb.2014.19.1459
+   Stovel K, 2012, ANNU REV SOCIOL, V38, P139, DOI 10.1146/annurev-soc-081309-150054
+   Terrill W, 2002, JUSTICE Q, V19, P215, DOI 10.1080/07418820200095221
+   Towers S, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0129179
+   White Gentry, 2016, ENDOGENOUS EXOGENOUS
+   White MD, 2013, CRIM JUSTICE BEHAV, V40, P1301, DOI 10.1177/0093854813486269
+   Wolfe SE, 2011, CRIM JUSTICE BEHAV, V38, P332, DOI 10.1177/0093854810397739
+   Worden R.E., 1996, POLICE VIOLENCE, P23
+NR 39
+TC 22
+Z9 24
+U1 1
+U2 5
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0002-7162
+EI 1552-3349
+J9 ANN AM ACAD POLIT SS
+JI Ann. Am. Acad. Polit. Soc. Sci.
+PD JAN
+PY 2020
+VL 687
+IS 1
+SI SI
+BP 89
+EP 112
+DI 10.1177/0002716219901171
+PG 24
+WC Political Science; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Government & Law; Social Sciences - Other Topics
+GA KL2KW
+UT WOS:000513258900006
+OA Bronze
+DA 2024-11-22
+ER

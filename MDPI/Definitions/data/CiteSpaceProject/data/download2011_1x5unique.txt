@@ -1,0 +1,528 @@
+
+PT J
+AU Tsalatsanis, A
+   Barnes, L
+   Hozo, I
+   Skvoretz, J
+   Djulbegovic, B
+AF Tsalatsanis, Athanasios
+   Barnes, Laura
+   Hozo, Iztok
+   Skvoretz, John
+   Djulbegovic, Benjamin
+TI A Social Network Analysis of Treatment Discoveries in Cancer
+SO PLOS ONE
+LA English
+DT Article
+ID PHYSICIANS; BREAST; TRIAL
+AB Controlled clinical trials are widely considered to be the vehicle to treatment discovery in cancer that leads to significant improvements in health outcomes including an increase in life expectancy. We have previously shown that the pattern of therapeutic discovery in randomized controlled trials (RCTs) can be described by a power law distribution. However, the mechanism generating this pattern is unknown. Here, we propose an explanation in terms of the social relations between researchers in RCTs. We use social network analysis to study the impact of interactions between RCTs on treatment success. Our dataset consists of 280 phase III RCTs conducted by the NCI from 1955 to 2006. The RCT networks are formed through trial interactions formed i) at random, ii) based on common characteristics, or iii) based on treatment success. We analyze treatment success in terms of survival hazard ratio as a function of the network structures. Our results show that the discovery process displays power law if there are preferential interactions between trials that may stem from researchers' tendency to interact selectively with established and successful peers. Furthermore, the RCT networks are "small worlds": trials are connected through a small number of ties, yet there is much clustering among subsets of trials. We also find that treatment success (improved survival) is proportional to the network centrality measures of closeness and betweenness. Negative correlation exists between survival and the extent to which trials operate within a limited scope of information. Finally, the trials testing curative treatments in solid tumors showed the highest centrality and the most influential group was the ECOG. We conclude that the chances of discovering life-saving treatments are directly related to the richness of social interactions between researchers inherent in a preferential interaction model.
+C1 [Tsalatsanis, Athanasios; Barnes, Laura; Djulbegovic, Benjamin] Univ S Florida, Ctr Evidence Based Med & Hlth Outcomes Res, Tampa, FL 33606 USA.
+   [Hozo, Iztok] Indiana Univ NW, Dept Math, Gary, IN USA.
+   [Skvoretz, John] Univ S Florida, Dept Sociol, Tampa, FL USA.
+   [Djulbegovic, Benjamin] Univ S Florida, Coll Med, H Lee Moffitt Canc Ctr & Res Inst, Tampa, FL 33612 USA.
+C3 State University System of Florida; University of South Florida; Indiana
+   University System; Indiana University Northwest; State University System
+   of Florida; University of South Florida; State University System of
+   Florida; University of South Florida; H Lee Moffitt Cancer Center &
+   Research Institute
+RP Tsalatsanis, A (corresponding author), Univ S Florida, Ctr Evidence Based Med & Hlth Outcomes Res, Tampa, FL 33606 USA.
+EM atsalats@health.usf.edu
+RI Djulbegovic, Benjamin/I-3661-2012; Tsalatsanis, Athanasios/A-8742-2009;
+   hozo, iztok/R-3498-2016
+OI hozo, iztok/0000-0003-2349-5707; Tsalatsanis,
+   Athanasios/0000-0003-3818-8283
+FU Office of Research Integrity and National Institutes of Health
+   [1R01NS044417-01, 1R01NS052956-01, 1R01CA133594-01 NIH/ORI]
+FX This research has been supported by: Research program on research
+   integrity, Office of Research Integrity and National Institutes of
+   Health (grants: No 1R01NS044417-01, 1R01NS052956-01 and 1R01CA133594-01
+   NIH/ORI); PI: Dr. Djulbegovic. The funders had no role in study design,
+   data collection and analysis, decision to publish, or preparation of the
+   manuscript.
+CR Amaral LAN, 2000, P NATL ACAD SCI USA, V97, P11149, DOI 10.1073/pnas.200327197
+   [Anonymous], 1676, COMMUNICATION
+   Barabasi A.-L., 1999, EMERGENCE SCALING RA, P509
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Burt RS, 2004, AM J SOCIOL, V110, P349, DOI 10.1086/421787
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Collins R, 2001, LANCET, V357, P373, DOI 10.1016/S0140-6736(00)03651-5
+   Cullen R, 1997, B MED LIBR ASSOC, V85, P348
+   Djulbegovic B, 2000, LANCET, V356, P635, DOI 10.1016/S0140-6736(00)02605-2
+   Djulbegovic B, 2001, Curr Oncol Rep, V3, P389, DOI 10.1007/s11912-001-0024-5
+   Djulbegovic B, 2009, CANCER CONTROL, V16, P158, DOI 10.1177/107327480901600208
+   Djulbegovic B, 2008, ARCH INTERN MED, V168, P632, DOI 10.1001/archinte.168.6.632
+   Erdos P., 1959, PUBL MATH-DEBRECEN, V6, P290
+   Fisher B, 2002, NEW ENGL J MED, V347, P1233, DOI 10.1056/NEJMoa022152
+   FISHER B, 1980, CANCER, V15, P4
+   Grann A, 2005, JAMA-J AM MED ASSOC, V293, P1001, DOI 10.1001/jama.293.8.1001
+   Haug JD, 1997, B MED LIBR ASSOC, V85, P223
+   Hyams DM, 1997, DIS COLON RECTUM, V40, P131, DOI 10.1007/BF02054976
+   Jackson MO, 2008, SOCIAL AND ECONOMIC NETWORKS, P1
+   Jadad A.R., 1998, RANDOMIZED CONTROLLE
+   Keating NL, 2007, J GEN INTERN MED, V22, P794, DOI 10.1007/s11606-007-0190-8
+   Kleinberg J., 1998, P 9 ANN ACM SIAM S D, P668
+   Klemm K, 2002, PHYS REV E, V65, DOI 10.1103/PhysRevE.65.057102
+   Kuhn Thomas., 1969, STRUCTURE SCI REVOLU
+   Newman MEJ, 2001, P NATL ACAD SCI USA, V98, P404, DOI 10.1073/pnas.021544898
+   Newman MJ, 2005, POWER LAWS PARETO DI, P323
+   Popper K., 1972, OBJECTIVE KNOWLEDGE
+   Popper K, 1945, ECONOMICA-NEW SER, V12, P69, DOI 10.2307/2549898
+   Reaman Gregory H, 2004, J Pediatr Oncol Nurs, V21, P123, DOI 10.1177/1043454204264406
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+NR 30
+TC 5
+Z9 5
+U1 1
+U2 6
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD MAR 28
+PY 2011
+VL 6
+IS 3
+AR e18060
+DI 10.1371/journal.pone.0018060
+PG 10
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA 743XV
+UT WOS:000289053800020
+PM 21464896
+OA gold, Green Submitted, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Rand, DG
+   Arbesman, S
+   Christakis, NA
+AF Rand, David G.
+   Arbesman, Samuel
+   Christakis, Nicholas A.
+TI Dynamic social networks promote cooperation in experiments with humans
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE collective action; economic games; evolutionary game theory; homophily;
+   reciprocity
+ID ANTISOCIAL PUNISHMENT; EVOLUTIONARY GAMES; RECIPROCITY; BEHAVIOR; MODEL;
+   COEVOLUTION; SPREAD
+AB Human populations are both highly cooperative and highly organized. Human interactions are not random but rather are structured in social networks. Importantly, ties in these networks often are dynamic, changing in response to the behavior of one's social partners. This dynamic structure permits an important form of conditional action that has been explored theoretically but has received little empirical attention: People can respond to the cooperation and defection of those around them by making or breaking network links. Here, we present experimental evidence of the power of using strategic link formation and dissolution, and the network modification it entails, to stabilize cooperation in sizable groups. Our experiments explore large-scale cooperation, where subjects' cooperative actions are equally beneficial to all those with whom they interact. Consistent with previous research, we find that cooperation decays over time when social networks are shuffled randomly every round or are fixed across all rounds. We also find that, when networks are dynamic but are updated only infrequently, cooperation again fails. However, when subjects can update their network connections frequently, we see a qualitatively different outcome: Cooperation is maintained at a high level through network rewiring. Subjects preferentially break links with defectors and form new links with cooperators, creating an incentive to cooperate and leading to substantial changes in network structure. Our experiments confirm the predictions of a set of evolutionary game theoretic models and demonstrate the important role that dynamic social networks can play in supporting large- scale human cooperation.
+C1 [Arbesman, Samuel; Christakis, Nicholas A.] Harvard Univ, Inst Quantitat Social Sci, Cambridge, MA 02138 USA.
+   [Rand, David G.] Harvard Univ, Program Evolutionary Dynam, Cambridge, MA 02138 USA.
+   [Rand, David G.] Harvard Univ, Dept Psychol, Cambridge, MA 02138 USA.
+   [Arbesman, Samuel; Christakis, Nicholas A.] Harvard Univ, Sch Med, Dept Hlth Care Policy, Boston, MA 02115 USA.
+   [Christakis, Nicholas A.] Harvard Univ, Sch Med, Dept Med, Boston, MA 02115 USA.
+   [Christakis, Nicholas A.] Harvard Univ, Dept Sociol, Cambridge, MA 02138 USA.
+C3 Harvard University; Harvard University; Harvard University; Harvard
+   University; Harvard Medical School; Harvard University; Harvard Medical
+   School; Harvard University
+RP Christakis, NA (corresponding author), Harvard Univ, Inst Quantitat Social Sci, Cambridge, MA 02138 USA.
+EM christak@hcp.med.harvard.edu
+RI Christakis, Nicholas/B-6690-2008; Rand, David/B-3716-2009
+OI Rand, David/0000-0002-2821-468X; Rand, David/0000-0001-8975-2783
+FU National Institute on Aging [P01-AG031093]; Pioneer Portfolio of the
+   Robert Wood Johnson Foundation; Science of Generosity Initiative of the
+   University of Notre Dame; The John Templeton Foundation
+FX We are grateful for extensive input and suggestions from Feng Fu and
+   helpful comments from Benjamin Allen, Anna Dreber, James Fowler, John
+   Horton, and Erez Lieberman Aiden. Mark McKnight provided expert
+   programming needed for the online experiments, and Rob Kane provided
+   invaluable assistance running the experiments. This work was supported
+   by Grant P01-AG031093 from the National Institute on Aging, a grant from
+   the Pioneer Portfolio of the Robert Wood Johnson Foundation, and by the
+   Science of Generosity Initiative of the University of Notre Dame,
+   supported by The John Templeton Foundation. D. G. R. is funded by The
+   John Templeton Foundation's Foundational Questions in Evolutionary
+   Biology Prize Fellowship.
+CR Abramson G, 2001, PHYS REV E, V63, DOI 10.1103/PhysRevE.63.030901
+   [Anonymous], J THEOR BIOL
+   [Anonymous], EXP EC
+   [Anonymous], 2011, Psychology of Punishment
+   [Anonymous], CALCULUS SELFISHNESS
+   [Anonymous], EC INQ
+   [Anonymous], AM EC REV IN PRESS
+   AXELROD R, 1981, SCIENCE, V211, P1390, DOI 10.1126/science.7466396
+   Boyd R, 2003, P NATL ACAD SCI USA, V100, P3531, DOI 10.1073/pnas.0630443100
+   BOYD R, 1988, J THEOR BIOL, V132, P337, DOI 10.1016/S0022-5193(88)80219-4
+   Cameron AC, 2011, J BUS ECON STAT, V29, P238, DOI 10.1198/jbes.2010.07136
+   Cassar A, 2007, GAME ECON BEHAV, V58, P209, DOI 10.1016/j.geb.2006.03.008
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   Cinyabuguma M, 2005, J PUBLIC ECON, V89, P1421, DOI 10.1016/j.jpubeco.2004.05.011
+   Cinyabuguma M, 2006, EXP ECON, V9, P265, DOI 10.1007/s10683-006-9127-z
+   Cressman R, 2003, ECON LEARN SOC EVOL, P1
+   Dal Bó P, 2005, AM ECON REV, V95, P1591
+   DAVIS JA, 1970, AM SOCIOL REV, V35, P843, DOI 10.2307/2093295
+   Dreber A, 2008, NATURE, V452, P348, DOI 10.1038/nature06723
+   Ebel H, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.056118
+   Fehl K, 2011, ECOL LETT, V14, P546, DOI 10.1111/j.1461-0248.2011.01615.x
+   Fehr E, 2002, NATURE, V415, P137, DOI 10.1038/415137a
+   Fowler JH, 2011, P NATL ACAD SCI USA, V108, P1993, DOI 10.1073/pnas.1011687108
+   Fowler JH, 2010, P NATL ACAD SCI USA, V107, P5334, DOI 10.1073/pnas.0913149107
+   Fowler JH, 2009, P NATL ACAD SCI USA, V106, P1720, DOI 10.1073/pnas.0806746106
+   Fu F, 2008, PHYS REV E, V78, DOI 10.1103/PhysRevE.78.016104
+   FUDENBERG D, 1986, ECONOMETRICA, V54, P533, DOI 10.2307/1911307
+   Grujic J, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013749
+   Hanaki N, 2007, MANAGE SCI, V53, P1036, DOI 10.1287/mnsc.1060.0625
+   Hauert C, 2002, J THEOR BIOL, V218, P187, DOI 10.1006/jtbi.2002.3067
+   Hauert C, 2002, SCIENCE, V296, P1129, DOI 10.1126/science.1070582
+   Hauert C, 2007, SCIENCE, V316, P1905, DOI 10.1126/science.1141588
+   Helbing D, 2009, P NATL ACAD SCI USA, V106, P3680, DOI 10.1073/pnas.0811503106
+   Henrich J, 2010, SCIENCE, V327, P1480, DOI 10.1126/science.1182238
+   Herrmann B, 2008, SCIENCE, V319, P1362, DOI 10.1126/science.1153808
+   Kearns M, 2006, SCIENCE, V313, P824, DOI 10.1126/science.1127207
+   Marvel SA, 2011, P NATL ACAD SCI USA, V108, P1771, DOI 10.1073/pnas.1013213108
+   Masclet D, 2003, INT J MANPOWER, V24, P867, DOI 10.1108/01437720310502177
+   Milinski M, 2002, NATURE, V415, P424, DOI 10.1038/415424a
+   MILLER RR, 1967, J PERS SOC PSYCHOL, V6, P150, DOI 10.1037/h0024598
+   Nikiforakis N, 2008, J PUBLIC ECON, V92, P91, DOI 10.1016/j.jpubeco.2007.04.008
+   NOWAK MA, 1992, NATURE, V355, P250, DOI 10.1038/355250a0
+   NOWAK MA, 1992, NATURE, V359, P826, DOI 10.1038/359826a0
+   Nowak MA, 2010, PHILOS T R SOC B, V365, P19, DOI 10.1098/rstb.2009.0215
+   Ohtsuki H, 2006, NATURE, V441, P502, DOI 10.1038/nature04605
+   ORBELL JM, 1993, AM SOCIOL REV, V58, P787, DOI 10.2307/2095951
+   OSTROM E, 1992, AM POLIT SCI REV, V86, P404, DOI 10.2307/1964229
+   Pacheco JM, 2008, J THEOR BIOL, V250, P723, DOI 10.1016/j.jtbi.2007.10.040
+   Palla G, 2007, NATURE, V446, P664, DOI 10.1038/nature05670
+   Perc M, 2010, BIOSYSTEMS, V99, P109, DOI 10.1016/j.biosystems.2009.10.003
+   Rand DG, 2011, NAT COMMUN, V2, DOI 10.1038/ncomms1442
+   Rand DG, 2010, J THEOR BIOL, V265, P624, DOI 10.1016/j.jtbi.2010.06.010
+   Rand DG, 2009, SCIENCE, V325, P1272, DOI 10.1126/science.1177418
+   RAPOPORT ANATOL, 1957, BULL MATH BIOPHYS, V19, P257, DOI 10.1007/BF02478417
+   Rockenbach B, 2006, NATURE, V444, P718, DOI 10.1038/nature05229
+   Santos FC, 2005, PHYS REV LETT, V95, DOI 10.1103/PhysRevLett.95.098104
+   Santos FC, 2006, PLOS COMPUT BIOL, V2, P1284, DOI 10.1371/journal.pcbi.0020140
+   Semmann D, 2003, NATURE, V425, P390, DOI 10.1038/nature01986
+   Skyrms B, 2000, P NATL ACAD SCI USA, V97, P9340, DOI 10.1073/pnas.97.16.9340
+   Suri S, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0016836
+   Sutter M, 2010, REV ECON STUD, V77, P1540, DOI 10.1111/j.1467-937X.2010.00608.x
+   Szabó G, 2007, PHYS REP, V446, P97, DOI 10.1016/j.physrep.2007.04.004
+   Traulsen A, 2010, P NATL ACAD SCI USA, V107, P2962, DOI 10.1073/pnas.0912515107
+   Wardil L, 2009, EPL-EUROPHYS LETT, V86, DOI 10.1209/0295-5075/86/38001
+   Zimmermann MG, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.065102
+NR 66
+TC 455
+Z9 529
+U1 12
+U2 169
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+EI 1091-6490
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD NOV 29
+PY 2011
+VL 108
+IS 48
+BP 19193
+EP 19198
+DI 10.1073/pnas.1108243108
+PG 6
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA 853ZB
+UT WOS:000297463100026
+PM 22084103
+OA Green Published, Bronze
+DA 2024-11-22
+ER
+
+PT J
+AU Ogaki, T
+   Honda, R
+AF Ogaki, Toshiro
+   Honda, Riki
+TI Effect of Dynamics of Social Network on Culture Formation driven by
+   Adaptation to Environmental Conditions
+SO SOCIOLOGICAL THEORY AND METHODS
+LA Japanese
+DT Article
+DE network dynamics; culture; environment adaptation; homophily;
+   polarization
+ID POLARIZATION; MODEL
+AB This paper presents an agent based model to simulate the process of formation of culture considering the adaptation to the environmental condition and discuss the effect of dynamic change of social network.
+   In the presented model, agents learn the information provided from the environment and agents do not simply share the information that was hold by agents at the initial state. In the diffusion process of information, agents do not simply copy other agents' state variables, but share the target of learning, which is supposed to simulate "conditional learning". Network is supposed to be dynamic and links are rewired based on the homophily rule. Dynamic analysis of the model is supposed to show the co-evolution process of network and culture.
+   Simulation results reveal that several groups of culture, which are corresponding to the environmental conditions, are formed when homophilic property of network dynamics is suppressed by constraint on the link rewiring, etc. These results indicate a new mechanism of formation of polarized cultural groups in the community, society and so forth.
+C1 [Ogaki, Toshiro; Honda, Riki] Univ Tokyo, Fac Engn, Bunkyo Ku, Tokyo 1138656, Japan.
+C3 University of Tokyo
+RP Ogaki, T (corresponding author), Univ Tokyo, Fac Engn, Bunkyo Ku, 7-3-1 Hongo, Tokyo 1138656, Japan.
+CR [Anonymous], 1977, INEQUALITY HETEROGEN
+   Axelrod R, 1997, J CONFLICT RESOLUT, V41, P203, DOI 10.1177/0022002797041002001
+   Axelrod R.M., 2000, HARNESSING COMPLEXIT
+   Baldassarri D, 2007, AM SOCIOL REV, V72, P784, DOI 10.1177/000312240707200507
+   Brown J.S., 1989, ED RES, V18, P32, DOI [DOI 10.3102/0013189X018001032, 10.3102/0013189X018001032]
+   CARLEY K, 1991, AM SOCIOL REV, V56, P331, DOI 10.2307/2096108
+   Centola D, 2007, J CONFLICT RESOLUT, V51, P905, DOI 10.1177/0022002707307632
+   FISCHER CS, 1975, AM J SOCIOL, V80, P1319, DOI 10.1086/225993
+   FRIEDKIN NE, 1990, J MATH SOCIOL, V15, P193, DOI 10.1080/0022250X.1990.9990069
+   Lave J, 1991, SITUATED LEARNING LE, DOI DOI 10.1017/CBO9780511815355
+   Lazarsfeld P.F., 1954, Freedom and Control in Modern Society, P18, DOI DOI 10.1111/J.1467-8705.2012.02056_3.X
+   Macy MW, 2002, ANNU REV SOCIOL, V28, P143, DOI 10.1146/annurev.soc.28.110601.141117
+   MARSDEN PV, 1988, SOC NETWORKS, V10, P57, DOI 10.1016/0378-8733(88)90010-X
+   MARSDEN PV, 1993, SOCIOL METHOD RES, V22, P127, DOI 10.1177/0049124193022001006
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   NOWAK A, 1990, PSYCHOL REV, V97, P362, DOI 10.1037/0033-295X.97.3.362
+   Shibanai Y, 2001, J CONFLICT RESOLUT, V45, P80, DOI 10.1177/0022002701045001004
+   WELLMAN B, 1979, AM J SOCIOL, V84, P1201, DOI 10.1086/226906
+NR 18
+TC 1
+Z9 1
+U1 0
+U2 13
+PU JAPANESE ASSOC MATHEMATICAL SOCIOLOGY
+PI SENDAI
+PA C/O J A M S EXECUTIVE OFFICE, TOHOKU UNIV, DEPT BEHAVIORAL SCIENCE,
+   SENDAI, 980-8576, JAPAN
+SN 0913-1442
+J9 SOCIOL THEOR METHOD
+JI Sociol. Theor. Methods
+PD MAR
+PY 2011
+VL 26
+IS 1
+SI SI
+BP 67
+EP 81
+PG 15
+WC Social Sciences, Mathematical Methods; Sociology
+WE Social Science Citation Index (SSCI)
+SC Mathematical Methods In Social Sciences; Sociology
+GA 766VQ
+UT WOS:000290815100005
+DA 2024-11-22
+ER
+
+PT J
+AU Heidler, R
+AF Heidler, Richard
+TI Cognitive and Social Structure of the Elite Collaboration Network of
+   Astrophysics: A Case Study on Shifting Network Structures
+SO MINERVA
+LA English
+DT Article
+DE Scientific networks; Cognitive structure; Co-authorship network;
+   Astrophysics; Scientific collaboration; Elite network; Social network
+   analysis; Epistemic culture; Scientific disciplines; Dark energy
+ID SCIENCE; COAUTHORSHIP; ASTRONOMY; PATTERNS; ENERGY
+AB Scientific collaboration can only be understood along the epistemic and cognitive grounding of scientific disciplines. New scientific discoveries in astrophysics led to a major restructuring of the elite network of astrophysics. To study the interplay of the epistemic grounding and the social network structure of a discipline, a mixed-methods approach is necessary. It combines scientometrics, quantitative network analysis and visualization tools with a qualitative network analysis approach. The centre of the international collaboration network of astrophysics is demarcated by identifying the 225 most productive astrophysicists. For the years 1998-1999 and 2001-2006 four co-authorship networks are constructed comprehending each a two year period. A visualization of the longitudinal network data gives first hints on the structural development of the network. The network of 2005-2006 is analyzed in depth. Based on cohesion analysis tools for network analysis, two main cores and three smaller ones are identified. Scientists in each core and additionally in structurally interesting positions are identified and 17 qualitative expert interviews are conducted with them. The visualization of the network of 2005-2006 is used in the interviews as a stimulus for the interviewees. An analysis of the three most often used keywords of the 225 astrophysicists is included and combined with the other data. The triangulation of these approaches shows that major epistemic changes in astrophysics, e.g. the discovery of the accelerating expansion of the universe, together with technical and organizational innovations, leads to a restructuring of the network of the discipline. The importance of a combination of qualitative and quantitative network analysis tools for the understanding of the interplay of cognitive and social structure in the sociology of science is substantiated.
+C1 Lehrstuhl Soziol Org, D-42097 Wuppertal, Germany.
+RP Heidler, R (corresponding author), Lehrstuhl Soziol Org, Gaussstr 20, D-42097 Wuppertal, Germany.
+EM heidler@uni-wuppertal.de
+RI Heidler, Richard/AAC-6563-2019
+OI Heidler, Richard/0000-0002-4534-4195
+CR [Anonymous], 1959, The Copernican Revolution
+   [Anonymous], WISSENSKULTUREN
+   [Anonymous], 1965, The Scientific Community
+   [Anonymous], 1990, WISSENSCHAFT GESELLS
+   Batagelj V., 2010, PAJEK REFERENCE MANU
+   Batagelj V., 2002, Generalized cores. CoRR cs.DS/0202039, V5, P1
+   Beaver D. deB., 1978, Scientometrics, V1, P65, DOI 10.1007/BF02016840
+   Becher T., 2001, Academic Tribes and Territories
+   Biermann Peter, 1987, DENKSCHRIFT ASTRONOM
+   Bonaccorsi A., 2007, Sci. Public Policy, V34, P303, DOI DOI 10.3152/030234207X229411
+   Bonaccorsi A, 2008, MINERVA, V46, P285, DOI 10.1007/s11024-008-9101-3
+   Breiger RonaldL., 1976, AM SOCIOL REV, V41, P117
+   Burt R. S, 1992, STRUCTURAL HOLES SOC
+   CHUBIN DE, 1976, SOCIOL QUART, V17, P448, DOI 10.1111/j.1533-8525.1976.tb01715.x
+   Claspy William P., 1998, ASP C SERIES, V153, P1
+   DFG, 2003, STATUS PERSPEKTIVEN
+   Economic Intelligent Unit, 2009, ECONOMIST, P1
+   Edge D., 1976, Astronomy Transformed: The Emergence of Radio Astronomy in Britain
+   Fernandez JA, 1998, SCIENTOMETRICS, V42, P61, DOI 10.1007/BF02465012
+   Fuhse JA, 2009, SOCIOL THEOR, V27, P51, DOI 10.1111/j.1467-9558.2009.00338.x
+   Goldsmith D., 2000, The Runaway Universe: The Race to Find the Future of the Cosmos
+   GORDON MD, 1980, SCIENTOMETRICS, V2, P193, DOI 10.1007/BF02016697
+   Grewing Michael, 2006, ORG STRATEGIES ASTRO, V7, P203
+   HALLIWELL MJ, 1982, PAC SOCIOL REV, V25, P233
+   Heck A, 2003, ASTROPHYS SPACE SC L, V290, P203
+   Hohn Hans-Willy, 1998, KOGNITIVE STRUKTUREN
+   Jansen D., 1998, HOCHTEMPERATURSUPRAL
+   Jansen D, 2010, SCIENTOMETRICS, V83, P219, DOI 10.1007/s11192-009-0022-1
+   KAMADA T, 1989, INFORM PROCESS LETT, V31, P7, DOI 10.1016/0020-0190(89)90102-6
+   Kirshner R.P., 2002, The extravagant universe : exploding stars, dark energy and the accelerating cosmos
+   Knoke D., 1982, NETWORK ANAL
+   Kolb R, 2007, REP PROG PHYS, V70, P1583, DOI 10.1088/0034-4885/70/10/R01
+   Kuhn Thomas., 1969, STRUCTURE SCI REVOLU
+   Lahav Ofer, 2001, ORG STRATEGIES ASTRO, V2, P139
+   Laudel G., 2007, Science, Technology Innovation Studies, V3, P91
+   Leibundgut Bruno, 2005, ESO MESSENGER, V119, P45
+   Leydesdorff L, 2009, J AM SOC INF SCI TEC, V60, P348, DOI 10.1002/asi.20967
+   Lorenz Eckhard, 2009, HERBST WORKSH AG PHI, P1
+   March JG, 1991, ORGAN SCI, V2, P71, DOI 10.1287/orsc.2.1.71
+   McCray WP, 2000, SOC STUD SCI, V30, P685, DOI 10.1177/030631200030005002
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Meadows A.J., 1974, COMMUNICATION SCI
+   Merton R.K., 2006, The travels and adventures of serendipity: A study in sociological semantics and the sociology of science
+   MERTON RK, 1957, AM SOCIOL REV, V22, P635, DOI 10.2307/2089193
+   Moody J, 2003, AM SOCIOL REV, V68, P103, DOI 10.2307/3088904
+   Moody J, 2004, AM SOCIOL REV, V69, P213, DOI 10.1177/000312240406900204
+   MULLINS NC, 1977, AM SOCIOL REV, V42, P552, DOI 10.2307/2094554
+   Newman MEJ, 2004, P NATL ACAD SCI USA, V101, P5200, DOI 10.1073/pnas.0307545100
+   Newman MEJ, 2001, PHYS REV E, V64, DOI [10.1103/PhysRevE.64.016132, 10.1103/PhysRevE.64.016131]
+   Pachucki MA, 2010, ANNU REV SOCIOL, V36, P205, DOI 10.1146/annurev.soc.012809.102615
+   Perlmutter S, 1999, ASTROPHYS J, V517, P565, DOI 10.1086/307221
+   Riess AG, 1998, ASTRON J, V116, P1009, DOI 10.1086/300499
+   Rowlands I, 1999, SCIENTOMETRICS, V44, P533, DOI 10.1007/BF02458494
+   SDSS, 1998, LAST PIEC ADV NEW TE
+   SEIDMAN SB, 1983, SOC NETWORKS, V5, P269, DOI 10.1016/0378-8733(83)90028-X
+   Sovacool Benjamin., 2005, Bulletin of Science, Technology Society, V25, P53, DOI DOI 10.1177/0270467604270151
+   Stichweh Rudolf., 1992, SCI CONTEXT, V5, P3, DOI [10.1017/S0269889700001071, DOI 10.1017/S0269889700001071]
+   STOKES TD, 1989, SOC STUD SCI, V19, P101, DOI 10.1177/030631289019001003
+   Trimble V, 2010, SCIENTOMETRICS, V84, P21, DOI 10.1007/s11192-009-0070-6
+   von Gortz Regina, 2010, DISCIPLINARY DIFFERE
+   White SDM, 2007, REP PROG PHYS, V70, P883, DOI 10.1088/0034-4885/70/6/R01
+   White Simon D. M., 2007, TORONTO DARK ENERGY
+   Whitley, 2000, INTELLECTUAL SOCIAL
+   Whitley R.D., 1972, The Sociology of Science, Sociological Review Monograph, P61
+NR 64
+TC 15
+Z9 17
+U1 5
+U2 60
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0026-4695
+EI 1573-1871
+J9 MINERVA
+JI Minerva
+PD DEC
+PY 2011
+VL 49
+IS 4
+BP 461
+EP 488
+DI 10.1007/s11024-011-9184-0
+PG 28
+WC Education & Educational Research; History & Philosophy Of Science;
+   Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Education & Educational Research; History & Philosophy of Science;
+   Social Sciences - Other Topics
+GA 863TU
+UT WOS:000298191800005
+DA 2024-11-22
+ER
+
+PT J
+AU DiMaggio, P
+   Garip, F
+AF DiMaggio, Paul
+   Garip, Filiz
+TI How Network Externalities Can Exacerbate Intergroup Inequality
+SO AMERICAN JOURNAL OF SOCIOLOGY
+LA English
+DT Article
+ID CUMULATIVE CAUSATION; SOCIAL CONTAGION; DIFFUSION; MIGRATION; MODELS;
+   STRATIFICATION; ORGANIZATION; SETTLEMENT; INNOVATION; RESOURCES
+AB The authors describe a common but largely unrecognized mechanism that produces and exacerbates intergroup inequality: the diffusion of valuable practices with positive network externalities through social networks whose members differentially possess characteristics associated with adoption. The authors examine two cases: the first, to explore the mechanism's implications and, the second, to demonstrate its utility in analyzing empirical data. In the first, the diffusion of Internet use, network effects increase adoption's benefits to associates of prior adopters. An agent-based model demonstrates positive, monotonic relationships, given externalities, between homophily bias and intergroup inequality in equilibrium adoption rates. In the second, rural-urban migration in Thailand, network effects reduce risk to persons whose networks include prior migrants. Analysis of longitudinal individual-level migration data indicates that network homophily interacts with network externalities to induce divergence of migration rates among otherwise similar villages.
+C1 [DiMaggio, Paul] Princeton Univ, Dept Sociol, Princeton, NJ 08544 USA.
+   [Garip, Filiz] Harvard Univ, Dept Sociol, Cambridge, MA 02138 USA.
+C3 Princeton University; Harvard University
+RP DiMaggio, P (corresponding author), Princeton Univ, Dept Sociol, 118 Wallace Hall, Princeton, NJ 08544 USA.
+EM dimaggio@princeton.edu
+CR [Anonymous], 2005, Dissecting the Social. On the Principles of Analytical Sociology
+   ARTHUR WB, 1989, ECON J, V99, P116, DOI 10.2307/2234208
+   BARON JN, 1980, AM SOCIOL REV, V45, P737, DOI 10.2307/2094893
+   Bello W., 1998, SIAMESE TRAGEDY DEV
+   Bonfadelli H, 2002, EUR J COMMUN, V17, P65, DOI 10.1177/0267323102017001607
+   BOOTH A, 1991, SOC FORCES, V70, P207, DOI 10.2307/2580069
+   Boudon Raymond., 1973, Education, Opportunity and Social Inequality
+   Breen R, 1997, RATION SOC, V9, P275, DOI 10.1177/104346397009003002
+   Bühler C, 2007, EUR SOC, V9, P359, DOI 10.1080/14616690701314101
+   BUHAI S, 2008, SOCIAL NETWORK ANAL
+   Cairncross F., 2001, DEATH DISTANCE COMMU
+   Christakis NA, 2008, NEW ENGL J MED, V358, P2249, DOI 10.1056/NEJMsa0706154
+   COLEMAN J, 1957, SOCIOMETRY, V20, P253, DOI 10.2307/2785979
+   Curran SR, 2005, SOC FORCES, V84, P225, DOI 10.1353/sof.2005.0094
+   Currarini S, 2010, P NATL ACAD SCI USA, V107, P4857, DOI 10.1073/pnas.0911793107
+   DiMaggio P., 2004, EC SOCIOLOGY CAPITAL
+   DiMaggio P., 2004, SOCIAL INEQUALITY, P355, DOI DOI 10.7758/9781610444200.14
+   DiMaggio P, 2008, AM SOCIOL REV, V73, P227, DOI 10.1177/000312240807300203
+   DUNLEVY JA, 1991, GROWTH CHANGE, V22, P54, DOI 10.1111/j.1468-2257.1991.tb00541.x
+   FELD SL, 1981, AM J SOCIOL, V86, P1015, DOI 10.1086/227352
+   Fischer Claude., 1992, America Calling: a Social History of the Telephone to 1940
+   Fussell E, 2004, DEMOGRAPHY, V41, P151, DOI 10.1353/dem.2004.0003
+   Garip F, 2008, DEMOGRAPHY, V45, P591, DOI 10.1353/dem.0.0016
+   Garip F, 2010, POPUL RES POLICY REV, V29, P659, DOI 10.1007/s11113-009-9165-2
+   GRANOVETTER M, 1978, AM J SOCIOL, V83, P1420, DOI 10.1086/226707
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Kao G, 2003, ANNU REV SOCIOL, V29, P417, DOI 10.1146/annurev.soc.29.010202.100019
+   KATZ ML, 1985, AM ECON REV, V75, P424
+   Klopfenstein K, 2004, ECON EDUC REV, V23, P115, DOI 10.1016/S0272-7757(03)00076-1
+   Korinek K, 2005, AM SOCIOL REV, V70, P779, DOI 10.1177/000312240507000503
+   Lazarsfeld P.F., 1954, Freedom and Control in Modern Society, P18, DOI DOI 10.1111/J.1467-8705.2012.02056_3.X
+   Leibenstein H, 1950, Q J ECON, V64, P183, DOI 10.2307/1882692
+   LEIGH A, 2001, PPI POLICY REPORT
+   Levitt P, 1998, INT MIGR REV, V32, P926, DOI 10.2307/2547666
+   LIEBERSON S, 1969, AM SOCIOL REV, V34, P850, DOI 10.2307/2095977
+   LIN N, 1981, AM SOCIOL REV, V46, P393, DOI 10.2307/2095260
+   Macy MW, 2002, ANNU REV SOCIOL, V28, P143, DOI 10.1146/annurev.soc.28.110601.141117
+   MASSEY DS, 1990, POPUL INDEX, V56, P3, DOI 10.2307/3644186
+   Massey DS, 1997, AM J SOCIOL, V102, P939, DOI 10.1086/231037
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   McPherson M, 2006, AM SOCIOL REV, V71, P353, DOI 10.1177/000312240607100301
+   Mills MaryBeth., 1999, Thai women in the Global labor force
+   PHONGPAICHIT P, 1980, PAC AFF, V53, P440, DOI 10.2307/2757303
+   POPIELARZ PA, 1995, AM J SOCIOL, V101, P698, DOI 10.1086/230757
+   Portes A, 2000, J LAT AM STUD, V32, P529, DOI 10.1017/S0022216X00005836
+   Putnam RD, 2007, SCAND POLIT STUD, V30, P137, DOI 10.1111/j.1467-9477.2007.00176.x
+   Quillian L, 2003, AM SOCIOL REV, V68, P540, DOI 10.2307/1519738
+   Quillian Lincoln., 2006, NATL POVERTY CTR WOR
+   Rindfuss RR, 2007, SOC SCI RES, V36, P374, DOI 10.1016/j.ssresearch.2006.03.005
+   Rogers E., 2003, DIFFUSION INNOVATION
+   Rossman G, 2008, SOCIOL METHODOL, V38, P201, DOI 10.1111/j.1467-9531.2008.00201.x
+   Salganik MJ, 2006, SCIENCE, V311, P854, DOI 10.1126/science.1121066
+   SCHELLING TC, 1971, J MATH SOCIOL, V1, P143, DOI 10.1080/0022250X.1971.9989794
+   SCHEMENT JR, 1995, TELECOMMUN POLICY, V19, P477, DOI 10.1016/0308-5961(95)00025-2
+   Shy O., 2001, The economics of network industries, DOI DOI 10.1017/CBO9780511754401
+   SIMON HA, 1957, SOCIOMETRY, V20, P32, DOI 10.2307/2786111
+   SKVORETZ J, 1990, SOC NETWORKS, V12, P217, DOI 10.1016/0378-8733(90)90006-U
+   SOMRUDEE N, 1993, PAC AFF, V66, P167
+   STARK O, 1989, DEMOGRAPHY, V26, P1, DOI 10.2307/2061490
+   STRANG D, 1991, SOCIOL METHOD RES, V19, P324, DOI 10.1177/0049124191019003003
+   Tavory I, 2009, AM SOCIOL REV, V74, P171, DOI 10.1177/000312240907400201
+   Tilly Charles., 2006, IDENTITIES BOUNDARIE
+   Van den Bulte C, 2004, MARKET SCI, V23, P530, DOI 10.1287/mksc.1040.0054
+   Van den Bulte C, 2001, AM J SOCIOL, V106, P1409, DOI 10.1086/320819
+   VANDERIJT A, 2009, SELECTION INFLUENCE
+   Western B, 2008, AM SOCIOL REV, V73, P903, DOI 10.1177/000312240807300602
+   White HarrisonC., 1970, CHAINS OPPORTUNITY S
+NR 67
+TC 97
+Z9 119
+U1 4
+U2 75
+PU UNIV CHICAGO PRESS
+PI CHICAGO
+PA 1427 E 60TH ST, CHICAGO, IL 60637-2954 USA
+SN 0002-9602
+EI 1537-5390
+J9 AM J SOCIOL
+JI Am. J. Sociol.
+PD MAY
+PY 2011
+VL 116
+IS 6
+BP 1887
+EP 1933
+DI 10.1086/659653
+PG 47
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA 790QH
+UT WOS:000292603800004
+OA Green Submitted
+DA 2024-11-22
+ER

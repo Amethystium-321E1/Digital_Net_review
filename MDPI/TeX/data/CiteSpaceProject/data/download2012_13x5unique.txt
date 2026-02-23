@@ -1,0 +1,530 @@
+
+PT J
+AU Mirshahvalad, A
+   Lindholm, J
+   Derlén, M
+   Rosvall, M
+AF Mirshahvalad, Atieh
+   Lindholm, Johan
+   Derlen, Mattias
+   Rosvall, Martin
+TI Significant Communities in Large Sparse Networks
+SO PLOS ONE
+LA English
+DT Article
+ID COMPLEX NETWORKS; PREDICTION
+AB Researchers use community-detection algorithms to reveal large-scale organization in biological and social networks, but community detection is useful only if the communities are significant and not a result of noisy data. To assess the statistical significance of the network communities, or the robustness of the detected structure, one approach is to perturb the network structure by removing links and measure how much the communities change. However, perturbing sparse networks is challenging because they are inherently sensitive; they shatter easily if links are removed. Here we propose a simple method to perturb sparse networks and assess the significance of their communities. We generate resampled networks by adding extra links based on local information, then we aggregate the information from multiple resampled networks to find a coarse-grained description of significant clusters. In addition to testing our method on benchmark networks, we use our method on the sparse network of the European Court of Justice (ECJ) case law, to detect significant and insignificant areas of law. We use our significance analysis to draw a map of the ECJ case law network that reveals the relations between the areas of law.
+C1 [Mirshahvalad, Atieh; Rosvall, Martin] Umea Univ, Dept Phys, Integrated Sci Lab, Umea, Sweden.
+   [Lindholm, Johan; Derlen, Mattias] Umea Univ, Dept Law, Umea, Sweden.
+C3 Umea University; Umea University
+RP Mirshahvalad, A (corresponding author), Umea Univ, Dept Phys, Integrated Sci Lab, Umea, Sweden.
+EM atieh.mirshahvalad@physics.umu.se
+RI Lindholm, Johan/IQR-7464-2023; Rosvall, Martin/ABD-6411-2020; Rosvall,
+   Martin/A-9488-2015
+OI Rosvall, Martin/0000-0002-7181-9940; Lindholm, Johan/0000-0001-6009-7412
+FU Swedish Research Council [2009-5344]
+FX MR was supported by Swedish Research Council grant 2009-5344. The
+   funders had no role in study design, data collection and analysis,
+   decision to publish, or preparation of the manuscript.
+CR Blondel VD, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/10/P10008
+   Bommarito MJ, 2010, PHYSICA A, V389, P4201, DOI 10.1016/j.physa.2010.06.003
+   Clauset A, 2008, NATURE, V453, P98, DOI 10.1038/nature06830
+   Danon L, 2005, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2005/09/P09008
+   Danon L, 2006, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2006/11/P11010
+   Gfeller D, 2005, PHYS REV E, V72, DOI 10.1103/PhysRevE.72.056135
+   Girvan M, 2002, P NATL ACAD SCI USA, V99, P7821, DOI 10.1073/pnas.122653799
+   Hastings MB, 2006, PHYS REV E, V74, DOI 10.1103/PhysRevE.74.035102
+   Hu YQ, 2010, PHYS REV E, V82, DOI 10.1103/PhysRevE.82.066106
+   Jaccard P., 1901, B SOC VAUD SCI N, V37, P547, DOI [DOI 10.5169/SEALS-266450, 10.5169/seals-266450]
+   Karrer B, 2008, PHYS REV E, V77, DOI 10.1103/PhysRevE.77.046119
+   Lancichinetti A, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0018961
+   Lancichinetti A, 2010, PHYS REV E, V81, DOI 10.1103/PhysRevE.81.046110
+   Lancichinetti A, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.056117
+   Lancichinetti A, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.016118
+   Lancichinetti A, 2009, NEW J PHYS, V11, DOI 10.1088/1367-2630/11/3/033015
+   Leicht EA, 2007, EUR PHYS J B, V59, P75, DOI 10.1140/epjb/e2007-00271-7
+   Liben-Nowell D, 2007, J AM SOC INF SCI TEC, V58, P1019, DOI 10.1002/asi.20591
+   Lorrain F., 1971, J MATH SOCIOL, V1, P49, DOI [10.1080/0022250X.1971.9989788, DOI 10.1080/0022250X.1971.9989788]
+   Newman MEJ, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.066133
+   Palla G, 2005, NATURE, V435, P814, DOI 10.1038/nature03607
+   Radicchi F, 2004, P NATL ACAD SCI USA, V101, P2658, DOI 10.1073/pnas.0400054101
+   Reichardt J, 2008, PHYS REV LETT, V101, DOI 10.1103/PhysRevLett.101.078701
+   Rosvall M, 2008, P NATL ACAD SCI USA, V105, P1118, DOI 10.1073/pnas.0706851105
+   Rosvall M, 2007, P NATL ACAD SCI USA, V104, P7327, DOI 10.1073/pnas.0611034104
+   Rosvall M, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0008694
+   Spirin V, 2003, P NATL ACAD SCI USA, V100, P12123, DOI 10.1073/pnas.2032324100
+NR 27
+TC 25
+Z9 25
+U1 0
+U2 10
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD MAR 30
+PY 2012
+VL 7
+IS 3
+AR e33721
+DI 10.1371/journal.pone.0033721
+PG 7
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 959UC
+UT WOS:000305339100067
+PM 22479433
+OA Green Published, Green Submitted, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Richardson, L
+   Grund, T
+AF Richardson, Lindsey
+   Grund, Thomas
+TI Modeling the impact of supra-structural network nodes: The case of
+   anonymous syringe sharing and HIV among people who inject drugs
+SO SOCIAL SCIENCE RESEARCH
+LA English
+DT Article
+DE Calibrated agent based model; Disease diffusion; HIV transmission;
+   Quasi-anonymous transmission; Shooting gallery; Syringe sharing
+ID SOCIAL NETWORKS; RISK NETWORKS; CONCURRENT PARTNERSHIPS; EMPIRICAL
+   VALIDATION; MIXING PATTERNS; INFECTION; DYNAMICS; SPREAD; USERS;
+   TRANSMISSION
+AB Networks are well understood as crucial to the diffusion of HIV among injection drug users (IDUs), but quasi-anonymous risk nodes - such as shooting galleries - resist measurement and incorporation into empirical analyses of disease diffusion. Drawing on network data from 767 IDUs in Bushwick, Brooklyn, we illustrate the use of calibrated agent-based models (CABMs) to account for network structure, injection practices, and quasi-anonymous transmission in shooting galleries. Results confirm the importance of network structure and actor heterogeneity to the magnitude and speed of HIV transmission. Models further demonstrate that quasi-anonymous injections in shooting galleries increase the speed of HIV diffusion across the whole network and have the greatest impact on HIV seroconversion levels for IDUs at the network periphery. Shooting galleries are shown to be transmission hubs that operate independently of traceable structural ties, linking otherwise unconnected network components. CABMs potentially increase understandings of HIV diffusion dynamics by infusing computer simulations with empirical data. (C) 2011 Elsevier Inc. All rights reserved.
+C1 [Richardson, Lindsey; Grund, Thomas] Univ Oxford, Nuffield Coll, Oxford OX1 1NF, England.
+C3 University of Oxford
+RP Richardson, L (corresponding author), Univ Oxford, Nuffield Coll, New Rd, Oxford OX1 1NF, England.
+EM lindsey.richardson@sociology.ox.ac.uk; thomas.u.grund@gmail.com
+RI Richardson, Lindsey/AAU-3753-2021
+CR Abdala N, 1999, J ACQ IMMUN DEF SYND, V20, P73, DOI 10.1097/00042560-199901010-00011
+   Abu-Raddad LJ, 2008, AIDS, V22, P1055, DOI 10.1097/QAD.0b013e3282f8af84
+   Aceijas C, 2004, AIDS, V18, P2295, DOI 10.1097/00002030-200411190-00010
+   Alam SJ, 2007, JASSS-J ARTIF SOC S, V10
+   ALLARD R, 1990, J ACQ IMMUN DEF SYND, V3, P1010
+   Atkinson J, 1996, COMPUT BIOMED RES, V29, P338, DOI 10.1006/cbmr.1996.0025
+   Berkman LF, 2000, SOC SCI MED, V51, P843, DOI 10.1016/S0277-9536(00)00065-4
+   CHAISSON RE, 1987, AM J PUBLIC HEALTH, V77, P169, DOI 10.2105/AJPH.77.2.169
+   CHITWOOD DD, 1990, AM J PUBLIC HEALTH, V80, P150, DOI 10.2105/AJPH.80.2.150
+   Cioffi-Revilla C, 2010, JASSS-J ARTIF SOC S, V13, DOI 10.18564/jasss.1528
+   Cui QX, 2009, CCDC 2009: 21ST CHINESE CONTROL AND DECISION CONFERENCE, VOLS 1-6, PROCEEDINGS, P1090, DOI 10.1109/CCDC.2009.5191828
+   CURTIS R, 1995, SOC NETWORKS, V17, P229, DOI 10.1016/0378-8733(95)00264-O
+   DESJARLAIS DC, 1989, JAMA-J AM MED ASSOC, V261, P1008, DOI 10.1001/jama.261.7.1008
+   DESJARLAIS DC, 1988, REV INFECT DIS, V10, P151
+   Friedman S., 1999, AIDS PREVENT MENT H
+   Friedman S R, 1995, NIDA Res Monogr, V151, P196
+   Friedman SR, 2007, AIDS BEHAV, V11, P641, DOI 10.1007/s10461-006-9166-7
+   Friedman SR, 2000, AM J EPIDEMIOL, V152, P913, DOI 10.1093/aje/152.10.913
+   Friedman SR, 1997, AM J PUBLIC HEALTH, V87, P1289, DOI 10.2105/AJPH.87.8.1289
+   Gilbert N.G., 2008, AGENT BASED MODELS
+   Goodreau SM, 2006, GENETICS, V172, P2033, DOI 10.1534/genetics.103.024612
+   Greenhalgh D, 1997, IMA J MATH APPL MED, V14, P11
+   Gyarmathy V.A., 2006, Connections, V27, P25
+   Hall HI, 2008, JAMA-J AM MED ASSOC, V300, P520, DOI 10.1001/jama.300.5.520
+   Hedstrom P., 2006, DISSECTING SOCIAL
+   Hoffer LD, 2009, AM J COMMUN PSYCHOL, V44, P273, DOI 10.1007/s10464-009-9268-2
+   Iannelli M, 1997, MATH BIOSCI, V139, P25, DOI 10.1016/S0025-5564(96)00137-X
+   Janssen MA, 2006, ECOL SOC, V11
+   JARLAIS DCD, 1990, AM J PUBLIC HEALTH, V80, P142, DOI 10.2105/AJPH.80.2.142
+   KAPLAN EH, 1989, REV INFECT DIS, V11, P289
+   Kiss IZ, 2008, J R SOC INTERFACE, V5, P791, DOI 10.1098/rsif.2007.1272
+   Klein H, 2003, J DRUG ISSUES, V33, P751, DOI 10.1177/002204260303300312
+   KLOVDAHL AS, 1985, SOC SCI MED, V21, P1203, DOI 10.1016/0277-9536(85)90269-2
+   Klovdahl AS, 2001, SOC SCI MED, V52, P681, DOI 10.1016/S0277-9536(00)00170-2
+   Kottiri BJ, 2002, J ACQ IMMUN DEF SYND, V30, P95, DOI 10.1097/00042560-200205010-00013
+   Kretzschmar M, 1998, AIDS, V12, P801, DOI 10.1097/00002030-199807000-00017
+   LATKIN C, 1995, SOC NETWORKS, V17, P219, DOI 10.1016/0378-8733(95)00263-N
+   Latkin CA, 2010, AIDS BEHAV, V14, P1159, DOI 10.1007/s10461-009-9576-4
+   Laufer FN, 2001, J ACQ IMMUN DEF SYND, V28, P273, DOI 10.1097/00042560-200111010-00012
+   LONGINI IM, 1990, MATH STAT APPROACHES, P111
+   Macy MW, 2002, ANNU REV SOCIOL, V28, P143, DOI 10.1146/annurev.soc.28.110601.141117
+   Morris M, 1997, AIDS, V11, P641, DOI 10.1097/00002030-199705000-00012
+   Morris M, 1996, AIDS, V10, P1265, DOI 10.1097/00002030-199609000-00013
+   Morris M., 1995, EPIDEMIC MODELS THEI, P302
+   Moss S, 2008, JASSS-J ARTIF SOC S, V11
+   NEAIGUS A, 1994, SOC SCI MED, V38, P67, DOI 10.1016/0277-9536(94)90301-8
+   Neaigus A, 1995, NIDA Res Monogr, V151, P20
+   Ouellet L, 2004, JAIDS-J ACQ IMM DEF, V37, P1187, DOI 10.1097/01.qai.0000120802.43677.ea
+   PETERSON D, 1990, J ACQ IMMUN DEF SYND, V3, P1086
+   Poteete AR, 2010, WORKING TOGETHER: COLLECTIVE ACTION, THE COMMONS, AND MULTIPLE METHODS IN PRACTICE, P1
+   Potterat JJ, 1999, INT J STD AIDS, V10, P182, DOI 10.1258/0956462991913853
+   Pouget ER, 2005, JAIDS-J ACQ IMM DEF, V39, P471, DOI 10.1097/01.qai.0000152395.82885.c0
+   Price R K, 1995, NIDA Res Monogr, V151, P38
+   Raboud JM, 2003, J URBAN HEALTH, V80, P302, DOI 10.1093/jurban/jtg033
+   Rahmandad H, 2008, MANAGE SCI, V54, P998, DOI 10.1287/mnsc.1070.0787
+   Rhodes T, 2005, SOC SCI MED, V61, P1026, DOI 10.1016/j.socscimed.2004.12.024
+   Rogers E.M., 2003, DIFFUSION INNOVATION
+   Rothenberg R, 2001, J URBAN HEALTH, V78, P419, DOI 10.1093/jurban/78.3.419
+   Rothenberg R B, 1995, NIDA Res Monogr, V151, P3
+   Sallach DL, 2001, SOC SCI COMPUT REV, V19, P245, DOI 10.1177/089443930101900301
+   Sherman SG, 2001, SUBST USE MISUSE, V36, P2113, DOI 10.1081/JA-100108439
+   Tyler KA, 2008, SOC SCI RES, V37, P673, DOI 10.1016/j.ssresearch.2007.09.004
+   UNAIDS J., 2010, GLOB REP UNAIDS REP
+   Valente T., 2005, Models and Methods in Social Network Analysis
+   Volz E, 2010, EPIDEMICS-NETH, V2, P155, DOI 10.1016/j.epidem.2010.06.003
+   Volz EM, 2011, PLOS COMPUT BIOL, V7, DOI 10.1371/journal.pcbi.1002042
+   WATTS CH, 1992, MATH BIOSCI, V108, P89, DOI 10.1016/0025-5564(92)90006-I
+   Wilensky U, 1999, NETLOGO
+   Windrum P, 2007, JASSS-J ARTIF SOC S, V10
+   Wood E, 2001, CAN MED ASSOC J, V165, P405
+   Zaric Gregory S, 2002, Health Care Manag Sci, V5, P147, DOI 10.1023/A:1014489218178
+NR 71
+TC 11
+Z9 12
+U1 1
+U2 7
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0049-089X
+EI 1096-0317
+J9 SOC SCI RES
+JI Soc. Sci. Res.
+PD MAY
+PY 2012
+VL 41
+IS 3
+BP 624
+EP 636
+DI 10.1016/j.ssresearch.2011.12.004
+PG 13
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA 919MT
+UT WOS:000302332700010
+PM 23017797
+OA Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Toole, JL
+   Cha, M
+   González, MC
+AF Toole, Jameson L.
+   Cha, Meeyoung
+   Gonzalez, Marta C.
+TI Modeling the Adoption of Innovations in the Presence of Geographic and
+   Media Influences
+SO PLOS ONE
+LA English
+DT Article
+ID INFORMATION-FLOW; SOCIAL CONTAGION; DIFFUSION; DYNAMICS
+AB While there is a large body of work examining the effects of social network structure on innovation adoption, models to date have lacked considerations of real geography or mass media. In this article, we show these features are crucial to making more accurate predictions of a social contagion and technology adoption at a city-to-city scale. Using data from the adoption of the popular micro-blogging platform, Twitter, we present a model of adoption on a network that places friendships in real geographic space and exposes individuals to mass media influence. We show that homophily both among individuals with similar propensities to adopt a technology and geographic location is critical to reproducing features of real spatiotemporal adoption. Furthermore, we estimate that mass media was responsible for increasing Twitter's user base two to four fold. To reflect this strength, we extend traditional contagion models to include an endogenous mass media agent that responds to those adopting an innovation as well as influencing agents to adopt themselves.
+C1 [Toole, Jameson L.] MIT, Engn Syst Div, Cambridge, MA 02139 USA.
+   [Cha, Meeyoung] Korea Adv Inst Sci & Technol, Grad Sch Culture Technol, Taejon 305701, South Korea.
+   [Gonzalez, Marta C.] MIT, Dept Civil & Environm Engn, Cambridge, MA 02139 USA.
+C3 Massachusetts Institute of Technology (MIT); Korea Advanced Institute of
+   Science & Technology (KAIST); Massachusetts Institute of Technology
+   (MIT)
+RP Toole, JL (corresponding author), MIT, Engn Syst Div, 77 Massachusetts Ave, Cambridge, MA 02139 USA.
+EM jltoole@mit.edu
+RI Cha, Meeyoung/B-6925-2011; Gonzalez, Marta/E-9456-2011; Cha,
+   Meeyoung/KOD-4491-2024
+OI Cha, Meeyoung/0000-0003-4085-9648; /0000-0002-8482-0318
+FU National Science Foundation; NEC Corporation Fund; Solomon Buchsbaum
+   Research Fund
+FX This work was funded in part by the National Science Foundation through
+   a Graduate Research Fellowship to Jameson L. Toole, and the awards from
+   NEC Corporation Fund and the Solomon Buchsbaum Research Fund. The
+   funders had no role in study design, data collection and analysis,
+   decision to publish, or preparation of the manuscript.
+CR Allaway AW, 2003, J RETAILING, V79, P137, DOI 10.1016/S0022-4359(03)00037-X
+   [Anonymous], J ROYAL STAT SOC A
+   [Anonymous], INUENTIALS NETWORKS
+   [Anonymous], P WORLD WID WEB C
+   [Anonymous], PLOS ONE
+   [Anonymous], CASCADING BEHAV NETW
+   BASS FM, 1969, MANAGE SCI, V15, P215, DOI 10.1287/mnsc.15.5.215
+   Baum MA, 2006, J POLIT, V68, P946, DOI 10.1111/j.1468-2508.2006.00482.x
+   BURT RS, 1987, AM J SOCIOL, V92, P1287, DOI 10.1086/228667
+   Castellano C, 2009, REV MOD PHYS, V81, P591, DOI 10.1103/RevModPhys.81.591
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   Centola D, 2007, PHYSICA A, V374, P449, DOI 10.1016/j.physa.2006.06.018
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Dodds PS, 2005, J THEOR BIOL, V232, P587, DOI 10.1016/j.jtbi.2004.09.006
+   Fowler JH, 2008, PS-POLIT SCI POLIT, V41, P533, DOI 10.1017/S1049096508080712
+   Garber T, 2004, MARKET SCI, V23, P419, DOI 10.1287/mksc.1040.0051
+   GRANOVETTER M, 1978, AM J SOCIOL, V83, P1420, DOI 10.1086/226707
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Jones BF, 2008, SCIENCE, V322, P1259, DOI 10.1126/science.1158357
+   Karrer B, 2010, PHYS REV E, V82, DOI 10.1103/PhysRevE.82.016101
+   KATZ E, 1957, PUBLIC OPIN QUART, V21, P61, DOI 10.1086/266687
+   Leskovec J., 2007, ACM Transactions on the Web (TWEB), V1
+   Leskovec J, 2009, KDD-09: 15TH ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P497
+   Liben-Nowell D, 2005, P NATL ACAD SCI USA, V102, P11623, DOI 10.1073/pnas.0503018102
+   Liben-Nowell D, 2008, P NATL ACAD SCI USA, V105, P4633, DOI 10.1073/pnas.0708471105
+   Lopez-Pintado D, 2008, RATION SOC, V20, P399, DOI 10.1177/1043463108096787
+   Newman MEJ, 2002, PHYS REV E, V65, DOI 10.1103/PhysRevE.65.021904
+   Onnela JP, 2010, P NATL ACAD SCI USA, V107, P18375, DOI 10.1073/pnas.0914572107
+   Pease A, 2008, INT J PRESS/POLIT, V13, P386, DOI 10.1177/1940161208321948
+   Rahmandad H, 2008, MANAGE SCI, V54, P998, DOI 10.1287/mnsc.1070.0787
+   Rogers E., 2003, DIFFUSION INNOVATION
+   Salganik MJ, 2006, SCIENCE, V311, P854, DOI 10.1126/science.1121066
+   SCHELLING TC, 1973, J CONFLICT RESOLUT, V17, P381, DOI 10.1177/002200277301700302
+   Valente Thomas W., 1995, Quantitative Methods in Communication
+   Van den Bulte C, 2001, AM J SOCIOL, V106, P1409, DOI 10.1086/320819
+   Watts DJ, 2005, P NATL ACAD SCI USA, V102, P11157, DOI 10.1073/pnas.0501226102
+   Watts DJ, 2002, P NATL ACAD SCI USA, V99, P5766, DOI 10.1073/pnas.082090499
+   Wu F, 2004, PHYSICA A, V337, P327, DOI 10.1016/j.physa.2004.01.030
+   Yang J., 2011, WSDM'11, P177, DOI DOI 10.1145/1935826.1935863
+NR 39
+TC 66
+Z9 73
+U1 0
+U2 57
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JAN 19
+PY 2012
+VL 7
+IS 1
+AR e29528
+DI 10.1371/journal.pone.0029528
+PG 9
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA 907YS
+UT WOS:000301457200017
+PM 22276119
+OA gold, Green Submitted, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Vanhoutte, B
+   Hooghe, M
+AF Vanhoutte, Bram
+   Hooghe, Marc
+TI Do diverse geographical contexts lead to diverse friendship networks? A
+   multilevel analysis of Belgian survey data
+SO INTERNATIONAL JOURNAL OF INTERCULTURAL RELATIONS
+LA English
+DT Article
+DE Diversity; Social networks; Friendship networks; Multilevel analysis;
+   Context; Belgium
+ID STRUCTURAL DETERMINANTS; ETHNIC BOUNDARIES; SOCIAL CONTEXTS; CONTACT;
+   SIMILARITY; COMMUNITY; PATTERNS; CHOICE; CORE
+AB The choice-constraint approach assumes that the choice of one's friends will be determined by both individual choices and the constraints imposed by one's interaction context. Trends towards homophily however, might counteract this effect if actors consistently seek interaction partners with the same background characteristics. In this study we investigate the impact of community level diversity on the cultural diversity of friendship networks. Based on a multilevel analysis of recent survey data from Flanders (Belgium). we demonstrate that community level diversity has a significant but limited impact on ethnic and religious friendship network diversity. Controlling for individual level characteristics, residents of ethnically diverse communities report more ethnically and religiously diverse friendships. The fact that ethnic and religious diversity overlap to such a large extent suggests that both divisions are closely related in contemporary secularized European societies. (C) 2011 Elsevier Ltd. All rights reserved.
+C1 [Vanhoutte, Bram; Hooghe, Marc] Katholieke Univ Leuven, Ctr Polit Res, B-3000 Louvain, Belgium.
+C3 KU Leuven
+RP Vanhoutte, B (corresponding author), Katholieke Univ Leuven, Ctr Polit Res, Pk Str 45,Box 3602, B-3000 Louvain, Belgium.
+EM bram.vanhoutte@soc.kuleuven.be
+RI Vanhoutte, Bram/A-4412-2012
+OI Vanhoutte, Bram/0000-0002-8032-9214
+CR Adorno T. W., 1950, AUTHORITARIAN PERSON
+   Ajzen I., 1980, ENGLEWOOD CLIFFS
+   ALLPORT GW, 1967, J PERS SOC PSYCHOL, V5, P432, DOI 10.1037/0022-3514.5.4.432
+   Allport GW., 1954, NATURE PREJUDICE
+   [Anonymous], 2007, SECULARISM DEMOCRACY
+   [Anonymous], 1992, Structural holes
+   [Anonymous], Ethnocentrism: Theories of Conflict
+   Baerveldt C, 2004, SOC NETWORKS, V26, P55, DOI 10.1016/j.socnet.2004.01.003
+   Baerveldt C, 2007, INT SOCIOL, V22, P701, DOI 10.1177/0268580907082248
+   Blalock Hubert., 1967, THEORY MINORITY GROU
+   Blau P.M., 1977, INEQUALITY HETEROGEN
+   Blau PeterMichael., 1984, CROSSCUTTING SOCIAL
+   Botterman S., ACTA POLITI IN PRESS
+   Botterman S, 2012, URBAN STUD, V49, P185, DOI 10.1177/0042098010397397
+   Briggs XD, 2007, CITY COMMUNITY, V6, P263
+   Briggs Xavierde Souza., 2004, CITY COMMUNITY, V3, P311
+   Burt R. S., 1985, WORKSH SURV NETW DAT
+   BURT RS, 1984, SOC NETWORKS, V6, P293, DOI 10.1016/0378-8733(84)90007-8
+   Carrasco JA, 2008, TRANSP RES RECORD, P114, DOI 10.3141/2076-13
+   Erickson BH, 1996, AM J SOCIOL, V102, P217, DOI 10.1086/230912
+   FELD SL, 1981, AM J SOCIOL, V86, P1015, DOI 10.1086/227352
+   FELD SL, 1982, AM SOCIOL REV, V47, P797, DOI 10.2307/2095216
+   Festinger Leon., 1951, Changing Attitudes through Social Contact
+   Fischer Claude S., 1982, To Dwell among Friends: Personal Networks in Town and City
+   Flap H., 1998, Computational & Mathematical Organization Theory, V4, P109, DOI 10.1023/A:1009675906926
+   Granovetter M., 1986, SCH DESEGREGATION RE, P81
+   Granovetter M., 1983, SOCIOLOGICAL THEORY, V1, P201, DOI [https://doi.org/10.2307/202051, 10.2307/202051, DOI 10.2307/202051]
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Hooghe M, 2008, INT MIGR REV, V42, P476, DOI 10.1111/j.1747-7379.2008.00132.x
+   Hooghe M, 2011, ARCH SEX BEHAV, V40, P543, DOI 10.1007/s10508-010-9635-y
+   Hosmer W., 2000, Applied Logistic Regression, VSecond
+   HUCKFELDT RR, 1983, AM J SOCIOL, V89, P651, DOI 10.1086/227908
+   Husson Jean-Francois., 2007, Training Imams in Europe: The Current Status
+   HUSTON TL, 1978, ANNU REV PSYCHOL, V29, P115, DOI 10.1146/annurev.ps.29.020178.000555
+   Kalmijn M, 1998, ANNU REV SOCIOL, V24, P395, DOI 10.1146/annurev.soc.24.1.395
+   Kalmijn M, 2001, SOC FORCES, V79, P1289, DOI 10.1353/sof.2001.0044
+   Klinger E., 1977, Meaning and void: Inner experience and the incentives in people's lives
+   KRACKHARDT D, 1992, NETWORKS AND ORGANIZATIONS : STRUCTURE, FORM, AND ACTION, P216
+   Laumann E.O., 1994, SOCIAL ORG SEXUALITY
+   Lazarsfeld P.F., 1954, Freedom and Control in Modern Society, P18, DOI DOI 10.1111/J.1467-8705.2012.02056_3.X
+   LIN N, 1986, SOC NETWORKS, V8, P365, DOI 10.1016/0378-8733(86)90003-1
+   Lin N., 2005, SOCIAL CAPITAL ADV R
+   Marsden P. V., 1986, SO SOC SOC NEW ORL A
+   Marsden P.V., 2005, Models and Methods in Social Network Analysis, P8, DOI DOI 10.1017/CB0
+   MARSDEN PV, 1988, SOC NETWORKS, V10, P57, DOI 10.1016/0378-8733(88)90010-X
+   MARSDEN PV, 1990, ANNU REV SOCIOL, V16, P435, DOI 10.1146/annurev.so.16.080190.002251
+   MARSDEN PV, 1987, AM SOCIOL REV, V52, P122, DOI 10.2307/2095397
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   McPherson M, 2006, AM SOCIOL REV, V71, P353, DOI 10.1177/000312240607100301
+   Mok D, 2007, SOC NETWORKS, V29, P430, DOI 10.1016/j.socnet.2007.01.009
+   Mollenhorst G., 2009, THESIS UTRECHT U UTR
+   Mollenhorst G, 2008, SOC FORCES, V86, P937
+   MOORE G, 1990, AM SOCIOL REV, V55, P726, DOI 10.2307/2095868
+   Pettigrew TF, 1998, ANNU REV PSYCHOL, V49, P65, DOI 10.1146/annurev.psych.49.1.65
+   Pettigrew TF, 2006, J PERS SOC PSYCHOL, V90, P751, DOI 10.1037/0022-3514.90.5.751
+   Pettigrew TF, 2011, INT J INTERCULT REL, V35, P271, DOI 10.1016/j.ijintrel.2011.03.001
+   Putnam R., 1999, BOWLING ALONE
+   Putnam RD, 2007, SCAND POLIT STUD, V30, P137, DOI 10.1111/j.1467-9477.2007.00176.x
+   Rabe-Hesketh S., 2005, MULTILEVEL LONGITUDI
+   Roberts SGB, 2009, SOC NETWORKS, V31, P138, DOI 10.1016/j.socnet.2008.12.002
+   Rokeach M., 1960, OPEN CLOSED MIND
+   Schofield J.W., 1991, REV RES ED, V17, P335
+   Smith T. W., 1999, 91 NAT OP RES CTR GE
+   Snijders T., 2012, MULTILEVEL ANAL INTR
+   Strabac Z, 2008, SOC SCI RES, V37, P268, DOI 10.1016/j.ssresearch.2007.02.004
+   Tafjel H., 1979, SOCIAL PSYCHOL INTER, P33
+   Van Acker K, 2011, INT J INTERCULT REL, V35, P334, DOI 10.1016/j.ijintrel.2010.06.004
+   Van der Gaag M. P. J., 2005, SOCIAL CAPITAL ADV R, P27
+   Van Houtte M, 2009, SOCIOL EDUC, V82, P217, DOI 10.1177/003804070908200302
+   VERBRUGGE LM, 1977, SOC FORCES, V56, P576, DOI 10.2307/2577741
+   Völker B, 2007, URBAN AFF REV, V43, P256, DOI 10.1177/1078087407302001
+   WAGNER U, 1995, EUR J SOC PSYCHOL, V25, P41, DOI 10.1002/ejsp.2420250105
+   WELLMAN B, 1990, AM J SOCIOL, V96, P558, DOI 10.1086/229572
+   Wuthnow R, 2002, J SCI STUD RELIG, V41, P669, DOI 10.1111/1468-5906.00153
+   Zagefka H, 2009, INT J INTERCULT REL, V33, P228, DOI 10.1016/j.ijintrel.2008.08.001
+NR 75
+TC 16
+Z9 19
+U1 2
+U2 24
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0147-1767
+EI 1873-7552
+J9 INT J INTERCULT REL
+JI Int. J. Intercult. Relat.
+PD MAY
+PY 2012
+VL 36
+IS 3
+BP 343
+EP 352
+DI 10.1016/j.ijintrel.2011.09.003
+PG 10
+WC Psychology, Social; Social Sciences, Interdisciplinary; Sociology
+WE Social Science Citation Index (SSCI)
+SC Psychology; Social Sciences - Other Topics; Sociology
+GA 955TB
+UT WOS:000305042700003
+OA Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Lu, X
+   Bengtsson, L
+   Britton, T
+   Camitz, M
+   Kim, BJ
+   Thorson, A
+   Liljeros, F
+AF Lu, Xin
+   Bengtsson, Linus
+   Britton, Tom
+   Camitz, Martin
+   Kim, Beom Jun
+   Thorson, Anna
+   Liljeros, Fredrik
+TI The sensitivity of respondent-driven sampling
+SO JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES A-STATISTICS IN SOCIETY
+LA English
+DT Article
+DE Directed network; Hidden population; Network; Respondent-driven
+   sampling; Sampling; Sensitivity
+ID BEHAVIORAL SURVEILLANCE; HIDDEN POPULATIONS; METHODOLOGY; NETWORKS;
+   USERS
+AB . Researchers in many scientific fields make inferences from individuals to larger groups. For many groups, however, there is no list of members from which to draw a random sample. Respondent-driven sampling (RDS) is a relatively new sampling methodology that circumvents this difficulty by using the social networks of the groups under study. The RDS method has been shown to provide unbiased estimates of population proportions given certain conditions. The method is now widely used in human immunodeficiency virus related studies among high risk populations globally. We test the RDS methodology by simulating RDS studies on the social networks of a large Lesbian, gay, bisexual and transgender Web community. The robustness of the RDS method is tested by violating, one by one, the conditions under which the method provides unbiased estimates. Simulations indicate that the bias is large if networks are directed or respondents choose to invite people on the basis of characteristics that are correlated with the study outcomes. The bias and variance increase if participants invite close as opposed to more distant friends whereas sampling in denser networks sharply reduces variance. However, the RDS method shows strong resistance to sampling without replacement, low response rates and certain errors in the participants reporting of their network sizes, as well as the selection criteria of seeds. The effects of network structure and the number of seeds and coupons are also discussed.
+C1 [Lu, Xin] Stockholm Univ, Dept Sociol, SE-10691 Stockholm, Sweden.
+   [Lu, Xin; Bengtsson, Linus; Camitz, Martin; Thorson, Anna] Karolinska Inst, Stockholm, Sweden.
+   [Kim, Beom Jun] Sungkyunkwan Univ, Suwon, South Korea.
+C3 Stockholm University; Karolinska Institutet; Sungkyunkwan University
+   (SKKU)
+RP Lu, X (corresponding author), Stockholm Univ, Dept Sociol, SE-10691 Stockholm, Sweden.
+EM lu.xin@sociology.su.se
+RI Kim, Beom/C-2380-2008; Liljeros, Fredrik/I-2667-2018; lu,
+   xin/C-1940-2009
+OI Liljeros, Fredrik/0000-0001-8642-6624; lu, xin/0000-0002-3547-6493
+FU Riksbankens jubileumsfond [P2008-0674]; National Research Foundation of
+   Korea [2010-0008758]; China Scholarship Council [2008611091]
+FX We thank two reviewers and the Joint Editor for many constructive
+   suggestions on improving the paper. This work is funded in part by the
+   Riksbankens jubileumsfond (grant P2008-0674). BJK acknowledges the
+   support from the National Research Foundation of Korea (grant
+   2010-0008758), and XL thanks the China Scholarship Council (grant
+   2008611091).
+CR Abdul-Quader AS, 2006, J URBAN HEALTH, V83, P459, DOI 10.1007/s11524-006-9052-7
+   de Mello M., 2008, Assessment of Risk Factors for HIV Infection among Men Who have Sex with Men in the Metropolitan Area of Campinas City, Brazil, using Respondent-Driven Sampling
+   DEAUX E, 1985, EVALUATION REV, V9, P365, DOI 10.1177/0193841X8500900308
+   Erickson BH., 1979, SOCIOL METHODOL, V10, P276, DOI DOI 10.2307/270774
+   Frost SDW, 2006, J URBAN HEALTH, V83, pI83, DOI 10.1007/s11524-006-9104-z
+   Gile KJ, 2010, SOCIOL METHODOL, V40, P285, DOI 10.1111/j.1467-9531.2010.01223.x
+   Goel S, 2010, P NATL ACAD SCI USA, V107, P6743, DOI 10.1073/pnas.1000261107
+   Goel S, 2009, STAT MED, V28, P2202, DOI 10.1002/sim.3613
+   HASTINGS WK, 1970, BIOMETRIKA, V57, P97, DOI 10.1093/biomet/57.1.97
+   Heckathorn D. D., 2003, CHANGING BEAT STUDY, VIII, P48
+   Heckathorn DD, 2002, SOC PROBL, V49, P11, DOI 10.1525/sp.2002.49.1.11
+   Heckathorn DD, 1997, SOC PROBL, V44, P174, DOI 10.1525/sp.1997.44.2.03x0221m
+   Heckathorn DD, 2001, POETICS, V28, P307, DOI 10.1016/S0304-422X(01)80006-1
+   Heckathorn DD, 2007, SOCIOL METHODOL, V37, P151, DOI 10.1111/j.1467-9531.2007.00188.x
+   Heimer R, 2005, AIDS BEHAV, V9, P403, DOI 10.1007/s10461-005-9030-1
+   Johnston LG, 2008, AIDS BEHAV, V12, pS131, DOI 10.1007/s10461-008-9413-1
+   Magnani R, 2005, AIDS, V19, pS67, DOI 10.1097/01.aids.0000172879.20628.e1
+   Malekinejad M, 2008, AIDS BEHAV, V12, pS105, DOI 10.1007/s10461-008-9421-1
+   Marsden P.V., 2005, Models and Methods in Social Network Analysis, P8, DOI DOI 10.1017/CB0
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   MORRIS M, 1995, SOC NETWORKS, V17, P299, DOI 10.1016/0378-8733(95)00268-S
+   Page L., 1999, The PageRank citation ranking: Bringing order to the web
+   Ramirez-Valles J, 2005, AIDS BEHAV, V9, P387, DOI 10.1007/s10461-005-9012-3
+   RAPOPORT A, 1979, SOC NETWORKS, V2, P1
+   Rybski D, 2009, P NATL ACAD SCI USA, V106, P12640, DOI 10.1073/pnas.0902667106
+   Salganik MJ, 2006, J URBAN HEALTH, V83, pI98, DOI 10.1007/s11524-006-9106-x
+   Salganik MJ, 2004, SOCIOL METHODOL, V34, P193, DOI 10.1111/j.0081-1750.2004.00152.x
+   Schwartz N, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.015104
+   Scott G, 2008, INT J DRUG POLICY, V19, P42, DOI 10.1016/j.drugpo.2007.11.014
+   Volz E, 2008, J OFF STAT, V24, P79
+   Wang JC, 2005, DRUG ALCOHOL DEPEN, V78, P147, DOI 10.1016/j.drugalcdep.2004.10.011
+   WATTERS JK, 1989, SOC PROBL, V36, P416, DOI 10.1525/sp.1989.36.4.03a00070
+   WOESS W, 1994, B LOND MATH SOC, V26, P1, DOI 10.1112/blms/26.1.1
+NR 33
+TC 62
+Z9 71
+U1 0
+U2 29
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0964-1998
+EI 1467-985X
+J9 J R STAT SOC A STAT
+JI J. R. Stat. Soc. Ser. A-Stat. Soc.
+PY 2012
+VL 175
+BP 191
+EP 216
+DI 10.1111/j.1467-985X.2011.00711.x
+PN 1
+PG 26
+WC Social Sciences, Mathematical Methods; Statistics & Probability
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematical Methods In Social Sciences; Mathematics
+GA 877CO
+UT WOS:000299154500009
+DA 2024-11-22
+ER

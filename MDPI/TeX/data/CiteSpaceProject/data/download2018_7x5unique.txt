@@ -1,0 +1,586 @@
+
+PT J
+AU Sohrabi, MK
+   Karimi, F
+AF Sohrabi, Mohammad Karim
+   Karimi, Firoozeh
+TI A Feature Selection Approach to Detect Spam in the Facebook Social
+   Network
+SO ARABIAN JOURNAL FOR SCIENCE AND ENGINEERING
+LA English
+DT Article
+DE Online social network; Feature selection approach; Spam detection;
+   Machine learning
+AB The widespread adoption of social networks and their enormous facilities and growing opportunities has attracted many users and audience. But along with attractive and interesting messages and topics, inappropriate and sometimes criminal contents, such as spam, are also released on these networks. Malicious spammers intend to send inaccurate or irrelevant contents to distribute malformed information on online social networks. This paper is about the spam comments detection on the Facebook social network. By reviewing the posts and comments, and studying their features, an online spam filtering system has been designed in this paper. The proposed filtering system is able to exploit various exploration methods and optimization algorithms such as simulated annealing, particle swarm optimization, ant colony optimization, and differential evolution to detect and filter malicious contents and to prevent publishing spam comments to provide a secure environment for users of this popular social network. Furthermore, supervised machine learning methods, clustering techniques, and decision trees have been exploited to provide an accurate performance and appropriate speed for the proposed filtering system.
+C1 [Sohrabi, Mohammad Karim; Karimi, Firoozeh] Islamic Azad Univ, Semnan Branch, Dept Comp Engn, Semnan, Iran.
+C3 Islamic Azad University
+RP Sohrabi, MK (corresponding author), Islamic Azad Univ, Semnan Branch, Dept Comp Engn, Semnan, Iran.
+EM Amir_sohraby@aut.ac.ir; firoozeh_karimi@yahoo.com
+RI Sohrabi, Mohammad Karim/AAD-8618-2019
+CR Abu-Nimeh S, 2011, COMPUTER, V44, P23, DOI 10.1109/MC.2011.222
+   Adewole KS, 2017, J NETW COMPUT APPL, V79, P41, DOI 10.1016/j.jnca.2016.11.030
+   Ahmed F, 2013, COMPUT COMMUN, V36, P1120, DOI 10.1016/j.comcom.2013.04.004
+   [Anonymous], 6 INT C GRAPH IM PRO
+   Arab M, 2017, TURK J ELECTR ENG CO, V25, P4757, DOI 10.3906/elk-1612-279
+   Das S, 2008, IEEE T SYST MAN CY A, V38, P218, DOI 10.1109/TSMCA.2007.909595
+   Diale M., PATT REC ASS S AFR R
+   Esseghir M. A., 2011, LNCS, P226
+   Forsati R, 2015, NEUROCOMPUTING, V159, P9, DOI 10.1016/j.neucom.2015.02.048
+   Gao H., 2012, 19 ANN NETW DISTR SY
+   Gupta A., 2015, Improving Spam Detection in Online Social Networks
+   Halkidi M, 2001, 2001 IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS, P187, DOI 10.1109/ICDM.2001.989517
+   Heydari A, 2015, EXPERT SYST APPL, V42, P3634, DOI 10.1016/j.eswa.2014.12.029
+   Huber M, 2011, IEEE INTERNET COMPUT, V15, P28, DOI 10.1109/MIC.2011.24
+   Lee SM, 2010, PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON COMPLEX, INTELLIGENT AND SOFTWARE INTENSIVE SYSTEMS (CISIS 2010), P883, DOI 10.1109/CISIS.2010.116
+   Leung Y, 2000, IEEE T PATTERN ANAL, V22, P1396, DOI 10.1109/34.895974
+   Lin SW, 2008, APPL SOFT COMPUT, V8, P1505, DOI 10.1016/j.asoc.2007.10.012
+   Liu S, 2016, P 11 ACM AS C COMP C
+   Oh IS, 2004, IEEE T PATTERN ANAL, V26, P1424, DOI 10.1109/TPAMI.2004.105
+   Pinheiro RHW, 2012, EXPERT SYST APPL, V39, P12851, DOI 10.1016/j.eswa.2012.05.008
+   Sohrabi M. K., JCP, V11, P140
+   Sohrabi M. K., 4 INT S COMP BUS INT, P186
+   Sohrabi M. K., 2015, INT J INF COMMUN TEC, V7, P27
+   Sohrabi MK, 2016, J ADV COMPUTER RES, V7, P23
+   Sohrabi MK, 2017, TURK J ELECTR ENG CO, V25, P3175, DOI 10.3906/elk-1608-112
+   Sohrabi MK, 2017, COMPUT BIOL CHEM, V69, P126, DOI 10.1016/j.compbiolchem.2017.06.002
+   Sohrabi MK, 2017, SCI COMPUT PROGRAM, V145, P1, DOI 10.1016/j.scico.2017.04.006
+   Sohrabi MK, 2017, COMPUT HUM BEHAV, V68, P244, DOI 10.1016/j.chb.2016.11.036
+   Sohrabi MK, 2016, COMPUT HUM BEHAV, V60, P534, DOI 10.1016/j.chb.2016.02.092
+   Sohrabi MK, 2013, KNOWL-BASED SYST, V37, P462, DOI 10.1016/j.knosys.2012.09.005
+   Sohrabi MK, 2012, KNOWL-BASED SYST, V33, P41, DOI 10.1016/j.knosys.2012.03.003
+   Toolan F., 2010, ECRIME RES SUMM ECRI
+   Yu DG, 2017, KNOWL-BASED SYST, V125, P64, DOI 10.1016/j.knosys.2017.03.025
+   Yu X., 2008, P SIGCOMM
+   Zhang Y, 2016, NEUROCOMPUTING, V171, P1281, DOI 10.1016/j.neucom.2015.07.057
+   Zhang YD, 2014, KNOWL-BASED SYST, V64, P22, DOI 10.1016/j.knosys.2014.03.015
+   Zheng XH, 2016, J SUPERCOMPUT, V72, P2991, DOI 10.1007/s11227-015-1437-5
+   Zheng XH, 2015, NEUROCOMPUTING, V159, P27, DOI 10.1016/j.neucom.2015.02.047
+NR 38
+TC 39
+Z9 41
+U1 1
+U2 30
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 2193-567X
+EI 2191-4281
+J9 ARAB J SCI ENG
+JI Arab. J. Sci. Eng.
+PD FEB
+PY 2018
+VL 43
+IS 2
+BP 949
+EP 958
+DI 10.1007/s13369-017-2855-x
+PG 10
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA FS5UM
+UT WOS:000419864700034
+DA 2024-11-22
+ER
+
+PT J
+AU Gore, RJ
+   Lemos, C
+   Shults, FL
+   Wildman, W
+AF Gore, Ross J.
+   Lemos, Carlos
+   Shults, F. LeRon
+   Wildman, Wesley
+TI Forecasting Changes in Religiosity and Existential Security with an
+   Agent-based Model
+SO JASSS-THE JOURNAL OF ARTIFICIAL SOCIETIES AND SOCIAL SIMULATION
+LA English
+DT Article
+DE Religion; Agent-Based Model; Data Based Modeling; Social Influence;
+   Social Network
+ID INDIVIDUAL-DIFFERENCES; EDUCATION; EVOLUTION; BELIEF; EXPLANATIONS;
+   CULTURE; GOVERNMENT; NETWORKS; SCIENCES; BEHAVIOR
+AB We employ existing data sets and agent-based modeling to forecast changes in religiosity and existential security among a collective of individuals overtime. Existential security reflects the extent of economic, socioeconomic and human development provided by society. Our model includes agents in social networks interacting with one another based on the education level of the agents, the religious practices of the agents, and each agent's existential security within their natural and social environments. The data used to inform the values and relationships among these variables is based on rigorous statistical analysis of the International Social Survey Programme Religion Module (ISSP) and the Human Development Report (HDR). We conduct an evaluation that demonstrates, for the countries and time periods studied, that our model provides a more accurate forecast of changes in existential security and religiosity than two alternative approaches. The improved accuracy is largely due to the inclusion of social networks with educational homophily which alters the way in which religiosity and existential security change in the model. These dynamics grow societies where two individuals with the same initial religious practices (or belief In God, or supernatural beliefs) evolve differently based on the educational backgrounds of the individuals with which they surround themselves. Finally, we discuss the limitations of our model and provide direction for future work.
+C1 [Gore, Ross J.] Old Dominion Univ, Virginia Modeling Anal & Simulat Ctr, 1030 Univ Blvd, Suffolk, VA 23435 USA.
+   [Lemos, Carlos; Shults, F. LeRon] Univ Agder, Dept Relig Philosophy & Hist, Gimlemoen 19, Kristiansand, Norway.
+   [Wildman, Wesley] Boston Univ, Sch Theol, Philosophy Theol & Eth Dept, 745 Commonwealth Ave, Boston, MA 02215 USA.
+   [Wildman, Wesley] Ctr Mind & Culture, 566 Commonwealth Ave, Boston, MA 02215 USA.
+C3 Old Dominion University; University of Agder; Boston University
+RP Gore, RJ (corresponding author), Old Dominion Univ, Virginia Modeling Anal & Simulat Ctr, 1030 Univ Blvd, Suffolk, VA 23435 USA.
+EM ross.gore@gmail.com
+RI Gore, Ross/AIE-5744-2022
+CR Abelson R.P., 1967, ADV EXP SOC PSYCHOL, V3, P1, DOI DOI 10.1016/S0065-2601(08)60341-X
+   ABRICAJACINTO NL, 2017, JASSS-J ARTIF SOC S, V20, DOI DOI 10.18564/JASS.3377
+   Ahrweiler P, 2015, JASSS-J ARTIF SOC S, V18, DOI 10.18564/jasss.2927
+   AKERS RL, 1979, AM SOCIOL REV, V44, P636, DOI 10.2307/2094592
+   ALBRECHT SL, 1984, REV RELIG RES, V26, P43, DOI 10.2307/3511041
+   Anand S., 1994, TECH REP
+   [Anonymous], 2016, UN BELIEVING MODERN
+   [Anonymous], 2006, PHYSICS0604201 ARXIV
+   [Anonymous], 2006, JASSS-J ARTIF SOC S
+   Atran S., 2004, Gods We Trust: The Evolutionary Landscape of Religion
+   Axelrod R, 1997, J CONFLICT RESOLUT, V41, P203, DOI 10.1177/0022002797041002001
+   Bainbridge W. S, 2006, God from the Machine: Artificial Intelligence Models of Religious Cognition
+   Barber J, 2014, APPL COGNITIVE PSYCH, V28, P432, DOI 10.1002/acp.3003
+   BERGER RL, 1981, J AM STAT ASSOC, V76, P415, DOI 10.2307/2287844
+   Blancke S, 2012, SCI EDUC-NETHERLANDS, V21, P1167, DOI 10.1007/s11191-011-9402-z
+   Boillot A, 2013, PLOS ONE, V8, DOI [10.1371/journal.pone.0052708, 10.1371/journal.pone.0064417]
+   Bravo G, 2012, SOC NETWORKS, V34, P481, DOI 10.1016/j.socnet.2012.03.001
+   Caldwell-Harris CL, 2012, RELIG BRAIN BEHAV, V2, P4, DOI 10.1080/2153599X.2012.668395
+   CARLEY K, 1991, AM SOCIOL REV, V56, P331, DOI 10.2307/2096108
+   Chattoe E, 2005, BRIT J CRIMINOL, V45, P860, DOI 10.1093/bjc/azi051
+   Chattoe E, 2006, BRIT J SOCIOL, V57, P379, DOI 10.1111/j.1468-4446.2006.00116.x
+   Chattoe-Brown E, 2014, SOCIOL RES ONLINE, V19, DOI 10.5153/sro.3315
+   Cobb C.W., 1928, AM ECON REV, V18, P139
+   Contreras M., 2011, 2011 IEEE INT S WORL, P1, DOI [DOI 10.1109/WOWMOM.2011.5986141, 10.1109/WoWMoM.2011.5986141]
+   Corten R, 2014, WILEY SER COMPU QUAN, P1, DOI 10.1002/9781118762912
+   Crescentini C, 2014, CORTEX, V54, P1, DOI 10.1016/j.cortex.2014.01.023
+   David-Barrett T, 2016, RELIG BRAIN BEHAV, V6, P307, DOI 10.1080/2153599X.2015.1063001
+   Davidson RJ, 2003, PSYCHOSOM MED, V65, P564, DOI 10.1097/01.PSY.0000077505.67574.E3
+   DAVIS JA, 1989, BRIT SOCIAL ATTITUDE, P1
+   Deaton A, 2008, J ECON PERSPECT, V22, P53, DOI 10.1257/jep.22.2.53
+   Decancq K, 2013, ECONOMET REV, V32, P7, DOI 10.1080/07474938.2012.690641
+   Deffuant G, 2000, APPLICATIONS OF SIMULATION TO SOCIAL SCIENCES, P87, DOI 10.1142/S0219525900000078
+   DEGROOT MH, 1974, J AM STAT ASSOC, V69, P118, DOI 10.2307/2285509
+   DiStefano C., 2009, PRACT ASSESS RES EVA, V14, P1, DOI DOI 10.7275/DA8T-4G52
+   Dodds PS, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0026752
+   Dunbar RIM, 2007, SCIENCE, V317, P1344, DOI 10.1126/science.1145463
+   Dunbar RIM, 2009, ANN HUM BIOL, V36, P562, DOI 10.1080/03014460902960289
+   Durkheim Emile., 2014, The Rules of the Sociological Method
+   Dutton E., 2017, Evolutionary Psychological Science, V3, P392, DOI DOI 10.1007/S40806-017-0101-0
+   Epstein J. M., 1999, Complexity, V4, P41, DOI 10.1002/(SICI)1099-0526(199905/06)4:5<41::AID-CPLX9>3.0.CO;2-F
+   Fehl K, 2011, ECOL LETT, V14, P546, DOI 10.1111/j.1461-0248.2011.01615.x
+   Flache A, 2017, JASSS-J ARTIF SOC S, V20, DOI 10.18564/jasss.3521
+   Ganzach Y, 2013, INTELLIGENCE, V41, P121, DOI 10.1016/j.intell.2013.01.001
+   Gebauer JE, 2012, PSYCHOL SCI, V23, P158, DOI 10.1177/0956797611427045
+   Gervais WM, 2015, PSYCHOL RELIG SPIRIT, V7, P327, DOI 10.1037/rel0000044
+   GLAESER EL, 2008, J HUMAN CAPITAL, V0002
+   Gore R, 2017, JASSS-J ARTIF SOC S, V20, DOI 10.18564/jasss.3240
+   Gore RJ, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0133505
+   Habel P, 2013, POLIT RELIG, V6, P282, DOI 10.1017/S1755048312000570
+   Hegselmann R, 2002, JASSS-J ARTIF SOC S, V5
+   Helliwell John, 2012, WORLD HAPPINESS REPO
+   Henrich J, 2009, EVOL HUM BEHAV, V30, P244, DOI 10.1016/j.evolhumbehav.2009.03.005
+   Hill JP, 2014, J SCI STUD RELIG, V53, P575, DOI 10.1111/jssr.12127
+   Hill RA, 2003, HUM NATURE-INT BIOS, V14, P53, DOI 10.1007/s12110-003-1016-y
+   Holbrook C, 2016, SOC COGN AFFECT NEUR, V11, P387, DOI 10.1093/scan/nsv107
+   Hungerman DM, 2014, J ECON BEHAV ORGAN, V104, P52, DOI 10.1016/j.jebo.2013.09.004
+   Iannaccone LR, 2007, J SCI STUD RELIG, V46, P1, DOI 10.1111/j.1468-5906.2007.00337.x
+   Jager W., 2004, Computational & Mathematical Organization Theory, V10, P295, DOI 10.1007/s10588-005-6282-2
+   Kay AC, 2010, J PERS SOC PSYCHOL, V99, P725, DOI 10.1037/a0021140
+   Kvande MN, 2015, REV RELIG RES, V57, P87, DOI 10.1007/s13644-014-0171-4
+   Lanman JA, 2012, J CONTEMP RELIG, V27, P49, DOI 10.1080/13537903.2012.642726
+   Larson EJ, 1998, NATURE, V394, P313, DOI 10.1038/28478
+   Latane B, 1996, J COMMUN, V46, P13, DOI 10.1111/j.1460-2466.1996.tb01501.x
+   Lehrer K., 1975, Synthese, V31, P141, DOI [10.1007/BF00869475, DOI 10.1007/BF00869475]
+   Lemos C., 2017, ARXIV170406112V1, P1
+   Lewis JR, 2015, J CONTEMP RELIG, V30, P265, DOI 10.1080/13537903.2015.1025556
+   Li J, 2017, JASSS-J ARTIF SOC S, V20, DOI 10.18564/jasss.3385
+   Lutz A, 2008, PLOS ONE, V3, DOI 10.1371/journal.pone.0001897
+   Lynn R, 2009, INTELLIGENCE, V37, P11, DOI 10.1016/j.intell.2008.03.004
+   Macy MW, 2003, DYNAMIC SOCIAL NETWORK MODELING AND ANALYSIS, P162
+   Mark N, 1998, AM SOCIOL REV, V63, P309, DOI 10.2307/2657552
+   Mark NP, 2003, AM SOCIOL REV, V68, P319, DOI 10.2307/1519727
+   MARTINS ML, 1991, PHYS REV LETT, V66, P2045, DOI 10.1103/PhysRevLett.66.2045
+   McCauley R.N., 2011, WHY RELIG IS NATURAL
+   McCauley RobertN., 2002, Bringing Ritual to Mind: Psychological Foundations of Cultural Forms
+   McMahan EA, 2011, SOC INDIC RES, V103, P93, DOI 10.1007/s11205-010-9698-0
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   McPherson M, 2006, AM SOCIOL REV, V71, P353, DOI 10.1177/000312240607100301
+   Myers D.G., 1982, Group Decision Making, P125
+   Norenzayan A, 2015, RELIG BRAIN BEHAV, V5, P327, DOI 10.1080/2153599X.2014.928359
+   Norenzayan A, 2013, TRENDS COGN SCI, V17, P20, DOI 10.1016/j.tics.2012.11.006
+   Norenzayan A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0036880
+   Norris P., 2011, Sacred and Secular: Religion and Politics Worldwide
+   Norris Pippa., 2015, The Changing World Religion Map: Sacred Places, Identities, Practices and Politics, P3389, DOI DOI 10.1007/978-94-017-9376-6_177
+   NOWAK A, 1990, PSYCHOL REV, V97, P362, DOI 10.1037/0033-295X.97.3.362
+   Poile C, 2016, JASSS-J ARTIF SOC S, V19, DOI 10.18564/jasss.3137
+   Ramsay JE, 2014, INT J PSYCHOL RELIG, V24, P1, DOI 10.1080/10508619.2012.761525
+   Roberts SGB, 2011, PERS RELATIONSHIP, V18, P439, DOI 10.1111/j.1475-6811.2010.01310.x
+   Schuurmans-Stekhoven J, 2017, RELIG BRAIN BEHAV, V7, P258, DOI 10.1080/2153599X.2016.1156558
+   Shults FL, 2018, RELIG BRAIN BEHAV, V8, P77, DOI 10.1080/2153599X.2016.1238846
+   Shults FL, 2015, RELIGIONS, V6, P724, DOI 10.3390/rel6020724
+   Shults F.LeRon., 2014, Theology after the birth of God: Atheist Conceptions in Cognition and Culture
+   Sznajd-Weron K, 2000, INT J MOD PHYS C, V11, P1157, DOI 10.1142/S0129183100000936
+   Upal M. A, 2005, JASSS-J ARTIF SOC S, V8, P6
+   Upal M. A, 2015, ANSS 15, P94
+   VINOKUR A, 1978, J PERS SOC PSYCHOL, V36, P872, DOI 10.1037/0022-3514.36.8.872
+   Whitehouse H, 2012, RELIG BRAIN BEHAV, V2, P182, DOI 10.1080/2153599X.2012.691033
+   Wildman WesleyJ., 2009, Science and Religious Anthropology: A Spiritually Evocative Naturalist Interpretation of Human Life
+NR 98
+TC 37
+Z9 37
+U1 1
+U2 10
+PU J A S S S
+PI GUILDFORD
+PA UNIV SURREY, DEPT SOCIOLOGY, GUILDFORD GU2 7XH, SURREY, ENGLAND
+SN 1460-7425
+J9 JASSS-J ARTIF SOC S
+JI JASSS
+PD JAN 31
+PY 2018
+VL 21
+IS 1
+AR 4
+DI 10.18564/jasss.3596
+PG 26
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA FY3ZL
+UT WOS:000426760200009
+OA Green Submitted, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Berán, E
+   Pléh, C
+   Soltész, P
+   Rácz, A
+   Kardos, P
+   Czobor, P
+   Unoka, Z
+AF Beran, Eszter
+   Pleh, Csaba
+   Soltesz, Peter
+   Racz, Anna
+   Kardos, Peter
+   Czobor, Pal
+   Unoka, Zsolt
+TI Ego centered social network and relationship quality: linking attachment
+   security and relational models to network structure
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE ego-centered social network; attachment; relational models; network
+   structure
+ID ADULT ATTACHMENT; PERSPECTIVE-TAKING; SEX-DIFFERENCES; WORKING MODELS;
+   BRAIN; SIZE; AGE; SATISFACTION; CONFLICT; BEHAVIOR
+AB According to Dunbar's social brain hypothesis, brain capacity puts a limit on the size of social network in humans. At the same time, emotional-cognitive systems such as attachment and different relational models (Fiske, 1991) may also act as driving forces behind network structure underlying relationship quality of the various ego-centered layers. The aim of our study was to examine how these cognitive systems may contribute to network organization.
+   We examined the two inner layers of the ego-network in 274 volunteers, the support and sympathy groups, as well as close family members in comparison to friends within the support group, in terms of attachment security and underlying relational models.
+C1 [Beran, Eszter; Soltesz, Peter] Pazmany Peter Catholic Univ, Inst Psychol, Mikszath Ter 1, H-1088 Budapest, Hungary.
+   [Pleh, Csaba] Cent European Univ, Oktober 6 St 7, H-1051 Budapest, Hungary.
+   [Racz, Anna; Czobor, Pal; Unoka, Zsolt] Semmelweis Univ, Dept Psychiat & Psychotherapy, Balassa U 6, H-1083 Budapest, Hungary.
+   [Kardos, Peter] Bloomfield Coll, Bloomfield, NJ USA.
+C3 Pazmany Peter Catholic University; Central European University;
+   Semmelweis University; Bloomfield College
+RP Berán, E (corresponding author), Pazmany Peter Catholic Univ, Inst Psychol, Mikszath Ter 1, H-1088 Budapest, Hungary.
+EM beran.eszter@btk.ppke.hu
+RI Unoka, Zsolt/R-3477-2018; beran, eszter/AAA-3125-2020
+OI Beran, Eszter/0000-0001-7009-3386
+FU  [TAMOP-4.2.2.C-11/1/KONV-2012-0008]
+FX This research was supported by TAMOP-4.2.2.C-11/1/KONV-2012-0008.
+CR AINSWORTH MDS, 1979, AM PSYCHOL, V34, P932, DOI 10.1037/0003-066X.34.10.932
+   [Anonymous], Grooming, Gossip, and the Evolution of Language
+   [Anonymous], 1980, ATTACHMENT LOSS LOSS
+   Antonucci TC, 2004, ATTACH HUM DEV, V6, P353, DOI 10.1080/1461673042000303136
+   BARTHOLOMEW K, 1991, J PERS SOC PSYCHOL, V61, P226, DOI 10.1037/0022-3514.61.2.226
+   Benenson JF, 1997, DEV PSYCHOL, V33, P538, DOI 10.1037/0012-1649.33.3.538
+   Bickart KC, 2012, J NEUROSCI, V32, P14729, DOI 10.1523/JNEUROSCI.1599-12.2012
+   Birnbaum GE, 2007, J SOC PERS RELAT, V24, P21, DOI 10.1177/0265407507072576
+   BOWLBY J, 1958, INT J PSYCHOANAL, V39, P350
+   Bowlby J., 1982, ATTACHMENT LOSS VOL, V1
+   Bowlby J., 1988, SECURE BASE PARENT C, P137
+   Brassard A, 2009, FAM RELAT, V58, P634, DOI 10.1111/j.1741-3729.2009.00580.x
+   Bryk A. S., 1992, HIERARCHICAL LINEAR
+   Chopik WJ, 2013, J PERS, V81, P171, DOI 10.1111/j.1467-6494.2012.00793.x
+   COLLINS NL, 1990, J PERS SOC PSYCHOL, V58, P644, DOI 10.1037/0022-3514.58.4.644
+   Corcoran KO, 2000, J COUNS DEV, V78, P473, DOI 10.1002/j.1556-6676.2000.tb01931.x
+   Curry O, 2013, HUM NATURE-INT BIOS, V24, P336, DOI 10.1007/s12110-013-9174-z
+   DANIELSBEIRNESS T, 1989, NATO ADV SCI I D-BEH, V51, P107
+   Diehl M, 1998, J PERS SOC PSYCHOL, V74, P1656, DOI 10.1037/0022-3514.74.6.1656
+   DUGGAN ES, 1994, J SOC PERS RELAT, V11, P147, DOI 10.1177/0265407594111009
+   Dunbar R., 2014, Journal of Evolutionary Psychology, V12, P109, DOI [DOI 10.1556/JEP-D-13-00024, 10.1556/JEP-D-13-00024]
+   Dunbar RIM, 2007, SCIENCE, V317, P1344, DOI 10.1126/science.1145463
+   Dunbar RIM, 2018, TRENDS COGN SCI, V22, P32, DOI 10.1016/j.tics.2017.10.004
+   DUNBAR RIM, 1993, BEHAV BRAIN SCI, V16, P681, DOI 10.1017/S0140525X00032325
+   DUNBAR RIM, 1995, HUM NATURE-INT BIOS, V6, P273, DOI 10.1007/BF02734142
+   Dunbar RIM, 1998, EVOL ANTHROPOL, V6, P178, DOI 10.1002/(SICI)1520-6505(1998)6:5<178::AID-EVAN5>3.3.CO;2-P
+   Dunbar RIM, 2003, ANNU REV ANTHROPOL, V32, P163, DOI 10.1146/annurev.anthro.32.061002.093158
+   Dunbar RIM, 2010, BEHAVIOUR, V147, P775, DOI 10.1163/000579510X501151
+   Fabes RA, 2003, CHILD DEV, V74, P921, DOI 10.1111/1467-8624.00576
+   Fiori K.L., 2011, RES AGING
+   Fiske A.P., 1991, STRUCTURES SOCIAL LI
+   Fiske AP, 1996, CURR DIR PSYCHOL SCI, V5, P143, DOI 10.1111/1467-8721.ep11512349
+   Fung HH, 2001, INT J AGING HUM DEV, V52, P185, DOI 10.2190/1ABL-9BE5-M0X2-LR9V
+   GIBBONS RD, 1988, PSYCHOPHARMACOL BULL, V24, P438
+   Gill DS, 1999, PERS RELATIONSHIP, V6, P369, DOI 10.1111/j.1475-6811.1999.tb00198.x
+   Grossman K.E., 1991, ATTACHMENT LIFE CYCL, P93
+   GROSSMANN KE, 1981, INT J BEHAV DEV, V4, P157, DOI 10.1177/016502548100400202
+   HAZAN C, 1987, J PERS SOC PSYCHOL, V52, P511, DOI 10.1037/0022-3514.52.3.511
+   Hill RA, 2003, HUM NATURE-INT BIOS, V14, P53, DOI 10.1007/s12110-003-1016-y
+   JENNRICH RI, 1986, BIOMETRICS, V42, P805, DOI 10.2307/2530695
+   Keller Tamas., 2010, Review of Sociology, V20, P27
+   Klohnen E.C., 1998, Attachment theory and close relationships, P115
+   KSH, 2015, POP CENS 2011
+   La Guardia JG, 2000, J PERS SOC PSYCHOL, V79, P367, DOI 10.1037//0022-3514.79.3.367
+   LADD GW, 1983, MERRILL PALMER QUART, V29, P283
+   Lewis M, 2005, HUM DEV, V48, P8, DOI 10.1159/000083213
+   LINDLEY DV, 1972, J ROY STAT SOC B, V34, P1
+   Machin A., 2013, J RELATIONSHIPS RES, V4, DOI [10.1017/jrn2013.8, DOI 10.1017/JRN2013.8]
+   Machin AJ, 2011, BEHAVIOUR, V148, P985, DOI 10.1163/000579511X596624
+   Madsen EA, 2007, BRIT J PSYCHOL, V98, P339, DOI 10.1348/000712606X129213
+   MAIN M, 1981, CHILD DEV, V52, P932, DOI 10.1111/j.1467-8624.1981.tb03134.x
+   MARSDEN PV, 1987, AM SOCIOL REV, V52, P122, DOI 10.2307/2095397
+   Marvin R.S., 1977, Ecological factors in human development, P247
+   Marvin R.S., 1999, HDB ATTACHMENT, P44
+   McPherson M, 2006, AM SOCIOL REV, V71, P353, DOI 10.1177/000312240607100301
+   Mickelson KD, 1997, J PERS SOC PSYCHOL, V73, P1092, DOI 10.1037/0022-3514.73.5.1092
+   Mikulincer M, 1998, J PERS SOC PSYCHOL, V74, P1209, DOI 10.1037/0022-3514.74.5.1209
+   MOLLER LC, 1992, SEX ROLES, V26, P331, DOI 10.1007/BF00289916
+   Nummenmaa L, 2015, HUM BRAIN MAPP, V36, P3621, DOI 10.1002/hbm.22866
+   Roberts SGB, 2008, PERS INDIV DIFFER, V44, P954, DOI 10.1016/j.paid.2007.10.033
+   Roberts SGB, 2009, SOC NETWORKS, V31, P138, DOI 10.1016/j.socnet.2008.12.002
+   Rose AJ, 2006, PSYCHOL BULL, V132, P98, DOI 10.1037/0033-2909.132.1.98
+   Rose AJ, 2002, CHILD DEV, V73, P1830, DOI 10.1111/1467-8624.00509
+   Shaver P.R., 1988, The psychology of love, P68
+   Shultz S, 2010, P NATL ACAD SCI USA, V107, P21582, DOI 10.1073/pnas.1005246107
+   Simpson J., 2008, HDB ATTACHMENT, P131
+   Stiller J, 2007, SOC NETWORKS, V29, P93, DOI 10.1016/j.socnet.2006.04.001
+   Stoker L., 2006, WORKING PAPERS
+   Sutcliffe A, 2012, BRIT J PSYCHOL, V103, P149, DOI 10.1111/j.2044-8295.2011.02061.x
+   Trinke SJ, 1997, J SOC PERS RELAT, V14, P603, DOI 10.1177/0265407597145002
+   Van Assche L, 2013, CLIN PSYCHOL REV, V33, P67, DOI 10.1016/j.cpr.2012.10.003
+   Zhou WX, 2005, P ROY SOC B-BIOL SCI, V272, P439, DOI 10.1098/rspb.2004.2970
+   Zuckerman A.S., 2005, The social logic of politics: Personal networks as contexts for political behavior p, P75
+NR 73
+TC 2
+Z9 2
+U1 0
+U2 37
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD OCT
+PY 2018
+VL 55
+BP 189
+EP 201
+DI 10.1016/j.socnet.2018.07.002
+PG 13
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA GT6YH
+UT WOS:000444666300018
+DA 2024-11-22
+ER
+
+PT J
+AU Azcorra, A
+   Chiroque, LF
+   Cuevas, R
+   Anta, AF
+   Laniado, H
+   Lillo, RE
+   Romo, J
+   Sguera, C
+AF Azcorra, A.
+   Chiroque, L. F.
+   Cuevas, R.
+   Fernandez Anta, A.
+   Laniado, H.
+   Lillo, R. E.
+   Romo, J.
+   Sguera, C.
+TI Unsupervised Scalable Statistical Method for Identifying Influential
+   Users in Online Social Networks
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID DEPTH; FMRI
+AB Billions of users interact intensively every day via Online Social Networks (OSNs) such as Facebook, Twitter, or Google+. This makes OSNs an invaluable source of information, and channel of actuation, for sectors like advertising, marketing, or politics. To get the most of OSNs, analysts need to identify influential users that can be leveraged for promoting products, distributing messages, or improving the image of companies. In this report we propose a new unsupervised method, Massive Unsupervised Outlier Detection (MUOD), based on outliers detection, for providing support in the identification of influential users. MUOD is scalable, and can hence be used in large OSNs. Moreover, it labels the outliers as of shape, magnitude, or amplitude, depending of their features. This allows classifying the outlier users in multiple different classes, which are likely to include different types of influential users. Applying MUOD to a subset of roughly 400 million Google+ users, it has allowed identifying and discriminating automatically sets of outlier users, which present features associated to different definitions of influential users, like capacity to attract engagement, capacity to attract a large number of followers, or high infection capacity.
+C1 [Azcorra, A.; Chiroque, L. F.; Cuevas, R.] Univ Carlos III Madrid, Madrid, Spain.
+   [Azcorra, A.; Chiroque, L. F.; Fernandez Anta, A.] IMDEA Networks Inst, Madrid, Spain.
+   [Laniado, H.] Univ Nacl Colombia, Univ EAFIT, Dept Math Sci, Medellin, Colombia.
+   [Lillo, R. E.; Romo, J.] Univ Carlos III Madrid, Dept Stat, Madrid, Spain.
+   [Lillo, R. E.; Romo, J.; Sguera, C.] Univ Carlos III Madrid, BS Inst Financial Big Data UC3M, Madrid, Spain.
+C3 Universidad Carlos III de Madrid; IMDEA Networks Institute; Universidad
+   Nacional de Colombia; Universidad EAFIT; Universidad Carlos III de
+   Madrid; Universidad Carlos III de Madrid
+RP Chiroque, LF (corresponding author), Univ Carlos III Madrid, Madrid, Spain.; Chiroque, LF (corresponding author), IMDEA Networks Inst, Madrid, Spain.
+EM luisfo89@gmail.com
+RI Lillo, Rosa/Y-7090-2019; Azcorra, Arturo/AAA-4627-2019; Romo,
+   Juan/K-3267-2012; CUEVAS, RUBEN/G-6917-2015; Fernandez Anta,
+   Antonio/B-4176-2009
+OI Romo, Juan/0000-0002-0789-089X; LILLO, ROSA E./0000-0003-0802-4691;
+   CUEVAS, RUBEN/0000-0002-1440-8360; Fernandez Anta,
+   Antonio/0000-0001-6501-2377
+FU Ministerio de Economia y Competitividad [ECO2015-66593-P]; Regional
+   Government of Madrid (CM) grant Cloud4BigData [S2013/ICE-2894]; FSE;
+   FEDER; European Union through the ReCRED project [653417]; MIT MISTI
+   Global Seed Funds through the MyBubble project; Departamento
+   Administrativo de Ciencia y Tecnologia, COLCIENCIAS under Convocatoria
+   656
+FX Partially supported by Ministerio de Economia y Competitividad grant
+   ECO2015-66593-P, Regional Government of Madrid (CM) grant Cloud4BigData
+   (S2013/ICE-2894, co-funded by FSE & FEDER), the European Union through
+   the ReCRED (653417) project and MIT MISTI Global Seed Funds through the
+   MyBubble project. Henry Laniado has been partially supported by
+   Departamento Administrativo de Ciencia y Tecnologia, COLCIENCIAS, under
+   Convocatoria 656, 2014, Es Tiempo de Volver; and wants to express his
+   thanks to the hospitality of El Departamento de Ingenieria de la
+   Organizacion, Universidad Nacional de Colombia sede Medellin and to the
+   research group, Modelamiento y Analisis Energia Ambiente Economia
+   (MAEAE) led by Professor Sergio Botero-Botero. The authors would like to
+   thank Manuel Cebrian for useful discussions and reviewing the
+   manuscript.
+CR Bakshy E., 2011, P 4 ACM INT C WEB SE, P65, DOI DOI 10.1145/1935826.1935845
+   Basaras P, 2013, COMPUTER, V46, P24, DOI 10.1109/MC.2013.75
+   Cha M., 2010, ICWSM, V10, P10, DOI DOI 10.1609/ICWSM.V4I1.14033
+   Chen YX, 2009, IEEE T PATTERN ANAL, V31, P288, DOI 10.1109/TPAMI.2008.72
+   Cohen R, 2001, PHYS REV LETT, V86, P3682, DOI 10.1103/PhysRevLett.86.3682
+   D'Agostino G, 2015, PHYSICA A, V436, P443, DOI 10.1016/j.physa.2015.05.062
+   de Arruda GF, 2014, PHYS REV E, V90, DOI 10.1103/PhysRevE.90.032812
+   Domingos Pedro, 2001, P 7 ACM SIGKDD INT C, P57, DOI [DOI 10.1145/502512.502525, 10.1145/502512.502525]
+   Febrero M, 2008, ENVIRONMETRICS, V19, P331, DOI 10.1002/env.878
+   Gonzalez R, 2016, IEEE ACM T NETWORK, V24, P1813, DOI 10.1109/TNET.2015.2433792
+   Guo L, 2009, KDD-09: 15TH ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P369
+   Hubert M, 2015, STAT METHOD APPL-GER, V24, P177, DOI 10.1007/s10260-015-0297-8
+   Jin L, 2013, IEEE COMMUN MAG, V51, P144, DOI 10.1109/MCOM.2013.6588663
+   Kitsak M, 2010, NAT PHYS, V6, P888, DOI [10.1038/NPHYS1746, 10.1038/nphys1746]
+   Lazar NA, 2008, STAT BIOL HEALTH, P1, DOI 10.1007/978-0-387-78191-4_1
+   Leskovec J, 2007, PROCEEDINGS OF THE SEVENTH SIAM INTERNATIONAL CONFERENCE ON DATA MINING, P551
+   Lindquist MA, 2008, STAT SCI, V23, P439, DOI 10.1214/09-STS282
+   López-Pintado S, 2009, J AM STAT ASSOC, V104, P718, DOI 10.1198/jasa.2009.0108
+   Louail T., 2014, Scientificreports
+   Monti MM, 2011, FRONT HUM NEUROSCI, V5, DOI 10.3389/fnhum.2011.00028
+   Morone F, 2015, NATURE, V524, P65, DOI 10.1038/nature14604
+   Pastor-Satorras R, 2001, PHYS REV LETT, V86, P3200, DOI 10.1103/PhysRevLett.86.3200
+   Poline JB, 2012, NEUROIMAGE, V62, P871, DOI 10.1016/j.neuroimage.2012.01.133
+   Reimann C, 2000, ENVIRON GEOL, V39, P1001, DOI 10.1007/s002549900081
+   Simmie D, 2014, J COMPLEX NETW, V2, P495, DOI 10.1093/comnet/cnu024
+   Sun Y, 2011, J COMPUT GRAPH STAT, V20, P316, DOI 10.1198/jcgs.2011.09224
+   Tardos, 2003, P 9 ACM SIGKDD INT C, P137, DOI 10.1145/956750.956769
+   Templ M, 2008, APPL GEOCHEM, V23, P2198, DOI 10.1016/j.apgeochem.2008.03.004
+   Zeng Y, 2015, PLOS GENET, V11, DOI 10.1371/journal.pgen.1004942
+NR 29
+TC 11
+Z9 13
+U1 0
+U2 8
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD MAY 3
+PY 2018
+VL 8
+AR 6955
+DI 10.1038/s41598-018-24874-2
+PG 7
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA GE5VK
+UT WOS:000431291500007
+PM 29725046
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Wang, H
+   Zhang, RW
+   Wellman, B
+AF Wang, Hua
+   Zhang, Renwen
+   Wellman, Barry
+TI Are older adults networked individuals? Insights from East Yorkers'
+   network structure, relational autonomy, and digital media use
+SO INFORMATION COMMUNICATION & SOCIETY
+LA English
+DT Article
+DE Networked individualism; older adults; social network; network
+   structure; relational autonomy; digital media
+ID COMMUNITY; LONELINESS; ACCESS; ONLINE; HEALTH
+AB Networked individualism is a critical concept about the transition of the societal shift from geographically bounded local groups to the contemporary network society comprised of sparse, permeable, and dynamic communication networks. An underlying assumption about networked individuals thus far in the literature is that they are at a younger age. There are fears that older adults have been left behind in this transition to networked individualism. In this study, we are the first to inquire to what extent and in what ways are older adults networked individuals. Using in-depth interviews with 41 older adults living in the East York area of Toronto, we used a combination of quantitative coding, thematic analysis, and individual profiling to analyze their social network structure, relational autonomy, and digital media use. Our findings render a rather complex and nuanced picture, showing three types of older adults along the spectrum of networked individualism: networked individuals, socially connected but not networked individuals, and socially constrained individuals. Although most participants are socially connected, those who are networked individuals actively manage and navigate multiple, diverse, and non-redundant social networks. Digital media use is neither necessary nor sufficient in qualifying a person as a networked individual as the great majority of East Yorkers even if not networked individuals integrate digital media into their everyday lives.
+C1 [Wang, Hua] SUNY Buffalo, Dept Commun, Buffalo, NY 14260 USA.
+   [Zhang, Renwen] Northwestern Univ, Sch Commun, Evanston, IL USA.
+   [Wellman, Barry] NetLab Network, Toronto, ON, Canada.
+   [Wellman, Barry] Ryerson Univ, Social Media Lab, Toronto, ON, Canada.
+C3 State University of New York (SUNY) System; University at Buffalo, SUNY;
+   Northwestern University; Toronto Metropolitan University
+RP Wang, H (corresponding author), SUNY Buffalo, Dept Commun, Buffalo, NY 14260 USA.
+EM hwang23@buffalo.edu
+OI Wellman, Barry/0000-0001-6340-8837; Zhang, Renwen/0000-0002-7636-9598;
+   Wang, Hua/0000-0001-8428-8360
+FU Social Sciences and Humanities Research Council in Canada [778556]
+FX This work was supported by the Social Sciences and Humanities Research
+   Council in Canada [Grant no 778556] Networked Individualism: A
+   Comparative Study of Social Networks, Digital Media, International Ties,
+   and Privacy.
+CR Adichie ChimamandaNgozi., 2009, TEDGLOBAL
+   [Anonymous], 2001, BOWLING ALONE BOWLIN
+   [Anonymous], 2011, ALONE TOGERTHER
+   [Anonymous], 1992, CONT SOCIOLOGICAL TH
+   Boase Jeffrey, 2008, Information Communication & Society, V11, P490, DOI 10.1080/13691180801999001
+   Boase J., 2005, HDB PERSONAL RELATIO, P709
+   Braun V., 2006, QUAL RES PSYCHOL, V3, P77, DOI [10.1191/1478088706qp063oa, DOI 10.1191/1478088706QP063OA]
+   Burt RS, 2017, NETW SCI, V5, P411, DOI 10.1017/nws.2017.23
+   Cornwell EY, 2009, J HEALTH SOC BEHAV, V50, P31, DOI 10.1177/002214650905000103
+   Cotten SR, 2013, J MED INTERNET RES, V15, DOI 10.2196/jmir.2306
+   Francis J., 2017, INFORM COMMUNICATION, P21
+   Gee E. A., 2018, TORONTO GLOBE M 0106
+   Haight M, 2014, INFORM COMMUN SOC, V17, P503, DOI 10.1080/1369118X.2014.891633
+   Hampton K. N., HDB DIGITAL IN PRESS
+   Hampton KN, 2016, AM BEHAV SCI, V60, P101, DOI 10.1177/0002764215601714
+   Hampton KN, 2011, NEW MEDIA SOC, V13, P1031, DOI 10.1177/1461444810390342
+   Hargittai E., 2017, CANADIAN J COMMUNICA, V42, P196, DOI [10.22230/cjc.2017v42n2a3176, DOI 10.22230/CJC.2017V42N2A3176]
+   Hargittai E, 2008, COMMUN RES, V35, P602, DOI 10.1177/0093650208321782
+   Holt-Lunstad J, 2015, PERSPECT PSYCHOL SCI, V10, P227, DOI 10.1177/1745691614568352
+   Jacoby S., 2011, NEVER SAY DIE
+   Kennedy T.L. M., 2007, Information, Communication Society, V10, P645, DOI DOI 10.1080/13691180701658012
+   Littell R., 2001, POWER NETWEAVING
+   Quan-Haase A., AM BEHAV SCI, V62
+   Quan-Haase A., FAMILIES INFORM COMM
+   Quan-Haase A, 2017, INFORM COMMUN SOC, V20, P967, DOI 10.1080/1369118X.2017.1305428
+   Rainie L, 2012, NETWORKED: THE NEW SOCIAL OPERATING SYSTEM, P1
+   Rainie L., SOC INTERNE IN PRESS
+   Rainie L., 2006, The strength of internet ties
+   Valtorta N, 2012, J ROY SOC MED, V105, P518, DOI 10.1258/jrsm.2012.120128
+   Wang H, 2010, AM BEHAV SCI, V53, P1148, DOI 10.1177/0002764209356247
+   WELLMAN B, 1990, AM J SOCIOL, V96, P558, DOI 10.1086/229572
+   WELLMAN B, 1979, URBAN AFF REV, V14, P363, DOI 10.1177/107808747901400305
+   WELLMAN B, 1979, AM J SOCIOL, V84, P1201, DOI 10.1086/226906
+   Wellman B, 2001, INT J URBAN REGIONAL, V25, P227, DOI 10.1111/1468-2427.00309
+   Wellman B, 2002, LECT NOTES COMPUT SC, V2362, P10
+   Wellman B., 1993, Progress In Communication Sciences, V12, P63
+   Wellman Barry., 2006, Networked Neighbourhoods: The Connected Community in Context, P161, DOI DOI 10.1007/1-84628-601-8_8
+NR 37
+TC 21
+Z9 23
+U1 5
+U2 39
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1369-118X
+EI 1468-4462
+J9 INFORM COMMUN SOC
+JI Info. Commun. Soc.
+PY 2018
+VL 21
+IS 5
+SI SI
+BP 681
+EP 696
+DI 10.1080/1369118X.2018.1428659
+PG 16
+WC Communication; Sociology
+WE Social Science Citation Index (SSCI)
+SC Communication; Sociology
+GA FW5ZU
+UT WOS:000425398800004
+OA Bronze
+DA 2024-11-22
+ER

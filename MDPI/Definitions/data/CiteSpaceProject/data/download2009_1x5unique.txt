@@ -1,0 +1,472 @@
+
+PT J
+AU Krivitsky, PN
+   Handcock, MS
+   Raftery, AE
+   Hoff, PD
+AF Krivitsky, Pavel N.
+   Handcock, Mark S.
+   Raftery, Adrian E.
+   Hoff, Peter D.
+TI Representing degree distributions, clustering, and homophily in social
+   networks with latent cluster random effects models
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Bayesian inference; Latent variable; Markov chain Monte Carlo;
+   Model-based clustering; Small world network; Scale-free network
+AB Social network data often involve transitivity, homophily on observed attributes, community structure, and heterogeneity of actor degrees. We propose a latent cluster random effects model to represent all of these features, and we develop Bayesian inference for it. The model is applicable to both binary and non-binary network data. We illustrate the model using two real datasets: liking between monks and coreaderships between Slovenian publications. We also apply it to two simulated network datasets with very different network structure but the same highly skewed degree sequence generated from a preferential attachment process. One has transitivity and community structure while the other does not. Models based solely on degree distributions. such as scale-free, preferential attachment and power-law models, cannot distinguish between these very different situations, but the latent cluster random effects model does. (C) 2009 Elsevier B.V. All rights reserved.
+C1 [Krivitsky, Pavel N.] Univ Washington, Dept Stat, Seattle, WA 98195 USA.
+C3 University of Washington; University of Washington Seattle
+RP Krivitsky, PN (corresponding author), Univ Washington, Dept Stat, Box 354322, Seattle, WA 98195 USA.
+EM pavel@stat.washington.edu
+RI Raftery, Adrian/P-2042-2015; Hoff, Peter/H-4040-2011; Krivitsky,
+   Pavel/P-4476-2015; Handcock, Mark/AAY-3318-2021
+OI Krivitsky, Pavel/0000-0002-9101-3362; Handcock, Mark/0000-0002-9985-2785
+CR [Anonymous], 2003, statnet: Software tools for the Statistical Modeling of Network Data, DOI DOI 10.1371/journal.pcbi.0020100
+   Batagelj V, 2006, PAJEK DATASETS
+   BREIGER RL, 1975, J MATH PSYCHOL, V12, P328, DOI 10.1016/0022-2496(75)90028-0
+   De Nooy W., 2018, EXPLORATORY SOCIAL N
+   DIEBOLT J, 1994, J ROY STAT SOC B MET, V56, P363
+   Fraley C, 2002, J AM STAT ASSOC, V97, P611, DOI 10.1198/016214502760047131
+   GOODMAN LA, 1985, ANN STAT, V13, P10, DOI 10.1214/aos/1176346576
+   *GOOGL INC, GOOGL SEARCH
+   Google Inc, GOOGL TRANSL
+   Handcock MS, 2007, LECT NOTES COMPUT SC, V4503, P103
+   Handcock MS, 2007, J ROY STAT SOC A STA, V170, P301, DOI 10.1111/j.1467-985X.2007.00471.x
+   Handcock MS, 2004, THEOR POPUL BIOL, V65, P413, DOI 10.1016/j.tpb.2003.09.006
+   Hoff PD, 2005, J AM STAT ASSOC, V100, P286, DOI 10.1198/016214504000001015
+   Hoff PD, 2003, DYNAMIC SOCIAL NETWORK MODELING AND ANALYSIS, P303
+   Hoff PD, 2002, J AM STAT ASSOC, V97, P1090, DOI 10.1198/016214502388618906
+   KRIVITSKY PN, 2008, LATENTNET LATENT POS
+   KRIVITSKY PN, 2008, J STAT SOFTW, V24, P2
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   Oh MS, 2007, J COMPUT GRAPH STAT, V16, P559, DOI 10.1198/106186007X236127
+   Oh MS, 2001, J AM STAT ASSOC, V96, P1031, DOI 10.1198/016214501753208690
+   R Core Team, 2022, R LANG ENV STAT COMP
+   Raftery A. E., 1996, Markov Chain Monte Carlo in Practice, P115, DOI DOI 10.1093/molbev/mss140
+   Sampson S, 1969, Crisis in a Cloister
+   Schweinberger M, 2003, SOCIOL METHODOL, V33, P307, DOI 10.1111/j.0081-1750.2003.00134.x
+   Shortreed Susan, 2006, Methodology, V2, P24, DOI 10.1027/1614-2241.2.1.24
+   Stephens M, 2000, J ROY STAT SOC B, V62, P795, DOI 10.1111/1467-9868.00265
+   van Duijn MAJ, 2004, STAT NEERL, V58, P234
+   WALLACE DL, 1983, J AM STAT ASSOC, V78, P569, DOI 10.2307/2288118
+   WHITE HC, 1981, AM J SOCIOL, V87, P517, DOI 10.1086/227495
+NR 29
+TC 164
+Z9 206
+U1 1
+U2 39
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JUL
+PY 2009
+VL 31
+IS 3
+BP 204
+EP 213
+DI 10.1016/j.socnet.2009.04.001
+PG 10
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 468RX
+UT WOS:000267838900004
+PM 20191087
+OA Green Accepted, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Scheitle, CP
+   Adamczyk, A
+AF Scheitle, Christopher P.
+   Adamczyk, Amy
+TI It Takes Two: The Interplay of Individual and Group Theology on Social
+   Embeddedness
+SO JOURNAL FOR THE SCIENTIFIC STUDY OF RELIGION
+LA English
+DT Article
+ID RELIGIOUS INVOLVEMENT; AMERICAN ADOLESCENTS; GENDER DIFFERENCES; CHURCH;
+   PARTICIPATION; NETWORKS; ALCOHOL; MODEL; TIES; RECRUITMENT
+AB Prior research argues that religious homophily in social networks is a product of overlapping interests and activities unintentionally leading to relationships or the intentional seeking of relationships with people of similar religious beliefs. This article advances research on religious homophily by including the role that exclusive theological beliefs play in explaining religious homophily among friends. We lay out three propositions for individual-, congregational-, and cross-level effects on the relationship between exclusive theology and embeddedness within one's congregation. Using multilevel models and data from the U.S. Congregational Life Survey (USCLS), we find support for our three propositions. We discuss our findings in terms of how exclusive theologies may contribute to bonding forms of social capital, but limit exposure to diverse social perspectives and bridging forms of social capital.
+C1 [Scheitle, Christopher P.] Penn State Univ, Dept Sociol, University Pk, PA 16802 USA.
+   [Adamczyk, Amy] CUNY, Dept Sociol, New York, NY USA.
+C3 Pennsylvania Commonwealth System of Higher Education (PCSHE);
+   Pennsylvania State University; Pennsylvania State University -
+   University Park; City University of New York (CUNY) System
+RP Scheitle, CP (corresponding author), Penn State Univ, Dept Sociol, 211 Oswald Tower, University Pk, PA 16802 USA.
+EM cps153@psu.edu
+RI Scheitle, Christopher/F-1122-2010
+FX The authors would like to thank Roger Finke for the suggestions that he
+   provided on an earlier version of this article.
+CR ADAMCZYK A, 2009, SOCIOLOGY R IN PRESS
+   [Anonymous], AM J SOCIOLOGY
+   BOCK EW, 1987, SOCIOL QUART, V28, P89, DOI 10.1111/j.1533-8525.1987.tb00284.x
+   Brown TL, 2001, J STUD ALCOHOL, V62, P696, DOI 10.15288/jsa.2001.62.696
+   Chaves Mark., 1999, Financing American Religion
+   COLEMAN J, 1988, AM J SOCIOLOGY S, P95
+   DEVAUS D, 1987, AM SOCIOL REV, V52, P472, DOI 10.2307/2095292
+   ELLISON CG, 1994, J SCI STUD RELIG, V33, P46, DOI 10.2307/1386636
+   Field J., 2003, SOCIAL CAPITAL
+   Finke R, 2006, SOC SCI RES, V35, P620, DOI 10.1016/j.ssresearch.2005.04.001
+   Fischer C.S., 1982, DWELL FRIENDS
+   Ford J, 2002, SOCIOL FORUM, V17, P255, DOI 10.1023/A:1016089229972
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Hechter M., 1987, PRINCIPLES GROUP SOL
+   Hoge D., 1996, Money matters: Personal giving in American churches
+   IANNACCONE LR, 1994, AM J SOCIOL, V99, P1180, DOI 10.1086/230409
+   Iannaccone LR, 1997, J SCI STUD RELIG, V36, P141, DOI 10.2307/1387549
+   Johnson DC, 1997, J SCI STUD RELIG, V36, P231, DOI 10.2307/1387555
+   Kalmijn M, 1998, ANNU REV SOCIOL, V24, P395, DOI 10.1146/annurev.soc.24.1.395
+   Kanter RosabethMoss., 1972, Commitment and Community: Communes and Utopias in Sociological Perspective
+   Kelley DeanM., 1972, WHY CONSERVATIVE CHU
+   Kim RY, 2004, SOCIOL RELIG, V65, P19, DOI 10.2307/3712505
+   Krause N, 2005, REV RELIG RES, V46, P325, DOI 10.2307/3512164
+   MARSDEN PV, 1988, SOC NETWORKS, V10, P57, DOI 10.1016/0378-8733(88)90010-X
+   McPherson JM, 1996, AM SOCIOL REV, V61, P179, DOI 10.2307/2096330
+   MCPHERSON JM, 1982, SOC NETWORKS, V3, P225, DOI 10.1016/0378-8733(82)90001-6
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   MILLER AS, 1995, J SCI STUD RELIG, V34, P63, DOI 10.2307/1386523
+   Nooney J, 2002, J SCI STUD RELIG, V41, P359, DOI 10.1111/1468-5906.00122
+   OLSON DVA, 1989, J SCI STUD RELIG, V28, P432, DOI 10.2307/1386575
+   Olson DVA, 2005, J SCI STUD RELIG, V44, P123, DOI 10.1111/j.1468-5906.2005.00271.x
+   Olson LR, 2006, SOC SCI QUART, V87, P340, DOI 10.1111/j.1540-6237.2006.00384.x
+   Putnam RD., 2000, COLLAPSE REVIVAL AM
+   Raudenbush S.W., 2002, HIERARCHICAL LINEAR
+   Scheitle C P., 2005, Interdisciplinary Journal of Research on Religion, V1
+   Scheitle CP, 2008, SOC SCI RES, V37, P815, DOI 10.1016/j.ssresearch.2007.10.001
+   Schwadel P, 2005, J SCI STUD RELIG, V44, P159, DOI 10.1111/j.1468-5906.2005.00273.x
+   Sherkat D.E., 1997, RATIONAL CHOICE THEO, P66
+   Sherkat DE, 1998, SOC FORCES, V76, P1087, DOI 10.2307/3005704
+   Smith C, 2003, J SCI STUD RELIG, V42, P259, DOI 10.1111/1468-5906.00177
+   Smith C, 2003, J SCI STUD RELIG, V42, P17, DOI 10.1111/1468-5906.t01-1-00158
+   Smith C., 1998, AM EVANGELICALS EMBA
+   SNOW DA, 1980, AM SOCIOL REV, V45, P787, DOI 10.2307/2094895
+   STARK R, 1980, AM J SOCIOL, V85, P1376, DOI 10.1086/227169
+   Stark Rodney., 2000, ACTS FAITH EXPLORING
+   Steensland B, 2000, SOC FORCES, V79, P291, DOI 10.2307/2675572
+   Wuthnow R, 2003, SOCIOL RELIG, V64, P423, DOI 10.2307/3712334
+   Zablocki B., 1971, JOYFUL COMMUNITY
+NR 48
+TC 79
+Z9 100
+U1 1
+U2 14
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0021-8294
+EI 1468-5906
+J9 J SCI STUD RELIG
+JI J. Sci. Stud. Relig.
+PD MAR
+PY 2009
+VL 48
+IS 1
+BP 16
+EP 29
+DI 10.1111/j.1468-5906.2009.01427.x
+PG 14
+WC Sociology; Religion
+WE Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Sociology; Religion
+GA 414HI
+UT WOS:000263854100002
+DA 2024-11-22
+ER
+
+PT J
+AU Lusher, D
+   Robins, G
+AF Lusher, Dean
+   Robins, Garry
+TI Hegemonic and Other Masculinities in Local Social Contexts
+SO MEN AND MASCULINITIES
+LA English
+DT Article
+DE hegemonic masculinity; masculinities; social network theory;
+   interdependency
+ID LOGISTIC REGRESSIONS; LOGIT-MODELS; PARTICIPANTS ORIENTATIONS; IDENTITY
+   THEORY; NETWORK MODELS; MARKOV GRAPHS; COMMUNICATION; VIOLENCE; MEN
+AB This article is a theoretical examination of Connell's social theory of gender, discussing how hegemonic, complicit, subordinate, and marginalized masculinities interact and relate to one another in the men's everyday lives in particular social contexts. Connell's theory is articulated in global terms that need to be localized to examine the actual interactions of men with one another. The theory implies a multilevel framework that the authors develop more explicitly. They investigate two interrelated theoretical concerns: (a) inadequately detailed interdependencies between structural, individual, and cultural factors with respect to masculinities, and (b) the lack of contextualization of masculinities in specific relational settings. The authors suggest that theoretical insights gained from social network theory and analysis allow such issues to be addressed and assist in local-level accounts of gendered power relations. The authors conclude by specifying Connell's theory into particular, testable hypotheses for use with statistical models for social networks.
+C1 [Lusher, Dean; Robins, Garry] Univ Melbourne, Sch Behav Sci, Melbourne, Vic 3010, Australia.
+C3 University of Melbourne
+RP Lusher, D (corresponding author), Univ Melbourne, Sch Behav Sci, Melbourne, Vic 3010, Australia.
+RI Lusher, Dean/J-1520-2015
+OI Robins, Garry/0000-0001-7538-5804; Lusher, Dean/0000-0002-1629-4897
+CR Abbott A, 1997, SOC FORCES, V75, P1149, DOI 10.2307/2580667
+   [Anonymous], 1988, ROBBERS CAVE EXPT IN
+   [Anonymous], 1999, Social dominance, DOI DOI 10.1017/CBO9781139175043
+   Barnes JA, 1954, HUM RELAT, V7, P39, DOI 10.1177/001872675400700102
+   Bird SR, 1996, GENDER SOC, V10, P120, DOI 10.1177/089124396010002002
+   Brittan Arthur., 1989, MASCULINITY POWER
+   Carlson NR., 1997, Psychology The Science of Behavior, VFifth
+   CARRIGAN T, 1985, THEOR SOC, V14, P551, DOI 10.1007/BF00160017
+   CARTWRIGHT D, 1956, PSYCHOL REV, V63, P277, DOI 10.1037/h0046049
+   Collier Richard., 1998, Masculinities, Crime and Criminology
+   Connell R., 2004, INT J QUAL STUD EDUC, V17, P10, DOI [https://doi.org/10.1080/0951839032000150202, DOI 10.1080/095]
+   Connell R., 2003, Journal of Men's Studies, V11, P249, DOI DOI 10.3149/JMS.1103.249
+   Connell R.W., 2001, The men and the boys
+   Connell R.W., 2002, Gender
+   Connell R. W., 1987, GENDER POWER
+   Connell R.W., 1998, Men and Masculinities, V1, P3, DOI [DOI 10.1177/1097184X98001001001, 10.1177/1097184X98001001001]
+   Connell RW, 2005, GENDER SOC, V19, P829, DOI 10.1177/0891243205278639
+   Connell RW, 2002, THEOR CRIMINOL, V6, P89, DOI 10.1177/136248060200600104
+   Connell RW, 2001, FEM PSYCHOL, V11, P5, DOI 10.1177/0959353501011001001
+   Connell RW., 1995, MASCULINITIES
+   Contractor Noshir, 2003, Theories of Communication Networks
+   Contractor NS, 2006, ACAD MANAGE REV, V31, P681, DOI [10.5465/AMR.2006.21318925, 10.2307/20159236]
+   Davies B., 1993, Shards of glass: Children reading and writing beyond gendered identity
+   Demetriou DZ, 2001, THEOR SOC, V30, P337, DOI 10.1023/A:1017596718715
+   DONALDSON M, 1993, THEOR SOC, V22, P643, DOI 10.1007/BF00993540
+   EMIRBAYER M, 1994, AM J SOCIOL, V99, P1411, DOI 10.1086/230450
+   Festinger, 1964, CONFLICT DECISION DI
+   FRANK O, 1986, J AM STAT ASSOC, V81, P832, DOI 10.2307/2289017
+   Gramsci Antonio., 1999, SELECTIONS PRISON NO, DOI DOI 10.4324/9780429355363-27
+   Hall S, 2002, THEOR CRIMINOL, V6, P35, DOI 10.1177/136248060200600102
+   Hearn Jeff., 2004, FEM THEOR, V5, P49, DOI [DOI 10.1177/1464700104040813, https://doi.org/10.1177/1464700104040813]
+   Heider F, 1958, PSYCHOL INTERPERSONA
+   Hogg MA, 1995, SOC PSYCHOL QUART, V58, P255, DOI 10.2307/2787127
+   Hogg MA, 1998, EUR J SOC PSYCHOL, V28, P323, DOI 10.1002/(SICI)1099-0992(199805/06)28:3<323::AID-EJSP854>3.0.CO;2-Y
+   Hogg MA, 2001, PERS SOC PSYCHOL REV, V5, P184, DOI 10.1207/S15327957PSPR0503_1
+   Hornsey MJ, 2002, BRIT J SOC PSYCHOL, V41, P203, DOI 10.1348/014466602760060200
+   Howson R., 2005, Challenging hegemonic masculinity
+   Jefferson T, 2002, THEOR CRIMINOL, V6, P63, DOI 10.1177/136248060200600103
+   Kenway Jane., 1997, Gender and Education, V9, P117, DOI [10.1080/09540259721493, DOI 10.1080/09540259721493]
+   KESSLER S, 1985, SOCIOL EDUC, V58, P34, DOI 10.2307/2112539
+   Kilduff M., 1996, RES MEN MASCULINITIE, V9, P115
+   KILDUFF M, 2001, HDB ORG BEHAV, P599
+   Kupers TA, 2005, J CLIN PSYCHOL, V61, P713, DOI 10.1002/jclp.20105
+   Lindenberg S., 1997, ADV GROUP PROCESS, V14, P281
+   LUSHER D, SOCIAL NETWORK UNPUB
+   LUSHER D, MASCULINE ATTI UNPUB
+   Lyons A, 2003, J PERS SOC PSYCHOL, V85, P989, DOI 10.1037/0022-3514.85.6.989
+   Mahalik J.R., 2003, Psychology of Men and Masculinity, V4, P3, DOI DOI 10.1037/1524-9220.4.1.3
+   Marecek J., 2004, PSYCHOL GENDER, V2nd, P192, DOI DOI 10.1163/9789004362710_015
+   MCGARTY C, 1992, BRIT J SOC PSYCHOL, V31, P1, DOI 10.1111/j.2044-8309.1992.tb00952.x
+   Mumby DK, 1997, WESTERN J COMM, V61, P343
+   Pattison P, 1999, BRIT J MATH STAT PSY, V52, P169, DOI 10.1348/000711099159053
+   Pringle R, 2005, J SPORT SOC ISSUES, V29, P256, DOI 10.1177/0193723505276228
+   Reicher S.D., 1987, REDISCOVERING SOCIAL
+   Ridgeway CL, 2004, GENDER SOC, V18, P510, DOI 10.1177/0891243204265269
+   Robins G, 2001, PSYCHOMETRIKA, V66, P161, DOI 10.1007/BF02294834
+   Robins G, 2001, SOC NETWORKS, V23, P1, DOI 10.1016/S0378-8733(01)00029-6
+   Robins G, 1999, PSYCHOMETRIKA, V64, P371, DOI 10.1007/BF02294302
+   ROBINS GP, SOCIAL NETW IN PRESS
+   Simmel G., 1950, SOCIOLOGY G SIMMEL
+   Snijders TAB, 2006, SOCIOL METHODOL, V36, P99, DOI 10.1111/j.1467-9531.2006.00176.x
+   SOANES C, 2004, OXFORD REFERENCE ONL
+   Speer SA, 2001, FEM PSYCHOL, V11, P107, DOI 10.1177/0959353501011001006
+   Speer SA, 2001, FEM PSYCHOL, V11, P141, DOI 10.1177/0959353501011001008
+   Tafjel H., 1979, SOCIAL PSYCHOL INTER, P33
+   Turner J.C., 1999, SOCIAL IDENTITY, P6
+   Wasserman S, 1996, PSYCHOMETRIKA, V61, P401, DOI 10.1007/BF02294547
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   Wetherell M, 1999, FEM PSYCHOL, V9, P335, DOI 10.1177/0959353599009003012
+   WHITEHEAD SM, 1991, GENDER WORK ORGAN, V6, P58
+   Whitehead Stephen., 2002, Men and Masculinities: Key Themes and New Directions
+NR 71
+TC 52
+Z9 79
+U1 2
+U2 36
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 1097-184X
+EI 1552-6828
+J9 MEN MASC
+JI Men Masc.
+PD JUN
+PY 2009
+VL 11
+IS 4
+BP 387
+EP 423
+DI 10.1177/1097184X06298776
+PG 37
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA 450VW
+UT WOS:000266430300001
+DA 2024-11-22
+ER
+
+PT J
+AU Morgan, SL
+   Todd, JJ
+AF Morgan, Stephen L.
+   Todd, Jennifer J.
+TI Intergenerational Closure and Academic Achievement in High School: A New
+   Evaluation of Coleman's Conjecture
+SO SOCIOLOGY OF EDUCATION
+LA English
+DT Article
+ID MORGAN-AND-SORENSEN; NETWORKS; HETEROGENEITY; PERFORMANCE; OUTCOMES
+AB This article reexamines the conjecture of James S. Coleman that intergenerational social closure promotes student achievement in high schools, analyzing the best national data on academic achievement and social networks: the 2002 and 2004 waves of the Education Longitudinal Study. The results show that within the Catholic school sector, schools that are characterized by dense parental networks have substantially higher average student achievement. This association can be reduced but not eliminated by conditioning on available measures of student network structure and standard measures of family background. In contrast, in the public school sector, a similarly strong bivariate association between dense parental networks and student achievement can be attributed almost entirely to these basic conditioning variables. These results represent, at best, a mixed verdict for Coleman's predictions. Intergenerational closure in its currently observed form does not increase achievement in public schools, suggesting that parental monitoring of discipline does not outweigh some of the costs of parental closure. However, intergenerational closure may increase achievement in Catholic schools to a modest degree because Catholic schools are affiliated with religious communities that have appropriable norms.
+C1 [Morgan, Stephen L.] Cornell Univ, Dept Sociol, Ctr Study Inequal, Ithaca, NY 14853 USA.
+C3 Cornell University
+RP Morgan, SL (corresponding author), Cornell Univ, Dept Sociol, Ctr Study Inequal, Ithaca, NY 14853 USA.
+EM slm45@cornell.edu; jjt24@cornell.edu
+CR [Anonymous], 2002, OBSERVATIONAL STUDIE
+   [Anonymous], J SOCIOECONOMICS
+   Bankston CL, 2002, SOCIOL INQ, V72, P285, DOI 10.1111/1475-682X.00017
+   Carbonaro WJ, 1999, AM SOCIOL REV, V64, P682, DOI 10.2307/2657369
+   Carbonaro WJ, 1998, SOCIOL EDUC, V71, P295, DOI 10.2307/2673172
+   Chubb J.E., 1990, Politics, markets and America's schools
+   Coleman J., 1987, SOCIAL ORG SCH, P177
+   Coleman J. S., 1987, Public and Private Schools: The Impact of Communities
+   Coleman JamesSamuel., 1961, The Adolescent Society; The Social Life of the Teenager and its Impact on Education
+   Coleman JS., 1982, HIGH SCH ACHIEVEMENT
+   GELMAN A, 2007, PPL REGRESSION MULTI
+   Gelman A, 2006, AM STAT, V60, P328, DOI 10.1198/000313006X152649
+   Gill J, 1999, POLIT RES QUART, V52, P647, DOI 10.1177/106591299905200309
+   Hallinan MT, 1999, AM SOCIOL REV, V64, P687, DOI 10.2307/2657370
+   HOFFER T, 1985, SOCIOL EDUC, V58, P74, DOI 10.2307/2112249
+   Horvat EM, 2003, AM EDUC RES J, V40, P319, DOI 10.3102/00028312040002319
+   Howell W.G., 2002, The Education Gap: Vouchers and Urban Schools
+   Imbens GW, 2004, REV ECON STAT, V86, P4, DOI 10.1162/003465304323023651
+   John P, 2005, POLICY STUD J, V33, P635, DOI 10.1111/j.1541-0072.2005.00136.x
+   Leahey E, 2005, SOC FORCES, V84, P1, DOI 10.1353/sof.2005.0108
+   Marsden PV, 2005, ANNU REV SOCIOL, V31, P1, DOI 10.1146/annurev.soc.31.041304.122209
+   McNulty TL, 2003, JUSTICE Q, V20, P1, DOI 10.1080/07418820300095441
+   Morgan SL, 1999, AM SOCIOL REV, V64, P661, DOI 10.2307/2657368
+   Morgan SL, 1999, AM SOCIOL REV, V64, P694, DOI 10.2307/2657371
+   Morgan SL, 2001, SOCIOL EDUC, V74, P341, DOI 10.2307/2673139
+   Morgan SL, 2008, SOCIOL METHODOL, V38, P231, DOI 10.1111/j.1467-9531.2008.00204.x
+   Pearl J., 2000, MODELS REASONING INF
+   Pribesh S, 1999, DEMOGRAPHY, V36, P521, DOI 10.2307/2648088
+   Raudenbush S.W., 2002, HIERARCHICAL LINEAR
+   Sandefur GD, 2006, SOC SCI RES, V35, P525, DOI 10.1016/j.ssresearch.2004.11.003
+   Schneider B., 2000, Handbook of the sociology of education, P365, DOI [10.1007/0-387-36424-2_17, DOI 10.1007/0-387-36424-2_17]
+NR 31
+TC 45
+Z9 71
+U1 1
+U2 28
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0038-0407
+EI 1939-8573
+J9 SOCIOL EDUC
+JI Sociol. Educ.
+PD JUL
+PY 2009
+VL 82
+IS 3
+BP 267
+EP 285
+DI 10.1177/003804070908200304
+PG 19
+WC Education & Educational Research; Sociology
+WE Social Science Citation Index (SSCI)
+SC Education & Educational Research; Sociology
+GA 484HS
+UT WOS:000269035800004
+DA 2024-11-22
+ER
+
+PT J
+AU Stern, MJ
+   Fullerton, AS
+AF Stern, Michael J.
+   Fullerton, Andrew S.
+TI The Network Structure of Local and Extra-Local Voluntary Participation:
+   The Role of Core Social Networks
+SO SOCIAL SCIENCE QUARTERLY
+LA English
+DT Article
+ID RESOURCES
+AB Objective
+   First, we evaluate whether structural characteristics of people's family and friend social networks are associated with involvement in local and extra-local civic participation. Second, we examine the interactions between social network attributes and personal characteristics on varied forms of participation.
+   Methods
+   We draw on data from a random-sample mail survey of 1,315 households.
+   Results
+   Attributes of friend and family social networks are related to civic participation beyond the influence of human capital; however, the results from family and friend networks are substantively different. There are also differences in the way attributes of social networks are associated with local versus extra-local participation. Finally, the interactions of human capital and social networks do not support previous research.
+   Conclusions
+   Overall, the evidence substantiates extant theory on the effects that social relations have on civic engagement. However, the structure and constituency of networks and the form of civic engagement play an important yet undertheorized role.
+C1 [Stern, Michael J.] Coll Charleston, Dept Sociol & Anthropol, Charleston, SC 29424 USA.
+   [Fullerton, Andrew S.] Oklahoma State Univ, Stillwater, OK 74078 USA.
+C3 College of Charleston; Oklahoma State University System; Oklahoma State
+   University - Stillwater
+RP Stern, MJ (corresponding author), Coll Charleston, Dept Sociol & Anthropol, 66 George St, Charleston, SC 29424 USA.
+EM mstern@okstate.edu
+OI Fullerton, Andrew/0000-0003-4176-5838
+CR [Anonymous], 2001, BOWLING ALONE BOWLIN
+   [Anonymous], 1957, Family and social network: Roles, norms, and external relationships in ordinary urban families
+   [Anonymous], 1992, Structural holes
+   Burt R.S., 2007, Brokerage and closure: An introduction to social capital
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   Dillman D. A., 2014, INTERNET PHONE MAIL
+   Fischer Claude S., 1982, To Dwell among Friends: Personal Networks in Town and City
+   FREUDENBERG WR, 1986, AM J SOCIOL, V92, P7
+   GOULD RV, 1993, AM SOCIOL REV, V58, P182, DOI 10.2307/2095965
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Hampton K.N., 2003, CITY COMMUNITY, V2, P277, DOI [10.1046/j.1535-6841.2003.00057.x, DOI 10.1046/J.1535-6841.2003.00057.X]
+   Hurlbert JS, 2000, AM SOCIOL REV, V65, P598, DOI 10.2307/2657385
+   Janoski T, 1998, SOCIOL FORUM, V13, P495, DOI 10.1023/A:1022131525828
+   KAUFMAN HF, 1959, SOC FORCES, V38, P8, DOI 10.2307/2574010
+   Kennedy Tracy, 2007, Information, Communication and Society, V10, P647
+   Lavrakas P.J., 1987, TELEPHONE SURVEY MET
+   LIN N, 1978, SOCIOL METHOD RES, V7, P149
+   Lin N., 2000, Social capital: A theory of structure and action
+   MARSDEN PV, 1987, AM SOCIOL REV, V52, P122, DOI 10.2307/2095397
+   Marwell G, 1993, The critical mass in collective action
+   MCADAM D, 1993, AM J SOCIOL, V99, P640, DOI 10.1086/230319
+   McClurg SD, 2003, POLIT RES QUART, V56, P449, DOI 10.2307/3219806
+   MCPHERSON JM, 1981, SOC FORCES, V59, P705, DOI 10.2307/2578190
+   MCPHERSON JM, 1992, AM SOCIOL REV, V57, P153, DOI 10.2307/2096202
+   McPherson M, 2006, AM SOCIOL REV, V71, P353, DOI 10.1177/000312240607100301
+   MERTON R, 1983, NEW PERSPECTIVES AM, P147
+   Myers SM, 1999, J MARRIAGE FAM, V61, P774, DOI 10.2307/353577
+   OLIVER P, 1984, AM SOCIOL REV, V49, P601, DOI 10.2307/2095418
+   Oropesa R.S., 1987, Sociological Forum, V2, P90
+   Paxton P, 1999, AM J SOCIOL, V105, P88, DOI 10.1086/210268
+   PUTNAM R, 1995, J DEMOCRACY, V0006
+   Rotolo T, 2006, J MARRIAGE FAM, V68, P305, DOI 10.1111/j.1741-3737.2006.00254.x
+   Rotolo T, 2004, SOC FORCES, V82, P1091, DOI 10.1353/sof.2004.0051
+   SMITH DH, 1994, NONPROF VOLUNT SEC Q, V23, P243, DOI 10.1177/089976409402300305
+   Stern Michael., 2006, CITY COMMUNITY, V5, P409, DOI DOI 10.1111/J.1540-6040.2006.00191.X
+   Warren R., 1978, The Community in America, V3rd
+   Wellman B, 2001, AM BEHAV SCI, V45, P436, DOI 10.1177/00027640121957286
+   Wellman B., 1990, MARRIAGE FAM REV, V15, P195, DOI [10.1300/J002v15n01_10, DOI 10.1300/J002V15N01_10]
+   Wilkinson K.P., 1991, The community in rural America
+   Wilson J, 1999, SOCIOL FORUM, V14, P243, DOI 10.1023/A:1021466712273
+   Wilson J, 1998, SOC SCI QUART, V79, P799
+   Wilson J, 2000, ANNU REV SOCIOL, V26, P215, DOI 10.1146/annurev.soc.26.1.215
+   WITT E, 2008, ANN M AM ASS PUBL OP
+NR 43
+TC 18
+Z9 23
+U1 2
+U2 22
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0038-4941
+EI 1540-6237
+J9 SOC SCI QUART
+JI Soc. Sci. Q.
+PD SEP
+PY 2009
+VL 90
+IS 3
+BP 553
+EP 575
+DI 10.1111/j.1540-6237.2009.00631.x
+PG 23
+WC Political Science; Sociology
+WE Social Science Citation Index (SSCI)
+SC Government & Law; Sociology
+GA 471FB
+UT WOS:000268040000006
+DA 2024-11-22
+ER

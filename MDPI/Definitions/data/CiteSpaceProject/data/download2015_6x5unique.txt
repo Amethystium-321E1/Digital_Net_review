@@ -1,0 +1,555 @@
+
+PT J
+AU Centola, D
+AF Centola, Damon
+TI The Social Origins of Networks and Diffusion
+SO AMERICAN JOURNAL OF SOCIOLOGY
+LA English
+DT Article
+ID SMALL-WORLD; DYNAMICS; MODELS; HETEROGENEITY; FRIENDSHIP; STRENGTH;
+   IDENTITY; CULTURE; SEARCH; SCHOOL
+AB Recent research on social contagion has demonstrated significant effects of network topology on the dynamics of diffusion. However, network topologies are not given a priori. Rather, they are patterns of relations that emerge from individual and structural features of society, such as population composition, group heterogeneity, homophily, and social consolidation. Following Blau and Schwartz, the author develops a model of social network formation that explores how social and structural constraints on tie formation generate emergent social topologies and then explores the effectiveness of these social networks for the dynamics of social diffusion. Results show that, at one extreme, high levels of consolidation can create highly balkanized communities with poor integration of shared norms and practices. As suggested by Blau and Schwartz, reducing consolidation creates more crosscutting circles and significantly improves the dynamics of social diffusion across the population. However, the author finds that further reducing consolidation creates highly intersecting social networks that fail to support the widespread diffusion of norms and practices, indicating that successful social diffusion can depend on moderate to high levels of structural consolidation.
+C1 Univ Penn, Annenberg Sch Commun, Philadelphia, PA 19104 USA.
+C3 University of Pennsylvania
+RP Centola, D (corresponding author), Univ Penn, Annenberg Sch Commun, 3620 Walnut St, Philadelphia, PA 19104 USA.
+EM dcentola@asc.upenn.edu
+FU James S. McDonnell Foundation
+FX The author gratefully acknowledges suggestions and guidance from Duncan
+   Watts during the early stages of this project and extensive comments
+   from Paul DiMaggio, Arnout van de Rijt, Peter Dodds, Michael Macy, Ezra
+   Zuckerman, Ray Reagans, and Ronald Burt. This research was supported in
+   part by the James S. McDonnell Foundation through a Studying Complex
+   Systems grant to the author.
+CR Albert R, 1999, NATURE, V401, P130, DOI 10.1038/43601
+   [Anonymous], RES SOCIAL MOVEMENTS
+   [Anonymous], 2005, Suicide
+   [Anonymous], 2003, Six Degrees: The Science of a Connected Age
+   Axelrod R, 1997, J CONFLICT RESOLUT, V41, P203, DOI 10.1177/0022002797041002001
+   AXELROD R, 1981, SCIENCE, V211, P1390, DOI 10.1126/science.7466396
+   Backstrom L., 2006, P 12 ACM SIGKDD INT, P44, DOI [10.1145/1150402.1150412, DOI 10.1145/1150402.1150412]
+   Barth F., 1969, ETHNIC GROUP BOUNDAR
+   Blau P.M., 1984, Crossing Social Circles
+   Blau P.M., 1977, INEQUALITY HETEROGEN
+   BLUM TC, 1985, AM J SOCIOL, V91, P511, DOI 10.1086/228312
+   BOORMAN SA, 1974, P NATL ACAD SCI USA, V71, P2103, DOI 10.1073/pnas.71.5.2103
+   Boyd R., 1985, Culture and the Evolutionary Process
+   BURT RS, 1992, NETWORKS AND ORGANIZATIONS : STRUCTURE, FORM, AND ACTION, P57
+   Castro L, 2004, P NATL ACAD SCI USA, V101, P10235, DOI 10.1073/pnas.0400156101
+   Centola D, 2005, AM J SOCIOL, V110, P1009, DOI 10.1086/427321
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   Centola D, 2007, J CONFLICT RESOLUT, V51, P905, DOI 10.1177/0022002707307632
+   Centola D, 2007, PHYSICA A, V374, P449, DOI 10.1016/j.physa.2006.06.018
+   Centola D, 2015, SOC SCI MED, V125, P19, DOI 10.1016/j.socscimed.2014.05.019
+   Centola D, 2011, SCIENCE, V334, P1269, DOI 10.1126/science.1207055
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   COLLINS R, 1993, RATION SOC, V5, P203, DOI 10.1177/1043463193005002005
+   Currarini S, 2010, P NATL ACAD SCI USA, V107, P4857, DOI 10.1073/pnas.0911793107
+   Dodds PS, 2003, SCIENCE, V301, P827, DOI 10.1126/science.1081058
+   Durkheim E., 1933, DIVISION LABOR SOC
+   FELD SL, 1981, AM J SOCIOL, V86, P1015, DOI 10.1086/227352
+   Friedkin N., 1998, A structural theory of social influence
+   Friedkin NE, 2001, SOC NETWORKS, V23, P167, DOI 10.1016/S0378-8733(01)00036-3
+   GRANOVETTER M, 1978, AM J SOCIOL, V83, P1420, DOI 10.1086/226707
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Grindereng M., 1967, J HOME ECON, V59, P171
+   Hansen MT, 1999, ADMIN SCI QUART, V44, P82, DOI 10.2307/2667032
+   Hedström P, 2000, AM J SOCIOL, V106, P145, DOI 10.1086/303109
+   Kalmijn M, 2001, SOC FORCES, V79, P1289, DOI 10.1353/sof.2001.0044
+   Keeling MJ, 1999, P ROY SOC B-BIOL SCI, V266, P859, DOI 10.1098/rspb.1999.0716
+   Kim HJ, 1997, AM SOCIOL REV, V62, P70, DOI 10.2307/2657453
+   Kleinberg JM, 2000, NATURE, V406, P845, DOI 10.1038/35022643
+   Klemm K, 2003, PHYS REV E, V67, DOI [10.1103/PhysRevE.67.045101, 10.1063/1.1571335]
+   Knottnerus JD, 1997, SOCIOL PERSPECT, V40, P109, DOI 10.2307/1389495
+   Kossinets G, 2009, AM J SOCIOL, V115, P405, DOI 10.1086/599247
+   Liljeros F, 2001, NATURE, V411, P907, DOI 10.1038/35082140
+   MACY MW, 1990, AM SOCIOL REV, V55, P809, DOI 10.2307/2095747
+   Marwell G, 1993, The critical mass in collective action
+   MCPHERSON JM, 1987, AM SOCIOL REV, V52, P370, DOI 10.2307/2095356
+   MCPHERSON JM, 1992, AM SOCIOL REV, V57, P153, DOI 10.2307/2096202
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   McPherson M, 2004, IND CORP CHANGE, V13, P263, DOI 10.1093/icc/13.1.263
+   Moody J, 2003, AM SOCIOL REV, V68, P103, DOI 10.2307/3088904
+   Newman ME., 2006, STRUCTURE DYNAMICS N
+   Newman MEJ, 2000, J STAT PHYS, V101, P819, DOI 10.1023/A:1026485807148
+   Newman MEJ, 1999, PHYS REV E, V60, P7332, DOI 10.1103/PhysRevE.60.7332
+   POPIELARZ PA, 1995, AM J SOCIOL, V101, P698, DOI 10.1086/230757
+   Reagans R, 2005, MANAGE SCI, V51, P1374, DOI 10.1287/mnsc.1050.0389
+   Reagans R, 2004, ADMIN SCI QUART, V49, P101
+   Ridgeway CL, 1997, SOC PSYCHOL QUART, V60, P14, DOI 10.2307/2787009
+   Rogers E. M., 1995, DIFFUSION INNOVATION
+   SAMPSON RJ, 1984, SOC FORCES, V62, P618, DOI 10.2307/2578703
+   Schelling T., 1978, MICROMOTIVES MACROBE
+   SHEPARD RN, 1987, SCIENCE, V237, P1317, DOI 10.1126/science.3629243
+   SHRUM W, 1988, SOCIOL EDUC, V61, P227, DOI 10.2307/2112441
+   Simmel G., 1950, SOCIOLOGY G SIMMEL
+   Simmel Georg., 1955, Conflict and the Web of Group-Affiliations
+   SKVORETZ J, 1983, AM SOCIOL REV, V48, P360, DOI 10.2307/2095228
+   Tenebaum JB, 2001, BEHAV BRAIN SCI, V24, P629, DOI 10.1017/S0140525X01000061
+   TRAVERS J, 1969, SOCIOMETRY, V32, P425, DOI 10.2307/2786545
+   VERBRUGGE LM, 1977, SOC FORCES, V62, P78, DOI DOI 10.2307/2578348
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Watts DJ, 2002, P NATL ACAD SCI USA, V99, P5766, DOI 10.1073/pnas.082090499
+   Watts DJ, 2002, SCIENCE, V296, P1302, DOI 10.1126/science.1070120
+   Watts Duncan J., 1999, Small Worlds: The Dynamics of Networks between Order and Randomness
+NR 71
+TC 123
+Z9 156
+U1 3
+U2 92
+PU UNIV CHICAGO PRESS
+PI CHICAGO
+PA 1427 E 60TH ST, CHICAGO, IL 60637-2954 USA
+SN 0002-9602
+EI 1537-5390
+J9 AM J SOCIOL
+JI Am. J. Sociol.
+PD MAR
+PY 2015
+VL 120
+IS 5
+BP 1295
+EP 1338
+DI 10.1086/681275
+PG 44
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA CJ2XN
+UT WOS:000355348100001
+PM 26421341
+OA Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Di Stefano, A
+   Scatà, M
+   La Corte, A
+   Liò, P
+   Catania, E
+   Guardo, E
+   Pagano, S
+AF Di Stefano, Alessandro
+   Scata, Marialisa
+   La Corte, Aurelio
+   Lio, Pietro
+   Catania, Emanuele
+   Guardo, Ermanno
+   Pagano, Salvatore
+TI Quantifying the Role of Homophily in Human Cooperation Using Multiplex
+   Evolutionary Game Theory
+SO PLOS ONE
+LA English
+DT Article
+ID PRISONERS-DILEMMA; BEHAVIOR; NETWORKS; EMERGENCE; DYNAMICS
+AB Nature shows as human beings live and grow inside social structures. This assumption allows us to explain and explore how it may shape most of our behaviours and choices, and why we are not just blindly driven by instincts: our decisions are based on more complex cognitive reasons, based on our connectedness on different spaces. Thus, human cooperation emerges from this complex nature of social network. Our paper, focusing on the evolutionary dynamics, is intended to explore how and why it happens, and what kind of impact is caused by homophily among people. We investigate the evolution of human cooperation using evolutionary game theory on multiplex. Multiplexity, as an extra dimension of analysis, allows us to unveil the hidden dynamics and observe non-trivial patterns within a population across network layers. More importantly, we find a striking role of homophily, as the higher the homophily between individuals, the quicker is the convergence towards cooperation in the social dilemma. The simulation results, conducted both macroscopically and microscopically across the network layers in the multiplex, show quantitatively the role of homophily in human cooperation.
+C1 [Di Stefano, Alessandro; Scata, Marialisa; La Corte, Aurelio; Catania, Emanuele; Guardo, Ermanno; Pagano, Salvatore] Univ Catania, DIEEI, Catania, Italy.
+   [Lio, Pietro] Univ Cambridge, Comp Lab, Cambridge CB2 3QG, England.
+C3 University of Catania; University of Cambridge
+RP Di Stefano, A (corresponding author), Univ Catania, DIEEI, Catania, Italy.
+EM alessandro.distefano@dieei.unict.it
+RI La Corte, Aurelio/H-4519-2017; P. Lió, Pietro/AAV-3358-2021; Elena,
+   Guardo/L-7256-2017; SCATÀ, Marialisa/AAM-4892-2020
+OI LaCorte, Aurelio/0000-0003-0370-7717; Lio, Pietro/0000-0002-0540-5053;
+   DI STEFANO, Alessandro/0000-0003-4905-3309; SCATA,
+   Marialisa/0000-0002-4785-0067
+FU Italian Ministry of University and Research (MIUR-"Programma Operativo
+   Nazionale Ricerca AMP; Competitivita") [PON04a2 E, PON04a2 C]
+FX This work was supported by the following Research Grants: Italian
+   Ministry of University and Research (MIUR-"Programma Operativo Nazionale
+   Ricerca & Competitivita 2007-2013" within the projects "PON04a2 E" and
+   "PON04a2 C") (www.ponrec.it/en/).
+CR Aggarwal CC, 2011, SOCIAL NETWORK DATA ANALYTICS, P1
+   [Anonymous], 2014, ARXIV14112893
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Bashan A, 2013, NAT PHYS, V9, P667, DOI 10.1038/NPHYS2727
+   Battiston F, 2014, PHYS REV E, V89, DOI 10.1103/PhysRevE.89.032804
+   Bianconi G, 2015, PHYS REV E, V91, DOI 10.1103/PhysRevE.91.012804
+   Boccaletti S, 2014, PHYS REP, V544, P1, DOI 10.1016/j.physrep.2014.07.001
+   Bonacich P, 2001, SOC NETWORKS, V23, P191, DOI 10.1016/S0378-8733(01)00038-7
+   Buldyrev SV, 2010, NATURE, V464, P1025, DOI 10.1038/nature08932
+   Cardillo A, 2014, PHYS REV E, V90, DOI 10.1103/PhysRevE.90.052825
+   Centola D, 2007, J CONFLICT RESOLUT, V51, P905, DOI 10.1177/0022002707307632
+   Centola DM, 2013, RATION SOC, V25, P3, DOI 10.1177/1043463112473734
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   Christakis NA, 2013, STAT MED, V32, P556, DOI 10.1002/sim.5408
+   Cozzo E, 2013, PHYS REV E, V88, DOI 10.1103/PhysRevE.88.050801
+   De Domenico M, 2013, PHYS REV X, V3, DOI 10.1103/PhysRevX.3.041022
+   Dickison M, 2012, PHYS REV E, V85, DOI 10.1103/PhysRevE.85.066109
+   Doebeli M, 2005, ECOL LETT, V8, P748, DOI 10.1111/j.1461-0248.2005.00773.x
+   Easley D., 2010, NETWORKS CROWDS MARK
+   Estrada E, 2014, PHYS REV E, V89, DOI 10.1103/PhysRevE.89.042819
+   Fletcher JA, 2009, P ROY SOC B-BIOL SCI, V276, P13, DOI 10.1098/rspb.2008.0829
+   Fowler JH, 2010, P NATL ACAD SCI USA, V107, P5334, DOI 10.1073/pnas.0913149107
+   Fu F, 2012, SCI REP-UK, V2, DOI 10.1038/srep00845
+   Gao J, 2011, PHYS REV LETT, V107, DOI 10.1103/PhysRevLett.107.092002
+   Gómez-Gardeñes J, 2012, SCI REP-UK, V2, DOI 10.1038/srep00620
+   González-Bailón S, 2013, AM BEHAV SCI, V57, P943, DOI 10.1177/0002764213479371
+   GRANOVETTER M, 1978, AM J SOCIOL, V83, P1420, DOI 10.1086/226707
+   HANNAN MT, 1977, AM J SOCIOL, V82, P929, DOI 10.1086/226424
+   Hofbauer J, 2003, B AM MATH SOC, V40, P479, DOI 10.1090/S0273-0979-03-00988-1
+   Huang KK, 2015, CHAOS SOLITON FRACT, V80, P90, DOI 10.1016/j.chaos.2015.06.016
+   Huang KK, 2015, APPL MATH COMPUT, V266, P501, DOI 10.1016/j.amc.2015.05.065
+   Huang KK, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0120317
+   Jin Q, 2014, SCI REP-UK, V4, DOI 10.1038/srep04095
+   Kivela M, 2014, J COMPLEX NETW, V2, P203, DOI 10.1093/comnet/cnu016
+   Marwell G, 1993, The critical mass in collective action
+   Matamalas JT, 2015, SCI REP-UK, V5, DOI 10.1038/srep13511
+   Maynard Smith J., 1982, pi
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Meng XK, 2015, PHYS LETT A, V379, P767, DOI 10.1016/j.physleta.2014.12.051
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   NOWAK MA, 1992, NATURE, V359, P826, DOI 10.1038/359826a0
+   Nowak MA, 2006, SCIENCE, V314, P1560, DOI 10.1126/science.1133755
+   Pennisi E, 2005, SCIENCE, V309, P93, DOI 10.1126/science.309.5731.93
+   Pennisi E, 2009, SCIENCE, V325, P1196, DOI 10.1126/science.325_1196
+   Perc M, 2013, CHAOS SOLITON FRACT, V56, P1, DOI 10.1016/j.chaos.2013.06.002
+   Perc M, 2013, J R SOC INTERFACE, V10, DOI 10.1098/rsif.2012.0997
+   Perc M, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0015117
+   Perc M, 2010, BIOSYSTEMS, V99, P109, DOI 10.1016/j.biosystems.2009.10.003
+   Podolny JM, 1996, AM J SOCIOL, V102, P659, DOI 10.1086/230994
+   Poncela J, 2008, PLOS ONE, V3, DOI 10.1371/journal.pone.0002449
+   Porter ME., 1980, COMPETITIVE STRATEGY
+   Press WH, 2012, P NATL ACAD SCI USA, V109, P10409, DOI 10.1073/pnas.1206569109
+   Rand DG, 2013, TRENDS COGN SCI, V17, P413, DOI 10.1016/j.tics.2013.06.003
+   Roca CP, 2009, PHYS LIFE REV, V6, P208, DOI 10.1016/j.plrev.2009.08.001
+   Santos FC, 2005, PHYS REV LETT, V95, DOI 10.1103/PhysRevLett.95.098104
+   Santos MD, 2014, SCI REP-UK, V4, DOI 10.1038/srep04436
+   Sanz J, 2014, PHYS REV X, V4, DOI 10.1103/PhysRevX.4.041005
+   Sigmund K., 1998, EVOLUTIONARY GAMES P, DOI DOI 10.1017/CBO9781139173179
+   Steglich C, 2010, SOCIOL METHODOL, V40, P329, DOI 10.1111/j.1467-9531.2010.01225.x
+   Szabo G, 1998, PHYS REV E, V58, P69, DOI 10.1103/PhysRevE.58.69
+   Szabó G, 2007, PHYS REP, V446, P97, DOI 10.1016/j.physrep.2007.04.004
+   Tsvetkova M, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0087275
+   TVERSKY A, 1977, PSYCHOL REV, V84, P327, DOI 10.1037/h0026750
+   Vespignani A, 2009, SCIENCE, V325, P425, DOI 10.1126/science.1171990
+   Wang Z, 2015, PHYS LIFE REV, V15, P1, DOI 10.1016/j.plrev.2015.07.006
+   Wang Z, 2015, EUR PHYS J B, V88, DOI 10.1140/epjb/e2015-60270-7
+   Wasserman S., 1994, SOCIAL NETWORK ANAL
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Wilson DS, 1997, AM NAT, V149, P336, DOI 10.1086/285993
+   Xia CY, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0129542
+   Xia CY, 2015, EPL-EUROPHYS LETT, V109, DOI 10.1209/0295-5075/109/58002
+NR 71
+TC 27
+Z9 31
+U1 0
+U2 32
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD OCT 23
+PY 2015
+VL 10
+IS 10
+AR e0140646
+DI 10.1371/journal.pone.0140646
+PG 21
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA CU1VG
+UT WOS:000363309200026
+PM 26496351
+OA Green Published, Green Submitted, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Vidmer, A
+   Medo, M
+   Zhang, YC
+AF Vidmer, Alexandre
+   Medo, Matus
+   Zhang, Yi-Cheng
+TI Unbiased metrics of friends' influence in multi-level networks
+SO EPJ DATA SCIENCE
+LA English
+DT Article
+DE social influence; multi-level network; social metrics; friendship
+   network
+ID COMPLEX; DIFFUSION; CONTAGION; MODEL
+AB The spreading of information is of crucial importance for the modern information society. While we still receive information from mass media and other non-personalized sources, online social networks and influence of friends have become important personalized sources of information. This calls for metrics to measure the influence of users on the behavior of their friends. We demonstrate that the currently existing metrics of friends' influence are biased by the presence of highly popular items in the data, and as a result can lead to an illusion of friends influence where there is none. We correct for this bias and develop three metrics that allow to distinguish the influence of friends from the effects of item popularity, and apply the metrics on real datasets. We use a simple network model based on the influence of friends and preferential attachment to illustrate the performance of our metrics at different levels of friends' influence.
+C1 [Vidmer, Alexandre; Medo, Matus; Zhang, Yi-Cheng] Univ Fribourg, Dept Phys, CH-1700 Fribourg, Switzerland.
+C3 University of Fribourg
+RP Vidmer, A (corresponding author), Univ Fribourg, Dept Phys, Chemin Musee 3, CH-1700 Fribourg, Switzerland.
+EM alexandre.vidmer@unifr.ch
+RI Medo, Matus/J-6660-2019; Zhang, yicheng/HNC-5513-2023
+OI Medo, Matus/0000-0001-8865-9085
+FU Swiss National Science Foundation [200020-143272]; EU FET [611272];
+   Swiss National Science Foundation (SNF) [200020_143272] Funding Source:
+   Swiss National Science Foundation (SNF)
+FX This work was supported by the Swiss National Science Foundation Grant
+   No. 200020-143272 and by the EU FET-Open Grant No. 611272 (project
+   Growthcom). We would like to thank Manuel Mariani for his careful
+   proofreading of the manuscript.
+CR Adamic L.A., 2006, P 7 ACM C EL COMM, P228, DOI [10.1145/1232722.1232727, 10.1145/1232722.1232727.15]
+   Adamic LA, 2000, SCIENCE, V287, DOI 10.1126/science.287.5461.2115a
+   [Anonymous], 2009, Proceedings of the 18th international conference on World Wide Web (WWW)
+   [Anonymous], 2008, Proceedings of the 15th ACM SIGKDD international conference on Knowledge discovery and data mining, DOI [10.1145/1401890.1401897, DOI 10.1145/1401890.1401897]
+   Aral S, 2009, P NATL ACAD SCI USA, V106, P21544, DOI 10.1073/pnas.0908800106
+   Backstrom L., 2006, P 12 ACM SIGKDD INT, P44, DOI [10.1145/1150402.1150412, DOI 10.1145/1150402.1150412]
+   Bakshy E., 2011, P 4 ACM INT C WEB SE, P65, DOI DOI 10.1145/1935826.1935845
+   Bakshy E, 2009, 10TH ACM CONFERENCE ON ELECTRONIC COMMERCE - EC 2009, P325
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   BASS FM, 1969, MANAGE SCI, V15, P215, DOI 10.1287/mnsc.15.5.215
+   Cha M., 2010, ICWSM, V10, P10, DOI DOI 10.1609/ICWSM.V4I1.14033
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Crandall DavidJ., 2008, KDD, P160, DOI 10.1145/1401890.1401914
+   Domingos Pedro, 2001, P 7 ACM SIGKDD INT C, P57, DOI [DOI 10.1145/502512.502525, 10.1145/502512.502525]
+   Goldenberg J, 2001, MARKET LETT, V12, P211, DOI 10.1023/A:1011122126881
+   GomezRodriguez M, 2013, P 6 ACM INT C WEB SE, P23, DOI DOI 10.1145/2433396.2433402
+   Goyal A., 2010, P 3 ACM INT C WEB SE, P241
+   GRANOVETTER M, 1978, AM J SOCIOL, V83, P1420, DOI 10.1086/226707
+   Hodas NO, 2014, SCI REP-UK, V4, DOI 10.1038/srep04343
+   Hogg T, 2012, EPJ DATA SCI, V1, DOI 10.1140/epjds5
+   Jeong H, 2000, NATURE, V407, P651, DOI 10.1038/35036627
+   Katona Z, 2011, J MARKETING RES, V48, P425, DOI 10.1509/jmkr.48.3.425
+   Kermack WO, 1927, P R SOC LOND A-CONTA, V115, P700, DOI 10.1098/rspa.1927.0118
+   Kitsak M, 2010, NAT PHYS, V6, P888, DOI [10.1038/NPHYS1746, 10.1038/nphys1746]
+   Medo M, 2014, PHYS REV E, V89, DOI 10.1103/PhysRevE.89.032801
+   Medo M, 2011, PHYS REV LETT, V107, DOI 10.1103/PhysRevLett.107.238701
+   Morone F, 2015, NATURE, V524, P65, DOI 10.1038/nature14604
+   Myers S. A., 2012, Proceedings of the 18th ACM SIGKDD international conference on Knowledge discovery and data mining, P33
+   Newman MEJ, 2009, EPL-EUROPHYS LETT, V86, DOI 10.1209/0295-5075/86/68001
+   Newman MEJ, 2001, P NATL ACAD SCI USA, V98, P404, DOI 10.1073/pnas.021544898
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   Newman MEJ, 2001, PHYS REV E, V64, DOI [10.1103/PhysRevE.64.016132, 10.1103/PhysRevE.64.016131]
+   Palovics Robert, 2013, 2013 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), P486
+   Radicchi F, 2015, NAT PHYS, V11, P597, DOI 10.1038/NPHYS3374
+   Romero D.M., 2011, Proceedings of the 20th international conference on World wide web, P695, DOI DOI 10.1145/1963405.1963503
+   Shalizi CR, 2011, SOCIOL METHOD RES, V40, P211, DOI 10.1177/0049124111404820
+   Tardos, 2003, P 9 ACM SIGKDD INT C, P137, DOI 10.1145/956750.956769
+   Ver Steeg G, 2011, 5 INT AAAI C WEBL SO
+   Watts DJ, 2002, P NATL ACAD SCI USA, V99, P5766, DOI 10.1073/pnas.082090499
+   Yang J, 2010, 2010 IEEE INTERNATIONAL CONFERENCE ON WIRELESS COMMUNICATIONS, NETWORKING AND INFORMATION SECURITY (WCNIS), VOL 2, P593, DOI 10.1109/ICCSIT.2010.5564008
+   Yelp Inc, 2014, YELPS AC DAT
+   Zheleva E, 2009, KDD-09: 15TH ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P1007
+NR 42
+TC 3
+Z9 4
+U1 1
+U2 16
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+EI 2193-1127
+J9 EPJ DATA SCI
+JI EPJ Data Sci.
+PD DEC
+PY 2015
+VL 4
+IS 1
+AR 20
+DI 10.1140/epjds/s13688-015-0057-x
+PG 13
+WC Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Mathematical Methods In Social Sciences
+GA DA8QE
+UT WOS:000368069900020
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Qin, XJ
+   Cunningham, P
+   Salter-Townshend, M
+AF Qin, Xiangju
+   Cunningham, Padraig
+   Salter-Townshend, Michael
+TI The influence of network structures of Wikipedia discussion pages on the
+   efficiency of WikiProjects
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Network social capital; Effectiveness; Wikipedia; Community governance;
+   Longitudinal study; Leadership
+ID SOCIAL NETWORKS; COLLABORATION NETWORKS; CREATIVITY
+AB As a platform for discussion and communication, talk pages play an essential role in Wikipedia to facilitate coordination, sharing of information and knowledge resources among Wikipedians. In this work we explore the influence of network structures of these pages on the efficiency of WikiProjects. Project efficiency is measured as the amount of work done by project members in a quarter. The study uses the comments on WikiProject talk pages to construct communication networks. The structural properties of these networks are studied using ideas from social network theory. We develop three hypotheses about how network structures influence project effectiveness and examine the hypotheses using a longitudinal dataset of 362 WikiProjects. The evaluation suggests that an intermediate level of cohesion with a core of influential users dominating network flow improves effectiveness for a WikiProject, and that greater average membership tenure relates to project efficiency in a positive way. We discuss the implications of this analysis for the future management of WikiProjects. (C) 2015 Elsevier B.V. All rights reserved.
+C1 [Qin, Xiangju; Cunningham, Padraig] Univ Coll Dublin, Sch Comp Sci & Informat, Dublin 4, Ireland.
+   [Salter-Townshend, Michael] Univ Oxford, Dept Stat, Oxford OX1 3TG, England.
+C3 University College Dublin; University of Oxford
+RP Cunningham, P (corresponding author), Univ Coll Dublin, Sch Comp Sci & Informat, Dublin 4, Ireland.
+EM padraig.cunningham@ucd.ie
+RI Salter-Townshend, Michael/S-9350-2019
+OI Salter-Townshend, Michael/0000-0001-6232-9109; Cunningham,
+   Padraig/0000-0002-3499-0810
+FU Science Foundation Ireland [08/SRC/I1407]; University College Dublin and
+   China Scholarship Council (UCD-CSC); Science Foundation Ireland (SFI)
+   [08/SRC/I1407] Funding Source: Science Foundation Ireland (SFI)
+FX This work was supported by Science Foundation Ireland under Grant No.
+   08/SRC/I1407 (Clique: Graph and Network Analysis Cluster). Xiangju Qin
+   is funded by University College Dublin and China Scholarship Council
+   (UCD-CSC Joint Scholarship 2011). The authors would like to thank the
+   Associate Editor and the anonymous reviewers for their constructive and
+   insightful suggestions and comments that substantially improved the
+   initial version of the paper.
+CR Ahuja G, 2000, ADMIN SCI QUART, V45, P425, DOI 10.2307/2667105
+   [Anonymous], 2015, LINGUISTIC INQUIRY W
+   [Anonymous], HDRCDE HIGHEST DENSI
+   [Anonymous], P 7 PYTH SCI C SCIPY
+   [Anonymous], 2007, P 16 INT C WORLD WID, DOI DOI 10.1145/1242572.1242608
+   [Anonymous], 2009, P INT AAAI C WEBLOG, DOI DOI 10.1609/ICWSM.V3I1.13937
+   [Anonymous], 2012, LME4 LINEAR MIXED EF
+   [Anonymous], 2005, 1 MONDAY
+   [Anonymous], 1992, Structural holes
+   [Anonymous], P 6 INT S WIK OP COL
+   Benkler Y., 2006, WEALTH NETWORKS SOCI
+   Bryk A. S., 1992, HIERARCHICAL LINEAR
+   Burt RS, 1997, SOC NETWORKS, V19, P355, DOI 10.1016/S0378-8733(97)00003-8
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   Cummings JN, 2003, SOC NETWORKS, V25, P197, DOI 10.1016/S0378-8733(02)00049-7
+   Danescu-Niculescu-Mizil C., 2012, Proceedings of the 21st International Conference on WWW, WWW '12, P699
+   Fleming L, 2007, ORGAN SCI, V18, P938, DOI 10.1287/orsc.1070.0289
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   Gelman A, 2007, DATA ANAL USING REGR
+   Gulati R, 1999, STRATEGIC MANAGE J, V20, P397, DOI 10.1002/(SICI)1097-0266(199905)20:5<397::AID-SMJ35>3.3.CO;2-B
+   Gulati R, 1999, AM J SOCIOL, V104, P1439, DOI 10.1086/210179
+   HAUSMAN J, 1984, ECONOMETRICA, V52, P909, DOI 10.2307/1911191
+   Hyndman RJ, 1996, AM STAT, V50, P120, DOI 10.2307/2684423
+   Kidane Y. H., 2007, Computational & Mathematical Organization Theory, V13, P17, DOI 10.1007/s10588-006-9006-3
+   Kittur A, 2008, CSCW: 2008 ACM CONFERENCE ON COMPUTER SUPPORTED COOPERATIVE WORK, CONFERENCE PROCEEDINGS, P37
+   Lazer D, 2007, ADMIN SCI QUART, V52, P667, DOI 10.2189/asqu.52.4.667
+   Lorenz MO, 1905, J AM STAT ASSOC, V9, P209
+   Nemoto Keiichi., 2011, Proceedings of the 22nd ACM Conference on Hypertext and hypermedia, P231
+   Newman MEJ, 2005, SOC NETWORKS, V27, P39, DOI 10.1016/j.socnet.2004.11.009
+   Ng TWH, 2010, J MANAGE, V36, P1220, DOI 10.1177/0149206309359809
+   Portes A, 1998, ANNU REV SOCIOL, V24, P1, DOI 10.1146/annurev.soc.24.1.1
+   Raats M. M., 1992, Food Quality and Preference, V3, P89, DOI 10.1016/0950-3293(91)90028-D
+   Reagans R, 2001, ORGAN SCI, V12, P502, DOI 10.1287/orsc.12.4.502.10637
+   Schilling MA, 2007, MANAGE SCI, V53, P1113, DOI 10.1287/mnsc.1060.0624
+   Singh PV, 2010, ACM T SOFTW ENG METH, V20, DOI 10.1145/1824760.1824763
+   Uzzi B, 2005, AM J SOCIOL, V111, P447, DOI 10.1086/432782
+   van Rossum G., 2009, PYTHON LANGUAGE REFE
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   YAMAGUCHI K, 1994, SOC NETWORKS, V16, P57, DOI 10.1016/0378-8733(94)90011-6
+   Zhou J, 2009, J APPL PSYCHOL, V94, P1544, DOI 10.1037/a0016285
+   Zhu H., 2012, P ACM 2012 C COMPUTE, P407, DOI DOI 10.1145/2145204.2145269
+   Zhu HY, 2011, 29TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, P3431
+   Zuur Alain F., 2009, P1
+NR 43
+TC 11
+Z9 16
+U1 0
+U2 52
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD OCT
+PY 2015
+VL 43
+BP 1
+EP 15
+DI 10.1016/j.socnet.2015.04.002
+PG 15
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA CN7PL
+UT WOS:000358626400001
+OA Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Windzio, M
+AF Windzio, Michael
+TI Immigrant children and their parents: Is there an intergenerational
+   interdependence of integration into social networks?
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Integration; Immigrants; Instrumental variables; Birthday parties;
+   Exponential random graph model
+ID P-ASTERISK MODELS; ETHNIC BOUNDARIES; FRIENDSHIP
+AB The paper investigates the integration of immigrant children and their parents in different dimensions of social networks - referred to as multiplexity in social network terminology. These dimensions are children's friendships, their attendance at birthday parties, and contact among their parents. By attending birthday parties, children's friendships are publicly reinforced and membership in a social circle is signified. During these events, communication and social exchange drive the process of social integration at the micro-level, and ethnic boundaries can be shifted or blurred. It will be shown that a variety of homophily effects can be found in all three network dimensions. In addition, ethnic segregation in parents' networks has an impact on children's participation in these events and, thereby, on children's integration in social networks. However, the causal effect in the other way around - children's birthday party attendance on contact among their parents - is even stronger. A new approach is the non-recursive analysis of how ties in one network dimension effect ties in another dimension. Analyses are based on 76 social networks of 1266 children in school classes in the city state of Bremen, Germany. (c) 2014 Elsevier B.V. All rights reserved.
+C1 Univ Bremen, EMPAS, D-28334 Bremen, Germany.
+C3 University of Bremen
+RP Windzio, M (corresponding author), Univ Bremen, EMPAS, POB 330 440, D-28334 Bremen, Germany.
+EM mwindzio@empas.uni-bremen.de
+OI Windzio, Michael/0000-0002-7681-5893
+CR Alba Richardy., 2003, REMAKING AM MAINSTRE
+   Allison PD, 2010, HANDBOOK OF SURVEY RESEARCH, 2ND EDITION, P631
+   Allport GW., 1954, NATURE PREJUDICE
+   Angrist JD, 2009, MOSTLY HARMLESS ECONOMETRICS: AN EMPIRICISTS COMPANION, P1
+   [Anonymous], 2006, Immigrant America: A Portrait
+   [Anonymous], 2009, SPSS, DOI DOI 10.1787/9789264056275-EN
+   Baerveldt C, 2004, SOC NETWORKS, V26, P55, DOI 10.1016/j.socnet.2004.01.003
+   BLAU PM, 1992, EXCHANGE POWER SOCIA
+   Boehnke K, 2007, J MARRIAGE FAM, V69, P778, DOI 10.1111/j.1741-3737.2007.00405.x
+   Bourdieu Pierre., 1984, DISTINCTION SOCIAL C, DOI DOI 10.1002/9780470755679.CH15
+   Cameron A.C., 2005, Methods Applications
+   Cameron AC., 2009, MICROECONOMETRICS US
+   Ceylan Rauf., 2006, Ethnische Kolonien: Entstehung, Funktion und Wandel am Beispiel turkischer Moscheen und Cafes
+   Clarke Alison J., 2007, Horiz. antropol., V13, P263, DOI 10.1590/S0104-71832007000200011
+   Coleman J.S., 1994, FDN SOCIAL THEORY
+   Crouch B., 1997, PRACTICAL GUIDE FITT
+   Feld S., 1998, Placing friendship in context, P136
+   FELD SL, 1981, AM J SOCIOL, V86, P1015, DOI 10.1086/227352
+   Gangl M, 2010, ANNU REV SOCIOL, V36, P21, DOI 10.1146/annurev.soc.012809.102702
+   GRASMICK HG, 1993, J RES CRIME DELINQ, V30, P5, DOI 10.1177/0022427893030001002
+   Greene W. H., 1993, ECONOMETRIC ANAL
+   Haug S, 2003, KOLNER Z SOZIOL SOZ, V55, P716, DOI 10.1007/s11577-003-0118-1
+   HOMANS GC, 1958, AM J SOCIOL, V63, P597, DOI 10.1086/222355
+   Huiberts A, 2006, ETHNIC RACIAL STUD, V29, P315, DOI 10.1080/01419870500465553
+   Killen M., 2011, CHILDREN SOCIAL EXCL
+   Kwak K, 2003, HUM DEV, V46, P115, DOI 10.1159/000068581
+   Long J. Scott., 1997, Regression Models for Categorical and Limited Dependent Variables
+   Luhmann Niklas., 2002, THEORIES DISTINCTION, P113
+   Lusher Dean., 2013, Exponential Random Graph Models for Social Networks, P16, DOI DOI 10.1017/CBO9780511894701.004
+   Mauss Marcel., 1990, Die Gabe
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mouw T, 2006, AM J SOCIOL, V112, P394, DOI 10.1086/506415
+   Munniksma A, 2012, INT J INTERCULT REL, V36, P575, DOI 10.1016/j.ijintrel.2011.12.012
+   Paxton Pamela., 2011, NONRECURSIVE MODELS
+   Quillian L, 2003, AM SOCIOL REV, V68, P540, DOI 10.2307/1519738
+   Robins G., 2009, PNET PROGRAM SIMULAT
+   Robins G, 2007, SOC NETWORKS, V29, P192, DOI 10.1016/j.socnet.2006.08.003
+   Robins G, 2007, SOC NETWORKS, V29, P173, DOI 10.1016/j.socnet.2006.08.002
+   Rogers WilliamsH., 1993, Stata Technical Bulletin, V13, P19
+   Sirota R., 2001, Childhood in Europe: Approaches, trends, findings, P117
+   SIROTA R, 1998, ETHNOLOGIE FRANCAISE, V28, P457
+   Snijders TAB, 2010, SOC NETWORKS, V32, P44, DOI 10.1016/j.socnet.2009.02.004
+   van Tubergen F, 2005, AM J SOCIOL, V110, P1412, DOI 10.1086/428931
+   Vermeij L, 2009, SOC NETWORKS, V31, P230, DOI 10.1016/j.socnet.2009.06.002
+   Wang P., 2013, EXPONENTIAL RANDOM G, P115
+   Wimmer A, 2008, AM J SOCIOL, V113, P970, DOI 10.1086/522803
+   Windzio M, 2012, SOCIOLOGY, V46, P258, DOI 10.1177/0038038511419182
+   Wooldridge JM, 2010, ECONOMETRIC ANALYSIS OF CROSS SECTION AND PANEL DATA, 2ND EDITION, P3
+   Zhou M, 1997, INT MIGR REV, V31, P975, DOI 10.2307/2547421
+NR 49
+TC 26
+Z9 29
+U1 1
+U2 34
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JAN
+PY 2015
+VL 40
+BP 197
+EP 206
+DI 10.1016/j.socnet.2014.11.002
+PG 10
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA AY5AI
+UT WOS:000347585500019
+DA 2024-11-22
+ER

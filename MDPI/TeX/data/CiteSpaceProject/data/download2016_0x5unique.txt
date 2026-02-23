@@ -1,0 +1,494 @@
+
+PT J
+AU Li, D
+   Zhang, YC
+   Xu, ZM
+   Chu, DH
+   Li, S
+AF Li, Dong
+   Zhang, Yongchao
+   Xu, Zhiming
+   Chu, Dianhui
+   Li, Sheng
+TI Exploiting Information Diffusion Feature for Link Prediction in Sina
+   Weibo
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+AB The rapid development of online social networks (e. g., Twitter and Facebook) has promoted research related to social networks in which link prediction is a key problem. Although numerous attempts have been made for link prediction based on network structure, node attribute and so on, few of the current studies have considered the impact of information diffusion on link creation and prediction. This paper mainly addresses Sina Weibo, which is the largest microblog platform with Chinese characteristics, and proposes the hypothesis that information diffusion influences link creation and verifies the hypothesis based on real data analysis. We also detect an important feature from the information diffusion process, which is used to promote link prediction performance. Finally, the experimental results on Sina Weibo dataset have demonstrated the effectiveness of our methods.
+C1 [Li, Dong; Zhang, Yongchao; Xu, Zhiming; Li, Sheng] Harbin Inst Technol, Sch Comp Sci & Technol, Harbin 150006, Heilongjiang, Peoples R China.
+   [Li, Dong; Chu, Dianhui] Harbin Inst Technol Weihai, Sch Comp Sci & Technol, Weihai, Shandong, Peoples R China.
+C3 Harbin Institute of Technology; Harbin Institute of Technology
+RP Chu, DH (corresponding author), Harbin Inst Technol Weihai, Sch Comp Sci & Technol, Weihai, Shandong, Peoples R China.
+EM chudianhui@vip.sina.com
+RI xu, zhiming/KGL-2113-2024
+FU Natural Science Foundation of China [61173074]; major science and
+   technology project of Shandong Province [2015ZDXX0201B02]
+FX This work is supported by the Natural Science Foundation of China (No.
+   61173074) and the major science and technology project of Shandong
+   Province (No. 2015ZDXX0201B02).
+CR AlHasan M., 2006, SDM 06 WORKSH LINK A, P19104
+   [Anonymous], 2010, P 19 INT C WORLD WID
+   [Anonymous], 2011, P 20 ACM INT C INFOR, DOI DOI 10.1145/2063576.2063743
+   Antoniades D, 2014, 10TH INTERNATIONAL CONFERENCE ON SIGNAL-IMAGE TECHNOLOGY AND INTERNET-BASED SYSTEMS SITIS 2014, P361, DOI 10.1109/SITIS.2014.68
+   Backstrom L., 2011, P 4 ACM INT C WEB SE, P635, DOI DOI 10.1145/1935826.1935914
+   Bliss CA, 2014, J COMPUT SCI-NETH, V5, P750, DOI 10.1016/j.jocs.2014.01.003
+   Brzozowski M., 2011, P 5 INT AAAI C WEBL, P57
+   Chen SM, 2013, FLUCT NOISE LETT, V12, DOI 10.1142/S021947751350017X
+   Clauset A, 2008, NATURE, V453, P98, DOI 10.1038/nature06830
+   Dong EM, 2014, J APPL MATH, DOI 10.1155/2014/786156
+   Ermis B, 2015, DATA MIN KNOWL DISC, V29, P203, DOI 10.1007/s10618-013-0341-y
+   Farajtabar M, 2015, WWW'15 COMPANION: PROCEEDINGS OF THE 24TH INTERNATIONAL CONFERENCE ON WORLD WIDE WEB, P619, DOI 10.1145/2740908.2744105
+   Gomez RodriguezM., 2012, Proceedings of the 21st ACM international conference on Information and knowledge management, P2447
+   Leskovec J., 2010, P 19 INT C WORLD WID, P641, DOI [10.1145/1772690.1772756, DOI 10.1145/1772690.1772756]
+   Liben-Nowell D, 2007, J AM SOC INF SCI TEC, V58, P1019, DOI 10.1002/asi.20591
+   Lichtenwalter J. T., 2010, Proceedings of the 16th ACM SIGKDD international conference on Knowledge discovery and data mining, P243
+   Myers S, 2014, WWW'14: PROCEEDINGS OF THE 23RD INTERNATIONAL CONFERENCE ON WORLD WIDE WEB, P913, DOI 10.1145/2566486.2568043
+   Qi Gao, 2012, User Modeling, Adaptation, and Personalization. Proceedings 20th International Conference, UMAP 2012, P88, DOI 10.1007/978-3-642-31454-4_8
+   Scellato S., 2011, Proceedings of the 17th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, P1046
+   Song HH, 2009, IMC'09: PROCEEDINGS OF THE 2009 ACM SIGCOMM INTERNET MEASUREMENT CONFERENCE, P322
+   Tylenda T., 2009, P 13 INT C KNOWLEDGE, P1, DOI DOI 10.1145/1731011.1731020
+   Wang C., 2006, P 6 IEEE INT C DAT M, P1163
+   Wang C, 2007, IEEE DATA MINING, P322, DOI 10.1109/ICDM.2007.108
+   Wang D., 2011, P 17 ACM SIGKDD INT, P1100, DOI [10.1145/2020408.2020581, DOI 10.1145/2020408.2020581]
+   Weng LL, 2013, 19TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING (KDD'13), P356
+   Xing E. P., 2006, PNAS, V106, P11878
+   Zhu L., 2013, P 6 6 ASE INT C SOC
+NR 27
+TC 25
+Z9 26
+U1 1
+U2 49
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD JAN 28
+PY 2016
+VL 6
+AR 20058
+DI 10.1038/srep20058
+PG 8
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA DB8PP
+UT WOS:000368779200002
+PM 26817436
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Condon, M
+   Lavery, L
+   Engle, PJ
+AF Condon, Meghan
+   Lavery, Lesley
+   Engle, Par Jason
+TI Measuring Social Capital: Accounting for Nested Data and Subnetworks
+   Within Schools
+SO SOCIAL INDICATORS RESEARCH
+LA English
+DT Article
+DE Social capital; Education; Factor analysis; Social networks; Schools
+ID CHILDREN; CLOSURE
+AB Social capital is a central concept in social science research, and it is measured in diverse ways. Few measurement approaches take the network structure of complex institutional settings into account. In this study, using data from a large-scale school-based randomized field trial, we develop several factor analytic models to test the validity and reliability of a new survey battery capturing multiple dimensions of social capital in such settings. We demonstrate that it is important to account for institutional and network structure in social capital measures, and we show how social capital can be operationalized as the shared variance between different relational characteristics in complex settings with multiple subnetworks.
+C1 [Condon, Meghan] Loyola Univ, Chicago, IL 60611 USA.
+   [Lavery, Lesley] Macalester Coll, St Paul, MN 55105 USA.
+   [Engle, Par Jason] Univ Wisconsin, Madison, WI USA.
+C3 Loyola University Chicago; Macalester College; University of Wisconsin
+   System; University of Wisconsin Madison
+RP Condon, M (corresponding author), Loyola Univ, Chicago, IL 60611 USA.
+EM mcondon1@luc.edu
+FU Institute of Education Sciences, U.S. Department of Education
+   [R305C050055]; National Institute of Child Health and Human Development
+   [1R01HD051762-01A2]
+FX The research reported here was supported by the Institute of Education
+   Sciences, U.S. Department of Education, through Award # R305C050055 to
+   the University of Wisconsin-Madison. The larger project was supported by
+   the National Institute of Child Health and Human Development (Grant
+   Number 1R01HD051762-01A2). Findings and conclusions are those of the
+   authors and do not necessarily represent the views of the supporting
+   agencies. We wish to thank Adam Gamoran, Ruth Lopez Turley, Lynn
+   McDonald, and Carmen Valdez for access to the project data and comments.
+   We also wish to thank Jackie Roessler, Vansa Shewakramani Hanson, the
+   FAST project staff, members of the Interdisciplinary Training Program in
+   the Education Sciences at The University of Wisconsin-Madison, and an
+   anonymous reviewer for assistance and comments.
+CR [Anonymous], 2001, BOWLING ALONE BOWLIN
+   [Anonymous], 2008, SOCIAL CAPITAL INT R
+   Bronfenbrenner U., 2002, INFANT FAMILY 21 CEN, P45
+   Bryk A.S., 2002, TRUST SCH
+   Burt RS, 2000, RES ORGAN BEHAV, V22, P345, DOI 10.1016/S0191-3085(00)22009-1
+   Burt RS, 1997, ADMIN SCI QUART, V42, P339, DOI 10.2307/2393923
+   Carbonaro WJ, 1998, SOCIOL EDUC, V71, P295, DOI 10.2307/2673172
+   Coleman J.S., 1990, Equality and achievement in education
+   Coleman J.S., 1994, FDN SOCIAL THEORY
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   De Silva MJ, 2007, SOC SCI MED, V64, P5, DOI 10.1016/j.socscimed.2006.08.044
+   De Silva MJ, 2005, J EPIDEMIOL COMMUN H, V59, P619, DOI 10.1136/jech.2004.029678
+   Erickson BH, 1996, AM J SOCIOL, V102, P217, DOI 10.1086/230912
+   Flap H., 2004, CREATION RETURNS SOC, P3
+   Gamoran A, 2012, RES SOC STRAT MOBIL, V30, P97, DOI 10.1016/j.rssm.2011.08.001
+   Goodman R, 1997, J CHILD PSYCHOL PSYC, V38, P581, DOI 10.1111/j.1469-7610.1997.tb01545.x
+   Horvat EM, 2003, AM EDUC RES J, V40, P319, DOI 10.3102/00028312040002319
+   JOHNSTON R, 2001, SOCIAL CAPITAL PARTI
+   Kao G, 2004, SOCIOL EDUC, V77, P172, DOI 10.1177/003804070407700204
+   Kay FM, 2009, SOCIOL INQ, V79, P418, DOI 10.1111/j.1475-682X.2009.00301.x
+   Konstantopoulos S, 2011, TEACH COLL REC, V113, P97
+   Lin N., 2000, Social capital: A theory of structure and action
+   Morgan SL, 1999, AM SOCIOL REV, V64, P661, DOI 10.2307/2657368
+   Morrow V, 1999, SOCIOL REV, V47, P744, DOI 10.1111/1467-954X.00194
+   Offer S, 2007, SOC FORCES, V85, P1125, DOI 10.1353/sof.2007.0049
+   Parcel TL, 2001, J MARRIAGE FAM, V63, P32, DOI 10.1111/j.1741-3737.2001.00032.x
+   Paxton P, 1999, AM J SOCIOL, V105, P88, DOI 10.1086/210268
+   Portes A, 1998, ANNU REV SOCIOL, V24, P1, DOI 10.1146/annurev.soc.24.1.1
+   PUTNAM RD, 1995, PS, V28, P664, DOI 10.2307/420517
+   Sampson RJ, 1999, AM SOCIOL REV, V64, P633, DOI 10.2307/2657367
+   THOMPSON MS, 1989, SOC FORCES, V67, P715
+   Tsuzuki K, 2005, SOCIOL THEOR METHOD, V20, P81
+   Van Der Gaag M, 2005, SOC NETWORKS, V27, P1, DOI 10.1016/j.socnet.2004.10.001
+   Van der Gaag Martin., 2004, Creation and returns of social capital, P199
+   Warren MR, 2009, TEACH COLL REC, V111, P2209
+   White AM, 2007, YOUTH SOC, V39, P75, DOI 10.1177/0044118X06296906
+   Woolcock M, 1998, THEOR SOC, V27, P151, DOI 10.1023/A:1006884930135
+   Ziersch AM, 2005, SOC SCI MED, V60, P71, DOI 10.1016/j.socscimed.2004.04.027
+NR 38
+TC 2
+Z9 7
+U1 2
+U2 33
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0303-8300
+EI 1573-0921
+J9 SOC INDIC RES
+JI Soc. Indic. Res.
+PD APR
+PY 2016
+VL 126
+IS 3
+BP 1189
+EP 1207
+DI 10.1007/s11205-015-0945-2
+PG 19
+WC Social Sciences, Interdisciplinary; Sociology
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics; Sociology
+GA DI6OV
+UT WOS:000373620000014
+DA 2024-11-22
+ER
+
+PT J
+AU Beyerlein, K
+   Bergstrand, K
+AF Beyerlein, Kraig
+   Bergstrand, Kelly
+TI It takes two: A dyadic model of recruitment to civic activity
+SO SOCIAL SCIENCE RESEARCH
+LA English
+DT Article
+DE Differential recruitment; Social networks; Civic engagement; Dyads
+ID SOCIAL NETWORKS; MULTILEVEL ANALYSIS; NONRESPONSE RATES; UNITED-STATES;
+   PARTICIPATION; PROTEST; EXPERIENCE; DIFFUSION; MOVEMENT; INTERNET
+AB Why are some people, but not others, asked to engage in civic activity? Rather than focus on the personal traits of either potential recruits or recruiters for this initial stage of recruitment, we develop and test a theoretical framework that emphasizes the importance of shared relationships and characteristics between those doing the recruiting and those being recruited. Specifically, the nature of interactions, overlapping community and associational space, status and value homophily, and strength and intimacy are assessed to explain differential recruitment among people's closest ties. Furthermore, unlike previous studies, we do so across three different forms of civic activity blood donation, volunteer work, and political activism allowing us to identify larger patterns in civic solicitation. Results from multilevel analyses of dyads reorganized from ego-centric data of U.S. adults show that while certain personal traits of egos and alters remain significant, attributes of the dyad are equally, if not more, consequential for explaining variation in who gets asked to participate in civic activity. Importantly, while certain dyadic characteristics such as romantic partnerships promote recruitment to all three forms of civic activity, the effects of others such as sex homophily are unique to specific forms. Broadly speaking, our results indicate that some types of dyadic characteristics are more powerful than others and that there are important differences in how particular dimensions of social connections shape recruitment efforts across the specific activities of donating blood, volunteering time, and engaging in political activism. (C) 2016 Elsevier Inc. All rights reserved.
+C1 [Beyerlein, Kraig] Univ Notre Dame, Dept Sociol, Notre Dame, IN 46556 USA.
+   [Bergstrand, Kelly] Univ Texas Arlington, Dept Sociol, Arlington, TX 76019 USA.
+C3 University of Notre Dame; University of Texas System; University of
+   Texas Arlington
+RP Beyerlein, K (corresponding author), Univ Notre Dame, Dept Sociol, Notre Dame, IN 46556 USA.
+EM kbeyerl1@nd.edu
+FU Science of Generosity
+FX For helpful comments on previous drafts, we thank participants in the
+   Studies in Politics and Movements workshop at the University of Notre
+   Dame. Laura Hunter provided excellent guidance on statistical modeling
+   issues. A grant from the Science of Generosity supported the collection
+   of data used in this paper. Direct correspondence to the first author at
+   the Department of Sociology, 817 Flanner Hall, University of Notre Dame,
+   Notre Dame, IN, 46556 (email: kbeyerl1@nd.edu).
+CR [Anonymous], 1995, VOICE EQUALITY
+   Beyerlein K, 2003, J SCI STUD RELIG, V42, P229, DOI 10.1111/1468-5906.00175
+   Brady HE, 1999, AM POLIT SCI REV, V93, P153, DOI 10.2307/2585767
+   Bryant W.K., 2003, J CONSUM POLICY, V26, P42, DOI [10.1023/A:1022626529603, DOI 10.1023/A:1022626529603]
+   Callegaro M, 2008, PUBLIC OPIN QUART, V72, P1008, DOI 10.1093/poq/nfn065
+   Chang L, 2009, PUBLIC OPIN QUART, V73, P641, DOI 10.1093/poq/nfp075
+   Luken VD, 2010, SOC NETWORKS, V32, P253, DOI 10.1016/j.socnet.2010.03.002
+   Dennis J.Michael., 2010, Summary of KnowledgePanel Design
+   Drake A.W., 1982, AM BLOOD SUPPLY
+   Einwohner RL, 1999, GENDER SOC, V13, P56, DOI 10.1177/089124399013001004
+   FELD SL, 1981, AM J SOCIOL, V86, P1015, DOI 10.1086/227352
+   Gould R.V., 2003, SOCIAL MOVEMENTS NET, P233, DOI DOI 10.1093/0199251789.003.0010
+   Groves RM, 2008, PUBLIC OPIN QUART, V72, P167, DOI 10.1093/poq/nfn011
+   Groves RM, 2006, PUBLIC OPIN QUART, V70, P646, DOI 10.1093/poq/nfl033
+   Huckfeldt R., 1995, Citizens, politics, and social communication: Information and influence in an election campaign
+   Jasper J.M., 1997, ART MORAL PROTEST
+   Klofstad CA, 2007, POLIT RES QUART, V60, P180, DOI 10.1177/1065912907301708
+   KNOKE D, 1990, SOC FORCES, V68, P1041, DOI 10.2307/2579133
+   Kuumba Bahati., 2001, Gender and Social Movements
+   Lazarsfeld P.F., 1954, Freedom and Control in Modern Society, P18, DOI DOI 10.1111/J.1467-8705.2012.02056_3.X
+   Lee LC, 1999, SOC PSYCHOL QUART, V62, P276, DOI 10.2307/2695864
+   Lim C, 2008, SOC FORCES, V87, P961
+   MCADAM D, 1986, AM J SOCIOL, V92, P64, DOI 10.1086/228463
+   MCADAM D, 1992, AM J SOCIOL, V97, P1211, DOI 10.1086/229900
+   MCADAM D, 1993, AM J SOCIOL, V99, P640, DOI 10.1086/230319
+   MCPHERSON JM, 1987, AM SOCIOL REV, V52, P370, DOI 10.2307/2095356
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Musick MA, 2000, SOC FORCES, V78, P1539, DOI 10.2307/3006184
+   Musick MarcA., 2008, VOLUNTEERS
+   OLZAK S, 1983, ANNU REV SOCIOL, V9, P355, DOI 10.1146/annurev.so.09.080183.002035
+   Paik A, 2011, NONPROF VOLUNT SEC Q, V40, P476, DOI 10.1177/0899764009354647
+   Pallares Amalia., 2010, Marcha!: Latino Chicago and the Immigrant Rights Movement
+   Rotolo T, 2006, J MARRIAGE FAM, V68, P305, DOI 10.1111/j.1741-3737.2006.00254.x
+   Sampson RJ, 2005, AM J SOCIOL, V111, P673, DOI 10.1086/497351
+   Schussman A, 2005, SOC FORCES, V84, P1083, DOI 10.1353/sof.2006.0034
+   SNOW DA, 1980, AM SOCIOL REV, V45, P787, DOI 10.2307/2094895
+   Sojka BN, 2008, VOX SANG, V94, P56, DOI 10.1111/j.1423-0410.2007.00990.x
+   Soule SA, 1997, SOC FORCES, V75, P855, DOI 10.2307/2580522
+   Stoll MA, 2001, SOCIOL FORUM, V16, P529, DOI 10.1023/A:1011956632018
+   van Duijn MAJ, 1999, SOC NETWORKS, V21, P187, DOI 10.1016/S0378-8733(99)00009-X
+   Walgrave S, 2014, AM J SOCIOL, V119, P1670, DOI 10.1086/676853
+   WELLMAN B, 1979, AM J SOCIOL, V84, P1201, DOI 10.1086/226906
+   Wellman B., 1992, ADV GROUP PROCESSES, V9, P207, DOI DOI 10.1111/j.1549-0831.2011.00060.x
+   Wilson J, 2000, ANNU REV SOCIOL, V26, P215, DOI 10.1146/annurev.soc.26.1.215
+   Yeager DS, 2011, PUBLIC OPIN QUART, V75, P709, DOI 10.1093/poq/nfr020
+NR 45
+TC 8
+Z9 10
+U1 1
+U2 25
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0049-089X
+EI 1096-0317
+J9 SOC SCI RES
+JI Soc. Sci. Res.
+PD NOV
+PY 2016
+VL 60
+BP 163
+EP 180
+DI 10.1016/j.ssresearch.2016.07.008
+PG 18
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA DY4FK
+UT WOS:000385054200013
+PM 27712677
+DA 2024-11-22
+ER
+
+PT J
+AU Leonardo, JB
+AF Leonardo, Jennifer Braga
+TI Beyond Assimilation: Contributions of Sociodemographic Factors and
+   Social Supports to Disparities in Depressive Symptoms Between Immigrant
+   and Native Adolescents
+SO YOUTH & SOCIETY
+LA English
+DT Article
+DE acculturation; depression; health; immigration; parent support; peer
+   support; stress
+ID AMERICAN COLLEGE-STUDENTS; MENTAL-HEALTH; SEGMENTED ASSIMILATION;
+   PSYCHOLOGICAL ADJUSTMENT; ACCULTURATIVE STRESS; LIFETIME PREVALENCE;
+   PROTECTIVE FACTORS; ETHNIC-IDENTITY; DAILY HASSLES; 2ND-GENERATION
+AB This study investigated the contribution of assimilation, sociodemographic factors, and social supports to depressive symptoms in immigrant adolescents, using Waves I and II of the National Longitudinal Study of Adolescent Health (N = 4,263). Immigrant adolescents reported more risk factors and higher levels of depressive symptoms than native peers. However, generational status ceased to be a correlate of depressive symptoms when sociodemographic variables were controlled. Findings challenge assimilation theories premised on the assumption that immigrants face unique migration-related challenges. Immigrant adolescents are vulnerable due to greater likelihood of increased age, a racial/ethnic minority status, and lower socioeconomic status. They are also at a comparative disadvantage for social supports. Stress and supports were identified as mediators with unique relationships to sociodemographic factors. Assimilation theory, social network theory, and an ecological perspective informed the study.
+C1 [Leonardo, Jennifer Braga] Boston Coll, Grad Sch Social Work, McGuinn Hall,140 Commonwealth Ave, Chestnut Hill, MA 02467 USA.
+C3 Boston College
+RP Leonardo, JB (corresponding author), Boston Coll, Grad Sch Social Work, McGuinn Hall,140 Commonwealth Ave, Chestnut Hill, MA 02467 USA.
+EM jbraga@post.harvard.edu
+RI Leonardo, Jennifer/HTP-6465-2023
+CR Adkins DE, 2009, SOC FORCES, V88, P31, DOI 10.1353/sof.0.0238
+   Alba R, 1997, INT MIGR REV, V31, P826, DOI 10.2307/2547416
+   Alba R, 2011, SOC FORCES, V89, P763
+   [Anonymous], 2001, Social capital: theory and research
+   BARON RM, 1986, J PERS SOC PSYCHOL, V51, P1173, DOI 10.1037/0022-3514.51.6.1173
+   Berkman LF, 2000, SOC SCI MED, V51, P843, DOI 10.1016/S0277-9536(00)00065-4
+   Berry JW, 2006, APPL PSYCHOL-INT REV, V55, P303, DOI 10.1111/j.1464-0597.2006.00256.x
+   BERRY JW, 1987, INT MIGR REV, V21, P491, DOI 10.2307/2546607
+   Birman D, 2007, CULT DIVERS ETHN MIN, V13, P337, DOI 10.1037/1099-9809.13.4.337
+   Brausch AM, 2010, J YOUTH ADOLESCENCE, V39, P233, DOI 10.1007/s10964-009-9482-0
+   Bronfenbrenner U, 1994, INT ENCY ED, V2, P1643, DOI [10.5281/zenodo.5651995, DOI 10.1111/J.1467-9507.1994.TB00025.X]
+   BURNAM MA, 1987, J HEALTH SOC BEHAV, V28, P89, DOI 10.2307/2137143
+   Chantala K., 1999, STRATEGIES PERFORM D
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   Costello DM, 2008, J CONSULT CLIN PSYCH, V76, P173, DOI 10.1037/0022-006X.76.2.173
+   Crockett LJ, 2007, CULT DIVERS ETHN MIN, V13, P347, DOI 10.1037/1099-9809.13.4.347
+   Domínguez S, 2010, HEALTH SOCIOL REV, V19, P114, DOI 10.5172/hesr.2010.19.1.114
+   Fergusson DM, 2002, ARCH GEN PSYCHIAT, V59, P225, DOI 10.1001/archpsyc.59.3.225
+   Fletcher AC, 2001, MERRILL PALMER QUART, V47, P500, DOI 10.1353/mpq.2001.0021
+   Fortuny Karina., 2009, CHILDREN IMMIGRANTS
+   GANS HJ, 1992, ETHNIC RACIAL STUD, V15, P173, DOI 10.1080/01419870.1992.9993740
+   Gaudet S, 2005, INT J PSYCHOL, V40, P157, DOI 10.1080/00207590444000267
+   Greenman E, 2008, SOC SCI RES, V37, P109, DOI 10.1016/j.ssresearch.2007.07.003
+   Gryn T.A., 2010, Nativity Status and Citizenship in the United States, 2009
+   Haller W, 2011, SOC FORCES, V89, P733, DOI 10.1353/sof.2011.0003
+   Harker K, 2001, SOC FORCES, V79, P969, DOI 10.1353/sof.2001.0010
+   Nguyen H, 2011, J YOUTH ADOLESCENCE, V40, P1544, DOI 10.1007/s10964-011-9636-8
+   HOUSE JS, 1988, SCIENCE, V241, P540, DOI 10.1037/0003-066X.59.8.676
+   Hovey Joseph D, 2002, Cultur Divers Ethnic Minor Psychol, V8, P274, DOI 10.1037/1099-9809.8.3.274
+   Hunter AG, 2012, YOUTH SOC, V44, P450, DOI 10.1177/0044118X12451798
+   Jackson Benita, 2011, Race Soc Probl, V3, P119
+   Kovacev L, 2004, INT J BEHAV DEV, V28, P259, DOI 10.1080/01650250344000497
+   Lam Robert E., 1997, Clinical Gerontologist, V17, P57, DOI 10.1300/J018v17n04_06
+   Lee Young-Me, 2012, Issues Ment Health Nurs, V33, P52, DOI 10.3109/01612840.2011.618965
+   MASSEY DS, 1995, POPUL DEV REV, V21, P631, DOI 10.2307/2137753
+   Meadows SO, 2007, SOC FORCES, V85, P1143, DOI 10.1353/sof.2007.0048
+   Merikangas KR, 2010, J AM ACAD CHILD PSY, V49, P980, DOI 10.1016/j.jaac.2010.05.017
+   Morgan SL, 2009, SOCIOL EDUC, V82, P267, DOI 10.1177/003804070908200304
+   Mueller CE, 2009, GIFTED CHILD QUART, V53, P3, DOI 10.1177/0016986208326552
+   NGUYEN L, 1993, J SOC PSYCHOL, V133, P65, DOI 10.1080/00224545.1993.9712119
+   Oppedal B, 2004, SCAND J PSYCHOL, V45, P131, DOI 10.1111/j.1467-9450.2004.00388.x
+   Perez RM, 2011, J FAM SOC WORK, V14, P429, DOI 10.1080/10522158.2011.617030
+   Perreira KM, 2005, SOC FORCES, V83, P1567, DOI 10.1353/sof.2005.0077
+   PORTES A, 1993, ANN AM ACAD POLIT SS, V530, P74, DOI 10.1177/0002716293530001006
+   Portes A, 2011, FUTURE CHILD, V21, P219
+   Potochnick SR, 2010, J NERV MENT DIS, V198, P470, DOI 10.1097/NMD.0b013e3181e4ce24
+   RADLOFF L S, 1977, Applied Psychological Measurement, V1, P385, DOI 10.1177/014662167700100306
+   Reardon-Anderson J., 2002, HLTH WELL BEING CH B, V52
+   Rosenberg M, 1979, CONCEIVING SELF
+   RUMBAUT RG, 1994, INT MIGR REV, V28, P748, DOI 10.2307/2547157
+   Rumbaut Ruben G., 2001, ETHNICITIES CHILDREN
+   Sabatier C, 2008, EUR J DEV PSYCHOL, V5, P159, DOI 10.1080/17405620701608739
+   Schraedley PK, 1999, J ADOLESCENT HEALTH, V25, P98, DOI 10.1016/S1054-139X(99)00038-5
+   Shen BJ, 2001, AM J COMMUN PSYCHOL, V29, P387, DOI 10.1023/A:1010338413293
+   Stefanek E, 2012, ANXIETY STRESS COPIN, V25, P201, DOI 10.1080/10615806.2011.605879
+   Testa CR, 2010, SUICIDE LIFE-THREAT, V40, P298, DOI 10.1521/suli.2010.40.3.298
+   Urban Institute, 2006, CHILDR IMM FACTS FIG
+   Van Voorhees BW, 2008, J ADOLESCENT HEALTH, V42, P605, DOI 10.1016/j.jadohealth.2007.11.135
+   VanderVoort DJ, 2002, CURR PSYCHOL, V21, P50, DOI 10.1007/BF02903159
+   Walsh SD, 2010, SOC SCI MED, V70, P976, DOI 10.1016/j.socscimed.2009.12.010
+   Widaman K.F., 2006, MONOGR SOC RES CHILD, V71, P42
+   Xie Y, 2011, SOC SCI RES, V40, P965, DOI 10.1016/j.ssresearch.2011.01.004
+   Xu QW, 2010, J IMMIGR REFUG STUD, V8, P91, DOI 10.1080/15562940903379142
+   Ying YW, 2008, YOUTH SOC, V40, P289, DOI 10.1177/0044118X08315506
+   Zhang W, 2009, SOC SCI MED, V68, P2104, DOI 10.1016/j.socscimed.2009.04.012
+   Zhou M, 1997, ANNU REV SOCIOL, V23, P63, DOI 10.1146/annurev.soc.23.1.63
+   Zhou M, 1997, INT MIGR REV, V31, P975, DOI 10.2307/2547421
+NR 67
+TC 4
+Z9 10
+U1 1
+U2 30
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0044-118X
+EI 1552-8499
+J9 YOUTH SOC
+JI Youth Soc.
+PD NOV
+PY 2016
+VL 48
+IS 6
+BP 834
+EP 855
+DI 10.1177/0044118X13520560
+PG 22
+WC Social Issues; Social Sciences, Interdisciplinary; Sociology
+WE Social Science Citation Index (SSCI)
+SC Social Issues; Social Sciences - Other Topics; Sociology
+GA EJ4SX
+UT WOS:000393208300005
+DA 2024-11-22
+ER
+
+PT J
+AU De Jaegher, K
+AF De Jaegher, Kris
+TI Endogenous thresholds and assurance networks in collective action
+SO RATIONALITY AND SOCIETY
+LA English
+DT Article
+DE Assurance; core-periphery assurance networks; endogenous thresholds;
+   Stag Hunt
+ID CRITICAL MASS; INFORMATIONAL CASCADES; EVOLUTIONARY APPROACH; ECONOMIC
+   NETWORKS; SOCIAL NETWORKS; EQUILIBRIUM; GAMES; NASH; COMMUNICATION;
+   COORDINATION
+AB This article treats a multi-player Stag Hunt where each player may have a different threshold (the number of other players that need to act along with the player for benefits of collective action to arise). Players are modeled as solving the strategic-uncertainty problem of whether or not to act, by assuring each other of their willingness to act. We show that in equilibrium there may, but need not, be homophily (players with the same thresholds seek assurance from each other) or a threshold-based social hierarchy (players with high thresholds, or conservatives, seek assurance from players with low thresholds, or radicals, but not vice versa). Put otherwise, a new strategic-uncertainty problem arises, namely, the problem of who should seek assurance from whom. We propose that players solve this problem by forming core-periphery assurance networks, with a number of players equal to the largest threshold in the core, and the remaining players in the periphery.
+C1 [De Jaegher, Kris] Univ Utrecht, Sch Econ, Kriekenpitpl 21-22, NL-3584 EC Utrecht, Netherlands.
+C3 Utrecht University
+RP De Jaegher, K (corresponding author), Univ Utrecht, Sch Econ, Kriekenpitpl 21-22, NL-3584 EC Utrecht, Netherlands.
+EM k.dejaegher@uu.nl
+CR [Anonymous], GOING EXTREMES LIKE
+   [Anonymous], 2010, SOCIAL EC NETWORKS
+   AUMANN R, 1995, ECONOMETRICA, V63, P1161, DOI 10.2307/2171725
+   Aumann R., 1959, Annals of Mathematics Studies, V40
+   Bala V, 2000, ECONOMETRICA, V68, P1181, DOI 10.1111/1468-0262.00155
+   Bang-Jensen J, 2009, SPRINGER MONOGR MATH, P1, DOI 10.1007/978-1-84800-998-1_1
+   BERNHEIM BD, 1987, J ECON THEORY, V42, P1, DOI 10.1016/0022-0531(87)90099-8
+   BIKHCHANDANI S, 1992, J POLIT ECON, V100, P992, DOI 10.1086/261849
+   Binmore K, 2001, GAME ECON BEHAV, V35, P6, DOI 10.1006/game.1998.0749
+   Bloch F, 2006, INT J GAME THEORY, V34, P305, DOI 10.1007/s00182-006-0022-9
+   Bramoullé Y, 2007, J ECON THEORY, V135, P478, DOI 10.1016/j.jet.2006.06.006
+   Brandenburger A., 1996, Wise Choices: Games, Decisions, and Negotiations, P221
+   CARLSSON H, 1993, FRONTIERS OF GAME THEORY, P237
+   CARLSSON H, 1993, ECONOMETRICA, V61, P989, DOI 10.2307/2951491
+   Centola DM, 2013, RATION SOC, V25, P3, DOI 10.1177/1043463112473734
+   Chwe MSY, 2000, REV ECON STUD, V67, P1, DOI 10.1111/1467-937X.00118
+   Chwe MSY, 1999, AM J SOCIOL, V105, P128, DOI 10.1086/210269
+   Corbae D, 2008, GAME ECON BEHAV, V64, P81, DOI 10.1016/j.geb.2007.10.008
+   FUDENBERG D, 1991, J ECON THEORY, V53, P236, DOI 10.1016/0022-0531(91)90155-W
+   Goyal S, 2005, GAME ECON BEHAV, V50, P178, DOI 10.1016/j.geb.2004.01.005
+   GRANOVETTER M, 1978, AM J SOCIOL, V83, P1420, DOI 10.1086/226707
+   GRANOVETTER M, 1985, AM J SOCIOL, V91, P481, DOI 10.1086/228311
+   Guth W, 1998, RATION SOC, V10, P377, DOI 10.1177/104346398010003005
+   Guth W., 1994, METROECONOMICA, V45, P155
+   Harsanyi J. C., 1988, GEN THEORY EQUILIBRI, V1
+   Jackson MO, 2005, GAME ECON BEHAV, V51, P420, DOI 10.1016/j.geb.2004.08.004
+   Jackson MO, 1996, J ECON THEORY, V71, P44, DOI 10.1006/jeth.1996.0108
+   Jackson MO, 2002, J ECON THEORY, V106, P265, DOI 10.1006/jeth.2001.2903
+   KIM YG, 1995, ECONOMETRICA, V63, P1181, DOI 10.2307/2171726
+   KREPS DM, 1982, J ECON THEORY, V27, P253, DOI 10.1016/0022-0531(82)90030-8
+   KURAN T, 1988, J ECON BEHAV ORGAN, V10, P143, DOI 10.1016/0167-2681(88)90043-1
+   Kydd A, 2000, RATION SOC, V12, P397, DOI 10.1177/104346300012004003
+   Lazer D, 2001, J MATH SOCIOL, V25, P69, DOI 10.1080/0022250X.2001.9990245
+   LOHMANN S, 1994, WORLD POLIT, V47, P42, DOI 10.2307/2950679
+   MACY MW, 1991, AM SOCIOL REV, V56, P730, DOI 10.2307/2096252
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mengel F, 2012, GAME ECON BEHAV, V74, P601, DOI 10.1016/j.geb.2011.08.020
+   Oliver PE, 2001, SOCIOL THEOR, V19, P292, DOI 10.1111/0735-2751.00142
+   OLIVER PE, 1988, AM SOCIOL REV, V53, P1, DOI 10.2307/2095728
+   Olson M., 1965, The logic of collective action
+   ROBSON AJ, 1990, J THEOR BIOL, V144, P379, DOI 10.1016/S0022-5193(05)80082-7
+   RUNGE CF, 1984, J POLIT, V46, P154, DOI 10.2307/2130438
+   SEN AK, 1967, Q J ECON, V81, P112, DOI 10.2307/1879675
+   Skyrms B., 2004, STAG HUNT EVOLUTION, DOI DOI 10.1017/CBO9781139165228
+   SPENCE M, 1973, Q J ECON, V87, P355, DOI 10.2307/1882010
+   Tucker A.W., 1950, Read. Games Inf., P7
+   Weesie J, 2009, RATION SOC, V21, P249, DOI 10.1177/1043463109103901
+   Yin CC, 1998, PUBLIC CHOICE, V97, P535, DOI 10.1023/A:1004921725560
+NR 48
+TC 0
+Z9 0
+U1 1
+U2 6
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 1043-4631
+EI 1461-7358
+J9 RATION SOC
+JI Ration. Soc.
+PD MAY
+PY 2016
+VL 28
+IS 2
+BP 202
+EP 252
+DI 10.1177/1043463115621523
+PG 51
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA DK1PF
+UT WOS:000374684500003
+OA Green Published
+DA 2024-11-22
+ER

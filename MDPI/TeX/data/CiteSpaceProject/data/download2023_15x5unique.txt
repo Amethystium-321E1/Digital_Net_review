@@ -1,0 +1,605 @@
+
+PT J
+AU Meluso, J
+   Hébert-Dufresne, L
+AF Meluso, John
+   Hebert-Dufresne, Laurent
+TI Multidisciplinary learning through collective performance favors
+   decentralization
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE team performance; problem-solving; social networks; collective
+   intelligence; multidisciplinary teams
+ID NETWORK STRUCTURE; TEAM ADAPTATION; INFORMATION; KNOWLEDGE;
+   INTERDEPENDENCE; INTELLIGENCE; EXPLORATION; EMERGENCE; SYSTEMS; OBJECTS
+AB Many models of learning in teams assume that team members can share solutions or learn concurrently. However, these assumptions break down in multidisciplinary teams where team members often complete distinct, interrelated pieces of larger tasks. Such contexts make it difficult for individuals to separate the performance effects of their own actions from the actions of interacting neighbors. In this work, we show that individuals can overcome this challenge by learning from network neighbors through mediating artifacts (like collective performance assessments). When neighbors' actions influence collective outcomes, teams with different networks perform relatively similarly to one another. However, varying a team's network can affect performance on tasks that weight individuals' contributions by network properties. Consequently, when individuals innovate (through "exploring" searches), dense networks hurt performance slightly by increasing uncertainty. In contrast, dense networks moderately help performance when individuals refine their work (through "exploiting" searches) by efficiently finding local optima. We also find that decentralization improves team performance across a battery of 34 tasks. Our results offer design principles for multidisciplinary teams within which other forms of learning prove more difficult.
+C1 [Meluso, John; Hebert-Dufresne, Laurent] Univ Vermont, Coll Engn & Math Sci, Vermont Complex Syst Ctr, Burlington, VT 05405 USA.
+   [Hebert-Dufresne, Laurent] Univ Vermont, Coll Engn & Math Sci, Dept Comp Sci, Burlington, VT 05405 USA.
+C3 University of Vermont; University of Vermont
+RP Meluso, J (corresponding author), Univ Vermont, Coll Engn & Math Sci, Vermont Complex Syst Ctr, Burlington, VT 05405 USA.
+EM john.meluso@uvm.edu
+OI Meluso, John/0000-0001-8200-8150; Hebert-Dufresne,
+   Laurent/0000-0002-0008-3673
+FU Google Open Source under the Open Source Complex Ecosystems And Networks
+   project; Sloan Foundation through the Vermont Research Open Source
+   Program Office; NSF [EPS-2019470]
+FX Our sincere thanks to James Bagrow for his time and thoughts,
+   particularly his suggestions to include the rook's graph and the empty
+   graph as a baseline. Special thanks to Mirta Galesic and the reviewers
+   for manuscript feedback. Thanks also go to Jean-Gabriel Young, Melania
+   Lavric, Kendall Fortney, Babak Heydari, and the many others who
+   supported us on this work. J.M. and L.H.-D. are supported by Google Open
+   Source under the Open Source Complex Ecosystems And Networks project and
+   by the Sloan Foundation through the Vermont Research Open Source Program
+   Office. L.H.-D. is also supported by the NSF award EPS-2019470.
+CR Ahuja G, 2000, ADMIN SCI QUART, V45, P425, DOI 10.2307/2667105
+   ALCHIAN AA, 1972, AM ECON REV, V62, P777
+   Almaatouq A, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2101062118
+   Almaatouq A, 2020, P NATL ACAD SCI USA, V117, P11379, DOI 10.1073/pnas.1917687117
+   Amelkin V, 2018, PLOS ONE, V13, DOI 10.1371/journal.pone.0204547
+   Baard SK, 2014, J MANAGE, V40, P48, DOI 10.1177/0149206313488210
+   Bachrach DG, 2019, J APPL PSYCHOL, V104, P464, DOI 10.1037/apl0000329
+   Bandura A, 2002, APPL PSYCHOL-INT REV, V51, P269, DOI 10.1111/1464-0597.00092
+   BANDURA A, 1989, AM PSYCHOL, V44, P1175, DOI 10.1037/0003-066X.44.9.1175
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barkoczi D, 2016, NAT COMMUN, V7, DOI 10.1038/ncomms13109
+   Barley WC, 2015, ORGAN SCI, V26, P1612, DOI 10.1287/orsc.2015.1012
+   Barlow JB, 2016, J MANAGE INFORM SYST, V33, P684, DOI 10.1080/07421222.2016.1243944
+   Becker J, 2017, P NATL ACAD SCI USA, V114, pE5070, DOI 10.1073/pnas.1615978114
+   Bernstein E, 2018, P NATL ACAD SCI USA, V115, P8734, DOI 10.1073/pnas.1802407115
+   BOUCHARD TJ, 1970, J APPL PSYCHOL, V54, P51, DOI 10.1037/h0028621
+   Brackbill D, 2020, PLOS ONE, V15, DOI 10.1371/journal.pone.0237978
+   Breiman L, 2001, MACH LEARN, V45, P5, DOI 10.1023/A:1010933404324
+   Burke CS, 2006, J APPL PSYCHOL, V91, P1189, DOI 10.1037/0021-9010.91.6.1189
+   Carlile PR, 2002, ORGAN SCI, V13, P442, DOI 10.1287/orsc.13.4.442.2953
+   Christian JS, 2017, ORGAN BEHAV HUM DEC, V140, P62, DOI 10.1016/j.obhdp.2017.01.003
+   Clarence L., 1985, Kelly: More than My Share of It All, P142
+   Clement J, 2018, MANAGE SCI, V64, P3879, DOI 10.1287/mnsc.2017.2807
+   Cronin MA, 2007, ACAD MANAGE REV, V32, P761, DOI 10.5465/AMR.2007.25275511
+   De Vincenzo I, 2017, PHYS REV E, V96, DOI 10.1103/PhysRevE.96.022309
+   Derex M, 2016, P NATL ACAD SCI USA, V113, P2982, DOI 10.1073/pnas.1518798113
+   Edmondson AC, 2018, HUM RESOUR MANAGE R, V28, P347, DOI 10.1016/j.hrmr.2017.03.002
+   Engel D, 2015, CHI 2015: PROCEEDINGS OF THE 33RD ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, P3769, DOI 10.1145/2702123.2702259
+   Engel D, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0115212
+   Fang C, 2010, ORGAN SCI, V21, P625, DOI 10.1287/orsc.1090.0468
+   Faraj S, 2000, MANAGE SCI, V46, P1554, DOI 10.1287/mnsc.46.12.1554.12072
+   GALLUPE RB, 1992, ACAD MANAGE J, V35, P350, DOI 10.5465/256377
+   Graf-Drasch V, 2022, PERS PSYCHOL, V75, P739, DOI 10.1111/peps.12489
+   Gregoire M.B., 2016, Foodservice organizations: a managerial and systems approach
+   GRUSEC JE, 1992, DEV PSYCHOL, V28, P776, DOI 10.1037/0012-1649.28.5.776
+   Guillo D, 2020, HUM SOC SCI COMMUN, V7, DOI 10.1057/s41599-020-0515-3
+   Gupta A. K., 2006, Academy of Management Journal, V49, P693, DOI 10.2307/20159793
+   Helfat CE, 2011, STRATEGIC MANAGE J, V32, P1243, DOI 10.1002/smj.955
+   Henrie CR, 2015, COMPUT EDUC, V90, P36, DOI 10.1016/j.compedu.2015.09.005
+   Hong L, 2001, J ECON THEORY, V97, P123, DOI 10.1006/jeth.2000.2709
+   Hong L, 2012, MANAG DECIS ECON, V33, P323, DOI 10.1002/mde.2560
+   Jackson DE, 2006, CURR BIOL, V16, pR570, DOI 10.1016/j.cub.2006.07.015
+   Kendal RL, 2018, TRENDS COGN SCI, V22, P651, DOI 10.1016/j.tics.2018.04.003
+   Kerr NL, 2004, ANNU REV PSYCHOL, V55, P623, DOI 10.1146/annurev.psych.55.090902.142009
+   KIGGUNDU MN, 1983, ORGAN BEHAV HUM PERF, V31, P145, DOI 10.1016/0030-5073(83)90118-6
+   Kittur A, 2009, CHI2009: PROCEEDINGS OF THE 27TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, VOLS 1-4, P1495
+   Kocak Ö, 2023, ORGAN SCI, V34, P851, DOI 10.1287/orsc.2022.1601
+   Kotlarsky J, 2015, COMMUN RES, V42, P319, DOI 10.1177/0093650212469402
+   Kozulin A., 2003, VYGOTSKYS ED THEORY, P15, DOI [DOI 10.1017/CBO9780511840975, 10.1017/CBO9780511840975.003, DOI 10.1017/CBO9780511840975.003]
+   Lamberson PJ, 2012, MANAGE SCI, V58, P805, DOI 10.1287/mnsc.1110.1441
+   Lazer D, 2007, ADMIN SCI QUART, V52, P667, DOI 10.2189/asqu.52.4.667
+   Levina N, 2005, MIS QUART, V29, P335
+   Levinthal DA, 1997, MANAGE SCI, V43, P934, DOI 10.1287/mnsc.43.7.934
+   Lewis K, 2005, ORGAN SCI, V16, P581, DOI 10.1287/orsc.1050.0143
+   Lewis K, 2011, ORGAN SCI, V22, P1254, DOI 10.1287/orsc.1110.0647
+   Lorenz J, 2011, P NATL ACAD SCI USA, V108, P9020, DOI 10.1073/pnas.1008636108
+   Majchrzak A, 2012, ORGAN SCI, V23, P951, DOI 10.1287/orsc.1110.0677
+   March JG, 1991, ORGAN SCI, V2, P71, DOI 10.1287/orsc.2.1.71
+   Mason W, 2012, P NATL ACAD SCI USA, V109, P764, DOI 10.1073/pnas.1110069108
+   Mason WA, 2008, J EXP PSYCHOL GEN, V137, P422, DOI 10.1037/a0012798
+   Mattarelli E, 2022, ORGAN SCI, V33, P1423, DOI 10.1287/orsc.2021.1487
+   Matusik JG, 2022, ACAD MANAGE J, V65, P1571, DOI 10.5465/amj.2020.0369
+   McGrath JosephEdward., 1984, GROUPS INTERACTION P, Vvol. 14
+   McHugh KA, 2016, LEADERSHIP QUART, V27, P218, DOI 10.1016/j.leaqua.2016.01.001
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mell JN, 2014, ACAD MANAGE J, V57, P1154, DOI 10.5465/amj.2012.0589
+   Meluso J., Open Science Framework, DOI [10.17605/OSF.IO/KYVTD, DOI 10.17605/OSF.IO/KYVTD]
+   Meluso J, 2022, IEEE T SYST MAN CY-S, V52, P7679, DOI 10.1109/TSMC.2022.3163019
+   Miu E, 2020, SCI ADV, V6, DOI 10.1126/sciadv.aaz0286
+   MULLEN B, 1991, BASIC APPL SOC PSYCH, V12, P3, DOI 10.1207/s15324834basp1201_1
+   National Research Counci, 2014, Convergence: Facilitating Transdisciplinary Integration of Life Sciences, Physical Sciences, Engineering, and Beyond, DOI 10.4324/9780203114261
+   Newman M., 2010, NETWORKS INTRO
+   Nicolini D, 2012, ORGAN SCI, V23, P612, DOI 10.1287/orsc.1110.0664
+   Ohgushi T, 2005, ANNU REV ECOL EVOL S, V36, P81, DOI 10.1146/annurev.ecolsys.36.091704.175523
+   Oldham S, 2019, PLOS ONE, V14, DOI 10.1371/journal.pone.0220061
+   Ostrowski B, 2022, SMALL GR RES, V53, P3, DOI 10.1177/10464964211060348
+   Postrel S, 2002, ORGAN SCI, V13, P303, DOI 10.1287/orsc.13.3.303.2773
+   Rambourg P., 2013, Histoire de la Cuisine et de la Gastronomie Francaises, V1A
+   Riedl C, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2005737118
+   Rivkin JW, 2007, MANAGE SCI, V53, P1068, DOI 10.1287/mnsc.1060.0626
+   Rulke DL, 2000, MANAGE SCI, V46, P612, DOI 10.1287/mnsc.46.5.612.12052
+   SAAVEDRA R, 1993, J APPL PSYCHOL, V78, P61, DOI 10.1037/0021-9010.78.1.61
+   Scott W.R., 2007, Organizations and organizing: Rational, natural and open systems perspectives
+   Shore J, 2015, ORGAN SCI, V26, P1432, DOI 10.1287/orsc.2015.0980
+   Simon HA, 1991, ORGAN SCI, V2, P125, DOI 10.1287/orsc.2.1.125
+   Stasser G, 2003, PSYCHOL INQ, V14, P304, DOI 10.1207/S15327965PLI1403&4_21
+   TAYLOR DW, 1958, ADMIN SCI QUART, V3, P23, DOI 10.2307/2390603
+   Toyokawa W, 2019, NAT HUM BEHAV, V3, P183, DOI 10.1038/s41562-018-0518-x
+   Uribe J, 2022, STRATEGIC MANAGE J, V43, P2577, DOI 10.1002/smj.3433
+   Valentine MA, 2015, ORGAN SCI, V26, P405, DOI 10.1287/orsc.2014.0947
+   Venkataramani V, 2024, ORGAN SCI, V35, DOI 10.1287/orsc.2023.1661
+   WAGEMAN R, 1995, ADMIN SCI QUART, V40, P145, DOI 10.2307/2393703
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Wertz J. R., 2011, Space Mission Engineering?: The New SMAD, P1033
+   Woolley A. W., 2022, Organ. Sci., V34, P987
+   Woolley AW, 2010, SCIENCE, V330, P686, DOI 10.1126/science.1193147
+   WRIGHT S, 1982, ANNU REV GENET, V16, P1, DOI 10.1146/annurev.ge.16.120182.000245
+   Xiao NJ, 2022, P NATL ACAD SCI USA, V119, DOI 10.1073/pnas.2109995119
+   Xie JR, 2022, P NATL ACAD SCI USA, V119, DOI 10.1073/pnas.2100151119
+   Xu FL, 2022, P NATL ACAD SCI USA, V119, DOI 10.1073/pnas.2200927119
+   Yang VC, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2106292118
+NR 101
+TC 0
+Z9 0
+U1 6
+U2 19
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+EI 1091-6490
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD AUG 22
+PY 2023
+VL 120
+IS 34
+AR e2303568120
+DI 10.1073/pnas.2303568120
+PG 11
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA U2YZ4
+UT WOS:001083521500010
+PM 37579171
+OA Green Submitted, hybrid
+DA 2024-11-22
+ER
+
+PT J
+AU Duxbury, SW
+AF Duxbury, Scott W.
+TI The Problem of Scaling in Exponential Random Graph Models
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+DE social network analysis; exponential random graph models; scaling;
+   mediation; moderation
+ID SOCIAL NETWORKS; UNOBSERVED HETEROGENEITY; LOGIT; PROBIT; FAMILY;
+   COEFFICIENTS; REGRESSION; LIMITS; END
+AB This study shows that residual variation can cause problems related to scaling in exponential random graph models (ERGM). Residual variation is likely to exist when there are unmeasured variables in a model-even those uncorrelated with other predictors-or when the logistic form of the model is inappropriate. As a consequence, coefficients cannot be interpreted as effect sizes or compared between models and homophily coefficients, as well as other interaction coefficients, cannot be interpreted as substantive effects in most ERGM applications. We conduct a series of simulations considering the substantive impact of these issues, revealing that realistic levels of residual variation can have large consequences for ERGM inference. A flexible methodological framework is introduced to overcome these problems. Formal tests of mediation and moderation are also proposed. These methods are applied to revisit the relationship between selective mixing and triadic closure in a large AddHealth school friendship network. Extensions to other classes of statistical work models are discussed.
+C1 [Duxbury, Scott W.] Univ N Carolina, Sociol, Chapel Hill, NC 27515 USA.
+C3 University of North Carolina; University of North Carolina Chapel Hill
+RP Duxbury, SW (corresponding author), Univ N Carolina, Dept Sociol, 163 Hamilton Hall,102 Emerson Dr, Chapel Hill, NC 27514 USA.
+EM duxbury@unc.email.edu
+CR Adams J, 2016, J HEALTH SOC BEHAV, V57, P22, DOI 10.1177/0022146515627848
+   Agresti A., 2002, CATEGORICAL DATA ANA, DOI DOI 10.1002/0471249688
+   Ai CR, 2003, ECON LETT, V80, P123, DOI 10.1016/S0165-1765(03)00032-6
+   Allison PD, 1999, SOCIOL METHOD RES, V28, P186, DOI 10.1177/0049124199028002003
+   [Anonymous], 2002, J. Social Struct
+   BESAG J, 1974, J ROY STAT SOC B MET, V36, P192
+   BESAG JE, 1972, J ROY STAT SOC B, V34, P75
+   Bollen K. A., 1990, SOCIOL METHODOL, P115, DOI [10.2307/271084, DOI 10.2307/271084]
+   Box-Steffensmeier JM, 2018, POLIT ANAL, V26, P3, DOI 10.1017/pan.2017.23
+   Breen R, 2013, SOCIOL METHOD RES, V42, P164, DOI 10.1177/0049124113494572
+   Butts CT, 2008, SOCIOL METHODOL, V38, P155, DOI 10.1111/j.1467-9531.2008.00203.x
+   Cramer JS, 2007, OXFORD B ECON STAT, V69, P545, DOI 10.1111/j.1468-0084.2007.00445.x
+   Cranmer SJ, 2017, AM J POLIT SCI, V61, P237, DOI 10.1111/ajps.12263
+   Desmarais BA, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0030136
+   Dumitrescu EI, 2012, ECON MODEL, V29, P1450, DOI 10.1016/j.econmod.2012.02.014
+   Duxbury S., 2019, ergMargins: Process Analysis for Exponential Random Graph Models. R package version 0.1.0
+   Erdos P., 1959, PUBL MATH-DEBRECEN, V6, P290
+   FRANK O, 1986, J AM STAT ASSOC, V81, P832, DOI 10.2307/2289017
+   Gelman A, 2006, AM STAT, V60, P328, DOI 10.1198/000313006X152649
+   GEYER CJ, 1992, J R STAT SOC B, V54, P657
+   Goodreau SM, 2009, DEMOGRAPHY, V46, P103, DOI 10.1353/dem.0.0045
+   Handcock M.S., 2003, 39 U WASH CTR STAT S
+   Hanneke S, 2010, ELECTRON J STAT, V4, P585, DOI 10.1214/09-EJS548
+   HOLLAND PW, 1981, J AM STAT ASSOC, V76, P33, DOI 10.2307/2287037
+   Hosmer D. W., 2000, APPL LOGISTIC REGRES
+   Hunter DR, 2007, SOC NETWORKS, V29, P216, DOI 10.1016/j.socnet.2006.08.005
+   Jeff Wooldridge, 2002, ECONOMETRIC ANAL CRO
+   Karlson KB, 2012, SOCIOL METHODOL, V42, P286, DOI 10.1177/0081175012444861
+   Koskinen Johan., 2013, Exponential Random Graph Models for Social Networks, P77
+   Kreager DA, 2017, AM SOCIOL REV, V82, P685, DOI 10.1177/0003122417710462
+   Krivitsky PN, 2012, ELECTRON J STAT, V6, P1100, DOI 10.1214/12-EJS696
+   Leonardo Justin., 2016, STAT POLITICS POLICY, V7, P29
+   Lewis K, 2013, P NATL ACAD SCI USA, V110, P18814, DOI 10.1073/pnas.1308501110
+   Long JS, 2021, SOCIOL METHOD RES, V50, P1284, DOI 10.1177/0049124118799374
+   Long J. Scott., 1997, Regression Models for Categorical and Limited Dependent Variables
+   Lusher D., 2013, EXPONENTIAL RANDOM G, V35
+   MacKinnon, 2008, INTRO STAT MEDIATION
+   MacKinnon DP, 2007, CLIN TRIALS, V4, P499, DOI 10.1177/1740774507083434
+   Mackinnon David P, 2004, Multivariate Behav Res, V39, P99
+   Mele A, 2017, ECONOMETRICA, V85, P825, DOI 10.3982/ECTA10400
+   Mize TD, 2019, SOCIOL METHODOL, V49, P152, DOI 10.1177/0081175019852763
+   Mood C, 2010, EUR SOCIOL REV, V26, P67, DOI 10.1093/esr/jcp006
+   Newman M., 2010, NETWORKS, DOI [DOI 10.1093/ACPROF:OSO/9780199206650.001.0001, 10.1093/acprof:oso/9780199206650.001.0001]
+   Papachristos AV, 2018, AM J SOCIOL, V124, P517, DOI 10.1086/699217
+   Papachristos AV, 2013, AM SOCIOL REV, V78, P417, DOI 10.1177/0003122413486800
+   Schweinberger M, 2020, BERNOULLI, V26, P1205, DOI 10.3150/19-BEJ1153
+   Schweinberger M, 2015, J R STAT SOC B, V77, P647, DOI 10.1111/rssb.12081
+   Snijders TAB, 2001, SOCIOL METHODOL, V31, P361, DOI 10.1111/0081-1750.00099
+   Snijders TAB, 2006, SOCIOL METHODOL, V36, P99, DOI 10.1111/j.1467-9531.2006.00176.x
+   SOBEL ME, 1987, SOCIOL METHOD RES, V16, P155, DOI 10.1177/0049124187016001006
+   Stewart J, 2019, SOC NETWORKS, V59, P98, DOI 10.1016/j.socnet.2018.11.003
+   Thiemichen S, 2016, SOC NETWORKS, V46, P11, DOI 10.1016/j.socnet.2016.01.002
+   van Duijn MAJ, 2004, STAT NEERL, V58, P234
+   Wasserman S, 1996, PSYCHOMETRIKA, V61, P401, DOI 10.1007/BF02294547
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Weesie J., 1999, Stata Technical Bulletin Reprints, V9, P231
+   Wimmer A, 2010, AM J SOCIOL, V116, P583, DOI 10.1086/653658
+   WINSHIP C, 1983, AM J SOCIOL, V89, P54, DOI 10.1086/227834
+   Young JTN, 2011, J QUANT CRIMINOL, V27, P251, DOI 10.1007/s10940-010-9105-7
+NR 59
+TC 24
+Z9 29
+U1 1
+U2 12
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+EI 1552-8294
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD MAY
+PY 2023
+VL 52
+IS 2
+BP 764
+EP 802
+AR 0049124120986178
+DI 10.1177/0049124120986178
+EA FEB 2021
+PG 39
+WC Social Sciences, Mathematical Methods; Sociology
+WE Social Science Citation Index (SSCI)
+SC Mathematical Methods In Social Sciences; Sociology
+GA H4KZ0
+UT WOS:000624222700001
+DA 2024-11-22
+ER
+
+PT J
+AU Tsai, CL
+   Cheng, MT
+   Hsu, SH
+   Lu, TC
+   Huang, CH
+   Liu, YP
+   Shih, CL
+   Fang, CC
+AF Tsai, Chu-Lin
+   Cheng, Ming-Tai
+   Hsu, Shu-Hsien
+   Lu, Tsung-Chien
+   Huang, Chien-Hua
+   Liu, Yueh-Ping
+   Shih, Chung-Liang
+   Fang, Cheng-Chung
+TI Social network analysis of nationwide interhospital emergency department
+   transfers in Taiwan
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID UNITED-STATES; CARE; REGIONALIZATION; INSURANCE; FUTURE; TIME
+AB Transferring patients between emergency departments (EDs) is a complex but important issue in emergency care regionalization. Social network analysis (SNA) is well-suited to characterize the ED transfer pattern. We aimed to unravel the underlying transfer network structure and to identify key network metrics for monitoring network functions. This was a retrospective cohort study using the National Electronic Referral System (NERS) database in Taiwan. All interhospital ED transfers from 2014 to 2016 were included and transfer characteristics were retrieved. Descriptive statistics and social network analysis were used to analyze the data. There were a total of 218,760 ED transfers during the 3-year study period. In the network analysis, there were a total of 199 EDs with 9516 transfer ties between EDs. The network demonstrated a multiple hub-and-spoke, regionalized pattern, with low global density (0.24), moderate centralization (0.57), and moderately high clustering of EDs (0.63). At the ED level, most transfers were one-way, with low reciprocity (0.21). Sending hospitals had a median of 5 transfer-out partners [interquartile range (IQR) 3-7), while receiving hospitals a median of 2 (IQR 1-6) transfer-in partners. A total of 16 receiving hospitals, all of which were designated base or co-base hospitals, had 15 or more transfer-in partners. Social network analysis of transfer patterns between hospitals confirmed that the network structure largely aligned with the planned regionalized transfer network in Taiwan. Understanding the network metrics helps track the structure and process aspects of regionalized care.
+C1 [Tsai, Chu-Lin; Cheng, Ming-Tai; Hsu, Shu-Hsien; Lu, Tsung-Chien; Huang, Chien-Hua; Liu, Yueh-Ping; Shih, Chung-Liang; Fang, Cheng-Chung] Natl Taiwan Univ Hosp, Dept Emergency Med, 7 Zhongshan S Rd, Taipei 100, Taiwan.
+   [Tsai, Chu-Lin; Lu, Tsung-Chien; Huang, Chien-Hua; Fang, Cheng-Chung] Natl Taiwan Univ, Coll Med, Dept Emergency Med, Taipei, Taiwan.
+   [Liu, Yueh-Ping; Shih, Chung-Liang] Minist Hlth & Welf, Taipei, Taiwan.
+C3 National Taiwan University; National Taiwan University Hospital;
+   National Taiwan University
+RP Fang, CC (corresponding author), Natl Taiwan Univ Hosp, Dept Emergency Med, 7 Zhongshan S Rd, Taipei 100, Taiwan.; Fang, CC (corresponding author), Natl Taiwan Univ, Coll Med, Dept Emergency Med, Taipei, Taiwan.
+EM conrad@ntu.edu.tw
+RI Chen, Chuan-Yu/C-7697-2011
+OI HUANG, CHIEN-HUA/0000-0003-2981-4537; LU,
+   TSUNG-CHIEN/0000-0003-2729-7142; FANG, CHENG-CHUNG/0000-0001-5386-6674;
+   TSAI, CHU-LIN/0000-0003-4639-1513; Hsu, Shu-Hsien/0000-0002-9678-4983
+CR [Anonymous], TAIPEI TIMES
+   [Anonymous], Ministry of Health and Welfare of Taiwan 2020
+   Cairns CB, 2012, ANN EMERG MED, V60, P638, DOI 10.1016/j.annemergmed.2012.05.031
+   Carr BG, 2010, ACAD EMERG MED, V17, P1269, DOI 10.1111/j.1553-2712.2010.00941.x
+   Carr BG, 2010, ACAD EMERG MED, V17, P1354, DOI 10.1111/j.1553-2712.2010.00940.x
+   Chambers D, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0041911
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   Cowen ME, 1998, MED CARE, V36, P1108, DOI 10.1097/00005650-199807000-00016
+   Delgado MK, 2014, JAMA SURG, V149, P422, DOI 10.1001/jamasurg.2013.4398
+   Dy SM, 2005, SOC SCI MED, V61, P1846, DOI 10.1016/j.socscimed.2005.03.037
+   Elrod JK, 2017, BMC HEALTH SERV RES, V17, DOI 10.1186/s12913-017-2341-x
+   Feazel L, 2015, AM J EMERG MED, V33, P1288, DOI 10.1016/j.ajem.2015.05.032
+   Glickman SW, 2012, ANN EMERG MED, V59, P243, DOI 10.1016/j.annemergmed.2011.07.030
+   Glickman SW, 2010, ACAD EMERG MED, V17, P1297, DOI 10.1111/j.1553-2712.2010.00930.x
+   Helbing D, 2015, J STAT PHYS, V158, P735, DOI 10.1007/s10955-014-1024-9
+   Institute of M, 2010, REG EM CAR WORKSH SU
+   Iwashyna TJ, 2009, MED CARE, V47, P787, DOI 10.1097/MLR.0b013e318197b1f5
+   Jusup M, 2022, PHYS REP, V948, P1, DOI 10.1016/j.physrep.2021.10.005
+   Kindermann D., 2006, EMERGENCY DEP TRANSF
+   Kindermann DR, 2015, ACAD EMERG MED, V22, P157, DOI 10.1111/acem.12586
+   Kindermann DR, 2015, ACAD EMERG MED, V22, P166, DOI 10.1111/acem.12589
+   Kindermann DR, 2014, ANN EMERG MED, V63, P561, DOI 10.1016/j.annemergmed.2013.11.019
+   Kohler K, 2020, BMJ OPEN, V10, DOI 10.1136/bmjopen-2019-034265
+   Landon BE, 2012, JAMA-J AM MED ASSOC, V308, P265, DOI 10.1001/jama.2012.7615
+   Lewis VA, 2012, JAMA-J AM MED ASSOC, V308, P294, DOI 10.1001/jama.2012.7476
+   MacKenzie EJ, 2006, NEW ENGL J MED, V354, P366, DOI 10.1056/NEJMsa052049
+   Martinez R, 2013, HEALTH AFFAIR, V32, P2082, DOI 10.1377/hlthaff.2013.0884
+   Medford-Davis LN, 2018, AM J EMERG MED, V36, P797, DOI 10.1016/j.ajem.2017.10.024
+   Nacht J, 2013, ACAD EMERG MED, V20, P888, DOI 10.1111/acem.12209
+   Niyirora J, 2020, HEALTH INFORM J, V26, P1631, DOI 10.1177/1460458219887047
+   Oliveira M, 2012, WIRES DATA MIN KNOWL, V2, P99, DOI 10.1002/widm.1048
+   Park HW, 2020, J MED INTERNET RES, V22, DOI 10.2196/18897
+   Spaite DW, 2006, ANN EMERG MED, V48, P126, DOI 10.1016/j.annemergmed.2006.06.019
+   The Commonwealth Fund, INT HLTH CAR SYST PR
+   The Ministry of Health and Welfare, HLTH CARE UTILIZATIO
+   The Ministry of Health and Welfare, EM DEP CAT
+   Warden GL, 2006, ANN EMERG MED, V48, P115, DOI 10.1016/j.annemergmed.2006.06.015
+   White DB, 2021, NEW ENGL J MED, V385, P2211, DOI 10.1056/NEJMp2114767
+   Xian Y, 2011, JAMA-J AM MED ASSOC, V305, P373, DOI 10.1001/jama.2011.22
+   Zachrison KS, 2019, J STROKE CEREBROVASC, V28, P295, DOI 10.1016/j.jstrokecerebrovasdis.2018.09.048
+NR 40
+TC 0
+Z9 0
+U1 1
+U2 8
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD FEB 9
+PY 2023
+VL 13
+IS 1
+AR 2311
+DI 10.1038/s41598-023-29554-4
+PG 10
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA G3NQ0
+UT WOS:000988268200012
+PM 36759680
+OA gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Dellaposta, D
+AF Dellaposta, Daniel
+TI Bridging the parochial divide: Outsider brokerage in mafia families
+SO SOCIAL SCIENCE RESEARCH
+LA English
+DT Article
+DE Social networks; Organizations; Brokerage; Mafia; Crime
+ID SOCIAL-STRUCTURE; NETWORKS; POWER; ENTREPRENEURS; EMBEDDEDNESS; CLOSURE
+AB How do groups maintain internal solidarity and closure without compromising their access to diverse networks? A long line of previous research suggests focusing on the boundary-spanning activities of "brokers" who bridge gaps in social structure. In many contexts, however, brokers are viewed with suspicion and distrust rather than rewarded for their diversity of interests. This article examines groups in which the theoretical deck is seemingly stacked against brokerage and toward parochialism: American-Italian mafia families. Through an institutional analysis of the mafia organization, I trace how ethnic and organizational closure led marginalized actors to seek alternative paths to enrichment beyond the family-controlled networks and industries. Using a historical network data set, I document a division of network labor in which ethnic outsiders- more than other actors-benefited as bridges between parochial organizations. This illuminates a broader paradox of social organization: while social closure is typically thought important because it increases the group's power over individual members and reinforces boundaries, it can also undermine those same boundaries by pushing marginal actors to seek opportunities and connections outside the group.
+C1 [Dellaposta, Daniel] Penn State Univ, State Coll, PA 16801 USA.
+C3 Pennsylvania Commonwealth System of Higher Education (PCSHE);
+   Pennsylvania State University
+RP Dellaposta, D (corresponding author), Penn State Univ, State Coll, PA 16801 USA.
+EM djd78@psu.edu
+FU Duke Network Analysis Center
+FX * This article originates in dissertation research conducted at Cornell
+   University, and the people who have provided helpful feedback over the
+   many years of the article's development are too many to list. However, I
+   would like to especially thank Victor Nee, Michael Macy, Ben Cornwell,
+   and Takuma Kamada, as well as James Moody and other participants in a
+   seminar hosted in 2016 by the Duke Network Analysis Center. Any errors
+   and shortcomings are mine alone.
+CR Agreste S, 2016, INFORM SCIENCES, V351, P30, DOI 10.1016/j.ins.2016.02.027
+   [Anonymous], 1989, Sociological Methodology, DOI DOI 10.2307/270949
+   BAKER WE, 1993, AM SOCIOL REV, V58, P837, DOI 10.2307/2095954
+   Baldassarri D, 2007, AM J SOCIOL, V113, P735, DOI 10.1086/521839
+   Bearman PS, 2004, AM J SOCIOL, V110, P44, DOI 10.1086/386272
+   Bell Daniel, 1953, ANTIOCH REV, V13, P131
+   BONACICH E, 1973, AM SOCIOL REV, V38, P583, DOI 10.2307/2094409
+   Bothner MS, 2010, AM J SOCIOL, V116, P943, DOI 10.1086/658293
+   BRASS DJ, 1984, ADMIN SCI QUART, V29, P518, DOI 10.2307/2392937
+   Bureau of Narcotics, 2007, MAF
+   Burt RS, 2012, AM J SOCIOL, V118, P543, DOI 10.1086/667856
+   BURT RS, 1992, NETWORKS AND ORGANIZATIONS : STRUCTURE, FORM, AND ACTION, P57
+   Burt RS, 2004, AM J SOCIOL, V110, P349, DOI 10.1086/421787
+   Burt RS, 1997, ADMIN SCI QUART, V42, P339, DOI 10.2307/2393923
+   Catino M, 2019, MAFIA ORGANIZATIONS: THE VISIBLE HAND OF CRIMINAL ENTERPRISE, P1, DOI 10.1017/9781108567183
+   Charmaz K., 2006, Brokerage and closure: An introduction to social capital
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   Collins R., 2008, Violence: A micro-sociological theory
+   Coser LewisA., 1974, GREEDY I PATTERNS UN
+   DellaPosta D, 2017, SOC NETWORKS, V51, P148, DOI 10.1016/j.socnet.2016.11.005
+   DIMAGGIO PJ, 1983, AM SOCIOL REV, V48, P147, DOI 10.2307/2095101
+   Dixit AK, 2004, GORMAN LECT ECON, P1
+   Dobbin F, 2009, INVENTING EQUAL OPPORTUNITY, P1
+   EMERSON RM, 1962, AM SOCIOL REV, V27, P31, DOI 10.2307/2089716
+   FERNANDEZ RM, 1994, AM J SOCIOL, V99, P1455, DOI 10.1086/230451
+   Fleming L, 2007, ADMIN SCI QUART, V52, P443, DOI 10.2189/asqu.52.3.443
+   FREEMAN LC, 1977, SOCIOMETRY, V40, P35, DOI 10.2307/3033543
+   Gambetta D., 1993, SICILIAN MAFIA BUSIN
+   Gleich DF, 2015, SIAM REV, V57, P321, DOI 10.1137/140976649
+   Gould RV, 1999, AM SOCIOL REV, V64, P356, DOI 10.2307/2657491
+   GRANOVETTER M, 1985, AM J SOCIOL, V91, P481, DOI 10.1086/228311
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Hillmann H, 2008, AM J SOCIOL, V114, P287, DOI 10.1086/590646
+   Hillmann H, 2008, AM SOCIOL REV, V73, P426, DOI 10.1177/000312240807300304
+   Ianni F.A., 1972, FAMILY BUSINESS KINS
+   Kleinbaum AM, 2012, ADMIN SCI QUART, V57, P407, DOI 10.1177/0001839212461141
+   LUPSHA PA, 1981, CRIMINOLOGY, V19, P3, DOI 10.1111/j.1745-9125.1981.tb00401.x
+   Maas Peter., 1969, The Valachi Papers
+   MARSDEN PV, 1983, AM J SOCIOL, V88, P686, DOI 10.1086/227729
+   Mastrobuoni G, 2012, REV NETW ECON, V11, DOI 10.1515/1446-9022.1324
+   Merton RK, 1938, AM SOCIOL REV, V3, P672, DOI 10.2307/2084686
+   Morselli C., 2005, CONTACTS OPPORTUNITI
+   Morselli C, 2007, SOC NETWORKS, V29, P143, DOI 10.1016/j.socnet.2006.05.001
+   Nee V, 2017, SOCIOL SCI, V4, P552, DOI 10.15195/v4.a23
+   Newman MEJ, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.026113
+   PADGETT JF, 1993, AM J SOCIOL, V98, P1259, DOI 10.1086/230190
+   Page L., 1999, The PageRank citation ranking: Bringing order to the web
+   Paoli Letizia., 2003, Mafia Brotherhoods: Organized Crime, Italian Style
+   Parkin Frank., 1974, The Social Analysis of Class Structure, P1
+   Peng YS, 2004, AM J SOCIOL, V109, P1045, DOI 10.1086/382347
+   Phillips DJ, 2001, AM J SOCIOL, V107, P379, DOI 10.1086/324072
+   Podolny JM, 1997, AM SOCIOL REV, V62, P673, DOI 10.2307/2657354
+   Podolny JM, 2001, AM J SOCIOL, V107, P33, DOI 10.1086/323038
+   PORTES A, 1993, AM J SOCIOL, V98, P1320, DOI 10.1086/230191
+   Raghavan UN, 2007, PHYS REV E, V76, DOI 10.1103/PhysRevE.76.036106
+   Reuter P., 1983, DISORGANIZED CRIME
+   Senate U.S., 1963, ORG CRIM IL TRAFF NA
+   Senate U.S., 1988, ORG CRIM 25 YEARS VA
+   Simmel Georg., 1908, On Individuality and Social Forms, P143
+   Smith CM, 2016, AM SOCIOL REV, V81, P644, DOI 10.1177/0003122416650149
+   Steffensmeier D, 2006, AM SOCIOL REV, V71, P123, DOI 10.1177/000312240607100106
+   Stovel K, 2012, ANNU REV SOCIOL, V38, P139, DOI 10.1146/annurev-soc-081309-150054
+   Uzzi B, 1997, ADMIN SCI QUART, V42, P35, DOI 10.2307/2393808
+   Uzzi B, 1996, AM SOCIOL REV, V61, P674, DOI 10.2307/2096399
+   Vaughn BK, 2008, J EDUC MEAS, V45, P94, DOI 10.1111/j.1745-3984.2007.00053_2.x
+   Vedres B, 2010, AM J SOCIOL, V115, P1150, DOI 10.1086/649497
+   Weber M., 1978, EC SOC
+   Weeden KA, 2002, AM J SOCIOL, V108, P55, DOI 10.1086/344121
+   Xiao ZX, 2007, ADMIN SCI QUART, V52, P1, DOI 10.2189/asqu.52.1.1
+NR 69
+TC 0
+Z9 0
+U1 1
+U2 2
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0049-089X
+EI 1096-0317
+J9 SOC SCI RES
+JI Soc. Sci. Res.
+PD AUG
+PY 2023
+VL 114
+AR 102913
+DI 10.1016/j.ssresearch.2023.102913
+EA AUG 2023
+PG 17
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA P9VE6
+UT WOS:001054077000001
+PM 37597928
+DA 2024-11-22
+ER
+
+PT J
+AU Chadha, S
+   Kleinbaum, AM
+   Wood, A
+AF Chadha, Sareena
+   Kleinbaum, Adam M.
+   Wood, Adrienne
+TI Social networks are shaped by culturally contingent assessments of
+   social competence
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID EMOTIONAL INTELLIGENCE; GROUP ADVANTAGE; SATISFACTION; PERCEPTIONS;
+   BROKERAGE; STUDENTS
+AB Cultural outsiders, like immigrants or international students, often struggle to make friends. We propose that one barrier to social connection is not knowing what it means to be socially competent in the host culture. First-year students at a U.S. business school (N = 1328) completed a social network survey and rated their own social competence and that of several peers. International students were rated by peers as less socially competent than U.S. students, especially if they were from nations more culturally dissimilar to the U.S. International students' self-reported competence ratings were uncorrelated with peers' judgments. Social network analysis revealed international students were less central to their peer networks than U.S. students, although this gap was reduced if peers evaluated them as socially competent. Peer-reported competence mediated the effects of international student status on social network centrality. Since learning local norms takes time, we suggest inclusivity will require host communities to define social competence more broadly.
+C1 [Chadha, Sareena; Wood, Adrienne] Univ Virginia, Dept Psychol, 485 McCormick Rd, Charlottesville, VA 22904 USA.
+   [Kleinbaum, Adam M.] Dartmouth Coll, Tuck Sch Business, 100 Tuck Hall, Hanover, NH 03755 USA.
+C3 University of Virginia; Dartmouth College
+RP Chadha, S (corresponding author), Univ Virginia, Dept Psychol, 485 McCormick Rd, Charlottesville, VA 22904 USA.
+EM sc2hr@virginia.edu
+RI Kleinbaum, Adam/M-4316-2013; Wood, Adrienne/AAQ-2072-2020
+CR Allen JP, 2021, DEV PSYCHOPATHOL, V33, P647, DOI 10.1017/S0954579419001731
+   Amdurer E, 2014, FRONT PSYCHOL, V5, DOI 10.3389/fpsyg.2014.01447
+   AMIR Y, 1969, PSYCHOL BULL, V71, P319, DOI 10.1037/h0027352
+   Baldwin TT, 1997, ACAD MANAGE J, V40, P1369, DOI 10.5465/257037
+   Baron RA, 2003, J BUS VENTURING, V18, P41, DOI 10.1016/S0883-9026(00)00069-0
+   Bates D, 2015, J STAT SOFTW, V67, P1, DOI 10.18637/jss.v067.i01
+   Bhaskar-Shrinivas P, 2005, ACAD MANAGE J, V48, P257, DOI 10.2307/20159655
+   Boldry JG, 2007, GROUP PROCESS INTERG, V10, P157, DOI 10.1177/1368430207075153
+   Boldry JG, 2006, GROUP PROCESS INTERG, V9, P377, DOI 10.1177/1368430206064640
+   Boyatzis R.E., 2016, CONSULT PSYCH J, V68, P287, DOI [DOI 10.1037/CPB0000074, 10.1037/cpb0000074]
+   Brass D. J., 2022, TAKING STOCK NETWORK, V24
+   Cameron AC, 2011, J BUS ECON STAT, V29, P238, DOI 10.1198/jbes.2010.07136
+   Carstensen B, 2021, BRIT J EDUC PSYCHOL, V91, P500, DOI 10.1111/bjep.12377
+   Chetty R, 2022, NATURE, V608, P108, DOI 10.1038/s41586-022-04996-4
+   Cheung MWL, 2015, FRONT PSYCHOL, V5, DOI 10.3389/fpsyg.2014.01521
+   Connor P., 2019, Immigrant share in the U.S. nears record high but remains below that of many other countries
+   Ellemers N, 1997, PERS SOC PSYCHOL B, V23, P186, DOI 10.1177/0146167297232007
+   Emmerling RJ, 2012, CROSS CULT MANAG, V19, P4, DOI 10.1108/13527601211195592
+   Eng L. A., 2012, VIEWING OURSELVES OT, P44
+   Fang RL, 2015, ORGAN SCI, V26, P1243, DOI 10.1287/orsc.2015.0972
+   Glass C, 2019, J INT STUDENTS, V9, DOI 10.32674/jis.v9i1.857
+   Glass CR, 2014, INT J INTERCULT REL, V38, P106, DOI 10.1016/j.ijintrel.2013.04.004
+   Gray HM, 2008, PSYCHOL SCI, V19, P1233, DOI 10.1111/j.1467-9280.2008.02230.x
+   Grigoryan L, 2021, GROUP PROCESS INTERG, V24, P966, DOI 10.1177/1368430220929077
+   Hendrickson B, 2011, INT J INTERCULT REL, V35, P281, DOI 10.1016/j.ijintrel.2010.08.001
+   Hill ME, 2001, J COMMUNITY APPL SOC, V11, P243, DOI 10.1002/casp.629
+   Huff ST, 2021, INT J INTERCULT REL, V85, P141, DOI 10.1016/j.ijintrel.2021.09.008
+   Inkpen AC, 2005, ACAD MANAGE REV, V30, P146, DOI [10.5465/AMR.2005.15281445, 10.2307/20159100]
+   Johnson DW., 2013, REDUCING PREJUDICE D
+   Joshia-Gojer A.E., 2012, Learning and Performance Quarterly, V1, P47
+   Kang SM, 2013, EMOTION, V13, P203, DOI 10.1037/a0030013
+   Kim HK, 1998, J COMP FAM STUD, V29, P313
+   Kleinbaum AM, 2015, ORGAN SCI, V26, P1226, DOI 10.1287/orsc.2014.0961
+   Kleinbaum AM, 2013, ORGAN SCI, V24, P1316, DOI 10.1287/orsc.1120.0804
+   Lamont M., 1988, SOCIOL THEOR, V6, P153, DOI [DOI 10.2307/202113, 10.2307/202113]
+   Lee W., 2004, ASIAN J COMMUN, V14, P205, DOI [DOI 10.1080/0129298042000256758, 10.1080/0129298042000256758]
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Miao C, 2018, J WORLD BUS, V53, P463, DOI 10.1016/j.jwb.2018.01.003
+   Mollica KA, 2003, ORGAN SCI, V14, P123, DOI 10.1287/orsc.14.2.123.14994
+   Morelli SA, 2017, P NATL ACAD SCI USA, V114, P9843, DOI 10.1073/pnas.1702155114
+   MURATA K, 1994, J PRAGMATICS, V21, P385, DOI 10.1016/0378-2166(94)90011-6
+   Muthukrishna M, 2020, PSYCHOL SCI, V31, P678, DOI 10.1177/0956797620916782
+   Ostroff C, 2004, PERS PSYCHOL, V57, P333, DOI 10.1111/j.1744-6570.2004.tb02494.x
+   Poulou MS, 2018, J RES CHILD EDUC, V32, P363, DOI 10.1080/02568543.2018.1464980
+   R core team, 2014, R LANG ENV STAT COMP
+   Rosseel Y., 2017, Package lavaan, V17, P2017
+   Rubin M, 2012, CURR DIR PSYCHOL SCI, V21, P367, DOI 10.1177/0963721412457363
+   Sarrionandia A, 2020, HEALTH PSYCHOL REV, V14, P220, DOI 10.1080/17437199.2019.1641423
+   Sasovova Z, 2010, ADMIN SCI QUART, V55, P639, DOI 10.2189/asqu.2010.55.4.639
+   Sedikides C, 2005, J PERS SOC PSYCHOL, V89, P539, DOI 10.1037/0022-3514.89.4.539
+   Sedikides C, 2007, ASIAN J SOC PSYCHOL, V10, P201, DOI 10.1111/j.1467-839X.2007.00227.x
+   Selmer J, 2007, INT J CROSS CULT MAN, V7, P185, DOI 10.1177/1470595807079385
+   Seung Ik Baek, 2019, Journal of Service Science Research, V11, P183, DOI 10.1007/s12927-019-0009-2
+   Stankov L, 2015, LEARN INDIVID DIFFER, V41, P30, DOI 10.1016/j.lindif.2015.07.005
+   Taylor SN, 2011, HUM RELAT, V64, P627, DOI 10.1177/0018726710387950
+   United Nations, 2020, INT MIGR STOCK POP D
+   Uono S, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0118094
+   Vazire S, 2010, J PERS SOC PSYCHOL, V98, P281, DOI 10.1037/a0017908
+   Wiseman RL., 2004, INTERCULT COMMUN STU, V13, P1
+   Wood A, 2023, J PERS SOC PSYCHOL, V124, P109, DOI 10.1037/pspi0000395
+   Ying YW, 2002, J COMMUNITY PSYCHOL, V30, P45, DOI 10.1002/jcop.1049
+   Zamora-Kapoor A, 2013, SOCIOL COMPASS, V7, P303, DOI 10.1111/soc4.12027
+   Zou LX, 2017, J PERS SOC PSYCHOL, V112, P696, DOI 10.1037/pspa0000080
+NR 63
+TC 1
+Z9 1
+U1 0
+U2 6
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD MAY 17
+PY 2023
+VL 13
+IS 1
+AR 7974
+DI 10.1038/s41598-023-34723-6
+PG 11
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA H3VG6
+UT WOS:000995271600036
+PM 37198298
+OA Green Published, Green Submitted, gold
+DA 2024-11-22
+ER

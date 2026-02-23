@@ -1,0 +1,622 @@
+
+PT J
+AU Growiec, K
+   Growiec, J
+   Kaminski, B
+AF Growiec, Katarzyna
+   Growiec, Jakub
+   Kaminski, Bogumil
+TI Emergence of Small-World Networks in an Overlapping-Generations Model of
+   Social Dynamics, Trust and Economic Performance
+SO JASSS-THE JOURNAL OF ARTIFICIAL SOCIETIES AND SOCIAL SIMULATION
+LA English
+DT Article
+DE Social Network Structure; Social Network Dynamics; Trust; Willingness to
+   Cooperate; Economic Performance; Agent-Based Model
+ID MOBILITY; IMPACT; JOB
+AB We study the impact of endogenous creation and destruction of social ties in an artificial society on aggregate outcomes such as generalized trust, willingness to cooperate, social utility and economic performance. To this end we put forward a computational multi-agent model where agents of overlapping generations interact in a dynamically evolving social network. In the model, four distinct dimensions of individuals' social capital: degree, centrality, heterophilous and homophilous interactions, determine their generalized trust and willingness to cooperate, altogether helping them achieve certain levels of social utility (i.e., utility from social contacts) and economic performance. We find that the stationary state of the simulated social network exhibits realistic small-world topology. We also observe that societies whose social networks are relatively frequently reconfigured, display relatively higher generalized trust, willingness to cooperate, and economic performance - at the cost of lowersocial utility. Similar outcomes are found for societies where social tie dissolution is relatively weakly linked to family closeness.
+C1 [Growiec, Katarzyna] SWPS Univ Social Sci & Humanities, Dept Social Psychol & Personal, Chodakowska 19-31, PL-03815 Warsaw, Poland.
+   [Growiec, Jakub] SGH Warsaw Sch Econ, Dept Quantitat Econ, Al Niepodleglosci 162, PL-02554 Warsaw, Poland.
+   [Kaminski, Bogumil] SGH Warsaw Sch Econ, Decis Anal & Support Unit, Al Niepodleglosci 162, PL-02554 Warsaw, Poland.
+C3 SWPS University of Social Sciences & Humanities; Warsaw School of
+   Economics; Warsaw School of Economics
+RP Kaminski, B (corresponding author), SGH Warsaw Sch Econ, Decis Anal & Support Unit, Al Niepodleglosci 162, PL-02554 Warsaw, Poland.
+EM bkamins@sgh.waw.pl
+RI Growiec, Jakub/AAB-8623-2019; Growiec, Katarzyna/ABB-8235-2021;
+   Kamiński, Bogumił/AAF-5417-2020
+OI Kaminski, Bogumil/0000-0002-0678-282X; Growiec,
+   Jakub/0000-0003-2222-1691; Growiec, Katarzyna/0000-0002-4448-2561
+FU Polish National Science Center (Narodowe Centrum Nauki) under the grant
+   OPUS 6 [2013/11/B/HS4/01467]
+FX Financial support from the Polish National Science Center (Narodowe
+   Centrum Nauki) under the grant OPUS 6 No. 2013/11/B/HS4/01467 is
+   gratefully acknowledged.
+CR Aghion P., 2005, HDB EC GROWTH
+   Alesina A, 2010, J ECON GROWTH, V15, P93, DOI 10.1007/s10887-010-9052-z
+   [Anonymous], 1998, COMMUNITY ORG BUILDI
+   [Anonymous], 1986, HDB THEORY RES SOCIO
+   [Anonymous], 2011, 11114503 ARXIV
+   Azomahou TT, 2009, INT J ECON THEORY, V5, P201, DOI 10.1111/j.1742-7363.2009.00105.x
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Bezanson J, 2017, SIAM REV, V59, P65, DOI 10.1137/141000671
+   Boucekkine R, 2002, J ECON THEORY, V104, P340, DOI 10.1006/jeth.2001.2854
+   Bowlby John, 1969, ATTACHMENT LOSS
+   Burt R.S., 2007, Brokerage and closure: An introduction to social capital
+   Burt RS, 2002, SOC NETWORKS, V24, P333, DOI 10.1016/S0378-8733(02)00017-5
+   Burt RS, 2000, SOC NETWORKS, V22, P1, DOI 10.1016/S0378-8733(99)00015-5
+   Christakis NA, 2009, Connected: The Surprising Power of Our Social Networks and How They Shape Our Lives
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   Cook KC, 2005, BAYWOOD T C, P49
+   DUNBAR RIM, 1995, HUM NATURE-INT BIOS, V6, P273, DOI 10.1007/BF02734142
+   Erickson BH, 1996, AM J SOCIOL, V102, P217, DOI 10.1086/230912
+   Field J., 2010, Social capital, V2nd
+   Flap H.D., 1991, COMP SOCIOLOGY FAMIL, V20, P6179
+   Florida R. L., 2002, RISE CREATIVE CLASS
+   Franzen A, 2006, EUR SOCIOL REV, V22, P353, DOI 10.1093/esr/jcl001
+   Fukuyama F., 1995, TRUST
+   Granovetter M, 2005, J ECON PERSPECT, V19, P33, DOI 10.1257/0895330053147958
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Greenberg J., 1991, OEDIPUS CLIN THEORY
+   Growiec J, 2010, EUR SOC, V12, P231, DOI 10.1080/14616690902718381
+   Growiec K., 2017, 2017025 KAE SGH WARS
+   Growiec K, 2018, SOC NETWORKS, V55, P31, DOI 10.1016/j.socnet.2018.05.002
+   Growiec K, 2014, J HAPPINESS STUD, V15, P1015, DOI 10.1007/s10902-013-9461-8
+   HAMMER M, 1983, SOC SCI MED, V17, P405, DOI 10.1016/0277-9536(83)90344-1
+   Hill RA, 2003, HUM NATURE-INT BIOS, V14, P53, DOI 10.1007/s12110-003-1016-y
+   Inglehart R, 2000, AM SOCIOL REV, V65, P19, DOI 10.2307/2657288
+   Kääriäinen J, 2006, EUR SOC, V8, P27, DOI 10.1080/14616690500491399
+   Kadushin C, 2002, SOC NETWORKS, V24, P77, DOI 10.1016/S0378-8733(01)00052-1
+   Kadushin C., 2012, UNDERSTANDING SOCIAL
+   Kim HH, 2009, SOCIOL QUART, V50, P61, DOI 10.1111/j.1533-8525.2008.01133.x
+   Klapwijk A, 2009, J PERS SOC PSYCHOL, V96, P83, DOI 10.1037/a0012823
+   Knack S, 1997, Q J ECON, V112, P1251, DOI 10.1162/003355300555475
+   Kroll C, 2011, SOC INDIC RES, V104, P157, DOI 10.1007/s11205-010-9733-1
+   Law A.M., 2013, Simulation modeling and analysis, V5th
+   Lazarsfeld P.F., 1954, Freedom and Control in Modern Society, P18, DOI DOI 10.1111/J.1467-8705.2012.02056_3.X
+   Leonard M, 2008, YOUTH SOC, V40, P224, DOI 10.1177/0044118X08314243
+   Leung A, 2011, J HAPPINESS STUD, V12, P443, DOI 10.1007/s10902-010-9208-8
+   Li YJ, 2005, EUR SOCIOL REV, V21, P109, DOI 10.1093/esr/jci007
+   Lin N., 2000, Social capital: A theory of structure and action
+   Melamed D., 2016, SOC NETWORKS, V45, P32
+   Misztal B., 1996, TRUST SOCIAL ORDER
+   Molm LD, 2000, AM J SOCIOL, V105, P1396, DOI 10.1086/210434
+   Mouw T, 2003, AM SOCIOL REV, V68, P868, DOI 10.2307/1519749
+   Norbutas L, 2018, SOC NETWORKS, V52, P120, DOI 10.1016/j.socnet.2017.06.002
+   Podolny JM, 1997, AM SOCIOL REV, V62, P673, DOI 10.2307/2657354
+   Putnam R., 1999, BOWLING ALONE
+   Putnam R. D., 1993, MAKING DEMOCRACY WOR
+   Roberts SGB, 2011, EVOL HUM BEHAV, V32, P186, DOI 10.1016/j.evolhumbehav.2010.08.005
+   Sabatini F., 2009, The Journal of Socio-Economics, V38, P429, DOI [10.1016/j.socec.2008.06.001, DOI 10.1016/J.SOCEC.2008.06.001]
+   SHAVIT Y, 1994, SOC FORCES, V72, P1197, DOI 10.2307/2580298
+   SIMON HA, 1955, BIOMETRIKA, V42, P425
+   Slomczynski KM, 2005, POL SOCIOL REV, P221
+   Snijders TAB, 2017, ANNU REV STAT APPL, V4, P343, DOI 10.1146/annurev-statistics-060116-054035
+   Tian FF, 2016, SOC NETWORKS, V44, P117, DOI 10.1016/j.socnet.2015.08.002
+   UZAWA H, 1962, REV ECON STUD, V29, P291, DOI 10.2307/2296305
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Winkelmann R, 2009, J HAPPINESS STUD, V10, P421, DOI 10.1007/s10902-008-9097-2
+   Woolcock M, 1998, THEOR SOC, V27, P151, DOI 10.1023/A:1006884930135
+   Zak PJ, 2001, ECON J, V111, P295, DOI 10.1111/1468-0297.00609
+   Zhang S., 2011, J SOCIOLOGY SOCIAL W, V38, P119
+NR 67
+TC 0
+Z9 0
+U1 0
+U2 6
+PU J A S S S
+PI GUILDFORD
+PA UNIV SURREY, DEPT SOCIOLOGY, GUILDFORD GU2 7XH, SURREY, ENGLAND
+SN 1460-7425
+J9 JASSS-J ARTIF SOC S
+JI JASSS
+PD APR 1
+PY 2020
+VL 23
+IS 2
+AR 8
+DI 10.18564/jasss.4178
+PG 26
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA KZ3RW
+UT WOS:000523183100008
+OA gold, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Coscia, M
+   Rossi, L
+AF Coscia, Michele
+   Rossi, Luca
+TI Distortions of political bias in crowdsourced misinformation flagging
+SO JOURNAL OF THE ROYAL SOCIETY INTERFACE
+LA English
+DT Article
+DE social media; social networks; content policing; flagging; fake news;
+   echo chambers
+ID SELECTIVE EXPOSURE; ECHO CHAMBERS; NEWS
+AB Many people view news on social media, yet the production of news items online has come under fire because of the common spreading of misinformation. Social media platforms police their content in various ways. Primarily they rely on crowdsourced 'flags': users signal to the platform that a specific news item might be misleading and, if they raise enough of them, the item will be fact-checked. However, real-world data show that the most flagged news sources are also the most popular and-supposedly-reliable ones. In this paper, we show that this phenomenon can be explained by the unreasonable assumptions that current content policing strategies make about how the online social media environment is shaped. The most realistic assumption is that confirmation bias will prevent a user from flagging a news item if they share the same political bias as the news source producing it. We show, via agent-based simulations, that a model reproducing our current understanding of the social media environment will necessarily result in the most neutral and accurate sources receiving most flags.
+C1 [Coscia, Michele; Rossi, Luca] IT Univ Copenhagen, Copenhagen, Denmark.
+C3 IT University Copenhagen
+RP Coscia, M (corresponding author), IT Univ Copenhagen, Copenhagen, Denmark.
+EM mcos@itu.dk
+RI Coscia, Michele/AGJ-5531-2022
+OI Rossi, Luca/0000-0002-3629-2039
+CR Adamic L.A., 2005, P 3 INT WORKSH LINK, P36, DOI DOI 10.1145/1134271.1134277
+   Allcott H, 2017, J ECON PERSPECT, V31, P211, DOI 10.1257/jep.31.2.211
+   American National Election Studies, 2008, ANES GUID PUBL OP EL
+   An JS, 2013, PROCEEDINGS OF THE 22ND INTERNATIONAL CONFERENCE ON WORLD WIDE WEB (WWW'13 COMPANION), P51
+   [Anonymous], 2011, P INT AAAI C WEB SOC
+   Bakshy E, 2015, SCIENCE, V348, P1130, DOI 10.1126/science.aaa1160
+   Conroy N.K., 2015, P ASS INFORM SCI TEC, V52, P1, DOI [10.1002/pra2.2015.145052010082, DOI 10.1002/PRA2.2015.145052010082]
+   Coscia M, 2018, COMMUN ACM, V61, P70, DOI 10.1145/3158227
+   Crawford K, 2016, NEW MEDIA SOC, V18, P410, DOI 10.1177/1461444814543163
+   Del Vicario M, 2016, SCI REP-UK, V6, DOI 10.1038/srep37825
+   Dubois E, 2018, INFORM COMMUN SOC, V21, P729, DOI 10.1080/1369118X.2018.1428656
+   Flaxman S, 2016, PUBLIC OPIN QUART, V80, P298, DOI 10.1093/poq/nfw006
+   Garimella K, 2018, WEB CONFERENCE 2018: PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE (WWW2018), P913, DOI 10.1145/3178876.3186139
+   Garrett RK, 2009, J COMPUT-MEDIAT COMM, V14, P265, DOI 10.1111/j.1083-6101.2009.01440.x
+   Giglietto F., 2018, Mapping Italian news media political coverage in the lead-up to 2018 general election, DOI DOI 10.2139/SSRN.3179930
+   Giglietto F, 2019, CURR SOCIOL, V67, P625, DOI 10.1177/0011392119837536
+   Gillespie T., 2018, CUSTODIANS INTERNET
+   Iyengar S, 2008, J POLIT, V70, P186, DOI 10.1017/S0022381607080139
+   Kai Shu, 2017, ACM SIGKDD Explorations Newsletter, V19, P22, DOI 10.1145/3137597.3137600
+   Kim J, 2018, WSDM'18: PROCEEDINGS OF THE ELEVENTH ACM INTERNATIONAL CONFERENCE ON WEB SEARCH AND DATA MINING, P324, DOI 10.1145/3159652.3159734
+   Lancichinetti A, 2008, PHYS REV E, V78, DOI 10.1103/PhysRevE.78.046110
+   Lazer DMJ, 2018, SCIENCE, V359, P1094, DOI 10.1126/science.aao2998
+   Lewandowsky S, 2017, J APPL RES MEM COGN, V6, P353, DOI 10.1016/j.jarmac.2017.07.008
+   Li YL, 2015, KDD'15: PROCEEDINGS OF THE 21ST ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P675, DOI 10.1145/2783258.2783277
+   Mathias JD, 2016, JASSS-J ARTIF SOC S, V19, DOI 10.18564/jasss.2967
+   Messing S, 2018, FACEBOOK URL SHARES, DOI [10.7910/DVN/EIAACS, DOI 10.7910/DVN/EIAACS]
+   Myslinski LJ, 2013, US Patent, Patent No. [8,458,046, 8458046]
+   Newman N, 2019, REUTERS I DIGITAL NE, V2019
+   Nikolov D, 2015, PEERJ COMPUT SCI, DOI 10.7717/peerj-cs.38
+   Pennacchioli Diego, 2013, Social Informatics. 5th International Conference, SocInfo 2013. Proceedings: LNCS 8238, P319, DOI 10.1007/978-3-319-03260-3_28
+   Quattrociocchi W., 2016, SOCIAL SCI RES NETWO
+   Stroud NJ, 2008, POLIT BEHAV, V30, P341, DOI 10.1007/s11109-007-9050-9
+   Swire B, 2017, ROY SOC OPEN SCI, V4, DOI 10.1098/rsos.160802
+   Tschiatschek S, 2018, COMPANION PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE 2018 (WWW 2018), P517, DOI 10.1145/3184558.3188722
+   Vosoughi S, 2018, SCIENCE, V359, P1146, DOI 10.1126/science.aap9559
+   Wei W, 2017, PROCEEDINGS OF THE TWENTY-SIXTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, P4172
+   Wu L, 2018, WSDM'18: PROCEEDINGS OF THE ELEVENTH ACM INTERNATIONAL CONFERENCE ON WEB SEARCH AND DATA MINING, P637, DOI 10.1145/3159652.3159677
+NR 37
+TC 11
+Z9 11
+U1 3
+U2 24
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 1742-5689
+EI 1742-5662
+J9 J R SOC INTERFACE
+JI J. R. Soc. Interface
+PD JUN 24
+PY 2020
+VL 17
+IS 167
+DI 10.1098/rsif.2020.0020
+PG 11
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA MA0MN
+UT WOS:000541611100004
+PM 32517634
+OA Green Published, hybrid
+DA 2024-11-22
+ER
+
+PT S
+AU Godart, F
+   Seong, S
+   Phillips, DJ
+AF Godart, Frederic
+   Seong, Sorah
+   Phillips, Damon J.
+BE Cook, KS
+   Massey, DS
+TI The Sociology of Creativity: Elements, Structures, and Audiences
+SO ANNUAL REVIEW OF SOCIOLOGY, VOL 46
+SE Annual Review of Sociology
+LA English
+DT Article; Book Chapter
+DE atypicality; creative industries; creativity; cultural elements;
+   novelty; originality
+ID SOCIAL NETWORKS; INNOVATION; PERSPECTIVE; FADS; CONSECRATION;
+   PERFORMANCE; PHILOSOPHY; STRATEGIES; BROKERAGE; MARKETS
+AB This review integrates diverse characterizations of creativity from a sociological perspective with the goal of reinvigorating discussion of the sociology of creativity. We start by exploring relevant works of classical social theory to uncover key assumptions and principles, which are used as a theoretical basis for our proposed definition of creativity: an intentional configuration of cultural and material elements that is unexpected for a given audience. Our argument is enriched by locating creativity vis-a-vis related concepts-such as originality, knowledge, innovation, atypicality, and consecration-and across neighboring disciplines. Underlying the discussion are antecedents (structure, institutions, and context) and consequences (audiences, perception, and evaluation), which are treated separately. We end our review by speculating on ways in which sociologists can take the discussion of creativity forward.
+C1 [Godart, Frederic] INSEAD, Org Behav Dept, F-77305 Fontainebleau, France.
+   [Seong, Sorah] Univ Washington, Foster Sch Business, Dept Management & Org, Seattle, WA 98195 USA.
+   [Phillips, Damon J.] Columbia Univ, Grad Sch Business, Management Div, New York, NY 10027 USA.
+C3 INSEAD Business School; University of Washington; University of
+   Washington Seattle; Columbia University
+RP Godart, F (corresponding author), INSEAD, Org Behav Dept, F-77305 Fontainebleau, France.
+EM frederic.godart@insead.edu; sseong@uw.edu; dp2588@gsb.columbia.edu
+RI Godart, Frederic/A-1927-2017
+OI Godart, Frederic/0000-0001-7530-8577
+CR Abbott JS, 2005, HARVARD CRIMSON 1007
+   Abrahamson E, 2008, ADMIN SCI QUART, V53, P719, DOI 10.2189/asqu.53.4.719
+   Acar S, 2017, CREATIVITY RES J, V29, P133, DOI 10.1080/10400419.2017.1302776
+   Accominotti F, 2021, AM BEHAV SCI, V65, P9, DOI 10.1177/0002764218800144
+   Accominotti F, 2009, POETICS, V37, P267, DOI 10.1016/j.poetic.2009.03.005
+   AGHION P, 1992, ECONOMETRICA, V60, P323, DOI 10.2307/2951599
+   Amabile T.M., 2012, COMPONENTIAL THEORY, DOI DOI 10.4135/9781452276090.N42
+   Amabile T.M., 1996, Creativity in context: The social psychology of creativity
+   Amabile TM, 2005, ADMIN SCI QUART, V50, P367, DOI 10.2189/asqu.2005.50.3.367
+   [Anonymous], 1993, FIELD CULTURAL PRODU
+   [Anonymous], 1903, The laws of imitation
+   [Anonymous], 2012, Explaining creativity: The science ofhuman innovation
+   [Anonymous], 1986, The constitution of society: Outline of the theory of structuration
+   [Anonymous], 1994, Reflexive modernization: Politics, tradition, and aesthetics in the modern social order
+   [Anonymous], 1999, Pandora's Hope: an Essay on the Reality of Science Studies
+   Arora A., 2004, Markets for technology: The economics of innovation and corporate strategy
+   Askin N, 2017, AM SOCIOL REV, V82, P910, DOI 10.1177/0003122417728662
+   Asma S.T., 2017, The evolution of imagination
+   Aspers P, 2013, ANNU REV SOCIOL, V39, P171, DOI 10.1146/annurev-soc-071811-145526
+   Audia PG, 2007, MANAGE SCI, V53, P1, DOI 10.1287/mnsc.1060.0593
+   Azoulay P, 2011, RAND J ECON, V42, P527, DOI 10.1111/j.1756-2171.2011.00140.x
+   Bartels G, 2013, ENCY CREATIVITY INVE, DOI DOI 10.1007/978-1-4614-6616-1
+   Basov N, 2018, SOC NETWORKS, V54, P179, DOI 10.1016/j.socnet.2018.02.003
+   Becker Howard S., 2008, ART WORLDS
+   Bell Alex, 2018, Q J ECON, V134, P647, DOI DOI 10.1093/qje/qjy028
+   Boden M. A., 2004, CREATIVE MIND MYTHS
+   Boden MA, 1998, ARTIF INTELL, V103, P347, DOI 10.1016/S0004-3702(98)00055-1
+   Bourdieu, 2006, DISTINCTION SOCIAL C
+   Bourdieu Pierre., 1996, The Rules of Art: Genesis and Structure of the Literary Field
+   Burns TR, 2015, HUM SYST MANAGE, V34, P263, DOI 10.3233/HSM-150850
+   Burt RS, 2004, AM J SOCIOL, V110, P349, DOI 10.1086/421787
+   Callon Michel., 1986, Power, Action, Belief: A New Sociology of Knowledge?, DOI [DOI 10.1111/J.1467-954X.1984.TB00113.X, 10.1111/j.1467-954X.1984.tb00113.x]
+   Cattani G, 2008, ORGAN SCI, V19, P824, DOI 10.1287/orsc.1070.0350
+   Cattani G, 2018, STRATEG SCI, V3, P632, DOI 10.1287/stsc.2018.0069
+   Cattani G, 2014, AM SOCIOL REV, V79, P258, DOI 10.1177/0003122414520960
+   Caves RichardE., 2000, Creative Industries: Contracts Between Art and Commerce
+   Ceulemans C, 2011, AM ECON REV, V101, P217, DOI 10.1257/aer.101.3.217
+   Chan J, 2016, PAL ST CREAT CULT, P639, DOI 10.1057/978-1-137-46344-9_31
+   Chan J, 2011, ROUT STUD INNOV ORG, V18, P135
+   Chen Katherine., 2009, ENABLING CREATIVE CH
+   Childress C, 2017, POETICS, V60, P48, DOI 10.1016/j.poetic.2016.10.001
+   Cillo P, 2008, LONG RANGE PLANN, V41, P650, DOI 10.1016/j.lrp.2008.08.001
+   Collins Randall., 1998, SOCIOLOGY PHILOS GLO
+   Corte U, 2019, SOC PSYCHOL QUART, V82, P333, DOI 10.1177/0190272519881629
+   Csikszentmihalyi Mihaly, 1996, CREATIVITY FLOW PSYC
+   Dahlin EC, 2014, SOCIOL COMPASS, V8, P671, DOI 10.1111/soc4.12177
+   Dalton B, 2004, SOCIOL THEOR, V22, P603, DOI 10.1111/j.0735-2751.2004.00236.x
+   de Vaan M, 2015, AM J SOCIOL, V120, P1144, DOI 10.1086/681213
+   Deleuze G., 1998, Trafic, V27, P133
+   Diedrich J, 2015, PSYCHOL AESTHET CREA, V9, P35, DOI 10.1037/a0038688
+   Durkheim, 1995, ELEM FORMS RELIG LIF
+   Durkheim E., 1982, RULES SOCIOLOGICAL M, DOI DOI 10.1007/978-1-349-16939-9
+   Elias Norbert., 1993, Mozart: Portrait of a Genius
+   Elsbach KD, 2003, ACAD MANAGE J, V46, P283, DOI 10.5465/30040623
+   Evans Vyvyan., 2010, WORDS MEAN LEXICAL C
+   Fabiani J-L, 2016, ANN HIST SCI SOC, V71, P951
+   Feist G J, 1998, Pers Soc Psychol Rev, V2, P290, DOI 10.1207/s15327957pspr0204_5
+   Fleming L, 2007, ADMIN SCI QUART, V52, P443, DOI 10.2189/asqu.52.3.443
+   Florida Richard., 2019, RISE CREATIVE CLASS
+   Ford CM, 1996, ACAD MANAGE REV, V21, P1112, DOI 10.5465/amr.1996.9704071865
+   Foucault M., 1980, POWERKNOWLEDGE SELEC
+   Friedland Roger., 2004, MATTERCULTURE CULT, P1
+   Fuchs S., 2005, ESSENTIALISM THEORY
+   Fuentes Agustin., 2017, CREATIVE SPARK IMAGI
+   Galenson David W, 2011, Old Masters and Young Geniuses
+   Ganzaroli A, 2011, MANAGING NETWORKS CR, P264
+   Gaut B, 2010, PHILOS COMPASS, V5, P1034, DOI 10.1111/j.1747-9991.2010.00351.x
+   George JM, 2007, ACAD MANAG ANN, V1, P439, DOI 10.1080/078559814
+   Gerber Allison., 2017, The Work of Art: Value in Creative Careers
+   Giddens Anthony., 1971, CAPITALISM MODERN SO
+   Giuffre KatherineA., 2009, COLLECTIVE CREATIVIT
+   Glaveanu V.P., 2019, The creativity reader, P173
+   Godart FC, 2019, ORGAN SCI, V30, P151, DOI 10.1287/orsc.2018.1234
+   Godart FC, 2014, ORGAN SCI, V25, P377, DOI 10.1287/orsc.2013.0839
+   Godart FC, 2009, SOC FORCES, V88, P671, DOI 10.1353/sof.0.0266
+   Goldberg A, 2016, AM SOCIOL REV, V81, P215, DOI 10.1177/0003122416632787
+   GOTZ IL, 1981, J AESTHET ART CRITIC, V39, P297, DOI 10.2307/430164
+   Govindarajan Vijay., 2010, OTHER SIDE INNOVATIO
+   Grabher G, 2018, ENVIRON PLANN A, V50, P1785, DOI 10.1177/0308518X18784021
+   Gronow J., 2009, Time, consumption and everyday life: Practice, materiality and culture, P129
+   Guetzkow J, 2004, AM SOCIOL REV, V69, P190, DOI 10.1177/000312240406900203
+   Guilford JP, 1950, AM PSYCHOL, V5, P444, DOI 10.1037/h0063487
+   Guiltinan J, 2009, J BUS ETHICS, V89, P19, DOI 10.1007/s10551-008-9907-9
+   Hagtvedt LP, 2019, ORGAN BEHAV HUM DEC, V150, P1, DOI 10.1016/j.obhdp.2018.10.007
+   Hargadon AB, 2006, ORGAN SCI, V17, P484, DOI 10.1287/orsc.1060.0200
+   Harvey S, 2013, ADMIN SCI QUART, V58, P346, DOI 10.1177/0001839213498591
+   Hennessey BA, 2010, ANNU REV PSYCHOL, V61, P569, DOI 10.1146/annurev.psych.093008.100416
+   Hildreth JAD, 2016, J PERS SOC PSYCHOL, V110, P261, DOI 10.1037/pspi0000045
+   HIRSCH PM, 1972, AM J SOCIOL, V77, P639, DOI 10.1086/225192
+   Horkheimer Max., 1997, DIALECTIC ENLIGHTENM
+   Hsu G, 2006, ADMIN SCI QUART, V51, P420, DOI 10.2189/asqu.51.3.420
+   Huang L, 2011, SOC PSYCHOL PERS SCI, V2, P351, DOI 10.1177/1948550610391677
+   Jackson PTG, 2015, INT SYMP IMAGE SIG, P170, DOI 10.1109/ISPA.2015.7306053
+   Jang S, 2017, ORGAN SCI, V28, P993, DOI 10.1287/orsc.2017.1162
+   Jia LD, 2014, ACAD MANAGE J, V57, P869, DOI 10.5465/amj.2011.0147
+   Joas Hans., 1996, The Creativity of Action
+   John B, 2009, HDB RES ASSESSMENT T, P65
+   Jones C, 2018, FRONTIERS CREATIVE I, P1
+   Jones CandaceMark Lorenzen Jonathan Sapsed., 2015, OXFORD HDB CREATIVE, VFirst, DOI DOI 10.1093/OXFORDHB/9780199603510.001.0001
+   Kaufman J, 2004, ANNU REV SOCIOL, V30, P335, DOI 10.1146/annurev.soc.30.012703.110608
+   Kaup BZ, 2015, SOCIOL THEOR, V33, P280, DOI 10.1177/0735275115599186
+   Kharkhurin AV, 2014, CREATIVITY RES J, V26, P338, DOI 10.1080/10400419.2014.929424
+   Khessina OM, 2018, RES ORGAN BEHAV, V38, P107, DOI 10.1016/j.riob.2018.11.003
+   Kilduff M, 2011, ACAD MANAGE REV, V36, P297
+   Klausen SH, 2010, CREATIVITY RES J, V22, P347, DOI 10.1080/10400419.2010.523390
+   Koppman S, 2016, ADMIN SCI QUART, V61, P291, DOI 10.1177/0001839215616840
+   Kuhn TS., 1962, STRUCTURE SCI REVOLU
+   Latour, 1987, SCI ACTION
+   Lena JC, 2019, ENTITLED: DISCRIMINATING TASTES AND THE EXPANSION OF THE ARTS, P1
+   Leschziner Vanina., 2015, CHEFS TABLE CULINARY
+   Leung AKY, 2008, AM PSYCHOL, V63, P169, DOI 10.1037/0003-066X.63.3.169
+   Leung MD, 2014, ORGAN SCI, V25, P171, DOI 10.1287/orsc.2013.0828
+   LIEBERSON S, 1992, AM J SOCIOL, V98, P511, DOI 10.1086/230048
+   Long Joshua., 2010, WEIRD CITY SENSE PLA
+   Lubart TI, 2000, CREATIVITY RES J, V13, P295
+   Marx Karl., 1972, MARX ENGELS READER
+   McRobbie A., 2018, BE CREATIVE MAKING L
+   Mears A, 2011, PRICING BEAUTY: THE MAKING OF A FASHION MODEL, P1
+   Menger Pierre-Michel., 2014, The Economics of Creativity
+   Menger PM, 1999, ANNU REV SOCIOL, V25, P541, DOI 10.1146/annurev.soc.25.1.541
+   MERTON RK, 1968, SCIENCE, V159, P56, DOI 10.1126/science.159.3810.56
+   Miller WW, 2017, REV EUR SCI SOC, V55, P17, DOI 10.4000/ress.3887
+   Miron-Spektor E., 2017, Handbook of Organizational Paradox: Approaches to Plurality, Tensions and Contradictions, DOI DOI 10.1093/OXFORDHB/9780198754428.013.22
+   Moeran Brian., 2011, Negotiating Values in the Creative Industries: Fairs, Festivals and Competitive Events
+   Morgan George., 2018, CREATIVITY HOAX PREC
+   Neckerman KM, 2007, ANNU REV SOCIOL, V33, P335, DOI 10.1146/annurev.soc.33.040406.131755
+   Negus K., 2000, Cultural Policy, V6, P259, DOI DOI 10.1080/10286630009358124
+   Nemedi D, 1998, DURKHEIMS ELEMENTARY, P162
+   Opazo MP, 2018, APPETITE INNOVATION
+   Osborne T, 2003, ECON SOC, V32, P507, DOI 10.1080/0308514032000141684
+   Pachucki MA, 2010, ANNU REV SOCIOL, V36, P205, DOI 10.1146/annurev.soc.012809.102615
+   Parsons HL, 1983, DIALECTICS HUMANISM, P31
+   Paulus PB, 2000, ORGAN BEHAV HUM DEC, V82, P76, DOI 10.1006/obhd.2000.2888
+   Pedersen J, 2019, TECHNOLOGY CREATIVIT
+   Pellow DN, 2013, ANNU REV SOCIOL, V39, P229, DOI 10.1146/annurev-soc-071312-145558
+   Peltoniemi M, 2015, INT J MANAG REV, V17, P41, DOI 10.1111/ijmr.12036
+   Perretti F, 2007, J ORGAN BEHAV, V28, P563, DOI 10.1002/job.464
+   Perry-Smith JE, 2006, ACAD MANAGE J, V49, P85, DOI 10.2307/20159747
+   Phillips DJ, 2011, AM J SOCIOL, V117, P420, DOI 10.1086/661757
+   Phillips DJ, 2001, AM J SOCIOL, V106, P1058, DOI 10.1086/320293
+   Powell WW, 2004, ANNU REV SOCIOL, V30, P199, DOI 10.1146/annurev.soc.29.010202.100037
+   Reagans R, 2001, ORGAN SCI, V12, P502, DOI 10.1287/orsc.12.4.502.10637
+   Reckwitz A., 2017, The Invention of Creativity: Modern Society and the Culture of the New
+   Reilly P, 2018, AM SOCIOL REV, V83, P933, DOI 10.1177/0003122418791174
+   ROSEN S, 1981, AM ECON REV, V71, P845
+   Rossman G, 2012, CLIMBING THE CHARTS: WHAT RADIO AIRPLAY TELLS US ABOUT THE DIFFUSION OF INNOVATION, P1
+   Runco MA, 2004, ANNU REV PSYCHOL, V55, P657, DOI 10.1146/annurev.psych.55.090902.141502
+   Runco MA, 2012, CREATIVITY RES J, V24, P92, DOI 10.1080/10400419.2012.650092
+   Sayers S, 2011, MARX AND ALIENATION: ESSAYS ON HEGELIAN THEMES, P14
+   Schumpeter J., 1943, CAPITALISM SOCIALISM, DOI [10.4324/9780203202050, DOI 10.4324/9780203202050]
+   Schumpeter JosephS., 1939, THEORETICAL HIST STA
+   Seong S, 2018, ACAD MANAGE J, V61, P966, DOI 10.5465/amj.2015.1354
+   Sgourev SV, 2016, CREATIVITY TWENTY FI, P103, DOI 10.1007/978-981-287-618-8_7
+   Sgourev SV, 2014, AM SOCIOL REV, V79, P282, DOI 10.1177/0003122414524575
+   Sgourev SV, 2013, ORGAN SCI, V24, P1601, DOI 10.1287/orsc.1120.0819
+   Simonton D. K, 1988, Scientific genius: a psychology of science
+   Simonton D.K., 1999, Origins of genius: Darwinian perspectives on creativity
+   Simonton DK, 2010, PHYS LIFE REV, V7, P156, DOI 10.1016/j.plrev.2010.02.002
+   Smits R, 2016, POETICS, V58, P29, DOI 10.1016/j.poetic.2016.08.002
+   Stein MI, 1953, J PSYCHOL, V36, P311, DOI 10.1080/00223980.1953.9712897
+   Sternberg RJ., 1999, HDB CREATIVITY, P3, DOI DOI 10.1017/CBO9780511807916.003
+   Storper M, 2009, J ECON GEOGR, V9, P147, DOI 10.1093/jeg/lbn052
+   Strang D, 2001, AM J SOCIOL, V107, P147, DOI 10.1086/323039
+   Teodoridis F, 2019, ADMIN SCI QUART, V64, P894, DOI 10.1177/0001839218793384
+   Uzzi B, 2005, AM J SOCIOL, V111, P447, DOI 10.1086/432782
+   Uzzi B, 2013, SCIENCE, V342, P468, DOI 10.1126/science.1240474
+   Warde A, 2015, ANNU REV SOCIOL, V41, P117, DOI 10.1146/annurev-soc-071913-043208
+   Weber K, 2005, POETICS, V33, P227, DOI 10.1016/j.poetic.2005.09.011
+   Weber Weber M. M., 1986, Economy and Society: An Outline of Interpretive Sociology
+   Weitzman ML, 1998, Q J ECON, V113, P331, DOI 10.1162/003355398555595
+   Wherry FrederickF., 2012, The Culture of Markets
+   White HarrisonC., 1993, CAREERS CREATIVITY S
+   Wijnberg NM, 2000, ORGAN SCI, V11, P323, DOI 10.1287/orsc.11.3.323.12499
+   Wohl H, 2019, POETICS, V76, DOI 10.1016/j.poetic.2019.03.003
+   Wray KB, 2005, PHILOS SCI, V72, P656, DOI 10.1086/505478
+   Zhou J, 2019, J MANAGE, V45, P2570, DOI 10.1177/0149206319827088
+NR 176
+TC 43
+Z9 48
+U1 4
+U2 68
+PU ANNUAL REVIEWS
+PI PALO ALTO
+PA 4139 EL CAMINO WAY, PO BOX 10139, PALO ALTO, CA 94303-0897 USA
+SN 0360-0572
+EI 1545-2115
+BN 978-0-8243-2246-5
+J9 ANNU REV SOCIOL
+JI Annu. Rev. Sociol.
+PY 2020
+VL 46
+BP 489
+EP 510
+DI 10.1146/annurev-soc-121919-054833
+PG 22
+WC Sociology
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH); Social Science Citation Index (SSCI)
+SC Sociology
+GA BQ4MJ
+UT WOS:000590460000024
+DA 2024-11-22
+ER
+
+PT J
+AU Wang, Q
+   Gong, ZT
+AF Wang, Qian
+   Gong, Zeng-Tai
+TI Structural centrality in fuzzy social networks based on fuzzy hypergraph
+   theory
+SO COMPUTATIONAL AND MATHEMATICAL ORGANIZATION THEORY
+LA English
+DT Article
+DE Fuzzy hypergraphs; Fuzzy social networks; Online social networks;
+   Structure centrality
+AB The knowledge of key network members is generally known to be critical to fuzzy social network analysis. Thus far, most studies aiming to identify critical members have taken network structural centrality measures. Since fuzzy graph cannot effectively depict the multidimensional relationships between the nodes of fuzzy social networks, a fuzzy social network model is developed complying with a mathematical theory of fuzzy hypergraph, allowing fuzzy social network to be represented more intuitively and visually. A fuzzy hypergraph model of fuzzy social network refers to a structure, vertex set acts as an object set, and the fuzzy relation in fuzzy relation structure is expressed by membership function and fuzzy relation matrix. With the fuzzy hypergraph model of fuzzy social networks, the definitions of structural centrality are given (i.e., degree centrality, relative degree centrality, closeness centrality, relative closeness centrality, betweenness centrality and relative betweenness centrality). Lastly, by analyzing examples, the process of building fuzzy social network with fuzzy hypergraph and the calculation method of centrality are illustrated.
+C1 [Wang, Qian] Northwest Minzu Univ, Coll Math & Comp Sci, Lanzhou 730030, Peoples R China.
+   [Gong, Zeng-Tai] Northwest Normal Univ, Coll Math & Stat, Lanzhou 730070, Peoples R China.
+C3 Northwest Minzu University; Northwest Normal University - China
+RP Wang, Q (corresponding author), Northwest Minzu Univ, Coll Math & Comp Sci, Lanzhou 730030, Peoples R China.
+EM wangq624@163.com
+RI Gong, Zitong/ISV-3214-2023
+FU National Natural Science Foundation of China [61763044]; Fundamental
+   Research Funds for the Central Universities [31920200065]
+FX This work is supported by National Natural Science Foundation of China
+   (61763044), supported by the Fundamental Research Funds for the Central
+   Universities (31920200065).
+CR Akkuzu G, 2019, LECT NOTES BUS INF P, V354, P74, DOI 10.1007/978-3-030-20482-2_7
+   Amato F, 2018, CONCURR COMP-PRACT E, V30, DOI 10.1002/cpe.4188
+   [Anonymous], 2006, COMPUT MATH ORG THEO
+   Brunelli M, 2014, INFORM FUSION, V17, P36, DOI 10.1016/j.inffus.2011.11.001
+   Cattaneo G, 2016, INFORM SCIENCES, V330, P342, DOI 10.1016/j.ins.2015.09.054
+   Chen QS, 2008, SOLVING ALGORITHMS T
+   Du W, 2017, CAAI T INTELL TECHNO, V2, P68, DOI 10.1049/trit.2017.0003
+   Fan TF, 2007, GRC: 2007 IEEE INTERNATIONAL CONFERENCE ON GRANULAR COMPUTING, PROCEEDINGS, P423, DOI 10.1109/GrC.2007.9
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   GOETSCHEL RH, 1995, FUZZY SET SYST, V76, P113, DOI 10.1016/0165-0114(94)00381-G
+   Halim Z, 2019, IEEE T KNOWL DATA EN
+   Halim Z, 2019, EVOL SYST-GER, V10, P333, DOI 10.1007/s12530-018-9223-2
+   Halim Z, 2017, INT J APPROX REASON, V90, P274, DOI 10.1016/j.ijar.2017.07.013
+   Hanneman RA, 2005, Introduction to social network methods
+   Hu RJ, 2015, FUZZY INF ENG, V7, P115, DOI 10.1016/j.fiae.2015.03.008
+   Ignjatovic J, 2010, FUZZY SET SYST, V161, P3081, DOI 10.1016/j.fss.2010.08.002
+   Klein A, 2015, TELEMAT INFORM, V32, P321, DOI 10.1016/j.tele.2014.09.008
+   Kundu S, 2015, INFORM SCIENCES, V314, P100, DOI 10.1016/j.ins.2015.03.065
+   Lee SH, 2010, J CONSUM PSYCHOL, V20, P66, DOI 10.1016/j.jcps.2009.10.001
+   Lu Z, 2016, KNOWL-BASED SYST, V105, P206, DOI 10.1016/j.knosys.2016.05.020
+   Madbouly MM, 2019, INT C ADV INT SYST I, P340
+   NIEMINEN J, 1974, SCAND J PSYCHOL, V15, P332, DOI 10.1111/j.1467-9450.1974.tb00598.x
+   Oh GR, 1994, J KOREAN I INTELL SY, V4, P3
+   Raj ED, 2016, KNOWL-BASED SYST, V113, P75, DOI 10.1016/j.knosys.2016.09.015
+   Rangasamy P, 2013, INFORM PROCESS LETT, V113, P599, DOI 10.1016/j.ipl.2013.05.004
+   Rashid A, 2019, J INTELL FUZZY SYST, V36, P3129, DOI 10.3233/JIFS-18263
+   Patiño MS, 2014, PROCD SOC BEHV, V160, P529, DOI 10.1016/j.sbspro.2014.12.166
+   Tuan TM, 2019, EVOL SYST-GER, V10, P629, DOI 10.1007/s12530-018-9251-y
+   Vista A, 2015, TELEMAT INFORM, V32, P416, DOI 10.1016/j.tele.2014.05.005
+   Volpentesta AP, 2008, EUR J OPER RES, V188, P390, DOI 10.1016/j.ejor.2007.04.023
+   Wu J, 2014, KNOWL-BASED SYST, V59, P97, DOI 10.1016/j.knosys.2014.01.017
+   Xiao YM, 2014, INORG CHEM COMMUN, V50, P31, DOI 10.1016/j.inoche.2014.10.016
+NR 32
+TC 6
+Z9 6
+U1 4
+U2 36
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1381-298X
+EI 1572-9346
+J9 COMPUT MATH ORGAN TH
+JI Comput. Math. Organ. Theory
+PD JUN
+PY 2020
+VL 26
+IS 2
+BP 236
+EP 254
+DI 10.1007/s10588-020-09312-x
+EA JUN 2020
+PG 19
+WC Computer Science, Interdisciplinary Applications; Mathematics,
+   Interdisciplinary Applications; Social Sciences, Mathematical Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science; Mathematics; Mathematical Methods In Social Sciences
+GA MP0ZI
+UT WOS:000543694700001
+DA 2024-11-22
+ER
+
+PT J
+AU Chai, D
+   Zhang, D
+   Sun, YH
+   Yang, S
+AF Chai, Duo
+   Zhang, Dong
+   Sun, Yonghao
+   Yang, Shan
+TI Research on the City Network Structure in the Yellow River Basin in
+   China Based on Two-Way Time Distance Gravity Model and Social Network
+   Analysis Method
+SO COMPLEXITY
+LA English
+DT Article
+AB Modern cities form city networks through complex social ties. City network research is widely applied to guide regional planning, infrastructure construction, and resource allocation. China put forward the Yellow River Basin Development Strategy in 2019, but no research has been conducted on regional social connections among cities. Based on the gravity model modified by two-way "time distance" between cities, this is the first study to empirically examine the intensity and structure of the entire city network in the Yellow River basin using the social network analysis method and ArcGIS software. The connection rules of the cross-city transfer of city officials in the basin are also investigated to illustrate the official ties between cities. The results suggest that the intensity of two-way connections between cities is generally low in the Yellow River basin and there is a positive correlation between city network development level and regional economic development level. The development gap between cities on the north and south banks is larger than that between the east and west regions, and some cities in the middle and upper reaches of the river are marginalized in the network. The status of the central cities in the Yellow River basin is distinct, but their connecting and leading abilities are not strong, showing an inverted T-shaped spatial distribution. The subgroups of city networks have strong internal connections, while the connection among subgroups is weak and the development shows a partitioned and fragmented pattern, making it difficult to form linkages among the upper, middle, and lower reaches. The "beaded chain" spatial development strategy can be adopted in the river basin planning, giving priority to strengthening the links within subgroups of cities and among adjacent subgroups, building central city chains, and reinforcing the overall basin management.
+C1 [Chai, Duo; Zhang, Dong; Sun, Yonghao; Yang, Shan] Cent Univ Finance & Econ, Sch Govt, Beijing 100081, Peoples R China.
+C3 Central University of Finance & Economics
+RP Chai, D (corresponding author), Cent Univ Finance & Econ, Sch Govt, Beijing 100081, Peoples R China.
+EM chaiduobnu@126.com
+OI CHAI, DUO/0000-0002-1427-2125
+FU National Natural Science Foundation of China [71974220]
+FX This study was supported by the National Natural Science Foundation of
+   China (Grant no. 71974220). The authors also gratefully acknowledge many
+   useful insights by Professor Yan Song of the University of North
+   Carolina at Chapel Hill.
+CR ARDEKANI S, 1987, TRANSPORT SCI, V21, P1, DOI 10.1287/trsc.21.1.1
+   Beaverstock J.V., 2002, Global Networks, V2, P111
+   [程遥 Cheng Yao], 2017, [经济地理, Economic Geography], V37, P25
+   Choi JH, 2006, GLOBAL NETW, V6, P81, DOI 10.1111/j.1471-0374.2006.00134.x
+   Derudder B, 2016, PROF GEOGR, V68, P624, DOI 10.1080/00330124.2016.1157500
+   [郭建科 Guo Jianke], 2016, [地理科学, Scientia Geographica Sinica], V36, P521
+   He H., 2014, ECON GEOGR, V34, P67
+   Hennemann S, 2015, ENVIRON PLANN A, V47, P1332, DOI 10.1177/0308518X15594909
+   Hu Q, 2016, JIANGXI SOCIAL SCI, V36, P75
+   Jennifer E.C., 2012, BIOCYCLE, V53, P52
+   [焦敬娟 Jiao Jingjuan], 2016, [地理学报, Acta Geographica Sinica], V71, P265
+   Jin XX, 2020, GROWTH CHANGE, V51, P833, DOI 10.1111/grow.12371
+   [李春平 Li Chunping], 2015, [干旱区资源与环境, Journal of Arid Land Resources and Environment], V29, P51
+   Li G., 2001, ECON GEOGR, V21, P33
+   Li G, 2011, ECON GEOGR, V31, P1630
+   Li J, 2016, HENAN SCI, V34, P1166
+   Li M., 2017, CHINA ANCIENT CITY, P25, DOI https://doi.org/10.19521/j.cnki.1673-1662.2017.01.006
+   Li X., 2011, URBAN STUD, V18, P80
+   [刘海洋 Liu Haiyang], 2020, [经济地理, Economic Geography], V40, P28
+   Liu J, 2016, HENAN SCI, V34, P424
+   [孟德友 MENG DeYou], 2011, [地理科学, Scientia Geographica Sinica], V31, P537
+   [孟浩 Meng Hao], 2019, [经济地理, Economic Geography], V39, P1
+   [苗长虹 MIAO Changhong], 2006, [地理研究, Geographical Research], V25, P222
+   Neal Z, 2014, TIJDSCHR ECON SOC GE, V105, P427, DOI 10.1111/tesg.12094
+   Nepelski D, 2015, URBAN STUD, V52, P721, DOI 10.1177/0042098014534735
+   [彭翀 Peng Chong], 2019, [经济地理, Economic Geography], V39, P68
+   [彭芳梅 Peng Fangmei], 2017, [经济地理, Economic Geography], V37, P57
+   Smith DA, 2001, AM BEHAV SCI, V44, P1656, DOI 10.1177/00027640121958104
+   Taylor PJ, 2002, URBAN STUD, V39, P2377
+   The Political Bureau of the CPC Central Committee, 2020, CHINA WATER CONSERVA, V70, P6
+   Tinbergen J., 1962, Shaping the World Economy, V3, P1
+   Vanderleeuwm J.M, 2011, J POLITICAL SCI, V19, P1
+   Varol C, 2011, HABITAT INT, V35, P9, DOI 10.1016/j.habitatint.2010.02.002
+   [王成 Wang Cheng], 2017, [地理研究, Geographical Research], V36, P2197
+   [王姣娥 Wang Jiao'e], 2014, [地理学报, Acta Geographica Sinica], V69, P1833
+   [王圣云 Wang Shengyun], 2020, [经济地理, Economic Geography], V40, P87
+   [王圣云 Wang Shengyun], 2019, [经济地理, Economic Geography], V39, P73
+   Wolfe AW, 1997, AM ETHNOL, V24, P219, DOI 10.1525/ae.1997.24.1.219
+   Wu Y, 2020, E CHINA EC MANAG, V34, P77
+   Xi J, 2019, CHINA WATER RESOURCE, P1
+   Zhu L.-J, 2003, J I SURVEYING MAPPIN, V20, P206
+   Zhuang R.X., 1996, SCI GEOGRAPHICA, V16, P51
+NR 42
+TC 11
+Z9 11
+U1 3
+U2 47
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1076-2787
+EI 1099-0526
+J9 COMPLEXITY
+JI Complexity
+PD DEC 22
+PY 2020
+VL 2020
+AR 6680954
+DI 10.1155/2020/6680954
+PG 19
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Science & Technology - Other Topics
+GA PS4YZ
+UT WOS:000607929900008
+OA gold
+DA 2024-11-22
+ER

@@ -1,0 +1,615 @@
+
+PT J
+AU Rodionov, A
+   Medeuov, D
+   Rodionova, K
+AF Rodionov, Adil
+   Medeuov, Darkhan
+   Rodionova, Kamilya
+TI Global connectedness of local NGOs: do different types of funding create
+   barriers for cooperation?
+SO THEORY AND SOCIETY
+LA English
+DT Article
+DE Civil society; Kazakhstan; Homophily; Network analysis; ERGM; Social
+   networks
+AB How does international financial aid affect the cooperative behavior of local non-governmental organizations (NGOs)? Can NGOs, while turning global, preserve peer connections with local actors and be engaged in local issues? The civil society literature contains competing perspectives on and reports of how international financial aid may restructure local civic networks. Some scholars argue that international support comes at the expense of local integration as inclusion in global networks takes local NGOs out of the local context, while others find evidence that organizations do not have to face "a forced choice", and may well be integrated both globally and locally. Drawing on this scholarship, we examine two hypotheses on how transnational funding influences cooperation patterns among NGOs. The hierarchy argument states that public entities tend to cooperate with internationally funded NGOs as external contact signals quality and trustworthiness. The segregation argument, on the contrary, suggests financial homophily according to which organizations are more likely to choose peers similar in sources of funding. To test these hypotheses, we apply Exponential Random Graph Models to the data on cooperation among 221 Kazakhstani NGOs. Results support the segregation hypothesis implying that NGOs are likely to have a bias towards similarly funded peers.
+C1 [Rodionov, Adil; Rodionova, Kamilya] LN Gumilyov Eurasian Natl Univ, Fac Social Sci, 6 Educ Bldg 4,Yanushkevich St, Nur Sultan 010008, Kazakhstan.
+   [Medeuov, Darkhan] Nazarbayev Univ, Sch Sci & Humanities, Dept Sociol & Anthropol, 53 Kabanbay Batyr Ave, Nur Sultan 010000, Kazakhstan.
+C3 L.N. Gumilyov Eurasian National University; Nazarbayev University
+RP Rodionov, A (corresponding author), LN Gumilyov Eurasian Natl Univ, Fac Social Sci, 6 Educ Bldg 4,Yanushkevich St, Nur Sultan 010008, Kazakhstan.
+EM adilrodion@gmail.com
+RI Rodionov, Adil/AAT-1780-2021; Medeuov, Darkhan/HKO-0645-2023
+OI Rodionov, Adil/0000-0002-9110-5259; Medeuov, Darkhan/0000-0002-1424-1062
+FU Open Society Foundation
+FX We are deeply indebted to Alina Khamatdinova and Andrey Yemelin, who
+   collected the original data and generously shared it with us. Dinara
+   Khairikenova assisted us at various stages of this research, and we are
+   immensely grateful to her. We are also grateful to Alima Bissenova for
+   organizing the discussion of this paper at the Nazarbayev University,
+   Aigul Zabirova for organizing the workshop at Eurasian National
+   University. Our thanks go out to Jan Fuhse, Mikhail Sokolov, Anna-Lena
+   Honig, and David Suarez, who provided fruitful and thorough critics of
+   early versions of this text, and the Theory and Society editors and
+   reviewers. Adil Rodionov also wishes to give thanks to the Weiser
+   Professional Development Program and especially to Pauline Jones, and
+   Global Faculty Grant Program initiated by the Open Society Foundation.
+CR Ansell C.K., 2003, Social movements and networks relational approaches to collective action, P123, DOI DOI 10.1093/0199251789.003.0006
+   Baldassarri D, 2007, AM J SOCIOL, V113, P735, DOI 10.1086/521839
+   Barabási AL, 2003, SCI AM, V288, P60, DOI 10.1038/scientificamerican0503-60
+   Barman EA, 2002, SOC FORCES, V80, P1191, DOI 10.1353/sof.2002.0020
+   Block P, 2015, SOC NETWORKS, V40, P163, DOI 10.1016/j.socnet.2014.10.005
+   Bob Clifford., 2005, The Marketing of Rebellion: Insurgents, Media, and International Activism, DOI [10.1017/CBO9780511756245, DOI 10.1017/CBO9780511756245]
+   Bromley P, 2020, SOC FORCES, V99, P281, DOI 10.1093/sf/soz138
+   Císar O, 2015, DEMOCRATIZATION, V22, P536, DOI 10.1080/13510347.2013.869742
+   Diani M., 2015, The cement of civil society: studying networks in localities, DOI DOI 10.1017/CBO9781316163733
+   Eliasoph N, 2009, VOLUNTAS, V20, P291, DOI 10.1007/s11266-009-9087-y
+   Esparza N, 2013, PUBLIC PERFORM MANAG, V36, P637, DOI 10.2753/PMR1530-9576360407
+   FELD SL, 1981, AM J SOCIOL, V86, P1015, DOI 10.1086/227352
+   Galaskiewicz J, 2006, ADMIN SCI QUART, V51, P337, DOI 10.2189/asqu.51.3.337
+   GRANOVETTER M, 1985, AM J SOCIOL, V91, P481, DOI 10.1086/228311
+   Henderson SL, 2002, COMP POLIT STUD, V35, P139, DOI 10.1177/0010414002035002001
+   Hillmann H, 2011, AM J SOCIOL, V117, P484, DOI 10.1086/661772
+   Hwang H, 2009, ADMIN SCI QUART, V54, P268, DOI 10.2189/asqu.2009.54.2.268
+   Ingram P, 2000, AM J SOCIOL, V106, P387, DOI 10.1086/316965
+   Kitts JA, 2017, AM J SOCIOL, V123, P850, DOI 10.1086/693704
+   Koslinski MC, 2009, WORLD DEV, V37, P714, DOI 10.1016/j.worlddev.2008.06.005
+   Kossinets G, 2006, SOC NETWORKS, V28, P247, DOI 10.1016/j.socnet.2005.07.002
+   Lomi A, 2014, ORGAN SCI, V25, P438, DOI 10.1287/orsc.2013.0850
+   Longhofer W, 2019, ADMIN SCI QUART, V64, P203, DOI 10.1177/0001839218762403
+   Luong PJ, 1999, EUROPE-ASIA STUD, V51, P1267, DOI 10.1080/09668139998534
+   Lusher D., 2013, EXPONENTIAL RANDOM G, DOI [10.1017/CBO9780511894701, DOI 10.1017/CBO9780511894701.006]
+   Marshall JH, 2014, NONPROF VOLUNT SEC Q, V43, P1033, DOI 10.1177/0899764013494117
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mendelson S. E., 2002, POWER LIMITS NGOS CR, DOI [https://doi.org/10.7312/mend12490, DOI 10.7312/MEND12490]
+   Mendelson SarahE., 2002, POWER LIMITS NGOS, P232
+   Murdie A, 2014, REV INT ORGAN, V9, P309, DOI 10.1007/s11558-013-9180-2
+   Murdie A, 2014, BRIT J POLIT SCI, V44, P1, DOI 10.1017/S0007123412000683
+   Nezhina TG, 2013, VOLUNTAS, V24, P335, DOI 10.1007/s11266-011-9256-7
+   Petrova T, 2007, COMP POLIT STUD, V40, P74, DOI 10.1177/0010414006291189
+   Putnam R. D., 1993, MAKING DEMOCRACY WOR
+   Richter James., 2002, The Power and Limits of NGOs: A Critical Look at Building Democracy in Eastern Europe and Eurasia, P54
+   Robins G, 2004, SOC NETWORKS, V26, P257, DOI 10.1016/j.socnet.2004.05.001
+   Satyanath S, 2017, J POLIT ECON, V125, P478, DOI 10.1086/690949
+   SCHELLING TC, 1971, J MATH SOCIOL, V1, P143, DOI 10.1080/0022250X.1971.9989794
+   Schofer E, 2011, AM J SOCIOL, V117, P539, DOI 10.1086/661593
+   Simpson CR, 2016, SOC NETWORKS, V46, P29, DOI 10.1016/j.socnet.2016.02.001
+   Simpson CR, 2015, SOC NETWORKS, V42, P42, DOI 10.1016/j.socnet.2015.02.007
+   Skocpol Theda., 2013, DIMINISHED DEMOCRACY
+   Spires AJ, 2011, J CIV SOC, V7, P305, DOI 10.1080/17448689.2011.605005
+   Spires AJ, 2011, AM J SOCIOL, V117, P1, DOI 10.1086/660741
+   Stacey S., 2001, VOLUNTAS, V12, P373
+   Stark D, 2006, THEOR SOC, V35, P323, DOI 10.1007/s11186-006-9007-8
+   Suárez D, 2016, VOLUNTAS, V27, P2617, DOI 10.1007/s11266-016-9706-3
+   Suárez D, 2014, VOLUNTAS, V25, P176, DOI 10.1007/s11266-012-9331-8
+   Taylor M, 2011, VOLUNTAS, V22, P311, DOI 10.1007/s11266-010-9155-3
+   United States Agency for International Development, 2014, 2014 CSO SUST IND CE
+   von Blow, 2010, BUILDING TRANSNATION, DOI [10.1017/CBO9780511761171, DOI 10.1017/CBO9780511761171]
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   White HC, 2008, IDENTITY AND CONTROL: HOW SOCIAL FORMATIONS EMERGE, 2ND EDITION, P1
+   Wimmer A, 2010, AM J SOCIOL, V116, P583, DOI 10.1086/653658
+NR 54
+TC 1
+Z9 2
+U1 1
+U2 11
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0304-2421
+EI 1573-7853
+J9 THEOR SOC
+JI Theory Soc.
+PD APR
+PY 2021
+VL 50
+IS 3
+BP 393
+EP 416
+DI 10.1007/s11186-021-09439-z
+EA MAR 2021
+PG 24
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA RQ4RW
+UT WOS:000625513500002
+DA 2024-11-22
+ER
+
+PT J
+AU Wice, EW
+   Saltz, JB
+AF Wice, Eric Wesley
+   Saltz, Julia Barbara
+TI Selection on heritable social network positions is context-dependent in
+   <i>Drosophila melanogaster</i>
+SO NATURE COMMUNICATIONS
+LA English
+DT Article
+ID INTERACTING PHENOTYPES; BEHAVIOR; CONSEQUENCES; ENVIRONMENT; EVOLUTION;
+   ECOLOGY; FITNESS; MODEL; DETERMINANTS; COEFFICIENT
+AB The evolvability of sociality requires that some variation in social groups is heritable. Experiments on fly social groups find that genotypic differences in network position are largely robust to changes in the environment flies experience, while selection on network position varies across environments.
+   Social group structure is highly variable and can be important for nearly every aspect of behavior and its fitness consequences. Group structure can be modeled using social network analysis, but we know little about the evolutionary factors shaping and maintaining variation in how individuals are embedded within their networks (i.e., network position). While network position is a pervasive target of selection, it remains unclear whether network position is heritable and can respond to selection. Furthermore, it is unclear how environmental factors interact with genotypic effects on network positions, or how environmental factors shape selection on heritable network structure. Here we show multiple measures of social network position are heritable, using replicate genotypes and replicate social groups of Drosophila melanogaster flies. Our results indicate genotypic differences in network position are largely robust to changes in the environment flies experience, though some measures of network position do vary across environments. We also show selection on multiple network position metrics depends on the environmental context they are expressed in, laying the groundwork for better understanding how spatio-temporal variation in selection contributes to the evolution of variable social group structure.
+C1 [Wice, Eric Wesley; Saltz, Julia Barbara] Rice Univ, Dept Biosci, Houston, TX 77005 USA.
+C3 Rice University
+RP Wice, EW (corresponding author), Rice Univ, Dept Biosci, Houston, TX 77005 USA.
+EM eric.wesley.wice@gmail.com
+RI Saltz, Julia/AAJ-4869-2020; Wice, Eric/O-5527-2017
+OI Saltz, Julia/0000-0002-0645-173X; Wice, Eric/0000-0001-5406-0314
+FU National Science Foundation [IOS-1856577]; Society for the Study of
+   Evolution Rosemary Grant; Houston Livestock Show and Rodeo award
+FX We thank V.H.W. Rudolf, S.P. Egan, F. Oswald and the Saltz laboratory
+   for discussions; E. Dullea, S. Maddox, N. Koonce, Q. Tran, J. Beshai, A.
+   Geiger, and R. Anderson, for data collection assistance; N.
+   Pinter-Wollman, T.W. Wey, and D.N. Fisher for assistance with network
+   and statistical analysis; and SJ Art and Frames for donating supplies.
+   This research was supported by the National Science Foundation
+   (IOS-1856577 to J.B.S.), a Society for the Study of Evolution Rosemary
+   Grant award to E.W.W., and a Houston Livestock Show and Rodeo award to
+   E.W.W.
+CR Akçay E, 2020, AM NAT, V195, P315, DOI 10.1086/706811
+   Aplin LM, 2013, ECOL LETT, V16, P1365, DOI 10.1111/ele.12181
+   Aplin LM, 2015, NATURE, V518, P538, DOI 10.1038/nature13998
+   Ashburner M., 1986, GENETICS BIOL DROSOP, V3e
+   Bailey NW, 2012, P ROY SOC B-BIOL SCI, V279, P3589, DOI 10.1098/rspb.2012.0631
+   Barron AB, 2000, J INSECT PHYSIOL, V46, P439, DOI 10.1016/S0022-1910(99)00129-8
+   Bartholomew NR, 2015, SCI REP-UK, V5, DOI 10.1038/srep15298
+   Bates D, 2015, J STAT SOFTW, V67, P1, DOI 10.18637/jss.v067.i01
+   Bentzur A, 2020, SOCIAL INTERACTION N, DOI [10.1101/2020.03.19.995837v1, DOI 10.1101/2020.03.19.995837V1]
+   Bijma P, 2007, GENETICS, V175, P289, DOI 10.1534/genetics.106.062729
+   Bijma P, 2011, GENETICS, V189, P1347, DOI 10.1534/genetics.111.130617
+   Billeter JC, 2012, P ROY SOC B-BIOL SCI, V279, P2417, DOI 10.1098/rspb.2011.2676
+   Blaszczyk MB, 2018, BEHAV ECOL SOCIOBIOL, V72, DOI 10.1007/s00265-017-2425-y
+   Bolker BM, 2009, TRENDS ECOL EVOL, V24, P127, DOI 10.1016/j.tree.2008.10.008
+   Brakefield PM, 2003, ECOLOGY, V84, P1661, DOI 10.1890/0012-9658(2003)084[1661:ASATDO]2.0.CO;2
+   Brent LJN, 2013, SCI REP-UK, V3, DOI 10.1038/srep01042
+   Brooks ME, 2017, R J, V9, P378, DOI 10.32614/RJ-2017-066
+   Burns JG, 2012, P NATL ACAD SCI USA, V109, P17239, DOI 10.1073/pnas.1121265109
+   Camus MF, 2019, ELIFE, V8, DOI 10.7554/eLife.47262
+   Caruso CM, 2017, AM NAT, V190, P363, DOI 10.1086/692760
+   Chapman T, 1996, P ROY SOC B-BIOL SCI, V263, P755, DOI 10.1098/rspb.1996.0113
+   Charmantier A, 2005, P ROY SOC B-BIOL SCI, V272, P1415, DOI 10.1098/rspb.2005.3117
+   Chenoweth SF, 2010, EVOLUTION, V64, P1849, DOI 10.1111/j.1558-5646.2010.00952.x
+   CONOVER WJ, 1981, TECHNOMETRICS, V23, P351, DOI 10.2307/1268225
+   Croft DP, 2011, TRENDS ECOL EVOL, V26, P502, DOI 10.1016/j.tree.2011.05.012
+   Croft DP, 2008, EXPLORING ANIMAL SOCIAL NETWORKS, P1
+   Csardi G., 2006, INTERJOURNAL COMPLEX, V1695, P1, DOI DOI 10.3724/SP.J.1087.2009.02191
+   Eyjolfsdottir E., 2014, Comput. Vis. - ECCV, P772, DOI DOI 10.1007/978-3-319-10590-1
+   Farine DR, 2017, METHODS ECOL EVOL, V8, P1309, DOI 10.1111/2041-210X.12772
+   Farine DR, 2015, TRENDS ECOL EVOL, V30, P609, DOI 10.1016/j.tree.2015.07.005
+   Firth JA, 2017, P ROY SOC B-BIOL SCI, V284, DOI 10.1098/rspb.2017.1939
+   Firth JA, 2015, CURR BIOL, V25, P3138, DOI 10.1016/j.cub.2015.09.075
+   Fisher DN, 2017, J EVOLUTION BIOL, V30, P2088, DOI 10.1111/jeb.13195
+   Formica VA, 2012, J EVOLUTION BIOL, V25, P130, DOI 10.1111/j.1420-9101.2011.02411.x
+   Formica V, 2017, BEHAV ECOL, V28, P85, DOI 10.1093/beheco/arw128
+   Fournier DA, 2012, OPTIM METHOD SOFTW, V27, P233, DOI 10.1080/10556788.2011.597854
+   Fowler JH, 2009, P NATL ACAD SCI USA, V106, P1720, DOI 10.1073/pnas.0806746106
+   Gempe T, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0031653
+   Harrison XA, 2018, PEERJ, V6, DOI 10.7717/peerj.4794
+   Hill W.G., 1996, Introduction to Quantitative Genetics
+   Hoppitt WJE, 2018, ANIM BEHAV, V136, P227, DOI 10.1016/j.anbehav.2017.08.029
+   Ilany A, 2016, NAT COMMUN, V7, DOI 10.1038/ncomms12084
+   James G, 2013, SPRINGER TEXTS STAT, V103, P1, DOI 10.1007/978-1-4614-7138-7_1
+   James R, 2009, BEHAV ECOL SOCIOBIOL, V63, P989, DOI 10.1007/s00265-009-0742-5
+   Johnson PCD, 2014, METHODS ECOL EVOL, V5, P944, DOI 10.1111/2041-210X.12225
+   Kappeler PM, 2019, BEHAV ECOL SOCIOBIOL, V73, DOI 10.1007/s00265-018-2613-4
+   Krause S, 2017, BEHAV ECOL, V28, P429, DOI 10.1093/beheco/arw177
+   Lea AJ, 2010, P NATL ACAD SCI USA, V107, P21587, DOI 10.1073/pnas.1009882107
+   Lee KP, 2008, P NATL ACAD SCI USA, V105, P2498, DOI 10.1073/pnas.0710787105
+   Lusseau D, 2008, ANIM BEHAV, V75, P1809, DOI 10.1016/j.anbehav.2007.10.029
+   Mackay TFC, 2012, NATURE, V482, P173, DOI 10.1038/nature10811
+   McGlothlin JW, 2010, EVOLUTION, V64, P2558, DOI 10.1111/j.1558-5646.2010.01012.x
+   Miller ML, 2020, BMC MED RES METHODOL, V20, DOI 10.1186/s12874-020-00936-w
+   Montiglio PO, 2018, ECOL EVOL, V8, P1451, DOI 10.1002/ece3.3753
+   Montiglio PO, 2013, PHILOS T R SOC B, V368, DOI 10.1098/rstb.2012.0343
+   Moore AJ, 1997, EVOLUTION, V51, P1352, DOI 10.1111/j.1558-5646.1997.tb01458.x
+   Moran MD, 2003, OIKOS, V100, P403, DOI 10.1034/j.1600-0706.2003.12010.x
+   Muller Z, 2018, ANIM BEHAV, V146, P37, DOI 10.1016/j.anbehav.2018.10.006
+   Nakagawa S, 2017, J R SOC INTERFACE, V14, DOI 10.1098/rsif.2017.0213
+   Nakagawa S, 2013, METHODS ECOL EVOL, V4, P133, DOI 10.1111/j.2041-210x.2012.00261.x
+   Oh KP, 2010, AM NAT, V176, pE80, DOI 10.1086/655216
+   Pankratz VS, 2005, GENET EPIDEMIOL, V28, P97, DOI 10.1002/gepi.20043
+   Partridge L, 2005, MECH AGEING DEV, V126, P938, DOI 10.1016/j.mad.2005.03.023
+   Pasquaretta C, 2016, P ROY SOC B-BIOL SCI, V283, DOI 10.1098/rspb.2015.2954
+   POWELL J.R., 1997, PROGR PROSPECTS EVOL
+   R Core Team, 2020, LANG ENV STAT COMP
+   Ramdya P, 2015, NATURE, V519, P233, DOI 10.1038/nature14024
+   Raubenheimer D, 2009, FUNCT ECOL, V23, P4, DOI 10.1111/j.1365-2435.2009.01522.x
+   Saltz JB, 2018, ECOL EVOL, V8, P6342, DOI 10.1002/ece3.4128
+   Schneider J, 2014, BIOL LETTERS, V10, DOI 10.1098/rsbl.2014.0749
+   Schneider J, 2012, P NATL ACAD SCI USA, V109, P17174, DOI 10.1073/pnas.1121252109
+   Shizuka D, 2020, BEHAV ECOL, V31, P1, DOI 10.1093/beheco/arz083
+   Siepielski AM, 2017, SCIENCE, V355, P959, DOI 10.1126/science.aag2773
+   SIMPSON SJ, 1993, PHILOS T R SOC B, V342, P381, DOI 10.1098/rstb.1993.0166
+   Smith JE, 2018, PHILOS T R SOC B, V373, DOI 10.1098/rstb.2017.0249
+   Stroeymeyt N, 2018, SCIENCE, V362, P941, DOI 10.1126/science.aat4793
+   Sueur C, 2019, PRIMATES, V60, P167, DOI 10.1007/s10329-018-0682-7
+   Vanin S, 2012, NATURE, V484, P371, DOI 10.1038/nature10991
+   VIA S, 1987, GENET RES, V49, P147, DOI 10.1017/S001667230002694X
+   Visscher PM, 2008, NAT REV GENET, V9, P255, DOI 10.1038/nrg2322
+   Wahlsten D, 2001, PHYSIOL BEHAV, V73, P695, DOI 10.1016/S0031-9384(01)00527-3
+   Wang LM, 2010, NATURE, V463, P227, DOI 10.1038/nature08678
+   Webber QMR, 2019, ANIM BEHAV, V149, P77, DOI 10.1016/j.anbehav.2019.01.010
+   Wey T, 2008, ANIM BEHAV, V75, P333, DOI 10.1016/j.anbehav.2007.06.020
+   Wey TW, 2013, ANIM BEHAV, V85, P1407, DOI 10.1016/j.anbehav.2013.03.035
+   Wey TW, 2012, BEHAV ECOL SOCIOBIOL, V66, P1075, DOI 10.1007/s00265-012-1358-8
+   Wice Eric Wesley, 2021, Zenodo
+   Wilson ADM, 2013, BEHAV ECOL SOCIOBIOL, V67, P163, DOI 10.1007/s00265-012-1428-y
+   Wooddell LJ, 2020, AM J PRIMATOL, V82, DOI 10.1002/ajp.23024
+NR 89
+TC 19
+Z9 22
+U1 0
+U2 12
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+EI 2041-1723
+J9 NAT COMMUN
+JI Nat. Commun.
+PD JUN 7
+PY 2021
+VL 12
+IS 1
+AR 3357
+DI 10.1038/s41467-021-23672-1
+PG 9
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA UD6ON
+UT WOS:000687325100056
+PM 34099680
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Bohnert, M
+   Gracia, P
+AF Bohnert, Melissa
+   Gracia, Pablo
+TI Emerging Digital Generations? Impacts of Child Digital Use on Mental and
+   Socioemotional Well-Being across Two Cohorts in Ireland, 2007-2018
+SO CHILD INDICATORS RESEARCH
+LA English
+DT Article
+DE Digital use; Media; Child socioemotional wellbeing; Cohort effects;
+   Ireland
+ID BEHAVIOR LONGITUDINAL FINDINGS; ONLINE SOCIAL NETWORKING; MEDIA USE;
+   INTERNET USE; INFORMATION-TECHNOLOGY; ACADEMIC-PERFORMANCE; DEPRESSIVE
+   SYMPTOMS; TIME-USE; ADOLESCENTS; HEALTH
+AB Despite the growing body of literature on how digital technologies impact child well-being, previous research has provided little evidence on recent digital trends. This paper examines the patterns and effects of digital use on child socioemotional well-being across two cohorts of children grown up ten years apart during the 'digital age': the 1998 cohort (interviewed in 2007/08) and the 2008 cohort (interviewed in 2017/18). Multivariate linear regression models were conducted for these two cohorts from the Growing Up in Ireland (GUI) study, a multi-cohort longitudinal study with rich comparable data on a large sample of 9-year olds (N = 13,203). Results show that (i) in 2017/18 children were more active in digital devices and social media, while in 2007/2008 children spent more time watching TV and adopted less diversified forms of media engagement; (ii) spending more than 3 daily hours on TV/digital activities was associated with significant declines in child socioemotional well-being, while such effects were stronger in 2017/18 than in 2007/08; (iii) media engagement (but not other forms of digital engagement) was associated with moderate declines in socioemotional well-being, both in 2007/08 and in 2017/18; (iv) while children's media and digital engagement differed by the child gender and socioeconomic background, none of these variables moderated the effects of digital use on children's socioemotional well-being, neither in 2007/08 nor in 2017/18. Overall, the study reveals persistence, but also some important changes, in recent trends on children's digital use and its impact on socioemotional well-being in Ireland.
+C1 [Bohnert, Melissa; Gracia, Pablo] Trinity Coll Dublin, Dept Sociol, Sch Social Sci & Philosophy, Coll Green 1, Dublin 02, Ireland.
+C3 Trinity College Dublin
+RP Bohnert, M (corresponding author), Trinity Coll Dublin, Dept Sociol, Sch Social Sci & Philosophy, Coll Green 1, Dublin 02, Ireland.
+EM bohnertm@tcd.ie
+RI Bohnert, Melissa/ADT-1198-2022
+OI Gracia, Professor Pablo/0000-0001-8294-2816; Bohnert,
+   Melissa/0000-0002-8077-4297
+FU European Commission H2020 within the call `DT-TRANSFORMATIONS-07-2019
+   -The impact of technological transformations on children and youth'
+   [870578]
+FX This study is integrated within the DIGYMATEX project (Grant agreement
+   ID: 870578), funded by the European Commission H2020 within the call
+   `DT-TRANSFORMATIONS-07-2019 -The impact of technological transformations
+   on children and youth.' Project link: http://www.digymatex.eu.
+CR [Anonymous], 2015, GOOD CHILDHOOD REPOR
+   [Anonymous], 2014, New media society
+   [Anonymous], 2015, CENS 2002 PRINC SOC
+   Babic MJ, 2017, MENT HEALTH PHYS ACT, V12, P124, DOI 10.1016/j.mhpa.2017.04.001
+   Baker RK, 2011, CYBERPSYCH BEH SOC N, V14, P395, DOI 10.1089/cyber.2010.0016
+   Barker V, 2009, CYBERPSYCHOL BEHAV, V12, P209, DOI 10.1089/cpb.2008.0228
+   Ben-Arieh E, 2002, CHILDHOOD, V9, P225, DOI 10.1177/0907568202009002805
+   Bennett S, 2008, BRIT J EDUC TECHNOL, V39, P775, DOI 10.1111/j.1467-8535.2007.00793.x
+   Berryman C, 2018, PSYCHIAT QUART, V89, P307, DOI 10.1007/s11126-017-9535-6
+   Best P, 2014, CHILD YOUTH SERV REV, V41, P27, DOI 10.1016/j.childyouth.2014.03.001
+   Blair S.L., 2015, Technology and Youth: Growing Up in a Digital World
+   Boe T, 2012, SOC PSYCH PSYCH EPID, V47, P1557, DOI 10.1007/s00127-011-0462-9
+   Booker CL, 2018, BMC PUBLIC HEALTH, V18, DOI 10.1186/s12889-018-5220-4
+   Booker CL, 2015, AM J PUBLIC HEALTH, V105, P173, DOI 10.2105/AJPH.2013.301783
+   Brito R, 2018, BRIT J EDUC TECHNOL, V49, P807, DOI 10.1111/bjet.12655
+   Brooks FM, 2016, J YOUTH STUD, V19, P36, DOI 10.1080/13676261.2015.1048200
+   Bruggeman H, 2019, COMPUT HUM BEHAV, V101, P104, DOI 10.1016/j.chb.2019.07.015
+   Camerini AL, 2018, NEW MEDIA SOC, V20, P2489, DOI 10.1177/1461444817725918
+   Campbell C, 2013, SOC SCI RES, V42, P1693, DOI 10.1016/j.ssresearch.2013.07.014
+   Campbell WK, 2015, IND ORGAN PSYCHOL-US, V8, P324, DOI 10.1017/iop.2015.43
+   Cantillon B., 2017, Children of austerity. Impact of the great recession on child poverty in rich countries
+   Casey A, 2012, OXFORD REV EDUC, V38, P617, DOI 10.1080/03054985.2012.731207
+   Castellacci F, 2018, RES POLICY, V47, P308, DOI 10.1016/j.respol.2017.11.007
+   Davis E, 2010, ACAD PEDIATR, V10, P41, DOI 10.1016/j.acap.2009.08.007
+   Davis K, 2012, J ADOLESCENCE, V35, P1527, DOI 10.1016/j.adolescence.2012.02.013
+   De Waal E, 2010, NEW MEDIA SOC, V12, P477, DOI 10.1177/1461444809341859
+   Dempsey S, 2019, ECON INNOV NEW TECH, V28, P798, DOI 10.1080/10438599.2018.1559786
+   Fahy AE, 2016, J ADOLESCENT HEALTH, V59, P502, DOI 10.1016/j.jadohealth.2016.06.006
+   Fioravanti G, 2012, CYBERPSYCH BEH SOC N, V15, P318, DOI 10.1089/cyber.2011.0358
+   Fomby P, 2021, YOUTH SOC, V53, P585, DOI [10.1177/0044118x19868365, 10.1177/0044118X19868365]
+   Fortunati L, 2019, CONVERGENCE-US, V25, P95, DOI 10.1177/1354856517692309
+   Gentile DA., 2013, OXFORD HDB MEDIA PSY, P382, DOI [10.1093/oxfordhb/9780195398809.013.0022, DOI 10.1093/OXFORDHB/9780195398809.013.0022]
+   George MJ, 2018, CHILD DEV, V89, P78, DOI 10.1111/cdev.12819
+   Gershuny J, 2003, SOC FORCES, V82, P141, DOI 10.1353/sof.2003.0086
+   Goode JA, 2020, CHILD INDIC RES, V13, P1107, DOI 10.1007/s12187-019-09675-x
+   Goodman A, 2011, J CHILD PSYCHOL PSYC, V52, P100, DOI 10.1111/j.1469-7610.2010.02278.x
+   Gracia P., 2020, SOCARXIV PAPERS, DOI [10.31235/osf.io/nruq7, DOI 10.31235/OSF.IO/NRUQ7]
+   Gracia P, 2020, SAGE ENCY CHILDREN C, P504
+   Gracia P, 2020, J MARRIAGE FAM, V82, P1304, DOI 10.1111/jomf.12626
+   Gracia P, 2018, EUR SOCIOL REV, V34, P518, DOI 10.1093/esr/jcy029
+   Gracia P, 2015, SOC SCI RES, V52, P290, DOI 10.1016/j.ssresearch.2015.02.005
+   Gross EF, 2009, DEV PSYCHOL, V45, P1787, DOI 10.1037/a0016541
+   Holloway D. J., 2015, M C J, V18, P5
+   Hope S, 2014, J EPIDEMIOL COMMUN H, V68, P950, DOI 10.1136/jech-2013-203673
+   Hwang JM, 2009, NEW MEDIA SOC, V11, P1101, DOI 10.1177/1461444809341699
+   Jackson LA, 2008, CYBERPSYCHOL BEHAV, V11, P755, DOI 10.1089/cpb.2008.0035
+   Kelly Y, 2018, ECLINICALMEDICINE, V6, P59, DOI 10.1016/j.eclinm.2018.12.005
+   Klanscek HJ, 2014, INT J EQUITY HEALTH, V13, DOI 10.1186/1475-9276-13-26
+   Koenker R, 2001, J ECON PERSPECT, V15, P143, DOI 10.1038/s41592-019-0406-y
+   Kross E, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0069841
+   Kucirkova N, 2015, THINK SKILLS CREAT, V17, P59, DOI 10.1016/j.tsc.2015.05.003
+   Leathers H., 2013, Toddlers on Technology: A Parents Guide
+   Lemola S, 2015, J YOUTH ADOLESCENCE, V44, P405, DOI 10.1007/s10964-014-0176-x
+   Leung L, 2014, HEALTH PSYCHOL BEHAV, V2, P424, DOI 10.1080/21642850.2014.902316
+   Li C, 2013, STATA J, V13, P795, DOI 10.1177/1536867X1301300407
+   Liff Sonia, 2004, OXFORD INTERNET I, V2, P1
+   Liu MM, 2016, FRONT PLANT SCI, V7, DOI 10.3389/fpls.2016.01898
+   Livingstone S, 2007, NEW MEDIA SOC, V9, P671, DOI 10.1177/1461444807080335
+   Livingstone S, 2018, NEW MEDIA SOC, V20, P1103, DOI 10.1177/1461444816685930
+   Livingstone S, 2010, NEW MEDIA SOC, V12, P309, DOI 10.1177/1461444809342697
+   Mannheim K., 1952, ESSAYS SOCIOLOGY KNO, P276, DOI DOI 10.1016/S0168-8227(00)00198-4
+   Mascheroni G., 2014, NET CHILDREN GO MOBI, V2nd
+   Mascheroni G, 2016, NEW MEDIA SOC, V18, P1657, DOI 10.1177/1461444814567986
+   Nikken P, 2018, J CHILD FAM STUD, V27, P1844, DOI 10.1007/s10826-018-1018-3
+   Noonan K, 2018, SSM-POPUL HLTH, V4, P280, DOI 10.1016/j.ssmph.2018.03.002
+   O'Neill B., 2015, Net children go mobile: Full findings from Ireland
+   ONeill B., 2011, RISKS SAFETY CHILDRE
+   Orben A, 2019, P NATL ACAD SCI USA, V116, P15334, DOI 10.1073/pnas.1909553116
+   Orben A, 2019, PSYCHOL SCI, V30, P682, DOI 10.1177/0956797619830329
+   Orben A, 2019, NAT HUM BEHAV, V3, P173, DOI 10.1038/s41562-018-0506-1
+   Pantic I, 2012, PSYCHIAT DANUB, V24, P90
+   Parkes A, 2013, ARCH DIS CHILD, V98, P341, DOI 10.1136/archdischild-2011-301508
+   Piotrowska PJ, 2015, CLIN PSYCHOL REV, V35, P47, DOI 10.1016/j.cpr.2014.11.003
+   Przybylski AK, 2017, PSYCHOL SCI, V28, P204, DOI 10.1177/0956797616678438
+   Quail A., 2019, Growing up in Ireland: A Summary Guide to Cohort '08 at 9 Years (Wave 5 of the Infant Cohort at 9 Years)
+   Reinhard E, 2018, AM J EPIDEMIOL, V187, P1438, DOI 10.1093/aje/kwy001
+   Rey-López JP, 2010, PREV MED, V51, P50, DOI 10.1016/j.ypmed.2010.03.013
+   Selfhout MHW, 2009, J ADOLESCENCE, V32, P819, DOI 10.1016/j.adolescence.2008.10.011
+   Shu XL, 2018, SOC FORCES, V96, P1243, DOI 10.1093/sf/sox090
+   Stiglic N, 2019, BMJ OPEN, V9, DOI 10.1136/bmjopen-2018-023191
+   Twenge JM, 2018, CLIN PSYCHOL SCI, V6, P3, DOI 10.1177/2167702617723376
+   Valkenburg P., 2017, How Media Attract and Affect Youth
+   van den Eijnden RJJM, 2008, DEV PSYCHOL, V44, P655, DOI 10.1037/0012-1649.44.3.655
+   van der Aa N, 2009, J YOUTH ADOLESCENCE, V38, P765, DOI 10.1007/s10964-008-9298-3
+   Verduyn P, 2017, SOC ISS POLICY REV, V11, P274, DOI 10.1111/sipr.12033
+   Vilhelmson B, 2018, NEW MEDIA SOC, V20, P2898, DOI 10.1177/1461444817737296
+   Wight VR, 2009, SOC SCI RES, V38, P792, DOI 10.1016/j.ssresearch.2009.05.009
+   Williams AL, 2008, ADOLESCENCE, V43, P253
+   Williams J., 2009, Growing up in Ireland: National longitudinal study of children- The lives of 9-year-olds, DOI DOI 10.1037/E530882013-001
+   Yang Y, 2008, AM SOCIOL REV, V73, P204, DOI 10.1177/000312240807300202
+NR 90
+TC 25
+Z9 29
+U1 5
+U2 34
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1874-897X
+EI 1874-8988
+J9 CHILD INDIC RES
+JI Child Indic. Res.
+PD APR
+PY 2021
+VL 14
+IS 2
+SI SI
+BP 629
+EP 659
+DI 10.1007/s12187-020-09767-z
+EA AUG 2020
+PG 31
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA QX3GP
+UT WOS:000564519000001
+OA hybrid
+DA 2024-11-22
+ER
+
+PT J
+AU Zhuang, YB
+   Li, ZH
+   Zhuang, YJ
+AF Zhuang, Yun-Bei
+   Li, Zhi-Hong
+   Zhuang, Yun-Jing
+TI Identification of influencers in online social networks: measuring
+   influence considering multidimensional factors exploration
+SO HELIYON
+LA English
+DT Article
+DE Online social networks; Social influence measurement; Multidimensional;
+   Factors exploration; Topic-level network; Global-level network
+ID NODES IDENTIFICATION; INFORMATION; CENTRALITY; STRENGTH; DIFFUSION;
+   POWER
+AB Online Social networks exhibit heterogeneous nature with nodes playing far different roles in structure and function. To identify influencers is thus very significant, allowing us to control the outbreak of public negative opinion, to conduct advertisements for e-commercial products, to predict popular scientific publications, and so on. The identification of influencers attracts increasing attentions from both computer science and communication science, with multiple dimensional metrics ranging from structure-based to information-based and action-based. However, most work simply rely on one dimensional metrics. Therefore, in this paper, we analyze three dimensional characteristics (structure-based, information-based, and action-based factors) to develop the multi-dimensional social influence (MSI) measurement approach. With topic distillation and conditional expectation, the MSI approach can not only measure users topic-level influence, but also measure users global-level influence. Based on data collected from SinaWeibo.com, the experimental results show that the proposed framework outperforms two traditional methods (LeaderRank and FBI) both on the topic-level and the global-level. The proposed framework can be effectively applied to promote word-of-mouth marketing, and to steer public opinion in certain directions, even to support decisions during a negotiation process.
+C1 [Zhuang, Yun-Bei] Shandong Univ Technol, Sch Econ, Zibo 255000, Peoples R China.
+   [Li, Zhi-Hong] South China Univ Technol, Sch Business Adm, Guangzhou 510641, Peoples R China.
+   [Zhuang, Yun-Jing] Jinan Univ, Literature Sch, Jinan 255022, Peoples R China.
+C3 Shandong University of Technology; South China University of Technology;
+   University of Jinan
+RP Zhuang, YB (corresponding author), Shandong Univ Technol, Sch Econ, Zibo 255000, Peoples R China.
+EM zhuangyunbei@139.com
+CR ALBA RD, 1976, SOCIOL METHOD RES, V5, P77, DOI 10.1177/004912417600500103
+   Albert R, 2000, NATURE, V406, P378, DOI 10.1038/35019019
+   Arnaudon Alexis, 2019, ARXIV PREPRINT ARXIV
+   Bao Xue-cai, 2012, Systems Engineering and Electronics, V34, P168, DOI 10.3969/j.issn.1001-506X.2012.01.31
+   Barbieri N, 2013, KNOWL INF SYST, V37, P555, DOI 10.1007/s10115-013-0646-6
+   Brass D., 1995, Research in personnel and human resources management, P39
+   Chen DB, 2012, PHYSICA A, V391, P1777, DOI 10.1016/j.physa.2011.09.017
+   Chen X, 2017, J MARKETING RES, V54, P187, DOI 10.1509/jmr.12.0511
+   Chen X, 2015, COMPLEX INTELL SYST, V1, P37, DOI 10.1007/s40747-016-0006-8
+   Chen YL, 2014, ELECTRON COMMER R A, V13, P431, DOI 10.1016/j.elerap.2014.10.001
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   COOK KS, 1978, AM SOCIOL REV, V43, P721, DOI 10.2307/2094546
+   Domingos P., 2001, KDD-2001. Proceedings of the Seventh ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, P57, DOI 10.1145/502512.502525
+   Fan CJ, 2020, NAT MACH INTELL, V2, P317, DOI 10.1038/s42256-020-0177-2
+   Fan Tianlong, 2019, ARXIV PREPRINT ARXIV
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   FREEMAN LC, 1991, SOC NETWORKS, V13, P141, DOI 10.1016/0378-8733(91)90017-N
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Gu J, 2017, EPL-EUROPHYS LETT, V118, DOI 10.1209/0295-5075/118/68002
+   Guan WQ, 2014, PHYSICA A, V395, P340, DOI 10.1016/j.physa.2013.09.059
+   Hofmann Thomas, 2004, INT ACM SIGIR C RES, P56
+   Hu C, 2016, IEEE T KNOWL DATA EN, V28, P1635, DOI 10.1109/TKDE.2016.2538223
+   Jendoubi S, 2017, KNOWL-BASED SYST, V121, P58, DOI 10.1016/j.knosys.2017.01.014
+   Jiang CX, 2014, IEEE T SIGNAL PROCES, V62, P4573, DOI 10.1109/TSP.2014.2339799
+   Ju CH, 2017, MULTIMED TOOLS APPL, V76, P17577, DOI 10.1007/s11042-017-4408-4
+   Kang CH, 2016, ARTIF INTELL, V239, P70, DOI 10.1016/j.artint.2016.06.008
+   Kitsak M, 2010, NAT PHYS, V6, P888, DOI [10.1038/NPHYS1746, 10.1038/nphys1746]
+   Kleinberg JM, 1999, J ACM, V46, P604, DOI 10.1145/324133.324140
+   Kovács IA, 2015, NATURE, V524, P38, DOI 10.1038/524038a
+   Kwak HG, 2010, INT CONF ADV COMMUN, P591
+   LATANE B, 1981, AM PSYCHOL, V36, P343, DOI 10.1037/0003-066X.36.4.343
+   Li F, 2014, DECIS SUPPORT SYST, V62, P119, DOI 10.1016/j.dss.2014.03.008
+   Li YM, 2011, INFORM SCIENCES, V181, P5143, DOI 10.1016/j.ins.2011.07.023
+   Li Z, 2019, SCI REP-UK, V9, DOI 10.1038/s41598-019-44930-9
+   Liberatore F, 2017, COMPUT COMMUN, V110, P59, DOI 10.1016/j.comcom.2017.06.001
+   Liu HF, 2013, IEEE DATA MINING, P1133, DOI 10.1109/ICDM.2013.166
+   Liu JG, 2016, SCI REP-UK, V6, DOI 10.1038/srep21380
+   Liu SX, 2015, INFORM SCIENCES, V306, P34, DOI 10.1016/j.ins.2015.01.034
+   Lü LY, 2016, PHYS REP, V650, P1, DOI 10.1016/j.physrep.2016.06.007
+   Lü L, 2016, NAT COMMUN, V7, DOI [10.1038/ncomms10168, 10.1038/ncomms11119]
+   Lü LY, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0021202
+   Luo P, 2016, ELECTRON COMMER R A, V20, P15, DOI 10.1016/j.elerap.2016.09.004
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Morone F, 2019, NAT PHYS, V15, P95, DOI 10.1038/s41567-018-0304-8
+   PAGE L., 1999, Technical Report
+   Pajo Sanjin, 2015, Procedia Engineering, V131, P1140, DOI 10.1016/j.proeng.2015.12.434
+   Pajo Sanjin, 2016, TECHNOL ANAL STRAT M, V29, P1
+   Peng SC, 2017, INFORM SCIENCES, V379, P146, DOI 10.1016/j.ins.2016.08.023
+   Qiu JZ, 2018, KDD'18: PROCEEDINGS OF THE 24TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY & DATA MINING, P2110, DOI 10.1145/3219819.3220077
+   Roelens I, 2016, DECIS SUPPORT SYST, V91, P25, DOI 10.1016/j.dss.2016.07.005
+   SHANNON CE, 1948, BELL SYST TECH J, V27, P623, DOI 10.1002/j.1538-7305.1948.tb00917.x
+   Sikic M, 2013, EUR PHYS J B, V86, DOI 10.1140/epjb/e2013-31025-5
+   Stauder Johannes, 2014, SOCIAL STRUCTURE OPP
+   Tajfel H., 2004, POLITICAL PSYCHOL KE
+   [谭跃进 Tan Yuejin], 2006, [系统工程理论与实践, Systems Engineering-Theory & Practice], V26, P79
+   Tuarob S, 2015, J MECH DESIGN, V137, DOI 10.1115/1.4030049
+   Wang GJ, 2014, IEEE T PARALL DISTR, V25, P2286, DOI 10.1109/TPDS.2013.135
+   Xu X, 2020, SCI REP-UK, V10, DOI 10.1038/s41598-020-59616-w
+   Yang Y, 2017, IEEE T KNOWL DATA EN, V29, P2615, DOI 10.1109/TKDE.2017.2734667
+   ZHANG J., 2020, Ecol. Economy
+   Zhang Yuchi, 2016, INT J RES MARKET, V34
+   Zhao DW, 2014, PHYS SCRIPTA, V89, DOI 10.1088/0031-8949/89/01/015203
+   Zhuang YB, 2017, PHYSICA A, V484, P141, DOI 10.1016/j.physa.2017.04.129
+   Zhuang Yun-Bei, 2020, USER INFLUENCE EVALU
+NR 64
+TC 13
+Z9 13
+U1 1
+U2 24
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+EI 2405-8440
+J9 HELIYON
+JI Heliyon
+PD APR
+PY 2021
+VL 7
+IS 4
+AR e06472
+DI 10.1016/j.heliyon.2021.e06472
+EA APR 2021
+PG 13
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA UW4KX
+UT WOS:000700128000003
+PM 33898799
+OA gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Zhao, Q
+   Shen, Y
+   Li, CQ
+AF Zhao, Qiang
+   Shen, Yue
+   Li, Chaoqian
+TI Credit Behaviors of Rural Households in the Perspective of Complex
+   Social Networks
+SO COMPLEXITY
+LA English
+DT Article
+ID ACCESS EVIDENCE; MARKETS
+AB With the increasing number of social networks emerging and evolving, the influence of social networks on human behavior is now again a subject of discussion in academe. Dynamics in social networks, such as opinion formation and information sharing, are restricting or proliferating members' behavior on social networks, while new social network dynamics are created by interpersonal contacts and interactions. Based on this and against the backdrop of unfavourable rural credit development, this article uses CHFS data to discuss the whole and heterogeneous impact of social networks on rural household credit behavior. The results show that (1) social networks can effectively promote rural household credit behavior; (2) social networks have a significant positive impact on both formal credit and informal credit, but the influence of the latter is stronger; (3) both emotional networks and instrumental networks have a positive impact on formal credit and informal credit, and their influences are stronger on informal credit; (4) the influence of emotional network is stronger than instrumental networks on either formal credit or informal credit.
+C1 [Zhao, Qiang; Shen, Yue; Li, Chaoqian] Xi An Jiao Tong Univ, Sch Econ & Finance, Xian 710064, Peoples R China.
+C3 Xi'an Jiaotong University
+RP Shen, Y (corresponding author), Xi An Jiao Tong Univ, Sch Econ & Finance, Xian 710064, Peoples R China.
+EM 965446620@qq.com; 154271416@qq.com; lcq1993@stu.xjtu.edu.cn
+FU National Natural Science Foundation of China [71974157, 72003113]
+FX This study was supported by the National Natural Science Foundation of
+   China (71974157 and 72003113).
+CR Attanasio O, 2012, AM ECON J-APPL ECON, V4, P134, DOI 10.1257/app.4.2.134
+   Bathish R, 2017, J APPL SOC PSYCHOL, V47, P35, DOI 10.1111/jasp.12420
+   Chen X., 2018, JIANGXI SOCIAL SCI, V38, P218
+   Giné X, 2011, J DEV ECON, V96, P16, DOI 10.1016/j.jdeveco.2010.07.001
+   Gui Y., 2008, Sociol. Res, V3, P122, DOI [10.19934/j.cnki.shxyj.2008.03.006, DOI 10.19934/J.CNKI.SHXYJ.2008.03.006]
+   He G.W., 2018, AGR EC PROBLEMS, V2, P38
+   Hu F., 2012, FINANCIAL RES, V12, P178
+   Hu YT, 2021, INFORM SCIENCES, V542, P156, DOI 10.1016/j.ins.2020.06.067
+   Karlan DS, 2007, ECON J, V117, pF52, DOI 10.1111/j.1468-0297.2007.02015.x
+   Lin J., 2016, J FINANC RES, V427, P130
+   Lin N, 1999, ANNU REV SOCIOL, V25, P467, DOI 10.1146/annurev.soc.25.1.467
+   Tran MC, 2016, INT J SOC ECON, V43, P782, DOI 10.1108/IJSE-11-2014-0243
+   Nie NH, 2001, AM BEHAV SCI, V45, P420, DOI 10.1177/00027640121957277
+   Okten C, 2004, WORLD DEV, V32, P1225, DOI 10.1016/j.worlddev.2004.01.012
+   Khoi PD, 2013, J ASIAN ECON, V26, P1, DOI 10.1016/j.asieco.2013.02.003
+   Qin H.L., 2019, FINANCE EC, V1, P33
+   Roberts SGB, 2011, PERS RELATIONSHIP, V18, P439, DOI 10.1111/j.1475-6811.2010.01310.x
+   Shoji M, 2012, WORLD DEV, V40, P2522, DOI 10.1016/j.worlddev.2012.08.003
+   STIGLITZ JE, 1981, AM ECON REV, V71, P393
+   STIGLITZ JE, 1990, WORLD BANK ECON REV, V4, P351, DOI 10.1093/wber/4.3.351
+   Tenzin G, 2015, ASIAN ECON J, V29, P243, DOI 10.1111/asej.12057
+   Wan J.L., 2018, J FINANCIAL DEV RES, V7, P42
+   [王颂 Wang Song], 2017, [心理学报, Acta Psychologica Sinica], V49, P116
+   Wang Y.Q., 2014, J FINANC RES, V10, P116
+   Wellman B, 2001, INT J URBAN REGIONAL, V25, P227, DOI 10.1111/1468-2427.00309
+   Wydick B, 2011, WORLD DEV, V39, P974, DOI 10.1016/j.worlddev.2009.10.015
+   Xia H.C., 2014, ARID LAND GEOGRAPHY, V37, P831
+   Xiong F, 2020, IEEE T CYBERNETICS, V50, P4186, DOI 10.1109/TCYB.2019.2939390
+   Xiong F, 2020, IEEE T SYST MAN CY-S, V50, P3804, DOI 10.1109/TSMC.2018.2854000
+   Xu Z.Y., 2014, CHINA SOFT SCI MAGAZ, V3, P45
+   Yang R., 2011, EC RES J, V11, P116, DOI DOI 10.1038/132817A0
+   Zhou C., 2017, J XIANGTAN U PHILOS, V5, P77
+   Zhou WN, 2014, J DEV ECON, V111, P34, DOI 10.1016/j.jdeveco.2014.07.002
+NR 33
+TC 3
+Z9 3
+U1 5
+U2 43
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1076-2787
+EI 1099-0526
+J9 COMPLEXITY
+JI Complexity
+PD JUN 4
+PY 2021
+VL 2021
+AR 9975856
+DI 10.1155/2021/9975856
+PG 13
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Mathematics; Science & Technology - Other Topics
+GA SW0AA
+UT WOS:000664178000010
+OA gold
+DA 2024-11-22
+ER

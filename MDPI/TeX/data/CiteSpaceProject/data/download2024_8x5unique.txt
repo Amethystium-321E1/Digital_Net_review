@@ -1,0 +1,619 @@
+
+PT J
+AU Baumann, F
+   Czaplicka, A
+   Rahwan, I
+AF Baumann, Fabian
+   Czaplicka, Agnieszka
+   Rahwan, Iyad
+TI Network structure shapes the impact of diversity in collective learning
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID PERFORMANCE; CONFLICT
+AB It is widely believed that diversity arising from different skills enhances the performance of teams, and in particular, their ability to learn and innovate. However, diversity has also been associated with negative effects on the communication and coordination within collectives. Yet, despite the importance of diversity as a concept, we still lack a mechanistic understanding of how its impact is shaped by the underlying social network. To fill this gap, we model skill diversity within a simple model of collective learning and show that its effect on collective performance differs depending on the complexity of the task and the network density. In particular, we find that diversity consistently impairs performance in simple tasks. In contrast, in complex tasks, link density modifies the effect of diversity: while homogeneous populations outperform diverse ones in sparse networks, the opposite is true in dense networks, where diversity boosts collective performance. Our findings also provide insight on how to forge teams in an increasingly interconnected world: the more we are connected, the more we can benefit from diversity to solve complex problems.
+C1 [Baumann, Fabian; Czaplicka, Agnieszka; Rahwan, Iyad] Max Planck Inst Human Dev, Ctr Humans & Machines, Lentzeallee 94, D-14195 Berlin, Germany.
+C3 Max Planck Society
+RP Rahwan, I (corresponding author), Max Planck Inst Human Dev, Ctr Humans & Machines, Lentzeallee 94, D-14195 Berlin, Germany.
+EM rahwan@mpib-berlin.mpg.de
+FU Max Planck Institute for Human Development (2)
+FX No Statement Available
+CR Alesina A, 2002, J PUBLIC ECON, V85, P207, DOI 10.1016/S0047-2727(01)00084-6
+   Almaatouq A, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2101062118
+   Almaatouq A, 2020, P NATL ACAD SCI USA, V117, P11379, DOI 10.1073/pnas.1917687117
+   Barkoczi D, 2016, NAT COMMUN, V7, DOI 10.1038/ncomms13109
+   Bell ST, 2011, J MANAGE, V37, P709, DOI 10.1177/0149206310365001
+   CANNONBOWERS JA, 1993, INDIVIDUAL AND GROUP DECISION MAKING, P221
+   Cantor M, 2021, P ROY SOC B-BIOL SCI, V288, DOI 10.1098/rspb.2020.3107
+   Centola D., 2022, Trends Cogn. Sci, V20, P20
+   Centola D, 2018, SCIENCE, V360, P1116, DOI 10.1126/science.aas8827
+   Civilini A, 2021, PHYS REV LETT, V127, DOI 10.1103/PhysRevLett.127.268301
+   Coles JeffreyL., 2020, DIRECTOR OVERLAP GRO
+   Cronin MA, 2007, ACAD MANAGE REV, V32, P761, DOI 10.5465/AMR.2007.25275511
+   Csaszar FA, 2010, ORGAN SCI, V21, P661, DOI 10.1287/orsc.1090.0477
+   de Zúñiga HG, 2011, COMMUN RES, V38, P397, DOI 10.1177/0093650210384984
+   Derex M, 2020, TRENDS COGN SCI, V24, P654, DOI 10.1016/j.tics.2020.04.005
+   Derex M, 2018, PHILOS T R SOC B, V373, DOI 10.1098/rstb.2017.0062
+   Derex M, 2016, P NATL ACAD SCI USA, V113, P2982, DOI 10.1073/pnas.1518798113
+   Eberle UJ, 2020, P NATL ACAD SCI USA, V117, P16250, DOI 10.1073/pnas.2002148117
+   Fang C, 2010, ORGAN SCI, V21, P625, DOI 10.1287/orsc.1090.0468
+   Hong L, 2004, P NATL ACAD SCI USA, V101, P16385, DOI 10.1073/pnas.0403723101
+   Horwitz SK, 2007, J MANAGE, V33, P987, DOI 10.1177/0149206307308587
+   KAUFFMAN S, 1987, J THEOR BIOL, V128, P11, DOI 10.1016/S0022-5193(87)80029-2
+   Laland KN, 2004, LEARN BEHAV, V32, P4
+   Lazer D, 2007, ADMIN SCI QUART, V52, P667, DOI 10.2189/asqu.52.4.667
+   Levinthal DA, 1997, MANAGE SCI, V43, P934, DOI 10.1287/mnsc.43.7.934
+   Mason W, 2012, P NATL ACAD SCI USA, V109, P764, DOI 10.1073/pnas.1110069108
+   Mason WA, 2008, J EXP PSYCHOL GEN, V137, P422, DOI 10.1037/a0012798
+   Massari GF, 2019, INT J PROD ECON, V208, P343, DOI 10.1016/j.ijpe.2018.12.005
+   Migliano AB, 2020, SCI ADV, V6, DOI 10.1126/sciadv.aax5913
+   Moro E, 2021, NAT COMMUN, V12, DOI 10.1038/s41467-021-22086-3
+   Pescetelli N, 2021, NAT COMMUN, V12, DOI 10.1038/s41467-021-23424-1
+   Putnam RD, 2007, SCAND POLIT STUD, V30, P137, DOI 10.1111/j.1467-9477.2007.00176.x
+   Reagans R, 2001, ORGAN SCI, V12, P502, DOI 10.1287/orsc.12.4.502.10637
+   Rendell L, 2010, SCIENCE, V328, P208, DOI 10.1126/science.1184719
+   Saxena A, 2014, PROC ECON FINANC, V11, P76, DOI 10.1016/S2212-5671(14)00178-6
+   Schimmelpfennig R, 2022, PHILOS T R SOC B, V377, DOI 10.1098/rstb.2020.0316
+   Siggelkow N, 2005, ORGAN SCI, V16, P101, DOI 10.1287/orsc.1050.0116
+   Smolla M, 2019, SCI ADV, V5, DOI 10.1126/sciadv.aaw0609
+   Steiner I.D., 1972, GROUP PROCESS PRODUC
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Weber RA, 2003, MANAGE SCI, V49, P400, DOI 10.1287/mnsc.49.4.400.14430
+NR 41
+TC 1
+Z9 1
+U1 6
+U2 7
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD JAN 30
+PY 2024
+VL 14
+IS 1
+AR 2491
+DI 10.1038/s41598-024-52837-3
+PG 8
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA HG3T1
+UT WOS:001158306700074
+PM 38291091
+OA gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Ul Hussna, A
+   Alam, MGR
+   Islam, R
+   Alkhamees, BF
+   Hassan, MM
+   Uddin, MZ
+AF Ul Hussna, Asma
+   Alam, Md Golam Rabiul
+   Islam, Risul
+   Alkhamees, Bader Fahad
+   Hassan, Mohammad Mehedi
+   Uddin, Md Zia
+TI Dissecting the infodemic: An in-depth analysis of COVID-19
+   misinformation detection on X (formerly Twitter) utilizing machine
+   learning and deep learning techniques
+SO HELIYON
+LA English
+DT Article
+DE COVID-19; Fake news; Community analysis; Twitter; Disseminator;
+   Misinformation; Social network analysis; Deep learning; Machine learning
+ID FAKE NEWS SPREADERS; CLASSIFICATION
+AB The alarming growth of misinformation on social media has become a global concern as it influences public opinions and compromises social, political, and public health development. The proliferation of deceptive information has resulted in widespread confusion, societal disturbances, and significant consequences for matters pertaining to health. Throughout the COVID-19 pandemic, there was a substantial surge in the dissemination of inaccurate or deceptive information via social media platforms, particularly X (formerly known as Twitter), resulting in the phenomenon commonly referred to as an "Infodemic". This review paper examines a grand selection of 600 articles published in the past five years and focuses on conducting a thorough analysis of 87 studies that investigate the detection of fake news connected to COVID-19 on Twitter. In addition, this research explores the algorithmic techniques and methodologies used to investigate the individuals responsible for disseminating this type of fake news. A summary of common datasets, along with their fundamental qualities, for detecting fake news has been included as well. For the purpose of identifying fake news, the behavioral pattern of the misinformation spreaders, and their community analysis, we have performed an in-depth examination of the most recent literature that the researchers have worked with and recommended. Our key findings can be summarized in a few points: (a) around 80% of fake news detection-related papers have utilized Deep Neural Networks-based techniques for better performance achievement, although the proposed models suffer from overfitting, vanishing gradients, and higher prediction time problems, (b) around 60% of the disseminator related analysis papers focus on identifying dominant spreaders and their communities utilizing graph modeling although there is not much work done in this domain, and finally, (c) we conclude by pointing out a wide range of research gaps, for example, the need of a large and robust training dataset and deeper investigation of the communities, etc., and suggesting potential solution strategies. Moreover, to facilitate the utilization of a large training dataset for detecting fake news, we have created a large database by compiling the training datasets from 17 different research works. The objective of this study is to shed light on exactly how COVID-19-related tweets are beginning to diverge, along with the dissemination of misinformation. Our work uncovers notable discoveries, including the ongoing rapid growth of the disseminator population, the presence of professional spreaders within the disseminator community, and a substantial level of collaboration among the fake news spreaders.
+C1 [Ul Hussna, Asma; Alam, Md Golam Rabiul] BRAC Univ, Dept Comp Sci & Engn, Dhaka, Bangladesh.
+   [Islam, Risul] Palo Alto Networks Inc, Santa Clara, CA USA.
+   [Alkhamees, Bader Fahad; Hassan, Mohammad Mehedi] King Saud Univ, Coll Comp & Informat Sci, Dept Informat Syst, Riyadh, Saudi Arabia.
+   [Uddin, Md Zia] Sintef Digital, Oslo, Norway.
+C3 Bangladesh Rural Advancement Committee BRAC; BRAC University; King Saud
+   University; SINTEF
+RP Uddin, MZ (corresponding author), Sintef Digital, Oslo, Norway.
+EM asma.ul.hussna@g.bracu.ac.bd; rabiul.alam@bracu.ac.bd; risla002@ucr.edu;
+   balkhamees@ksu.edu.sa; mmhassan@ksu.edu.sa; zia.uddin@sintef.no
+RI Hassan, Mohammad Mehedi/D-4946-2016; ALKHAMEES, Bader/KIL-5653-2024;
+   Uddin, Zia/AAC-1309-2020
+OI Uddin, Md Zia/0000-0002-5215-1834; Hussna, Asma Ul/0000-0002-3484-2121
+FU King Saud University, Riyadh, Saudi Arabia [RSP2024R493]
+FX The authors are grateful to King Saud University, Riyadh, Saudi Arabia,
+   for funding this work through Researchers Supporting Project Number
+   (RSP2024R493) .
+CR Abd-Alrazaq A, 2020, J MED INTERNET RES, V22, DOI 10.2196/19016
+   Ahmad T, 2022, APPL SCI-BASEL, V12, DOI 10.3390/app122412727
+   Ahmed M., 2022, J. Internet Serv. Inf. Secur. (JISIS), V12, P51
+   Akhtar MM, 2022, Arxiv, DOI arXiv:2209.03162
+   Al-Rakhami MS, 2020, IEEE ACCESS, V8, P155961, DOI 10.1109/ACCESS.2020.3019600
+   Al-Tarawneh A, 2021, J INTELL FUZZY SYST, V40, P12321, DOI 10.3233/JIFS-210458
+   Alajramy L, 2022, LECT NOTES COMPUT SC, V13545, P16, DOI 10.1007/978-3-031-18253-2_2
+   Alarfaj FK, 2023, ALGORITHMS, V16, DOI 10.3390/a16110507
+   Alenezi MN, 2021, FUTURE INTERNET, V13, DOI 10.3390/fi13100244
+   Alghamdi J, 2023, KNOWL-BASED SYST, V274, DOI 10.1016/j.knosys.2023.110642
+   Amer A.Y.A., 2020, Int. J. Comput. Sci. Inf. Secur., V18, P88
+   Asgari-Chenaghlu M, 2020, Arxiv, DOI arXiv:2009.03947
+   Ayoub J, 2021, INFORM PROCESS MANAG, V58, DOI 10.1016/j.ipm.2021.102569
+   Bangyal WH, 2021, COMPUT MATH METHOD M, V2021, DOI 10.1155/2021/5514220
+   Birunda SS, 2024, SIGNAL IMAGE VIDEO P, V18, P2659, DOI 10.1007/s11760-023-02938-9
+   Bishal MM, 2024, Arxiv, DOI arXiv:2402.09897
+   Cahyono H.D., 2024, Indones. J. Electr. Eng. Comput. Sci., V34, P1033
+   Castioni P, 2022, ROY SOC OPEN SCI, V9, DOI 10.1098/rsos.220716
+   Catelli R, 2023, COMPUT BIOL MED, V158, DOI 10.1016/j.compbiomed.2023.106876
+   Chang Q, 2024, NEURAL NETWORKS, V172, DOI 10.1016/j.neunet.2024.106115
+   Chen Emily, 2020, JMIR Public Health Surveill, V6, pe19273, DOI 10.2196/19273
+   Chen MY, 2023, ACM T INTERNET TECHN, V23, DOI 10.1145/3533431
+   Chuai Y, 2024, Arxiv, DOI arXiv:2401.08832
+   Cinelli M, 2020, SCI REP-UK, V10, DOI 10.1038/s41598-020-73510-5
+   Cui LM, 2020, Arxiv, DOI arXiv:2006.00885
+   De A., 2022, P WEB C 2022
+   de Oliveira Danilo Vicente Batista, 2021, SN Comput Sci, V2, P430, DOI 10.1007/s42979-021-00836-w
+   Dimitrov D, 2020, CIKM '20: PROCEEDINGS OF THE 29TH ACM INTERNATIONAL CONFERENCE ON INFORMATION & KNOWLEDGE MANAGEMENT, P2991, DOI 10.1145/3340531.3412765
+   Duzen Z., 2024, A centrality metrics approach to analyzing temporal spread patterns of misinformation in social networks
+   Elhadad Mohamed K., 2021, Advances in Intelligent Networking and Collaborative Systems. 12th International Conference on Intelligent Networking and Collaborative Systems (INCoS-2020). Advances in Intelligent Systems and Computing (AISC 1263), P256, DOI 10.1007/978-3-030-57796-4_25
+   Feeroz Y., 2024, Asia-Pac. Soc. Sci. Rev., V24
+   Fifita F, 2023, BIG DATA COGN COMPUT, V7, DOI 10.3390/bdcc7010046
+   Folino F., 2024, SN Comput. Sci., V5, P4, DOI [10.1007/s42979-024-02809-1, DOI 10.1007/S42979-024-02809-1]
+   Gligoric K, 2020, Arxiv, DOI arXiv:2008.08364
+   Gorbalenya AE, 2020, NAT MICROBIOL, V5, P536, DOI 10.1038/s41564-020-0695-z
+   Gupta K., 2021, 2021 IEEE 7 INT C BI, P60
+   Hamid A., 2020, Fake News Detection in Social Media Using Graph Neural Networks and NLP Techniques: A COVID-19 Use-Case, V11
+   Haouari F., 2020, arXiv
+   Hashmi E., 2024, IEEE Access
+   Hayawi K, 2022, PUBLIC HEALTH, V203, P23, DOI 10.1016/j.puhe.2021.11.022
+   Huang BX, 2020, Arxiv, DOI arXiv:2006.04278
+   Hussin M.H., 2023, 2023 IEEE 8 INT C RE, P1
+   Hussna A.U., 2021, 2021 IEEE REG 10 S T
+   Kai Xuan Kelvin Liew, 2023, 2023 IEEE 8th International Conference On Software Engineering and Computer Systems (ICSECS), P28, DOI 10.1109/ICSECS58457.2023.10256386
+   Kaliyar RK, 2021, MULTIMED TOOLS APPL, V80, P11765, DOI 10.1007/s11042-020-10183-2
+   Karnyoto A, 2022, COMPUT SCI INF SYST, V19, P639, DOI 10.2298/CSIS210501053K
+   Khoudi A., 2023, 2023 1 INT C ADV INN, P1
+   Lampridis O, 2022, COMPUTING, V104, P717, DOI 10.1007/s00607-021-01013-w
+   Lamsal R, 2021, APPL INTELL, V51, P2790, DOI 10.1007/s10489-020-02029-z
+   Leonardi S, 2021, INFORMATION, V12, DOI 10.3390/info12060248
+   Li K, 2022, ACM T INTEL SYST TEC, V13, DOI 10.1145/3523060
+   Li YC, 2020, Arxiv, DOI arXiv:2011.04088
+   Llenas-García J, 2023, VIRUSES-BASEL, V15, DOI 10.3390/v15051138
+   Lu Jiahui, 2024, JMIR AI, V3, pe47240, DOI 10.2196/47240
+   Mackey Tim, 2020, JMIR Public Health Surveill, V6, pe19509, DOI 10.2196/19509
+   Madani Y, 2021, RESULTS PHYS, V25, DOI 10.1016/j.rinp.2021.104266
+   Mahadevan sr S., 2024, J. Big Data Artif. Intell., V2
+   Malla S, 2022, EUR PHYS J-SPEC TOP, V231, P3347, DOI 10.1140/epjs/s11734-022-00436-6
+   Matsumoto Hayato, 2021, 2021 IEEE 10th Global Conference on Consumer Electronics (GCCE), P19, DOI 10.1109/GCCE53005.2021.9621803
+   Maulana A., 2023, 2023 10 INT C SOC NE, P1
+   Maulana A., 2023, INT C COMP DAT SOC N, P325
+   Memon S.A., 2020, C INF KNOWL MAN, V2699
+   Mulahuwaish A., 2022, INT C INT HUM COMP I, P466
+   Muric G, 2021, JMIR PUBLIC HLTH SUR, V7, DOI 10.2196/30642
+   Nasar S, 2024, HELIYON, V10, DOI 10.1016/j.heliyon.2024.e27588
+   Nogara G, 2022, PROCEEDINGS OF THE 14TH ACM WEB SCIENCE CONFERENCE, WEBSCI 2022, P348, DOI 10.1145/3501247.3531573
+   Omrani P, 2023, Pattern Recog Img An, DOI 10.1109/IPRIA59240.2023.10147179
+   Paka WS, 2021, APPL SOFT COMPUT, V107, DOI 10.1016/j.asoc.2021.107393
+   Pandey D, 2022, HELIYON, V8, DOI 10.1016/j.heliyon.2022.e09994
+   Park HW, 2020, J MED INTERNET RES, V22, DOI 10.2196/18897
+   Park M, 2023, IEEE ACCESS, V11, P71517, DOI 10.1109/ACCESS.2023.3294613
+   Park S, 2020, Arxiv, DOI arXiv:2006.12218
+   Pastor-Escuredo D, 2021, Arxiv, DOI arXiv:2005.07266
+   Pavlov Tashko, 2022, 2022 45th Jubilee International Convention on Information, Communication and Electronic Technology (MIPRO)., P312, DOI 10.23919/MIPRO55190.2022.9803414
+   PharmD A.R., 2023, Unmasking the Infodemic: the impact of COVID-19 misinformation on public health
+   Pierri F, 2020, Arxiv, DOI arXiv:2002.12612
+   Qaiser A, 2023, INTELL AUTOM SOFT CO, V37, P73, DOI 10.32604/iasc.2023.036784
+   Quraishi Z, 2023, HELIYON, V9, DOI 10.1016/j.heliyon.2023.e16396
+   Qureshi KA, 2021, IEEE ACCESS, V9, P139636, DOI 10.1109/ACCESS.2021.3119404
+   Rath B, 2020, PR I-A I C AD S N A, P182, DOI 10.1109/ASONAM49781.2020.9381466
+   Ravichandran BD, 2023, NEURAL COMPUT APPL, V35, P699, DOI 10.1007/s00521-022-07797-y
+   Samadi M, 2023, DIGIT SCHOLARSH HUM, V38, P379, DOI 10.1093/llc/fqac023
+   Shahi G.K., 2020, arXiv, DOI DOI 10.48550/ARXIV.2006.11343
+   Shahi Gautam Kishore, 2021, Online Soc Netw Media, V22, P100104, DOI 10.1016/j.osnem.2020.100104
+   Shin I., 2022, International Journal of Communication, V16, P23
+   Shovon II, 2023, Inter Con Info Netwo, P560, DOI 10.1109/ICOIN56518.2023.10048961
+   Siino M, 2022, INFORMATION, V13, DOI 10.3390/info13090426
+   Singh L, 2020, Arxiv, DOI arXiv:2003.13907
+   Sule S, 2023, JAMA NETW OPEN, V6, DOI 10.1001/jamanetworkopen.2023.28928
+   Tan ITI, 2023, JMIR FORM RES, V7, DOI 10.2196/41134
+   Thangavel V., 2024, Curr. Trends Mass Commun, V3, P01
+   Ul Hussna A, 2021, 2021 INTERNATIONAL CONFERENCE ON DECISION AID SCIENCES AND APPLICATION (DASA), DOI 10.1109/DASA53625.2021.9682371
+   Unlu A, 2024, NEW MEDIA SOC, DOI 10.1177/14614448241232079
+   Varma R, 2021, INT J INTELL COMPUT, V14, P617, DOI 10.1108/IJICC-04-2021-0069
+   Wang Y., 2021, COVID-19 fake news detection using bidirectional encoder representations from transformers based models
+   Weinzierl MA, 2021, J BIOMED INFORM, V124, DOI 10.1016/j.jbi.2021.103955
+   Xia HS, 2023, TECHNOL FORECAST SOC, V195, DOI 10.1016/j.techfore.2023.122746
+   Xiong JQ, 2020, J AFFECT DISORDERS, V277, P55, DOI 10.1016/j.jad.2020.08.001
+   Xue J, 2020, Arxiv, DOI [arXiv:2005.12830, DOI 10.2196/20550, 10.2196/20550]
+   Yin S, 2024, AAAI CONF ARTIF INTE, P347
+   Yong W.Y., 2023, P 2023 C HUM CTR ART
+   Zhou XY, 2020, CIKM '20: PROCEEDINGS OF THE 29TH ACM INTERNATIONAL CONFERENCE ON INFORMATION & KNOWLEDGE MANAGEMENT, P3205, DOI 10.1145/3340531.3412880
+   Ziyi Kou, 2022, Proceedings of the ACM on Human-Computer Interaction, V6, DOI 10.1145/3492855
+NR 103
+TC 0
+Z9 0
+U1 4
+U2 4
+PU CELL PRESS
+PI CAMBRIDGE
+PA 50 HAMPSHIRE ST, FLOOR 5, CAMBRIDGE, MA 02139 USA
+EI 2405-8440
+J9 HELIYON
+JI Heliyon
+PD SEP 30
+PY 2024
+VL 10
+IS 18
+AR e37760
+DI 10.1016/j.heliyon.2024.e37760
+PG 22
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA G3S7J
+UT WOS:001315881400001
+PM 39315207
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Altanlar, A
+   Aktan, EÖA
+   Eren, I
+AF Altanlar, Asli
+   Aktan, Esin Ozlem Aktuglu
+   Eren, Ibrahim
+TI Development, Reliability, and Validity of the Influences of Digital
+   Technologies on Human Behavior in Public Space Scale Tested by Spatial
+   Design Experts
+SO SAGE OPEN
+LA English
+DT Article
+DE public life; online social networks; human behavior; social isolation;
+   technological anxiety; digitization and urban life
+ID COLLEGE-STUDENTS; FACEBOOK USE; DEPRESSION; USAGE
+AB The widespread use of digital technologies and online social networks causes a shift that has a pronounced impact on public space, public life, and public space design. However, research into this transformation is quite constrained. This study aims to illuminate how digital technologies influence individuals and their behavior in public spaces. A comprehensive conceptual scale was developed in the study to assess the impact of digital technology use on human behavior in public spaces. A structural equation model (SEM) was proposed after testing the scale's construct validity. According to the findings, the factors influencing the scale were social isolation (F1), media influence (F2), placelessness and/or homogeneity (F3), techno-stress-related social anxiety (F4), and digital addiction (F5). The SEM (Structural Equation Modeling) results demonstrated strong relationships among these factors, with digital addiction significantly predicting social isolation (beta = .90; p < .01) and placelessness (beta = .74; p < .01). The media influence factor had the most substantial effect on techno-stress-related social anxiety. This study contributes significantly to the literature by understanding the influences of digital technologies on public life and adapting public space design to this new reality. The findings also guide prospective studies into the effects of digital technologies in public spaces, offering valuable insights for urban planning, social psychology, architecture, and social sciences research.
+C1 [Altanlar, Asli] Univ Amasya, Amasya, Turkiye.
+   [Aktan, Esin Ozlem Aktuglu; Eren, Ibrahim] Yildiz Tech Univ, Istanbul, Turkiye.
+C3 Amasya University; Yildiz Technical University
+RP Aktan, EÖA (corresponding author), Yildiz Tech Univ, Fac Architecture, City & Reg Planning Dept, TR-34349 Istanbul, Turkiye.
+RI Eren, İbrahim/ACO-7273-2022; Altanlar, Asli/KFQ-1620-2024; Aktuglu
+   Aktan, Esin Ozlem/AAB-5074-2022
+OI ALTANLAR, ASLI/0000-0002-4876-9527; Aktuglu Aktan, Esin
+   Ozlem/0000-0001-9823-1007; Eren, Ibrahim/0000-0002-0259-4821
+FU Yildiz Technical University Scientific Research Projects Coordination
+   Unit [FBA-2023-5807]
+FX The author(s) disclosed receipt of the following financial support for
+   the research, authorship, and/or publication of this article: This work
+   has been supported by Yildiz Technical University Scientific Research
+   Projects Coordination Unit under project number FBA-2023-5807.
+CR Al Atiqi M., 2020, Agent-based approach to resolve the conflicting observations of online echo chamber, DOI [10.1109/SCISISIS50064.2020.9322696, DOI 10.1109/SCISISIS50064.2020.9322696]
+   Aldinhas Ferreira M. I., 2022, The 21st Century Industrial Robot: When Tools become collaborators, P1
+   [Anonymous], 2024, Number of internet and social media users worldwide as of April 2024
+   ATDE, 2015, Accenture dijitalleme endeksi trkiye sonular: Trkiyenin en dijital irketleri 2015
+   Badel F., 2021, ARTGRID J ARCHIT ENG, V3, P127
+   Baudrillard Jean, 1994, Simulacra and Simulation
+   Bauman Zygmunt., 2001, The Individualized Society
+   Bauman Zygmunt., 2008, The individualized society
+   Bayram N., 2013, Introduction to Structural Equation Modeling AMOS applications
+   BENTLER PM, 1980, PSYCHOL BULL, V88, P588, DOI 10.1037/0033-2909.107.2.238
+   Brubaker R., 2023, Hyperconnectivity and its discontents
+   Brubaker R, 2020, THEOR SOC, V49, P771, DOI 10.1007/s11186-020-09405-1
+   Büyüközkan G, 2018, COMPUT IND, V97, P157, DOI 10.1016/j.compind.2018.02.010
+   Castells M., 1999, INFORM TECHNOLOGY GL
+   Castells Manuel, 2010, The rise of the network society
+   Chayko M., 2020, Superconnected: The internet, digital media, and techno-social life
+   Cokluk O, 2012, Sosyal Bilimler iin ok Deikenli statistik SPSS ve LISREL Uygulamalar
+   Demir M., 2022, JAMOV ve JASP Program ile Temel ve leri Dzey Nicel Veri Analizi
+   elik E., 2016, Structural equation modeling with LISREL 9.1
+   Erdnmez Ebru., 2016, TBA-KED, V14, P145
+   Eren brahim., 2024, Proceedings of The International Conference on Research in Social Sciences, V1, P1, DOI [10.33422/rssconf.v1i1.204, DOI 10.33422/RSSCONF.V1I1.204]
+   Eren I, 2023, COGENT SOC SCI, V9, DOI 10.1080/23311886.2023.2281063
+   Farahdina D., 2020, IOP Conference Series: Earth and Environmental Science, V452, DOI 10.1088/1755-1315/452/1/012061
+   Frederick D., 2016, Library Hi Tech News, V33, P9, DOI DOI 10.1108/LHTN-05-2016-0025
+   George D., 2010, USING SPSS WINDOWS S, DOI DOI 10.1080/13854046.2020.1810323
+   Gkgr Pelin., 2017, Kentsel Meknda Kamusal Alann Yeri
+   Gorsuch R.L., 1983, FACTOR ANAL
+   Hair J., 2021, PRIMER PARTIAL LEAST
+   Hatcher, 1994, STEP BY STEP APPROAC
+   Jamieson K. H., 2010, Echo chamber: Rush Limbaugh and the conservative media establishment, DOI DOI 10.1002/J.1538-165X.2009.TB01921.X
+   Karakaya zyer K., 2021, Turkish Academic Research Review, V6, P1330, DOI [10.30622/tarr.1004560, DOI 10.30622/TARR.1004560]
+   Kl S., 2016, Journal of Mood Disorders, V6, P47
+   Konrath SH, 2011, PERS SOC PSYCHOL REV, V15, P180, DOI 10.1177/1088868310377395
+   Korte M, 2020, DIALOGUES CLIN NEURO, V22, P101, DOI 10.31887/DCNS.2020.22.2/mkorte
+   Kross E, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0069841
+   Kusumota L, 2022, REV LAT-AM ENFERM, V30, DOI 10.1590/1518-8345.5641.3526
+   Lefebvre H., 2010, Gndelik Hayatn Eletirisi II (Critique of Everyday Life II). (Original version: Critique de la vie quotidienne
+   Lefebvre Henri., 1991, Critique of Everyday Life, VI
+   Levin I, 2021, INFORMATION, V12, DOI 10.3390/info12020068
+   lhan M., 2014, Eitimde ve Psikolojide lme ve Deerlendirme Dergisi, V5, P26
+   Liu E, 2016, ROUT RES PLAN URB, P1
+   Lobo T., 2021, Technology and the city: Towards a philosophy of urban technologies, P37
+   Madanipour A., 2003, Public and private spaces of the city
+   Memon MumtazAli., 2020, J APPL STRUCTURAL EQ, V4
+   Meshi D, 2020, GERONTOLOGY, V66, P160, DOI 10.1159/000502577
+   Meydan C. H., 2015, Structural Equation Modeling AMOS Applications
+   Montague L, 2016, ROUT RES PLAN URB, P49
+   Moughtin C., 2003, URBAN DESIGN STREET, V3rd
+   Nasiri M, 2020, TECHNOVATION, V96-97, DOI 10.1016/j.technovation.2020.102121
+   O'Day EB, 2021, COMPUT HUM BEHAV REP, V3, DOI 10.1016/j.chbr.2021.100070
+   Ozalp B., 2022, Jamovi Uygulamalstatistik Analizleri, P115
+   Pariser E., 2011, The Filter Bubble: What The Internet Is Hiding From You
+   Primack BA, 2017, AM J PREV MED, V53, P1, DOI 10.1016/j.amepre.2017.01.010
+   Przybylski AK, 2013, COMPUT HUM BEHAV, V29, P1841, DOI 10.1016/j.chb.2013.02.014
+   Przybylski AK, 2013, J SOC PERS RELAT, V30, P237, DOI 10.1177/0265407512453827
+   Putnam Robert D., 2000, BOWLING ALONE COLLAP, DOI 10.1145/358916.361990
+   Ratner B., 2009, J TARGET MEAS ANAL M, V17, P139, DOI DOI 10.1057/JT.2009.5
+   Ray L, 2007, NEW SOCIOL, P1
+   Reddy L. J., 2023, Journal of Clinical Otorhinolaryngology, Head, and Neck Surgery, V27, P1805
+   Sennett Richard., 1994, FLESH STONE BODY CIT
+   Sennett Richard., 2018, Ten ve Ta: Bat Uygarlnda Beden ve ehir
+   Shaw AM, 2015, COMPUT HUM BEHAV, V48, P575, DOI 10.1016/j.chb.2015.02.003
+   Suhr D.D., 2006, Exploratory or confirmatory factor analysis?
+   Suler J, 2004, CYBERPSYCHOL BEHAV, V7, P321, DOI 10.1089/1094931041291295
+   Tabachnick B., 2020, ok Deikenli statistiklerin Kullanm
+   Tandoc EC, 2015, COMPUT HUM BEHAV, V43, P139, DOI 10.1016/j.chb.2014.10.053
+   Tanjung D. R., 2023, International Journal of Students Education, V1, P271
+   Tarafdar M, 2013, INFORM SYST J, V23, P269, DOI 10.1111/isj.12015
+   Technological Determinism, 2011, D. Chandler, Munday Rod iinde
+   Thompson B., 2008, Foundations of behavioral statistics: An insight-based approach
+   Turkle S., 2011, Alone Together: Why we Expect More from Technology and Less from Each Other, P360
+   Vazquez SA, 2023, ISPRS INT J GEO-INF, V12, DOI 10.3390/ijgi12060237
+   William J. W., 2020, Digital minimalism in everyday life: Overcome technology addiction, declutter your mind, and reclaim your freedom
+   Wright KB, 2013, J HEALTH COMMUN, V18, P41, DOI 10.1080/10810730.2012.688250
+   Yalolu M.M., 2017, stanb. niv. let. Fak. Derg, V46, P74
+   Yang CC, 2020, ADDICT RES THEORY, V28, P433, DOI 10.1080/16066359.2019.1682137
+   Zhang XX, 2020, J SOC CLIN PSYCHOL, V39, P195
+NR 77
+TC 0
+Z9 0
+U1 2
+U2 2
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 2158-2440
+J9 SAGE OPEN
+JI SAGE Open
+PD JUL
+PY 2024
+VL 14
+IS 3
+AR 21582440241284589
+DI 10.1177/21582440241284589
+PG 22
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA I3H4A
+UT WOS:001329197900001
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Mulder, J
+   Friel, N
+   Leifeld, P
+AF Mulder, Joris
+   Friel, Nial
+   Leifeld, Philip
+TI Bayesian testing of scientific expectations under exponential random
+   graph models
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Bayesian hypothesis testing; Bayes factors; Exponential random graph
+   models; g-priors
+ID INFORMATION CRITERION; NETWORK STRUCTURE; SOCIAL NETWORKS; G-PRIORS;
+   SELECTION; HYPOTHESES; CRITIQUE
+AB The exponential random graph (ERGM) model is a commonly used statistical framework for studying the determinants of tie formations from social network data. To test scientific theories under ERGMs, statistical inferential techniques are generally used based on traditional significance testing using p-values. This method-ology has certain limitations, however, such as its inconsistent behavior when the null hypothesis is true, its inability to quantify evidence in favor of a null hypothesis, and its inability to test multiple hypotheses with competing equality and/or order constraints on the parameters of interest in a direct manner. To tackle these shortcomings, this paper presents Bayes factors and posterior probabilities for testing scientific expectations under a Bayesian framework. The methodology is implemented in the R package BFpack. The applicability of the methodology is illustrated using empirical collaboration networks and policy networks.
+C1 [Mulder, Joris] Tilburg Univ, Tilburg, Netherlands.
+   [Friel, Nial] Univ Coll Dublin, Dublin, Ireland.
+   [Leifeld, Philip] Univ Essex, Colchester, England.
+C3 Tilburg University; University College Dublin; University of Essex
+RP Mulder, J (corresponding author), Tilburg Univ, Tilburg, Netherlands.
+EM j.mulder3@tilburguniversity.edu
+RI Friel, Nial/A-5556-2012; Mulder, Joris/M-1165-2015
+OI Leifeld, Philip/0000-0002-6834-5705; Mulder, Joris/0000-0001-7007-3086
+FU ERC Starting Grant [758791]
+FX The authors wish to thank two anonymous reviewers for their constructive
+   feedback which helped to improve the manuscript. The first author was
+   supported by an ERC Starting Grant (758791) .
+CR [Anonymous], 2004, Constrained Statistical Inference: Inequality, Order, and Shape Restrictions
+   Benjamin DJ, 2018, NAT HUM BEHAV, V2, P6, DOI 10.1038/s41562-017-0189-z
+   Berger JO, 1996, J AM STAT ASSOC, V91, P109, DOI 10.2307/2291387
+   Bouranis L, 2018, J COMPUT GRAPH STAT, V27, P516, DOI 10.1080/10618600.2018.1448832
+   Braeken J, 2015, J MANAGE, V41, P544, DOI 10.1177/0149206314525206
+   BREIGER RL, 1986, SOC NETWORKS, V8, P215, DOI 10.1016/0378-8733(86)90006-7
+   Caimo A, 2013, SOC NETWORKS, V35, P11, DOI 10.1016/j.socnet.2012.10.003
+   Caimo A, 2014, J STAT SOFTW, V61, P1
+   Consonni G, 2008, STAT SCI, V23, P332, DOI 10.1214/08-STS258
+   DICKEY JM, 1971, ANN MATH STAT, V42, P204, DOI 10.1214/aoms/1177693507
+   Dienes Z, 2014, FRONT PSYCHOL, V5, DOI 10.3389/fpsyg.2014.00781
+   Dittrich D, 2020, SOCIOL METHODOL, V50, P168, DOI 10.1177/0081175020913899
+   Dittrich D, 2019, SOCIOL METHOD RES, V48, P642, DOI 10.1177/0049124117729712
+   Gelman A., 2014, BAYESIAN DATA ANAL
+   Goodreau SM, 2009, DEMOGRAPHY, V46, P103, DOI 10.1353/dem.0.0045
+   Greenland S, 2016, EUR J EPIDEMIOL, V31, P337, DOI 10.1007/s10654-016-0149-3
+   Gu X., 2019, J. Stat. Comput. Simul.
+   Hanson TE, 2014, BAYESIAN ANAL, V9, P597, DOI 10.1214/14-BA868
+   Heck DW, 2023, PSYCHOL METHODS, V28, P558, DOI 10.1037/met0000454
+   Heck DW, 2019, BRIT J MATH STAT PSY, V72, P316, DOI 10.1111/bmsp.12150
+   Henry AD, 2011, J PUBL ADM RES THEOR, V21, P419, DOI 10.1093/jopart/muq042
+   Hoijtink H, 2012, CH CRC STAT SOC BEHA, P1
+   Hoijtink H, 2019, PSYCHOL METHODS, V24, P539, DOI 10.1037/met0000201
+   Hunter DR., 2008, Journal of Statistical Software, V24, P1, DOI DOI 10.18637/JSS.V024.I03
+   Jeffreys H., 1961, THEORY PROBABILITY
+   KASS RE, 1995, J AM STAT ASSOC, V90, P928, DOI 10.2307/2291327
+   Kim JY, 2016, STRATEGIC MANAGE J, V37, P22, DOI 10.1002/smj.2454
+   Klugkist I, 2007, COMPUT STAT DATA AN, V51, P6367, DOI 10.1016/j.csda.2007.01.024
+   Krivitsky PN, 2023, J STAT SOFTW, V105, P1, DOI 10.18637/jss.v105.i06
+   Leifeld P, 2018, PHYSICA A, V507, P510, DOI 10.1016/j.physa.2018.05.109
+   Leifeld P, 2012, AM J POLIT SCI, V56, P731, DOI 10.1111/j.1540-5907.2011.00580.x
+   Liang F, 2008, J AM STAT ASSOC, V103, P410, DOI 10.1198/016214507000001337
+   LINDLEY DV, 1957, BIOMETRIKA, V44, P187
+   Marin JM, 2010, ELECTRON J STAT, V4, P643, DOI 10.1214/10-EJS564
+   Masson MEJ, 2011, BEHAV RES METHODS, V43, P679, DOI 10.3758/s13428-010-0049-5
+   Mulder J, 2021, J STAT SOFTW, V100, P1, DOI 10.18637/jss.v100.i18
+   Mulder J, 2023, J APPL STAT, V50, P315, DOI 10.1080/02664763.2021.1992360
+   Mulder J, 2022, MULTIVAR BEHAV RES, V57, P767, DOI 10.1080/00273171.2021.1904809
+   Mulder J, 2022, AM STAT, V76, P102, DOI 10.1080/00031305.2020.1799861
+   Mulder J, 2021, TEST-SPAIN, V30, P103, DOI 10.1007/s11749-020-00704-4
+   Mulder J, 2019, CHAOS SOLITON FRACT, V119, P73, DOI 10.1016/j.chaos.2018.11.027
+   Mulder J, 2016, J MATH PSYCHOL, V72, P1, DOI 10.1016/j.jmp.2016.01.002
+   Mulder J, 2014, COMPUT STAT DATA AN, V71, P448, DOI 10.1016/j.csda.2013.07.017
+   Mulder J, 2010, J STAT PLAN INFER, V140, P887, DOI 10.1016/j.jspi.2009.09.022
+   OHAGAN A, 1995, J ROY STAT SOC B MET, V57, P99
+   Raftery AE, 1995, SOCIOL METHODOL, V25, P111, DOI 10.2307/271063
+   Raftery AE, 1999, SOCIOL METHOD RES, V27, P411, DOI 10.1177/0049124199027003005
+   Rouder JN, 2012, MULTIVAR BEHAV RES, V47, P877, DOI 10.1080/00273171.2012.734737
+   Rouder JN, 2009, PSYCHON B REV, V16, P225, DOI 10.3758/PBR.16.2.225
+   Saul ZM, 2007, BIOINFORMATICS, V23, P2604, DOI 10.1093/bioinformatics/btm370
+   SCHWARZ G, 1978, ANN STAT, V6, P461, DOI 10.1214/aos/1176344136
+   Simpson SL, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0020039
+   Van Lissa CJ, 2021, STRUCT EQU MODELING, V28, P292, DOI 10.1080/10705511.2020.1745644
+   Wagenmakers, 2010, Comput. Statist. Data Anal., V38, P666, DOI [10.1016/ j. csda.2010.03.016, DOI 10.1016/J.CSDA.2010.03.016]
+   Wagenmakers EJ, 2018, PSYCHON B REV, V25, P58, DOI [10.3758/s13423-017-1323-7, 10.3758/s13423-017-1343-3]
+   Wagenmakers EJ, 2010, COGNITIVE PSYCHOL, V60, P158, DOI 10.1016/j.cogpsych.2009.12.001
+   Wasserman S, 1996, PSYCHOMETRIKA, V61, P401, DOI 10.1007/BF02294547
+   Weakliem DL, 1999, SOCIOL METHOD RES, V27, P359, DOI 10.1177/0049124199027003002
+   Yin F, 2022, PLOS ONE, V17, DOI 10.1371/journal.pone.0273039
+   Zellner A., 1986, BAYESIAN INFERENCE D, P389, DOI DOI 10.4236/OJS.2013.34031
+NR 60
+TC 0
+Z9 0
+U1 3
+U2 8
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JUL
+PY 2024
+VL 78
+BP 40
+EP 53
+DI 10.1016/j.socnet.2023.11.004
+EA DEC 2023
+PG 14
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA DQ0B0
+UT WOS:001133393900001
+OA Green Published, hybrid, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Yin, FL
+   She, YW
+   Wang, JX
+   Wu, YW
+   Wu, JH
+AF Yin, Fulian
+   She, Yuwei
+   Wang, Jinxia
+   Wu, Yuewei
+   Wu, Jianhong
+TI Modeling and Analyzing Information Propagation Evolution Integrating
+   Internal and External Influences
+SO ADVANCED THEORY AND SIMULATIONS
+LA English
+DT Article
+DE complex network; dynamic model; information propagation; opinion
+   dynamics; public opinion
+ID EPIDEMIC MODEL; OPINION EVOLUTION; DIFFUSION
+AB Online social networks have revolutionized communication, providing individuals with platforms to express their personal opinions on diverse topics. Researchers have independently explored information propagation and opinion evolution within complex networks. However, these phenomena exhibit interconnectedness, where information dissemination influences opinion evolution and vice versa. To address challenges in complex network modeling and opinion-information coupling, internal and external factors are considered in public opinion scenarios by incorporating the crowd effect, enhancement effect, and evolutionary game theory. The susceptible-latent-forwarding-immune-Jager-Amblard (SLFI-JA) model is presented by modifying the SLFI propagation dynamics model and the JA opinion dynamics model, enabling the integration of information propagation and opinion evolution at the microlevel. Through analyzing real-world social hotspots on Sina Weibo, case studies and comparative analyses are conducted to validate the rationality and effectiveness of the proposed model. Furthermore, the findings identify key factors influencing public opinion dissemination and group opinion evolution, offering valuable insights to relevant departments in public opinion response and management. The study aims to mitigate the harmful effects of negative public opinions, prevent extreme adverse online events, and foster a healthier online environment.
+   Online social networks have revolutionized communication, providing individuals with platforms to express opinions on diverse topics. Through considering internal and external factors, the SLFI-JA model is presented, enabling the integration of information propagation and opinion evolution at the micro-level.image
+C1 [Yin, Fulian; Wu, Yuewei] Commun Univ China, State Key Lab Media Convergence & Commun, Beijing 100024, Peoples R China.
+   [Yin, Fulian; She, Yuwei; Wang, Jinxia; Wu, Yuewei] Commun Univ China, Coll Informat & Commun Engn, Beijing 100024, Peoples R China.
+   [Wu, Jianhong] York Univ, Fields CQAM Lab Math Publ Hlth, Lab Ind & Appl Math, Toronto, ON M3J1P3, Canada.
+C3 Communication University of China; Communication University of China;
+   York University - Canada
+RP Wu, JH (corresponding author), York Univ, Fields CQAM Lab Math Publ Hlth, Lab Ind & Appl Math, Toronto, ON M3J1P3, Canada.
+EM wujh@mathstat.yorku.ca
+FU National Natural Science Foundation of China; Beijing Natural Science
+   Foundation [4232015]; State Key Laboratory of Media Convergence and
+   Communication, Communication University of China; Fundamental Research
+   Funds for the Central Universities; Cutting-edge Disciplines
+   Construction Project for Universities in Beijing - Natural Science and
+   Engineering Research Council of Canada; Canada Research Chair Program; 
+   [62372418]
+FX The work was supported by the National Natural Science Foundation of
+   China (No. 62372418); the Beijing Natural Science Foundation (No.
+   4232015); the State Key Laboratory of Media Convergence and
+   Communication, Communication University of China; the Fundamental
+   Research Funds for the Central Universities; the High-quality and
+   Cutting-edge Disciplines Construction Project for Universities in
+   Beijing (Internet Information, Communication University of China). J.W.
+   was funded by the Natural Science and Engineering Research Council of
+   Canada; and by the Canada Research Chair Program.
+CR Blagojevic J, 2022, KYBERNETES, V51, P2833, DOI 10.1108/K-03-2021-0240
+   Chen FH, 2006, J MATH BIOL, V53, P253, DOI 10.1007/s00285-006-0006-1
+   Chen TG, 2020, COMPLEXITY, V2020, DOI 10.1155/2020/4791527
+   Chen TG, 2019, MATHEMATICS-BASEL, V7, DOI 10.3390/math7100917
+   Chmiel A, 2011, PHYSICA A, V390, P2936, DOI 10.1016/j.physa.2011.03.040
+   Ciuriak D., ROLE SOCIAL MEDIA RU
+   Cui P., 2014, NEW J PHYS, V4, P1
+   Deffuant G, 2000, APPLICATIONS OF SIMULATION TO SOCIAL SCIENCES, P87, DOI 10.1142/S0219525900000078
+   Dong S, 2021, SECUR COMMUN NETW, V2021, DOI 10.1155/2021/6342976
+   Ferrara E, 2015, PEERJ COMPUT SCI, DOI 10.7717/peerj-cs.26
+   Fu ML, 2021, PHYSICA A, V561, DOI 10.1016/j.physa.2020.125266
+   GALAM S, 1990, J STAT PHYS, V61, P943, DOI 10.1007/BF01027314
+   Hegselmann R, 2002, JASSS-J ARTIF SOC S, V5
+   Huo LA, 2020, PHYSICA A, V559, DOI 10.1016/j.physa.2020.125063
+   Jager W., 2004, Computational & Mathematical Organization Theory, V10, P295, DOI 10.1007/s10588-005-6282-2
+   Kermack WO, 1927, P R SOC LOND A-CONTA, V115, P700, DOI 10.1098/rspa.1927.0118
+   Kinder DR, 1998, ANNU REV POLIT SCI, V1, P167, DOI 10.1146/annurev.polisci.1.1.167
+   Klapper JT., 1960, EFFECTS MASS COMMUNI
+   Krawiecki A, 2017, INT J MOD PHYS B, V31, DOI 10.1142/S0217979217502149
+   Li J, 2017, JASSS-J ARTIF SOC S, V20, DOI 10.18564/jasss.3385
+   LI MY, 1995, MATH BIOSCI, V125, P155, DOI 10.1016/0025-5564(95)92756-5
+   Li Q, 2021, ENG APPL ARTIF INTEL, V100, DOI 10.1016/j.engappai.2021.104192
+   Li WD, 2020, SYMMETRY-BASEL, V12, DOI 10.3390/sym12040584
+   Liggett T. M., 1999, Grundlehren der mathematische Wissenschaften
+   Lu ZH, 2003, ACTA MATH SCI, V23, P440, DOI 10.1016/S0252-9602(17)30486-1
+   Rui XB, 2018, PHYSICA A, V506, P254, DOI 10.1016/j.physa.2018.04.062
+   Sherif M., 1961, Am. J. Sociol, V68, P126
+   Stieglitz S, 2013, J MANAGE INFORM SYST, V29, P217, DOI 10.2753/MIS0742-1222290408
+   Stone L, 2000, MATH COMPUT MODEL, V31, P207, DOI 10.1016/S0895-7177(00)00040-6
+   Sznajd-Weron K, 2000, INT J MOD PHYS C, V11, P1157, DOI 10.1142/S0129183100000936
+   Tong XR, 2022, ENTROPY-SWITZ, V24, DOI 10.3390/e24040464
+   Weibull J.W., 1997, Evolutionary game theory
+   Xia CY, 2009, FRONT COMPUT SCI CHI, V3, P361, DOI 10.1007/s11704-009-0057-8
+   Xiao DM, 2007, MATH BIOSCI, V208, P419, DOI 10.1016/j.mbs.2006.09.025
+   Yang AZ, 2019, PHYSICA A, V531, DOI 10.1016/j.physa.2019.121807
+   Yuan J., 2020, CONCURRENCY COMPUT P, V32, P5771
+   Yuan JJ, 2022, ALEX ENG J, V61, P4557, DOI 10.1016/j.aej.2021.10.014
+   Zhu HM, 2018, PHYSICA A, V492, P2034, DOI 10.1016/j.physa.2017.11.121
+NR 38
+TC 2
+Z9 2
+U1 27
+U2 53
+PU WILEY-V C H VERLAG GMBH
+PI WEINHEIM
+PA POSTFACH 101161, 69451 WEINHEIM, GERMANY
+EI 2513-0390
+J9 ADV THEOR SIMUL
+JI Adv. Theory Simul.
+PD MAR
+PY 2024
+VL 7
+IS 3
+DI 10.1002/adts.202300845
+EA DEC 2023
+PG 21
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA KD4C0
+UT WOS:001125099100001
+DA 2024-11-22
+ER

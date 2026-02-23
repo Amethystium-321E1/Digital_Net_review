@@ -1,0 +1,443 @@
+
+PT J
+AU Su, Q
+   Allen, B
+   Plotkin, JB
+AF Su, Qi
+   Allen, Benjamin
+   Plotkin, Joshua B.
+TI Evolution of cooperation with asymmetric social interactions
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE cooperation; evolutionary game theory; asymmetric relationships;
+   directed graphs
+ID HIERARCHY FORMATION; NETWORK STRUCTURE; DYNAMICS; SELECTION; MODELS;
+   RULES
+AB How cooperation emerges in human societies is both an evolutionary enigma and a practical problem with tangible implications for societal health. Population structure has long been recognized as a catalyst for cooperation because local interactions facilitate reciprocity. Analysis of population structure typically assumes bidirectional social interactions. But human social interactions are often unidirectional-where one individual has the opportunity to contribute altruistically to another, but not conversely-as the result of organizational hierarchies, social stratification, popularity effects, and endogenous mechanisms of network growth. Here we expand the theory of cooperation in structured populations to account for both uni- and bidirectional social interactions. Even though unidirectional interactions remove the opportunity for reciprocity, we find that cooperation can nonetheless be favored in directed social networks and that cooperation is provably maximized for networks with an intermediate proportion of unidirectional interactions, as observed in many empirical settings. We also identify two simple structural motifs that allow efficient modification of interaction directions to promote cooperation by orders of magnitude. We discuss how our results relate to the concepts of generalized and indirect reciprocity.
+C1 [Su, Qi; Plotkin, Joshua B.] Univ Penn, Dept Biol, Philadelphia, PA 19104 USA.
+   [Su, Qi; Plotkin, Joshua B.] Univ Penn, Ctr Math Biol, Philadelphia, PA 19104 USA.
+   [Su, Qi; Plotkin, Joshua B.] Univ Penn, Dept Math, Philadelphia, PA 19104 USA.
+   [Allen, Benjamin] Emmanuel Coll, Dept Math, Boston, MA 02115 USA.
+C3 University of Pennsylvania; University of Pennsylvania; University of
+   Pennsylvania
+RP Su, Q; Plotkin, JB (corresponding author), Univ Penn, Dept Biol, Philadelphia, PA 19104 USA.; Su, Q; Plotkin, JB (corresponding author), Univ Penn, Ctr Math Biol, Philadelphia, PA 19104 USA.; Su, Q; Plotkin, JB (corresponding author), Univ Penn, Dept Math, Philadelphia, PA 19104 USA.
+EM qisu1991@sas.upenn.edu; jplotkin@sas.upenn.edu
+RI Allen, Benjamin/F-1829-2011; Su, Qi/IWM-4206-2023
+OI Allen, Benjamin/0000-0002-9746-7613; Plotkin, Joshua/0000-0003-2349-6304
+FU Simons Foundation; David and Lucille Packard Foundation; John Templeton
+   Foundation
+FX We thank Alex McAvoy for substantial intellectual input, as well as the
+   referees and the editor for constructive questions and suggestions. Q.S.
+   was supported by the Simons Foundation (Math+X grant to the University
+   of Pennsylvania) and J.B.P. by the David and Lucille Packard Foundation
+   and The John Templeton Foundation.
+NR 0
+TC 50
+Z9 51
+U1 33
+U2 144
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+EI 1091-6490
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD JAN 4
+PY 2022
+VL 119
+IS 1
+AR e2113468118
+DI 10.1073/pnas.2113468118
+PG 11
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA YP6JM
+UT WOS:000748728600008
+PM 34983850
+OA Green Submitted, hybrid, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Li, XL
+   Geng, ST
+   Liu, SY
+AF Li, Xueli
+   Geng, Songtao
+   Liu, Suyu
+TI Social Network Analysis on Tourists' Perceived Image of Tropical Forest
+   Park: Implications for Niche Tourism
+SO SAGE OPEN
+LA English
+DT Article
+DE tourists' perceived image; tropical forest park; niche tourism; Social
+   Network Analysis (SNA); Yalong Bay
+AB Tourists' perceived image is the core of destination marketing. As an important niche tourist destination, the analysis of tourists' perceived image of tropical forest parks has great value. This study takes the Yalong Bay Tropical Paradise Forest Park as a case site and collects a total of 1,44,022 words from online travel reviews on Ctrip.com via the Python web crawler technology. Firstly, through high-frequency word analysis, we identified 77 core elements and a total of five image themes, which are attraction image, emotional image, service facility image, crowd image, and activity image. Secondly, building on Net Draw analysis, a network structure diagram of the tourist' perceived image of the Yalong Bay Tropical Paradise Forest Park is constructed. Finally, the overall network and individual network of tourists' perceived image are analyzed. The results indicate that low overall network density is in possession of core and periphery. Guojianglong Cable Bridge, battery car, and glass path enjoy both high degree centrality and betweenness centrality. They also show significant advantages of structural holes. Therefore, they are on the top of the network. The academic and practical value of tourism image projection and development in tropical forest park is discussed.
+C1 [Li, Xueli; Geng, Songtao] Hainan Univ, Haikou, Hainan, Peoples R China.
+   [Liu, Suyu] Zhongnan Univ Econ & Law, Wuhan, Peoples R China.
+C3 Hainan University; Zhongnan University of Economics & Law
+RP Liu, SY (corresponding author), Zhongnan Univ Econ & Law, Sch Publ Finance & Taxat, Nanhu Campus, Wuhan, Hubei, Peoples R China.
+EM suyu.liu@linacre.ox.ac.uk
+FU Hainan Province Foundational; Applied Foundational Research High-level
+   Talents Project "Research on the evolution, process and driving forces
+   of Hainan urban tourism efficiency in the context of developing
+   international tourism and consumption center" [2019RC153]
+FX The author(s) disclosed receipt of the following financial support for
+   the research, authorship, and/or publication of this article: The
+   article benefits from the support of the Hainan Province Foundational
+   and Applied Foundational Research High-level Talents Project "Research
+   on the evolution, process and driving forces of Hainan urban tourism
+   efficiency in the context of developing international tourism and
+   consumption center". The project number is 2019RC153.
+CR [Anonymous], 2007, DEV TOURISM RES ADV, DOI DOI 10.1016/B978-0-08-045328-6.50020-0
+   [Anonymous], 1981, PSYCHOL LEISURE TRAV
+   Sierra-Huelsz JA, 2018, GEOFORUM, V94, P1, DOI 10.1016/j.geoforum.2018.06.004
+   bing Liu, 2015, J SUN YAT SEN U SOCI, P205
+   Bjork P., 2005, Scandinavian Journal of Hospitality and Tourism, V5, P212, DOI 10.1080/15022250510014354
+   Bratman GN, 2019, SCI ADV, V5, DOI 10.1126/sciadv.aax0903
+   Buckley R, 2020, ANN TOURISM RES, V85, DOI 10.1016/j.annals.2020.103041
+   Celardo L, 2020, INT J INFORM MANAGE, V51, DOI 10.1016/j.ijinfomgt.2019.09.005
+   Chaplin J, 2013, APPL GEOGR, V43, P159, DOI 10.1016/j.apgeog.2013.06.008
+   Chon K. S., 1990, Revue de Tourisme, V45, P2, DOI 10.1108/eb058040
+   Crompton J. L., 1992, Journal of Travel Research, V31, P20, DOI 10.1177/004728759203100204
+   DAY GS, 1994, J MARKETING, V58, P37, DOI 10.2307/1251915
+   Echtner C. M., 1993, Journal of Travel Research, V31, P3, DOI 10.1177/004728759303100402
+   Echtner C. M., 1991, Journal of Tourism Studies, V2, P2
+   Ekinci Y., 2006, Journal of Travel Research, V45, P127, DOI 10.1177/0047287506291603
+   Hassan S. S., 2000, Journal of Travel Research, V38, P239, DOI 10.1177/004728750003800305
+   [胡家镜 Hu Jiajing], 2019, [资源科学, Resources Science], V41, P467
+   HUTCHINSON GE, 1957, COLD SPRING HARB SYM, V22, P415, DOI 10.1101/SQB.1957.022.01.039
+   John S., 2018, HDB SOCIAL NETWORK A, P501
+   John S., 2018, HDB SOCIAL NETWORK A, P15
+   Kelliher F, 2018, HOSP SOC, V8, P159, DOI 10.1386/hosp.8.2.159_7
+   Kelly N, 2020, TOURISM MANAGE, V79, DOI 10.1016/j.tourman.2020.104081
+   Kim S, 2019, TOUR MANAG PERSPECT, V31, P332, DOI 10.1016/j.tmp.2019.05.010
+   Kumar V, 2016, TOUR MANAG PERSPECT, V20, P217, DOI 10.1016/j.tmp.2016.09.006
+   Kuvan Y, 2005, J ENVIRON MANAGE, V75, P263, DOI 10.1016/j.jenvman.2005.01.003
+   Liu J., 2009, LECT NOTES WHOLE NET, P47
+   Luo Fen, 2019, Journal of Zhejiang A&F University, V36, P612, DOI 10.11833/j.issn.2095-0756.2019.03.024
+   Mak AHN, 2017, TOURISM MANAGE, V60, P280, DOI 10.1016/j.tourman.2016.12.012
+   Matilainen A, 2014, J RURAL STUD, V35, P70, DOI 10.1016/j.jrurstud.2014.04.007
+   NEUWIRTH G, 1972, CONTEMP SOCIOL, V1, P516, DOI 10.2307/2062503
+   Ohe Y, 2017, TOURISM MANAGE, V62, P322, DOI 10.1016/j.tourman.2017.04.010
+   Robinson M, 2005, NY TIMES BK REV, P1, DOI 10.1016/B978-0-7506-6133-1.50007-X
+   Sanya Tourism Culture Radio Film and Television Sports Bureau., EXPL HAIN YAL BAY TR
+   Song H, 1996, J BEIJING U COMMERCE, V5, P6
+   STOKOWSKI Patricia., 1995, Leisure in society: a network structural perspective
+   Wang S., 2009, TOURISM TRIBUNE, V24, P90
+   [王新歌 Wang Xinge], 2019, [资源科学, Resources Science], V41, P2237
+   Wang Z, 2020, INFORM PROCESS MANAG, V57, DOI 10.1016/j.ipm.2019.102130
+   Wolfe AW, 1997, AM ETHNOL, V24, P219, DOI 10.1525/ae.1997.24.1.219
+   Xie Yan-jun, 2019, Tourism Tribune, V34, P12
+   Xin J, 2015, WORLD AGR, V8, P200
+   [张红霞 Zhang Hongxia], 2019, [地理科学进展, Progress in Geography], V38, P520
+   Zhang Y., 2014, HUM GEOGR, V29, P111, DOI [10.13959/j.issn.1003-2398.2014.04.047, DOI 10.13959/J.ISSN.1003-2398.2014.04.047]
+   Zhao L, 2011, TOURISM TRIBUNE, V26, P20
+NR 44
+TC 7
+Z9 7
+U1 4
+U2 43
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 2158-2440
+J9 SAGE OPEN
+JI SAGE Open
+PD JAN
+PY 2022
+VL 12
+IS 1
+AR 21582440211067243
+DI 10.1177/21582440211067243
+PG 14
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA YN8WL
+UT WOS:000747532700001
+DA 2024-11-22
+ER
+
+PT J
+AU Alodjants, AP
+   Bazhenov, AY
+   Khrennikov, AY
+   Bukhanovsky, AV
+AF Alodjants, Alexander P.
+   Bazhenov, A. Yu
+   Khrennikov, A. Yu
+   Bukhanovsky, A., V
+TI Mean-field theory of social laser
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID BOSE-EINSTEIN CONDENSATION; PHASE-TRANSITION; STATISTICAL-MECHANICS;
+   QUANTUM-THEORY; MODEL; IMPACT; FLUCTUATIONS; INFORMATION; MASER; LIGHT
+AB In this work we suggest a novel paradigm of social laser (solaser), which can explain such Internet inspired social phenomena as echo chambers, reinforcement and growth of information cascades, enhancement of social actions under strong mass media operation. The solaser is based on a wellknown in quantum physics laser model of coherent amplification of the optical field. Social networks are at the core of the solaser model; we define them by means of a network model possessing power-law degree distribution. In the solaser the network environment plays the same role as the gain medium has in a physical laser device. We consider social atoms as decision making agents (humans or even chat bots), which possess two (mental) states and occupy the nodes of a network. The solaser establishes communication between the agents as absorption and spontaneous or stimulated emission of socially actual information within echo chambers, which mimic an optical resonator of a convenient (physical) laser. We have demonstrated that social lasing represents the second order nonequilibrium phase transition, which evokes the release of coherent socially stimulated information field represented with the order parameter. The solaser implies the formation of macroscopic social polarization and results in a huge social impact, which is realized by viral information cascades occurring in the presence of population imbalance (social bias). We have shown that decision making agents follow an adiabatically time dependent mass media pump, which acts in the network community reproducing various reliable scenarios for information cascade evolution. We have also shown that in contrast to physical lasers, due to node degree peculiarities, the coupling strength of decision making agents with the network may be enhanced root < k > times. It leads to a large increase of speed, at which a viral message spreads through a social media. In this case, the mass media pump supports additional reinforcement and acceleration of cascade growth. We have revealed that the solaser model in some approximations possesses clear links with familiar !sing and SIS (susceptible-infected-susceptible) models typically used for evaluating a social impact and information growth, respectively. However, the solaser paradigm can serve as a new platform for modelling temporal social events, which originate from "microscopic" (quantum-like) processes occurring in the society. Our findings open new perspectives for interdisciplinary studies of distributed intelligence agents behavior associated with information exchange and social impact.
+C1 [Alodjants, Alexander P.; Bazhenov, A. Yu; Bukhanovsky, A., V] IIMO Univ, Kronverksky Av 49,Bldg A, St Petersburg 197101, Russia.
+   [Khrennikov, A. Yu] Linnaeus Univ, Int Ctr Math Modeling Phys Engn Econ & Cognit Sci, S-35195 Vaxjo Kalmar, Sweden.
+C3 Linnaeus University
+RP Khrennikov, AY (corresponding author), Linnaeus Univ, Int Ctr Math Modeling Phys Engn Econ & Cognit Sci, S-35195 Vaxjo Kalmar, Sweden.
+EM andrei.khrennikov@lnu.se
+RI Alodjants, Alexander/G-7297-2016
+FU Linnaeus University; Ministry of Science and Higher Education of Russian
+   Federation [2019-1339]; Mathematical Center for Fundamental and Applied
+   Mathematics [075-15-2019-1621]
+FX Open access funding provided by Linnaeus University. This work was
+   supported by the Ministry of Science and Higher Education of Russian
+   Federation, Goszadanie no. 2019-1339. A.Yu. Khrennikov acknowledges
+   support from the program of the Mathematical Center for Fundamental and
+   Applied Mathematics under the agreement no 075-15-2019-1621.
+CR [Anonymous], 2013, TED C
+   [Anonymous], 2011, P 4 ACM INT C WEB SE
+   ARECCHI FT, 1966, PHYS REV LETT, V16, P32, DOI 10.1103/PhysRevLett.16.32
+   Asano M, 2012, PHYSICA A, V391, P2083, DOI 10.1016/j.physa.2011.11.042
+   Bagaev S., 2010, BEGINNING LASER ERA
+   Bagarello F, 2014, PHYSICA A, V404, P224, DOI 10.1016/j.physa.2014.02.052
+   Bagarello F, 2018, J MATH PSYCHOL, V82, P159, DOI 10.1016/j.jmp.2017.10.002
+   Baierlein R, 2001, AM J PHYS, V69, P423, DOI 10.1119/1.1336839
+   Barabsi A.-L., 2016, NETW SCI
+   Baumann F, 2020, PHYS REV LETT, V124, DOI 10.1103/PhysRevLett.124.048301
+   Bazhenov AY, 2021, PHYS REV E, V103, DOI 10.1103/PhysRevE.103.062309
+   Becker J, 2019, P NATL ACAD SCI USA, V116, P10717, DOI 10.1073/pnas.1817195116
+   Bessi A, 2016, EUR PHYS J-SPEC TOP, V225, P2047, DOI 10.1140/epjst/e2015-50319-0
+   Bianconi G, 2002, PHYS LETT A, V303, P166, DOI 10.1016/S0375-9601(02)01232-X
+   Bianconi G, 2001, PHYS REV LETT, V86, P5632, DOI 10.1103/PhysRevLett.86.5632
+   Blood P., 2015, Quantum Confined Laser Devices: Optical gain and recombination in semiconductors, DOI [10.1093/acprof:oso/9780199644513.001.0001, DOI 10.1093/ACPROF:OSO/9780199644513.001.0001]
+   Busemeyer J. R., 2012, Quantum models of cognition and decision, DOI DOI 10.1017/CBO9780511997716
+   Busemeyer JR, 2015, CURR DIR PSYCHOL SCI, V24, P163, DOI 10.1177/0963721414568663
+   Chaikin P. M., 1995, PRINCIPLES CONDENSED
+   Chakraborti A, 2000, EUR PHYS J B, V17, P167, DOI 10.1007/s100510070173
+   Cheng J, 2014, WWW'14: PROCEEDINGS OF THE 23RD INTERNATIONAL CONFERENCE ON WORLD WIDE WEB, P925, DOI 10.1145/2566486.2567997
+   Chestnov IY, 2013, PHYS REV A, V88, DOI 10.1103/PhysRevA.88.063834
+   Cinelli M, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2023301118
+   Dai ZY, 2013, 2013 IEEE INTERNATIONAL SYMPOSIUM ON SOFTWARE RELIABILITY ENGINEERING WORKSHOPS (ISSREW), P1, DOI 10.1109/ISSREW.2013.6688847
+   DEGIORGIO V, 1970, PHYS REV A-GEN PHYS, V2, P1170, DOI 10.1103/PhysRevA.2.1170
+   Demokritov SO, 2006, NATURE, V443, P430, DOI 10.1038/nature05117
+   Deng H, 2010, REV MOD PHYS, V82, P1489, DOI 10.1103/RevModPhys.82.1489
+   Denselow J, 2012, INT AFFAIRS LOND, V88, P407
+   Dorogovtsev SN, 2008, REV MOD PHYS, V80, P1275, DOI 10.1103/RevModPhys.80.1275
+   Dragulescu A, 2000, EUR PHYS J B, V17, P723, DOI 10.1007/s100510070114
+   Garcia-Diaz C, 2013, J ARTIF SOC SOC SIMU, V16, P2
+   Glauber R. J., 2007, Quantum Theory of Optical Coherence: Selected Papers and Lectures
+   Goel S, 2016, MANAGE SCI, V62, P180, DOI 10.1287/mnsc.2015.2158
+   GRAHAM R, 1970, Z PHYS, V237, P31, DOI 10.1007/BF01400474
+   Guleva V, 2020, ENTROPY-SWITZ, V22, DOI 10.3390/e22121437
+   HAKEN H, 1967, Z PHYS, V206, P355, DOI 10.1007/BF01326496
+   Haken H., 1985, LASER LIGHT DYNAMICS
+   Haven E., 2017, QUANTUM METHODS SOCI
+   Hemsley Jeff, 2016, First Monday, V21, DOI 10.5210/fm.v21i8.6650
+   HEPP K, 1973, ANN PHYS-NEW YORK, V76, P360, DOI 10.1016/0003-4916(73)90039-0
+   Herrmann F, 2005, AM J PHYS, V73, P717, DOI 10.1119/1.1904623
+   Holovatch Y., 2017, Order, Disorder And Criticality-Advanced Problems of Phase Transition Theory, VVolume 5
+   Holyst J., 2016, CYBEREMOTIONS COLLEC
+   Holyst JA, 2000, PHYSICA A, V285, P199, DOI 10.1016/S0378-4371(00)00282-X
+   Jamieson K.H., 2008, ECHO CHAMBER RUSH LI
+   Jin F., 2013, P 7 WORKSH SOC NETW, V19
+   Kessler EM, 2012, PHYS REV A, V86, DOI 10.1103/PhysRevA.86.012116
+   Ketterle W, 2002, REV MOD PHYS, V74, P1131, DOI 10.1142/S0217979202014668
+   Khrennikov A, 2010, UBIQUITOUS QUANTUM STRUCTURE: FROM PSYCHOLOGY TO FINANCE, P1, DOI 10.1007/978-3-642-05101-2
+   Khrennikov A, 2020, ENTROPY-SWITZ, V22, DOI 10.3390/e22050559
+   Khrennikov A, 2019, EUR PHYS J-SPEC TOP, V227, P2133, DOI 10.1140/epjst/e2018-800027-6
+   Khrennikov A, 2018, ENTROPY-SWITZ, V20, DOI 10.3390/e20120921
+   Khrennikov A, 2016, PHILOS T R SOC A, V374, DOI 10.1098/rsta.2015.0094
+   Khrennikov AY., 2020, SOCIAL LASER, DOI [10.1201/9780367817206, DOI 10.1201/9780367817206]
+   Kirton P, 2013, PHYS REV LETT, V111, DOI 10.1103/PhysRevLett.111.100404
+   Kitchens B, 2020, MIS QUART, V44, P1619, DOI 10.25300/MISQ/2020/16371
+   Klaers J, 2010, NATURE, V468, P545, DOI 10.1038/nature09567
+   Kocharovsky VV, 2000, PHYS REV A, V61, DOI 10.1103/PhysRevA.61.023609
+   Kohring GA, 1996, J PHYS I, V6, P301, DOI 10.1051/jp1:1996150
+   Kruchkov A, 2013, PHYS REV A, V88, DOI 10.1103/PhysRevA.88.013615
+   Lamb WE, 1999, REV MOD PHYS, V71, pS263, DOI 10.1103/RevModPhys.71.S263
+   Lawless WF, 2020, ENTROPY-SWITZ, V22, DOI 10.3390/e22111227
+   Lee SH, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.051127
+   Leff HS, 2015, AM J PHYS, V83, P362, DOI 10.1119/1.4904322
+   Lifshitz E. M., 2013, STAT PHYS THEORY CON
+   Maleki M., 2021, ARXIV PREPRINT ARXIV
+   Matsubara Y, 2015, PROCEEDINGS OF THE 24TH INTERNATIONAL CONFERENCE ON WORLD WIDE WEB (WWW 2015), P721, DOI 10.1145/2736277.2741092
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Meiser D, 2006, PHYS REV A, V74, DOI 10.1103/PhysRevA.74.065801
+   Mello IF, 2021, PHYSICA A, V573, DOI 10.1016/j.physa.2021.125963
+   Mikhailov AP, 2018, DOKL MATH, V97, P247, DOI 10.1134/S1064562418030158
+   Miller R, 2005, J PHYS B-AT MOL OPT, V38, pS551, DOI 10.1088/0953-4075/38/9/007
+   Milonni PW., 2010, LASER RESONATORS GAU, V1
+   Mimkes J., 2006, Econophysics and Sociophysics: Trends and Perspectives, P279
+   Newman MEJ., 2004, PHYS REV E, V69, P026113, DOI [10.1103/PhysRevE.69.026113, DOI 10.1103/PhysRevE.69.026113]
+   Ostilli M, 2010, PROCEDIA COMPUT SCI, V1, P2325, DOI 10.1016/j.procs.2010.04.262
+   Parisi G., 1992, FIELD THEORY DISORD, V49, P195, DOI [10.1142/9789812799050_0012, DOI 10.1142/9789812799050_0012]
+   Park J, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.066117
+   Pastor-Satorras R., 2004, Evolution and structure of the Internet: a statistical physics approach, DOI DOI 10.1017/CBO9780511610905
+   Pastor-Satorras R, 2015, REV MOD PHYS, V87, P925, DOI 10.1103/RevModPhys.87.925
+   Plotnitsky A, 2014, PHYS SCRIPTA, VT163, DOI 10.1088/0031-8949/2014/T163/014011
+   Quattrociocchi W., 2016, SOCIAL SCI RES NETWO
+   RICE PR, 1994, PHYS REV A, V50, P4318, DOI 10.1103/PhysRevA.50.4318
+   Robins NP, 2013, PHYS REP, V529, P265, DOI 10.1016/j.physrep.2013.03.006
+   SARGENT M, 1970, APPL OPTICS, V9, P2423, DOI 10.1364/AO.9.002423
+   Sasahara K, 2021, J COMPUT SOC SCI, V4, P381, DOI 10.1007/s42001-020-00084-7
+   Schmidt E., 2013, NEW DIGITAL AGE RESH
+   Scully M.O., 1997, QUANTUM OPT
+   SCULLY MO, 1967, PHYS REV, V159, P208, DOI 10.1103/PhysRev.159.208
+   Shuai X, 2012, INT J SEMANT WEB INF, V8, P20, DOI 10.4018/jswis.2012100102
+   Snoke D., 2012, Springer Series in Solid-State Sciences, P307, DOI DOI 10.1007/978-3-642-24186-4_12
+   Sob'yanin DN, 2013, PHYS REV E, V88, DOI 10.1103/PhysRevE.88.022132
+   Stauffer D, 2008, AM J PHYS, V76, P470, DOI 10.1119/1.2779882
+   Surov IA, 2019, FRONT PSYCHOL, V10, DOI 10.3389/fpsyg.2019.00929
+   Svelto O., 1998, PRINCIPLES LASERS, DOI [10.1007/978-1-4757-6266-2, DOI 10.1007/978-1-4757-6266-2]
+   Symonds J, 2021, LONG THEY LAST
+   Tonello L, 2021, ENTROPY-SWITZ, V23, DOI 10.3390/e23060745
+   Tsarev D, 2019, SCI REP-UK, V9, DOI 10.1038/s41598-019-54296-7
+   Vahala KJ, 2003, NATURE, V424, P839, DOI 10.1038/nature01939
+   VITIELLO G, 1995, INT J MOD PHYS B, V9, P973, DOI 10.1142/S0217979295000380
+   Vitiello G, 2001, MY DOUBLE UNVEILED D
+   WANG YK, 1973, PHYS REV A, V7, P831, DOI 10.1103/PhysRevA.7.831
+   Watts DJ, 2002, P NATL ACAD SCI USA, V99, P5766, DOI 10.1073/pnas.082090499
+   Weidlich W., 1973, FOKKER PLANCK EQUATI, P269
+   Wichert A, 2020, ENTROPY-SWITZ, V22, DOI 10.3390/e22020170
+   ZELDOVIC.YB, 1969, SOV PHYS JETP-USSR, V28, P1287
+   Zhang ZD, 2019, PHYS REV LETT, V122, DOI 10.1103/PhysRevLett.122.158101
+   Zhou B, 2020, P NATL ACAD SCI USA, V117, P14812, DOI 10.1073/pnas.1918901117
+NR 108
+TC 5
+Z9 5
+U1 1
+U2 15
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD MAY 20
+PY 2022
+VL 12
+IS 1
+AR 8566
+DI 10.1038/s41598-022-12327-w
+PG 17
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA 1K1DG
+UT WOS:000798349300044
+PM 35595814
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Chen, CYH
+   Härdle, WK
+   Klochkov, Y
+AF Chen, Cathy Yi-Hsuan
+   Haerdle, Wolfgang Karl
+   Klochkov, Yegor
+TI SONIC: SOcial Network analysis with Influencers and Communities
+SO JOURNAL OF ECONOMETRICS
+LA English
+DT Article
+DE Social media; Network; Community; Influencers; Sentiment
+ID INVESTOR SENTIMENT; MODEL SELECTION; SPARSE; LASSO
+AB The integration of social media characteristics into an econometric framework requires modeling a high dimensional dynamic network with dimensions of parameter typically much larger than the number of observations. To cope with this problem, we introduce SONIC, a new high-dimensional network model that assumes that (1) only few influencers drive the network dynamics; (2) the community structure of the network is characterized by homogeneity of response to specific influencers, implying their underlying similarity. An estimation procedure is proposed based on a greedy algorithm and LASSO regularization. Through theoretical study and simulations, we show that the matrix parameter can be estimated even when sample size is smaller than the size of the network. Using a novel dataset retrieved from one of leading social media platforms - StockTwits and quantifying their opinions via natural language processing, we model the opinions network dynamics among a select group of users and further detect the latent communities. With a sparsity regularization, we can identify important nodes in the network. (c) 2021 The Author(s). Published by Elsevier B.V. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+C1 [Chen, Cathy Yi-Hsuan] Univ Glasgow, Adam Smith Business Sch, Glasgow, Lanark, Scotland.
+   [Chen, Cathy Yi-Hsuan; Haerdle, Wolfgang Karl] Humboldt Univ, Berlin, Germany.
+   [Haerdle, Wolfgang Karl] Humboldt Univ, BRC Blockchain Res Ctr, Berlin, Germany.
+   [Haerdle, Wolfgang Karl] Singapore Management Univ, Sim Kee Boon Inst, Singapore, Singapore.
+   [Haerdle, Wolfgang Karl] Xiamen Univ, Wise Wang Yanan Inst Studies Econ, Xiamen, Peoples R China.
+   [Haerdle, Wolfgang Karl] Natl Chiao Tung Univ, Dept Informat Sci & Finance, Hsinchu, Taiwan.
+   [Haerdle, Wolfgang Karl] Charles Univ Prague, Dept Math & Phys, Prague, Czech Republic.
+   [Klochkov, Yegor] Univ Cambridge, Fac Econ, Cambridge INET, Cambridge, England.
+C3 University of Glasgow; Humboldt University of Berlin; Humboldt
+   University of Berlin; Singapore Management University; Xiamen
+   University; National Yang Ming Chiao Tung University; Charles University
+   Prague; University of Cambridge
+RP Chen, CYH (corresponding author), Univ Glasgow, Adam Smith Business Sch, Glasgow, Lanark, Scotland.
+EM CathyYi-Hsuan.Chen@glasgow.ac.uk; haerdle@hu-berlin.de; yk376@cam.ac.uk
+RI Härdle, Wolfgang/C-5963-2013
+FU German Research Foundation (DFG), Germany
+FX The work was done while this author was a postgraduate student at
+   Humboldt-Universitat zu Berlin. Financial support from the German
+   Research Foundation (DFG), Germany via the International Research
+   Training Group 1792 ``High Dimensional Nonstationary Time Series'' in
+   Humboldt-Universitat zu Berlin and is gratefully acknowledged.
+CR Avery CN, 2016, REV FINANC, V20, P1363, DOI 10.1093/rof/rfv043
+   Belloni A, 2013, BERNOULLI, V19, P521, DOI 10.3150/11-BEJ410
+   Bickel PJ, 2009, ANN STAT, V37, P1705, DOI 10.1214/08-AOS620
+   Cha M., 2010, ICWSM, V10, P10, DOI DOI 10.1609/ICWSM.V4I1.14033
+   Chen CYH, 2019, J ECONOMETRICS, V208, P282, DOI 10.1016/j.jeconom.2018.09.016
+   Chen M., 2016, Working Paper
+   Chen ML, 2021, J ECONOMETRICS, V220, P296, DOI 10.1016/j.jeconom.2020.04.004
+   Chen S., 2019, PRESCREENING REDUCED
+   Chen Y., 2018, DISCOVER REGIONAL SI
+   Chernozhukov V, 2020, Arxiv, DOI arXiv:1806.05081
+   Cízek P, 2009, ECONOMET J, V12, P248, DOI 10.1111/j.1368-423X.2009.00292.x
+   Deng SY, 2017, DECIS SUPPORT SYST, V94, P65, DOI 10.1016/j.dss.2016.11.001
+   Diebold FX, 2014, J ECONOMETRICS, V182, P119, DOI 10.1016/j.jeconom.2014.04.012
+   Fan JQ, 2009, ANN APPL STAT, V3, P521, DOI 10.1214/08-AOAS215
+   Gribonval R, 2015, IEEE T INFORM THEORY, V61, P6298, DOI 10.1109/TIT.2015.2472522
+   Gudmundsson G.Brownlees., 2018, COMMUNITY DETECTION
+   Han F, 2015, J MACH LEARN RES, V16, P3115
+   Hsu D, 2012, ELECTRON COMMUN PROB, V17, P1, DOI 10.1214/ECP.v17-2079
+   Kapetanios G., 2019, DETECTION UNITS PERV
+   Kim SH, 2014, J ECON BEHAV ORGAN, V107, P708, DOI 10.1016/j.jebo.2014.04.015
+   Klochkov Y, 2020, ELECTRON J PROBAB, V25, DOI 10.1214/20-EJP422
+   Koltchinskii V, 2017, BERNOULLI, V23, P110, DOI 10.3150/15-BEJ730
+   Le Gouic T, 2018, ELECTRON J STAT, V12, P4239, DOI 10.1214/18-EJS1500
+   Likas A, 2003, PATTERN RECOGN, V36, P451, DOI 10.1016/S0031-3203(02)00060-2
+   Loughran T, 2011, J FINANC, V66, P35, DOI 10.1111/j.1540-6261.2010.01625.x
+   Lounici K, 2014, BERNOULLI, V20, P1029, DOI 10.3150/12-BEJ487
+   Melnyk I, 2016, PR MACH LEARN RES, V48
+   Mihoci A., 2020, ADV ECONOMETRICS C
+   Parker J, 2016, J BUS ECON STAT, V34, P227, DOI 10.1080/07350015.2015.1026439
+   Pesaran M.H., 2020, J ECON
+   Rakhlin A., 2007, ADV NEURAL INFORM PR, P1121
+   Renault T, 2017, J BANK FINANC, V84, P25, DOI 10.1016/j.jbankfin.2017.07.002
+   Moon HR, 2019, Arxiv, DOI arXiv:1810.10987
+   Rohe K, 2016, P NATL ACAD SCI USA, V113, P12679, DOI 10.1073/pnas.1525793113
+   Shindler Michael, 2011, P ADV NEUR INF PROC, P2375
+   Tropp JA, 2006, IEEE T INFORM THEORY, V52, P1030, DOI 10.1109/TIT.2005.864420
+   Udell M, 2016, FOUND TRENDS MACH LE, V9, P2, DOI 10.1561/2200000055
+   Van de Geer S, 2014, ANN STAT, V42, P1166, DOI 10.1214/14-AOS1221
+   van de Geer SA, 2008, ANN STAT, V36, P614, DOI 10.1214/009053607000000929
+   Vershynin Roman, 2018, HIGH DIMENSIONAL PRO
+   Wang TY, 2018, J R STAT SOC B, V80, P57, DOI 10.1111/rssb.12243
+   Yi-Hsuan Chen C., 2019, What makes cryptocurrencies special? Investor sentiment and return predictability during the bubble
+   Zhao P, 2006, J MACH LEARN RES, V7, P2541
+   Zhu XN, 2020, STAT SINICA, V30, P1437, DOI 10.5705/ss.202017.0533
+   Zhu XN, 2019, J ECONOMETRICS, V212, P345, DOI 10.1016/j.jeconom.2019.04.034
+   Zhu XN, 2017, ANN STAT, V45, P1096, DOI 10.1214/16-AOS1476
+NR 46
+TC 3
+Z9 3
+U1 9
+U2 36
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 0304-4076
+EI 1872-6895
+J9 J ECONOMETRICS
+JI J. Econom.
+PD JUN
+PY 2022
+VL 228
+IS 2
+BP 177
+EP 220
+DI 10.1016/j.jeconom.2021.02.008
+EA APR 2022
+PG 44
+WC Economics; Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Mathematics; Mathematical Methods In Social
+   Sciences
+GA 3E5MF
+UT WOS:000830026600001
+OA hybrid, Green Accepted
+DA 2024-11-22
+ER

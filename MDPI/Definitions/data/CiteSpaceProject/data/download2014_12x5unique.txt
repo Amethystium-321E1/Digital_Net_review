@@ -1,0 +1,611 @@
+
+PT J
+AU Rhee, M
+   Kim, T
+AF Rhee, Mooweon
+   Kim, Tohyun
+TI Identity-based learning and segregation in social networks under
+   different institutional environments
+SO COMPUTATIONAL AND MATHEMATICAL ORGANIZATION THEORY
+LA English
+DT Article
+DE Segregation; Social networks; Learning; Identity; Homophily
+ID SYSTEM SIZE; ORGANIZATIONS; DYNAMICS; RACE; SEX; ATTENTION; DIVERSITY;
+   SALIENCE
+AB To study the evolution of segregation in social networks across systems embedded in different institutional environments, we develop an identity-based learning model where segregation is stochastically conditioned by the initial distribution of the actor's attention to identity and the updating of this distribution over time. The updating process, which we call the process of mutual learning multiplier, is based on an actor's success and failure experiences in tying with the same-subgroup and cross-subgroup actors. Results from a Monte Carlo simulation of the model show that the mutual learning multiplier produces disproportional relationships between the initial distribution of identity attention and the level of segregation in social networks. We also find that those relationships are affected by the actors' attention to structural holes, rate of learning from experience, system size, and the identity heterogeneity of the system. Overall, the model provides insights into various dynamics of network structuration across time and space.
+C1 [Rhee, Mooweon] Yonsei Univ, Sch Business, Seoul 120749, South Korea.
+   [Kim, Tohyun] Sungkyunkwan Univ, Sch Business, Seoul 110745, South Korea.
+C3 Yonsei University; Sungkyunkwan University (SKKU)
+RP Kim, T (corresponding author), Sungkyunkwan Univ, Sch Business, 25-2 Seonggyungwan Ro, Seoul 110745, South Korea.
+EM mooweon@yonsei.ac.kr; tohyunkim@skku.edu
+RI Kim, Tohyun/C-6403-2011
+OI Kim, Tohyun/0000-0002-3605-0603
+FU National Research Foundation of Korea - Korean Government
+   [NRF-2013S1A3A2053799]
+FX We are very thankful to Steve Borgatti, Jim March, Olav Sorenson, and
+   anonymous reviewers for their insightful comments on earlier versions of
+   this manuscript. This paper was supported by the National Research
+   Foundation of Korea Grant funded by the Korean Government
+   (NRF-2013S1A3A2053799) to Mooweon Rhee.
+CR [Anonymous], 1997, The Economic Organization of East Asian Capitalism
+   Axelrod R.M., 2000, HARNESSING COMPLEXIT
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barabási AL, 2007, IEEE CONTR SYST MAG, V27, P33, DOI 10.1109/MCS.2007.384127
+   BELL W, 1978, CONTEMP SOCIOL, V7, P692, DOI 10.2307/2065673
+   Blau P.M., 1977, INEQUALITY HETEROGEN
+   Blau PM., 2017, EXCHANGE POWER SOC, DOI 10.4324/9780203792643
+   Bobo LawrenceD., 2001, AM BECOMING, V1, P264, DOI DOI 10.17226/9599
+   Bonacich P, 2003, J MATH SOCIOL, V27, P263, DOI 10.1080/00222500390245349
+   Brass DJ, 2004, ACAD MANAGE J, V47, P795, DOI 10.5465/20159624
+   Burt RS, 2000, SOC NETWORKS, V22, P1, DOI 10.1016/S0378-8733(99)00015-5
+   Bush R., 1955, STOCHASTIC MODELS LE
+   Carley KM, 1999, RES SOC ORG, V16, P3
+   Chang MH, 2005, AM J SOCIOL, V110, P937, DOI 10.1086/426555
+   Child J., 2003, Handbook of organizational learning and knowledge management, P535
+   Cohen M.D., 1996, ORG LEARNING
+   Coleman J.S., 1994, FDN SOCIAL THEORY
+   Cyert R.M., 1963, BEHAV THEORY FIRM
+   DIMAGGIO PJ, 1983, AM SOCIOL REV, V48, P147, DOI 10.2307/2095101
+   Echenique F, 2007, Q J ECON, V122, P441, DOI 10.1162/qjec.122.2.441
+   EMIRBAYER M, 1994, AM J SOCIOL, V99, P1411, DOI 10.1086/230450
+   Epstein J. M., 1996, GROWING ARTIFICIAL S
+   FARARO TJ, 1981, SOC NETWORKS, V3, P137, DOI 10.1016/0378-8733(81)90012-5
+   Festinger L, 1954, HUM RELAT, V7, P117, DOI 10.1177/001872675400700202
+   Fischer Claude S., 1982, To Dwell among Friends: Personal Networks in Town and City
+   Fiske S. T., 1991, SOCIAL COGNITION
+   Flache A., 1999, Computational & Mathematical Organization Theory, V5, P97, DOI 10.1023/A:1009662602975
+   FREEMAN LC, 1978, SOCIOL METHOD RES, V6, P411, DOI 10.1177/004912417800600401
+   Gelb Joyce., 1994, Women of Japan and Korea: Continuity and Change
+   GERLACH ML, 1992, NETWORKS AND ORGANIZATIONS : STRUCTURE, FORM, AND ACTION, P491
+   Giddens Anthony, 1984, CONSTITUTION SOC
+   Granovetter M., 1994, HDB EC SOCIOLOGY
+   Greenwood R, 2010, ORGAN SCI, V21, P521, DOI 10.1287/orsc.1090.0453
+   Guillen M.F., 2001, The limits of convergence: Globalization and organizational change in Argentina, South Korea, and Spain
+   Gulati R, 1999, AM J SOCIOL, V104, P1439, DOI 10.1086/210179
+   HALLINAN MT, 1989, AM SOCIOL REV, V54, P67, DOI 10.2307/2095662
+   Heider F, 1946, J PSYCHOL, V21, P107, DOI 10.1080/00223980.1946.9917275
+   Hoffman AJ, 2001, ORGAN SCI, V12, P414, DOI 10.1287/orsc.12.4.414.10639
+   HOLLAND PW, 1971, COMP GROUP STUD, V2, P107, DOI 10.1177/104649647100200201
+   Ibarra H, 2005, ORGAN SCI, V16, P359, DOI 10.1287/orsc.1050.0129
+   IBARRA H, 1992, ADMIN SCI QUART, V37, P422, DOI 10.2307/2393451
+   KASARDA JD, 1974, AM SOCIOL REV, V39, P19, DOI 10.2307/2094273
+   Katz L, 1955, SOCIOMETRY, V18, P403, DOI 10.2307/2785876
+   Khanna T, 1998, STRATEGIC MANAGE J, V19, P193, DOI 10.1002/(SICI)1097-0266(199803)19:3<193::AID-SMJ949>3.0.CO;2-C
+   Kijima K., 2001, Computational & Mathematical Organization Theory, V7, P45, DOI 10.1023/A:1011377532016
+   Kim T, 2009, STRATEG ORGAN, V7, P11, DOI 10.1177/1476127008100125
+   Koehler G, 2010, SOC SCI RES, V39, P14, DOI 10.1016/j.ssresearch.2009.05.004
+   Kramer R., 1991, RES ORGAN BEHAV, V13, P191
+   Kramer R.M., 1993, SOCIAL PSYCHOL ORG, P244
+   Laumann E.O., 1994, SOCIAL ORG SEXUALITY
+   Lave C., 1975, An introduction to models in the social sciences
+   Lazarsfeld P.F., 1954, Freedom and Control in Modern Society, P18, DOI DOI 10.1111/J.1467-8705.2012.02056_3.X
+   LEVITT B, 1988, ANNU REV SOCIOL, V14, P319, DOI 10.1146/annurev.so.14.080188.001535
+   March J.G., 1999, Organizing Political Institutions: Essays for Johan P. Olsen, P129
+   March J.G., 1994, A primer on decision making: How decisions happen
+   March J.G., 1976, AMBIGUITY CHOICE ORG
+   MAYHEW BH, 1972, AM SOCIOL REV, V37, P629, DOI 10.2307/2093457
+   MAYHEW BH, 1976, AM J SOCIOL, V82, P86, DOI 10.1086/226271
+   MAYHEW BH, 1995, SOC FORCES, V74, P15, DOI 10.2307/2580623
+   MCCLELLAND KE, 1990, J HIGH EDUC, V61, P607, DOI 10.2307/1981988
+   MCPHERSON JM, 1987, AM SOCIOL REV, V52, P370, DOI 10.2307/2095356
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mehra A, 1998, ACAD MANAGE J, V41, P441, DOI 10.5465/257083
+   MEYER JW, 1977, AM J SOCIOL, V83, P340, DOI 10.1086/226550
+   Milliken FJ, 1996, ACAD MANAGE REV, V21, P402, DOI 10.2307/258667
+   Moody J, 2001, AM J SOCIOL, V107, P679, DOI 10.1086/338954
+   Nelson R. R., 1983, An Evolutionary Theory of Economic Change
+   Ocasio W, 1997, STRATEGIC MANAGE J, V18, P187, DOI 10.1002/(SICI)1097-0266(199707)18:1+<187::AID-SMJ936>3.3.CO;2-B
+   PADGETT JF, 1993, AM J SOCIOL, V98, P1259, DOI 10.1086/230190
+   Pfeffer J., 1978, EXTERNAL CONTROL ORG
+   PODOLNY JM, 1993, AM J SOCIOL, V98, P829, DOI 10.1086/230091
+   Podolny JM, 1997, AM SOCIOL REV, V62, P673, DOI 10.2307/2657354
+   Podolny JM, 2001, AM J SOCIOL, V107, P33, DOI 10.1086/323038
+   Powell W. W., 1991, NEW I ORG ANAL
+   Powell WW, 2005, AM J SOCIOL, V110, P1132, DOI 10.1086/421508
+   Powell WW, 2002, REG STUD, V36, P291, DOI 10.1080/00343400220122089
+   Randel AE, 2002, J ORGAN BEHAV, V23, P749, DOI 10.1002/job.163
+   Robins G, 2005, AM J SOCIOL, V110, P894, DOI 10.1086/427322
+   Rodan S, 2008, COMPUT MQTH ORGAN TH, V14, P222, DOI 10.1007/s10588-008-9028-0
+   Simon H. A., 2013, ADM BEHAV
+   SKVORETZ J, 1983, AM SOCIOL REV, V48, P360, DOI 10.2307/2095228
+   Sullivan BN, 2010, ORGAN SCI, V21, P432, DOI 10.1287/orsc.1090.0436
+   Tajfel Henri., 1982, SOCIAL IDENTITY INTE
+   Thornton P., 2008, The Sage Handbook of Organizational Institutionalism, DOI [10.4135/9781849200387.n4, DOI 10.4135/9781849200387.N4]
+   Thornton PH, 1999, AM J SOCIOL, V105, P801, DOI 10.1086/210361
+   TUMA NB, 1979, SOC FORCES, V57, P1265, DOI 10.2307/2577270
+   Turner J.C., 1999, SOCIAL IDENTITY, P6
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Williams KY, 1998, RES ORGAN BEHAV, V20, P77
+   Zatzick CD, 2003, ORGAN SCI, V14, P483, DOI 10.1287/orsc.14.5.483.16768
+NR 91
+TC 0
+Z9 1
+U1 0
+U2 14
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1381-298X
+EI 1572-9346
+J9 COMPUT MATH ORGAN TH
+JI Comput. Math. Organ. Theory
+PD DEC
+PY 2014
+VL 20
+IS 4
+BP 339
+EP 368
+DI 10.1007/s10588-013-9169-7
+PG 30
+WC Computer Science, Interdisciplinary Applications; Mathematics,
+   Interdisciplinary Applications; Social Sciences, Mathematical Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science; Mathematics; Mathematical Methods In Social Sciences
+GA AT5TP
+UT WOS:000345005300001
+DA 2024-11-22
+ER
+
+PT J
+AU Zubcsek, PP
+   Chowdhury, I
+   Katona, Z
+AF Zubcsek, Peter Pal
+   Chowdhury, Imran
+   Katona, Zsolt
+TI Information communities: The network structure of communication
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Communities; Communication; Information transmission; Network closure
+ID ORGANIZATIONS; CENTRALITY
+AB This study puts forward a variable clique overlap model for identifying information communities, or potentially overlapping subgroups of network actors among whom reinforced independent links ensure efficient communication. We posit that the average intensity of communication between related individuals in information communities is greater than in other areas of the network. Empirical tests show that the variable clique overlap model is indeed more effective in identifying groups of individuals that have strong internal relationships in communication networks relative to prior cohesive subgroup models; the pathways generated by such an arrangement of connections are particularly robust against disruptions of information transmission. Our findings extend the scope of network closure effects proposed by other researchers working with communication networks using social network methods and approaches, a tradition which emphasizes ties between organizations, groups, individuals, and the external environment. (C) 2014 Elsevier B.V. All rights reserved.
+C1 [Zubcsek, Peter Pal] Univ Florida, Warrington Coll Business Adm, Gainesville, FL 32611 USA.
+   [Chowdhury, Imran] Pace Univ, Lubin Sch Business, New York, NY 10038 USA.
+   [Katona, Zsolt] Univ Calif Berkeley, Haas Sch Business, Berkeley, CA 94720 USA.
+C3 State University System of Florida; University of Florida; Pace
+   University; University of California System; University of California
+   Berkeley
+RP Zubcsek, PP (corresponding author), Univ Florida, Warrington Coll Business Adm, Gainesville, FL 32611 USA.
+EM pzubcsek@ufl.edu; ichowdhury@pace.edu; zskatona@haas.berkeley.edu
+OI Chowdhury, Imran/0000-0002-7589-7161
+CR ALBA RD, 1973, J MATH SOCIOL, V3, P113, DOI 10.1080/0022250X.1973.9989826
+   [Anonymous], 1990, Information and organizations
+   [Anonymous], 1992, Structural holes
+   [Anonymous], 2002, Ucinet for Windows: Software for social network analysis
+   [Anonymous], 1997, Administrative Behavior: A Study of Decision/Making Processes in Administrative organizations
+   Balkundi P, 2006, ACAD MANAGE J, V49, P49, DOI [10.5465/AMJ.2006.20785500, 10.2307/20159745]
+   Bellin E, 2004, COMP POLIT, V36, P139, DOI 10.2307/4150140
+   Bermudez J., 2004, INFORM DPRKS MILITAR, P31
+   Bolton RN, 1998, MARKET SCI, V17, P45, DOI 10.1287/mksc.17.1.45
+   Borgatti SP, 2003, DYNAMIC SOCIAL NETWORK MODELING AND ANALYSIS, P241
+   BORGATTI SP, 1990, SOC NETWORKS, V12, P337, DOI 10.1016/0378-8733(90)90014-Z
+   Borgatti SP, 2009, SCIENCE, V323, P892, DOI 10.1126/science.1165821
+   Carley K.M., 2002, P AG, P2
+   Charmaz K., 2006, Brokerage and closure: An introduction to social capital
+   Coleman J.S., 1994, FDN SOCIAL THEORY
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   Cool KO, 1997, ORGAN SCI, V8, P543, DOI 10.1287/orsc.8.5.543
+   DAFT RL, 1984, ACAD MANAGE REV, V9, P284, DOI 10.2307/258441
+   Evans TS, 2010, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2010/12/P12037
+   Everett M., 1998, CONNECTIONS, V21, P49
+   FERC, 2003, INF REL ENR INV
+   Forsyth E, 1946, SOCIOMETRY, V9, P340, DOI 10.2307/2785498
+   Fortunato S, 2007, P NATL ACAD SCI USA, V104, P36, DOI 10.1073/pnas.0605965104
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   FREEMAN LC, 1992, AM J SOCIOL, V98, P152, DOI 10.1086/229972
+   FREEMAN LC, 1977, SOCIOMETRY, V40, P35, DOI 10.2307/3033543
+   Girvan M, 2002, P NATL ACAD SCI USA, V99, P7821, DOI 10.1073/pnas.122653799
+   Hansen MT, 2002, ORGAN SCI, V13, P232, DOI 10.1287/orsc.13.3.232.2771
+   Hansen MT, 2001, ADMIN SCI QUART, V46, P1, DOI 10.2307/2667123
+   Kilduff M, 2010, ACAD MANAG ANN, V4, P317, DOI 10.1080/19416520.2010.494827
+   KILLWORTH PD, 1978, SOC NETWORKS, V1, P159, DOI 10.1016/0378-8733(78)90018-7
+   Krackhardt D, 1999, RES SOC ORG, V16, P183
+   Luce R.D., 1949, Psychometrika, V14, P95, DOI [10.1007/BF02289146, DOI 10.1007/BF02289146]
+   Luce R. D., 1950, PSYCHOMETRIKA, V15, P169
+   MOKKEN RJ, 1979, QUAL QUANT, V13, P161, DOI 10.1007/BF00139635
+   Moody J, 2003, AM SOCIOL REV, V68, P103, DOI 10.2307/3088904
+   Moreno J.L., 1934, WHO SHALL SURVIVE NE, V8
+   Nahapiet J, 1998, ACAD MANAGE REV, V23, P242, DOI 10.2307/259373
+   Newman MEJ, 2006, P NATL ACAD SCI USA, V103, P8577, DOI 10.1073/pnas.0601602103
+   Palla G, 2005, NATURE, V435, P814, DOI 10.1038/nature03607
+   Palla G, 2007, NATURE, V446, P664, DOI 10.1038/nature05670
+   Robinson GE, 2012, CURR HIST, V111, P331
+   Rowley T.J., 2004, MANAG DECIS ECON, V25, P453
+   Scott J., 2006, SOCIAL NETWORK ANAL, V2nd
+   SEIDMAN SB, 1978, J MATH SOCIOL, V6, P139, DOI 10.1080/0022250X.1978.9989883
+   SEIDMAN SB, 1983, SOC NETWORKS, V5, P269, DOI 10.1016/0378-8733(83)90028-X
+   Uzzi B, 2005, AM J SOCIOL, V111, P447, DOI 10.1086/432782
+   Wasserman S., 1994, SOCIAL NETWORK ANAL
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   YATES JT, 1993, ABSTR PAP AM CHEM S, V205, P6
+   Zmud R.W., 1990, ORG COMMUNICATION TE, P95
+NR 51
+TC 21
+Z9 23
+U1 2
+U2 47
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JUL
+PY 2014
+VL 38
+BP 50
+EP 62
+DI 10.1016/j.socnet.2014.02.001
+PG 13
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA AI6VP
+UT WOS:000337015400005
+DA 2024-11-22
+ER
+
+PT J
+AU Podgórski, T
+   Lusseau, D
+   Scandura, M
+   Sonnichsen, L
+   Jedrzejewska, B
+AF Podgorski, Tomasz
+   Lusseau, David
+   Scandura, Massimo
+   Sonnichsen, Leif
+   Jedrzejewska, Bogumila
+TI Long-Lasting, Kin-Directed Female Interactions in a Spatially Structured
+   Wild Boar Social Network
+SO PLOS ONE
+LA English
+DT Article
+ID SUS-SCROFA; GENETIC RELATEDNESS; POPULATION-STRUCTURE; LITTER SIZE;
+   SPACE USE; BEHAVIOR; PATTERNS; KINSHIP; ASSOCIATIONS; PERFORMANCE
+AB Individuals can increase inclusive fitness benefits through a complex network of social interactions directed towards kin. Preferential relationships with relatives lead to the emergence of kin structures in the social system. Cohesive social groups of related individuals and female philopatry of wild boar create conditions for cooperation through kin selection and make the species a good biological model for studying kin structures. Yet, the role of kinship in shaping the social structure of wild boar populations is still poorly understood. In the present study, we investigated spatio-temporal patterns of associations and the social network structure of the wild boar Sus scrofa population in Bialowiezia National Park, Poland, which offered a unique opportunity to understand wild boar social interactions away from anthropogenic factors. We used a combination of telemetry data and genetic information to examine the impact of kinship on network cohesion and the strength of social bonds. Relatedness and spatial proximity between individuals were positively related to the strength of social bond. Consequently, the social network was spatially and genetically structured with well-defined and cohesive social units. However, spatial proximity between individuals could not entirely explain the association patterns and network structure. Genuine, kin-targeted, and temporarily stable relationships of females extended beyond spatial proximity between individuals while males interactions were short-lived and not shaped by relatedness. The findings of this study confirm the matrilineal nature of wild boar social structure and show how social preferences of individuals translate into an emergent socio-genetic population structure.
+C1 [Podgorski, Tomasz; Sonnichsen, Leif; Jedrzejewska, Bogumila] Polish Acad Sci, Mammal Res Inst, Bialowieza, Poland.
+   [Lusseau, David] Univ Aberdeen, Inst Biol & Environm Sci, Aberdeen, Scotland.
+   [Scandura, Massimo] Univ Sassari, Dept Sci Nat & Environm Resources, I-07100 Sassari, Italy.
+C3 Polish Academy of Sciences; Mammal Research Institute of the Polish
+   Academy of Sciences; University of Aberdeen; University of Sassari
+RP Podgórski, T (corresponding author), Polish Acad Sci, Mammal Res Inst, Bialowieza, Poland.
+EM t_podgorski@ibs.bialowieza.pl
+RI Scandura, Massimo/K-7847-2012; Lusseau, David/A-8501-2012; Podgorski,
+   Tomasz/B-4869-2015
+OI Scandura, Massimo/0000-0003-2754-6866; Lusseau,
+   David/0000-0003-1245-3747; Podgorski, Tomasz/0000-0001-6858-7838
+FU Ministry of Science and Higher Education [NN304 253935]; Mammal Research
+   Institute PAS; BIOCONSUS project (Research Potential in Conservation and
+   Sustainable Management of Biodiversity) [245737]
+FX The study was funded by the Ministry of Science and Higher Education
+   (grant number NN304 253935), the budget of the Mammal Research Institute
+   PAS, and BIOCONSUS project (Research Potential in Conservation and
+   Sustainable Management of Biodiversity, 7th Framework Programme contract
+   no. 245737, FP7/2009-2014). The funders had no role in study design,
+   data collection and analysis, decision to publish, or preparation of the
+   manuscript.
+CR [Anonymous], PREDATION VERTEBRATE
+   [Anonymous], 1997, Randomization, bootstrap and Monte Carlo methods in biology
+   [Anonymous], 2002, NETDRAW GRAPH VISUAL
+   Armitage KB, 2000, P NATL ACAD SCI USA, V97, P12149, DOI 10.1073/pnas.200196097
+   BOITANI L, 1994, J MAMMAL, V75, P600, DOI 10.2307/1382507
+   CAIRNS SJ, 1987, ANIM BEHAV, V35, P1454, DOI 10.1016/S0003-3472(87)80018-0
+   Campbell RA, 2008, BIOL LETTERS, V4, P139, DOI 10.1098/rsbl.2007.0487
+   Carter KD, 2013, ANIM BEHAV, V85, P385, DOI 10.1016/j.anbehav.2012.11.011
+   Clayton L, 1999, J MAMMAL, V80, P1147, DOI 10.2307/1383165
+   Clutton-Brock T, 2009, NATURE, V462, P51, DOI 10.1038/nature08366
+   CROOK JH, 1976, ANIM BEHAV, V24, P261, DOI 10.1016/S0003-3472(76)80035-8
+   Csilléry K, 2006, GENETICS, V173, P2091, DOI 10.1534/genetics.106.057331
+   DARDAILLON M, 1988, Z SAUGETIERKD, V53, P22
+   DELCROIX I, 1990, J REPROD FERTIL, V89, P613, DOI 10.1530/jrf.0.0890613
+   Edwards GR, 1996, APPL ANIM BEHAV SCI, V50, P147, DOI 10.1016/0168-1591(96)01077-5
+   Ferriere R, 1996, AM NAT, V147, P692, DOI 10.1086/285875
+   Fieberg J, 2005, J WILDLIFE MANAGE, V69, P1346, DOI 10.2193/0022-541X(2005)69[1346:QHOTIO]2.0.CO;2
+   Fowler AC, 2005, ANIM BEHAV, V69, P973, DOI 10.1016/j.anbehav.2004.07.014
+   Frère CH, 2010, ANIM BEHAV, V80, P481, DOI 10.1016/j.anbehav.2010.06.007
+   Gabor TM, 1999, J ZOOL, V247, P311, DOI 10.1111/j.1469-7998.1999.tb00994.x
+   Garroway CJ, 2013, BEHAV ECOL SOCIOBIOL, V67, P113, DOI 10.1007/s00265-012-1431-3
+   Geisser H, 2005, J ZOOL, V267, P89, DOI 10.1017/S095283690500734X
+   Gero S, 2008, BEHAV ECOL SOCIOBIOL, V63, P143, DOI 10.1007/s00265-008-0645-x
+   Goudet J, 1995, J HERED, V86, P485, DOI 10.1093/oxfordjournals.jhered.a111627
+   Greenberg CH, 2000, FOREST ECOL MANAG, V132, P199, DOI 10.1016/S0378-1127(99)00226-1
+   HAMILTON WD, 1964, J THEOR BIOL, V7, P1, DOI [10.1016/0022-5193(64)90038-4, 10.1016/0022-5193(64)90039-6]
+   HARRIS S, 1990, MAMMAL REV, V20, P97, DOI 10.1111/j.1365-2907.1990.tb00106.x
+   Hirsch BT, 2013, ANIM BEHAV, V85, P463, DOI 10.1016/j.anbehav.2012.12.011
+   Iacolina L, 2009, J MAMMAL, V90, P666, DOI 10.1644/08-MAMM-A-074R1.1
+   Jedrzejewska B, 1997, ACTA THERIOL, V42, P399
+   Jedrzejewski W, 2004, WILDLIFE SOC B, V32, P1305, DOI 10.2193/0091-7648(2004)032[1305:FTFMDF]2.0.CO;2
+   Kaminski G, 2005, CAN J ZOOL, V83, P474, DOI 10.1139/Z05-019
+   Krause J, 2007, BEHAV ECOL SOCIOBIOL, V62, P15, DOI 10.1007/s00265-007-0445-8
+   Kreeger T.J., 1997, HDB WILDLIFE CHEM IM
+   LALAND KN, 1990, ANIM LEARN BEHAV, V18, P246, DOI 10.3758/BF03205282
+   Lambin X, 1998, J ANIM ECOL, V67, P1, DOI 10.1046/j.1365-2656.1998.00181.x
+   LENTH RV, 1981, TECHNOMETRICS, V23, P149, DOI 10.2307/1268030
+   Lusseau D, 2006, J ANIM ECOL, V75, P14, DOI 10.1111/j.1365-2656.2005.01013.x
+   Lusseau D, 2008, ANIM BEHAV, V75, P1809, DOI 10.1016/j.anbehav.2007.10.029
+   Maher CR, 2009, BEHAV ECOL SOCIOBIOL, V63, P857, DOI 10.1007/s00265-009-0726-5
+   MATSCHKE GH, 1967, J WILDLIFE MANAGE, V31, P109, DOI 10.2307/3798365
+   Midford PE, 2000, ANIM BEHAV, V59, P1199, DOI 10.1006/anbe.1999.1419
+   Moyer MA, 2006, J MAMMAL, V87, P255, DOI 10.1644/05-MAMM-A-192R1.1
+   Newman MEJ, 2006, P NATL ACAD SCI USA, V103, P8577, DOI 10.1073/pnas.0601602103
+   Newman MEJ, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.066133
+   PACKER C, 1995, AM NAT, V145, P833, DOI 10.1086/285771
+   Peakall R, 2006, MOL ECOL NOTES, V6, P288, DOI 10.1111/j.1471-8286.2005.01155.x
+   Pomeroy PP, 2001, P ROY SOC B-BIOL SCI, V268, P711, DOI 10.1098/rspb.2000.1422
+   Poteaux C, 2009, J ZOOL, V278, P116, DOI 10.1111/j.1469-7998.2009.00553.x
+   QUELLER DC, 1989, EVOLUTION, V43, P258, DOI [10.2307/2409206, 10.1111/j.1558-5646.1989.tb04226.x]
+   R Development Core Team, 2011, R: a language and environment for statistical computing
+   RAYMOND M, 1995, J HERED, V86, P248, DOI 10.1093/oxfordjournals.jhered.a111573
+   RICE WR, 1989, EVOLUTION, V43, P223, DOI 10.1111/j.1558-5646.1989.tb04220.x
+   Scandura M, 2008, MOL ECOL, V17, P1745, DOI 10.1111/j.1365-294X.2008.03703.x
+   Scandura M, 2011, HEREDITY, V106, P1012, DOI 10.1038/hdy.2010.155
+   Servanty S, 2007, BEHAV ECOL, V18, P427, DOI 10.1093/beheco/arl099
+   Silk JB, 2007, PHILOS T R SOC B, V362, P539, DOI 10.1098/rstb.2006.1994
+   SMOUSE PE, 1986, SYST ZOOL, V35, P627, DOI 10.2307/2413122
+   SOMERS MJ, 1995, ACTA THERIOL, V40, P257, DOI 10.4098/AT.arch.95-25
+   SPITZ F, 1992, ONGULES / UNGULATES 91, P385
+   TRIVERS RL, 1971, Q REV BIOL, V46, P35, DOI 10.1086/406755
+   Truvé J, 2003, WILDLIFE BIOL, V9, P51, DOI 10.2981/wlb.2003.056
+   Van Horn RC, 2008, ANIM BEHAV, V75, P1173, DOI 10.1016/j.anbehav.2007.08.027
+   Van Oosterhout C, 2004, MOL ECOL NOTES, V4, P535, DOI 10.1111/j.1471-8286.2004.00684.x
+   Vernesi C, 2003, MOL ECOL, V12, P585, DOI 10.1046/j.1365-294X.2003.01763.x
+   Wang CL, 2012, GENETICS, V192, P651, DOI 10.1534/genetics.112.139519
+   West SA, 2007, CURR BIOL, V17, pR661, DOI 10.1016/j.cub.2007.06.004
+   Wey T, 2008, ANIM BEHAV, V75, P333, DOI 10.1016/j.anbehav.2007.06.020
+   White AM, 2010, BEHAVIOUR, V147, P1, DOI 10.1163/000579509X12459309054841
+   White AM, 2009, ANIM BEHAV, V77, P87, DOI 10.1016/j.anbehav.2008.08.030
+   Whitehead H, 1997, ANIM BEHAV, V53, P1053, DOI 10.1006/anbe.1996.0358
+   WHITEHEAD H, 1995, BEHAV ECOL, V6, P199, DOI 10.1093/beheco/6.2.199
+   Whitehead H, 1999, ADV STUD BEHAV, V28, P33, DOI 10.1016/S0065-3454(08)60215-6
+   Whitehead H., 2008, ANAL ANIMAL SOC, DOI 10.7208/chicago/9780226895246.001.0001
+   Whitehead H, 2009, BEHAV ECOL SOCIOBIOL, V63, P765, DOI 10.1007/s00265-008-0697-y
+   Williams CT, 2013, BEHAV ECOL SOCIOBIOL, V67, P757, DOI 10.1007/s00265-013-1499-4
+   Wimmer B, 2002, BEHAV ECOL SOCIOBIOL, V52, P166, DOI 10.1007/s00265-002-0497-8
+   Wiszniewski J, 2010, ANIM BEHAV, V80, P895, DOI 10.1016/j.anbehav.2010.08.013
+   Wolf JBW, 2008, P ROY SOC B-BIOL SCI, V275, P2063, DOI 10.1098/rspb.2008.0356
+   Wolf JBW, 2007, ANIM BEHAV, V74, P1293, DOI 10.1016/j.anbehav.2007.02.024
+   Zeyl E, 2009, MOL ECOL, V18, P735, DOI 10.1111/j.1365-294X.2008.04049.x
+NR 81
+TC 72
+Z9 80
+U1 5
+U2 74
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JUN 11
+PY 2014
+VL 9
+IS 6
+AR e99875
+DI 10.1371/journal.pone.0099875
+PG 11
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA AK7TQ
+UT WOS:000338631000124
+PM 24919178
+OA gold, Green Published, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Burkell, J
+   Fortier, A
+   Wong, LYC
+   Simpson, JL
+AF Burkell, Jacquelyn
+   Fortier, Alexandre
+   Wong, Lorraine (Lola) Yeung Cheryl
+   Simpson, Jennifer Lynn
+TI Facebook: public space, or private space?
+SO INFORMATION COMMUNICATION & SOCIETY
+LA English
+DT Article
+DE privacy; social media; Facebook
+AB Social networks have become a central feature of everyday life. Most young people are members of at least one online social network, and they naturally provide a great deal of personal information as a condition for participation in the rich online social lives these networks afford. Increasingly, this information is being used as evidence in criminal and even civil legal proceedings. These latter uses, by actors involved in the justice system, are typically justified on the grounds that social network information is essentially public in nature, and thus does not generate a subjective expectation of privacy necessary to support a civil rights-based privacy protection. This justification, however, is based on the perceptions of individuals who are outside the online social network community, rather than reflecting the norms and privacy practices of participants in online social networks. This project takes a user-centric approach to the question of whether online social spaces are public venues, examining of the information-related practices of social network participants, focusing on how they treat their own information and that of others posted in online social spaces. Our results reveal that online social spaces are indeed loci of public display rather than private revelation: online profiles are structured with the view that 'everyone' can see them, even if the explicitly intended audience is more limited. These social norms are inconsistent with the claim that social media are private spaces; instead, it appears that participants view and treat online social networks as public venues.
+C1 [Burkell, Jacquelyn; Fortier, Alexandre; Wong, Lorraine (Lola) Yeung Cheryl] Univ Western Ontario, Fac Informat & Media Studies, London, ON N6A 5B7, Canada.
+   [Simpson, Jennifer Lynn] Univ Western Ontario, Fac Law, London, ON N6A 3K7, Canada.
+C3 Western University (University of Western Ontario); Western University
+   (University of Western Ontario)
+RP Burkell, J (corresponding author), Univ Western Ontario, Fac Informat & Media Studies, North Campus Bldg, London, ON N6A 5B7, Canada.
+EM jburkell@uwo.ca; afortie2@uwo.ca; lola.wong@uwo.ca; jsimps4@uwo.ca
+RI Wong, Lok Yu/AAP-2430-2021
+OI Burkell, Jacquelyn/0000-0003-2645-8127
+CR Abril P.S., 2007, Harvard Journal of Law Technology, V21, P1
+   Acquisti A., 2005, Proceedings of WPES05, P71
+   [Anonymous], J COMPUTER MEDIATED
+   Barnes SB., 2006, A Privacy Paradox: Social Networking in the United States, V11
+   Boyd D., 2007, The John D. and Catherine T. MacArthur Foundation Series on Digital Media and Learning, P119, DOI DOI 10.1162/DMAL.9780262524834.119
+   Carey R., 2009, Lessons from the identity trail: Anonymity, privacy, and identity in a networked society, P65
+   Cheung Anne., 2009, Journal of Media Law, V2, P191
+   Crocker TP, 2009, UCLA LAW REV, V57, P1
+   Debatin B, 2009, J COMPUT-MEDIAT COMM, V15, P83, DOI 10.1111/j.1083-6101.2009.01494.x
+   Gelman Lauren., 2009, BC L Rev, V50, P1315
+   Greenfield A., 2011, CONNECTED THINGS PRI
+   Grimmelmann J, 2009, IOWA LAW REV, V94, P1137
+   Hakkila Jonna., 2005, Proceedings of the 7th International Conference on Human Computer Interaction with Mobile Devices Services, P219, DOI DOI 10.1145/1085777.1085814
+   Joinson AN, 2008, CHI 2008: 26TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS VOLS 1 AND 2, CONFERENCE PROCEEDINGS, P1027
+   Kerr OS, 2010, STANFORD LAW REV, V62, P1005
+   Lee D.-H., 2009, Knowledge, Technology Policy, V22, P161
+   Lewis J, 2009, NEW MEDIA SOC, V11, P1209, DOI 10.1177/1461444809342058
+   Moreham N A., 2006, The Cambridge Law Journal, V65, P606
+   Nissenbaum H, 1998, LAW PHILOS, V17, P559
+   Patchin JW, 2010, NEW MEDIA SOC, V12, P197, DOI 10.1177/1461444809341857
+   Petronio S., 2002, Boundaries of Privacy: Dialectics of Disclosure
+   Rainie L., 2012, TONE LIFE SOCIAL NET
+   Rosenblum D, 2007, IEEE SECUR PRIV, V5, P40, DOI 10.1109/MSP.2007.75
+   Strahilevitz Lior, 2004, SSRN Electronic Journal, DOI [10.2139/ssrn.629283, DOI 10.2139/SSRN.629283]
+   Thelwall M, 2010, J AM SOC INF SCI TEC, V61, P392, DOI 10.1002/asi.21241
+   Tsjeng Z., 2010, GUARDIAN
+   Tverdek E., 2008, Public Affairs Quarterly, V22, P63
+   Vaughan-Nichols S., 2013, ZDNET COM       0514
+   Viégas FB, 2005, J COMPUT-MEDIAT COMM, V10, DOI 10.1111/j.1083-6101.2005.tb00260.x
+NR 29
+TC 51
+Z9 66
+U1 0
+U2 93
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1369-118X
+EI 1468-4462
+J9 INFORM COMMUN SOC
+JI Info. Commun. Soc.
+PY 2014
+VL 17
+IS 8
+BP 974
+EP 985
+DI 10.1080/1369118X.2013.870591
+PG 12
+WC Communication; Sociology
+WE Social Science Citation Index (SSCI)
+SC Communication; Sociology
+GA AL4KJ
+UT WOS:000339101500004
+DA 2024-11-22
+ER
+
+PT J
+AU Li, MH
+   Guan, SG
+   Wu, CS
+   Gong, XF
+   Li, K
+   Wu, JS
+   Di, ZR
+   Lai, CH
+AF Li, Menghui
+   Guan, Shuguang
+   Wu, Chensheng
+   Gong, Xiaofeng
+   Li, Kun
+   Wu, Jinshan
+   Di, Zengru
+   Lai, Choy-Heng
+TI From sparse to dense and from assortative to disassortative in online
+   social networks
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID EMERGENCE
+AB Inspired by the analysis of several empirical online social networks, we propose a simple reaction-diffusion-like coevolving model, in which individuals are activated to create links based on their states, influenced by local dynamics and their own intention. It is shown that the model can reproduce the remarkable properties observed in empirical online social networks; in particular, the assortative coefficients are neutral or negative, and the power law exponents c are smaller than 2. Moreover, we demonstrate that, under appropriate conditions, the model network naturally makes transition(s) from assortative to disassortative, and from sparse to dense in their characteristics. The model is useful in understanding the formation and evolution of online social networks.
+C1 [Li, Menghui; Wu, Chensheng] Beijing Inst Sci & Technol Intelligence, Beijing 100044, Peoples R China.
+   [Li, Menghui; Wu, Jinshan; Di, Zengru] Beijing Normal Univ, Sch Syst Sci, Beijing 100875, Peoples R China.
+   [Li, Menghui; Gong, Xiaofeng; Li, Kun] Natl Univ Singapore, Temasek Labs, Singapore 117508, Singapore.
+   [Li, Menghui; Gong, Xiaofeng; Li, Kun; Lai, Choy-Heng] Natl Univ Singapore, Beijing Hong Kong Singapore Joint Ctr Nonlinear &, Kent Ridge 119260, Singapore.
+   [Guan, Shuguang] E China Normal Univ, Dept Phys, Shanghai 200241, Peoples R China.
+   [Guan, Shuguang] Chinese Acad Sci, Inst Theoret Phys, State Key Lab Theoret Phys, Beijing 100190, Peoples R China.
+   [Lai, Choy-Heng] Natl Univ Singapore, Dept Phys, Singapore 117542, Singapore.
+   [Lai, Choy-Heng] Yale NUS Coll, Singapore 138614, Singapore.
+C3 Beijing Normal University; National University of Singapore; National
+   University of Singapore; East China Normal University; Chinese Academy
+   of Sciences; Institute of Theoretical Physics, CAS; National University
+   of Singapore; Yale NUS College
+RP Guan, SG (corresponding author), E China Normal Univ, Dept Phys, Shanghai 200241, Peoples R China.
+EM guanshuguang@hotmail.com
+RI Lai, Choy/B-6771-2015; Di, Zengru/G-6942-2011; Li, Menghui/E-7613-2011;
+   Wu, Jinshan/C-1203-2010
+OI Li, Menghui/0000-0001-8151-5898; Wu, Jinshan/0000-0001-5014-385X
+FU Technology Foundation for Selected Overseas Chinese Scholar; Science and
+   Technology Commission of Shanghai Municipality [10PJ1403300]; Innovation
+   Program of Shanghai Municipal Education Commission [12ZZ043]; Open
+   Project Program of State Key Laboratory of Theoretical Physics,
+   Institute of Theoretical Physics, Chinese Academy of Sciences, China
+   [Y4KF151CJ1]; NSFC [11075056, 11135001, 61174150, 61374175]
+FX We are particularly grateful to A. Mislove for sharing the Flickr
+   database, P. Massa for sharing the Epinions database, A. Barrat for
+   sharing the aNobii database, and T. Gupta for sharing the FF database.
+   This work is sponsored by Technology Foundation for Selected Overseas
+   Chinese Scholar. S. G. G. is sponsored by the following funding
+   agencies: Science and Technology Commission of Shanghai Municipality
+   under grant No. 10PJ1403300; Innovation Program of Shanghai Municipal
+   Education Commission under grant No. 12ZZ043; the Open Project Program
+   of State Key Laboratory of Theoretical Physics, Institute of Theoretical
+   Physics, Chinese Academy of Sciences, China (No. Y4KF151CJ1); and the
+   NSFC under grant Nos. 11075056 and 11135001. This work is also supported
+   by NSFC under Grant Nos. 61174150 and 61374175.
+CR Ahn YY, 2007, Proceedings of the 16th international conference on World Wide Web, P835, DOI DOI 10.1145/1242572.1242685
+   Aiello L.-M, 2010, Proceedings of the 2010 IEEE Second International Conference on Social Computing (SocialCom 2010). the Second IEEE International Conference on Privacy, Security, Risk and Trust (PASSAT 2010), P249, DOI 10.1109/SocialCom.2010.42
+   Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   [Anonymous], 2009, Proceedings of the 18th international conference on World Wide Web (WWW)
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barrat A, 2004, P NATL ACAD SCI USA, V101, P3747, DOI 10.1073/pnas.0400087101
+   Barrat A, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.228701
+   Boccaletti S, 2006, PHYS REP, V424, P175, DOI 10.1016/j.physrep.2005.10.009
+   Bond RM, 2012, NATURE, V489, P295, DOI 10.1038/nature11421
+   Cai SM, 2010, INT J MOD PHYS C, V21, P433, DOI 10.1142/S0129183110015208
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Contractor NS, 2006, ACAD MANAGE REV, V31, P681, DOI [10.5465/AMR.2006.21318925, 10.2307/20159236]
+   D'Agostino G, 2012, EPL-EUROPHYS LETT, V97, DOI 10.1209/0295-5075/97/68006
+   Del Genio CI, 2011, PHYS REV LETT, V107, DOI 10.1103/PhysRevLett.107.178701
+   Garg S, 2009, IMC'09: PROCEEDINGS OF THE 2009 ACM SIGCOMM INTERNET MEASUREMENT CONFERENCE, P315
+   Gong N.Z., 2012, P ACM SIGCOMM INT ME, P131
+   Gross T, 2008, J R SOC INTERFACE, V5, P259, DOI 10.1098/rsif.2007.1229
+   Gupta T., 2009, P 3 INT ICWSM C 2009, P218
+   Holme P, 2004, SOC NETWORKS, V26, P155, DOI 10.1016/j.socnet.2004.01.007
+   Hu HB, 2009, EPL-EUROPHYS LETT, V86, DOI 10.1209/0295-5075/86/18003
+   Jeong H, 2003, EUROPHYS LETT, V61, P567, DOI 10.1209/epl/i2003-00166-9
+   Klimek P, 2013, NEW J PHYS, V15, DOI 10.1088/1367-2630/15/6/063008
+   Kossinets G, 2006, SCIENCE, V311, P88, DOI 10.1126/science.1116869
+   Leung CC, 2007, PHYSICA A, V378, P591, DOI 10.1016/j.physa.2006.12.022
+   Lewis K, 2012, P NATL ACAD SCI USA, V109, P68, DOI 10.1073/pnas.1109739109
+   Li MH, 2013, SCI REP-UK, V3, DOI 10.1038/srep02512
+   Li MH, 2010, NEW J PHYS, V12, DOI 10.1088/1367-2630/12/4/043029
+   Massa P., 2006, ECAI 2006 Workshop on Recommender Systems, P29
+   Mislove A., 2008, P WORKSH ONL SOC NET, P25, DOI 10.1145/1397735.1397742
+   Mislove A, 2007, IMC'07: PROCEEDINGS OF THE 2007 ACM SIGCOMM INTERNET MEASUREMENT CONFERENCE, P29
+   Newman ME., 2006, STRUCTURE DYNAMICS N
+   Newman MEJ, 2003, PHYS REV E, V67, DOI 10.1103/PhysRevE.67.026126
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   Newman MEJ, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.208701
+   Onnela JP, 2010, P NATL ACAD SCI USA, V107, P18375, DOI 10.1073/pnas.0914572107
+   Palla G, 2010, P NATL ACAD SCI USA, V107, P7640, DOI 10.1073/pnas.0912983107
+   Papadopoulos F, 2012, NATURE, V489, P537, DOI 10.1038/nature11459
+   Perc M, 2010, BIOSYSTEMS, V99, P109, DOI 10.1016/j.biosystems.2009.10.003
+   Rocha LEC, 2010, P NATL ACAD SCI USA, V107, P5706, DOI 10.1073/pnas.0914080107
+   Rybski D, 2009, P NATL ACAD SCI USA, V106, P12640, DOI 10.1073/pnas.0902667106
+   Small M, 2008, PHYS REV E, V77, DOI 10.1103/PhysRevE.77.066112
+   Szolnoki A, 2008, EPL-EUROPHYS LETT, V84, DOI 10.1209/0295-5075/84/50007
+   Tang SY, 2011, IEEE T MULTIMEDIA, V13, P1163, DOI 10.1109/TMM.2011.2159706
+   Vazquez A., 2003, PHYS REV E, V67
+   Xiong F, 2011, EUR PHYS J B, V84, P115, DOI 10.1140/epjb/e2011-20286-7
+   Zhao Junzhou., 2011, Computer Communications Workshops (INFOCOM WK-SHPS), 2011 IEEE Conference on, P924, DOI DOI 10.1109/INFCOMW.2011.5928945
+   Zhou Zicong., 2010, Proceedings of the First Workshop on Social Media Analytics, SOMA '10, P123
+NR 48
+TC 12
+Z9 15
+U1 0
+U2 31
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD MAY 6
+PY 2014
+VL 4
+AR 4861
+DI 10.1038/srep04861
+PG 8
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA AG4EW
+UT WOS:000335373100001
+PM 24798703
+OA Green Published, gold
+DA 2024-11-22
+ER

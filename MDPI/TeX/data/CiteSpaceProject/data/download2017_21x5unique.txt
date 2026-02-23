@@ -1,0 +1,631 @@
+
+PT J
+AU Chen, W
+   Yeo, CK
+   Lau, CT
+   Lee, BS
+AF Chen, Weiling
+   Yeo, Chai Kiat
+   Lau, Chiew Tong
+   Lee, Bu Sung
+TI A study on real-time low-quality content detection on Twitter from the
+   users' perspective
+SO PLOS ONE
+LA English
+DT Article
+ID SOCIAL NETWORKS; SPAM DETECTION; BEHAVIOR; SUPPORT
+AB Detection techniques of malicious content such as spam and phishing on Online Social Networks (OSN) are common with little attention paid to other types of low-quality content which actually impacts users' content browsing experience most. The aim of our work is to detect low-quality content from the users' perspective in real time. To define low-quality content comprehensibly, Expectation Maximization (EM) algorithm is first used to coarsely classify low-quality tweets into four categories. Based on this preliminary study, a survey is carefully designed to gather users' opinions on different categories of low-quality content. Both direct and indirect features including newly proposed features are identified to characterize all types of low-quality content. We then further combine word level analysis with the identified features and build a keyword blacklist dictionary to improve the detection performance. We manually label an extensive Twitter dataset of 100,000 tweets and perform low-quality content detection in real time based on the characterized significant features and word level analysis. The results of our research show that our method has a high accuracy of 0.9711 and a good F1 of 0.8379 based on a random forest classifier with real time performance in the detection of low-quality content in tweets. Our work therefore achieves a positive impact in improving user experience in browsing social media content.
+C1 [Chen, Weiling; Yeo, Chai Kiat; Lau, Chiew Tong; Lee, Bu Sung] Nanyang Technol Univ, Sch Comp Sci & Engn, Singapore, Singapore.
+C3 Nanyang Technological University
+RP Chen, W (corresponding author), Nanyang Technol Univ, Sch Comp Sci & Engn, Singapore, Singapore.
+EM wchen015@e.ntu.edu.sg
+RI Yeo, Chai/A-3683-2011
+OI Yeo, Chai Kiat/0000-0002-7618-1472
+FU Nanyang Technological University [M4081329.020]; NTU
+FX This work was supported by Nanyang Technological University Grant No.
+   M4081329.020 (www.ntu.edu.sg). NTU provides the PhD scholarship for Chen
+   Weiling to conduct the research as well as the funds for student helpers
+   who assisted in the tweet labelling.
+CR Aggarwal A, 2012, ECRIM RES SUM
+   Almaatouq Abdullah., 2014, Proceedings of the 2014 ACM Conference on Web Science, WebSci'14, P33
+   Androutsopoulos I., 2000, An experimental comparison of naive Bayesian and keyword-based anti-spam filtering with personal e-mail messages, P160
+   [Anonymous], 2016, LEAD SOC NETW WORLDW
+   [Anonymous], FRAM TEXT MIN APPL R
+   [Anonymous], 2010, Twitter under Crisis: Can We Trust what We RT? the First Workshop on Social Media Analytics (SOMA10), DOI [10.1145/1964858.1964869, DOI 10.1145/1964858.1964869]
+   [Anonymous], 2015, WWW WORKSHOP MAKING
+   [Anonymous], ALMOST 10 PERCENT TW
+   Bosma Maarten, 2012, Advances in Information Retrieval. Proceedings of the 34th European Conference on IR Research (ECIR 2012), P364, DOI 10.1007/978-3-642-28997-2_31
+   Chakraborty M, 2016, INFORM PROCESS MANAG, V52, P1053, DOI 10.1016/j.ipm.2016.04.009
+   Collin P., 2011, The benefits of social networking services
+   DEMPSTER AP, 1977, J ROY STAT SOC B MET, V39, P1, DOI 10.1111/j.2517-6161.1977.tb01600.x
+   Drucker H, 1999, IEEE T NEURAL NETWOR, V10, P1048, DOI 10.1109/72.788645
+   Fakhraei S, 2015, KDD'15: PROCEEDINGS OF THE 21ST ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P1769, DOI 10.1145/2783258.2788606
+   Ferrara E, 2016, COMMUN ACM, V59, P96, DOI 10.1145/2818717
+   Fu H, 2015, WWW'15 COMPANION: PROCEEDINGS OF THE 24TH INTERNATIONAL CONFERENCE ON WORLD WIDE WEB, P419, DOI 10.1145/2740908.2745400
+   Gao HY, 2011, PROCEEDINGS OF THE 18TH ACM CONFERENCE ON COMPUTER & COMMUNICATIONS SECURITY (CCS 11), P769
+   Grier C, 2010, PROCEEDINGS OF THE 17TH ACM CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY (CCS'10), P27, DOI 10.1145/1866307.1866311
+   Gummadi, 2012, P 21 INT C WORLD WID, P61, DOI DOI 10.1145/2187836.2187846
+   Hu X, 2014, IEEE DATA MINING, P180, DOI 10.1109/ICDM.2014.141
+   Jin L, 2013, IEEE COMMUN MAG, V51, P144, DOI 10.1109/MCOM.2013.6588663
+   Jin X, 2011, PROC VLDB ENDOW, V4, P1458
+   Kalbitzer J, 2014, J NERV MENT DIS, V202, P623, DOI 10.1097/NMD.0000000000000173
+   Lee K., 2011, ICWSM
+   Lee K, 2010, SIGIR 2010: PROCEEDINGS OF THE 33RD ANNUAL INTERNATIONAL ACM SIGIR CONFERENCE ON RESEARCH DEVELOPMENT IN INFORMATION RETRIEVAL, P435, DOI 10.1145/1835449.1835522
+   Lee S, 2013, IEEE T DEPEND SECURE, V10, P183, DOI 10.1109/TDSC.2013.3
+   Leong E., 2016, NEW WAYS CONTROL YOU
+   Levchenko K, 2011, P IEEE S SECUR PRIV, P431, DOI 10.1109/SP.2011.24
+   Martinez-Romo J, 2013, EXPERT SYST APPL, V40, P2992, DOI 10.1016/j.eswa.2012.12.015
+   Park BJ, 2016, INFORM TECHNOL MANAG, V17, P95, DOI 10.1007/s10799-015-0250-4
+   Sahami M., 1996, KDD-96 Proceedings. Second International Conference on Knowledge Discovery and Data Mining, P335
+   Santos I., 2014, Twitter Content-Based Spam Filtering, P449
+   Song J, 2011, LECT NOTES COMPUT SC, V6961, P301, DOI 10.1007/978-3-642-23644-0_16
+   Sridharan V, 2012, 28TH ANNUAL COMPUTER SECURITY APPLICATIONS CONFERENCE (ACSAC 2012), P389
+   Stringhini G, 2010, 26TH ANNUAL COMPUTER SECURITY APPLICATIONS CONFERENCE (ACSAC 2010), P1
+   Subrahmanian VS, 2016, COMPUTER, V49, P38, DOI 10.1109/MC.2016.183
+   Tan EH, 2012, INT CON DISTR COMP S, P305, DOI 10.1109/ICDCS.2012.40
+   Thomas K., 2011, P INT MEAS C IMC, P243, DOI DOI 10.1145/2068816.2068840
+   Wu PC, 2015, IEEE MTTS INT MICROW, P115, DOI 10.1109/IMWS-BIO.2015.7303805
+   Yang C., 2012, P 21 INT C WORLD WID, P71, DOI DOI 10.1145/2187836.2187847
+   Yang C, 2013, IEEE T INF FOREN SEC, V8, P1280, DOI 10.1109/TIFS.2013.2267732
+   Yang HC, 2014, INT J INF TECH DECIS, V13, P387, DOI 10.1142/S0219622014500473
+   Yang YK, 2015, INT JOINT CONF COMP, P41, DOI 10.1109/JCSSE.2015.7219767
+   Zheng X, 2015, The Journal of Supercomputing, P1
+   Zi Chu, 2012, Applied Cryptography and Network Security. Proceedings 10th International Conference, ACNS 2012, P455, DOI 10.1007/978-3-642-31284-7_27
+NR 45
+TC 19
+Z9 21
+U1 0
+U2 24
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD AUG 9
+PY 2017
+VL 12
+IS 8
+AR e0182487
+DI 10.1371/journal.pone.0182487
+PG 22
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA FC9YJ
+UT WOS:000407196700047
+PM 28793347
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Serino, M
+   D'Ambrosio, D
+   Ragozini, G
+AF Serino, Marco
+   D'Ambrosio, Daniela
+   Ragozini, Giancarlo
+TI Bridging social network analysis and field theory through
+   multidimensional data analysis: The case of the theatrical field
+SO POETICS
+LA English
+DT Article
+DE Bourdieu; Field theory; Theatre co-productions; Social network analysis;
+   Multiple factor analysis; Blockmodeling
+ID STRUCTURAL EQUIVALENCE; BOURDIEU; BLOCKMODELS
+AB In this study, the theatre industry is conceived of as a field of cultural production, and analysed in the framework of Bourdieu's field theory and social network analysis (SNA). The theatrical field is formalized as an affiliation network of companies participating in stage co-productions in Italy's Campania region, over four theatre seasons. Differently from Bourdieu, but similarly to other works in the sociology of culture and the arts, the study focuses on relational and attribute-based dimensions of theatre production, presenting a novel way to combine field theory and SNA. By adopting the positional approach of SNA through Multiple Correspondence Analysis (MCA), Multiple Factor Analysis (MFA) and blockmodeling for affiliation networks, the study reveals oppositions among companies by reason of their differential partnerships in co-productions, and a combination of hierarchy and segmentation characterizing the network structure of the field. These oppositions also appear in the 'objective' social space defined by the attributes of companies and co productions (positions and position-takings), showing the unequal distribution of symbolic cultural capital among theatre producers and the latter's inclinations towards different theatrical styles and genres. (C) 2016 Elsevier B.V. All rights reserved.
+C1 [Serino, Marco; D'Ambrosio, Daniela; Ragozini, Giancarlo] Univ Naples Federico II, Dept Polit Sci, Via L Rodino 28, I-80138 Naples, Italy.
+C3 University of Naples Federico II
+RP Serino, M (corresponding author), Univ Naples Federico II, Dept Polit Sci, Via L Rodino 28, I-80138 Naples, Italy.
+EM marco.serino@unina.it; daniela_dambrosio@hotmail.it; giragoz@unina.it
+RI Serino, Marco/HGV-0260-2022; Ragozini, Giancarlo/JDW-0130-2023
+OI Ragozini, GIancarlo/0000-0002-2385-4645; SERINO,
+   Marco/0000-0003-4094-8560
+CR ANHEIER HK, 1995, AM J SOCIOL, V100, P859, DOI 10.1086/230603
+   [Anonymous], 2005, Models and Methods in Social Network Analysis, DOI DOI 10.1017/CBO9780511811395.007
+   Batagelj V, 1998, CONNECTIONS, V21, P47, DOI DOI 10.1017/CB09780511996368
+   Becker HowardS., 1982, Art Worlds. Berkeley: University of California Press. Ben Gerstein Collective
+   Blasius J, 2006, STAT SOC BEHAV SCI, P3
+   Borgatti S P., 2002, NetDraw Software for Network Visualization
+   BORGATTI SP, 1992, SOC NETWORKS, V14, P91, DOI 10.1016/0378-8733(92)90015-Y
+   Bottero W, 2011, CULT SOCIOL-LONDON, V5, P99, DOI 10.1177/1749975510389726
+   Bourdieu, 2006, DISTINCTION SOCIAL C
+   BOURDIEU P, 1983, POETICS, V12, P311, DOI 10.1016/0304-422X(83)90012-8
+   Bourdieu P., 1992, INVITATION REFLEXIVE
+   Bourdieu P., 1988, HOMOACADEMICUS
+   Bourdieu Pierre., 1984, DISTINCTION SOCIAL C, DOI DOI 10.1002/9780470755679.CH15
+   Bourdieu Pierre., 1989, SOCIOL THEOR, V7, P14, DOI [DOI 10.2307/202060, 10.2307/202060]
+   Bourdieu R, 1993, FIELD CULTURAL PRODU
+   Breiger RL, 2000, POETICS, V27, P91, DOI 10.1016/S0304-422X(99)00026-1
+   BREIGER RL, 1974, SOC FORCES, V53, P181, DOI 10.2307/2576011
+   BURT RS, 1980, ANNU REV SOCIOL, V6, P79, DOI 10.1146/annurev.so.06.080180.000455
+   BURT RS, 1976, SOC FORCES, V55, P93, DOI 10.2307/2577097
+   BURT RS, 1978, SOCIOL METHOD RES, V7, P189, DOI 10.1177/004912417800700205
+   Crossley N, 2009, POETICS, V37, P24, DOI 10.1016/j.poetic.2008.10.002
+   D'Esposito MR, 2014, SOC NETWORKS, V38, P28, DOI 10.1016/j.socnet.2014.01.003
+   de Nooy W, 2003, POETICS, V31, P305, DOI 10.1016/S0304-422X(03)00035-4
+   De Nooy W, 2002, POETICS, V30, P147, DOI 10.1016/S0304-422X(01)00044-4
+   Doreian P, 2004, SOC NETWORKS, V26, P29, DOI 10.1016/j.socnet.2004.01.002
+   Doreian R, 2005, ORG BEHAV
+   Emirbayer M, 2008, THEOR SOC, V37, P1, DOI 10.1007/s11186-007-9052-y
+   Escofier B., 1998, GEN BLOCKMODELING
+   Escofier B., 1998, Analyses factorielles simples et multiples
+   Faust K, 1997, SOC NETWORKS, V19, P157, DOI 10.1016/S0378-8733(96)00300-0
+   GERHARDS J, 1989, INT SOCIOL, V4, P131, DOI 10.1177/026858089004002002
+   Giuffre K, 1999, SOC FORCES, V77, P815, DOI 10.2307/3005962
+   Giuffre K, 2001, SOCIOL INQ, V71, P381, DOI 10.1111/j.1475-682X.2001.tb01118.x
+   Lorrain F., 1971, J MATH SOCIOL, V1, P49, DOI [10.1080/0022250X.1971.9989788, DOI 10.1080/0022250X.1971.9989788]
+   Mohr JohnW., 2013, Applying Relational Sociology: Relations, Networks, and Society, P101
+   Prota L, 2016, SOC NETWORKS, V45, P1, DOI 10.1016/j.socnet.2015.10.005
+   Ragozini G, 2015, NETW SCI, V3, P18, DOI 10.1017/nws.2015.5
+   SAILER LD, 1978, SOC NETWORKS, V1, P73, DOI 10.1016/0378-8733(78)90014-X
+   SCOTT J, 1988, SOCIOLOGY, V22, P109, DOI 10.1177/0038038588022001007
+   Serino M., 2015, SOCIOLOGIA LAVORO, V138, P121
+   Serino M, 2013, NEW THEAT Q, V29, P61, DOI 10.1017/S0266464X13000067
+   Sonnett J, 2016, POETICS, V54, P38, DOI 10.1016/j.poetic.2015.09.002
+   WHITE DR, 1983, SOC NETWORKS, V5, P193, DOI 10.1016/0378-8733(83)90025-4
+   WHITE HC, 1981, AM J SOCIOL, V87, P517, DOI 10.1086/227495
+NR 44
+TC 14
+Z9 15
+U1 3
+U2 31
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0304-422X
+EI 1872-7514
+J9 POETICS
+JI Poetics
+PD JUN
+PY 2017
+VL 62
+BP 66
+EP 80
+DI 10.1016/j.poetic.2016.12.002
+PG 15
+WC Literature; Sociology
+WE Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Literature; Sociology
+GA EX3JB
+UT WOS:000403127300006
+DA 2024-11-22
+ER
+
+PT J
+AU Wang, RAH
+   Davis, OSP
+   Wootton, RE
+   Mottershaw, A
+   Haworth, CMA
+AF Wang, R. Adele H.
+   Davis, Oliver S. P.
+   Wootton, Robyn E.
+   Mottershaw, Abigail
+   Haworth, Claire M. A.
+TI Social support and mental health in late adolescence are correlated for
+   genetic, as well as environmental, reasons
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID LIFE SATISFACTION; EXTRACURRICULAR ACTIVITIES; YOUNG ADULTHOOD; NEGATIVE
+   AFFECT; SEX-DIFFERENCES; DEPRESSION; TWIN; AGE; LONELINESS; CHILDHOOD
+AB Late adolescence is a crucial, but underexplored, developmental stage with respect to the aetiology of social support. These individuals are experiencing many major life changes and social support can help them adjust to the associated environmental stressors of this time. Using 1,215 18-year-old twin pairs from the Twins Early Development Study, we collected measures of two indices of support: support quality and support quantity, as well as wellbeing and depression. Both support indices were moderately heritable (55% and 49%, respectively), an interesting finding given the many environmental changes that late adolescents are encountering that could be environmentally altering their social network structures. Finding a genetic influence on support suggests the presence of gene-environment correlation whereby individuals create and perceive their supportive environment based upon their genetic predispositions. Shared genetic influences mediated the moderate phenotypic correlation (mean r = 0.46) between support and mental health. Genetic correlations were higher between support quality and mental health (mean rA = 0.75), than between support quantity and mental health (mean rA = 0.54), reflecting the phenotypic pattern. This suggests that interventions should focus more on making late adolescents aware of the support quality around them than encouraging them to increase their social network size.
+C1 [Wang, R. Adele H.; Wootton, Robyn E.; Mottershaw, Abigail; Haworth, Claire M. A.] Univ Bristol, Sch Expt Psychol, Bristol BS8 1TU, Avon, England.
+   [Wang, R. Adele H.; Davis, Oliver S. P.; Wootton, Robyn E.; Mottershaw, Abigail; Haworth, Claire M. A.] Univ Bristol, MRC Integrat Epidemiol Unit, Bristol BS8 2BN, Avon, England.
+   [Wang, R. Adele H.; Davis, Oliver S. P.; Wootton, Robyn E.; Mottershaw, Abigail; Haworth, Claire M. A.] Univ Bristol, Sch Social & Community Med, Bristol BS8 2PS, Avon, England.
+C3 University of Bristol; University of Bristol; University of Bristol
+RP Wang, RAH (corresponding author), Univ Bristol, Sch Expt Psychol, Bristol BS8 1TU, Avon, England.; Wang, RAH (corresponding author), Univ Bristol, MRC Integrat Epidemiol Unit, Bristol BS8 2BN, Avon, England.; Wang, RAH (corresponding author), Univ Bristol, Sch Social & Community Med, Bristol BS8 2PS, Avon, England.
+EM adele.wang@bristol.ac.uk
+RI Davis, Oliver/B-9653-2008; Wootton, Robyn/DPZ-8634-2022; Haworth,
+   Claire/C-7073-2009
+OI Wang, R. Adele H./0000-0002-7961-8027; Wootton,
+   Robyn/0000-0003-3961-3202; Haworth, Claire/0000-0002-8608-289X; Davis,
+   Oliver/0000-0002-6448-3684
+FU UK Medical Research Council; UK Medical Research Council [MR/M021475/1];
+   US National Institutes of Health [HD044454, AG046938]; EU Framework
+   Programme [602768]; Economic and Social Research Council (ESRC);
+   Department of Health, UK; School of Experimental Psychology, University
+   of Bristol; National Institute on Aging [R01AG046938] Funding Source:
+   NIH RePORTER; MRC [G0901245, MR/M021475/1, MC_UU_12013/6] Funding
+   Source: UKRI
+FX We gratefully acknowledge the ongoing contribution of the participants
+   in the Twins Early Development Study (TEDS) and their families. We thank
+   the TEDS staff for their assistance in collecting the data for this
+   study, and thank Zoe Reed for her feedback on this analysis. This study
+   was supported by a grant from the UK Medical Research Council (Centenary
+   award) to CMAH and OSPD. TEDS is supported by a program grant to Robert
+   Plomin from the UK Medical Research Council (MR/M021475/1 and previously
+   G0901245), with additional support from the US National Institutes of
+   Health (HD044454; AG046938) and an EU Framework Programme 7 (602768).
+   RAHW and AM are supported by studentships from the Economic and Social
+   Research Council (ESRC), and RAHW is also co-funded by the Department of
+   Health, UK. REW is supported by a studentship from the School of
+   Experimental Psychology, University of Bristol. RAHW, REW, AM, OSPD and
+   CMAH are members of the MRC Integrative Epidemiology Unit at the
+   University of Bristol [MC_UU_12013/6 and MC_UU_12013/1]. The funders had
+   no role in the study design, data collection and analysis, decision to
+   publish and preparation of the manuscript.
+CR Agrawal A, 2002, PSYCHOL MED, V32, P1155, DOI 10.1017/S0033291702006281
+   AKAIKE H, 1987, PSYCHOMETRIKA, V52, P317, DOI 10.1007/BF02294359
+   [Anonymous], RICHMOND VA DEP PSYC
+   [Anonymous], 2015, DEV SCI
+   [Anonymous], PSYCHOMETRIKA
+   [Anonymous], OPENMX USER GUIDE 2
+   [Anonymous], EUR CHILD ADOLESC PS
+   [Anonymous], 2003, SOCIAL NETWORKS SOCI
+   Azmitia M, 2013, J RES ADOLESCENCE, V23, P744, DOI 10.1111/jora.12037
+   BARRERA M, 1986, AM J COMMUN PSYCHOL, V14, P413, DOI 10.1007/BF00922627
+   Bartels M, 2015, BEHAV GENET, V45, P137, DOI 10.1007/s10519-015-9713-y
+   BERGEMAN CS, 1990, J GERONTOL, V45, pP101, DOI 10.1093/geronj/45.3.P101
+   BERGEMAN CS, 1991, PSYCHOL AGING, V6, P640, DOI 10.1037/0882-7974.6.4.640
+   Bergen SE, 2007, TWIN RES HUM GENET, V10, P423, DOI 10.1375/twin.10.3.423
+   Beutel ME, 2017, BMC PSYCHIATRY, V17, DOI 10.1186/s12888-017-1262-x
+   Brouwer SI, 2006, TWIN RES HUM GENET, V9, P424, DOI 10.1375/183242706777591191
+   BURGER JM, 1995, J RES PERS, V29, P85, DOI 10.1006/jrpe.1995.1005
+   CARSTENSEN LL, 1995, CURR DIR PSYCHOL SCI, V4, P151, DOI 10.1111/1467-8721.ep11512261
+   Chu PS, 2010, J SOC CLIN PSYCHOL, V29, P624, DOI 10.1521/jscp.2010.29.6.624
+   Derks EM, 2006, TWIN RES HUM GENET, V9, P403, DOI 10.1375/183242706777591290
+   DIENER E, 1994, SOC INDIC RES, V31, P103, DOI 10.1007/BF01207052
+   Dolan P, 2012, J SOC POLICY, V41, P409, DOI 10.1017/S0047279411000833
+   Eccles JS, 2003, J SOC ISSUES, V59, P865, DOI 10.1046/j.0022-4537.2003.00095.x
+   Finch JF, 1999, J PERS, V67, P581, DOI 10.1111/1467-6494.00066
+   Fredricks J.A., 2006, Applied Developmental Science, V10, P132, DOI DOI 10.1207/S1532480XADS1003_3
+   FURMAN W, 1992, CHILD DEV, V63, P103, DOI 10.2307/1130905
+   Gagné M, 2003, MOTIV EMOTION, V27, P199, DOI 10.1023/A:1025007614869
+   Goldbeck L, 2007, QUAL LIFE RES, V16, P969, DOI 10.1007/s11136-007-9205-5
+   Gore FM, 2011, LANCET, V377, P2093, DOI 10.1016/S0140-6736(11)60512-6
+   Greenspoon PJ, 2001, SOC INDIC RES, V54, P81, DOI 10.1023/A:1007219227883
+   Guan SSA, 2016, J RES ADOLESCENCE, V26, P286, DOI 10.1111/jora.12191
+   Gunderson ER, 2006, TWIN RES HUM GENET, V9, P540, DOI 10.1375/twin.9.4.540
+   Haworth CMA, 2014, FRONT GENET, V5, DOI 10.3389/fgene.2014.00006
+   Haworth CMA, 2013, TWIN RES HUM GENET, V16, P117, DOI 10.1017/thg.2012.91
+   Heller K., 1983, Preventive psychology, P87
+   HOUSE JS, 1988, ANNU REV SOCIOL, V14, P293, DOI 10.1146/annurev.so.14.080188.001453
+   Huebner ES, 1996, SOC INDIC RES, V38, P129, DOI 10.1007/BF00300455
+   Johnson W, 2002, TWIN RES, V5, P125, DOI 10.1375/1369052022992
+   Kendler KS, 2007, PSYCHOL MED, V37, P615, DOI 10.1017/S0033291706009524
+   Kendler KS, 1997, AM J PSYCHIAT, V154, P1398
+   Kessler RC, 2005, ARCH GEN PSYCHIAT, V62, P593, DOI 10.1001/archpsyc.62.6.593
+   KESSLER RC, 1992, J PERS SOC PSYCHOL, V62, P257, DOI 10.1037/0022-3514.62.2.257
+   Keyes CLM, 2002, J HEALTH SOC BEHAV, V43, P207, DOI 10.2307/3090197
+   Kong F, 2013, SOC INDIC RES, V112, P151, DOI 10.1007/s11205-012-0044-6
+   LARSON RW, 1990, DEV REV, V10, P155, DOI 10.1016/0273-2297(90)90008-R
+   Larson RW, 1997, CHILD DEV, V68, P80, DOI 10.2307/1131927
+   Lau JYF, 2006, BRIT J PSYCHIAT, V189, P422, DOI 10.1192/bjp.bp.105.018721
+   Liang HA, 2005, CHILD DEV, V76, P1247, DOI 10.1111/j.1467-8624.2005.00848.x
+   Long CR, 2003, J THEOR SOC BEHAV, V33, P21, DOI 10.1111/1468-5914.00204
+   Lyubomirsky S, 1999, SOC INDIC RES, V46, P137, DOI 10.1023/A:1006824100041
+   Lyubomirsky S, 2013, CURR DIR PSYCHOL SCI, V22, P57, DOI 10.1177/0963721412469809
+   Matthews T, 2016, SOC PSYCH PSYCH EPID, V51, P339, DOI 10.1007/s00127-016-1178-7
+   McAdams TA, 2013, BEHAV GENET, V43, P314, DOI 10.1007/s10519-013-9591-0
+   McCullough ME, 2002, J PERS SOC PSYCHOL, V82, P112, DOI 10.1037//0022-3514.82.1.112
+   MCGUE M, 1984, BEHAV GENET, V14, P325, DOI 10.1007/BF01080045
+   Milevsky A, 2005, J SOC PERS RELAT, V22, P743, DOI 10.1177/0265407505056447
+   Milner A, 2016, PUBLIC HEALTH, V140, P172, DOI 10.1016/j.puhe.2016.06.029
+   Morgan J, 2009, J HAPPINESS STUD, V10, P197, DOI 10.1007/s10902-007-9075-0
+   Pike A, 1996, J CHILD PSYCHOL PSYC, V37, P695, DOI 10.1111/j.1469-7610.1996.tb01461.x
+   Pinquart M, 2000, PSYCHOL AGING, V15, P187, DOI 10.1037//0882-7974.15.2.187
+   PLOMIN R, 1991, BEHAV BRAIN SCI, V14, P414, DOI 10.1017/S0140525X00070588
+   Plomin R., 2013, Behavioral genetics, V6th, DOI DOI 10.1038/ng.3097
+   Price T S, 2000, Twin Res, V3, P129, DOI 10.1375/twin.3.3.129
+   Pritikin JN, 2015, EDUC PSYCHOL MEAS, V75, P458, DOI 10.1177/0013164414554615
+   Purcell K., 2010, Social media mobile Internet use among teens and young adults
+   R core team, 2014, R LANG ENV STAT COMP
+   RADLOFF L S, 1977, Applied Psychological Measurement, V1, P385, DOI 10.1177/014662167700100306
+   Rice F, 2002, J CHILD PSYCHOL PSYC, V43, P65, DOI 10.1111/1469-7610.00004
+   Rijsdijk Fruhling V, 2002, Brief Bioinform, V3, P119, DOI 10.1093/bib/3.2.119
+   Robbers SCC, 2011, EUR CHILD ADOLES PSY, V20, P419, DOI 10.1007/s00787-011-0194-0
+   Rowan-Kenyon H., 2016, Social media in higher education: ASHE higher education report, V42
+   Roysamb E, 2002, PERS INDIV DIFFER, V32, P211, DOI 10.1016/S0191-8869(01)00019-8
+   RStudio Team, 2020, RSTUDIO INTEGRATED D
+   Rueger SY, 2016, PSYCHOL BULL, V142, P1017, DOI 10.1037/bul0000058
+   Ryan RM, 2000, AM PSYCHOL, V55, P68, DOI 10.1037/0003-066X.55.1.68
+   SARASON BR, 1987, J PERS SOC PSYCHOL, V52, P813, DOI 10.1037/0022-3514.52.4.813
+   SCARR S, 1983, CHILD DEV, V54, P424, DOI 10.2307/1129703
+   Schaefer DR, 2011, DEV PSYCHOL, V47, P1141, DOI 10.1037/a0024091
+   SCHWARZER R, 1991, J SOC PERS RELAT, V8, P99, DOI 10.1177/0265407591081005
+   Seligson JL, 2003, SOC INDIC RES, V61, P121, DOI 10.1023/A:1021326822957
+   SHROUT PE, 1979, PSYCHOL BULL, V86, P420, DOI 10.1037/0033-2909.86.2.420
+   Siedlecki KL, 2014, SOC INDIC RES, V117, P561, DOI 10.1007/s11205-013-0361-4
+   Smith GD, 2003, INT J EPIDEMIOL, V32, P1, DOI 10.1093/ije/dyg070
+   Suldo SM, 2006, SOC INDIC RES, V78, P179, DOI 10.1007/s11205-005-8208-2
+   Sullivan PF, 2000, AM J PSYCHIAT, V157, P1552, DOI 10.1176/appi.ajp.157.10.1552
+   TARDY CH, 1985, AM J COMMUN PSYCHOL, V13, P187, DOI 10.1007/BF00905728
+   VAUX A, 1987, AM J COMMUN PSYCHOL, V15, P209, DOI 10.1007/BF00919279
+   Victor CR, 2012, J PSYCHOL, V146, P85, DOI 10.1080/00223980.2011.613875
+   WATSON D, 1988, J PERS SOC PSYCHOL, V54, P1063, DOI 10.1037/0022-3514.54.6.1063
+   Wrzus C, 2013, PSYCHOL BULL, V139, P53, DOI 10.1037/a0028601
+   ZIMET GD, 1988, J PERS ASSESS, V52, P30, DOI 10.1207/s15327752jpa5201_2
+NR 91
+TC 33
+Z9 36
+U1 2
+U2 24
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD OCT 12
+PY 2017
+VL 7
+AR 13088
+DI 10.1038/s41598-017-13449-2
+PG 14
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA FJ7PJ
+UT WOS:000412950900024
+PM 29026181
+OA Green Submitted, Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Liu, T
+   Yang, LT
+   Liu, SY
+   Ge, SK
+AF Liu, Tao
+   Yang, Lintao
+   Liu, Shouyin
+   Ge, Shuangkui
+TI Inferring and analysis of social networks using RFID check-in data in
+   China
+SO PLOS ONE
+LA English
+DT Article
+ID TIES
+AB Social networks play an important role in our daily lives. However, social ties are rather elusive to quantify, especially for large groups of subjects over prolonged periods of time. In this work, we first propose a methodology for extracting social ties from long spatio-temporal data streams, where the subjects are 17,795 undergraduates from a university of China and the data streams are the 9,147,106 time-stamped RFID check-in records left behind by them during one academic year. By several metrics mentioned below, we then analyze the structure of the social network. Our results center around three main observations. First, we characterize the global structure of the network, and we confirm the small-world phenomenon on a global scale. Second, we find that the network shows clear community structure. And we observe that younger students at lower levels tend to form large communities, while students at higher levels mostly form smaller communities. Third, we characterize the assortativity patterns by studying the basic demographic and network properties of users. We observe clear degree assortativity on a global scale. Furthermore, we find a strong effect of grade and school on tie formation preference, but we do not find any strong region homophily. Our research may help us to elucidate the structural characteristics and the preference of the formation of social ties in college students' social network.
+C1 [Liu, Tao; Yang, Lintao; Liu, Shouyin] Cent China Normal Univ, Coll Phys Sci & Technol, Wuhan, Hubei Province, Peoples R China.
+   [Liu, Tao] Jiujiang Univ, Sch Informat Sci & Technol, Jiujiang, Jiangxi, Peoples R China.
+   [Liu, Tao; Yang, Lintao; Liu, Shouyin] Cent China Normal Univ, Collaborat & Innovat Ctr Educ Technol, Wuhan, Hubei Province, Peoples R China.
+   [Ge, Shuangkui] Beijing Inst Elect Technol & Applicat, Beijing, Peoples R China.
+C3 Central China Normal University; Jiujiang University; Central China
+   Normal University
+RP Yang, LT (corresponding author), Cent China Normal Univ, Coll Phys Sci & Technol, Wuhan, Hubei Province, Peoples R China.; Yang, LT (corresponding author), Cent China Normal Univ, Collaborat & Innovat Ctr Educ Technol, Wuhan, Hubei Province, Peoples R China.
+EM ltaoyang@mail.ccnu.edu.cn
+RI Liu, Tao/P-6401-2015
+FU MOE [ccnu16JYI00019, CCNU17QN0011]
+FX Specific funding for education science research by self-determined
+   research funds of CCNU from the colleges' basic research and operation
+   of MOE, ccnu16JYI00019, Dr. Shouyin Liu. Self-determined research funds
+   of CCNU from the colleges' basic research and operation of MOE,
+   CCNU17QN0011, Mr. Lintao Yang. The funders had no role in study design,
+   data collection and analysis, decision to publish, or preparation of the
+   manuscript.
+CR [Anonymous], 2015, THEOR COMPUT
+   Ball B, 2011, CONTEMP SOCIOL, V84, P109
+   Ball B, 2011, PHYS REV E, V84, DOI 10.1103/PhysRevE.84.036103
+   Bernard H.R., 1977, HUMAN COMMUNICATIONS, V4, P3, DOI DOI 10.1111/J.1468-2958.1977.TB00591.X
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Crandall DJ, 2010, P NATL ACAD SCI USA, V107, P22436, DOI 10.1073/pnas.1006155107
+   Currarini S, 2009, IDENTIFYING SOURCES
+   Currarini S, 2010, P NATL ACAD SCI USA, V107, P4857, DOI 10.1073/pnas.0911793107
+   de Montjoye YA, 2014, SCI REP-UK, V4, DOI 10.1038/srep05277
+   Eagle N, 2009, P NATL ACAD SCI USA, V106, P15274, DOI 10.1073/pnas.0900282106
+   Garton L., 1997, Journal of Computer-Mediated Communication, V3, P313, DOI [DOI 10.1111/J.1083-6101.1997.TB00062.X, 10.1111/j.1083-6101.1997.tb00062.x]
+   Isella L, 2011, J THEOR BIOL, V271, P166, DOI 10.1016/j.jtbi.2010.11.033
+   Jacomy M, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0098679
+   Kleinberg, 2012, P 5 ACM INT C WEB SE, P743, DOI DOI 10.1145/2124295.2124382
+   Kossinets G, 2006, SCIENCE, V311, P88, DOI 10.1126/science.1116869
+   Kovanen L, 2013, P NATL ACAD SCI USA, V110, P18070, DOI 10.1073/pnas.1307941110
+   Li MX, 2014, NEW J PHYS, V16, DOI 10.1088/1367-2630/16/8/083038
+   Li MX, 2014, SCI REP-UK, V4, DOI 10.1038/srep05132
+   Mankoff J., 2007, IEEE, V40, P87, DOI [DOI 10.1109/HICSS.2007.325, 10.1109/HICSS.2007.325]
+   MARSDEN PV, 1988, SOC NETWORKS, V10, P57, DOI 10.1016/0378-8733(88)90010-X
+   MARSDEN PV, 1990, ANNU REV SOCIOL, V16, P435, DOI 10.1146/annurev.so.16.080190.002251
+   Newman MEJ, 2006, P NATL ACAD SCI USA, V103, P8577, DOI 10.1073/pnas.0601602103
+   Newman MEJ, 2007, PHYS REV E, V76, DOI 10.1103/PhysRevE.76.045101
+   Newman MEJ, 2003, PHYS REV E, V67, DOI 10.1103/PhysRevE.67.026126
+   Newman MEJ, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.208701
+   Noack A, 2008, PHYS REV E, V79, P319
+   Onnela JP, 2007, P NATL ACAD SCI USA, V104, P7332, DOI 10.1073/pnas.0610245104
+   Pitts VM, 2009, INT J RES METHOD EDU, V32, P185, DOI 10.1080/17437270902946660
+   Psorakis I, 2012, J R SOC INTERFACE, V9, P3055, DOI 10.1098/rsif.2012.0223
+   Sapiezynski P., 2016, INFERRING PERSON PER
+   Sapiezynski P, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0130824
+   Sekara V, 2016, P NATL ACAD SCI USA, V113, P9977, DOI 10.1073/pnas.1602803113
+   Stopczynski A, 2014, PLOS ONE, V9, DOI [10.1371/journal.pone.0100915, 10.1371/journal.pone.0095978]
+   Tumminello M., 2014, SSRN ELECT J, V15
+   Tumminello M, 2010, PLOS ONE, V6, P471
+   Wang D., 2011, P 17 ACM SIGKDD INT, P1100, DOI [10.1145/2020408.2020581, DOI 10.1145/2020408.2020581]
+   Wenbin Tang, 2011, Machine Learning and Knowledge Discovery in Databases. Proceedings European Conference (ECML PKDD 2011), P381, DOI 10.1007/978-3-642-23808-6_25
+   Willners C., 2009, LUND WORKING PAPERS, V48, P135
+   Wuchty S, 2009, P NATL ACAD SCI USA, V106, P15099, DOI 10.1073/pnas.0907905106
+   Xie WJ, 2016, SCI REP-UK, V6, DOI 10.1038/srep18727
+   Zhang GQ, 2012, COMPUTER SCI
+NR 41
+TC 8
+Z9 10
+U1 2
+U2 22
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JUN 1
+PY 2017
+VL 12
+IS 6
+AR e0178492
+DI 10.1371/journal.pone.0178492
+PG 18
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA EW6HZ
+UT WOS:000402611800063
+PM 28570586
+OA Green Submitted, gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Graham, BS
+AF Graham, Bryan S.
+TI AN ECONOMETRIC MODEL OF NETWORK FORMATION WITH DEGREE HETEROGENEITY
+SO ECONOMETRICA
+LA English
+DT Article
+DE Network formation; homophily; degree heterogeneity; scale-free networks;
+   incidental parameters; asymptotic bias; fixed effects; conditional
+   likelihood; dependent U-Process
+ID NONLINEAR PANEL MODELS; SOCIAL NETWORKS; ECONOMIC NETWORKS; RANDOM
+   GRAPHS
+AB I introduce a model of undirected dyadic link formation which allows for assortative matching on observed agent characteristics (homophily) as well as unrestricted agent-level heterogeneity in link surplus (degree heterogeneity). Like in fixed effects panel data analyses, the joint distribution of observed and unobserved agent-level characteristics is left unrestricted. Two estimators for the (common) homophily parameter, beta(0), are developed and their properties studied under an asymptotic sequence involving a single network growing large. The first, tetrad logit (TL), estimator conditions on a sufficient statistic for the degree heterogeneity. The second, joint maximum likelihood (JML), estimator treats the degree heterogeneity {A(i0)}(i=1)(N) as additional (incidental) parameters to be estimated. The TL estimate is consistent under both sparse and dense graph sequences, whereas consistency of the JML estimate is shown only under dense graph sequences.
+C1 [Graham, Bryan S.] Univ Calif Berkeley, Dept Econ, Berkeley, CA 94720 USA.
+   [Graham, Bryan S.] Natl Bur Econ Res, Cambridge, MA 02138 USA.
+C3 University of California System; University of California Berkeley;
+   National Bureau of Economic Research
+RP Graham, BS (corresponding author), Univ Calif Berkeley, Dept Econ, Berkeley, CA 94720 USA.; Graham, BS (corresponding author), Natl Bur Econ Res, Cambridge, MA 02138 USA.
+EM bgraham@econ.berkeley.edu
+RI Graham, Bryan/H-4515-2011
+OI Graham, Bryan/0000-0002-9637-5282
+FU NSF Grant SES [1357499]; ESRC [ES/I034021/1] Funding Source: UKRI
+FX The first draft of this paper dates to March 2014 and was titled "An
+   empirical model of network formation: detecting homophily when agents
+   are heterogenous." A Python 2.7.11 module implementing the methods
+   described in this paper is available for download from my web page. I
+   thank Jinyong Hahn for sharing an unpublished appendix of Hahn and Newey
+   (2004), Joachim De Weerdt for generously making his Nyakatoke data set
+   available, Eric Auerbach, Peter Bickel, Stephane Bonhomme, Jesus Carro,
+   Gary Chamberlain, Xiao-hong Chen, Nicholas Christakis, Ivan
+   Fernandez-Val, Jim Heckman, Yuichi Kitamura, Elena Manresa, Costas
+   Meghir, Roger Moon, Jong-Myun, Matt Shum, Martin Weidner, and Bin Yu for
+   numerous helpful suggestions. This paper has also benefited from the
+   reactions of audiences at the 2014 Seattle-Vancouver Econometrics
+   Conference, the 2014 All California Econometrics Conference, the 2015
+   Econometrics Journal Conference on Networks, the 2016 BeNet Conference
+   at UCL/CORE, as well as from participants in seminars and workshops at
+   New York University, UC Berkeley, the Toulouse School of Economics,
+   Oxford, Cambridge, St. Gallen, CEMFI, the Yale Institute of Network
+   Sciences, Stanford, USC, UCSD, Chicago, Michigan, Brown, and
+   Harvard-MIT. This revision incorporates many useful suggestions made by
+   the co-editor and four anonymous referees. Finally, I am especially
+   grateful for helpful conversations and suggestions from my three
+   immediate colleagues in the Economics Department at Berkeley: Michael
+   Jansson, Demian Pouzo, and Jim Powell. Financial support from NSF Grant
+   SES #1357499 is gratefully acknowledged. All the usual disclaimers
+   apply.
+CR Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   AMEMIYA T., 1985, ADV ECONOMETRICS, p[1045, 1050, 1053, 1055]
+   Amemiya T, 1985, ADV ECONOMETRICS, P1053
+   ANDERSEN EB, 1973, BRIT J MATH STAT PSY, V26, P31, DOI 10.1111/j.2044-8317.1973.tb00504.x
+   [Anonymous], 1985, LONGITUDINAL ANAL LA, V3-38, p[1034, 1039]
+   [Anonymous], 1986, Handbook of Econometrics, DOI 10.1016/S1573-4412(05)80005-4
+   [Anonymous], 2017, ECONOMETRICA S, V85
+   [Anonymous], 2013, J BUSINESS EC STAT, V31, p[266, 1036, 1037]
+   [Anonymous], 2016, 201602 SCI PO
+   [Anonymous], 2016, 22186 NBER, p[1036, 1037, 1053]
+   [Anonymous], 2013, J BUSINESS EC STAT, V31, p[266, 1036, 1037, 1053]
+   [Anonymous], 2016, 22186 NBER, p[1036, 1037, 1053]
+   [Anonymous], 1985, LONGITUDINAL ANAL LA, V3-38, p[1034, 1039]
+   Apicella CL, 2012, NATURE, V481, P497, DOI 10.1038/nature10736
+   Arellano M., 2007, ADV EC ECONOMETRICS, V43, P381, DOI DOI 10.1017/CBO9781139060035
+   Attanasio O, 2012, AM ECON J-APPL ECON, V4, P134, DOI 10.1257/app.4.2.134
+   Bala V, 2000, ECONOMETRICA, V68, P1181, DOI 10.1111/1468-0262.00155
+   Banerjee A, 2013, SCIENCE, V341, P363, DOI 10.1126/science.1236498
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Bhattacharyya S, 2015, ANN STAT, V43, P2384, DOI 10.1214/15-AOS1338
+   Billingsley P, 1995, Probability and measure, V3rd
+   Blitzstein J, 2011, INTERNET MATH, V6, P489, DOI 10.1080/15427951.2010.557277
+   Bloch F, 2007, J ECON THEORY, V133, P83, DOI 10.1016/j.jet.2005.10.003
+   Candelaria L.E., 2016, SEMIPARAMETRIC NETWO
+   Chamberlain, 1984, HDB ECONOMETRICS, P1247, DOI DOI 10.1016/S1573-4412(84)02014-6
+   CHAMBERLAIN G, 1980, REV ECON STUD, V47, P225, DOI 10.2307/2297110
+   CHANDRASEKHAR A. G., 2015, WORKING PAPER, P1036
+   CHARBONNEAU K. B., 2014, 201417 BANK CAN, p[1035, 1036]
+   Chatterjee S, 2006, ANN PROBAB, V34, P2061, DOI 10.1214/009117906000000575
+   Chatterjee S, 2011, ANN APPL PROBAB, V21, P1400, DOI 10.1214/10-AAP728
+   CHRISTAKIS N. A., 2010, 16039 NBER, P1036
+   COX DR, 1958, J R STAT SOC B, V20, P215
+   DE PAULA A., 2015, CW62915, P1036
+   DE PAULA A., 2016, CWP0616, p[1039, 1052]
+   DE WEERDT J., 2004, INSURANCE POVERTY, V197-216, P1035
+   DZEMSKI A., 2014, EMPIRICAL MODEL DYAD, p[1036, 1052]
+   Fafchamps M, 2007, AM ECON REV, V97, P75, DOI 10.1257/aer.97.2.75
+   Faust K, 2007, SOCIOL METHODOL, V37, P209, DOI 10.1111/j.1467-9531.2007.00179.x
+   FERGUSON T. S., 2005, U STAT, P1042
+   Fernández-Val I, 2016, J ECONOMETRICS, V192, P291, DOI 10.1016/j.jeconom.2015.12.014
+   Fox JT, 2010, QUANT ECON, V1, P203, DOI 10.3982/QE3
+   Goldsmith-Pinkham P, 2013, J BUS ECON STAT, V31, P253, DOI 10.1080/07350015.2013.801251
+   Golub B, 2012, Q J ECON, V127, P1287, DOI 10.1093/qje/qjs021
+   Graham Bryan, 2011, HDB SOCIAL EC B, V1B, P965
+   Graham BS, 2015, ANNU REV ECON, V7, P465, DOI 10.1146/annurev-economics-080614-115611
+   Hahn J, 2004, ECONOMETRICA, V72, P1295, DOI 10.1111/j.1468-0262.2004.00533.x
+   HAHN J., 2016, LM TEST NEGLECTED CO, P1052
+   HILLAR C. J., 2013, INVERSES SYMMETRIC D
+   HOEFFDING W, 1963, J AM STAT ASSOC, V58, P13, DOI 10.2307/2282952
+   HOEFFDING W, 1948, ANN MATH STAT, V19, P293, DOI 10.1214/aoms/1177730196
+   Holland PW., 1976, Sociol. Methodol, V7, P1, DOI [DOI 10.2307/270703, 10.2307/270703]
+   HONORE BE, 1994, J ECONOMETRICS, V64, P241, DOI 10.1016/0304-4076(94)90065-5
+   Honoré BE, 2000, ECONOMETRICA, V68, P839, DOI 10.1111/1468-0262.00139
+   Jackson ML, 2007, BMC MED INFORM DECIS, V7, DOI 10.1186/1472-6947-7-6
+   Jackson MO, 1996, J ECON THEORY, V71, P44, DOI 10.1006/jeth.1996.0108
+   Jackson MO, 2002, J ECON THEORY, V106, P265, DOI 10.1006/jeth.2001.2903
+   Jackson MO., 2013, Network Science, V1, P49, DOI 10.1017/nws.2012.7
+   JOCHMANS K., 2016, 201601 SCI PO, p[1035, 1036]
+   JOCHMANS K., 2016, 201601 SCI PO, p[1035, 1036]
+   Krivitsky PN, 2009, SOC NETWORKS, V31, P204, DOI 10.1016/j.socnet.2009.04.001
+   Lai B, 2000, J CONFLICT RESOLUT, V44, P203, DOI 10.1177/0022002700044002003
+   LEUNG M., 2015, RANDOM FIELD APPROAC, P1036
+   MANSKI CF, 1987, ECONOMETRICA, V55, P357, DOI 10.2307/1913240
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   MELE A., 2013, STRUCTURAL MODEL SEG, P1036
+   MENZEL K., 2016, STRATEGIC NETWORK FO, P1036
+   Miyauchi Y, 2016, J ECONOMETRICS, V195, P224, DOI 10.1016/j.jeconom.2016.08.001
+   NADLER C., 2015, NETWORKED INEQUALITY, p[1036, 1053]
+   NEWMAN M. E. J., 2010, NETWORKS INTRO, P1040
+   Neyman J, 1948, ECONOMETRICA, V16, P1, DOI 10.2307/1914288
+   Olhede SC, 2014, P NATL ACAD SCI USA, V111, P14722, DOI 10.1073/pnas.1400374111
+   Pastor-Satorras R, 2001, PHYS REV LETT, V86, P3200, DOI 10.1103/PhysRevLett.86.3200
+   POLLARD D., 2002, USERS GUIDE MEASURE, P1059
+   Rao BLSP, 2009, ANN I STAT MATH, V61, P441, DOI 10.1007/s10463-007-0152-2
+   Roger A.Horn Charles R. Johnson., 2013, MATRIX ANAL, Vsecond, DOI DOI 10.1088/1751-8113/43/40/403001
+   Shalizi CR, 2013, ANN STAT, V41, P508, DOI 10.1214/12-AOS1044
+   Sheng Shuyang., 2014, A structural econometric analysis of network formation games
+   Silva JMCS, 2006, REV ECON STAT, V88, P641, DOI 10.1162/rest.88.4.641
+   Simons G, 1998, LINEAR ALGEBRA APPL, V281, P97, DOI 10.1016/S0024-3795(98)10038-1
+   Simons G, 1999, ANN STAT, V27, P1041
+   Tamer E, 2003, REV ECON STUD, V70, P147, DOI 10.1111/1467-937X.00240
+   VAN DER VAART A. W., 2000, ASYMPTOTIC STAT, P1058
+   van Duijn MAJ, 2004, STAT NEERL, V58, P234
+   YAN T.. B, 2016, STAT INFERENCE DIREC, p[1036, 1049]
+   Yan T, 2013, BIOMETRIKA, V100, P519, DOI 10.1093/biomet/ass084
+NR 85
+TC 100
+Z9 138
+U1 3
+U2 45
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0012-9682
+EI 1468-0262
+J9 ECONOMETRICA
+JI Econometrica
+PD JUL
+PY 2017
+VL 85
+IS 4
+BP 1033
+EP 1063
+DI 10.3982/ECTA12679
+PG 31
+WC Economics; Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods; Statistics & Probability
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Mathematics; Mathematical Methods In Social
+   Sciences
+GA FF8MQ
+UT WOS:000409272900001
+OA Green Submitted, Bronze
+DA 2024-11-22
+ER

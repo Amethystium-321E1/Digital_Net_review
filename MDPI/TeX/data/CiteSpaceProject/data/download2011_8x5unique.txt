@@ -1,0 +1,463 @@
+
+PT J
+AU Zou, GY
+   Yilmaz, L
+AF Zou, Guangyu
+   Yilmaz, Levent
+TI Dynamics of knowledge creation in global participatory science
+   communities: open innovation communities from a network perspective
+SO COMPUTATIONAL AND MATHEMATICAL ORGANIZATION THEORY
+LA English
+DT Article
+DE Agent simulation; Global participatory science; Communities of practice;
+   Open innovation communities; Collective creativity
+AB Significant attention has been given to advancing cyber-infrastructures to support virtual engineering and science communities based on the proposition that virtual organizations can more effectively create and leverage knowledge due to diverse information, skills, and resources to enhance capacity to innovate. Yet, relatively little is known about desirable organizing processes in virtual open science communities. To this end, a simulation-based exploratory study is conducted to better understand the conditions that confer increased rates of innovation in such socio-technical systems. Three types of open science communities are identified and simulated using agent simulation as a method of inquiry. Simulation results show that centrality, as a measure of degree of connectedness, correlates with innovation output in exploratory and service communities up to a point. Also, utility-oriented communities have social network structures with low density and high centrality, which suggest high potential for innovation.
+C1 [Zou, Guangyu; Yilmaz, Levent] Auburn Univ, M&SNet Auburn Modeling & Simulat Lab, Auburn, AL 36849 USA.
+C3 Auburn University System; Auburn University
+RP Yilmaz, L (corresponding author), Auburn Univ, M&SNet Auburn Modeling & Simulat Lab, Auburn, AL 36849 USA.
+EM guangyu@auburn.edu; yilmaz@auburn.edu
+RI Zou, Guangyu/C-5946-2013
+OI Yilmaz, Levent/0000-0002-5082-3908
+FU National Science Foundation [NSF-SBE-0830261, NSF-IIS-0718648]; Direct
+   For Social, Behav & Economic Scie [0830261] Funding Source: National
+   Science Foundation
+FX This work was supported in part by the National Science Foundation
+   Grants NSF-SBE-0830261 and NSF-IIS-0718648. The views and conclusions
+   contained in this document are those of the author and should not be
+   interpreted as representing the official policies, either expressed or
+   implied, of the US government.
+CR [Anonymous], CREATIVITY CONTEXT U
+   [Anonymous], I INFRASTRUCTURES SC
+   [Anonymous], SOCIOLOGICAL RES ONL
+   [Anonymous], 2008, SOCIAL SIMULATION TE, DOI [DOI 10.4018/978-1-59904-522-1.CH005, 10.4018/978-1-59904-522-1.ch005]
+   BOS N, 2003, SHARED DATABASES COM
+   Brown JS, 1991, ORGAN SCI, V2, P40, DOI 10.1287/orsc.2.1.40
+   Brown Seely., 2000, The Social Life of Information
+   BROWN SJ, 2001, ORGAN SCI, V122, P198
+   Burt S. P., 1992, STRUCTURAL HOLES
+   Carley KM, 2009, TOP COGN SCI, V1, P621, DOI 10.1111/j.1756-8765.2009.01037.x
+   Cowan R, 2004, J ECON DYN CONTROL, V28, P1557, DOI 10.1016/j.jedc.2003.04.002
+   Crane D., 1972, INVISIBLE COLL DIFFU
+   Csikszentmihalyi M., 1999, HDB CREATIVITY, P313, DOI DOI 10.1017/CBO9780511807916.018
+   Dhanaraj C, 2006, ACAD MANAGE REV, V31, P659, DOI [10.5465/AMR.2006.21318923, 10.2307/20159234]
+   Foster I, 2005, SCIENCE, V308, P814, DOI 10.1126/science.1110411
+   Gordon MD, 1996, J AM SOC INFORM SCI, V47, P116, DOI 10.1002/(SICI)1097-4571(199602)47:2<116::AID-ASI3>3.0.CO;2-1
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Hargadon A., 2006, ORGAN SCI, V17, P177
+   Harrison J.R., 2006, Culture and Demography in Organizations
+   Holland JH, 1995, HIDDEN ORDER ADAPTAT
+   Kilduff M., 2006, SOCIAL NETWORKS ORG
+   Kilduff M., 2000, Handbook of organizational culture climate, P211
+   MANN GS, 2006, P 2006 JCDL C, P25
+   Miller JH, 2007, PRINC STUD COMPLEX, P1, DOI 10.1007/1-4020-5602-8_1
+   NanoHUB, 2009, NETW COMP NAN
+   Perry-Smith JE, 2003, ACAD MANAGE REV, V28, P89
+   Powell WW, 2004, ANNU REV SOCIOL, V30, P199, DOI 10.1146/annurev.soc.29.010202.100037
+   Rogers E.M., 2003, DIFFUSION INNOVATION
+   Simard C., 2006, OPEN INNOVATION RES, P220
+   Smith B, 2007, NAT BIOTECHNOL, V25, P1251, DOI 10.1038/nbt1346
+   Stankiewicz R., 1992, Dynamics of Science-Based Innovation
+   TENENBAUM M, 2008, THERAPY DEV NETWORKE
+   VANMAANEN J, 1984, RES ORGAN BEHAV, V6, P287
+   Ward T.B., 1997, CREATIVE THOUGHT INV, DOI [10.1037/10227-000, DOI 10.1037/10227-000]
+   Wenger E., 2009, COMMUNITIES PRACTICE
+   Ye YW, 2005, FREE/OPEN SOURCE SOFTWARE DEVELOPMENT, P59
+NR 36
+TC 13
+Z9 13
+U1 4
+U2 62
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1381-298X
+EI 1572-9346
+J9 COMPUT MATH ORGAN TH
+JI Comput. Math. Organ. Theory
+PD MAR
+PY 2011
+VL 17
+IS 1
+BP 35
+EP 58
+DI 10.1007/s10588-010-9068-0
+PG 24
+WC Computer Science, Interdisciplinary Applications; Mathematics,
+   Interdisciplinary Applications; Social Sciences, Mathematical Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science; Mathematics; Mathematical Methods In Social Sciences
+GA 757PT
+UT WOS:000290100900002
+DA 2024-11-22
+ER
+
+PT J
+AU Brooks, B
+   Welser, HT
+   Hogan, B
+   Titsworth, S
+AF Brooks, Brandon
+   Welser, Howard T.
+   Hogan, Bernie
+   Titsworth, Scott
+TI SOCIOECONOMIC STATUS UPDATES Family SES and emergent social capital in
+   college student Facebook networks
+SO INFORMATION COMMUNICATION & SOCIETY
+LA English
+DT Article
+DE social capital; socioeconomic status; social networks; social network
+   sites; Facebook
+ID PATTERNS; SITES
+AB There are numerous indirect ways in which socioeconomic status (SES) can advantage or disadvantage people in developing social capital. Specifically, SES affects the access individuals have to beneficial resources that indirectly affects the social capital benefits individuals receive from personal and group social networks. With the advent of social network sites like Facebook, the ability to quantify and measure the effects of SES on social capital benefits is possible to a much greater degree than ever before. This study of undergraduate students focuses on the relationship between SES and social capital. We examine the relationship between SES and three structural measures of students' social capital using online social network data: general social capital (network size), bridging social capital (number of clusters), and bonding social capital (average degree). According to our results, higher SES relates to larger and denser networks, but not to networks with more clusters. These findings suggest that SES is not related to greater opportunities for networking, but better capitalization of existing network contexts. In addition to the novel substantive contribution, this paper offers a methodological advance in the structural study of social capital, which has previously been limited in size or complexity due to recall.
+C1 [Brooks, Brandon] Michigan State Univ, Media & Informat Studies Program, Dept Telecommun Media & Informat Studies, E Lansing, MI 48824 USA.
+   [Titsworth, Scott] Ohio Univ, Sch Commun Studies, Athens, OH 45701 USA.
+   [Hogan, Bernie] Univ Oxford, Oxford Internet Inst, Oxford OX1 3JS, England.
+C3 Michigan State University; University System of Ohio; Ohio University;
+   University of Oxford
+RP Brooks, B (corresponding author), Michigan State Univ, Media & Informat Studies Program, Dept Telecommun Media & Informat Studies, Commun Arts & Sci Bldg, E Lansing, MI 48824 USA.
+EM brook205@msu.edu; welser@ohio.edu; bernie.hogan@oii.ox.ac.uk;
+   titswort@ohio.edu
+RI Welser, Howard/O-9868-2019
+OI Welser, Howard/0000-0002-6715-1335
+CR Bourdieu Pierre., 1984, DISTINCTION SOCIAL C, DOI DOI 10.1002/9780470755679.CH15
+   Boyd DM, 2007, J COMPUT-MEDIAT COMM, V13, P210, DOI 10.1111/j.1083-6101.2007.00393.x
+   Burke M, 2010, CHI2010: PROCEEDINGS OF THE 28TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, VOLS 1-4, P1909
+   BURT RS, 1984, SOC NETWORKS, V6, P293, DOI 10.1016/0378-8733(84)90007-8
+   BURT RS, 1992, NETWORKS AND ORGANIZATIONS : STRUCTURE, FORM, AND ACTION, P57
+   Burt RS, 2004, AM J SOCIOL, V110, P349, DOI 10.1086/421787
+   Clauset A, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.066111
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   College Portrait, 2009, COLL PORTRAIT   0803
+   CORTINA JM, 1993, J APPL PSYCHOL, V78, P98, DOI 10.1037/0021-9010.78.1.98
+   Covay E, 2010, SOCIOL EDUC, V83, P20, DOI 10.1177/0038040709356565
+   Dika SL, 2002, REV EDUC RES, V72, P31, DOI 10.3102/00346543072001031
+   Duncan OtisD., 1972, Socioeconomic Background and Achievement
+   Dutton W.H., 2007, Oxford Internet survey 2007 report
+   Ellison N. B., 2011, NEW MEDIA SOC   0108
+   Ellison N, 2006, J COMPUT-MEDIAT COMM, V11
+   Erickson BonnieH., 2001, SOCIAL CAPITAL, P127
+   Fox J., 1991, Regression diagnostics, DOI DOI 10.4135/9781412985604
+   Gilbert E, 2010, AM BEHAV SCI, V53, P1367, DOI 10.1177/0002764210361690
+   Goldfarb A, 2008, INF ECON POLICY, V20, P2, DOI 10.1016/j.infoecopol.2007.05.001
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Hargittai E, 2007, J COMPUT-MEDIAT COMM, V13, P276, DOI 10.1111/j.1083-6101.2007.00396.x
+   Hauser RM, 1997, SOCIOL METHODOL, V27, P177, DOI 10.1111/1467-9531.271028
+   Hogan B., 2010, Analyzing Social Media Networks with NodeXL, P165
+   Hogan B., 2008, P EUROPEAN SCI FDN Q
+   Hogan B, 2007, FIELD METHOD, V19, P116, DOI 10.1177/1525822X06298589
+   Kawachi I, 1997, AM J PUBLIC HEALTH, V87, P1491, DOI 10.2105/AJPH.87.9.1491
+   Lai GN, 1998, SOC NETWORKS, V20, P159, DOI 10.1016/S0378-8733(97)00012-9
+   Lampe C., 2006, P 2006 20 ANN C COMP, P167, DOI [10.1145/1180875.1180901, DOI 10.1145/1180875.1180901]
+   Lewis K, 2008, SOC NETWORKS, V30, P330, DOI 10.1016/j.socnet.2008.07.002
+   Lin N., 2002, SOCIAL CAPITAL THEOR
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   McPherson M, 2006, AM SOCIOL REV, V71, P353, DOI 10.1177/000312240607100301
+   Miyagi M., 2010, TECHIEINSIDER   1205
+   Moore J.C., 1999, Cognition and survey research, P155
+   MUELLER CW, 1981, CHILD DEV, V52, P13, DOI 10.2307/1129211
+   NAM CB, 1965, AM SOCIOL REV, V30, P97, DOI 10.2307/2091776
+   Opsahl T., 2010, GROWTH MECH CONTINUO, P1
+   Portes A, 1998, ANNU REV SOCIOL, V24, P1, DOI 10.1146/annurev.soc.24.1.1
+   Putnam Robert D., 2000, BOWLING ALONE COLLAP, DOI 10.1145/358916.361990
+   Shree S., 2010, TEHELKA         1206
+   Smith TE, 1995, J MARRIAGE FAM, V57, P930, DOI 10.2307/353413
+   Steinfield C, 2008, J APPL DEV PSYCHOL, V29, P434, DOI 10.1016/j.appdev.2008.07.002
+   Stern MJ, 2009, SOCIOL INQ, V79, P391, DOI 10.1111/j.1475-682X.2009.00302.x
+   Valenzuela S, 2009, J COMPUT-MEDIAT COMM, V14, P875, DOI 10.1111/j.1083-6101.2009.01474.x
+   Wakita K., 2007, FINDING COMMUNITY ST, P1275, DOI 10.1145/1242572.1242805
+   WILLIAMS DR, 1995, ANNU REV SOCIOL, V21, P349, DOI 10.1146/annurev.so.21.080195.002025
+NR 47
+TC 30
+Z9 39
+U1 2
+U2 60
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1369-118X
+EI 1468-4462
+J9 INFORM COMMUN SOC
+JI Info. Commun. Soc.
+PY 2011
+VL 14
+IS 4
+SI SI
+BP 529
+EP 549
+DI 10.1080/1369118X.2011.562221
+PG 21
+WC Communication; Sociology
+WE Social Science Citation Index (SSCI)
+SC Communication; Sociology
+GA 885ZG
+UT WOS:000299819400007
+DA 2024-11-22
+ER
+
+PT J
+AU Scheitle, CP
+   Smith, BG
+AF Scheitle, Christopher P.
+   Smith, Buster G.
+TI A Note on the Frequency and Sources of Close Interreligious Ties
+SO JOURNAL FOR THE SCIENTIFIC STUDY OF RELIGION
+LA English
+DT Article
+DE ties; networks; interreligious; homophily; social ties
+ID SOCIAL NETWORKS; CORE
+AB As the religious landscape of the United States becomes increasingly diverse, understanding how individuals of different faiths relate to each other and the consequences of those relationships presents a significant issue for research. Research studying such faith-bridging interactions has been limited and primarily focused on interfaith marriage. Using social network data from the 2004 General Social Survey we examine the dynamics underlying the frequency of interfaith ties of all types. We then analyze how interreligious ties differ in strength from intrareligious ties.
+C1 [Scheitle, Christopher P.] Penn State Univ, Dept Sociol, University Pk, PA 16802 USA.
+   [Smith, Buster G.] Catawba Coll, Dept Sociol, Salisbury, NC USA.
+C3 Pennsylvania Commonwealth System of Higher Education (PCSHE);
+   Pennsylvania State University; Pennsylvania State University -
+   University Park
+RP Scheitle, CP (corresponding author), Penn State Univ, Dept Sociol, 211 Oswald Tower, University Pk, PA 16802 USA.
+EM cps153@psu.edu
+RI Scheitle, Christopher/F-1122-2010
+CR Baker JO, 2009, SOC FORCES, V87, P1251, DOI 10.1353/sof.0.0181
+   Eck D.L., 2001, NEW RELIG AM
+   Fischer CS, 2009, AM SOCIOL REV, V74, P657, DOI 10.1177/000312240907400408
+   Griffiths P.J., 2001, Problems of Religious Diversity
+   Herberg W., 1960, PROTESTANT CATHOLIC
+   Knitter PaulF., 1995, ONE EARTH MANY RELIG
+   Knitter PaulF., 1985, NO OTHER NAME CRITIC
+   Lazarsfeld P.F., 1954, Freedom and Control in Modern Society, P18, DOI DOI 10.1111/J.1467-8705.2012.02056_3.X
+   LOFLAND J, 1965, AM SOCIOL REV, V30, P862, DOI 10.2307/2090965
+   MARSDEN PV, 1987, AM SOCIOL REV, V52, P122, DOI 10.2307/2095397
+   MCPHERSON JM, 1987, AM SOCIOL REV, V52, P370, DOI 10.2307/2095356
+   McPherson M, 2006, AM SOCIOL REV, V71, P353, DOI 10.1177/000312240607100301
+   McPherson M, 2009, AM SOCIOL REV, V74, P670, DOI 10.1177/000312240907400409
+   Race Alan., 1982, CHRISTIANS RELIG PLU
+   Scheitle CP, 2008, SOC SCI RES, V37, P815, DOI 10.1016/j.ssresearch.2007.10.001
+   Stark Rodney., 2000, ACTS FAITH EXPLORING
+   Steensland B, 2000, SOC FORCES, V79, P291, DOI 10.2307/2675572
+NR 17
+TC 5
+Z9 10
+U1 1
+U2 9
+PU WILEY-BLACKWELL
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 0021-8294
+J9 J SCI STUD RELIG
+JI J. Sci. Stud. Relig.
+PD JUN
+PY 2011
+VL 50
+IS 2
+BP 410
+EP 421
+DI 10.1111/j.1468-5906.2011.01576.x
+PG 12
+WC Sociology; Religion
+WE Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Sociology; Religion
+GA 772ZX
+UT WOS:000291277900015
+DA 2024-11-22
+ER
+
+PT J
+AU Salganik, MJ
+   Mello, MB
+   Abdo, AH
+   Bertoni, N
+   Fazito, D
+   Bastos, FI
+AF Salganik, Matthew J.
+   Mello, Maeve B.
+   Abdo, Alexandre H.
+   Bertoni, Neilane
+   Fazito, Dimitri
+   Bastos, Francisco I.
+TI The game of contacts: Estimating the social visibility of groups
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Network scale-up method; Hidden populations; Network sampling; HIV/AIDS
+   disease surveillance; Information flow
+ID PERSONAL NETWORK SIZE; EGOCENTRIC BIAS; HIV STATUS; ACCURACY;
+   SEROPREVALENCE; DYNAMICS; SAMPLES; PEOPLE; NUMBER; KNOWS
+AB Estimating the sizes of hard-to-count populations is a challenging and important problem that occurs frequently in social science, public health, and public policy. This problem is particularly pressing in HIV/AIDS research because estimates of the sizes of the most at-risk populations-illicit drug users, men who have sex with men, and sex workers-are needed for designing, evaluating, and funding programs to curb the spread of the disease. A promising new approach in this area is the network scale-up method, which uses information about the personal networks of respondents to make population size estimates. However, if the target population has low social visibility, as is likely to be the case in HIV/AIDS research, scale-up estimates will be too low. In this paper we develop a game-like activity that we call the game of contacts in order to estimate the social visibility of groups, and report results from a study of heavy drug users in Curitiba, Brazil (n = 294). The game produced estimates of social visibility that were consistent with qualitative expectations but of surprising magnitude. Further, a number of checks suggest that the data are high-quality. While motivated by the specific problem of population size estimation, our method could be used by researchers more broadly and adds to long-standing efforts to combine the richness of social network analysis with the power and scale of sample surveys. (C) 2010 Elsevier B.V. All rights reserved.
+C1 [Salganik, Matthew J.] Princeton Univ, Dept Sociol, Princeton, NJ 08544 USA.
+   [Salganik, Matthew J.] Princeton Univ, Off Populat Res, Princeton, NJ 08544 USA.
+   [Mello, Maeve B.; Bertoni, Neilane; Bastos, Francisco I.] Fundacao Oswaldo Cruz, Lab Hlth Informat, Rio De Janeiro, Brazil.
+   [Abdo, Alexandre H.] Univ Sao Paulo, Dept Phys, Sao Paulo, Brazil.
+   [Fazito, Dimitri] Univ Fed Minas Gerais, Dept Demog, Ctr Dev & Reg Planning, Belo Horizonte, MG, Brazil.
+C3 Princeton University; Princeton University; Fundacao Oswaldo Cruz;
+   Universidade de Sao Paulo; Universidade Federal de Minas Gerais
+RP Salganik, MJ (corresponding author), 145 Wallace Hall, Princeton, NJ 08544 USA.
+EM mjs3@princeton.edu
+RI Bastos, Francisco/AAV-4684-2020; Bertoni, Neilane/F-4026-2014
+OI Bastos, Francisco/0000-0001-5970-8896; Hannud Abdo,
+   Alexandre/0000-0002-4849-4631
+FU NICHD NIH HHS [R24 HD047879, R01 HD062366, R01 HD062366-01, R01
+   HD062366-02] Funding Source: Medline; Division Of Computer and Network
+   Systems; Direct For Computer & Info Scie & Enginr [0905086] Funding
+   Source: National Science Foundation
+CR [Anonymous], TAXAS INFECCAO HIV S
+   BARTON AH, 1968, AM BEHAV SCI, V12, P1, DOI 10.1177/000276426801200201
+   BERNARD HR, 1984, ANNU REV ANTHROPOL, V13, P495, DOI 10.1146/annurev.an.13.100184.002431
+   BERNARD HR, 1991, SOC SCI RES, V20, P109
+   BERNARD HR, SEXUALLY TR IN PRESS
+   Bernard HR., 1989, SMALL WORLD, P159
+   BLAIR J, 1991, WILEY S PRO, P145
+   BREWER DD, 1995, HUM NATURE-INT BIOS, V6, P379, DOI 10.1007/BF02734207
+   Brewer DD, 2000, SOC NETWORKS, V22, P29, DOI 10.1016/S0378-8733(99)00017-9
+   BURT RS, 1984, SOC NETWORKS, V6, P293, DOI 10.1016/0378-8733(84)90007-8
+   Caceres C, 2006, SEX TRANSM INFECT, V82, pIII3, DOI 10.1136/sti.2005.019489
+   COLEMAN JS, 1958, HUM ORGAN, V17, P28, DOI 10.17730/humo.17.4.q5604m676260q8n7
+   Gile KJ, 2010, SOCIOL METHODOL, V40, P285, DOI 10.1111/j.1467-9531.2010.01223.x
+   Gilovich T, 1998, J PERS SOC PSYCHOL, V75, P332, DOI 10.1037/0022-3514.75.2.332
+   Goel S, 2010, J PERS SOC PSYCHOL, V99, P611, DOI 10.1037/a0020697
+   Goel S, 2010, P NATL ACAD SCI USA, V107, P6743, DOI 10.1073/pnas.1000261107
+   Goel S, 2009, STAT MED, V28, P2202, DOI 10.1002/sim.3613
+   Goffman E., 1963, BEHAV PUBLIC PLACES
+   GRANOVETTER M, 1976, AM J SOCIOL, V81, P1287, DOI 10.1086/226224
+   Groves R., 1989, SURVEY ERRORS SURVEY
+   Groves R.M., 2002, Survey Nonresponse
+   Heckathorn DD, 2002, SOC PROBL, V49, P11, DOI 10.1525/sp.2002.49.1.11
+   Heckathorn DD, 1997, SOC PROBL, V44, P174, DOI 10.1525/sp.1997.44.2.03x0221m
+   Hogan B, 2007, FIELD METHOD, V19, P116, DOI 10.1177/1525822X06298589
+   Huckfeldt R, 2000, AM POLIT SCI REV, V94, P641, DOI 10.2307/2585836
+   JOHNSEN EC, 1995, SOC NETWORKS, V17, P167, DOI 10.1016/0378-8733(95)00261-L
+   Johnston LG, 2008, AIDS BEHAV, V12, pS131, DOI 10.1007/s10461-008-9413-1
+   Killworth PD, 1998, EVALUATION REV, V22, P289, DOI 10.1177/0193841X9802200205
+   Killworth PD, 1998, SOC NETWORKS, V20, P23, DOI 10.1016/S0378-8733(96)00305-X
+   Killworth PD, 2006, SOCIOL METHOD RES, V35, P84, DOI 10.1177/0049124106289160
+   Kitts JA, 2003, SOC PSYCHOL QUART, V66, P222, DOI 10.2307/1519823
+   LAUMANN EO, 1969, SOCIOMETRY, V32, P54, DOI 10.2307/2786634
+   Malekinejad M, 2008, AIDS BEHAV, V12, pS105, DOI 10.1007/s10461-008-9421-1
+   MARKS G, 1987, PSYCHOL BULL, V102, P72, DOI 10.1037/0033-2909.102.1.72
+   MARSDEN PV, 1990, ANNU REV SOCIOL, V16, P435, DOI 10.1146/annurev.so.16.080190.002251
+   Marsden PV, 2003, SOC NETWORKS, V25, P1, DOI 10.1016/S0378-8733(02)00009-6
+   MCCALLISTER L, 1978, SOCIOL METHOD RES, V7, P131, DOI 10.1177/004912417800700202
+   McCarty C, 1997, SOC NETWORKS, V19, P303, DOI 10.1016/S0378-8733(96)00302-4
+   McCarty C, 2001, HUM ORGAN, V60, P28, DOI 10.17730/humo.60.1.efx5t9gjtgmga73y
+   McCarty C, 2007, SOC NETWORKS, V29, P300, DOI 10.1016/j.socnet.2006.12.005
+   McCormick TH, 2010, J AM STAT ASSOC, V105, P59, DOI 10.1198/jasa.2009.ap08518
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Moore J., 1988, J OFF STAT, V4, P155
+   Paniotto V, 2009, ESTIMATING SIZE POPU
+   ROSS L, 1977, J EXP SOC PSYCHOL, V13, P279, DOI 10.1016/0022-1031(77)90049-X
+   Salganik MJ, 2009, TOP COGN SCI, V1, P439, DOI 10.1111/j.1756-8765.2009.01030.x
+   Salganik MJ, 2004, SOCIOL METHODOL, V34, P193, DOI 10.1111/j.0081-1750.2004.00152.x
+   SALGANIK MJ, 2009, GEN NETWORK SCALE UP
+   SHELLEY GA, 1995, SOC NETWORKS, V17, P189, DOI 10.1016/0378-8733(95)00262-M
+   Shelley GA, 2006, HUM ORGAN, V65, P430, DOI 10.17730/humo.65.4.08mwg9d3nfy8w9th
+   *UNAIDS, 2003, 0336E UNAIDS
+   Van Tilburg T, 1998, SOCIOL METHOD RES, V26, P300, DOI 10.1177/0049124198026003002
+   Volz E, 2008, J OFF STAT, V24, P79
+   von Ahn L, 2008, COMMUN ACM, V51, P58, DOI 10.1145/1378704.1378719
+   Wejnert C, 2009, SOCIOL METHODOL, V39, P73, DOI 10.1111/j.1467-9531.2009.01216.x
+   White K, 2000, SOC NETWORKS, V22, P337, DOI 10.1016/S0378-8733(00)00030-7
+   Zheng T, 2006, J AM STAT ASSOC, V101, P409, DOI 10.1198/016214505000001168
+NR 57
+TC 45
+Z9 56
+U1 3
+U2 24
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JAN
+PY 2011
+VL 33
+IS 1
+BP 70
+EP 78
+DI 10.1016/j.socnet.2010.10.006
+PG 9
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 781UM
+UT WOS:000291962000007
+PM 21318126
+OA Green Accepted
+DA 2024-11-22
+ER
+
+PT J
+AU Atalay, E
+   Hortaçsu, A
+   Roberts, J
+   Syverson, C
+AF Atalay, Enghin
+   Hortacsu, Ali
+   Roberts, James
+   Syverson, Chad
+TI Network structure of production
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE industrial organization; network dynamics
+ID SIZE DISTRIBUTION; RISK
+AB Complex social networks have received increasing attention from researchers. Recent work has focused on mechanisms that produce scale-free networks. We theoretically and empirically characterize the buyer-supplier network of the US economy and find that purely scale-free models have trouble matching key attributes of the network. We construct an alternative model that incorporates realistic features of firms' buyer-supplier relationships and estimate the model's parameters using microdata on firms' self-reported customers. This alternative framework is better able to match the attributes of the actual economic network and aids in further understanding several important economic phenomena.
+C1 [Atalay, Enghin; Hortacsu, Ali] Univ Chicago, Dept Econ, Chicago, IL 60637 USA.
+   [Roberts, James] Duke Univ, Dept Econ, Durham, NC 27708 USA.
+   [Syverson, Chad] Univ Chicago, Booth Sch Business, Chicago, IL 60637 USA.
+C3 University of Chicago; Duke University; University of Chicago
+RP Hortaçsu, A (corresponding author), Univ Chicago, Dept Econ, Chicago, IL 60637 USA.
+EM hortacsu@uchicago.edu
+RI Syverson, Chad/KHU-6091-2024
+OI Syverson, Chad/0009-0007-7504-7283
+FU Direct For Social, Behav & Economic Scie; Divn Of Social and Economic
+   Sciences [1124073] Funding Source: National Science Foundation
+CR Albert R, 1999, NATURE, V401, P130, DOI 10.1038/43601
+   ALFARO L, 2009, 15576 NBER
+   Allen F, 2000, J POLIT ECON, V108, P1, DOI 10.1086/262109
+   [Anonymous], 1995, GETTING JOB STUDY CO
+   Axtell RL, 2001, SCIENCE, V293, P1818, DOI 10.1126/science.1062081
+   Borgatti SP, 2009, SCIENCE, V323, P892, DOI 10.1126/science.1165821
+   Cabral LMB, 2003, AM ECON REV, V93, P1075, DOI 10.1257/000282803769206205
+   Carvalho V.M., 2010, Aggregate Fluctuations and the setwork structure of intersectoral trade
+   Conley TG, 2003, J POLIT ECON, V111, P311, DOI 10.1086/367681
+   Currarini S, 2009, ECONOMETRICA, V77, P1003, DOI 10.3982/ECTA7528
+   Freixas X, 2000, J MONEY CREDIT BANK, V32, P611, DOI 10.2307/2601198
+   Furfine CH, 2003, J MONEY CREDIT BANK, V35, P111, DOI 10.1353/mcb.2003.0004
+   Gabaix X, 1999, Q J ECON, V114, P739, DOI 10.1162/003355399556133
+   GABAIX X, 2011, ECONOMETRIC IN PRESS
+   Hanson GH, 2005, REV ECON STAT, V87, P664, DOI 10.1162/003465305775098080
+   Jackson MO, 2007, AM ECON REV, V97, P890, DOI 10.1257/aer.97.3.890
+   Jackson MO, 2008, SOCIAL AND ECONOMIC NETWORKS, P1
+   Javorcik BS, 2004, AM ECON REV, V94, P605, DOI 10.1257/0002828041464605
+   Kranton RE, 2001, AM ECON REV, V91, P485, DOI 10.1257/aer.91.3.485
+   Luttmer EGJ, 2007, Q J ECON, V122, P1103, DOI 10.1162/qjec.122.3.1103
+   Rossi-Hansberg E, 2007, AM ECON REV, V97, P1639, DOI 10.1257/aer.97.5.1639
+   Saldaña J, 2007, PHYS REV E, V75, DOI 10.1103/PhysRevE.75.027102
+   Schweitzer F, 2009, SCIENCE, V325, P422, DOI 10.1126/science.1173644
+NR 23
+TC 105
+Z9 132
+U1 2
+U2 20
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD MAR 29
+PY 2011
+VL 108
+IS 13
+BP 5199
+EP 5202
+DI 10.1073/pnas.1015564108
+PG 4
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA 741VY
+UT WOS:000288894800017
+PM 21402924
+OA Green Published
+DA 2024-11-22
+ER

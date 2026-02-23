@@ -1,0 +1,514 @@
+
+PT J
+AU Bryden, J
+   Funk, S
+   Jansen, VAA
+AF Bryden, John
+   Funk, Sebastian
+   Jansen, Vincent A. A.
+TI Word usage mirrors community structure in the online social network
+   Twitter
+SO EPJ DATA SCIENCE
+LA English
+DT Article
+ID COEVOLUTION; EVOLUTION; NORMS
+AB Background: Language has functions that transcend the transmission of information and varies with social context. To find out how language and social network structure interlink, we studied communication on Twitter, a broadly-used online messaging service.
+   Results: We show that the network emerging from user communication can be structured into a hierarchy of communities, and that the frequencies of words used within those communities closely replicate this pattern. Consequently, communities can be characterised by their most significantly used words. The words used by an individual user, in turn, can be used to predict the community of which that user is a member.
+   Conclusions: This indicates a relationship between human language and social networks, and suggests that the study of online communication offers vast potential for understanding the fabric of human society. Our approach can be used for enriching community detection with word analysis, which provides the ability to automate the classification of communities in social networks and identify emerging social groups.
+C1 [Bryden, John; Jansen, Vincent A. A.] Univ London, Sch Biol Sci, Egham TW20 0EX, Surrey, England.
+   [Funk, Sebastian] Princeton Univ, Dept Ecol & Evolutionary Biol, Princeton, NJ 08544 USA.
+   [Funk, Sebastian] London Sch Hyg & Trop Med, London WC1E 7HT, England.
+C3 University of London; Royal Holloway University London; Princeton
+   University; University of London; London School of Hygiene & Tropical
+   Medicine
+RP Funk, S (corresponding author), Princeton Univ, Dept Ecol & Evolutionary Biol, Princeton, NJ 08544 USA.
+EM sf7@princeton.edu
+RI Jansen, Vincent/C-8353-2009; Funk, Sebastian/A-2743-2011; Bryden,
+   John/C-6405-2008
+OI Jansen, Vincent A.A./0000-0002-6518-2090; Bryden,
+   John/0000-0002-5301-5367; Funk, Sebastian/0000-0002-2842-3406
+FU Engineering and Physical Sciences Research Council [EP/D002249/1];
+   Biotechnology and Biological Sciences Research Council [BB/I000151/1];
+   Economic and Social Research Council [ES/L000113/1]; EU [231807]; US
+   Department of Homeland Security; Bill and Melinda Gates Foundation;
+   BBSRC [BB/I000151/1, BB/I004548/1] Funding Source: UKRI; EPSRC
+   [EP/D002249/1] Funding Source: UKRI; ESRC [ES/L000113/1] Funding Source:
+   UKRI
+FX The authors would like to express their gratitude to Edwin van Leeuwen
+   for helpful discussions. This work was supported by the Engineering and
+   Physical Sciences Research Council through standard research grant
+   number EP/D002249/1, by the Biotechnology and Biological Sciences
+   Research Council grant BB/I000151/1 (to V.A.A.J.), by the Economic and
+   Social Research Council grant (ES/L000113/1), by the EU FP7 funded
+   integrated project EPIWORK (grant agreement number 231807), by the US
+   Department of Homeland Security and by the Bill and Melinda Gates
+   Foundation.
+CR Ahn YY, 2010, NATURE, V466, P761, DOI 10.1038/nature09182
+   [Anonymous], HOMEGIRLS LANGUAGE C
+   [Anonymous], 1991, PERSPECTIVES SOCIALL
+   [Anonymous], 2009, NOTICES AM MATH SOC
+   Blondel VD, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/10/P10008
+   Boyd R, 2009, PHILOS T R SOC B, V364, P3281, DOI 10.1098/rstb.2009.0134
+   Bryden J, 2011, J R SOC INTERFACE, V8, P1031, DOI 10.1098/rsif.2010.0524
+   Carroll KS, 2008, CENTRO J, V20, P96
+   Centola D, 2007, J CONFLICT RESOLUT, V51, P905, DOI 10.1177/0022002707307632
+   Chambers JK, 1997, SOCIOLINGUISTIC THEO
+   Efferson C, 2008, SCIENCE, V321, P1844, DOI 10.1126/science.1155805
+   Fehr E, 2004, TRENDS COGN SCI, V8, P185, DOI 10.1016/j.tics.2004.02.007
+   Fortunato S, 2010, PHYS REP, V486, P75, DOI 10.1016/j.physrep.2009.11.002
+   Funk S, 2009, P NATL ACAD SCI USA, V106, P6872, DOI 10.1073/pnas.0810762106
+   GOODMAN LA, 1961, ANN MATH STAT, V32, P148, DOI 10.1214/aoms/1177705148
+   Gumperz J, 1958, AM ANTHROPOL, V60, P148
+   Heckathorn DD, 1997, SOC PROBL, V44, P174, DOI 10.1525/sp.1997.44.2.03x0221m
+   Hill KR, 2011, SCIENCE, V331, P1286, DOI 10.1126/science.1199071
+   Kemeny JG., 1983, Finite Markov Chains
+   Kucera H., 1982, FREQUENCY ANAL ENGLI
+   Kumpula JM, 2007, PHYS REV LETT, V99, DOI 10.1103/PhysRevLett.99.228701
+   LABOV T, 1982, LANG SOC, V11, P391, DOI 10.1017/S0047404500009374
+   Labov William., 1966, WASHINGTON LINGUISTI, V3, P4
+   Lancichinetti A, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.056117
+   Lazer D, 2009, SCIENCE, V323, P721, DOI 10.1126/science.1167742
+   Maehlum B, 2010, LANGUAGE SPACE THEOR, V1
+   McElreath R, 2003, CURR ANTHROPOL, V44, P122, DOI 10.1086/345689
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Michel JB, 2011, SCIENCE, V331, P176, DOI 10.1126/science.1199644
+   Newman MEJ, 2006, P NATL ACAD SCI USA, V103, P8577, DOI 10.1073/pnas.0601602103
+   Pride J., 1980, LANGUAGE SOCIAL NETW, V58, P231
+   Red V, 2011, SIAM REV, V53, P526, DOI 10.1137/080734315
+   Reichardt J, 2007, PHYS REV E, V76, DOI 10.1103/PhysRevE.76.015102
+   Rosvall M, 2009, EUR PHYS J-SPEC TOP, V178, P13, DOI 10.1140/epjst/e2010-01179-1
+   Rosvall M, 2008, P NATL ACAD SCI USA, V105, P1118, DOI 10.1073/pnas.0706851105
+   Rosvall M, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0018209
+   Salathé M, 2010, PLOS COMPUT BIOL, V6, DOI 10.1371/journal.pcbi.1000736
+   Salathé M, 2008, J R SOC INTERFACE, V5, P1505, DOI 10.1098/rsif.2008.0271
+   SALTON G, 1988, INFORM PROCESS MANAG, V24, P513, DOI 10.1016/0306-4573(88)90021-0
+   Sunnafrank M, 2004, J SOC PERS RELAT, V21, P361, DOI 10.1177/0265407504042837
+NR 40
+TC 34
+Z9 40
+U1 0
+U2 5
+PU SPRINGEROPEN
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON, N1 9XW, ENGLAND
+EI 2193-1127
+J9 EPJ DATA SCI
+JI EPJ Data Sci.
+PD DEC
+PY 2013
+VL 2
+IS 1
+AR 3
+DI 10.1140/epjds15
+PG 9
+WC Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Mathematical Methods In Social Sciences
+GA V41TN
+UT WOS:000209568600003
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Rovira-Asenjo, N
+   Gumí, T
+   Sales-Pardo, M
+   Guimerà, R
+AF Rovira-Asenjo, Nuria
+   Gumi, Tania
+   Sales-Pardo, Marta
+   Guimera, Roger
+TI Predicting future conflict between team-members with parameter-free
+   models of social networks
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID STRUCTURAL BALANCE; PERFORMANCE; BLOCKMODELS; MANAGEMENT
+AB Despite the well-documented benefits of working in teams, teamwork also results in communication, coordination and management costs, and may lead to personal conflict between team members. In a context where teams play an increasingly important role, it is of major importance to understand conflict and to develop diagnostic tools to avert it. Here, we investigate empirically whether it is possible to quantitatively predict future conflict in small teams using parameter-free models of social network structure. We analyze data of conflict appearance and resolution between 86 team members in 16 small teams, all working in a real project for nine consecutive months. We find that group-based models of complex networks successfully anticipate conflict in small teams whereas micro-based models of structural balance, which have been traditionally used to model conflict, do not.
+C1 [Rovira-Asenjo, Nuria; Gumi, Tania; Sales-Pardo, Marta; Guimera, Roger] Univ Rovira & Virgili, Dept Engn Quim, E-43007 Tarragona, Catalonia, Spain.
+   [Guimera, Roger] Inst Catalana Recerca & Estudis Avancats, Barcelona 08010, Catalonia, Spain.
+C3 Universitat Rovira i Virgili; ICREA
+RP Sales-Pardo, M (corresponding author), Univ Rovira & Virgili, Dept Engn Quim, Av Paisos Catalans 26, E-43007 Tarragona, Catalonia, Spain.
+EM marta.sales@urv.cat
+RI Guimera, Roger/C-1727-2008; Sales-Pardo, Marta/C-1725-2008
+OI Guimera, Roger/0000-0002-3597-4310; Sales-Pardo,
+   Marta/0000-0002-8140-6525
+FU James S. McDonnell Foundation; European Union [PIRG-GA-2010-277166,
+   PIRG-GA-2010-268342]; Spanish Ministerio de Economia y Competitividad
+   [FIS2010-18639]; Universitat Rovira i Virgili; ICREA Funding Source:
+   Custom
+FX We thank L.A.N. Amaral, A. Aguilar-Mogas, A. Gavalda-Miralles, A.
+   Godoy-Lorite, F.A. Massucci, T. Valles-Catala, and B. Uzzi for their
+   comments and suggestions. This work was supported by a James S.
+   McDonnell Foundation Research Award (RG and MSP), grants
+   PIRG-GA-2010-277166 (RG) and PIRG-GA-2010-268342 (MSP) from the European
+   Union, and grant FIS2010-18639 (RG and MSP) from the Spanish Ministerio
+   de Economia y Competitividad. NRA acknowledges Universitat Rovira i
+   Virgili for a Ph.D scholarhip.
+CR Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   Amaral LAN, 2004, EUR PHYS J B, V38, P147, DOI 10.1140/epjb/e2004-00110-5
+   Amason AC, 1996, ACAD MANAGE J, V39, P123, DOI 10.5465/256633
+   Bavelas A., 1950, J ACOUST SOC AM, V22, P725, DOI DOI 10.1121/1.1906679
+   Bayazit M, 2003, SMALL GR RES, V34, P290, DOI 10.1177/1046496403034003002
+   Borgatti SP, 2009, SCIENCE, V323, P892, DOI 10.1126/science.1165821
+   CARTWRIGHT D, 1956, PSYCHOL REV, V63, P277, DOI 10.1037/h0046049
+   Collins Randall., 2000, The Sociology of Philosophies: A Global Theory of Intellectual Change
+   Cummings JN, 2005, SOC STUD SCI, V35, P703, DOI 10.1177/0306312705055535
+   De Dreu CKW, 2003, J APPL PSYCHOL, V88, P741, DOI 10.1037/0021-9010.88.4.741
+   Edmondson A, 1999, ADMIN SCI QUART, V44, P350, DOI 10.2307/2666999
+   Facchetti G, 2011, P NATL ACAD SCI USA, V108, P20953, DOI 10.1073/pnas.1109521108
+   Guimerà R, 2005, SCIENCE, V308, P697, DOI 10.1126/science.1106340
+   Guimerà R, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0044620
+   Guimerà R, 2009, P NATL ACAD SCI USA, V106, P22073, DOI 10.1073/pnas.0908366106
+   Heider F, 1946, J PSYCHOL, V21, P107, DOI 10.1080/00223980.1946.9917275
+   HOLLAND PW, 1983, SOC NETWORKS, V5, P109, DOI 10.1016/0378-8733(83)90021-7
+   Hong L, 2004, P NATL ACAD SCI USA, V101, P16385, DOI 10.1073/pnas.0403723101
+   Jehn KA, 1999, ADMIN SCI QUART, V44, P741, DOI 10.2307/2667054
+   Jehn KA, 2001, ACAD MANAGE J, V44, P238, DOI 10.5465/3069453
+   JEHN KA, 1995, ADMIN SCI QUART, V40, P256, DOI 10.2307/2393638
+   Jones BF, 2008, SCIENCE, V322, P1259, DOI 10.1126/science.1158357
+   Katz N, 2004, SMALL GR RES, V35, P307, DOI 10.1177/1046496404264941
+   Lovaglia M., 2004, Theories of small groups: Interdisciplinary perspectives, P139
+   Marvel SA, 2011, P NATL ACAD SCI USA, V108, P1771, DOI 10.1073/pnas.1013213108
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   Nowicki K, 2001, J AM STAT ASSOC, V96, P1077, DOI 10.1198/016214501753208735
+   Price DJDS., 1963, Little Science, Big Science
+   Srinivasan A, 2011, P NATL ACAD SCI USA, V108, P1751, DOI 10.1073/pnas.1018901108
+   Tekleab AG, 2009, GROUP ORGAN MANAGE, V34, P170, DOI 10.1177/1059601108331218
+   WHITE HC, 1981, AM J SOCIOL, V87, P517, DOI 10.1086/227495
+   Woolley AW, 2010, SCIENCE, V330, P686, DOI 10.1126/science.1193147
+   Wuchty S, 2007, SCIENCE, V316, P1036, DOI 10.1126/science.1136099
+NR 33
+TC 18
+Z9 18
+U1 0
+U2 47
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD JUN 17
+PY 2013
+VL 3
+AR 1999
+DI 10.1038/srep01999
+PG 6
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA 164UD
+UT WOS:000320434700001
+PM 23770685
+OA Green Published, gold, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Singh, P
+   Sreenivasan, S
+   Szymanski, BK
+   Korniss, G
+AF Singh, P.
+   Sreenivasan, S.
+   Szymanski, B. K.
+   Korniss, G.
+TI Threshold-limited spreading in social networks with multiple initiators
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID MODEL; IDENTIFICATION; MINORITIES; SURVIVAL; CASCADES; DYNAMICS
+AB A classical model for social-influence-driven opinion change is the threshold model. Here we study cascades of opinion change driven by threshold model dynamics in the case where multiple initiators trigger the cascade, and where all nodes possess the same adoption threshold phi. Specifically, using empirical and stylized models of social networks, we study cascade size as a function of the initiator fraction p. We find that even for arbitrarily high value of phi, there exists a critical initiator fraction p(c)(phi) beyond which the cascade becomes global. Network structure, in particular clustering, plays a significant role in this scenario. Similarly to the case of single-node or single-clique initiators studied previously, we observe that community structure within the network facilitates opinion spread to a larger extent than a homogeneous random network. Finally, we study the efficacy of different initiator selection strategies on the size of the cascade and the cascade window.
+C1 [Singh, P.; Sreenivasan, S.; Korniss, G.] Rensselaer Polytech Inst, Dept Phys Appl Phys & Astron, Troy, NY 12180 USA.
+   [Singh, P.; Sreenivasan, S.; Szymanski, B. K.; Korniss, G.] Rensselaer Polytech Inst, Social Cognit Networks Acad Res Ctr, Troy, NY 12180 USA.
+   [Sreenivasan, S.; Szymanski, B. K.] Rensselaer Polytech Inst, Dept Comp Sci, Troy, NY 12180 USA.
+C3 Rensselaer Polytechnic Institute; Rensselaer Polytechnic Institute;
+   Rensselaer Polytechnic Institute
+RP Singh, P (corresponding author), Rensselaer Polytech Inst, Dept Phys Appl Phys & Astron, 110 8th St, Troy, NY 12180 USA.
+EM singhp4@rpi.edu
+RI Szymanski, Boleslaw/JAC-8900-2023; Korniss, Gyorgy/A-7360-2011; Singh,
+   Pramesh/HZL-7863-2023; Szymanski, Boleslaw/A-9121-2009
+OI Szymanski, Boleslaw/0000-0002-0307-6743; Korniss,
+   Gyorgy/0009-0005-6816-6458
+FU Army Research Laboratory [W911NF-09-2-0053]; Army Research Office
+   [W911NF-12-1-0546]; Office of Naval Research [N00014-09-1-0607]; U.S.
+   Air Force Office of Scientific Research (AFOSR) [FA9550-12-1-0405];
+   Defense Advanced Research Projects Agency (DARPA)
+FX This work was supported in part by the Army Research Laboratory under
+   Cooperative Agreement Number W911NF-09-2-0053, by the Army Research
+   Office grant W911NF-12-1-0546, by the Office of Naval Research Grant No.
+   N00014-09-1-0607, and by grant No. FA9550-12-1-0405 from the U.S. Air
+   Force Office of Scientific Research (AFOSR) and the Defense Advanced
+   Research Projects Agency (DARPA). The views and conclusions contained in
+   this document are those of the authors and should not be interpreted as
+   representing the official policies either expressed or implied of the
+   Army Research Laboratory or the U.S. Government.
+CR BASS FM, 1969, MANAGE SCI, V15, P215, DOI 10.1287/mnsc.15.5.215
+   Brummitt CD, 2012, PHYS REV E, V85, DOI 10.1103/PhysRevE.85.045102
+   Brummitt CD, 2012, P NATL ACAD SCI USA, V109, pE680, DOI 10.1073/pnas.1110586109
+   Buldyrev SV, 2010, NATURE, V464, P1025, DOI 10.1038/nature08932
+   Centola D, 2005, AM J SOCIOL, V110, P1009, DOI 10.1086/427321
+   Centola D, 2007, PHYSICA A, V374, P449, DOI 10.1016/j.physa.2006.06.018
+   Chakrabarti D, 2008, ACM T INFORM SYST SE, V10, DOI 10.1145/1284680.1284681
+   Cheng-Hsin Weng, 2010, Proceedings of the 2010 5th IEEE International Conference on Nano/Micro Engineered and Molecular Systems (NEMS 2010), P14, DOI 10.1109/NEMS.2010.5592127
+   Del Genio CI, 2010, PLOS ONE, V5, DOI [10.1371/journal.pone.0010012, 10.1371/journal.pone.0015369]
+   Dodds PS, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.218701
+   Durrett R, 2010, P NATL ACAD SCI USA, V107, P4491, DOI 10.1073/pnas.0914402107
+   ERDOS P, 1960, B INT STATIST INST, V38, P343
+   Fontes LR, 2008, PROBAB THEORY REL, V141, P513, DOI 10.1007/s00440-007-0092-z
+   Galam S, 2007, PHYSICA A, V381, P366, DOI 10.1016/j.physa.2007.03.034
+   Gao JX, 2012, NAT PHYS, V8, P40, DOI 10.1038/nphys2180
+   Gionis A., 2007, ACM Trans. Knowl. Discov. Data, V1, P14
+   Gleeson JP, 2007, PHYS REV E, V75, DOI 10.1103/PhysRevE.75.056103
+   GRANOVETTER M, 1978, AM J SOCIOL, V83, P1420, DOI 10.1086/226707
+   Halu A, 2013, EPL-EUROPHYS LETT, V102, DOI 10.1209/0295-5075/102/16002
+   Handjani SJ, 1997, J THEOR PROBAB, V10, P737, DOI 10.1023/A:1022609912993
+   Hanhijarvi S., 2009, Proceedings of the 9th SIAM International Conference on Data Mining, P780, DOI DOI 10.1137/1.9781611972795.67
+   HARRIS TE, 1974, ANN PROBAB, V2, P969, DOI 10.1214/aop/1176996493
+   Hu Y., 2013, PNAS UNPUB
+   Huang L, 2008, PHYS REV E, V78, DOI 10.1103/PhysRevE.78.036116
+   Ikeda Y., 2010, Journal of Physics: Conference Series, V221, DOI 10.1088/1742-6596/221/1/012005
+   Kim H, 2009, J PHYS A-MATH THEOR, V42, DOI 10.1088/1751-8113/42/39/392001
+   Kitsak M, 2010, NAT PHYS, V6, P888, DOI [10.1038/NPHYS1746, 10.1038/nphys1746]
+   Latane B, 1996, J PERS SOC PSYCHOL, V70, P1218
+   Li Q, 2013, J STAT PHYS, V151, P92, DOI 10.1007/s10955-012-0625-4
+   Li Q, 2011, PHYS REV E, V84, DOI 10.1103/PhysRevE.84.066101
+   Liggett T. M., STOCHASTIC INTERACTI
+   Lu Q., 2006, Proceedings of the Third International Conference on Networked Sensing Systems (INSS 2006), P164
+   Lu QM, 2009, J ECON INTERACT COOR, V4, P221, DOI 10.1007/s11403-009-0057-7
+   Marvel SA, 2012, PHYS REV LETT, V109, DOI 10.1103/PhysRevLett.109.118702
+   Mobilia M, 2007, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2007/08/P08029
+   Mobilia M, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.028701
+   Mountford T, 2009, ANN PROBAB, V37, P1483, DOI 10.1214/08-AOP440
+   Prakash B. A., 2012, WWW 2012 APR 16 20 L
+   Sharan R, 2005, J COMPUT BIOL, V12, P835, DOI 10.1089/cmb.2005.12.835
+   Singh P, 2012, PHYS REV E, V85, DOI 10.1103/PhysRevE.85.046104
+   Soderstrom S., 2013, MANAGEMENT IN PRESS
+   Tardos, 2003, P 9 ACM SIGKDD INT C, P137, DOI 10.1145/956750.956769
+   Turalska M, 2013, SCI REP-UK, V3, DOI 10.1038/srep01371
+   Verma G, 2012, IEEE MILIT COMMUN C
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Watts DJ, 2002, P NATL ACAD SCI USA, V99, P5766, DOI 10.1073/pnas.082090499
+   Watts DJ, 2007, J CONSUM RES, V34, P441, DOI 10.1086/518527
+   Xie J, 2011, PHYS REV E, V84, DOI 10.1103/PhysRevE.84.011130
+   Xie J, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0033215
+   Yildiz E., Discrete opinion dynamics with stubborn agents
+   Zhang W, 2012, PHYS REV E, V86, DOI 10.1103/PhysRevE.86.061134
+NR 51
+TC 71
+Z9 81
+U1 0
+U2 32
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD JUL 31
+PY 2013
+VL 3
+AR 2330
+DI 10.1038/srep02330
+PG 7
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA 192TJ
+UT WOS:000322507900002
+PM 23900230
+OA Green Published, gold, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Smith, D
+   Ruston, A
+AF Smith, David
+   Ruston, Annmarie
+TI 'If you feel that nobody wants you you'll withdraw into your own':
+   Gypsies/Travellers, networks and healthcare utilisation
+SO SOCIOLOGY OF HEALTH & ILLNESS
+LA English
+DT Article
+DE Gypsies and Travellers; health inequalities; social networks; lay
+   referral structure; discrimination
+ID SOCIAL NETWORKS; INEQUALITIES; ETHNICITY; TRAVELERS
+AB Gypsies and Travellers are the unhealthiest group in British society, suffering from higher levels of physical and mental illness, lower life expectancy and with low levels of healthcare utilisation. They also continue to experience the highest level of prejudice and discrimination in society. While studies indicate that social networks play an important role in shaping health beliefs and the response to symptoms, evidence on the influence of networks on health is unclear and contradictory. This article draws on social network theory and research into the relation between discrimination and health to critically examine how networks mediate between collective experiences of racism and health-related behavior. Qualitative interviews with 39 adult Gypsies and Travellers were conducted in the South-East of England to explore the wider structural and institutional context and the influence those contexts play in shaping health beliefs and decisions whether to access formal health services. The findings indicate that the influence networks play in shaping health behaviour is dependent on the particular social context of the group and its status in relation to wider social structures, making generalization problematic.
+C1 [Smith, David] Univ Greenwich, Sch Hlth & Social Care, London SE9 2UG, England.
+   [Ruston, Annmarie] Canterbury Christ Church Univ, Ctr Hlth & Social Care Res, Canterbury, Kent, England.
+C3 University of Greenwich; Canterbury Christ Church University
+RP Smith, D (corresponding author), Univ Greenwich, Sch Hlth & Social Care, Avery Hill, London SE9 2UG, England.
+EM david228martin@yahoo.co.uk
+CR Achat H, 1998, QUAL LIFE RES, V7, P735, DOI 10.1023/A:1008837002431
+   Ahmad WIU, 2007, SOCIOL HEALTH ILL, V29, P795, DOI 10.1111/j.1467-9566.2007.01051.x
+   Almedom AM, 2005, SOC SCI MED, V61, P943, DOI 10.1016/j.socscimed.2004.12.025
+   [Anonymous], 1969, SOCIAL NETWORKS URBA
+   [Anonymous], 2003, PROFILES PREJUDICE N
+   Belton BrianA., 2005, Gypsy and Traveller Ethnicity: The Social Generation of an Ethnic Phenomenon
+   Campbell C, 2002, J COMMUNITY APPL SOC, V12, P13, DOI 10.1002/casp.650
+   Cemlyn S., 2009, Inequalities Experienced by Gypsy and Traveller Communities: A Review
+   Cemlyn S., 2005, GREATEST RISK CHILDR, P160
+   Dahl E, 2010, SOCIOL HEALTH ILL, V32, P1102, DOI 10.1111/j.1467-9566.2010.01270.x
+   Ferlander S, 2007, ACTA SOCIOL, V50, P115, DOI 10.1177/0001699307077654
+   Formoso B, 2000, DIOGENES, P58
+   Fountain J., 2006, OVERVIEW NATURE EXTE
+   Goward P., 2006, Journal of Mental Health, V15, P315, DOI [10.1080/09638230600700888, DOI 10.1080/09638230600700888]
+   Greenfields M, 2010, HOUSING STUD, V25, P397, DOI 10.1080/02673031003711022
+   Hannerz U., 1980, Exploring the City: Inquiries Toward an Urban Anthropology
+   Hawes D., 1995, GYPSY STATE ETHNIC C
+   Hiller P. T., 2009, FORUM QUALITATIVE SO, V10, P3
+   Kana'Iaupuni SM, 2005, SOC FORCES, V83, P1137, DOI 10.1353/sof.2005.0036
+   Kornblum W., 1975, GYPSIES TINKERS OTHE
+   Liegeois JP, 2004, ROMA GYPSIES TRAVELL
+   Macinko J, 2001, MILBANK Q, V79, P387, DOI 10.1111/1468-0009.00213
+   Marmot M., 2004, SOCIAL STATUS YOUR S
+   MAY T., 1993, SOCIAL RES ISSUES ME
+   MCKINLAY JB, 1973, SOC FORCES, V51, P275, DOI 10.1093/sf/51.3.275
+   Noone JH, 2008, SOCIOL HEALTH ILL, V30, P711, DOI 10.1111/j.1467-9566.2008.01095.x
+   Okely Judith., 1983, TRAVELLER GYPSIES
+   Osypuk TL, 2010, HEALTH PLACE, V16, P1113, DOI 10.1016/j.healthplace.2010.07.002
+   Parkin Frank., 1979, Marxism and Class Theory: A Bourgeois Critique
+   Parry G., 2004, The Health Status of Gypsies and Travellers: Report of Department of Health Inequalities in Health Research
+   Phillips C, 2011, J SOC POLICY, V40, P173, DOI 10.1017/S0047279410000565
+   Polit D.F., 2008, NURS RES, V8th
+   Popay J, 2003, SOC SCI MED, V57, P55, DOI 10.1016/S0277-9536(02)00299-X
+   Powell R., 2008, Housing, Theory and Society, V25, P87, DOI DOI 10.1080/14036090701657462
+   Putnam R., 1999, BOWLING ALONE
+   Randhawa G., 2007, Tackling health inequalities for minority ethnic groups: challenges and opportunities
+   Ratcliffe P, 2009, HOUSING STUD, V24, P433, DOI 10.1080/02673030902938405
+   Richardson J., 2007, PROVIDING GYPSY TRAV
+   Robinson D., 2006, NEIGHBOURHOOD EXPERI
+   Sanders JM, 2002, ANNU REV SOCIOL, V28, P327, DOI 10.1146/annurev.soc.28.110601.140741
+   SEEMAN M, 1985, SOC PSYCHOL QUART, V48, P237, DOI 10.2307/3033684
+   Sibley David., 1981, OUTSIDERS URBAN SOC
+   Smith GD, 2004, INT J EPIDEMIOL, V33, P691, DOI 10.1093/ije/dyh261
+   Strauss A., 1990, BASICS QUALITATIVE R
+   SUCHMAN EA, 1965, J HEALTH HUM BEHAV, V6, P114, DOI 10.2307/2948694
+   Suttles G.D., 1968, The Social Order of the Slum: Ethnicity and Territory in the Inner City
+   Todorova ILG, 2010, SOCIOL HEALTH ILL, V32, P843, DOI 10.1111/j.1467-9566.2010.01257.x
+   Van Cleemput P, 2007, J EPIDEMIOL COMMUN H, V61, P205, DOI 10.1136/jech.2006.046078
+   Van Cleemput P, 2008, SOC POLICY SOC, V7, P103, DOI 10.1017/S1474746407004046
+   Wilkinson R., 2009, The Spirit Level: Why Equality is Better for Everyone
+   WILLIAMS DR, 1995, ANNU REV SOCIOL, V21, P349, DOI 10.1146/annurev.so.21.080195.002025
+NR 51
+TC 20
+Z9 23
+U1 1
+U2 29
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0141-9889
+EI 1467-9566
+J9 SOCIOL HEALTH ILL
+JI Sociol. Health Ill.
+PD NOV
+PY 2013
+VL 35
+IS 8
+BP 1196
+EP 1210
+DI 10.1111/1467-9566.12029
+PG 15
+WC Public, Environmental & Occupational Health; Social Sciences,
+   Biomedical; Sociology
+WE Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health; Biomedical Social Sciences;
+   Sociology
+GA 255QQ
+UT WOS:000327255300005
+PM 23574153
+DA 2024-11-22
+ER
+
+PT J
+AU Buechel, B
+   Buskens, V
+AF Buechel, Berno
+   Buskens, Vincent
+TI The Dynamics of Closeness and Betweenness
+SO JOURNAL OF MATHEMATICAL SOCIOLOGY
+LA English
+DT Article
+DE betweenness centrality; closeness centrality; network dynamics; network
+   formation; social networks
+ID NETWORK FORMATION; CENTRALITY; MODEL
+AB Although both betweenness and closeness centrality are claimed to be important for the effectiveness of someone's network position, it has not been comprehensively studied which networks emerge if actors strive to optimize their centrality in the network in terms of betweenness and closeness. We study each of these centrality measures separately, but we also analyze what happens if actors value betweenness and closeness simultaneously. Network dynamics differ considerably in a scenario with either betweenness or closeness incentives compared with a scenario in which closeness and betweenness incentives are combined. There are not only more stable networks if actors' betweenness and closeness are combined, but also these stable networks are less stylized.
+C1 [Buechel, Berno] Univ Hamburg, Dept Econ, D-20146 Hamburg, Germany.
+   [Buskens, Vincent] Univ Utrecht, Dept Sociol, Utrecht, Netherlands.
+   [Buskens, Vincent] Erasmus Univ, Erasmus Sch Law, Rotterdam, Netherlands.
+C3 University of Hamburg; Utrecht University; Erasmus University Rotterdam
+   - Excl Erasmus MC; Erasmus University Rotterdam
+RP Buechel, B (corresponding author), Univ Hamburg, Dept Econ, Von Melle Pk 5, D-20146 Hamburg, Germany.
+EM berno.buechel@uni-hamburg.de
+RI Buskens, Vincent/B-3134-2012
+OI Buskens, Vincent/0000-0002-4483-7238; Buechel, Berno/0000-0001-8709-7877
+CR Anthonisse JM., 1971, 971 BN STICHT MATH C, V9/71, P1
+   Borgatti SP, 2006, SOC NETWORKS, V28, P466, DOI 10.1016/j.socnet.2005.11.005
+   Brandes U, 2008, LECT NOTES COMPUT SC, V5385, P394, DOI 10.1007/978-3-540-92185-1_45
+   Buechel B., 2008, NETWORKS DYNAMICS, P95
+   Buechel B., 2009, THESIS BIELEFIELD U
+   Burger MJ, 2009, SOC NETWORKS, V31, P63, DOI 10.1016/j.socnet.2008.10.001
+   BURT RS, 1992, NETWORKS AND ORGANIZATIONS : STRUCTURE, FORM, AND ACTION, P57
+   Burt RS, 2002, SOC NETWORKS, V24, P333, DOI 10.1016/S0378-8733(02)00017-5
+   Buskens V, 2008, AM J SOCIOL, V114, P371, DOI 10.1086/590674
+   Corbo J., 2005, ACM S PRINCIPLES DIS, P99, DOI DOI 10.1145/1073814.1073833
+   De Jaegher K., 2008, 0816 UTRECHT SCH EC
+   Diestel R., 2005, Graph theory
+   Doreian P, 2006, SOC NETWORKS, V28, P137, DOI 10.1016/j.socnet.2005.05.002
+   Fabrikant A, 2003, P 22 ANN ACM S PRINC, P347, DOI [10.1145/872035.872088, DOI 10.1145/872035.872088]
+   Flap Henk., 2003, CREATION RETURNS SOC, P3, DOI DOI 10.4324/9780203643648-11
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   Galeotti A, 2006, GAME ECON BEHAV, V54, P353, DOI 10.1016/j.geb.2005.02.003
+   Goyal S., 2007, CONNECTIONS INTRO EC
+   Goyal S, 2007, J ECON THEORY, V137, P460, DOI 10.1016/j.jet.2007.01.006
+   Goyal S, 2006, INT J GAME THEORY, V34, P319, DOI 10.1007/s00182-006-0023-8
+   Holme P, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.098701
+   Holme P, 2009, UNDERST COMPLEX SYST, P269, DOI 10.1007/978-3-642-01284-6_13
+   Hummon NP, 2000, SOC NETWORKS, V22, P221, DOI 10.1016/S0378-8733(00)00024-1
+   Jackson MO, 1996, J ECON THEORY, V71, P44, DOI 10.1006/jeth.1996.0108
+   Jackson MO, 2008, SOCIAL AND ECONOMIC NETWORKS, P1
+   Kleinberg J, 2008, EC'08: PROCEEDINGS OF THE 2008 ACM CONFERENCE ON ELECTRONIC COMMERCE, P284
+   PADGETT JF, 1993, AM J SOCIOL, V98, P1259, DOI 10.1086/230190
+   SABIDUSSI G, 1966, PSYCHOMETRIKA, V31, P581, DOI 10.1007/BF02289527
+   Sato Yoshimichi., 1997, TowardNew Theories o fSocial Networks, P127
+   Snijders TAB, 2010, SOC NETWORKS, V32, P1, DOI 10.1016/j.socnet.2009.12.002
+   Song S., 2007, Data Base for Advances in Information Systems, V38, P8, DOI 10.1145/1240616.1240620
+   Valente TW, 1998, SOC NETWORKS, V20, P89, DOI 10.1016/S0378-8733(97)00007-5
+   Walker G, 1997, ORGAN SCI, V8, P109, DOI 10.1287/orsc.8.2.109
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   Watts A, 2001, GAME ECON BEHAV, V34, P331, DOI 10.1006/game.2000.0803
+   Willer R, 2007, J MATH SOCIOL, V31, P101, DOI 10.1080/00222500601187884
+NR 36
+TC 16
+Z9 18
+U1 2
+U2 40
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 0022-250X
+EI 1545-5874
+J9 J MATH SOCIOL
+JI J. Math. Sociol.
+PD JUL 1
+PY 2013
+VL 37
+IS 3
+BP 159
+EP 191
+DI 10.1080/0022250X.2011.597011
+PG 33
+WC Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods; Sociology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Mathematical Methods In Social Sciences; Sociology
+GA 169CC
+UT WOS:000320753500002
+OA Green Submitted
+DA 2024-11-22
+ER

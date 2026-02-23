@@ -1,0 +1,650 @@
+
+PT J
+AU Babcock, M
+   Cox, RAV
+   Kumar, S
+AF Babcock, Matthew
+   Cox, Ramon Alfonso Villa
+   Kumar, Sumeet
+TI Diffusion of pro- and anti-false information tweets: the Black Panther
+   movie case
+SO COMPUTATIONAL AND MATHEMATICAL ORGANIZATION THEORY
+LA English
+DT Article; Proceedings Paper
+CT 11th Annual Conference on Social Computing, Behavioral-Cultural Modeling
+   and Prediction and Behavior Representation in Modeling and Simulation
+   (SBP-BRiMS)
+CY JUL 10-13, 2018
+CL Washington, DC
+DE Social networks; Fake news; Misinformation; Twitter
+ID NEWS
+AB Much has been made of the importance of the speed at which disinformation diffuses through online social media and this speed is an important aspect to consider when designing interventions. An additional complexity is that there can be different types of false information that travel from and through different communities who respond in various ways within the same social media conversation. Here we present a case study/example analysis exploring the speed and reach of three different types of false stories found in the Black Panther movie Twitter conversation and comparing the diffusion of these stories with the community responses to them. We find that the negative reaction to fake stories of racially-motivated violence whether in the form of debunking quotes or satirical posts can spread at speeds that are magnitudes higher than the original fake stories. Satire posts, while less viral than debunking quotes, appear to have longer lifetimes in the conversation. We also found that the majority of mixed community members who originally spread fake stories switched to attacking them. Our work serves as an example of the importance of analyzing the diffusion of both different types of disinformation and the different responses to it within the same overall conversation.
+C1 [Babcock, Matthew; Cox, Ramon Alfonso Villa; Kumar, Sumeet] Carnegie Mellon Univ, Sch Comp Sci, Pittsburgh, PA 15213 USA.
+C3 Carnegie Mellon University
+RP Babcock, M (corresponding author), Carnegie Mellon Univ, Sch Comp Sci, Pittsburgh, PA 15213 USA.
+EM mbabcock@cs.cmu.edu
+RI Kumar, Sumeet/AAX-7387-2020
+OI Villa-Cox, Ramon/0000-0002-6462-9153; Kumar, Sumeet/0000-0003-2715-7107
+CR Arif A, 2017, CSCW'17: PROCEEDINGS OF THE 2017 ACM CONFERENCE ON COMPUTER SUPPORTED COOPERATIVE WORK AND SOCIAL COMPUTING, P155, DOI 10.1145/2998181.2998294
+   Babcock M, 2018, LECT NOTES COMPUT SC, V10899, P97, DOI 10.1007/978-3-319-93372-6_12
+   Beskow D. M., Bot-hunter: A Tiered Approach
+   Castillo C., 2011, P 20 INT C WORLD WID, P675, DOI [DOI 10.1145/1963405.1963500, 10.1145/1963405.1963500]
+   Del Vicario M., 2018, ARXIV180201400
+   Harkov Lahav, 2018, TABLET FEBRUARY 26
+   Karsai M, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.025102
+   Kitsak M, 2010, NAT PHYS, V6, P888, DOI [10.1038/NPHYS1746, 10.1038/nphys1746]
+   Lazer DMJ, 2018, SCIENCE, V359, P1094, DOI 10.1126/science.aao2998
+   Ribeiro M. H., 2017, PROC DATA SCI JOURNA
+   Tandoc EC, 2018, DIGIT JOURNAL, V6, P137, DOI 10.1080/21670811.2017.1360143
+   Hoang TBN, 2018, J COMPUT SCI-NETH, V28, P257, DOI 10.1016/j.jocs.2017.10.010
+   Vosoughi S, 2018, SCIENCE, V359, P1146, DOI 10.1126/science.aap9559
+   Xiong F, 2012, PHYS LETT A, V376, P2103, DOI 10.1016/j.physleta.2012.05.021
+   Yang J, 2010, ICIM 2010: PROCEEDINGS OF THE TENTH INTERNATIONAL CONFERENCE ON INDUSTRIAL MANAGEMENT, P356
+   Yang J, 2010, 2010 IEEE INTERNATIONAL CONFERENCE ON WIRELESS COMMUNICATIONS, NETWORKING AND INFORMATION SECURITY (WCNIS), VOL 2, P593, DOI 10.1109/ICCSIT.2010.5564008
+   Zhao QY, 2015, KDD'15: PROCEEDINGS OF THE 21ST ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P1513, DOI 10.1145/2783258.2783401
+NR 17
+TC 13
+Z9 14
+U1 1
+U2 27
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1381-298X
+EI 1572-9346
+J9 COMPUT MATH ORGAN TH
+JI Comput. Math. Organ. Theory
+PD MAR
+PY 2019
+VL 25
+IS 1
+SI SI
+BP 72
+EP 84
+DI 10.1007/s10588-018-09286-x
+PG 13
+WC Computer Science, Interdisciplinary Applications; Mathematics,
+   Interdisciplinary Applications; Social Sciences, Mathematical Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI); Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science; Mathematics; Mathematical Methods In Social Sciences
+GA HQ2BV
+UT WOS:000462205200007
+OA Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Metzler, S
+   Günnemann, S
+   Miettinen, P
+AF Metzler, Saskia
+   Guennemann, Stephan
+   Miettinen, Pauli
+TI Stability and dynamics of communities on online question-answer sites
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Temporal network analysis; Social network structure; Hyperbolic
+   community model; Computational social science
+ID NETWORKS; CORE; PREDICTION
+AB Social networks are present in our everyday lives, not just in face to face communication, but also when we communicate through the Internet. The latter leaves massive traces of data and thereby opens opportunities to acquire a better understanding of social communities in general. In this work, we are particularly interested in the patterns of volunteer efforts within the communities. To that end, we examine the community structure of several large online question-answer sites and how they evolve over time. To describe the user interaction patterns concisely, we employ the hyperbolic community model. This statistical model allows for a summary of each community in each time step by means of intuitive parameters that reflect the connectivity pattern within the network. Our study of the temporal evolution of these parameters reveals an important characteristic: In contrast to what has been observed earlier in the analyses of growth behaviour of online communities, we observe that the user activity within a community is constant with respect to its size throughout its lifetime. Furthermore, the structural organisation of different communities across different question-answer sites seems to follow a common scheme: There is a small group of users who is responsible for the majority of the social interactions.
+C1 [Metzler, Saskia] Max Planck Inst Informat, Saarland Informat Campus,Bldg E1-4, D-66123 Saarbrucken, Germany.
+   [Guennemann, Stephan] Tech Univ Munich, Dept Informat, Boltzmannstr 3, D-85748 Garching, Germany.
+   [Guennemann, Stephan] Tech Univ Munich, Inst Adv Study, Boltzmannstr 3, D-85748 Garching, Germany.
+   [Miettinen, Pauli] Univ Eastern Finland, Sch Comp, POB 1627, Kuopio 70211, Finland.
+C3 Max Planck Society; Technical University of Munich; Technical University
+   of Munich; University of Eastern Finland
+RP Metzler, S (corresponding author), Max Planck Inst Informat, Saarland Informat Campus,Bldg E1-4, D-66123 Saarbrucken, Germany.
+EM saskia.metzler@mpi-inf.mpg.de
+OI Miettinen, Pauli/0000-0003-2271-316X
+CR Ahn YY, 2007, Proceedings of the 16th international conference on World Wide Web, P835, DOI DOI 10.1145/1242572.1242685
+   Airoldi EM, 2008, J MACH LEARN RES, V9, P1981
+   ALBA RD, 1978, SOCIOL METHOD RES, V7, P167, DOI 10.1177/004912417800700204
+   [Anonymous], 1998, 80 20 PRINCIPLE SECR
+   [Anonymous], 2011, ECOLOGICAL EC PRINCI
+   Araujo Miguel, 2014, Machine Learning and Knowledge Discovery in Databases. European Conference, ECML PKDD 2014. Proceedings: LNCS 8724, P50, DOI 10.1007/978-3-662-44848-9_4
+   Arnaboldi V, 2013, COMPUT COMMUN, V36, P1130, DOI 10.1016/j.comcom.2013.03.003
+   Bastian M, 2009, GEPHI OPEN SOURCE SO, DOI [DOI 10.1609/ICWSM.V3I1.13937, 10.13140/2.1.1341.1520]
+   Baym NK, 2004, NEW MEDIA SOC, V6, P299, DOI 10.1177/1461444804041438
+   Boden B., 2012, PROC 18 ACM SIGKDD I, P1258
+   Borgatti SP, 1999, SOC NETWORKS, V21, P375
+   Bruns Axel., 2008, BLOGS WIKIPEDIA 2 LI
+   Butler B., 2002, LEADERSHIP DISTANCE, P171
+   Cattuto C, 2006, EUR PHYS J C, V46, P33, DOI 10.1140/epjcd/s2006-03-004-4
+   Chakrabarti Deepayan, 2004, P ACM SIGKDD INT C K, P79
+   CORRADINO C, 1990, PRIMATES, V31, P351, DOI 10.1007/BF02381106
+   De Salve A, 2016, COMPUT COMMUN, V73, P211, DOI 10.1016/j.comcom.2015.09.001
+   Dunbar RIM, 2015, SOC NETWORKS, V43, P39, DOI 10.1016/j.socnet.2015.04.005
+   DUNBAR RIM, 1992, J HUM EVOL, V22, P469, DOI 10.1016/0047-2484(92)90081-J
+   Fernández-Sánchez G, 2010, ECOL INDIC, V10, P1193, DOI 10.1016/j.ecolind.2010.04.009
+   Girvan M, 2002, P NATL ACAD SCI USA, V99, P7821, DOI 10.1073/pnas.122653799
+   Günnemann S, 2014, KNOWL INF SYST, V40, P243, DOI 10.1007/s10115-013-0640-z
+   Haklay M., 2016, European Handbook of Crowdsourced Geographic Information, P35, DOI DOI 10.5334/BAX.C
+   Hargittai Eszter, 2008, Information Communication & Society, V11, P239, DOI 10.1080/13691180801946150
+   Jankowski MD, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0072611
+   Kittur A, 2008, CSCW: 2008 ACM CONFERENCE ON COMPUTER SUPPORTED COOPERATIVE WORK, CONFERENCE PROCEEDINGS, P37
+   Kumar R., 2006, P 12 ACM SIGKDD INT, P611
+   Lancichinetti A, 2009, NEW J PHYS, V11, DOI 10.1088/1367-2630/11/3/033015
+   Laumann E., 1976, NETWORKS COLLECTIVE
+   Leskovec J., 2008, WWW, DOI DOI 10.1145/1367497.1367591
+   Leskovec J, 2005, ACM SIGKDD C KNOWLED, P177
+   Matei SA, 2015, PUBLIC RELAT REV, V41, P178, DOI 10.1016/j.pubrev.2014.11.006
+   Metzler S, 2016, IEEE DATA MINING, P330, DOI [10.1109/ICDM.2016.115, 10.1109/ICDM.2016.0044]
+   Morgan DL, 1997, SOC NETWORKS, V19, P9, DOI 10.1016/S0378-8733(96)00288-2
+   Nesbit R, 2012, VOLUNTAS, V23, P558, DOI 10.1007/s11266-011-9218-0
+   Newman MEJ, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.036122
+   Nowicki K, 2001, J AM STAT ASSOC, V96, P1077, DOI 10.1198/016214501753208735
+   Ortega F., 2008, Proceedings of the 41st annual Hawaii international conference on system sciences, DOI [10.1109/hicss.2008.333, DOI 10.1109/HICSS.2008.333, 10.1109/HICSS.2008.333]
+   Palla G, 2005, NATURE, V435, P814, DOI 10.1038/nature03607
+   Palla G, 2007, NATURE, V446, P664, DOI 10.1038/nature05670
+   Panzarasa P, 2009, J AM SOC INF SCI TEC, V60, P911, DOI 10.1002/asi.21015
+   Reed PB, 2001, NONPROF VOLUNT SEC Q, V30, P761, DOI 10.1177/0899764001304008
+   Roberts SGB, 2009, SOC NETWORKS, V31, P138, DOI 10.1016/j.socnet.2008.12.002
+   Rombach MP, 2014, SIAM J APPL MATH, V74, P167, DOI 10.1137/120881683
+   Saramäki J, 2014, P NATL ACAD SCI USA, V111, P942, DOI 10.1073/pnas.1308540110
+   Sekara V, 2016, P NATL ACAD SCI USA, V113, P9977, DOI 10.1073/pnas.1602803113
+   Wellman B, 1996, ANNU REV SOCIOL, V22, P213, DOI 10.1146/annurev.soc.22.1.213
+   Yang J, 2012, IEEE DATA MINING, P1170, DOI 10.1109/ICDM.2012.139
+   Zhang TY, 2017, ACM T KNOWL DISCOV D, V11, DOI 10.1145/3059214
+NR 49
+TC 4
+Z9 4
+U1 3
+U2 20
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JUL
+PY 2019
+VL 58
+BP 50
+EP 58
+DI 10.1016/j.socnet.2018.12.004
+PG 9
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA IF1BX
+UT WOS:000472813200005
+DA 2024-11-22
+ER
+
+PT J
+AU Drushel, BE
+AF Drushel, Bruce E.
+TI The Evolution Will Not Be Broadcast (or Published): Social Capital,
+   Assimilation, and the Changing Queer Community
+SO JOURNAL OF HOMOSEXUALITY
+LA English
+DT Article
+DE Queer; LGBTQ; social network theory; social capital
+ID NETWORK
+AB Widespread technological advances, coupled with social and political success by the LGBTQ rights movement in the decades following the Stonewall uprising in 1969, have resulted in a dramatic evolution in the queer community. But increases in visibility, acceptance, and assimilation of queers into mainstream culture and cultural institutions have been accompanied by mainstream gentrification of formerly queer neighborhoods, more specialized social alternatives to bars and bookstores, and diminished interest in and audiences for niche-appeal media. At the same time, other institutions in the LGBTQ community, including the queer civic and fraternal organization The Court, the Gay Lesbian Straight Education Network (GLSEN), social media platforms such as Grindr, and online journalism cites such as Towleroad have become destination sites for many in cyberspace. In this article, I argue that social network theory (SNT) offers efficacy in both explaining and predicting institutional success in the evolving queer community and that queers, regardless of age, location, and relationship status, will affiliate with institutions that offer them to potential for the accumulation of social capital.
+C1 [Drushel, Bruce E.] Miami Univ, Dept Media Journalism & Film, 201 Williams Hall, Oxford, OH 45056 USA.
+C3 University System of Ohio; Miami University
+RP Drushel, BE (corresponding author), Miami Univ, Dept Media Journalism & Film, 201 Williams Hall, Oxford, OH 45056 USA.
+EM drushebe@miamioh.edu
+CR Altman D., 1982, HOMOSEXUALIZAION AM
+   Andreeva N., 2017, Deadline
+   Baim T., 2013, GAY LESBIAN REV WORL, V19-21, P19
+   Barabasi A.L., 2011, A networked self!: identity, community and culture on social network sites, P1
+   Berube Allen., 1990, COMING OUT FIRE
+   Boswell John, 1994, Same-Sex Unions in Premodern Europe
+   Bourdieu P., 1992, INVITATION REFLEXIVE
+   Bourdieu Pierre., 1984, DISTINCTION SOCIAL C, DOI DOI 10.1002/9780470755679.CH15
+   Boyd DM, 2007, J COMPUT-MEDIAT COMM, V13, P210, DOI 10.1111/j.1083-6101.2007.00393.x
+   Carney B. T., 2012, WASHINGTON BLAD 0301
+   Chauncey George., 1994, GAY NEW YORK GENDER
+   D'Emilio John., 1983, Sexual Politics, Sexual Communities: The Making of a Homosexual Minority in the United States, 1940-1970
+   Denneny M., 1989, OUTLOOK, V1, P18
+   Diani M., 1997, MOBILIZATION, V2, P129
+   Drushel BE, 2016, J AM CULTURE, V39, P33, DOI 10.1111/jacc.12521
+   Duberman Martin., 1994, STONEWALL
+   Elaine, 2014, 2013 AFFIRMING CHURC
+   Ellison N., 2011, NETWORKED SELF, P124
+   Faderman Lilian., 1991, ODD GIRLS TWILIGHT L
+   Faderman Lillian., 2006, GAY LA HIST SEXUAL O
+   Faderman Lillian., 1999, BELIEVE WOMEN
+   Faderman Lillian., 1981, Surpassing the Love of Men: Romantic Friendship and Love Between Women From the Renaissance to the Present
+   Gittell R., 1998, COMMUNITY ORG BUILDI, DOI [10.4135/9781452220567, DOI 10.4135/9781452220567]
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Harris Daniel., 1997, The Rise and Fall of Gay Culture
+   Lenhart A., 2007, Social networking websites and teens: An overview
+   Mayer A, 2008, J PUBLIC ECON, V92, P329, DOI 10.1016/j.jpubeco.2007.09.001
+   Media R, 2016, 21 ANN 2015 GAY PRES
+   Moses L., 2008, ADWEEK
+   Parks M., 2011, NETWORKED SELF IDENT, P105
+   Parks MR, 1996, J COMMUN, V46, P80, DOI 10.1111/j.1460-2466.1996.tb01462.x
+   Putnam Robert D., 2000, BOWLING ALONE COLLAP, DOI 10.1145/358916.361990
+   Rheingold H., 1993, VIRTUAL COMMUNITY HO
+   Sass E., 2007, MEDIADAILYNEWS  0605
+   Streitmatter R., 2013, ENCY GAY HIST CULTUR, P648
+   Stryker Susan., 1996, Gay by the Bay: A History of Queer Culture in San Francisco
+   Thompson M., 1994, Long road to freedom: The advocate history of the gay and lesbian movement
+   Wieder J., 2009, HUFFINGTON POST
+   Willson MicheleA., 2006, TECHNICALLY TOGETHER
+NR 39
+TC 11
+Z9 14
+U1 4
+U2 28
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0091-8369
+EI 1540-3602
+J9 J HOMOSEXUAL
+JI J. Homosex.
+PY 2019
+VL 66
+IS 12
+BP 1756
+EP 1768
+DI 10.1080/00918369.2018.1511132
+PG 13
+WC Psychology, Multidisciplinary; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology; Social Sciences - Other Topics
+GA KL7DT
+UT WOS:000513580200007
+PM 30346908
+DA 2024-11-22
+ER
+
+PT J
+AU Murase, Y
+   Jo, HH
+   Török, J
+   Kertész, J
+   Kaski, K
+AF Murase, Yohsuke
+   Jo, Hang-Hyun
+   Torok, Janos
+   Kertesz, Janos
+   Kaski, Kimmo
+TI Structural transition in social networks: The role of homophily
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID COMMUNITY STRUCTURE; COMPLEX NETWORKS; COMMUNICATION
+AB We introduce a model for the formation of social networks, which takes into account the homophily or the tendency of individuals to associate and bond with similar others, and the mechanisms of global and local attachment as well as tie reinforcement due to social interactions between people. We generalize the weighted social network model such that the nodes or individuals have Ffeatures and each feature can have q different values. Here the tendency for the tie formation between two individuals due to the overlap in their features represents homophily. We find a phase transition as a function of F or q, resulting in a phase diagram. For fixed q and as a function of F the system shows two phases separated at F-c. For F < F-c large, homogeneous, and well separated communities can be identified within which the features match almost perfectly (segregated phase). When F becomes larger than Fc the nodes start to belong to several communities and within a community the features match only partially (overlapping phase). Several quantities reflect this transition, including the average degree, clustering coefficient, feature overlap, and the number of communities per node. We also make an attempt to interpret these results in terms of observations on social behavior of humans.
+C1 [Murase, Yohsuke] RIKEN, Ctr Computat Sci, Kobe, Hyogo 6500047, Japan.
+   [Jo, Hang-Hyun] Asia Pacific Ctr Theoret Phys, Pohang 37673, South Korea.
+   [Jo, Hang-Hyun] Pohang Univ Sci & Technol, Dept Phys, Pohang 37673, South Korea.
+   [Jo, Hang-Hyun; Kertesz, Janos; Kaski, Kimmo] Aalto Univ, Dept Comp Sci, FI-00076 Espoo, Finland.
+   [Torok, Janos; Kertesz, Janos] Budapest Univ Technol & Econ, Dept Theoret Phys, H-1111 Budapest, Hungary.
+   [Torok, Janos; Kertesz, Janos] Cent European Univ, Dept Network & Data Sci, H-1051 Budapest, Hungary.
+   [Torok, Janos] Budapest Univ Technol & Econ, MTA BME Morphodynam Res Grp, H-1111 Budapest, Hungary.
+   [Kaski, Kimmo] Alan Turing Inst, British Lib, London NW1 2DB, England.
+C3 RIKEN; Asia Pacific Center for Theoretical Physics; Pohang University of
+   Science & Technology (POSTECH); Aalto University; Budapest University of
+   Technology & Economics; Central European University; Budapest University
+   of Technology & Economics
+RP Murase, Y (corresponding author), RIKEN, Ctr Computat Sci, Kobe, Hyogo 6500047, Japan.; Kertész, J (corresponding author), Aalto Univ, Dept Comp Sci, FI-00076 Espoo, Finland.; Kertész, J (corresponding author), Budapest Univ Technol & Econ, Dept Theoret Phys, H-1111 Budapest, Hungary.; Kertész, J (corresponding author), Cent European Univ, Dept Network & Data Sci, H-1051 Budapest, Hungary.
+EM yohsuke.murase@gmail.com; KerteszJ@ceu.edu
+RI Kertesz, Janos/JHS-3903-2023; Murase, Yohsuke/C-8680-2016; Kaski,
+   Kimmo/AAO-4320-2021; Jo, Hang-Hyun/F-4666-2012
+OI Kaski, Kimmo/0000-0002-3805-9687; Jo, Hang-Hyun/0000-0002-4214-9204
+FU MEXT as "Exploratory Challenges on Post-K computer (Studies of
+   multi-level spatiotemporal simulation of socioeconomic phenomena)";
+   Japan Society for the Promotion of Science (JSPS) (JSPS KAKENHI
+   [18H03621]; Basic Science Research Program through the National Research
+   Foundation of Korea (NRF) - Ministry of Education
+   [NRF-2018R1D1A1A09081919]; Rutherford Foundation Visiting Fellowship at
+   The Alan Turing Institute, UK; Grants-in-Aid for Scientific Research
+   [18H03621] Funding Source: KAKEN
+FX Y.M. acknowledges support from MEXT as "Exploratory Challenges on Post-K
+   computer (Studies of multi-level spatiotemporal simulation of
+   socioeconomic phenomena)" and from Japan Society for the Promotion of
+   Science (JSPS) (JSPS KAKENHI; grant no. 18H03621). H.-H.J. acknowledges
+   financial support by Basic Science Research Program through the National
+   Research Foundation of Korea (NRF) grant funded by the Ministry of
+   Education (NRF-2018R1D1A1A09081919). K.K. acknowledges the Rutherford
+   Foundation Visiting Fellowship at The Alan Turing Institute, UK. The
+   systematic simulations in this study were assisted by OACIS. Y.M.,
+   H.-H.J., J.T., and J.K. are thankful for the hospitality of Aalto
+   University.
+CR Ahn YY, 2010, NATURE, V466, P761, DOI 10.1038/nature09182
+   Axelrod R, 1997, J CONFLICT RESOLUT, V41, P203, DOI 10.1177/0022002797041002001
+   Barabasi A.-L, 2016, Network Science
+   Barberá P, 2015, PSYCHOL SCI, V26, P1531, DOI 10.1177/0956797615594620
+   Battiston F, 2017, SCI REP-UK, V7, DOI 10.1038/s41598-017-02040-4
+   Centola D, 2007, J CONFLICT RESOLUT, V51, P905, DOI 10.1177/0022002707307632
+   Deffuant G, 2000, APPLICATIONS OF SIMULATION TO SOCIAL SCIENCES, P87, DOI 10.1142/S0219525900000078
+   Del Vicario M, 2017, SCI REP-UK, V7, DOI 10.1038/srep40391
+   Fortunato S, 2016, PHYS REP, V659, P1, DOI 10.1016/j.physrep.2016.09.002
+   Gandica Y, 2011, PHYS REV E, V84, DOI 10.1103/PhysRevE.84.046109
+   Girvan M, 2002, P NATL ACAD SCI USA, V99, P7821, DOI 10.1073/pnas.122653799
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Halberstam Y, 2016, J PUBLIC ECON, V143, P73, DOI 10.1016/j.jpubeco.2016.08.011
+   Henry AD, 2011, P NATL ACAD SCI USA, V108, P8605, DOI 10.1073/pnas.1014486108
+   Jo HH, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0022687
+   Karimi F, 2018, SCI REP-UK, V8, DOI 10.1038/s41598-018-29405-7
+   Karsai M, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.025102
+   Kossinets G, 2006, SCIENCE, V311, P88, DOI 10.1126/science.1116869
+   Kossinets G, 2009, AM J SOCIOL, V115, P405, DOI 10.1086/599247
+   Kumpula JM, 2007, PHYS REV LETT, V99, DOI 10.1103/PhysRevLett.99.228701
+   Lancichinetti A, 2009, NEW J PHYS, V11, DOI 10.1088/1367-2630/11/3/033015
+   Lee E., 2017, ARXIV171008601
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Min B, 2017, SCI REP-UK, V7, DOI 10.1038/s41598-017-13047-2
+   Murase Y, 2017, J PHYS CONF SER, V921, DOI 10.1088/1742-6596/921/1/012001
+   Murase Y, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0133005
+   Murase Y, 2014, PHYS REV E, V90, DOI 10.1103/PhysRevE.90.052810
+   Newman M., 2010, NETWORKS INTRO, DOI 10.1162/artl_r_00062
+   Onnela JP, 2007, P NATL ACAD SCI USA, V104, P7332, DOI 10.1073/pnas.0610245104
+   Onnela JP, 2007, NEW J PHYS, V9, DOI 10.1088/1367-2630/9/6/179
+   Palla G, 2005, NATURE, V435, P814, DOI 10.1038/nature03607
+   Pastor-Satorras R, 2015, REV MOD PHYS, V87, P925, DOI 10.1103/RevModPhys.87.925
+   Rosvall M, 2008, P NATL ACAD SCI USA, V105, P1118, DOI 10.1073/pnas.0706851105
+   Rosvall M, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0018209
+   SCHELLING TC, 1969, AM ECON REV, V59, P488
+   Tilles PFC, 2015, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2015/11/P11026
+   Vazquez F, 2007, EPL-EUROPHYS LETT, V78, DOI 10.1209/0295-5075/78/18002
+   Vazquez F, 2007, PHYS REV E, V76, DOI 10.1103/PhysRevE.76.046120
+NR 38
+TC 21
+Z9 22
+U1 1
+U2 13
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD MAR 13
+PY 2019
+VL 9
+AR 4310
+DI 10.1038/s41598-019-40990-z
+PG 8
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA HO6CZ
+UT WOS:000461017700010
+PM 30867537
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Siew, CSQ
+   Wulff, DU
+   Beckage, NM
+   Kenett, YN
+AF Siew, Cynthia S. Q.
+   Wulff, Dirk U.
+   Beckage, Nicole M.
+   Kenett, Yoed N.
+TI Cognitive Network Science: A Review of Research on Cognition through the
+   Lens of Network Representations, Processes, and Dynamics
+SO COMPLEXITY
+LA English
+DT Review
+ID SPREADING-ACTIVATION THEORY; SEMANTIC NETWORKS; SOCIAL NETWORK;
+   SMALL-WORLD; CLUSTERING COEFFICIENT; PROBABILISTIC MODELS; CONNECTIONIST
+   MODELS; COMMUNITY STRUCTURE; FREE ASSOCIATION; MENTAL LEXICON
+AB Network science provides a set of quantitative methods to investigate complex systems, including human cognition. Although cognitive theories in different domains are strongly based on a network perspective, the application of network science methodologies to quantitatively study cognition has so far been limited in scope. This review demonstrates how network science approaches have been applied to the study of human cognition and how network science can uniquely address and provide novel insight on important questions related to the complexity of cognitive systems and the processes that occur within those systems. Drawing on the literature in cognitive network science, with a focus on semantic and lexical networks, we argue three key points. (i) Network science provides a powerful quantitative approach to represent cognitive systems. (ii) The network science approach enables cognitive scientists to achieve a deeper understanding of human cognition by capturing how the structure, i.e., the underlying network, and processes operating on a network structure interact to produce behavioral phenomena. (iii) Network science provides a quantitative framework to model the dynamics of cognitive systems, operationalized as structural changes in cognitive systems on different timescales and resolutions. Finally, we highlight key milestones that the field of cognitive network science needs to achieve as it matures in order to provide continued insights into the nature of cognitive structures and processes.
+C1 [Siew, Cynthia S. Q.] Univ Warwick, Warwick, England.
+   [Siew, Cynthia S. Q.] Natl Univ Singapore, Singapore, Singapore.
+   [Wulff, Dirk U.] Univ Basel, Basel, Switzerland.
+   [Wulff, Dirk U.] Max Planck Inst Human Dev, Berlin, Germany.
+   [Beckage, Nicole M.] Univ Wisconsin, Madison, WI 53706 USA.
+   [Kenett, Yoed N.] Univ Penn, Philadelphia, PA 19104 USA.
+C3 University of Warwick; National University of Singapore; University of
+   Basel; Max Planck Society; University of Wisconsin System; University of
+   Wisconsin Madison; University of Pennsylvania
+RP Siew, CSQ (corresponding author), Univ Warwick, Warwick, England.; Siew, CSQ (corresponding author), Natl Univ Singapore, Singapore, Singapore.
+EM cynthia@nus.edu.sg
+RI Siew, Cynthia/J-9954-2019
+OI Kenett, Yoed/0000-0003-3872-7689; Siew, Cynthia/0000-0003-3384-7374;
+   Wulff, Dirk/0000-0002-4008-8022
+FU Overseas Postdoctoral Fellowship from the National University of
+   Singapore
+FX Cynthia S. Q. Siew is supported by the Overseas Postdoctoral Fellowship
+   from the National University of Singapore.
+CR Abbott JT, 2015, PSYCHOL REV, V122, P558, DOI 10.1037/a0038693
+   Abramov O, 2011, J QUANT LINGUIST, V18, P291, DOI 10.1080/09296174.2011.608602
+   Aitchison J., 2012, WORDS MIND INTRO TOT
+   Albert R, 1999, NATURE, V401, P130, DOI 10.1038/43601
+   Anderson JR, 1996, AM PSYCHOL, V51, P355, DOI 10.1037/0003-066X.51.4.355
+   ANDERSON JR, 1983, J VERB LEARN VERB BE, V22, P261, DOI 10.1016/S0022-5371(83)90201-3
+   [Anonymous], 1977, ATTENTION PERFORMANC
+   [Anonymous], 1949, HUMAN BEHAVIOR AND T
+   Arbesman S, 2010, INT J BIFURCAT CHAOS, V20, P679, DOI 10.1142/S021812741002596X
+   Avery J., 2018, P ANN M COGNITIVE SC, P118
+   BALOTA DA, 1986, J EXP PSYCHOL LEARN, V12, P336, DOI 10.1037/0278-7393.12.3.336
+   Baltes PB, 1997, PSYCHOL AGING, V12, P12, DOI 10.1037/0882-7974.12.1.12
+   Barabasi A.-L, 2016, Network Science
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barabási AL, 2012, NATURE, V489, P507, DOI 10.1038/nature11486
+   Barceló-Coblijn L, 2012, ADAPT BEHAV, V20, P427, DOI 10.1177/1059712312455439
+   Baronchelli A, 2013, TRENDS COGN SCI, V17, P348, DOI 10.1016/j.tics.2013.04.010
+   Bassett DS, 2017, NAT NEUROSCI, V20, P353, DOI 10.1038/nn.4502
+   Baxter GJ, 2010, PHYS REV E, V82, DOI 10.1103/PhysRevE.82.011103
+   BEAUCHAMP MA, 1965, BEHAV SCI, V10, P161, DOI 10.1002/bs.3830100205
+   Beckage N., 2012, P ANN M COGNITIVE SC, P108
+   Beckage N. M., 2013, P 35 ANN C COGN SCI
+   Beckage N. M., 2015, P 37 ANN C COGN SCI
+   Beckage N, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0019348
+   Beckage NM., 2016, Towards a theoretical framework for analyzing complex linguistic networks, P3, DOI DOI 10.1007/978-3-662-47238-5_1
+   Benedek M, 2017, THINK REASONING, V23, P158, DOI 10.1080/13546783.2016.1278034
+   Boccaletti S, 2006, PHYS REP, V424, P175, DOI 10.1016/j.physrep.2005.10.009
+   Boccaletti S, 2014, PHYS REP, V544, P1, DOI 10.1016/j.physrep.2014.07.001
+   Borgatti S. P., 2006, Computational & Mathematical Organization Theory, V12, P21, DOI 10.1007/s10588-006-7084-x
+   Borgatti SP, 2005, SOC NETWORKS, V27, P55, DOI 10.1016/j.socnet.2004.11.008
+   Borge-Holthoefer J, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0022651
+   Borge-Holthoefer J, 2010, ENTROPY-SWITZ, V12, P1264, DOI 10.3390/e12051264
+   Borodkin K, 2016, COGNITION, V156, P60, DOI 10.1016/j.cognition.2016.07.014
+   Borsboom D, 2013, ANNU REV CLIN PSYCHO, V9, P91, DOI 10.1146/annurev-clinpsy-050212-185608
+   Bourgin D.D., 2014, P 36 ANN M COGN SCI, P224
+   Bousfield WA, 1944, J GEN PSYCHOL, V30, P149, DOI 10.1080/00221309.1944.10544467
+   Brandes U, 2016, SOC NETWORKS, V44, P153, DOI 10.1016/j.socnet.2015.08.003
+   Brin S, 1998, COMPUT NETWORKS ISDN, V30, P107, DOI 10.1016/S0169-7552(98)00110-X
+   Bullmore ET, 2012, NAT REV NEUROSCI, V13, P336, DOI 10.1038/nrn3214
+   Butts CT, 2009, SCIENCE, V325, P414, DOI 10.1126/science.1171022
+   Cancho RFI, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.051915
+   Cancho RFI, 2001, P ROY SOC B-BIOL SCI, V268, P2261, DOI 10.1098/rspb.2001.1800
+   Carlson MT, 2014, J MEM LANG, V75, P159, DOI 10.1016/j.jml.2014.05.005
+   Castro N., 2018, MULTIPLEX STRUCTURE, DOI [10.31234/osf.io/eqvmg, DOI 10.31234/OSF.IO/EQVMG]
+   Chan KY, 2010, COGNITIVE SCI, V34, P685, DOI 10.1111/j.1551-6709.2010.01100.x
+   Chan KY, 2009, J EXP PSYCHOL HUMAN, V35, P1934, DOI 10.1037/a0016902
+   Chater N, 2006, TRENDS COGN SCI, V10, P335, DOI 10.1016/j.tics.2006.05.006
+   Chen H, 2018, PLOS ONE, V13, DOI 10.1371/journal.pone.0192545
+   Choudhury M, 2010, PHYS REV E, V81, DOI 10.1103/PhysRevE.81.036103
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   Christensen A.P., 2019, SEMNETCLEANER AUTOMA
+   Christensen AP, 2018, R J, V10, P422
+   Christensen AP, 2018, EUR J PERSONALITY, V32, P480, DOI 10.1002/per.2157
+   Christensen AP, 2018, BEHAV RES METHODS, V50, P2531, DOI 10.3758/s13428-018-1032-9
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Cohen R, 2000, PHYS REV LETT, V85, P4626, DOI 10.1103/PhysRevLett.85.4626
+   COLLINS AM, 1975, PSYCHOL REV, V82, P407, DOI 10.1037/0033-295X.82.6.407
+   COLLINS AM, 1969, J VERB LEARN VERB BE, V8, P240, DOI 10.1016/S0022-5371(69)80069-1
+   Cong J, 2014, PHYS LIFE REV, V11, P598, DOI 10.1016/j.plrev.2014.04.004
+   De Deyne S, 2008, BEHAV RES METHODS, V40, P213, DOI 10.3758/BRM.40.1.213
+   De Deyne S, 2017, FRONT COGN PSYCHOL, P174
+   DELL GS, 1986, PSYCHOL REV, V93, P283, DOI 10.1037/0033-295X.93.3.283
+   Dell GS, 1999, COGNITIVE SCI, V23, P517, DOI 10.1207/s15516709cog2304_6
+   Dubossarsky H, 2017, DEV PSYCHOL, V53, P1560, DOI 10.1037/dev0000347
+   Engelthaler T, 2017, COGNITIVE SCI, V41, P120, DOI 10.1111/cogs.12350
+   Epskamp S, 2018, BEHAV RES METHODS, V50, P195, DOI 10.3758/s13428-017-0862-1
+   Euler L, 1741, COMMENTARII ACAD SCI, V8, P128, DOI 10.1090/spec/098/33
+   Fathan M. I., 2018, P 40 ANN M COGN SCI, P366
+   Fenson L, 2007, MACARTHUR BATES COMM
+   Forbush KT, 2016, PSYCHOL MED, V46, P2667, DOI 10.1017/S003329171600012X
+   Forster K.I., 1992, ORTHOGRAPHY PHONOLOG, P413
+   Fortunato S, 2010, PHYS REP, V486, P75, DOI 10.1016/j.physrep.2009.11.002
+   Fried EI, 2017, SOC PSYCH PSYCH EPID, V52, P1, DOI 10.1007/s00127-016-1319-z
+   Garcia JO, 2018, P IEEE, V106, P846, DOI 10.1109/JPROC.2017.2786710
+   Goldstein R, 2017, FRONT PSYCHOL, V8, DOI 10.3389/fpsyg.2017.01683
+   Goldstein R, 2014, FRONT PSYCHOL, V5, DOI 10.3389/fpsyg.2014.01307
+   Goñi J, 2011, COGN PROCESS, V12, P183, DOI 10.1007/s10339-010-0372-x
+   Gray K., 2019, AM PSYCHOL
+   Griffiths TL, 2007, PSYCHOL SCI, V18, P1069, DOI 10.1111/j.1467-9280.2007.02027.x
+   Griffiths TL, 2010, TRENDS COGN SCI, V14, P357, DOI 10.1016/j.tics.2010.05.004
+   Hart B, 1995, MEANINGFUL DIFFERENC
+   Healey MK, 2016, PSYCHOL REV, V123, P23, DOI 10.1037/rev0000015
+   Hilgetag CC, 2014, TRENDS COGN SCI, V18, P114, DOI 10.1016/j.tics.2013.10.016
+   Hills T., 2011, P ANN M COGN SCI SOC, V33
+   Hills TT, 2008, PSYCHOL SCI, V19, P802, DOI 10.1111/j.1467-9280.2008.02160.x
+   Hills TT, 2018, NAT HUM BEHAV, V2, P622, DOI 10.1038/s41562-018-0428-y
+   Hills TT, 2015, TOP COGN SCI, V7, P513, DOI 10.1111/tops.12151
+   Hills TT, 2012, PSYCHOL REV, V119, P431, DOI 10.1037/a0027373
+   Hills TT, 2012, J EXP PSYCHOL LEARN, V38, P218, DOI 10.1037/a0025161
+   Hills TT, 2010, J MEM LANG, V63, P259, DOI 10.1016/j.jml.2010.06.002
+   Hills TT, 2009, COGNITION, V112, P381, DOI 10.1016/j.cognition.2009.06.002
+   Hills TT, 2009, PSYCHOL SCI, V20, P729, DOI 10.1111/j.1467-9280.2009.02365.x
+   Hills TT, 2006, COGNITIVE SCI, V30, P3, DOI 10.1207/s15516709cog0000_50
+   Iyengar SRS, 2012, TOP COGN SCI, V4, P121, DOI 10.1111/j.1756-8765.2011.01178.x
+   Jones M.N., 2015, OXFORD HDB COMPUTATI, P232, DOI DOI 10.1093/OXFORDHB/9780199957996.013.11
+   Jones MN, 2007, PSYCHOL REV, V114, P1, DOI 10.1037/0033-295X.114.1.1
+   Jones MN, 2015, PSYCHOL REV, V122, P570, DOI 10.1037/a0039248
+   Karuza EA, 2017, SCI REP-UK, V7, DOI 10.1038/s41598-017-12876-5
+   Karuza EA, 2016, TRENDS COGN SCI, V20, P629, DOI 10.1016/j.tics.2016.06.003
+   Ke JY, 2008, J QUANT LINGUIST, V15, P70, DOI 10.1080/09296170701794286
+   Kearns M, 2006, SCIENCE, V313, P824, DOI 10.1126/science.1127207
+   Kello CT, 2009, PHONOL PHONET, V16, P171, DOI 10.1515/9783110223958.171
+   Kello CT, 2010, TRENDS COGN SCI, V14, P223, DOI 10.1016/j.tics.2010.02.005
+   Kenett Y.N., 2018, EXPLORING TRANSDISCI, P49, DOI [https://doi.org/10.1007/978-3-319-76054-4_3, DOI 10.1007/978-3-319-76054-4_3]
+   Kenett Y.N., 2016, CogSci, V8, P313
+   Kenett Y.N., 2017, Proceedings of the 39th Annual Meeting of the Cognitive Science Society, P657
+   Kenett YN, 2019, TRENDS COGN SCI, V23, P271, DOI 10.1016/j.tics.2019.01.007
+   Kenett YN, 2018, NEUROPSYCHOLOGIA, V118, P79, DOI 10.1016/j.neuropsychologia.2018.01.001
+   Kenett YN, 2018, P NATL ACAD SCI USA, V115, P867, DOI 10.1073/pnas.1717362115
+   Kenett YN, 2017, J EXP PSYCHOL LEARN, V43, P1470, DOI 10.1037/xlm0000391
+   Kenett YN, 2016, PSYCHOL AESTHET CREA, V10, P377, DOI 10.1037/aca0000056
+   Kenett YN, 2016, LANG SPEECH, V59, P297, DOI 10.1177/0023830915589397
+   Kenett YN, 2014, FRONT HUM NEUROSCI, V8, DOI 10.3389/fnhum.2014.00407
+   Kenett YN, 2013, FRONT PSYCHOL, V4, DOI 10.3389/fpsyg.2013.00543
+   Kenett YN, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0023912
+   Kleinberg JM, 2000, NATURE, V406, P845, DOI 10.1038/35022643
+   Koponen IT, 2014, J COMPLEX NETW, V2, P187, DOI 10.1093/comnet/cnu003
+   Koponen IT, 2010, SCI EDUC-NETHERLANDS, V19, P259, DOI 10.1007/s11191-009-9200-z
+   Koschützki D, 2005, LECT NOTES COMPUT SC, V3418, P16
+   Laisney M, 2011, CORTEX, V47, P35, DOI 10.1016/j.cortex.2009.11.001
+   Lake BM, 2017, BEHAV BRAIN SCI, V40, DOI 10.1017/S0140525X16001837
+   Latora V, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.198701
+   Lazer D, 2009, SCIENCE, V323, P721, DOI 10.1126/science.1167742
+   Lev-Ari S, 2018, Q J EXP PSYCHOL, V71, P2249, DOI 10.1177/1747021817739865
+   Lev-Ari S, 2018, COGNITION, V176, P31, DOI 10.1016/j.cognition.2018.03.003
+   Lewis K, 2008, SOC NETWORKS, V30, P330, DOI 10.1016/j.socnet.2008.07.002
+   Liu HT, 2008, PHYSICA A, V387, P3048, DOI 10.1016/j.physa.2008.01.069
+   Liu HT, 2009, POZ STUD CONTEMP LIN, V45, P509, DOI 10.2478/v10010-009-0025-3
+   Liu HT, 2013, CHINESE SCI BULL, V58, P1139, DOI 10.1007/s11434-013-5711-8
+   Liu HT, 2011, EPL-EUROPHYS LETT, V93, DOI 10.1209/0295-5075/93/28005
+   Liu HT, 2010, CHINESE SCI BULL, V55, P3458, DOI 10.1007/s11434-010-4114-3
+   Liu HT, 2009, CHINESE SCI BULL, V54, P2781, DOI 10.1007/s11434-009-0467-x
+   Luce PA, 1998, EAR HEARING, V19, P1, DOI 10.1097/00003446-199802000-00001
+   Majerus S, 2004, J MEM LANG, V51, P297, DOI 10.1016/j.jml.2004.05.002
+   Mason W, 2012, P NATL ACAD SCI USA, V109, P764, DOI 10.1073/pnas.1110069108
+   MCCLELLAND JL, 1995, PSYCHOL REV, V102, P419, DOI 10.1037/0033-295X.102.3.419
+   McNally RJ, 2015, CLIN PSYCHOL SCI, V3, P836, DOI 10.1177/2167702614553230
+   McRae K, 2005, BEHAV RES METHODS, V37, P547, DOI 10.3758/BF03192726
+   Medaglia JD, 2019, WIRES COGN SCI, V10, DOI 10.1002/wcs.1471
+   MEDNICK SA, 1962, PSYCHOL REV, V69, P220, DOI 10.1037/h0048850
+   Meunier D, 2010, FRONT NEUROSCI-SWITZ, V4, DOI 10.3389/fnins.2010.00200
+   MILLER GA, 1995, COMMUN ACM, V38, P39, DOI 10.1145/219717.219748
+   Morais AS, 2013, COGNITIVE SCI, V37, P125, DOI 10.1111/cogs.12013
+   Moreno S, 2013, IEEE DATA MINING, P1163, DOI 10.1109/ICDM.2013.165
+   Mukherjee A, 2007, INT J MOD PHYS C, V18, P281, DOI 10.1142/S0129183107010395
+   Nelson DL, 2004, BEHAV RES METH INS C, V36, P402, DOI 10.3758/BF03195588
+   Nematzadeh A., SIMPLE SEARCH ALGORI
+   Newman MEJ, 2006, P NATL ACAD SCI USA, V103, P8577, DOI 10.1073/pnas.0601602103
+   Newman MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444
+   Papo D, 2014, PHILOS T R SOC B, V369, DOI 10.1098/rstb.2013.0520
+   Pinker S, 2005, COGNITION, V95, P201, DOI 10.1016/j.cognition.2004.08.004
+   QUILLIAN MR, 1967, BEHAV SCI, V12, P410, DOI 10.1002/bs.3830120511
+   QUILLIAN MR, 1969, COMMUN ACM, V12, P459, DOI 10.1145/363196.363214
+   Ramscar M, 2017, PSYCHOL SCI, V28, P1171, DOI 10.1177/0956797617706393
+   Ramscar M, 2014, TOP COGN SCI, V6, P5, DOI 10.1111/tops.12078
+   ROMNEY AK, 1993, PSYCHOL SCI, V4, P28, DOI 10.1111/j.1467-9280.1993.tb00552.x
+   Rubinov M, 2010, NEUROIMAGE, V52, P1059, DOI 10.1016/j.neuroimage.2009.10.003
+   Salthouse TA, 2010, J INT NEUROPSYCH SOC, V16, P754, DOI 10.1017/S1355617710000706
+   Schilling MA, 2005, CREATIVITY RES J, V17, P131, DOI 10.1207/s15326934crj1702&3_2
+   SEIDENBERG MS, 1989, PSYCHOL REV, V96, P523, DOI 10.1037/0033-295X.96.4.523
+   Shai S, 2015, PHYS REV E, V92, DOI 10.1103/PhysRevE.92.062805
+   Siew C. S. Q., 2019, BEHAV RES METHODS, P1
+   Siew C. S. Q., 2019, J EXPT PSYCHOL GEN, P1
+   Siew CSQ, 2019, APPL COGNITIVE PSYCH, V33, P662, DOI 10.1002/acp.3484
+   Siew Cynthia S Q, 2018, Appl Netw Sci, V3, P13, DOI 10.1007/s41109-018-0068-1
+   Siew CSQ, 2017, PSYCHON B REV, V24, P496, DOI 10.3758/s13423-016-1103-9
+   Siew CSQ, 2017, J COMMUN DISORD, V65, P1, DOI 10.1016/j.jcomdis.2016.11.001
+   Siew CSQ, 2016, J EXP PSYCHOL LEARN, V42, P394, DOI 10.1037/xlm0000139
+   Siew CSQ, 2013, FRONT PSYCHOL, V4, DOI 10.3389/fpsyg.2013.00553
+   Sizemore AE, 2018, NAT HUM BEHAV, V2, P682, DOI 10.1038/s41562-018-0422-4
+   Small H, 1999, J AM SOC INFORM SCI, V50, P799, DOI 10.1002/(SICI)1097-4571(1999)50:9<799::AID-ASI9>3.0.CO;2-G
+   Smith KA, 2013, COGNITION, V128, P64, DOI 10.1016/j.cognition.2013.03.001
+   Solé RV, 2010, COMPLEXITY, V15, P20, DOI 10.1002/cplx.20305
+   Solé RV, 2001, P ROY SOC B-BIOL SCI, V268, P2039, DOI 10.1098/rspb.2001.1767
+   Solomon S. H., BEHAV RES METHODS
+   Sporns O., 2011, NETWORKS BRAIN
+   Stam CJ, 2014, NAT REV NEUROSCI, V15, P683, DOI 10.1038/nrn3801
+   Steels L, 2011, PHYS LIFE REV, V8, P339, DOI 10.1016/j.plrev.2011.10.014
+   Stella M, 2018, SCI REP-UK, V8, DOI 10.1038/s41598-018-20730-5
+   Stella M, 2017, SCI REP-UK, V7, DOI 10.1038/srep46730
+   Steyvers M, 2005, COGNITIVE SCI, V29, P41, DOI 10.1207/s15516709cog2901_3
+   Storkel HL, 2009, J CHILD LANG, V36, P291, DOI 10.1017/S030500090800891X
+   Tang E, 2018, REV MOD PHYS, V90, DOI 10.1103/RevModPhys.90.031003
+   Troyer AK, 1997, NEUROPSYCHOLOGY, V11, P138, DOI 10.1037/0894-4105.11.1.138
+   Unsworth N, 2017, J MEM LANG, V93, P135, DOI 10.1016/j.jml.2016.09.005
+   Valente TW, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0131712
+   van den Heuvel MP, 2013, TRENDS COGN SCI, V17, P683, DOI 10.1016/j.tics.2013.09.012
+   van Straaten ECW, 2013, EUR NEUROPSYCHOPHARM, V23, P7, DOI 10.1016/j.euroneuro.2012.10.010
+   Vitevitch M.S., 2014, Yearbook of the Poznan Linguistic Meeting, V1, P119, DOI [DOI 10.1515/YPLM-2015-0007, https://doi.org/10.1515/yplm-2015-0007]
+   Vitevitch M.S., 2016, Towards a Theoretical Framework for Ana-lyzing Complex Linguistic Networks, P29, DOI [DOI 10.1007/978-3-662-47238-5_2, 10.1007/978-3-662-47238-5_2]
+   Vitevitch MS, 2008, J SPEECH LANG HEAR R, V51, P408, DOI 10.1044/1092-4388(2008/030)
+   Vitevitch MS, 2015, INT J SPEECH-LANG PA, V17, P13, DOI 10.3109/17549507.2014.987819
+   Vitevitch MS, 2014, J MEM LANG, V73, P131, DOI 10.1016/j.jml.2014.03.005
+   Vitevitch MS, 2014, COGNITIVE PSYCHOL, V68, P1, DOI 10.1016/j.cogpsych.2013.10.002
+   Vitevitch MS, 2012, J MEM LANG, V67, P30, DOI 10.1016/j.jml.2012.02.008
+   Vitevitch MS, 2011, FRONT PSYCHOL, V2, DOI 10.3389/fpsyg.2011.00369
+   Volle E., 2018, The Cambridge Handbook of the Neuroscience of Creativity, V1, P333, DOI [10.1017/9781316556238.020, DOI 10.1017/9781316556238.020]
+   Warriner AB, 2013, BEHAV RES METHODS, V45, P1191, DOI 10.3758/s13428-012-0314-x
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   West R., 2012, WWW, P619
+   West R, 2009, 21ST INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI-09), PROCEEDINGS, P1598
+   Wulff D. U., 2016, P ANN M COGN SCI SOC, P313
+   Wulff D. U, 2013, P 35 ANN C COGN SCI, P3817
+   Wulff D. U., 2018, Structural differences in the semantic networks of younger and older adults, DOI [10.31234/osf.io/s73dp, DOI 10.31234/OSF.IO/S73DP]
+   Wulff DU, 2019, TRENDS COGN SCI, V23, P686, DOI 10.1016/j.tics.2019.05.003
+   Yates M, 2013, J EXP PSYCHOL LEARN, V39, P1649, DOI 10.1037/a0032422
+   Yee E, 2016, PSYCHON B REV, V23, P1015, DOI 10.3758/s13423-015-0948-7
+   Yu SY, 2011, PHYSICA A, V390, P1370, DOI 10.1016/j.physa.2010.12.019
+   Zemla J.C., 2016, P 38 ANN M COGNITIVE, P1907
+   Zemla Jeffrey C, 2018, Comput Brain Behav, V1, P36, DOI 10.1007/s42113-018-0003-7
+   Zortea M, 2014, PSICOL-REFLEX CRIT, V27, P90, DOI 10.1590/S0102-79722014000100011
+NR 211
+TC 163
+Z9 176
+U1 13
+U2 154
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1076-2787
+EI 1099-0526
+J9 COMPLEXITY
+JI Complexity
+PD JUN 17
+PY 2019
+VL 2019
+AR 2108423
+DI 10.1155/2019/2108423
+PG 24
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Science & Technology - Other Topics
+GA JI0YH
+UT WOS:000493192600001
+OA Green Submitted, gold, Green Published
+HC Y
+HP N
+DA 2024-11-22
+ER

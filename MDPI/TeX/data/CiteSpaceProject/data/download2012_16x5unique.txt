@@ -1,0 +1,565 @@
+
+PT J
+AU Risau-Gusman, S
+AF Risau-Gusman, Sebastian
+TI Influence of network dynamics on the spread of sexually transmitted
+   diseases
+SO JOURNAL OF THE ROYAL SOCIETY INTERFACE
+LA English
+DT Article
+DE sexually transmitted diseases; epidemic threshold; pairwise models
+ID TRANSMISSION; PARTNERSHIPS; BRITAIN; MODELS; PREVENTION; CONTACTS
+AB Network epidemiology often assumes that the relationships defining the social network of a population are static. The dynamics of relationships is only taken indirectly into account by assuming that the relevant information to study epidemic spread is encoded in the network obtained, by considering numbers of partners accumulated over periods of time roughly proportional to the infectious period of the disease. On the other hand, models explicitly including social dynamics are often too schematic to provide a reasonable representation of a real population, or so detailed that no general conclusions can be drawn from them. Here, we present a model of social dynamics that is general enough so its parameters can be obtained by fitting data from surveys about sexual behaviour, but that can still be studied analytically, using mean-field techniques. This allows us to obtain some general results about epidemic spreading. We show that using accumulated network data to estimate the static epidemic threshold lead to a significant underestimation of that threshold. We also show that, for a dynamic network, the relative epidemic threshold is an increasing function of the infectious period of the disease, implying that the static value is a lower bound to the real threshold. A practical example is given of how to apply the model to the study of a real population.
+C1 Ctr Atom Bariloche, Consejo Nacl Invest Cient & Tecn, RA-8400 San Carlos De Bariloche, Rio Negro, Argentina.
+C3 Comision Nacional de Energia Atomica (CNEA); Centro Atomico Bariloche;
+   Consejo Nacional de Investigaciones Cientificas y Tecnicas (CONICET)
+RP Risau-Gusman, S (corresponding author), Ctr Atom Bariloche, Consejo Nacl Invest Cient & Tecn, RA-8400 San Carlos De Bariloche, Rio Negro, Argentina.
+EM srisau@cab.cnea.gov.ar
+CR Althaus CL, 2012, J R SOC INTERFACE, V9, P136, DOI 10.1098/rsif.2011.0131
+   Altmann M, 1998, MATH BIOSCI, V150, P153, DOI 10.1016/S0025-5564(98)00012-1
+   ANDERSON R M, 1991
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Bauch CT, 2002, J MATH BIOL, V45, P375, DOI 10.1007/s002850200153
+   Bearman PS, 2004, AM J SOCIOL, V110, P44, DOI 10.1086/386272
+   Burington B, 2010, SEX TRANSM INFECT, V86, P84, DOI 10.1136/sti.2009.037960
+   CASTILLOCHAVEZ C, 1991, LECT NOTES PURE APPL, V133, P47
+   CATANIA JA, 1990, EVAL PROGRAM PLANN, V13, P19, DOI 10.1016/0149-7189(90)90005-H
+   Chowell G, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.066102
+   DIETZ K, 1988, MATH BIOSCI, V90, P397, DOI 10.1016/0025-5564(88)90077-6
+   DIETZ K, 1988, J MATH BIOL, V26, P1, DOI 10.1007/BF00280169
+   Eames KTD, 2004, MATH BIOSCI, V189, P115, DOI 10.1016/j.mbs.2004.02.003
+   Garnett GP, 1997, AIDS, V11, P681, DOI 10.1097/00002030-199705000-00017
+   Gross T, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.208701
+   Hamilton DT, 2008, SEX TRANSM DIS, V35, P30, DOI 10.1097/OLQ.0b013e3181453a84
+   Heesterbeek H., 2005, Ecological paradigms lost: routes of theory change, P81, DOI DOI 10.1016/B978-012088459-9/50007-8
+   Hethcote H.W., 1984, Lecture Notes in Biomath., V56
+   Hönekopp J, 2006, J EXP PSYCHOL HUMAN, V32, P199, DOI 10.1037/0096-1523.32.2.199
+   Johnson AM, 2001, LANCET, V358, P1835, DOI 10.1016/S0140-6736(01)06883-0
+   Jones JH, 2003, NATURE, V423, P605, DOI 10.1038/423605a
+   Kamp C, 2010, PLOS COMPUT BIOL, V6, DOI 10.1371/journal.pcbi.1000984
+   Kretzschmar M, 2000, SEX TRANSM DIS, V27, P627, DOI 10.1097/00007435-200011000-00011
+   Kretzschmar M, 1996, AM J EPIDEMIOL, V144, P306
+   Kretzschmar M, 1995, JOURNAL OF BIOLOGICAL SYSTEMS, VOL 3, P789
+   Liljeros F, 2001, NATURE, V411, P907, DOI 10.1038/35082140
+   Mercer CH, 2004, AIDS, V18, P1453, DOI 10.1097/01.aids.0000131331.36386.de
+   National Centre for Social Research, 2005, SN5223 NAT CTR SOC R, DOI [10.5255/UKDA-SN-5223-1, DOI 10.5255/UKDA-SN-5223-1]
+   Nelson SJ, 2010, ANN EPIDEMIOL, V20, P308, DOI 10.1016/j.annepidem.2009.11.003
+   Newman MEJ, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.016128
+   Pastor-Satorras R, 2003, HANDBOOK OF GRAPHS AND NETWORKS: FROM THE GENOME TO THE INTERNET, P111
+   Risau-Gusman S, 2009, J THEOR BIOL, V257, P52, DOI 10.1016/j.jtbi.2008.10.027
+   Schneeberger A, 2004, SEX TRANSM DIS, V31, P380, DOI 10.1097/00007435-200406000-00012
+   Thomas JC, 1996, J INFECT DIS, V174, pS134, DOI 10.1093/infdis/174.Supplement_2.S134
+   Turner KME, 2006, THEOR BIOL MED MODEL, V3, DOI 10.1186/1742-4682-3-3
+   Volz E, 2007, P ROY SOC B-BIOL SCI, V274, P2925, DOI 10.1098/rspb.2007.1159
+   WASSERMAN S, 1980, J AM STAT ASSOC, V75, P280, DOI 10.2307/2287447
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+NR 38
+TC 4
+Z9 8
+U1 0
+U2 11
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 1742-5689
+EI 1742-5662
+J9 J R SOC INTERFACE
+JI J. R. Soc. Interface
+PD JUN 7
+PY 2012
+VL 9
+IS 71
+BP 1363
+EP 1372
+DI 10.1098/rsif.2011.0445
+PG 10
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 930AT
+UT WOS:000303108400026
+PM 22112655
+OA Green Published, Bronze, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Hirsch, BT
+   Stanton, MA
+   Maldonado, JE
+AF Hirsch, Ben T.
+   Stanton, Margaret A.
+   Maldonado, Jesus E.
+TI Kinship Shapes Affiliative Social Networks but Not Aggression in
+   Ring-Tailed Coatis
+SO PLOS ONE
+LA English
+DT Article
+ID BROWN CAPUCHIN MONKEYS; INDIVIDUAL SPATIAL CHOICE; WHITE-NOSED COATIS;
+   KIN SELECTION; NASUA-NASUA; REPRODUCTIVE SUCCESS; BEHAVIORAL SYNCHRONY;
+   MICROSATELLITE LOCI; FEEDING COMPETITION; VIGILANCE BEHAVIOR
+AB Animal groups typically contain individuals with varying degrees of genetic relatedness, and this variation in kinship has a major influence on patterns of aggression and affiliative behaviors. This link between kinship and social behavior underlies socioecological models which have been developed to explain how and why different types of animal societies evolve. We tested if kinship and age-sex class homophily in two groups of ring-tailed coatis (Nasua nasua) predicted the network structure of three different social behaviors: 1) association, 2) grooming, and 3) aggression. Each group was studied during two consecutive years, resulting in four group-years available for analysis (total of 65 individuals). Association patterns were heavily influenced by agonistic interactions which typically occurred during feeding competition. Grooming networks were shaped by mother-offspring bonds, female-female social relationships, and a strong social attraction to adult males. Mother-offspring pairs were more likely to associate and groom each other, but relatedness had no effect on patterns of aggressive behavior. Additionally, kinship had little to no effect on coalitionary support during agonistic interactions. Adult females commonly came to the aid of juveniles during fights with other group members, but females often supported juveniles who were not their offspring (57% of coalitionary interactions). These patterns did not conform to predictions from socioecological models.
+C1 [Hirsch, Ben T.] Ohio State Univ, Sch Environm & Nat Resources, Columbus, OH 43210 USA.
+   [Hirsch, Ben T.] Smithsonian Trop Res Inst, Panama City, Panama.
+   [Hirsch, Ben T.; Maldonado, Jesus E.] Smithsonian Conservat Biol Inst, Ctr Conservat & Evolutionary Genet, Natl Zool Pk, Washington, DC USA.
+   [Stanton, Margaret A.] Georgetown Univ, Dept Biol, Washington, DC 20057 USA.
+   [Maldonado, Jesus E.] Smithsonian Inst, Dept Vertebrate Zool, Natl Museum Nat Hist, Washington, DC 20560 USA.
+C3 University System of Ohio; Ohio State University; Smithsonian
+   Institution; Smithsonian Tropical Research Institute; Smithsonian
+   Institution; Smithsonian National Zoological Park & Conservation Biology
+   Institute; Georgetown University; Smithsonian Institution; Smithsonian
+   National Museum of Natural History
+RP Hirsch, BT (corresponding author), Ohio State Univ, Sch Environm & Nat Resources, Columbus, OH 43210 USA.
+EM hirschb@si.edu
+RI Maldonado, Jesus/AIE-8664-2022
+OI hirsch, ben/0000-0003-0142-7340; Maldonado, Jesus/0000-0002-4282-1072
+FU NSF doctoral dissertation improvement grant [BCS-0314525]; Smithsonian
+   Institution postdoctoral fellowship program; Smithsonian Undersecretary
+   for Science restricted endowment funds; Center for Conservation and
+   Evolutionary Genetics at Smithsonian Conservation Biology Institute
+FX This study was funded by a NSF doctoral dissertation improvement grant
+   (BCS-0314525), the Smithsonian Institution postdoctoral fellowship
+   program, the Smithsonian Undersecretary for Science restricted endowment
+   funds, and the Center for Conservation and Evolutionary Genetics at
+   Smithsonian Conservation Biology Institute. The funders had no role in
+   study design, data collection and analysis, decision to publish, or
+   preparation of the manuscript.
+CR Aivaz AN, 2011, BEHAV ECOL, V22, P1353, DOI 10.1093/beheco/arr141
+   [Anonymous], 2007, THESIS STONY BROOK U
+   [Anonymous], ECOLOGICAL PHYS BEHA
+   [Anonymous], MOL ECOLOGY RESOURCE
+   [Anonymous], MOL ECOLOGY NOTES
+   [Anonymous], SOC ARISE MACAQUE MO
+   [Anonymous], EXPLORING ANIMAL SOC
+   Borgatti StephenP., 2006, Ucinet for Windows: Software for Social Network Analysis
+   BORRIES C, 1991, INT J PRIMATOL, V12, P231, DOI 10.1007/BF02547586
+   Bourke AFG, 2011, P ROY SOC B-BIOL SCI, V278, P3313, DOI 10.1098/rspb.2011.1465
+   CAIRNS SJ, 1987, ANIM BEHAV, V35, P1454, DOI 10.1016/S0003-3472(87)80018-0
+   Chapais B, 2001, BEHAV ECOL SOCIOBIOL, V49, P493, DOI 10.1007/s002650100335
+   Clutton-Brock T, 2002, SCIENCE, V296, P69, DOI 10.1126/science.296.5565.69
+   Clutton-Brock TH, 1999, J ANIM ECOL, V68, P672, DOI 10.1046/j.1365-2656.1999.00317.x
+   Crofoot MC, 2011, AM J PRIMATOL, V73, P821, DOI 10.1002/ajp.20959
+   Croft DP, 2005, OECOLOGIA, V143, P211, DOI 10.1007/s00442-004-1796-8
+   Csardi G., INTERJOURNAL COMPLEX, V1695
+   DATTA S, 1988, ANIM BEHAV, V36, P754, DOI 10.1016/S0003-3472(88)80159-3
+   DATTA SB, 1991, AM NAT, V138, P201, DOI 10.1086/285212
+   Davis CS, 1998, MOL ECOL, V7, P1776, DOI 10.1046/j.1365-294x.1998.00515.x
+   Dekker D, 2007, PSYCHOMETRIKA, V72, P563, DOI 10.1007/s11336-007-9016-1
+   Di Blanco Y, 2006, BEHAV ECOL SOCIOBIOL, V61, P173, DOI 10.1007/s00265-006-0248-3
+   Engh AL, 2000, ANIM BEHAV, V60, P323, DOI 10.1006/anbe.2000.1502
+   Fike JA, 2007, MOL ECOL NOTES, V7, P525, DOI 10.1111/j.1471-8286.2006.01643.x
+   Gardner A, 2011, J EVOLUTION BIOL, V24, P1020, DOI 10.1111/j.1420-9101.2011.02236.x
+   Gompper ME, 1996, BEHAV ECOL, V7, P254, DOI 10.1093/beheco/7.3.254
+   Gompper ME, 1997, ANIM BEHAV, V53, P781, DOI 10.1006/anbe.1996.0344
+   Hall CL, 1997, ANIM BEHAV, V53, P1069, DOI 10.1006/anbe.1996.0392
+   Henzi SP, 2010, P NATL ACAD SCI USA, V107, P2130, DOI 10.1073/pnas.0913294107
+   Hirsch BT, 2007, ETHOLOGY, V113, P446, DOI 10.1111/j.1439-0310.2007.01348.x
+   Hirsch BT, 2007, Q REV BIOL, V82, P9, DOI 10.1086/511657
+   Hirsch BT, 2011, MAMMALIA, V75, P301, DOI 10.1515/MAMM.2011.030
+   Hirsch BT, 2011, BEHAV ECOL SOCIOBIOL, V65, P581, DOI 10.1007/s00265-010-1058-1
+   Hirsch BT, 2011, BEHAV ECOL SOCIOBIOL, V65, P391, DOI 10.1007/s00265-010-1056-3
+   Hirsch BT, 2011, MOL ECOL, V20, P409, DOI 10.1111/j.1365-294X.2010.04940.x
+   Hirsch BT, 2010, ETHOLOGY, V116, P671, DOI 10.1111/j.1439-0310.2010.01783.x
+   Hirsch BT, 2009, J MAMMAL, V90, P136, DOI 10.1644/08-MAMM-A-050.1
+   Hirsch BT, 2002, BEHAV ECOL SOCIOBIOL, V52, P458, DOI 10.1007/s00265-002-0536-5
+   HRDY SB, 1976, SCIENCE, V193, P913, DOI 10.1126/science.193.4256.913
+   JANSON C, 1985, BEHAV ECOL SOCIOBIOL, V18, P125, DOI 10.1007/BF00299041
+   JANSON CH, 1990, ANIM BEHAV, V40, P910, DOI 10.1016/S0003-3472(05)80993-5
+   JANSON CH, 1990, ANIM BEHAV, V40, P922, DOI 10.1016/S0003-3472(05)80994-7
+   Janson Charles H., 1992, P95
+   Kalinowski ST, 2007, MOL ECOL, V16, P1099, DOI 10.1111/j.1365-294X.2007.03089.x
+   Kays RW, 2000, MOL ECOL, V9, P743, DOI 10.1046/j.1365-294x.2000.00921.x
+   Kokko H, 2001, P ROY SOC B-BIOL SCI, V268, P187, DOI 10.1098/rspb.2000.1349
+   Koprowski JL, 1996, J MAMMAL, V77, P1006, DOI 10.2307/1382781
+   KRACKHARDT D, 1988, SOC NETWORKS, V10, P359, DOI 10.1016/0378-8733(88)90004-4
+   KRAUSE J, 1994, BIOL REV, V69, P187, DOI 10.1111/j.1469-185X.1994.tb01505.x
+   Krause J, 2000, BIOL REV, V75, P477
+   Marshall JAR, 2011, TRENDS ECOL EVOL, V26, P325, DOI 10.1016/j.tree.2011.04.008
+   PACKER C, 1990, AM NAT, V136, P1, DOI 10.1086/285079
+   Palombit RA, 1997, ANIM BEHAV, V54, P599, DOI 10.1006/anbe.1996.0457
+   Pravosudova EV, 2001, CONDOR, V103, P821, DOI 10.1650/0010-5422(2001)103[0821:TIOKON]2.0.CO;2
+   QUELLER DC, 1989, EVOLUTION, V43, P258, DOI [10.2307/2409206, 10.1111/j.1558-5646.1989.tb04226.x]
+   R Development Core Team, 2011, R: A language and environment for statistical computing
+   Rödel HG, 2009, PHYSIOL BEHAV, V97, P495, DOI 10.1016/j.physbeh.2009.04.005
+   Romero T, 2008, J COMP PSYCHOL, V122, P19, DOI 10.1037/0735-7036.122.1.19
+   Romero T, 2007, BEHAVIOUR, V144, P179, DOI 10.1163/156853907779947355
+   Romey WL, 2008, BEHAV ECOL, V19, P338, DOI 10.1093/beheco/arm138
+   Romey WL, 2007, BEHAV ECOL, V18, P910, DOI 10.1093/beheco/arm057
+   ROMEY WL, 1995, BEHAV ECOL SOCIOBIOL, V37, P195, DOI 10.1007/s002650050181
+   Ruckstuhl KE, 2001, BEHAVIOUR, V138, P1033, DOI 10.1163/156853901753286551
+   Sapolsky RM, 2005, SCIENCE, V308, P648, DOI 10.1126/science.1106477
+   SCHULMAN SR, 1980, AM NAT, V115, P580, DOI 10.1086/283581
+   Silk JB, 2004, ANIM BEHAV, V67, P573, DOI 10.1016/j.anbehav.2003.07.001
+   Silk JB, 2002, INT J PRIMATOL, V23, P849, DOI 10.1023/A:1015581016205
+   Silk JB, 2010, CURR BIOL, V20, P1359, DOI 10.1016/j.cub.2010.05.067
+   Smith JE, 2011, ANIM BEHAV, V81, P401, DOI 10.1016/j.anbehav.2010.11.007
+   Smith JE, 2010, BEHAV ECOL, V21, P284, DOI 10.1093/beheco/arp181
+   Sterck EHM, 1997, BEHAV ECOL SOCIOBIOL, V41, P291, DOI 10.1007/s002650050390
+   Tóth Z, 2009, BEHAV ECOL SOCIOBIOL, V63, P1189, DOI 10.1007/s00265-009-0768-8
+   van Noordwijk MA, 1999, PRIMATES, V40, P105, DOI 10.1007/BF02557705
+   van Schaik C.P., 1989, Special Publication of the British Ecological Society, P195
+   Wahaj SA, 2004, BEHAV ECOL SOCIOBIOL, V56, P237, DOI 10.1007/s00265-004-0783-8
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   WATTS DP, 1989, ETHOLOGY, V81, P1
+   Wey TW, 2010, ANIM BEHAV, V79, P1343, DOI 10.1016/j.anbehav.2010.03.008
+   Whitehead H, 2008, ANAL ANIMAL SOC
+   Whitehead H, 2009, BEHAV ECOL SOCIOBIOL, V63, P765, DOI 10.1007/s00265-008-0697-y
+NR 80
+TC 46
+Z9 49
+U1 1
+U2 71
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD MAY 18
+PY 2012
+VL 7
+IS 5
+AR e37301
+DI 10.1371/journal.pone.0037301
+PG 9
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 959VG
+UT WOS:000305343500093
+PM 22624010
+OA Green Published, Green Accepted, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Perry, BL
+AF Perry, Brea L.
+TI Coming untied? Narrative accounts of social network dynamics from
+   first-time mental health clients
+SO SOCIOLOGY OF HEALTH & ILLNESS
+LA English
+DT Article
+DE social networks; mental illness; agency; foci of activity; network
+   dynamics
+ID DEPRESSION; SCHIZOPHRENIA; EXPERIENCE; ILLNESS; PEOPLE; DECADE; LABELS
+AB Existing research demonstrates a relationship between mental illness and social network attrition over time a pattern attributed to dysfunctional psychosocial and interpersonal processes and rejection. Yet, according to the social network perspective, personal network dynamics naturally accompany important biographical transitions or events, suggesting that our current understanding of mechanisms underlying network instability in mental illness may be incomplete. This research uses data from the Indianapolis Network Mental Health Study, a longitudinal study of social network dynamics spanning five years. It focuses on in-depth interviews with 135 individuals making their first major contact with the mental health treatment system. First, levels of tie attrition and replacement in the core discussion networks of individuals with mental illness are compared to a sample with no self-reported history of mental illness. Second, using open-ended responses describing why specific individuals mentioned in previous waves were not listed again, respondents explanations of attrition are analysed qualitatively. In addition to providing support for existing perspectives, the themes suggest a need to also consider: (i) interaction strategies that maximise the supportiveness of social networks and minimise burden and (ii) changing life circumstances external to social networks that influence opportunities for social interaction.
+C1 Univ Kentucky, Dept Sociol, Lexington, KY 40506 USA.
+C3 University of Kentucky
+RP Perry, BL (corresponding author), Univ Kentucky, Dept Sociol, 1515 Patterson Off Tower, Lexington, KY 40506 USA.
+EM breaperry@uky.edu
+CR BLANKERTZ LE, 1994, SOC SERV REV, V68, P536, DOI 10.1086/604083
+   BURT RS, 1984, SOC NETWORKS, V6, P293, DOI 10.1016/0378-8733(84)90007-8
+   Carpentier N, 2003, AGEING SOC, V23, P507, DOI 10.1017/S0144686X03001211
+   Cohen S., 1984, HDB PSYCHOL HLTH, V4, P253, DOI DOI 10.1387/IJDB.082595MG
+   Coyne J. C., 1976, J STUDY INTERPERSONA, V39, P28
+   Estroff SueE., 1981, Making it Crazy: An Ethnography of Psychiatric Clients in an American Community
+   FELD SL, 1981, AM J SOCIOL, V86, P1015, DOI 10.1086/227352
+   HAMMER M, 1978, SCHIZOPHRENIA BULL, V4, P522, DOI 10.1093/schbul/4.4.522
+   Hawkins RL, 2007, SOC SCI MED, V65, P2031, DOI 10.1016/j.socscimed.2007.06.019
+   HOKANSON JE, 1989, J ABNORM PSYCHOL, V98, P209, DOI 10.1037/0021-843X.98.3.209
+   Hurlbert JS, 2000, AM SOCIOL REV, V65, P598, DOI 10.2307/2657385
+   Husaini BagarA., 1985, Research in Community Mental Health, V5, P111
+   JOHNSON TP, 1991, J HEALTH SOC BEHAV, V32, P408, DOI 10.2307/2137107
+   Link BG, 1999, AM J PUBLIC HEALTH, V89, P1328, DOI 10.2105/AJPH.89.9.1328
+   LINK BG, 1989, AM SOCIOL REV, V54, P400, DOI 10.2307/2095613
+   Marcotte DE, 2001, SOC SCI MED, V53, P21, DOI 10.1016/S0277-9536(00)00312-9
+   Martin JK, 2000, J HEALTH SOC BEHAV, V41, P208, DOI 10.2307/2676306
+   MORGAN DL, 1989, GERONTOLOGIST, V29, P101, DOI 10.1093/geront/29.1.101
+   MUNKJORGENSEN P, 1992, SOC PSYCH PSYCH EPID, V27, P129
+   Perry BL, 2010, SOC NETWORKS, V32, P345, DOI 10.1016/j.socnet.2010.06.005
+   Pescosolido BA, 1998, SOC SCI MED, V46, P275, DOI 10.1016/S0277-9536(97)00160-3
+   Pescosolido BA, 2010, AM J PSYCHIAT, V167, P1321, DOI 10.1176/appi.ajp.2010.09121743
+   ROSENFIELD S, 1991, J COMMUNITY PSYCHOL, V19, P60, DOI 10.1002/1520-6629(199101)19:1<60::AID-JCOP2290190106>3.0.CO;2-L
+   Silver E, 2002, SOC SCI MED, V55, P1457, DOI 10.1016/S0277-9536(01)00266-0
+   Simmel Georg., 1955, Conflict and the Web of Group-Affiliations
+   Strauss E, 1998, CLIN ORTHOP RELAT R, P2
+   SUITOR JJ, 1995, SOC FORCES, V73, P1573, DOI 10.2307/2580459
+   TAUSIG M, 1992, COMMUNITY MENT HLT J, V28, P413, DOI 10.1007/BF00761059
+   Wahl OF, 1999, SCHIZOPHRENIA BULL, V25, P467, DOI 10.1093/oxfordjournals.schbul.a033394
+   Wellman B, 1997, SOC NETWORKS, V19, P27, DOI 10.1016/S0378-8733(96)00289-4
+   WELLMAN B, 1990, AM J SOCIOL, V96, P558, DOI 10.1086/229572
+   Wellman B., 2000, Complementary and alternative medicine: challenge and change
+   Wright ER, 2002, ADV MED SOC, V8, P113
+   YOUNGREN MA, 1980, J ABNORM PSYCHOL, V89, P333, DOI 10.1037/0021-843X.89.3.333
+NR 34
+TC 20
+Z9 26
+U1 1
+U2 23
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0141-9889
+EI 1467-9566
+J9 SOCIOL HEALTH ILL
+JI Sociol. Health Ill.
+PD NOV
+PY 2012
+VL 34
+IS 8
+BP 1125
+EP 1139
+DI 10.1111/j.1467-9566.2012.01459.x
+PG 15
+WC Public, Environmental & Occupational Health; Social Sciences,
+   Biomedical; Sociology
+WE Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health; Biomedical Social Sciences;
+   Sociology
+GA 031XM
+UT WOS:000310675900001
+PM 22332876
+OA Bronze
+DA 2024-11-22
+ER
+
+PT J
+AU Heaney, MT
+   Masket, SE
+   Miller, JM
+   Strolovitch, DZ
+AF Heaney, Michael T.
+   Masket, Seth E.
+   Miller, Joanne M.
+   Strolovitch, Dara Z.
+TI Polarized Networks: The Organizational Affiliations of National Party
+   Convention Delegates
+SO AMERICAN BEHAVIORAL SCIENTIST
+LA English
+DT Article
+DE party polarization; party organization; associations; interest groups;
+   social networks; homophily
+ID REPUBLICAN; ACTIVISTS; MEMBERSHIP; COALITIONS; COMMITTEES; ALGORITHM
+AB Previous research has documented that the institutional behaviors (e.g., lobbying, campaign contributions) of political organizations reflect the polarization of these organizations along party lines. However, little is known about how these groups are connected at the level of individual party activists. Using data from a survey of 738 delegates at the 2008 Democratic and Republican national conventions, we use network regression analysis to demonstrate that co-membership networks of national party convention delegates are highly polarized by party, even after controlling for homophily due to ideology, sex/gender, race/ethnicity, age, educational attainment, income, and religious participation. Among delegates belonging to the same organization, only 1.78% of these co-memberships between delegates crossed party lines, and only 2.74% of the ties between organizations sharing common delegates were bipartisan in nature. We argue that segregation of organizational ties on the basis of party adds to the difficulty of finding common political ground between the parties.
+C1 [Heaney, Michael T.] Univ Michigan, Ann Arbor, MI 48109 USA.
+   [Masket, Seth E.] Univ Denver, Denver, CO USA.
+   [Miller, Joanne M.; Strolovitch, Dara Z.] Univ Minnesota, Minneapolis, MN USA.
+C3 University of Michigan System; University of Michigan; University of
+   Denver; University of Minnesota System; University of Minnesota Twin
+   Cities
+RP Heaney, MT (corresponding author), Univ Michigan, 722 Dennison Bldg,500 Church St, Ann Arbor, MI 48109 USA.
+EM mheaney@umich.edu
+RI Masket, Seth/L-1392-2019
+CR Abramowitz AI, 2008, J POLIT, V70, P542, DOI 10.1017/S0022381608080493
+   Anderson BS, 1999, SOC NETWORKS, V21, P239, DOI 10.1016/S0378-8733(99)00011-8
+   [Anonymous], WASHINGTON MONTH JUL
+   [Anonymous], GOVT PROCESS POLITIC
+   [Anonymous], 2002, J SOC STRUCT, DOI DOI 10.1021/pr060392u
+   [Anonymous], 1908, PROCESS GOVT STUDY S
+   [Anonymous], 2008, NY TIMES        0716
+   ARCHER K, 1994, CAN J POLIT SCI, V27, P277, DOI 10.1017/S0008423900017364
+   Baldassarri D, 2011, SOC SCI QUART, V92, P631, DOI 10.1111/j.1540-6237.2011.00785.x
+   Barakso M., 2004, Governing NOW: Grassroots activism in the national organization for wome
+   Berelson B. R., 1954, Voting: A study of opinion formation in a presidential campaign
+   Berry JefferyM., 1999, The New Liberalism and the Rising Power of Interest Groups
+   BREIGER RL, 1974, SOC FORCES, V53, P181, DOI 10.2307/2576011
+   Campbell A. L., 2003, POLICIES MAKING CITI
+   Clifton BM, 2004, PARTY POLIT, V10, P475, DOI 10.1177/1354068804045384
+   Cohen Marty., 2008, The Party Decides
+   Committee on Political Parties, 1950, AM POLIT SCI REV, V44, ps1
+   Continetti Matthew., 2006, K STREET GANG RISE F
+   Dalton R.J., 2020, The Good Citizen: How a Younger Generation Is Reshaping American Politics
+   Dekker D, 2007, PSYCHOMETRIKA, V72, P563, DOI 10.1007/s11336-007-9016-1
+   Deutsch CH, 2008, NY TIMES        0723, pC7
+   DODSON DL, 1990, AM J POLIT SCI, V34, P1119, DOI 10.2307/2111474
+   Fischer CS, 2009, ANNU REV SOCIOL, V35, P435, DOI 10.1146/annurev-soc-070308-115909
+   Fisher DR, 2005, SOC PROBL, V52, P102, DOI 10.1525/sp.2005.52.1.102
+   Fowler JH, 2011, AM POLIT RES, V39, P437, DOI 10.1177/1532673X10396310
+   FREEMAN J, 1986, POLIT SCI QUART, V101, P327, DOI 10.2307/2151619
+   Goss KA, 2006, PRINC STUD AM POLIT, P1
+   Goss KA, 2010, PERSPECT POLIT, V8, P27, DOI 10.1017/S1537592709992659
+   Greenstone J.David., 1969, Labor in American Politics
+   Grossmann M, 2009, AM POLIT RES, V37, P767, DOI 10.1177/1532673X08329464
+   Heaney M.T., 2010, The Oxford Handbook of American Political Parties and Interest Groups, P568
+   Heaney MT, 2007, AM POLIT RES, V35, P431, DOI 10.1177/1532673X07300763
+   Heaney Michael T., 2011, ELECTORAL CHALLENGE, P165
+   Heany M.T., 2012, Interest group politics, V8th, P194
+   HERRERA R, 1993, POLITY, V26, P75, DOI 10.2307/3234996
+   Herrnson PS, 2009, J POLIT, V71, P1207, DOI 10.1017/S0022381609990065
+   Jackson J. S., 2007, STATE PARTIES, P51
+   KAMADA T, 1989, INFORM PROCESS LETT, V31, P7, DOI 10.1016/0020-0190(89)90102-6
+   Kersh Rogan., 2002, Interest Group Politics, V6th, P225
+   King G, 2001, AM POLIT SCI REV, V95, P49, DOI 10.1017/S0003055401000235
+   Klatch RebeccaE., 1999, GENERATION DIVIDED N
+   Koger G, 2009, BRIT J POLIT SCI, V39, P633, DOI 10.1017/S0007123409000659
+   Koger G, 2009, PS-POLIT SCI POLIT, V42, P485, DOI 10.1017/S1049096509090805
+   Layman GC, 2006, ANNU REV POLIT SCI, V9, P83, DOI 10.1146/annurev.polisci.9.070204.105138
+   Layman GC, 2010, AM POLIT SCI REV, V104, P324, DOI 10.1017/S000305541000016X
+   LEHMAN EW, 1985, J POLIT MIL SOCIOL, V13, P1
+   Levendusky M., 2009, The partisan sort: How liberals became Democrats and conservatives became Republicans
+   Malbin MichaelJ., 1981, The American Elections of 1980, P99
+   Mannheim K., 1952, SOCIOLOGICAL PROBLEM
+   Masket S. E., 2011, LOS ANGELES TIMES
+   Masket Seth., 2009, NO MIDDLE GROUND INF
+   MCPHERSON JM, 1987, AM SOCIOL REV, V52, P370, DOI 10.2307/2095356
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Miller G, 2008, PERSPECT POLIT, V6, P433, DOI 10.1017/S1537592708081218
+   MUNGER F, 1965, J POLIT, V27, P375, DOI 10.2307/2128079
+   Munson ZiadW., 2008, The Making of Pro-Life Activists: How Social Movement Mobilization Works
+   Murakami MH, 2008, PS-POLIT SCI POLIT, V41, P918
+   Mutz DC, 2002, AM J POLIT SCI, V46, P838, DOI 10.2307/3088437
+   Putnam R., 1999, BOWLING ALONE
+   Robins G, 2007, SOC NETWORKS, V29, P192, DOI 10.1016/j.socnet.2006.08.003
+   Rolfe M., 2012, VOT TURN SOC THEOR, DOI DOI 10.1017/CBO9781139058513
+   Rosenstone StevenJ., 1993, MOBILIZATION PARTICI
+   Rozell M.J., 2006, Interest groups in American campaigns: The new face of electioneering, Vsecond
+   Schlozman KayL. John T. Tierney., 1986, ORG INTERESTS AM DEM
+   Schwartz MildredA., 1990, The Party Network: the Robust Organization of Illinois Republicans
+   Shafer B.E., 2010, OXFORD HDB AM POLITI, P264
+   SHAFER BE, 1986, J AM STUD, V20, P341, DOI 10.1017/S0021875800012718
+   Simmel Georg., 1955, Conflict and the Web of Group-Affiliations
+   Skinner RM, 2012, AM POLIT RES, V40, P60, DOI 10.1177/1532673X11420420
+   Skocpol Theda., 2013, DIMINISHED DEMOCRACY
+   Skocpol Theda., 2012, The Tea Party and the Remaking of Republican Conservatism
+   SOULE JW, 1970, AM POLIT SCI REV, V64, P888, DOI 10.2307/1953470
+   Stone Walter J., 2010, OXFORD HDB AM POLITI, P285
+   Strolovitch DZ, 2006, J POLIT, V68, P894, DOI 10.1111/j.1468-2508.2006.00478.x
+   Strolovitch DaraZ., 2007, AFFIRMATIVE ADVOCACY
+   TRUMAN DB, 1956, AM POLIT SCI REV, V50, P1023, DOI 10.2307/1951333
+   Verba S., 1995, VOICE EQUALITY CIVIC
+   Walgrave S, 2011, MOBILIZATION, V16, P203
+   Walker ET, 2011, AM J SOCIOL, V116, P1284, DOI 10.1086/655753
+   Ward J., 2011, HUFFINGTON POST 0801
+   Wilcox Clyde., 2000, ONWARD CHRISTIAN SOL
+   Wolbrecht C, 2002, POLIT BEHAV, V24, P237, DOI 10.1023/A:1021872508054
+   Wood AM, 2005, INT J EPIDEMIOL, V34, P89
+NR 83
+TC 34
+Z9 42
+U1 2
+U2 36
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0002-7642
+EI 1552-3381
+J9 AM BEHAV SCI
+JI Am. Behav. Sci.
+PD DEC
+PY 2012
+VL 56
+IS 12
+SI SI
+BP 1654
+EP 1676
+DI 10.1177/0002764212463354
+PG 23
+WC Psychology, Clinical; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology; Social Sciences - Other Topics
+GA 032BP
+UT WOS:000310687100004
+DA 2024-11-22
+ER
+
+PT J
+AU Apicella, CL
+   Marlowe, FW
+   Fowler, JH
+   Christakis, NA
+AF Apicella, Coren L.
+   Marlowe, Frank W.
+   Fowler, James H.
+   Christakis, Nicholas A.
+TI Social networks and cooperation in hunter-gatherers
+SO NATURE
+LA English
+DT Article
+ID HUMAN ALTRUISM; EVOLUTION; RECIPROCITY; SOCIETIES; BEHAVIOR; MODELS
+AB Social networks show striking structural regularities(1,2), and both theory and evidence suggest that networks may have facilitated the development of large-scale cooperation in humans(3-7). Here, we characterize the social networks of the Hadza, a population of hunter-gatherers in Tanzania(8). We show that Hadza networks have important properties also seen in modernized social networks, including a skewed degree distribution, degree assortativity, transitivity, reciprocity, geographic decay and homophily. We demonstrate that Hadza camps exhibit high between-group and low within-group variation in public goods game donations. Network ties are also more likely between people who give the same amount, and the similarity in cooperative behaviour extends up to two degrees of separation. Social distance appears to be as important as genetic relatedness and physical proximity in explaining assortativity in cooperation. Our results suggest that certain elements of social network structure may have been present at an early point in human history. Also, early humans may have formed ties with both kin and non-kin, based in part on their tendency to cooperate. Social networks may thus have contributed to the emergence of cooperation.
+C1 [Apicella, Coren L.; Christakis, Nicholas A.] Harvard Univ, Inst Quantitat Social Sci, Cambridge, MA 02138 USA.
+   [Apicella, Coren L.; Christakis, Nicholas A.] Harvard Univ, Dept Hlth Care Policy, Sch Med, Boston, MA 02115 USA.
+   [Marlowe, Frank W.] Univ Cambridge, Dept Anthropol, Cambridge CB2 3DZ, England.
+   [Fowler, James H.] Univ Calif San Diego, Div Med Genet, San Diego, CA 92093 USA.
+   [Fowler, James H.] Univ Calif San Diego, Dept Polit Sci, San Diego, CA 92093 USA.
+   [Christakis, Nicholas A.] Harvard Univ, Dept Sociol, Cambridge, MA 02138 USA.
+   [Christakis, Nicholas A.] Harvard Univ, Sch Med, Dept Med, Boston, MA 02115 USA.
+C3 Harvard University; Harvard University; Harvard Medical School;
+   University of Cambridge; University of California System; University of
+   California San Diego; University of California System; University of
+   California San Diego; Harvard University; Harvard University; Harvard
+   Medical School
+RP Christakis, NA (corresponding author), Harvard Univ, Inst Quantitat Social Sci, Cambridge, MA 02138 USA.
+EM christakis@hcp.med.harvard.edu
+RI Christakis, Nicholas/B-6690-2008; Marlowe, Frank/G-9752-2012; Fowler,
+   James/C-2750-2008
+OI Fowler, James/0000-0001-7795-1638; Apicella, Coren/0000-0002-9661-6998
+FU National Institute on Aging [P01-AG031093]; Science of Generosity
+   Initiative of the University of Notre Dame; John Templeton Foundation
+FX This work was supported by grant P01-AG031093 from the National
+   Institute on Aging and by the Science of Generosity Initiative of the
+   University of Notre Dame (supported by the John Templeton Foundation).
+   We are grateful for comments from S. Bowles, D. Eisenberg, F. Fu, H.
+   Gintis, J. Henrich, P. Hooper, D. Hruschka, M. Nowak, D. Rand, P.
+   Richerson and C. Tarnita. We thank A. Mabulla, I. Mabulla, M. Peterson,
+   C. Bauchner and L. Meneades for help with data collection and
+   preparation. We are grateful to D. Stafford and A. Hughes for sharing
+   data regarding two villages in Honduras, as used in the Supplementary
+   Information.
+CR [Anonymous], 1996, P BR ACAD
+   Badham J, 2010, THEOR POPUL BIOL, V77, P71, DOI 10.1016/j.tpb.2009.11.003
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Berbesque JC, 2009, EVOL PSYCHOL-US, V7, P601, DOI 10.1177/147470490900700409
+   Bowles S, 2004, THEOR POPUL BIOL, V65, P17, DOI 10.1016/j.tpb.2003.07.001
+   Bowles S, 2006, SCIENCE, V314, P1569, DOI 10.1126/science.1134829
+   BOYD R, 1989, SOC NETWORKS, V11, P213, DOI 10.1016/0378-8733(89)90003-8
+   BOYD R, 1988, J THEOR BIOL, V132, P337, DOI 10.1016/S0022-5193(88)80219-4
+   Brent LJN, 2011, AM J PRIMATOL, V73, P720, DOI 10.1002/ajp.20949
+   CAMPBELL KE, 1991, SOC NETWORKS, V13, P203, DOI 10.1016/0378-8733(91)90006-F
+   Cole T, 2004, PERS RELATIONSHIP, V11, P135, DOI 10.1111/j.1475-6811.2004.00075.x
+   DAVIS JA, 1970, AM SOCIOL REV, V35, P843, DOI 10.2307/2093295
+   ESHEL I, 1982, P NATL ACAD SCI-BIOL, V79, P1331, DOI 10.1073/pnas.79.4.1331
+   Fehr E, 2003, NATURE, V425, P785, DOI 10.1038/nature02043
+   Fowler JH, 2011, P NATL ACAD SCI USA, V108, P1993, DOI 10.1073/pnas.1011687108
+   Fowler JH, 2010, P NATL ACAD SCI USA, V107, P5334, DOI 10.1073/pnas.0913149107
+   Fowler JH, 2009, P NATL ACAD SCI USA, V106, P1720, DOI 10.1073/pnas.0806746106
+   Gurven M, 2002, J ANTHROPOL RES, V58, P93, DOI 10.1086/jar.58.1.3631070
+   Hamilton MJ, 2007, P ROY SOC B-BIOL SCI, V274, P2195, DOI 10.1098/rspb.2007.0564
+   Hawkes K, 2001, EVOL HUM BEHAV, V22, P113, DOI 10.1016/S1090-5138(00)00066-0
+   Henrich J, 2001, AM ECON REV, V91, P73, DOI 10.1257/aer.91.2.73
+   Hill KR, 2011, SCIENCE, V331, P1286, DOI 10.1126/science.1199071
+   Hruschka Daniel J., 2010, Friendship: Development, ecology, and evolution of a relationship, V5
+   Kaplan H., 2005, Moral sentiments and material interests: The foundations of cooperation in economic life, P75
+   KREBS D, 1975, J PERS SOC PSYCHOL, V32, P1134, DOI 10.1037/0022-3514.32.6.1134
+   LIANG KY, 1986, BIOMETRIKA, V73, P13, DOI 10.2307/2336267
+   Marlowe, 2010, HADZA HUNTER GATHERE
+   Nowak MA, 2006, SCIENCE, V314, P1560, DOI 10.1126/science.1133755
+   Nowak MA, 2010, NATURE, V466, P1057, DOI 10.1038/nature09205
+   Ohtsuki H, 2006, NATURE, V441, P502, DOI 10.1038/nature04605
+   Onnela JP, 2007, P NATL ACAD SCI USA, V104, P7332, DOI 10.1073/pnas.0610245104
+   Onnela JP, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0016939
+   Rand D., 2011, P NATL ACAD SCI US, V108
+   Schildcrout JS, 2005, BIOSTATISTICS, V6, P633, DOI 10.1093/biostatistics/kxi033
+   Smith E.A., 1988, Hunters and Gatherers I: History, Evolution, and Social Change, P222
+   Smith EA, 2010, CURR ANTHROPOL, V51, P19, DOI 10.1086/648530
+   Whitehead H., 2008, ANAL ANIMAL SOC, DOI 10.7208/chicago/9780226895246.001.0001
+NR 37
+TC 469
+Z9 550
+U1 4
+U2 329
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 0028-0836
+EI 1476-4687
+J9 NATURE
+JI Nature
+PD JAN 26
+PY 2012
+VL 481
+IS 7382
+BP 497
+EP U109
+DI 10.1038/nature10736
+PG 6
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA 881GY
+UT WOS:000299471800038
+PM 22281599
+OA Green Accepted
+DA 2024-11-22
+ER

@@ -1,0 +1,576 @@
+
+PT J
+AU Suo, SG
+   Chen, Y
+AF Suo, Shuguang
+   Chen, Yu
+TI The Dynamics of Public Opinion in Complex Networks
+SO JASSS-THE JOURNAL OF ARTIFICIAL SOCIETIES AND SOCIAL SIMULATION
+LA English
+DT Article
+DE Public Opinion; Complex Network; Consensus; Agent-Based Model
+ID DECISION-MAKING; SYSTEMS; MODEL; FADS
+AB This paper studies the problem of public opinion formation and concentrates on the interplays among three factors: individual attributes, environmental influences and information flow. We present a simple model to analyze the dynamics of four types of networks. Our simulations suggest that regular communities establish not only local consensus, but also global diversity in public opinions. However, when small world networks, random networks, or scale-free networks model social relationships, the results are sensitive to the elasticity coefficient of environmental influences and the average connectivity of the type of network. For example, a community with a higher average connectivity has a higher probability of consensus. Yet, it is misleading to predict results merely based on the characteristic path length of networks. In the process of changing environmental influences and average connectivity, sensitive areas are discovered in the system. By sensitive areas we mean that interior randomness emerges and we cannot predict unequivocally how many opinions will remain upon reaching equilibrium. We also investigate the role of authoritative individuals in information control. While enhancing average connectivity facilitates the diffusion of the authoritative opinion, it makes individuals subject to disturbance from non-authorities as well. Thus, a moderate average connectivity may be preferable because then the public will most likely form an opinion that is parallel with the authoritative one. In a community with a scale-free structure, the influence of authoritative individuals keeps constant with the change of the average connectivity. Provided that the influence of individuals is proportional to the number of their acquaintances, the smallest percentage of authorities is required for a controlled consensus in a scale free network. This study shows that the dynamics of public opinion varies from community to community due to the different degree of impressionability of people and the distinct social network structure of the community.
+RI Suo, Shuguang/J-1389-2014
+CR Aleksiejuk A, 2002, PHYSICA A, V310, P260, DOI 10.1016/S0378-4371(02)00740-9
+   Amblard F, 2004, PHYSICA A, V343, P725, DOI 10.1016/j.physa.2004.06.102
+   Axelrod R, 1997, J CONFLICT RESOLUT, V41, P203, DOI 10.1177/0022002797041002001
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Bechara A, 2004, BRAIN COGNITION, V55, P30, DOI 10.1016/j.bandc.2003.04.001
+   Ben-Naim E, 2003, PHYSICA D, V183, P190, DOI 10.1016/S0167-2789(03)00171-4
+   BIKHCHANDANI S, 1992, J POLIT ECON, V100, P992, DOI 10.1086/261849
+   Bosman R, 2006, EXP ECON, V9, P35, DOI 10.1007/s10683-006-4310-9
+   Case AnneC., 1991, The Company You Keep: The Effects of Family and Neighborhood on Disadvantaged Youths
+   Cobb C.W., 1928, AM ECON REV, V18, P139
+   Conley TG, 2003, J APPL ECONOM, V18, P605, DOI 10.1002/jae.736
+   DEMATOS JA, 2004, EC SOC 2004 LAT AM M
+   Galam S, 2002, EUR PHYS J B, V25, P403, DOI 10.1140/epjb/e20020045
+   Gandal N, 2002, OXFORD REV ECON POL, V18, P80, DOI 10.1093/oxrep/18.1.80
+   Holland J. H., 1998, EMERGENCE CHAOS ORDE
+   HOLLAND JH, 1996, HIDDEN ORDER
+   Hübler AW, 2005, COMPLEXITY, V10, P11, DOI 10.1002/cplx.20071
+   JAGER W, 2000, THESIS VEENENDAAL
+   Jones JH, 2003, NATURE, V423, P605, DOI 10.1038/423605a
+   KATZ ML, 1994, J ECON PERSPECT, V8, P93, DOI 10.1257/jep.8.2.93
+   Kawaguchi D, 2004, J POPUL ECON, V17, P351, DOI 10.1007/s00148-003-0158-x
+   KOOLE SL, 2001, PERSONALITY SOCIAL P
+   Laguna MF, 2005, PHYSICA A, V351, P580, DOI 10.1016/j.physa.2004.11.064
+   Leibenstein H, 1950, Q J ECON, V64, P183, DOI 10.2307/1882692
+   Max-Neef Manfred., 1992, Real-Life Economics: Understanding Wealth Creation
+   McClintock C.G., 1978, Journal of Research and Development in Education, V12, P121
+   MESSICK DM, 1968, J EXP SOC PSYCHOL, V4, P1, DOI 10.1016/0022-1031(68)90046-2
+   Miller JH, 2004, COMPLEXITY, V9, P8, DOI 10.1002/cplx.20033
+   Moscovici S., 1992, DISSENSIONS CONSENSU
+   POWEL NT, 1951, ANATOMY PUBLIC OPINI
+   S Moscovici, 1991, RUSS PSYCHOL J, V13, P93
+   S Moscovici, 1991, EUROPEAN J SOCIAL PS, V21, P49
+   Sanderson I., 2000, Evaluation, V6, P433
+   SATO Y, 2004, STABILITY DIVERSITY
+   STAUFFER D, 2002, BETTER 3 THEN 2 SEAR
+   STAUFFER D, 2002, FRUSTRATION SIMULTAN
+   STAUFFER D, 2001, SZNAJD MODEL CONSENS
+   STAUFFER D, 2003, SIMULATION CONSENSUS
+   Sznajd-Weron K, 2000, INT J MOD PHYS C, V11, P1157, DOI 10.1142/S0129183100000936
+   Tassier T, 2004, COMPLEXITY, V9, P51, DOI 10.1002/cplx.20037
+   Vazquez F, 2003, J PHYS A-MATH GEN, V36, pL61, DOI 10.1088/0305-4470/36/3/103
+   VLEK CAJ, 1995, EXTENDED VERSION INV
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Watts DJ, 2002, SCIENCE, V296, P1302, DOI 10.1126/science.1070120
+   Weisbuch G, 2005, PHYSICA A, V353, P555, DOI 10.1016/j.physa.2005.01.054
+   P NATL ACAD SCI, V101, P17940
+NR 46
+TC 24
+Z9 26
+U1 2
+U2 43
+PU J A S S S
+PI GUILDFORD
+PA UNIV SURREY, DEPT SOCIOLOGY, GUILDFORD GU2 7XH, SURREY, ENGLAND
+SN 1460-7425
+J9 JASSS-J ARTIF SOC S
+JI JASSS
+PD OCT
+PY 2008
+VL 11
+IS 4
+AR 2
+PG 10
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA 435PG
+UT WOS:000265355200002
+DA 2024-11-22
+ER
+
+PT J
+AU McGuire, SJ
+AF McGuire, Shawn J.
+TI Securing access to seed: Social relations and sorghum seed exchange in
+   eastern Ethiopia
+SO HUMAN ECOLOGY
+LA English
+DT Article
+DE Social networks; Resource access; Mutual aid; Seed systems; Emergency
+   seed aid; Ethiopia; Sorghum
+ID DIVERSITY; RESOURCES; DYNAMICS; FARMERS; RELIEF
+AB Access to seed is crucial for farming, though few studies investigate household-level access in the informal 'farmer seed systems' which still supply most seed in poor countries. This paper uses empirical data of seed exchange practices for sorghum in eastern Ethiopia to analyze how social relationships influence access to off-farm seed for a major crop. Seed shortfalls are common, and farmer-farmer exchange is important for providing locally-adapted seed to fill this gap, but access varies considerably among households, also affecting quantities supplied and terms of exchange. Preferred sources for off-farm seed (neighbors, government, market) also vary among farmers, reflecting agroecology and asset-ownership, but also differing access to these sources. Social network theories highlight the importance of reciprocal ties, and the cultural norms underpinning them, in accessing seed. These cultural norms are contested, with some claiming that commercial transactions are increasingly common. Implications for interventions supporting farmer seed systems, particularly emergency seed aid, are discussed in relation to the socially-mediated nature of seed access.
+C1 Univ E Anglia, Sch Dev Studies, Norwich NR4 7TJ, Norfolk, England.
+C3 University of East Anglia
+RP McGuire, SJ (corresponding author), Univ E Anglia, Sch Dev Studies, Norwich NR4 7TJ, Norfolk, England.
+EM s.mcguire@uea.ac.uk
+OI McGuire, Shawn/0000-0002-3847-854X
+CR ADAMS A, 1993, IDS BULL-I DEV STUD, V24, P41, DOI 10.1111/j.1759-5436.1993.mp24004005.x
+   Agrawal A, 2003, ANNU REV ANTHROPOL, V32, P243, DOI 10.1146/annurev.anthro.32.061002.093112
+   Almekinders C.J.M., 1999, Farmers seed production. New approaches and practices
+   [Anonymous], 1995, PEOPLE PLOW AGR HIST
+   [Anonymous], 1978, AGE GENERATION TIME
+   Badstue L. B., 2006, THESIS WAGENINGEN U
+   Badstue LB, 2006, HUM ECOL, V34, P249, DOI 10.1007/s10745-006-9016-2
+   Bailey C., 1991, Research in Economic Anthropology, V13, P119
+   Bassi Marco, 1994, RIVER BLESSINGS ESSA, P15
+   Baxter P. T. W., 1996, BEING BECOMING OROMO, P239
+   Bellon MR, 2004, WORLD DEV, V32, P159, DOI 10.1016/j.worlddev.2003.04.007
+   Bellon MR, 1996, ECON BOT, V50, P26, DOI 10.1007/BF02862110
+   Berry S., 1992, Africa (London), V62, P327, DOI 10.2307/1159747
+   BERRY S, 1989, AFRICA, V59, P41, DOI 10.2307/1160762
+   BERRY S, 1993, NO CONDITIONS PERMAN
+   Bramel P.J., 2004, ADDRESSING SEED SECU, P111
+   Brosius JP, 1997, HUM ECOL, V25, P47, DOI 10.1023/A:1021983819369
+   Bulcha M., 1996, Being and becoming Oromo, P48
+   Cleveland DA, 1997, CURR ANTHROPOL, V38, P477, DOI 10.1086/204641
+   Cleveland DA., 2002, Farmers, scientists, and plant breeding: Integrating knowledge and practice
+   Cook B., 2001, Participation: A new tyranny?
+   Cromwell E., 1996, GOVT FARMERS SEEDS C
+   David S., 1999, Agriculture and Human Values, V16, P381, DOI 10.1023/A:1007603902380
+   DHAMOTHARAN M, 1997, 9 ICRISAT
+   DIRKS R, 1980, CURR ANTHROPOL, V21, P21, DOI 10.1086/202399
+   Goe MR, 1999, SOIL TILL RES, V49, P289, DOI 10.1016/S0167-1987(98)00183-4
+   HAGGIS J, 1986, WORLD DEV, V14, P1435, DOI 10.1016/0305-750X(86)90042-2
+   Hammond L, 2002, DISASTERS, V26, P262, DOI 10.1111/1467-7717.00204
+   Hyden G., 1980, UJAMAA TANZANIA
+   Hyden Goran., 2006, African Politics in Comparative Perspective, P72
+   *ICRA, 1996, WORKING DOCUMENT SER, V52
+   Jones RB, 2002, DISASTERS, V26, P302, DOI 10.1111/1467-7717.00208
+   LEWIS HS, 1975, P 1 US C ETH STUD AF, P193
+   Louette D, 1997, ECON BOT, V51, P20, DOI 10.1007/BF02910401
+   MBURATHI GK, 2003, EFFECTIVE SUSTAINABL, P54
+   McGuire S., 2005, Ph.D. Thesis
+   McGuire SJ, 2007, ECON BOT, V61, P211, DOI 10.1663/0013-0001(2007)61[211:VIFSSF]2.0.CO;2
+   MCGUIRE SJ, 1999, PPB MONOGRAPH, V2
+   PIGUET F, 2003, HARARGHE SHINILLE ZO
+   Popkin SamuelL., 1979, The Rational Peasant: The Political Economy of Rural Society in Vietnam, DOI 10.1525/9780520341623
+   Pratten DT, 1997, DISASTERS, V21, P138, DOI 10.1111/1467-7717.00050
+   Rahmato Dessalegn., 1985, AGRARIAN REFORM ETHI
+   Remington T, 2002, DISASTERS, V26, P316, DOI 10.1111/1467-7717.00209
+   Richards MD., 1986, Setting Strategic Goals and Objectives, V2nd
+   RICHARDS P, 1990, AFR AFFAIRS, V89, P265, DOI 10.1093/oxfordjournals.afraf.a098288
+   Richards P, 1997, SEED SURVIVAL CROP G
+   Scott J.C., 1985, WEAPONS WEAK EVERYDA
+   Scott JamesC., 1977, MORAL EC PEASANT REB
+   Scowcroft WR, 1999, P REG TECHN M SEED P, P175
+   SHARP K, 2004, J HUMAN DEV, V5, P227
+   SPERLING L, 1993, AGR SYST, V41, P441, DOI 10.1016/0308-521X(93)90044-3
+   Sperling L., 2004, Addressing seed security in disaster response: linking relief with development, an overview
+   Sperling L., 2006, Seed aid for seed security: Advice for practitioners
+   SPERLING L, 2003, EFFECTIVE SUSTAINABL, P7
+   SPERLING L, 2003, 181 FAO PROD PROT
+   Sperling Louise., 1997, War and crop diversity
+   TAA T, 1996, BEING BECOMING OROMO, P202
+   TESFAYE M, 1961, ETHNOLOGICAL SOC B U, V2, P71
+   Teshome A, 1999, ECON BOT, V53, P79, DOI 10.1007/BF02860796
+   Tripp R., 2001, SEED PROVISION AGR D
+   Watts M., 1983, Silent violence: food, famine, and peasantry in northern Nigeria
+   WILBAUX H, 1986, AGR HIGHLANDS HARERG
+NR 62
+TC 87
+Z9 97
+U1 1
+U2 37
+PU SPRINGER/PLENUM PUBLISHERS
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0300-7839
+EI 1572-9915
+J9 HUM ECOL
+JI Hum. Ecol.
+PD APR
+PY 2008
+VL 36
+IS 2
+BP 217
+EP 229
+DI 10.1007/s10745-007-9143-4
+PG 13
+WC Anthropology; Environmental Studies; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Environmental Sciences & Ecology; Sociology
+GA 274ID
+UT WOS:000253994100006
+DA 2024-11-22
+ER
+
+PT J
+AU Takás, K
+   Janky, B
+   Flache, A
+AF Takacs, Karoly
+   Janky, Bela
+   Flache, Andreas
+TI Collective action and network change
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE collective action; social dilemmas; social networks; network dynamics;
+   social control; structural balance; local interaction games
+ID HIGHLY COHESIVE GROUP; SOCIAL NETWORKS; MOVEMENT PARTICIPATION;
+   ALTRUISTIC PUNISHMENT; COORDINATION GAMES; ECONOMIC NETWORKS;
+   PRISONERS-DILEMMA; STABLE NETWORKS; RATIONAL-CHOICE; LINK FORMATION
+AB Network models of collective action commonly assume fixed social networks in which ties influence participation through social rewards. This implies that only certain ties are beneficial from the view of individual actors. Accordingly, in this study we allow that actors strategically revise their relations. Moreover, in our model actors also take into account possible network consequences in their participation choices. To handle the interrelatedness of networks and participation, we introduce new equilibrium concepts. Our equilibrium analysis suggests that structures that tend to segregate contributors from free riders are stable, but costless network change only promotes all-or-nothing participation and complete networks. (c) 2008 Elsevier B.V. All rights reserved.
+C1 [Takacs, Karoly] Corvinus Univ Budapest, Inst Sociol & Social Policy, H-1093 Budapest, Hungary.
+   [Takacs, Karoly; Flache, Andreas] Univ Groningen, Fac Behav & Social Sci, Dept Sociol ICS, NL-9700 AB Groningen, Netherlands.
+   [Janky, Bela] Budapest Univ Technol & Econ, Dept Sociol, Budapest, Hungary.
+C3 Corvinus University Budapest; University of Groningen; Budapest
+   University of Technology & Economics
+RP Takás, K (corresponding author), Corvinus Univ Budapest, Inst Sociol & Social Policy, Kozraktar 4-6, H-1093 Budapest, Hungary.
+EM karoly.takacs@uni-corvinus.hu
+RI Janky, Béla/H-4700-2012; Takács, Károly/AAK-8440-2020; Flache,
+   Andreas/E-2921-2013; Takacs, Karoly/P-7977-2015
+OI Takacs, Karoly/0000-0001-9126-3233; Flache, Andreas/0000-0002-8276-8819
+CR [Anonymous], 1991, Collective Action and the Civil Rights Movement
+   [Anonymous], 2005, SOC OUTCAST OSTRACIS
+   [Anonymous], 1982, RISE DECLINE NATIONS
+   Bala V, 2000, ECONOMETRICA, V68, P1181, DOI 10.1111/1468-0262.00155
+   Belleflamme P, 2004, INT ECON REV, V45, P387, DOI 10.1111/j.1468-2354.2004.00130.x
+   Berninghaus SK, 1996, J ECON BEHAV ORGAN, V29, P57, DOI 10.1016/0167-2681(95)00051-8
+   Blum * R. W., 2000, PROTECTING TEENS BEY
+   BONACICH P, 2001, 2001 ANN M AM PUBL C
+   Boyd R, 2003, P NATL ACAD SCI USA, V100, P3531, DOI 10.1073/pnas.0630443100
+   Boyd R., 1985, Culture and the Evolutionary Process
+   Bramoullé Y, 2004, INT J GAME THEORY, V33, P1, DOI 10.1007/s001820400178
+   BURGER M, 2006, 234 ISCORE
+   Burt R., 1992, Structure holes: The social structure of competition
+   Burt R.S., 2007, Brokerage and closure: An introduction to social capital
+   BUSKENS V, 2005, 227 ISCORE
+   BUSKENS V, 2005, 232 ISCORE
+   Chwe MSY, 2000, REV ECON STUD, V67, P1, DOI 10.1111/1467-937X.00118
+   Chwe MSY, 1999, AM J SOCIOL, V105, P128, DOI 10.1086/210269
+   Coleman J.S., 1994, FDN SOCIAL THEORY
+   Diani M, 2003, SOCIAL MOVEMENT NETW
+   Dixon M, 2003, AM J SOCIOL, V108, P1292, DOI 10.1086/375198
+   Dutta B, 1997, J ECON THEORY, V76, P322, DOI 10.1006/jeth.1997.2306
+   Dutta B, 1998, INT J GAME THEORY, V27, P245, DOI 10.1007/s001820050070
+   Dutta B., 2003, Networks and Groups: Models of Strategic Formation
+   Erev I, 1998, AM ECON REV, V88, P848
+   Fehr E, 2002, NATURE, V415, P137, DOI 10.1038/415137a
+   Fehr E, 2000, AM ECON REV, V90, P980, DOI 10.1257/aer.90.4.980
+   Flache A, 2002, J MATH SOCIOL, V26, P189, DOI 10.1080/00222500212988
+   Flache A, 1996, J MATH SOCIOL, V21, P3, DOI 10.1080/0022250X.1996.9990172
+   Flache A., 1996, The double edge of networks: An analysis of the effect of informal networks on cooperation in social dilemmas
+   Forgas J P., 2005, The Social Outcast: Ostracism, Social Exclusion, Rejection, and Bullying
+   Fudenberg D., 1998, THEORY LEARNING GAME
+   Gilles R.P., 2004, The Role of Trust in Costly Network Formation
+   Gould R.V., 2003, SOCIAL MOVEMENTS NET
+   GOULD RV, 1993, AM SOCIOL REV, V58, P182, DOI 10.2307/2095965
+   GOULD RV, 1993, AM J SOCIOL, V98, P721, DOI 10.1086/230088
+   Goyal S, 2005, GAME ECON BEHAV, V50, P178, DOI 10.1016/j.geb.2004.01.005
+   Goyal S, 2007, J ECON THEORY, V137, P460, DOI 10.1016/j.jet.2007.01.006
+   HARSANYI JC, 1969, WORLD POLIT, V21, P513, DOI 10.2307/2009665
+   Haynie DL, 2001, AM J SOCIOL, V106, P1013, DOI 10.1086/320298
+   Hechter M., 1987, PRINCIPLES GROUP SOL
+   Heckathorn DD, 1996, AM SOCIOL REV, V61, P250, DOI 10.2307/2096334
+   HECKATHORN DD, 1988, AM J SOCIOL, V94, P535, DOI 10.1086/229029
+   Heckathorn Douglas D., 1989, Rationality and Society, V1, P78, DOI 10.1177/1043463189001001006
+   HIRSHLEIFER D, 1989, J ECON BEHAV ORGAN, V12, P87, DOI 10.1016/0167-2681(89)90078-4
+   Jackson M., 2004, Group Formation in Economics; Networks, Clubs and Coalitions
+   Jackson MO, 2005, GAME ECON BEHAV, V51, P420, DOI 10.1016/j.geb.2004.08.004
+   Jackson MO, 1996, J ECON THEORY, V71, P44, DOI 10.1006/jeth.1996.0108
+   Jackson MO, 2002, J ECON THEORY, V106, P265, DOI 10.1006/jeth.2001.2903
+   Jackson MO, 2002, GAME ECON BEHAV, V41, P265, DOI 10.1016/S0899-8256(02)00504-3
+   JANKY B, 2005, TARSADALRNI TERBEN, P157
+   Kim HJ, 1997, AM SOCIOL REV, V62, P70, DOI 10.2307/2657453
+   Kitts J. A., 1999, Computational & Mathematical Organization Theory, V5, P129, DOI 10.1023/A:1009670804792
+   Kitts JA, 2006, AM SOCIOL REV, V71, P235, DOI 10.1177/000312240607100204
+   Kuran Timur., 1995, Private truth, public lies: The social consequences of preference falsification
+   Lovaglia MJ, 2003, ADV GROUP PROCESS, V20, P105, DOI 10.1006/S0882-6145(03)20004-7
+   Macy MW, 2003, DYNAMIC SOCIAL NETWORK MODELING AND ANALYSIS, P162
+   MACY MW, 1993, AM SOCIOL REV, V58, P819, DOI 10.2307/2095953
+   Macy MW, 2002, P NATL ACAD SCI USA, V99, P7229, DOI 10.1073/pnas.092080099
+   MACY MW, 1991, AM SOCIOL REV, V56, P730, DOI 10.2307/2096252
+   MARWELL G, 1988, AM J SOCIOL, V94, P502, DOI 10.1086/229028
+   Marwell G, 1993, The critical mass in collective action
+   MCADAM D, 1986, AM J SOCIOL, V92, P64, DOI 10.1086/228463
+   MCADAM D, 1993, AM J SOCIOL, V99, P640, DOI 10.1086/230319
+   Morris S, 2000, REV ECON STUD, V67, P57, DOI 10.1111/1467-937X.00121
+   Oberschall Anthony., 1973, Social Conflict and Social Movements
+   Oberschall Anthony., 1993, SOCIAL MOVEMENTS IDE
+   OBERSCHALL AR, 1994, RATION SOC, V6, P79, DOI 10.1177/1043463194006001006
+   OLIVER P, 1984, AM SOCIOL REV, V49, P601, DOI 10.2307/2095418
+   OLIVER P, 1980, AM J SOCIOL, V85, P1356, DOI 10.1086/227168
+   OPP KD, 1993, AM SOCIOL REV, V58, P659, DOI 10.2307/2096280
+   Osa M., 2003, Social Movements and Networks: Relational Approaches to Collective Action
+   Ploeger M, 1997, CRIMINOLOGY, V35, P659, DOI 10.1111/j.1745-9125.1997.tb01234.x
+   Sandell R, 1998, RATION SOC, V10, P327, DOI 10.1177/104346398010003003
+   Simons-Morton B, 2006, ADDICT BEHAV, V31, P1211, DOI 10.1016/j.addbeh.2005.09.006
+   Slikker M, 2001, GAME ECON BEHAV, V34, P153, DOI 10.1006/game.1999.0785
+   Snijders TAB, 2003, J MATH SOCIOL, V27, P123, DOI 10.1080/00222500305892
+   Takács K, 2001, J CONFLICT RESOLUT, V45, P743, DOI 10.1177/0022002701045006003
+   Takács K, 2007, PHYSICA A, V378, P76, DOI 10.1016/j.physa.2006.11.047
+   Tilly C., 2003, SOCIAL MOVEMENTS NET
+   Tilly Charles., 1978, From Mobilisation to Revolution
+   ULE A, 2005, THESIS TINBERGEN I A
+   VANDERIJT A, 2005, 230 ISCORE
+   Watts A, 2001, GAME ECON BEHAV, V34, P331, DOI 10.1006/game.2000.0803
+NR 84
+TC 29
+Z9 35
+U1 2
+U2 24
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-8733
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JUL
+PY 2008
+VL 30
+IS 3
+BP 177
+EP 189
+DI 10.1016/j.socnet.2008.02.003
+PG 13
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 325DJ
+UT WOS:000257568200001
+OA Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Agneessens, F
+   Wittek, R
+AF Agneessens, Filip
+   Wittek, Rafael
+TI Social capital and employee well-being: disentangling intrapersonal and
+   interpersonal selection and influence mechanisms
+SO REVUE FRANCAISE DE SOCIOLOGIE
+LA English
+DT Review
+ID SELF-DETERMINATION THEORY; JOB-SATISFACTION; ORGANIZATIONAL CITIZENSHIP;
+   EMOTION REGULATION; DECISION-MAKING; TRUST; MOOD; NETWORKS; WORK;
+   PERCEPTIONS
+AB We argue that sociological explanations proposed within the social capital framework to explain individual well-being are incomplete because they do not differentiate between interpersonal influence and selection mechanisms, on the one hand, and cognitive intra-personal processes. on the other. To this end. three theoretical models of the dynamic interaction between interpersonal trust and job satisfaction will be used to derive and empirically test six hypotheses. First, according to influence mechanisms, an individual's job satisfaction can be the result of the number of sociometric trust choices he or she receives (popularity effect) or the level of job satisfaction of those actors he/she trusts (contagion effect). Second, selection mechanisms postulate that a focal actor will be more likely to develop interpersonal trust in colleagues with a high job satisfaction (attractiveness effect) or with similar levels of job satisfaction as the focal actor (homophily effect). Third, according to intrapersonal spillover mechanisms, a high level of job satisfaction can either facilitate the creation of interpersonal trust relationships (satisfaction spillover effect), or individuals initiating a high number of interpersonal trust relationships can exhibit higher levels of satisfaction (trust spillover effect). To simultaneously test these six hypotheses, longitudinal intra-organizational social network data from a Dutch housing company (n = 57) were used. We found a significant contagion effect, but no support for a popularity effect or either selection effect. Moreover, contrary to what we expected, employees with a low level of job satisfaction were significantly more likely to develop trust relationships with others.
+C1 [Agneessens, Filip] Vrije Univ Amsterdam, Dept Publ Adm & Org Sci, Amsterdam, Netherlands.
+   [Wittek, Rafael] Univ Groningen, Dept Sociol, Grad Sch ICS, Groningen, Netherlands.
+C3 Vrije Universiteit Amsterdam; University of Groningen
+EM f.agneessens@fsw.vu.nl; r.p.m.wittek@rug.nl
+RI Wittek, Rafael/E-5560-2012
+OI Wittek, Rafael/0000-0002-8473-6984; Agneessens,
+   Filip/0000-0003-2705-3535
+CR Agneessens F, 2006, SOC NETWORKS, V28, P427, DOI 10.1016/j.socnet.2005.10.001
+   Anderson C, 2003, J PERS SOC PSYCHOL, V84, P1054, DOI 10.1037/0022-3514.84.5.1054
+   [Anonymous], 1972, Complex organizations: A critical essay
+   [Anonymous], 2001, Social capital: theory and research
+   [Anonymous], 2005, Dissecting the Social. On the Principles of Analytical Sociology
+   [Anonymous], 1990, ORGAN BEHAV HUM DEC, DOI DOI 10.1016/0749-5978(90)90039-C
+   [Anonymous], 1939, Management and the Worker
+   [Anonymous], 2004, Netherlands Journal of Social Sciences
+   Baldwin TT, 1997, ACAD MANAGE J, V40, P1369, DOI 10.5465/257037
+   Barger PB, 2006, ACAD MANAGE J, V49, P1229, DOI 10.2307/20159829
+   Barsade SG, 2007, ACAD MANAGE PERSPECT, V21, P36, DOI 10.5465/AMP.2007.24286163
+   Boer P., 2006, STOCNET OPEN SOFTWAR
+   Bono JE, 2006, LEADERSHIP QUART, V17, P317, DOI 10.1016/j.leaqua.2006.04.008
+   Borgatti SP, 2003, J MANAGE, V29, P991, DOI 10.1016/S0149-2063(03)00087-4
+   Bourdieu Pierre., 1984, DISTINCTION SOCIAL C, DOI DOI 10.1002/9780470755679.CH15
+   Brass DJ, 2004, ACAD MANAGE J, V47, P795, DOI 10.5465/20159624
+   BRASS DJ, 1993, ACAD MANAGE J, V36, P441, DOI 10.5465/256588
+   Brief AP, 2002, ANNU REV PSYCHOL, V53, P279, DOI 10.1146/annurev.psych.53.100901.135156
+   BURT RS, 1992, NETWORKS AND ORGANIZATIONS : STRUCTURE, FORM, AND ACTION, P57
+   Butler JK, 1995, GROUP ORGAN MANAGE, V20, P486, DOI 10.1177/1059601195204006
+   Byrne D., 1971, ATTRACTION PARADIGM
+   Caldwell DF, 2003, SMALL GR RES, V34, P497, DOI 10.1177/1046496403254395
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   Côté S, 2005, ACAD MANAGE REV, V30, P509, DOI [10.5465/amr.2005.17293692, 10.2307/20159142]
+   Cross R, 2004, ACAD MANAGE J, V47, P928, DOI 10.5465/20159632
+   Cunningham JB, 2000, HUM RELAT, V53, P1575, DOI 10.1177/00187267005312003
+   de Bruyn EH, 2005, SOC DEV, V14, P555, DOI 10.1111/j.1467-9507.2005.00317.x
+   Deci E.L., 2004, HDB SELF DETERMINATI
+   Deci EL, 1999, PSYCHOL BULL, V125, P627, DOI 10.1037/0033-2909.125.6.627
+   Dirks KT, 2001, ORGAN SCI, V12, P450, DOI 10.1287/orsc.12.4.450.10640
+   DRISCOLL JW, 1978, ACAD MANAGE J, V21, P44, DOI 10.5465/255661
+   Erickson B.H., 1988, SOCIAL STRUCTURES NE, P99
+   FELD SL, 1981, AM J SOCIOL, V86, P1015, DOI 10.1086/227352
+   Ferrin DL, 2006, J APPL PSYCHOL, V91, P870, DOI 10.1037/0021-9010.91.4.870
+   FESTINGER L, 1962, SCI AM, V207, P93, DOI 10.1038/scientificamerican1062-93
+   Festinger L, 1954, HUM RELAT, V7, P117, DOI 10.1177/001872675400700202
+   FISCHER CS, 1982, SOC NETWORKS, V3, P287, DOI 10.1016/0378-8733(82)90004-1
+   Fisher CD, 2000, J ORGAN BEHAV, V21, P123, DOI 10.1002/(SICI)1099-1379(200003)21:2<123::AID-JOB33>3.0.CO;2-8
+   Flap H, 2001, SOC NETWORKS, V23, P297, DOI 10.1016/S0378-8733(01)00044-2
+   Forgas JP, 2005, COGNITION EMOTION, V19, P1071, DOI 10.1080/02699930541000093
+   Friedkin NE, 2001, SOC NETWORKS, V23, P167, DOI 10.1016/S0378-8733(01)00036-3
+   Green MC, 1998, POLIT PSYCHOL, V19, P527, DOI 10.1111/0162-895X.00116
+   Hahn J, 2006, PERS INDIV DIFFER, V40, P689, DOI 10.1016/j.paid.2005.09.001
+   Hedstrom Peter, 1998, Social Mechanisms. An Analytical Approach to Social Theory, P1, DOI [DOI 10.1017/CBO9780511663901.001, 10.1017/CBO9780511663901.001]
+   Homans G.C., 1950, The Human Group
+   HURLBERT JS, 1991, WORK OCCUPATION, V18, P415, DOI 10.1177/0730888491018004003
+   IBARRA H, 1993, ADMIN SCI QUART, V38, P277, DOI 10.2307/2393414
+   Ilies R, 2002, ORGAN BEHAV HUM DEC, V89, P1119, DOI 10.1016/S0749-5978(02)00018-3
+   ISEN AM, 1991, RES ORGAN BEHAV, V13, P1
+   IVANCEVICH JM, 1975, ADMIN SCI QUART, V20, P272, DOI 10.2307/2391699
+   Jarvenpaa SL, 2004, INFORM SYST RES, V15, P250, DOI 10.1287/isre.1040.0028
+   Jarvinen DW, 1996, DEV PSYCHOL, V32, P435, DOI 10.1037/0012-1649.32.3.435
+   Jones GR, 1998, ACAD MANAGE REV, V23, P531, DOI 10.2307/259293
+   Kelly JR, 2001, ORGAN BEHAV HUM DEC, V86, P99, DOI 10.1006/obhd.2001.2974
+   Kohan A, 2002, J PSYCHOL, V136, P307, DOI 10.1080/00223980209604158
+   Krackhardt D, 1999, RES SOC ORG, V16, P183
+   KRACKHARDT D, 1990, AM ANTHROPOL, V92, P142, DOI 10.1525/aa.1990.92.1.02a00100
+   Kramer RM, 1999, ANNU REV PSYCHOL, V50, P569, DOI 10.1146/annurev.psych.50.1.569
+   La Guardia JG, 2000, J PERS SOC PSYCHOL, V79, P367, DOI 10.1037//0022-3514.79.3.367
+   Langfred CW, 2004, ACAD MANAGE J, V47, P385, DOI [10.2307/20159588, 10.5465/20159588]
+   Lazarsfeld P.F., 1954, Freedom and Control in Modern Society, P18, DOI DOI 10.1111/J.1467-8705.2012.02056_3.X
+   Lazega E, 2007, REV FR SOCIOL, V48, P93, DOI 10.3917/rfs.481.0093
+   Lewicki RJ, 2006, J MANAGE, V32, P991, DOI 10.1177/0149206306294405
+   Lin N, 1995, REV FR SOCIOL, V36, P685, DOI 10.2307/3322451
+   Lopes PN, 2005, EMOTION, V5, P113, DOI 10.1037/1528-3542.5.1.113
+   Louch H, 2000, SOC NETWORKS, V22, P45, DOI 10.1016/S0378-8733(00)00015-0
+   Marsden P.V., 1994, Advances in Social Network Analysis: Research in the Social and Behavioral Sciences, P3, DOI DOI 10.4135/9781452243528.N1
+   Matzler K, 2006, TOTAL QUAL MANAG BUS, V17, P1261, DOI 10.1080/14783360600753653
+   MAYER RC, 1995, ACAD MANAGE REV, V20, P709, DOI 10.2307/258792
+   MCALLISTER DJ, 1995, ACAD MANAGE J, V38, P24, DOI 10.5465/256727
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Morrison R, 2004, NEW ZEAL J PSYCHOL, V33, P114
+   Mouw T, 2006, ANNU REV SOCIOL, V32, P79, DOI 10.1146/annurev.soc.32.061604.123150
+   OREILLY CA, 1985, J OCCUP PSYCHOL, V58, P193, DOI 10.1111/j.2044-8325.1985.tb00195.x
+   Podsakoff PM, 2003, J APPL PSYCHOL, V88, P879, DOI 10.1037/0021-9010.88.5.879
+   Raabe B, 2003, J ORGAN BEHAV, V24, P271, DOI 10.1002/job.193
+   Requena F, 2003, SOC INDIC RES, V61, P331, DOI 10.1023/A:1021923520951
+   RICE RE, 1991, ADMIN SCI QUART, V36, P219, DOI 10.2307/2393354
+   RIORDAN CM, 1995, J BUS PSYCHOL, V10, P141, DOI 10.1007/BF02249575
+   ROBERTS KH, 1979, ACAD MANAGE J, V22, P42, DOI 10.5465/255477
+   Rousseau DM, 1998, ADMIN SCI QUART, V43, P186, DOI 10.2307/2393596
+   Rousseau DM, 1998, ACAD MANAGE REV, V23, P393, DOI 10.5465/AMR.1998.926617
+   Ryan RM, 2000, AM PSYCHOL, V55, P68, DOI 10.1037/0003-066X.55.1.68
+   SALANCIK GR, 1977, ADMIN SCI QUART, V22, P427, DOI 10.2307/2392182
+   SHAW ME, 1964, ADV EXPT SOCIAL PSYC, V1, P147
+   Sheldon KM, 2001, J PERS SOC PSYCHOL, V80, P325, DOI 10.1037/0022-3514.80.2.325
+   SMITH CA, 1983, J APPL PSYCHOL, V68, P653, DOI 10.1037/0021-9010.68.4.653
+   Snijders T.A., 2007, MANUAL SIENA VERSION
+   Snijders T. A., 2005, MODELS METHODS SOCIA, V1, P215, DOI DOI 10.1017/CBO9780511811395.011
+   Snijders TAB, 2001, SOCIOL METHODOL, V31, P361, DOI 10.1111/0081-1750.00099
+   Snijders TAB, 1996, J MATH SOCIOL, V21, P149, DOI 10.1080/0022250X.1996.9990178
+   Spector P.E., 1997, JOB SATISFACTION APP, DOI DOI 10.4135/9781452231549
+   STEGLICH CEG, 2007, DYNAMIC NETWOR UNPUB
+   Thoits P., 1985, Soc Support Theory, Res Appl, DOI DOI 10.1007/978-94-009-5115-0_4
+   Thoms P., 2002, Human Resource Development Quarterly, V13, P307, DOI DOI 10.1002/HRDQ.1033
+   Totterdell P, 2004, J APPL PSYCHOL, V89, P854, DOI 10.1037/0021-9010.89.5.854
+   Tsai WP, 1998, ACAD MANAGE J, V41, P464, DOI 10.5465/257085
+   Umberson D, 1996, AM SOCIOL REV, V61, P837, DOI 10.2307/2096456
+   Umphress EE, 2003, ORGAN SCI, V14, P738, DOI 10.1287/orsc.14.6.738.24865
+   van de Bunt GG, 2005, INT SOCIOL, V20, P339, DOI 10.1177/0268580905055480
+   WILLIAMS LJ, 1991, J MANAGE, V17, P601, DOI 10.1177/014920639101700305
+   WINSTEAD BA, 1995, J SOC PERS RELAT, V12, P199, DOI 10.1177/0265407595122003
+NR 102
+TC 24
+Z9 27
+U1 0
+U2 41
+PU PRESSES SCIENCES PO
+PI PARIS
+PA 28 Rue Saint Guillaume, PARIS, FRANCE
+SN 0035-2969
+EI 1958-5691
+J9 REV FR SOCIOL
+JI Rev. Fr. Sociol.
+PD JUL-SEP
+PY 2008
+VL 49
+IS 3
+BP 613
+EP +
+DI 10.3917/rfs.493.0613
+PG 26
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA 349JP
+UT WOS:000259277400008
+OA Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Crossley, N
+AF Crossley, Nick
+TI Social networks and student activism: on the politicising effect of
+   campus connections
+SO SOCIOLOGICAL REVIEW
+LA English
+DT Article
+ID COLLECTIVE ACTION; CRITICAL MASS; FREEDOM SUMMER; MOVEMENTS;
+   RECRUITMENT; PROTEST; TIES
+AB In the first part of this paper I present original survey data which suggests that the transition from further to higher education, or more specifically the process of becoming a university student, has a politicising effect upon some students. In particular, university students are more likely that their 6th form counter-parts to have engaged in some of the forms of protest activity associated with social movements. This holds even during periods when levels of social movement mobilisation are low both on and off campus. In the second part of the paper I review several of the key theoretical explanations of student politicisation to be found in the social movements literature. Having criticised these theories and noted that they are challenged by my survey findings, I outline an alternative which focuses upon campus-based social networks. University campuses, I suggest, facilitate the formation of a critical and connected mass of previously politicised actors who then use their further networks to recruit political novices into activism. It is this recruitment activity, which is greatly enhanced by the network structure of campus life, which explains the politicising effect of campus life. Moreover, insofar as new recruits go on to become recruiters this forms part of a self-perpetuating dynamic of politicisation.
+C1 Univ Manchester, Manchester M13 9PL, Lancs, England.
+C3 University of Manchester
+RP Crossley, N (corresponding author), Univ Manchester, Manchester M13 9PL, Lancs, England.
+EM Nick.crossley@manchester.ac.uk
+OI Crossley, Nick/0000-0003-0969-9121
+CR [Anonymous], 2001, BOWLING ALONE BOWLIN
+   [Anonymous], 1978, MOBILISATION REVOLUT
+   [Anonymous], 2001, MOBILIZATION INT Q, DOI DOI 10.17813/MAIQ.6.1.Y63133434T8VQ608
+   BAGGULEY P, 1992, SOCIOL REV, V40, P26, DOI 10.1111/j.1467-954X.1992.tb02944.x
+   Blumer H.G., 1969, Principles of Sociology, P65
+   Bradbury M., 1975, The history man
+   Broadbent J., 2003, Social Movements and Networks: Relational Approaches to Collective Action
+   Coleman J.S., 1994, FDN SOCIAL THEORY
+   CORBIN J, 2003, BASE
+   Crossley N, 2003, ORGANIZATION, V10, P287, DOI 10.1177/1350508403010002006
+   Crossley N, 2002, BRIT J SOCIOL, V53, P667, DOI 10.1080/0007131022000021542
+   CROSSLEY N, 2008, SOCIOLOGY
+   Crossley Nick., 2002, MAKING SENSE SOCIAL
+   Downton J., 1997, The persistent activist: How peace commitment develops and survives
+   FELD SL, 1981, AM J SOCIOL, V86, P1015, DOI 10.1086/227352
+   FELD SL, 1982, AM SOCIOL REV, V47, P797, DOI 10.2307/2095216
+   FERNANDEZ RM, 1988, SOCIOL FORUM, V3, P357, DOI 10.1007/BF01116431
+   Festinger, 1964, CONFLICT DECISION DI
+   Gould Roger V., 1995, Insurgent Identities: Class, Community, and Protest in Paris from 1848 to the Commune
+   GOULD RV, 1993, AM SOCIOL REV, V58, P182, DOI 10.2307/2095965
+   Habermas J., 1987, RATIONAL SOC
+   Halpern David., 2005, Social Capital
+   Kitts JamesA., 2000, MOBILIZATION, V5, P241, DOI [10.17813/maiq.5.2.5408016w34215787, DOI 10.17813/MAIQ.5.2.5408016W34215787]
+   Marsh A., 1977, PROTEST POLITICAL CO
+   MARWELL G, 1988, AM J SOCIOL, V94, P502, DOI 10.1086/229028
+   MCADAM D, 1986, AM J SOCIOL, V92, P64, DOI 10.1086/228463
+   MCADAM D, 1993, AM J SOCIOL, V99, P640, DOI 10.1086/230319
+   McAdam D., 1988, FREEDOM SUMMER
+   McAdam Doug., 1999, POLITICAL PROCESS DE, V2nd
+   Melucci Alberto., 1989, NOMADS PRESENT
+   Morris A., 1984, ORIGIN CIVIL RIGHTS
+   MUSGROVE F, 1974, ECSTACY HOLINESS
+   OLIVER P, 1985, AM J SOCIOL, V91, P522, DOI 10.1086/228313
+   OLIVER PE, 1988, AM SOCIOL REV, V53, P1, DOI 10.2307/2095728
+   Olson Mancur., 1971, The Logic of Collective Action: Public Goods and the Theory of Groups, with a new preface and appendix
+   OPP KD, 1993, AM SOCIOL REV, V58, P659, DOI 10.2307/2096280
+   Passy Florence., 2001, Mobilization: An International Quarterly, V6, P173, DOI DOI 10.17813/MAIQ.6.2.V6U4WG67X87W943H
+   Piven FrancesFox., 1992, Frontiers in Social Movement Theory, P301
+   Rootes C., 1986, MELBOURNE J POLITICS, V18, P184
+   ROOTES C, 1995, NEW CLASS HIGHER ED
+   ROOTES CA, 1980, THEOR SOC, V9, P473, DOI 10.1007/BF00158398
+   Sageman M, 2004, UNDERSTANDING TERROR NETWORKS, P1
+   Simon H. A., 1957, MODELS MAN
+   Smelser Neil J., 1968, ESSAYS SOCIAL EXPLAN
+   SNOW DA, 1980, AM SOCIOL REV, V45, P787, DOI 10.2307/2094895
+   Tarrow Sidney., 1995, Repertoires and Cycles of Collective Action, P89
+   TAYLOR V, 1989, AM SOCIOL REV, V54, P761, DOI 10.2307/2117752
+   Tilly Charles, 2020, Social Movements
+   Van Dyke N, 1998, SOC PROBL, V45, P205, DOI 10.1525/sp.1998.45.2.03x0166j
+   VINEN R, 1994, MODERN HIST REV, P23
+   Wright Lawrence., 2006, LOOMING TOWER
+NR 51
+TC 62
+Z9 89
+U1 2
+U2 29
+PU WILEY-BLACKWELL
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 0038-0261
+J9 SOCIOL REV
+JI Sociol. Rev.
+PD FEB
+PY 2008
+VL 56
+IS 1
+BP 18
+EP 38
+DI 10.1111/j.1467-954X.2008.00775.x
+PG 21
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA 264BA
+UT WOS:000253259000002
+DA 2024-11-22
+ER

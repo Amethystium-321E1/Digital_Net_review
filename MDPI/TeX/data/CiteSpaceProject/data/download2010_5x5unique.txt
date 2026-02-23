@@ -1,0 +1,552 @@
+
+PT J
+AU Christakis, NA
+   Fowler, JH
+AF Christakis, Nicholas A.
+   Fowler, James H.
+TI Social Network Sensors for Early Detection of Contagious Outbreaks
+SO PLOS ONE
+LA English
+DT Article
+ID INFLUENZA-A H1N1
+AB Current methods for the detection of contagious outbreaks give contemporaneous information about the course of an epidemic at best. It is known that individuals near the center of a social network are likely to be infected sooner during the course of an outbreak, on average, than those at the periphery. Unfortunately, mapping a whole network to identify central individuals who might be monitored for infection is typically very difficult. We propose an alternative strategy that does not require ascertainment of global network structure, namely, simply monitoring the friends of randomly selected individuals. Such individuals are known to be more central. To evaluate whether such a friend group could indeed provide early detection, we studied a flu outbreak at Harvard College in late 2009. We followed 744 students who were either members of a group of randomly chosen individuals or a group of their friends. Based on clinical diagnoses, the progression of the epidemic in the friend group occurred 13.9 days (95% C. I. 9.9-16.6) in advance of the randomly chosen group (i.e., the population as a whole). The friend group also showed a significant lead time (p<0.05) on day 16 of the epidemic, a full 46 days before the peak in daily incidence in the population as a whole. This sensor method could provide significant additional time to react to epidemics in small or large populations under surveillance. The amount of lead time will depend on features of the outbreak and the network at hand. The method could in principle be generalized to other biological, psychological, informational, or behavioral contagions that spread in networks.
+C1 [Christakis, Nicholas A.] Harvard Univ, Fac Arts & Sci, Boston, MA 02115 USA.
+   [Christakis, Nicholas A.] Harvard Univ, Sch Med, Dept Hlth Care Policy, Boston, MA 02115 USA.
+   [Fowler, James H.] Univ Calif San Diego, Sch Med, La Jolla, CA 92093 USA.
+   [Fowler, James H.] Univ Calif San Diego, Div Social Sci, La Jolla, CA 92093 USA.
+C3 Harvard University; Harvard University; Harvard Medical School;
+   University of California System; University of California San Diego;
+   University of California System; University of California San Diego
+RP Christakis, NA (corresponding author), Harvard Univ, Fac Arts & Sci, Boston, MA 02115 USA.
+EM christakis@hcp.med.harvard.edu
+RI Christakis, Nicholas/C-3205-2009; Fowler, James/C-2750-2008
+OI Fowler, James/0000-0001-7795-1638
+FU Office of the Provost, Harvard University; National Institute on Aging
+   [P-01AG-031093]; Robert Wood Johnson Foundation
+FX Supported by a grant from the Office of the Provost, Harvard University
+   (Steve Hyman). The analysis was partially supported by grants from the
+   National Institute on Aging (P-01AG-031093) and by a Pioneer Grant from
+   the Robert Wood Johnson Foundation. The funders had no role in study
+   design, data collection and analysis, decision to publish, or
+   preparation of the manuscript.
+CR [Anonymous], PAJEK PROGRAM ANAL V
+   [Anonymous], 2010, American College Health Association Influenza-like-illnesses (ILI) surveillance in colleges and universities 2009-2010: weekly college ILI cases reported
+   Bahr DB, 2009, OBESITY, V17, P723, DOI 10.1038/oby.2008.615
+   Bates D.M., 1988, Nonlinear regression analysis and its applications, V365, DOI DOI 10.1002/9780470316757
+   Bearman PS, 2004, AM J SOCIOL, V110, P44, DOI 10.1086/386272
+   Carneiro HA, 2009, CLIN INFECT DIS, V49, P1557, DOI 10.1086/630200
+   Cauchemez S, 2009, NEW ENGL J MED, V361, P2619, DOI 10.1056/NEJMoa0905498
+   Christakis NA, 2008, NEW ENGL J MED, V358, P2249, DOI 10.1056/NEJMsa0706154
+   Christley RM, 2005, AM J EPIDEMIOL, V162, P1024, DOI 10.1093/aje/kwi308
+   Cohen R, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.247901
+   Davey VJ, 2008, PLOS ONE, V3, DOI 10.1371/journal.pone.0002606
+   Dezso Z, 2002, PHYS REV E, V65, DOI 10.1103/PhysRevE.65.055103
+   Dorogovtsev SN, 2008, REV MOD PHYS, V80, P1275, DOI 10.1103/RevModPhys.80.1275
+   Dushoff J, 2006, AM J EPIDEMIOL, V163, P181, DOI 10.1093/aje/kwj024
+   FELD SL, 1991, AM J SOCIOL, V96, P1464, DOI 10.1086/229693
+   Fowler JH, 2010, P NATL ACAD SCI USA, V107, P5334, DOI 10.1073/pnas.0913149107
+   FREEMAN LC, 1977, SOCIOMETRY, V40, P35, DOI 10.2307/3033543
+   Ginsberg J, 2009, NATURE, V457, P1012, DOI 10.1038/nature07634
+   Greenbaum JA, 2009, P NATL ACAD SCI USA, V106, P20365, DOI 10.1073/pnas.0911580106
+   Huet S., 2003, STAT TOOLS NONLINEAR
+   KAMADA T, 1989, INFORM PROCESSING LE, V31, P113
+   Khazeni N, 2009, ANN INTERN MED, V151, P829, DOI [10.7326/0000605-200912150-00157, 10.7326/0003-4819-151-12-200912150-00157]
+   KITSAK M, 2010, 10015285V2 ARXIV
+   Leskovec J, 2007, KDD-2007 PROCEEDINGS OF THE THIRTEENTH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P420
+   Lessler J, 2009, NEW ENGL J MED, V361, P2628, DOI 10.1056/NEJMoa0906089
+   Mossong J, 2008, PLOS MED, V5, P381, DOI 10.1371/journal.pmed.0050074
+   Newman MEJ, 2003, SOC NETWORKS, V25, P83, DOI 10.1016/S0378-8733(02)00039-4
+   Pastor-Satorras R, 2002, PHYS REV E, V65, DOI 10.1103/PhysRevE.65.036104
+   Polgreen PM, 2007, CLIN INFECT DIS, V44, P272, DOI 10.1086/510427
+   Rogers E., 1964, DIFFUSION INNOVATION
+   ROSENQUIST JN, 2010, MOL PSYCHIATR, V16, P273, DOI DOI 10.1038/MP.2010.13
+   Ross R, 1915, BRIT MED J, V1915, P546, DOI 10.1136/bmj.1.2830.546
+   Scott BA, 2009, J APPL PSYCHOL, V94, P20, DOI 10.1037/a0012951
+   Smith DMD, 2008, PHYS REV E, V77, DOI 10.1103/PhysRevE.77.036112
+   Trifonov V, 2009, NEW ENGL J MED, V361, P115, DOI 10.1056/NEJMp0904572
+   TURNBULL BW, 1976, J R STAT SOC B, V38, P290
+   Zuckerman EW, 2001, SOC PSYCHOL QUART, V64, P207, DOI 10.2307/3090112
+   2010, MORB MORTAL WEEKLY R, V59, P38
+NR 38
+TC 269
+Z9 339
+U1 2
+U2 58
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD SEP 15
+PY 2010
+VL 5
+IS 9
+AR e12948
+DI 10.1371/journal.pone.0012948
+PG 8
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA 649ZP
+UT WOS:000281815800033
+PM 20856792
+OA Green Submitted, gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Conti, N
+   Doreian, P
+AF Conti, Norman
+   Doreian, Patrick
+TI Social network engineering and race in a police academy: A longitudinal
+   analysis
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Dynamic networks; Race; Police academy; Networks over time; Network
+   evolution
+ID TIES
+AB This research examined an attempt to facilitate racial integration by populating squads (i.e., workgroups) in a police academy with mixes of recruits that reflected the racial demographics of the larger cohort. This was part of the social infrastructure of the academy. Additionally, a fixed seating arrangement was considered as a second element of academy infrastructure capable of impacting racial integration. We examined the consequences of these academy components over time with regard to race by combining ethnographic accounts With social network data collected throughout the academy and using a variety of network analytic tools. These consequences with regard to race were examined as a part of social network evolution. The academy's social arrangements did accelerate the creation of social knowledge of recruits about each other and the formation of friendship ties both within and between races. However. our results point to cleat limitations to such infrastructural engineering and have implications for both recruitment to police academies and dealing with race. They shed light also oil processes of homophily and group composition over time and have implications for Studying social networks. (C) 2009 Elsevier B.V. All rights reserved.
+C1 [Doreian, Patrick] Univ Pittsburgh, Dept Sociol, Pittsburgh, PA 15260 USA.
+   [Doreian, Patrick] Univ Ljubljana, Fac Social Sci, Ljubljana 61000, Slovenia.
+   [Conti, Norman] Duquesne Univ, Dept Sociol, Pittsburgh, PA USA.
+C3 Pennsylvania Commonwealth System of Higher Education (PCSHE); University
+   of Pittsburgh; University of Ljubljana; Duquesne University
+RP Doreian, P (corresponding author), Univ Pittsburgh, Dept Sociol, 2602 WWPH, Pittsburgh, PA 15260 USA.
+EM contin@duq.edu; pitpat@pitt.edu
+CR Alex N., 1969, Black in Blue
+   [Anonymous], 2002, Harvard, MA: Analytic Technologies
+   Barlow David., 2002, POLICE  Q, V5, P334, DOI DOI 10.1177/109861102129198183
+   Becker H.S., 1963, BOYS WHITE STUDENT C
+   BLOW M, 2009, NY TIMES        0724
+   Bolton K., 2003, POLICING INT J STRAT, V26, P389
+   Cashmore E, 2001, ETHNIC RACIAL STUD, V24, P642, DOI 10.1080/01419870120049824
+   Chan Janet, 1997, CHANGING POLICE CULT
+   CHAN JBL, 2003, FAIR COP LEARNING AI
+   Conti N, 2009, J CONTEMP ETHNOGR, V38, P409, DOI 10.1177/0891241608330092
+   Dekker D, 2007, PSYCHOMETRIKA, V72, P563, DOI 10.1007/s11336-007-9016-1
+   FELD SL, 1981, AM J SOCIOL, V86, P1015, DOI 10.1086/227352
+   Feld SL, 1998, AM J SOCIOL, V103, P1165, DOI 10.1086/231350
+   Fletcher C, 1996, J ORGAN CHANGE MANAG, V9, P36, DOI 10.1108/09534819610128788
+   FRIDAY SS, 2003, J MANAGEMENT DEV, V22, P442
+   Garland J., 2003, POLIC SOC, V13, P399
+   Gould L.A., 1997, POLICING INT J POLIC, V20, P339, DOI DOI 10.1108/13639519710169171
+   Haar R.N., 2005, POLICE  Q, V8, P431, DOI [10.1177/1098611103261821, DOI 10.1177/1098611103261821]
+   Ho T., 2005, POLICE  Q, V8, P454
+   HOLLAND PW, 1973, J MATH SOCIOL, V3, P85, DOI 10.1080/0022250X.1973.9989825
+   Homans G.C., 1950, The Human Group
+   Lasley JR, 1998, SOC SCI QUART, V79, P378
+   Mann C., 1993, UNEQUAL JUSTICE QUES
+   McGuire W.J., 1984, Personality and the prediction of behavior, P73
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mehra A, 1998, ACAD MANAGE J, V41, P441, DOI 10.5465/257083
+   Prokos A., 2002, Gender, Work and Organization, V9, P439, DOI [DOI 10.1111/1468-0432.00168, DOI 10.1111/GWAO.2002.9.ISSUE-4]
+   Reagans R, 2004, ADMIN SCI QUART, V49, P101
+   Snijders T.A., 1999, Connections, V22, P161
+   Weitzer R, 2002, CRIMINOLOGY, V40, P435, DOI 10.1111/j.1745-9125.2002.tb00962.x
+NR 30
+TC 42
+Z9 52
+U1 1
+U2 18
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JAN
+PY 2010
+VL 32
+IS 1
+SI SI
+BP 30
+EP 43
+DI 10.1016/j.socnet.2009.08.001
+PG 14
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 561BA
+UT WOS:000274948700004
+DA 2024-11-22
+ER
+
+PT J
+AU Crossley, N
+AF Crossley, Nick
+TI Networks and Complexity: Directions for Interactionist Research?
+SO SYMBOLIC INTERACTION
+LA English
+DT Article
+DE social network analysis; social worlds; brokerage; closure; symbolic
+   interaction; George Herbert Mead
+AB In this article I consider the potential importance of social networks for symbolic interactionism. Specifically, I argue that symbolic interactionism operates with an underdeveloped and often tacit conception of networks; that network analysis offers us various tools for further developing and operationalizing this conception, empirically; and that doing so would be to our considerable advantage. In addition, I argue that a stronger focus on networks would give interactionism an inroad into important contemporary debates on "complexity," building on an obvious but again underdeveloped affinity between these two academic domains. Moreover, tackling complexity raises important and central sociological concerns of structure/agency and micro/macro, with the additional payoff that interactionism can develop and demonstrate its strengths, as an approach, in addressing the problems often associated with these concerns.
+C1 Univ Manchester, Sch Social Sci, Dept Sociol, Manchester M13 9PL, Lancs, England.
+C3 University of Manchester
+RP Crossley, N (corresponding author), Univ Manchester, Sch Social Sci, Dept Sociol, Oxford Rd, Manchester M13 9PL, Lancs, England.
+EM nick.crossley@manchester.ac.uk
+OI Crossley, Nick/0000-0003-0969-9121
+CR [Anonymous], 2001, Social capital: theory and research
+   [Anonymous], 2010, SOCIOLOGICA
+   Barabasi A.-L, 2002, LINKED NEW SCI NETWO
+   Becker HS, 1952, AM J SOCIOL, V57, P470, DOI 10.1086/221015
+   Becker Howard S., 2008, ART WORLDS
+   Blau P.M., 1968, INT ENCYCL SOC SCI, V7, P452, DOI [DOI 10.1016/0049-089X(72)90055-5, 10.33206/mjss.640929, DOI 10.33206/MJSS.640929]
+   Blumer, 1967, SYMB INTERACT
+   Blumer H.G., 1969, Principles of Sociology, P65
+   BURT RS, 1992, NETWORKS AND ORGANIZATIONS : STRUCTURE, FORM, AND ACTION, P57
+   Charmaz K., 2006, Brokerage and closure: An introduction to social capital
+   Coleman J.S., 1988, Sociological Theory, V6, P52, DOI [DOI 10.2307/201913, 10.2307/201913]
+   Coleman J.S., 1994, FDN SOCIAL THEORY
+   Cooley C.H., 1902, Human nature and the social order
+   Crossley N, 2005, SOCIOL REV, V53, P351, DOI 10.1111/j.1467-954X.2005.00518_1.x
+   Crossley N, 2008, THEOR CULT SOC, V25, P89, DOI 10.1177/0263276408095546
+   Crossley N, 2008, BRIT J SOCIOL, V59, P475, DOI 10.1111/j.1468-4446.2008.00204.x
+   Crossley N, 2008, SOCIOLOGY, V42, P261, DOI 10.1177/0038038507087353
+   Crossley N, 2006, BODY SOC, V12, P23, DOI 10.1177/1357034X06067154
+   Crossley N, 2009, POETICS, V37, P24, DOI 10.1016/j.poetic.2008.10.002
+   Crossley Nick., 2010, Towards Relational Sociology
+   Crossley Nick., 2004, BODY SOC, V10, P37, DOI [https://doi.org/10.1177/1357034x04041760, DOI 10.1177/1357034X04041760, 10.1177/1357034X04041760]
+   Elias N., 1994, ESTABLISHED OUTSIDER
+   ELIAS N, 1979, WHAT IS SOCIOLOGY
+   ERDOS P, 1960, B INT STATIST INST, V38, P343
+   FELD SL, 1981, AM J SOCIOL, V86, P1015, DOI 10.1086/227352
+   FELD SL, 1982, AM SOCIOL REV, V47, P797, DOI 10.2307/2095216
+   FINE GA, 1979, AM J SOCIOL, V85, P1, DOI 10.1086/226971
+   Fine GaryAlan., 1983, SYMB INTERACT, V6, P97
+   Goffman E., 1971, RELATIONS PUBLIC MIC
+   Goffman E, 1959, PRESENTATION SELF EV
+   Goffman Erving., 1961, ASYLUMS
+   Granovetter M., 1983, SOCIOLOGICAL THEORY, V1, P201, DOI [https://doi.org/10.2307/202051, 10.2307/202051, DOI 10.2307/202051]
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Hall O, 1948, AM J SOCIOL, V53, P327, DOI 10.1086/220199
+   HALL PM, 1987, SOCIOL QUART, V28, P1, DOI 10.1111/j.1533-8525.1987.tb00280.x
+   Martin P.J., 2006, Music and the sociological gaze: Art worlds and cultural production
+   Martin PJ, 2006, SYMB INTERACT, V29, P95, DOI 10.1525/si.2006.29.1.95
+   Mead G.H., 1934, MIND SELF SOC STANDP
+   Mead G.H., 1932, PHILOS PRESENT
+   Mead GeorgeHerbert., 1972, PHILOS ACT
+   MILGRAM S, 2004, EMPIRICAL APPROACHES, P111
+   Newman ME., 2006, STRUCTURE DYNAMICS N
+   PRELL C, 2009, METHODOLOGICAL INNOV, V4
+   Putnam Robert D., 2000, BOWLING ALONE COLLAP, DOI 10.1145/358916.361990
+   Schnettler S, 2009, SOC NETWORKS, V31, P165, DOI 10.1016/j.socnet.2008.12.004
+   Schnettler S, 2009, SOC NETWORKS, V31, P179, DOI 10.1016/j.socnet.2008.12.005
+   SCOTT J, 1988, SOCIOLOGY, V22, P109, DOI 10.1177/0038038588022001007
+   Shibutani T, 1955, AM J SOCIOL, V60, P562, DOI 10.1086/221630
+   STRAUSS A, 1973, STUDIES SYMBOLIC INT, V1, P119
+   Strauss A.L., 1993, Continual permutations of action
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   Watts D. J., 2004, 6 DEGREES SCI CONNEC
+   Watts Duncan J., 1999, Small Worlds: The Dynamics of Networks between Order and Randomness
+   White HarrisonC., 1970, CHAINS OPPORTUNITY S
+NR 54
+TC 24
+Z9 34
+U1 1
+U2 14
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0195-6086
+EI 1533-8665
+J9 SYMB INTERACT
+JI Symb. Interact.
+PD SUM
+PY 2010
+VL 33
+IS 3
+BP 341
+EP 363
+DI 10.1525/si.2010.33.3.341
+PG 23
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA 633LT
+UT WOS:000280505200001
+DA 2024-11-22
+ER
+
+PT J
+AU Slanina, F
+   Konopásek, Z
+AF Slanina, Frantisek
+   Konopasek, Zdenek
+TI EIGENVECTOR LOCALIZATION AS A TOOL TO STUDY SMALL COMMUNITIES IN ONLINE
+   SOCIAL NETWORKS
+SO ADVANCES IN COMPLEX SYSTEMS
+LA English
+DT Article
+DE Social network; random matrix; internet
+ID COMPLEX NETWORKS; RANDOM MATRICES; CLUSTERS; SPECTRUM; CULTURE; DENSITY
+AB We present and discuss a mathematical procedure for identification of small "communities" or segments within large bipartite networks. The procedure is based on spectral analysis of the matrix encoding network structure. The principal tool here is localization of eigenvectors of the matrix, by means of which the relevant network segments become visible. We exemplified our approach by analyzing the data related to product reviewing on Amazon.com. We found several segments, a kind of hybrid communities of densely interlinked reviewers and products, which we were able to meaningfully interpret in terms of the type and thematic categorization of reviewed items. The method provides a complementary approach to other ways of community detection, typically aiming at identification of large network modules.
+C1 [Slanina, Frantisek] Acad Sci Czech Republ, Inst Phys, CZ-18221 Prague, Czech Republic.
+   [Konopasek, Zdenek] Charles Univ Prague, Ctr Theoret Study, Prague, Czech Republic.
+   [Konopasek, Zdenek] Acad Sci Czech Republ, Prague, Czech Republic.
+C3 Czech Academy of Sciences; Institute of Physics of the Czech Academy of
+   Sciences; Charles University Prague; Czech Academy of Sciences
+RP Slanina, F (corresponding author), Acad Sci Czech Republ, Inst Phys, Na Slovance 2, CZ-18221 Prague, Czech Republic.
+EM slanina@fzu.cz; zdenek@konopasek.net
+RI Slanina, Frantisek/K-8153-2013; Konopasek, Zdenek/HJO-9891-2023
+OI Slanina, Frantisek/0000-0001-9874-8129
+FU Academy of Sciences of the Czech republic [AV0Z10100520]; MSMT of the
+   Czech Republic [OC09078]; CTS MSM [0021620845]; Fribourg University
+FX Frantisek Slanina wishes to thank Y.-C. Zhang for encouragement and
+   inspiring comments and to Fribourg University for support and
+   hospitality during the stay when this study was started. This work was
+   carried our within the project AV0Z10100520 of the Academy of Sciences
+   of the Czech republic and was supported by the MSMT of the Czech
+   Republic, Grant no. OC09078 and by the Research Program CTS MSM
+   0021620845.
+CR Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   Allen J., 2002, CULTURAL EC, P39
+   [Anonymous], 2005, TECHNOLOGICAL EC
+   [Anonymous], WWW 10
+   Ausloos M, 2007, PHYSICA A, V382, P16, DOI 10.1016/j.physa.2007.02.005
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barber MJ, 2007, PHYS REV E, V76, DOI 10.1103/PhysRevE.76.066102
+   Barry Andrew., 2005, The Technological Economy
+   Beer D, 2008, CULT SOCIOL-LONDON, V2, P222, DOI 10.1177/1749975508091034
+   Benkler Y., 2006, WEALTH NETWORKS SOCI
+   Berger Peter L., 1966, SOCIAL CONSTRUCTION
+   BIANCONI G, 2008, ARXIV08041744
+   Bollobas B., 1985, RANDOM GRAPHS
+   Bornholdt S., 2003, Handbook of graphs and networks: From the genome to the Internet
+   BOUCHAUD JP, HDB RANDOM IN PRESS
+   Burioni R, 2005, J PHYS A-MATH GEN, V38, pR45, DOI 10.1088/0305-4470/38/8/R01
+   CANCHO RF, 2005, CONDMAT0504165
+   Capocci A, 2005, PHYSICA A, V352, P669, DOI 10.1016/j.physa.2004.12.050
+   Castells M, 2000, CONTEMP SOCIOL, V29, P693, DOI 10.2307/2655234
+   Cattuto C, 2007, AI COMMUN, V20, P245
+   Christakis NA, 2009, Connected: The Surprising Power of Our Social Networks and How They Shape Our Lives
+   Chung F.R.K., 1997, Spectral Graph Theory, DOI DOI 10.1090/CBMS/092
+   Danon L, 2005, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2005/09/P09008
+   David S., 2008, Living in a material world: Economic sociology meets science and technology studies, P341
+   Degenne A., 1994, INTRO SOCIAL NETWORK
+   Diestel R., 2017, GRAPH THEORY, V5th ed., DOI DOI 10.1007/978-3-662-53622-3
+   Donetti L, 2004, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2004/10/P10012
+   DONETTI L, 2005, PHYSICS0504059
+   Dorogovtsev SN, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.046109
+   Dorogovtsev SN, 2002, ADV PHYS, V51, P1079, DOI 10.1080/00018730110112519
+   Dorogovtsev SN, 2002, PHYS REV E, V65, DOI 10.1103/PhysRevE.65.066122
+   EMIRBAYER M, 1994, AM J SOCIOL, V99, P1411, DOI 10.1086/230450
+   Erdos P., 1959, PUBL MATH-DEBRECEN, V6, P290
+   Eriksen KA, 2003, PHYS REV LETT, V90, DOI 10.1103/PhysRevLett.90.148701
+   Farkas I, 2002, PHYSICA A, V314, P25, DOI 10.1016/S0378-4371(02)01181-0
+   Farkas IJ, 2001, PHYS REV E, V64, DOI 10.1103/PhysRevE.64.026704
+   FOOT K, 2009, 4S ANN C WASH DC OCT
+   Fortunato S, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.056104
+   Fortunato S., 2009, ENCY COMPLEXITY SYST
+   Fortunato S, 2010, PHYS REP, V486, P75, DOI 10.1016/j.physrep.2009.11.002
+   Galluccio S, 1998, PHYSICA A, V259, P449, DOI 10.1016/S0378-4371(98)00332-X
+   Goh KI, 2001, PHYS REV E, V64, DOI 10.1103/PhysRevE.64.051903
+   Gopikrishnan P., 2001, Physical Review E (Statistical, Nonlinear, and Soft Matter Physics), V64, p035106/1, DOI 10.1103/PhysRevE.64.035106
+   Granovetter M., 1983, SOCIOLOGICAL THEORY, V1, P201, DOI [https://doi.org/10.2307/202051, 10.2307/202051, DOI 10.2307/202051]
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Guimerà R, 2005, NATURE, V433, P895, DOI 10.1038/nature03288
+   Hacking I., 1999, SOCIAL CONSTRUCTION
+   Heimo T, 2008, PHYSICA A, V387, P5930, DOI 10.1016/j.physa.2008.06.028
+   Jalan S, 2010, PHYS REV E, V81, DOI 10.1103/PhysRevE.81.046118
+   Kamp C, 2005, PHYS REV E, V71, DOI 10.1103/PhysRevE.71.041911
+   Kim BJ, 2003, J PHYS A-MATH GEN, V36, P6329, DOI 10.1088/0305-4470/36/23/304
+   Kim DH, 2005, PHYS REV E, V72, DOI 10.1103/PhysRevE.72.046133
+   Kühn R, 2008, J PHYS A-MATH THEOR, V41, DOI 10.1088/1751-8113/41/29/295002
+   Kullmann L, 2000, PHYSICA A, V287, P412, DOI 10.1016/S0378-4371(00)00380-0
+   Laloux L, 1999, PHYS REV LETT, V83, P1467, DOI 10.1103/PhysRevLett.83.1467
+   Lambiotte R, 2005, PHYS REV E, V72, DOI 10.1103/PhysRevE.72.066107
+   Lancichinetti A, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0011976
+   Lancichinetti A, 2009, NEW J PHYS, V11, DOI 10.1088/1367-2630/11/3/033015
+   Lash Scott., 1994, EC SIGNS SPACE
+   Latour Bruno., 2005, REASSEMBLING SOCIAL
+   LICOPPE Christian., 2008, Living in a material world: economic sociology meets science and technology studies, P317
+   Mehta M. L., 2004, Random Matrices, V3rd
+   Nagao T, 2007, J PHYS A-MATH THEOR, V40, P4973, DOI 10.1088/1751-8113/40/19/003
+   Nagao T, 2008, J PHYS A-MATH THEOR, V41, DOI 10.1088/1751-8113/41/26/265002
+   Newman MEJ, 2006, PHYS REV E, V74, DOI 10.1103/PhysRevE.74.036104
+   Newman ME., 2006, STRUCTURE DYNAMICS N
+   Newman MEJ, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.066133
+   Newman MEJ, 2003, LECT NOTES PHYS, V625, P66
+   Noh JD, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.118701
+   Palla G, 2005, NATURE, V435, P814, DOI 10.1038/nature03607
+   Pastur LA., 1967, MATH USSR SB, V1, P457, DOI [10.1070/SM1967v001n04ABEH001994, DOI 10.1070/SM1967V001N04ABEH001994]
+   Plerou V, 2002, PHYS REV E, V65, DOI 10.1103/PhysRevE.65.066126
+   Plerou V, 1999, PHYS REV LETT, V83, P1471, DOI 10.1103/PhysRevLett.83.1471
+   Plerou V, 2000, PHYSICA A, V287, P374, DOI 10.1016/S0378-4371(00)00376-9
+   Radicchi F, 2004, P NATL ACAD SCI USA, V101, P2658, DOI 10.1073/pnas.0400054101
+   Reichardt J, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.218701
+   Rheingold H., 1993, VIRTUAL COMMUNITY HO
+   Rodgers GJ, 2005, J PHYS A-MATH GEN, V38, P9431, DOI 10.1088/0305-4470/38/43/003
+   RODGERS GJ, 1988, PHYS REV B, V37, P3557, DOI 10.1103/PhysRevB.37.3557
+   Rogers T, 2008, PHYS REV E, V78, DOI 10.1103/PhysRevE.78.031116
+   Sawardecker EN, 2009, EUR PHYS J B, V72, P671, DOI 10.1140/epjb/e2009-00397-6
+   SCOTT J, 1988, SOCIOLOGY, V22, P109, DOI 10.1177/0038038588022001007
+   Semerjian G, 2002, J PHYS A-MATH GEN, V35, P4837, DOI 10.1088/0305-4470/35/23/303
+   Simonsen I, 2004, PHYSICA A, V336, P163, DOI 10.1016/j.physa.2004.01.021
+   Slanina F, 2005, ACTA PHYS POL B, V36, P2797
+   STAR SL, 1989, SOC STUD SCI, V19, P387, DOI 10.1177/030631289019003001
+   Strogatz SH, 2001, NATURE, V410, P268, DOI 10.1038/35065725
+   Tibély G, 2006, PHYSICA A, V370, P145, DOI 10.1016/j.physa.2006.04.042
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   Wellman B, 1996, ANNU REV SOCIOL, V22, P213, DOI 10.1146/annurev.soc.22.1.213
+   Wittel A, 2001, THEOR CULT SOC, V18, P51, DOI 10.1177/02632760122052048
+   Woolgar S, 2004, NETWORK SOCIETY: A CROSS-CULTURAL PERSPECTIVE, P125
+   Zhao FC, 2005, PHYS REV E, V72, DOI 10.1103/PhysRevE.72.046119
+   Zhou T, 2007, PHYS REV E, V76, DOI 10.1103/PhysRevE.76.046115
+NR 94
+TC 9
+Z9 10
+U1 0
+U2 11
+PU WORLD SCIENTIFIC PUBL CO PTE LTD
+PI SINGAPORE
+PA 5 TOH TUCK LINK, SINGAPORE 596224, SINGAPORE
+SN 0219-5259
+EI 1793-6802
+J9 ADV COMPLEX SYST
+JI Adv. Complex Syst.
+PD DEC
+PY 2010
+VL 13
+IS 6
+BP 699
+EP 723
+DI 10.1142/S0219525910002840
+PG 25
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Science & Technology - Other Topics
+GA 685SG
+UT WOS:000284647800001
+OA Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Wu, B
+   Zhou, D
+   Fu, F
+   Luo, QJ
+   Wang, L
+   Traulsen, A
+AF Wu, Bin
+   Zhou, Da
+   Fu, Feng
+   Luo, Qingjun
+   Wang, Long
+   Traulsen, Arne
+TI Evolution of Cooperation on Stochastic Dynamical Networks
+SO PLOS ONE
+LA English
+DT Article
+ID DIRECT RECIPROCITY; PRISONERS-DILEMMA; GAMES; INDIVIDUALS; BEHAVIOR
+AB Cooperative behavior that increases the fitness of others at a cost to oneself can be promoted by natural selection only in the presence of an additional mechanism. One such mechanism is based on population structure, which can lead to clustering of cooperating agents. Recently, the focus has turned to complex dynamical population structures such as social networks, where the nodes represent individuals and links represent social relationships. We investigate how the dynamics of a social network can change the level of cooperation in the network. Individuals either update their strategies by imitating their partners or adjust their social ties. For the dynamics of the network structure, a random link is selected and breaks with a probability determined by the adjacent individuals. Once it is broken, a new one is established. This linking dynamics can be conveniently characterized by a Markov chain in the configuration space of an ever-changing network of interacting agents. Our model can be analytically solved provided the dynamics of links proceeds much faster than the dynamics of strategies. This leads to a simple rule for the evolution of cooperation: The more fragile links between cooperating players and non-cooperating players are (or the more robust links between cooperators are), the more likely cooperation prevails. Our approach may pave the way for analytically investigating coevolution of strategy and structure.
+C1 [Wu, Bin; Wang, Long] Peking Univ, Ctr Syst & Control, State Key Lab Turbulence & Complex Syst, Coll Engn, Beijing 100871, Peoples R China.
+   [Wu, Bin; Traulsen, Arne] Max Planck Inst Evolutionary Biol, Emmy Noether Grp Evolutionary Dynam, Plon, Germany.
+   [Zhou, Da] Peking Univ, Sch Math Sci, Beijing 100871, Peoples R China.
+   [Fu, Feng] Harvard Univ, Program Evolutionary Dynam, Cambridge, MA 02138 USA.
+   [Luo, Qingjun] Peking Univ, Sch Elect Engn & Comp Sci, Beijing 100871, Peoples R China.
+C3 Peking University; Max Planck Society; Peking University; Harvard
+   University; Peking University
+RP Wu, B (corresponding author), Peking Univ, Ctr Syst & Control, State Key Lab Turbulence & Complex Syst, Coll Engn, Beijing 100871, Peoples R China.
+EM bin.wu@evolbio.mpg.de
+RI Zhou, Da/CAI-5789-2022; Traulsen, Arne/A-4955-2009; Fu,
+   Feng/R-3686-2017; Wang, Long/A-7798-2010
+OI Fu, Feng/0000-0001-8252-1990; Zhou, Da/0000-0002-0272-6644; Wang,
+   Long/0000-0001-5600-8157
+FU China Scholarship Council [2009601286]; Natural Science Foundation of
+   China [10625101]; 973 Fund [2006CB805900]; National Natural Science
+   Foundation of China [10972002, 60736022]; Deutsche
+   Forschungsgemeinschaft
+FX B.W. gratefully acknowledges the financial support from China
+   Scholarship Council (2009601286). D.Z. acknowledges support by the
+   Natural Science Foundation of China (10625101) and 973 Fund
+   (2006CB805900). L.W. acknowledges support by the National Natural
+   Science Foundation of China (10972002 and 60736022). A.T. acknowledges
+   support by the Emmy-Noether program of the Deutsche
+   Forschungsgemeinschaft. The funders had no role in study design, data
+   collection and analysis, decision to publish, or preparation of the
+   manuscript.
+CR [Anonymous], PHYS REV LETT
+   [Anonymous], 1960, A First Course in Stochastic Process
+   Axelrod R., 1984, EVOLUTION COOPERATIO
+   Bala V, 2001, ECON THEOR, V17, P101, DOI 10.1007/PL00004094
+   Biely C, 2007, PHYSICA D, V228, P40, DOI 10.1016/j.physd.2007.02.004
+   BLUME LE, 1993, GAME ECON BEHAV, V5, P387, DOI 10.1006/game.1993.1023
+   Bshary R, 2005, BIOL LETTERS, V1, P396, DOI 10.1098/rsbl.2005.0344
+   Chen XJ, 2008, PHYSICA A, V387, P5609, DOI 10.1016/j.physa.2008.05.043
+   DO AL, 2009, NEW J PHYS IN PRESS
+   EBEL H, 2002, CONDMAT0211666
+   Fu F, 2008, PHYS REV E, V78, DOI 10.1103/PhysRevE.78.016104
+   Gross T, 2008, J R SOC INTERFACE, V5, P259, DOI 10.1098/rsif.2007.1229
+   HAMILTON WD, 1964, J THEOR BIOL, V7, P1, DOI [10.1016/0022-5193(64)90038-4, 10.1016/0022-5193(64)90039-6]
+   Hanaki N, 2007, MANAGE SCI, V53, P1036, DOI 10.1287/mnsc.1060.0625
+   Helbing D, 2009, P NATL ACAD SCI USA, V106, P3680, DOI 10.1073/pnas.0811503106
+   Levin SA, 2009, SPRINGER SER GAME TH, P1, DOI 10.1007/978-3-540-85436-4
+   LINDGREN K, 1994, PHYSICA D, V75, P292, DOI 10.1016/0167-2789(94)90289-5
+   Maynard Smith J., 1982, pi
+   NASH JF, 1950, P NATL ACAD SCI USA, V36, P48, DOI 10.1073/pnas.36.1.48
+   Nowak MA, 2005, NATURE, V437, P1291, DOI 10.1038/nature04131
+   NOWAK MA, 1992, NATURE, V359, P826, DOI 10.1038/359826a0
+   Nowak MA., 2006, EVOLUTIONARY DYNAMIC, DOI [10.1086/523139, DOI 10.2307/J.CTVJGHW98, 10.2307/j.ctvjghw98]
+   Nowak MA, 2006, SCIENCE, V314, P1560, DOI 10.1126/science.1133755
+   Nowak MA, 2010, PHILOS T R SOC B, V365, P19, DOI 10.1098/rstb.2009.0215
+   Ohtsuki H, 2007, J THEOR BIOL, V247, P462, DOI 10.1016/j.jtbi.2007.03.018
+   Ohtsuki H, 2006, NATURE, V441, P502, DOI 10.1038/nature04605
+   Pacheco JM, 2008, J THEOR BIOL, V250, P723, DOI 10.1016/j.jtbi.2007.10.040
+   Pacheco JM, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.258103
+   Pacheco JM, 2006, J THEOR BIOL, V243, P437, DOI 10.1016/j.jtbi.2006.06.027
+   Perc M, 2007, PHYS REV E, V75, DOI 10.1103/PhysRevE.75.022101
+   Perc M, 2010, BIOSYSTEMS, V99, P109, DOI 10.1016/j.biosystems.2009.10.003
+   Poncela J, 2009, NEW J PHYS, V11, DOI 10.1088/1367-2630/11/8/083031
+   Santos FC, 2005, PHYS REV LETT, V95, DOI 10.1103/PhysRevLett.95.098104
+   Santos FC, 2006, P NATL ACAD SCI USA, V103, P3490, DOI 10.1073/pnas.0508201103
+   Santos FC, 2006, PLOS COMPUT BIOL, V2, P1284, DOI 10.1371/journal.pcbi.0020140
+   Sigmund K., 2010, CALCULUS SELFISHNESS
+   Sigmund K., 1998, EVOLUTIONARY GAMES P, DOI DOI 10.1017/CBO9781139173179
+   Skyrms B, 2000, P NATL ACAD SCI USA, V97, P9340, DOI 10.1073/pnas.97.16.9340
+   Szabó G, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.118101
+   Szabo G, 1998, PHYS REV E, V58, P69, DOI 10.1103/PhysRevE.58.69
+   Szabó G, 2007, PHYS REP, V446, P97, DOI 10.1016/j.physrep.2007.04.004
+   Taylor C, 2007, EVOLUTION, V61, P2281, DOI 10.1111/j.1558-5646.2007.00196.x
+   Tomassini M, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.016132
+   Traulsen A, 2006, PHYS REV E, V74, DOI 10.1103/PhysRevE.74.011909
+   Traulsen A, 2010, EVOLUTION, V64, P316, DOI 10.1111/j.1558-5646.2009.00899.x
+   TRIVERS RL, 1971, Q REV BIOL, V46, P35, DOI 10.1086/406755
+   Van Segbroeck S, 2008, BMC EVOL BIOL, V8, DOI 10.1186/1471-2148-8-287
+   Wedekind C, 2000, SCIENCE, V288, P850, DOI 10.1126/science.288.5467.850
+   Wilson DS, 2007, Q REV BIOL, V82, P327, DOI 10.1086/522809
+   WILSON DS, 1975, P NATL ACAD SCI USA, V72, P143, DOI 10.1073/pnas.72.1.143
+   Zimmermann MG, 2005, PHYS REV E, V72, DOI 10.1103/PhysRevE.72.056118
+   ZSCHALER G, 2009, ARXIV09100940
+NR 52
+TC 156
+Z9 174
+U1 4
+U2 53
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JUN 30
+PY 2010
+VL 5
+IS 6
+AR e11187
+DI 10.1371/journal.pone.0011187
+PG 7
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 618QE
+UT WOS:000279370000003
+PM 20614025
+OA Green Published, gold, Green Submitted
+DA 2024-11-22
+ER

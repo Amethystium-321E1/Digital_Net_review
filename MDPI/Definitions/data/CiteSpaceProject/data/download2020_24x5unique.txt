@@ -1,0 +1,536 @@
+
+PT J
+AU Wang, YC
+   Wang, Y
+   Lin, XY
+   Wang, W
+AF Wang, Yongcheng
+   Wang, Yu
+   Lin, Xinye
+   Wang, Wei
+TI The Influence of Network Structural Preference on Link Prediction
+SO DISCRETE DYNAMICS IN NATURE AND SOCIETY
+LA English
+DT Article
+AB Link prediction in complex networks predicts the possibility of link generation between two nodes that have not been linked yet in the network, based on known network structure and attributes. It can be applied in various fields, such as friend recommendation in social networks and prediction of protein-protein interaction in biology. However, in the social network, link prediction may raise concerns about privacy and security, because, through link prediction algorithms, criminals can predict the friends of an account user and may even further discover private information such as the address and bank accounts. Therefore, it is urgent to develop a strategy to prevent being identified by link prediction algorithms and protect privacy, utilizing perturbation on network structure at a low cost, including changing and adding edges. This article mainly focuses on the influence of network structural preference perturbation through deletion on link prediction. According to a large number of experiments on the various real networks, edges between large-small degree nodes and medium-medium degree nodes have the most significant impact on the quality of link prediction.
+C1 [Wang, Yongcheng; Wang, Yu; Lin, Xinye] Natl Key Lab Sci & Technol Blind Signal Proc, Chengdu 610041, Peoples R China.
+   [Wang, Wei] Sichuan Univ, Cybersecur Res Inst, Chengdu 610065, Peoples R China.
+C3 Sichuan University
+RP Wang, W (corresponding author), Sichuan Univ, Cybersecur Res Inst, Chengdu 610065, Peoples R China.
+EM wwzqbx@hotmail.com
+RI Wang, Yongcheng/HKF-8620-2023; Wang, Wei/A-1091-2016
+OI Wang, Wei/0000-0003-4088-5395
+FU National Natural Science Foundation of China [61903266]; China
+   Postdoctoral Science Foundation [2018M631073]; China Postdoctoral
+   Science Special Foundation [2019T120829]; Fundamental Research Funds for
+   the Central Universities; Sichuan Science and Technology Program
+   [20YYJC4001]
+FX This work was partially supported by the National Natural Science
+   Foundation of China (Grant no. 61903266), China Postdoctoral Science
+   Foundation (Grant no. 2018M631073), China Postdoctoral Science Special
+   Foundation (Grant no. 2019T120829), Fundamental Research Funds for the
+   Central Universities, and Sichuan Science and Technology Program (No.
+   20YYJC4001).
+CR Adamic LA, 2003, SOC NETWORKS, V25, P211, DOI 10.1016/S0378-8733(03)00009-1
+   Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   [Anonymous], 2008, Proceedings of the 14th ACM SIGKDD international conference on Knowledge discovery and data mining, DOI DOI 10.1145/1401890.1401925
+   Chen SY, 2002, BMC NEUROL, V2, DOI 10.1186/1471-2377-2-1
+   Chi K, 2019, KNOWL-BASED SYST, V181, DOI 10.1016/j.knosys.2019.05.035
+   Clauset A, 2008, NATURE, V453, P98, DOI 10.1038/nature06830
+   Duch J, 2005, PHYS REV E, V72, DOI 10.1103/PhysRevE.72.027104
+   Gao JX, 2012, NAT PHYS, V8, P40, DOI 10.1038/nphys2180
+   Gao J, 2011, PHYS REV LETT, V107, DOI 10.1103/PhysRevLett.107.092002
+   Gleiser PM, 2003, ADV COMPLEX SYST, V6, P565, DOI 10.1142/S0219525903001067
+   Granell C, 2013, PHYS REV LETT, V111, DOI 10.1103/PhysRevLett.111.128701
+   Han XH, 2017, IEEE T INF FOREN SEC, V12, P2242, DOI 10.1109/TIFS.2017.2704906
+   Lü LY, 2015, P NATL ACAD SCI USA, V112, P2325, DOI 10.1073/pnas.1424644112
+   Lü LY, 2011, PHYSICA A, V390, P1150, DOI 10.1016/j.physa.2010.11.027
+   Newman M., 2010, NETWORKS, DOI [DOI 10.1093/ACPROF:OSO/9780199206650.001.0001, 10.1093/acprof:oso/9780199206650.001.0001]
+   Newman MEJ, 2001, PHYS REV E, V64, DOI [10.1103/PhysRevE.64.016132, 10.1103/PhysRevE.64.016131]
+   Newman MEJ, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.208701
+   Ou Q, 2007, PHYS REV E, V75, DOI 10.1103/PhysRevE.75.021102
+   Takahata Y., 1991, P123
+   Tang R, 2020, KNOWL-BASED SYST, V194, DOI 10.1016/j.knosys.2020.105598
+   Taskar B, 2004, ADV NEUR IN, V16, P659
+   Wang W., COEVOLUTION SPREADIN
+   Wang W, 2016, SCI REP-UK, V6, DOI 10.1038/srep29259
+   Wang W, 2014, SCI REP-UK, V4, DOI 10.1038/srep05097
+   Wang Z, 2014, NEW J PHYS, V16, DOI 10.1088/1367-2630/16/3/033041
+   Wang Z, 2013, SCI REP-UK, V3, DOI 10.1038/srep01183
+   Waniek M, 2019, SCI REP-UK, V9, DOI 10.1038/s41598-019-48583-6
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Wu T, 2019, IEEE ACCESS, V7, P92119, DOI 10.1109/ACCESS.2019.2927002
+   Yin GS, 2017, PHYS LETT A, V381, P1349, DOI 10.1016/j.physleta.2017.01.059
+   Zhang XY, 2015, PHYS REV LETT, V114, DOI 10.1103/PhysRevLett.114.038701
+   Zhao ZY, 2019, KNOWL-BASED SYST, V163, P404, DOI 10.1016/j.knosys.2018.09.002
+NR 32
+TC 3
+Z9 3
+U1 0
+U2 15
+PU HINDAWI LTD
+PI LONDON
+PA ADAM HOUSE, 3RD FLR, 1 FITZROY SQ, LONDON, W1T 5HF, ENGLAND
+SN 1026-0226
+EI 1607-887X
+J9 DISCRETE DYN NAT SOC
+JI Discrete Dyn. Nat. Soc.
+PD SEP 26
+PY 2020
+VL 2020
+AR 6148273
+DI 10.1155/2020/6148273
+PG 9
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Mathematics; Science & Technology - Other Topics
+GA OB3OO
+UT WOS:000578382200002
+OA gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Pal, SK
+AF Pal, Sankar K.
+TI Granular Mining and Big Data Analytics: Rough Models and Challenges
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES INDIA SECTION A-PHYSICAL
+   SCIENCES
+LA English
+DT Review
+DE Granular computing; Fuzzy-rough sets; Data mining; Bioinformatics; Video
+   tracking; Social network analysis; Neural networks; z-Numbers;
+   Granulated deep learning
+ID SELF-ORGANIZING MAP; COMMUNITY STRUCTURE; MUTUAL INFORMATION; GENE
+   SELECTION; FUZZY; NETWORKS; ENTROPY; SETS; GENERATION; TRACKING
+AB Data analytics in granular computing framework is considered for several mining applications, such as in video analysis, bioinformatics and online social networks which have all the characteristics of Big data. The role of granulation, lower approximation and r-f information measure is exhibited. While the lower approximation over a video sequence signifies the object model for unsupervised tracking, it characterizes the probability (relative frequency) of definite regions in ranking miRNAs for normal and cancer classification. For neural learning, the information on definite region is used as the initial knowledge for encoding while generating the networks through evolution. Granules considered are of different sizes and dimensions with fuzzy and crisp boundaries. The tracking method is effective in handling different ambiguous situations, e.g., overlapping objects, newly appeared object(s), multiple objects in different directions and speeds, in unsupervised mode. The ranking algorithm could find only 1% miRNAs to result in significantly higher F-score than the entire set. Fuzzy-rough communities detected over the granular model of social networks are suitable in dealing with overlapping virtual communities in Big data. The knowledge encoding based on fuzzy-rough set provides superior performance than that of rough set. Future directions of research and challenges including the significance of z-numbers in precisiation of granules are stated. The article includes some of the results published elsewhere.
+C1 [Pal, Sankar K.] Indian Stat Inst, Ctr Soft Comp Res, Kolkata 700108, India.
+C3 Indian Statistical Institute; Indian Statistical Institute Kolkata
+RP Pal, SK (corresponding author), Indian Stat Inst, Ctr Soft Comp Res, Kolkata 700108, India.
+EM sankar@isical.ac.in
+FU DAE Raja Ramanna Fellowship of the Govt. of India; Sir J.C. Bose
+   Fellowship of the Govt. of India; INSA Distinguished Professorship Chair
+FX The author acknowledges the DAE Raja Ramanna Fellowship and Sir J.C.
+   Bose Fellowship of the Govt. of India. A part of the work was done while
+   he held an INSA Distinguished Professorship Chair.
+CR [Anonymous], VIDEO TRACKING OR
+   [Anonymous], THESIS
+   [Anonymous], THESIS
+   Arndt GM, 2009, BMC CANCER, V9, DOI 10.1186/1471-2407-9-374
+   Banerjee M, 1998, IEEE T NEURAL NETWOR, V9, P1203, DOI 10.1109/72.728363
+   Banerjee R, 2017, INFORM SCIENCES, V405, P227, DOI 10.1016/j.ins.2017.03.035
+   Banerjee R, 2015, INFORM SCIENCES, V323, P143, DOI 10.1016/j.ins.2015.06.026
+   BOORMAN SA, 1976, AM J SOCIOL, V81, P1384, DOI 10.1086/226228
+   Chakraborty D, 2013, APPL SOFT COMPUT, V13, P4001, DOI 10.1016/j.asoc.2012.09.003
+   Chakraborty DB, 2018, IEEE T FUZZY SYST, V26, P2188, DOI 10.1109/TFUZZ.2017.2768322
+   Chakraborty DB, 2016, NAT COMPUT, V15, P359, DOI 10.1007/s11047-015-9493-6
+   Chattopadhyay S, 2014, THEOR COMPUT SCI, V551, P22, DOI 10.1016/j.tcs.2014.05.003
+   Comaniciu D, 2003, IEEE T PATTERN ANAL, V25, P564, DOI 10.1109/TPAMI.2003.1195991
+   Cucchiara R, 2003, IEEE T PATTERN ANAL, V25, P1337, DOI 10.1109/TPAMI.2003.1233909
+   Dai SJ, 2008, FIFTH INTERNATIONAL CONFERENCE ON FUZZY SYSTEMS AND KNOWLEDGE DISCOVERY, VOL 2, PROCEEDINGS, P155, DOI 10.1109/FSKD.2008.127
+   Davis GB, 2008, SOC NETWORKS, V30, P201, DOI 10.1016/j.socnet.2008.03.001
+   Fang H, 2006, PATTERN RECOGN, V39, P2092, DOI 10.1016/j.patcog.2006.04.044
+   Ganivada A, 2013, NEURAL NETWORKS, V48, P91, DOI 10.1016/j.neunet.2013.07.008
+   Ganivada A, 2011, THEOR COMPUT SCI, V412, P5834, DOI 10.1016/j.tcs.2011.05.038
+   Ganivada A, 2012, THEOR COMPUT SCI, V466, P37, DOI 10.1016/j.tcs.2012.08.021
+   Girvan M, 2002, P NATL ACAD SCI USA, V99, P7821, DOI 10.1073/pnas.122653799
+   Huang CM, 2011, IEEE T SYST MAN CY B, V41, P234, DOI 10.1109/TSMCB.2010.2050878
+   Komorowski J., 1999, Rough Fuzzy Hybridization: A New Trend in Decision Making, P3
+   Kundu S, 2015, PATTERN RECOGN LETT, V67, P145, DOI 10.1016/j.patrec.2015.02.005
+   Kundu S, 2015, INFORM SCIENCES, V314, P100, DOI 10.1016/j.ins.2015.03.065
+   Leidinger P, 2010, BMC CANCER, V10, DOI 10.1186/1471-2407-10-262
+   Maddalena L, 2008, INT J PATTERN RECOGN, V22, P915, DOI 10.1142/S0218001408006612
+   Maji P, 2010, IEEE T SYST MAN CY B, V40, P741, DOI 10.1109/TSMCB.2009.2028433
+   Malliaros FD, 2013, PHYS REP, V533, P95, DOI 10.1016/j.physrep.2013.08.002
+   Mitra P, 2002, IEEE T PATTERN ANAL, V24, P301, DOI 10.1109/34.990133
+   Mundra PA, 2010, IEEE T NANOBIOSCI, V9, P31, DOI 10.1109/TNB.2009.2035284
+   Nawaz T, 2014, IEEE T IMAGE PROCESS, V23, P376, DOI 10.1109/TIP.2013.2288578
+   Pal JK, 2018, IEEE ACM T COMPUT BI, V15, P659, DOI 10.1109/TCBB.2016.2623605
+   Pal JK, 2017, COMPUT BIOL MED, V89, P540, DOI 10.1016/j.compbiomed.2017.08.013
+   Pal JK, 2016, MED BIOL ENG COMPUT, V54, P701, DOI 10.1007/s11517-015-1360-1
+   Pal S. K., 2012, IEEE INTELL INFORM B, P3
+   Pal SK, 2015, PATTERN RECOGN LETT, V67, P109, DOI 10.1016/j.patrec.2015.08.001
+   Pal SK, 2013, APPL SOFT COMPUT, V13, P3944, DOI 10.1016/j.asoc.2013.06.026
+   Pal SK, 2013, THEOR COMPUT SCI, V488, P2, DOI 10.1016/j.tcs.2012.12.034
+   Pal SK, 2012, PATTERN RECOGN, V45, P2690, DOI 10.1016/j.patcog.2011.12.027
+   Pal SK, 2017, IEEE T CYBERNETICS, V47, P4096, DOI 10.1109/TCYB.2016.2600271
+   Pal SankarK., 2012, Handbook on Soft Computing for Video Surveillance
+   Pal SK, 2004, APPL INTELL, V21, P289, DOI 10.1023/B:APIN.0000043561.99513.69
+   Pal SK, 2004, IEEE T KNOWL DATA EN, V16, P292, DOI 10.1109/TKDE.2003.1262181
+   Pal SK, 2017, Granular neural networks, pattern recognition and bioinformatics
+   Palla G, 2005, NATURE, V435, P814, DOI 10.1038/nature03607
+   Pan P, 2011, IEEE T IMAGE PROCESS, V20, P1641, DOI 10.1109/TIP.2010.2095022
+   Pawlak Z, 2005, LECT NOTES COMPUT SC, V3400, P1
+   PAWLAK Z, 1982, INT J COMPUT INF SCI, V11, P341, DOI 10.1007/BF01001956
+   Pawlak Z., 1991, ROUGH SETS THEORETIC, DOI 10.1007/978-94-011-3534-4
+   Pawlak Z, 2007, INFORM SCIENCES, V177, P3, DOI 10.1016/j.ins.2006.06.003
+   Pedrycz W., 2001, GRANULAR COMPUTING E
+   Peng HC, 2005, IEEE T PATTERN ANAL, V27, P1226, DOI 10.1109/TPAMI.2005.159
+   Polkowski L, 1998, 1998 IEEE INTERNATIONAL CONFERENCE ON FUZZY SYSTEMS AT THE IEEE WORLD CONGRESS ON COMPUTATIONAL INTELLIGENCE - PROCEEDINGS, VOL 1-2, P111, DOI 10.1109/FUZZY.1998.687468
+   Qian YH, 2010, INFORM SCIENCES, V180, P949, DOI 10.1016/j.ins.2009.11.023
+   Ray SS, 2016, IEEE T NEUR NET LEAR, V27, P1890, DOI 10.1109/TNNLS.2015.2460994
+   Sehhati M, 2015, IEEE ACM T COMPUT BI, V12, P1440, DOI 10.1109/TCBB.2015.2407407
+   Sen D, 2009, IEEE T SYST MAN CY B, V39, P117, DOI 10.1109/TSMCB.2008.2005527
+   Shen CH, 2010, IEEE T CIRC SYST VID, V20, P119, DOI 10.1109/TCSVT.2009.2031393
+   Weiss RS, 1955, AM SOCIOL REV, V20, P661, DOI 10.2307/2088670
+   Yao JT, 2013, IEEE T CYBERNETICS, V43, P1977, DOI 10.1109/TSMCC.2012.2236648
+   Yeung DS, 2005, IEEE T FUZZY SYST, V13, P343, DOI 10.1109/TFUZZ.2004.841734
+   Yilmaz A, 2006, ACM COMPUT SURV, V38, DOI 10.1145/1177352.1177355
+   Yu L, 2012, IEEE ACM T COMPUT BI, V9, P262, DOI 10.1109/TCBB.2011.47
+   Zadeh LA, 1997, FUZZY SET SYST, V90, P111, DOI 10.1016/S0165-0114(97)00077-8
+   Zadeh LA, 1996, IEEE T FUZZY SYST, V4, P103, DOI 10.1109/91.493904
+   Zadeh LA, 2001, AI MAG, V22, P73
+   ZADEH LA, 1965, INFORM CONTROL, V8, P338, DOI 10.1016/S0019-9958(65)90241-X
+   Zadeh LA, 2011, INFORM SCIENCES, V181, P2923, DOI 10.1016/j.ins.2011.02.022
+   Zhang KH, 2014, IEEE T PATTERN ANAL, V36, P2002, DOI 10.1109/TPAMI.2014.2315808
+   Zhang YQ, 2008, IEEE T FUZZY SYST, V16, P309, DOI 10.1109/TFUZZ.2007.895975
+   Zhu W, 2007, IEEE T KNOWL DATA EN, V19, P1131, DOI 10.1109/TKDE.2007.1044
+NR 72
+TC 4
+Z9 4
+U1 1
+U2 30
+PU NATL ACAD SCIENCES INDIA
+PI ALLAHABAD
+PA 5 LAJPATRAI RD, ALLAHABAD 211002, INDIA
+SN 0369-8203
+EI 2250-1762
+J9 P NATL A SCI INDIA A
+JI Proc. Nat. Acad. Sci. India A
+PD JUN
+PY 2020
+VL 90
+IS 2
+BP 193
+EP 208
+DI 10.1007/s40010-018-0578-3
+PG 16
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA LR9PV
+UT WOS:000536028000001
+DA 2024-11-22
+ER
+
+PT J
+AU Geissler, KH
+   Lubin, B
+   Ericson, KMM
+AF Geissler, Kimberley H.
+   Lubin, Benjamin
+   Ericson, Keith M. Marzilli
+TI The association between patient sharing network structure and healthcare
+   costs
+SO PLOS ONE
+LA English
+DT Article
+ID PHYSICIAN SOCIAL NETWORKS; COORDINATION; COHESION
+AB Study question While physician relationships (measured through shared patients) are associated with clinical and utilization outcomes, the extent to which this is driven by local or global network characteristics is not well established. The objective of this research is to examine the association between local and global network statistics with total medical spending and utilization. Data source Data used are the 2011 Massachusetts All Payer Claims Database. Study design The association between network statistics and total medical spending and utilization (using standardized prices) is estimated using multivariate regression analysis controlling for patient demographics and health status. Data collection We limit the sample to continuously enrolled commercially insured patients in Massachusetts in 2011. Principal findings Mean patient age was 45 years, and 56.3% of patients were female. 73.4% were covered by a health maintenance organization. Average number of visits was 5.43, with average total medical spending of $4,911 and total medical utilization of $4,252. Spending was lower for patients treated by physicians with higher degree (p<0.001), eigenvector centrality (p<0.001), clustering coefficient (p<0.001), and measures reflecting the normalized degree (p<0.001) and eigenvector centrality (p<0.001) of specialists connected to a patient's PCP. Spending was higher for patients treated by physicians with higher normalized degree, which accounts for physician specialty and patient panel size (p<0.001). Results were similar for utilization outcomes, although magnitudes differed indicating patients may see different priced physicians. Conclusions Generally, higher values of network statistics reflecting local connectivity adjusted for physician characteristics are associated with increased costs and utilization, while higher values of network statistics reflecting global connectivity are associated with decreased costs and utilization. As changes in the financing and delivery system advance through policy changes and healthcare consolidation, future research should examine mechanisms through which this structure impacts outcomes and potential policy responses to determine ways to reduce costs while maintaining quality and coordination of care. What this study adds It is unknown whether local and global measures of physician network connectivity associated with spending and utilization for commercially insured patients? In this social network analysis, we found generally higher values of network statistics reflecting local connectivity are associated with increased costs and utilization, while higher values of network statistics reflecting global connectivity are associated with decreased costs and utilization. Understanding how to influence local and global physician network characteristics may be important for reducing costs while maintaining quality.
+C1 [Geissler, Kimberley H.] Univ Massachusetts, Sch Publ Hlth & Hlth Sci, Dept Hlth Promot & Policy, Amherst, MA 01003 USA.
+   [Lubin, Benjamin; Ericson, Keith M. Marzilli] Boston Univ, Questrom Sch Business, Informat Syst, Boston, MA 02215 USA.
+   [Ericson, Keith M. Marzilli] Univ Southern Calif, Keck Sch Med, Gehr Ctr Hlth Syst Sci, Los Angeles, CA 90007 USA.
+C3 University of Massachusetts System; University of Massachusetts Amherst;
+   Boston University; University of Southern California
+RP Geissler, KH (corresponding author), Univ Massachusetts, Sch Publ Hlth & Hlth Sci, Dept Hlth Promot & Policy, Amherst, MA 01003 USA.
+EM kgeissler@umass.edu
+RI Ericson, Keith/KHY-5609-2024
+FU National Institute for Health Care Management (NIHCM)
+FX This research was supported by a research grant from the National
+   Institute for Health Care Management (NIHCM). The funders had no role in
+   study design, data collection and analysis, decision to publish, or
+   preparation of the manuscript.
+CR Agha L., 2019, TEAM FORMATION PERFO
+   Altalib HH, 2017, EPILEPSY BEHAV, V73, P31, DOI 10.1016/j.yebeh.2017.05.026
+   An CK, 2018, STAT MED, V37, P847, DOI 10.1002/sim.7565
+   [Anonymous], P 19 INT C WORLD WID
+   Bae SH, 2015, NURS OUTLOOK, V63, P566, DOI 10.1016/j.outlook.2015.05.006
+   Barnett ML, 2019, J GEN INTERN MED, V34, P1952, DOI 10.1007/s11606-019-05264-4
+   Barnett ML, 2012, ARCH INTERN MED, V172, P163, DOI 10.1001/archinternmed.2011.722
+   Barnett ML, 2012, MED CARE, V50, P152, DOI 10.1097/MLR.0b013e31822dcef7
+   Barnett ML, 2011, HEALTH SERV RES, V46, P1592, DOI 10.1111/j.1475-6773.2011.01262.x
+   Borgatti SP, 2005, SOC NETWORKS, V27, P55, DOI 10.1016/j.socnet.2004.11.008
+   Brunson JC, 2018, J AM MED INFORM ASSN, V25, P210, DOI 10.1093/jamia/ocx052
+   Center for Health Information and Analysis, 2013, ALL PAYER CLAIMS DAT
+   Cooper Z, 2019, Q J ECON, V134, P51, DOI 10.1093/qje/qjy020
+   Craig SV, 2018, NATL BUREAU EC RES W
+   Csardi Gabor NT., 2005, INT J COMPLEX SYST, V2006, P1695, DOI DOI 10.3724/SP.J.1087.2009.02191
+   DuGoff EH, 2018, MED CARE RES REV, V75, P586, DOI 10.1177/1077558717697016
+   DuGoff EH, 2018, TRANSL BEHAV MED, V8, P598, DOI 10.1093/tbm/ibx015
+   Ericson K., 2019, AM J HEALTH ECON, V4, P454
+   GALBRAITH JR, 1974, INTERFACES, V4, P28, DOI 10.1287/inte.4.3.28
+   Geissler K., 2019, ASS INSURANCE PLAN C
+   Geissler KH, 2020, PSYCHIAT SERV, V71, P389, DOI 10.1176/appi.ps.201900004
+   Geissler KH, 2020, HEALTH SERV RES, V55, P94, DOI 10.1111/1475-6773.13244
+   Geissler KH, 2020, MED CARE RES REV, V77, P165, DOI 10.1177/1077558718769403
+   Geissler KH, 2016, MED CARE, V54, P350, DOI 10.1097/MLR.0000000000000488
+   Ghomrawi HMK, 2018, PLOS ONE, V13, DOI 10.1371/journal.pone.0193014
+   Hollingsworth JM, 2016, CIRC-CARDIOVASC QUAL, V9, P641, DOI 10.1161/CIRCOUTCOMES.116.002714
+   Hollingsworth JM, 2015, MED CARE, V53, P160, DOI 10.1097/MLR.0000000000000291
+   Jackson MO, 2008, SOCIAL AND ECONOMIC NETWORKS, P1
+   Kilian Reinhold, 2002, J Ment Health Policy Econ, V5, P21
+   Kuo YF, 2019, MED CARE, V57, P905, DOI 10.1097/MLR.0000000000001201
+   Landon BE, 2018, JAMA INTERN MED, V178, P66, DOI 10.1001/jamainternmed.2017.5034
+   Landon BE, 2013, MED CARE, V51, P715, DOI 10.1097/MLR.0b013e3182977991
+   Landon BE, 2012, JAMA-J AM MED ASSOC, V308, P265, DOI 10.1001/jama.2012.7615
+   Mandl KD, 2014, J GEN INTERN MED, V29, P1499, DOI 10.1007/s11606-014-2964-0
+   Massachusetts Health Connector, 2014, COMM MASS NOT BEN PA
+   McClellan M, 2010, HEALTH AFFAIR, V29, P982, DOI 10.1377/hlthaff.2010.0194
+   Milstein A, 2009, HEALTH AFFAIR, V28, P1317, DOI 10.1377/hlthaff.28.5.1317
+   Ong MS, 2016, J GEN INTERN MED, V31, P164, DOI 10.1007/s11606-015-3470-8
+   OREILLY CA, 1982, ACAD MANAGE J, V25, P756, DOI 10.5465/256097
+   Pollack CE, 2013, J GEN INTERN MED, V28, P459, DOI 10.1007/s11606-012-2104-7
+   Pollack CE, 2012, HEALTH SERV RES, V47, P380, DOI 10.1111/j.1475-6773.2011.01331.x
+   Rathi VK, 2019, JAMA-J AM MED ASSOC, V321, P1157, DOI 10.1001/jama.2019.1295
+   Reagans R, 2003, ADMIN SCI QUART, V48, P240, DOI 10.2307/3556658
+   Seifert R W., 2018, What to know about ACOs: An introduction to MassHealth accountable care organizations
+   Shi YR, 2019, MED CARE, V57, P460, DOI 10.1097/MLR.0000000000001123
+   Shoham DA, 2015, J BURN CARE RES, V36, P551, DOI 10.1097/BCR.0000000000000218
+   Trogdon JG, 2019, J GEN INTERN MED, V34, P2014, DOI 10.1007/s11606-019-04978-9
+   Tushman M.L., 1978, Academy of Management Review, V3, P613, DOI [10.2307/257550, DOI 10.5465/AMR.1978.4305791, DOI 10.2307/257550]
+NR 48
+TC 10
+Z9 13
+U1 0
+U2 5
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JUN 22
+PY 2020
+VL 15
+IS 6
+AR e0234990
+DI 10.1371/journal.pone.0234990
+PG 13
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA MC8RX
+UT WOS:000543547900007
+PM 32569294
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Wang, WX
+   Chen, XS
+   Jiang, SY
+   Wang, HZ
+   Yin, MY
+   Wang, PM
+AF Wang, Wenxian
+   Chen, Xingshu
+   Jiang, Shuyu
+   Wang, Haizhou
+   Yin, Mingyong
+   Wang, Peiming
+TI Exploring the construction and infiltration strategies of social bots in
+   sina microblog
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID TWITTER
+AB Nowadays, millions of people use Online Social Networks (OSNs) like Twitter, Facebook and Sina Microblog, to express opinions on current events. The widespread use of these OSNs has also led to the emergence of social bots. What is more, the existence of social bots is so powerful that some of them can turn into influential users. In this paper, we studied the automated construction technology and infiltration strategies of social bots in Sina Microblog, aiming at building friendly and influential social bots to resist malicious interpretations. Firstly, we studied the critical technology of Sina Microblog data collection, which indicates that the defense mechanism of that is vulnerable. Then, we constructed 96 social bots in Sina Microblog and researched the influence of different infiltration strategies, like different attribute settings and various types of interactions. Finally, our social bots gained 5546 followers in the 42-day infiltration period with a 100% survival rate. The results show that the infiltration strategies we proposed are effective and can help social bots escape detection of Sina Microblog defense mechanism as well. The study in this paper sounds an alarm for Sina Microblog defense mechanism and provides a valuable reference for social bots detection.
+C1 [Wang, Wenxian; Chen, Xingshu; Jiang, Shuyu; Wang, Haizhou] Sichuan Univ, Coll Cybersecur, Chengdu, Peoples R China.
+   [Wang, Wenxian; Chen, Xingshu; Wang, Haizhou; Yin, Mingyong; Wang, Peiming] Sichuan Univ, Cybersecur Res Inst, Chengdu, Peoples R China.
+   [Yin, Mingyong] Sichuan Univ, Coll Comp Sci, Chengdu, Peoples R China.
+C3 Sichuan University; Sichuan University; Sichuan University
+RP Jiang, SY (corresponding author), Sichuan Univ, Coll Cybersecur, Chengdu, Peoples R China.
+EM shuyu_jiang@stu.scu.edu.cn
+RI Wang, Wenxian/P-8723-2018
+FU National Natural Science Foundation of China (NSFC) [81602935, 81773548,
+   61802270, 61802271, U19A2081]; Fundamental Research Funds for the
+   Central Universities [SCU2018D018, SCU2018D022, SCU2020D038]
+FX This work was financially supported in part by a program of National
+   Natural Science Foundation of China (NSFC) (Grant Nos. 81602935,
+   81773548, 61802270, 61802271 and U19A2081) and in part by the
+   Fundamental Research Funds for the Central Universities (Grant Nos.
+   SCU2018D018, SCU2018D022 and SCU2020D038). The authors would like to
+   thank the editors and anonymous reviewers for their valuable suggestions
+   which considerably helped them to enhance this paper.
+CR Abd El Hafeez T, P INT C ART INT COMP, V1153, P247
+   [Anonymous], 2014, THESIS
+   [Anonymous], 2019, SINA MICROBLOG RUMOR
+   Bilge T., 2009, P 18 INT C WORLD WID, P551, DOI DOI 10.1145/1526709.1526784
+   Bo W, 2016, THESIS
+   Bolsover Gillian, 2019, Information, Communication & Society, V22, P2063, DOI 10.1080/1369118X.2018.1476576
+   Boshmaf Y, 2011, 27TH ANNUAL COMPUTER SECURITY APPLICATIONS CONFERENCE (ACSAC 2011), P93
+   Boshmaf Y, 2013, COMPUT NETW, V57, P556, DOI 10.1016/j.comnet.2012.06.006
+   Bradshaw S., 2017, TROOPS TROLLS TROUBL
+   Cha M., 2010, ICWSM, V10, P10, DOI DOI 10.1609/ICWSM.V4I1.14033
+   Claudia WagnerSilvia Mitter., 2012, P 21TH INT C WORLD W, P41
+   Coburn Z., BELIEVABLE TWITTER B
+   Collins B, 2017, DAILY BEAST, V17, P186
+   Davis CA, 2016, PROCEEDINGS OF THE 25TH INTERNATIONAL CONFERENCE ON WORLD WIDE WEB (WWW'16 COMPANION), P273, DOI 10.1145/2872518.2889302
+   Elishar A, 2012, PROCEEDINGS OF THE 2012 ASE INTERNATIONAL CONFERENCE ON SOCIAL INFORMATICS (SOCIALINFORMATICS 2012), P7, DOI 10.1109/SocialInformatics.2012.39
+   Elyashar A, 2016, AI COMMUN, V29, P87, DOI 10.3233/AIC-140650
+   Fazil M, 2017, 2017 IEEE/WIC/ACM INTERNATIONAL CONFERENCE ON WEB INTELLIGENCE (WI 2017), P573, DOI 10.1145/3106426.3106483
+   Fazil M, 2017, INT CONF COMMUN SYST, P564, DOI 10.1109/COMSNETS.2017.7945454
+   Ferrara E, 2016, First Monday, V21, P1, DOI 10.5210/fm.v21i11.7090
+   Ferrara E, 2016, COMMUN ACM, V59, P96, DOI 10.1145/2818717
+   Freitas C, 2015, PROCEEDINGS OF THE 2015 IEEE/ACM INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING (ASONAM 2015), P25, DOI 10.1145/2808797.2809292
+   Heartfield R, 2016, IEEE ACCESS, V4, DOI 10.1109/ACCESS.2016.2616285
+   Hinton G., 2015, DISTILLING KNOWLEDGE
+   Howard Philip N, 2016, Computational Propaganda Project: Working Paper Series
+   Huber Markus, 2009, 2009 International Conference on Computational Science and Engineering (CSE), P117, DOI 10.1109/CSE.2009.205
+   Hui L, WEIBO REPORTS ROBUST
+   Karpathy A., 2015, The unreasonable effectiveness of recurrent neural networks
+   Li QZ, 2019, 57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019), P1173
+   Liu T, 2016, MULTIMEDIA SYST, V22, P17, DOI 10.1007/s00530-014-0374-0
+   Messias J., 2013, 1 MONDAY, V18
+   Moghaddam S. H., 2019, ARXIV190306827
+   Nichols J, 2007, CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, VOLS 1 AND 2, P1283
+   Ping H, 2018, 2018 IEEE 18TH INTERNATIONAL CONFERENCE ON COMMUNICATION TECHNOLOGY (ICCT), P1435, DOI 10.1109/ICCT.2018.8600029
+   Rodríguez CP, 2020, INT MULTIDISCIP J SO, V9, P107, DOI 10.17583/rimcis.2020.5386
+   Riquelme F, 2016, INFORM PROCESS MANAG, V52, P949, DOI 10.1016/j.ipm.2016.04.003
+   Savvopoulos A, 2018, 2018 IEEE/ACM INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING (ASONAM), P190, DOI 10.1109/ASONAM.2018.8508786
+   Schmidt A., 2017, P 5 INT WORKSH NAT L, P1, DOI [DOI 10.18653/V1/W17-1101, 10.18653/v1/W17-1101]
+   Shafahi M, 2016, 2016 IEEE INTERNATIONAL CONFERENCE ON BIG DATA (BIG DATA), P3703, DOI 10.1109/BigData.2016.7841038
+   Shao CC, 2018, NAT COMMUN, V9, DOI 10.1038/s41467-018-06930-7
+   Sheng S, 2010, CHI2010: PROCEEDINGS OF THE 28TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, VOLS 1-4, P373
+   Shuang Z, 2017, CHINA INF SECUR, V2017, P88
+   Stella M, 2018, P NATL ACAD SCI USA, V115, P12435, DOI 10.1073/pnas.1803470115
+   Subrahmanian VS, 2016, COMPUTER, V49, P38, DOI 10.1109/MC.2016.183
+   Valkanas G, 2014, LECT NOTES COMPUT SC, V8787, P178, DOI 10.1007/978-3-319-11746-1_13
+   Varol O, 2020, J COMPUT SOC SCI, V3, P83, DOI 10.1007/s42001-019-00056-6
+   Varol Onur, 2017, 11 INT AAAI C WEB SO
+   Wald Randall, 2013, 2013 IEEE 14th International Conference on Information Reuse & Integration (IRI), P6, DOI 10.1109/IRI.2013.6642447
+   Wang BH, 2017, IEEE DATA MINING, P465, DOI 10.1109/ICDM.2017.56
+   Wang HY, 2018, INFORM COMMUN SOC, V21, P516, DOI 10.1080/1369118X.2017.1289234
+   Wang J, 2018, ADV SOC SCI EDUC HUM, V196, P214
+   [王培名 Wang Peiming], 2019, [山东大学学报. 理学版, Journal of Shandong University. Natural Science], V54, P28
+   Wang YH, 2018, L N INST COMP SCI SO, V255, P63, DOI 10.1007/978-3-030-01704-0_4
+   Woolley Samuel C., 2016, First Monday, V21, DOI 10.5210/fm.v21i4.6161
+   [熊凯 Xiong Kai], 2014, [中国科学院大学学报, Journal of University of Chinese Academy of Sciences], V31, P548
+   Yang KC, 2019, HUM BEHAV EMERG TECH, V1, P48, DOI 10.1002/hbe2.115
+   Yin CX, 2020, INFORM PROCESS MANAG, V57, DOI 10.1016/j.ipm.2019.102106
+   [尹涛 Yin Tao], 2017, [通信学报, Journal on Communications], V38, P097
+   [章晋英 Zhang Jinying], 2013, [火工品, Initiators & Pyrotechnics], P46
+   [张绍武 Zhang Shaowu], 2015, [中文信息学报, Journal of Chinese Information Processing], V29, P59
+NR 59
+TC 8
+Z9 9
+U1 5
+U2 35
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD NOV 13
+PY 2020
+VL 10
+IS 1
+AR 19821
+DI 10.1038/s41598-020-76814-8
+PG 19
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA OZ0TK
+UT WOS:000594649000005
+PM 33188231
+OA gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Ghazzali, R
+   El Bhih, A
+   Laaroussi, AE
+   Rachik, M
+AF Ghazzali, Rachid
+   El Bhih, Amine
+   El Alami Laaroussi, Adil
+   Rachik, Mostafa
+TI Modeling a Rumor Propagation in Online Social Network: An Optimal
+   Control Approach
+SO DISCRETE DYNAMICS IN NATURE AND SOCIETY
+LA English
+DT Article
+ID SPREADING MODEL; TRANSMISSION
+AB We propose to model the phenomenon of the spread of a rumor in social networks in this paper. From an existingSIRmodel, we manipulate a new one that is based on the model of cholera in order to take into account professional pages that specialize in spreading rumors. In the second part, we introduce a control strategy to fight against the diffusion of the rumor. Our main objective is to characterize the three optimal controls that minimize the number of spreader users, fake pages, and the corresponding costs. For that matter, using the maximum principle of Pontryagin, we prove the existence and we give characterization of our controls. Numerical simulations are given to concretize our approach.
+C1 [Ghazzali, Rachid; El Bhih, Amine; El Alami Laaroussi, Adil; Rachik, Mostafa] Hassan II Univ Casablanca, Dept Math & Comp Sci, Lab Anal Modeling & Simulat, Fac Sci Ben MSik, BP 7955, Casablanca, Morocco.
+   [El Alami Laaroussi, Adil] Abdelmalek Essaadi Univ, Higher Normal Sch Tetouan, Lab Appl Sci & Didact, Tetouan, Morocco.
+C3 Hassan II University of Casablanca; Abdelmalek Essaadi University of
+   Tetouan
+RP Ghazzali, R (corresponding author), Hassan II Univ Casablanca, Dept Math & Comp Sci, Lab Anal Modeling & Simulat, Fac Sci Ben MSik, BP 7955, Casablanca, Morocco.
+EM ghazzalirachid@gmail.com; elbhihamine@gmail.com;
+   adilelalamilaaroussi@gmail.com; m_rachik@yahoo.com
+RI Ghazzali, Rachid/AAO-7188-2021; El Bhih, Amine/AAA-1459-2022; EL ALAMI
+   LAAROUSSI, Adil/KDN-5647-2024; Ghazzali, Rachid/G-7660-2019
+OI Ghazzali, Rachid/0000-0001-7808-4169; El Bhih, Amine/0000-0003-0877-5882
+FU Moroccan Systems Theory Network
+FX The research reported in this paper was supported by the Moroccan
+   Systems Theory Network.
+CR Allport G.W., 1947, The Psychology of Rumor
+   [Anonymous], **NON-TRADITIONAL**
+   [Anonymous], **NON-TRADITIONAL**
+   Bartholomew RE., 2015, A colorful history of popular delusions
+   Birkhoand G., 1989, ORDINARY DIERENTIAL, V4th
+   Bordia P., 2005, RUMOR MILLSOCIAL I, P87
+   Boyce WE., 2009, Elementary Differential Equations and Boundary Value Problems
+   Cai TT, 2022, IEEE T KNOWL DATA EN, V34, P1993, DOI 10.1109/TKDE.2020.3003047
+   Daley D. J., NATURE, V204, P1964
+   DALEY DJ, 1964, NATURE, V204, P1118, DOI 10.1038/2041118a0
+   El Bhih A, 2020, DISCRETE DYN NAT SOC, V2020, DOI 10.1155/2020/2780651
+   Fan LD, 2014, SOC NETW ANAL MIN, V4, DOI 10.1007/s13278-014-0214-4
+   Fleming WH., 2012, DETERMINISTIC STOCHA
+   Fromm J., 2016, TRUMP VERSUS CLINTON
+   Ghazzali R., 2019, International Journal of Dynamics and Control, V7, P1021, DOI DOI 10.1007/s40435-019-00553-6
+   GOFFMAN W, 1964, NATURE, V204, P225, DOI 10.1038/204225a0
+   Guibout V, 2004, IEEE DECIS CONTR P, P1806, DOI 10.1109/CDC.2004.1430309
+   Guo H, 2018, CIKM'18: PROCEEDINGS OF THE 27TH ACM INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT, P943, DOI 10.1145/3269206.3271709
+   Hakim A, 2013, EUR RESPIR J, V42
+   Hu YH, 2018, PHYSICA A, V502, P331, DOI 10.1016/j.physa.2018.02.096
+   Jain A, 2016, SOC NETW ANAL MIN, V6, DOI 10.1007/s13278-016-0373-6
+   Jia JW, 2018, PHYSICA A, V491, P453, DOI 10.1016/j.physa.2017.09.063
+   Kermack WO, 1927, P R SOC LOND A-CONTA, V115, P700, DOI 10.1098/rspa.1927.0118
+   Laarabi H, 2016, DIFFER EQUAT DYN SYS, V24, P407, DOI 10.1007/s12591-015-0251-0
+   Lee C., 2016, 337 PEOPLE PLACES TH
+   Li JX, 2020, INFORM SYST, V92, DOI 10.1016/j.is.2020.101522
+   Li JX, 2017, IEEE T KNOWL DATA EN, V29, P1653, DOI 10.1109/TKDE.2017.2690288
+   Ma J., P 24 ACM INT C INF K
+   Maki D, 1974, Mathematical Models and Applications
+   Ndii M.Z., 2018, P 6 INT C INT BEH SO
+   Pontryagin L. S., 1962, International series of monographs in pure and applied mathematics
+   Rapoport A, 1952, Bull Math Biophys, V14, P375
+   Sabato J., 2015, SABATOS CRYSTAL BALL
+   Santhoshkumar S, 2020, SOC NETW ANAL MIN, V10, DOI [10.1007/s13278-020-00634-x, 10.1038/s41598-020-66171-x]
+   Tian B., 2020, RUMOR DETECTION SOCI
+   Wang J., 2011, OPT EXP, V19, pB166
+   Zhang RX, 2017, PHYSICA A, V483, P375, DOI 10.1016/j.physa.2017.05.006
+   Zhao LJ, 2013, PHYSICA A, V392, P995, DOI 10.1016/j.physa.2012.09.030
+   Zheng MH, 2013, PHYS REV E, V88, DOI 10.1103/PhysRevE.88.012818
+NR 39
+TC 8
+Z9 8
+U1 1
+U2 12
+PU HINDAWI LTD
+PI LONDON
+PA ADAM HOUSE, 3RD FLR, 1 FITZROY SQ, LONDON, W1T 5HF, ENGLAND
+SN 1026-0226
+EI 1607-887X
+J9 DISCRETE DYN NAT SOC
+JI Discrete Dyn. Nat. Soc.
+PD AUG 11
+PY 2020
+VL 2020
+AR 6724815
+DI 10.1155/2020/6724815
+PG 12
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Mathematics; Science & Technology - Other Topics
+GA NI3BG
+UT WOS:000565230700002
+OA gold
+DA 2024-11-22
+ER

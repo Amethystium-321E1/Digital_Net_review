@@ -1,0 +1,549 @@
+
+PT J
+AU Tulin, M
+   Mollenhorst, G
+   Volker, B
+AF Tulin, Marina
+   Mollenhorst, Gerald
+   Volker, Beate
+TI Whom do we lose? The case of dissimilarity in personal networks
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Tie loss; Dissimilarity; Homophily; Meeting opportunities; Preferences;
+   Network embeddedness; Event history models
+AB Previous research finds that individuals tend to form ties with similar others much more often than with dissimilar others. However, we know relatively little about tie loss and to what extent this is driven by (dis)similarity. In this paper, we argue that ties to persons who are dissimilar with regard to gender, age, ethnicity, and education are lost faster than ties to similar persons - and we test three explanations for this faster decay of ties with dissimilar others: lack of meeting opportunities, preferences for similarity, and lower network embeddedness. To test these explanations, we analysed two waves of the Survey on the Social Networks of the Dutch (SSND, 2007, 2014). These SSND-waves contain comprehensive longitudinal panel data on ego networks of 441 respondents, who were interviewed about a wide range of relationships, their alters' sociodemographic characteristics, where and when they met their alters, as well as how and whether they maintain these relationships. We modelled tie loss by event history analyses. Results show that ties to persons who were dissimilar are more likely to be lost faster, and that tie loss occurs mostly in the early years of a relationship. However, meeting opportunities, preferences for similarity, and network embeddedness are unable to explain why ties to dissimilar others are lost faster. We conclude that dissimilarity is a powerful driver of tie loss, and that more arguments and research are needed to fully understand the underlying mechanisms.
+C1 [Tulin, Marina] Erasmus Univ, Rotterdam, Netherlands.
+   [Mollenhorst, Gerald; Volker, Beate] Univ Utrecht, Utrecht, Netherlands.
+C3 Erasmus University Rotterdam - Excl Erasmus MC; Erasmus University
+   Rotterdam; Utrecht University
+RP Tulin, M (corresponding author), Erasmus Univ, Rotterdam, Netherlands.
+EM tulin@eshcc.eur.nl
+OI Tulin, Marina/0000-0002-6676-7816
+CR BERNARD HR, 1980, SOC NETWORKS, V2, P191, DOI 10.1016/0378-8733(79)90014-5
+   BURT RS, 1984, SOC NETWORKS, V6, P293, DOI 10.1016/0378-8733(84)90007-8
+   Burt RS, 2002, SOC NETWORKS, V24, P333, DOI 10.1016/S0378-8733(02)00017-5
+   Degenne A, 2005, SOC NETWORKS, V27, P337, DOI 10.1016/j.socnet.2004.11.002
+   FELD SL, 1981, AM J SOCIOL, V86, P1015, DOI 10.1086/227352
+   FELD SL, 1982, AM SOCIOL REV, V47, P797, DOI 10.2307/2095216
+   Feld SL, 1997, SOC NETWORKS, V19, P91, DOI 10.1016/S0378-8733(96)00293-6
+   Fischer CS, 2020, SOC NETWORKS, V61, P78, DOI 10.1016/j.socnet.2019.08.008
+   Fischer Claude S., 1982, To Dwell among Friends: Personal Networks in Town and City
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Homans G.C., 1950, The Human Group
+   Kalmijn M, 1998, ANNU REV SOCIOL, V24, P395, DOI 10.1146/annurev.soc.24.1.395
+   KANDEL DB, 1978, J PERS SOC PSYCHOL, V36, P306, DOI 10.1037/0022-3514.36.3.306
+   Karlson KB, 2012, SOCIOL METHODOL, V42, P286, DOI 10.1177/0081175012444861
+   Kleinbaum AM, 2018, MANAGE SCI, V64, P2219, DOI 10.1287/mnsc.2016.2705
+   Louch H, 2000, SOC NETWORKS, V22, P45, DOI 10.1016/S0378-8733(00)00015-0
+   Marin A, 2019, SOCIOL FORUM, V34, P313, DOI 10.1111/socf.12499
+   MARKS SR, 1994, SOC FORCES, V72, P843, DOI 10.2307/2579783
+   MARSDEN PV, 1987, AM SOCIOL REV, V52, P122, DOI 10.2307/2095397
+   MCPHERSON JM, 1987, AM SOCIOL REV, V52, P370, DOI 10.2307/2095356
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   McPherson M, 2004, IND CORP CHANGE, V13, P263, DOI 10.1093/icc/13.1.263
+   McPherson M, 2006, AM SOCIOL REV, V71, P353, DOI 10.1177/000312240607100301
+   Mollenhorst G., 2016, Int. Rev. Soc. Res., V6, P146
+   Mollenhorst G, 2014, SOC NETWORKS, V37, P65, DOI 10.1016/j.socnet.2013.12.003
+   Mollica KA, 2003, ORGAN SCI, V14, P123, DOI 10.1287/orsc.14.2.123.14994
+   Morgan DL, 1997, SOC NETWORKS, V19, P9, DOI 10.1016/S0378-8733(96)00288-2
+   Putnam R., 1999, BOWLING ALONE
+   Rivera MT, 2010, ANNU REV SOCIOL, V36, P91, DOI 10.1146/annurev.soc.34.040507.134743
+   SHULMAN N, 1975, J MARRIAGE FAM, V37, P813, DOI 10.2307/350834
+   Small M., 2017, SOMEONE TO TALK TO
+   Small ML, 2015, SOC NETWORKS, V40, P90, DOI 10.1016/j.socnet.2014.09.001
+   Smith S, 2012, SOC SCI RES, V41, P1126, DOI 10.1016/j.ssresearch.2012.02.004
+   Stauder J, 2014, SOC SCI RES, V48, P234, DOI 10.1016/j.ssresearch.2014.06.004
+   Suitor J, 1997, SOC NETWORKS, V19, P51, DOI 10.1016/S0378-8733(96)00290-0
+   VERBRUGGE LM, 1977, SOC FORCES, V56, P576, DOI 10.2307/2577741
+   Wellman B, 1997, SOC NETWORKS, V19, P27, DOI 10.1016/S0378-8733(96)00289-4
+   Wimmer A, 2010, AM J SOCIOL, V116, P583, DOI 10.1086/653658
+NR 38
+TC 23
+Z9 25
+U1 2
+U2 16
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD MAY
+PY 2021
+VL 65
+BP 51
+EP 62
+DI 10.1016/j.socnet.2020.11.003
+PG 12
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA QB6WX
+UT WOS:000614282000005
+OA hybrid, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Kumar, S
+   Huang, BX
+   Cox, RAV
+   Carley, KM
+AF Kumar, Sumeet
+   Huang, Binxuan
+   Cox, Ramon Alfonso Villa
+   Carley, Kathleen M.
+TI An anatomical comparison of fake-news and trusted-news sharing pattern
+   on Twitter
+SO COMPUTATIONAL AND MATHEMATICAL ORGANIZATION THEORY
+LA English
+DT Article
+DE Social networks; Fake news; Misinformation; Twitter
+ID POWER
+AB Online social networks allow users to share a variety of multi-media content on the World Wide Web. The rising popularity of such social networking platforms coupled with limitations in verifying the veracity of shared content has contributed to increase in misinformation on these media. Misinformation content such as fake-news and hoaxes, though often considered innocuous, may have high social cost such as influencing elections decision, and thus should be investigated carefully. Many researchers have studied various aspects of fake-news including automated ways to recognize it. However, a large-scale study comparing the sharing patterns of fake-news and trusted-news is missing. In this research, we take Ukraine, a country where fake news is common, as a case study. Using datasets generated by three different Tweets collection strategies, we present an anatomical comparison of fake-news and trusted-news sharing pattern on Twitter. Such a comparison enables to identify the characteristics of tweets sharing fake-news, and allows to find the users who are more inclined to share misinformation. Besides, we also study possible bot activities in the dataset. The top conclusions derived from this study are (a) Users sharing fake-news stories are more likely to include hashtags, and the hashtags used in Tweets sharing fake-news stories are similar to hashtags used in Tweets sharing trusted news. (b) Users sharing fake-news are also more likely to include mentions, but mentions used in tweets sharing fake-news and trusted-news are often different. (c) Tweets sharing fake-news have more negative sentiment. In contrast, tweets sharing trusted-news have more positive sentiment.
+C1 [Kumar, Sumeet; Huang, Binxuan; Cox, Ramon Alfonso Villa; Carley, Kathleen M.] Carnegie Mellon Univ, Sch Comp Sci, Pittsburgh, PA 15213 USA.
+C3 Carnegie Mellon University
+RP Kumar, S; Carley, KM (corresponding author), Carnegie Mellon Univ, Sch Comp Sci, Pittsburgh, PA 15213 USA.
+EM sumeetku@cs.cmu.edu; kathleen.carley@cs.cmu.edu
+RI Kumar, Sumeet/AAX-7387-2020
+OI Villa-Cox, Ramon/0000-0002-6462-9153; Kumar, Sumeet/0000-0003-2715-7107
+FU MURI [N000140811186, N000141712675]; U.S. Department of Defense (DOD)
+   [N000141712675] Funding Source: U.S. Department of Defense (DOD)
+FX Funding was provided by MURI (Grant Nos. N000140811186 and
+   N000141712675).
+CR Adamic LA, 2000, SCIENCE, V287, DOI 10.1126/science.287.5461.2115a
+   Allcott H, 2017, J ECON PERSPECT, V31, P211, DOI 10.1257/jep.31.2.211
+   Alstott J, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0085777
+   [Anonymous], 2015, MANIPULATION ABUSE S
+   Ballarin G., 2017, CEUR WORKSHOP P, DOI DOI 10.48550/ARXIV.1704.07506
+   Bertot JC, 2012, GOV INFORM Q, V29, P30, DOI 10.1016/j.giq.2011.04.004
+   Buccafurri Francesco, 2012, Machine Learning and Knowledge Discovery in Databases. Proceedings of the European Conference (ECML PKDD 2012), P467, DOI 10.1007/978-3-642-33486-3_30
+   Carley K.M., 2014, Encyclopedia of social network analysis and mining, P1219, DOI DOI 10.1007/978-1-4614-6170-8
+   Chu Z, 2010, 26TH ANNUAL COMPUTER SECURITY APPLICATIONS CONFERENCE (ACSAC 2010), P21
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Conroy N.K., 2015, P ASS INFORM SCI TEC, V52, P1, DOI [10.1002/pra2.2015.145052010082, DOI 10.1002/PRA2.2015.145052010082]
+   Cornwell S., 2016, P 2 WORKSH COMP APPR, P7, DOI 10.18653/v1/W16-0802
+   Davis CA, 2016, PROCEEDINGS OF THE 25TH INTERNATIONAL CONFERENCE ON WORLD WIDE WEB (WWW'16 COMPANION), P273, DOI 10.1145/2872518.2889302
+   Davoust A, 2008, LECT NOTES ARTIF INT, V5032, P72
+   Dickerson JP, 2014, 2014 PROCEEDINGS OF THE IEEE/ACM INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING (ASONAM 2014), P620, DOI 10.1109/ASONAM.2014.6921650
+   Du N, 2007, PROCEEDINGS OF THE IEEE/WIC/ACM INTERNATIONAL CONFERENCE ON WEB INTELLIGENCE, P100, DOI 10.1109/WI.2007.36
+   Ellison N, 2006, J COMPUT-MEDIAT COMM, V11
+   Ferrara E., 2014, ARXIV 1407 5225
+   Hassan Naeemul, 2015, P 24 ACM INT C INFOR, P1835, DOI [10.1145/2806416.2806652, DOI 10.1145/2806416.2806652]
+   Hutto C. J., 2014, P INT AAAI C WEB SOC, P216
+   Ioffe Sergey, 2010, 2010 IEEE INT C DAT, P246, DOI DOI 10.1109/ICDM.2010.80
+   Jin ZW, 2016, AAAI CONF ARTIF INTE, P2972
+   Khaldarova I, 2016, JOURNAL PRACT, V10, P891, DOI 10.1080/17512786.2016.1163237
+   Kumar S, 2016, 2016 IEEE INT C INT
+   Kumar S, 2018, LECT NOTES COMPUT SC, V10899, P154, DOI 10.1007/978-3-319-93372-6_17
+   Lee K., 2011, P INT AAAI C WEB SOC, V5, P185, DOI [10.1609/icwsm.v5i1.14106, DOI 10.1609/ICWSM.V5I1.14106]
+   Liao Y, 2016, ASIA-PAC INT SYM ELE, P101, DOI 10.1109/APEMC.2016.7522938
+   Morstatter F, 2016, PROCEEDINGS OF THE 2016 IEEE/ACM INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING ASONAM 2016, P533, DOI 10.1109/ASONAM.2016.7752287
+   Newman Nic, 2017, DIGITAL NEWS REPORT
+   Parkinson H.J., 2016, GUARDIAN
+   Pfeffer J., 2014, J MARK COMMUN, V2, P117, DOI DOI 10.1080/13527266.2013.797778
+   Rashkin H., 2017, P 2017 C EMP METH NA, P2931, DOI 10.18653/v1/D17-1317
+   Rubin VL, 2015, J ASSOC INF SCI TECH, V66, P905, DOI 10.1002/asi.23216
+   Samanth S, 2017, WIRED
+   Schifferes S, 2014, DIGIT JOURNAL, V2, P406, DOI 10.1080/21670811.2014.892747
+   Shao C., 2017, ARXIV170707592, V96, P4
+   Shu Kai, 2017, ARXIV170801967
+   Vargo CJ, 2018, NEW MEDIA SOC, V20, P2028, DOI 10.1177/1461444817712086
+   Volkova S, 2017, PROCEEDINGS OF THE 55TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2017), VOL 2, P647, DOI 10.18653/v1/P17-2102
+   Vosoughi S, 2018, SCIENCE, V359, P1146, DOI 10.1126/science.aap9559
+   Wang Y., 2018, EANN EVENT ADVERSARI
+NR 41
+TC 14
+Z9 14
+U1 4
+U2 56
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1381-298X
+EI 1572-9346
+J9 COMPUT MATH ORGAN TH
+JI Comput. Math. Organ. Theory
+PD JUN
+PY 2021
+VL 27
+IS 2
+BP 109
+EP 133
+DI 10.1007/s10588-019-09305-5
+EA FEB 2020
+PG 25
+WC Computer Science, Interdisciplinary Applications; Mathematics,
+   Interdisciplinary Applications; Social Sciences, Mathematical Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science; Mathematics; Mathematical Methods In Social Sciences
+GA SS6ZK
+UT WOS:000515763200001
+DA 2024-11-22
+ER
+
+PT J
+AU Heine, C
+   Marquez, C
+   Santi, P
+   Sundberg, M
+   Nordfors, M
+   Ratti, C
+AF Heine, Cate
+   Marquez, Cristina
+   Santi, Paolo
+   Sundberg, Marcus
+   Nordfors, Miriam
+   Ratti, Carlo
+TI Analysis of mobility homophily in Stockholm based on social network data
+SO PLOS ONE
+LA English
+DT Article
+ID SEGREGATION; TWITTER; PATTERNS
+AB We present a novel metric for measuring relative connection between parts of a city using geotagged Twitter data as a proxy for co-occurrence of city residents. We find that socioeconomic similarity is a significant predictor of this connectivity metric, which we call "linkage strength": neighborhoods that are similar to one another in terms of residents' median income, education level, and (to a lesser extent) immigration history are more strongly connected in terms of the of people who spend time there, indicating some level of homophily in the way that individuals choose to move throughout a city's districts.
+C1 [Heine, Cate; Santi, Paolo; Ratti, Carlo] MIT, Senseable City Lab, 77 Massachusetts Ave, Cambridge, MA 02139 USA.
+   [Marquez, Cristina] Univ Carlos III Madrid, Leganes, Spain.
+   [Santi, Paolo] CNR, Inst Informat & Telemat, Pisa, Italy.
+   [Sundberg, Marcus] KTH Royal Inst Technol, Dept Urban Planning & Environm, Div Syst Anal & Econ, Stockholm, Sweden.
+   [Nordfors, Miriam] Strategi & Utvecklingsenheten, Stockholm, Sweden.
+C3 Massachusetts Institute of Technology (MIT); Universidad Carlos III de
+   Madrid; Consiglio Nazionale delle Ricerche (CNR); Istituto di
+   Informatica e Telematica (IIT-CNR); Royal Institute of Technology
+RP Heine, C (corresponding author), MIT, Senseable City Lab, 77 Massachusetts Ave, Cambridge, MA 02139 USA.
+EM cheine@mit.edu
+RI Marquez, Cristina/AAB-4445-2019
+OI Heine, Cate/0000-0002-4033-3761; , CMarquez/0000-0002-2924-4362
+FU City of Stockholm; KTH Royal Institute of Technology; Stockholm Chamber
+   of Commerce; Newsec; H2020 5G-TOURS [85695]; RATP; Dover Corporation;
+   Teck Resources; Lab Campus; Anas S.p.A.; Ford; ENEL Foundation; City of
+   Laval; City of Curitiba; City of Amsterdam; Senseable City Lab
+   consortium
+FX All authors belong to the KTH-MIT Senseable Stockholm Lab, funded by
+   City of Stockholm, KTH Royal Institute of Technology, Stockholm Chamber
+   of Commerce, and Newsec. Researcher CM was funded to work on this study
+   by H2020 5G-TOURS, Grant Agreement No. 85695
+   (https://5gtours.eu/).Senseable City Lab, which employs authors CH, PS,
+   and CR, is funded by the following sponsors: RATP
+   (https://www.ratp.fr/en), Dover Corporation
+   https://www.dovercorporation.com/), Teck Resources
+   (https://www.teck.com/), Lab Campus (https://www.labcampus.de/en), Anas
+   S.p.A. (https://www.stradeanas.it/it), Ford (https://www.ford.com/),
+   ENEL Foundation (https://www.enelfoundation.org/), Cities of Laval
+   (https://www.laval.ca/Pages/Fr/accueil.aspx), Curitiba
+   (https://www.curitiba.pr.gov.br/), Stockholm (https://start.stockholm/),
+   and Amsterdam (https://www.amsterdam.nl/en/), and all members of the
+   Senseable City Lab consortium. Partners at the City of Stockholm (author
+   MN, an employee of Stockholm Stads) assisted with data collection and
+   reviewed this manuscript before submission. No other sponsors have
+   played a role in the study design, data collection and analysis,
+   decision to publish, or preparation of the manuscript.
+CR Abadie A., 2017, When Should You Adjust Standard Errors for Clustering? No. w24003, pw24003, DOI [10.3386/w24003, DOI 10.3386/W24003]
+   [Anonymous], 2014, 8 INT C GEOGR INF SC
+   [Anonymous], 2020, AREAS MAY AFFECT RIG
+   [Anonymous], 2020, YOUR OWN ACCOMMODATI
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bora Nibir, 2014, Social Computing, Behavioral-Cultural Modeling and Prediction. 7th International Conference, SBP 2014. Proceedings: LNCS 8393, P11, DOI 10.1007/978-3-319-05579-4_2
+   Browning CR, 2017, RSF-RUS SAGE J SOC S, V3, P210, DOI 10.7758/RSF.2017.3.2.09
+   Bureau USC, 2015, METR MICR
+   Cheah B.C., 2009, Clustering standard errors or modeling multilevel data, P2
+   Dorman M, 2020, J SPAT INF SCI, P177, DOI 10.5311/JOSIS.2020.21.587
+   El-Ashmawy K L., 2016, Geodesy Cartogr, V42, P25, DOI [10.3846/20296991.2015.1160493, DOI 10.3846/20296991.2016.1160493, DOI 10.3846/20296991.2015.1160493]
+   Fotheringham AS, 2009, GEOGR ANAL, V41, P398, DOI 10.1111/j.1538-4632.2009.00767.x
+   Gao S, 2017, INT J GEOGR INF SCI, V31, P1245, DOI 10.1080/13658816.2016.1273357
+   Hawelka B, 2014, CARTOGR GEOGR INF SC, V41, P260, DOI 10.1080/15230406.2014.890072
+   Hilbe J., 2011, NEGATIVE BINOMIAL RE
+   Huang QY, 2016, INT J GEOGR INF SCI, V30, P1873, DOI 10.1080/13658816.2016.1145225
+   Jackson SP, 2013, ISPRS INT GEO-INF, V2, P507, DOI 10.3390/ijgi2020507
+   Jiang YQ, 2019, CARTOGR GEOGR INF SC, V46, P228, DOI 10.1080/15230406.2018.1434834
+   Johnson BD, 2012, J QUANT CRIMINOL, V28, P163, DOI 10.1007/s10940-011-9157-3
+   Jonsson D, 2014, ENVIRON PLANN B, V41, P1031, DOI 10.1068/b130069p
+   Jurdak R, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0131469
+   Lee Jae Hyun, 2015, P 14 INT C TRAV BEH
+   Li F, 2017, ENVIRON PLANN A, V49, P467, DOI 10.1177/0308518X16673213
+   Longley PA, 2016, INT J GEOGR INF SCI, V30, P369, DOI 10.1080/13658816.2015.1089441
+   Longley PA, 2015, ENVIRON PLANN A, V47, P465, DOI 10.1068/a130122p
+   Marquez C, 2017, CONEXT'17: PROCEEDINGS OF THE 2017 THE 13TH INTERNATIONAL CONFERENCE ON EMERGING NETWORKING EXPERIMENTS AND TECHNOLOGIES, P180, DOI 10.1145/3143361.3143369
+   Moyano A, 2018, J TRANSP GEOGR, V73, P84, DOI 10.1016/j.jtrangeo.2018.10.010
+   Noulas A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0037027
+   Prestby T, 2020, ENVIRON PLANN A, V52, P1027, DOI 10.1177/0308518X19891911
+   Rokem J, 2019, URBAN STUD, V56, P2426, DOI 10.1177/0042098018795561
+   van Eggermond MAB, 2015, TRANSP RES BOARD 95
+   Västberg OB, 2020, TRANSPORT SCI, V54, P21, DOI 10.1287/trsc.2019.0898
+   Wang Q, 2018, P NATL ACAD SCI USA, V115, P7735, DOI 10.1073/pnas.1802537115
+   Wojcik S., 2019, PEW research center
+   Xu Y, 2019, J R SOC INTERFACE, V16, DOI 10.1098/rsif.2019.0536
+   Zhang M, 2015, IDENTIFYING LOCAL RE
+   Zhang WJ, 2019, ANN AM ASSOC GEOGR, V109, P887, DOI 10.1080/24694452.2018.1484684
+   Zhang WJ, 2017, COMPUT ENVIRON URBAN, V66, P117, DOI 10.1016/j.compenvurbsys.2017.08.004
+NR 38
+TC 11
+Z9 13
+U1 1
+U2 9
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD MAR 9
+PY 2021
+VL 16
+IS 3
+AR e0247996
+DI 10.1371/journal.pone.0247996
+PG 14
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA QV3DJ
+UT WOS:000627855600028
+PM 33690698
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Cardoso, D
+   Rosa, A
+   da Silva, MT
+AF Cardoso, Daniel
+   Rosa, Ana
+   da Silva, Marisa Torres
+TI (De)Politicizing Polyamory: Social Media Comments on Media
+   Representations of Consensual Non-Monogamies
+SO ARCHIVES OF SEXUAL BEHAVIOR
+LA English
+DT Article
+DE Polyamory; Public sphere; Social networks; Consensual non-monogamy
+ID ONLINE; CIVILITY
+AB Our research sits at the intersection of communication studies, sociology, cyberculture, and political philosophy and theory. In 2014, a 10+-min segment on polyamory aired on Portuguese open-access national television, during the prime-time newscast, and was viewed by several million people, according to official reports. The news piece was also advertised and shared online, especially via Facebook, by the network's official page. Moreover, the piece was aired within the context of a segment that celebrated the 40-year anniversary of the 1974 liberal revolution that overthrew the right-wing dictatorial regime that ruled Portugal for more than half of the twentieth century. This context served to frame polyamory (alongside other topics) as explicitly political by presenting them as freedoms seized by that liberal revolution. This study used a mixed-method approach to the analysis of online comments on Facebook made with respect to the referred news piece, by deploying both content analysis and critical discourse analysis to try to understand how the political nature of polyamory is negotiated (affirmed or disavowed), and what ideal of the "political" is mobilized in that negotiation, in connection with other elements of intimate citizenship and modes of systemic discrimination. Through this analysis, we will deepen our understanding of how lay people construe the "political" and the (non-)politicalness of polyamory. It also helps advance contemporary understandings of how polyamory is represented in mainstream media, understood by audiences, and how media-and debates on online social networks-can both amplify and help fight against harmful stereotypes of minorities. Through this research, we contribute to political theory by opening up new ways of conceptualizing the realm of the political as an open-ended definition that must encompass changes in modes of sociality, including a politics of relating as a sub-field, likewise to the study of social movements, and their strategies, around consensual non-monogamies. Overall, results show that the recognition of the validity of polyamory is not the same as the realization that relationship orientation is a political issue in itself and that a privatized mode of understanding politics seems prevalent as well as the default framework used in the comments we analyzed. In addition to that, and as other research has already noted, incivility and hate speech was prevalent in online comments and discussions, further dampening the political potential of dissident modes of existence, especially given that incivility is also deployed by those speaking in favor of Othered identities and experiences.
+C1 [Cardoso, Daniel] Manchester Metropolitan Univ, Dept Sociol, Rosamond St W, Manchester M15 6EB, Lancs, England.
+   [Cardoso, Daniel] Lusofona Univ, Escola Comunicacao Artes & Tecnol, Lisbon, Portugal.
+   [Rosa, Ana; da Silva, Marisa Torres] NOVA Sch Social Sci & Humanities, Lisbon, Portugal.
+   [Rosa, Ana] Univ Complutense Madrid, Fac Philosophy, Madrid, Spain.
+C3 Manchester Metropolitan University; Lusofona University; Complutense
+   University of Madrid
+RP Cardoso, D (corresponding author), Manchester Metropolitan Univ, Dept Sociol, Rosamond St W, Manchester M15 6EB, Lancs, England.; Cardoso, D (corresponding author), Lusofona Univ, Escola Comunicacao Artes & Tecnol, Lisbon, Portugal.
+EM danielscardoso@gmail.com
+RI ; Torres da Silva, Marisa/S-8557-2016; Cardoso, Daniel/AAV-4022-2020
+OI Goncalves Rosa, Ana Beatriz/0000-0001-9316-0772; Torres da Silva,
+   Marisa/0000-0003-1136-4232; Cardoso, Daniel/0000-0001-7864-7531
+CR [Anonymous], 2014, LES Online
+   [Anonymous], 2008, POLYAMORY IS NOT SEX
+   Arendt H., 2009, La condicion humana, V1A
+   Aviram Hadar., 2015, HARVARD J LAW GENDER, V38, P269, DOI DOI 10.2139/SSRN.2485853
+   Aviram Hadar., 2010, UNDERSTANDING NONMON, P87
+   Barker M.J., 2018, Rewriting the rules: An anti self-help guide to love, sex and relationships, V2nd, DOI 10.4324/9781315173061
+   Berlant L, 1998, CRIT INQUIRY, V24, P547, DOI 10.1086/448884
+   Berlin I., 1969, 4 ESSAYS LIBERTY, P118
+   Bonthuys, 2016, ONATI SOCIO-LEGAL S, V6
+   CABRERA Ana., 2017, Uma Historia da Imprensa Lusofona, P311
+   Cardoso D., 2017, Tempo de Ciencia, V25, P12
+   CARDOSO D, 2018, SEX RELATSH THER
+   Cardoso D., 2013, LES ONLINE, V5, P20
+   Cardoso D, 2019, SOCIOL RES ONLINE, V24, P691, DOI 10.1177/1360780419835559
+   Cardoso Daniel., 2011, Interact
+   Cardoso S, 2015, AMOR AMISTAD POLITIC, P53
+   Carter I., 2018, The Stanford Encyclopedia of Philosophy
+   Coe K, 2014, J COMMUN, V64, P658, DOI 10.1111/jcom.12104
+   Conley T. D., 2011, PREVALENCE CON UNPUB
+   Conley TD, 2013, ANAL SOC ISS PUB POL, V13, P1, DOI 10.1111/j.1530-2415.2012.01286.x
+   Conley TD, 2013, PERS SOC PSYCHOL REV, V17, P124, DOI 10.1177/1088868312467087
+   Crenshaw Kimberle., 2008, FEMINIST PHILOS READ, P279
+   Eley Geoff., 1992, HABERMAS PUBLIC SPHE, P289
+   Emens ElizabethF., 2004, NYU REV LAW SOCIAL C, V29, P277, DOI DOI 10.2139/SSRN.506242
+   FERRER J, 2018, SEX CULT
+   Fraser N., 1990, SOC TEXT, V25, P56, DOI [https://doi.org/10.2307/466240, DOI 10.2307/466240, 10.2307/466240]
+   Garcia JL., 2009, ESTUDOS JORNALISTAS, P47
+   Giddens Anthony., 1993, The Transformation of Intimacy: Sexuality, Love and Eroticism in Modern Societies
+   Gonçalves J, 2018, J APPL COMMUN RES, V46, P604, DOI 10.1080/00909882.2018.1529419
+   Habermas J., 1989, The Structural Transformation of the Public Sphere, DOI DOI 10.1177/02632764221112341
+   HARAWAY D, 1988, FEMINIST STUD, V14, P575, DOI 10.2307/3178066
+   Harding S., 2015, OBJECTIVITY DIVERSIT
+   Haritaworn J., 2006, SEXUALITIES, V9, P515, DOI [10.1177/1363460706069963, DOI 10.1177/1363460706069963]
+   Haupert ML, 2017, J SEX MARITAL THER, V43, P424, DOI 10.1080/0092623X.2016.1178675
+   Heinlein R.A., 1961, STRANGER STRANGE LAN
+   Hurson, 2016, THESIS U COLORADO BO
+   Jones M., 2010, The International Workshop on Computer-Aided Qualitative Research Asia, P82
+   Kenski K, 2020, COMMUN RES, V47, P795, DOI 10.1177/0093650217699933
+   Klesse C., 2016, Onati Socio-Legal Series, V6, P1348
+   Klesse C, 2014, INT J POLITICS CULT, V27, P203, DOI 10.1007/s10767-013-9157-4
+   Krippendorff KH., 2003, CONTENT ANAL INTRO I, V2
+   Ksiazek TB, 2015, J BROADCAST ELECTRON, V59, P556, DOI 10.1080/08838151.2015.1093487
+   Levine EC, 2018, ARCH SEX BEHAV, V47, P1439, DOI 10.1007/s10508-018-1178-7
+   Martins, 2012, REVISTA, V2083, P36
+   McCrosky R., 2015, THESIS U CENTRAL FLO
+   Moors Amy C, 2017, J Sex Res, V54, P677, DOI 10.1080/00224499.2016.1178208
+   Navarro PP, 2017, SEX CULT, V21, P441, DOI 10.1007/s12119-016-9398-2
+   Neuendorf KA., 2017, The content analysis guidebook, DOI DOI 10.4135/9781071802878
+   Papacharissi Z, 2004, NEW MEDIA SOC, V6, P259, DOI 10.1177/1461444804041444
+   Papacharissi Z, 2002, NEW MEDIA SOC, V4, P9, DOI 10.1177/14614440222226244
+   Papacharissi Z.A., 2011, A private sphere: Democracy in a digital age
+   Pieper M., 2005, MEHR ALS LIEBE POLYA, P59
+   PITKIN HF, 1988, POLIT THEORY, V16, P523, DOI 10.1177/0090591788016004001
+   Plummer K., 1995, TELLING SEXUAL STORI
+   POLICARPO Veronica -., 2011, HIST RIA VIDA PRIVAD, P48
+   Prochazka F, 2018, JOURNALISM STUD, V19, P62, DOI 10.1080/1461670X.2016.1161497
+   Rambukkana, 2015, UNMAPPABLE SUBJECTS
+   Richardson JohnE., 2007, Analysing Newspapers: An Approach from Critical Discourse Analysis
+   Richardson-Self L, 2018, HYPATIA, V33, P256, DOI 10.1111/hypa.12398
+   Rodrigues D, 2018, SEX RES SOC POLICY, V15, P504, DOI 10.1007/s13178-017-0290-0
+   Rubel AN, 2020, SEXUALITIES, V23, P3, DOI 10.1177/1363460718779781
+   Rubin GS, 2006, SEX CULT HEALTH, P150
+   Rubin JD., 2014, J F R PSYCHOLOGIE, V22, P19
+   Santiago RS., 2015, POLIAMOR DIREITO FAM
+   Santos AC, 2013, CITIZ GEND DIVERS, P1
+   Santos AC, 2019, SOCIOL RES ONLINE, V24, P709, DOI 10.1177/1360780419874080
+   Schippers M., 2016, MONOGAMY POLYAMORY F
+   SEGUIN L, 2017, SEXUALITIES
+   Stroud NJ, 2015, J COMPUT-MEDIAT COMM, V20, P188, DOI 10.1111/jcc4.12104
+   Tsaliki L, 2002, JAVNOST-PUBLIC, V9, P95, DOI 10.1080/13183222.2002.11008802
+   van Dijk T.A., 1995, Japanese Discourse, V1, P17, DOI DOI 10.1177/0957926594005004001
+   van Dijk TA, 2009, INT COMMUN ASSOC HAN, P191
+   Vasallo B., 2018, PENSAMIENTO MONOGAMO
+   Zamith R, 2014, DIGIT JOURNAL, V2, P558, DOI 10.1080/21670811.2014.882066
+   Zanin A, 2013, PROBLEM POLYNORMATIV
+   Zell-Ravenheart M.G., 1990, Green Egg Magazine, V23, P228
+   Ziegele M, 2020, COMMUN RES, V47, P891, DOI 10.1177/0093650216671854
+NR 77
+TC 7
+Z9 7
+U1 1
+U2 18
+PU SPRINGER/PLENUM PUBLISHERS
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0004-0002
+EI 1573-2800
+J9 ARCH SEX BEHAV
+JI Arch. Sex. Behav.
+PD MAY
+PY 2021
+VL 50
+IS 4
+BP 1325
+EP 1340
+DI 10.1007/s10508-020-01887-5
+EA MAY 2021
+PG 16
+WC Psychology, Clinical; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology; Social Sciences - Other Topics
+GA SU7UI
+UT WOS:000649220000002
+PM 33977425
+DA 2024-11-22
+ER
+
+PT J
+AU Asatani, K
+   Yamano, H
+   Sakaki, T
+   Sakata, I
+AF Asatani, Kimitaka
+   Yamano, Hiroko
+   Sakaki, Takeshi
+   Sakata, Ichiro
+TI Dense and influential core promotion of daily viral information spread
+   in political echo chambers
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID PERIPHERY STRUCTURE; POLARIZATION; MODEL
+AB Despite the intensive study of the viral spread of fake news in political echo chambers (ECs) on social networking services (SNSs), little is known regarding the underlying structure of the daily information spread in these ECs. Moreover, the effect of SNSs on opinion polarisation is still unclear in terms of pluralistic information access or selective exposure to opinions in an SNS. In this study, we confirmed the steady, highly independent nature of left- and right-leaning ECs, both of which are composed of approximately 250,000 users, from a year-long reply/retweet network of 42 million Japanese Twitter users. We found that both communities have similarly efficient information spreading networks with densely connected and core-periphery structures. Core nodes resonate in the early stages of information cascades, and unilaterally transmit information to peripheral nodes. Each EC has resonant core users who amplify and steadily spread information to a quarter of a million users. In addition, we confirmed the existence of extremely aggressive users of ECs who co-reply/retweet each other. The connection between these users and top influencers suggests that the extreme opinions of the former group affect the entire community through the top influencers.
+C1 [Asatani, Kimitaka; Sakaki, Takeshi; Sakata, Ichiro] Univ Tokyo, Grad Sch Engn, Bunkyo Ku, 7-3-1 Hongo, Tokyo 1130033, Japan.
+   [Yamano, Hiroko] Univ Tokyo, Inst Future Initiat, Bunkyo Ku, 7-3-1 Hongo, Tokyo 1130033, Japan.
+C3 University of Tokyo; University of Tokyo
+RP Asatani, K (corresponding author), Univ Tokyo, Grad Sch Engn, Bunkyo Ku, 7-3-1 Hongo, Tokyo 1130033, Japan.
+EM asatani@ipr-ctr.t.u-tokyo.ac.jp
+RI Ichiro, Sakata/GWM-7823-2022
+OI Asatani, Kimitaka/0000-0003-3595-8940
+CR Adamic L.A., 2005, P 3 INT WORKSH LINK, P36, DOI DOI 10.1145/1134271.1134277
+   Aizawa A, 2003, INFORM PROCESS MANAG, V39, P45, DOI 10.1016/S0306-4573(02)00021-3
+   An J., 2014, P 2 ACM C ONL SOC NE, P13, DOI DOI 10.1145/2660460.2660469
+   Axelrod R, 1997, J CONFLICT RESOLUT, V41, P203, DOI 10.1177/0022002797041002001
+   Barberá P, 2015, PSYCHOL SCI, V26, P1531, DOI 10.1177/0956797615594620
+   Barthélemy M, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.178701
+   Bartolozzi M, 2005, PHYS REV E, V72, DOI 10.1103/PhysRevE.72.046113
+   Blondel VD, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/10/P10008
+   Bovet A, 2019, NAT COMMUN, V10, DOI 10.1038/s41467-018-07761-2
+   Bright J, 2018, J COMPUT-MEDIAT COMM, V23, P17, DOI 10.1093/jcmc/zmx002
+   Caulfield T, 2019, CAN J BIOETHICS, V2, P52
+   Choi D, 2020, SCI REP-UK, V10, DOI 10.1038/s41598-019-57272-3
+   Colleoni E, 2014, J COMMUN, V64, P317, DOI 10.1111/jcom.12084
+   Conover M., 2011, P INT AAAI C WEB SOC, P5
+   Conover MD, 2012, EPJ DATA SCI, V1, DOI 10.1140/epjds6
+   Cucuringu M, 2016, EUR J APPL MATH, V27, P846, DOI 10.1017/S095679251600022X
+   Darius P., 2020, ARXIV PREPRINT ARXIV
+   Del Vicario M, 2017, SCI REP-UK, V7, DOI 10.1038/srep40391
+   DiMaggio P, 1996, AM J SOCIOL, V102, P690, DOI 10.1086/230995
+   Dong ZC, 2019, PHYS LETT A, V383, P607, DOI 10.1016/j.physleta.2018.12.042
+   Dubois E, 2018, INFORM COMMUN SOC, V21, P729, DOI 10.1080/1369118X.2018.1428656
+   Edwards C, 2013, RUSI J, V158, P40, DOI 10.1080/03071847.2013.847714
+   Evans T, 2018, ROY SOC OPEN SCI, V5, DOI 10.1098/rsos.181122
+   Frey D., 1986, ADV EXP SOC PSYCHOL, V19, P41, DOI [10.1016/S0065-2601(08)60212-9, DOI 10.1016/S0065-2601(08)60212-9]
+   Guerra B, 2010, PHYS REV E, V81, DOI 10.1103/PhysRevE.81.056105
+   Hegselmann R, 2002, JASSS-J ARTIF SOC S, V5
+   Hills TT, 2019, PERSPECT PSYCHOL SCI, V14, P323, DOI 10.1177/1745691618803647
+   ISENBERG DJ, 1986, J PERS SOC PSYCHOL, V50, P1141, DOI 10.1037/0022-3514.50.6.1141
+   Jamieson K.H., 2008, ECHO CHAMBER RUSH LI
+   Krapivsky PL, 2003, PHYS REV LETT, V90, DOI 10.1103/PhysRevLett.90.238701
+   Lerman K., 2010, P INT AAAI C WEB SOC, P4
+   McInnes L, 2020, Arxiv, DOI [arXiv:1802.03426, 10.21105/joss.00861, DOI 10.21105/JOSS.00861]
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Morales AJ, 2015, CHAOS, V25, DOI 10.1063/1.4913758
+   MYERS DG, 1970, SCIENCE, V169, P778, DOI 10.1126/science.169.3947.778
+   Myers SA, 2014, WWW'14 COMPANION: PROCEEDINGS OF THE 23RD INTERNATIONAL CONFERENCE ON WORLD WIDE WEB, P493, DOI 10.1145/2567948.2576939
+   Newman MEJ, 2006, P NATL ACAD SCI USA, V103, P8577, DOI 10.1073/pnas.0601602103
+   O'Callaghan D, 2015, SOC SCI COMPUT REV, V33, P459, DOI 10.1177/0894439314555329
+   Pariser Eli, 2011, FILTER BUBBLE WHAT I
+   Passini S, 2012, HUM AFF, V22, P301, DOI 10.2478/s13374-012-0025-0
+   Quattrociocchi W, 2016, SSRN, V5110, P28945
+   Rivadeneira AW, 2007, CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, VOLS 1 AND 2, P995
+   Sakoda J M., 1971, J. Math. Sociol, V1, P119, DOI [10.1080/0022250X.1971.9989791, DOI 10.1080/0022250X.1971.9989791]
+   Sasahara K, 2020, J COMPUT SOC SCI, V1, P67
+   SCHELLING TC, 1971, J MATH SOCIOL, V1, P143, DOI 10.1080/0022250X.1971.9989794
+   Schneider CM, 2011, P NATL ACAD SCI USA, V108, P3838, DOI 10.1073/pnas.1009440108
+   SEIDMAN SB, 1983, SOC NETWORKS, V5, P269, DOI 10.1016/0378-8733(83)90028-X
+   SPARCKJONES K, 1972, J DOC, V28, P11, DOI 10.1108/eb026526
+   Stroud NJ, 2010, J COMMUN, V60, P556, DOI 10.1111/j.1460-2466.2010.01497.x
+   Suo SG, 2008, JASSS-J ARTIF SOC S, V11
+   Tang J, 2015, PROCEEDINGS OF THE 24TH INTERNATIONAL CONFERENCE ON WORLD WIDE WEB (WWW 2015), P1067, DOI 10.1145/2736277.2741093
+   Thurner S., 2020, ARXIV PREPRINT ARXIV
+   Törnberg P, 2018, PLOS ONE, V13, DOI 10.1371/journal.pone.0203958
+   Traag VA, 2019, SCI REP-UK, V9, DOI 10.1038/s41598-019-41695-z
+   Vespignani A, 2012, NAT PHYS, V8, P32, DOI 10.1038/nphys2160
+   Vosoughi S, 2018, SCIENCE, V359, P1146, DOI 10.1126/science.aap9559
+   Wang X, 2020, PHYS REV X, V10, DOI 10.1103/PhysRevX.10.041042
+   Wang YX, 2019, SOC SCI MED, V240, DOI 10.1016/j.socscimed.2019.112552
+   Wu ZX, 2011, PHYS REV E, V84, DOI 10.1103/PhysRevE.84.026106
+NR 59
+TC 7
+Z9 7
+U1 3
+U2 27
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD APR 5
+PY 2021
+VL 11
+IS 1
+AR 7491
+DI 10.1038/s41598-021-86750-w
+PG 10
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA RJ7YA
+UT WOS:000637816800016
+PM 33820918
+OA gold, Green Published
+DA 2024-11-22
+ER

@@ -1,0 +1,485 @@
+
+PT J
+AU Apollonio, N
+   Franciosa, PG
+   Santoni, D
+AF Apollonio, Nicola
+   Franciosa, Paolo G.
+   Santoni, Daniele
+TI A novel method for assessing and measuring homophily in networks through
+   second-order statistics
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID PROTEIN-PROTEIN INTERACTIONS; ASSOCIATION; FRIENDSHIP; PREDICTION;
+   DATABASE; GENDER
+AB We present a new method for assessing and measuring homophily in networks whose nodes have categorical attributes, namely when the nodes of networks come partitioned into classes (colors). We probe this method in two different classes of networks: (i) protein-protein interaction (PPI) networks, where nodes correspond to proteins, partitioned according to their functional role, and edges represent functional interactions between proteins (ii) Pokec on-line social network, where nodes correspond to users, partitioned according to their age, and edges respresent friendship between users.Similarly to other classical and well consolidated approaches, our method compares the relative edge density of the subgraphs induced by each class with the corresponding expected relative edge density under a null model. The novelty of our approach consists in prescribing an endogenous null model, namely, the sample space of the null model is built on the input network itself. This allows us to give exact explicit expression for the z-score of the relative edge density of each class as well as other related statistics. The z-scores directly quantify the statistical significance of the observed homophily via Cebysev inequality. The expression of each z-score is entered by the network structure through basic combinatorial invariant such as the number of subgraphs with two spanning edges. Each z-score is computed in O(n + m) time for a network with n nodes and m edges. This leads to an overall efficient computational method for assesing homophily. We complement the analysis of homophily/heterophily by considering z-scores of the number of isolated nodes in the subgraphs induced by each class, that are computed in O(nm) time. Theoretical results are then exploited to show that, as expected, both the analyzed network classes are significantly homophilic with respect to the considered node properties.
+C1 [Apollonio, Nicola] CNR, Ist Applicaz Calcolo Mauro Picone, Via Taurini 19, I-00185 Rome, Italy.
+   [Franciosa, Paolo G.] Univ Roma La Sapienza, Dipartimento Sci Stat, Piazzale Aldo Moro 5, I-00185 Rome, Italy.
+   [Santoni, Daniele] CNR, Ist Anal Sistemi Informat Antonio Ruberti, Via Taurini 19, I-00185 Rome, Italy.
+C3 Consiglio Nazionale delle Ricerche (CNR); Istituto per le Applicazioni
+   del Calcolo "Mauro Picone" (IAC-CNR); Sapienza University Rome;
+   Consiglio Nazionale delle Ricerche (CNR); Istituto di Analisi dei
+   Sistemi ed Informatica "Antonio Ruberti" (IASI-CNR)
+RP Franciosa, PG (corresponding author), Univ Roma La Sapienza, Dipartimento Sci Stat, Piazzale Aldo Moro 5, I-00185 Rome, Italy.
+EM paolo.franciosa@uniroma1.it
+RI Apollonio, Nicola/LRU-0090-2024
+OI apollonio, nicola/0000-0001-6089-1333
+CR [Anonymous], 2012, P INT SCI C INT WORK
+   AUKETT R, 1988, SEX ROLES, V19, P57, DOI 10.1007/BF00292464
+   Cheadle JE, 2012, SOC SCI RES, V41, P1198, DOI 10.1016/j.ssresearch.2012.03.014
+   Chowdhary R, 2009, BIOINFORMATICS, V25, P1536, DOI 10.1093/bioinformatics/btp245
+   Deng MH, 2003, J COMPUT BIOL, V10, P947, DOI 10.1089/106652703322756168
+   Easley D, 2010, Networks, Crowds, and Markets: Reasoning about A Highly Connected World, DOI [10.1017/CBO9780511761942, DOI 10.1017/CBO9780511761942]
+   Ferentinos A., 1982, Trabajos Estadst Investigacion Oper, P125, DOI DOI 10.1007/BF02888707
+   Gulbahce N, 2008, BIOESSAYS, V30, P934, DOI 10.1002/bies.20820
+   Jansen R, 2003, SCIENCE, V302, P449, DOI 10.1126/science.1087361
+   Jeong H, 2001, NATURE, V411, P41, DOI 10.1038/35075138
+   Karimi F, 2018, SCI REP-UK, V8, DOI 10.1038/s41598-018-29405-7
+   Kim K, 2017, COMMUN NONLINEAR SCI, V44, P482, DOI 10.1016/j.cnsns.2016.08.011
+   Knuth DE., 1997, ART COMPUTER PROGRAM, V3, DOI DOI 10.1093/molbev/msg024
+   Kossinets G, 2009, AM J SOCIOL, V115, P405, DOI 10.1086/599247
+   Lancichinetti A, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0011976
+   MCPHERSON JM, 1987, AM SOCIOL REV, V52, P370, DOI 10.2307/2095356
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Newman MEJ, 2006, P NATL ACAD SCI USA, V103, P8577, DOI 10.1073/pnas.0601602103
+   Newman MEJ, 2003, PHYS REV E, V67, DOI 10.1103/PhysRevE.67.026126
+   Oliver S, 2000, NATURE, V403, P601, DOI 10.1038/35001165
+   Park JY, 2007, P NATL ACAD SCI USA, V104, P17916, DOI 10.1073/pnas.0705081104
+   Piovesan D, 2015, AMINO ACIDS, V47, P2583, DOI 10.1007/s00726-015-2049-3
+   Prasad TSK, 2009, NUCLEIC ACIDS RES, V37, pD767, DOI 10.1093/nar/gkn892
+   Santoni D, 2009, J THEOR BIOL, V258, P513, DOI 10.1016/j.jtbi.2009.01.035
+   SHRUM W, 1988, SOCIOL EDUC, V61, P227, DOI 10.2307/2112441
+   Szklarczyk D, 2019, NUCLEIC ACIDS RES, V47, pD607, DOI [10.1093/nar/gky1131, 10.1093/nar/gkac1000]
+   Szklarczyk D, 2017, NUCLEIC ACIDS RES, V45, pD362, DOI 10.1093/nar/gkw937
+   von Mering C, 2002, NATURE, V417, P399, DOI 10.1038/nature750
+   von Mering C, 2003, NUCLEIC ACIDS RES, V31, P258, DOI 10.1093/nar/gkg034
+   Yang J, 2015, KNOWL INF SYST, V42, P181, DOI 10.1007/s10115-013-0693-z
+NR 30
+TC 3
+Z9 3
+U1 2
+U2 3
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD JUN 13
+PY 2022
+VL 12
+IS 1
+AR 9757
+DI 10.1038/s41598-022-12710-7
+PG 18
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 2C4LE
+UT WOS:000810841100037
+PM 35697749
+OA gold, Green Published, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Liu, D
+AF Liu, Ding
+TI Spatial Correlation Network and Driving Factors of Trade between China
+   and RECP Countries: Empirical Investigation Based on the Social Network
+   Analysis Method
+SO DISCRETE DYNAMICS IN NATURE AND SOCIETY
+LA English
+DT Article
+AB This study adopts the revised gravity model to construct the spatial association network of trade in RECP countries and reveals its characteristics through a social network analysis method. The results are as follows: the spatial correlation of trade among RECP countries presents a complex, multithreaded network structure; the spatial correlation network of trade among RECP countries appears to fluctuate, indicating that their correlations, although influenced by the national environment, are still moving in the direction of regional integration; the degree centrality of China, Australia, and Korea is higher in terms of intermediary centrality and proximity centrality. This indicates that these countries are not only at the core of the network and have many associated relationships with other countries but also all are located at the center of the trade spatial association network; and the analysis results of the block model show that the trade spatial association network of RECP countries can be divided into four sections: net spillover, net benefit, broker, and two-way spillover. The spillover effect between the two sections has obvious gradient transmission characteristics.
+C1 [Liu, Ding] Zhejiang Univ, Sch Econ, Hangzhou, Peoples R China.
+C3 Zhejiang University
+RP Liu, D (corresponding author), Zhejiang Univ, Sch Econ, Hangzhou, Peoples R China.
+EM 0621066@zju.edu.cn
+CR Gong J., 2019, NATL TRADE NETWORK A
+   Gu X., 2022, MOD EC RES, V3, P60, DOI [10.13891/j.cnki.mer.2022.03.008, DOI 10.13891/J.CNKI.MER.2022.03.008]
+   Li Q, 2016, RECP POTENTIAL INFLU
+   Li Q.L., 2022, INT TRADE, P89
+   Li YF, 2020, CURR OPIN GENET DEV, V64, P6, DOI 10.1016/j.gde.2020.05.013
+   Yuan M.L., 2021, PRICE THEORY PRACTIC, P5
+   Zhang Z., 2018, COMP ANAL EC EFFECT
+   Zhao J.R., 2019, INT BUSINESS FINANCE, V35, P13
+   Zhao L.T., 2017, WORLD AGR, V7, P10
+NR 9
+TC 1
+Z9 1
+U1 4
+U2 56
+PU HINDAWI LTD
+PI LONDON
+PA ADAM HOUSE, 3RD FLR, 1 FITZROY SQ, LONDON, W1T 5HF, ENGLAND
+SN 1026-0226
+EI 1607-887X
+J9 DISCRETE DYN NAT SOC
+JI Discrete Dyn. Nat. Soc.
+PD JUN 30
+PY 2022
+VL 2022
+AR 2135836
+DI 10.1155/2022/2135836
+PG 10
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Mathematics; Science & Technology - Other Topics
+GA 2Z9VM
+UT WOS:000826916000005
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Yang, J
+   Zeng, DM
+   Zhang, J
+   Dai, HW
+AF Yang, Jing
+   Zeng, Deming
+   Zhang, Jing
+   Dai, Haiwen
+TI How tie strength in alliance network affects the emergence of dominant
+   design: the mediating effects of exploration and exploitation innovation
+SO TECHNOLOGY ANALYSIS & STRATEGIC MANAGEMENT
+LA English
+DT Article
+DE Dominant design; exploratory innovation; exploitative innovation;
+   alliance network
+ID EMBEDDEDNESS; PERFORMANCE; FIELD
+AB Drawing on social network theory and technological innovation literature, this study investigates how firm innovation mediates the relationship between tie strength of alliance network and the probability of producing dominant designs. We argue that strong ties facilitate both exploratory and exploitative innovation, which enables firms to produce dominant designs. We test the hypotheses with data from the Chinese automotive industry during 2004 and 2012. The findings suggest that strong network ties help producing dominant designs through facilitating exploitative but not exploratory innovation. This study reveals how the social networks, as important resources, influence firm performance in the competition to produce a dominant design. Firms must engage in innovation activities, especially exploitative innovation activities, to realise the value of their networks.
+C1 [Yang, Jing; Zeng, Deming] Hunan Univ, Sch Business Adm, Changsha 410082, Hunan, Peoples R China.
+   [Zhang, Jing] Old Dominion Univ, Strome Coll Business, Dept Management, Norfolk, VA USA.
+   [Dai, Haiwen] Guangdong Univ Technol, Sch Management, Guangzhou, Peoples R China.
+C3 Hunan University; Old Dominion University; Guangdong University of
+   Technology
+RP Zeng, DM (corresponding author), Hunan Univ, Sch Business Adm, Changsha 410082, Hunan, Peoples R China.
+EM deming@hnu.edu.cn
+OI Zeng, Deming/0000-0002-5146-8821; Dai, haiwen/0000-0001-9146-019X
+FU National Natural Science Foundation of China [71932005, 72074070,
+   71902059, 72002070, 72004036]; Science Research Foundation for Education
+   Department of Hunan Province [17B287]
+FX The National Natural Science Foundation of China [grant number:
+   71932005, 72074070, 71902059, 72002070 and 72004036] and the Science
+   Research Foundation for Education Department of Hunan Province [grant
+   number: 17B287].
+CR Afonso O, 2020, MACROECON DYN, V24, P882, DOI 10.1017/S1365100518000524
+   ANDERSON P, 1990, ADMIN SCI QUART, V35, P604, DOI 10.2307/2393511
+   Argyres N, 2015, STRATEGIC MANAGE J, V36, P216, DOI 10.1002/smj.2207
+   Badir YF, 2015, J PROD INNOVAT MANAG, V32, P154, DOI 10.1111/jpim.12222
+   Bahlmann MD, 2014, IND INNOV, V21, P633, DOI 10.1080/13662716.2015.1012906
+   BARON RM, 1986, J PERS SOC PSYCHOL, V51, P1173, DOI 10.1037/0022-3514.51.6.1173
+   Borgatti SP, 2011, ORGAN SCI, V22, P1168, DOI 10.1287/orsc.1100.0641
+   Brem A, 2016, TECHNOVATION, V50-51, P79, DOI 10.1016/j.technovation.2015.11.002
+   Chen TX, 2017, STRATEGIC MANAGE J, V38, P2579, DOI 10.1002/smj.2669
+   Dai HW, 2018, J ENG TECHNOL MANAGE, V47, P96, DOI 10.1016/j.jengtecman.2018.01.002
+   de Vries HJ, 2011, TECHNOL ANAL STRATEG, V23, P249, DOI 10.1080/09537325.2011.550393
+   Ferriani S, 2017, INNOV-ORGAN MANAG, V19, P307, DOI 10.1080/14479338.2017.1341293
+   Fujimoto T, 2014, J PROD INNOVAT MANAG, V31, P8, DOI 10.1111/jpim.12076
+   Gao D., 2008, INT ENTRY STRATEGY E
+   Gao Y, 2017, J BUS IND MARK, V32, P58, DOI 10.1108/JBIM-11-2015-0215
+   Gilsing V, 2006, RES POLICY, V35, P1, DOI 10.1016/j.respol.2005.06.007
+   Gonzalez-Brambila CN, 2013, RES POLICY, V42, P1555, DOI 10.1016/j.respol.2013.07.008
+   Hagedoorn J, 2008, ADV STRATEG MANAGE, V25, P503, DOI 10.1016/S0742-3322(08)25014-X
+   Hao B, 2017, R&D MANAGE, V47, P3, DOI 10.1111/radm.12106
+   He ZL, 2004, ORGAN SCI, V15, P481, DOI 10.1287/orsc.1040.0078
+   Herrmann P, 2005, INT J MANAG REV, V7, P111, DOI 10.1111/j.1468-2370.2005.00108.x
+   Ili S, 2010, R&D MANAGE, V40, P246, DOI 10.1111/j.1467-9310.2010.00595.x
+   Izrael YA, 2009, RUSS METEOROL HYDROL, V34, P635, DOI 10.3103/S106837390910001X
+   Lazzarotti Valentina, 2013, International Journal of Technology Intelligence and Planning, V9, P37
+   Lee J.R., 2007, R D MANAGEMENT, V25
+   Lee J, 2013, RES POLICY, V42, P1469, DOI 10.1016/j.respol.2013.05.004
+   Lee K, 2001, RES POLICY, V30, P459, DOI 10.1016/S0048-7333(00)00088-3
+   Li, 2019, ACAD MANAGEMENT ANN, V2019, P1
+   McEvily B, 2005, STRATEGIC MANAGE J, V26, P1033, DOI 10.1002/smj.484
+   Michelfelder I, 2013, J PROD INNOVAT MANAG, V30, P1159, DOI 10.1111/jpim.12052
+   Ndofor HA, 2011, STRATEGIC MANAGE J, V32, P640, DOI 10.1002/smj.901
+   Nooteboom B., 2004, SOCIAL SCI ELECT PUB, V2, P179
+   Petrick IJ, 2004, TECHNOL FORECAST SOC, V71, P81, DOI 10.1016/S0040-1625(03)00064-7
+   Phelps CC, 2010, ACAD MANAGE J, V53, P890, DOI 10.5465/AMJ.2010.52814627
+   Quintana-García C, 2008, RES POLICY, V37, P492, DOI 10.1016/j.respol.2007.12.002
+   Robinson DT, 2007, J LAW ECON ORGAN, V23, P242, DOI 10.1093/jleo/ewm010
+   Rowley T, 2000, STRATEGIC MANAGE J, V21, P369, DOI 10.1002/(SICI)1097-0266(200003)21:3<369::AID-SMJ93>3.0.CO;2-M
+   Sanga S, 2020, J LAW ECON, V63, P1, DOI 10.1086/706191
+   Schuster G, 2015, INT J TECHNOL MANAGE, V69, P54, DOI 10.1504/IJTM.2015.071031
+   Shieh G, 2008, ORGAN RES METHODS, V11, P387, DOI 10.1177/1094428106292901
+   Soh PH, 2010, STRATEGIC MANAGE J, V31, P438, DOI 10.1002/smj.819
+   Srinivasan R, 2006, J MARKETING, V70, P1, DOI 10.1509/jmkg.70.2.1
+   Suarez FF, 2015, STRATEGIC MANAGE J, V36, P437, DOI 10.1002/smj.2225
+   Teece DJ, 2006, RES POLICY, V35, P1131, DOI 10.1016/j.respol.2006.09.009
+   Tegarden LF, 1999, STRATEGIC MANAGE J, V20, P495, DOI 10.1002/(SICI)1097-0266(199906)20:6<495::AID-SMJ43>3.0.CO;2-M
+   TUSHMAN ML, 1992, RES ORGAN BEHAV, V14, P311
+   van Beers C, 2014, J PROD INNOVAT MANAG, V31, P292, DOI 10.1111/jpim.12096
+   Wang YZ, 2015, J MANAGE, V41, P236, DOI 10.1177/0149206314557157
+NR 48
+TC 18
+Z9 19
+U1 11
+U2 98
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0953-7325
+EI 1465-3990
+J9 TECHNOL ANAL STRATEG
+JI Technol. Anal. Strateg. Manage.
+PD JAN 2
+PY 2022
+VL 34
+IS 1
+BP 112
+EP 124
+DI 10.1080/09537325.2021.1890012
+EA FEB 2021
+PG 13
+WC Management; Multidisciplinary Sciences
+WE Social Science Citation Index (SSCI)
+SC Business & Economics; Science & Technology - Other Topics
+GA YW1MF
+UT WOS:000620467300001
+DA 2024-11-22
+ER
+
+PT J
+AU Jacksona, MO
+   Malladic, S
+   McAdamsd, D
+AF Jacksona, Matthew O.
+   Malladic, Suraj
+   McAdamsd, David
+TI Learning through the grapevine and the impact of the breadth and depth
+   of social networks
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE social learning; network; misinformation
+AB We study how communication platforms can improve social learning without censoring or fact-checking messages, when they have members who deliberately and/or inadvertently distort information. Message fidelity depends on social network depth (how many times information can be relayed) and breadth (the number of others with whom a typical user shares information). We characterize how the expected number of true minus false messages depends on breadth and depth of the network and the noise structure. Message fidelity can be improved by capping depth or, if that is not possible, limiting breadth, e.g., by capping the number of people to whom someone can forward a given message. Although caps reduce total communication, they increase the fraction of received messages that have traveled shorter distances and have had less opportunity to be altered, thereby increasing the signal-to-noise ratio.
+C1 [Jacksona, Matthew O.] Stanford Univ, Dept Econ, Stanford, CA 94305 USA.
+   [Jacksona, Matthew O.] Santa Fe Inst, Santa Fe, NM 87501 USA.
+   [Malladic, Suraj] Cornell Univ, Dept Econ, Ithaca, NY 14853 USA.
+   [McAdamsd, David] Duke Univ, Fuqua Sch Business, Durham, NC 27708 USA.
+   [McAdamsd, David] Duke Univ, Dept Econ, Durham, NC 27708 USA.
+C3 Stanford University; The Santa Fe Institute; Cornell University; Duke
+   University; Duke University
+RP Jacksona, MO (corresponding author), Stanford Univ, Dept Econ, Stanford, CA 94305 USA.; Jacksona, MO (corresponding author), Santa Fe Inst, Santa Fe, NM 87501 USA.
+EM jacksonm@stanford.edu
+OI McAdams, David/0000-0003-0997-3071; Malladi, Suraj/0009-0009-4119-874X;
+   Jackson, Matthew O./0000-0001-9846-4249
+FU NSF [SES-1629446, SES-2018554]; Microsoft Research New England
+FX We gratefully acknowledge financial support under NSF grants SES-1629446
+   and SES-2018554 and from Microsoft Research New England. We thank Arun
+   Chandrasekhar, Ben Golub, David Hirshleifer, Mallesh Pai, Evan Sadler,
+   and Omer Tamuz for helpful conversations and suggestions.
+CR Acemoglu D., 2022, 28884 NBER, P1, DOI [10.3386/w28884, DOI 10.3386/W28884]
+   Acemoglu D, 2010, GAME ECON BEHAV, V70, P194, DOI 10.1016/j.geb.2010.01.005
+   Adamic LA, 2016, PROCEEDINGS OF THE NINTH ACM INTERNATIONAL CONFERENCE ON WEB SEARCH AND DATA MINING (WSDM'16), P473, DOI 10.1145/2835776.2835827
+   Bloch F, 2018, INT ECON REV, V59, P421, DOI 10.1111/iere.12275
+   Candogan O, 2023, Arxiv, DOI arXiv:2202.12453
+   Candogan O, 2020, OPER RES, V68, P497, DOI 10.1287/opre.2019.1897
+   Chandrasekhar AG, 2020, ECONOMETRICA, V88, P1, DOI 10.3982/ECTA14407
+   Fazio LK, 2015, J EXP PSYCHOL GEN, V144, P993, DOI 10.1037/xge0000098
+   Gurry PJ, 2016, NEW TESTAMENT STUD, V62, P97, DOI 10.1017/S0028688515000314
+   Hern A., 2019, GUARDIAN GUARDI 0121
+   Lobel I, 2016, OPER RES, V64, P564, DOI 10.1287/opre.2015.1364
+   Mueller-Frank M., 2014, WP1118E IESE BUS SCH
+   Jackson MO, 2020, Arxiv, DOI arXiv:1812.03354
+   Posner M, 2019, FORBES FORBES M 0616
+   Serra-Garcia M, 2021, AM ECON REV, V111, P3160, DOI 10.1257/aer.20191295
+   Simmons M.P., 2011, icwsm, V11, P17
+   Vosoughi S, 2018, SCIENCE, V359, P1146, DOI 10.1126/science.aap9559
+NR 17
+TC 4
+Z9 4
+U1 4
+U2 16
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+EI 1091-6490
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD AUG 23
+PY 2022
+VL 119
+IS 34
+AR e2205549119
+DI 10.1073/pnas.2205549119
+PG 9
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA L8LG6
+UT WOS:001025718500009
+PM 35969767
+OA hybrid, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Chase, ID
+   Coelho, D
+   Lee, W
+   Mueller, K
+   Curley, JP
+AF Chase, Ivan D.
+   Coelho, Darius
+   Lee, Won
+   Mueller, Klaus
+   Curley, James P.
+TI Networks never rest: An investigation of network evolution in three
+   species of animals
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Network evolution; Network dynamics; Network visualization;
+   Transitivity; Animal networks; Network stability
+ID DOMINANCE HIERARCHIES; SOCIAL NETWORK; TRANSITIVE INFERENCE; DYNAMICS;
+   BEHAVIOR; MODELS; RANKING; FISH
+AB Despite considerable advancement in the study of network evolution, three basic limitations are common to the data collected: (1) examining a small number of networks, (2) not observing networks from scratch, (3) not collecting time-stamped, continuous records of all interactions among all members of groups. Here, we avoid these limitations by observing all aggressive interactions leading to network formation from the moment of introduction among all members of 45 groups of four individuals each in three species of animals: chickens, cichlid fish, and mice. We apply several recently developed methods for the visualization and analysis of network evolution to these unique datasets. We discover, first, that network evolution is a remarkably dynamic process across all three species: networks do not evolve to specific structures and then remain in those configurations. Instead, we find dynamic stability in which many groups continually return to a general class of structures. Second, we find considerable similarity across species in the pathways that the groups take through different possible network configurations as they evolve. Third, we show that transitive component triads are more stable than intransitive ones. Fourth, we track the evolution of individual ranks within groups and discover that many individuals do not have stable positions. Finally, we discuss fundamental questions that our findings raise for the study of networks in both animals and humans.
+C1 [Chase, Ivan D.] SUNY Stony Brook, Dept Sociol, Stony Brook, NY 11794 USA.
+   [Chase, Ivan D.] SUNY Stony Brook, Grad Program Ecol & Evolut, Stony Brook, NY USA.
+   [Coelho, Darius; Mueller, Klaus] SUNY Stony Brook, Dept Comp Sci, Stony Brook, NY USA.
+   [Lee, Won] Columbia Univ, Dept Psychol, New York, NY 10027 USA.
+   [Lee, Won; Curley, James P.] Univ Texas Austin, Dept Psychol, Austin, TX 78712 USA.
+C3 State University of New York (SUNY) System; Stony Brook University;
+   State University of New York (SUNY) System; Stony Brook University;
+   State University of New York (SUNY) System; Stony Brook University;
+   Columbia University; University of Texas System; University of Texas
+   Austin
+RP Chase, ID (corresponding author), SUNY Stony Brook, Dept Sociol, Stony Brook, NY 11794 USA.
+EM ivan.chase@stonybrook.edu
+RI Coelho, Darius/ABF-7124-2020
+OI Lee, Won/0000-0001-8228-5684; Curley, James/0000-0001-5546-007X
+FU NSF USA [IIS 1527200]; MSIT Korea ICT Consilience Creative Program
+   [IITP-2020-2011-1-00783]; Samsung Foundation
+FX Ivan D. Chase thanks many teams of Stony Brook University
+   un-dergraduates for their heroic efforts in coding videos of fish
+   interaction; Tommy Chu for the Excel program compiling records of fish
+   interaction; Kris Seitz and Karen Murphy for checking data records;
+   David Wendt for writing the voice recognition program for transcribing
+   fish interaction records; Mark Aronoff, Frances Champagne, Mark
+   Granovetter, Jason Jones, Keyan Kaplan, Brent Lindquist, Dianna Padilla,
+   Nicholas Wilson, and three anonymous reviewers for comments on the
+   paper; and Paul St. Denis for technical assistance. Darius Coelho and
+   Klaus Mueller were supported in part by NSF USA grant IIS 1527200 and
+   MSIT Korea ICT Consilience Creative Program (IITP-2020-2011-1-00783) for
+   this work. Won Lee and James P. Curley thank Eilene Yang for help with
+   data collection. Won Lee was supported by a fellowship from the Samsung
+   Foundation.
+CR [Anonymous], 1961, ACQUAINTANCE PROCESS
+   Backstrom L., 2006, P 12 ACM SIGKDD INT, P44, DOI [10.1145/1150402.1150412, DOI 10.1145/1150402.1150412]
+   Barabási AL, 2002, PHYSICA A, V311, P590, DOI 10.1016/S0378-4371(02)00736-7
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Beehner JC, 2017, HORM BEHAV, V91, P68, DOI 10.1016/j.yhbeh.2017.03.003
+   Bender-deMoll S., 2006, J SOCIAL STRUCTURE, V7
+   Bond AB, 2003, ANIM BEHAV, V65, P479, DOI 10.1006/anbe.2003.2101
+   Branson K, 2014, NAT METHODS, V11, P721, DOI 10.1038/nmeth.3004
+   Burk WJ, 2007, INT J BEHAV DEV, V31, P397, DOI 10.1177/0165025407077762
+   Buwalda B, 2017, PHYSIOL BEHAV, V178, P134, DOI 10.1016/j.physbeh.2017.01.008
+   Chase I., 2009, The Oxford Handbook of Analytical Sociology, P566
+   CHASE ID, 1982, BEHAVIOUR, V80, P218, DOI 10.1163/156853982X00364
+   CHASE ID, 1987, ANIM BEHAV, V35, P1113, DOI 10.1016/S0003-3472(87)80168-9
+   Chase ID, 2002, P NATL ACAD SCI USA, V99, P5744, DOI 10.1073/pnas.082104199
+   Chase Ivan D, 2006, Front Zool, V3, P18, DOI 10.1186/1742-9994-3-18
+   Chase ID, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0158900
+   Chase ID, 2011, ADV GENET, V75, P51, DOI 10.1016/B978-0-12-380858-5.00001-0
+   Chu Kar-Hai, 2013, J Soc Struct, V14
+   Coelho D., 2019, IEEE T VISUALIZ COMP, V26, P1650
+   Coleman J., 1961, ADOLESCENT SOC, V1st
+   Crnovrsanin T, 2014, SOC NETWORKS, V37, P56, DOI 10.1016/j.socnet.2013.12.002
+   Daniel JR, 2019, SOC NETWORKS, V57, P63, DOI 10.1016/j.socnet.2018.12.005
+   David H. A., 1988, The Method of Paired Comparisons, V2
+   DAVID HA, 1987, BIOMETRIKA, V74, P432, DOI 10.2307/2336160
+   Doreian P, 2006, SOC NETWORKS, V28, P137, DOI 10.1016/j.socnet.2005.05.002
+   DORIAN P, 1997, EVOLUTION SOCIAL NET
+   Elo A., 1978, RATING CHESSPLAYERS
+   Franz M, 2015, P ROY SOC B-BIOL SCI, V282, P113, DOI 10.1098/rspb.2015.1512
+   Gammell MP, 2003, ANIM BEHAV, V66, P601, DOI 10.1006/anbe.2003.2226
+   Garlaschelli D, 2005, PHYSICA A, V355, P138, DOI 10.1016/j.physa.2005.02.075
+   Ghoshal G., SCI REP-UK, V3, P2920
+   Grosenick L, 2007, NATURE, V445, P429, DOI 10.1038/nature05511
+   Gu WW, 2019, SOC NETWORKS, V57, P70, DOI 10.1016/j.socnet.2018.11.002
+   Hallinan M., 1974, STRUCTURE POSITIVE S
+   HALLINAN MT, 1978, SOC NETWORKS, V1, P193, DOI 10.1016/0378-8733(78)90019-9
+   HALLINAN MT, 1990, SOC FORCES, V69, P505
+   Harrison LM, 2018, BIOL LETTERS, V14, DOI 10.1098/rsbl.2018.0195
+   Hofmann HA, 1999, P NATL ACAD SCI USA, V96, P14171, DOI 10.1073/pnas.96.24.14171
+   Holekamp KE, 2016, CURR OPIN BEHAV SCI, V12, P44, DOI 10.1016/j.cobeha.2016.08.005
+   Kim DA, 2015, LANCET, V386, P145, DOI 10.1016/S0140-6736(15)60095-2
+   Kossinets G, 2006, SCIENCE, V311, P88, DOI 10.1126/science.1116869
+   Krackhardt D, 2007, LECT NOTES COMPUT SC, V4503, P14
+   Kwak D, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0177729
+   LEINHARDT S, 1973, BEHAV SCI, V18, P260, DOI 10.1002/bs.3830180405
+   Leskovec J., 2008, P 14 ACM SIGKDD INT, P462
+   Lindquist WB, 2009, B MATH BIOL, V71, P556, DOI 10.1007/s11538-008-9371-9
+   Lubbers MJ, 2010, SOC NETWORKS, V32, P91, DOI 10.1016/j.socnet.2009.05.001
+   Martin JL, 2009, SOCIAL STRUCTURES, P1
+   Moody J, 2005, AM J SOCIOL, V110, P1206, DOI 10.1086/421509
+   Moody J., 2009, The Oxford Handbook of Analytical Sociology, P447
+   Neumann C, 2011, ANIM BEHAV, V82, P911, DOI 10.1016/j.anbehav.2011.07.016
+   Niezink NMD, 2019, SOCIOL METHODOL, V49, P295, DOI 10.1177/0081175019842263
+   Nilsson SR., 2020, SIMPLE BEHAV ANAL SI, DOI DOI 10.1101/2020.04.19.049452
+   Oliveira RF, 1996, AGGRESSIVE BEHAV, V22, P37, DOI 10.1002/(SICI)1098-2337(1996)22:1<37::AID-AB4>3.0.CO;2-R
+   Oliveira RF, 2011, ZEBRAFISH, V8, P73, DOI 10.1089/zeb.2011.0690
+   onck H.J., 2018, ARXIV180307985CSCV
+   Osgood DW, 2013, J ADOLESCENT HEALTH, V53, P174, DOI 10.1016/j.jadohealth.2013.02.013
+   Oyegbile TO, 2005, HORM BEHAV, V48, P259, DOI 10.1016/j.yhbeh.2005.04.007
+   Paz-y-Miño G, 2004, NATURE, V430, P778, DOI 10.1038/nature02723
+   Peters SM, 2016, J NEUROSCI METH, V268, P163, DOI 10.1016/j.jneumeth.2016.02.020
+   Richards W, 2014, NETW SCI, V2, P326, DOI 10.1017/nws.2014.24
+   Robins G, 2001, J MATH SOCIOL, V25, P5, DOI 10.1080/0022250X.2001.9990243
+   Rosenkopf L, 2008, ORGAN SCI, V19, P669, DOI 10.1287/orsc.1070.0339
+   Rutte C, 2006, TRENDS ECOL EVOL, V21, P16, DOI 10.1016/j.tree.2005.10.014
+   Ryan L, 2018, SOC NETWORKS, V53, P148, DOI 10.1016/j.socnet.2017.03.003
+   Sampson S.F., 1969, CRISIS CLOISTER
+   SAVINWILLIAMS RC, 1980, J YOUTH ADOLESCENCE, V9, P75, DOI 10.1007/BF02088381
+   Schaefer DR, 2010, SOC NETWORKS, V32, P61, DOI 10.1016/j.socnet.2009.04.003
+   Shizuka D, 2012, ANIM BEHAV, V83, P925, DOI 10.1016/j.anbehav.2012.01.011
+   Skvoretz J, 1996, J MATH SOCIOL, V21, P57, DOI 10.1080/0022250X.1996.9990174
+   Skvoretz J., 2016, Socius: Sociological Research for a Dynamic World, V2, P1, DOI DOI 10.1177/2378023115621561
+   Skvoretz John, 2002, J SOCIAL STRUCTURE, V3
+   Snijders T.A.B., 2011, SAGE HDB SOCIAL NETW, P501
+   Snyder-Mackler N, 2016, SCIENCE, V354, P1041, DOI 10.1126/science.aah3580
+   Sorensen A.B., 1976, Social Science Research, V5, P43, DOI DOI 10.1016/0049-089X(76)90035-1
+   Tufte ER., 1990, Envisioning information
+   Varholick JA, 2018, SCI REP-UK, V8, DOI 10.1038/s41598-018-24624-4
+   Viswanath B, 2009, 2ND ACM SIGCOMM WORKSHOP ON ONLINE SOCIAL NETWORKS (WOSN 09), P37
+   WASSERMAN S, 1988, PSYCHOMETRIKA, V53, P261, DOI 10.1007/BF02294137
+   Williamson CM, 2017, PHYSIOL BEHAV, V171, P110, DOI 10.1016/j.physbeh.2016.12.038
+   Williamson CM, 2016, FRONT BEHAV NEUROSCI, V10, DOI 10.3389/fnbeh.2016.00152
+   Williamson CM, 2016, ANIM BEHAV, V115, P259, DOI 10.1016/j.anbehav.2016.03.004
+   Wyatt D, 2011, ACM T INTEL SYST TEC, V2, DOI 10.1145/1889681.1889688
+   Zhao K, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.056109
+NR 84
+TC 8
+Z9 8
+U1 4
+U2 18
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JAN
+PY 2022
+VL 68
+BP 356
+EP 373
+DI 10.1016/j.socnet.2021.09.002
+EA OCT 2021
+PG 18
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA WG9RH
+UT WOS:000707327500001
+OA Bronze
+DA 2024-11-22
+ER

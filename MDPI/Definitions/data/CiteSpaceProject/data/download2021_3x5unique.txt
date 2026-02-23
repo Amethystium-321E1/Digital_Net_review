@@ -1,0 +1,585 @@
+
+PT J
+AU Yuan, YY
+   Han, ZL
+AF Yuan, Yingying
+   Han, Zenglin
+TI Structural characteristics and proximity comparison of China's urban
+   innovation cooperation network
+SO PLOS ONE
+LA English
+DT Article
+ID CITIES; GLOBALIZATION; AGGLOMERATION; CENTRALITY; SPACE
+AB How to promote and improve the level of urban innovation cooperation is a major issue in China's current high-quality economic development. Thus, enhancing innovation ability is essential to achieving high-quality economic growth under the "new normal". Based on the data of Chinese invention patents from 1985 to 2017, this paper analyzes the characteristics of China's urban innovation cooperation network and the different roles of proximity by using social network analysis and exploratory spatial data analysis methods. The analysis results show that: (1) On the whole, the development of China's urban innovation cooperation network is characterized by stages (initial development stage, rapid development stage, and gradual decline stage); The urban innovation cooperation network has strong connectivity and centripetal concentration but its imbalance needs to be further improved; The degree of urban participation has gradually increased, consolidating the stability of the network structure. (2) The centrality of urban innovation cooperation network has obvious characteristics of administrative center orientation, coastal areas orientation, and 'strong east and weak west'; Beijing is the center and bridge of the network, and the network flattening characteristics are obvious; A hierarchical 'core-edge' structure is gradually formed for the urban innovation cooperation network, and the pyramid structure with Beijing standing at the top is being consolidated. (3) The geographical proximity presents a significant global spatial positive correlation, while the network proximity and pure network proximity have a more significant global spatial negative correlation; The local spatial autocorrelation of China's urban innovation cooperation system based on network proximity is more obvious and identifiable than that based on the geographical proximity, which better reflects the new development model of "relationship economy".
+C1 [Yuan, Yingying; Han, Zenglin] Liaoning Normal Univ, Sch Geog, Dalian, Liaoning, Peoples R China.
+   [Yuan, Yingying; Han, Zenglin] Liaoning Normal Univ, Ctr Studies Marine Econ & Sustainable Dev, Dalian, Liaoning, Peoples R China.
+C3 Liaoning Normal University; Liaoning Normal University
+RP Yuan, YY (corresponding author), Liaoning Normal Univ, Sch Geog, Dalian, Liaoning, Peoples R China.; Yuan, YY (corresponding author), Liaoning Normal Univ, Ctr Studies Marine Econ & Sustainable Dev, Dalian, Liaoning, Peoples R China.
+EM yuanyy1125@163.com
+OI Yuan, Yingying/0000-0002-3691-9700
+FU National Natural Science Foundation of China [41976206]
+FX The National Natural Science Foundation of China (Grant No. 41976206)
+   (URL http://isisn.nsfc.gov.cn/egrantindex/funcindex/prjsearch-list)
+   contributed to study design.
+CR Alderson AS, 2010, URBAN STUD, V47, P1899, DOI 10.1177/0042098010372679
+   Alpaydin UAR, 2021, PAP REG SCI, V100, DOI 10.1111/pirs.12586
+   Asheim B.T., 2002, J TECHNOLOGICAL TRAN, V27, P77, DOI DOI 10.1023/A:1013100704794
+   Asheim B, 2007, ENVIRON PLANN C, V25, P655, DOI 10.1068/c0648
+   Balland PA, 2015, REG STUD, V49, P907, DOI 10.1080/00343404.2014.883598
+   Bathelt H., 2002, GEOGR ANN, V84 B, P93, DOI DOI 10.1111/J.0435-3684.2002.00116.X
+   BATTEN DF, 1995, URBAN STUD, V32, P313, DOI 10.1080/00420989550013103
+   Boschma R, 2010, HANDBOOK OF EVOLUTIONARY ECONOMIC GEOGRAPHY, P120
+   Castells M, 1999, URBAN GEOGR, V20, P294, DOI 10.2747/0272-3638.20.4.294
+   Christaller W., 1966, CENTRAL PLACES SO GE
+   Cunningham SW, 2012, PAP REG SCI, V91, P723, DOI 10.1111/j.1435-5957.2012.00416.x
+   Derudder B, 2018, REG STUD, V52, P1029, DOI 10.1080/00343404.2017.1330538
+   [段德忠 Duan Dezhong], 2018, [地理科学, Scientia Geographica Sinica], V38, P1759
+   Fan CC, 2003, ECON GEOGR, V79, P295
+   Feldman MP, 1999, EUR ECON REV, V43, P409, DOI 10.1016/S0014-2921(98)00047-6
+   Fratczak-Müller J, 2020, EUR PLAN STUD, V28, P8, DOI 10.1080/09654313.2019.1623972
+   FREEMAN C, 1991, RES POLICY, V20, P499, DOI 10.1016/0048-7333(91)90072-X
+   FREEMAN LC, 1980, SOC NETWORKS, V2, P119, DOI 10.1016/0378-8733(79)90002-9
+   Gertler M.S., 2005, IND INNOV, V12, P487, DOI [10.1080/13662710500361981, DOI 10.1080/13662710500361981]
+   [韩增林 Han Zenglin], 2018, [经济地理, Economic Geography], V38, P103
+   [黄晓东 Huang Xiaodong], 2021, [地理学报, Acta Geographica Sinica], V76, P835
+   JAFFE AB, 1989, AM ECON REV, V79, P957
+   KRUGMAN P, 1991, J POLIT ECON, V99, P483, DOI 10.1086/261763
+   Lee DS, 2018, SUSTAINABILITY-BASEL, V10, DOI 10.3390/su10020289
+   Li CX, 2019, SUSTAINABILITY-BASEL, V11, DOI 10.3390/su11051446
+   [李丹丹 Li Dandan], 2015, [地理研究, Geographical Research], V34, P525
+   [刘承良 Liu Chengliang], 2017, [地理学报, Acta Geographica Sinica], V72, P737
+   Ma HT, 2021, URBAN STUD, V58, P2405, DOI 10.1177/0042098020942665
+   Maggioni MA, 2007, PAP REG SCI, V86, P471, DOI 10.1111/j.1435-5957.2007.00130.x
+   Malmberg A, 2006, GROWTH CHANGE, V37, P1, DOI 10.1111/j.1468-2257.2006.00302.x
+   Marshall A., 2009, PRINCIPLES EC UNABRI
+   Maskell P, 1999, CAMB J ECON, V23, P167, DOI 10.1093/cje/23.2.167
+   Meijers E, 2007, TIJDSCHR ECON SOC GE, V98, P245, DOI 10.1111/j.1467-9663.2007.00394.x
+   [潘竟虎 Pan Jinghu], 2019, [地理研究, Geographical Research], V38, P1678
+   Proost S, 2019, J ECON LIT, V57, P575, DOI 10.1257/jel.20181414
+   Rozenblat C, 2010, URBAN STUD, V47, P2841, DOI 10.1177/0042098010377369
+   Scott AJ, 2001, EUR PLAN STUD, V9, P813, DOI 10.1080/09654310120079788
+   Taylor PJ, 2001, GEOGR ANAL, V33, P181, DOI 10.1111/j.1538-4632.2001.tb00443.x
+   Tijssen R, 2020, PAP REG SCI, V99, P1215, DOI 10.1111/pirs.12531
+   Torre A, 2000, REG STUD, V34, P169
+   Wang JE, 2011, J TRANSP GEOGR, V19, P712, DOI 10.1016/j.jtrangeo.2010.08.012
+   [王秋玉 Wang Qiuyu], 2016, [地理学报, Acta Geographica Sinica], V71, P251
+   [吴康 Wu Kang], 2015, [地理研究, Geographical Research], V34, P711
+   Ye Q, 2021, SCIENTOMETRICS, V126, P2801, DOI 10.1007/s11192-020-03853-3
+   You HL, 2021, SCI TOTAL ENVIRON, V776, DOI 10.1016/j.scitotenv.2021.146023
+   Zhang F, 2021, CITIES, V109, DOI 10.1016/j.cities.2020.103005
+   Zhang WL, 2020, CITIES, V99, DOI 10.1016/j.cities.2020.102640
+   Zhao XZ, 2020, COMPLEXITY, V2020, DOI 10.1155/2020/4312578
+NR 48
+TC 5
+Z9 5
+U1 7
+U2 90
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JUL 30
+PY 2021
+VL 16
+IS 7
+AR e0255443
+DI 10.1371/journal.pone.0255443
+PG 19
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA UA6CU
+UT WOS:000685248600022
+PM 34329363
+OA gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU McClure, JM
+AF McClure, Jennifer M.
+TI Congregations of a Feather? Exploring Homophily in a Network of
+   Religious Congregations
+SO REVIEW OF RELIGIOUS RESEARCH
+LA English
+DT Article
+DE Religion; Congregations; Social network; Homophily; LDS; Church of
+   Christ; Multiracial; Rural
+AB Background Homophily, the tendency for relationships to be more common among actors who share similarities, has been observed in social network studies of individuals and organizations. Homophily can encourage close, supportive relationships but limit exposure to diversity. Homophily may have important implications for religious congregations, but research has been limited due to few social network data collections on congregations. Purpose This research note uses a new data collection from an inter-congregational network of religious congregations in eight counties encompassing and surrounding a major metropolitan area in the southeastern United States. Its goal is to identify sources of homophily between congregations as well as types of congregations whose immediate networks, which include the congregations to which a congregation has direct relational ties, differ in levels of homophily. Methods Quadratic assignment procedure correlations are used to identify sources of homophily, and both fractional logistic and negative binomial regression models are used to examine the extent to which congregational characteristics predict levels of homophily. Results Three key sources of homophily include sharing the same religious tradition and family, sharing the same racial composition, and having a smaller geographical distance between congregations. Congregations' religious family, racial composition, community setting, and the extent to which attenders are younger and newer matter for predicting levels of homophily. The results have implications for: LDS and Church of Christ congregations; multiracial congregations; declining denominationalism; rural congregations. Conclusions and Implications Congregations of a feather do, in fact, flock together. The results inform a variety of practical implications for congregations. Because of the time constraints experienced by many ministers, denominational events might provide some of the most accessible opportunities to build relationships with other congregations. Multiracial congregations often serve as bridges connecting congregations of different racial compositions. Distinctive and centralized religious groups, like the Church of Jesus Christ of Latter-day Saints, may also effectively encourage relationships across congregations of different racial compositions. Homophily may also impact the extent to which congregations learn about innovations from other congregations and the extent to which collaborations with other congregations are effective.
+C1 [McClure, Jennifer M.] Samford Univ, 800 Lakeshore Dr, Birmingham, AL 35229 USA.
+C3 Samford University
+RP McClure, JM (corresponding author), Samford Univ, 800 Lakeshore Dr, Birmingham, AL 35229 USA.
+EM jmcclure@samford.edu
+OI McClure, Jennifer/0000-0002-3829-6834
+FU Samford University; Lilly Endowment [2014 0494-000]
+FX The author would like to thank Diane Felmlee, Nathaniel Porter, Jennifer
+   Rahn, Jonathan Fleming, Theresa Davidson, Erica Dollhopf, Cameron
+   Thomas, Kevin Flannelly, and anonymous reviewers for their help and
+   advice. This project is possible thanks to a Faculty Development Grant
+   from Samford University and a Lilly Endowment grant awarded to Samford
+   University's Center for Congregational Resources (#2014 0494-000).
+CR Akinyemi O, 2019, BMC PUBLIC HEALTH, V19, DOI 10.1186/s12889-019-7819-5
+   Ammerman N.T., 2005, Pillars of Faith: American Congregations and Their Partners
+   Atouba YC, 2015, NONPROF VOLUNT SEC Q, V44, P587, DOI 10.1177/0899764014524991
+   Beck R., 2014, Journal of Psychology Christianity, V33, P344
+   Borgatti SP., 2018, ANAL SOCIAL NETWORKS
+   Carroll JacksonW., 2006, GODS POTTERS
+   Carter JS, 2005, SOC SCI RES, V34, P408, DOI 10.1016/j.ssresearch.2004.04.004
+   Chaves M., 2014, NATL CONGREGATIONS S
+   Chaves M, 2014, J SCI STUD RELIG, V53, P676, DOI 10.1111/jssr.12151
+   Clauset A, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.066111
+   Crossley N., 2015, Social Network Analysis for Ego-Nets
+   DeYoung CurtissPaul., 2003, UNITED FAITH MULTIRA
+   Emerson MO, 2008, REV RELIG RES, V49, P301
+   Emerson MichaelO., 2000, Divided by Faith: Evangelical Religion and the Problem of Race in America
+   Emerson MO, 2003, J SCI STUD RELIG, V42, P217, DOI 10.1111/1468-5906.00174
+   Everton SF, 2018, STRUC AN S, P1, DOI 10.1017/9781108241748
+   Flynt Wayne., 1998, Alabama Baptists: Southern Baptists in the Heart of Dixie
+   Fulton B.R., 2016, Management and Organizational Studies, V3, P1
+   Geverdt D.E., 2015, ED DEMOGRAPHIC GEOGR
+   Gondal N, 2015, SOC FORCES, V93, P1109, DOI 10.1093/sf/sou101
+   Grammich Clifford., 2012, 2010 U.S. Religion Census: Religious Congregations Membership Study
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Hughes RichardT., 1996, REVIVING ANCIENT FAI
+   IANNACCONE LR, 1994, AM J SOCIOL, V99, P1180, DOI 10.1086/230409
+   Kossinets G, 2009, AM J SOCIOL, V115, P405, DOI 10.1086/599247
+   Krause N, 2001, J SCI STUD RELIG, V40, P637, DOI 10.1111/0021-8294.00082
+   Krause Neal., 2005, INT J PSYCHOL RELIG, V15, P73, DOI 10.1207/s15327582ijpr1501_6
+   Lee SK, 2019, COMMUN RES, V46, P208, DOI 10.1177/0093650216641501
+   Lichter DT, 2007, DEMOGRAPHY, V44, P563, DOI 10.1353/dem.2007.0030
+   Lichter DT, 2007, RURAL SOCIOL, V72, P47, DOI 10.1526/003601107781147437
+   Lipka M., 2015, The most and least racially diverse U.S. religious groups
+   Long J. Scott., 1997, Regression Models for Categorical and Limited Dependent Variables
+   Marler PennyLong., 2013, So Much Better: How Thousands of Pastors Help Each Other to Thrive: The Sustaining Pastoral Excellence (SPE) Peer Learning Project
+   McClure JenniferM., 2020, INTERDISCIPLINARY J, V16, P1
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Melton J.Gordon., 2009, Melton's Encyclopedia of American Religions, V8th
+   Papke LE, 1996, J APPL ECONOM, V11, P619, DOI 10.1002/(SICI)1099-1255(199611)11:6<619::AID-JAE418>3.0.CO;2-1
+   Prell C., 2012, Social Network Analysis: History, Theory and Methodology
+   Putnam R.D., 2010, AM GRACE RELIG DIVID
+   Putnam Robert D., 2000, BOWLING ALONE COLLAP, DOI 10.1145/358916.361990
+   Ramalho EA, 2010, J PROD ANAL, V34, P239, DOI 10.1007/s11123-010-0184-0
+   Ratcliffe Michael, 2016, ACSGEO1 US CENS BUR
+   Robertson Daniel., 2010, J UTAH ACAD SCI ARTS, V87, P317
+   Rotolo T, 2001, SOC FORCES, V79, P1095, DOI 10.1353/sof.2001.0024
+   Schafer MH, 2016, J SCI STUD RELIG, V55, P597, DOI 10.1111/jssr.12281
+   Scheitle CP, 2009, J SCI STUD RELIG, V48, P16, DOI 10.1111/j.1468-5906.2009.01427.x
+   SCOTT J, 1988, SOCIOLOGY, V22, P109, DOI 10.1177/0038038588022001007
+   Shelton JE, 2017, J SCI STUD RELIG, V56, P737, DOI 10.1111/jssr.12378
+   Smith Christian., 1998, AM EVANGELICALISM EM
+   Smith JA, 2017, SOC NETWORKS, V48, P78, DOI 10.1016/j.socnet.2016.04.005
+   Smith JA, 2014, AM SOCIOL REV, V79, P432, DOI 10.1177/0003122414531776
+   Stark R., 2000, ACTS FAITH EXPLAININ, DOI DOI 10.1525/9780520924345
+   Steensland B, 2000, SOC FORCES, V79, P291, DOI 10.2307/2675572
+   Sullins DP, 2004, REV RELIG RES, V45, P278, DOI 10.2307/3512265
+   Todd NR, 2020, AM J COMMUN PSYCHOL, V65, P107, DOI 10.1002/ajcp.12359
+   TUCH SA, 1987, AM SOCIOL REV, V52, P504, DOI 10.2307/2095295
+   Warner Stephen R., 1994, AM CONGREGATIONS, P54
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   Woolever Cynthia., 2012, Leadership That Fits Your Church: What Kind of Pastor for What Kind of Congregation
+   Wuthnow Robert., 1993, CHRISTIANITY 21 CENT
+NR 60
+TC 5
+Z9 7
+U1 2
+U2 4
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0034-673X
+EI 2211-4866
+J9 REV RELIG RES
+JI Rev. Relig. Res.
+PD DEC
+PY 2021
+VL 63
+IS 4
+BP 559
+EP 582
+DI 10.1007/s13644-021-00449-y
+EA JUL 2021
+PG 24
+WC Sociology; Religion
+WE Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Sociology; Religion
+GA XM0RN
+UT WOS:000671703800001
+DA 2024-11-22
+ER
+
+PT J
+AU Arlidge, WNS
+   Firth, JA
+   Alfaro-Shigueto, J
+   Ibanez-Erquiaga, B
+   Mangel, JC
+   Squires, D
+   Milner-Gulland, EJ
+AF Arlidge, William N. S.
+   Firth, Josh A.
+   Alfaro-Shigueto, Joanna
+   Ibanez-Erquiaga, Bruno
+   Mangel, Jeffrey C.
+   Squires, Dale
+   Milner-Gulland, E. J.
+TI Assessing information-sharing networks within small-scale fisheries and
+   the implications for conservation interventions
+SO ROYAL SOCIETY OPEN SCIENCE
+LA English
+DT Article
+DE bycatch; null model; permutation; social network analysis; sea turtle
+ID SOCIAL NETWORKS; TURTLE BYCATCH; CENTRALITY; DIFFUSION; PATTERNS;
+   LEADERS; MODELS; HEALTH
+AB The effectiveness of behavioural interventions in conservation often depends on local resource users' underlying social interactions. However, it remains unclear to what extent differences in related topics of information shared between resource users can alter network structure-holding implications for information flows and the spread of behaviours. Here, we explore the differences in nine subtopics of fishing information related to the planned expansion of a community co-management scheme aiming to reduce sea turtle bycatch at a small-scale fishery in Peru. We show that the general network structure detailing information sharing about sea turtle bycatch is dissimilar from other fishing information sharing. Specifically, no significant degree assortativity (degree homophily) was identified, and the variance in node eccentricity was lower than expected under our null models. We also demonstrate that patterns of information sharing between fishers related to sea turtle bycatch are more similar to information sharing about fishing regulations, and vessel technology and maintenance, than to information sharing about weather, fishing activity, finances and crew management. Our findings highlight the importance of assessing information-sharing networks in contexts directly relevant to the desired intervention and demonstrate the identification of social contexts that might be more or less appropriate for information sharing related to planned conservation actions.
+C1 [Arlidge, William N. S.; Milner-Gulland, E. J.] Univ Oxford, Interdisciplinary Ctr Conservat Sci, Dept Zool, Oxford OX1 3PS, England.
+   [Firth, Josh A.] Univ Oxford, Edward Grey Inst, Dept Zool, Oxford OX1 3PS, England.
+   [Arlidge, William N. S.] Leibniz Inst Freshwater Ecol & Inland Fisheries, Dept Biol & Ecol Fishes, Muggelseedamm 310, D-12587 Berlin, Germany.
+   [Arlidge, William N. S.] Humboldt Univ, Fac Life Sci, Invalidenstr 42, D-10115 Berlin, Germany.
+   [Firth, Josh A.] Univ Oxford, Merton Coll, Oxford, England.
+   [Alfaro-Shigueto, Joanna; Mangel, Jeffrey C.] ProDelphinus, Calle Jose Galvez 780 E, Miraflores 15074, Peru.
+   [Alfaro-Shigueto, Joanna; Mangel, Jeffrey C.] Univ Exeter, Sch Biosci, Cornwall Campus, Penryn TR10 9FE, Cornwall, England.
+   [Alfaro-Shigueto, Joanna] Univ Cient Sur, Carrera Biol Marina, Lima, Peru.
+   [Ibanez-Erquiaga, Bruno] Tech Univ Denmark, Natl Inst Aquat Resources DTU Aqua, Sect Coastal Ecol, DK-2800 Lyngby, Denmark.
+   [Ibanez-Erquiaga, Bruno] Assoc CONSERVACCION, Lima, Peru.
+   [Squires, Dale] NOAA Fisheries Southwest Fisheries Sci Ctr, La Jolla, CA USA.
+C3 University of Oxford; University of Oxford; Leibniz Institut fur
+   Gewasserokologie und Binnenfischerei (IGB); Humboldt University of
+   Berlin; University of Oxford; University of Exeter; Universidad
+   Cientifica del Sur (CIENTIFICA); Technical University of Denmark
+RP Arlidge, WNS (corresponding author), Univ Oxford, Interdisciplinary Ctr Conservat Sci, Dept Zool, Oxford OX1 3PS, England.; Arlidge, WNS (corresponding author), Leibniz Inst Freshwater Ecol & Inland Fisheries, Dept Biol & Ecol Fishes, Muggelseedamm 310, D-12587 Berlin, Germany.; Arlidge, WNS (corresponding author), Humboldt Univ, Fac Life Sci, Invalidenstr 42, D-10115 Berlin, Germany.
+EM william.arlidge@igb-berlin.de
+OI Ibanez-Erquiaga, Bruno/0000-0002-9954-5953; Arlidge,
+   William/0000-0002-1807-4150; Mangel, Jeffrey/0000-0002-9371-8606; Firth,
+   Josh/0000-0001-7183-4115; Milner-Gulland, E.J./0000-0003-0324-2710
+FU Commonwealth Scholarship Commission in the UK [NZCR-2015-174];
+   University of Oxford [NZCR-2015-174]; OX/BER Research Partnership Seed
+   Funding Fund; University of Oxford; Humboldt-Universitat zu Berlin
+   (OXBER_STEM7); Pew Charitable Trusts through a Pew Fellowship; Merton
+   College; BBSRC [BB/S009752/1]; NERC [NE/S010335/1]; BBSRC [BB/S009752/1]
+   Funding Source: UKRI; NERC [NE/S010335/1] Funding Source: UKRI
+FX W.N.S.A. was supported by a PhD Scholarship from the Commonwealth
+   Scholarship Commission in the UK and the University of Oxford (PhD
+   scholarship NZCR-2015-174), the OX/BER Research Partnership Seed Funding
+   Fund in collaboration with the University of Oxford and
+   Humboldt-Universitat zu Berlin (OXBER_STEM7), and acknowledges funding
+   from the Pew Charitable Trusts through a Pew Fellowship to E.J.M.-G.
+   J.A.F was supported by a research fellowship from Merton College and
+   BBSRC (grant no. BB/S009752/1) and acknowledges funding from NERC (grant
+   no. NE/S010335/1).
+CR Abrahamse W, 2013, GLOBAL ENVIRON CHANG, V23, P1773, DOI 10.1016/j.gloenvcha.2013.07.029
+   Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   Alexander SM, 2020, FISH FISH, V21, P120, DOI 10.1111/faf.12421
+   Alexander SM, 2018, INT J COMMONS, V12, P519, DOI 10.18352/ijc.843
+   Alexander SM, 2015, GLOBAL ENVIRON CHANG, V35, P213, DOI 10.1016/j.gloenvcha.2015.09.001
+   Alfaro-Shigueto J, 2007, CHELONIAN CONSERV BI, V6, P129, DOI 10.2744/1071-8443(2007)6[129:IBLTAP]2.0.CO;2
+   Alfaro-Shigueto J, 2018, FISH RES, V206, P185, DOI 10.1016/j.fishres.2018.04.013
+   Alfaro-Shigueto J, 2012, ORYX, V46, P332, DOI 10.1017/S0030605312000105
+   Alfaro-Shigueto J, 2011, J APPL ECOL, V48, P1432, DOI 10.1111/j.1365-2664.2011.02040.x
+   Alfaro-Shigueto J, 2010, FISH RES, V106, P8, DOI 10.1016/j.fishres.2010.06.004
+   Anderson BS, 1999, SOC NETWORKS, V21, P239, DOI 10.1016/S0378-8733(99)00011-8
+   [Anonymous], 2002, J. Social Struct
+   Apicella CL, 2012, NATURE, V481, P497, DOI 10.1038/nature10736
+   Arlidge WNS, 2020, CONSERV SCI PRACT, V2, DOI 10.1111/csp2.181
+   Arlidge WNS, 2020, FRONT MAR SCI, V7, DOI 10.3389/fmars.2020.00049
+   Arthur RI, 2020, MAR POLICY, V115, DOI 10.1016/j.marpol.2020.103867
+   Barnes ML, 2019, NAT COMMUN, V10, DOI 10.1038/s41467-019-09994-1
+   Barnes-Mauthe M, 2013, ECOL SOC, V18, DOI 10.5751/ES-05295-180123
+   Barrett L, 2012, PHILOS T R SOC B, V367, P2108, DOI 10.1098/rstb.2012.0113
+   Bejder L, 1998, ANIM BEHAV, V56, P719, DOI 10.1006/anbe.1998.0802
+   Berkes F., 2001, MANAGING SMALL SCALE
+   Borgatti SP, 2006, SOC NETWORKS, V28, P124, DOI 10.1016/j.socnet.2005.05.001
+   Borgatti SP, 2005, SOC NETWORKS, V27, P55, DOI 10.1016/j.socnet.2004.11.008
+   Byerly H, 2018, FRONT ECOL ENVIRON, V16, P159, DOI 10.1002/fee.1777
+   Campbell E, 2013, SCI REP-UK, V3, DOI 10.1038/srep01905
+   Centola D, 2011, SCIENCE, V334, P1269, DOI 10.1126/science.1207055
+   Centola Damon., 2018, How Behavior Spreads
+   Chuenpagdee R., 2019, The Future of Ocean Governance and Capacity Development, The Future of Ocean Governance and Capacity Development, P349, DOI DOI 10.1163/9789004380271059
+   Corlew LK, 2015, PSYCHOSOC INTERV, V24, P133, DOI 10.1016/j.psi.2015.07.004
+   Croft DP, 2008, EXPLORING ANIMAL SOCIAL NETWORKS, P1
+   Crona B, 2006, ECOL SOC, V11
+   Csardi Gabor NT., 2005, INT J COMPLEX SYST, V2006, P1695, DOI DOI 10.3724/SP.J.1087.2009.02191
+   Davies RWD, 2009, MAR POLICY, V33, P661, DOI 10.1016/j.marpol.2009.01.003
+   DAVIS JA, 1970, AM SOCIOL REV, V35, P843, DOI 10.2307/2093295
+   de Lange E, 2019, TRENDS ECOL EVOL, V34, P1034, DOI 10.1016/j.tree.2019.06.007
+   Dekker D, 2007, PSYCHOMETRIKA, V72, P563, DOI 10.1007/s11336-007-9016-1
+   Dodds PS, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.218701
+   Dunbar RIM, 2018, TRENDS COGN SCI, V22, P32, DOI 10.1016/j.tics.2017.10.004
+   FAO, 2015, VOL GUID SEC SUST SM
+   Farine DR, 2017, METHODS ECOL EVOL, V8, P1309, DOI 10.1111/2041-210X.12772
+   Fink C, 2016, SOC NETW ANAL MIN, V6, DOI 10.1007/s13278-015-0311-z
+   Firth JA., 2020, ANAL SOCIAL SPREAD B, V2012, DOI [10.48550/arXiv.2012.08925, DOI 10.48550/ARXIV.2012.08925]
+   Firth JA, 2020, NAT MED, V26, P1616, DOI 10.1038/s41591-020-1036-8
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   Friedkin NE, 1997, SOC NETWORKS, V19, P209, DOI 10.1016/S0378-8733(96)00298-5
+   Gotelli N.J., 1996, NULL MODELS ECOLOGY
+   Gray CA, 2018, REV FISH BIOL FISHER, V28, P521, DOI 10.1007/s11160-018-9520-7
+   Groce JE, 2019, CONSERV BIOL, V33, P53, DOI 10.1111/cobi.13127
+   Gutiérrez NL, 2011, NATURE, V470, P386, DOI 10.1038/nature09689
+   HAGE P, 1995, SOC NETWORKS, V17, P57, DOI 10.1016/0378-8733(94)00248-9
+   Hall MA, 1996, REV FISH BIOL FISHER, V6, P319, DOI 10.1007/BF00122585
+   Heimlich JE, 2010, EVAL PROGRAM PLANN, V33, P180, DOI 10.1016/j.evalprogplan.2009.07.009
+   HOLLAND PW, 1970, AM J SOCIOL, V76, P492, DOI 10.1086/224954
+   Hubert L., 1986, ASSIGNMENT METHODS C
+   KATZ L, 1956, PSYCHOMETRIKA, V21, P299, DOI 10.1007/BF02289141
+   Kennelly SJ, 2020, FISH FISH, V21, P1046, DOI 10.1111/faf.12494
+   KRACKHARDT D, 1987, SOC NETWORKS, V9, P171, DOI 10.1016/0378-8733(87)90012-8
+   Lewison RL, 2014, P NATL ACAD SCI USA, V111, P5271, DOI 10.1073/pnas.1318960111
+   MANTEL N, 1967, CANCER RES, V27, P209
+   MARSDEN PV, 1993, SOCIOL METHOD RES, V22, P127, DOI 10.1177/0049124193022001006
+   Matous P, 2019, SOC NETWORKS, V56, P10, DOI 10.1016/j.socnet.2018.08.002
+   Mbaru EK, 2017, BIOL CONSERV, V210, P222, DOI 10.1016/j.biocon.2017.03.031
+   McDonald RI, 2015, CURR OPIN BEHAV SCI, V3, P147, DOI 10.1016/j.cobeha.2015.04.006
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Milner-Gulland EJ, 2020, ECOL REV, P63
+   Montanari A, 2010, P NATL ACAD SCI USA, V107, P20196, DOI 10.1073/pnas.1004098107
+   Newman MEJ, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.036122
+   Newman MEJ, 2003, PHYS REV E, V67, DOI 10.1103/PhysRevE.67.026126
+   Newman MEJ, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.208701
+   Ortiz N, 2016, MAR ECOL PROG SER, V545, P251, DOI 10.3354/meps11610
+   Ostrom E., 1990, GOVERNING COMMONS EV, DOI DOI 10.1017/CBO9780511807763
+   Peckham SH, 2007, PLOS ONE, V2, DOI 10.1371/journal.pone.0001041
+   Pornpitakpan C, 2004, J APPL SOC PSYCHOL, V34, P243, DOI 10.1111/j.1559-1816.2004.tb02547.x
+   Przulj N, 2007, BIOINFORMATICS, V23, pE177, DOI 10.1093/bioinformatics/btl301
+   R Core Team, 2018, R LANG ENV STAT COMP
+   Snijders TAB, 2006, SOCIOL METHODOL, V36, P99, DOI 10.1111/j.1467-9531.2006.00176.x
+   Stevens K, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0121431
+   Tantardini M, 2019, SCI REP-UK, V9, DOI 10.1038/s41598-019-53708-y
+   Temple AJ, 2019, BIOL CONSERV, V230, P113, DOI 10.1016/j.biocon.2018.12.024
+   Turner RA, 2014, ECOL SOC, V19, DOI 10.5751/ES-06456-190238
+   Vega L, 2019, PROCEDIA COMPUT SCI, V151, P1188, DOI 10.1016/j.procs.2019.04.170
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Weiss K, 2012, GLOBAL ENVIRON CHANG, V22, P178, DOI 10.1016/j.gloenvcha.2011.09.007
+   WHITEHEAD H, 1995, BEHAV ECOL, V6, P199, DOI 10.1093/beheco/6.2.199
+   Whitehead H., 2008, ANAL ANIMAL SOC, DOI 10.7208/chicago/9780226895246.001.0001
+   Wright AJ, 2015, OCEAN COAST MANAGE, V115, P41, DOI 10.1016/j.ocecoaman.2015.06.029
+   Yang L, 2017, CLUSTER COMPUT, V20, P2403, DOI 10.1007/s10586-017-0732-8
+   Zhang AJ, 2020, INT J AGR SUSTAIN, V18, P266, DOI 10.1080/14735903.2020.1769808
+   Zhang JW, 2019, ANNU REV SOCIOL, V45, P91, DOI 10.1146/annurev-soc-073117-041421
+NR 89
+TC 3
+Z9 4
+U1 1
+U2 18
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 2054-5703
+J9 ROY SOC OPEN SCI
+JI R. Soc. Open Sci.
+PD NOV 24
+PY 2021
+VL 8
+IS 11
+AR 211240
+DI 10.1098/rsos.211240
+PG 16
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA XC0MV
+UT WOS:000721715200005
+PM 34853699
+OA gold, Green Published, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Wieczorek, O
+   Eckl, M
+   Bausch, M
+   Radisch, E
+   Barmeyer, C
+   Rehbein, M
+AF Wieczorek, Oliver
+   Eckl, Markus
+   Bausch, Madeleine
+   Radisch, Erik
+   Barmeyer, Christoph
+   Rehbein, Malte
+TI Better, Faster, Stronger: The Evolution of Co-authorship in
+   International Management Research Between 1990 and 2016
+SO SAGE OPEN
+LA English
+DT Article
+DE international management research; social network analysis;
+   co-authorship academic journals; network dynamics
+ID SCIENTIFIC COLLABORATION; CUMULATIVE ADVANTAGE; BUSINESS FIELD; SOCIAL
+   NETWORK; SCIENCE; INSTITUTIONS; DISCIPLINES; INEQUALITY; DIVERSITY;
+   GROWTH
+AB As a border-transcending discipline, the advancement of international management research depends on collaboration between scholars, universities, and nations to account for the diversity and complexity of management phenomena. Yet, relatively little is known about how international management has evolved as a field of research. We address this gap by examining the evolution of collaboration patterns on three levels of analysis, applying the concepts of cumulative advantage, preferential attachment, and isomorphic behavior in a diachronic network analysis. Based on 6,874 articles published between 1990 and 2016 in eight international management journals, our analysis shows that collaboration is driven by a few key players on each level. Although the US and UK still represent hubs, semi-peripheral actors from Europe and Asia enter the landscape. Nevertheless, non-western actors are still underrepresented. We tie this effect to the expertise-based hegemonic status of American and British business schools and dynamics of cumulative advantage on country-level.
+C1 [Wieczorek, Oliver] Univ Bamberg, Bayern, Germany.
+   [Wieczorek, Oliver] Zeppelin Univ Friedrichshafen, Baden Wurttemberg, Germany.
+   [Eckl, Markus; Bausch, Madeleine; Barmeyer, Christoph; Rehbein, Malte] Univ Passau, Bayern, Germany.
+   [Radisch, Erik] Saxon Acad Sci & Humanities, Sachsen, Germany.
+C3 Otto Friedrich University Bamberg; Zeppelin University; University of
+   Passau
+RP Wieczorek, O (corresponding author), Univ Bamberg, Chair Sociol, Especially Sociol Theory, Feldkrichenstr 21, D-96052 Bayern, Germany.
+EM oliver.wieczorek@uni-bamberg.de
+RI Rehbein, Malte/KFQ-6080-2024; Wieczorek, Oliver/ABC-8053-2020
+OI Rehbein, Malte/0000-0002-3252-0604; Wieczorek,
+   Oliver/0000-0002-6504-0965; Eckl, Markus/0000-0001-6564-0832
+CR Acedo FJ, 2006, J MANAGE STUD, V43, P957, DOI 10.1111/j.1467-6486.2006.00625.x
+   Adler NJ, 2009, ACAD MANAG LEARN EDU, V8, P72, DOI 10.5465/AMLE.2009.37012181
+   Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   ALLISON PD, 1982, AM SOCIOL REV, V47, P615, DOI 10.2307/2095162
+   Barabási AL, 2002, PHYSICA A, V311, P590, DOI 10.1016/S0378-4371(02)00736-7
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Bastian M, 2009, GEPHI OPEN SOURCE SO, DOI [DOI 10.1609/ICWSM.V3I1.13937, 10.13140/2.1.1341.1520]
+   Beaver DD, 2001, SCIENTOMETRICS, V52, P365, DOI 10.1023/A:1014254214337
+   Bellotti E, 2016, SCIENTOMETRICS, V109, P783, DOI 10.1007/s11192-016-2068-1
+   Bozeman B., 2013, J TECHNOL TRANSFER, V38, P1, DOI [DOI 10.1007/s10961-012-9281-8, 10.1007/s10961-012-9281-8, DOI 10.1007/S10961-012-9281-8]
+   Bozeman Barry., 2017, The strength in numbers: the new science of team science
+   Brannen MY, 2010, SCAND J MANAG, V26, P236, DOI 10.1016/j.scaman.2010.06.001
+   Breiger Ronald L., 2010, Relationale Soziologie: Zur Kulturellen Wende Der Netzwerkforschung, P37, DOI [10.1007/978-3-531-92402-1_2, DOI 10.1007/978-3-531-92402-1_2]
+   Buckley PJ, 2005, J INT BUS STUD, V36, P595, DOI 10.1057/palgrave.jibs.8400170
+   Burt RS, 2015, SOC NETWORKS, V43, P149, DOI 10.1016/j.socnet.2015.04.008
+   Burt RS, 2004, AM J SOCIOL, V110, P349, DOI 10.1086/421787
+   Cantwell J, 2016, J INT BUS STUD, V47, P1023, DOI 10.1057/s41267-016-0041-0
+   Choi S, 2012, SCIENTOMETRICS, V90, P25, DOI 10.1007/s11192-011-0509-4
+   Coccia M, 2020, SCIENTOMETRICS, V124, P451, DOI 10.1007/s11192-020-03464-y
+   Coccia M, 2018, SCIENTOMETRICS, V117, P1265, DOI 10.1007/s11192-018-2902-8
+   Coccia M, 2016, SCIENTOMETRICS, V108, P1065, DOI 10.1007/s11192-016-2027-x
+   Coccia M, 2016, P NATL ACAD SCI USA, V113, P2057, DOI 10.1073/pnas.1510820113
+   Cugmas M, 2020, SCIENTOMETRICS, V125, P2471, DOI 10.1007/s11192-020-03708-x
+   DIMAGGIO PJ, 1983, AM SOCIOL REV, V48, P147, DOI 10.2307/2095101
+   DiPrete TA, 2006, ANNU REV SOCIOL, V32, P271, DOI 10.1146/annurev.soc.32.061604.123127
+   Durand T, 2011, BRIT J MANAGE, V22, P559, DOI 10.1111/j.1467-8551.2011.00775.x
+   Eckl M, 2019, BRIT J SOC WORK, V49, P428, DOI 10.1093/bjsw/bcy050
+   Fligstein N, 2011, SOCIOL THEOR, V29, P1, DOI 10.1111/j.1467-9558.2010.01385.x
+   Glänzel W, 2004, HANDBOOK OF QUANTITATIVE SCIENCE AND TECHNOLOGY RESEARCH: THE USE OF PUBLICATION AND PATENT STATISTICS IN STUDIES OF S&T SYSTEMS, P257
+   Guédon JC, 2008, SERIALS REV, V34, P41, DOI 10.1016/j.serrev.2007.12.008
+   Gui QC, 2019, GEOFORUM, V105, P1, DOI 10.1016/j.geoforum.2019.06.017
+   Handoko LH, 2020, SCI ED, V7, P169, DOI 10.6087/kcse.213
+   Harzing A. W., 2007, PUBLISH PERISH
+   Heiberger R.H., 2015, J SOCIAL STRUCTURE, V16, P1
+   Henriksen D, 2016, SCIENTOMETRICS, V107, P455, DOI 10.1007/s11192-016-1849-x
+   Kim KW, 2021, SCI EDIT, V8, P47
+   Koseoglu MA, 2016, BRQ-BUS RES Q, V19, P153, DOI 10.1016/j.brq.2016.02.001
+   Kothari T, 2012, J INT MANAG, V18, P102, DOI 10.1016/j.intman.2011.09.001
+   Kronegger L, 2015, J ASSOC INF SCI TECH, V66, P321, DOI 10.1002/asi.23171
+   Leydesdorff L, 2009, SCIENTOMETRICS, V78, P23, DOI 10.1007/s11192-008-1830-4
+   Li Y, 2018, SCIENTOMETRICS, V117, P85, DOI 10.1007/s11192-018-2837-0
+   Liesch PW, 2011, SCIENTOMETRICS, V88, P17, DOI 10.1007/s11192-011-0372-3
+   Liu P, 2015, SCIENTOMETRICS, V103, P101, DOI 10.1007/s11192-014-1525-y
+   López-Duarte C, 2019, SCIENTOMETRICS, V121, P173, DOI 10.1007/s11192-019-03203-y
+   López-Duarte C, 2016, INT J MANAG REV, V18, P397, DOI 10.1111/ijmr.12070
+   MERTON RK, 1968, SCIENCE, V159, P56, DOI 10.1126/science.159.3810.56
+   MERTON RK, 1988, ISIS, V79, P606, DOI 10.1086/354848
+   Mohammadamin E., 2017, MALAYS J LIBR INF SC, V17, P73
+   Moody J, 2004, AM SOCIOL REV, V69, P213, DOI 10.1177/000312240406900204
+   Münch R, 2014, EUR J EDUC, V49, P60, DOI 10.1111/ejed.12065
+   Murphy J, 2012, ORGANIZATION, V19, P915, DOI 10.1177/1350508412453097
+   Newman MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444
+   Perc M, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2014.0378
+   Pohl H, 2020, SCIENTOMETRICS, V122, P287, DOI 10.1007/s11192-019-03287-6
+   Schwemmer C, 2020, SOCIOLOGY, V54, P3, DOI 10.1177/0038038519853146
+   Siler K., 2018, 23 INT C SCI TECHN I
+   Silva FSV, 2019, SCIENTOMETRICS, V118, P93, DOI 10.1007/s11192-018-2967-4
+   Sun XL, 2013, SCI REP-UK, V3, DOI 10.1038/srep01069
+   Torres-Olave B, 2020, J HIGH EDUC-UK, V91, P275, DOI 10.1080/00221546.2019.1631074
+   Vlegels J, 2021, HIGH EDUC, V81, P1079, DOI 10.1007/s10734-020-00600-8
+   Wagner CS, 2017, SCIENTOMETRICS, V110, P1633, DOI 10.1007/s11192-016-2230-9
+   Watts C, 2011, SCIENTOMETRICS, V89, P437, DOI 10.1007/s11192-011-0432-8
+   Wright R.W., 1970, Journal of International Business Studies, P109, DOI DOI 10.1057/PALGRAVE.JIBS.8490724
+   Youtie J, 2016, MINERVA, V54, P375, DOI 10.1007/s11024-016-9303-z
+   Zhang CW, 2018, J ASSOC INF SCI TECH, V69, P72, DOI 10.1002/asi.23916
+   Zhou Y, 2020, SAGE OPEN, V10, DOI 10.1177/2158244020947425
+NR 66
+TC 4
+Z9 4
+U1 0
+U2 9
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 2158-2440
+J9 SAGE OPEN
+JI SAGE Open
+PD OCT
+PY 2021
+VL 11
+IS 4
+DI 10.1177/21582440211061561
+PG 15
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA XJ0TG
+UT WOS:000726511200001
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Tabery, P
+   Pilnacek, M
+AF Tabery, Paulina
+   Pilnacek, Matous
+TI The network structure of trust in the COVID-19 pandemic
+SO EUROPEAN SOCIETIES
+LA English
+DT Article
+DE Trust; network analysis; coronavirus crisis
+AB Trust is considered an essential part of a democratic society. That is why it is important to pay attention to it, especially in times of crisis. Some recent studies have introduced a new approach to examining attitudes and trust using social network analysis. The aim of our study is to examine the relationship between different types of trust during the coronavirus crisis. Using a sample representative of the adult population of the Czech Republic, our text discusses what the network structure of trust is like during the current pandemic. We find that the institutions or actors that are directly involved in resolving the crisis, such as security institutions and medical professionals, are located at the centre of the network of trust.
+C1 [Tabery, Paulina; Pilnacek, Matous] CAS, Inst Sociol, Publ Opin Res Ctr, Jilska 1, Prague 11000, Czech Republic.
+C3 Czech Academy of Sciences; Institute of Sociology of the Czech Academy
+   of Sciences
+RP Tabery, P (corresponding author), CAS, Inst Sociol, Publ Opin Res Ctr, Jilska 1, Prague 11000, Czech Republic.
+EM paulina.tabery@soc.cas.cz
+RI Tabery, Paulína/C-6206-2014; Pilnacek, Matous/GNM-6812-2022; Pilnacek,
+   Matous/E-5149-2018
+OI Tabery, Paulina/0000-0002-8845-9216; Pilnacek,
+   Matous/0000-0002-2871-0667
+CR [Anonymous], 2018, OXFORD HDB SOCIAL PO
+   Boutyline A, 2017, AM J SOCIOL, V122, P1371, DOI 10.1086/691274
+   Brandt MJ, 2019, PERS SOC PSYCHOL B, V45, P1352, DOI 10.1177/0146167218824354
+   Devine D, 2021, POLIT STUD REV, V19, P274, DOI 10.1177/1478929920948684
+   Dryhurst S, 2020, J RISK RES, V23, P994, DOI 10.1080/13669877.2020.1758193
+   Epskamp S, 2018, PSYCHOL METHODS, V23, P617, DOI 10.1037/met0000167
+   ESAIASSON P, 2020, EUR J POLIT RES 0923, DOI DOI 10.31235/osf.io/6yw9r
+   Goldstein D. A. N., 2021, SSRN Electronic Journal, P1, DOI [DOI 10.2139/SSRN.3580547, https://doi.org/10.2139/ssrn.3580547]
+   Kye B, 2020, RES SOC STRAT MOBIL, V68, DOI 10.1016/j.rssm.2020.100523
+   Liu JH, 2018, J CROSS CULT PSYCHOL, V49, P789, DOI 10.1177/0022022118766619
+   McKay S, 2018, HANDB RES PUB POL, P77
+   Newton K, 2011, EUR POLIT SCI REV, V3, P169, DOI 10.1017/S1755773910000330
+   Prati G, 2011, HEALTH EDUC RES, V26, P761, DOI 10.1093/her/cyr035
+   Putnam R., 1999, BOWLING ALONE
+   Putnam R. D., 1993, MAKING DEMOCRACY WOR
+   Rönnerstrand B, 2013, SCAND J PUBLIC HEALT, V41, P853, DOI 10.1177/1403494813494975
+   Schraff D, 2021, EUR J POLIT RES, V60, P1007, DOI 10.1111/1475-6765.12425
+   Toshkov D., 2020, OSF PREPRINTS, DOI [10.31219/osf.io/7chpu, DOI 10.31219/OSF.IO/7CHPU]
+   Uslaner EricM., 2017, OXFORD HDB SOCIAL PO, DOI [DOI 10.1093/OXFORDHB/9780190274801.013.39, 10.1093/OXFORDHB/9780190274801.013.39]
+   Van Bavel JJ, 2020, NAT HUM BEHAV, V4, P460, DOI 10.1038/s41562-020-0884-z
+   van Buuren S, 2011, J STAT SOFTW, V45, P1
+   Zhang RJ, 2021, INT J PUBLIC OPIN R, V33, P147, DOI 10.1093/ijpor/edaa002
+NR 22
+TC 8
+Z9 8
+U1 1
+U2 10
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1461-6696
+EI 1469-8307
+J9 EUR SOC
+JI Eur. Soc.
+PD FEB 19
+PY 2021
+VL 23
+SU 1
+SI SI
+BP S689
+EP S703
+DI 10.1080/14616696.2020.1834597
+EA OCT 2020
+PG 15
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA QL0XZ
+UT WOS:000583377800001
+DA 2024-11-22
+ER

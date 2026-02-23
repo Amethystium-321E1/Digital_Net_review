@@ -1,0 +1,475 @@
+
+PT J
+AU Eames, KTD
+   Keeling, MJ
+AF Eames, KTD
+   Keeling, MJ
+TI Modeling dynamic and network heterogeneities in the spread of sexually
+   transmitted diseases
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE spatial correlations; pair-wise models; mixing matrix; core groups;
+   contact tracing
+ID BASIC REPRODUCTION RATIO; SOCIAL NETWORK; MIXING PATTERNS; PARTNERSHIP
+   NETWORKS; INFECTIOUS-DISEASES; GONORRHEA INFECTION; TRANSMISSION;
+   CHLAMYDIA; EPIDEMIC; BEHAVIOR
+AB A wide range of communicable human diseases can be considered as spreading through a network of possible transmission routes. The implied network structure is vital in determining disease dynamics, especially when the average number of connections per individual is small as is the case for many sexually transmitted diseases (STDs). Here we develop an intuitive mathematical framework to deal with the heterogeneities implicit within contact networks and those that arise because of the infection process. These models are compared with full stochastic simulations and show excellent agreement across a wide range of parameters. We show how such models can be used to estimate parameters of epidemiological importance, and how they can be extended to examine the effectiveness of various control strategies, in particular screening programs and contact tracing.
+C1 Univ Warwick, Dept Biol Sci, Coventry CV4 7AL, W Midlands, England.
+   Univ Warwick, Math Inst, Coventry CV4 7AL, W Midlands, England.
+   Univ Cambridge, Dept Zool, Cambridge CB2 3EJ, England.
+C3 University of Warwick; University of Warwick; University of Cambridge
+RP Univ Warwick, Dept Biol Sci, Gibbet Hill Rd, Coventry CV4 7AL, W Midlands, England.
+EM m.j.keeling@warwick.ac.uk
+RI Keeling, Matt/J-9280-2012
+OI Keeling, Matt/0000-0003-4639-4765
+CR ALTMANN M, 1995, J MATH BIOL, V33, P661, DOI 10.1007/BF00298647
+   ANDERSON R M, 1991
+   [Anonymous], 2000, Small worlds: The dynamics of networks between order and randomness
+   Aral SO, 2000, SEX TRANSM INFECT, V76, P415, DOI 10.1136/sti.76.6.415
+   Bauch C, 2000, P ROY SOC B-BIOL SCI, V267, P2019, DOI 10.1098/rspb.2000.1244
+   Boots M, 1999, P ROY SOC B-BIOL SCI, V266, P1933, DOI 10.1098/rspb.1999.0869
+   *CDCP, 2001, SEX TRANSM DIS SURV
+   Chick SE, 2000, MATH BIOSCI, V166, P45, DOI 10.1016/S0025-5564(00)00028-6
+   Day S, 1998, INT J STD AIDS, V9, P666, DOI 10.1258/0956462981921323
+   DIEKMANN O, 1991, MATH BIOSCI, V107, P325, DOI 10.1016/0025-5564(91)90012-8
+   DIEKMANN O, 1990, J MATH BIOL, V28, P365
+   DIETZ K, 1993, MATH BIOSCI, V117, P35, DOI 10.1016/0025-5564(93)90016-4
+   DIETZ K, 1988, J MATH BIOL, V26, P1, DOI 10.1007/BF00280169
+   DURRETT R, 1994, PHILOS T ROY SOC B, V343, P329, DOI 10.1098/rstb.1994.0028
+   Dushoff J, 1999, THEOR POPUL BIOL, V56, P325, DOI 10.1006/tpbi.1999.1428
+   Edmunds WJ, 1997, P ROY SOC B-BIOL SCI, V264, P949, DOI 10.1098/rspb.1997.0131
+   Fenton KA, 2001, SEX TRANSM INFECT, V77, P84, DOI 10.1136/sti.77.2.84
+   Fenton KA, 2001, LANCET, V358, P1851, DOI 10.1016/S0140-6736(01)06886-6
+   Ferguson NM, 2000, SEX TRANSM DIS, V27, P600, DOI 10.1097/00007435-200011000-00008
+   Friedman SR, 1997, AM J PUBLIC HEALTH, V87, P1289, DOI 10.2105/AJPH.87.8.1289
+   Garnett GP, 1996, J INFECT DIS, V174, pS150, DOI 10.1093/infdis/174.Supplement_2.S150
+   Garnett GP, 1996, SEX TRANSM DIS, V23, P248, DOI 10.1097/00007435-199605000-00015
+   Ghani AC, 1998, J ROY STAT SOC A STA, V161, P227, DOI 10.1111/1467-985X.00101
+   Ghani AC, 1998, STAT MED, V17, P2079, DOI 10.1002/(SICI)1097-0258(19980930)17:18<2079::AID-SIM902>3.0.CO;2-H
+   Ghani AC, 2000, SEX TRANSM DIS, V27, P579, DOI 10.1097/00007435-200011000-00006
+   Ghani AC, 1997, SEX TRANSM DIS, V24, P45, DOI 10.1097/00007435-199701000-00009
+   GRANATH F, 1991, MATH BIOSCI, V107, P341, DOI 10.1016/0025-5564(91)90013-9
+   Grenfell BT, 2001, NATURE, V414, P716, DOI 10.1038/414716a
+   *JOINT UN PROGR HI, 2001, AID EP UPD DEC 2001
+   Jolly AM, 2001, J URBAN HEALTH, V78, P433, DOI 10.1093/jurban/78.3.433
+   Keeling MJ, 2001, SCIENCE, V294, P813, DOI 10.1126/science.1065973
+   Keeling MJ, 1999, P ROY SOC B-BIOL SCI, V266, P859, DOI 10.1098/rspb.1999.0716
+   Keeling MJ, 1997, P ROY SOC B-BIOL SCI, V264, P1149, DOI 10.1098/rspb.1997.0159
+   KLOVDAHL AS, 1985, SOC SCI MED, V21, P1203, DOI 10.1016/0277-9536(85)90269-2
+   Klovdahl AS, 2001, SEX TRANSM DIS, V28, P25, DOI 10.1097/00007435-200101000-00006
+   Kretzschmar M, 1996, AM J EPIDEMIOL, V144, P306
+   Kretzschmar M, 1996, MATH BIOSCI, V133, P165, DOI 10.1016/0025-5564(95)00093-3
+   MOLLISON D, 1977, J ROY STAT SOC B MET, V39, P283
+   *PHLS DHSS PS SCOT, 2000, TRENDS SEX TRANSM IN
+   Pickering H, 1996, AIDS, V10, P533, DOI 10.1097/00002030-199605000-00013
+   Piot P, 2001, NATURE, V410, P968, DOI 10.1038/35073639
+   RENTON A, 1995, J EPIDEMIOL COMMUN H, V49, P205, DOI 10.1136/jech.49.2.205
+   Rhodes CJ, 1997, P ROY SOC B-BIOL SCI, V264, P1639, DOI 10.1098/rspb.1997.0228
+   Rohani P, 1999, SCIENCE, V286, P968, DOI 10.1126/science.286.5441.968
+   Rothenberg R, 1996, SEX TRANSM DIS, V23, P24, DOI 10.1097/00007435-199601000-00007
+   Rothenberg RB, 1998, SEX TRANSM DIS, V25, P154, DOI 10.1097/00007435-199803000-00009
+   Rothenberg RB, 1996, J INFECT DIS, V174, pS144, DOI 10.1093/infdis/174.Supplement_2.S144
+   Rothenberg RB, 1998, AIDS, V12, P1529, DOI 10.1097/00002030-199812000-00016
+   SATO K, 1994, J MATH BIOL, V32, P251, DOI 10.1007/BF00163881
+   Wasserheit JN, 1996, J INFECT DIS, V174, pS201, DOI 10.1093/infdis/174.Supplement_2.S201
+   WATTS CH, 1992, MATH BIOSCI, V108, P89, DOI 10.1016/0025-5564(92)90006-I
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   WOODHOUSE DE, 1994, AIDS, V8, P1331, DOI 10.1097/00002030-199409000-00018
+   Wylie JL, 2001, SEX TRANSM DIS, V28, P14, DOI 10.1097/00007435-200101000-00005
+   Zenilman JM, 1999, SEX TRANSM DIS, V26, P75, DOI 10.1097/00007435-199902000-00002
+NR 55
+TC 339
+Z9 389
+U1 2
+U2 47
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD OCT 1
+PY 2002
+VL 99
+IS 20
+BP 13330
+EP 13335
+DI 10.1073/pnas.202244299
+PG 6
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 600LK
+UT WOS:000178391700149
+PM 12271127
+OA Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Faust, K
+   Skvoretz, J
+AF Faust, K
+   Skvoretz, J
+TI Comparing networks across space and time, size and species
+SO SOCIOLOGICAL METHODOLOGY 2002, VOL 32
+SE SOCIOLOGICAL METHODOLOGY
+LA English
+DT Article
+ID SOCIAL NETWORKS; LOGIT-MODELS; LOGISTIC REGRESSIONS; HIGHLAND PONIES;
+   MARKOV GRAPHS; DOMINANCE; ORGANIZATION; HIERARCHIES; CONFORMITY; MONKEYS
+AB We describe and illustrate methodology for comparing networks from diverse settings. Our empirical base consists of 42 networks from four kinds of species (humans, nonhuman primates, nonprimate mammals, and birds) and covering distinct types of relations such as influence, grooming, and agonistic encounters. The general problem is to determine whether networks are similarly structured despite their surface differences. The methodology we propose is generally applicable to the characterization and comparison of network-level social structures across multiple settings, such as different organizations, communities, or social groups, and to the examination of sources of variability in network structure. we first fit a p* model (Wasserman and Pattison 1996) to each network to obtain estimates for effects of six structural properties on the probability of the graph. We then calculate predicted tie probabilities for each network, using both its own parameter estimates and the estimates from every other network in the collection. Comparison is based on the similarity between sets of predicted tie probabilities. We then use correspondence analysis to represent the similarities among all 42 net-works and interpret the resulting configuration using information about the species and relations involved. Results show that similarities among the networks are due more to the kind of relation than to the kind of animal.
+C1 Univ Calif Irvine, Irvine, CA 92717 USA.
+   Univ S Carolina, Columbia, SC 29208 USA.
+C3 University of California System; University of California Irvine;
+   University of South Carolina System; University of South Carolina
+   Columbia
+RP Faust, K (corresponding author), Univ Calif Irvine, Irvine, CA 92717 USA.
+CR Anderson CJ, 1999, SOC NETWORKS, V21, P37, DOI 10.1016/S0378-8733(98)00012-4
+   [Anonymous], 1968, THESIS CORNELL U
+   [Anonymous], SOC NETW
+   [Anonymous], UCINET 5 0 WINDOWS
+   [Anonymous], 1994, Elements of Dual Scaling
+   APPLEBY MC, 1983, ANIM BEHAV, V31, P600, DOI 10.1016/S0003-3472(83)80084-0
+   Athanassiou N, 1999, STRATEGIC MANAGE J, V20, P83, DOI 10.1002/(SICI)1097-0266(199901)20:1<83::AID-SMJ10>3.0.CO;2-Y
+   BAKER FB, 1981, SOCIOL METHOD RES, V9, P339, DOI 10.1177/004912418100900305
+   BEARMAN PS, 1997, UNPUB NATL LONGITUDI
+   Bernard H.R., 1977, HUMAN COMMUNICATIONS, V4, P3, DOI DOI 10.1111/J.1468-2958.1977.TB00591.X
+   BERNARD HR, 1980, SOC NETWORKS, V2, P191, DOI 10.1016/0378-8733(79)90014-5
+   BREIGER RL, 1978, SOCIOL METHOD RES, V7, P213, DOI 10.1177/004912417800700206
+   BURKETT T, 1997, THESIS U S CAROLINA
+   Carroll JD, 1997, BRIT J MATH STAT PSY, V50, P81, DOI 10.1111/j.2044-8317.1997.tb01104.x
+   CLUTTONBROCK TH, 1976, Z TIERPSYCHOL, V41, P202
+   Crous PW., 1998, Mycol. Mem, V21, P1
+   Davis JamesA., 1979, Perspectives on Social Network Research, P51, DOI DOI 10.1016/B978-0-12-352550-5.50009-2
+   DEAG JM, 1980, BEHAVIOUR, V75, P54, DOI 10.1163/156853980X00564
+   DOW MM, 1989, SOC NETWORKS, V11, P237, DOI 10.1016/0378-8733(89)90004-X
+   FRANK LG, 1986, ANIM BEHAV, V34, P1510, DOI 10.1016/S0003-3472(86)80221-4
+   FRANK O, 1986, J AM STAT ASSOC, V81, P832, DOI 10.2307/2289017
+   FREEMAN LC, 1992, ANIM BEHAV, V44, P239, DOI 10.1016/0003-3472(92)90030-D
+   FREEMAN LC, 1992, AM J SOCIOL, V98, P152, DOI 10.1086/229972
+   Friedkin N., 1998, A structural theory of social influence
+   Gifi A., 1990, Nonlinear multivariate analysis
+   HALLINAN MT, 1974, AM J SOCIOL, V80, P364, DOI 10.1086/225804
+   HOLLAND PW, 1978, SOCIOL METHOD RES, V7, P227, DOI 10.1177/004912417800700207
+   HORROCKS J, 1983, ANIM BEHAV, V31, P772, DOI 10.1016/S0003-3472(83)80234-6
+   HUBERT LJ, 1978, PSYCHOMETRIKA, V43, P31, DOI 10.1007/BF02294087
+   JOHNSON JC, UNPUB EVOLUTION NETW
+   KAPLAN JR, 1980, FOLIA PRIMATOL, V34, P196, DOI 10.1159/000155955
+   Katz Leo., 1953, Psychometrika, V18, P249
+   KIKKAWA J, 1980, BEHAVIOUR, V74, P92, DOI 10.1163/156853980X00320
+   KUMBASAR E, 1994, AM J SOCIOL, V100, P477, DOI 10.1086/230544
+   LAHTI K, 1994, J AVIAN BIOL, V25, P347, DOI 10.2307/3677283
+   Laumann E., 1976, NETWORKS COLLECTIVE
+   Martin J.L., 1999, Connections, V22, P50
+   MARYANSKI AR, 1987, SOC NETWORKS, V9, P191, DOI 10.1016/0378-8733(87)90020-7
+   Nishida Toshisada, 1996, P114, DOI 10.1017/CBO9780511752414.011
+   Pattison P, 1999, BRIT J MATH STAT PSY, V52, P169, DOI 10.1348/000711099159053
+   REINHARDT V, 1981, BEHAVIOUR, V77, P121, DOI 10.1163/156853981X00194
+   RINDFUSS RR, 2000, IUSSP C PARTN NETW F
+   Roberts JM, 1998, SOC NETWORKS, V20, P227, DOI 10.1016/S0378-8733(98)00002-1
+   ROBERTS JM, 1994, J QUANTITATIVE ANTHR, V4, P249
+   Robins G, 1999, PSYCHOMETRIKA, V64, P371, DOI 10.1007/BF02294302
+   ROMNEY AK, 1995, GEOMETRIC REPRESENTATIONS OF PERCEPTUAL PHENOMENA, P267
+   Sade D., 1994, ADV SOCIAL NETWORK A, P152, DOI [10.4135/9781452243528, DOI 10.4135/9781452243528]
+   SADE DS, 1989, SOC NETWORKS, V11, P273, DOI 10.1016/0378-8733(89)90006-3
+   SHRADER CB, 1989, HUM RELAT, V42, P43, DOI 10.1177/001872678904200103
+   Snijders TAB, 1996, J MATH SOCIOL, V21, P149, DOI 10.1080/0022250X.1996.9990178
+   Snijders TomA. B., 1997, Simulating Social Phenomena, P493
+   STRAUSS D, 1990, J AM STAT ASSOC, V85, P204, DOI 10.2307/2289546
+   Tufto J, 1998, ANIM BEHAV, V55, P1489, DOI 10.1006/anbe.1998.0755
+   Wasserman S, 1996, PSYCHOMETRIKA, V61, P401, DOI 10.1007/BF02294547
+   WASSERMAN S, 1987, PSYCHOMETRIKA, V52, P3, DOI 10.1007/BF02293953
+   WASSERMAN S, 1988, PSYCHOMETRIKA, V53, P261, DOI 10.1007/BF02294137
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   WATT DJ, 1986, ANIM BEHAV, V34, P16, DOI 10.1016/0003-3472(86)90002-3
+   Weller SusanC., 1990, Metric Scaling: Correspondence Analysis
+NR 59
+TC 112
+Z9 150
+U1 3
+U2 43
+PU BLACKWELL PUBL
+PI MALDEN
+PA 350 MAIN ST, MALDEN, MA 02148 USA
+SN 0081-1750
+J9 SOCIOL METHODOL
+PY 2002
+VL 32
+BP 267
+EP 299
+DI 10.1111/1467-9531.00118
+PG 33
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA BV13U
+UT WOS:000177930800012
+DA 2024-11-22
+ER
+
+PT J
+AU Lai, G
+   Wong, O
+AF Lai, G
+   Wong, O
+TI The tie effect on information dissemination: the spread of a commercial
+   rumor in Hong Kong
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE commercial rumor; information dissemination; tie effect
+ID STATUS ATTAINMENT; SOCIAL RESOURCES; WEAK-TIES; NETWORKS; COMMUNICATION;
+   STRENGTH; SUPPORT; INCOME; SEARCH
+AB The ability to acquire information has been considered a crucial factor facilitating instrumental actions, such as job search and organizational innovation. Previous social network studies tend to treat the characteristics of social ties through which information is acquired as causes that may affect instrumental outcomes. However, little research has directly examined the spread of information via social ties and the tie effect on information dissemination. Using telephone survey data collected after the outbreak of an extensive commercial rumor in Hong Kong, the present paper investigates the characteristics of social ties through which the information is spread and the tie effect on information dissemination. Results show that while mass media, particularly television, serves as a major channel of information flow, social ties are also widely used. Individuals tend to share information with strong ties, or people with whom they perceive to have good relations. However, information transmitted via kin ties tends to arrive at the respondent faster than via nonkin ties or other communication channels. Implications of the findings are discussed. (C) 2002 Elsevier Science B.V. All rights reserved.
+C1 Hong Kong Baptist Univ, Dept Sociol, Kowloon, Hong Kong, Peoples R China.
+C3 Hong Kong Baptist University
+RP Lai, G (corresponding author), Hong Kong Baptist Univ, Dept Sociol, Kowloon, Hong Kong, Peoples R China.
+CR [Anonymous], 1982, Social Structure and Network Analysis
+   [Anonymous], 1992, Structural holes
+   Bian YJ, 1997, AM SOCIOL REV, V62, P366, DOI 10.2307/2657311
+   Blau P.M., 1977, INEQUALITY HETEROGEN
+   BOXMAN EAW, 1991, SOC NETWORKS, V13, P51, DOI 10.1016/0378-8733(91)90013-J
+   BRIDGES WP, 1986, AM SOCIOL REV, V51, P574, DOI 10.2307/2095589
+   CAMPBELL KE, 1986, SOC NETWORKS, V8, P97, DOI 10.1016/S0378-8733(86)80017-X
+   Chao P., 1983, CHINESE KINSHIP
+   CHU WC, 1995, INDICATORS SOCIAL DE, P21
+   EDER D, 1991, AM SOCIOL REV, V56, P494, DOI 10.2307/2096270
+   ERICKSON BH, 1978, CAN J SOCIOL, V3, P71, DOI 10.2307/3339794
+   Fischer C.S., 1982, DWELL FRIENDS
+   Freeman L.C., 1997, L'Anee Sociologique, V47, P89
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   GREENBERG B, 1970, PUBLIC OPIN QUART, V34, P224, DOI 10.1086/267792
+   GREENBERG BS, 1964, PUBLIC OPIN QUART, V28, P225, DOI 10.1086/267239
+   GRNAOVETTER M, 1974, GETTING JOB STUDY CO
+   GRNAOVETTER M, 1982, SOCIAL STRUCTURE NET, P105
+   Hansen MT, 1999, ADMIN SCI QUART, V44, P82, DOI 10.2307/2667032
+   Homans GeorgeC., 1950, HUMAN GROUPS
+   *HONG KONG CENS ST, 1997, 1996 POP BY CENS MAI
+   Hsu J., 1985, CHINESE CULTURE MENT, P95, DOI DOI 10.1016/B978-0-12-701630-6.50015-0
+   KATZ E, 1987, PUBLIC OPIN QUART, V51, pS25, DOI 10.1086/269068
+   Katz Elihu, 1957, PUBLIC OPIN QUART, V21, P67
+   Katz Elihue Paul Lazarsfeld., 1955, Personal Influence, Nova Iorque
+   KOENIG FW, 1985, RUMOR MARKET PLACE
+   Lai GN, 1998, SOC NETWORKS, V20, P159, DOI 10.1016/S0378-8733(97)00012-9
+   LAU SK, 1981, J MARRIAGE FAM, V43, P977
+   Lazarsfeld Paul., 1948, PEOPLES CHOICE
+   LIN N, 1981, SOC FORCES, V59, P1163, DOI 10.2307/2577987
+   LIN N, 1986, SOC NETWORKS, V8, P365, DOI 10.1016/0378-8733(86)90003-1
+   LIN N, 1981, AM SOCIOL REV, V46, P393, DOI 10.2307/2095260
+   Lin N, 2000, CONTEMP SOCIOL, V29, P785, DOI 10.2307/2654086
+   Lin N, 1999, ANNU REV SOCIOL, V25, P467, DOI 10.1146/annurev.soc.25.1.467
+   Lin Nan., 1986, in Social Support, Life Events, and Depression, P17, DOI DOI 10.1016/B978-0-12-450660-2.50008-2
+   MARSDEN PV, 1988, SOC FORCES, V66, P1038, DOI 10.2307/2579435
+   MARSDEN PV, 1984, SOC FORCES, V63, P482, DOI 10.2307/2579058
+   MARSDEN PV, 1987, AM SOCIOL REV, V52, P122, DOI 10.2307/2095397
+   MONTGOMERY JD, 1992, AM SOCIOL REV, V57, P586, DOI 10.2307/2095914
+   MOORE G, 1990, AM SOCIOL REV, V55, P726, DOI 10.2307/2095868
+   Powell WW, 1996, ADMIN SCI QUART, V41, P116, DOI 10.2307/2393988
+   ROBINSON JP, 1986, PUBLIC OPIN QUART, V50, P160, DOI 10.1086/268972
+   ROGERS EM, 1970, PUBLIC OPIN QUART, V34, P523, DOI 10.1086/267838
+   WEIMANN G, 1982, AM SOCIOL REV, V47, P764, DOI 10.2307/2095212
+   WELLMAN B, 1990, AM J SOCIOL, V96, P558, DOI 10.1086/229572
+   WELLMAN B, 1989, SOCIOL PERSPECT, V32, P273, DOI 10.2307/1389119
+   Wellman B., 1990, MARRIAGE FAM REV, V15, P195, DOI [10.1300/J002v15n01_10, DOI 10.1300/J002V15N01_10]
+   1997, SING TAO DAILY  1125
+NR 48
+TC 52
+Z9 65
+U1 1
+U2 45
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-8733
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JAN
+PY 2002
+VL 24
+IS 1
+BP 49
+EP 75
+DI 10.1016/S0378-8733(01)00050-8
+PG 27
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 527CU
+UT WOS:000174169100003
+DA 2024-11-22
+ER
+
+PT J
+AU Kadushin, C
+AF Kadushin, C
+TI The motivational foundation of social networks
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE social networks; motivation; cohesion; structural holes; community
+ID EMBEDDEDNESS; PSYCHOLOGY; EXCHANGE
+AB The origins of motivations for network behavior are found in modem theories of early childhood development. There are two types of early motivations: safety on the one hand and efficacy on the other. Safety corresponds to and is generated by networks of cohesion, while efficacy comes about from separation and corresponds to networks with structural holes and is typical of brokerage situations. Both cohesion and brokerage are necessarily involved in any network situation as a matter of fundamental theoretical necessity, but they occur under different circumstances in individual and organizational action. Studies axe reviewed that show that effective relations both within and between organizations require both cohesive bases and brokerage between otherwise not well connected units. (C) 2002 Elsevier Science B.V. All rights reserved.
+C1 Brandeis Univ, Waltham, MA 02254 USA.
+C3 Brandeis University
+RP Brandeis Univ, Waltham, MA 02254 USA.
+EM kadushin@brandeis.edu
+RI Kadushin, Charles/A-2310-2008
+CR [Anonymous], 1985, SOCIAL SUPPORT HLTH
+   [Anonymous], 1988, Social Structures: A Network Approach
+   Boissevain Jeremy., 1974, FRIENDS FRIENDS NETW
+   Borgatti StephenP., 1992, SOCIOL METHODOL, V22, P1
+   Burt R. S, 1992, STRUCTURAL HOLES SOC
+   Burt RS, 2000, RES ORGAN BEHAV, V22, P345, DOI 10.1016/S0191-3085(00)22009-1
+   BURT RS, 1987, AM J SOCIOL, V92, P1287, DOI 10.1086/228667
+   Burt RS, 1998, SOC NETWORKS, V20, P63, DOI 10.1016/S0378-8733(97)00005-1
+   Cohen S, 1996, ANNU REV PSYCHOL, V47, P113, DOI 10.1146/annurev.psych.47.1.113
+   Coleman J.S., 1994, FDN SOCIAL THEORY
+   Coleman J. S., 1966, MED INNOVATION DIFFU
+   COYNE JC, 1991, ANNU REV PSYCHOL, V42, P401, DOI 10.1146/annurev.ps.42.020191.002153
+   CRAVEN P, 1973, SOCIOL INQ, V43, P57, DOI 10.1111/j.1475-682X.1973.tb00003.x
+   Durkheim Emile., 1947, DIVISION LABOR SOC
+   Ekeh Peter., 1974, SOCIAL EXCHANGE THEO
+   Erickson BH, 1996, AM J SOCIOL, V102, P217, DOI 10.1086/230912
+   Fromm Erich., 1994, ESCAPE FREEDOM
+   Giddens Anthony, 1986, The constitution of society: Outline of the theory of structuration, DOI DOI 10.1086/678034
+   Greenberg J., 1991, OEDIPUS CLIN THEORY
+   Haidt J., 1999, REV GEN PSYCHOL, V3, P317
+   Hendrick I, 1942, PSYCHOANAL QUART, V11, P33, DOI 10.1080/21674086.1942.11925485
+   Homans G.C., 1950, The Human Group
+   HOUSE JS, 1988, ANNU REV SOCIOL, V14, P293, DOI 10.1146/annurev.so.14.080188.001453
+   KADUSHIN C, 1966, AM SOCIOL REV, V31, P786, DOI 10.2307/2091658
+   Kadushin Charles., 1992, CITY SOC, V6, P58
+   Kadushin Charles., 1981, Continuities in Structural Inquiry, P235
+   Lazarsfeld, 1955, PERSONAL INFLUENCE P
+   Malinowski B., 1922, ARGONAUTS W PACIFIC
+   Markus HR, 1998, J CROSS CULT PSYCHOL, V29, P63, DOI 10.1177/0022022198291004
+   MILGRAM S, 1967, PSYCHOL TODAY, V1, P61
+   Milgram S., 1969, Interdisciplinary Relations in the Social Sciences, P103
+   Molm LD, 2000, AM J SOCIOL, V105, P1396, DOI 10.1086/210434
+   Parsons T., 1949, STRUCTURE SOCIAL ACT
+   Parsons Talcott, 1951, Toward a General Theory of Action
+   Podolny JM, 1997, AM SOCIOL REV, V62, P673, DOI 10.2307/2657354
+   Powell W. W., 1991, NEW I ORG ANAL
+   Sandefur RL, 1998, RATION SOC, V10, P481, DOI 10.1177/104346398010004005
+   Schumpeter, 1982, THEORY EC DEV INQUIR
+   Simmel Georg., 1955, Conflict and the Web of Group-Affiliations
+   Stern DanielN., 1985, INTERPERSONAL WORLD
+   Talmud I, 1997, SOC SCI RES, V26, P419, DOI 10.1006/ssre.1997.0601
+   UEHARA E, 1990, AM J SOCIOL, V96, P521, DOI 10.1086/229571
+   Uzzi B, 1999, AM SOCIOL REV, V64, P481, DOI 10.2307/2657252
+   Uzzi B, 1996, AM SOCIOL REV, V61, P674, DOI 10.2307/2096399
+   Valente T.W., 1995, NETWORK MODELS DIFFU
+   Wellman B., 1999, NETWORKS GLOBAL VILL, P1
+NR 46
+TC 86
+Z9 120
+U1 1
+U2 38
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JAN
+PY 2002
+VL 24
+IS 1
+BP 77
+EP 91
+AR PII S0378-8733(01)00052-1
+DI 10.1016/S0378-8733(01)00052-1
+PG 15
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 527CU
+UT WOS:000174169100004
+DA 2024-11-22
+ER
+
+PT J
+AU Stocker, R
+   Cornforth, D
+   Bossomaier, TRJ
+AF Stocker, R
+   Cornforth, D
+   Bossomaier, TRJ
+TI Network structures and agreement in social network simulations
+SO JASSS-THE JOURNAL OF ARTIFICIAL SOCIETIES AND SOCIAL SIMULATION
+LA English
+DT Article
+DE asynchronous update; complex systems; hierarchical networks; random
+   networks; scale-free networks; social networks; social simulations;
+   social structures
+AB Networks are very evident in the physical world and particularly in social structures. One focus of research is on investigating the development and maintenance of social network structures. Social networks may be typically categorised as random, scale-free or hierarchical structures. A key research question is how the structure and parameters of a network affect the stability of opinion within the network. In a previous study, we examined the case for random network structures. In this work, we show how complex systems models can be used to investigate the effects of various parameters (including the number of layers and the number of links per node) in hierarchical and scale-free network structures. The models are used to investigate whether the network reaches a stable collective state, where the opinions of individuals remain constant, or an unstable state, where the opinions of individuals continue to change. Several important results emerge. One is that flat hierarchies, which possess few layers and many links per node, are more likely to be unstable than deeper hierarchies. Another is that regardless of the network topology, the number individuals whose opinion continues to change settles to a relatively stable level. We also demonstrate the inherent stability of scale-free networks. This work has implications for how network structures should be organized, in order to exploit stability or dynamic behaviour, in particular for political, organisational, social and educational contexts.
+C1 Charles Sturt Univ, Sch Environm & Informat Sci, Thurgoona, Australia.
+   Charles Sturt Univ, Complex Syst Grp, Bathurst, NSW 2795, Australia.
+   Charles Sturt Univ, Sch Informat Technol, Bathurst, NSW 2795, Australia.
+   Charles Sturt Univ, Complex Syst Grp, Thurgoona, Australia.
+C3 Charles Sturt University; Charles Sturt University; Charles Sturt
+   University; Charles Sturt University
+RP Stocker, R (corresponding author), Charles Sturt Univ, Sch Environm & Informat Sci, Thurgoona, Australia.
+RI Cornforth, David/D-2674-2011
+CR Albert R, 2000, NATURE, V406, P378, DOI 10.1038/35019019
+   ALBERT R, 2001, ARXIVCONDMAT0106096, V1, P1
+   Allen P.M., 1998, Systems: New paradigms for the human sciences
+   [Anonymous], J ARTIFICIAL SOC SOC
+   [Anonymous], 1988, Social Structures: A Network Approach
+   [Anonymous], COMPLEX SYSTEMS BIOL
+   Axelrod R, 1997, J CONFLICT RESOLUT, V41, P203, DOI 10.1177/0022002797041002001
+   AXTELL RL, 2000, 12 U MICH CTR SOC EC
+   BOSSOMAIER TRJ, 1997, P 4 EUR C ART LIF, P67
+   Bura S, 1995, ARTIFICIAL SOCIETIES, P86
+   BURT RS, 1987, AM J SOCIOL, V92, P1287, DOI 10.1086/228667
+   Cornforth D., 2001, P 5 AUSTR JAPAN JOIN, P105
+   Doreian Patrick, 1997, The Dynamics and Evolution of Social Networks, V1st
+   DUNBAR RIM, 1995, HUM NATURE-INT BIOS, V6, P67, DOI 10.1007/BF02734136
+   DUNBAR RIM, 1997, HUMAN NATURE, V8, P241
+   Erickson B.H., 1988, SOCIAL STRUCTURES NE, P99
+   GILBERT N, 1995, ARTIFICIAL SOC COMPU, P1
+   Gilbert Nigel., 1999, SIMULATION SOCIAL SC
+   GRANOVETTER M, 1978, AM J SOCIOL, V83, P1420, DOI 10.1086/226707
+   Hale Mark., 1998, SYNTAX-UK, V1, P1, DOI DOI 10.1111/1467-9612.00001
+   Hanneman RA, 1995, SOCIOL PERSPECT, V38, P457, DOI 10.2307/1389267
+   Holland JH, 1995, HIDDEN ORDER ADAPTAT
+   Jeong H, 2000, NATURE, V407, P651, DOI 10.1038/35036627
+   KLUVER J, 1999, J ARTIFICIAL SOC SOC, V2, P3
+   Liebrand W.B. G., 1998, Computer Modeling of Social Processes, P1
+   NOWAK A, 1990, PSYCHOL REV, V97, P362, DOI 10.1037/0033-295X.97.3.362
+   Nowak A., 1996, MODELING SIMULATION, P249, DOI DOI 10.1007/978-94-015-8686-314
+   Pastor-Satorras R, 2001, PHYS REV LETT, V86, P3200, DOI 10.1103/PhysRevLett.86.3200
+   Scott J., 2017, SOCIAL NETWORK ANAL
+   STOCKER R, 2000, P 4 JAP AUSTR JOINT, P156
+   Troitzsch K.G., 1998, COMPUTER MODELING SO, P20
+   TROITZSCH KG, 1997, SIMULATING SOCIAL PH, P40
+   Valente TW, 1996, SOC NETWORKS, V18, P69, DOI 10.1016/0378-8733(95)00256-1
+   Wellman B., 1988, Social structures: A network approach
+   WELLMAN B, 1988, SOCIAL STRUCTURES NE, P1
+NR 35
+TC 7
+Z9 8
+U1 0
+U2 3
+PU J A S S S
+PI GUILDFORD
+PA UNIV SURREY, DEPT SOCIOLOGY, GUILDFORD GU2 7XH, SURREY, ENGLAND
+SN 1460-7425
+J9 JASSS
+JI JASSS
+PD OCT
+PY 2002
+VL 5
+IS 4
+PG 18
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA 611DX
+UT WOS:000179002100003
+DA 2024-11-22
+ER

@@ -1,0 +1,506 @@
+
+PT J
+AU Chu, HC
+   Park, JH
+AF Chu, Hai-Cheng
+   Park, Jong Hyuk
+TI Online Social Snapshots of a Generic Facebook Session Based on Digital
+   Insight Data for a Secure Future IT Environment
+SO SYMMETRY-BASEL
+LA English
+DT Article
+AB Physical memory acquisition has been an import facet for digital forensics (DF) specialists due to its volatile characteristics. Nowadays, thousands of millions of global participants utilize online social networking (OSN) mechanisms to expand their social lives, ranging from business-oriented purposes to leisure motivations. Facebook (FB) is one of the most dominant social networking sites (SNS) available today. Unfortunately, it has been a major avenue for cybercriminals to commit illegal activities. Therefore, the digital traces of previous sessions of an FB user play an essential role as the first step for DF experts to pursue the disclosure of the identity of the suspect who was exploiting FB. In this research work, we provide a systematic methodology to reveal a previous session of an FB identity, as well as his/her partial social circle via collecting, analyzing, preserving and presenting the associated digital traces to obtain the online social snapshots of a specific FB user who was utilizing a computing device with Internet Explorer (IE) 10 without turning off the power of the gadget. This novel approach can be a paradigm for how DF specialists ponder the crime scene to conduct the first response in order to avoid the permanent loss of the precious digital evidence in previous FB sessions. The hash values of the image files of the random access memory (RAM) of the computing device have proven to be identical before and after forensics operations, which could be probative evidence in a court of law.
+C1 [Chu, Hai-Cheng] Natl Taichung Univ Educ, Dept Int Business, Taichung 40306, Taiwan.
+   [Park, Jong Hyuk] Seoul Natl Univ Sci & Technol, Dept Comp Sci & Engn, Seoul 139743, South Korea.
+C3 National Taichung University of Education; Seoul National University of
+   Science & Technology
+RP Park, JH (corresponding author), Seoul Natl Univ Sci & Technol, Dept Comp Sci & Engn, 172 Gongneung Dong 2, Seoul 139743, South Korea.
+EM hcchu@mail.ntcu.edu.tw; jhpark1@seoultech.ac.kr
+FU Ministry of Science and Technology (MOST), Taiwan; MSIP (Ministry of
+   Science, ICT and Future Planning), Korea under the ITRC (Information
+   Technology Research Center) [NIPA-2014-H0301-14-4007]
+FX The authors would like to acknowledge the funding support of the
+   Ministry of Science and Technology (MOST), Taiwan. This research was
+   also supported by the MSIP (Ministry of Science, ICT and Future
+   Planning), Korea, under the ITRC (Information Technology Research
+   Center) support program (NIPA-2014-H0301-14-4007) supervised by NIPA
+   (National IT Industry Promotion Agency).
+CR Asuncion A.U., 2010, P 9 ANN ACM WORKSHOP, P21
+   Boshmaf Y, 2011, 27TH ANNUAL COMPUTER SECURITY APPLICATIONS CONFERENCE (ACSAC 2011), P93
+   Fusco SJ, 2010, INT SYMP TECHNOL SOC, P157, DOI 10.1109/ISTAS.2010.5514641
+   Gao HY, 2010, PROCEEDINGS OF THE 17TH ACM CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY (CCS'10), P681, DOI 10.1145/1866307.1866396
+   Garfinkel SL, 2010, DIGIT INVEST, V7, pS64, DOI 10.1016/j.diin.2010.05.009
+   Grobauer B, 2011, IEEE SECUR PRIV, V9, P50, DOI 10.1109/MSP.2010.115
+   Hay C.H., 2011, PRECIPITATION EVAPOT, P1
+   HUBER M., 2011, Proceedings of the 27th annual computer security applications conference, P113
+   James J, 2010, L N INST COMP SCI SO, V31, P85
+   Jin L., 2011, Proceedings of the first ACM conference on Data and application security and privacy, P27
+   Krombholz Katharina, 2012, Journal of Service Science Research, V4, P175, DOI 10.1007/s12927-012-0008-z
+   Malhotra A, 2012, 2012 IEEE/ACM INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING (ASONAM), P1065, DOI 10.1109/ASONAM.2012.184
+   Reilly D., 2010, Internet Technology and Secured Transactions (ICITST), 2010 International Conference for, P1
+   Stein T., 2011, P 4 WORKSH SOC NETW, P1
+   Stutzman F, 2011, COMPUT HUM BEHAV, V27, P590, DOI 10.1016/j.chb.2010.10.017
+   Yang Y., 2012, Proceedings of the second ACM conference on Data and Application Security and Privacy (CODASPY '12), P37
+   Yang Z., 2011, ACM T KNOWL DISCOV D, V8
+   Yin MH, 2011, EXPERT SYST APPL, V38, P6313, DOI 10.1016/j.eswa.2010.11.111
+NR 18
+TC 0
+Z9 1
+U1 2
+U2 5
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2073-8994
+J9 SYMMETRY-BASEL
+JI Symmetry-Basel
+PD JUN
+PY 2015
+VL 7
+IS 2
+BP 546
+EP 560
+DI 10.3390/sym7020546
+PG 15
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA CM2II
+UT WOS:000357502900017
+OA Green Submitted, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Eom, YH
+   Jo, HH
+AF Eom, Young-Ho
+   Jo, Hang-Hyun
+TI Tail-scope: Using friends to estimate heavy tails of degree
+   distributions in large-scale complex networks
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID SOCIAL NETWORK; SPREAD
+AB Many complex networks in natural and social phenomena have often been characterized by heavy-tailed degree distributions. However, due to rapidly growing size of network data and concerns on privacy issues about using these data, it becomes more difficult to analyze complete data sets. Thus, it is crucial to devise effective and efficient estimation methods for heavy tails of degree distributions in large-scale networks only using local information of a small fraction of sampled nodes. Here we propose a tail-scope method based on local observational bias of the friendship paradox. We show that the tail-scope method outperforms the uniform node sampling for estimating heavy tails of degree distributions, while the opposite tendency is observed in the range of small degrees. In order to take advantages of both sampling methods, we devise the hybrid method that successfully recovers the whole range of degree distributions. Our tail-scope method shows how structural heterogeneities of large-scale complex networks can be used to effectively reveal the network structure only with limited local information.
+C1 [Eom, Young-Ho] Univ Toulouse, CNRS, IRSAMC, Phys Theor Lab,UPS, F-31062 Toulouse, France.
+   [Eom, Young-Ho] IMT Inst Adv Studies Lucca, I-55100 Lucca, Italy.
+   [Jo, Hang-Hyun] Pohang Univ Sci & Technol, Phys Div BK21plus, Pohang 790784, South Korea.
+   [Jo, Hang-Hyun] Pohang Univ Sci & Technol, Dept Phys, Pohang 790784, South Korea.
+   [Jo, Hang-Hyun] Aalto Univ, Sch Sci, BECS, FI-00076 Aalto, Finland.
+C3 Centre National de la Recherche Scientifique (CNRS); Universite de
+   Toulouse; Universite Toulouse III - Paul Sabatier; IMT School for
+   Advanced Studies Lucca; Pohang University of Science & Technology
+   (POSTECH); Pohang University of Science & Technology (POSTECH); Aalto
+   University
+RP Jo, HH (corresponding author), Pohang Univ Sci & Technol, Phys Div BK21plus, Pohang 790784, South Korea.
+EM h2jo23@gmail.com
+RI Jo, Hang-Hyun/F-4666-2012
+OI Jo, Hang-Hyun/0000-0002-4214-9204
+FU EC FET Open project "New tools and algorithms for directed network
+   analysis" (NADINE) [288956]; EC FET project "Financial systems
+   simulation and policy modelling (SIMPOL)" [610704]; Aalto University
+   postdoctoral program; Mid-career Researcher Program through National
+   Research Foundation of Korea (NRF) grant - Ministry of Science, ICT and
+   Future Planning [2014030018]; Basic Science Research Program through
+   ational Research Foundation of Korea (NRF) grant - Ministry of Science,
+   ICT and Future Planning [2014046922]
+FX The authors thank American Physical Society for providing Physical
+   Review bibliographic data. Y.-H.E. acknowledges support from the EC FET
+   Open project "New tools and algorithms for directed network analysis"
+   (NADINE number 288956) and the EC FET project "Financial systems
+   simulation and policy modelling (SIMPOL)" - No. 610704. H.-H.J.
+   acknowledges financial support by Aalto University postdoctoral program
+   and by Mid-career Researcher Program through the National Research
+   Foundation of Korea (NRF) grant funded by the Ministry of Science, ICT
+   and Future Planning (2014030018), and Basic Science Research Program
+   through the National Research Foundation of Korea (NRF) grant funded by
+   the Ministry of Science, ICT and Future Planning (2014046922).
+CR Albert R, 2000, NATURE, V406, P378, DOI 10.1038/35019019
+   Avrachenkov K., 2014, ARXIV14100571
+   Bakshy Eytan., 2012, WWW 12 P 21 INT C WO
+   Barabási AL, 2004, NAT REV GENET, V5, P101, DOI 10.1038/nrg1272
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Boccaletti S, 2006, PHYS REP, V424, P175, DOI 10.1016/j.physrep.2005.10.009
+   BROOKS G, 1992, SIGPLAN NOTICES, V27, P1, DOI [10.13334/j.0258-8013.pcsee.213043, 10.1145/143103.143108]
+   Castellano C, 2012, SCI REP-UK, V2, DOI 10.1038/srep00371
+   Castellano C, 2009, REV MOD PHYS, V81, P591, DOI 10.1103/RevModPhys.81.591
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Cho E, 2011, KDD
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   Christakis NA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0012948
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Cohen R, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.247901
+   Eom Y.-H., 2014, ARXIV14057183
+   Eom YH, 2014, SCI REP-UK, V4, DOI 10.1038/srep04603
+   Eom YH, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0024926
+   FELD SL, 1991, AM J SOCIOL, V96, P1464, DOI 10.1086/229693
+   Fortunato S, 2010, PHYS REP, V486, P75, DOI 10.1016/j.physrep.2009.11.002
+   Garcia-Herranz M, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0092413
+   Han JDJ, 2004, NATURE, V430, P88, DOI 10.1038/nature02555
+   Hodas N. O., 2013, ICWSM 13 P 7 INT AAA
+   Jeong H, 2001, NATURE, V411, P41, DOI 10.1038/35075138
+   Jo HH, 2014, PHYS REV E, V90, DOI 10.1103/PhysRevE.90.022809
+   Kryvasheyeu Y, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0117288
+   Kurant M, 2011, IEEE J SEL AREA COMM, V29, P1799, DOI 10.1109/JSAC.2011.111005
+   Lazer D, 2009, SCIENCE, V323, P721, DOI 10.1126/science.1167742
+   Leskovec J, 2005, ACM SIGKDD C KNOWLED, P177
+   Leskovec J, 2009, INTERNET MATH, V6, P29, DOI 10.1080/15427951.2009.10129177
+   Newman M., 2010, NETWORKS, DOI [DOI 10.1093/ACPROF:OSO/9780199206650.001.0001, 10.1093/acprof:oso/9780199206650.001.0001]
+   Newman MEJ, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.208701
+   Pastor-Satorras R, 2001, PHYS REV LETT, V86, P3200, DOI 10.1103/PhysRevLett.86.3200
+   Vespignani A, 2012, NAT PHYS, V8, P32, DOI 10.1038/nphys2160
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Yang J., 2012, ICDM 12 P IEEE INT C
+   Zotenko E, 2008, PLOS COMPUT BIOL, V4, DOI 10.1371/journal.pcbi.1000140
+NR 37
+TC 18
+Z9 21
+U1 0
+U2 11
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD MAY 11
+PY 2015
+VL 5
+AR 09752
+DI 10.1038/srep09752
+PG 9
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA CH8EU
+UT WOS:000354269900001
+PM 25959097
+OA Green Published, Green Accepted, Green Submitted, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Hofstra, B
+   Corten, R
+   Buskens, V
+AF Hofstra, Bas
+   Corten, Rense
+   Buskens, Vincent
+TI Learning in social networks: Selecting profitable choices among
+   alternatives of uncertain profitability in various networks
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Social learning; Social networks; Multi-armed bandit problem; Diffusion
+   of information
+ID PERFORMANCE; CENTRALITY
+AB Social capital theory assumes that information is valuable. However, only rarely is this value explicitly modeled, and there are few examples of empirical tests of mechanisms that connect social network structure to valuable information. We model an individual decision problem in which individuals make choices that yield uncertain outcomes. The individuals can learn about the profitability of options from their own choices and from the network. We generate computer-simulated data to derive hypotheses about the effect of network characteristics on making profitable choices. We conduct a laboratory experiment to empirically test these hypotheses and find that, at the individual level, degree centrality has a positive effect on making profitable choices whereas betweenness centrality has no effect. At the network level, density has a positive effect on making profitable choices, whereas centralization does not have an effect. (C) 2015 Elsevier B.V. All rights reserved.
+C1 [Hofstra, Bas; Corten, Rense; Buskens, Vincent] Univ Utrecht, Dept Sociol ICS, NL-3584 CH Utrecht, Netherlands.
+C3 Utrecht University
+RP Hofstra, B (corresponding author), Univ Utrecht, Dept Sociol ICS, Padualaan 14, NL-3584 CH Utrecht, Netherlands.
+EM b.hofstra@uu.nl; r.corten@uu.nl; v.buskens@uu.nl
+RI Buskens, Vincent/B-3134-2012; Corten, Rense/D-7090-2013
+OI Buskens, Vincent/0000-0002-4483-7238; Hofstra, Bas/0000-0002-9052-956X
+CR Ahuja MK, 2003, MANAGE SCI, V49, P21, DOI 10.1287/mnsc.49.1.21.12756
+   Aral S., 2012, 33 INT C INF SYST
+   Bala V, 1998, REV ECON STUD, V65, P595, DOI 10.1111/1467-937X.00059
+   BECHARA A, 1994, COGNITION, V50, P7, DOI 10.1016/0010-0277(94)90018-3
+   BURT RS, 1992, NETWORKS AND ORGANIZATIONS : STRUCTURE, FORM, AND ACTION, P57
+   Burt RS, 2004, AM J SOCIOL, V110, P349, DOI 10.1086/421787
+   Buskens V, 2008, AM J SOCIOL, V114, P371, DOI 10.1086/590674
+   CHAMLEY C., 2004, Rational herds: Economic models of social learning
+   Charness G, 2005, AM ECON REV, V95, P1300, DOI 10.1257/0002828054825583
+   Conley TG, 2010, AM ECON REV, V100, P35, DOI 10.1257/aer.100.1.35
+   Corten R, 2010, SOC NETWORKS, V32, P4, DOI 10.1016/j.socnet.2009.04.002
+   Cowan R, 2004, J ECON DYN CONTROL, V28, P1557, DOI 10.1016/j.jedc.2003.04.002
+   DEGRAAF ND, 1988, SOC FORCES, V67, P452, DOI 10.2307/2579190
+   Falk A, 2009, SCIENCE, V326, P535, DOI 10.1126/science.1168244
+   Fischbacher U, 2007, EXP ECON, V10, P171, DOI 10.1007/s10683-006-9159-4
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   FREEMAN LC, 1977, SOCIOMETRY, V40, P35, DOI 10.2307/3033543
+   Frey V, 2012, REV NETW ECON, V11, DOI 10.1515/1446-9022.1365
+   Gale D, 2003, GAME ECON BEHAV, V45, P329, DOI 10.1016/S0899-8256(03)00144-1
+   Gittins John, 2011, Multi-armed bandit allocation indices
+   Goyal S., 2007, CONNECTIONS INTRO EC
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Greiner B., 2004, Working Paper Series in Economics, V10
+   Grund TU, 2012, SOC NETWORKS, V34, P682, DOI 10.1016/j.socnet.2012.08.004
+   Jackson MO, 1996, J ECON THEORY, V71, P44, DOI 10.1006/jeth.1996.0108
+   Jackson MO, 2008, SOCIAL AND ECONOMIC NETWORKS, P1
+   Kanoria Y., 2011, TRACTABLE BAYESIAN S
+   Kanoria Y., 2012, LEARNING SOCIAL EC N
+   Lin N, 1999, ANNU REV SOCIOL, V25, P467, DOI 10.1146/annurev.soc.25.1.467
+   Lin Nan, 2001, Social capital: theory and research, P31
+   Raub W, 2013, SOC NETWORKS, V35, P720, DOI 10.1016/j.socnet.2013.05.006
+   ROBBINS H, 1952, B AM MATH SOC, V58, P527, DOI 10.1090/S0002-9904-1952-09620-8
+   Schilling MA, 2007, MANAGE SCI, V53, P1113, DOI 10.1287/mnsc.1060.0624
+   SNIJDERS TAB, 1981, SOC NETWORKS, V3, P163, DOI 10.1016/0378-8733(81)90014-9
+   Sparrowe RT, 2001, ACAD MANAGE J, V44, P316, DOI 10.5465/3069458
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+NR 36
+TC 12
+Z9 13
+U1 2
+U2 40
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD OCT
+PY 2015
+VL 43
+BP 100
+EP 112
+DI 10.1016/j.socnet.2015.04.011
+PG 13
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA CN7PL
+UT WOS:000358626400010
+OA Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Dong, YX
+   Tang, J
+   Chawla, NV
+   Lou, TC
+   Yang, Y
+   Wang, B
+AF Dong, Yuxiao
+   Tang, Jie
+   Chawla, Nitesh V.
+   Lou, Tiancheng
+   Yang, Yang
+   Wang, Bai
+TI Inferring Social Status and Rich Club Effects in Enterprise
+   Communication Networks
+SO PLOS ONE
+LA English
+DT Article
+AB Social status, defined as the relative rank or position that an individual holds in a social hierarchy, is known to be among the most important motivating forces in social behaviors. In this paper, we consider the notion of status from the perspective of a position or title held by a person in an enterprise. We study the intersection of social status and social networks in an enterprise. We study whether enterprise communication logs can help reveal how social interactions and individual status manifest themselves in social networks. To that end, we use two enterprise datasets with three communication channels-voice call, short message, and email-to demonstrate the social-behavioral differences among individuals with different status. We have several interesting findings and based on these findings we also develop a model to predict social status. On the individual level, high-status individuals are more likely to be spanned as structural holes by linking to people in parts of the enterprise networks that are otherwise not well connected to one another. On the community level, the principle of homophily, social balance and clique theory generally indicate a "rich club" maintained by high-status individuals, in the sense that this community is much more connected, balanced and dense. Our model can predict social status of individuals with 93% accuracy.
+C1 [Dong, Yuxiao; Chawla, Nitesh V.; Yang, Yang] Univ Notre Dame, Interdisciplinary Ctr Network Sci & Applicat, Dept Comp Sci & Engn, Notre Dame, IN 46556 USA.
+   [Tang, Jie] Tsinghua Univ, Dept Comp Sci & Technol, Beijing 100084, Peoples R China.
+   [Lou, Tiancheng] Google Inc, Mountain View, CA USA.
+   [Wang, Bai] Beijing Univ Posts & Telecommun, Dept Comp Sci & Technol, Beijing 100088, Peoples R China.
+C3 University of Notre Dame; Tsinghua University; Google Incorporated;
+   Beijing University of Posts & Telecommunications
+RP Chawla, NV (corresponding author), Univ Notre Dame, Interdisciplinary Ctr Network Sci & Applicat, Dept Comp Sci & Engn, Notre Dame, IN 46556 USA.
+EM nchawla@nd.edu
+RI tang, jie/KIE-8633-2024; Yang, Yang/A-6288-2017; Chawla,
+   Nitesh/F-2690-2016
+OI Chawla, Nitesh/0000-0003-3932-5956; Yang, Yang/0000-0003-4140-8128
+FU Army Research Laboratory; United States Air Force Office of Scientific
+   Research; Defense Advanced Research Projects Agency [FA9550-12-1-0405];
+   National High-tech R D Program [2014AA015103]; National Basic Research
+   Program of China [2014CB340500, 2012CB316006, 2013CB329603]; Natural
+   Science Foundation of China [61222212]; Huawei Inc.; Beijing key lab of
+   networked multimedia
+FX YD, NVC and YY are supported by the Army Research Laboratory and was
+   accomplished under Cooperative Agreement Number W911NF-09-2-0053, the
+   United States Air Force Office of Scientific Research and the Defense
+   Advanced Research Projects Agency grant #FA9550-12-1-0405; JT is
+   supported by the National High-tech R & D Program (No. 2014AA015103),
+   National Basic Research Program of China (No. 2014CB340500, No.
+   2012CB316006), Natural Science Foundation of China (No. 61222212), a
+   research fund supported by Huawei Inc. and Beijing key lab of networked
+   multimedia; BW is supported by National Basic Research Program of China
+   (2013CB329603). The funders had no role in study design, data collection
+   and analysis, decision to publish, or preparation of the manuscript.
+   This does not alter the authors' adherence to PLOS ONE policies on
+   sharing data and materials.
+CR ALBA RD, 1973, J MATH SOCIOL, V3, P113, DOI 10.1080/0022250X.1973.9989826
+   [Anonymous], PLOS ONE
+   [Anonymous], 2010, P INT C WORLD WID WE
+   [Anonymous], P NATL ACAD SCI
+   [Anonymous], CLASS STATUS PARTY E
+   [Anonymous], SCI REPORTS      JUL
+   [Anonymous], CHI2010 P 28 ANN
+   [Anonymous], COMMUNICATION NETW 1
+   Brown Chloe, 2014, P 17 ACM C COMP SUPP, P1072, DOI [DOI 10.1145/2531602.2531641, 10.1145/2531602.2531641]
+   Burt R.S., 2018, Social Stratification, P659
+   Burt RS, 2004, AM J SOCIOL, V110, P349, DOI 10.1086/421787
+   Colizza V, 2006, NAT PHYS, V2, P110, DOI 10.1038/nphys209
+   Csermely P, 2013, J COMPLEX NETW, V1, P93, DOI 10.1093/comnet/cnt016
+   Danescu-Niculescu-Mizil C., 2012, Proceedings of the 21st International Conference on WWW, WWW '12, P699
+   Dong YX, 2014, PROCEEDINGS OF THE 20TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING (KDD'14), P15, DOI 10.1145/2623330.2623703
+   Dong YX, 2012, IEEE DATA MINING, P181, DOI 10.1109/ICDM.2012.140
+   Easley D., 2010, NETWORKS CROWDS MARK
+   Freeman JB, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0025107
+   Gilbert Eric, 2012, P ACM 2012 C COMP SU, P1037
+   Hall M., 2009, SIGKDD EXPLORATIONS, V11, P10, DOI [10.1145/1656274.1656278, DOI 10.1145/1656274.1656278]
+   Heider F, 1958, PSYCHOL INTERPERSONA
+   Kleinberg, 2012, P 5 ACM INT C WEB SE, P743, DOI DOI 10.1145/2124295.2124382
+   Kleinberg J, 2008, EC'08: PROCEEDINGS OF THE 2008 ACM CONFERENCE ON ELECTRONIC COMMERCE, P284
+   Klimt B, 2004, LECT NOTES COMPUT SC, V3201, P217
+   Kschischang FR, 2001, IEEE T INFORM THEORY, V47, P498, DOI 10.1109/18.910572
+   Lafferty J.D., 2001, P 18 INT C MACH LEAR, P282
+   Lazarsfeld P.F., 1954, Freedom and Control in Modern Society, P18, DOI DOI 10.1111/J.1467-8705.2012.02056_3.X
+   Lou TC, 2013, ACM T KNOWL DISCOV D, V7, DOI 10.1145/2499907.2499908
+   McAuley JJ, 2007, APPL PHYS LETT, V91, DOI 10.1063/1.2773951
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   MILROY L, 1992, LANG SOC, V21, P1, DOI 10.1017/S0047404500015013
+   Palchykov V, 2012, SCI REP-UK, V2, DOI 10.1038/srep00370
+   Rege M, 2008, J ECON BEHAV ORGAN, V66, P233, DOI 10.1016/j.jebo.2006.04.005
+   Rodkin PC, 2008, INT J BEHAV DEV, V32, P473, DOI 10.1177/0165025408093667
+   Salkind N., 2008, ENCY ED PSYCHOL
+   Tang, 2013, P 22 INT C WORLD WID, P825, DOI DOI 10.1145/2488388.2488461
+   Tichy N.M., 1979, Academy of Management Review, V4, P507, DOI [DOI 10.5465/AMR.1979.4498309, 10.5465/amr.1979.4498309 10.5465/amr.1979.4498309]
+   Traag VA, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0060063
+   Wainwright MJ, 2008, FOUND TRENDS MACH LE, V1, P1, DOI 10.1561/2200000001
+   Zhao YC, 2013, 19TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING (KDD'13), P695
+   Zhou S, 2004, IEEE COMMUN LETT, V8, P180, DOI 10.1109/LCOMM.2004.823426
+NR 41
+TC 15
+Z9 19
+U1 1
+U2 23
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD MAR 30
+PY 2015
+VL 10
+IS 3
+AR e0119446
+DI 10.1371/journal.pone.0119446
+PG 14
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA CE9AD
+UT WOS:000352134700035
+PM 25822343
+OA Green Published, Green Submitted, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Carter, AJ
+   Lee, AEG
+   Marshall, HH
+   Ticó, MT
+   Cowlishaw, G
+AF Carter, Alecia J.
+   Lee, Alexander E. G.
+   Marshall, Harry H.
+   Tico, Miquel Torrents
+   Cowlishaw, Guy
+TI Phenotypic assortment in wild primate networks: implications for the
+   dissemination of information
+SO ROYAL SOCIETY OPEN SCIENCE
+LA English
+DT Article
+DE social network; social information; chacma baboon; personality;
+   phenotypic assortment
+ID PERSONALITY PREDICTS; SOCIAL RELATIONSHIPS; FEMALE BABOONS; PATTERNS;
+   BEHAVIOR; PROPAGATION; POPULATION; SIMULATION; EVOLUTION; DYNAMICS
+AB Individuals' access to social information can depend on their social network. Homophily-a preference to associate with similar phenotypes-may cause assortment within social networks that could preclude information transfer from individuals who generate information to those who would benefit from acquiring it. Thus, understanding phenotypic assortment may lead to a greater understanding of the factors that could limit the transfer of information between individuals. We tested whether there was assortment in wild baboon (Papio ursinus) networks, using data collected from two troops over 6 years for six phenotypic traits-boldness, age, dominance rank, sex and the propensity to generate/exploit information-using two methods for defining a connection between individuals-time spent in proximity and grooming. Our analysis indicated that assortment was more common in grooming than proximity networks. In general, there was homophily for boldness, age, rank and the propensity to both generate and exploit information, but heterophily for sex. However, there was considerable variability both between troops and years. The patterns of homophily we observed for these phenotypes may impede information transfer between them. However, the inconsistency in the strength of assortment between troops and years suggests that the limitations to information flow may be quite variable.
+C1 [Carter, Alecia J.] Univ Cambridge, Dept Zool, Large Anim Res Grp, Cambridge, England.
+   [Lee, Alexander E. G.; Tico, Miquel Torrents; Cowlishaw, Guy] Zool Soc London, Inst Zool, Regents Pk, London NW1 4RY, England.
+   [Lee, Alexander E. G.] Univ London Imperial Coll Sci Technol & Med, Dept Life Sci, Div Ecol & Evolut, Silwood Pk, Berks, England.
+   [Marshall, Harry H.] Univ Exeter, Coll Life & Environm Sci, Ctr Ecol & Conservat, Penryn, England.
+C3 University of Cambridge; Zoological Society of London; Imperial College
+   London; University of Exeter
+RP Carter, AJ (corresponding author), Univ Cambridge, Dept Zool, Large Anim Res Grp, Cambridge, England.
+EM ac854@cam.ac.uk
+RI Torrents-Ticó, Miquel/AAF-9056-2019; Lee, Alexander/JQJ-3667-2023;
+   Marshall, Harry/D-4945-2014
+OI Torrents-Tico, Miquel/0000-0002-6580-5016; Carter,
+   Alecia/0000-0001-5550-9312; Marshall, Harry/0000-0003-2120-243X
+FU Junior Research Fellowship from Churchill College, University of
+   Cambridge; NERC Open CASE studentship [NE/F013442/1]; NERC Quota
+   studentship [NE/J500409/1]; NERC; Leakey Foundation; Explorers Fund;
+   Animal Behavior Society (USA); International Primatological Society
+FX A.J.C. is supported by a Junior Research Fellowship from Churchill
+   College, University of Cambridge. H.H.M. was supported by a NERC Open
+   CASE studentship (NE/F013442/1). A.E.G.L. is supported by a NERC Quota
+   studentship (NE/J500409/1). The TBP researchers have received funding
+   from NERC, the Leakey Foundation, the Explorers Fund, the Animal
+   Behavior Society (USA) and the International Primatological Society over
+   the 6 years of the study.
+CR [Anonymous], 2008, R LANG ENV STAT COMP
+   Aplin LM, 2013, ECOL LETT, V16, P1365, DOI 10.1111/ele.12181
+   Aplin LM, 2012, P ROY SOC B-BIOL SCI, V279, P4199, DOI 10.1098/rspb.2012.1591
+   Atton N, 2012, P ROY SOC B-BIOL SCI, V279, P4272, DOI 10.1098/rspb.2012.1462
+   Barrett L, 2002, BEHAVIOUR, V139, P263, DOI 10.1163/156853902760102672
+   Beauchamp G, 2001, CAN J ZOOL, V79, P540, DOI 10.1139/cjz-79-3-540
+   Boogert NJ, 2014, BEHAV PROCESS, V109, P135, DOI 10.1016/j.beproc.2014.08.016
+   Brent LJN, 2014, INT J PRIMATOL, V35, P188, DOI 10.1007/s10764-013-9724-6
+   Brent LJN, 2013, BEHAV ECOL SOCIOBIOL, V67, P349, DOI 10.1007/s00265-012-1455-8
+   CAMBEFORT JP, 1981, FOLIA PRIMATOL, V36, P243, DOI 10.1159/000156000
+   Carter AJ, 2014, PEERJ, V2, DOI 10.7717/peerj.283
+   Carter AJ, 2013, ANIM BEHAV, V86, P633, DOI 10.1016/j.anbehav.2013.07.009
+   Carter AJ, 2012, ANIM BEHAV, V84, P603, DOI 10.1016/j.anbehav.2012.06.015
+   Carter AJ, 2012, BEHAV ECOL SOCIOBIOL, V66, P153, DOI 10.1007/s00265-011-1263-6
+   Carter AJ, 2009, ANIM BEHAV, V77, P839, DOI 10.1016/j.anbehav.2008.12.007
+   Castles M, 2014, ANIM BEHAV, V96, P59, DOI 10.1016/j.anbehav.2014.07.023
+   Castro L, 2004, P NATL ACAD SCI USA, V101, P10235, DOI 10.1073/pnas.0400156101
+   Cheney DL., 2007, BABOON METAPHYSICS
+   Claidière N, 2013, CURR BIOL, V23, P1251, DOI 10.1016/j.cub.2013.05.036
+   Clarke PMR, 2010, BEHAV ECOL, V21, P1211, DOI 10.1093/beheco/arq125
+   CoussiKorbel S, 1995, ANIM BEHAV, V50, P1441, DOI 10.1016/0003-3472(95)80001-8
+   Croft DP, 2009, BEHAV ECOL SOCIOBIOL, V63, P1495, DOI 10.1007/s00265-009-0802-x
+   Croft DP, 2006, BEHAV ECOL SOCIOBIOL, V59, P644, DOI 10.1007/s00265-005-0091-y
+   Croft DP, 2008, EXPLORING ANIMAL SOCIAL NETWORKS, P1
+   Dall SRX, 2005, TRENDS ECOL EVOL, V20, P187, DOI 10.1016/j.tree.2005.01.010
+   Dormann CF, 2013, ECOGRAPHY, V36, P27, DOI 10.1111/j.1600-0587.2012.07348.x
+   Farine DR, 2014, ANIM BEHAV, V89, P141, DOI 10.1016/j.anbehav.2014.01.001
+   Giraldeau LA, 2002, PHILOS T R SOC B, V357, P1559, DOI 10.1098/rstb.2002.1065
+   Henzi P, 2003, EVOL ANTHROPOL, V12, P217, DOI 10.1002/evan.10121
+   Henzi SP, 2009, BEHAV ECOL SOCIOBIOL, V63, P1015, DOI 10.1007/s00265-009-0720-y
+   Henzi SP, 2002, ANIM BEHAV, V63, P915, DOI 10.1006/anbe.2001.1986
+   Hobson EA, 2013, ANIM BEHAV, V85, P83, DOI 10.1016/j.anbehav.2012.10.010
+   Hopper LM, 2014, ANIM COGN, V17, P835, DOI 10.1007/s10071-013-0715-y
+   Huchard E, 2011, BEHAV ECOL, V22, P1003, DOI 10.1093/beheco/arr083
+   Huchard E, 2010, BEHAV ECOL SOCIOBIOL, V64, P769, DOI 10.1007/s00265-009-0894-3
+   Huchard E, 2009, P ROY SOC B-BIOL SCI, V276, P1889, DOI 10.1098/rspb.2008.1923
+   Kendal RL, 2010, LEARN BEHAV, V38, P220, DOI 10.3758/LB.38.3.220
+   Kurvers RHJM, 2010, P ROY SOC B-BIOL SCI, V277, P601, DOI 10.1098/rspb.2009.1474
+   Laland KN, 2004, LEARN BEHAV, V32, P4
+   Lehmann J, 2011, AM J PRIMATOL, V73, P775, DOI 10.1002/ajp.20967
+   Massen JJM, 2014, EVOL HUM BEHAV, V35, P1, DOI 10.1016/j.evolhumbehav.2013.08.008
+   Reader SM, 2010, LEARN BEHAV, V38, P265, DOI 10.3758/LB.38.3.265
+   SEYFARTH RM, 1978, BEHAVIOUR, V64, P227, DOI 10.1163/156853978X00044
+   Silk JB, 2006, BEHAV ECOL SOCIOBIOL, V61, P183, DOI 10.1007/s00265-006-0249-2
+   Silk JB, 2010, BEHAV ECOL SOCIOBIOL, V64, P1733, DOI 10.1007/s00265-010-0986-0
+   Thornton A, 2012, PHILOS T R SOC B, V367, P2773, DOI 10.1098/rstb.2012.0214
+   Voelkl B, 2008, J THEOR BIOL, V252, P77, DOI 10.1016/j.jtbi.2008.02.002
+   Voelkl B, 2010, BEHAV ECOL SOCIOBIOL, V64, P1449, DOI 10.1007/s00265-010-0960-x
+   Whiten A, 2000, COGNITIVE SCI, V24, P477
+NR 49
+TC 35
+Z9 41
+U1 3
+U2 20
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 2054-5703
+J9 ROY SOC OPEN SCI
+JI R. Soc. Open Sci.
+PD MAY
+PY 2015
+VL 2
+IS 5
+AR 140444
+DI 10.1098/rsos.140444
+PG 13
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA DO7MB
+UT WOS:000377965600006
+PM 26064652
+OA Green Submitted, Green Published, gold
+DA 2024-11-22
+ER

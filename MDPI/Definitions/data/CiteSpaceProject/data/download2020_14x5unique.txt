@@ -1,0 +1,596 @@
+
+PT J
+AU Talaga, S
+   Nowak, A
+AF Talaga, Szymon
+   Nowak, Andrzej
+TI Homophily as a Process Generating Social Networks: Insights from Social
+   Distance Attachment Model
+SO JASSS-THE JOURNAL OF ARTIFICIAL SOCIETIES AND SOCIAL SIMULATION
+LA English
+DT Article
+DE Social Networks; Homophily; Social Distance Attachment; Configuration
+   Model
+ID SIZE
+AB Real-world social networks often exhibit high levels of clustering, positive degree assortativity, short average path lengths (small-world property) and right-skewed but rarely power law degree distributions. On the other hand homophily, defined as the propensity of similar agents to connect to each other, is one of the most fundamental social processes observed in many human and animal societies. In this paper we examine the extent to which homophily is sufficient to produce the typical structural properties of social networks. To do so, we conduct a simulation study based on the Social Distance Attachment (SDA) model, a particular kind of Random Geometric Graph (RGG), in which nodes are embedded in a social space and connection probabilities depend functionally on distances between nodes. We derive the form of the model from first principles based on existing analytical results and argue that the mathematical construction of RGGs corresponds directly to the homophily principle, so they provide a good model for it. We find that homophily, especially when combined with a random edge rewiring, is sufficient to reproduce many of the characteristic features of social networks. Additionally, we devise a hybrid model combining SDA with the configuration model that allows generating homophilic networks with arbitrary degree sequences and we use it to study interactions of homophily with processes imposing constraints on degree distributions. We show that the effects of homophily on clustering are robust with respect to distribution constraints, while degree assortativity can be highly dependent on the particular kind of enforced degree sequence.
+C1 [Talaga, Szymon; Nowak, Andrzej] Univ Warsaw, Robert Zajonc Inst Social Studies, Stawki 5-7, PL-00183 Warsaw, Poland.
+   [Nowak, Andrzej] Univ Warsaw, Dept Psychol, Warsaw, Poland.
+C3 University of Warsaw; University of Warsaw
+RP Talaga, S (corresponding author), Univ Warsaw, Robert Zajonc Inst Social Studies, Stawki 5-7, PL-00183 Warsaw, Poland.
+EM stalaga@protonmail.com
+RI Nowak, Andrzej/ABC-5414-2020; Talaga, Szymon/AHB-1695-2022
+OI Nowak, Andrzej K/0000-0001-9965-0684; Talaga, Szymon/0000-0003-2699-2856
+CR Aiello LM, 2012, ACM T WEB, V6, DOI 10.1145/2180861.2180866
+   ALEFELD GE, 1995, ACM T MATH SOFTWARE, V21, P327, DOI 10.1145/210089.210111
+   [Anonymous], J ARTIFICIAL SOC SOC
+   [Anonymous], NUMERICAL ANAL
+   [Anonymous], P ROYAL SOC LON B S6
+   [Anonymous], J ARTIFICIAL SOC SOC
+   [Anonymous], 2008, Proceedings of the 15th ACM SIGKDD international conference on Knowledge discovery and data mining, DOI [10.1145/1401890.1401897, DOI 10.1145/1401890.1401897]
+   Antonioni A, 2012, PHYS REV E, V86, DOI 10.1103/PhysRevE.86.037101
+   BADHAM J.M., 2013, Network Science, V1, P213, DOI [DOI 10.1017/NWS.2013.10, 10.1017/nws.2013.10]
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Bianchi F, 2015, WILEY INTERDISCIP RE, V7, P284, DOI 10.1002/wics.1356
+   BLAU PM, 1977, AM J SOCIOL, V83, P26, DOI 10.1086/226505
+   Boguñá M, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.056122
+   Bourdieu Pierre., 1984, DISTINCTION SOCIAL C, DOI DOI 10.1002/9780470755679.CH15
+   Bourdieu Pierre., 1989, SOCIOL THEOR, V7, P14, DOI [DOI 10.2307/202060, 10.2307/202060]
+   Broido AD, 2019, NAT COMMUN, V10, DOI 10.1038/s41467-019-08746-5
+   Carletti T, 2011, ADV COMPLEX SYST, V14, P13, DOI 10.1142/S021952591100286X
+   Centola D, 2007, J CONFLICT RESOLUT, V51, P905, DOI 10.1177/0022002707307632
+   Centola D, 2015, SOC SCI MED, V125, P19, DOI 10.1016/j.socscimed.2014.05.019
+   Clauset A, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.066111
+   Colleoni E, 2014, J COMMUN, V64, P317, DOI 10.1111/jcom.12084
+   Csardi G., 2006, INT J COMPLEX SYST
+   Dall J, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.016121
+   Erdos P., 1959, PUBL MATH-DEBRECEN, V6, P290
+   Estrada E, 2011, PHYS REV E, V84, DOI 10.1103/PhysRevE.84.047101
+   Flache A, 2017, JASSS-J ARTIF SOC S, V20, DOI 10.18564/jasss.3521
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   HAKIMI SL, 1962, J SOC IND APPL MATH, V10, P496, DOI 10.1137/0110037
+   Halberstam Y, 2016, J PUBLIC ECON, V143, P73, DOI 10.1016/j.jpubeco.2016.08.011
+   Hill RA, 2003, HUM NATURE-INT BIOS, V14, P53, DOI 10.1007/s12110-003-1016-y
+   Hoff PD, 2002, J AM STAT ASSOC, V97, P1090, DOI 10.1198/016214502388618906
+   Jiang YX, 2013, AM NAT, V181, pE125, DOI 10.1086/670160
+   Kossinets G, 2009, AM J SOCIOL, V115, P405, DOI 10.1086/599247
+   Krioukov D, 2016, PHYS REV LETT, V116, DOI 10.1103/PhysRevLett.116.208302
+   LATANE B, 1981, AM PSYCHOL, V36, P343, DOI 10.1037/0003-066X.36.4.343
+   Leskovec J., 2008, Proceedings of the 17th International Conference on World Wide Web, DOI 10.1145/1367497.1367620
+   Mac Carron P, 2016, SOC NETWORKS, V47, P151, DOI 10.1016/j.socnet.2016.06.003
+   MARSDEN PV, 1987, AM SOCIOL REV, V52, P122, DOI 10.2307/2095397
+   MCPHERSON JM, 1987, AM SOCIOL REV, V52, P370, DOI 10.2307/2095356
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   McPherson M, 2004, IND CORP CHANGE, V13, P263, DOI 10.1093/icc/13.1.263
+   MCPHERSON M, 1983, AM SOCIOL REV, V48, P519, DOI 10.2307/2117719
+   Newman M., 2010, NETWORKS, DOI [DOI 10.1093/ACPROF:OSO/9780199206650.001.0001, 10.1093/acprof:oso/9780199206650.001.0001]
+   Newman MEJ, 2009, PHYS REV LETT, V103, DOI 10.1103/PhysRevLett.103.058701
+   Newman MEJ, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.036122
+   Newman MEJ, 2001, PHYS REV E, V64, DOI [10.1103/PhysRevE.64.016132, 10.1103/PhysRevE.64.016131]
+   Newman MEJ, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.208701
+   NOWAK A, 1990, PSYCHOL REV, V97, P362, DOI 10.1037/0033-295X.97.3.362
+   Nowak A., 1998, DYNAMICAL SOCIAL PSY
+   POPIELARZ PA, 1995, AM J SOCIOL, V101, P698, DOI 10.1086/230757
+   R Core Team, 2018, R LANG ENV STAT COMP
+   Scheinerman ER, 2010, COMPUTATION STAT, V25, P1, DOI [10.1007/S00180-009-0158-8, 10.1007/s00180-009-0158-8]
+   Sobkowicz P, 2009, JASSS-J ARTIF SOC S, V12
+   Stroud P, 2007, JASSS-J ARTIF SOC S, V10
+   TRAVERS J, 1969, SOCIOMETRY, V32, P425, DOI 10.2307/2786545
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+NR 56
+TC 13
+Z9 13
+U1 0
+U2 9
+PU J A S S S
+PI GUILDFORD
+PA UNIV SURREY, DEPT SOCIOLOGY, GUILDFORD GU2 7XH, SURREY, ENGLAND
+SN 1460-7425
+J9 JASSS-J ARTIF SOC S
+JI JASSS
+PD APR 1
+PY 2020
+VL 23
+IS 2
+AR 6
+DI 10.18564/jasss.4252
+PG 22
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA KZ3RW
+UT WOS:000523183100006
+OA gold, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Liu, N
+   Zhang, YB
+AF Liu, Ning
+   Zhang, Yan Bing
+TI Warranting theory, stereotypes, and intercultural communication: US
+   Americans' perceptions of a target Chinese on Facebook
+SO INTERNATIONAL JOURNAL OF INTERCULTURAL RELATIONS
+LA English
+DT Article
+DE Warranting theory; Facebook; Social network sites (SNSs); Positive and
+   negative stereotypes; Intercultural communication
+ID COMPUTER-MEDIATED COMMUNICATION; SOCIAL NETWORK SITES; ACCULTURATION;
+   WILLINGNESS; PROFILE; PERSONALITY; COOPERATE; BEHAVIOR; FRIENDS; MODEL
+AB Extending prior literature on stereotypes about ethnic groups and warranting theory, this experimental study examined the effects of exposure to a target Chinese international student's Facebook page with self-generated (stereotypically positive or negative) and/or other-generated wall posts (stereotypically positive or negative) on U.S. participants' (N = 550, M-age = 21.38, SD = 3.82) perceptions of task attractiveness and behavioral tendencies (i.e., willingness to communicate/ cooperate) toward the target. Supporting warranting theory, results demonstrated that when other-generated posts were present and disconfirmed the Facebook page owner's self-generated posts, other-generated posts mitigated the effects of self-generated posts in most cases. However, when other-generated and self-generated wall posts were consistent, other-generated posts produced an averaging effect. In addition, the type of dependent measure, and the dynamic interplay between stereotype content and the valence of self-generated posts also mitigated the warranting effect of other-generated posts.
+C1 [Liu, Ning; Zhang, Yan Bing] Univ Kansas, Dept Commun Studies, Lawrence, KS 66045 USA.
+C3 University of Kansas
+RP Zhang, YB (corresponding author), 101 Bailey Hall,1440 Jayhawk Blvd, Lawrence, KS 66045 USA.
+EM liuning2046@gmail.com; ybzhang@ku.edu
+OI Zhang, Yan Bing/0000-0002-8740-2699
+CR ANDERSON NH, 1965, J EXP PSYCHOL, V70, P394, DOI 10.1037/h0022280
+   [Anonymous], 2020, Facebook Newsroom
+   Arendt F, 2013, J COMMUN, V63, P830, DOI 10.1111/jcom.12056
+   Ayoko OB, 2016, INT J CONFL MANAGE, V27, P172, DOI 10.1108/IJCMA-12-2014-0092
+   Caine RenateNummela., 2011, Natural Learning for a Connected World: Education, Technology, and the Human Brain
+   Carr C.T., 2016, Advances in and prospects for intergroup communication, P155, DOI DOI 10.3726/B10467
+   Chandler J, 2019, BEHAV RES METHODS, V51, P2022, DOI 10.3758/s13428-019-01273-7
+   Cohen B.H., 2008, Explaining psychological statistics, V3rd, P386
+   DeAndrea DC, 2018, COMMUN RES, V45, P719, DOI 10.1177/0093650215573862
+   deDreu CKW, 1995, J EXP SOC PSYCHOL, V31, P575, DOI 10.1006/jesp.1995.1026
+   Ellison NB, 2012, NEW MEDIA SOC, V14, P45, DOI 10.1177/1461444811410395
+   Fingar T, 2013, WASH QUART, V36, P125, DOI 10.1080/0163660X.2013.861718
+   Fiske ST, 2002, J PERS SOC PSYCHOL, V82, P878, DOI 10.1037//0022-3514.82.6.878
+   Fletcher GJO, 2000, CURR DIR PSYCHOL SCI, V9, P102, DOI 10.1111/1467-8721.00070
+   Gosling SD, 2011, CYBERPSYCH BEH SOC N, V14, P483, DOI 10.1089/cyber.2010.0087
+   Harwood J, 2005, PERS SOC PSYCHOL B, V31, P393, DOI 10.1177/0146167204271577
+   Harwood J., 2008, INTERGROUP COMMUNICA
+   Hermes J, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0160881
+   Hofhuis J, 2019, INT J INTERCULT REL, V69, P120, DOI 10.1016/j.ijintrel.2019.02.002
+   HOGG MA, 1987, BRIT J SOC PSYCHOL, V26, P325, DOI 10.1111/j.2044-8309.1987.tb00795.x
+   Huang CM, 2013, INT J PSYCHOL, V48, P334, DOI 10.1080/00207594.2011.649285
+   Imamura M, 2014, INT J INTERCULT REL, V43, P227, DOI 10.1016/j.ijintrel.2014.08.018
+   Institute of International Education, 2020, OP DOORS 2019 INT ST
+   Kokkinos CM, 2016, COMPUT HUM BEHAV, V55, P840, DOI 10.1016/j.chb.2015.10.017
+   Lane BL, 2016, COMPUT HUM BEHAV, V56, P1, DOI 10.1016/j.chb.2015.11.016
+   Latrofa M, 2012, J SOC PSYCHOL, V152, P92, DOI 10.1080/00224545.2011.565382
+   Mao YP, 2015, INT J COMMUN-US, V9, P2467
+   McCroskey J., 1987, PERSONALITY INTERPER, P129
+   McCroskey LL, 2006, COMMUN Q, V54, P1, DOI 10.1080/01463370500270322
+   Montgomery G, 2018, J LANG SOC PSYCHOL, V37, P330, DOI 10.1177/0261927X17728361
+   Operario D., 2003, BLACKWELL HDB SOCIAL, P198
+   Pagliaro S, 2013, J BUS ETHICS, V117, P37, DOI 10.1007/s10551-012-1508-y
+   Parks MR, 2011, J COMMUN, V61, P557, DOI 10.1111/j.1460-2466.2011.01569.x
+   Pickett CL, 2002, J PERS SOC PSYCHOL, V82, P543, DOI 10.1037//0022-3514.82.4.543
+   Ruble R.A., 2012, The Bulletin of the Association of College Unions International, V80, P30
+   Ruble RA, 2013, INT J INTERCULT REL, V37, P202, DOI 10.1016/j.ijintrel.2012.12.004
+   Rui JR, 2015, COMPUT HUM BEHAV, V49, P400, DOI 10.1016/j.chb.2015.03.041
+   Russell ST, 2012, AM J PUBLIC HEALTH, V102, P493, DOI 10.2105/AJPH.2011.300430
+   Scott D., 2003, INT J ORGAN ANAL, V11, P3, DOI DOI 10.1108/EB028960
+   Swann W.B., 2012, HDB THEORIES SOCIAL, P23, DOI DOI 10.4135/9781446249222.N27
+   Tran TBH, 2016, J MANAGE ORGAN, V22, P311, DOI 10.1017/jmo.2015.37
+   Utz S, 2010, J COMPUT-MEDIAT COMM, V15, P314, DOI 10.1111/j.1083-6101.2010.01522.x
+   Vonk R, 1998, EUR J SOC PSYCHOL, V28, P37, DOI 10.1002/(SICI)1099-0992(199801/02)28:1<37::AID-EJSP844>3.3.CO;2-G
+   Walther J.B., 2002, The Handbook of Interpersonal Communication, V3, P529, DOI DOI 10.1177/0893318916687397
+   Walther JB, 2008, HUM COMMUN RES, V34, P28, DOI 10.1111/j.1468-2958.2007.00312.x
+   Walther JB, 2009, COMMUN RES, V36, P229, DOI 10.1177/0093650208330251
+   Williams CT, 2011, INT J INTERCULT REL, V35, P41, DOI 10.1016/j.ijintrel.2010.11.001
+   World GDP Ranking, 2020, KNOEM
+   Xue H, 2019, ACM J DATA INF QUAL, V11, DOI 10.1145/3305258
+   Yang CC, 2016, J YOUTH ADOLESCENCE, V45, P402, DOI 10.1007/s10964-015-0385-y
+   Zhang LL, 2015, INT J COMMUN-US, V9, P1
+   Zhang YB., 2018, The International Encyclopedia of Intercultural Communication, P95, DOI DOI 10.1002/9781118783665.IEICC0156
+NR 52
+TC 5
+Z9 6
+U1 3
+U2 22
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0147-1767
+EI 1873-7552
+J9 INT J INTERCULT REL
+JI Int. J. Intercult. Relat.
+PD JUL
+PY 2020
+VL 77
+BP 83
+EP 94
+DI 10.1016/j.ijintrel.2020.04.005
+PG 12
+WC Psychology, Social; Social Sciences, Interdisciplinary; Sociology
+WE Social Science Citation Index (SSCI)
+SC Psychology; Social Sciences - Other Topics; Sociology
+GA MD5ZT
+UT WOS:000544052100008
+DA 2024-11-22
+ER
+
+PT J
+AU Sindermann, C
+   Elhai, JD
+   Moshagen, M
+   Montag, C
+AF Sindermann, Cornelia
+   Elhai, Jon D.
+   Moshagen, Morten
+   Montag, Christian
+TI Age, gender, personality, ideological attitudes and individual
+   differences in a person's news spectrum: how many and who might be prone
+   to "filter bubbles" and "echo chambers" online?
+SO HELIYON
+LA English
+DT Article
+DE Psychology; Media psychology; Individual differences; Digital media;
+   Political science; Political behavior; News spectrum; Big Five; RWA;
+   Filter bubble; Echo chamber
+ID RIGHT-WING AUTHORITARIANISM; SOCIAL-DOMINANCE ORIENTATION; SELECTIVE
+   EXPOSURE; EMPIRICAL-ANALYSIS; BIG 5; CONSERVATISM; CONSUMPTION; IMPACT;
+   MEDIA; USAGE
+AB Potential effects of demographics, personality, and ideological attitudes on the number of news sources consumed should be investigated. The number of news sources consumed, in turn, was seen as inverse proxy for the susceptibility to be caught in "filter bubbles" and/or "echo chambers" (online), which are hotly discussed topics also in politics. A sample of 1,681 (n = 557 males) participants provided data on demographics, the Big Five as well as Right-Wing Authoritarianism (RWA) alongside the number of different news sources consumed and current voting preferences. Results showed that age (positively), gender (higher in males), Openness (positively), and RWA (negatively) predicted the number of different news sources consumed. The group of participants consuming news exclusively offline showed highest scores in Conscientiousness and lowest scores in Neuroticism compared to the "news feeds only" and the "news feeds and online" groups. However, less than 5% of the participants exclusively consumed news via news feeds of social networking sites. Participants who stated that they would not vote reported the lowest number of different news sources consumed. These findings reveal first insights into predisposing factors for the susceptibility to be caught in "filter bubbles" and/or "echo chamber" online and how this might be associated with voting preferences.
+C1 [Sindermann, Cornelia; Montag, Christian] Ulm Univ, Inst Psychol & Educ, Mol Psychol, D-89081 Ulm, Germany.
+   [Elhai, Jon D.] Univ Toledo, Dept Psychol, Dept Psychiat, Toledo, OH 43606 USA.
+   [Moshagen, Morten] Ulm Univ, Inst Psychol & Educ, Res Methods, D-89081 Ulm, Germany.
+C3 Ulm University; University System of Ohio; University of Toledo; Ulm
+   University
+RP Sindermann, C; Montag, C (corresponding author), Ulm Univ, Inst Psychol & Educ, Mol Psychol, D-89081 Ulm, Germany.
+EM cornelia.sindermann@uni-ulm.de; christian.montag@uni-ulm.de
+RI Elhai, Jon/U-1901-2017; Sindermann, Cornelia/AAF-6359-2019; Montag,
+   Christian/H-6536-2019
+OI Sindermann, Cornelia/0000-0003-1064-8866; Montag,
+   Christian/0000-0001-8112-0837; Elhai, Jon/0000-0001-5205-9010
+FU German Research Foundation, DFG [MO2363/3-2]
+FX This work was supported by a Heisenberg grant by the German Research
+   Foundation under grant number DFG, MO2363/3-2.
+CR Adorno T. W., 1950, AUTHORITARIAN PERSON
+   Aichholzer J, 2016, PERS INDIV DIFFER, V96, P185, DOI 10.1016/j.paid.2016.02.072
+   Altemeyer B., 1996, The authoritarian specter
+   [Anonymous], 7 ETH SOCIOLOGY ZURI
+   [Anonymous], INFOGRAFIK GRUNE HIS
+   [Anonymous], 2018, R LANG ENV STAT COMP
+   [Anonymous], 2017, Reuters Institute Digital News Report 2017
+   [Anonymous], WAR HAB SIE SEPT 200
+   [Anonymous], 2015, Zusammenstellung sozialwissenschaftlicher Items und Skalen (ZIS)
+   [Anonymous], 2013, P 22 INT C WORLD WID, DOI 10.1145/2488388.2488435
+   Bakshy E, 2015, SCIENCE, V348, P1130, DOI 10.1126/science.aaa1160
+   Barberá P, 2015, PSYCHOL SCI, V26, P1531, DOI 10.1177/0956797615594620
+   Beam MA, 2014, COMMUN RES, V41, P1019, DOI 10.1177/0093650213497979
+   Bechmann A, 2018, DIGIT JOURNAL, V6, P990, DOI 10.1080/21670811.2018.1510741
+   Benesch C, 2012, J MEDIA ECON, V25, P147, DOI 10.1080/08997764.2012.700976
+   Borgesius FJZ, 2016, INTERNET POLICY REV, V5, DOI 10.14763/2016.1.401
+   Bozdag E, 2016, ETHICS INF TECHNOL, V17, P249, DOI 10.1007/s10676-015-9380-y
+   Brailovskaia J, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0166999
+   Chyi HI, 2013, DIGIT JOURNAL, V1, P194, DOI 10.1080/21670811.2012.753299
+   Crawford JT, 2016, J PERS SOC PSYCHOL, V111, pE31, DOI 10.1037/pspp0000070
+   Crawford JT, 2014, POLIT PSYCHOL, V35, P557, DOI 10.1111/pops.12066
+   Crawford JT, 2013, J APPL SOC PSYCHOL, V43, P163, DOI 10.1111/j.1559-1816.2012.00990.x
+   DIGMAN JM, 1990, ANNU REV PSYCHOL, V41, P417, DOI 10.1146/annurev.ps.41.020190.002221
+   Dubois E, 2018, INFORM COMMUN SOC, V21, P729, DOI 10.1080/1369118X.2018.1428656
+   Duckitt J, 2010, POLIT PSYCHOL, V31, P685, DOI 10.1111/j.1467-9221.2010.00781.x
+   Elhai JD, 2008, PSYCHIAT RES, V160, P129, DOI 10.1016/j.psychres.2007.07.003
+   Epstein R, 2015, P NATL ACAD SCI USA, V112, pE4512, DOI 10.1073/pnas.1419828112
+   Eskisu M, 2017, COMPUT HUM BEHAV, V69, P294, DOI 10.1016/j.chb.2016.12.036
+   Flaxman S, 2016, PUBLIC OPIN QUART, V80, P298, DOI 10.1093/poq/nfw006
+   Fox J., 2019, R COMPANION APPL REG
+   Garrett RK, 2009, J COMPUT-MEDIAT COMM, V14, P265, DOI 10.1111/j.1083-6101.2009.01440.x
+   Gerber AS, 2011, AM POLIT RES, V39, P32, DOI 10.1177/1532673X10381466
+   Harcup T, 2017, JOURNALISM STUD, V18, P1470, DOI 10.1080/1461670X.2016.1150193
+   Iyengar S, 2009, J COMMUN, V59, P19, DOI 10.1111/j.1460-2466.2008.01402.x
+   Jamieson K.H., 2008, ECHO CHAMBER RUSH LI
+   Jost J.T., 2009, DU BOIS REV, V6, P103, DOI [DOI 10.1017/S1742058X09090109, 10.1017/S1742058x09090109]
+   Jost JT, 2003, PSYCHOL BULL, V129, P339, DOI 10.1037/0033-2909.129.3.339
+   Kemmelmeier M, 2004, J SOC PSYCHOL, V144, P218, DOI 10.3200/SOCP.144.2.218-221
+   Lavine H, 2005, POLIT PSYCHOL, V26, P219, DOI 10.1111/j.1467-9221.2005.00416.x
+   Lazer DMJ, 2018, SCIENCE, V359, P1094, DOI 10.1126/science.aao2998
+   Long J., 1997, SCOTT REGRESSION MOD, DOI DOI 10.1037/0893-164X.21.4.525
+   Markowetz A, 2014, MED HYPOTHESES, V82, P405, DOI 10.1016/j.mehy.2013.11.030
+   Miles J., 2001, APPL REGRESSION CORR
+   Montag C, 2019, PERS INDIV DIFFER, V147, P128, DOI 10.1016/j.paid.2019.03.045
+   Montag C, 2016, COMPUT MATH METHOD M, V2016, DOI 10.1155/2016/2983685
+   Montag Christian, 2015, BMC Res Notes, V8, P331, DOI 10.1186/s13104-015-1280-z
+   Nikolov D, 2015, PEERJ COMPUT SCI, DOI 10.7717/peerj-cs.38
+   Pariser E., 2011, FILTER BUBBLE WHAT I
+   Peterson E., 2018, ECHO CHAMBERS PARTIS
+   Rammstedt B, 2017, DIAGNOSTICA, V63, P70, DOI 10.1026/0012-1924/a000161
+   Revelle William, 2024, CRAN
+   Rodriguez G., 2013, MODELS COUNT DATA OV
+   Rowatt WC, 2009, PSYCHOL RELIG SPIRIT, V1, P14, DOI 10.1037/a0014989
+   Ryan T, 2011, COMPUT HUM BEHAV, V27, P1658, DOI 10.1016/j.chb.2011.02.004
+   Smith AG, 2002, POLIT PSYCHOL, V23, P355, DOI 10.1111/0162-895X.00285
+   Stroud NJ, 2010, J COMMUN, V60, P556, DOI 10.1111/j.1460-2466.2010.01497.x
+   Sunstein CR, 2004, COMMUN ACM, V47, P57, DOI 10.1145/1035134.1035166
+   Sunstein CR, 2002, J POLIT PHILOS, V10, P175, DOI 10.1111/1467-9760.00148
+   Thurman N, 2012, JOURNALISM STUD, V13, P775, DOI 10.1080/1461670X.2012.664341
+   Van Hiel A, 2004, PERS SOC PSYCHOL B, V30, P824, DOI 10.1177/0146167204264333
+   Venables WN, 2002, MODERN APPL STAT S, DOI [DOI 10.1007/978-0-387-21706-2, 10.1007/978-0-387-21706-2]
+   Wickham H, 2007, J STAT SOFTW, V21, P1
+   Wonneberger A, 2012, J BROADCAST ELECTRON, V56, P55, DOI 10.1080/08838151.2011.648684
+   Zeileis A, 2008, J STAT SOFTW, V27, P1, DOI 10.18637/jss.v027.i08
+NR 64
+TC 42
+Z9 45
+U1 10
+U2 93
+PU CELL PRESS
+PI CAMBRIDGE
+PA 50 HAMPSHIRE ST, FLOOR 5, CAMBRIDGE, MA 02139 USA
+EI 2405-8440
+J9 HELIYON
+JI Heliyon
+PD JAN
+PY 2020
+VL 6
+IS 1
+AR e03214
+DI 10.1016/j.heliyon.2020.e03214
+PG 10
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA KH1BC
+UT WOS:000510380200174
+PM 32051860
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Saqr, M
+   Nouri, J
+   Vartiainen, H
+   Tedre, M
+AF Saqr, Mohammed
+   Nouri, Jalal
+   Vartiainen, Henriikka
+   Tedre, Matti
+TI Robustness and rich clubs in collaborative learning groups: a learning
+   analytics study using network science
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID COMPLEX NETWORKS; ENVIRONMENTS; PATTERNS; METAANALYSIS; CENTRALITY;
+   KNOWLEDGE; EDUCATION; CONFLICT; STUDENTS; NODES
+AB Productive and effective collaborative learning is rarely a spontaneous phenomenon but rather the result of meeting a set of conditions, orchestrating and scaffolding productive interactions. Several studies have demonstrated that conflicts can have detrimental effects on student collaboration. Through the application of network science, and social network analysis in particular, this learning analytics study investigates the concept of group robustness; that is, the capacity of collaborative groups to remain functional despite the withdrawal or absence of group members, and its relation to group performance in the frame of collaborative learning. Data on all student and teacher interactions were collected from two phases of a course in medical education that employed an online learning environment. Visual and mathematical analysis were conducted, simulating the removal of actors and its effect on the group's robustness and network structure. In addition, the extracted network parameters were used as features in machine learning algorithms to predict student performance. The study contributes findings that demonstrate the use of network science to shed light on essential elements of collaborative learning and demonstrates how the concept and measures of group robustness can increase understanding of the conditions of productive collaborative learning. It also contributes to understanding how certain interaction patterns can help to promote the sustainability or robustness of groups, while other interaction patterns can make the group more vulnerable to withdrawal and dysfunction. The finding also indicate that teachers can be a driving factor behind the formation of rich clubs of well-connected few and less connected many in some cases and can contribute to a more collaborative and sustainable process where every student is included.Y
+C1 [Saqr, Mohammed; Tedre, Matti] Univ Eastern Finland, Sch Comp, Yliopistokatu 2, Joensuu 80100, Finland.
+   [Saqr, Mohammed; Nouri, Jalal] Stockholm Univ, Dept Comp & Syst Sci DSV, Borgarfjordsgatan 12,POB 7003, S-16407 Stockholm, Sweden.
+   [Vartiainen, Henriikka] Univ Eastern Finland, Sch Appl Educ Sci & Teacher Educ, Yliopistokatu 2, Joensuu 80100, Finland.
+C3 University of Eastern Finland; Stockholm University; University of
+   Eastern Finland
+RP Saqr, M (corresponding author), Univ Eastern Finland, Sch Comp, Yliopistokatu 2, Joensuu 80100, Finland.; Saqr, M (corresponding author), Stockholm Univ, Dept Comp & Syst Sci DSV, Borgarfjordsgatan 12,POB 7003, S-16407 Stockholm, Sweden.
+EM mohammed.saqr@uef.fi
+RI Saqr, Mohammed/AAH-2520-2020
+OI Saqr, Mohammed/0000-0001-5881-3109
+CR Albert R, 2007, PHYS REV E, V76, P378
+   [Anonymous], 2001, Social capital: theory and research
+   [Anonymous], 2006, SOC NETWORKS, DOI DOI 10.1016/j.socnet.2005.11.005
+   Barab#225;si A., 2013, Network Science, V371, P20120375, DOI DOI 10.1098/RSTA.2012.0375
+   Bastian M, 2009, GEPHI OPEN SOURCE SO, DOI [DOI 10.1609/ICWSM.V3I1.13937, 10.13140/2.1.1341.1520]
+   Bernard RM, 2009, REV EDUC RES, V79, P1243, DOI 10.3102/0034654309333844
+   Bian T, 2017, PHYSICA A, V479, P422, DOI 10.1016/j.physa.2017.02.085
+   Block P, 2015, SOC NETWORKS, V40, P163, DOI 10.1016/j.socnet.2014.10.005
+   Boldi P, 2011, LECT NOTES COMPUT SC, V6984, P8, DOI 10.1007/978-3-642-24704-0_7
+   Borgatti SP, 2005, SOC NETWORKS, V27, P55, DOI 10.1016/j.socnet.2004.11.008
+   Borgatti SP, 1999, SOC NETWORKS, V21, P375
+   Borgatti SP, 2011, ORGAN SCI, V22, P1168, DOI 10.1287/orsc.1100.0641
+   Borgatti SP, 2009, SCIENCE, V323, P892, DOI 10.1126/science.1165821
+   Borokhovski E, 2016, COMPUT EDUC, V96, P15, DOI 10.1016/j.compedu.2015.11.004
+   Bruun J, 2013, PHYS REV SPEC TOP-PH, V9, DOI 10.1103/PhysRevSTPER.9.020109
+   Burt RS, 2013, ANNU REV PSYCHOL, V64, P527, DOI 10.1146/annurev-psych-113011-143828
+   Callaway DS, 2000, PHYS REV LETT, V85, P5468, DOI 10.1103/PhysRevLett.85.5468
+   Cela KL, 2015, EDUC PSYCHOL REV, V27, P219, DOI 10.1007/s10648-014-9276-0
+   Chen JJ, 2018, REV EDUC RES, V88, P799, DOI 10.3102/0034654318791584
+   Colizza V, 2006, NAT PHYS, V2, P110, DOI 10.1038/nphys209
+   Csardi Gabor NT., 2005, INT J COMPLEX SYST, V2006, P1695, DOI DOI 10.3724/SP.J.1087.2009.02191
+   Curseu PL, 2012, HIGH EDUC, V63, P621, DOI 10.1007/s10734-011-9462-7
+   Dado M, 2017, EDUC RES REV-NETH, V22, P159, DOI 10.1016/j.edurev.2017.08.005
+   Damsa CI, 2014, INT J COMP-SUPP COLL, V9, P247, DOI 10.1007/s11412-014-9193-8
+   Demsar J, 2013, J MACH LEARN RES, V14, P2349
+   Dillenbourg P., 1999, COLLABORATIVE LEARNI, P1, DOI DOI 10.1016/S0360-1315(00)00011-7
+   Ellens W., 2013, Graph measures and network robustness
+   Ergün E, 2016, EDUC TECHNOL SOC, V19, P34
+   Estrada E, 2010, NETWORK SCIENCE: COMPLEXITY IN NATURE AND TECHNOLOGY, P1, DOI 10.1007/978-1-84996-396-1
+   Everett, 1998, CONNECTIONS, V21, P27, DOI DOI 10.1111/J.1467-9663.2010.00632.X
+   FRUCHTERMAN TMJ, 1991, SOFTWARE PRACT EXPER, V21, P1129, DOI 10.1002/spe.4380211102
+   Garrison D.R., 2007, Journal of Asynchronous Learning Networks, V11, P61, DOI 10.24059/olj.v11i1.1737
+   Gunasekara R. C, 2012, ROBUSTNESS MEASURES, P3
+   Haya PA, 2015, BRIT J EDUC TECHNOL, V46, P300, DOI 10.1111/bjet.12264
+   Hernández-García A, 2015, COMPUT HUM BEHAV, V47, P68, DOI 10.1016/j.chb.2014.10.038
+   Hong H., 2010, Canadian Journal of Learning and Technology, V36, P1, DOI DOI 10.21432/T2MG6P
+   Hung W., 2008, HDB RES ED COMMUNICA, V3rd, P485
+   Jalili M, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0143111
+   Järvelä S, 2015, ETR&D-EDUC TECH RES, V63, P125, DOI 10.1007/s11423-014-9358-1
+   Jeong H, 2016, EDUC PSYCHOL-US, V51, P247, DOI 10.1080/00461520.2016.1158654
+   JohnSteiner V, 1996, EDUC PSYCHOL, V31, P191, DOI 10.1207/s15326985ep3103&4_4
+   Kovanovic V, 2014, P WORKSH GRAPH BAS E, V1183, P1
+   Kreijns K, 2003, COMPUT HUM BEHAV, V19, P335, DOI 10.1016/S0747-5632(02)00057-2
+   Kreijns K, 2013, EDUC PSYCHOL-US, V48, P229, DOI 10.1080/00461520.2012.750225
+   Latora V, 2007, NEW J PHYS, V9, DOI 10.1088/1367-2630/9/6/188
+   Latora V, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.198701
+   Li C, 2018, APPL PHYS LETT, V113, DOI 10.1063/1.5063481
+   Liao H, 2017, PHYS REP, V689, P1, DOI 10.1016/j.physrep.2017.05.001
+   Lü LY, 2016, PHYS REP, V650, P1, DOI 10.1016/j.physrep.2016.06.007
+   Ma A, 2015, P NATL ACAD SCI USA, V112, P14760, DOI 10.1073/pnas.1513651112
+   Ma A, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0119678
+   Malmberg J, 2015, COMPUT HUM BEHAV, V52, P562, DOI 10.1016/j.chb.2015.03.082
+   Maslov S, 2004, PHYSICA A, V333, P529, DOI 10.1016/j.physa.2003.06.002
+   Mennin S, 2007, TEACH TEACH EDUC, V23, P303, DOI 10.1016/j.tate.2006.12.016
+   Mertens F, 2008, HEALTH EDUC BEHAV, V35, P509, DOI 10.1177/1090198108320357
+   Moore C, 2016, J APPL ECOL, V53, P636, DOI 10.1111/1365-2664.12486
+   Musiat K., 2009, Proc., P1
+   Näykki P, 2014, INT J EDUC RES, V68, P1, DOI 10.1016/j.ijer.2014.07.001
+   Otte E, 2002, J INF SCI, V28, P441, DOI 10.1177/016555150202800601
+   Prichard JS, 2006, BRIT J EDUC PSYCHOL, V76, P119, DOI 10.1348/000709904X24564
+   Qi XQ, 2012, INFORM SCIENCES, V194, P240, DOI 10.1016/j.ins.2011.12.027
+   Raats M. M., 1991, Food Quality and Preference, V3, P89, DOI 10.1016/0950-3293(91)90028-D
+   Rogers E.M., 2005, INNOVATION J, V10
+   Salter-Townshend M., 2012, Statistical Analysis and Data Mining, V5, P243, DOI 10.1002/sam.11146
+   Saqr M, 2019, INT J TECHNOL ENHANC, V11, P398
+   Saqr M, 2019, LECT NOTES COMPUT SC, V11722, P466, DOI 10.1007/978-3-030-29736-7_35
+   Saqr M, 2019, BMC MED EDUC, V19, DOI 10.1186/s12909-019-1599-6
+   Saqr M, 2018, PLOS ONE, V13, DOI 10.1371/journal.pone.0203590
+   Saqr Mohammed, 2018, Int J Health Sci (Qassim), V12, P80
+   Saqr M, 2018, PLOS ONE, V13, DOI 10.1371/journal.pone.0194777
+   Seitamaa-Hakkarainen P, 2010, INT J TECHNOL DES ED, V20, P109, DOI 10.1007/s10798-008-9066-4
+   Siemens G., 2014, International Journal of Instructional Technology and Distance Learning, V2, P1
+   Sneppen K, 2005, EUROPHYS LETT, V69, P853, DOI 10.1209/epl/i2004-10422-0
+   Stahl G, 2014, CAMB HDB LEARN SCI, DOI 10.1145/1124772.1124855
+   Strogatz SH, 2001, NATURE, V410, P268, DOI 10.1038/35065725
+   Tanizawa T, 2005, PHYS REV E, V71, DOI 10.1103/PhysRevE.71.047101
+   Vaquero LM, 2013, SCI REP-UK, V3, DOI 10.1038/srep01174
+   Wang Z., 2013, PLOS ONE
+   Watson C.G., 2018, brainGraph: Graph Theory Analysis of Brain MRI Data
+   Wecker C, 2014, COMPUT EDUC, V75, P218, DOI 10.1016/j.compedu.2014.02.016
+   Weinberger A, 2006, COMPUT EDUC, V46, P71, DOI 10.1016/j.compedu.2005.04.003
+   Zhou S, 2004, IEEE COMMUN LETT, V8, P180, DOI 10.1109/LCOMM.2004.823426
+   Zimmerman BJ, 2015, INT ADV SELF RES, P83
+NR 83
+TC 7
+Z9 8
+U1 0
+U2 18
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD SEP 2
+PY 2020
+VL 10
+IS 1
+AR 14445
+DI 10.1038/s41598-020-71483-z
+PG 16
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA PT4JM
+UT WOS:000608581400001
+PM 32879398
+OA gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Shahal, S
+   Wurzberg, A
+   Sibony, I
+   Duadi, H
+   Shniderman, E
+   Weymouth, D
+   Davidson, N
+   Fridman, M
+AF Shahal, Shir
+   Wurzberg, Ateret
+   Sibony, Inbar
+   Duadi, Hamootal
+   Shniderman, Elad
+   Weymouth, Daniel
+   Davidson, Nir
+   Fridman, Moti
+TI Synchronization of complex human networks
+SO NATURE COMMUNICATIONS
+LA English
+DT Article
+ID DECISION-MAKING; PHASE-LOCKING; ATTENTION; DYNAMICS; KURAMOTO; LASERS;
+   ORDER
+AB The synchronization of human networks is essential for our civilization and understanding its dynamics is important to many aspects of our lives. Human ensembles were investigated, but in noisy environments and with limited control over the network parameters which govern the network dynamics. Specifically, research has focused predominantly on all-to-all coupling, whereas current social networks and human interactions are often based on complex coupling configurations. Here, we study the synchronization between violin players in complex networks with full and accurate control over the network connectivity, coupling strength, and delay. We show that the players can tune their playing period and delete connections by ignoring frustrating signals, to find a stable solution. These additional degrees of freedom enable new strategies and yield better solutions than are possible within current models such as the Kuramoto model. Our results may influence numerous fields, including traffic management, epidemic control, and stock market dynamics. Understanding the synchronization of human networks is important in many aspects, but current research is suffering from limited control and noisy environments. Shahal et al. show a quantitative study with full control over the network connectivity, coupling strength and delay among interacting violin players.
+C1 [Shahal, Shir; Wurzberg, Ateret; Sibony, Inbar; Duadi, Hamootal; Fridman, Moti] Bar Ilan Univ, Fac Engn, IL-5290002 Ramat Gan, Israel.
+   [Shahal, Shir; Wurzberg, Ateret; Sibony, Inbar; Duadi, Hamootal; Fridman, Moti] Bar Ilan Univ, Inst Nanotechnol & Adv Mat, IL-5290002 Ramat Gan, Israel.
+   [Shniderman, Elad; Weymouth, Daniel] SUNY Stony Brook, Dept Mus, Stony Brook, NY 11794 USA.
+   [Davidson, Nir] Weizmann Inst Sci, Dept Phys Complex Syst, Rehovot, Israel.
+C3 Bar Ilan University; Bar Ilan University; State University of New York
+   (SUNY) System; Stony Brook University; Weizmann Institute of Science
+RP Fridman, M (corresponding author), Bar Ilan Univ, Fac Engn, IL-5290002 Ramat Gan, Israel.; Fridman, M (corresponding author), Bar Ilan Univ, Inst Nanotechnol & Adv Mat, IL-5290002 Ramat Gan, Israel.
+EM mordechai.fridman@biu.ac.il
+RI Fridman, Moti/AAK-5384-2020
+OI Davidson, Nir/0000-0001-7526-851X
+CR Acebrón JA, 2005, REV MOD PHYS, V77, P137, DOI 10.1103/RevModPhys.77.137
+   Alderisio F, 2017, SCI REP-UK, V7, DOI 10.1038/s41598-017-06559-4
+   [Anonymous], 2012, CHEM OSCILLATIONS WA
+   Arane T, 2009, AM J PHYS, V77, P1066, DOI 10.1119/1.3119175
+   Becker J, 2017, P NATL ACAD SCI USA, V114, pE5070, DOI 10.1073/pnas.1615978114
+   Boker S. M., 2005, P N AM ASS COMP SOC
+   Botvinick MM, 2004, TRENDS COGN SCI, V8, P539, DOI 10.1016/j.tics.2004.10.003
+   Buhl J, 2006, SCIENCE, V312, P1402, DOI 10.1126/science.1125142
+   Chafe C, 2010, PERCEPTION, V39, P982, DOI 10.1068/p6465
+   Cohen AB, 2010, CHAOS, V20, DOI 10.1063/1.3530425
+   Conradt L, 2005, TRENDS ECOL EVOL, V20, P449, DOI 10.1016/j.tree.2005.05.008
+   Conradt L, 2009, PHILOS T R SOC B, V364, P719, DOI 10.1098/rstb.2008.0276
+   Council N. R., 2004, HEARING LOSS DETERMI
+   D'Huys O, 2008, CHAOS, V18, DOI 10.1063/1.2953582
+   Davis PK, 2001, BIOTECHNIQUES, V30, P1322, DOI 10.2144/01306rv01
+   DeShazer DJ, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.044101
+   Fridman M, 2012, PHYS REV E, V85, DOI 10.1103/PhysRevE.85.020101
+   Fridman M, 2010, OPT LETT, V35, P1434, DOI 10.1364/OL.35.001434
+   Gallup AC, 2012, P NATL ACAD SCI USA, V109, P7245, DOI 10.1073/pnas.1116141109
+   Goebl W, 2009, MUSIC PERCEPT, V26, P427, DOI 10.1525/MP.2009.26.5.427
+   Javarone MA, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0187960
+   Judd S, 2010, P NATL ACAD SCI USA, V107, P14978, DOI 10.1073/pnas.1001280107
+   Kearns M, 2006, SCIENCE, V313, P824, DOI 10.1126/science.1127207
+   Krause J, 2010, TRENDS ECOL EVOL, V25, P28, DOI 10.1016/j.tree.2009.06.016
+   Krogh A., 1995, Advances in Neural Information Processing Systems 7, P231
+   KURAMOTO Y, 1987, J STAT PHYS, V49, P569, DOI 10.1007/BF01009349
+   Li XG, 2007, PHYS REV E, V76, DOI 10.1103/PhysRevE.76.016110
+   Méndez-Valderrama JF, 2018, NAT COMMUN, V9, DOI 10.1038/s41467-018-05750-z
+   Miura A, 2011, HUM MOVEMENT SCI, V30, P1260, DOI 10.1016/j.humov.2010.08.006
+   Morris ME, 2005, IEEE INTERNET COMPUT, V9, P29, DOI 10.1109/MIC.2005.109
+   Néda Z, 2000, NATURE, V403, P849, DOI 10.1038/35002660
+   Néda Z, 2000, PHYS REV E, V61, P6987, DOI 10.1103/PhysRevE.61.6987
+   Nixon M, 2013, PHYS REV LETT, V110, DOI 10.1103/PhysRevLett.110.184102
+   Nixon M, 2011, PHYS REV LETT, V106, DOI 10.1103/PhysRevLett.106.223901
+   Norvig, 2010, ARTIF INTELL
+   Oleskin A, 2014, BIOL B REV, V4, P47
+   Ott E, 2017, CHAOS, V27, DOI 10.1063/1.4983470
+   Pal V, 2015, OPT EXPRESS, V23, P13041, DOI 10.1364/OE.23.013041
+   Petkoski S, 2018, PLOS COMPUT BIOL, V14, DOI 10.1371/journal.pcbi.1006160
+   Porfiri M, 2008, IEEE T CIRCUITS-I, V55, P3170, DOI 10.1109/TCSI.2008.925357
+   ROY R, 1992, PHYS REV LETT, V68, P1259, DOI 10.1103/PhysRevLett.68.1259
+   Saavedra S, 2011, P NATL ACAD SCI USA, V108, P5296, DOI 10.1073/pnas.1018462108
+   Schibli TR, 2003, OPT LETT, V28, P947, DOI 10.1364/OL.28.000947
+   Silverberg JL, 2013, PHYS REV LETT, V110, DOI 10.1103/PhysRevLett.110.228701
+   Smaldino PE, 2012, FRONT NEUROSCI-SWITZ, V6, DOI 10.3389/fnins.2012.00050
+   Sorrentino F, 2016, SCI ADV, V2, DOI 10.1126/sciadv.1501737
+   Sorrentino F, 2010, CHAOS, V20, DOI 10.1063/1.3279646
+   Sorrentino F, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.016201
+   Strogatz S., 2003, SYNC EMERGING SCI SP
+   Strogatz S. H, 2018, NONLINEAR DYNAMICS C, DOI DOI 10.1201/9780429399640
+   Strogatz SH, 2001, NATURE, V410, P268, DOI 10.1038/35065725
+   Strogatz SH, 2000, PHYSICA D, V143, P1, DOI 10.1016/S0167-2789(00)00094-4
+   Strogatz SH, 2005, NATURE, V438, P43, DOI [10.1038/43843a, 10.1038/438043a]
+   Strogatz SH., 2012, Sync: How order emerges from chaos in the universe, nature, and daily life
+   Sueur C, 2016, PRIMATES, V57, P327, DOI 10.1007/s10329-015-0505-z
+   Sumpter DJT, 2012, MANAG DECIS ECON, V33, P295, DOI 10.1002/mde.2553
+   Sumpter DJT, 2006, PHILOS T R SOC B, V361, P5, DOI 10.1098/rstb.2005.1733
+   Sun ZQ, 2017, ATTEN PERCEPT PSYCHO, V79, P1039, DOI 10.3758/s13414-017-1303-z
+   Takamatsu A, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.078102
+   Taylor D, 2010, PHYS REV E, V81, DOI 10.1103/PhysRevE.81.046214
+   Timmers R, 2014, FRONT PSYCHOL, V5, DOI 10.3389/fpsyg.2014.00645
+   Tradonsky C, 2015, PHOTONICS RES, V3, P77, DOI 10.1364/PRJ.3.000077
+   Wang W, 2008, IFAC P, V41, P514
+   Werner BT, 2007, GEOMORPHOLOGY, V91, P393, DOI 10.1016/j.geomorph.2007.04.020
+   Wing AM, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2013.1125
+   Wolfe AW, 1997, AM ETHNOL, V24, P219, DOI 10.1525/ae.1997.24.1.219
+NR 66
+TC 57
+Z9 59
+U1 4
+U2 34
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+EI 2041-1723
+J9 NAT COMMUN
+JI Nat. Commun.
+PD AUG 11
+PY 2020
+VL 11
+IS 1
+AR 3854
+DI 10.1038/s41467-020-17540-7
+PG 10
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA NE7FM
+UT WOS:000562766900001
+PM 32782263
+OA gold, Green Published
+DA 2024-11-22
+ER

@@ -1,0 +1,600 @@
+
+PT J
+AU Roth, C
+   Cointet, JP
+AF Roth, Camille
+   Cointet, Jean-Philippe
+TI Social and semantic coevolution in knowledge networks
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Knowledge networks; Socio-semantic networks; Hierarchies; Dynamics;
+   Cohesiveness; Epistemic communities; Bicliques; Galois lattices; Blogs;
+   Scientific networks
+ID STATISTICAL EVALUATION; GALOIS LATTICES; COLLABORATION; MODELS;
+   EVOLUTION; DYNAMICS
+AB Socio-semantic networks involve agents creating and processing information: communities of scientists, software developers, wild Contributors and webloggers are, among others, examples Of Such knowledge networks. We aim at demonstrating that the dynamics of these communi ties can be adequately described as the coevolution of a social and a socio-semantic network. More precisely, we will first introduce a theoretical framework based on a social network and a socio-semantic network, i.e. an epistemic network featuring agents. concepts and links between agents and between agents and concepts. Adopting a relevant empirical protocol. we will then describe the joint dynamics of social and socio-semantic structures, at both macroscopic and microscopic scales, emphasizing the remarkable stability of these macroscopic properties in spite of a vivid local, agent-based network dynamics. (C) 2009 Elsevier B.V. All rights reserved.
+C1 [Roth, Camille] EHESS, CNRS, CAMS, F-75006 Paris, France.
+   [Roth, Camille] U Surrey, CRESS, Guildford GU2 7XH, Surrey, England.
+   [Roth, Camille; Cointet, Jean-Philippe] ISC PIF, F-75005 Paris, France.
+   [Cointet, Jean-Philippe] Ecole Polytech, CNRS, CREA, F-75005 Paris, France.
+   [Cointet, Jean-Philippe] INRA, TSV, Paris, France.
+C3 Centre National de la Recherche Scientifique (CNRS); University of
+   Surrey; Universite Paris Cite; Centre National de la Recherche
+   Scientifique (CNRS); Institut Polytechnique de Paris; Ecole
+   Polytechnique; INRAE
+RP Roth, C (corresponding author), EHESS, CNRS, CAMS, 54 Bd Raspail, F-75006 Paris, France.
+EM roth@ehess.fr; jean-philippe.cointet@polytechnique.edu
+RI cointet, jean-philippe/AAX-3720-2021; Roth, Camille/AFB-9056-2022
+OI cointet, jean-philippe/0000-0002-3172-3960
+CR Adamic L.A., 2005, P 3 INT WORKSH LINK, P36, DOI DOI 10.1145/1134271.1134277
+   ALIHASAN N, 2007, INT C WEBL SOC MED
+   ANDERSON CJ, 1992, SOC NETWORKS, V14, P137, DOI 10.1016/0378-8733(92)90017-2
+   [Anonymous], 2003, ANN M MIDW POL SCI A
+   [Anonymous], 1997, Evolution of social networks
+   [Anonymous], 2001, SOCIOLOGIES TRAVAIL
+   [Anonymous], 1976, Sociological Methodology
+   [Anonymous], 1993, Algebraic Models for Social Network
+   [Anonymous], 1973, LINGUISTICS INFORM S
+   Barabási AL, 2002, PHYSICA A, V311, P590, DOI 10.1016/S0378-4371(02)00736-7
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   BATAGELJ V, 1995, J CLASSIF, V12, P73, DOI 10.1007/BF01202268
+   BOURDIEU P, 1991, SOCIOL FORUM, V6, P3, DOI 10.1007/BF01112725
+   Bradbury J, 2004, PLOS BIOL, V2, P568, DOI 10.1371/journal.pbio.0020148
+   BREIGER RL, 1974, SOC FORCES, V53, P181, DOI 10.2307/2576011
+   Callon M., 1986, MAPPING DYNAMICS SCI
+   CARDON D, 2006, PRODUCTION SOI COMME
+   Cohendet P., 2003, Revue d'economie industrielle, V103, P15
+   Cole J., 1973, STRATIFICATION SCI
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   CRANDALL D, 2008, KDD 08
+   DEGENNE A, 2004, MATH SCI HUMAINES, V168, P5
+   DOREIAN P, 1994, SOC NETWORKS, V16, P267, DOI 10.1016/0378-8733(94)90013-2
+   Dorogovtsev SN, 2002, ADV PHYS, V51, P1079, DOI 10.1080/00018730110112519
+   EMIRBAYER M, 1994, AM J SOCIOL, V99, P1411, DOI 10.1086/230450
+   Erdos P., 1959, PUBL MATH-DEBRECEN, V6, P290
+   Falzon L, 2000, SOC NETWORKS, V22, P159, DOI 10.1016/S0378-8733(00)00021-6
+   FAUST K, 1992, SOC NETWORKS, V14, P5, DOI 10.1016/0378-8733(92)90013-W
+   Fienberg Stephen E., 1981, Sociological Methodology, V12, P156, DOI [10.2307/27074118.Girvan, DOI 10.2307/27074118.GIRVAN]
+   Freeman LC, 1996, SOC NETWORKS, V18, P173, DOI 10.1016/0378-8733(95)00271-5
+   FREEMAN LC, 1993, SOCIOL METHODOL, V23, P127, DOI 10.2307/271008
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   Freeman LintonC., 1989, Research methods in social network analysis, P11
+   GORDON MD, 1980, SCIENTOMETRICS, V2, P193, DOI 10.1007/BF02016697
+   HAAS PM, 1992, INT ORGAN, V46, P1, DOI 10.1017/S0020818300001442
+   HOLLAND PW, 1981, J AM STAT ASSOC, V76, P33, DOI 10.2307/2287037
+   Jeong H, 2003, EUROPHYS LETT, V61, P567, DOI 10.1209/epl/i2003-00166-9
+   Jin EM, 2001, PHYS REV E, V64, DOI 10.1103/PhysRevE.64.046132
+   Katz JS, 1997, RES POLICY, V26, P1, DOI 10.1016/S0048-7333(96)00917-1
+   KITCHER R, 1995, SOCIALIZING EPISTEMO, P111
+   Latour B., 1988, VIE LAB PRODUCTION F
+   Laumann E., 1983, Applied Network Analysis, P18
+   Lazega E, 1997, SOC NETWORKS, V19, P375, DOI 10.1016/S0378-8733(97)00006-3
+   Lazega E., 1992, The micropolitics of knowledge
+   Lazega E, 2006, EUR MANAG REV, V3, P113, DOI 10.1057/palgrave.emr.1500058
+   Lehmann S, 2008, PHYS REV E, V78, DOI 10.1103/PhysRevE.78.016108
+   Liben-Nowell D, 2007, J AM SOC INF SCI TEC, V58, P1019, DOI 10.1002/asi.20591
+   Lind PG, 2005, PHYS REV E, V72, DOI 10.1103/PhysRevE.72.056127
+   Lorrain F., 1971, J MATH SOCIOL, V1, P49, DOI [10.1080/0022250X.1971.9989788, DOI 10.1080/0022250X.1971.9989788]
+   Lotka A.J., 1926, J. Wash. Acad. Sci., V16, P317
+   McGlohon M., 2007, P INT C WEBL SOC MED
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Milo R, 2004, SCIENCE, V303, P1538, DOI 10.1126/science.1089167
+   Newman MEJ, 2004, P NATL ACAD SCI USA, V101, P5200, DOI 10.1073/pnas.0307545100
+   Newman MEJ, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.208701
+   PATTISON P, 1995, J MATH PSYCHOL, V39, P57, DOI 10.1006/jmps.1995.1005
+   Pattison P, 2000, J MATH PSYCHOL, V44, P536, DOI 10.1006/jmps.1999.1261
+   Pattison P., 1994, ADV SOCIAL NETWORK A, P79
+   Powell WW, 2005, AM J SOCIOL, V110, P1132, DOI 10.1086/421508
+   PRICE DJD, 1976, J AM SOC INFORM SCI, V27, P292, DOI 10.1002/asi.4630270505
+   PRICE DJD, 1965, SCIENCE, V149, P510
+   Redner S, 2005, PHYS TODAY, V58, P49, DOI 10.1063/1.1996475
+   Robins G., 2004, Computational & Mathematical Organization Theory, V10, P69, DOI 10.1023/B:CMOT.0000032580.12184.c0
+   Robins G, 2001, PSYCHOMETRIKA, V66, P161, DOI 10.1007/BF02294834
+   Robins G, 2001, SOC NETWORKS, V23, P1, DOI 10.1016/S0378-8733(01)00029-6
+   Roth C., 2005, Workshop on Semantic Network Analysis, International Semantic Web Conference (ISWC) 2005, November 7, 2005, P29
+   Roth C, 2006, SCIENTOMETRICS, V69, P429, DOI 10.1007/s11192-006-0161-6
+   Roth Camille., 2005, Mathematical Population Studies, V12, P107, DOI [10.1080/08898480590931404, DOI 10.1080/08898480590931404]
+   SALTON G, 1975, COMMUN ACM, V18, P613, DOI 10.1145/361219.361220
+   Snijders TAB, 2001, SOCIOL METHODOL, V31, P361, DOI 10.1111/0081-1750.00099
+   SNIJDERS TAB, 1987, SOC NETWORKS, V9, P249, DOI 10.1016/0378-8733(87)90022-0
+   SNIJDERS TAB, 1981, SOCIAL NETWORKS, V3
+   SOFFER SN, 2005, PHYS REV E, V71, P4
+   Sperber D., 1996, EXPLAINING CULTURE N
+   SUBRAMANYAM K, 1983, J INFORM SCI, V6, P33, DOI 10.1177/016555158300600105
+   Valente T.W., 1995, NETWORK MODELS DIFFU
+   WASSERMAN S, 1985, J MATH PSYCHOL, V29, P406, DOI 10.1016/0022-2496(85)90003-3
+   WASSERMAN S, 1980, J AM STAT ASSOC, V75, P280, DOI 10.2307/2287447
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   White D, 1996, SOC NETWORKS, V18, P169, DOI 10.1016/0378-8733(96)90001-5
+   WILLE R, 1992, COMPUT MATH APPL, V23, P493, DOI 10.1016/0898-1221(92)90120-7
+   ZHANG P, 2007, ARXIV07100117
+NR 82
+TC 99
+Z9 109
+U1 2
+U2 59
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JAN
+PY 2010
+VL 32
+IS 1
+SI SI
+BP 16
+EP 29
+DI 10.1016/j.socnet.2009.04.005
+PG 14
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 561BA
+UT WOS:000274948700003
+OA Green Published, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Rodan, S
+AF Rodan, Simon
+TI Structural holes and managerial performance: Identifying the underlying
+   mechanisms
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Innovativeness; Knowledge heterogeneity; Network structure
+ID SUCCESSFUL PRODUCT INNOVATION; KNOWLEDGE TRANSFER; SOCIAL NETWORKS;
+   DIVERSITY; POWER; FIRM; EXPLOITATION; ADAPTATION; COHESION; BEHAVIOR
+AB Structural holes theory suggests a variety of possible explanations for the empirically observed relationship between structural holes and individual managerial performance. However, little has been done to disentangle one mechanism from another. This paper empirically tests a mediated moderation model that distinguishes between the five different theoretical mechanisms: autonomy, competition, information brokering, opportunity recognition and innovativeness. The findings suggest that of these five theoretical causal motors, innovativeness plays a key role in linking network structure and network content to performance. (C) 2009 Elsevier B.V. All rights reserved.
+C1 San Jose State Univ, Coll Business, Dept Org & Management, San Jose, CA 95192 USA.
+C3 California State University System; San Jose State University
+RP Rodan, S (corresponding author), San Jose State Univ, Coll Business, Dept Org & Management, 1 Washington Sq, San Jose, CA 95192 USA.
+EM simon.rodan@sjsu.edu
+CR Adams J, 2007, SOC NETWORKS, V29, P44, DOI 10.1016/j.socnet.2005.11.009
+   ALDRICH HE, 1994, ACAD MANAGE REV, V19, P645, DOI 10.2307/258740
+   Amabile T., 1988, INNOVATION, P139
+   Amabile T.M., 1996, HARVARD BUSINESS SCH
+   AMABILE TA, 1990, YOU YOU SOCIAL PSYCH
+   Arieti Silvano., 1976, Creativity: The Magic Synthesis
+   Barnard C., 1938, FUNCT EXECUTIVE
+   BARON RM, 1986, J PERS SOC PSYCHOL, V51, P1173, DOI 10.1037/0022-3514.51.6.1173
+   Blau P., 1963, DYNAMICS BUREAUCRACY
+   Blau PM., 2017, EXCHANGE POWER SOC, DOI 10.4324/9780203792643
+   BOLLEN K, 1991, PSYCHOL BULL, V110, P305, DOI 10.1037/0033-2909.110.2.305
+   Bower JosephL., 1970, MANAGING RESOURCE AL
+   BRASS DJ, 1981, ADMIN SCI QUART, V26, P331, DOI 10.2307/2392511
+   Brass DJ, 1998, ACAD MANAGE REV, V23, P14, DOI 10.2307/259097
+   BRASS DJ, 1993, ACAD MANAGE J, V36, P441, DOI 10.5465/256588
+   BURGELMAN RA, 1984, SLOAN MANAGEMENT WIN, P33
+   Burgelman RA, 1991, ORGAN SCI, V2, P239, DOI 10.1287/orsc.2.3.239
+   Burt RS, 2000, RES ORGAN BEHAV, V22, P345, DOI 10.1016/S0191-3085(00)22009-1
+   BURT RS, 1992, NETWORKS AND ORGANIZATIONS : STRUCTURE, FORM, AND ACTION, P57
+   Burt RS, 2004, AM J SOCIOL, V110, P349, DOI 10.1086/421787
+   CARLEY K, 1986, J MATH SOCIOL, V12, P137, DOI 10.1080/0022250X.1986.9990010
+   Cliff A. D., 1973, SPATIAL PROCESSES MO
+   Conner KR, 1996, ORGAN SCI, V7, P477, DOI 10.1287/orsc.7.5.477
+   Crozier M., 1964, BUREAUCRAT PHENOMEN
+   Crozier Michel., 1980, Actors and Systems. The Politics of Collective Action. Translated by Arthur Goldhammer
+   Davis J. A., 1985, LOGIC CAUSAL ORDER
+   DeMaggio P., 1991, MACROMICRO LINKAGES, P76
+   Diamantopoulos A, 2001, J MARKETING RES, V38, P269, DOI 10.1509/jmkr.38.2.269.18845
+   Doreian P., 1981, Sociological Methodology, V12, P359, DOI [10.2307/270747, DOI 10.2307/270747]
+   DOUGHERTY D, 1994, ORGAN SCI, V5, P200, DOI 10.1287/orsc.5.2.200
+   DOUGHERTY D, 1992, ORGAN SCI, V3, P179, DOI 10.1287/orsc.3.2.179
+   Doz Y.L., 2001, From Global to Metanational
+   EMERSON RM, 1962, AM SOCIOL REV, V27, P31, DOI 10.2307/2089716
+   FELD SL, 1981, AM J SOCIOL, V86, P1015, DOI 10.1086/227352
+   Galunic DC, 1998, STRATEGIC MANAGE J, V19, P1193, DOI 10.1002/(SICI)1097-0266(1998120)19:12<1193::AID-SMJ5>3.0.CO;2-F
+   Gargiulo M, 2000, ORGAN SCI, V11, P183, DOI 10.1287/orsc.11.2.183.12514
+   Gould RV, 2002, AM J SOCIOL, V107, P1143, DOI 10.1086/341744
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Heckathorn DD, 1997, SOC PROBL, V44, P174, DOI 10.1525/sp.1997.44.2.03x0221m
+   Henderson R., 1990, Administrative Sciences Quarterly, P9, DOI [10.2307/2393549, DOI 10.2307/2393549]
+   Homans G.C., 1950, The Human Group
+   KAISH S, 1991, J BUS VENTURING, V6, P45, DOI 10.1016/0883-9026(91)90005-X
+   KANTER RM, 1988, RES ORGAN BEHAV, V10, P169
+   Kim WC, 1996, MANAGE SCI, V42, P499, DOI 10.1287/mnsc.42.4.499
+   KOGUT B, 1992, ORGAN SCI, V3, P383, DOI 10.1287/orsc.3.3.383
+   March JG, 1991, ORGAN SCI, V2, P71, DOI 10.1287/orsc.2.1.71
+   Mark N, 1998, SOC FORCES, V77, P453, DOI 10.2307/3005535
+   Mehra A, 1998, ACAD MANAGE J, V41, P441, DOI 10.5465/257083
+   Milliken FJ, 1996, ACAD MANAGE REV, V21, P402, DOI 10.2307/258667
+   Moran P, 1999, ACAD MANAGE REV, V24, P390, DOI 10.5465/AMR.1999.2202128
+   MORAN PAP, 1950, BIOMETRIKA, V37, P17, DOI 10.1093/biomet/37.1-2.17
+   Nonaka I., 1995, KNOWLEDGE CREATING C
+   Obstfeld D, 2005, ADMIN SCI QUART, V50, P100, DOI 10.2189/asqu.2005.50.1.100
+   Pelled LH, 1999, ADMIN SCI QUART, V44, P1, DOI 10.2307/2667029
+   PELZ DC, 1956, ADMIN SCI QUART, V1, P310, DOI 10.2307/2390926
+   Podolny JM, 1997, AM SOCIOL REV, V62, P673, DOI 10.2307/2657354
+   Porter ME., 1980, COMPETITIVE STRATEGY
+   Reagans R, 2003, ADMIN SCI QUART, V48, P240, DOI 10.2307/3556658
+   Reagans R, 2001, ORGAN SCI, V12, P502, DOI 10.1287/orsc.12.4.502.10637
+   Reagans RE, 2008, IND CORP CHANGE, V17, P903, DOI 10.1093/icc/dtn036
+   Rodan S, 2004, STRATEGIC MANAGE J, V25, P541, DOI 10.1002/smj.398
+   Salganik MJ, 2004, SOCIOL METHODOL, V34, P193, DOI 10.1111/j.0081-1750.2004.00152.x
+   Sorenson O, 2001, AM J SOCIOL, V106, P1546, DOI 10.1086/321301
+   Stuart TE, 1996, STRATEGIC MANAGE J, V17, P21
+   Tsai WP, 2001, ACAD MANAGE J, V44, P996, DOI 10.5465/3069443
+   TSUI AS, 1984, ORGAN BEHAV HUM PERF, V34, P64, DOI 10.1016/0030-5073(84)90037-0
+   Turner M, 1999, POETICS TODAY, V20, P397
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   Westphal JD, 1997, ADMIN SCI QUART, V42, P366, DOI 10.2307/2393924
+   Yli-Renko H, 2001, STRATEGIC MANAGE J, V22, P587, DOI 10.1002/smj.183
+   ZALEZNICK A, 1985, ORG REALITY PSYCHOL
+NR 71
+TC 64
+Z9 82
+U1 3
+U2 35
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JUL
+PY 2010
+VL 32
+IS 3
+BP 168
+EP 179
+DI 10.1016/j.socnet.2009.11.002
+PG 12
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 619DI
+UT WOS:000279409000002
+DA 2024-11-22
+ER
+
+PT J
+AU Whitmeyer, JM
+   Wittek, R
+AF Whitmeyer, Joseph M.
+   Wittek, Rafael
+TI Inequalities in network structures
+SO SOCIAL SCIENCE RESEARCH
+LA English
+DT Article
+DE Social networks; Mathematical models; Organizations; Generative models;
+   Resampling
+ID HUMANS; SIZE
+AB We use a model of continuous attachments in networks to generate propositions concerning inequalities in network structures, and test the propositions on data from organizational settings. Our network model, inspired by that of [Gould, Roger 2002. The origins of status hierarchies: A formal theory and empirical test. American Journal of Sociology 107, 1143-1178], is based on a theoretically informed actor model, in which each network member sets attachment strengths based on perceived partner quality, reciprocity, influence from others, attribute homophily, and attachment resistance. A computer algorithm finds the single robust equilibrium configuration of attachment strengths. This allows us to generate six propositions concerning inequalities at the individual, dyadic, triadic, and network levels. We test the propositions on network data for four kinds of attachments over four waves for five organizations, and find that the results generally support the propositions. The results suggest that partner quality, reciprocity, and attachment resistance are the most important elements in the network members' choices. (C) 2009 Elsevier Inc. All rights reserved.
+C1 [Whitmeyer, Joseph M.] Univ N Carolina, Dept Sociol, Charlotte, NC 28223 USA.
+   [Wittek, Rafael] Univ Groningen, Dept Sociol, ICS, NL-9712 TG Groningen, Netherlands.
+C3 University of North Carolina; University of North Carolina Charlotte;
+   University of Groningen
+RP Whitmeyer, JM (corresponding author), Univ N Carolina, Dept Sociol, Charlotte, NC 28223 USA.
+EM jwhitmey@uncc.edu
+RI Wittek, Rafael/E-5560-2012
+OI Wittek, Rafael/0000-0002-8473-6984
+CR [Anonymous], 1999, FRIENDS CHOICE ACTOR
+   [Anonymous], 1955, DYNAMICS BUREAUCRACY
+   Aronson E., 2004, SOCIAL ANIMAL, V9th
+   Bales R.F., 2001, SOCIAL INTERACTION S
+   Buskens Vincent., 2002, GROUP COHESION TRUST, V19, P167
+   Coleman J.S., 1994, FDN SOCIAL THEORY
+   Coleman JamesSamuel., 1961, The Adolescent Society; The Social Life of the Teenager and its Impact on Education
+   DUNBAR RIM, 1993, BEHAV BRAIN SCI, V16, P681, DOI 10.1017/S0140525X00032325
+   FELD SL, 1991, AM J SOCIOL, V96, P1464, DOI 10.1086/229693
+   FISKE AP, 1991, STRUCTURES SOCIAL LI
+   Fiske S. T., 1991, SOCIAL COGNITION
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   Good P., 2000, PERMUTATION TESTS PR
+   Gould RV, 2002, AM J SOCIOL, V107, P1143, DOI 10.1086/341744
+   Harvey N, 1997, ORGAN BEHAV HUM DEC, V70, P117, DOI 10.1006/obhd.1997.2697
+   Hill RA, 2003, HUM NATURE-INT BIOS, V14, P53, DOI 10.1007/s12110-003-1016-y
+   Homans G.C., 1974, Social Behavior: Its Elementary Forms
+   JASSO G, 2002, HDB SOCIOLOGICAL THE, P669
+   KANDEL DB, 1978, AM J SOCIOL, V84, P427, DOI 10.1086/226792
+   Loch CH, 2000, J ECON BEHAV ORGAN, V43, P35, DOI 10.1016/S0167-2681(00)00107-4
+   Loch CH, 2001, DYNAMICS OF ORGANIZATIONS, P119
+   Lunneborg C.E., 2000, DATA ANAL RESAMPLING
+   MCPHERSON JM, 1987, AM SOCIOL REV, V52, P370, DOI 10.2307/2095356
+   Moody J, 2001, AM J SOCIOL, V107, P679, DOI 10.1086/338954
+   MOODY J, 2000, THESIS U N CAROLINA
+   Sawyer Keith., 2005, SOCIAL EMERGENCE SOC
+   Strogatz SH, 1994, NONLINEAR DYNAMICS C
+   VERBRUGGE LM, 1977, SOC FORCES, V56, P576, DOI 10.2307/2577741
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   Whitmeyer J.M., 1994, Sociological Theory, V12, P153, DOI DOI 10.2307/201861
+   Whitmeyer JM, 1998, J THEOR SOC BEHAV, V28, P403, DOI 10.1111/1468-5914.00082
+   Witkin H.A., 1981, Cognitive styles: Essence and origins
+   Yamagishi T., 2001, Trust in Society, V2, P121
+NR 33
+TC 3
+Z9 5
+U1 1
+U2 13
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0049-089X
+J9 SOC SCI RES
+JI Soc. Sci. Res.
+PD JAN
+PY 2010
+VL 39
+IS 1
+BP 152
+EP 164
+DI 10.1016/j.ssresearch.2009.05.006
+PG 13
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA 524AO
+UT WOS:000272116400013
+OA Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU van Wijk, BCM
+   Stam, CJ
+   Daffertshofer, A
+AF van Wijk, Bernadette C. M.
+   Stam, Cornelis J.
+   Daffertshofer, Andreas
+TI Comparing Brain Networks of Different Size and Connectivity Density
+   Using Graph Theory
+SO PLOS ONE
+LA English
+DT Article
+ID SMALL-WORLD NETWORKS; FUNCTIONAL CONNECTIVITY; THEORETICAL ANALYSIS;
+   CORTICAL NETWORKS; SCALE-FREE; LOGISTIC REGRESSIONS; ANATOMICAL
+   NETWORKS; SOCIAL NETWORKS; LOGIT-MODELS; EEG
+AB Graph theory is a valuable framework to study the organization of functional and anatomical connections in the brain. Its use for comparing network topologies, however, is not without difficulties. Graph measures may be influenced by the number of nodes (N) and the average degree (k) of the network. The explicit form of that influence depends on the type of network topology, which is usually unknown for experimental data. Direct comparisons of graph measures between empirical networks with different N and/or k can therefore yield spurious results. We list benefits and pitfalls of various approaches that intend to overcome these difficulties. We discuss the initial graph definition of unweighted graphs via fixed thresholds, average degrees or edge densities, and the use of weighted graphs. For instance, choosing a threshold to fix N and k does eliminate size and density effects but may lead to modifications of the network by enforcing (ignoring) nonsignificant (significant) connections. Opposed to fixing N and k, graph measures are often normalized via random surrogates but, in fact, this may even increase the sensitivity to differences in N and k for the commonly used clustering coefficient and small-world index. To avoid such a bias we tried to estimate the N, k-dependence for empirical networks, which can serve to correct for size effects, if successful. We also add a number of methods used in social sciences that build on statistics of local network structures including exponential random graph models and motif counting. We show that none of the here-investigated methods allows for a reliable and fully unbiased comparison, but some perform better than others.
+C1 [van Wijk, Bernadette C. M.; Daffertshofer, Andreas] Vrije Univ Amsterdam, Res Inst MOVE, Amsterdam, Netherlands.
+   [Stam, Cornelis J.] Vrije Univ Amsterdam, Dept Clin Neurophysiol, Med Ctr, Amsterdam, Netherlands.
+C3 Vrije Universiteit Amsterdam; Vrije Universiteit Amsterdam
+RP van Wijk, BCM (corresponding author), Vrije Univ Amsterdam, Res Inst MOVE, Amsterdam, Netherlands.
+EM b.vanwijk@fbw.vu.nl
+OI van Wijk, Bernadette/0000-0002-6129-0801; Daffertshofer,
+   Andreas/0000-0001-9107-3552; Stam, Cornelis/0000-0001-9163-7274
+FU Netherlands Organisation for Scientific Research (NWO) [021-002-047,
+   452-04-332]
+FX This work was financially supported by the Netherlands Organisation for
+   Scientific Research (NWO, http://www.nwo.nl) grant numbers 021-002-047
+   and 452-04-332. The funders had no role in study design, data collection
+   and analysis, decision to publish, or preparation of the manuscript.
+CR Achard S, 2006, J NEUROSCI, V26, P63, DOI 10.1523/JNEUROSCI.3874-05.2006
+   Achard S, 2007, PLOS COMPUT BIOL, V3, P174, DOI 10.1371/journal.pcbi.0030017
+   Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   Anderson BS, 1999, SOC NETWORKS, V21, P239, DOI 10.1016/S0378-8733(99)00011-8
+   [Anonymous], 1986, IMS Lecture Notes Monograph Series
+   [Anonymous], 2003, statnet: Software tools for the Statistical Modeling of Network Data, DOI DOI 10.1371/journal.pcbi.0020100
+   [Anonymous], 2002, J. Social Struct
+   ANTIQUEIRA L, 2010, NEUROIMAGE IN PRESS
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Bartolomei F, 2006, CLIN NEUROPHYSIOL, V117, P2039, DOI 10.1016/j.clinph.2006.05.018
+   Bassett DS, 2008, J NEUROSCI, V28, P9239, DOI 10.1523/JNEUROSCI.1929-08.2008
+   Bassettt DS, 2006, P NATL ACAD SCI USA, V103, P19518, DOI 10.1073/pnas.0606005103
+   Bosma Ingeborg, 2009, Nonlinear Biomed Phys, V3, P9, DOI 10.1186/1753-4631-3-9
+   Bullmore ET, 2009, NAT REV NEUROSCI, V10, P186, DOI 10.1038/nrn2575
+   Butts CT, 2008, ASIAN J SOC PSYCHOL, V11, P13, DOI 10.1111/j.1467-839X.2007.00241.x
+   Butts CT, 2007, J MATH SOCIOL, V31, P295, DOI 10.1080/00222500701542517
+   Butts CT, 2009, SCIENCE, V325, P414, DOI 10.1126/science.1171022
+   Chen ZJ, 2008, CEREB CORTEX, V18, P2374, DOI 10.1093/cercor/bhn003
+   Costa LD, 2007, BMC SYST BIOL, V1, DOI 10.1186/1752-0509-1-16
+   Davis J. A., 1972, SOCIOLOGICAL THEORIE, V2, P218
+   de Haan W, 2009, BMC NEUROSCI, V10, DOI 10.1186/1471-2202-10-101
+   Dimitriadis SI, 2009, BRAIN TOPOGR, V22, P119, DOI 10.1007/s10548-008-0071-4
+   Eguíluz VM, 2005, PHYS REV LETT, V94, DOI 10.1103/PhysRevLett.94.018102
+   Fallani FDV, 2008, NEUROINFORMATICS, V6, P23, DOI 10.1007/s12021-007-9006-6
+   Faust K, 2002, SOCIOL METHODOL, V32, P267, DOI 10.1111/1467-9531.00118
+   Ferrarini L, 2009, HUM BRAIN MAPP, V30, P2220, DOI 10.1002/hbm.20663
+   Ferri R, 2008, CLIN NEUROPHYSIOL, V119, P2026, DOI 10.1016/j.clinph.2008.04.294
+   Fornito A, 2010, FRONT SYST NEUROSCI, V4, DOI 10.3389/fnsys.2010.00022
+   FRANK O, 1986, J AM STAT ASSOC, V81, P832, DOI 10.2307/2289017
+   Gong GL, 2009, CEREB CORTEX, V19, P524, DOI 10.1093/cercor/bhn102
+   Hagmann P, 2008, PLOS BIOL, V6, P1479, DOI 10.1371/journal.pbio.0060159
+   Handcock M.S., 2003, 39 U WASH CTR STAT S
+   Handcock MS, 2003, DYNAMIC SOCIAL NETWORK MODELING AND ANALYSIS, P229
+   Hayasaka S, 2010, NEUROIMAGE, V50, P499, DOI 10.1016/j.neuroimage.2009.12.051
+   He Y, 2008, J NEUROSCI, V28, P4756, DOI 10.1523/JNEUROSCI.0141-08.2008
+   He Y, 2007, CEREB CORTEX, V17, P2407, DOI 10.1093/cercor/bhl149
+   HOLLAND PW, 1970, AM J SOCIOL, V76, P492, DOI 10.1086/224954
+   Huisman M., 2005, MODELS METHODS SOCIA, P270
+   Humphries MD, 2008, PLOS ONE, V3, DOI 10.1371/journal.pone.0002051
+   Hunter DR, 2006, J COMPUT GRAPH STAT, V15, P565, DOI 10.1198/106186006X133069
+   HUNTER DR, 2010, ERGM PACKAGE FIT SIM
+   Iturria-Medina Y, 2007, NEUROIMAGE, V36, P645, DOI 10.1016/j.neuroimage.2007.02.012
+   Katz Leo., 1953, Psychometrika, V18, P249
+   Klemm K, 2002, PHYS REV E, V65, DOI 10.1103/PhysRevE.65.057102
+   Kramer MA, 2008, EPILEPSY RES, V79, P173, DOI 10.1016/j.eplepsyres.2008.02.002
+   Lee SH, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.016102
+   Li YH, 2009, PLOS COMPUT BIOL, V5, DOI 10.1371/journal.pcbi.1000395
+   Liu Y, 2008, BRAIN, V131, P945, DOI 10.1093/brain/awn018
+   Martin S, 2006, PHYSICA A, V371, P870, DOI 10.1016/j.physa.2006.04.046
+   Maslov S, 2002, SCIENCE, V296, P910, DOI 10.1126/science.1065103
+   Meunier D, 2009, NEUROIMAGE, V44, P715, DOI 10.1016/j.neuroimage.2008.09.062
+   Micheloyannis S, 2006, NEUROSCI LETT, V402, P273, DOI 10.1016/j.neulet.2006.04.006
+   Micheloyannis S, 2009, HUM BRAIN MAPP, V30, P200, DOI 10.1002/hbm.20492
+   Ponten SC, 2010, NEUROIMAGE, V52, P985, DOI 10.1016/j.neuroimage.2009.10.049
+   Ponten SC, 2009, EXP NEUROL, V217, P197, DOI 10.1016/j.expneurol.2009.02.001
+   Robins G, 1999, PSYCHOMETRIKA, V64, P371, DOI 10.1007/BF02294302
+   Robins G, 2007, SOC NETWORKS, V29, P173, DOI 10.1016/j.socnet.2006.08.002
+   Rubinov M, 2010, NEUROIMAGE, V52, P1059, DOI 10.1016/j.neuroimage.2009.10.003
+   Rubinov M, 2009, HUM BRAIN MAPP, V30, P403, DOI 10.1002/hbm.20517
+   Salvador R, 2005, CEREB CORTEX, V15, P1332, DOI 10.1093/cercor/bhi016
+   Schindler KA, 2008, CHAOS, V18, DOI 10.1063/1.2966112
+   SIMPSON SL, 2010, ARXIV10073230V1STATA
+   Smit DJA, 2008, HUM BRAIN MAPP, V29, P1368, DOI 10.1002/hbm.20468
+   Snijders TAB, 2006, SOCIOL METHODOL, V36, P99, DOI 10.1111/j.1467-9531.2006.00176.x
+   Sporns O, 2004, PLOS BIOL, V2, P1910, DOI 10.1371/journal.pbio.0020369
+   Sporns O, 2004, NEUROINFORMATICS, V2, P145, DOI 10.1385/NI:2:2:145
+   Stam CJ, 2007, CEREB CORTEX, V17, P92, DOI 10.1093/cercor/bhj127
+   Stam CJ, 2009, BRAIN, V132, P213, DOI 10.1093/brain/awn262
+   Stam CJ, 2004, NEUROSCI LETT, V355, P25, DOI 10.1016/j.neulet.2003.10.063
+   Stam Cornelis J, 2007, Nonlinear Biomed Phys, V1, P3, DOI 10.1186/1753-4631-1-3
+   Stumpf MPH, 2005, P NATL ACAD SCI USA, V102, P4221, DOI 10.1073/pnas.0501179102
+   Supekar K, 2008, PLOS COMPUT BIOL, V4, DOI 10.1371/journal.pcbi.1000100
+   van den Heuvel MP, 2008, NEUROIMAGE, V43, P528, DOI 10.1016/j.neuroimage.2008.08.010
+   van den Heuvel MP, 2009, J NEUROSCI, V29, P7619, DOI 10.1523/JNEUROSCI.1443-09.2009
+   Wagenmakers EJ, 2004, PSYCHON B REV, V11, P192, DOI 10.3758/BF03206482
+   Wang JH, 2009, HUM BRAIN MAPP, V30, P1511, DOI 10.1002/hbm.20623
+   Wang L, 2009, HUM BRAIN MAPP, V30, P638, DOI 10.1002/hbm.20530
+   Wasserman S, 1996, PSYCHOMETRIKA, V61, P401, DOI 10.1007/BF02294547
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Zalesky A, 2010, NEUROIMAGE, V50, P970, DOI 10.1016/j.neuroimage.2009.12.027
+   Zamora-López G, 2009, CHAOS, V19, DOI 10.1063/1.3089559
+NR 81
+TC 860
+Z9 945
+U1 3
+U2 106
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD OCT 28
+PY 2010
+VL 5
+IS 10
+AR e13701
+DI 10.1371/journal.pone.0013701
+PG 13
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 672HN
+UT WOS:000283573800004
+PM 21060892
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU McClintock, EA
+AF McClintock, Elizabeth Aura
+TI When Does Race Matter? Race, Sex, and Dating at an Elite University
+SO JOURNAL OF MARRIAGE AND FAMILY
+LA English
+DT Article
+DE adolescent sexual/contraceptive behavior; dating; interethnic;
+   interracial; loglinear analysis; mate selection
+ID INTERRACIAL MARRIAGE; FRIENDSHIP SEGREGATION; QUALITATIVE RESEARCH;
+   ETHNIC-DIFFERENCES; GENDER DIFFERENCES; INTERMARRIAGE; PATTERNS; TRENDS;
+   DESIRABILITY; ADOLESCENTS
+AB This paper unites quantitative and qualitative data from the College Social Life Survey (n = 732) to describe and explain patterns of racial homophily in undergraduate sexual/romantic relationships at an elite university, a closed social setting. It expands the literature on interracial romantic unions by comparing homophily in hookups ( uncommitted sexual interactions), dates, and long-term relationships. Although this population embodies many characteristics associated with greater racial mixing ( youth, education, status equality, geographical proximity, racial diversity, independence from family), racial homophily is still strongly evident. Variation in levels of homophily among relationship types and among racial groups is explained by differences in desired homophily, social network segregation, and participation in formal race-based student organizations. Black students are particularly socially isolated.
+C1 Stanford Univ, Dept Sociol, Stanford, CA 94305 USA.
+C3 Stanford University
+RP McClintock, EA (corresponding author), Stanford Univ, Dept Sociol, 450 Serra Mall,Bldg 120,Room 160, Stanford, CA 94305 USA.
+EM emcclint@stanford.edu
+CR Allport GW., 1954, NATURE PREJUDICE
+   Ambert AM, 1995, J MARRIAGE FAM, V57, P879, DOI 10.2307/353409
+   [Anonymous], 2019, An introduction to categorical data analysis
+   [Anonymous], 1967, The American Occupational Structure ERIC Technical Report ED066526
+   Batson CD, 2006, J MARRIAGE FAM, V68, P658, DOI 10.1111/j.1741-3737.2006.00281.x
+   Blackwell DL, 2004, SOCIOL QUART, V45, P719, DOI 10.1111/j.1533-8525.2004.tb02311.x
+   Blau P.M., 1977, INEQUALITY HETEROGEN
+   Blau PeterMichael., 1984, CROSSCUTTING SOCIAL
+   Bogardus ES, 1947, SOCIOMETRY, V10, P306, DOI 10.2307/2785570
+   Bogle K., 2008, Hooking up: Sex, dating and relationships on campus
+   BROWN C, 2008, STANFORD DAILY  0408
+   BROWN SV, 1985, SOC PSYCHOL QUART, V48, P381, DOI 10.2307/2786700
+   BRYMAN A, 1984, BRIT J SOCIOL, V35, P75, DOI 10.2307/590553
+   Childs EC, 2005, GENDER SOC, V19, P544, DOI 10.1177/0891243205276755
+   Clark-Ibáñez M, 2004, J MARRIAGE FAM, V66, P293, DOI 10.1111/j.1741-3737.2004.00021.x
+   Crowder KD, 2000, J MARRIAGE FAM, V62, P792, DOI 10.1111/j.1741-3737.2000.00792.x
+   East PL, 1998, J MARRIAGE FAM, V60, P150, DOI 10.2307/353448
+   England Paula., 2007, The Gendered Society Reader, P541
+   Fang CY, 1998, J CROSS CULT PSYCHOL, V29, P290, DOI 10.1177/0022022198292002
+   Feldman SS, 1999, J RES ADOLESCENCE, V9, P227, DOI 10.1207/s15327795jra0903_1
+   Fujino DC, 1997, J SOC PERS RELAT, V14, P809, DOI 10.1177/0265407597146006
+   Gardner JB, 2002, PUBL HISTORIAN, V24, P37, DOI 10.1525/tph.2002.24.3.37
+   GOODMAN LA, 1961, ANN MATH STAT, V32, P148, DOI 10.1214/aoms/1177705148
+   Gordon M., 1964, ASSIMILATION AM LIFE
+   Grove A., 2008, Stanford University - SAT Scores, Costs and Admissions Data
+   HALLINAN MT, 1989, AM SOCIOL REV, V54, P67, DOI 10.2307/2095662
+   HAMILTON L, 2008, M AM SOC ASS BOST
+   Harris DR, 2005, SOC SCI RES, V34, P236, DOI 10.1016/j.ssresearch.2004.01.002
+   Heaton TB, 2000, SOCIOL INQ, V70, P30, DOI 10.1111/j.1475-682X.2000.tb00894.x
+   Heckathorn DD, 1997, SOC PROBL, V44, P174, DOI 10.1525/sp.1997.44.2.03x0221m
+   HOOKS B, 1995, TRANSITION, V66, P91
+   HOWARD JA, 1988, SOCIOL PERSPECT, V31, P88, DOI 10.2307/1388952
+   HWANG SS, 1995, INT MIGR REV, V29, P469, DOI 10.2307/2546790
+   Jacobs JA, 2002, SOCIOL FORUM, V17, P621, DOI 10.1023/A:1021029507937
+   JBHE, 2006, J BLACKS HIGHER ED
+   Joyner K, 2005, AM SOCIOL REV, V70, P563, DOI 10.1177/000312240507000402
+   Joyner K., 2000, Social Science Quarterly, V81, P17
+   Kalmijn M, 1998, ANNU REV SOCIOL, V24, P395, DOI 10.1146/annurev.soc.24.1.395
+   KALMIJN M, 1993, SOC FORCES, V72, P119, DOI 10.2307/2580162
+   KALMIJN M, 1991, AM J SOCIOL, V97, P482
+   KASIC A, 2008, UNDERSTANDING HOOKUP
+   Laumann E.O., 1994, SOCIAL ORG SEXUALITY
+   LAURITSEN JL, 1994, SOC FORCES, V72, P859, DOI 10.2307/2579784
+   Lawrence-Webb C, 2004, J BLACK STUD, V34, P623, DOI 10.1177/0021934703259014
+   Lee SM, 1998, SOCIOL PERSPECT, V41, P323, DOI 10.2307/1389480
+   Levin S, 2007, J SOC PERS RELAT, V24, P323, DOI 10.1177/0265407507077225
+   Manning WD, 2005, SOC SCI RES, V34, P384, DOI 10.1016/j.ssresearch.2004.03.001
+   Manning WD, 2006, J ADOLESCENT RES, V21, P459, DOI 10.1177/0743558406291692
+   Massey D.S., 1993, Social Stratification, Class, Race, and Gender in Sociological Perspective. In Social Stratification, Class, Race, and Gender in Sociological Perspective, DOI DOI 10.4324/9780429306419-102/AMERICAN-APARTHEID-SEGREGATION-MAKING
+   Meston CM, 1996, ARCH SEX BEHAV, V25, P33, DOI 10.1007/BF02437906
+   Meston CM, 1998, J SEX RES, V35, P176, DOI 10.1080/00224499809551931
+   Moody J, 2001, AM J SOCIOL, V107, P679, DOI 10.1086/338954
+   Ogbu JU, 2008, SOCIOCULT POLIT HIST, P29
+   OLIVER MB, 1992, SOC PSYCHOL QUART, V55, P321, DOI 10.2307/2786800
+   PALMORE E, 1978, SOC FORCES, V57, P282
+   Patterson G., 1993, Transition, V62, P4
+   Paul EL, 2000, J SEX RES, V37, P76, DOI 10.1080/00224490009552023
+   Phua VC, 2003, J FAM ISSUES, V24, P981, DOI 10.1177/0192513X03256607
+   QIAN Z, 1997, DEMOGRAPHY, V34, P273
+   Quillian L, 2003, AM SOCIOL REV, V68, P540, DOI 10.2307/1519738
+   Regan PC, 2003, SOC BEHAV PERSONAL, V31, P13, DOI 10.2224/sbp.2003.31.1.13
+   Rosenfeld MJ, 2008, SOC FORCES, V87, P1, DOI 10.1353/sof.0.0077
+   Rosenfeld MJ, 2005, AM SOCIOL REV, V70, P541, DOI 10.1177/000312240507000401
+   Rosenfeld MJ, 2002, J MARRIAGE FAM, V64, P152, DOI 10.1111/j.1741-3737.2002.00152.x
+   Rosenfeld MJ, 2001, DEMOGRAPHY, V38, P161, DOI 10.1353/dem.2001.0020
+   SCHOEN R, 1993, J MARRIAGE FAM, V55, P408, DOI 10.2307/352811
+   Schuster MA, 1998, J ADOLESCENT HEALTH, V23, P221, DOI 10.1016/S1054-139X(97)00210-3
+   Sears DO, 2003, SOC PSYCHOL QUART, V66, P419, DOI 10.2307/1519838
+   Shiao JiannbinLee., 2008, DU BOIS REV, V5, P259, DOI DOI 10.1017/S1742058X08080132
+   Simmel G, 1909, AM J SOCIOL, V15, P289, DOI 10.1086/211783
+   SPRECHER S, 1991, J SEX RES, V28, P387, DOI 10.1080/00224499109551615
+   *STANF U, 2009, STANF FACTS CAMP LIF
+   *STANF U, 2005, FREQ ASK QUEST STUD
+   *STANF U OFF UND A, 2008, PLAC
+   Stepp L.S., 2007, UNHOOKED YOUNG WOMEN
+   SURO R, 1999, AM DEMOGR, V21, P57
+   TUCKER MB, 1990, J MARRIAGE FAM, V52, P209, DOI 10.2307/352851
+   Upchurch DM, 1998, FAM PLANN PERSPECT, V30, P121, DOI 10.2307/2991625
+   WILLIAMS JD, 1989, J MARRIAGE FAM, V51, P489, DOI 10.2307/352510
+   Yancey G, 2002, J COMP FAM STUD, V33, P179, DOI 10.3138/jcfs.33.2.179
+   Yancey G, 2009, SOCIOL QUART, V50, P121, DOI 10.1111/j.1533-8525.2008.01135.x
+NR 81
+TC 79
+Z9 110
+U1 2
+U2 80
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0022-2445
+J9 J MARRIAGE FAM
+JI J. Marriage Fam.
+PD FEB
+PY 2010
+VL 72
+IS 1
+BP 45
+EP 72
+DI 10.1111/j.1741-3737.2009.00683.x
+PG 28
+WC Family Studies; Sociology
+WE Social Science Citation Index (SSCI)
+SC Family Studies; Sociology
+GA 546PJ
+UT WOS:000273822400007
+DA 2024-11-22
+ER

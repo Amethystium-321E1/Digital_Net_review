@@ -1,0 +1,641 @@
+
+PT J
+AU Stopczynski, A
+   Pentland, A
+   Lehmann, S
+AF Stopczynski, Arkadiusz
+   Pentland, Alex 'Sandy'
+   Lehmann, Sune
+TI How Physical Proximity Shapes Complex Social Networks
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID COMMUNITY STRUCTURE; TRANSMISSION; MULTISCALE; OUTBREAK; SPREAD
+AB Social interactions among humans create complex networks and - despite a recent increase of online communication - the interactions mediated through physical proximity remain a fundamental way for people to connect. A common way to quantify the nature of the links between individuals is to consider repeated interactions: frequently occurring interactions indicate strong ties, such as friendships, while ties with low weights can indicate random encounters. Here we focus on a different dimension: rather than the strength of links, we study physical distance between individuals when a link is activated. The findings presented here are based on a dataset of proximity events in a population of approximately 500 individuals. To quantify the impact of the physical proximity on the dynamic network, we use a simulated epidemic spreading processes in two distinct networks of physical proximity. We consider the network of short-range interactions defined as d less than or similar to 1 meter, and the long-range which includes all interactions d less than or similar to 10 meters. Since these two networks arise from the same set of underlying behavioral data, we are able to quantitatively measure how the specific definition of the proximity network - short-range versus long-range - impacts the resulting network structure as well as spreading dynamics in epidemic simulations. We find that the short-range network - consistent with the literature - is characterized by densely-connected neighborhoods bridged by weak ties. More surprisingly, however, we show that spreading in the long-range network is quite different, mainly shaped by spurious interactions.
+C1 [Stopczynski, Arkadiusz; Lehmann, Sune] Tech Univ Denmark, Lyngby, Denmark.
+   [Stopczynski, Arkadiusz; Pentland, Alex 'Sandy'] MIT, Media Lab, Cambridge, MA 02139 USA.
+   [Lehmann, Sune] Univ Copenhagen, Niels Bohr Inst, Copenhagen, Denmark.
+C3 Technical University of Denmark; Massachusetts Institute of Technology
+   (MIT); University of Copenhagen; Niels Bohr Institute
+RP Lehmann, S (corresponding author), Tech Univ Denmark, Lyngby, Denmark.; Lehmann, S (corresponding author), Univ Copenhagen, Niels Bohr Inst, Copenhagen, Denmark.
+EM sljo@dtu.dk
+RI Lehmann, Sune/AFQ-7000-2022
+OI Lehmann, Sune/0000-0001-6099-2345
+FU Villum Foundation; University of Copenhagen; Independent Research Fund
+FX Thanks to Enys Mones, Vedran Sekara, and Piotr Sapiezynski for helpful
+   discussions and Radu Gatej for technical assistance. This work was
+   supported by the Villum Foundation [Young Investigator Program 'High
+   Resolution Networks' grant (to S.L.)], The Independent Research Fund
+   [Sapere Aude Program 'Micro dynamics of influence in social systems'],
+   and the University of Copenhagen (UCPH Excellence Programme for
+   Interdisciplinary Research "Social Fabric" grant). Funders had no role
+   in design of the study and collection, analysis, and interpretation of
+   data, nor did funders have a role in writing the manuscript.
+CR Aamodt K., 2006, AN042 TEX INSTR
+   Ahn YY, 2010, NATURE, V466, P761, DOI 10.1038/nature09182
+   [Anonymous], 1969, The Hidden Dimension
+   Bagrow JP, 2015, NETW SCI, V3, P509, DOI 10.1017/nws.2015.21
+   Bakshy E., 2012, P 21 INT C WORLD WID, P519, DOI DOI 10.1145/2187836.2187907
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Bridges CB, 2003, CLIN INFECT DIS, V37, P1094, DOI 10.1086/378292
+   Cauchemez S, 2011, P NATL ACAD SCI USA, V108, P2825, DOI 10.1073/pnas.1008895108
+   Danon Leon, 2011, Interdiscip Perspect Infect Dis, V2011, P284909, DOI 10.1155/2011/284909
+   Eagle N, 2006, PERS UBIQUIT COMPUT, V10, P255, DOI 10.1007/s00779-005-0046-3
+   Eagle N, 2009, P NATL ACAD SCI USA, V106, P15274, DOI 10.1073/pnas.0900282106
+   Eubank S, 2004, NATURE, V429, P180, DOI 10.1038/nature02541
+   Fortunato S, 2010, PHYS REP, V486, P75, DOI 10.1016/j.physrep.2009.11.002
+   Fowler JH, 2008, BMJ-BRIT MED J, V337, DOI 10.1136/bmj.a2338
+   Garner Julia S., 1996, Infection Control and Hospital Epidemiology, V17, P53
+   Girvan M, 2002, P NATL ACAD SCI USA, V99, P7821, DOI 10.1073/pnas.122653799
+   Karsai M, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.025102
+   Klovdahl AS, 2001, SOC SCI MED, V52, P681, DOI 10.1016/S0277-9536(00)00170-2
+   Lazer D, 2009, SCIENCE, V323, P721, DOI 10.1126/science.1167742
+   Liljeros F, 2001, NATURE, V411, P907, DOI 10.1038/35082140
+   Liverman C. T, 2007, PREPARING INFLUENZA
+   Mednick SC, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0009775
+   Milgram S., 1992, The individual in a social world: Essays and experiments
+   Mills CE, 2004, NATURE, V432, P904, DOI 10.1038/nature03063
+   Milo R, 2002, SCIENCE, V298, P824, DOI 10.1126/science.298.5594.824
+   Mossong J, 2008, PLOS MED, V5, P381, DOI 10.1371/journal.pmed.0050074
+   Mucha PJ, 2010, SCIENCE, V328, P876, DOI 10.1126/science.1184819
+   Onnela JP, 2007, P NATL ACAD SCI USA, V104, P7332, DOI 10.1073/pnas.0610245104
+   Read JM, 2008, J R SOC INTERFACE, V5, P1001, DOI 10.1098/rsif.2008.0013
+   Rocha LEC, 2011, PLOS COMPUT BIOL, V7, DOI 10.1371/journal.pcbi.1001109
+   Salathé M, 2012, PLOS COMPUT BIOL, V8, DOI 10.1371/journal.pcbi.1002616
+   Salathé M, 2010, P NATL ACAD SCI USA, V107, P22020, DOI 10.1073/pnas.1009094108
+   Salathé M, 2010, PLOS COMPUT BIOL, V6, DOI 10.1371/journal.pcbi.1000736
+   Scott J., 2017, SOCIAL NETWORK ANAL
+   SOMMER R, 1959, SOCIOMETRY, V22, P247, DOI 10.2307/2785668
+   Stopczynski A, 2014, PLOS ONE, V9, DOI [10.1371/journal.pone.0100915, 10.1371/journal.pone.0095978]
+   Sun LJ, 2013, P NATL ACAD SCI USA, V110, P13774, DOI 10.1073/pnas.1306440110
+   Sun P, 2010, PHYSCS PROC, V3, P1811, DOI 10.1016/j.phpro.2010.07.023
+   Szell M, 2010, P NATL ACAD SCI USA, V107, P13636, DOI 10.1073/pnas.1004008107
+   Xiao X, 2016, EPIDEMICS-NETH, V17, P1, DOI 10.1016/j.epidem.2016.08.001
+NR 40
+TC 13
+Z9 15
+U1 0
+U2 15
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD DEC 7
+PY 2018
+VL 8
+AR 17722
+DI 10.1038/s41598-018-36116-6
+PG 10
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA HD6GY
+UT WOS:000452635000024
+PM 30531809
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Selden, M
+   Goodie, AS
+AF Selden, Mary
+   Goodie, Adam S.
+TI Review of the effects of Five Factor Model personality traits on network
+   structures and perceptions of structure
+SO SOCIAL NETWORKS
+LA English
+DT Review
+DE Social network; Network perception; Network structure; Personality Five;
+   Factor Model; Big five personality
+ID SOCIAL NETWORK; INDIVIDUAL-DIFFERENCES; CENTRALITY; LEADERSHIP;
+   EXTROVERSION; HAPPINESS; ANXIETY; SUPPORT; ADULTS; SKILLS
+AB We review recent research on Five Factor Model personality and social network analysis to assess how structures develop and are perceived. Extraversion and agreeableness relate consistently to personal but not workplace networks. Extraverts are more likely to seek connections, whereas agreeable individuals receive connections from others. Openness predicts network diversity and is marginally related to position when groups pursue collective goals. Conscientiousness is associated with maintaining certain personal relationships, but is strongly related to central positions in workplace networks. Neuroticism has no consistent relationship with network size or composition, and is differentially related to network positions, depending on the context. (C) 2017 Elsevier B.V. All rights reserved.
+C1 [Selden, Mary; Goodie, Adam S.] Univ Georgia, Athens, GA 30602 USA.
+C3 University System of Georgia; University of Georgia
+RP Selden, M (corresponding author), Univ Georgia, Psychol Dept, 125 Baldwin St, Athens, GA 30602 USA.
+EM mselden19@gmail.com
+OI Selden, Mary/0000-0001-8820-7484
+CR [Anonymous], 1992, REV NEO PERSONALITY
+   ARGYLE M, 1990, PERS INDIV DIFFER, V11, P1255, DOI 10.1016/0191-8869(90)90152-H
+   ARGYLE M, 1990, PERS INDIV DIFFER, V11, P1011, DOI 10.1016/0191-8869(90)90128-E
+   Asendorpf JB, 1998, J PERS SOC PSYCHOL, V74, P1531, DOI 10.1037/0022-3514.74.6.1531
+   Baams L, 2015, J RES PERS, V54, P2, DOI 10.1016/j.jrp.2014.07.009
+   Baer M, 2010, J APPL PSYCHOL, V95, P592, DOI 10.1037/a0018761
+   Barrick MR, 2005, HUM PERFORM, V18, P359, DOI 10.1207/s15327043hup1804_3
+   Battistoni E, 2014, LEARN INDIVID DIFFER, V34, P63, DOI 10.1016/j.lindif.2014.05.007
+   Berry DS, 2000, J RES PERS, V34, P84, DOI 10.1006/jrpe.1999.2271
+   Bjornebekk A, 2013, NEUROIMAGE, V65, P194, DOI 10.1016/j.neuroimage.2012.10.009
+   BOLGER N, 1991, J PERS SOC PSYCHOL, V61, P440, DOI 10.1037/0022-3514.61.3.440
+   Borgatti SP., 2018, ANAL SOCIAL NETWORKS
+   Burt RS, 2013, ANNU REV PSYCHOL, V64, P527, DOI 10.1146/annurev-psych-113011-143828
+   Butts CT, 2008, ASIAN J SOC PSYCHOL, V11, P13, DOI 10.1111/j.1467-839X.2007.00241.x
+   Casciaro T, 1998, SOC NETWORKS, V20, P331, DOI 10.1016/S0378-8733(98)00008-2
+   Chorley MJ, 2015, COMPUT HUM BEHAV, V46, P45, DOI 10.1016/j.chb.2014.12.038
+   Clifton A, 2014, J PERS, V82, P103, DOI 10.1111/jopy.12038
+   Clifton A, 2011, J PERS, V79, P359, DOI 10.1111/j.1467-6494.2010.00686.x
+   COSTA PT, 1995, J PERS SOC PSYCHOL, V69, P308, DOI 10.1037/0022-3514.69.2.308
+   Costantini G, 2015, J RES PERS, V54, P13, DOI 10.1016/j.jrp.2014.07.003
+   Creed AT, 1998, PERS INDIV DIFFER, V25, P19, DOI 10.1016/S0191-8869(98)00037-3
+   Cross R, 2002, HARVARD BUS REV, V80, P104
+   Daly AJ, 2014, EDUC ADMIN QUART, V50, P233, DOI 10.1177/0013161X13492795
+   Demir M., 2007, J HAPPINESS STUD, V8, P181, DOI [10.1007/s10902-006-9012-7, DOI 10.1007/S10902-006-9012-7]
+   DeYoung CG, 2010, PSYCHOL SCI, V21, P820, DOI 10.1177/0956797610370159
+   DIGMAN JM, 1990, ANNU REV PSYCHOL, V41, P417, DOI 10.1146/annurev.ps.41.020190.002221
+   Doeven-Eggens L, 2008, PERS INDIV DIFFER, V45, P689, DOI 10.1016/j.paid.2008.07.017
+   Emery C, 2012, SOC NETWORKS, V34, P429, DOI 10.1016/j.socnet.2012.02.001
+   Emery C, 2013, GROUP PROCESS INTERG, V16, P28, DOI 10.1177/1368430212461835
+   Eysenck H. J., 1985, Personality and individual differences: A natural science approach, DOI DOI 10.1007/978-1-4613-2413-3
+   Fang RL, 2015, ORGAN SCI, V26, P1243, DOI 10.1287/orsc.2015.0972
+   Feiler DC, 2015, PSYCHOL SCI, V26, P593, DOI 10.1177/0956797615569580
+   FERNANDEZ RM, 1991, SOC PSYCHOL QUART, V54, P36, DOI 10.2307/2786787
+   FERNANDEZ RM, 1994, AM J SOCIOL, V99, P1455, DOI 10.1086/230451
+   Fishman I, 2011, COGN NEUROSCI-UK, V2, P67, DOI 10.1080/17588928.2010.527434
+   Flynn FJ, 2006, J PERS SOC PSYCHOL, V91, P1123, DOI 10.1037/0022-3514.91.6.1123
+   Flynn FJ, 2010, J PERS SOC PSYCHOL, V99, P855, DOI 10.1037/a0020961
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   FURNHAM A, 1983, J ADOLESCENCE, V6, P57, DOI 10.1016/S0140-1971(83)80056-6
+   Gloor PA, 2011, PROCD SOC BEHV, V26, DOI 10.1016/j.sbspro.2011.10.573
+   Goekoop R, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0051558
+   Goldberg LR, 2006, J RES PERS, V40, P84, DOI 10.1016/j.jrp.2005.08.007
+   Gosling SD, 2003, J RES PERS, V37, P504, DOI 10.1016/S0092-6566(03)00046-1
+   Graziano WG, 1996, J PERS SOC PSYCHOL, V70, P820, DOI 10.1037/0022-3514.70.4.820
+   HALLINAN MT, 1988, SOC PSYCHOL QUART, V51, P81, DOI 10.2307/2786832
+   HOLLAND PW, 1970, AM J SOCIOL, V76, P492, DOI 10.1086/224954
+   Hopp C, 2012, INT J HUM RESOUR MAN, V23, P2975, DOI 10.1080/09585192.2011.637063
+   Jensen-Campbell LA, 2002, J RES PERS, V69, P323, DOI [10.1111/1467-6494.00148, DOI 10.1111/1467-6494.00148]
+   Kadushin C, 2002, SOC NETWORKS, V24, P77, DOI 10.1016/S0378-8733(01)00052-1
+   Kalish Y, 2006, SOC NETWORKS, V28, P56, DOI 10.1016/j.socnet.2005.04.004
+   Kalish Y, 2008, ASIAN J SOC PSYCHOL, V11, P53, DOI 10.1111/j.1467-839X.2007.00243.x
+   Kilduff M., 2003, PURSUIT LOST QUESTIO, P172
+   Kilduff M, 2008, ORGAN BEHAV HUM DEC, V107, P15, DOI 10.1016/j.obhdp.2007.12.003
+   Klein KJ, 2004, ACAD MANAGE J, V47, P952, DOI 10.5465/20159634
+   Klimstra TA, 2009, J PERS SOC PSYCHOL, V96, P898, DOI 10.1037/a0014746
+   KRACKHARDT D, 1987, SOC NETWORKS, V9, P109, DOI 10.1016/0378-8733(87)90009-8
+   Kunisato Y, 2011, NEUROSCI LETT, V492, P109, DOI 10.1016/j.neulet.2011.01.067
+   Lamkin J, 2014, PERSONAL DISORD, V5, P137, DOI 10.1037/per0000024
+   Lee YH, 2010, SOC BEHAV PERSONAL, V38, P197, DOI 10.2224/sbp.2010.38.2.197
+   Li Jingguang, 2010, Commun Integr Biol, V3, P295
+   Lin Nan, 2001, Social capital: theory and research, P31
+   Liu YW, 2010, J PSYCHOL, V144, P243, DOI 10.1080/00223981003648260
+   Lönnqvist JE, 2014, J RES PERS, V53, P64, DOI 10.1016/j.jrp.2014.08.009
+   Lopez Jose., 2000, SOCIAL STRUCTURE
+   MARSDEN PV, 1990, ANNU REV SOCIOL, V16, P435, DOI 10.1146/annurev.so.16.080190.002251
+   Marsden PV, 2002, SOC NETWORKS, V24, P407, DOI 10.1016/S0378-8733(02)00016-3
+   MAYHEW BH, 1980, SOC FORCES, V59, P335, DOI 10.2307/2578025
+   McCabe KO, 2012, PSYCHOL SCI, V23, P1498, DOI 10.1177/0956797612444904
+   McCrae RR, 2005, J PERS ASSESS, V84, P261, DOI 10.1207/s15327752jpa8403_05
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mehra A, 2009, LMX LEADERSH SER, P145
+   MOORE G, 1990, AM SOCIOL REV, V55, P726, DOI 10.2307/2095868
+   Neubert MJ, 2004, LEADERSHIP QUART, V15, P175, DOI 10.1016/j.leaqua.2004.02.006
+   Neuman GA, 1999, J APPL PSYCHOL, V84, P376, DOI 10.1037/0021-9010.84.3.376
+   Neyer FJ, 2001, J PERS SOC PSYCHOL, V81, P1190, DOI 10.1037//0022-3514.81.6.1190
+   Ozer DJ, 2006, ANNU REV PSYCHOL, V57, P401, DOI 10.1146/annurev.psych.57.102904.190127
+   Pollet TV, 2011, J INDIVID DIFFER, V32, P161, DOI 10.1027/1614-0001/a000048
+   Rice L, 2009, PERS INDIV DIFFER, V46, P35, DOI 10.1016/j.paid.2008.08.022
+   Roberts BW, 2014, DEV PSYCHOL, V50, P1315, DOI 10.1037/a0031109
+   Roberts SGB, 2008, PERS INDIV DIFFER, V44, P954, DOI 10.1016/j.paid.2007.10.033
+   Russell DW, 1997, J PERS, V65, P649, DOI 10.1111/j.1467-6494.1997.tb00330.x
+   Schulte M, 2012, ORGAN SCI, V23, P564, DOI 10.1287/orsc.1100.0582
+   Selfhout M, 2010, J PERS, V78, P509, DOI 10.1111/j.1467-6494.2010.00625.x
+   Smolka P.S., 2011, KWARTALNIK EKON MENE, V22, P111, DOI [10.5604/01.3001.0009.5542, DOI 10.5604/01.3001.0009.5542]
+   STOKES JP, 1985, J PERS SOC PSYCHOL, V48, P981, DOI 10.1037/0022-3514.48.4.981
+   Subrahmanyam K, 2008, J APPL DEV PSYCHOL, V29, P420, DOI 10.1016/j.appdev.2008.07.003
+   Swickert RJ, 2002, PERS INDIV DIFFER, V32, P877, DOI 10.1016/S0191-8869(01)00093-9
+   Tett RP, 2003, J APPL PSYCHOL, V88, P500, DOI 10.1037/0021-9010.88.3.500
+   Totterdell P, 2008, SOC NETWORKS, V30, P283, DOI 10.1016/j.socnet.2008.04.003
+   Wagner J, 2014, EUR J PERSONALITY, V28, P586, DOI 10.1002/per.1974
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   Wellman B., 1983, SOCIOL THEORY, V1, P155, DOI [10.2307/202050, DOI 10.2307/202050]
+   Wrzus C, 2013, PSYCHOL BULL, V139, P53, DOI 10.1037/a0028601
+   Xia L, 2009, MANAGE COMMUN Q, V23, P32, DOI 10.1177/0893318909335416
+   Xu JS, 2012, NEUROIMAGE, V59, P800, DOI 10.1016/j.neuroimage.2011.07.040
+   Yan L, 2014, J COMPUT INFORM SYST, V54, P1
+   Zell D., 2014, J BEHAV APPL MANAGEM, V15, P59, DOI DOI 10.21818/001C.17938
+   Zhu XM, 2013, SOC NETWORKS, V35, P382, DOI 10.1016/j.socnet.2013.04.005
+NR 98
+TC 57
+Z9 64
+U1 3
+U2 65
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JAN
+PY 2018
+VL 52
+BP 81
+EP 99
+DI 10.1016/j.socnet.2017.05.007
+PG 19
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA FO1DG
+UT WOS:000416496300009
+DA 2024-11-22
+ER
+
+PT J
+AU Bastos, M
+   Piccardi, C
+   Levy, M
+   McRoberts, N
+   Lubell, M
+AF Bastos, Marco
+   Piccardi, Carlo
+   Levy, Michael
+   McRoberts, Neil
+   Lubell, Mark
+TI Core-periphery or decentralized? Topological shifts of specialized
+   information on Twitter
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Core-periphery; Social networks; Centralization; Twitter; Information
+   diffusion; Sustainable agriculture
+ID NETWORKS; DIFFUSION; KNOWLEDGE; INNOVATION; DYNAMICS; PERFORMANCE;
+   EMERGENCE; MODELS
+AB In this paper we investigate shifts in Twitter network topology resulting from the type of information being shared. We identified communities matching areas of agricultural expertise and measured the core-periphery centralization of network formations resulting from users sharing generic versus specialized information. We found that centralization increases when specialized information is shared and that the network adopts decentralized formations as conversations become more generic. The results are consistent with classical diffusion models positing that specialized information comes with greater centralization, but they also show that users favor decentralized formations, which can foster community cohesion, when spreading specialized information is secondary. (C) 2017 Elsevier B.V. All rights reserved.
+C1 [Bastos, Marco] City Univ London, Dept Sociol, Northampton Sq, London EC1 V0HB, England.
+   [Piccardi, Carlo] Politecn Milan, Dept Elect Informat & Bioengn, Piazza Leonardo da Vinci 32, I-20133 Milan, Italy.
+   [Levy, Michael; Lubell, Mark] Univ Calif Davis, Dept Environm Sci & Policy, One Shields Ave, Davis, CA 95616 USA.
+   [McRoberts, Neil] Univ Calif Davis, Plant Pathol Dept, One Shields Ave, Davis, CA 95616 USA.
+C3 City St Georges, University of London; Polytechnic University of Milan;
+   University of California System; University of California Davis;
+   University of California System; University of California Davis
+RP Bastos, M (corresponding author), City Univ London, Dept Sociol, Northampton Sq, London EC1 V0HB, England.
+EM marco.bastos@city.ac.uk; carlo.piccardi@polimi.it; malevy@ucdavis.edu;
+   nmcroberts@ucdavis.edu; mnlubell@ucdavis.edu
+RI Lubell, Mark/H-5018-2012; McRoberts, Neil/E-7778-2012; Bastos,
+   Marco/D-4616-2013
+OI Lubell, Mark/0000-0001-5757-7116; McRoberts, Neil/0000-0001-6346-9461;
+   Bastos, Marco/0000-0003-0480-1078; Piccardi, Carlo/0000-0002-8373-539X
+FU University of California Division of Agriculture and Natural Resources
+FX This work was supported by the University of California Division of
+   Agriculture and Natural Resources and carried out while the first author
+   was a postdoctoral researcher at the University of California, Davis.
+CR Ahuja MK, 1999, ORGAN SCI, V10, P741, DOI 10.1287/orsc.10.6.741
+   ALBRECHT TL, 1984, J COMMUN, V34, P78, DOI 10.1111/j.1460-2466.1984.tb02175.x
+   [Anonymous], FARM COMP US OWN NAT
+   [Anonymous], ARXIV14117091
+   [Anonymous], 1971, STABLE STATE PUBLIC
+   [Anonymous], J COMPUT MEDIATED CO
+   [Anonymous], DRUID 10 ANN SUMM C
+   [Anonymous], P SAAS AGR COMM SECT
+   [Anonymous], 2010, An integrated approach to communication theory and research
+   [Anonymous], 24 ACM C HYP SOC MED
+   Bakshy E., 2011, P 4 ACM INT C WEB SE, P65, DOI DOI 10.1145/1935826.1935845
+   Barberá P, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0143611
+   Borgatti SP, 1999, SOC NETWORKS, V21, P375
+   Boyd JP, 2006, SOC NETWORKS, V28, P165, DOI 10.1016/j.socnet.2005.06.003
+   Centola D, 2015, P NATL ACAD SCI USA, V112, P1989, DOI 10.1073/pnas.1418838112
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Chowdhury A, 2013, J RURAL COMMUNITY D, V8, P97
+   Clark WC, 2016, P NATL ACAD SCI USA, V113, P4570, DOI 10.1073/pnas.1601266113
+   Csardi Gabor NT., 2005, INT J COMPLEX SYST, V2006, P1695, DOI DOI 10.3724/SP.J.1087.2009.02191
+   Csermely P, 2013, J COMPLEX NETW, V1, P93, DOI 10.1093/comnet/cnt016
+   Cummings JN, 2003, SOC NETWORKS, V25, P197, DOI 10.1016/S0378-8733(02)00049-7
+   Della Rossa F, 2013, SCI REP-UK, V3, DOI 10.1038/srep01467
+   Delre S. A., 2007, Computational & Mathematical Organization Theory, V13, P185, DOI 10.1007/s10588-006-9007-2
+   Dorogovtsev SN, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.040601
+   Frahm KM, 2012, EUR PHYS J B, V85, DOI 10.1140/epjb/e2012-30599-6
+   Gabielkov Maksym., 2014, Studying Social Networks at Scale : Macroscopic Anatomy of the Twitter Social Graph
+   Gibbons DE, 2007, AM J PUBLIC HEALTH, V97, P1684, DOI 10.2105/AJPH.2005.063669
+   Grabowicz PA, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0029358
+   Hermans F, 2015, J AGRIC EDUC EXT, V21, P35, DOI 10.1080/1389224X.2014.991113
+   Holme P, 2005, PHYS REV E, V72, DOI 10.1103/PhysRevE.72.046111
+   Klerkx L., 2015, Innovation and Development, V5, P73, DOI DOI 10.1080/2157930X.2014.921268
+   Klerkx L, 2013, LAND USE POLICY, V30, P13, DOI 10.1016/j.landusepol.2012.02.003
+   Kwak H., WWW'10, DOI [10.1145/1772690.1772751, DOI 10.1145/1772690.1772751]
+   Liang H, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0134270
+   Lubell M, 2014, SOC NATUR RESOUR, V27, P1089, DOI 10.1080/08941920.2014.933496
+   Lubell M, 2011, ECOL SOC, V16, DOI 10.5751/ES-04389-160423
+   Mantzaris AV, 2014, EPJ DATA SCI, V3, DOI 10.1140/epjds/s13688-014-0026-9
+   Myers SA, 2014, WWW'14 COMPANION: PROCEEDINGS OF THE 23RD INTERNATIONAL CONFERENCE ON WORLD WIDE WEB, P493, DOI 10.1145/2567948.2576939
+   Newman MEJ, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.036122
+   Newman MEJ, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.066133
+   Newman MEJ, 2000, J STAT PHYS, V101, P819, DOI 10.1023/A:1026485807148
+   Piccardi C, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0027028
+   Pons P, 2005, LECT NOTES COMPUT SC, V3733, P284
+   Powers D.M., 2011, EVALUATION PRECISION, DOI DOI 10.48550/ARXIV.2010.16061
+   R core team, 2014, R LANG ENV STAT COMP
+   RICE RE, 1987, J COMMUN, V37, P65, DOI 10.1111/j.1460-2466.1987.tb01009.x
+   Rombach MP, 2014, SIAM J APPL MATH, V74, P167, DOI 10.1137/120881683
+   Romero D.M., 2011, Proceedings of the 20th international conference on World wide web, P695, DOI DOI 10.1145/1963405.1963503
+   Ryan B, 1943, RURAL SOCIOL, V8, P15
+   Shore J., 2016, NETWORK STRUCTURE PA
+   Sing T, 2005, BIOINFORMATICS, V21, P3940, DOI 10.1093/bioinformatics/bti623
+   Valente T.W., 1995, NETWORK MODELS DIFFU
+   Valente TW, 1996, SOC NETWORKS, V18, P69, DOI 10.1016/0378-8733(95)00256-1
+   VALENTE TW, 1995, SCI COMMUN, V16, P242, DOI 10.1177/1075547095016003002
+   van den Ban A.W., 1996, AGR EXTENSION
+   Verma T, 2016, NAT COMMUN, V7, DOI 10.1038/ncomms10441
+   Volkovich Yana., 2012, P INT AAAI C WEB SOC, P346
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Wu S., 2011, P 20 INT C WORLD WID, P705, DOI DOI 10.1145/1963405.1963504
+   Zhang X, 2015, PHYS REV E, V91, DOI 10.1103/PhysRevE.91.032803
+   Znidarsic A, 2017, SOC NETWORKS, V48, P46, DOI 10.1016/j.socnet.2016.06.001
+NR 61
+TC 17
+Z9 19
+U1 1
+U2 19
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JAN
+PY 2018
+VL 52
+BP 282
+EP 293
+DI 10.1016/j.socnet.2017.09.006
+PG 12
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA FO1DG
+UT WOS:000416496300026
+OA Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Shearer, JC
+   Lavis, J
+   Abelson, J
+   Walt, G
+   Dion, M
+AF Shearer, Jessica C.
+   Lavis, John
+   Abelson, Julia
+   Walt, Gill
+   Dion, Michelle
+TI Evidence-informed policymaking and policy innovation in a low-income
+   country: does policy network structure matter?
+SO EVIDENCE & POLICY
+LA English
+DT Article
+DE social network analysis; policymaking; policy analysis;
+   evidence-informed decision making
+ID PLAYERS
+AB The application of social network analysis to policy networks continues to grow, including the application of social network analysis tools and concepts in order to explain policy outcomes. Gaps in this field of study persist in terms of both policy issues studied, as well as types of polities or networks analysed. This study extends previous research on the role of network structure in shaping policy outcomes by analysing network structure's effect on the use of research evidence by three health policy networks in Burkina Faso, a low-income West African country, and the resulting innovativeness of the policies made. This comparative case study confirms certain hypotheses related to the effect of network closure and heterogeneity on evidence use and innovation; namely, that heterogeneous networks are more likely to be exposed to new ideas, and thus to use research evidence and adopt innovative policies. High levels of centralised control and power may support innovation when the new ideas are consistent with the dominant network paradigms; otherwise, new ideas may receive less traction. These findings confirm previous research and point to opportunities to shape networks to achieve innovation and policy change based on the best evidence.
+C1 [Shearer, Jessica C.] PATH, Seattle, WA 98121 USA.
+   [Lavis, John; Abelson, Julia; Dion, Michelle] McMaster Univ, Hamilton, ON, Canada.
+   [Walt, Gill] London Sch Hyg & Trop Med, London, England.
+C3 McMaster University; University of London; London School of Hygiene &
+   Tropical Medicine
+RP Shearer, JC (corresponding author), PATH, Seattle, WA 98121 USA.
+EM jshearer@path.org; lavisj@mcmaster.ca; abelsonj@mcmaster.ca;
+   gill.walt@lshtm.co.uk; dionm@mcmaster.ca
+RI Lavis, John/I-7555-2013; Dion, Michelle L./B-8523-2008
+OI Dion, Michelle L./0000-0002-0899-4009
+FU Canadian Institutes of Health Research (CIHR) Canada Graduate
+   Scholarship - Doctoral Award; UNICEF; USAID-TRAction; Canada IDRC's
+   Research Chair in Evidence Informed Policies and Systems
+FX The authors express deep gratitude to all study respondents in Burkina
+   Faso and beyond, and in particular to the colleagues in the Ministry of
+   Health who assisted in the logistics for this study. Funding for this
+   work was provided to JCS through the Canadian Institutes of Health
+   Research (CIHR) Canada Graduate Scholarship - Doctoral Award and through
+   UNICEF and USAID-TRAction. JCS and JNL received funding through Canada
+   IDRC's Research Chair in Evidence Informed Policies and Systems.
+CR [Anonymous], 2004, Joint statement on the clinical management of acute diarrhea
+   [Anonymous], 2001, Social capital: theory and research
+   [Anonymous], 2004, World report on knowledge for better health: strengthening health systems
+   [Anonymous], 2013, EVALUATING KNOWLEDGE
+   [Anonymous], 2011, HLTH POLICY PLAN S2, DOI DOI 10.1093/HEAP0L/CZR060
+   Atkinson M., 1992, Governance: An International Journal of Policy and Administration, V5, P154, DOI [DOI 10.1111/J.1468-0491.1992.TB00034.X, https://doi.org/10.1111/j.1468-0491.1992.tb00034.x]
+   BEYER JM, 1982, ADMIN SCI QUART, V27, P591, DOI 10.2307/2392533
+   Borgatti SP, 2003, MANAGE SCI, V49, P432, DOI 10.1287/mnsc.49.4.432.14428
+   Bryce J, 2003, LANCET, V362, P159, DOI 10.1016/S0140-6736(03)13870-6
+   Burt RS, 2004, AM J SOCIOL, V110, P349, DOI 10.1086/421787
+   Buskens Vincent., 2002, SOCIAL NETWORKS TRUS
+   Coleman W., 1990, Policy Communities and Public Policy in Canada: A Structural Approach, P14
+   Coleman WilliamD., 1996, Journal of Public Policy, V16, P273, DOI DOI 10.1017/S0143814X00007777
+   Contandriopoulos D, 2010, MILBANK Q, V88, P444, DOI 10.1111/j.1468-0009.2010.00608.x
+   Derme S, 2007, AVIS TECHNIQUE COUTS
+   Deshpande RZG, 1982, MARK RES, V19, P1
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   Gerring J, 2004, AM POLIT SCI REV, V98, P341
+   HALL PA, 1993, COMP POLIT, V25, P275, DOI 10.2307/422246
+   Hansen MT, 2002, ORGAN SCI, V13, P232, DOI 10.1287/orsc.13.3.232.2771
+   Howlett M, 2002, CAN J POLIT SCI, V35, P235, DOI 10.1017/S0008423902778232
+   Hyden Goran., 2006, African Politics in Comparative Perspective, P72
+   Inkpen AC, 2005, ACAD MANAGE REV, V30, P146, DOI [10.5465/AMR.2005.15281445, 10.2307/20159100]
+   Jones G, 2003, LANCET, V362, P65, DOI 10.1016/S0140-6736(03)13811-1
+   Knoke D., 2008, QUANTITATIVE APPL SO, V154
+   Knoke D., 1990, Political Networks
+   Kouanda S, 2010, AIDS CARE, V22, P1146, DOI 10.1080/09540121003605047
+   Lavis John, 2005, J Health Serv Res Policy, V10 Suppl 1, P35, DOI 10.1258/1355819054308549
+   Lazer D, 2011, PS-POLIT SCI POLIT, V44, P61, DOI 10.1017/S1049096510001873
+   Lewis JM, 2006, SOC SCI MED, V62, P2125, DOI 10.1016/j.socscimed.2005.10.004
+   Lubell M, 2012, POLICY STUD J, V40, P351, DOI 10.1111/j.1541-0072.2012.00457.x
+   Marsh D, 2000, POLIT STUD-LONDON, V48, P4, DOI 10.1111/1467-9248.00247
+   Marsh David., 1998, Comparing Policy Networks
+   Mathews JT, 1997, FOREIGN AFF, V76, P50, DOI 10.2307/20047909
+   Oliver K, 2014, BMC HEALTH SERV RES, V14, DOI 10.1186/1472-6963-14-2
+   PROVAN KG, 1995, ADMIN SCI QUART, V40, P1, DOI 10.2307/2393698
+   Reagans R, 2003, ADMIN SCI QUART, V48, P240, DOI 10.2307/3556658
+   Rogers E. M., 1971, Communication of innovations: a cross-cultural approach.
+   Rogers E.M., 2003, DIFFUSION INNOVATION
+   Sandström A, 2008, POLICY STUD J, V36, P497, DOI 10.1111/j.1541-0072.2008.00281.x
+   Sante CMLS, 2009, NOTE TECHNIQUE GRATU
+   Seawright J, 2008, POLIT RES QUART, V61, P294, DOI 10.1177/1065912907313077
+   Shearer JC, 2015, HLTH POLICY PLANN S2, V30
+   Shearer JC, 2016, HEALTH POLICY PLANN, V31, P1200, DOI 10.1093/heapol/czw052
+   Shearer JC, 2014, IMPLEMENT SCI, V9, DOI 10.1186/s13012-014-0126-8
+   Sirima SB, 2009, MALARIA J, V8, DOI 10.1186/1475-2875-8-48
+   Stone D, 2008, POLICY STUD J, V36, P19, DOI 10.1111/j.1541-0072.2007.00251.x
+   Tiono AB, 2008, MALARIA J, V7, DOI 10.1186/1475-2875-7-201
+   TSEBELIS G, 1995, BRIT J POLIT SCI, V25, P289, DOI 10.1017/S0007123400007225
+   *UNICEF, 2005, FIN REP CIDA ACC CHI
+   Woelk Godfrey, 2009, Health Res Policy Syst, V7, P31, DOI 10.1186/1478-4505-7-31
+   Yin RK, 1999, HEALTH SERV RES, V34, P1209
+NR 52
+TC 10
+Z9 11
+U1 1
+U2 13
+PU POLICY PRESS
+PI BRISTOL
+PA UNIV BRISTOL, 1-9 OLD PARK HILL, BRISTOL BS2 8BB, ENGLAND
+SN 1744-2648
+EI 1744-2656
+J9 EVID POLICY
+JI Evid. Polciy
+PD AUG
+PY 2018
+VL 14
+IS 3
+SI SI
+BP 381
+EP 401
+DI 10.1332/174426418X15330477583836
+PG 21
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA GT3EZ
+UT WOS:000444384600002
+DA 2024-11-22
+ER
+
+PT J
+AU Kopp, C
+   Korb, KB
+   Mills, BI
+AF Kopp, Carlo
+   Korb, Kevin B.
+   Mills, Bruce, I
+TI Information-theoretic models of deception: Modelling cooperation and
+   diffusion in populations exposed to "fake news"
+SO PLOS ONE
+LA English
+DT Article
+ID RUMOR SPREADING MODEL; ONLINE SOCIAL NETWORKS; HYPERGAMES; EVOLUTION
+AB The modelling of deceptions in game theory and decision theory has not been well studied, despite the increasing importance of this problem in social media, public discourse, and organisational management. This paper presents an improved formulation of the extant information-theoretic models of deceptions, a framework for incorporating these models of deception into game and decision theoretic models of deception, and applies these models and this framework in an agent based evolutionary simulation that models two very common deception types employed in "fake news" attacks. The simulation results for both deception types modelled show, as observed empirically in many social systems subjected to "fake news" attacks, that even a very small population of deceivers that transiently invades a much larger population of non-deceiving agents can strongly alter the equilibrium behaviour of the population in favour of agents playing an always defect strategy. The results also show that the ability of a population of deceivers to establish itself or remain present in a population is highly sensitive to the cost of the deception, as this cost reduces the fitness of deceiving agents when competing against non-deceiving agents. Diffusion behaviours observed for agents exploiting the deception producing false beliefs are very close to empirically observed behaviours in social media, when fitted to epidemiological models. We thus demonstrate, using the improved formulation of the information-theoretic models of deception, that agent based evolutionary simulations employing the Iterated Prisoner's Dilemma can accurately capture the behaviours of a population subject to deception attacks introducing uncertainty and false perceptions, and show that information-theoretic models of deception have practical applications beyond trivial taxonomical analysis.
+C1 [Kopp, Carlo; Korb, Kevin B.] Monash Univ, Fac Informat Technol, Data Sci Res Grp, Clayton, Vic, Australia.
+   [Mills, Bruce, I] Univ Western Australia, Sch Math & Stat, Nedlands, WA, Australia.
+C3 Monash University; University of Western Australia
+RP Kopp, C (corresponding author), Monash Univ, Fac Informat Technol, Data Sci Res Grp, Clayton, Vic, Australia.
+EM Carlo.Kopp@monash.edu
+OI Kopp, Carlo/0000-0003-0742-3383
+CR [Anonymous], 1999, Psychology of Intelligence Analysis
+   [Anonymous], 2005, Journal of Information Warfare
+   AXELROD R, 1981, SCIENCE, V211, P1390, DOI 10.1126/science.7466396
+   Axelrod R., 1997, COMPLEXITY COOPERATI, P30
+   Bagchi D., 2016, PRINTING PROPAGANDA, DOI [10.1093/acrefore/9780199340378.001.0001/acrefore-9780199340378-e-269, DOI 10.1093/ACREFORE/9780199340378.001.0001/ACREFORE-9780199340378-E-269]
+   BENDOR J, 1993, J CONFLICT RESOLUT, V37, P709, DOI 10.1177/0022002793037004007
+   BENNETT PG, 1980, J OPER RES SOC, V31, P621, DOI 10.2307/2580852
+   BENNETT PG, 1982, J OPER RES SOC, V33, P41, DOI 10.1057/jors.1982.5
+   BENNETT PG, 1980, FUTURES, V12, P489, DOI 10.1016/0016-3287(80)90005-1
+   BENNETT PG, 1977, OMEGA-INT J MANAGE S, V5, P749, DOI 10.1016/0305-0483(77)90056-1
+   BENNETT PG, 1979, J OPER RES SOC, V30, P23, DOI 10.2307/3009663
+   Berne E., 1964, GAMES PEOPLE PLAY
+   Bettencourt LMA, 2006, PHYSICA A, V364, P513, DOI 10.1016/j.physa.2005.08.083
+   Borden A., 1999, AEROSPACE POWER CHRO, V1999, P1
+   Bounegru L., 2017, A field guide to "fake news" and other information disorders
+   Bowyer Bell J., 1991, Cheating and deception
+   Brumley L, 2006, P 7 AUSTR INF WARF S, P18
+   Brumley L., 2012, AIR POWER AUST ANALY, VIX, P1
+   Brumley L, 2005, P 6 AUSTR INF WARF S, P71
+   Brumley LN, 2014, MISPERCEPTION ITS EV
+   Bunn G, 2015, ISIS, V106, P475, DOI 10.1086/682802
+   Campan A, 2017, IEEE INT CONF BIG DA, P4453, DOI 10.1109/BigData.2017.8258484
+   Conover MD, 2012, EPJ DATA SCI, V1, DOI 10.1140/epjds6
+   Czaran T, 2007, BEHAV ECOL, V18, P866, DOI 10.1093/beheco/arm061
+   Czárán T, 2009, PLOS ONE, V4, DOI 10.1371/journal.pone.0006655
+   Dawkins R., 1982, pi
+   Declerck CH, 2014, J SOC PSYCHOL, V154, P74, DOI 10.1080/00224545.2013.855158
+   Dewar James A., 2000, Ubiquity, V2000, P1, DOI DOI 10.1145/347634.348784
+   Dunbar RIM, 2015, SOC NETWORKS, V43, P39, DOI 10.1016/j.socnet.2015.04.005
+   Ettinger D, 2010, AM ECON J-MICROECON, V2, P1, DOI 10.1257/mic.2.1.1
+   Flaherty CJ, 2003, AUSTR ARMY J, V1, P11
+   Fleming P, 2008, J BUS ETHICS, V81, P837, DOI 10.1007/s10551-007-9551-9
+   Flynn DJ, 2017, POLIT PSYCHOL, V38, P127, DOI 10.1111/pops.12394
+   Fornaciari T, 2016, P 2 WORKSH COMP LING
+   Fraser N.M., 1984, Conflict analysis: Models and resolutions
+   Geanakoplos J., 1989, Games and Economic Behavior, V1, P60, DOI [10.1016/0899-8256(89)90005-5, DOI 10.1016/0899-8256(89)90005-5]
+   GRAFEN A, 1990, J THEOR BIOL, V144, P517, DOI 10.1016/S0022-5193(05)80088-8
+   GREENBERG I, 1982, J CONFLICT RESOLUT, V26, P139, DOI 10.1177/0022002782026001005
+   Greenberg I., 1982, Operations Research Letters, V1, P144, DOI 10.1016/0167-6377(82)90017-7
+   Guala F, 2006, J PHILOS, V103, P239, DOI 10.5840/jphil2006103532
+   Haswell J., 1985, TANGLED WEB ART TACT
+   Hemsley Jeff, 2016, First Monday, V21, DOI 10.5210/fm.v21i8.6650
+   Higham JP, 2014, BEHAV ECOL, V25, P8, DOI 10.1093/beheco/art097
+   Isea R, 2017, INT J DATA SCI ANAL, V3, P28, DOI [DOI 10.11648/J.IJDSA.20170304.12FF.FFHAL-03521046F, 10.11648/j.ijdsa, DOI 10.11648/J.IJDSA, 10.11648/j. ijdsa.20170304.12, DOI 10.11648/J.IJDSA.20170304.12]
+   Islam MM, 2005, P 6 AUSTR INFOWAR C, P71
+   Jehiel P, 2007, THEORY DECEPTION
+   Jin F., 2013, P 7 WORKSH SOC NETW, P1, DOI [DOI 10.1145/2501025.2501027, 10.1145/2501025.2501027]
+   JOHNSTONE RA, 1993, ANIM BEHAV, V46, P759, DOI 10.1006/anbe.1993.1253
+   Khaldarova I, 2016, JOURNAL PRACT, V10, P891, DOI 10.1080/17512786.2016.1163237
+   Kopp C., 2000, P 3 INT ASS OLD CROW, P1
+   Kopp C., 2000, SYSTEMS ENTERPRI FEB, P46
+   Kopp C, 2002, P 3 AUSTR INF WARF S, P352
+   Kopp C., 2006, P 7 AUSTR INF WARF S, P62
+   Kopp C, 2005, P 6 AUSTR INF WARF S, P81
+   Kopp C., 2009, DEFENCE TODAY, V7, P46
+   KULLBACK S, 1951, ANN MATH STAT, V22, P79, DOI 10.1214/aoms/1177729694
+   Kurokawa S, 2017, MATH BIOSCI, V289, P20, DOI 10.1016/j.mbs.2017.04.002
+   Lazer DMJ, 2018, SCIENCE, V359, P1094, DOI 10.1126/science.aao2998
+   Le S, 2007, J THEOR BIOL, V245, P258, DOI 10.1016/j.jtbi.2006.09.016
+   Li DX, 2009, DECIS SUPPORT SYST, V47, P518, DOI 10.1016/j.dss.2009.05.001
+   Li M, 2004, IEEE T INFORM THEORY, V50, P3250, DOI 10.1109/TIT.2004.838101
+   Lin D., 1998, P 15 INT C MACH LEAR, V98, P296, DOI DOI 10.5555/645527.657297
+   Mikhailov A. P., 2017, Mathematical Models and Computer Simulations, V9, P580, DOI 10.1134/S2070048217050106
+   MOLANDER P, 1985, J CONFLICT RESOLUT, V29, P611, DOI 10.1177/0022002785029004004
+   Mussumeci E, 2017, CORR
+   Nekovee M, 2007, PHYSICA A, V374, P457, DOI 10.1016/j.physa.2006.07.017
+   Nielsen R.K., 2017, NEWS YOU DONT BELIEV
+   Ohtsuki H, 2009, NATURE, V457, P79, DOI 10.1038/nature07601
+   Paul C., 2016, RUSSIAN FIREHOSE FAL
+   Petrov A. P., 2016, Mathematical Models and Computer Simulations, V8, P401, DOI 10.1134/S2070048216040141
+   Poisel RA, 2013, ARTECH HSE ELEC WARF, P1
+   Pomerantsev P., 2014, THE INTERPRETER, V2014
+   Roozenbeek J, 2019, J RISK RES, V22, P570, DOI 10.1080/13669877.2018.1443491
+   Santos E, 2004, P SOC PHOTO-OPT INS, V5423, P130, DOI 10.1117/12.547296
+   Sewell Martin., 2010, Proceedings of the Behavioural Finance Working Group Conference: Fairness, Trust and Emotions in Finance, P1
+   Shalizi CR, 2010, COURSE RANDOM PROCES
+   SHANNON CE, 1948, BELL SYST TECH J, V27, P379, DOI DOI 10.1002/J.1538-7305.1948.TB01338.X
+   Shannon CE., 1949, MATH THEORY COMMUNIC
+   Shannon Kopp C., 2003, J INFORM WARFARE, V2, P108
+   SPENCE M, 1973, Q J ECON, V87, P355, DOI 10.2307/1882010
+   SPENCER J, 1973, AM MATH MON, V80, P416, DOI 10.2307/2319089
+   Subramanian S., 2017, Inside the Macedonian Fake-News Complex, Wired
+   Számadó S, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0147623
+   Számadó S, 2015, ANIM BEHAV, V110, pE9, DOI 10.1016/j.anbehav.2015.06.005
+   Számadó S, 2011, ANIM BEHAV, V81, P3, DOI 10.1016/j.anbehav.2010.08.022
+   Trivers R, 2000, ANN NY ACAD SCI, V907, P114
+   Vane R, 2002, AUTON AGENT MULTI-AG, V5, P365, DOI 10.1023/A:1015560508288
+   Vane R, 2002, MU S ART SOC SIM ORG, V5, P315
+   Vane RR, 2000, USING HYPERGAMES SEL
+   Vitányi PMB, 2013, PHILOS T R SOC A, V371, DOI 10.1098/rsta.2012.0091
+   Volstorf J., 2013, AGAINST ALL NOISE
+   Wardle C., 2017, Fake News
+   Werning S., 2009, KULTUR MEDIENTHEORIE
+   Whaley B, 2015, PRACTISE DECEIVE LEA
+   Wilensky U., 2015, An introduction to agent-based modeling: modeling natural, social, and engineered complex systems with NetLogo
+   ZAHAVI A, 1975, J THEOR BIOL, V53, P205, DOI 10.1016/0022-5193(75)90111-3
+   Zhao LJ, 2013, PHYSICA A, V392, P995, DOI 10.1016/j.physa.2012.09.030
+   Zhao LJ, 2012, PHYSICA A, V391, P2444, DOI 10.1016/j.physa.2011.12.008
+   Zhao LJ, 2011, PHYSICA A, V390, P2619, DOI 10.1016/j.physa.2011.03.010
+   Zubiaga A, 2015, CORR
+NR 100
+TC 24
+Z9 28
+U1 3
+U2 34
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD NOV 28
+PY 2018
+VL 13
+IS 11
+AR e0207383
+DI 10.1371/journal.pone.0207383
+PG 35
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA HC4EO
+UT WOS:000451755800066
+PM 30485356
+OA Green Published, Green Submitted, gold
+DA 2024-11-22
+ER

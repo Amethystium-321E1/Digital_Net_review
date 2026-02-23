@@ -1,0 +1,564 @@
+
+PT J
+AU Elovici, Y
+   Fire, M
+   Herzberg, A
+   Shulman, H
+AF Elovici, Yuval
+   Fire, Michael
+   Herzberg, Amir
+   Shulman, Haya
+TI Ethical Considerations when Employing Fake Identities in Online Social
+   Networks for Research
+SO SCIENCE AND ENGINEERING ETHICS
+LA English
+DT Article
+DE Online social network; Fake profile; Ethics; Data mining
+AB Online social networks (OSNs) have rapidly become a prominent and widely used service, offering a wealth of personal and sensitive information with significant security and privacy implications. Hence, OSNs are also an important-and popular-subject for research. To perform research based on real-life evidence, however, researchers may need to access OSN data, such as texts and files uploaded by users and connections among users. This raises significant ethical problems. Currently, there are no clear ethical guidelines, and researchers may end up (unintentionally) performing ethically questionable research, sometimes even when more ethical research alternatives exist. For example, several studies have employed "fake identities" to collect data from OSNs, but fake identities may be used for attacks and are considered a security issue. Is it legitimate to use fake identities for studying OSNs or for collecting OSN data for research? We present a taxonomy of the ethical challenges facing researchers of OSNs and compare different approaches. We demonstrate how ethical considerations have been taken into account in previous studies that used fake identities. In addition, several possible approaches are offered to reduce or avoid ethical misconducts. We hope this work will stimulate the development and use of ethical practices and methods in the research of online social networks.
+C1 [Elovici, Yuval; Fire, Michael] Ben Gurion Univ Negev, Dept Informat Syst Engn, Telekom Innovat Labs, IL-84105 Beer Sheva, Israel.
+   [Herzberg, Amir] Bar Ilan Univ, Dept Comp Sci, Ramat Gan, Israel.
+   [Shulman, Haya] Tech Univ Darmstadt, Fachbereich Informat, EC SPRIDE, Darmstadt, Germany.
+C3 Ben Gurion University; Bar Ilan University; Technical University of
+   Darmstadt
+RP Fire, M (corresponding author), Ben Gurion Univ Negev, Dept Informat Syst Engn, Telekom Innovat Labs, IL-84105 Beer Sheva, Israel.
+EM elovici@bgu.ac.il; mickyfi@bgu.ac.il; amir.herzberg@gmail.com;
+   haya.shulman@gmail.com
+OI Herzberg, Amir/0000-0001-5586-5261; Fire, Michael/0000-0002-6075-2568
+CR Altshuler Yaniv, 2012, Social Computing, Behavioral-Cultural Modeling and Prediction. Proceedings of the 5th International Conference, SBP 2012, P97, DOI 10.1007/978-3-642-29047-3_12
+   [Anonymous], 2010, P WSDM
+   [Anonymous], 2012, P 21 USENIX C SEC S
+   [Anonymous], 2012, IEEE 27 CONV EL EL E
+   [Anonymous], FIRST MONDAY
+   Athanasopoulos E, 2008, LECT NOTES COMPUT SC, V5222, P146, DOI 10.1007/978-3-540-85886-7_10
+   BGU Social Networks Security Research Group, 2013, BGU SOCIAL NETWORKS
+   Boshmaf Y, 2011, 27TH ANNUAL COMPUTER SECURITY APPLICATIONS CONFERENCE (ACSAC 2011), P93
+   CAIDA, 2012, ANONYMIZED INTERNET
+   Elishar A., 2012, PROCEEDINGS OF ASE I
+   Eynon R., 2009, 21st Century Society: Journal of the Academy of Social Sciences, V4, P187
+   Eynon R., 2008, The Sage handbook of online research methods, P23
+   Eysenbach G, 2001, BRIT MED J, V323, P1103, DOI 10.1136/bmj.323.7321.1103
+   Fire M., 2011, Proceedings of the 2011 IEEE Third International Conference on Privacy, Security, Risk and Trust and IEEE Third International Conference on Social Computing (PASSAT/SocialCom 2011), P73, DOI 10.1109/PASSAT/SocialCom.2011.20
+   Fire M., 2013, ARXIV PREPRINT
+   Fire M., 2012, P 2 INT C SOC EC SOT, P46
+   Fire M., 2012, HUMAN J, V1, P26
+   Flicker S, 2004, QUAL HEALTH RES, V14, P124, DOI 10.1177/1049732303259842
+   Herzberg A., 2013, CYBERSECURITY RESEAR
+   Herzberg A, 2011, LECT NOTES COMPUT SC, V6879, P452, DOI 10.1007/978-3-642-23822-2_25
+   HUBER M., 2011, Proceedings of the 27th annual computer security applications conference, P113
+   Huber M, 2011, IEEE INTERNET COMPUT, V15, P28, DOI 10.1109/MIC.2011.24
+   Kontaxis G., 2011, 2011 IEEE International Conference on Pervasive Computing and Communications Workshops (PerCom Workshops 2011). PerCom-Workshops 2011: 2011 IEEE International Conference on Pervasive Computing and Communications Workshops (PERCOM Workshops 2011), P295, DOI 10.1109/PERCOMW.2011.5766886
+   Kunegis J., 2013, KONECT THE KOBLENZ N
+   Kwak H., WWW'10, DOI [10.1145/1772690.1772751, DOI 10.1145/1772690.1772751]
+   Liu Y., 2011, Proceedings of the 2011 ACM SIGCOMM conference on Internet measurement conference, P61, DOI [10.1145/2068816.2068823, DOI 10.1145/2068816.2068823]
+   Lucas R., 2012, SOTICS 2012 THE SECO, P1
+   Microsoft-Research, 2013, LETOR LEARNING TO RA
+   Mislove A, 2007, IMC'07: PROCEEDINGS OF THE 2007 ACM SIGCOMM INTERNET MEASUREMENT CONFERENCE, P29
+   Narayanan A, 2011, 2011 INTERNATIONAL JOINT CONFERENCE ON NEURAL NETWORKS (IJCNN), P1825, DOI 10.1109/IJCNN.2011.6033446
+   Pontes T, 2012, UBICOMP'12: PROCEEDINGS OF THE 2012 ACM INTERNATIONAL CONFERENCE ON UBIQUITOUS COMPUTING, P898
+   Rosenberg A., 2010, International Journal of Internet Research Ethics, V3, P23
+   Rydstedt G, 2010, IEEE OAKLAND WEB 2
+   Shmatikov V., 2006, ARXIV PREPRINT CS 06
+   Stanford, 2013, STANFORD LARGE NETWO
+   Taylor C., 2012, STARTUP CLAIMS 80 BO
+   Thelwall M, 2006, J AM SOC INF SCI TEC, V57, P1771, DOI 10.1002/asi.20388
+   Wilkinson D, 2011, SOC SCI COMPUT REV, V29, P387, DOI 10.1177/0894439310378979
+   Zafarani R., 2009, SOCIAL COMPUTING DAT
+   Zimmer M, 2010, ETHICS INF TECHNOL, V12, P313, DOI 10.1007/s10676-010-9227-5
+NR 40
+TC 18
+Z9 27
+U1 1
+U2 28
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1353-3452
+EI 1471-5546
+J9 SCI ENG ETHICS
+JI Sci. Eng. Ethics
+PD DEC
+PY 2014
+VL 20
+IS 4
+BP 1027
+EP 1043
+DI 10.1007/s11948-013-9473-0
+PG 17
+WC Ethics; Engineering, Multidisciplinary; History & Philosophy Of Science;
+   Multidisciplinary Sciences; Philosophy
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics; Engineering; History & Philosophy of
+   Science; Science & Technology - Other Topics; Philosophy
+GA AU0UA
+UT WOS:000345338900013
+PM 24218141
+DA 2024-11-22
+ER
+
+PT J
+AU Krinsky, J
+   Crossley, N
+AF Krinsky, John
+   Crossley, Nick
+TI Social Movements and Social Networks: Introduction
+SO SOCIAL MOVEMENT STUDIES
+LA English
+DT Editorial Material
+DE Social movement networks; diffusion; brokerage; power and leadership;
+   repertoire change
+ID MULTIPLE NETWORKS; COLLECTIVE ACTION; MOBILIZATION; DIFFUSION; PROTEST;
+   RECRUITMENT; IDENTITY; PEOPLE; ROLES; TIES
+AB In this Introduction we provide a brief literature review of work on social networks and social movements, a brief introduction to certain key concepts and debates in social network analysis, and a brief introduction to the articles which follow in the special issue.
+C1 [Krinsky, John] CUNY, Dept Polit Sci, New York, NY USA.
+   [Crossley, Nick] Univ Manchester, Dept Sociol, Manchester, Lancs, England.
+C3 City University of New York (CUNY) System; University of Manchester
+RP Crossley, N (corresponding author), Univ Manchester, Dept Sociol, Manchester, Lancs, England.
+EM nick.crossley@manchester.ac.uk
+OI Crossley, Nick/0000-0003-0969-9121
+CR Andrews KT, 2006, AM SOCIOL REV, V71, P752, DOI 10.1177/000312240607100503
+   [Anonymous], GREEN NETWORKS
+   [Anonymous], 2002, UCINET WINDOWS
+   [Anonymous], 1992, Domination and the Art of Resistance: Hidden Transcripts
+   [Anonymous], 1993, RELATIONS RHETORICS
+   [Anonymous], 1994, FEMINIST GENERATIONS
+   [Anonymous], 1989, Sociological Methodology, DOI DOI 10.2307/270949
+   [Anonymous], RULES RADICALS REALI
+   Auyero J, 1999, THEOR SOC, V28, P297, DOI 10.1023/A:1006905214896
+   Barker Colin., 2001, Passionate politics: Emotions and social movements
+   BEARMAN PS, 1993, SOC NETWORKS, V15, P171, DOI 10.1016/0378-8733(93)90004-5
+   Bearman PS, 2000, POETICS, V27, P69, DOI 10.1016/S0304-422X(99)00022-4
+   Biggs M, 2006, MOBILIZATION, V11, P241
+   Borgatti SP, 1997, SOC NETWORKS, V19, P243, DOI 10.1016/S0378-8733(96)00301-2
+   Broadbent J., 2003, Social Movements and Networks: Relational Approaches to Collective Action
+   Burt R.S., 2007, Brokerage and closure: An introduction to social capital
+   Coleman J.S., 1988, Sociological Theory, V6, P52, DOI [DOI 10.2307/201913, 10.2307/201913]
+   Coleman J.S., 1994, FDN SOCIAL THEORY
+   Crossley N, 2007, SOCIOL COMPASS, V1, P222, DOI 10.1111/j.1751-9020.2007.00003.x
+   Crossley N, 2010, SOCIOLOGICA, DOI 10.2383/32049
+   Crossley N, 2012, SOC NETWORKS, V34, P634, DOI 10.1016/j.socnet.2012.07.004
+   Crossley N, 2012, SOCIOLOGY, V46, P596, DOI 10.1177/0038038511425560
+   Edwards G., 2009, MIXED METHOD APPROAC
+   EMIRBAYER M, 1994, AM J SOCIOL, V99, P1411, DOI 10.1086/230450
+   Everett M., 1998, CONNECTIONS, V21, P49
+   EVERETT MG, 1994, J MATH SOCIOL, V19, P29, DOI 10.1080/0022250X.1994.9990134
+   FERNANDEZ RM, 1988, SOCIOL FORUM, V3, P357, DOI 10.1007/BF01116431
+   Fischer C.S., 1982, DWELL FRIENDS
+   Franzosi R, 1997, THEOR SOC, V26, P275, DOI 10.1023/A:1006888810997
+   FREEMAN JO, 1972, Berkeley Journal of Sociology, V17, P151
+   Ganz M, 2000, AM J SOCIOL, V105, P1003, DOI 10.1086/210398
+   Goodwin J, 1997, AM SOCIOL REV, V62, P53, DOI 10.2307/2657452
+   Gould Roger., 2003, COMP HIST ANAL SOCIA, P241, DOI DOI 10.1017/CBO9780511803963.008
+   Gould Roger V., 1995, Insurgent Identities: Class, Community, and Protest in Paris from 1848 to the Commune
+   GOULD RV, 1991, AM SOCIOL REV, V56, P716, DOI 10.2307/2096251
+   GOULD RV, 1993, AM SOCIOL REV, V58, P182, DOI 10.2307/2095965
+   HEDSTROM P, 1994, AM J SOCIOL, V99, P1157, DOI 10.1086/230408
+   Hedström P, 2000, AM J SOCIOL, V106, P145, DOI 10.1086/303109
+   JASPER JM, 1995, SOC PROBL, V42, P493, DOI 10.1525/sp.1995.42.4.03x0129y
+   Kitts JamesA., 2000, MOBILIZATION, V5, P241, DOI [10.17813/maiq.5.2.5408016w34215787, DOI 10.17813/MAIQ.5.2.5408016W34215787]
+   Krinsky J., 2007, Free labor: workfare and the contested language of neoliberalism
+   Krinsky J, 2013, ANNU REV SOCIOL, V39, P1, DOI 10.1146/annurev-soc-071312-145547
+   Krinsky J, 2010, POETICS, V38, P625, DOI 10.1016/j.poetic.2010.09.001
+   Lizardo O., 2008, ORGTHEORY
+   Lopez Jose., 2000, SOCIAL STRUCTURE
+   Marwell G, 1993, The critical mass in collective action
+   MCADAM D, 1986, AM J SOCIOL, V92, P64, DOI 10.1086/228463
+   MCADAM D, 1993, AM J SOCIOL, V99, P640, DOI 10.1086/230319
+   MCADAM D, 1989, AM SOCIOL REV, V54, P744, DOI 10.2307/2117751
+   McAdam Doug., 1999, POLITICAL PROCESS DE, V2nd
+   McAdam Doug., 2003, Dynamics of Contention
+   MCCARTHY JD, 1977, AM J SOCIOL, V82, P1212, DOI 10.1086/226464
+   McCarthy JohnD., 2005, Routing the Opposition: Social Movements, Public Policy, and Democracy, P87
+   MEYER DS, 1994, SOC PROBL, V41, P277, DOI 10.1525/sp.1994.41.2.03x0438v
+   Mische Ann., 2003, Social Movements and Networks: Relational Approaches to Collective Action, P258
+   Mohr JW, 2000, POETICS, V28, P47, DOI 10.1016/S0304-422X(00)00024-3
+   MOHR JW, 1994, POETICS, V22, P327, DOI 10.1016/0304-422X(94)90013-2
+   Morris A., 1984, ORIGIN CIVIL RIGHTS
+   Ohlemacher T, 1996, SOC PROBL, V43, P197, DOI 10.1525/sp.1996.43.2.03x0205w
+   Oliver PamelaE., 2003, SOCIAL MOVEMENTS NET, P173
+   Passy F., 2003, SOCIAL MOVEMENTS NET, DOI DOI 10.1093/0199251789.001.0001
+   Passy Florence., 2001, Mobilization: An International Quarterly, V6, P173, DOI DOI 10.17813/MAIQ.6.2.V6U4WG67X87W943H
+   Pfaff S, 1996, SOC FORCES, V75, P91, DOI 10.2307/2580758
+   Polletta F, 1998, SOC PROBL, V45, P137, DOI 10.1525/sp.1998.45.2.03x0163g
+   Robnett Belinda., 1997, How Long? How Long? African-American Women in the Struggle for Civil Rights
+   Sandell R, 1999, ACTA SOCIOL, V42, P3, DOI 10.1177/000169939904200101
+   Saunders C., 2007, Graduate Journal of Social Science, V4, P109
+   Saunders C, 2008, SOCIAL MOVEMENT STUD, V6, P227
+   SNOW DA, 1980, AM SOCIOL REV, V45, P787, DOI 10.2307/2094895
+   TAYLOR V, 1989, AM SOCIOL REV, V54, P761, DOI 10.2307/2117752
+   Thompson E.P., 1966, The Making of the English Working Class
+   Tilly C, 1997, THEOR SOC, V26, P245, DOI 10.1023/A:1006836012345
+   Tilly Charles., 2003, SOCIAL MOVEMENTS NET, P147
+   Tilly Charles., 1978, From Mobilisation to Revolution
+   Tilly Charles., 2005, Identities, boundaries, and social ties
+   Vedres B., 2002, WORKING PAPER
+   Voloshinov V.N., 1973, MARXISM PHILOS LANGU
+   Wada T, 2012, SOC PROBL, V59, P544, DOI 10.1525/sp.2012.59.4.544
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   WHITE HC, 1976, AM J SOCIOL, V81, P730, DOI 10.1086/226141
+NR 80
+TC 76
+Z9 105
+U1 3
+U2 103
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1474-2837
+EI 1474-2829
+J9 SOC MOVEMENT STUD
+JI Soc. Mov. Stud.
+PY 2014
+VL 13
+IS 1
+SI SI
+BP 1
+EP 21
+DI 10.1080/14742837.2013.862787
+PG 21
+WC Political Science; Sociology
+WE Social Science Citation Index (SSCI)
+SC Government & Law; Sociology
+GA AO8CW
+UT WOS:000341581500001
+DA 2024-11-22
+ER
+
+PT J
+AU Davis, JL
+AF Davis, Jenny L.
+TI Triangulating the Self: Identity Processes in a Connected Era
+SO SYMBOLIC INTERACTION
+LA English
+DT Article
+DE self; identity; authenticity; social media; triangulation
+ID COMPUTER-MEDIATED COMMUNICATION; GOES ONLINE; INTERNET; AUTHENTICITY;
+   FACEBOOK; CONSTRUCTION; SITES; WORK
+AB The increasing prevalence of digital social technologies in everyday life affects processes of self and identity in theoretically and empirically interesting ways. Based on face-to-face interviews (N=17) and synchronous text-based exchanges (N=32) from a Facebook-based population, I examine the conditions of identity negotiation in a networked era, and explore how social actors strike a presentational balance between ideal and authentic. I identify three key interaction conditions: fluidity between digital and physical, expectations of accuracy, and overlapping social networks. I argue that social actors accomplish the ideal-authentic balance through self-triangulation, presenting a coherent image in multiple arenas and through multiple media. I differentiate between two degrees of triangulation: networked logic and preemptive action.
+C1 [Davis, Jenny L.] James Madison Univ, Harrisonburg, VA 22807 USA.
+C3 James Madison University
+RP Davis, JL (corresponding author), James Madison Univ, Dept Sociol & Anthropol, Sheldon Hall,MSC 7501, Harrisonburg, VA 22807 USA.
+EM Davis5jl@jmu.edu
+RI Davis, Jenny L/P-1898-2017
+OI Davis, Jenny L/0000-0003-0952-5842
+CR Anderson KJ, 2001, J AM COLL HEALTH, V50, P21, DOI 10.1080/07448480109595707
+   [Anonymous], SIGCHI C HUM FACT CO
+   [Anonymous], 44 HAW INT C SYST SC
+   [Anonymous], FAUX VINTAGE PHOTO D
+   [Anonymous], ALCOHOLIC SELF
+   [Anonymous], 2011, SOCIAL NETWORKINGSIT
+   [Anonymous], 65 ADULTS USE SOCIAL
+   [Anonymous], 1983, MANAGED HEART
+   [Anonymous], SENSES CULTURE S AFR
+   [Anonymous], 2010, 1 MONEY, DOI DOI 10.5210/FM.V15I1.2775
+   [Anonymous], 1996, RISE NETWORK SOC INF
+   [Anonymous], 1995, LIFE SCREEN IDENTITY
+   Beneito-Montagut R, 2011, QUAL RES, V11, P716, DOI 10.1177/1468794111413368
+   Boyd D., 2011, NETWORKED SELF IDENT, P39, DOI DOI 10.4324/9780203876527-8
+   Boyd D., 2007, Why youth (heart) social network sites: The role of networked publics in teenage social life, P119, DOI DOI 10.1162/DMAL.9780262524834.119
+   Boyd DM, 2007, J COMPUT-MEDIAT COMM, V13, P210, DOI 10.1111/j.1083-6101.2007.00393.x
+   Brenner J., 2012, Pew Internet: Social networking
+   Bucher T, 2012, NEW MEDIA SOC, V14, P1164, DOI 10.1177/1461444812440159
+   Burke P.J., 2009, IDENTITY THEORY
+   Callero PL, 2003, ANNU REV SOCIOL, V29, P115, DOI 10.1146/annurev.soc.29.010202.100057
+   Cooley C.H., 1902, Human nature and the social order
+   Dahan M., 2001, Nationalism and Ethnic Politics, V7, P85, DOI 10.1080/13537110108428622
+   Davis J, 2012, AM BEHAV SCI, V56, P596, DOI 10.1177/0002764211429361
+   Davis J, 2010, NEW MEDIA SOC, V12, P1103, DOI 10.1177/1461444809354212
+   Davis JL, 2012, COMPUT HUM BEHAV, V28, P1966, DOI 10.1016/j.chb.2012.05.017
+   Deuze M, 2011, MEDIA CULT SOC, V33, P137, DOI 10.1177/0163443710386518
+   Dingwall R., 1997, CONTEXT METHOD QUALI
+   Donath J, 2004, BT TECHNOL J, V22, P71, DOI 10.1023/B:BTTJ.0000047585.06264.cc
+   Edwards Allen L., 1957, The Social Desirability Variable in Personality Assessment and Research
+   Ellison NB, 2007, J COMPUT-MEDIAT COMM, V12, P1143, DOI 10.1111/j.1083-6101.2007.00367.x
+   Ellison NB, 2011, NEW MEDIA SOC, V13, P873, DOI 10.1177/1461444810385389
+   Enochsson AB, 2011, PROCD SOC BEHV, V28, DOI 10.1016/j.sbspro.2011.11.004
+   ERICKSON RJ, 1995, SYMB INTERACT, V18, P121, DOI 10.1525/si.1995.18.2.121
+   Freud Sigmund., 1998, TOTEM TABOO
+   Gatson SN, 2011, CULT STUD-CRIT METHO, V11, P224, DOI 10.1177/1532708611409531
+   Glaser B. G., 1978, [No title captured]
+   GOFFMAN E, 1983, AM J SOCIOL, V89, P1, DOI 10.1086/227833
+   Goffman E, 1955, PSYCHIATR, V18, P213, DOI 10.1080/00332747.1955.11023008
+   Goffman Erving., 1959, The Presentation of Self in Everyday Life
+   Goffman Erving., 1961, ASYLUMS
+   Gonzales AL, 2008, MEDIA PSYCHOL, V11, P167, DOI 10.1080/15213260802023433
+   Gonzales AL, 2011, CYBERPSYCH BEH SOC N, V14, P79, DOI 10.1089/cyber.2009.0411
+   Hesse-Biber S, 2013, J MIX METHOD RES, V7, P43, DOI 10.1177/1558689812451791
+   Hogan B., 2010, B SCI TECHNOL SOC, V30, P377, DOI DOI 10.1177/0270467610385893
+   Hyman H, 1944, PUBLIC OPIN QUART, V8, P557, DOI 10.1086/265713
+   Kassarjian HaroldH., 1974, Handbook of Marketing Research, P85
+   Kendall L, 1998, SYMB INTERACT, V21, P129, DOI 10.1525/si.1998.21.2.129
+   Lim SS, 2012, J BROADCAST ELECTRON, V56, P346, DOI 10.1080/08838151.2012.705198
+   Mann S., 2003, SURVEILL SOC, V1, P331, DOI DOI 10.24908/SS.V1I3.3344
+   Marche S., 2012, IS FACEBOOK MAKING U
+   Markham A.N., 2009, INTERNET INQUIRY, P131
+   Markham A, 2013, INT CONGR QUAL INQ, P63
+   Marwick A, 2012, J BROADCAST ELECTRON, V56, P378, DOI 10.1080/08838151.2012.705197
+   Marwick AE, 2011, NEW MEDIA SOC, V13, P114, DOI 10.1177/1461444810365313
+   McLaughlin C, 2012, NEW MEDIA SOC, V14, P299, DOI 10.1177/1461444811412712
+   McLuhan M., 1994, UNDERSTANDING MEDIA
+   McMillan SJ, 2006, NEW MEDIA SOC, V8, P73, DOI 10.1177/1461444806059871
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mead G.H., 1934, MIND SELF SOC STANDP
+   Meyrowitz J., 1994, Communication theory today, P50
+   Miller D., 2000, INTERNET ETHNOGRAPHI
+   Nakamura Lisa., 2002, Race after the internet
+   Nakamura Lisa, 2007, Digitizing Race: Visual Cultures of the Internet
+   NISBETT RE, 1977, PSYCHOL REV, V84, P231, DOI 10.1037/0033-295X.84.3.231
+   Ostapczuk M, 2011, DISABIL REHABIL, V33, P399, DOI 10.3109/09638288.2010.492067
+   Portwood-Stacer L, 2013, NEW MEDIA SOC, V15, P1041, DOI 10.1177/1461444812465139
+   Rainie L, 2012, NETWORKED: THE NEW SOCIAL OPERATING SYSTEM, P1
+   Robinson L, 2007, NEW MEDIA SOC, V9, P93, DOI 10.1177/1461444807072216
+   Salmons J., 2010, Online interviews in real time
+   Sessions Lauren F., 2009, First Monday, V14, DOI 10.5210/fm.v14i7.2539
+   SNOW DA, 1987, AM J SOCIOL, V92, P1336, DOI 10.1086/228668
+   Spradley J.P., 2016, The ethnographic interview
+   Stieger S, 2006, CYBERPSYCHOL BEHAV, V9, P552, DOI 10.1089/cpb.2006.9.552
+   Stryker Sheldon., 1980, SYMB INTERACT
+   Stutzman F, 2011, COMPUT HUM BEHAV, V27, P590, DOI 10.1016/j.chb.2010.10.017
+   Subrahmanyam K, 2008, J APPL DEV PSYCHOL, V29, P420, DOI 10.1016/j.appdev.2008.07.003
+   SWANN WB, 1982, J PERS SOC PSYCHOL, V43, P59, DOI 10.1037/0022-3514.43.1.59
+   Tokunaga RS, 2011, COMPUT HUM BEHAV, V27, P705, DOI 10.1016/j.chb.2010.08.014
+   Toma CL, 2008, PERS SOC PSYCHOL B, V34, P1023, DOI 10.1177/0146167208318067
+   Tourangeau R, 2007, PSYCHOL BULL, V133, P859, DOI 10.1037/0033-2909.133.5.859
+   Trilling Lionel., 1972, SINCERITY AUTHENTICI
+   Tufekci Z, 2008, Bulletin of Science, Technology Society, V28, P20, DOI DOI 10.1177/0270467607311484
+   Turkle S., 2011, Alone Together: Why we Expect More from Technology and Less from Each Other, P360
+   Walther JB, 1996, COMMUN RES, V23, P3, DOI 10.1177/009365096023001001
+   Walther JB, 2009, COMMUN RES, V36, P229, DOI 10.1177/0093650208330251
+   Zhao SY, 2008, COMPUT HUM BEHAV, V24, P1816, DOI 10.1016/j.chb.2008.02.012
+NR 86
+TC 31
+Z9 48
+U1 1
+U2 63
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0195-6086
+EI 1533-8665
+J9 SYMB INTERACT
+JI Symb. Interact.
+PD NOV
+PY 2014
+VL 37
+IS 4
+BP 500
+EP 523
+DI 10.1002/symb.123
+PG 24
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA AT2GW
+UT WOS:000344752500004
+DA 2024-11-22
+ER
+
+PT J
+AU de Montjoye, YA
+   Stopczynski, A
+   Shmueli, E
+   Pentland, A
+   Lehmann, S
+AF de Montjoye, Yves-Alexandre
+   Stopczynski, Arkadiusz
+   Shmueli, Erez
+   Pentland, Alex
+   Lehmann, Sune
+TI The Strength of the Strongest Ties in Collaborative Problem Solving
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID NETWORK STRUCTURE; TEAM PERFORMANCE; WEAK TIES; TIME
+AB Complex problem solving in science, engineering, and business has become a highly collaborative endeavor. Teams of scientists or engineers collaborate on projects using their social networks to gather new ideas and feedback. Here we bridge the literature on team performance and information networks by studying teams' problem solving abilities as a function of both their within-team networks and their members' extended networks. We show that, while an assigned team's performance is strongly correlated with its networks of expressive and instrumental ties, only the strongest ties in both networks have an effect on performance. Both networks of strong ties explain more of the variance than other factors, such as measured or self-evaluated technical competencies, or the personalities of the team members. In fact, the inclusion of the network of strong ties renders these factors non-significant in the statistical analysis. Our results have consequences for the organization of teams of scientists, engineers, and other knowledge workers tackling today's most complex problems.
+C1 [de Montjoye, Yves-Alexandre; Stopczynski, Arkadiusz; Shmueli, Erez; Pentland, Alex] MIT, Media Lab, Cambridge, MA 02139 USA.
+   [Stopczynski, Arkadiusz; Lehmann, Sune] Tech Univ Denmark, Dept Appl Math & Comp Sci, Copenhagen, Denmark.
+   [Lehmann, Sune] Univ Copenhagen, Niels Bohr Inst, DK-1168 Copenhagen, Denmark.
+C3 Massachusetts Institute of Technology (MIT); Technical University of
+   Denmark; University of Copenhagen; Niels Bohr Institute
+RP de Montjoye, YA (corresponding author), MIT, Media Lab, Cambridge, MA 02139 USA.
+EM yva@mit.edu
+RI Lehmann, Sune/AFQ-7000-2022
+OI Lehmann, Sune/0000-0001-6099-2345
+FU Belgian American Educational Foundation (B.A.E.F.); Army Research
+   Laboratory [W911NF-09-2-0053]
+FX We thank Piotr Sapiezynski for his help in data collection and insights
+   regarding wifi data, Vedran Sekara for his help in data collection, and
+   Luc Rocher for his help with the network visualizations. We also thank
+   the students for participating in the experiment. Yves-Alexandre de
+   Montjoye thanks the Belgian American Educational Foundation (B.A.E.F.)
+   for its financial support. This research was partially sponsored by the
+   Army Research Laboratory under Cooperative Agreement Number
+   W911NF-09-2-0053. Views and conclusions in this document are those of
+   the authors and should not be interpreted as representing the policies,
+   either expressed or implied, of the Army Research Laboratory.
+CR Abbasi A., 2011, 2011 44 HAWAII INT C, P1
+   ANCONA DG, 1990, ACAD MANAGE J, V33, P334, DOI 10.5465/256328
+   [Anonymous], LITTLE SCIENCE BIG S
+   Aral S., 2007, INFORMATION TECHNOLO
+   Aral S., 2007, Productivity effects of information diffusion in networks
+   Aral S, 2011, AM J SOCIOL, V117, P90, DOI 10.1086/661238
+   Balkundi P, 2006, ACAD MANAGE J, V49, P49, DOI [10.5465/AMJ.2006.20785500, 10.2307/20159745]
+   Beyerlein M. M., 1995, ADVANCES IN INTERDIS, V2
+   Blansky D, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0055944
+   Börner K, 2004, P NATL ACAD SCI USA, V101, P5266, DOI 10.1073/pnas.0307625100
+   Constant D, 1996, ORGAN SCI, V7, P119, DOI 10.1287/orsc.7.2.119
+   Cronbach LJ, 1951, PSYCHOMETRIKA, V16, P297
+   Cummings JN, 2003, SOC NETWORKS, V25, P197, DOI 10.1016/S0378-8733(02)00049-7
+   Eagle N, 2009, P NATL ACAD SCI USA, V106, P15274, DOI 10.1073/pnas.0900282106
+   Falchikov N., 1986, ASSESS EVAL HIGH EDU, V11, P146, DOI [DOI 10.1080/0260293860110206, 10.1080/0260293860110206]
+   GHOSHAL S, 1994, MANAGE SCI, V40, P96, DOI 10.1287/mnsc.40.1.96
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Greene M, 2007, NATURE, V450, P1165, DOI 10.1038/4501165a
+   Guimerà R, 2005, SCIENCE, V308, P697, DOI 10.1126/science.1106340
+   Hackman J. R., 1990, GROUPS THAT WORK AND
+   Hackman J.R., 1987, HDB ORG BEHAV
+   Hackman JR Oldham G R., 1980, WORK REDESIGN
+   Hansen MT, 1999, ADMIN SCI QUART, V44, P82, DOI 10.2307/2667032
+   Harrison DA, 2003, PERS PSYCHOL, V56, P633, DOI 10.1111/j.1744-6570.2003.tb00753.x
+   Hong L, 2004, P NATL ACAD SCI USA, V101, P16385, DOI 10.1073/pnas.0403723101
+   Kilduff M., 2003, SOCIAL NETWORKS AND
+   Kozlowski S.W. J., 2003, Handbook of psychology: Industrial and organizational psychology, V12, P333, DOI DOI 10.1002/0471264385.WEI1214
+   KRACKHARDT D, 1992, NETWORKS AND ORGANIZATIONS : STRUCTURE, FORM, AND ACTION, P216
+   Lander ES, 2001, NATURE, V409, P860, DOI 10.1038/35057062
+   LEVITT B, 1988, ANNU REV SOCIOL, V14, P319, DOI 10.1146/annurev.so.14.080188.001535
+   LINCOLN JR, 1979, ADMIN SCI QUART, V24, P181, DOI 10.2307/2392493
+   NELSON RE, 1989, ACAD MANAGE J, V32, P377, DOI 10.5465/256367
+   Newman MEJ, 2001, P NATL ACAD SCI USA, V98, P404, DOI 10.1073/pnas.021544898
+   Peng MW, 2000, ACAD MANAGE J, V43, P486, DOI 10.5465/1556406
+   Pentland A, 2012, HARVARD BUS REV, V90, P61
+   Rammstedt B, 2007, J RES PERS, V41, P203, DOI 10.1016/j.jrp.2006.02.001
+   Rogers Everett M., 2010, DIFFUSION OF INNOVAT
+   Saavedra S, 2011, P NATL ACAD SCI USA, V108, P5296, DOI 10.1073/pnas.1018462108
+   Sanna LJ, 1997, PSYCHOL SCI, V8, P261, DOI 10.1111/j.1467-9280.1997.tb00436.x
+   Sapiezynski P., 2013, MEASURING PATTERNS O
+   Soda G, 2004, ACAD MANAGE J, V47, P893, DOI 10.5465/20159629
+   Stokols D, 2008, AM J PREV MED, V35, pS77, DOI 10.1016/j.amepre.2008.05.002
+   Stopczynski A, 2014, PLOS ONE, V9, DOI [10.1371/journal.pone.0100915, 10.1371/journal.pone.0095978]
+   Uzzi B, 2003, MANAGE SCI, V49, P383, DOI 10.1287/mnsc.49.4.383.14427
+   Vaquero LM, 2013, SCI REP-UK, V3, DOI 10.1038/srep01174
+   Waber B. N., 2007, INTERNATIONAL CONFER
+   Wu L., 2008, AVAILABLE AT SSRN 11
+   Wuchty S, 2007, SCIENCE, V316, P1036, DOI 10.1126/science.1136099
+   Wuchty S, 2009, P NATL ACAD SCI USA, V106, P15099, DOI 10.1073/pnas.0907905106
+   Yang HL, 2004, INFORM MANAGE-AMSTER, V41, P335, DOI 10.1016/S0378-7206(03)00078-8
+NR 50
+TC 59
+Z9 68
+U1 3
+U2 57
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD JUN 20
+PY 2014
+VL 4
+AR 5277
+DI 10.1038/srep05277
+PG 6
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA AJ7PH
+UT WOS:000337888100001
+PM 24946798
+OA Green Submitted, gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Quadri, C
+   Zignani, M
+   Capra, L
+   Gaito, S
+   Rossi, GP
+AF Quadri, Christian
+   Zignani, Matteo
+   Capra, Lorenzo
+   Gaito, Sabrina
+   Rossi, Gian Paolo
+TI Multidimensional Human Dynamics in Mobile Phone Communications
+SO PLOS ONE
+LA English
+DT Article
+ID STOCHASTIC PETRI NETS
+AB In today's technology-assisted society, social interactions may be expressed through a variety of techno-communication channels, including online social networks, email and mobile phones (calls, text messages). Consequently, a clear grasp of human behavior through the diverse communication media is considered a key factor in understanding the formation of the today's information society. So far, all previous research on user communication behavior has focused on a sole communication activity. In this paper we move forward another step on this research path by performing a multidimensional study of human sociality as an expression of the use of mobile phones. The paper focuses on user temporal communication behavior in the interplay between the two complementary communication media, text messages and phone calls, that represent the bi-dimensional scenario of analysis. Our study provides a theoretical framework for analyzing multidimensional bursts as the most general burst category, that includes one-dimensional bursts as the simplest case, and offers empirical evidence of their nature by following the combined phone call/text message communication patterns of approximately one million people over three-month period. This quantitative approach enables the design of a generative model rooted in the three most significant features of the multidimensional burst - the number of dimensions, prevalence and interleaving degree - able to reproduce the main media usage attitude. The other findings of the paper include a novel multidimensional burst detection algorithm and an insight analysis of the human media selection process.
+C1 [Quadri, Christian; Zignani, Matteo; Capra, Lorenzo; Gaito, Sabrina; Rossi, Gian Paolo] Univ Milan, Dept Comp Sci, Milan, Italy.
+C3 University of Milan
+RP Quadri, C (corresponding author), Univ Milan, Dept Comp Sci, Milan, Italy.
+EM christian.quadri@unimi.it
+RI Zignani, Matteo/AAF-5510-2019; Rossi, Giuseppe/G-7838-2012; Quadri,
+   Christian/ABM-1810-2022
+OI CAPRA, LORENZO/0000-0002-1029-1169; Quadri,
+   Christian/0000-0002-3608-8142; ROSSI, GIAN PAOLO/0000-0002-4937-7744;
+   ROSSI, GIAN PAOLO/0000-0002-7963-0931; Zignani,
+   Matteo/0000-0002-4808-4106; Gaito, Sabrina/0000-0003-3779-2809
+FU Italian Ministry for Instruction, University and Research under the PRIN
+   PEOPLENET [2009BZM837]
+FX This work was funded by the Italian Ministry for Instruction, University
+   and Research under the PRIN PEOPLENET (2009BZM837) Project. The funders
+   had no role in study design, data collection and analysis, decision to
+   publish, or preparation of the manuscript.
+CR [Anonymous], KNOWLEDGE DATA ENG I
+   [Anonymous], SOCIAL NETWORK ANAL
+   [Anonymous], WORLD WIDE WEB
+   [Anonymous], EXPLOITING ALL PHONE
+   [Anonymous], 13050543 ARXIV
+   [Anonymous], P ICWSM
+   [Anonymous], P NATL ACAD SCI
+   [Anonymous], 2012, P 1 ACM INT WORKSHOP
+   Barabási AL, 2005, NATURE, V435, P207, DOI 10.1038/nature03459
+   Bródka P, 2012, INT J COMPUT INT SYS, V5, P582, DOI 10.1080/18756891.2012.696922
+   Candia J, 2008, J PHYS A-MATH THEOR, V41, DOI 10.1088/1751-8113/41/22/224015
+   CHIOLA G, 1993, IEEE T SOFTWARE ENG, V19, P89, DOI 10.1109/32.214828
+   Eckmann JP, 2004, P NATL ACAD SCI USA, V101, P14333, DOI 10.1073/pnas.0405728101
+   Ester M., 1996, KDD-96 Proceedings. Second International Conference on Knowledge Discovery and Data Mining, P226
+   Holme P, 2003, EUROPHYS LETT, V64, P427, DOI 10.1209/epl/i2003-00505-4
+   Jiang ZQ, 2013, P NATL ACAD SCI USA, V110, P1600, DOI 10.1073/pnas.1220433110
+   Jo HH, 2012, EPJ DATA SCI, V1, DOI 10.1140/epjds10
+   Jo HH, 2013, PHYS REV E, V87, DOI 10.1103/PhysRevE.87.062131
+   Jo HH, 2012, NEW J PHYS, V14, DOI 10.1088/1367-2630/14/1/013055
+   Karsai M, 2012, SCI REP-UK, V2, DOI 10.1038/srep00397
+   Kleinberg J, 2003, DATA MIN KNOWL DISC, V7, P373, DOI 10.1023/A:1024940629314
+   Kriegel HP, 2011, WIRES DATA MIN KNOWL, V1, P231, DOI 10.1002/widm.30
+   Leskovec J., 2008, Proceedings of the 17th International Conference on World Wide Web, DOI 10.1145/1367497.1367620
+   MARSAN MA, 1984, ACM T COMPUT SYST, V2, P93, DOI 10.1145/190.191
+   Miritello G, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.045102
+   Mucha PJ, 2010, SCIENCE, V328, P876, DOI 10.1126/science.1184819
+   Nanavati AA, 2008, IEEE T KNOWL DATA EN, V20, P703, DOI 10.1109/TKDE.2007.190733
+   Onnela JP, 2007, P NATL ACAD SCI USA, V104, P7332, DOI 10.1073/pnas.0610245104
+   Palla G, 2007, NATURE, V446, P664, DOI 10.1038/nature05670
+   Vázquez A, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.036127
+   Viswanath B, 2009, 2ND ACM SIGCOMM WORKSHOP ON ONLINE SOCIAL NETWORKS (WOSN 09), P37
+   Wilson C, 2012, ACM T WEB, V6, DOI 10.1145/2382616.2382620
+   Wu Ye., 2010, P NATL ACAD SCI
+NR 33
+TC 21
+Z9 21
+U1 0
+U2 20
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JUL 28
+PY 2014
+VL 9
+IS 7
+AR e103183
+DI 10.1371/journal.pone.0103183
+PG 12
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA AM6RZ
+UT WOS:000339993700043
+PM 25068479
+OA Green Published, gold, Green Submitted
+DA 2024-11-22
+ER

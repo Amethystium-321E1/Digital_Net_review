@@ -1,0 +1,670 @@
+
+PT J
+AU Xing, YF
+   Wang, XW
+   Qiu, CC
+   Li, YQ
+   He, W
+AF Xing, Yunfei
+   Wang, Xiwei
+   Qiu, Chengcheng
+   Li, Yueqi
+   He, Wu
+TI Research on opinion polarization by big data analytics capabilities in
+   online social networks
+SO TECHNOLOGY IN SOCIETY
+LA English
+DT Article
+DE Big data; Opinion polarization; Social network analysis; Online social
+   networks; Systems; Text clustering
+ID POLITICAL POLARIZATION; FIRM PERFORMANCE; SYSTEM THEORY; MEDIA; MODEL
+AB Opinion polarization in online social networks causes a lot of concerns on its social, economic, and political impacts, and is becoming an important topic for academic research. Based on the system theory, a theoretical framework on analyzing opinion polarization combining big data analytics capabilities (BDAC) is proposed. A web crawler is used to collect data from the Sina Weibo platform on the topic of "Tangping". Concerning the characteristics of the big data environment, social network analysis (SNA), machine learning, text clustering and content analysis are used to mine opinion polarization of "Tangping" on Weibo. Results show that social network users holding the same opinion indicate the phenomenon of aggregation. Although no influential users support the opinion of "Tangping" on Weibo, a high percentage of people advocate the idea. The supporting group has the most clusters while the opposing group has the highest density of keywords. The research contributes to the existing literature on applying BDAC to analyze online polarization from the perspective of the system from user behavior and interaction to topic clustering and keywords identification. The conceptual system framework shows superiority in the integration of information coordination of microsystem and exosystem. Guidance strategies are put forward to supplement the formation theory of opinion polarization and provide suggestions to reasonably regulate network group polarization.
+C1 [Xing, Yunfei] Cent China Normal Univ, Sch Informat Management, Wuhan, Hubei, Peoples R China.
+   [Wang, Xiwei; Qiu, Chengcheng; Li, Yueqi] Jilin Univ, Sch Business & Management, Changchun, Jilin, Peoples R China.
+   [He, Wu] Old Dominion Univ, Dept Informat Technol & Decis Sci, Norfolk, VA USA.
+   [Wang, Xiwei; Qiu, Chengcheng; Li, Yueqi] Jilin Univ, Res Ctr Big Data Management, Changchun, Jilin, Peoples R China.
+   [Wang, Xiwei; Qiu, Chengcheng; Li, Yueqi] Jilin Univ, Res Ctr Cyberspace Governance, Changchun, Jilin, Peoples R China.
+C3 Central China Normal University; Jilin University; Old Dominion
+   University; Jilin University; Jilin University
+RP Wang, XW (corresponding author), Jilin Univ, Sch Business & Management, Changchun, Jilin, Peoples R China.; Wang, XW (corresponding author), Jilin Univ, Res Ctr Big Data Management, Changchun, Jilin, Peoples R China.; Wang, XW (corresponding author), Jilin Univ, Res Ctr Cyberspace Governance, Changchun, Jilin, Peoples R China.
+EM wxw_mail@163.com
+OI Xing, Yunfei/0000-0002-5512-4364
+FU China Postdoctoral Science Foundation [2020M672393]; Major Program of
+   National Fund of Philosophy and Social Science of China [18ZDA310];
+   International Innovation Team of Philosophy and Social Science of Jilin
+   University
+FX This research is funded by China Postdoctoral Science Foundation
+   (2020M672393) (Yunfei Xing). This work is also jointly supported by the
+   Major Program of National Fund of Philosophy and Social Science of China
+   (18ZDA310) (Xiwei Wang) and the (Xiwei Wang) International Innovation
+   Team of Philosophy and Social Science of Jilin University.
+CR Al-Razgan M, 2021, TECHNOL SOC, V65, DOI 10.1016/j.techsoc.2021.101558
+   Albert M, 2020, SECUR DIALOGUE, V51, P434, DOI 10.1177/0967010619897874
+   Alexandre, SOC SCI COMPUT REV
+   Ali A, 2020, TECHNOL SOC, V61, DOI 10.1016/j.techsoc.2020.101259
+   Angelopoulos S, 2021, INT J INFORM MANAGE, V56, DOI 10.1016/j.ijinfomgt.2020.102208
+   [Anonymous], 2021, WASH. POST
+   [Anonymous], 2021, INDEPENDENT
+   Au CH, 2022, INFORM SYST FRONT, V24, P1331, DOI 10.1007/s10796-021-10133-9
+   Awan U, 2021, TECHNOL FORECAST SOC, V168, DOI 10.1016/j.techfore.2021.120766
+   Bail CA, 2018, P NATL ACAD SCI USA, V115, P9216, DOI 10.1073/pnas.1804840115
+   BBC, 2021, CHINAS NEWTANG PINGT
+   Beam MA, 2018, INFORM COMMUN SOC, V21, P940, DOI 10.1080/1369118X.2018.1444783
+   Belcastro L, 2020, IEEE ACCESS, V8, P47177, DOI 10.1109/ACCESS.2020.2978950
+   Bozdag C, 2020, SOC MEDIA SOC, V6, DOI 10.1177/2056305120975713
+   Hernández AB, 2018, FUTURE GENER COMP SY, V86, P1076, DOI 10.1016/j.future.2017.07.003
+   Canoy N, 2019, BMJ OPEN, V9, DOI 10.1136/bmjopen-2018-025475
+   Chae B, 2019, INT J INFORM MANAGE, V45, P83, DOI 10.1016/j.ijinfomgt.2018.10.023
+   Chan CH, 2017, J COMPUT-MEDIAT COMM, V22, P266, DOI 10.1111/jcc4.12192
+   Chen Q, 2020, COMPUT HUM BEHAV, V110, DOI 10.1016/j.chb.2020.106380
+   Ciulla F, 2012, EPJ DATA SCI, V1, DOI 10.1140/epjds8
+   CNN, 2021, YOUTH CHINA JAPAN S
+   Del Vicario M, 2019, ACM T WEB, V13, DOI 10.1145/3316809
+   Demetis DS, 2016, INFORM ORGAN-UK, V26, P116, DOI 10.1016/j.infoandorg.2016.09.002
+   Dubois E, 2020, SOC SCI COMPUT REV, V38, P57, DOI 10.1177/0894439318791527
+   Ferraris A, 2019, MANAGE DECIS, V57, P1923, DOI 10.1108/MD-07-2018-0825
+   Girard B, 2008, NEURAL NETWORKS, V21, P628, DOI 10.1016/j.neunet.2008.03.009
+   Gong X, 2019, INFORM MANAGE-AMSTER, V56, DOI 10.1016/j.im.2019.01.001
+   GOTTINGER HW, 1976, IEEE T SYST MAN CYB, V6, P867
+   Han XH, 2020, INT J ENV RES PUB HE, V17, DOI 10.3390/ijerph17082788
+   Harrigan P, 2021, INT J INFORM MANAGE, V56, DOI 10.1016/j.ijinfomgt.2020.102246
+   Hong S, 2016, GOV INFORM Q, V33, P777, DOI 10.1016/j.giq.2016.04.007
+   Jain L, 2019, EXPERT SYST APPL, V122, P1, DOI 10.1016/j.eswa.2018.12.043
+   Jiang TL, 2016, COMPUT HUM BEHAV, V59, P210, DOI 10.1016/j.chb.2016.02.008
+   Jung SH, 2020, TECHNOL SOC, V63, DOI 10.1016/j.techsoc.2020.101409
+   Kar AK, 2020, INT J INFORM MANAGE, V54, DOI 10.1016/j.ijinfomgt.2020.102205
+   Kim J, 2020, INT J INFORM MANAGE, V51, DOI 10.1016/j.ijinfomgt.2019.102051
+   King AS, 2016, SOC SCI COMPUT REV, V34, P395, DOI 10.1177/0894439315595483
+   King RC, 2010, DECIS SUPPORT SYST, V48, P536, DOI 10.1016/j.dss.2009.11.004
+   Lee C, 2018, TELEMAT INFORM, V35, P245, DOI 10.1016/j.tele.2017.11.005
+   Lee J, 2020, INT COMMUN GAZ, V82, P119, DOI 10.1177/1748048518820499
+   Li LF, 2021, INFORM MANAGE-AMSTER, V58, DOI 10.1016/j.im.2021.103489
+   Liao SH, 2021, TECHNOL SOC, V66, DOI 10.1016/j.techsoc.2021.101655
+   Liu ZM, 1996, J AM SOC INFORM SCI, V47, P129, DOI 10.1002/(SICI)1097-4571(199602)47:2<129::AID-ASI4>3.0.CO;2-0
+   Lom M, 2021, INT J INFORM MANAGE, V56, DOI 10.1016/j.ijinfomgt.2020.102092
+   Lu YQ, 2020, INT J COMMUN-US, V14, P3478
+   Matakos A, 2020, KNOWL INF SYST, V62, P3697, DOI 10.1007/s10115-020-01456-1
+   Medaglia R, 2017, GOV INFORM Q, V34, P533, DOI 10.1016/j.giq.2017.05.003
+   Meel P, 2020, EXPERT SYST APPL, V153, DOI 10.1016/j.eswa.2019.112986
+   Merry M, 2016, ONLINE INFORM REV, V40, P624, DOI 10.1108/OIR-10-2015-0333
+   Mikalef P, 2019, J BUS RES, V98, P261, DOI 10.1016/j.jbusres.2019.01.044
+   Nigam A, 2017, BIG DATA, V5, P337, DOI 10.1089/big.2017.0055
+   Osatuyi B, 2018, COMPUT HUM BEHAV, V85, P95, DOI 10.1016/j.chb.2018.03.037
+   Ragini JR, 2018, INT J INFORM MANAGE, V42, P13, DOI 10.1016/j.ijinfomgt.2018.05.004
+   Rapp C, 2016, SOC SCI RES, V58, P34, DOI 10.1016/j.ssresearch.2016.02.008
+   Rathore AK, 2020, INT J INFORM MANAGE, V50, P111, DOI 10.1016/j.ijinfomgt.2019.05.015
+   Rialti R, 2019, TECHNOL FORECAST SOC, V149, DOI 10.1016/j.techfore.2019.119781
+   Rousseau D, 2015, SYST RES BEHAV SCI, V32, P522, DOI 10.1002/sres.2354
+   Schweitzer F, 2020, COMPLEXITY, V2020, DOI 10.1155/2020/5282035
+   Shore J, 2018, MIS QUART, V42, P849, DOI 10.25300/MISQ/2018/14558
+   Singh B, 2022, NEURAL COMPUT APPL, V34, P21503, DOI 10.1007/s00521-021-06086-4
+   Skillicorn DB, 1998, ACM COMPUT SURV, V30, P123, DOI 10.1145/280277.280278
+   Steppat D, 2022, EUR J COMMUN, V37, P82, DOI 10.1177/02673231211012141
+   Stieglitz S, 2018, INT J INFORM MANAGE, V39, P156, DOI 10.1016/j.ijinfomgt.2017.12.002
+   Su XF, 2022, EUR J INNOV MANAG, V25, P1142, DOI 10.1108/EJIM-10-2020-0431
+   Sun B, 2021, EUR J INNOV MANAG, V24, P1162, DOI 10.1108/EJIM-01-2020-0004
+   Tasnim Samia, 2020, J Prev Med Public Health, V53, P171, DOI 10.3961/jpmph.20.094
+   Turel O, 2016, J MANAGE INFORM SYST, V33, P1087, DOI 10.1080/07421222.2016.1267529
+   Vargo CJ, 2017, SOC SCI COMPUT REV, V35, P10, DOI 10.1177/0894439315602858
+   Wang C, 2019, IEEE ACCESS, V7, P35394, DOI 10.1109/ACCESS.2019.2902400
+   Wang XH, 2020, INTERNET RES, V30, P1547, DOI 10.1108/INTR-11-2019-0491
+   Wang YC, 2018, INFORM MANAGE-AMSTER, V55, P64, DOI 10.1016/j.im.2017.04.001
+   Wang YC, 2017, J BUS RES, V70, P287, DOI 10.1016/j.jbusres.2016.08.002
+   Wei JL, 2021, FUTURE GENER COMP SY, V115, P542, DOI 10.1016/j.future.2020.09.011
+   Wu XD, 2014, IEEE T KNOWL DATA EN, V26, P97, DOI 10.1109/TKDE.2013.109
+   Xiao XH, 2020, IEEE ACCESS, V8, P18778, DOI 10.1109/ACCESS.2020.2968734
+   Xing Y., USING DATA MINING TR, DOI [10.1108/EL-04-2021-0086, DOI 10.1108/EL-04-2021-0086]
+   Xing YF, 2021, ASLIB J INFORM MANAG, V73, P517, DOI 10.1108/AJIM-07-2020-0216
+   Xing YF, 2021, J GLOB INF MANAG, V29, P93, DOI 10.4018/JGIM.20210701.oa5
+   Xu LW, 2020, J ASSOC INF SYST, V21, P545, DOI 10.17705/1jais.00612
+   Yasmin M, 2020, J BUS RES, V114, P1, DOI 10.1016/j.jbusres.2020.03.028
+   Yu DG, 2016, ONLINE INFORM REV, V40, P867, DOI 10.1108/OIR-12-2015-0391
+   Zhu QF, 2017, SOC SCI COMPUT REV, V35, P68, DOI 10.1177/0894439315617263
+   Zhuravskaya E, 2020, ANNU REV ECON, V12, P415, DOI 10.1146/annurev-economics-081919-050239
+NR 83
+TC 32
+Z9 34
+U1 29
+U2 233
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0160-791X
+EI 1879-3274
+J9 TECHNOL SOC
+JI Technol. Soc.
+PD FEB
+PY 2022
+VL 68
+AR 101902
+DI 10.1016/j.techsoc.2022.101902
+EA JAN 2022
+PG 12
+WC Social Issues; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Issues; Social Sciences - Other Topics
+GA 0K8OM
+UT WOS:000781048600008
+DA 2024-11-22
+ER
+
+PT J
+AU Currin, CB
+   Vera, SV
+   Khaledi-Nasab, A
+AF Currin, Christopher Brian
+   Vera, Sebastian Vallejo
+   Khaledi-Nasab, Ali
+TI Depolarization of echo chambers by random dynamical nudge
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID SELECTIVE EXPOSURE; GROUP POLARIZATION; SOCIAL-INFLUENCE; NEWS; TWITTER
+AB In social networks, users often engage with like-minded peers. This selective exposure to opinions might result in echo chambers, i.e., political fragmentation and social polarization of user interactions. When echo chambers form, opinions have a bimodal distribution with two peaks on opposite sides. In certain issues, where either extreme positions contain a degree of misinformation, neutral consensus is preferable for promoting discourse. In this paper, we use an opinion dynamics model that naturally forms echo chambers in order to find a feedback mechanism that bridges these communities and leads to a neutral consensus. We introduce the random dynamical nudge (RDN), which presents each agent with input from a random selection of other agents' opinions and does not require surveillance of every person's opinions. Our computational results in two different models suggest that the RDN leads to a unimodal distribution of opinions centered around the neutral consensus. Furthermore, the RDN is effective both for preventing the formation of echo chambers and also for depolarizing existing echo chambers. Due to the simple and robust nature of the RDN, social media networks might be able to implement a version of this self-feedback mechanism, when appropriate, to prevent the segregation of online communities on complex social issues.
+C1 [Currin, Christopher Brian] Univ Cape Town, Fac Hlth Sci, Dept Human Biol, Cape Town, South Africa.
+   [Currin, Christopher Brian] Univ Cape Town, Neurosci Inst, Cape Town, South Africa.
+   [Currin, Christopher Brian] IST Austria, Klosterneuburg, Lower Austria, Austria.
+   [Vera, Sebastian Vallejo] Tecnol Monterrey, Sch Social Sci & Govt, Monterrey, Mexico.
+   [Vera, Sebastian Vallejo] Interdisciplinary Lab Computat Social Sci, Monterrey, Mexico.
+   [Khaledi-Nasab, Ali] Stanford Univ, Stanford, CA 94305 USA.
+   [Khaledi-Nasab, Ali] Ronin Inst, Montclair, NJ 07043 USA.
+C3 University of Cape Town; University of Cape Town; Institute of Science &
+   Technology - Austria; Tecnologico de Monterrey; Stanford University
+RP Khaledi-Nasab, A (corresponding author), Stanford Univ, Stanford, CA 94305 USA.; Khaledi-Nasab, A (corresponding author), Ronin Inst, Montclair, NJ 07043 USA.
+EM ali@ronininstitute.org
+RI Currin, Christopher/JYP-8047-2024; Vallejo Vera, Sebastián/JZD-3845-2024
+OI Currin, Christopher Brian/0000-0002-4809-5059
+FU German Deutscher Akademischer Austauschdienst (DAAD); South African
+   National Research Foundation (NRF); University of Cape Town; NOMIS
+   Foundation through the NOMIS Fellowships at IST Austria program
+FX CBC and AKN would like to thank Neuromatch Academy
+   https://www.neuromatchacademy.org for introducing the authors to each
+   other. We thank Dr. Kresimir Josic (University of Houston), Fabian
+   Baumann (Humboldt University) and Dr. Igor M. Sokolov (Humboldt
+   University) for carefully reading the early versions of the manuscript
+   and providing constructive feedback. CBC is supported by the German
+   Deutscher Akademischer Austauschdienst (DAAD, https://daad.de), the
+   South African National Research Foundation (NRF, https://nrf.ac.za), the
+   University of Cape Town (UCT, https://uct.ac.za), and the NOMIS
+   Foundation through the NOMIS Fellowships at IST Austria program
+   (https://nomisfoundation.ch).SVV appreciate the generosity of
+   Tecnologico de Monterrey for covering the publication fee.
+CR Aparicio S, 2015, ENTROPY-SWITZ, V17, P5848, DOI 10.3390/e17085848
+   Aruguete N, 2018, J COMMUN, V68, P480, DOI 10.1093/joc/jqy007
+   Bail CA, 2018, P NATL ACAD SCI USA, V115, P9216, DOI 10.1073/pnas.1804840115
+   Bakshy E, 2015, SCIENCE, V348, P1130, DOI 10.1126/science.aaa1160
+   Balsamo D., 2019, ARXIV PREPRINT ARXIV
+   Barabási AL, 2005, NATURE, V435, P207, DOI 10.1038/nature03459
+   Barberá P, 2015, PSYCHOL SCI, V26, P1531, DOI 10.1177/0956797615594620
+   Baumann F, 2021, PHYS REV X, V11, DOI 10.1103/PhysRevX.11.011012
+   Baumann F, 2020, PHYS REV LETT, V124, DOI 10.1103/PhysRevLett.124.048301
+   Bessi A, 2016, EUR PHYS J-SPEC TOP, V225, P2047, DOI 10.1140/epjst/e2015-50319-0
+   Billingsley P., 1961, Proceed American Math Soc, V12, P788, DOI DOI 10.2307/2034876
+   Bruns A., 2017, 6 BIENNIAL FUTURE JO
+   Calvo E., 2020, FAKE NEWS TROLLS OTR
+   Cardenal AS, 2019, EUR J COMMUN, V34, P360, DOI 10.1177/0267323119844409
+   Castellano C, 2009, REV MOD PHYS, V81, P591, DOI 10.1103/RevModPhys.81.591
+   Cinelli Marco, 2021, Environment Systems & Decisions, V41, P82, DOI 10.1007/s10669-020-09784-x
+   Cinelli M, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2023301118
+   Cinelli M, 2020, SCI REP-UK, V10, DOI 10.1038/s41598-020-73510-5
+   Cohen J. N., 2018, J MEDIA LITERACY ED, V10, P139, DOI DOI 10.23860/JMLE-2018-10-2-8
+   Conover M.D., 2011, P INT AAAI C WEB SOC, P89
+   Del Vicario M, 2016, P NATL ACAD SCI USA, V113, P554, DOI 10.1073/pnas.1517441113
+   Du SY, 2017, STUD COMPUT INTELL, V693, P373, DOI 10.1007/978-3-319-50901-3_30
+   Dubois E, 2018, INFORM COMMUN SOC, V21, P729, DOI 10.1080/1369118X.2018.1428656
+   Eady G, 2019, SAGE OPEN, V9, DOI 10.1177/2158244019832705
+   Flache A, 2017, JASSS-J ARTIF SOC S, V20, DOI 10.18564/jasss.3521
+   FREEDMAN D, 1981, Z WAHRSCHEINLICHKEIT, V57, P453, DOI 10.1007/BF01025868
+   Galam S, 2005, PHYS REV E, V71, DOI 10.1103/PhysRevE.71.046123
+   Galam S, 2005, EUROPHYS LETT, V70, P705, DOI 10.1209/epl/i2004-10526-5
+   Galam S., 2016, Mind Soc, V15, P117, DOI DOI 10.1007/S11299-015-0175-Y
+   Garimella K, 2018, WEB CONFERENCE 2018: PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE (WWW2018), P913, DOI 10.1145/3178876.3186139
+   Garrett RK, 2009, J COMPUT-MEDIAT COMM, V14, P265, DOI 10.1111/j.1083-6101.2009.01440.x
+   Gervais BT, 2019, POLIT PSYCHOL, V40, P637, DOI 10.1111/pops.12532
+   Grönlund K, 2015, POLIT BEHAV, V37, P995, DOI 10.1007/s11109-015-9304-x
+   Guess AM, 2021, AM J POLIT SCI, V65, P1007, DOI 10.1111/ajps.12589
+   Hermann NL., 2017, LUCASHNPEAKUTILS V1
+   Himelboim I, 2013, COMMUN METHODS MEAS, V7, P195, DOI 10.1080/19312458.2013.813922
+   Holme P, 2006, PHYS REV E, V74, DOI 10.1103/PhysRevE.74.056108
+   Huckfeldt RR., 2004, Political disagreement: The survival of diverse opinions within communication networks, DOI [10.1017/CBO9780511617102, DOI 10.1017/CBO9780511617102]
+   ISENBERG DJ, 1986, J PERS SOC PSYCHOL, V50, P1141, DOI 10.1037/0022-3514.50.6.1141
+   Jamieson K.H., 2008, ECHO CHAMBER RUSH LI
+   Kahneman D., 2011, THINKING FAST SLOW
+   Kahneman D., 2021, NOISE FLAW HUMAN JUD
+   Karatzas I, 1988, BROWNIAN MOTION STOC
+   Keijzer MA, 2018, COMPLEXITY, DOI 10.1155/2018/9502872
+   Kimura D, 2008, PHYS REV E, V78, DOI 10.1103/PhysRevE.78.016103
+   Leonard TC, 2008, CONST POLITICAL ECON, V19, P356, DOI 10.1007/s10602-008-9056-2
+   Lorenz-Spreen P, 2020, NAT HUM BEHAV, V4, P1102, DOI 10.1038/s41562-020-0889-7
+   Martins ACR, 2013, PHYS REV E, V87, DOI 10.1103/PhysRevE.87.042807
+   Morrell M. E., 2018, The Oxford handbook of deliberative democracy
+   MYERS DG, 1976, PSYCHOL BULL, V83, P602, DOI 10.1037/0033-2909.83.4.602
+   Neiman A., 2007, SCHOLARPEDIA, V2, P1442, DOI [10.4249/scholarpedia.1442, DOI 10.4249/SCHOLARPEDIA.1442]
+   Niemeyer S, 2007, SWISS POLIT SCI REV, V13, P497, DOI 10.1002/j.1662-6370.2007.tb00087.x
+   Olmastroni F., 2020, EU MULTIPLE CRISES
+   Perra N, 2012, SCI REP-UK, V2, DOI 10.1038/srep00469
+   Perra N, 2019, SCI REP-UK, V9, DOI 10.1038/s41598-019-43830-2
+   Pettigrew TF, 2006, J PERS SOC PSYCHOL, V90, P751, DOI 10.1037/0022-3514.90.5.751
+   RICCIARDI LM, 1976, J MATH ANAL APPL, V54, P185, DOI 10.1016/0022-247X(76)90244-4
+   Rogowski JC, 2016, POLIT BEHAV, V38, P485, DOI 10.1007/s11109-015-9323-7
+   Sasahara K., 2019, ARXIV PREPRINT ARXIV
+   Sasahara K, 2021, J COMPUT SOC SCI, V4, P381, DOI 10.1007/s42001-020-00084-7
+   Sturges HA, 1926, J AM STAT ASSOC, V21, P65, DOI 10.1080/01621459.1926.10502161
+   Sunstein CR, 2007, REPUBLIC.COM 2.0, P1
+   Susskind L., 1999, CONSENSUS BUILDING H
+   Tuters M., 2018, M C J, V21, DOI https://doi.org/10.5204/mcj.1422
+   TVERSKY A, 1974, SCIENCE, V185, P1124, DOI 10.1126/science.185.4157.1124
+   Usher N, 2018, INT J PRESS/POLIT, V23, P324, DOI 10.1177/1940161218781254
+   VINOKUR A, 1974, J PERS SOC PSYCHOL, V29, P305, DOI 10.1037/h0036010
+   Wang XH, 2020, INTERNET RES, V30, P1547, DOI 10.1108/INTR-11-2019-0491
+   Webster SW, 2017, AM POLIT RES, V45, P621, DOI 10.1177/1532673X17703132
+NR 69
+TC 8
+Z9 8
+U1 3
+U2 40
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD JUN 2
+PY 2022
+VL 12
+IS 1
+AR 9234
+DI 10.1038/s41598-022-12494-w
+PG 13
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 1U7AQ
+UT WOS:000805561200024
+PM 35654942
+OA gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU McClure, JM
+AF McClure, Jennifer M.
+TI Is Together Better? Investigating the Relationship Between Network
+   Dynamics and Congregations' Vitality and Sustainability
+SO REVIEW OF RELIGIOUS RESEARCH
+LA English
+DT Article
+DE Religious congregations; Congregational vitality; Congregational
+   sustainability; Social network analysis; Brokerage; Structural holes;
+   Network closure
+ID STRUCTURAL HOLES; RELIGION; COLLABORATION; EMBEDDEDNESS; PERFORMANCE;
+   TIES; WAVE
+AB Background Although few studies have explored predictors of congregational vitality (i.e., ministry-oriented strengths, not attendance or growth) and sustainability, inter-organizational relationships matter for organizational wellbeing because of their impact on trust, cooperation, and information access. However, investigating the relationship between social capital and congregational vitality and sustainability has not previously been possible due to data limitations. Purpose This article investigates the extent to which brokerage, or bridging together otherwise disconnected congregations, predicts congregational vitality and sustainability in an inter-congregational network of religious congregations from eight counties encompassing and surrounding a major metropolitan area in the southeastern United States. Research on social networks between organizations suggests that brokerage can have positive, negative, and curvilinear relationships with organizational outcomes, and this literature does not provide a clear expectation for how brokerage might relate with congregational vitality and sustainability. Methods OLS regressions are used to predict three forms of vitality and two forms of sustainability using inverse network constraint, a measure of brokerage, as well as a variety of control variables. Statistical significance is estimated through permutation tests, which account for the relationships between congregations. Results Results indicate that brokerage is positively associated with community vitality and that staff/volunteer sustainability is highest for congregations with moderate levels of brokerage. Brokerage does not predict spiritual vitality, relational vitality, or financial sustainability. Conclusions and Implications This article has practical implications for congregations. Bridging together otherwise disconnected congregations can provide a wide range of ideas, resources, and opportunities, and these benefits can help congregations seeking to minister in their communities. In addition, moderate levels of brokerage can provide more diverse information and resources as well as a supportive, trusting, and cooperative environment. This combination of benefits may be helpful for congregations to disclose challenges with and to seek resources related to staff/volunteer sustainability. In addition, this article contributes to the fields of: congregational studies through exploring predictors of congregational vitality and sustainability; sociology of religion through expanding research using social network analysis; inter-organizational networks, whose research on social capital and organizational outcomes is both complicated and conflicting.
+C1 [McClure, Jennifer M.] Samford Univ, 800 Lakeshore Dr, Birmingham, AL 35229 USA.
+C3 Samford University
+RP McClure, JM (corresponding author), Samford Univ, 800 Lakeshore Dr, Birmingham, AL 35229 USA.
+EM jmcclure@samford.edu
+OI McClure, Jennifer/0000-0002-3829-6834
+FU Faculty Development Grant from Samford University; Lilly Endowment [2014
+   0494-000]
+FX This work was supported by a Faculty Development Grant from Samford
+   University and a Lilly Endowment grant awarded to Samford University's
+   Center for Congregational Resources (#2014 0494-000).
+CR Ahuja G, 2000, ADMIN SCI QUART, V45, P425, DOI 10.2307/2667105
+   Allison PD, 1999, Multiple regression: A primer
+   Ammerman N., 1997, CONGREGATION COMMUNI
+   Ammerman N.T., 2005, Pillars of Faith: American Congregations and Their Partners
+   Analytic Technologies, TOOLS STAT VECTOR RE
+   Balkundi P, 2007, J ORGAN BEHAV, V28, P241, DOI 10.1002/job.428
+   Bizzi L, 2013, J MANAGE, V39, P1554, DOI 10.1177/0149206312471385
+   Bobbitt L, 2018, REV RELIG RES, V60, P423, DOI 10.1007/s13644-018-0337-6
+   Bobbitt L, 2016, REV RELIG RES, V58, P183, DOI 10.1007/s13644-015-0226-1
+   Bobbitt L, 2014, REV RELIG RES, V56, P467, DOI 10.1007/s13644-014-0158-1
+   Bobbitt Linda, 2015, CONGREGATIONAL VITAL
+   Borgatti SP., 2018, ANAL SOCIAL NETWORKS
+   Bruce D., 2006, Journal of Beliefs Values: Studies in Religion Education, V27, P111, DOI DOI 10.1080/13617670600594582
+   BURT RS, 1992, NETWORKS AND ORGANIZATIONS : STRUCTURE, FORM, AND ACTION, P57
+   Burt RS, 2004, AM J SOCIOL, V110, P349, DOI 10.1086/421787
+   Carroll JacksonW., 2006, GODS POTTERS
+   Chapman Mark D., 2004, THESIS U TORONTO TOR
+   Chaves M, 1999, J SCI STUD RELIG, V38, P458, DOI 10.2307/1387606
+   Chaves M., 2014, NATL CONGREGATIONS S
+   Chaves M.A., 2017, AM RELIG CONT TRENDS
+   Chaves M, 2020, J SCI STUD RELIG, V59, P646, DOI 10.1111/jssr.12684
+   Chaves M, 2014, J SCI STUD RELIG, V53, P676, DOI 10.1111/jssr.12151
+   Chaves M, 2008, SOCIOL RELIG, V69, P415, DOI 10.1093/socrel/69.4.415
+   Chaves Mark., 2004, CONGREGATIONS AM
+   Clauset A, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.066111
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   Corcoran KE, 2021, REV RELIG RES, V63, P245, DOI 10.1007/s13644-020-00438-7
+   Cormode Scott., 2020, The innovative church: How leaders and their congregations can adapt in an ever-changing world
+   Crossley N., 2015, Social Network Analysis for Ego-Nets
+   DeVellis R., 2012, SCALE DEV THEORY APP
+   Everton SF, 2018, STRUC AN S, P1, DOI 10.1017/9781108241748
+   Finke R, 2004, J SCI STUD RELIG, V43, P19, DOI 10.1111/j.1468-5906.2004.00215.x
+   Fulton B.R., 2016, Management and Organizational Studies, V3, P1
+   Gargiulo M, 2000, ORGAN SCI, V11, P183, DOI 10.1287/orsc.11.2.183.12514
+   Geverdt D.E., 2015, ED DEMOGRAPHIC GEOGR
+   Grammich Clifford., 2012, 2010 U.S. Religion Census: Religious Congregations Membership Study
+   Hoge DR, 1998, J SCI STUD RELIG, V37, P470
+   Kreiser PM, 2011, ENTREP THEORY PRACT, V35, P1025, DOI 10.1111/j.1540-6520.2011.00449.x
+   Kwon SW, 2020, J MANAGE, V46, P1092, DOI 10.1177/0149206320914694
+   Lee SK, 2019, COMMUN RES, V46, P208, DOI 10.1177/0093650216641501
+   Lin Nan, 2001, Social capital: theory and research, P31
+   Marler PennyLong., 2013, So Much Better: How Thousands of Pastors Help Each Other to Thrive: The Sustaining Pastoral Excellence (SPE) Peer Learning Project
+   McClure JM, 2021, RELIGIONS, V12, DOI 10.3390/rel12080653
+   McClure JM, 2021, REV RELIG RES, V63, P559, DOI 10.1007/s13644-021-00449-y
+   McClure JM, 2015, REV RELIG RES, V57, P269, DOI 10.1007/s13644-014-0201-2
+   McClure JenniferM., 2020, INTERDISCIPLINARY J, V57, P269
+   NELDER JA, 1972, J R STAT SOC SER A-G, V135, P370, DOI 10.2307/2344614
+   OLSON DVA, 1989, J SCI STUD RELIG, V28, P432, DOI 10.2307/1386575
+   Prell C., 2012, Social Network Analysis: History, Theory and Methodology
+   Provan KG, 2007, J MANAGE, V33, P479, DOI 10.1177/0149206307302554
+   Putnam Robert D., 2000, BOWLING ALONE COLLAP, DOI 10.1145/358916.361990
+   Ruef M, 2002, IND CORP CHANGE, V11, P427, DOI 10.1093/icc/11.3.427
+   Scheitle CP, 2009, J SCI STUD RELIG, V48, P16, DOI 10.1111/j.1468-5906.2009.01427.x
+   Schwadel P, 2010, REV RELIG RES, V51, P366
+   Schwarz ChristianA., 1996, Natural Church Development: A Guide to Eight Essential Qualities of Healthy Churches
+   SCOTT J, 1988, SOCIOLOGY, V22, P109, DOI 10.1177/0038038588022001007
+   Shipilov AV, 2008, ADMIN SCI QUART, V53, P73, DOI 10.2189/asqu.53.1.73
+   Smith JA, 2017, SOC NETWORKS, V48, P78, DOI 10.1016/j.socnet.2016.04.005
+   Soda G, 2004, ACAD MANAGE J, V47, P893, DOI 10.5465/20159629
+   Stark R., 2000, ACTS FAITH EXPLAININ, DOI DOI 10.1525/9780520924345
+   Steensland B, 2000, SOC FORCES, V79, P291, DOI 10.2307/2675572
+   Stein RE, 2020, SOCIOL RELIG, V81, P206, DOI 10.1093/socrel/srz036
+   Steinke PeterL., 2019, Uproar: Calm Leadership in Anxious Times
+   Sterland S., 2018, Research in the Social Scientific Study of Religion, V29, P204, DOI DOI 10.1163/9789004382640_012
+   Stroope S, 2012, SOCIOL RELIG, V73, P273, DOI 10.1093/socrel/srr052
+   Thiessen J, 2019, REV RELIG RES, V61, P13, DOI 10.1007/s13644-018-0356-3
+   Todd NR, 2020, AM J COMMUN PSYCHOL, V65, P107, DOI 10.1002/ajcp.12359
+   Uzzi B, 1999, AM SOCIOL REV, V64, P481, DOI 10.2307/2657252
+   Uzzi B, 2005, AM J SOCIOL, V111, P447, DOI 10.1086/432782
+   Wolfe AW, 1997, AM ETHNOL, V24, P219, DOI 10.1525/ae.1997.24.1.219
+   Woolever Cynthia., 2006, Routledge Journal of Beliefs and Values, V27, P53, DOI [10.1080/13617670600594335, DOI 10.1080/13617670600594335]
+   Woolever Cynthia., 2008, Places of Promise: Finding Strength in Your Congregation's Location
+   Woolever Cynthia., 2006, J BELIEFS VALUES, V27, P25, DOI [10.1080/13617670600594186, DOI 10.1080/13617670600594186]
+   Woolever Cynthia., 2004, Beyond the Ordinary: 10 Strengths of U.S. Congregations
+   Woolever CynthiaDeborah Bruce., 2010, A Field Guide to U.S. Congregations: Who's Going Where and Why, V2nd
+   Zaheer A, 2005, STRATEGIC MANAGE J, V26, P809, DOI 10.1002/smj.482
+   Zaheer A, 2010, ACAD MANAGE PERSPECT, V24, P62, DOI 10.5465/AMP.2010.50304417
+   Zaheer A, 2009, ADMIN SCI QUART, V54, P1, DOI 10.2189/asqu.2009.54.1.1
+NR 78
+TC 0
+Z9 0
+U1 2
+U2 6
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0034-673X
+EI 2211-4866
+J9 REV RELIG RES
+JI Rev. Relig. Res.
+PD SEP
+PY 2022
+VL 64
+IS 3
+BP 451
+EP 474
+DI 10.1007/s13644-022-00496-z
+EA JUL 2022
+PG 24
+WC Sociology; Religion
+WE Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Sociology; Religion
+GA 4N3EB
+UT WOS:000824933700001
+OA Bronze
+DA 2024-11-22
+ER
+
+PT J
+AU Federo, R
+   Bustamante, X
+AF Federo, Ryan
+   Bustamante, Xavier
+TI The ties that bind global governance: Using media-reported events to
+   disentangle the global interorganizational network in a global pandemic
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Global interorganizational network; Grand challenges; Theory of
+   networks; COVID-19; Network analysis; GDELT
+ID GRAND CHALLENGES; SOCIAL NETWORKS; MANAGEMENT; CONFLICT; ORGANIZATIONS;
+   COOPERATION; CENTRALITY; COLLABORATION; COMPETITION; GOVERNMENT
+AB This article disentangles the global interorganizational network by analyzing the ties of international actors comprising multinational companies, intergovernmental organizations, and international nongovernmental organizations. The onset of COVID-19 is a rare opportunity to explore how this network has evolved in an exogenous event. Using a unique GDELT big dataset of events reported by the world's media, we extract and analyze the interorganizational interactions of international actors before and after the World Health Organization (WHO) announced that the COVID-19 outbreak was a public health emergency of international concern. Adopting an exploratory and descriptive approach at multiple levels of analysis, we draw on the theory of networks to uncover the fragmented, polycentric, and complex characteristics of the global interorganizational network. Our study highlights the use of media-reported events and the Goldstein scale as means to unpack the difficult-to-capture relational dynamics of international actors, which can help in theory development of the global interorganizational network that is crucial for collective action to address societal grand challenges.
+C1 [Federo, Ryan] Univ Illes Balears, Campus Cra,Km 7, Palma De Mallorca 07122, Spain.
+   [Bustamante, Xavier] Univ Politecn Cataluna, Carrer Jordi Girona 31, Barcelona 08034, Spain.
+C3 Universitat de les Illes Balears; Universitat Politecnica de Catalunya
+RP Federo, R (corresponding author), Univ Illes Balears, Campus Cra,Km 7, Palma De Mallorca 07122, Spain.
+EM ryan.federo@uib.es; xavier@bustawin.com
+OI Federo, Ryan/0000-0002-3947-5463
+FU Spanish Ministry of Science and Innovation [PID2020-115982RB-C21]; 
+   [MICIN/AEI/10.13039/501100011033]
+FX We thank Professor Martin Everett for the excellent editorial guidance
+   and the two anonymous reviewers for the highly constructive and
+   developmental comments. Earlier versions of this article have benefitted
+   from the presentations at the 2021 Academy of Management Annual Meeting,
+   2021 Academy of International Business Annual Conference, 2021
+   International Studies Association Annual Convention, and research
+   seminars held at the Department of Business-Universitat Aut`onoma de
+   Barcelona and Department of Business Economics Universitat de les Illes
+   Balears. This work was supported by the grant PID2020-115982RB-C21,
+   funded by the Spanish Ministry of Science and Innovation
+   (MICIN/AEI/10.13039/501100011033).
+CR Abbott KW, 2012, INT AFF, V88, P543, DOI 10.1111/j.1468-2346.2012.01088.x
+   Amason AC, 1996, ACAD MANAGE J, V39, P123, DOI 10.5465/256633
+   [Anonymous], 1986, SOCIAL CONFLICT ESCA
+   Atouba Y, 2010, J COMMUN, V60, P293, DOI 10.1111/j.1460-2466.2010.01483.x
+   Atouba YC, 2015, NONPROF VOLUNT SEC Q, V44, P587, DOI 10.1177/0899764014524991
+   Berchtold C, 2020, INT J DISAST RISK SC, V11, P46, DOI 10.1007/s13753-020-00249-y
+   Besiou M, 2013, J BUS ETHICS, V118, P709, DOI 10.1007/s10551-013-1956-z
+   Boda Z, 2015, SOC NETWORKS, V43, P57, DOI 10.1016/j.socnet.2015.03.004
+   Bodas-Sagi DJ, 2016, INT J INTERACT MULTI, V3, P38, DOI 10.9781/ijimai.2016.366
+   BONACICH P, 1987, AM J SOCIOL, V92, P1170, DOI 10.1086/228631
+   Borgatti SP, 2005, SOC NETWORKS, V27, P55, DOI 10.1016/j.socnet.2004.11.008
+   Borgatti SP, 1999, SOC NETWORKS, V21, P375
+   Borgatti SP, 2011, ORGAN SCI, V22, P1168, DOI 10.1287/orsc.1100.0641
+   Brown LD, 2002, NONPROF VOLUNT SEC Q, V31, P231, DOI 10.1177/08964002031002004
+   Carroll Craig., 2003, Corporate REputation Review, V6, P36, DOI [10.1057/palgrave.crr.1540188, DOI 10.1057/PALGRAVE.CRR.1540188]
+   Collberg C., 2003, Proceedings of the 2003 ACM symposium on Software visualization-SoftVis '03, P77
+   Collet F, 2013, SOC NETWORKS, V35, P288, DOI 10.1016/j.socnet.2013.02.005
+   Crocker CA, 2011, INT AFF, V87, P39, DOI 10.1111/j.1468-2346.2011.00959.x
+   Crowe JA, 2007, SOC NETWORKS, V29, P469, DOI 10.1016/j.socnet.2007.02.002
+   Das SR, 2007, MANAGE SCI, V53, P1375, DOI 10.1287/mnsc.1070.0704
+   Diani M, 2003, COMP POLITICS SERIES
+   Doh JP, 2019, ACAD MANAGE PERSPECT, V33, P450, DOI 10.5465/amp.2017.0056
+   Dumbill E., 2012, PLANNING BIG DATA
+   Etter M, 2018, BUS SOC, V57, P60, DOI 10.1177/0007650316683926
+   Everett, 1998, CONNECTIONS, V21, P27, DOI DOI 10.1111/J.1467-9663.2010.00632.X
+   Everett MG, 2014, SOC NETWORKS, V38, P111, DOI 10.1016/j.socnet.2014.03.005
+   Federo R, BUSTAMANTE GLOBAL IN
+   Federo R, 2018, CORP GOV-OXFORD, V26, P414, DOI 10.1111/corg.12241
+   Federo Ryan., 2021, Management and Governance of Intergovernmental Organizations (Elements in Public and Nonprofit Administration)
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   FRUCHTERMAN TMJ, 1991, SOFTWARE PRACT EXPER, V21, P1129, DOI 10.1002/spe.4380211102
+   George G, 2016, ACAD MANAGE J, V59, P1880, DOI 10.5465/amj.2016.4007
+   Gest N, 2010, REV INT ORGAN, V5, P53, DOI 10.1007/s11558-009-9070-9
+   GOLDSTEIN JS, 1992, J CONFLICT RESOLUT, V36, P369, DOI 10.1177/0022002792036002007
+   Gupta D, 2019, WORLD DEV, V114, P326, DOI 10.1016/j.worlddev.2018.09.016
+   Hagberg A., 2008, Exploring Network Structure, Dynamics, and Function Using NetworkX
+   Hitt MA, 2021, J WORLD BUS, V56, DOI 10.1016/j.jwb.2021.101210
+   Vu HT, 2020, ENVIRON COMMUN, V14, P450, DOI 10.1080/17524032.2019.1687099
+   JEHN KA, 1995, ADMIN SCI QUART, V40, P256, DOI 10.2307/2393638
+   Jones C, 1997, ACAD MANAGE REV, V22, P911, DOI 10.5465/AMR.1997.9711022109
+   KAMADA T, 1989, INFORM PROCESS LETT, V31, P7, DOI 10.1016/0020-0190(89)90102-6
+   Kapucu N., 2020, NETWORK GOVERNANCE C
+   Kapucu N, 2020, ADM SCI, V10, DOI 10.3390/admsci10040100
+   Keim G., 2003, Globalization and NGOs: Transforming business, governments, and society
+   Kim JH, 2021, NAT MED, V27, P205, DOI 10.1038/s41591-021-01230-y
+   Kim RE, 2020, INT STUD REV, V22, P903, DOI 10.1093/isr/viz052
+   Kojaku S, 2018, NEW J PHYS, V20, DOI 10.1088/1367-2630/aab547
+   Lawton TC, 2020, J MANAGE STUD, V57, P1732, DOI 10.1111/joms.12627
+   Lazarus JV, 2021, NAT MED, V27, P225, DOI 10.1038/s41591-020-1124-9
+   Lecy JD, 2012, VOLUNTAS, V23, P434, DOI 10.1007/s11266-011-9204-6
+   Lee TH, 2019, BUS SOC, V58, P683, DOI 10.1177/0007650317696314
+   Leetaru K., 2013, ISA ANN CONV CIT, V2, P1
+   Levin N, 2018, APPL GEOGR, V94, P1, DOI 10.1016/j.apgeog.2018.03.001
+   McAfee A, 2012, HARVARD BUS REV, V90, P60
+   McDonnell MH, 2013, ADMIN SCI QUART, V58, P387, DOI 10.1177/0001839213500032
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Moshtari M, 2017, VOLUNTAS, V28, P1673, DOI 10.1007/s11266-016-9767-3
+   Murdie A, 2014, REV INT ORGAN, V9, P309, DOI 10.1007/s11558-013-9180-2
+   Olsen AO, 2016, ACAD MANAGE J, V59, P2232, DOI 10.5465/amj.2015.0730
+   Ostrom E, 2000, J ECON PERSPECT, V14, P137, DOI 10.1257/jep.14.3.137
+   Ostrom E., 2004, INT FOOD POLICY RES, V2, P1
+   Ostrom E, 2009, ELGAR ORIG REF, P17
+   Park J, 2021, WORLD DEV, V137, DOI 10.1016/j.worlddev.2020.105198
+   Perez O, 2019, REGUL GOV, V13, P447, DOI 10.1111/rego.12230
+   Plotly Technologies Inc, 2015, COLL DAT SCI
+   Quinton S, 2016, IND MARKET MANAG, V54, P15, DOI 10.1016/j.indmarman.2015.12.001
+   Rombach P, 2017, SIAM REV, V59, P619, DOI 10.1137/17M1130046
+   Rondinelli DA, 2003, ACAD MANAGE EXEC, V17, P61, DOI 10.5465/AME.2003.9474812
+   Sapat A, 2019, AM REV PUBLIC ADM, V49, P957, DOI 10.1177/0275074019861347
+   Saz-Carranza A, 2020, PUBLIC ADMIN, V98, P480, DOI 10.1111/padm.12631
+   Schilke O, 2013, STRATEG ORGAN, V11, P281, DOI 10.1177/1476127012472096
+   Schilling MA, 2007, MANAGE SCI, V53, P1113, DOI 10.1287/mnsc.1060.0624
+   Schrodt P.A, 2012, Conflict and mediation event observations (CAMEO) - Event and actor codebook (No. Version 1.1b3)
+   Shipilov A, 2020, ACAD MANAG ANN, V14, P92, DOI 10.5465/annals.2018.0121
+   Siegel DA, 2009, AM J POLIT SCI, V53, P122, DOI 10.1111/j.1540-5907.2008.00361.x
+   SMITH KG, 1995, ACAD MANAGE J, V38, P7, DOI 10.5465/256726
+   Stadtler L, 2018, J BUS ETHICS, V148, P329, DOI 10.1007/s10551-017-3579-2
+   Sydow J., 1998, TRUST ORG, P31
+   Sytch M, 2014, ACAD MANAGE J, V57, P585, DOI 10.5465/amj.2011.0979
+   Teegen H, 2004, J INT BUS STUD, V35, P463, DOI 10.1057/palgrave.jibs.8400112
+   Tischer D, 2022, SOC NETWORKS, V69, P113, DOI 10.1016/j.socnet.2020.09.004
+   Ward MD, 2013, ANALYSIS-UK, V21, P267
+   Weidmann NB, 2016, AM J POLIT SCI, V60, P206, DOI 10.1111/ajps.12196
+   Yonamine J.E., 2013, THESIS PENNSYLVANIA
+   Zaidi S. A., 1999, Journal of International Development, V11, P259, DOI 10.1002/(SICI)1099-1328(199903/04)11:2<259::AID-JID573>3.0.CO;2-N
+NR 85
+TC 12
+Z9 12
+U1 6
+U2 39
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JUL
+PY 2022
+VL 70
+BP 253
+EP 266
+DI 10.1016/j.socnet.2022.02.012
+EA FEB 2022
+PG 14
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 2P7QO
+UT WOS:000819930800014
+OA hybrid
+DA 2024-11-22
+ER
+
+PT J
+AU Li, MS
+   Xie, NM
+   Zhang, R
+   Huang, XJ
+AF Li, Mingshan
+   Xie, Naiming
+   Zhang, Ran
+   Huang, Xiaojun
+TI Dynamics of a Discrete Lotka-Volterra Information Diffusion Model
+SO INTERNATIONAL JOURNAL OF BIFURCATION AND CHAOS
+LA English
+DT Article
+DE Discrete information diffusion model; bifurcation; degenerate fixed
+   point; qualitative structure; degenerate saddle node
+ID DEGENERATE FIXED-POINT; SOCIAL NETWORKS; BIFURCATION; STABILITY
+AB To explore the process of online social network information interaction, in this paper, we analyze the dynamics of a discrete Lotka-Volterra information diffusion model. Using the center manifold theorem, the conditions for transcritical bifurcation and flip bifurcation are obtained. With the help of approximation by a flow and Picard iteration, we explore the qualitative structures and stability of degenerate fixed point of the model with eigenvalues +/- 1. What's interesting is that our results reveal a new and complex qualitative structure for fixed point, which are different from the previous reports and called degenerate saddle point. Additionally, the qualitative structures provide a new idea for investigation the stability of degenerate fixed point. Meanwhile, near the maximum user density, the dynamic results of degenerate fixed point indicate that if the intervention rate is greater than the inverse of the maximum user density, then the higher user density decreases, the lower user density increases when intrinsic growth rates are small (between 0 and 2). However, when the intrinsic growth rate is greater than 2, the high user density will continue to increase until it approaches the maximum user density indefinitely, while the small user density will approach 0, which provide us with new insights into information diffusion. Finally, we show the results of the model by numerical simulations, and the characteristics of information diffusion near the degenerate fixed point are predicted by theoretical analysis.
+C1 [Li, Mingshan; Xie, Naiming] Nanjing Univ Aeronaut & Astronaut, Coll Econ & Management, Nanjing 211106, Jiangsu, Peoples R China.
+   [Zhang, Ran] Heilongjiang Univ, Sch Math Sci, Harbin 150080, Heilongjiang, Peoples R China.
+   [Huang, Xiaojun] Lingnan Normal Univ, Sch Math & Stat, Zhanjiang 524048, Guangdong, Peoples R China.
+C3 Nanjing University of Aeronautics & Astronautics; Heilongjiang
+   University; LingNan Normal University
+RP Xie, NM (corresponding author), Nanjing Univ Aeronaut & Astronaut, Coll Econ & Management, Nanjing 211106, Jiangsu, Peoples R China.
+EM lmsmath@163.com; xienaiming@nuaa.edu.cn; ranzhang@hlju.edu.cn;
+   lxj10622@163.com
+RI 黄, 晓君/AAS-9072-2020; Zhang, Ran/S-2198-2017
+OI Zhang, Ran/0000-0002-8870-5958; Xie, Naiming/0000-0002-7368-1746
+FU National Natural Science Foundation of China [72171116, 71671090,
+   71871117, 12101309]; Fundamental Research Funds for the Central
+   Universities [NP2020022]
+FX This work was supported by National Natural Science Foundation of China
+   under Grant 72171116, 71671090, 71871117, 12101309, and the Fundamental
+   Research Funds for the Central Universities under Grant NP2020022.
+CR Adamic L.A., 2006, P 7 ACM C EL COMM, P228, DOI [10.1145/1232722.1232727, 10.1145/1232722.1232727.15]
+   Alidousti J, 2020, APPL MATH MODEL, V81, P342, DOI 10.1016/j.apm.2019.11.025
+   Alidousti J, 2019, APPL MATH MODEL, V72, P385, DOI 10.1016/j.apm.2019.03.029
+   Babaei M, 2013, SOC NETW ANAL MIN, V3, P1249, DOI 10.1007/s13278-012-0085-5
+   Carr J., 1981, APPL CTR MANIFOLD TH, V35
+   Chami GF, 2017, NAT COMMUN, V8, DOI 10.1038/s41467-017-01499-z
+   Chow S., 1994, Normal Forms and Bifurcation of Planar Vector Fields, DOI [10.1017/CBO9780511665639, DOI 10.1017/CBO9780511665639]
+   Domingos P., 2001, KDD-2001. Proceedings of the Seventh ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, P57, DOI 10.1145/502512.502525
+   Dumortier F, 2006, UNIVERSITEXT, P1
+   Elaydi S, 2011, J DIFFER EQU APPL, V17, P1873, DOI 10.1080/10236198.2011.559468
+   Foroozani A, 2019, EXPERT SYST APPL, V134, P249, DOI 10.1016/j.eswa.2019.05.047
+   Guckenheimer J., 1983, NONLINEAR OSCILLATIO, DOI [10.1007/978-1-4612-1140-2, 10.1007/978-1-4612- 1140-2]
+   Hartline Jason D., 2008, Proceedings of the 17th international conference on World Wide Web, P189, DOI 10.1145/1367497.1367524
+   Huang CD, 2021, NEURAL NETWORKS, V141, P344, DOI 10.1016/j.neunet.2021.04.005
+   Huang CD, 2020, PHYSICA A, V554, DOI 10.1016/j.physa.2020.124136
+   Jalili M, 2017, J COMPLEX NETW, V5, P665, DOI 10.1093/comnet/cnx019
+   Alvarez MJ, 2011, INT J BIFURCAT CHAOS, V21, P3103, DOI 10.1142/S0218127411030416
+   Jiang LB, 2018, NAT COMMUN, V9, DOI 10.1038/s41467-018-05416-w
+   Kuznetsov Y. A., 2004, ELEMENTS APPL BIFURC, V112, DOI DOI 10.1007/978-1-4757-3978-7
+   Kuznetsov YA, 2004, INT J BIFURCAT CHAOS, V14, P2253, DOI 10.1142/S0218127404010576
+   Li CR, 2015, ADV DIFFER EQU-NY, DOI 10.1186/s13662-015-0655-8
+   Li MS, 2020, ADV DIFFER EQU-NY, V2020, DOI 10.1186/s13662-020-03033-w
+   Lim S, 2015, EUR PHYS J B, V88, DOI 10.1140/epjb/e2015-60263-6
+   Majhi S, 2022, J R SOC INTERFACE, V19, DOI 10.1098/rsif.2022.0043
+   MAY RM, 1976, NATURE, V261, P459, DOI 10.1038/261459a0
+   Perc M, 2019, EUR PHYS J-SPEC TOP, V228, P2351, DOI 10.1140/epjst/e2019-900201-4
+   Qi JS, 2018, SCI REP-UK, V8, DOI 10.1038/s41598-018-29733-8
+   Ren JL, 2019, DISCRETE CONT DYN-B, V24, P1843, DOI 10.3934/dcdsb.2018240
+   Ren JL, 2016, J NONLINEAR SCI, V26, P1895, DOI 10.1007/s00332-016-9323-8
+   Rihan FA, 2020, CHAOS SOLITON FRACT, V141, DOI 10.1016/j.chaos.2020.110365
+   Shakourifar M, 2011, SIAM J SCI COMPUT, V33, P1134, DOI 10.1137/100793098
+   Subramani MR, 2003, COMMUN ACM, V46, P300, DOI 10.1145/953460.953514
+   Wang XC, 2019, NAT HUM BEHAV, V3, P709, DOI 10.1038/s41562-019-0605-7
+   Wang ZX, 2021, PHYSICA A, V573, DOI 10.1016/j.physa.2021.125907
+   Wiggins S., 1990, INTRO APPL NONLINEAR, DOI [10.1007/978-1-4757-4067-7, DOI 10.1007/978-1-4757-4067-7]
+   Xu CJ, 2022, MATH METHOD APPL SCI, V45, P11736, DOI 10.1002/mma.8477
+   Xu CJ, 2022, EXPERT SYST APPL, V199, DOI 10.1016/j.eswa.2022.116859
+   Xu CJ, 2023, MATH METHOD APPL SCI, V46, P3091, DOI 10.1002/mma.7581
+   Xu CJ, 2011, NONLINEAR DYNAM, V66, P169, DOI 10.1007/s11071-010-9919-8
+   Zhang J, 2019, J DIFFER EQU APPL, V25, P430, DOI 10.1080/10236198.2019.1581181
+   Zhong JY, 2021, J DIFFER EQU APPL, V27, P858, DOI 10.1080/10236198.2021.1944124
+   Zhong JY, 2018, J DIFFER EQU APPL, V24, P409, DOI 10.1080/10236198.2017.1411909
+   Zhou B, 2020, NAT HUM BEHAV, V4, P1198, DOI 10.1038/s41562-020-00945-1
+NR 43
+TC 1
+Z9 1
+U1 5
+U2 12
+PU WORLD SCIENTIFIC PUBL CO PTE LTD
+PI SINGAPORE
+PA 5 TOH TUCK LINK, SINGAPORE 596224, SINGAPORE
+SN 0218-1274
+EI 1793-6551
+J9 INT J BIFURCAT CHAOS
+JI Int. J. Bifurcation Chaos
+PD DEC 15
+PY 2022
+VL 32
+IS 15
+AR 2250228
+DI 10.1142/S0218127422502285
+PG 15
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Mathematics; Science & Technology - Other Topics
+GA 7E2XV
+UT WOS:000901038500007
+DA 2024-11-22
+ER

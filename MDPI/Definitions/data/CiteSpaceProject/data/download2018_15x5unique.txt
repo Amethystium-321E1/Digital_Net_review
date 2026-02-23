@@ -1,0 +1,619 @@
+
+PT J
+AU Bastos, M
+   Mercea, D
+   Baronchelli, A
+AF Bastos, Marco
+   Mercea, Dan
+   Baronchelli, Andrea
+TI The geographic embedding of online echo chambers: Evidence from the
+   Brexit campaign
+SO PLOS ONE
+LA English
+DT Article
+ID SOCIAL NETWORKS; INTERNET USE; EXPOSURE; FEATHER; BIRDS; SIZE; NEWS
+AB This study explores the geographic dependencies of echo-chamber communication on Twitter during the Brexit campaign. We review the evidence positing that online interactions lead to filter bubbles to test whether echo chambers are restricted to online patterns of interaction or are associated with physical, in-person interaction. We identify the location of users, estimate their partisan affiliation, and finally calculate the distance between sender and receiver of @-mentions and retweets. We show that polarized online echo-chambers map onto geographically situated social networks. More specifically, our results reveal that echo chambers in the Leave campaign are associated with geographic proximity and that the reverse relationship holds true for the Remain campaign. The study concludes with a discussion of primary and secondary effects arising from the interaction between existing physical ties and online interactions and argues that the collapsing of distances brought by internet technologies may foreground the role of geography within one's social network.
+C1 [Bastos, Marco; Mercea, Dan] City Univ London, Dept Sociol, London, England.
+   [Baronchelli, Andrea] City Univ London, Dept Math, London, England.
+C3 City St Georges, University of London; City St Georges, University of
+   London
+RP Bastos, M (corresponding author), City Univ London, Dept Sociol, London, England.
+EM Marco.Bastos@city.ac.uk
+RI Bastos, Marco/D-4616-2013; Baronchelli, Andrea/F-9550-2016
+OI Bastos, Marco/0000-0003-0480-1078; Baronchelli,
+   Andrea/0000-0002-0255-0829
+FU Research Pump-Priming Fund of the School of Arts and Social Sciences of
+   City, University of London [90608SS]
+FX M.B. acknowledges financial support from the Research Pump-Priming Fund
+   of the School of Arts and Social Sciences of City, University of London
+   (#90608SS).
+CR [Anonymous], SOCIAL SCI COMPUTER
+   [Anonymous], 2017, COLUMBIA JOURNAL REV
+   [Anonymous], GEOC API DEV GUID 6
+   [Anonymous], 2018, SSRN
+   [Anonymous], REPUBLIC COM 2 0 PRI
+   [Anonymous], 2012, FILTER BUBBLE WHAT I, DOI DOI 10.3139/9783446431164
+   [Anonymous], 2016, HARVARD JFK SCH GOVT
+   [Anonymous], COMMUNICATION RESEAR
+   [Anonymous], GEOGRAPHY BREXIT WHA
+   Bakshy E, 2015, SCIENCE, V348, P1130, DOI 10.1126/science.aaa1160
+   Barbera P., How Social Media Reduces Mass Political Polarization
+   Barberá P, 2015, SOC SCI COMPUT REV, V33, P712, DOI 10.1177/0894439314558836
+   Barberá P, 2015, PSYCHOL SCI, V26, P1531, DOI 10.1177/0956797615594620
+   Beam MA, 2018, INFORM COMMUN SOC, V21, P940, DOI 10.1080/1369118X.2018.1444783
+   Becker SO, 2017, ECON POLICY, V32, P601, DOI 10.1093/epolic/eix012
+   Bessi A, 2015, WWW'15 COMPANION: PROCEEDINGS OF THE 24TH INTERNATIONAL CONFERENCE ON WORLD WIDE WEB, P355, DOI 10.1145/2740908.2745939
+   Boxell L, 2017, P NATL ACAD SCI USA, V114, P10612, DOI 10.1073/pnas.1706588114
+   Bright J, 2016, J COMMUN, V66, P343, DOI 10.1111/jcom.12232
+   Colleoni E, 2014, J COMMUN, V64, P317, DOI 10.1111/jcom.12084
+   Conover M. D., 2011, 5 INT AAAI C WEBL SO
+   Curtice J, 2016, POLIT QUART, V87, P209, DOI 10.1111/1467-923X.12250
+   Del Vicario M, 2017, SOC NETWORKS, V50, P6, DOI 10.1016/j.socnet.2017.02.002
+   Del Vicario M, 2016, P NATL ACAD SCI USA, V113, P554, DOI 10.1073/pnas.1517441113
+   Dubois E, 2018, INFORM COMMUN SOC, V21, P729, DOI 10.1080/1369118X.2018.1428656
+   Fletcher R, 2017, J COMMUN, V67, P476, DOI 10.1111/jcom.12315
+   Gentzkow M, 2011, Q J ECON, V126, P1799, DOI 10.1093/qje/qjr044
+   Glückler J, 2007, J ECON GEOGR, V7, P619, DOI 10.1093/jeg/lbm023
+   Groves RM, 2006, PUBLIC OPIN QUART, V70, P646, DOI 10.1093/poq/nfl033
+   Halberstam Y, 2016, J PUBLIC ECON, V143, P73, DOI 10.1016/j.jpubeco.2016.08.011
+   Hampton KN, 2008, NEW MEDIA SOC, V10, P831, DOI 10.1177/1461444808096247
+   Hampton KN, 2011, INFORM COMMUN SOC, V14, P130, DOI 10.1080/1369118X.2010.513417
+   Hampton KN, 2010, J COMMUN, V60, P701, DOI 10.1111/j.1460-2466.2010.01510.x
+   Himelboim I, 2013, J COMPUT-MEDIAT COMM, V18, P40, DOI 10.1111/jcc4.12001
+   Horrigan J.B., 2004, The Internet and democratic debate
+   Kim Y, 2011, COMPUT HUM BEHAV, V27, P971, DOI 10.1016/j.chb.2010.12.001
+   Krasodomski-Jones A., 2016, Talking to Ourselves? Political Debate Online and the Echo Chamber Effect
+   Kriesi H, 2008, WEST EUROPEAN POLITICS IN THE AGE OF GLOBALIZATION, P183, DOI 10.1017/CBO9780511790720.009
+   Laniado D, 2018, INFORM SYST FRONT, V20, P1203, DOI 10.1007/s10796-017-9784-9
+   Mark NP, 2003, AM SOCIOL REV, V68, P319, DOI 10.2307/1519727
+   MCPHERSON JM, 1987, AM SOCIOL REV, V52, P370, DOI 10.2307/2095356
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Rainie L, 2012, NETWORKED: THE NEW SOCIAL OPERATING SYSTEM, P1
+   Sloan L, 2017, SOC MEDIA SOC, V3, DOI 10.1177/2056305117698981
+   Sloan L, 2013, SOCIOL RES ONLINE, V18, DOI 10.5153/sro.3001
+   Stoop I.A. L., 2005, HUNT LAST RESPONDENT
+   Takhteyev Y, 2012, SOC NETWORKS, V34, P73, DOI 10.1016/j.socnet.2011.05.006
+   Vaccari C, 2016, SOC MEDIA SOC, V2, DOI 10.1177/2056305116664221
+   Wojcieszak M, 2010, NEW MEDIA SOC, V12, P637, DOI 10.1177/1461444809342775
+   Wojcieszak ME, 2009, J COMMUN, V59, P40, DOI 10.1111/j.1460-2466.2008.01403.x
+   Zollo F, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0181821
+NR 50
+TC 30
+Z9 34
+U1 2
+U2 34
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD NOV 2
+PY 2018
+VL 13
+IS 11
+AR e0206841
+DI 10.1371/journal.pone.0206841
+PG 16
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA GZ3MD
+UT WOS:000449289800066
+PM 30388169
+OA gold, Green Submitted, Green Published, Green Accepted
+DA 2024-11-22
+ER
+
+PT J
+AU Fu, YC
+   Velema, TA
+   Hwang, JS
+AF Fu, Yang-chih
+   Velema, Thijs A.
+   Hwang, Jing-Shiang
+TI Upward contacts in everyday life: Benefits of reaching hierarchical
+   relations in ego-centered networks
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Egocentric networks; Contact diaries; Hierarchical role relations; Weak
+   ties; Network non-embeddedness
+ID SOCIAL NETWORKS; OPPORTUNITIES
+AB Recent studies have inspired inquiries about what circumstances allow people to gain from interactions with those who rank higher than themselves in the social hierarchy. We examine how self-reported benefits of such upward contacts vary by tie strength and network structures in everyday life. Data were drawn from contact diaries that 137 individuals recorded over seven months in 2014; these diaries captured unique features of 94,353 one-on-one contacts that 137 diary keepers made, along with the estimated tie strength and the extent of embeddedness among network members. Multilevel models with interaction terms show that diary keepers benefit from contacts with people who play higher hierarchical roles and that the benefits become more substantial when the higher-ranked others are weakly tied to the diary keepers and connected with fewer fellow network members. The paper extends contact diary studies to estimate alter-alter ties that help construct comprehensive structures in egocentric networks. (C) 2018 Elsevier B.V. All rights reserved.
+C1 [Fu, Yang-chih] Acad Sinica, Inst Sociol, 128 Acad Rd,Sec 2, Taipei 115, Taiwan.
+   [Velema, Thijs A.] Natl Sun Yat Sen Univ, Dept Business Management, Kaohsiung, Taiwan.
+   [Hwang, Jing-Shiang] Acad Sinica, Inst Stat Sci, 128 Acad Rd,Sec 2, Taipei 115, Taiwan.
+C3 Academia Sinica - Taiwan; National Sun Yat Sen University; Academia
+   Sinica - Taiwan
+RP Fu, YC (corresponding author), Acad Sinica, Inst Sociol, 128 Acad Rd,Sec 2, Taipei 115, Taiwan.
+EM fuyc@sinica.edu.tw; thijs.velema@mail.nsysu.edu.tw;
+   jshwang@stat.sinica.edu.tw
+RI Hwang, Jing-Shiang/AAP-2835-2021
+OI Fu, Yang-chih/0000-0002-2207-5623
+FU Academia Sinica, Taiwan [AS-103-TP-C03]; Ministry of Science and
+   Technology, Taiwan [MOST103-2410-H-001-068-MY3]
+FX This research was supported by research grants from Academia Sinica,
+   Taiwan (AS-103-TP-C03) and the Ministry of Science and Technology,
+   Taiwan (MOST103-2410-H-001-068-MY3). We thank Tso-Jung Yen for guidance
+   in constructing network non-embeddedness score, Tsuey-Hwa Hu, Jie-Yu
+   Sung, and Yu-Hung Huang for data management and analysis, and anonymous
+   reviewers of the Journal for very helpful comments.
+CR [Anonymous], 2016, POWER CONT JAPAN
+   [Anonymous], SOCIAL CAPITAL ITS I
+   [Anonymous], 1992, Structural holes
+   [Anonymous], 2001, SOCIAL CAPITAL THEOR
+   [Anonymous], 25 SUNB C INT NETW S
+   Barbulescu R, 2015, ORGAN SCI, V26, P1040, DOI 10.1287/orsc.2015.0978
+   Bian Y., 2014, Encyclopedia of Social Network Analysis and Mining, P417, DOI DOI 10.1007/978-1-4614-6170-8_60
+   Bian YJ, 1997, AM SOCIOL REV, V62, P366, DOI 10.2307/2657311
+   BIDDLE BJ, 1986, ANNU REV SOCIOL, V12, P67, DOI 10.1146/annurev.so.12.080186.000435
+   Brass D. J., 2009, SOCIAL CAPITAL REACH, P260
+   Burt RonaldS., 2009, Social Capital: Reaching Out, Reaching In, P39
+   BURT RS, 1984, SOC NETWORKS, V6, P293, DOI 10.1016/0378-8733(84)90007-8
+   Castilla EJ, 2005, AM J SOCIOL, V110, P1243, DOI 10.1086/427319
+   Chan TC, 2015, J MED INTERNET RES, V17, DOI 10.2196/jmir.4315
+   Coleman J.S., 1994, FDN SOCIAL THEORY
+   Dávid B, 2016, SOC NETWORKS, V44, P253, DOI 10.1016/j.socnet.2015.10.001
+   Fei X., 1992, From the Soil, the Foundations of Chinese Society: a Translation of Fei Xiaotong's Xiangtu Zhongguo, with an Introduction and Epilogue
+   Fu YC, 2007, FIELD METHOD, V19, P194, DOI 10.1177/1525822X06298590
+   Fu YC, 2013, SOC NETWORKS, V35, P279, DOI 10.1016/j.socnet.2013.02.004
+   Fu YC, 2005, SOC NETWORKS, V27, P169, DOI 10.1016/j.socnet.2005.01.008
+   Galunic C, 2012, ACAD MANAGE J, V55, P1213, DOI 10.5465/amj.2010.0827
+   Golder SA, 2014, ANNU REV SOCIOL, V40, P129, DOI 10.1146/annurev-soc-071913-043145
+   Granovetter Mark., 1988, IND FIRMS JOBS, P187
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Homans G.C., 1974, Social Behavior: Its Elementary Forms
+   HWANG KK, 1987, AM J SOCIOL, V92, P944, DOI 10.1086/228588
+   Lee MA, 2017, SOCIOL HEALTH ILL, V39, P1206, DOI 10.1111/1467-9566.12580
+   Lin N, 1999, ANNU REV SOCIOL, V25, P467, DOI 10.1146/annurev.soc.25.1.467
+   Lin N., 2014, SOCIAL CAPITAL ITS I, P3
+   Lin N., 2000, Social capital: A theory of structure and action
+   Lin Nan., 2008, Social Capital: An International Research Program, P1, DOI DOI 10.1093/ACPROF:OSO/9780199234387.003.0010
+   Marin A, 2013, SOCIOL FORUM, V28, P350, DOI 10.1111/socf.12022
+   Marin A, 2012, SOC NETWORKS, V34, P181, DOI 10.1016/j.socnet.2011.11.002
+   Marsden PV, 2012, SOC FORCES, V91, P17, DOI 10.1093/sf/sos112
+   MARSDEN PV, 1990, ANNU REV SOCIOL, V16, P435, DOI 10.1146/annurev.so.16.080190.002251
+   MARSDEN PV, 1984, SOC FORCES, V63, P482, DOI 10.2307/2579058
+   Milgram S., 1977, The Individual in a Social World: Essays and Experiments, P51
+   Mishra S, 2015, SOC SCI MED, V147, P144, DOI 10.1016/j.socscimed.2015.10.030
+   Nakane Chie., 1970, JAPANESE SOC
+   O'Connor LT, 2013, SOC NETWORKS, V35, P593, DOI 10.1016/j.socnet.2013.07.005
+   Obukhova E, 2013, MANAGE SCI, V59, P2204, DOI 10.1287/mnsc.1120.1701
+   Podolny JoelM., 2005, STATUS SIGNALS
+   UEHARA E, 1990, AM J SOCIOL, V96, P521, DOI 10.1086/229571
+   Wellman B, 2001, AM BEHAV SCI, V45, P436, DOI 10.1177/00027640121957286
+   Yen TJ, 2016, SOC NETWORKS, V45, P78, DOI 10.1016/j.socnet.2015.12.001
+NR 45
+TC 6
+Z9 6
+U1 1
+U2 15
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JUL
+PY 2018
+VL 54
+BP 266
+EP 278
+DI 10.1016/j.socnet.2018.03.002
+PG 13
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA GG5XH
+UT WOS:000432768600022
+DA 2024-11-22
+ER
+
+PT J
+AU Gesser-Edelsburg, A
+   Diamant, A
+   Hijazi, R
+   Mesch, GS
+AF Gesser-Edelsburg, Anat
+   Diamant, Alon
+   Hijazi, Rana
+   Mesch, Gustavo S.
+TI Correcting misinformation by health organizations during measles
+   outbreaks: A controlled experiment
+SO PLOS ONE
+LA English
+DT Article
+ID CONTINUED INFLUENCE; VACCINE ACCEPTANCE; RISK PERCEPTION; CARE WORKERS;
+   INFORMATION; COMMUNICATION; TWITTER; CRISIS; MEDIA; RECOMMENDATIONS
+AB Background
+   During epidemic crises, some of the information the public receives on social media is misinformation. Health organizations are required to respond and correct the information to gain the public's trust and influence it to follow the recommended instructions.
+   Objectives
+   (1) To examine ways for health organizations to correct misinformation concerning the measles vaccination on social networks for two groups: pro-vaccination and hesitant; (2) To examine the types of reactions of two subgroups (pro-vaccination, hesitant) to misinformation correction; and (3) To examine the effect of misinformation correction on these two subgroups regarding reliability, satisfaction, self-efficacy and intentions.
+   Methods
+   A controlled experiment with participants divided randomly into two conditions. In both experiment conditions a dilemma was presented as to sending a child to kindergarten, followed by an identical Facebook post voicing the children mothers' concerns. In the third stage the correction by the health organization is presented differently in two conditions: Condition 1 -common information correction, and Condition 2-recommended (theory-based) information correction, mainly communicating information transparently and addressing the public's concerns. The study included (n = 243) graduate students from the Faculty of Social Welfare and Health Sciences at Haifa University.
+   Results
+   A statistically significant difference was found in the reliability level attributed to information correction by the Health Ministry between the Control condition and Experimental condition (sig<0.001), with the average reliability level of the subjects in Condition 2 (M = 5.68) being considerably higher than the average reliability level of subjects in Condition 1 (4.64). A significant difference was found between Condition 1 and Condition 2 (sig<0.001), with the average satisfaction from the Health Ministry's response of Condition 2 subjects (M = 5.75) being significantly higher than the average satisfaction level of Condition 1 subjects (4.66). Similarly, when we tested the pro and hesitant groups separately, we found that both preferred the response presented in Condition 2.
+   Conclusion
+   It is very important for the organizations to correct misinformation transparently, and to address the emotional aspects for both the pro-vaccination and the hesitant groups. The pro-vaccination group is not a captive audience, and it too requires a full response that addresses the public's fears and concerns.
+C1 [Gesser-Edelsburg, Anat; Diamant, Alon] Univ Haifa, Hlth & Risk Commun Res Ctr, Haifa, Israel.
+   [Gesser-Edelsburg, Anat; Hijazi, Rana] Univ Haifa, Sch Publ Hlth, Haifa, Israel.
+   [Mesch, Gustavo S.] Univ Haifa, Dept Sociol, Haifa, Israel.
+C3 University of Haifa; University of Haifa; University of Haifa
+RP Gesser-Edelsburg, A (corresponding author), Univ Haifa, Hlth & Risk Commun Res Ctr, Haifa, Israel.; Gesser-Edelsburg, A (corresponding author), Univ Haifa, Sch Publ Hlth, Haifa, Israel.
+EM ageser@univ.haifa.ac.il
+RI mesch, gustavo/W-9537-2019
+OI Gesser-Edelsburg, PhD, Prof. Anat/0000-0003-4467-8799; Mesch,
+   Gustavo/0000-0002-9470-621X
+CR Adamo G, 2017, ANN IG MED PREV COMU, V29, P1, DOI 10.7416/ai.2017.2128
+   Adamo G, 2018, PLOS ONE, V13, DOI 10.1371/journal.pone.0205147
+   [Anonymous], 2018, MONTHL MEASL RUB MON
+   Arzi Sror C., 2018, YEDIOTH AHRONOT 0803
+   Avery EJ, 2017, PUBLIC RELAT REV, V43, P468, DOI 10.1016/j.pubrev.2017.02.018
+   Baxendale S, 2007, EPILEPSY BEHAV, V11, P192, DOI 10.1016/j.yebeh.2007.04.019
+   Bennett Peter., 2010, RISK COMMUNICATION P, V2nd
+   Betsch C, 2010, J HEALTH PSYCHOL, V15, P446, DOI 10.1177/1359105309353647
+   Biellik R, 2016, HEALTH AFFAIR, V35, P322, DOI 10.1377/hlthaff.2015.1055
+   Bode L, 2018, HEALTH COMMUN, V33, P1131, DOI 10.1080/10410236.2017.1331312
+   Cataldi JR, 2016, VACCINE, V34, P6375, DOI 10.1016/j.vaccine.2016.10.048
+   CDC, 2018, MEASL CAS OUTBR
+   CDC, 2015, MISC SEAS FLU VACC Q
+   CDC, 2012, CDCS GUID WRIT SOC M
+   CDC, 2013, VACC RAT CHILDR KIND
+   Chomsky Noam, 2018, Haaretz
+   Cobb MD, 2013, POLIT PSYCHOL, V34, P307, DOI 10.1111/j.1467-9221.2012.00935.x
+   Creswell J. W., 2018, QUALITATIVE QUANTITA, DOI DOI 10.1007/S13398-014-0173-7.2
+   Crook B, 2016, COMMUN RES REP, V33, P349, DOI 10.1080/08824096.2016.1224171
+   Del Vicario M, 2016, P NATL ACAD SCI USA, V113, P554, DOI 10.1073/pnas.1517441113
+   Dubé E, 2018, VACCINE, V36, P545, DOI 10.1016/j.vaccine.2017.12.005
+   Dube Eve, 2016, PLoS Curr, V8, DOI 10.1371/currents.outbreaks.9e239605f4d320c6ad27ce2aea5aaad2
+   ECDC, 2018, MEASL OUTBR STILL ON
+   Ehara A, 2003, LANCET, V362, P2026, DOI 10.1016/S0140-6736(03)15037-4
+   Filia A, 2017, EUROSURVEILLANCE, V22, P2, DOI [10.2807/1560-7917.ES.2017.22.37.30614, 10.2807/1560-7917.es.2017.22.37.30614]
+   Filia A, 2013, EUROSURVEILLANCE, V18, P18
+   FISCHHOFF B, 1995, RISK ANAL, V15, P137, DOI 10.1111/j.1539-6924.1995.tb00308.x
+   Fu LDY, 2017, VACCINE, V35, P802, DOI 10.1016/j.vaccine.2016.12.045
+   Gesser-Edelsburg A., 2016, Risk communication and infectious diseases in an age of digital media
+   Gesser-Edelsburg A, 2017, AM J INFECT CONTROL, V45, P436, DOI 10.1016/j.ajic.2016.11.025
+   Gesser-Edelsburg A, 2017, AM J INFECT CONTROL, V45, P267, DOI 10.1016/j.ajic.2016.10.009
+   Gesser-Edelsburg A, 2017, HEALTH COMMUN, V32, P169, DOI 10.1080/10410236.2015.1110224
+   Gesser-Edelsburg A, 2015, DISASTER MED PUBLIC, V9, P447, DOI 10.1017/dmp.2015.31
+   Gesser-Edelsburg A, 2014, AM J INFECT CONTROL, V42, P829, DOI 10.1016/j.ajic.2014.04.012
+   Gesser-Edelsburg A, 2014, DISASTER MED PUBLIC, V8, P158, DOI 10.1017/dmp.2014.27
+   Gilkey MB, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0159087
+   Glowacki EM, 2016, AM J INFECT CONTROL, V44, P1709, DOI 10.1016/j.ajic.2016.05.025
+   Guidry JPD, 2017, PUBLIC RELAT REV, V43, P477, DOI 10.1016/j.pubrev.2017.04.009
+   Henrich N, 2011, HEALTH PROMOT PRACT, V12, P610, DOI 10.1177/1524839910363536
+   Henrikson NB, 2017, PUBLIC HEALTH REP, V132, P451, DOI 10.1177/0033354917711175
+   Herman J., 2013, SOCIAL MEDIA METRICS
+   Herzog K., 2014, MED EXAMINER GIRLS D
+   Hovland C. I., 1953, American Sociological Review
+   Hsieh HF, 2005, QUAL HEALTH RES, V15, P1277, DOI 10.1177/1049732305276687
+   Hughes AL, 2008, 5 INT ISCRAM C MAY 2
+   Kata A, 2012, VACCINE, V30, P3778, DOI 10.1016/j.vaccine.2011.11.112
+   Lewandowsky S, 2012, PSYCHOL SCI PUBL INT, V13, P106, DOI 10.1177/1529100612451018
+   Lundgren R.E., 2013, RISK COMMUNICATION H
+   Manyibe E O., 2006, Journal of Applied Rehabilitation Counseling, V37, P36
+   Massimi A, 2017, Epidemiology, Biostatistics and Public Health, V14, DOI [DOI 10.2427/12625, 10.2427/12625]
+   Matthews G., 2015, MDIGITALLIFE    0219
+   McNab C, 2009, B WORLD HEALTH ORGAN, V87, P566, DOI 10.2471/BLT.09.066712
+   Miller K., 2007, Youth Violence Juvenile Justice, V5, P207, DOI [10.1177/1541204006296166, DOI 10.1177/1541204006296166]
+   Ministry of health Israel, 2018, HAARETZ         0605
+   Napolitano F, 2018, HUM VACC IMMUNOTHER, V14, P1558, DOI 10.1080/21645515.2018.1463943
+   Napolitano F, 2018, PLOS ONE, V13, DOI 10.1371/journal.pone.0194920
+   Neiger BL, 2013, HEALTH PROMOT PRACT, V14, P157, DOI 10.1177/1524839912469378
+   Nowak GJ, 2017, HUM VACC IMMUNOTHER, V13, P687, DOI 10.1080/21645515.2016.1236881
+   Nyhan B, 2015, VACCINE, V33, P459, DOI 10.1016/j.vaccine.2014.11.017
+   Nyhan B, 2014, PEDIATRICS, V133, pE835, DOI 10.1542/peds.2013-2365
+   Nyhan B, 2010, POLIT BEHAV, V32, P303, DOI 10.1007/s11109-010-9112-2
+   Paterson P, 2018, VACCINE, V36, P5397, DOI 10.1016/j.vaccine.2017.08.016
+   Powell D, 2018, PSYCHOL SCI, V29, P1104, DOI 10.1177/0956797617753393
+   Reuters, 2016, TIMES INDIA TEC 0204
+   Rogers E., 1981, COMMUNICATIONS NETWO
+   Saleem S., 2011, GUARDIAN
+   Samarajiva R., 2016, SCIDEVNET       0206, V6, P2013
+   Sandman P., 1989, EFFECTIVE RISK COMMU, P45
+   Sandman PM, 2006, J APPL COMMUN RES, V34, P257, DOI 10.1080/00909880600771619
+   Sargent RG, 2009, WINT SIMUL C PROC, P162, DOI 10.1109/WSC.2009.5429327
+   Seifert CM, 2002, PSYCHOL LEARN MOTIV, V41, P265, DOI 10.1016/S0079-7421(02)80009-3
+   Signorini A, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0019467
+   Slovic P, 2004, RISK ANAL, V24, P311, DOI 10.1111/j.0272-4332.2004.00433.x
+   Slovic P, 1999, RISK ANAL, V19, P689, DOI 10.1023/A:1007041821623
+   Stiegler R, 2011, 2011 13 IEEE INT S W
+   Strekalova YA, 2016, AM J INFECT CONTROL, V44, P363, DOI 10.1016/j.ajic.2015.09.024
+   Tang L, 2018, AM J INFECT CONTROL, V46, P962, DOI 10.1016/j.ajic.2018.02.010
+   Tausczik Y, 2012, HEALTH COMMUN, V27, P179, DOI 10.1080/10410236.2011.571759
+   U. S. Department of State, 2017, DIG GOV STRAT 2013
+   Velan B, 2012, HUM VACC IMMUNOTHER, V8, P1272, DOI 10.4161/hv.21183
+NR 80
+TC 67
+Z9 73
+U1 4
+U2 41
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD DEC 19
+PY 2018
+VL 13
+IS 12
+AR e0209505
+DI 10.1371/journal.pone.0209505
+PG 23
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA HE9NT
+UT WOS:000453779300093
+PM 30566485
+OA gold, Green Published, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Kaakinen, M
+   Räsänen, P
+   Näsi, M
+   Minkkinen, J
+   Keipi, T
+   Oksanen, A
+AF Kaakinen, Markus
+   Rasanen, Pekka
+   Nasi, Matti
+   Minkkinen, Jaana
+   Keipi, Teo
+   Oksanen, Atte
+TI Social capital and online hate production: A four country survey
+SO CRIME LAW AND SOCIAL CHANGE
+LA English
+DT Article
+ID SELF-RATED HEALTH; NETWORK SITES; COMMUNITY; EXPOSURE; INTERNET; MEDIA;
+   PARTICIPATION; ATTRIBUTES; HARASSMENT; MULTILEVEL
+AB Hateful, threatening or degrading content has become a common part of today's online interactions. However, little is known about the people who produce such content. This study analyzes online hate content production and its associations with cognitive indicators of social capital in both offline and online social networks. The data are derived from American, Finnish, German and British Internet users aged 15-30 (N = 3,565). Measures included questions concerning online hate, social capital and contextual control variables. The results indicate that hate content production is rare overall, despite its high visibility, and is related to social capital in two key ways. First, respondents with high social capital in offline social networks were less likely to produce hate content, and second, high social capital in online networks was associated with a higher probability of production.
+C1 [Kaakinen, Markus; Minkkinen, Jaana; Oksanen, Atte] Univ Tampere, Fac Social Sci, FI-33014 Tampere, Finland.
+   [Rasanen, Pekka; Keipi, Teo] Univ Turku, Dept Social Res, FI-20014 Turku, Finland.
+   [Nasi, Matti] Univ Helsinki, Inst Criminol & Legal Policy Krimo, FI-00014 Helsinki, Finland.
+C3 Tampere University; University of Turku; University of Helsinki
+RP Kaakinen, M (corresponding author), Univ Tampere, Fac Social Sci, FI-33014 Tampere, Finland.
+EM markus.kaakinen@uta.fi; pekka.rasanen@utu.fi; matti.j.nasi@helsinki.fi;
+   Jaana.minkkinen@uta.fi; teo.a.keipi@utu.fi; atte.oksanen@uta.fi
+RI Minkkinen, Jaana/AAJ-5731-2021; Oksanen, Atte/AAA-6682-2019; Keipi,
+   Teo/I-8636-2016; Näsi, Matti/AAF-7177-2021
+OI Keipi, Teo/0000-0002-7572-9328; Kaakinen, Markus/0000-0002-7067-1665;
+   Minkkinen, Jaana/0000-0002-9457-9599
+FU Kone Foundation
+FX This work was supported by the Kone Foundation under grant for the Hate
+   Communities: A Cross-National Comparison Project (2013-2016).
+CR Allen JenniferM., 2011, Journal of International Law and International Relations, V7, P146
+   [Anonymous], 2011, Skills for Innovation and Research, P9
+   Archer J, 2004, REV GEN PSYCHOL, V8, P291, DOI 10.1037/1089-2680.8.4.291
+   Banks J, 2011, EUR J CRIME CRIM LAW, V19, P1, DOI 10.1163/157181711X553933
+   Best SJ, 2006, SOC SCI COMPUT REV, V24, P395, DOI 10.1177/0894439306286855
+   Boase Jeffrey, 2008, Information Communication & Society, V11, P490, DOI 10.1080/13691180801999001
+   Boase J., 2005, HDB PERSONAL RELATIO, P709
+   Bouchillon BC, 2014, SOC SCI COMPUT REV, V32, P506, DOI 10.1177/0894439313513076
+   Bourdieu Pierre., 1984, DISTINCTION SOCIAL C, DOI DOI 10.1002/9780470755679.CH15
+   Boyd DM, 2007, J COMPUT-MEDIAT COMM, V13, P210, DOI 10.1111/j.1083-6101.2007.00393.x
+   Brown C, 2009, HOWARD J COMMUN, V20, P189, DOI 10.1080/10646170902869544
+   Brugger Winfried., 2002, Tulane European and Civil Law Forum, V17, P1
+   Caiani ManuelaLinda Parenti., 2013, European and American Extreme Right Groups and the Internet
+   Chang HH, 2011, INFORM MANAGE-AMSTER, V48, P9, DOI 10.1016/j.im.2010.11.001
+   Chau M, 2007, INT J HUM-COMPUT ST, V65, P57, DOI 10.1016/j.ijhcs.2006.08.009
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   Costello M, 2016, COMPUT HUM BEHAV, V63, P311, DOI 10.1016/j.chb.2016.05.033
+   Council of Europe, 2017, NO HAT SPEECH MOV CA
+   Daly M, 2008, THEOR SOC, V37, P537, DOI 10.1007/s11186-008-9062-4
+   Davidson J, 2013, INFORM COMMUN SOC, V16, P1456, DOI 10.1080/1369118X.2012.701655
+   De Silva MJ, 2006, SOC SCI MED, V62, P941, DOI 10.1016/j.socscimed.2005.06.050
+   De Silva MJ, 2005, J EPIDEMIOL COMMUN H, V59, P619, DOI 10.1136/jech.2004.029678
+   de Souza CS, 2004, INTERACT COMPUT, V16, P579, DOI 10.1016/j.intcom.2003.12.006
+   Elgar FJ, 2011, HEALTH PLACE, V17, P1044, DOI 10.1016/j.healthplace.2011.06.010
+   Ellison NB, 2014, NEW MEDIA SOC, V16, P1104, DOI 10.1177/1461444814543998
+   Erjavec K, 2012, MASS COMMUN SOC, V15, P899, DOI 10.1080/15205436.2011.619679
+   European Social Survey Round 6 Data, 2012, DAT FIL ED 24, DOI [10.21338/NSD-ESS6-2012, DOI 10.21338/NSD-ESS6-2012]
+   Eurostat, 2010, HOUS STRUCT EU
+   Gerstenfeld P.B., 2003, Analyses of Social Issues and Public Policy (ASAP), V3, P29, DOI [DOI 10.1111/J.1530-2415.2003.00013.X, 10.1111/j.1530-2415.2003.00013.x]
+   Glaser J, 2002, J SOC ISSUES, V58, P177, DOI 10.1111/1540-4560.00255
+   Hampton K.N., 2003, CITY COMMUNITY, V2, P277, DOI [10.1046/j.1535-6841.2003.00057.x, DOI 10.1046/J.1535-6841.2003.00057.X]
+   Hampton KN, 2016, AM BEHAV SCI, V60, P101, DOI 10.1177/0002764215601714
+   Hampton KN, 2011, NEW MEDIA SOC, V13, P1031, DOI 10.1177/1461444810390342
+   Han S, 2013, SOC SCI MED, V80, P113, DOI 10.1016/j.socscimed.2012.12.005
+   Harpham T, 2002, HEALTH POLICY PLANN, V17, P106, DOI 10.1093/heapol/17.1.106
+   Hawdon J., 2014, The Causes and Consequences of Group Violence: From Bullies to Terrorists, P165
+   Hawdon J, 2017, DEVIANT BEHAV, V38, P254, DOI 10.1080/01639625.2016.1196985
+   Inequality Watch, 2014, RIS INC IN RICH COUN
+   Julien C, 2014, SOCIOLOGY, P1
+   Kawachi I, 1999, AM J PUBLIC HEALTH, V89, P1187, DOI 10.2105/AJPH.89.8.1187
+   Keipi T., 2017, Online Hate and Harmful Content: Cross-National Perspectives, DOI DOI 10.4324/9781315628370
+   Keipi T, 2014, J YOUTH STUD, V17, P1097, DOI 10.1080/13676261.2014.881988
+   Kennedy BP, 1998, SOC SCI MED, V47, P7, DOI 10.1016/S0277-9536(98)00097-5
+   Kim MS, 2017, COMPUT HUM BEHAV, V68, P232, DOI 10.1016/j.chb.2016.11.031
+   Kingod N, 2017, QUAL HEALTH RES, V27, P89, DOI 10.1177/1049732316680203
+   Klausen J, 2015, STUD CONFL TERROR, V38, P1, DOI 10.1080/1057610X.2014.974948
+   Lee E, 2002, AM BEHAV SCI, V45, P927, DOI 10.1177/0002764202045006003
+   Lehdonvirta V, 2011, J YOUTH STUD, V14, P91, DOI 10.1080/13676261.2010.506530
+   Levin B, 2002, AM BEHAV SCI, V45, P958, DOI 10.1177/0002764202045006004
+   Livingstone S, 2008, CHILD SOC, V22, P314, DOI 10.1111/j.1099-0860.2008.00157.x
+   Livingstone S, 2009, KIDS ONLINE: OPPORTUNITIES AND RISKS FOR CHILDREN, P1
+   Livingstone S, 2010, NEW MEDIA SOC, V12, P309, DOI 10.1177/1461444809342697
+   Lu WX, 2017, NEW MEDIA SOC, V19, P861, DOI 10.1177/1461444815621514
+   Lucassen G, 2012, COMP POLIT STUD, V45, P547, DOI 10.1177/0010414011427851
+   McCosker A, 2014, CONVERGENCE-US, V20, P201, DOI 10.1177/1354856513501413
+   McDoom OS, 2014, J CONFLICT RESOLUT, V58, P865, DOI 10.1177/0022002713484282
+   Muntaner C., 2000, CRIT PUBLIC HEALTH, V10, P107, DOI DOI 10.1080/713658240
+   Nanetti, 1993, MAKING DEMOCRACY WOR
+   Näsi M, 2017, CRIMINOL CRIM JUSTIC, V17, P418, DOI 10.1177/1748895816679866
+   Näsi M, 2014, COMPUT HUM BEHAV, V41, P137, DOI 10.1016/j.chb.2014.09.019
+   Nyqvist F, 2013, SCAND J PUBLIC HEALT, V41, P792, DOI 10.1177/1403494813498005
+   Oksanen A, 2014, SOCIOL STUD CHILD YO, V18, P253, DOI 10.1108/S1537-466120140000018021
+   Oxoby R, 2009, INT J SOC ECON, V36, P1133, DOI 10.1108/03068290910996963
+   Perez-Diaz Victor., 2002, DEMOCRACIES FLUX, P245
+   Portes A, 2000, SOCIOL FORUM, V15, P1, DOI 10.1023/A:1007537902813
+   Putnam R.D., 2002, DEMOCRACIES FLUX, P3
+   Putnam Robert D., 2000, BOWLING ALONE COLLAP, DOI 10.1145/358916.361990
+   Rosen D, 2011, NEW MEDIA SOC, V13, P981, DOI 10.1177/1461444810390341
+   Rosenfeld R, 2001, SOC FORCES, V80, P283, DOI 10.1353/sof.2001.0086
+   SALMI V, 2006, EUROPEAN J CRIMINOLO, V0003
+   Sampson RJ, 1997, SCIENCE, V277, P918, DOI 10.1126/science.277.5328.918
+   Shen CH, 2015, NEW MEDIA SOC, V17, P394, DOI 10.1177/1461444813504275
+   Sureka A, 2010, LECT NOTES COMPUT SC, V6458, P13, DOI 10.1007/978-3-642-17187-1_2
+   Tourangeau R, 2007, PSYCHOL BULL, V133, P859, DOI 10.1037/0033-2909.133.5.859
+   United Nations, 2013, Trends in International Migrant Stock: The 2013 RevisionMigrants by Destination and Origin
+   United States' Census Bureau, 2015, YOUNG AD THEN NOW
+   Waldron Jeremy, 2012, HARM HATE SPEECH, P81, DOI DOI 10.4159/HARVARD.9780674065086
+   Wall DS, 2013, POLIC SOC, V23, P409, DOI 10.1080/10439463.2013.780222
+   WELLMAN B, 1979, AM J SOCIOL, V84, P1201, DOI 10.1086/226906
+   Wellman B, 2001, INT J URBAN REGIONAL, V25, P227, DOI 10.1111/1468-2427.00309
+   Wellman B., 1999, COMMUNITIES CYBERSPA, P167, DOI DOI 10.2307/2655574
+   Williams ML, 2016, BRIT J CRIMINOL, V56, P211, DOI 10.1093/bjc/azv059
+   Williams ML, 2013, POLIC SOC, V23, P461, DOI 10.1080/10439463.2013.780225
+   Wong MA, 2015, INF COMMUN TECHNOL L, V24, P41, DOI 10.1080/13600834.2015.1011845
+   Ybarra ML, 2011, PEDIATRICS, V128, pE1376, DOI 10.1542/peds.2011-0118
+   Yen CH, 2016, BEHAV INFORM TECHNOL, V35, P118, DOI 10.1080/0144929X.2015.1105297
+   Yip W, 2007, SOC SCI MED, V64, P35, DOI 10.1016/j.socscimed.2006.08.027
+NR 87
+TC 20
+Z9 25
+U1 0
+U2 17
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0925-4994
+EI 1573-0751
+J9 CRIME LAW SOCIAL CH
+JI Crime Law Soc. Change
+PD FEB
+PY 2018
+VL 69
+IS 1
+BP 25
+EP 39
+DI 10.1007/s10611-017-9764-5
+PG 15
+WC Criminology & Penology; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Criminology & Penology; Social Sciences - Other Topics
+GA FW2GP
+UT WOS:000425121400003
+DA 2024-11-22
+ER
+
+PT J
+AU Cheng, T
+AF Cheng, Tony
+TI Recruitment through Rule Breaking: Establishing Social Ties with Gang
+   Members
+SO CITY & COMMUNITY
+LA English
+DT Article
+ID COLLECTIVE EFFICACY; VIOLENT CRIME; STREET; NETWORKS; MULTILEVEL; CODE;
+   RACE
+AB Many contemporary violence prevention programs direct concentrated law enforcement, social service, or educational attention toward individuals engaged in violence, and yet, this population is often avoiding this precise attention. Drawing on 18 months of ethnographic data, this case study asks: How do street outreach workers form social ties with active gang members? This study identifies three key mechanisms of social tie formation that break organizational rules, but account for how new social relations are formed with street savvy gang youth: (1) Network Targeting: identifying, entering, and extending services to the package of preexisting social ties beyond the eligible gang member; (2) Gift Giving: navigating those social ties when transferring out of pocket gifts to the target to elicit trust and demonstrate genuine investment; and (3) Transportation Brokerage: expanding clients' social networks by literally driving them to prosocial influences and activities. Discussion of the value and limitations of each mechanism offers insights to urban sociologists interested in the origins of social ties in disadvantaged communities, as well as policymakers designing social interventions for hard to reach populations.
+C1 [Cheng, Tony] NYU, Sch Law, New York, NY 10003 USA.
+   [Cheng, Tony] Yale Univ, Dept Sociol, POB 208265, New Haven, CT 06520 USA.
+   [Cheng, Tony] Yale Univ, Sch Law, New Haven, CT 06520 USA.
+C3 New York University; Yale University; Yale University
+RP Cheng, T (corresponding author), Yale Univ, Dept Sociol, POB 208265, New Haven, CT 06520 USA.
+EM tony.cheng@yale.edu
+OI Cheng, Tony/0000-0002-1710-1436
+FU American Sociological Association's Sydney S. Spivack Program in Applied
+   Social Research and Social Policy Community Action Research Award
+FX This study was supported by the American Sociological Association's
+   Sydney S. Spivack Program in Applied Social Research and Social Policy
+   Community Action Research Award.
+CR Anderson Elijah., 1990, STREETWISE, DOI DOI 10.1016/j.neubiorev.2004.12.007
+   Anderson Elijah., 1999, CODE STREET DECENCY
+   [Anonymous], AM PROSPECT
+   [Anonymous], 1995, GETTING JOB STUDY CO
+   [Anonymous], 2016, WOUNDED CITY VIOLENT
+   Arciaga Michelle, 2012, OFFICE JUVENILE JUST, V7
+   Bertrand M, 2000, Q J ECON, V115, P1019, DOI 10.1162/003355300554971
+   Browning CR, 2004, SOC FORCES, V83, P503, DOI 10.1353/sof.2005.0006
+   Burt RS, 2000, RES ORGAN BEHAV, V22, P345, DOI 10.1016/S0191-3085(00)22009-1
+   Butts Jeffrey, 2015, ANNU REV PUBL HEALTH, V36, P141
+   CARRIER J, 1991, SOCIOL FORUM, V6, P119, DOI 10.1007/BF01112730
+   Cheng T, 2017, LAW SOC REV, V51, P42, DOI 10.1111/lasr.12251
+   Coleman J.S., 1994, FDN SOCIAL THEORY
+   Coughlin BC, 2003, ANNU REV SOCIOL, V29, P41, DOI 10.1146/annurev.soc.29.101602.130751
+   Decker S.H., 2015, ENVISIONING CRIMINOL, P9, DOI DOI 10.1007/978-3-319-15868-6_2
+   Decker S. H., 2008, Community Safety Initiative Series
+   Decker ScottH., 1996, LIFE GANG FAMILY FRI
+   Desmond M, 2014, THEOR SOC, V43, P547, DOI 10.1007/s11186-014-9232-5
+   Desmond M, 2012, AM J SOCIOL, V117, P1295, DOI 10.1086/663574
+   Dodson L, 2007, GENDER SOC, V21, P905, DOI 10.1177/0891243207309899
+   England P, 2002, SOC PROBL, V49, P455, DOI 10.1525/sp.2002.49.4.455
+   Goffman Alice., 2014, RUN FUGITIVE LIFE AM
+   Goffman E., 1971, RELATIONS PUBLIC MIC
+   Harding D. J., 2010, Living the Drama: Community, Conflict, and Culture Among InnerCity Boys
+   Hochschild A., 1979, The Managed Heart
+   Kirk DS, 2011, AM J SOCIOL, V116, P1190, DOI 10.1086/655754
+   Klein MalcolmW., 1971, STREET GANGS STREET
+   KOBRIN S, 1959, ANN AM ACAD POLIT SS, V322, P19, DOI 10.1177/000271625932200104
+   Lerman AE, 2014, ANN AM ACAD POLIT SS, V651, P202, DOI 10.1177/0002716213503085
+   Lin N, 1999, ANNU REV SOCIOL, V25, P467, DOI 10.1146/annurev.soc.25.1.467
+   Lipsky M., 1980, STREEL LEVEL BUREAUC
+   Lopez-Aguado P, 2013, ETHNOGRAPHY, V14, P186, DOI 10.1177/1466138112457310
+   Mauss M., 1935, The gift
+   MILLER WB, 1957, SOC SERV REV, V31, P390, DOI 10.1086/640341
+   MOORE J, 1983, SOC PROBL, V31, P182, DOI 10.1525/sp.1983.31.2.03a00070
+   Moran Michael, 2013, SALON
+   Morenoff JD, 2001, CRIMINOLOGY, V39, P517, DOI 10.1111/j.1745-9125.2001.tb00932.x
+   Morrison EW, 2006, J MANAGE, V32, P5, DOI 10.1177/0149206305277790
+   *NEW YORK CIT YOUT, 1960, REACH FIGHT GANG
+   Papachristos AV, 2009, AM J SOCIOL, V115, P74, DOI 10.1086/597791
+   Papachristos AV, 2006, STUDYING YOUTH GANGS
+   Pattillo-McCoy Mary., 1999, Black Picket Fences: Peril and Privilege among the Black Middle Class
+   Putnam R., 1999, BOWLING ALONE
+   Rios Victor., 2011, Punished
+   Rosenfeld R, 1999, J QUANT CRIMINOL, V15, P495, DOI 10.1023/A:1007548309620
+   Sampson RJ, 1997, SCIENCE, V277, P918, DOI 10.1126/science.277.5328.918
+   Schlossman Steven, 1984, DELINQUENCY PREVENTI
+   Short J.F., 1965, Group processes and gang delinquency
+   Skogan W.G., 2008, Evaluation of CeaseFire Chicago
+   Small ML, 2006, SOC PROBL, V53, P274, DOI 10.1525/sp.2006.53.2.274
+   Small Mario Luis, 2009, Unanticipated gains
+   Small MarioLuis., 2004, Villa victoria: The transformation of social capital in a Boston barrio
+   Small MarioLuis., 2007, City, V11, P413, DOI [10.1080/13604810701669173, DOI 10.1080/13604810701669173]
+   Spergel IrvingA., 2007, Reducing Youth Gang Violence: The Little Village Gang Project in Chicago
+   Spergel IrvingA., 1966, Street Gang Work: Theory and Practice
+   Stack CarolB., 1970, All Our Kin: Strategies for Survival in a Black Community
+   Stewart EA, 2006, J RES CRIME DELINQ, V43, P427, DOI 10.1177/0022427806292338
+   Stewart EA, 2010, CRIMINOLOGY, V48, P569, DOI 10.1111/j.1745-9125.2010.00196.x
+   Tita GE, 2011, J QUANT CRIMINOL, V27, P521, DOI 10.1007/s10940-011-9136-8
+   Tita GeorgeE., 2010, Youth Gangs and Community Intervention: Research, Practice, and Evidence, P24
+   U.S. Department of Justice, 2010, BEST PRACT ADDR COMM
+   Venkatesh Sudhir., 2006, OFF THE BOOKS
+   WRIGHT R, 1992, J RES CRIME DELINQ, V29, P148, DOI 10.1177/0022427892029002003
+   Zelizer VA, 2005, PURCHASE OF INTIMACY, P1
+NR 64
+TC 11
+Z9 15
+U1 2
+U2 11
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1535-6841
+EI 1540-6040
+J9 CITY COMMUNITY
+JI City Community
+PD MAR
+PY 2018
+VL 17
+IS 1
+BP 150
+EP 169
+DI 10.1111/cico.12272
+PG 20
+WC Sociology; Urban Studies
+WE Social Science Citation Index (SSCI)
+SC Sociology; Urban Studies
+GA GA4QM
+UT WOS:000428315200011
+DA 2024-11-22
+ER

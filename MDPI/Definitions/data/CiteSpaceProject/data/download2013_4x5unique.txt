@@ -1,0 +1,435 @@
+
+PT J
+AU Janssen, RHP
+   Monsuur, H
+AF Janssen, R. H. P.
+   Monsuur, H.
+TI Identifying stable network structures and sets of key players using a
+   <i>W</i>-covering perspective
+SO MATHEMATICAL SOCIAL SCIENCES
+LA English
+DT Article
+ID TOPOLOGIES
+AB In evaluating and benchmarking positions of nodes within networks, several network statistics can be considered. A new benchmark is introduced that can be used to investigate whether or not a node is outperformed by another node regarding the connections to some fixed set W of nodes. Networks where these subdued positions do not exist are called W-stable. In this paper special attention is paid to minimal W-stable (random) networks, where W is the set of nodes having a degree crossing some fixed number. The notion of W-covering also makes possible to disclose an alternative definition and role of key players in social networks. (C) 2013 Elsevier B.V. All rights reserved.
+C1 [Janssen, R. H. P.; Monsuur, H.] Netherlands Def Acad, Fac Mil Sci, NL-1781 AC Den Helder, Netherlands.
+RP Janssen, RHP (corresponding author), Netherlands Def Acad, Fac Mil Sci, Nieuwe Diep 8, NL-1781 AC Den Helder, Netherlands.
+EM RHP.Janssen@nlda.nl; H.Monsuur@nlda.nl
+CR Alberts D., 1999, Network Centric Warfare
+   Barabasi Albert-Laszlo., 2003, LINKED
+   Bollobas B., 1985, RANDOM GRAPHS
+   Borgatti S. P., 2006, Computational & Mathematical Organization Theory, V12, P21, DOI 10.1007/s10588-006-7084-x
+   Cares J., 2005, DISTRIBUTED NETWORKE
+   ERDOS P, 1977, J COMB THEORY B, V23, P255, DOI 10.1016/0095-8956(77)90039-9
+   Goyal S., 2007, CONNECTIONS INTRO EC
+   Jackson MO, 2008, SOCIAL AND ECONOMIC NETWORKS, P1
+   Janssen RHP, 2012, EUR J OPER RES, V218, P755, DOI 10.1016/j.ejor.2011.12.001
+   Janssen R, 2010, THEORY DECIS SER C G, V43, P211, DOI 10.1007/978-3-642-02865-6_14
+   Laslier J -F.:., 1997, Studies in Econ. Theory, V7
+   MILLER NR, 1980, AM J POLIT SCI, V24, P68, DOI 10.2307/2110925
+   Monsuur H, 2004, OPER RES, V52, P54, DOI 10.1287/opre.1030.0082
+   Monsuur H., 2011, COMPUTER SCI TECHNOL, V3, P1
+   Monsuur H, 2007, EUR J OPER RES, V183, P432, DOI 10.1016/j.ejor.2006.09.083
+   Myerson R. B., 1977, Mathematics of Operations Research, V2, P225, DOI 10.1287/moor.2.3.225
+   Newman ME., 2006, STRUCTURE DYNAMICS N
+   Snijders TAB, 2010, SOC NETWORKS, V32, P44, DOI 10.1016/j.socnet.2009.02.004
+   Van Mieghem P. F. A., 2012, CYBER WARFARE CRITIC
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   Watts Duncan J., 1999, Small Worlds: The Dynamics of Networks between Order and Randomness
+NR 21
+TC 5
+Z9 5
+U1 1
+U2 6
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0165-4896
+EI 1879-3118
+J9 MATH SOC SCI
+JI Math. Soc. Sci.
+PD NOV
+PY 2013
+VL 66
+IS 3
+BP 245
+EP 253
+DI 10.1016/j.mathsocsci.2013.05.005
+PG 9
+WC Economics; Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Mathematics; Mathematical Methods In Social
+   Sciences
+GA V38LI
+UT WOS:000209344500005
+DA 2024-11-22
+ER
+
+PT J
+AU Masuda, N
+   Kurahashi, I
+   Onari, H
+AF Masuda, Naoki
+   Kurahashi, Issei
+   Onari, Hiroko
+TI Suicide Ideation of Individuals in Online Social Networks
+SO PLOS ONE
+LA English
+DT Article
+ID CONTAGION; INTEGRATION; DIFFUSION; DURKHEIM; TIES
+AB Suicide explains the largest number of death tolls among Japanese adolescents in their twenties and thirties. Suicide is also a major cause of death for adolescents in many other countries. Although social isolation has been implicated to influence the tendency to suicidal behavior, the impact of social isolation on suicide in the context of explicit social networks of individuals is scarcely explored. To address this question, we examined a large data set obtained from a social networking service dominant in Japan. The social network is composed of a set of friendship ties between pairs of users created by mutual endorsement. We carried out the logistic regression to identify users' characteristics, both related and unrelated to social networks, which contribute to suicide ideation. We defined suicide ideation of a user as the membership to at least one active user-defined community related to suicide. We found that the number of communities to which a user belongs to, the intransitivity (i.e., paucity of triangles including the user), and the fraction of suicidal neighbors in the social network, contributed the most to suicide ideation in this order. Other characteristics including the age and gender contributed little to suicide ideation. We also found qualitatively the same results for depressive symptoms.
+C1 [Masuda, Naoki] Univ Tokyo, Dept Math Informat, Bunkyo Ku, Tokyo 113, Japan.
+   [Kurahashi, Issei; Onari, Hiroko] iAnalysis LLC, Minato Ku, Tokyo, Japan.
+C3 University of Tokyo
+RP Masuda, N (corresponding author), Univ Tokyo, Dept Math Informat, Bunkyo Ku, 7-3-1 Hongo, Tokyo 113, Japan.
+EM masuda@mist.i.u-tokyo.ac.jp
+OI Masuda, Naoki/0000-0003-1567-801X
+FU  [23681033]
+FX The authors acknowledge financial supports provided through
+   Grants-in-Aid for Scientific Research (No. 23681033). The funders had no
+   role in study design, data collection and analysis, decision to publish,
+   or preparation of the manuscript.
+CR [Anonymous], 1922, STAT ABSTR US
+   [Anonymous], 2011, Statistics, Politics, and Policy, DOI [DOI 10.2202/2151, DOI 10.2202/2151-7509.1024]
+   [Anonymous], 2009, CONNECTED
+   Aral S, 2009, P NATL ACAD SCI USA, V106, P21544, DOI 10.1073/pnas.0908800106
+   Backstrom L., 2006, P 12 ACM SIGKDD INT, P44, DOI [10.1145/1150402.1150412, DOI 10.1145/1150402.1150412]
+   Baller RD, 2002, AM SOCIOL REV, V67, P873, DOI 10.2307/3088974
+   Baller RD, 2009, J HEALTH SOC BEHAV, V50, P261, DOI 10.1177/002214650905000302
+   BEARMAN PS, 1991, SOCIOL FORUM, V6, P501, DOI 10.1007/BF01114474
+   Bearman PS, 2004, SUICIDE FRIENDSHIPS
+   Berkman LF, 2000, SOC SCI MED, V51, P843, DOI 10.1016/S0277-9536(00)00065-4
+   Brezo J, 2006, ACTA PSYCHIAT SCAND, V113, P180, DOI 10.1111/j.1600-0447.2005.00702.x
+   Chambers A., 2010, The Guardian
+   Cui S, 2011, CHILD CARE HLTH DEV, V37, P692, DOI 10.1111/j.1365-2214.2010.01181.x
+   Durkheim E., 1951, Le suicide
+   GOULD MS, 1989, SUICIDE LIFE-THREAT, V19, P17
+   Hedström P, 2008, SOC FORCES, V87, P713
+   Joiner TE, 2005, ANNU REV PSYCHOL, V56, P287, DOI 10.1146/annurev.psych.56.091103.070320
+   Kawachi I, 2001, J URBAN HEALTH, V78, P458, DOI 10.1093/jurban/78.3.458
+   Krackhardt D, 1999, RES SOC ORG, V16, P183
+   Mann JJ, 2002, ANN INTERN MED, V136, P302, DOI 10.7326/0003-4819-136-4-200202190-00010
+   Martin D, 2010, NIELSEN NEWS
+   Newman M., 2010, NETWORKS INTRO, DOI 10.1162/artl_r_00062
+   Onnela JP, 2007, P NATL ACAD SCI USA, V104, P7332, DOI 10.1073/pnas.0610245104
+   Palla G, 2005, NATURE, V435, P814, DOI 10.1038/nature03607
+   PESCOSOLIDO BA, 1989, AM SOCIOL REV, V54, P33, DOI 10.2307/2095660
+   Putnam R., 1999, BOWLING ALONE
+   Romer D, 2006, J COMMUN, V56, P253, DOI 10.1111/j.1460-2466.2006.00018.x
+   Rosenquist JN, 2011, MOL PSYCHIATR, V16, P273, DOI 10.1038/mp.2010.13
+   Shalizi CR, 2011, SOCIOL METHOD RES, V40, P211, DOI 10.1177/0049124111404820
+   STINE RA, 1995, AM STAT, V49, P53, DOI 10.2307/2684812
+   TROUT DL, 1980, SUICIDE LIFE-THREAT, V10, P10
+   Tuffery S., 2011, Data Mining and Statistics for Decision Making
+   Ugander J., 2011, The Anatomy of the Facebook Social Graph
+   VanderWeele TJ, 2011, SOCIOL METHOD RES, V40, P240, DOI 10.1177/0049124111404821
+   Wasserman S., 1994, SOCIAL NETWORK ANAL
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Wray M, 2011, ANNU REV SOCIOL, V37, P505, DOI 10.1146/annurev-soc-081309-150058
+   Yuta K, 2007, GAP COMMUNITY SIZE D
+NR 38
+TC 49
+Z9 51
+U1 0
+U2 30
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD APR 26
+PY 2013
+VL 8
+IS 4
+AR e62262
+DI 10.1371/journal.pone.0062262
+PG 8
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA 136EF
+UT WOS:000318343700044
+PM 23638019
+OA Green Published, gold, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Shapiro, RB
+   Ossorio, PN
+AF Shapiro, R. Benjamin
+   Ossorio, Pilar N.
+TI Regulation of Online Social Network Studies
+SO SCIENCE
+LA English
+DT Editorial Material
+ID PRIVACY; ETHICS
+C1 [Shapiro, R. Benjamin] Tufts Univ, Medford, MA 02155 USA.
+   [Ossorio, Pilar N.] Morgridge Inst Res, Madison, WI 53706 USA.
+   [Ossorio, Pilar N.] Univ Wisconsin, Sch Law, Madison, WI 53706 USA.
+   [Ossorio, Pilar N.] Univ Wisconsin, Sch Med & Publ Hlth, Madison, WI 53706 USA.
+C3 Tufts University; University of Wisconsin System; University of
+   Wisconsin Madison; The Morgridge Institute for Research, Inc.;
+   University of Wisconsin System; University of Wisconsin Madison;
+   University of Wisconsin System; University of Wisconsin Madison
+RP Ossorio, PN (corresponding author), Morgridge Inst Res, Madison, WI 53706 USA.
+EM pnossorio@wisc.edu
+OI Shapiro, R. Benjamin/0000-0002-1359-7120; Ossorio,
+   Pilar/0000-0002-3495-7375
+CR [Anonymous], 2011, FED REGISTER
+   [Anonymous], 2011, Learning science through computer games and simulations
+   [Anonymous], 2012, FED REGISTER, V77, P46643
+   [Anonymous], 2012, INF WE REC IT IS US
+   Barab S., 2009, IJLM INT J LEARN MED, V1
+   Bond RM, 2012, NATURE, V489, P295, DOI 10.1038/nature11421
+   Botkin JR, 2001, JAMA-J AM MED ASSOC, V285, P207, DOI 10.1001/jama.285.2.207
+   Boyd D., 2011, FIRSTMONDAY, V16
+   Brothers KB, 2010, AM J BIOETHICS, V10, P15, DOI 10.1080/15265161.2010.492891
+   Bull SS, 2011, J PEDIATR PSYCHOL, V36, P1082, DOI 10.1093/jpepsy/jsq126
+   Jianquiang D. S., 2011, CHI, V2011, P581
+   Moreno MA, 2008, PEDIATRICS, V121, P157, DOI 10.1542/peds.2007-3015
+   Newell, 2011, RICHMOND J LAW TECHN, V17, P12
+   Shapiro R. B., 2011, ANATOMY PRO AM
+   Steinkuehler C, 2008, J SCI EDUC TECHNOL, V17, P530, DOI 10.1007/s10956-008-9120-8
+NR 15
+TC 14
+Z9 16
+U1 1
+U2 60
+PU AMER ASSOC ADVANCEMENT SCIENCE
+PI WASHINGTON
+PA 1200 NEW YORK AVE, NW, WASHINGTON, DC 20005 USA
+SN 0036-8075
+J9 SCIENCE
+JI Science
+PD JAN 11
+PY 2013
+VL 339
+IS 6116
+BP 144
+EP 145
+DI 10.1126/science.1219025
+PG 2
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA 067XI
+UT WOS:000313328200025
+PM 23307724
+DA 2024-11-22
+ER
+
+PT J
+AU Stack, JC
+   Bansal, S
+   Kumar, VSA
+   Grenfell, B
+AF Stack, J. Conrad
+   Bansal, Shweta
+   Kumar, V. S. Anil
+   Grenfell, Bryan
+TI Inferring population-level contact heterogeneity from common epidemic
+   data
+SO JOURNAL OF THE ROYAL SOCIETY INTERFACE
+LA English
+DT Article
+DE network model; infectious disease; epidemic data; statistical inference;
+   contact heterogeneity
+ID MEASLES EPIDEMICS; NETWORK ANALYSIS; SEXUAL NETWORKS; SOCIAL NETWORKS;
+   MOUTH-DISEASE; RANDOM GRAPH; TRANSMISSION; GONORRHEA; SPREAD; DYNAMICS
+AB Models of infectious disease spread that incorporate contact heterogeneity through contact networks are an important tool for epidemiologists studying disease dynamics and assessing intervention strategies. One of the challenges of contact network epidemiology has been the difficulty of collecting individual and population-level data needed to develop an accurate representation of the underlying host population's contact structure. In this study, we evaluate the utility of common epidemiological measures (R-0, epidemic peak size, duration and final size) for inferring the degree of heterogeneity in a population's unobserved contact structure through a Bayesian approach. We test the method using ground truth data and find that some of these epidemiological metrics are effective at classifying contact heterogeneity. The classification is also consistent across pathogen transmission probabilities, and so can be applied even when this characteristic is unknown. In particular, the reproductive number, R-0, turns out to be a poor classifier of the degree heterogeneity, while, unexpectedly, final epidemic size is a powerful predictor of network structure across the range of heterogeneity. We also evaluate our framework on empirical epidemiological data from past and recent outbreaks to demonstrate its application in practice and to gather insights about the relevance of particular contact structures for both specific systems and general classes of infectious disease. We thus introduce a simple approach that can shed light on the unobserved connectivity of a host population given epidemic data. Our study has the potential to inform future data-collection efforts and study design by driving our understanding of germane epidemic measures, and highlights a general inferential approach to learning about host contact structure in contemporary or historic populations of humans and animals.
+C1 [Bansal, Shweta] Penn State Univ, Ctr Infect Dis Dynam, University Pk, PA 16802 USA.
+   [Stack, J. Conrad] Penn State Univ, Dept Biol, University Pk, PA 16802 USA.
+   [Bansal, Shweta; Grenfell, Bryan] NIH, Fogarty Int Ctr, Bethesda, MD 20892 USA.
+   [Kumar, V. S. Anil] Virginia Polytech Inst & State Univ, Dept Comp Sci, Blacksburg, VA 24061 USA.
+   [Kumar, V. S. Anil] Virginia Polytech Inst & State Univ, Virginia Bioinformat Inst, Blacksburg, VA 24061 USA.
+   [Grenfell, Bryan] Princeton Univ, Dept Ecol & Evolutionary Biol, Princeton, NJ 08540 USA.
+   [Grenfell, Bryan] Princeton Univ, Woodrow Wilson Sch, Princeton, NJ 08540 USA.
+C3 Pennsylvania Commonwealth System of Higher Education (PCSHE);
+   Pennsylvania State University; Pennsylvania State University -
+   University Park; Pennsylvania Commonwealth System of Higher Education
+   (PCSHE); Pennsylvania State University; Pennsylvania State University -
+   University Park; National Institutes of Health (NIH) - USA; NIH Fogarty
+   International Center (FIC); Virginia Polytechnic Institute & State
+   University; Virginia Polytechnic Institute & State University; Princeton
+   University; Princeton University
+RP Bansal, S (corresponding author), Penn State Univ, Ctr Infect Dis Dynam, University Pk, PA 16802 USA.
+EM shweta@sbansal.com
+RI Bansal, Shweta/AFV-6623-2022
+OI Bansal, Shweta/0000-0002-1740-5421; Grenfell, Bryan/0000-0003-3227-5909
+FU NIH [R01-GM083603-01]; NIH MIDAS project [2U01GM070694-7]; DTRA
+   [HDTRA1-0901-0017]; RAPIDD programme of the Science and Technology
+   Directorate, Department of Homeland Security, the Fogarty International
+   Center, National Institutes of Health; Bill and Melinda Gates Foundation
+FX We are grateful to Andrew Conlan, James Wood and DEFRA of the UK for
+   providing the cattle movement dataset, to Marcel Salathe for the school
+   dataset and to Lauren Ancel Meyers for the urban dataset. The authors
+   also thank David Hunter and David Welch for discussions and feedback.
+   This work is supported by NIH (grant no. R01-GM083603-01); by NIH MIDAS
+   project 2U01GM070694-7 and DTRA (grant no. HDTRA1-0901-0017); by the
+   RAPIDD programme of the Science and Technology Directorate, Department
+   of Homeland Security, the Fogarty International Center, National
+   Institutes of Health; and by the Bill and Melinda Gates Foundation.
+CR [Anonymous], 2010, KDD 2010
+   [Anonymous], 1863, THESIS EBERHARD KARL
+   Bansal S, 2007, J R SOC INTERFACE, V4, P879, DOI 10.1098/rsif.2007.1100
+   Bansal Shweta, 2010, Journal of Biological Dynamics, V4, P478, DOI 10.1080/17513758.2010.503376
+   Bansal S, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0009360
+   Barthélemy M, 2005, J THEOR BIOL, V235, P275, DOI 10.1016/j.jtbi.2005.01.011
+   Bearman PS, 2004, AM J SOCIOL, V110, P44, DOI 10.1086/386272
+   Bjornstad ON, 2002, ECOL MONOGR, V72, P169, DOI 10.1890/0012-9615(2002)072[0169:DOMEES]2.0.CO;2
+   Britton T, 2002, SCAND J STAT, V29, P375, DOI 10.1111/1467-9469.00296
+   BRUNHAM RC, 1994, SEX TRANSM DIS, V21, P353, DOI 10.1097/00007435-199411000-00010
+   Cattuto C, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0011596
+   Chipman H, 2001, Model Selection, V38, P65
+   Christley RM, 2005, AM J EPIDEMIOL, V162, P1024, DOI 10.1093/aje/kwi308
+   Cottam EM, 2008, P ROY SOC B-BIOL SCI, V275, P887, DOI 10.1098/rspb.2007.1442
+   De P, 2004, SEX TRANSM INFECT, V80, P280, DOI 10.1136/sti.2003.007187
+   Didelot X., 2004, Bayesian Analysis, V1, P1
+   Drewe JA, 2010, P ROY SOC B-BIOL SCI, V277, P633, DOI 10.1098/rspb.2009.1775
+   Eames KTD, 2004, MATH BIOSCI, V189, P115, DOI 10.1016/j.mbs.2004.02.003
+   Edmunds WJ, 2000, EPIDEMIOL INFECT, V125, P635, DOI 10.1017/S0950268800004672
+   Eubank S, 2004, NATURE, V429, P180, DOI 10.1038/nature02541
+   Green DM, 2006, P ROY SOC B-BIOL SCI, V273, P2729, DOI 10.1098/rspb.2006.3648
+   Grenfell BT, 2002, ECOL MONOGR, V72, P185, DOI 10.1890/0012-9615(2002)072[0185:DOMESN]2.0.CO;2
+   Groendyke C, 2012, BIOMETRICS, V68, P755, DOI 10.1111/j.1541-0420.2012.01748.x
+   Groendyke C, 2011, SCAND J STAT, V38, P600, DOI 10.1111/j.1467-9469.2010.00721.x
+   GUPTA S, 1989, AIDS, V3, P807, DOI 10.1097/00002030-198912000-00005
+   Heijne JCM, 2009, EMERG INFECT DIS, V15, P24, DOI [10.3201/1501.080299, 10.3201/eid1501.080299]
+   Hethcote H.W., 1984, Lecture Notes in Biomath., V56
+   Hoeting JA, 1999, STAT SCI, V14, P382, DOI 10.1214/ss/1009212519
+   HOOPER RR, 1978, AM J EPIDEMIOL, V108, P136, DOI 10.1093/oxfordjournals.aje.a112597
+   Kao RR, 2006, P ROY SOC B-BIOL SCI, V273, P1999, DOI 10.1098/rspb.2006.3505
+   KASS RE, 1995, J AM STAT ASSOC, V90, P773, DOI 10.1080/01621459.1995.10476572
+   Keeling MJ, 2010, P NATL ACAD SCI USA, V107, P8866, DOI 10.1073/pnas.1000416107
+   Keeling MJ, 2005, J R SOC INTERFACE, V2, P295, DOI 10.1098/rsif.2005.0051
+   Lemey P, 2009, PLOS COMPUT BIOL, V5, DOI 10.1371/journal.pcbi.1000520
+   Liljeros F, 2004, PHYSICA A, V338, P238, DOI 10.1016/j.physa.2004.02.046
+   Liljeros F, 2001, NATURE, V411, P907, DOI 10.1038/35082140
+   Lloyd-Smith JO, 2005, NATURE, V438, P355, DOI 10.1038/nature04153
+   Marjoram P, 2003, P NATL ACAD SCI USA, V100, P15324, DOI 10.1073/pnas.0306899100
+   Melnik S, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.036112
+   Mertz KJ, 2000, SEX TRANSM DIS, V27, P201, DOI 10.1097/00007435-200004000-00004
+   Meyers LA, 2005, J THEOR BIOL, V232, P71, DOI 10.1016/j.jtbi.2004.07.026
+   Molloy M, 1998, COMB PROBAB COMPUT, V7, P295, DOI 10.1017/S0963548398003526
+   Neal PJ, 2004, BIOSTATISTICS, V5, P249, DOI 10.1093/biostatistics/5.2.249
+   Netrapalli Praneeth, 2012, Performance Evaluation Review, V40, P211, DOI 10.1145/2318857.2254783
+   Newman MEJ, 2003, PHYS REV E, V67, DOI 10.1103/PhysRevE.67.026126
+   Newman MEJ, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.016128
+   Newman MEJ, 2002, P NATL ACAD SCI USA, V99, P2566, DOI 10.1073/pnas.012582999
+   Noël PA, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.026101
+   Pastor-Satorras R., 2005, Handbook of graphs and networks: from the genome to the internet, P111, DOI 10.1002/3527602755.ch5
+   RADAR, 2011, DAT PROV RAP AN DET
+   Ratmann O, 2009, P NATL ACAD SCI USA, V106, P10576, DOI 10.1073/pnas.0807882106
+   Salathé M, 2010, P NATL ACAD SCI USA, V107, P22020, DOI 10.1073/pnas.1009094108
+   Wasserman L, 2000, J MATH PSYCHOL, V44, P92, DOI 10.1006/jmps.1999.1278
+   Welch D, 2011, EPIDEMICS-NETH, V3, P38, DOI 10.1016/j.epidem.2011.01.002
+   Wylie JL, 2001, SEX TRANSM DIS, V28, P14, DOI 10.1097/00007435-200101000-00005
+NR 55
+TC 12
+Z9 14
+U1 0
+U2 26
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 1742-5689
+EI 1742-5662
+J9 J R SOC INTERFACE
+JI J. R. Soc. Interface
+PD JAN 6
+PY 2013
+VL 10
+IS 78
+AR 20120578
+DI 10.1098/rsif.2012.0578
+PG 10
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 048UT
+UT WOS:000311939400011
+PM 23034353
+OA hybrid, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Rui, JR
+   Stefanone, MA
+AF Rui, Jian Raymond
+   Stefanone, Michael A.
+TI STRATEGIC IMAGE MANAGEMENT ONLINE: Self-presentation, self-esteem and
+   social network perspectives
+SO INFORMATION COMMUNICATION & SOCIETY
+LA English
+DT Article
+DE computer-mediated communication; social media; social networking
+ID CONTINGENCIES; STUDENTS; WORTH; ITEM
+AB Communication technology is challenging traditional self-presentation strategies and behavior. Deliberate image construction is becoming more difficult because of the increasing number of information sources about individuals online. The present study examines a range of self-presentation behaviors on social network sites (SNS) by drawing on impression motivation, contingencies of self-worth, and the analysis of social network structure. Results from the survey data show that users (N=248) who stake their self-esteem on public evaluations and have heterogeneous social networks are more strategic in the management of tagged photos and text-based updates in the form of wall posts. Furthermore, the interaction between network size and diversity predicts how often users share photos. Implications for improving privacy management tools on SNS and educating users about strategic self-presentation are discussed.
+C1 [Rui, Jian Raymond; Stefanone, Michael A.] SUNY Buffalo, Dept Commun, Buffalo, NY 14260 USA.
+C3 State University of New York (SUNY) System; University at Buffalo, SUNY
+RP Rui, JR (corresponding author), SUNY Buffalo, Dept Commun, 356 Baldy Hall, Buffalo, NY 14260 USA.
+EM jianrui@buffalo.edu; ms297@buffalo.edu
+RI Rui, Jian/AAE-5672-2020
+OI Rui, Jian/0000-0001-5521-5680
+CR [Anonymous], 2011, SOCIAL NETWORKINGSIT
+   Arkin R.M., 1981, IMPRESSION MANAGEMEN, P311, DOI DOI 10.1016/B978-0-12-685180-9.50020-8
+   Bergkvist L, 2007, J MARKETING RES, V44, P175, DOI 10.1509/jmkr.44.2.175
+   Besmer A., 2010, 28 INT C HUM FACT CO
+   Binder J, 2009, CHI2009: PROCEEDINGS OF THE 27TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, VOLS 1-4, P965
+   Cesar P., 2010, 10 WEB SCI C RAL NC
+   Crocker J, 2001, PSYCHOL REV, V108, P593, DOI 10.1037//0033-295X.108.3.593
+   Crocker J, 2003, J PERS SOC PSYCHOL, V85, P894, DOI 10.1037/0022-3514.85.5.894
+   Crocker J., 2005, HDB SELF IDENTITY, P291
+   DeAndrea DC, 2012, INTERNET HIGH EDUC, V15, P15, DOI 10.1016/j.iheduc.2011.05.009
+   Goffman Erving., 1959, The Presentation of Self in Everyday Life
+   Hogan B., 2010, B SCI TECHNOL SOC, V30, P377, DOI DOI 10.1177/0270467610385893
+   Leary M. R., 1995, SELF PRESENTATION IM
+   LEARY MR, 1990, PSYCHOL BULL, V107, P34, DOI 10.1037/0033-2909.107.1.34
+   Madge C., 2012, LEARNING MEDIA PSYCH, V34, P141
+   McCarty C, 2001, HUM ORGAN, V60, P28, DOI 10.17730/humo.60.1.efx5t9gjtgmga73y
+   Mendelson A.L., 2010, A Networked Self: Identity, Community and Culture on Social Network Sites, V1974, P1, DOI DOI 10.4324/9780203876527-20
+   Miller AD, 2007, CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, VOLS 1 AND 2, P347
+   Park LE, 2009, PSYCHOL WOMEN QUART, V33, P108, DOI 10.1111/j.1471-6402.2008.01478.x
+   Ramirez A., 2009, Uncertainty, information management, and disclosure decisions: Theories and applications, P67
+   Rosen D, 2010, P ANN HICSS, P3019
+   ROSENFELD LB, 1979, COMMUN MONOGR, V46, P63, DOI 10.1080/03637757909375991
+   Schlenker BarryR., 1980, Impression Management: The Self-Concept, Social Identity, and Interpersonal Relations
+   Smock A., 2010, ANN M INT COMM ASS S
+   Stafford L., 2008, Engaging theories in interpersonal communication, P377
+   Stefanone M.A., 2008, P ACMS 19 ANN HYPERT, P107
+   Stefanone MA, 2011, CYBERPSYCH BEH SOC N, V14, P41, DOI 10.1089/cyber.2010.0049
+   Stefanone MA, 2009, J COMPUT-MEDIAT COMM, V14, P964, DOI 10.1111/j.1083-6101.2009.01477.x
+   Tokunaga RS, 2011, CYBERPSYCH BEH SOC N, V14, P425, DOI 10.1089/cyber.2010.0140
+   Velasco-Martin Javier., 2011, P 2011 ANN C HUM FAC, P1057
+   Walther J.B., 2002, The Handbook of Interpersonal Communication, V3, P529, DOI DOI 10.1177/0893318916687397
+   Wanous JP, 2001, ORGAN RES METHODS, V4, P361, DOI 10.1177/109442810144003
+NR 32
+TC 71
+Z9 89
+U1 5
+U2 285
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1369-118X
+EI 1468-4462
+J9 INFORM COMMUN SOC
+JI Info. Commun. Soc.
+PD OCT 1
+PY 2013
+VL 16
+IS 8
+BP 1286
+EP 1305
+DI 10.1080/1369118X.2013.763834
+PG 20
+WC Communication; Sociology
+WE Social Science Citation Index (SSCI)
+SC Communication; Sociology
+GA 207VH
+UT WOS:000323632300005
+DA 2024-11-22
+ER

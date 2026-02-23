@@ -1,0 +1,512 @@
+
+PT J
+AU Stewart, AJ
+   Mosleh, M
+   Diakonova, M
+   Arechar, AA
+   Rand, DG
+   Plotkin, JB
+AF Stewart, Alexander J.
+   Mosleh, Mohsen
+   Diakonova, Marina
+   Arechar, Antonio A.
+   Rand, David G.
+   Plotkin, Joshua B.
+TI Information gerrymandering and undemocratic decisions
+SO NATURE
+LA English
+DT Article
+ID NEWS
+AB People must integrate disparate sources of information when making decisions, especially in social contexts. But information does not always flow freely. It can be constrained by social networks(1-3) and distorted by zealots and automated bots(4). Here we develop a voter game as a model system to study information flow in collective decisions. Players are assigned to competing groups (parties) and placed on an 'influence network' that determines whose voting intentions each player can observe. Players are incentivized to vote according to partisan interest, but also to coordinate their vote with the entire group. Our mathematical analysis uncovers a phenomenon that we call information gerrymandering: the structure of the influence network can sway the vote outcome towards one party, even when both parties have equal sizes and each player has the same influence. A small number of zealots, when strategically placed on the influence network, can also induce information gerrymandering and thereby bias vote outcomes. We confirm the predicted effects of information gerrymandering in social network experiments with n = 2,520 human subjects. Furthermore, we identify extensive information gerrymandering in real-world influence networks, including online political discussions leading up to the US federal elections, and in historical patterns of bill co-sponsorship in the US Congress and European legislatures. Our analysis provides an account of the vulnerabilities of collective decision-making to systematic distortion by restricted information flow. Our analysis also highlights a group-level social dilemma: information gerrymandering can enable one party to sway decisions in its favour, but when multiple parties engage in gerrymandering the group loses its ability to reach consensus and remains trapped in deadlock.
+C1 [Stewart, Alexander J.] Univ Houston, Dept Biol & Biochem, Houston, TX 77004 USA.
+   [Mosleh, Mohsen; Arechar, Antonio A.; Rand, David G.] MIT, Sloan Sch Management, 77 Massachusetts Ave, Cambridge, MA 02139 USA.
+   [Diakonova, Marina] Univ Oxford, Environm Change Inst, Oxford, England.
+   [Arechar, Antonio A.] Ctr Res & Teaching Econ CIDE, Aguascalientes, Mexico.
+   [Plotkin, Joshua B.] Univ Penn, Dept Biol, Philadelphia, PA 19104 USA.
+C3 University of Houston System; University of Houston; Massachusetts
+   Institute of Technology (MIT); University of Oxford; University of
+   Pennsylvania
+RP Stewart, AJ (corresponding author), Univ Houston, Dept Biol & Biochem, Houston, TX 77004 USA.
+EM astewar6@central.uh.edu
+RI Rand, David/B-3716-2009; Plotkin, Joshua/E-6947-2013
+OI Stewart, Alexander/0000-0001-5234-3871
+FU Defense Advanced Research Projects Agency NGS2 program [D17AC00005];
+   Ethics and Governance of Artificial Intelligence Initiative of the Miami
+   Foundation; Templeton World Charity Foundation; John Templeton
+   Foundation; Army Research Office [W911NF-17-1-0083]; David & Lucile
+   Packard Foundation
+FX We acknowledge funding from the Defense Advanced Research Projects
+   Agency NGS2 program (grant D17AC00005; to A. J. S., J. B. P., M. M., A.
+   A. A. and D. G. R.), the Ethics and Governance of Artificial
+   Intelligence Initiative of the Miami Foundation (to D. G. R.), the
+   Templeton World Charity Foundation and the John Templeton Foundation (to
+   D. G. R.), the Army Research Office (grant W911NF-17-1-0083; to J. B.
+   P.) and the David & Lucile Packard Foundation (to J. B. P.). The views,
+   opinions, and findings expressed are those of the authors and should not
+   be interpreted as representing the official views or policies of the
+   Department of Defense or the US Government.
+CR Adamic L.A., 2005, P 3 INT WORKSH LINK, P36, DOI DOI 10.1145/1134271.1134277
+   [Anonymous], 2017, GALLUP
+   Bail CA, 2018, P NATL ACAD SCI USA, V115, P9216, DOI 10.1073/pnas.1804840115
+   Bakshy E, 2015, SCIENCE, V348, P1130, DOI 10.1126/science.aaa1160
+   Barberá P, 2015, PSYCHOL SCI, V26, P1531, DOI 10.1177/0956797615594620
+   Bond RM, 2012, NATURE, V489, P295, DOI 10.1038/nature11421
+   Briatte F, 2016, NETW SCI, V4, P266, DOI 10.1017/nws.2015.31
+   Conover M.D., 2011, P INT AAAI C WEB SOC, P89
+   Couzin ID, 2011, SCIENCE, V334, P1578, DOI 10.1126/science.1210280
+   Crockett MJ, 2017, NAT HUM BEHAV, V1, P769, DOI 10.1038/s41562-017-0213-3
+   Del Vicario M, 2016, P NATL ACAD SCI USA, V113, P554, DOI 10.1073/pnas.1517441113
+   Faris Robert., 2017, Berkman Klein Center Research Publication
+   Fowler JH, 2006, SOC NETWORKS, V28, P454, DOI 10.1016/j.socnet.2005.11.003
+   Gavrilets S, 2017, P NATL ACAD SCI USA, V114, P6068, DOI 10.1073/pnas.1703857114
+   Guilbeault D, 2018, P NATL ACAD SCI USA, V115, P9714, DOI 10.1073/pnas.1722664115
+   HARDIN G, 1968, SCIENCE, V162, P1243, DOI 10.1126/science.162.3859.1243
+   Iyengar S, 2012, PUBLIC OPIN QUART, V76, P405, DOI 10.1093/poq/nfs038
+   Kearns M, 2009, P NATL ACAD SCI USA, V106, P1347, DOI 10.1073/pnas.0808147106
+   Lazer DMJ, 2018, SCIENCE, V359, P1094, DOI 10.1126/science.aao2998
+   Lewis JB, 2004, POLIT ANAL, V12, P105, DOI 10.1093/pan/mph015
+   Matz SC, 2017, P NATL ACAD SCI USA, V114, P12714, DOI 10.1073/pnas.1710966114
+   Pennycook G, 2019, P NATL ACAD SCI USA, V116, P2521, DOI 10.1073/pnas.1806781116
+   Pennycook G, 2019, COGNITION, V188, P39, DOI 10.1016/j.cognition.2018.06.011
+   Rand DG, 2013, TRENDS COGN SCI, V17, P413, DOI 10.1016/j.tics.2013.06.003
+   Shirado H, 2017, NATURE, V545, P370, DOI 10.1038/nature22332
+   Stephanopoulos NO, 2015, U CHICAGO LAW REV, V82, P831
+   Vosoughi S, 2018, SCIENCE, V359, P1146, DOI 10.1126/science.aap9559
+   Weber EU, 2011, AM PSYCHOL, V66, P315, DOI 10.1037/a0023253
+   Woolley Samuel C., 2016, First Monday, V21, DOI 10.5210/fm.v21i4.6161
+NR 29
+TC 63
+Z9 74
+U1 5
+U2 74
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 0028-0836
+EI 1476-4687
+J9 NATURE
+JI Nature
+PD SEP 5
+PY 2019
+VL 573
+IS 7772
+BP 117
+EP +
+DI 10.1038/s41586-019-1507-6
+PG 6
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA IV0KI
+UT WOS:000483967700045
+PM 31485058
+DA 2024-11-22
+ER
+
+PT J
+AU Perra, N
+   Rocha, LEC
+AF Perra, Nicola
+   Rocha, Luis E. C.
+TI Modelling opinion dynamics in the age of algorithmic personalisation
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID SOCIAL-INFLUENCE; SPONTANEOUS EMERGENCE; RECOMMENDER SYSTEMS; NETWORK;
+   ATTENTION; ATTITUDES; SPREAD; IMPACT; RISE; BIAS
+AB Modern technology has drastically changed the way we interact and consume information. For example, online social platforms allow for seamless communication exchanges at an unprecedented scale. However, we are still bounded by cognitive and temporal constraints. Our attention is limited and extremely valuable. Algorithmic personalisation has become a standard approach to tackle the information overload problem. As result, the exposure to our friends' opinions and our perception about important issues might be distorted. However, the effects of algorithmic gatekeeping on our hyper-connected society are poorly understood. Here, we devise an opinion dynamics model where individuals are connected through a social network and adopt opinions as function of the view points they are exposed to. We apply various filtering algorithms that select the opinions shown to each user (i) at random (ii) considering time ordering or (iii) its current opinion. Furthermore, we investigate the interplay between such mechanisms and crucial features of real networks. We found that algorithmic filtering might influence opinions' share and distributions, especially in case information is biased towards the current opinion of each user. These effects are reinforced in networks featuring topological and spatial correlations where echo chambers and polarisation emerge. Conversely, heterogeneity in connectivity patterns reduces such tendency. We consider also a scenario where one opinion, through nudging, is centrally pushed to all users. Interestingly, even minimal nudging is able to change the status quo moving it towards the desired view point. Our findings suggest that simple filtering algorithms might be powerful tools to regulate opinion dynamics taking place on social networks.
+C1 [Perra, Nicola; Rocha, Luis E. C.] Univ Greenwich, Ctr Business Network Anal, Business Sch, London SE10 9LS, England.
+C3 University of Greenwich
+RP Perra, N; Rocha, LEC (corresponding author), Univ Greenwich, Ctr Business Network Anal, Business Sch, London SE10 9LS, England.
+EM n.perra@gre.ac.uk; luis.rocha@gre.ac.uk
+RI Rocha, Luis/AAB-4049-2019
+OI Rocha, Luis/0000-0001-9046-8739; Perra, Nicola/0000-0002-5559-3064
+FU U.S. Army Research Laboratory; U.S. Army Research Office
+   [W911NF-18-1-0376]
+FX This material is based upon work supported by, or in part by, the U.S.
+   Army Research Laboratory and the U.S. Army Research Office under
+   contract/grant number W911NF-18-1-0376. The authors thank Dr. Andrea
+   Baronchelli for his interesting suggestions and insights.
+CR Aral S, 2012, SCIENCE, V337, P337, DOI 10.1126/science.1215842
+   Bail CA, 2018, P NATL ACAD SCI USA, V115, P9216, DOI 10.1073/pnas.1804840115
+   Barabasi AL, 2016, NETWORK SCIENCE, P1
+   Baronchelli A, 2006, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2006/06/P06014
+   Baronchelli A, 2018, ROY SOC OPEN SCI, V5, DOI 10.1098/rsos.172189
+   Barrat A, 2000, EUR PHYS J B, V13, P547, DOI 10.1007/s100510050067
+   Barrat A., 2008, DYNAMICAL PROCESSES, DOI DOI 10.1017/CBO9780511791383
+   Bond RM, 2012, NATURE, V489, P295, DOI 10.1038/nature11421
+   Bozdag E, 2016, ETHICS INF TECHNOL, V17, P249, DOI 10.1007/s10676-015-9380-y
+   Bozdag E, 2013, ETHICS INF TECHNOL, V15, P209, DOI 10.1007/s10676-013-9321-6
+   Bressan M, 2016, KDD'16: PROCEEDINGS OF THE 22ND ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P745, DOI 10.1145/2939672.2939797
+   Bucher T, 2012, NEW MEDIA SOC, V14, P1164, DOI 10.1177/1461444812440159
+   Castellano C, 2009, REV MOD PHYS, V81, P591, DOI 10.1103/RevModPhys.81.591
+   Centola D, 2018, SCIENCE, V360, P1116, DOI 10.1126/science.aas8827
+   Centola D, 2015, P NATL ACAD SCI USA, V112, P1989, DOI 10.1073/pnas.1418838112
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   Ciampaglia GL, 2018, SCI REP-UK, V8, DOI 10.1038/s41598-018-34203-2
+   D'Onofrio BM, 1999, J PERS, V67, P953, DOI 10.1111/1467-6494.00079
+   Dall'Asta L, 2006, PHYS REV E, V74, DOI 10.1103/PhysRevE.74.036105
+   Dandekar P, 2013, P NATL ACAD SCI USA, V110, P5791, DOI 10.1073/pnas.1217220110
+   Davenport T.H., 2001, ATTENTION EC UNDERST
+   Del Vicario M, 2016, SCI REP-UK, V6, DOI 10.1038/srep37825
+   DeVito MA, 2017, DIGIT JOURNAL, V5, P753, DOI 10.1080/21670811.2016.1178592
+   Dunbar RIM, 2015, SOC NETWORKS, V43, P39, DOI 10.1016/j.socnet.2015.04.005
+   Dunbar RIM, 1998, EVOL ANTHROPOL, V6, P178, DOI 10.1002/(SICI)1520-6505(1998)6:5<178::AID-EVAN5>3.3.CO;2-P
+   Falkinger J, 2007, J ECON THEORY, V133, P266, DOI 10.1016/j.jet.2005.12.001
+   Ferrara E, 2016, First Monday, V21, P1, DOI 10.5210/fm.v21i11.7090
+   Ferrara E, 2016, COMMUN ACM, V59, P96, DOI 10.1145/2818717
+   Fleder D, 2009, MANAGE SCI, V55, P697, DOI 10.1287/mnsc.1080.0974
+   Friedman B, 1996, ACM T INFORM SYST, V14, P330, DOI 10.1145/230538.230561
+   Geschke D., 2018, BR J SOC PSYCHOL
+   Gillespie T, 2014, INSIDE TECHNOL, P167
+   Goldman E., 2008, YALE J L TECH, P121, DOI DOI 10.1007/978-3-540-75829-7_8
+   Gonçalves B, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0022656
+   Guilbeault D, 2018, COMPUT SOC SCI, P3, DOI 10.1007/978-3-319-77332-2_1
+   ISENBERG DJ, 1986, J PERS SOC PSYCHOL, V50, P1141, DOI 10.1037/0022-3514.50.6.1141
+   Kim DA, 2015, LANCET, V386, P145, DOI 10.1016/S0140-6736(15)60095-2
+   LATANE B, 1981, AM PSYCHOL, V36, P343, DOI 10.1037/0003-066X.36.4.343
+   Leonard TC, 2008, CONST POLITICAL ECON, V19, P356, DOI 10.1007/s10602-008-9056-2
+   Lerman K., 2010, P 4 INT AAAI C WEBL, P90
+   Leskovec J, 2009, KDD-09: 15TH ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P497
+   Liu C, 2012, SIGIR 2012: PROCEEDINGS OF THE 35TH INTERNATIONAL ACM SIGIR CONFERENCE ON RESEARCH AND DEVELOPMENT IN INFORMATION RETRIEVAL, P205, DOI 10.1145/2348283.2348314
+   Mittelstadt BD, 2016, BIG DATA SOC, V3, P1, DOI 10.1177/2053951716679679
+   Möller J, 2018, INFORM COMMUN SOC, V21, P959, DOI 10.1080/1369118X.2018.1444076
+   Muchnik L, 2013, SCIENCE, V341, P647, DOI 10.1126/science.1240466
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   Nikolov D., 2018, J AM SOC INF SCI TEC
+   Nikolov D, 2015, PEERJ COMPUT SCI, DOI 10.7717/peerj-cs.38
+   Olson JM, 2001, J PERS SOC PSYCHOL, V80, P845, DOI 10.1037/0022-3514.80.6.845
+   Onnela JP, 2010, P NATL ACAD SCI USA, V107, P18375, DOI 10.1073/pnas.0914572107
+   Paluck EL, 2016, P NATL ACAD SCI USA, V113, P566, DOI 10.1073/pnas.1514483113
+   Pariser E., 2011, FILTER BUBBLE WHAT I
+   Perra N, 2012, SCI REP-UK, V2, DOI 10.1038/srep00469
+   Rader E, 2017, INT J HUM-COMPUT ST, V98, P72, DOI 10.1016/j.ijhcs.2016.10.005
+   Rader E, 2015, CHI 2015: PROCEEDINGS OF THE 33RD ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, P173, DOI 10.1145/2702123.2702174
+   Ratkiewicz J, 2010, PHYS REV LETT, V105, DOI 10.1103/PhysRevLett.105.158701
+   Ribeiro B, 2013, SCI REP-UK, V3, DOI 10.1038/srep03006
+   Rocha LEC, 2011, PLOS COMPUT BIOL, V7, DOI 10.1371/journal.pcbi.1001109
+   Rossi W. S., 2018, ARXIV180904644
+   Sandvig C., 2015, ANN ARBOR, V1001, P1285
+   Simon H. A., 1971, COMPUT COMMUNICATION
+   Spinelli L, 2017, PROCEEDINGS OF THE 2017 ACM WEB SCIENCE CONFERENCE (WEBSCI '17), P73, DOI 10.1145/3091478.3091483
+   Stevenson D., 2015, TPRC 43
+   Stukal D, 2017, BIG DATA, V5, P310, DOI 10.1089/big.2017.0038
+   Vosoughi S, 2018, SCIENCE, V359, P1146, DOI 10.1126/science.aap9559
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Watts DJ, 2002, P NATL ACAD SCI USA, V99, P5766, DOI 10.1073/pnas.082090499
+   Watts DJ, 2007, J CONSUM RES, V34, P441, DOI 10.1086/518527
+   Weng L, 2012, SCI REP-UK, V2, P1, DOI 10.1038/srep00335
+   Weng LL, 2018, COMPUT SOC SCI, P213, DOI 10.1007/978-3-319-77332-2_12
+   Wu F, 2007, P NATL ACAD SCI USA, V104, P17599, DOI 10.1073/pnas.0704916104
+NR 71
+TC 56
+Z9 68
+U1 0
+U2 28
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD MAY 13
+PY 2019
+VL 9
+AR 7261
+DI 10.1038/s41598-019-43830-2
+PG 11
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA HX9EF
+UT WOS:000467709100003
+PM 31086228
+OA gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Garibay, I
+   Mantzaris, AV
+   Rajabi, A
+   Taylor, CE
+AF Garibay, Ivan
+   Mantzaris, Alexander V.
+   Rajabi, Amirarsalan
+   Taylor, Cameron E.
+TI Polarization in social media assists influencers to become more
+   influential: analysis and two inoculation strategies
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+AB This work explores simulations of polarized discussions from a general and theoretical premise. Specifically the question of whether a plausible avenue exists for a subgroup in an online social network to find a disagreement beneficial and what that benefit could be. A methodological framework is proposed which represents key factors that drives social media engagement including the iterative accumulation of influence and the dynamics for the asymmetric treatment of messages during a disagreement. It is shown that prior to a polarization event a trend towards a more uniform distribution of relative influence is achieved which is then reversed by the polarization event. The reasons for this reversal are discussed and how it has a plausible analogue in real world systems. A pair of inoculation strategies are proposed which aim at returning the trend towards uniform influence across users while refraining from violating user privacy (by remaining topic agnostic) and from user removal operations.
+C1 [Garibay, Ivan; Rajabi, Amirarsalan] Univ Cent Florida, Dept Ind Engn & Management Syst, Orlando, FL 32816 USA.
+   [Mantzaris, Alexander V.] Univ Cent Florida, Dept Stat & Data Sci, Orlando, FL 32816 USA.
+   [Taylor, Cameron E.] Univ Cent Florida, Dept Comp Sci, Orlando, FL 32816 USA.
+C3 State University System of Florida; University of Central Florida; State
+   University System of Florida; University of Central Florida; State
+   University System of Florida; University of Central Florida
+RP Garibay, I (corresponding author), Univ Cent Florida, Dept Ind Engn & Management Syst, Orlando, FL 32816 USA.
+EM igaribay@ucf.edu
+RI Garibay, Ivan/AAG-6543-2019
+OI Rajabi, Amirarsalan/0000-0001-8328-8473; Garibay,
+   Ivan/0000-0002-3302-9382; Mantzaris, Alexander V./0000-0002-0026-5725
+FU DARPA program [HR001117S0018]
+FX This research was supported by DARPA program HR001117S0018. The funders
+   had no role in study design, data collection and analysis, decision to
+   publish or preparation of the manuscript.
+CR Adamic L.A., 2005, P 3 INT WORKSH LINK, P36, DOI DOI 10.1145/1134271.1134277
+   Allahyari M, 2017, INT J ADV COMPUT SC, V8, P397, DOI 10.14569/IJACSA.2017.081052
+   Bail C. A., 2018, P NATL ACAD SCI USA
+   Batrinca B, 2015, AI SOC, V30, P89, DOI 10.1007/s00146-014-0549-4
+   Blei DM, 2003, J MACH LEARN RES, V3, P993, DOI 10.1162/jmlr.2003.3.4-5.993
+   Buchi M., 2017, SOCIUS, V3, p2378023117733903, DOI [10.1177/2378023117733903, DOI 10.1177/2378023117733903]
+   Campbell, 2018, POLARIZED MAKING SEN
+   Chakravarty S., 2009, Inequality, Polarization and Poverty: Advances in Distributional Analysis
+   Del Vicario M, 2017, SCI REP-UK, V7, DOI 10.1038/srep40391
+   Deterding S., 2012, INTERACTIONS, V19, P14, DOI [10.1145/2212877.2212883, DOI 10.1145/2212877.2212883, https://doi.org/10.1145/2212877.2212883]
+   Druckman JN, 2013, AM POLIT SCI REV, V107, P57, DOI 10.1017/S0003055412000500
+   DUNBAR RIM, 1993, BEHAV BRAIN SCI, V16, P681, DOI 10.1017/S0140525X00032325
+   Fan WG, 2014, COMMUN ACM, V57, P74, DOI 10.1145/2602574
+   Fiorina MP, 2008, ANNU REV POLIT SCI, V11, P563, DOI 10.1146/annurev.polisci.11.053106.153836
+   Foster JE, 2010, J ECON INEQUAL, V8, P247, DOI 10.1007/s10888-009-9122-7
+   Gandini A, 2016, MARKETING THEOR, V16, P123, DOI 10.1177/1470593115607942
+   Garimella K, 2017, WSDM'17: PROCEEDINGS OF THE TENTH ACM INTERNATIONAL CONFERENCE ON WEB SEARCH AND DATA MINING, P81, DOI 10.1145/3018661.3018703
+   Gentzkow M., 2016, TOULOUSE NETWORK INF
+   Gentzkow M., 2016, Tech. Rep.
+   Gonçalves B, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0022656
+   Graells-Garrido E., 2013, ARXIV13114658
+   Grindrod P, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.046120
+   Hargittai E, 2008, PUBLIC CHOICE, V134, P67, DOI 10.1007/s11127-007-9201-x
+   Jackson S., 2019, SOCARXIV
+   Laflin P, 2013, SOC NETW ANAL MIN, V3, P1311, DOI 10.1007/s13278-013-0143-7
+   Landers RichardN., 2011, Serious Games and Edutainment Applications, P399, DOI [DOI 10.1007/978-1-4471-2161-9_20, 10.1007/978-1-4471-2161-9, DOI 10.1007/978-1-4471-2161-9, 10.1007/978-1-4471-2161-9_20, DOI 10.1007/978-1-4471-2161-920]
+   Liao QV, 2014, 32ND ANNUAL ACM CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS (CHI 2014), P2745, DOI 10.1145/2556288.2557240
+   Liao QV., 2014, P 17 ACM C COMP SUPP, P184, DOI DOI 10.1145/2531602.2531711
+   Lindgren Kristian, 1994, Artificial Life, V1, P15, DOI 10.1162/artl.1993.1.1_2.15
+   Mantzaris AV, 2012, EUR J APPL MATH, V23, P659, DOI 10.1017/S0956792512000186
+   Mantzaris AlexanderV., 2013, Temporal Networks, Understanding Complex Systems, P283
+   Mogues T., 2005, Journal of Economic Inequality, P193, DOI [10.1007/s10888-005-9001-9, DOI 10.1007/S10888-005-9001-9]
+   Munson SeanA., 2013, 7 INT AAAI C WEBL SO
+   Rao A, 2015, PROCEEDINGS 2015 IEEE INTERNATIONAL CONFERENCE ON BIG DATA, P2282, DOI 10.1109/BigData.2015.7364017
+   Shi F, 2019, NAT HUM BEHAV, V3, P329, DOI 10.1038/s41562-019-0541-6
+   Stasavage D, 2007, J POLIT, V69, P59, DOI 10.1111/j.1468-2508.2007.00494.x
+   Taken SmithK., 2015, Academy of Marketing Studies Journal, V19, P127
+   Vydiswaran VGV, 2015, J ASSOC INF SCI TECH, V66, P1655, DOI 10.1002/asi.23274
+   Zimmer M, 2010, ETHICS INF TECHNOL, V12, P313, DOI 10.1007/s10676-010-9227-5
+NR 39
+TC 19
+Z9 23
+U1 0
+U2 11
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD DEC 9
+PY 2019
+VL 9
+AR 18592
+DI 10.1038/s41598-019-55178-8
+PG 9
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA JU5YU
+UT WOS:000501753000003
+PM 31819120
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Robles, JM
+   Atienza, J
+   Gómez, D
+   Guevara, JA
+AF Manuel Robles, Jose
+   Atienza, Julia
+   Gomez, Daniel
+   Antonio Guevara, Juan
+TI The polarization of "La Manada": the public debate in Spain and the
+   risks of digital political communication
+SO TEMPO SOCIAL
+LA Spanish
+DT Article
+DE Digital polarization; Online social networks; The pack; Twitter;
+   Political communication
+ID ONLINE; INCIVILITY; CIVILITY
+AB Several authors have raised in recent years that the new scenario generated by digital communication causes citizens to have a role with greater prominence in the public debate. However, apart from the multiple political and communicative opportunities arising from the irruption of digital social networks, we find some risks and limitations relevant to political communication such as lack of civility (Incivility). The objective of this research is to analyze, through the study of the case of "La Manada" (of great social and political repercussion in Spain) and making use of Big data techniques, the possible polarization of public debate in the social network Twitter and the existence of this type of negative practices, especially when they affect women. We find a scenario of extreme polarization in which both parties tend to use the subject of debate as a pretext to reinforce the positions that separate the left and the right in Spain.
+C1 [Manuel Robles, Jose; Gomez, Daniel; Antonio Guevara, Juan] Univ Complutense Madrid, Madri, Spain.
+   [Atienza, Julia] Univ Politecn Madrid, Madri, Spain.
+C3 Complutense University of Madrid; Universidad Politecnica de Madrid
+RP Robles, JM (corresponding author), Univ Complutense Madrid, Madri, Spain.
+EM jmrobles@ucm.cs
+RI Guevara, Juan Antonio/H-4738-2017; Robles, Jose/AAC-4765-2019
+OI Atienza-Barthelemy, Julia/0000-0002-6832-025X; Robles, Jose
+   Manuel/0000-0003-1092-3864; Guevara, Juan Antonio/0000-0003-3946-3910
+CR Adamic L.A., 2005, P 3 INT WORKSH LINK, P36, DOI DOI 10.1145/1134271.1134277
+   [Anonymous], 2012, NY TIMES
+   [Anonymous], 2013, The Logic of Connective Action: Digital Media and the Personalization of Contentious Politics, DOI DOI 10.1017/CBO9781139198752
+   [Anonymous], 2017, IS INTERNET CAUSING
+   Benkler Y, 2006, J POLIT PHILOS, V14, P394, DOI 10.1111/j.1467-9760.2006.00235.x
+   Borondo J., 2012, CHAOS, V22, P123
+   Caldarelli G, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0095809
+   Cardenas J. P., 2018, COMPLEXITY, V1, P11
+   Castells Manuel., 2009, COMUNICACION PODER
+   Citron DK, 2009, BOSTON U LAW REV, V89, P61
+   Gentzkow Matthew., 2016, POLARIZATION 2016
+   Gervais BT, 2015, J INF TECHNOL POLITI, V12, P167, DOI 10.1080/19331681.2014.997416
+   Gibson R., 2009, Representation, V45, P87
+   Hague BarryH., 1999, DIGITAL DEMOCRACY DI
+   Herbst S, 2010, RUDE DEMOCRACY: CIVILITY AND INCIVILITY IN AMERICAN POLITICS, P1
+   Jane E., 2012, FEM MEDIA STUD, V23, P115
+   Lazarsfeld P.F., 1954, Freedom and Control in Modern Society, P18, DOI DOI 10.1111/J.1467-8705.2012.02056_3.X
+   Lelkes Y, 2016, PUBLIC OPIN QUART, V80, P392, DOI 10.1093/poq/nfw005
+   Lutz Christoph, 2014, First Monday, V19, P53, DOI 10.5210/fm.v19i7.5260
+   Martin-Gutierrez S., 2018, COMPLEXITY, V1, P35
+   Megarry J, 2014, WOMEN STUD INT FORUM, V47, P46, DOI 10.1016/j.wsif.2014.07.012
+   Papacharissi Z, 2004, NEW MEDIA SOC, V6, P259, DOI 10.1177/1461444804041444
+   Park RobertE., 1921, INTRO SCI SOCIOLOGY
+   Rains SA, 2017, J COMPUT-MEDIAT COMM, V22, P163, DOI 10.1111/jcc4.12191
+   Reingold Beth., 2003, Representing Women: Sex, Gender, and Legislative Behavior in Arizona and California
+   Robles Jose Manuel, 2018, INFORM COMMUNICATION
+   Rowe I, 2015, INFORM COMMUN SOC, V18, P121, DOI 10.1080/1369118X.2014.940365
+   Schradie J, 2011, POETICS, V39, P145, DOI 10.1016/j.poetic.2011.02.003
+   Sobieraj S, 2011, POLIT COMMUN, V28, P19, DOI 10.1080/10584609.2010.542360
+   Spender D., 1995, Nattering on the Net: Women, Power and Cyberspace
+   Sunstein C., 2017, REPUBLICDIVIDED DEMO
+   Surowiecki J., 2005, WISDOM CROWDS
+   Vaccari C., 2016, SOCIAL MEDIA SOC, V2, P35
+   van Haperen S, 2018, SOC MOVEMENT STUD, V17, P408, DOI 10.1080/14742837.2018.1434499
+NR 34
+TC 10
+Z9 11
+U1 1
+U2 18
+PU UNIV SAO PAOLO, DEPT SOCIOLOGIA
+PI SAO PAULO SP
+PA AV PROF LUCIANO GUALBERTO, 315, SAO PAULO SP, 05508-010, BRAZIL
+SN 0103-2070
+J9 TEMPO SOC
+JI Tempo Soc.
+PD SEP-DEC
+PY 2019
+VL 31
+IS 3
+BP 193
+EP 216
+DI 10.11606/0103-2070.TS.2019.159680
+PG 24
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA KG2GG
+UT WOS:000509758700011
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Donker, TH
+AF Donker, Teije H.
+TI Between rebellion and uprising intersecting networks and discursive
+   strategies in rebel controlled Syria
+SO SOCIAL MOVEMENT STUDIES
+LA English
+DT Article
+DE Social networks; discursive strategies; Syria; jihadism
+ID SOCIAL NETWORKS; COLLECTIVE ACTION; MOBILIZATION
+AB In the article I explore how, at the individual level, participation in multiple networks opens up questions regarding the classification of social activism. The central contention is that as mobilization networks increasingly intersect, explicit discursive designations of activism (being 'political' or 'nonpolitical, social') by individual activists becomes more prevalent. I substantiate this argument with an in-depth exploration of the Syrian uprising. I show that as two distinct networksone that emerged around nonviolent activism, another that emerged around a violent uprisingincreasingly intersected, activists began to use specific discursive strategies. On the one side, a strategy emerged that emphasized the nonpolitical nature of mobilization, distancing activism discursively from intersecting networks. On the other side, a strategy emerged of politicizing collective identities, thereby bridging discursively various mobilization networks. The article thereby adds to existing studies on the intersection between network structure and individual activism. The analysis builds on more than a hundred primary sources from various rebel groups and relevant local actors in addition to thirty interviews with relevant players among activist, rebel and public services organizations.
+C1 [Donker, Teije H.] Univ Cambridge, Dept Sociol, 16 Mill Lane, Cambridge, England.
+C3 University of Cambridge
+RP Donker, TH (corresponding author), Univ Cambridge, Dept Sociol, 16 Mill Lane, Cambridge, England.
+EM td402@cam.ac.uk
+CR Abazeed A., 2015, OMRAN STRATEGIC STUD
+   Ahrar al Sham, 2015, WHAT IS ISL AHR ALSH
+   Ahrar al Sham, 2013, PREP FAITH ED CHILDR
+   Ahrar al-Sham, 2013, CULT DAW ACT AL
+   al-Attar M., 2013, RAQQA REALITY MILITA
+   al-Baghdadi A.B., 2013, GOOD TIDINGS BELIEVE
+   al-Halabi H, 2014, ALEPPO SYSTEMATIC DI
+   al-Joulani A. M., 2012, JABHAT NUSRA WILL BE
+   al-Joulani A. M., 2013, COMMUNICATION
+   [Anonymous], 2013, SYRIAN ISLAMIC FRONT
+   [Anonymous], 2012, NY TIMES
+   [Anonymous], NY TIMES
+   [Anonymous], 2008, IDENTITY CONTROL SOC
+   [Anonymous], 2011, NY TIMES
+   [Anonymous], NY TIMES
+   [Anonymous], 2015, PAPER STATE CALIPHAT
+   [Anonymous], 2018, CIVIL WAR SYRIA MOBI
+   Baczko A., 2013, Building a Syrian state in a time of civil war
+   Baldassarri D, 2007, AM J SOCIOL, V113, P735, DOI 10.1086/521839
+   Chatterton P, 2010, T I BRIT GEOGR, V35, P475, DOI 10.1111/j.1475-5661.2010.00396.x
+   Clark JanineA., 2004, ISLAMIC ACTIVISM SOC, P164
+   della Porta Donatella., 2017, SOCIAL MOVEMENTS CIV, V1
+   Diani M., 2008, The Blackwell companion to social movements, P339
+   Diani Mario., 2003, SOCIAL MOVEMENTS NET, P299, DOI [10.1093/0199251789.001.0001, DOI 10.1093/0199251789.001.0001]
+   Diani Mario., 1995, GREEN NETWORKS STRUC
+   Droz-Vincent P, 2014, MIDDLE EAST J, V68, P33, DOI 10.3751/68.1.12
+   EMIRBAYER M, 1994, AM J SOCIOL, V99, P1411, DOI 10.1086/230450
+   Enab Baladi, 2014, AL JOUL SHOWS HIMS F
+   Fligstein N, 2011, SOCIOL THEOR, V29, P1, DOI 10.1111/j.1467-9558.2010.01385.x
+   GOULD RV, 1991, AM SOCIOL REV, V56, P716, DOI 10.2307/2096251
+   GOULD RV, 1993, AM SOCIOL REV, V58, P182, DOI 10.2307/2095965
+   Hadath Media Center, 2013, DET DOC ISL BOARD AL
+   Jasper James., 2004, MOBILIZATION, V9, P1, DOI [https://doi.org/10.17813/maiq.9.1.m112677546p63361, DOI 10.17813/MAIQ.9.1.M112677546P63361]
+   Jasper JM, 2015, PROTEST SOC MOVEMENT, P9
+   Jean-Klein I, 2001, CULT ANTHROPOL, V16, P83, DOI 10.1525/can.2001.16.1.83
+   Khalaf Rana., 2014, ACTIVISM DIFFICULT T
+   Kriesi Hanspeter., 1995, New social movements in Western Europe. A Comparative Analysis
+   Landis J., 2011, FREE SYRIAN ARMY FOU
+   Landis Joshua., 2011, What Happened at Jisr Al-Shagour? Syria Comment, June 13
+   Leenders R, 2012, MOBILIZATION, V17, P419
+   Leenders R, 2012, MEDITERR POLIT, V17, P139, DOI 10.1080/13629395.2012.694041
+   Local Council of Aleppo City, 2015, LOC COUNC AL RIS
+   Lund A., 2014, SYRIA CRISIS CARNEGI
+   Lund A., 2013, UI OCCASIONAL PAPERS, V17
+   Mische Ann., 2003, Social Movements and Networks: Relational Approaches to Collective Action, P258
+   Odaba sham, 2015, ISL BOARD AL
+   Passy F, 2001, SOCIOL FORUM, V16, P123, DOI 10.1023/A:1007613403970
+   Passy F., 2003, SOCIAL MOVEMENTS NET, DOI DOI 10.1093/0199251789.001.0001
+   Pierret T., 2017, Salafism after the Arab Awakening: Contending with Peoples Power
+   Singerman Diane., 2004, ISLAMIC ACTIVISM, P143
+   SNOW DA, 1980, AM SOCIOL REV, V45, P787, DOI 10.2307/2094895
+   The Islamic Front, 2013, CHART ISL FRONT
+   Tilly Charles., 1978, From Mobilisation to Revolution
+   Volpi Frederic., 2018, Microfoundations of the Arab Uprisings: Mapping Interactions between Regimes and Protesters
+   White H., 2007, Soziale Systeme, V13, P543
+   White H.C., 1992, Identity and control: A structural theory of social action
+   Yassin-Kassab R., 2018, Burning country: Syrians in revolution and war
+NR 57
+TC 2
+Z9 2
+U1 1
+U2 8
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1474-2837
+EI 1474-2829
+J9 SOC MOVEMENT STUD
+JI Soc. Mov. Stud.
+PD JAN 2
+PY 2019
+VL 18
+IS 1
+SI SI
+BP 17
+EP 35
+DI 10.1080/14742837.2018.1538875
+PG 19
+WC Political Science; Sociology
+WE Social Science Citation Index (SSCI)
+SC Government & Law; Sociology
+GA HD0NK
+UT WOS:000452204200002
+OA Green Submitted
+DA 2024-11-22
+ER

@@ -1,0 +1,605 @@
+
+PT J
+AU Marqués-Sánchez, P
+   Pinto-Carral, A
+   Fernández-Villa, T
+   Vázquez-Casares, A
+   Liébana-Presa, C
+   Benítez-Andrades, JA
+AF Marques-Sanchez, Pilar
+   Pinto-Carral, Arrate
+   Fernandez-Villa, Tania
+   Vazquez-Casares, Ana
+   Liebana-Presa, Cristina
+   Alberto Benitez-Andrades, Jose
+TI Identification of cohesive subgroups in a university hall of residence
+   during the COVID-19 pandemic using a social network analysis approach
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID US
+AB The aims: (i) analyze connectivity between subgroups of university students, (ii) assess which bridges of relational contacts are essential for connecting or disconnecting subgroups and (iii) to explore the similarities between the attributes of the subgroup nodes in relation to the pandemic context. During the COVID-19 pandemic, young university students have experienced significant changes in their relationships, especially in the halls of residence. Previous research has shown the importance of relationship structure in contagion processes. However, there is a lack of studies in the university setting, where students live closely together. The case study methodology was applied to carry out a descriptive study. The participation consisted of 43 university students living in the same hall of residence. Social network analysis has been applied for data analysis. Factions and Girvan-Newman algorithms have been applied to detect the existing cohesive subgroups. The UCINET tool was used for the calculation of the SNA measure. A visualization of the global network will be carried out using Gephi software. After applying the Girvan-Newman and Factions, in both cases it was found that the best division into subgroups was the one that divided the network into 4 subgroups. There is high degree of cohesion within the subgroups and a low cohesion between them. The relationship between subgroup membership and gender was significant. The degree of COVID-19 infection is related to the degree of clustering between the students. College students form subgroups in their residence. Social network analysis facilitates an understanding of structural behavior during the pandemic. The study provides evidence on the importance of gender, race and the building where they live in creating network structures that favor, or not, contagion during a pandemic.
+C1 [Marques-Sanchez, Pilar; Pinto-Carral, Arrate; Liebana-Presa, Cristina] Univ Leon, Dept Nursing & Physiotherapy, SALBIS Res Grp, Campus Ponferrada S-N, Ponferrada 24400, Spain.
+   [Fernandez-Villa, Tania] Univ Leon, Inst Biomed IBIOMED, Res Grp Gen Environm & Hlth Interact GIIGAS, Leon 24071, Spain.
+   [Vazquez-Casares, Ana] Univ Leon, Dept Nursing & Physiotherapy, Campus Vegazana S-N, Leon 24071, Spain.
+   [Alberto Benitez-Andrades, Jose] Univ Leon, Dept Elect Syst & Automat Engn, SALBIS Res Grp, Campus Vegazana S-N, Leon 24071, Spain.
+C3 Universidad de Leon; Universidad de Leon; Universidad de Leon;
+   Universidad de Leon
+RP Pinto-Carral, A (corresponding author), Univ Leon, Dept Nursing & Physiotherapy, SALBIS Res Grp, Campus Ponferrada S-N, Ponferrada 24400, Spain.
+EM apinc@unileon.es
+RI vázquez-casares, ana/JBR-8754-2023; Villa, Tania/GLU-1260-2022;
+   Pinto-Carral, Arrate/AAU-6625-2021; Marques-Sanchez, Pilar/Y-9161-2019;
+   Benitez-Andrades, Jose Alberto/M-1195-2017; vazquez-casares,
+   ana/J-5651-2013; LIEBANA-PRESA, CRISTINA/O-1771-2017
+OI Benitez-Andrades, Jose Alberto/0000-0002-4450-349X; vazquez-casares,
+   ana/0000-0002-0360-5262; Pinto-Carral, Arrate/0000-0002-2168-4478;
+   LIEBANA-PRESA, CRISTINA/0000-0003-1272-3014
+CR Adiyoso W, 2020, NATL DEV PLAN AGENCY, V21, P1
+   Ahmed W, 2020, J MED INTERNET RES, V22, DOI 10.2196/22374
+   [Anonymous], 1996, Networks in marketing, DOI [DOI 10.4135/9781483327723.N4, 10.4135/9781483327723.n4]
+   [Anonymous], 2020, J PHYS ACT HEALTH, DOI [DOI 10.1123/jpah.2019-0350, 10.1123/jpah.2019-0350]
+   Barnes JA, 1954, HUM RELAT, V7, P39, DOI 10.1177/001872675400700102
+   Bauer LL., 2020, ASS EXERCISE SOCIAL, DOI [10.1101/2020.07.01.20144105, DOI 10.1101/2020.07.01.20144105]
+   Borgatti S.P., 2002, Analytic Technologies, VVolume 1, DOI [10.1111/j.1439-0310.2009.01613.x, DOI 10.1111/J.1439-0310.2009.01613.X]
+   Borgatti SP, 2011, ORGAN SCI, V22, P1168, DOI 10.1287/orsc.1100.0641
+   Borgatti SP, 2009, SCIENCE, V323, P892, DOI 10.1126/science.1165821
+   Browning MHEM, 2021, PLOS ONE, V16, DOI 10.1371/journal.pone.0245327
+   Carpiano RM, 2014, SOC SCI MED, V116, P225, DOI 10.1016/j.socscimed.2014.03.017
+   Chang S, 2021, NATURE, V589, P82, DOI 10.1038/s41586-020-2923-3
+   Chetty S., 1996, INT SMALL BUS J-RES, V15, P73, DOI [10.1177/0266242696151005, DOI 10.1177/0266242696151005]
+   Chung GR, 2022, J FAM VIOLENCE, V37, P801, DOI 10.1007/s10896-020-00200-1
+   Dobson ET, 2021, J AFFECT DISORDERS, V280, P305, DOI 10.1016/j.jad.2020.11.027
+   European Data Protection Board, 2020, GUID 032020 PROC DAT, V13
+   Everett MG, 2013, ANAL SOCIAL NETWORKS
+   Fernández-Martínez E, 2017, INT J ENV RES PUB HE, V14, DOI 10.3390/ijerph14121488
+   Firth JA, 2020, NAT MED, V26, P1616, DOI 10.1038/s41591-020-1036-8
+   Friedkin NE, 2004, ANNU REV SOCIOL, V30, P409, DOI 10.1146/annurev.soc.30.012703.110625
+   Girvan M, 2002, P NATL ACAD SCI USA, V99, P7821, DOI 10.1073/pnas.122653799
+   Glass RJ, 2006, EMERG INFECT DIS, V12, P1671, DOI 10.3201/eid1211.060255
+   Gould RV, 2002, AM J SOCIOL, V107, P1143, DOI 10.1086/341744
+   Grey I, 2020, PSYCHIAT RES, V293, DOI 10.1016/j.psychres.2020.113452
+   Henneberger AK, 2021, ADOLESC RES REV, V6, P57, DOI 10.1007/s40894-019-00130-0
+   Hung M, 2020, J MED INTERNET RES, V22, DOI 10.2196/22590
+   James N, 2021, CHAOS, V31, DOI 10.1063/5.0054493
+   Kadushin Charles, 2013, Comprender las redes sociales: teorlas, conceptos y hallazgos
+   Karaye IM, 2020, AM J PREV MED, V59, P317, DOI 10.1016/j.amepre.2020.06.006
+   Lai Y, 2020, JMIR PUBLIC HLTH SUR, V6, P199, DOI 10.2196/18873
+   Li GJ, 2020, J MED INTERNET RES, V22, DOI 10.2196/20961
+   Li XY, 2019, SOC SCI MED, V232, P417, DOI 10.1016/j.socscimed.2019.05.026
+   Locatelli B, 2021, SUSTAIN SCI, V16, P37, DOI 10.1007/s11625-020-00860-4
+   Lozares C., 2017, REDES, V28, P44, DOI [10.5565/rev/redes.674, DOI 10.5565/REV/REDES.674]
+   Martínez-Fernández MC, 2021, INT J ENV RES PUB HE, V18, DOI 10.3390/ijerph18073335
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Murase Y, 2019, SCI REP-UK, V9, DOI 10.1038/s41598-019-40990-z
+   Pascual-Ferrá P, 2022, DISASTER MED PUBLIC, V16, P561, DOI 10.1017/dmp.2020.347
+   Raaper R, 2020, J PROF CAP COMMUNITY, V5, P343, DOI 10.1108/JPCC-06-2020-0032
+   Sheehan MM, 2020, CUREUS J MED SCIENCE, V12, DOI 10.7759/cureus.10754
+   Siggelkow N, 2007, ACAD MANAGE J, V50, P20, DOI 10.5465/amj.2007.24160882
+   Stadtfeld C, 2020, SOC NETWORKS, V60, P129, DOI 10.1016/j.socnet.2019.10.008
+   Trecene JK., 2020, SOC NETW ANAL PUBLIC, V8, P52
+   Vacca R, 2020, NETW SCI, V8, P142, DOI 10.1017/nws.2019.29
+   Walsh A, 2018, CAN J NURS RES, V50, P57, DOI 10.1177/0844562117747434
+   Wasserman S., 1994, Social network analysis: Methods and applications, P3, DOI [10.1017/CBO9780511815478, DOI 10.1017/CBO9780511815478]
+   Yilmazkuday H, 2021, J HUM BEHAV SOC ENVI, V31, P210, DOI 10.1080/10911359.2020.1845903
+   Yum S, 2020, SOC SCI QUART, V101, P1642, DOI 10.1111/ssqu.12808
+   Zander L, 2019, LEARN INDIVID DIFFER, V72, P49, DOI 10.1016/j.lindif.2019.03.002
+   Zhu WY, 2015, ACSR ADV COMPUT, V34, P760
+NR 50
+TC 3
+Z9 3
+U1 0
+U2 26
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD NOV 11
+PY 2021
+VL 11
+IS 1
+AR 22055
+DI 10.1038/s41598-021-01390-4
+PG 10
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA WW2IP
+UT WOS:000717747400074
+PM 34764333
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Bertella, MA
+   Silva, JN
+   Correa, AL
+   Sornette, D
+AF Bertella, Mario A.
+   Silva, Jonathas N.
+   Correa, Andre L.
+   Sornette, Didier
+TI The Influence of Confidence and Social Networks on an Agent-Based Model
+   of Stock Exchange
+SO COMPLEXITY
+LA English
+DT Article
+AB This paper aims to investigate the influence of investors' confidence in their portfolio holding relative to their social group and of various social network topologies on the dynamics of an artificial stock exchange. An investor's confidence depends on the growth rate of his or her wealth relative to his or her social group's average wealth. If the investor's confidence is low, the agent will change his or her asset allocation; otherwise, he or she will maintain it. We consider three types of social networks: Barabasi, small-world, and random. The actual stock markets' properties are recovered by this model: high excess kurtosis, skewness, volatility clustering, random walk prices, and stationary return rates. The networks' topologies are found to impact both the structuration of investors in the space of strategies and their performance. Among other characteristics, we find that (i) the small-world networks show the highest degree of homophily; (ii) as investors can switch to more profitable strategies, the best approach to make profitable investments is the chartist one in Barabasi and small-world topologies; and (iii) an unequal distribution and more significant relative wealth gains occur in the Barabasi network.
+C1 [Bertella, Mario A.; Silva, Jonathas N.; Correa, Andre L.] Sao Paulo State Univ UNESP, Dept Econ, BR-14800901 Araraquara, SP, Brazil.
+   [Bertella, Mario A.; Sornette, Didier] Swiss Fed Inst Technol, Dept Management Technol & Econ, CH-8092 Zurich, Switzerland.
+C3 Universidade Estadual Paulista; Swiss Federal Institutes of Technology
+   Domain; ETH Zurich
+RP Silva, JN (corresponding author), Sao Paulo State Univ UNESP, Dept Econ, BR-14800901 Araraquara, SP, Brazil.
+EM jonathas.water@gmail.com
+RI Bertella, Mario/AAW-7716-2020; Correa, Andre Luiz/D-2407-2012
+OI Correa, Andre Luiz/0000-0001-5701-7549; Silva,
+   Jonathas/0000-0001-6283-3831
+FU National Council for Scientific and Technological Development
+   [303986/2017-4, 428433/2018-9]; Sao Paulo Research Foundation
+   [2018/22562-4]
+FX National Council for Scientific and Technological Development-Grant
+   numbers (303986/2017-4) and (428433/20189) (http://www.cnpq.br/) Sao
+   Paulo Research FoundationGrant number (2018/22562-4)
+   (http://www.fapesp.br/en/).
+CR [Anonymous], 2014, APPL ECONOMETRIC TIM
+   [Anonymous], 2004, Applied Time Series Econometrics
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barberis N, 2018, J FINANC ECON, V129, P203, DOI 10.1016/j.jfineco.2018.04.007
+   Bertella M.A., 2019, PHYSICA A
+   Bertella MA, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0172258
+   Bertella MA, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0083488
+   BOLLERSLEV T, 1986, J ECONOMETRICS, V31, P307, DOI 10.1016/0304-4076(86)90063-1
+   Brock WA, 1998, J ECON DYN CONTROL, V22, P1235, DOI 10.1016/S0165-1889(98)00011-6
+   Chiarella C, 2009, HANDB FINANC, P277, DOI 10.1016/B978-012374258-2.50009-9
+   ENGLE RF, 1982, ECONOMETRICA, V50, P987, DOI 10.2307/1912773
+   ERDOS P, 1960, B INT STATIST INST, V38, P343
+   Erdos P., 1959, PUBL MATH-DEBRECEN, V6, P290
+   Erdos Paul, 1961, ACTA MATH ACAD SCI H, V12, P261, DOI DOI 10.1007/BF02066689
+   Hoffmann AOI, 2007, JASSS-J ARTIF SOC S, V10
+   Hommes CH, 2006, HANDB ECON, V13, P1109
+   Kaizoji T, 2015, J ECON BEHAV ORGAN, V112, P289, DOI 10.1016/j.jebo.2015.02.001
+   Khashanah K, 2016, COMPLEXITY, V21, P530, DOI 10.1002/cplx.21834
+   KIM GR, 1989, J PORTFOLIO MANAGE, V16, P45, DOI 10.3905/jpm.1989.409233
+   Levy Moshe., 2000, MICROSCOPIC SIMULATI
+   Lovric M, 2011, THESIS ERASMUS U RO
+   Takahashi H, 2003, JASSS-J ARTIF SOC S, V6
+   Tesfatsion L, 2002, ARTIF LIFE, V8, P55, DOI 10.1162/106454602753694765
+   Tversky A, P AIMR C LOS ANG CA
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Westphal R, 2020, J ECON BEHAV ORGAN, V171, P1, DOI 10.1016/j.jebo.2020.01.004
+NR 26
+TC 1
+Z9 1
+U1 0
+U2 7
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1076-2787
+EI 1099-0526
+J9 COMPLEXITY
+JI Complexity
+PD JUL 19
+PY 2021
+VL 2021
+AR 1083640
+DI 10.1155/2021/1083640
+PG 16
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Science & Technology - Other Topics
+GA UC7VF
+UT WOS:000686731100001
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Board, S
+   Meyer-ter-Vehn, M
+AF Board, Simon
+   Meyer-ter-Vehn, Moritz
+TI Learning Dynamics in Social Networks
+SO ECONOMETRICA
+LA English
+DT Article
+DE Networks; diffusion; social learning
+ID MODEL; DIFFUSION; SPEED
+AB This paper proposes a tractable model of Bayesian learning on large random networks where agents choose whether to adopt an innovation. We study the impact of the network structure on learning dynamics and product diffusion. In directed networks, all direct and indirect links contribute to agents' learning. In comparison, learning and welfare are lower in undirected networks and networks with cliques. In a rich class of networks, behavior is described by a small number of differential equations, making the model useful for empirical work.
+C1 [Board, Simon; Meyer-ter-Vehn, Moritz] Univ Calif Los Angeles, Los Angeles, CA 90024 USA.
+C3 University of California System; University of California Los Angeles
+RP Board, S (corresponding author), Univ Calif Los Angeles, Los Angeles, CA 90024 USA.
+EM sboard@econ.ucla.edu; mtv@econ.ucla.edu
+CR Acemoglu D, 2011, REV ECON STUD, V78, P1201, DOI 10.1093/restud/rdr004
+   Akbarpour Mohammad, 2020, JUST FEW SEEDS MORE
+   Ali SN, 2018, J ECON THEORY, V175, P713, DOI 10.1016/j.jet.2018.02.009
+   Banerjee A, 2013, SCIENCE, V341, P363, DOI 10.1126/science.1236498
+   BANERJEE AV, 1992, Q J ECON, V107, P797, DOI 10.2307/2118364
+   BANERJEE AV, 1993, REV ECON STUD, V60, P309, DOI 10.2307/2298059
+   BASS FM, 1969, MANAGE SCI, V15, P215, DOI 10.1287/mnsc.15.5.215
+   BIKHCHANDANI S, 1992, J POLIT ECON, V100, P992, DOI 10.1086/261849
+   Board S., 2021, ECONOMETRICA S, V89, DOI [10.3982/ECTA18659, DOI 10.3982/ECTA18659]
+   Bohren J.A., 2021, ECONOMETRICA
+   Borgers T., 2021, NOTES RELATIONS EXPE
+   Cai J, 2018, Q J ECON, V133, P1229, DOI 10.1093/qje/qjx049
+   Campbell A, 2013, AM ECON REV, V103, P2466, DOI 10.1257/aer.103.6.2466
+   Çelen B, 2004, GAME ECON BEHAV, V47, P72, DOI 10.1016/S0899-8256(03)00179-9
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   CHAMLEY C, 1994, ECONOMETRICA, V62, P1065, DOI 10.2307/2951507
+   Chandrasekhar A.G., 2021, NETWORK FORMATION MO
+   Chandrasekhar AG, 2020, ECONOMETRICA, V88, P1, DOI 10.3982/ECTA14407
+   Conley TG, 2010, AM ECON REV, V100, P35, DOI 10.1257/aer.100.1.35
+   Dasaratha K, 2020, THEOR ECON, V15, P415, DOI 10.3982/TE3388
+   Enke B, 2019, REV ECON STUD, V86, P313, DOI 10.1093/restud/rdx081
+   Eyster E., 2018, RATIONALITY COMPETIT
+   Eyster E, 2014, Q J ECON, V129, P1861, DOI 10.1093/qje/qju021
+   Eyster E, 2010, AM ECON J-MICROECON, V2, P221, DOI 10.1257/mic.2.4.221
+   Golub B, 2012, Q J ECON, V127, P1287, DOI 10.1093/qje/qjs021
+   Golub Benjamin, 2016, The Oxford Handbook of the Economics of Networks, V50442, P504
+   Guarino A, 2011, GAME ECON BEHAV, V73, P167, DOI 10.1016/j.geb.2011.01.003
+   Hann-Caruthers W, 2018, J ECON THEORY, V173, P383, DOI 10.1016/j.jet.2017.11.009
+   Hendricks K, 2012, AM ECON J-MICROECON, V4, P1, DOI 10.1257/mic.4.1.1
+   Herrera H, 2013, GAME ECON BEHAV, V80, P131, DOI 10.1016/j.geb.2012.12.006
+   Jackson MO, 2008, SOCIAL AND ECONOMIC NETWORKS, P1
+   Lobel I, 2015, THEOR ECON, V10, P807, DOI 10.3982/TE1549
+   Lomys N., 2020, SEQUENTIAL COLLECTIV
+   McAdams D., 2020, VIRAL SOCIAL LEARNIN
+   MILGROM PR, 1982, ECONOMETRICA, V50, P1089, DOI 10.2307/1911865
+   Monzón I, 2014, J ECON THEORY, V154, P375, DOI 10.1016/j.jet.2014.09.012
+   Moretti E, 2011, REV ECON STUD, V78, P356, DOI 10.1093/restud/rdq014
+   Morris S, 2000, REV ECON STUD, V67, P57, DOI 10.1111/1467-937X.00121
+   Mueller-Frank M, 2016, AM ECON J-MICROECON, V8, P83, DOI 10.1257/mic.20130253
+   Sadler E, 2020, AM ECON REV, V110, P225, DOI 10.1257/aer.20180601
+   Smith L, 2000, ECONOMETRICA, V68, P371, DOI 10.1111/1468-0262.00113
+   Smith L., 1996, RATIONAL SOCIAL LEAR
+NR 42
+TC 6
+Z9 7
+U1 7
+U2 64
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0012-9682
+EI 1468-0262
+J9 ECONOMETRICA
+JI Econometrica
+PD NOV
+PY 2021
+VL 89
+IS 6
+BP 2601
+EP 2635
+DI 10.3982/ECTA18659
+PG 35
+WC Economics; Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods; Statistics & Probability
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Mathematics; Mathematical Methods In Social
+   Sciences
+GA WV2MH
+UT WOS:000717071800004
+OA Green Submitted, Bronze
+DA 2024-11-22
+ER
+
+PT J
+AU Lipo, CP
+   DiNapoli, RJ
+   Madsen, ME
+   Hunt, TL
+AF Lipo, Carl P.
+   DiNapoli, Robert J.
+   Madsen, Mark E.
+   Hunt, Terry L.
+TI Population structure drives cultural diversity in finite populations: A
+   hypothesis for localized community patterns on Rapa Nui (Easter Island,
+   Chile)
+SO PLOS ONE
+LA English
+DT Article
+ID PREHISTORIC AGRICULTURAL PRODUCTION; DRYLAND AGRICULTURE; RANDOM DRIFT;
+   EVOLUTION; SIZE; DEMOGRAPHY; MODEL; COLONIZATION; ACCUMULATION;
+   PERSPECTIVE
+AB Understanding how and why cultural diversity changes in human populations remains a central topic of debate in cultural evolutionary studies. Due to the effects of drift, small and isolated populations face evolutionary challenges in the retention of richness and diversity of cultural information. Such variation, however, can have significant fitness consequences, particularly when environmental conditions change unpredictably, such that knowledge about past environments may be key to long-term persistence. Factors that can shape the outcomes of drift within a population include the semantics of the traits as well as spatially structured social networks. Here, we use cultural transmission simulations to explore how social network structure and interaction affect the rate of trait retention and extinction. Using Rapa Nui (Easter Island, Chile) as an example, we develop a model-based hypothesis for how the structural constraints of communities living in small, isolated populations had dramatic effects and likely led to preventing the loss of cultural information in both community patterning and technology.
+C1 [Lipo, Carl P.; DiNapoli, Robert J.] SUNY Binghamton, Harpur Coll Arts & Sci, Dept Anthropol, Environm Studies Program, Binghamton, NY 13902 USA.
+   [Madsen, Mark E.] Univ Washington, Dept Anthropol, Seattle, WA 98195 USA.
+   [Hunt, Terry L.] Univ Arizona, Honors Coll, Tucson, AZ USA.
+   [Hunt, Terry L.] Univ Arizona, Sch Anthropol, Tucson, AZ USA.
+C3 State University of New York (SUNY) System; Binghamton University, SUNY;
+   University of Washington; University of Washington Seattle; University
+   of Arizona; University of Arizona
+RP DiNapoli, RJ (corresponding author), SUNY Binghamton, Harpur Coll Arts & Sci, Dept Anthropol, Environm Studies Program, Binghamton, NY 13902 USA.
+EM dinapoli@binghamton.edu
+RI Lipo, Carl/C-9154-2013
+OI Madsen, Mark/0000-0001-9320-8377
+FU National Science Foundation [1841420]; Division Of Behavioral and
+   Cognitive Sci; Direct For Social, Behav & Economic Scie [1841420]
+   Funding Source: National Science Foundation
+FX Parts of this research were supported by National Science Foundation
+   award #1841420 to RJD and TLH. The funders had no role in study design,
+   data collection and analysis, decision to publish, or preparation of the
+   manuscript. There was no additional external funding received for this
+   study.
+CR Allen MS, 2010, ANTIQUITY, V84, P86, DOI 10.1017/S0003598X00099786
+   Allen MS, 2004, J ANTHROPOL ARCHAEOL, V23, P196, DOI 10.1016/j.jaa.2004.02.001
+   [Anonymous], 1994, EER ISLAND ARCHAEOLO
+   [Anonymous], 2009, Diff. Fund.
+   [Anonymous], 2008, THESIS U HAWAII MANO
+   [Anonymous], 1984, THESIS PENNSYLVANIA
+   Aoki K, 2011, THEOR POPUL BIOL, V79, P192, DOI 10.1016/j.tpb.2011.02.001
+   Bahn P., 2017, Easter Island, Earth Island: The Enigmas of Rapa Nui, VFourth
+   Barnes SS, 2006, J ARCHAEOL SCI, V33, P1536, DOI 10.1016/j.jas.2006.02.006
+   Barton NH, 1996, PHILOS T R SOC B, V351, P785, DOI 10.1098/rstb.1996.0073
+   Bell AV, 2015, CURR ANTHROPOL, V56, P277, DOI 10.1086/680438
+   Bentley RA, 2007, EVOL HUM BEHAV, V28, P151, DOI 10.1016/j.evolhumbehav.2006.10.002
+   Bentley RA, 2004, P ROY SOC B-BIOL SCI, V271, P1443, DOI 10.1098/rspb.2004.2746
+   Bork H.-R., 2004, Rapa Nui J, V18, P10
+   Brosnan T, 2019, HYDROGEOL J, V27, P519, DOI 10.1007/s10040-018-1870-7
+   Chapman PM., 1996, RAPA NUI J, V10, P53
+   Collard M, 2013, PHILOS T R SOC B, V368, DOI 10.1098/rstb.2012.0412
+   Collard M, 2013, CURR ANTHROPOL, V54, pS388, DOI 10.1086/673881
+   Collard M, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0072628
+   Commendador AS, 2013, AM J PHYS ANTHROPOL, V152, P173, DOI 10.1002/ajpa.22339
+   Crema ER, 2014, J ARCHAEOL SCI, V50, P160, DOI 10.1016/j.jas.2014.07.014
+   Crema ER, 2016, SCI REP-UK, V6, DOI 10.1038/srep39122
+   de Aguiar MAM, 2009, NATURE, V460, P384, DOI 10.1038/nature08168
+   Derex Maxime, 2020, Trends Cogn Sci, V24, P654, DOI 10.1016/j.tics.2020.04.005
+   Derex M, 2018, PHILOS T R SOC B, V373, DOI 10.1098/rstb.2017.0062
+   Derex M, 2016, P NATL ACAD SCI USA, V113, P2982, DOI 10.1073/pnas.1518798113
+   Diamond J., 2011, COLLAPSE
+   Diamond J., 1995, EASTERS END DISCOVER, V9, P62
+   Dickinson WR, 1999, QUATERNARY RES, V51, P124, DOI 10.1006/qres.1998.2029
+   DiNapoli RJ., 2020, J PAC ARCHAEOL
+   DiNapoli RJ, 2020, J ARCHAEOL SCI, V116, DOI 10.1016/j.jas.2020.105094
+   DiNapoli RJ, 2018, J ISL COAST ARCHAEOL, V13, P157, DOI 10.1080/15564894.2017.1311285
+   DiNapoli RJ, 2019, PLOS ONE, V14, DOI 10.1371/journal.pone.0210409
+   DiNapoli RJ, 2018, J ISL COAST ARCHAEOL, V13, P202, DOI 10.1080/15564894.2016.1276490
+   DiNapoli RJ, 2017, J ARCHAEOL SCI-REP, V15, P109, DOI 10.1016/j.jasrep.2017.07.001
+   Dudgeon J.V., 2016, CAMBRIDGE STUDIES BI, P202, DOI [10.1017/CBO9781139151856.012, DOI 10.1017/CBO9781139151856.012]
+   DUNNELL R.C., 1971, SYSTEMATICS PREHISTO, DOI DOI 10.1016/j.jaa.2005.08.001
+   Fay N, 2019, P NATL ACAD SCI USA, V116, P17161, DOI 10.1073/pnas.1911176116
+   Fay N, 2019, P NATL ACAD SCI USA, V116, P6726, DOI 10.1073/pnas.1811413116
+   Fischer StevenRoger., 1997, Rongorongo, the Easter Island Script: History, Traditions, Texts
+   Fisher RA., 1923, Proc. R. Soc. Edinb, V42, P321, DOI [DOI 10.1017/S0370164600023993, 10.1017/S0370164600023993]
+   Frankham R, 1997, HEREDITY, V78, P311, DOI 10.1038/hdy.1997.46
+   Gill G.W., 2016, Skeletal Biology of the Ancient Rapanui (Easter Islanders), P286
+   Gill G.W., 1997, RAPA NUI J, V11, P64
+   Hahn MW, 2003, P ROY SOC B-BIOL SCI, V270, pS120, DOI 10.1098/rsbl.2003.0045
+   Hamilton Sue., 2008, Handbook of Landscape Archaeology, P176
+   Henrich J, 2016, SECRET OF OUR SUCCESS: HOW CULTURE IS DRIVING HUMAN EVOLUTION, DOMESTICATING OUR SPECIES, AND MAKING US SMARTER, P1
+   Henrich J, 2004, AM ANTIQUITY, V69, P197, DOI 10.2307/4128416
+   Henrich J, 2016, P NATL ACAD SCI USA, V113, pE6724, DOI 10.1073/pnas.1610005113
+   Herzog HA, 2004, P ROY SOC B-BIOL SCI, V271, pS353, DOI 10.1098/rsbl.2004.0185
+   Hexon SW, 2019, J POLYNESIAN SOC, V128, P163, DOI 10.15286/jps.128.2.163-189
+   Hixon SW, 2018, J ARCHAEOL SCI, V100, P148, DOI 10.1016/j.jas.2018.04.011
+   Hogg AG, 2020, RADIOCARBON, V62, P759, DOI 10.1017/RDC.2020.59
+   Hunt T.L., 2007, Rapa Nui Journal, V21, P85
+   Hunt T.L., 2018, The Oxford Handbook of Prehistoric Oceania, P416, DOI DOI 10.1093/OXFORDHB/9780199925070.001.0001
+   Hunt Terry., 2008, Journal of Island and Coastal Archeology, V3, P140
+   Hunt TL, 2007, J ARCHAEOL SCI, V34, P485, DOI 10.1016/j.jas.2006.10.003
+   Hunt TL, 2009, PAC SCI, V63, P601, DOI 10.2984/049.063.0407
+   Hunt TerryL., 2011, The Statues that Walked: Unraveling the Mystery of Easter Island
+   Hunt TL, 2006, SCIENCE, V311, P1603, DOI 10.1126/science.1121879
+   Kandler A, 2017, ROY SOC OPEN SCI, V4, DOI 10.1098/rsos.170949
+   Kandler A, 2013, J THEOR BIOL, V330, P18, DOI 10.1016/j.jtbi.2013.03.006
+   Kempe M, 2014, EVOL HUM BEHAV, V35, P285, DOI 10.1016/j.evolhumbehav.2014.02.009
+   Kline MA, 2010, P ROY SOC B-BIOL SCI, V277, P2559, DOI 10.1098/rspb.2010.0452
+   Kobayashi Y, 2012, THEOR POPUL BIOL, V82, P38, DOI 10.1016/j.tpb.2012.04.001
+   La Perouse J-FdeGcomtede., 1807, VOYAGE ROUND WORLD P, VII
+   Ladefoged TN, 2013, J ARCHAEOL SCI, V40, P1203, DOI 10.1016/j.jas.2012.09.006
+   Lee CT, 2006, HUM ECOL, V34, P739, DOI 10.1007/s10745-006-9037-x
+   Lehmann L, 2011, PHILOS T R SOC B, V366, P424, DOI 10.1098/rstb.2010.0313
+   Lipo CP, 2018, FRONT ECOL EVOL, V6, DOI 10.3389/fevo.2018.00025
+   Lipo CP, 2015, LITHIC TECHNOLOGICAL SYSTEMS AND EVOLUTIONARY THEORY, P225
+   Lipo CP, 2013, J ARCHAEOL SCI, V40, P2859, DOI 10.1016/j.jas.2012.09.029
+   Lipo CP, 2010, J ARCHAEOL SCI, V37, P2551, DOI 10.1016/j.jas.2010.05.015
+   Lipo CP, 1997, J ANTHROPOL ARCHAEOL, V16, P301, DOI 10.1006/jaar.1997.0314
+   Louwagie G, 2006, J ANTHROPOL ARCHAEOL, V25, P290, DOI 10.1016/j.jaa.2005.11.008
+   Mann D, 2008, QUATERNARY RES, V69, P16, DOI 10.1016/j.yqres.2007.10.009
+   Marquet PA, 2012, P NATL ACAD SCI USA, V109, P14754, DOI 10.1073/pnas.1116724109
+   Martens JP, 2019, P NATL ACAD SCI USA, V116, P17160, DOI 10.1073/pnas.1910949116
+   Martins AB, 2013, P NATL ACAD SCI USA, V110, P5080, DOI 10.1073/pnas.1217034110
+   Martinsson-Wallin HeleneAnn-Charlotte., 1994, Ahu: The Ceremonial Stone Structures of Easter Island. Analyses of Variation and Interpretation of Meanings. Dr
+   McCoy P., 1976, EASTER ISLAND SETTLE
+   MCCOY PC, 1978, ANTIQUITY, V52, P204, DOI 10.1017/S0003598X00072203
+   McMillen HL, 2014, ECOL SOC, V19, DOI 10.5751/ES-06937-190444
+   Mesoudi A, 2009, EVOL HUM BEHAV, V30, P41, DOI 10.1016/j.evolhumbehav.2008.07.005
+   Metraux Alfred., 1940, ETHNOLOGY EASTER ISL
+   MORRISON AE, 2012, THESIS
+   Orliac Catherine, 2005, Archaeology in Oceania, V40, P115
+   Peng B, 2005, BIOINFORMATICS, V21, P3686, DOI 10.1093/bioinformatics/bti584
+   Peng B., 2015, FORWARD TIME POPULAT
+   Polet C, 2016, J ARCHAEOL SCI-REP, V6, P709, DOI 10.1016/j.jasrep.2015.09.013
+   Powell A, 2009, SCIENCE, V324, P1298, DOI 10.1126/science.1170165
+   Premo LS, 2016, AM ANTIQUITY, V81, P605, DOI 10.7183/0002-7316.81.4.605
+   Premo LS, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0161766
+   Premo LS, 2011, AM ANTIQUITY, V76, P163, DOI 10.7183/0002-7316.76.1.163
+   Premo LS, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0015582
+   Premo LS, 2009, P NATL ACAD SCI USA, V106, P33, DOI 10.1073/pnas.0809194105
+   Puleston CO, 2017, FRONT ECOL EVOL, V5, DOI 10.3389/fevo.2017.00069
+   Richards C, 2011, WORLD ARCHAEOL, V43, P191, DOI 10.1080/00438243.2011.579483
+   Riede F, 2009, LITHIC TECHNOL, V34, P27, DOI 10.1080/01977261.2009.11721072
+   Routledge Katherine., 1919, The Mystery of Easter Island; The Story of an Expedition
+   Rull V, 2020, BIOL REV, V95, P124, DOI 10.1111/brv.12556
+   Schneider DM, 2016, J THEOR BIOL, V402, P9, DOI 10.1016/j.jtbi.2016.04.024
+   Shennan S, 2001, CAMB ARCHAEOL J, V11, P5, DOI 10.1017/S0959774301000014
+   Shennan SJ, 2001, AM ANTIQUITY, V66, P577, DOI 10.2307/2694174
+   Stefan VH, 1999, AM J PHYS ANTHROPOL, V110, P407, DOI 10.1002/(SICI)1096-8644(199912)110:4<407::AID-AJPA3>3.0.CO;2-K
+   Stevenson C.M., 2002, PACIFIC LANDSCAPES, P211
+   Stevenson C.M., 1986, EVOLUTION ISLAND SOC, P69
+   Stevenson CM, 2006, ANTIQUITY, V80, P919, DOI 10.1017/S0003598X00094515
+   Stevenson CM, 2013, J ISL COAST ARCHAEOL, V8, P108, DOI 10.1080/15564894.2012.745457
+   Stevenson CM, 1999, ANTIQUITY, V73, P801, DOI 10.1017/S0003598X00065546
+   Strimling P, 2009, THEOR POPUL BIOL, V76, P77, DOI 10.1016/j.tpb.2009.04.006
+   Vaesen K, 2016, P NATL ACAD SCI USA, V113, pE6726, DOI 10.1073/pnas.1613074113
+   Vaesen K, 2016, P NATL ACAD SCI USA, V113, pE2241, DOI 10.1073/pnas.1520288113
+   Vaesen K, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0040989
+   Vitousek PM, 2014, J PAC ARCHAEOL, V5, P51
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   WEIR BS, 1984, EVOLUTION, V38, P1358, DOI 10.2307/2408641
+   Wilmshurst JM, 2011, P NATL ACAD SCI USA, V108, P1815, DOI 10.1073/pnas.1015876108
+   Wozniak J.A., 2018, Cultural and Environmental Change on Rapa Nui, P87
+   Wozniak JA., 1999, Rapa Nui J, V13, P95
+   Wright S, 1931, GENETICS, V16, P0097
+NR 121
+TC 5
+Z9 6
+U1 0
+U2 7
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD MAY 12
+PY 2021
+VL 16
+IS 5
+AR e0250690
+DI 10.1371/journal.pone.0250690
+PG 25
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA SW6MF
+UT WOS:000664627300025
+PM 33979335
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Albizua, A
+   Bennett, EM
+   Larocque, G
+   Krause, RW
+   Pascual, U
+AF Albizua, Amaia
+   Bennett, Elena M.
+   Larocque, Guillaume
+   Krause, Robert W.
+   Pascual, Unai
+TI Social networks influence farming practices and agrarian sustainability
+SO PLOS ONE
+LA English
+DT Article
+ID ECOSYSTEM SERVICES; LAND-USE; FARMERS; VALUES; INTENSIFICATION;
+   COPRODUCTION; BIODIVERSITY; WILLINGNESS; VALUATION; DIVERSITY
+AB The social-ecological effects of agricultural intensification are complex. We explore farmers' perceptions about the impacts of their land management and the impact of social information flows on their management through a case study in a farming community in Navarra, Spain, that is undergoing agricultural intensification due to adoption of large scale irrigation. We found that modern technology adopters are aware that their management practices often have negative social-ecological implications; by contrast, more traditional farmers tend to recognize their positive impacts on non-material benefits such as those linked with traditions and traditional knowledge, and climate regulation. We found that farmers' awareness about nature contributions to people co-production and their land management decisions determine, in part, the structure of the social networks among the farming community. Since modern farmers are at the core of the social network, they are better able to control the information flow within the community. This has important implications, such as the fact that the traditional farmers, who are more aware of their impacts on the environment, rely on information controlled by more intensive modern farmers, potentially jeopardizing sustainable practices in this region. We suggest that this might be counteracted by helping traditional farmers obtain information tailored to their practices from outside the social network.
+C1 [Albizua, Amaia; Pascual, Unai] Basque Ctr Climate Change, Leioa, Spain.
+   [Albizua, Amaia; Bennett, Elena M.] McGill Univ, Dept Nat Resource Sci, Ste Anne De Bellevue, PQ, Canada.
+   [Larocque, Guillaume] McGill Univ, Quebec Ctr Biodivers Sci, Montreal, PQ, Canada.
+   [Krause, Robert W.] Linkoping Univ, Inst Analyt Sociol, Norrkoping, Sweden.
+   [Pascual, Unai] Ikerbasque Fdn Sci, Bilbao, Spain.
+   [Pascual, Unai] Univ Bern, Ctr Environm & Dev, Bern, Switzerland.
+   [Krause, Robert W.] Freie Univ, Methods & Evaluat Qual Assurance, Dept Educ & Psychol, Berlin, Germany.
+C3 Basque Centre for Climate Change (BC3); McGill University; McGill
+   University; Linkoping University; Basque Foundation for Science;
+   University of Bern; Free University of Berlin
+RP Albizua, A (corresponding author), Basque Ctr Climate Change, Leioa, Spain.; Albizua, A (corresponding author), McGill Univ, Dept Nat Resource Sci, Ste Anne De Bellevue, PQ, Canada.
+EM amaiabc3@gmail.com
+RI Albizua, Amaia/AAA-6326-2019; Bennett, Elena/A-9553-2008; PASCUAL,
+   UNAI/B-4766-2012; Albizua, Amaia/D-4840-2012
+OI Larocque, Guillaume/0000-0002-5967-9156; Albizua,
+   Amaia/0000-0001-8381-5288
+FU Eusko Jaurlaritza; Ministerio de Economia y Competitividad(ES)
+   [MDM-2017-0714]; Canadian Network for Research and Innovation in
+   Machining Technology; Natural Sciences and EngineeringResearch Council
+   of Canada; European Research Council (ERC) under the European Union
+   [648693]
+FX AA, Eusko Jaurlaritza(Postdoctoral Scholarship);
+   https://www.euskadi.eus/informacion/ayudas-al-personal-investigadorprogr
+   ama-posdoctoral/web01-a2hunib/es/; Ministerio de Economi ' a y
+   Competitividad(ES) (MDM-2017-0714). EB, Canadian Network for Research
+   and Innovation in Machining Technology, Natural Sciences and
+   EngineeringResearch Council of Canada RK, European Research Council
+   (ERC) under the European Union's Horizon 2020 research and innovation
+   program (grant agreement No. 648693).
+CR Albizua A, 2020, REG ENVIRON CHANGE, V20, DOI 10.1007/s10113-020-01676-9
+   Albizua A, 2020, ENVIRON POLICY GOV, V30, P167, DOI 10.1002/eet.1882
+   Albizua A, 2019, REG ENVIRON CHANGE, V19, P1147, DOI 10.1007/s10113-019-01462-2
+   Albizua A, 2019, ECOL ECON, V159, P354, DOI 10.1016/j.ecolecon.2018.12.017
+   [Anonymous], 2013, Theory, methods, and applications
+   [Anonymous], 2016, SOCIAL ECOLOGICAL IM
+   [Anonymous], 2014, CONDITIONS AGR GROWT
+   Balvanera P, 2017, NAT ECOL EVOL, V1, DOI 10.1038/s41559-017-0197
+   Barnaud C, 2018, ECOL SOC, V23, DOI 10.5751/ES-09848-230115
+   Bennett EM, 2015, CURR OPIN ENV SUST, V14, P76, DOI 10.1016/j.cosust.2015.03.007
+   Berka C, 2001, WATER AIR SOIL POLL, V127, P389, DOI 10.1023/A:1005233005364
+   Bongaarts J, 2019, POPUL DEV REV, V45, P680, DOI 10.1111/padr.12283
+   Brown C, 2022, J EDUC POLICY, V37, P613, DOI 10.1080/02680939.2020.1860258
+   Brown SR, 2006, QUAL QUANT, V40, P361, DOI 10.1007/s11135-005-8828-2
+   Bruinsma J., 2017, WORLD AGR 20152030 F, DOI DOI 10.4324/9781315083858
+   Chen MJ, 2018, PLOS ONE, V13, DOI 10.1371/journal.pone.0196392
+   Colloff MJ, 2017, ENVIRON SCI POLICY, V68, P87, DOI 10.1016/j.envsci.2016.11.007
+   Conelly WT, 1996, CASE STUDIES HUMAN E, P289
+   Cramb Rob., 2011, Borneo Transformed: Agricultural Expansion on the Southeast Asian Frontier, P44
+   Crona B, 2017, WORLD DEV, V91, P70, DOI 10.1016/j.worlddev.2016.10.006
+   de Vries A, 2012, AGRICULTURA, P1
+   Díaz S, 2015, CURR OPIN ENV SUST, V14, P1, DOI 10.1016/j.cosust.2014.11.002
+   Ernstson H, 2010, ECOL SOC, V15
+   Fischer A, 2016, LAND USE POLICY, V52, P41, DOI 10.1016/j.landusepol.2015.12.004
+   Foley JA, 2011, NATURE, V478, P337, DOI 10.1038/nature10452
+   García-Llorente M, 2011, ECOL APPL, V21, P3083, DOI 10.1890/10-1744.1
+   Gile K, 2006, MODEL BASED AS UNPUB
+   Iniesta-Arandia I, 2014, ECOL ECON, V108, P36, DOI 10.1016/j.ecolecon.2014.09.028
+   Inman A, 2018, LAND USE POLICY, V70, P16, DOI 10.1016/j.landusepol.2017.09.042
+   Isaac ME, 2017, REG ENVIRON CHANGE, V17, P1823, DOI 10.1007/s10113-017-1151-3
+   Isaac ME, 2011, AGRARIAN COMMUNICATI, P322
+   Kay C., 2002, Journal of Agrarian Change, V2, P464, DOI 10.1111/1471-0366.00043
+   Kovács-Hostyánszki A, 2017, ECOL LETT, V20, P673, DOI 10.1111/ele.12762
+   Krause RW, 2020, SOC NETWORKS, V62, P99, DOI 10.1016/j.socnet.2020.02.004
+   Krause RW, 2018, 2018 IEEE/ACM INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING (ASONAM), P159, DOI 10.1109/ASONAM.2018.8508716
+   Labarthe P, 2013, FOOD POLICY, V38, P240, DOI 10.1016/j.foodpol.2012.10.005
+   Lusher Dean., 2013, Exponential Random Graph Models for Social Networks, P16, DOI DOI 10.1017/CBO9780511894701.004
+   Martín-López B, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0038970
+   Martinez-Baron D, 2018, CURR OPIN ENV SUST, V31, P112, DOI 10.1016/j.cosust.2018.02.013
+   O'Rourke E, 2016, J RURAL STUD, V46, P47, DOI 10.1016/j.jrurstud.2016.05.010
+   Palacios D., 2016, REDES REV HISPANA AN, V27, P33, DOI [10.5565/rev/redes.631, DOI 10.5565/REV/REDES.631]
+   Plataforma URA Nueva Cultura, 2014, EV 1 CICL PLAN
+   Plieninger T, 2013, ECOL SOC, V18, DOI 10.5751/ES-05877-180420
+   Prell C, 2009, SOC NATUR RESOUR, V22, P501, DOI 10.1080/08941920802199202
+   Reyers B, 2015, P NATL ACAD SCI USA, V112, P7362, DOI 10.1073/pnas.1414374112
+   S BE, 2018, J CROHNS COLITIS, V12, pS049
+   Schlüter U, 2012, PLANT PHYSIOL, V160, P1384, DOI 10.1104/pp.112.204420
+   Schmidt J, 2011, BIOMASS BIOENERG, V35, P4060, DOI 10.1016/j.biombioe.2011.07.007
+   Smith HF, 2014, ECOL ECON, V98, P72, DOI 10.1016/j.ecolecon.2013.12.008
+   Snijders TAB, 2010, SOC NETWORKS, V32, P44, DOI 10.1016/j.socnet.2009.02.004
+   Snyder KA, 2014, IMPLICATIONS SUSTAIN
+   Tilman D, 2011, P NATL ACAD SCI USA, V108, P20260, DOI 10.1073/pnas.1116437108
+   Vanwalleghem T, 2017, ANTHROPOCENE, V17, P13, DOI 10.1016/j.ancene.2017.01.002
+   Villamayor-Tomas S, 2019, LAND USE POLICY, V84, P200, DOI 10.1016/j.landusepol.2019.03.006
+   Villanueva AJ, 2017, J AGR ECON, V68, P801, DOI 10.1111/1477-9552.12211
+   Wilby A, 2002, ECOL LETT, V5, P353, DOI 10.1046/j.1461-0248.2002.00331.x
+   Zhang W, 2007, ECOL ECON, V64, P253, DOI 10.1016/j.ecolecon.2007.02.024
+NR 57
+TC 19
+Z9 19
+U1 0
+U2 24
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JAN 7
+PY 2021
+VL 16
+IS 1
+AR e0244619
+DI 10.1371/journal.pone.0244619
+PG 18
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA PS6NW
+UT WOS:000608044300068
+PM 33411756
+OA Green Published, gold
+DA 2024-11-22
+ER

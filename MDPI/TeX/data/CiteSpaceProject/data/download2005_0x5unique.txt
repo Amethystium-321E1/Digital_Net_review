@@ -1,0 +1,557 @@
+
+PT J
+AU Keeling, MJ
+   Eames, KTD
+AF Keeling, MJ
+   Eames, KTD
+TI Networks and epidemic models
+SO JOURNAL OF THE ROYAL SOCIETY INTERFACE
+LA English
+DT Review
+DE transmission; infection; contact-tracing; random network; small-world
+   network; scale-free network
+ID SEXUALLY-TRANSMITTED-DISEASES; TRANSMISSION DYNAMICS; SOCIAL NETWORK;
+   PARTNERSHIP NETWORKS; CRITICAL-BEHAVIOR; CONTACT PATTERNS; SPREAD;
+   GONORRHEA; INFECTION; IMPACT
+AB Networks and the epidemiology of directly transmitted infectious diseases are fundamentally linked. The foundations of epidemiology and early epidemiological models were based on population wide random-mixing, but in practice each individual has a finite set of contacts to whom they can pass infection; the ensemble of all such contacts forms a network,. Knowledge of the structure of the network allows models to compute the epidemic dynamics at the population scale from the individual-level behaviour of infections. Therefore, characteristics of mixing networks-and how these deviate from the random-mixing norm-have become important applied concerns that may enhance the understanding and prediction of epidemic patterns and intervention measures.
+   Here, we review the basis of epidemiological theory (based on random-mixing models) and network theory (based on work from the social sciences and graph theory). We then describe a variety of methods that allow the mixing network, or an approximation to the network, to be ascertained. It is often the case that time and resources limit our ability to accurately find all connections within a network, and hence a generic understanding of the relationship between network structure and disease dynamics is needed. Therefore, we review some of the variety of idealized network types and approximation techniques that have been utilized to elucidate this link. Finally, we look to the future to suggest how the two fields of network theory and epidemiological modelling can deliver an improved understanding of disease dynamics and better public health through effective disease control.
+C1 Univ Warwick, Dept Biol Sci, Coventry CV4 7AL, W Midlands, England.
+   Univ Warwick, Inst Math, Coventry CV4 7AL, W Midlands, England.
+   Dept Zool, Cambridge CB2 3EJ, England.
+C3 University of Warwick; University of Warwick
+RP Univ Warwick, Dept Biol Sci, Gibbet Hill Rd, Coventry CV4 7AL, W Midlands, England.
+EM m.j.keeling@warwick.ac.uk
+RI Keeling, Matt/J-9280-2012
+OI Keeling, Matt/0000-0003-4639-4765
+FU Wellcome Trust Funding Source: Medline
+CR Albert R, 1999, NATURE, V401, P130, DOI 10.1038/43601
+   Albert R, 2000, NATURE, V406, P378, DOI 10.1038/35019019
+   ANDERSON R M, 1991
+   ANDERSON RM, 1988, J ROY STAT SOC A STA, V151, P66, DOI 10.2307/2982185
+   [Anonymous], 2000, Small worlds: The dynamics of networks between order and randomness
+   Bailey NTJ., 1957, MATH THEORY EPIDEMIC
+   BAK P, 1990, PHYS LETT A, V147, P297, DOI 10.1016/0375-9601(90)90451-S
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barbour A., 1990, Lect. Notes Biomath., P86
+   Bearman PS, 2004, AM J SOCIOL, V110, P44, DOI 10.1086/386272
+   Bollobas B, 1985, Random Graphs
+   Bollobas B., 1979, GRAPH THEORY, V1st
+   Boots M, 1999, P ROY SOC B-BIOL SCI, V266, P1933, DOI 10.1098/rspb.1999.0869
+   De P, 2004, SEX TRANSM INFECT, V80, P280, DOI 10.1136/sti.2003.007187
+   Diekmann O, 1998, J APPL PROBAB, V35, P448, DOI 10.1017/S0021900200015072
+   DIETZ K, 1988, J MATH BIOL, V26, P1, DOI 10.1007/BF00280169
+   Doherty IA, 2005, J INFECT DIS, V191, pS42, DOI 10.1086/425277
+   Eames KTD, 2004, MATH BIOSCI, V189, P115, DOI 10.1016/j.mbs.2004.02.003
+   Eames KTD, 2003, P ROY SOC B-BIOL SCI, V270, P2565, DOI 10.1098/rspb.2003.2554
+   Eames KTD, 2002, P NATL ACAD SCI USA, V99, P13330, DOI 10.1073/pnas.202244299
+   Earn DJD, 2000, SCIENCE, V287, P667, DOI 10.1126/science.287.5453.667
+   Edmunds WJ, 1997, JAMA-J AM MED ASSOC, V278, P1231, DOI 10.1001/jama.1997.03550150035018
+   Edmunds WJ, 1997, P ROY SOC B-BIOL SCI, V264, P949, DOI 10.1098/rspb.1997.0131
+   Eichner M, 2003, AM J EPIDEMIOL, V158, P118, DOI 10.1093/aje/kwg104
+   Eubank S, 2004, NATURE, V429, P180, DOI 10.1038/nature02541
+   Ferguson NM, 2000, SEX TRANSM DIS, V27, P600, DOI 10.1097/00007435-200011000-00008
+   Ferguson NM, 2001, SCIENCE, V292, P1155, DOI 10.1126/science.1061020
+   FRANK O, 1986, J AM STAT ASSOC, V81, P832, DOI 10.2307/2289017
+   Fraser C, 2004, P NATL ACAD SCI USA, V101, P6146, DOI 10.1073/pnas.0307506101
+   Garnett GP, 1996, J INFECT DIS, V174, pS150, DOI 10.1093/infdis/174.Supplement_2.S150
+   Ghani AC, 1998, J ROY STAT SOC A STA, V161, P227, DOI 10.1111/1467-985X.00101
+   Ghani AC, 2000, SEX TRANSM DIS, V27, P579, DOI 10.1097/00007435-200011000-00006
+   Ghani AC, 1997, SEX TRANSM DIS, V24, P45, DOI 10.1097/00007435-199701000-00009
+   Gilbert M, 2005, NATURE, V435, P491, DOI 10.1038/nature03548
+   GRASSBERGER P, 1983, MATH BIOSCI, V63, P157, DOI 10.1016/0025-5564(82)90036-0
+   GRENFELL BT, 1992, J ROY STAT SOC B MET, V54, P383
+   Grenfell BT, 2001, NATURE, V414, P716, DOI 10.1038/414716a
+   Grimmett G., 1989, PERCOLATION
+   Halloran ME, 2002, SCIENCE, V298, P1428, DOI 10.1126/science.1074674
+   Handcock MS, 2004, THEOR POPUL BIOL, V65, P413, DOI 10.1016/j.tpb.2003.09.006
+   Harary F., 1969, GRAPH THEORY
+   HARRIS TE, 1974, ANN PROBAB, V2, P969, DOI 10.1214/aop/1176996493
+   Haydon DT, 2003, P ROY SOC B-BIOL SCI, V270, P121, DOI 10.1098/rspb.2002.2191
+   Hethcote H. W., 1984, SPRINGER LECT NOTES
+   Jeong H, 2000, NATURE, V407, P651, DOI 10.1038/35036627
+   Jolly AM, 2002, SEX TRANSM INFECT, V78, pI145, DOI 10.1136/sti.78.suppl_1.i145
+   Karlberg M, 1997, SOC NETWORKS, V19, P325, DOI 10.1016/S0378-8733(97)00001-4
+   Keeling M, 2005, THEOR POPUL BIOL, V67, P1, DOI 10.1016/j.tpb.2004.08.002
+   Keeling MJ, 2001, PHYSICA D, V148, P317, DOI 10.1016/S0167-2789(00)00187-1
+   Keeling MJ, 1999, P ROY SOC B-BIOL SCI, V266, P859, DOI 10.1098/rspb.1999.0716
+   Keeling MJ, 1997, TRENDS MICROBIOL, V5, P513, DOI 10.1016/S0966-842X(97)01147-5
+   Keeling MJ, 1997, P ROY SOC B-BIOL SCI, V264, P1149, DOI 10.1098/rspb.1997.0159
+   Kermack WO, 1927, P R SOC LOND A-CONTA, V115, P700, DOI 10.1098/rspa.1927.0118
+   KLOVDAHL AS, 1977, AUST NZ J SOCIOL, V13, P169
+   KLOVDAHL AS, 1985, SOC SCI MED, V21, P1203, DOI 10.1016/0277-9536(85)90269-2
+   Klovdahl AS, 2001, SEX TRANSM DIS, V28, P25, DOI 10.1097/00007435-200101000-00006
+   Kretzschmar M, 1996, AM J EPIDEMIOL, V144, P306
+   Kuperman M, 2001, PHYS REV LETT, V86, P2909, DOI 10.1103/PhysRevLett.86.2909
+   Leinhardt S., 1977, Social Networks: A developing Paradigm
+   Liljeros F, 2003, MICROBES INFECT, V5, P189, DOI 10.1016/S1286-4579(02)00058-8
+   Liljeros F, 2001, NATURE, V411, P907, DOI 10.1038/35082140
+   Lloyd AL, 2001, SCIENCE, V292, P1316, DOI 10.1126/science.1061076
+   Meyers LA, 2005, J THEOR BIOL, V232, P71, DOI 10.1016/j.jtbi.2004.07.026
+   MILGRAM S, 1967, PSYCHOL TODAY, V1, P61
+   MOLLISON D, 1977, J ROY STAT SOC B MET, V39, P283
+   Moore C, 2000, PHYS REV E, V61, P5678, DOI 10.1103/PhysRevE.61.5678
+   Morris M, 1997, AIDS, V11, pS209
+   Müller J, 2000, MATH BIOSCI, V164, P39, DOI 10.1016/S0025-5564(99)00061-9
+   National Audit Office, 2003, ID TRACK LIV ENGL
+   Newman MEJ, 2001, P NATL ACAD SCI USA, V98, P404, DOI 10.1073/pnas.021544898
+   Newman MEJ, 1999, PHYS REV E, V60, P7332, DOI 10.1103/PhysRevE.60.7332
+   Newman MEJ, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.016128
+   OLSEN LF, 1988, THEOR POPUL BIOL, V33, P344, DOI 10.1016/0040-5809(88)90019-6
+   Pastor-Satorras R, 2001, PHYS REV LETT, V86, P3200, DOI 10.1103/PhysRevLett.86.3200
+   Potterat JJ, 1999, INT J STD AIDS, V10, P182, DOI 10.1258/0956462991913853
+   Potterat JJ, 2002, SEX TRANSM INFECT, V78, pI159, DOI 10.1136/sti.78.suppl_1.i159
+   RAND DA, 1991, P ROY SOC B-BIOL SCI, V246, P179, DOI 10.1098/rspb.1991.0142
+   Read JM, 2003, P ROY SOC B-BIOL SCI, V270, P699, DOI 10.1098/rspb.2002.2305
+   Rhodes CJ, 1997, P ROY SOC B-BIOL SCI, V264, P1639, DOI 10.1098/rspb.1997.0228
+   Rhodes CJ, 1997, THEOR POPUL BIOL, V52, P101, DOI 10.1006/tpbi.1997.1323
+   Riley S, 2003, SCIENCE, V300, P1961, DOI 10.1126/science.1086478
+   Robins G, 2004, SOC NETWORKS, V26, P257, DOI 10.1016/j.socnet.2004.05.001
+   Rohani P, 2000, LANCET, V355, P285, DOI 10.1016/S0140-6736(99)04482-7
+   Rothenberg R, 2003, SEX TRANSM DIS, V30, P478, DOI 10.1097/00007435-200306000-00002
+   Rothenberg R, 2001, SEX TRANSM DIS, V28, P63, DOI 10.1097/00007435-200102000-00001
+   Rothenberg RB, 1998, AIDS, V12, P1529, DOI 10.1097/00002030-199812000-00016
+   Rozenfeld AF, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.218701
+   SCHWARTZ IB, 1983, J MATH BIOL, V18, P233, DOI 10.1007/BF00276090
+   Scott J., 2017, SOCIAL NETWORK ANAL
+   Snijders TAB, 2001, SOCIOL METHODOL, V31, P361, DOI 10.1111/0081-1750.00099
+   Szendröi B, 2004, P ROY SOC B-BIOL SCI, V271, pS364, DOI 10.1098/rsbl.2004.0188
+   TRAVERS J, 1969, SOCIOMETRY, V32, P425, DOI 10.2307/2786545
+   Wallinga J, 1999, TRENDS MICROBIOL, V7, P372, DOI 10.1016/S0966-842X(99)01546-2
+   Warren CP, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.056105
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   West D, 1996, INTRO GRAPH THEORY, V2
+   WOODHOUSE DE, 1994, AIDS, V8, P1331, DOI 10.1097/00002030-199409000-00018
+   Wylie JL, 2001, SEX TRANSM DIS, V28, P14, DOI 10.1097/00007435-200101000-00005
+NR 99
+TC 1211
+Z9 1395
+U1 5
+U2 213
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 1742-5689
+EI 1742-5662
+J9 J R SOC INTERFACE
+JI J. R. Soc. Interface
+PD SEP 22
+PY 2005
+VL 2
+IS 4
+BP 295
+EP 307
+DI 10.1098/rsif.2005.0051
+PG 13
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 998TH
+UT WOS:000234342000003
+PM 16849187
+OA Bronze, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Klovdahl, AS
+AF Klovdahl, AS
+TI Social network research and human subjects protection: Towards more
+   effective infectious disease control
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE research ethics; network structure; human pathogens; third parties; pick
+   gun principle
+ID COLORADO-SPRINGS; SEXUAL NETWORKS; EPIDEMIOLOGY; TRANSMISSION;
+   COMMUNITY; RELEVANCE; PATTERNS; SPREAD; ISSUES; MODELS
+AB The issue of human subject protection in relation to social network research on the spread and control of human pathogens is considered. As this area derives most of its concepts and methods from social network analysis more generally, the present discussion has wider relevance. One problem is that some Institutional Review Boards (IRBs) have assumed that if a participant (who gave informed consent) is to be asked to name network associates these too - automatically - would be human subjects from whom informed consent also must be obtained. Invariably, if this occurs proposed research - whatever its funding and potential contributions might be - is blocked. A conservative approach is taken here. The Common Rule is assumed to provide relevant guidance, the responsibility of IRBs is to make decisions based on the Common Rule, and in consequence the burden is on those proposing social network research to design - and defend - their planned work with this in mind. At the same time, it is argued that it is important not to stifle beneficial research by adding to one inherently conservative review process (of grant proposals) another (of IRBs) so that work is prevented simply because it is research at the frontiers rather than 'safe' research, © 2005 Elsevier B.V. All rights reserved.
+C1 Australian Natl Univ, Sch Social Sci, The Faculties, Canberra, ACT 0200, Australia.
+C3 Australian National University
+RP Klovdahl, AS (corresponding author), Australian Natl Univ, Sch Social Sci, The Faculties, Haydon Allen 2171, Canberra, ACT 0200, Australia.
+EM alden.klovdahl@anu.edu.au
+OI Klovdahl, Alden S/0000-0003-3623-1487
+CR ALTMANN M, 1993, SOC NETWORKS, V15, P1, DOI 10.1016/0378-8733(93)90019-H
+   [Anonymous], 1995, Journal of Quantitative Anthropology
+   Aral SO, 1999, SEX TRANSM DIS, V26, P262, DOI 10.1097/00007435-199905000-00004
+   AUERBACH DM, 1984, AM J MED, V76, P487, DOI 10.1016/0002-9343(84)90668-5
+   Botkin JR, 2001, JAMA-J AM MED ASSOC, V285, P207, DOI 10.1001/jama.285.2.207
+   Brewer DD, 1999, SEX TRANSM DIS, V26, P166, DOI 10.1097/00007435-199903000-00008
+   CURTIS R, 1995, SOC NETWORKS, V17, P229, DOI 10.1016/0378-8733(95)00264-O
+   Friedrich J, 1996, TEACH PSYCHOL, V23, P6, DOI 10.1207/s15328023top2301_1
+   GARNETT GP, 1996, MODELS INFECT HUMAN
+   Giesecke J., 1994, Modern infectious disease epidemiology
+   Greely HT, 2001, ANNU REV GENET, V35, P785, DOI 10.1146/annurev.genet.35.102401.091453
+   Greely HT, 1998, ANNU REV ANTHROPOL, V27, P473, DOI 10.1146/annurev.anthro.27.1.473
+   HARALDSDOTTIR S, 1992, J ACQ IMMUN DEF SYND, V5, P374
+   *I MED US, 2001, PRES PUBL TRUST ACCR
+   *I MED US, 2000, PROT DAT PRIV HLTH S
+   *I MED US, 2003, RESP RES SYST APPR P
+   KLOVDAHL AS, 1994, SOC SCI MED, V38, P79, DOI 10.1016/0277-9536(94)90302-6
+   Klovdahl AS, 2001, SOC SCI MED, V52, P681, DOI 10.1016/S0277-9536(00)00170-2
+   KLOVDAHL AS, 1985, SOC SCI MED, V21, P11
+   Koopman JS, 1999, AM J PUBLIC HEALTH, V89, P1170, DOI 10.2105/AJPH.89.8.1170
+   KOVDAHL AS, 1995, B METHODOLOGIE SOCIO, V48, P120
+   KRACKHARDT D, 1993, HARVARD BUS REV, V71, P104
+   Kretzschmar M, 1996, MATH BIOSCI, V133, P165, DOI 10.1016/0025-5564(95)00093-3
+   LOFTUS EF, 2002, SKEPTICAL INQUIR JUL, P37
+   LOFTUS EF, 2002, SKEPTICAL INQUIR MAY, P24
+   LOFTUS EF, 2002, SKEPTICAL INQUIR JUL, P44
+   Morris M, 1996, AIDS, V10, P1265, DOI 10.1097/00002030-199609000-00013
+   MORRIS MJ, 1993, BIOL MASS SPECTROM, V22, P1, DOI 10.1002/bms.1200220102
+   NEAIGUS A, 1994, SOC SCI MED, V38, P67, DOI 10.1016/0277-9536(94)90301-8
+   Potterat JJ, 1999, INT J STD AIDS, V10, P182, DOI 10.1258/0956462991913853
+   Rothenberg R, 1996, SEX TRANSM DIS, V23, P24, DOI 10.1097/00007435-199601000-00007
+   ROTHENBERG RB, 1995, SOC NETWORKS, V17, P273, DOI 10.1016/0378-8733(95)00267-R
+   Rothenberg RB, 1998, SEX TRANSM DIS, V25, P154, DOI 10.1097/00007435-199803000-00009
+   Scott J., 2013, SOCIAL NETWORK ANALYSIS, VTHIRD
+   TAVRIS C, 2002, SKEPTICAL INQUIR JUL, P41
+   Wasserheit JN, 1996, J INFECT DIS S2, V174, P201
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   Wylie JL, 2001, SEX TRANSM DIS, V28, P14, DOI 10.1097/00007435-200101000-00005
+NR 38
+TC 40
+Z9 51
+U1 1
+U2 10
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-8733
+J9 SOC NETWORKS
+JI Soc. Networks
+PD MAY
+PY 2005
+VL 27
+IS 2
+BP 119
+EP 137
+DI 10.1016/j.socnet.2005.01.006
+PG 19
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 923DD
+UT WOS:000228888300004
+DA 2024-11-22
+ER
+
+PT J
+AU Warde, A
+   Tampubolon, G
+   Savage, M
+AF Warde, A
+   Tampubolon, G
+   Savage, M
+TI Recreation, informal social networks and social capital
+SO JOURNAL OF LEISURE RESEARCH
+LA English
+DT Article
+DE companionship; recreation; social capital; social networks
+ID MULTIPLE IMPUTATION; INFERENCE; STATE
+AB This paper examines the determinants of recreational practices amongst members of three diverse voluntary associations in the North West of England, focusing on being hosts and guests in private homes and eating and drinking outside the home. Using multi-level models analysing a rich data source on the social networks of members, we show how respondents' sociability is affected less by their socio-demographic characteristics than by the nature of their social networks. We show, against expectations, that there is little evidence of homophily in these recreational practices, which indicates that informal social contacts may be especially important in generating "bridging" and "boundary-spanning" types of social capital. We use the evidence to argue the need for a "sociology of companionship" which highlights routine sociability around recreational practices.
+C1 Univ Manchester, Sch Social Sci, Manchester M13 9PL, Lancs, England.
+C3 University of Manchester
+RP Univ Manchester, Sch Social Sci, Manchester M13 9PL, Lancs, England.
+EM alan.warde@manchester.ac.uk
+RI Tampubolon, Gindo/KIC-1052-2024; Savage, Mike/JQW-6489-2023
+OI Warde, Alan/0000-0002-3505-7336; Tampubolon, Gindo/0000-0002-9081-2349
+CR Adams R.G., 1998, PLACING FRIENDSHIP C
+   Allan GrahamA., 1979, A Sociology of Friendship and Kinship
+   Anheier H, 2002, BRIT J SOCIOL, V53, P343, DOI 10.1080/0007131022000000545
+   [Anonymous], 2001, Social capital: theory and research
+   [Anonymous], 2003, STAT STAT SOFTW REL
+   [Anonymous], 1992, Structural holes
+   [Anonymous], 1988, Social Structures: A Network Approach
+   Bellah RobertN., 1996, HABITS HEART
+   Bourdieu Pierre., 1984, DISTINCTION SOCIAL C, DOI DOI 10.1002/9780470755679.CH15
+   Brand, 1999, DEV IMPLEMENTATION E
+   Burt RS, 2000, RES ORGAN BEHAV, V22, P345, DOI 10.1016/S0191-3085(00)22009-1
+   Burt RS, 2002, SOC NETWORKS, V24, P333, DOI 10.1016/S0378-8733(02)00017-5
+   Butler T., 2003, London calling
+   Coleman J.S., 1994, FDN SOCIAL THEORY
+   Crow G., 1994, COMMUNITY LIFE
+   DiMaggio P, 1998, AM SOCIOL REV, V63, P619, DOI 10.2307/2657331
+   Feld S., 1998, Placing friendship in context, P136
+   Field J., 2003, SOCIAL CAPITAL
+   Fine B., 2001, SOCIAL CAPITAL VERSU
+   FISCHER C, 1985, DWELL FRIENDS PERSON
+   Fukayama F., 1997, The Tanner lectures on human values
+   Goldthorpe JohnH., 1987, SOCIAL MOBILITY CLAS
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Hall PA, 1999, BRIT J POLIT SCI, V29, P417, DOI 10.1017/S0007123499000204
+   Hooghe M, 2003, GENERATING SOCIAL CAPITAL: CIVIL SOCIETY AND INSTITUTIONS IN COMPARATIVE PERSPECTIVE, P1, DOI 10.1057/9781403979544
+   Horton NJ, 2001, AM STAT, V55, P244, DOI 10.1198/000313001317098266
+   Kadushin C, 2004, SOC NETWORKS, V26, P75, DOI 10.1016/j.socnet.2004.01.009
+   Kenward MG, 1998, STAT SCI, V13, P236
+   LI Y, 2002, SOCIOLOGICAL RES ONL, V7, P23
+   LI Y, 2004, UNPUB SOCIAL CAPITAL
+   Li YJ, 2003, BRIT J SOCIOL, V54, P497, DOI 10.1080/0007131032000143564
+   Little R., 2002, STAT ANAL MISSING DA, DOI [DOI 10.1002/9781119013563, 10.1002/9781119013563]
+   Long J. Scott., 1997, Regression Models for Categorical and Limited Dependent Variables
+   Nanetti, 1993, MAKING DEMOCRACY WOR
+   PARRY G, 1992, POLIT PARTICIPATION
+   Paxton P, 2002, AM SOCIOL REV, V67, P254, DOI 10.2307/3088895
+   Paxton P, 1999, AM J SOCIOL, V105, P88, DOI 10.1086/210268
+   Portes A, 1998, ANNU REV SOCIOL, V24, P1, DOI 10.1146/annurev.soc.24.1.1
+   PUTNAM RD, 1995, PS, V28, P664, DOI 10.2307/420517
+   Putnam Robert D., 2000, BOWLING ALONE COLLAP, DOI 10.1145/358916.361990
+   Raftery AE, 1995, SOCIOL METHODOL, V25, P111, DOI 10.2307/271063
+   Ray K., 2003, SOC MOVEMENT STUD, V2, P37, DOI DOI 10.1080/1474283032000062558
+   Robins JM, 2000, BIOMETRIKA, V87, P113, DOI 10.1093/biomet/87.1.113
+   Rogers WilliamsH., 1993, Stata Technical Bulletin, V13, P19
+   Royston P, 2004, STATA J, V4, P227, DOI 10.1177/1536867X0400400301
+   Rubin DB., 1987, Multiple Inputation for Nonresponse in Surveys
+   *SAS I, 2001, PROC MI P MIANALYZE
+   SAVAGE M, 2004, TRANSNATIONAL REV PO, V5, P82
+   Schafer J. L., 1997, Analysis of Incomplete Multivariate Data, DOI [DOI 10.1201/, DOI 10.1201/9780367803025]
+   Schafer JL, 2002, PSYCHOL METHODS, V7, P147, DOI 10.1037//1082-989X.7.2.147
+   Schor JulietB., 1998, OVERSPENT AM
+   Scott J., 2000, SOCIAL NETWORK ANALY, V2nd
+   STEWART A., 1980, SOCIAL STRATIFICATIO
+   Szreter S, 2002, THEOR SOC, V31, P573, DOI 10.1023/A:1021300217590
+   Taylor MF, 1999, BRIT HOUSEHOLD PANEL
+   Van Buuren S, 1999, STAT MED, V18, P681, DOI 10.1002/(SICI)1097-0258(19990330)18:6<681::AID-SIM71>3.3.CO;2-I
+   Wang N, 1998, BIOMETRIKA, V85, P935, DOI 10.1093/biomet/85.4.935
+   Warde A, 2002, SOCIOL REV, V50, P155, DOI 10.1111/1467-954X.00361
+   WELLMAN B, 1979, AM J SOCIOL, V84, P1201, DOI 10.1086/226906
+   Wellman Barry., 2001, SOCIAL CAPITAL, P233
+   Williams RL, 2000, BIOMETRICS, V56, P645, DOI 10.1111/j.0006-341X.2000.00645.x
+NR 61
+TC 36
+Z9 46
+U1 3
+U2 19
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 0022-2216
+EI 2159-6417
+J9 J LEISURE RES
+JI J. Leis. Res.
+PY 2005
+VL 37
+IS 4
+BP 402
+EP 425
+DI 10.1080/00222216.2005.11950060
+PG 24
+WC Hospitality, Leisure, Sport & Tourism; Sociology
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics; Sociology
+GA 994YW
+UT WOS:000234068100002
+DA 2024-11-22
+ER
+
+PT J
+AU Kana'Iaupuni, SM
+   Donato, KM
+   Thompson-Colón, T
+   Stainback, M
+AF Kana'Iaupuni, SM
+   Donato, KM
+   Thompson-Colón, T
+   Stainback, M
+TI Counting on kin:: Social networks, social support, and child health
+   status
+SO SOCIAL FORCES
+LA English
+DT Article
+ID LOW-BIRTH-WEIGHT; GENERATIONAL-DIFFERENCES; MEXICAN-AMERICANS;
+   MORTALITY; ACCULTURATION; WOMEN; TIES; MIGRATION; PARADOX; INFANTS
+AB This article presents the results Of new data collection in Mexico about the relationship between child well-being and social networks. Two research questions guide the analysis. First, under what conditions do networks generate greater (lesser) support? Second, what kinds of networks are associated with healthier children? We explore the health status effects of several dimensions of social networks, including network size, kinship roles, interaction (proximity, contact, and coresidence), and provision of financial and emotional support. Our key findings suggest that networks containing more extended kin and coresident ties offer greater support resources to mothers with young children, especially among the poorest households. We also find that network structures characterized by more social support and greater interaction with extended, rather than immediate, kin help sustain healthier children. Together these findings indicate the advantages of examining specific role relationships in network research among economically marginalized families and attest to the importance of social networks founded on principles of reciprocity, confianza, and compadrazgo to the well-being of Mexican families.
+C1 Rice Univ, Houston, TX 77251 USA.
+   Univ Wisconsin, Madison, WI USA.
+C3 Rice University; University of Wisconsin System; University of Wisconsin
+   Madison
+RP Malia Kanaiaupuni,567 S King St, Honolulu, HI 96813 USA.
+EM shkanaia@ksbe.edu
+CR [Anonymous], 1974, GETTING JOB
+   [Anonymous], 1985, Latin journey: Cuban and Mexican immigrants in the United States
+   BERKMAN LF, 1984, ANNU REV PUBL HEALTH, V5, P413, DOI 10.1146/annurev.pu.05.050184.002213
+   Berkman LF, 2000, LANCET, V355, P1291, DOI 10.1016/S0140-6736(00)02107-3
+   BERKMAN LF, 1995, PSYCHOSOM MED, V57, P245, DOI 10.1097/00006842-199505000-00006
+   Bobadilla JL., 1993, DIS CONTROL PRIORITI, P51
+   Castaneda JorgeG., 1995, MEXICAN SHOCK ITS ME
+   Cobas JA, 1996, AM J PUBLIC HEALTH, V86, P394, DOI 10.2105/AJPH.86.3.394
+   COLLINS JW, 1994, AM J EPIDEMIOL, V139, P184, DOI 10.1093/oxfordjournals.aje.a116980
+   Cramer JC, 1996, HUM ORGAN, V55, P160, DOI 10.17730/humo.55.2.w1v80q3045250328
+   de Anda D., 1984, Journal o fSocial Service Research, V7, P89
+   de la Rocha MercedesGonzalez., 1994, The Resources of Poverty: Women and Survival in a Mexican City
+   DEANDA D, 1984, SOCIAL CASEWORK, V27, P83
+   del Castillo RichardGriswold., 1984, FAMILIA CHICANO FAMI
+   DINERMAN IR, 1982, MONOGRAPHS US MEXICA, V5
+   DONATO KM, 1992, DEMOGRAPHY, V29, P139, DOI 10.2307/2061724
+   Durkheim E., 1951, Le suicide
+   Eckstein Susan., 1977, POVERTY REVOLUTION S
+   Ferraro KF, 1999, AM SOCIOL REV, V64, P303, DOI 10.2307/2657534
+   Forster L.E., 1992, Journal of Applied Gerontology, V11, P173, DOI [DOI 10.1177/073346489201100204, DOI 10.1177/073346489201100]
+   Fratiglioni L, 2000, LANCET, V355, P1315, DOI 10.1016/S0140-6736(00)02113-9
+   Glass TA, 1997, SOC SCI MED, V44, P1503, DOI 10.1016/S0277-9536(96)00270-5
+   GOLDING JM, 1990, J SOC CLIN PSYCHOL, V9, P268, DOI 10.1521/jscp.1990.9.2.268
+   GRIFFITH J, 1985, HISPANIC J BEHAV SCI, V7, P75, DOI 10.1177/07399863850071002
+   GUENDELMAN S, 1995, AM J PUBLIC HEALTH, V85, P20, DOI 10.2105/AJPH.85.1.20
+   GUENDELMAN S, 1990, AM J PUBLIC HEALTH, V80, P61, DOI 10.2105/AJPH.80.Suppl.61
+   GUENDELMAN S, 1995, WELLNESS LECT SERIES
+   HOGAN DP, 1993, AM J SOCIOL, V98, P1428, DOI 10.1086/230194
+   HOUSE JS, 1988, ANNU REV SOCIOL, V14, P293, DOI 10.1146/annurev.so.14.080188.001453
+   Hurlbert JS, 2000, AM SOCIOL REV, V65, P598, DOI 10.2307/2657385
+   Idler EL, 1997, J HEALTH SOC BEHAV, V38, P21, DOI 10.2307/2955359
+   Kanaiaupuni S.M., 2000, NETWORKS COUNT GRAND
+   Kanaiaupuni SM, 1999, DEMOGRAPHY, V36, P339, DOI 10.2307/2648057
+   KANAIAUPUNI SM, 1995, THESIS U CHICAGO
+   KANAIAUPUNI SM, 2001, ANN M POP ASS AM
+   KANAIAUPUNI SM, 2000, 200013 U WISC CTR DE
+   Kaplan B H, 1977, Med Care, V15, P47, DOI 10.1097/00005650-197705001-00006
+   Kawachi I, 1996, J EPIDEMIOL COMMUN H, V50, P245, DOI 10.1136/jech.50.3.245
+   KAY MA, 1980, TWICE MINORITY MEXIC, P52
+   KEEFE SE, 1984, HUM ORGAN, V43, P65, DOI 10.17730/humo.43.1.y5546831728vn6kp
+   Landale NS, 2000, AM SOCIOL REV, V65, P888, DOI 10.2307/2657518
+   Litwin H, 1998, SOC SCI MED, V46, P599, DOI 10.1016/S0277-9536(97)00207-4
+   Logon Kathleen., 1981, URBAN ANTHROP, V10, P231
+   Lomnitz LisaA., 1977, NETWORKS MARGINALITY
+   MARE RD, 1988, 8807 U WISC MAD CTR
+   MARSDEN PV, 1984, SOC FORCES, V63, P482, DOI 10.2307/2579058
+   Massey DouglasS., 1987, Return to Aztlan: The Social Proccess of International Migration from Western Mexico
+   Menjivar C., 2000, Fragmented ties: Salvadoran immigrant networks in America
+   Mindel C.H., 1980, Hispanic Journal of Behavioral Sciences, V2, P21
+   *NAT RES COUNC, 1998, GEN GEN HLTH WELL BE
+   OCONNOR M, 1989, URBAN ANTHROP, V19, P81
+   Oppenheimer Andres., 1998, Bordering on Chaos: Mexico's Roller-Coaster Journey Toward Prosperity
+   Palloni A, 2004, DEMOGRAPHY, V41, P385, DOI 10.1353/dem.2004.0024
+   Portes Alejandro., 2001, LEGACIES STORY IMMIG
+   Roschelle AnneR., 1997, No More Kin: Exploring Race, Class, and Gender in Family Networks
+   Scribner R, 1996, AM J PUBLIC HEALTH, V86, P303, DOI 10.2105/AJPH.86.3.303
+   SCRIBNER R, 1989, AM J PUBLIC HEALTH, V79, P1263, DOI 10.2105/AJPH.79.9.1263
+   Seeman TE, 1996, ANN EPIDEMIOL, V6, P442, DOI 10.1016/S1047-2797(96)00095-6
+   SEEMAN TE, 1988, SOC SCI MED, V26, P737, DOI 10.1016/0277-9536(88)90065-2
+   Sherraden MS, 1996, FAM SOC-J CONTEMP H, V77, P298, DOI 10.1606/1044-3894.918
+   SHERRADEN MS, 1996, SOC SERV REV, V71, P607
+   Stanton-Salazar R.M., 2001, MANUFACTURING HOPE D
+   SUGISAWA H, 1994, J GERONTOL, V49, pS3, DOI 10.1093/geronj/49.1.S3
+   VEGA WA, 1990, J MARRIAGE FAM, V52, P1015, DOI 10.2307/353316
+   WALKER KN, 1977, SOC SCI MED, V11, P35, DOI 10.1016/0037-7856(77)90143-3
+   WEISS R, 1969, TRANSACTION, V1, P36
+   WELLMAN B, 1990, AM J SOCIOL, V96, P558, DOI 10.1086/229572
+   Wellman B., 1992, ADV GROUP PROCESSES, V9, P207, DOI DOI 10.1111/j.1549-0831.2011.00060.x
+   Wellman B., 1981, Social Networks and Social Support, P171
+   Wellman Barry., 1999, NETWORKS GLOBAL VILL, P83
+   Williams N., 1990, MEXICAN AM FAMILY TR
+   Zambrana RE, 1997, AM J PUBLIC HEALTH, V87, P1022, DOI 10.2105/AJPH.87.6.1022
+NR 72
+TC 136
+Z9 180
+U1 2
+U2 40
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7732
+EI 1534-7605
+J9 SOC FORCES
+JI Soc. Forces
+PD MAR
+PY 2005
+VL 83
+IS 3
+BP 1137
+EP 1164
+DI 10.1353/sof.2005.0036
+PG 28
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA 927XB
+UT WOS:000229232700010
+DA 2024-11-22
+ER
+
+PT J
+AU Pujol, JM
+   Flache, A
+   Delgado, J
+   Sangüesa, R
+AF Pujol, JM
+   Flache, A
+   Delgado, J
+   Sangüesa, R
+TI How can social networks ever become complex?: Modelling the emergence of
+   complex networks from local social exchanges
+SO JASSS-THE JOURNAL OF ARTIFICIAL SOCIETIES AND SOCIAL SIMULATION
+LA English
+DT Article
+DE complex networks; power-law; scale-free; small-world; agent-based
+   modeling; social exchange theory; structural emergence
+ID DYNAMICS; DIFFERENTIATION; TOLERANCE
+AB Small-world and power-law network structures have been prominently proposed as models of large networks. However, the assumptions of these models usually-lack sociological grounding. We present a computational model grounded in social exchange theory. Agents search attractive exchange partners in a diverse population. Agent use simple decision heuristics, based on imperfect, local information. Computer simulations show that the topological structure of the emergent social network depends heavily upon two sets of conditions, harshness of the exchange game and learning capacities of the agents. Further analysis show that a combination of these conditions affects whether star-like, small-world or power-law structures emerge.
+C1 Univ Politecn Cataluna, Dept Llenguatges & Sistemas Informat, ES-08034 Barcelona, Spain.
+   Univ Groningen, NL-9712 TG Groningen, Netherlands.
+C3 Universitat Politecnica de Catalunya; University of Groningen
+RP Univ Politecn Cataluna, Dept Llenguatges & Sistemas Informat, C-Jordi Girona 1-3 A0-S106, ES-08034 Barcelona, Spain.
+EM jmpujol@lsi.upc.edu; a.flache@ppsw.rug.nl; jdelgado@lsi.upc.edu;
+   sanguesa@lsi.upc.ed
+RI Delgado, Jordi/L-6352-2014; Flache, Andreas/E-2921-2013
+OI Delgado Pin, Jordi/0000-0003-4546-8355; Flache,
+   Andreas/0000-0002-8276-8819
+CR Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   Albert R, 2000, NATURE, V406, P378, DOI 10.1038/35019019
+   [Anonymous], AM J SOCIOLOGY
+   [Anonymous], PHYS REV E
+   [Anonymous], 1982, Models of Bounded Rationality
+   Axelrod R., 1984, EVOLUTION COOPERATIO
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Bonacich P., 1992, Social dilemmas: Theoretical issues and research findings, P225
+   Buskens Vincent., 2002, SOCIAL NETWORKS TRUS
+   Carlson JM, 2000, PHYS REV LETT, V84, P2529, DOI 10.1103/PhysRevLett.84.2529
+   Cohen MD, 2001, RATION SOC, V13, P5, DOI 10.1177/104346301013001001
+   DAWES RM, 1980, ANNU REV PSYCHOL, V31, P169, DOI 10.1146/annurev.ps.31.020180.001125
+   Delgado J, 2002, ARTIF INTELL, V141, P171, DOI 10.1016/S0004-3702(02)00262-X
+   Ebel Holger, 2002, Complexity, V8, P24, DOI 10.1002/cplx.10066
+   Eguíluz VM, 2005, AM J SOCIOL, V110, P977, DOI 10.1086/428716
+   FERRER R, 2003, STAT PHYS COMPLEX NE
+   Flache A., 1999, Computational & Mathematical Organization Theory, V5, P97, DOI 10.1023/A:1009662602975
+   Flache A, 1999, ADV GROUP, V16, P61
+   FLACHE A, 2001, RATION SOC, V13, P3
+   Gilbert Nigel., 1999, SIMULATION SOCIAL SC
+   GOULD RV, 1993, AM SOCIOL REV, V58, P182, DOI 10.2307/2095965
+   HEGSELMANN R, 1998, COMPUTER SIMULATION, P298
+   Homans G.C., 1974, Social Behavior: Its Elementary Forms
+   KAMADA T, 1989, INFORM PROCESS LETT, V31, P7, DOI 10.1016/0020-0190(89)90102-6
+   Krapivsky PL, 2000, PHYS REV LETT, V85, P4629, DOI 10.1103/PhysRevLett.85.4629
+   Mark N, 1998, AM SOCIOL REV, V63, P309, DOI 10.2307/2657552
+   Podolny JM, 1998, ANNU REV SOCIOL, V24, P57, DOI 10.1146/annurev.soc.24.1.57
+   Pujol J. M., 2002, Proceedings of the First International Joint Conference on Autonomous Agents and Multiagent Systems, P467
+   RAUB W, 1990, AM J SOCIOL, V96, P626, DOI 10.1086/229574
+   Snijders TAB, 2001, SOCIOL METHODOL, V31, P361, DOI 10.1111/0081-1750.00099
+   Todd PM, 2003, J ECON PSYCHOL, V24, P143, DOI 10.1016/S0167-4870(02)00200-3
+   Walsh T, 1999, IJCAI-99: PROCEEDINGS OF THE SIXTEENTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, VOLS 1 & 2, P1172
+   Walsh Toby., 2001, IJCAI, V1, P266
+   Watts DJ, 1999, AM J SOCIOL, V105, P493, DOI 10.1086/210318
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   WOOLDRIDGE M, 1995, KNOWL ENG REV, V10, P115, DOI 10.1017/S0269888900008122
+   Yamagishi T, 1998, AM J SOCIOL, V104, P165, DOI 10.1086/210005
+   Younger S, 2004, JASSS-J ARTIF SOC S, V7
+NR 38
+TC 13
+Z9 16
+U1 0
+U2 0
+PU J A S S S
+PI GUILDFORD
+PA UNIV SURREY, DEPT SOCIOLOGY, GUILDFORD GU2 7XH, SURREY, ENGLAND
+SN 1460-7425
+J9 JASSS-J ARTIF SOC S
+JI JASSS
+PD OCT
+PY 2005
+VL 8
+IS 4
+PG 20
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA 010SJ
+UT WOS:000235217900001
+DA 2024-11-22
+ER

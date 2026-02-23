@@ -1,0 +1,542 @@
+
+PT J
+AU Qiu, XY
+   Oliveira, DFM
+   Shirazi, AS
+   Flammini, A
+   Menczer, F
+AF Qiu, Xiaoyan
+   Oliveira, Diego F. M.
+   Shirazi, Alireza Sahami
+   Flammini, Alessandro
+   Menczer, Filippo
+TI RETRACTED: Limited individual attention and online virality of
+   low-quality information (Retracted Article)
+SO NATURE HUMAN BEHAVIOUR
+LA English
+DT Article; Retracted Publication
+ID SOCIAL-INFLUENCE; MODEL; LAW
+AB Social media are massive marketplaces where ideas and news compete for our attention(1). Previous studies have shown that quality is not a necessary condition for online virality(2) and that knowledge about peer choices can distort the relationship between quality and popularity(3). However, these results do not explain the viral spread of low-quality information, such as the digital misinformation that threatens our democracy(4). We investigate quality discrimination in a stylized model of an online social network, where individual agents prefer quality information, but have behavioural limitations in managing a heavy flow of information. We measure the relationship between the quality of an idea and its likelihood of becoming prevalent at the system level. We find that both information overload and limited attention contribute to a degradation of the market's discriminative power. A good tradeoff between discriminative power and diversity of information is possible according to the model. However, calibration with empirical data characterizing information load and finite attention in real social media reveals a weak correlation between quality and popularity of information. In these realistic conditions, the model predicts that low-quality information is just as likely to go viral, providing an interpretation for the high volume of misinformation we observe online.
+C1 [Qiu, Xiaoyan] Shanghai Inst Technol, Sch Econ & Management, 100 Haiquan Rd, Shanghai 201418, Peoples R China.
+   [Qiu, Xiaoyan; Oliveira, Diego F. M.; Flammini, Alessandro; Menczer, Filippo] Indiana Univ, Sch Informat & Comp, Ctr Complex Networks & Syst Res, 919 East 10th St, Bloomington, IN 47408 USA.
+   [Shirazi, Alireza Sahami; Menczer, Filippo] Yahoo Res, 701 1st Ave, Sunnyvale, CA 94089 USA.
+   [Flammini, Alessandro; Menczer, Filippo] Indiana Univ, Network Sci Inst, 1001 IN-45, Bloomington, IN 47408 USA.
+C3 Shanghai Institute of Technology; Indiana University System; Indiana
+   University Bloomington; Yahoo! Inc; Indiana University System; Indiana
+   University Bloomington
+RP Oliveira, DFM (corresponding author), Indiana Univ, Sch Informat & Comp, Ctr Complex Networks & Syst Res, 919 East 10th St, Bloomington, IN 47408 USA.
+EM diegofregolente@gmail.com
+OI Fregolent Mendes de Oliveira, Diego/0000-0002-2375-0539
+FU James S. McDonnell Foundation [220020274]; National Science Foundation
+   [CCF-1101743]; National Natural Science Foundation of China [90924030];
+   China Scholarship Council; 'Shuguang' Project of Shanghai Education
+   Commission [09SG38]; Program of Social Development of Metropolis and
+   Construction of Smart City [085SHDX001]
+FX We are grateful to Twitter for providing public post data, to Tumblr for
+   mobile scrolling data, to C. Silverman for the Emergent data, and to J.
+   Gleeson, K. Church, S. Buthpitiya, M. Patel and G. Ciampaglia for
+   discussions and assistance with the data analysis. This work was
+   supported in part by the James S. McDonnell Foundation (grant 220020274)
+   and the National Science Foundation (award CCF-1101743). X.Q. thanks the
+   NaN group in the Center for Complex Networks and Systems Research
+   (http://cnets.indiana.edu) for the hospitality during her stay at the
+   Indiana University School of Informatics and Computing. She was
+   supported by grants from the National Natural Science Foundation of
+   China (No. 90924030), the China Scholarship Council, the 'Shuguang'
+   Project of Shanghai Education Commission (No. 09SG38), and the Program
+   of Social Development of Metropolis and Construction of Smart City (No.
+   085SHDX001). The funders had no role in study design, data collection
+   and analysis, decision to publish or preparation of the manuscript.
+CR ADLER M, 1985, AM ECON REV, V75, P208
+   [Anonymous], 2009, Republic. Com 2.0
+   [Anonymous], 2011, P INT AAAI C WEB SOC
+   [Anonymous], 2008, DIFFERENCE POWER DIV
+   Axelrod R, 1997, J CONFLICT RESOLUT, V41, P203, DOI 10.1177/0022002797041002001
+   Babaei M, 2016, PROCEEDINGS OF THE NINTH ACM INTERNATIONAL CONFERENCE ON WEB SEARCH AND DATA MINING (WSDM'16), P83, DOI 10.1145/2835776.2835826
+   Bailard CatieSnow., 2014, Democracy's Double-edged Sword: How Internet Use Changes Citizens' Views of Their Government
+   Bailey NTJ., 1975, MATH THEORY INFECT D
+   Bessi A., 2016, 1 MONDAY, DOI [10.5210/fm.v21i11.7090, DOI 10.5210/FM.V21I11.7090]
+   Bingol H, 2008, PHYS REV E, V77, DOI 10.1103/PhysRevE.77.036118
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   Ciampaglia GL, 2015, SCI REP-UK, V5, DOI 10.1038/srep09452
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Collins EC, 2011, J PERS SOC PSYCHOL, V100, P967, DOI 10.1037/a0022982
+   Conover M. D., 2011, Proceedings of the 2011 IEEE Third International Conference on Privacy, Security, Risk and Trust and IEEE Third International Conference on Social Computing (PASSAT/SocialCom 2011), P192, DOI 10.1109/PASSAT/SocialCom.2011.34
+   Conover MD, 2012, EPJ DATA SCI, V1, DOI 10.1140/epjds6
+   Crane R, 2008, P NATL ACAD SCI USA, V105, P15649, DOI 10.1073/pnas.0803685105
+   DALEY DJ, 1964, NATURE, V204, P1118, DOI 10.1038/2041118a0
+   Dawkins R., 1989, SELFISH GENE, V2nd
+   Del Vicario M, 2016, P NATL ACAD SCI USA, V113, P554, DOI 10.1073/pnas.1517441113
+   DiGrazia J, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0079449
+   Falkinger J, 2007, J ECON THEORY, V133, P266, DOI 10.1016/j.jet.2005.12.001
+   Ferrara E, 2016, COMMUN ACM, V59, P96, DOI 10.1145/2818717
+   Frey D., 1986, ADV EXP SOC PSYCHOL, V19, P41, DOI [10.1016/S0065-2601(08)60212-9, DOI 10.1016/S0065-2601(08)60212-9]
+   Gleeson JP, 2016, PHYS REV X, V6, DOI 10.1103/PhysRevX.6.021019
+   Gleeson JP, 2014, PHYS REV LETT, V112, DOI 10.1103/PhysRevLett.112.048701
+   Goetz M., 2009, P INT AAAI C WEBL SO
+   GOFFMAN W, 1964, NATURE, V204, P225, DOI 10.1038/204225a0
+   Goldhaber M. H., 1997, 1 MONDAY
+   Gonçalves B, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0022656
+   HILTZ SR, 1985, COMMUN ACM, V28, P680, DOI 10.1145/3894.3895
+   Hodas NO, 2012, PROCEEDINGS OF 2012 ASE/IEEE INTERNATIONAL CONFERENCE ON PRIVACY, SECURITY, RISK AND TRUST AND 2012 ASE/IEEE INTERNATIONAL CONFERENCE ON SOCIAL COMPUTING (SOCIALCOM/PASSAT 2012), P249, DOI 10.1109/SocialCom-PASSAT.2012.129
+   Holme Petter, 2002, Phys Rev E Stat Nonlin Soft Matter Phys, V65, P066109
+   Howell L., 2013, GLOBAL RISKS 2013
+   Huberman BA, 2013, J STAT PHYS, V151, P329, DOI 10.1007/s10955-012-0596-5
+   Jeon-Hyung Kang, 2015, Social Computing, Behavioral-Cultural Modeling and Prediction. 8th International Conference, SBP 2015. Proceedings: LNCS 9021, P101, DOI 10.1007/978-3-319-16268-3_11
+   Kendall MG, 1938, BIOMETRIKA, V30, P81, DOI 10.1093/biomet/30.1-2.81
+   Kumar R., 2006, P 12 ACM SIGKDD INT, P611
+   Kwak H., WWW'10, DOI [10.1145/1772690.1772751, DOI 10.1145/1772690.1772751]
+   Lorenz J, 2011, P NATL ACAD SCI USA, V108, P9020, DOI 10.1073/pnas.1008636108
+   Mason WA, 2007, PERS SOC PSYCHOL REV, V11, P279, DOI 10.1177/1088868307301032
+   Milton J., 1644, Areopagitica
+   Morris S, 2000, REV ECON STUD, V67, P57, DOI 10.1111/1467-937X.00121
+   Nickerson RS., 1998, REV GEN PSYCHOL, V2, P175, DOI [10.1037/1089-2680.2.2.175, DOI 10.1037/1089-2680.2.2.175]
+   Nikolov D, 2015, PEERJ COMPUT SCI, DOI 10.7717/peerj-cs.38
+   Nisbett Richard., 1991, The Person and the Situation
+   Nyhan B, 2010, POLIT BEHAV, V32, P303, DOI 10.1007/s11109-010-9112-2
+   Pariser Eli, 2011, FILTER BUBBLE WHAT I
+   Ratkiewicz J., 2011, P INT AAAI C WEB SOC
+   Ratkiewicz J, 2010, PHYS REV LETT, V105, DOI 10.1103/PhysRevLett.105.158701
+   Salganik MJ, 2006, SCIENCE, V311, P854, DOI 10.1126/science.1121066
+   Simkin MV, 2007, J AM SOC INF SCI TEC, V58, P1661, DOI 10.1002/asi.20653
+   Simon A.H., 1971, COMPUTERS COMMUNICAT, P37
+   Smith ER, 2014, PERS SOC PSYCHOL REV, V18, P311, DOI 10.1177/1088868314530515
+   Smith ER, 2009, PSYCHOL REV, V116, P343, DOI 10.1037/a0015072
+   Stanovich KE, 2013, CURR DIR PSYCHOL SCI, V22, P259, DOI 10.1177/0963721413480174
+   Sunstein CR, 2002, J POLIT PHILOS, V10, P175, DOI 10.1111/1467-9760.00148
+   Surowiecki J, 2005, WISDOM CROWDS
+   Varol O., 2017, P INT AAAI C WEB SOC
+   Weng L, 2012, SCI REP-UK, V2, P1, DOI 10.1038/srep00335
+   Weng LL, 2013, 19TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING (KDD'13), P356
+   Wu F, 2007, P NATL ACAD SCI USA, V104, P17599, DOI 10.1073/pnas.0704916104
+   Bonilla JPZ, 2012, HBK PHILOS SCI, P823
+NR 63
+TC 84
+Z9 102
+U1 2
+U2 63
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2397-3374
+J9 NAT HUM BEHAV
+JI Nat. Hum. Behav.
+PD JUL
+PY 2017
+VL 1
+IS 7
+AR 0132
+DI 10.1038/s41562-017-0132
+PG 7
+WC Psychology, Biological; Multidisciplinary Sciences; Neurosciences;
+   Psychology, Experimental
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychology; Science & Technology - Other Topics; Neurosciences &
+   Neurology
+GA FR0US
+UT WOS:000418779800013
+DA 2024-11-22
+ER
+
+PT J
+AU Ecker, A
+AF Ecker, Alejandro
+TI Estimating Policy Positions Using Social Network Data: Cross-Validating
+   Position Estimates of Political Parties and Individual Legislators in
+   the Polish Parliament
+SO SOCIAL SCIENCE COMPUTER REVIEW
+LA English
+DT Article
+DE policy positions; social network sites; Twitter; roll-call voting
+ID VOTING-BEHAVIOR; FACEBOOK USE; TWITTER; MEDIA; ELECTIONS
+AB Social network site (SNS) data provide scholars with a plethora of new opportunities for studying public opinion and forecasting electoral outcomes. While these are certainly among the most promising big data applications in political science research, a series of pioneering studies have started to uncover the vast potential of such data to estimate the policy positions of political actors. Adding to this emerging strand in the scholarly literature, the present article explores the validity of (individual) policy positions derived from the social network structure of the microblogging platform Twitter. At the aggregate party level, cross-validation with external data sources suggests that SNS data provide valid policy position estimates. In contrast, the empirical analysis reveals only a moderate connection between individual policy positions retrieved from the social network structure and those retrieved from members of parliament individual voting record. These results thus highlight the potential as well as important limitations of SNS data in indicating the policy positions of political parties and individual legislators.
+C1 [Ecker, Alejandro] Univ Vienna, Dept Govt, Rooseveltpl 3-1, A-1090 Vienna, Austria.
+C3 University of Vienna
+RP Ecker, A (corresponding author), Univ Vienna, Dept Govt, Rooseveltpl 3-1, A-1090 Vienna, Austria.
+EM alejandro.ecker@univie.ac.at
+FU Austrian Science Fund [P 25490]
+FX The author disclosed receipt of the following financial support for the
+   research, authorship and/or publication of this article: This research
+   was supported by Austrian Science Fund under Grant Number P 25490.
+CR Allen J, 2020, ARCHAEOL OCEAN, V55, P1, DOI 10.1002/arco.5207
+   [Anonymous], 2015, SOCIAL MEDIA UPDATE
+   Antoszewski A., 2014, POLAND WEAK COALITIO
+   Bakker Ryan, 2012, PARTY POLIT, V21, P143, DOI DOI 10.1177/1354068812462931
+   Barberá P, 2015, POLIT ANAL, V23, P76, DOI 10.1093/pan/mpu011
+   Bond R, 2015, AM POLIT SCI REV, V109, P62, DOI 10.1017/S0003055414000525
+   Boutet A, 2013, SOC NETW ANAL MIN, V3, P1379, DOI 10.1007/s13278-013-0120-1
+   Carrubba C, 2008, LEGIS STUD QUART, V33, P543, DOI 10.3162/036298008786403079
+   Ceron A., 2013, NYU LA PIETR DIAL SO
+   Ceron A, 2014, NEW MEDIA SOC, V16, P340, DOI 10.1177/1461444813480466
+   Conover M. D., 2011, Proceedings of the 2011 IEEE Third International Conference on Privacy, Security, Risk and Trust and IEEE Third International Conference on Social Computing (PASSAT/SocialCom 2011), P192, DOI 10.1109/PASSAT/SocialCom.2011.34
+   Curtis Sophie., 2013, TELEGRAPH
+   de Zúñiga HG, 2012, J COMPUT-MEDIAT COMM, V17, P319, DOI 10.1111/j.1083-6101.2012.01574.x
+   Depauw Sam., 2009, INTRAPARTY POLITICS
+   Deschouwer K., 2014, Representing the People: A Survey Among Members of Statewide and Substate Parliaments, P1
+   Gainous J., 2014, TWEETING POWER SOCIA
+   Gayo-Avello D, 2013, SOC SCI COMPUT REV, V31, P649, DOI 10.1177/0894439313493979
+   Golbeck J, 2010, J AM SOC INF SCI TEC, V61, P1612, DOI 10.1002/asi.21344
+   Graham T, 2013, INFORM COMMUN SOC, V16, P692, DOI 10.1080/1369118X.2013.785581
+   Jasiewicz K., 2013, EUROPEAN J POLITICAL, V52, P183
+   Kam CJ, 2009, PARTY DISCIPLINE AND PARLIAMENTARY POLITICS, P1
+   King A, 2011, MPSA C
+   Larsson AO, 2014, EUR J COMMUN, V29, P653, DOI 10.1177/0267323114531383
+   Laver M, 2014, ANNU REV POLIT SCI, V17, P207, DOI 10.1146/annurev-polisci-061413-041905
+   O'Connor B., 2010, ICWSM, P384
+   Parmelee J.H., 2012, POLITICS TWITTER REV
+   Peng T.-Q., 2014, COMMUN RES, DOI [10.1177/0093650214559601, DOI 10.1177/0093650214559601]
+   Poole K, 2011, J STAT SOFTW, V42, P1
+   POOLE KT, 1985, AM J POLIT SCI, V29, P357, DOI 10.2307/2111172
+   Proksch SO, 2012, AM J POLIT SCI, V56, P520, DOI 10.1111/j.1540-5907.2011.00565.x
+   Sieberer U, 2010, ELECT STUD, V29, P484, DOI 10.1016/j.electstud.2010.04.012
+   Skovsgaard M, 2013, INFORM COMMUN SOC, V16, P737, DOI 10.1080/1369118X.2013.783876
+   Szczerbiak A, 2008, EAST EUR POLITICS, V24, P415, DOI 10.1080/13523270802267955
+   Szczerbiak Aleks., 2013, Perspectives on European Politics and Society, V14, P480, DOI DOI 10.1080/15705854.2013.793535
+   Tumasjan A, 2011, SOC SCI COMPUT REV, V29, P402, DOI 10.1177/0894439310386557
+   Tworzecki H, 2012, ELECT STUD, V31, P617, DOI 10.1016/j.electstud.2012.04.007
+   Valenzuela S, 2012, J COMMUN, V62, P299, DOI 10.1111/j.1460-2466.2012.01635.x
+   Valenzuela S, 2009, J COMPUT-MEDIAT COMM, V14, P875, DOI 10.1111/j.1083-6101.2009.01474.x
+   Vergeer M, 2013, J COMPUT-MEDIAT COMM, V18, P399, DOI 10.1111/jcc4.12023
+   We are social, 2014, GLOB DIG STAT 2014 W
+NR 40
+TC 16
+Z9 18
+U1 2
+U2 39
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0894-4393
+EI 1552-8286
+J9 SOC SCI COMPUT REV
+JI Soc. Sci. Comput. Rev.
+PD FEB
+PY 2017
+VL 35
+IS 1
+SI SI
+BP 53
+EP 67
+DI 10.1177/0894439315602662
+PG 15
+WC Computer Science, Interdisciplinary Applications; Information Science &
+   Library Science; Social Sciences, Interdisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science; Information Science & Library Science; Social Sciences
+   - Other Topics
+GA EJ3HN
+UT WOS:000393103300004
+DA 2024-11-22
+ER
+
+PT J
+AU Naeemi, S
+   Tamam, E
+AF Naeemi, Somayyeh
+   Tamam, Ezhar
+TI The Relationship Between Emotional Dependence on Facebook and
+   Psychological Well-Being in Adolescents Aged 13-16
+SO CHILD INDICATORS RESEARCH
+LA English
+DT Article
+DE Emotional dependence on Facebook; Psychological well-being; Eudaimonic
+   approach; Self-efficacy; Adolescents
+ID ONLINE SOCIAL NETWORKING; COMMUNICATION; INTERNET; ASSOCIATION;
+   DEPRESSION; CHILDREN; SITES; LIFE
+AB In most countries, Facebook is one of the top social networking sites among children and adolescents. Several studies have investigated the effect of Facebook dependency on individuals' psychological well-being. However, inadequate studies have examined the impacts of Facebook in eudaimonic well-being. The current study explores how emotional dependence on Facebook relates to psychological well-being in eudaimonic approach. A total of 401, 13 to 16 yearsold who studied at an upper secondary school in Malaysia participated in this study. We expected a negative association between emotional dependence on Facebook and psychological wellbeing. The moderation effect of self-efficacy was examined in the current research. The results of structural equation modeling revealed that emotional dependence on Facebook negatively effects adolescents' overall psychological well-being. The influence was more pronounced on autonomy, purpose in life, and positive relationship with others. The results also demonstrated that high self-efficacy did not reduce negative impacts of Facebook emotional dependence on adolescents' psychological well-being.
+C1 [Naeemi, Somayyeh; Tamam, Ezhar] Univ Putra Malaysia, Fac Modern Languages & Commun, Serdang 43400, Selangor, Malaysia.
+C3 Universiti Putra Malaysia
+RP Naeemi, S (corresponding author), Univ Putra Malaysia, Fac Modern Languages & Commun, Serdang 43400, Selangor, Malaysia.
+EM somayeh.naeemi@gmail.com; Ezhartamam@gmail.com
+CR [Anonymous], 2010, THESIS PACE U NEW YO
+   Bandura A, 2001, ANNU REV PSYCHOL, V52, P1, DOI 10.1146/annurev.psych.52.1.1
+   Blachnio A, 2013, INT J HUM-COMPUT INT, V29, P775, DOI 10.1080/10447318.2013.780868
+   Boer F.S., 2012, TESTING BIDIRECTIONA
+   Bronk KC, 2010, HIGH ABIL STUD, V21, P133, DOI 10.1080/13598139.2010.525339
+   Burke M., 2010, P SIGCHI C HUM FACT, P1909, DOI [DOI 10.1145/1753326.1753613, https://doi.org/10.1145/1753326.1753613]
+   Curtis L, 2010, PUBLIC RELAT REV, V36, P90, DOI 10.1016/j.pubrev.2009.10.003
+   Endestad T, 2011, NORD REV, V32, P17, DOI 10.1515/nor-2017-0102
+   Goldberg J.A., 2011, STUDENT PULSE, V3
+   Kalpidou M, 2011, CYBERPSYCH BEH SOC N, V14, P183, DOI 10.1089/cyber.2010.0061
+   Kearney C.J., 2012, Friendship quality, Facebook and self-concept: social networking and adolescent development
+   Kim Y, 2013, COMPUT HUM BEHAV, V29, P1421, DOI 10.1016/j.chb.2013.01.018
+   Knnibbe T. J., 2013, J INTERPERSONAL RELA, V6
+   Kuss DJ, 2011, INT J ENV RES PUB HE, V8, P3528, DOI 10.3390/ijerph8093528
+   Lampe C, 2011, INT J COMP-SUPP COLL, V6, P329, DOI 10.1007/s11412-011-9115-y
+   Lenhart A., 2015, TEENS SOCIAL MEDIA T
+   Manago AM, 2012, DEV PSYCHOL, V48, P369, DOI 10.1037/a0026338
+   Marshall TC, 2012, CYBERPSYCH BEH SOC N, V15, P521, DOI 10.1089/cyber.2012.0125
+   Mew Lionel, 2010, International Journal of Virtual Communities and Social Networking, V2, P18, DOI 10.4018/jvcsn.2010010102
+   Moody EJ, 2001, CYBERPSYCHOL BEHAV, V4, P393, DOI 10.1089/109493101300210303
+   Naeemi S, 2014, PROCD SOC BEHV, V155, P87, DOI 10.1016/j.sbspro.2014.10.261
+   Nee K.G., 2013, MY ONLINE FRIENDS UN
+   Newsroom, 2016, FAC
+   Pantic I, 2012, PSYCHIAT DANUB, V24, P90
+   Pea R, 2012, DEV PSYCHOL, V48, P327, DOI 10.1037/a0027030
+   Ross C, 2009, COMPUT HUM BEHAV, V25, P578, DOI 10.1016/j.chb.2008.12.024
+   Russell S., 2002, J HAPPINESS STUDIES
+   Sampasa-Kanyinga H, 2015, CYBERPSYCH BEH SOC N, V18, P380, DOI 10.1089/cyber.2015.0055
+   Satici SA, 2015, COMPUT HUM BEHAV, V49, P185, DOI 10.1016/j.chb.2015.03.005
+   Shi JQ, 2011, CYBERPSYCH BEH SOC N, V14, P231, DOI 10.1089/cyber.2009.0462
+   Siu OL, 2007, APPL PSYCHOL-INT REV, V56, P288, DOI 10.1111/j.1464-0597.2006.00255.x
+   Steinfield C, 2008, J APPL DEV PSYCHOL, V29, P434, DOI 10.1016/j.appdev.2008.07.002
+   Swami V, 2007, SOC PSYCH PSYCH EPID, V42, P161, DOI 10.1007/s00127-006-0140-5
+   Tatham R., 2016, MULTIVARIATE DATA AN
+   Valkenburg PM, 2007, J COMPUT-MEDIAT COMM, V12, P1169, DOI 10.1111/j.1083-6101.2007.00368.x
+   Valkenburg PM, 2009, CURR DIR PSYCHOL SCI, V18, P1, DOI 10.1111/j.1467-8721.2009.01595.x
+   Wang J., 2011, Psychology, V2, P359
+   Warburton S., 2013, DIGITAL IDE IN PRESS
+NR 38
+TC 11
+Z9 17
+U1 6
+U2 60
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1874-897X
+EI 1874-8988
+J9 CHILD INDIC RES
+JI Child Indic. Res.
+PD DEC
+PY 2017
+VL 10
+IS 4
+BP 1095
+EP 1106
+DI 10.1007/s12187-016-9438-3
+PG 12
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA FN0BD
+UT WOS:000415637500012
+DA 2024-11-22
+ER
+
+PT J
+AU Bastomski, S
+   Brazil, N
+   Papachristos, AV
+AF Bastomski, Sara
+   Brazil, Noli
+   Papachristos, Andrew V.
+TI Neighborhood co-offending networks, structural embeddedness, and violent
+   crime in Chicago
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Neighborhoods; Spatial; Community structure; Social influence model;
+   Crime; Network structure
+ID SOCIAL NETWORKS; COLLECTIVE EFFICACY; MODELS; COHESIVENESS; DYNAMICS;
+   SCIENCE
+AB Neighborhood disparities in crime are a persistent feature of U.S. cities. Scholars have documented that both local structural conditions and characteristics of spatially proximate communities influence neigh-borhood crime rates. Previous studies on neighborhood inequality in crime, however, are limited by their focus on identifying average spillover effects between pairs of spatially contiguous neighborhoods, and have neglected to consider how the broader social organization of the city influences local outcomes. This study examines the role of neighborhood-level criminal networks in shaping the distribution of crime throughout cities. Employing arrest records and survey data from the Project on Human Development in Chicago Neighborhoods, we construct a neighborhood-level co-offending network for Chicago for 2001. We use this network to investigate how a focal neighborhood's homicide rate is influenced by its structural embeddedness within the larger inter -neighborhood co-offending network. Results indicate that a neighborhood's embeddedness increases the local homicide rate, even after controlling for the neighborhood's internal propensity toward crime and accounting for unobserved spatial processes. (C) 2017 Elsevier B.V. All rights reserved.
+C1 [Bastomski, Sara; Papachristos, Andrew V.] Yale Univ, Dept Sociol, POB 208265, New Haven, CT 06520 USA.
+   [Brazil, Noli] Univ Southern Calif, Spatial Sci Inst, 3616 Trousdale Pkwy, Los Angeles, CA 90089 USA.
+C3 Yale University; University of Southern California
+RP Bastomski, S (corresponding author), Yale Univ, Dept Sociol, POB 208265, New Haven, CT 06520 USA.
+EM sara.bastomski@yale.edu; nbrazil@usc.edu; andrew.papachristos@yale.edu
+FU CAREER award from the Sociology and Law and Social Science Programs at
+   the National Science Foundation [SES-1151449]; National Science
+   Foundation [CNS 08-21132]; Direct For Social, Behav & Economic Scie;
+   Divn Of Social and Economic Sciences [1840443] Funding Source: National
+   Science Foundation
+FX This work was supported in part by a CAREER award (SES-1151449) from the
+   Sociology and Law and Social Science Programs at the National Science
+   Foundation, as well as by the facilities and staff of the Yale
+   University Faculty of Arts and Sciences High Performance Computing
+   Center, and by the National Science Foundation under grant #CNS 08-21132
+   that partially funded acquisition of the facilities.
+CR Alvarez-Hamelin I., 2006, NIPS, V18, P41
+   Anselin L, 2002, AGR ECON-BLACKWELL, V27, P247, DOI 10.1111/j.1574-0862.2002.tb00120.x
+   Anselin L., 2001, A Companion to Theoretical Econometrics, P310, DOI DOI 10.1002/9780470996249.CH15
+   Anselin L., 1998, CRIMINAL JUSTICE 200, V4, P213
+   Aronow PM, 2015, POLIT ANAL, V23, P564, DOI 10.1093/pan/mpv018
+   Bailey T.C., 1995, INTERACTIVE SPATIAL, V413
+   Batagelj V, 2011, ADV DATA ANAL CLASSI, V5, P129, DOI 10.1007/s11634-010-0079-y
+   Borgatti SP, 1999, SOC NETWORKS, V21, P375
+   Browning CR, 2004, SOC FORCES, V83, P503, DOI 10.1353/sof.2005.0006
+   Carrington PJ, 2009, CRIMINOLOGY, V47, P1295, DOI 10.1111/j.1745-9125.2009.00176.x
+   Charette Y, 2017, SOC NETWORKS, V51, P3, DOI 10.1016/j.socnet.2016.12.005
+   COHEN LE, 1979, AM SOCIOL REV, V44, P588, DOI 10.2307/2094589
+   Coleman J., 1961, ADOLESCENT SOC, V1st
+   Cook PJ, 1995, J CRIM LAW CRIM, V86, P59, DOI 10.2307/1144000
+   Csardi Gabor, 2006, J COMPLEX
+   Earls F., 1997, ANN ARBOR
+   Felson M., 2003, Journal of Crime Prevention Studies, V16, P149
+   Getis A, 2010, ADV SPAT SCI, P147, DOI 10.1007/978-3-642-01976-0_11
+   GOULD RV, 1991, AM SOCIOL REV, V56, P716, DOI 10.2307/2096251
+   GRANOVETTER M, 1983, J MATH SOCIOL, V9, P165, DOI 10.1080/0022250X.1983.9989941
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Hansen BE, 2000, ECONOMETRICA, V68, P575, DOI 10.1111/1468-0262.00124
+   Haynie DL, 2001, AM J SOCIOL, V106, P1013, DOI 10.1086/320298
+   Hipp JR, 2013, SOC NETWORKS, V35, P614, DOI 10.1016/j.socnet.2013.07.002
+   Hipp JR, 2013, CRIMINOLOGY, V51, P287, DOI 10.1111/1745-9125.12006
+   Hipp JR, 2012, SOC NETWORKS, V34, P128, DOI 10.1016/j.socnet.2011.05.002
+   Hughes LA, 2013, CRIMINOLOGY, V51, P795, DOI 10.1111/1745-9125.12020
+   Kadushin C., 2011, UNDERSTANDING SOCIAL
+   Kirk DS, 2011, AM J SOCIOL, V116, P1190, DOI 10.1086/655754
+   Kubrin C.E., 2016, HDB CRIMINOLOGICAL T, V4, P121, DOI DOI 10.1002/9781118512449.CH7
+   Leenders RTAJ, 2002, SOC NETWORKS, V24, P21, DOI 10.1016/S0378-8733(01)00049-1
+   LOFTIN C, 1986, B NEW YORK ACAD MED, V62, P550
+   Mani D, 2014, AM J SOCIOL, V119, P1629, DOI 10.1086/676040
+   McGloin J.M., 2013, Crime and networks, P13
+   McGloin JM, 2011, J RES CRIME DELINQ, V48, P419, DOI 10.1177/0022427810393019
+   McGloin JM, 2010, J RES CRIME DELINQ, V47, P63, DOI 10.1177/0022427809348905
+   Mears DP, 2006, CRIMINOLOGY, V44, P509, DOI 10.1111/j.1745-9125.2006.00056.x
+   Moody J, 2003, AM SOCIOL REV, V68, P103, DOI 10.2307/3088904
+   Morenoff JD, 2001, CRIMINOLOGY, V39, P517, DOI 10.1111/j.1745-9125.2001.tb00932.x
+   Morris M, 2009, AM J PUBLIC HEALTH, V99, P1023, DOI 10.2105/AJPH.2008.147835
+   Muggeo VMR, 2003, STAT MED, V22, P3055, DOI 10.1002/sim.1545
+   Papachristos AV, 2015, SOC SCI MED, V125, P139, DOI 10.1016/j.socscimed.2014.01.056
+   Papachristos AV, 2013, AM SOCIOL REV, V78, P417, DOI 10.1177/0003122413486800
+   Papachristos AV, 2009, AM J SOCIOL, V115, P74, DOI 10.1086/597791
+   Papachristos Andrew V., 2011, ADV CRIMINOLOGICAL T, P101
+   Papachristos Andrew V., 2011, CITY COMMUN, V10
+   Park RobertE., 1984, The City: Suggestions for the Study of Human Nature in the Urban Environment
+   Patillo-McCoy M., 1999, Black Picket Fences: Peril and Privilege among the Black Middle Class
+   Peterson RD, 2009, ANN AM ACAD POLIT SS, V623, P93, DOI 10.1177/0002716208330490
+   Sampson RJ, 2002, ANNU REV SOCIOL, V28, P443, DOI 10.1146/annurev.soc.28.110601.141114
+   Sampson RJ, 1997, SCIENCE, V277, P918, DOI 10.1126/science.277.5328.918
+   Sampson RobertJ., 2011, Great American City: Chicago and the Enduring Neighborhood Effect
+   Schaefer DR, 2012, SOC NETWORKS, V34, P141, DOI 10.1016/j.socnet.2011.02.001
+   SEIDMAN SB, 1983, SOC NETWORKS, V5, P269, DOI 10.1016/0378-8733(83)90028-X
+   Sharkey Patrick, 2013, STUCK PLACE AM NEIGH
+   Short J.F., 1965, Group processes and gang delinquency
+   Soller B., 2014, ENCY CRIMINOLOGY CRI, P3255, DOI [10.1007/978-1-4614-5690-2_241, DOI 10.1007/978-1-4614-5690-2_241]
+   Sutherland Edwin., 1937, The Professional Thief
+   Tita G. E., 2012, The SAGE handbook of criminological research methods, P128
+   Tita GE, 2011, J QUANT CRIMINOL, V27, P521, DOI 10.1007/s10940-011-9136-8
+   Tita GE, 2009, PUTTING CRIME IN ITS PLACE: UNITS OF ANALYSIS IN GEOGRAPHIC CRIMINOLOGY, P145, DOI 10.1007/978-0-387-09688-9_7
+   Watts DJ, 2004, ANNU REV SOCIOL, V30, P243, DOI 10.1146/annurev.soc.30.020404.104342
+   Wellman B.:., 1999, 101. Wellman, B.: The network community: An introduction to networks in the global village. Networks in the Global Village, 1999.
+   White DR, 2001, SOCIOL METHODOL, V31, P305, DOI 10.1111/0081-1750.00098
+   WHITE MJ, 1983, AM J SOCIOL, V88, P1008, DOI 10.1086/227768
+   Zeoli AM, 2014, JUSTICE Q, V31, P609, DOI 10.1080/07418825.2012.732100
+NR 66
+TC 21
+Z9 24
+U1 1
+U2 37
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD OCT
+PY 2017
+VL 51
+SI SI
+BP 23
+EP 39
+DI 10.1016/j.socnet.2016.12.003
+PG 17
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA FI2LV
+UT WOS:000411771300004
+OA Bronze
+DA 2024-11-22
+ER
+
+PT J
+AU Moussaïd, M
+   Herzog, SM
+   Kämmer, JE
+   Hertwig, R
+AF Moussaid, Mehdi
+   Herzog, Stefan M.
+   Kaemmer, Juliane E.
+   Hertwig, Ralph
+TI Reach and speed of judgment propagation in the laboratory
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE social influence; diffusion chains; information diffusion; social
+   contagion; collective behavior
+ID DECISION-MAKING; SOCIAL NETWORK; BEHAVIOR; ADVICE; MODELS; DYNAMICS;
+   SPREAD
+AB In recent years, a large body of research has demonstrated that judgments and behaviors can propagate from person to person. Phenomena as diverse as political mobilization, health practices, altruism, and emotional states exhibit similar dynamics of social contagion. The precise mechanisms of judgment propagation are not well understood, however, because it is difficult to control for confounding factors such as homophily or dynamic network structures. We introduce an experimental design that renders possible the stringent study of judgment propagation. In this design, experimental chains of individuals can revise their initial judgment in a visual perception task after observing a predecessor's judgment. The positioning of a very good performer at the top of a chain created a performance gap, which triggered waves of judgment propagation down the chain. We evaluated the dynamics of judgment propagation experimentally. Despite strong social influence within pairs of individuals, the reach of judgment propagation across a chain rarely exceeded a social distance of three to four degrees of separation. Furthermore, computer simulations showed that the speed of judgment propagation decayed exponentially with the social distance from the source. We show that information distortion and the overweighting of other people's errors are two individual-level mechanisms hindering judgment propagation at the scale of the chain. Our results contribute to the understanding of social-contagion processes, and our experimental method offers numerous new opportunities to study judgment propagation in the laboratory.
+C1 [Moussaid, Mehdi; Herzog, Stefan M.; Kaemmer, Juliane E.; Hertwig, Ralph] Max Planck Inst Human Dev, Ctr Adapt Rat, D-14195 Berlin, Germany.
+   [Kaemmer, Juliane E.] Charite, AG Progress Test Med, D-10115 Berlin, Germany.
+C3 Max Planck Society; Berlin Institute of Health; Free University of
+   Berlin; Humboldt University of Berlin; Charite Universitatsmedizin
+   Berlin
+RP Moussaïd, M (corresponding author), Max Planck Inst Human Dev, Ctr Adapt Rat, D-14195 Berlin, Germany.
+EM moussaid@mpib-berlin.mpg.de
+RI Hertwig, Ralph/B-3468-2015; Moussaïd, Mehdi/G-2366-2010; Herzog,
+   Stefan/A-1161-2009
+OI Kammer, Juliane E./0000-0001-6042-8453; Herzog,
+   Stefan/0000-0003-2329-6433
+FU German Research Foundation as part of the priority program on "New
+   Frameworks of Rationality" (SPP 1516) [HE 2768/7-2]
+FX We thank Larissa Conradt and Winnie Poel for fruitful discussions and
+   early contributions to the project. We are grateful to Anita Todd and
+   Susannah Goss for editing the manuscript. This research was supported by
+   a grant from the German Research Foundation as part of the priority
+   program on "New Frameworks of Rationality" (SPP 1516) awarded to R.H.
+   (HE 2768/7-2). The funders had no role in study design, data collection
+   and analysis, decision to publish, or preparation of the manuscript.
+CR Adamic L.A., 2006, P 7 ACM C EL COMM, P228, DOI [10.1145/1232722.1232727, 10.1145/1232722.1232727.15]
+   [Anonymous], 2014, IDENTITY OPINION RAN
+   Apicella CL, 2012, NATURE, V481, P497, DOI 10.1038/nature10736
+   Aral S, 2014, MANAGE SCI, V60, P1352, DOI 10.1287/mnsc.2014.1936
+   Biele G, 2009, COGNITIVE SCI, V33, P206, DOI 10.1111/j.1551-6709.2009.01010.x
+   BIKHCHANDANI S, 1992, J POLIT ECON, V100, P992, DOI 10.1086/261849
+   Bonaccio S, 2006, ORGAN BEHAV HUM DEC, V101, P127, DOI 10.1016/j.obhdp.2006.07.001
+   Bond RM, 2012, NATURE, V489, P295, DOI 10.1038/nature11421
+   Castellano C, 2009, REV MOD PHYS, V81, P591, DOI 10.1103/RevModPhys.81.591
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   Centola D, 2011, SCIENCE, V334, P1269, DOI 10.1126/science.1207055
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Christakis NA, 2008, NEW ENGL J MED, V358, P2249, DOI 10.1056/NEJMsa0706154
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   Christakis NA, 2013, STAT MED, V32, P556, DOI 10.1002/sim.5408
+   Couzin ID, 2003, ADV STUD BEHAV, V32, P1, DOI 10.1016/S0065-3454(03)01001-5
+   Fowler JH, 2010, P NATL ACAD SCI USA, V107, P5334, DOI 10.1073/pnas.0913149107
+   Harvey N, 2005, ROUTINES OF DECISION MAKING, P119
+   Kempe M, 2014, WIRES COGN SCI, V5, P317, DOI 10.1002/wcs.1288
+   Kramer ADI, 2014, P NATL ACAD SCI USA, V111, P8788, DOI 10.1073/pnas.1320040111
+   Morgan TJH, 2015, NAT COMMUN, V6, DOI 10.1038/ncomms7029
+   Moussaid M, 2015, P NATL ACAD SCI USA, V112, P5631, DOI 10.1073/pnas.1421883112
+   Newman MEJ, 2000, J STAT PHYS, V101, P819, DOI 10.1023/A:1026485807148
+   NEWSOME WT, 1988, J NEUROSCI, V8, P2201
+   Onnela JP, 2007, P NATL ACAD SCI USA, V104, P7332, DOI 10.1073/pnas.0610245104
+   Slutkin G., 2012, CONTAGION VIOLENCE W, P94
+   Soll JB, 2009, J EXP PSYCHOL LEARN, V35, P780, DOI 10.1037/a0015145
+   Suri S, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0016836
+   Watts DJ, 2007, J CONSUM RES, V34, P441, DOI 10.1086/518527
+   Yaniv I, 2000, ORGAN BEHAV HUM DEC, V83, P260, DOI 10.1006/obhd.2000.2909
+NR 30
+TC 21
+Z9 24
+U1 0
+U2 12
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+EI 1091-6490
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD APR 18
+PY 2017
+VL 114
+IS 16
+BP 4117
+EP 4122
+DI 10.1073/pnas.1611998114
+PG 6
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA ES2WA
+UT WOS:000399387400048
+PM 28373540
+OA Green Submitted, Green Published, Bronze
+DA 2024-11-22
+ER

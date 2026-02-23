@@ -1,0 +1,639 @@
+
+PT J
+AU Kobayashi, T
+   Génois, M
+AF Kobayashi, Teruyoshi
+   Genois, Mathieu
+TI The switching mechanisms of social network densification
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID MODELS
+AB Densification and sparsification of social networks are attributed to two fundamental mechanisms: a change in the population in the system, and/or a change in the chances that people in the system are connected. In theory, each of these mechanisms generates a distinctive type of densification scaling, but in reality both types are generally mixed. Here, we develop a Bayesian statistical method to identify the extent to which each of these mechanisms is at play at a given point in time, taking the mixed densification scaling as input. We apply the method to networks of face-to-face interactions of individuals and reveal that the main mechanism that causes densification and sparsification occasionally switches, the frequency of which depending on the social context. The proposed method uncovers an inherent regime-switching property of network dynamics, which will provide a new insight into the mechanics behind evolving social interactions.
+C1 [Kobayashi, Teruyoshi] Kobe Univ, Dept Econ, Kobe, Hyogo, Japan.
+   [Kobayashi, Teruyoshi] Kobe Univ, Ctr Computat Social Sci, Kobe, Hyogo, Japan.
+   [Genois, Mathieu] Univ Toulon & Var, Aix Marseille Univ, CNRS, CPT, Marseille, France.
+   [Genois, Mathieu] Leibniz Inst Social Sci, GESIS, Mannheim, Germany.
+C3 Kobe University; Kobe University; Aix-Marseille Universite; Centre
+   National de la Recherche Scientifique (CNRS); Universite de Toulon;
+   Leibniz Institut fur Sozialwissenschaften (GESIS)
+RP Kobayashi, T (corresponding author), Kobe Univ, Dept Econ, Kobe, Hyogo, Japan.; Kobayashi, T (corresponding author), Kobe Univ, Ctr Computat Social Sci, Kobe, Hyogo, Japan.; Génois, M (corresponding author), Univ Toulon & Var, Aix Marseille Univ, CNRS, CPT, Marseille, France.; Génois, M (corresponding author), Leibniz Inst Social Sci, GESIS, Mannheim, Germany.
+EM kobayashi@econ.kobe-u.ac.jp; mathieu.genois@cpt.univ-mrs.fr
+OI Kobayashi, Teruyoshi/0000-0002-3135-9038
+FU JSPS KAKENHI Grant [15H05729, 19H01506]; ANR Project DATAREDUX
+   [ANR-19-CE46-0008]; Grants-in-Aid for Scientific Research [19H01506,
+   20H05633] Funding Source: KAKEN
+FX T.K. acknowledges financial support from JSPS KAKENHI Grant Nos.
+   15H05729 and 19H01506. This work was partially supported by the ANR
+   Project DATAREDUX (ANR-19-CE46-0008) to M.G.
+CR Aledavood T, 2015, FRONT PHYS-LAUSANNE, V3, DOI 10.3389/fphy.2015.00073
+   Barabasi AL, 2016, NETWORK SCIENCE, P1
+   Barabási AL, 2012, NAT PHYS, V8, P14, DOI 10.1038/nphys2188
+   Bettencourt LMA, 2009, J INFORMETR, V3, P210, DOI 10.1016/j.joi.2009.03.001
+   Boguñá M, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.036112
+   Caldarelli G, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.258702
+   Cattuto C, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0011596
+   De Masi G, 2006, PHYS REV E, V74, DOI 10.1103/PhysRevE.74.066112
+   Gautreau A, 2009, P NATL ACAD SCI USA, V106, P8847, DOI 10.1073/pnas.0811113106
+   Gauvin L, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0086028
+   Génois M, 2015, NETW SCI, V3, P326, DOI 10.1017/nws.2015.10
+   Hamilton J. D., 2020, Time Series Analysis, DOI [DOI 10.1515/9780691218632, 10.1515/9780691218632]
+   Hamilton JD, 2009, MACROECONOMETRICS AND TIME SERIES ANALYSIS, P202
+   Hoffman MD, 2014, J MACH LEARN RES, V15, P1593
+   Holme P, 2015, EUR PHYS J B, V88, DOI 10.1140/epjb/e2015-60657-4
+   Holme P, 2012, PHYS REP, V519, P97, DOI 10.1016/j.physrep.2012.03.001
+   Jo HH, 2012, NEW J PHYS, V14, DOI 10.1088/1367-2630/14/1/013055
+   Jo HH, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0022687
+   Karsai M, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.025102
+   Karsai M, 2012, SCI REP-UK, V2, DOI 10.1038/srep00397
+   KIM CJ, 1994, J ECONOMETRICS, V60, P1, DOI 10.1016/0304-4076(94)90036-1
+   Kobayashi T, 2020, PHYS REV E, V102, DOI 10.1103/PhysRevE.102.052302
+   Kobayashi T, 2019, NAT COMMUN, V10, DOI 10.1038/s41467-018-08160-3
+   Kobayashi T, 2018, EPJ DATA SCI, V7, DOI 10.1140/epjds/s13688-018-0143-y
+   Lambiotte R, 2019, NAT PHYS, V15, P313, DOI 10.1038/s41567-019-0459-y
+   Leskovec J, 2005, ACM SIGKDD C KNOWLED, P177
+   Leskovec J, 2007, ACM T WEB, V1, DOI 10.1145/1232722.1232727
+   Newman M., 2010, NETWORKS, DOI [DOI 10.1093/ACPROF:OSO/9780199206650.001.0001, 10.1093/acprof:oso/9780199206650.001.0001]
+   Rammstedt B, 2019, ARXIV190101182
+   Scholtes I, 2016, EUR PHYS J B, V89, DOI 10.1140/epjb/e2016-60663-0
+   Vanhems P, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0073970
+NR 31
+TC 6
+Z9 6
+U1 0
+U2 2
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD FEB 4
+PY 2021
+VL 11
+IS 1
+AR 3160
+DI 10.1038/s41598-021-82432-9
+PG 11
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA QH1PT
+UT WOS:000618049600118
+PM 33542332
+OA gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Cheng, LS
+   Tong, DQ
+   Ji, XP
+   Wang, SJ
+AF Cheng, Lisha
+   Tong, Daoqin
+   Ji, Xuepeng
+   Wang, Shijun
+TI An Urban Network Study of Government Procurement Activities: A Case
+   Study of Northeast China
+SO COMPLEXITY
+LA English
+DT Article
+ID CITY NETWORK; CITIES; GEOGRAPHY; LINKAGES; LEVEL; FIRM
+AB Urban networks have been widely examined using infrastructure connection and firm connection data. In particular, urban networks constructed based on firm connection data have been used to depict the circulation of capital, information, personnel, and products between cities. Existing studies on firm connection networks rely on either inter- or intrafirm relationships. However, there exist various important extra-firm relationships, such as those between firms and governments, research institutions, and nonprofit organizations. This study innovatively incorporates the extra-firm relationships between governments and firms into urban network construction to provide new insights into the field of urban network research. Using Northeast China as a case study, we construct government procurement activity (GPA) connection networks for both central projects and local projects at the regional and national scales. Social network analysis and regression analysis are used to analyze the network characteristics and factors associated with the network structure. The results show that three provincial capitals (Harbin, Changchun, and Shenyang) hold dominant positions across all the networks. While these capitals serve as GPA suppliers in the region, they are mainly GPA consumers nationally. The factors of spatial proximity, economic development, population, and provincial boundaries were found to be significantly associated with GPA connections. Our study provides important insights into the role of cities in firm-government supply-demand networks. This research can be used to help formulate effective strategies to improve a city's competitiveness and cities' cooperation in the GPA supply-demand network.
+C1 [Cheng, Lisha; Wang, Shijun] Northeast Normal Univ, Sch Geog Sci, Changchun 130024, Peoples R China.
+   [Tong, Daoqin] Arizona State Univ, Sch Geog Sci & Urban Planning, Tempe, AZ 85287 USA.
+   [Ji, Xuepeng] Nanjing Univ, Sch Geog & Oceanog Sci, Nanjing 210023, Peoples R China.
+C3 Northeast Normal University - China; Arizona State University; Arizona
+   State University-Tempe; Nanjing University
+RP Wang, SJ (corresponding author), Northeast Normal Univ, Sch Geog Sci, Changchun 130024, Peoples R China.
+EM chengls487@nenu.edu.cn; daoqin.tong@asu.edu; zq_jixuepeng@163.com;
+   wangsj@nenu.edu.cn
+OI Wang, Shijun/0000-0001-7290-412X
+FU National Natural Science Foundation of China [41630749, 41801153]
+FX This research was supported by National Natural Science Foundation of
+   China (grant nos. 41630749 and 41801153).
+CR [Anonymous], 2019, FISCAL REVENUE EXPEN
+   [Anonymous], 1991, EUR J INFORM SYST, DOI DOI 10.1057/EJIS.1991.11
+   [Anonymous], 1996, The Rise of the Network Society
+   [Anonymous], 2017, NOTICE FURTHER IMPRO
+   [Anonymous], 1994, COMMODITY CHAINS GLO, DOI DOI 10.1016/j.foodpol.2007.10.002
+   Cao WW, 2019, J ADV TRANSPORT, DOI 10.1155/2019/3928260
+   Chen MX, 2020, COMPLEXITY, V2020, DOI 10.1155/2020/5786384
+   Czarnitzki D, 2020, INT J IND ORGAN, V71, DOI 10.1016/j.ijindorg.2020.102620
+   Daviron B., 2005, The Coffee Paradox: Global Markets, Commodity Trade and the Elusive Promise of Development
+   Derudder B, 2005, URBAN STUD, V42, P2371, DOI 10.1080/00420980500379503
+   [董超 Dong Chao], 2014, [地理学报, Acta Geographica Sinica], V69, P510
+   Dong YQ, 2019, J GEOGR SCI, V29, P1999, DOI 10.1007/s11442-019-1701-3
+   Elisabetta I., 2019, CEPR DISCUSSION PAPE
+   [樊杰 Fan Jie], 2016, [地理科学, Scientia Geographica Sinica], V36, P1445
+   [冯兴华 Feng Xinghua], 2018, [地理科学, Scientia Geographica Sinica], V38, P1430
+   Hu SJ, 2019, SUSTAINABILITY-BASEL, V11, DOI 10.3390/su11205811
+   Jiang W, 2017, NE ASIA EC RES, V1, P110
+   [金凤君 Jin Fengjun], 2016, [地理科学, Scientia Geographica Sinica], V36, P1285
+   Jin SH, 2020, TOURISM MANAGE, V78, DOI 10.1016/j.tourman.2019.104070
+   [李仙德 Li Xiande], 2014, [地理科学进展, Progress in Geography], V33, P1587
+   [刘承良 Liu Chengliang], 2019, [地理学报, Acta Geographica Sinica], V74, P2092
+   Luo J, 2020, J GEOGR SCI, V30, P515, DOI 10.1007/s11442-020-1740-9
+   Ma H, 2016, ECON GEOGR, V36, P207
+   [马丽亚 Ma Liya], 2019, [经济地理, Economic Geography], V39, P51
+   Malecki EJ, 2002, ECON GEOGR, V78, P399, DOI 10.2307/4140796
+   [潘峰华 Pan Fenghua], 2019, [地理科学, Scientia Geographica Sinica], V39, P1093
+   Pan FH, 2017, URBAN STUD, V54, P3639, DOI 10.1177/0042098016685511
+   Raj A, 2020, J CLEAN PROD, V266, DOI 10.1016/j.jclepro.2020.122055
+   Rossi EC, 2007, GEOFORUM, V38, P628, DOI 10.1016/j.geoforum.2006.11.005
+   Shen W, 2019, ISPRS INT J GEO-INF, V8, DOI 10.3390/ijgi8080324
+   [盛科荣 Sheng Kerong], 2020, [地理科学, Scientia Geographica Sinica], V40, P740
+   Shi BF, 2016, SUSTAINABILITY-BASEL, V8, DOI 10.3390/su8060551
+   Smith DA, 2001, AM BEHAV SCI, V44, P1656, DOI 10.1177/00027640121958104
+   Taylor PJ, 2005, POLIT GEOGR, V24, P703, DOI 10.1016/j.polgeo.2005.01.009
+   Taylor PJ, 2007, QUESTION CITIES, P1
+   Taylor PJ, 2002, URBAN STUD, V39, P2367, DOI 10.1080/00420980220080011
+   Taylor PJ, 2001, GEOGR ANAL, V33, P181, DOI 10.1111/j.1538-4632.2001.tb00443.x
+   [王海江 Wang Haijiang], 2016, [地理研究, Geographical Research], V35, P745
+   [王士君 Wang Shijun], 2017, [地理科学, Scientia Geographica Sinica], V37, P1449
+   Wang W, 2012, RES FUNCTION GOVT PR
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   Wójcik D, 2010, ECON GEOGR, V86, P275
+   Xie FJ, 2015, COMPLEXITY, V21, P166, DOI 10.1002/cplx.21595
+   Yang J, 2018, SUSTAINABILITY-BASEL, V10, DOI 10.3390/su10082943
+   Yeh AGO, 2015, URBAN STUD, V52, P2458, DOI 10.1177/0042098014544762
+   Yeung HWC, 2005, GROWTH CHANGE, V36, P307, DOI 10.1111/j.1468-2257.2005.00279.x
+   Zhang WY, 2018, REG STUD, V52, P528, DOI 10.1080/00343404.2017.1334878
+   Zhang X, 2018, URBAN GEOGR, V39, P1510, DOI 10.1080/02723638.2018.1477297
+   Zhao JL, 2018, GROWTH CHANGE, V49, P490, DOI 10.1111/grow.12244
+   [赵梓渝 Zhao Ziyu], 2019, [地理学报, Acta Geographica Sinica], V74, P203
+   Zhen F, 2013, CHINESE GEOGR SCI, V23, P274, DOI 10.1007/s11769-013-0595-8
+   [甄峰 Zhen Feng], 2012, [地理学报, Acta Geographica Sinica], V67, P1031
+NR 52
+TC 1
+Z9 1
+U1 3
+U2 50
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1076-2787
+EI 1099-0526
+J9 COMPLEXITY
+JI Complexity
+PD MAR 5
+PY 2021
+VL 2021
+AR 8819441
+DI 10.1155/2021/8819441
+PG 13
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Science & Technology - Other Topics
+GA QX5AH
+UT WOS:000629358500009
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Santos, FP
+   Lelkes, Y
+   Levin, SA
+AF Santos, Fernando P.
+   Lelkes, Yphtach
+   Levin, Simon A.
+TI Link recommendation algorithms and dynamics of polarization in online
+   social networks
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE polarization; social networks; complex systems; link recommendation;
+   opinion dynamics
+ID POLITICAL COMMUNICATION; TWITTER; NEWS; PERSPECTIVE; PREDICTION;
+   CONTACT; OPINION; MODEL
+AB The level of antagonism between political groups has risen in the past years. Supporters of a given party increasingly dislike members of the opposing group and avoid intergroup interactions, leading to homophilic social networks. While new connections offline are driven largely by human decisions, new connections on online social platforms are intermediated by link recommendation algorithms, e.g., "People you may know" or "Whom to follow" suggestions. The long-term impacts of link recommendation in polarization are unclear, particularly as exposure to opposing viewpoints has a dual effect: Connections with out-group members can lead to opinion convergence and prevent group polarization or further separate opinions. Here, we provide a complex adaptive-systems perspective on the effects of link recommendation algorithms. While several models justify polarization through rewiring based on opinion similarity, here we explain it through rewiring grounded in structural similarity-defined as similarity based on network properties. We observe that preferentially establishing links with structurally similar nodes (i.e., sharing many neighbors) results in network topologies that are amenable to opinion polarization. Hence, polarization occurs not because of a desire to shield oneself from disagreeable attitudes but, instead, due to the creation of inadvertent echo chambers. When networks are composed of nodes that react differently to out-group contacts, either converging or polarizing, we find that connecting structurally dissimilar nodes moderates opinions. Overall, our study sheds light on the impacts of social-network algorithms and unveils avenues to steer dynamics of radicalization and polarization in online social networks.
+C1 [Santos, Fernando P.; Levin, Simon A.] Princeton Univ, Dept Ecol & Evolutionary Biol, Princeton, NJ 08544 USA.
+   [Santos, Fernando P.] Univ Amsterdam, Informat Inst, NL-1098 XH Amsterdam, Netherlands.
+   [Lelkes, Yphtach] Univ Penn, Annenberg Sch Commun Res, Philadelphia, PA 19104 USA.
+C3 Princeton University; University of Amsterdam; University of
+   Pennsylvania
+RP Santos, FP (corresponding author), Princeton Univ, Dept Ecol & Evolutionary Biol, Princeton, NJ 08544 USA.; Santos, FP (corresponding author), Univ Amsterdam, Informat Inst, NL-1098 XH Amsterdam, Netherlands.
+EM f.p.santos@uva.nl
+RI Santos, Fernando P./AAA-7581-2021; Levin, Simon/J-1218-2014; Santos,
+   Fernando/R-5609-2017
+OI Levin, Simon/0000-0002-8216-5639; Santos, Fernando/0000-0002-2310-6444
+FU James S. McDonnell Foundation [200200555, 220020542]; National Science
+   Foundation [CCF1917819]; Microsoft Corporation [AWD1006615]; Army
+   Research Office [W911NF-18-1-0325]; College of Liberal Arts and Sciences
+   at Arizona State University; C3.ai Inc.
+FX This work was supported by the James S. McDonnell Foundation 21st
+   Century Science Initiative in Understanding Dynamic and Multi-scale
+   Systems Postdoctoral Fellowship Award (Grant 200200555) and
+   Collaborative Award (Grant 220020542), the National Science Foundation
+   (Grant CCF1917819), the C3.ai Inc. and Microsoft Corporation (Award
+   AWD1006615), and the Army Research Office (Grant W911NF-18-1-0325). We
+   thank the College of Liberal Arts and Sciences at Arizona State
+   University for providing the funding for the workshops that led to this
+   paper. We thank the participants of the PNAS Political Polarization
+   Conference, and especially Sara Constantino and Vitor Vasconcelos, for
+   enriching comments. We also thank participants of the Theoretical
+   Ecology Lab Tea (Department of Ecology and Evolutionary Biology,
+   Princeton University) for useful suggestions. We thank Alan Mislove for
+   providing us a dataset used in a previous paper (65).
+CR Adamic L.A., 2005, P 3 INT WORKSH LINK, P36, DOI DOI 10.1145/1134271.1134277
+   Allcott H, 2020, AM ECON REV, V110, P629, DOI 10.1257/aer.20190658
+   Aragon P, 2013, POLICY INTERNET, V5, P183, DOI 10.1002/1944-2866.POI327
+   Axelrod R, 1997, J CONFLICT RESOLUT, V41, P203, DOI 10.1177/0022002797041002001
+   Axelrod R, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2102139118
+   Backstrom L., 2011, P 4 ACM INT C WEB SE, P635, DOI DOI 10.1145/1935826.1935914
+   Bail CA, 2018, P NATL ACAD SCI USA, V115, P9216, DOI 10.1073/pnas.1804840115
+   Bakshy E, 2015, SCIENCE, V348, P1130, DOI 10.1126/science.aaa1160
+   Barberá P, 2015, PSYCHOL SCI, V26, P1531, DOI 10.1177/0956797615594620
+   Baumann F, 2021, PHYS REV X, V11, DOI 10.1103/PhysRevX.11.011012
+   Baumann F, 2020, PHYS REV LETT, V124, DOI 10.1103/PhysRevLett.124.048301
+   Bizyaeva A., 2020, ARXIV200904332MATHOC
+   Bond RM, 2012, NATURE, V489, P295, DOI 10.1038/nature11421
+   Bowen R., 2021, LEARNING SHARED NEWS
+   Bramson A, 2017, PHILOS SCI, V84, P115, DOI 10.1086/688938
+   Chan CH, 2017, J COMPUT-MEDIAT COMM, V22, P266, DOI 10.1111/jcc4.12192
+   Chu OJ, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2104194118
+   Cinelli M, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2023301118
+   Conover M.D., 2011, P INT AAAI C WEB SOC, P89
+   Couzin ID, 2011, SCIENCE, V334, P1578, DOI 10.1126/science.1210280
+   Daly Elizabeth M, 2010, Proceedings of the fourth ACM conference on Recommender systems RecSys '10, P301
+   Deffuant G, 2000, APPLICATIONS OF SIMULATION TO SOCIAL SCIENCES, P87, DOI 10.1142/S0219525900000078
+   Del Vicario M, 2017, SCI REP-UK, V7, DOI 10.1038/srep40391
+   Del Vicario M, 2016, P NATL ACAD SCI USA, V113, P554, DOI 10.1073/pnas.1517441113
+   DiMaggio P, 1996, AM J SOCIOL, V102, P690, DOI 10.1086/230995
+   Du SY, 2017, STUD COMPUT INTELL, V693, P373, DOI 10.1007/978-3-319-50901-3_30
+   Fabbri F., 2020, P 14 INT AAAI C WEB, V14, P165
+   Facebook, PEOPL YOU MAY KNOW F
+   Feller Albert., 2011, Proceedings of the International AAAI Conference on Web and Social Media, V5, P474
+   Finkel EJ, 2020, SCIENCE, V370, P533, DOI 10.1126/science.abe1715
+   Flamino J., 2021, SHIFTING POLARIZATIO
+   Franci A., 2015, REALIZATION THEORY B
+   Fu F, 2012, SCI REP-UK, V2, DOI 10.1038/srep00460
+   Garimella K, 2017, WSDM'17: PROCEEDINGS OF THE TENTH ACM INTERNATIONAL CONFERENCE ON WEB SEARCH AND DATA MINING, P81, DOI 10.1145/3018661.3018703
+   Garimella K, 2018, WEB CONFERENCE 2018: PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE (WWW2018), P913, DOI 10.1145/3178876.3186139
+   Ghasemian A, 2020, P NATL ACAD SCI USA, V117, P23393, DOI 10.1073/pnas.1914950117
+   Gray R, 2018, IEEE T CONTROL NETW, V5, P793, DOI 10.1109/TCNS.2018.2796301
+   Gruzd A, 2014, POLICY INTERNET, V6, P28, DOI 10.1002/1944-2866.POI354
+   Guess A., 2018, Knight Foundation, V2, P1
+   Guess AM, 2020, NAT HUM BEHAV, V4, P472, DOI 10.1038/s41562-020-0833-x
+   Gupta P., 2013, P 22 INT C WORLD WID, P505, DOI [DOI 10.1145/2488388.2488433, 10.1145/2488388.2488433]
+   Hegselmann R, 2002, JASSS-J ARTIF SOC S, V5
+   Holme P, 2006, PHYS REV E, V74, DOI 10.1103/PhysRevE.74.056108
+   ISENBERG DJ, 1986, J PERS SOC PSYCHOL, V50, P1141, DOI 10.1037/0022-3514.50.6.1141
+   Iyengar S, 2019, ANNU REV POLIT SCI, V22, P129, DOI 10.1146/annurev-polisci-051117-073034
+   Iyengar S, 2012, PUBLIC OPIN QUART, V76, P405, DOI 10.1093/poq/nfs038
+   Kawakatsu M, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2102148118
+   Lazer D, 2015, SCIENCE, V348, P1090, DOI 10.1126/science.aab1422
+   Lazer DMJ, 2018, SCIENCE, V359, P1094, DOI 10.1126/science.aao2998
+   Lelkes Y, 2016, PUBLIC OPIN QUART, V80, P392, DOI 10.1093/poq/nfw005
+   Lelkes Y, 2017, AM J POLIT SCI, V61, P5, DOI 10.1111/ajps.12237
+   Leonard NE, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2102149118
+   Levin SA, 1998, ECOSYSTEMS, V1, P431, DOI 10.1007/s100219900037
+   Levy R, 2021, AM ECON REV, V111, P831, DOI 10.1257/aer.20191777
+   Li ZH, 2017, ADV MECH ENG, V9, DOI 10.1177/1687814017693541
+   Liben-Nowell D, 2007, J AM SOC INF SCI TEC, V58, P1019, DOI 10.1002/asi.20591
+   Lü LY, 2011, PHYSICA A, V390, P1150, DOI 10.1016/j.physa.2010.11.027
+   Macy MW, 2003, DYNAMIC SOCIAL NETWORK MODELING AND ANALYSIS, P162
+   Martin GJ, 2020, POLIT SCI RES METH, V8, P215, DOI 10.1017/psrm.2018.44
+   McCarty N., 2019, POLARIZATION WHAT EV
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mosleh M, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2022761118
+   Mummolo J, 2017, J POLIT, V79, P45, DOI 10.1086/687569
+   Musco C, 2018, WEB CONFERENCE 2018: PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE (WWW2018), P369, DOI 10.1145/3178876.3186103
+   Mutz DC, 2006, HEARING THE OTHER SIDE: DELIBERATIVE VERSUS PARTICIPATORY DEMOCRACY, P1, DOI 10.2277/ 0521612284
+   Nelimarkka M, 2018, DIS 2018: PROCEEDINGS OF THE 2018 DESIGNING INTERACTIVE SYSTEMS CONFERENCE, P957, DOI 10.1145/3196709.3196764
+   Paluck EL, 2010, PERS SOC PSYCHOL B, V36, P1170, DOI 10.1177/0146167210379868
+   Pettigrew TF, 2006, J PERS SOC PSYCHOL, V90, P751, DOI 10.1037/0022-3514.90.5.751
+   Santos F.P., 2021, P 20 INT C AUTONOMOU
+   Santos FP, 2018, NATURE, V555, P242, DOI 10.1038/nature25763
+   Sanz-Cruzado J, 2018, 12TH ACM CONFERENCE ON RECOMMENDER SYSTEMS (RECSYS), P233, DOI 10.1145/3240323.3240371
+   Sasahara K, 2021, J COMPUT SOC SCI, V4, P381, DOI 10.1007/s42001-020-00084-7
+   Shearer E., 2019, AM ARE WARY ROLE SOC
+   Shmargad Y, 2020, POLIT COMMUN, V37, P423, DOI 10.1080/10584609.2020.1713267
+   Shmargad Y, 2019, INT J COMMUN-US, V13, P2287
+   Stewart AJ, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2102140118
+   Stewart AJ, 2020, SCI ADV, V6, DOI 10.1126/sciadv.abd4201
+   Su J., 2020, P INT AAAI C WEB SOC, P661
+   Su J, 2016, PROCEEDINGS OF THE 25TH INTERNATIONAL CONFERENCE ON WORLD WIDE WEB (WWW'16), P1157, DOI 10.1145/2872427.2883040
+   Sunstein CR, 2007, REPUBLIC.COM 2.0, P1
+   Sunstein C.R., 2018, INT J HUM RIGHTS, V27, P83
+   Sunstein CR, 2002, J POLIT PHILOS, V10, P175, DOI 10.1111/1467-9760.00148
+   Swire-Thompson B, 2020, J APPL RES MEM COGN, V9, P286, DOI 10.1016/j.jarmac.2020.06.006
+   Taber CS, 2006, AM J POLIT SCI, V50, P755, DOI 10.1111/j.1540-5907.2006.00214.x
+   Terveen L., 2005, ACM Transactions on Computer-Human Interaction, V12, P401, DOI 10.1145/1096737.1096740
+   Tokita CK, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2102147118
+   Vasconcelos VV, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2102153118
+   Vasconcelos VV, 2019, J R SOC INTERFACE, V16, DOI 10.1098/rsif.2019.0196
+   Viswanath B, 2009, 2ND ACM SIGCOMM WORKSHOP ON ONLINE SOCIAL NETWORKS (WOSN 09), P37
+   Vosoughi S, 2018, SCIENCE, V359, P1146, DOI 10.1126/science.aap9559
+   Wang X, 2020, PHYS REV X, V10, DOI 10.1103/PhysRevX.10.041042
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Woolley SC, 2016, INT J COMMUN-US, V10, P4882
+   Zignani M., 2014, P INT AAAI C WEB SOC, V8, P564, DOI DOI 10.1609/ICWSM.V8I1.14507
+NR 94
+TC 84
+Z9 92
+U1 15
+U2 109
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+EI 1091-6490
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD DEC 14
+PY 2021
+VL 118
+IS 50
+AR e2102141118
+DI 10.1073/pnas.2102141118
+PG 9
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA XS1ZT
+UT WOS:000732715700008
+PM 34876508
+OA Green Published, Bronze
+DA 2024-11-22
+ER
+
+PT J
+AU Hâncean, MG
+   Lubbers, MJ
+   Molina, JL
+AF Hancean, Marian-Gabriel
+   Jessica Lubbers, Miranda
+   Luis Molina, Jose
+TI Measuring transnational social fields through binational link-tracing
+   sampling
+SO PLOS ONE
+LA English
+DT Article
+ID PERSONAL NETWORK; ASSIMILATION; MIGRATION; SNOWBALL; MIGRANTS; FEATHER;
+   MODELS; BIRDS; TIES
+AB We advance bi-national link-tracing sampling design, an innovative data collection methodology for sampling from so-called "transnational social fields", i.e. transnational networks embedding migrants, returned migrants and non-migrants. This paper describes our contributions to this methodology and its empirical implementation, and evaluates the features of the resulting networks (sample), with the aim to guide future research. We performed 303 face-to-face structured interviews on sociodemographic variables, migration trajectories and personal networks of people living in a Romanian migration sending community (Dambovi?a) and in a migration receiving Spanish town (Castellon). Inter-connecting the personal networks, we built a multi-layered complex network structure embedding 4,855 nominated people, 5,477 directed ties (nominations) and 2,540 edges. Results indicate that the link-tracing nomination patterns are affected by sex and residence homophily. Our research contributes to the emerging efforts of applying social network analysis to the study of international migration.
+C1 [Hancean, Marian-Gabriel] Univ Bucharest, Dept Sociol, Bucharest, Romania.
+   [Jessica Lubbers, Miranda; Luis Molina, Jose] Univ Autonoma Barcelona, Dept Social & Cultural Anthtropol, Barcelona, Spain.
+C3 University of Bucharest; Autonomous University of Barcelona
+RP Hâncean, MG (corresponding author), Univ Bucharest, Dept Sociol, Bucharest, Romania.
+EM gabriel.hancean@sas.unibuc.ro
+RI Molina, Jose Luis/A-7463-2008; Hancean, Marian-Gabriel/B-7145-2019;
+   Lubbers, Miranda/P-1250-2018
+OI Molina, Jose Luis/0000-0002-2932-2690; Hancean,
+   Marian-Gabriel/0000-0001-9358-5287; Lubbers, Miranda/0000-0001-8398-6044
+FU Ministry of Economy, Industry and Competitiveness (MINECO-FEDER, Spain)
+   [CSO201568687-P]; Executive Agency for Higher Education, Research,
+   Development and Innovation Funding [PN-III-P4-ID-PCE-2020-2828]
+FX M.J.L and J.-L.M. received a research grant from the the Ministry of
+   Economy, Industry and Competitiveness (MINECO-FEDER; CSO201568687-P,
+   Spain), and M.-G.H. received a research grant from The Executive Agency
+   for Higher Education, Research, Development and Innovation Funding (with
+   PN-III-P4-ID-PCE-2020-2828). The funders had no role in study design,
+   data collection and analysis, decision to publish, or preparation of the
+   manuscript. Moreover, authors did not receive any salary or other
+   funding from commercial companies.
+CR [Anonymous], 2005, Transnational social fields and imperialism
+   [Anonymous], 2002, Harvard, MA: Analytic Technologies
+   [Anonymous], 2003, statnet: Software tools for the Statistical Modeling of Network Data, DOI DOI 10.1371/journal.pcbi.0020100
+   Beaton DE, 2000, SPINE, V25, P3186, DOI 10.1097/00007632-200012150-00014
+   Bernat JS, 2011, J URBAN REG ANAL, V3, P45
+   Bilecen B, 2018, SOC NETWORKS, V53, P1, DOI 10.1016/j.socnet.2017.07.001
+   Bilecen B, 2015, POPUL SPACE PLACE, V21, P227, DOI 10.1002/psp.1906
+   Brandes U, 2004, MATH VIS, P321
+   Cachia R, 2018, SOC NETWORKS, V53, P111, DOI 10.1016/j.socnet.2017.03.014
+   COLEMAN JS, 1958, HUM ORGAN, V17, P28, DOI 10.17730/humo.17.4.q5604m676260q8n7
+   Crocker L., 2006, INTRO CLASSICAL MODE
+   Dahinden J, 2009, ETHNIC RACIAL STUD, V32, P1365, DOI 10.1080/01419870802506534
+   Erickson BH., 1979, SOCIOL METHODOL, V10, P276, DOI DOI 10.2307/270774
+   Faist T, 2011, MIGRAT MINOR CITIZEN, P1, DOI 10.1057/9780230305694
+   Font J., 2013, Surveying ethnic minorities and immigrant populations
+   Fouron G, 2001, IDENTITIES-GLOB STUD, V7, P539, DOI 10.1080/1070289X.2001.9962678
+   Golinelli D, 2010, FIELD METHOD, V22, P217, DOI 10.1177/1525822X10370796
+   Goodman L.A., 1961, The Annals of Mathematical Statistics, V32, P148, DOI [DOI 10.1214/AOMS/1177705148, 10.1214/aoms/1177705148]
+   Goodreau SM, 2009, DEMOGRAPHY, V46, P103, DOI 10.1353/dem.0.0045
+   GUILLEMIN F, 1993, J CLIN EPIDEMIOL, V46, P1417, DOI 10.1016/0895-4356(93)90142-N
+   Hancean M-G., 2021, **DATA OBJECT**, DOI [10.7910/DVN/XDYGJD, DOI 10.7910/DVN/XDYGJD]
+   Heckathorn DD, 2002, SOC PROBL, V49, P11, DOI 10.1525/sp.2002.49.1.11
+   Heckathorn DD, 1997, SOC PROBL, V44, P174, DOI 10.1525/sp.1997.44.2.03x0221m
+   Heckathorn DD, 2017, ANNU REV SOCIOL, V43, P101, DOI 10.1146/annurev-soc-060116-053556
+   Heckathorn DD, 2011, SOCIOL METHODOL, V41, P355, DOI 10.1111/j.1467-9531.2011.01244.x
+   Hosnedlova R., 2017, B SOCIOLOGICAL METHO, V133, P29, DOI [DOI 10.1177/0759106316681090, 10.1177/0759106316681090]
+   Hunter DR, 2007, SOC NETWORKS, V29, P216, DOI 10.1016/j.socnet.2006.08.005
+   Instituto Nacional de Estadistica, 2017, POP CENS
+   International Organization for Migration, 2017, WORLD MIGRATION REPO
+   KRACKHARDT D, 1988, SOC PSYCHOL QUART, V51, P123, DOI 10.2307/2786835
+   Levitt P, 2004, INT MIGR REV, V38, P1002, DOI 10.1111/j.1747-7379.2004.tb00227.x
+   Levitt P, 2001, GLOBAL NETW, V1, P195, DOI 10.1111/1471-0374.00013
+   Levitt P, 2007, ANNU REV SOCIOL, V33, P129, DOI 10.1146/annurev.soc.33.040406.131816
+   Lopez Jose., 2000, SOCIAL STRUCTURE
+   Lu X, 2013, SOC NETWORKS, V35, P669, DOI 10.1016/j.socnet.2013.10.001
+   Lubbers MJ, 2010, SOC NETWORKS, V32, P91, DOI 10.1016/j.socnet.2009.05.001
+   Lubbers MJ, 2020, INT MIGR REV, V54, P177, DOI 10.1177/0197918318812343
+   Molina JL, 2018, EUR PLAN STUD, V26, P1160, DOI 10.1080/09654313.2018.1455808
+   Lusher D., 2013, EXPONENTIAL RANDOM G, V35
+   Mazzucato Valentina., 2009, Multi-sited Ethnography: Theory, Praxis and Locality in Contemporary Research
+   McCarty C, 2019, Conducting Personal Network Research: A Practical Guide
+   McCarty C, 2007, FIELD METHOD, V19, P145, DOI 10.1177/1525822x06298592
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Merli MG, 2016, MIGR STUD, V4, P182, DOI 10.1093/migration/mnw004
+   Merluzzi J, 2013, SOC NETWORKS, V35, P331, DOI 10.1016/j.socnet.2013.03.004
+   Morris Martina, 2008, J Stat Softw, V24, P1548
+   Mouw T, 2012, SOCIOL METHODOL, V42, P206, DOI 10.1177/0081175012461248
+   Mouw T, 2014, SOC PROBL, V61, P329, DOI 10.1525/sp.2014.12192
+   Ortiz-Ospina Esteban., 2016, OUR WORLD DATA
+   Perneger TV, 2015, QUAL LIFE RES, V24, P147, DOI 10.1007/s11136-014-0752-2
+   Pew Research Center, 2017, PEW RES CTR GLOB ATT
+   Ryan L, 2011, SOCIOL REV, V59, P707, DOI 10.1111/j.1467-954X.2011.02030.x
+   Salganik MJ, 2004, SOCIOL METHODOL, V34, P193, DOI 10.1111/j.0081-1750.2004.00152.x
+   Sariyar M, 2010, R J, V2, P61
+   Saunders M., 2012, RES METHODS BUSINESS
+   Schiller NG, 1999, ETHNIC RACIAL STUD, V22, P340, DOI 10.1080/014198799329512
+   Smith MP, 2005, J ETHN MIGR STUD, V31, P235, DOI 10.1080/1369183042000339909
+   Spreen M., 1992, Bulletin de Mtholodogie Sociologique, V36, P34
+   Thompson SK, 2002, DRUG ALCOHOL DEPEN, V68, pS57
+   United Nations, 2017, INT MIGRATION REPORT
+   United Nations, 2017, World Population Ageing Internet Economics and Social Affaires, DOI DOI 10.18356/88FA44E7
+   Vacca R, 2018, SOC NETWORKS, V53, P72, DOI 10.1016/j.socnet.2016.08.007
+   Verdery AM, 2017, SOCIOL METHODOL, V47, P274, DOI 10.1177/0081175017716489
+   Verdery AM, 2018, SOC NETWORKS, V53, P57, DOI 10.1016/j.socnet.2017.03.002
+   Verdery AM, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0145296
+   Waldinger R., 2005, Ethnicity, social mobility, P342
+   WATTERS JK, 1989, SOC PROBL, V36, P416, DOI 10.1525/sp.1989.36.4.03a00070
+NR 67
+TC 4
+Z9 4
+U1 1
+U2 4
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JUN 14
+PY 2021
+VL 16
+IS 6
+AR e0253042
+DI 10.1371/journal.pone.0253042
+PG 32
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA SW6SI
+UT WOS:000664643500022
+PM 34125853
+OA Green Published, gold, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Quinn, RW
+   Baker, WE
+AF Quinn, Ryan W.
+   Baker, Wayne E.
+TI Positive Emotions, Instrumental Resources, and Organizational Network
+   Evolution: Theorizing via Simulation Research
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE network evolution; positive emotion; relationships; micro-dynamics;
+   tradeoffs; simulation
+ID SOCIAL NETWORKS; INFORMATION-SEEKING; RELATIONAL ENERGY; PATH
+   DEPENDENCE; WORK; EXCHANGE; MOOD; TIES; PERSONALITY; PERFORMANCE
+AB In the workplace, people seek positive emotional experiences as well as instrumental resources while doing their work. Yet we know little about how affective micro-dynamics drive the evolution of organizational networks, influence network trajectories, and determine macro outcomes such as collective affect and overall network structure. Given the lack of theory on affective micro-dynamics and network evolution, we propose a model that includes both affective and instrumental micro-mechanisms and use simulation methods to explore evolutionary dynamics and develop new theory. The core of our model is the empirically observed tendency for people forego the acquisition of instrumental resources to avoid a decrease in positive emotion when choosing inter-action partners. We conduct "experiments" with the simulation, considering the effects of the tradeoff, dispositional affect, resource inequality, and ingroup favoritism. The results show that dispositional affect and the tradeoff have considerable effects on network trajectories, collective affect, and resource transfer. We provide new theoretical propositions about affect in organizations.
+C1 [Quinn, Ryan W.] Univ Louisville, Coll Business, Louisville, KY 40292 USA.
+   [Baker, Wayne E.] Univ Michigan, Stephen M Ross Sch Business, Ann Arbor, MI 48109 USA.
+C3 University of Louisville; University of Michigan System; University of
+   Michigan
+RP Baker, WE (corresponding author), Univ Michigan, Stephen M Ross Sch Business, Ann Arbor, MI 48109 USA.
+EM rwquin01@louisville.edu; wayneb@umich.edu
+CR Ahuja G, 2012, ORGAN SCI, V23, P434, DOI 10.1287/orsc.1110.0695
+   [Anonymous], 2010, SOCIAL NETWORKS
+   [Anonymous], 1992, NETWORKS ORG STRUCTU
+   [Anonymous], 1997, COMPLEXITY COOPERATI
+   [Anonymous], 2003, Positive Organizational Scholarship: Foundations of a New Discipline
+   Argote L, 2000, ORGAN BEHAV HUM DEC, V82, P150, DOI 10.1006/obhd.2000.2893
+   Baker W, 2007, LEAS ORG MAN SERIES, P325
+   Baker WE, 2019, ANNU REV ORGAN PSYCH, V6, P373, DOI 10.1146/annurev-orgpsych-012218-015047
+   Barsade SG, 2002, ADMIN SCI QUART, V47, P644, DOI 10.2307/3094912
+   Barsade SG, 1998, RES MANAG GRP TEAM, V1, P81
+   Barsade SG, 2007, ACAD MANAGE PERSPECT, V21, P36, DOI 10.5465/AMP.2007.24286163
+   Barsade SG, 2012, CURR DIR PSYCHOL SCI, V21, P119, DOI 10.1177/0963721412438352
+   Barsoukova SY, 2003, SOTSIOL ISSLED+, P3
+   Borgatti SP, 2003, MANAGE SCI, V49, P432, DOI 10.1287/mnsc.49.4.432.14428
+   Bratslavsky, 2001, REV GEN PSYCHOL, V5, P323, DOI [10.1037/1089-2680.5.4.323, DOI 10.1037/1089-2680.5.4.323]
+   BREWER MB, 1979, PSYCHOL BULL, V86, P307, DOI 10.1037/0033-2909.86.2.307
+   Bruch H., 2011, Fully charged: How great leaders boost their organization's energy and ignite high performance
+   Burlingham B., 2005, SMALL GIANTS
+   Burt RS, 2004, AM J SOCIOL, V110, P349, DOI 10.1086/421787
+   Burt RS, 2000, SOC NETWORKS, V22, P1, DOI 10.1016/S0378-8733(99)00015-5
+   Cameron K., 2012, POSITIVE LEADERSHIP
+   Carvin J.W., 2005, PIECE PIE
+   Casciaro T, 2015, ORGAN SCI, V26, P373, DOI 10.1287/orsc.2014.0939
+   Casciaro T, 2008, ADMIN SCI QUART, V53, P655, DOI 10.2189/asqu.53.4.655
+   Cohen D., 2001, GOOD CO SOCIAL CAPIT
+   COHEN MD, 1972, ADMIN SCI QUART, V17, P1, DOI 10.2307/2392088
+   Cole MS, 2012, J ORGAN BEHAV, V33, P445, DOI 10.1002/job.759
+   COLLINS R, 1981, AM J SOCIOL, V86, P984, DOI 10.1086/227351
+   COLLINS R, 1993, RATION SOC, V5, P203, DOI 10.1177/1043463193005002005
+   Collins R., 1990, RES AGENDAS SOCIOLOG, P27
+   Collins Randall., 2005, INTERACTION RITUAL C
+   Cross R, 2004, SOCIAL CAPTIAL AND INFORMATION TECHNOLOGY, P137
+   Cross R, 2004, ORGAN SCI, V15, P446, DOI 10.1287/orsc.1040.0075
+   Cross R, 2003, MIT SLOAN MANAGE REV, V44, P51
+   Cross R., 2007, CALIFORNIA MANAGEMEN, V44, P25
+   Cross R L, 2004, HIDDEN POWER SOCIAL
+   DAVID PA, 1985, AM ECON REV, V75, P332
+   Davis JP, 2007, ACAD MANAGE REV, V32, P480, DOI 10.5465/AMR.2007.24351453
+   Doreian P, 2001, J MATH SOCIOL, V25, P43, DOI 10.1080/0022250X.2001.9990244
+   Doreian P., 1997, EVOLUTION SOCIAL NET, P1
+   Doreian P., 2012, SOCIAL NETWORKS, V34
+   Feeney BC, 2003, J PERS SOC PSYCHOL, V85, P945, DOI 10.1037/0022-3514.85.5.945
+   Felin T, 2016, CALIF MANAGE REV, V58, P78, DOI 10.1525/cmr.2016.58.4.78
+   Fowler JH, 2008, BMJ-BRIT MED J, V337, DOI 10.1136/bmj.a2338
+   Fredrickson B.L., 2013, Love 2.0: How our supreme emotion affects everything we feel, think, do
+   George J M, 1992, Psychol Bull, V112, P310, DOI 10.1037/0033-2909.112.2.310
+   George JM, 2016, ORGAN BEHAV HUM DEC, V136, P47, DOI 10.1016/j.obhdp.2016.06.004
+   GEORGE JM, 1990, J APPL PSYCHOL, V75, P107, DOI 10.1037/0021-9010.75.2.107
+   Gibson CB, 2003, J APPL SOC PSYCHOL, V33, P2153, DOI 10.1111/j.1559-1816.2003.tb01879.x
+   Gittell JodyHoffer., 2003, SW AIRLINES WAY
+   Golden-Biddle K, 2007, LEAS ORG MAN SERIES, P289
+   Goldman A., 2006, J MANAGERIAL PSYCHOL, V21
+   Guzzo RA, 1996, ANNU REV PSYCHOL, V47, P307, DOI 10.1146/annurev.psych.47.1.307
+   Hansen MT, 1999, ADMIN SCI QUART, V44, P82, DOI 10.2307/2667032
+   Harrison JR, 2007, ACAD MANAGE REV, V32, P1229, DOI 10.5465/AMR.2007.26586485
+   Hatfield Elaine., 1992, EMOTION SOCIAL BEHAV
+   HUBERMAN BA, 1993, P NATL ACAD SCI USA, V90, P7716, DOI 10.1073/pnas.90.16.7716
+   Kelly JR, 2001, ORGAN BEHAV HUM DEC, V86, P99, DOI 10.1006/obhd.2001.2974
+   Kilduff M., 2003, NETWORKS ORG
+   Kotler P, 2006, HARVARD BUS REV, V84, P68
+   KRACKHARDT D, 1988, SOC PSYCHOL QUART, V51, P123, DOI 10.2307/2786835
+   Labianca G, 2006, ACAD MANAGE REV, V31, P596, DOI [10.5465/AMR.2006.21318920, 10.2307/20159231]
+   Lawler EJ, 1999, ANNU REV SOCIOL, V25, P217, DOI 10.1146/annurev.soc.25.1.217
+   Lawler EJ, 1996, AM SOCIOL REV, V61, P89, DOI 10.2307/2096408
+   Lawler EJ, 2001, AM J SOCIOL, V107, P321, DOI 10.1086/324071
+   LAWLER EJ, 1993, AM SOCIOL REV, V58, P465, DOI 10.2307/2096071
+   Lawler EJ, 2000, AM J SOCIOL, V106, P616, DOI 10.1086/318965
+   Lewis T., 2000, GEN THEORY LOVE
+   LINCOLN JR, 1979, ADMIN SCI QUART, V24, P181, DOI 10.2307/2392493
+   Manz CC, 2009, ORGAN DYN, V38, P239, DOI 10.1016/j.orgdyn.2009.04.006
+   MARKS SR, 1977, AM SOCIOL REV, V42, P921, DOI 10.2307/2094577
+   McCarty C, 2001, HUM ORGAN, V60, P28, DOI 10.17730/humo.60.1.efx5t9gjtgmga73y
+   Miller JH, 2007, PRINC STUD COMPLEX, P1, DOI 10.1007/1-4020-5602-8_1
+   Monge P.R., 2001, The new handbook of organizational communication: Advances in theory, research, and methods, P440
+   MORRISON EW, 1993, ACAD MANAGE J, V36, P557, DOI 10.5465/256592
+   Obstfeld D, 2005, ADMIN SCI QUART, V50, P100, DOI 10.2189/asqu.2005.50.1.100
+   Owens BP, 2016, J APPL PSYCHOL, V101, P35, DOI 10.1037/apl0000032
+   Pfeffer J., 1979, EXTERNAL CONTROL ORG
+   Pierson P, 2000, AM POLIT SCI REV, V94, P251, DOI 10.2307/2586011
+   Puranam P., 2015, J ORGAN DES, V4, P2
+   Quinn RW, 2012, ACAD MANAG ANN, V6, P337, DOI 10.1080/19416520.2012.676762
+   Reagans R, 2005, MANAGE SCI, V51, P869, DOI 10.1287/mnsc.1050.0366
+   Ryan RM, 2000, AM PSYCHOL, V55, P68, DOI 10.1037/0003-066X.55.1.68
+   Sasovova Z, 2010, ADMIN SCI QUART, V55, P639, DOI 10.2189/asqu.2010.55.4.639
+   SMITH GF, 1988, MANAGE SCI, V34, P1489, DOI 10.1287/mnsc.34.12.1489
+   Snell S.A., 2011, UVAS0187
+   Snijders TAB, 2010, SOC NETWORKS, V32, P1, DOI 10.1016/j.socnet.2009.12.002
+   Sparrowe RT, 2005, ADMIN SCI QUART, V50, P505, DOI 10.2189/asqu.50.4.505
+   STAW BM, 1993, ADMIN SCI QUART, V38, P304, DOI 10.2307/2393415
+   Sterman JohnD., 2000, BUSINESS DYNAMICS
+   Stokman F.N., 1997, Evolution of social networks, P233
+   Sy T, 2005, J APPL PSYCHOL, V90, P295, DOI 10.1037/0021-9010.90.2.295
+   Sydow J, 2009, ACAD MANAGE REV, V34, P689, DOI 10.5465/AMR.2009.44885978
+   Szulanski G, 1996, STRATEGIC MANAGE J, V17, P27, DOI 10.1002/smj.4250171105
+   TAYLOR SE, 1991, PSYCHOL BULL, V110, P67, DOI 10.1037/0033-2909.110.1.67
+   Totterdell P, 2004, J APPL PSYCHOL, V89, P854, DOI 10.1037/0021-9010.89.5.854
+   Tröster C, 2019, ACAD MANAGE J, V62, P22, DOI 10.5465/amj.2016.0914
+   Verduyn P, 2015, MOTIV EMOTION, V39, P119, DOI 10.1007/s11031-014-9445-y
+   ZAJONC RB, 1980, AM PSYCHOL, V35, P151, DOI 10.1037/0003-066X.35.2.151
+NR 99
+TC 4
+Z9 4
+U1 3
+U2 25
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JAN
+PY 2021
+VL 64
+BP 212
+EP 224
+DI 10.1016/j.socnet.2020.08.007
+PG 13
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA OU4MZ
+UT WOS:000591504700008
+DA 2024-11-22
+ER

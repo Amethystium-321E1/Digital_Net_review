@@ -1,0 +1,596 @@
+
+PT J
+AU Pilditch, TD
+   Roozenbeek, J
+   Madsen, JK
+   van der Linden, S
+AF Pilditch, Toby D.
+   Roozenbeek, Jon
+   Madsen, Jens Koed
+   van der Linden, Sander
+TI Psychological inoculation can reduce susceptibility to misinformation in
+   large rational agent networks
+SO ROYAL SOCIETY OPEN SCIENCE
+LA English
+DT Article
+DE misinformation; inoculation theory; complex systems; belief updating
+ID RESISTANCE; MODELS; SIMULATION; OPINION
+AB The unchecked spread of misinformation is recognized as an increasing threat to public, scientific and democratic health. Online networks are a contributing cause of this spread, with echo chambers and polarization indicative of the interplay between the search behaviours of users and reinforcement processes within the system they inhabit. Recent empirical work has focused on interventions aimed at inoculating people against misinformation, yielding success on the individual level. However, given the evolving, dynamic information context of online networks, important questions remain regarding how such inoculation interventions interact with network systems. Here we use an agent-based model of a social network populated with belief-updating users. We find that although equally rational agents may be assisted by inoculation interventions to reject misinformation, even among such agents, intervention efficacy is temporally sensitive. We find that as beliefs disseminate, users form self-reinforcing echo chambers, leading to belief consolidation-irrespective of their veracity. Interrupting this process requires 'front-loading' of inoculation interventions by targeting critical thresholds of network users before consolidation occurs. We further demonstrate the value of harnessing tipping point dynamics for herd immunity effects, and note that inoculation processes do not necessarily lead to increased rates of 'false-positive' rejections of truthful communications.
+C1 [Pilditch, Toby D.] Univ Oxford, Sch Geog & Environm, South Parks Rd, Oxford OX1 3QY, England.
+   [Pilditch, Toby D.] UCL, Dept Psychol, Language Studies, Gower St, London WC1E 6BT, England.
+   [Roozenbeek, Jon; van der Linden, Sander] Univ Cambridge, Sch Biol, Dept Psychol, Cambridge Social Decis Making Lab, Cambridge CB2 3RQ, England.
+   [Madsen, Jens Koed] London Sch Econ, Dept Psychol & Behav Sci, Kings Way, London WC2A 2AE, England.
+C3 University of Oxford; University of London; University College London;
+   University of Cambridge; University of London; London School Economics &
+   Political Science
+RP Pilditch, TD (corresponding author), Univ Oxford, Sch Geog & Environm, South Parks Rd, Oxford OX1 3QY, England.; Pilditch, TD (corresponding author), UCL, Dept Psychol, Language Studies, Gower St, London WC1E 6BT, England.
+EM toby.pilditch@ouce.ox.ac.uk
+OI Roozenbeek, Jon/0000-0002-8150-9305; Madsen, Jens
+   Koed/0000-0003-2405-8496
+FU IRIS Coalition (UK Government) [SCH-00001-3391]; Economic and Social
+   Research Council(ESRC) [ES/V011960/1]; British Academy [PF21\210010];
+   JITSUVAX [964728]; ESRC [ES/V011960/1] Funding Source: UKRI
+FX We thank the IRIS Coalition (UK Government, no. SCH-00001-3391),
+   Economic and Social Research Council(ESRC, no. ES/V011960/1), British
+   Academy (no. PF21\210010) and JITSUVAX (EU 2020 Horizon no.
+   964728)grants awarded to S.v.d.L. and J.R.
+CR [Anonymous], 2012, Bayesian Argumentation, DOI DOI 10.1007/978-94-007-5357-0
+   Arceneaux K, 2021, PHILOS T R SOC B, V376, DOI 10.1098/rstb.2020.0147
+   Arun C., 2019, EC POLIT WEEKLY, V54, P30
+   Bailey RM., 2018, SUSTAINABILITY SCI, V14, P1
+   Banas JA, 2010, COMMUN MONOGR, V77, P281, DOI 10.1080/03637751003758193
+   Bandini S, 2009, JASSS-J ARTIF SOC S, V12, pA51
+   Basol M, 2021, BIG DATA SOC, V8, DOI 10.1177/20539517211013868
+   Basol Melisa, 2020, J Cogn, V3, P2, DOI 10.5334/joc.91
+   Bonabeau E, 2002, P NATL ACAD SCI USA, V99, P7280, DOI 10.1073/pnas.082080899
+   Bovens L., 2003, Bayesian Epistemology
+   Braddock K, 2022, TERROR POLIT VIOLENC, V34, P240, DOI 10.1080/09546553.2019.1693370
+   Brainard J, 2020, SIMUL-T SOC MOD SIM, V96, P365, DOI 10.1177/0037549719885021
+   Budak C., 2011, P 20 INT C WORLD WID, P665, DOI DOI 10.1145/1963405.1963499
+   Cialdini R., 1984, INFLUENCE PSYCHOL PE
+   Cinelli M, 2020, SCI REP-UK, V10, DOI 10.1038/s41598-020-73510-5
+   Compton J, 2021, SOC PERSONAL PSYCHOL, V15, DOI 10.1111/spc3.12602
+   Compton J, 2009, COMMUN THEOR, V19, P9, DOI 10.1111/j.1468-2885.2008.01330.x
+   Conley ThomasM., 1990, RHETORIC EUROPEAN TR
+   Cook J, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0175799
+   Duggins P, 2017, Arxiv, DOI arXiv:1406.7770
+   Epstein J.M., 1997, GROWING ARTIFICIAL S
+   Fränken JP, 2021, JASSS-J ARTIF SOC S, V24, DOI 10.18564/jasss.4566
+   Gilbert N.G., 2008, AGENT BASED MODELS
+   Grazzini J, 2015, J ECON DYN CONTROL, V51, P148, DOI 10.1016/j.jedc.2014.10.006
+   Guess AM, 2020, P NATL ACAD SCI USA, V117, P15536, DOI 10.1073/pnas.1920498117
+   Gustafsson L, 2010, MATH BIOSCI, V225, P94, DOI 10.1016/j.mbs.2010.02.003
+   Harris AJL, 2016, COGNITIVE SCI, V40, P1496, DOI 10.1111/cogs.12276
+   Heath B, 2009, JASSS-J ARTIF SOC S, V12, pA143
+   Ingram David., 2020, NBC News
+   Ivanov B, 2012, J COMMUN, V62, P701, DOI 10.1111/j.1460-2466.2012.01658.x
+   Jin F., 2013, P 7 WORKSH SOC NETW, P1, DOI [DOI 10.1145/2501025.2501027, 10.1145/2501025.2501027]
+   Johnson N., 2007, Simply complexity: A clear guide to complexity theory
+   Jolley D, 2017, J APPL SOC PSYCHOL, V47, P459, DOI 10.1111/jasp.12453
+   Kucharski A, 2016, NATURE, V540, P525, DOI 10.1038/540525a
+   Lewandowsky S, 2021, EUR REV SOC PSYCHOL, V32, P348, DOI 10.1080/10463283.2021.1876983
+   Lewandowsky S, 2019, COGNITION, V188, P124, DOI 10.1016/j.cognition.2019.01.011
+   Lewandowsky S, 2017, J APPL RES MEM COGN, V6, P353, DOI 10.1016/j.jarmac.2017.07.008
+   Lloyd A., 2017, Journal of Information Literacy, V11, P91, DOI DOI 10.11645/11.1.2185
+   Loomba S, 2021, NAT HUM BEHAV, V5, P337, DOI 10.1038/s41562-021-01056-1
+   Madsen J. K., 2016, P 38 ANN C COGN SCI, P165
+   Madsen JK, 2019, CURR DIR PSYCHOL SCI, V28, P299, DOI 10.1177/0963721419834547
+   Madsen JK, 2018, SCI REP-UK, V8, DOI 10.1038/s41598-018-25558-7
+   Madsen JK, 2018, PLOS ONE, V13, DOI 10.1371/journal.pone.0193909
+   Maertens R, 2021, J EXP PSYCHOL-APPL, V27, P1, DOI 10.1037/xap0000315
+   Maertens R, 2020, J ENVIRON PSYCHOL, V70, DOI 10.1016/j.jenvp.2020.101455
+   MCGUIRE WJ, 1961, J ABNORM SOC PSYCH, V62, P327, DOI 10.1037/h0042026
+   MCGUIRE WJ, 1964, ADV EXP SOC PSYCHOL, V1, P191, DOI 10.1016/S0065-2601(08)60052-0
+   McLane AJ, 2011, ECOL MODEL, V222, P1544, DOI 10.1016/j.ecolmodel.2011.01.020
+   Niazi M, 2009, IEEE COMMUN MAG, V47, P166, DOI 10.1109/MCOM.2009.4804403
+   Olsson Erik J., 2013, Bayesian Argumentation. Ed. by
+   Pettigrew R, 2016, PHILOS PHENOMEN RES, V92, P35, DOI 10.1111/phpr.12097
+   Pilditch TD, 2021, JASSS-J ARTIF SOC S, V24, DOI 10.18564/jasss.4452
+   Roozenbeek J., 2020, HARVARD KENNEDY SCH, DOI DOI 10.37016/MR-2020-47
+   Roozenbeek J, 2021, EDUC PSYCHOL MEAS, V81, P340, DOI 10.1177/0013164420940378
+   Roozenbeek J, 2019, PALGR COMMUN, V5, DOI 10.1057/s41599-019-0279-9
+   Roozenbeek J, 2019, J RISK RES, V22, P570, DOI 10.1080/13669877.2018.1443491
+   Saleh NF, 2024, BEHAV PUBLIC POLICY, V8, P548, DOI 10.1017/bpp.2020.60
+   Schelling T., 1978, MICROMOTIVES MACROBE
+   Simons HW, 2011, PERSUASION IN SOCIETY, 2ND EDITION, P1
+   Thiele JC, 2014, J STAT SOFTW, V58, P1
+   Van Bavel JJ, 2020, NAT HUM BEHAV, V4, P460, DOI 10.1038/s41562-020-0884-z
+   van der Linden S., 2021, PSYCHOL FAKE NEWS AC, V1st, P147, DOI 10.4324/9780429295379-11
+   van der Linden S, 2021, SPAN J PSYCHOL, V24, DOI 10.1017/SJP.2021.23
+   van Der Linden S, 2020, FRONT PSYCHOL, V11, DOI 10.3389/fpsyg.2020.566790
+   van der Linden S, 2017, SCIENCE, V358, P1141, DOI 10.1126/science.aar4533
+   van der Linden S, 2017, GLOB CHALL, V1, DOI 10.1002/gch2.201600008
+   Walton G, 2018, J LIBR INF SCI, V50, P296, DOI 10.1177/0961000618769980
+   Wilensky U., 2015, An introduction to agent-based modeling: modeling natural, social, and engineered complex systems with NetLogo
+   Wilson TD, 1999, J DOC, V55, P249, DOI 10.1108/EUM0000000007145
+NR 69
+TC 5
+Z9 7
+U1 3
+U2 26
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 2054-5703
+J9 ROY SOC OPEN SCI
+JI R. Soc. Open Sci.
+PD AUG 10
+PY 2022
+VL 9
+IS 8
+AR 211953
+DI 10.1098/rsos.211953
+PG 21
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 3Q8NQ
+UT WOS:000838481500009
+PM 35958086
+OA Green Published, Green Accepted, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Tao, H
+AF Tao, Han
+TI Loving strangers, avoiding risks: Online dating practices and scams
+   among Chinese lesbian (<i>lala</i>) women
+SO MEDIA CULTURE & SOCIETY
+LA English
+DT Article
+DE China; intimacy; lesbian; moral panic; online anonymity; online dating;
+   romance fraud; stranger sociality
+AB The proliferating online social networking sites have created opportunities for Chinese queer women to meet new friends and lovers; yet, research on lesbian online dating in mainland China is scarce compared to heterosexual and gay online dating. This article investigates lesbian/lala women's online dating experiences in the context of economic reforms and the trust crisis in urban China. It is based on 16 in-depth interviews and ethnographic fieldwork in Guangdong from June 2018 to July 2019. It focuses on two digital platforms: Douban Group and WeChat. This article explores how online anonymity and stranger sociality shaped queer women's moral practices regarding turning virtual strangers into real-life partners. Queer women in this research expressed concerns about being cheated by low quality(suzhi) lovers, swindlers, and married women. This article suggests that the emerging online stranger sociality has both enabled and constrained lesbian/lala women's practice of seeking loving relationships, while they must internalize the potential risks by themselves.
+C1 [Tao, Han] Univ Sussex, Brighton, E Sussex, England.
+C3 University of Sussex
+RP Tao, H (corresponding author), Univ Sussex, Anthropol, Brighton BN1 9RH, E Sussex, England.
+EM ht292@sussex.ac.uk
+OI Tao, Han/0000-0002-8810-2647
+CR Aldridge J, 2019, MEDIA CULT SOC, V41, P578, DOI 10.1177/0163443719842075
+   Anagnost A, 2004, PUBLIC CULTURE, V16, P189, DOI 10.1215/08992363-16-2-189
+   [Anonymous], 2015, TRUE LOVE CAME CHINA
+   Bao Hongwei., 2018, QUEER COMRADES GAY I
+   Berlant L, 1998, CRIT INQUIRY, V24, P281, DOI 10.1086/448875
+   Bray F, 2008, EAST ASIAN SCI TECHN, V2, P151, DOI 10.1007/s12280-008-9051-8
+   Chan LS, 2018, COMMUN CULT CRIT, V11, P298, DOI 10.1093/ccc/tcy004
+   Chao Y.Antonia., 1999, Sex, Sexuality, and the Anthropologist, P128
+   Dasgupta R.K., 2017, DIGITAL QUEER CULTUR
+   Dasgupta RK, 2018, SEXUALITIES, V21, P932, DOI 10.1177/1363460716677285
+   Engebretsen Elisabeth., 2014, QUEER WOMEN URBAN CH
+   Fei X., 1992, From the Soil, the Foundations of Chinese Society: a Translation of Fei Xiaotong's Xiangtu Zhongguo, with an Introduction and Epilogue
+   Fu X., 2015, QUEERTONGZHI CHINA N, P17
+   Hanckel B, 2019, MEDIA CULT SOC, V41, P1261, DOI 10.1177/0163443719846612
+   Heino RD, 2010, J SOC PERS RELAT, V27, P427, DOI 10.1177/0265407510361614
+   Ho L., 2008, ASIAN STUD REV, V32, P491, DOI [DOI 10.1080/10357820802492586, 10.1080/10357820802492586]
+   Ho LWW, 2009, ROUTL CONTEMP ASIA, P1
+   Kam L.Y.L., 2013, SHANGHAI LALAS FEMAL
+   Kipnis A, 2007, J ROY ANTHROPOL INST, V13, P383, DOI 10.1111/j.1467-9655.2007.00432.x
+   Kleinman A, 2011, DEEP CHINA: THE MORAL LIFE OF THE PERSON, WHAT ANTHROPOLOGY AND PSYCHIATRY TELL US ABOUT CHINA TODAY, P1
+   Lee Haiyan., 2014, The Stranger and the Chinese Moral Imagination
+   Liu TT, 2016, CONTINUUM-J MEDIA CU, V30, P557, DOI 10.1080/10304312.2016.1210794
+   Miller D., 2016, WORLD CHANGED SOCIAL, DOI [10.14324/111.9781910634493, DOI 10.14324/111.9781910634493]
+   Miller Daniel., 2003, GLOBALIZATION, P39
+   Povinelli ElizabethA., 2006, EMPIRE LOVE THEORY I
+   Rege A, 2009, INT J CYBER CRIMINOL, V3, P494
+   Rofel Lisa., 2007, DESIRING CHINA EXPT
+   Sardá T, 2019, MEDIA CULT SOC, V41, P557, DOI 10.1177/0163443719842074
+   Skinner J., 2012, INTERVIEW ETHNOGRAPH
+   Sveningsson Malin., 2002, Digital Borderlands: Cultural Studies of Identity and Interactivity on the Internet, P48
+   Tang DTS, 2017, MEDIA CULT SOC, V39, P816, DOI 10.1177/0163443717693680
+   Tillmann-Healy LM, 2003, QUAL INQ, V9, P729, DOI 10.1177/1077800403254894
+   United Nations Development Programme, 2016, Being LGBTI in China - A National Survey on Social Attitudes towards Sexual Orientation, Gender Identity and Gender Expression
+   Wei J, 2020, QUEER ASIA, P1
+   Xu AQ, 2014, J COMP FAM STUD, V45, P31
+   Yan YX, 2017, CAMB J ANTHROPOL, V35, P1, DOI 10.3167/cja.2017.350202
+   Yan YX, 2011, DEEP CHINA: THE MORAL LIFE OF THE PERSON, WHAT ANTHROPOLOGY AND PSYCHIATRY TELL US ABOUT CHINA TODAY, P36
+   Zhai X., 2019, EXPLORATION FREE VIE, V6, P20
+NR 38
+TC 3
+Z9 5
+U1 12
+U2 52
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0163-4437
+EI 1460-3675
+J9 MEDIA CULT SOC
+JI Media Cult. Soc.
+PD SEP
+PY 2022
+VL 44
+IS 6
+BP 1199
+EP 1214
+AR 01634437221088952
+DI 10.1177/01634437221088952
+EA APR 2022
+PG 16
+WC Communication; Sociology
+WE Social Science Citation Index (SSCI)
+SC Communication; Sociology
+GA 3O2LG
+UT WOS:000781948300001
+OA hybrid
+DA 2024-11-22
+ER
+
+PT J
+AU León, B
+   Martínez-Costa, MP
+   Salaverría, R
+   López-Goñi, I
+AF Leon, Bienvenido
+   Martinez-Costa, Maria-Pilar
+   Salaverria, Ramon
+   Lopez-Goni, Ignacio
+TI Health and science-related disinformation on COVID-19: A content
+   analysis of hoaxes identified by fact-checkers in Spain
+SO PLOS ONE
+LA English
+DT Article
+ID FAKE NEWS; SOCIAL MEDIA
+AB A massive "infodemic" developed in parallel with the global COVID-19 pandemic and contributed to public misinformation at a time when access to quality information was crucial. This research aimed to analyze the science and health-related hoaxes that were spread during the pandemic with the objectives of (1) identifying the characteristics of the form and content of such false information, and the platforms used to spread them, and (2) formulating a typology that can be used to classify the different types of hoaxes according to their connection with scientific information. The study was conducted by analyzing the content of hoaxes which were debunked by the three main fact-checking organizations in Spain in the three months following WHO's announcement of the pandemic (N = 533). The results indicated that science and health content played a prominent role in shaping the spread of these hoaxes during the pandemic. The most common hoaxes on science and health involved information on scientific research or health management, used text, were based on deception, used real sources, were international in scope, and were spread through social networks. Based on the analysis, we proposed a system for classifying science and health-related hoaxes, and identified four types according to their connection to scientific knowledge: "hasty" science, decontextualized science, badly interpreted science, and falsehood without a scientific basis. The rampant propagation and widespread availability of disinformation point to the need to foster media and scientific caution and literacy among the public and increase awareness of the importance of timing and substantiation of scientific research. The results can be useful in improving media literacy to face disinformation, and the typology we formulate can help develop future systems for automated detection of health and science-related hoaxes.
+C1 [Leon, Bienvenido; Martinez-Costa, Maria-Pilar; Salaverria, Ramon] Univ Navarra, Journalism Fac, Dept Journalism Projects, Pamplona, Spain.
+   [Lopez-Goni, Ignacio] Univ Navarra, Med Fac, Dept Microbiol & Parasitol, Pamplona, Spain.
+C3 University of Navarra; University of Navarra
+RP León, B (corresponding author), Univ Navarra, Journalism Fac, Dept Journalism Projects, Pamplona, Spain.
+EM bleon@unav.es
+RI Leon, Bienvenido/L-1090-2016; Salaverria, Ramon/D-8527-2013;
+   Martinez-Costa Perez, Maria del Pilar/N-7963-2017
+OI Salaverria, Ramon/0000-0002-4188-7811; Martinez-Costa Perez, Maria del
+   Pilar/0000-0002-6564-0207; Leon, Bienvenido/0000-0001-8556-9367
+FU RRSSalud, via the BBVA Foundation, within the Grants for Scientific
+   Research Teams-Economy and Digital Society, 2019; IBERIFIER-Iberian
+   Digital Media Research and Fact-Checking Hub, via the European
+   Commission under (European Digital Media Observatory) [CEF-TC-2020-2,
+   2020-EU-IA-0252]
+FX This study was funded by RRSSalud, via the BBVA Foundation, within the
+   Grants for Scientific Research Teams-Economy and Digital Society, 2019.
+   This study was also funded by IBERIFIER-Iberian Digital Media Research
+   and Fact-Checking Hub, via the European Commission under the call
+   CEF-TC-2020-2 (European Digital Media Observatory), grant number
+   2020-EU-IA-0252. The grants were not specifically assigned to any author
+   but to the whole project. The funders had no role in study design, data
+   collection and analysis, decision to publish, or preparation of the
+   manuscript.
+CR Agullo J., 2020, ENTENDER CONSUMO MED
+   Akbar Syeda Zainab, 2020, Proceedings of the ACM on Human-Computer Interaction, V4, DOI 10.1145/3432948
+   Al-Zaman MS, 2021, JOURNAL MEDIA, V2, P100, DOI 10.3390/journalmedia2010007
+   Alkhodair SA, 2020, INFORM PROCESS MANAG, V57, DOI 10.1016/j.ipm.2019.02.016
+   Allcott H, 2017, J ECON PERSPECT, V31, P211, DOI 10.1257/jep.31.2.211
+   Andi S, 2020, DIGIT JOURNAL, V9, P106, DOI 10.1080/21670811.2020.1847674
+   [Anonymous], 2020, MALDITAES
+   [Anonymous], INT FACT CHECK NETW
+   Bastani P., 2020, PREPRINT, DOI [10.2196/18932, DOI 10.2196/18932]
+   Bastos MT, 2019, SOC SCI COMPUT REV, V37, P38, DOI 10.1177/0894439317734157
+   Braun JA, 2019, DIGIT JOURNAL, V7, P1, DOI 10.1080/21670811.2018.1556314
+   Broniatowski DA., 2020, PREPRINT
+   Chou WYS, 2018, JAMA-J AM MED ASSOC, V320, P2417, DOI 10.1001/jama.2018.16865
+   Cinelli Matteo, 2020, Sci Rep, V10, P16598, DOI 10.1038/s41598-020-73510-5
+   Cortada JW., 2019, LONG HIST LIES MISIN
+   Craft S, 2017, COMMUN PUBLIC, V2, P388, DOI 10.1177/2057047317725539
+   Denery DG., 2016, DEVIL WINS HIST LYIN
+   European Center for Disease Prevention and Control [Internet, 2020, STOCKH COVID 19 SIT
+   Fraustino JD, 2018, SOCIAL MEDIA AND CRISIS COMMUNICATION, P283
+   Gautret P, 2020, INT J ANTIMICROB AG, V56, DOI 10.1016/j.ijantimicag.2020.105949
+   Graves L, 2016, J COMMUN, V66, P102, DOI 10.1111/jcom.12198
+   Grimes DR, 2021, PLOS ONE, V16, DOI 10.1371/journal.pone.0245900
+   Hsieh H.-F., 2005, Qualitative Health Research, V15, P1277, DOI [DOI 10.1177/1049732305276687, 10.1177/1049732305276687]
+   Jankowski NW, 2018, JAVNOST-PUBLIC, V25, P248, DOI 10.1080/13183222.2018.1418964
+   Kim HK, 2020, SCI COMMUN, V42, P586, DOI 10.1177/1075547020959670
+   Kouzy R, 2020, CUREUS J MED SCIENCE, V12, DOI 10.7759/cureus.7255
+   Krippendorff K., 2009, CONTENT ANAL INTRO I
+   Lazer DMJ, 2018, SCIENCE, V359, P1094, DOI 10.1126/science.aao2998
+   Leiserowitz A., 2015, YALE PROJECT CLIMATE, P1
+   maldita.es, 2020, MALDITAES INTERNET
+   maldita.es, MALDITAES INTERNET
+   Masip P., 2020, EPI EXPANDED PROGRAM, V29, pe290312, DOI [10.3145/epi.2020.may.12, DOI 10.3145/EPI.2020.MAY.12]
+   Mehra MR, 2020, LANCET, V395, P1820, DOI [10.1016/S0140-6736(20)31324-6, 10.1016/S0140-6736(20)31180-6]
+   Mejova Y., 2021, PREPRINT
+   Montesi M, 2021, J LIBR INF SCI, V53, P454, DOI 10.1177/0961000620949653
+   Moreno A, 2020, PROF INFORM, V29, DOI 10.3145/epi.2020.jul.02
+   newtral.es, NEWTRALES INTERNET
+   Nielsen R., 2020, NAVIGATING INFODEMIC
+   Nightingale S, 2021, PREPRINT
+   Nsoesie EO, 2020, J MED INTERNET RES, V22, DOI 10.2196/24425
+   Pradhan P, 2020, bioRxiv, DOI [10.1101/2020.01.30.927871, 10.1101/2020.01.30.927871v2, DOI 10.1101/2020.01.30.927871, 10.1101/2020.01.30.927871]
+   Quandt T., 2019, The International Encyclopedia of Journalism Studies, P1, DOI [10.1002/9781118841570.iejs0128, DOI 10.1002/9781118841570.IEJS0128]
+   Roozenbeek J, 2020, ROY SOC OPEN SCI, V7, DOI 10.1098/rsos.201199
+   Salaverría R, 2020, PROF INFORM, V29, DOI 10.3145/epi.2020.may.15
+   Scott Brennen J., 2020, TYPES
+   Sommariva S, 2018, AM J HEALTH EDUC, V49, P246, DOI 10.1080/19325037.2018.1473178
+   Tai ZX, 2007, NEW MEDIA SOC, V9, P987, DOI 10.1177/1461444807082691
+   Tandoc EC, 2021, MEDIA COMMUN-LISBON, V9, P110, DOI 10.17645/mac.v9i1.3331
+   Tandoc EC, 2018, DIGIT JOURNAL, V6, P137, DOI 10.1080/21670811.2017.1360143
+   Verifica, 2020, DATA BREACH INVESTIG
+   Wardle C., 2019, 1 DRAFT INTERNET
+   Waszak PM, 2018, HEALTH POLICY TECHN, V7, P115, DOI 10.1016/j.hlpt.2018.03.002
+   World Health Organization, 2020, Geneva. Novel Coronavirus-China. OMS. Emergencies preparedness
+   Yang KC, 2021, BIG DATA SOC, V8, DOI 10.1177/20539517211013861
+NR 54
+TC 22
+Z9 22
+U1 2
+U2 20
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PY 2022
+VL 17
+IS 4
+AR e0265995
+DI 10.1371/journal.pone.0265995
+PG 18
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA 1A8IV
+UT WOS:000791994200028
+PM 35417493
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Kozitsin, IV
+AF Kozitsin, Ivan V.
+TI Formal models of opinion formation and their application to real data:
+   evidence from online social networks
+SO JOURNAL OF MATHEMATICAL SOCIOLOGY
+LA English
+DT Article
+DE Opinion formation models; French-DeGroot model; bounded confidence
+   models
+ID DYNAMICS; CONVERGENCE; EVOLUTION; TUTORIAL; SCIENCE
+AB In this paper, we analyze data on the opinion dynamics of 1,660,927 users of an online social network using formal models of opinion formation. We have observed that moderate users have a tendency to follow the average opinion of their online friends, which we interpret as a presence of bounded confidence. Further, we have discovered that the probability of moving toward the average opinion goes down if the difference between it and the user's opinion is too large. Another interesting feature uncovered is that if a user's opinion and the average opinion of their online friends are very similar, the influence also decreases.
+C1 [Kozitsin, Ivan V.] Russian Acad Sci, Lab Complex Networks, VA Trapeznikov Inst Control Sci, Moscow, Russia.
+   [Kozitsin, Ivan V.] Moscow Inst Phys & Technol, Phystech Sch Appl Math & Informat, Dolgoprudnyi 117997, Moscow Region, Russia.
+C3 Russian Academy of Sciences; V.A. Trapeznikov Institute of Control
+   Sciences, Russian Academy of Sciences; Moscow Institute of Physics &
+   Technology
+RP Kozitsin, IV (corresponding author), Moscow Inst Phys & Technol, Phystech Sch Appl Math & Informat, Dolgoprudnyi 117997, Moscow Region, Russia.
+EM kozitsin.ivan@mail.ru
+RI Koz, Ivan/AAJ-4817-2021
+OI Kozitsin, Ivan/0000-0002-2638-0131
+FU Russian Foundation for Basic Research [18-29-22042]
+FX This work was supported by the Russian Foundation for Basic Research,
+   project no. 18-29-22042.
+CR Abid Ons, 2018, Online Social Networks and Media, V6, P1, DOI 10.1016/j.osnem.2018.02.002
+   Acemoglu D, 2011, DYN GAMES APPL, V1, P3, DOI 10.1007/s13235-010-0004-1
+   [Anonymous], 2018, [No title captured], P44
+   Axelrod R, 1997, J CONFLICT RESOLUT, V41, P203, DOI 10.1177/0022002797041002001
+   Barberá P, 2015, POLIT ANAL, V23, P76, DOI 10.1093/pan/mpu011
+   Castellano C, 2009, REV MOD PHYS, V81, P591, DOI 10.1103/RevModPhys.81.591
+   Chkhartishvili A. G., 2018, SOCIAL NETWORKS MODE, V189
+   Colleoni E, 2014, J COMMUN, V64, P317, DOI 10.1111/jcom.12084
+   Deffuant G, 2000, APPLICATIONS OF SIMULATION TO SOCIAL SCIENCES, P87, DOI 10.1142/S0219525900000078
+   DEGROOT MH, 1974, J AM STAT ASSOC, V69, P118, DOI 10.2307/2285509
+   Flache A, 2017, JASSS-J ARTIF SOC S, V20, DOI 10.18564/jasss.3521
+   Frasca P, 2019, AUTOMATICA, V100, P153, DOI 10.1016/j.automatica.2018.11.017
+   FRENCH JRP, 1956, PSYCHOL REV, V63, P181, DOI 10.1037/h0046123
+   FRIEDKIN NE, 1990, J MATH SOCIOL, V15, P193, DOI 10.1080/0022250X.1990.9990069
+   Friedkin NE, 2016, SOCIOL SCI, V3, P444, DOI 10.15195/v3.a20
+   Friedkin NE, 2016, SCIENCE, V354, P321, DOI 10.1126/science.aag2624
+   Golbeck J, 2011, 29TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, P1105
+   Harary F., 1959, CRITERION UNANIMITY
+   Hegselmann R, 2002, JASSS-J ARTIF SOC S, V5
+   Holme P, 2006, PHYS REV E, V74, DOI 10.1103/PhysRevE.74.056108
+   Hooijsma M, 2020, NETW SCI, V8, P79, DOI 10.1017/nws.2020.1
+   Jia P, 2017, SIAM J CONTROL OPTIM, V55, P1280, DOI 10.1137/16M1065677
+   Kozitsin I. V., 2020, Mathematical Models and Computer Simulations, V12, P185, DOI 10.1134/S2070048220020088
+   Kozitsin I.V., 2019, 12 INT C MANAGEMENT, P1, DOI [10.1109/MLSD.2019.8911064, DOI 10.1109/MLSD.2019.8911064]
+   Kozitsin IV, 2019, J MATH SOCIOL, V43, P104, DOI 10.1080/0022250X.2018.1531398
+   Kurahashi-Nakamura T, 2016, JASSS-J ARTIF SOC S, V19, DOI 10.18564/jasss.3220
+   Longo A, 2019, 2019 18TH EUROPEAN CONTROL CONFERENCE (ECC), P3526, DOI [10.23919/ECC.2019.8795675, 10.23919/ecc.2019.8795675]
+   Mäs M, 2010, PLOS COMPUT BIOL, V6, DOI 10.1371/journal.pcbi.1000959
+   Makazhanov A, 2014, SOC NETW ANAL MIN, V4, DOI 10.1007/s13278-014-0193-5
+   Mei W., 2019, ARXIV PREPRINT ARXIV, V1909
+   Newman MEJ, 2018, PHYS REV E, V98, DOI 10.1103/PhysRevE.98.062321
+   Newman MEJ, 2018, NAT PHYS, V14, P542, DOI 10.1038/s41567-018-0076-1
+   Parsegov SE, 2017, IEEE T AUTOMAT CONTR, V62, P2270, DOI 10.1109/TAC.2016.2613905
+   Peshkovskaya A., 2017, DO WOMEN SOCIALIZE B
+   Petrov A. P., 2020, Mathematical Models and Computer Simulations, V12, P154, DOI 10.1134/S207004822002009X
+   Proskurnikov AV, 2018, ANNU REV CONTROL, V45, P166, DOI 10.1016/j.arcontrol.2018.03.005
+   Proskurnikov AV, 2017, IFAC PAPERSONLINE, V50, P11896, DOI 10.1016/j.ifacol.2017.08.1424
+   Proskurnikov AV, 2017, ANNU REV CONTROL, V43, P65, DOI 10.1016/j.arcontrol.2017.03.002
+   Quattrociocchi W, 2014, SCI REP-UK, V4, DOI 10.1038/srep04938
+   Ravazzi C, 2018, IEEE DECIS CONTR P, P2452, DOI 10.1109/CDC.2018.8619770
+   Ravazzi C, 2018, IEEE T CONTROL NETW, V5, P1976, DOI 10.1109/TCNS.2017.2781367
+   Sherif M., 1967, Attitude, ego-involvement, and change, P105
+   Steglich C, 2010, SOCIOL METHODOL, V40, P329, DOI 10.1111/j.1467-9531.2010.01225.x
+   Tannenbaum C, 2019, NATURE, V575, P137, DOI 10.1038/s41586-019-1657-6
+   Wai HT, 2016, IEEE T SIGNAL INF PR, V2, P406, DOI 10.1109/TSIPN.2016.2555785
+NR 45
+TC 17
+Z9 18
+U1 3
+U2 21
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 0022-250X
+EI 1545-5874
+J9 J MATH SOCIOL
+JI J. Math. Sociol.
+PD APR 3
+PY 2022
+VL 46
+IS 2
+BP 120
+EP 147
+DI 10.1080/0022250X.2020.1835894
+EA OCT 2020
+PG 28
+WC Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods; Sociology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Mathematical Methods In Social Sciences; Sociology
+GA ZX3DG
+UT WOS:000582877000001
+DA 2024-11-22
+ER
+
+PT J
+AU Kusumastuti, RD
+   Nurmala, N
+   Rouli, J
+   Herdiansyah, H
+AF Kusumastuti, Ratih Dyah
+   Nurmala, N.
+   Rouli, Juliana
+   Herdiansyah, Herdis
+TI Analyzing the factors that influence the seeking and sharing of
+   information on the smart city digital platform: Empirical evidence from
+   Indonesia
+SO TECHNOLOGY IN SOCIETY
+LA English
+DT Article
+DE Seeking information; Sharing information; Digital platform; Smart city;
+   Indonesia
+ID SOCIAL MEDIA; INITIATIVES; GOVERNANCE; PRIVACY; SUSTAINABILITY;
+   MANAGEMENT; GOVERNMENT; INTENTION; INTERNET; BEHAVIOR
+AB Smart city initiatives are considered as the solutions for urban problems. One dimension of a smart city, i.e., smart people/society, suggests that a smart city requires high-quality social interactions and social relationships that help cities connect with their residents and the outside world. For this purpose, smart cities in Indonesia have developed digital platforms (internet websites and mobile applications) to disseminate the cities' programs and information and facilitate sharing of information among its residents. This study aimed to investigate the factors that affect the seeking and sharing of information on the smart city digital platforms. We used a quantitative approach by conducting surveys in 8 smart cities in Indonesia, with 1161 respondents. The survey data were analyzed using structural equation modeling (SEM). The results showed that social factors (sense of belonging and seeking reputations) have dominant roles in determining residents' intention to seek information on smart city platforms. In turn, the intention to seek information is the key factor that affects the residents' intention to share information on the smart city platforms and on their online social network. This paper provides insights on the factors that need more attention from smart city administrators to improve resident engagement and enhance the dimension of smart people.
+C1 [Kusumastuti, Ratih Dyah; Nurmala, N.; Rouli, Juliana] Univ Indonesia, Fac Econ & Business, Dept Management, Depok, Indonesia.
+   [Herdiansyah, Herdis] Univ Indonesia, Sch Environm Sci, Depok, Indonesia.
+C3 University of Indonesia; University of Indonesia
+RP Kusumastuti, RD (corresponding author), Univ Indonesia, Fac Econ & Business, Dept Management, Depok, Indonesia.
+EM ratih.dyah@ui.ac.id
+RI Kusumastuti, Ratih/ABG-9460-2020; Nurmala, N/JUF-0251-2023; Herdiansyah,
+   Herdis/K-3075-2019
+OI Kusumastuti, Ratih Dyah/0000-0001-9827-7718; Nurmala,
+   N/0000-0002-0314-4195
+FU Indonesian Ministry of Higher Education, Research and
+   Technology/National Bureau for Research and Innovation [NKB-2678/UN2.
+   RST/HKP.05.00/2020]
+FX The authors would like to thank all the respondents and informants who
+   supported this research. This work was funded by the Indonesian Ministry
+   of Higher Education, Research and Technology/National Bureau for
+   Research and Innovation under Grant Number NKB-2678/UN2.
+   RST/HKP.05.00/2020.
+CR Afonso R.A., 2015, P 16 ANN INT C DIGIT, P230, DOI [10.1145/2757401.2757426, DOI 10.1145/2757401.2757426]
+   Albarracin D, 2018, ANNU REV PSYCHOL, V69, P299, DOI 10.1146/annurev-psych-122216-011911
+   Albino V, 2015, J URBAN TECHNOL, V22, P3, DOI 10.1080/10630732.2014.942092
+   Alsabi E, 2016, FRONT ARTIF INTEL AP, V280, P166, DOI 10.3233/978-1-61499-611-8-166
+   [Anonymous], 2015, WEBMEDIA 2015 P 21 B, DOI DOI 10.1145/2820426.2820458
+   Anthopoulos L, 2015, 2015 IEEE FIRST INTERNATIONAL SMART CITIES CONFERENCE (ISC2)
+   APEC, 2021, APEC CAS STUD BEST P
+   Appio FP, 2019, TECHNOL FORECAST SOC, V142, P1, DOI 10.1016/j.techfore.2018.12.018
+   Azjen, 1991, THEORY PLANNED BEHAV, V211, P179
+   Bifulco F, 2016, INT J PUBLIC SECT MA, V29, P132, DOI 10.1108/IJPSM-07-2015-0132
+   Bock GW, 2005, MIS QUART, V29, P87, DOI 10.2307/25148669
+   BPS, 2018, IND POP PROJ 2015 20
+   BPS, 2021, STAT IND 2021 STAT I
+   Braga IFB, 2021, TECHNOL SOC, V66, DOI 10.1016/j.techsoc.2021.101687
+   Cai ZJ, 2019, J ORGAN BEHAV, V40, P209, DOI 10.1002/job.2347
+   Cardullo P, 2019, GEOJOURNAL, V84, P1, DOI 10.1007/s10708-018-9845-8
+   Chen YH, 2010, J BUS RES, V63, P1007, DOI 10.1016/j.jbusres.2009.01.023
+   Chen YC, 2018, PUBLIC MANAG REV, V20, P672, DOI 10.1080/14719037.2017.1305691
+   Cho T.L., 2019, REV INTEGRATIVE BUSI, V8, P253
+   Choque J, 2019, SENSORS-BASEL, V19, DOI 10.3390/s19020411
+   Chow WS, 2008, INFORM MANAGE-AMSTER, V45, P458, DOI 10.1016/j.im.2008.06.007
+   Criado J. I., 2019, INT J PUBLIC SECT MA, V32, P438, DOI [https://doi.org/10.1108/IJPSM-07-2019-0178, DOI 10.1108/IJPSM-07-2019-0178]
+   Cronemberger F., 2019, Setting foundations for the creation of public value in smart cities, P247, DOI DOI 10.1007/978-3-319-98953-2_10
+   Degenne A., 1999, Introducing Social Networks, DOI [DOI 10.4135/9781849209373, 10.4135/9781849209373]
+   Faber A, 2018, INFORMATION, V9, DOI 10.3390/info9110270
+   FORNELL C, 1981, J MARKETING RES, V18, P39, DOI 10.2307/3151312
+   Gao Z, 2020, SUSTAINABILITY-BASEL, V12, DOI 10.3390/su12208605
+   Garton L., 2006, J COMPUT-MEDIAT COMM, V3, DOI DOI 10.1111/J.1083-6101.1997.TB00062.X
+   Giffinger R., 2007, CENT REG SCI VIENNA, V9, P1
+   Gil-Garcia JR, 2021, URBAN AFF REV, V57, P8, DOI 10.1177/1078087419843190
+   Goecks J., 2004, Computer Supported Cooperative Work Conference Proceedings, P328, DOI 10.1145/1031607.1031660
+   González-Rodríguez M, 2021, EUR J CLIN NUTR, V75, P748, DOI 10.1038/s41430-020-00786-1
+   Hair JF., 2017, INT J MULTIVARIATE D, V1, P107, DOI [10.1504/IJMDA.2017.10008574, DOI 10.1504/IJMDA.2017.087624]
+   Ham CD, 2019, INT J MARKET RES, V61, P157, DOI 10.1177/1470785318782790
+   Hsu CL, 2007, OMEGA-INT J MANAGE S, V35, P715, DOI 10.1016/j.omega.2006.03.005
+   Huang Z, 2017, ELECTRON COMMER R A, V25, P40, DOI 10.1016/j.elerap.2017.08.003
+   Jones A, 2020, CAN J ADM SCI, V37, P13, DOI 10.1002/cjas.1546
+   Kavoura A, 2015, EUROMED J BUS, V10, P360, DOI 10.1108/EMJB-03-2015-0016
+   Kim AJ, 2012, J BUS RES, V65, P1480, DOI 10.1016/j.jbusres.2011.10.014
+   Kusumastuti R. D., 2021, IOP Conference Series: Earth and Environmental Science, DOI 10.1088/1755-1315/940/1/012076
+   Kwak YH, 2023, IEEE T ENG MANAGE, V70, P740, DOI 10.1109/TEM.2021.3060956
+   Kwon KH, 2014, AM BEHAV SCI, V58, P1345, DOI 10.1177/0002764214527092
+   Lee CS, 2012, COMPUT HUM BEHAV, V28, P331, DOI 10.1016/j.chb.2011.10.002
+   Lipizzi C, 2016, TECHNOL FORECAST SOC, V109, P35, DOI 10.1016/j.techfore.2016.05.013
+   Liu JQ, 2019, SUSTAINABILITY-BASEL, V11, DOI 10.3390/su11164461
+   Löfgren K, 2020, BIG DATA SOC, V7, DOI 10.1177/2053951720912775
+   Long Q.X., 2020, NAT MED, DOI [10.1038/s41591-020-0897-1, DOI 10.1038/S41591-020-0897-1]
+   Luo XM, 2002, IND MARKET MANAG, V31, P111, DOI 10.1016/S0019-8501(01)00182-1
+   Maji K.J., 2016, RECENT DEV NEW DIREC, V342, DOI [10.1007/978-3-319-32229-2, DOI 10.1007/978-3-319-32229-2]
+   de Fuentes JM, 2018, COMPUTER, V51, P44, DOI 10.1109/MC.2018.3011042
+   Mayangsari L, 2015, PROCEDIA MANUF, V4, P315, DOI 10.1016/j.promfg.2015.11.046
+   Mills LA, 2014, COMPUT HUM BEHAV, V32, P324, DOI 10.1016/j.chb.2013.08.008
+   Mizuno Y, 2015, PORTL INT CONF MANAG, P612, DOI 10.1109/PICMET.2015.7273158
+   Moustaka V, 2019, TECHNOL FORECAST SOC, V142, P285, DOI 10.1016/j.techfore.2018.10.026
+   Nam T., 2011, P 12 ANN INT C DIG G, P282, DOI DOI 10.1145/2037556.2037602
+   O'Grady M, 2012, SCIENCE, V335, P1581, DOI 10.1126/science.1217637
+   Offenhuber D, 2019, ENVIRON PLAN B-URBAN, V46, P1565, DOI 10.1177/2399808319865749
+   Pardini K, 2020, SENSORS-BASEL, V20, DOI 10.3390/s20082380
+   Park JH, 2014, COMPUT HUM BEHAV, V31, P1, DOI 10.1016/j.chb.2013.10.002
+   Parusheva S, 2020, TEM J, V9, P55, DOI 10.18421/TEM91-09
+   Paskaleva K, 2017, INFORMATICS-BASEL, V4, DOI 10.3390/informatics4040041
+   Pereira GV, 2017, INFORM TECHNOL DEV, V23, P526, DOI 10.1080/02681102.2017.1353946
+   Pereira GV, 2017, INFORM SYST FRONT, V19, P213, DOI 10.1007/s10796-016-9673-7
+   Phang A., 2009, Journalism Mass Communication Educator, V64, P156
+   Pi SL, 2017, FRONT BUS RES CHINA, V11, DOI 10.1186/s11782-017-0021-7
+   Piccoli G., 2012, Essentials of information systems for managers
+   Pratama AB, 2018, VOPR GOS MUNITSIPALN, P65, DOI 10.17323/1999-5431-2018-0-6-65-83
+   Preston S, 2020, ENERGIES, V13, DOI 10.3390/en13246615
+   Radulescu CM, 2020, SUSTAINABILITY-BASEL, V12, DOI 10.3390/su12031042
+   Ridings C, 2006, COMMUN ASSOC INF SYS, V18, P329
+   Rizkinaswara L., 2018, Gerakan menuju 100 Smart city
+   Romano M, 2016, SENSORS-BASEL, V16, DOI 10.3390/s16030406
+   Rouli J., 2021, J ENV SCI SUSTAIN DE, V4, P1, DOI [10.7454/jessd.v4i1.1109, DOI 10.7454/JESSD.V4I1.1109]
+   Sahel S., 2020, INT REV MANAG MARKET, V8, P1
+   Schäfer S, 2020, COMPUT HUM BEHAV, V103, P1, DOI 10.1016/j.chb.2019.08.031
+   Scholl HJ, 2016, SOC SCI INFORM, V55, P255, DOI 10.1177/0539018416629230
+   Shipman T, 2015, COLL RES LIBR, V76, P120, DOI 10.5860/crl.76.2.120
+   Sodiq A, 2019, J CLEAN PROD, V227, P972, DOI 10.1016/j.jclepro.2019.04.106
+   Soyata T, 2019, SUSTAIN CITIES SOC, V50, DOI 10.1016/j.scs.2019.101566
+   Staletic N, 2020, CITIES, V107, DOI 10.1016/j.cities.2020.102883
+   Stefanone MA, 2013, INFORM COMMUN SOC, V16, P61, DOI 10.1080/1369118X.2012.656137
+   Steiger JH, 2007, PERS INDIV DIFFER, V42, P893, DOI 10.1016/j.paid.2006.09.017
+   Supangkat S H., 2018, Journal of Asia-Pasific Studies, V32, P169
+   Todorova N, 2018, INT J KNOWL MANAG, V14, P1, DOI 10.4018/IJKM.2018070101
+   Trivedi N, 2018, INFORM SYST FRONT, V20, P239, DOI 10.1007/s10796-016-9719-x
+   Tse R, 2016, MOBILE NETW APPL, V21, P688, DOI 10.1007/s11036-016-0725-5
+   Nguyen TM, 2019, VINE J INF KNOWL MAN, V49, P76, DOI 10.1108/VJIKMS-10-2018-0086
+   United Nations, 2018, 68 WORLD POPULATION
+   Vaskelainen T, 2018, SUSTAINABILITY-BASEL, V10, DOI 10.3390/su10082927
+   Vuori V, 2012, J KNOWL MANAG, V16, P592, DOI 10.1108/13673271211246167
+   Yeh HP, 2017, GOV INFORM Q, V34, P556, DOI 10.1016/j.giq.2017.05.001
+   Yi Y, 2013, J BUS RES, V66, P1279, DOI 10.1016/j.jbusres.2012.02.026
+   Yuksel K, 2020, SENSORS-BASEL, V20, DOI 10.3390/s20061567
+   Zhao HP, 2020, INFORM PROCESS MANAG, V57, DOI 10.1016/j.ipm.2020.102354
+   Zubizarreta I, 2016, J URBAN PLAN DEV, V142, DOI 10.1061/(ASCE)UP.1943-5444.0000282
+NR 95
+TC 25
+Z9 25
+U1 6
+U2 40
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0160-791X
+EI 1879-3274
+J9 TECHNOL SOC
+JI Technol. Soc.
+PD FEB
+PY 2022
+VL 68
+AR 101876
+DI 10.1016/j.techsoc.2022.101876
+EA JAN 2022
+PG 13
+WC Social Issues; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Issues; Social Sciences - Other Topics
+GA 2Q5VN
+UT WOS:000820489800012
+OA hybrid
+DA 2024-11-22
+ER

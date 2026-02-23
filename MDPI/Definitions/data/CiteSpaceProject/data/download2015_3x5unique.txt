@@ -1,0 +1,531 @@
+
+PT J
+AU Ma, XP
+   Sayama, H
+AF Ma, Xinpei
+   Sayama, Hiroki
+TI Mental disorder recovery correlated with centralities and interactions
+   on an online social network
+SO PEERJ
+LA English
+DT Article
+DE Social media; Mental disorder; Social network; Patient-to-patient
+   network; PatientsLikeMe; Non-drug treatments
+ID SELF-HELP; HEALTH; SUPPORT; MEDIA; ACCESS
+AB Recent research has established both a theoretical basis and strong empirical evidence that effective social behavior plays a beneficial role in the maintenance of physical and psychological well-being of people. To test whether social behavior and well-being are also associated in online communities, we studied the correlations between the recovery of patients with mental disorders and their behaviors in online social media. As the source of the data related to the social behavior and progress of mental recovery, we used PatientsLikeMe (PLM), the world's first open-participation research platformfor the development of patient-centered health outcome measures. We first constructed an online social network structure based on patient-to-patient ties among 200 patients obtained from PLM. We then characterized patients' online social activities by measuring the numbers of "posts and views" and " helpful marks" each patient obtained. The patients' recovery data were obtained from their self-reported status information that was also available on PLM. We found that some node properties (in-degree, eigenvector centrality and PageRank) and the two online social activity measures were significantly correlated with patients' recovery. Furthermore, we re-collected the patients' recovery data two months after the first data collection. We found significant correlations between the patients' social behaviors and the second recovery data, which were collected two months apart. Our results indicated that social interactions in online communities such as PLM were significantly associated with the current and future recoveries of patients with mental disorders.
+C1 [Ma, Xinpei] Ctr Collect Dynam Complex Syst, New York, NY 13244 USA.
+   SUNY Binghamton, Dept Syst Sci & Ind Engn, Binghamton, NY USA.
+C3 State University of New York (SUNY) System; Binghamton University, SUNY
+RP Ma, XP (corresponding author), Ctr Collect Dynam Complex Syst, New York, NY 13244 USA.
+EM Xma5@binghamton.edu
+RI Sayama, Hiroki/GQH-1782-2022
+OI Sayama, Hiroki/0000-0002-2670-5864
+CR Ali K, 2015, JMIR MENT HEALTH, V2, DOI 10.2196/mental.4418
+   Andersson G, 2005, BRIT J PSYCHIAT, V187, P456, DOI 10.1192/bjp.187.5.456
+   Bampo M, 2008, INFORM SYST RES, V19, P273, DOI 10.1287/isre.1070.0152
+   Bastian M, 2009, GEPHI OPEN SOURCE SO, DOI [DOI 10.1609/ICWSM.V3I1.13937, 10.13140/2.1.1341.1520]
+   Borgatti SP, 2009, SCIENCE, V323, P892, DOI 10.1126/science.1165821
+   Chen J, 2016, ADM POLICY MENT HLTH, V43, P535, DOI 10.1007/s10488-015-0657-6
+   Cohen S, 2004, AM PSYCHOL, V59, P676, DOI 10.1037/0003-066X.59.8.676
+   Cothrel J., 1999, Journal of Knowledge Management, V3, P54, DOI 10.1108/13673279910259394
+   Davis L, 2014, PSYCHIAT RES, V215, P39, DOI 10.1016/j.psychres.2013.09.010
+   De Hert M, 2011, WORLD PSYCHIATRY, V10, P138
+   DeRubeis RJ, 2001, HDB COGNITIVE BEHAV, V3, P277
+   Doherty I., 2008, Health Care Informatics Review Online, V12, P49
+   Eysenbach G, 2014, J MED INTERNET RES, V16, P4, DOI [10.2196/jmir.3304, 10.2196/jmir.3358]
+   Farrell SP, 2003, ARCH PSYCHIAT NURS, V17, P20, DOI 10.1053/apnu.2003.4
+   Fieldhouse, 2003, BRIT J OCCUPATIONAL, V166, P286, DOI DOI 10.1177/030802260306600702
+   Fox S, 2009, SOCIAL LIFE HLTH INF
+   Frost J, 2011, J MED INTERNET RES, V13, P129, DOI 10.2196/jmir.1643
+   Frost JH, 2008, J MED INTERNET RES, V10, DOI 10.2196/jmir.1053
+   Hawn C, 2009, HEALTH AFFAIR, V28, P361, DOI 10.1377/hlthaff.28.2.361
+   Hsiung RC, 2000, CYBERPSYCHOL BEHAV, V3, P935, DOI 10.1089/109493100452200
+   Hu Yifan., 2011, COMBINATORIAL SCI CO, V5, P180
+   Insung Ihm, 1991, Scientific Visualization of Physical Phenomena, P545
+   Kessler RC, 2005, ARCH GEN PSYCHIAT, V62, P593, DOI 10.1001/archpsyc.62.6.593
+   Koffmann A., 2014, Introduction to psychological theories and psychotherapy
+   Kummervold PE, 2002, NORD J PSYCHIAT, V56, P59, DOI 10.1080/08039480252803945
+   Leinbaugh T., 2001, Journal of Mental Health Counseling, V23, P36
+   Leslie DL, 1999, AM J PSYCHIAT, V156, P1250
+   Morris RR, 2015, J MED INTERNET RES, V17, DOI 10.2196/jmir.4167
+   Myneni S, 2013, STUD HEALTH TECHNOL, V192, P807, DOI 10.3233/978-1-61499-289-9-807
+   Neiger BL, 2012, HEALTH PROMOT PRACT, V13, P159, DOI 10.1177/1524839911433467
+   Newman MEJ, 2005, SOC NETWORKS, V27, P39, DOI 10.1016/j.socnet.2004.11.009
+   Page L., 1998, PAGERANK CITATION RA, P161, DOI DOI 10.1007/978-3-319-08789-4_10
+   Perry BL, 2015, SOC SCI MED, V125, P116, DOI 10.1016/j.socscimed.2013.12.033
+   Sadavoy J, 2004, CAN J PSYCHIAT, V49, P192, DOI 10.1177/070674370404900307
+   Snijders TAB, 2001, SOCIOL METHODOL, V31, P361, DOI 10.1111/0081-1750.00099
+   Valente Thomas W, 2008, Connect (Tor), V28, P16
+   Van De Belt TH, 2010, J MED INTERNET RES, V12, DOI 10.2196/jmir.1350
+   WAKEFIELD JC, 1992, AM PSYCHOL, V47, P373, DOI 10.1037/0003-066X.47.3.373
+   Walshaw C., 2001, GRAPH DRAWING
+   Wells M, 2007, CYBERPSYCHOL BEHAV, V10, P453, DOI 10.1089/cpb.2006.9933
+   Wicks P, 2010, J MED INTERNET RES, V12, DOI 10.2196/jmir.1549
+   Yan L., 2010, EMPIRICAL STUDY ONLI
+NR 42
+TC 8
+Z9 9
+U1 1
+U2 19
+PU PEERJ INC
+PI LONDON
+PA 341-345 OLD ST, THIRD FLR, LONDON, EC1V 9LL, ENGLAND
+SN 2167-8359
+J9 PEERJ
+JI PeerJ
+PD AUG 20
+PY 2015
+VL 3
+AR e1163
+DI 10.7717/peerj.1163
+PG 15
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA CQ8HJ
+UT WOS:000360847400003
+PM 26312174
+OA Green Submitted, Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Birkett, M
+   Kuhns, LM
+   Latkin, C
+   Muth, S
+   Mustanski, B
+AF Birkett, Michelle
+   Kuhns, Lisa M.
+   Latkin, Carl
+   Muth, Stephen
+   Mustanski, Brian
+TI The Sexual Networks of Racially Diverse Young Men Who Have Sex with Men
+SO ARCHIVES OF SEXUAL BEHAVIOR
+LA English
+DT Article
+DE Sexual networks; HIV; Young men; Gay; Sexual orientation
+ID UNPROTECTED ANAL INTERCOURSE; HIV RISK BEHAVIORS; NEW-YORK-CITY; SOCIAL
+   NETWORKS; CONCURRENT PARTNERSHIPS; TRANSMITTED INFECTIONS; CONDOM
+   PROBLEMS; UNITED-STATES; PREVALENCE; PREDICTORS
+AB Young men who have sex with men are at increased risk for HIV. Research with older men and high-risk populations suggests that network dynamics may contribute to the spread of infectious disease and HIV, but little is known about the sexual networks of young men who have sex with men. Utilizing a unique dataset, this study presents novel descriptive data about the sexual networks of racially diverse 17- to 23-year-old young men who have sex with men. Additionally, individual, partner, and network characteristics of these young men who have sex with men were examined as potential drivers of HIV, STI, and unprotected intercourse. Results indicated several partner- and network-level factors associated with HIV and associated outcomes.
+C1 [Birkett, Michelle; Mustanski, Brian] Northwestern Univ, Dept Med Social Sci, Feinberg Sch Med, Chicago, IL 60611 USA.
+   [Kuhns, Lisa M.] Lurie Childrens Hosp Chicago, Adolescent Med, Chicago, IL 60611 USA.
+   [Muth, Stephen] Quintus Ential Solut, Colorado Springs, CO 80903 USA.
+   [Latkin, Carl] Johns Hopkins Univ, Dept Hlth Behav & Soc, Baltimore, MD 21205 USA.
+   [Latkin, Carl] Johns Hopkins Univ, Dept Epidemiol, Baltimore, MD 21205 USA.
+C3 Northwestern University; Feinberg School of Medicine; Ann & Robert H.
+   Lurie Children's Hospital of Chicago; Johns Hopkins University; Johns
+   Hopkins University
+RP Birkett, M (corresponding author), Northwestern Univ, Dept Med Social Sci, Feinberg Sch Med, Chicago, IL 60611 USA.
+EM birkett@northwestern.edu
+RI Kuhns, Lisa/ABF-9280-2020; Mustanski, Brian/GSN-2423-2022
+OI Mustanski, Brian/0000-0001-9222-5116
+FU NIAID NIH HHS [P30 AI094189] Funding Source: Medline; NIDA NIH HHS [R01
+   DA025548, K08 DA037825, R03 DA033906] Funding Source: Medline
+CR Adimora AA, 2007, AM J PUBLIC HEALTH, V97, P2230, DOI 10.2105/AJPH.2006.099069
+   Amirkhanian YA, 2006, INT J STD AIDS, V17, P50, DOI 10.1258/095646206775220504
+   Amirkhanian YA, 2014, CURR HIV-AIDS REP, V11, P81, DOI 10.1007/s11904-013-0194-4
+   [Anonymous], 2002, Harvard, MA: Analytic Technologies
+   Bingham TA, 2003, AIDS EDUC PREV, V15, P39, DOI 10.1521/aeap.15.1.5.39.23613
+   Bocour A, 2011, JAIDS-J ACQ IMM DEF, V58, P417, DOI 10.1097/QAI.0b013e318230e6d9
+   Bohl DD, 2009, SEX TRANSM INFECT, V85, P367, DOI 10.1136/sti.2009.036723
+   Centers for Disease Control, 2013, HIV SURV REP 2011, V23
+   Clerkin EM, 2011, J BEHAV MED, V34, P237, DOI 10.1007/s10865-010-9306-4
+   Cooper ML, 2010, J PERS SOC PSYCHOL, V98, P319, DOI 10.1037/a0017785
+   Drumright LN, 2010, SEX TRANSM INFECT, V86, P17, DOI 10.1136/sti.2010.045914
+   El-Bassel N, 2006, J URBAN HEALTH, V83, P602, DOI 10.1007/s11524-006-9075-0
+   Ellen JM, 2006, SEX TRANSM DIS, V33, P18, DOI 10.1097/01.olq.0000187213.07551.a6
+   Friedman SR, 1997, AM J PUBLIC HEALTH, V87, P1289, DOI 10.2105/AJPH.87.8.1289
+   Greene GJ, 2014, ARCH SEX BEHAV, V43, P73, DOI 10.1007/s10508-013-0210-1
+   Harper GW, 2013, AIDS BEHAV, V17, P1082, DOI 10.1007/s10461-012-0178-1
+   Hollstein B., 2011, SAGE HDB SOCIAL NETW
+   Tieu HV, 2014, SEX TRANSM DIS, V41, P200, DOI 10.1097/OLQ.0000000000000090
+   Johnson BT, 2010, AIDS BEHAV, V14, pS204, DOI 10.1007/s10461-010-9803-z
+   KANDEL DB, 1978, AM J SOCIOL, V84, P427, DOI 10.1086/226792
+   Kelly JA, 2010, AIDS EDUC PREV, V22, P483, DOI 10.1521/aeap.2010.22.6.483
+   Kretzschmar M, 1996, MATH BIOSCI, V133, P165, DOI 10.1016/0025-5564(95)00093-3
+   Kretzschmar M, 2012, AIDS BEHAV, V16, P1746, DOI 10.1007/s10461-012-0254-6
+   Kuhns L. M., CONNECTIONS IN PRESS
+   Latkin C, 2012, AIDS BEHAV, V16, P535, DOI 10.1007/s10461-011-0014-z
+   Latkin CA, 2003, SOC SCI MED, V56, P465, DOI 10.1016/S0277-9536(02)00047-3
+   MacKellar DA, 2005, JAIDS-J ACQ IMM DEF, V38, P603, DOI 10.1097/01.qai.0000141481.48348.7e
+   Marsden PV, 2002, SOC NETWORKS, V24, P407, DOI 10.1016/S0378-8733(02)00016-3
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Meyer IH, 2009, J COUNS PSYCHOL, V56, P23, DOI 10.1037/a0014587
+   Millett GA, 2007, AIDS, V21, P2083, DOI 10.1097/QAD.0b013e3282e9a64b
+   Morris M, 1997, AIDS, V11, P641, DOI 10.1097/00002030-199705000-00012
+   Morris M, 1996, AIDS, V10, P1265, DOI 10.1097/00002030-199609000-00013
+   Morris M, 2009, AM J PUBLIC HEALTH, V99, P1023, DOI 10.2105/AJPH.2008.147835
+   Mustanski B, 2007, HEALTH PSYCHOL, V26, P618, DOI 10.1037/0278-6133.26.5.618
+   Mustanski B, 2015, AIDS BEHAV, V19, P1037, DOI 10.1007/s10461-014-0955-0
+   Mustanski B, 2014, SEX TRANSM DIS, V41, P427, DOI 10.1097/OLQ.0000000000000150
+   Mustanski B, 2011, HEALTH PSYCHOL, V30, P597, DOI 10.1037/a0023858
+   Mustanski BS, 2011, J SEX RES, V48, P218, DOI 10.1080/00224499.2011.558645
+   NEAIGUS A, 1994, SOC SCI MED, V38, P67, DOI 10.1016/0277-9536(94)90301-8
+   Newcomb ME, 2014, DRUG ALCOHOL DEPEN, V141, P65, DOI 10.1016/j.drugalcdep.2014.05.005
+   Newcomb ME, 2014, ARCH SEX BEHAV, V43, P61, DOI 10.1007/s10508-013-0207-9
+   Newman MEJ, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.208701
+   Pantalone DW, 2014, AIDS BEHAV, V18, P78, DOI 10.1007/s10461-013-0477-1
+   Rosenberg ES, 2012, SEX TRANSM DIS, V39, P741, DOI 10.1097/OLQ.0b013e31825ec09b
+   Shah NS, 2014, AIDS BEHAV, V18, P335, DOI 10.1007/s10461-013-0677-8
+   Shirley MDF, 2005, ECOL COMPLEX, V2, P287, DOI 10.1016/j.ecocom.2005.04.005
+   Smith AMA, 2004, SEX TRANSM INFECT, V80, P455, DOI 10.1136/sti.2004.010355
+   Webster RD, 2003, JAIDS-J ACQ IMM DEF, V33, P223, DOI 10.1097/00126334-200306010-00018
+   Weeks MargaretR., 2002, AIDS BEHAV, V6, P193, DOI DOI 10.1023/A:1015457400897
+NR 50
+TC 29
+Z9 30
+U1 1
+U2 17
+PU SPRINGER/PLENUM PUBLISHERS
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0004-0002
+EI 1573-2800
+J9 ARCH SEX BEHAV
+JI Arch. Sex. Behav.
+PD OCT
+PY 2015
+VL 44
+IS 7
+BP 1787
+EP 1797
+DI 10.1007/s10508-015-0485-5
+PG 11
+WC Psychology, Clinical; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology; Social Sciences - Other Topics
+GA CQ5TF
+UT WOS:000360667900013
+PM 26201650
+OA Green Accepted
+DA 2024-11-22
+ER
+
+PT J
+AU Hargittai, E
+AF Hargittai, Eszter
+TI Is Bigger Always Better? Potential Biases of Big Data Derived from
+   Social Network Sites
+SO ANNALS OF THE AMERICAN ACADEMY OF POLITICAL AND SOCIAL SCIENCE
+LA English
+DT Article
+DE big data; Internet skills; digital inequality; social network sites;
+   sampling frame; biased sample; sampling
+ID DIGITAL INEQUALITY; PREDICTORS; INTERNET; SKILLS
+AB This article discusses methodological challenges of using big data that rely on specific sites and services as their sampling frames, focusing on social network sites in particular. It draws on survey data to show that people do not select into the use of such sites randomly. Instead, use is biased in certain ways yielding samples that limit the generalizability of findings. Results show that age, gender, race/ethnicity, socioeconomic status, online experiences, and Internet skills all influence the social network sites people use and thus where traces of their behavior show up. This has implications for the types of conclusions one can draw from data derived from users of specific sites. The article ends by noting how big data studies can address the shortcomings that result from biased sampling frames.
+C1 [Hargittai, Eszter] Northwestern Univ, Commun Studies, Evanston, IL 60208 USA.
+   [Hargittai, Eszter] Northwestern Univ, Inst Policy Res, Evanston, IL 60208 USA.
+   [Hargittai, Eszter] Northwestern Univ, Web Use Project, Evanston, IL 60208 USA.
+C3 Northwestern University; Northwestern University; Northwestern
+   University
+RP Hargittai, E (corresponding author), Northwestern Univ, Commun Studies, Evanston, IL 60208 USA.
+OI Hargittai, Eszter/0000-0003-4199-4868
+FU John D. and Catherine T. MacArthur Foundation; Robert and Kaye Hiatt
+   Fund
+FX The author greatly appreciates the generous support of the John D. and
+   Catherine T. MacArthur Foundation and the Robert and Kaye Hiatt Fund for
+   making the unique dataset analyzed here possible. She is also grateful
+   to Keith Hampton and the Pew Internet Project for access to their
+   dataset. She thanks members of the Research-in-Progress Faculty Workshop
+   of Northwestern University's Communication Studies Department for their
+   valuable feedback, especially Darren Gergle, Dan O'Keefe, and Aaron
+   Shaw. She is also grateful for helpful suggestions from the editors and
+   an anonymous reviewer.
+CR Andranik Tumasjan, 2010, 4 INT AAAI C WEBL SO
+   [Anonymous], CSCW 13 SAN ANT TX
+   [Anonymous], MEMORY PRACTICES SCI
+   [Anonymous], NETWORKED SELF IDENT
+   [Anonymous], PHOTOS VIDEOS SOCIAL
+   [Anonymous], OXFORD HDB INTERNET
+   [Anonymous], WHY AM USE SOCIAL ME
+   [Anonymous], IEEE 13 INT C INF RE
+   [Anonymous], FT MAGAZINE     0328
+   [Anonymous], SCI AM
+   [Anonymous], CHI 10 HUM FACT COMP
+   [Anonymous], GEN SOC SURV INF SOC
+   [Anonymous], 72 ONLINE ADULTS ARE
+   [Anonymous], AM BEST COLL 2010
+   [Anonymous], WIRED MAGAZINE
+   [Anonymous], 2011, 2011 IEEE 73 VEH TEC, DOI DOI 10.1109/VETECS.2011.5956319
+   [Anonymous], THE EUROPEAN    0730
+   [Anonymous], FUTURE PRIVACY
+   [Anonymous], 1 MONDAY
+   [Anonymous], 2010 IEEE WIC ACM IN
+   [Anonymous], CSCW BALT MD
+   [Anonymous], AM J SOCIOLOGY
+   [Anonymous], HARVARD BUSINESS REV
+   Bail CA, 2014, THEOR SOC, V43, P465, DOI 10.1007/s11186-014-9216-5
+   Bollen Johan, 2011, J COMPUT SCI-NETH, DOI [10.1016/j.jocs.2010.12.007, DOI 10.1016/j.jocs.2010.12.007]
+   Boyd D, 2012, INFORM COMMUN SOC, V15, P662, DOI 10.1080/1369118X.2012.678878
+   Correa T, 2010, J COMPUT-MEDIAT COMM, V16, DOI 10.1111/j.1083-6101.2010.01532.x
+   Ellison NB, 2011, NEW MEDIA SOC, V13, P873, DOI 10.1177/1461444810385389
+   Gitelman L, 2013, INFRASTRUCT SER, P1
+   Hargittai E, 2005, SOC SCI COMPUT REV, V23, P371, DOI [10.1177/0894439305275911, 10.1177/089443930527591]
+   Hargittai E, 2008, COMMUN RES, V35, P602, DOI 10.1177/0093650208321782
+   Hargittai E, 2013, IEEE SECUR PRIV, V11, P38, DOI 10.1109/MSP.2013.64
+   Hargittai E, 2011, COMMUN SOC-SER, P231
+   Hargittai E, 2011, NEW MEDIA SOC, V13, P824, DOI 10.1177/1461444811405805
+   Hargittai E, 2010, INFORM COMMUN SOC, V13, P515, DOI 10.1080/13691181003639866
+   Hargittai E, 2012, SOC SCI COMPUT REV, V30, P95, DOI 10.1177/0894439310397146
+   Hargittai E, 2009, SOC SCI COMPUT REV, V27, P130, DOI 10.1177/0894439308318213
+   Lazer D, 2009, SCIENCE, V323, P721, DOI 10.1126/science.1167742
+   Neff G, 2013, BIG DATA, V1, P117, DOI 10.1089/big.2013.0029
+   Park YJ, 2013, COMMUN RES, V40, P215, DOI 10.1177/0093650211418338
+   Schwartz HA, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0073791
+   Viktor Mayer-Schonberger., 2013, Big Data: A Revolution That Will Transform How We Live, Work, and Think
+   Wasserman IM, 2005, SOC SCI QUART, V86, P252, DOI 10.1111/j.0038-4941.2005.00301.x
+   Williams D, 2011, GAMES CULT, V6, P171, DOI 10.1177/1555412010364983
+NR 44
+TC 131
+Z9 154
+U1 3
+U2 88
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0002-7162
+EI 1552-3349
+J9 ANN AM ACAD POLIT SS
+JI Ann. Am. Acad. Polit. Soc. Sci.
+PD MAY
+PY 2015
+VL 659
+IS 1
+BP 63
+EP 76
+DI 10.1177/0002716215570866
+PG 14
+WC Political Science; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Government & Law; Social Sciences - Other Topics
+GA CF8EV
+UT WOS:000352789600005
+DA 2024-11-22
+ER
+
+PT J
+AU Vergeer, M
+AF Vergeer, Maurice
+TI Twitter and Political Campaigning
+SO SOCIOLOGY COMPASS
+LA English
+DT Article
+ID ONLINE SOCIAL NETWORKS; PRESIDENTIAL-ELECTION; OPINION LEADERSHIP;
+   MEDIA; AGENDA; COMMUNICATION; DETERMINANTS; INCIVILITY; FACEBOOK; TOPICS
+AB The use of Twitter by politicians, parties, and the general audience in politics, particularly during election campaigns, has become an extremely popular research field almost overnight. Even though Twitter, a medium that emerged early in 2006 - the first tweet was posted on 21 March 2006 by Jack Dorsey, co-founder of Twitter - and elections occurring only every few years, it has already received much academic attention. The studies produced are very diverse, ranging from analyzing how politicians or citizens use Twitter, to looking at their activities and the content of political Twitter messages, to network studies of Twitter users. This review will cover many types of studies that characterize the field. The large diversity in the studies conducted on elections will be represented in this review of approaches.
+C1 [Vergeer, Maurice] Radboud Univ Nijmegen, Commun Sci, NL-6525 ED Nijmegen, Netherlands.
+C3 Radboud University Nijmegen
+RP Vergeer, M (corresponding author), Radboud Univ Nijmegen, Commun Sci, NL-6525 ED Nijmegen, Netherlands.
+EM M.Vergeer@maw.ru.nl
+RI Vergeer, Maurice/Q-6902-2019; Vergeer, Maurice/B-7521-2008
+OI Vergeer, Maurice/0000-0002-4802-4701
+CR Adkins L, 2008, SOCIOL COMPASS, V2, P1209, DOI 10.1111/j.1751-9020.2008.00123.x
+   Anderson PJ, 2004, J COMMON MARK STUD, V42, P897, DOI 10.1111/j.0021-9886.2004.00534.x
+   [Anonymous], 2014, GUARDIAN
+   [Anonymous], 2014, PS POLITICAL SCI POL, V4, DOI DOI: 10.1177/ 2158244014559015.
+   Ausserhofer J, 2013, INFORM COMMUN SOC, V16, P291, DOI 10.1080/1369118X.2012.756050
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Blais A, 2013, COMP POLIT STUD, V46, P95, DOI 10.1177/0010414012453032
+   Bradley William, 2011, WEINERGATES LASTING
+   Bruns Axel, 2012, First Monday, V17, DOI 10.5210/fm.v17i4.3937
+   Bruns A, 2013, INFORM COMMUN SOC, V16, P667, DOI 10.1080/1369118X.2013.782328
+   Ceron A, 2014, NEW MEDIA SOC, V16, P340, DOI 10.1177/1461444813480466
+   Cheng YC, 2014, ASLIB J INFORM MANAG, V66, P342, DOI 10.1108/AJIM-09-2013-0092
+   Choi M, 2014, ASLIB J INFORM MANAG, V66, P582, DOI 10.1108/AJIM-11-2012-0089
+   Choi Sujin, 2014, SOCIAL SCI COMPUTER
+   Coe K, 2014, J COMMUN, V64, P658, DOI 10.1111/jcom.12104
+   Coleman S, 2009, COMMUN SOC POLIT, P1, DOI 10.1017/CBO9780511818271
+   Colleoni E, 2014, J COMMUN, V64, P317, DOI 10.1111/jcom.12084
+   Comscore, 2011, NETH LEAD GLOB
+   Conover MD, 2012, EPJ DATA SCI, V1, DOI 10.1140/epjds6
+   Conway Bethany Anne, 2015, J COMPUTER MEDIATED
+   Cormode G., 2008, 1 MONDAY, V13, P1
+   DALTON R, 2006, JAPANESE J POLITICAL, V0007
+   Dang-Xuan L, 2013, INFORM COMMUN SOC, V16, P795, DOI 10.1080/1369118X.2013.783608
+   Dassonneville R, 2014, EUR J POLIT RES, V53, P580, DOI 10.1111/1475-6765.12049
+   Diakopoulos NA, 2010, CHI2010: PROCEEDINGS OF THE 28TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, VOLS 1-4, P1195
+   Dolezal M, 2015, POLICY INTERNET, V7, P103, DOI 10.1002/poi3.83
+   Enli GS, 2013, INFORM COMMUN SOC, V16, P757, DOI 10.1080/1369118X.2013.782330
+   Gayo-Avello D, 2013, SOC SCI COMPUT REV, V31, P649, DOI 10.1177/0894439313493979
+   Gervais BT, 2015, J INF TECHNOL POLITI, V12, P167, DOI 10.1080/19331681.2014.997416
+   Gibson R, 2001, HARV INT J PRESS-POL, V6, P31, DOI 10.1177/108118001129172323
+   Golbeck J, 2010, J AM SOC INF SCI TEC, V61, P1612, DOI 10.1002/asi.21344
+   Graham T, 2016, NEW MEDIA SOC, V18, P765, DOI 10.1177/1461444814546728
+   Graham Todd, 2015, INT J PRESS POLITICS
+   Groshek J, 2013, MEDIA COMMUN-LISBON, V1, P15, DOI 10.17645/mac.v1i1.71
+   Habermas J., 1989, The Structural Transformation of the Public Sphere, DOI DOI 10.1177/02632764221112341
+   Hsu CL, 2012, GOV INFORM Q, V29, P169, DOI 10.1016/j.giq.2011.09.009
+   Jackson N, 2011, J LEGIS STUD, V17, P86, DOI 10.1080/13572334.2011.545181
+   Jungherr A, 2012, SOC SCI COMPUT REV, V30, P229, DOI 10.1177/0894439311404119
+   Kim M, 2012, SCIENTOMETRICS, V90, P121, DOI 10.1007/s11192-011-0508-5
+   Kruikemeier S, 2013, EUR J COMMUN, V28, P53, DOI 10.1177/0267323112464837
+   Lazarsfeld, 1955, PERSONAL INFLUENCE P
+   Lewis-Beck MS, 2014, PS-POLIT SCI POLIT, V47, P284, DOI 10.1017/S104909651400002X
+   Lusher Dean, 2012, Exponential random graph models for social networks: Theory, methods, and applications
+   Mazzoleni Gianpietro., 2014, Mediatization of Politics', P42
+   MCCOMBS ME, 1972, PUBLIC OPIN QUART, V36, P176, DOI 10.1086/267990
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Meraz S, 2013, INT J PRESS/POLIT, V18, P138, DOI 10.1177/1940161212474472
+   MERTON RK, 1968, SCIENCE, V159, P56, DOI 10.1126/science.159.3810.56
+   NOELLENE.E, 1974, J COMMUN, V24, P43, DOI 10.1111/j.1460-2466.1974.tb00367.x
+   Norris P, 2003, PARTY POLIT, V9, P21, DOI 10.1177/1354068803009001718
+   Norris P., 2000, A VIRTUOUS CIRCLE
+   Park CS, 2013, COMPUT HUM BEHAV, V29, P1641, DOI 10.1016/j.chb.2013.01.044
+   Parmelee JH, 2011, Politics and the Twitter Revolution: How Tweets Influence the Relationship between Political Leaders and the Public
+   Parmelee JH, 2014, NEW MEDIA SOC, V16, DOI 10.1177/1461444813487955
+   Pauwels T, 2011, J ELECT PUBLIC OPIN, V21, P97, DOI 10.1080/17457289.2011.539483
+   Plotkowiak Thomas, 2013, First Monday, V18, P143, DOI 10.5210/fm.v18i5.3816
+   Rahimi B, 2011, COMMUN REV, V14, P158, DOI 10.1080/10714421.2011.597240
+   Rowe I, 2015, INFORM COMMUN SOC, V18, P121, DOI 10.1080/1369118X.2014.940365
+   Schroeder R, 2014, BIG DATA SOC, V1, DOI 10.1177/2053951714563194
+   Snijders TAB, 2010, SOC NETWORKS, V32, P44, DOI 10.1016/j.socnet.2009.02.004
+   Spierings N, 2014, POLIT BEHAV, V36, P215, DOI 10.1007/s11109-013-9228-2
+   Stieglitz S, 2013, SOC NETW ANAL MIN, V3, P1277, DOI 10.1007/s13278-012-0079-3
+   Tumasjan A, 2012, SOC SCI COMPUT REV, V30, P235, DOI 10.1177/0894439311404123
+   Tumasjan A, 2011, SOC SCI COMPUT REV, V29, P402, DOI 10.1177/0894439310386557
+   Utz S, 2009, J COMPUT-MEDIAT COMM, V14, P221, DOI 10.1111/j.1083-6101.2009.01438.x
+   Vergeer M., 2011, First Monday, V16
+   Vergeer M, 2013, J COMPUT-MEDIAT COMM, V18, P399, DOI 10.1111/jcc4.12023
+   Vergeer M, 2013, PARTY POLIT, V19, P477, DOI 10.1177/1354068811407580
+   Vergeer Maurice, TIME SERIES ANAL ISE
+   Vliegenthart R, 2014, QUAL QUANT, V48, P2427, DOI 10.1007/s11135-013-9899-0
+   Vliegenthart R, 2012, SOCIOL COMPASS, V6, P937, DOI 10.1111/soc4.12003
+   Wang CJ, 2013, CYBERPSYCH BEH SOC N, V16, P679, DOI 10.1089/cyber.2012.0409
+   Wright S, 2012, NEW MEDIA SOC, V14, P244, DOI 10.1177/1461444811410679
+NR 73
+TC 63
+Z9 75
+U1 1
+U2 58
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1751-9020
+J9 SOCIOL COMPASS
+JI Sociol. Compass
+PD SEP
+PY 2015
+VL 9
+IS 9
+BP 745
+EP 760
+DI 10.1111/soc4.12294
+PG 16
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA CX6QC
+UT WOS:000365824600001
+OA Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Darmon, D
+   Omodei, E
+   Garland, J
+AF Darmon, David
+   Omodei, Elisa
+   Garland, Joshua
+TI Followers Are Not Enough: A Multifaceted Approach to Community Detection
+   in Online Social Networks
+SO PLOS ONE
+LA English
+DT Article
+ID COMPLEX NETWORKS
+AB In online social media networks, individuals often have hundreds or even thousands of connections, which link these users not only to friends, associates, and colleagues, but also to news outlets, celebrities, and organizations. In these complex social networks, a 'community' as studied in the social network literature, can have very different meaning depending on the property of the network under study. Taking into account the multifaceted nature of these networks, we claim that community detection in online social networks should also be multifaceted in order to capture all of the different and valuable viewpoints of 'community.' In this paper we focus on three types of communities beyond follower-based structural communities: activity-based, topic-based, and interaction-based. We analyze a Twitter dataset using three different weightings of the structural network meant to highlight these three community types, and then infer the communities associated with these weightings. We show that interesting insights can be obtained about the complex community structure present in social networks by studying when and how these four community types give rise to similar as well as completely distinct community structure.
+C1 [Darmon, David] Univ Maryland, Dept Math, College Pk, MD 20742 USA.
+   [Omodei, Elisa] ISC PIF, LaTTiCe CNRS, Paris, France.
+   [Omodei, Elisa] Univ Rovira & Virgili, Dept Engn Informat & Matemat, E-43007 Tarragona, Spain.
+   [Garland, Joshua] Univ Colorado, Dept Comp Sci, Boulder, CO 80309 USA.
+C3 University System of Maryland; University of Maryland College Park;
+   Universite Paris Cite; Centre National de la Recherche Scientifique
+   (CNRS); Universitat Rovira i Virgili; University of Colorado System;
+   University of Colorado Boulder
+RP Darmon, D (corresponding author), Univ Maryland, Dept Math, College Pk, MD 20742 USA.
+EM ddarmon@math.umd.edu
+RI Omodei, Elisa/IAQ-9276-2023
+OI Omodei, Elisa/0000-0002-6748-5124
+FU Region Ile-de-France (DIM); French National Agency of Research
+   [ANR-12-CORD-0018]; Agence Nationale de la Recherche (ANR)
+   [ANR-12-CORD-0018] Funding Source: Agence Nationale de la Recherche
+   (ANR)
+FX This work was partially supported by the Region Ile-de-France
+   (http://www.iledefrance.fr, DIM 2011 to EO), and by the French National
+   Agency of Research
+   (http://www.agence-nationale-recherche.fr/en/project-based-funding-to-ad
+   vance-french-research/, ANR-12-CORD-0018 to EO). The funders had no role
+   in study design, data collection and analysis, decision to publish, or
+   preparation of the manuscript.
+CR Aicher C, 2014, J COMPL NET IN PRESS
+   [Anonymous], 2013, J. Data Anal. Inf. Proc., DOI [DOI 10.4236/JDAIP.2013.13004, 10.4236/jdaip.2013.13004]
+   [Anonymous], 2012, P 23 ACM C HYP SOC M, DOI DOI 10.1145/2309996.2310052
+   Baumes Jeffrey., 2005, INT C APPL COMPUTING, P97
+   Becker H., 2011, ICWSM, V11, P438
+   Blondel VD, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/10/P10008
+   Cazabet R, 2012, P 4 WI C
+   Conover M.D., 2011, P INT AAAI C WEB SOC, P89
+   Darmon D, 2013, P CSSS
+   Darmon D, 2013, 2013 ASE/IEEE INTERNATIONAL CONFERENCE ON SOCIAL COMPUTING (SOCIALCOM), P102, DOI 10.1109/SocialCom.2013.22
+   DILLON M, 1983, INFORM PROCESS MANAG, V19, P402, DOI 10.1016/0306-4573(83)90062-6
+   Evans TS, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.016105
+   Fortunato S, 2010, PHYS REP, V486, P75, DOI 10.1016/j.physrep.2009.11.002
+   Girvan M, 2002, P NATL ACAD SCI USA, V99, P7821, DOI 10.1073/pnas.122653799
+   Grabowicz PA, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0029358
+   GRANGER CWJ, 1963, INFORM CONTROL, V6, P28, DOI 10.1016/S0019-9958(63)90092-5
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Gregory S, 2007, LECT NOTES ARTIF INT, V4702, P91
+   HOLLAND PW, 1983, SOC NETWORKS, V5, P109, DOI 10.1016/0378-8733(83)90021-7
+   Java A, 2009, LECT NOTES ARTIF INT, V5439, P118, DOI 10.1145/1348549.1348556
+   Kao A, 2013, 2013 IEEE INTERNATIONAL CONFERENCE ON INTELLIGENCE AND SECURITY INFORMATICS: BIG DATA, EMERGENT THREATS, AND DECISION-MAKING IN SECURITY INFORMATICS, P137, DOI 10.1109/ISI.2013.6578803
+   Kitsak M, 2010, NAT PHYS, V6, P888, DOI [10.1038/NPHYS1746, 10.1038/nphys1746]
+   Kovács IA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0012528
+   Lancichinetti A, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0018961
+   Lancichinetti A, 2009, NEW J PHYS, V11, DOI 10.1088/1367-2630/11/3/033015
+   Lim KH, 2012, 2012 IEEE/WIC/ACM INTERNATIONAL CONFERENCE ON WEB INTELLIGENCE AND INTELLIGENT AGENT TECHNOLOGY (WI-IAT 2012), VOL 1, P214, DOI 10.1109/WI-IAT.2012.53
+   Meila M, 2003, LECT NOTES ARTIF INT, V2777, P173, DOI 10.1007/978-3-540-45167-9_14
+   Michelson M., 2010, P 4 WORKSH AN NOIS U, P73, DOI [DOI 10.1145/1871840.1871852, 10.1145/1871840.1871852]
+   Nepusz T, 2008, PHYS REV E, V77, DOI 10.1103/PhysRevE.77.016107
+   Newman M., 2010, NETWORKS INTRO, DOI 10.1162/artl_r_00062
+   Newman MEJ, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.026113
+   Nguyen NP, 2011, IEEE INFOCOM SER, P2282, DOI 10.1109/INFCOM.2011.5935045
+   Palla G, 2005, NATURE, V435, P814, DOI 10.1038/nature03607
+   Porter M. A., 2009, Notices of the AMS, V56, P1082
+   Romero DM, 2011, LECT NOTES ARTIF INT, V6913, P18, DOI 10.1007/978-3-642-23808-6_2
+   Rossi L, 2012, P 6 INT AAAI C WEBL, P563
+   Rosvall M, 2008, P NATL ACAD SCI USA, V105, P1118, DOI 10.1073/pnas.0706851105
+   Schreiber T, 2000, PHYS REV LETT, V85, P461, DOI 10.1103/PhysRevLett.85.461
+   Tsur O., 2012, PROC 5 ACM INT C WEB, P643
+   Ver Steeg G., 2012, P 21 INT C WORLD WID, P509, DOI DOI 10.1145/2187836.2187906
+   Yin ZJ, 2012, ACM T INTEL SYST TEC, V3, DOI 10.1145/2337542.2337548
+   Zhang SH, 2007, PHYSICA A, V374, P483, DOI 10.1016/j.physa.2006.07.023
+   Zhao WNX, 2011, LECT NOTES COMPUT SC, V6611, P338, DOI 10.1007/978-3-642-20161-5_34
+NR 43
+TC 24
+Z9 28
+U1 2
+U2 21
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD AUG 12
+PY 2015
+VL 10
+IS 8
+AR e0134860
+DI 10.1371/journal.pone.0134860
+PG 20
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA CO9JT
+UT WOS:000359492300064
+PM 26267868
+OA Green Published, gold, Green Submitted
+DA 2024-11-22
+ER

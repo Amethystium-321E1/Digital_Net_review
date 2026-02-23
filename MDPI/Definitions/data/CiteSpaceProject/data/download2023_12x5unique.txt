@@ -1,0 +1,578 @@
+
+PT J
+AU Shirado, H
+   Hou, YTY
+   Jung, MF
+AF Shirado, Hirokazu
+   Hou, Yoyo Tsung-Yu
+   Jung, Malte F.
+TI Stingy bots can improve human welfare in experimental sharing networks
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID EXCHANGE; POWER; SATISFACTION; RISE
+AB Machines powered by artificial intelligence increasingly permeate social networks with control over resources. However, machine allocation behavior might offer little benefit to human welfare over networks when it ignores the specific network mechanism of social exchange. Here, we perform an online experiment involving simple networks of humans (496 participants in 120 networks) playing a resource-sharing game to which we sometimes add artificial agents (bots). The experiment examines two opposite policies of machine allocation behavior: reciprocal bots, which share all resources reciprocally; and stingy bots, which share no resources at all. We also manipulate the bot's network position. We show that reciprocal bots make little changes in unequal resource distribution among people. On the other hand, stingy bots balance structural power and improve collective welfare in human groups when placed in a specific network position, although they bestow no wealth on people. Our findings highlight the need to incorporate the human nature of reciprocity and relational interdependence in designing machine behavior in sharing networks. Conscientious machines do not always work for human welfare, depending on the network structure where they interact.
+C1 [Shirado, Hirokazu] Carnegie Mellon Univ, Sch Comp Sci, Pittsburgh, PA 15213 USA.
+   [Hou, Yoyo Tsung-Yu; Jung, Malte F.] Cornell Univ, Dept Informat Sci, Ithaca, NY 14853 USA.
+C3 Carnegie Mellon University; Cornell University
+RP Shirado, H (corresponding author), Carnegie Mellon Univ, Sch Comp Sci, Pittsburgh, PA 15213 USA.
+EM shirado@cmu.edu
+OI Shirado, Hirokazu/0000-0003-4545-7859
+FU We thank A. Ueshima for helpful comments on our analysis and J.
+   Hohenstein for providing the expert programming needed for the online
+   experiments. Funding for this research was provided by NSF (#1942085 and
+   #2237095). [1942085, 2237095]; NSF
+FX We thank A. Ueshima for helpful comments on our analysis and J.
+   Hohenstein for providing the expert programming needed for the online
+   experiments. Funding for this research was provided by NSF (#1942085 and
+   #2237095).
+CR Allcott H, 2020, AM ECON REV, V110, P629, DOI 10.1257/aer.20190658
+   ALLISON PD, 1978, AM SOCIOL REV, V43, P865, DOI 10.2307/2094626
+   [Anonymous], 1972, Sociological theories in progress
+   Blau P.M., 1964, EXCHANGE POWER SOC
+   BONACICH P, 1987, AM J SOCIOL, V92, P1170, DOI 10.1086/228631
+   Brams SJ., 1996, Fair Division: From Cake-Cutting to Dispute Resolution, DOI [10.1017/CBO9780511598975, DOI 10.1017/CBO9780511598975]
+   BURT RS, 1987, AM J SOCIOL, V92, P1287, DOI 10.1086/228667
+   Chaboud AP, 2014, J FINANC, V69, P2045, DOI 10.1111/jofi.12186
+   Claure H, 2023, COMPUT HUM BEHAV, V146, DOI 10.1016/j.chb.2022.107628
+   Conitzer V, 2017, AAAI CONF ARTIF INTE, P4831
+   COOK KS, 1983, AM J SOCIOL, V89, P275, DOI 10.1086/227866
+   Emanuel EJ, 2020, NEW ENGL J MED, V382, P2049, DOI 10.1056/NEJMsb2005114
+   Erikson E, 2021, AM SOCIOL REV, V86, P759, DOI 10.1177/00031224211027893
+   Erlei A, 2022, PROCEEDINGS OF THE 2022 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS (CHI' 22), DOI 10.1145/3491102.3517734
+   Ferrara E, 2016, COMMUN ACM, V59, P96, DOI 10.1145/2818717
+   Georgiadis Leonidas, 2015, ACM SIGMETRICS Performance Evaluation Review, V43, P43, DOI 10.1145/2745844.2745860
+   Gillath O, 2021, COMPUT HUM BEHAV, V115, DOI 10.1016/j.chb.2020.106607
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Ishowo-Oloko F, 2019, NAT MACH INTELL, V1, P517, DOI 10.1038/s42256-019-0113-5
+   Laitinen K, 2021, J COMPUT-MEDIAT COMM, V26, P343, DOI 10.1093/jcmc/zmab012
+   Langholtz H. J., 2002, Resource-Allocation Behavior
+   Lazega E, 2012, SOC NETWORKS, V34, P323, DOI 10.1016/j.socnet.2009.12.001
+   Leventhal G.S., 1980, SOCIAL EXCHANGE ADV, P27, DOI [DOI 10.1007/978-1-4613-3087-5_2, 10.1007/978-1-4613-3087-52]
+   MARKOVSKY B, 1988, AM SOCIOL REV, V53, P220, DOI 10.2307/2095689
+   MARKOVSKY B, 1993, AM SOCIOL REV, V58, P197, DOI 10.2307/2095966
+   Micholia P, 2018, IEEE COMMUN SURV TUT, V20, P3581, DOI 10.1109/COMST.2018.2817686
+   MOLM LD, 1991, AM SOCIOL REV, V56, P475, DOI 10.2307/2096269
+   Normann HT, 2012, INT J GAME THEORY, V41, P707, DOI 10.1007/s00182-012-0341-y
+   Paiva A, 2018, AAAI CONF ARTIF INTE, P7994
+   Pavot W, 2009, SOC INDIC RES SER, V39, P101, DOI 10.1007/978-90-481-2354-4_5
+   Rahwan I, 2019, NATURE, V568, P477, DOI 10.1038/s41586-019-1138-y
+   Rand DG, 2012, J THEOR BIOL, V299, P172, DOI 10.1016/j.jtbi.2011.03.004
+   Rifinski D, 2021, HUM-COMPUT INTER-US, V36, P333, DOI 10.1080/07370024.2020.1719839
+   Schwarting W, 2019, P NATL ACAD SCI USA, V116, P24972, DOI 10.1073/pnas.1820676116
+   Shirado H., 2022, Bot sharing experiment
+   Shirado H, 2020, ISCIENCE, V23, DOI 10.1016/j.isci.2020.101438
+   Shirado H, 2019, P NATL ACAD SCI USA, V116, P22442, DOI 10.1073/pnas.1911606116
+   Shirado H, 2019, NAT COMMUN, V10, DOI 10.1038/s41467-019-08935-2
+   Shirado H, 2017, NATURE, V545, P370, DOI 10.1038/nature22332
+   Sobel J, 2005, J ECON LIT, V43, P392, DOI 10.1257/0022051054661530
+   Squartini T, 2013, SCI REP-UK, V3, DOI 10.1038/srep02729
+   Strogatz SH, 2001, NATURE, V410, P268, DOI 10.1038/35065725
+   Tennent H, 2019, ACMIEEE INT CONF HUM, P133, DOI [10.1109/HRI.2019.8673013, 10.1109/hri.2019.8673013]
+   Thomas KA, 2017, COMPUT HUM BEHAV, V77, P184, DOI 10.1016/j.chb.2017.08.038
+   Traeger ML, 2020, P NATL ACAD SCI USA, V117, P6370, DOI 10.1073/pnas.1910402117
+   Turkle S., 2011, Alone Together: Why we Expect More from Technology and Less from Each Other, P360
+   Valente TW, 2012, SCIENCE, V337, P49, DOI 10.1126/science.1217330
+   Vosoughi S, 2018, SCIENCE, V359, P1146, DOI 10.1126/science.aap9559
+NR 48
+TC 1
+Z9 1
+U1 9
+U2 16
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD OCT 20
+PY 2023
+VL 13
+IS 1
+AR 17957
+DI 10.1038/s41598-023-44883-0
+PG 12
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA U8YH8
+UT WOS:001087596300032
+PM 37864003
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Divita, D
+AF Divita, David
+TI The gendered semiotics of far-right populism on Instagram: A case from
+   Spain
+SO DISCOURSE & SOCIETY
+LA English
+DT Article
+DE Instagram; masculinity; populism; Spain; visual semiotics; Vox
+ID RIGHT-WING POPULISM; MASCULINITY; DISCOURSE; POLITICS; IMAGE
+AB Perhaps more than any other online social-networking platform, Instagram facilitates the construction and management of public image, serving as a potentially effective tool for political actors; nevertheless, it remains relatively understudied among digital communication strategies. In this article, I investigate the platform's use by far-right populist politicians, turning to Santiago Abascal of Spain as a case study. Performing detailed analysis on a corpus of Abascal's most popular posts determined by their "engagement rate," I expose the gendered mode of self-presentation that resonates with Abascal's public. In the second part of the article, I consider an equivalent corpus from President Pedro Sanchez, one of Abascal's main political rivals at the time of writing. This comparative juxtaposition illustrates stark differences in approaches to social media and underscores how effective particular performances of masculinity can be for populist politicians. Ultimately, I aim to shed insight on the specific ways that Instagram serves far-right political projects, both in Spain and beyond.
+C1 [Divita, David] Pomona Coll, Claremont, CA 91711 USA.
+C3 Claremont Colleges; Pomona College
+RP Divita, D (corresponding author), Pomona Coll, Romance Languages & Literatures Pomona, 233 Mason Hall,550 N Harvard Ave, Claremont, CA 91711 USA.
+EM david.divita@pomona.edu
+CR Alonso S, 2015, S EUR SOC POLIT, V20, P21, DOI 10.1080/13608746.2014.985448
+   Bakhtin Mikhail, 1986, Speech Genres and Other Late Essays, V8
+   Bast J, 2022, POLIT COMMUN, V39, P358, DOI 10.1080/10584609.2021.2007190
+   Bast J, 2024, J POLITICAL MARKETIN, V23, P1, DOI 10.1080/15377857.2021.1892901
+   Boulianne S, 2023, NEW MEDIA SOC, V25, P119, DOI 10.1177/14614448211009504
+   Burnett S, 2021, LANG SOC, V50, P787, DOI 10.1017/S0047404521000579
+   Connell RW., 1995, MASCULINITIES
+   de Geus R, 2021, J ELECT PUBLIC OPIN, V31, P470, DOI 10.1080/17457289.2021.1968410
+   Dobkiewicz P, 2019, J LANG POLIT, V18, P826, DOI 10.1075/jlp.19039.dob
+   Eksi B, 2019, THEOR SOC, V48, P733, DOI 10.1007/s11186-019-09363-3
+   Eldin Amira Karam, 2016, European Scientific Journal, V12, P245
+   Filimonov K, 2016, SOC MEDIA SOC, V2, DOI 10.1177/2056305116662179
+   Gaden Georgia, 2015, First Monday, V20, DOI 10.5210/fm.v20i1.4985
+   Geva D, 2020, SOC POLIT, V27, P1, DOI 10.1093/sp/jxy039
+   Gökariksel B, 2016, POLIT GEOGR, V54, P79, DOI 10.1016/j.polgeo.2016.07.004
+   Kress GR., 1996, READING IMAGES GRAMM
+   Lalancette M, 2020, CELEBR STUD, V11, P157, DOI 10.1080/19392397.2018.1497519
+   Lalancette M, 2019, AM BEHAV SCI, V63, P888, DOI 10.1177/0002764217744838
+   Larsson AO, 2022, NEW MEDIA SOC, V24, P227, DOI 10.1177/1461444820963777
+   Larsson AO, 2017, SOC MEDIA SOC, V3, DOI 10.1177/2056305117713776
+   Liebhart K, 2017, MEDIA COMMUN-LISBON, V5, P15, DOI 10.17645/mac.v5i4.1062
+   Marland A, 2018, CANADIAN FOREIGN POL, V24, P139, DOI 10.1080/11926422.2018.1461665
+   Mudde C., 2019, The far right today
+   Munoz CL, 2017, J POLITICAL MARKETIN, V16, P290, DOI 10.1080/15377857.2017.1334254
+   Nai A, 2021, J POLITICAL MARKETIN, V20, P219, DOI 10.1080/15377857.2018.1491439
+   Obama Barack., 2020, A Promised Land
+   Onate P., 2022, AUGE EXTREMA DERECHA, P383
+   Ralph-Morrow E, 2021, J ELECT PUBLIC OPIN, V31, P423, DOI 10.1080/17457289.2021.1968415
+   Rama Jose., 2021, VOX: The Rise of the Spanish Populist Radical Right, DOI 10.4324/9781003049227
+   Reisigl M., 2017, The Routledge handbook of critical discourse studies, P44, DOI [DOI 10.4324/9781315739342.CH, DOI 10.4324/9781315739342-4]
+   Rheindorf M, 2020, CAMB HB LANG LINGUIS, P622
+   Russmann U, 2016, INFORMATION, V7, DOI 10.3390/info7040058
+   Sampietro A, 2020, COMMUN SOC-SPAIN, V33, P169, DOI 10.15581/003.33.1.169-184
+   Smith A, 2020, SOC SEMIOT, V30, P547, DOI 10.1080/10350330.2020.1763657
+   Smith JC, 2021, J ELECT PUBLIC OPIN, V31, P450, DOI 10.1080/17457289.2021.1968414
+   Spackman Barbara., 1996, FASCIST VIRILITIES R
+   Strachan JC, 2004, DEFINING VISUAL RHETORICS, P135
+   Street J., 2004, BRIT J POLIT INT REL, V6, P435, DOI [10.1111/j.1467-856X.2004.00149.x, DOI 10.1111/J.1467-856X.2004.00149.X]
+   Towner TL, 2018, SOC SCI COMPUT REV, V36, P484, DOI 10.1177/0894439317728222
+   Turnbull-Dugarte SJ, 2019, SOC MEDIA SOC, V5, DOI 10.1177/2056305119826129
+   van Leeuwen T., 2008, Discourse and practice: New tools for critical discourse analysis
+   Wiedlack K, 2020, NORMA, V15, P59, DOI 10.1080/18902138.2019.1707459
+   Wodak R., 2009, METHODS CRITICAL DIS, V2, P1, DOI [10.4067/invi.v0i0.983, DOI 10.4067/INVI.V0I0.983]
+   Wodak R, 2017, J LANG POLIT, V16, P471, DOI 10.1075/jlp.17042.krz
+NR 44
+TC 1
+Z9 1
+U1 4
+U2 22
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0957-9265
+EI 1460-3624
+J9 DISCOURSE SOC
+JI niscl. Soc.
+PD JAN
+PY 2023
+VL 34
+IS 1
+BP 22
+EP 53
+AR 09579265221100486
+DI 10.1177/09579265221100486
+EA JUN 2022
+PG 32
+WC Communication; Psychology, Multidisciplinary; Sociology
+WE Social Science Citation Index (SSCI)
+SC Communication; Psychology; Sociology
+GA 7U2LP
+UT WOS:000816979300001
+DA 2024-11-22
+ER
+
+PT J
+AU Patuelli, A
+   Saracco, F
+AF Patuelli, Alessia
+   Saracco, Fabio
+TI Sustainable development goals as unifying narratives in large UK firms'
+   Twitter discussions
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID CORPORATE SOCIAL-RESPONSIBILITY; STAKEHOLDER ENGAGEMENT; CSR
+   COMMUNICATION; MEDIA
+AB To achieve sustainable development worldwide, the United Nations set 17 Sustainable Development Goals (SDGs) for humanity to reach by 2030. Society is involved in the challenge, with firms playing a crucial role. Thus, a key question is to what extent firms engage with the SDGs. Efforts to map firms' contributions have mainly focused on analysing companies' reports based on limited samples and non-real-time data. We present a novel interdisciplinary approach based on analysing big data from an online social network (Twitter) with complex network methods from statistical physics. By doing so, we provide a comprehensive and nearly real-time picture of firms' engagement with SDGs. Results show that: (1) SDGs themes tie conversations among major UK firms together; (2) the social dimension is predominant; (3) the attention to different SDGs themes varies depending on the community and sector firms belong to; (4) stakeholder engagement is higher on posts related to global challenges compared to general ones; (5) large UK companies and stakeholders generally behave differently from Italian ones. This paper provides theoretical contributions and practical implications relevant to firms, policymakers and management education. Most importantly, it provides a novel tool and a set of keywords to monitor the influence of the private sector on the implementation of the 2030 Agenda.
+C1 [Patuelli, Alessia] Northumbria Univ, Amsterdam Campus,Corry Tendeloo Bldg CTH,Fraijlema, NL-1102 CV Amsterdam, Netherlands.
+   [Patuelli, Alessia; Saracco, Fabio] IMT Sch Adv Studies Lucca, Pzza S Francesco 19, I-55100 Lucca, Italy.
+   [Patuelli, Alessia] Univ Florence, Dept Econ & Management, I-50127 Florence, Italy.
+   [Saracco, Fabio] Natl Res Council Italy, Inst Appl Comp, Via Taurini 19, I-00185 Rome, Italy.
+   [Saracco, Fabio] Enr Fermi Res Ctr CREF, Via Panisperna 89A, I-00184 Rome, Italy.
+C3 IMT School for Advanced Studies Lucca; University of Florence; Consiglio
+   Nazionale delle Ricerche (CNR)
+RP Patuelli, A (corresponding author), Northumbria Univ, Amsterdam Campus,Corry Tendeloo Bldg CTH,Fraijlema, NL-1102 CV Amsterdam, Netherlands.; Patuelli, A (corresponding author), IMT Sch Adv Studies Lucca, Pzza S Francesco 19, I-55100 Lucca, Italy.; Patuelli, A (corresponding author), Univ Florence, Dept Econ & Management, I-50127 Florence, Italy.
+EM alessia.patuelli@northumbria.ac.uk
+RI Saracco, Fabio/O-5295-2015
+OI Saracco, Fabio/0000-0003-0812-5927
+CR Abd-Elrahman AH, 2022, INT J EMERG MARK, V17, P299, DOI 10.1108/IJOEM-11-2019-0983
+   Ajmal MM, 2018, INT J SUST DEV WORLD, V25, P327, DOI 10.1080/13504509.2017.1408714
+   [Anonymous], 1998, Account Bus Res, DOI [10.1080/00014788.1998.9729564, DOI 10.1080/00014788.1998.9729564]
+   [Anonymous], 1987, Our Common Future
+   Ardiana PA, 2023, MEDITARI ACCOUNT RES, V31, P344, DOI 10.1108/MEDAR-12-2019-0666
+   Bebbington J, 2018, ACCOUNT AUDIT ACCOUN, V31, P2, DOI 10.1108/AAAJ-05-2017-2929
+   Becatti C, 2019, PALGR COMMUN, V5, DOI 10.1057/s41599-019-0300-3
+   BENJAMINI Y, 1995, J R STAT SOC B, V57, P289, DOI 10.1111/j.2517-6161.1995.tb02031.x
+   Blondel VD, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/10/P10008
+   Bonsón E, 2013, ONLINE INFORM REV, V37, P787, DOI 10.1108/OIR-03-2012-0054
+   Bovet A, 2019, NAT COMMUN, V10, DOI 10.1038/s41467-018-07761-2
+   Calabrese A, 2022, J CLEAN PROD, V363, DOI 10.1016/j.jclepro.2022.132324
+   Caldarelli G, 2021, EPJ DATA SCI, V10, DOI 10.1140/epjds/s13688-021-00289-4
+   Caldarelli G, 2020, COMMUN PHYS-UK, V3, DOI 10.1038/s42005-020-0340-4
+   Campopiano G, 2015, J BUS ETHICS, V129, P511, DOI 10.1007/s10551-014-2174-z
+   Carroll A. B., 1999, BUS SOC REV, V38, P268, DOI [10.1177/000765039903800303, https://doi.org/10.1177/000765039903800303, DOI 10.1177/000765039903800303]
+   Choudhury P. R., 2018, MACHINE LEARNING PAT
+   Cimini G, 2019, NAT REV PHYS, V1, P58, DOI 10.1038/s42254-018-0002-6
+   Cinelli M, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2023301118
+   Cinelli M, 2020, SCI REP-UK, V10, DOI 10.1038/s41598-020-73510-5
+   Conover M., 2011, Political Polarization on Twitter
+   Conover M. D., 2011, Proceedings of the 2011 IEEE Third International Conference on Privacy, Security, Risk and Trust and IEEE Third International Conference on Social Computing (PASSAT/SocialCom 2011), P192, DOI 10.1109/PASSAT/SocialCom.2011.34
+   Conover MD, 2012, EPJ DATA SCI, V1, DOI 10.1140/epjds6
+   Cresci S, 2015, DECIS SUPPORT SYST, V80, P56, DOI 10.1016/j.dss.2015.09.003
+   D'Adamo I, 2021, SCI REP-UK, V11, DOI 10.1038/s41598-021-03635-8
+   Dahlsrud A, 2008, CORP SOC RESP ENV MA, V15, P1, DOI 10.1002/csr.132
+   Dalton V, 2020, J MANAGE ORGAN, V26, P975, DOI 10.1017/jmo.2020.23
+   De Luca F, 2022, TECHNOL FORECAST SOC, V177, DOI 10.1016/j.techfore.2022.121525
+   De Villiers C, 2021, J BUS RES, V131, P598, DOI 10.1016/j.jbusres.2020.11.066
+   Del Vicario M, 2016, SCI REP-UK, V6, DOI 10.1038/srep37825
+   Doan A, MAGELLAN PROJECT PY
+   Elalfy A, 2021, J APPL ACCOUNT RES, V22, P557, DOI 10.1108/JAAR-06-2020-0116
+   Elkington J., 1998, Cannibals with Forks: The triple bottom line of 21st century business, P1
+   Emma GM, 2021, J CLEAN PROD, V298, DOI 10.1016/j.jclepro.2021.126781
+   Etter M, 2013, PUBLIC RELAT REV, V39, P606, DOI 10.1016/j.pubrev.2013.06.003
+   Eurostat, 2008, NACE REV 2 STAT CLAS, P230
+   Ferrara Emilio, 2018, First Monday, V22, DOI 10.5210/fm.v22i18.8005
+   Fortunato S, 2010, PHYS REP, V486, P75, DOI 10.1016/j.physrep.2009.11.002
+   Franco-Riquelme J.N., 2021, JOITMC, V7, P165, DOI [DOI 10.3390/JOITMC7030165, 10.3390/JOITMC7030165]
+   Gallotti R, 2020, NAT HUM BEHAV, V4, DOI 10.1038/s41562-020-00994-6
+   García-Sánchez IM, 2020, BUS STRATEG ENVIRON, V29, P2019, DOI 10.1002/bse.2485
+   Garlaschelli D, 2008, PHYS REV E, V78, DOI 10.1103/PhysRevE.78.015101
+   Giacomini D, 2020, CORP SOC RESP ENV MA, V27, P1552, DOI 10.1002/csr.1904
+   Gomez LM, 2016, DEV CORP GOV RESPONS, V9, P205, DOI 10.1108/S2043-052320160000009009
+   González-Bailón S, 2013, AM BEHAV SCI, V57, P943, DOI 10.1177/0002764213479371
+   GRAY SJ, 1988, ABACUS-J ACCOUNT BUS, V24, P1, DOI 10.1111/j.1467-6281.1988.tb00200.x
+   Greenwood M, 2007, J BUS ETHICS, V74, P315, DOI 10.1007/s10551-007-9509-y
+   Grover P, 2019, INT J INFORM MANAGE, V48, P39, DOI 10.1016/j.ijinfomgt.2019.01.009
+   Guarino Stefano, 2021, Online Soc Netw Media, V22, P100124, DOI 10.1016/j.osnem.2021.100124
+   Guthrie J., 1989, ACCOUNT BUS RES, V19, P343, DOI [DOI 10.1080/00014788.1989.9728863, 10.1080/00014788.1989.9728863]
+   Hofstede G., 1984, CULTURES CONSEQUENCE
+   Hofstede G., 2011, ONLINE READINGS PSYC, V2, DOI [10.9707/2307-0919.1014, DOI 10.9707/2307-0919.1014]
+   Hong YL, 2013, COMPUT STAT DATA AN, V59, P41, DOI 10.1016/j.csda.2012.10.006
+   Horne J, 2020, J CLEAN PROD, V242, DOI 10.1016/j.jclepro.2019.118052
+   Iaia L, 2019, BRIT FOOD J, V121, P1442, DOI 10.1108/BFJ-07-2018-0445
+   Ike M, 2019, J CLEAN PROD, V236, DOI 10.1016/j.jclepro.2019.117661
+   JAYNES ET, 1957, PHYS REV, V106, P620, DOI 10.1103/PhysRev.106.620
+   Khaled R, 2021, J CLEAN PROD, V311, DOI 10.1016/j.jclepro.2021.127599
+   Kolb M, 2017, INT J MANAG EDUC-OXF, V15, P280, DOI 10.1016/j.ijme.2017.03.009
+   Lopez B, 2020, MARK INTELL PLAN, V38, P573, DOI 10.1108/MIP-08-2018-0367
+   Manetti G, 2016, ACCOUNT AUDIT ACCOUN, V29, P985, DOI 10.1108/AAAJ-08-2014-1797
+   Mattei M, 2021, EPJ DATA SCI, V10, DOI 10.1140/epjds/s13688-021-00301-x
+   McWilliams A, 2001, ACAD MANAGE REV, V26, P117, DOI 10.5465/AMR.2001.4011987
+   Mehmood A, 2023, EUROMED J BUS, V18, P111, DOI 10.1108/EMJB-11-2021-0173
+   Mio C, 2020, BUS STRATEG ENVIRON, V29, P3220, DOI 10.1002/bse.2568
+   Noorhayati, 2018, INT J ACCOUNT FINANC, V3
+   Nylund PA, 2022, J CLEAN PROD, V371, DOI 10.1016/j.jclepro.2022.133446
+   Peixoto TP, 2022, Arxiv, DOI arXiv:2112.00183
+   Park J, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.066117
+   Patuelli A, 2022, J CLEAN PROD, V373, DOI 10.1016/j.jclepro.2022.133723
+   Patuelli A, 2021, PLOS ONE, V16, DOI 10.1371/journal.pone.0254748
+   Pedersen ER, 2010, J BUS ETHICS, V91, P155, DOI 10.1007/s10551-009-0078-0
+   Pilar L, 2019, SUSTAINABILITY-BASEL, V11, DOI 10.3390/su11246958
+   Poddar A, 2019, CORP SOC RESP ENV MA, V26, P1184, DOI 10.1002/csr.1741
+   Pons P, 2005, LECT NOTES COMPUT SC, V3733, P284
+   Prieto L, 2022, SUSTAINABILITY-BASEL, V14, DOI 10.3390/su141912111
+   Redman A, 2018, BUS STRATEGY DEV, V1, P230, DOI 10.1002/bsd2.33
+   Rosati F, 2019, CORP SOC RESP ENV MA, V26, P588, DOI 10.1002/csr.1705
+   Rosvall M, 2007, P NATL ACAD SCI USA, V104, P7327, DOI 10.1073/pnas.0611034104
+   Rotondo F, 2022, SCI REP-UK, V12, DOI 10.1038/s41598-022-23085-0
+   Saracco F, 2017, NEW J PHYS, V19, DOI 10.1088/1367-2630/aa6b38
+   Saracco F, 2015, SCI REP-UK, V5, DOI 10.1038/srep10595
+   Saxton GD, 2019, J BUS ETHICS, V155, P359, DOI 10.1007/s10551-017-3464-z
+   Scheyvens R, 2016, SUSTAIN DEV, V24, P371, DOI 10.1002/sd.1623
+   Shao CC, 2018, NAT COMMUN, V9, DOI 10.1038/s41467-018-06930-7
+   Silva S, 2021, J CLEAN PROD, V292, DOI 10.1016/j.jclepro.2021.125962
+   Sinkovics N, 2022, CRIT PERSPECT INT BU, V18, P445, DOI 10.1108/cpoib-05-2022-0059
+   Snider J, 2003, J BUS ETHICS, V48, P175, DOI 10.1023/B:BUSI.0000004606.29523.db
+   Stella M, 2019, PLOS ONE, V14, DOI 10.1371/journal.pone.0214210
+   Stella M, 2018, P NATL ACAD SCI USA, V115, P12435, DOI 10.1073/pnas.1803470115
+   Tabares S, 2021, J CLEAN PROD, V280, DOI 10.1016/j.jclepro.2020.124615
+   Tsalis TA, 2020, CORP SOC RESP ENV MA, V27, P1617, DOI 10.1002/csr.1910
+   UN General Assembly, 2015, TRANSF OUR WORLD 203
+   Vallarano N, 2021, SCI REP-UK, V11, DOI 10.1038/s41598-021-93830-4
+   van der Waal JWH, 2020, J CLEAN PROD, V252, DOI 10.1016/j.jclepro.2019.119625
+   van Zanten JA, 2021, BUS STRATEG ENVIRON, V30, P3703, DOI 10.1002/bse.2835
+   van Zanten JA, 2021, BUS STRATEG ENVIRON, V30, P2396, DOI 10.1002/bse.2753
+   Vildasen SS, 2018, BUS STRATEGY DEV, V1, P256, DOI 10.1002/bsd2.35
+   Zhou YS, 2022, MAR POLICY, V135, DOI 10.1016/j.marpol.2021.104853
+   Zollo F, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0181821
+NR 100
+TC 10
+Z9 10
+U1 1
+U2 4
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD APR 29
+PY 2023
+VL 13
+IS 1
+AR 7017
+DI 10.1038/s41598-023-34024-y
+PG 17
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA F8JS9
+UT WOS:000984763000003
+PM 37120611
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU McCully, FR
+   Rose, PE
+AF McCully, Fionnuala R.
+   Rose, Paul E.
+TI Individual personality predicts social network assemblages in a colonial
+   bird
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID WESTERN LOWLAND GORILLAS; RISK-TAKING; MATE CHOICE; GREAT TITS;
+   FLAMINGOS; BEHAVIOR; PATTERNS; AGGRESSION; MANAGEMENT; STABILITY
+AB Animal personalities manifest as consistent individual differences in the performance of specific behavioural expressions. Personality research has implications for zoo animal welfare, as it can further our understanding of how captive individuals may differ in their resource use and provide insight into improving individual and group social health. For group living species, personality may enable assortment based on similar behaviour and influence an individual's interactions with conspecifics (e.g. social support). This research aimed to document how personality traits (aggressive, exploratory, submissive) influenced the social network structure of highly social animals in a captive environment. Data were collected from separate flocks of captive Caribbean (Phoenicopterus ruber) and Chilean flamingos (Phoenicopterus chilensis) to identify relationships between birds and examine opportunities for social support. The flocks associated non-randomly, and in both cases, personality was a substantial predictor of network structure. Personality also predicted key elements of Caribbean flamingo social role (degree, betweenness and average association strength) conflict outcome, and propensity to provide social support, however these patterns were not replicated within the Chilean flamingo network. While both species appear to assort by personality, the broader relationship between personality and social role may vary depending on species and context.
+C1 [McCully, Fionnuala R.] Univ Liverpool, Sch Environm Sci, Liverpool L3 5DA, England.
+   [Rose, Paul E.] Univ Exeter, Ctr Res Anim Behav, Psychol, Exeter EX4 4QG, Devon, England.
+   [Rose, Paul E.] Slimbridge Wetland Ctr, WWT, Slimbridge GL2 7BT, Glos, England.
+C3 University of Liverpool; University of Exeter
+RP Rose, PE (corresponding author), Univ Exeter, Ctr Res Anim Behav, Psychol, Exeter EX4 4QG, Devon, England.; Rose, PE (corresponding author), Slimbridge Wetland Ctr, WWT, Slimbridge GL2 7BT, Glos, England.
+EM p.rose@exeter.ac.uk
+RI Rose, Paul/AAY-2506-2020
+OI McCully, Fionnuala/0000-0003-4873-388X
+CR [Anonymous], 2012, IBM SPSS STAT WINDOW
+   Aplin LM, 2013, ECOL LETT, V16, P1365, DOI 10.1111/ele.12181
+   Barrett LP, 2022, APPL ANIM BEHAV SCI, V254, DOI 10.1016/j.applanim.2022.105690
+   Bejder L, 1998, ANIM BEHAV, V56, P719, DOI 10.1006/anbe.1998.0802
+   Bell AM, 2009, ANIM BEHAV, V77, P771, DOI 10.1016/j.anbehav.2008.12.022
+   Black J.M., 1996, PARTNERSHIPS BIRDS S
+   Borgatti S P., 2002, NetDraw Software for Network Visualization
+   Borgatti S.P., 2002, Analytic Technologies, VVolume 1, DOI [10.1111/j.1439-0310.2009.01613.x, DOI 10.1111/J.1439-0310.2009.01613.X]
+   Budaev SV, 2010, ETHOLOGY, V116, P472, DOI 10.1111/j.1439-0310.2010.01758.x
+   Carere C, 2005, ANIM BEHAV, V70, P795, DOI 10.1016/j.anbehav.2005.01.003
+   Clark FE, 2011, AM J PRIMATOL, V73, P748, DOI 10.1002/ajp.20903
+   Clarke KR, 2006, Prim Plymouth UK, P192, DOI [DOI 10.1111/J.1442-9993.1993.TB00438.X, 10.1111/j.1442-9993.1993.tb00438.x]
+   Corner LAL, 2003, PREV VET MED, V59, P147, DOI 10.1016/S0167-5877(03)00075-8
+   Croft DP, 2009, BEHAV ECOL SOCIOBIOL, V63, P1495, DOI 10.1007/s00265-009-0802-x
+   Croft DP, 2008, EXPLORING ANIMAL SOCIAL NETWORKS, P1
+   Croft DP, 2004, P ROY SOC B-BIOL SCI, V271, pS516, DOI 10.1098/rsbl.2004.0206
+   Dammhahn M, 2012, ANIM BEHAV, V84, P1131, DOI 10.1016/j.anbehav.2012.08.014
+   David M, 2011, ANIM BEHAV, V81, P219, DOI 10.1016/j.anbehav.2010.10.008
+   Dingemanse NJ, 2021, TRENDS ECOL EVOL, V36, P177, DOI 10.1016/j.tree.2020.11.007
+   Estevez I, 2007, APPL ANIM BEHAV SCI, V103, P185, DOI 10.1016/j.applanim.2006.05.025
+   Farine DR, 2015, J ANIM ECOL, V84, P1144, DOI 10.1111/1365-2656.12418
+   Favati A, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0103535
+   Flack JC, 2006, NATURE, V439, P426, DOI 10.1038/nature04326
+   Franks DW, 2010, BEHAV ECOL SOCIOBIOL, V64, P493, DOI 10.1007/s00265-009-0865-8
+   Fraser ON, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0010605
+   Frost AJ, 2007, P ROY SOC B-BIOL SCI, V274, P333, DOI 10.1098/rspb.2006.3751
+   Gomes ACR, 2022, BEHAV ECOL, V33, P526, DOI 10.1093/beheco/arac021
+   Gosling SD, 2001, PSYCHOL BULL, V127, P45, DOI 10.1037//0033-2909.127.1.45
+   Haddadi H, 2011, BEHAV ECOL SOCIOBIOL, V65, P1659, DOI 10.1007/s00265-011-1193-3
+   Hanneman RA, 2005, Introduction to social network methods
+   Hansen H, 2009, ETHOLOGY, V115, P384, DOI 10.1111/j.1439-0310.2009.01624.x
+   Hinton MG, 2013, ZOO BIOL, V32, P445, DOI 10.1002/zoo.21078
+   JACKSON WM, 1991, BEHAV ECOL SOCIOBIOL, V28, P271
+   Jolles JW, 2020, TRENDS ECOL EVOL, V35, P278, DOI 10.1016/j.tree.2019.11.001
+   Jouventin P, 1999, ANIM BEHAV, V57, P1099, DOI 10.1006/anbe.1999.1083
+   Kassambara Alboukadel, 2020, CRAN
+   Koski SE, 2011, BEHAV ECOL SOCIOBIOL, V65, P2161, DOI 10.1007/s00265-011-1224-0
+   Krause J, 2007, BEHAV ECOL SOCIOBIOL, V62, P15, DOI 10.1007/s00265-007-0445-8
+   Krause J, 2010, PHILOS T R SOC B, V365, P4099, DOI 10.1098/rstb.2010.0216
+   Massen JJM, 2014, EVOL HUM BEHAV, V35, P1, DOI 10.1016/j.evolhumbehav.2013.08.008
+   McGhee KE, 2010, ANIM BEHAV, V79, P497, DOI 10.1016/j.anbehav.2009.11.037
+   Morton FB, 2015, ANIM BEHAV, V105, P163, DOI 10.1016/j.anbehav.2015.04.013
+   Munson AA, 2020, TRENDS ECOL EVOL, V35, P823, DOI 10.1016/j.tree.2020.04.010
+   Pacheco XP, 2021, BEHAV PROCESS, V190, DOI 10.1016/j.beproc.2021.104446
+   Patriquin KJ, 2010, BEHAV ECOL SOCIOBIOL, V64, P899, DOI 10.1007/s00265-010-0905-4
+   Perdue BM, 2011, ZOO BIOL, V30, P59, DOI 10.1002/zoo.20313
+   Pickering S. P. C., 1992, International Zoo Yearbook, V31, P139, DOI 10.1111/j.1748-1090.1991.tb02377.x
+   Pike TW, 2008, P ROY SOC B-BIOL SCI, V275, P2515, DOI 10.1098/rspb.2008.0744
+   Racevska E, 2017, J ZOO AQUAR RES, V5, P116
+   Radosevich LM, 2021, ZOO BIOL, V40, P503, DOI 10.1002/zoo.21630
+   Rault JL, 2012, APPL ANIM BEHAV SCI, V136, P1, DOI 10.1016/j.applanim.2011.10.002
+   Réale D, 2010, PHILOS T R SOC B, V365, P4051, DOI 10.1098/rstb.2010.0208
+   Renner Michael J., 2006, Journal of Applied Animal Welfare Science, V9, P233, DOI 10.1207/s15327604jaws0903_5
+   Rose PE, 2015, ANIM WELFARE, V24, P123, DOI 10.7120/09627286.24.2.123
+   Rose P. E., 2014, International Zoo Yearbook, V48, P139, DOI 10.1111/izy.12051
+   Rose PE, 2020, BEHAV PROCESS, V175, DOI 10.1016/j.beproc.2020.104118
+   Rose PE, 2018, APPL ANIM BEHAV SCI, V205, P115, DOI 10.1016/j.applanim.2018.05.015
+   Rose PE, 2018, BEHAV PROCESS, V150, P66, DOI 10.1016/j.beproc.2018.03.002
+   Rose PE, 2017, APPL ANIM BEHAV SCI, V193, P87, DOI 10.1016/j.applanim.2017.03.006
+   Royer EA, 2014, BEHAV PROCESS, V105, P60, DOI 10.1016/j.beproc.2014.03.005
+   Schneider G, 2012, ANIM BEHAV, V83, P377, DOI 10.1016/j.anbehav.2011.11.007
+   Schuett W, 2010, BIOL REV, V85, P217, DOI 10.1111/j.1469-185X.2009.00101.x
+   STEVENS EF, 1994, ZOO BIOL, V13, P501, DOI 10.1002/zoo.1430130512
+   Stoinski TS, 2012, ZOO BIOL, V31, P586, DOI 10.1002/zoo.20425
+   Su XP, 2019, J EXP BIOL, V222, DOI 10.1242/jeb.188706
+   Team RCRF for SC, 2022, R LANGUAGE ENV STAT
+   van Oers K, 2004, P ROY SOC B-BIOL SCI, V271, P65, DOI 10.1098/rspb.2003.2518
+   Watters JV, 2012, ZOO BIOL, V31, P1, DOI 10.1002/zoo.20379
+   Whitehead H, 1999, ADV STUD BEHAV, V28, P33, DOI 10.1016/S0065-3454(08)60215-6
+   Whitehead H, 2008, ANAL ANIMAL SOC QUAN
+   Whitehead H., 2019, SOCPROG: Programs for analyzing social structure
+   Whitehead H, 2009, BEHAV ECOL SOCIOBIOL, V63, P765, DOI 10.1007/s00265-008-0697-y
+   Wielebnowski NC, 1999, ZOO BIOL, V18, P335, DOI 10.1002/(SICI)1098-2361(1999)18:4<335::AID-ZOO8>3.0.CO;2-X
+   Wilson ADM, 2013, BEHAV ECOL SOCIOBIOL, V67, P163, DOI 10.1007/s00265-012-1428-y
+NR 74
+TC 5
+Z9 5
+U1 0
+U2 5
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD MAR 1
+PY 2023
+VL 13
+IS 1
+AR 2258
+DI 10.1038/s41598-023-29315-3
+PG 11
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA G9DN6
+UT WOS:000992078000009
+PM 36859497
+OA gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Hollstein, B
+AF Hollstein, Betina
+TI Personal network dynamics across the life course: A relationship-related
+   structural approach
+SO ADVANCES IN LIFE COURSE RESEARCH
+LA English
+DT Article
+DE Social network; Network structure; Network mechanisms; Life events; Life
+   course transitions; Georg Simmel
+ID SUPPORT; FRIENDSHIP; STABILITY; EVENTS; PEOPLE; CORE
+AB Building on Georg Simmel's concept of "form", the article presents a relationship related structural concept of social relationships that specifically accounts for opportunities and constraints resulting from the fact that relationships are solidified patterns of interaction that, once established, can develop a power of their own (inertia, momentum) that cannot easily be influenced by the involved actors. In this "relationship-related structural approach", social relationships or "forms" can be understood as specific constellations of "basic structural properties", i.e. specifications of various aspects of quantity, of time, of space, of similarity, and including also a certain degree of freedom to enter or quit a relationship, knowledge about one another, and types and degree of institutionalization. The specification of these structural properties impacts the functional capacity of relationships, as well as the dynamics of both relationships and networks, especially the ways in which relationships are formed, maintained, or lost. Referring to various life course transitions from different phases of the life course, it is demonstrated how this approach helps to better understand the dynamics of social relationships and networks and the impact of life events on personal relationships across the life course. Finally, implications of this novel perspective for life course and network research are discussed.
+C1 [Hollstein, Betina] Univ Bremen, SOCIUM Res Ctr Inequal & Social Policy, Mary Somerville Str 9, D-28359 Bremen, Germany.
+C3 University of Bremen
+RP Hollstein, B (corresponding author), Univ Bremen, SOCIUM Res Ctr Inequal & Social Policy, Mary Somerville Str 9, D-28359 Bremen, Germany.
+EM betina.hollstein@uni-bremen.de
+FU Government of the Federal State of Berlin ("Berlin-Forschung")
+FX This paper is part of the project "Widowhood in old age. Network
+   dynamics after the death of the spouse", funded by the Government of the
+   Federal State of Berlin ("Berlin-Forschung") . For valuable comments I
+   am indebted to three anonymous reviewers, the Guest Editors of the
+   Special Issue on "Networked Lives: Probing the Influence of Social
+   Networks on the Life Course" and the Editor of Advances in Life Course
+   Research, Juho Harkonen.
+CR Allan GrahamA., 1979, A Sociology of Friendship and Kinship
+   Alwin D. F., 2018, Social networks and the life course: Integrating the development of human lives and social relational networks, DOI [10.1007/978-3-319-71544-5, DOI 10.1007/978-3-319-71544-5]
+   [Anonymous], 1990, Foundations of social theory, DOI 10.2307/2579680
+   [Anonymous], 2009, Sociology: Inquiries into the Construction of Social Forms
+   Antonucci T.C., 1994, Social networks and social support in childhood and adolescence, P37, DOI DOI 10.1515/9783110866377.37
+   Berger Peter L., 1966, SOCIAL CONSTRUCTION
+   Bernardi L, 2019, ADV LIFE COURSE RES, V41, DOI 10.1016/j.alcr.2018.11.004
+   Bidart C, 2020, STRUC AN S, P1, DOI 10.1017/9781108882392
+   Bidart C, 2005, SOC NETWORKS, V27, P359, DOI 10.1016/j.socnet.2004.11.003
+   Bourdieu Pierre., 1984, DISTINCTION SOCIAL C, DOI DOI 10.1002/9780470755679.CH15
+   Cantor M.H., 1979, RES AGING, V1, P434, DOI [10.1177/016402757914002, DOI 10.1177/016402757914002]
+   Carstensen L.L., 1991, Annual Review of Gerontology and Geriatrics, V11, P195
+   CLARK MS, 1986, J PERS SOC PSYCHOL, V51, P333, DOI 10.1037/0022-3514.51.2.333
+   Elder G.H., 1996, Perspectives of structure, theory, life course and methods, P247
+   EMIRBAYER M, 1994, AM J SOCIOL, V99, P1411, DOI 10.1086/230450
+   FELD SL, 1981, AM J SOCIOL, V86, P1015, DOI 10.1086/227352
+   FISCHER CS, 1983, SOC FORCES, V62, P124, DOI 10.2307/2578351
+   Freeman L., 2004, DEV SOCIAL NETWORK A, P687
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Hollstein B., 2023, Sage Handbook of Social Network Analysis, V2nd, P562
+   Hollstein B., 2002, Soziale Netzwerke nach der Verwitwung: Eine Rekonstruktion der Veranderungen informeller Beziehungen, DOI [10.1007/978-3-663-01417-1, DOI 10.1007/978-3-663-01417-1]
+   Hollstein B., 2001, Grenzen sozialer Integration: Zur Konzeption informeller Beziehungen und Netzwerke, DOI [10.1007/978-3-663-10195-6, DOI 10.1007/978-3-663-10195-6]
+   Hollstein B., 2021, Personal Networks: Classic Readings and New Directions in Ego-centric Analysis, P51
+   Kahn R. L., 1980, LIFE-SPAN DEV BEHAV, V3, P253, DOI DOI 10.1002/9780470880166.HLSD002012
+   Kalmijn M, 2003, SOC NETWORKS, V25, P231, DOI 10.1016/S0378-8733(03)00010-8
+   LANG FR, 1994, PSYCHOL AGING, V9, P315, DOI 10.1037/0882-7974.9.2.315
+   Lin N., 2001, SOCIAL CAPITAL THEOR, V19, DOI DOI 10.1017/CBO9780511815447
+   Litwak Eugene., 1985, HELPING ELDERLY
+   Marsden PV, 2023, SOC SCI RES, V109, DOI 10.1016/j.ssresearch.2022.102816
+   Marsden PV, 2018, FRONT SOCIOL SOC RES, P89, DOI 10.1007/978-3-319-71544-5_5
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   McPherson M, 2006, AM SOCIOL REV, V71, P353, DOI 10.1177/000312240607100301
+   Merton RK, 1936, AM SOCIOL REV, V1, P894, DOI 10.2307/2084615
+   Mollenhorst G, 2014, SOC NETWORKS, V37, P65, DOI 10.1016/j.socnet.2013.12.003
+   Morgan DL, 1997, SOC NETWORKS, V19, P9, DOI 10.1016/S0378-8733(96)00288-2
+   PESCOSOLIDO BA, 1992, AM J SOCIOL, V97, P1096, DOI 10.1086/229863
+   Portes A, 1998, ANNU REV SOCIOL, V24, P1, DOI 10.1146/annurev.soc.24.1.1
+   Rivera MT, 2010, ANNU REV SOCIOL, V36, P91, DOI 10.1146/annurev.soc.34.040507.134743
+   ROOK KS, 1984, J PERS SOC PSYCHOL, V46, P1097, DOI 10.1037/0022-3514.46.5.1097
+   Settersten R.A., 2005, ADV LIFE COURSE RES, V10, P35, DOI DOI 10.1016/S1040-2608(05)10001-X
+   Settersten RA, 2018, FRONT SOCIOL SOC RES, P27, DOI 10.1007/978-3-319-71544-5_2
+   Simmel Georg., 1908, SOZIOLOGIE
+   Small M.L., 2021, Personal networks: Classic readings and new directions
+   Small ML, 2019, ANNU REV SOCIOL, V45, P111, DOI 10.1146/annurev-soc-073018-022707
+   Small Mario Luis, 2009, Unanticipated gains
+   Smith SS, 2005, AM J SOCIOL, V111, P1, DOI 10.1086/428814
+   Stevens N., 1989, Well-being in widowhood: a question of balance
+   Suitor J, 1997, SOC NETWORKS, V19, P51, DOI 10.1016/S0378-8733(96)00290-0
+   Tilly Charles., 1998, DURABLE INEQUALITY
+   Tulin M, 2021, SOC NETWORKS, V65, P51, DOI 10.1016/j.socnet.2020.11.003
+   Vacchiano M, 2021, J THEOR SOC BEHAV, V51, P87, DOI 10.1111/jtsb.12265
+   van Duijn MAJ, 1999, SOC NETWORKS, V21, P187, DOI 10.1016/S0378-8733(99)00009-X
+   van Tilburg T, 1998, J GERONTOL B-PSYCHOL, V53, pS313, DOI 10.1093/geronb/53B.6.S313
+   Volker B, 2022, ADV LIFE COURSE RES, V53, DOI 10.1016/j.alcr.2022.100498
+   Volker B, 2020, NETW SCI, V8, P313, DOI 10.1017/nws.2020.26
+   Webster NJ, 2022, ADV LIFE COURSE RES, V54, DOI 10.1016/j.alcr.2022.100502
+   Wellman B, 1997, SOC NETWORKS, V19, P27, DOI 10.1016/S0378-8733(96)00289-4
+   WENTOWSKI GJ, 1981, GERONTOLOGIST, V21, P600, DOI 10.1093/geront/21.6.600
+   Wrzus C, 2013, PSYCHOL BULL, V139, P53, DOI 10.1037/a0028601
+NR 59
+TC 4
+Z9 4
+U1 1
+U2 3
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1040-2608
+J9 ADV LIFE COURSE RES
+JI Adv. Life Course Res.
+PD DEC
+PY 2023
+VL 58
+AR 100567
+DI 10.1016/j.alcr.2023.100567
+EA SEP 2023
+PG 10
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA S8KD3
+UT WOS:001073592600001
+PM 38054867
+OA hybrid
+DA 2024-11-22
+ER

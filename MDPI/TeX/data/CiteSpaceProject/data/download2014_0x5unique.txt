@@ -1,0 +1,577 @@
+
+PT J
+AU Xu, WW
+   Sang, Y
+   Blasiola, S
+   Park, HW
+AF Xu, Weiai Wayne
+   Sang, Yoonmo
+   Blasiola, Stacy
+   Park, Han Woo
+TI Predicting Opinion Leaders in Twitter Activism Networks: The Case of the
+   Wisconsin Recall Election
+SO AMERICAN BEHAVIORAL SCIENTIST
+LA English
+DT Article
+DE opinion leadership; network analysis; Twitter; social media; digital
+   activism
+ID SOCIAL NETWORKS; ONLINE; COMMUNICATION; DISCUSSIONS; INVOLVEMENT; NEWS;
+   FLOW
+AB This study employs content and network analysis techniques to explore the predictors of opinion leadership in a political activism network on Twitter. The results demonstrate the feasibility of using user-generated content to measure user characteristics. The characteristics were analyzed to predict users' performance in the network. According to the results, Twitter users with higher connectivity and issue involvement are better at influencing information flow on Twitter. User connectivity was measured by betweenness centrality, and issue involvement was measured by a user's geographic proximity to a given event and the contribution of engaging tweets. In addition, the results show that tweets by organizations had greater influence than those by individual users.
+C1 [Xu, Weiai Wayne] SUNY Buffalo, Buffalo, NY 14260 USA.
+   [Sang, Yoonmo] Univ Texas Austin, Dept Radio TV Film, Austin, TX 78712 USA.
+   [Blasiola, Stacy] Univ Illinois, Dept Commun, Chicago, IL USA.
+   [Park, Han Woo] Yeungnam Univ, Dept Media & Commun, Gyongsan, South Korea.
+C3 State University of New York (SUNY) System; University at Buffalo, SUNY;
+   University of Texas System; University of Texas Austin; University of
+   Illinois System; University of Illinois Chicago; University of Illinois
+   Chicago Hospital; Yeungnam University
+RP Park, HW (corresponding author), Yeungnam Univ, Deptment Media & Commun, 214-1 Dae Dong, Gyongsan 712749, Gyeongsangbuk D, South Korea.
+EM hanpark@ynu.ac.kr
+RI Park, Han/F-4051-2011; Xu, Weiai/J-9144-2019
+OI Sang, Yoonmo/0000-0003-3439-0417; Xu, Weiai Wayne/0000-0002-7369-3886
+CR [Anonymous], 2010, ICWSM 10
+   [Anonymous], SOC MED POL ENG
+   [Anonymous], 2001, The Secrets of Word-of-Mouth Marketing. How to Trigger Exponential Sales through Runaway Word-of-Mouth
+   [Anonymous], INT C PERS TECHN PER
+   [Anonymous], 2012, INFORM COMMUN SOC, DOI [10.1080/1369118X.2012.670661, DOI 10.1080/1369118X.2012.670661]
+   [Anonymous], FUT JOURN
+   BERGADAA M, 1995, J SOC PSYCHOL, V135, P17, DOI 10.1080/00224545.1995.9711396
+   Borgatti SP, 2009, SCIENCE, V323, P892, DOI 10.1126/science.1165821
+   Bruns A, 2012, INFORM COMMUN SOC, V15, P1323, DOI 10.1080/1369118X.2011.635214
+   Burt RS, 1999, ANN AM ACAD POLIT SS, V566, P37, DOI 10.1177/0002716299566001004
+   COLEMAN J, 1959, J Chronic Dis, V9, P1, DOI 10.1016/0021-9681(59)90134-1
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   Gruzd A, 2011, AM BEHAV SCI, V55, P1294, DOI 10.1177/0002764211409378
+   Himelboim I, 2009, J COMPUT-MEDIAT COMM, V14, P771, DOI 10.1111/j.1083-6101.2009.01470.x
+   Himelboim I, 2008, J COMPUT-MEDIAT COMM, V14, P156, DOI 10.1111/j.1083-6101.2008.01435.x
+   Hsu C.L., 2013, Journal of Contemporary Eastern Asia, V12, P65, DOI DOI 10.17477/JCEA.2013.12.1.065
+   Hsu CL, 2012, GOV INFORM Q, V29, P169, DOI 10.1016/j.giq.2011.09.009
+   Hsu CL, 2011, SOC SCI COMPUT REV, V29, P354, DOI 10.1177/0894439310382517
+   Huber P. J., 1967, P 5 BERK S MATH STAT, V1, P221
+   KATZ E, 1957, PUBLIC OPIN QUART, V21, P61, DOI 10.1086/266687
+   Kavanaugh AL, 2012, GOV INFORM Q, V29, P480, DOI 10.1016/j.giq.2012.06.002
+   Kim M, 2012, SCIENTOMETRICS, V90, P121, DOI 10.1007/s11192-011-0508-5
+   Krippendorff K, 2004, HUM COMMUN RES, V30, P411, DOI 10.1111/j.1468-2958.2004.tb00738.x
+   Larsson AO, 2012, NEW MEDIA SOC, V14, P729, DOI 10.1177/1461444811422894
+   Lazarsfeld, 1955, PERSONAL INFLUENCE P
+   Lazarsfeld Paul., 1948, PEOPLES CHOICE
+   Lovejoy K, 2012, J COMPUT-MEDIAT COMM, V17, P337, DOI 10.1111/j.1083-6101.2012.01576.x
+   Morozov E., 2013, To save everything, click here: The folly of technological solutionism
+   Nielsen RK, 2012, INFORM COMMUN SOC, V15, P959, DOI 10.1080/1369118X.2012.694898
+   Otterbacher J., 2013, Journal of Contemporary Eastern Asia, V12, P5, DOI DOI 10.17477/JCEA.2013.12.1.005
+   Papacharissi Z, 2012, J COMMUN, V62, P266, DOI 10.1111/j.1460-2466.2012.01630.x
+   Park HW, 2008, QUAL QUANT, V42, P687, DOI 10.1007/s11135-007-9109-z
+   Phelps JE, 2004, J ADVERTISING RES, V44, P333, DOI 10.1017/S0021849904040371
+   PUTNAM R, 1995, J DEMOCRACY, V0006
+   Rogers E.M., 2003, DIFFUSION INNOVATION
+   Suler J, 2004, CYBERPSYCHOL BEHAV, V7, P321, DOI 10.1089/1094931041291295
+   Sun T, 2006, J COMPUT-MEDIAT COMM, V11
+   Takhteyev Y, 2012, SOC NETWORKS, V34, P73, DOI 10.1016/j.socnet.2011.05.006
+   Tsang ASL, 2005, J BUS RES, V58, P1186, DOI 10.1016/j.jbusres.2004.05.002
+   Tumasjan A, 2011, SOC SCI COMPUT REV, V29, P402, DOI 10.1177/0894439310386557
+   Valente TW, 2007, HEALTH EDUC BEHAV, V34, P881, DOI 10.1177/1090198106297855
+   Vishwanath A., 2011, The diffusion of innovations: A communication science perspective
+   Weber MS, 2011, J COMMUN, V61, P1062, DOI 10.1111/j.1460-2466.2011.01596.x
+   Weimann G, 2007, INT J PUBLIC OPIN R, V19, P173, DOI 10.1093/ijpor/edm005
+   WHITE H, 1982, ECONOMETRICA, V50, P1, DOI 10.2307/1912526
+   Yardi S., 2010, Proceedings of the Fourth International AAAI Conference on Weblogs and Social Media, V4, P194
+   Yoon HY, 2014, QUAL QUANT, V48, P409, DOI 10.1007/s11135-012-9777-1
+   ZAICHKOWSKY JL, 1985, J CONSUM RES, V12, P341, DOI 10.1086/208520
+NR 48
+TC 107
+Z9 134
+U1 3
+U2 82
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0002-7642
+EI 1552-3381
+J9 AM BEHAV SCI
+JI Am. Behav. Sci.
+PD SEP
+PY 2014
+VL 58
+IS 10
+SI SI
+BP 1278
+EP 1293
+DI 10.1177/0002764214527091
+PG 16
+WC Psychology, Clinical; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology; Social Sciences - Other Topics
+GA AO6CQ
+UT WOS:000341436600003
+DA 2024-11-22
+ER
+
+PT J
+AU Shimoji, H
+   Abe, MS
+   Tsuji, K
+   Masuda, N
+AF Shimoji, Hiroyuki
+   Abe, Masato S.
+   Tsuji, Kazuki
+   Masuda, Naoki
+TI Global network structure of dominance hierarchy of ant workers
+SO JOURNAL OF THE ROYAL SOCIETY INTERFACE
+LA English
+DT Article
+DE dominance hierarchy; directed networks; social network analysis
+ID COLONY SIZE; DIACAMMA SP; SUBORDINATE REPRODUCTION; SOCIAL-BEHAVIOR;
+   LINEARITY; CONFLICT; DYNAMICS; EVOLUTION; MODELS; COST
+AB Dominance hierarchy among animals is widespread in various species and believed to serve to regulate resource allocation within an animal group. Unlike small groups, however, detection and quantification of linear hierarchy in large groups of animals are a difficult task. Here, we analyse aggression-based dominance hierarchies formed by worker ants in Diacamma sp. as large directed networks. We show that the observed dominance networks are perfect or approximate directed acyclic graphs, which are consistent with perfect linear hierarchy. The observed networks are also sparse and random but significantly different from networks generated through thinning of the perfect linear tournament (i.e. all individuals are linearly ranked and dominance relationship exists between every pair of individuals). These results pertain to global structure of the networks, which contrasts with the previous studies inspecting frequencies of different types of triads. In addition, the distribution of the out-degree (i.e. number of workers that the focal worker attacks), not in-degree (i.e. number of workers that attack the focal worker), of each observed network is right-skewed. Those having excessively large out-degrees are located near the top, but not the top, of the hierarchy. We also discuss evolutionary implications of the discovered properties of dominance networks.
+C1 [Shimoji, Hiroyuki; Tsuji, Kazuki] Univ Ryukyus, Dept Agroenvironm Sci, Fac Agr, Nishihara, Okinawa 9030213, Japan.
+   [Shimoji, Hiroyuki; Abe, Masato S.] Univ Tokyo, Grad Sch Arts & Sci, Dept Gen Syst Studies, Tokyo 1538902, Japan.
+   [Masuda, Naoki] Univ Bristol, Dept Engn Math, Bristol BS8 1UB, Avon, England.
+   [Masuda, Naoki] JST, CREST, Kawaguchi, Saitama 3320012, Japan.
+C3 University of the Ryukyus; University of Tokyo; University of Bristol;
+   Japan Science & Technology Agency (JST)
+RP Masuda, N (corresponding author), Univ Bristol, Dept Engn Math, Bristol BS8 1UB, Avon, England.
+EM naoki.masuda@bristol.ac.uk
+RI ; Tsuji, Kazuki/D-6607-2014
+OI Shimoji, Hiroyuki/0000-0002-8589-2065; Tsuji,
+   Kazuki/0000-0002-2027-8582; Masuda, Naoki/0000-0003-1567-801X; Abe,
+   Masato/0000-0002-0468-1179
+FU MEXT, Japan [23681039]; CREST, JST; ERATO, Kawarabayashi Large Graph
+   Project, JST;  [11J03715];  [11J10448]; Grants-in-Aid for Scientific
+   Research [26249024, 23405011, 25304014, 25660266, 23681039, 13J04279]
+   Funding Source: KAKEN
+FX H.S. and M. S. A. are supported by Grant-in-Aid for JSPS Fellows (nos.
+   11J03715 and 11J10448). N.M. acknowledges the support provided through
+   Grants-in-Aid for Scientific Research (no. 23681039) from MEXT, Japan,
+   CREST, JST, and ERATO, Kawarabayashi Large Graph Project, JST.
+CR APPLEBY MC, 1983, ANIM BEHAV, V31, P600, DOI 10.1016/S0003-3472(83)80084-0
+   Bell MBV, 2012, P ROY SOC B-BIOL SCI, V279, P619, DOI 10.1098/rspb.2011.1093
+   Blonder B, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0020298
+   Bourke AFG, 2011, OX ECOL EV, P1, DOI 10.1093/acprof:oso/9780199231157.001.0001
+   BOURKE AFG, 1988, BEHAV ECOL SOCIOBIOL, V23, P323, DOI 10.1007/BF00300579
+   Bourke AFG., 1995, Social Evolution in Ants
+   CHASE ID, 1982, BEHAVIOUR, V80, P218, DOI 10.1163/156853982X00364
+   CHASE ID, 1980, AM SOCIOL REV, V45, P905, DOI 10.2307/2094909
+   Clutton-Brock TH, 2001, SCIENCE, V291, P478, DOI 10.1126/science.291.5503.478
+   Clutton-Brock TH, 2010, AM NAT, V176, P664, DOI 10.1086/656492
+   COHEN JE, 1985, PROC R SOC SER B-BIO, V224, P421, DOI 10.1098/rspb.1985.0042
+   COLE BJ, 1986, BEHAV ECOL SOCIOBIOL, V18, P165, DOI 10.1007/BF00290820
+   COLE BJ, 1981, SCIENCE, V212, P83, DOI 10.1126/science.212.4490.83
+   Corominas-Murtra B, 2011, CHAOS, V21, DOI 10.1063/1.3562548
+   Corominas-Murtra B, 2010, NEW J PHYS, V12, DOI 10.1088/1367-2630/12/11/113051
+   DEVRIES H, 1995, ANIM BEHAV, V50, P1375, DOI 10.1016/0003-3472(95)80053-0
+   Dey CJ, 2013, ANIM BEHAV, V85, P395, DOI 10.1016/j.anbehav.2012.11.012
+   DREWS C, 1993, BEHAVIOUR, V125, P283, DOI 10.1163/156853993X00290
+   EADES P, 1993, INFORM PROCESS LETT, V47, P319, DOI 10.1016/0020-0190(93)90079-O
+   Earley Ryan L., 2010, P285
+   FUKUMOTO Y, 1989, Physiology and Ecology Japan, V26, P55
+   Gadau Jurgen., 2009, Organization of insect societies: From genome to sociocomplexity
+   Galimberti F, 2003, J ETHOL, V21, P131, DOI 10.1007/s10164-002-0084-5
+   Gammell MP, 2003, ANIM BEHAV, V66, P601, DOI 10.1006/anbe.2003.2226
+   Gobin B, 2003, NATURWISSENSCHAFTEN, V90, P318, DOI 10.1007/s00114-003-0430-7
+   Goñi J, 2010, PHYS REV E, V82, DOI 10.1103/PhysRevE.82.066115
+   HAMILTON WD, 1964, J THEOR BIOL, V7, P1, DOI [10.1016/0022-5193(64)90038-4, 10.1016/0022-5193(64)90039-6]
+   HARARY F, 1966, AM MATH MON, V73, P231, DOI 10.2307/2315334
+   Heinze J, 1997, ANIM BEHAV, V54, P849, DOI 10.1006/anbe.1996.0511
+   Hemelrijk CK, 2005, BEHAVIOUR, V142, P1037, DOI 10.1163/156853905774405290
+   Holme P, 2012, PHYS REP, V519, P97, DOI 10.1016/j.physrep.2012.03.001
+   Izar P, 2006, AM J PRIMATOL, V68, P189, DOI 10.1002/ajp.20216
+   Karrer B, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.046110
+   Kawabata S, 2005, INSECT SOC, V52, P89, DOI 10.1007/s00040-004-0778-5
+   Keller L, 1999, MG BEH ECOL, P153
+   Kikuchi T, 2008, ANIM BEHAV, V76, P2069, DOI 10.1016/j.anbehav.2008.08.029
+   Klass K, 2011, BEHAV PROCESS, V88, P168, DOI 10.1016/j.beproc.2011.09.003
+   Lindquist WB, 2009, B MATH BIOL, V71, P556, DOI 10.1007/s11538-008-9371-9
+   Ma HW, 2004, BMC BIOINFORMATICS, V5, DOI 10.1186/1471-2105-5-199
+   McDonald DB, 2013, BEHAV ECOL, V24, P511, DOI 10.1093/beheco/ars192
+   Milo R, 2002, SCIENCE, V298, P824, DOI 10.1126/science.298.5594.824
+   Molet M, 2005, INSECT SOC, V52, P247, DOI 10.1007/s00040-005-0801-5
+   Mones E, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0033799
+   Monnin T, 2003, BEHAV ECOL SOCIOBIOL, V54, P71, DOI 10.1007/s00265-003-0600-9
+   Monnin T, 1999, BEHAV ECOL, V10, P323, DOI 10.1093/beheco/10.3.323
+   Monnin T, 1999, BEHAV ECOL SOCIOBIOL, V46, P413, DOI 10.1007/s002650050637
+   Nakata K, 1996, ETHOL ECOL EVOL, V8, P147, DOI 10.1080/08927014.1996.9522925
+   Nelson-Flower MJ, 2013, P ROY SOC B-BIOL SCI, V280, DOI 10.1098/rspb.2013.0728
+   PEETERS C, 1993, INSECT SOC, V40, P119, DOI 10.1007/BF01240701
+   PEETERS C, 1984, NATURWISSENSCHAFTEN, V71, P50, DOI 10.1007/BF00365989
+   Pinter-Wollman N, 2014, BEHAV ECOL, V25, P242, DOI 10.1093/beheco/art047
+   Queller DC, 2000, NATURE, V405, P784, DOI 10.1038/35015552
+   RATNIEKS FLW, 1988, AM NAT, V132, P217, DOI 10.1086/284846
+   Shizuka D, 2012, ANIM BEHAV, V83, P925, DOI 10.1016/j.anbehav.2012.01.011
+   Tsuji K, 2012, EVOLUTION, V66, P1322, DOI 10.1111/j.1558-5646.2011.01522.x
+   Wilson E.O., 1975, P1
+NR 56
+TC 29
+Z9 31
+U1 0
+U2 42
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 1742-5689
+EI 1742-5662
+J9 J R SOC INTERFACE
+JI J. R. Soc. Interface
+PD OCT 6
+PY 2014
+VL 11
+IS 99
+AR 20140599
+DI 10.1098/rsif.2014.0599
+PG 11
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA AO1UP
+UT WOS:000341100800022
+PM 25100318
+OA Green Submitted, Green Published, Bronze
+DA 2024-11-22
+ER
+
+PT J
+AU Charness, G
+   Feri, F
+   Meléndez-Jiménez, MA
+   Sutter, M
+AF Charness, Gary
+   Feri, Francesco
+   Melendez-Jimenez, Miguel A.
+   Sutter, Matthias
+TI EXPERIMENTAL GAMES ON NETWORKS: UNDERPINNINGS OF BEHAVIOR AND
+   EQUILIBRIUM SELECTION
+SO ECONOMETRICA
+LA English
+DT Article
+DE Random networks; incomplete information; complete information;
+   connectivity; clustering; strategic substitutes; strategic complements;
+   experiment
+ID LOCAL INTERACTION; SOCIAL NETWORKS; LABOR-MARKET; COORDINATION;
+   COOPERATION; EVOLUTION; PREFERENCES; COMPETITION; EMPLOYMENT; STABILITY
+AB In this paper, we describe a series of laboratory experiments that implement specific examples of a general network structure. Specifically, actions are either strategic substitutes or strategic complements, and participants have either complete or incomplete information about the structure of a random network. Since economic environments typically have a considerable degree of complementarity or substitutability, this framework applies to a wide variety of settings. We examine behavior and equilibrium selection. The degree of equilibrium play is striking, in particular with incomplete information. Behavior closely resembles the theoretical equilibrium whenever this is unique; when there are multiple equilibria, general features of networks, such as connectivity, clustering, and the degree of the players, help to predict informed behavior in the lab. People appear to be strongly attracted to maximizing aggregate payoffs (social efficiency), but there are forces that moderate this attraction: (1) people seem content with (in the aggregate) capturing only the lion's share of the efficient profits in exchange for reduced exposure to loss, and (2) uncertainty about the network structure makes it considerably more difficult to coordinate on a demanding, but efficient, equilibrium that is typically implemented with complete information.
+C1 [Charness, Gary] Univ Calif Santa Barbara, Dept Econ, Santa Barbara, CA 93106 USA.
+   [Charness, Gary] IZA Bonn, Bonn, Germany.
+   [Charness, Gary] CESifo Munich, Munich, Germany.
+   [Feri, Francesco] Univ London, Dept Econ, Egham TW20 0EX, Surrey, England.
+   [Feri, Francesco] Univ Trieste, I-34127 Trieste, Italy.
+   [Melendez-Jimenez, Miguel A.] Univ Malaga, Dept Teor & Hist Econ, Malaga 29013, Spain.
+   [Sutter, Matthias] European Univ Inst, Dept Econ, I-50133 Florence, Italy.
+   [Sutter, Matthias] Univ Innsbruck, A-6020 Innsbruck, Austria.
+   [Sutter, Matthias] Univ Cologne, Cologne, Germany.
+C3 University of California System; University of California Santa Barbara;
+   IZA Institute Labor Economics; Ifo Institut; University of London; Royal
+   Holloway University London; University of Trieste; Universidad de
+   Malaga; European University Institute; University of Innsbruck;
+   University of Cologne
+RP Charness, G (corresponding author), Univ Calif Santa Barbara, Dept Econ, 2127 North Hall, Santa Barbara, CA 93106 USA.
+EM charness@econ.ucsb.edu; Francesco.Feri@rhul.ac.uk; melendez@uma.es;
+   matthias.sutter@uibk.ac.at
+RI Charness, Gary/JVP-0357-2024; Feri, Francesco/M-4071-2014; Sutter,
+   Matthias/R-2018-2018
+OI Sutter, Matthias/0000-0002-6143-8706; Melendez Jimenez, Miguel
+   Angel/0000-0001-5350-3726; Feri, Francesco/0000-0003-1305-6583
+FU University of Innsbruck; Spanish Ministry of Economy and Competitiveness
+   [ECO2011-26996]; Regional Government of Andalusia [SEJ2009-4794,
+   SEJ2011-8065]
+FX We thank Juan Carrillo, Matthew Jackson, Fernando Vega-Redondo, four
+   anonymous referees, and seminar participants at Stanford University,
+   Chapman University, University of Amsterdam (CREED), University of Lyon,
+   University of Bologna, Royal Holloway University of London, University
+   of the Basque Country, 2011 EWEBE conference, the 2012 Royal Economic
+   Society Meeting, and the 2012 CESifo conference in Munich for valuable
+   comments. We are grateful for financial support from the University of
+   Innsbruck. Miguel A. Melandez-Jimenez acknowledges financial support
+   from the Spanish Ministry of Economy and Competitiveness through Project
+   ECO2011-26996, and from the Regional Government of Andalusia through
+   Projects SEJ2009-4794 and SEJ2011-8065.
+CR [Anonymous], 777 IZA
+   [Anonymous], 2005, Economie Publique (Public Economics), DOI 10.4000/economiepublique.1721
+   Ballester C, 2006, ECONOMETRICA, V74, P1403, DOI 10.1111/j.1468-0262.2006.00709.x
+   Berninghaus SK, 2007, J EVOL ECON, V17, P317, DOI 10.1007/s00191-006-0050-4
+   Berninghaus SK, 2006, EXP ECON, V9, P237, DOI 10.1007/s10683-006-9125-1
+   Berninghaus SK, 2002, GAME ECON BEHAV, V39, P177, DOI 10.1006/game.2001.0897
+   Boncinelli L, 2012, GAME ECON BEHAV, V75, P538, DOI 10.1016/j.geb.2012.03.001
+   Boun My K., 2006, REV EC IND, V114-115, P245
+   Bramoullé Y, 2007, J ECON THEORY, V135, P478, DOI 10.1016/j.jet.2006.06.006
+   Bramoullé Y, 2014, AM ECON REV, V104, P898, DOI 10.1257/aer.104.3.898
+   Brandts J, 2006, AM ECON REV, V96, P669, DOI 10.1257/aer.96.3.669
+   Burt RS, 2000, RES ORGAN BEHAV, V22, P345, DOI 10.1016/S0191-3085(00)22009-1
+   Callander S, 2005, J PUBLIC ECON, V89, P1469, DOI 10.1016/j.jpubeco.2004.03.009
+   Calvó-Armengol A, 2004, AM ECON REV, V94, P426, DOI 10.1257/0002828041464542
+   Calvó-Armengol A, 2004, J ECON THEORY, V115, P191, DOI 10.1016/S0022-0531(03)00250-3
+   Calvo-Armengol A, 2007, J ECON THEORY, V132, P27, DOI 10.1016/j.jet.2005.07.007
+   Carpenter J, 2012, REV ECON DES, V16, P93, DOI 10.1007/s10058-012-0120-z
+   Cassar A, 2007, GAME ECON BEHAV, V58, P209, DOI 10.1016/j.geb.2006.03.008
+   Charness G, 2002, Q J ECON, V117, P817, DOI 10.1162/003355302760193904
+   Charness G, 2000, GAME ECON BEHAV, V33, P177, DOI 10.1006/game.1999.0776
+   Charness G., 2012, WORKING PAPER
+   Charness G., 2014, ECONOMETRICA S, V82
+   Charness G., 2014, PAYOFF PARAMETERS CO
+   Charness G, 2007, J ECON THEORY, V136, P28, DOI 10.1016/j.jet.2005.06.009
+   Charness G, 2007, J ECON THEORY, V136, P417, DOI 10.1016/j.jet.2006.09.006
+   Charness G, 2010, ECON INQ, V48, P133, DOI 10.1111/j.1465-7295.2009.00219.x
+   Choi S, 2014, J EUR ECON ASSOC, V12, P223, DOI 10.1111/jeea.12058
+   Choi S, 2011, GAME ECON BEHAV, V73, P76, DOI 10.1016/j.geb.2011.01.001
+   COOK KS, 1978, AM SOCIOL REV, V43, P721, DOI 10.2307/2094546
+   Corbae D, 2008, GAME ECON BEHAV, V64, P81, DOI 10.1016/j.geb.2007.10.008
+   Cox JC, 2001, GAME ECON BEHAV, V34, P11, DOI 10.1006/game.1999.0786
+   CRAWFORD VP, 1986, INT ECON REV, V27, P329, DOI 10.2307/2526508
+   Currarini S, 2009, ECONOMETRICA, V77, P1003, DOI 10.3982/ECTA7528
+   Deck Cary., 2004, Rev. Econ. Design, V8, P359
+   Engelmann D, 2004, AM ECON REV, V94, P857, DOI 10.1257/0002828042002741
+   Falk A, 2009, SCIENCE, V326, P535, DOI 10.1126/science.1168244
+   Fatas E, 2010, EXP ECON, V13, P399, DOI 10.1007/s10683-010-9248-2
+   Fischbacher U, 2007, EXP ECON, V10, P171, DOI 10.1007/s10683-006-9159-4
+   GALE D, 1962, AM MATH MON, V69, P9, DOI 10.2307/2312726
+   Galeotti A, 2011, INT J ECON THEORY, V7, P77, DOI 10.1111/j.1742-7363.2010.00149.x
+   Galeotti A, 2010, REV ECON STUD, V77, P218, DOI 10.1111/j.1467-937X.2009.00570.x
+   Goyal S, 2001, RAND J ECON, V32, P686, DOI 10.2307/2696388
+   Greiner B., 2004, Working Paper Series in Economics, V10
+   HARRISON GW, 1989, J POLIT ECON, V97, P201, DOI 10.1086/261598
+   Harsanyi J. C., 1988, GEN THEORY EQUILIBRI, V1
+   HENDRICKS K, 1995, REV ECON STUD, V62, P83, DOI 10.2307/2297842
+   Jackson MO, 2012, AM ECON REV, V102, P1857, DOI 10.1257/aer.102.5.1857
+   Jackson MO, 2008, SOCIAL AND ECONOMIC NETWORKS, P1
+   Jackson MO., 2014, HDB GAME THEORY
+   Jackson MO, 2010, Handb Soc Econ, V1, P511
+   Karlan D, 2009, Q J ECON, V124, P1307, DOI 10.1162/qjec.2009.124.3.1307
+   KATZ ML, 1994, J ECON PERSPECT, V8, P93, DOI 10.1257/jep.8.2.93
+   Kearns M, 2006, SCIENCE, V313, P824, DOI 10.1126/science.1127207
+   Kearns M, 2009, P NATL ACAD SCI USA, V106, P1347, DOI 10.1073/pnas.0808147106
+   KELSO AS, 1982, ECONOMETRICA, V50, P1483, DOI 10.2307/1913392
+   Keser C, 1998, ECON LETT, V58, P269, DOI 10.1016/S0165-1765(97)00289-9
+   Kirchkamp O, 2007, GAME ECON BEHAV, V58, P269, DOI 10.1016/j.geb.2006.04.002
+   Kranton RE, 2001, AM ECON REV, V91, P485, DOI 10.1257/aer.91.3.485
+   Mengel F, 2012, GAME ECON BEHAV, V74, P601, DOI 10.1016/j.geb.2011.08.020
+   MITZKEWITZ M, 1993, INT J GAME THEORY, V22, P171, DOI 10.1007/BF01243649
+   MONTGOMERY JD, 1991, AM ECON REV, V81, P1408
+   Newman MEJ, 2001, PHYS REV E, V64, DOI [10.1103/PhysRevE.64.016132, 10.1103/PhysRevE.64.016131]
+   Peski M, 2010, J ECON THEORY, V145, P216, DOI 10.1016/j.jet.2009.05.007
+   Riedl A., 2002, Exclusion and cooperation in social network experiments
+   Rosenkranz S, 2012, GAME ECON BEHAV, V75, P898, DOI 10.1016/j.geb.2012.02.003
+   Roth A., 1990, Econometric Society Monographs
+   ROTH AE, 1984, J POLIT ECON, V92, P991, DOI 10.1086/261272
+   Stolte John., 1977, BEHAV THEORY SOCIOLO, P117, DOI [DOI 10.4324/9781351319201, 10.4324/9781351319201]
+   Sundararajan A, 2007, BE J THEOR ECON, V7
+   TVERSKY A, 1992, PSYCHOL SCI, V3, P305, DOI 10.1111/j.1467-9280.1992.tb00678.x
+   VANHUYCK JB, 1990, AM ECON REV, V80, P234
+   vonsNeumann J., 1972, THEORY GAMES EC BEHA
+   Willer D., 1999, NETWORK EXCHANGE THE
+NR 73
+TC 40
+Z9 42
+U1 4
+U2 71
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0012-9682
+EI 1468-0262
+J9 ECONOMETRICA
+JI Econometrica
+PD SEP
+PY 2014
+VL 82
+IS 5
+BP 1615
+EP 1670
+DI 10.3982/ECTA11781
+PG 56
+WC Economics; Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods; Statistics & Probability
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Mathematics; Mathematical Methods In Social
+   Sciences
+GA AQ6FP
+UT WOS:000342905900004
+OA Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Mantzaris, AV
+AF Mantzaris, Alexander V.
+TI Uncovering nodes that spread information between communities in social
+   networks
+SO EPJ DATA SCIENCE
+LA English
+DT Article
+DE social network analysis; community analysis; Twitter; viral content;
+   community connectivity; betweenness; information diffusion
+AB From many datasets gathered in online social networks, well defined community structures have been observed. A large number of users participate in these networks and the size of the resulting graphs poses computational challenges. There is a particular demand in identifying the nodes responsible for information flow between communities; for example, in temporal Twitter networks edges between communities play a key role in propagating spikes of activity when the connectivity between communities is sparse and few edges exist between different clusters of nodes. The new algorithm proposed here is aimed at revealing these key connections by measuring a node's vicinity to nodes of another community. We look at the nodes which have edges in more than one community and the locality of nodes around them which influence the information received and broadcasted to them. The method relies on independent random walks of a chosen fixed number of steps, originating from nodes with edges in more than one community. For the large networks that we have in mind, existing measures such as betweenness centrality are difficult to compute, even with recent methods that approximate the large number of operations required. We therefore design an algorithm that scales up to the demand of current big data requirements and has the ability to harness parallel processing capabilities. The new algorithm is illustrated on synthetic data, where results can be judged carefully, and also on a real, large scale Twitter activity data, where new insights can be gained.
+C1 [Mantzaris, Alexander V.] Univ Strathclyde, Dept Math & Stat, Glasgow G1 1XH, Lanark, Scotland.
+C3 University of Strathclyde
+RP Mantzaris, AV (corresponding author), Univ Strathclyde, Dept Math & Stat, 26 Richmond St, Glasgow G1 1XH, Lanark, Scotland.
+EM alexander.mantzaris@strath.ac.uk
+OI Mantzaris, Alexander V./0000-0002-0026-5725
+FU Engineering and Physical Sciences Research Council; Research Councils UK
+   Digital Economy programme [EP/I016058/1]; University of Strathclyde;
+   Bloom Agency; EPSRC [EP/I016058/1] Funding Source: UKRI
+FX Thanks is given to Peter Laflin for providing feedback over the course
+   of this work, and to Bloom Agency, Leeds, for supplying anonymised
+   Twitter data. This work was performed as part of the Mathematics of
+   Large Technological Evolving Networks (MOLTEN) project, which is
+   supported by the Engineering and Physical Sciences Research Council and
+   the Research Councils UK Digital Economy programme, with grant
+   EP/I016058/1, and the support of the University of Strathclyde with
+   Bloom Agency for the follow-on support from the Impact Acceleration
+   Account.
+CR Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Beamer S., 2012, 2012 SC - International Conference for High Performance Computing, Networking, Storage and Analysis, DOI 10.1109/SC.2012.50
+   Beamer S, 2013, TECHNICAL REPORT
+   Blondel VD, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/10/P10008
+   Brandes U, 2001, J MATH SOCIOL, V25, P163, DOI 10.1080/0022250X.2001.9990249
+   BROOKS G, 1992, SIGPLAN NOTICES, V27, P1, DOI [10.13334/j.0258-8013.pcsee.213043, 10.1145/143103.143108]
+   Chapanond A., 2005, Computational & Mathematical Organization Theory, V11, P265, DOI 10.1007/s10588-005-5381-4
+   Clauset A, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.066111
+   Clune J, 2013, P ROY SOC B-BIOL SCI, V280, DOI 10.1098/rspb.2012.2863
+   De Domenico M, 2013, ARXIV13012952
+   Ferrara E, 2012, EPJ DATA SCI, V1, DOI 10.1140/epjds9
+   Fortunato S, 2010, PHYS REP, V486, P75, DOI 10.1016/j.physrep.2009.11.002
+   FREEMAN LC, 1977, SOCIOMETRY, V40, P35, DOI 10.2307/3033543
+   Gelman A., 1992, STAT SCI, V7, P457, DOI DOI 10.1214/SS/1177011136
+   Harish P, 2007, LECT NOTES COMPUT SC, V4873, P197
+   LANCICHINETTI A, 2009, PHYS REV E 2, V80, DOI [DOI 10.1103/PHYSREVE.80.056117, 10.1103/PhysRevE.80.056117]
+   Leskovec J, 2009, INTERNET MATH, V6, P29, DOI 10.1080/15427951.2009.10129177
+   Martelot El, 2013, ARXIV13010955
+   Matsuo Y., 2009, P 18 INT C WORLD WID
+   McAlexander JH, 2002, J MARKETING, V66, P38, DOI 10.1509/jmkg.66.1.38.18451
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Newman MEJ, 2005, SOC NETWORKS, V27, P39, DOI 10.1016/j.socnet.2004.11.009
+   Newman MEJ, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.026113
+   Nichols Jeffrey, 2012, P 2012 ACM INT C INT, P189, DOI [DOI 10.1145/2166966.2166999, 10.1145/2166966, DOI 10.1145/2166966]
+   Reingold O, 2008, J ACM, V55, DOI 10.1145/1391289.1391291
+   Skeels MM, 2009, GROUP 2009 PROCEEDINGS, P95
+   Subramani MR, 2003, COMMUN ACM, V46, P300, DOI 10.1145/953460.953514
+   TRAVERS J, 1969, SOCIOMETRY, V32, P425, DOI 10.2307/2786545
+   Weng J., 2011, P INT AAAI C WEB SOC, V5, P401, DOI [10.1609/icwsm.v5i1.14102, DOI 10.1609/ICWSM.V5I1.14102]
+   ZACHARY WW, 1977, J ANTHROPOL RES, V33, P452, DOI 10.1086/jar.33.4.3629752
+NR 31
+TC 15
+Z9 16
+U1 0
+U2 8
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+EI 2193-1127
+J9 EPJ DATA SCI
+JI EPJ Data Sci.
+PD DEC
+PY 2014
+VL 3
+IS 1
+AR 26
+DI 10.1140/epjds/s13688-014-0026-9
+PG 17
+WC Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Mathematical Methods In Social Sciences
+GA V41TO
+UT WOS:000209568700015
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Erbach-Schoenberg, EZ
+   Bullock, S
+   Brailsford, S
+AF Erbach-Schoenberg, Elisabeth Zu
+   Bullock, Seth
+   Brailsford, Sally
+TI A Model of Spatially Constrained Social Network Dynamics
+SO SOCIAL SCIENCE COMPUTER REVIEW
+LA English
+DT Article
+DE simulation; social agents; social dynamics; social networks; community
+   structure; spatial constraints
+ID ATTACHMENT; STRATEGY
+AB Social networks characterize the set of relationships among a population of social agents. As such, their structure both constrains and is constrained by social processes such as partnership formation and the spread of information, opinions, and behavior. Models of these coevolutionary network dynamics exist, but they are generally limited to specific interaction types such as games on networks or opinion dynamics. Here we present a dynamic model of social network formation and maintenance that exhibits the characteristic features of real-world social networks such as community structure, high clustering, positive degree assortativity, and short characteristic path length. Although these macrostructural network properties are stable, the network microstructure undergoes continuous change at the level of relationships between individuals. Notably, the edges are weighted, allowing for gradual change in relationship strength in contrast to more abrupt mechanisms, such as rewiring, used in other models. We show how the structural features that characterize social networks can arise as the result of constraints placed on the interactions between individuals. Here we explore the relationship between structural properties and four idealized constraints placed on social interactions: space, affinity, time, and history. We show that spatial embedding and the subsequent constraints on possible interactions are crucial in this model for the emergence of the structures characterizing social networks.
+C1 [Erbach-Schoenberg, Elisabeth Zu; Bullock, Seth] Univ Southampton, Inst Complex Syst Simulat, Southampton SO17 1BJ, Hants, England.
+   [Brailsford, Sally] Univ Southampton, Southampton SO17 1BJ, Hants, England.
+C3 University of Southampton; University of Southampton
+RP Erbach-Schoenberg, EZ (corresponding author), Univ Southampton, Inst Complex Syst Simulat, ECS, B16, Southampton SO17 1BJ, Hants, England.
+EM e.zuerbach-schoenberg@soton.ac.uk; sgb@ecs.soton.qac.uk;
+   s.c.brailsford@soton.ac.uk
+OI Bullock, Seth/0000-0003-4371-5965; Brailsford, Sally/0000-0002-6665-8230
+FU EPSRC Doctoral Training Centre grant [EP/G03690X/1]; EPSRC
+   [EP/H021698/1] Funding Source: UKRI
+FX The authors disclosed receipt of the following financial support for the
+   research, authorship, and/or publication of this article: This work was
+   supported by an EPSRC Doctoral Training Centre grant (EP/G03690X/1).
+CR Amaral LAN, 2000, P NATL ACAD SCI USA, V97, P11149, DOI 10.1073/pnas.200327197
+   [Anonymous], 2010, Emergence: Complexity and Organization, DOI DOI 10.1002/9781118974414
+   [Anonymous], 2003, OXFORD STUDIES PROBA
+   Barnett L, 2007, PHYS REV E, V76, DOI 10.1103/PhysRevE.76.056115
+   Barrat A, 2005, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2005/05/P05003
+   Barrat A, 2004, P NATL ACAD SCI USA, V101, P3747, DOI 10.1073/pnas.0400087101
+   Boguñá M, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.056122
+   Bravo G, 2012, SOC NETWORKS, V34, P481, DOI 10.1016/j.socnet.2012.03.001
+   Bryden J, 2011, J R SOC INTERFACE, V8, P1031, DOI 10.1098/rsif.2010.0524
+   Bullock S, 2010, COMPLEXITY, V16, P20, DOI 10.1002/cplx.20338
+   Cattuto C, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0011596
+   Cummings J.N., 2006, COMPUTERS PHONES INT, P265
+   Davidsen J, 2002, PHYS REV LETT, V88, DOI 10.1103/PhysRevLett.88.128701
+   Ebel Holger, 2002, Complexity, V8, P24, DOI 10.1002/cplx.10066
+   Eguíluz VM, 2005, AM J SOCIOL, V110, P977, DOI 10.1086/428716
+   Grabowski A, 2007, PHYSICA A, V385, P363, DOI 10.1016/j.physa.2007.06.005
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Gross T, 2008, J R SOC INTERFACE, V5, P259, DOI 10.1098/rsif.2007.1229
+   Hamill L, 2009, JASSS-J ARTIF SOC S, V12
+   Herrmann C, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.026128
+   Holme P, 2006, PHYS REV E, V74, DOI 10.1103/PhysRevE.74.056108
+   Holme Petter, 2002, Phys Rev E Stat Nonlin Soft Matter Phys, V65, P066109
+   Illenberger J., 2012, NETW SPAT ECON, V13, P255
+   Kumpula JM, 2007, PHYS REV LETT, V99, DOI 10.1103/PhysRevLett.99.228701
+   Leskovec J., 2008, Proceedings of the 17th International Conference on World Wide Web, DOI 10.1145/1367497.1367620
+   LEVINS R, 1966, AM SCI, V54, P421
+   Liljeros F, 2001, NATURE, V411, P907, DOI 10.1038/35082140
+   Marsili M, 2004, P NATL ACAD SCI USA, V101, P1439, DOI 10.1073/pnas.0305684101
+   Miritello G, 2013, SOC NETWORKS, V35, P89, DOI 10.1016/j.socnet.2013.01.003
+   Newman M., 2010, NETWORKS INTRO, DOI 10.1162/artl_r_00062
+   Newman MEJ, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.036122
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   Newman MEJ, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.208701
+   Onnela JP, 2007, P NATL ACAD SCI USA, V104, P7332, DOI 10.1073/pnas.0610245104
+   ORESKES N, 1994, SCIENCE, V263, P641, DOI 10.1126/science.263.5147.641
+   Skyrms B, 2000, P NATL ACAD SCI USA, V97, P9340, DOI 10.1073/pnas.97.16.9340
+   Sutcliffe A, 2012, BRIT J PSYCHOL, V103, P149, DOI 10.1111/j.2044-8295.2011.02061.x
+   Szell M, 2010, SOC NETWORKS, V32, P313, DOI 10.1016/j.socnet.2010.06.001
+   Takás K, 2008, SOC NETWORKS, V30, P177, DOI 10.1016/j.socnet.2008.02.003
+   Toivonen R, 2006, PHYSICA A, V371, P851, DOI 10.1016/j.physa.2006.03.050
+   Van Segbroeck S, 2009, PHYS REV LETT, V102, DOI 10.1103/PhysRevLett.102.058105
+   Vázquez A, 2003, PHYS REV E, V67, DOI 10.1103/PhysRevE.67.056104
+   Wong LH, 2006, PHYSICA A, V360, P99, DOI 10.1016/j.physa.2005.04.029
+NR 43
+TC 4
+Z9 4
+U1 3
+U2 19
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0894-4393
+EI 1552-8286
+J9 SOC SCI COMPUT REV
+JI Soc. Sci. Comput. Rev.
+PD JUN
+PY 2014
+VL 32
+IS 3
+BP 373
+EP 392
+DI 10.1177/0894439313511934
+PG 20
+WC Computer Science, Interdisciplinary Applications; Information Science &
+   Library Science; Social Sciences, Interdisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science; Information Science & Library Science; Social Sciences
+   - Other Topics
+GA AM8AF
+UT WOS:000340090200007
+OA Green Accepted
+DA 2024-11-22
+ER

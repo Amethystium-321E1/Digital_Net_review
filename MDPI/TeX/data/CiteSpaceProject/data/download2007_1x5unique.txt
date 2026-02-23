@@ -1,0 +1,388 @@
+
+PT J
+AU Uchida, R
+AF Uchida, Ryushi
+TI "Freeter" selection and a social network: From the course consideration
+   investigation of the third grade of high-school
+SO SOCIOLOGICAL THEORY AND METHODS
+LA Japanese
+DT Article
+DE Freeter; Transition; social network; high school students
+AB Recently, increase of "Freeter" becomes a social issue and studies on "Freeter" problems or Transition from school to work point out that female youths or young people whose academic background and the home background are relatively lower, so are placed in a socially disadvantageous situation becomes a "Freeter" easily. However, there are not so many studies examining factors that influence "Freeter" selection of young people.
+   In this article, from the viewpoint of the relation between the "Freeter" selection and a "social network" paid attention to in recent years, I will examine whether the limited social network influences the "Freeter" selection through the questionnaire survey intended for the third grade of high-school. According to the result of this survey, network structures of students are differentiated into the "stable--white-collar" networks and "instable--blue-collar" ones, and relatively fewer students built into the former network select "Freeter", and oppositely more Freeter selection occurred among the students built into "Instable and blue-collar" networks. It is quantitatively suggested that the existence of a social network into which the high school students are built greatly influenced the young people's course achievement.
+C1 Buraku Liberat & Human Rights Res Inst, Div Res, Naniwa Ku, Osaka 5560028, Japan.
+RP Uchida, R (corresponding author), Buraku Liberat & Human Rights Res Inst, Div Res, Naniwa Ku, 1-6-12 Kuboyoshi, Osaka 5560028, Japan.
+CR Lin N., 2000, Social capital: A theory of structure and action
+   Putnam R., 1999, BOWLING ALONE
+NR 2
+TC 1
+Z9 1
+U1 0
+U2 9
+PU JAPANESE ASSOC MATHEMATICAL SOCIOLOGY
+PI SENDAI
+PA C/O J A M S EXECUTIVE OFFICE, TOHOKU UNIV, DEPT BEHAVIORAL SCIENCE,
+   SENDAI, 980-8576, JAPAN
+SN 0913-1442
+J9 SOCIOL THEOR METHOD
+JI Sociol. Theor. Methods
+PY 2007
+VL 22
+IS 2
+BP 139
+EP 153
+PG 15
+WC Social Sciences, Mathematical Methods; Sociology
+WE Social Science Citation Index (SSCI)
+SC Mathematical Methods In Social Sciences; Sociology
+GA 233LW
+UT WOS:000251093400001
+DA 2024-11-22
+ER
+
+PT J
+AU Handcock, MS
+   Raftery, AE
+   Tantrum, JM
+AF Handcock, Mark S.
+   Raftery, Adrian E.
+   Tantrum, Jeremy M.
+TI Model-based clustering for social networks
+SO JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES A-STATISTICS IN SOCIETY
+LA English
+DT Article
+DE Bayes factor; dyad; latent space; Markov chain Monte Carlo methods;
+   mixture model; transitivity
+ID DIRECTED-GRAPHS; DISTRIBUTIONS; BLOCKMODELS; PREDICTION; ALGORITHM;
+   DISEASE; SPREAD
+AB Network models are widely used to represent relations between interacting units or actors. Network data often exhibit transitivity, meaning that two actors that have ties to a third actor are more likely to be tied than actors that do not, homophily by attributes of the actors or dyads, and clustering. Interest often focuses on finding clusters of actors or ties, and the number of groups in the data is typically unknown. We propose a new model, the latent position cluster model, under which the probability of a tie between two actors depends on the distance between them in an unobserved Euclidean 'social space', and the actors' locations in the latent social space arise from a mixture of distributions, each corresponding to a cluster. We propose two estimation methods: a two-stage maximum likelihood method and a fully Bayesian method that uses Markov chain Monte Carlo sampling. The former is quicker and simpler, but the latter performs better. We also propose a Bayesian way of determining the number of clusters that are present by using approximate conditional Bayes factors. Our model represents transitivity, homophily by attributes and clustering simultaneously and does not require the number of clusters to be known. The model makes it easy to simulate realistic networks with clustering, which are potentially useful as inputs to models of more complex systems of which the network is part, such as epidemic models of infectious disease. We apply the model to two networks of social relations. A free software package in the R statistical language, latentnet, is available to analyse data by using the model.
+C1 Univ Washington, Ctr Stat & Social Sci, Seattle, WA 98195 USA.
+   Microsoft adCtr Labs, Redmond, WA USA.
+C3 University of Washington; University of Washington Seattle; Microsoft
+RP Raftery, AE (corresponding author), Univ Washington, Ctr Stat & Social Sci, Box 354320, Seattle, WA 98195 USA.
+EM raftery@u.washington.edu
+RI Raftery, Adrian/P-2042-2015; Handcock, Mark/AAY-3318-2021
+OI Hunter, David/0000-0002-4976-9422; Handcock, Mark/0000-0002-9985-2785
+CR BANFIELD JD, 1993, BIOMETRICS, V49, P803, DOI 10.2307/2532201
+   Bearman PS, 2004, AM J SOCIOL, V110, P44, DOI 10.1086/386272
+   BREIGER RL, 1975, J MATH PSYCHOL, V12, P328, DOI 10.1016/0022-2496(75)90028-0
+   Celeux G, 2000, J AM STAT ASSOC, V95, P957, DOI 10.2307/2669477
+   Dasgupta A, 1998, J AM STAT ASSOC, V93, P294, DOI 10.2307/2669625
+   DEMPSTER AP, 1977, J ROY STAT SOC B MET, V39, P1, DOI 10.1111/j.2517-6161.1977.tb01600.x
+   DIEBOLT J, 1994, J ROY STAT SOC B MET, V56, P363
+   DOREIAN P, 2005, GENERALIZED BLACKMOD
+   Eames KTD, 2004, MATH BIOSCI, V189, P115, DOI 10.1016/j.mbs.2004.02.003
+   Eubank S, 2004, NATURE, V429, P180, DOI 10.1038/nature02541
+   FAUST K, 1988, SOC NETWORKS, V10, P313, DOI 10.1016/0378-8733(88)90002-0
+   Fraley C, 1998, COMPUT J, V41, P578, DOI 10.1093/comjnl/41.8.578
+   Fraley C, 2002, J AM STAT ASSOC, V97, P611, DOI 10.1198/016214502760047131
+   Fraley C, 2003, J CLASSIF, V20, P263, DOI 10.1007/s00357-003-0015-3
+   FRANK O, 1986, J AM STAT ASSOC, V81, P832, DOI 10.2307/2289017
+   Freeman LC., 1996, CONNECTIONS, V19, P39
+   HANDOCK MS, 2004, LATENTNET R PACKAGE
+   Harris K.M., 2003, NATL LONGITUDINAL AD
+   Hoff PD, 2005, J AM STAT ASSOC, V100, P286, DOI 10.1198/016214504000001015
+   Hoff PD, 2004, POLIT ANAL, V12, P160, DOI 10.1093/pan/mph012
+   Hoff PD, 2002, J AM STAT ASSOC, V97, P1090, DOI 10.1198/016214502388618906
+   HOLLAND PW, 1981, J AM STAT ASSOC, V76, P33, DOI 10.2307/2287037
+   KASS RE, 1995, J AM STAT ASSOC, V90, P773, DOI 10.1080/01621459.1995.10476572
+   Kretzschmar M, 1996, MATH BIOSCI, V133, P165, DOI 10.1016/0025-5564(95)00093-3
+   Lazarsfeld P.F., 1954, Freedom and Control in Modern Society, P18, DOI DOI 10.1111/J.1467-8705.2012.02056_3.X
+   LIOTTA G., 2004, LECT NOTES COMPUT SC, V2912
+   Lorrain F., 1971, J MATH SOCIOL, V1, P49, DOI [10.1080/0022250X.1971.9989788, DOI 10.1080/0022250X.1971.9989788]
+   MCFARLAND DD, 1973, BONDS PLURALISM FORM, P213
+   MCFARLAND DD, 1973, FREEDOM CONTROL MODE, P213
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   Nowicki K, 2001, J AM STAT ASSOC, V96, P1077, DOI 10.1198/016214501753208735
+   Oh MS, 2001, J AM STAT ASSOC, V96, P1031, DOI 10.1198/016214501753208690
+   OH MS, 2003, 441 DEP STAT U WASH
+   Raftery A. E., 1996, Markov Chain Monte Carlo in Practice, P115, DOI DOI 10.1093/molbev/mss140
+   SCHWARZ G, 1978, ANN STAT, V6, P461, DOI 10.1214/aos/1176344136
+   Schweinberger M, 2003, SOCIOL METHODOL, V33, P307, DOI 10.1111/j.0081-1750.2003.00134.x
+   SIBSON R, 1979, J ROY STAT SOC B MET, V41, P217
+   SNIJDERS TAB, 1991, PSYCHOMETRIKA, V56, P397, DOI 10.1007/BF02294482
+   Snijders TAB, 1997, J CLASSIF, V14, P75, DOI 10.1007/s003579900004
+   Snijders TAB, 2006, SOCIOL METHODOL, V36, P99, DOI 10.1111/j.1467-9531.2006.00176.x
+   Stephens M, 2000, J ROY STAT SOC B, V62, P795, DOI 10.1111/1467-9868.00265
+   Tallberg C, 2005, J MATH SOCIOL, V29, P1, DOI 10.1080/00222500590889703
+   UDRY RJ, 2003, NATL LONGITUDINAL AD
+   van Duijn MAJ, 2004, STAT NEERL, V58, P234
+   Volinsky CT, 2000, BIOMETRICS, V56, P256, DOI 10.1111/j.0006-341X.2000.00256.x
+   WASSERMAN S, 1987, SOC NETWORKS, V9, P1, DOI 10.1016/0378-8733(87)90015-3
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   WHITE HC, 1976, AM J SOCIOL, V81, P730, DOI 10.1086/226141
+   [No title captured]
+NR 50
+TC 434
+Z9 536
+U1 0
+U2 59
+PU BLACKWELL PUBLISHING
+PI OXFORD
+PA 9600 GARSINGTON RD, OXFORD OX4 2DQ, OXON, ENGLAND
+SN 0964-1998
+J9 J ROY STAT SOC A STA
+JI J. R. Stat. Soc. Ser. A-Stat. Soc.
+PY 2007
+VL 170
+BP 301
+EP 322
+DI 10.1111/j.1467-985X.2007.00471.x
+PN 2
+PG 22
+WC Social Sciences, Mathematical Methods; Statistics & Probability
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematical Methods In Social Sciences; Mathematics
+GA 156DO
+UT WOS:000245628500004
+OA Green Submitted, Green Published, Bronze
+DA 2024-11-22
+ER
+
+PT J
+AU Lubbers, MJ
+   Snijders, TAB
+AF Lubbers, Miranda J.
+   Snijders, Tom A. B.
+TI A comparison of various approaches to the exponential random graph
+   model: A reanalysis of 102 student networks in school classes
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE social networks; ERGM; dependence structure
+AB This paper describes an empirical comparison of four specifications of the exponential family of random graph models (ERGM), distinguished by model specification (dyadic independence, Markov, partial conditional dependence) and, for the Markov model, by estimation method (Maximum Pseudolikelihood, Maximum Likelihood). This was done by reanalyzing 102 student networks in 57 junior high school classes. At the level of all classes combined, earlier substantive conclusions were supported by all specifications. However, the different specifications led to different conclusions for individual classes. PL produced unreliable estimates (when ML is regarded as the standard) and had more convergence problems than ML. Furthermore, the estimates of covariate effects were affected considerably by controlling for network structure, although the precise specification of the structural part (Markov or partial conditional dependence) mattered less. (C) 2007 Elsevier BX All rights reserved.
+C1 Univ Groningen, Groningen Inst Educ Res GION, NL-9700 AB Groningen, Netherlands.
+   Univ Oxford, Nuffield Coll, Oxford OX1 2JD, England.
+   Univ Groningen, Dept Sociol, ICS, NL-9700 AB Groningen, Netherlands.
+C3 University of Groningen; University of Oxford; University of Groningen
+RP Lubbers, MJ (corresponding author), Autonomous Univ Barcelona, Dept Social & Cultural Anthropol Egoredes, Edifici B, E-08193 Barcelona, Spain.
+EM MirandaJessica.Lubbers@UAB.es
+RI Lubbers, Miranda/P-1250-2018; Snijders, Tom/F-2896-2012
+OI Lubbers, Miranda/0000-0001-8398-6044; Snijders, Tom/0000-0003-3157-4157
+CR [Anonymous], 39 U WASH CTR STAT S
+   [Anonymous], 2002, J SOC STRUCT, DOI DOI 10.1021/pr060392u
+   [Anonymous], 1998, USERS GUIDE MLWIN MU
+   Boer P., 2003, Stocnet: an open software system for the advanced analysis of social networks
+   Borgatti S.P., 1999, UCINET 5 WINDOWS SOF
+   Bryk A. S., 1992, HIERARCHICAL LINEAR
+   FRANK O, 1986, J AM STAT ASSOC, V81, P832, DOI 10.2307/2289017
+   Frank O., 1991, Statistica Neerlandica, V45, P283, DOI DOI 10.1111/J.1467-9574.1991.TB01310.X
+   GEYER CJ, 1992, J R STAT SOC B, V54, P657
+   Goldstein H., 2010, Multilevel Statistical Models, VFourth
+   HOLLAND PW, 1981, J AM STAT ASSOC, V76, P33, DOI 10.2307/2287037
+   KUYPER H, 2003, VOCL 99 1
+   Lubbers MJ, 2003, SOC NETWORKS, V25, P309, DOI 10.1016/S0378-8733(03)00013-3
+   Pattison P, 2002, SOCIOL METHODOL, V32, P301, DOI 10.1111/1467-9531.00119
+   Robins G, 2007, SOC NETWORKS, V29, P192, DOI 10.1016/j.socnet.2006.08.003
+   Snijders TAB, 2003, J MATH SOCIOL, V27, P123, DOI 10.1080/00222500305892
+   Snijders TAB, 2006, SOCIOL METHODOL, V36, P99, DOI 10.1111/j.1467-9531.2006.00176.x
+   Snijders TomA.B., 2005, Manual for SIENA version 2.1
+   STRAUSS D, 1990, J AM STAT ASSOC, V85, P204, DOI 10.2307/2289546
+   van Duijn MAJ, 2004, STAT NEERL, V58, P234
+   Wasserman S, 1996, PSYCHOMETRIKA, V61, P401, DOI 10.1007/BF02294547
+NR 21
+TC 91
+Z9 115
+U1 3
+U2 42
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD OCT
+PY 2007
+VL 29
+IS 4
+BP 489
+EP 507
+DI 10.1016/j.socnet.2007.03.002
+PG 19
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 231QT
+UT WOS:000250964800002
+OA Green Submitted, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Willer, R
+AF Willer, Robb
+TI The role of metanetworks in network evolution
+SO JOURNAL OF MATHEMATICAL SOCIOLOGY
+LA English
+DT Article; Proceedings Paper
+CT 3rd Joint American-Japanese Conference on Mathematical Sociology
+CY JUN 24-26, 2005
+CL Hokkaido Univ, Ctr Study Cultural & Environm Fdn Mind, Hokkaido, JAPAN
+HO Hokkaido Univ, Ctr Study Cultural & Environm Fdn Mind
+DE mathematical sociology; metanetworks; network dynamics; network
+   evolution; social network analysis; social structure
+ID DYNAMIC-MODEL
+AB The question of what structures of relations between actors emerge in the evolution of social networks is of fundamental sociological interest. The present research proposes that processes of network evolution can be usefully conceptualized in terms of a network of networks, or "metanetwork," wherein networks that are one link manipulation away from one another are connected. Moreover, the geography of metanetworks has real effects on the course of network evolution. Specifically, both equilibrium and non-equilibrium networks located in more desirable regions of the metanetwork are found to be more probable. These effects of metanetwork geography are illustrated by two dynamic network models: one in which actors pursue access to unique information through "structural holes," and the other in which actors pursue access to valid information by minimizing path length. Finally, I discuss future directions for modeling network dynamics in terms of metanetworks.
+C1 Univ Calif Berkeley, Dept Sociol, Berkeley, CA 94720 USA.
+C3 University of California System; University of California Berkeley
+RP Willer, R (corresponding author), Univ Calif Berkeley, Dept Sociol, Berkeley, CA 94720 USA.
+EM willer@berkeley.edu
+CR [Anonymous], 1987, MICROMACRO LINK
+   [Anonymous], 1997, EVOLUTION SOCIAL NET
+   [Anonymous], 1992, Structural holes
+   Bala V, 2000, ECONOMETRICA, V68, P1181, DOI 10.1111/1468-0262.00155
+   Bala V., 2003, NETWORKS GROUPS, P313
+   Bloch F., 2000, Review of Economic Design, V5, P129
+   BONACICH P, 2003, CREATION RETURNS SOC
+   Breiger RL, 2003, DYNAMIC SOCIAL NETWORK MODELING AND ANALYSIS, P19
+   Burt Ronald., 2003, NEW EC SOCIOLOGY DEV, P148, DOI DOI 10.7758/9781610442602.11
+   Burt RS, 2004, AM J SOCIOL, V110, P349, DOI 10.1086/421787
+   CARLEY K, 1991, AM SOCIOL REV, V56, P331, DOI 10.2307/2096108
+   CARTWRIGHT D, 1956, PSYCHOL REV, V63, P277, DOI 10.1037/h0046049
+   Coleman J.S., 1994, FDN SOCIAL THEORY
+   Coleman James., 1986, Individual Interests and Collective Action
+   COLLINS R, 1981, AM J SOCIOL, V86, P984, DOI 10.1086/227351
+   COROMINASBOSCH M, 1999, THESIS U POMPEU FABR
+   Dawkins R., 1976, The Selfish Gene
+   Dutta B, 2005, J ECON THEORY, V122, P143, DOI 10.1016/j.jet.2004.05.001
+   Dutta B, 1997, J ECON THEORY, V76, P322, DOI 10.1006/jeth.1997.2306
+   Dutta B., 2000, Review of Economic Design, V5, P251
+   Dutta Bhaskar., 2003, NETWORKS GROUPS
+   ELSTER J, 1982, THEOR SOC, V11, P453
+   FRIEDMAN D, 1988, SOCIOLOGICAL THEORY, V6, P201, DOI DOI 10.2307/202116
+   GEHRIG T, 2000, REV EC DESIGN, V5, P111
+   Gould RV, 2002, AM J SOCIOL, V107, P1143, DOI 10.1086/341744
+   GOYAL S, 2004, UNPUB STRUCTURAL HOL
+   Jackson MO, 1996, J ECON THEORY, V71, P44, DOI 10.1006/jeth.1996.0108
+   Jackson MO, 2002, J ECON THEORY, V106, P265, DOI 10.1006/jeth.2001.2903
+   Johnson C., 2000, Rev. Econ. Des., V5, P273, DOI DOI 10.1007/PL00013690
+   Kranton R., 2000, REV ECON DES, V5, P301
+   Kranton RE, 2001, AM ECON REV, V91, P485, DOI 10.1257/aer.91.3.485
+   Lawler EdwardJ., 1993, SOCIOL THEOR, V11, P268, DOI [10.2307/201971, DOI 10.2307/201971]
+   LEIK RK, 1992, SOC NETWORKS, V14, P309, DOI 10.1016/0378-8733(92)90007-T
+   LEIK RK, 1991, ADV GROUP PROCESSES, V8, P1
+   Lin Nan, 2001, Social capital: theory and research, P31
+   Macy MW, 2003, DYNAMIC SOCIAL NETWORK MODELING AND ANALYSIS, P162
+   Macy MW, 2002, ANNU REV SOCIOL, V28, P143, DOI 10.1146/annurev.soc.28.110601.141117
+   Moody J, 2004, AM SOCIOL REV, V69, P213, DOI 10.1177/000312240406900204
+   Myerson R. B, 1991, Game Theory Analysis of Conflict
+   Page FH, 2005, J ECON THEORY, V120, P257, DOI 10.1016/j.jet.2004.02.007
+   PODOLNY JM, 1995, AM J SOCIOL, V100, P1224, DOI 10.1086/230637
+   Schelling T., 1978, MICROMOTIVES MACROBE
+   Skyrms B, 2000, P NATL ACAD SCI USA, V97, P9340, DOI 10.1073/pnas.97.16.9340
+   Slikker M., 2000, REV ECON DES, V5, P333
+   Stokman FN, 1996, J MATH SOCIOL, V21, P77, DOI 10.1080/0022250X.1996.9990175
+   STOKMAN FN, 2001, J MATH SOCIOL, P25
+   Stuart TE, 1998, ADMIN SCI QUART, V43, P668, DOI 10.2307/2393679
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   Watts A, 2001, GAME ECON BEHAV, V34, P331, DOI 10.1006/game.2000.0803
+   Weesie Jeroen., 1990, Social Networks through Time
+   White AH, 2002, AM ANN DEAF, V147, P65, DOI 10.1353/aad.2012.0166
+   Willer R, 2000, SOC NETWORKS, V22, P251, DOI 10.1016/S0378-8733(00)00025-3
+NR 52
+TC 5
+Z9 5
+U1 0
+U2 13
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 0022-250X
+EI 1545-5874
+J9 J MATH SOCIOL
+JI J. Math. Sociol.
+PY 2007
+VL 31
+IS 2
+BP 101
+EP 119
+DI 10.1080/00222500601187884
+PG 19
+WC Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods; Sociology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI); Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Mathematics; Mathematical Methods In Social Sciences; Sociology
+GA 145UQ
+UT WOS:000244891400002
+DA 2024-11-22
+ER
+
+PT J
+AU Goodreau, SM
+AF Goodreau, Steven M.
+TI Advances in exponential random graph (<i>p*</i>) models applied to a
+   large social network
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE exponential random graph models; p* models; statistical models for
+   social networks
+ID CARLO MAXIMUM-LIKELIHOOD; STATISTICAL-ANALYSIS
+AB Recent advances in statistical network analysis based on the family of exponential random graph (ERG) models have greatly improved our ability to conduct inference on dependence in large social networks [Snijders, T.A.B., 2002. Markov Chain Monte Carlo Estimation of Exponential Random Graph Models. Journal of Social Structure 3, 2; Pattison, RE., Robins, G.L., 2002. Neighbourhood-based models for social networks. Sociological Methodology 32, 301-337; Handcock, M.S., 2002. Statistical models for social networks: degeneracy and inference. In: Breiger, R., Carley, K., Pattison, P. (Eds.), Dynamic Social Network Modeling and Analysis. National Academies Press, Washington, DC, pp. 229-240; Handcock, M.S., 2003. Assessing Degeneracy in Statistical Models of Social Networks. Center for Statistics and the Social Sciences, University of Washington, Working Paper No. 39; Snijders, T.A.B., Pattison, R, Robins, G.L., Handcock, M., in press. New specifications for exponential random graph models. Sociological Methodology; Hunter, DR., Goodreau, S.M. Handcock, M.S., 2005. Goodness of Fit of Social Network Models. Center for Statistics and the Social Sciences, University of Washington, Working Paper No. 47; Goodreau, S.M., Hunter, D.R., Morris, M., 2005. Statistical Modeling of Social Networks: Practical Advances and Results. Center for Studies in Demography and Ecology, University of Washington, Working Paper No. 05-01, previous papers this issue]. This paper applies advances in both model parameterizations and computational algorithms to an examination of the structure observed in an adolescent friendship network of 1681 actors from the National Longitudinal Study of Adolescent Health (AddHealth). ERG models of social network structure are fit using the R package statnet, and their adequacy assessed through comparison of model predictions with the observed data for higher-order network statistics.
+   For this friendship network, the commonly used model of Markov dependence leads to the problems of degeneracy discussed by Handcock [Handcock, M.S., 2002. Statistical models for social networks: degeneracy and inference. In: Breiger, R., Carley, K., Pattison, R (Eds.), Dynamic Social Network Modeling and Analysis. National Academic Press, Washington, DC, pp. 229-240; Handcock, M.S., 2003. Assessing Degeneracy in Statistical Models of Social Networks. Center for Statistics and the Social Sciences, University of Washington, Working Paper No. 39]. On the other hand, model parameterizations introduced by Snijders et al. [Snijders, T.A.B., Pattison, R, Robins, G.L., Handcock, M., in press. New specifications for exponential random graph models. Sociological Methodology] and Hunter and Handcock [Hunter, D.R., Handcock, M.S., in press. Inference in curved exponential family models for networks. Journal of Computational and Graphical Statistics] avoid degeneracy and provide reasonable fit to the data. Degree-only models did a poor job of capturing observed network structure; those that did best included terms both for heterogeneous mixing on exogenous attributes (grade and self-reported race) as well as endogenous clustering. Networks simulated from this model were largely consistent with the observed network on multiple higher-order network statistics, including the number of triangles, the size of the largest component, the overall reachability, the distribution of geodesic distances, the degree distribution, and the shared partner distribution. The ability to fit such models to large datasets and to make inference,about the underling processes generating the network represents a major advance in the field of statistical network analysis. (c) 2006 Elsevier B. V. All rights reserved.
+C1 Univ Washington, Dept Anthropol, Seattle, WA 98195 USA.
+   Univ Washington, Ctr Studies Demog & Ecol, Seattle, WA 98195 USA.
+C3 University of Washington; University of Washington Seattle; University
+   of Washington; University of Washington Seattle
+RP Goodreau, SM (corresponding author), Univ Washington, Dept Anthropol, Seattle, WA 98195 USA.
+EM goodreau@u.washington.edu
+RI Goodreau, Steven/P-2366-2017
+OI Goodreau, Steven/0000-0003-1009-5763
+FU NICHD NIH HHS [R01 HD038210-01, R01 HD038210-05, R24 HD042828-10, R01
+   HD038210, R01 HD038210-04, R01 HD038210-02, R24 HD042828, R01 HD041877,
+   R01 HD038210-03, R01 HD038210-06] Funding Source: Medline; NIDA NIH HHS
+   [R01 DA012831-02, R01 DA012831-03, R01 DA012831-06, R01 DA012831, R01
+   DA012831-01A1, R01 DA012831-04, R01 DA012831-05] Funding Source: Medline
+CR [Anonymous], 39 U WASH CTR STAT S
+   [Anonymous], 2002, J SOC STRUCT, DOI DOI 10.1021/pr060392u
+   [Anonymous], 2002, Contributions to social network analysis, information theory, and other topics in statistics
+   BESAG J, 1974, J ROY STAT SOC B MET, V36, P192
+   BESAG J, 1986, J R STAT SOC B, V48, P259
+   FRANK O, 1986, J AM STAT ASSOC, V81, P832, DOI 10.2307/2289017
+   GEYER CJ, 1992, J R STAT SOC B, V54, P657
+   GEYER CJ, 1994, J ROY STAT SOC B MET, V56, P261
+   Goodreau S. M., 2005, 0501 U WASH CTR STUD
+   Handcock MS, 2003, DYNAMIC SOCIAL NETWORK MODELING AND ANALYSIS, P229
+   HANDCOCK MS, 2004, ERGM R PACKAGE STAT
+   Hunter D. R., 2005, 47 U WASH CTR STAT S
+   Hunter DR, 2007, SOC NETWORKS, V29, P216, DOI 10.1016/j.socnet.2006.08.005
+   Hunter DR, 2006, J COMPUT GRAPH STAT, V15, P565, DOI 10.1198/106186006X133069
+   Pattison P, 2002, SOCIOL METHODOL, V32, P301, DOI 10.1111/1467-9531.00119
+   Resnick MD, 1997, JAMA-J AM MED ASSOC, V278, P823, DOI 10.1001/jama.278.10.823
+   Robins G, 2007, SOC NETWORKS, V29, P192, DOI 10.1016/j.socnet.2006.08.003
+   Robins G, 2007, SOC NETWORKS, V29, P173, DOI 10.1016/j.socnet.2006.08.002
+   SNIJDERS TAB, SOCIOLOGICAL METHODO, V36
+   STRAUSS D, 1990, J AM STAT ASSOC, V85, P204, DOI 10.2307/2289546
+   Udry J.R., 1998, NEW PERSPECTIVES ADO, P241
+   Wasserman S, 1996, PSYCHOMETRIKA, V61, P401, DOI 10.1007/BF02294547
+NR 22
+TC 210
+Z9 261
+U1 5
+U2 61
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD MAY
+PY 2007
+VL 29
+IS 2
+BP 231
+EP 248
+DI 10.1016/j.socnet.2006.08.001
+PG 18
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 167DG
+UT WOS:000246430600005
+PM 18449326
+OA Green Accepted
+DA 2024-11-22
+ER

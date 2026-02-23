@@ -1,0 +1,480 @@
+
+PT J
+AU Onnela, JP
+   Sarämaki, J
+   Hyvönen, J
+   Szabó, G
+   Lazer, D
+   Kaski, K
+   Kertész, J
+   Barabási, AL
+AF Onnela, J.-P.
+   Saramaki, J.
+   Hyvonen, J.
+   Szabo, G.
+   Lazer, D.
+   Kaski, K.
+   Kertesz, J.
+   Barabasi, A.-L.
+TI Structure and tie strengths in mobile communication networks
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE complex systems; complex networks; diffusion and spreading; phase
+   transition; social systems
+ID COMMUNITY STRUCTURE
+AB Electronic databases, from phone to e-mails logs, currently provide detailed records of human communication patterns, offering novel avenues to map and explore the structure of social and communication networks. Here we examine the communication patterns of millions of mobile phone users, allowing us to simultaneously study the local and the global structure of a society-wide communication network. We observe a coupling between interaction strengths and the network's local structure, with the counterintuitive consequence that social networks are robust to the removal of the strong ties but fall apart after a phase transition if the weak ties are removed. We show that this coupling significantly slows the diffusion process, resulting in dynamic trapping of information in communities and find that, when it comes to information diffusion, weak and strong ties are both simultaneously ineffective.
+C1 Aalto Univ, Lab Comp Engn, FI-02015 Helsinki, Finland.
+   Univ Oxford, Clarendon Lab, Dept Phys, Oxford OX1 3PU, England.
+   Univ Notre Dame, Dept Phys, Notre Dame, IN 46556 USA.
+   Univ Notre Dame, Ctr Complex Networks Res, Notre Dame, IN 46556 USA.
+   Harvard Univ, Ctr Canc Syst Biol, Dana Farber Canc Inst, Boston, MA 02115 USA.
+   Harvard Univ, John F Kennedy Sch Govt, Cambridge, MA 02138 USA.
+   Budapest Univ Technol & Econ, Dept Theoret Phys, H-1111 Budapest, Hungary.
+C3 Aalto University; University of Oxford; University of Notre Dame;
+   University of Notre Dame; Harvard University; Dana-Farber Cancer
+   Institute; Harvard University; Budapest University of Technology &
+   Economics
+RP Onnela, JP (corresponding author), Aalto Univ, Lab Comp Engn, POB 9203, FI-02015 Helsinki, Finland.
+EM jp.onnela@physics.ox.ac.uk
+RI Barabasi, Albert-Laszlo/S-6474-2017; Kaski, Kimmo/G-8067-2012; Kertész,
+   János/B-3411-2012; Saramaki, Jari/E-5226-2011
+OI Barabasi, Albert/0000-0002-4028-3522
+FU Direct For Mathematical & Physical Scien; Division Of Materials Research
+   [0837678] Funding Source: National Science Foundation
+CR Aiello W., 2000, Proceedings of the Thirty Second Annual ACM Symposium on Theory of Computing, P171, DOI 10.1145/335305.335326
+   Albert R, 2000, NATURE, V406, P378, DOI 10.1038/35019019
+   Almaas E, 2004, NATURE, V427, P839, DOI 10.1038/nature02289
+   BARABAS AL, 1995, SCIENCE, V286, P509
+   Barthélemy M, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.178701
+   Bunde A., 1996, FRACTALS DISORDERED
+   Caldarelli G., 2007, Scale-free networks: complex webs in nature and technology
+   Cohen R, 2000, PHYS REV LETT, V85, P4626, DOI 10.1103/PhysRevLett.85.4626
+   Colizza V, 2006, P NATL ACAD SCI USA, V103, P2015, DOI 10.1073/pnas.0510525103
+   Csermely P., 2006, Weak links: Stabilizers of complex systems from proteins to social networks
+   Dodds PS, 2003, SCIENCE, V301, P827, DOI 10.1126/science.1081058
+   Dorogovtsev SN, 2002, ADV PHYS, V51, P1079, DOI 10.1080/00018730110112519
+   Ebel H, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.035103
+   Eckmann JP, 2004, P NATL ACAD SCI USA, V101, P14333, DOI 10.1073/pnas.0405728101
+   FREEMAN LC, 1977, SOCIOMETRY, V40, P35, DOI 10.2307/3033543
+   Gallos LK, 2005, PHYS REV LETT, V94, DOI 10.1103/PhysRevLett.94.188701
+   Girvan M, 2002, P NATL ACAD SCI USA, V99, P7821, DOI 10.1073/pnas.122653799
+   Goh KI, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.278701
+   Granovetter M, 1995, Getting a Job: A Study of Contacts and Careers
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Haythornthwaite C., 2005, Information Communication & Society, V8, P125, DOI 10.1080/13691180500146185
+   Hethcote HW, 2000, SIAM REV, V42, P599, DOI 10.1137/S0036144500371907
+   Jaccard P., 1901, B SOC VAUD SCI NAT, V37, P547, DOI DOI 10.5169/SEALS-266450
+   Maritan A, 1996, SCIENCE, V272, P984, DOI 10.1126/science.272.5264.984
+   Newman ME., 2006, STRUCTURE DYNAMICS N
+   Onnela JP, 2004, EUR PHYS J B, V38, P353, DOI 10.1140/epjb/e2004-00128-7
+   Palla G, 2005, NATURE, V435, P814, DOI 10.1038/nature03607
+   Pastor-Satorras R, 2001, PHYS REV LETT, V86, P3200, DOI 10.1103/PhysRevLett.86.3200
+   Rogers E., 2003, DIFFUSION INNOVATION
+   Stauffer D, 1992, INTRO PERCOLATION TH, DOI 10.1201/9781315274386
+   Toroczkai Z, 2004, NATURE, V428, P716, DOI 10.1038/428716a
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+NR 32
+TC 1178
+Z9 1341
+U1 2
+U2 201
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+EI 1091-6490
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD MAY 1
+PY 2007
+VL 104
+IS 18
+BP 7332
+EP 7336
+DI 10.1073/pnas.0610245104
+PG 5
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 164MY
+UT WOS:000246239400007
+PM 17456605
+OA Green Published, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Cointet, JP
+   Roth, C
+AF Cointet, Jean-Philippe
+   Roth, Camille
+TI How Realistic Should Knowledge Diffusion Models Be?
+SO JASSS-THE JOURNAL OF ARTIFICIAL SOCIETIES AND SOCIAL SIMULATION
+LA English
+DT Article
+DE Agent-Based Simulation; Complex Systems; Empirical Calibration and
+   Validation; Knowledge Diffusion; Model Comparison; Social Networks
+ID SOCIAL NETWORK; EXTREMISM PROPAGATION; INNOVATION; EMERGENCE; EVOLUTION;
+   PATTERNS
+AB Knowledge diffusion models typically involve two main features: an underlying social network topology on one side, and a particular design of interaction rules driving knowledge transmission on the other side. Acknowledging the need for realistic topologies and adoption behaviors backed by empirical measurements, it becomes unclear how accurately existing models render real-world phenomena: if indeed both topology and transmission mechanisms have a key impact on these phenomena, to which extent does the use of more or less stylized assumptions affect modeling results? In order to evaluate various classical topologies and mechanisms, we push the comparison to more empirical benchmarks: real-world network structures and empirically measured mechanisms. Special attention is paid to appraising the discrepancy between diffusion phenomena (i) on some real network topologies vs. various kinds of scale-free networks, and (ii) using an empirically-measured transmission mechanism, compared with canonical appropriate models such as threshold models. We find very sensible differences between the more realistic settings and their traditional stylized counterparts. On the whole, our point is thus also epistemological by insisting that models should be tested against simulation-based empirical benchmarks.
+RI cointet, jean-philippe/AAX-3720-2021; Roth, Camille/AFB-9056-2022
+OI cointet, jean-philippe/0000-0002-3172-3960
+CR Abrahamson E, 1997, ORGAN SCI, V8, P289, DOI 10.1287/orsc.8.3.289
+   Adamic L.A., 2006, P 7 ACM C EL COMM, P228, DOI [10.1145/1232722.1232727, 10.1145/1232722.1232727.15]
+   Amaral LAN, 2000, P NATL ACAD SCI USA, V97, P11149, DOI 10.1073/pnas.200327197
+   Amblard F, 2004, PHYSICA A, V343, P725, DOI 10.1016/j.physa.2004.06.102
+   ANDERSON RM, 1979, NATURE, V280, P361, DOI 10.1038/280361a0
+   [Anonymous], 2002, The Journal of Artificial Societies and Social Simulation
+   [Anonymous], 1997, COMPLEXITY COOPERATI
+   Backstrom L., 2006, P 12 ACM SIGKDD INT, P44, DOI [10.1145/1150402.1150412, DOI 10.1145/1150402.1150412]
+   Bala V, 1998, REV ECON STUD, V65, P595, DOI 10.1111/1467-937X.00059
+   Barabási AL, 2002, PHYSICA A, V311, P590, DOI 10.1016/S0378-4371(02)00736-7
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barbour A., 1990, Lect. Notes Biomath., P86
+   Barthélemy M, 2005, J THEOR BIOL, V235, P275, DOI 10.1016/j.jtbi.2005.01.011
+   Boguñá M, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.056122
+   Boguñá M, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.047104
+   Bollobas B., 1985, RANDOM GRAPHS
+   BURT RS, 1987, AM J SOCIOL, V92, P1287, DOI 10.1086/228667
+   Cowan R, 2004, J ECON DYN CONTROL, V28, P1557, DOI 10.1016/j.jedc.2003.04.002
+   Crépey P, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.046131
+   Deffuant G, 2006, JASSS-J ARTIF SOC S, V9
+   Delgado J, 2002, ARTIF INTELL, V141, P171, DOI 10.1016/S0004-3702(02)00262-X
+   Deroïan F, 2002, RES POLICY, V31, P835, DOI 10.1016/S0048-7333(01)00147-0
+   Dorogovtsev SN, 2002, ADV PHYS, V51, P1079, DOI 10.1080/00018730110112519
+   Eguíluz VM, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.108701
+   ELLISON G, 1995, Q J ECON, V110, P93, DOI 10.2307/2118512
+   Erdos P., 1959, PUBL MATH-DEBRECEN, V6, P290
+   Ganesh A, 2005, IEEE INFOCOM SER, P1455
+   Gilber N., 2001, JASSS-J ARTIF SOC S, V4, P8
+   Goldenberg J, 2001, MARKET LETT, V12, P211, DOI 10.1023/A:1011122126881
+   GRANOVETTER M, 1978, AM J SOCIOL, V83, P1420, DOI 10.1086/226707
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Gruhl D., 2004, P 13 INT C WORLD WID, P491, DOI [DOI 10.1145/988672.988739, DOI 10.1145/1046456.1046462]
+   Guillaume JL, 2004, INFORM PROCESS LETT, V90, P215, DOI 10.1016/j.ipl.2004.03.007
+   Guimerà R, 2005, SCIENCE, V308, P697, DOI 10.1126/science.1106340
+   Hethcote HW, 2000, SIAM REV, V42, P599, DOI 10.1137/S0036144500371907
+   Holme P, 2004, SOC NETWORKS, V26, P155, DOI 10.1016/j.socnet.2004.01.007
+   Kempe D., 2005, Automata, Languages and Programming. 32nd International Colloquium, ICALP 2005. Proceedings (Lecture Notes in Computer Science Vol. 3580), P1127, DOI 10.1007/11523468_91
+   Kempe D, 2002, ANN IEEE SYMP FOUND, P471, DOI 10.1109/SFCS.2002.1181971
+   Klemm K, 2005, J ECON DYN CONTROL, V29, P321, DOI 10.1016/j.jedc.2003.08.005
+   Kossinets G, 2006, SCIENCE, V311, P88, DOI 10.1126/science.1116869
+   Lew B, 2000, EXPLOR ECON HIST, V37, P189, DOI 10.1006/exeh.2000.0737
+   Lind PG, 2005, PHYS REV E, V72, DOI 10.1103/PhysRevE.72.056127
+   Lloyd AL, 2001, SCIENCE, V292, P1316, DOI 10.1126/science.1061076
+   May RM, 2001, PHYS REV E, V64, DOI 10.1103/PhysRevE.64.066112
+   MOLLOY M, 1995, RANDOM STRUCT ALGOR, V161, P161
+   Morris S, 2000, REV ECON STUD, V67, P57, DOI 10.1111/1467-937X.00121
+   Newman MEJ, 2001, PHYS REV E, V64, DOI 10.1103/PhysRevE.64.025102
+   Newman MEJ, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.036122
+   Newman MEJ, 2003, SOC NETWORKS, V25, P83, DOI 10.1016/S0378-8733(02)00039-4
+   Newman MEJ, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.016128
+   Pastor-Satorras R, 2002, PHYS REV E, V65, DOI 10.1103/PhysRevE.65.035108
+   Pastor-Satorras R, 2001, PHYS REV LETT, V86, P3200, DOI 10.1103/PhysRevLett.86.3200
+   Redner S, 2005, PHYS TODAY, V58, P49, DOI 10.1063/1.1996475
+   ROBERTSON TS, 1967, J MARKETING, V31, P14, DOI 10.2307/1249295
+   Robins G., 2004, Computational & Mathematical Organization Theory, V10, P69, DOI 10.1023/B:CMOT.0000032580.12184.c0
+   Rogers E., 2003, DIFFUSION INNOVATION
+   ROGERS EM, 1976, J CONSUM RES, V2, P290, DOI 10.1086/208642
+   Szendröi B, 2004, P ROY SOC B-BIOL SCI, V271, pS364, DOI 10.1098/rsbl.2004.0188
+   Tardos, 2003, P 9 ACM SIGKDD INT C, P137, DOI 10.1145/956750.956769
+   Valente T.W., 1995, NETWORK MODELS DIFFU
+   Valente TW, 1996, SOC NETWORKS, V18, P69, DOI 10.1016/0378-8733(95)00256-1
+   Wang Y, 2003, SYM REL DIST SYST, P25
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   White DR, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.016119
+   Wu F, 2004, PHYSICA A, V337, P327, DOI 10.1016/j.physa.2004.01.030
+   Zegura EW, 1996, IEEE INFOCOM SER, P594, DOI 10.1109/INFCOM.1996.493353
+NR 67
+TC 44
+Z9 47
+U1 0
+U2 7
+PU J A S S S
+PI GUILDFORD
+PA UNIV SURREY, DEPT SOCIOLOGY, GUILDFORD GU2 7XH, SURREY, ENGLAND
+SN 1460-7425
+J9 JASSS-J ARTIF SOC S
+JI JASSS
+PD JUN
+PY 2007
+VL 10
+IS 3
+AR 5
+PG 11
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA V00PO
+UT WOS:000206800100005
+DA 2024-11-22
+ER
+
+PT J
+AU Kang, SM
+AF Kang, Soong Moon
+TI Equicentrality and network centralization: A micro-macro linkage
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE equicentrality; network centralization; degree centrality; micro-macro
+   linkage
+ID STRUCTURAL BALANCE; SOCIAL NETWORKS; DENSITY; MODELS
+AB This paper investigates a linkage between micro- and macrostructures as an intrinsic property of social networks. In particular, it examines the linkage between equicentrality [Kang, S.M., 2007. A note on measures of similarity based on centrality. Social Networks 29, 137-142] as a conceptualization of a microstructural process (i.e., the likelihood of social actors to be connected with similarly central others) and network centralization as a macrostructural construct, and shows that they have a negative linear association. In other words, when actors are connected with similarly central alters (i.e., high equicentrality), the overall network centralization is low. Conversely, when highly central actors are connected with low-centrality actors (i.e., low equicentrality), the overall network centralization is high. The relationship between degree equicentrality and degree centralization is more significant in observed networks, especially those evolving over time, as compared to random networks. An application of this property is given by venture capital co-investment networks. (C) 2007 Elsevier B.V. All rights reserved.
+C1 UCL, Dept Management Sci & Innovat, London WC1E 6BT, England.
+C3 University of London; University College London
+RP Kang, SM (corresponding author), UCL, Dept Management Sci & Innovat, Gower St, London WC1E 6BT, England.
+EM smkang@ucl.ac.uk
+CR Anderson BS, 1999, SOC NETWORKS, V21, P239, DOI 10.1016/S0378-8733(99)00011-8
+   [Anonymous], MICRO MACRO LINK
+   [Anonymous], PERSPECTIVES SOCIAL
+   [Anonymous], 2002, Harvard, MA: Analytic Technologies
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Berger J., 1966, Sociological theories in progress, V1, P29
+   Burt RonaldS., 1982, Toward a Structural Theory of Action : Network Models of Social Structure, Perception, and Action
+   Butts CT, 2006, SOC NETWORKS, V28, P283, DOI 10.1016/j.socnet.2005.07.003
+   Butts CT, 2001, SOC NETWORKS, V23, P31, DOI 10.1016/S0378-8733(01)00030-2
+   CARTWRIGHT D, 1956, PSYCHOL REV, V63, P277, DOI 10.1037/h0046049
+   Davis J. A., 1972, SOCIOLOGICAL THEORIE, V2, P218
+   DAVIS JA, 1967, HUM RELAT, V20, P181, DOI 10.1177/001872676702000206
+   Doreian P, 2002, SOC NETWORKS, V24, P93, DOI 10.1016/S0378-8733(01)00051-X
+   Efron B., 1993, INTRO BOOTSTRAP
+   FAUST K, IN PRESS SOCIOLOGICA
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   FRIEDKIN NE, 1981, SOC NETWORKS, V3, P41, DOI 10.1016/0378-8733(81)90004-6
+   Harary F., 1953, Michigan Mathematical Journal, V2, P143, DOI DOI 10.1307/MMJ/1028989917
+   Heider F, 1946, J PSYCHOL, V21, P107, DOI 10.1080/00223980.1946.9917275
+   HOLLAND PW, 1971, COMP GROUP STUD, V2, P107, DOI 10.1177/104649647100200201
+   Hummon NP, 2003, SOC NETWORKS, V25, P17, DOI 10.1016/S0378-8733(02)00019-9
+   JOHNSEN EC, 1986, SOC NETWORKS, V8, P257, DOI 10.1016/0378-8733(86)90007-9
+   KANG SM, 2005, THESIS STANFORD U
+   Kang SM, 2007, SOC NETWORKS, V29, P137, DOI 10.1016/j.socnet.2006.04.004
+   Lawler EdwardJ., 1993, SOCIOL THEOR, V11, P268, DOI [10.2307/201971, DOI 10.2307/201971]
+   Markovsky Barry., 1996, Current Research in Social Psychology, V1, P30
+   MARSDEN PV, 1990, ANNU REV SOCIOL, V16, P435, DOI 10.1146/annurev.so.16.080190.002251
+   Robinson WS, 1950, AM SOCIOL REV, V15, P351, DOI 10.1093/ije/dyn357
+   SKVORETZ J, 1985, SOC NETWORKS, V7, P225, DOI 10.1016/0378-8733(85)90016-4
+   Stokman F.N., 1997, Evolution of social networks, P233
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+NR 31
+TC 19
+Z9 23
+U1 5
+U2 21
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-8733
+J9 SOC NETWORKS
+JI Soc. Networks
+PD OCT
+PY 2007
+VL 29
+IS 4
+BP 585
+EP 601
+DI 10.1016/j.socnet.2007.07.004
+PG 17
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 231QT
+UT WOS:000250964800008
+DA 2024-11-22
+ER
+
+PT J
+AU Palla, G
+   Barabási, AL
+   Vicsek, T
+AF Palla, Gergely
+   Barabasi, Albert-Laszlo
+   Vicsek, Tamas
+TI Quantifying social group evolution
+SO NATURE
+LA English
+DT Article
+ID COMMUNITY STRUCTURE; NETWORK STRUCTURE; COLLABORATION
+AB The rich set of interactions between individuals in society(1-7) results in complex community structure, capturing highly connected circles of friends, families or professional cliques in a social network(3,7-10). Thanks to frequent changes in the activity and communication patterns of individuals, the associated social and communication network is subject to constant evolution(7,11-16). Our knowledge of the mechanisms governing the underlying community dynamics is limited, but is essential for a deeper understanding of the development and self-optimization of society as a whole(17-22). We have developed an algorithm based on clique percolation(23,24) that allows us to investigate the time dependence of overlapping communities on a large scale, and thus uncover basic relationships characterizing community evolution. Our focus is on networks capturing the collaboration between scientists and the calls between mobile phone users. We find that large groups persist for longer if they are capable of dynamically altering their membership, suggesting that an ability to change the group composition results in better adaptability. The behaviour of small groups displays the opposite tendency - the condition for stability is that their composition remains unchanged. We also show that knowledge of the time commitment of members to a given community can be used for estimating the community's lifetime. These findings offer insight into the fundamental differences between the dynamics of small groups and large institutions.
+C1 HAS, Stat & Biol Phys Res Grp, H-1117 Budapest, Hungary.
+   Univ Notre Dame, Ctr Complex Network Res, Notre Dame, IN 46566 USA.
+   Univ Notre Dame, Dept Phys, Notre Dame, IN 46566 USA.
+   Univ Notre Dame, Dept Comp Sci, Notre Dame, IN 46566 USA.
+   Eotvos Lorand Univ, Dept Biol Phys, H-1117 Budapest, Hungary.
+C3 Hungarian Academy of Sciences; University of Notre Dame; University of
+   Notre Dame; University of Notre Dame; Eotvos Lorand University
+RP Vicsek, T (corresponding author), HAS, Stat & Biol Phys Res Grp, Pazmany P Stny 1A, H-1117 Budapest, Hungary.
+EM vicsek@angel.elte.hu
+RI Barabasi, Albert-Laszlo/S-6474-2017; Vicsek, Tamas/A-3305-2009; Palla,
+   Gergely/H-1767-2016
+OI Palla, Gergely/0000-0002-3406-4200; Barabasi, Albert/0000-0002-4028-3522
+FU Direct For Mathematical & Physical Scien; Division Of Materials Research
+   [0837678] Funding Source: National Science Foundation
+CR Barabási AL, 2002, PHYSICA A, V311, P590, DOI 10.1016/S0378-4371(02)00736-7
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Csermely P., 2006, WEAK LINKS
+   Derényi I, 2005, PHYS REV LETT, V94, DOI 10.1103/PhysRevLett.94.160202
+   Dorogovtsev SN, 2002, ADV PHYS, V51, P1079, DOI 10.1080/00018730110112519
+   Ebel Holger, 2002, Complexity, V8, P24, DOI 10.1002/cplx.10066
+   Everett M., 1998, CONNECTIONS, V21, P49
+   FAUST K, 2005, MODELS METHODS SOCIA, pCH7
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Guimerà R, 2005, SCIENCE, V308, P697, DOI 10.1126/science.1106340
+   Guimerà R, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.065103
+   Holme P, 2004, SOC NETWORKS, V26, P155, DOI 10.1016/j.socnet.2004.01.007
+   Hopcroft J, 2004, P NATL ACAD SCI USA, V101, P5249, DOI 10.1073/pnas.0307750100
+   Kossinets G, 2006, SCIENCE, V311, P88, DOI 10.1126/science.1116869
+   Li CG, 2005, J PHYS A-MATH GEN, V38, P9741, DOI 10.1088/0305-4470/38/45/002
+   Liljeros F, 2001, NATURE, V411, P907, DOI 10.1038/35082140
+   Newman MEJ, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.036122
+   Newman MEJ, 2004, EUR PHYS J B, V38, P321, DOI 10.1140/epjb/e2004-00124-y
+   ONNEAL JP, 2006, STRUCTURE TIE STRENG
+   Palla G, 2005, NATURE, V435, P814, DOI 10.1038/nature03607
+   Pollner P, 2006, EUROPHYS LETT, V73, P478, DOI 10.1209/epl/i2005-10414-6
+   Radicchi F, 2004, P NATL ACAD SCI USA, V101, P2658, DOI 10.1073/pnas.0400054101
+   SCOTT J, 1988, SOCIOLOGY, V22, P109, DOI 10.1177/0038038588022001007
+   Shiffrin RM, 2004, P NATL ACAD SCI USA, V101, P5183, DOI 10.1073/pnas.0307852100
+   Wagner CS, 2005, RES POLICY, V34, P1608, DOI 10.1016/j.respol.2005.08.002
+   Warner S., 2003, Library Hi Tech, V21, P151, DOI 10.1108/07378830310479794
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Watts DJ, 2002, SCIENCE, V296, P1302, DOI 10.1126/science.1070120
+   Yeung YY, 2005, AM J PHYS, V73, P145, DOI 10.1119/1.1775799
+NR 29
+TC 1079
+Z9 1292
+U1 6
+U2 356
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 0028-0836
+EI 1476-4687
+J9 NATURE
+JI Nature
+PD APR 5
+PY 2007
+VL 446
+IS 7136
+BP 664
+EP 667
+DI 10.1038/nature05670
+PG 4
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA 153LZ
+UT WOS:000245438300039
+PM 17410175
+OA Green Submitted
+DA 2024-11-22
+ER
+
+PT S
+AU Faust, K
+AF Faust, Katherine
+BE Xie, Y
+TI VERY LOCAL STRUCTURE IN SOCIAL NETWORKS
+SO SOCIOLOGICAL METHODOLOGY 2007, VOL 37
+SE Sociological Methodology
+LA English
+DT Article; Book Chapter
+ID TRIAD CENSUS; DOMINANCE RELATIONSHIPS; CANONICAL CORRELATION; LOGISTIC
+   REGRESSIONS; GRAPH DISTRIBUTIONS; LOGIT-MODELS; TRANSITIVITY;
+   SOCIOMATRICES; EQUIVALENCE; HIERARCHY
+AB Triadic configurations are fundamental to many social structural processes and provide the basis for a variety of social network theories and methodologies. This paper addresses the question of how much of the patterning of triads is accounted for by lower-order properties pertaining to nodes and dyads. The empirical base is a collection of 82 social networks representing a number of different species (humans, baboons, macaques, bison, cattle, goats, sparrows, caribou, and more) and an assortment of social relations (friendship, negative sentiments, choice of work partners, advice seeking, reported social interactions, victories in agonistic encounters, dominance, and co-observation). Methodology uses low-dimensional representations of triad censuses for these social networks, as compared to censuses expected given four lower-order social network properties. Results show that triadic structure is largely accounted for by properties more local than triads: network density, nodal indegree and outdegree distributions, and the dyad census. These findings reinforce the observation that structural configurations that can be realized it? empirical social networks are severely constrained by very local network properties, making some configurations extremely improbable.
+C1 [Faust, Katherine] Univ Calif Irvine, Dept Sociol, Irvine, CA 92717 USA.
+   [Faust, Katherine] Univ Calif Irvine, Inst Math Behav Sci, Irvine, CA USA.
+C3 University of California System; University of California Irvine;
+   University of California System; University of California Irvine
+RP Faust, K (corresponding author), Univ Calif Irvine, Dept Sociol, Irvine, CA 92717 USA.
+EM kfaust@uci.edu
+CR Anderson BS, 1999, SOC NETWORKS, V21, P239, DOI 10.1016/S0378-8733(99)00011-8
+   [Anonymous], PERSPECTIVES SOCIAL
+   [Anonymous], 1976, Sociological Methodology
+   [Anonymous], 1987, Introduction to Impact Engineering, DOI DOI 10.1007/978-94-009-3159-6
+   [Anonymous], 2002, HARVARD MA ANAL TECH
+   [Anonymous], 1992, Structural holes
+   [Anonymous], 2005, Models and Methods in Social Network Analysis, DOI DOI 10.1017/CBO9780511811395.008
+   Batagelj V, 2001, SOC NETWORKS, V23, P237, DOI 10.1016/S0378-8733(01)00035-1
+   Ben-Israel A., 1974, GEN INVERSES THEORY
+   BERNARD HR, 1980, SOC NETWORKS, V2, P191, DOI 10.1016/0378-8733(79)90014-5
+   BURT RS, 1995, RATION SOC, V7, P255, DOI 10.1177/1043463195007003003
+   BURT RS, 1990, SOC NETWORKS, V12, P83, DOI 10.1016/0378-8733(90)90023-3
+   Butts CT, 2006, SOC NETWORKS, V28, P283, DOI 10.1016/j.socnet.2005.07.003
+   CARTWRIGHT D, 1956, PSYCHOL REV, V63, P277, DOI 10.1037/h0046049
+   CHASE ID, 1982, BEHAVIOUR, V80, P218, DOI 10.1163/156853982X00364
+   Chase ID, 2003, BEHAVIOUR, V140, P1193, DOI 10.1163/156853903771980558
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   Davis J. A., 1972, SOCIOLOGICAL THEORIE, V2, P218
+   DAVIS JA, 1977, J MATH SOCIOL, V5, P41, DOI 10.1080/0022250X.1977.9989864
+   DAVIS JA, 1970, AM SOCIOL REV, V35, P843, DOI 10.2307/2093295
+   DAVIS JA, 1967, HUM RELAT, V20, P181, DOI 10.1177/001872676702000206
+   Davis JamesA., 1979, Perspectives on Social Network Research, P51, DOI DOI 10.1016/B978-0-12-352550-5.50009-2
+   FAUST K, 1985, SOC NETWORKS, V7, P77, DOI 10.1016/0378-8733(85)90009-7
+   Faust K, 2002, SOCIOL METHODOL, V32, P267, DOI 10.1111/1467-9531.00118
+   Faust K., 2006, Metodo Zv., V3, P185, DOI DOI 10.1002/SMJ.444
+   FRANK O, 1982, J AM STAT ASSOC, V77, P835, DOI 10.2307/2287315
+   FRANK O, 1988, DISCRETE MATH, V72, P141, DOI 10.1016/0012-365X(88)90202-6
+   Friedkin N., 1998, A structural theory of social influence
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   GREENACRE MJ, 1984, THEORY APPL CORRES A
+   Hallinan M., 1974, STRUCTURE POSITIVE S
+   HALLINAN MT, 1974, AM J SOCIOL, V80, P364, DOI 10.1086/225804
+   Heider F, 1946, J PSYCHOL, V21, P107, DOI 10.1080/00223980.1946.9917275
+   HOLLAND PW, 1970, AM J SOCIOL, V76, P492, DOI 10.1086/224954
+   HOLLAND PW, 1971, COMP GROUP STUD, V2, P107, DOI 10.1177/104649647100200201
+   HOLLAND PW, 1972, AM J SOCIOL, V77, P1205, DOI 10.1086/225266
+   HOLLAND PW, 1973, J MATH SOCIOL, V3, P85, DOI 10.1080/0022250X.1973.9989825
+   Homans G.C., 1950, The Human Group
+   Johnsen E.C., 1998, The problem of solidarity, P263
+   JOHNSEN EC, 1989, IMA V MATH, V17, P169
+   JOHNSEN EC, 1986, SOC NETWORKS, V8, P257, DOI 10.1016/0378-8733(86)90007-9
+   JOHNSEN EC, 1985, SOC NETWORKS, V7, P203, DOI 10.1016/0378-8733(85)90015-2
+   JOHNSEN EC, 1989, SMALL WORLD, P239
+   Kalish Y, 2006, SOC NETWORKS, V28, P56, DOI 10.1016/j.socnet.2005.04.004
+   Karlberg M, 1998, J MATH SOCIOL, V23, P99, DOI 10.1080/0022250X.1998.9990215
+   LAMBERT ZV, 1988, PSYCHOL BULL, V104, P282, DOI 10.1037/0033-2909.104.2.282
+   Moody J, 1998, SOC NETWORKS, V20, P291, DOI 10.1016/S0378-8733(98)00006-9
+   Pattison P, 1999, BRIT J MATH STAT PSY, V52, P169, DOI 10.1348/000711099159053
+   ROBINS G, SOCIAL NETW IN PRESS
+   Robins G.L., 2005, MODELS METHODS SOCIA, P192
+   Simmel G., 1950, SOCIOLOGY G SIMMEL
+   Skvoretz J, 1996, J MATH SOCIOL, V21, P57, DOI 10.1080/0022250X.1996.9990174
+   Skvoretz J, 2004, SOC NETWORKS, V26, P113, DOI 10.1016/j.socnet.2004.01.005
+   Skvoretz John, 2002, J SOCIAL STRUCTURE, V3
+   SNIJDERS TAB, 1991, PSYCHOMETRIKA, V56, P397, DOI 10.1007/BF02294482
+   SNIJDERS TAB, 1987, SOC NETWORKS, V9, P249, DOI 10.1016/0378-8733(87)90022-0
+   Snijders TAB, 2006, SOCIOL METHODOL, V36, P99, DOI 10.1111/j.1467-9531.2006.00176.x
+   STEWART D, 1968, PSYCHOL BULL, V70, P160, DOI 10.1037/h0026143
+   Wasserman S, 1996, PSYCHOMETRIKA, V61, P401, DOI 10.1007/BF02294547
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   WASSERMAN SS, 1977, J MATH SOCIOL, V5, P61, DOI 10.1080/0022250X.1977.9989865
+   Weller SusanC., 1990, Metric Scaling: Correspondence Analysis
+NR 62
+TC 67
+Z9 85
+U1 4
+U2 26
+PU WILEY-BLACKWELL
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN STREET, MALDEN 02148, MA USA
+SN 0081-1750
+BN 978-1-4051-7624-8
+J9 SOCIOL METHODOL
+JI Sociol. Methodol.
+PY 2007
+VL 37
+BP 209
+EP 256
+DI 10.1111/j.1467-9531.2007.00179.x
+PG 48
+WC Sociology
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH); Social Science Citation Index (SSCI)
+SC Sociology
+GA BKK91
+UT WOS:000268397700007
+DA 2024-11-22
+ER

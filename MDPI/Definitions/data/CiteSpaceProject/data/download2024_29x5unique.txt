@@ -1,0 +1,779 @@
+
+PT J
+AU Hyun, EJ
+   Kim, BTS
+AF Hyun, Eun-jung
+   Kim, Brian Tae-Seok
+TI Overcoming Uncertainty in Novel Technologies: The Role of Venture
+   Capital Syndication Networks in Artificial Intelligence (AI) Startup
+   Investments in Korea and Japan
+SO SYSTEMS
+LA English
+DT Article
+DE venture capital syndication networks; AI startups; network reachability;
+   Korean VCs; Japanese VCs
+ID COLLABORATION NETWORKS; STRUCTURAL HOLES; INNOVATION; INDUSTRY; FIRMS;
+   KNOWLEDGE; DECISION; CENTRALITY; SELECTION; IMPACT
+AB This paper investigates how historical inter-firm syndication networks influence venture capitalists' (VCs) propensity to invest in startups pursuing novel, uncertain technologies, with a focus on artificial intelligence (AI). We theorize that VCs' positional attributes within cumulative syndication networks determine their access to external expertise and intelligence that aid AI investment decisions amidst informational opacity. Specifically, reachability to prior AI investors provides referrals and insights transmitted across short network paths to reduce ambiguity. Additionally, VC brokerage between disconnected industry clusters furnishes expansive, non-redundant information that is pivotal for discovering and assessing AI opportunities. Through hypotheses grounded in social network theory, we posit network-based mechanisms that equip VCs to navigate uncertainty when engaging with ambiguous innovations like AI. We test our framework, utilizing comprehensive historical records of global venture capital investments. Analyzing the location information of VC firms in this database, we uncovered a history of 14,751 investments made by Korean and Japanese firms. Using these data, we assembled an imbalanced panel dataset from 1984 to 2022 spanning 230 Korean and 413 Japanese VCs, with 4508 firm-year observations. Negative binomial regression analysis of this dataset reveals how historical relational patterns among venture capital firms foster readiness to evaluate unfamiliar innovations.
+C1 [Hyun, Eun-jung] Hongik Univ, Coll Business Adm, Seoul 04066, South Korea.
+   [Kim, Brian Tae-Seok] Waseda Univ, Sch Commerce, Tokyo 1698050, Japan.
+C3 Hongik University; Waseda University
+RP Kim, BTS (corresponding author), Waseda Univ, Sch Commerce, Tokyo 1698050, Japan.
+EM tae.seok.kim@aoni.waseda.jp
+OI Kim, Tae Seok/0009-0001-9135-0625
+FU Waseda University
+FX No Statement Available
+CR Abduljabbar R, 2019, SUSTAINABILITY-BASEL, V11, DOI 10.3390/su11010189
+   Aggarwal R, 2015, MANAGE SCI, V61, P2685, DOI 10.1287/mnsc.2014.2117
+   Ahuja G, 2000, ADMIN SCI QUART, V45, P425, DOI 10.2307/2667105
+   Ameye N, 2023, TECHNOVATION, V127, DOI 10.1016/j.technovation.2023.102846
+   Amit R, 1998, J BUS VENTURING, V13, P441, DOI 10.1016/S0883-9026(97)00061-X
+   Anokhin S., 2016, Journal of Business Venturing Insights, V5, P63, DOI [10.1016/j.jbvi.2016.04.002, DOI 10.1016/J.JBVI.2016.04.002]
+   Antretter T, 2020, J BUS VENTURING, V35, DOI 10.1016/j.jbusvent.2020.106043
+   Bacon-Gerasymenko V, 2019, INT SMALL BUS J, V37, P450, DOI 10.1177/0266242619833878
+   Bellavitis C, 2020, STRATEG ENTREP J, V14, P240, DOI 10.1002/sej.1320
+   Bollazzi F, 2019, INT ENTREP MANAG J, V15, P721, DOI 10.1007/s11365-018-0539-y
+   Borgatti SP, 2005, SOC NETWORKS, V27, P55, DOI 10.1016/j.socnet.2004.11.008
+   Bruton G, 2004, J WORLD BUS, V39, P72, DOI 10.1016/j.jwb.2003.08.002
+   Bruton GD, 2003, J BUS VENTURING, V18, P233, DOI 10.1016/S0883-9026(02)00079-4
+   Bughin J., 2017, Artificial Intelligence the Next Digital Frontier
+   Buiten MC, 2019, EUR J RISK REGUL, V10, P41, DOI 10.1017/err.2019.8
+   Burt RS, 2013, ANNU REV PSYCHOL, V64, P527, DOI 10.1146/annurev-psych-113011-143828
+   Burt RS, 2004, AM J SOCIOL, V110, P349, DOI 10.1086/421787
+   Chen H, 2010, J URBAN ECON, V67, P90, DOI 10.1016/j.jue.2009.09.013
+   Cockburn I.M., 2019, The economics of artificial intelligence: An agenda, DOI DOI 10.3386/W24449
+   Colombo O, 2021, J MANAGE, V47, P237, DOI 10.1177/0149206320911090
+   Crafts N, 2021, OXFORD REV ECON POL, V37, P521, DOI 10.1093/oxrep/grab012
+   Cumming D, 2010, J EMPIR FINANC, V17, P362, DOI 10.1016/j.jempfin.2009.11.001
+   DOREIAN P, 1974, J MATH SOCIOL, V3, P245, DOI 10.1080/0022250X.1974.9989837
+   ELANGO B, 1995, J BUS VENTURING, V10, P157, DOI 10.1016/0883-9026(94)00019-Q
+   Fraser S, 2015, INT SMALL BUS J, V33, P70, DOI 10.1177/0266242614547827
+   FREEMAN LC, 1977, SOCIOMETRY, V40, P35, DOI 10.2307/3033543
+   Gaddy BE, 2017, ENERG POLICY, V102, P385, DOI 10.1016/j.enpol.2016.12.035
+   Giczy AV, 2022, J TECHNOL TRANSFER, V47, P476, DOI 10.1007/s10961-021-09900-2
+   Gompers P, 2001, J ECON PERSPECT, V15, P145, DOI 10.1257/jep.15.2.145
+   Gulati R, 1999, AM J SOCIOL, V104, P1439, DOI 10.1086/210179
+   Haessler P, 2023, TECHNOVATION, V121, DOI 10.1016/j.technovation.2022.102637
+   Han Sam, 2021, The Routledge Social Science Handbook of AI, P295
+   Hargadon AB, 2002, RES ORGAN BEHAV, V24, P41, DOI 10.1016/S0191-3085(02)24003-4
+   Hellmann T, 2002, J FINANC, V57, P169, DOI 10.1111/1540-6261.00419
+   Hochberg YV, 2007, J FINANC, V62, P251, DOI 10.1111/j.1540-6261.2007.01207.x
+   Hoenig D, 2015, RES POLICY, V44, P1049, DOI 10.1016/j.respol.2014.11.011
+   Jha K, 2019, ARTIF INTELL AGR, V2, P1, DOI 10.1016/j.aiia.2019.05.004
+   Jiang F, 2017, STROKE VASC NEUROL, V2, P230, DOI 10.1136/svn-2017-000101
+   Kaggwa S., 2023, International Journal of Management & Entrepreneurship Research, V5, P1085
+   Kerr WR, 2014, J ECON PERSPECT, V28, P25, DOI 10.1257/jep.28.3.25
+   Khavul S, 2016, J INT MANAG, V22, P280, DOI 10.1016/j.intman.2016.03.006
+   Königstorfer F, 2020, J BEHAV EXP FINANC, V27, DOI 10.1016/j.jbef.2020.100352
+   Le Mens G, 2011, ADMIN SCI QUART, V56, P95, DOI 10.2189/asqu.2011.56.1.095
+   Le Mens G, 2015, ORGAN SCI, V26, P756, DOI 10.1287/orsc.2015.0966
+   Lee B, 2024, ADM SCI, V14, DOI 10.3390/admsci14010006
+   Lee PM, 2011, STRATEG ORGAN, V9, P33, DOI 10.1177/1476127011400505
+   LERNER J, 1994, J FINANC ECON, V35, P293, DOI 10.1016/0304-405X(94)90035-3
+   Lyu YB, 2020, TECHNOL SOC, V62, DOI 10.1016/j.techsoc.2020.101292
+   Madhavan R, 1998, STRATEGIC MANAGE J, V19, P439, DOI 10.1002/(SICI)1097-0266(199805)19:5<439::AID-DIA952>3.0.CO;2-2
+   Matusik SF, 2012, STRATEGIC MANAGE J, V33, P407, DOI 10.1002/smj.1942
+   Meuleman M, 2017, J BUS VENTURING, V32, P131, DOI 10.1016/j.jbusvent.2017.01.001
+   Mou X., 2019, International Finance Corporation, V71, P1, DOI [10.1596/32652, DOI 10.1596/32652]
+   Park G, 2020, J BUS RES, V109, P64, DOI 10.1016/j.jbusres.2019.11.068
+   Petkova AP, 2014, ACAD MANAGE J, V57, P422, DOI 10.5465/amj.2011.0651
+   Piacentino G, 2019, J FINANC, V74, P1261, DOI 10.1111/jofi.12756
+   [Рассказов Владислав Евгеньевич Rasskazov Vladislav E.], 2020, [Финансы: теория и практика, Finance: Theory and Practice, Finansy: teoriya i praktika], V24, P120, DOI 10.26794/2587-5671-2020-24-2-120-132
+   Rotolo D, 2015, RES POLICY, V44, P1827, DOI 10.1016/j.respol.2015.06.006
+   Samila S, 2010, RES POLICY, V39, P1348, DOI 10.1016/j.respol.2010.08.006
+   Schilling MA, 2007, MANAGE SCI, V53, P1113, DOI 10.1287/mnsc.1060.0624
+   Schilling MA, 2015, ORGAN SCI, V26, P668, DOI 10.1287/orsc.2015.0970
+   Sorenson O, 2001, AM J SOCIOL, V106, P1546, DOI 10.1086/321301
+   Eliza S, 2021, IEEE SPECTRUM, V58, P26, DOI 10.1109/MSPEC.2021.9563956
+   Sullivan Bilian Ni, 2012, International Journal of Strategic Change Management, V4, P149, DOI 10.1504/IJSCM.2012.046509
+   Tricot R., 2021, Venture capital investments in artificial intelligence: Analysing trends in VC in AI companies from 2012 through 2020
+   Valente TW, 1998, SOC NETWORKS, V20, P89, DOI 10.1016/S0378-8733(97)00007-5
+   Wang D, 2022, ACAD MANAGE J, V65, P371, DOI 10.5465/amj.2019.1312
+   Wang S, 2023, INT J INNOV STUD, V7, P18, DOI 10.1016/j.ijis.2022.08.004
+   Weber M, 2022, BUS INFORM SYST ENG+, V64, P91, DOI 10.1007/s12599-021-00732-w
+   Yang YX, 2023, INFORM SYST J, V33, P1312, DOI 10.1111/isj.12452
+   Zacharakis AL, 2000, J BUS VENTURING, V15, P323, DOI 10.1016/S0883-9026(98)00016-0
+   Zhelyazkov PI, 2018, ADMIN SCI QUART, V63, P210, DOI 10.1177/0001839217703935
+NR 71
+TC 1
+Z9 1
+U1 7
+U2 10
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2079-8954
+J9 SYSTEMS-BASEL
+JI Systems-Basel
+PD MAR
+PY 2024
+VL 12
+IS 3
+AR 72
+DI 10.3390/systems12030072
+PG 17
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA MH2Z2
+UT WOS:001192681200001
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Ying, G
+AF Ying, Guo
+TI Digital Entrepreneurial Orientation and Green Innovation in the VUCA
+   Era: The Impact of Cross-organizational Improvisation and Social Ties
+SO SAGE OPEN
+LA English
+DT Article
+DE digital entrepreneurial orientation; cross-organizational improvisation;
+   green innovation; business ties; political ties
+ID ENVIRONMENTAL INNOVATION; PERFORMANCE EVIDENCE; FIRM PERFORMANCE;
+   CORPORATE ENTREPRENEURSHIP; COMPETITIVE ADVANTAGE; MARKET ORIENTATION;
+   EMPIRICAL-EVIDENCE; MANAGERIAL TIES; POLITICAL TIES; BUSINESS TIES
+AB Although research acknowledges the role of digital entrepreneurship in driving corporate innovation, digital entrepreneurial orientation (DEO) remains limitedly explored. Based on resource-based view (RBV) and social network theory (SNT), we developed a model to examine the role of cross-organizational improvisation (COI) and social ties (specifically, business and political ties) in the relationship between DEO and green innovation (GI). Survey data from 217 start-ups support the findings that (a) DEO positively influences green innovation, (b) COI mediates the link between DEO and GI, and (c) business ties (BT) moderate the relationship between DEO and GI; however, the role of political ties (PT) requires further investigation. This study not only contributes to the research on digital entrepreneurship and green innovation, but also enhances our understanding of the path from digital strategy to GI. The insights gained hold significant value for managers seeking to leverage a digital entrepreneurship orientation to foster GI.
+C1 [Ying, Guo] Xian Univ Finance & Econ, Xian, Peoples R China.
+C3 Xi'an University of Finance & Economics
+RP Ying, G (corresponding author), Xian Univ Finance & Econ, Sch Business, Xian 710100, Peoples R China.
+EM gying@mail.nwpu.edu.cn
+FU National Social Science Foundation of China [20XGL008]; The "Yanta
+   Scholars"Program of Xi'an University of Finance and Economics
+FX The author disclosed receipt of the following financial support for the
+   research, authorship, and/or publication of this article: This research
+   was supported by the National Social Science Foundation of China (grant
+   20XGL008). This research was supported by "Yanta Scholars"Program of
+   Xi'an University of Finance and Economics.
+CR Aiken LS., 1991, MULTIPLE REGRESSION
+   Aldieri L, 2019, J CLEAN PROD, V214, P758, DOI 10.1016/j.jclepro.2019.01.016
+   Andersson S, 2014, EUR BUS REV, V26, P390, DOI 10.1108/EBR-05-2014-0040
+   Ang SH, 2008, STRATEGIC MANAGE J, V29, P1057, DOI 10.1002/smj.695
+   ARMSTRONG JS, 1977, J MARKETING RES, V14, P396, DOI 10.2307/3150783
+   BARNEY J, 1991, J MANAGE, V17, P99, DOI 10.1177/014920639101700108
+   Baum JAC, 2004, J BUS VENTURING, V19, P411, DOI 10.1016/S0883-9026(03)00038-7
+   Bennett N, 2014, BUS HORIZONS, V57, P311, DOI 10.1016/j.bushor.2014.01.001
+   Bennis W, 2013, MIS QUART, V37, P635
+   Bharadwaj A, 2013, MIS QUART, V37, P471, DOI 10.25300/MISQ/2013/37:2.3
+   Bharadwaj AS, 2000, MIS QUART, V24, P169, DOI 10.2307/3250983
+   Borghesi S, 2015, RES POLICY, V44, P669, DOI 10.1016/j.respol.2014.10.014
+   Bossle MB, 2016, J CLEAN PROD, V113, P861, DOI 10.1016/j.jclepro.2015.11.033
+   Cai WG, 2018, J CLEAN PROD, V176, P110, DOI 10.1016/j.jclepro.2017.12.109
+   Chalmers D, 2021, J BUS RES, V125, P577, DOI 10.1016/j.jbusres.2019.09.002
+   Chang CH, 2011, J BUS ETHICS, V104, P361, DOI 10.1007/s10551-011-0914-x
+   Chatterjee S, 2021, TECHNOL FORECAST SOC, V168, DOI 10.1016/j.techfore.2021.120783
+   Ciulli F, 2020, J BUS ETHICS, V167, P299, DOI 10.1007/s10551-019-04160-5
+   da Fonseca ALA, 2021, J BUS RES, V135, P149, DOI 10.1016/j.jbusres.2021.06.032
+   De Marchi V, 2012, RES POLICY, V41, P614, DOI 10.1016/j.respol.2011.10.002
+   Dibrell C, 2011, J SMALL BUS MANAGE, V49, P467, DOI 10.1111/j.1540-627X.2011.00333.x
+   Edelman LF, 2004, BRIT J MANAGE, V15, pS59
+   Elia G, 2020, TECHNOL FORECAST SOC, V150, DOI 10.1016/j.techfore.2019.119791
+   Faccio M, 2006, AM ECON REV, V96, P369, DOI 10.1257/000282806776157704
+   Fernandes C, 2022, TECHNOL SOC, V70, DOI 10.1016/j.techsoc.2022.101979
+   Fernandes CI, 2021, BUS STRATEG ENVIRON, V30, P2021, DOI 10.1002/bse.2730
+   FORNELL C, 1981, J MARKETING RES, V18, P39, DOI 10.2307/3151312
+   Garud R, 2001, LEAS ORG MAN SERIES, P1
+   George G, 2021, ENTREP THEORY PRACT, V45, P999, DOI 10.1177/1042258719899425
+   Giones F, 2017, TECHNOL INNOV MANAG, V7, P44, DOI 10.22215/timreview1076
+   Grimsdottir E, 2018, SAGE OPEN, V8, DOI 10.1177/2158244018807320
+   Gu FF, 2008, J MARKETING, V72, P12, DOI 10.1509/jmkg.72.4.12
+   Gu YD, 2018, J CLEAN PROD, V194, P69, DOI 10.1016/j.jclepro.2018.05.017
+   Guo Y, 2022, SAGE OPEN, V12, DOI 10.1177/21582440211061354
+   Guo Y, 2020, J CLEAN PROD, V266, DOI 10.1016/j.jclepro.2020.122054
+   Guo Y, 2020, SAGE OPEN, V10, DOI 10.1177/2158244019898798
+   Hains-Wesson R, 2017, ISS EDUC RES, V27, P82
+   Halberstadt J, 2021, IND MARKET MANAG, V94, P137, DOI 10.1016/j.indmarman.2020.06.012
+   HAMILTON JT, 1993, RAND J ECON, V24, P101, DOI 10.2307/2555955
+   Harman H.H., 1976, Modern FactorAnalysis
+   Hervé A, 2020, TECHNOL INNOV MANAG, V10, P5, DOI 10.22215/timreview/1343
+   HU LT, 1992, PSYCHOL BULL, V112, P351, DOI 10.1037/0033-2909.112.2.351
+   Huang Y, 2016, J MANAGE, V42, P1557, DOI 10.1177/0149206313511115
+   Hughes P, 2018, ASIA PAC J MANAG, V35, P1025, DOI 10.1007/s10490-017-9539-7
+   Jean RJ, 2017, J BUS RES, V80, P127, DOI 10.1016/j.jbusres.2017.07.008
+   Kozhikode RK, 2012, ACAD MANAGE J, V55, P339, DOI 10.5465/amj.2010.0370
+   Kraus S, 2021, SAGE OPEN, V11, DOI 10.1177/21582440211047576
+   Kraus S, 2019, INT J ENTREP BEHAV R, V25, P353, DOI 10.1108/IJEBR-06-2018-0425
+   Li DY, 2017, J CLEAN PROD, V141, P41, DOI 10.1016/j.jclepro.2016.08.123
+   Li JJ, 2008, STRATEGIC MANAGE J, V29, P383, DOI 10.1002/smj.665
+   Li JJ, 2010, J BUS RES, V63, P856, DOI 10.1016/j.jbusres.2009.06.011
+   Li YN, 2018, J CLEAN PROD, V192, P924, DOI 10.1016/j.jclepro.2018.05.052
+   Liao ZJ, 2016, J CLEAN PROD, V135, P1045, DOI 10.1016/j.jclepro.2016.07.021
+   Lin H, 2014, J CLEAN PROD, V64, P63, DOI 10.1016/j.jclepro.2013.07.046
+   Lingane A, 2004, CALIF MANAGE REV, V46, P116, DOI 10.2307/41166224
+   Liu CH, 2017, TOURISM MANAGE, V61, P553, DOI 10.1016/j.tourman.2017.03.017
+   Markus ML, 2013, MIS QUART, V37, P649
+   Mazzei MJ, 2017, BUS HORIZONS, V60, P405, DOI 10.1016/j.bushor.2017.01.010
+   Mirahsani N, 2024, ENVIRON DEV SUSTAIN, V26, P16149, DOI 10.1007/s10668-023-03291-0
+   Mohanta B., 2020, Big Data and Cyber Physical Systems, 7, P1
+   Mollick E, 2014, J BUS VENTURING, V29, P1, DOI 10.1016/j.jbusvent.2013.06.005
+   Mom TJM, 2015, ORGAN STUD, V36, P809, DOI 10.1177/0170840615580009
+   Moorman C, 1998, ACAD MANAGE REV, V23, P698, DOI 10.2307/259058
+   Nahapiet J, 1998, ACAD MANAGE REV, V23, P242, DOI 10.2307/259373
+   Najaf R., 2021, J. Bus. Socio-economic Dev., V1, P182, DOI [10.1108/JBSED-03-2021-0023, DOI 10.1108/JBSED-03-2021-0023]
+   Nambisan S, 2017, ENTREP THEORY PRACT, V41, P1029, DOI 10.1111/etap.12254
+   Oltra V, 2009, TECHNOL FORECAST SOC, V76, P567, DOI 10.1016/j.techfore.2008.03.025
+   Park SH, 2001, STRATEGIC MANAGE J, V22, P455, DOI 10.1002/smj.167
+   Parker G., 2016, Platform Revolution: How Networked Markets are Transforming the Economy and How to Make Them Work for You
+   Pavlou PA, 2010, INFORM SYST RES, V21, P443, DOI 10.1287/isre.1100.0280
+   Peng MW, 2000, ACAD MANAGE J, V43, P486, DOI 10.5465/1556406
+   Petruzzelli AM, 2011, TECHNOVATION, V31, P309, DOI 10.1016/j.technovation.2011.01.008
+   PHILLIPS LW, 1981, J MARKETING RES, V18, P395, DOI 10.2307/3151333
+   Picken JC, 2017, BUS HORIZONS, V60, P587, DOI 10.1016/j.bushor.2017.05.002
+   Cunha MPE, 2012, FUTURES, V44, P265, DOI 10.1016/j.futures.2011.10.009
+   Podsakoff PM, 2003, J APPL PSYCHOL, V88, P879, DOI 10.1037/0021-9010.88.5.879
+   Power D, 2010, J OPER MANAG, V28, P206, DOI 10.1016/j.jom.2009.11.002
+   Preacher KJ, 2008, BEHAV RES METHODS, V40, P879, DOI 10.3758/BRM.40.3.879
+   Proksch D, 2024, J SMALL BUS MANAGE, V62, P1, DOI 10.1080/00472778.2021.1883036
+   Rao RS, 2008, J MARKETING, V72, P58, DOI 10.1509/jmkg.72.4.58
+   Ritala P, 2021, TECHNOL FORECAST SOC, V171, DOI 10.1016/j.techfore.2021.120961
+   Ruan G., 2021, 5 ASIA PACIFIC C EC
+   Sahut JM, 2021, SMALL BUS ECON, V56, P1159, DOI 10.1007/s11187-019-00260-8
+   Sarstedt M., 2017, PRIMER PARTIAL LEAST, P1, DOI 10.1007/978-3-319-05542-8_15-1
+   Schneider C, 2010, IND CORP CHANGE, V19, P969, DOI 10.1093/icc/dtp052
+   Schweer M, 2012, MIT SLOAN MANAGE REV, V53, P35
+   Sheng SB, 2011, J MARKETING, V75, P1, DOI 10.1509/jmkg.75.1.1
+   Shi WL, 2014, J INT BUS STUD, V45, P338, DOI 10.1057/jibs.2013.71
+   Silva GM, 2017, INT BUS REV, V26, P391, DOI 10.1016/j.ibusrev.2016.10.001
+   Skala A., 2019, Digital startups in transition economies challenges for management, entrepreneurship and education
+   Slevin DP, 2011, ENTREP THEORY PRACT, V35, P973, DOI 10.1111/j.1540-6520.2011.00483.x
+   Soluk J, 2021, TECHNOL FORECAST SOC, V170, DOI 10.1016/j.techfore.2021.120876
+   Spence M, 2011, J BUS ETHICS, V99, P335, DOI 10.1007/s10551-010-0656-1
+   Stein S, 2021, GLOB SOC EDUC, V19, P482, DOI 10.1080/14767724.2021.1904212
+   Sussan F, 2017, SMALL BUS ECON, V49, P55, DOI 10.1007/s11187-017-9867-5
+   Tajeddini K, 2020, INT J HOSP MANAG, V85, DOI 10.1016/j.ijhm.2019.102431
+   Tatham R., 2016, MULTIVARIATE DATA AN
+   Teng BS, 2007, J MANAGE STUD, V44, P119, DOI 10.1111/j.1467-6486.2006.00645.x
+   Trotter MJ, 2013, THEOR ISS ERGON SCI, V14, P475, DOI 10.1080/1463922X.2012.656153
+   Tulder R. V., 2019, International business in a VUCA world: The changing role of states and firms
+   Urbinati A, 2020, R&D MANAGE, V50, P136, DOI 10.1111/radm.12313
+   Uzzi B, 1997, ADMIN SCI QUART, V42, P35, DOI 10.2307/2393808
+   van Berkel K., 2020, Wicked world: Complex challenges and systems innovation, V1st
+   Vera D, 2016, J MANAGE, V42, P1874, DOI 10.1177/0149206314530168
+   Wang TT, 2022, FRONT PHARMACOL, V13, DOI 10.3389/fphar.2022.816376
+   Wiklund J, 2005, J BUS VENTURING, V20, P71, DOI 10.1016/j.jbusvent.2004.01.001
+   Wu J, 2011, J BUS RES, V64, P1151, DOI 10.1016/j.jbusres.2011.06.014
+   Xin KR, 1996, ACAD MANAGE J, V39, P1641, DOI 10.5465/257072
+   Yakubi Y. A. Y., 2022, Applied Econometrics and International Development, V22, P89
+   Yang W., 2021, The staged financing selection mechanism for government to maximize the green benefits of start-ups
+   Yiu DW, 2008, ENTREP THEORY PRACT, V32, P37
+   Yoo YJ, 2010, INFORM SYST RES, V21, P724, DOI 10.1287/isre.1100.0322
+   Zaheer A, 2010, ACAD MANAGE PERSPECT, V24, P62, DOI 10.5465/AMP.2010.50304417
+   Zaheer H, 2019, TECHNOL FORECAST SOC, V148, DOI 10.1016/j.techfore.2019.119735
+   Zhao YB, 2011, ENTREP THEORY PRACT, V35, P293, DOI 10.1111/j.1540-6520.2009.00359.x
+NR 115
+TC 0
+Z9 0
+U1 5
+U2 5
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 2158-2440
+J9 SAGE OPEN
+JI SAGE Open
+PD JUL
+PY 2024
+VL 14
+IS 3
+AR 21582440241256537
+DI 10.1177/21582440241256537
+PG 17
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA G0P9K
+UT WOS:001313750900001
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Kozyreva, A
+   Lorenz-Spreen, P
+   Herzog, SM
+   Ecker, UKH
+   Lewandowsky, S
+   Hertwig, R
+   Ali, A
+   Bak-Coleman, J
+   Barzilai, S
+   Basol, M
+   Berinsky, AJ
+   Betsch, C
+   Cook, J
+   Fazio, LK
+   Geers, M
+   Guess, AM
+   Huang, HF
+   Larreguy, H
+   Maertens, R
+   Panizza, F
+   Pennycook, G
+   Rand, DG
+   Rathje, S
+   Reifler, J
+   Schmid, P
+   Smith, M
+   Swire-Thompson, B
+   Szewach, P
+   van der Linden, S
+   Wineburg, S
+AF Kozyreva, Anastasia
+   Lorenz-Spreen, Philipp
+   Herzog, Stefan M.
+   Ecker, Ullrich K. H.
+   Lewandowsky, Stephan
+   Hertwig, Ralph
+   Ali, Ayesha
+   Bak-Coleman, Joe
+   Barzilai, Sarit
+   Basol, Melisa
+   Berinsky, Adam J.
+   Betsch, Cornelia
+   Cook, John
+   Fazio, Lisa K.
+   Geers, Michael
+   Guess, Andrew M.
+   Huang, Haifeng
+   Larreguy, Horacio
+   Maertens, Rakoen
+   Panizza, Folco
+   Pennycook, Gordon
+   Rand, David G.
+   Rathje, Steve
+   Reifler, Jason
+   Schmid, Philipp
+   Smith, Mark
+   Swire-Thompson, Briony
+   Szewach, Paula
+   van der Linden, Sander
+   Wineburg, Sam
+TI Toolbox of individual-level interventions against online misinformation
+SO NATURE HUMAN BEHAVIOUR
+LA English
+DT Review
+ID BELIEF; NEWS; FACT; PSYCHOLOGY; MEMORY; MODEL
+AB The spread of misinformation through media and social networks threatens many aspects of society, including public health and the state of democracies. One approach to mitigating the effect of misinformation focuses on individual-level interventions, equipping policymakers and the public with essential tools to curb the spread and influence of falsehoods. Here we introduce a toolbox of individual-level interventions for reducing harm from online misinformation. Comprising an up-to-date account of interventions featured in 81 scientific papers from across the globe, the toolbox provides both a conceptual overview of nine main types of interventions, including their target, scope and examples, and a summary of the empirical evidence supporting the interventions, including the methods and experimental paradigms used to test them. The nine types of interventions covered are accuracy prompts, debunking and rebuttals, friction, inoculation, lateral reading and verification strategies, media-literacy tips, social norms, source-credibility labels, and warning and fact-checking labels.
+   Kozyreva et al. review evidence from individual-level interventions for fighting online misinformation featured in 81 scientific papers. They classify the interventions in nine different types and summarize their findings in a toolbox.
+C1 [Kozyreva, Anastasia; Lorenz-Spreen, Philipp; Herzog, Stefan M.; Hertwig, Ralph; Geers, Michael] Max Planck Inst Human Dev, Ctr Adapt Rat, Berlin, Germany.
+   [Ecker, Ullrich K. H.] Univ Western Australia, Sch Psychol Sci, Perth, WA, Australia.
+   [Ecker, Ullrich K. H.] Univ Western Australia, Publ Policy Inst, Perth, WA, Australia.
+   [Lewandowsky, Stephan] Univ Bristol, Sch Psychol Sci, Bristol, England.
+   [Lewandowsky, Stephan] Univ Potsdam, Dept Psychol, Potsdam, Germany.
+   [Ali, Ayesha] Lahore Univ Management Sci, Dept Econ, Lahore, Pakistan.
+   [Bak-Coleman, Joe] Columbia Univ, Craig Newmark Ctr, Sch Journalism, New York, NY USA.
+   [Barzilai, Sarit] Univ Haifa, Dept Learning & Instructional Sci, Haifa, Israel.
+   [Basol, Melisa; van der Linden, Sander] Univ Cambridge, Dept Psychol, Cambridge, England.
+   [Berinsky, Adam J.] MIT, Dept Polit Sci, Cambridge, MA USA.
+   [Betsch, Cornelia; Schmid, Philipp] Univ Erfurt, Inst Planetary Hlth Behav, Erfurt, Germany.
+   [Betsch, Cornelia; Schmid, Philipp] Bernhard Nocht Inst Trop Med, Hamburg, Germany.
+   [Cook, John] Univ Melbourne, Melbourne Ctr Behav Change, Melbourne Sch Psychol Sci, Melbourne, Vic, Australia.
+   [Fazio, Lisa K.] Vanderbilt Univ, Dept Psychol & Human Dev, Nashville, TN USA.
+   [Geers, Michael] Humboldt Univ, Dept Psychol, Berlin, Germany.
+   [Guess, Andrew M.] Princeton Univ, Dept Polit, Princeton, NJ USA.
+   [Guess, Andrew M.] Princeton Univ, Sch Publ & Int Affairs, Princeton, NJ USA.
+   [Huang, Haifeng] Ohio State Univ, Dept Polit Sci, Columbus, OH USA.
+   [Larreguy, Horacio] Inst Tecnol Autonomo Mexico, Dept Econ, Mexico City, Mexico.
+   [Larreguy, Horacio] Inst Tecnol Autonomo Mexico, Dept Polit Sci, Mexico City, Mexico.
+   [Maertens, Rakoen] Univ Oxford, Dept Expt Psychol, Oxford, England.
+   [Panizza, Folco] IMT Sch Adv Studies Lucca, Lucca, Italy.
+   [Pennycook, Gordon] Cornell Univ, Dept Psychol, Ithaca, NY USA.
+   [Pennycook, Gordon] Univ Regina, Dept Psychol, Regina, SK, Canada.
+   [Rand, David G.] MIT, Sloan Sch Management, Cambridge, MA USA.
+   [Rathje, Steve] NYU, Dept Psychol, New York, NY 10003 USA.
+   [Reifler, Jason; Szewach, Paula] Univ Exeter, Dept Polit, Exeter, England.
+   [Schmid, Philipp] Radboud Univ Nijmegen, Ctr Language Studies, Nijmegen, Netherlands.
+   [Smith, Mark; Wineburg, Sam] Stanford Univ, Grad Sch Educ, Stanford, CA USA.
+   [Swire-Thompson, Briony] Northeastern Univ, Dept Polit Sci, Boston, MA USA.
+   [Szewach, Paula] Barcelona Supercomp Ctr, Barcelona, Spain.
+C3 Max Planck Society; University of Western Australia; University of
+   Western Australia; University of Bristol; University of Potsdam; Lahore
+   University of Management Sciences; Columbia University; University of
+   Haifa; University of Cambridge; Massachusetts Institute of Technology
+   (MIT); University of Erfurt; Bernhard Nocht Institut fur Tropenmedizin;
+   University of Melbourne; Vanderbilt University; Humboldt University of
+   Berlin; Princeton University; Princeton University; University System of
+   Ohio; Ohio State University; Instituto Tecnologico Autonomo de Mexico;
+   Instituto Tecnologico Autonomo de Mexico; University of Oxford; IMT
+   School for Advanced Studies Lucca; Cornell University; University of
+   Regina; Massachusetts Institute of Technology (MIT); New York
+   University; University of Exeter; Radboud University Nijmegen; Stanford
+   University; Northeastern University; Universitat Politecnica de
+   Catalunya; Barcelona Supercomputer Center (BSC-CNS)
+RP Kozyreva, A (corresponding author), Max Planck Inst Human Dev, Ctr Adapt Rat, Berlin, Germany.
+EM kozyreva@mpib-berlin.mpg.de
+RI Geers, Michael/GWC-7205-2022; Panizza, Folco/ABC-8366-2021; Lewandowsky,
+   Stephan/L-4272-2019; Maertens, Rakoen/JZT-5733-2024; Pennycook,
+   Gordon/AAD-6631-2019; Schmid, Philipp/JDN-0101-2023; Rand,
+   David/B-3716-2009; Ecker, Ullrich/A-2043-2010; Huang,
+   Haifeng/LBH-8642-2024; Herzog, Stefan/A-1161-2009; Lewandowsky,
+   Stephan/H-5285-2014
+OI Herzog, Stefan/0000-0003-2329-6433; Kozyreva,
+   Anastasia/0000-0001-8037-9919; wineburg, sam/0000-0002-4838-1522;
+   Lewandowsky, Stephan/0000-0003-1655-2013; Lorenz-Spreen,
+   Philipp/0000-0001-6319-4154; Ecker, Ullrich/0000-0003-4743-313X;
+   Hertwig, Ralph/0000-0002-9908-9556
+FU EC | Horizon 2020 Framework Programme (EU Framework Programme for
+   Research and Innovation H2020); Volkswagen Foundation [101094752]; EU;
+   Humboldt Foundation in Germany [101020961]; ERC Advanced Grant
+   [FT190100708]; Australian Research Council Future Fellowship
+   [ANR-17-EURE-0010]; French Agence Nationale de la Recherche under the
+   Investissement d'Avenir program; Horizon Europe - Pillar II [101094752]
+   Funding Source: Horizon Europe - Pillar II
+FX We thank S. Vrtovec, F. Stock and A. Horsley for research assistance and
+   D. Ain for editing the manuscript and the online appendix. We also thank
+   J. van Bavel, W. Brady, Z. Epstein, M. Leiser, L. Oswald, J. Rozenbeek
+   and A. Simchon for their contributions during the workshop 'Behavioral
+   interventions for promoting truth and democratic discourse in online
+   environments'. The study was funded by a grant from the Volkswagen
+   Foundation to R.H., S.L. and S.M.H. (project 'Reclaiming individual
+   autonomy and democratic discourse online: how to rebalance human and
+   algorithmic decision making'). A.K., P.L.-S., R.H., S.L. and S.M.H. also
+   acknowledge funding from the EU Horizon project no. 101094752 'Social
+   media for democracy (SoMe4Dem)'. S.L. was supported by a Research Award
+   from the Humboldt Foundation in Germany and by an ERC Advanced Grant
+   (no. 101020961 PRODEMINFO) while this research was conducted. U.K.H.E.
+   was supported by an Australian Research Council Future Fellowship (no.
+   FT190100708). H.L. acknowledges funding from the French Agence Nationale
+   de la Recherche under the Investissement d'Avenir program
+   ANR-17-EURE-0010.
+CR Ali A, 2023, J DEV ECON, V163, DOI 10.1016/j.jdeveco.2023.103108
+   Almaatouq A, 2022, BEHAV BRAIN SCI, V47, DOI 10.1017/S0140525X22002874
+   Andi S, 2020, DIGIT JOURNAL, V9, P106, DOI 10.1080/21670811.2020.1847674
+   [Anonymous], 2020, X SUPPORT SHARING AR
+   [Anonymous], 2020, Single Market For Digital Services (Digital Services Act) and amending Directive 2000/31/EC
+   Arechar AA, 2023, NAT HUM BEHAV, V7, P1502, DOI 10.1038/s41562-023-01641-6
+   Aslett K, 2022, SCI ADV, V8, DOI 10.1126/sciadv.abl3844
+   Badrinathan S, 2024, INT J PRESS/POLIT, V29, P394, DOI 10.1177/19401612231158770
+   Badrinathan S, 2021, AM POLIT SCI REV, V115, P1325, DOI 10.1017/S0003055421000459
+   Bak-Coleman JB, 2022, NAT HUM BEHAV, V6, P1372, DOI 10.1038/s41562-022-01388-6
+   Barzilai Sarit, 2023, Computers & Education, DOI 10.1016/j.compedu.2023.104832
+   Basol Melisa, 2020, J Cogn, V3, P2, DOI 10.5334/joc.91
+   Blair RA, 2024, CURR OPIN PSYCHOL, V55, DOI 10.1016/j.copsyc.2023.101732
+   Bode L, 2021, B ATOM SCI, V77, P129, DOI 10.1080/00963402.2021.1912170
+   Brady WJ, 2017, P NATL ACAD SCI USA, V114, P7313, DOI 10.1073/pnas.1618923114
+   Brodsky JE, 2021, COGN RES, V6, DOI 10.1186/s41235-021-00291-4
+   Carleton Athey S., 2023, STANFORD U GRADUATE
+   Clayton K, 2020, POLIT BEHAV, V42, P1073, DOI 10.1007/s11109-019-09533-0
+   Cooper H. M., 2019, HDB RES SYNTHESIS ME, V3rd
+   Cooper H, 2009, PSYCHOL METHODS, V14, P165, DOI 10.1037/a0015565
+   Douek E, 2021, COLUMBIA LAW REV, V121, P759
+   Duckworth AL, 2022, PNAS NEXUS, V1, DOI 10.1093/pnasnexus/pgac214
+   Ecker UKH, 2022, NAT REV PSYCHOL, V1, P13, DOI 10.1038/s44159-021-00006-y
+   Ecker UKH, 2020, COGN RES, V5, DOI [10.1186/s41235-020-00266-x, 10.1186/s41235-020-00241-6]
+   Fasce A, 2023, NAT HUM BEHAV, V7, P1462, DOI 10.1038/s41562-023-01644-3
+   Fazio L., 2020, Harvard Kennedy School Misinformation Review, V1, P1, DOI [DOI 10.37016/MR-2020-009, 10.37016/mr-2020-009]
+   Forscher PS, 2023, PERSPECT PSYCHOL SCI, V18, P607, DOI 10.1177/17456916221082970
+   Geers M, 2024, CURR OPIN PSYCHOL, V55, DOI 10.1016/j.copsyc.2023.101739
+   Gottfried JA, 2013, AM BEHAV SCI, V57, P1558, DOI 10.1177/0002764213489012
+   Grady RH, 2021, COGN RES, V6, DOI 10.1186/s41235-021-00315-z
+   Guay B, 2023, NAT HUM BEHAV, V7, P1231, DOI 10.1038/s41562-023-01667-w
+   Guess AM, 2023, SCIENCE, V381, P398, DOI 10.1126/science.abp9364
+   Guess AM, 2020, P NATL ACAD SCI USA, V117, P15536, DOI 10.1073/pnas.1920498117
+   Hameiri B, 2022, PERSPECT PSYCHOL SCI, V17, P1525, DOI 10.1177/17456916211058090
+   Hertwig R, 2017, PERSPECT PSYCHOL SCI, V12, P973, DOI 10.1177/1745691617702496
+   Hornsey MJ, 2022, NAT HUM BEHAV, V6, P1454, DOI 10.1038/s41562-022-01463-y
+   Huang HF, 2017, BRIT J POLIT SCI, V47, P283, DOI 10.1017/S0007123415000253
+   IJzerman H, 2020, NAT HUM BEHAV, V4, P1092, DOI 10.1038/s41562-020-00990-w
+   JOHNSON HM, 1994, J EXP PSYCHOL LEARN, V20, P1420, DOI 10.1037/0278-7393.20.6.1420
+   Kozyreva A, 2023, P NATL ACAD SCI USA, V120, DOI 10.1073/pnas.2210666120
+   Kozyreva A, 2023, EUR PSYCHOL, V28, P206, DOI 10.1027/1016-9040/a000493
+   Kozyreva A, 2020, PSYCHOL SCI PUBL INT, V21, P103, DOI 10.1177/1529100620946707
+   Lakens D, 2013, FRONT PSYCHOL, V4, DOI 10.3389/fpsyg.2013.00863
+   Lazer DMJ, 2018, SCIENCE, V359, P1094, DOI 10.1126/science.aao2998
+   Leonard TC, 2008, CONST POLITICAL ECON, V19, P356, DOI 10.1007/s10602-008-9056-2
+   Lewandowsky S, 2005, PSYCHOL SCI, V16, P190, DOI 10.1111/j.0956-7976.2005.00802.x
+   Lewandowsky S., 2020, JRC SCI POLICY REPOR
+   Lewandowsky S, 2023, CURR OPIN PSYCHOL, V54, DOI 10.1016/j.copsyc.2023.101711
+   Lewandowsky S, 2021, EUR REV SOC PSYCHOL, V32, P348, DOI 10.1080/10463283.2021.1876983
+   Lorenz-Spreen P, 2023, NAT HUM BEHAV, V7, P74, DOI 10.1038/s41562-022-01460-1
+   Lorenz-Spreen P, 2020, NAT HUM BEHAV, V4, P1102, DOI 10.1038/s41562-020-0889-7
+   Maertens R, 2021, J EXP PSYCHOL-APPL, V27, P1, DOI 10.1037/xap0000315
+   Milli S., 2024, Knight First Amend. Inst.
+   Mosleh M, 2022, CURR DIR PSYCHOL SCI, V31, P69, DOI 10.1177/09637214211054761
+   Offer-Westort M, 2024, NAT HUM BEHAV, V8, DOI 10.1038/s41562-023-01810-7
+   Osborne J., 2022, Science education in an age of misinformation
+   Panizza F, 2022, SCI REP-UK, V12, DOI 10.1038/s41598-022-09168-y
+   Pasquetto I., 2020, Harvard Kennedy School Misinformation Review, V1, P1, DOI DOI 10.37016/MR-2020-49
+   Paynter J, 2019, PLOS ONE, V14, DOI 10.1371/journal.pone.0210746
+   Pek J, 2018, PSYCHOL METHODS, V23, P208, DOI 10.1037/met0000126
+   Pennycook G, 2022, NAT COMMUN, V13, DOI 10.1038/s41467-022-30073-5
+   Pennycook G, 2021, COLLABRA-PSYCHOL, V7, DOI 10.1525/collabra.25293
+   Pennycook G, 2021, TRENDS COGN SCI, V25, P388, DOI 10.1016/j.tics.2021.02.007
+   Pennycook G, 2021, NATURE, V592, P590, DOI 10.1038/s41586-021-03344-2
+   Porter E, 2023, ROY SOC OPEN SCI, V10, DOI 10.1098/rsos.221097
+   Porter E, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2104235118
+   Reijula S, 2022, BEHAV PUBLIC POLICY, V6, P119, DOI 10.1017/bpp.2020.5
+   Roozenbeek J, 2023, EUR PSYCHOL, V28, P189, DOI 10.1027/1016-9040/a000492
+   Roozenbeek J, 2022, SCI ADV, V8, DOI 10.1126/sciadv.abo6254
+   Roozenbeek J, 2022, JUDGM DECIS MAK, V17, P547
+   Rosen G., 2019, Meta
+   Schmid P, 2019, NAT HUM BEHAV, V3, P931, DOI 10.1038/s41562-019-0632-4
+   Sharp C, 2023, CURR DIR PSYCHOL SCI, V32, P418, DOI 10.1177/09637214231183917
+   Spadaro G, 2022, PERSPECT PSYCHOL SCI, V17, P1472, DOI 10.1177/17456916211053319
+   Susmann M., 2023, OSF, DOI [10.17605/OSF.IO/FE8C4, DOI 10.17605/OSF.IO/FE8C4]
+   Tay LQ, 2022, BRIT J PSYCHOL, V113, P591, DOI 10.1111/bjop.12551
+   Thaler RH., 2021, NUDGE FINAL EDITION
+   twitter, Community notes on x
+   Twitter Comms, 2020, MORE READING PEOPLE
+   Van Bavel JJ, 2021, SOC ISS POLICY REV, V15, P84, DOI 10.1111/sipr.12077
+   Willaert T, 2023, PLOS ONE, V18, DOI 10.1371/journal.pone.0293508
+   Wineburg S, 2022, J EDUC PSYCHOL, V114, P893, DOI 10.1037/edu0000740
+   Wright C, 2021, BMJ OPEN, V11, DOI 10.1136/bmjopen-2020-045445
+   Ziemer CT, 2024, J MEDIA PSYCHOL-GER, V36, P397, DOI 10.1027/1864-1105/a000407
+NR 84
+TC 18
+Z9 18
+U1 33
+U2 33
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2397-3374
+J9 NAT HUM BEHAV
+JI Nat. Hum. Behav.
+PD JUN
+PY 2024
+VL 8
+IS 6
+BP 1044
+EP 1052
+DI 10.1038/s41562-024-01881-0
+EA MAY 2024
+PG 9
+WC Psychology, Biological; Multidisciplinary Sciences; Neurosciences;
+   Psychology, Experimental
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychology; Science & Technology - Other Topics; Neurosciences &
+   Neurology
+GA WW8F6
+UT WOS:001220956300008
+PM 38740990
+HC Y
+HP N
+DA 2024-11-22
+ER
+
+PT J
+AU Puri, P
+   Hassler, G
+   Katragadda, S
+   Shenk, A
+AF Puri, Prateek
+   Hassler, Gabriel
+   Katragadda, Sai
+   Shenk, Anton
+TI Digital cloning of online social networks for language-sensitive
+   agent-based modeling of misinformation spread
+SO PLOS ONE
+LA English
+DT Article
+ID MEDIA LITERACY INTERVENTION; FAKE NEWS
+AB We develop a simulation framework for studying misinformation spread within online social networks that blends agent-based modeling and natural language processing techniques. While many other agent-based simulations exist in this space, questions over their fidelity and generalization to existing networks in part hinder their ability to drive policy-relevant decision making. To partially address these concerns, we create a 'digital clone' of a known misinformation sharing network by downloading social media histories for over ten thousand of its users. We parse these histories to both extract the structure of the network and model the nuanced ways in which information is shared and spread among its members. Unlike many other agent-based methods in this space, information sharing between users in our framework is sensitive to topic of discussion, user preferences, and online community dynamics. To evaluate the fidelity of our method, we seed our cloned network with a set of posts recorded in the base network and compare propagation dynamics between the two, observing reasonable agreement across the twin networks over a variety of metrics. Lastly, we explore how the cloned network may serve as a flexible, low-cost testbed for misinformation countermeasure evaluation and red teaming analysis. We hope the tools explored here augment existing efforts in the space and unlock new opportunities for misinformation countermeasure evaluation, a field that may become increasingly important to consider with the anticipated rise of misinformation campaigns fueled by generative artificial intelligence.
+C1 [Puri, Prateek; Hassler, Gabriel; Katragadda, Sai; Shenk, Anton] RAND Corp, Santa Monica, CA 90401 USA.
+C3 RAND Corporation
+RP Puri, P (corresponding author), RAND Corp, Santa Monica, CA 90401 USA.
+EM ppuri@rand.org
+FU The RAND Corporation [IVIRP23004]
+FX P.P. received funding for this work. This work was funded by an internal
+   grant within The RAND Corporation (Grant Number: IVIRP23004). The RAND
+   Corporation is non-profit bipartisan think tank whose mission is to
+   support public well-being (https://www.rand.org/). The grant was
+   intended to support the research and development of novel tools/methods
+   that have applicability to policy analysis and furthering the public
+   good. The sponsors did not play any role in the study design, data
+   collection and analysis, decision to publish, or preparation of the
+   manuscript.
+CR Adjin-Tettey TD, 2022, COGENT ARTS HUMANITE, V9, DOI 10.1080/23311983.2022.2037229
+   Aghajari Zhila, 2023, Proceedings of the ACM on Human-Computer Interaction, DOI 10.1145/3579520
+   Bergstra J, 2013, SCIPY
+   Beskow DM, 2019, WINT SIMUL C PROC, P750, DOI 10.1109/WSC40007.2019.9004942
+   Bin Naeem S, 2021, INT J ENV RES PUB HE, V18, DOI 10.3390/ijerph18158091
+   Bodaghi A, 2022, EXPERT SYST APPL, V189, DOI 10.1016/j.eswa.2021.116110
+   Botha J, 2020, PR INT CONF INF WAR, P57, DOI 10.34190/ICCWS.20.085
+   Brandwatch, About us
+   Chuai Y, 2022, FRONT PHYS-LAUSANNE, V10, DOI 10.3389/fphy.2022.970174
+   Cisneros-Velarde P., 2019, Complex Networks X
+   Cook J., 2022, Res. Anthol. Environ. Soc. Impacts Clim. Change, P1633
+   Dechun Liu, 2011, 2011 3rd International Conference on Multimedia Information Networking and Security, P278, DOI 10.1109/MINES.2011.109
+   Evovest, EvoTrees.jl
+   Fernandez M, 2018, COMPANION PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE 2018 (WWW 2018), P595, DOI 10.1145/3184558.3188730
+   Gao C, 2023, Arxiv, DOI arXiv:2307.14984
+   Garett R, 2021, TRANSL BEHAV MED, V11, P2194, DOI 10.1093/tbm/ibab128
+   Gausen A, 2021, 15 INT AAAI C WEB SO
+   Gausen A, 2023, ACM J DATA INF QUAL, V15, DOI 10.1145/3546915
+   Gilbert N., 2019, Agent-Based Models, V153
+   Grootendorst M., 2022, arXiv, DOI [10.48550/arXiv.2203.05794, DOI 10.48550/ARXIV.2203.05794]
+   Guess AM, 2020, P NATL ACAD SCI USA, V117, P15536, DOI 10.1073/pnas.1920498117
+   Hartnett GS, 2020, Deep Generative Modeling in Network Science with Applications to Public Policy Research
+   Hayawi K, 2022, PUBLIC HEALTH, V203, P23, DOI 10.1016/j.puhe.2021.11.022
+   Helmus T.C., 2022, Artificial Intelligence, Deepfakes, and Disinformation: A Primer
+   Illenberger J, 2012, SOC NETWORKS, V34, P701, DOI 10.1016/j.socnet.2012.09.001
+   Janmohamed K, 2021, J HEALTH COMMUN, V26, P846, DOI 10.1080/10810730.2021.2021460
+   Jiang ML, 2021, PHYSICA A, V565, DOI 10.1016/j.physa.2020.125572
+   Jin F, 2014, COMPUTER, V47, P90, DOI 10.1109/MC.2014.361
+   Kanuková N, 2018, MEDIA LIT ACAD RES, V1, P82
+   Krause NM, 2020, J RISK RES, V23, P1052, DOI 10.1080/13669877.2020.1756385
+   Lee SH, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.016102
+   Lu Y, 2014, PROCEDIA COMPUT SCI, V31, P747, DOI 10.1016/j.procs.2014.05.323
+   Nguyen NP, 2012, PROCEEDINGS OF THE 3RD ANNUAL ACM WEB SCIENCE CONFERENCE, 2012, P213
+   Ortiz-Ospina E., 2019, The rise of social media
+   Park JS, 2022, PROCEEDINGS OF THE 35TH ANNUAL ACM SYMPOSIUM ON USER INTERFACE SOFTWARE AND TECHNOLOGY, UIST 2022, DOI 10.1145/3526113.3545616
+   Pham DV, 2020, IEEE ACCESS, V8, P78879, DOI 10.1109/ACCESS.2020.2989140
+   Railsback SF, 2006, SIMUL-T SOC MOD SIM, V82, P609, DOI 10.1177/0037549706073695
+   Raponi S, 2022, ACM T WEB, V16, DOI 10.1145/3522756
+   Reimers N, 2019, Arxiv, DOI [arXiv:1908.10084, DOI 10.48550/ARXIV.1908.10084]
+   Roozenbeek J, 2022, SCI ADV, V8, DOI 10.1126/sciadv.abo6254
+   Serrano E, 2015, WWW'15 COMPANION: PROCEEDINGS OF THE 24TH INTERNATIONAL CONFERENCE ON WORLD WIDE WEB, P811, DOI 10.1145/2740908.2742466
+   Sharma K, 2019, ACM T INTEL SYST TEC, V10, DOI 10.1145/3305260
+   Tan QY, 2019, FRONT BIG DATA, V2, DOI 10.3389/fdata.2019.00002
+   Traag VA, 2019, SCI REP-UK, V9, DOI 10.1038/s41598-019-41695-z
+   Tredinnick L., 2023, Business Information Review, V40, P46, DOI DOI 10.1177/02663821231183756
+   Treen KMD, 2020, WIRES CLIM CHANGE, V11, DOI 10.1002/wcc.665
+   Unver A, 2022, Defence and Deterrence in Information Warfare
+   Vasu Norman, 2018, RSIS
+   Waldrop MM, 2023, P NATL ACAD SCI USA, V120, DOI 10.1073/pnas.2314143120
+   Walther B, 2014, CYBERPSYCH BEH SOC N, V17, P616, DOI 10.1089/cyber.2014.0173
+   Wang XW, 2021, INFORM PROCESS MANAG, V58, DOI 10.1016/j.ipm.2021.102731
+   Wang YX, 2019, SOC SCI MED, V240, DOI 10.1016/j.socscimed.2019.112552
+   Wojcieszak M, 2022, SCI ADV, V8, DOI 10.1126/sciadv.abn9418
+   Yan MH, 2022, PROCEEDINGS OF THE 14TH ACM WEB SCIENCE CONFERENCE, WEBSCI 2022, P336, DOI 10.1145/3501247.3531562
+   Zade Himanshu, 2024, ACM Journal on Computing and Sustainable Societies, V2, DOI 10.1145/3625680
+NR 55
+TC 0
+Z9 0
+U1 6
+U2 6
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JUN 21
+PY 2024
+VL 19
+IS 6
+AR e0304889
+DI 10.1371/journal.pone.0304889
+PG 19
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA XO7Z1
+UT WOS:001262702900064
+PM 38905208
+OA Green Submitted, gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Pei, S
+   Cressman, R
+   Zhang, BY
+AF Pei, Shan
+   Cressman, Ross
+   Zhang, Boyu
+TI Dynamic games on arbitrary networks with two types of players
+SO JOURNAL OF MATHEMATICAL ECONOMICS
+LA English
+DT Article
+DE Social network; Homophily; Strategic complements; Strategic substitutes;
+   Best response dynamics
+ID ANTI-COORDINATION; INFORMATION; EMERGENCE
+AB We focus on asymmetric games on networks with two types of players characterized by their different intrinsic preferences. In general, it is NP -hard to calculate a pure strategy Nash equilibrium (PNE) for an asymmetric network game, which makes us difficult to predict the evolutionary outcome. In this paper, we study the asymptotic behavior of the tempered best response dynamics (tBRD). We develop an approximate approach that can transform the tBRD into a system of deterministic ordinary differential equations (ODE) for 2 x 2 asymmetric games with arbitrary payoff values and network structures. This then allows us to evaluate the effect of network structure on the evolutionary outcome without calculating the PNE. We highlight the importance of the network homophily index in the strategy evolution. For games with strategic complements, a lower homophily index promotes coordination. In contrast, games with strategic substitutes have a unique stable equilibrium for a higher homophily index and have two stable equilibria for a low homophily index. Finally, for games with a mixture of strategic complements and strategic substitutes, a lower homophily index in general promote cyclic behaviors and inhibits the existence of stable equilibrium. We then apply our approach to analyze the influence of social networks on the election and discuss the electoral strategies for the majority and minority parties.
+C1 [Pei, Shan] Beijing Normal Univ, Ctr Global Change & Publ Hlth, State Key Lab Remote Sensing Sci, Beijing 100875, Peoples R China.
+   [Pei, Shan; Zhang, Boyu] Beijing Normal Univ, Sch Math Sci, Lab Math & Complex Syst, Minist Educ, Beijing 100875, Peoples R China.
+   [Pei, Shan] Peking Univ, HSBC Business Sch, Shenzhen 518055, Peoples R China.
+   [Cressman, Ross] Wilfrid Laurier Univ, Dept Math, Waterloo, ON N2L 3C5, Canada.
+C3 Beijing Normal University; Beijing Normal University; Peking University;
+   Wilfrid Laurier University
+RP Zhang, BY (corresponding author), Beijing Normal Univ, Sch Math Sci, Lab Math & Complex Syst, Minist Educ, Beijing 100875, Peoples R China.
+EM peishan@bun.edu.cn; rcressman@wlu.ca; zhangby@bnu.edu.cn
+FU National Science Foundation of China [71922004, 72131003]; Beijing
+   Natural Science Foundation [Z220001]
+FX B.Z. acknowledges support from the National Science Foundation of China
+   (Grant No. 71922004 and 72131003) and the Beijing Natural Science
+   Foundation (Grant No. Z220001) . The funders had no role in the study
+   design, data collection and analysis, decision to publish, or
+   preparation of the manuscript.
+CR Acemoglu D, 2013, MATH OPER RES, V38, P1, DOI 10.1287/moor.1120.0570
+   Alós-Ferrer C, 2007, GAME ECON BEHAV, V61, P179, DOI 10.1016/j.geb.2007.01.007
+   Alós-Ferrer C, 2014, GAME ECON BEHAV, V87, P397, DOI 10.1016/j.geb.2014.05.013
+   Alos-Ferrer C, 2008, J ECON THEORY, V143, P251, DOI 10.1016/j.jet.2007.12.003
+   [Anonymous], 1998, Individual Strategy and Social Structure: An Evolutionary Theory of Institutions
+   [Anonymous], 2011, Synthesis Lectures on Communication Networks
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barberá P, 2015, PSYCHOL SCI, V26, P1531, DOI 10.1177/0956797615594620
+   Bramoullé Y, 2004, INT J GAME THEORY, V33, P1, DOI 10.1007/s001820400178
+   Bramoullé Y, 2007, GAME ECON BEHAV, V58, P30, DOI 10.1016/j.geb.2005.12.006
+   Cao ZG, 2019, INT J GAME THEORY, V48, P887, DOI 10.1007/s00182-019-00665-5
+   Cao ZG, 2014, THEOR COMPUT SCI, V540, P169, DOI 10.1016/j.tcs.2014.05.009
+   Conover M., 2011, P INT AAAI C WEB SOC, V133, P89, DOI DOI 10.1609/ICWSM.V5I1.14126
+   Couto MC, 2022, NEW J PHYS, V24, DOI 10.1088/1367-2630/ac6f76
+   Cressman R., 2013, The Stability Concept of Evolutionary Game Theory: a Dynamic Approach
+   Del Vicario M, 2016, P NATL ACAD SCI USA, V113, P554, DOI 10.1073/pnas.1517441113
+   des Mesnards NG, 2022, OPER RES, V70, P1, DOI 10.1287/opre.2021.2118
+   Dubey P, 2006, GAME ECON BEHAV, V54, P77, DOI 10.1016/j.geb.2004.10.007
+   ELLISON G, 1993, ECONOMETRICA, V61, P1047, DOI 10.2307/2951493
+   Ellison G, 2000, REV ECON STUD, V67, P17, DOI 10.1111/1467-937X.00119
+   ERDOS P, 1960, B INT STATIST INST, V38, P343
+   Ferrara E, 2016, First Monday, V21, P1, DOI 10.5210/fm.v21i11.7090
+   Han X, 2017, P NATL ACAD SCI USA, V114, P2887, DOI 10.1073/pnas.1608164114
+   Hauser OP, 2019, NATURE, V572, P524, DOI 10.1038/s41586-019-1488-5
+   Hernández P, 2017, ECON LETT, V155, P154, DOI 10.1016/j.econlet.2016.12.004
+   Hernández P, 2013, GAME ECON BEHAV, V79, P56, DOI 10.1016/j.geb.2013.01.004
+   Hofbauer J, 2003, B AM MATH SOC, V40, P479, DOI 10.1090/S0273-0979-03-00988-1
+   Jackson M. O., 2015, Handbook of Game Theory with Economic Applications, V4, P95, DOI DOI 10.1016/B978-0-444-53766-9.00003-3
+   Jackson MO, 2007, AM ECON REV, V97, P92, DOI 10.1257/aer.97.2.92
+   Jackson MO, 2017, J ECON LIT, V55, P49, DOI 10.1257/jel.20150694
+   Jackson MO, 2014, J ECON PERSPECT, V28, P3, DOI 10.1257/jep.28.4.3
+   Jackson MO, 2008, SOCIAL AND ECONOMIC NETWORKS, P1
+   Jackson MO., 2013, Network Science, V1, P49, DOI 10.1017/nws.2012.7
+   Kearns M, 2009, P NATL ACAD SCI USA, V106, P1347, DOI 10.1073/pnas.0808147106
+   Morris S, 2001, NBER MACROECON ANN, V15, P139
+   Orlova O., 2020, Center for Mathematical Economics Working Papers, V631
+   Ramazi P, 2016, P NATL ACAD SCI USA, V113, P12985, DOI 10.1073/pnas.1610244113
+   Roth G, 2013, SIAM J CONTROL OPTIM, V51, P525, DOI 10.1137/110844192
+   Sandholm W.H., 2010, POPULATION GAMES EVO
+   Sandholm WH, 2001, J ECON THEORY, V97, P81, DOI 10.1006/jeth.2000.2696
+   Shirado H, 2017, NATURE, V545, P370, DOI 10.1038/nature22332
+   Stewart AJ, 2019, NATURE, V573, P117, DOI 10.1038/s41586-019-1507-6
+   Szabó G, 2014, PHYS REV E, V89, DOI 10.1103/PhysRevE.89.042820
+   Vosoughi S, 2018, SCIENCE, V359, P1146, DOI 10.1126/science.aap9559
+   Weidenholzer S., 2010, Games, V1, P551, DOI DOI 10.3390/G1040551
+   Wu JB, 2019, NAT HUM BEHAV, V3, P604, DOI 10.1038/s41562-019-0571-0
+   Yildiz E., 2013, ACM T ECON COMPUT, V1, P1, DOI DOI 10.1145/2538508
+   Zhang BY, 2018, OPER RES, V66, P1486, DOI 10.1287/opre.2018.1744
+   Zhang BY, 2015, INT J GAME THEORY, V44, P433, DOI 10.1007/s00182-014-0437-7
+   Zusai D, 2018, INT J GAME THEORY, V47, P1, DOI 10.1007/s00182-017-0575-9
+NR 50
+TC 0
+Z9 0
+U1 16
+U2 16
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 0304-4068
+EI 1873-1538
+J9 J MATH ECON
+JI J. Math. Econ.
+PD AUG
+PY 2024
+VL 113
+AR 102990
+DI 10.1016/j.jmateco.2024.102990
+EA MAY 2024
+PG 11
+WC Economics; Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Mathematics; Mathematical Methods In Social
+   Sciences
+GA UG4E2
+UT WOS:001246884100002
+OA hybrid
+DA 2024-11-22
+ER

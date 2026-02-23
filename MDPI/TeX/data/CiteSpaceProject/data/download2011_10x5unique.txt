@@ -1,0 +1,440 @@
+
+PT J
+AU Bojanowski, M
+   Buskens, V
+AF Bojanowski, Michal
+   Buskens, Vincent
+TI Coordination in Dynamic Social Networks Under Heterogeneity
+SO JOURNAL OF MATHEMATICAL SOCIOLOGY
+LA English
+DT Article
+DE coevolution of networks and behavior; conventions; coordination; game
+   theory; heterogeneity; social network dynamics
+ID LOCAL INTERACTION; COEVOLUTION; MODEL
+AB People often make choices or form opinions depending on the social relations they have, but they also choose their relations depending on their preferred behavior and their opinions. Most of the existing models of coevolution of networks and individual behavior assume that actors are homogeneous. In this article, we relax this assumption in a context in which actors try to coordinate their behavior with their partners. We investigate with a game-theoretic model whether social cohesion and coordination change when interests of actors are not perfectly aligned as compared to the homogeneous case. Using analytical and simulation methods we characterize the set of stable networks and examine the consequences of heterogeneity for social optimality and segregation in emerging networks.
+C1 [Bojanowski, Michal] Univ Warsaw, Interdisciplinary Ctr Math & Computat Modelling I, PL-00838 Warsaw, Poland.
+   [Bojanowski, Michal; Buskens, Vincent] Univ Utrecht, Interuniv Ctr Social Sci Theory & Methodol ICS So, Utrecht, Netherlands.
+   [Buskens, Vincent] Erasmus Univ, Erasmus Sch Law, Rotterdam, Netherlands.
+C3 University of Warsaw; Interdisciplinary Centre for Mathematical &
+   Computational Modelling; Utrecht University; Erasmus University
+   Rotterdam - Excl Erasmus MC; Erasmus University Rotterdam
+RP Bojanowski, M (corresponding author), Univ Warsaw, Interdisciplinary Ctr Math & Computat Modelling I, Ul Prosta 69, PL-00838 Warsaw, Poland.
+EM mbojan@icm.edu.pl
+RI Buskens, Vincent/B-3134-2012; Bojanowski, Michał/J-7034-2019
+OI Bojanowski, Michal/0000-0001-7503-852X; Buskens,
+   Vincent/0000-0002-4483-7238
+FU Utrecht University
+FX We would like to thank two anonymous reviewers for their helpful
+   suggestions. We also would like to thank Stephanie Rosenkranz, Werner
+   Raub, Jeroen Weesie, Rense Corten, Bastian Westbrock, and Ines Lindner,
+   as well as participants of the ISCORE seminar at the ICS in Utrecht and
+   the 6th Workshop on Networks in Economics and Sociology: Dynamic
+   Networks in Utrecht for useful suggestions and criticism. The research
+   reported here was facilitated by funding through the Utrecht University
+   2004 High Potential grant for the project Dynamics of Cooperation,
+   Networks, and Institutions coordinated by Vincent Buskens and Stephanie
+   Rosenkranz.
+CR [Anonymous], 1972, STAT DECOMPOSITION A
+   [Anonymous], FDN SOCIAL SCI THEOR
+   [Anonymous], 1977, The Emergence of Norms
+   [Anonymous], 1998, INDIVIDUAL STRATEGY, DOI DOI 10.1515/9780691214252
+   Axelrod R, 1997, J CONFLICT RESOLUT, V41, P203, DOI 10.1177/0022002797041002001
+   Berninghaus S, 2006, HOMOOECONOMICUS, V23, P421
+   Berninghaus SK, 2002, GAME ECON BEHAV, V39, P177, DOI 10.1006/game.2001.0897
+   BESEN SM, 1994, J ECON PERSPECT, V8, P117, DOI 10.1257/jep.8.2.117
+   Birke D, 2006, J EVOL ECON, V16, P65, DOI 10.1007/s00191-005-0001-5
+   Bowman AW, 1997, APPL SMOOTHING TECHN, V18
+   BOWMAN AW, 2005, SM SMOOTHING METHODS
+   Bramoullé Y, 2004, INT J GAME THEORY, V33, P1, DOI 10.1007/s001820400178
+   Buskens V, 2008, J PEACE RES, V45, P205, DOI 10.1177/0022343307087177
+   Centola D, 2007, J CONFLICT RESOLUT, V51, P905, DOI 10.1177/0022002707307632
+   CORTEN R, 2009, THESIS UTRECHT U UTR
+   ELLISON G, 1993, ECONOMETRICA, V61, P1047, DOI 10.2307/2951493
+   Epstein JM., 2007, GENERATIVE SOCIAL SC
+   FREEMAN LC, 1978, SOCIOL METHOD RES, V6, P411, DOI 10.1177/004912417800600401
+   Gandal N, 2002, OXFORD REV ECON POL, V18, P80, DOI 10.1093/oxrep/18.1.80
+   Goyal S, 2005, GAME ECON BEHAV, V50, P178, DOI 10.1016/j.geb.2004.01.005
+   Goyal S., 2007, CONNECTIONS INTRO EC
+   Harsanyi JC., 1992, A General Theory of Equilibrium Selection in Games
+   Hojman D., 2004, INTERACTION STRUCTUR
+   Huber P. J., 1967, P 5 BERK S MATH STAT, V1, P221
+   Jackson MO, 2005, GROUP FORMATION IN ECONOMICS: NETWORKS, CLUBS, AND COALITIONS, P11, DOI 10.1017/CBO9780511614385.002
+   Jackson MO, 1996, J ECON THEORY, V71, P44, DOI 10.1006/jeth.1996.0108
+   Jackson MO, 2002, J ECON THEORY, V106, P265, DOI 10.1006/jeth.2001.2903
+   Jackson MO, 2002, GAME ECON BEHAV, V41, P265, DOI 10.1016/S0899-8256(02)00504-3
+   Jackson MO, 2003, STU ECO DES, P319
+   KATZ ML, 1994, J ECON PERSPECT, V8, P93, DOI 10.1257/jep.8.2.93
+   Macy MW, 2003, DYNAMIC SOCIAL NETWORK MODELING AND ANALYSIS, P162
+   Mark N, 1998, AM SOCIOL REV, V63, P309, DOI 10.2307/2657552
+   MASSON V, 2005, INT C GAM THEOR STON
+   Nowak A, 2000, PHYSICA A, V287, P613, DOI 10.1016/S0378-4371(00)00397-6
+   Raub W, 2011, J MATH SOCIOL, V35, P1, DOI 10.1080/0022250X.2010.532263
+   Schelling TC, 1960, The strategy of conflict
+   SNIJDERS TAB, 1981, SOC NETWORKS, V3, P163, DOI 10.1016/0378-8733(81)90014-9
+   Taylor MC, 1998, AM SOCIOL REV, V63, P512, DOI 10.2307/2657265
+   TEMPLE P, 2005, 12 DEP TRAD IND
+   Tripathi A, 2003, DISCRETE MATH, V265, P417, DOI 10.1016/S0012-365X(02)00886-5
+   VANZOMEREN M, 2006, THESIS U AMSTERDAM
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   WEIDENHOLZER S, 2007, THESIS U VIENNA VIEN
+NR 43
+TC 10
+Z9 11
+U1 1
+U2 16
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 0022-250X
+EI 1545-5874
+J9 J MATH SOCIOL
+JI J. Math. Sociol.
+PY 2011
+VL 35
+IS 4
+BP 249
+EP 286
+DI 10.1080/0022250X.2010.509523
+PG 38
+WC Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods; Sociology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Mathematical Methods In Social Sciences; Sociology
+GA 820GQ
+UT WOS:000294894100002
+DA 2024-11-22
+ER
+
+PT J
+AU Harrison, F
+   Sciberras, J
+   James, R
+AF Harrison, Freya
+   Sciberras, James
+   James, Richard
+TI Strength of Social Tie Predicts Cooperative Investment in a Human Social
+   Network
+SO PLOS ONE
+LA English
+DT Article
+ID INTERACTION PATTERNS; INDIRECT RECIPROCITY; EVOLUTION; EMERGENCE;
+   KINSHIP; FRIENDSHIP; ALTRUISM; BEHAVIOR; ECOLOGY; NICHES
+AB Social networks - diagrams which reflect the social structure of animal groups - are increasingly viewed as useful tools in behavioural ecology and evolutionary biology. Network structure may be especially relevant to the study of cooperation, because the action of mechanisms which affect the cost: benefit ratio of cooperating (e. g. reciprocity, punishment, image scoring) is likely to be mediated by the relative position of actor and recipient in the network. Social proximity could thus affect cooperation in a similar manner to biological relatedness. To test this hypothesis, we recruited members of a real-world social group and used a questionnaire to reveal their network. Participants were asked to endure physical discomfort in order to earn money for themselves and other group members, allowing us to explore relationships between willingness to suffer a cost on another's behalf and the relative social position of donor and recipient. Cost endured was positively correlated with the strength of the social tie between donor and recipient. Further, donors suffered greater costs when a relationship was reciprocated. Interestingly, participants regularly suffered greater discomfort for very close peers than for themselves. Our results provide new insight into the effect of social structure on the direct benefits of cooperation.
+C1 [Harrison, Freya; Sciberras, James] Univ Oxford, Dept Zool, Oxford OX1 3PS, England.
+   [Harrison, Freya] Univ Bath, Dept Biol & Biochem, Bath BA2 7AY, Avon, England.
+   [James, Richard] Univ Bath, Dept Phys, Bath BA2 7AY, Avon, England.
+C3 University of Oxford; University of Bath; University of Bath
+RP Harrison, F (corresponding author), Univ Oxford, Dept Zool, S Parks Rd, Oxford OX1 3PS, England.
+EM freya.andersdottir@gmail.com
+RI James, Richard/E-5061-2013
+FU University of Oxford; European Commission [043318]
+FX The study was funded by the University of Oxford via a contribution to
+   JS's dissertation project (MSc in Integrative Bioscience); preliminary
+   work was funded by the European Commission coordination action project
+   Integrating Cooperation Research Across Europe (INCORE, FP6 NEST
+   contract no. 043318; www.incore.ich.ucl.ac.uk). The funders had no role
+   in study design, data collection and analysis, decision to publish, or
+   preparation of the manuscript.
+CR [Anonymous], 2002, Living in Groups
+   AXELROD R, 1981, SCIENCE, V211, P1390, DOI 10.1126/science.7466396
+   Borgatti S.P., 2002, Analytic Technologies, VVolume 1, DOI [10.1111/j.1439-0310.2009.01613.x, DOI 10.1111/J.1439-0310.2009.01613.X]
+   Borgatti S. P., 2002, Netdraw network visualisation
+   Brañas-Garza P, 2010, GAME ECON BEHAV, V69, P249, DOI 10.1016/j.geb.2009.10.014
+   Cardenas JC, 2000, WORLD DEV, V28, P1719, DOI 10.1016/S0305-750X(00)00055-3
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Cohen J., 2003, APPL MULTIPLE REGRES
+   Croft DP, 2009, BEHAV ECOL SOCIOBIOL, V63, P1495, DOI 10.1007/s00265-009-0802-x
+   Croft DP, 2006, BEHAV ECOL SOCIOBIOL, V59, P644, DOI 10.1007/s00265-005-0091-y
+   Croft DP, 2008, EXPLORING ANIMAL SOCIAL NETWORKS, P1
+   Csányi G, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.036131
+   Dekker D, 2007, PSYCHOMETRIKA, V72, P563, DOI 10.1007/s11336-007-9016-1
+   Drea CM, 2009, ANIM BEHAV, V78, P967, DOI 10.1016/j.anbehav.2009.06.030
+   Dunbar RIM, 2008, GROUP DYN-THEOR RES, V12, P7, DOI 10.1037/1089-2699.12.1.7
+   Eames KTD, 2009, EPIDEMICS-NETH, V1, P70, DOI 10.1016/j.epidem.2008.12.001
+   ESTRADA A, 1978, Primates, V19, P401, DOI 10.1007/BF02382809
+   Flack JC, 2006, NATURE, V439, P426, DOI 10.1038/nature04326
+   Fowler JH, 2009, P NATL ACAD SCI USA, V106, P1720, DOI 10.1073/pnas.0806746106
+   FOWLER JH, 2010, PNAS, V104, P5334
+   Frank S. A, 1998, FDN SOCIAL EVOLUTION
+   Franks DW, 2008, ADAPT BEHAV, V16, P264, DOI 10.1177/1059712308090536
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   Gardner Andy, 2008, P1, DOI 10.1007/978-3-540-75957-7_1
+   Gero S, 2008, BEHAV ECOL SOCIOBIOL, V63, P143, DOI 10.1007/s00265-008-0645-x
+   Gibbons D, 2003, J PERS SOC PSYCHOL, V84, P340, DOI 10.1037/0022-3514.84.2.340
+   GUPTA S, 1989, AIDS, V3, P807, DOI 10.1097/00002030-198912000-00005
+   HAAN M, 2006, IZL DISCUSSION PAPER, V2108
+   Hakansson H., 1989, Corporate Technological Behaviour: Co-opertation and Networks
+   HAMILTON WD, 1964, J THEOR BIOL, V7, P1, DOI [10.1016/0022-5193(64)90038-4, 10.1016/0022-5193(64)90039-6]
+   Hammerstein P, 2006, J EVOLUTION BIOL, V19, P1400, DOI 10.1111/j.1420-9101.2006.01160.x
+   HANSEN WB, NETWORK GENIE
+   HEMELRIJK CK, 1990, ANIM BEHAV, V39, P1013, DOI 10.1016/S0003-3472(05)80775-4
+   HEMELRIJK CK, 1990, J THEOR BIOL, V143, P405, DOI 10.1016/S0022-5193(05)80036-0
+   Hruschka DJ, 2006, J THEOR BIOL, V239, P1, DOI 10.1016/j.jtbi.2005.07.006
+   James R, 2009, BEHAV ECOL SOCIOBIOL, V63, P989, DOI 10.1007/s00265-009-0742-5
+   Jones B, 2006, PSYCHOL SCI, V17, P283, DOI 10.1111/j.1467-9280.2006.01699.x
+   KRACKHARDT D, 1988, SOC NETWORKS, V10, P359, DOI 10.1016/0378-8733(88)90004-4
+   Krause J, 2009, BEHAV ECOL SOCIOBIOL, V63, P967, DOI 10.1007/s00265-009-0747-0
+   Lange D.D., 2004, METODOLO KI ZVEZKI, V1, P351
+   Lehmann L, 2007, J EVOLUTION BIOL, V20, P2284, DOI 10.1111/j.1420-9101.2007.01414.x
+   Leider S, 2009, Q J ECON, V124, P1815, DOI 10.1162/qjec.2009.124.4.1815
+   Lusseau D, 2003, P ROY SOC B-BIOL SCI, V270, pS186, DOI 10.1098/rsbl.2003.0057
+   Lusseau D, 2004, P ROY SOC B-BIOL SCI, V271, pS477, DOI 10.1098/rsbl.2004.0225
+   Madden JR, 2009, BEHAV ECOL SOCIOBIOL, V64, P81, DOI 10.1007/s00265-009-0820-8
+   Madsen EA, 2007, BRIT J PSYCHOL, V98, P339, DOI 10.1348/000712606X129213
+   McDonald DB, 2007, P NATL ACAD SCI USA, V104, P10910, DOI 10.1073/pnas.0701159104
+   Milinski M, 2002, NATURE, V415, P424, DOI 10.1038/415424a
+   Milinski M, 2001, P ROY SOC B-BIOL SCI, V268, P2495, DOI 10.1098/rspb.2001.1809
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   Newman MEJ, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.026113
+   Nowak MA, 1998, NATURE, V393, P573, DOI 10.1038/31225
+   Ohtsuki H, 2006, NATURE, V441, P502, DOI 10.1038/nature04605
+   Pastor-Nieto R, 2001, ZOO BIOL, V20, P293, DOI 10.1002/zoo.1029
+   Pike TW, 2008, P ROY SOC B-BIOL SCI, V275, P2515, DOI 10.1098/rspb.2008.0744
+   Proulx SR, 2005, TRENDS ECOL EVOL, V20, P345, DOI 10.1016/j.tree.2005.04.004
+   QUELLER DC, 1985, NATURE, V318, P366, DOI 10.1038/318366a0
+   Ruch J, 2009, BMC EVOL BIOL, V9, DOI 10.1186/1471-2148-9-257
+   Russell AF, 2001, P ROY SOC B-BIOL SCI, V268, P2169, DOI 10.1098/rspb.2001.1790
+   Santos FC, 2006, P ROY SOC B-BIOL SCI, V273, P51, DOI 10.1098/rspb.2005.3272
+   Santos FC, 2008, NATURE, V454, P213, DOI 10.1038/nature06940
+   SCOTT J, 1988, SOCIOLOGY, V22, P109, DOI 10.1177/0038038588022001007
+   SEYFARTH RM, 1980, ANIM BEHAV, V28, P798, DOI 10.1016/S0003-3472(80)80140-0
+   SEYFARTH RM, 1976, ANIM BEHAV, V24, P917, DOI 10.1016/S0003-3472(76)80022-X
+   Sih A, 2009, BEHAV ECOL SOCIOBIOL, V63, P975, DOI 10.1007/s00265-009-0725-6
+   Sommerfeld RD, 2007, P NATL ACAD SCI USA, V104, P17435, DOI 10.1073/pnas.0704598104
+   Tomochi M, 2004, SOC NETWORKS, V26, P309, DOI 10.1016/j.socnet.2004.08.003
+   Voelkl B, 2009, BIOL LETTERS, V5, P462, DOI 10.1098/rsbl.2009.0204
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   Wedekind C, 2000, SCIENCE, V288, P850, DOI 10.1126/science.288.5467.850
+   Whittingham MJ, 2006, J ANIM ECOL, V75, P1182, DOI 10.1111/j.1365-2656.2006.01141.x
+   Wolf JBW, 2008, P ROY SOC B-BIOL SCI, V275, P2063, DOI 10.1098/rspb.2008.0356
+   Wolf JBW, 2007, ANIM BEHAV, V74, P1293, DOI 10.1016/j.anbehav.2007.02.024
+   YAMAGISHI T, 1993, SOC PSYCHOL QUART, V56, P235, DOI 10.2307/2786661
+NR 74
+TC 49
+Z9 50
+U1 0
+U2 26
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD MAR 30
+PY 2011
+VL 6
+IS 3
+AR e18338
+DI 10.1371/journal.pone.0018338
+PG 7
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA 743YK
+UT WOS:000289055700049
+PM 21479173
+OA Green Published, Green Accepted, Green Submitted, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Zappa, P
+AF Zappa, Paola
+TI The network structure of knowledge sharing among physicians
+SO QUALITY & QUANTITY
+LA English
+DT Article
+DE Innovation; Healthcare; Knowledge sharing; Social networks; ERG or p*
+   models
+ID SOCIAL NETWORKS; DIFFUSION; MODELS; DESIGN
+AB This paper applies social network analysis in order to model knowledge sharing among hospital physicians. Drawing on the literature on the diffusion of innovation and cooperation in clinical settings, it aims to furnish better understanding of knowledge sharing in two directions: describing how knowledge flows and identifying individual and contextual factors which facilitate its spontaneous spreading. Used to address these issues is a link- tracing sample of about 800 Italian hospital physicians, potentially involved in prescribing a new drug. The paper represents knowledge sharing about the innovation as a network. It therefore specifies Exponential Random Graphs (ERG) or p* models to reconstruct the network structure of knowledge sharing and to test the effect of exogenous factors on the tendency to take action in the network. The results show that knowledge flows informally, exploiting mutual information-seeking relationships, and, consistently with previous studies, locally, with physicians tending to cluster in small groups of proximate and similar peers. Moreover empirical evidence is provided that the propensity to share information with colleagues is greatly affected by individual-specific characteristics, mainly by the experience in the field and the attitude toward the innovation, and by exposure to commercial communication.
+C1 Univ Milano Bicocca, Dept Econ, I-20126 Milan, Italy.
+C3 University of Milano-Bicocca
+RP Zappa, P (corresponding author), Univ Milano Bicocca, Dept Econ, I-20126 Milan, Italy.
+EM paola.zappa1@unimib.it
+OI Zappa, Paola/0000-0002-7264-9939
+CR [Anonymous], 1988, DIFFUSION MED INNOVA
+   [Anonymous], 2002, J. Social Struct
+   Barlow J., 2008, ALL CHANGE PLEASE
+   Burt R, 1996, NETWORKS MARKETING, P68
+   BURT RS, 1987, AM J SOCIOL, V92, P1287, DOI 10.1086/228667
+   Clark M., 2010, MED CARE RES REV, V67, P102
+   COHEN WM, 1990, ADMIN SCI QUART, V35, P128, DOI 10.2307/2393553
+   Coleman S., 1966, Medical Innovation; A Diffusion Study
+   Coscelli A, 2004, J ECONOMETRICS, V122, P213, DOI 10.1016/j.jeconom.2003.09.002
+   CRESWICK N, 2006, WORKING PAPER SERIES
+   DOREIAN P, 1994, SOC NETWORKS, V16, P267, DOI 10.1016/0378-8733(94)90013-2
+   Fattore G, 2010, BMC HEALTH SERV RES, V10, DOI 10.1186/1472-6963-10-118
+   Gollop R, 2004, QUAL SAF HEALTH CARE, V13, P108, DOI 10.1136/qshc.2003.007450
+   Handcock MS, 2010, ANN APPL STAT, V4, P5, DOI 10.1214/08-AOAS221
+   HIRSCHMAN EC, 1980, J CONSUM RES, V7, P283, DOI 10.1086/208816
+   KALUZNY AD, 1989, J NATL CANCER I, V81, P1717, DOI 10.1093/jnci/81.22.1717
+   Katz Elihue Paul Lazarsfeld., 1955, Personal Influence, Nova Iorque
+   Keating NL, 2007, J GEN INTERN MED, V22, P794, DOI 10.1007/s11606-007-0190-8
+   Lave J, 1991, SITUATED LEARNING LE, DOI DOI 10.1017/CBO9780511815355
+   Mukherjee P., 2002, WORKING PAPER SERIES
+   Nair H., 2008, WORKING PAPER SERIES
+   Pattison P, 2002, SOCIOL METHODOL, V32, P301, DOI 10.1111/1467-9531.00119
+   RAO CR, 1948, P CAMB PHILOS SOC, V44, P50
+   Robins G, 2001, SOC NETWORKS, V23, P1, DOI 10.1016/S0378-8733(01)00029-6
+   Robins G, 2007, SOC NETWORKS, V29, P192, DOI 10.1016/j.socnet.2006.08.003
+   SCHWEINBERGER M, 2008, STAT MODELING UNPUB
+   Snijders T. A., 2005, MODELS METHODS SOCIA, V1, P215, DOI DOI 10.1017/CBO9780511811395.011
+   Snijders TAB, 2006, SOCIOL METHODOL, V36, P99, DOI 10.1111/j.1467-9531.2006.00176.x
+   Snijders TAB, 2010, J MATH SOCIOL, V34, P239, DOI 10.1080/0022250X.2010.485707
+   STRANG D, 1993, AM J SOCIOL, V99, P614, DOI 10.1086/230318
+   Trzeciak S, 2006, CHEST, V129, P225, DOI 10.1378/chest.129.2.225
+   Valente TW, 2007, HEALTH EDUC BEHAV, V34, P881, DOI 10.1177/1090198106297855
+   Valente TW, 1996, SOC NETWORKS, V18, P69, DOI 10.1016/0378-8733(95)00256-1
+   Valente TW, 1999, ANN AM ACAD POLIT SS, V566, P55, DOI 10.1177/0002716299566001005
+   Van den Bulte C, 2001, AM J SOCIOL, V106, P1409, DOI 10.1086/320819
+   VANDENBULTE C, 2006, WORKING PAPER SERIES
+   Wasserman S, 1996, PSYCHOMETRIKA, V61, P401, DOI 10.1007/BF02294547
+   West E, 1999, SOC SCI MED, V48, P633, DOI 10.1016/S0277-9536(98)00361-X
+   Zappa P, 2011, PROCD SOC BEHV, V10, DOI 10.1016/j.sbspro.2011.01.017
+NR 39
+TC 36
+Z9 39
+U1 0
+U2 48
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0033-5177
+EI 1573-7845
+J9 QUAL QUANT
+JI Qual. Quant.
+PD AUG
+PY 2011
+VL 45
+IS 5
+BP 1109
+EP 1126
+DI 10.1007/s11135-011-9494-1
+PG 18
+WC Social Sciences, Interdisciplinary; Statistics & Probability
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics; Mathematics
+GA 806CJ
+UT WOS:000293780700012
+DA 2024-11-22
+ER
+
+PT J
+AU Zubcsek, PP
+   Sarvary, M
+AF Zubcsek, Peter Pal
+   Sarvary, Miklos
+TI Advertising to a social network
+SO QME-QUANTITATIVE MARKETING AND ECONOMICS
+LA English
+DT Article
+DE Word-of-mouth; Game theory; Competition; CRM
+ID WORD-OF-MOUTH; INFORMATION; IMPACT
+AB Direct advertising-sending promotional messages to individual customers-is increasingly used by marketers as a result of the recent improvements in consumer reachability. Most current methods to calculate optimal budgets for such advertising campaigns consider customers in isolation and ignore word-of-mouth communication (WOM). When the customer base forms a network (as is the case in telecom or social network databases) ignoring WOM clearly leads to suboptimal advertising budgets. This paper develops a model to help address this challenge. We assume that firms know the network structure formed by customers but do not know (or are not allowed to use) data on individuals' connections. Under this scenario, we compare the optimal campaign of a monopolist to that of firms competing in simultaneous-move or sequential-move games. The analysis provides two key insights: (i) we show that ignoring the existence of WOM leads to significant profit loss for firms and this is more so under competition. In particular, knowing the "density" of consumer connections is crucial for the design of optimal campaigns. (ii) Competition in direct advertising exhibits strong first-mover advantages and, even in a simultaneous-move game between identical firms, highly asymmetric outcomes are possible. The paper also explores two extensions. First, we study the nature of the trade-off between increasing network size versus increasing the connectivity between existing network members. Second, we investigate how firms' advertising activity may endogenously grow the membership base.
+C1 [Zubcsek, Peter Pal] Univ Florida, Gainesville, FL 32611 USA.
+   [Sarvary, Miklos] INSEAD, F-77305 Fontainebleau, France.
+C3 State University System of Florida; University of Florida; INSEAD
+   Business School
+RP Zubcsek, PP (corresponding author), Univ Florida, Gainesville, FL 32611 USA.
+EM pzubcsek@ufl.edu; miklos.sarvary@insead.edu
+CR [Anonymous], 2010, HDB SOCIAL EC
+   BASS FM, 1969, MANAGE SCI, V15, P215, DOI 10.1287/mnsc.15.5.215
+   BLATTBERG RC, 1991, SLOAN MANAGEMENT FAL, P5
+   BORGIDA E, 1977, J APPL SOC PSYCHOL, V7, P258, DOI 10.1111/j.1559-1816.1977.tb00750.x
+   Bramoullé Y, 2007, J ECON THEORY, V135, P478, DOI 10.1016/j.jet.2006.06.006
+   Chen YX, 2009, MARKET SCI, V28, P1, DOI 10.1287/mksc.1080.0385
+   Chen YX, 2002, MARKET SCI, V21, P197, DOI 10.1287/mksc.21.2.197.153
+   Domingos P., 2001, KDD-2001. Proceedings of the Seventh ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, P57, DOI 10.1145/502512.502525
+   Galeotti A, 2009, RAND J ECON, V40, P509, DOI 10.1111/j.1756-2171.2009.00075.x
+   Godes D, 2004, MARKET SCI, V23, P545, DOI 10.1287/mksc.1040.0071
+   Goldenberg J, 2001, MARKET LETT, V12, P211, DOI 10.1023/A:1011122126881
+   GRANOVETTER M, 1978, AM J SOCIOL, V83, P1420, DOI 10.1086/226707
+   Grewal R, 2003, J CONSUM PSYCHOL, V13, P187, DOI 10.1207/S15327663JCP1303_01
+   Gruhl D., 2004, P 13 INT C WORLD WID, P491, DOI [DOI 10.1145/988672.988739, DOI 10.1145/1046456.1046462]
+   Gupta S., 2009, The value of a free customer
+   HERR PM, 1991, J CONSUM RES, V17, P454, DOI 10.1086/208570
+   Hill S, 2006, STAT SCI, V21, P256, DOI 10.1214/088342306000000222
+   KATZ ML, 1985, AM ECON REV, V75, P424
+   KUMAR V, 2009, WHY DO CONSUMERS CON
+   Kumar V., 2006, CUSTOMER RELATIONSHI
+   Mayzlin D., 2002, INFLUENCE SOCIAL NET
+   RICHARDSON M, 2002, 18 INT C KNOWL DISC, P61
+   Tardos, 2003, P 9 ACM SIGKDD INT C, P137, DOI 10.1145/956750.956769
+   Topkis, 1998, SUPERMODULARITY COMP
+   Tucker CE, 2008, MANAGE SCI, V54, P2024, DOI 10.1287/mnsc.1080.0897
+   Valente T.W., 1995, NETWORK MODELS DIFFU
+   Van den Bulte C., 2003, Two-stage partial observability models of innovation adoption
+   Van den Bulte C, 2007, MARKET SCI, V26, P400, DOI 10.1287/mksc.1060.0224
+   VillaBoas JM, 1997, J ECON THEORY, V73, P183, DOI 10.1006/jeth.1996.2224
+   Villanueva J, 2008, J MARKETING RES, V45, P48, DOI 10.1509/jmkr.45.1.48
+   Villanueva Julian., 2007, Customer Equity: Measurement
+   VIVES X, 1990, J MATH ECON, V19, P305, DOI 10.1016/0304-4068(90)90005-T
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+NR 33
+TC 30
+Z9 39
+U1 2
+U2 39
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1570-7156
+EI 1573-711X
+J9 QME-QUANT MARK ECON
+JI QME-Quant. Mark. Econ.
+PD MAR
+PY 2011
+VL 9
+IS 1
+BP 71
+EP 107
+DI 10.1007/s11129-010-9093-9
+PG 37
+WC Business; Economics; Social Sciences, Mathematical Methods
+WE Social Science Citation Index (SSCI)
+SC Business & Economics; Mathematical Methods In Social Sciences
+GA 726GB
+UT WOS:000287706700003
+DA 2024-11-22
+ER
+
+PT J
+AU Parry, D
+   Glover, T
+   Mulcahy, C
+AF Parry, Diana
+   Glover, Troy
+   Mulcahy, Caitlin
+TI Cyber Mummies, Healthy Mummies: The Roles of Online Social Networking
+   Sites in Mothers' Health
+SO INTERNATIONAL JOURNAL OF QUALITATIVE METHODS
+LA English
+DT Meeting Abstract
+C1 [Parry, Diana; Glover, Troy; Mulcahy, Caitlin] Univ Waterloo, Waterloo, ON N2L 3G1, Canada.
+C3 University of Waterloo
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 3
+PU UNIV ALBERTA, INT INST QUALITATIVE METHODOLOGY
+PI EDMONTON
+PA 5-217, EDMONTON CLINIC HEALTH ACAD, 11405 87 AVENUE, EDMONTON, AB T6G
+   1C9, CANADA
+SN 1609-4069
+J9 INT J QUAL METH
+JI Int. J. Qual. Meth.
+PY 2011
+VL 10
+IS 4
+BP 547
+EP 548
+PG 2
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA 059ZL
+UT WOS:000312744200162
+DA 2024-11-22
+ER

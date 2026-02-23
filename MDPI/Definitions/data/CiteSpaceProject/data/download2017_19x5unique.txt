@@ -1,0 +1,648 @@
+
+PT J
+AU DeLellis, P
+   DiMeglio, A
+   Garofalo, F
+   Lo Iudice, F
+AF DeLellis, Pietro
+   DiMeglio, Anna
+   Garofalo, Franco
+   Lo Iudice, Francesco
+TI The evolving cobweb of relations among partially rational investors
+SO PLOS ONE
+LA English
+DT Article
+ID COMPLEX NETWORKS; HERD BEHAVIOR; SOCIAL NETWORKS; MARKET; FLUCTUATIONS;
+   EVOLUTION; DYNAMICS; SYSTEMS; MODELS
+AB To overcome the limitations of neoclassical economics, researchers have leveraged tools of statistical physics to build novel theories. The idea was to elucidate the macroscopic features of financial markets from the interaction of its microscopic constituents, the investors. In this framework, the model of the financial agents has been kept separate from that of their interaction. Here, instead, we explore the possibility of letting the interaction topology emerge from the model of the agents' behavior. Then, we investigate how the emerging cobweb of relationship affects the overall market dynamics. To this aim, we leverage tools from complex systems analysis and nonlinear dynamics, and model the network of mutual influence as the output of a dynamical system describing the edge evolution. In this work, the driver of the link evolution is the relative reputation between possibly coupled agents. The reputation is built differently depending on the extent of rationality of the investors. The continuous edge activation or deactivation induces the emergence of leaders and of peculiar network structures, typical of real influence networks. The subsequent impact on the market dynamics is investigated through extensive numerical simulations in selected scenarios populated by partially rational investors.
+C1 [DeLellis, Pietro; DiMeglio, Anna; Garofalo, Franco; Lo Iudice, Francesco] Univ Naples Federico II, Dept Elect Engn & Informat Technol, Naples, Italy.
+C3 University of Naples Federico II
+RP DeLellis, P (corresponding author), Univ Naples Federico II, Dept Elect Engn & Informat Technol, Naples, Italy.
+EM pietro.delellis@unina.it
+RI DE LELLIS, Pietro/N-3928-2019; Garofalo, Franco/J-7666-2013; DE LELLIS,
+   Pietro/F-8614-2016
+OI DE LELLIS, Pietro/0000-0002-2656-6454
+CR [Anonymous], 2003, European Financial Management, vol, DOI DOI 10.1111/1468-036X.00207
+   [Anonymous], PHYS REV E
+   Arthur WB, 1999, SCIENCE, V284, P107, DOI 10.1126/science.284.5411.107
+   Batista JD, 2015, EUR PHYS J B, V88, DOI 10.1140/epjb/e2015-50645-1
+   Bentley RA, 2014, EVOL HUM BEHAV, V35, P257, DOI 10.1016/j.evolhumbehav.2014.02.001
+   Bentley RA, 2011, BEHAV ECOL SOCIOBIOL, V65, P537, DOI 10.1007/s00265-010-1102-1
+   Bianconi G, 2001, EUROPHYS LETT, V54, P436, DOI 10.1209/epl/i2001-00260-6
+   Boccaletti S, 2006, PHYS REP, V424, P175, DOI 10.1016/j.physrep.2005.10.009
+   Bonabeau E, 2002, P NATL ACAD SCI USA, V99, P7280, DOI 10.1073/pnas.082080899
+   Bonanno G, 2004, EUR PHYS J B, V38, P363, DOI 10.1140/epjb/e2004-00129-6
+   Brennan TJ, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0050310
+   Castellano C, 2009, REV MOD PHYS, V81, P591, DOI 10.1103/RevModPhys.81.591
+   Chakraborti A, 2011, QUANT FINANC, V11, P1013, DOI 10.1080/14697688.2010.539249
+   Cont R, 2000, MACROECON DYN, V4, P170
+   Curty P, 2006, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2006/03/P03013
+   DeLellis P, 2015, NEW J PHYS, V17, DOI 10.1088/1367-2630/17/8/083003
+   DeLellis P, 2010, APPL MATH COMPUT, V217, P988, DOI 10.1016/j.amc.2010.01.126
+   DeLellis P, 2010, IEEE T CIRCUITS-I, V57, P2132, DOI 10.1109/TCSI.2009.2037393
+   DeLellis P, 2010, IEEE CIRC SYST MAG, V10, P64, DOI 10.1109/MCAS.2010.937884
+   DUNBAR RIM, 1992, J HUM EVOL, V22, P469, DOI 10.1016/0047-2484(92)90081-J
+   Eguíluz VM, 2000, PHYS REV LETT, V85, P5659, DOI 10.1103/PhysRevLett.85.5659
+   ERDOS P, 1960, B INT STATIST INST, V38, P343
+   Estrada E, 2006, EUR PHYS J B, V52, P563, DOI 10.1140/epjb/e2006-00330-7
+   Farmer JD, 2012, EUR PHYS J-SPEC TOP, V214, P295, DOI 10.1140/epjst/e2012-01696-9
+   Farmer JD, 2009, NATURE, V460, P685, DOI 10.1038/460685a
+   Fu F, 2008, PHYS REV E, V78, DOI 10.1103/PhysRevE.78.016104
+   Galbiati M, 2013, NAT PHYS, V9, P126, DOI 10.1038/nphys2581
+   Galbiati M, 2011, J ECON DYN CONTROL, V35, P859, DOI 10.1016/j.jedc.2010.11.001
+   Gilbert N.G., 2008, AGENT BASED MODELS
+   Gini C., 1921, ECON J, V31, P124, DOI [10.2307/2223319, DOI 10.2307/2223319]
+   Hall R.E., 1995, The flat tax, V423
+   Hanke M, 2010, J ECON BEHAV ORGAN, V74, P58, DOI 10.1016/j.jebo.2010.02.004
+   Holme P, 2006, PHYS REV E, V74, DOI 10.1103/PhysRevE.74.056108
+   Holme P, 2015, EUR PHYS J B, V88, DOI 10.1140/epjb/e2015-60657-4
+   Holme P, 2014, SCI REP-UK, V4, DOI 10.1038/srep04999
+   Hommes C. H., 2001, Quantitative Finance, V1, P149, DOI 10.1088/1469-7688/1/1/311
+   KAHNEMAN D, 1979, ECONOMETRICA, V47, P263, DOI 10.2307/1914185
+   Khashanah K, 2016, COMPLEXITY, V21, P530, DOI 10.1002/cplx.21834
+   Lebaron B, 2006, HANDB ECON, V13, P1187
+   Lux T, 1999, NATURE, V397, P498, DOI 10.1038/17290
+   Miritello G, 2013, SCI REP-UK, V3, DOI 10.1038/srep01950
+   Muchnik L, 2013, SCIENCE, V341, P647, DOI 10.1126/science.1240466
+   PALMER RG, 1994, PHYSICA D, V75, P264, DOI 10.1016/0167-2789(94)90287-9
+   Pan YJ, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0094998
+   Pincus S, 2004, P NATL ACAD SCI USA, V101, P13709, DOI 10.1073/pnas.0405168101
+   Raberto M, 2001, PHYSICA A, V299, P319, DOI 10.1016/S0378-4371(01)00312-0
+   Rivera MT, 2010, ANNU REV SOCIOL, V36, P91, DOI 10.1146/annurev.soc.34.040507.134743
+   Samanidou E, 2007, REP PROG PHYS, V70, P409, DOI 10.1088/0034-4885/70/3/R03
+   Saramäki J, 2015, EUR PHYS J B, V88, DOI [10.1140/epjb/e2015-60106-6, 10.1140/epjb/e2015-60660-9]
+   Schleussner C.-F., 2016, Scientific Reports, V6, P1, DOI DOI 10.1038/SREP30790
+   Schweitzer F, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.026113
+   Shiller RJ, 2003, J ECON PERSPECT, V17, P83, DOI 10.1257/089533003321164967
+   Singer HM, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.026113
+   Stanley HE, 1996, PHYSICA A, V224, P302, DOI 10.1016/0378-4371(95)00409-2
+   Tesfatsion L, 2003, INFORM SCIENCES, V149, P263, DOI 10.1016/S0020-0255(02)00280-3
+   Tóth B, 2011, PHYS REV X, V1, DOI 10.1103/PhysRevX.1.021006
+   TVERSKY A, 1974, SCIENCE, V185, P1124, DOI 10.1126/science.185.4157.1124
+   Uchida H, 2007, J FINANC INTERMED, V16, P555, DOI 10.1016/j.jfi.2007.03.007
+   Voit J., 2005, The Statistical Mechanics of Financial Markets
+   Zimmermann MG, 2005, PHYS REV E, V72, DOI 10.1103/PhysRevE.72.056118
+NR 60
+TC 15
+Z9 15
+U1 0
+U2 7
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD FEB 14
+PY 2017
+VL 12
+IS 2
+AR e0171891
+DI 10.1371/journal.pone.0171891
+PG 21
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA EL2BA
+UT WOS:000394423900037
+PM 28196144
+OA Green Published, Green Submitted, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Farci, M
+   Rossi, L
+   Artieri, GB
+   Giglietto, F
+AF Farci, Manolo
+   Rossi, Luca
+   Artieri, Giovanni Boccia
+   Giglietto, Fabio
+TI Networked intimacy. Intimacy and friendship among Italian Facebook users
+SO INFORMATION COMMUNICATION & SOCIETY
+LA English
+DT Article
+DE Facebook; intimacy; self-disclosure; social network
+ID COMPUTER-MEDIATED COMMUNICATION; SELF-DISCLOSURE; SOCIAL MEDIA; ONLINE;
+   SITES; MAINTENANCE; VALIDATION; BENEFITS
+AB In this paper, we describe the results of a qualitative study conducted with 120 Italian Facebook users to investigate how Facebook enables people to achieve a mutually constitutive intimacy with their own friendship network: a negotiation of intimacy in public through self-disclosure, where the affordances of the platform are useful to elicit significant reactions, validations and demonstrations of affection from others. We observed that, in order to achieve various levels of intimacy on Facebook, people engage in various strategies: Showing rather than telling, Sharing implicit content, Tagging, Expectation of mutual understanding and Liking. These strategies produce a collaborative disclosure that relies on others' cooperation to maintain the boundaries between private and public space. Based on these premises, we developed a framework of collaborative strategies for managing public intimacy that both systematizes and extends the findings identified in previous studies of intimacy on Facebook. We describe this framework as networked intimacy and we discuss the consequences of it in the light of already existing research on online self-disclosure.
+C1 [Farci, Manolo; Artieri, Giovanni Boccia; Giglietto, Fabio] Univ Urbino Carlo Bo, Dept Commun Sci Humanities & Int Studies, Urbino, Italy.
+   [Rossi, Luca] IT Univ Copenhagen, Dept Commun Sci Humanities & Int Studies, Copenhagen, Denmark.
+C3 University of Urbino; IT University Copenhagen
+RP Farci, M (corresponding author), Univ Urbino Carlo Bo, Dept Commun Sci Humanities & Int Studies, Urbino, Italy.
+EM manolo.farci@uniurb.it
+RI ; Boccia Artieri, Giovanni/N-6812-2016; Giglietto, Fabio/A-3940-2012
+OI Rossi, Luca/0000-0002-3629-2039; Boccia Artieri,
+   Giovanni/0000-0002-1398-7823; Giglietto, Fabio/0000-0001-8019-1035
+FU Ministero dell'Istruzione, dell'Universita e della Ricerca [PRIN]
+   [2009SRXSW5]
+FX This work was supported by Ministero dell'Istruzione, dell'Universita e
+   della Ricerca [PRIN 2009SRXSW5].
+CR [Anonymous], GEFUHLE ZEITEN KAPIT
+   [Anonymous], INTIMACY FRIENDSHIP
+   [Anonymous], 2 FAM SOC CAP ESRC
+   [Anonymous], P 4 ANN GRASP S WICH
+   [Anonymous], GALASSIA FACEBOOK CO
+   [Anonymous], NETWORK CASE CRITIQU
+   [Anonymous], 2012, Stati di connessione. Pubblici, cittadini e consumatori nella (Social) Network Society
+   [Anonymous], 2011, SOCIAL NETWORKINGSIT
+   [Anonymous], STATUS UPDATE CELEBR
+   [Anonymous], P CSCW ACM HANGZH CH
+   [Anonymous], MEDIA STUDIES
+   [Anonymous], INT COMM ASS BOST MA
+   [Anonymous], LINK MONO RIPARTIRE
+   [Anonymous], 2009, J PSYCHOSOCIAL RES C
+   [Anonymous], 2009, Kentucky Journal of Communication
+   [Anonymous], 2001, HACHETTE LITTERATURE
+   [Anonymous], CONSUMP MARK CULT
+   [Anonymous], ANN M INT COMM ASS S
+   [Anonymous], P 44 ANN HAW INT C S
+   Archer J.L., 1980, SELF SOCIAL PSYCHOL, P183
+   Attrill A, 2011, COMPUT HUM BEHAV, V27, P1634, DOI 10.1016/j.chb.2011.02.001
+   Bauman Z., 2007, CONSUMING LIFE, V1st
+   Baym, 2015, PERSONAL CONNECTIONS
+   Bazarova NN, 2014, J COMMUN, V64, P635, DOI 10.1111/jcom.12106
+   Bazarova NN, 2012, J COMMUN, V62, P815, DOI 10.1111/j.1460-2466.2012.01664.x
+   Boyd d., 2011, NETWORKED SELF IDENT, P39, DOI DOI 10.4324/9780203876527
+   Boyd DM, 2007, J COMPUT-MEDIAT COMM, V13, P210, DOI 10.1111/j.1083-6101.2007.00393.x
+   Bryant EM, 2012, J SOC PERS RELAT, V29, P1013, DOI 10.1177/0265407512443616
+   Bucher T, 2013, TELEV NEW MEDIA, V14, P479, DOI 10.1177/1527476412452800
+   Burke M, 2011, 29TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, P571
+   Chambers D, 2013, PALGR MAC STUD FAM, P1, DOI 10.1057/9781137314444
+   Craig E, 2012, COMMUN RES REP, V29, P119, DOI 10.1080/08824096.2012.667777
+   CROW GP, 1995, TIME SOC, V4, P147, DOI 10.1177/0961463X95004002001
+   Derlega V.J., 1993, SELF DISCLOSURE
+   Ellison N., 2010, The networked self: Identity, community and culture on social network sites, P124
+   Ellison N.B., 2013, SOCIALITY SOCIAL NET, DOI [10.1093/oxfordhb/9780199589074.001.0001, 10.1093/oxfordhb/9780199589074.013.0008, DOI 10.1093/OXFORDHB/9780199589074.013.0008]
+   Ellison NB, 2007, J COMPUT-MEDIAT COMM, V12, P1143, DOI 10.1111/j.1083-6101.2007.00367.x
+   Ellison NB, 2011, NEW MEDIA SOC, V13, P873, DOI 10.1177/1461444810385389
+   Enli G.S., 2012, Observatorio (OBS*), V6, P87
+   Furedi Frank., 2004, THERAPY CULTURE CULT
+   Giddens Anthony., 1992, The Transformation of Intimacy: Sexuality, Love and Eroticism in Modern Societies
+   Hand M., 2012, Ubiquitous Photography, Digital Media and Society Series
+   Haythornthwaite C., 2005, Information Communication & Society, V8, P125, DOI 10.1080/13691180500146185
+   Henderson S, 2004, NEW MEDIA SOC, V6, P487, DOI 10.1177/146144804044331
+   Hogan B., 2010, B SCI TECHNOL SOC, V30, P377, DOI DOI 10.1177/0270467610385893
+   Hollenbaugh EE, 2014, COMPUT HUM BEHAV, V30, P50, DOI 10.1016/j.chb.2013.07.055
+   Hu Y., 2004, J COMPUT-MEDIAT COMM, V10, P38, DOI [DOI 10.1111/J.1083-6101.2004.TB00231.X, 10.1111/j.1083-6101.2004.tb00231.x]
+   Ito M, 2005, KIS CO SUP COOP WORK, V4, P127
+   JAMIESON Lynn., 1988, INTIMACY PERSONAL RE
+   Jiang LC, 2011, HUM COMMUN RES, V37, P58, DOI 10.1111/j.1468-2958.2010.01393.x
+   Joinson AN, 2008, CHI 2008: 26TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS VOLS 1 AND 2, CONFERENCE PROCEEDINGS, P1027
+   Joinson AN, 2001, EUR J SOC PSYCHOL, V31, P177, DOI 10.1002/ejsp.36
+   Keen Andrew., 2012, Digital Vertigo: How Today's Online Social Revolution is Dividing, Diminishing, and Disorienting Us
+   Lampe C., 2006, P 2006 20 ANN C COMP, P167, DOI [10.1145/1180875.1180901, DOI 10.1145/1180875.1180901]
+   Lampe C, 2007, CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, VOLS 1 AND 2, P435
+   Lampinen A, 2011, 29TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, P3217
+   Lasch Christopher., 1979, CULTURE NARCISSISM A
+   Lasen A., 2015, Mobile and digital communication: Approaches to public and private, P61
+   Ledbetter AM, 2011, COMMUN RES, V38, P27, DOI 10.1177/0093650210365537
+   Livingstone S, 2008, NEW MEDIA SOC, V10, P393, DOI 10.1177/1461444808089415
+   Mansson DH, 2011, SOUTH COMMUN J, V76, P155, DOI 10.1080/10417940903317710
+   Marshall PD, 2010, CELEBR STUD, V1, P35, DOI 10.1080/19392390903519057
+   Matsuda M, 2005, PERSONAL, PORTABLE, PEDESTRIAN: MOBILE PHONES IN JAPANESE LIFE, P123
+   Mazer JP, 2007, COMMUN EDUC, V56, P1, DOI 10.1080/03634520601009710
+   McEwan B, 2014, COMMUN METHODS MEAS, V8, P244, DOI 10.1080/19312458.2014.967844
+   McEwan B, 2013, CYBERPSYCH BEH SOC N, V16, P863, DOI 10.1089/cyber.2012.0717
+   Mendelson A.L., 2011, A networked self: Identity, community, and culture on social network sites, P251
+   Miguel C, 2016, SOC MEDIA SOC, V2, DOI 10.1177/2056305116641705
+   Oolo Egle., 2013, Cyberpsychology: Journal of Psychosocial Research on Cyberspace, V7
+   Pahl R., 1997, Renewal, V5, P100
+   Park N, 2011, COMPUT HUM BEHAV, V27, P1974, DOI 10.1016/j.chb.2011.05.004
+   Petronio S., 2002, Boundaries of Privacy: Dialectics of Disclosure
+   Reis H.T., 1988, HDB PERSONAL RELATIO, P367
+   Rooney V, 2014, BEHAV INFORM TECHNOL, V33, P882, DOI 10.1080/0144929X.2013.791722
+   Rosen C., 2007, The New Atlantis, P13
+   Sennett Richard, 1986, The Fall of Public Man
+   Shklovski I, 2015, PROCEEDINGS OF THE 2015 ACM INTERNATIONAL CONFERENCE ON COMPUTER-SUPPORTED COOPERATIVE WORK AND SOCIAL COMPUTING (CSCW'15), P1477, DOI 10.1145/2675133.2675294
+   Simmel G., 1950, SOCIOLOGY G SIMMEL
+   Steinfield C, 2008, J APPL DEV PSYCHOL, V29, P434, DOI 10.1016/j.appdev.2008.07.002
+   Strauss A., 2015, Basics of qualitative research techniques: Techniques and procedures for developing grounded theory, V4th
+   Subrahmanyam K, 2008, J APPL DEV PSYCHOL, V29, P420, DOI 10.1016/j.appdev.2008.07.003
+   Thompson Clive., 2008, The New York Times
+   Tidwell LC, 2002, HUM COMMUN RES, V28, P317, DOI 10.1111/j.1468-2958.2002.tb00811.x
+   Tong S., 2011, COMPUTER MEDIATED CO, P98
+   Tufekci Z, 2008, Bulletin of Science, Technology Society, V28, P20, DOI DOI 10.1177/0270467607311484
+   Turkle S., 2011, Alone Together: Why we Expect More from Technology and Less from Each Other, P360
+   Valkenburg PM, 2007, DEV PSYCHOL, V43, P267, DOI 10.1037/0012-1649.43.2.267
+   Vitak J, 2013, NEW MEDIA SOC, V15, P243, DOI 10.1177/1461444812451566
+   Walther J.B., 2002, The Handbook of Interpersonal Communication, V3, P529, DOI DOI 10.1177/0893318916687397
+   Walther JB, 2008, COMMUN RES, V35, P622, DOI 10.1177/0093650208321783
+   Weiqin EL, 2016, J EDUC COMPUT RES, V54, P747, DOI 10.1177/0735633116631886
+   Wilkinson J, 2010, SOCIOLOGY, V44, P453, DOI 10.1177/0038038510362484
+   Wittkower D. E., 2014, First Monday, V19, P92, DOI 10.5210/fm.v19i4.4858
+   Zhao SY, 2008, COMPUT HUM BEHAV, V24, P1816, DOI 10.1016/j.chb.2008.02.012
+NR 94
+TC 14
+Z9 18
+U1 4
+U2 36
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1369-118X
+EI 1468-4462
+J9 INFORM COMMUN SOC
+JI Info. Commun. Soc.
+PY 2017
+VL 20
+IS 5
+BP 784
+EP 801
+DI 10.1080/1369118X.2016.1203970
+PG 18
+WC Communication; Sociology
+WE Social Science Citation Index (SSCI)
+SC Communication; Sociology
+GA EO6UJ
+UT WOS:000396827700010
+OA Green Submitted, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Hu, HB
+   Li, CH
+   Miao, QY
+AF Hu, Hai-Bo
+   Li, Cang-Hai
+   Miao, Qing-Ying
+TI OPINION DIFFUSION ON MULTILAYER SOCIAL NETWORKS
+SO ADVANCES IN COMPLEX SYSTEMS
+LA English
+DT Article
+DE Opinion diffusion; multilayer network; DeGroot model; stubborn agent
+ID SPREADING PROCESSES; PERSUASION BIAS; DYNAMICS; CONSENSUS; SCIENCE;
+   WISDOM; SPEED; MODEL
+AB In this paper, to reveal the influence of multilayer network structure on opinion diffusion in social networks, we study an opinion dynamics model based on DeGroot model on multilayer networks. We find that if the influence matrix integrating the information of connectedness for each layer and correlation between layers is strongly connected and aperiodic, all agents' opinions will reach a consensus. However, if there are stubborn agents in the networks, regular agents' opinions will finally be confined to the convex combinations of the stubborn agents'. Specifically, if all stubborn agents hold the same opinion, even if the agents only exist on a certain layer, their opinions will diffuse to the entire multilayer networks. This paper not only characterizes the influence of multilayer network topology and agent attribute on opinion diffusion in a holistic way, but also demonstrates the importance of coupling agents which play an indispensable role in some social and economic situations.
+C1 [Hu, Hai-Bo; Li, Cang-Hai] East China Univ Sci & Technol, Shanghai 200237, Peoples R China.
+   [Miao, Qing-Ying] Shanghai Jiao Tong Univ, Shanghai 200030, Peoples R China.
+C3 East China University of Science & Technology; Shanghai Jiao Tong
+   University
+RP Hu, HB (corresponding author), East China Univ Sci & Technol, Shanghai 200237, Peoples R China.
+EM hbhu@ecust.edu.cn
+RI hu, hai/LBH-4948-2024
+FU National Natural Science Foundation of China [61473119, 61304158,
+   61473189]; Fundamental Research Funds for the Central Universities
+   [WN1524301, 222201718006]
+FX We would like to thank anonymous referees for crucial comments and
+   suggestions that helped us to improve the quality of the paper to a
+   great extent. The study was partially supported by the National Natural
+   Science Foundation of China (Grant Nos. 61473119, 61304158 and 61473189)
+   and the Fundamental Research Funds for the Central Universities (Grant
+   Nos. WN1524301 and 222201718006).
+CR Acemoglu D, 2013, MATH OPER RES, V38, P1, DOI 10.1287/moor.1120.0570
+   Alvarez-Galvez J, 2016, SOC SCI COMPUT REV, V34, P567, DOI 10.1177/0894439315605607
+   [Anonymous], MULTILAYER SOCIAL NE
+   Banerjee A, 2013, SCIENCE, V341, P363, DOI 10.1126/science.1236498
+   Barabási AL, 2016, NETWORK SCIENCE, P1
+   Blondel VD, 2009, IEEE T AUTOMAT CONTR, V54, P2586, DOI 10.1109/TAC.2009.2031211
+   Boccaletti S, 2014, PHYS REP, V544, P1, DOI 10.1016/j.physrep.2014.07.001
+   Boyd S, 2006, IEEE T INFORM THEORY, V52, P2508, DOI 10.1109/TIT.2006.874516
+   Buechel B, 2015, J ECON DYN CONTROL, V52, P240, DOI 10.1016/j.jedc.2014.12.006
+   Buono C, 2015, EPL-EUROPHYS LETT, V109, DOI 10.1209/0295-5075/109/26001
+   Ceragioli F, 2012, NONLINEAR ANAL-REAL, V13, P1239, DOI 10.1016/j.nonrwa.2011.10.002
+   Corazzini L, 2012, EUR ECON REV, V56, P1276, DOI 10.1016/j.euroecorev.2012.05.005
+   Dandekar P, 2013, P NATL ACAD SCI USA, V110, P5791, DOI 10.1073/pnas.1217220110
+   De Domenico M, 2016, NAT PHYS, V12, P901, DOI 10.1038/nphys3865
+   De Domenico M, 2015, PHYS REV X, V5, DOI 10.1103/PhysRevX.5.011027
+   De Domenico M, 2014, P NATL ACAD SCI USA, V111, P8351, DOI 10.1073/pnas.1318469111
+   Deffuant G, 2000, APPLICATIONS OF SIMULATION TO SOCIAL SCIENCES, P87, DOI 10.1142/S0219525900000078
+   DEGROOT MH, 1974, J AM STAT ASSOC, V69, P118, DOI 10.2307/2285509
+   DeMarzo PM, 2003, Q J ECON, V118, P909, DOI 10.1162/00335530360698469
+   Diakonova M, 2016, NEW J PHYS, V18, DOI 10.1088/1367-2630/18/2/023010
+   Diakonova M, 2014, PHYS REV E, V89, DOI 10.1103/PhysRevE.89.062818
+   Frasca P., 2013, IFAC Proceedings Volumes, V46, P212, DOI [10.3182/20130925-2-DE-4044.00024, DOI 10.3182/20130925-2-DE-4044.00024]
+   FRENCH JRP, 1956, PSYCHOL REV, V63, P181, DOI 10.1037/h0046123
+   Friedkin NE, 1999, ADV GROUP, V16, P1
+   Friedkin NE, 2016, SCIENCE, V354, P321, DOI 10.1126/science.aag2624
+   Friedkin NE, 2015, IEEE CONTR SYST MAG, V35, P40, DOI 10.1109/MCS.2015.2406655
+   Golub B, 2012, Q J ECON, V127, P1287, DOI 10.1093/qje/qjs021
+   Golub B, 2010, AM ECON J-MICROECON, V2, P112, DOI 10.1257/mic.2.1.112
+   Granell C, 2014, PHYS REV E, V90, DOI 10.1103/PhysRevE.90.012808
+   Harary F, 1959, Studies in Social Power, P168
+   Hegselmann R, 2002, JASSS-J ARTIF SOC S, V5
+   Hu HB, 2012, ADV COMPLEX SYST, V15, DOI 10.1142/S0219525912500300
+   Hu HB, 2009, J PHYS A-MATH THEOR, V42, DOI 10.1088/1751-8113/42/22/225005
+   Hu HB, 2017, J ECON INTERACT COOR, V12, P393, DOI 10.1007/s11403-015-0170-8
+   Ishii H, 2014, IEEE CONTR SYST MAG, V34, P34, DOI 10.1109/MCS.2014.2308672
+   Kivela M, 2014, J COMPLEX NETW, V2, P203, DOI 10.1093/comnet/cnu016
+   Li L, 2013, IEEE J SEL AREA COMM, V31, P1072, DOI 10.1109/JSAC.2013.130609
+   Liu HL, 2016, ACTA PHYS SIN-CH ED, V65, DOI 10.7498/aps.65.158901
+   Magnani M., ARXIV13034986
+   Mahdizadehaghdam S, 2016, IEEE T SIGNAL INF PR, V2, P569, DOI 10.1109/TSIPN.2016.2618324
+   Mobilia M, 2007, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2007/08/P08029
+   Mobius M, 2015, W21014 NBER
+   Morales AJ, 2015, CHAOS, V25, DOI 10.1063/1.4913758
+   Olshevsky A, 2011, SIAM REV, V53, P747, DOI 10.1137/110837462
+   Sahneh FD, 2014, PHYS REV E, V89, DOI 10.1103/PhysRevE.89.062817
+   Sahneh FD, 2013, IEEE ACM T NETWORK, V21, P1609, DOI 10.1109/TNET.2013.2239658
+   Salehi M, 2015, IEEE T NETW SCI ENG, V2, P65, DOI 10.1109/TNSE.2015.2425961
+   Shi GD, 2016, OPER RES, V64, P585, DOI 10.1287/opre.2015.1448
+   Shi GD, 2013, IEEE J SEL AREA COMM, V31, P1061, DOI 10.1109/JSAC.2013.130608
+   Turalska M, 2013, SCI REP-UK, V3, DOI 10.1038/srep01371
+   Visheratin AA, 2017, J COMPUT SCI-NETH, V20, P129, DOI 10.1016/j.jocs.2017.02.002
+   Wei XT, 2013, IEEE J SEL AREA COMM, V31, P1049, DOI 10.1109/JSAC.2013.130607
+   Wolfers J, 2004, J ECON PERSPECT, V18, P107, DOI 10.1257/0895330041371321
+   Yagan O, 2013, IEEE J SEL AREA COMM, V31, P1038, DOI 10.1109/JSAC.2013.130606
+   Yildiz E., 2013, ACM T ECON COMPUT, V1, P1, DOI DOI 10.1145/2538508
+   Zhong LX, 2016, PHYSICA A, V458, P95, DOI 10.1016/j.physa.2016.03.089
+   Zhuang Y, 2016, IEEE T NETW SCI ENG, V3, P211, DOI 10.1109/TNSE.2016.2600059
+NR 57
+TC 6
+Z9 6
+U1 2
+U2 63
+PU WORLD SCIENTIFIC PUBL CO PTE LTD
+PI SINGAPORE
+PA 5 TOH TUCK LINK, SINGAPORE 596224, SINGAPORE
+SN 0219-5259
+EI 1793-6802
+J9 ADV COMPLEX SYST
+JI Adv. Complex Syst.
+PD SEP-NOV
+PY 2017
+VL 20
+IS 6-7
+AR 1750015
+DI 10.1142/S0219525917500151
+PG 25
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Science & Technology - Other Topics
+GA FQ1AU
+UT WOS:000418089300003
+DA 2024-11-22
+ER
+
+PT J
+AU Fedurek, P
+   Lehmann, J
+AF Fedurek, Piotr
+   Lehmann, Julia
+TI The effect of excluding juveniles on apparent adult olive baboons
+   (<i>Papio anubis</i>) social networks
+SO PLOS ONE
+LA English
+DT Article
+ID FEMALE BABOONS; SAVANNA BABOONS; AGONISTIC INTERACTIONS;
+   SEX-DIFFERENCES; RANK; BEHAVIOR; BONDS; TRANSMISSION; ACQUISITION;
+   DOMINANCE
+AB In recent years there has been much interest in investigating the social structure of group living animals using social network analysis. Many studies so far have focused on the social networks of adults, often excluding younger, immature group members. This potentially may lead to a biased view of group social structure as multiple recent studies have shown that younger group members can significantly contribute to group structure. As proof of the concept, we address this issue by investigating social network structure with and without juveniles in wild olive baboons (Papio anubis) at Gashaka Gumti National Park, Nigeria. Two social networks including all independently moving individuals (i.e., excluding dependent juveniles) were created based on aggressive and grooming behaviour. We used knockout simulations based on the random removal of individuals from the network in order to investigate to what extent the exclusion of juveniles affects the resulting network structure and our interpretation of age-sex specific social roles. We found that juvenile social patterns differed from those of adults and that the exclusion of juveniles from the network significantly altered the resulting overall network structure. Moreover, the removal of juveniles from the network affected individuals in specific age-sex classes differently: for example, including juveniles in the grooming network increased network centrality of adult females while decreasing centrality of adult males. These results suggest that excluding juveniles from the analysis may not only result in a distorted picture of the overall social structure but also may mask some of the social roles of individuals belonging to different age-sex classes.
+C1 [Fedurek, Piotr; Lehmann, Julia] Univ Roehampton, Dept Life Sci, London, England.
+C3 Roehampton University
+RP Fedurek, P (corresponding author), Univ Roehampton, Dept Life Sci, London, England.
+EM fedurekpiotr@yahoo.co.uk
+OI Lehmann, Julia/0000-0001-7278-1705
+CR Abell J, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0082541
+   ALTMANN J, 1974, BEHAVIOUR, V49, P227, DOI 10.1163/156853974X00534
+   [Anonymous], 2011, CHOOSING USING STAT
+   [Anonymous], THESIS
+   [Anonymous], INTRO BIPARTITE PACK
+   [Anonymous], THESIS
+   [Anonymous], P R SOC LOND B
+   [Anonymous], BEHAV ECOL
+   [Anonymous], 2013, PRIMATE SOCIAL SYSTE
+   [Anonymous], 2009, THESIS
+   [Anonymous], 2012, combinat: Combinatorics utilities
+   [Anonymous], EXPLORING ANIMAL SOC
+   [Anonymous], BIOL SCI
+   Arnold ME, 2004, PREV VET MED, V66, P35, DOI 10.1016/j.prevetmed.2004.07.007
+   Barrat A, 2004, P NATL ACAD SCI USA, V101, P3747, DOI 10.1073/pnas.0400087101
+   Barrett L, 2002, ANIM BEHAV, V63, P1047, DOI 10.1006/anbe.2002.3008
+   Barrett L, 2012, PHILOS T R SOC B, V367, P2108, DOI 10.1098/rstb.2012.0113
+   BERNSTEIN IS, 1993, AM J PRIMATOL, V31, P197, DOI 10.1002/ajp.1350310305
+   Brent LJN, 2015, CURR BIOL, V25, P746, DOI 10.1016/j.cub.2015.01.037
+   Brent LJN, 2013, BEHAV ECOL SOCIOBIOL, V67, P349, DOI 10.1007/s00265-012-1455-8
+   Brent LJN, 2011, AM J PRIMATOL, V73, P720, DOI 10.1002/ajp.20949
+   Bret C, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0083015
+   Buchan JC, 2003, NATURE, V425, P179, DOI 10.1038/nature01866
+   Cameron EZ, 2009, P NATL ACAD SCI USA, V106, P13850, DOI 10.1073/pnas.0900639106
+   Carne C, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0095039
+   CHENEY DL, 1977, BEHAV ECOL SOCIOBIOL, V2, P303, DOI 10.1007/BF00299742
+   CHENEY DL, 1978, ANIM BEHAV, V26, P389, DOI 10.1016/0003-3472(78)90057-X
+   CHENEY DL, 1978, ANIM BEHAV, V26, P1038, DOI 10.1016/0003-3472(78)90093-3
+   CHISM JB, 1986, ETHOLOGY, V72, P31
+   Croft DP, 2011, TRENDS ECOL EVOL, V26, P502, DOI 10.1016/j.tree.2011.05.012
+   Cross PC, 2004, ANN ZOOL FENN, V41, P879
+   Csardi Gabor NT., 2005, INT J COMPLEX SYST, V2006, P1695, DOI DOI 10.3724/SP.J.1087.2009.02191
+   Duboscq J, 2016, SCI REP-UK, V6, DOI 10.1038/srep22095
+   Flack JC, 2006, NATURE, V439, P426, DOI 10.1038/nature04326
+   Flack JC, 2005, AM NAT, V165, pE126, DOI 10.1086/429277
+   Franz M, 2015, CURR ZOOL, V61, P107, DOI 10.1093/czoolo/61.1.107
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   González-Hernández M, 2014, INT J PRIMATOL, V35, P445, DOI 10.1007/s10764-014-9751-y
+   Hamede RK, 2009, ECOL LETT, V12, P1147, DOI 10.1111/j.1461-0248.2009.01370.x
+   HARRIS S, 1992, ANIM BEHAV, V44, P1085, DOI 10.1016/S0003-3472(05)80320-3
+   HARVEY PH, 1985, EVOLUTION, V39, P559, DOI 10.1111/j.1558-5646.1985.tb00395.x
+   Higham JP, 2009, AM J PRIMATOL, V71, P293, DOI 10.1002/ajp.20651
+   HILL DA, 1986, PRIMATES, V27, P425, DOI 10.1007/BF02381888
+   Hirsch BT, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0037301
+   Horrocks Julia A., 1993, P228
+   JOHNSON JA, 1987, ANIM BEHAV, V35, P1694, DOI 10.1016/S0003-3472(87)80062-3
+   Kanngiesser P, 2011, AM J PRIMATOL, V73, P758, DOI 10.1002/ajp.20914
+   Kasper C, 2009, PRIMATES, V50, P343, DOI 10.1007/s10329-009-0153-2
+   Kawai M., 1958, PRIMATES, V1, P111, DOI [DOI 10.1007/BF01813699, 10.1007/BF01813699]
+   Keeling MJ, 2005, J R SOC INTERFACE, V2, P295, DOI 10.1098/rsif.2005.0051
+   Kembel SW, 2010, BIOINFORMATICS, V26, P1463, DOI 10.1093/bioinformatics/btq166
+   Kutsukake N, 2006, ANIM BEHAV, V72, P1059, DOI 10.1016/j.anbehav.2006.02.016
+   LEE PC, 1979, ANIM BEHAV, V27, P576, DOI 10.1016/0003-3472(79)90193-3
+   Lehmann J, 2007, ANIM BEHAV, V74, P1617, DOI 10.1016/j.anbehav.2006.10.025
+   Lehmann J, 2016, BEHAV ECOL, V27, P20, DOI 10.1093/beheco/arv169
+   Lehmann J, 2011, AM J PRIMATOL, V73, P775, DOI 10.1002/ajp.20967
+   Lusseau D, 2003, P ROY SOC B-BIOL SCI, V270, pS186, DOI 10.1098/rsbl.2003.0057
+   Lusseau D, 2004, P ROY SOC B-BIOL SCI, V271, pS477, DOI 10.1098/rsbl.2004.0225
+   MacIntosh AJJ, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0051144
+   McComb K, 2001, SCIENCE, V292, P491, DOI 10.1126/science.1057895
+   McFarland R, 2013, BIOL LETTERS, V9, DOI 10.1098/rsbl.2013.0428
+   Naug D, 2009, BEHAV ECOL SOCIOBIOL, V63, P1023, DOI 10.1007/s00265-009-0721-x
+   Nuñez CMV, 2015, BEHAV ECOL, V26, P138, DOI 10.1093/beheco/aru163
+   Opsahl T, 2010, SOC NETWORKS, V32, P245, DOI 10.1016/j.socnet.2010.03.006
+   Opsahl T, 2009, SOC NETWORKS, V31, P155, DOI 10.1016/j.socnet.2009.02.002
+   Parr NA, 2013, INT J PRIMATOL, V34, P1137, DOI 10.1007/s10764-013-9728-2
+   PEREIRA ME, 1989, ETHOLOGY, V80, P152
+   PEREIRA ME, 1988, ETHOLOGY, V79, P195, DOI 10.1111/j.1439-0310.1988.tb00711.x
+   Pereira Michael E., 1993, P3
+   R Development Core Team, 2015, R LANG ENV STAT COMP
+   Ramos-Fernández G, 2009, BEHAV ECOL SOCIOBIOL, V63, P999, DOI 10.1007/s00265-009-0719-4
+   Rimbach R, 2015, PHILOS T R SOC B, V370, DOI 10.1098/rstb.2014.0110
+   Rothenberg RB, 1998, AIDS, V12, P1529, DOI 10.1097/00002030-199812000-00016
+   Rubenstein Daniel I., 2007, Erforschung Biologischer Ressourcen der Mongolei, V10, P159
+   Schaffner CM, 2012, PRIMATES, V53, P49, DOI 10.1007/s10329-011-0271-5
+   SCHEIRER CJ, 1976, BIOMETRICS, V32, P429, DOI 10.2307/2529511
+   Schultz A. H., 1956, P887
+   SEYFARTH RM, 1976, ANIM BEHAV, V24, P917, DOI 10.1016/S0003-3472(76)80022-X
+   Sih A, 2009, BEHAV ECOL SOCIOBIOL, V63, P975, DOI 10.1007/s00265-009-0725-6
+   Silk JB, 2003, SCIENCE, V302, P1231, DOI 10.1126/science.1088580
+   Silk JB, 1999, BEHAVIOUR, V136, P679, DOI 10.1163/156853999501522
+   Silk JB, 2006, BEHAV ECOL SOCIOBIOL, V61, P183, DOI 10.1007/s00265-006-0249-2
+   Silk JB, 2010, BEHAV ECOL SOCIOBIOL, V64, P1733, DOI 10.1007/s00265-010-0986-0
+   Silk JB, 2010, CURR BIOL, V20, P1359, DOI 10.1016/j.cub.2010.05.067
+   Silk JB, 2009, P ROY SOC B-BIOL SCI, V276, P3099, DOI 10.1098/rspb.2009.0681
+   Silk MJ, 2015, ANIM BEHAV, V104, P1, DOI 10.1016/j.anbehav.2015.03.005
+   SIMONDS PE, 1974, ARCH SEX BEHAV, V3, P151, DOI 10.1007/BF01540999
+   Smuts Barbara., 1985, SEX FRIENDSHIP BABOO
+   Sommer V, 2011, DEV PRIMATOL-PROG PR, P1, DOI 10.1007/978-1-4419-7403-7
+   Stanton MA, 2011, ANIM BEHAV, V82, P405, DOI 10.1016/j.anbehav.2011.05.026
+   Sueur C, 2011, AM J PRIMATOL, V73, P703, DOI 10.1002/ajp.20915
+   Sundaresan SR, 2007, OECOLOGIA, V151, P140, DOI 10.1007/s00442-006-0553-6
+   Suomi SJ, 2005, HUM DEV, V48, P67, DOI 10.1159/000083216
+   Tiddi B, 2011, AM J PRIMATOL, V73, P812, DOI 10.1002/ajp.20939
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Wey TW, 2010, ANIM BEHAV, V79, P1343, DOI 10.1016/j.anbehav.2010.03.008
+   Williams R, 2006, BIOL LETTERS, V2, P497, DOI 10.1098/rsbl.2006.0510
+   Wittemyer G, 2005, ANIM BEHAV, V69, P1357, DOI 10.1016/j.anbehav.2004.08.018
+NR 99
+TC 25
+Z9 27
+U1 1
+U2 21
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD MAR 21
+PY 2017
+VL 12
+IS 3
+AR e0173146
+DI 10.1371/journal.pone.0173146
+PG 23
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA ER8RG
+UT WOS:000399089000015
+PM 28323851
+OA gold, Green Published, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Park, PS
+   Kim, YH
+AF Park, Patrick S.
+   Kim, Yong-hak
+TI Reciprocation under status ambiguity: How dominance motives and spread
+   of status value shape gift exchange
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Status ambiguity; Dominance; Gift exchange; Reciprocation; Competition
+ID SOCIAL-STRUCTURE; UNITED-STATES; NETWORKS; POWER; COMMITMENT; GENDER;
+   MODELS; TRUST
+AB How does status ambiguity affect reciprocation in gift exchange? We argue that actors in an exchange relationship delay reciprocation as a means of subtly claiming dominance when relative status is ambiguous. Using a two-step link-tracing sample of gift exchange dyads from an online social network site in the early days of social media, we analyze the probability of two-way exchange dyads and the timing of reciprocation while accounting for the nested and autocorrelated data structure. The results support the predicted inverted-U shape relationship between the hazard of reciprocation and status difference. This pattern is strongest when actors lack common foci of interaction from which relative status could be gauged accurately. In addition, a higher status individual tends to delay reciprocation longer than a lower-status individual, a finding consistent with the status competition explanation. (C) 2016 Elsevier B.V. All rights reserved.
+C1 [Park, Patrick S.] Cornell Univ, Dept Sociol, 323 Uris Hall, Ithaca, NY 14853 USA.
+   [Kim, Yong-hak] Yonsei Univ, Dept Sociol Widang, Hall 502,50 Yonsei Ro, Seoul 120749, South Korea.
+C3 Cornell University; Yonsei University
+RP Park, PS (corresponding author), Cornell Univ, Dept Sociol, 323 Uris Hall, Ithaca, NY 14853 USA.
+EM pp286@cornell.edu; yhakim@yonsei.ac.kr
+RI Park, Patrick/K-5021-2019; Park, Patrick/D-7881-2015
+OI Park, Patrick/0000-0003-3075-4519; Kim, Yong-Hak/0000-0002-4740-9300
+CR [Anonymous], 2008, CHI EA 08
+   [Anonymous], 2003, Collision of Wills: How Ambiguity about Social Rank Breeds Conflict, DOI DOI 10.7208/CHICAGO/9780226305516.001.0001
+   [Anonymous], 2006, MAEIL BUSINESS  0126
+   [Anonymous], 1999, CAN J SOCIOL
+   [Anonymous], 2011, SURVIVAL ANAL USING
+   [Anonymous], 2001, HIERARCHICAL LINEAR
+   [Anonymous], 1 MONDAY
+   [Anonymous], 2007, CYW US EXC 20 MILL
+   [Anonymous], 1990, GIFT FORM REASON EXC
+   Aral S, 2013, NETWORK SCI, V1, P1
+   Bakshy E., 2011, P 4 ACM INT C WEB SE, P65, DOI DOI 10.1145/1935826.1935845
+   Bearman P., 2005, Doormen
+   BERGER J, 1992, AM SOCIOL REV, V57, P843, DOI 10.2307/2096127
+   Berger J, 2006, AM J SOCIOL, V111, P1038, DOI 10.1086/498633
+   Berger Peter L., 1966, SOCIAL CONSTRUCTION
+   Bienenstock EJ, 2004, SOC PSYCHOL QUART, V67, P310, DOI 10.1177/019027250406700306
+   Blau P.M., 1964, EXCHANGE POWER SOC
+   Boyd DM, 2007, J COMPUT-MEDIAT COMM, V13, P210, DOI 10.1111/j.1083-6101.2007.00393.x
+   Cameron Deborah, 2005, THE AGE         0509
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   Cook K.S., 2007, COOPERATION TRUST
+   COOK KS, 1983, AM J SOCIOL, V89, P275, DOI 10.1086/227866
+   Faris R, 2011, AM SOCIOL REV, V76, P48, DOI 10.1177/0003122410396196
+   FELD SL, 1981, AM J SOCIOL, V86, P1015, DOI 10.1086/227352
+   Fisk Susan T., 2011, ENVY SCORN DOWN STAT
+   Foddy M, 1996, SOC PSYCHOL QUART, V59, P140, DOI 10.2307/2787048
+   Gay G, 2011, P 2011 ICONFERENCE A, P122, DOI DOI 10.1145/1940761.1940778
+   Goodreau SM, 2009, DEMOGRAPHY, V46, P103, DOI 10.1353/dem.0.0045
+   Gosling SD, 2011, CYBERPSYCH BEH SOC N, V14, P483, DOI 10.1089/cyber.2010.0087
+   Grannis R, 2010, AM J SOCIOL, V115, P991, DOI 10.1086/649059
+   GRANOVETTER M, 1985, AM J SOCIOL, V91, P481, DOI 10.1086/228311
+   Han S, 2008, PHYSICA A, V387, P5946, DOI 10.1016/j.physa.2008.06.053
+   Hjorth L., 2007, Asian Studies Review, V31, P397
+   Homans G.C., 1961, SOCIAL BEHAV
+   Jung T, 2007, CYBERPSYCHOL BEHAV, V10, P24, DOI 10.1089/cpb.2006.9996
+   KAHNEMAN D, 1990, J POLIT ECON, V98, P1325, DOI 10.1086/261737
+   KAHNEMAN D, 1979, ECONOMETRICA, V47, P263, DOI 10.2307/1914185
+   Kim Yong Hak, 2006, [Informatization Policy, 정보화정책], V13, P167
+   Kitts JA, 2014, ADV GROUP PROCESS, V31, P263, DOI 10.1108/S0882-614520140000031007
+   KOLLOCK P, 1994, AM J SOCIOL, V100, P313, DOI 10.1086/230539
+   Laumann E., 1983, Applied Network Analysis, P18
+   Lawler E., 2009, Social Commitments in a Depersonalized World
+   LEIFER EM, 1988, AM SOCIOL REV, V53, P865, DOI 10.2307/2095896
+   Magee JC, 2008, ACAD MANAG ANN, V2, P351, DOI 10.1080/19416520802211628
+   Martin JL, 2009, SOCIAL STRUCTURES, P1
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Melamed D, 2013, SOC SCI RES, V42, P217, DOI 10.1016/j.ssresearch.2012.09.001
+   Molm LD, 2003, SOCIOL THEOR, V21, P1, DOI 10.1111/1467-9558.00171
+   Molm LD, 2007, SOC PSYCHOL QUART, V70, P199, DOI 10.1177/019027250707000208
+   Molm LD, 2010, SOC PSYCHOL QUART, V73, P119, DOI 10.1177/0190272510369079
+   Morgan SL, 2007, ANAL METHOD SOC RES, P1, DOI 10.1017/CBO9780511804564
+   Oh W. W., 2004, THESIS
+   Papachristos AV, 2009, AM J SOCIOL, V115, P74, DOI 10.1086/597791
+   Park Eunjung, 2005, MYDAILY         0622
+   Pearl J., 2000, MODELS REASONING INF
+   Pennebaker JW., 2013, The Secret Life of Pronouns. What our Words Say about Us
+   Pettit NC, 2010, J EXP SOC PSYCHOL, V46, P396, DOI 10.1016/j.jesp.2009.12.007
+   Pettit NC, 2010, J EXP SOC PSYCHOL, V46, P9, DOI 10.1016/j.jesp.2009.08.008
+   Podolny JoelM., 2005, STATUS SIGNALS
+   RIDGEWAY C, 1991, SOC FORCES, V70, P367, DOI 10.2307/2580244
+   Ridgeway CL, 2006, SOC FORCES, V85, P431, DOI 10.1353/sof.2006.0139
+   Rosenfeld MJ, 2012, AM SOCIOL REV, V77, P523, DOI 10.1177/0003122412448050
+   SAHLINS MD, 1963, COMP STUD SOC HIST, V5, P285, DOI 10.1017/S0010417500001729
+   Schonfeld Eric, 2006, CNN MONEY
+   Seidman G, 2013, PERS INDIV DIFFER, V54, P402, DOI 10.1016/j.paid.2012.10.009
+   Singleton RA, 2007, SEX ROLES, V57, P617, DOI 10.1007/s11199-007-9298-x
+   Statistics Korea, 2007, 2006 MARR STAT
+   Thye SR, 2000, AM SOCIOL REV, V65, P407, DOI 10.2307/2657464
+   Thye SR, 2006, SOC FORCES, V84, P1471, DOI 10.1353/sof.2006.0070
+   van de Ven J, 2002, J INST THEOR ECON, V158, P464, DOI 10.1628/0932456022975349
+   van Duijn MAJ, 1999, SOC NETWORKS, V21, P187, DOI 10.1016/S0378-8733(99)00009-X
+   Walker LS, 2011, SOC SCI RES, V40, P1652, DOI 10.1016/j.ssresearch.2011.04.005
+   Weiser Howard T., 2008, J SOC STRUCT, V8
+   Wellman Barry., 2001, SOCIAL CAPITAL, P233
+   YAMAGISHI T, 1994, MOTIV EMOTION, V18, P129, DOI 10.1007/BF02249397
+   Yamagishi T, 1998, AM J SOCIOL, V104, P165, DOI 10.1086/210005
+   Zuckerman EW, 2001, SOC PSYCHOL QUART, V64, P207, DOI 10.2307/3090112
+NR 77
+TC 8
+Z9 10
+U1 3
+U2 29
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JAN
+PY 2017
+VL 48
+BP 142
+EP 156
+DI 10.1016/j.socnet.2016.08.004
+PG 15
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA EE6NT
+UT WOS:000389730200012
+DA 2024-11-22
+ER

@@ -1,0 +1,323 @@
+
+PT J
+AU Lovejoy, WS
+   Loch, CH
+AF Lovejoy, WS
+   Loch, CH
+TI Minimal and maximal characteristic path lengths in connected
+   sociomatrices
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE benchmark; asymptotic limits; network
+ID GRAPH; DISTANCE
+AB The characteristic path length is one of the most important and frequently-invoked characteristics of a social network. Given a specific network, it can be of considerable interest to know how the path length compares to the "best" or "worst" possible configuration for networks with the same number of agents and lines. Heretofore, the literature has relied heavily on asymptotic results for random networks to suggest a lower path length benchmark, and no upper benchmark is commonly used. We provide easily computed bounds for these best and worst cases. The bounds are constructive, so they can be attained, and we identify the network structures that attain them. Probabilistic analyses confirm short path lengths in connected random networks, provide additional insights for small networks not revealed by asymptotic limits, and suggest when maximal path lengths are attained with non-negligible probabilities. (C) 2003 Elsevier B.V. All rights reserved.
+C1 Univ Michigan, Sch Business, Ann Arbor, MI 48109 USA.
+   HP Labs, Palo Alto, CA 94304 USA.
+   INSEAD, F-77305 Fontainebleau, France.
+C3 University of Michigan System; University of Michigan; Hewlett-Packard;
+   INSEAD Business School
+RP Lovejoy, WS (corresponding author), Univ Michigan, Sch Business, 701 Tappan, Ann Arbor, MI 48109 USA.
+RI Loch, Christoph/GYQ-9175-2022
+CR [Anonymous], 1972, Graph Theory
+   [Anonymous], 1999, Small Worlds
+   [Anonymous], 2001, RANDOM GRAPHS, DOI DOI 10.1093/emph/eou018
+   Chung FR., 1989, J. Am. Math. Soc, V2, P187, DOI [DOI 10.1090/S0894-0347-1989-0965008-X, DOI 10.2307/1990973.MR965008]
+   CHUNG FRK, 1994, SIAM J DISCRETE MATH, V7, P443, DOI 10.1137/S0895480191217776
+   DOYLE JK, 1977, DISCRETE MATH, V17, P147, DOI 10.1016/0012-365X(77)90144-3
+   ENTRINGER RC, 1976, CZECH MATH J, V26, P283
+   PLESNIK J, 1984, J GRAPH THEOR, V8, P1, DOI 10.1002/jgt.3190080102
+NR 8
+TC 32
+Z9 33
+U1 2
+U2 4
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-8733
+J9 SOC NETWORKS
+JI Soc. Networks
+PD OCT
+PY 2003
+VL 25
+IS 4
+BP 333
+EP 347
+DI 10.1016/j.socnet.2003.10.001
+PG 15
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 750DJ
+UT WOS:000186975800003
+DA 2024-11-22
+ER
+
+PT J
+AU Snijders, TAB
+   Baerveldt, C
+AF Snijders, TAB
+   Baerveldt, C
+TI A multilevel network study of the effects of delinquent behavior on
+   friendship evolution
+SO JOURNAL OF MATHEMATICAL SOCIOLOGY
+LA English
+DT Article
+DE actor-oriented model; longitudinal data; social networks; criminology;
+   adolescents
+ID ANTISOCIAL-BEHAVIOR; ADOLESCENCE; ATTITUDES; MODEL
+AB A multilevel approach is proposed to the study of the evolution of multiple networks. In this approach, the basic evolution process is assumed to be the same, while parameter values may differ between different networks. For the network evolution process, stochastic actor-oriented models are used, of which the parameters are estimated by Markov chain Monte Carlo methods. This is applied to the study of effects of delinquent behavior on friendship formation, a question of long standing in criminology. The evolution of friendship is studied empirically in 19 school classes. It is concluded that there is evidence for an effect of similarity in delinquent behavior on friendship evolution. Similarity of the degree of delinquent behavior has a positive effect on tie formation but also on tie dissolution. The last result seems to contradict current criminological theories, and deserves further study.
+C1 Univ Groningen, ICS, Dept Sociol, NL-9712 TG Groningen, Netherlands.
+   Univ Utrecht, ICS, Dept Sociol, NL-3584 CS Utrecht, Netherlands.
+C3 University of Groningen; Utrecht University
+RP Univ Groningen, ICS, Dept Sociol, Grote Rozenstr 31, NL-9712 TG Groningen, Netherlands.
+EM t.a.b.snijders@ppsw.rug.nl; c.baerveldt@fss.uu.nl
+RI Snijders, Tom/F-2896-2012
+OI Snijders, Tom/0000-0003-3157-4157
+CR [Anonymous], 1997, Evolution of social networks
+   [Anonymous], 1995, Structure and Influence
+   [Anonymous], 1999, FRIENDS CHOICE ACTOR
+   [Anonymous], 1997, EVOLUTION SOCIAL NET
+   ASELTINE RH, 1995, J HEALTH SOC BEHAV, V36, P103, DOI 10.2307/2137219
+   BAERVELDT C, 1994, SOC NETWORKS, V16, P213, DOI 10.1016/0378-8733(94)90006-X
+   BAERVELDT C, 2000, 2 INT NETW SAMPL WOR
+   BAERVELDT C, 2000, SOCIALE WETENSCHAPPE, V43, P7
+   BARON SW, 1993, SOC NETWORKS, V15, P255, DOI 10.1016/0378-8733(93)90008-9
+   Battu C, 1998, J CHROMATOGR SCI, V36, P1
+   Bender D, 1997, J ADOLESCENCE, V20, P661, DOI 10.1006/jado.1997.0118
+   COCHRAN WG, 1954, BIOMETRICS, V10, P101, DOI 10.2307/3001666
+   Festinger, 1964, CONFLICT DECISION DI
+   Hansell S., 1981, Sociology of Delinquency: Current Issues, P93
+   Hedges L. V., 2014, STAT METHODS META AN
+   Hirschi T, 1969, CAUSES DELINQUENCY
+   Houtzager B, 1999, SOC BEHAV PERSONAL, V27, P177, DOI 10.2224/sbp.1999.27.2.177
+   JUSSIM L, 1989, SOC PSYCHOL QUART, V52, P98, DOI 10.2307/2786910
+   Kandel DB, 1996, J DRUG ISSUES, V26, P289, DOI 10.1177/002204269602600202
+   KANDEL DB, 1978, AM J SOCIOL, V84, P427, DOI 10.1086/226792
+   Leenders RTAJ, 1996, J MATH SOCIOL, V21, P133, DOI 10.1080/0022250X.1996.9990177
+   Lehmann E. L., 1986, TESTING STAT HYPOTHE
+   Marcus RF, 1996, ADOLESCENCE, V31, P145
+   MOFFITT TE, 1993, PSYCHOL REV, V100, P674, DOI 10.1037/0033-295X.100.4.674
+   Ploeger M, 1997, CRIMINOLOGY, V35, P659, DOI 10.1111/j.1745-9125.1997.tb01234.x
+   Reed MD, 1998, CRIM JUSTICE BEHAV, V25, P240, DOI 10.1177/0093854898025002006
+   Sarnecki J., 1990, J QUANT CRIMINOL, V6, P31, DOI [10.1007/BF01065288, DOI 10.1007/BF01065288]
+   Snijders T., 2012, MULTILEVEL ANAL INTR
+   Snijders TAB, 2001, SOCIOL METHODOL, V31, P361, DOI 10.1111/0081-1750.00099
+   Snijders TAB, 1999, PERS RELATIONSHIP, V6, P471, DOI 10.1111/j.1475-6811.1999.tb00204.x
+   SNIJDERS TAB, 2003, ADV SOCIAL NETWORK A, pCH11
+   SNIJDERS TAB, 2001, MANUAL SIENA VERSION
+   Snijders TomA. B., 1997, Simulating Social Phenomena, P493
+   Sutherland EdwinH., 1974, CRIMINOLOGY, V9 th
+   THORNBERRY TP, 1993, J RES CRIME DELINQ, V30, P55, DOI 10.1177/0022427893030001005
+   THORNBERRY TP, 1994, CRIMINOLOGY, V32, P47, DOI 10.1111/j.1745-9125.1994.tb01146.x
+   TUMA NB, 1979, SOC FORCES, V57, P1265, DOI 10.2307/2577270
+   Van De Bunt G. G., 1999, Computational & Mathematical Organization Theory, V5, P167, DOI 10.1023/A:1009683123448
+   van Duijn MAJ, 1999, SOC NETWORKS, V21, P187, DOI 10.1016/S0378-8733(99)00009-X
+   Vitaro F, 1997, CHILD DEV, V68, P676
+   ZEGGELINK E, 1995, SOC NETWORKS, V17, P83, DOI 10.1016/0378-8733(94)00246-7
+NR 41
+TC 239
+Z9 277
+U1 1
+U2 34
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 0022-250X
+EI 1545-5874
+J9 J MATH SOCIOL
+JI J. Math. Sociol.
+PD APR-SEP
+PY 2003
+VL 27
+IS 2-3
+BP 123
+EP 151
+DI 10.1080/00222500305892
+PG 29
+WC Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods; Sociology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Mathematical Methods In Social Sciences; Sociology
+GA 678TR
+UT WOS:000182883000003
+DA 2024-11-22
+ER
+
+PT J
+AU Lubbers, MJ
+AF Lubbers, MJ
+TI Group composition and network structure in school classes:: a multilevel
+   application of the <i>p</i>* model
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE social networks; school classes; Logit p* model; homophily
+ID SOCIAL NETWORKS; LOGIT-MODELS; LOGISTIC REGRESSIONS; MARKOV GRAPHS;
+   FRIENDSHIP
+AB This paper describes the structure of social networks of students within school classes and examines differences in network structure between classes. In order to examine the network structure within school classes, we focused in particular on the principle of homophily, i.e. the tendency that people associate with similar others. When differences between classes were observed, it was investigated whether these were related to group compositional characteristics. A two-stage regression procedure is proposed to analyze social networks of multiple groups. The random coefficient model is discussed briefly as an alternative to the two-stage method. (C) 2003 Elsevier B.V. All rights reserved.
+C1 Univ Groningen, Inst Educ Res, GION, NL-9712 TG Groningen, Netherlands.
+C3 University of Groningen
+RP Lubbers, MJ (corresponding author), Univ Groningen, Inst Educ Res, GION, Grote Rozenstraat 3, NL-9712 TG Groningen, Netherlands.
+RI Lubbers, Miranda/P-1250-2018
+OI Lubbers, Miranda/0000-0001-8398-6044
+CR Aboud F., 1996, CO THEY KEEP FRIENDS, P87
+   Allport GW., 1954, NATURE PREJUDICE
+   Anderson CJ, 1999, SOC NETWORKS, V21, P37, DOI 10.1016/S0378-8733(98)00012-4
+   [Anonymous], 2002, J SOC STRUCT, DOI DOI 10.1021/pr060392u
+   [Anonymous], NEW DIR CHILD DEV, DOI DOI 10.1002/CD.23219936003
+   [Anonymous], 1998, USERS GUIDE MLWIN MU
+   ARDU S, 1995, UNPUB PREPSTAR MANUA
+   BAERVELDT C, 1999, P PAP PRES TWEED MAR
+   Bandura A., 1977, SOCIAL LEARNING THEO
+   Bryk A. S., 1992, HIERARCHICAL LINEAR
+   Byrne D., 1971, ATTRACTION PARADIGM
+   *CBS GION, 1999, UNPUB MAST VOCL 99
+   Crouch B., 1998, CONNECTIONS, V21, P87
+   FOSTER SL, 1996, ADV CLIN CHILD PSYCH, P133
+   FRANK O, 1986, J AM STAT ASSOC, V81, P832, DOI 10.2307/2289017
+   Goldstein H., 2010, Multilevel Statistical Models, VFourth
+   HALLINAN MT, 1989, SOC FORCES, V67, P4
+   Hedeker D, 1996, COMPUT METH PROG BIO, V49, P157, DOI 10.1016/0169-2607(96)01720-8
+   Hinde R.A., 1997, RELATIONSHIPS DIALEC
+   HOLLAND PW, 1981, J AM STAT ASSOC, V76, P33, DOI 10.2307/2287037
+   Hymel S., 1996, SOCIAL MOTIVATION, P313
+   JUSSIM L, 1989, SOC PSYCHOL QUART, V52, P98, DOI 10.2307/2786910
+   Leenders RTA, 1995, THESIS
+   MAYHEW BH, 1995, SOC FORCES, V74, P15, DOI 10.2307/2580623
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Pattison P, 1999, BRIT J MATH STAT PSY, V52, P169, DOI 10.1348/000711099159053
+   Robins G, 2001, SOC NETWORKS, V23, P1, DOI 10.1016/S0378-8733(01)00029-6
+   Robins G, 1999, PSYCHOMETRIKA, V64, P371, DOI 10.1007/BF02294302
+   SHRUM W, 1988, SOCIOL EDUC, V61, P227, DOI 10.2307/2112441
+   Snijders T., 2012, MULTILEVEL ANAL INTR
+   Snijders TAB, 2003, J MATH SOCIOL, V27, P123, DOI 10.1080/00222500305892
+   STRAUSS D, 1990, J AM STAT ASSOC, V85, P204, DOI 10.2307/2289546
+   Tafjel H., 1979, SOCIAL PSYCHOL INTER, P33
+   VERMEIJ L, 2001, SUNBELT 21 BUD HUNG
+   Wasserman S, 1996, PSYCHOMETRIKA, V61, P401, DOI 10.1007/BF02294547
+   Wentzel K.R., 1996, SOCIAL MOTIVATION UN, P1
+   Wigfield A, 1998, REV RES EDUC, V23, P73, DOI 10.3102/0091732X023001073
+NR 37
+TC 58
+Z9 66
+U1 1
+U2 22
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-8733
+J9 SOC NETWORKS
+JI Soc. Networks
+PD OCT
+PY 2003
+VL 25
+IS 4
+BP 309
+EP 332
+DI 10.1016/S0378-8733(03)00013-3
+PG 24
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 750DJ
+UT WOS:000186975800002
+DA 2024-11-22
+ER
+
+PT J
+AU Rotolo, T
+   Wharton, A
+AF Rotolo, T
+   Wharton, A
+TI Living across institutions: Exploring sex-based homophily in occupations
+   and voluntary groups
+SO SOCIOLOGICAL PERSPECTIVES
+LA English
+DT Article; Proceedings Paper
+CT 94th Annual Meeting of the American-Sociological-Association
+CY AUG 06-11, 1999
+CL CHICAGO, ILLINOIS
+SP Amer Sociol Assoc
+ID MULTILEVEL ANALYSIS; PERSONAL NETWORKS; ORGANIZATIONS; GENDER;
+   DETERMINANTS; SEGREGATION; ASSOCIATION; WOMEN; MEMBERSHIP; WORKPLACE
+AB Occupational sex segregation is well documented. Research on voluntary associations shows that these also are segregated by sex. However, little is known about the connections between these institutions. In this research, we explore the effects of occupational sex composition on the sex composition of respondents' voluntary memberships. We find a positive relationship between the sex composition of men's occupations and the sex composition of their voluntary memberships. This effect is found for women only when full-time homemaking is considered as an occupation. We attribute differences in our findings to the nature of occupational ties in social networks.
+C1 Washington State Univ, Dept Sociol, Pullman, WA 99164 USA.
+C3 Washington State University
+RP Rotolo, T (corresponding author), Washington State Univ, Dept Sociol, Pullman, WA 99164 USA.
+CR Allison P. D., 2012, LOGISTIC REGRESSION
+   [Anonymous], LOG REGR EX US SAS S
+   [Anonymous], 2019, An introduction to categorical data analysis
+   BABCHUK N, 1969, SOCIOL INQ, V35, P149
+   BACHARACH SB, 1992, RES SOCIOLOGY ORG, V10, pR9
+   Beggs JJ, 1997, SOCIOL PERSPECT, V40, P601, DOI 10.2307/1389465
+   Blau P.M., 1977, INEQUALITY HETEROGEN
+   BLAU PM, 1994, STRUCTURED CONTEXTS
+   BREIGER RL, 1974, SOC FORCES, V53, P181, DOI 10.2307/2576011
+   CAMPBELL KE, 1988, WORK OCCUPATION, V15, P179, DOI 10.1177/0730888488015002003
+   Cohen LE, 1998, AM SOCIOL REV, V63, P711, DOI 10.2307/2657335
+   COTTER DA, 1995, WORK OCCUPATION, V22, P3, DOI 10.1177/0730888495022001001
+   de Tocqueville Alexis., 1945, DEMOCRACY AM, V1
+   Durkheim E., 1933, DIVISION LABOR SOC
+   Grusky DB, 1998, AM J SOCIOL, V103, P1187, DOI 10.1086/231351
+   Haveman HA, 1995, ADMIN SCI QUART, V40, P586, DOI 10.2307/2393755
+   IBARRA H, 1993, ACAD MANAGE REV, V18, P56, DOI 10.5465/AMR.1993.3997507
+   IBARRA H, 1992, ADMIN SCI QUART, V37, P422, DOI 10.2307/2393451
+   Ibarra H., 1997, Creating tomorrow's organizations, P359
+   Mark N, 1998, SOC FORCES, V77, P453, DOI 10.2307/3005535
+   MARSDEN PV, 1987, AM SOCIOL REV, V52, P122, DOI 10.2307/2095397
+   MCPHERSON JM, 1995, SOC FORCES, V73, P1097, DOI 10.2307/2580559
+   MCPHERSON JM, 1992, AM SOCIOL REV, V57, P153, DOI 10.2307/2096202
+   McPherson JM, 1996, AM SOCIOL REV, V61, P179, DOI 10.2307/2096330
+   MCPHERSON JM, 1982, SOC NETWORKS, V3, P225, DOI 10.1016/0378-8733(82)90001-6
+   MCPHERSON JM, 1991, SOC FORCES, V70, P19, DOI 10.2307/2580060
+   MCPHERSON JM, 1986, AM SOCIOL REV, V51, P61, DOI 10.2307/2095478
+   MCPHERSON JM, 1982, AM J SOCIOL, V87, P883, DOI 10.1086/227525
+   Mittman BS., 1992, RES SOCIOLOGY ORG, V10, P3
+   MOORE G, 1990, AM SOCIOL REV, V55, P726, DOI 10.2307/2095868
+   Munch A, 1997, AM SOCIOL REV, V62, P509, DOI 10.2307/2657423
+   Pearce J.L., 1993, Volunteers: The Organizational Behaviour of Unpaid Workers
+   Popielarz PA, 1999, GENDER SOC, V13, P234, DOI 10.1177/089124399013002005
+   Popielarz PA, 1999, RES SOC ORG, V16, P263
+   Powell W. W., 1991, NEW I ORG ANAL
+   RESKIN B, 1993, ANNU REV SOCIOL, V19, P241, DOI 10.1146/annurev.so.19.080193.001325
+   Reskin B.F., 1984, SEX SEGREGATION WORK
+   Reskin BF, 1999, ANNU REV SOCIOL, V25, P335, DOI 10.1146/annurev.soc.25.1.335
+   Ridgeway CL, 1999, ANNU REV SOCIOL, V25, P191, DOI 10.1146/annurev.soc.25.1.191
+   Rotolo T, 2001, SOC FORCES, V79, P1095, DOI 10.1353/sof.2001.0024
+   Rotolo T, 2000, SOCIOL PERSPECT, V43, P271, DOI 10.2307/1389797
+   SMITH DH, 1994, NONPROF VOLUNT SEC Q, V23, P243, DOI 10.1177/089976409402300305
+   Smith-Lovin L., 1993, THEORY GENDER FEMINI, P223
+   Tomaskovic-Devey D., 1993, GENDER RACIAL INEQUA
+   *US DEP COMM, 1992, ALPH IND IND OCC
+   Wellman B., 1988, Social structures: A network approach
+   WELLMAN B, 1988, SOCIAL STRUCTURES NE, P1
+   Wilson J, 1997, SOC FORCES, V76, P251, DOI 10.2307/2580325
+NR 48
+TC 9
+Z9 13
+U1 1
+U2 4
+PU UNIV CALIF PRESS
+PI BERKELEY
+PA C/O JOURNALS DIVISION, 2000 CENTER ST, STE 303, BERKELEY, CA 94704-1223
+   USA
+SN 0731-1214
+J9 SOCIOL PERSPECT
+JI Sociol. Perspect.
+PD SPR
+PY 2003
+VL 46
+IS 1
+BP 59
+EP 82
+DI 10.1525/sop.2003.46.1.59
+PG 24
+WC Sociology
+WE Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH); Social Science Citation Index (SSCI)
+SC Sociology
+GA 657DM
+UT WOS:000181650200004
+DA 2024-11-22
+ER

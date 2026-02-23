@@ -1,0 +1,611 @@
+
+PT J
+AU Demongeot, J
+   Jelassi, M
+   Taramasco, C
+AF Demongeot, Jacques
+   Jelassi, Mariem
+   Taramasco, Carla
+TI From susceptibility to frailty in social networks: The case of obesity
+SO MATHEMATICAL POPULATION STUDIES
+LA English
+DT Article
+DE social networks; obesity pandemic spread modeling; frailty modeling;
+   public health policy against obesity
+ID CONTAGION; EXAMPLE; ROBUSTNESS; DYNAMICS; MODEL
+AB The obesity pandemic is represented by a discrete-time Hopfield Boolean network embedded in continuous-time population dynamics. The influence of the social environment passes through a system of differential equations, whereby obesity spreads by imitation of the most influential neighbors, those who have the highest centrality indices in the network. This property is called homophily. Susceptibility and frailty are redefined using network properties. Projections of the spread of obesity are validated on data collected in a French high school.
+C1 [Demongeot, Jacques; Jelassi, Mariem] Univ Joseph Fourier, Ageis, La Tronche, France.
+   [Demongeot, Jacques; Taramasco, Carla] Univ Valparaiso, Escuela Ingn Civil Informat, Valparaiso, Chile.
+   [Jelassi, Mariem] Univ Tunis El Manar, Inst Pasteur Tunis, Tunis, Tunisia.
+C3 Communaute Universite Grenoble Alpes; Universite Grenoble Alpes (UGA);
+   Universidad de Valparaiso; Pasteur Network; Universite de
+   Tunis-El-Manar; Institut Pasteur Tunis
+RP Demongeot, J (corresponding author), Univ Joseph Fourier, Fac Med, Lab AGEIS, F-38700 Domaine De La Merci, La Tronche, France.
+EM Jacques.Demongeot@yahoo.fr
+RI Demongeot, Jacques/AAZ-2539-2020; Taramasco, Carla/AHC-8247-2022
+OI Jelassi, Mariem/0000-0003-4786-4271; Demongeot,
+   Jacques/0000-0002-8335-9240; Taramasco Toro, Carla/0000-0001-8318-4201
+CR Ali MM, 2012, APPL ECON, V44, P2969, DOI 10.1080/00036846.2011.568408
+   [Anonymous], 2016, International statistical classification of diseases and related health problems (10th revision)
+   [Anonymous], US FAST FOOD NATION
+   [Anonymous], HOW TO US THE ICF
+   [Anonymous], THESIS
+   [Anonymous], OPUSCULES
+   Bahr DB, 2009, OBESITY, V17, P723, DOI 10.1038/oby.2008.615
+   BAILEY NTJ, 1950, BIOMETRIKA, V37, P193, DOI 10.1093/biomet/37.3-4.193
+   Banerjee M, 2016, MATH METHOD APPL SCI, V39, P4428, DOI 10.1002/mma.3871
+   Barthélemy M, 2010, P NATL ACAD SCI USA, V107, P7629, DOI 10.1073/pnas.0910259107
+   BARTHOLOMAY ANTHONY F., 1958, BULL MATH BIOPHYS, V20, P175, DOI 10.1007/BF02478297
+   BARTHOLOMAY ANTHONY F., 1958, BULL MATH BIOPHYS, V20, P97, DOI 10.1007/BF02477571
+   BARTHOLOMAY ANTHONY F., 1959, BULL MATH BIOPHYS, V21, P363, DOI 10.1007/BF02477895
+   Bernoulli D., 1760, ESSAI NOUVELLE ANAL
+   BONACICH P, 1987, AM J SOCIOL, V92, P1170, DOI 10.1086/228631
+   Bourisly A.K., 2013, AsiaSim 2013. Communications in Computer and Information Science, P37, DOI DOI 10.1007/978-3-642-45037-2_4
+   Britton T, 2010, MATH BIOSCI, V225, P24, DOI 10.1016/j.mbs.2010.01.006
+   Brownlee J, 1915, BRIT MED J, V1915, P799, DOI 10.1136/bmj.1.2836.799
+   Burke M., 2006, SOCIAL DYNAMICS OBES
+   Centers for Disease Control and Prevention, 2003, 52 CDCP, P405
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   Cohen-Cole E, 2008, J HEALTH ECON, V27, P1382, DOI 10.1016/j.jhealeco.2008.04.005
+   Darmon M, 2009, SOCIOLOGY, V43, P717, DOI 10.1177/0038038509105417
+   de la Haye K, 2011, J ADOLESCENT HEALTH, V49, P421, DOI 10.1016/j.jadohealth.2011.02.008
+   Delbruck M., 1940, J CHEM PHYS, V8, P120, DOI [10.1063/1.1750549, DOI 10.1063/1.1750549]
+   Demongeot J, 2016, VIRULENCE, V7, P129, DOI 10.1080/21505594.2015.1082708
+   Demongeot J, 2015, J BIOL SYST, V23, P339, DOI 10.1142/S0218339015500187
+   Demongeot J, 2013, ACTA BIOTHEOR, V61, P141, DOI 10.1007/s10441-013-9176-6
+   Demongeot J., 2015, MICPS 13, P151
+   Demongeot J, 1986, NATO ASI SERIE F, V20, P71
+   Demongeot J., 2011, CMSB11, ACM Proceedings, P55
+   Demongeot J, 1977, RECENT DEV STAT, P655
+   Demongeot J, 2016, INFORMATION, V7, DOI 10.3390/info7030050
+   Demongeot J, 2015, LECT NOTES COMPUT SC, V9102, P270, DOI 10.1007/978-3-319-19312-0_22
+   Demongeot J, 2014, BIOGERONTOLOGY, V15, P611, DOI 10.1007/s10522-014-9542-z
+   Demongeot J, 2013, NETW HETEROG MEDIA, V8, P149, DOI 10.3934/nhm.2013.8.149
+   Demongeot J, 2012, CR MATH, V350, P293, DOI 10.1016/j.crma.2012.02.005
+   Demongeot J, 2012, CR MATH, V350, P225, DOI 10.1016/j.crma.2012.01.019
+   Ejima K, 2013, THEOR BIOL MED MODEL, V10, DOI 10.1186/1742-4682-10-17
+   Fonseca H, 2009, ARCH DIS CHILD, V94, P104, DOI 10.1136/adc.2008.139915
+   FRUCHTERMAN TMJ, 1991, SOFTWARE PRACT EXPER, V21, P1129, DOI 10.1002/spe.4380211102
+   GILLESPIE DT, 1976, J COMPUT PHYS, V22, P403, DOI 10.1016/0021-9991(76)90041-3
+   González-Parra G, 2010, REV MVZ CORDOBA, V15, P2051
+   González-Parra G, 2010, J BIOL SYST, V18, P93, DOI 10.1142/S0218339010003159
+   Gregori D, 2012, PUBLIC HEALTH, V126, P731, DOI 10.1016/j.puhe.2012.05.010
+   Guillevic Etienne, 1967, EUCLIDIENNES
+   Hamer W, 1906, MILROY LECT EPIDEMIC, P733
+   Hammond R A., 2007, Exploring Price-Independent Mechanisms in the Obesity Epidemic Background - The Facts of the Obesity Epidemic
+   Harati H, 2009, BMC PUBLIC HEALTH, V9, DOI 10.1186/1471-2458-9-186
+   HOPFIELD JJ, 1982, P NATL ACAD SCI-BIOL, V79, P2554, DOI 10.1073/pnas.79.8.2554
+   Hosseinpanah F, 2009, BMC PUBLIC HEALTH, V9, DOI 10.1186/1471-2458-9-426
+   IASO, 2000, TRS894 WHO
+   Jelassi M., 2014, ICCSA 14, P183
+   Krasnoselsky M A., 1968, Translations of Mathematical Monographs, V19
+   Magal P, 2014, MATH BIOSCI, V250, P26, DOI 10.1016/j.mbs.2014.02.001
+   Mulvaney-Day NE, 2012, APPETITE, V59, P357, DOI 10.1016/j.appet.2012.05.019
+   Myers A., 1999, International Journal of Obesity, V23, P221, DOI [DOI 10.1038/SJ.IJO.0800765, 10.1038/sj.ijo.0800765]
+   Newman M.E.J., 2016, The New Palgrave Encyclopedia of Economics, P1, DOI 10.1057/978-1-349-95121-52565-1
+   Obepi-Roche, 2009, ENQUETE EPIDEMIOLOGI
+   Rhodes CJ, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0012951
+   Ross R, 1916, P R SOC LOND A-CONTA, V92, P204, DOI 10.1098/rspa.1916.0007
+   Ross R, 1915, BRIT MED J, V1915, P546, DOI 10.1136/bmj.1.2830.546
+   Ross R., 1910, PREVENTION MALARIA
+   Sathik MM, 2011, INT J ENG SCI TECHNO, V3, P117
+   Schumm P, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0059028
+   Shoham DA, 2015, OBESITY, V23, P2324, DOI 10.1002/oby.21261
+   Shoham DA, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0039795
+   Taylor J., 2003, PATHS CONT FRENCH LI
+   Teymoori F, 2010, IEEE ARES CISIS 10, P612
+   Tunstall-Pedoe H, 2003, MONICA PROJECT WORLD
+   World Bank, 2012, GEND STAT HIGHL 2012
+   Ziegler O, 2005, DIABETES METAB, V31, P273, DOI 10.1016/S1262-3636(07)70194-5
+NR 72
+TC 8
+Z9 8
+U1 1
+U2 13
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 0889-8480
+EI 1547-724X
+J9 MATH POPUL STUD
+JI Math. Popul. Stud.
+PY 2017
+VL 24
+IS 4
+BP 219
+EP 245
+DI 10.1080/08898480.2017.1348718
+PG 27
+WC Demography; Mathematics, Interdisciplinary Applications; Social
+   Sciences, Mathematical Methods; Statistics & Probability
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Demography; Mathematics; Mathematical Methods In Social Sciences
+GA FP7EN
+UT WOS:000417791400003
+DA 2024-11-22
+ER
+
+PT J
+AU Xie, H
+   Li, GJ
+   Yan, YJ
+   Shu, SH
+AF Xie, Hui
+   Li, Guangjian
+   Yan, Yongjie
+   Shu, Sihui
+TI Evolution of Bounded Confidence Opinion in Social Networks
+SO DISCRETE DYNAMICS IN NATURE AND SOCIETY
+LA English
+DT Article
+ID STATISTICAL PHYSICS; DYNAMICS; MODEL
+AB We investigate opinion dynamics as a stochastic process in social networks. We introduce the stubborn agent in order to determine the impact of network structure on the emergence of consensus. Depending on the fraction of undirected long-range connections, we observe fascinatingly rich dynamical behavior and transitions from disordered to ordered states. In general, we find that the stubborn agent promotes the emergence of consensus due to the so-called "group effect" that facilitates coalescence between separated network components. Agents are also behaviorally constrained Shannon information entropy in networks. However, since agents want to evolve their opinion with Brownian motion, which may in turn impede full consensus, sufficiently frequent long-range links are in such situations crucial for the network to converge into an absorbing phase. Our experimental findings indicate that, for a large range of control parameters, our model yields stable and fluctuating polarized states.
+C1 [Xie, Hui; Li, Guangjian] Peking Univ, Dept Informat Management, Beijing 100871, Peoples R China.
+   [Xie, Hui; Yan, Yongjie; Shu, Sihui] Jiangxi Sci & Technol Normal Univ, Sch Math & Comp Sci, Nanchang 330038, Jiangxi, Peoples R China.
+C3 Peking University; Jiangxi Science & Technology Normal University
+RP Li, GJ (corresponding author), Peking Univ, Dept Informat Management, Beijing 100871, Peoples R China.
+EM ligj@pku.edu.cn
+FU National Natural Science Foundation of China [71561013]; Major Project
+   of the National Social Science Foundation of China [15ZDB129]; Key
+   Project of the National Social Science Foundation of China [14ATQ005];
+   Humanities and Social Sciences Research Youth Foundation of Ministry of
+   Education of China [15YJCZH197]; Jiangxi Provincial Natural Science
+   Foundation [20161BAB202055]; China Postdoctoral Science Foundation
+   [2015M580931]; Social Science Planning Projects in Jiangxi Province
+   [14TQ07, 16TQ05]; Key Research Foundation of the Jiangxi Department of
+   Education [GJJ150791]; Youth Fund of Humanities and Social Sciences in
+   Universities of Jiangxi Province [XW1505]; Outstanding Youth Talent
+   Support Program of JXSTNU [2015QNBJRC005]
+FX This work was sponsored by the National Natural Science Foundation of
+   China (71561013), the Major Project of the National Social Science
+   Foundation of China (15ZDB129), the Key Project of the National Social
+   Science Foundation of China (14ATQ005), the Humanities and Social
+   Sciences Research Youth Foundation of Ministry of Education of China
+   (15YJCZH197), the Jiangxi Provincial Natural Science Foundation
+   (20161BAB202055), the China Postdoctoral Science Foundation
+   (2015M580931), the Social Science Planning Projects in Jiangxi Province
+   (14TQ07, 16TQ05), the Key Research Foundation of the Jiangxi Department
+   of Education (GJJ150791), the Youth Fund of Humanities and Social
+   Sciences in Universities of Jiangxi Province (XW1505), and the
+   Outstanding Youth Talent Support Program of JXSTNU (2015QNBJRC005).
+CR Afshar M, 2010, JASSS-J ARTIF SOC S, V13, DOI 10.18564/jasss.1665
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Baronchelli A, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.066117
+   Bernardes AT, 2002, EUR PHYS J B, V25, P123, DOI 10.1140/e10051-002-0013-y
+   Borghesi C, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.066118
+   Castellano C, 2009, REV MOD PHYS, V81, P591, DOI 10.1103/RevModPhys.81.591
+   Deffuant G, 2000, APPLICATIONS OF SIMULATION TO SOCIAL SCIENCES, P87, DOI 10.1142/S0219525900000078
+   Galam S, 2004, PHYSICA A, V336, P56, DOI 10.1016/j.physa.2004.01.010
+   Galam S, 2004, PHYSICA A, V333, P453, DOI 10.1016/j.physa.2003.10.041
+   Galam S, 2002, EUR PHYS J B, V25, P403, DOI 10.1140/epjb/e20020045
+   Hegselmann R., 2009, JASSS-J ARTIF SOC S, V81, P591
+   Iñiguez G, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.016111
+   Jiang LL, 2007, J PHYS A-MATH THEOR, V40, P11271, DOI 10.1088/1751-8113/40/37/005
+   Krapivsky PL, 2003, PHYS REV LETT, V90, DOI 10.1103/PhysRevLett.90.238701
+   Martins ACR, 2009, PHYSICA A, V388, P3225, DOI 10.1016/j.physa.2009.04.007
+   SHANNON CE, 1948, BELL SYST TECH J, V27, P379, DOI 10.1002/j.1538-7305.1948.tb01338.x
+   Shin JK, 2009, PHYSICA A, V388, P3593, DOI 10.1016/j.physa.2009.05.032
+   Sood V, 2005, PHYS REV LETT, V94, DOI 10.1103/PhysRevLett.94.178701
+   Stauffer D, 2004, PHYSICA A, V336, P1, DOI 10.1016/j.physa.2004.01.004
+   Suchecki K, 2005, PHYS REV E, V72, DOI 10.1103/PhysRevE.72.036132
+   Sznajd-Weron K, 2000, INT J MOD PHYS C, V11, P1157, DOI 10.1142/S0129183100000936
+   Szolnoki A, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.036101
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+NR 23
+TC 2
+Z9 2
+U1 2
+U2 24
+PU HINDAWI LTD
+PI LONDON
+PA ADAM HOUSE, 3RD FLR, 1 FITZROY SQ, LONDON, W1T 5HF, ENGLAND
+SN 1026-0226
+EI 1607-887X
+J9 DISCRETE DYN NAT SOC
+JI Discrete Dyn. Nat. Soc.
+PY 2017
+VL 2017
+AR 3173016
+DI 10.1155/2017/3173016
+PG 5
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Mathematics; Science & Technology - Other Topics
+GA EQ9NB
+UT WOS:000398410100001
+OA gold, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Hui, DSW
+   Chen, YC
+   Zhang, G
+   Wu, WJ
+   Chen, GR
+   Lui, JCS
+   Li, YT
+AF Hui, David Shui Wing
+   Chen, Yi-Chao
+   Zhang, Gong
+   Wu, Weijie
+   Chen, Guanrong
+   Lui, John C. S.
+   Li, Yingtao
+TI A Unified Framework for Complex Networks with Degree Trichotomy Based on
+   Markov Chains
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID CITATION; DISTRIBUTIONS; ROBUSTNESS; TOPOLOGY
+AB This paper establishes a Markov chain model as a unified framework for describing the evolution processes in complex networks. The unique feature of the proposed model is its capability in addressing the formation mechanism that can reflect the "trichotomy" observed in degree distributions, based on which closed-form solutions can be derived. Important special cases of the proposed unified framework are those classical models, including Poisson, Exponential, Power-law distributed networks. Both simulation and experimental results demonstrate a good match of the proposed model with real datasets, showing its superiority over the classical models. Implications of the model to various applications including citation analysis, online social networks, and vehicular networks design, are also discussed in the paper.
+C1 [Hui, David Shui Wing; Chen, Yi-Chao; Zhang, Gong; Wu, Weijie] Huawei Technol Co Ltd, Hong Kong, Hong Kong, Peoples R China.
+   [Chen, Guanrong] City Univ Hong Kong, Hong Kong, Hong Kong, Peoples R China.
+   [Lui, John C. S.] Chinese Univ Hong Kong, Hong Kong, Hong Kong, Peoples R China.
+   [Li, Yingtao] Huawei Technol Co Ltd, Shenzhen, Peoples R China.
+C3 Huawei Technologies; City University of Hong Kong; Chinese University of
+   Hong Kong; Huawei Technologies
+RP Wu, WJ (corresponding author), Huawei Technol Co Ltd, Hong Kong, Hong Kong, Peoples R China.
+EM wuweijie2@huawei.com
+RI Chen, Yichao/B-5598-2019; Li, YIngtao/B-4565-2019; Chen,
+   Guanrong/F-6000-2011
+CR Albert R, 2000, PHYS REV LETT, V85, P5234, DOI 10.1103/PhysRevLett.85.5234
+   Amaral LAN, 2000, P NATL ACAD SCI USA, V97, P11149, DOI 10.1073/pnas.200327197
+   [Anonymous], 2014, AM PHYS SOC DATA SET
+   [Anonymous], 2016, SCI REP-UK, DOI DOI 10.1038/SREP32558
+   Barabasi AL, 2016, NETWORK SCIENCE, P1
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Bauke H, 2011, EUR PHYS J B, V83, P519, DOI 10.1140/epjb/e2011-20346-0
+   Borgatti SP., 2018, ANAL SOCIAL NETWORKS
+   Bornmann L, 2013, J AM SOC INF SCI TEC, V64, P587, DOI 10.1002/asi.22792
+   Brzezinski M, 2015, SCIENTOMETRICS, V103, P213, DOI 10.1007/s11192-014-1524-z
+   Burrell QL, 2001, SCIENTOMETRICS, V52, P3, DOI 10.1023/A:1012751509975
+   Burrell QL, 2014, SCIENTOMETRICS, V98, P725, DOI 10.1007/s11192-013-1018-4
+   Burrell QL, 2013, J AM SOC INF SCI TEC, V64, P1504, DOI 10.1002/asi.22845
+   Callaway DS, 2001, PHYS REV E, V64, DOI 10.1103/PhysRevE.64.041902
+   Case D.O., 2002, Looking for information: A survey of research on information seeking, needs, and behavior
+   Chatterjee S, 2013, ANN STAT, V41, P2428, DOI 10.1214/13-AOS1155
+   Chen GR, 2017, INT J AUTOM COMPUT, V14, P1, DOI [10.1007/s11633-016-1052-9, 10.1080/15623599.2017.1354514]
+   Deng WB, 2011, PHYSICA A, V390, P1481, DOI 10.1016/j.physa.2010.12.029
+   Dorogovtsev S. N., 2015, NATURE PHYS, V11
+   Egghe L, 2011, J AM SOC INF SCI TEC, V62, P1637, DOI 10.1002/asi.21557
+   Erdos P., 1959, PUBL MATH-DEBRECEN, V6, P290
+   Gates AJ, 2016, SCI REP-UK, V6, DOI 10.1038/srep24456
+   Ghoshal T, 2013, SCI REP-UK, V3, DOI 10.1038/srep02772
+   Hajra KB, 2005, PHYSICA A, V346, P44, DOI 10.1016/j.physa.2004.08.048
+   Hébert-Dufresne L, 2011, PHYS REV LETT, V107, DOI 10.1103/PhysRevLett.107.158702
+   Huisman M., 2005, MODELS METHODS SOCIA, P270
+   Jeong H, 2000, NATURE, V407, P651, DOI 10.1038/35036627
+   Kolaczyk ED, 2014, USE R, V65, P1, DOI 10.1007/978-1-4939-0983-4
+   Leskovec J, 2005, ACM SIGKDD C KNOWLED, P177
+   Liu YY, 2011, NATURE, V473, P167, DOI 10.1038/nature10011
+   Liu ZH, 2002, PHYS LETT A, V303, P337, DOI 10.1016/S0375-9601(02)01317-8
+   Lü L, 2016, NAT COMMUN, V7, DOI [10.1038/ncomms10168, 10.1038/ncomms11119]
+   Lü LY, 2011, PHYSICA A, V390, P1150, DOI 10.1016/j.physa.2010.11.027
+   Martín HG, 2006, P NATL ACAD SCI USA, V103, P10310, DOI 10.1073/pnas.0510605103
+   Martin T, 2013, PHYS REV E, V88, DOI 10.1103/PhysRevE.88.012814
+   Medo M, 2011, PHYS REV LETT, V107, DOI 10.1103/PhysRevLett.107.238701
+   Milojevic S, 2010, J AM SOC INF SCI TEC, V61, P2417, DOI 10.1002/asi.21426
+   Newman M., 2010, NETWORK INTRO
+   Newman MEJ, 2001, PHYS REV E, V64, DOI [10.1103/PhysRevE.64.016132, 10.1103/PhysRevE.64.016131]
+   Papadopoulos F, 2012, NATURE, V489, P537, DOI 10.1038/nature11459
+   PRICE DJD, 1976, J AM SOC INFORM SCI, V27, P292, DOI 10.1002/asi.4630270505
+   PRICE DJD, 1965, SCIENCE, V149, P510
+   Redner S, 1998, EUR PHYS J B, V4, P131, DOI 10.1007/s100510050359
+   Sekara V, 2016, P NATL ACAD SCI USA, V113, P9977, DOI 10.1073/pnas.1602803113
+   Simkin MV, 2007, J AM SOC INF SCI TEC, V58, P1661, DOI 10.1002/asi.20653
+   SIMON HA, 1955, BIOMETRIKA, V42, P425
+   Snijders TAB, 2006, SOCIOL METHODOL, V36, P99, DOI 10.1111/j.1467-9531.2006.00176.x
+   Subelj L, 2014, SCI REP-UK, V4, DOI 10.1038/srep06496
+   Sun J, 2013, PHYS REV LETT, V110, DOI 10.1103/PhysRevLett.110.208701
+   Tang J., 2008, P 14 ACM SIGKDD INT, P990, DOI [10.1145/1401890.1402008, DOI 10.1145/1401890.1402008]
+   Wacker D, 2013, SCIENCE, V340, P615, DOI 10.1126/science.1232808
+   Wallace ML, 2009, J INFORMETR, V3, P296, DOI 10.1016/j.joi.2009.03.010
+   West JD, 2010, COLL RES LIBR, V71, P236, DOI 10.5860/0710236
+   Xie Z, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0120687
+   Yegros-Yegros A, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0135095
+   Yule GU, 1925, PHILOS T R SOC LON B, V213, P21, DOI 10.1098/rstb.1925.0002
+   Zhang DG, 2012, COMPUT MATH APPL, V64, P1044, DOI 10.1016/j.camwa.2012.03.023
+NR 57
+TC 1
+Z9 1
+U1 0
+U2 12
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD JUN 16
+PY 2017
+VL 7
+AR 3723
+DI 10.1038/s41598-017-03613-z
+PG 12
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA EX7FN
+UT WOS:000403413700085
+PM 28623348
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Hofstra, B
+   Corten, R
+   van Tubergen, F
+   Ellison, NB
+AF Hofstra, Bas
+   Corten, Rense
+   van Tubergen, Frank
+   Ellison, Nicole B.
+TI Sources of Segregation in Social Networks: A Novel Approach Using
+   Facebook
+SO AMERICAN SOCIOLOGICAL REVIEW
+LA English
+DT Review
+DE segregation; ethnicity; gender; social networks; Facebook
+ID RESIDENTIAL SEGREGATION; PERSONAL RELATIONSHIPS; FRIENDSHIP NETWORKS;
+   ETHNIC SEGREGATION; BY-PRODUCT; ONLINE; SCHOOL; RACE; CONTEXTS; CHOICE
+AB Most research on segregation in social networks considers small circles of strong ties, and little is known about segregation among the much larger number of weaker ties. This article proposes a novel approach to the study of these more extended networks, through the use of data on personal ties in an online social network. We illustrate this method's potential by describing and explaining the degree of ethnic and gender segregation on Facebook among a representative survey of adolescents in the Netherlands (N = 2,810; similar to 1.1 million Facebook friends). The results show that large online networks are more strongly segregated by ethnicity than by gender. Drawing on the same survey data, we find that core networks are more segregated in terms of ethnicity and gender than are extended networks. However, an exception to this pattern is personal networks of ethnic majority members, whose core networks are as segregated by ethnicity as their extended networks. Further analysis suggests this exception is due to their larger population size and the ethnic segregation of their social settings. We discuss the implications of these findings for the role of structural opportunities, homophily, and balance.
+C1 [Hofstra, Bas; Corten, Rense] Univ Utrecht, Dept Sociol, Utrecht, Netherlands.
+   [van Tubergen, Frank] King Abdulaziz Univ, Jeddah, Saudi Arabia.
+   [Ellison, Nicole B.] Univ Michigan, Sch Informat, Ann Arbor, MI 48109 USA.
+C3 Utrecht University; King Abdulaziz University; University of Michigan
+   System; University of Michigan
+RP Hofstra, B (corresponding author), Univ Utrecht, Dept Sociol ICS, Padualaan 14, NL-3584 CH Utrecht, Netherlands.
+EM b.hofstra@uu.nl
+RI Corten, Rense/D-7090-2013; van Tubergen, Frank/B-7885-2013
+OI van Tubergen, Frank/0000-0002-6415-2877
+FU NORFACE research program on Migration in Europe - Social, Economic,
+   Cultural and Policy Dynamics; Dutch Scientific Organization (NWO): NWO
+   onderzoekstalent [406-12-004]; NWO middelgroot [480-11-013]; NWO
+   veranderingsstudies [481-11-004]
+FX This research benefited from the support of the NORFACE research program
+   on Migration in Europe - Social, Economic, Cultural and Policy Dynamics
+   and from the support of several grants from the Dutch Scientific
+   Organization (NWO): NWO onderzoekstalent [grant number: 406-12-004], NWO
+   middelgroot [grant number: 480-11-013], and NWO veranderingsstudies
+   [grant number: 481-11-004].
+CR Agresti A., 1977, Sociological methodology 1978, P204
+   Anderson A, 2014, SOCIOL SCI, V1, P28, DOI 10.15195/v1.a3
+   [Anonymous], 2008, SOCIAL EC NETWORKS
+   [Anonymous], DUTCH FACEBOOK SURVE
+   [Anonymous], 2015, CBS STATL BEV KERNC
+   [Anonymous], NETWORKED NEW SOCIAL
+   [Anonymous], EXAMINING DIVERSITY
+   [Anonymous], ADOLESCENT SOC
+   [Anonymous], CHILDREN IMMIGRANTS
+   [Anonymous], TRUST
+   [Anonymous], OXFORD HDB INTERNET
+   [Anonymous], SOCIAL NETWORKS
+   [Anonymous], 2013, AGE MIGRATION INT PO
+   [Anonymous], CHILDREN IMMIGRANTS
+   [Anonymous], 1977, INEQUALITY HETEROGEN
+   [Anonymous], PLOS ONE
+   [Anonymous], PLACING FRIENDSHIPS
+   [Anonymous], 2000, BOWLING ALONE COLLAP
+   [Anonymous], NATURE PREJUDICE
+   [Anonymous], EMERGING TRENDS SOCI
+   [Anonymous], WORKING PAPER
+   [Anonymous], 2012, MIGR VREEMD VLUCHT B
+   [Anonymous], DEV PSYCHOL
+   [Anonymous], 2012, MULTILEVEL ANAL INTR
+   [Anonymous], TRUST MAKING BREAKIN
+   [Anonymous], ATTRACTION PARADIGM
+   Baerveldt C, 2004, SOC NETWORKS, V26, P55, DOI 10.1016/j.socnet.2004.01.003
+   Blackwell DL, 2004, SOCIOL QUART, V45, P719, DOI 10.1111/j.1533-8525.2004.tb02311.x
+   BLAU PM, 1977, AM J SOCIOL, V83, P26, DOI 10.1086/226505
+   Brashears ME, 2016, SOC NETWORKS, V44, P74, DOI 10.1016/j.socnet.2015.06.002
+   Centola D, 2015, AM J SOCIOL, V120, P1295, DOI 10.1086/681275
+   CILS4EU, 2016, Technical Report. Wave 1 - 2010/2011, v1.2.0
+   Currarini S, 2010, P NATL ACAD SCI USA, V107, P4857, DOI 10.1073/pnas.0911793107
+   Davis SN, 2009, ANNU REV SOCIOL, V35, P87, DOI 10.1146/annurev-soc-070308-115920
+   DiPrete TA, 2011, AM J SOCIOL, V116, P1234, DOI 10.1086/659100
+   Dunbar RIM, 2016, ROY SOC OPEN SCI, V3, DOI 10.1098/rsos.150292
+   Dunbar RIM, 2015, SOC NETWORKS, V43, P39, DOI 10.1016/j.socnet.2015.04.005
+   Ellison NB, 2007, J COMPUT-MEDIAT COMM, V12, P1143, DOI 10.1111/j.1083-6101.2007.00367.x
+   Ellison NB, 2011, NEW MEDIA SOC, V13, P873, DOI 10.1177/1461444810385389
+   FELD SL, 1981, AM J SOCIOL, V86, P1015, DOI 10.1086/227352
+   FELD SL, 1982, AM SOCIOL REV, V47, P797, DOI 10.2307/2095216
+   FELD SL, 1984, SOC FORCES, V62, P640, DOI 10.2307/2578704
+   Feliciano C, 2009, SOC SCI RES, V38, P41, DOI 10.1016/j.ssresearch.2008.09.004
+   Fischer CS, 2009, AM SOCIOL REV, V74, P657, DOI 10.1177/000312240907400408
+   Golder SA, 2014, ANNU REV SOCIOL, V40, P129, DOI 10.1146/annurev-soc-071913-043145
+   Granovetter M., 1983, SOCIOLOGICAL THEORY, V1, P201, DOI [https://doi.org/10.2307/202051, 10.2307/202051, DOI 10.2307/202051]
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Grossetti M, 2005, SOC NETWORKS, V27, P289, DOI 10.1016/j.socnet.2004.11.004
+   Halberstam Y, 2016, J PUBLIC ECON, V143, P73, DOI 10.1016/j.jpubeco.2016.08.011
+   HECKMAN JJ, 1979, ECONOMETRICA, V47, P153, DOI 10.2307/1912352
+   Heider F, 1946, J PSYCHOL, V21, P107, DOI 10.1080/00223980.1946.9917275
+   Hill RA, 2003, HUM NATURE-INT BIOS, V14, P53, DOI 10.1007/s12110-003-1016-y
+   Hofstra B, 2016, NEW MEDIA SOC, V18, P2340, DOI 10.1177/1461444815584592
+   Hofstra B, 2016, COMPUT HUM BEHAV, V60, P611, DOI 10.1016/j.chb.2016.02.091
+   IBARRA H, 1995, ACAD MANAGE J, V38, P673, DOI 10.5465/256742
+   Kalmijn M, 1998, ANNU REV SOCIOL, V24, P395, DOI 10.1146/annurev.soc.24.1.395
+   Kalmijn M, 2001, SOC FORCES, V79, P1289, DOI 10.1353/sof.2001.0044
+   Kossinets G, 2009, AM J SOCIOL, V115, P405, DOI 10.1086/599247
+   Krackhardt D, 2007, LECT NOTES COMPUT SC, V4503, P14
+   Lancee B, 2015, EUR SOCIOL REV, V31, P490, DOI 10.1093/esr/jcv008
+   Lazarsfeld P.F., 1954, Freedom and Control in Modern Society, P18, DOI DOI 10.1111/J.1467-8705.2012.02056_3.X
+   Leszczensky L, 2015, SOC NETWORKS, V42, P18, DOI 10.1016/j.socnet.2015.02.002
+   Lewis K, 2008, SOC NETWORKS, V30, P330, DOI 10.1016/j.socnet.2008.07.002
+   Lewis K, 2013, P NATL ACAD SCI USA, V110, P18814, DOI 10.1073/pnas.1308501110
+   Lewis K, 2012, P NATL ACAD SCI USA, V109, P68, DOI 10.1073/pnas.1109739109
+   Lichter DT, 2015, AM SOCIOL REV, V80, P843, DOI 10.1177/0003122415588558
+   Lin N, 1999, ANNU REV SOCIOL, V25, P467, DOI 10.1146/annurev.soc.25.1.467
+   Lubbers MJ, 2003, SOC NETWORKS, V25, P309, DOI 10.1016/S0378-8733(03)00013-3
+   Maeve DugganN.B. E., 2015, Social Media Update 2014
+   Marin A, 2004, SOC NETWORKS, V26, P289, DOI 10.1016/j.socnet.2004.06.001
+   MARSDEN PV, 1988, SOC NETWORKS, V10, P57, DOI 10.1016/0378-8733(88)90010-X
+   MARSDEN PV, 1987, AM SOCIOL REV, V52, P122, DOI 10.2307/2095397
+   Mateos P, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0022943
+   Mayer A, 2008, J PUBLIC ECON, V92, P329, DOI 10.1016/j.jpubeco.2007.09.001
+   McCarty C, 2001, HUM ORGAN, V60, P28, DOI 10.17730/humo.60.1.efx5t9gjtgmga73y
+   McCormick TH, 2010, J AM STAT ASSOC, V105, P59, DOI 10.1198/jasa.2009.ap08518
+   MCPHERSON JM, 1987, AM SOCIOL REV, V52, P370, DOI 10.2307/2095356
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   McPherson M, 2006, AM SOCIOL REV, V71, P353, DOI 10.1177/000312240607100301
+   McPherson M, 2009, AM SOCIOL REV, V74, P670, DOI 10.1177/000312240907400409
+   McPherson M, 2008, AM SOCIOL REV, V73, P1022, DOI 10.1177/000312240807300610
+   Mollenhorst G, 2008, SOC NETWORKS, V30, P60, DOI 10.1016/j.socnet.2007.07.003
+   Mollenhorst G, 2014, SOC NETWORKS, V37, P65, DOI 10.1016/j.socnet.2013.12.003
+   Mollenhorst G, 2011, SOC NETWORKS, V33, P292, DOI 10.1016/j.socnet.2011.09.001
+   Moody J, 2001, AM J SOCIOL, V107, P679, DOI 10.1086/338954
+   Mouw T, 2006, AM J SOCIOL, V112, P394, DOI 10.1086/506415
+   Paik A, 2013, AM SOCIOL REV, V78, P339, DOI 10.1177/0003122413482919
+   Pettigrew TF, 2006, J PERS SOC PSYCHOL, V90, P751, DOI 10.1037/0022-3514.90.5.751
+   Potârca G, 2015, EUR SOCIOL REV, V31, P326, DOI 10.1093/esr/jcu093
+   Roberts SGB, 2009, SOC NETWORKS, V31, P138, DOI 10.1016/j.socnet.2008.12.002
+   Robinson L, 2015, INFORM COMMUN SOC, V18, P569, DOI 10.1080/1369118X.2015.1012532
+   Semyonov M, 2009, EUR SOCIOL REV, V25, P693, DOI 10.1093/esr/jcn075
+   SHRUM W, 1988, SOCIOL EDUC, V61, P227, DOI 10.2307/2112441
+   Smith A, 2000, INT J INTERCULT REL, V24, P247, DOI 10.1016/S0147-1767(99)00034-6
+   Smith JA, 2014, AM SOCIOL REV, V79, P432, DOI 10.1177/0003122414531776
+   Smith S, 2014, SOC NETWORKS, V39, P33, DOI 10.1016/j.socnet.2014.04.003
+   Son J, 2012, SOC NETWORKS, V34, P601, DOI 10.1016/j.socnet.2012.06.006
+   Stark TH, 2012, SOCIOL EDUC, V85, P179, DOI 10.1177/0038040711427314
+   Subrahmanyam K, 2008, J APPL DEV PSYCHOL, V29, P420, DOI 10.1016/j.appdev.2008.07.003
+   van Zalk MHW, 2014, EUR J PERSONALITY, V28, P134, DOI 10.1002/per.1895
+   Vermeij L, 2009, SOC NETWORKS, V31, P230, DOI 10.1016/j.socnet.2009.06.002
+   Wimmer A, 2010, AM J SOCIOL, V116, P583, DOI 10.1086/653658
+   Windzio M, 2013, RATION SOC, V25, P123, DOI 10.1177/1043463113481219
+   Zheng T, 2006, J AM STAT ASSOC, V101, P409, DOI 10.1198/016214505000001168
+   Zhou WX, 2005, P ROY SOC B-BIOL SCI, V272, P439, DOI 10.1098/rspb.2004.2970
+NR 105
+TC 84
+Z9 102
+U1 2
+U2 73
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0003-1224
+EI 1939-8271
+J9 AM SOCIOL REV
+JI Am. Sociol. Rev.
+PD JUN
+PY 2017
+VL 82
+IS 3
+BP 625
+EP 656
+DI 10.1177/0003122417705656
+PG 32
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA EW6LW
+UT WOS:000402622900007
+OA Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Fu, L
+   Jacobs, MA
+   Brookover, J
+   Valente, TW
+   Cobb, NK
+   Graham, AL
+AF Fu, Luella
+   Jacobs, Megan A.
+   Brookover, Jody
+   Valente, Thomas W.
+   Cobb, Nathan K.
+   Graham, Amanda L.
+TI An exploration of the Facebook social networks of smokers and
+   non-smokers
+SO PLOS ONE
+LA English
+DT Article
+ID SMOKING-CESSATION INTERVENTION; TOBACCO STATUS PROJECT; ADOLESCENT
+   SMOKING; SELECTION; HEALTH; PEERS
+AB Background
+   Social networks influence health behavior, including tobacco use and cessation. To date, little is known about whether and how the networks of online smokers and non-smokers may differ, or the potential implications of such differences with regards to intervention efforts. Understanding how social networks vary by smoking status could inform public health efforts to accelerate cessation or slow the adoption of tobacco use.
+   Objectives
+   These secondary analyses explore the structure of ego networks of both smokers and non-smokers collected as part of a randomized control trial conducted within Facebook.
+   Methods
+   During the trial, a total of 14,010 individuals installed a Facebook smoking cessation app: 9,042 smokers who were randomized in the trial, an additional 2,881 smokers who did not meet full eligibility criteria, and 2,087 non-smokers. The ego network for all individuals was constructed out to second-degree connections. Four kinds of networks were constructed: friendship, family, photo, and group networks. From these networks we measured edges, isolates, density, mean betweenness, transitivity, and mean closeness. We also measured diameter, clustering, and modularity without ego and isolates. Logistic regressions were performed with smoking status as the response and network metrics as the primary independent variables and demographics and Facebook utilization metrics as covariates.
+   Results
+   The four networks had different characteristics, indicated by different multicollinearity issues and by logistic regression output. Among Friendship networks, the odds of smoking were higher in networks with lower betweenness (p = 0.00), lower transitivity (p = 0.00), and larger diameter (p = 0.00). Among Family networks, the odds of smoking were higher in networks with more vertices (p = .01), less transitivity (p = .04), and fewer isolates (p = .01). Among Photo networks, none of the network metrics were predictive of smoking status. Among Group networks, the odds of smoking were higher when diameter was smaller (p = .04). Together, these findings suggested that compared to non-smokers, smokers in this sample had less connected, more dispersed Facebook Friendship networks; larger but more fractured Family networks with fewer isolates; more compact Group networks; and Photo networks that were similar in network structure to those of non-smokers.
+   Conclusions
+   This study illustrates the importance of examining structural differences in online social networks as a critical component for network-based interventions and lays the foundation for future research that examines the ways that social networks differ based on individual health behavior. Interventions that seek to target the behavior of individuals in the context of their social environment would be well served to understand social network structures of participants.
+C1 [Fu, Luella] Univ Southern Calif, Marshall Sch Business, Los Angeles, CA USA.
+   [Jacobs, Megan A.; Brookover, Jody; Graham, Amanda L.] Truth Initiat, Schroeder Inst Tobacco Res & Policy Studies, Washington, DC USA.
+   [Valente, Thomas W.] Univ Southern Calif, Keck Sch Med, Dept Prevent Med, Los Angeles, CA USA.
+   [Cobb, Nathan K.] Georgetown Univ, Med Ctr, Dept Pulm & Crit Care, Washington, DC 20007 USA.
+   [Graham, Amanda L.] Georgetown Univ, Med Ctr, Dept Oncol, Canc Prevent & Control Program,Lombardi Comprehen, Washington, DC 20007 USA.
+C3 University of Southern California; University of Southern California;
+   Georgetown University; Georgetown University
+RP Jacobs, MA (corresponding author), Truth Initiat, Schroeder Inst Tobacco Res & Policy Studies, Washington, DC USA.
+EM mjacobs@truthinitiative.org
+OI Jacobs, Megan/0000-0001-6526-964X
+FU National Cancer Institute of the National Institutes of Health
+   [R01CA155369]
+FX This research was funded by grant # R01CA155369 from the National Cancer
+   Institute of the National Institutes of Health (http://www.cancer.gov/)
+   to NKC and ALG. The funder had no role in study design, data collection
+   and analysis, decision to publish, or preparation of the manuscript.
+CR Alexander C, 2001, J ADOLESCENT HEALTH, V29, P22, DOI 10.1016/S1054-139X(01)00210-5
+   [Anonymous], NICOTINE TOB RES
+   [Anonymous], 2019, CAR AN R COMPANION A
+   Avenevoli S, 2003, ADDICTION, V98, P1, DOI 10.1046/j.1360-0443.98.s1.2.x
+   Berkman LF, 2000, SOC SCI MED, V51, P843, DOI 10.1016/S0277-9536(00)00065-4
+   Bond RM, 2012, NATURE, V489, P295, DOI 10.1038/nature11421
+   Bray BC, 2016, NICOTINE TOB RES, V18, P2243, DOI 10.1093/ntr/ntw173
+   Cheung YTD, 2015, J MED INTERNET RES, V17, DOI 10.2196/jmir.4829
+   Christakis NA, 2008, NEW ENGL J MED, V358, P2249, DOI 10.1056/NEJMsa0706154
+   Cobb NK, 2016, AM J PUBLIC HEALTH, V106, P1130, DOI 10.2105/AJPH.2016.303106
+   Cobb NK, 2014, BMJ OPEN, V4, DOI 10.1136/bmjopen-2013-004089
+   Cole-Lewis H, 2016, J MED INTERNET RES, V18, DOI 10.2196/jmir.5574
+   Csardi Gabor NT., 2005, INT J COMPLEX SYST, V2006, P1695, DOI DOI 10.3724/SP.J.1087.2009.02191
+   Duke JC, 2014, J MED INTERNET RES, V16, P73, DOI 10.2196/jmir.3430
+   ENNETT ST, 1993, J HEALTH SOC BEHAV, V34, P226, DOI 10.2307/2137204
+   Haines-Saah RJ, 2015, J MED INTERNET RES, V17, DOI 10.2196/jmir.4061
+   Hall JA, 2007, ADDICT BEHAV, V32, P3054, DOI 10.1016/j.addbeh.2007.04.008
+   Hefler M, 2013, TOB CONTROL, V22, P210, DOI 10.1136/tobaccocontrol-2012-050721
+   Kobus K, 2003, ADDICTION, V98, P37, DOI 10.1046/j.1360-0443.98.s1.4.x
+   Kousoulis AA, 2016, AM J HEALTH PROMOT, V30, P390, DOI 10.1177/0890117116646345
+   Latkin CA, 2015, BEHAV MED, V41, P90, DOI 10.1080/08964289.2015.1034645
+   Mays D, 2014, PEDIATRICS, V133, P983, DOI 10.1542/peds.2013-3003
+   Mercken L, 2010, SOC NETWORKS, V32, P72, DOI 10.1016/j.socnet.2009.02.005
+   Pechmann C, 2017, TOB CONTROL, V26, DOI 10.1136/tobaccocontrol-2015-052768
+   Ramo DE, 2015, J MED INTERNET RES, V17, DOI 10.2196/jmir.5209
+   Ramo DE, 2015, BMC PUBLIC HEALTH, V15, DOI 10.1186/s12889-015-2217-0
+   Richardson A, 2014, TOB CONTROL
+   Smith A, 2019, Six new facts about facebook
+   Steglich C, 2010, SOCIOL METHODOL, V40, P329, DOI 10.1111/j.1467-9531.2010.01225.x
+   Valente TW, 2015, SOC SCI MED, V145, P89, DOI 10.1016/j.socscimed.2015.10.001
+   Valente TW, 2013, J ADOLESCENT HEALTH, V52, P358, DOI 10.1016/j.jadohealth.2012.06.014
+   Valente TW, 2012, SCIENCE, V337, P49, DOI 10.1126/science.1217330
+NR 32
+TC 7
+Z9 8
+U1 0
+U2 15
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD NOV 2
+PY 2017
+VL 12
+IS 11
+AR e0187332
+DI 10.1371/journal.pone.0187332
+PG 15
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA FL6FI
+UT WOS:000414340200074
+PM 29095958
+OA Green Published, Green Submitted, gold
+DA 2024-11-22
+ER

@@ -1,0 +1,558 @@
+
+PT J
+AU McMillan, C
+   Felmlee, D
+   Ashford, JR
+AF McMillan, Cassie
+   Felmlee, Diane
+   Ashford, James R.
+TI Reciprocity, transitivity, and skew: Comparing local structure in 40
+   positive and negative social networks
+SO PLOS ONE
+LA English
+DT Article
+ID P-ASTERISK MODELS; TIES; AGGRESSION; HIERARCHIES; FRIENDSHIP;
+   CENTRALITY; AVOIDANCE; DOMINANCE
+AB While most social network research focuses on positive relational ties, such as friendship and information exchange, scholars are beginning to examine the dark side of human interaction, where negative connections represent different forms of interpersonal conflict, intolerance, and abuse. Despite this recent work, the extent to which positive and negative social network structure differs remains unclear. The current project considers whether a network's small-scale, structural patterns of reciprocity, transitivity, and skew, or its "structural signature," can distinguish positive versus negative links. Using exponential random graph models (ERGMs), we examine these differences across a sample of twenty distinct, negative networks and generate comparisons with a related set of twenty positive graphs. Relational ties represent multiple types of interaction such as like versus dislike in groups of adults, friendship versus cyberaggression among adolescents, and agreements versus disputes in online interaction. We find that both positive and negative networks contain more reciprocated dyads than expected by random chance. At the same time, patterns of transitivity define positive but not negative graphs, and negative networks tend to exhibit heavily skewed degree distributions. Given the unique structural signatures of many negative graphs, our results highlight the need for further theoretical and empirical research on the patterns of harmful interaction.
+C1 [McMillan, Cassie] Northeastern Univ, Dept Sociol & Anthropol, Sch Criminol & Criminal Justice, Boston, MA 02115 USA.
+   [Felmlee, Diane] Penn State Univ, Dept Sociol & Criminol, University Pk, PA 16802 USA.
+   [Ashford, James R.] Cardiff Univ, Sch Comp Sci & Informat, Cardiff, Wales.
+C3 Northeastern University; Pennsylvania Commonwealth System of Higher
+   Education (PCSHE); Pennsylvania State University; Pennsylvania State
+   University - University Park; Cardiff University
+RP McMillan, C (corresponding author), Northeastern Univ, Dept Sociol & Anthropol, Sch Criminol & Criminal Justice, Boston, MA 02115 USA.
+EM c.mcmillan@northeastern.edu
+RI McMillan, Cassie/KGM-6448-2024
+OI McMillan, Cassie/0000-0002-4108-8112; Felmlee, Diane/0000-0003-4211-0489
+FU DAIS-ITA; U.S. Army Research Laboratory; U.K. Ministry of Defense
+   [W911NF16-3-0001]
+FX CM, DF, and JRA were sponsored in part by the DAIS-ITA
+   (https://dais-ita.org/pub), the U.S. Army Research Laboratory
+   (https://www.arl.army.mil/), and the U.K. Ministry of Defense
+   (https://www.gov.uk/government/organisations/ministryof-defence) under
+   Agreement Number W911NF16-3-0001. The views and conclusions contained in
+   this document are those of the authors and should not be interpreted as
+   representing the official policies, either expressed or implied, of the
+   U.S. Army Research Laboratory, the U.S. Government, the U.K. Ministry of
+   Defense or the U. K. Government. The funders had no role in study
+   design, data collection and analysis, decision to publish, or
+   preparation of the manuscript.
+CR Ashford JR, 2019, COMPANION OF THE WORLD WIDE WEB CONFERENCE (WWW 2019 ), P1180, DOI 10.1145/3308560.3316754
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Bearman PS, 2004, AM J PUBLIC HEALTH, V94, P89, DOI 10.2105/AJPH.94.1.89
+   Block P, 2015, SOC NETWORKS, V40, P163, DOI 10.1016/j.socnet.2014.10.005
+   Boda Z, 2015, SOC NETWORKS, V43, P57, DOI 10.1016/j.socnet.2015.03.004
+   Bratslavsky, 2001, REV GEN PSYCHOL, V5, P323, DOI [10.1037/1089-2680.5.4.323, DOI 10.1037/1089-2680.5.4.323]
+   Callejas LM, 2020, SOC PSYCHOL QUART, V83, P319, DOI 10.1177/0190272519876936
+   Ellwardt L, 2012, SOC NETWORKS, V34, P193, DOI 10.1016/j.socnet.2011.11.003
+   Estrada E, 2019, DISCRETE APPL MATH, V268, P70, DOI 10.1016/j.dam.2019.04.019
+   Everett MG, 2014, SOC NETWORKS, V38, P111, DOI 10.1016/j.socnet.2014.03.005
+   Faris R, 2020, AM J SOCIOL, V126, P673, DOI 10.1086/712972
+   Faris R, 2012, SOC FORCES, V90, P1207, DOI 10.1093/sf/sos074
+   Faris R, 2011, AM SOCIOL REV, V76, P48, DOI 10.1177/0003122410396196
+   Faust K, 2002, SOCIOL METHODOL, V32, P267, DOI 10.1111/1467-9531.00118
+   Faust K, 2010, SOC NETWORKS, V32, P221, DOI 10.1016/j.socnet.2010.03.004
+   FELD SL, 1982, SOC PSYCHOL QUART, V45, P77, DOI 10.2307/3033928
+   Felmlee D, 2021, APPL NETW SCI, V6, DOI 10.1007/s41109-021-00403-5
+   Felmlee D, 2016, SOC PSYCHOL QUART, V79, P243, DOI 10.1177/0190272516656585
+   Gargiulo M., 1999, Corporate Social Capital and Liability, P298, DOI [10.1007/978-1-4615-5027-317, DOI 10.1007/978-1-4615-5027-3_17]
+   Goodreau SM, 2007, SOC NETWORKS, V29, P231, DOI 10.1016/j.socnet.2006.08.001
+   Goodreau SM, 2009, DEMOGRAPHY, V46, P103, DOI 10.1353/dem.0.0045
+   Gould Roger V., 2003, COLLISION WILLS AMBI
+   GOULDNER AW, 1960, AM SOCIOL REV, V25, P161, DOI 10.2307/2092623
+   Halgin DS, 2020, SOC NETWORKS, V60, P26, DOI 10.1016/j.socnet.2019.07.004
+   HALLINAN MT, 1974, AM J SOCIOL, V80, P364, DOI 10.1086/225804
+   Harrigan N, 2017, SOC NETWORKS, V48, P126, DOI 10.1016/j.socnet.2016.07.003
+   Harrigan NM, 2020, SOC NETWORKS, V60, P1, DOI 10.1016/j.socnet.2019.09.004
+   Heider F, 1946, J PSYCHOL, V21, P107, DOI 10.1080/00223980.1946.9917275
+   HOLLAND PW, 1971, COMP GROUP STUD, V2, P107, DOI 10.1177/104649647100200201
+   Huitsing G, 2012, SOC NETWORKS, V34, P645, DOI 10.1016/j.socnet.2012.08.001
+   Hunter DR, 2007, SOC NETWORKS, V29, P216, DOI 10.1016/j.socnet.2006.08.005
+   Hunter DR., 2008, Journal of Statistical Software, V24, P1, DOI DOI 10.18637/JSS.V024.I03
+   Isakov A, 2019, SOCIOL SCI, V6, P197, DOI 10.15195/v6.a8
+   Kondor D, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0086197
+   Krajewski AT, 2022, SOC NETWORKS, V68, P127, DOI 10.1016/j.socnet.2021.06.001
+   Kros M, 2021, SOC NETWORKS, V64, P122, DOI 10.1016/j.socnet.2020.08.006
+   Kumar S, 2018, WSDM'18: PROCEEDINGS OF THE ELEVENTH ACM INTERNATIONAL CONFERENCE ON WEB SEARCH AND DATA MINING, P333, DOI 10.1145/3159652.3159729
+   Kumar S, 2016, IEEE DATA MINING, P221, DOI [10.1109/ICDM.2016.0033, 10.1109/ICDM.2016.175]
+   Labianca G, 2006, ACAD MANAGE REV, V31, P596, DOI [10.5465/AMR.2006.21318920, 10.2307/20159231]
+   Lerner J, 2020, SOC NETWORKS, V60, P11, DOI 10.1016/j.socnet.2018.12.003
+   Leskovec J., 2010, P 19 INT C WORLD WID, P641, DOI [10.1145/1772690.1772756, DOI 10.1145/1772690.1772756]
+   Liu L, 2018, PHYSICA A, V496, P318, DOI 10.1016/j.physa.2017.12.026
+   Lopez-Kidwell V, 2018, J ORGAN BEHAV, V39, P1129, DOI 10.1002/job.2300
+   Ma X., 2001, Research Papers in Education, V16, P247, DOI [10.1080/02671520126826, DOI 10.1080/02671520126826]
+   Maoz Z, 2007, J POLIT, V69, P100, DOI 10.1111/j.1468-2508.2007.00497.x
+   Martin JL, 2009, SOC PSYCHOL QUART, V72, P241
+   McMillan C, 2020, SOC PSYCHOL QUART, V83, P383, DOI 10.1177/0190272520944151
+   Newcomb Theodore M., 1961, The acquaintance process, DOI [10.1037/13156-000, DOI 10.1037/13156-000]
+   Papachristos AV, 2013, AM SOCIOL REV, V78, P417, DOI 10.1177/0003122413486800
+   Papachristos AV, 2009, AM J SOCIOL, V115, P74, DOI 10.1086/597791
+   Robins G, 2007, SOC NETWORKS, V29, P173, DOI 10.1016/j.socnet.2006.08.002
+   Rubineau B, 2019, SOC NETWORKS, V56, P33, DOI 10.1016/j.socnet.2018.08.005
+   Sampson Samuel Franklin, 1968, THESIS CORNELL U ITH
+   Simmel G, 1902, AM J SOCIOL, V8, P1, DOI 10.1086/211115
+   Skvoretz J., 2002, J SOCIAL STRUCTURE, V3, P139
+   Snijders TAB, 2006, SOCIOL METHODOL, V36, P99, DOI 10.1111/j.1467-9531.2006.00176.x
+   Steglich C, 2010, SOCIOL METHODOL, V40, P329, DOI 10.1111/j.1467-9531.2010.01225.x
+   Szell M, 2010, P NATL ACAD SCI USA, V107, P13636, DOI 10.1073/pnas.1004008107
+   TAYLOR SE, 1991, PSYCHOL BULL, V110, P67, DOI 10.1037/0033-2909.110.1.67
+   Whitaker RM, 2016, SCI REP-UK, V6, DOI 10.1038/srep31459
+NR 60
+TC 3
+Z9 4
+U1 2
+U2 7
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD MAY 20
+PY 2022
+VL 17
+IS 5
+AR e0267886
+DI 10.1371/journal.pone.0267886
+PG 19
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA O6JL1
+UT WOS:001044846900001
+PM 35594268
+OA gold, Green Published, Green Accepted
+DA 2024-11-22
+ER
+
+PT J
+AU Chan, DM
+   Broda, MD
+   Winslow, J
+   Jones, Q
+   Luce, C
+   McGinnis, HA
+   Tomlinson, CA
+   Hamid, H
+   Ma, J
+AF Chan, David M.
+   Broda, Michael D.
+   Winslow, Jeremy
+   Jones, Quindel
+   Luce, Claire
+   McGinnis, Hollees A.
+   Tomlinson, Camie A.
+   Hamid, Haya
+   Ma, Joy
+TI The Effects of Prime Supporters within a College Student's Support
+   Network
+SO NONLINEAR DYNAMICS PSYCHOLOGY AND LIFE SCIENCES
+LA English
+DT Article
+DE prime supporter; support network; GPA; perceived social support; college
+   students
+ID POSTTRAUMATIC-STRESS-DISORDER; SOCIAL-SUPPORT; LONELINESS; PREDICTORS;
+   REGRESSION; GENDER
+AB College students face academic and emotional challenges within and outside of the classroom. There is not a unique way to deal with all of these challenges, however obtaining support from other individuals in their network can be an important factor in their success in dealing with these challenges. Exploratory social support network data from 38 undergraduate students were collected and analyzed to find common network structures and examine the relationship between these structures and student characteristics, GPA, perceived social support, and use of other help resources. We found half of the students had what we defined to be a novel network characteristic, prime supporters, which are individuals who provided academic and emotional support to students for both routine and intense academic and emotional problems. We found students with a prime supporter in their social network tended to have higher GPAs and perceived social support than those without a prime supporter. Students with prime supporters also had differences in academic help-seeking behavior. These findings suggest the need for further research on the social networks of college students, particularly the presence of individuals who are providers of multiple sources of support.
+C1 [Chan, David M.; Broda, Michael D.; Winslow, Jeremy; Jones, Quindel; Luce, Claire; McGinnis, Hollees A.; Tomlinson, Camie A.; Hamid, Haya; Ma, Joy] Virginia Commonwealth Univ, Richmond, VA 23284 USA.
+C3 Virginia Commonwealth University
+RP Chan, DM (corresponding author), Virginia Commonwealth Univ, Dept Math & Appl Math, 1015 Floyd Ave,Box 842014, Richmond, VA 23284 USA.
+EM dmchan@vcu.edu
+RI Broda, Michael/AAD-4134-2022; Tomlinson, Camie A./JGD-4627-2023; Chan,
+   David/E-7149-2017
+OI Tomlinson, Camie A./0000-0002-7973-3295; McGinnis,
+   Hollee/0000-0003-1067-3914
+FU College of Humanities and Sciences at Virginia Commonwealth University
+FX The authors would like to thank the College of Humanities and Sciences
+   at Virginia Commonwealth University for providing funding to conduct
+   this study.
+CR Amer Coll Hlth Assoc, 2006, J AM COLL HEALTH, V55, P5
+   Antonio AL, 2001, REV HIGH EDUC, V25, P63, DOI 10.1353/rhe.2001.0013
+   Antonucci T.C., 1986, Generations: Journal of the American Society on Aging, V10, P10
+   Boettcher M.L., 2019, Journal of College University Student Housing, V45, P30
+   BOOTH R, 1983, PSYCHOL REP, V53, P347, DOI 10.2466/pr0.1983.53.2.347
+   Bormann I, 2019, EDUC RES-UK, V61, P161, DOI 10.1080/00131881.2019.1596036
+   Brandy JM, 2015, J PSYCHOSOC NURS MEN, V53, P38, DOI 10.3928/02793695-20150126-03
+   Breiman L., 2001, Machine Learning, V45, P5, DOI 10.1023/A:1010933404324
+   Breiman L, 2001, STAT SCI, V16, P199, DOI 10.1214/ss/1009213726
+   Brewin CR, 2000, J CONSULT CLIN PSYCH, V68, P748, DOI 10.1037/0022-006X.68.5.748
+   Bye LA, 2020, HIGH EDUC RES DEV, V39, P898, DOI 10.1080/07294360.2019.1705253
+   Cheng W, 2012, HIGH EDUC, V64, P399, DOI 10.1007/s10734-011-9501-4
+   de-Marcos L, 2016, COMPUT HUM BEHAV, V60, P312, DOI 10.1016/j.chb.2016.02.052
+   DeBerard S.M., 2004, College Student Journal, V38, P66, DOI DOI 10.1002/SIM.2397
+   Field RJ, 2011, NONLIN DYNAM PSYCHOL, V15, P53
+   Gary J.M., 2007, SPECIAL POPULATIONS, P99
+   Grömping U, 2009, AM STAT, V63, P308, DOI 10.1198/tast.2009.08199
+   Guan RX, 2020, REV PSICOL DEPORTE, V29, P103
+   Hogan MJ, 2010, AUST J PSYCHOL, V62, P30, DOI 10.1080/00049530903312881
+   Kuhn M., 2013, APPL PREDICTIVE MODE, DOI 10.1007/978-1-4614-6849-3
+   Kyei-Blankson L, 2016, INT J INF COMMUN TEC, V12, P62, DOI 10.4018/IJICTE.2016100106
+   Lee S, 2018, HEALTH COMMUN, V33, P22, DOI 10.1080/10410236.2016.1242032
+   Lin Y.-C., 2007, CHINESE ANN REPORT G, V21, P1
+   Lomi A, 2011, SOC SCI RES, V40, P1506, DOI 10.1016/j.ssresearch.2011.06.010
+   Ma R., 2020, REV ARGENT CLIN PSIC, V29, P180
+   Mason MJ, 2014, J AM COLL HEALTH, V62, P470, DOI 10.1080/07448481.2014.923428
+   Nicpon MF, 2006, J COLL STUD RETENT-R, V8, P345, DOI 10.2190/A465-356M-7652-783R
+   Ozer EJ, 2003, PSYCHOL BULL, V129, P52, DOI 10.1037//0033-2909.129.1.52
+   Patterson MS, 2019, J AM COLL HEALTH, V67, P59, DOI 10.1080/07448481.2018.1462820
+   Preacher K.J., 2001, CALCULATION FISHERS
+   Raposa EB, 2021, APPL DEV SCI, V25, P38, DOI 10.1080/10888691.2018.1526635
+   Rizzuto T. E., 2009, Soc. Psychol. Educ, V12, P175, DOI [10.1007/s11218-008-9080-0, DOI 10.1007/S11218-008-9080-0]
+   Robbins SB, 2004, PSYCHOL BULL, V130, P261, DOI 10.1037/0033-2909.130.2.261
+   Rueger SY, 2010, J YOUTH ADOLESCENCE, V39, P47, DOI 10.1007/s10964-008-9368-6
+   Santiago J. S., 2017, THESIS
+   Strobl C, 2009, PSYCHOL METHODS, V14, P323, DOI 10.1037/a0016973
+   Swift A., 2000, Journal of College Student Psychotherapy, V14, P23, DOI DOI 10.1300/J035V14N04_05
+   Tasso AF, 2021, PSYCHOL TRAUMA-US, V13, P9, DOI 10.1037/tra0000996
+   Wassenaar M, 2017, JUNCTURES, P48
+   Wilson KT, 2014, BMC WOMENS HEALTH, V14, DOI 10.1186/1472-6874-14-8
+   Wright MN, 2017, J STAT SOFTW, V77, P1, DOI 10.18637/jss.v077.i01
+   Ziegler A, 2014, WIRES DATA MIN KNOWL, V4, P55, DOI 10.1002/widm.1114
+   ZIMET GD, 1988, J PERS ASSESS, V52, P30, DOI 10.1207/s15327752jpa5201_2
+NR 43
+TC 1
+Z9 1
+U1 1
+U2 6
+PU SOC CHAOS THEORY PSYCHOLOGY & LIFE SCIENCES
+PI PEWAUKEE
+PA W282 N4302 SOMERSET LN, PEWAUKEE, WI 53072 USA
+SN 1090-0578
+EI 1573-6652
+J9 NONLIN DYNAM PSYCHOL
+JI Nonlinear Dyn. Psychol. Life Sci.
+PD OCT
+PY 2022
+VL 26
+IS 4
+BP 423
+EP 440
+PG 18
+WC Social Sciences, Mathematical Methods; Psychology, Mathematical
+WE Social Science Citation Index (SSCI)
+SC Mathematical Methods In Social Sciences; Psychology
+GA 6O4MB
+UT WOS:000890215600004
+PM 36149269
+DA 2024-11-22
+ER
+
+PT J
+AU Martínez, FL
+   Quesada, FJM
+   Kohl, M
+AF Linares Martinez, Francisco
+   Miguel Quesada, Francisco J.
+   Kohl, Mona
+TI Resilient Homophily Patterns in Youth Friendship Networks: A Case Study
+   Using a Computer Simulation Experiment
+SO REVISTA ESPANOLA DE INVESTIGACIONES SOCIOLOGICAS
+LA English
+DT Article
+DE Homophily; Coleman's Homophily Index; Friendship Networks; Resilience;
+   Agent-Based Simulation; Computational Sociology
+ID SEGREGATION; ORGANIZATIONS; SCHOOL
+AB This paper deals with how to recognise if the patterns of homophily found in a social network are resilient to small disturbances that may occur in that network. Data from a survey of students in a secondary school in the Canary Islands were replicated using an agent-based model. The model calculated homophily indexes and their statistical significance and then simulated small alterations in the distribution of links. The results clearly show that some homophily indexes resist these kinds of perturbations and others do not. Evidence suggests that the distribution of individuals across the social network communities is a key factor in explaining why certain patterns of relationships are more resilient than others.
+C1 [Linares Martinez, Francisco] Univ La Laguna, San Cristobal la Laguna, Spain.
+   [Miguel Quesada, Francisco J.] Univ Autonoma Barcelona, Barcelona, Spain.
+   [Kohl, Mona] Atos Consulting Canarias, Santa Cruz De Tenerife, Spain.
+C3 Universidad de la Laguna; Autonomous University of Barcelona
+RP Martínez, FL (corresponding author), Univ La Laguna, San Cristobal la Laguna, Spain.
+EM flinares@ull.es; Miguel.Quesada@uab.cat; mona.kohl@atos.net
+CR [Anonymous], 2011, REDES REV HISP AN LI, DOI DOI 10.5565/REV/REDES.408
+   Aral Sinan, 2009, PNAS, V16
+   Blau P.M., 1977, INEQUALITY HETEROGEN
+   Bojanowski M, 2014, SOC NETWORKS, V39, P14, DOI 10.1016/j.socnet.2014.04.001
+   COHEN JM, 1977, SOCIOL EDUC, V50, P227, DOI 10.2307/2112497
+   COLEMAN JS, 1958, HUM ORGAN, V17, P28, DOI 10.17730/humo.17.4.q5604m676260q8n7
+   DiMaggio P, 2012, ANNU REV SOCIOL, V38, P93, DOI 10.1146/annurev.soc.012809.102545
+   FELD SL, 1981, AM J SOCIOL, V86, P1015, DOI 10.1086/227352
+   FELD SL, 1982, AM SOCIOL REV, V47, P797, DOI 10.2307/2095216
+   KANDEL DB, 1978, AM J SOCIOL, V84, P427, DOI 10.1086/226792
+   Kossinets G, 2009, AM J SOCIOL, V115, P405, DOI 10.1086/599247
+   Lazarsfeld P.F., 1954, Freedom and Control in Modern Society, P18, DOI DOI 10.1111/J.1467-8705.2012.02056_3.X
+   Linares F, 2018, REV ESP INVESTIG SOC, P21, DOI 10.5477/cis/reis.162.21
+   Linares Francisco., 2018, SOCIOLOGIA TEORIA SO
+   Linares Francisco, 2017, ENCUENTRO SOCIOLOGIA
+   MARSDEN PV, 1987, AM SOCIOL REV, V52, P122, DOI 10.2307/2095397
+   MCPHERSON JM, 1987, AM SOCIOL REV, V52, P370, DOI 10.2307/2095356
+   MCPHERSON JM, 1986, AM SOCIOL REV, V51, P61, DOI 10.2307/2095478
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Moody J, 2001, AM J SOCIOL, V107, P679, DOI 10.1086/338954
+   Shalizi CR, 2011, SOCIOL METHOD RES, V40, P211, DOI 10.1177/0049124111404820
+   SHRUM W, 1988, SOCIOL EDUC, V61, P227, DOI 10.2307/2112441
+   SIGNORILE V, 1965, AM J SOCIOL, V70, P467, DOI 10.1086/223880
+   Wilensky U., 2015, An introduction to agent-based modeling: modeling natural, social, and engineered complex systems with NetLogo
+NR 24
+TC 0
+Z9 0
+U1 2
+U2 3
+PU CENTRO INVESTIGACIONES SOCIOLOGICAS
+PI MADRID
+PA MONTALBAN 8, MADRID, 28014, SPAIN
+SN 0210-5233
+EI 1988-5903
+J9 REV ESP INVESTIG SOC
+JI Rev. Esp. Investig. Sociol.
+PD JAN-MAR
+PY 2022
+IS 177
+BP 43
+EP +
+DI 10.5477/cis/reis.177.43
+PG 49
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA YL4AV
+UT WOS:000745836100003
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Hâncean, MG
+   Perc, M
+   Gheorghita, A
+   Yon, GGV
+   Mihaila, BE
+AF Hancean, Marian-Gabriel
+   Perc, Matjaz
+   Gheorghita, Adrian
+   Yon, George G. Vega
+   Mihaila, Bianca-Elena
+TI The formation of political discussion networks
+SO ROYAL SOCIETY OPEN SCIENCE
+LA English
+DT Article
+DE political discussion networks; homophily; exponential random graph
+   models for small networks; ergmito
+ID SOCIAL NETWORKS; TALK; COMMUNICATION; PARTICIPATION; DISAGREEMENT;
+   RESPONDENTS; PATTERNS; CONTACT; CONTEXT; GENDER
+AB Dialogues among politicians provide a window into political landscapes and relations among parties and nations. Existing research has focused on the outcomes of such dialogues and on the structure of social networks on which they take place. Little is known, however, about how political discussion networks form and which are the main driving forces behind their formation. We study a collection of ego-networks from 30 randomly sampled Romanian politicians to reveal fundamental processes behind the formation of political discussion networks. We show that ties in such networks tend to be strong and balanced, and that their organization is not affected by sex, age or education homophily. We use the exponential family of random graph models for small networks to assess likely closure mechanisms and possible homophily effects, but we note that further research and additional data are needed to fully understand the impact of context and political affiliations on the generalization of our findings.
+C1 [Hancean, Marian-Gabriel; Mihaila, Bianca-Elena] Univ Bucharest, Dept Sociol, 90-92 Panduri St, Bucharest 050663, Romania.
+   [Perc, Matjaz] Univ Maribor, Fac Nat Sci & Math, Koroska Cesta 160, Maribor 2000, Slovenia.
+   [Perc, Matjaz] China Med Univ, China Med Univ Hosp, Dept Med Res, Taichung 404332, Taiwan.
+   [Perc, Matjaz] Alma Mater Europaea, Slovenska Ulica 17, Maribor 2000, Slovenia.
+   [Perc, Matjaz] Complex Sci Hub Vienna, Josefstadterstr 39, A-1080 Vienna, Austria.
+   [Gheorghita, Adrian] Natl Univ Polit Studies & Publ Adm, Dept Polit Sci, 30 Expozitiei Blvd, Bucharest 012244, Romania.
+   [Yon, George G. Vega] Univ Utah, Dept Internal Med, Div Epidemiol, 295 Chipeta Way, Salt Lake City, UT 84132 USA.
+C3 University of Bucharest; University of Maribor; China Medical University
+   Taiwan; China Medical University Hospital - Taiwan; National University
+   of Political Studies & Public Administration (SNSPA) - Romania; Utah
+   System of Higher Education; University of Utah
+RP Hâncean, MG (corresponding author), Univ Bucharest, Dept Sociol, 90-92 Panduri St, Bucharest 050663, Romania.
+EM gabriel.hancean@sas.unibuc.ro
+RI Yon, George/AER-7387-2022; Bianca-Elena, Mihaila/A-3027-2017; Hancean,
+   Marian-Gabriel/B-7145-2019; Perc, Matjaz/A-5148-2009
+OI Bianca-Elena, Mihaila/0000-0003-4930-450X; Hancean,
+   Marian-Gabriel/0000-0001-9358-5287; Perc, Matjaz/0000-0002-3087-541X;
+   Vega Yon, George/0000-0002-3171-0844
+FU Executive Agency for Higher Education, Research, Development and
+   Innovation; UEFISCDI -Government of Romania
+   [PN-III-P4-ID-PCE-2020-2828]; Slovenian Research Agency [P1-0403,
+   J1-2457]
+FX M.-G.H. received funding from The Executive Agency for Higher Education,
+   Research, Development and Innovation. Funding (UEFISCDI -Government of
+   Romania) (code: PN-III-P4-ID-PCE-2020-2828)) M.P. was supported by the
+   Slovenian Research Agency (grant nos. P1-0403 and J1-2457).
+CR ADAMS RG, 1995, AM BEHAV SCI, V39, P209, DOI 10.1177/0002764295039002008
+   Andersen K, 2018, POLIT COMMUN, V35, P634, DOI 10.1080/10584609.2018.1478917
+   [Anonymous], 1998, Avoiding Politics: How Americans Produce Apathy in Everyday Life
+   Antonucci T.C., 2001, HDB PSYCHOL AGING, V5th, P427, DOI DOI 10.1016/B0-08-043076-7/01699-5
+   Bello J, 2014, SOC NETWORKS, V36, P134, DOI 10.1016/j.socnet.2013.06.001
+   Berkman LF., 2000, SOCIAL EPIDEMIOLOGY, DOI DOI 10.1093/OSO/9780195083316.003.0007
+   Bond RM, 2018, SOC INFLUENCE, V13, P104, DOI 10.1080/15534510.2018.1453374
+   Braha D, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0177970
+   BRASS DJ, 1985, ACAD MANAGE J, V28, P327, DOI 10.5465/256204
+   Butters R, 2022, POLIT BEHAV, V44, P1079, DOI 10.1007/s11109-020-09647-w
+   Campus D, 2008, POLIT COMMUN, V25, P423, DOI 10.1080/10584600802427039
+   CARTWRIGHT D, 1956, PSYCHOL REV, V63, P277, DOI 10.1037/h0046049
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   Connors EC, 2020, POLIT BEHAV, V42, P961, DOI 10.1007/s11109-019-09530-3
+   Delli Carpini Michael X., 1997, What Americans Know about Politics and Why It Matters, DOI DOI 10.12987/9780300194319
+   Dostie-Goulet E, 2009, J YOUTH STUD, V12, P405, DOI 10.1080/13676260902866512
+   Eveland WP, 2013, POLIT BEHAV, V35, P65, DOI 10.1007/s11109-011-9187-4
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Hampton K, 2001, AM BEHAV SCI, V45, P476, DOI 10.1177/00027640121957303
+   Hancean M.-G., 2021, ROY SOC OPEN SCI, V9
+   Hedstrom Peter, 1998, Social Mechanisms. An Analytical Approach to Social Theory, P1, DOI [DOI 10.1017/CBO9780511663901.001, 10.1017/CBO9780511663901.001]
+   Huber GA, 2017, J POLIT, V79, P269, DOI 10.1086/687533
+   Huckfeldt R., 1995, Citizens, politics, and social communication: Information and influence in an election campaign
+   HUCKFELDT R, 1994, DYNAMIS AM POLITICS, P252
+   Ibarra H, 1997, SOC PSYCHOL QUART, V60, P91, DOI 10.2307/2787014
+   IBARRA H, 1992, ADMIN SCI QUART, V37, P422, DOI 10.2307/2393451
+   Kalmijn M, 1998, ANNU REV SOCIOL, V24, P395, DOI 10.1146/annurev.soc.24.1.395
+   Katz N, 2004, SMALL GR RES, V35, P307, DOI 10.1177/1046496404264941
+   Kim J, 1999, POLIT COMMUN, V16, P361, DOI 10.1080/105846099198541
+   Klofstad CA, 2013, AM J POLIT SCI, V57, P120, DOI 10.1111/j.1540-5907.2012.00620.x
+   Klofstad CA, 2009, PUBLIC OPIN QUART, V73, P462, DOI 10.1093/poq/nfp032
+   Lazer D., 2008, SSRN J, DOI [10.2139/ssrn.1280328, DOI 10.2139/SSRN.1280328]
+   Lazer D, 2010, POLIT COMMUN, V27, P248, DOI 10.1080/10584609.2010.500187
+   Lin Nan, 2001, Social capital: theory and research, P31
+   Lusher Dean, 2012, Exponential random graph models for social networks: Theory, methods, and applications
+   Marsden P.V., 2005, MODELS METHODS SOCIA, P9
+   MARSDEN PV, 1988, SOC NETWORKS, V10, P57, DOI 10.1016/0378-8733(88)90010-X
+   MARSDEN PV, 1987, AM SOCIOL REV, V52, P122, DOI 10.2307/2095397
+   McCarty C, 2019, Conducting Personal Network Research: A Practical Guide
+   McClurg S. D., 2017, Oxford Handbook of Political Networks, P515, DOI [10.1093/oxfordhb/9780190228217.013.21, DOI 10.1093/OXFORDHB/9780190228217.013.21]
+   McClurg SD, 2006, AM J POLIT SCI, V50, P737, DOI 10.1111/j.1540-5907.2006.00213.x
+   McClurg SD, 2014, SOC NETWORKS, V36, P1, DOI 10.1016/j.socnet.2013.09.001
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mendez JM, 2010, POLIT RES QUART, V63, P269, DOI 10.1177/1065912908328860
+   Minozzi W, 2020, AM J POLIT SCI, V64, P135, DOI 10.1111/ajps.12469
+   Moore RJ, 2004, SOC PSYCHOL QUART, V67, P50, DOI 10.1177/019027250406700106
+   Morris Martina, 2008, J Stat Softw, V24, P1548
+   Murase Y, 2019, SCI REP-UK, V9, DOI 10.1038/s41598-019-40990-z
+   Mutz DC, 2006, J POLIT, V68, P140, DOI 10.1111/j.1468-2508.2006.00376.x
+   Mutz DC, 2006, HEARING THE OTHER SIDE: DELIBERATIVE VERSUS PARTICIPATORY DEMOCRACY, P1, DOI 10.2277/ 0521612284
+   Mutz DC, 2001, AM POLIT SCI REV, V95, P97, DOI 10.1017/S0003055401000223
+   Pietryka MT, 2018, POLIT BEHAV, V40, P711, DOI 10.1007/s11109-017-9419-3
+   Price V., 2008, SAGE HDB PUBLIC OPIN
+   Ribeiro HV, 2018, J COMPLEX NETW, V6, P989, DOI 10.1093/comnet/cny002
+   Sinclair Betsy., 2012, The social citizen
+   Snijders TAB, 2015, SOCIOL METHOD RES, V44, P222, DOI 10.1177/0049124113494573
+   Sokhey AE, 2014, SOC NETWORKS, V36, P147, DOI 10.1016/j.socnet.2013.02.002
+   Sokhey AE, 2011, PS-POLIT SCI POLIT, V44, P55, DOI 10.1017/S1049096510001861
+   Song H, 2015, POLIT COMMUN, V32, P83, DOI 10.1080/10584609.2014.882462
+   Vega Yon GG, 2020 ergmito: exponential random graph models for small networks. R package version 0.3-0
+   Verba S., 1995, VOICE EQUALITY CIVIC
+   VERBRUGGE LM, 1983, SOC FORCES, V62, P78, DOI 10.2307/2578348
+   VERBRUGGE LM, 1977, SOC FORCES, V56, P576, DOI 10.2307/2577741
+   Wax A, 2017, SMALL GR RES, V48, P665, DOI 10.1177/1046496417724209
+   Yon GGV, 2021, SOC NETWORKS, V64, P225, DOI 10.1016/j.socnet.2020.07.005
+NR 65
+TC 1
+Z9 1
+U1 0
+U2 4
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 2054-5703
+J9 ROY SOC OPEN SCI
+JI R. Soc. Open Sci.
+PD JAN 26
+PY 2022
+VL 9
+IS 1
+AR 211609
+DI 10.1098/rsos.211609
+PG 15
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA YM8GY
+UT WOS:000746808400021
+PM 35116162
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Casero-Ripollés, A
+   Alonso-Muñoz, L
+   Marcos-García, S
+AF Casero-Ripolles, Andreu
+   Alonso-Munoz, Laura
+   Marcos-Garcia, Silvia
+TI The Influence of Political Actors in the Digital Public Debate on
+   Twitter About the Negotiations for the Formation of the Government in
+   Spain
+SO AMERICAN BEHAVIORAL SCIENTIST
+LA English
+DT Article
+DE political communication; social influence; social media; digital media;
+   Twitter; political conversation
+ID ONLINE SOCIAL NETWORKS; OPINION LEADERS; MEDIA; COMMUNICATION;
+   CAMPAIGNS; DEMOCRACY; USERS
+AB Social media has introduced new parameters that can potentially transform the digital political conversation. Traditionally, in the age of mass communication, public debate was dominated by politicians and journalists. However, digital platforms, primarily Twitter, have allowed other social actors to join the political discussion, trying to influence it. The objective of this research is to establish what factors enable the authority and digital influence of political actors in the public debate on Twitter. We use a big data sample of 127.3 million tweets from the negotiation process around the formation of the Government in Spain. The applied methodology is based on social network analysis and machine learning. The results show that ideology, political initiative, and political career are configured as factors capable of conditioning the authority and influence of political actors in the political conversation on Twitter.
+C1 [Casero-Ripolles, Andreu] Univ Jaume I Castello, Journalism & Polit Commun, Castellon de La Plana, Spain.
+   [Casero-Ripolles, Andreu] Univ Jaume I Castello, Sch Humanities & Social Sci, Castellon de La Plana, Spain.
+   [Alonso-Munoz, Laura; Marcos-Garcia, Silvia] Univ Jaume I Castello, Journalism, Castellon de La Plana, Spain.
+C3 Universitat Jaume I; Universitat Jaume I; Universitat Jaume I
+RP Casero-Ripollés, A (corresponding author), Univ Jaume I Castello, Dept Commun Sci, Avda Sos Baynat S-N, Castellon de La Plana 12071, Spain.
+EM casero@uji.es
+RI Marcos-García, Silvia/AAH-8393-2020; Alonso-Muñoz, Laura/O-5738-2019
+OI Alonso-Munoz, Laura/0000-0001-8894-1064
+FU Spanish Research Agency (AEI) of the Government of Spain within the
+   National Plan for R+D [CSO2017-88620-P]
+FX The author(s) disclosed receipt of the following financial support for
+   the research, authorship, and/or publication of this article: This
+   article is part of the research project CSO2017-88620-P, funded by the
+   Spanish Research Agency (AEI) of the Government of Spain within the
+   National Plan for R+D.
+CR Alonso-Muñoz L, 2016, TRIPODOS, P71
+   Barberà O, 2019, MEDITERR POLIT, V24, P646, DOI 10.1080/13629395.2018.1428146
+   Bonacich P, 2007, SOC NETWORKS, V29, P555, DOI 10.1016/j.socnet.2007.04.002
+   Buccoliero L., 2020, J. Market. Commun., V26, P88, DOI DOI 10.1080/13527266.2018.1504228
+   Casero-Ripollés A, 2020, MEDIA COMMUN-LISBON, V8, P96, DOI 10.17645/mac.v8i4.3145
+   Casero-Ripollés A, 2020, REV ICONO 14, V18, P33, DOI 10.7195/ri14.v18i1.1527
+   Casero-Ripollés A, 2018, PROF INFORM, V27, P964, DOI 10.3145/epi.2018.sep.01
+   Castells M., 2009, Communication Power
+   Cha M., 2010, ICWSM, V10, P10, DOI DOI 10.1609/ICWSM.V4I1.14033
+   Chadwick A., 2017, The Hybrid Media System: Politics and Power
+   Chadwick A, 2016, INT J PRESS/POLIT, V21, P283, DOI 10.1177/1940161216646731
+   Dagoula C, 2019, MEDIA COMMUN-LISBON, V7, P225, DOI 10.17645/mac.v7i1.1764
+   García MD, 2016, REV ESP INVESTIG SOC, P23, DOI 10.5477/cis/reis.153.23
+   Enli G, 2017, EUR J COMMUN, V32, P50, DOI 10.1177/0267323116682802
+   Fazekas Z, 2021, EUR J POLIT RES, V60, P376, DOI 10.1111/1475-6765.12402
+   Feenstra RA, 2017, R ST ANTIPOLIT DEM C
+   Gruzd A, 2014, AM BEHAV SCI, V58, P1251, DOI 10.1177/0002764214527087
+   Guerrero-Solé F, 2018, SOC MEDIA SOC, V4, DOI 10.1177/2056305118808776
+   Habermas J, 2006, COMMUN THEOR, V16, P411, DOI 10.1111/j.1468-2885.2006.00280.x
+   Hepp A., 2019, Deep mediatization
+   Jungherr A., 2014, TWITTER POLITICS COM
+   Larsson AO, 2012, NEW MEDIA SOC, V14, P729, DOI 10.1177/1461444811422894
+   López-García G, 2016, COMMUN SOC-SPAIN, V29, P149, DOI 10.15581/003.29.3.149-168
+   López-Meri A, 2017, PROF INFORM, V26, P795, DOI 10.3145/epi.2017.sep.02
+   Marcos-Marne H, 2020, WEST EUR POLIT, V43, P1, DOI 10.1080/01402382.2019.1608752
+   McCombs M., 2020, Setting the Agenda: Mass Media and Public Opinion
+   McGregor SC, 2018, NEW MEDIA SOC, V20, P1139, DOI 10.1177/1461444816686103
+   Micó JL, 2017, AM BEHAV SCI, V61, P428, DOI 10.1177/0002764217693277
+   MORACANTALLOPS M, 2019, J AMB INTEL HUM COMP
+   Orriols L, 2016, S EUR SOC POLIT, V21, P469, DOI 10.1080/13608746.2016.1198454
+   Page L., 1998, PAGERANK CITATION RA, P161, DOI DOI 10.1007/978-3-319-08789-4_10
+   Curiel CP, 2020, REV LAT COMUN SOC, P27, DOI 10.4185/RLCS-2020-1415
+   Perez-Curiel C., 2020, Estudios sobre el Mensaje Periodistico, V26, P1133, DOI [10.5209/esmp.64880, DOI 10.5209/ESMP.64880]
+   Probst F, 2013, BUS INFORM SYST ENG+, V5, P179, DOI 10.1007/s12599-013-0263-7
+   Sobieraj S, 2020, AM BEHAV SCI, V64, P1646, DOI 10.1177/0002764220945357
+   Tong JR, 2021, JOURNAL MEDIA, V2, P14, DOI 10.3390/journalmedia2010002
+   Tsatsou P, 2016, SOC MEDIA SOC, V2, DOI 10.1177/2056305116671967
+   Valente TW, 2007, HEALTH EDUC BEHAV, V34, P881, DOI 10.1177/1090198106297855
+   Van Aelst P, 2012, JOURNALISM, V13, P203, DOI 10.1177/1464884911427802
+   van Dijck J., 2013, The Culture of Connectivity: A Critical History of Social Media
+   Van Dijck J., 2018, PLATFORM SOC PUBLIC, DOI DOI 10.1093/OSO/9780190889760.001.0001
+   Vergeer M, 2013, PARTY POLIT, V19, P477, DOI 10.1177/1354068811407580
+   Xu WW, 2014, AM BEHAV SCI, V58, P1278, DOI 10.1177/0002764214527091
+NR 43
+TC 15
+Z9 15
+U1 5
+U2 24
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0002-7642
+EI 1552-3381
+J9 AM BEHAV SCI
+JI Am. Behav. Sci.
+PD MAR
+PY 2022
+VL 66
+IS 3
+SI SI
+BP 307
+EP 322
+AR 00027642211003159
+DI 10.1177/00027642211003159
+EA MAR 2021
+PG 16
+WC Psychology, Clinical; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology; Social Sciences - Other Topics
+GA ZE8DD
+UT WOS:000635304500001
+DA 2024-11-22
+ER

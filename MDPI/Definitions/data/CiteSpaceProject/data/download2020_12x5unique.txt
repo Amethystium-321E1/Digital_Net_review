@@ -1,0 +1,530 @@
+
+PT J
+AU Colleran, H
+AF Colleran, Heidi
+TI Market integration reduces kin density in women's ego-networks in rural
+   Poland
+SO NATURE COMMUNICATIONS
+LA English
+DT Article
+ID SOCIAL NETWORKS; KINSHIP NETWORKS; RESIDENCE PATTERNS; PERSONAL
+   NETWORKS; CONTRACEPTIVE USE; FAMILY; FERTILITY; TRANSMISSION;
+   EVOLUTIONARY; INEQUALITY
+AB It is widely assumed that as populations become more market integrated the 'inner circles' of people's social networks become less densely connected and family-oriented. This 'loosening' of kin networks may fundamentally alter the social dynamics of reproduction, facilitating demographic transitions to low fertility. Few data exist to test this hypothesis. Previous research in urbanized populations has not explicitly measured kin density in ego-networks, nor assessed how market integration influences network structure at different levels of aggregation. Here I analyze the ego-networks of similar to 2000 women in 22 rural Polish communities transitioning from subsistence farming to market-dependence. I compare how ego-network size, density and kin density co-vary with household and community-level market integration. Market integration is associated with less kin-dense networks, but not necessarily less dense ones, and is unrelated to network size. Declining kin density during economic transitions may be a critical mechanism for the broader cultural transmission of low fertility values. Market integration may loosen the dense kinship networks maintaining high fertility among agriculturalists, but data are lacking. Here, Colleran shows that in 22 rural Polish communities, women's ego networks are less kin-oriented, but not less dense, as market integration increases, potentially enabling low fertility values to spread.
+C1 [Colleran, Heidi] Max Planck Inst Evolutionary Anthropol, Dept Human Behav Ecol & Culture, BirthRites Independent Res Grp, Deutsch Pl 6, D-04103 Leipzig, Germany.
+C3 Max Planck Society
+RP Colleran, H (corresponding author), Max Planck Inst Evolutionary Anthropol, Dept Human Behav Ecol & Culture, BirthRites Independent Res Grp, Deutsch Pl 6, D-04103 Leipzig, Germany.
+EM heidi_colleran@eva.mpg.de
+FU ESRC; Wenner-Gren Foundation [8182]; UCL Graduate School; Gay Clifford
+   Fund
+FX I am indebted to the women of Limanowa district who took part in this
+   study. I thank Grazyna Jasienska, Andrzej Galbarczyk, Ilona Nenko and
+   Ruth Mace for support during the study and my field assistants from all
+   stages in the project, the Wojtas and Markiewicz families, and local
+   parish rectors. This work was funded by the ESRC, Wenner-Gren Foundation
+   (dissertation fieldwork grant 8182), UCL Graduate School and Gay
+   Clifford Fund. I thank Adam Powell and Anne Kandler for comments on the
+   paper.
+CR Alvergne A, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0022515
+   [Anonymous], 2012, LME4 LINEAR MIXEDEFF
+   [Anonymous], 2010, An integrated approach to communication theory and research
+   Apicella CL, 2012, NATURE, V481, P497, DOI 10.1038/nature10736
+   Bastani S, 2007, SOC NETWORKS, V29, P357, DOI 10.1016/j.socnet.2007.01.004
+   Behrman JR, 2002, DEMOGRAPHY, V39, P713, DOI 10.2307/3180828
+   Bentley G, 1994, POPULATION STUDIES, V49, P804
+   Cavalli-Sforza LL., 1981, CULTURAL TRANSMISSIO
+   Chaplin H, 2007, REG STUD, V41, P361, DOI 10.1080/00343400701282129
+   Chung Y., 2011, UC BERKELEY DIVISION, P1
+   Chung Y., 2012, PSYCHOMETRIKA, V78, P685
+   Cleland J, 2001, DIFFUSION PROCESSES AND FERTILITY TRANSITION: SELECTED PERSPECTIVES, P39
+   Colleran H., 2014, Soc Biol Hum Aff, V78, P7
+   Colleran H., 2013, The Evolutionary Anthropology of Fertility Decline in Rural Poland
+   Colleran H, 2015, P ROY SOC B-BIOL SCI, V282, DOI 10.1098/rspb.2015.0287
+   Colleran H, 2015, P ROY SOC B-BIOL SCI, V282, DOI 10.1098/rspb.2015.0398
+   Colleran H, 2014, P ROY SOC B-BIOL SCI, V281, DOI 10.1098/rspb.2013.2732
+   Csardi Gabor NT., 2005, INT J COMPLEX SYST, V2006, P1695, DOI DOI 10.3724/SP.J.1087.2009.02191
+   David-Barrett T, 2017, J THEOR BIOL, V417, P20, DOI 10.1016/j.jtbi.2017.01.015
+   David-Barrett T, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0165687
+   Davies Norman., 1981, GODS PLAYGROUND HIST
+   Derex M, 2016, P NATL ACAD SCI USA, V113, P2982, DOI 10.1073/pnas.1518798113
+   Dorie V., 2014, blme: Bayesian Linear Mixed-Effects Models
+   DUNBAR RIM, 1995, HUM NATURE-INT BIOS, V6, P273, DOI 10.1007/BF02734142
+   Durkheim Emile, DIVISION LABOR SOC
+   Dyble M, 2016, CURR BIOL, V26, P2017, DOI 10.1016/j.cub.2016.05.064
+   Fischer Claude S., 1982, To Dwell among Friends: Personal Networks in Town and City
+   FISCHER CS, 1995, SOC NETWORKS, V17, P129, DOI 10.1016/0378-8733(94)00251-5
+   Fogarty L, 2013, THEOR POPUL BIOL, V88, P68, DOI 10.1016/j.tpb.2013.06.006
+   Godley J, 2001, INT FAM PLAN PERSPEC, V27, P4, DOI 10.2307/2673799
+   Godoy RA, 2004, HUM ECOL, V32, P339, DOI 10.1023/B:HUEC.0000028085.47707.08
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   GREENFIELD SM, 1961, AM J SOCIOL, V67, P312, DOI 10.1086/223134
+   Grossetti M, 2007, SOC NETWORKS, V29, P391, DOI 10.1016/j.socnet.2007.01.005
+   Gurven M, 2004, BEHAV ECOL SOCIOBIOL, V56, P366, DOI 10.1007/s00265-004-0793-6
+   Gurven M, 2015, HUM ECOL, V43, P515, DOI 10.1007/s10745-015-9764-y
+   Hill KR, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0102806
+   Hill KR, 2011, SCIENCE, V331, P1286, DOI 10.1126/science.1199071
+   Hill RA, 2003, HUM NATURE-INT BIOS, V14, P53, DOI 10.1007/s12110-003-1016-y
+   HOLLINGER F, 1990, EUROPEAN SOCIOLOGICA, V0006
+   Hooper PL, 2013, ENTROPY-SWITZ, V15, P4932, DOI 10.3390/e15114932
+   Hrdy S. B., 2007, FAMILY RELATIONSHIPS
+   Kaplan H, 1996, YEARB PHYS ANTHROPOL, V39, P91
+   Kasper C, 2015, CURR ANTHROPOL, V56, P701, DOI 10.1086/683024
+   Kohler HP, 2001, DEMOGRAPHY, V38, P43, DOI 10.1353/dem.2001.0005
+   Lindstrom DP, 2005, STUD FAMILY PLANN, V36, P277, DOI 10.1111/j.1728-4465.2005.00070.x
+   LITWAK E, 1969, AM SOCIOL REV, V34, P465, DOI 10.2307/2091957
+   Mace R, 2009, AM J HUM BIOL, V21, P472, DOI 10.1002/ajhb.20940
+   MARSDEN PV, 1987, AM SOCIOL REV, V52, P122, DOI 10.2307/2095397
+   Mathews P, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0056941
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   McPherson M, 2006, AM SOCIOL REV, V71, P353, DOI 10.1177/000312240607100301
+   Mok D, 2010, URBAN STUD, V47, P2747, DOI 10.1177/0042098010377363
+   Montgomery MR, 1996, POPUL DEV REV, V22, P151, DOI 10.2307/2808010
+   MOORE G, 1990, AM SOCIOL REV, V55, P726, DOI 10.2307/2095868
+   Mulder MB, 2009, SCIENCE, V326, P682, DOI 10.1126/science.1178336
+   Mulder MB, 2009, AM J HUM BIOL, V21, P478, DOI 10.1002/ajhb.20885
+   Murphy M, 2008, POPUL DEV REV, V34, P19, DOI 10.1111/j.1728-4457.2008.00204.x
+   Murphy M, 2011, POPUL DEV REV, V37, P55, DOI 10.1111/j.1728-4457.2011.00378.x
+   Newson L, 2005, PERS SOC PSYCHOL REV, V9, P360, DOI 10.1207/s15327957pspr0904_5
+   Newson L, 2007, EVOL HUM BEHAV, V28, P199, DOI 10.1016/j.evolhumbehav.2007.01.003
+   Nolin DA, 2010, HUM NATURE-INT BIOS, V21, P243, DOI 10.1007/s12110-010-9091-3
+   Noordhuizen S, 2011, J FAM ISSUES, V32, P1647, DOI 10.1177/0192513X11409529
+   Pollet TV, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0053929
+   Powell A, 2009, SCIENCE, V324, P1298, DOI 10.1126/science.1170165
+   Power EA, 2018, AM ANTHROPOL, V120, P444, DOI 10.1111/aman.13100
+   Ready E, 2018, CURR ANTHROPOL, V59, P74, DOI 10.1086/696018
+   Roberts SGB, 2011, EVOL HUM BEHAV, V32, P186, DOI 10.1016/j.evolhumbehav.2010.08.005
+   Ruan DC, 1997, SOC NETWORKS, V19, P75, DOI 10.1016/S0378-8733(96)00292-4
+   Sear R, 2015, POP STUD-J DEMOG, V69, pS39, DOI 10.1080/00324728.2014.982905
+   Sear R, 2011, POPUL DEV REV, V37, P81, DOI 10.1111/j.1728-4457.2011.00379.x
+   TESTART A, 1982, CURR ANTHROPOL, V23, P523, DOI 10.1086/202894
+   Tonnies Ferdinand., COMMUNITY ASS
+   Valente TW, 1997, SOC SCI MED, V45, P677, DOI 10.1016/S0277-9536(96)00385-1
+   Van Zyl J, 2000, J POLICY REFORM, V3, P353, DOI [10.1080/13841280008523410, DOI 10.1080/13841280008523410]
+   Viry G, 2012, SOC NETWORKS, V34, P59, DOI 10.1016/j.socnet.2011.07.003
+   Walker RS, 2014, EVOL HUM BEHAV, V35, P384, DOI 10.1016/j.evolhumbehav.2014.05.003
+   Walker RS, 2013, CURR ANTHROPOL, V54, P96, DOI 10.1086/668867
+   WELLMAN B, 1979, URBAN AFF REV, V14, P363, DOI 10.1177/107808747901400305
+   WELLMAN B, 1979, AM J SOCIOL, V84, P1201, DOI 10.1086/226906
+   Wrzus C, 2013, PSYCHOL BULL, V139, P53, DOI 10.1037/a0028601
+   ZELINSKY W, 1971, GEOGR REV, V61, P219, DOI 10.2307/213996
+NR 82
+TC 30
+Z9 32
+U1 1
+U2 14
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 2041-1723
+J9 NAT COMMUN
+JI Nat. Commun.
+PD JAN 14
+PY 2020
+VL 11
+IS 1
+AR 266
+DI 10.1038/s41467-019-14158-2
+PG 9
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA LH6OL
+UT WOS:000528903400009
+PM 31937789
+OA gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Gong, XL
+   Du, ZQ
+AF Gong Xiao-Li
+   Du Zhi-Qiang
+TI Institutional Investor Information Sharing, Stock Market Extreme Risk,
+   and Financial Systemic Risk
+SO COMPLEXITY
+LA English
+DT Article
+ID NETWORKS
+AB To analyze whether information sharing in the institutional investors plays the role of a market stabilizer or risk booster, this paper constructs the institutional investor information network employing the common holding stocks of the mutual funds as links. The information linkages between two funds with large positions in the same stock are hypothesized to be connected to each other. Then, we use the information sharing efficiency in the fund networks to study the effects of information transmission on stock market extreme risk and financial systemic risk. Especially, the speed of information diffusion in the network is characterized by the topology structures based on social network theory. Empirical research studies find that the Chinese fund information network exhibits small-world characteristics, which reflects rapid speed of information diffusion. Seen from the idiosyncratic risk of volatility, information sharing of institutional investors can improve the behavior consistency of fund managers, thus increasing the stock volatility via herd effects. Besides, it can be concluded that institutional investor information sharing can reduce the extreme risk by promoting the comprehensiveness of information flow and the market pricing efficiency of stocks, thereby reducing the degree of financial systemic risk. The obtained conclusions provide suggestions for decision-making of institutional investors. It can help the regulators to pay attention to the herd effects so as to control systemic risk.
+C1 [Gong Xiao-Li; Du Zhi-Qiang] Qingdao Univ, Sch Econ, Qingdao 266061, Peoples R China.
+C3 Qingdao University
+RP Gong, XL (corresponding author), Qingdao Univ, Sch Econ, Qingdao 266061, Peoples R China.
+EM qdgongxiaoli@126.com; gongxiaoli19880518@163.com
+FU National Natural Science Foundation of China [71901130, 71532009,
+   71790594]; Shandong Social Science Planning Project [19CJRJ21]; China
+   Postdoctoral Science Foundation [2018M641653]
+FX The authors would like to acknowledge the financial support from the
+   National Natural Science Foundation of China (nos. 71901130, 71532009,
+   and 71790594), Shandong Social Science Planning Project (no. 19CJRJ21),
+   and China Postdoctoral Science Foundation (2018M641653).
+CR Acharya VV, 2017, REV FINANC STUD, V30, P2, DOI 10.1093/rfs/hhw088
+   Adrian T, 2016, AM ECON REV, V106, P1705, DOI 10.1257/aer.20120555
+   An H, 2013, J CORP FINANC, V21, P1, DOI 10.1016/j.jcorpfin.2013.01.001
+   Barigozzi M, 2017, J R STAT SOC C-APPL, V66, P581, DOI 10.1111/rssc.12177
+   Billio M, 2012, J FINANC ECON, V104, P535, DOI 10.1016/j.jfineco.2011.12.010
+   Blocher J, 2016, J FINANC MARK, V30, P1, DOI 10.1016/j.finmar.2016.04.001
+   Brown NC, 2014, MANAGE SCI, V60, P1, DOI 10.1287/mnsc.2013.1751
+   Butler AW, 2012, REV FINANC STUD, V25, P2533, DOI 10.1093/rfs/hhs067
+   Callen JL, 2013, J BANK FINANC, V37, P3047, DOI 10.1016/j.jbankfin.2013.02.018
+   Cici G, 2017, REV ASSET PRICING ST, V7, P144, DOI 10.1093/rapstu/raw007
+   Colla P, 2010, REV FINANC STUD, V23, P203, DOI 10.1093/rfs/hhp021
+   Crawford SS, 2017, J FINANC QUANT ANAL, V52, P1903, DOI 10.1017/S0022109017000588
+   Fan JQ, 2015, J ECONOMETRICS, V186, P367, DOI 10.1016/j.jeconom.2015.02.015
+   Forni M, 2015, J ECONOMETRICS, V185, P359, DOI 10.1016/j.jeconom.2013.10.017
+   Irvine P, 2007, REV FINANC STUD, V20, P741, DOI 10.1093/rfs/hhl027
+   Karimalis EN, 2018, EUR J FINANC, V24, P944, DOI 10.1080/1351847X.2017.1366350
+   Kim JB, 2011, J FINANC ECON, V100, P639, DOI 10.1016/j.jfineco.2010.07.007
+   Krause A, 2012, J ECON BEHAV ORGAN, V83, P583, DOI 10.1016/j.jebo.2012.05.015
+   Li W, 2017, PAC-BASIN FINANC J, V45, P174, DOI 10.1016/j.pacfin.2016.11.005
+   Ozsoylev HN, 2014, REV FINANC STUD, V27, P1323, DOI 10.1093/rfs/hht065
+   Pareek A., 2012, P ATL M JAN ATL GA U
+   Pool VK, 2015, J FINANC, V70, P2679, DOI 10.1111/jofi.12208
+   Pool VK, 2012, REV FINANC STUD, V25, P2563, DOI 10.1093/rfs/hhs075
+   Rodríguez-Moreno M, 2013, J BANK FINANC, V37, P1817, DOI 10.1016/j.jbankfin.2012.07.010
+   Scaillet O, 2004, MATH FINANC, V14, P115, DOI 10.1111/j.0960-1627.2004.00184.x
+   Yang ZH, 2017, MANAGE SCI, V63, P333, DOI 10.1287/mnsc.2015.2305
+NR 26
+TC 5
+Z9 5
+U1 1
+U2 44
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1076-2787
+EI 1099-0526
+J9 COMPLEXITY
+JI Complexity
+PD APR 9
+PY 2020
+VL 2020
+AR 5745916
+DI 10.1155/2020/5745916
+PG 10
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Science & Technology - Other Topics
+GA LJ6BE
+UT WOS:000530247700001
+OA gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Lengyel, B
+   Bokányi, E
+   Di Clemente, R
+   Kertész, J
+   González, MC
+AF Lengyel, Balazs
+   Bokanyi, Eszter
+   Di Clemente, Riccardo
+   Kertesz, Janos
+   Gonzalez, Marta C.
+TI The role of geography in the complex diffusion of innovations
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID NETWORK; GROWTH; MODELS
+AB The urban-rural divide is increasing in modern societies calling for geographical extensions of social influence modelling. Improved understanding of innovation diffusion across locations and through social connections can provide us with new insights into the spread of information, technological progress and economic development. In this work, we analyze the spatial adoption dynamics of iWiW, an Online Social Network (OSN) in Hungary and uncover empirical features about the spatial adoption in social networks. During its entire life cycle from 2002 to 2012, iWiW reached up to 300 million friendship ties of 3 million users. We find that the number of adopters as a function of town population follows a scaling law that reveals a strongly concentrated early adoption in large towns and a less concentrated late adoption. We also discover a strengthening distance decay of spread over the life-cycle indicating high fraction of distant diffusion in early stages but the dominance of local diffusion in late stages. The spreading process is modelled within the Bass diffusion framework that enables us to compare the differential equation version with an agent-based version of the model run on the empirical network. Although both model versions can capture the macro trend of adoption, they have limited capacity to describe the observed trends of urban scaling and distance decay. We find, however that incorporating adoption thresholds, defined by the fraction of social connections that adopt a technology before the individual adopts, improves the network model fit to the urban scaling of early adopters. Controlling for the threshold distribution enables us to eliminate the bias induced by local network structure on predicting local adoption peaks. Finally, we show that geographical features such as distance from the innovation origin and town size influence prediction of adoption peak at local scales in all model specifications.
+C1 [Lengyel, Balazs; Di Clemente, Riccardo; Gonzalez, Marta C.] MIT, Dept Civil & Environm Engn, 77 Massachusetts Ave, Cambridge, MA 02139 USA.
+   [Lengyel, Balazs] Int Business Sch Budapest, H-1037 Budapest, Hungary.
+   [Lengyel, Balazs; Bokanyi, Eszter] Inst Econ, Agglomerat & Social Networks Lendulet Res Grp, Ctr Econ & Reg Studies, H-1097 Budapest, Hungary.
+   [Lengyel, Balazs; Bokanyi, Eszter] Corvinus Univ Budapest, Inst Adv Studies, H-1093 Budapest, Hungary.
+   [Di Clemente, Riccardo] Univ Exeter, Dept Comp Sci, Exeter EX4 4QF, Devon, England.
+   [Di Clemente, Riccardo] UCL, Bartlett Ctr Adv Spatial Anal, London WC1E 6BT, England.
+   [Kertesz, Janos] Cent European Univ, Dept Network & Data Sci, H-1051 Budapest, Hungary.
+   [Gonzalez, Marta C.] Univ Calif Berkeley, Dept City & Reg Planning, Berkeley, CA 94720 USA.
+   [Gonzalez, Marta C.] Lawrence Berkeley Natl Lab, Energy Anal & Environm Impacts Div, Berkeley, CA 94720 USA.
+C3 Massachusetts Institute of Technology (MIT); Hungarian Academy of
+   Sciences; Hungarian Research Network; HUN-REN Centre for Economic &
+   Regional Studies; Corvinus University Budapest; University of Exeter;
+   University of London; University College London; Central European
+   University; University of California System; University of California
+   Berkeley; United States Department of Energy (DOE); Lawrence Berkeley
+   National Laboratory
+RP Lengyel, B (corresponding author), MIT, Dept Civil & Environm Engn, 77 Massachusetts Ave, Cambridge, MA 02139 USA.; Lengyel, B (corresponding author), Int Business Sch Budapest, H-1037 Budapest, Hungary.; Lengyel, B (corresponding author), Inst Econ, Agglomerat & Social Networks Lendulet Res Grp, Ctr Econ & Reg Studies, H-1097 Budapest, Hungary.; Lengyel, B (corresponding author), Corvinus Univ Budapest, Inst Adv Studies, H-1093 Budapest, Hungary.
+EM lengyel.balazs@krtk.mta.hu
+RI Kertesz, Janos/JHS-3903-2023; Gonzalez, Marta/E-9456-2011; Di Clemente,
+   Riccardo/N-9471-2014
+OI Bokanyi, Eszter/0000-0002-8625-1139; /0000-0002-8482-0318; Di Clemente,
+   Riccardo/0000-0001-8005-6351
+FU Rosztoczy Foundation; Eotvos Fellowship of the Hungarian State; National
+   Research, Development and Innovation Office [KH 130502]; Royal Society;
+   British Academy; Academy of Medical Sciences (Newton International
+   Fellowship) [NF170505]; SoBigData++ H2020 Grant [871042]; Hungarian
+   Scientific Research Fund [OTKA K-129124]
+FX Balazs Lengyel acknowledges financial support from the Rosztoczy
+   Foundation, the Eotvos Fellowship of the Hungarian State, and from the
+   National Research, Development and Innovation Office (KH 130502).
+   Riccardo Di Clemente as Newton International Fellow of the Royal Society
+   acknowledges the support of The Royal Society, The British Academy, and
+   the Academy of Medical Sciences (Newton International Fellowship,
+   NF170505). Janos Kertesz acknowledges funding received from the
+   SoBigData++ H2020 Grant (ID: 871042) and from the Hungarian Scientific
+   Research Fund (OTKA K-129124).
+CR Aral S, 2017, NAT COMMUN, V8, DOI 10.1038/ncomms14753
+   Aral S, 2009, P NATL ACAD SCI USA, V106, P21544, DOI 10.1073/pnas.0908800106
+   Balland PA, 2020, NAT HUM BEHAV, V4, P248, DOI 10.1038/s41562-019-0803-3
+   Banerjee A, 2013, SCIENCE, V341, P363, DOI 10.1126/science.1236498
+   BASS FM, 1969, MANAGE SCI, V15, P215, DOI 10.1287/mnsc.15.5.215
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Blondel VD, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/10/P10008
+   Centola D., 2018, How Behavior Spreads: The Science of Complex Contagions, DOI DOI 10.2307/J.CTVC7758P
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Deville P, 2016, P NATL ACAD SCI USA, V113, P7047, DOI 10.1073/pnas.1525443113
+   Garcia D, 2017, POLICY INTERNET, V9, P343, DOI 10.1002/poi3.151
+   Gomez-Lievano A, 2017, NAT HUM BEHAV, V1, DOI 10.1038/s41562-016-0012
+   GRANOVETTER M, 1978, AM J SOCIOL, V83, P1420, DOI 10.1086/226707
+   GRILICHES Z, 1957, ECONOMETRICA, V25, P501, DOI 10.2307/1905380
+   Hagerstrand T., 1967, INNOVATION DIFFUSION
+   Kairam S. R., 2012, P 5 ACM INT C WEB SE, P673, DOI DOI 10.1145/2124295.2124374
+   Karsai M, 2016, SCI REP-UK, V6, DOI 10.1038/srep27178
+   Katona Z, 2011, J MARKETING RES, V48, P425, DOI 10.1509/jmkr.48.3.425
+   Kloumann I, 2015, PROCEEDINGS OF THE 24TH INTERNATIONAL CONFERENCE ON WORLD WIDE WEB (WWW 2015), P581, DOI 10.1145/2736277.2741684
+   Lengyel B, 2016, TIJDSCHR ECON SOC GE, V107, P298, DOI 10.1111/tesg.12150
+   Lengyel B, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0137248
+   Leskovec J, 2014, IEEE TRANS COMPUT SO, V1, P156, DOI 10.1109/TCSS.2014.2377789
+   Liben-Nowell D, 2005, P NATL ACAD SCI USA, V102, P11623, DOI 10.1073/pnas.0503018102
+   Lorincz L, 2019, SOC NETWORKS, V57, P43, DOI 10.1016/j.socnet.2018.11.004
+   MAHAJAN V, 1990, J MARKETING, V54, P1, DOI 10.2307/1252170
+   Kassa YM, 2018, IEEE ACCESS, V6, P78881, DOI 10.1109/ACCESS.2018.2885458
+   More J. J., 1978, Proceedings of the Biennial Conference on numerical analysis, P105
+   Newman MEJ, 2003, PHYS REV E, V67, DOI 10.1103/PhysRevE.67.026126
+   Onnela JP, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0016939
+   Pastor-Satorras R, 2015, REV MOD PHYS, V87, P925, DOI 10.1103/RevModPhys.87.925
+   Rand W, 2011, INT J RES MARK, V28, P181, DOI 10.1016/j.ijresmar.2011.04.002
+   Ribeiro B, 2014, WWW'14: PROCEEDINGS OF THE 23RD INTERNATIONAL CONFERENCE ON WORLD WIDE WEB, P653, DOI 10.1145/2566486.2567984
+   Rogers EM., 1983, Diffusion of Innovations, V3
+   Scellato S., 2010, WOSN DISTANCE MATTER
+   Schelling T., 1978, MICROMOTIVES MACROBE
+   Toole JL, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0029528
+   Török J, 2017, SCI REP-UK, V7, DOI 10.1038/s41598-017-17135-1
+   Tóth G, 2021, NAT COMMUN, V12, DOI 10.1038/s41467-021-21465-0
+   Ugander J, 2012, P NATL ACAD SCI USA, V109, P5962, DOI 10.1073/pnas.1116502109
+   Valente TW, 1996, SOC NETWORKS, V18, P69, DOI 10.1016/0378-8733(95)00256-1
+   Wachs J, 2019, ROY SOC OPEN SCI, V6, DOI 10.1098/rsos.182103
+   Wang P, 2009, SCIENCE, V324, P1071, DOI 10.1126/science.1167053
+   Watts DJ, 2002, P NATL ACAD SCI USA, V99, P5766, DOI 10.1073/pnas.082090499
+   Watts DJ, 2007, J CONSUM RES, V34, P441, DOI 10.1086/518527
+   Xiao Y., 2017, SSRN
+NR 46
+TC 25
+Z9 27
+U1 1
+U2 24
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD SEP 15
+PY 2020
+VL 10
+IS 1
+AR 15065
+DI 10.1038/s41598-020-72137-w
+PG 11
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA NU6LE
+UT WOS:000573753200005
+PM 32934332
+OA gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Marqués-Sánchez, P
+   Sánchez, EQ
+   Liébana-Presa, C
+   Fernández-Martínez, E
+   García-Rodríguez, I
+   Benítez-Andrades, JA
+AF Marques-Sanchez, Pilar
+   Quiroga Sanchez, Enedina
+   Liebana-Presa, Cristina
+   Fernandez-Martinez, Elena
+   Garcia-Rodriguez, Isaias
+   Alberto Benitez-Andrades, Jose
+TI The consumption of alcohol by adolescent schoolchildren: Differences in
+   the triadic relationship pattern between rural and urban environments
+SO PLOS ONE
+LA English
+DT Article
+ID IDENTIFICATION TEST AUDIT; TRANSITIVITY; DRINKING; TOBACCO
+AB Objective
+   Excessive alcohol consumption in adolescents is one of the most significant public health problems currently facing society. Social and geographical contexts contribute to the development of alcohol-related behavior in adolescents. The aim of this research is to analyze the social pattern related to alcohol consumption in adolescents based on their geographical environment.
+   Methodology
+   We designed a descriptive cross-sectional study based on social network analysis. We recruited 196 high school students between 16 and 18 years of age to participate in the study. The methodology applied was social network analysis by means of transitivity and homophily social triads. The data were analyzed using STATA statistical software.
+   Results and conclusions
+   A total of 58.48% of rural adolescents consumed alcohol compared to 49.52% of urban adolescents. These results demonstrate that adolescents who live in rural areas exhibit a greater risk of drinking alcohol than those who live in urban areas. The presence of transitive triads increases the probability of sharing sociodemographic attributes in such a way that it may be considered one of the causes of homophily, contributing to adolescents taking greater risks, such as consuming alcohol.
+C1 [Marques-Sanchez, Pilar; Quiroga Sanchez, Enedina; Liebana-Presa, Cristina; Fernandez-Martinez, Elena] Univ Leon, Fac Hlth Sci, SALBIS Res Grp, Ponferrada, Spain.
+   [Garcia-Rodriguez, Isaias] Univ Leon, Escuela Ingenierias Ind & Informat, SECOMUCI Res Grp, Leon, Spain.
+   [Alberto Benitez-Andrades, Jose] Univ Leon, Dept Elect Syst & Automat Engn, SALBIS Res Grp, Leon, Spain.
+C3 Universidad de Leon; Universidad de Leon; Universidad de Leon
+RP Sánchez, EQ (corresponding author), Univ Leon, Fac Hlth Sci, SALBIS Res Grp, Ponferrada, Spain.
+EM equis@unileon.es
+RI Marques-Sanchez, Pilar/Y-9161-2019; García, Isaías/Y-9131-2019; QUIROGA
+   SÁNCHEZ, ENEDINA/ABE-9443-2021; LIEBANA-PRESA, CRISTINA/O-1771-2017;
+   Benitez-Andrades, Jose Alberto/M-1195-2017; Fernandez-Martinez,
+   Elena/I-8357-2017
+OI Garcia, Isaias/0000-0001-5209-8773; LIEBANA-PRESA,
+   CRISTINA/0000-0003-1272-3014; Benitez-Andrades, Jose
+   Alberto/0000-0002-4450-349X; Fernandez-Martinez,
+   Elena/0000-0002-8582-6631
+CR Alshamsi A, 2015, EPJ DATA SCI, V4, DOI 10.1140/epjds/s13688-015-0044-2
+   [Anonymous], 2009, SOCIAL NETWORK ANAL
+   [Anonymous], Instituto Nacional de Estadistica
+   [Anonymous], 2007, SOCIAL NETWORK ANAL
+   [Anonymous], 2004, FACTORES RIESGO PROT
+   [Anonymous], 2002, UCINET WINDOWS SOFTW, DOI 10.1111/j.1439-0310.2009.01613.x
+   [Anonymous], 2009, AN PROSP
+   Arias N, 2017, ADM PUBLICAS COMO SO, P314
+   Barr PB, 2018, SOC SCI MED, V209, P51, DOI 10.1016/j.socscimed.2018.05.027
+   BERNARD HR, 1980, SOC NETWORKS, V2, P191, DOI 10.1016/0378-8733(79)90014-5
+   BISHOP JM, 1979, PAC SOCIOL REV, V22, P185
+   BLAU PM, 1982, AM SOCIOL REV, V47, P45, DOI 10.2307/2095041
+   Christakis NA, 2008, NEW ENGL J MED, V358, P2249, DOI 10.1056/NEJMsa0706154
+   Cronk CE, 1997, AM J PUBLIC HEALTH, V87, P760, DOI 10.2105/AJPH.87.5.760
+   DAVIS JA, 1970, AM SOCIOL REV, V35, P843, DOI 10.2307/2093295
+   de la Haye K, 2011, J ADOLESCENT HEALTH, V49, P421, DOI 10.1016/j.jadohealth.2011.02.008
+   Donath C, 2011, BMC PUBLIC HEALTH, V11, DOI 10.1186/1471-2458-11-84
+   ERDOS P, 1960, B INT STATIST INST, V38, P343
+   Erskine-Shaw M, 2017, DRUG ALCOHOL DEPEN, V179, P341, DOI 10.1016/j.drugalcdep.2017.07.032
+   Heider F, 1958, The psychology of interpersonal relations, P59, DOI [10.1037/10628-00016, DOI 10.1037/10628-00016, 10.1037/10628-000]
+   Institute on Drug Abuse N, I DRUG ABUSE N ALCOH
+   Kelly C, 2015, LAND USE POLICY, V46, P11, DOI 10.1016/j.landusepol.2015.01.026
+   Kiuru N, 2007, J YOUTH ADOLESCENCE, V36, P995, DOI 10.1007/s10964-006-9118-6
+   Knecht AB, 2011, J RES ADOLESCENCE, V21, P475, DOI 10.1111/j.1532-7795.2010.00685.x
+   Kobus K, 2003, ADDICTION, V98, P37, DOI 10.1046/j.1360-0443.98.s1.4.x
+   Komro KA, 2007, ADDICTION, V102, P1597, DOI 10.1111/j.1360-0443.2007.01941.x
+   Latkin CA, 2015, BEHAV MED, V41, P90, DOI 10.1080/08964289.2015.1034645
+   Louch H, 2000, SOC NETWORKS, V22, P45, DOI 10.1016/S0378-8733(00)00015-0
+   Lourenco Eduardo, 2014, COLONIALISMO COMO NO, P277
+   Lozares C., 1996, PAPERS, V48, P103, DOI [DOI 10.5565/REV/PAPERS/V48N0.1814, 10.5565/rev/papers/v48n0.1814]
+   McCabe SE, 2006, J AM COLL HEALTH, V54, P269, DOI 10.3200/JACH.54.5.269-278
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Ministerio de Sanidad C y BS, 2011, C MIN EUR OMS STOCKH
+   Moody J, 2003, AM SOCIOL REV, V68, P103, DOI 10.2307/3088904
+   Obradors-Rial N, 2014, GAC SANIT, V28, P381, DOI 10.1016/j.gaceta.2014.04.004
+   Pearson M, 2005, CANC DRUG DISC DEV, P1
+   Pegg KJ, 2018, CYBERPSYCH BEH SOC N, V21, P50, DOI 10.1089/cyber.2016.0665
+   Sotos JR, 2015, J ADV NURS, V71, P581, DOI 10.1111/jan.12548
+   Robinson J.M., 1995, J STRENGTH COND RES, V9, P216
+   Room R, 2005, LANCET, V365, P519, DOI 10.1016/S0140-6736(05)70276-2
+   SAUNDERS JB, 1993, ADDICTION, V88, P791, DOI 10.1111/j.1360-0443.1993.tb02093.x
+   Saunders W., 1992, SCHOOL SCI MATH, V92, P136, DOI DOI 10.1111/J.1949-8594.1992.TB12159.X
+   Savolainen I, 2020, ALCOHOL ALCOHOLISM, V55, P86, DOI 10.1093/alcalc/agz088
+   Simmel G., 1950, SOCIOLOGY G SIMMEL
+   Smith PK, 2008, J CHILD PSYCHOL PSYC, V49, P376, DOI 10.1111/j.1469-7610.2007.01846.x
+   Sudhinaraset M, 2016, ALCOHOL RES-CURR REV, V38, P35
+   Teunissen HA, 2016, J ADOLESCENCE, V53, P45, DOI 10.1016/j.adolescence.2016.08.017
+   Valente TW, 2003, AM J PUBLIC HEALTH, V93, P1837, DOI 10.2105/AJPH.93.11.1837
+   Valladolid GR, 1998, REV CLIN ESP, V198, P11
+   World Health Organization, 2019, World Health Statistics 2019: Monitoring Health for the Sdgs, Sustainable Development Goals
+NR 50
+TC 6
+Z9 6
+U1 0
+U2 5
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD NOV 2
+PY 2020
+VL 15
+IS 11
+AR e0241135
+DI 10.1371/journal.pone.0241135
+PG 12
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA OP8YA
+UT WOS:000588375500021
+PM 33137141
+OA gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Dover, Y
+   Goldenberg, J
+   Shapira, D
+AF Dover, Yaniv
+   Goldenberg, Jacob
+   Shapira, Daniel
+TI Sustainable online communities exhibit distinct hierarchical structures
+   across scales of size
+SO PROCEEDINGS OF THE ROYAL SOCIETY A-MATHEMATICAL PHYSICAL AND ENGINEERING
+   SCIENCES
+LA English
+DT Article
+DE online community; network structure; hierarchy; stability; size scale;
+   social network
+AB As humans, we are uniquely competent at incorporating ourselves into groups that scale up from a few members to millions of individuals to engage in joint activities in social circles of varying sizes. Yet, the question of how a group's survival depends on its social structure is not well understood. In an analysis of more than 10 122 real-life online communities (with a total of 134 147 members) hosted by a leading platform over periods of more than a decade, we observe a prominent structural difference between stable and unstable communities, enabling the prediction of sustainability up to a decade ahead. We find that communities that fail to maintain a typical hierarchical social structure that preserves cohesiveness across size scales do not survive, while communities that exhibit such balance prevail. This difference is observable in as early as the first 30 days of a community's lifetime, enabling prediction of community sustainability up to 10 years in the future. We theorize that communities comprising distinct social structures that balance global and local factors across scales of sizes are more likely to maintain sustainability.
+C1 [Dover, Yaniv] Hebrew Univ Jerusalem, Jerusalem Sch Business Adm, IL-91905 Jerusalem, Israel.
+   [Dover, Yaniv] Hebrew Univ Jerusalem, Federmann Ctr Study Rat, Edmond J Safra Campus, IL-91904 Jerusalem, Israel.
+   [Goldenberg, Jacob] Interdisciplinary Ctr Herzliya, Arison Sch Business, IL-4610101 Herzliyya, Israel.
+   [Goldenberg, Jacob] Columbia Univ, Grad Sch Business, New York, NY 10027 USA.
+   [Shapira, Daniel] Ben Gurion Univ Negev, Guilford Glazer Fac Business & Management, IL-84105 Beer Sheva, Israel.
+   [Shapira, Daniel] Univ Mannheim, Business Sch, D-68131 Mannheim, Germany.
+C3 Hebrew University of Jerusalem; Hebrew University of Jerusalem; Reichman
+   University; Columbia University; Ben Gurion University; University of
+   Mannheim
+RP Dover, Y (corresponding author), Hebrew Univ Jerusalem, Jerusalem Sch Business Adm, IL-91905 Jerusalem, Israel.; Dover, Y (corresponding author), Hebrew Univ Jerusalem, Federmann Ctr Study Rat, Edmond J Safra Campus, IL-91904 Jerusalem, Israel.; Shapira, D (corresponding author), Ben Gurion Univ Negev, Guilford Glazer Fac Business & Management, IL-84105 Beer Sheva, Israel.; Shapira, D (corresponding author), Univ Mannheim, Business Sch, D-68131 Mannheim, Germany.
+EM yaniv.dover@mail.huji.ac.il; ShapiraD@som.bgu.ac.il
+RI SHAPIRA, DANIEL/IUP-2717-2023
+FU Israel Science Foundation [1639/15]
+FX We thank Prof. Shlomo Havlin for comments, support and direction and
+   thank Prof. Uri Alon for his advice and support. Also, we thank the
+   Israel Science Foundation for funding (grant no. 1639/15).
+CR Aral S, 2011, AM J SOCIOL, V117, P90, DOI 10.1086/661238
+   Burt R.S., 2007, Brokerage and closure: An introduction to social capital
+   Carron AV, 2000, SMALL GR RES, V31, P89, DOI 10.1177/104649640003100105
+   Grabowicz PA, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0029358
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Huisman M., 2005, MODELS METHODS SOCIA, P270
+   Itzkovitz S, 2005, PHYS REV E, V71, DOI 10.1103/PhysRevE.71.016127
+   Krackhardt D., 1994, Computational organization theory, P89
+   Migliano AB, 2017, NAT HUM BEHAV, V1, DOI 10.1038/s41562-016-0043
+   MULLEN B, 1994, PSYCHOL BULL, V115, P210, DOI 10.1037/0033-2909.115.2.210
+   Palla G, 2007, NATURE, V446, P664, DOI 10.1038/nature05670
+   Shao J, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.036105
+   Zhou WX, 2005, P ROY SOC B-BIOL SCI, V272, P439, DOI 10.1098/rspb.2004.2970
+NR 13
+TC 1
+Z9 1
+U1 0
+U2 6
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 1364-5021
+EI 1471-2946
+J9 P ROY SOC A-MATH PHY
+JI Proc. R. Soc. A-Math. Phys. Eng. Sci.
+PD JUL 29
+PY 2020
+VL 476
+IS 2239
+AR 20190730
+DI 10.1098/rspa.2019.0730
+PG 11
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA MH8NW
+UT WOS:000546980000006
+PM 32831599
+OA Green Submitted, Bronze, Green Published
+DA 2024-11-22
+ER

@@ -1,0 +1,511 @@
+
+PT J
+AU Nunner, H
+   Buskens, V
+   Corten, R
+   Kaandorp, C
+   Kretzschmar, M
+AF Nunner, Hendrik
+   Buskens, Vincent
+   Corten, Rense
+   Kaandorp, Casper
+   Kretzschmar, Mirjam
+TI Disease avoidance threatens social cohesion in a large-scale social
+   networking experiment
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID RISK PERCEPTION; PROSPECT-THEORY; DYNAMICS; BEHAVIOR; SPREAD
+AB People tend to limit social contacts during times of increased health risks, leading to disruption of social networks thus changing the course of epidemics. To what extent, however, do people show such avoidance reactions? To test the predictions and assumptions of an agent-based model on the feedback loop between avoidance behavior, social networks, and disease spread, we conducted a large-scale (2,879 participants) incentivized experiment. The experiment rewards maintaining social relations and structures, and penalizes acquiring infections. We find that disease avoidance dominates networking decisions, despite relatively low penalties for infections; and that participants use more sophisticated strategies than expected (e.g., avoiding susceptible others with infectious neighbors), while they forget to maintain a beneficial network structure. Consequently, we observe low infection numbers, but also deterioration of network positions. These results imply that the focus on a more obvious signal (i.e., infection) may lead to unwanted side effects (i.e., loss of social cohesion).
+C1 [Nunner, Hendrik] Univ Lubeck, Inst Multimedia & Interact Syst IMIS, Lubeck, Germany.
+   [Buskens, Vincent; Corten, Rense] Univ Utrecht, Dept Sociol ICS, Utrecht, Netherlands.
+   [Buskens, Vincent; Corten, Rense; Kretzschmar, Mirjam] Univ Utrecht, Ctr Complex Syst Studies CCSS, Utrecht, Netherlands.
+   [Kaandorp, Casper] Univ Utrecht, Informat & Technol Serv ITS, Utrecht, Netherlands.
+   [Kretzschmar, Mirjam] Univ Utrecht, Univ Med Ctr Utrecht, Julius Ctr Hlth Sci & Primary Care, Utrecht, Netherlands.
+C3 University of Lubeck; Utrecht University; Utrecht University; Utrecht
+   University; Utrecht University; Utrecht University Medical Center
+RP Nunner, H (corresponding author), Univ Lubeck, Inst Multimedia & Interact Syst IMIS, Lubeck, Germany.
+EM hendrik.nunner@uni-luebeck.de
+RI Buskens, Vincent/B-3134-2012; Corten, Rense/D-7090-2013; Nunner,
+   Hendrik/JXY-8429-2024
+OI Nunner, Hendrik/0000-0002-4083-3651
+FU ODISSEI, the Open Data Infrastructure for Social Science and Economic
+   Innovations
+FX A special thanks goes to Alvaro Uzaheta and Christoph Stadtfeld from the
+   Social Networks Lab at ETH Zurich for their feedback and our discussions
+   that helped to shape that paper. We thank our colleagues from the
+   Sociology department and the Infectious Disease Modeling Group at
+   Utrecht University, as well as the other team members from the Social
+   Networks Lab at ETH Zurich for comments that greatly improved the
+   manuscript.
+CR Andersen S, 2006, EXP ECON, V9, P383, DOI 10.1007/s10683-006-7055-6
+   Badham J, 2010, THEOR POPUL BIOL, V77, P71, DOI 10.1016/j.tpb.2009.11.003
+   Banerjee D, 2020, INT J SOC PSYCHIATR, V66, P525, DOI 10.1177/0020764020922269
+   Bish A, 2010, BRIT J HEALTH PSYCH, V15, P797, DOI 10.1348/135910710X485826
+   Buechel B, 2013, J MATH SOCIOL, V37, P159, DOI 10.1080/0022250X.2011.597011
+   BURT RS, 1992, NETWORKS AND ORGANIZATIONS : STRUCTURE, FORM, AND ACTION, P57
+   Camerer CF, 2003, TRENDS COGN SCI, V7, P225, DOI 10.1016/S1364-6613(03)00094-9
+   Chang SL, 2020, J BIOL DYNAM, V14, P57, DOI [10.1080/17513758.2020.1720322, 10.22649/JBAM.2020.14.1.57]
+   Coleman J.S., 1994, FDN SOCIAL THEORY
+   d'Andrea V, 2022, PLOS COMPUT BIOL, V18, DOI 10.1371/journal.pcbi.1009760
+   Davis R, 2015, HEALTH PSYCHOL REV, V9, P323, DOI 10.1080/17437199.2014.941722
+   DENESRAJ V, 1994, J PERS SOC PSYCHOL, V66, P819, DOI 10.1037/0022-3514.66.5.819
+   Elixir Core Team, 2021, Elixir version v1.11.3
+   Falk A., 2016, IZA Discuss. Papers, V12, P9674
+   Falk A, 2009, SCIENCE, V326, P535, DOI 10.1126/science.1168244
+   Ferguson N, 2007, NATURE, V446, P733, DOI 10.1038/446733a
+   Funk S, 2010, J R SOC INTERFACE, V7, P1247, DOI 10.1098/rsif.2010.0142
+   Gigerenzer G., 1999, SIMPLE HEURISTICS MA, DOI DOI 10.1177/1354067X0171006
+   Hale NL, 2016, AM J PREV MED, V51, P706, DOI 10.1016/j.amepre.2016.05.012
+   Heape A., 2021, Perspectives of the ASHA Special Interest Groups, V6, P1729, DOI [DOI 10.1044/2021_PERSP-21-00107, 10.1044/2021PERSP-21-00107, DOI 10.1044/2021PERSP-21-00107]
+   Jackson MO, 2008, SOCIAL AND ECONOMIC NETWORKS, P1
+   Jones JH, 2009, PLOS ONE, V4, DOI 10.1371/journal.pone.0008032
+   KAHNEMAN D, 1979, ECONOMETRICA, V47, P263, DOI 10.2307/1914185
+   KASPERSON RE, 1988, RISK ANAL, V8, P177, DOI 10.1111/j.1539-6924.1988.tb01168.x
+   Keeling MJ, 1999, P ROY SOC B-BIOL SCI, V266, P859, DOI 10.1098/rspb.1999.0716
+   Kim HHS, 2021, GERONTOLOGIST, V61, P103, DOI 10.1093/geront/gnaa168
+   Kitchovitch S, 2010, PROCEDIA COMPUT SCI, V1, P2339, DOI 10.1016/j.procs.2010.04.264
+   Koku E, 2020, AIDS BEHAV, V24, P206, DOI 10.1007/s10461-019-02637-y
+   Leppin A, 2009, INT J BEHAV MED, V16, P7, DOI 10.1007/s12529-008-9002-8
+   Lunn PD., 2018, Behav. Public Policy, V2, P22, DOI [10.1017/bpp.2016.6, DOI 10.1017/BPP.2016.6]
+   McCord C., 2020, Phoenix Framework Version v1.5.3
+   Miller JC, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.020901
+   Newman MEJ, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.208701
+   Nunner H, 2022, SOC SCI MED, V312, DOI 10.1016/j.socscimed.2022.115350
+   Nunner Hendrik, 2021, Comput Soc Netw, V8, P19, DOI 10.1186/s40649-021-00098-9
+   Ormel J, 1999, SOC INDIC RES, V46, P61, DOI 10.1023/A:1006907811502
+   Pietrabissa G, 2020, FRONT PSYCHOL, V11, DOI 10.3389/fpsyg.2020.02201
+   Sepúlveda-Loyola W, 2020, J NUTR HEALTH AGING, V24, P938, DOI [10.1007/s12603-020-1500-7, 10.1007/s12603-020-1469-2]
+   Simmel G., 1950, SOCIOLOGY G SIMMEL
+   Slovic P., 2002, Risk Manag. Strat. Uncertain World, P1
+   Slovic P, 2006, CURR DIR PSYCHOL SCI, V15, P322, DOI 10.1111/j.1467-8721.2006.00461.x
+   Tagini S, 2021, APPL PSYCHOL-HLTH WE, V13, P835, DOI 10.1111/aphw.12274
+   TVERSKY A, 1992, J RISK UNCERTAINTY, V5, P297, DOI 10.1007/BF00122574
+   Verelst F, 2016, J R SOC INTERFACE, V13, DOI 10.1098/rsif.2016.0820
+   Vriens E., 2020, Managing Risk Heterogeneity in Risk-Sharing Groups: A Multi-Method Study on Risk Aversion and Solidarity
+   Woike JK, 2022, SCI ADV, V8, DOI 10.1126/sciadv.abk0428
+NR 46
+TC 0
+Z9 0
+U1 1
+U2 5
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD DEC 18
+PY 2023
+VL 13
+IS 1
+AR 22586
+DI 10.1038/s41598-023-47556-0
+PG 15
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA DL0M5
+UT WOS:001132080800013
+PM 38114577
+OA gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Zhang, XH
+   Pan, YT
+   Wang, YB
+   Xu, C
+   Sun, YQ
+AF Zhang, Xiaohong
+   Pan, Yuting
+   Wang, Yanbo
+   Xu, Cheng
+   Sun, Yanqi
+TI Online News Media Analysis on Information Management of "G20 Summit"
+   Based on Social Network Analysis
+SO SYSTEMS
+LA English
+DT Article
+DE social network analysis; twitter; information diffusion management
+ID TWITTER
+AB This paper contributes to the Special Issue on Communication for the Digital Media Age by investigating the factors that influence the management of political information on online news media platforms, specifically Twitter and Weibo. Using the recent "G20 Summit" as a case study, this study employs a mixed-methods approach that incorporates both deductive and inductive reasoning. Social network analysis (SNA) and graph theory are used to evaluate specific social relationships in the context of the G20 summit, while a combination of structured and content (semantic) analysis is performed. The findings indicate that individual power is becoming increasingly important in the age of online news media. Individuals contribute significantly to the diffusion of information and may play a decisive role in the future. The study also finds that the frequency of retweets increases as the reciprocity ratio increases, and mentions may be the most effective method for delivering political news on online news media platforms. Practical implications suggest strategies for managing information diffusion effectively. Additionally, this study provides insights into effective information diffusion on online news media platforms that can be utilized in health communication management during the COVID-19 era. This study expands theoretical understanding by investigating the role of individual power in the age of online news media and enriching the literature on online news media through the use of structured and content analysis based on social network analysis.
+C1 [Zhang, Xiaohong; Pan, Yuting; Sun, Yanqi] Beijing Inst Petrochem Technol, Coll Econ & Management, Beijing 102617, Peoples R China.
+   [Zhang, Xiaohong] Dev Res Ctr Beijing New Modern Ind Area, Enterprise Dev & Management Innovat Res Ctr, Beijing 102617, Peoples R China.
+   [Wang, Yanbo] City Univ Hong Kong, Dept Media & Commun, Hong Kong 999077, Peoples R China.
+   [Xu, Cheng] Xian Jiaotong Liverpool Univ, Int Business Sch Suzhou Xian Jiaotong, Dept Strateg Management & Org, Suzhou 215123, Peoples R China.
+C3 Beijing Institute of Petrochemical Technology; City University of Hong
+   Kong; Xi'an Jiaotong-Liverpool University
+RP Sun, YQ (corresponding author), Beijing Inst Petrochem Technol, Coll Econ & Management, Beijing 102617, Peoples R China.
+EM bbmaksun@gmail.com
+RI Xu, Cheng/GNW-3360-2022; Zhang, Xiaohong/A-3060-2015; Wang,
+   Yanbo/AAY-3761-2021
+OI , Cheng/0000-0002-2484-6751
+FU Beijing the Great Wall scholars training program [CITTCD20180314];
+   National Social Science Foundation [19FGLB025]; Zhiyuan Science
+   Foundation of BIPT [2023009]
+FX Beijing the Great Wall scholars training program (project number:
+   CIT&TCD20180314); Project Supported by the National Social Science
+   Foundation in the later stage (project number: 19FGLB025); Supported by
+   the Zhiyuan Science Foundation of BIPT (No. 2023009).
+CR Ahmed W, 2019, ONLINE INFORM REV, V43, P149, DOI 10.1108/OIR-03-2018-0093
+   Anderson C., 2004, WIRED, V10, P12
+   [Anonymous], 2008, ROLL STONE
+   Bakshy E, 2009, 10TH ACM CONFERENCE ON ELECTRONIC COMMERCE - EC 2009, P325
+   Bennett L., 2008, The John D. and Catherine T. MacArthur Foundation Series on Digital Media and Learning, P1
+   Can U, 2019, PHYSICA A, V535, DOI 10.1016/j.physa.2019.122372
+   Chai CL, 2021, INFORM SCIENCES, V577, P483, DOI 10.1016/j.ins.2021.07.012
+   CHAN KK, 1990, J ADVERTISING, V19, P53, DOI 10.1080/00913367.1990.10673192
+   Chen MS, 1996, IEEE T KNOWL DATA EN, V8, P866, DOI 10.1109/69.553155
+   D'Andrea A, 2010, COMPUT COMMUN NETW S, P3, DOI 10.1007/978-1-84882-229-0_1
+   Gu X, 2023, RESOUR CONSERV RECY, V194, DOI 10.1016/j.resconrec.2023.106991
+   Hansen DL, 2011, ANALYZING SOCIAL MEDIA NETWORKS WITH NODEXL: INSIGHTS FROM A CONNECTED WORLD, P11, DOI 10.1016/B978-0-12-382229-1.00002-3
+   Himelboim I, 2017, SOC MEDIA SOC, V3, DOI 10.1177/2056305117691545
+   Hönings H, 2022, HEALTH INFO LIBR J, V39, P22, DOI 10.1111/hir.12361
+   Ji JJ, 2022, PLOS ONE, V17, DOI 10.1371/journal.pone.0267406
+   Kizgin H, 2019, TECHNOL FORECAST SOC, V145, P503, DOI 10.1016/j.techfore.2018.09.010
+   Kwak H., 2010, P 19 INT C WORLD WID, P591, DOI [10.1145/1772690.1772751, DOI 10.1145/1772690.1772751]
+   Li X, 2019, TECHNOL FORECAST SOC, V146, P687, DOI 10.1016/j.techfore.2018.06.004
+   Liao SY, 2017, PROCEDIA COMPUT SCI, V111, P376, DOI 10.1016/j.procs.2017.06.037
+   Lu SF, 2010, COGN SYST RES, V11, P74, DOI 10.1016/j.cogsys.2008.08.009
+   Murphy DMA, 2022, REV ECON STAT, V104, P449, DOI 10.1162/rest_a_00969
+   Otte E, 2002, J INF SCI, V28, P441, DOI 10.1177/016555150202800601
+   Panagiotopoulos P., 2012, OVERVIEW STUDY TWITT
+   Rahevar M., 2020, INT J SCI RES COMPUT, DOI [10.32628/CSEIT2062147, DOI 10.32628/CSEIT2062147]
+   Raoof J.K., 2013, International Journal of Physical Sciences, V8, P1143
+   Rehman AU, 2020, J AMB INTEL HUM COMP, DOI 10.1007/s12652-019-01623-5
+   SCOTT J, 1988, SOCIOLOGY, V22, P109, DOI 10.1177/0038038588022001007
+   Smith MA, 2013, PROCEEDINGS OF THE 2013 INTERNATIONAL CONFERENCE ON COLLABORATION TECHNOLOGIES AND SYSTEMS (CTS), P89
+   Starke C, 2020, SOC MEDIA SOC, V6, DOI 10.1177/2056305120913885
+   Uchino BN, 2004, J SOC CLIN PSYCHOL, V23, P123, DOI 10.1521/jscp.23.2.123.31014
+   Vergeer M, 2015, SOCIOL COMPASS, V9, P745, DOI 10.1111/soc4.12294
+   Verweij P, 2012, JOURNAL PRACT, V6, P680, DOI 10.1080/17512786.2012.667272
+   Wu S., 2011, P 20 INT C WORLD WID, P705, DOI DOI 10.1145/1963405.1963504
+   Wukich C, 2022, URBAN AFF REV, V58, P33, DOI 10.1177/1078087420947182
+   Xu JD, 2021, GEOL SOC SPEC PUBL, V510, P1, DOI 10.1144/SP510-2021-87
+   Zerback Thomas., 2021, Studies in Communication Sciences, V21, P27
+   Zhao WNX, 2011, LECT NOTES COMPUT SC, V6611, P338, DOI 10.1007/978-3-642-20161-5_34
+NR 37
+TC 1
+Z9 1
+U1 4
+U2 15
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2079-8954
+J9 SYSTEMS-BASEL
+JI Systems-Basel
+PD JUN
+PY 2023
+VL 11
+IS 6
+AR 290
+DI 10.3390/systems11060290
+PG 17
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA K3XK0
+UT WOS:001015799100001
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Jo, W
+   Jang, SH
+   Shin, EK
+AF Jo, Wonkwang
+   Jang, Sou Hyun
+   Shin, Eun Kyong
+TI Stage distinctive communication networks of the online breast cancer
+   community
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID LONG-TERM SURVIVORS; SOCIAL NETWORKS; SUPPORT GROUPS
+AB In this study, we reveal the distinctive communication network structures and contents of online breast cancer community posts in accordance with different cancer stages. Using data collected from community.breastcancer.org, a major online breast cancer community (28,139 original posts and 663,748 replies), we traced the communication network structures and contents of replies associated with its severity. By combining network and quantitative content analyses, we deciphered the functions and utilities of health-related online communication. We found an inverse relationship between offline epidemiological prevalence and online communication activation. Despite the relatively small percentage of breast cancer patients, it was found that the more severe the condition of breast cancer, the more active online communication was. We further found that as pathological severity advances, communication networks move from informational exchange to emotional support. The capture of online social networks based on the cancer stage can help unpack the distinctive communication patterns found across different cancer severities. Our results provide insights into a possible online communication intervention design tailored to symptom severity.
+C1 [Jo, Wonkwang] Seoul Natl Univ, Grad Sch Publ Hlth, Dept Publ Hlth Sci, Seoul, South Korea.
+   [Jo, Wonkwang] Seoul Natl Univ, Inst Hlth & Environm, Seoul, South Korea.
+   [Jang, Sou Hyun; Shin, Eun Kyong] Korea Univ, Dept Sociol, 145 Anam Ro, Seoul 02841, South Korea.
+C3 Seoul National University (SNU); Seoul National University (SNU); Korea
+   University
+RP Shin, EK (corresponding author), Korea Univ, Dept Sociol, 145 Anam Ro, Seoul 02841, South Korea.
+EM eunshin@korea.ac.kr
+RI Jang, Sou Hyun/ABB-5354-2021
+FU Seoul National University; National Research Foundation of Korea (NRF) -
+   Korea government [2022R1A4A1033856]
+FX This work was supported by the New Faculty Startup Fund from Seoul
+   National University. This research was partly supported by the National
+   Research Foundation of Korea (NRF) grant funded by the Korea government
+   (No. 2022R1A4A1033856).
+CR American Cancer Society, 2019, CANC FACTS FIGURES 2
+   American Cancer Society, 2019, BREAST CANC FACTS FI
+   Barabasi AL, 2016, NETWORK SCIENCE, P1
+   Bearman PS, 2004, AM J SOCIOL, V110, P44, DOI 10.1086/386272
+   Bender JL, 2013, PATIENT EDUC COUNS, V93, P472, DOI 10.1016/j.pec.2013.07.009
+   Bender JL, 2013, SUPPORT CARE CANCER, V21, P1253, DOI 10.1007/s00520-012-1655-9
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Chang YJ, 2012, BREAST CANCER RES TR, V136, P823, DOI 10.1007/s10549-012-2274-3
+   Chen AT, 2012, PATIENT EDUC COUNS, V87, P250, DOI 10.1016/j.pec.2011.08.017
+   Csardi G, 2006, INTERJOURNAL COMPLEX, V1695
+   Davison KP, 2000, AM PSYCHOL, V55, P205, DOI 10.1037/0003-066X.55.2.205
+   De Salve A, 2018, GOODTECHS '18: PROCEEDINGS OF THE 4TH EAI INTERNATIONAL CONFERENCE ON SMART OBJECTS AND TECHNOLOGIES FOR SOCIAL GOOD (GOODTECHS), P165, DOI 10.1145/3284869.3284904
+   DeSantis CE, 2019, CA-CANCER J CLIN, V69, P438, DOI 10.3322/caac.21583
+   Epping-Jordan JE, 1999, HEALTH PSYCHOL, V18, P315, DOI 10.1037/0278-6133.18.4.315
+   FRUCHTERMAN TMJ, 1991, SOFTWARE PRACT EXPER, V21, P1129, DOI 10.1002/spe.4380211102
+   Given BA, 2001, CA-CANCER J CLIN, V51, P213, DOI 10.3322/canjclin.51.4.213
+   Goh JM, 2016, MIS QUART, V40, P247, DOI 10.25300/MISQ/2016/40.1.11
+   Gooden RJ, 2007, J HEALTH PSYCHOL, V12, P103, DOI 10.1177/1359105307071744
+   Hanneman R. A., 2011, The SAGE handbook of social network analysis, P340, DOI [10.4135/9781446294413.n24, DOI 10.4135/9781446294413.N24]
+   Hobson EA, 2021, BIOL REV, V96, P2716, DOI 10.1111/brv.12775
+   Hornik K., 2019, SPARSE LIGHTWEIGHT A
+   Kroenke CH, 2017, CANCER-AM CANCER SOC, V123, P1228, DOI 10.1002/cncr.30440
+   Kroenke CH, 2006, J CLIN ONCOL, V24, P1105, DOI 10.1200/JCO.2005.04.2846
+   Morse S. R., ONCOL NURS FORUM, P751
+   Mullen L.A., 2018, Journal of Open Source Software, V3, P655, DOI DOI 10.21105/JOSS.00655
+   Newman M., 2010, NETWORKS INTRO
+   Pedersen T. L., 2022, GGRAPH IMPLEMENTATIO
+   PETERSGOLDEN H, 1982, SOC SCI MED, V16, P483, DOI 10.1016/0277-9536(82)90057-0
+   Raats M. M., 1992, Food Quality and Preference, V3, P89, DOI 10.1016/0950-3293(91)90028-D
+   Schlauch WE, 2015, SOC NETW ANAL MIN, V5, DOI 10.1007/s13278-015-0267-z
+   Shaw BR, 2006, CIN-COMPUT INFORM NU, V24, P18, DOI 10.1097/00024665-200601000-00007
+   Shim EJ, 2016, BMC MED EDUC, V16, DOI 10.1186/s12909-016-0824-9
+   Silge J., 2016, J OPEN SOURCE SOFTW, V1, P1, DOI [10.21105/joss.00037, DOI 10.21105/JOSS.00037]
+   SnowballC, 2020, SNOWB STEMM BAS C LI
+   Soerjomataram I, 2008, BREAST CANCER RES TR, V107, P309, DOI 10.1007/s10549-007-9556-1
+   The National Cancer Institute, 2020, CANC STAT
+   The National Cancer Institute, 2021, COMM CANC TYP
+   van Uden-Kraan CF, 2008, COMPUT HUM BEHAV, V24, P309, DOI 10.1016/j.chb.2007.01.014
+   Vivar CG, 2005, J ADV NURS, V51, P520, DOI 10.1111/j.1365-2648.2005.03524.x
+   Waks AG, 2019, JAMA-J AM MED ASSOC, V321, P288, DOI 10.1001/jama.2018.19323
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Wickham H., 2019, J OPEN SOURCE SOFTW, V4, DOI [DOI 10.21105/JOSS.01686, 10.21105/joss.01686]
+   Wickham H., 2016, httr: Tools for working with URLs and HTTP Manual
+   Wilke C. O., 2019, COWPLOT STREAMLINED, DOI DOI 10.1038/S41598-021-83135-X
+NR 46
+TC 1
+Z9 1
+U1 0
+U2 2
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD JAN 31
+PY 2023
+VL 13
+IS 1
+AR 1726
+DI 10.1038/s41598-023-28892-7
+PG 11
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA F9BR9
+UT WOS:000985232500071
+PM 36721061
+OA gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Kroneberg, C
+   Wittek, M
+AF Kroneberg, Clemens
+   Wittek, Mark
+TI The Ethnic Lens: Social Networks and the Salience of Ethnicity in the
+   School Context
+SO SOCIOLOGICAL SCIENCE
+LA English
+DT Article
+DE ethnic boundaries; social networks; ethnic homophily; ethnic labels;
+   peers; exponential random graph models
+ID FRIENDSHIP SEGREGATION; PEER VICTIMIZATION; NEGATIVE TIES; DIVERSITY;
+   MODELS; IDENTIFICATION; AGGRESSION; BOUNDARIES; AVOIDANCE; FEATHER
+AB Research on ethnic segregation in schools regularly assumed that ethnic homophily-the tendency to befriend same-ethnic peers, above and beyond other mechanisms of tie formation-is associated with salient ethnic boundaries. We devise a more direct test of this assumption based on a novel measure of ethno-racial group perceptions. In a network study of more than 3000 students in 39 schools of a metropolitan region in Germany, we asked students to indicate which cliques they perceived in their school grade and to describe these groups in their own words. We find that ethno-racial labels are more likely directed at larger cliques that include a higher share of Muslim students or more students with stronger ethnic identification. Still, ethno-racial labels are rarely employed, both absolutely and relative to other modes of classification. Moreover, net ethnic segregation in friendships ("ethnic homophily") and the reverse pattern in dislike relations ("ethnic heterophobia") are not associated with a more frequent use of ethno-racial labels. Our results have substantive and methodological implications for the study of social networks and diversity in educational settings.
+C1 [Kroneberg, Clemens; Wittek, Mark] Univ Cologne, Inst Sociol & Social Psychol, Cologne, Germany.
+C3 University of Cologne
+RP Kroneberg, C (corresponding author), Univ Cologne, Inst Sociol & Social Psychol, Cologne, Germany.
+EM c.kroneberg@uni-koeln.de; wittek@wiso.uni-koeln.de
+RI Kroneberg, Clemens/JCE-4038-2023
+OI Wittek, Mark/0000-0003-3818-1997
+FU European Union [716461]; Deutsche Forschungsgemeinschaft (DFG, German
+   Research Foundation) under Germany's Excellence Strategy
+   [EXC2126/1-390838866]
+FX This project has received funding from the European Research
+   Council(ERC) under the European Union's Horizon 2020 research and
+   innovation programme(Grant agreement No. 716461). Funded by the Deutsche
+   Forschungsgemeinschaft(DFG, German Research Foundation) under Germany's
+   Excellence Strategy-EXC2126/1-390838866
+CR Adler P.A., 1998, Peer power: Preadolescent culture and identity
+   Agirdag O, 2011, INT J INTERCULT REL, V35, P465, DOI 10.1016/j.ijintrel.2010.09.009
+   Al Ramiah A, 2015, BRIT J SOC PSYCHOL, V54, P100, DOI 10.1111/bjso.12064
+   Allmendinger J., 1989, EUR SOCIOL REV, V5, P231, DOI [10.1093/oxfordjournals.esr.a036524, DOI 10.1093/OXFORDJOURNALS.ESR.A036524]
+   Baerveldt C, 2004, SOC NETWORKS, V26, P55, DOI 10.1016/j.socnet.2004.01.003
+   Baldassarri D, 2020, SCIENCE, V369, P1183, DOI 10.1126/science.abb2432
+   Ball B., 2013, Network Science, V1, P16, DOI [DOI 10.1017/NWS.2012.4, 10.1017/nws.2012.4]
+   Blau P.M., 1977, INEQUALITY HETEROGEN
+   Boda Z, 2020, SOC PSYCHOL QUART, V83, P342, DOI 10.1177/0190272520907594
+   Boda Z, 2018, SOCIOL SCI, V5, P29, DOI 10.15195/v5.a3
+   Boda Z, 2015, SOC NETWORKS, V43, P57, DOI 10.1016/j.socnet.2015.03.004
+   Bojanowski M, 2014, SOC NETWORKS, V39, P14, DOI 10.1016/j.socnet.2014.04.001
+   Brashears ME, 2015, SOC NETWORKS, V41, P113, DOI 10.1016/j.socnet.2014.11.003
+   Bronfenbrenner U., 1995, EXAMINING LIVES CONT, P619, DOI DOI 10.1037/10176-018
+   Brown B.B., 1999, Measuring environment across the life span: Emerging methods and concepts, P59, DOI DOI 10.1037/10317-003
+   Brubaker R, 2002, ARCH EUR SOCIOL, V43, P163, DOI 10.1017/S0003975602001066
+   Brubaker R, 2014, ETHNIC RACIAL STUD, V37, P804, DOI 10.1080/01419870.2013.871311
+   Brubaker Rogers., 2004, Ethnicity without Groups
+   Cairns R.B., 1985, J. Early Adolesc., V5, P339, DOI [10.1177/0272431685053007, DOI 10.1177/0272431685053007]
+   Cairns Robert B., 1990, IDENTIFYING SO UNPUB
+   Carter P.L., 2005, Keepin' It Real: School Success Beyond Black and White
+   Crabtree C, 2022, SOCIOL SCI, V9, P454, DOI 10.15195/v9.a18
+   Dollmann J., 2014, technical report
+   Durkin K, 2012, EUR J SOC PSYCHOL, V42, P243, DOI 10.1002/ejsp.870
+   Duxbury SW, 2023, SOCIOL METHOD RES, V52, P764, DOI 10.1177/0049124120986178
+   Eder D., 1995, School talk: Gender and adolescent culture
+   Erikson E, 2013, SOCIOL THEOR, V31, P219, DOI 10.1177/0735275113501998
+   FELD SL, 1981, AM J SOCIOL, V86, P1015, DOI 10.1086/227352
+   Fleischmann F, 2018, J CROSS CULT PSYCHOL, V49, P44, DOI 10.1177/0022022117741988
+   Fuhse JA, 2024, SOC NETWORKS, V77, P43, DOI 10.1016/j.socnet.2021.12.005
+   Goodreau SM, 2009, DEMOGRAPHY, V46, P103, DOI 10.1353/dem.0.0045
+   Grund TU, 2015, J CONTEMP CRIM JUST, V31, P354, DOI 10.1177/1043986214553377
+   Hannan MT, 2022, SOCIOL SCI, V9, P473, DOI 10.15195/v9.a19
+   Harrigan N, 2017, SOC NETWORKS, V48, P126, DOI 10.1016/j.socnet.2016.07.003
+   Helbling Marc, 2012, Routledge advances in sociology, Islamophobia in the West: Measuring and Explaining Individual Attitudes
+   Hunter DR, 2007, SOC NETWORKS, V29, P216, DOI 10.1016/j.socnet.2006.08.005
+   Jenkins Richard., 1997, Rethinking ethnicity: Arguments and Explorations
+   Juang LP, 2021, IDENTITY, V21, P185, DOI 10.1080/15283488.2021.1932901
+   Kawabata Y, 2011, DEV PSYCHOL, V47, P1763, DOI 10.1037/a0025399
+   Kindermann TA, 1996, SOC DEV, V5, P158, DOI 10.1111/j.1467-9507.1996.tb00078.x
+   Kindermann TA, 2007, CHILD DEV, V78, P1186, DOI 10.1111/j.1467-8624.2007.01060.x
+   Kindermann ThomasA., 2009, Handbook of Peer Interactions, Relationships, and Groups, P100
+   KING G, 2001, POLIT ANAL, V0009
+   Kisfalusi D, 2020, SOC NETWORKS, V60, P48, DOI 10.1016/j.socnet.2018.08.006
+   Koopmans R, 2015, SOC SCI RES, V53, P162, DOI 10.1016/j.ssresearch.2015.05.010
+   Kroneberg C, 2021, EUR SOCIOL REV, V37, P918, DOI 10.1093/esr/jcab013
+   Kros M, 2021, SOC NETWORKS, V64, P122, DOI 10.1016/j.socnet.2020.08.006
+   Kruse H, 2019, AM J SOCIOL, V125, P431, DOI 10.1086/705561
+   Kruse H, 2016, SOC NETWORKS, V44, P130, DOI 10.1016/j.socnet.2015.07.004
+   Leszczensky L, 2019, AM SOCIOL REV, V84, P394, DOI 10.1177/0003122419846849
+   Lorenz G, 2021, SOCIOL SCI, V8, P371, DOI 10.15195/v8.a19
+   Lusher D., 2013, EXPONENTIAL RANDOM G, V35
+   Martin John Levi., 2020, Journal of Social Structure, V21, P77, DOI [10.21307/joss-2020-003, DOI 10.21307/JOSS-2020-003]
+   McFarland DA, 2014, AM SOCIOL REV, V79, P1088, DOI 10.1177/0003122414554001
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Milner M., 2013, FREAKS GEEKS COOL KI, DOI [10.4324/9780203484838, DOI 10.4324/9780203484838]
+   Moody J, 2001, AM J SOCIOL, V107, P679, DOI 10.1086/338954
+   Mouw T, 2006, AM J SOCIOL, V112, P394, DOI 10.1086/506415
+   Neal JW, 2016, SOC NETWORKS, V44, P1, DOI 10.1016/j.socnet.2015.07.002
+   Ozbek Tulay, 2017, Psychoanal Rev, V104, P707, DOI 10.1521/prev.2017.104.6.707
+   Schaefer DR, 2020, AM SOCIOL REV, V85, P709, DOI 10.1177/0003122420941021
+   Schaefer DR, 2018, J QUANT CRIMINOL, V34, P275, DOI 10.1007/s10940-016-9335-4
+   Schindler S, 2017, EUR SOC, V19, P28, DOI 10.1080/14616696.2016.1226373
+   Small ML, 2011, ANNU REV SOCIOL, V37, P57, DOI 10.1146/annurev.soc.012809.102657
+   Smith S, 2016, AM J SOCIOL, V121, P1223, DOI 10.1086/684032
+   Thijs J, 2014, BRIT J EDUC PSYCHOL, V84, P1, DOI 10.1111/bjep.12032
+   Tomz Michael., 2003, Journal of Statistical Software, V8, DOI [https://doi.org/10.18637/jss.v008.i02, DOI 10.18637/JSS.V008.I02, 10.18637/jss.v008.i02]
+   van Loon A., 2020, Differences beyond Identity: Perceived Construal Distance and Interparty Animosity in the United States
+   von Rath Anna, 2021, 10 terms related to identities that require sensitivity in translation
+   Walsh SD, 2016, J YOUTH ADOLESCENCE, V45, P1, DOI 10.1007/s10964-015-0367-0
+   Warikoo N, 2009, REV EDUC RES, V79, P366, DOI 10.3102/0034654308326162
+   Wimmer A., 2013, Ethnic Boundary Making: Institutions, Power, Networks
+   Wimmer A, 2008, AM J SOCIOL, V113, P970, DOI 10.1086/522803
+   Wimmer A, 2010, AM J SOCIOL, V116, P583, DOI 10.1086/653658
+   Wimmer A, 2009, SOCIOL THEOR, V27, P244, DOI 10.1111/j.1467-9558.2009.01347.x
+   Wittek M, 2020, SOC NETWORKS, V60, P34, DOI 10.1016/j.socnet.2019.04.004
+   Zhao LD, 2023, AM J SOCIOL, V128, P1114, DOI 10.1086/723435
+NR 77
+TC 0
+Z9 0
+U1 1
+U2 5
+PU SOC SOCIOLOGICAL SCIENCE
+PI STANFORD
+PA 940 COTTRELL WAY, STANFORD, CA 94305 USA
+EI 2330-6696
+J9 SOCIOL SCI
+JI Sociol. Sci.
+PD OCT 3
+PY 2023
+VL 10
+BP 613
+EP 639
+DI 10.15195/v10.a22
+PG 27
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA U0QO8
+UT WOS:001081940900001
+DA 2024-11-22
+ER
+
+PT J
+AU Evtushenko, A
+   Kleinberg, J
+AF Evtushenko, Anna
+   Kleinberg, Jon
+TI Node-based generalized friendship paradox fails
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+AB The Friendship Paradox-the principle that "your friends have more friends than you do"-is a combinatorial fact about degrees in a graph; but given that many web-based social activities are correlated with a user's degree, this fact has been taken more broadly to suggest the empirical principle that "your friends are also more active than you are." This Generalized Friendship Paradox, the notion that any attribute positively correlated with degree obeys the Friendship Paradox, has been established mathematically in a network-level version that essentially aggregates uniformly over all the edges of a network. Here we show, however, that the natural node-based version of the Generalized Friendship Paradox-which aggregates over nodes, not edges-may fail, even for degree-attribute correlations approaching 1. Whether this version holds depends not only on degree-attribute correlations, but also on the underlying network structure and thus can't be said to be a universal phenomenon. We establish both positive and negative results for this node-based version of the Generalized Friendship Paradox and consider its implications for social-network data.
+C1 [Evtushenko, Anna; Kleinberg, Jon] Cornell Univ, Dept Informat Sci, Ithaca, NY 14850 USA.
+   [Kleinberg, Jon] Cornell Univ, Dept Comp Sci, Ithaca, NY USA.
+C3 Cornell University; Cornell University
+RP Evtushenko, A (corresponding author), Cornell Univ, Dept Informat Sci, Ithaca, NY 14850 USA.
+EM anna@infosci.cornell.edu
+CR Akerlof GA, 1997, ECONOMETRICA, V65, P1005, DOI 10.2307/2171877
+   Altenburger KM, 2018, NAT HUM BEHAV, V2, P284, DOI 10.1038/s41562-018-0321-8
+   Burt R, 2010, CONNECTED CUSTOMER: THE CHANGING NATURE OF CONSUMER AND BUSINESS MARKETS, P217
+   Cantwell GT, 2021, J COMPLEX NETW, V9, DOI 10.1093/comnet/cnab011
+   Christakis NA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0012948
+   Cohen R, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.247901
+   De Choudhury Munmun, 2012, P INT AAAI C WEB SOC
+   Diestel R., 2005, Graph theory
+   Eom YH, 2014, SCI REP-UK, V4, DOI 10.1038/srep04603
+   Farkas J., 1902, Crelles Journal, V1902, P1, DOI [10.1515/crll.1902.124.1, DOI 10.1515/CRLL.1902.124.1]
+   FELD SL, 1991, AM J SOCIOL, V96, P1464, DOI 10.1086/229693
+   Festinger L, 1954, HUM RELAT, V7, P117, DOI 10.1177/001872675400700202
+   Kramer JB, 2016, AM MATH MON, V123, P900, DOI 10.4169/amer.math.monthly.123.9.900
+   Lerman K, 2013, 7 INT AAAI C WEBL SO
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   Romero DM, 2011, LECT NOTES ARTIF INT, V6913, P18, DOI 10.1007/978-3-642-23808-6_2
+   Traud AL, 2012, PHYSICA A, V391, P4165, DOI 10.1016/j.physa.2011.12.021
+   Ugander J, 2011, Arxiv, DOI [arXiv:1111.4503, 10.48550/arxiv.1111.4503]
+   Zhu Y, 2013, PROCEEDINGS OF THE 22ND ACM INTERNATIONAL CONFERENCE ON INFORMATION & KNOWLEDGE MANAGEMENT (CIKM'13), P159, DOI 10.1145/2505515.2505518
+   Zuckerman EW, 2001, SOC PSYCHOL QUART, V64, P207, DOI 10.2307/3090112
+NR 20
+TC 2
+Z9 2
+U1 1
+U2 1
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD FEB 6
+PY 2023
+VL 13
+IS 1
+AR 2074
+DI 10.1038/s41598-023-29268-7
+PG 13
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA G6BK1
+UT WOS:000989985700039
+PM 36746993
+OA gold, Green Published, Green Submitted
+DA 2024-11-22
+ER

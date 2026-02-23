@@ -1,0 +1,587 @@
+
+PT J
+AU Mones, E
+   Stopczynski, A
+   Lehmann, S
+AF Mones, Enys
+   Stopczynski, Arkadiusz
+   Lehmann, Sune
+TI Contact activity and dynamics of the social core
+SO EPJ DATA SCIENCE
+LA English
+DT Article
+DE social networks; online behavior; contact patterns; physical proximity
+ID NETWORK; ONLINE
+AB Humans interact through numerous communication channels to build and maintain social connections: they meet face-to-face, make phone calls or send text messages, and interact via social media. Although it is known that the network of physical contacts, for example, is distinct from the network arising from communication events via phone calls and instant messages, the extent to which these networks differ is not clear. We show here that the network structure of these channels show large structural variations. The various channels account for diverse relationships between pairs of individuals and the corresponding interaction patterns across channels differ to an extent that social ties cannot easily be reduced to a single layer. Each network of interactions, however, contains both central and peripheral individuals: central members are characterized by higher connectivity and can reach a large fraction of the network within a low number of steps, in contrast to the nodes on the periphery. The origin and purpose of each communication network also determine the role of their respective central members: highly connected individuals in the person-to-person networks interact with their environment in a regular manner, while members central in the social communication networks display irregular behavior with respect to their physical contacts and are more active through irregular social events. Our results suggest that due to the inherently different functions of communication channels, each one favors different social behaviors and different strategies for interacting with the environment. These findings can facilitate the understanding of the varying roles and impact individuals have on the population, which can further shed light on the prediction and prevention of epidemic outbreaks, or information propagation.
+C1 [Mones, Enys; Lehmann, Sune] Tech Univ Denmark, Dept Appl Math & Comp Sci, Lyngby, Denmark.
+   [Stopczynski, Arkadiusz] MIT, Media Lab, Cambridge, MA 02139 USA.
+   [Lehmann, Sune] Univ Copenhagen, Niels Bohr Inst, Copenhagen, Denmark.
+C3 Technical University of Denmark; Massachusetts Institute of Technology
+   (MIT); University of Copenhagen; Niels Bohr Institute
+RP Mones, E (corresponding author), Tech Univ Denmark, Dept Appl Math & Comp Sci, Lyngby, Denmark.
+EM enmo@dtu.dk
+RI Lehmann, Sune/AFQ-7000-2022
+OI Lehmann, Sune/0000-0001-6099-2345; Mones, Enys/0000-0001-7724-0094
+FU Villum Foundation; Danish Council for Independent Research; University
+   of Copenhagen (via the UCPH grant Social Fabric)
+FX Due to privacy implications we cannot share data but researchers are
+   welcome to visit and work under our supervision. This work was supported
+   by the Villum Foundation, the Danish Council for Independent Research,
+   and University of Copenhagen (via the UCPH-2016 grant Social Fabric).
+CR Aharony N, 2011, PERVASIVE MOB COMPUT, V7, P643, DOI 10.1016/j.pmcj.2011.09.004
+   Aledavood T, 2015, FRONT PHYS-LAUSANNE, V3, DOI 10.3389/fphy.2015.00073
+   Antheunis ML, 2013, CYBERPSYCHOLOGY, V6, P1
+   Cattuto C, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0011596
+   Christakis NA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0012948
+   De Domenico M, 2015, NAT COMMUN, V6, DOI 10.1038/ncomms7864
+   De Domenico M, 2013, PHYS REV X, V3, DOI 10.1103/PhysRevX.3.041022
+   Eagle N, 2006, PERS UBIQUIT COMPUT, V10, P255, DOI 10.1007/s00779-005-0046-3
+   Eagle N, 2009, P NATL ACAD SCI USA, V106, P15274, DOI 10.1073/pnas.0900282106
+   Ellison N, 2006, J COMPUT-MEDIAT COMM, V11
+   Eubank S, 2004, NATURE, V429, P180, DOI 10.1038/nature02541
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   Garcia-Herranz M, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0092413
+   Gilbert E, 2009, CHI2009: PROCEEDINGS OF THE 27TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, VOLS 1-4, P211
+   Grabowicz PA, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0029358
+   Isella L, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0017144
+   Jones JJ, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0052168
+   Lazer D, 2009, SCIENCE, V323, P721, DOI 10.1126/science.1167742
+   Manrique P, 2016, SCI ADV, V2, DOI 10.1126/sciadv.1501742
+   MARSDEN PV, 1984, SOC FORCES, V63, P482, DOI 10.2307/2579058
+   Mastrandrea R, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0136497
+   Mesch G, 2006, INFORM SOC, V22, P137, DOI 10.1080/01972240600677805
+   Miller G, 2012, PERSPECT PSYCHOL SCI, V7, P221, DOI 10.1177/1745691612441215
+   Mislove A, 2007, IMC'07: PROCEEDINGS OF THE 2007 ACM SIGCOMM INTERNET MEASUREMENT CONFERENCE, P29
+   Nicosia V, 2015, PHYS REV E, V92, DOI 10.1103/PhysRevE.92.032805
+   Onnela JP, 2007, P NATL ACAD SCI USA, V104, P7332, DOI 10.1073/pnas.0610245104
+   PINCUS SM, 1991, P NATL ACAD SCI USA, V88, P2297, DOI 10.1073/pnas.88.6.2297
+   PINCUS SM, 1991, J CLIN MONITOR, V7, P335, DOI 10.1007/BF01619355
+   Raento M, 2009, SOCIOL METHOD RES, V37, P426, DOI 10.1177/0049124108330005
+   Salathé M, 2010, P NATL ACAD SCI USA, V107, P22020, DOI 10.1073/pnas.1009094108
+   Sapiezynski P, 2016, INFERRING PERSON TO
+   Sapiezynski P, 2016, OFFLINE BEHAV ONLINE
+   Scellato S., 2011, Proceedings of the 17th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, P1046
+   Sekara V, 2014, PLOS ONE, V9
+   Sherman L.E., 2013, Cyberpsychology: Journal of Psychosocial Research on Cyberspace, V7, DOI [DOI 10.5817/CP2013-2-3, 10.5817/CP2013-2-3]
+   Smieszek T, 2013, BMC MED, V11, DOI 10.1186/1741-7015-11-35
+   Staiano J, 2012, P 2012 ACM C UB COMP
+   Starnini M, 2013, J THEOR BIOL, V337, P89, DOI 10.1016/j.jtbi.2013.07.004
+   Stehlé J, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0023176
+   Stopczynski A, 2015, ARXIV150906530
+   Stopczynski A, 2014, PLOS ONE, V9, DOI [10.1371/journal.pone.0100915, 10.1371/journal.pone.0095978]
+   Wiese J, 2015, PROCEEDINGS OF THE 2015 ACM INTERNATIONAL CONFERENCE ON COMPUTER-SUPPORTED COOPERATIVE WORK AND SOCIAL COMPUTING (CSCW'15), P765, DOI 10.1145/2675133.2675143
+NR 42
+TC 5
+Z9 5
+U1 0
+U2 9
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+EI 2193-1127
+J9 EPJ DATA SCI
+JI EPJ Data Sci.
+PD MAY 31
+PY 2017
+VL 6
+AR 6
+DI 10.1140/epjds/s13688-017-0103-y
+PG 16
+WC Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Mathematical Methods In Social Sciences
+GA EW4LQ
+UT WOS:000402473400001
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Hart, JP
+   Birch, J
+   St-Pierre, CG
+AF Hart, John P.
+   Birch, Jennifer
+   St-Pierre, Christian Gates
+TI Effects of population dispersal on regional signaling networks: An
+   example from northern Iroquoia
+SO SCIENCE ADVANCES
+LA English
+DT Article
+ID SOCIAL NETWORKS; CENTRALITY; MIGRATION; FRONTIERS; POLITICS; POTTERY;
+   SPACES
+AB The dispersal of Iroquoian groups from St. Lawrence River valley during the 15th and 16th centuries A.D. has been a source of archaeological inquiry for decades. Social network analysis presented here indicates that sites from Jefferson County, New York at the head of the St. Lawrence River controlled interactions within regional social signaling networks during the 15th century A.D. Measures indicate that Jefferson County sites were in brokerage liaison positions between sites in New York and Ontario. In the network for the subsequent century, to which no Jefferson County sites are assigned, no single group took the place of Jefferson County in controlling network flow. The dispersal of Jefferson County populations effectively ended this brokerage function concomitant with the emergence of the nascent Huron-Wendat and Iroquois confederacies and may have contributed to the escalation of conflict between these entities. These results add to a growing literature on the use of network analyses with archaeological data and contribute new insights into processes of population relocation and geopolitical realignment, as well as the role of borderlands and frontiers in nonstate societies.
+C1 [Hart, John P.] New York State Museum & Sci Serv, Res & Collect Div, New York, NY 12230 USA.
+   [Birch, Jennifer] Univ Georgia, Dept Anthropol, 250A Baldwin Hall,Jackson St, Athens, GA 30602 USA.
+   [St-Pierre, Christian Gates] Univ Montreal, Dept Anthropol, CP 6128,Succursale Ctr Ville, Montreal, PQ H3C 3J7, Canada.
+C3 University System of Georgia; University of Georgia; Universite de
+   Montreal
+RP Hart, JP (corresponding author), New York State Museum & Sci Serv, Res & Collect Div, New York, NY 12230 USA.
+EM jph_nysm@nysed.gov
+RI ; Hart, John/H-7419-2014
+OI Birch, Jennifer/0000-0001-9208-9783; Hart, John/0000-0003-2009-0624
+CR Abel T., 2016, ONT ARCHAEOL, V96, P65
+   [Anonymous], 2002, Archaeology of Eastern North America, V30, P137
+   [Anonymous], 1995, Northeast Anthropology, V50, P35
+   [Anonymous], 1985, Ontario Archaeology, V44, P23
+   [Anonymous], 2002, HARVARD MA ANAL TECH
+   [Anonymous], 1989, Sociological Methodology, DOI DOI 10.2307/270949
+   [Anonymous], 2008, POPULATION HIST HURO
+   [Anonymous], 2006, COMPUT MATH ORG THEO
+   Batjargal Bat., 2007, Management and Organizational Review, V3, P397, DOI DOI 10.1111/J.1740-8784.2007.00080.X
+   Biggar H.P, 1922, The Works of Samuel de Champlain: 1599-1632
+   Birch J., 2013, The Mantle Site: An Archaeological History of an Ancestral Wendat Community
+   Birch J, 2015, J ARCHAEOL RES, V23, P263, DOI 10.1007/s10814-015-9082-3
+   Bird RB, 2005, CURR ANTHROPOL, V46, P221, DOI 10.1086/427115
+   Bocquet-Appel JP, 2006, CURR ANTHROPOL, V47, P341, DOI 10.1086/498948
+   Bodin Ö, 2009, GLOBAL ENVIRON CHANG, V19, P366, DOI 10.1016/j.gloenvcha.2009.05.002
+   Borck L, 2015, J ARCHAEOL METHOD TH, V22, P33, DOI 10.1007/s10816-014-9236-5
+   Borgatti SP., 2018, ANAL SOCIAL NETWORKS
+   Bowser BJ, 2004, J ARCHAEOL METHOD TH, V11, P157, DOI 10.1023/B:JARM.0000038065.43689.75
+   Bowser BJ, 2000, J ARCHAEOL METHOD TH, V7, P219, DOI 10.1023/A:1026510620824
+   Bradley JamesW., 2001, Societies in Eclipse: Archaeology of the Eastern Woodlands Indians, P27
+   Brainerd GW, 1951, AM ANTIQUITY, V16, P301, DOI 10.2307/276979
+   Brandes U, 2004, MATH VIS, P321
+   Brughmans T, 2013, J ARCHAEOL METHOD TH, V20, P623, DOI 10.1007/s10816-012-9133-8
+   Carballo DM, 2014, J ARCHAEOL METHOD TH, V21, P98, DOI 10.1007/s10816-012-9147-2
+   Carr C., 1995, STYLE SOC PERSON, P171, DOI DOI 10.1007/978-1-4899-1097-4_7
+   Chapdelaine C., 2016, MIDDLE UPPER SAINT L, P235
+   Chapdelaine Claude., 2004, A Passion for the Past: Papers in Honour of James F. Pendergast, P63
+   Chilton Elizabeth S., 1996, THESIS
+   Crowe JA, 2007, SOC NETWORKS, V29, P469, DOI 10.1016/j.socnet.2007.02.002
+   Dermarkar Susan., 2016, ONTARIO ARCHAEOLOGY, V96, P87
+   Dodd ChristineF., 1990, ARCHAEOLOGY SO ONTAR, P321
+   Ellis Chris., 1990, The Archaeology of Southern Ontario to A.D. 1650, P385
+   Engelbrecht WE, 1996, NEW YORK STATE MUSEU, V489, P129
+   Engelbrecht William., 2016, Archaeology of Eastern North America, V44, P81
+   Engelbrecht William., 2003, IROQUOIA DEV NATIVE
+   Engelbrecht William E., 1971, THESIS
+   FENTON WilliamN., 1998, GREAT LAW LONGHOUSE
+   Fox William, 2016, Ontario Archaeology, V95, P21
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   FREEMAN LC, 1991, SOC NETWORKS, V13, P141, DOI 10.1016/0378-8733(91)90017-N
+   FREEMAN LC, 1980, QUAL QUANT, V14, P585
+   Gates ChristianSt-Pierre., 2016, ONTARIO ARCHAEOLOGY, V96, P47
+   Gates ChristianSt-Pierre., 2009, Painting the Past with a Broad Brush: Papers in Honour of James Valliere Wright, P103
+   Golitko M, 2015, J ARCHAEOL METHOD TH, V22, P206, DOI 10.1007/s10816-014-9211-1
+   Hart JP, 2016, PROCESS AND MEANING IN SPATIAL ARCHAEOLOGY: INVESTIGATIONS INTO PRE-COLUMBIAN IROQUOIAN SPACE AND PLACE, P189, DOI 10.5876/9781607325109.c007
+   Hart JP, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0156178
+   Hart JP, 2012, J ARCHAEOL METHOD TH, V19, P322, DOI 10.1007/s10816-011-9116-1
+   Hart JP, 2012, J ARCHAEOL SCI, V39, P128, DOI 10.1016/j.jas.2011.09.010
+   Hart JP, 2003, AM ANTIQUITY, V68, P737, DOI 10.2307/3557070
+   Hart JP, 2001, J ARCHAEOL METHOD TH, V8, P151, DOI 10.1023/A:1011301218533
+   Hill JB, 2015, ADV ARCHAEOL PRACT, V3, P63, DOI 10.7183/2326-3768.3.1.63
+   irch Jennifer, 2017, PROCESS MEANING SPAT, P147
+   Kintigh K. W., TOOLS QUANTITATIVE A
+   Knappett C., 2013, NEW APPROACHES REGIO
+   Knappett C, 2011, ANTIQUITY, V85, P1008, DOI 10.1017/S0003598X00068459
+   LIGHTFOOT KG, 1995, ANNU REV ANTHROPOL, V24, P471, DOI 10.1146/annurev.an.24.100195.002351
+   Loewen B., 2016, MERCURY SERIES ARCHA, P57
+   Mills BJ, 2015, AM ANTIQUITY, V80, P3, DOI 10.7183/0002-7316.79.4.3
+   Mizoguchi Koji., 2013, Network Analysis in Archaeology: New Approaches to Regional Interaction, P151
+   Morgan L.H., 1851, LEAGUE HO DENO SAU N
+   Naum M, 2010, J ARCHAEOL METHOD TH, V17, P101, DOI 10.1007/s10816-010-9077-9
+   Peeples MA, 2013, J ARCHAEOL SCI, V40, P3001, DOI 10.1016/j.jas.2013.03.014
+   Peeples MA, 2013, AM ANTHROPOL, V115, P232, DOI 10.1111/aman.12006
+   Pendergast J. F., 2012, OCCASIONAL PAPERS NE, P9
+   Pendergast J.F., 1988, Arch Notes, V88, P12
+   Pendergast JamesF., 1991, J NEW YORK STATE ARC, V102, P47
+   Petersen James., 2004, A Passion for the Past: Papers in Honour of James F. Pendergast, P87
+   Pihl Robert., 1984, FINAL REPORT DRAPER
+   Ramsden PeterG., 1990, MAN NE, V39, P87
+   Robinson DW, 2012, CONTEMPORARY ISSUES IN CALIFORNIA ARCHAEOLOGY, P273
+   Robinson WS, 1951, AM ANTIQUITY, V16, P293, DOI 10.2307/276978
+   Shennan Stephen., 1997, QUANTIFYING ARCHAEOL, V2
+   Snow DeanR., 1994, IROQUOIS
+   Snow DR, 1996, AM ANTIQUITY, V61, P791, DOI 10.2307/282019
+   Squire E. G., 1850, SMITHSONIAN CONTRIBU, V2
+   St-Pierre C.G., 2010, Ancient and Modern Bone Artefacts from America to Russia: Cultural, Technological and Functional Signature, P71
+   Thwaites ReubenGold., 1896, JESUIT RELATIONS ALL
+   Tooker Elisabeth., 1964, ETHNOGRAPHY HURON IN
+   Tremblay R., 2006, ROQUOIENS SAINT LAUR
+   Trigger BruceG., 1976, The Children of Aataensic: A History of the Huron People to 1600
+   Trigger BruceG., 1978, Handbook of North American Indians, V15, P357
+   Warrick G, 2000, J WORLD PREHIST, V14, P415, DOI 10.1023/A:1011137725917
+   Warrick GaryA., 1988, MAN NE, V36, P21
+   Waselkov G.A., 1982, N AM ARCHAEOL, V2, P309
+   Williamson R. F., 2016, MERCURY SERIES ARCHA, P235
+   Williamson RonaldF., 1998, ONTARIO ARCHAEOLOGY, V65, P53
+   Williamson RonaldF., 1990, ARCHAEOLOGY SO ONTAR, P291
+   Wonderley A, 2005, AM ANTIQUITY, V70, P211, DOI 10.2307/40035702
+   Wonderley A., 2009, FONT MARVELOUS ORAL
+   Wright J.V., 1979, Quebec Prehistory
+   Wright James., 2004, A Passion for the Past: Papers in Honour of James F. Pendergast, P125
+   Wrong G.M., 1939, LONG JOURNEY COUNTRY
+   Xiao ZX, 2007, ADMIN SCI QUART, V52, P1, DOI 10.2189/asqu.52.1.1
+   Ylimaunu T, 2014, J SOC ARCHAEOL, V14, P244, DOI 10.1177/1469605313519316
+NR 94
+TC 20
+Z9 33
+U1 0
+U2 5
+PU AMER ASSOC ADVANCEMENT SCIENCE
+PI WASHINGTON
+PA 1200 NEW YORK AVE, NW, WASHINGTON, DC 20005 USA
+SN 2375-2548
+J9 SCI ADV
+JI Sci. Adv.
+PD AUG
+PY 2017
+VL 3
+IS 8
+AR e1700497
+DI 10.1126/sciadv.1700497
+PG 11
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA FI0CW
+UT WOS:000411589900023
+PM 28808682
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Nasini, S
+   Martínez-de-Albéniz, V
+   Dehdarirad, T
+AF Nasini, Stefano
+   Martinez-de-Albeniz, Victor
+   Dehdarirad, Tahereh
+TI Conditionally exponential random models for individual properties and
+   network structures: Method and application
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Exponential random models; Social networks; Homophily; Bibliometrics;
+   Bayesian inference; MCMC
+ID P-ASTERISK MODELS; RANDOM GRAPH MODELS; SOCIAL NETWORKS; COLLABORATION
+AB Exponential random models have been widely adopted as a general probabilistic framework for complex networks and recently extended to embrace broader statistical settings such as dynamic networks, valued networks or two-mode networks. Our aim is to provide a further step into the generalization of this class of models by considering sample spaces which involve both families of networks and nodal properties verifying combinatorial constraints. We propose a class of probabilistic models for the joint distribution of nodal properties (demographic and behavioral characteristics) and network structures (friendship and professional partnership). It results in a general and flexible modeling framework to account for homophily in social structures. We present a Bayesian estimation method based on the full characterization of their sample spaces by systems of linear constraints. This provides an exact simulation scheme to sample from the likelihood, based on linear programming techniques. After a detailed analysis of the proposed statistical methodology, we illustrate our approach with an empirical analysis of co-authorship of journal articles in the field of neuroscience between 2009 and 2013. (C) 2016 Elsevier B.V. All rights reserved.
+C1 [Nasini, Stefano] IESEG Sch Management, LEM 9221, CNRS, Lille, France.
+   [Martinez-de-Albeniz, Victor] Univ Navarra, IESE Business Sch, Barcelona, Spain.
+   [Dehdarirad, Tahereh] Univ Barcelona, Barcelona, Spain.
+C3 Centre National de la Recherche Scientifique (CNRS); IESEG School of
+   Management; University of Navarra; IESE Business School; University of
+   Barcelona
+RP Nasini, S (corresponding author), IESEG Sch Management, LEM 9221, CNRS, Lille, France.
+EM S.Nasini@ieseg.fr; valbeniz@iese.edu; tdehdari@gmail.com
+RI ; Dehdarirad, Tahereh/AAB-2255-2019
+OI Martinez-de-Albeniz, Victor/0000-0001-8391-2205; Dehdarirad,
+   Tahereh/0000-0003-2529-962X
+CR [Anonymous], 2006, Data Analysis Multivariate
+   [Anonymous], 2012, EXPONENTIAL FAMILY R
+   Bell DR., 2014, LOCATION IS STILL EV
+   Bolstad W. M., 2009, MARKOV CHAIN MONTE C, P127
+   Buccafurri F, 2015, INT J HUM-COMPUT ST, V80, P56, DOI 10.1016/j.ijhcs.2015.03.006
+   Caimo A, 2011, SOC NETWORKS, V33, P41, DOI 10.1016/j.socnet.2010.09.004
+   CARLEY K, 1986, J MATH SOCIOL, V12, P137, DOI 10.1080/0022250X.1986.9990010
+   Castro J, 2015, EUR J OPER RES, V245, P402, DOI 10.1016/j.ejor.2015.03.021
+   Chater N, 2006, TRENDS COGN SCI, V10, P287, DOI 10.1016/j.tics.2006.05.007
+   Clauset A, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.066111
+   Dawid AR, 2004, STAT SCI, V19, P44, DOI 10.1214/088342304000000125
+   Desmarais BA, 2012, PHYSICA A, V391, P1865, DOI 10.1016/j.physa.2011.10.018
+   GEYER CJ, 1992, J R STAT SOC B, V54, P657
+   Goldenberg A, 2010, FOUND TRENDS MACH LE, V2, P129, DOI 10.1561/2200000005
+   Goldenberg Anna., 2005, Proceedings of the 3rd international workshop on Link discovery, LinkKDD 05, P1
+   Haeussler C, 2013, RES POLICY, V42, P688, DOI 10.1016/j.respol.2012.09.009
+   Hanneke S, 2010, ELECTRON J STAT, V4, P585, DOI 10.1214/09-EJS548
+   Krivitsky PN, 2012, ELECTRON J STAT, V6, P1100, DOI 10.1214/12-EJS696
+   Lazarsfeld P.F., 1954, Freedom and Control in Modern Society, P18, DOI DOI 10.1111/J.1467-8705.2012.02056_3.X
+   Leydesdorff L, 2008, J INFORMETR, V2, P317, DOI 10.1016/j.joi.2008.07.003
+   Lusher Dean, 2012, Exponential random graph models for social networks: Theory, methods, and applications
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Moller J, 2006, BIOMETRIKA, V93, P451, DOI 10.1093/biomet/93.2.451
+   Morris Martina, 2008, J Stat Softw, V24, P1548
+   Murray Iain., 2006, UAI
+   Nasini S, 2015, WORKING PAPER
+   Newman MEJ, 2004, P NATL ACAD SCI USA, V101, P5200, DOI 10.1073/pnas.0307545100
+   Newman MEJ, 2003, PHYS REV E, V67, DOI 10.1103/PhysRevE.67.026126
+   Pelechrinis K., 2016, PLOS ONE, V11, P1
+   Robins G, 2001, PSYCHOMETRIKA, V66, P161, DOI 10.1007/BF02294834
+   Robins G, 2007, SOC NETWORKS, V29, P192, DOI 10.1016/j.socnet.2006.08.003
+   Robins G, 2007, SOC NETWORKS, V29, P173, DOI 10.1016/j.socnet.2006.08.002
+   STRAUSS D, 1990, J AM STAT ASSOC, V85, P204, DOI 10.2307/2289546
+   Teixeira da Silva JA, 2011, EMBO REP, V12, P889, DOI 10.1038/embor.2011.161
+   Thiemichen S, 2016, SOC NETWORKS, V46, P11, DOI 10.1016/j.socnet.2016.01.002
+   Wang P, 2009, SOC NETWORKS, V31, P12, DOI 10.1016/j.socnet.2008.08.002
+   Wimmer A, 2010, AM J SOCIOL, V116, P583, DOI 10.1086/653658
+   WINSBOROUGH HH, 1963, AM SOCIOL REV, V28, P977, DOI 10.2307/2090317
+NR 38
+TC 4
+Z9 4
+U1 2
+U2 27
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JAN
+PY 2017
+VL 48
+BP 202
+EP 212
+DI 10.1016/j.socnet.2016.09.001
+PG 11
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA EE6NT
+UT WOS:000389730200017
+DA 2024-11-22
+ER
+
+PT J
+AU Shao, P
+   Hu, P
+AF Shao, Peng
+   Hu, Ping
+TI Product Diffusion Using Advance Selling Strategies: An Online Social
+   Network Perspective
+SO JASSS-THE JOURNAL OF ARTIFICIAL SOCIETIES AND SOCIAL SIMULATION
+LA English
+DT Article
+DE Advance Selling; Product Diffusion; Social Network; Complex Network
+ID WORD-OF-MOUTH; IMPACT; MODEL; DYNAMICS; REVIEWS; QUALITY
+AB This study analyzes the diffusion of two product types using an advance selling strategy from a social network perspective. We extended the susceptible-infected-removed (SIR) model by adding a buyer component (SIRB) to the model and conducted an in-depth analysis of transmission probability and purchase probability when using an advance selling strategy. Agent-based simulation indicates that cost reduction and promotional effort have positive effects on profits, while lead time negatively affects them. Statistical analyses indicate that lead time has a U-shaped relationship with profits for non-durable products, but an inverted U-shaped relationship with those for durable products. For both products types, promotional effort has an inverted U-shaped relationship with profits under the condition of low-quality products and an inverted U-shaped relationship in the case of high-quality products. The reasons underlying these results are discussed, followed by implications for firms adopting advance selling strategies.
+C1 [Shao, Peng; Hu, Ping] Xi An Jiao Tong Univ, Sch Management, Mail Box 1809,28,Xianning West Rd, Xian 710049, Shaanxi, Peoples R China.
+C3 Xi'an Jiaotong University
+RP Shao, P (corresponding author), Xi An Jiao Tong Univ, Sch Management, Mail Box 1809,28,Xianning West Rd, Xian 710049, Shaanxi, Peoples R China.
+EM shaopengde@sohu.com
+OI Shao, Peng/0000-0002-4350-8352
+CR Abrantes JL, 2013, EUR J MARKETING, V47, P1067, DOI 10.1108/03090561311324219
+   Ahrens J, 2013, EUR J MARKETING, V47, P1034, DOI 10.1108/03090561311324192
+   Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   Albuquerque P, 2012, MARKET SCI, V31, P406, DOI 10.1287/mksc.1110.0685
+   Amaral LAN, 2007, MANAGE SCI, V53, P1033, DOI 10.1287/mnsc.1060.0696
+   Bemmaor AC, 2002, MARKET SCI, V21, P209, DOI 10.1287/mksc.21.2.209.151
+   Choudhary V, 2007, J MANAGE INFORM SYST, V24, P141, DOI 10.2753/MIS0742-1222240206
+   Delre SA, 2007, J BUS RES, V60, P826, DOI 10.1016/j.jbusres.2007.02.002
+   Duan WJ, 2008, DECIS SUPPORT SYST, V45, P1007, DOI 10.1016/j.dss.2008.04.001
+   Fader PS, 2012, MARKET SCI, V31, P369, DOI 10.1287/mksc.1120.0715
+   Fu F, 2008, PHYSICA A, V387, P675, DOI 10.1016/j.physa.2007.10.006
+   Gentina E, 2013, J RETAIL CONSUM SERV, V20, P87, DOI 10.1016/j.jretconser.2012.10.009
+   GRANOVETTER M, 1978, AM J SOCIOL, V83, P1420, DOI 10.1086/226707
+   Hua L, 2015, COMPLEXITY, V21, P111, DOI 10.1002/cplx.21583
+   Huang GQ, 2015, J COMPUT SCI-NETH, V8, P62, DOI 10.1016/j.jocs.2015.02.009
+   Huang JH, 2006, PSYCHOL MARKET, V23, P413, DOI 10.1002/mar.20119
+   Huang W, 2007, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2007/01/P01014
+   Iyengar R, 2011, MARKET SCI, V30, P195, DOI 10.1287/mksc.1100.0566
+   Janssen MA, 2003, ARTIF LIFE, V9, P343, DOI 10.1162/106454603322694807
+   KAHNEMAN D, 1979, ECONOMETRICA, V47, P263, DOI 10.2307/1914185
+   Kaplan AM, 2010, BUS HORIZONS, V53, P59, DOI 10.1016/j.bushor.2009.09.003
+   Kermack WO, 1927, P R SOC LOND A-CONTA, V115, P700, DOI 10.1098/rspa.1927.0118
+   Kivetz R, 2002, J MARKETING RES, V39, P155, DOI 10.1509/jmkr.39.2.155.19084
+   Lee K, 2014, JASSS-J ARTIF SOC S, V17
+   Lee K, 2013, JASSS-J ARTIF SOC S, V16, DOI 10.18564/jasss.2080
+   Lee SH, 2014, J BUS RES, V67, P2853, DOI 10.1016/j.jbusres.2012.07.002
+   Li YJ, 2013, INT J PROD ECON, V144, P451, DOI 10.1016/j.ijpe.2013.03.013
+   López M, 2013, EUR J MARKETING, V47, P1089, DOI 10.1108/03090561311324228
+   Moe WW, 2003, MARKET SCI, V22, P146
+   Moore G.E., 2006, ELECTRONICS, V11, P33, DOI DOI 10.1109/N-SSC.2006.4785860
+   Nyblom J, 2003, SOC NETWORKS, V25, P175, DOI 10.1016/S0378-8733(02)00050-3
+   Park DH, 2008, ELECTRON COMMER R A, V7, P399, DOI 10.1016/j.elerap.2007.12.001
+   Pastor-Satorras R, 2002, PHYS REV E, V65, DOI 10.1103/PhysRevE.65.035108
+   Pastor-Satorras R, 2001, PHYS REV LETT, V86, P3200, DOI 10.1103/PhysRevLett.86.3200
+   Smith AN, 2012, J INTERACT MARK, V26, P102, DOI 10.1016/j.intmar.2012.01.002
+   Watts DJ, 2007, J CONSUM RES, V34, P441, DOI 10.1086/518527
+   Weng ZK, 1999, IIE TRANS, V31, P1051, DOI 10.1023/A:1007671407701
+   Xie JH, 2001, MARKET SCI, V20, P219, DOI 10.1287/mksc.20.3.219.9765
+   Zhang L, 2013, EUR J MARKETING, V47, P1115, DOI 10.1108/03090561311324237
+   Zhao XY, 2010, PROD OPER MANAG, V19, P198, DOI 10.3401/poms.1080.01092
+   Zhou YZ, 2007, CHINESE PHYS LETT, V24, P581, DOI 10.1088/0256-307X/24/2/078
+NR 41
+TC 6
+Z9 7
+U1 1
+U2 23
+PU J A S S S
+PI GUILDFORD
+PA UNIV SURREY, DEPT SOCIOLOGY, GUILDFORD GU2 7XH, SURREY, ENGLAND
+SN 1460-7425
+J9 JASSS-J ARTIF SOC S
+JI JASSS
+PD MAR 31
+PY 2017
+VL 20
+IS 2
+AR 2
+DI 10.18564/jasss.3207
+PG 15
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA EW7EC
+UT WOS:000402671600006
+OA gold, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Schaefer, DR
+   Bouchard, M
+   Young, JTN
+   Kreager, DA
+AF Schaefer, David R.
+   Bouchard, Martin
+   Young, Jacob T. N.
+   Kreager, Derek A.
+TI Friends in locked places: An investigation of prison inmate network
+   structure
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Prison; Inmates; Friendship; Race; Homophily; Community detection;
+   Brokerage; Exponential random graph model
+ID EXPONENTIAL FAMILY MODELS; SOCIAL NETWORKS; COMMUNITY STRUCTURE;
+   DELINQUENCY; BEHAVIOR; VIOLENCE; INCARCERATION; INTEGRATION; MISCONDUCT;
+   FEATHER
+AB The current study investigates informal social structure among prison inmates. Data come from the Prison Inmate Network Study (PINS), a project focused on a unit of a Pennsylvania medium security men's prison. We focus on 205 inmates and their "get along with" network - an approximation of friendship in other settings. We find a weak subgroup structure dominated by two groups of "old heads" and characterized by moderate (non gang-based) race/ethnic clustering. Structurally, the network resembles adolescents in schools, suggesting that prison inmates are capable, of successfully building peer associations. We conclude that under the right conditions self-organizing inmate society can foster social integration reminiscent of other social settings. (C) 2017 Elsevier B.V. All rights reserved.
+C1 [Schaefer, David R.; Young, Jacob T. N.] Arizona State Univ, Tempe, AZ 85287 USA.
+   [Bouchard, Martin] Simon Fraser Univ, Burnaby, BC, Canada.
+   [Kreager, Derek A.] Penn State Univ, University Pk, PA 16802 USA.
+C3 Arizona State University; Arizona State University-Tempe; Simon Fraser
+   University; Pennsylvania Commonwealth System of Higher Education
+   (PCSHE); Pennsylvania State University; Pennsylvania State University -
+   University Park
+RP Schaefer, DR (corresponding author), Change Arizona State Univ, Sch Human Evolut & Social Change, Tempe, AZ 85287 USA.
+EM david.schaefer@asu.edu
+OI Kreager, Derek A./0000-0003-0350-7803
+FU National Science Foundation [LSS-1457193]; National Institutes of Health
+   [1R21-AA023210-01A1]
+FX This research was supported by the National Science Foundation
+   (LSS-1457193) and National Institutes of Health (1R21-AA023210-01A1).
+   Thanks to Michaela Soyer, Corey Whichard, Ed Hayes, Gerardo Cuevas, Wade
+   Jacobsen, and Kim Davidson for interview and coding assistance, and to
+   Bret Bucklen and PADOC for their valuable support of this project.
+CR Agnew R, 1997, YOUTH SOC, V29, P84, DOI 10.1177/0044118X97029001004
+   [Anonymous], 2009, SOCIAL LEARNING SOCI, DOI DOI 10.4324/9781315129587
+   [Anonymous], 2013, Theory, methods, and applications
+   [Anonymous], 2003, US DEP JUST BUREAU J
+   [Anonymous], 1989, Sociological Methodology, DOI DOI 10.2307/270949
+   ARABIE P, 1984, SOC NETWORKS, V6, P373, DOI 10.1016/0378-8733(84)90009-1
+   Baerveldt C., 2004, Connections, V26, P11
+   Blau P.M., 1977, INEQUALITY HETEROGEN
+   Blondel VD, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/10/P10008
+   Bond GD, 2005, INT J AGING HUM DEV, V61, P161, DOI 10.2190/7H5P-2AHJ-L34Q-GW9U
+   Bronson E.F., 2008, CRITICAL ISSUES JUST, V1, P63
+   Bui HN, 2010, J OFFENDER REHABIL, V49, P1, DOI 10.1080/10509670903435381
+   Butts C.T., 2014, sna: Tools for social network analysis
+   Camp SD, 2003, JUSTICE Q, V20, P501, DOI 10.1080/07418820300095601
+   Carley K.M., 2013, ORA user's guide 2013
+   Chong C, 2013, BERKELEY UNDERGRAD J, V26, P105
+   ClarkeMcLean JG, 1996, SOC DEV, V5, P203, DOI 10.1111/j.1467-9507.1996.tb00081.x
+   Clauset A, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.066111
+   Clear T.R., 2014, PUNISHMENT IMPERATIV
+   Cohen P, 1955, DELINQUENT BOYS CULT
+   COLSHER PL, 1992, AM J PUBLIC HEALTH, V82, P881, DOI 10.2105/AJPH.82.6.881
+   Colwell B, 2007, SOC PSYCHOL QUART, V70, P442, DOI 10.1177/019027250707000411
+   Conover-Williams Meredith, 2012, ANN M AM SOC CRIM CH
+   Conway KP, 2002, AGGRESSIVE BEHAV, V28, P97, DOI 10.1002/ab.90011
+   Crewe B., 2009, The Prisoner Society: Power, Adaption, and Social Life in an English Prison
+   Crewe B., 2007, Handbook on Prisons, P123
+   Daly Reagan M., 2005, THESIS
+   De Viggiani N, 2006, INT J PRISON HEALTH, V2, P71, DOI 10.1080/17449200600935653
+   Demuth S, 2004, YOUTH SOC, V35, P366, DOI 10.1177/0044118X03255027
+   DiLulio J.J., 1987, GOVERNING PRISONS CO
+   FELD SL, 1981, AM J SOCIOL, V86, P1015, DOI 10.1086/227352
+   FRANK O, 1986, J AM STAT ASSOC, V81, P832, DOI 10.2307/2289017
+   GALLAGHER EM, 1990, INT J AGING HUM DEV, V31, P251, DOI 10.2190/QE9H-GV5T-KCJ6-EMJ4
+   Gallupe O, 2015, CAN J CRIMINOL CRIM, V57, P439, DOI 10.3138/cjccj.2013.E49
+   GIORDANO PC, 1986, AM J SOCIOL, V91, P1170, DOI 10.1086/228390
+   Goldweber A, 2014, J RES ADOLESCENCE, V24, P720, DOI 10.1111/jora.12078
+   Goodreau SM, 2009, DEMOGRAPHY, V46, P103, DOI 10.1353/dem.0.0045
+   Grund TU, 2015, J CONTEMP CRIM JUST, V31, P354, DOI 10.1177/1043986214553377
+   Hansell S., 1981, Sociology of Delinquency: Current Issues, P93
+   Haynie DL, 2002, J QUANT CRIMINOL, V18, P99, DOI 10.1023/A:1015227414929
+   Hirschi T, 1969, CAUSES DELINQUENCY
+   HOLLAND PW, 1981, J AM STAT ASSOC, V76, P33, DOI 10.2307/2287037
+   Huebner BM, 2003, J CRIM JUST, V31, P107, DOI 10.1016/S0047-2352(02)00218-0
+   Hughes LA, 2013, CRIMINOLOGY, V51, P795, DOI 10.1111/1745-9125.12020
+   Hunter DR, 2008, J AM STAT ASSOC, V103, P248, DOI 10.1198/016214507000000446
+   Hunter DR, 2007, SOC NETWORKS, V29, P216, DOI 10.1016/j.socnet.2006.08.005
+   Hunter DR, 2006, J COMPUT GRAPH STAT, V15, P565, DOI 10.1198/106186006X133069
+   Irwin John., 2005, The Warehouse Prison: Disposal of the New Dangerous Class
+   Jacobs JamesB., 1977, Stateville: The Penitentiary in Mass Society
+   Kaeble Danielle., 2016, Bureau of Justice Statistics Report
+   Katz L, 1955, SOCIOMETRY, V18, P403, DOI 10.2307/2785876
+   KILLWORT.P, 1974, HUM ORGAN, V33, P335, DOI 10.17730/humo.33.4.20337522246037xm
+   Knox G.W., 2005, PROBLEM GANGS SECURI
+   Kreager DA, 2004, SOC FORCES, V83, P351, DOI 10.1353/sof.2004.0117
+   Kreager DA, 2016, JUSTICE Q, V33, P1000, DOI 10.1080/07418825.2015.1016090
+   Kreager DA, 2016, SOC SCI MED, V151, P92, DOI 10.1016/j.socscimed.2016.01.004
+   Kruttschnitt Candace., 2005, MARKING TIME GOLDEN
+   LANCICHINETTI A, 2009, PHYS REV E 2, V80, DOI [DOI 10.1103/PHYSREVE.80.056117, 10.1103/PhysRevE.80.056117]
+   Liebling A, 2012, J CRIM JUST, V40, P413, DOI 10.1016/j.jcrimjus.2012.06.003
+   Lindquist CH, 2000, SOCIOL FORUM, V15, P431, DOI 10.1023/A:1007524426382
+   Lopoo LM, 2005, J MARRIAGE FAM, V67, P721, DOI 10.1111/j.1741-3737.2005.00165.x
+   MACRAE D, 1960, SOCIOMETRY, V23, P360, DOI 10.2307/2785690
+   Marcus RF, 1996, ADOLESCENCE, V31, P145
+   Massoglia M, 2008, J HEALTH SOC BEHAV, V49, P56, DOI 10.1177/002214650804900105
+   McCuish EC, 2015, J CONTEMP CRIM JUST, V31, P319, DOI 10.1177/1043986214553375
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Moody J, 2001, AM J SOCIOL, V107, P679, DOI 10.1086/338954
+   Moody J, 2001, SOC NETWORKS, V23, P261, DOI 10.1016/S0378-8733(01)00042-9
+   MORENO JACOBL., 1993, Who Shall Survive?: Foundations of Sociometry, Group Psychotherapy and Sociodrama
+   *NAT AC SCI, 2014, GROWTH INC US EXPL C
+   Newman MEJ, 2006, P NATL ACAD SCI USA, V103, P8577, DOI 10.1073/pnas.0601602103
+   Palla G, 2005, NATURE, V435, P814, DOI 10.1038/nature03607
+   Palla G, 2007, NATURE, V446, P664, DOI 10.1038/nature05670
+   Papachristos A.V., 2006, Studying Youth Gangs
+   Papachristos AV, 2013, CRIMINOL PUBLIC POL, V12, P49, DOI 10.1111/1745-9133.12006
+   Reiss AJ., 1988, CRIME JUSTICE, V10, P117, DOI DOI 10.1086/449145
+   Robins G, 2007, SOC NETWORKS, V29, P173, DOI 10.1016/j.socnet.2006.08.002
+   Sarnecki Jerzy., 2001, DELINQUENT NETWORKS, DOI DOI 10.1017/CBO9780511489310
+   Schaefer D.R., 2016, Journal of Quantitative Criminology, P1
+   Schaefer DR, 2014, AM J PUBLIC HEALTH, V104, P1223, DOI 10.2105/AJPH.2013.301768
+   Schaefer DR, 2011, DEV PSYCHOL, V47, P1141, DOI 10.1037/a0024091
+   Schrag C, 1954, AM SOCIOL REV, V19, P37, DOI 10.2307/2088170
+   Simon J, 2000, THEOR CRIMINOL, V4, P285, DOI 10.1177/1362480600004003003
+   Skarbek David., 2014, The Social Order of the Underworld: How Prison Gangs Govern the American Penal System
+   Skvoretz John, 2002, J SOCIAL STRUCTURE, V3
+   Snijders TAB, 2003, J MATH SOCIOL, V27, P123, DOI 10.1080/00222500305892
+   Steglich C, 2012, SOC NETWORKS, V34, P359, DOI 10.1016/j.socnet.2010.07.001
+   Sutherland EH., 1947, PRINCIPLES CRIMINOLO
+   Sykes GreshamM., 2007, The Society of Captives: A Study of Maximum Security Prison
+   Trammell R, 2009, DEVIANT BEHAV, V30, P746, DOI 10.1080/01639620902854662
+   Udry J Richard, 2003, The National Longitudinal Study of Adolescent Health (Add Health), Waves I and II, 19941996, Wave III, 20012002 Machine-Readable Data File and Documentation
+   Volker B, 2016, SOC NETWORKS, V47, P47, DOI 10.1016/j.socnet.2016.04.004
+   Walker ML, 2016, AM J SOCIOL, V121, P1051, DOI 10.1086/684033
+   Walmsley R., 2015, World Prison Brief
+   Weerman F., 2007, European Journal of Criminology, V4, P357, DOI DOI 10.1177/1477370807080718
+   Wildeman Christopher., 2010, PATERNAL INCARCERATI
+   Wimmer A, 2010, AM J SOCIOL, V116, P583, DOI 10.1086/653658
+   Wooldredge J, 2001, JUSTICE Q, V18, P203, DOI 10.1080/07418820100094871
+NR 98
+TC 48
+Z9 57
+U1 0
+U2 21
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD OCT
+PY 2017
+VL 51
+SI SI
+BP 88
+EP 103
+DI 10.1016/j.socnet.2016.12.006
+PG 16
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA FI2LV
+UT WOS:000411771300008
+PM 28983147
+OA Green Submitted, Bronze, Green Accepted
+DA 2024-11-22
+ER

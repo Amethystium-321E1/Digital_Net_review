@@ -1,0 +1,577 @@
+
+PT J
+AU Kazmina, Y
+   Heemskerk, EM
+   Bokanyi, E
+   Takes, FW
+AF Kazmina, Yuliia
+   Heemskerk, Eelke M.
+   Bokanyi, Eszter
+   Takes, Frank W.
+TI Socio-economic segregation in a population-scale social network
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Segregation; Social networks; Homophily; Population-scale
+ID NEIGHBORHOODS; OPPORTUNITY; MOBILITY; REGISTERS; STRENGTH; EXPOSURE;
+   IMPACTS; LIFE
+AB We propose a social network -aware approach to study socio-economic segregation. The key question that we address is whether patterns of segregation are more pronounced in social networks than in the common spatial neighborhood -focused manifestations of segregation. We, therefore, conduct a population -scale social network analysis to study socio-economic segregation at a comprehensive and highly granular social network level. For this, we utilize social network data from Statistics Netherlands on 17.2 million registered residents of the Netherlands that are connected through around 1.3 billion ties distributed over five distinct tie types. We take income assortativity as a measure of socio-economic segregation, compare a social network and spatial neighborhood approach, and find that the social network structure exhibits two times as much segregation. As such, this work complements the spatial perspective on segregation in both literature and policymaking. While at a widely used unit of spatial aggregation (e.g., the geographical neighborhood), patterns of socioeconomic segregation may appear relatively minimal, they may in fact persist in the underlying social network structure. Furthermore, we discover higher social network segregation in larger cities, shedding a different light on the common view of cities as hubs for diverse socio-economic mixing. A population -scale social network perspective hence offers a way to uncover hitherto "hidden"segregation that extends beyond spatial neighborhoods and infiltrates multiple aspects of human life.
+C1 [Kazmina, Yuliia; Heemskerk, Eelke M.; Bokanyi, Eszter] Univ Amsterdam, Amsterdam, Netherlands.
+   [Takes, Frank W.] Leiden Univ, Leiden, Netherlands.
+C3 University of Amsterdam; Leiden University - Excl LUMC; Leiden
+   University
+RP Kazmina, Y (corresponding author), Univ Amsterdam, Amsterdam, Netherlands.
+EM y.kazmina@uva.nl
+RI Takes, Frank/G-8038-2016
+OI Takes, Frank/0000-0001-5468-1030
+FU Platform Digitale Infrastructuur Social Sciences and Humanities
+   (PDI-SSH)
+FX We are thankful for the collaboration with Statistics Netherlands (CBS)
+   colleagues Jan van der Laan, Edwin de Jonge, and Gert Buiten. The
+   project has been funded by Platform Digitale Infrastructuur Social
+   Sciences and Humanities (PDI-SSH) (http:// www.pdi-ssh.nl) . We would
+   also like to thank the POPNET team (https:// www.popnet.io) , for
+   helpful suggestions and discussions.
+CR [Anonymous], 1982, Social Structure and Network Analysis
+   Atkinson R, 2001, URBAN STUD, V38, P2277, DOI 10.1080/00420980120087162
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bidart C, 2022, SOC INCL, V10, P233, DOI 10.17645/si.v10i3.5381
+   Bojanowski M, 2014, SOC NETWORKS, V39, P14, DOI 10.1016/j.socnet.2014.04.001
+   Bokányi E, 2023, SCI REP-UK, V13, DOI 10.1038/s41598-023-36324-9
+   Bokányi E, 2021, SCI REP-UK, V11, DOI 10.1038/s41598-021-00416-1
+   Bosnjak M, 2005, PSYCHOL MARKET, V22, P489, DOI 10.1002/mar.20070
+   Boterman WR, 2021, URBAN GEOGR, V42, P481, DOI 10.1080/02723638.2020.1724439
+   Boterman WR, 2019, URBAN STUD, V56, P3074, DOI 10.1177/0042098019832201
+   Bourdieu P., 1986, The Sociology of Economic Life
+   Bruggen E., 2016, Establishing the accuracy of online panels for survey research
+   Bruggen E., 2011, Int. J. Mark. Res., V53
+   Buijs VL, 2022, SOC NETWORKS, V70, P25, DOI 10.1016/j.socnet.2021.10.008
+   Calvano E, 2022, ECON EDUC REV, V90, DOI 10.1016/j.econedurev.2022.102290
+   CAMPBELL KE, 1986, SOC NETWORKS, V8, P97, DOI 10.1016/S0378-8733(86)80017-X
+   Chang L., 2020, Technical Report
+   Chetty R, 2022, NATURE, V608, P108, DOI 10.1038/s41586-022-04996-4
+   Chetty R, 2022, NATURE, V608, P122, DOI 10.1038/s41586-022-04997-3
+   Chetty R, 2018, Q J ECON, V133, P1107, DOI 10.1093/qje/qjy007
+   Chetty R, 2016, AM ECON REV, V106, P855, DOI 10.1257/aer.20150572
+   Cinelli M, 2020, PHYS REV E, V102, DOI 10.1103/PhysRevE.102.062310
+   Cinelli M, 2019, SCI REP-UK, V9, DOI 10.1038/s41598-019-47717-0
+   COHEN J, 1960, EDUC PSYCHOL MEAS, V20, P37, DOI 10.1177/001316446002000104
+   Credit Suisse Group Research Institute, 2019, Global Wealth report 2019
+   Dabla-Norris M.E., 2015, CAUSES CONSEQUENCES, DOI [10.5089/9781513555188.006, DOI 10.5089/9781513555188.006]
+   Dahlin E, 2008, SOCIOL QUART, V49, P719, DOI 10.1111/j.1533-8525.2008.00133.x
+   Demchenko O, 2011, SOC SCI QUART, V92, P1118, DOI 10.1111/j.1540-6237.2011.00806.x
+   Dong XW, 2020, EPJ DATA SCI, V9, DOI 10.1140/epjds/s13688-020-00238-7
+   Dorogovtsev SN, 2010, PHYS REV E, V81, DOI 10.1103/PhysRevE.81.031135
+   Duyvendak JW, 2011, POLITICS OF HOME: BELONGING AND NOSTALGIA IN EUROPE AND THE UNITED STATES, P1, DOI 10.1057/9780230305076
+   Eagle N, 2009, P NATL ACAD SCI USA, V106, P15274, DOI 10.1073/pnas.0900282106
+   Erlangsen A, 2015, SCAND J PUBLIC HEALT, V43, P333, DOI 10.1177/1403494815575193
+   Firmansyah F.M., 2021, SocArXiv preprint: zr7p3
+   Frank K., 2018, Handbooks of Sociology and Social Research
+   Friedrichs J, 2003, HOUSING STUD, V18, P797, DOI 10.1080/0267303032000156291
+   Glaeser E, 2011, SCIENCE, V333, P592, DOI 10.1126/science.1209264
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Henry AD, 2011, P NATL ACAD SCI USA, V108, P8605, DOI 10.1073/pnas.1014486108
+   Hofstra B, 2017, AM SOCIOL REV, V82, P625, DOI 10.1177/0003122417705656
+   International Monetary Fund, 2023, IMF Staff Country Reports, V2023
+   Jackson M.O., 2019, The human network: how your social position determines your power, beliefs, and behaviors
+   Jackson MO, 2008, SOCIAL AND ECONOMIC NETWORKS, P3
+   Jacobs J., 2011, DEATH LIFE GREAT AM, DOI DOI 10.1002/9781119084679.CH4
+   Karimi F, 2023, Arxiv, DOI arXiv:2211.10245
+   Katz LF, 2001, Q J ECON, V116, P607, DOI 10.1162/00335530151144113
+   Kling JR, 2007, ECONOMETRICA, V75, P83, DOI 10.1111/j.1468-0262.2007.00733.x
+   Kuyvenhoven J, 2021, URBAN STUD, V58, P2660, DOI 10.1177/0042098020959011
+   Lazer D, 2021, NATURE, V595, P189, DOI 10.1038/s41586-021-03660-7
+   Lenahan T, 2022, FRONT EDUC, V7, DOI 10.3389/feduc.2022.932558
+   Leo Y, 2016, J R SOC INTERFACE, V13, DOI 10.1098/rsif.2016.0598
+   Liben-Nowell D, 2005, P NATL ACAD SCI USA, V102, P11623, DOI 10.1073/pnas.0503018102
+   Lin N, 1999, ANNU REV SOCIOL, V25, P467, DOI 10.1146/annurev.soc.25.1.467
+   Ludvigsson JF, 2016, EUR J EPIDEMIOL, V31, P125, DOI 10.1007/s10654-016-0117-y
+   Ludwig J, 2013, AM ECON REV, V103, P226, DOI 10.1257/aer.103.3.226
+   MASSEY DS, 1988, SOC FORCES, V67, P281, DOI 10.2307/2579183
+   MAYER SE, 1989, SCIENCE, V243, P1441, DOI 10.1126/science.243.4897.1441
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Melamed D, 2020, AM J SOCIOL, V125, P1084, DOI 10.1086/708142
+   MILGRAM S, 1970, SCIENCE, V167, P1461, DOI 10.1126/science.167.3924.1461
+   Moffitt R., 2018, Social Dynamics
+   MONTGOMERY JD, 1992, AM SOCIOL REV, V57, P586, DOI 10.2307/2095914
+   Morales AJ, 2019, ROY SOC OPEN SCI, V6, DOI 10.1098/rsos.190573
+   Moro E, 2021, NAT COMMUN, V12, DOI 10.1038/s41467-021-24899-8
+   Newman MEJ, 2003, PHYS REV E, V67, DOI 10.1103/PhysRevE.67.026126
+   Newman MEJ, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.208701
+   Nilforoshan H, 2023, NATURE, V624, P586, DOI 10.1038/s41586-023-06757-3
+   Onnela JP, 2007, P NATL ACAD SCI USA, V104, P7332, DOI 10.1073/pnas.0610245104
+   Orr L., 2006, Moving to Opportunity Interim Impacts Evaluation
+   Pariser E., 2011, FILTER BUBBLE WHAT I
+   Peel L, 2022, NAT COMMUN, V13, DOI 10.1038/s41467-022-34267-9
+   Piketty T, 2000, HANDB ECON, V16, P429
+   Pinkster FM, 2016, SOC CULT GEOGR, V17, P871, DOI 10.1080/14649365.2016.1139169
+   Pinquart M, 2000, PSYCHOL AGING, V15, P187, DOI 10.1037//0882-7974.15.2.187
+   Rajkumar K, 2022, SCIENCE, V377, P1304, DOI 10.1126/science.abl4476
+   Reardon SF, 2008, DEMOGRAPHY, V45, P489, DOI 10.1353/dem.0.0019
+   Roberts K., 1977, Br. J. Guid. Couns., V5
+   Roberts K, 2009, J EDUC WORK, V22, P355, DOI 10.1080/13639080903453987
+   Salverda W., 2013, GINI Country Reports
+   Scellato S., 2021, P INT AAAI C WEB SOC, P5
+   Sharp G., 2018, Socius, V4
+   Silm S, 2014, SOC SCI RES, V47, P30, DOI 10.1016/j.ssresearch.2014.03.011
+   Small ML, 2019, ANNU REV SOCIOL, V45, P111, DOI 10.1146/annurev-soc-073018-022707
+   Statistics Netherlands (CBS), 2023, Opleidingssegregatie
+   Stiglitz J.E., 2015, Political Q., V86
+   Uzzi B, 1999, AM SOCIOL REV, V64, P481, DOI 10.2307/2657252
+   van der Laan J., 2022, A Person Network of the Netherlands
+   van der Laan J, 2023, EUR SOCIOL REV, V39, P145, DOI 10.1093/esr/jcac026
+   van Eijk G, 2010, J HOUS BUILT ENVIRON, V25, P467, DOI 10.1007/s10901-010-9198-1
+   van Gent W, 2016, J ETHN MIGR STUD, V42, P893, DOI 10.1080/1369183X.2015.1126092
+   van Ham M., 2018, DIVIDED CITIES UNDER, DOI DOI 10.1787/9789264300385-EN
+   Viry G, 2012, SOC NETWORKS, V34, P59, DOI 10.1016/j.socnet.2011.07.003
+   Witvliet H., 2012, Technical Report
+   WOOLCOCK M, 2001, ISUMA CANADIAN J POL, V0002
+   Wrzus C, 2013, PSYCHOL BULL, V139, P53, DOI 10.1037/a0028601
+NR 95
+TC 0
+Z9 0
+U1 5
+U2 5
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JUL
+PY 2024
+VL 78
+BP 279
+EP 291
+DI 10.1016/j.socnet.2024.02.005
+EA APR 2024
+PG 13
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA SC9K5
+UT WOS:001232374700001
+OA hybrid, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Haapanen, KA
+   Christens, BD
+   Cooper, DG
+   Jurinsky, J
+AF Haapanen, Krista A.
+   Christens, Brian D.
+   Cooper, Daniel G.
+   Jurinsky, Jordan
+TI Alliance-building for equity and justice: An inter-organizational
+   perspective
+SO EVALUATION AND PROGRAM PLANNING
+LA English
+DT Article
+DE Coalition; Community organizing; Health equity; Restorative justice;
+   Social network analysis; Strategic alliance; Systems change
+ID YOUTH VIOLENCE PREVENTION; NETWORK ANALYSIS; HEALTH EQUITY; COLLECTIVE
+   IMPACT; COLLABORATION; COALITION; ORGANIZATIONS; PARTNERSHIP;
+   COMMUNITIES; DYNAMICS
+AB Cultivating alliances between specific sectors or fields with unrealized synergies is a promising strategy for systems change. Social network analysis is a useful tool for assessing whether such alliances build relationships between these previously disparate organizations. Two waves of valued network data were collected from the members (N = 25) of a justice system reform coalition composed of two types of community-based organizations: those involved in restorative justice practice and those involved in grassroots community organizing. Social network homophily analyses were employed to characterize the impact of alliance participation on relationships over time across three domains: working together, doing impactful work together, and sharing a philosophy about justice system reform. Results indicate marked increases in the prevalence of relationships between restorative justice and community organizing organizations across all domains, with the greatest increases occurring in perceptions of shared philosophy. Network structures at each time point differed by relational domain and organization type. Findings suggest that the alliance strengthened relationships between restorative justice and community organizing organizations, particularly in perceptions of shared philosophy, but that the magnitude of these changes varied depending on pre-existing interorganizational relationships and organization type. Findings challenge the idea that close working relationships between diverse members is critical to coalition effectiveness, pointing instead to the value of ambidextrous networks and alignment in members' philosophy and vision.
+C1 [Haapanen, Krista A.; Christens, Brian D.; Jurinsky, Jordan] Vanderbilt Univ, Dept Human & Org Dev, Nashville, TN USA.
+   [Cooper, Daniel G.] Metropolitan Planning Council, Chicago, IL USA.
+   [Haapanen, Krista A.] Vanderbilt Univ, Dept Human & Org Dev, 230 Appleton Pl, Nashville, TN 37203 USA.
+C3 Vanderbilt University; Vanderbilt University
+RP Haapanen, KA (corresponding author), Vanderbilt Univ, Dept Human & Org Dev, 230 Appleton Pl, Nashville, TN 37203 USA.
+EM krista.a.haapanen@vanderbilt.edu
+RI Jurinsky, Jordan/V-5235-2017
+OI Jurinsky, Jordan/0000-0003-3259-9014
+CR Abel MA, 2015, COMMUNITY DEV J, V50, P327, DOI 10.1093/cdj/bsu040
+   Allen NE, 2013, AM J COMMUN PSYCHOL, V52, P1, DOI 10.1007/s10464-013-9572-8
+   [Anonymous], Zooming in and out, DOI DOI 10.4135/9781849209915
+   Atouba YC, 2015, NONPROF VOLUNT SEC Q, V44, P587, DOI 10.1177/0899764014524991
+   Bauermeister MR, 2016, INT J AGR SUSTAIN, V14, P123, DOI 10.1080/14735903.2015.1042189
+   Bess KD, 2015, AM J COMMUN PSYCHOL, V55, P381, DOI 10.1007/s10464-015-9715-1
+   Bess KD, 2012, HEALTH EDUC BEHAV, V39, P526, DOI 10.1177/1090198111419656
+   Borgatti S.P., 2002, Analytic Technologies, VVolume 1, DOI [10.1111/j.1439-0310.2009.01613.x, DOI 10.1111/J.1439-0310.2009.01613.X]
+   Borgatti SP., 2018, ANAL SOCIAL NETWORKS
+   Brass DJ, 2004, ACAD MANAGE J, V47, P795, DOI 10.5465/20159624
+   Brown LD, 2017, PREV SCI, V18, P600, DOI 10.1007/s11121-017-0796-y
+   Cheadle A, 2008, J URBAN HEALTH, V85, P162, DOI 10.1007/s11524-008-9260-4
+   Chilenski SM, 2019, PREV SCI, V20, P947, DOI 10.1007/s11121-019-01028-y
+   Christens B. D, 2021, Handbook on cities and networks, P293
+   Christens BD, 2015, COMMUNITY DEV, V46, P420, DOI 10.1080/15575330.2015.1061680
+   Christens BD, 2010, J COMMUNITY PSYCHOL, V38, P886, DOI 10.1002/jcop.20403
+   Cooper DG, 2019, HEALTH EDUC BEHAV, V46, p62S, DOI 10.1177/1090198119859411
+   Cross R, 2002, CALIF MANAGE REV, V44, P25, DOI 10.2307/41166121
+   Easterling D, 2013, FOUND REV, V5, P105, DOI 10.4087/FOUNDATIONREVIEW-D-12-00026.1
+   Faust V, 2015, PSYCHOSOC INTERV, V24, P125, DOI 10.1016/j.psi.2015.09.002
+   Flood J, 2015, HEALTH EDUC BEHAV, V42, P654, DOI 10.1177/1090198115577372
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Green LawrenceW., 2000, HEALTH PROMOT PRACT, V1, P64
+   Guo C, 2005, NONPROF VOLUNT SEC Q, V34, P340, DOI 10.1177/0899764005275411
+   Haapanen KA, 2024, AM J COMMUN PSYCHOL, V73, P390, DOI 10.1002/ajcp.12708
+   Hanneman RA, 2005, Introduction to social network methods
+   Iton A, 2016, MATERN CHILD HLTH J, V20, P1753, DOI 10.1007/s10995-016-1980-6
+   Kadushin C., 2005, CITY COMMUNITY, V4, P255, DOI DOI 10.1111/J.1540-6040.2005.00116.X
+   Kegler MC, 2009, HEALTH PROMOT INT, V24, P300, DOI 10.1093/heapro/dap036
+   Kossinets G, 2009, AM J SOCIOL, V115, P405, DOI 10.1086/599247
+   KRACKHARDT D, 1988, SOC PSYCHOL QUART, V51, P123, DOI 10.2307/2786835
+   Kreuter M.W., 2000, HEALTH PROMOT PRACT, V1, P49, DOI [10.1177/152483990000100109, DOI 10.1177/152483990000100109]
+   Ku MY, 2022, INT J ENV RES PUB HE, V19, DOI 10.3390/ijerph19010018
+   Kunichoff Y., 2017, The Atlantic
+   Lasker RD, 2001, MILBANK Q, V79, P179, DOI 10.1111/1468-0009.00203
+   Jariego IM, 2016, REV ESP INVESTIG SOC, P113, DOI 10.5477/cis/reis.155.113
+   Maya-Jariego I, 2015, PSYCHOSOC INTERV, V24, P121
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Medellin PJ, 2021, J COMMUNITY PSYCHOL, V49, P3122, DOI 10.1002/jcop.22236
+   Michelfelder I, 2013, J PROD INNOVAT MANAG, V30, P1159, DOI 10.1111/jpim.12052
+   Neal ZP, 2017, AM J COMMUN PSYCHOL, V60, P279, DOI 10.1002/ajcp.12158
+   Nowell B, 2010, J PREV INTERV COMMUN, V39, P19, DOI 10.1080/10852352.2011.530162
+   Nowell B, 2009, AM J COMMUN PSYCHOL, V44, P196, DOI 10.1007/s10464-009-9276-2
+   Pastor M, 2018, HEALTH AFFAIR, V37, P358, DOI 10.1377/hlthaff.2017.1285
+   Powell WW, 2005, AM J SOCIOL, V110, P1132, DOI 10.1086/421508
+   Provan KG, 2007, J MANAGE, V33, P479, DOI 10.1177/0149206307302554
+   Rivera MT, 2010, ANNU REV SOCIOL, V36, P91, DOI 10.1146/annurev.soc.34.040507.134743
+   Snijders TAB, 2001, SOCIOL METHODOL, V31, P361, DOI 10.1111/0081-1750.00099
+   Speer PW, 2018, J SOC POLIT PSYCHOL, V6, P745, DOI 10.5964/jspp.v6i2.929
+   Speer PW, 2014, J HEALTH PSYCHOL, V19, P159, DOI 10.1177/1359105313500255
+   Valente TW, 2010, AM J PUBLIC HEALTH, V100, P1319, DOI 10.2105/AJPH.2009.171116
+   Wadhwa A., 2016, RESTORATIVE JUSTICE
+   Winn M.T., 2018, JUSTICE BOTH SIDES T
+   Wolff Tom., 2016, The Nonprofit Quarterly, V2016, P42
+   Zakocs RC, 2006, AM J PREV MED, V30, P351, DOI 10.1016/j.amepre.2005.12.004
+NR 55
+TC 1
+Z9 1
+U1 2
+U2 5
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0149-7189
+EI 1873-7870
+J9 EVAL PROGRAM PLANN
+JI Eval. Program Plan.
+PD FEB
+PY 2024
+VL 102
+AR 102382
+DI 10.1016/j.evalprogplan.2023.102382
+EA OCT 2023
+PG 15
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA X2CJ7
+UT WOS:001096582500001
+PM 37866133
+DA 2024-11-22
+ER
+
+PT J
+AU Erhardt, K
+   Pentland, A
+AF Erhardt, Keeley
+   Pentland, Alex
+TI Hidden messages: mapping nations' media campaigns
+SO COMPUTATIONAL AND MATHEMATICAL ORGANIZATION THEORY
+LA English
+DT Article
+DE Coordinated activity; Influence modeling; Markov chains; Social media;
+   Information operations
+AB Powerful actors have engaged in information control for centuries, restricting, promoting, or influencing the information environment as it suits their evolving agendas. In the Digital Age, information control has moved online, and information operations now target the online platforms that play a critical role in news engagement and civic debate. In this paper, we use a discrete-time stochastic model to analyze coordinated activity in an online social network, representing the behaviors of accounts as interacting Markov chains. From a dataset of 31,521 tweets posted by 206 accounts, half of which were identified by Twitter as participating in a state-linked information operation, we evaluate the coordination, measured by the apparent influence, between pairs of state-linked accounts compared to unaffiliated accounts. Our analysis reveals that state-linked actors demonstrate significantly higher levels of coordination among themselves compared to their coordination with unaffiliated accounts. Furthermore, the degree of coordination observed between state-linked accounts is more than seven times greater than the coordination observed between unaffiliated accounts. Moreover, we find that the account that represented the most coordinated activity in the network had no followers, demonstrating the power of our modeling approach to unearth hidden connections even in the absence of explicit network structure.
+C1 [Erhardt, Keeley; Pentland, Alex] MIT, 75 Amherst St, Cambridge, MA 02139 USA.
+C3 Massachusetts Institute of Technology (MIT)
+RP Erhardt, K (corresponding author), MIT, 75 Amherst St, Cambridge, MA 02139 USA.
+EM keeley@mit.edu; pentland@mit.edu
+OI Erhardt, Keeley/0000-0002-1341-5569
+FU MIT Libraries
+FX Open Access funding provided by the MIT Libraries.
+CR Alizadeh M, 2020, SCI ADV, V6, DOI 10.1126/sciadv.abb5824
+   [Anonymous], 2022, TWITTER
+   [Anonymous], 2021, FACEBOOK
+   Asavathiratham C, 2001, IEEE CONTR SYST MAG, V21, P52, DOI 10.1109/37.969135
+   Asavathiratham Chalee, 2001, Ph. D. Dissertation
+   Basu S., 2001, LEARNING HUMAN INTER
+   Dong W, 2007, ICMI'07: PROCEEDINGS OF THE NINTH INTERNATIONAL CONFERENCE ON MULTIMODAL INTERFACES, P271
+   Erhardt K, 2021, WORKSHOP P 15 INT AA
+   King G, 2017, AM POLIT SCI REV, V111, P484, DOI 10.1017/S0003055417000144
+   Luceri L., 2020, P INT AAAI C WEB SOC, V14, P417, DOI 10.1609/icwsm.v14i1.7311
+   Magelinski T, 2020, CTR INFORM DEMOCRACY
+   Pan W, 2012, IEEE SIGNAL PROC MAG, V29, P77, DOI 10.1109/MSP.2011.942737
+   Pompeo Michael R., 2021, Determination of the secretary of state on atrocities in Xinjiang
+   Rheault L, 2021, J INF TECHNOL POLITI, V18, P324, DOI 10.1080/19331681.2021.1879705
+   Starbird Kate, 2019, Proceedings of the ACM on Human-Computer Interaction, V3, DOI 10.1145/3359229
+   Vargas Luis, 2020, CCSW'20: Proceedings of the 2020 SIGSAC Conference on Cloud Computing Security Workshop, P133, DOI 10.1145/3411495.3421363
+   Wang SX, 2018, IEEE INT C INT ROBOT, P1606, DOI 10.1109/IROS.2018.8593430
+NR 17
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1381-298X
+EI 1572-9346
+J9 COMPUT MATH ORGAN TH
+JI Comput. Math. Organ. Theory
+PD JUN
+PY 2024
+VL 30
+IS 2
+SI SI
+BP 161
+EP 172
+DI 10.1007/s10588-023-09382-7
+EA AUG 2023
+PG 12
+WC Computer Science, Interdisciplinary Applications; Mathematics,
+   Interdisciplinary Applications; Social Sciences, Mathematical Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science; Mathematics; Mathematical Methods In Social Sciences
+GA QV5M4
+UT WOS:001060638000001
+OA hybrid
+DA 2024-11-22
+ER
+
+PT J
+AU Clarke, A
+   Smith, C
+AF Clarke, Andre
+   Smith, Chris
+TI Reproducing a White Elite: The Chief Officers′ ′Club′ in the London
+   Metropolitan Police Service
+SO WORK EMPLOYMENT AND SOCIETY
+LA English
+DT Article
+DE cultural homophily; elite; leadership; minority ethnic; police; race;
+   social network volition; the club
+ID SOCIAL EXCLUSION; RACE; DIVERSITY; MANAGEMENT; GENDER; NETWORKS; RACISM;
+   WOMEN; INEQUALITY; ETHNICITY
+AB This article focuses on the London Metropolitan Police Service, an organization charged with being institutionally racist. It asks why the percentage of black officers in senior positions remains so low, despite explicit formal attempts to change this situation. Rather than concentrating on the factors holding back the recruitment and promotion of black officers, the article examines how senior white officers managed their career journey. Through in-depth interviews with senior officers, the authors develop the notion of ' social network volition ', linking to sociological literatures on race, social networks and elites in work and organizations. The agency of a ' club ', composed of white senior officers, performs social network volition, defined as an invisible guiding hand that identifies, pursues, advises and sponsors white officers who fit the existing leadership composition. The implications of the article underline the need to make explicit the informal supports that reproduce whiteness while upholding the myth of merit.
+C1 [Clarke, Andre] Brunel Univ, Uxbridge, England.
+   [Smith, Chris] Royal Holloway Univ London, London, England.
+   [Smith, Chris] Royal Holloway Univ London, Dept HRM & Org Studies, Egham TW20 0EX, Surrey, England.
+C3 Brunel University; University of London; Royal Holloway University
+   London; University of London; Royal Holloway University London
+RP Smith, C (corresponding author), Royal Holloway Univ London, Dept HRM & Org Studies, Egham TW20 0EX, Surrey, England.
+EM chris.smith@rhul.ac.uk
+CR Acker J, 2006, GENDER SOC, V20, P441, DOI 10.1177/0891243206289499
+   Ahmed S, 2006, POLICY FUTURES EDUC, V4, P96, DOI 10.2304/pfie.2006.4.2.96
+   Ashley L, 2017, WORK EMPLOY SOC, V31, P211, DOI 10.1177/0950017015621480
+   Ashley L, 2013, HUM RELAT, V66, P219, DOI 10.1177/0018726712455833
+   Ashley L, 2010, WORK EMPLOY SOC, V24, P711, DOI 10.1177/0950017010380639
+   Bonilla-Silva E, 2015, AM BEHAV SCI, V59, P1358, DOI 10.1177/0002764215586826
+   Brannick T, 2007, ORGAN RES METHODS, V10, P59, DOI 10.1177/1094428106289253
+   Burke MA, 2017, SOCIOL QUART, V58, P277, DOI 10.1080/00380253.2017.1296335
+   Casey B., 2023, Final Report: An independent review into the standards of behaviour and internal culture of the Metropolitan Police Service
+   Cashmore Ellis., 2002, Journal of Ethnic and Migration Studies, P327, DOI [DOI 10.1080/13691830220124369, 10.1080/13691830220124369]
+   Clarke AT., 2020, THESIS U LONDON UK
+   Cockcroft T, 2013, POLICE CULTURE: THEMES AND CONCEPTS, P1
+   Damaske S, 2009, SOCIOL FORUM, V24, P402, DOI 10.1111/j.1573-7861.2009.01105.x
+   Dwyer SC, 2018, INT J QUAL METH, V17, DOI 10.1177/1609406918788176
+   Esmail A., 2005, CRITICAL REV LEADERS
+   European Human Rights Commission, 2016, SECT 20 INV METR POL
+   Fearfull A., 2006, Critical Perspectives on Accounting, V17, P883, DOI DOI 10.1016/J.CPA.2005.08.006
+   Fernandez RM, 2006, AM SOCIOL REV, V71, P42, DOI 10.1177/000312240607100103
+   Fields KarenE. Fields., 2012, RACECRAFT SOUL INEQU
+   Fletcher T, 2018, J POLICY RES TOUR LE, V10, P164, DOI 10.1080/19407963.2017.1406676
+   Fox C., 2004, POLICING TODAY, V9, P12
+   Golash-Boza T, 2016, SOCIOL RACE ETHNIC, V2, P129, DOI 10.1177/2332649216632242
+   Hirschman D., 2019, SOCARXIV
+   Hollway W., 2000, Doing qualitative research differently: Free association, narrative and the interview method, DOI DOI 10.4135/9781849209007
+   Home Office, 2021, Police workforce, England and Wales, as at 31 March 2020, V2nd edn
+   Hudson M, 2017, WORK EMPLOY SOC, V31, P992, DOI 10.1177/0950017016674898
+   IBARRA H, 1993, ACAD MANAGE REV, V18, P56, DOI 10.5465/AMR.1993.3997507
+   IOPC, 2022, OP HOTT LEARN REP JA
+   Kalev A, 2006, AM SOCIOL REV, V71, P589, DOI 10.1177/000312240607100404
+   Kanter R. M., 1977, MEN WOMEN CORPORATIO
+   Liu H, 2017, GENDER WORK ORGAN, V24, P457, DOI 10.1111/gwao.12142
+   Loftus B., 2009, Police Culture in a Changing World
+   MACPHERSON W., 1999, STEPHEN LAWRENCE INQ
+   Marin A, 2013, SOCIOL FORUM, V28, P350, DOI 10.1111/socf.12022
+   Maume DJ, 1999, WORK OCCUPATION, V26, P483, DOI 10.1177/0730888499026004005
+   Mayor of London London Assembly, 2020, ACT PLAN TRANSP ACC
+   McDonald S, 2011, SOC NETWORKS, V33, P317, DOI 10.1016/j.socnet.2011.10.002
+   McDonald S, 2010, SOCIOL COMPASS, V4, P532, DOI 10.1111/j.1751-9020.2010.00298.x
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mercer J, 2007, OXFORD REV EDUC, V33, P1, DOI 10.1080/03054980601094651
+   MERTON RK, 1972, AM J SOCIOL, V78, P9, DOI 10.1086/225294
+   Mollica KA, 2003, ORGAN SCI, V14, P123, DOI 10.1287/orsc.14.2.123.14994
+   MOORE G, 1988, SOCIOL FORUM, V3, P566, DOI 10.1007/BF01115415
+   Muir RD., 2001, VIRDI INQUIRY REPORT
+   Noon M, 2007, WORK EMPLOY SOC, V21, P773, DOI 10.1177/0950017007082886
+   Noon M, 2018, WORK EMPLOY SOC, V32, P198, DOI 10.1177/0950017017719841
+   Noon M, 2010, WORK EMPLOY SOC, V24, P728, DOI 10.1177/0950017010380648
+   Phillips C, 2011, J SOC POLICY, V40, P173, DOI 10.1017/S0047279410000565
+   Police and Crime Committee, 2014, DIV METS FRONT LIN
+   Powell GN, 1997, ACAD MANAGE J, V40, P112, DOI 10.5465/257022
+   Prasad A, 2017, WORK EMPLOY SOC, V31, P352, DOI 10.1177/0950017016661269
+   RING PS, 1985, ACAD MANAGE REV, V10, P276, DOI 10.2307/257969
+   Rivera LA, 2012, AM SOCIOL REV, V77, P999, DOI 10.1177/0003122412463213
+   Rowe M., 2004, POLICING RACE RACISM
+   Scarman L., 1982, The Scarman Report: The Brixton Disorders
+   Smith DC., 2005, POLICE SERVICE ENGLA
+   Smith E.B., 2003, OUR SEPARATE WAYS BL
+   Smith RA, 2002, ANNU REV SOCIOL, V28, P509, DOI 10.1146/annurev.soc.28.110601.141048
+   Souhami A, 2014, POLIC SOC, V24, P1, DOI 10.1080/10439463.2012.703198
+   Tolbert PS, 2017, ILR REV, V70, P3, DOI 10.1177/0019793916675336
+   Tomlinson J, 2013, HUM RELAT, V66, P245, DOI 10.1177/0018726712460556
+   van Ewijk AR, 2012, POLIC-J POLICY PRACT, V6, P76, DOI 10.1093/police/par048
+   Woodson K, 2015, FORDHAM LAW REV, V83, P2557
+   Wyatt M, 2015, HUM RELAT, V68, P1243, DOI 10.1177/0018726714550890
+NR 64
+TC 2
+Z9 2
+U1 4
+U2 6
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0950-0170
+EI 1469-8722
+J9 WORK EMPLOY SOC
+JI Work Employ. Soc.
+PD AUG
+PY 2024
+VL 38
+IS 4
+BP 911
+EP 929
+DI 10.1177/09500170231199415
+EA SEP 2023
+PG 19
+WC Economics; Industrial Relations & Labor; Sociology
+WE Social Science Citation Index (SSCI)
+SC Business & Economics; Sociology
+GA A8R2A
+UT WOS:001071487800001
+OA hybrid, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU González-Casado, MA
+   Gonzales, G
+   Molina, JL
+   Sánchez, A
+AF Gonzalez-Casado, Miguel A.
+   Gonzales, Gladis
+   Molina, Jose Luis
+   Sanchez, Angel
+TI Towards a general method to classify personal network structures
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Structural typology; Personal networks; Dimensionality reduction;
+   Clustering; Social networks analysis
+ID INDUCTIVE TYPOLOGY; NAME GENERATORS; DIVERSITY; COHESION; SUPPORT;
+   NUMBER
+AB In this study, we present a method to uncover the fundamental dimensions of structural variability in Personal Networks (PNs) and develop a classification solely based on these structural properties. We address the limitations of previous literature and lay the foundation for a rigorous methodology to construct a Structural Typology of PNs. We test our method with a dataset of nearly 8,000 PNs belonging to high school students. We find that the structural variability of these PNs can be described in terms of six basic dimensions encompassing community and cohesive subgroup structure, as well as levels of cohesion, hierarchy, and centralization. Our method allows us to categorize these PNs into eight types and to interpret them structurally. We assess the robustness and generality of our methodology by comparing with previous results on structural typologies. To encourage its adoption, its improvement by others, and to support future research, we provide a publicly available Python class, enabling researchers to utilize our method and test the universality of our results.
+C1 [Gonzalez-Casado, Miguel A.; Sanchez, Angel] Univ Carlos III Madrid, Dept Matemat, Grp Interdisciplinar Sistemas Complejos GISC, Leganes 28911, Spain.
+   [Gonzales, Gladis] Univ Loyola Andalucia, Loyola Behav Lab, Cordoba 14004, Spain.
+   [Molina, Jose Luis] Univ Autonoma Barcelona UAB, Dept Antropol Social & Cultural, Grp Invest Antropol Fundamental & Orientada GRAFO, Bellaterra 08173, Spain.
+   [Sanchez, Angel] Univ Zaragoza, Inst Biocomp & Fis Sistemas Complejos BIFI, Zaragoza 50018, Spain.
+C3 Universidad Carlos III de Madrid; Universidad Loyola Andalucia;
+   Autonomous University of Barcelona; University of Zaragoza
+RP González-Casado, MA (corresponding author), Univ Carlos III Madrid, Dept Matemat, Grp Interdisciplinar Sistemas Complejos GISC, Leganes 28911, Spain.
+EM migugonz@pa.uc3m.es
+RI Molina, José-Luis/B-5796-2013; Sanchez, Angel/A-9229-2008; Molina, Jose
+   Luis/A-7463-2008
+OI Sanchez, Angel/0000-0003-1874-2881; Molina, Jose
+   Luis/0000-0002-2932-2690; Gonzalez Casado, Miguel
+   Angel/0000-0003-1369-2977; Gonzales Aguilar, Gladis
+   Herminia/0000-0001-6116-1965
+FU MCIN/AEI; ERDF A way of making Europe [PID2022-141802NB-I00,
+   PID2021-126892NB- 100]; Ministerio de Economia y Competitividad; Agencia
+   Andaluza de Cooperacion Internacional para el Desarrollo
+   [PID2021-126892NB- 100];  [AACID-0I008/2020];  [AACID-2021UI004]
+FX M.A.G.-C. and A. S. acknowledge support from grant PID2022-141802NB-I00
+   (BASIC) funded by MCIN/AEI/10.13039/501100011033 and by 'ERDF A way of
+   making Europe'. G.G. acknowledges support from Ministerio de Economia y
+   Competitividad (PID2021-126892NB- 100) & Agencia Andaluza de Cooperacion
+   Internacional para el Desarrollo (AACID-0I008/2020, AACID-2021UI004).
+CR Agneessens F, 2006, SOC NETWORKS, V28, P427, DOI 10.1016/j.socnet.2005.10.001
+   Ahmed M, 2020, ELECTRONICS-SWITZ, V9, DOI 10.3390/electronics9081295
+   Ali T, 2022, INNOV AGING, V6, DOI 10.1093/geroni/igab053
+   [Anonymous], 2015, A First Course in Network Theory
+   [Anonymous], 1957, Family and social network: Roles, norms, and external relationships in ordinary urban families
+   Bartlett MS, 1950, B J PSYCHOL-STAT SEC, V3, P77, DOI 10.1111/j.2044-8317.1950.tb00285.x
+   Bellotti E, 2008, SOC NETWORKS, V30, P318, DOI 10.1016/j.socnet.2008.07.001
+   Bidart C, 2018, SOC NETWORKS, V54, P1, DOI 10.1016/j.socnet.2017.11.003
+   Brandes U, 2010, PROCD SOC BEHV, V4, P4, DOI 10.1016/j.sbspro.2010.07.478
+   Breunig MM, 2000, SIGMOD REC, V29, P93, DOI 10.1145/335191.335388
+   BUJA A, 1992, MULTIVAR BEHAV RES, V27, P509, DOI 10.1207/s15327906mbr2704_2
+   CAMPBELL KE, 1991, SOC NETWORKS, V13, P203, DOI 10.1016/0378-8733(91)90006-F
+   Dobriban E, 2020, ANN STAT, V48, P2824, DOI 10.1214/19-AOS1907
+   Doeven-Eggens L, 2008, PERS INDIV DIFFER, V45, P689, DOI 10.1016/j.paid.2008.07.017
+   Eagle DE, 2015, SOC NETWORKS, V40, P75, DOI 10.1016/j.socnet.2014.07.005
+   Escribano D, 2023, SCI REP-UK, V13, DOI 10.1038/s41598-023-41787-x
+   Escribano D, 2021, SCI REP-UK, V11, DOI 10.1038/s41598-021-90984-z
+   Estrada E., 2012, The Structure of Complex Networks: Theory and Applications
+   Faust K, 2002, SOCIOL METHODOL, V32, P267, DOI 10.1111/1467-9531.00118
+   Flori KL, 2006, J GERONTOL B-PSYCHOL, V61, pP25, DOI 10.1093/geronb/61.1.P25
+   Freeman L., 2004, STUDY SOCIOLOGY SCI, V1, P159, DOI DOI 10.4135/9781446294413.N3
+   Furfey PH, 1937, AM SOCIOL REV, V2, P178, DOI 10.2307/2083471
+   Giannella E, 2016, SOC NETWORKS, V47, P15, DOI 10.1016/j.socnet.2016.02.003
+   Guadalupe S, 2021, CIENC SAUDE COLETIVA, V26, P5133, DOI 10.1590/1413-812320212611.3.23072019
+   Guadalupe S, 2022, SOC INDIC RES, V160, P445, DOI 10.1007/s11205-019-02252-3
+   Hinton GE., 2002, ADV NEURAL INFORM PR, P15
+   HORN JL, 1965, PSYCHOMETRIKA, V30, P179, DOI 10.1007/BF02289447
+   Jolliffe IT, 2016, PHILOS T R SOC A, V374, DOI 10.1098/rsta.2015.0202
+   Kalish Y, 2006, SOC NETWORKS, V28, P56, DOI 10.1016/j.socnet.2005.04.004
+   Laier B, 2022, SOC NETWORKS, V71, P131, DOI 10.1016/j.socnet.2022.07.005
+   Lazega E, 1995, REV FR SOCIOL, V36, P779, DOI 10.2307/3322456
+   Liu FT, 2008, IEEE DATA MINING, P413, DOI 10.1109/ICDM.2008.17
+   Lubbers MJ, 2007, INT SOCIOL, V22, P721, DOI 10.1177/0268580907082255
+   Marin A, 2007, FIELD METHOD, V19, P163, DOI 10.1177/1525822X06298588
+   Maya-Jariego I, 2023, SOC NETWORKS, V73, P20, DOI 10.1016/j.socnet.2022.12.005
+   Maya-Jariego I, 2021, SOC NETWORKS, V64, P173, DOI 10.1016/j.socnet.2020.09.006
+   Maya-Jariego I, 2020, NETW SCI, V8, P168, DOI 10.1017/nws.2019.15
+   Maya-Jariego I, 2015, PSYCHOSOC INTERV, V24, P185, DOI 10.1016/j.psi.2015.09.001
+   MCCARTY Christopher, 2002, Journal of Social Structure, V3, P20
+   Mitchell J.C., 1969, SOCIAL NETWORKS URBA
+   Molina JL, 2022, PNAS NEXUS, V1, DOI 10.1093/pnasnexus/pgac195
+   Mulaik S. A., 2009, FDN FACTOR ANAL
+   Newman M., 2010, NETWORKS INTRO
+   Pelle E, 2021, STAT METHOD APPL-GER, V30, P1507, DOI 10.1007/s10260-021-00591-5
+   Pescosolido BA, 2000, AM SOCIOL REV, V65, P52, DOI 10.2307/2657289
+   Portes A, 2011, ANNU REV SOCIOL, V37, P461, DOI 10.1146/annurev-soc-081309-150022
+   Rainie L, 2012, NETWORKED: THE NEW SOCIAL OPERATING SYSTEM, P1
+   ROUSSEEUW PJ, 1987, J COMPUT APPL MATH, V20, P53, DOI 10.1016/0377-0427(87)90125-7
+   Scholkopf B., 1997, Artificial Neural Networks - ICANN '97. 7th International Conference Proceedings, P583, DOI 10.1007/BFb0020217
+   Schölkopf B, 2000, ADV NEUR IN, V12, P582
+   Tamarit I, 2018, P NATL ACAD SCI USA, V115, P8316, DOI 10.1073/pnas.1719233115
+   Vacca R, 2020, NETW SCI, V8, P142, DOI 10.1017/nws.2019.29
+   Vinh N.X., 2009, P 26 ANN INT C MACH, DOI DOI 10.1145/1553374.1553511
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   ZWICK WR, 1986, PSYCHOL BULL, V99, P432, DOI 10.1037/0033-2909.99.3.432
+NR 55
+TC 0
+Z9 0
+U1 5
+U2 5
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JUL
+PY 2024
+VL 78
+BP 265
+EP 278
+DI 10.1016/j.socnet.2024.03.004
+EA APR 2024
+PG 14
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA RL3Z4
+UT WOS:001227794300001
+OA Green Published, hybrid, Green Submitted
+DA 2024-11-22
+ER

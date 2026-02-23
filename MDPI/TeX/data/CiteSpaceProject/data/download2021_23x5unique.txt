@@ -1,0 +1,560 @@
+
+PT J
+AU Schuchard, RJ
+   Crooks, AT
+AF Schuchard, Ross J.
+   Crooks, Andrew T.
+TI Insights into elections: An ensemble bot detection coverage framework
+   applied to the 2018 US midterm elections
+SO PLOS ONE
+LA English
+DT Article
+ID SOCIAL MEDIA; TWITTER
+AB The participation of automated software agents known as social bots within online social network (OSN) engagements continues to grow at an immense pace. Choruses of concern speculate as to the impact social bots have within online communications as evidence shows that an increasing number of individuals are turning to OSNs as a primary source for information. This automated interaction proliferation within OSNs has led to the emergence of social bot detection efforts to better understand the extent and behavior of social bots. While rapidly evolving and continually improving, current social bot detection efforts are quite varied in their design and performance characteristics. Therefore, social bot research efforts that rely upon only a single bot detection source will produce very limited results. Our study expands beyond the limitation of current social bot detection research by introducing an ensemble bot detection coverage framework that harnesses the power of multiple detection sources to detect a wider variety of bots within a given OSN corpus of Twitter data. To test this framework, we focused on identifying social bot activity within OSN interactions taking place on Twitter related to the 2018 U.S. Midterm Election by using three available bot detection sources. This approach clearly showed that minimal overlap existed between the bot accounts detected within the same tweet corpus. Our findings suggest that social bot research efforts must incorporate multiple detection sources to account for the variety of social bots operating in OSNs, while incorporating improved or new detection methods to keep pace with the constant evolution of bot complexity.
+C1 [Schuchard, Ross J.] George Mason Univ, Dept Computat & Data Sci, Fairfax, VA 22030 USA.
+   [Crooks, Andrew T.] Univ Buffalo, Dept Geog, Buffalo, NY USA.
+   [Crooks, Andrew T.] Univ Buffalo, RENEW Inst, Buffalo, NY USA.
+C3 George Mason University; State University of New York (SUNY) System;
+   University at Buffalo, SUNY; State University of New York (SUNY) System;
+   University at Buffalo, SUNY
+RP Schuchard, RJ (corresponding author), George Mason Univ, Dept Computat & Data Sci, Fairfax, VA 22030 USA.
+EM rschucha@gmu.edu
+RI Schuchard, Ross/AAB-9130-2020; Crooks, Andrew/L-2018-2017
+OI Crooks, Andrew/0000-0002-5034-6654
+CR [Anonymous], 2018, CURR OPIN TOXICOL
+   Badawy A, 2018, 2018 IEEE/ACM INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING (ASONAM), P258
+   Beskow DavidM., 2018, 11 INT C SOCIAL COMP, DOI DOI 10.1007/978-3-319-93372-6
+   Bode L, 2016, J POLITICAL MARKETIN, V15, P311, DOI 10.1080/15377857.2014.959686
+   Boichak O, 2018, LECT NOTES COMPUT SC, V10766, P17, DOI 10.1007/978-3-319-78105-1_3
+   Bond RM, 2012, NATURE, V489, P295, DOI 10.1038/nature11421
+   Boshmaf Y, 2011, 27TH ANNUAL COMPUTER SECURITY APPLICATIONS CONFERENCE (ACSAC 2011), P93
+   Bovet A, 2019, NAT COMMUN, V10, DOI 10.1038/s41467-018-07761-2
+   Boyd W, 2010, FEEM SER ECON ENVIR, P1
+   Brin S, 1998, COMPUT NETWORKS ISDN, V30, P107, DOI 10.1016/S0169-7552(98)00110-X
+   Broniatowski DA, 2018, AM J PUBLIC HEALTH, V108, P1378, DOI 10.2105/AJPH.2018.304567
+   Bryden J, 2019, PLOS ONE, V14, DOI 10.1371/journal.pone.0214854
+   Chavoshi N, 2017, WWW'17 COMPANION: PROCEEDINGS OF THE 26TH INTERNATIONAL CONFERENCE ON WORLD WIDE WEB, P1601, DOI 10.1145/3041021.3051114
+   Chavoshi N, 2016, IEEE DATA MINING, P817, DOI [10.1109/ICDM.2016.0096, 10.1109/ICDM.2016.86]
+   Choi D, 2020, SCI REP-UK, V10, DOI 10.1038/s41598-019-57272-3
+   Conover M.D., 2011, P INT AAAI C WEB SOC, P89
+   Cresci S, 2019, PROCEEDINGS OF THE 11TH ACM CONFERENCE ON WEB SCIENCE (WEBSCI'19), P47, DOI 10.1145/3292522.3326030
+   Cresci S, 2018, COMPANION PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE 2018 (WWW 2018), P1469, DOI 10.1145/3184558.3191595
+   Cresci S, 2019, ACM T WEB, V13, DOI 10.1145/3313184
+   Cresci S, 2018, IEEE T DEPEND SECURE, V15, P561, DOI 10.1109/TDSC.2017.2681672
+   Cresci S, 2017, WWW'17 COMPANION: PROCEEDINGS OF THE 26TH INTERNATIONAL CONFERENCE ON WORLD WIDE WEB, P963, DOI 10.1145/3041021.3055135
+   Crooks A, 2013, T GIS, V17, P124, DOI 10.1111/j.1467-9671.2012.01359.x
+   Davis CA, 2016, PROCEEDINGS OF THE 25TH INTERNATIONAL CONFERENCE ON WORLD WIDE WEB (WWW'16 COMPANION), P273, DOI 10.1145/2872518.2889302
+   De Domenico, 2018, ARXIV180308086PHYSIC
+   Duh A, 2018, BIG DATA, V6, P113, DOI 10.1089/big.2017.0041
+   Ferrara E, 2016, First Monday, V21, P1, DOI 10.5210/fm.v21i11.7090
+   Ferrara E, 2016, COMMUN ACM, V59, P96, DOI 10.1145/2818717
+   Ferrara Emilio, 2017, DISINFORMATION SOCIA, DOI DOI 10.5210/FM.V22I8.8005
+   Gibson R, 2013, J POLIT, V75, P701, DOI 10.1017/S0022381613000431
+   Grinberg N, 2019, SCIENCE, V363, P374, DOI 10.1126/science.aau2706
+   Hamm MP, 2015, JAMA PEDIATR, V169, P770, DOI 10.1001/jamapediatrics.2015.0944
+   Howard A, 2018, ACM T HUM-ROBOT INTE, V7, DOI 10.1145/3208974
+   Howard PN, 2018, J INF TECHNOL POLITI, V15, P81, DOI 10.1080/19331681.2018.1448735
+   Jiang M, 2016, IEEE INTELL SYST, V31, P31, DOI 10.1109/MIS.2016.5
+   Kuen E., 2018, Proceedings of the 3rd international conference on complexity, future information systems and risk - complexis, P13, DOI [10.5220/0006699500130022, DOI 10.5220/0006699500130022]
+   Lazer DMJ, 2018, SCIENCE, V359, P1094, DOI 10.1126/science.aao2998
+   Lex A, 2014, IEEE T VIS COMPUT GR, V20, P1983, DOI 10.1109/TVCG.2014.2346248
+   Luxton DD, 2012, AM J PUBLIC HEALTH, V102, pS195, DOI 10.2105/AJPH.2011.300608
+   Metaxas P., 2015, P INT AAAI C WEB SOC, V9, P658, DOI [10.1609/icwsm.v9i1.14661, DOI 10.1609/ICWSM.V9I1.14661]
+   Mitchell A., 2018, Americans still prefer watching to reading the news -- and mostly still through television
+   Monsted B, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0184148
+   Morstatter F, 2016, PROCEEDINGS OF THE 2016 IEEE/ACM INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING ASONAM 2016, P533, DOI 10.1109/ASONAM.2016.7752287
+   Persily N, 2017, J DEMOCR, V28, P63, DOI 10.1353/jod.2017.0025
+   Riquelme F, 2016, INFORM PROCESS MANAG, V52, P949, DOI 10.1016/j.ipm.2016.04.003
+   Ruths D, 2014, SCIENCE, V346, P1063, DOI 10.1126/science.346.6213.1063
+   Sakaki T, 2013, IEEE T KNOWL DATA EN, V25, P919, DOI 10.1109/TKDE.2012.29
+   Schuchard R, 2019, STUD COMPUT INTELL, V813, P424, DOI 10.1007/978-3-030-05414-4_34
+   Shao CC, 2018, NAT COMMUN, V9, DOI 10.1038/s41467-018-06930-7
+   Stella M, 2019, PLOS ONE, V14, DOI 10.1371/journal.pone.0214210
+   Stella M, 2018, P NATL ACAD SCI USA, V115, P12435, DOI 10.1073/pnas.1803470115
+   Stukal D, 2017, BIG DATA, V5, P310, DOI 10.1089/big.2017.0038
+   Subrahmanian VS, 2016, COMPUTER, V49, P38, DOI 10.1109/MC.2016.183
+   Theocharis Y, 2018, EUR POLIT SCI REV, V10, P139, DOI 10.1017/S1755773916000230
+   Tsvetkova M, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0171774
+   Tufekci Zeynep, 2014, P 8 INT C WEBL SOC M, P505, DOI DOI 10.1609/ICWSM.V8I1.14517
+   Vaccari C, 2015, J COMPUT-MEDIAT COMM, V20, P221, DOI 10.1111/jcc4.12108
+   Varol Onur, 2017, 11 INT AAAI C WEB SO
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   Whittaker E, 2015, J SCH VIOLENCE, V14, P11, DOI 10.1080/15388220.2014.949377
+   Won HH, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0061809
+   Woolley S.C., 2016, INT J COMMUN-US, V10
+   Yang KC, 2019, HUM BEHAV EMERG TECH, V1, P48, DOI 10.1002/hbe2.115
+   Yuan XY, 2019, SOC MEDIA SOC, V5, DOI 10.1177/2056305119865465
+   Zago M, 2020, SPOTTING POLITICAL S
+NR 64
+TC 5
+Z9 7
+U1 4
+U2 33
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JAN 6
+PY 2021
+VL 16
+IS 1
+AR e0244309
+DI 10.1371/journal.pone.0244309
+PG 19
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA PS4TL
+UT WOS:000607915500053
+PM 33406092
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Fränken, JP
+   Pilditch, T
+AF Franken, Jan-Philipp
+   Pilditch, Toby
+TI Cascades Across Networks are Sufficient for the Formation of Echo
+   Chambers: An Agent-Based Model
+SO JASSS-THE JOURNAL OF ARTIFICIAL SOCIETIES AND SOCIAL SIMULATION
+LA English
+DT Article
+DE Echo Chambers; Source Credibility; Information Cascades; Agent-Based
+   Modelling; Bayesian Modelling
+ID SOURCE CREDIBILITY; OPINION; DYNAMICS; WARMTH; NEWS
+AB Investigating how echo chambers emerge in social networks is increasingly crucial, given their role in facilitating the retention of misinformation, inducing intolerance towards opposing views, and misleading public and political discourse. Previously, the emergence of echo chambers has been attributed to psychological biases and inter-individual differences, requiring repeated interactions among network-users and rewiring or pruning of socialties. Using an idealised population of social network users, the present results suggest that when combined with positive credibility perceptions of a communicating source, social media users' ability to rapidly share information with each other through a single cascade can be sufficient to produce echo chambers. Crucially, we show that this requires neither special psychological explanation (e.g., bias or individual differences), nor repeated interactions-though these may be exacerbating factors. In fact, this effect is made increasingly worse the more generations of peer-to-peer transmissions it takes for information to permeate a network. This raises important questions for social network architects, if truly opposed to the increasing prevalence of deleterious societal trends that stem from echo chamber formation.
+C1 [Franken, Jan-Philipp] Univ Edinburgh, Dept Psychol, 7 George Sq, Edinburgh EH8 9JZ, Midlothian, Scotland.
+   [Pilditch, Toby] Univ Oxford, Sch Geog & Environm, South Parks Rd, Oxford OX1 3QY, England.
+   [Franken, Jan-Philipp; Pilditch, Toby] UCL, Dept Expt Psychol, 26 Bedford Way, London WC1H 0AP, England.
+C3 University of Edinburgh; University of Oxford; University of London;
+   University College London
+RP Fränken, JP (corresponding author), Univ Edinburgh, Dept Psychol, 7 George Sq, Edinburgh EH8 9JZ, Midlothian, Scotland.; Fränken, JP (corresponding author), UCL, Dept Expt Psychol, 26 Bedford Way, London WC1H 0AP, England.
+EM jp.franken@ed.ac.uk
+CR Amaral LAN, 2000, P NATL ACAD SCI USA, V97, P11149, DOI 10.1073/pnas.200327197
+   [Anonymous], 2017, REUTERS DIGITAL NEWS
+   Bail CA, 2016, P NATL ACAD SCI USA, V113, P11823, DOI 10.1073/pnas.1607151113
+   Bakshy E, 2015, SCIENCE, V348, P1130, DOI 10.1126/science.aaa1160
+   Barkun M, 2003, COMP STUD RELIG SOC, V15, P1, DOI 10.1525/california/9780520238053.001.0001
+   Bessi A, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0159641
+   Bessi A, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0118093
+   BIKHCHANDANI S, 1992, J POLIT ECON, V100, P992, DOI 10.1086/261849
+   Bolletta U., 2020, SSRN Scholarly Paper, DOI [10.2139/ssrn.3245800, DOI 10.2139/SSRN.3245800]
+   Bovens L., 2003, Bayesian Epistemology
+   CHAIKEN S, 1994, J PERS SOC PSYCHOL, V66, P460, DOI 10.1037/0022-3514.66.3.460
+   Chen S, 1999, DUAL-PROCESS THEORIES IN SOCIAL PSYCHOLOGY, P73
+   Chen T. S., 2020, FRIEND RECOMMENDATIO
+   Cialdini Robert B, 2007, Influence. Influence At Work
+   Cuddy AJC, 2011, RES ORGAN BEHAV, V31, P73, DOI 10.1016/j.riob.2011.10.004
+   Del Vicario M, 2016, SCI REP-UK, V6, DOI 10.1038/srep37825
+   Del Vicario M, 2016, P NATL ACAD SCI USA, V113, P554, DOI 10.1073/pnas.1517441113
+   Duggins P, 2017, JASSS-J ARTIF SOC S, V20, DOI 10.18564/jasss.3316
+   Fiske ST, 2007, TRENDS COGN SCI, V11, P77, DOI 10.1016/j.tics.2006.11.005
+   Franken J. P., 2020, P 42 ANN M COGN SCI
+   Hahn U., 2009, INFORMAL LOG, V29, P337, DOI DOI 10.22329/IL.V29I4.2903
+   Harris AJL, 2016, COGNITIVE SCI, V40, P1496, DOI 10.1111/cogs.12276
+   Harris AJL, 2009, J EXP PSYCHOL LEARN, V35, P1366, DOI 10.1037/a0016567
+   Haw AL, 2020, COMMUN RES PRACT, V6, P38, DOI 10.1080/22041451.2020.1732002
+   Hawthorne-Madell D, 2019, DECISION-WASHINGTON, V6, P17, DOI 10.1037/dec0000088
+   Hegselmann R., 2005, Computational Economics, V25, P381, DOI 10.1007/s10614-005-6296-3
+   Hegselmann R, 2002, JASSS-J ARTIF SOC S, V5
+   Henry AD, 2011, P NATL ACAD SCI USA, V108, P8605, DOI 10.1073/pnas.1014486108
+   Housholder EE, 2014, J INF TECHNOL POLITI, V11, P368, DOI 10.1080/19331681.2014.951753
+   Jann Ole, 2020, WHY ECHO CHAMBERS AR
+   Jasny L, 2019, ENVIRON RES COMMUN, V1, DOI 10.1088/2515-7620/ab491c
+   Jasny L, 2015, NAT CLIM CHANGE, V5, P782, DOI [10.1038/nclimate2666, 10.1038/NCLIMATE2666]
+   Kelman H. C., 1958, Journal of Conflict Resolution, V2, P51, DOI [https://doi.org/10.1177/002200275800200106, DOI 10.1177/002200275800200106]
+   Lazer DMJ, 2018, SCIENCE, V359, P1094, DOI 10.1126/science.aao2998
+   Lewandowsky S, 2019, COGNITION, V188, P124, DOI 10.1016/j.cognition.2019.01.011
+   Lorenz J, 2007, INT J MOD PHYS C, V18, P1819, DOI 10.1142/S0129183107011789
+   Madsen J. K., 2017, P ANN M COGN SCI SOC
+   Madsen J. K., 2016, P 38 ANN C COGN SCI, P165
+   Madsen JK, 2018, SCI REP-UK, V8, DOI 10.1038/s41598-018-25558-7
+   Madsen JK, 2018, PLOS ONE, V13, DOI 10.1371/journal.pone.0193909
+   Newman Nic, 2017, DIGITAL NEWS REPORT
+   Ngampruetikorn V, 2016, PHYS REV E, V94, DOI 10.1103/PhysRevE.94.052312
+   Nickerson RS., 1998, REV GEN PSYCHOL, V2, P175, DOI [10.1037/1089-2680.2.2.175, DOI 10.1037/1089-2680.2.2.175]
+   PETTY RE, 1984, ADV CONSUM RES, V11, P668
+   Pilditch T. D., 2017, P ANN M COGN SCI SOC
+   R Core Team, 2020, R LANG ENV STAT COMP
+   Righi S, 2014, ADV COMPLEX SYST, V17, DOI 10.1142/S0219525914500118
+   Robinson J.P., 1999, MEASURES POLITICAL A
+   Santos FC, 2006, PLOS COMPUT BIOL, V2, P1284, DOI 10.1371/journal.pcbi.0020140
+   Sasahara K., 2020, SOCIAL INFLUENCE UNF
+   Shanks DR, 2002, J BEHAV DECIS MAKING, V15, P233, DOI 10.1002/bdm.413
+   Sikder O, 2020, SCI REP-UK, V10, DOI 10.1038/s41598-020-62085-w
+   Starbird K., ICONFERENCE 2014 P
+   Starnini M, 2016, SCI REP-UK, V6, DOI 10.1038/srep31834
+   Takikawa H., 2017, IEEE INT C BIG DAT
+   Thiele JC, 2014, J STAT SOFTW, V58, P1
+   Törnberg P, 2018, PLOS ONE, V13, DOI 10.1371/journal.pone.0203958
+   van der Maas HLJ, 2020, J COMPLEX NETW, V8, DOI 10.1093/comnet/cnaa010
+   Vosoughi S, 2018, SCIENCE, V359, P1146, DOI 10.1126/science.aap9559
+   Walton D., 2010, Appeal to Expert Opinion: Arguments from Authority
+   Watts DJ, 2002, SCIENCE, V296, P1302, DOI 10.1126/science.1070120
+   Whalen A, 2018, COGNITIVE SCI, V42, P168, DOI 10.1111/cogs.12485
+   Wilensky U, 1999, NETLOGO
+   Williams HTP, 2015, GLOBAL ENVIRON CHANG, V32, P126, DOI 10.1016/j.gloenvcha.2015.03.006
+   Yamagishi T., 1984, SOCIAL DILEMMAS COOP, P233
+NR 65
+TC 6
+Z9 8
+U1 3
+U2 41
+PU J A S S S
+PI GUILDFORD
+PA UNIV SURREY, DEPT SOCIOLOGY, GUILDFORD GU2 7XH, SURREY, ENGLAND
+SN 1460-7425
+J9 JASSS-J ARTIF SOC S
+JI JASSS
+PD JUN 30
+PY 2021
+VL 24
+IS 3
+AR 1
+DI 10.18564/jasss.4566
+PG 15
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA TC2PQ
+UT WOS:000668484000001
+OA Green Submitted, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Puetz, K
+   Mayer, B
+AF Puetz, Kyle
+   Mayer, Brian
+TI Pipes or Prisms? Personal Networks, Network Mechanisms, and Formal
+   Support Receipt in the Wake of<i>Deepwater</i>
+SO SOCIOLOGICAL QUARTERLY
+LA English
+DT Article
+DE Environment and technology; community and urban sociology;
+   organizations; occupations; and work
+ID SOCIAL SUPPORT; RESOURCES; STABILITY; GENDER
+AB Social networks are commonly discussed in reference to processes of disaster recovery but rarely explicitly measured. We employ a mixed-methods approach drawing upon the personal-network data of 265 oyster workers in the wake of the Deepwater Horizon oil spill and qualitative accounts of individual experiences during the recovery process. We find evidence of two potential mechanisms linking network structure with the receipt of formal support: a networks-as-pipes approach linking networks and access to relevant information in the wake of a disaster and a networks-as-prisms approach where networks signal their social identities, shaping post-disaster actions and behaviors.
+C1 [Puetz, Kyle] Univ Virginia, Inst Adv Studies Culture, Charlottesville, VA USA.
+   [Mayer, Brian] Univ Arizona, Sch Sociol, Tucson, AZ USA.
+C3 University of Virginia; University of Arizona
+RP Mayer, B (corresponding author), Univ Arizona, POB 210027, Tucson, AZ 85721 USA.
+EM brianmayer@email.arizona.edu
+OI Puetz, Kyle/0000-0002-7530-0206; Mayer, Brian/0000-0002-9492-2326
+FU National Institute of Environmental Health Sciences as part of the
+   Deepwater Horizon Research Consortium [U19ES020683]
+FX This project was funded by a grant from the National Institute of
+   Environmental Health Sciences [U19ES020683] as part of the Deepwater
+   Horizon Research Consortium.
+CR Adger WN, 2005, SCIENCE, V309, P1036, DOI 10.1126/science.1112122
+   Aldrich D.P., 2012, Building Resilience: Social Capital in Post-Disaster Recovery, DOI [10.7208/chicago/9780226012896.001.0001, DOI 10.7208/CHICAGO/9780226012896.001.0001]
+   Aldrich D.P., 2019, BLACK WAVE NETWORKS
+   Aldrich DP, 2015, AM BEHAV SCI, V59, P254, DOI 10.1177/0002764214550299
+   [Anonymous], 2011, DEEP WAT GULF OIL DI
+   [Anonymous], 2003, EGONET PERSONAL NETW
+   [Anonymous], 2010, FACTSH BP VESS OPP P
+   BARRERA M, 1986, AM J COMMUN PSYCHOL, V14, P413, DOI 10.1007/BF00922627
+   Beggs J.J., 1996, INT J MASS EMERGENCI, V14, P57, DOI DOI 10.1177/028072709601400104
+   Beggs JJ, 1996, SOC FORCES, V75, P201, DOI 10.2307/2580762
+   Bertrand M, 2004, AM ECON REV, V94, P419, DOI 10.1257/0002828041302019
+   BP, 2010, BP REP NEARL 4000000
+   Breiger R.L., 2015, International Encyclopedia of Social and Behavioral Sciences, V5, P557
+   Burt R. S, 1992, STRUCTURAL HOLES SOC
+   Chamlee-Wright E, 2011, SOCIOL REV, V59, P266, DOI 10.1111/j.1467-954X.2011.02008.x
+   Chamlee-Wright Emily., 2014, Society, V51, P656, DOI DOI 10.1007/S12115-014-9849-Z
+   CHAMLEEWRIGHT E, 2008, INT J SOC ECON 2, V35
+   CLARKE H, 2017, SOC NATUR RESOUR, V30
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   Corbin S., 1998, Basics of Qualitative Research: Techniques and procedures for developing grounded theory
+   Drabek T.E., 1986, HUMAN SYSTEM RESPONS
+   Elliott JR, 2010, SOCIOL QUART, V51, P624, DOI 10.1111/j.1533-8525.2010.01186.x
+   Erikson Kai., 1976, Everything in Its Path: Destruction of Community in the Buffalo Creek Flood
+   FLAHERTY J, 1989, SOC SCI MED, V28, P1221, DOI 10.1016/0277-9536(89)90340-7
+   Fordham M., 2003, NATURAL DISASTER DEV, P73
+   Fothergill A, 2003, SOCIOL QUART, V44, P659, DOI 10.1111/j.1533-8525.2003.tb00530.x
+   Grammich Clifford., 2012, 2010 U.S. Religion Census: Religious Congregations Membership Study
+   GRANOVETTER M, 1985, AM J SOCIOL, V91, P481, DOI 10.1086/228311
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   GRATTAN L, 2011, ENVIRON HEALTH PERSP, V119
+   GRUBE L, 2018, EAST ECON J, V44
+   Gulf Coast Claims Facility, 2012, OV PROGR STAT STAT R
+   Hartsfield Shannon, 2020, COMMUNICATION 0415
+   Hochschild A.R., 2018, STRANGERS THEIR OWN
+   Hurlbert JeanneS., 2001, Social Capital: Theory and Research, P209, DOI DOI 10.4324/9781315129457-9
+   Hurlbert JS, 2000, AM SOCIOL REV, V65, P598, DOI 10.2307/2657385
+   Klinenberg E., 2001, ETHNOGRAPHY, V2, P501, DOI 10.1177/14661380122231019
+   Klinenberg Eric., 2003, Heat Wave: A Social Autopsy of Disaster in Chicago
+   Lin N., 2002, SOCIAL CAPITAL THEOR
+   Marsden P.V., 2005, MODELS METHODS SOCIA, P9
+   MARSDEN PV, 1988, SOC NETWORKS, V10, P57, DOI 10.1016/0378-8733(88)90010-X
+   Martin JL, 2003, AM J SOCIOL, V109, P1, DOI 10.1086/375201
+   Mayer B, 2015, SOCIOL FORUM, V30, P369, DOI 10.1111/socf.12167
+   McCarty Christopher, 2015, HDB METHODS CULTURAL, P631
+   McFarland D, 2005, SOC PSYCHOL QUART, V68, P289, DOI 10.1177/019027250506800401
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Morris J Glenn Jr, 2013, Trans Am Clin Climatol Assoc, V124, P191
+   Ngo E.B., 2001, NAT HAZARDS REV, V2, P80, DOI [DOI 10.1061/(ASCE)1527-6988(2001)2:2(80), 10.1061/(ASCE)1527-6988(2001)2:2(80)]
+   Norris FH, 2008, AM J COMMUN PSYCHOL, V41, P127, DOI 10.1007/s10464-007-9156-6
+   Peek LoriA., 2008, National Women's Studies Association Journal, V20, P69, DOI [DOI 10.1353/NWSA.0.0044, DOI 10.1353/FF.2008.A256897]
+   PESCOSOLIDO BA, 1992, AM J SOCIOL, V97, P1096, DOI 10.1086/229863
+   Podolny JM, 1997, AM SOCIOL REV, V62, P673, DOI 10.2307/2657354
+   Podolny JM, 2001, AM J SOCIOL, V107, P33, DOI 10.1086/323038
+   Portes A, 1998, ANNU REV SOCIOL, V24, P1, DOI 10.1146/annurev.soc.24.1.1
+   QSR International, 2012, NVIVO SOFTW VERS 10
+   Small M., 2017, SOMEONE TO TALK TO
+   Small MarioLuis., 2011, Annual Review of Sociology, V37
+   Spillman L, 2014, QUAL SOCIOL, V37, P189, DOI 10.1007/s11133-014-9273-0
+   Storr VirgilHenry., 2008, Review of Austrian Economics, V21
+   Stryker Sheldon., 1980, SYMB INTERACT
+   Swidler Ann., 2001, Talk of Love: How Culture Matters
+   U.S. Census Bureau, 2019, OWN RENT TEN DEM CHA
+   University of Florida Institute of Food and Agricultural Sciences, 2013, AP BAY OYST SIT REP
+   Upton HaroldF., 2011, The Deepwater Horizon Oil Spill and the Gulf of Mexico Fishing Industry
+   Vaisey S, 2010, SOC FORCES, V88, P1595
+   WALKER M, 2013, SOC PSYCHOL QUART, V76
+   Wellman B, 1997, SOC NETWORKS, V19, P27, DOI 10.1016/S0378-8733(96)00289-4
+   White K, 2000, SOC NETWORKS, V22, P337, DOI 10.1016/S0378-8733(00)00030-7
+NR 68
+TC 1
+Z9 2
+U1 2
+U2 11
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 0038-0253
+EI 1533-8525
+J9 SOCIOL QUART
+JI Sociol. Q.
+PD JUL 3
+PY 2021
+VL 62
+IS 3
+BP 548
+EP 569
+DI 10.1080/00380253.2020.1786478
+EA SEP 2020
+PG 22
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA TU8HB
+UT WOS:000569799500001
+PM 34658450
+OA Green Accepted
+DA 2024-11-22
+ER
+
+PT J
+AU Yan, HY
+   Wang, JY
+   Cui, J
+   Yang, ZY
+   Ren, M
+AF Yan, Hongyan
+   Wang, Jiayi
+   Cui, Jing
+   Yang, Zeyun
+   Ren, Min
+TI The Influencing Factors of Intellectual Property Pledge Loan Trust: A
+   Social Network Theory-Based Experimental Study
+SO DISCRETE DYNAMICS IN NATURE AND SOCIETY
+LA English
+DT Article
+ID PATENTS
+AB This paper studies the behavior of intellectual property pledge loan based on a specific social network and uses the method of experimental research to analyze the impact of factors on the comprehensive trust of intellectual property pledge loan. The results show that if direct cooperation records between enterprises and banks are complete, the larger the scale of cooperation, the higher the trust of intellectual property pledge loans, and the nearer the cooperation record to the present time, the greater the credibility of enterprise cooperation. If there is no direct cooperation record between enterprises and banks, or cooperation record is incomplete, in accordance with the trust evaluation of the recommended members on the intellectual property pledge loan enterprise, the smaller the degree of trust at a certain recommendation node, the lower the credibility of enterprises at this node correspondingly, and the lower the perceived risk tolerance of banks, the lower the cooperation satisfaction in the intellectual property pledge loan enterprises.
+C1 [Yan, Hongyan; Wang, Jiayi; Cui, Jing; Yang, Zeyun; Ren, Min] Beijing Union Univ, Beijing, Peoples R China.
+C3 Beijing Union University
+RP Yan, HY (corresponding author), Beijing Union Univ, Beijing, Peoples R China.
+EM yanhy819@126.com; 1962713719@qq.com; gltcuijing@buu.edu.cn;
+   gltzeyun@buu.edu.cn; adamina666@163.com
+OI Cui, Jing/0000-0001-8394-5613
+CR Amable B, 2010, J ECON DYN CONTROL, V34, P1092, DOI 10.1016/j.jedc.2010.03.004
+   Chai S.J., 2015, S CHINA FINANCE, P33
+   Coser A, 2020, ECON COMPUT ECON CYB, V54, P77, DOI 10.24818/18423264/54.2.20.05
+   Fehr E, 2004, J EUR ECON ASSOC, V2, DOI 10.1162/1542476042782297
+   Fischer T, 2014, J BUS VENTURING, V29, P633, DOI 10.1016/j.jbusvent.2014.04.002
+   Gine X., 2006, J APPL EC, V2, P60, DOI [10.1596/1813-9450-3959, DOI 10.1596/1813-9450-3959]
+   GRANOVETTER M, 1985, AM J SOCIOL, V91, P481, DOI 10.1086/228311
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   GULATI R, 1995, ACAD MANAGE J, V38, P85, DOI 10.5465/256729
+   [胡成 Hu Cheng], 2021, [科研管理, Science Research Management], V42, P109
+   [黄登仕 Huang Dengshi], 2017, [管理科学学报, Journal of Management Sciences in China], V20, P1
+   Huang WC, 2017, INT REV ECON FINANC, V51, P545, DOI 10.1016/j.iref.2017.07.009
+   Lewicki RJ, 1998, J BUS ETHICS, V17, P665
+   Li G., 2018, J N CHINA U WATER RE, V34, P71
+   Li T.Y, 2015, CHINA J COMMERCE, V19, P82
+   Li Y.Q., 2013, CHIN J MANAG, V10, P146
+   Liu C., 2018, SCI TECHNOLOGY PROGR, V35, P132
+   Madajewicz M, 2011, J ECON BEHAV ORGAN, V77, P107, DOI 10.1016/j.jebo.2008.01.007
+   Mitchell J., 1969, The Concept and Use of Social Networks. Social Networks in Urban Situations
+   NAZIFA T H., 2019, Journal of System and Management Sciences, V9, P19, DOI DOI 10.33168/JSMS.2019.0102
+   Nooteboom B, 1997, ACAD MANAGE J, V40, P308, DOI 10.5465/256885
+   Nooteboom S., 2003, Journal of Environmental Policy and Planning, V5, P285, DOI DOI 10.1080/1523908032000154205
+   Ring P.S, 1992, P INT ASS BUSINESS S, V3, P568, DOI [10.5840/iabsproc1992336, DOI 10.5840/IABSPROC1992336]
+   Robert W.P, 1999, MANAGE LEARN, V30
+   Shang Y.J, 2017, FINANCE EC, V22, P109
+   Shen H.J., 2020, FORUM SCI TECHNOLOGY, V3, P74
+   Shou Z.G., 2011, CHINA IND EC, V9, P56
+   Sui X., 2017, J BEIJING I TECHNOLO, V19, P99
+   Tijani N., 2019, J LOGISTICS INFORMAT, V6, P23
+   Uzzi B, 2003, MANAGE SCI, V49, P383, DOI 10.1287/mnsc.49.4.383.14427
+   Wu Z.G., 2012, J FINANC RES, V4, P169
+   Yan H.Y., 2020, TEST ENG MANAGEMENT, V83, P21534
+   Yao Z., 2013, MANAGE WORLD, P135
+   You D.M., 2008, STAT DECISIONS, V7, P33
+   [张红芳 Zhang Hongfang], 2017, [科学学研究, Studies in Science of Science], V35, P1026
+   Zhang S.C., 2013, CHINESE J MANAGEMENT, V10, P1301
+   Zhu G.J., 2012, SCI RES MANAGEMENT, V33, P117
+NR 37
+TC 1
+Z9 1
+U1 4
+U2 47
+PU HINDAWI LTD
+PI LONDON
+PA ADAM HOUSE, 3RD FLR, 1 FITZROY SQ, LONDON, W1T 5HF, ENGLAND
+SN 1026-0226
+EI 1607-887X
+J9 DISCRETE DYN NAT SOC
+JI Discrete Dyn. Nat. Soc.
+PD NOV 11
+PY 2021
+VL 2021
+AR 4441406
+DI 10.1155/2021/4441406
+PG 9
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Science & Technology - Other Topics
+GA XN0AZ
+UT WOS:000729179200001
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Aeby, G
+   Gauthier, JA
+   Widmer, ED
+AF Aeby, Gaelle
+   Gauthier, Jacques-Antoine
+   Widmer, Eric D.
+TI Patterns of support and conflict relationships in personal networks and
+   perceived stress
+SO CURRENT SOCIOLOGY
+LA English
+DT Article
+DE Conflict; personal networks; relationships; stress; support
+ID SOCIAL NETWORKS; FAMILY NETWORKS; OLDER-ADULTS; LIFE-COURSE; HEALTH;
+   TIES; AMBIVALENCE; FRIENDSHIP; REGRESSION; EXCHANGE
+AB This article investigates the association between personal networks and stress, both positively through support and negatively through conflict. In a representative sample of 755 individuals residing in Switzerland, each individual was asked to name people in their lives who they perceived as very important, as well as to report their mutual support and conflict interactions. First, the article develops and investigates a typology with five relational patterns based on indicators of emotional support and conflict relationships in personal networks. These patterns are the following:bonding social capital,bridging social capital,ego-centered conflict,overload, andambivalent. Second, it explores the association of these patterns with stress levels that are perceived in various life domains. Results show that individuals involved in relationships that were predominantly supportive had lower levels of stress, whereas individuals experiencing relationships characterized by conflict, or an imbalance in support by giving more than receiving, had higher levels of stress. Finally, ambivalent relationships in which support and conflict were equally present were associated with an intermediate level of stress. These results show the importance of considering support and conflict relationships together in personal network structures.
+C1 [Aeby, Gaelle] Univ Geneva, Inst Sociol Res, Geneva, Switzerland.
+   [Gauthier, Jacques-Antoine] Univ Lausanne, Life Course & Inequal Res Ctr, Lausanne, Switzerland.
+   [Widmer, Eric D.] Univ Geneva, Dept Sociol, Geneva, Switzerland.
+C3 University of Geneva; University of Lausanne; University of Geneva
+RP Aeby, G (corresponding author), Univ Geneva, Inst Sociol Res, Uni Mail, 40 Blvd Pont Arve, CH-1211 Geneva 4, Switzerland.
+EM gaelle.aeby@unige.ch
+OI Widmer, eric/0000-0002-9079-884X; Aeby, Gaelle/0000-0002-2066-7748
+FU Swiss National Science Foundation [100017_130343/1]; Swiss National
+   Centre of Competence in Research LIVES Overcoming vulnerability: Life
+   course perspectives (NCCR LIVES) - Swiss National Science Foundation
+   [51NF40-160590]; Swiss National Science Foundation
+FX This publication benefited from the support of the Swiss National
+   Science Foundation (grant number: 100017_130343/1), and of the Swiss
+   National Centre of Competence in Research LIVES Overcoming
+   vulnerability: Life course perspectives (NCCR LIVES), which is financed
+   by the Swiss National Science Foundation (grant number: 51NF40-160590).
+   The authors are grateful to the Swiss National Science Foundation for
+   its financial assistance.
+CR Akiyama H, 2003, J GERONTOL B-PSYCHOL, V58, pP70, DOI 10.1093/geronb/58.2.P70
+   Allan G, 2008, PERS RELATIONSHIP, V15, P1, DOI 10.1111/j.1475-6811.2007.00181.x
+   Bertera EM, 2005, J SOC PERS RELAT, V22, P33, DOI 10.1177/0265407505049320
+   Bidart C, 2018, SOC NETWORKS, V54, P1, DOI 10.1016/j.socnet.2017.11.003
+   Bonvalet C, 2007, MEASURING FAMILY SUP
+   Borgatti SP., 2018, ANAL SOCIAL NETWORKS
+   Bowen M., 1976, FAMILY THER, P42
+   Burt Ronald., 2003, NEW EC SOCIOLOGY DEV, P148, DOI DOI 10.7758/9781610442602.11
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   Connidis IA, 2002, J MARRIAGE FAM, V64, P558, DOI 10.1111/j.1741-3737.2002.00558.x
+   COOK KS, 1978, AM SOCIOL REV, V43, P721, DOI 10.2307/2094546
+   Cornwell B, 2011, J GERONTOL B-PSYCHOL, V66, P782, DOI 10.1093/geronb/gbr111
+   DeLongis A, 2004, J FAM PSYCHOL, V18, P470, DOI 10.1037/0893-3200.18.3.470
+   DOTY DH, 1994, ACAD MANAGE REV, V19, P230, DOI 10.2307/258704
+   Ellwardt L, 2019, J GERONTOLOGY B, DOI 10.1093/geronb/gbz035
+   Elmer T, 2017, NETW SCI, V5, P278, DOI 10.1017/nws.2017.20
+   ESS (European Social Survey), 2016, ESS8 2016 FIELDW SUM
+   Everett M, 2005, SOC NETWORKS, V27, P31, DOI 10.1016/j.socnet.2004.11.007
+   Everett MG, 2014, SOC NETWORKS, V38, P111, DOI 10.1016/j.socnet.2014.03.005
+   EVERITT B, 1980, QUAL QUANT, V14, P75, DOI 10.1007/BF00154794
+   Fingerman KL, 2008, J GERONTOL B-PSYCHOL, V63, pP362, DOI 10.1093/geronb/63.6.P362
+   Fingerman KL, 2004, J MARRIAGE FAM, V66, P792, DOI 10.1111/j.0022-2445.2004.00053.x
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   Girardin M, 2018, J MARRIAGE FAM, V80, P768, DOI 10.1111/jomf.12469
+   Giudici F., 2009, SWISS J SOCIOLOGY, V35, P253
+   Hillcoat-Nallétamby S, 2011, SOCIOLOGY, V45, P202, DOI 10.1177/0038038510394018
+   HOUSE JS, 1988, SCIENCE, V241, P540, DOI 10.1037/0003-066X.59.8.676
+   Hutteman R., 2014, J GERONTOLOGY SOCIAL, V28, P267, DOI 10.1002/per.1959
+   Kadushin C, 2002, SOC NETWORKS, V24, P77, DOI 10.1016/S0378-8733(01)00052-1
+   KUMBASAR E, 1994, AM J SOCIOL, V100, P477, DOI 10.1086/230544
+   McDonald S, 2010, SOCIOL FORUM, V25, P335, DOI 10.1111/j.1573-7861.2010.01179.x
+   McGinnity F, 2009, SOC INDIC RES, V93, P489, DOI 10.1007/s11205-008-9433-2
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Molm LD, 2007, AM J SOCIOL, V113, P205, DOI 10.1086/517900
+   Pearlin LI, 2005, J HEALTH SOC BEHAV, V46, P205, DOI 10.1177/002214650504600206
+   R Core Team, 2020, R LANG ENV STAT COMP
+   Rook KS, 2003, J GERONTOL B-PSYCHOL, V58, pP100, DOI 10.1093/geronb/58.2.P100
+   ROOK KS, 1984, J PERS SOC PSYCHOL, V46, P1097, DOI 10.1037/0022-3514.46.5.1097
+   Ross KM, 2019, SOC PERSONAL PSYCHOL, V13, DOI 10.1111/spc3.12468
+   Ryan L, 2008, SOCIOLOGY, V42, P672, DOI 10.1177/0038038508091622
+   Sapin M, 2016, SOC NETWORKS, V47, P59, DOI 10.1016/j.socnet.2016.04.002
+   Scott SB, 2013, J GERONTOL B-PSYCHOL, V68, P464, DOI 10.1093/geronb/gbs166
+   Shor E, 2013, SOC NETWORKS, V35, P626, DOI 10.1016/j.socnet.2013.08.004
+   Smith KP, 2008, ANNU REV SOCIOL, V34, P405, DOI 10.1146/annurev.soc.34.040507.134601
+   Spini D, 2017, RES HUM DEV, V14, P1, DOI 10.1080/15427609.2016.1268891
+   Spitze G, 2004, RES AGING, V26, P387, DOI 10.1177/0164027504264677
+   Steglich C, 2010, SOCIOL METHODOL, V40, P329, DOI 10.1111/j.1467-9531.2010.01225.x
+   Tabachnick B. G., 2007, USING MULTIVARIATE S
+   Thoits PA, 2010, J HEALTH SOC BEHAV, V51, pS41, DOI 10.1177/0022146510383499
+   Uchino BN, 2004, J SOC CLIN PSYCHOL, V23, P123, DOI 10.1521/jscp.23.2.123.31014
+   Walen HR, 2000, J SOC PERS RELAT, V17, P5, DOI 10.1177/0265407500171001
+   WARD JH, 1963, J AM STAT ASSOC, V58, P236, DOI 10.2307/2282967
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   WELLMAN B, 1990, AM J SOCIOL, V96, P558, DOI 10.1086/229572
+   Widmer E., 2011, RECHERCHES FAMILIALE, V1, P49
+   Widmer ED, 2010, FAMILY CONFIGURATIONS: A STRUCTURAL APPROACH TO FAMILY DIVERSITY, P1
+   Widmer ED, 2018, J FAM ISSUES, V39, P1573, DOI 10.1177/0192513X17714507
+NR 58
+TC 7
+Z9 8
+U1 3
+U2 12
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0011-3921
+EI 1461-7064
+J9 CURR SOCIOL
+JI Curr. Sociol.
+PD NOV
+PY 2021
+VL 69
+IS 7
+BP 981
+EP 1001
+AR 0011392120948926
+DI 10.1177/0011392120948926
+EA SEP 2020
+PG 21
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA WK7CR
+UT WOS:000570340900001
+DA 2024-11-22
+ER

@@ -1,0 +1,602 @@
+
+PT J
+AU Gao, J
+   Zhou, T
+   Hu, YQ
+AF Gao, Jian
+   Zhou, Tao
+   Hu, Yanqing
+TI Bootstrap percolation on spatial networks
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID LONG-RANGE PERCOLATION; TRANSITION; DYNAMICS; BEHAVIOR; MODEL
+AB Bootstrap percolation is a general representation of some networked activation process, which has found applications in explaining many important social phenomena, such as the propagation of information. Inspired by some recent findings on spatial structure of online social networks, here we study bootstrap percolation on undirected spatial networks, with the probability density function of long-range links' lengths being a power law with tunable exponent. Setting the size of the giant active component as the order parameter, we find a parameter-dependent critical value for the power-law exponent, above which there is a double phase transition, mixed of a second-order phase transition and a hybrid phase transition with two varying critical points, otherwise there is only a second-order phase transition. We further find a parameter-independent critical value around -1, about which the two critical points for the double phase transition are almost constant. To our surprise, this critical value -1 is just equal or very close to the values of many real online social networks, including LiveJournal, HP Labs email network, Belgian mobile phone network, etc. This work helps us in better understanding the self-organization of spatial structure of online social networks, in terms of the effective function for information spreading.
+C1 [Gao, Jian; Zhou, Tao] Univ Elect Sci & Technol China, Web Sci Ctr, CompleX Lab, Chengdu 611731, Peoples R China.
+   [Zhou, Tao] Univ Elect Sci & Technol China, Big Data Res Ctr, Chengdu 611731, Peoples R China.
+   [Hu, Yanqing] Southwest Jiaotong Univ, Sch Math, Chengdu 610031, Peoples R China.
+   [Hu, Yanqing] Sun Yat Sen Univ, Sch Informat Sci & Technol, Guangzhou 510006, Guangdong, Peoples R China.
+C3 University of Electronic Science & Technology of China; University of
+   Electronic Science & Technology of China; Southwest Jiaotong University;
+   Sun Yat Sen University
+RP Hu, YQ (corresponding author), Southwest Jiaotong Univ, Sch Math, Chengdu 610031, Peoples R China.
+EM yanqing.hu.sc@gmail.com
+RI Gao, Jian/D-1067-2013
+OI Gao, Jian/0000-0001-6659-5770; Zhou, Tao/0000-0003-0561-2316
+FU National Natural Science Foundation of China [61203156, 11222543]; Tang
+   Lixin Education Development Foundation by UESTC; Program for New Century
+   Excellent Talents in University [NCET-11-0070]; Special Project of
+   Sichuan Youth Science and Technology Innovation Research Team
+   [2013TD0006]
+FX The authors acknowledge Jun Wang and Panhua Huang for useful
+   discussions. This work is partially supported by National Natural
+   Science Foundation of China under Grants Nos. 61203156 and 11222543.
+   J.G. acknowledges support from Tang Lixin Education Development
+   Foundation by UESTC. T.Z. acknowledges the Program for New Century
+   Excellent Talents in University under Grant No. NCET-11-0070, and
+   Special Project of Sichuan Youth Science and Technology Innovation
+   Research Team under Grant No. 2013TD0006.
+CR Adamic L, 2005, SOC NETWORKS, V27, P187, DOI 10.1016/j.socnet.2005.01.007
+   Amini H, 2014, J STAT PHYS, V155, P72, DOI 10.1007/s10955-014-0946-6
+   Ball F, 2009, MATH BIOSCI, V218, P105, DOI 10.1016/j.mbs.2009.01.003
+   Balogh J, 2007, RANDOM STRUCT ALGOR, V30, P257, DOI 10.1002/rsa.20158
+   Barthélemy M, 2011, PHYS REP, V499, P1, DOI 10.1016/j.physrep.2010.11.002
+   Baxter GJ, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.051134
+   Baxter GJ, 2010, PHYS REV E, V82, DOI 10.1103/PhysRevE.82.011103
+   Baxter GJ, 2014, PHYS REV E, V89, DOI 10.1103/PhysRevE.89.042801
+   Benjamini I, 2001, RANDOM STRUCT ALGOR, V19, P102, DOI 10.1002/rsa.1022
+   Berezin Y, 2015, SCI REP-UK, V5, DOI 10.1038/srep08934
+   Biskup M, 2009, J STAT PHYS, V136, P667, DOI 10.1007/s10955-009-9798-x
+   Bizhani G, 2012, PHYS REV E, V86, DOI 10.1103/PhysRevE.86.011128
+   Bollobás B, 2014, ELECTRON J PROBAB, V19, P1, DOI 10.1214/EJP.v19-2758
+   Bradonjic M., 2013, P 10 WORKSH AN ALG C, P18
+   Carroll Lewis., 1876, HUNTING SNARK
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   CHALUPA J, 1979, J PHYS C SOLID STATE, V12, pL31, DOI 10.1088/0022-3719/12/1/008
+   Chen YZ, 2014, SCI REP-UK, V4, DOI 10.1038/srep06121
+   Colomer-de-Simón P, 2014, PHYS REV X, V4, DOI 10.1103/PhysRevX.4.041020
+   Cui PB, 2014, SCI REP-UK, V4, DOI 10.1038/srep06303
+   De Gregorio P, 2005, P NATL ACAD SCI USA, V102, P5669, DOI 10.1073/pnas.0408756102
+   Dorogovtsev SN, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.040601
+   Emmerich T, 2013, PHYS REV E, V87, DOI 10.1103/PhysRevE.87.032802
+   Feng L, 2015, NEW J PHYS, V17, DOI 10.1088/1367-2630/17/6/063025
+   Gao JX, 2013, PHYS REV E, V88, DOI 10.1103/PhysRevE.88.062816
+   Gao JX, 2012, NAT PHYS, V8, P40, DOI 10.1038/nphys2180
+   Gao J, 2011, PHYS REV LETT, V107, DOI 10.1103/PhysRevLett.107.092002
+   Goltsev AV, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.056101
+   Gravner J, 2012, PROBAB THEORY REL, V153, P1, DOI 10.1007/s00440-010-0338-z
+   Hu YQ, 2011, PHYS REV LETT, V106, DOI 10.1103/PhysRevLett.106.108701
+   Huang W, 2014, PHYSICA A, V393, P132, DOI 10.1016/j.physa.2013.09.014
+   Kleinberg JM, 2000, NATURE, V406, P845, DOI 10.1038/35022643
+   KOGUT PM, 1981, J PHYS C SOLID STATE, V14, P3187, DOI 10.1088/0022-3719/14/22/013
+   Kosmidis K, 2008, EPL-EUROPHYS LETT, V82, DOI 10.1209/0295-5075/82/48005
+   Lambiotte R, 2008, PHYSICA A, V387, P5317, DOI 10.1016/j.physa.2008.05.014
+   Li DQ, 2011, NAT PHYS, V7, P481, DOI [10.1038/nphys1932, 10.1038/NPHYS1932]
+   Li DQ, 2011, EPL-EUROPHYS LETT, V93, DOI 10.1209/0295-5075/93/68004
+   Liben-Nowell D, 2005, P NATL ACAD SCI USA, V102, P11623, DOI 10.1073/pnas.0503018102
+   Liu RR, 2012, PHYS REV E, V85, DOI 10.1103/PhysRevE.85.026110
+   Lü LY, 2011, NEW J PHYS, V13, DOI 10.1088/1367-2630/13/12/123005
+   Moukarzel CF, 2005, PHYSICA A, V356, P157, DOI 10.1016/j.physa.2005.05.029
+   Moukarzel CF, 2010, J PHYS CONF SER, V246, DOI 10.1088/1742-6596/246/1/012019
+   NEWMAN CM, 1986, COMMUN MATH PHYS, V104, P547, DOI 10.1007/BF01211064
+   Parshani R, 2011, P NATL ACAD SCI USA, V108, P1007, DOI 10.1073/pnas.1008404108
+   Ree S, 2012, PHYS REV E, V85, DOI 10.1103/PhysRevE.85.045101
+   Schmeltzer C, 2014, PHYS REV E, V89, DOI 10.1103/PhysRevE.89.012116
+   SCHULMAN LS, 1983, J PHYS A-MATH GEN, V16, pL639, DOI 10.1088/0305-4470/16/17/001
+   Sen P, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.037102
+   Shekhtman LM, 2014, PHYS REV E, V90, DOI 10.1103/PhysRevE.90.012809
+   Shrestha M, 2014, PHYS REV E, V89, DOI 10.1103/PhysRevE.89.022805
+   Soriano J, 2008, P NATL ACAD SCI USA, V105, P13758, DOI 10.1073/pnas.0707492105
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Watts DJ, 2002, P NATL ACAD SCI USA, V99, P5766, DOI 10.1073/pnas.082090499
+   Wu C, 2014, EPL-EUROPHYS LETT, V107, DOI 10.1209/0295-5075/107/48001
+   Xie YB, 2007, PHYS REV E, V75, DOI 10.1103/PhysRevE.75.036106
+   Zeng A, 2011, PHYSICA A, V390, P3962, DOI 10.1016/j.physa.2011.06.012
+   Zhang J, 2015, SCI REP-UK, V5, DOI 10.1038/srep09767
+   Zipf GK, 1950, J CLIN PSYCHOL, V6, P306
+NR 58
+TC 41
+Z9 41
+U1 0
+U2 29
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD OCT 1
+PY 2015
+VL 5
+AR 14662
+DI 10.1038/srep14662
+PG 10
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA CS4ZR
+UT WOS:000362085500001
+PM 26423347
+OA gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Chen, WH
+   Tan, J
+   Tu, FJ
+AF Chen, Wenhong
+   Tan, Justin
+   Tu, Fangjing
+TI Minding the Gender Gap: Social Network and Internet Correlates of
+   Business Performance Among Chinese Immigrant Entrepreneurs
+SO AMERICAN BEHAVIORAL SCIENTIST
+LA English
+DT Article
+DE gender; social networks; Internet use; immigrant entrepreneurship;
+   transnational entrepreneurship
+ID TRANSNATIONAL ENTREPRENEURSHIP; FAMILY; INEQUALITY; RESOURCES; WOMEN;
+   NET
+AB Existing studies have been inconclusive on whether and the extent to which gendered social networks contribute to the gender gap in business performance. Drawing on a random sample of Chinese Canadian entrepreneurs, this research examines the nexus of social networks, Internet use, and the gender gap in business performance. Results reveal a marked gender difference in firm size, which becomes narrowed after social networks, voluntary association participation, Internet use, and business characteristics are controlled. More important, network composition and structural position have different implications for men and women entrepreneurs. Men are more effective in converting relational advantages into business advantages. Interaction effects suggest that kin homophily hurts women's business performance but not men's. Yet, women gain more from participating in transnational entrepreneurship.
+C1 [Chen, Wenhong; Tu, Fangjing] Univ Texas Austin, Austin, TX 78712 USA.
+   [Tan, Justin] York Univ, Toronto, ON M3J 2R7, Canada.
+C3 University of Texas System; University of Texas Austin; York University
+   - Canada
+RP Chen, WH (corresponding author), Univ Texas Austin, Moody Coll Commun, Dept Radiotelevis Film, Austin, TX 78712 USA.
+EM wenchen2006@gmail.com
+RI Tan, Justin/KIG-9464-2024
+OI Tu, Fangjing/0000-0001-7093-6945
+FU Social Sciences and Humanities Research Council of Canada; Vivienne Poy
+   Chancellor's Fellowship in the Humanities and Social Sciences; Dr. David
+   Chu Fellowship in Asian Pacific Studies
+FX The author(s) disclosed receipt of the following financial support for
+   the research, authorship, and/or publication of this article: We
+   appreciate the financial support provided by the Social Sciences and
+   Humanities Research Council of Canada, Vivienne Poy Chancellor's
+   Fellowship in the Humanities and Social Sciences, and Dr. David Chu
+   Fellowship in Asian Pacific Studies.
+CR Aldrich H.E., 1989, Women owned businesses, P103
+   Aldrich HE, 2003, J BUS VENTURING, V18, P573, DOI 10.1016/S0883-9026(03)00011-9
+   [Anonymous], SMALL BUSINESS FINAN
+   Anthias Floya., 2003, INT REV SOCIOL, V13, P105, DOI [10.1080/0390670032000087014, DOI 10.1080/0390670032000087014]
+   Bagwell S, 2015, J ETHN MIGR STUD, V41, P329, DOI 10.1080/1369183X.2014.907739
+   Beggs JJ, 1997, SOCIOL PERSPECT, V40, P601, DOI 10.2307/1389465
+   Brush C.G., 1991, Journal of managerial Psychology, V6, P9, DOI DOI 10.1108/02683949110144846
+   Buttner E.H., 1993, BUS HORIZONS, V36, P59, DOI DOI 10.1016/S0007-6813(05)80039-4
+   Center for Women's Business Research, 2001, ONL FOC WOM MEN BUS
+   Chen WH, 2006, NEW TECHNOLOGIES IN GLOBAL SOCIETIES, P197, DOI 10.1142/9789812773555_0009
+   Chen WH, 2015, SOC NETWORKS, V40, P185, DOI 10.1016/j.socnet.2014.10.003
+   Chen WH, 2013, INFORM SOC, V29, P13, DOI 10.1080/01972243.2012.739265
+   Chen WH, 2009, INFORM COMMUN SOC, V12, P525, DOI 10.1080/13691180902858080
+   Chen WH, 2009, ENTREP THEORY PRACT, V33, P1079, DOI 10.1111/j.1540-6520.2009.00335.x
+   CHOW GC, 1960, ECONOMETRICA, V28, P591, DOI 10.2307/1910133
+   Davidsson P, 2003, J BUS VENTURING, V18, P301, DOI 10.1016/S0883-9026(02)00097-6
+   de Bruin A, 2007, ENTREP THEORY PRACT, V31, P323, DOI 10.1111/j.1540-6520.2007.00176.x
+   Erickson F., 2004, Talk and social theory: Ecologies of speaking and listening in everyday life
+   Espiritu Y. L., 2003, GENDER US IMMIGRATIO, P81
+   Fong E, 2007, CITY COMMUNITY, V6, P119, DOI 10.1111/j.1540-6040.2007.00204.x
+   Fong E, 2007, CAN REV SOC ANTHROP, V44, P415, DOI 10.1111/j.1755-618X.2007.tb01351.x
+   Greene P.G., 2003, Coleman White Paper Series
+   IBARRA H, 1992, ADMIN SCI QUART, V37, P422, DOI 10.2307/2393451
+   Jennings JE, 2013, ACAD MANAG ANN, V7, P663, DOI 10.1080/19416520.2013.782190
+   Jones S, 2009, J COMPUT-MEDIAT COMM, V14, P244, DOI 10.1111/j.1083-6101.2009.01439.x
+   Katz J, 2009, COMMUN ACM, V52, P149, DOI 10.1145/1562164.1562201
+   Kennedy T., 2003, IT & Society, V1, P72
+   Lin N, 2000, CONTEMP SOCIOL, V29, P785, DOI 10.2307/2654086
+   Mahler SJ, 1999, AM BEHAV SCI, V42, P690, DOI 10.1177/00027649921954426
+   Marques MM, 2001, GLOBAL NETW, V1, P283, DOI 10.1111/1471-0374.00017
+   Maurer I, 2006, ADMIN SCI QUART, V51, P262, DOI 10.2189/asqu.51.2.262
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Moore D. P., 1997, WOMEN ENTREPRENEURS
+   Portes A, 2002, AM SOCIOL REV, V67, P278, DOI 10.2307/3088896
+   Rauch J. E., 2001, NETWORK AND MARKETS
+   Renzulli LA, 2005, SOC FORCES, V84, P323, DOI 10.1353/sof.2005.0122
+   Renzulli LA, 2000, SOC FORCES, V79, P523, DOI 10.2307/2675508
+   Sanders JM, 1996, AM SOCIOL REV, V61, P231, DOI 10.2307/2096333
+   Saxenian A., 1999, SILICON VALLEYS NEW
+   Smith-Hunter A.E., 2004, WOMEN MANAGEMENT REV, V19, P18, DOI [10.1108/09649420410518403, DOI 10.1108/09649420410518403]
+   Smith-Lovin Lynne., 1993, Theory on Gender, Feminism on Theory
+   Urbano D, 2011, INT SMALL BUS J, V29, P119, DOI 10.1177/0266242610391934
+   WELLMAN B, 1992, J SOC PERS RELAT, V9, P385, DOI 10.1177/0265407592093004
+   Yang TT, 2014, AM SOCIOL REV, V79, P303, DOI 10.1177/0003122414524207
+   Zubi H., 2013, THE STAR        0130
+NR 45
+TC 8
+Z9 18
+U1 2
+U2 71
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0002-7642
+EI 1552-3381
+J9 AM BEHAV SCI
+JI Am. Behav. Sci.
+PD JUL
+PY 2015
+VL 59
+IS 8
+SI SI
+BP 977
+EP 991
+DI 10.1177/0002764215580609
+PG 15
+WC Psychology, Clinical; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology; Social Sciences - Other Topics
+GA CK4YK
+UT WOS:000356229100006
+DA 2024-11-22
+ER
+
+PT J
+AU Farine, DR
+   Firth, JA
+   Aplin, LM
+   Crates, RA
+   Culina, A
+   Garroway, CJ
+   Hinde, CA
+   Kidd, LR
+   Milligan, ND
+   Psorakis, I
+   Radersma, R
+   Verhelst, B
+   Voelkl, B
+   Sheldon, BC
+AF Farine, Damien R.
+   Firth, Josh A.
+   Aplin, Lucy M.
+   Crates, Ross A.
+   Culina, Antica
+   Garroway, Colin J.
+   Hinde, Camilla A.
+   Kidd, Lindall R.
+   Milligan, Nicole D.
+   Psorakis, Ioannis
+   Radersma, Reinder
+   Verhelst, Brecht
+   Voelkl, Bernhard
+   Sheldon, Ben C.
+TI The role of social and ecological processes in structuring animal
+   populations: a case study from automated tracking of wild birds
+SO ROYAL SOCIETY OPEN SCIENCE
+LA English
+DT Article
+DE dispersal; great tit; group living; immigration; paridae; social
+   organization
+ID FISSION-FUSION SOCIETIES; PUBLIC INFORMATION; NETWORK STRUCTURE; SEXUAL
+   SELECTION; GROUP-SIZE; ORGANIZATION; EVOLUTION; DISPERSAL; BEHAVIOR;
+   FISH
+AB Both social and ecological factors influence population process and structure, with resultant consequences for phenotypic selection on individuals. Understanding the scale and relative contribution of these two factors is thus a central aim in evolutionary ecology. In this study, we develop a framework using null models to identify the social and spatial patterns that contribute to phenotypic structure in a wild population of songbirds. We used automated technologies to track 1053 individuals that formed 73 737 groups from which we inferred a social network. Our framework identified that both social and spatial drivers contributed to assortment in the network. In particular, groups had a more even sex ratio than expected and exhibited a consistent age structure that suggested local association preferences, such as preferential attachment or avoidance. By contrast, recent immigrants were spatially partitioned from locally born individuals, suggesting differential dispersal strategies by phenotype. Our results highlight how different scales of social decision-making, ranging from post-natal dispersal settlement to fission-fusion dynamics, can interact to drive phenotypic structure in animal populations.
+C1 [Farine, Damien R.; Firth, Josh A.; Aplin, Lucy M.; Crates, Ross A.; Culina, Antica; Garroway, Colin J.; Hinde, Camilla A.; Kidd, Lindall R.; Milligan, Nicole D.; Psorakis, Ioannis; Radersma, Reinder; Verhelst, Brecht; Voelkl, Bernhard; Sheldon, Ben C.] Univ Oxford, Dept Zool, Edward Grey Inst Field Ornithol, S Parks Rd, Oxford OX1 3PS, England.
+   [Farine, Damien R.] Univ Calif Davis, Dept Anthropol Evolut Wing, Davis, CA 95616 USA.
+   [Farine, Damien R.] Smithsonian Trop Res Inst, Ancon, Panama.
+   [Aplin, Lucy M.] Australian Natl Univ, Res Sch Biol, GPO Box 4, Canberra, ACT 0200, Australia.
+   [Hinde, Camilla A.] Wageningen Univ, Dept Anim Sci, Behav Ecol Grp, NL-6700 AP Wageningen, Netherlands.
+   [Psorakis, Ioannis] Univ Oxford, Pattern Anal & Machine Learning Res Grp, Oxford, England.
+C3 University of Oxford; University of California System; University of
+   California Davis; Smithsonian Institution; Smithsonian Tropical Research
+   Institute; Australian National University; Wageningen University &
+   Research; University of Oxford
+RP Farine, DR; Firth, JA (corresponding author), Univ Oxford, Dept Zool, Edward Grey Inst Field Ornithol, S Parks Rd, Oxford OX1 3PS, England.; Farine, DR (corresponding author), Univ Calif Davis, Dept Anthropol Evolut Wing, Davis, CA 95616 USA.; Farine, DR (corresponding author), Smithsonian Trop Res Inst, Ancon, Panama.
+EM damien.farine@zoo.ox.ac.uk; joshua.firth@zoo.ox.ac.uk
+RI Garroway, Colin/B-5698-2009; Crates, Ross/AAG-2161-2021; Voelkl,
+   Bernhard/D-1390-2009; Farine, Damien/Y-2454-2019; Hinde,
+   Camilla/AAF-1597-2019; Sheldon, Ben/A-8056-2010
+OI Kidd, Lindall/0000-0002-4443-2572; Aplin, Lucy/0000-0001-5367-826X;
+   Culina, Antica/0000-0003-2910-8085; Garroway, Colin/0000-0002-0955-0688;
+   Firth, Josh/0000-0001-7183-4115; Sheldon, Ben/0000-0002-5240-7828;
+   Farine, Damien/0000-0003-2208-7613; Crates, Ross/0000-0002-7660-309X;
+   Voelkl, Bernhard/0000-0001-5454-2508
+FU ERC Advanced grant [AdG 250164]; Microsoft Research; Australian National
+   University; NERC; BBSRC [BB/L006081/1]; NSF [NSF-IOS 1250895]; Direct
+   For Biological Sciences; Division Of Integrative Organismal Systems
+   [1250895] Funding Source: National Science Foundation; BBSRC
+   [BB/L006081/1] Funding Source: UKRI
+FX The work described here and all authors were funded by an ERC Advanced
+   grant (AdG 250164) to B.C.S. as well as by PhD scholarships from
+   Microsoft Research (I.P.), Australian National University (L.M.A.) and
+   NERC (J.A.F.). D.R.F., L.M.A. and B.C.S. received additional funding
+   from the BBSRC (BB/L006081/1). D.R.F. received further funding from the
+   NSF (NSF-IOS 1250895).
+CR Aivaz AN, 2011, BEHAV ECOL, V22, P1353, DOI 10.1093/beheco/arr141
+   ALBON SD, 1992, J ANIM ECOL, V61, P131, DOI 10.2307/5516
+   [Anonymous], 2002, Living in Groups
+   [Anonymous], 2013, R: A language and environment for statistical computing
+   Aplin LM, 2013, ECOL LETT, V16, P1365, DOI 10.1111/ele.12181
+   Aplin LM, 2012, P ROY SOC B-BIOL SCI, V279, P4199, DOI 10.1098/rspb.2012.1591
+   Aplin LM, 2015, NATURE, V518, P538, DOI 10.1038/nature13998
+   Aplin LM, 2014, P ROY SOC B-BIOL SCI, V281, DOI 10.1098/rspb.2014.1016
+   Aplin LM, 2013, ANIM BEHAV, V85, P1225, DOI 10.1016/j.anbehav.2013.03.009
+   Archie EA, 2006, P ROY SOC B-BIOL SCI, V273, P513, DOI 10.1098/rspb.2005.3361
+   AXELROD R, 1981, SCIENCE, V211, P1390, DOI 10.1126/science.7466396
+   Bejder L, 1998, ANIM BEHAV, V56, P719, DOI 10.1006/anbe.1998.0802
+   Berdahl A, 2013, SCIENCE, V339, P574, DOI 10.1126/science.1225883
+   CHAPMAN CA, 1995, BEHAV ECOL SOCIOBIOL, V36, P59, DOI 10.1007/BF00175729
+   Couzin ID, 2006, CURR BIOL, V16, pR169, DOI 10.1016/j.cub.2006.02.042
+   Croft DP, 2008, EXPLORING ANIMAL SOCIAL NETWORKS, P1
+   Dall SRX, 2005, TRENDS ECOL EVOL, V20, P187, DOI 10.1016/j.tree.2005.01.010
+   Danchin É, 2004, SCIENCE, V305, P487, DOI 10.1126/science.1098254
+   Dingemanse NJ, 2003, P ROY SOC B-BIOL SCI, V270, P741, DOI 10.1098/rspb.2002.2300
+   Doligez B, 2002, SCIENCE, V297, P1168, DOI 10.1126/science.1072838
+   Farine DR, 2015, J EVOLUTION BIOL, V28, P547, DOI 10.1111/jeb.12587
+   Farine DR, 2015, ANIM BEHAV, V104, pE1, DOI 10.1016/j.anbehav.2014.11.019
+   Farine DR, 2015, P ROY SOC B-BIOL SCI, V282, DOI 10.1098/rspb.2014.2804
+   Farine DR, 2014, ANIM BEHAV, V89, P141, DOI 10.1016/j.anbehav.2014.01.001
+   Farine DR, 2013, BIOL LETTERS, V9, DOI 10.1098/rsbl.2013.0578
+   Farine DR, 2013, METHODS ECOL EVOL, V4, P1187, DOI 10.1111/2041-210X.12121
+   Farine DR, 2013, BEHAV ECOL SOCIOBIOL, V67, P321, DOI 10.1007/s00265-012-1452-y
+   Farine DR, 2012, ANIM BEHAV, V84, P1271, DOI 10.1016/j.anbehav.2012.08.008
+   FUKUDA F, 1989, INT J PRIMATOL, V10, P419, DOI 10.1007/BF02736369
+   HAMILTON WD, 1971, J THEOR BIOL, V31, P295, DOI 10.1016/0022-5193(71)90189-5
+   Hatchwell BJ, 2009, PHILOS T R SOC B, V364, P3217, DOI 10.1098/rstb.2009.0109
+   Hoare DJ, 2000, J FISH BIOL, V57, P1351, DOI 10.1006/jfbi.2000.1446
+   Hoare DJ, 2000, OIKOS, V89, P546, DOI 10.1034/j.1600-0706.2000.890314.x
+   Kerth G, 2006, P ROY SOC B-BIOL SCI, V273, P2785, DOI 10.1098/rspb.2006.3647
+   Kidd LR, WHO ESCAPES DE UNPUB
+   Kohn GM, 2011, ANIM BEHAV, V82, P1015, DOI 10.1016/j.anbehav.2011.07.035
+   Krause J, 1996, ECOLOGY, V77, P1586, DOI 10.2307/2265553
+   Lahti K, 1996, IBIS, V138, P539, DOI 10.1111/j.1474-919X.1996.tb08075.x
+   LANDEAU L, 1986, ANIM BEHAV, V34, P1372, DOI 10.1016/S0003-3472(86)80208-1
+   Le Hellaye Y, 2010, BEHAV ECOL SOCIOBIOL, V64, P349, DOI 10.1007/s00265-009-0851-1
+   Lehmann J, 2004, BEHAV ECOL SOCIOBIOL, V56, P207, DOI 10.1007/s00265-004-0781-x
+   Mathis A, 2003, BEHAV ECOL, V14, P334, DOI 10.1093/beheco/14.3.334
+   Newman MEJ, 2003, PHYS REV E, V67, DOI 10.1103/PhysRevE.67.026126
+   Oh KP, 2010, AM NAT, V176, pE80, DOI 10.1086/655216
+   Popa-Lisseanu AG, 2008, ANIM BEHAV, V75, P471, DOI 10.1016/j.anbehav.2007.05.011
+   Psorakis I, 2015, BEHAV ECOL SOCIOBIOL, V69, P857, DOI 10.1007/s00265-015-1906-0
+   Psorakis I, 2012, J R SOC INTERFACE, V9, P3055, DOI 10.1098/rsif.2012.0223
+   Quinn JL, 2011, J ANIM ECOL, V80, P918, DOI 10.1111/j.1365-2656.2011.01835.x
+   Ruxton GD, 2005, BEHAV ECOL, V16, P856, DOI 10.1093/beheco/ari063
+   SANDELL M, 1991, BEHAV ECOL SOCIOBIOL, V29, P147, DOI 10.1007/BF00166490
+   Schürch R, 2010, PHILOS T R SOC B, V365, P4089, DOI 10.1098/rstb.2010.0177
+   Silk MJ, 2014, IBIS, V156, P701, DOI 10.1111/ibi.12191
+   SYMINGTON MM, 1990, INT J PRIMATOL, V11, P47, DOI 10.1007/BF02193695
+   Valone TJ, 2007, BEHAV ECOL SOCIOBIOL, V62, P1, DOI 10.1007/s00265-007-0439-6
+   Ward AJW, 2002, BEHAV ECOL SOCIOBIOL, V52, P182, DOI 10.1007/s00265-002-0505-z
+   WESTEBERHARD MJ, 1979, P AM PHILOS SOC, V123, P222
+   Whitehead H, 2008, ANAL ANIMAL SOC
+   WILKINSON R, 1982, ORNIS SCAND, V13, P117, DOI 10.2307/3676197
+   Wittemyer G, 2005, ANIM BEHAV, V69, P1357, DOI 10.1016/j.anbehav.2004.08.018
+   Wolf JB, 1999, AM NAT, V153, P254, DOI 10.1086/303168
+NR 60
+TC 82
+Z9 91
+U1 1
+U2 54
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 2054-5703
+J9 ROY SOC OPEN SCI
+JI R. Soc. Open Sci.
+PD APR
+PY 2015
+VL 2
+IS 4
+AR 150057
+DI 10.1098/rsos.150057
+PG 11
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA DO7LZ
+UT WOS:000377965400020
+PM 26064644
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Teresi, H
+   Michelson, MR
+AF Teresi, Holly
+   Michelson, Melissa R.
+TI Wired to mobilize: The effect of social networking messages on voter
+   turnout
+SO SOCIAL SCIENCE JOURNAL
+LA English
+DT Article
+DE Civic participation; Social media; Social networks; Facebook; Experiment
+ID PRESSURE
+AB Recent scholarship has documented the effect of online social networking on political participation, a relationship hypothesized to be due to the generation of social capital. This paper tests the hypothesis that impersonal get-out-the-vote messages delivered via an online social network can increase voter turnout. Specifically, this study uses a field experiment of randomly assigned students from a large southern public university to test the effect of exposure to political messages via Facebook on the likelihood of them voting in the November 2010 election. The results indicate that encouragements to vote delivered through a social networking site can have substantively large effects on political behavior. (C) 2014 Western Social Science Association. Published by Elsevier Inc. All rights reserved.
+C1 [Teresi, Holly; Michelson, Melissa R.] Menlo Coll, Atherton, CA 94027 USA.
+RP Michelson, MR (corresponding author), Menlo Coll, 1000 El Camino Real, Atherton, CA 94027 USA.
+EM holly.teresi@gmail.com; melissa.michelson@menlo.edu
+OI Michelson, Melissa/0000-0002-8533-7926
+CR Abrajano M, 2011, AM POLIT RES, V39, P643, DOI 10.1177/1532673X10397000
+   [Anonymous], 2011, CAMBRIDGE HDB EXPT P
+   [Anonymous], 2011, SOCIAL NETWORKINGSIT
+   [Anonymous], 2008, 2008 APR P C HUM FAC, DOI DOI 10.1145/1357054.1357213
+   BAKOS Y, 2009, 0940 NYU CTR LAW EC
+   Bedolla LG, 2012, MOBILIZING INCLUSION
+   Bode L, 2012, J INF TECHNOL POLITI, V9, P352, DOI 10.1080/19331681.2012.709045
+   Bond RM, 2012, NATURE, V489, P295, DOI 10.1038/nature11421
+   Davenport Tiffany C, 2008, ANN M AM POL SCI ASS
+   Druckman JN., 2009, SSRN Electron. J, DOI [10.2139/ssrn.1498843, DOI 10.2139/SSRN.1498843]
+   Ellison NB, 2007, J COMPUT-MEDIAT COMM, V12, P1143, DOI 10.1111/j.1083-6101.2007.00367.x
+   Gainous J., 2011, Rebooting American politics: The internet revolution
+   Gainous J, 2013, INT J POLITICS CULT, V26, P145, DOI 10.1007/s10767-013-9130-2
+   Gerber AS, 2008, AM POLIT SCI REV, V102, P33, DOI 10.1017/S000305540808009X
+   Gerber AS, 2010, POLIT ANAL, V18, P297, DOI 10.1093/pan/mpq008
+   Gerber Alan S., 2012, FIELD EXPT DESIGN AN
+   Green DP, 2013, J ELECT PUBLIC OPIN, V23, P27, DOI 10.1080/17457289.2012.728223
+   Green DonaldP., 2008, Get Out the Vote: How to Increase Voter Turnout, VSecond
+   Honaker J., 2013, Amelia II: A program for missing Data
+   Issenberg S., 2012, VICTORY LAB SECRET S
+   Jones H., 2005, ETHNICS LAW ELECT FR
+   Kobayashi T, 2010, HUM COMMUN RES, V36, P546, DOI 10.1111/j.1468-2958.2010.01388.x
+   Malhotra N, 2012, Q J POLIT SCI, V7, P321, DOI 10.1561/100.00011073
+   Mann CB, 2010, POLIT BEHAV, V32, P387, DOI 10.1007/s11109-010-9124-y
+   Michelson MR, 2009, J POLIT, V71, P1549, DOI 10.1017/S0022381609990119
+   Nickerson DW, 2007, Q J POLIT SCI, V2, P369, DOI 10.1561/100.00007032
+   Nielsen, 2012, STAT MED SOC MED REP
+   Pasek J, 2009, J INF TECHNOL POLITI, V6, P197, DOI 10.1080/19331680902996403
+   Putnam R., 1999, BOWLING ALONE
+   Sinclair B, 2012, AM J POLIT SCI, V56, P1055, DOI 10.1111/j.1540-5907.2012.00592.x
+   Valenzuela S, 2009, J COMPUT-MEDIAT COMM, V14, P875, DOI 10.1111/j.1083-6101.2009.01474.x
+NR 31
+TC 25
+Z9 25
+U1 4
+U2 58
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0362-3319
+EI 1873-5355
+J9 SOC SCI J
+JI Soc. Sci. J.
+PD JUN
+PY 2015
+VL 52
+IS 2
+BP 195
+EP 204
+DI 10.1016/j.soscij.2014.09.004
+PG 10
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA CI2AS
+UT WOS:000354547500012
+DA 2024-11-22
+ER
+
+PT J
+AU Benton, RA
+   McDonald, S
+   Manzoni, A
+   Warner, DF
+AF Benton, Richard A.
+   McDonald, Steve
+   Manzoni, Anna
+   Warner, David F.
+TI The Recruitment Paradox: Network Recruitment, Structural Position, and
+   East German Market Transition
+SO SOCIAL FORCES
+LA English
+DT Article
+ID SOCIAL NETWORKS; SOCIETAL TRANSFORMATION; JOB SEARCH; STATE;
+   STRATIFICATION; INEQUALITY; EMPLOYMENT; CONTACTS; WORK; TIES
+AB Economic institutions structure links between labor-market informality and social stratification. The present study explores how periods of institutional change and post-socialist market transition alter network-based job finding, in particular informal recruitment. We highlight how market transitions affect both the prevalence and distribution of network-based recruitment channels: open-market environments reduce informal recruitment's prevalence but increase its association with high wages. We test these propositions using the case of the former East Germany's market transition and a comparison with West Germany's more stable institutional environment. Following transition, workers in lower tiers increasingly turned toward formal intermediaries, active employee search, and socially "disembedded" matches. Meanwhile, employers actively recruited workers into higher-wage positions. Implications for market transition theory and post-socialist stratification are discussed.
+C1 [Benton, Richard A.] Duke Univ, Dept Sociol, Durham, NC 27708 USA.
+   [McDonald, Steve] N Carolina State Univ, Sociol, Raleigh, NC 27695 USA.
+   [Manzoni, Anna] N Carolina State Univ, Dept Sociol & Anthropol, Raleigh, NC 27695 USA.
+   [Warner, David F.] Univ Nebraska, Dept Sociol, Lincoln, NE 68588 USA.
+C3 Duke University; North Carolina State University; North Carolina State
+   University; University of Nebraska System; University of Nebraska
+   Lincoln
+RP Benton, RA (corresponding author), Duke Univ, Dept Sociol, Durham, NC 27708 USA.
+EM richard.benton@duke.edu
+RI Warner, David/ACW-0269-2022; Manzoni, Anna/C-6962-2008; McDonald,
+   Steve/B-8696-2008
+OI Manzoni, Anna/0000-0003-3264-177X; McDonald, Steve/0000-0001-6463-0958
+FU North Carolina State University's Faculty Research and Professional
+   Development Grant
+FX Research was supported by funds from North Carolina State University's
+   Faculty Research and Professional Development Grant. We are grateful for
+   detailed comments on earlier drafts from Matthew Mahutga and Tom
+   DiPrete. Previous versions were presented at the 2012 meeting of the
+   American Sociological Association and the summer 2012 meeting of ISA's
+   Committee on Social Stratification and Mobility (RC28). Direct
+   correspondence to Richard Benton, Department of Sociology, Duke
+   University, Durham, NC 27708 USA; E-mail: richard.benton@duke.edu.
+CR Angelusz R., 2001, Social capital: Theory and research
+   [Anonymous], 2012, CAPITALISM BELOW MAR
+   Bandelj N, 2010, SOC FORCES, V88, P2133
+   Berry WD., 1985, MULTIPLE REGRESSION
+   Bian YJ, 2009, RES SOCIOL WORK, V19, P255, DOI 10.1108/S0277-2833(2009)0000019012
+   Bian YJ, 1997, AM SOCIOL REV, V62, P366, DOI 10.2307/2657311
+   Bian YJ, 1996, AM SOCIOL REV, V61, P739, DOI 10.2307/2096451
+   Bian YJ, 2001, SOC FORCES, V79, P805, DOI 10.1353/sof.2001.0006
+   Brainerd E, 1998, AM ECON REV, V88, P1094
+   BRIDGES WP, 1986, AM SOCIOL REV, V51, P574, DOI 10.2307/2095589
+   BUNCE V, 1993, E EUR POLIT SOC, V7, P240, DOI 10.1177/0888325493007002003
+   Campbell Karen., 1985, RES SOCIOLOGY WORK, V3, P147
+   Chua V, 2014, SOCIOL PERSPECT, V57, P124, DOI 10.1177/0731121413516606
+   Chua V, 2011, SOC NETWORKS, V33, P1, DOI 10.1016/j.socnet.2010.08.001
+   Clarke Simon., 1999, FORMATION LABOUR MAR
+   Domanski H, 1995, ARCH EUR SOCIOL, V36, P317
+   Elliott JR, 2000, SOC SCI QUART, V81, P1036
+   Erickson BonnieH., 2001, SOCIAL CAPITAL, P127
+   Esping-Andersen Gosta, 1990, 3 WORLDS WELFARE CAP
+   Fernandez R.M., 2001, SOCIAL CAPITAL, P85
+   Fernandez RM, 2006, AM SOCIOL REV, V71, P42, DOI 10.1177/000312240607100103
+   Fernandez RM, 2000, AM J SOCIOL, V105, P1288, DOI 10.1086/210432
+   Finlay W., 2007, HEADHUNTERS MATCHMAK
+   Franzen A, 2006, EUR SOCIOL REV, V22, P353, DOI 10.1093/esr/jcl001
+   Gerber TP, 2010, AM J SOCIOL, V116, P855, DOI 10.1086/655750
+   Goedicke A., 2006, After the Fall ofthe Wall. Life Courses in the Transformation ofEast Germany, P44
+   Granovetter M, 1995, Getting a Job: A Study of Contacts and Careers
+   Hall P.A., 2001, VARIETIES CAPITALISM, DOI DOI 10.1093/0199247757.001.0001
+   Hamm P, 2012, AM SOCIOL REV, V77, P295, DOI 10.1177/0003122412441354
+   HANSON S, 1991, ANN ASSOC AM GEOGR, V81, P229, DOI 10.1111/j.1467-8306.1991.tb01688.x
+   Heyns B, 2005, ANNU REV SOCIOL, V31, P163, DOI 10.1146/annurev.soc.30.012703.110637
+   Holzer HarryJ., 1996, WHAT EMPLOYERS WANT
+   Ingram P, 2000, ANNU REV SOCIOL, V26, P525, DOI 10.1146/annurev.soc.26.1.525
+   Kalleberg AL, 2009, AM SOCIOL REV, V74, P1, DOI 10.1177/000312240907400101
+   Kaser Michael, 1998, E GERMANYS EC DEV SI
+   Keister LA, 2012, SOCIOL PERSPECT, V55, P267, DOI 10.1525/sop.2012.55.2.267
+   Kogan I, 2011, RES SOC STRAT MOBIL, V29, P445, DOI 10.1016/j.rssm.2011.03.001
+   Lange Thomas., 1998, The Economics of German Unification
+   Ledeneva A.V., 1998, RUSSIAS EC FAVOURS B
+   Li BB, 2001, AM J SOCIOL, V106, P1371, DOI 10.1086/320816
+   Lin N, 1999, ANNU REV SOCIOL, V25, P467, DOI 10.1146/annurev.soc.25.1.467
+   Lin N., 2002, SOCIAL CAPITAL THEOR
+   Lin Nan., 2008, SOCIAL CAPITAL INT R, P107
+   Loury LD, 2006, J LABOR ECON, V24, P299, DOI 10.1086/499974
+   Marsden P., 2001, SOCIAL CAPITAL, P105
+   MARSDEN PV, 1994, AM BEHAV SCI, V37, P979, DOI 10.1177/0002764294037007009
+   McDonald S, 2006, SOC FORCES, V85, P521, DOI 10.1353/sof.2006.0133
+   McDonald S, 2012, SOC FORCES, V91, P75, DOI 10.1093/sf/sos069
+   McDonald S, 2010, SOCIO-ECON REV, V8, P307, DOI 10.1093/ser/mwp021
+   Mouw T, 2003, AM SOCIOL REV, V68, P868, DOI 10.2307/1519749
+   Nee V, 1996, ANNU REV SOCIOL, V22, P401, DOI 10.1146/annurev.soc.22.1.401
+   Nee V, 1996, AM J SOCIOL, V101, P908, DOI 10.1086/230784
+   NEE V, 1989, AM SOCIOL REV, V54, P663, DOI 10.2307/2117747
+   Nee V, 1999, THEOR SOC, V28, P799, DOI 10.1023/A:1007074013540
+   NORTH DC, 1991, J ECON PERSPECT, V5, P97, DOI 10.1257/jep.5.1.97
+   Pellizzari M, 2010, IND LABOR RELAT REV, V63, P494, DOI 10.1177/001979391006300307
+   Petersen Trond., 2004, Handbook of Data Analysis, P331
+   Reingold DA, 1999, URBAN STUD, V36, P1907, DOI 10.1080/0042098992674
+   RONATAS A, 1994, AM J SOCIOL, V100, P40, DOI 10.1086/230499
+   ROSENBAUM JE, 1989, AM J SOCIOL, V94, P1334, DOI 10.1086/229157
+   Royster Deirdre A., 2003, RACE INVISIBLE HAND
+   Small Mario Luis, 2009, Unanticipated gains
+   Son J., 2013, SOCIAL CAPITAL I CON
+   Völker B, 1999, ACTA SOCIOL, V42, P17, DOI 10.1177/000169939904200102
+   Völker B, 2001, RATION SOC, V13, P397, DOI 10.1177/104346301013004001
+   Walder AG, 1996, AM J SOCIOL, V101, P1060, DOI 10.1086/230789
+   Weeden KA, 2014, AM BEHAV SCI, V58, P473, DOI 10.1177/0002764213503336
+   Yakubovich V, 2000, INT SOCIOL, V15, P479, DOI 10.1177/026858000015003003
+   Yakubovich V, 2006, WORK OCCUPATION, V33, P307, DOI 10.1177/0730888405285295
+   Zhao W, 2013, RES SOCIOL WORK, V24, P103, DOI 10.1108/S0277-2833(2013)0000024008
+NR 70
+TC 11
+Z9 12
+U1 1
+U2 25
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7732
+EI 1534-7605
+J9 SOC FORCES
+JI Soc. Forces
+PD MAR
+PY 2015
+VL 93
+IS 3
+BP 905
+EP 932
+DI 10.1093/sf/sou100
+PG 28
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA CE0WA
+UT WOS:000351528800033
+DA 2024-11-22
+ER

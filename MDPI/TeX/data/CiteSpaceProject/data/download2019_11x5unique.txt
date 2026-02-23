@@ -1,0 +1,618 @@
+
+PT J
+AU Leszczensky, L
+   Pink, S
+AF Leszczensky, Lars
+   Pink, Sebastian
+TI What Drives Ethnic Homophily? A Relational Approach on How Ethnic
+   Identification Moderates Preferences for Same-Ethnic Friends
+SO AMERICAN SOCIOLOGICAL REVIEW
+LA English
+DT Article
+DE friendship; segregation; social networks; homophily
+ID HOST COUNTRY IDENTIFICATION; INTERGROUP ATTITUDES; RACIAL IDENTITY;
+   SOCIAL NETWORKS; PEER INFLUENCE; BY-PRODUCT; SEGREGATION; IMMIGRANTS;
+   ADOLESCENTS; SELECTION
+AB Individual preferences for same-ethnic friends contribute to persistent segregation of adolescents' friendship networks. Yet, we know surprisingly little about the mechanisms behind ethnic homophily. Prior research suggests that ethnic homophily is ubiquitous, but a social identity perspective indicates that strong ingroup identification drives ingroup favoritism. Combining a social identity perspective with a relational approach, we ask whether the presumed increased homophily of high identifiers extends to all ingroup members, or whether it is conditional on the strength of same-ethnics' identification. We propose that the strength of ethnic identification affects not only how much individuals desire same-ethnic friends, but also how attractive they are as potential friends to others. Fitting stochastic actor-oriented models to German adolescent school-based network panel data, we find that ethnic homophily is driven by an interplay of peers' ethnic identification: high identifiers befriend same-ethnic peers who share their strong ethnic identification, while excluding same-ethnic low identifiers. Low identifiers, in turn, tend to avoid befriending inter-ethnic high identifiers. Our relational approach reveals that ethnic homophily is hardly ubiquitous but requires strong identification of both parties of a (potential) friendship.
+C1 [Leszczensky, Lars; Pink, Sebastian] Univ Mannheim, MZES, D-68131 Mannheim, Germany.
+C3 University of Mannheim; Ruprecht Karls University Heidelberg
+RP Leszczensky, L (corresponding author), Univ Mannheim, MZES, D-68131 Mannheim, Germany.
+EM lars.leszczensky@mzes.uni-mannheim.de
+OI Pink, Sebastian/0000-0002-0494-5728; Leszczensky,
+   Lars/0000-0003-3393-5040
+FU German Research Foundation [DFG/KA 1602/6-1, DFG/KA 1602/6-2]; Ministry
+   of Science, Research and the Arts Baden-Wurttemberg; Universities of the
+   State of Baden-Wurttemberg
+FX This research was supported by grants from the German Research
+   Foundation (DFG/KA 1602/6-1 and 6-2). Part of this work was performed on
+   the computational resource bwUniCluster, which is funded by the Ministry
+   of Science, Research and the Arts Baden-Wurttemberg and the Universities
+   of the State of Baden-Wurttemberg.
+CR Alba RichardD., 1990, ETHNIC IDENTITY TRAN
+   An WH, 2015, SOC NETWORKS, V43, P48, DOI 10.1016/j.socnet.2015.03.006
+   [Anonymous], 2021, INTUITIVE DELIBERATI
+   Ashmore RD, 2004, PSYCHOL BULL, V130, P80, DOI 10.1037/0033-2909.130.1.80
+   Block P, 2014, NETW SCI, V2, P189, DOI 10.1017/nws.2014.17
+   Block P, 2015, SOC NETWORKS, V40, P163, DOI 10.1016/j.socnet.2014.10.005
+   Boda Z, 2015, SOC NETWORKS, V43, P57, DOI 10.1016/j.socnet.2015.03.004
+   Borenstein Michael, 2009, INTRO METAANALYSIS
+   Brambor T, 2006, POLIT ANAL, V14, P63, DOI 10.1093/pan/mpi014
+   Brechwald WA, 2011, J RES ADOLESCENCE, V21, P166, DOI 10.1111/j.1532-7795.2010.00721.x
+   BREWER MB, 1979, PSYCHOL BULL, V86, P307, DOI 10.1037/0033-2909.86.2.307
+   Brown R, 2000, EUR J SOC PSYCHOL, V30, P745, DOI 10.1002/1099-0992(200011/12)30:6<745::AID-EJSP24>3.0.CO;2-O
+   Byrne D., 1971, ATTRACTION PARADIGM
+   Chan A, 2007, MERRILL PALMER QUART, V53, P578, DOI 10.1353/mpq.2008.0000
+   Davies K, 2011, PERS SOC PSYCHOL REV, V15, P332, DOI 10.1177/1088868311411103
+   Deaux K, 2003, SOC PSYCHOL QUART, V66, P101, DOI 10.2307/1519842
+   DiMaggio P, 2012, ANNU REV SOCIOL, V38, P93, DOI 10.1146/annurev.soc.012809.102545
+   Ellemers N, 1999, EUR J SOC PSYCHOL, V29, P371, DOI 10.1002/(SICI)1099-0992(199903/05)29:2/3<371::AID-EJSP932>3.3.CO;2-L
+   ELLISON CG, 1994, SOC SCI QUART, V75, P385
+   GANZEBOOM HBG, 1992, SOC SCI RES, V21, P1, DOI 10.1016/0049-089X(92)90017-B
+   Goodreau SM, 2009, DEMOGRAPHY, V46, P103, DOI 10.1353/dem.0.0045
+   Hedström P, 2015, SOCIOL METHOD RES, V44, P179, DOI 10.1177/0049124115581211
+   Hofstra B, 2017, AM SOCIOL REV, V82, P625, DOI 10.1177/0003122417705656
+   Huisman M, 2003, SOCIOL METHOD RES, V32, P253, DOI 10.1177/0049124103256096
+   Huisman M, 2008, SOC NETWORKS, V30, P297, DOI 10.1016/j.socnet.2008.04.004
+   Jackson JW, 2002, SELF IDENTITY, V1, P11, DOI 10.1080/152988602317232777
+   Jugert P, 2020, CHILD DEV, V91, P949, DOI 10.1111/cdev.13240
+   Kalmijn M, 1998, ANNU REV SOCIOL, V24, P395, DOI 10.1146/annurev.soc.24.1.395
+   KANDEL DB, 1978, AM J SOCIOL, V84, P427, DOI 10.1086/226792
+   Keuschnigg M, 2018, J COMPUT SOC SCI, V1, P3, DOI 10.1007/s42001-017-0006-5
+   Kiang L, 2010, J YOUTH ADOLESCENCE, V39, P683, DOI 10.1007/s10964-009-9429-5
+   Lazarsfeld P.F., 1954, Freedom and Control in Modern Society, P18, DOI DOI 10.1111/J.1467-8705.2012.02056_3.X
+   Leszczensky L, 2018, SOC SCI RES, V70, P163, DOI 10.1016/j.ssresearch.2017.10.012
+   Leszczensky L, 2018, GROUP PROCESS INTERG, V21, P997, DOI 10.1177/1368430217691363
+   Leszczensky L, 2015, METHODS DATA ANAL, V9, P87, DOI 10.12758/mda.2015.003
+   Leszczensky L, 2016, SOC NETWORKS, V44, P179, DOI 10.1016/j.socnet.2015.08.001
+   Leszczensky L, 2015, SOC NETWORKS, V42, P18, DOI 10.1016/j.socnet.2015.02.002
+   Lewis K., 2015, Emerg. Trends Soc. Behav. Sci., P1, DOI DOI 10.1002/9781118900772.ETRDS0164
+   McFarland D, 2005, SOC PSYCHOL QUART, V68, P289, DOI 10.1177/019027250506800401
+   McFarland DA, 2014, AM SOCIOL REV, V79, P1088, DOI 10.1177/0003122414554001
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Moody J, 2001, AM J SOCIOL, V107, P679, DOI 10.1086/338954
+   Mouw T, 2006, AM J SOCIOL, V112, P394, DOI 10.1086/506415
+   Munniksma A, 2017, J RES ADOLESCENCE, V27, P20, DOI 10.1111/jora.12248
+   Pettigrew TF, 2006, J PERS SOC PSYCHOL, V90, P751, DOI 10.1037/0022-3514.90.5.751
+   Phinney JS, 2007, J COUNS PSYCHOL, V54, P271, DOI 10.1037/0022-0167.54.3.271
+   PHINNEY JS, 1990, PSYCHOL BULL, V108, P499, DOI 10.1037/0033-2909.108.3.499
+   Phinney JS, 1997, CHILD DEV, V68, P955, DOI 10.1111/j.1467-8624.1997.tb01973.x
+   PORTES A, 1984, AM SOCIOL REV, V49, P383, DOI 10.2307/2095282
+   Quillian L, 2003, AM SOCIOL REV, V68, P540, DOI 10.2307/1519738
+   Reeskens T, 2014, ETHNIC RACIAL STUD, V37, P2493, DOI 10.1080/01419870.2013.851397
+   Ripley R.M., 2019, MANUAL RSIENA
+   Rivas-Drake D, 2017, CHILD DEV, V88, P710, DOI 10.1111/cdev.12790
+   Rivera MT, 2010, ANNU REV SOCIOL, V36, P91, DOI 10.1146/annurev.soc.34.040507.134743
+   Santos CE, 2017, CHILD DEV, V88, P725, DOI 10.1111/cdev.12789
+   Schaefer DR, 2011, AM SOCIOL REV, V76, P764, DOI 10.1177/0003122411420813
+   Smith S, 2018, J ETHN MIGR STUD, V44, P1858, DOI 10.1080/1369183X.2017.1374168
+   Smith S, 2016, AM J SOCIOL, V121, P1223, DOI 10.1086/684032
+   Smith S, 2014, SOC NETWORKS, V39, P33, DOI 10.1016/j.socnet.2014.04.003
+   Snijders TAB, 2015, SOCIOL METHOD RES, V44, P222, DOI 10.1177/0049124113494573
+   Snijders TAB, 2010, SOC NETWORKS, V32, P44, DOI 10.1016/j.socnet.2009.02.004
+   Snijders Tom A. B., 2018, HOMOPHILY INCORPORAT
+   Staerklé C, 2010, POLIT PSYCHOL, V31, P491, DOI 10.1111/j.1467-9221.2010.00766.x
+   Stark TH, 2012, SOCIOL EDUC, V85, P179, DOI 10.1177/0038040711427314
+   Steglich C, 2010, SOCIOL METHODOL, V40, P329, DOI 10.1111/j.1467-9531.2010.01225.x
+   Syed M, 2012, J ADOLESCENCE, V35, P1505, DOI 10.1016/j.adolescence.2011.10.012
+   TAJFEL H, 1971, EUR J SOC PSYCHOL, V1, P149, DOI 10.1002/ejsp.2420010202
+   Tajfel H., 1978, DIFFERENTATION GROUP, P61
+   Tajfel H., 1986, DIFFERENTIATION SOCI, P61
+   Terry DJ, 1996, PERS SOC PSYCHOL B, V22, P776, DOI 10.1177/0146167296228002
+   Umaña-Taylor AJ, 2014, CHILD DEV, V85, P21, DOI 10.1111/cdev.12196
+   Verkuyten M, 2000, SOC PSYCHOL QUART, V63, P75, DOI 10.2307/2695882
+   Verkuyten M, 2012, SOC ISS POLICY REV, V6, P82, DOI 10.1111/j.1751-2409.2011.01036.x
+   Wimmer A, 2010, AM J SOCIOL, V116, P583, DOI 10.1086/653658
+NR 74
+TC 66
+Z9 74
+U1 6
+U2 42
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0003-1224
+EI 1939-8271
+J9 AM SOCIOL REV
+JI Am. Sociol. Rev.
+PD JUN
+PY 2019
+VL 84
+IS 3
+BP 394
+EP 419
+DI 10.1177/0003122419846849
+PG 26
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA IA8UY
+UT WOS:000469835200002
+DA 2024-11-22
+ER
+
+PT J
+AU Kotani, H
+   Yokomatsu, M
+AF Kotani, Hitomu
+   Yokomatsu, Muneta
+TI Quantitative evaluation of the roles of community events and artifacts
+   for social network formation: a multilayer network model of a community
+   of practice
+SO COMPUTATIONAL AND MATHEMATICAL ORGANIZATION THEORY
+LA English
+DT Article
+DE Communities of practice; Multilayer network formation; Artifacts;
+   Network dynamics; Empirical analysis
+ID STRATEGIC MODEL; PERSPECTIVE
+AB Participation in community events such as local festivals can provide people with opportunities to collaborate with community members whom they would have never met otherwise. Furthermore, such collaboration through community events is likely to expand interaction even in daily life. In addition, if the physical properties of a public space in which community events are held change, the number and variety of the participants may also change, which could result in additional collaborations in the events. Therefore, the expansion of interaction in daily life is likely to be greater. Through the application of a social network model based on game theory, this study formulates a multilayer network model that expresses interaction in community events and in daily life by using different network layers. The study analyzes the extent to which new interactions in a layer of daily life are expanded through interactions in a layer of community events that are created through participation in the event. In terms of the expansion of networks in daily life, this study quantitatively evaluates the roles of community events and the physical properties of public spaces in which events are held.
+C1 [Kotani, Hitomu] Univ Tokyo, Grad Sch Frontier Sci, Dept Int Studies, Chiba, Japan.
+   [Yokomatsu, Muneta] Kyoto Univ, Disaster Prevent Res Inst, Kyoto, Japan.
+C3 University of Tokyo; Kyoto University
+RP Kotani, H (corresponding author), Univ Tokyo, Grad Sch Frontier Sci, Dept Int Studies, Chiba, Japan.
+EM hitomu.kotani@edu.k.u-tokyo.ac.jp; yoko@drs.dpri.kyoto-u.ac.jp
+RI Kotani, Hitomu/X-6213-2019
+OI Kotani, Hitomu/0000-0002-5033-0855
+FU JSPS KAKENHI [15J08041, 16K06537]; Grants-in-Aid for Scientific Research
+   [15J08041, 16K06537] Funding Source: KAKEN
+FX We are deeply grateful to the Shin Nagata Town Management Company Ltd.
+   and Taisho-suji Shopping District Promotion Association for their kind
+   support and advice regarding the questionnaire surveys. We would also
+   like to express our special thanks to the residents in Nagata Ward,
+   Kobe, who answered the survey questions. This work was partly supported
+   by JSPS KAKENHI Grant Numbers 15J08041 and 16K06537.
+CR [Anonymous], 2014, THESIS
+   [Anonymous], 2015, REPORTS CITY PLANNIN
+   [Anonymous], 2012, Connections: An Introduction to the Economics of Networks
+   [Anonymous], THESIS
+   [Anonymous], 2010, SOCIAL EC NETWORKS
+   Arentze TA, 2013, SOC NETWORKS, V35, P451, DOI 10.1016/j.socnet.2013.05.002
+   Bala V, 2000, ECONOMETRICA, V68, P1181, DOI 10.1111/1468-0262.00155
+   Billand P, 2012, THEOR DECIS, V73, P525, DOI 10.1007/s11238-011-9279-y
+   Boccaletti S, 2014, PHYS REP, V544, P1, DOI 10.1016/j.physrep.2014.07.001
+   Borgs C, 2010, ARXIV10081516
+   Brown ME, 2016, SOC NETWORKS, V44, P226, DOI 10.1016/j.socnet.2015.10.002
+   Carayol N, 2009, J ECON BEHAV ORGAN, V71, P414, DOI 10.1016/j.jebo.2009.02.005
+   Cross R, 2006, CALIF MANAGE REV, V49, P32, DOI 10.2307/41166370
+   De Domenico M, 2013, PHYS REV X, V3, DOI 10.1103/PhysRevX.3.041022
+   Desmarais BA, 2012, POLICY STUD J, V40, P402, DOI 10.1111/j.1541-0072.2012.00459.x
+   Dickison ME, 2016, MULTILAYER SOCIAL NETWORKS, P1, DOI 10.1017/CBO9781139941907
+   Iijima R, 2017, THEOR ECON, V12, P655, DOI 10.3982/TE1873
+   Jackson MO, 2005, J EUR ECON ASSOC, V3, P617, DOI 10.1162/1542476054473440
+   Jackson MO, 1996, J ECON THEORY, V71, P44, DOI 10.1006/jeth.1996.0108
+   Jackson MO, 2002, J ECON THEORY, V106, P265, DOI 10.1006/jeth.2001.2903
+   Jackson MO, 2002, GAME ECON BEHAV, V41, P265, DOI 10.1016/S0899-8256(02)00504-3
+   Kellogg S, 2014, INT REV RES OPEN DIS, V15, P263
+   Kenett DY, 2015, CHAOS SOLITON FRACT, V80, P1, DOI 10.1016/j.chaos.2015.03.016
+   Kivela M, 2014, J COMPLEX NETW, V2, P203, DOI 10.1093/comnet/cnu016
+   Kotani H, 2015, IEEE SYS MAN CYBERN, P832, DOI 10.1109/SMC.2015.154
+   Lave J., 1991, Situated Learning: Legitimate Peripheral Participation, P1
+   Lusher Dean, 2012, Exponential random graph models for social networks: Theory, methods, and applications
+   McFarland DA, 2014, AM SOCIOL REV, V79, P1088, DOI 10.1177/0003122414554001
+   Mitchell R. C., 1989, USING SURVEYS VALUE
+   Montgomery C, 2009, J STUD INT EDUC, V13, P455, DOI 10.1177/1028315308321994
+   Norman CD, 2006, IMPLEMENT SCI, V1, DOI 10.1186/1748-5908-1-20
+   Page FH, 2007, J ECON BEHAV ORGAN, V64, P406, DOI 10.1016/j.jebo.2007.01.003
+   Page FH, 2010, GAME ECON BEHAV, V70, P12, DOI 10.1016/j.geb.2009.07.006
+   Pahor M, 2008, J AM SOC INF SCI TEC, V59, P1985, DOI 10.1002/asi.20912
+   Robins G, 2007, SOC NETWORKS, V29, P173, DOI 10.1016/j.socnet.2006.08.002
+   Sailer K, 2012, SOC NETWORKS, V34, P47, DOI 10.1016/j.socnet.2011.05.005
+   Schaefer DR, 2012, SOC NETWORKS, V34, P141, DOI 10.1016/j.socnet.2011.02.001
+   Shahrivar EM, 2015, IEEE T NETW SCI ENG, V2, P164, DOI 10.1109/TNSE.2015.2500162
+   Smith JA, 2015, J MATH SOCIOL, V39, P125, DOI 10.1080/0022250X.2014.994621
+   Smith JA, 2012, SOCIOL METHODOL, V42, P155, DOI 10.1177/0081175012455628
+   Snijders TAB, 2010, SOC NETWORKS, V32, P44, DOI 10.1016/j.socnet.2009.02.004
+   Statistic Bureau Ministry of Internal Affairs and Communications, 2010, 2010 CENC
+   Wasserman S., 1994, SOCIAL NETWORK ANAL
+NR 43
+TC 6
+Z9 6
+U1 2
+U2 24
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1381-298X
+EI 1572-9346
+J9 COMPUT MATH ORGAN TH
+JI Comput. Math. Organ. Theory
+PD DEC
+PY 2019
+VL 25
+IS 4
+BP 428
+EP 463
+DI 10.1007/s10588-018-9277-5
+PG 36
+WC Computer Science, Interdisciplinary Applications; Mathematics,
+   Interdisciplinary Applications; Social Sciences, Mathematical Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science; Mathematics; Mathematical Methods In Social Sciences
+GA JI6VR
+UT WOS:000493605300003
+DA 2024-11-22
+ER
+
+PT J
+AU Kwan, TH
+   Wong, NS
+   Lee, SS
+AF Kwan, Tsz Ho
+   Wong, Ngai Sze
+   Lee, Shui Shan
+TI Participation pattern of methadone users and its association with social
+   connection and HIV status: Analyses of electronic health records data
+SO PLOS ONE
+LA English
+DT Article
+ID DRUG-USERS; POSITIVE PEOPLE; INJECT DRUGS; PREVALENCE; STIGMA; RISK
+AB Background
+   HIV spread in injecting drug users (IDU) occurs efficiently between individuals within their social networks. While methadone maintenance treatment has long known to be effective in combating HIV transmission in IDU, the impacts of one's social connections and HIV status have not been well characterised. A study was conducted with the objective of differentiating the pattern of treatment participation between HIV-positive and negative methadone users and to understand its association with social connections with peers.
+   Methods
+   Attendance data in one calendar year were extracted from a territory-wide electronic clinical record database of over 8000 methadone users attending 19 clinics in Hong Kong, a city with a relatively low HIV prevalence in injecting drug users. A case-control design was used by matching HIV positive methadone users with HIV negative controls. A temporal-social co-occurrence approach was adopted to construct a social network. Multiple logistic regression and network-based analyses were conducted.
+   Results
+   In 2016, a total of 8332 methadone users had attended a clinic at least once, giving 1694016 attendance records that were included in the study. Some 432 methadone, 54 of whom HIV positive, were included in the case-control analyses. Multivariable logistic regression model showed that HIV-positive status was associated with drug injection history (adjusted odds ratio [aOR] 2.28, 95% confidence interval [95% CI] 1.19-4.38), not working fulltime (aOR 3.34, 95% CI 1.15-9.72), ethnic minority (aOR 2.59, 95% CI 1.33-5.02) and minimum daily dose of at least 20mg (aOR 3.64, 95% CI 1.08-12.26). Those having connections with other peers were older (aOR 1.02, 95% CI 1.00-1.04), had a higher mode dose (aOR 1.03, 95% CI 1.02-1.04) and had been admitted to methadone programme for longer time (aOR 1.07, 95% CI 1.02-1.13). Among those with connections, HIV-negative users did not have more connections (median degree centrality 21.00 vs 34.50, p = 0.26) but the network structure was stronger (clustering coefficient 0.65 vs 0.53, p = 0.03).
+   Conclusion
+   The weak and sparse linkages may explain the generally low HIV prevalence and incidence in opioid-dependent persons in Hong Kong. Social support could play a constructive role in harm reduction and ethnic minority community-based organisations could help and reinforce treatment adherence.
+C1 [Kwan, Tsz Ho] Chinese Univ Hong Kong, Jockey Club Sch Publ Hlth & Primary Care, Shatin, Hong Kong, Peoples R China.
+   [Wong, Ngai Sze; Lee, Shui Shan] Chinese Univ Hong Kong, Stanley Ho Ctr Emerging Infect Dis, Shatin, Hong Kong, Peoples R China.
+C3 Chinese University of Hong Kong; Chinese University of Hong Kong
+RP Lee, SS (corresponding author), Chinese Univ Hong Kong, Stanley Ho Ctr Emerging Infect Dis, Shatin, Hong Kong, Peoples R China.
+EM sslee@cuhk.edu.hk
+RI Lee, Shui Shan/B-9374-2008; Kwan, Tsz Ho/GLS-0384-2022; Wong, Ngai
+   Sze/A-3145-2012
+OI Lee, Shui Shan/0000-0003-1448-765X; Wong, Ngai Sze/0000-0003-3788-8114;
+   Kwan, Tsz Ho/0000-0002-2855-5038
+FU AIDS Trust Fund, The Government of the Hong Kong Special Administrative
+   Region [MSS 262 R]
+FX This work was supported by AIDS Trust Fund (Ref. No.: MSS 262 R), The
+   Government of the Hong Kong Special Administrative Region
+   (www.atf.gov.hk/).The funder had no role in study design, data
+   collection and analysis, decision to publish, or preparation of the
+   manuscript.
+CR [Anonymous], 2015, REV EP ETHN MIN EM H
+   [Anonymous], 2017, HIV AIDS SITUATION H
+   [Anonymous], 2018, WOMEN MEN HONG KONG
+   Tran BX, 2018, PLOS ONE, V13, DOI 10.1371/journal.pone.0190941
+   Birtel MD, 2017, PSYCHIAT RES, V252, P1, DOI 10.1016/j.psychres.2017.01.097
+   Darker CD, 2016, IRISH J MED SCI, V185, P433, DOI 10.1007/s11845-015-1314-5
+   Degenhardt L, 2017, LANCET GLOB HEALTH, V5, pE1192, DOI 10.1016/S2214-109X(17)30375-3
+   El-Bassel N, 2006, J URBAN HEALTH, V83, P602, DOI 10.1007/s11524-006-9075-0
+   Gross M, 2016, INT J PUBLIC HEALTH, V61, P593, DOI 10.1007/s00038-015-0750-3
+   Hennessy S, 1999, AM J EPIDEMIOL, V149, P195
+   Kwan TH, 2015, HARM REDUCT J, V12, DOI 10.1186/s12954-015-0072-z
+   Lan CW, 2018, DRUG ALCOHOL REV, V37, P333, DOI 10.1111/dar.12589
+   Lappalainen L, 2015, ADDICTION, V110, P1330, DOI 10.1111/add.12970
+   Lauw H. W., 2005, Computational & Mathematical Organization Theory, V11, P97, DOI 10.1007/s10588-005-3939-9
+   Lauw HW, 2010, ACM T INFORM SYST, V28, DOI 10.1145/1777432.1777438
+   Lee SS, 2017, HARM REDUCT J, V14, DOI 10.1186/s12954-017-0193-7
+   Lee SS, C P INT C TACKL DRUG
+   Li RH, 2013, FRONT COMPUT SCI-CHI, V7, P185, DOI 10.1007/s11704-013-3902-8
+   Lin CK, 2015, PLOS ONE, V10, DOI [10.1371/journal.pone.0123687, 10.1371/journal.pone.0116191]
+   Nguyen LH, 2017, SUBST ABUSE TREAT PR, V12, DOI 10.1186/s13011-017-0115-4
+   Mak WL, 2007, HLTH RES S 2007 SEPT
+   Newman RG, 2017, GLOBALLY INFORM LOCA
+   Shen L, 2018, PLOS ONE, V13, DOI 10.1371/journal.pone.0200105
+   Spohr SA, 2019, ADDICT BEHAV, V89, P143, DOI 10.1016/j.addbeh.2018.09.036
+   Unger JB, 2006, ADDICT BEHAV, V31, P1607, DOI 10.1016/j.addbeh.2005.12.007
+   WHO, 2013, UNODC UNAIDS TECHN G
+   Wong NS, 2013, INT J INFECT DIS, V17, pE193, DOI 10.1016/j.ijid.2012.10.004
+   World Health Organization (WHO), Model list of essential medicines
+   Yen YF, 2014, BMC PUBLIC HEALTH, V14, DOI 10.1186/1471-2458-14-682
+   Zhao Y, 2013, B WORLD HEALTH ORGAN, V91, P93, DOI 10.2471/BLT.12.108944
+NR 30
+TC 4
+Z9 5
+U1 0
+U2 2
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD MAY 9
+PY 2019
+VL 14
+IS 5
+AR e0216727
+DI 10.1371/journal.pone.0216727
+PG 12
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA HX6ZE
+UT WOS:000467552100093
+PM 31071182
+OA Green Published, gold, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Henning, C
+   Assmann, C
+   Hedtrich, J
+   Ehrenfels, J
+   Krampe, E
+AF Henning, Christian
+   Assmann, Christian
+   Hedtrich, Johannes
+   Ehrenfels, Julian
+   Krampe, Eva
+TI What drives participatory policy processes: Grassroot activities,
+   scientific knowledge or donor money? - A comparative policy network
+   approach
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Policy networks; Exponential random graph model; Participatory policy
+   processes; Agricultural policy
+ID EXPONENTIAL FAMILY MODELS; P-ASTERISK MODELS; STAKEHOLDER PARTICIPATION;
+   SOCIAL NETWORKS; POWER; ORGANIZATION; INFORMATION; EXCHANGE; BELIEFS;
+   INSTITUTIONS
+AB A policy network approach has been developed to assess participatory policy processes in Ghana, Senegal, and Uganda. Theoretically, political influence measures correspond to two different influence mechanisms: vote buying and informational lobbying. For each mechanism, separate measures were defined and empirically derived from corresponding policy networks. Exponential random graph models were used to assess the network generating process, which allows for analysis of the robustness of the derived influence measures and the determinants of network structure. The results imply that participatory policy processes are dominated by donor and research organizations, while farm interests and civil society organizations have only a negligible influence. The design of stakeholder systems appears to be difficult since the observed network structures are mainly determined by relational factors that result from organizations' social networking activities or other organizational attributes, such as reputation power, which cannot be easily controlled. Institutional factors such as membership in committees have only a minor impact.
+C1 [Henning, Christian; Hedtrich, Johannes] Univ Kiel, Inst Agr Econ, Kiel, Germany.
+   [Assmann, Christian] Univ Bamberg, Chair Stat & Econometr, Bamberg, Germany.
+   [Assmann, Christian] Leibniz Inst Educ Trajectories, Bamberg, Germany.
+   [Ehrenfels, Julian] Techniker Krankenkasse, Hamburg, Germany.
+   [Krampe, Eva] European Investment Bank, Luxembourg, Luxembourg.
+C3 University of Kiel; Otto Friedrich University Bamberg; Leibniz Institut
+   fur Bildungsverlaufe (Lifbi)
+RP Henning, C (corresponding author), Univ Kiel, Inst Agr Econ, Kiel, Germany.
+EM chenning@ae.uni-kiel.de
+RI Henning, Christian/KFS-6511-2024
+OI Ziesmer, Johannes/0000-0001-5950-4199; Assmann,
+   Christian/0000-0002-4827-3150
+FU Federal Ministry of Economic Cooperation (GIZ Project)
+   [11.7860.7-001.00]; Deutsche Forschungsgemeinschaft (DFG) [SPP 1646, AS
+   368/3-1, 368/3-2]
+FX We thank the two anonymous reviewers and the editor Martin Everett for
+   their helpful comments and guidance throughout the review process which
+   significantly improved our paper. Christian Henning acknowledges funding
+   of the PEBAP project by the Federal Ministry of Economic Cooperation
+   (GIZ Project processing No.: 11.7860.7-001.00). Christian Assmann
+   acknowledges financial support by the Deutsche Forschungsgemeinschaft
+   (DFG) within priority programme SPP 1646 under grants AS 368/3-1 and
+   368/3-2.
+CR Acemoglu D, 2011, DYN GAMES APPL, V1, P3, DOI 10.1007/s13235-010-0004-1
+   Adam Silke., 2007, Theories of the Policy Process, V2nd, P129
+   Ahn TK, 2013, AM J POLIT SCI, V57, P357, DOI 10.1111/j.1540-5907.2012.00625.x
+   Anderson K., 1986, The political economy of agricultural protection: East Asia in international perspective, P17
+   [Anonymous], 2002, J. Social Struct
+   Ansell C, 2008, J PUBL ADM RES THEOR, V18, P543, DOI 10.1093/jopart/mum032
+   AUSTENSMITH D, 1993, AM J POLIT SCI, V37, P799, DOI 10.2307/2111575
+   Ball Richard, 1995, ECON POLIT-OXFORD, V7, P119
+   BANZHAF JF, 1966, YALE LAW J, V75, P1309, DOI 10.2307/795047
+   BARON DP, 1989, AM POLIT SCI REV, V83, P1181, DOI 10.2307/1961664
+   Baumgartner FR, 1996, AM J POLIT SCI, V40, P521, DOI 10.2307/2111636
+   Beierle TC, 2002, RISK ANAL, V22, P739, DOI 10.1111/0272-4332.00065
+   BENDOV Y, 1982, BEHAV SCI, V27, P69, DOI 10.1002/bs.3830270107
+   Berardo R, 2010, AM J POLIT SCI, V54, P632, DOI 10.1111/j.1540-5907.2010.00451.x
+   Blackstock KL, 2007, ECOL ECON, V60, P726, DOI 10.1016/j.ecolecon.2006.05.014
+   Bratton M, 2007, J DEMOCR, V18, P96, DOI 10.1353/jod.2007.0041
+   Brody SD, 2003, J PLAN EDUC RES, V22, P407, DOI 10.1177/0739456X03022004007
+   Burton RJF, 2004, J RURAL STUD, V20, P359, DOI 10.1016/j.jrurstud.2003.12.001
+   Buskens V, 2003, GAME ECON BEHAV, V42, P235, DOI 10.1016/S0899-8256(02)00563-8
+   Caimo A, 2014, J STAT SOFTW, V61, P1
+   Carpenter DP, 2004, J POLIT, V66, P224, DOI 10.1046/j.1468-2508.2004.00149.x
+   CARTWRIGHT D, 1956, PSYCHOL REV, V63, P277, DOI 10.1037/h0046049
+   Coleman J.S., 1994, FDN SOCIAL THEORY
+   COLEMAN JS, 1966, AM ECON REV, V56, P1105
+   COLLETTA NJ, 1976, CONVERGENCE, V9, P32
+   COOK KS, 1978, AM SOCIOL REV, V43, P721, DOI 10.2307/2094546
+   Cosgrove W.J., 2000, World Water Vision: Making Water Everybody's Business
+   Cranmer SJ, 2011, POLIT ANAL, V19, P66, DOI 10.1093/pan/mpq037
+   Currarini S, 2009, ECONOMETRICA, V77, P1003, DOI 10.3982/ECTA7528
+   DEGROOT MH, 1974, J AM STAT ASSOC, V69, P118, DOI 10.2307/2285509
+   Dixit A, 2003, J POLIT ECON, V111, P1293, DOI 10.1086/378528
+   DOWDING K, 1995, POLIT STUD-LONDON, V43, P136, DOI 10.1111/j.1467-9248.1995.tb01705.x
+   Dreher A, 2013, INT INTERACT, V39, P402, DOI 10.1080/03050629.2013.784076
+   Duane TimothyP., 1999, Shaping the Sierra: Nature, Culture, and Conflict in the Changing West
+   Eberlei W., 2007, 862007 INEF
+   Festinger L, 1954, HUM RELAT, V7, P117, DOI 10.1177/001872675400700202
+   Fowler JH, 2011, AM POLIT RES, V39, P437, DOI 10.1177/1532673X10396310
+   Friedkin NE, 1997, SOC NETWORKS, V19, P209, DOI 10.1016/S0378-8733(96)00298-5
+   FRIEDKIN NE, 1990, J MATH SOCIOL, V15, P193, DOI 10.1080/0022250X.1990.9990069
+   Gibbon P., 1992, AUTHORITARIANISM DEM, V26
+   Golub B, 2010, AM ECON J-MICROECON, V2, P112, DOI 10.1257/mic.2.1.112
+   Goodreau SM, 2007, SOC NETWORKS, V29, P231, DOI 10.1016/j.socnet.2006.08.001
+   Goodreau SM, 2009, DEMOGRAPHY, V46, P103, DOI 10.1353/dem.0.0045
+   GOW DD, 1983, WORLD DEV, V11, P427, DOI 10.1016/0305-750X(83)90077-3
+   GREENWOOD DJ, 1993, HUM RELAT, V46, P175, DOI 10.1177/001872679304600203
+   GREIF A, 1994, J POLIT ECON, V102, P912, DOI 10.1086/261959
+   Grossman GM, 1996, REV ECON STUD, V63, P265, DOI 10.2307/2297852
+   GROSSMAN GM, 1994, AM ECON REV, V84, P833
+   Habermass J., 1987, Theory of Communicative Action
+   Hage M, 2010, FUTURES, V42, P254, DOI 10.1016/j.futures.2009.11.011
+   Handley JF., 1998, Land Reclamation: Achieving Sustainable Benefits
+   Heaney MT, 2014, SOC NETWORKS, V36, P66, DOI 10.1016/j.socnet.2012.11.003
+   Heckman J. J., 2013, ECON REV, V33, P36
+   Henning C., 2018, Development Policies and Policy Processes in Africa Modelling and Evaluation Advances in African Economic, Social and Political Development
+   Henning C. H. C. A., 2008, Agrarwirtschaft, V57, P149
+   Henning CHCA, 2012, AM J AGR ECON, V94, P377, DOI 10.1093/ajae/aar099
+   Henning CHCA, 2009, J PUBLIC POLICY, V29, P153, DOI 10.1017/S0143814X09001056
+   Henry AD, 2011, J PUBL ADM RES THEOR, V21, P419, DOI 10.1093/jopart/muq042
+   HOLLAND PW, 1971, COMP GROUP STUD, V2, P107, DOI 10.1177/104649647100200201
+   HUBBELL CH, 1965, SOCIOMETRY, V28, P377, DOI 10.2307/2785990
+   Hunter DR, 2008, J AM STAT ASSOC, V103, P248, DOI 10.1198/016214507000000446
+   Hunter DR, 2007, SOC NETWORKS, V29, P216, DOI 10.1016/j.socnet.2006.08.005
+   Hunter DR, 2006, J COMPUT GRAPH STAT, V15, P565, DOI 10.1198/106186006X133069
+   Hunter DR., 2008, Journal of Statistical Software, V24, P1, DOI DOI 10.18637/JSS.V024.I03
+   Jackson MO, 2008, SOCIAL AND ECONOMIC NETWORKS, P1
+   Jacobi L, 2016, J ECONOMETRICS, V193, P234, DOI 10.1016/j.jeconom.2016.01.005
+   Kelly KJ, 1996, SOC SCI MED, V42, P1235, DOI 10.1016/0277-9536(95)00218-9
+   Knoke David, 1996, Comparing Policy Networks Labor Politics in the US, Germany, and Japan
+   KOFORD KJ, 1982, PUBLIC CHOICE, V39, P245, DOI 10.1007/BF00162117
+   Konig T, 1998, J THEOR POLIT, V10, P445, DOI 10.1177/0951692898010004004
+   Krueger A., 1992, POLITICAL EC AGR PRI, V5, P1
+   Laumann Edward.O., 1987, ORG STATE SOCIAL CHO
+   Lee Y, 2012, POLICY STUD J, V40, P547, DOI 10.1111/j.1541-0072.2012.00464.x
+   Leifeld P, 2012, AM J POLIT SCI, V56, P731, DOI 10.1111/j.1540-5907.2011.00580.x
+   Lineberry W., 1989, Assessing participatory development
+   Lubell M, 2010, AM J POLIT SCI, V54, P287, DOI 10.1111/j.1540-5907.2010.00431.x
+   Lusher D., 2013, STRUCTURAL ANAL SOCI, V32
+   Macnaghten P, 1997, GLOBAL ENVIRON CHANG, V7, P5, DOI 10.1016/S0959-3780(96)00023-4
+   Marshall MontyG. Keith Jaggers., 2011, POLITY 4 PROJECT POL
+   Martin A, 1997, AGR SYST, V55, P195, DOI 10.1016/S0308-521X(97)00007-3
+   Mockshell J, 2015, FOOD POLICY, V55, P1, DOI 10.1016/j.foodpol.2015.05.004
+   Mogues T., 2012, Public expenditures for agricultural and rural development in Africa
+   Moody J, 2001, AM J SOCIOL, V107, P679, DOI 10.1086/338954
+   Napel S., 2006, SOCIAL CHOICE WEIF, V26, P1
+   NEWCOMB T, 1958, AM SOCIOL REV, V23, P742, DOI 10.2307/2089062
+   Ohanyan A, 2009, INT STUD REV, V11, P475, DOI 10.1111/j.1468-2486.2009.00870.x
+   Okali C., 1994, FARMER PARTICIPATORY
+   Ostrom E, 2010, TRANSNATL CORP REV, V2, P1, DOI 10.1080/19186444.2010.11658229
+   Pappi F. U., 1995, ENTSCHEIDUNGSPROZESS
+   Pappi FU, 1998, J THEOR POLIT, V10, P553, DOI 10.1177/0951692898010004008
+   Pappi FU, 1999, EUR J POLIT RES, V36, P257, DOI 10.1111/1475-6765.00470
+   Prell C, 2009, SOC NATUR RESOUR, V22, P501, DOI 10.1080/08941920802199202
+   PRETTY JN, 1995, WORLD DEV, V23, P1247, DOI 10.1016/0305-750X(95)00046-F
+   Rahnema M., 1992, DEV DICT, P116
+   Randall I., 2011, GUIDELINES NONSTATE
+   RAPOPORT ANATOL, 1957, BULL MATH BIOPHYS, V19, P257, DOI 10.1007/BF02478417
+   RAUB W, 1990, AM J SOCIOL, V96, P626, DOI 10.1086/229574
+   Reed MS, 2008, BIOL CONSERV, V141, P2417, DOI 10.1016/j.biocon.2008.07.014
+   Richards C., 2004, 1 MAC I
+   Robins G, 2007, SOC NETWORKS, V29, P173, DOI 10.1016/j.socnet.2006.08.002
+   Robins G, 2012, POLICY STUD J, V40, P375, DOI 10.1111/j.1541-0072.2012.00458.x
+   SABATIER PA, 1987, KNOWLEDGE, V8, P649, DOI 10.1177/0164025987008004005
+   Schnakenberg KE, 2017, AM J POLIT SCI, V61, P129, DOI 10.1111/ajps.12249
+   Schofield N, 2007, REV ECON STUD, V74, P965, DOI 10.1111/j.1467-937X.2007.00444.x
+   SHEPSLE KA, 1987, AM POLIT SCI REV, V81, P85, DOI 10.2307/1960780
+   Siebold T., 2007, STAKE HOLDER PARTICI, V86, P13
+   Snijders T, 2007, EUR ASSOC METHODOL S, P41
+   Snijders TAB, 2006, SOCIOL METHODOL, V36, P99, DOI 10.1111/j.1467-9531.2006.00176.x
+   Snijders TAB, 2010, SOC NETWORKS, V32, P44, DOI 10.1016/j.socnet.2009.02.004
+   Stokman FN, 1996, J MATH SOCIOL, V21, P77, DOI 10.1080/0022250X.1996.9990175
+   Stokman FN, 1998, J THEOR POLIT, V10, P577, DOI 10.1177/0951692898010004009
+   True J. L., 2007, THEORIES POLICY PROC, P155, DOI DOI 10.4324/9780367274689-6
+   Tsebelis G, 1996, INT REV LAW ECON, V16, P345, DOI 10.1016/0144-8188(96)00021-X
+   van de Walle N, 2003, J MOD AFR STUD, V41, P297, DOI 10.1017/S0022278X03004269
+   Wallerstein N, 1999, SOC SCI MED, V49, P39, DOI 10.1016/S0277-9536(99)00073-8
+   Wasserman S, 1996, PSYCHOMETRIKA, V61, P401, DOI 10.1007/BF02294547
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   Webler T., 1999, J RISK RES, V2, P55, DOI DOI 10.1080/136698799376989
+   Weible CM, 2010, ENVIRON SCI POLICY, V13, P522, DOI 10.1016/j.envsci.2010.05.005
+   Weible CM, 2005, POLIT RES QUART, V58, P461, DOI 10.1177/106591290505800308
+   WEINGAST BR, 1988, J POLIT ECON, V96, P132, DOI 10.1086/261528
+   WEINGAST BR, 1979, AM J POLIT SCI, V23, P245, DOI 10.2307/2111001
+   White S. C., 1996, Development In Practice: an Oxfam Journal, V6, P6, DOI 10.1080/0961452961000157564
+   WILSON R, 1969, AM ECON REV, V59, P331
+   Young FrankW., 1980, RURAL DEV PARTICIPAT, V1, P10
+   Zafonte M, 1998, J THEOR POLIT, V10, P473, DOI 10.1177/0951692898010004005
+NR 126
+TC 7
+Z9 8
+U1 4
+U2 27
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JUL
+PY 2019
+VL 58
+BP 78
+EP 104
+DI 10.1016/j.socnet.2019.03.001
+PG 27
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA IF1BX
+UT WOS:000472813200007
+DA 2024-11-22
+ER
+
+PT J
+AU Aljably, R
+   Tian, Y
+   Al-Rodhaan, M
+   Al-Dhelaan, A
+AF Aljably, Randa
+   Tian, Yuan
+   Al-Rodhaan, Mznah
+   Al-Dhelaan, Abdullah
+TI Anomaly detection over differential preserved privacy in online social
+   networks
+SO PLOS ONE
+LA English
+DT Article
+ID DATA PUBLICATION; FRAMEWORK
+AB The massive reach of social networks (SNs) has hidden their potential concerns, primarily those related to information privacy. Users increasingly rely on social networks for more than merely interactions and self-representation. However, social networking environments are not free of risks. Users are often threatened by privacy breaches, unauthorized access to personal information, and leakage of sensitive data. In this paper, we propose a privacy-preserving model that sanitizes the collection of user information from a social network utilizing restricted local differential privacy (LDP) to save synthetic copies of collected data. This model further uses reconstructed data to classify user activity and detect abnormal network behavior. Our experimental results demonstrate that the proposed method achieves high data utility on the basis of improved privacy preservation. Moreover, LDP sanitized data are suitable for use in subsequent analyses, such as anomaly detection. Anomaly detection on the proposed method's reconstructed data achieves a detection accuracy similar to that on the original data.
+C1 [Aljably, Randa] Shaqra Univ, Dept Comp, Druma, Saudi Arabia.
+   [Aljably, Randa; Al-Rodhaan, Mznah; Al-Dhelaan, Abdullah] King Saud Univ, Dept Comp Sci, Riyadh, Saudi Arabia.
+   [Tian, Yuan] Nanjing Inst Technol, Nanjing, Jiangsu, Peoples R China.
+C3 Shaqra University; King Saud University; Nanjing Institute of Technology
+RP Al-Rodhaan, M (corresponding author), King Saud Univ, Dept Comp Sci, Riyadh, Saudi Arabia.
+EM rodhaan@ksu.edu.sa
+RI Tian, Yuan/B-1553-2009; Al-Dhelaan, Abdullah/B-4159-2015; Al-rodhaan,
+   Mznah/N-8184-2014
+OI Al-rodhaan, Mznah/0000-0002-9790-5345
+FU Deanship of Scientific Research at King Saud University, Riyadh, Saudi
+   Arabia [RGP-264]
+FX This work was supported by the Deanship of Scientific Research at King
+   Saud University (https://dsrs.ksu.edu.sa/en), Riyadh, Saudi Arabia
+   through research group no. RGP-264.
+CR Abadi M, 2016, CCS'16: PROCEEDINGS OF THE 2016 ACM SIGSAC CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY, P308, DOI 10.1145/2976749.2978318
+   Adhikari K, 2018, J GLOB MARK, V31, P96
+   [Anonymous], MULTIMEDIA TOOLS APP
+   Ayalon O, 2017, HUM-COMPUT INTER-US, V32, P73, DOI 10.1080/07370024.2016.1203791
+   Backstrom L., 2007, P 16 INT C WORLD WID, P181
+   Cai ZP, 2018, IEEE T DEPEND SECURE, V15, P577, DOI 10.1109/TDSC.2016.2613521
+   Chen R, 2014, VLDB J, V23, P653, DOI 10.1007/s00778-013-0344-8
+   Cheng Y, 2016, IEEE T DEPEND SECURE, V13, P424, DOI 10.1109/TDSC.2015.2406705
+   Conn PB, 2018, ECOL MONOGR, V88, P526, DOI 10.1002/ecm.1314
+   Dabeer O, 2013, IEEE T SIGNAL PROCES, V61, P355, DOI 10.1109/TSP.2012.2225050
+   Dai JZ, 2018, FUTURE INTERNET, V10, DOI 10.3390/fi10060053
+   Dwork C., 2009, Journal of Privacy and Confidentiality, V1, P135
+   Dwork C, 2013, FOUND TRENDS THEOR C, V9, P211, DOI 10.1561/0400000042
+   Dwork C, 2010, ACM S THEORY COMPUT, P715
+   Dwork C, 2009, ACM S THEORY COMPUT, P371
+   Fard AM, 2015, WORLD WIDE WEB, V18, P9, DOI 10.1007/s11280-013-0240-6
+   Gao TC, 2017, IEEE INT CONF MOB, P348, DOI 10.1109/MASS.2017.20
+   Garfinkel SL, 2018, ANN AM ACAD POLIT SS, V675, P83, DOI 10.1177/0002716217737267
+   Grinstein G, 2008, IEEE CONF VIS ANAL, P195, DOI 10.1109/VAST.2008.4677383
+   Heard NA, 2010, ANN APPL STAT, V4, P645, DOI 10.1214/10-AOAS329
+   Horawalavithana S, 2018, ARXIV180810837
+   Kim B, 2018, PLOS ONE, V13, DOI 10.1371/journal.pone.0200620
+   Kim JW, 2018, IEEE ACCESS, V6, P4276, DOI 10.1109/ACCESS.2018.2791588
+   Li X, 2017, SECURITY COMMUNICATI, V2017
+   Phan N, 2017, IEEE DATA MINING, P385, DOI 10.1109/ICDM.2017.48
+   Qian Wang, 2018, IEEE Transactions on Dependable and Secure Computing, V15, P591, DOI 10.1109/TDSC.2016.2599873
+   Rajaei M, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0130693
+   Ren XB, 2018, IEEE T INF FOREN SEC, V13, P2151, DOI 10.1109/TIFS.2018.2812146
+   Shin K, 2018, ACM T KNOWL DISCOV D, V12, DOI 10.1145/3154414
+   Vishwanath A, 2018, J ASSOC INF SCI TECH, V69, P700, DOI 10.1002/asi.23894
+   Xu CG, 2018, IEEE COMMUN MAG, V56, P20, DOI 10.1109/MCOM.2018.1701080
+   Zhou B, 2011, KNOWL INF SYST, V28, P47, DOI 10.1007/s10115-010-0311-2
+   2012, 2012 IEEEACM INT C, P411
+NR 33
+TC 11
+Z9 11
+U1 0
+U2 11
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD APR 25
+PY 2019
+VL 14
+IS 4
+AR e0215856
+DI 10.1371/journal.pone.0215856
+PG 20
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA HU8EY
+UT WOS:000465519100056
+PM 31022238
+OA Green Published, gold, Green Submitted
+DA 2024-11-22
+ER

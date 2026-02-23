@@ -1,0 +1,521 @@
+
+PT J
+AU Kreindler, GE
+   Young, HP
+AF Kreindler, Gabriel E.
+   Young, H. Peyton
+TI Rapid innovation diffusion in social networks
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE convergence time; local interaction model; noisy best response; logit;
+   coordination game
+ID STATISTICAL-MECHANICS; GAMES; COORDINATION; EQUILIBRIUM; CONVERGENCE;
+   CONTAGION; EVOLUTION; MODEL
+AB Social and technological innovations often spread through social networks as people respond to what their neighbors are doing. Previous research has identified specific network structures, such as local clustering, that promote rapid diffusion. Here we derive bounds that are independent of network structure and size, such that diffusion is fast whenever the payoff gain from the innovation is sufficiently high and the agents' responses are sufficiently noisy. We also provide a simple method for computing an upper bound on the expected time it takes for the innovation to become established in any finite network. For example, if agents choose log-linear responses to what their neighbors are doing, it takes on average less than 80 revision periods for the innovation to diffuse widely in any network, provided that the error rate is at least 5% and the payoff gain (relative to the status quo) is at least 150%. Qualitatively similar results hold for other smoothed best-response functions and populations that experience heterogeneous payoff shocks.
+C1 [Kreindler, Gabriel E.] MIT, Dept Econ, Cambridge, MA 02139 USA.
+   [Young, H. Peyton] Univ Oxford, Dept Econ, Oxford OX1 3UQ, England.
+   [Young, H. Peyton] Univ Oxford, Oxford Martin Sch, Inst New Econ Thinking, Oxford OX1 3BD, England.
+C3 Massachusetts Institute of Technology (MIT); University of Oxford;
+   University of Oxford
+RP Kreindler, GE (corresponding author), MIT, Dept Econ, Cambridge, MA 02139 USA.
+EM gek@mit.edu
+OI /0000-0003-3847-7763
+FU Office of Naval Research [N00014-09-1-0751]; Air Force Office of
+   Scientific Research [FA9550-09-1-0538]
+FX We thank Glenn Ellison and participants in the 2014 Sackler Colloquium,
+   the MIT theory workshop, and the 2013 Brown University Mini-Conference
+   on Networks for constructive suggestions. This research was sponsored by
+   the Office of Naval Research Grant N00014-09-1-0751 and the Air Force
+   Office of Scientific Research Grant FA9550-09-1-0538.
+CR Anderson Simon P., 1992, DISCRETE CHOICE THEO, DOI DOI 10.7551/MITPRESS/2450.001.0001
+   [Anonymous], 2005, Models and methods in social network analysis, DOI DOI 10.1017/CBO9780511811395.006
+   [Anonymous], 1998, INDIVIDUAL STRATEGY, DOI DOI 10.1515/9780691214252
+   [Anonymous], 2010, SOCIAL EC NETWORKS
+   [Anonymous], 2007, COMPLEX SOCIAL NETWO
+   Bala V, 1998, REV ECON STUD, V65, P595, DOI 10.1111/1467-937X.00059
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Blume LE, 2003, GAME ECON BEHAV, V44, P251, DOI [10.1016/S0899-8256(02)00554-7, 10.1016/S0899-8256(03)00554-7]
+   BLUME LE, 1993, GAME ECON BEHAV, V5, P387, DOI 10.1006/game.1993.1023
+   BLUME LE, 1995, GAME ECON BEHAV, V11, P111, DOI 10.1006/game.1995.1046
+   Brock WA, 2001, HDB EC, V1, P3297
+   COLEMAN J, 1957, SOCIOMETRY, V20, P253, DOI 10.2307/2785979
+   Ellison G, 1997, GAME ECON BEHAV, V19, P180, DOI 10.1006/game.1997.0555
+   ELLISON G, 1993, ECONOMETRICA, V61, P1047, DOI 10.2307/2951493
+   Golub B, 2010, AM ECON J-MICROECON, V2, P112, DOI 10.1257/mic.2.1.112
+   GRILICHES Z, 1957, ECONOMETRICA, V25, P501, DOI 10.2307/1905380
+   Grimmett G. R., 1992, PROBABILITY RANDOM P
+   Jackson MO, 2007, AM ECON REV, V97, P92, DOI 10.1257/aer.97.2.92
+   Jackson MO, 2002, GAME ECON BEHAV, V41, P265, DOI 10.1016/S0899-8256(02)00504-3
+   KANDORI M, 1993, ECONOMETRICA, V61, P29, DOI 10.2307/2951777
+   Kreindler GE, 2013, GAME ECON BEHAV, V80, P39, DOI 10.1016/j.geb.2013.02.004
+   Kremer M, 2008, J ECON PERSPECT, V22, P189, DOI 10.1257/jep.22.3.189
+   Lawrence Blume, 2003, Int Game Theory Rev, V5, P193, DOI DOI 10.1142/S021919890300101X
+   Liljeros F, 2001, NATURE, V411, P907, DOI 10.1038/35082140
+   López-Pintado D, 2006, INT J GAME THEORY, V34, P371, DOI 10.1007/s00182-006-0026-5
+   MCFADDEN D, 1976, ANN ECON SOC MEAS, V5, P363
+   MCKELVEY RD, 1995, GAME ECON BEHAV, V10, P6, DOI 10.1006/game.1995.1023
+   Montanari A, 2010, P NATL ACAD SCI USA, V107, P20196, DOI 10.1073/pnas.1004098107
+   Morris S, 2000, REV ECON STUD, V67, P57, DOI 10.1111/1467-937X.00121
+   Munshi K, 2006, J DEV ECON, V80, P1, DOI 10.1016/j.jdeveco.2005.01.002
+   Myatt DP, 2003, J ECON THEORY, V113, P286, DOI 10.1016/S0022-0531(03)00069-3
+   Newton J, 2013, 201302 U SYDN SCH EC
+   Oyama D, 2014, THEOR EC IN PRESS
+   Sandholm WH, 2001, INT J GAME THEORY, V30, P107, DOI 10.1007/s001820100067
+   Staudigl M, 2010, 1001 U VIENN DEP EC
+   Valente T.W., 1995, NETWORK MODELS DIFFU
+   Watts DJ, 2002, P NATL ACAD SCI USA, V99, P5766, DOI 10.1073/pnas.082090499
+   Watts DJ, 2007, J CONSUM RES, V34, P441, DOI 10.1086/518527
+   Young HP, 2011, P NATL ACAD SCI USA, V108, P21285, DOI 10.1073/pnas.1100973108
+   YOUNG HP, 1993, ECONOMETRICA, V61, P57, DOI 10.2307/2951778
+   Young HP, 2001, AM ECON REV, V91, P559, DOI 10.1257/aer.91.3.559
+NR 41
+TC 67
+Z9 77
+U1 2
+U2 64
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD JUL 22
+PY 2014
+VL 111
+SU 3
+BP 10881
+EP 10888
+DI 10.1073/pnas.1400842111
+PG 8
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA AL7JW
+UT WOS:000339311100016
+PM 25024191
+OA Green Submitted, Green Published, Bronze
+DA 2024-11-22
+ER
+
+PT J
+AU Enemark, D
+   McCubbins, MD
+   Weller, N
+AF Enemark, Daniel
+   McCubbins, Mathew D.
+   Weller, Nicholas
+TI Knowledge and networks: An experimental test of how network knowledge
+   affects coordination
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Information; Experimental methods; Coordination;
+   Communication/information networks
+ID INTERNATIONAL-COOPERATION; COLLECTIVE ACTION; SOCIAL NETWORKS;
+   CREDIBILITY; LEADERSHIP; PARADOX
+AB Scholars in the social sciences use network theory to study a range of collective action problems. Often the goal is to identify how the structure of the network affects efforts to coordinate or cooperate, and research suggests that adding connections to a network can improve the performance of groups faced with such tasks. On the other hand, theory and empirics also suggest that additional connections can degrade the performance of a network. If connections can have negative effects then it is important to consider if there are alternatives to adding connections to a network that can also improve network performance. Because a primary function of connections in a network is to disseminate information, providing individuals with more information about the network may act as a substitute for adding connections to a network. We test experimentally whether providing subjects with more information about the structure of networks can improve coordination. We find that a more complete view of the network leads to faster coordination, but the magnitude of this effect depends on network structure. These results suggest that changing what actors know about a network can improve outcomes without having to add connections that may impede overall performance. (C) 2012 Elsevier B.V. All rights reserved.
+C1 [Enemark, Daniel] Univ So Calif, Los Angeles, CA 90089 USA.
+   [McCubbins, Mathew D.] Univ So Calif, Gould Sch Law, Marshall Sch Business, Los Angeles, CA 90089 USA.
+   [Weller, Nicholas] Univ So Calif, Sch Int Relat, Dept Polit Sci, Los Angeles, CA 90089 USA.
+C3 University of Southern California; University of Southern California;
+   University of Southern California
+RP Weller, N (corresponding author), Univ So Calif, Sch Int Relat, Dept Polit Sci, Los Angeles, CA 90089 USA.
+EM nweller@usc.edu
+RI Weller, Nicholas/B-3132-2009
+OI Weller, Nicholas/0000-0002-2198-5625
+CR Aberbach J.D., 1990, Keeping a watchful eye: The politics of congressional oversight
+   [Anonymous], 1969, CONVENTION PHILOS ST
+   [Anonymous], 1991, Collective Action and the Civil Rights Movement
+   [Anonymous], 2009, NETWORKED POLITICS A
+   [Anonymous], 1990, NY TIMES
+   [Anonymous], 2003, Six Degrees: The Science of a Connected Age
+   Bradbury Erin M, 2008, WHY NOT PARTIES PART
+   Bradley CurtisA., 2008, The. Law and Contemporary Problems, V71, P1
+   Braess D, 2005, TRANSPORT SCI, V39, P446, DOI 10.1287/trsc.1050.0127
+   Bramoullé Y, 2007, J ECON THEORY, V135, P478, DOI 10.1016/j.jet.2006.06.006
+   CALVERT RL, 1992, INT POLIT SCI REV, V13, P7, DOI 10.1177/019251219201300102
+   Campbell D.T., 2001, Experimental and quasiexperimental designs for generalized causal inference
+   Cassar A, 2007, GAME ECON BEHAV, V58, P209, DOI 10.1016/j.geb.2006.03.008
+   Choi S. J., 2008, WORKING PAPER
+   Chung F, 2010, LECT NOTES COMPUT SC, V6484, P194, DOI 10.1007/978-3-642-17572-5_16
+   Chwe MSY, 2000, REV ECON STUD, V67, P1, DOI 10.1111/1467-937X.00118
+   Cowhey Peter., 2009, Networked Politics
+   DOW J, 1994, J ECON THEORY, V64, P305, DOI 10.1006/jeth.1994.1071
+   Easley D., 2010, NETWORKS CROWDS MARK
+   Ebel H, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.056118
+   Elkins Z, 2005, ANN AM ACAD POLIT SS, V598, P33, DOI 10.1177/0002716204272516
+   Enemark D., 2011, P 12 ACM C EL COMM
+   Fowler JamesH., 2005, SOCIAL LOGIC POLITIC, P269
+   Gleditsch KS, 2006, INT ORGAN, V60, P911, DOI 10.1017/S0020818306060309
+   Gleditsch KS, 2007, GLOBAL DIFFUSION OF MARKETS AND DEMOCRACY, P261
+   GOULD RV, 1993, AM SOCIOL REV, V58, P182, DOI 10.2307/2095965
+   Grannovetter M., 1974, Getting a job: A study of contacts and careers
+   Hafner-Burton EM, 2006, J CONFLICT RESOLUT, V50, P3, DOI 10.1177/0022002705281669
+   Hafner-Burton EM, 2008, J CONFLICT RESOLUT, V52, P213, DOI 10.1177/0022002707313689
+   Hafner-Burton EM, 2009, INT ORGAN, V63, P559, DOI 10.1017/S0020818309090195
+   Imai K, 2011, AM POLIT SCI REV, V105, P765, DOI 10.1017/S0003055411000414
+   Jackson MO, 2012, AM ECON REV, V102, P1857, DOI 10.1257/aer.102.5.1857
+   Kearns M, 2006, SCIENCE, V313, P824, DOI 10.1126/science.1127207
+   King G, 2006, POLIT ANAL, V14, P131, DOI 10.1093/pan/mpj004
+   Knight F., 1921, Risk, Uncertainty, and Profit, P233
+   Lazer D, 2007, ADMIN SCI QUART, V52, P667, DOI 10.2189/asqu.52.4.667
+   Leskovec J, 2009, INTERNET MATH, V6, P29, DOI 10.1080/15427951.2009.10129177
+   Mackie G, 1996, AM SOCIOL REV, V61, P999, DOI 10.2307/2096305
+   Maoz Z, 2006, J PEACE RES, V43, P391, DOI 10.1177/0022343306065720
+   Maoz Zeev., 2007, APPL SOCIAL NETWORK, P121
+   McClurg SD, 2003, POLIT RES QUART, V56, P449, DOI 10.2307/3219806
+   McCubbins M., 2009, AM POLITICS RES
+   MCCUBBINS MD, 1984, AM J POLIT SCI, V28, P165, DOI 10.2307/2110792
+   MORROW JD, 1994, INT ORGAN, V48, P387, DOI 10.1017/S0020818300028241
+   NIOU EMS, 1994, WORLD POLIT, V46, P209, DOI 10.2307/2950673
+   RUBIN DB, 1990, J STAT PLAN INFER, V25, P279, DOI 10.1016/0378-3758(90)90077-8
+   Schelling TC, 1960, The strategy of conflict
+   Scholz JT, 2008, J POLIT, V70, P393, DOI 10.1017/S0022381608080389
+   Siegel DA, 2009, AM J POLIT SCI, V53, P122, DOI 10.1111/j.1540-5907.2008.00361.x
+   Simmel G., 1950, SOCIOLOGY G SIMMEL
+   SNIDAL D, 1985, AM POLIT SCI REV, V79, P923, DOI 10.2307/1956241
+   STEIN AA, 1982, INT ORGAN, V36, P299, DOI 10.1017/S0020818300018968
+   Suri S, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0016836
+   Ward MD, 2011, ANNU REV POLIT SCI, V14, P245, DOI 10.1146/annurev.polisci.12.040907.115949
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Weingast BR, 1997, AM POLIT SCI REV, V91, P245, DOI 10.2307/2952354
+   Wilson RK, 1997, J CONFLICT RESOLUT, V41, P767, DOI 10.1177/0022002797041006003
+   Yariv L., 2011, WORKING PAPER
+   Yegge S., 2011, GOOGLE PLATFORMS RAN
+NR 59
+TC 25
+Z9 33
+U1 0
+U2 33
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JAN
+PY 2014
+VL 36
+SI SI
+BP 122
+EP 133
+DI 10.1016/j.socnet.2012.10.001
+PG 12
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 277FG
+UT WOS:000328803800010
+OA Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Yavas, M
+   Yücel, G
+AF Yavas, Mustafa
+   Yucel, Gonenc
+TI Impact of Homophily on Diffusion Dynamics Over Social Networks
+SO SOCIAL SCIENCE COMPUTER REVIEW
+LA English
+DT Article
+DE homophily; diffusion; threshold models; social networks; formal models;
+   simulation; agent-based model; segregation
+ID SPREAD; MODELS
+AB The purpose of this study is to analyze the impact of homophily on diffusion over social networks. An agent-based simulation model is developed to serve as the experimental ground for this analysis. Diffusion dynamics of a nonsticky innovation is investigated by varying homophily levels in the social network depicted in the model as the primary control variable. First of all, the results show that homophily is self-reinforcing. Second, starting from a nonhomophilous network, early increases in the level of homophily have a positive effect on the extent of diffusion, whereas further increases have a negative impact. Finally, several local minima and maxima are observed in the relation between the homophily level and the extent of diffusion. Our analysis focuses on node properties such as connectedness and average degrees in order to explain the observed regular relationship between homophily and diffusion. We argue that (i) homophily increases the connectedness of different status groups separately and (ii) increasing levels of homophily decreases the marginal importance of a single homophilous tie by increasing the sources of valuable information. Future research involves investigating the coevolution of social behavior and networks by allowing the adopted innovation to lead to value homophily, exploration of different diffusion initiation types, and different adoption heuristics.
+C1 [Yavas, Mustafa; Yucel, Gonenc] Bogazici Univ, TR-34342 Istanbul, Turkey.
+C3 Bogazici University
+RP Yavas, M (corresponding author), Bogazici Univ, TR-34342 Istanbul, Turkey.
+EM mustafa.yavas@boun.edu.tr; gonenc.yucel@boun.edu.tr
+RI Yücel, Gönenc/A-5329-2016; Yavas, Mustafa/LIG-4765-2024
+OI Yavas, Mustafa/0000-0002-2777-1986
+FU FP7-PEOPLE-CIG [322038]; EU FP7 Marie Curie Programme
+FX The authors disclosed receipt of the following financial support for the
+   research, authorship, and/or publication of this article:
+   FP7-PEOPLE-2012-CIG No: 322038. Gonenc Yucel - Research Stipend from EU
+   FP7 Marie Curie Programme.
+CR [Anonymous], 1977, INEQUALITY HETEROGEN
+   [Anonymous], 1954, FREEDOM CONTROL MODE
+   [Anonymous], COMPUTERS SOC
+   [Anonymous], 2005, Simulation for the Social Scientist
+   Aral S, 2009, P NATL ACAD SCI USA, V106, P21544, DOI 10.1073/pnas.0908800106
+   BROWN JJ, 1987, J CONSUM RES, V14, P350, DOI 10.1086/209118
+   Centola D, 2005, AM J SOCIOL, V110, P1009, DOI 10.1086/427321
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   Centola D, 2011, SCIENCE, V334, P1269, DOI 10.1126/science.1207055
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   DiMaggio P, 2012, ANNU REV SOCIOL, V38, P93, DOI 10.1146/annurev.soc.012809.102545
+   DiMaggio P, 2011, AM J SOCIOL, V116, P1887, DOI 10.1086/659653
+   Epstein J. M., 1996, GROWING ARTIFICIAL S
+   Flache A, 2011, J CONFLICT RESOLUT, V55, P970, DOI 10.1177/0022002711414371
+   Golub B, 2012, Q J ECON, V127, P1287, DOI 10.1093/qje/qjs021
+   GRANOVETTER M, 1978, AM J SOCIOL, V83, P1420, DOI 10.1086/226707
+   Jackson MO, 2008, SOCIAL AND ECONOMIC NETWORKS, P1
+   Jackson MO., 2011, Social Science Research Network, P1
+   KANDEL DB, 1978, AM J SOCIOL, V84, P427, DOI 10.1086/226792
+   Kossinets G, 2009, AM J SOCIOL, V115, P405, DOI 10.1086/599247
+   Mark NP, 2003, AM SOCIOL REV, V68, P319, DOI 10.2307/1519727
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Noel H, 2011, SOC NETWORKS, V33, P211, DOI 10.1016/j.socnet.2011.05.003
+   Railsback S. F., 2011, Agent-Based and Individual-Based Modeling: A Practical Introduction
+   Rogers E. M., 2003, DIFFUSION INNOVATION, P305
+   ROGERS EM, 1970, PUBLIC OPIN QUART, V34, P523, DOI 10.1086/267838
+   SCHELLING TC, 1971, J MATH SOCIOL, V1, P143, DOI 10.1080/0022250X.1971.9989794
+   Watts DJ, 2002, P NATL ACAD SCI USA, V99, P5766, DOI 10.1073/pnas.082090499
+   Watts DJ., 1999, SMALL WORLDS DYNAMIC, DOI [10.1515/9780691188331, DOI 10.1515/9780691188331]
+   Wilensky U, 1999, NETLOGO
+NR 31
+TC 24
+Z9 34
+U1 4
+U2 52
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0894-4393
+EI 1552-8286
+J9 SOC SCI COMPUT REV
+JI Soc. Sci. Comput. Rev.
+PD JUN
+PY 2014
+VL 32
+IS 3
+BP 354
+EP 372
+DI 10.1177/0894439313512464
+PG 19
+WC Computer Science, Interdisciplinary Applications; Information Science &
+   Library Science; Social Sciences, Interdisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science; Information Science & Library Science; Social Sciences
+   - Other Topics
+GA AM8AF
+UT WOS:000340090200006
+DA 2024-11-22
+ER
+
+PT J
+AU Weng, CS
+   Yang, WG
+   Lai, KK
+AF Weng, Calvin S.
+   Yang, Wen-Goang
+   Lai, Kuei-Kuei
+TI Technological position in alliances network
+SO TECHNOLOGY ANALYSIS & STRATEGIC MANAGEMENT
+LA English
+DT Article
+DE technological position; strategic alliance; matchmaking; 2-mode network
+ID RESEARCH-AND-DEVELOPMENT; SOCIAL NETWORKS; INNOVATION; KNOWLEDGE;
+   CENTRALITY; INTERMEDIARIES; ORGANIZATION; VIEW; COLLABORATION;
+   EMBEDDEDNESS
+AB The purpose of this research was to examine the interactions between the focal firm (FF) and its technological alliance, and to enquire into the technological alliance network in shaping the firm position from innovative dynamics environment. 2-Mode network analysis was employed to explore the question of how technological position emerged from alliance interaction. Specifically, we looked at the network structure of the sample by examining the interactions of technological alliance. Our empirical data were from the 'Strategic Alliance Database' established by the Ministry of Science and Technology in Taiwan. We identified technological position of firms from the 2-mode network analysis to resolve the highlighted question. Some results that we found were as follows: (1) The alliance network of IT technology approximated an ideal core/periphery structure. (2) The network structure apparently demonstrated that FF with a higher centrality has better opportunity to locate in the central position of FFs or in the core position in the technological network. (3) Alliance in core with a dense structure can better facilitate the utilisation of existing knowledge in refinement and extension of existing technologies. Alliance in the periphery with a non-dense structure is in a favourable position for matchmaking of experimentation and to serve as a bridge to introduce novel technologies.
+C1 [Weng, Calvin S.] Takming Univ Sci & Technol, Dept Banking & Finance, Taipei, Taiwan.
+   [Yang, Wen-Goang] Chaoyang Univ Technol, Dept Leisure Serv Management, Taichung, Taiwan.
+   [Yang, Wen-Goang] Chaoyang Univ Technol, Dept Mkt & Logist Management, Taichung, Taiwan.
+   [Lai, Kuei-Kuei] Natl Yunlin Univ Sci & Technol, Dept Business Adm, Touliu, Taiwan.
+C3 Takming University Science & Technology; Chaoyang University of
+   Technology; Chaoyang University of Technology; National Yunlin
+   University Science & Technology
+RP Weng, CS (corresponding author), Takming Univ Sci & Technol, Dept Banking & Finance, Taipei, Taiwan.
+EM calvinweng@takming.edu.tw
+CR Ahuja G, 2000, STRATEGIC MANAGE J, V21, P317, DOI 10.1002/(SICI)1097-0266(200003)21:3<317::AID-SMJ90>3.3.CO;2-2
+   Anderson H., 1998, SCAND J MANAG, V14, P167, DOI DOI 10.1016/S0956-5221(97)00037-7
+   [Anonymous], 1983, Applied Network Analysis: A Methodological Introduction
+   [Anonymous], 1941, Deep South: A Social Anthropological Study of Caste and Class
+   ARORA A, 1994, J ECON BEHAV ORGAN, V24, P91, DOI 10.1016/0167-2681(94)90055-8
+   Baum JAC, 2000, STRATEGIC MANAGE J, V21, P267, DOI 10.1002/(SICI)1097-0266(200003)21:3<267::AID-SMJ89>3.0.CO;2-8
+   BESSANT J, 1995, RES POLICY, V24, P97, DOI 10.1016/0048-7333(93)00751-E
+   Birkinshaw J.M., 2000, The flexible firm: capability management in network organizations
+   BONACICH P, 1972, J MATH SOCIOL, V2, P113, DOI 10.1080/0022250X.1972.9989806
+   Borgatti S. P., 2005, UCINET WINDOWS SOFTW
+   Borgatti SP, 1997, SOC NETWORKS, V19, P243, DOI 10.1016/S0378-8733(96)00301-2
+   Borgatti SP, 1999, SOC NETWORKS, V21, P375
+   Borgatti SP, 2011, ORGAN SCI, V22, P1168, DOI 10.1287/orsc.1100.0641
+   Breschi S, 2003, RES POLICY, V32, P69, DOI 10.1016/S0048-7333(02)00004-5
+   Burt R. S, 1992, STRUCTURAL HOLES SOC
+   Cantner U, 2006, RES POLICY, V35, P463, DOI 10.1016/j.respol.2006.01.002
+   Cappelin R., 2003, Innovation Cluster and Regional Competition, P52, DOI DOI 10.1007/978-3-540-24760-9_4
+   Clausen T, 2011, TECHNOL ANAL STRATEG, V23, P75, DOI 10.1080/09537325.2011.537109
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   Dhanaraj C, 2006, ACAD MANAGE REV, V31, P659, DOI [10.5465/AMR.2006.21318923, 10.2307/20159234]
+   Duysters G. M., 2003, REV EC IND, V103, P59, DOI DOI 10.3406/REI.2003.3108
+   Dyer JH, 1998, ACAD MANAGE REV, V23, P660, DOI 10.2307/259056
+   Eisenhardt KM, 2000, STRATEGIC MANAGE J, V21, P1105, DOI 10.1002/1097-0266(200010/11)21:10/11<1105::AID-SMJ133>3.0.CO;2-E
+   Eisenhardt KM, 1996, ORGAN SCI, V7, P136, DOI 10.1287/orsc.7.2.136
+   Ejermo O, 2006, RES POLICY, V35, P412, DOI 10.1016/j.respol.2006.01.001
+   Faust K, 1997, SOC NETWORKS, V19, P157, DOI 10.1016/S0378-8733(96)00300-0
+   Faust K., 1992, Journal of Quantitative Anthropology, V4, P23
+   Field Sam, 2006, Soc Networks, V28, P97
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   FRIEDKIN NE, 1991, AM J SOCIOL, V96, P1478, DOI 10.1086/229694
+   GALASKIEWICZ J, 1985, ANNU REV SOCIOL, V11, P281, DOI 10.1146/annurev.so.11.080185.001433
+   Galbraith B, 2013, TECHNOL ANAL STRATEG, V25, P249, DOI 10.1080/09537325.2013.766684
+   Galbraith B, 2011, TECHNOL ANAL STRATEG, V23, P1, DOI 10.1080/09537325.2011.537084
+   Gay B, 2005, RES POLICY, V34, P1457, DOI 10.1016/j.respol.2005.07.001
+   Gilsing V, 2008, RES POLICY, V37, P1717, DOI 10.1016/j.respol.2008.08.010
+   GLASMEIER A, 1991, RES POLICY, V20, P469, DOI 10.1016/0048-7333(91)90070-7
+   Gulati R, 1995, ADMIN SCI QUART, V40, P619, DOI 10.2307/2393756
+   Gulati R, 1998, STRATEGIC MANAGE J, V19, P293, DOI 10.1002/(SICI)1097-0266(199804)19:4<293::AID-SMJ982>3.0.CO;2-M
+   Gulati R, 1999, AM J SOCIOL, V104, P1439, DOI 10.1086/210179
+   HAGEDOORN J, 1993, STRATEGIC MANAGE J, V14, P371, DOI 10.1002/smj.4250140505
+   Hargadon A, 1997, ADMIN SCI QUART, V42, P716, DOI 10.2307/2393655
+   Hargadon AB, 1998, CALIF MANAGE REV, V40, P209, DOI 10.2307/41165951
+   Howells J, 2006, RES POLICY, V35, P715, DOI 10.1016/j.respol.2006.03.005
+   Katzy B, 2013, TECHNOL ANAL STRATEG, V25, P295, DOI 10.1080/09537325.2013.764982
+   Katzy BR, 2008, TECHNOVATION, V28, P679, DOI 10.1016/j.technovation.2007.11.003
+   Kinder T, 2003, RES POLICY, V32, P503, DOI 10.1016/S0048-7333(02)00021-5
+   Knoke D., 2008, Social network analysis, V2nd
+   March JG, 1991, ORGAN SCI, V2, P71, DOI 10.1287/orsc.2.1.71
+   Moody J, 2001, SOC NETWORKS, V23, P261, DOI 10.1016/S0378-8733(01)00042-9
+   Mote JE, 2005, J ENG TECHNOL MANAGE, V22, P93, DOI 10.1016/j.jengtecman.2004.11.004
+   NELSON RE, 1986, ORGAN STUD, V7, P75, DOI 10.1177/017084068600700105
+   Nohria N., 1992, Networks and organizations: Structure, form, and action
+   Nooteboom B., 1992, Journal of Evolutionary Economics, V2, P281, DOI [10.1007/BF01200127, DOI 10.1007/BF01200127]
+   Owen-Smith J, 2004, ORGAN SCI, V15, P5, DOI 10.1287/orsc.1030.0054
+   Podolny JM, 1996, AM J SOCIOL, V102, P659, DOI 10.1086/230994
+   Powell WW, 1996, ADMIN SCI QUART, V41, P116, DOI 10.2307/2393988
+   Quinn JB, 2000, SLOAN MANAGE REV, V41, P13
+   Quintana-García C, 2011, TECHNOL ANAL STRATEG, V23, P1047, DOI 10.1080/09537325.2011.621300
+   Rank C., 2006, European Management Journal, V24, P73, DOI 10.1016/j.emj.2005.12.009
+   Rowley T, 2000, STRATEGIC MANAGE J, V21, P369, DOI 10.1002/(SICI)1097-0266(200003)21:3<369::AID-SMJ93>3.0.CO;2-M
+   Scott John., 2002, Social Network Analysis: an handbook
+   Sorenson O, 2005, J ENG TECHNOL MANAGE, V22, P1, DOI 10.1016/j.jengtecman.2004.11.003
+   Stuart TE, 1998, ADMIN SCI QUART, V43, P668, DOI 10.2307/2393679
+   Teece DJ, 1997, STRATEGIC MANAGE J, V18, P509, DOI 10.1002/(SICI)1097-0266(199708)18:7<509::AID-SMJ882>3.0.CO;2-Z
+   Tsai WP, 2001, ACAD MANAGE J, V44, P996, DOI 10.5465/3069443
+   Vanhaverbeke W, 2009, J MANAGE STUD, V46, P215, DOI 10.1111/j.1467-6486.2008.00801.x
+   von Wartburg I, 2005, RES POLICY, V34, P1591, DOI 10.1016/j.respol.2005.08.001
+   Wagner CS., 2005, INT J TECHNOLOGY GLO, V1, P185, DOI [DOI 10.1504/IJTG.2005.007050, 10.1504/IJTG.2005.007050]
+   Wassermann S., 1994, Social Network Analysis
+   WILSON TP, 1982, SOC NETWORKS, V4, P105, DOI 10.1016/0378-8733(82)90028-4
+   Yoon B., 2004, J. High Technol. Manag. Res., V15, P37, DOI [10.1016/j.hitech.2003.09.003, DOI 10.1016/J.HITECH.2003.09.003]
+   Zaheer A, 2005, STRATEGIC MANAGE J, V26, P809, DOI 10.1002/smj.482
+NR 72
+TC 15
+Z9 16
+U1 3
+U2 52
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0953-7325
+EI 1465-3990
+J9 TECHNOL ANAL STRATEG
+JI Technol. Anal. Strateg. Manage.
+PD JUL
+PY 2014
+VL 26
+IS 6
+SI SI
+BP 669
+EP 685
+DI 10.1080/09537325.2014.923096
+PG 17
+WC Management; Multidisciplinary Sciences
+WE Social Science Citation Index (SSCI)
+SC Business & Economics; Science & Technology - Other Topics
+GA AK1RK
+UT WOS:000338193200006
+DA 2024-11-22
+ER
+
+PT J
+AU Dass, M
+   Reddy, SK
+   Iacobucci, D
+AF Dass, Mayukh
+   Reddy, Srinivas K.
+   Iacobucci, Dawn
+TI Social networks among auction bidders: The role of key bidders and
+   structural properties on auction prices
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Online auctions; Dynamic pricing; Bidders; Networks
+ID POWER; EFFICIENCY; COLLUSION; DYNAMICS; EBAY
+AB Auctions have been studied extensively as an economic marketplace. The economist's focus is on modeling final sales prices, but the processes that give rise to those outcomes are rarely studied in great detail. This research is intended to provide that complementary perspective. We show how the interactions between bidders in an auction unfold in a dynamic pattern of bids and counter-bids, and thereby over the duration of an auction, create a network structure. The auction network contributes significantly to models of price dynamics and the network predicts final sales prices better than economic (non-network) indicators alone. In addition, network analyses are useful in identifying the key bidders whose actions seem to exert disproportionate influence on other bidders and the final sales prices. Furthermore, the key bidders may be identified very early in an auction process, which has practical implications for the auction house managers and for other bidders. (C) 2013 Elsevier B.V. All rights reserved.
+C1 [Dass, Mayukh] Texas Tech Univ, Dept Mkt, Rawls Coll Business, Lubbock, TX 79409 USA.
+   [Reddy, Srinivas K.] Singapore Management Univ, Lee Kong Chian Sch Business, Dept Mkt, Singapore 178899, Singapore.
+   [Iacobucci, Dawn] Vanderbilt Univ, Owen Grad Sch Management, Nashville, TN 37203 USA.
+C3 Texas Tech University System; Texas Tech University; Singapore
+   Management University; Vanderbilt University
+RP Iacobucci, D (corresponding author), Vanderbilt Univ, Owen Grad Sch Management, 401 21st Ave South, Nashville, TN 37203 USA.
+EM mayukh.dass@ttu.edu; sreddy@smu.edu.sg;
+   dawn.iacobucci@owen.vanderbilt.edu
+RI REDDY, Srinivas/D-2244-2010; Iacobucci, Dawn/JMQ-5347-2023; Dass,
+   Mayukh/C-8277-2013
+OI Dass, Mayukh/0000-0002-7755-746X
+CR [Anonymous], 1998, Basics of Structural Equation Modeling
+   Bajari P, 2003, RAND J ECON, V34, P329, DOI 10.2307/1593721
+   Bapna R, 2008, DECIS SUPPORT SYST, V44, P641, DOI 10.1016/j.dss.2007.09.004
+   Barash V, 2012, SOC NETWORKS, V34, P451, DOI 10.1016/j.socnet.2012.02.003
+   Beggs A, 1997, RAND J ECON, V28, P544, DOI 10.2307/2556028
+   Bohman L, 2012, SOC NETWORKS, V34, P275, DOI 10.1016/j.socnet.2012.01.005
+   BONACICH P, 1987, AM J SOCIOL, V92, P1170, DOI 10.1086/228631
+   Braha D, 2011, SOC NETWORKS, V33, P219, DOI 10.1016/j.socnet.2011.05.004
+   Brandes U, 2012, SOC NETWORKS, V34, P291, DOI 10.1016/j.socnet.2011.06.002
+   Brusco S, 2002, REV ECON STUD, V69, P407, DOI 10.1111/1467-937X.00211
+   Bulow J, 2009, AM ECON REV, V99, P1544, DOI 10.1257/aer.99.4.1544
+   Cheema A, 2008, J CONSUM RES, V35, P167, DOI 10.1086/529532
+   Chernomaz K, 2012, GAME ECON BEHAV, V76, P611, DOI 10.1016/j.geb.2012.07.008
+   Chua V, 2011, SOC NETWORKS, V33, P1, DOI 10.1016/j.socnet.2010.08.001
+   Dass M, 2011, INT J FORECASTING, V27, P1259, DOI 10.1016/j.ijforecast.2011.01.003
+   de Nooy W, 2011, SOC NETWORKS, V33, P31, DOI 10.1016/j.socnet.2010.09.003
+   Flores R, 2012, SOC NETWORKS, V34, P570, DOI 10.1016/j.socnet.2012.06.003
+   Friedkin NE, 2011, SOC NETWORKS, V33, P88, DOI 10.1016/j.socnet.2010.11.004
+   Harrigan N, 2012, SOC NETWORKS, V34, P470, DOI 10.1016/j.socnet.2012.02.005
+   Hasan S, 2012, SOC NETWORKS, V34, P506, DOI 10.1016/j.socnet.2012.04.001
+   Johnson R, 2012, SOC NETWORKS, V34, P462, DOI 10.1016/j.socnet.2012.02.004
+   Kagel JH, 2005, GAME ECON BEHAV, V53, P170, DOI 10.1016/j.geb.2004.07.004
+   Konrad KA, 2009, GAME ECON BEHAV, V66, P256, DOI 10.1016/j.geb.2008.05.002
+   Krackhardt D, 2002, SOC NETWORKS, V24, P279, DOI 10.1016/S0378-8733(02)00008-4
+   Kwasnica AM, 2007, ECON J, V117, P120, DOI 10.1111/j.1468-0297.2007.02004.x
+   Lavi R, 2012, GAME ECON BEHAV, V76, P439, DOI 10.1016/j.geb.2012.05.011
+   Lucking-Reiley D, 1999, AM ECON REV, V89, P1063, DOI 10.1257/aer.89.5.1063
+   Malmendier U, 2011, AM ECON REV, V101, P749, DOI 10.1257/aer.101.2.749
+   MILGROM PR, 1982, ECONOMETRICA, V50, P1089, DOI 10.2307/1911865
+   Pauksztat B, 2011, SOC NETWORKS, V33, P303, DOI 10.1016/j.socnet.2011.10.001
+   RAMSAY J. O., 1997, Functional Data Analysis, V1nd, DOI DOI 10.1007/978-1-4757-7107-7
+   Reddy SK, 2006, STAT SCI, V21, P179, DOI 10.1214/088342306000000196
+   Roth AE, 2002, AM ECON REV, V92, P1093, DOI 10.1257/00028280260344632
+   Salmon TC, 2007, GAME ECON BEHAV, V61, P67, DOI 10.1016/j.geb.2006.12.004
+   Schnettler S, 2009, SOC NETWORKS, V31, P165, DOI 10.1016/j.socnet.2008.12.004
+   Shore J, 2013, SOC NETWORKS, V35, P116, DOI 10.1016/j.socnet.2013.01.005
+   Simpson B, 2011, SOC NETWORKS, V33, P166, DOI 10.1016/j.socnet.2010.10.007
+   Simpson B, 2011, SOC NETWORKS, V33, P172, DOI 10.1016/j.socnet.2010.10.008
+   Spiro ES, 2013, SOC NETWORKS, V35, P130, DOI 10.1016/j.socnet.2013.02.001
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   Willer D, 2012, SOC NETWORKS, V34, P171, DOI 10.1016/j.socnet.2011.11.001
+   Zheng CZ, 2012, GAME ECON BEHAV, V76, P648, DOI 10.1016/j.geb.2012.08.002
+NR 42
+TC 10
+Z9 10
+U1 1
+U2 29
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD MAY
+PY 2014
+VL 37
+BP 14
+EP 28
+DI 10.1016/j.socnet.2013.11.002
+PG 15
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA AE5AY
+UT WOS:000334001400002
+OA Green Accepted
+DA 2024-11-22
+ER

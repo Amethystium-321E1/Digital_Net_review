@@ -1,0 +1,580 @@
+
+PT J
+AU Flache, A
+   Macy, MW
+AF Flache, Andreas
+   Macy, Michael W.
+TI Small Worlds and Cultural Polarization
+SO JOURNAL OF MATHEMATICAL SOCIOLOGY
+LA English
+DT Article
+DE agent-based models; cultural dynamics; micro-macro link; polarization;
+   small-world networks; social influence
+ID SOCIAL-INFLUENCE; COMPUTATIONAL MODEL; TEAM COHESION; NETWORKS;
+   DYNAMICS; TIES; GEOGRAPHY
+AB Building on Granovetter's theory of the "strength of weak ties,'' research on "small-world'' networks suggests that bridges between clusters in a social network (long-range ties) promote cultural diffusion, homogeneity, and integration. We show that this macro-level implication of network structure depends on hidden micro-level assumptions. Using a computational model similar to earlier studies, we find that ties between clusters facilitate cultural convergence under the micro-level assumptions of assimilation and attraction to similar others. However, these assumptions also have negative counterparts-differentiation and xenophobia. We found that when these negative possibilities are no longer assumed away, the effect of long-range ties reverses: Even very small amounts of contact between highly clustered communities sharply increased polarization at the population level.
+C1 [Flache, Andreas] Univ Groningen, Dept Sociol ICS, Fac Behav & Social Sci, NL-9712 TG Groningen, Netherlands.
+   [Macy, Michael W.] Cornell Univ, Dept Sociol, Ithaca, NY 14853 USA.
+C3 University of Groningen; Cornell University
+RP Flache, A (corresponding author), Univ Groningen, Dept Sociol ICS, Fac Behav & Social Sci, Grote Rozenstr 31, NL-9712 TG Groningen, Netherlands.
+EM a.flache@rug.nl
+RI Flache, Andreas/E-2921-2013
+OI Flache, Andreas/0000-0002-8276-8819
+FU Netherlands Organization for Scientific Research, NWO [452-04-351]
+FX The research of the first author has been supported by the Netherlands
+   Organization for Scientific Research, NWO (VIDI Grant 452-04-351). We
+   thank the special issue editors and two anonymous reviewers for valuable
+   advice on and constructive criticism of earlier versions of this work.
+   Our work has further benefited from stimulating discussions with Michael
+   Mas, Tobias Stark, Karoly Takacs, and other members of the discussion
+   group on norms and networks at the Department of Sociology of the
+   University of Groningen.
+CR Abelson R. P., 1964, Contributions to Mathematical Psychology, V3, P1
+   ADAMS J, 2007, SOC FORCES, V84, P759
+   [Anonymous], JASSS
+   Axelrod R, 1997, J CONFLICT RESOLUT, V41, P203, DOI 10.1177/0022002797041002001
+   Baldassarri D, 2007, AM SOCIOL REV, V72, P784, DOI 10.1177/000312240707200507
+   Buskens V, 2008, J PEACE RES, V45, P205, DOI 10.1177/0022343307087177
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   Earley PC, 2000, ACAD MANAGE J, V43, P26, DOI 10.5465/1556384
+   Festinger L., 1950, SOCIAL PRESSURES INF, V30, P384, DOI 10.2307/3348388
+   Flache A, 2008, COMPUT MATH ORGAN TH, V14, P23, DOI 10.1007/s10588-008-9019-1
+   Flache A, 2008, SIMUL MODEL PRACT TH, V16, P175, DOI 10.1016/j.simpat.2007.11.020
+   FRENCH JRP, 1956, PSYCHOL REV, V63, P181, DOI 10.1037/h0046123
+   Friedkin NE, 2001, SOC NETWORKS, V23, P167, DOI 10.1016/S0378-8733(01)00036-3
+   Friedkin NE, 1999, ADV GROUP, V16, P1
+   FRIEDKIN NE, 1990, J MATH SOCIOL, V15, P193, DOI 10.1080/0022250X.1990.9990069
+   Friedman TL., 2005, WORLD IS FLAT BRIEF
+   Glaeser EL, 2006, J ECON PERSPECT, V20, P119, DOI 10.1257/jep.20.2.119
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Greig JM, 2002, J CONFLICT RESOLUT, V46, P225, DOI 10.1177/0022002702046002003
+   Harary F, 1959, Studies in Social Power, P168
+   HOPFIELD JJ, 1982, P NATL ACAD SCI-BIOL, V79, P2554, DOI 10.1073/pnas.79.8.2554
+   HUBERMAN BA, 1993, P NATL ACAD SCI USA, V90, P7716, DOI 10.1073/pnas.90.16.7716
+   Jager W., 2004, Computational & Mathematical Organization Theory, V10, P295, DOI 10.1007/s10588-005-6282-2
+   Kirkman BL, 2002, ACAD MANAGE EXEC, V16, P67, DOI 10.5465/AME.2002.8540322
+   Kitts J. A., 1999, Computational & Mathematical Organization Theory, V5, P129, DOI 10.1023/A:1009670804792
+   Kitts JA, 2006, SIMUL MODEL PRACT TH, V14, P407, DOI 10.1016/j.simpat.2005.09.006
+   Klemm K, 2003, PHYS REV E, V67, DOI [10.1103/PhysRevE.67.045101, 10.1063/1.1571335]
+   Klemm K, 2003, PHYS REV E, V67, DOI 10.1103/PhysRevE.67.026120
+   Latane Bibb., 1997, Progress in communication sciences, P43
+   Lazarsfeld P.F., 1954, Freedom and Control in Modern Society, P18, DOI DOI 10.1111/J.1467-8705.2012.02056_3.X
+   Macy M.W., 2009, The Oxford Handbook of Analytical Sociology, P245
+   Macy MW, 2003, DYNAMIC SOCIAL NETWORK MODELING AND ANALYSIS, P162
+   Mark N, 1998, AM SOCIOL REV, V63, P309, DOI 10.2307/2657552
+   Mark NP, 2003, AM SOCIOL REV, V68, P319, DOI 10.2307/1519727
+   MASSEY DS, 1989, DEMOGRAPHY, V26, P373, DOI 10.2307/2061599
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   NOWAK A, 1997, CONNECTIONIST MODELS, P277
+   Parisi D, 2003, J CONFLICT RESOLUT, V47, P163, DOI 10.1177/0022002702251025
+   Shibanai Y, 2001, J CONFLICT RESOLUT, V45, P80, DOI 10.1177/0022002701045001004
+   Watts DJ, 1999, AM J SOCIOL, V105, P493, DOI 10.1086/210318
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+NR 41
+TC 154
+Z9 170
+U1 5
+U2 64
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 0022-250X
+EI 1545-5874
+J9 J MATH SOCIOL
+JI J. Math. Sociol.
+PY 2011
+VL 35
+IS 1-3
+BP 146
+EP 176
+DI 10.1080/0022250X.2010.532261
+PG 31
+WC Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods; Sociology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Mathematical Methods In Social Sciences; Sociology
+GA 715HG
+UT WOS:000286873200006
+OA Bronze, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Aral, S
+   Van Alstyne, M
+AF Aral, Sinan
+   Van Alstyne, Marshall
+TI The Diversity-Bandwidth Trade-off
+SO AMERICAN JOURNAL OF SOCIOLOGY
+LA English
+DT Article
+ID STRUCTURAL HOLES; SOCIAL NETWORKS; AUTO-CORRELATION; WORK GROUPS;
+   KNOWLEDGE; INFORMATION; CONSEQUENCES; PERFORMANCE; DYNAMICS; DESIGN
+AB The authors propose that a trade-off between network diversity and communications bandwidth regulates access to novel information because a more diverse network structure increases novelty at a cost of reducing information flow. Received novelty then depends on whether (a) the information overlap is small enough, (b) alters' topical knowledge is shallow enough, and (c) alters' knowledge stocks refresh slowly enough to justify bridging structural holes. Social network and e-mail content from an executive recruiting firm show that bridging ties can actually offer less novelty for these reasons, suggesting that the strength of weak ties and structural holes depend on brokers' information environments.
+C1 [Aral, Sinan] NYU, Stern Sch Business, New York, NY 10027 USA.
+   [Van Alstyne, Marshall] Boston Univ, Sch Management, Boston, MA 02215 USA.
+C3 New York University; Boston University
+RP Aral, S (corresponding author), NYU, Stern Sch Business, New York, NY 10027 USA.
+EM sinan@stern.nyu.edu
+OI Aral, Sinan/0000-0002-2762-058X; Van Alstyne,
+   Marshall/0000-0002-1729-8814
+FU Direct For Computer & Info Scie & Enginr; Div Of Information &
+   Intelligent Systems [0953832] Funding Source: National Science
+   Foundation
+CR Allen T. J., 1977, Managing the Flow of Technology: Technology Transfer and the Dissemination of Technological Information within the RD Organization
+   ANCONA DG, 1992, ORGAN SCI, V3, P321, DOI 10.1287/orsc.3.3.321
+   [Anonymous], P 28 ANN INT C INF S
+   [Anonymous], 2002, Distributed work
+   ARAL S, MANAGEMENT IN PRESS
+   ARAL S, 2007, 13172 NAT BUR EC RES
+   Aral S, 2011, MARKET SCI, V30, P217, DOI 10.1287/mksc.1100.0596
+   Aral S, 2009, P NATL ACAD SCI USA, V106, P21544, DOI 10.1073/pnas.0908800106
+   Argote L., 1999, ORG LEARNING CREATIN, DOI 10.1111/j.1552-6909.1999.tb01970.x
+   BAKER WE, 1984, AM J SOCIOL, V89, P775, DOI 10.1086/227944
+   BAKER WE, 1990, AM J SOCIOL, V96, P589, DOI 10.1086/229573
+   Bell D., 1973, The Coming of Post-Industrial Society: A Venture in Social Forecasting
+   Blau P.M., 1968, INT ENCYCL SOC SCI, V7, P452, DOI [DOI 10.1016/0049-089X(72)90055-5, 10.33206/mjss.640929, DOI 10.33206/MJSS.640929]
+   Burt RS, 2008, IND CORP CHANGE, V17, P953, DOI 10.1093/icc/dtn033
+   Burt RS, 2007, ACAD MANAGE J, V50, P119, DOI 10.5465/AMJ.2007.24162082
+   Burt RS, 2000, RES ORGAN BEHAV, V22, P345, DOI 10.1016/S0191-3085(00)22009-1
+   BURT RS, 1992, NETWORKS AND ORGANIZATIONS : STRUCTURE, FORM, AND ACTION, P57
+   Burt RS, 2004, AM J SOCIOL, V110, P349, DOI 10.1086/421787
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   Charmaz K., 2006, Brokerage and closure: An introduction to social capital
+   COHEN WM, 1990, ADMIN SCI QUART, V35, P128, DOI 10.2307/2393553
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   Cramton CD, 2001, ORGAN SCI, V12, P346, DOI 10.1287/orsc.12.3.346.10098
+   Cummings JN, 2004, MANAGE SCI, V50, P352, DOI 10.1287/mnsc.1030.0134
+   Cummings JN, 2003, SOC NETWORKS, V25, P197, DOI 10.1016/S0378-8733(02)00049-7
+   Currarini S, 2010, P NATL ACAD SCI USA, V107, P4857, DOI 10.1073/pnas.0911793107
+   Currarini S, 2009, ECONOMETRICA, V77, P1003, DOI 10.3982/ECTA7528
+   DOREIAN P, 1980, SOCIOL METHOD RES, V9, P29, DOI 10.1177/004912418000900102
+   DOW MM, 1982, SOC NETWORKS, V4, P169, DOI 10.1016/0378-8733(82)90031-4
+   Drew P., 1992, TALK WORK, P3
+   Driscoll JC, 1998, REV ECON STAT, V80, P549, DOI 10.1162/003465398557825
+   EISENHARDT KM, 1989, ACAD MANAGE J, V32, P543, DOI 10.5465/256434
+   Eliasoph N, 1996, SOCIOL THEOR, V14, P262, DOI 10.2307/3045389
+   Finlay W, 2000, WORK OCCUPATION, V27, P377, DOI 10.1177/0730888400027003006
+   FRIEDKIN NE, 1984, SOCIOL METHOD RES, V12, P235, DOI 10.1177/0049124184012003001
+   GALBRAITH JR, 1974, INTERFACES, V4, P28, DOI 10.1287/inte.4.3.28
+   Gibson DR, 2005, AM J SOCIOL, V110, P1561, DOI 10.1086/428689
+   GLAZER R, 1991, J MARKETING, V55, P1, DOI 10.2307/1251953
+   GLAZER R, 1993, J MARKETING RES, V30, P509, DOI 10.2307/3172694
+   Goffman E., 1961, ENCOUNTERS 2 STUDIES
+   GRANOVETTER M, 1978, AM J SOCIOL, V83, P1420, DOI 10.1086/226707
+   GRANOVETTER M, 1992, NETWORKS AND ORGANIZATIONS : STRUCTURE, FORM, AND ACTION, P25
+   GRANOVETTER M, 1985, AM J SOCIOL, V91, P481, DOI 10.1086/228311
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Hansen MT, 1999, ADMIN SCI QUART, V44, P82, DOI 10.2307/2667032
+   Hansen MT, 2002, ORGAN SCI, V13, P232, DOI 10.1287/orsc.13.3.232.2771
+   Hargadon A, 1997, ADMIN SCI QUART, V42, P716, DOI 10.2307/2393655
+   HAUSMAN JA, 1978, ECONOMETRICA, V46, P1251, DOI 10.2307/1913827
+   Helper S., 2000, Industrial and corporate change, V9, P443, DOI DOI 10.1093/ICC/9.3.443
+   HUBER GP, 1984, MANAGE SCI, V30, P928, DOI 10.1287/mnsc.30.8.928
+   Kossinets G, 2006, SCIENCE, V311, P88, DOI 10.1126/science.1116869
+   Kossinets G, 2009, AM J SOCIOL, V115, P405, DOI 10.1086/599247
+   KRACKHARDT D, 1987, SOC NETWORKS, V9, P109, DOI 10.1016/0378-8733(87)90009-8
+   KRACKHARDT D, 1990, ADMIN SCI QUART, V35, P342, DOI 10.2307/2393394
+   Krackhardt D, 1999, J PERS SOC PSYCHOL, V76, P770, DOI 10.1037/0022-3514.76.5.770
+   KUMBASAR E, 1994, AM J SOCIOL, V100, P477, DOI 10.1086/230544
+   Kutner M.H., 2004, Applied Linear Regression Models, Vfourth
+   Lave J., 1991, SITUATED LEARNING LE
+   Lazer D, 2007, ADMIN SCI QUART, V52, P667, DOI 10.2189/asqu.52.4.667
+   LIANG DW, 1995, PERS SOC PSYCHOL B, V21, P384, DOI 10.1177/0146167295214009
+   Lichterman Paul., 1996, SEARCH POLITICAL COM, DOI [10.1017/CBO9780511628146, DOI 10.1017/CBO9780511628146]
+   Lin N., 2002, SOCIAL CAPITAL THEOR
+   Lingo EL, 2010, ADMIN SCI QUART, V55, P47, DOI 10.2189/asqu.2010.55.1.47
+   LOFTIN C, 1983, AM SOCIOL REV, V48, P121, DOI 10.2307/2095150
+   March JG, 1991, ORGAN SCI, V2, P71, DOI 10.1287/orsc.2.1.71
+   MARSDEN PV, 1990, ANNU REV SOCIOL, V16, P435, DOI 10.1146/annurev.so.16.080190.002251
+   MARSDEN PV, 1993, SOCIOL METHOD RES, V22, P127, DOI 10.1177/0049124193022001006
+   McLean PD, 1998, AM J SOCIOL, V104, P51, DOI 10.1086/210002
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mische A, 1998, SOC RES, V65, P695
+   Mische Ann., 2003, Social Movements and Networks: Relational Approaches to Collective Action, P258
+   MONTGOMERY JD, 1991, AM ECON REV, V81, P1408
+   Moreno JL, 1940, SOCIOMETRY, V3, P62, DOI 10.2307/2785546
+   NEWCOMB T, 1958, AM SOCIOL REV, V23, P742, DOI 10.2307/2089062
+   Newcomb Theodore M., 1961, The acquaintance process, DOI [10.1037/13156-000, DOI 10.1037/13156-000]
+   Obstfeld D, 2005, ADMIN SCI QUART, V50, P100, DOI 10.2189/asqu.2005.50.1.100
+   ORD K, 1975, J AM STAT ASSOC, V70, P120, DOI 10.2307/2285387
+   PADGETT JF, 1993, AM J SOCIOL, V98, P1259, DOI 10.1086/230190
+   Pfeffer J., 1983, RES ORGAN BEHAV, V5, P299, DOI DOI 10.2307/2392635
+   Podolny JM, 1997, AM SOCIOL REV, V62, P673, DOI 10.2307/2657354
+   Podolny JM, 2001, AM J SOCIOL, V107, P33, DOI 10.1086/323038
+   PUTNAM R, 1995, J DEMOCRACY, V0006
+   Reagans R, 2003, ADMIN SCI QUART, V48, P240, DOI 10.2307/3556658
+   Reagans R, 2001, ORGAN SCI, V12, P502, DOI 10.1287/orsc.12.4.502.10637
+   Reagans RE, 2008, IND CORP CHANGE, V17, P979, DOI 10.1093/icc/dtn037
+   Reagans RE, 2008, IND CORP CHANGE, V17, P903, DOI 10.1093/icc/dtn036
+   REYNOLDS M, 2009, P 8 ANN SEC C DISC S, P41
+   Rodan S, 2004, STRATEGIC MANAGE J, V25, P541, DOI 10.1002/smj.398
+   Russell Bernard., 1981, Connections, V4, P11
+   SALTON G, 1975, COMMUN ACM, V18, P613, DOI 10.1145/361219.361220
+   Schelling T., 1978, MICROMOTIVES MACROBE
+   Simmel Georg., 1955, Conflict and the Web of Group-Affiliations
+   Simon HA, 1991, ORGAN SCI, V2, P125, DOI 10.1287/orsc.2.1.125
+   Sparrowe RT, 2001, ACAD MANAGE J, V44, P316, DOI 10.5465/3069458
+   Steinberg MW, 1999, AM J SOCIOL, V105, P736, DOI 10.1086/210359
+   SWEDBERG RICHARD., 1990, ECONOMICS AND SOCIOLOGY
+   Szulanski G, 1996, STRATEGIC MANAGE J, V17, P27, DOI 10.1002/smj.4250171105
+   Tardos, 2003, P 9 ACM SIGKDD INT C, P137, DOI 10.1145/956750.956769
+   Tsai WP, 1998, ACAD MANAGE J, V41, P464, DOI 10.5465/257085
+   Uzzi B, 2005, AM J SOCIOL, V111, P447, DOI 10.1086/432782
+   Uzzi B, 1997, ADMIN SCI QUART, V42, P35, DOI 10.2307/2393808
+   Uzzi B, 1996, AM SOCIOL REV, V61, P674, DOI 10.2307/2096399
+   Van Alstyne M, 2005, MANAGE SCI, V51, P851, DOI 10.1287/mnsc.1050.0363
+   Van Alstyne M, 2004, NETWORK SOCIETY: A CROSS-CULTURAL PERSPECTIVE, P145
+   VANALSTYNE M, 2003, M N AM ASS COMP SOC
+   Walker G, 1997, ORGAN SCI, V8, P109, DOI 10.1287/orsc.8.2.109
+   Watts DJ, 1999, AM J SOCIOL, V105, P493, DOI 10.1086/210318
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   WEGNER E, 1987, THEORIES GROUP BEHAV, P185
+   Weick KE, 2015, MANAGEMENT, V18, P189, DOI 10.3917/mana.182.0189
+   Weitzman ML, 1998, Q J ECON, V113, P331, DOI 10.1162/003355398555595
+   WHITE H, 1980, ECONOMETRICA, V48, P817, DOI 10.2307/1912934
+   White HC, 1995, SOC RES, V62, P1035
+   White HC, 2000, POETICS, V27, P117, DOI 10.1016/S0304-422X(99)00027-3
+   Wu F, 2004, PHYSICA A, V337, P327, DOI 10.1016/j.physa.2004.01.030
+NR 115
+TC 325
+Z9 396
+U1 5
+U2 108
+PU UNIV CHICAGO PRESS
+PI CHICAGO
+PA 1427 E 60TH ST, CHICAGO, IL 60637-2954 USA
+SN 0002-9602
+EI 1537-5390
+J9 AM J SOCIOL
+JI Am. J. Sociol.
+PD JUL
+PY 2011
+VL 117
+IS 1
+BP 90
+EP 171
+DI 10.1086/661238
+PG 82
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA 816EP
+UT WOS:000294581800003
+DA 2024-11-22
+ER
+
+PT J
+AU Fowler, JH
+   Settle, JE
+   Christakis, NA
+AF Fowler, James H.
+   Settle, Jaime E.
+   Christakis, Nicholas A.
+TI Correlated genotypes in friendship networks
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE social networks; gene-environment interaction; indirect genetic effects
+ID ENVIRONMENTAL-INFLUENCES; GENE; ASSOCIATION; LINKAGE; DYNAMICS;
+   BEHAVIOR; SMOKING; TRAITS; MODELS; CHOICE
+AB It is well known that humans tend to associate with other humans who have similar characteristics, but it is unclear whether this tendency has consequences for the distribution of genotypes in a population. Although geneticists have shown that populations tend to stratify genetically, this process results from geographic sorting or assortative mating, and it is unknown whether genotypes may be correlated as a consequence of nonreproductive associations or other processes. Here, we study six available genotypes from the National Longitudinal Study of Adolescent Health to test for genetic similarity between friends. Maps of the friendship networks show clustering of genotypes and, after we apply strict controls for population stratification, the results show that one genotype is positively correlated (homophily) and one genotype is negatively correlated (heterophily). A replication study in an independent sample from the Framingham Heart Study verifies that DRD2 exhibits significant homophily and that CYP2A6 exhibits significant heterophily. These unique results show that homophily and heterophily obtain on a genetic (indeed, an allelic) level, which has implications for the study of population genetics and social behavior. In particular, the results suggest that association tests should include friends' genes and that theories of evolution should take into account the fact that humans might, in some sense, be metagenomic with respect to the humans around them.
+C1 [Fowler, James H.] Univ Calif San Diego, Div Med Genet, La Jolla, CA 92093 USA.
+   [Fowler, James H.; Settle, Jaime E.] Univ Calif San Diego, Dept Polit Sci, La Jolla, CA 92093 USA.
+   [Christakis, Nicholas A.] Harvard Univ, Sch Med, Dept Med, Boston, MA 02115 USA.
+   [Christakis, Nicholas A.] Harvard Univ, Sch Med, Dept Hlth Care Policy, Boston, MA 02115 USA.
+   [Christakis, Nicholas A.] Harvard Univ, Dept Sociol, Fac Arts & Sci, Cambridge, MA 02138 USA.
+C3 University of California System; University of California San Diego;
+   University of California System; University of California San Diego;
+   Harvard University; Harvard Medical School; Harvard University; Harvard
+   Medical School; Harvard University
+RP Fowler, JH (corresponding author), Univ Calif San Diego, Div Med Genet, La Jolla, CA 92093 USA.
+EM jhfowler@ucsd.edu
+RI Christakis, Nicholas/B-6690-2008; Fowler, James/C-2750-2008
+OI Fowler, James/0000-0001-7795-1638
+FU National Institute on Aging [P-01 AG031093, P30 AG034420]; National
+   Institutes of Health [P-41 RR031228]; National Science Foundation
+   [SES-0719404]; National Heart, Lung, and Blood Institute [N01 HC25195]
+FX We thank Ting Wu for helpful comments. This work was supported in part
+   by Grants P-01 AG031093 and P30 AG034420 from the National Institute on
+   Aging, Grant P-41 RR031228 from the National Institutes of Health, and
+   SES-0719404 from the National Science Foundation. The Framingham Heart
+   Study is supported by a contract from the National Heart, Lung, and
+   Blood Institute (N01 HC25195).
+CR Abecasis GR, 2000, AM J HUM GENET, V66, P279, DOI 10.1086/302698
+   Biscarini F, 2010, BEHAV GENET, V40, P715, DOI 10.1007/s10519-010-9370-0
+   Burt A, 2009, J PERS SOC PSYCHOL, V96, P783, DOI 10.1037/a0013702
+   Campbell CD, 2005, NAT GENET, V37, P868, DOI 10.1038/ng1607
+   Chaine AS, 2010, EVOLUTION, V64, P1290, DOI 10.1111/j.1558-5646.2009.00902.x
+   Christakis N.A., 2010, NBER Working Paper 16039
+   Christakis NA, 2008, NEW ENGL J MED, V358, P2249, DOI 10.1056/NEJMsa0706154
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   CUPPLES LA, 1988, PUBLICATION NATL HEA
+   Distel MA, 2010, BEHAV GENET, V40, P480, DOI 10.1007/s10519-010-9341-5
+   Dudley SA, 2007, BIOLOGY LETT, V3, P435, DOI 10.1098/rsbl.2007.0232
+   Fowler JH, 2010, P NATL ACAD SCI USA, V107, P5334, DOI 10.1073/pnas.0913149107
+   Fowler JH, 2009, P NATL ACAD SCI USA, V106, P1720, DOI 10.1073/pnas.0806746106
+   Fowler JH, 2008, BMJ-BRIT MED J, V337, DOI 10.1136/bmj.a2338
+   Frayling TM, 2007, SCIENCE, V316, P889, DOI 10.1126/science.1141634
+   Griffin AS, 2003, SCIENCE, V302, P634, DOI 10.1126/science.1089402
+   Guo G, 2006, TWIN RES HUM GENET, V9, P113, DOI 10.1375/twin.9.1.113
+   HAMILTON W. D., 1975, BIOSOCIAL ANTHR
+   Harris K.M., The National Longitudinal Study of Adolescent Health: Research Design
+   Herrmann E, 2007, SCIENCE, V317, P1360, DOI 10.1126/science.1146282
+   Holldobler B., 1990, pi
+   Iervolino AC, 2002, CHILD DEV, V73, P162, DOI 10.1111/1467-8624.00398
+   Jacobson KC, 1998, BEHAV GENET, V28, P265, DOI 10.1023/A:1021619329904
+   KANNEL WB, 1979, AM J EPIDEMIOL, V110, P281, DOI 10.1093/oxfordjournals.aje.a112813
+   Kendler KS, 2007, PSYCHOL MED, V37, P615, DOI 10.1017/S0033291706009524
+   Le Foll B, 2009, BEHAV PHARMACOL, V20, P1, DOI 10.1097/FBP.0b013e3283242f05
+   Lee HH, 2010, NATURE, V467, P82, DOI 10.1038/nature09354
+   Ley RE, 2008, SCIENCE, V320, P1647, DOI 10.1126/science.1155725
+   Lieberman E, 2005, NATURE, V433, P312, DOI 10.1038/nature03204
+   Manolio TA, 2007, NAT GENET, V39, P1045, DOI 10.1038/ng2127
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Novembre J, 2008, NATURE, V456, P98, DOI 10.1038/nature07331
+   Ober C, 1997, AM J HUM GENET, V61, P497, DOI 10.1086/515511
+   OMALLEY AJ, 2011, STAT MED IN PRESS
+   Purcell S, 2007, AM J HUM GENET, V81, P559, DOI 10.1086/519795
+   Quan SF, 1997, SLEEP, V20, P1077
+   SCARR S, 1983, CHILD DEV, V54, P424, DOI 10.2307/1129703
+   Serretti A, 2007, AM J MED GENET B, V144B, P291, DOI 10.1002/ajmg.b.30432
+   SMITH JM, 1976, Q REV BIOL, V51, P277, DOI 10.1086/409311
+   SPIELMAN RS, 1993, AM J HUM GENET, V52, P506
+   Spielman RS, 1998, AM J HUM GENET, V62, P450, DOI 10.1086/301714
+   Sullivan PatrickF., 2008, Statistical Genetics; Gene Mapping Through Linkage and Association, P355
+   Turnbaugh PJ, 2007, NATURE, V449, P804, DOI 10.1038/nature06244
+   Waga C, 2007, DRUG CHEM TOXICOL, V30, P343, DOI 10.1080/01480540701522338
+   Waldman ID, 1999, ANN HUM GENET, V63, P329, DOI 10.1046/j.1469-1809.1999.6340329.x
+   WILSON DS, 1983, ANNU REV ECOL SYST, V14, P159, DOI 10.1146/annurev.es.14.110183.001111
+   WILSON DS, 1975, P NATL ACAD SCI USA, V72, P143, DOI 10.1073/pnas.72.1.143
+   Xu Xiaohui, 2009, BMC Res Notes, V2, P71, DOI 10.1186/1756-0500-2-71
+   Zeng Z, 2008, AM J SOCIOL, V114, P615, DOI 10.1086/592863
+   Zorn CJW, 2001, AM J POLIT SCI, V45, P470, DOI 10.2307/2669353
+   Zou GY, 2006, ANN HUM GENET, V70, P262, DOI 10.1111/j.1529-8817.2005.00213.x
+NR 51
+TC 122
+Z9 147
+U1 1
+U2 68
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD FEB 1
+PY 2011
+VL 108
+IS 5
+BP 1993
+EP 1997
+DI 10.1073/pnas.1011687108
+PG 5
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 714JA
+UT WOS:000286804700047
+PM 21245293
+OA Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Noel, H
+   Nyhan, B
+AF Noel, Hans
+   Nyhan, Brendan
+TI The "unfriending" problem: The consequences of homophily in friendship
+   retention for causal estimates of social influence
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Contagion; Social influence; Peer influence; Peer effects; Homophily;
+   Friendship retention; Unfriending; Friendship attrition
+ID NETWORKS; IDENTIFICATION; BEHAVIOR; SPREAD; SELECTION; CONTAGION;
+   OBESITY
+AB An increasing number of scholars are using longitudinal social network data to try to obtain estimates of peer or social influence effects. These data may provide additional statistical leverage, but they can introduce new inferential problems. In particular, while the confounding effects of homophily in friendship formation are widely appreciated, homophily in friendship retention may also confound causal estimates of social influence in longitudinal network data. We provide evidence for this claim in a Monte Carlo analysis of the statistical model used by Christakis, Fowler. and their colleagues in numerous articles estimating "contagion" effects in social networks. Our results indicate that homophily in friendship retention induces significant upward bias and decreased coverage levels in the Christakis and Fowler model if there is non-negligible friendship attrition over time. (C) 2011 Elsevier B.V. All rights reserved.
+C1 [Noel, Hans] Georgetown Univ, Washington, DC 20057 USA.
+   [Nyhan, Brendan] Univ Michigan, Ann Arbor, MI 48109 USA.
+C3 Georgetown University; University of Michigan System; University of
+   Michigan
+RP Noel, H (corresponding author), Georgetown Univ, Washington, DC 20057 USA.
+EM hcn4@georgetown.edu; bnyhan@umich.edu
+RI Nyhan, Brendan/F-3704-2012
+CR ANDERSON LB, TREND OBESITY UNPUB
+   [Anonymous], 2011, Statistics, Politics, and Policy, DOI [DOI 10.2202/2151, DOI 10.2202/2151-7509.1024]
+   [Anonymous], 2008, Proceedings of the 15th ACM SIGKDD international conference on Knowledge discovery and data mining, DOI [10.1145/1401890.1401897, DOI 10.1145/1401890.1401897]
+   Aral S, 2009, P NATL ACAD SCI USA, V106, P21544, DOI 10.1073/pnas.0908800106
+   BARNES MG, EC INSECURITY UNPUB
+   Bramoullé Y, 2009, J ECONOMETRICS, V150, P41, DOI 10.1016/j.jeconom.2008.12.021
+   BROWN H, GOING SAME WEI UNPUB
+   Burt RS, 2000, SOC NETWORKS, V22, P1, DOI 10.1016/S0378-8733(99)00015-5
+   Cacioppo JT, 2009, J PERS SOC PSYCHOL, V97, P977, DOI 10.1037/a0016076
+   Cairns Robert D., 1995, LIFELINES RISKS PATH
+   Carrell SE, 2011, J PUBLIC ECON, V95, P657, DOI 10.1016/j.jpubeco.2010.12.005
+   Christakis N.A., 2010, Technical Report
+   Christakis NA, 2009, Connected: The Surprising Power of Our Social Networks and How They Shape Our Lives
+   Christakis NA, 2008, NEW ENGL J MED, V358, P2249, DOI 10.1056/NEJMsa0706154
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   Cohen-Cole E, 2008, J HEALTH ECON, V27, P1382, DOI 10.1016/j.jhealeco.2008.04.005
+   Cohen-Cole E, 2008, BMJ-BRIT MED J, V337, DOI 10.1136/bmj.a2533
+   de la Haye K, 2010, SOC NETWORKS, V32, P161, DOI 10.1016/j.socnet.2009.09.001
+   DEGIRMENCIOGLU SM, 1998, MERRILLPALMER Q, V44
+   Ellen JM, 2009, J ADOLESCENT HEALTH, V45, P109, DOI 10.1016/j.jadohealth.2009.05.008
+   Fowler JH, 2008, J HEALTH ECON, V27, P1400, DOI 10.1016/j.jhealeco.2008.07.001
+   Fowler JH, 2011, AM POLIT RES, V39, P437, DOI 10.1177/1532673X10396310
+   Fowler JH, 2010, P NATL ACAD SCI USA, V107, P5334, DOI 10.1073/pnas.0913149107
+   Fowler JH, 2008, BMJ-BRIT MED J, V337, DOI 10.1136/bmj.a2338
+   Grannis R, 2010, AM J SOCIOL, V115, P991, DOI 10.1086/649059
+   Halliday TJ, 2009, ECON HUM BIOL, V7, P181, DOI 10.1016/j.ehb.2009.05.002
+   HALLINAN MT, 1987, AM SOCIOL REV, V52, P653, DOI 10.2307/2095601
+   KANDEL DB, 1978, AM J SOCIOL, V84, P427, DOI 10.1086/226792
+   Kossinets G, 2009, AM J SOCIOL, V115, P405, DOI 10.1086/599247
+   Kremer M, 2008, J ECON PERSPECT, V22, P189, DOI 10.1257/jep.22.3.189
+   Lazer D, 2010, POLIT COMMUN, V27, P248, DOI 10.1080/10584609.2010.500187
+   MANSKI CF, 1993, REV ECON STUD, V60, P531, DOI 10.2307/2298123
+   MCDERMOTT R, BREAKING IS HA UNPUB
+   McFerran B, 2010, J CONSUM PSYCHOL, V20, P146, DOI 10.1016/j.jcps.2010.03.006
+   McFerran B, 2010, J CONSUM RES, V36, P915, DOI 10.1086/644611
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mednick SC, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0009775
+   MOLLENHORST GW, 2009, THESIS U UTRECHT
+   MOODY J, THESIS U N CAROLINA
+   Newcomb AF, 1999, MINN SYM CHILD PSYCH, V30, P63
+   Nickerson DW, 2008, AM POLIT SCI REV, V102, P49, DOI 10.1017/S0003055408080039
+   OMALLEY AJ, LONGITUDINAL A UNPUB
+   POPIELARZ PA, 1995, AM J SOCIOL, V101, P698, DOI 10.1086/230757
+   Rosenquist JN, 2010, ANN INTERN MED, V152, P426, DOI 10.7326/0003-4819-152-7-201004060-00007
+   ROSENQUIST JN, 2010, MOL PSYCHIAT
+   Sacerdote B, 2001, Q J ECON, V116, P681, DOI 10.1162/00335530151144131
+   Shalizi CR, 2011, SOCIOL METHOD RES, V40, P211, DOI 10.1177/0049124111404820
+   Soetevent AR, 2006, J ECON SURV, V20, P193, DOI 10.1111/j.0950-0804.2006.00280.x
+   Steglich C, 2010, SOCIOL METHODOL, V40, P329, DOI 10.1111/j.1467-9531.2010.01225.x
+   THOMAS AC, EFFECT CENSORI UNPUB
+   Trogdon JG, 2008, J HEALTH ECON, V27, P1388, DOI 10.1016/j.jhealeco.2008.05.003
+   TUMA NB, 1979, SOC FORCES, V57, P1265, DOI 10.2307/2577270
+   Valente TW, 2009, J ADOLESCENT HEALTH, V45, P202, DOI 10.1016/j.jadohealth.2009.01.007
+   Verlegh P. W., J CONSUMER IN PRESS
+   Zimmerman DJ, 2003, REV ECON STAT, V85, P9, DOI 10.1162/003465303762687677
+NR 55
+TC 89
+Z9 102
+U1 1
+U2 49
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JUL
+PY 2011
+VL 33
+IS 3
+BP 211
+EP 218
+DI 10.1016/j.socnet.2011.05.003
+PG 8
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 815IV
+UT WOS:000294520200004
+OA Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Iribarren, JL
+   Moro, E
+AF Luis Iribarren, Jose
+   Moro, Esteban
+TI <i>Affinity Paths</i> and information diffusion in social networks
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Viral marketing; Diffusion models; Social networks; Complex systems
+ID INFLUENTIALS; SCIENCE
+AB Widespread interest in the diffusion of information through social networks has produced a large number of Social Dynamics models. A majority of them use theoretical hypothesis to explain their diffusion mechanisms while the few empirically based ones average out their measures over many messages of different contents. Our empirical research tracking the step-by-step email propagation of an invariable viral marketing message delves into the content impact and has discovered new and striking features. The topology and dynamics of the propagation cascades display patterns not inherited from the email networks carrying the message. Their disconnected, low transitivity, tree-like cascades present positive correlation between their nodes probability to forward the message and the average number of neighbors they target and show increased participants' involvement as the propagation paths length grows. Such patterns not described before, nor replicated by any of the existing models of information diffusion, can be explained if participants make their pass-along decisions based uniquely on local knowledge of their network neighbors affinity with the message content. We prove the plausibility of such mechanism through a stylized, agent-based model that replicates the Affinity Paths observed in real information diffusion cascades. (C) 2010 Elsevier B.V. All rights reserved.
+C1 [Luis Iribarren, Jose; Moro, Esteban] Univ Autonoma Madrid, Inst Ingn Conocimiento, E-28049 Madrid, Spain.
+   [Moro, Esteban] Univ Carlos III Madrid, Dept Matemat, Inst Ciencias Matemat CSIC UAM UC3M UCM, Madrid 28911, Spain.
+   [Moro, Esteban] Univ Carlos III Madrid, GISC, Madrid 28911, Spain.
+C3 Autonomous University of Madrid; Consejo Superior de Investigaciones
+   Cientificas (CSIC); CSIC - Instituto de Ciencia de Materiales de Madrid
+   (ICMM); CSIC - Instituto de Ciencias Matematicas (ICMAT); Universidad
+   Carlos III de Madrid; Universidad Carlos III de Madrid
+RP Iribarren, JL (corresponding author), Univ Autonoma Madrid, Inst Ingn Conocimiento, Francisco Tomas y Valiente 11,EPS Edificio B,Plan, E-28049 Madrid, Spain.
+EM jose.iribarren@iic.uam.es
+RI Moro, Esteban/AAB-1159-2019
+OI MORO, ESTEBAN/0000-0003-2894-1024
+CR Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   [Anonymous], PERCOLATION MODEL PR
+   [Anonymous], 2002, THEORY BRANCHING PRO
+   [Anonymous], ACTA PHYS POLONICA B
+   [Anonymous], CONDMAT0212267
+   [Anonymous], HARVARD BUSINESS REV
+   [Anonymous], MANAGEMENT SCI
+   [Anonymous], P 16 ACM SIGKDD C KN
+   [Anonymous], PHYS REV E
+   [Anonymous], P WWW 2008
+   [Anonymous], 2005, Economie Publique (Public Economics), DOI 10.4000/economiepublique.1721
+   [Anonymous], IEEE T COMPUTATIONAL
+   [Anonymous], REV MARKETING SCI WO
+   Ball P., 2004, CRITICAL MASS ONE TH
+   Boccaletti S, 2006, PHYS REP, V424, P175, DOI 10.1016/j.physrep.2005.10.009
+   Callaway DS, 2001, PHYS REV E, V64, DOI 10.1103/PhysRevE.64.041902
+   Daley DJ., 1965, Rev. Mod. Phys, V1, P42, DOI DOI 10.1093/IMAMAT/1.1.42
+   Ebel H, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.035103
+   Eckmann JP, 2004, P NATL ACAD SCI USA, V101, P14333, DOI 10.1073/pnas.0405728101
+   FELD SL, 1991, AM J SOCIOL, V96, P1464, DOI 10.1086/229693
+   Galam S, 2003, PHYSICA A, V320, P571, DOI 10.1016/S0378-4371(02)01582-0
+   GRANOVETTER M, 1978, AM J SOCIOL, V83, P1420, DOI 10.1086/226707
+   Guardiola X, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.026121
+   Guimerà R, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.065103
+   Hethcote HW, 2000, SIAM REV, V42, P599, DOI 10.1137/S0036144500371907
+   Lazarsfeld, 1955, PERSONAL INFLUENCE P
+   Lazer D, 2009, SCIENCE, V323, P721, DOI 10.1126/science.1167742
+   Leskovec J., 2007, ACM Transactions on the Web (TWEB), V1
+   Liben-Nowell D, 2008, P NATL ACAD SCI USA, V105, P4633, DOI 10.1073/pnas.0708471105
+   Liu B, 2005, EUR J INNOV MANAG, V8, P240, DOI 10.1108/14601060510594701
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Nekovee M, 2007, PHYSICA A, V374, P457, DOI 10.1016/j.physa.2006.07.017
+   Newman MEJ, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.036122
+   Newman MEJ, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.208701
+   Pastor-Satorras R, 2001, PHYS REV E, V63, DOI 10.1103/PhysRevE.63.066117
+   Van den Bulte C, 2007, MARKET SCI, V26, P400, DOI 10.1287/mksc.1060.0224
+   Vilpponen Antti., 2006, J INTERACTIVE ADVERT, V6
+   Watts DJ, 2004, ANNU REV SOCIOL, V30, P243, DOI 10.1146/annurev.soc.30.020404.104342
+   Watts DJ, 2007, J CONSUM RES, V34, P441, DOI 10.1086/518527
+NR 39
+TC 45
+Z9 54
+U1 1
+U2 53
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD MAY
+PY 2011
+VL 33
+IS 2
+BP 134
+EP 142
+DI 10.1016/j.socnet.2010.11.003
+PG 9
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 771QI
+UT WOS:000291175400004
+OA Green Submitted
+DA 2024-11-22
+ER

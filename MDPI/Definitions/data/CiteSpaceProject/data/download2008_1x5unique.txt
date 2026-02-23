@@ -1,0 +1,456 @@
+
+PT J
+AU Mniszewski, SM
+   Del Valle, SY
+   Stroud, PD
+   Riese, JM
+   Sydoriak, SJ
+AF Mniszewski, S. M.
+   Del Valle, S. Y.
+   Stroud, P. D.
+   Riese, J. M.
+   Sydoriak, S. J.
+TI Pandemic simulation of antivirals plus school closures: buying time
+   until strain-specific vaccine is available
+SO COMPUTATIONAL AND MATHEMATICAL ORGANIZATION THEORY
+LA English
+DT Article
+DE epidemic modeling; agent-based simulation; social network dynamics
+ID INFLUENZA; STRATEGIES; CHILDREN
+AB A strain-specific vaccine is unlikely to be available in the early phases of a potential H5N1 avian influenza pandemic. It could be months and at the current production rate may not provide timely protection to the population. Intervention strategies that control the spread of infection will be necessary in this situation, such as the use of the US stockpile of antiviral medication coupled with a 6-month school closure. The agent-based simulation model, EpiSimS, was used to assess the impact of this intervention strategy followed by three different vaccine approaches: (1) 2-dose, 80% effective, (2) 1-dose, 30% effective, and (3) 1 dose, 80% effective. Simulations show that the combination of antivirals, school closures, and a strain-specific vaccine can reduce morbidity and mortality while in effect. A significant second infection wave can occur with current vaccine technology once school closures are relaxed, though an ideal vaccine is able to contain it. In our simulations, worker absenteeism increases in all cases mostly attributed to household adults staying home with children due to the school closures.
+C1 [Mniszewski, S. M.; Del Valle, S. Y.; Stroud, P. D.; Riese, J. M.; Sydoriak, S. J.] Los Alamos Natl Lab, Los Alamos, NM 87545 USA.
+C3 United States Department of Energy (DOE); Los Alamos National Laboratory
+RP Mniszewski, SM (corresponding author), Los Alamos Natl Lab, POB 1663, Los Alamos, NM 87545 USA.
+EM smm@lanl.gov; sdelvalle@lanl.gov; stroud@lanl.gov; jriese@lanl.gov;
+   sxs@lanl.gov
+RI Del Valle, Sara/AAG-5148-2021; Mniszewski, Susan/AAX-2025-2020
+OI Mniszewski, Susan/0000-0002-0077-0537
+CR Ackerman E., 1984, Simulation of infectious disease epidemics
+   [Anonymous], 2007, Washington Post
+   [Anonymous], 2006, GLOB PAND INFL ACT P
+   [Anonymous], 2005, HHS PAND INFL PLAN
+   Bell D, 2006, EMERG INFECT DIS, V12, P88
+   *BUR TRANSP STAT, 2003, BTS0305 NHTS
+   Colizza V, 2007, PLOS MED, V4, P95, DOI 10.1371/journal.pmed.0040013
+   DEJONG MD, 2001, NEW ENGL J MED, V353, P2667
+   Del Valle S, 2005, MATH BIOSCI, V195, P228, DOI 10.1016/j.mbs.2005.03.006
+   Esposito S, 2006, VACCINE, V24, P629, DOI 10.1016/j.vaccine.2005.08.054
+   FEDSON DS, 2003, CLIN INFECT DIS, V302, P1519
+   Ferguson NM, 2005, NATURE, V437, P209, DOI 10.1038/nature04017
+   Germann TC, 2006, P NATL ACAD SCI USA, V103, P5935, DOI 10.1073/pnas.0601266103
+   Heymann A, 2004, PEDIATR INFECT DIS J, V23, P675, DOI 10.1097/01.inf.0000128778.54105.06
+   Lin JT, 2006, LANCET, V368, P991, DOI 10.1016/S0140-6736(06)69294-5
+   Longini IM, 2004, AM J EPIDEMIOL, V159, P623, DOI 10.1093/aje/kwh092
+   MARKEL H, 2006, 0103D00171275 DEF TH
+   Michaels J., 2003, COMMERCIAL BUILDINGS
+   Monto AS, 2006, EMERG INFECT DIS, V12, P55, DOI 10.3201/eid1201.051068
+   Pang XH, 2003, JAMA-J AM MED ASSOC, V290, P3215, DOI 10.1001/jama.290.24.3215
+   Stroud P, 2007, JASSS-J ARTIF SOC S, V10
+   Tsolia MN, 2006, VACCINE, V24, P5970, DOI 10.1016/j.vaccine.2006.05.006
+   U.S. Government Accountability Office (GAO), 2004, FLU VACC REC SUPPL S
+   *US DEP HHS, 2006, ANT STAT ALL
+   *US DEP HHS, 2006, SCH DISTR K 12 PAND
+   *US DEP HHS, 2008, COMM STRAT PAND INFL
+   *US INS, 2003, EST UNA IMM POP RES
+   US-HSC, 2006, NAT STRAT PAND INFL
+   Viboud C, 2004, BRIT J GEN PRACT, V54, P684
+   Von Drehle D., 2005, WASHINGTON POST
+   Yee D., 1999, EMPLOYMENT DENSITY S
+NR 31
+TC 22
+Z9 24
+U1 0
+U2 6
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1381-298X
+EI 1572-9346
+J9 COMPUT MATH ORGAN TH
+JI Comput. Math. Organ. Theory
+PD SEP
+PY 2008
+VL 14
+IS 3
+BP 209
+EP 221
+DI 10.1007/s10588-008-9027-1
+PG 13
+WC Computer Science, Interdisciplinary Applications; Mathematics,
+   Interdisciplinary Applications; Social Sciences, Mathematical Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science; Mathematics; Mathematical Methods In Social Sciences
+GA 346ID
+UT WOS:000259061100002
+PM 32214872
+OA Green Submitted, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Wong, SS
+AF Wong, Sze-Sze
+TI Judgment about knowledge importance: the roles of social referents and
+   network structure
+SO HUMAN RELATIONS
+LA English
+DT Article
+DE advice network; groups; knowledge management; network theory; social
+   influence; social referents
+ID DECISION-MAKING; PERFORMANCE; POWER; TIES; PERCEPTIONS; PERSPECTIVE;
+   CENTRALITY; INNOVATION; PROXIMITY; ATTITUDES
+AB As division of labor in a group can often lead to differences in perceptions about the importance of different knowledge bases to a group task, these differences can hinder the integration of different knowledge to solve task problems in a group. This study examines the social referents that group members turn to for judgments about knowledge importance, and the extent to which the relative influence of each referent depends on the group-level social network structure. The findings indicate that group members are more likely to have shared judgments with their cohesive and structurally equivalent referents within their advice network, and the strength of social influence form their cohesive and structurally equivalent referents is likely to depend on the advice network density at the group-level. However, there was no significant association in judgment similarity between group members and their central referents within the advice network. Overall, this study suggests that while social influence (in its most straightforward form) occurs between pairs of individuals, the strength of influence of a social referent is dependent on how social cues are distributed within the group's network structure. Theoretical and managerial implications for research on shared mental models and network theory of social influence are discussed.
+C1 Nanyang Technol Univ, Nanyang Business Sch, Singapore, Singapore.
+C3 Nanyang Technological University
+RP Wong, SS (corresponding author), Nanyang Technol Univ, Nanyang Business Sch, Singapore, Singapore.
+EM aszewong@ntu.edu.sg
+CR [Anonymous], 1990, ORGAN BEHAV HUM DEC, DOI DOI 10.1016/0749-5978(90)90039-C
+   [Anonymous], UCINET 6 FOR WINDOWS
+   Bliese P.D., 2000, MULTILEVEL THEORY RE, P349, DOI DOI 10.12691/EDUCATION-3-1-14
+   BRASS DJ, 1984, ADMIN SCI QUART, V29, P518, DOI 10.2307/2392937
+   BRASS DJ, 1993, ACAD MANAGE J, V36, P441, DOI 10.5465/256588
+   BRASS DJ, 1992, NETWORKS AND ORGANIZATIONS : STRUCTURE, FORM, AND ACTION, P191
+   Bryk A. S., 1992, HIERARCHICAL LINEAR
+   Burt RonaldS., 1983, Applied Network Analysis, P262
+   BURT RS, 1987, AM J SOCIOL, V92, P1287, DOI 10.1086/228667
+   BURT RS, 1980, ANNU REV SOCIOL, V6, P79, DOI 10.1146/annurev.so.06.080180.000455
+   Cartwright D., 1965, HDB ORG, P1
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   DOUGHERTY D, 1992, ORGAN SCI, V3, P179, DOI 10.1287/orsc.3.2.179
+   Festinger L, 1954, HUM RELAT, V7, P117, DOI 10.1177/001872675400700202
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   FRIEDKIN NE, 1993, AM SOCIOL REV, V58, P861, DOI 10.2307/2095955
+   Gibbons DE, 2004, ADMIN SCI QUART, V49, P238
+   Glick WH., 1993, ORG CHANGE REDESIGN, P176
+   Goodman P.S., 1977, NEW DIRECTIONS ORG B
+   Goodman PS, 2007, ORGAN BEHAV HUM DEC, V102, P109, DOI 10.1016/j.obhdp.2006.10.005
+   HARTMAN RL, 1989, HUM COMMUN RES, V15, P523, DOI 10.1111/j.1468-2958.1989.tb00198.x
+   Hofmann DA, 1997, J MANAGE, V23, P723, DOI 10.1177/014920639702300602
+   IBARRA H, 1993, ADMIN SCI QUART, V38, P277, DOI 10.2307/2393414
+   Kidwell RE, 1997, J MANAGE, V23, P775, DOI 10.1016/S0149-2063(97)90029-5
+   KIRCHLER E, 1986, J PERS SOC PSYCHOL, V51, P83, DOI 10.1037/0022-3514.51.1.83
+   Klein KJ, 2001, J APPL PSYCHOL, V86, P3, DOI 10.1037/0021-9010.86.1.3
+   Krackhardt D, 1999, RES SOC ORG, V16, P183
+   KRACKHARDT D, 1988, SOC PSYCHOL QUART, V51, P123, DOI 10.2307/2786835
+   KRACKHARDT D, 1990, ADMIN SCI QUART, V35, P342, DOI 10.2307/2393394
+   KRACKHARDT D, 1986, J APPL PSYCHOL, V71, P50, DOI 10.1037/0021-9010.71.1.50
+   Lawrence BS, 2006, ORGAN SCI, V17, P80, DOI 10.1287/orsc.1050.0173
+   LEAVITT HJ, 1951, J ABNORM SOC PSYCH, V46, P38, DOI 10.1037/h0057189
+   MARSDEN PV, 1988, SOC NETWORKS, V10, P57, DOI 10.1016/0378-8733(88)90010-X
+   MARSDEN PV, 1990, ANNU REV SOCIOL, V16, P435, DOI 10.1146/annurev.so.16.080190.002251
+   MARSDEN PV, 1994, ADV SOCIAL NETWORK A, P1
+   Mehra A, 2006, ORGAN SCI, V17, P64, DOI 10.1287/orsc.1050.0158
+   MEYER GW, 1994, HUM RELAT, V47, P1013, DOI 10.1177/001872679404700901
+   MILANOVICH DM, 1998, GROUP DYNAMICS, V23, P155
+   Mohammed S, 2001, ORGAN BEHAV HUM DEC, V85, P310, DOI 10.1006/obhd.2000.2943
+   Podolny JM, 1997, AM SOCIOL REV, V62, P673, DOI 10.2307/2657354
+   Raudenbush S., 1989, MULTILEVEL MODELING, V1, P10
+   Raudenbush S.W., 1989, Multilevel Modelling Newsletter, V1, P8
+   Rentsch JR, 2001, J ORGAN BEHAV, V22, P107, DOI 10.1002/job.81
+   RICE RE, 1991, ADMIN SCI QUART, V36, P219, DOI 10.2307/2393354
+   Ridgeway C.L., 1984, Advances in Group Processes, V1, P59
+   SALANCIK GR, 1978, ADMIN SCI QUART, V23, P224, DOI 10.2307/2392563
+   Schn D.A., 1983, The reflective practitioner: How professionals think in action
+   Shah PP, 1998, ACAD MANAGE J, V41, P249, DOI 10.5465/256906
+   SHAW ME, 1964, ADV EXPT SOCIAL PSYC, P11
+   Sparrowe RT, 2001, ACAD MANAGE J, V44, P316, DOI 10.5465/3069458
+   TICHY N, 1979, HUM RELAT, V32, P923, DOI 10.1177/001872677903201103
+   Totterdell P, 2004, J APPL PSYCHOL, V89, P854, DOI 10.1037/0021-9010.89.5.854
+   Umphress EE, 2003, ORGAN SCI, V14, P738, DOI 10.1287/orsc.14.6.738.24865
+   WALKER G, 1985, ADMIN SCI QUART, V30, P103, DOI 10.2307/2392814
+   WALSH JP, 1988, ORGAN BEHAV HUM DEC, V42, P194, DOI 10.1016/0749-5978(88)90012-X
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   Wong SS, 2008, J ORGAN BEHAV, V29, P591, DOI 10.1002/job.490
+NR 57
+TC 19
+Z9 21
+U1 1
+U2 49
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0018-7267
+EI 1741-282X
+J9 HUM RELAT
+JI Hum. Relat.
+PD NOV
+PY 2008
+VL 61
+IS 11
+BP 1565
+EP 1591
+DI 10.1177/0018726708096638
+PG 27
+WC Management; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Business & Economics; Social Sciences - Other Topics
+GA 359AE
+UT WOS:000259957800003
+DA 2024-11-22
+ER
+
+PT J
+AU Simsek, O
+   Jensen, D
+AF Simsek, Oezguer
+   Jensen, David
+TI Navigating networks by using homophily and degree
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE complex networks; search algorithms; social network analysis
+ID SMALL-WORLD; SOCIAL NETWORKS; SEARCH
+AB Many large distributed systems can be characterized as networks where short paths exist between nearly every pair of nodes. These include social, biological, communication, and distribution networks, which often display power-law or small-world structure. A central challenge of distributed systems is directing messages to specific nodes through a sequence of decisions made by individual nodes without global knowledge of the network. We present a probabilistic analysis of this navigation problem that produces a surprisingly simple and effective method for directing messages. This method requires calculating only the product of the two measures widely used to summarize all local information. It outperforms prior approaches reported in the literature by a large margin, and it provides a formal model that may describe how humans make decisions in sociological studies intended to explore the social network as well as how they make decisions in more naturalistic settings.
+C1 [Simsek, Oezguer; Jensen, David] Univ Massachusetts, Dept Comp Sci, Amherst, MA 01003 USA.
+C3 University of Massachusetts System; University of Massachusetts Amherst
+RP Simsek, O (corresponding author), Univ Massachusetts, Dept Comp Sci, Amherst, MA 01003 USA.
+EM ozgur@cs.umass.edu
+OI Simsek, Ozgur/0000-0001-5449-0437; Jensen, David/0000-0001-5653-3349
+CR Adamic LA, 2001, PHYS REV E, V64, DOI 10.1103/PhysRevE.64.046135
+   Baeza-Yates R., 1999, MODERN INFORM RETRIE, V463
+   Dodds PS, 2003, SCIENCE, V301, P827, DOI 10.1126/science.1081058
+   KILLWORTH PD, 1978, SOC NETWORKS, V1, P159, DOI 10.1016/0378-8733(78)90018-7
+   Kleinberg J., 2000, Proceedings of the Thirty Second Annual ACM Symposium on Theory of Computing, P163, DOI 10.1145/335305.335325
+   KLEINBERG J, 2001, ADV NEURAL INFO PROC, V14, P163
+   Kleinberg JM, 2000, NATURE, V406, P845, DOI 10.1038/35022643
+   TRAVERS J, 1969, SOCIOMETRY, V32, P425, DOI 10.2307/2786545
+   Watts DJ, 2002, SCIENCE, V296, P1302, DOI 10.1126/science.1070120
+NR 9
+TC 73
+Z9 79
+U1 0
+U2 9
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD SEP 2
+PY 2008
+VL 105
+IS 35
+BP 12758
+EP 12762
+DI 10.1073/pnas.0800497105
+PG 5
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 350HJ
+UT WOS:000259343000027
+PM 18725637
+OA Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Crossley, N
+AF Crossley, Nick
+TI (Net)Working out: social capital in a private health club
+SO BRITISH JOURNAL OF SOCIOLOGY
+LA English
+DT Article
+DE social networks; social capital; gyms; health clubs; brokerage and
+   closure; established and outsiders
+ID NETWORKS; TIES
+AB In Bowling Alone Robert Putnam considers the possibility that the growth of private health clubs and the rising rates of membership to such clubs might represent a counter-trend to his thesis on the decline in social capital. In this paper I explore this idea using ethnographic data and social network analysis. I show both that and how networks form in health clubs and I discuss the ways in which these networks constitute social capital for their members. In addition, however, I explore the 'dark side' of this form of social capital. I argue that high integration amongst some members of a fitness class can generate a power differential between those members and other, less integrated members who experience this negatively. Furthermore, with an eye on Burt's (2005) important thesis on brokerage and closure, I argue that brokerage between relatively closed clusters of agents can lead to inter-group rivalry and conflict, which, in turn, is experienced negatively by those involved.
+C1 Univ Manchester, Sch Social Sci, Manchester M13 9PL, Lancs, England.
+C3 University of Manchester
+RP Crossley, N (corresponding author), Univ Manchester, Sch Social Sci, Manchester M13 9PL, Lancs, England.
+EM nicholas.crossley@Manchester.ac.uk
+OI Crossley, Nick/0000-0003-0969-9121
+CR [Anonymous], 2001, TIME MATTERS
+   [Anonymous], 2001, BOWLING ALONE BOWLIN
+   [Anonymous], 1999, Introducing Social Networks, DOI 10.4135/9781849209373
+   [Anonymous], COLLISION WILLS
+   [Anonymous], 1992, CONT SOCIOLOGICAL TH
+   [Anonymous], 1994, ESTABLISHED OUTSIDER
+   BECKER HS, 1960, AM J SOCIOL, V66, P32, DOI 10.1086/222820
+   Blumer H., 1986, SYMB INTERACT
+   BOUDIEU P, 1979, OUTLINE THEORY PRACT
+   BOURDIEU P., 1986, CULTURAL THEORY ANTH
+   Brody D., 2002, Journal of Contemporary Criminal Justice, V18, P115
+   BURT RS, 2005, BROKERAGE CLOSURE IN
+   Coleman J.S., 1994, FDN SOCIAL THEORY
+   Crossley N, 2006, BODY SOC, V12, P23, DOI 10.1177/1357034X06067154
+   Crossley Nick., 2004, BODY SOC, V10, P37, DOI [https://doi.org/10.1177/1357034x04041760, DOI 10.1177/1357034X04041760, 10.1177/1357034X04041760]
+   De Nooy W., 2018, EXPLORATORY SOCIAL N
+   DEVINE F, 2003, INT J SOCIAL RES MET, V0006
+   Durkheim Emile., 1915, The Elementary Forms of the Religious Life
+   Elias Norbert., 1978, WHAT IS SOCIOLOGY
+   EMIRBAYER M, 1994, AM J SOCIOL, V99, P1411, DOI 10.1086/230450
+   Erving Goffman., 1961, Asylums: Essays on the Social Situation of Mental Patients and other Inmates
+   FELD SL, 1981, AM J SOCIOL, V86, P1015, DOI 10.1086/227352
+   FELD SL, 1982, AM SOCIOL REV, V47, P797, DOI 10.2307/2095216
+   Field J., 2003, SOCIAL CAPITAL
+   Fine B., 2001, SOCIAL CAPITAL VERSU
+   Goffman E., 2009, Relations in public
+   Goffman Erving., 1959, The Presentation of Self in Everyday Life
+   Gould R.V., 2003, SOCIAL MOVEMENTS NET
+   GRANOVETTER M, 1985, AM J SOCIOL, V91, P481, DOI 10.1086/228311
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Hall PA, 1999, BRIT J POLIT SCI, V29, P417, DOI 10.1017/S0007123499000204
+   Halpern David., 2005, Social Capital
+   Harriss J., 1997, J INT DEV, V9, P919, DOI [3.0.CO;2-9, DOI 10.1002/(SICI)1099-1328(199711)9:7<919::AID-JID496>3.0.C0;2-9]
+   Hedstrom P., 1998, SOCIAL MECH
+   Honneth Axel., 1995, STRUGGLE RECOGNITION
+   Huisman M., 2005, MODELS METHODS SOCIA, P270
+   Knox H, 2006, ECON SOC, V35, P113, DOI 10.1080/03085140500465899
+   Lin N., 2001, SOCIAL CAPITAL
+   Lopez Jose., 2000, SOCIAL STRUCTURE
+   Merton R.K., 1968, SOCIAL STRUCTURE SOC
+   MILLS C.W., 1967, POWER POLITICS PEOPL
+   *MINT, 2003, HLTH FITN CLUBS MAY
+   Olson Mancur., 1971, The Logic of Collective Action: Public Goods and the Theory of Groups, with a new preface and appendix
+   Pawson Ray., 1989, MEASURE MEASURES
+   Putzel James., 1997, Journal of International Development, V9, P939, DOI DOI 10.1002/(SICI)1099-1328(199711)9:7<939::AID-JID497>3.0.CO;2-4
+   Sartre Jean-Paul, 1969, BEING NOTHINGNESS
+   Schulman MD, 1999, RURAL SOCIOL, V64, P351
+   Schutz A., 1973, PHENOMENOLOGY SOCIAL
+   Seippel O, 2006, ACTA SOCIOL, V49, P169, DOI 10.1177/0001699306064771
+   SIMMEL G, 1955, CONFLICT WEB GROUP A
+   Smilde D, 2005, AM J SOCIOL, V111, P757, DOI 10.1086/497306
+   Tilly Charles., 2006, IDENTITIES BOUNDARIE
+   VANDETH J, 2003, INT J SOCIAL RES MET, V6, P71
+   Warde A, 2002, SOCIOL REV, V50, P155, DOI 10.1111/1467-954X.00361
+   2002, FINDINGS
+   [No title captured]
+NR 56
+TC 51
+Z9 59
+U1 2
+U2 22
+PU WILEY-BLACKWELL
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 0007-1315
+J9 BRIT J SOCIOL
+JI Br. J. Sociol.
+PD SEP
+PY 2008
+VL 59
+IS 3
+BP 475
+EP 500
+DI 10.1111/j.1468-4446.2008.00204.x
+PG 26
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA 340ZH
+UT WOS:000258683000005
+PM 18782151
+DA 2024-11-22
+ER
+
+PT J
+AU Crosnoe, R
+   Frank, K
+   Strassmann, A
+AF Crosnoe, Robert
+   Frank, Kenneth
+   Strassmann, Anna
+TI Gender, body size and social relations in American high schools
+SO SOCIAL FORCES
+LA English
+DT Article
+ID OVERWEIGHT; OBESITY; ADOLESCENTS; WEIGHT; DISCRIMINATION; CONSEQUENCES;
+   STEREOTYPES; IDEOLOGY; STIGMA; MODEL
+AB To investigate the role of body size in social networks, this study estimated cross-nested multilevel network models (p) with longitudinal data from the 16 saturated schools in the National Longitudinal Study of Adolescent Health. As body mass index increased, the likelihood of being nominated by schoolmates as friends - but not the likelihood of nominating others as friends decreased. This trend was more pronounced among girls. Moreover, similarity in body mass index strongly predicted friendship formation. These findings were not explained by correlates (e.g., academic achievement) of both body size and friendship dynamics. Thus, the connection between body size and high school social relations was largely a function of the stigmatization of heavier body sizes, especially for girls, and of homophily.
+C1 [Crosnoe, Robert] Univ Texas Austin, Dept Sociol, Austin, TX 78712 USA.
+   [Crosnoe, Robert] Univ Texas Austin, Populat Res Ctr, Austin, TX 78712 USA.
+   [Frank, Kenneth] Michigan State Univ, E Lansing, MI 48824 USA.
+C3 University of Texas System; University of Texas Austin; University of
+   Texas System; University of Texas Austin; Michigan State University
+RP Crosnoe, R (corresponding author), Univ Texas Austin, Dept Sociol, 1 Univ Stn A1700, Austin, TX 78712 USA.
+EM crosnoe@austin.utexas.edu
+CR Allon Natalie., 1981, PSYCHOL ASPECTS OBES, P130
+   ANDERSON JL, 1992, ETHOL SOCIOBIOL, V13, P197, DOI 10.1016/0162-3095(92)90033-Z
+   [Anonymous], 1983, HUMAN NATURE SOCIAL
+   [Anonymous], 1986, EXCHANGE POWER
+   [Anonymous], 2006, NY TIMES
+   Baerveldt C, 2004, SOC NETWORKS, V26, P55, DOI 10.1016/j.socnet.2004.01.003
+   Ball K, 2004, OBES RES, V12, P1019, DOI 10.1038/oby.2004.125
+   Barber BL, 2001, J ADOLESCENT RES, V16, P429, DOI 10.1177/0743558401165002
+   BILLY JOG, 1984, SOC FORCES, V62, P653, DOI 10.2307/2578705
+   CAHNMAN WJ, 1968, SOCIOL QUART, V9, P283, DOI 10.1111/j.1533-8525.1968.tb01121.x
+   Carr D, 2005, J HEALTH SOC BEHAV, V46, P244, DOI 10.1177/002214650504600303
+   Carr D, 2006, SOC PSYCHOL QUART, V69, P127, DOI 10.1177/019027250606900202
+   Cawley J, 2001, SOCIAL AWAKENING, P174
+   *CDC, 2002, AM SOCIOL REV, V60, P782
+   Conley D, 2006, ADV HEALTH ECON HEAL, V17, P253, DOI 10.1016/S0731-2199(06)17010-7
+   CRANDALL CS, 1994, J PERS SOC PSYCHOL, V66, P882, DOI 10.1037/0022-3514.66.5.882
+   Crosnoe R, 2006, SOCIOL EDUC, V79, P44, DOI 10.1177/003804070607900103
+   Crosnoe R, 2000, SOC PSYCHOL QUART, V63, P377, DOI 10.2307/2695847
+   Crosnoe R, 2004, J HEALTH SOC BEHAV, V45, P393, DOI 10.1177/002214650404500403
+   Davison KK, 2004, OBES RES, V12, P86, DOI 10.1038/oby.2004.12
+   DEJONG W, 1980, J HEALTH SOC BEHAV, V21, P75, DOI 10.2307/2136696
+   Eder D., 1995, School talk: Gender and adolescent culture
+   ELKIND D, 1967, CHILD DEV, V38, P1025, DOI 10.2307/1127100
+   Ge XJ, 2001, SOC PSYCHOL QUART, V64, P363, DOI 10.2307/3090160
+   Giordano PC, 2003, ANNU REV SOCIOL, V29, P257, DOI 10.1146/annurev.soc.29.010202.100047
+   Goffman E., 1963, BEHAV PUBLIC PLACES
+   Goodman E, 2002, PEDIATRICS, V110, P497, DOI 10.1542/peds.110.3.497
+   Goodman E, 2000, PEDIATRICS, V106, P52, DOI 10.1542/peds.106.1.52
+   GORTMAKER SL, 1993, NEW ENGL J MED, V329, P1008, DOI 10.1056/NEJM199309303291406
+   Granberg E, 2006, SOC PSYCHOL QUART, V69, P109, DOI 10.1177/019027250606900201
+   Halpern CT, 1999, DEV PSYCHOL, V35, P721, DOI 10.1037/0012-1649.35.3.721
+   HOFF PD, 2003, BILINEAR MIXED EFFEC
+   HOLLAND PW, 1981, J AM STAT ASSOC, V76, P33, DOI 10.2307/2287037
+   Joyner K, 2000, SOC SCI QUART, V81, P810
+   Latner JD, 2005, OBES RES, V13, P1226, DOI 10.1038/oby.2005.145
+   Lawler EJ, 1996, AM SOCIOL REV, V61, P89, DOI 10.2307/2096408
+   Lazega E, 1997, SOC NETWORKS, V19, P375, DOI 10.1016/S0378-8733(97)00006-3
+   LERNER RM, 1972, CHILD DEV, V43, P908, DOI 10.1111/j.1467-8624.1972.tb02044.x
+   Link BG, 2001, ANNU REV SOCIOL, V27, P363, DOI 10.1146/annurev.soc.27.1.363
+   Magnusson D., 1996, DEVELOPMENTAL SCI, P7
+   Martin K.A., 1996, PUBERTY SEXUALITY SE
+   McFarland D, 2005, SOC PSYCHOL QUART, V68, P289, DOI 10.1177/019027250506800401
+   Moody J, 2001, SOC NETWORKS, V23, P261, DOI 10.1016/S0378-8733(01)00042-9
+   *NIH NAT I DIAB DI, 2003, STAT REL OV OB
+   NOLENHOEKSEMA S, 1994, J RES ADOLESCENCE, V4, P519, DOI 10.1207/s15327795jra0404_5
+   Pinhey TK, 1997, SOC SCI QUART, V78, P747
+   Puhl R, 2001, OBES RES, V9, P788, DOI 10.1038/oby.2001.108
+   Puhl R M, 2003, Obes Rev, V4, P213, DOI 10.1046/j.1467-789X.2003.00122.x
+   Quinn DM, 1999, J PERS SOC PSYCHOL, V77, P402, DOI 10.1037/0022-3514.77.2.402
+   Radloff L.S., 1986, SERIES PSYCHOSOCIAL, P177
+   Raudenbush S.W., 2002, HIERARCHAL LINEAR MO, V2nd
+   Resnick MD, 1997, JAMA-J AM MED ASSOC, V278, P823, DOI 10.1001/jama.278.10.823
+   ROSS CE, 1994, J HEALTH SOC BEHAV, V35, P63, DOI 10.2307/2137335
+   Snijders Tom., 1999, Mulitlevel Analysis: An introduction to basic and advanced multilevel modeling
+   Snijders TAB, 2006, SOCIOL METHODOL, V36, P99, DOI 10.1111/j.1467-9531.2006.00176.x
+   SOUTH SJ, 1991, J MARRIAGE FAM, V53, P928, DOI 10.2307/352998
+   Strauss RS, 2003, ARCH PEDIAT ADOL MED, V157, P746, DOI 10.1001/archpedi.157.8.746
+   Strauss RS, 1999, PEDIATRICS, V103, DOI 10.1542/peds.103.6.e85
+   Teachman BA, 2003, HEALTH PSYCHOL, V22, P68, DOI 10.1037/0278-6133.22.1.68
+   Wardle J, 2002, AM J PUBLIC HEALTH, V92, P1299, DOI 10.2105/AJPH.92.8.1299
+   Wasserman S, 1996, PSYCHOMETRIKA, V61, P401, DOI 10.1007/BF02294547
+   WELMAN BA, 2001, SOCIAL CAPITAL, P233
+NR 62
+TC 83
+Z9 107
+U1 1
+U2 78
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7732
+EI 1534-7605
+J9 SOC FORCES
+JI Soc. Forces
+PD MAR
+PY 2008
+VL 86
+IS 3
+BP 1189
+EP 1216
+PG 28
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA 274ZN
+UT WOS:000254041400012
+DA 2024-11-22
+ER

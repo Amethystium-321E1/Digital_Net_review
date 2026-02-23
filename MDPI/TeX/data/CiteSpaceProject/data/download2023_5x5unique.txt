@@ -1,0 +1,951 @@
+
+PT J
+AU Koskinen, J
+   Snijders, TAB
+AF Koskinen, Johan
+   Snijders, Tom A. B.
+TI Multilevel longitudinal analysis of social networks
+SO JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES A-STATISTICS IN SOCIETY
+LA English
+DT Article; Early Access
+DE delinquency; MCMC; random coefficient model; social influence;
+   stochastic actor-oriented model; two-mode network
+ID ACTOR-ORIENTED MODELS; 2-MODE NETWORKS; FRIENDSHIP; BEHAVIOR; SELECTION;
+   DYNAMICS; SIZE; TIME; COEVOLUTION; INFERENCE
+AB Stochastic actor-oriented models (SAOMs) are a modelling framework for analysing network dynamics using network panel data. This paper extends the SAOM to the analysis of multilevel network panels through a random coefficient model, estimated with a Bayesian approach. The proposed model allows testing theories about network dynamics, social influence, and interdependence of multiple networks. It is illustrated by a study of the dynamic interdependence of friendship networks and minor delinquency. Data were available for 126 classrooms in the first year of secondary school, of which 82 were used, containing relatively few missing data points and having not too much network turnover.
+C1 [Koskinen, Johan] Univ Stockholm, Stockholm, Sweden.
+   [Koskinen, Johan] Univ Melbourne, Melbourne, Australia.
+   [Snijders, Tom A. B.] Univ Oxford, Oxford, England.
+   [Snijders, Tom A. B.] Univ Groningen, Groningen, Netherlands.
+   [Snijders, Tom A. B.] Dept Sociol, Grote Kruisstr 2-1, NL-9712 TS Groningen, Netherlands.
+C3 Stockholm University; University of Melbourne; University of Oxford;
+   University of Groningen
+RP Snijders, TAB (corresponding author), Dept Sociol, Grote Kruisstr 2-1, NL-9712 TS Groningen, Netherlands.
+EM t.a.b.snijders@rug.nl
+RI Snijders, Tom/F-2896-2012
+OI Snijders, Tom/0000-0003-3157-4157
+FU US Eunice Kennedy Shriver National Institute of Child Health and Human
+   Development [R01HD052887]
+FX This work was supported in part by award R01HD052887 from the US Eunice
+   Kennedy Shriver National Institute of Child Health and Human Development
+   (John M. Light, Principal Investigator). Computing facilities were made
+   available by Nuffield College, University of Oxford.
+CR ALDOUS D, 1983, ANN PROBAB, V11, P403, DOI 10.1214/aop/1176993605
+   Anderson BS, 1999, SOC NETWORKS, V21, P239, DOI 10.1016/S0378-8733(99)00011-8
+   [Anonymous], 2013, Netw. sci., DOI DOI 10.1017/NWS.2013.2
+   [Anonymous], 2004, Bayesian inference: Kendalls advanced theory of statistics
+   [Anonymous], 1989, Spatial statistics: Past, present, future
+   BATAGELJ V, 1995, J CLASSIF, V12, P73, DOI 10.1007/BF01202268
+   BERGSTROM AR, 1988, ECONOMET THEOR, V4, P365, DOI 10.1017/S0266466600013359
+   Block P, 2018, SOC NETWORKS, V52, P180, DOI 10.1016/j.socnet.2017.08.001
+   Block P, 2015, SOC NETWORKS, V40, P163, DOI 10.1016/j.socnet.2014.10.005
+   Boda Z, 2018, SOCIOL SCI, V5, P29, DOI 10.15195/v5.a3
+   Dolgova E., 2019, On getting along and getting ahead: How personality affects social network dynamics
+   Eager C., 2017, Mixed effects models are sometimes terrible 1 christopher eager & joseph roy
+   Elmer T, 2017, NETW SCI, V5, P278, DOI 10.1017/nws.2017.20
+   Entwisle B, 2007, AM J SOCIOL, V112, P1495, DOI 10.1086/511803
+   ERDOS P, 1960, B INT STATIST INST, V38, P343
+   Faust K, 2002, SOCIOL METHODOL, V32, P267, DOI 10.1111/1467-9531.00118
+   Fujimoto K, 2018, NETW SCI, V6, P370, DOI 10.1017/nws.2018.11
+   Gelman A., 1996, BAYESIAN STAT BAYESIAN STAT, V5, P42
+   Gelman A., 2014, BAYESIAN DATA ANAL
+   Goldstein H., 2011, MULTILEVEL STAT MODE
+   Greenan CC, 2015, J ROY STAT SOC A, V178, P147, DOI 10.1111/rssa.12054
+   HAMERLE A, 1993, ECONOMET THEOR, V9, P283, DOI 10.1017/S0266466600007544
+   Hirschi T, 1969, CAUSES DELINQUENCY
+   HOLLAND PW, 1977, J MATH SOCIOL, V5, P5, DOI 10.1080/0022250X.1977.9989862
+   Huitsing G, 2014, DEV PSYCHOPATHOL, V26, P645, DOI 10.1017/S0954579414000297
+   Jeffreys H., 1998, THEORY PROBABILITY
+   Karell D, 2020, POETICS, V78, DOI 10.1016/j.poetic.2019.101403
+   Knecht A., 2006, Networks and Actor Attributes in Early Adolescence [2003/04]
+   Knecht A, 2010, SOC DEV, V19, P494, DOI 10.1111/j.1467-9507.2009.00564.x
+   Köllisch T, 2004, KOLNER Z SOZIOL SOZ, V56, P708, DOI 10.1007/s11577-004-0110-4
+   Koskinen JH, 2007, J STAT PLAN INFER, V137, P3930, DOI 10.1016/j.jspi.2007.04.011
+   Krivitsky PN, 2015, STAT SCI, V30, P184, DOI 10.1214/14-STS502
+   Krivitsky PN, 2011, STAT METHODOL, V8, P319, DOI 10.1016/j.stamet.2011.01.005
+   Lanza, 2010, LATENT CLASS LATENT
+   Lomi A, 2014, KOLNER Z SOZIOL SOZ, V66, P395, DOI 10.1007/s11577-014-0271-8
+   Lomi A, 2011, SOC SCI RES, V40, P1506, DOI 10.1016/j.ssresearch.2011.06.010
+   Maddala GS., 1986, Limited-Dependent and Qualitative Variables in Econometrics
+   Norris J.R., 1997, Cambridge series in statistical & probabilistic mathematics, DOI 10.1017/CBO9780511810633
+   Raabe IJ, 2019, SOCIOL EDUC, V92, P105, DOI 10.1177/0038040718824095
+   Ripley R. M., 2022, Manual for RSiena [Tech. Rep.]
+   Robins G, 2001, SOC NETWORKS, V23, P1, DOI 10.1016/S0378-8733(01)00029-6
+   Robins G., 2015, Doing social network research: Network-based research design for social scientists
+   Schweinberger M., 2007, Statistical methods for studying the evolution of networks and behavior
+   Schweinberger M, 2020, STAT SCI, V35, P627, DOI 10.1214/19-STS743
+   Shalizi CR, 2011, SOCIOL METHOD RES, V40, P211, DOI 10.1177/0049124111404820
+   Singer H., 1996, Analysis of change, P113
+   Slaughter AJ, 2016, SOC NETWORKS, V44, P334, DOI 10.1016/j.socnet.2015.11.002
+   Snijders T., 2012, MULTILEVEL ANAL INTR
+   Snijders T. A., 2005, MODELS METHODS SOCIA, V1, P215, DOI DOI 10.1017/CBO9780511811395.011
+   Snijders TAB, 2003, J MATH SOCIOL, V27, P123, DOI 10.1080/00222500305892
+   Snijders TAB, 2001, SOCIOL METHODOL, V31, P361, DOI 10.1111/0081-1750.00099
+   Snijders TAB, 2017, ANNU REV STAT APPL, V4, P343, DOI 10.1146/annurev-statistics-060116-054035
+   Snijders TAB, 2013, SOC NETWORKS, V35, P265, DOI 10.1016/j.socnet.2012.05.005
+   Snijders TAB, 2010, ANN APPL STAT, V4, P567, DOI 10.1214/09-AOAS313
+   Stadtfeld C, 2016, SOC NETWORKS, V44, P363, DOI 10.1016/j.socnet.2015.04.010
+   Steglich C, 2010, SOCIOL METHODOL, V40, P329, DOI 10.1111/j.1467-9531.2010.01225.x
+   Sutherland E., 1974, PRINCIPLES CRIMINOLO
+   Veenstra R, 2013, J RES ADOLESCENCE, V23, P399, DOI 10.1111/jora.12070
+   Wang P, 2013, SOC NETWORKS, V35, P96, DOI 10.1016/j.socnet.2013.01.004
+   WASSERMAN S, 1991, BRIT J MATH STAT PSY, V44, P13, DOI 10.1111/j.2044-8317.1991.tb00949.x
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   Ziberna A, 2014, SOC NETWORKS, V39, P46, DOI 10.1016/j.socnet.2014.04.002
+NR 62
+TC 8
+Z9 8
+U1 17
+U2 29
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0964-1998
+EI 1467-985X
+J9 J ROY STAT SOC A
+JI J. R. Stat. Soc. Ser. A-Stat. Soc.
+PD 2023 JAN 23
+PY 2023
+DI 10.1093/jrsssa/qnac009
+EA JAN 2023
+PG 25
+WC Social Sciences, Mathematical Methods; Statistics & Probability
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematical Methods In Social Sciences; Mathematics
+GA Z2UK6
+UT WOS:001110676300001
+PM 37521824
+OA hybrid, Green Published, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Galesic, M
+   Barkoczi, D
+   Berdahl, AM
+   Biro, D
+   Carbone, G
+   Giannoccaro, I
+   Goldstone, RL
+   Gonzalez, C
+   Kandler, A
+   Kao, AB
+   Kendal, R
+   Kline, M
+   Lee, E
+   Massari, GF
+   Mesoudi, A
+   Olsson, H
+   Pescetelli, N
+   Sloman, SJ
+   Smaldino, PE
+   Stein, DL
+AF Galesic, Mirta
+   Barkoczi, Daniel
+   Berdahl, Andrew M.
+   Biro, Dora
+   Carbone, Giuseppe
+   Giannoccaro, Ilaria
+   Goldstone, Robert L.
+   Gonzalez, Cleotilde
+   Kandler, Anne
+   Kao, Albert B.
+   Kendal, Rachel
+   Kline, Michelle
+   Lee, Eun
+   Massari, Giovanni Francesco
+   Mesoudi, Alex
+   Olsson, Henrik
+   Pescetelli, Niccolo
+   Sloman, Sabina J.
+   Smaldino, Paul E.
+   Stein, Daniel L.
+TI Beyond collective intelligence: Collective adaptation
+SO JOURNAL OF THE ROYAL SOCIETY INTERFACE
+LA English
+DT Review
+DE collective adaptation; collective intelligence; social networks; social
+   cognition; computational models
+ID SOCIAL-LEARNING STRATEGIES; JURY DECISION-MAKING; GROUP-PERFORMANCE;
+   CULTURAL-EVOLUTION; COMPLEX CONTAGIONS; NETWORKS PROMOTE; SPECIAL-ISSUE;
+   GROUP-SIZE; MODEL; INFORMATION
+AB We develop a conceptual framework for studying collective adaptation in complex socio-cognitive systems, driven by dynamic interactions of social integration strategies, social environments and problem structures. Going beyond searching for 'intelligent' collectives, we integrate research from different disciplines and outline modelling approaches that can be used to begin answering questions such as why collectives sometimes fail to reach seemingly obvious solutions, how they change their strategies and network structures in response to different problems and how we can anticipate and perhaps change future harmful societal trajectories. We discuss the importance of considering path dependence, lack of optimization and collective myopia to understand the sometimes counterintuitive outcomes of collective adaptation. We call for a transdisciplinary, quantitative and societally useful social science that can help us to understand our rapidly changing and ever more complex societies, avoid collective disasters and reach the full potential of our ability to organize in adaptive collectives.
+C1 [Galesic, Mirta; Kao, Albert B.; Olsson, Henrik; Smaldino, Paul E.; Stein, Daniel L.] Santa Fe Inst, Santa Fe, NM 87501 USA.
+   [Galesic, Mirta] Complex Sci Hub Vienna, A-1080 Vienna, Austria.
+   [Galesic, Mirta] Univ Vermont, Vermont Complex Syst Ctr, Burlington, VT 05405 USA.
+   [Barkoczi, Daniel] South Denmark Univ, DK-5230 Odense, Denmark.
+   [Berdahl, Andrew M.] Univ Washington, Sch Aquat & Fishery Sci, Seattle, WA 98195 USA.
+   [Biro, Dora] Univ Oxford, Dept Zool, Oxford OX1 3PS, England.
+   [Carbone, Giuseppe; Giannoccaro, Ilaria; Massari, Giovanni Francesco] Politecn Bari, Dept Mech Math & Management, I-70125 Bari, Italy.
+   [Goldstone, Robert L.] Indiana Univ, Psychol & Brain Sci, Bloomington, IN 47405 USA.
+   [Gonzalez, Cleotilde; Sloman, Sabina J.] Carnegie Mellon Univ, Dept Social & Decis Sci, Pittsburgh, PA 15213 USA.
+   [Kandler, Anne] Max Planck Inst Evolutionary Anthropol, Dept Math, D-04103 Leipzig, Germany.
+   [Kao, Albert B.] Univ Massachusetts Boston, Biol Dept, Boston, MA 02125 USA.
+   [Kendal, Rachel] Univ Durham, Ctr Coevolut Biol & Culture, Anthropol Dept, Durham DH1 3LE, England.
+   [Kline, Michelle] Brunel Univ London, Ctr Culture & Evolut, Div Psychol, Uxbridge UB8 3PH, Middx, England.
+   [Lee, Eun] Pukyong Natl Univ, Dept Sci Comp, 45 Yongso Ro, Busan 48513, South Korea.
+   [Mesoudi, Alex] Univ Exeter, Dept Ecol & Conservat, Penryn TR10 9FE, England.
+   [Pescetelli, Niccolo] New Jersey Inst Technol, Newark, NJ 07102 USA.
+   [Sloman, Sabina J.] Univ Manchester, Dept Comp Sci, Manchester M13 9PL, Lancs, England.
+   [Smaldino, Paul E.] Univ Calif Merced, Dept Cognit & Informat Sci, Merced, CA 95343 USA.
+   [Stein, Daniel L.] NYU, Dept Phys, New York, NY 10012 USA.
+   [Stein, Daniel L.] NYU, Courant Inst Math Sci, New York, NY 10012 USA.
+C3 The Santa Fe Institute; University of Vermont; University of Washington;
+   University of Washington Seattle; University of Oxford; Politecnico di
+   Bari; Indiana University System; Indiana University Bloomington;
+   Carnegie Mellon University; Max Planck Society; University of
+   Massachusetts System; University of Massachusetts Boston; Durham
+   University; Brunel University; Pukyong National University; University
+   of Exeter; New Jersey Institute of Technology; University of Manchester;
+   University of California System; University of California Merced; New
+   York University; New York University
+RP Galesic, M (corresponding author), Santa Fe Inst, Santa Fe, NM 87501 USA.; Galesic, M (corresponding author), Complex Sci Hub Vienna, A-1080 Vienna, Austria.; Galesic, M (corresponding author), Univ Vermont, Vermont Complex Syst Ctr, Burlington, VT 05405 USA.
+EM galesic@santafe.edu
+RI Pescetelli, Niccolo/GLU-9321-2022; Galesic, Mirta/B-8327-2012; Carbone,
+   Giuseppe/G-7816-2011; Giannoccaro, Ilaria/H-6875-2013; Massari,
+   Giovanni/AEL-5330-2022; Mesoudi, Alex/K-4410-2012; Barkoczi,
+   Daniel/R-7407-2016
+OI Galesic, Mirta/0000-0002-1712-9455; Goldstone,
+   Robert/0000-0001-8357-8358; Biro, Dora/0000-0002-3408-6274; Pescetelli,
+   Niccolo/0000-0002-8826-2202; Barkoczi, Daniel/0000-0001-6939-7761;
+   Gonzalez, Cleotilde/0000-0002-6244-2918
+CR Acerbi A., 2021, INDIVIDUAL BASED MOD
+   Agarwala A, 2019, THEOR POPUL BIOL, V130, P13, DOI 10.1016/j.tpb.2019.09.011
+   Akçay E, 2018, NAT COMMUN, V9, DOI 10.1038/s41467-018-05130-7
+   Alipourfard N, 2020, NAT COMMUN, V11, DOI 10.1038/s41467-020-14394-x
+   Almaatouq A, 2020, P NATL ACAD SCI USA, V117, P11379, DOI 10.1073/pnas.1917687117
+   [Anonymous], 2014, AgentZero: Toward Neurocognitive Foundations for Generative Social Science, DOI [10.1515/9781400848256, DOI 10.1515/9781400848256]
+   Aoki K, 2014, THEOR POPUL BIOL, V91, P3, DOI 10.1016/j.tpb.2013.10.004
+   Arrow KJ, 1950, J POLIT ECON, V58, P328, DOI 10.1086/256963
+   ASCH SE, 1955, SCI AM, V193, P31, DOI 10.1038/scientificamerican1155-31
+   Axelrod R, 1997, J CONFLICT RESOLUT, V41, P203, DOI 10.1177/0022002797041002001
+   Axelrod R., 1984, EVOLUTION COOPERATIO
+   Bak-Coleman JB, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2025764118
+   Bandura A., 1977, SOCIAL LEARNING THEO, V1
+   Banerjee A, 2013, SCIENCE, V341, P363, DOI 10.1126/science.1236498
+   BANERJEE AV, 1992, Q J ECON, V107, P797, DOI 10.2307/2118364
+   Bargain O, 2020, J PUBLIC ECON, V192, DOI 10.1016/j.jpubeco.2020.104316
+   Barkoczi D, 2016, NAT COMMUN, V7, DOI 10.1038/ncomms13109
+   Barkoczi P., 2016, P 38 ANN M COGN SCI
+   Barron ATJ, 2018, P NATL ACAD SCI USA, V115, P4607, DOI 10.1073/pnas.1717729115
+   BBC News, 2022, BBC WORLD NEWS
+   Becker J, 2017, P NATL ACAD SCI USA, V114, pE5070, DOI 10.1073/pnas.1615978114
+   Benkler Y, 2015, HANDBOOK OF COLLECTIVE INTELLIGENCE, P175
+   Berdahl A, 2013, SCIENCE, V339, P574, DOI 10.1126/science.1225883
+   Berdahl AM, 2018, PHILOS T R SOC B, V373, DOI 10.1098/rstb.2017.0009
+   Bettencourt LMA, 2006, PHYSICA A, V364, P513, DOI 10.1016/j.physa.2005.08.083
+   Biele G, 2009, COGNITIVE SCI, V33, P206, DOI 10.1111/j.1551-6709.2009.01010.x
+   BIKHCHANDANI S, 1992, J POLIT ECON, V100, P992, DOI 10.1086/261849
+   Billinger S, 2014, ORGAN SCI, V25, P93, DOI 10.1287/orsc.2013.0829
+   Binz M, 2022, PSYCHOL REV, V129, P1042, DOI 10.1037/rev0000330
+   Biro D, 2016, TRENDS ECOL EVOL, V31, P550, DOI 10.1016/j.tree.2016.03.018
+   Bonaccio S, 2006, ORGAN BEHAV HUM DEC, V101, P127, DOI 10.1016/j.obhdp.2006.07.001
+   Bonanno GA, 2006, BASIC APPL SOC PSYCH, V28, P311, DOI 10.1207/s15324834basp2804_4
+   Bothos E, 2012, EXPERT SYST APPL, V39, P1333, DOI 10.1016/j.eswa.2011.08.014
+   Bowles S., 2013, A cooperative species: Human reciprocity and its evolution
+   Bowles S, 2009, SCIENCE, V324, P1293, DOI 10.1126/science.1168112
+   BOYD R, 1987, NATURE, V327, P58, DOI 10.1038/327058a0
+   Boyd R., 1985, Culture and the Evolutionary Process
+   Boyd R., 2005, NOT GENES ALONE CULT
+   Breiman L, 1996, MACH LEARN, V24, P123, DOI 10.1023/A:1018054314350
+   Brown JR, 2021, NAT HUM BEHAV, V5, P998, DOI 10.1038/s41562-021-01066-z
+   Brush ER, 2018, SCI ADV, V4, DOI 10.1126/sciadv.1603311
+   Budescu DV, 2015, MANAGE SCI, V61, P267, DOI 10.1287/mnsc.2014.1909
+   Buncic D, 2016, RISKS, V4, DOI 10.3390/risks4030024
+   Caklovic L, 2017, EUR J OPER RES, V259, P677, DOI 10.1016/j.ejor.2016.10.032
+   Cantor M, 2021, P ROY SOC B-BIOL SCI, V288, DOI 10.1098/rspb.2020.3107
+   Cantwell GT, 2021, J COMPLEX NETW, V9, DOI 10.1093/comnet/cnab011
+   Carbone G, 2015, EUR PHYS J B, V88, DOI 10.1140/epjb/e2015-60609-0
+   Castellano C, 2009, REV MOD PHYS, V81, P591, DOI 10.1103/RevModPhys.81.591
+   Cavalli-Sforza LL., 1981, CULTURAL TRANSMISSIO
+   Centola D., 2018, How Behavior Spreads: The Science of Complex Contagions, DOI DOI 10.2307/J.CTVC7758P
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   Centola DM, 2013, RATION SOC, V25, P3, DOI 10.1177/1043463112473734
+   Christakis NA, 2009, Connected: The Surprising Power of Our Social Networks and How They Shape Our Lives
+   Christakis NA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0012948
+   Cialdini RB, 2004, ANNU REV PSYCHOL, V55, P591, DOI 10.1146/annurev.psych.55.090902.142015
+   Claidière N, 2007, J COGN CULT, V7, P89, DOI 10.1163/156853707X171829
+   Condorcet M.D., 1785, ESSAY APPL ANAL PROB
+   Conradt L, 2009, PHILOS T R SOC B, V364, P719, DOI 10.1098/rstb.2008.0276
+   Conradt L, 2010, BEHAV PROCESS, V84, P675, DOI 10.1016/j.beproc.2010.03.005
+   Cooney DB, 2022, PLOS COMPUT BIOL, V18, DOI 10.1371/journal.pcbi.1010670
+   Cosmides L., 1992, The Adapted Mind, P163
+   Couzin ID, 2005, NATURE, V433, P513, DOI 10.1038/nature03236
+   Couzin ID, 2003, ADV STUD BEHAV, V32, P1, DOI 10.1016/S0065-3454(03)01001-5
+   Dalege J, 2018, PSYCHOL INQ, V29, P175, DOI 10.1080/1047840X.2018.1537246
+   Dalege J, 2016, PSYCHOL REV, V123, P2, DOI 10.1037/a0039802
+   DALEY DJ, 1964, NATURE, V204, P1118, DOI 10.1038/2041118a0
+   DALKEY N, 1969, FUTURES, V1, P408, DOI 10.1016/S0016-3287(69)80025-X
+   Daniels BC, 2017, FRONT NEUROSCI-SWITZ, V11, P1, DOI 10.3389/fnins.2017.00313
+   Danileiko I, 2018, COGNITIVE SCI, V42, P861, DOI 10.1111/cogs.12561
+   Davis-Stober C.P., 2014, DECISION, V1, P79, DOI [DOI 10.1037/DEC0000004, 10.1037/dec0000004]
+   Dawtry RJ, 2015, PSYCHOL SCI, V26, P1389, DOI 10.1177/0956797615586560
+   de Condorcet M., 1783, ESSAI APPL ANAL PROB
+   De Vincenzo I, 2017, PHYS REV E, V96, DOI 10.1103/PhysRevE.96.022309
+   Deffner D, 2022, PLOS ONE, V17, DOI 10.1371/journal.pone.0267204
+   Deffner D, 2022, PLOS COMPUT BIOL, V18, DOI 10.1371/journal.pcbi.1009430
+   DEGROOT MH, 1974, J AM STAT ASSOC, V69, P118, DOI 10.2307/2285509
+   Denrell J, 2005, PSYCHOL REV, V112, P951, DOI 10.1037/0033-295X.112.4.951
+   Denrell J, 2005, J MANAGE INQUIRY, V14, P292, DOI 10.1177/1056492605279100
+   Derex M, 2020, TRENDS COGN SCI, V24, P654, DOI 10.1016/j.tics.2020.04.005
+   Derex M, 2016, P NATL ACAD SCI USA, V113, P2982, DOI 10.1073/pnas.1518798113
+   Devine DJ, 2001, PSYCHOL PUBLIC POL L, V7, P622, DOI 10.1037//1076-8971.7.3.622
+   Di Stefano A, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0140646
+   Dietz T, 2003, SCIENCE, V302, P1907, DOI 10.1126/science.1091015
+   Douglas KM, 2019, POLIT PSYCHOL, V40, P3, DOI 10.1111/pops.12568
+   Dubey A., 2020, AAMAS, P357
+   Easley D., 2010, NETWORKS CROWDS MARK
+   Fairbrother M, 2019, GLOBAL ENVIRON CHANG, V59, DOI 10.1016/j.gloenvcha.2019.102003
+   FELD SL, 1991, AM J SOCIOL, V96, P1464, DOI 10.1086/229693
+   Festinger L, 1954, HUM RELAT, V7, P117, DOI 10.1177/001872675400700202
+   Fisher RJ, 2011, HDB CONFLICT RESOLUT, P176
+   Forrester J.W., 1968, PRINCIPLES SYSTEMS
+   Fragata I, 2019, TRENDS ECOL EVOL, V34, P69, DOI 10.1016/j.tree.2018.10.009
+   Frey S, 2019, PLOS ONE, V14, DOI 10.1371/journal.pone.0216335
+   Friedkin NE, 2016, SCIENCE, V354, P321, DOI 10.1126/science.aag2624
+   Friedman D, 1998, J EVOL ECON, V8, P15, DOI 10.1007/s001910050054
+   Galesic M, 2021, J R SOC INTERFACE, V18, DOI 10.1098/rsif.2020.0857
+   Galesic M, 2018, DECISION-WASHINGTON, V5, P1, DOI 10.1037/dec0000059
+   Galton F, 1907, NATURE, V75, P450, DOI 10.1038/075450a0
+   Gavrilets Sergey, 2004, P1
+   GELFAND AE, 1973, J AM STAT ASSOC, V68, P271, DOI 10.2307/2284062
+   Giannoccaro I., 2018, COMPLEXITY, V2018, P1
+   Giannoccaro I, 2020, J BUS RES, V118, P507, DOI 10.1016/j.jbusres.2019.10.045
+   GIGERENZER G, 1991, PSYCHOL REV, V98, P254, DOI 10.1037/0033-295X.98.2.254
+   GIGERENZER G, 1992, COGNITION, V43, P127, DOI 10.1016/0010-0277(92)90060-U
+   Gigerenzer G.E., 2011, HEURISTICS FDN ADAPT
+   Glowacki L, 2017, NAT HUM BEHAV, V1, DOI 10.1038/s41562-017-0098
+   Goldenberg A, 2020, CURR DIR PSYCHOL SCI, V29, P154, DOI 10.1177/0963721420901574
+   Goldstone RL, 2017, PHILOS PSYCHOL, V30, P334, DOI 10.1080/09515089.2017.1295635
+   Goldstone RL, 2013, PSYCHOL LEARN MOTIV, V58, P1, DOI 10.1016/B978-0-12-407237-4.00001-3
+   Golub B, 2012, Q J ECON, V127, P1287, DOI 10.1093/qje/qjs021
+   Gonzalez C, 2015, COGNITIVE SCI, V39, P457, DOI 10.1111/cogs.12170
+   Gonzalez C, 2011, NEGOT CONFL MANAG R, V4, P110, DOI 10.1111/j.1750-4716.2011.00075.x
+   Granovskiy B, 2015, TOP COGN SCI, V7, P469, DOI 10.1111/tops.12150
+   Grice HP., 1975, SYNTAX SEMANTICS, P41, DOI DOI 10.1163/9789004368811_003
+   Griffiths TL, 2019, CURR OPIN BEHAV SCI, V29, P24, DOI 10.1016/j.cobeha.2019.01.005
+   GROFMAN B, 1983, THEOR DECIS, V15, P261, DOI 10.1007/BF00125672
+   GROFMAN B, 1984, ORGAN BEHAV HUM PERF, V33, P350, DOI 10.1016/0030-5073(84)90028-X
+   Gross J, 2019, NAT COMMUN, V10, DOI 10.1038/s41467-019-08727-8
+   Gross T, 2008, J R SOC INTERFACE, V5, P259, DOI 10.1098/rsif.2007.1229
+   Guilbeault D, 2018, COMPUT SOC SCI, P3, DOI 10.1007/978-3-319-77332-2_1
+   Gupta Pranav, 2021, Proceedings of the Human Factors and Ergonomics Society Annual Meeting, P670, DOI 10.1177/1071181321651354c
+   Hahn U, 2020, SYNTHESE, V197, P1511, DOI 10.1007/s11229-018-01936-6
+   Hahn U, 2019, TOP COGN SCI, V11, P194, DOI 10.1111/tops.12401
+   Hammond RA, 2014, ANN NY ACAD SCI, V1331, P34, DOI 10.1111/nyas.12344
+   Hastie R, 2005, PSYCHOL REV, V112, P494, DOI 10.1037/0033-295X.112.2.494
+   Hastie R., 2013, INSIDE JURY
+   Haven Emmanuel, 2013, Quantum Social Science
+   Heckathorn DD, 1996, AM SOCIOL REV, V61, P250, DOI 10.2307/2096334
+   Hein AM, 2015, ELIFE, V4, DOI 10.7554/eLife.10955
+   Heinberg JG, 1932, AM POLIT SCI REV, V21, P452
+   Henrich J, 2003, EVOL ANTHROPOL, V12, P123, DOI 10.1002/evan.10110
+   Henrich J, 2004, AM ANTIQUITY, V69, P197, DOI 10.2307/4128416
+   Henrich J, 2001, EVOL HUM BEHAV, V22, P165, DOI 10.1016/S1090-5138(00)00071-4
+   Henrich J, 2015, PHILOS T R SOC B, V370, DOI 10.1098/rstb.2015.0013
+   Hernantes J, 2013, TECHNOL FORECAST SOC, V80, P1742, DOI 10.1016/j.techfore.2013.01.002
+   Hertwig, 2013, SIMPLE HEURISTICS SO
+   Hertwig R., 2013, SIMPLE HEURISTICS SO
+   Heyes C., 2018, Cognitive Gadgets, DOI [10.4159/9780674985155, DOI 10.4159/9780674985155]
+   Heyes C, 2016, TRENDS COGN SCI, V20, P204, DOI 10.1016/j.tics.2015.12.007
+   Hills TT, 2015, TRENDS COGN SCI, V19, P46, DOI 10.1016/j.tics.2014.10.004
+   Hinsz VB, 1997, PSYCHOL BULL, V121, P43, DOI 10.1037/0033-2909.121.1.43
+   HOLLAND JH, 1992, DAEDALUS, V121, P17
+   Holling C.S., 1973, Annual Rev Ecol Syst, V4, P1, DOI 10.1146/annurev.es.04.110173.000245
+   Hoppitt W. J. E., 2013, Social Learning: An Introduction to Mechanisms, Methods, and Models
+   Jablonka E, 2008, GENET MOL BIOL, V31, P389, DOI 10.1590/S1415-47572008000300001
+   Jackson MO, 2008, SOCIAL AND ECONOMIC NETWORKS, P1
+   Janis IrvingLester, 1972, VICTIMS GROUPTHINK P
+   Jayles B, 2020, J R SOC INTERFACE, V17, DOI 10.1098/rsif.2020.0496
+   Jost JT, 2003, PSYCHOL BULL, V129, P339, DOI 10.1037/0033-2909.129.3.339
+   Kallens PAC, 2018, COGN SYST RES, V52, P765, DOI 10.1016/j.cogsys.2018.08.026
+   Kandler A, 2018, PHILOS T R SOC B, V373, DOI 10.1098/rstb.2017.0056
+   Kandler A, 2009, THEOR POPUL BIOL, V76, P59, DOI 10.1016/j.tpb.2009.04.004
+   Kao AB, 2019, PHILOS T R SOC B, V374, DOI 10.1098/rstb.2018.0378
+   Kao AB, 2014, P ROY SOC B-BIOL SCI, V281, DOI 10.1098/rspb.2013.3305
+   Kaplan J, 2008, BIOL PHILOS, V23, P625, DOI 10.1007/s10539-008-9116-z
+   Kauffman Stuart A., 1993
+   Kendal RL, 2018, TRENDS COGN SCI, V22, P651, DOI 10.1016/j.tics.2018.04.003
+   Kerr NL, 2004, ANNU REV PSYCHOL, V55, P623, DOI 10.1146/annurev.psych.55.090902.142009
+   King AJ, 2007, BIOL LETTERS, V3, P137, DOI 10.1098/rsbl.2007.0017
+   Kirke C, 2010, DEF SECUR ANAL, V26, P143, DOI 10.1080/14751798.2010.488856
+   Kline MA., 2015, Behavioral and Brain Sciences, V38, pe31, DOI [DOI 10.1017/S0140525X14000090, 10.1017/S0140525X14000090]
+   Kline MA, 2013, HUM NATURE-INT BIOS, V24, P351, DOI 10.1007/s12110-013-9180-1
+   Konstantinidis E., 2020, PSYARXIV, DOI [10.31234/osf.io/f34qb, DOI 10.31234/OSF.IO/F34QB]
+   Kozlowski AC, 2019, AM SOCIOL REV, V84, P905, DOI 10.1177/0003122419877135
+   Kozyreva A, 2020, PSYCHOL SCI PUBL INT, V21, P103, DOI 10.1177/1529100620946707
+   Krafft PM, 2021, COGNITION, V212, DOI 10.1016/j.cognition.2020.104469
+   Krapivsky PL, 2003, PHYS REV LETT, V90, DOI 10.1103/PhysRevLett.90.238701
+   Kurvers RHJM, 2016, P NATL ACAD SCI USA, V113, P8777, DOI 10.1073/pnas.1601827113
+   Laland KN, 2004, LEARN BEHAV, V32, P4
+   Laplace PS., 1886, ESSAI PHILOS PROBABI
+   Lazer D, 2007, ADMIN SCI QUART, V52, P667, DOI 10.2189/asqu.52.4.667
+   Lazer DMJ, 2020, SCIENCE, V369, P1060, DOI 10.1126/science.aaz8170
+   Le Bon Gustave., 1914, CROWD STUDY POPULAR
+   Lee E, 2019, NAT HUM BEHAV, V3, P1078, DOI 10.1038/s41562-019-0677-4
+   Lejarraga T, 2014, MEM COGNITION, V42, P1384, DOI 10.3758/s13421-014-0445-7
+   Lerman K, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0147617
+   Levinthal DA, 1997, MANAGE SCI, V43, P934, DOI 10.1287/mnsc.43.7.934
+   Lewis K, 2011, ORGAN SCI, V22, P1254, DOI 10.1287/orsc.1110.0647
+   List Christian., 2009, HDB RATIONAL SOCIAL, DOI DOI 10.1093/ACPROF:OSO/9780199290420.003.0020
+   Loreto Vittorio, 2016, PARTICIPATORY SENSIN
+   Lu JG, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2021793118
+   Maani K.E., 2007, Systems thinking, system dynamics: Managing change and complexity, DOI DOI 10.1016/J.RENENE.2012.01.006
+   Macy MW, 2002, ANNU REV SOCIOL, V28, P143, DOI 10.1146/annurev.soc.28.110601.141117
+   Malone T., 2009, HARNESSING CROWDS MA, DOI 10.2139/ssrn.1381502
+   Malone T. W., 2015, Handbook of Collective Intelligence
+   Mannes AE, 2014, J PERS SOC PSYCHOL, V107, P276, DOI 10.1037/a0036677
+   Martin JM, 2014, J BEHAV DECIS MAKING, V27, P349, DOI 10.1002/bdm.1810
+   Mason WA, 2008, J EXP PSYCHOL GEN, V137, P422, DOI 10.1037/a0012798
+   Mason WA, 2007, PERS SOC PSYCHOL REV, V11, P279, DOI 10.1177/1088868307301032
+   Massari GF, 2019, INT J PROD ECON, V208, P343, DOI 10.1016/j.ijpe.2018.12.005
+   Massari GF, 2023, IEEE T ENG MANAGE, V70, P209, DOI 10.1109/TEM.2021.3058237
+   Mata R, 2007, PSYCHOL AGING, V22, P796, DOI 10.1037/0882-7974.22.4.796
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mechkova V, 2017, J DEMOCR, V28, P162, DOI 10.1353/jod.2017.0075
+   Mehlhorn K., 2015, DECISION, V2, P191, DOI DOI 10.1037/DEC0000033
+   Mellers B, 2014, PSYCHOL SCI, V25, P1106, DOI 10.1177/0956797614524255
+   Mesoudi A, 2018, P ROY SOC B-BIOL SCI, V285, DOI 10.1098/rspb.2018.0712
+   Mesoudi A, 2016, EVOL BIOL, V43, P481, DOI 10.1007/s11692-015-9320-0
+   Mesoudi A, 2016, TRENDS ECOL EVOL, V31, P215, DOI 10.1016/j.tree.2015.12.012
+   Mesoudi A, 2015, P ROY SOC B-BIOL SCI, V282, DOI 10.1098/rspb.2014.2209
+   MILGRAM S, 1967, PSYCHOL TODAY, V1, P61
+   Miller JH, 2007, PRINC STUD COMPLEX, P1, DOI 10.1007/1-4020-5602-8_1
+   Miton H, 2015, EVOL HUM BEHAV, V36, P303, DOI 10.1016/j.evolhumbehav.2015.01.003
+   Molleman L, 2020, P ROY SOC B-BIOL SCI, V287, DOI 10.1098/rspb.2020.2413
+   Moreira JA, 2013, SCI REP-UK, V3, DOI 10.1038/srep01521
+   Moreno J. L., 1951, Sociometry, experimental method and the science of society
+   Morone F, 2015, NATURE, V524, P65, DOI 10.1038/nature14604
+   Moussaïd M, 2011, P NATL ACAD SCI USA, V108, P6884, DOI 10.1073/pnas.1016507108
+   MULLEN B, 1994, PSYCHOL BULL, V115, P210, DOI 10.1037/0033-2909.115.2.210
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   Newton J., 2018, Games, V9, P31, DOI [DOI 10.3390/G9020031, 10. 3390/g9020031]
+   NITZAN S, 1984, THEOR DECIS, V17, P47, DOI 10.1007/BF00140055
+   Olson ME, 2019, TRENDS ECOL EVOL, V34, P605, DOI 10.1016/j.tree.2019.03.001
+   Olsson H., 2015, Proceedings of the Thirty-Seventh Annual Meeting of the Cognitive Science Society, P1769
+   Olsson H., 2021, PSYARXIV, DOI [10.31234/osf.io/agpk5, DOI 10.31234/OSF.IO/AGPK5]
+   Ostrom E., 1990, GOVERNING COMMONS EV, DOI DOI 10.1017/CBO9780511807763
+   Ostrom E, 2010, AM ECON REV, V100, P641, DOI 10.1257/aer.100.3.641
+   Ostrowski B, 2022, SMALL GR RES, V53, P3, DOI 10.1177/10464964211060348
+   Page SE, 2007, DIFFERENCE: HOW THE POWER OF DIVERSITY CREATES BETTER GROUPS, FIRMS, SCHOOLS, AND SOCIETIES, P1
+   PARHAMI B, 1994, IEEE T RELIAB, V43, P617, DOI 10.1109/24.370218
+   PAYNE JW, 1988, J EXP PSYCHOL LEARN, V14, P534, DOI 10.1037/0278-7393.14.3.534
+   Penrod S, 1995, PSYCHOL PUBLIC POL L, V1, P817, DOI 10.1037/1076-8971.1.4.817
+   PENROD S, 1979, PSYCHOL BULL, V86, P462, DOI 10.1037/0033-2909.86.3.462
+   PENROSE LS, 1946, J ROY STAT SOC A STA, V109, P53, DOI 10.2307/2981392
+   Pentland Alex, 2021, ICMI '21: Proceedings of the 2021 International Conference on Multimodal Interaction, P778, DOI 10.1145/3462244.3479880
+   Pentland Alex., 2014, Social Physics: How Social Networks Can Make Us Smarter
+   Perc M, 2017, PHYS REP, V687, P1, DOI 10.1016/j.physrep.2017.05.004
+   Pescetelli N, 2021, J EXP PSYCHOL GEN, V150, P507, DOI 10.1037/xge0000960
+   Pescetelli N, 2016, J EXP PSYCHOL GEN, V145, DOI 10.1037/xge0000180
+   Pivato M, 2017, J MATH ECON, V72, P51, DOI 10.1016/j.jmateco.2017.06.001
+   Plott CR, 1967, AM ECON REV, V57, P787
+   Poisson S. D., 1837, RECHERCHES PROBABILI
+   PRENTICE DA, 1993, J PERS SOC PSYCHOL, V64, P243, DOI 10.1037/0022-3514.64.2.243
+   Proskurnikov AV, 2017, ANNU REV CONTROL, V43, P65, DOI 10.1016/j.arcontrol.2017.03.002
+   Rand DG, 2011, P NATL ACAD SCI USA, V108, P19193, DOI 10.1073/pnas.1108243108
+   Rawlings B, 2017, CHILD DEV PERSPECT, V11, P39, DOI 10.1111/cdep.12206
+   Ready E, 2021, EVOL ANTHROPOL, V30, P71, DOI 10.1002/evan.21885
+   Redner S, 2019, CR PHYS, V20, P275, DOI 10.1016/j.crhy.2019.05.004
+   Rendell L, 2010, SCIENCE, V328, P208, DOI 10.1126/science.1184719
+   Riedl C, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2005737118
+   Rieskamp J, 2008, ACTA PSYCHOL, V127, P258, DOI 10.1016/j.actpsy.2007.05.004
+   Rieskamp J, 2006, J EXP PSYCHOL GEN, V135, P207, DOI 10.1037/0096-3445.135.2.207
+   Rogers EM., 1983, Diffusion of Innovations, V3
+   ROSS L, 1977, J EXP SOC PSYCHOL, V13, P279, DOI 10.1016/0022-1031(77)90049-X
+   Ryan PA, 2016, BIOL PHILOS, V31, P59, DOI 10.1007/s10539-015-9505-z
+   Saaty T., 1989, GROUP DECISION MAKIN
+   Saja AMA, 2021, INT J DISAST RISK SC, V12, P790, DOI 10.1007/s13753-021-00378-y
+   Salganik MJ, 2018, BIT BY BIT: SOCIAL RESEARCH IN THE DIGITAL AGE, P1
+   Sasaki T, 2017, NAT COMMUN, V8, DOI 10.1038/ncomms15049
+   Savage L.J., 1972, FDN STAT
+   Schläpfer M, 2021, NATURE, V593, P522, DOI 10.1038/s41586-021-03480-9
+   Schmelz K, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2104912118
+   Schmelz K, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2016385118
+   Secundo G, 2016, J INTELLECT CAP, V17, P298, DOI 10.1108/JIC-05-2015-0046
+   Shalizi CR, 2011, SOCIOL METHOD RES, V40, P211, DOI 10.1177/0049124111404820
+   Shi F, 2019, NAT HUM BEHAV, V3, P329, DOI 10.1038/s41562-019-0541-6
+   Siders AR, 2021, CURR OPIN ENV SUST, V52, P1, DOI 10.1016/j.cosust.2021.03.017
+   Simon H.A., 1976, From substantive to procedural rationality, 25 years of economic theory, P65, DOI DOI 10.1007/978-1-4613-4367-7_6
+   SIMON HA, 1978, AM ECON REV, V68, P1
+   SIMON HA, 1956, PSYCHOL REV, V63, P129, DOI 10.1037/h0042769
+   Simsek Ö, 2015, ADV NEUR IN, V28
+   Sloman S., 2019, P ANN C COGN SCI SOC, P2818
+   Sloman SJ, 2021, COGNITIVE SCI, V45, DOI 10.1111/cogs.13066
+   Smaldino P. E., 2023, Modeling Social behavior
+   Smaldino PE, 2018, SCI REP-UK, V8, DOI [10.1038/s41598-018-30248-5, 10.1038/s41598-018-22926-1]
+   Smaldino PE, 2014, BEHAV BRAIN SCI, V37, P243, DOI 10.1017/S0140525X13001544
+   SMITH ER, 1992, PSYCHOL REV, V99, P3, DOI 10.1037/0033-295X.99.1.3
+   Smolla M, 2019, SCI ADV, V5, DOI 10.1126/sciadv.aaw0609
+   Solé R, 2019, PHILOS T R SOC B, V374, DOI 10.1098/rstb.2019.0040
+   Soll JB, 2009, J EXP PSYCHOL LEARN, V35, P780, DOI 10.1037/a0015145
+   Sorkin RD, 1998, PSYCHOL SCI, V9, P456, DOI 10.1111/1467-9280.00085
+   STASSER G, 1985, J PERS SOC PSYCHOL, V48, P1467, DOI 10.1037/0022-3514.48.6.1467
+   Stephens W, 2021, STUD CONFL TERROR, V44, P346, DOI 10.1080/1057610X.2018.1543144
+   Steyvers M., 2015, HDB COLLECTIVE INTEL
+   Stubbersfield JM, 2015, BRIT J PSYCHOL, V106, P288, DOI 10.1111/bjop.12073
+   Surowiecki J, 2005, WISDOM CROWDS
+   Täuscher K, 2017, BUS HORIZONS, V60, P237, DOI 10.1016/j.bushor.2016.11.008
+   Tajfel Henri, 1981, HUMAN GROUPS SOCIAL
+   Thomas W. I., 1928, CHILD AM BEHAV PROBL
+   Todd P.M., 2012, Ecological Rationality: Intelligence in the World, P3, DOI DOI 10.1093/ACPROF:OSO/9780195315448.003.0011
+   Torney CJ, 2011, PLOS COMPUT BIOL, V7, DOI 10.1371/journal.pcbi.1002194
+   Tranter B, 2015, GLOBAL ENVIRON CHANG, V33, P154, DOI 10.1016/j.gloenvcha.2015.05.003
+   Tump AN, 2020, SCI ADV, V6, DOI 10.1126/sciadv.abb0266
+   Tump AN, 2022, PLOS COMPUT BIOL, V18, DOI 10.1371/journal.pcbi.1010442
+   Turbic NGB, 2023, SCI REP-UK, V13, DOI 10.1038/s41598-023-28569-1
+   Turner ME, 2001, APP SOC RES, P445
+   Turner RalphH., 1957, COLLECTIVE BEHAV
+   Turoff M, 2013, TECHNOL FORECAST SOC, V80, P1647, DOI 10.1016/j.techfore.2013.07.014
+   Vallacher RR, 2017, FRONT SOC PSYCHOL, P1
+   van Benthem J, 2006, INFORM COMPUT, V204, P1620, DOI 10.1016/j.ic.2006.04.006
+   van der Does T., 2021, SCI COMMUNICATION LI, DOI [10.31219/osf.io/zs7dq, DOI 10.31219/OSF.IO/ZS7DQ]
+   van der Maas HLJ, 2006, PSYCHOL REV, V113, P842, DOI 10.1037/0033-295X.113.4.842
+   Van Swol LM, 2005, BRIT J SOC PSYCHOL, V44, P443, DOI 10.1348/014466604X17092
+   Wang Z, 2015, EUR PHYS J B, V88, DOI 10.1140/epjb/e2015-60270-7
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Watts DJ, 2007, J CONSUM RES, V34, P441, DOI 10.1086/518527
+   West BJ., 2020, P NATL ACAD SCI USA, V117, p18 355
+   Whalen A, 2015, ANIM COGN, V18, P1093, DOI 10.1007/s10071-015-0877-x
+   Wimsatt WC., 1972, PSA 1972, V1972, P67, DOI [DOI 10.1086/PSAPROCBIENMEETP.1972.3698961, 10.1086/psaprocbienmeetp.1972.3698961]
+   Wisdom TN, 2013, COGNITIVE SCI, V37, P1383, DOI 10.1111/cogs.12052
+   Woolley AW, 2015, CURR DIR PSYCHOL SCI, V24, P420, DOI 10.1177/0963721415599543
+   Woolley AW, 2010, SCIENCE, V330, P686, DOI 10.1126/science.1193147
+   Yamagishi T, 2016, CURR OPIN PSYCHOL, V8, P119, DOI 10.1016/j.copsyc.2015.10.003
+   Yaniv I, 2004, ORGAN BEHAV HUM DEC, V93, P1, DOI 10.1016/j.obhdp.2003.08.002
+   Young HP, 2009, AM ECON REV, V99, P1899, DOI 10.1257/aer.99.5.1899
+NR 305
+TC 20
+Z9 20
+U1 32
+U2 98
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 1742-5689
+EI 1742-5662
+J9 J R SOC INTERFACE
+JI J. R. Soc. Interface
+PD MAR 22
+PY 2023
+VL 20
+IS 200
+AR 20220736
+DI 10.1098/rsif.2022.0736
+PG 19
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA A7SM2
+UT WOS:000957080600005
+PM 36946092
+OA Green Published, Green Submitted, hybrid
+HC Y
+HP N
+DA 2024-11-22
+ER
+
+PT J
+AU Kim, M
+   Fernandez, RM
+AF Kim, Minjae
+   Fernandez, Roberto M.
+TI What Makes Weak Ties Strong?
+SO ANNUAL REVIEW OF SOCIOLOGY
+LA English
+DT Article
+DE strength of weak ties; social networks; diffusion; structure versus
+   agency; bridging ties; computational social science
+ID NETWORK STRUCTURE; THRESHOLD MODELS; SOCIAL-STRUCTURE; RELATIONAL WORK;
+   LIFE-INSURANCE; JOB SEARCH; STRENGTH; KNOWLEDGE; GENDER; INFORMATION
+AB We raise two challenges concerning the validity of arguments underlying Granovetter's strength of weak ties (SWT) thesis: (a) whether weak ties are actually bridges, i.e., they help reach more socially distant actors than strong ties, and (b) whether weak ties transmit information effectively enough so that weak ties' alleged structural properties make them more useful than strong ties. In the course of reviewing subsequent research that has made progress in addressing these challenges, we identify both potential limits and possibilities for the SWT thesis. We argue for the importance of identifying how actors' agency-i.e., the way people use their ties-may affect social networks' value. We conclude by summarizing some outstanding questions that progress on the SWT thesis has generated.
+C1 [Kim, Minjae] Rice Univ, Dept Management Org Behav, Jones Grad Sch Business, Houston, TX 77005 USA.
+   [Kim, Minjae] Rice Univ, Dept Sociol, Houston, TX 77005 USA.
+   [Fernandez, Roberto M.] MIT, Dept Management, Sloan Sch Management, Cambridge, MA USA.
+   [Fernandez, Roberto M.] MIT, Dept Org Studies, Sloan Sch Management, Cambridge, MA USA.
+C3 Rice University; Rice University; Massachusetts Institute of Technology
+   (MIT); Massachusetts Institute of Technology (MIT)
+RP Kim, M (corresponding author), Rice Univ, Dept Management Org Behav, Jones Grad Sch Business, Houston, TX 77005 USA.; Kim, M (corresponding author), Rice Univ, Dept Sociol, Houston, TX 77005 USA.
+EM minjaekim@rice.edu; robertof@mit.edu
+RI Fernandez, Roberto/K-2308-2014
+OI /0000-0003-3441-2938
+CR Abraham M, 2020, ADMIN SCI QUART, V65, P151, DOI 10.1177/0001839219832813
+   Adut A, 2005, AM J SOCIOL, V111, P213, DOI 10.1086/428816
+   Almeling R, 2007, AM SOCIOL REV, V72, P319, DOI 10.1177/000312240707200301
+   [Anonymous], 1965, Structural Models: An Introduction to the Theory of Directed Graphs
+   Aral S, 2016, AM J SOCIOL, V121, P1931, DOI 10.1086/686293
+   Aral S, 2011, AM J SOCIOL, V117, P90, DOI 10.1086/661238
+   Aven B, 2021, ORGAN BEHAV HUM DEC, V166, P179, DOI 10.1016/j.obhdp.2019.07.004
+   Aven BL, 2015, ORGAN SCI, V26, P980, DOI 10.1287/orsc.2015.0983
+   BAKER WE, 1993, AM SOCIOL REV, V58, P837, DOI 10.2307/2095954
+   Baker WE, 2003, CRIMINOLOGY, V41, P1173, DOI 10.1111/j.1745-9125.2003.tb01017.x
+   Bearman P, 2004, SOC FORCES, V83, P535, DOI 10.1353/sof.2005.0001
+   Bian YJ, 1997, AM SOCIOL REV, V62, P366, DOI 10.2307/2657311
+   Blau PeterMichael., 1984, CROSSCUTTING SOCIAL
+   BOISSEVAIN J, 1968, MAN, V3, P542, DOI 10.2307/2798578
+   Bond BM, 2018, SOCIOL SCI, V5, P380, DOI 10.15195/v5.a17
+   Brands RA, 2019, ACAD MANAGE J, V62, P196, DOI 10.5465/amj.2016.0860
+   Brands RA, 2014, ORGAN SCI, V25, P1530, DOI 10.1287/orsc.2013.0880
+   Brashears ME, 2018, SOC NETWORKS, V55, P104, DOI 10.1016/j.socnet.2018.05.010
+   Brashears ME, 2011, SOC NETWORKS, V33, P331, DOI 10.1016/j.socnet.2011.10.003
+   Bruggeman J, 2016, AM J SOCIOL, V121, P1919, DOI 10.1086/686267
+   BURT RS, 1992, NETWORKS AND ORGANIZATIONS : STRUCTURE, FORM, AND ACTION, P57
+   Burt RS, 2002, SOC NETWORKS, V24, P333, DOI 10.1016/S0378-8733(02)00017-5
+   Centola D, 2005, AM J SOCIOL, V110, P1009, DOI 10.1086/427321
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   Centola D, 2015, AM J SOCIOL, V120, P1295, DOI 10.1086/681275
+   Chan CSC, 2009, AM J SOCIOL, V115, P712, DOI 10.1086/603532
+   Child C, 2021, SOCIOL SCI, V8, P1, DOI 10.15195/v8.a1
+   Chwe MichaelSuk-Young., 2003, Rational Ritual: Culture, Coordination, and Common Knowledge
+   Cingano F, 2012, J LABOR ECON, V30, P291, DOI 10.1086/663357
+   Coleman J. S., 1966, MED INNOVATION DIFFU
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   DAVIS JA, 1963, AM J SOCIOL, V68, P444, DOI 10.1086/223401
+   Fernandez RM, 2021, STRUC AN S, P251
+   Fischer Claude S., 1982, To Dwell among Friends: Personal Networks in Town and City
+   FRIEDKIN N, 1980, SOC NETWORKS, V2, P411, DOI 10.1016/0378-8733(80)90006-4
+   Gee LK, 2017, J LABOR ECON, V35, P485, DOI 10.1086/686225
+   Gee LK, 2017, J ECON BEHAV ORGAN, V133, P362, DOI 10.1016/j.jebo.2016.12.004
+   GRANOVETTER M, 1978, AM J SOCIOL, V83, P1420, DOI 10.1086/226707
+   GRANOVETTER M, 1983, J MATH SOCIOL, V9, P165, DOI 10.1080/0022250X.1983.9989941
+   GRANOVETTER M, 1985, AM J SOCIOL, V91, P481, DOI 10.1086/228311
+   Granovetter M, 1995, Getting a Job: A Study of Contacts and Careers
+   Granovetter M., 1983, SOCIOLOGICAL THEORY, V1, P201, DOI [https://doi.org/10.2307/202051, 10.2307/202051, DOI 10.2307/202051]
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Greenberg J, 2016, SOCIOL SCI, V3, P296, DOI 10.15195/v3.a14
+   Griswold W., 1994, CULTURES SOC CHANGIN
+   Guhin J, 2021, ANNU REV SOCIOL, V47, P109, DOI 10.1146/annurev-soc-090320-103012
+   Hagan JM, 1998, AM SOCIOL REV, V63, P55, DOI 10.2307/2657477
+   Hansen MT, 1999, ADMIN SCI QUART, V44, P82, DOI 10.2307/2667032
+   Hansen MT, 2002, ORGAN SCI, V13, P232, DOI 10.1287/orsc.13.3.232.2771
+   Heider F, 1946, J PSYCHOL, V21, P107, DOI 10.1080/00223980.1946.9917275
+   HOLLAND PW, 1971, COMP GROUP STUD, V2, P107, DOI 10.1177/104649647100200201
+   Horváth G, 2014, J ECON BEHAV ORGAN, V106, P442, DOI 10.1016/j.jebo.2014.07.017
+   IBARRA H, 1992, ADMIN SCI QUART, V37, P422, DOI 10.2307/2393451
+   Ingram P, 2008, RES ORGAN BEHAV, V28, P167, DOI 10.1016/j.riob.2008.04.006
+   Iorio A, 2022, ADMIN SCI QUART, V67, P769, DOI 10.1177/00018392221092242
+   Jahani E, 2022, SOCARXIV G2NKQ, DOI [10.31235/osf.io/g2nkq, DOI 10.31235/OSF.IO/G2NKQ]
+   Kim M, 2022, TRUTH TRUMPS FACTS 5
+   Kim M, 2017, SOC SCI RES, V65, P268, DOI 10.1016/j.ssresearch.2016.11.003
+   Kleinbaum AM, 2018, MANAGE SCI, V64, P2219, DOI 10.1287/mnsc.2016.2705
+   Kleinbaum AM, 2012, ADMIN SCI QUART, V57, P407, DOI 10.1177/0001839212461141
+   Kneeland MK, 2021, AGENCY ITS LIMITS AS
+   Kossinets G, 2009, AM J SOCIOL, V115, P405, DOI 10.1086/599247
+   KRACKHARDT D, 1987, SOC NETWORKS, V9, P109, DOI 10.1016/0378-8733(87)90009-8
+   KRACKHARDT D, 1988, SOC NETWORKS, V10, P359, DOI 10.1016/0378-8733(88)90004-4
+   KRACKHARDT D, 1992, NETWORKS AND ORGANIZATIONS : STRUCTURE, FORM, AND ACTION, P216
+   KRACKHARDT D, 1990, ADMIN SCI QUART, V35, P342, DOI 10.2307/2393394
+   Krackhardt David., 2003, Networks in the Knowledge Economy, P324
+   Kuttner Robert., 1997, Everything for sale : the virtues and limits of markets
+   Levin DZ, 2004, MANAGE SCI, V50, P1477, DOI 10.1287/mnsc.1030.0136
+   Li JB, 2020, ADMIN SCI QUART, V65, P314, DOI 10.1177/0001839219845875
+   LIN N, 1981, AM SOCIOL REV, V46, P393, DOI 10.2307/2095260
+   Lin N, 2000, CONTEMP SOCIOL, V29, P785, DOI 10.2307/2654086
+   LIU WT, 1972, PUBLIC OPIN QUART, V36, P361, DOI 10.1086/268018
+   Luo XW, 2005, ADMIN SCI QUART, V50, P404, DOI 10.2189/asqu.2005.50.3.404
+   Marin A, 2012, SOC NETWORKS, V34, P181, DOI 10.1016/j.socnet.2011.11.002
+   Marsden PV, 2012, SOC FORCES, V91, P17, DOI 10.1093/sf/sos112
+   MARSDEN PV, 1984, SOC FORCES, V63, P482, DOI 10.2307/2579058
+   MCADAM D, 1993, AM J SOCIOL, V99, P640, DOI 10.1086/230319
+   McDonald S, 2011, SOC SCI RES, V40, P1664, DOI 10.1016/j.ssresearch.2011.06.003
+   MCPHERSON JM, 1982, AM J SOCIOL, V87, P883, DOI 10.1086/227525
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   MILGRAM S, 1967, PSYCHOL TODAY, V1, P61
+   Mitchell J.C., 1969, SOCIAL NETWORKS URBA
+   MOORE G, 1990, AM SOCIOL REV, V55, P726, DOI 10.2307/2095868
+   Mouw T, 2003, AM SOCIOL REV, V68, P868, DOI 10.2307/1519749
+   Mouw T, 2006, ANNU REV SOCIOL, V32, P79, DOI 10.1146/annurev.soc.32.061604.123150
+   Neal ZP, 2022, SCIENCE, V377, P1304
+   Obukhova E, 2022, ACAD MANAG DISCOV, V8, P203, DOI 10.5465/amd.2020.0075
+   Obukhova E, 2013, MANAGE SCI, V59, P2204, DOI 10.1287/mnsc.1120.1701
+   Obukhova E, 2012, SOC SCI RES, V41, P570, DOI 10.1016/j.ssresearch.2011.12.010
+   Onnela JP, 2007, P NATL ACAD SCI USA, V104, P7332, DOI 10.1073/pnas.0610245104
+   Park PS, 2018, SCIENCE, V362, P1410, DOI 10.1126/science.aau9735
+   PORTES A, 1993, AM J SOCIOL, V98, P1320, DOI 10.1086/230191
+   Rajkumar K, 2022, SCIENCE, V377, P1304, DOI 10.1126/science.abl4476
+   Reagans R, 2003, ADMIN SCI QUART, V48, P240, DOI 10.2307/3556658
+   Reagans RE, 2008, IND CORP CHANGE, V17, P903, DOI 10.1093/icc/dtn036
+   Rossman G, 2014, SOCIOL THEOR, V32, P43, DOI 10.1177/0735275114523418
+   Schilke O, 2018, AM SOCIOL REV, V83, P1079, DOI 10.1177/0003122418806284
+   Smith SS, 2005, AM J SOCIOL, V111, P1, DOI 10.1086/428814
+   Szulanski G, 1996, STRATEGIC MANAGE J, V17, P27, DOI 10.1002/smj.4250171105
+   Tian FF, 2016, SOC NETWORKS, V44, P117, DOI 10.1016/j.socnet.2015.08.002
+   Uzzi B, 1997, ADMIN SCI QUART, V42, P35, DOI 10.2307/2393808
+   Watts DJ, 1999, AM J SOCIOL, V105, P493, DOI 10.1086/210318
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Weeden KA, 2021, SOCIOL SCI, V8, P73, DOI 10.15195/v8.a4
+   Weeden KA, 2020, SOCIOL SCI, V7, P222, DOI 10.15195/v7.a9
+   Willer R, 2009, AM J SOCIOL, V115, P451, DOI 10.1086/599250
+   Winship C, 2004, NEGOTIATION J, V20, P297, DOI 10.1111/j.1571-9979.2004.00024.x
+   WRONG DH, 1961, AM SOCIOL REV, V26, P183, DOI 10.2307/2089854
+   Wu L, 2008, P INT C INFORM SYSTE
+   Yakubovich V, 2005, AM SOCIOL REV, V70, P408, DOI 10.1177/000312240507000303
+   ZELIZER VA, 1978, AM J SOCIOL, V84, P591, DOI 10.1086/226828
+NR 112
+TC 8
+Z9 8
+U1 27
+U2 86
+PU ANNUAL REVIEWS
+PI PALO ALTO
+PA 4139 EL CAMINO WAY, PO BOX 10139, PALO ALTO, CA 94303-0139 USA
+SN 0360-0572
+EI 1545-2115
+J9 ANNU REV SOCIOL
+JI Annu. Rev. Sociol.
+PY 2023
+VL 49
+BP 177
+EP 193
+DI 10.1146/annurev-soc-030921-034152
+PG 17
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA N5DI0
+UT WOS:001037211700009
+OA hybrid
+DA 2024-11-22
+ER
+
+PT J
+AU Khafaei, T
+   Taraghi, AT
+   Hosseinzadeh, M
+   Rezaee, A
+AF Khafaei, Taleb
+   Taraghi, Alireza Tavakoli
+   Hosseinzadeh, Mehdi
+   Rezaee, Ali
+TI The Sensitivity of Community Extra-Structural Features on Event
+   Prediction in Dynamic Social Networks
+SO SOCIAL SCIENCE COMPUTER REVIEW
+LA English
+DT Article
+DE dynamic social networks; community features; event prediction; community
+   events; social network analysis
+ID EVOLUTION
+AB A dynamic Online Social Network is a special type of evolving complex network in which changes occur over time. The structure of a community may change over time due to the relationship changes between its members or with other communities. This is known as a community event. In this paper, we discussed the effect of important individual community features and the lengths of adequate time intervals considered in the analysis of the behavior of social networks on the prediction accuracy of each event. Furthermore, we introduced the extra-structural features as global social network features to justify the relationship between the lengths of time intervals used in the model training by using the best prediction accuracy of events. We found a relationship between the scale of network dynamics and the length of time intervals for observing the spread and decomposed events. Finally, by comparing the accuracy of the model based on time interval length which investigated based on cps-value in this study and using the Event Prediction in Dynamic Social Network (EPDSN) model, the hypothesis of a reverse relationship between cps growth rate and time interval length to obtain better prediction accuracy for both the spread and decomposed events.
+C1 [Khafaei, Taleb; Rezaee, Ali] Islamic Azad Univ, Dept Comp Engn, Sci & Res Branch, Tehran, Iran.
+   [Taraghi, Alireza Tavakoli] Shahid Beheshti Univ, Comp Sci Grp Math Dept, Tehran, Iran.
+   [Hosseinzadeh, Mehdi] Univ Human Dev, Comp Sci, Sulaymaniyah, Iraq.
+   [Hosseinzadeh, Mehdi] Iran Univ Med Sci, Mental Hlth Res Ctr, Psycholosocial Hlth Res Inst, Tehran, Iran.
+C3 Islamic Azad University; Shahid Beheshti University; Iran University of
+   Medical Sciences
+RP Taraghi, AT (corresponding author), Shahid Beheshti Univ, Dept Comp Sci Grp Math, Tehran, Iran.
+EM alireza.tavakoli@gmail.com
+RI Hosseinzadeh, Mehdi/GWV-3822-2022; Khafaei, Taleb/E-1821-2018
+OI Rezaee, Ali/0000-0002-6007-7929
+CR Asur S, 2009, ACM T KNOWL DISCOV D, V3, DOI 10.1145/1631162.1631164
+   Berger-Wolf T. Y., 2006, P 12 ACM SIGKDD INT, P523, DOI 10.1145/1150402.1150462
+   BONACICH P, 1972, J MATH SOCIOL, V2, P113, DOI 10.1080/0022250X.1972.9989806
+   Boroujeni MS, 2018, PROCEEDINGS OF THE 8TH INTERNATIONAL CONFERENCE ON LEARNING ANALYTICS & KNOWLEDGE (LAK'18): TOWARDS USER-CENTRED LEARNING ANALYTICS, P206, DOI 10.1145/3170358.3170388
+   Breiman L., 2001, Machine Learning, V45, P5, DOI 10.1023/A:1010933404324
+   Bródka P, 2013, SOC NETW ANAL MIN, V3, P1, DOI 10.1007/s13278-012-0058-8
+   Bródka P, 2012, LECT NOTES COMPUT SC, V7710, P54, DOI 10.1007/978-3-642-35386-4_5
+   Caschera MC, 2019, EVOL SYST-GER, V10, P363, DOI 10.1007/s12530-018-9242-z
+   Chen NY, 2020, IEEE ACCESS, V8, P27915, DOI 10.1109/ACCESS.2020.2970483
+   Chiang K.-Y., 2011, 20 ACM INT C INF KNO
+   Csardi Gabor NT., 2005, INT J COMPLEX SYST, V2006, P1695, DOI DOI 10.3724/SP.J.1087.2009.02191
+   Cuzzocrea A., 2013, P 17 INT DAT ENG APP
+   Dakiche N, 2019, SAC '19: PROCEEDINGS OF THE 34TH ACM/SIGAPP SYMPOSIUM ON APPLIED COMPUTING, P2078, DOI 10.1145/3297280.3297484
+   Derényi I, 2005, PHYS REV LETT, V94, DOI 10.1103/PhysRevLett.94.160202
+   Enright AJ, 2002, NUCLEIC ACIDS RES, V30, P1575, DOI 10.1093/nar/30.7.1575
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   Gliwa B, 2013, 2013 IEEE/ACM INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING (ASONAM), P1291
+   Greene D, 2010, 2010 INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING (ASONAM 2010), P176, DOI 10.1109/ASONAM.2010.17
+   Grover A, 2016, KDD'16: PROCEEDINGS OF THE 22ND ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P855, DOI 10.1145/2939672.2939754
+   Huang S., 2011, MACH LEARN APPL WORK
+   Ilhan N, 2016, ENG APPL ARTIF INTEL, V55, P202, DOI 10.1016/j.engappai.2016.06.003
+   Khafaei T, 2019, SOC NETW ANAL MIN, V9, DOI 10.1007/s13278-019-0604-8
+   Kunegis J, 2013, PROCEEDINGS OF THE 22ND INTERNATIONAL CONFERENCE ON WORLD WIDE WEB (WWW'13 COMPANION), P1343
+   Leskovec J., 2010, ICWSM WASH DC
+   Leskovec J., 2014, STANFORD LARGE NETWO
+   Li WZ, 2020, IEEE ACCESS, V8, P46267, DOI 10.1109/ACCESS.2020.2978522
+   Liben-Nowell D, 2007, J AM SOC INF SCI TEC, V58, P1019, DOI 10.1002/asi.20591
+   Lichtenwalter J. T., 2010, Proceedings of the 16th ACM SIGKDD international conference on Knowledge discovery and data mining, P243
+   Liu HT, 2017, AIP CONF PROC, V1820, DOI 10.1063/1.4977393
+   Loia V, 2019, FUTURE GENER COMP SY, V101, P983, DOI 10.1016/j.future.2019.07.049
+   Martínez V, 2017, ACM COMPUT SURV, V49, DOI 10.1145/3012704
+   Mohammadmosaferi KK, 2020, EXPERT SYST APPL, V147, DOI 10.1016/j.eswa.2020.113221
+   Palla G, 2005, NATURE, V435, P814, DOI 10.1038/nature03607
+   Palla G, 2007, NATURE, V446, P664, DOI 10.1038/nature05670
+   Panzarasa P, 2009, J AM SOC INF SCI TEC, V60, P911, DOI 10.1002/asi.21015
+   Paranjape A, 2017, WSDM'17: PROCEEDINGS OF THE TENTH ACM INTERNATIONAL CONFERENCE ON WEB SEARCH AND DATA MINING, P601, DOI 10.1145/3018661.3018731
+   Rajita BSAS, 2018, 2018 9TH IEEE INTERNATIONAL CONFERENCE ON BIG KNOWLEDGE (ICBK), P235, DOI 10.1109/ICBK.2018.00039
+   Read J, 2012, MACH LEARN, V88, P243, DOI 10.1007/s10994-012-5279-6
+   RStudio Team, 2015, RSTUDIO INT DEV R
+   Saganowski S, 2015, ENTROPY-SWITZ, V17, P3053, DOI 10.3390/e17053053
+   Symeonidis P., 2010, P 4 ACM C REC SYST B
+   Traag VA, 2019, SCI REP-UK, V9, DOI 10.1038/s41598-019-41695-z
+   Viswanath B, 2009, 2ND ACM SIGCOMM WORKSHOP ON ONLINE SOCIAL NETWORKS (WOSN 09), P37
+   Xu ZO, 2020, KNOWL-BASED SYST, V192, DOI 10.1016/j.knosys.2019.105377
+   Yang J, 2014, ACM T INTEL SYST TEC, V5, DOI 10.1145/2594454
+   Yu W, 2019, IEEE ACCESS, V7, P71350, DOI 10.1109/ACCESS.2019.2920237
+NR 46
+TC 1
+Z9 1
+U1 2
+U2 18
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0894-4393
+EI 1552-8286
+J9 SOC SCI COMPUT REV
+JI Soc. Sci. Comput. Rev.
+PD AUG
+PY 2023
+VL 41
+IS 4
+BP 1187
+EP 1206
+AR 08944393211055813
+DI 10.1177/08944393211055813
+EA FEB 2022
+PG 20
+WC Computer Science, Interdisciplinary Applications; Information Science &
+   Library Science; Social Sciences, Interdisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science; Information Science & Library Science; Social Sciences
+   - Other Topics
+GA K6TJ0
+UT WOS:000772475400001
+DA 2024-11-22
+ER
+
+PT J
+AU Ezzeddine, F
+   Ayoub, O
+   Giordano, S
+   Nogara, G
+   Sbeity, I
+   Ferrara, E
+   Luceri, L
+AF Ezzeddine, Fatima
+   Ayoub, Omran
+   Giordano, Silvia
+   Nogara, Gianluca
+   Sbeity, Ihab
+   Ferrara, Emilio
+   Luceri, Luca
+TI Exposing influence campaigns in the age of LLMs: a behavioral-based AI
+   approach to detecting state-sponsored trolls
+SO EPJ DATA SCIENCE
+LA English
+DT Article
+DE Social network; Troll; Misinformation
+ID NEURAL-NETWORKS
+AB The detection of state-sponsored trolls operating in influence campaigns on social media is a critical and unsolved challenge for the research community, which has significant implications beyond the online realm. To address this challenge, we propose a new AI-based solution that identifies troll accounts solely through behavioral cues associated with their sequences of sharing activity, encompassing both their actions and the feedback they receive from others. Our approach does not incorporate any textual content shared and consists of two steps: First, we leverage an LSTM-based classifier to determine whether account sequences belong to a state-sponsored troll or an organic, legitimate user. Second, we employ the classified sequences to calculate a metric named the "Troll Score", quantifying the degree to which an account exhibits troll-like behavior. To assess the effectiveness of our method, we examine its performance in the context of the 2016 Russian interference campaign during the U.S. Presidential election. Our experiments yield compelling results, demonstrating that our approach can identify account sequences with an AUC close to 99% and accurately differentiate between Russian trolls and organic users with an AUC of 91%. Notably, our behavioral-based approach holds a significant advantage in the ever-evolving landscape, where textual and linguistic properties can be easily mimicked by Large Language Models (LLMs): In contrast to existing language-based techniques, it relies on more challenging-to-replicate behavioral cues, ensuring greater resilience in identifying influence campaigns, especially given the potential increase in the usage of LLMs for generating inauthentic content. Finally, we assessed the generalizability of our solution to various entities driving different information operations and found promising results that will guide future research.
+C1 [Ezzeddine, Fatima; Ayoub, Omran; Giordano, Silvia; Nogara, Gianluca; Luceri, Luca] Univ Appl Sci & Arts Southern Switzerland, Dept Innovat Technol, Lugano, Switzerland.
+   [Ezzeddine, Fatima; Sbeity, Ihab] Lebanese Univ, Fac Sci, Dept Appl Math, Beirut, Lebanon.
+   [Ferrara, Emilio; Luceri, Luca] Univ Southern Calif, Viterbi Sch Engn, Informat Sci Inst, Marina Del Rey, CA USA.
+C3 Lebanese University; University of Southern California
+RP Ezzeddine, F (corresponding author), Univ Appl Sci & Arts Southern Switzerland, Dept Innovat Technol, Lugano, Switzerland.; Ezzeddine, F (corresponding author), Lebanese Univ, Fac Sci, Dept Appl Math, Beirut, Lebanon.
+EM fatima.ezzeddine@supsi.ch
+RI Luceri, Luca/AAQ-8158-2020; Ferrara, Emilio/F-6136-2012; Giordano,
+   Stefano/A-7138-2013
+OI Ayoub, Omran/0000-0002-3884-3594; Ezzeddine, Fatima/0000-0002-5128-5814
+FU Swiss National Science Foundation [CRSII5_209250]; SPARK project
+   Detecting Troll Activity in Online Social Networks [CRSK-2_195707];
+   Swiss National Science Foundation (SNF) [CRSK-2_195707, CRSII5_209250]
+   Funding Source: Swiss National Science Foundation (SNF)
+FX The authors gratefully acknowledge support by the Swiss National Science
+   Foundation through the Sinergia project(CRSII5_209250) CAll for
+   Regulation support In Social MediA (CARISMA) and the SPARK project
+   Detecting Troll Activity in Online Social Networks (CRSK-2_195707).
+CR Abou Daya A, 2019, 2019 IFIP/IEEE SYMPOSIUM ON INTEGRATED NETWORK AND SERVICE MANAGEMENT (IM), P144
+   Addawood A., 2019, PROC INT AAAI C WEB, V13, P15, DOI 10.1609/icwsm.v13i01.3205
+   Alhazbi S, 2020, IEEE ACCESS, V8, P195132, DOI 10.1109/ACCESS.2020.3033666
+   Alizadeh M, 2020, SCI ADV, V6, DOI 10.1126/sciadv.abb5824
+   Allem Jon-Patrick, 2017, JMIR Public Health Surveill, V3, pe98, DOI 10.2196/publichealth.8641
+   [Anonymous], 2020, LANCET INFECT DIS, V20, P875, DOI 10.1016/S1473-3099(20)30565-X
+   [Anonymous], 2018, Why so serious, DOI [10.2139/ssrn.3131087, DOI 10.2139/SSRN.3131087]
+   Aro Jessikka, 2016, EUROPEAN VIEW, V15, P121, DOI DOI 10.1007/S12290-016-0395-5
+   Badawy A, 2019, SOC NETW ANAL MIN, V9, DOI 10.1007/s13278-019-0578-6
+   Carroll O, 2017, The Independent
+   Chavoshi N, 2016, IEEE DATA MINING, P817, DOI [10.1109/ICDM.2016.0096, 10.1109/ICDM.2016.86]
+   Chen E, 2022, J COMPUT SOC SCI, V5, P1, DOI 10.1007/s42001-021-00117-9
+   Cresci S, 2018, IEEE T DEPEND SECURE, V15, P561, DOI 10.1109/TDSC.2017.2681672
+   Del Vicario M, 2016, SCI REP-UK, V6, DOI 10.1038/srep37825
+   Drumnond C., 2003, ICML KDD 2003 WORKSH
+   Ferrara E, 2023, First Monday
+   Ferrara E., 2015, ACM SIGWEB NEWSLETTE, P1
+   Ferrara E, 2016, First Monday, V21, P1, DOI 10.5210/fm.v21i11.7090
+   Ferrara E, 2022, Arxiv, DOI arXiv:2211.05913
+   Ferrara E, 2020, J COMPUT SOC SCI, V3, P271, DOI 10.1007/s42001-020-00094-5
+   Ferrara E, 2016, COMMUN ACM, V59, P96, DOI 10.1145/2818717
+   Frommer D, 2019, Twitter's list of 2,752 Russian trolls
+   Gadde Vijaya, 2021, ADDITIONAL STEPS WER
+   Hu ZW, 2020, J MED INTERNET RES, V22, DOI 10.2196/22639
+   Im J, 2020, PROCEEDINGS OF THE 12TH ACM CONFERENCE ON WEB SCIENCE, WEBSCI 2020, P1, DOI 10.1145/3394231.3397889
+   Ionin T, 2008, LINGUA, V118, P554, DOI 10.1016/j.lingua.2006.11.012
+   Jachim P, 2020, NEW SECURITY PARADIGMS WORKSHOP (NSPW 2020), P59, DOI 10.1145/3442167.3442169
+   Kim D, 2019, J COMPUT SOC SCI, V2, P331, DOI 10.1007/s42001-019-00051-x
+   Kudugunta S, 2018, INFORM SCIENCES, V467, P312, DOI 10.1016/j.ins.2018.08.019
+   La Gatta V, 2023, 34TH ACM CONFERENCE ON HYPERTEXT AND SOCIAL MEDIA, HT 2023, DOI 10.1145/3603163.3609058
+   Liu XY, 2009, IEEE T SYST MAN CY B, V39, P539, DOI 10.1109/TSMCB.2008.2007853
+   Luceri L, 2021, First Monday
+   Luceri L, 2021, The Internet and the 2020 Campaign, V1
+   Luceri L., 2020, P INT AAAI C WEB SOC, V14, P417, DOI 10.1609/icwsm.v14i1.7311
+   Luceri L., 2019, 1 MONDAY
+   Matakos A, 2017, DATA MIN KNOWL DISC, V31, P1480, DOI 10.1007/s10618-017-0527-9
+   Mazza M, 2022, COMPUT COMMUN, V196, P23, DOI 10.1016/j.comcom.2022.09.022
+   Mazza M, 2019, PROCEEDINGS OF THE 11TH ACM CONFERENCE ON WEB SCIENCE (WEBSCI'19), P183, DOI 10.1145/3292522.3326015
+   Menczer F, 2023, NAT MACH INTELL, DOI 10.1038/s42256-023-00690-w
+   Metaxas P., 2015, P INT AAAI C WEB SOC
+   Metaxas PT, 2012, SCIENCE, V338, P472, DOI 10.1126/science.1230456
+   Mitrovic S., 2023, arXiv
+   Mueller Robert S., 2019, Report on the Investigation into Russian Interference in the 2016 Presidential Election
+   Nicolai G, 2014, PROCEEDINGS OF THE 52ND ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, VOL 2, P854
+   Nielsen MA., 2015, NEURAL NETWORKS DEEP, V25
+   Nogara G, 2022, PROCEEDINGS OF THE 14TH ACM WEB SCIENCE CONFERENCE, WEBSCI 2022, P348, DOI 10.1145/3501247.3531573
+   Nwala AC, 2023, EPJ DATA SCI, V12, DOI 10.1140/epjds/s13688-023-00410-9
+   Pariser E., 2011, The Filter Bubble: What The Internet Is Hiding From You
+   Phadke S., 2022, P INT AAAI C WEB SOC, P770, DOI DOI 10.1609/ICWSM.V16I1.19333
+   Pierri F, 2023, PROCEEDINGS OF THE 15TH ACM WEB SCIENCE CONFERENCE, WEBSCI 2023, P65, DOI 10.1145/3578503.3583597
+   Pierri F, 2023, Arxiv, DOI [arXiv:2209.07614, DOI 10.48550/ARXIV.2209.07614]
+   Pierri F, 2022, Arxiv, DOI arXiv:2209.01675
+   Pierri F, 2022, SCI REP-UK, V12, DOI 10.1038/s41598-022-10070-w
+   Popken Ben, 2018, NBC News, V14
+   Saeed M. H., 2021, arXiv
+   Srivastava N, 2014, J MACH LEARN RES, V15, P1929
+   Stella M, 2018, P NATL ACAD SCI USA, V115, P12435, DOI 10.1073/pnas.1803470115
+   Suresh VP., 2024, P INT AAAI C WEB SOC
+   Valldor E., 2018, SWED S DEEP LEARN
+   Vanhove T, 2013, 2013 IFIP/IEEE INTERNATIONAL SYMPOSIUM ON INTEGRATED NETWORK MANAGEMENT (IM 2013), P1195
+   Vosoughi S, 2018, SCIENCE, V359, P1146, DOI 10.1126/science.aap9559
+   Wang EMY, 2022, Arxiv, DOI arXiv:2209.09339
+   Wang G, 2016, 34TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, CHI 2016, P225, DOI 10.1145/2858036.2858107
+   Weller H, 2019, Identifying russian trolls on reddit with deep learning and bert word embeddings
+   Yang KC, 2023, Arxiv, DOI [arXiv:2307.16336, 10.48550/arXiv.2307.16336, DOI 10.48550/ARXIV.2307.16336]
+   Zannettou S, 2019, PROCEEDINGS OF THE 11TH ACM CONFERENCE ON WEB SCIENCE (WEBSCI'19), P353, DOI 10.1145/3292522.3326016
+   Zollo F, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0138740
+NR 67
+TC 1
+Z9 1
+U1 5
+U2 13
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+EI 2193-1127
+J9 EPJ DATA SCI
+JI EPJ Data Sci.
+PD OCT 9
+PY 2023
+VL 12
+IS 1
+AR 46
+DI 10.1140/epjds/s13688-023-00423-4
+PG 21
+WC Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Mathematical Methods In Social Sciences
+GA U0QA1
+UT WOS:001081926100001
+PM 37822355
+OA gold, Green Published, Green Submitted
+DA 2024-11-22
+ER

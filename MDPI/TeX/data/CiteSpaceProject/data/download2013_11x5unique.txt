@@ -1,0 +1,543 @@
+
+PT J
+AU Chunara, R
+   Bouton, L
+   Ayers, JW
+   Brownstein, JS
+AF Chunara, Rumi
+   Bouton, Lindsay
+   Ayers, John W.
+   Brownstein, John S.
+TI Assessing the Online Social Environment for Surveillance of Obesity
+   Prevalence
+SO PLOS ONE
+LA English
+DT Article
+ID ASSOCIATIONS; RISK; RELIABILITY; OVERWEIGHT; CHILDREN; NETWORK; WEIGHT;
+   ADULTS; NORMS
+AB Background: Understanding the social environmental around obesity has been limited by available data. One promising approach used to bridge similar gaps elsewhere is to use passively generated digital data.
+   Purpose: This article explores the relationship between online social environment via web-based social networks and population obesity prevalence.
+   Methods: We performed a cross-sectional study using linear regression and cross validation to measure the relationship and predictive performance of user interests on the online social network Facebook to obesity prevalence in metros across the United States of America (USA) and neighborhoods within New York City (NYC). The outcomes, proportion of obese and/or overweight population in USA metros and NYC neighborhoods, were obtained via the Centers for Disease Control and Prevention Behavioral Risk Factor Surveillance and NYC EpiQuery systems. Predictors were geographically specific proportion of users with activity-related and sedentary-related interests on Facebook.
+   Results: Higher proportion of the population with activity-related interests on Facebook was associated with a significant 12.0% (95% Confidence Interval (CI) 11.9 to 12.1) lower predicted prevalence of obese and/or overweight people across USA metros and 7.2% (95% CI: 6.8 to 7.7) across NYC neighborhoods. Conversely, greater proportion of the population with interest in television was associated with higher prevalence of obese and/or overweight people of 3.9% (95% CI: 3.7 to 4.0) (USA) and 27.5% (95% CI: 27.1 to 27.9, significant) (NYC). For activity-interests and national obesity outcomes, the average root mean square prediction error from 10-fold cross validation was comparable to the average root mean square error of a model developed using the entire data set.
+   Conclusions: Activity-related interests across the USA and sedentary-related interests across NYC were significantly associated with obesity prevalence. Further research is needed to understand how the online social environment relates to health outcomes and how it can be used to identify or target interventions.
+C1 [Chunara, Rumi; Brownstein, John S.] Harvard Univ, Sch Med, Dept Pediat, Boston, MA 02115 USA.
+   [Chunara, Rumi; Brownstein, John S.] Boston Childrens Hosp, Div Emergency Med, Childrens Hosp Informat Program, Boston, MA USA.
+   [Bouton, Lindsay] Harvard Univ, Sch Publ Hlth, Boston, MA 02115 USA.
+   [Ayers, John W.] San Diego State Univ, Grad Sch Publ Hlth, San Diego, CA 92182 USA.
+C3 Harvard University; Harvard Medical School; Harvard University; Boston
+   Children's Hospital; Harvard University; Harvard T.H. Chan School of
+   Public Health; California State University System; San Diego State
+   University
+RP Chunara, R (corresponding author), Harvard Univ, Sch Med, Dept Pediat, Boston, MA 02115 USA.
+EM rumi@alum.mit.edu
+RI Brownstein, John/A-1438-2011
+FU National Library of Medicine [G08 LM009776]; National Institutes of
+   Health [R01 LM010812]
+FX This work was supported by grants from the National Library of Medicine
+   (G08 LM009776) and National Institutes of Health (R01 LM010812). The
+   funders had no role in study design, data collection and analysis,
+   decision to publish, or preparation of the manuscript.
+CR An RP, 2012, AM J PREV MED, V42, P129, DOI 10.1016/j.amepre.2011.10.012
+   Ayers JW, 2010, J SCI STUD RELIG, V49, P536, DOI 10.1111/j.1468-5906.2010.01527.x
+   Bahr DB, 2009, OBESITY, V17, P723, DOI 10.1038/oby.2008.615
+   Barba C, 2004, LANCET, V363, P157, DOI 10.1016/s0140-6736(03)15268-3
+   Bond RM, 2012, NATURE, V489, P295, DOI 10.1038/nature11421
+   Chang VW, 2003, AM J PREV MED, V24, P332, DOI 10.1016/S0749-3797(03)00020-5
+   Christakis NA, 2008, NEW ENGL J MED, V358, P2249, DOI 10.1056/NEJMsa0706154
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   Chunara R, 2012, AM J TROP MED HYG, V86, P39, DOI 10.4269/ajtmh.2012.11-0597
+   CIALDINI RB, 1990, J PERS SOC PSYCHOL, V58, P1015, DOI 10.1037/0022-3514.58.6.1015
+   Cohen DA, 2006, SOC SCI MED, V62, P769, DOI 10.1016/j.socscimed.2005.06.033
+   DeJong W, 2006, J STUD ALCOHOL, V67, P868, DOI 10.15288/jsa.2006.67.868
+   Dekkers JC, 2008, BMC MED RES METHODOL, V8, DOI 10.1186/1471-2288-8-69
+   eBiz MBA, 2012, TOP 15 MOST POP SOC
+   Elbel B, 2012, NEW ENGL J MED, V23, P23
+   Ginsberg J, 2009, NATURE, V457, P1012, DOI 10.1038/nature07634
+   Glass TA, 2006, AM J PREV MED, V31, P455, DOI 10.1016/j.amepre.2006.07.028
+   Golder SA, 2011, SCIENCE, V333, P1878, DOI 10.1126/science.1202775
+   Gortmaker SL, 1996, ARCH PEDIAT ADOL MED, V150, P356, DOI 10.1001/archpedi.1996.02170290022003
+   Hill JO, 1998, SCIENCE, V280, P1371, DOI 10.1126/science.280.5368.1371
+   Hu FB, 2003, JAMA-J AM MED ASSOC, V289, P1785, DOI 10.1001/jama.289.14.1785
+   Imai K, 2007, IS LEAST SEQUARES RE
+   Kim S, 2000, AM J CLIN NUTR, V71, P44
+   KING G, 2000, AM J POLIT SCI, V0044
+   Moreno MA, 2012, J BEHAV HEALTH SER R, V39, P295, DOI 10.1007/s11414-011-9258-7
+   Napolitano MA, 2012, USING FACEBOOK TEXT
+   Nelson DE, 2001, SOZ PRAVENTIV MED, V46, pS3
+   NETER J., 1996, APPL LINEAR STAT MET
+   New York City Department of Health and Mental Hygiene, 2010, COMM HLTH SURV
+   Ogden CL, 2012, JAMA-J AM MED ASSOC, V307, P483, DOI [10.1001/jama.2012.40, 10.1001/jama.2012.39]
+   Olson D.L., 2008, ADV DATA MINING TECH
+   Pettee KK, 2009, OBESITY, V17, P487, DOI 10.1038/oby.2008.554
+   Salathé M, 2010, P NATL ACAD SCI USA, V107, P22020, DOI 10.1073/pnas.1009094108
+   Sallis JF, 2009, SOC SCI MED, V68, P1285, DOI 10.1016/j.socscimed.2009.01.017
+   Signorini A, 2010, USING TWITTER ESTIMA
+   SOBAL J, 1989, PSYCHOL BULL, V105, P260, DOI 10.1037/0033-2909.105.2.260
+   The Centers for Disease Control, 2010, SMART BRFSS CIT COUN
+   The Centers for Disease Control, 2010, 2010 SMART BRFSS CIT
+   The Centers for Disease Control and Prevention, MART BRFSS CIT COUNT
+   Van Dyck D, 2012, SOC SCI MED, V74, P1375, DOI 10.1016/j.socscimed.2012.01.018
+NR 40
+TC 44
+Z9 50
+U1 0
+U2 18
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD APR 24
+PY 2013
+VL 8
+IS 4
+AR e61373
+DI 10.1371/journal.pone.0061373
+PG 8
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA 136DE
+UT WOS:000318340400017
+PM 23637820
+OA gold, Green Submitted, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Centola, DM
+AF Centola, Damon M.
+TI Homophily, networks, and critical mass: Solving the start-up problem in
+   large group collective action
+SO RATIONALITY AND SOCIETY
+LA English
+DT Article
+DE Collective action; critical mass; large group problem; social networks;
+   homophily
+ID GROUP HETEROGENEITY; GROUP-SIZE; DYNAMICS; COOPERATION; MODELS; PROTEST;
+   SPREAD; NORMS
+AB Formal theories of collective action face the problem that in large groups a single actor makes such a small impact on the collective good that cooperation is irrational. Critical mass theorists argue that this 'large group problem' can be solved by an initial critical mass of contributors, whose efforts can produce a 'bandwagon' effect, making cooperation rational for the remaining members of the population. However, critical mass theory requires an explanation of how a critical mass can form in the first place. I present a model of collective action that solves this problem by showing how aspects of social structure - including network topology, homophily, and local coalition formation - can allow rational actors to endogenously form a critical mass. The findings indicate that as the mobilization effort becomes more 'complex', clustered networks and homophily become increasingly important for critical mass collective action.
+C1 MIT Sloan Sch, Cambridge, MA 02142 USA.
+RP Centola, DM (corresponding author), MIT Sloan Sch, 100 Main St,E62-462, Cambridge, MA 02142 USA.
+EM dcentola@mit.edu
+CR [Anonymous], 1991, Collective Action and the Civil Rights Movement
+   [Anonymous], 1999, Noise in Spatially Extended Systems
+   [Anonymous], RES SOCIAL MOVEMENTS
+   BONACICH P, 1976, J CONFLICT RESOLUT, V20, P687, DOI 10.1177/002200277602000406
+   Boyd R, 2002, J THEOR BIOL, V215, P287, DOI 10.1006/jtbi.2001.2515
+   BUCHANAN JM, 1965, ECONOMICA, V32, P1, DOI 10.2307/2552442
+   Centola D, 2005, AM J SOCIOL, V110, P1009, DOI 10.1086/427321
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   Centola D, 2007, PHYSICA A, V374, P449, DOI 10.1016/j.physa.2006.06.018
+   Centola D, 2011, SCIENCE, V334, P1269, DOI 10.1126/science.1207055
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Chiang YS, 2007, J MATH SOCIOL, V31, P47, DOI 10.1080/00222500601013536
+   Chwe MSY, 1999, AM J SOCIOL, V105, P128, DOI 10.1086/210269
+   COLLINS R, 1993, RATION SOC, V5, P203, DOI 10.1177/1043463193005002005
+   Dodds PS, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.218701
+   Dodds PS, 2005, J THEOR BIOL, V232, P587, DOI 10.1016/j.jtbi.2004.09.006
+   ELLICKSON B, 1973, AM ECON REV, V63, P417
+   Ferree M.M., 1992, FRONTIERS SOCIAL MOV, P29
+   FINKEL SE, 1989, AM POLIT SCI REV, V83, P885, DOI 10.2307/1962065
+   Fireman Bruce., 1979, The Dynamics of Social Movements, P8
+   GOULD RV, 1993, AM SOCIOL REV, V58, P182, DOI 10.2307/2095965
+   Gould RV, 1996, INSURGENT IDENTITIES
+   Goyal S, 1996, J INST THEOR ECON, V152, P472
+   GRANOVETTER M, 1978, AM J SOCIOL, V83, P1420, DOI 10.1086/226707
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   HAMBURGER H, 1973, J MATH SOCIOL, V3, P27, DOI 10.1080/0022250X.1973.9989822
+   HARDIN R., 1982, COLLECTIVE ACTION
+   Hechter M., 1987, PRINCIPLES GROUP SOL
+   Heckathorn DD, 1996, AM SOCIOL REV, V61, P250, DOI 10.2307/2096334
+   HECKATHORN DD, 1993, AM SOCIOL REV, V58, P329, DOI 10.2307/2095904
+   HECKATHORN DD, 1990, AM SOCIOL REV, V55, P366, DOI 10.2307/2095762
+   HEDSTROM P, 1994, AM J SOCIOL, V99, P1157, DOI 10.1086/230408
+   Kim HJ, 1997, AM SOCIOL REV, V62, P70, DOI 10.2307/2657453
+   Kitts J. A., 1999, Computational & Mathematical Organization Theory, V5, P129, DOI 10.1023/A:1009670804792
+   Kitts JA, 2006, AM SOCIOL REV, V71, P235, DOI 10.1177/000312240607100204
+   Kitts JA, 2008, J MATH SOCIOL, V32, P142, DOI 10.1080/00222500801932014
+   Kitts JamesA., 2000, MOBILIZATION, V5, P241, DOI [10.17813/maiq.5.2.5408016w34215787, DOI 10.17813/MAIQ.5.2.5408016W34215787]
+   MACY MW, 1990, AM SOCIOL REV, V55, P809, DOI 10.2307/2095747
+   MACY MW, 1991, AM SOCIOL REV, V56, P730, DOI 10.2307/2096252
+   MARWELL G, 1988, AM J SOCIOL, V94, P502, DOI 10.1086/229028
+   Marwell G, 1993, The critical mass in collective action
+   MCADAM D, 1986, AM J SOCIOL, V92, P64, DOI 10.1086/228463
+   MCADAM D, 1993, AM J SOCIOL, V99, P640, DOI 10.1086/230319
+   McAdam D., 1988, FREEDOM SUMMER
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Newman MEJ, 2000, J STAT PHYS, V101, P819, DOI 10.1023/A:1026485807148
+   OLIVER P, 1985, AM J SOCIOL, V91, P522, DOI 10.1086/228313
+   OLIVER PE, 1993, ANNU REV SOCIOL, V19, P271
+   Oliver PE, 2001, SOCIOL THEOR, V19, P292, DOI 10.1111/0735-2751.00142
+   OLIVER PE, 1988, AM SOCIOL REV, V53, P1, DOI 10.2307/2095728
+   Olson M., 1965, LOGIC COLLECTIVE ACT, DOI 10.4159/9780674041660
+   OPP KD, 1993, AM SOCIOL REV, V58, P659, DOI 10.2307/2096280
+   Polletta F, 1998, SOC PROBL, V45, P137, DOI 10.1525/sp.1998.45.2.03x0163g
+   Prahl R, 1991, J MATH SOCIOL, V12, P137
+   Rasler K, 1996, AM SOCIOL REV, V61, P132, DOI 10.2307/2096410
+   Rogers E. M., 1995, DIFFUSION INNOVATION
+   RUNGE CF, 1984, J POLIT, V46, P154, DOI 10.2307/2130438
+   Sandler Todd., 1992, COLLECTIVE ACTION TH
+   Schelling T., 1978, MICROMOTIVES MACROBE
+   SCHOFIELD N, 1975, J CONFLICT RESOLUT, V19, P441, DOI 10.1177/002200277501900303
+   Stark Rodney., 1996, The Rise of Christianity
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Watts Duncan J., 1999, Small Worlds: The Dynamics of Networks between Order and Randomness
+   Wood ElisabethJean., 2003, Insurgent Collective Action and Civil War in El Salvador, DOI 10.1017/CBO9780511808685
+   Yin CC, 1998, PUBLIC CHOICE, V97, P535, DOI 10.1023/A:1004921725560
+   Young HP, 2009, AM ECON REV, V99, P1899, DOI 10.1257/aer.99.5.1899
+NR 66
+TC 101
+Z9 111
+U1 2
+U2 68
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 1043-4631
+EI 1461-7358
+J9 RATION SOC
+JI Ration. Soc.
+PD FEB
+PY 2013
+VL 25
+IS 1
+BP 3
+EP 40
+DI 10.1177/1043463112473734
+PG 38
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA 097QE
+UT WOS:000315487800001
+DA 2024-11-22
+ER
+
+PT J
+AU Dugundji, ER
+   Gulyás, L
+AF Dugundji, Elenna R.
+   Gulyas, Laszlo
+TI Structure and emergence in a nested logit model with social and spatial
+   interactions
+SO COMPUTATIONAL AND MATHEMATICAL ORGANIZATION THEORY
+LA English
+DT Article
+DE Discrete choice; Multi-agent based social simulation; Social networks;
+   Spatial interaction; Transportation demand
+ID SOCIODYNAMIC DISCRETE-CHOICE; TRAVEL BEHAVIOR; PURE THEORY; NETWORKS;
+   DECISION; MOBILITY; GERMANY; EXAMPLE; DEMAND
+AB Suppose you have the possibility to choose to adopt one of a number of different behaviors or to choose to buy one of a number of different products, and suppose your choice is influenced by your individual perception of the average choices made by others. Economists Brock and Durlauf (in Am. Econ. Rev. 92(2):298, 2002; The Economy as an Evolving Complex System III. Oxford University Press, New York, 2006) have derived seminal theoretical results for the equilibrium behavior of the multinomial discrete choice model with social interactions, assuming homogeneous decision-makers, global interactions and laws of large of numbers. The research presented in this paper extends Brock and Durlauf's model to allow for unobserved preference heterogeneity between choice alternatives by studying the nested logit model. Next, by drawing on the computational possibilities permitted through social simulation of multi-agent systems (MAS), this paper relaxes the assumption of global interactions and considers instead local interactions within several hypothesized social and spatial network structures. Additional heterogeneity is thus hereby induced by the influence on a given decision-maker's choice by the particular network connections he or she has and the particular perceived percentages, for example, of the agent's neighbors or socio-economic peers making each choice. Discrete choice estimation results controlling these heterogeneous individual preferences are embedded in a multi-agent based simulation model in order to observe the evolution of choice behavior over time with socio-dynamic feedback due to the network effects. The MAS approach also gives us an additional advantage in the possibility to test size effects, and thus relax the assumption of large numbers, as well as test the effect of different initial conditions. Finally an extra benefit is gained via the MAS approach in that we are not confined to study only the equilibrium behavior, and have the possibility here to observe the time-varying trajectories of the choice behavior. This is important since smaller network sizes are revealed to be associated with higher volatility of the choice behavior in this model, and consequently stochastic cycling between equilibria. Averaged over time, the emergent behavior in such case yields a quite different picture than the theoretical results predicted by Brock and Durlauf. Furthermore being able to observe the emergent behavior allows us to see the subtle role of the unobserved heterogeneity in the nested logit model in breaking the symmetry of the multinomial logit model. We can see the temporal patterns by which theoretically predicted dominant equilibria emerge or not according to different social and spatial network scenarios. With an eye towards application in the context of transportation mode choice, we conclude highlighting limitations of our present study and recommendations for future work.
+C1 [Dugundji, Elenna R.] Univ Amsterdam, NL-1001 RD Amsterdam, Netherlands.
+   [Gulyas, Laszlo] AITIA Int Inc, H-1039 Budapest, Hungary.
+C3 University of Amsterdam
+RP Dugundji, ER (corresponding author), Univ Amsterdam, POB 16697, NL-1001 RD Amsterdam, Netherlands.
+EM e.r.dugundji@gmail.com
+RI Gulyas, Laszlo/JNE-9383-2023; Dugundji, Elenna R/KCY-3416-2024
+OI Dugundji, Elenna R/0000-0001-9277-9485; Gulyas,
+   Laszlo/0000-0002-6367-6695
+CR [Anonymous], 1973, THESIS MIT CAMBRIDGE
+   AOKI M., 1995, Japanese Economic Review, V46, P148
+   Arentze T. A., 2008, TRANSPORT RES REC, V2014, P85, DOI [10.3141/2014-11, DOI 10.3141/2014-11]
+   Arentze T, 2012, ENVIRON PLANN A, V44, P1101, DOI 10.1068/a4438
+   Barrett CL, 2009, WINT SIMUL C PROC, P948
+   Ben-Akiva M.E., 1985, Discrete choice analysis: Theory and application to travel demand
+   Berry S, 2004, J POLIT ECON, V112, P68, DOI 10.1086/379939
+   BERRY S, 1995, ECONOMETRICA, V63, P841, DOI 10.2307/2171802
+   Bertolini L, 2007, ENVIRON PLANN A, V39, P1998, DOI 10.1068/a38350
+   Bhat CR, 2005, TRANSPORTATION, V32, P443, DOI 10.1007/s11116-005-6789-x
+   Bierlaire M, 2003, P 3 SWISS TRANSPORTA
+   Blume L., 2011, Handbook of Social Economics
+   Brock W.A., 2006, The economy as an evolving complex system III
+   Brock WA, 2002, AM ECON REV, V92, P298, DOI 10.1257/000282802320189438
+   Brock WA, 2001, REV ECON STUD, V68, P235, DOI 10.1111/1467-937X.00168
+   Buehler R, 2012, TRANSPORT REV, V32, P541, DOI 10.1080/01441647.2012.707695
+   Butts CT, 2012, SOC NETWORKS, V34, P82, DOI 10.1016/j.socnet.2011.08.003
+   Butts CT, 2011, SAGE HDB GIS SOC RES
+   Domencich T. A., 1975, URBAN TRAVEL DEMAND
+   Dugundji E, 2012, ENVIRON PLANN A, V44, P1011, DOI 10.1068/a45183
+   Dugundji E, 2008, ENVIRON PLANN B, V35, P956, DOI 10.1068/b3506ged
+   Dugundji ER, 2012, PROCEDIA COMPUT SCI, V10, P827, DOI 10.1016/j.procs.2012.06.107
+   Dugundji ER, 2011, TRANSPORT RES A-POL, V45, P239, DOI 10.1016/j.tra.2011.01.001
+   Dugundji ER, 2008, ENVIRON PLANN B, V35, P1028, DOI 10.1068/b33021t
+   Dugundji ER, 2005, TRANSPORT RES REC, P70, DOI 10.3141/1921-09
+   Dugundji ER, 2006, INTERACTION EMERGENT
+   Dugundji ER, 2013, THESIS U AMSTERDAM A
+   Dugundji ER, 2001, P 9 WORLD C TRANSP R
+   Dugundji ER, 2012, INT WORKSH INF DEC S
+   Dugundji ER, 2006, P 85 ANN M TRANSP RE
+   DUGUNDJI ER, 2003, P AGENT 2003 CHALL S
+   Dugundji ER, 2012, P FED C COMP SCI INF
+   Fischel WA, 2006, Tiebout Model At Fifty, P1
+   Fukuda D, 2007, TRANSPORT RES A-POL, V41, P313, DOI 10.1016/j.tra.2006.09.001
+   Goetzke F, 2009, PROGR SPATIAL ANAL M
+   Goetzke F, 2008, URBAN STUD, V45, P407, DOI 10.1177/0042098007085970
+   Goetzke F, 2012, ENVIRON PLANN A, V44, P1032, DOI 10.1068/a4490
+   Goetzke F, 2011, URBAN STUD, V48, P427, DOI 10.1177/0042098009360681
+   Hackney J, 2011, FUT WORKSH SOC NETW
+   Ioannides YM, 2006, ECON THEOR, V28, P559, DOI 10.1007/s00199-005-0646-1
+   Kenworthy J. R., 2005, EUROPEAN SPATIAL RES, V12, P11
+   Kollman K, 1997, AM ECON REV, V87, P977
+   Kowald M, 2012, ENVIRON PLANN A, V44, P1085, DOI 10.1068/a43458
+   Lawrence Blume, 2003, Int Game Theory Rev, V5, P193, DOI DOI 10.1142/S021919890300101X
+   Louviere J, 2005, MARKET LETT, V16, P255, DOI 10.1007/s11002-005-5890-4
+   Macal CM, 2010, J SIMUL, V4, P151, DOI 10.1057/jos.2010.3
+   Manski CF., 1995, Identification problems in the social sciences
+   Maxwell DT, 2009, SCI, V168
+   McFadden D., 1978, J TRANSPORTATION RES
+   Musgrave R. A., 1959, THEORY PUBLIC FINANC
+   OATES WE, 1969, J POLIT ECON, V77, P957, DOI 10.1086/259584
+   Páez A, 2007, ENVIRON PLANN A, V39, P647, DOI 10.1068/a37424
+   Páez A, 2008, ENVIRON PLANN B, V35, P1055, DOI 10.1068/b3320t
+   RIVERS D, 1988, J ECONOMETRICS, V39, P347, DOI 10.1016/0304-4076(88)90063-2
+   Samuelson PA, 1955, REV ECON STAT, V37, P350, DOI 10.2307/1925849
+   Samuelson PA, 1954, REV ECON STAT, V36, P387, DOI 10.2307/1925895
+   TIEBOUT CM, 1956, J POLIT ECON, V64, P416, DOI 10.1086/257839
+   Timmermans HJP, 2009, TRANSPORT RES B-METH, V43, P187, DOI 10.1016/j.trb.2008.06.004
+   Train KE, 2009, DISCRETE CHOICE METHODS WITH SIMULATION, 2ND EDITION, P1, DOI 10.1017/CBO9780511805271
+   Walker JL, 2011, TRANSPORT RES A-POL, V45, P362, DOI 10.1016/j.tra.2011.01.003
+NR 60
+TC 8
+Z9 8
+U1 0
+U2 31
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1381-298X
+EI 1572-9346
+J9 COMPUT MATH ORGAN TH
+JI Comput. Math. Organ. Theory
+PD JUN
+PY 2013
+VL 19
+IS 2
+SI SI
+BP 151
+EP 203
+DI 10.1007/s10588-013-9157-y
+PG 53
+WC Computer Science, Interdisciplinary Applications; Mathematics,
+   Interdisciplinary Applications; Social Sciences, Mathematical Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science; Mathematics; Mathematical Methods In Social Sciences
+GA 152DR
+UT WOS:000319511300004
+DA 2024-11-22
+ER
+
+PT J
+AU Ventresca, M
+   Aleman, D
+AF Ventresca, Mario
+   Aleman, Dionne
+TI Evaluation of strategies to mitigate contagion spread using social
+   network characteristics
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Pandemic mitigation; Contact network; Vaccination strategy; Critical
+   node detection
+ID INFECTIOUS-DISEASE; VACCINATION STRATEGIES; PANDEMIC INFLUENZA;
+   PUBLIC-HEALTH; MODELS; EPIDEMICS; TRANSMISSION; IMPACT; DISTRIBUTIONS;
+   DYNAMICS
+AB Computer simulation is an effective tool for assessing mitigation strategies, with recent trends concentrating on agent-based techniques. These methods require high computational efforts in order to simulate enough scenarios for statistical significance. The population individuals and their contacts determined by agent-based simulations form a social network. For some network structures it is possible to gain high accuracy estimates of contagion spread based on the connection structure of the network, an idea that is utilized in this work. A representative social network constructed from the 2006 census of the Greater Toronto Area (Ontario, Canada) of 5 million individuals in 1.8 million households is used to demonstrate the efficacy of our approach. We examine the effects of six mitigation strategies with respect to their ability to contain disease spread as indicated by pre- and post-vaccination reproduction numbers, mean local clustering coefficients and degree distributions. One outcome of the analysis provides evidence supporting the design of mitigation strategies that aim to fragment the population into similarly sized components. While our analysis is framed in the context of pandemic disease spread, the approach is applicable to any contagion such as computer viruses, rumours, social trends, and so on. (c) 2013 Elsevier B.V. All rights reserved.
+C1 [Ventresca, Mario; Aleman, Dionne] Univ Toronto, Dept Mech & Ind Engn, Toronto, ON M5S 3G8, Canada.
+C3 University of Toronto
+RP Ventresca, M (corresponding author), Univ Toronto, Dept Mech & Ind Engn, 5 Kings Coll Rd, Toronto, ON M5S 3G8, Canada.
+EM mventresca@gmail.com
+OI Aleman, Dionne/0000-0001-8326-8544
+CR Aleman DM, 2011, INTERFACES, V41, P301, DOI 10.1287/inte.1100.0550
+   Ames GM, 2011, P ROY SOC B-BIOL SCI, V278, P3544, DOI 10.1098/rspb.2011.0290
+   [Anonymous], APTA TRANS RID REP
+   [Anonymous], TECHNICAL REPORT
+   [Anonymous], ADV STUD BIOL
+   [Anonymous], INFECT DIS HUMANS DY
+   [Anonymous], P 2008 ACM IEEE C SU
+   [Anonymous], PLOS ONE
+   Aparicio JP, 2007, P ROY SOC B-BIOL SCI, V274, P505, DOI 10.1098/rspb.2006.0057
+   Arulselvan A, 2009, COMPUT OPER RES, V36, P2193, DOI 10.1016/j.cor.2008.08.016
+   Ball F, 2008, MATH BIOSCI, V212, P69, DOI 10.1016/j.mbs.2008.01.001
+   Ball F, 1997, ANN APPL PROBAB, V7, P46
+   Bansal S, 2007, J R SOC INTERFACE, V4, P879, DOI 10.1098/rsif.2007.1100
+   Bansal S, 2006, PLOS MED, V3, P1816, DOI 10.1371/journal.pmed.0030387
+   Basta NE, 2009, AM J EPIDEMIOL, V170, P679, DOI 10.1093/aje/kwp237
+   Brin S, 1998, COMPUT NETWORKS ISDN, V30, P107, DOI 10.1016/S0169-7552(98)00110-X
+   Britton T, 2007, ADV APPL PROBAB, V39, P922, DOI 10.1239/aap/1198177233
+   Britton T, 2011, SCAND J STAT, V38, P578, DOI 10.1111/j.1467-9469.2010.00726.x
+   Chao DL, 2010, PLOS COMPUT BIOL, V6, DOI 10.1371/journal.pcbi.1000656
+   Chowell G, 2009, PLOS ONE, V4, DOI 10.1371/journal.pone.0008164
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Coelho FC, 2008, SOURCE CODE BIOL MED, V3, DOI 10.1186/1751-0473-3-3
+   Cohen R, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.247901
+   Daems R, 2005, VACCINE, V23, P5732, DOI 10.1016/j.vaccine.2005.10.011
+   Danon L., 2011, Interdisciplinary Perspectives on Infectious Diseases, V2011, P284909, DOI 10.1155/2011/284909
+   Del Valle SY, 2007, SOC NETWORKS, V29, P539, DOI 10.1016/j.socnet.2007.04.005
+   Duerr HP, 2007, EPIDEMIOL INFECT, V135, P1124, DOI 10.1017/S0950268807007959
+   Eames KTD, 2009, EPIDEMICS-NETH, V1, P70, DOI 10.1016/j.epidem.2008.12.001
+   Eubank S, 2004, NATURE, V429, P180, DOI 10.1038/nature02541
+   Ferguson NM, 2006, NATURE, V442, P448, DOI 10.1038/nature04795
+   Haber MJ, 2007, EMERG INFECT DIS, V13, P581, DOI 10.3201/eid1304.060828
+   Hethcote H.W., 1984, Lecture Notes in Biomath., V56
+   Keeling MJ, 2005, J R SOC INTERFACE, V2, P295, DOI 10.1098/rsif.2005.0051
+   Kermack WO, 1927, P R SOC LOND A-CONTA, V115, P700, DOI 10.1098/rspa.1927.0118
+   Longini IM, 2005, SCIENCE, V309, P1083, DOI 10.1126/science.1115717
+   Meyers LA, 2006, J THEOR BIOL, V240, P400, DOI 10.1016/j.jtbi.2005.10.004
+   Miller JC, 2009, J R SOC INTERFACE, V6, P1121, DOI 10.1098/rsif.2008.0524
+   Milne G, 2010, J R SOC INTERFACE, V7, P573, DOI 10.1098/rsif.2009.0312
+   Newman MEJ, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.066133
+   Newman MEJ, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.016128
+   Nguyen-Van-Tam JS, 2003, VACCINE, V21, P1762, DOI 10.1016/S0264-410X(03)00069-0
+   Potter C., 1998, Textbook of Influenza, P3
+   Potter GE, 2012, ANN APPL STAT, V6, P1, DOI 10.1214/11-AOAS505
+   Riley S, 2003, SCIENCE, V300, P1961, DOI 10.1126/science.1086478
+   Riley S, 2007, SCIENCE, V316, P1298, DOI 10.1126/science.1134695
+   Roy M, 2006, ECOL COMPLEX, V3, P80, DOI 10.1016/j.ecocom.2005.09.001
+   Salathé M, 2010, P NATL ACAD SCI USA, V107, P22020, DOI 10.1073/pnas.1009094108
+   Schneider CM, 2011, PHYS REV E, V84, DOI 10.1103/PhysRevE.84.061911
+   Schumm P., 2007, 2007 2nd Bio-Inspired Models of Network, Information and Computing Systems (BIONETICS), P201, DOI 10.1109/BIMNICS.2007.4610111
+   Schwartz B, 2005, J INFECT DIS, V191, P1207, DOI 10.1086/428952
+   SEIDMAN SB, 1983, SOC NETWORKS, V5, P269, DOI 10.1016/0378-8733(83)90028-X
+   Smieszek T, 2009, THEOR BIOL MED MODEL, V6, DOI 10.1186/1742-4682-6-25
+   Smieszek T, 2009, THEOR BIOL MED MODEL, V6, DOI 10.1186/1742-4682-6-11
+   Stehlé J, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0023176
+   Tsai MT, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013292
+   Tuite A., 2010, PLoS Currents: Influenza, V5
+   Volz E, 2007, P ROY SOC B-BIOL SCI, V274, P2925, DOI 10.1098/rspb.2007.1159
+   VUONG QH, 1989, ECONOMETRICA, V57, P307, DOI 10.2307/1912557
+   Wallinga J, 2006, AM J EPIDEMIOL, V164, P936, DOI 10.1093/aje/kwj317
+   Wu JT, 2009, PLOS MED, V6, DOI 10.1371/journal.pmed.1000085
+NR 60
+TC 30
+Z9 34
+U1 1
+U2 39
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JAN
+PY 2013
+VL 35
+IS 1
+BP 75
+EP 88
+DI 10.1016/j.socnet.2013.01.002
+PG 14
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 130TN
+UT WOS:000317943100007
+DA 2024-11-22
+ER
+
+PT J
+AU Kovanen, L
+   Kaski, K
+   Kertész, J
+   Saramäki, J
+AF Kovanen, Lauri
+   Kaski, Kimmo
+   Kertesz, Janos
+   Saramaki, Jari
+TI Temporal motifs reveal homophily, gender-specific patterns, and group
+   talk in call sequences
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE social networks; human dynamics
+ID NETWORK MOTIFS; HEAVY TAILS
+AB Recent studies on electronic communication records have shown that human communication has complex temporal structure. We study how communication patterns that involve multiple individuals are affected by attributes such as sex and age. To this end, we represent the communication records as a colored temporal network where node color is used to represent individuals' attributes, and identify patterns known as temporal motifs. We then construct a null model for the occurrence of temporal motifs that takes into account the interaction frequencies and connectivity between nodes of different colors. This null model allows us to detect significant patterns in call sequences that cannot be observed in a static network that uses interaction frequencies as link weights. We find sex-related differences in communication patterns in a large dataset of mobile phone records and show the existence of temporal homophily, the tendency of similar individuals to participate in communication patterns beyond what would be expected on the basis of their average interaction frequencies. We also show that temporal patterns differ between dense and sparse neighborhoods in the network. Because also this result is independent of interaction frequencies, it can be seen as an extension of Granovetter's hypothesis to temporal networks.
+C1 [Kovanen, Lauri; Kaski, Kimmo; Kertesz, Janos; Saramaki, Jari] Aalto Univ Sch Sci, Dept Biomed Engn & Computat Sci, FI-00076 Espoo, Finland.
+   [Kertesz, Janos] Cent European Univ, Ctr Network Sci, H-1051 Budapest, Hungary.
+C3 Aalto University; Central European University
+RP Kovanen, L (corresponding author), Aalto Univ Sch Sci, Dept Biomed Engn & Computat Sci, FI-00076 Espoo, Finland.
+EM lauri.kovanen@aalto.fi
+RI Kovanen, Lauri/E-6993-2012; Saramaki, Jari/E-5226-2011; Kertesz,
+   Janos/JHS-3903-2023; Kaski, Kimmo/G-8067-2012
+FU Future and Emerging Technologies (FET); European Commission; FET-Open
+   [238597]; Doctoral Program Brain and Mind; Finland Distinguished
+   Professor Program of Tekes; Academy of Finland [260427]
+FX We thank Albert-Laszlo Barabasi of Northeastern University for providing
+   access to the mobile phone dataset. The project ICTeCollective
+   acknowledges financial support by the Future and Emerging Technologies
+   (FET) program within the Seventh Framework Program for Research of the
+   European Commission, under FET-Open Grant 238597. L.K. is supported by
+   the Doctoral Program Brain and Mind. J.K. is partially supported by the
+   Finland Distinguished Professor Program of Tekes. J.S. is supported by
+   Academy of Finland Project 260427. We acknowledge the computational
+   resources provided by Aalto Science-IT Project.
+CR Artzy-Randrup Yael, 2004, Science, V305, P1107
+   Barabási AL, 2005, NATURE, V435, P207, DOI 10.1038/nature03459
+   Bond RM, 2012, NATURE, V489, P295, DOI 10.1038/nature11421
+   Borgatti SP, 2009, SCIENCE, V323, P892, DOI 10.1126/science.1165821
+   Braha D, 2009, UNDERST COMPLEX SYST, P39, DOI 10.1007/978-3-642-01284-6_3
+   Ciriello Giovanni, 2008, Briefings in Functional Genomics & Proteomics, V7, P147, DOI 10.1093/bfgp/eln015
+   Fortunato S, 2010, PHYS REP, V486, P75, DOI 10.1016/j.physrep.2009.11.002
+   Friston K, 2012, NEUROIMAGE, V61, P1300, DOI 10.1016/j.neuroimage.2012.04.018
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Holme P, 2012, PHYS REP, V519, P97, DOI 10.1016/j.physrep.2012.03.001
+   Jiang ZQ, 2013, P NATL ACAD SCI USA, V110, P1600, DOI 10.1073/pnas.1220433110
+   Jo HH, 2012, NEW J PHYS, V14, DOI 10.1088/1367-2630/14/1/013055
+   KANDEL DB, 1978, AM J SOCIOL, V84, P427, DOI 10.1086/226792
+   Karsai M, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.025102
+   Karsai M, 2012, SCI REP-UK, V2, DOI 10.1038/srep00397
+   Kossinets G, 2006, SCIENCE, V311, P88, DOI 10.1126/science.1116869
+   Kovanen L, 2011, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2011/11/P11005
+   Lazer D, 2009, SCIENCE, V323, P721, DOI 10.1126/science.1167742
+   Leskovec J., 2008, Proceedings of the 17th International Conference on World Wide Web, DOI 10.1145/1367497.1367620
+   Lewis K, 2008, SOC NETWORKS, V30, P330, DOI 10.1016/j.socnet.2008.07.002
+   Iribarren JL, 2009, PHYS REV LETT, V103, DOI 10.1103/PhysRevLett.103.038702
+   Malmgren RD, 2008, P NATL ACAD SCI USA, V105, P18153, DOI 10.1073/pnas.0800332105
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Milo R, 2002, SCIENCE, V298, P824, DOI 10.1126/science.298.5594.824
+   Miritello G, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.045102
+   Moody J, 2001, AM J SOCIOL, V107, P679, DOI 10.1086/338954
+   Onnela JP, 2007, P NATL ACAD SCI USA, V104, P7332, DOI 10.1073/pnas.0610245104
+   Onnela JP, 2005, PHYS REV E, V71, DOI 10.1103/PhysRevE.71.065103
+   Palchykov Vasyl, 2012, Sci Rep, V2, P370, DOI 10.1038/srep00370
+   Palla G, 2005, NATURE, V435, P814, DOI 10.1038/nature03607
+   Schneider CM, 2013, J R SOC INTERFACE, V10, DOI 10.1098/rsif.2013.0246
+   Shen-Orr SS, 2002, NAT GENET, V31, P64, DOI 10.1038/ng881
+   Smoreda Z, 2000, SOC PSYCHOL QUART, V63, P238, DOI 10.2307/2695871
+   Takhteyev Y, 2012, SOC NETWORKS, V34, P73, DOI 10.1016/j.socnet.2011.05.006
+   Ugander J., 2011, The anatomy of the Facebook social graph, P1
+   Vazquez A, 2007, PHYS REV LETT, V98, DOI 10.1103/PhysRevLett.98.158702
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   Wu Y, 2010, P NATL ACAD SCI USA, V107, P18803, DOI 10.1073/pnas.1013140107
+NR 38
+TC 119
+Z9 129
+U1 2
+U2 52
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+EI 1091-6490
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD NOV 5
+PY 2013
+VL 110
+IS 45
+BP 18070
+EP 18075
+DI 10.1073/pnas.1307941110
+PG 6
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA 246PG
+UT WOS:000326550800027
+PM 24145424
+OA Green Published, Green Submitted, Bronze
+DA 2024-11-22
+ER

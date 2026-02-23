@@ -1,0 +1,542 @@
+
+PT J
+AU Larusso, ND
+   Ruttenberg, BE
+   Singh, A
+AF Larusso, Nicholas D.
+   Ruttenberg, Brian E.
+   Singh, Ambuj
+TI A Latent Parameter Node-Centric Model for Spatial Networks
+SO PLOS ONE
+LA English
+DT Article
+ID MODULARITY
+AB Spatial networks, in which nodes and edges are embedded in space, play a vital role in the study of complex systems. For example, many social networks attach geo-location information to each user, allowing the study of not only topological interactions between users, but spatial interactions as well. The defining property of spatial networks is that edge distances are associated with a cost, which may subtly influence the topology of the network. However, the cost function over distance is rarely known, thus developing a model of connections in spatial networks is a difficult task. In this paper, we introduce a novel model for capturing the interaction between spatial effects and network structure. Our approach represents a unique combination of ideas from latent variable statistical models and spatial network modeling. In contrast to previous work, we view the ability to form long/short-distance connections to be dependent on the individual nodes involved. For example, a node's specific surroundings (e.g. network structure and node density) may make it more likely to form a long distance link than other nodes with the same degree. To capture this information, we attach a latent variable to each node which represents a node's spatial reach. These variables are inferred from the network structure using a Markov Chain Monte Carlo algorithm. We experimentally evaluate our proposed model on 4 different types of real-world spatial networks (e.g. transportation, biological, infrastructure, and social). We apply our model to the task of link prediction and achieve up to a 35% improvement over previous approaches in terms of the area under the ROC curve. Additionally, we show that our model is particularly helpful for predicting links between nodes with low degrees. In these cases, we see much larger improvements over previous models.
+C1 [Larusso, Nicholas D.; Ruttenberg, Brian E.; Singh, Ambuj] Univ Calif Santa Barbara, Dept Comp Sci, Santa Barbara, CA 93106 USA.
+C3 University of California System; University of California Santa Barbara
+RP Larusso, ND (corresponding author), Univ Calif Santa Barbara, Dept Comp Sci, Santa Barbara, CA 93106 USA.
+EM nlarusso@cs.ucsb.edu
+RI Singh, Arun Kumar/AAT-1289-2020
+OI Singh, Ambuj/0000-0002-1997-7140
+FU U.S. National Science Foundation [IIS-0808772]; Army Research Laboratory
+   [W911NF-09-2-0053]
+FX This research was sponsored in part by the U.S. National Science
+   Foundation under grant IIS-0808772 and by the Army Research Laboratory
+   under cooperative agreement W911NF-09-2-0053 (NS-CTA). The funders had
+   no role in study design, data collection and analysis, decision to
+   publish, or preparation of the manuscript.
+CR Airoldi EM, 2008, J MACH LEARN RES, V9, P1981
+   Albert R, 2000, PHYS REV LETT, V85, P5234, DOI 10.1103/PhysRevLett.85.5234
+   [Anonymous], 2009, Student Mathematical Library
+   [Anonymous], 2002, J. Social Struct
+   Bakshy E., 2012, P 21 INT C WORLD WID, P519, DOI DOI 10.1145/2187836.2187907
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barabási AL, 2012, NATURE, V489, P507, DOI 10.1038/nature11486
+   Barnett L, 2007, PHYS REV E, V76, DOI 10.1103/PhysRevE.76.056115
+   Barrat A, 2005, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2005/05/P05003
+   Barthélemy M, 2003, EUROPHYS LETT, V63, P915, DOI 10.1209/epl/i2003-00600-6
+   Barthélemy M, 2011, PHYS REP, V499, P1, DOI 10.1016/j.physrep.2010.11.002
+   Boguna Marian, 2010, Nat Commun, V1, P62, DOI 10.1038/ncomms1063
+   Boguñá M, 2009, NAT PHYS, V5, P74, DOI 10.1038/NPHYS1130
+   Bullock S, 2010, COMPLEXITY, V16, P20, DOI 10.1002/cplx.20338
+   Cerina F, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0037507
+   Dall J, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.016121
+   Daraganova G, 2011, SOCIAL NETWORKS
+   Daraganova G, 2012, SOC NETWORKS, V34, P6, DOI 10.1016/j.socnet.2010.12.001
+   Diggle P., 2003, Statistical analysis of spatial point patterns, V2
+   ERDOS P, 1960, B INT STATIST INST, V38, P343
+   Estévez PA, 2009, IEEE T NEURAL NETWOR, V20, P189, DOI 10.1109/TNN.2008.2005601
+   Expert P, 2011, P NATL ACAD SCI USA, V108, P7663, DOI 10.1073/pnas.1018962108
+   Fawcett T, 2006, PATTERN RECOGN LETT, V27, P861, DOI 10.1016/j.patrec.2005.10.010
+   Ferretti L, 2011, PHYS REV E, V84, DOI 10.1103/PhysRevE.84.016103
+   Fortuna MA, 2006, P ROY SOC B-BIOL SCI, V273, P1429, DOI 10.1098/rspb.2005.3448
+   Gastner MT, 2006, PHYS REV E, V74, DOI 10.1103/PhysRevE.74.016117
+   Goldenberg A, 2010, FOUND TRENDS MACH LE, V2, P129, DOI 10.1561/2200000005
+   Guimerà R, 2004, EUR PHYS J B, V38, P381, DOI 10.1140/epjb/e2004-00131-0
+   Handcock MS, 2007, J ROY STAT SOC A STA, V170, P301, DOI 10.1111/j.1467-985X.2007.00471.x
+   Hayashi Y., 2006, IPSJ Trans. Special Issue on Network Ecology, V2, P155
+   Hoff P., 2007, Neural Information Processing Systems
+   Hoff PD, 2005, J AM STAT ASSOC, V100, P286, DOI 10.1198/016214504000001015
+   Hoff PD, 2002, J AM STAT ASSOC, V97, P1090, DOI 10.1198/016214502388618906
+   Hoff PD, 2009, COMPUT MQTH ORGAN TH, V15, P261, DOI 10.1007/s10588-008-9040-4
+   Kaiser M, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.036103
+   Kaiser M, 2004, NEUROCOMPUTING, V58, P297, DOI 10.1016/j.neucom.2004.01.059
+   Karrer B, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.016107
+   Kosmidis K, 2008, EPL-EUROPHYS LETT, V82, DOI 10.1209/0295-5075/82/48005
+   Krioukov D, 2012, B AM PHYS SOC, V57
+   Krioukov D, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.035101
+   Krivitsky PN, 2009, SOC NETWORKS, V31, P204, DOI 10.1016/j.socnet.2009.04.001
+   Lennartsson J, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0042679
+   Metcalf S., 2005, SPATIAL DYNAMICS SOC
+   Newman MEJ, 2006, P NATL ACAD SCI USA, V103, P8577, DOI 10.1073/pnas.0601602103
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   Newman MEJ, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.208701
+   Nowicki K, 2001, J AM STAT ASSOC, V96, P1077, DOI 10.1198/016214501753208735
+   Olesen JM, 2007, P NATL ACAD SCI USA, V104, P19891, DOI 10.1073/pnas.0706375104
+   Penrose M., 2003, Oxford Studies in Probability., V5
+   Riddle D. L., 1997, Cold Spring Harbor Monograph Series, V33
+   Sarkar Purnamrita, 2010, INT C LEARN THEOR CO, P295
+   Serrano MA, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.078701
+   Turgut D, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0015551
+   Varshney LR, 2011, PLOS COMPUT BIOL, V7, DOI 10.1371/journal.pcbi.1001066
+   Voges N, 2007, NEUROCOMPUTING, V70, P1833, DOI 10.1016/j.neucom.2006.10.126
+   Wasserman S, 1996, PSYCHOMETRIKA, V61, P401, DOI 10.1007/BF02294547
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   WAXMAN BM, 1988, IEEE J SEL AREA COMM, V6, P1617, DOI 10.1109/49.12889
+   White DR, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.016119
+   WILSON AG, 1967, TRANSPORT RES, V1, P253, DOI 10.1016/0041-1647(67)90035-4
+   Wong LH, 2006, PHYSICA A, V360, P99, DOI 10.1016/j.physa.2005.04.029
+   Xulvi-Brunet R, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.026118
+   Yook SH, 2002, P NATL ACAD SCI USA, V99, P13382, DOI 10.1073/pnas.172501399
+NR 63
+TC 10
+Z9 10
+U1 0
+U2 15
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD SEP 23
+PY 2013
+VL 8
+IS 9
+AR e71293
+DI 10.1371/journal.pone.0071293
+PG 15
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA 246EK
+UT WOS:000326520200001
+PM 24086251
+OA Green Submitted, gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Young, SD
+   Szekeres, G
+   Coates, T
+AF Young, Sean D.
+   Szekeres, Greg
+   Coates, Thomas
+TI The Relationship between Online Social Networking and Sexual Risk
+   Behaviors among Men Who Have Sex with Men (MSM)
+SO PLOS ONE
+LA English
+DT Article
+ID INTERNET; TECHNOLOGIES; PARTNERS; BENEFITS
+AB Online social networking usage is growing rapidly, especially among at-risk populations, such as men who have sex with men (MSM). However, little research has studied the relationship between online social networking usage and sexual risk behaviors among at-risk populations. One hundred and eighteen Facebook-registered MSM (60.1% Latino, 28% African American; 11.9% other) were recruited from online (social networking websites and banner advertisements) and offline (local clinics, restaurants and organizations) venues frequented by minority MSM. Inclusion criteria required participants to be men who were 18 years of age or older, had had sex with a man in the past 12 months, were living in Los Angeles, and had a Facebook account. Participants completed an online survey on their social media usage and sexual risk behaviors. Results from a multivariable regression suggest that number of sexual partners met from online social networking technologies is associated with increased: 1) likelihood of having exchanged sex for food, drugs, or a place to stay within the past 3 months; 2) number of new partners within the past 3 months; 3) number of male sex partners within the past 3 months; and 4) frequency of engaging in oral sex within the past 3 months, controlling for age, race, education, and total number of sexual partners. Understanding the relationship between social media sex-seeking and sexual risk behaviors among at-risk populations will help inform population-focused HIV prevention and treatment interventions.
+C1 [Young, Sean D.] Univ Calif Los Angeles, David Geffen Sch Med, Dept Family Med, Los Angeles, CA 90095 USA.
+   [Szekeres, Greg] Univ Calif Los Angeles, David Geffen Sch Med, Program Global Hlth, Los Angeles, CA 90095 USA.
+   [Coates, Thomas] Univ Calif Los Angeles, David Geffen Sch Med, Program Global Hlth, Los Angeles, CA 90095 USA.
+C3 University of California System; University of California Los Angeles;
+   University of California Los Angeles Medical Center; David Geffen School
+   of Medicine at UCLA; University of California System; University of
+   California Los Angeles; University of California Los Angeles Medical
+   Center; David Geffen School of Medicine at UCLA; University of
+   California System; University of California Los Angeles; University of
+   California Los Angeles Medical Center; David Geffen School of Medicine
+   at UCLA
+RP Young, SD (corresponding author), Univ Calif Los Angeles, David Geffen Sch Med, Dept Family Med, Los Angeles, CA 90095 USA.
+EM sdyoung@mednet.ucla.edu
+OI Young, Sean D./0000-0001-6052-4875
+FU National Institute of Mental Health, Young PI [K01 MH090884]; National
+   Institute of Mental Health; National Institute of Allergy and Infectious
+   Diseases [P30MH058107] Funding Source: NIH RePORTER
+FX This work was funded by the National Institute of Mental Health, Young
+   PI (K01 MH090884). The funders had no role in study design, data
+   collection and analysis, decision to publish, or preparation of the
+   manuscript.
+CR Al-Tayyib AA, 2009, SEX TRANSM INFECT, V85, P216, DOI 10.1136/sti.2008.032631
+   [Anonymous], FALLING NET DIGITAL
+   [Anonymous], HIV GAY BIS MEN
+   [Anonymous], STAT STAT SOFTW
+   [Anonymous], GAYS LESB BIS LEAD U
+   Berry M, 2008, AIDS, V22, P787, DOI 10.1097/QAD.0b013e3282f55559
+   Boyd DM, 2007, J COMPUT-MEDIAT COMM, V13, P210, DOI 10.1111/j.1083-6101.2007.00393.x
+   Grov C, 2012, AIDS EDUC PREV, V24, P102, DOI 10.1521/aeap.2012.24.2.102
+   HIV Epidemiology Program Los Angeles County Department of Health Services, 2002, SPEC DAT RUN
+   HIV Epidemiology Program Los Angeles County Department of Health Services, 2008, SPEC DAT RUN
+   HIV Epidemiology Program-Los Angeles County Department of Public Health, 2011, 2011 ANN HIV SURV RE
+   Horrigan JB, 2007, PIP BROADBAND
+   MacKellar DA, 2011, SEX TRANSM DIS, V38, P419, DOI 10.1097/OLQ.0b013e31820369dd
+   McFarlane M, 2000, JAMA-J AM MED ASSOC, V284, P443, DOI 10.1001/jama.284.4.443
+   Rietmeijer CA, 2003, SEX TRANSM DIS, V30, P15, DOI 10.1097/00007435-200301000-00004
+   Rosser BRS, 2009, AIDS BEHAV, V13, P746, DOI 10.1007/s10461-008-9399-8
+   Smith A, 2010, PEW INT AM LIF PROJ
+   Smith A., 2010, Mobile access 2010
+   Smith A., 2011, WHOS WHAT SOCIAL MED
+   Tashima KT, 2003, INT J STD AIDS, V14, P285, DOI 10.1258/095646203321264926
+   Young S, INT J STD A IN PRESS
+   Young S. D., J ADDICTIVE IN PRESS
+   Young SD, 2012, AIDS BEHAV, V16, P1743, DOI 10.1007/s10461-012-0251-9
+   Young SD, 2011, AIDS BEHAV, V15, P253, DOI 10.1007/s10461-010-9810-0
+NR 24
+TC 59
+Z9 70
+U1 0
+U2 31
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD MAY 1
+PY 2013
+VL 8
+IS 5
+AR e62271
+DI 10.1371/journal.pone.0062271
+PG 4
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 147KY
+UT WOS:000319167000035
+PM 23658716
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Vazquez-Prokopec, GM
+   Bisanzio, D
+   Stoddard, ST
+   Paz-Soldan, V
+   Morrison, AC
+   Elder, JP
+   Ramirez-Paredes, J
+   Halsey, ES
+   Kochel, TJ
+   Scott, TW
+   Kitron, U
+AF Vazquez-Prokopec, Gonzalo M.
+   Bisanzio, Donal
+   Stoddard, Steven T.
+   Paz-Soldan, Valerie
+   Morrison, Amy C.
+   Elder, John P.
+   Ramirez-Paredes, Jhon
+   Halsey, Eric S.
+   Kochel, Tadeusz J.
+   Scott, Thomas W.
+   Kitron, Uriel
+TI Using GPS Technology to Quantify Human Mobility, Dynamic Contacts and
+   Infectious Disease Dynamics in a Resource-Poor Urban Environment
+SO PLOS ONE
+LA English
+DT Article
+ID HUMAN MOVEMENT; PANDEMIC INFLUENZA; TRANSMISSION; PATTERNS; CHALLENGES;
+   STRATEGIES; NETWORKS; BEHAVIOR; IQUITOS
+AB Empiric quantification of human mobility patterns is paramount for better urban planning, understanding social network structure and responding to infectious disease threats, especially in light of rapid growth in urbanization and globalization. This need is of particular relevance for developing countries, since they host the majority of the global urban population and are disproportionally affected by the burden of disease. We used Global Positioning System (GPS) data-loggers to track the fine-scale (within city) mobility patterns of 582 residents from two neighborhoods from the city of Iquitos, Peru. We used similar to 2.3 million GPS data-points to quantify age-specific mobility parameters and dynamic co-location networks among all tracked individuals. Geographic space significantly affected human mobility, giving rise to highly local mobility kernels. Most (similar to 80%) movements occurred within 1 km of an individual's home. Potential hourly contacts among individuals were highly irregular and temporally unstructured. Only up to 38% of the tracked participants showed a regular and predictable mobility routine, a sharp contrast to the situation in the developed world. As a case study, we quantified the impact of spatially and temporally unstructured routines on the dynamics of transmission of an influenza-like pathogen within an Iquitos neighborhood. Temporally unstructured daily routines (e.g., not dominated by a single location, such as a workplace, where an individual repeatedly spent significant amount of time) increased an epidemic's final size and effective reproduction number by 20% in comparison to scenarios modeling temporally structured contacts. Our findings provide a mechanistic description of the basic rules that shape human mobility within a resource-poor urban center, and contribute to the understanding of the role of fine-scale patterns of individual movement and co-location in infectious disease dynamics. More generally, this study emphasizes the need for careful consideration of human social interactions when designing infectious disease mitigation strategies, particularly within resource-poor urban environments.
+C1 [Vazquez-Prokopec, Gonzalo M.; Bisanzio, Donal; Kitron, Uriel] Emory Univ, Dept Environm Studies, Atlanta, GA 30322 USA.
+   [Vazquez-Prokopec, Gonzalo M.; Stoddard, Steven T.; Scott, Thomas W.; Kitron, Uriel] NIH, Fogarty Int Ctr, Bethesda, MD 20892 USA.
+   [Stoddard, Steven T.; Morrison, Amy C.; Scott, Thomas W.] Univ Calif Davis, Dept Entomol, Davis, CA 95616 USA.
+   [Paz-Soldan, Valerie] Tulane Univ, Sch Publ Hlth & Trop Med, Dept Global Hlth Syst & Dev, New Orleans, LA USA.
+   [Elder, John P.] San Diego State Univ, Grad Sch Publ Hlth, San Diego, CA 92182 USA.
+   [Ramirez-Paredes, Jhon; Halsey, Eric S.] US Naval Med Res Unit, Lima, Peru.
+   [Ramirez-Paredes, Jhon; Halsey, Eric S.] US Naval Med Res Unit, Iquitos, Peru.
+   [Kochel, Tadeusz J.] USN, Med Res Ctr, Silver Spring, MD USA.
+C3 Emory University; National Institutes of Health (NIH) - USA; NIH Fogarty
+   International Center (FIC); University of California System; University
+   of California Davis; Tulane University; California State University
+   System; San Diego State University; United States Department of Defense;
+   United States Navy
+RP Vazquez-Prokopec, GM (corresponding author), Emory Univ, Dept Environm Studies, Atlanta, GA 30322 USA.
+EM gmvazqu@emory.edu
+RI Bin Abdulhak, Aref/AAM-9492-2020; Morrison, Amy/AAU-6511-2020; Scott,
+   Thomas/HOF-2422-2023; Halsey, Eric/AAC-8110-2022
+OI Stoddard, Steven/0000-0002-9608-563X; Kitron, Uriel/0000-0003-0493-2043;
+   Morrison, Amy/0000-0001-6224-5984; Bisanzio, Donal/0000-0002-7832-2291;
+   Halsey, Eric/0000-0001-6291-8923; Paz-Soldan,
+   Valerie/0000-0002-1065-4919
+FU U.S. National Institutes of Health - National Institute of Allergy and
+   Infectious Diseases (NIH/NIAID) [R01 AI069341-01]
+FX Development of the ideas presented here was assisted by support from the
+   Research and Policy for Infectious Disease Dynamics (RAPIDD) program of
+   the Science and Technology Directorate, U.S. Department of Homeland
+   Security, and the Fogarty International Center, National Institutes of
+   Health. This research was funded by a grant from the U.S. National
+   Institutes of Health - National Institute of Allergy and Infectious
+   Diseases (NIH/NIAID) award number R01 AI069341-01 (to TWS). The funders
+   had no role in study design, data collection and analysis, decision to
+   publish, or preparation of the manuscript.
+CR Amedeo D., 2009, Person Environment Behavior Research
+   ANDERSON R M, 1991
+   [Anonymous], 2012, WORLD URB PROSP 2011
+   Balcan D, 2012, J THEOR BIOL, V293, P87, DOI 10.1016/j.jtbi.2011.10.010
+   Balcan D, 2009, P NATL ACAD SCI USA, V106, P21484, DOI 10.1073/pnas.0906910106
+   Bansal S, 2007, J R SOC INTERFACE, V4, P879, DOI 10.1098/rsif.2007.1100
+   Barton H, 2009, HEALTH PROMOT INT, V24, P91, DOI 10.1093/heapro/dap059
+   Boldrini C, 2010, COMPUT COMMUN, V33, P1056, DOI 10.1016/j.comcom.2010.01.013
+   Brockmann D, 2006, NATURE, V439, P462, DOI 10.1038/nature04292
+   Buliung RN, 2008, TRANSPORTATION, V35, P697, DOI 10.1007/s11116-008-9178-4
+   Cohen B, 2004, WORLD DEV, V32, P23, DOI 10.1016/j.worlddev.2003.04.008
+   Danon L, 2009, EPIDEMICS-NETH, V1, P250, DOI 10.1016/j.epidem.2009.11.002
+   Eubank S, 2004, NATURE, V429, P180, DOI 10.1038/nature02541
+   Ferguson NM, 2005, NATURE, V437, P209, DOI 10.1038/nature04017
+   Germann TC, 2006, P NATL ACAD SCI USA, V103, P5935, DOI 10.1073/pnas.0601266103
+   GOLLEDGE R. G., 1997, Spatial behavior: A geographic perspective
+   González MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   Halloran ME, 2008, P NATL ACAD SCI USA, V105, P4639, DOI 10.1073/pnas.0706849105
+   Hanson S, 2005, P NATL ACAD SCI USA, V102, P15301, DOI 10.1073/pnas.0507309102
+   Hu DH, 2007, LECT NOTES COMPUT SC, V4808, P309
+   Instituto Nacional de Estadistica e Informatica, 2008, CENS NAC 2007 11 POB
+   Kang CG, 2012, PHYSICA A, V391, P1702, DOI 10.1016/j.physa.2011.11.005
+   Keeling DJ, 2009, PROG HUM GEOG, V33, P516, DOI 10.1177/0309132508098100
+   Keeling MJ, 2010, P NATL ACAD SCI USA, V107, P8866, DOI 10.1073/pnas.1000416107
+   Kostakos V, 2010, ACM T COMPUT-HUM INT, V17, DOI 10.1145/1721831.1721833
+   Krenn PJ, 2011, AM J PREV MED, V41, P508, DOI 10.1016/j.amepre.2011.06.046
+   Lloyd-Smith JO, 2005, NATURE, V438, P355, DOI 10.1038/nature04153
+   Montgomery MR, 2008, SCIENCE, V319, P761, DOI 10.1126/science.1153012
+   Morrison AC, 2004, J MED ENTOMOL, V41, P1123, DOI 10.1603/0022-2585-41.6.1123
+   Murray CJL, 2006, LANCET, V368, P2211, DOI 10.1016/S0140-6736(06)69895-4
+   Oshitani H, 2008, EMERG INFECT DIS, V14, P875, DOI 10.3201/eid1406.070839
+   Paz-Soldan VA, 2010, AM J TROP MED HYG, V82, P723, DOI 10.4269/ajtmh.2010.09-0496
+   Poletto C, 2012, SCI REP-UK, V2, DOI 10.1038/srep00476
+   Rosenberg MS, 2004, J VEG SCI, V15, P277, DOI 10.1658/1100-9233(2004)015[0277:WAFDAI]2.0.CO;2
+   Song CM, 2010, NAT PHYS, V6, P818, DOI 10.1038/NPHYS1760
+   Song CM, 2010, SCIENCE, V327, P1018, DOI 10.1126/science.1177170
+   Stoddard ST, 2012, P NATL ACAD SCI US
+   Stoddard ST, 2009, PLOS NEGLECT TROP D, V3, DOI 10.1371/journal.pntd.0000481
+   The World Bank, 2009, SYST CIT HARN URB GR, P28
+   Vazquez-Prokopec GM, 2009, INT J HEALTH GEOGR, V8, DOI 10.1186/1476-072X-8-68
+   Volz E, 2007, P ROY SOC B-BIOL SCI, V274, P2925, DOI 10.1098/rspb.2007.1159
+   Volz E, 2009, J R SOC INTERFACE, V6, P233, DOI 10.1098/rsif.2008.0218
+   Wallinga J, 2004, AM J EPIDEMIOL, V160, P509, DOI 10.1093/aje/kwh255
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   Watts D. J., 2004, Small Worlds: The Dynamics of Networks between Order and Randomness
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Webster P, 2009, HEALTH PROMOT INT, V24, P56, DOI 10.1093/heapro/dap055
+   Wesolowski A, 2012, SCIENCE, V338, P267, DOI 10.1126/science.1223467
+   Woolhouse MEJ, 1997, P NATL ACAD SCI USA, V94, P338, DOI 10.1073/pnas.94.1.338
+NR 49
+TC 157
+Z9 180
+U1 0
+U2 80
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD APR 8
+PY 2013
+VL 8
+IS 4
+AR e58802
+DI 10.1371/journal.pone.0058802
+PG 10
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA 130FG
+UT WOS:000317898000005
+PM 23577059
+OA gold, Green Submitted, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Carrell, SE
+   Sacerdote, BI
+   West, JE
+AF Carrell, Scott E.
+   Sacerdote, Bruce I.
+   West, James E.
+TI From Natural Variation to Optimal Policy? The Importance of Endogenous
+   Peer Group Formation
+SO ECONOMETRICA
+LA English
+DT Article
+DE Peer effects; social network formation; homophily
+ID RANDOM ASSIGNMENT; WEST POINT; HETEROGENEITY; STUDENTS
+AB We take cohorts of entering freshmen at the United States Air Force Academy and assign half to peer groups designed to maximize the academic performance of the lowest ability students. Our assignment algorithm uses nonlinear peer effects estimates from the historical pre-treatment data, in which students were randomly assigned to peer groups. We find a negative and significant treatment effect for the students we intended to help. We provide evidence that within our optimally designed peer groups, students avoided the peers with whom we intended them to interact and instead formed more homogeneous subgroups. These results illustrate how policies that manipulate peer groups for a desired social outcome can be confounded by changes in the endogenous patterns of social interactions within the group.
+C1 [Carrell, Scott E.] Univ Calif Davis, Dept Econ, Davis, CA 95616 USA.
+   [Sacerdote, Bruce I.] Dartmouth Coll, Dept Econ, Hanover, NH 03755 USA.
+   [West, James E.] Baylor Univ, Dept Econ, Waco, TX 76798 USA.
+C3 University of California System; University of California Davis;
+   Dartmouth College; Baylor University
+RP Carrell, SE (corresponding author), Univ Calif Davis, Dept Econ, 1 Shields Ave, Davis, CA 95616 USA.
+EM secarrell@ucdavis.edu; Bruce.i.sacerdote@dartmouth.edu;
+   J_west@baylor.edu
+OI West, James/0000-0002-1454-2113
+FU National Academy of Education; National Science Foundation; Spencer
+   Foundation; Divn Of Social and Economic Sciences; Direct For Social,
+   Behav & Economic Scie [1024841] Funding Source: National Science
+   Foundation
+FX This article was completed under a Cooperative Research and Development
+   Agreement with the U.S. Air Force Academy. This research was partially
+   funded by the National Academy of Education, the National Science
+   Foundation, and Spencer Foundation. Thanks to D. Staiger, R. Fullerton,
+   R. Schreiner, B. Bremer, K. Silz-Carson, and K. Calahan.
+CR Acemoglu D, 2010, J ECON PERSPECT, V24, P17, DOI 10.1257/jep.24.3.17
+   Benabou R, 1996, AM ECON REV, V86, P584
+   Bhattacharya D, 2009, J AM STAT ASSOC, V104, P486, DOI 10.1198/jasa.2009.0015
+   Carrell S. E., 2013, ECONOMETRICA S, V81
+   Carrell SE, 2008, J HUM RESOUR, V43, P173, DOI 10.1353/jhr.2008.0013
+   Carrell SE, 2010, J POLIT ECON, V118, P409, DOI 10.1086/653808
+   Carrell SE, 2009, J LABOR ECON, V27, P439, DOI 10.1086/600143
+   Foster G, 2006, J PUBLIC ECON, V90, P1455, DOI 10.1016/j.jpubeco.2005.12.001
+   Graham B. S., 2009, 14860 NAT BUR EC RES
+   Lucas R., 1976, CARNEGIE-ROCHESTER C, V1, P19
+   Lyle DS, 2007, REV ECON STAT, V89, P289, DOI 10.1162/rest.89.2.289
+   Lyle DS, 2009, AM ECON J-APPL ECON, V1, P69, DOI 10.1257/app.1.4.69
+   MANSKI CF, 1993, REV ECON STUD, V60, P531, DOI 10.2307/2298123
+   Marmaros D, 2006, Q J ECON, V121, P79, DOI 10.1162/003355306776083563
+   Mayer A, 2008, J PUBLIC ECON, V92, P329, DOI 10.1016/j.jpubeco.2007.09.001
+   Sacerdote B, 2001, Q J ECON, V116, P681, DOI 10.1162/00335530151144131
+   Stinebrickner R, 2006, J PUBLIC ECON, V90, P1435, DOI 10.1016/j.jpubeco.2006.03.002
+   Zimmerman DJ, 2003, REV ECON STAT, V85, P9, DOI 10.1162/003465303762687677
+NR 18
+TC 248
+Z9 307
+U1 3
+U2 54
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0012-9682
+J9 ECONOMETRICA
+JI Econometrica
+PD MAY
+PY 2013
+VL 81
+IS 3
+BP 855
+EP 882
+DI 10.3982/ECTA10168
+PG 28
+WC Economics; Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods; Statistics & Probability
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Mathematics; Mathematical Methods In Social
+   Sciences
+GA 146AZ
+UT WOS:000319062500001
+DA 2024-11-22
+ER
+
+PT J
+AU Sherman, CW
+   Webster, NJ
+   Antonucci, TC
+AF Sherman, Carey Wexler
+   Webster, Noah J.
+   Antonucci, Toni C.
+TI Dementia Caregiving in the Context of Late-Life Remarriage: Support
+   Networks, Relationship Quality, and Well-being
+SO JOURNAL OF MARRIAGE AND FAMILY
+LA English
+DT Article
+DE aging; caregiving; dementia; remarriage; social support; stepfamily
+ID SOCIAL NETWORK; NEGATIVE INTERACTIONS; ALZHEIMER-DISEASE; STRESS
+   PROCESS; CONFLICT; FAMILIES; BEHAVIOR; HEALTH
+AB Caregiving research has not accounted for increasingly diverse and complex marital and family histories of older Americans. The authors examined social relations and care-specific positive and negative support networks among late-life remarried wife dementia caregivers (N = 61) to determine associations among network structure, relationship quality with and support received from network members, and global assessments of family and stepfamily disagreement on caregiver well-being. Own family and friends predominated in the social relations and positive networks. Although over half (54%) of respondents included a stepfamily member in their positive networks, stepchildren comprised the largest group (35%) in the negative networks. Larger negative networks and actively negative interactions were related to greater caregiver burden, and more global disagreement with stepfamily was associated with greater depression and burden. The findings illustrate the complex nature of support and the value of targeted examinations of caregiving support dynamics among late-life remarried older adults and stepfamilies facing health demands.
+C1 [Sherman, Carey Wexler; Webster, Noah J.; Antonucci, Toni C.] Univ Michigan, Inst Social Res, Life Course Dev Program, Ann Arbor, MI 48104 USA.
+C3 University of Michigan System; University of Michigan
+RP Sherman, CW (corresponding author), Univ Michigan, Inst Social Res, Life Course Dev Program, Ann Arbor, MI 48104 USA.
+EM careyws@umich.edu
+CR [Anonymous], SAGE PUBLICATIONS ON
+   [Anonymous], STEPFAMILY LATER LIF
+   [Anonymous], LANCET
+   [Anonymous], FAMILY THERAPY NETWO
+   [Anonymous], J GERONTOLOGY B
+   [Anonymous], MARRIAGE FAMILY STEP
+   [Anonymous], 1990, FAMILY PERSPECTIVE
+   [Anonymous], STEPFAMILY LATER LIF
+   [Anonymous], J MARRIAGE FAMILY
+   [Anonymous], LOVING SOMEONE DEMEN
+   [Anonymous], ENCY STRESS
+   [Anonymous], STEPFAMILY LATER LIF
+   [Anonymous], J MARRIAGE FAMILY
+   [Anonymous], AGEING SOC
+   [Anonymous], DEMOGRAPHY UNIONS OL
+   [Anonymous], 1992, NEBR S MOT 1992 DEV
+   [Anonymous], STAT ABSTR US
+   [Anonymous], J GERONTOLOGY B
+   [Anonymous], INT J SOCIAL RES PRA
+   [Anonymous], AGEING SOC
+   [Anonymous], 2012, ALZH FACTS FIG
+   [Anonymous], J GERONTOLOGY B
+   [Anonymous], J GERONTOLOGY B
+   Antonucci T.C., 2001, HDB PSYCHOL AGING, V5th, P427, DOI DOI 10.1016/B0-08-043076-7/01699-5
+   Antonucci T.C., 1990, Handbook of aging and the social sciences, V3rd
+   Antonucci T.C., 1986, Generations: Journal of the American Society on Aging, V10, P10
+   Bédard M, 2001, GERONTOLOGIST, V41, P652, DOI 10.1093/geront/41.5.652
+   Berger R., 2000, Handbook of family development and intervention, P371
+   Birditt KS, 2009, PSYCHOL AGING, V24, P287, DOI 10.1037/a0015196
+   Bookman A, 2011, FUTURE CHILD, V21, P117
+   BULCROFT K, 1989, RES AGING, V11, P82, DOI 10.1177/0164027589111004
+   Cantor M.H., 1979, RES AGING, V1, P434, DOI [10.1177/016402757914002, DOI 10.1177/016402757914002]
+   Carpentier N, 2005, QUAL HEALTH RES, V15, P289, DOI 10.1177/1049732304270813
+   Carpentier N, 2007, CAN J AGING, V26, P103, DOI 10.3138/cja.26.suppl_1.103
+   CHERLIN A, 1978, AM J SOCIOL, V84, P634, DOI 10.1086/226830
+   Cherlin AJ, 2004, J MARRIAGE FAM, V66, P848, DOI 10.1111/j.0022-2445.2004.00058.x
+   Connidis IA, 2002, J MARRIAGE FAM, V64, P594, DOI 10.1111/j.1741-3737.2002.00594.x
+   Curran SR, 2003, SOC SCI RES, V32, P171, DOI 10.1016/S0049-089X(02)00046-7
+   Durkheim E., 1951, Le suicide
+   Eggebeen D.J., 1992, GENERATIONS, V17, P45
+   Gaugler JE, 2000, PSYCHOL AGING, V15, P437, DOI 10.1037/0882-7974.15.3.437
+   GUBRIUM JF, 1988, J MARRIAGE FAM, V50, P197, DOI 10.2307/352439
+   Hebert LE, 2003, ARCH NEUROL-CHICAGO, V60, P1119, DOI 10.1001/archneur.60.8.1119
+   Hough ES, 2005, J ASSOC NURSE AIDS C, V16, P14, DOI 10.1016/j.jana.2005.05.002
+   Hughes ME, 2009, J HEALTH SOC BEHAV, V50, P344, DOI 10.1177/002214650905000307
+   Kahn R.L., 1980, LIFE SPAN DEV BEHAV, P253, DOI DOI 10.1038/NATURE12518
+   La Fontaine J, 2007, J ADV NURS, V60, P605, DOI 10.1111/j.1365-2648.2007.04444.x
+   Litwin H, 2001, GERONTOLOGIST, V41, P516, DOI 10.1093/geront/41.4.516
+   Mitrani VB, 2006, GERONTOLOGIST, V46, P97, DOI 10.1093/geront/46.1.97
+   Neufeld A, 2003, J ADV NURS, V41, P323, DOI 10.1046/j.1365-2648.2003.02530.x
+   PEARLIN LI, 1990, GERONTOLOGIST, V30, P583, DOI 10.1093/geront/30.5.583
+   Peisah C, 2006, INT J GERIATR PSYCH, V21, P485, DOI 10.1002/gps.1501
+   Pescosolido BA, 2002, ADV MED SOC, V8, P3
+   Pew Research Center, 2011, PORTR STEPF
+   Pezzin LE, 1999, DEMOGRAPHY, V36, P287, DOI 10.2307/2648053
+   RADLOFF L S, 1977, Applied Psychological Measurement, V1, P385, DOI 10.1177/014662167700100306
+   RADLOFF L S, 1986, Clinical Gerontologist, V5, P119
+   Rook K., 2001, APPL DEV SCI, V5, P86, DOI DOI 10.1207/S1532480XADS0502_4
+   Ryan LH, 2012, GERONTOLOGIST, V52, P177, DOI 10.1093/geront/gnr142
+   SEMPLE SJ, 1992, GERONTOLOGIST, V32, P648, DOI 10.1093/geront/32.5.648
+   Sherman C.W., 2007, Dementia, V6, P245, DOI [DOI 10.1177/1471301207080367, DOI 10.1177/147130120708036]
+   Sherman CW, 2008, FAM RELAT, V57, P492, DOI 10.1111/j.1741-3729.2008.00517.x
+   Sherman CW, 2012, RES HUM DEV, V9, P165, DOI 10.1080/15427609.2012.680845
+   Stewart SusanD., 2007, Brave New Stepfamilies: Diverse Paths Toward Stepfamily Living
+   Sweeney MM, 2010, J MARRIAGE FAM, V72, P1155, DOI 10.1111/j.1741-3737.2010.00756.x
+   Teachman JD, 2000, J MARRIAGE FAM, V62, P1234, DOI 10.1111/j.1741-3737.2000.01234.x
+   Teri L, 1997, ALZ DIS ASSOC DIS, V11, pS35
+   VINICK B, 1998, OLDER STEPFAMILIES V
+   Zarit SH, 2010, AGING MENT HEALTH, V14, P220, DOI 10.1080/13607860903167861
+NR 69
+TC 34
+Z9 42
+U1 0
+U2 35
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0022-2445
+EI 1741-3737
+J9 J MARRIAGE FAM
+JI J. Marriage Fam.
+PD OCT
+PY 2013
+VL 75
+IS 5
+BP 1149
+EP 1163
+DI 10.1111/jomf.12059
+PG 15
+WC Family Studies; Sociology
+WE Social Science Citation Index (SSCI)
+SC Family Studies; Sociology
+GA 210JZ
+UT WOS:000323829900007
+OA Green Submitted
+DA 2024-11-22
+ER

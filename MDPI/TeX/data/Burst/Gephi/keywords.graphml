@@ -1,0 +1,2085 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key id="name" for="node" attr.name="name" attr.type="string"/>
+<key id="label" for="node" attr.name="label" attr.type="string"/>
+<key id="author" for="node" attr.name="author" attr.type="string"/>
+<key id="year" for="node" attr.name="year" attr.type="string"/>
+<key id="title" for="node" attr.name="title" attr.type="string"/>
+<key id="so" for="node" attr.name="so" attr.type="string"/>
+<key id="vol" for="node" attr.name="vol" attr.type="string"/>
+<key id="page" for="node" attr.name="pg" attr.type="string"/>
+<key id="ut" for="node" attr.name="ut" attr.type="string"/>
+<key id="freq" for="node" attr.name="freq" attr.type="integer"/>
+<key id="centrality" for="node" attr.name="centrality" attr.type="double"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="float"/>
+<key id="slice" for="edge" attr.name="slice" attr.type="integer"/>
+<key id="year" for="edge" attr.name="year" attr.type="string"/>
+<graph edgedefault="undirected">
+<node id="0">
+  <data key="name">ideology</data>
+  <data key="label">ideology</data>
+  <data key="author">ideology</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="1">
+  <data key="name">internet</data>
+  <data key="label">internet</data>
+  <data key="author">internet</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="2">
+  <data key="name">behavior</data>
+  <data key="label">behavior</data>
+  <data key="author">behavior</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="3">
+  <data key="name">centrality</data>
+  <data key="label">centrality</data>
+  <data key="author">centrality</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="4">
+  <data key="name">markov graphs</data>
+  <data key="label">markov graphs</data>
+  <data key="author">markov graphs</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="5">
+  <data key="name">body-weight</data>
+  <data key="label">body-weight</data>
+  <data key="author">body-weight</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="6">
+  <data key="name">movements</data>
+  <data key="label">movements</data>
+  <data key="author">movements</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="7">
+  <data key="name">recruitment</data>
+  <data key="label">recruitment</data>
+  <data key="author">recruitment</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="8">
+  <data key="name">network dynamics</data>
+  <data key="label">network dynamics</data>
+  <data key="author">network dynamics</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="9">
+  <data key="name">society</data>
+  <data key="label">society</data>
+  <data key="author">society</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="10">
+  <data key="name">diffusion and spreading</data>
+  <data key="label">diffusion and spreading</data>
+  <data key="author">diffusion and spreading</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="11">
+  <data key="name">childhood</data>
+  <data key="label">childhood</data>
+  <data key="author">childhood</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="12">
+  <data key="name">maximum-flow</data>
+  <data key="label">maximum-flow</data>
+  <data key="author">maximum-flow</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="13">
+  <data key="name">statistical-mechanics</data>
+  <data key="label">statistical-mechanics</data>
+  <data key="author">statistical-mechanics</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="14">
+  <data key="name">phylogenetic constraints</data>
+  <data key="label">phylogenetic constraints</data>
+  <data key="author">phylogenetic constraints</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="15">
+  <data key="name">logit-models</data>
+  <data key="label">logit-models</data>
+  <data key="author">logit-models</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="16">
+  <data key="name">community</data>
+  <data key="label">community</data>
+  <data key="author">community</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="17">
+  <data key="name">finding community</data>
+  <data key="label">finding community</data>
+  <data key="author">finding community</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="18">
+  <data key="name">school size</data>
+  <data key="label">school size</data>
+  <data key="author">school size</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="19">
+  <data key="name">nonlinear dynamical</data>
+  <data key="label">nonlinear dynamical</data>
+  <data key="author">nonlinear dynamical</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="20">
+  <data key="name">social intellect</data>
+  <data key="label">social intellect</data>
+  <data key="author">social intellect</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="21">
+  <data key="name">directed graphs</data>
+  <data key="label">directed graphs</data>
+  <data key="author">directed graphs</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="22">
+  <data key="name">sequence-analysis</data>
+  <data key="label">sequence-analysis</data>
+  <data key="author">sequence-analysis</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="23">
+  <data key="name">segregation</data>
+  <data key="label">segregation</data>
+  <data key="author">segregation</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="24">
+  <data key="name">consequences</data>
+  <data key="label">consequences</data>
+  <data key="author">consequences</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="25">
+  <data key="name">statistical physics</data>
+  <data key="label">statistical physics</data>
+  <data key="author">statistical physics</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="26">
+  <data key="name">monkeys</data>
+  <data key="label">monkeys</data>
+  <data key="author">monkeys</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="27">
+  <data key="name">social network analysis</data>
+  <data key="label">social network analysis</data>
+  <data key="author">social network analysis</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="28">
+  <data key="name">phase transition</data>
+  <data key="label">phase transition</data>
+  <data key="author">phase transition</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="29">
+  <data key="name">mammals</data>
+  <data key="label">mammals</data>
+  <data key="author">mammals</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="30">
+  <data key="name">categorical data analysis</data>
+  <data key="label">categorical data analysis</data>
+  <data key="author">categorical data analysis</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="31">
+  <data key="name">friendship</data>
+  <data key="label">friendship</data>
+  <data key="author">friendship</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="32">
+  <data key="name">stochastic blockmodels</data>
+  <data key="label">stochastic blockmodels</data>
+  <data key="author">stochastic blockmodels</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="33">
+  <data key="name">random graph models</data>
+  <data key="label">random graph models</data>
+  <data key="author">random graph models</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="34">
+  <data key="name">reciprocity</data>
+  <data key="label">reciprocity</data>
+  <data key="author">reciprocity</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="35">
+  <data key="name">media</data>
+  <data key="label">media</data>
+  <data key="author">media</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="36">
+  <data key="name">social networks</data>
+  <data key="label">social networks</data>
+  <data key="author">social networks</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="37">
+  <data key="name">body size</data>
+  <data key="label">body size</data>
+  <data key="author">body size</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="38">
+  <data key="name">functional modules</data>
+  <data key="label">functional modules</data>
+  <data key="author">functional modules</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="39">
+  <data key="name">behavioral ecology</data>
+  <data key="label">behavioral ecology</data>
+  <data key="author">behavioral ecology</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="40">
+  <data key="name">conversation</data>
+  <data key="label">conversation</data>
+  <data key="author">conversation</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="41">
+  <data key="name">random graphs</data>
+  <data key="label">random graphs</data>
+  <data key="author">random graphs</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="42">
+  <data key="name">dynamics</data>
+  <data key="label">dynamics</data>
+  <data key="author">dynamics</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="43">
+  <data key="name">multiple networks</data>
+  <data key="label">multiple networks</data>
+  <data key="author">multiple networks</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="44">
+  <data key="name">see</data>
+  <data key="label">see</data>
+  <data key="author">see</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="45">
+  <data key="name">home-range</data>
+  <data key="label">home-range</data>
+  <data key="author">home-range</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="46">
+  <data key="name">macaca-mulatta</data>
+  <data key="label">macaca-mulatta</data>
+  <data key="author">macaca-mulatta</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="47">
+  <data key="name">historical sociology</data>
+  <data key="label">historical sociology</data>
+  <data key="author">historical sociology</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="48">
+  <data key="name">complex networks</data>
+  <data key="label">complex networks</data>
+  <data key="author">complex networks</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="49">
+  <data key="name">context</data>
+  <data key="label">context</data>
+  <data key="author">context</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="50">
+  <data key="name">peer</data>
+  <data key="label">peer</data>
+  <data key="author">peer</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="51">
+  <data key="name">information</data>
+  <data key="label">information</data>
+  <data key="author">information</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="52">
+  <data key="name">optimal matching methods</data>
+  <data key="label">optimal matching methods</data>
+  <data key="author">optimal matching methods</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="53">
+  <data key="name">exponential family</data>
+  <data key="label">exponential family</data>
+  <data key="author">exponential family</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="54">
+  <data key="name">feather</data>
+  <data key="label">feather</data>
+  <data key="author">feather</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="55">
+  <data key="name">community structure</data>
+  <data key="label">community structure</data>
+  <data key="author">community structure</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="56">
+  <data key="name">turn-taking</data>
+  <data key="label">turn-taking</data>
+  <data key="author">turn-taking</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="57">
+  <data key="name">statistical analysis</data>
+  <data key="label">statistical analysis</data>
+  <data key="author">statistical analysis</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="58">
+  <data key="name">small world</data>
+  <data key="label">small world</data>
+  <data key="author">small world</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="59">
+  <data key="name">evolution</data>
+  <data key="label">evolution</data>
+  <data key="author">evolution</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="60">
+  <data key="name">self</data>
+  <data key="label">self</data>
+  <data key="author">self</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="61">
+  <data key="name">discourse</data>
+  <data key="label">discourse</data>
+  <data key="author">discourse</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="62">
+  <data key="name">bounded confidence</data>
+  <data key="label">bounded confidence</data>
+  <data key="author">bounded confidence</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="63">
+  <data key="name">opinion dynamics</data>
+  <data key="label">opinion dynamics</data>
+  <data key="author">opinion dynamics</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="64">
+  <data key="name">reform</data>
+  <data key="label">reform</data>
+  <data key="author">reform</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="65">
+  <data key="name">selective exposure</data>
+  <data key="label">selective exposure</data>
+  <data key="author">selective exposure</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="66">
+  <data key="name">relative brain size</data>
+  <data key="label">relative brain size</data>
+  <data key="author">relative brain size</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="67">
+  <data key="name">protein community</data>
+  <data key="label">protein community</data>
+  <data key="author">protein community</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="68">
+  <data key="name">social systems</data>
+  <data key="label">social systems</data>
+  <data key="author">social systems</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="69">
+  <data key="name">model</data>
+  <data key="label">model</data>
+  <data key="author">model</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="70">
+  <data key="name">consensus</data>
+  <data key="label">consensus</data>
+  <data key="author">consensus</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="71">
+  <data key="name">social-structure</data>
+  <data key="label">social-structure</data>
+  <data key="author">social-structure</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="72">
+  <data key="name">random-walk</data>
+  <data key="label">random-walk</data>
+  <data key="author">random-walk</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="73">
+  <data key="name">status hierarchy</data>
+  <data key="label">status hierarchy</data>
+  <data key="author">status hierarchy</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="74">
+  <data key="name">human altruism</data>
+  <data key="label">human altruism</data>
+  <data key="author">human altruism</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="75">
+  <data key="name">logistic regressions</data>
+  <data key="label">logistic regressions</data>
+  <data key="author">logistic regressions</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="76">
+  <data key="name">hierarchical organization</data>
+  <data key="label">hierarchical organization</data>
+  <data key="author">hierarchical organization</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="77">
+  <data key="name">sexual dimorphism</data>
+  <data key="label">sexual dimorphism</data>
+  <data key="author">sexual dimorphism</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="78">
+  <data key="name">complex systems</data>
+  <data key="label">complex systems</data>
+  <data key="author">complex systems</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="79">
+  <data key="name">brain size</data>
+  <data key="label">brain size</data>
+  <data key="author">brain size</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="80">
+  <data key="name">disclosure</data>
+  <data key="label">disclosure</data>
+  <data key="author">disclosure</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="81">
+  <data key="name">networks</data>
+  <data key="label">networks</data>
+  <data key="author">networks</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="82">
+  <data key="name">models</data>
+  <data key="label">models</data>
+  <data key="author">models</data>
+  <data key="year"></data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<edge source="0" target="3">
+  <data key="weight">1.0</data>
+  <data key="slice">94</data>
+  <data key="year">1994</data>
+</edge>
+<edge source="0" target="16">
+  <data key="weight">1.0</data>
+  <data key="slice">94</data>
+  <data key="year">1994</data>
+</edge>
+<edge source="0" target="47">
+  <data key="weight">1.0</data>
+  <data key="slice">94</data>
+  <data key="year">1994</data>
+</edge>
+<edge source="0" target="61">
+  <data key="weight">1.0</data>
+  <data key="slice">94</data>
+  <data key="year">1994</data>
+</edge>
+<edge source="1" target="36">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">107</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="1" target="44">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">107</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="1" target="58">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">107</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="1" target="60">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">107</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="1" target="80">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">107</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="2" target="9">
+  <data key="weight">1.0</data>
+  <data key="slice">112</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="2" target="34">
+  <data key="weight">1.0</data>
+  <data key="slice">112</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="2" target="59">
+  <data key="weight">1.0</data>
+  <data key="slice">112</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="2" target="74">
+  <data key="weight">1.0</data>
+  <data key="slice">112</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="2" target="82">
+  <data key="weight">1.0</data>
+  <data key="slice">112</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="3" target="6">
+  <data key="weight">1.0</data>
+  <data key="slice">94</data>
+  <data key="year">1994</data>
+</edge>
+<edge source="3" target="7">
+  <data key="weight">1.0</data>
+  <data key="slice">94</data>
+  <data key="year">1994</data>
+</edge>
+<edge source="3" target="16">
+  <data key="weight">1.0</data>
+  <data key="slice">94</data>
+  <data key="year">1994</data>
+</edge>
+<edge source="3" target="36">
+  <data key="weight">1.0</data>
+  <data key="slice">94</data>
+  <data key="year">1994</data>
+</edge>
+<edge source="3" target="43">
+  <data key="weight">1.0</data>
+  <data key="slice">94</data>
+  <data key="year">1994</data>
+</edge>
+<edge source="3" target="47">
+  <data key="weight">1.0</data>
+  <data key="slice">94</data>
+  <data key="year">1994</data>
+</edge>
+<edge source="3" target="61">
+  <data key="weight">1.0</data>
+  <data key="slice">94</data>
+  <data key="year">1994</data>
+</edge>
+<edge source="3" target="64">
+  <data key="weight">1.0</data>
+  <data key="slice">94</data>
+  <data key="year">1994</data>
+</edge>
+<edge source="4" target="15">
+  <data key="weight">1.0</data>
+  <data key="slice">108</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="4" target="40">
+  <data key="weight">1.0</data>
+  <data key="slice">108</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="4" target="53">
+  <data key="weight">1.0</data>
+  <data key="slice">108</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="4" target="75">
+  <data key="weight">1.0</data>
+  <data key="slice">108</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="5" target="14">
+  <data key="weight">1.0</data>
+  <data key="slice">92</data>
+  <data key="year">1992</data>
+</edge>
+<edge source="5" target="20">
+  <data key="weight">1.0</data>
+  <data key="slice">92</data>
+  <data key="year">1992</data>
+</edge>
+<edge source="5" target="26">
+  <data key="weight">1.0</data>
+  <data key="slice">92</data>
+  <data key="year">1992</data>
+</edge>
+<edge source="5" target="29">
+  <data key="weight">1.0</data>
+  <data key="slice">92</data>
+  <data key="year">1992</data>
+</edge>
+<edge source="5" target="37">
+  <data key="weight">1.0</data>
+  <data key="slice">92</data>
+  <data key="year">1992</data>
+</edge>
+<edge source="5" target="39">
+  <data key="weight">1.0</data>
+  <data key="slice">92</data>
+  <data key="year">1992</data>
+</edge>
+<edge source="5" target="45">
+  <data key="weight">1.0</data>
+  <data key="slice">92</data>
+  <data key="year">1992</data>
+</edge>
+<edge source="5" target="46">
+  <data key="weight">1.0</data>
+  <data key="slice">92</data>
+  <data key="year">1992</data>
+</edge>
+<edge source="5" target="59">
+  <data key="weight">1.0</data>
+  <data key="slice">92</data>
+  <data key="year">1992</data>
+</edge>
+<edge source="5" target="66">
+  <data key="weight">1.0</data>
+  <data key="slice">92</data>
+  <data key="year">1992</data>
+</edge>
+<edge source="5" target="77">
+  <data key="weight">1.0</data>
+  <data key="slice">92</data>
+  <data key="year">1992</data>
+</edge>
+<edge source="5" target="79">
+  <data key="weight">1.0</data>
+  <data key="slice">92</data>
+  <data key="year">1992</data>
+</edge>
+<edge source="6" target="16">
+  <data key="weight">1.0</data>
+  <data key="slice">94</data>
+  <data key="year">1994</data>
+</edge>
+<edge source="6" target="61">
+  <data key="weight">1.0</data>
+  <data key="slice">94</data>
+  <data key="year">1994</data>
+</edge>
+<edge source="7" target="16">
+  <data key="weight">1.0</data>
+  <data key="slice">94</data>
+  <data key="year">1994</data>
+</edge>
+<edge source="7" target="61">
+  <data key="weight">1.0</data>
+  <data key="slice">94</data>
+  <data key="year">1994</data>
+</edge>
+<edge source="8" target="11">
+  <data key="weight">1.0</data>
+  <data key="slice">114</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="8" target="42">
+  <data key="weight">1.0</data>
+  <data key="slice">114</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="8" target="49">
+  <data key="weight">1.0</data>
+  <data key="slice">114</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="9" target="34">
+  <data key="weight">1.0</data>
+  <data key="slice">112</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="9" target="59">
+  <data key="weight">1.0</data>
+  <data key="slice">112</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="9" target="74">
+  <data key="weight">1.0</data>
+  <data key="slice">112</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="9" target="82">
+  <data key="weight">1.0</data>
+  <data key="slice">112</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="10" target="28">
+  <data key="weight">1.0</data>
+  <data key="slice">107</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="10" target="48">
+  <data key="weight">1.0</data>
+  <data key="slice">107</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="10" target="55">
+  <data key="weight">1.0</data>
+  <data key="slice">107</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="10" target="68">
+  <data key="weight">1.0</data>
+  <data key="slice">107</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="10" target="78">
+  <data key="weight">1.0</data>
+  <data key="slice">107</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="11" target="18">
+  <data key="weight">1.0</data>
+  <data key="slice">114</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="11" target="23">
+  <data key="weight">1.0</data>
+  <data key="slice">114</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="11" target="31">
+  <data key="weight">1.0</data>
+  <data key="slice">114</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="11" target="33">
+  <data key="weight">1.0</data>
+  <data key="slice">114</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="11" target="36">
+  <data key="weight">1.0</data>
+  <data key="slice">114</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="11" target="42">
+  <data key="weight">1.0</data>
+  <data key="slice">114</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="11" target="43">
+  <data key="weight">1.0</data>
+  <data key="slice">114</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="11" target="49">
+  <data key="weight">1.0</data>
+  <data key="slice">114</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="11" target="50">
+  <data key="weight">1.0</data>
+  <data key="slice">114</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="11" target="54">
+  <data key="weight">1.0</data>
+  <data key="slice">114</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="11" target="73">
+  <data key="weight">1.0</data>
+  <data key="slice">114</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="12" target="17">
+  <data key="weight">1.0</data>
+  <data key="slice">110</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="12" target="38">
+  <data key="weight">1.0</data>
+  <data key="slice">110</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="12" target="48">
+  <data key="weight">1.0</data>
+  <data key="slice">110</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="13" target="17">
+  <data key="weight">1.0</data>
+  <data key="slice">110</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="13" target="38">
+  <data key="weight">1.0</data>
+  <data key="slice">110</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="13" target="48">
+  <data key="weight">1.0</data>
+  <data key="slice">110</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="14" target="37">
+  <data key="weight">1.0</data>
+  <data key="slice">92</data>
+  <data key="year">1992</data>
+</edge>
+<edge source="14" target="39">
+  <data key="weight">1.0</data>
+  <data key="slice">92</data>
+  <data key="year">1992</data>
+</edge>
+<edge source="15" target="22">
+  <data key="weight">1.0</data>
+  <data key="slice">108</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="15" target="33">
+  <data key="weight">1.0</data>
+  <data key="slice">108</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="15" target="40">
+  <data key="weight">1.0</data>
+  <data key="slice">108</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="15" target="52">
+  <data key="weight">1.0</data>
+  <data key="slice">108</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="15" target="53">
+  <data key="weight">1.0</data>
+  <data key="slice">108</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="15" target="75">
+  <data key="weight">1.0</data>
+  <data key="slice">108</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="15" target="81">
+  <data key="weight">1.0</data>
+  <data key="slice">108</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="16" target="36">
+  <data key="weight">1.0</data>
+  <data key="slice">94</data>
+  <data key="year">1994</data>
+</edge>
+<edge source="16" target="43">
+  <data key="weight">1.0</data>
+  <data key="slice">94</data>
+  <data key="year">1994</data>
+</edge>
+<edge source="16" target="47">
+  <data key="weight">1.0</data>
+  <data key="slice">94</data>
+  <data key="year">1994</data>
+</edge>
+<edge source="16" target="61">
+  <data key="weight">1.0</data>
+  <data key="slice">94</data>
+  <data key="year">1994</data>
+</edge>
+<edge source="16" target="64">
+  <data key="weight">1.0</data>
+  <data key="slice">94</data>
+  <data key="year">1994</data>
+</edge>
+<edge source="17" target="25">
+  <data key="weight">1.0</data>
+  <data key="slice">110</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="17" target="32">
+  <data key="weight">1.0</data>
+  <data key="slice">110</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="17" target="38">
+  <data key="weight">1.0</data>
+  <data key="slice">110</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="17" target="48">
+  <data key="weight">1.0</data>
+  <data key="slice">110</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="17" target="67">
+  <data key="weight">1.0</data>
+  <data key="slice">110</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="17" target="69">
+  <data key="weight">1.0</data>
+  <data key="slice">110</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="17" target="72">
+  <data key="weight">1.0</data>
+  <data key="slice">110</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="17" target="76">
+  <data key="weight">1.0</data>
+  <data key="slice">110</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="18" target="42">
+  <data key="weight">1.0</data>
+  <data key="slice">114</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="18" target="49">
+  <data key="weight">1.0</data>
+  <data key="slice">114</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="19" target="62">
+  <data key="weight">1.0</data>
+  <data key="slice">102</data>
+  <data key="year">2002</data>
+</edge>
+<edge source="19" target="63">
+  <data key="weight">1.0</data>
+  <data key="slice">102</data>
+  <data key="year">2002</data>
+</edge>
+<edge source="19" target="70">
+  <data key="weight">1.0</data>
+  <data key="slice">102</data>
+  <data key="year">2002</data>
+</edge>
+<edge source="20" target="37">
+  <data key="weight">1.0</data>
+  <data key="slice">92</data>
+  <data key="year">1992</data>
+</edge>
+<edge source="20" target="39">
+  <data key="weight">1.0</data>
+  <data key="slice">92</data>
+  <data key="year">1992</data>
+</edge>
+<edge source="21" target="27">
+  <data key="weight">1.0</data>
+  <data key="slice">96</data>
+  <data key="year">1996</data>
+</edge>
+<edge source="21" target="30">
+  <data key="weight">1.0</data>
+  <data key="slice">96</data>
+  <data key="year">1996</data>
+</edge>
+<edge source="21" target="41">
+  <data key="weight">1.0</data>
+  <data key="slice">96</data>
+  <data key="year">1996</data>
+</edge>
+<edge source="21" target="57">
+  <data key="weight">1.0</data>
+  <data key="slice">96</data>
+  <data key="year">1996</data>
+</edge>
+<edge source="22" target="40">
+  <data key="weight">1.0</data>
+  <data key="slice">108</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="22" target="53">
+  <data key="weight">1.0</data>
+  <data key="slice">108</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="22" target="75">
+  <data key="weight">1.0</data>
+  <data key="slice">108</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="23" target="24">
+  <data key="weight">1.0</data>
+  <data key="slice">115</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="23" target="35">
+  <data key="weight">1.0</data>
+  <data key="slice">115</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="23" target="42">
+  <data key="weight">1.0</data>
+  <data key="slice">114</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="23" target="49">
+  <data key="weight">1.0</data>
+  <data key="slice">114</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="23" target="51">
+  <data key="weight">1.0</data>
+  <data key="slice">115</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="23" target="65">
+  <data key="weight">1.0</data>
+  <data key="slice">115</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="24" target="35">
+  <data key="weight">1.0</data>
+  <data key="slice">115</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="24" target="51">
+  <data key="weight">1.0</data>
+  <data key="slice">115</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="24" target="65">
+  <data key="weight">1.0</data>
+  <data key="slice">115</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="25" target="38">
+  <data key="weight">1.0</data>
+  <data key="slice">110</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="25" target="48">
+  <data key="weight">1.0</data>
+  <data key="slice">110</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="26" target="37">
+  <data key="weight">1.0</data>
+  <data key="slice">92</data>
+  <data key="year">1992</data>
+</edge>
+<edge source="26" target="39">
+  <data key="weight">1.0</data>
+  <data key="slice">92</data>
+  <data key="year">1992</data>
+</edge>
+<edge source="27" target="30">
+  <data key="weight">1.0</data>
+  <data key="slice">96</data>
+  <data key="year">1996</data>
+</edge>
+<edge source="27" target="41">
+  <data key="weight">1.0</data>
+  <data key="slice">96</data>
+  <data key="year">1996</data>
+</edge>
+<edge source="27" target="57">
+  <data key="weight">1.0</data>
+  <data key="slice">96</data>
+  <data key="year">1996</data>
+</edge>
+<edge source="28" target="48">
+  <data key="weight">1.0</data>
+  <data key="slice">107</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="28" target="55">
+  <data key="weight">1.0</data>
+  <data key="slice">107</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="28" target="68">
+  <data key="weight">1.0</data>
+  <data key="slice">107</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="28" target="78">
+  <data key="weight">1.0</data>
+  <data key="slice">107</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="29" target="37">
+  <data key="weight">1.0</data>
+  <data key="slice">92</data>
+  <data key="year">1992</data>
+</edge>
+<edge source="29" target="39">
+  <data key="weight">1.0</data>
+  <data key="slice">92</data>
+  <data key="year">1992</data>
+</edge>
+<edge source="30" target="41">
+  <data key="weight">1.0</data>
+  <data key="slice">96</data>
+  <data key="year">1996</data>
+</edge>
+<edge source="30" target="57">
+  <data key="weight">1.0</data>
+  <data key="slice">96</data>
+  <data key="year">1996</data>
+</edge>
+<edge source="31" target="42">
+  <data key="weight">1.0</data>
+  <data key="slice">114</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="31" target="49">
+  <data key="weight">1.0</data>
+  <data key="slice">114</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="32" target="38">
+  <data key="weight">1.0</data>
+  <data key="slice">110</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="32" target="48">
+  <data key="weight">1.0</data>
+  <data key="slice">110</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="33" target="40">
+  <data key="weight">1.0</data>
+  <data key="slice">108</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="33" target="42">
+  <data key="weight">1.0</data>
+  <data key="slice">114</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="33" target="49">
+  <data key="weight">1.0</data>
+  <data key="slice">114</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="33" target="53">
+  <data key="weight">1.0</data>
+  <data key="slice">108</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="33" target="75">
+  <data key="weight">1.0</data>
+  <data key="slice">108</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="34" target="59">
+  <data key="weight">1.0</data>
+  <data key="slice">112</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="34" target="74">
+  <data key="weight">1.0</data>
+  <data key="slice">112</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="34" target="82">
+  <data key="weight">1.0</data>
+  <data key="slice">112</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="35" target="51">
+  <data key="weight">1.0</data>
+  <data key="slice">115</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="35" target="65">
+  <data key="weight">1.0</data>
+  <data key="slice">115</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="36" target="42">
+  <data key="weight">1.0</data>
+  <data key="slice">114</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="36" target="49">
+  <data key="weight">1.0</data>
+  <data key="slice">114</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="36" target="58">
+  <data key="weight">1.0</data>
+  <data key="slice">107</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="36" target="61">
+  <data key="weight">1.0</data>
+  <data key="slice">94</data>
+  <data key="year">1994</data>
+</edge>
+<edge source="37" target="39">
+  <data key="weight">1.0</data>
+  <data key="slice">92</data>
+  <data key="year">1992</data>
+</edge>
+<edge source="37" target="45">
+  <data key="weight">1.0</data>
+  <data key="slice">92</data>
+  <data key="year">1992</data>
+</edge>
+<edge source="37" target="46">
+  <data key="weight">1.0</data>
+  <data key="slice">92</data>
+  <data key="year">1992</data>
+</edge>
+<edge source="37" target="59">
+  <data key="weight">1.0</data>
+  <data key="slice">92</data>
+  <data key="year">1992</data>
+</edge>
+<edge source="37" target="66">
+  <data key="weight">1.0</data>
+  <data key="slice">92</data>
+  <data key="year">1992</data>
+</edge>
+<edge source="37" target="71">
+  <data key="weight">1.0</data>
+  <data key="slice">92</data>
+  <data key="year">1992</data>
+</edge>
+<edge source="37" target="77">
+  <data key="weight">1.0</data>
+  <data key="slice">92</data>
+  <data key="year">1992</data>
+</edge>
+<edge source="37" target="79">
+  <data key="weight">1.0</data>
+  <data key="slice">92</data>
+  <data key="year">1992</data>
+</edge>
+<edge source="38" target="48">
+  <data key="weight">1.0</data>
+  <data key="slice">110</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="38" target="67">
+  <data key="weight">1.0</data>
+  <data key="slice">110</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="38" target="69">
+  <data key="weight">1.0</data>
+  <data key="slice">110</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="38" target="72">
+  <data key="weight">1.0</data>
+  <data key="slice">110</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="38" target="76">
+  <data key="weight">1.0</data>
+  <data key="slice">110</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="39" target="45">
+  <data key="weight">1.0</data>
+  <data key="slice">92</data>
+  <data key="year">1992</data>
+</edge>
+<edge source="39" target="46">
+  <data key="weight">1.0</data>
+  <data key="slice">92</data>
+  <data key="year">1992</data>
+</edge>
+<edge source="39" target="59">
+  <data key="weight">1.0</data>
+  <data key="slice">92</data>
+  <data key="year">1992</data>
+</edge>
+<edge source="39" target="66">
+  <data key="weight">1.0</data>
+  <data key="slice">92</data>
+  <data key="year">1992</data>
+</edge>
+<edge source="39" target="71">
+  <data key="weight">1.0</data>
+  <data key="slice">92</data>
+  <data key="year">1992</data>
+</edge>
+<edge source="39" target="77">
+  <data key="weight">1.0</data>
+  <data key="slice">92</data>
+  <data key="year">1992</data>
+</edge>
+<edge source="39" target="79">
+  <data key="weight">1.0</data>
+  <data key="slice">92</data>
+  <data key="year">1992</data>
+</edge>
+<edge source="40" target="52">
+  <data key="weight">1.0</data>
+  <data key="slice">108</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="40" target="53">
+  <data key="weight">1.0</data>
+  <data key="slice">108</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="40" target="56">
+  <data key="weight">1.0</data>
+  <data key="slice">108</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="40" target="75">
+  <data key="weight">1.0</data>
+  <data key="slice">108</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="40" target="81">
+  <data key="weight">1.0</data>
+  <data key="slice">108</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="41" target="48">
+  <data key="weight">1.0</data>
+  <data key="slice">108</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="41" target="57">
+  <data key="weight">1.0</data>
+  <data key="slice">96</data>
+  <data key="year">1996</data>
+</edge>
+<edge source="42" target="43">
+  <data key="weight">1.0</data>
+  <data key="slice">114</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="42" target="49">
+  <data key="weight">1.0</data>
+  <data key="slice">114</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="42" target="50">
+  <data key="weight">1.0</data>
+  <data key="slice">114</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="42" target="54">
+  <data key="weight">1.0</data>
+  <data key="slice">114</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="43" target="49">
+  <data key="weight">1.0</data>
+  <data key="slice">114</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="43" target="61">
+  <data key="weight">1.0</data>
+  <data key="slice">94</data>
+  <data key="year">1994</data>
+</edge>
+<edge source="44" target="60">
+  <data key="weight">1.0</data>
+  <data key="slice">107</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="44" target="80">
+  <data key="weight">1.0</data>
+  <data key="slice">107</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="47" target="61">
+  <data key="weight">1.0</data>
+  <data key="slice">94</data>
+  <data key="year">1994</data>
+</edge>
+<edge source="48" target="55">
+  <data key="weight">1.0</data>
+  <data key="slice">107</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="48" target="67">
+  <data key="weight">1.0</data>
+  <data key="slice">110</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="48" target="68">
+  <data key="weight">1.0</data>
+  <data key="slice">107</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="48" target="69">
+  <data key="weight">1.0</data>
+  <data key="slice">110</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="48" target="72">
+  <data key="weight">1.0</data>
+  <data key="slice">110</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="48" target="76">
+  <data key="weight">1.0</data>
+  <data key="slice">110</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="48" target="78">
+  <data key="weight">1.0</data>
+  <data key="slice">107</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="49" target="50">
+  <data key="weight">1.0</data>
+  <data key="slice">114</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="49" target="54">
+  <data key="weight">1.0</data>
+  <data key="slice">114</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="49" target="73">
+  <data key="weight">1.0</data>
+  <data key="slice">114</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="51" target="65">
+  <data key="weight">1.0</data>
+  <data key="slice">115</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="52" target="53">
+  <data key="weight">1.0</data>
+  <data key="slice">108</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="52" target="75">
+  <data key="weight">1.0</data>
+  <data key="slice">108</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="53" target="56">
+  <data key="weight">1.0</data>
+  <data key="slice">108</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="53" target="75">
+  <data key="weight">1.0</data>
+  <data key="slice">108</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="53" target="81">
+  <data key="weight">1.0</data>
+  <data key="slice">108</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="55" target="68">
+  <data key="weight">1.0</data>
+  <data key="slice">107</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="55" target="78">
+  <data key="weight">1.0</data>
+  <data key="slice">107</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="56" target="75">
+  <data key="weight">1.0</data>
+  <data key="slice">108</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="59" target="74">
+  <data key="weight">1.0</data>
+  <data key="slice">112</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="59" target="82">
+  <data key="weight">1.0</data>
+  <data key="slice">112</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="60" target="80">
+  <data key="weight">1.0</data>
+  <data key="slice">107</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="61" target="64">
+  <data key="weight">1.0</data>
+  <data key="slice">94</data>
+  <data key="year">1994</data>
+</edge>
+<edge source="62" target="63">
+  <data key="weight">1.0</data>
+  <data key="slice">102</data>
+  <data key="year">2002</data>
+</edge>
+<edge source="62" target="70">
+  <data key="weight">1.0</data>
+  <data key="slice">102</data>
+  <data key="year">2002</data>
+</edge>
+<edge source="63" target="70">
+  <data key="weight">1.0</data>
+  <data key="slice">102</data>
+  <data key="year">2002</data>
+</edge>
+<edge source="68" target="78">
+  <data key="weight">1.0</data>
+  <data key="slice">107</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="74" target="82">
+  <data key="weight">1.0</data>
+  <data key="slice">112</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="75" target="81">
+  <data key="weight">1.0</data>
+  <data key="slice">108</data>
+  <data key="year">2008</data>
+</edge>
+</graph>
+</graphml>

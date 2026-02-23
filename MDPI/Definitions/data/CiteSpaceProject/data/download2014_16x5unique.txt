@@ -1,0 +1,563 @@
+
+PT J
+AU Henning, CHCA
+   Zarnekow, N
+   Hedtrich, J
+   Stark, S
+   Türk, K
+   Laudes, M
+AF Henning, Christian H. C. A.
+   Zarnekow, Nana
+   Hedtrich, Johannes
+   Stark, Sascha
+   Tuerk, Kathrin
+   Laudes, Matthias
+TI Identification of Direct and Indirect Social Network Effects in the
+   Pathophysiology of Insulin Resistance in Obese Human Subjects
+SO PLOS ONE
+LA English
+DT Article
+ID EARLY-ONSET OBESITY; PROPENSITY SCORE; OVERWEIGHT; ASSOCIATION;
+   CHILDREN; MUTATION; BMI
+AB Objective: The aim of the present study was to examine to what extent different social network mechanisms are involved in the pathogenesis of obesity and insulin-resistance.
+   Design: We used nonparametric and parametric regression models to analyse whether individual BMI and HOMA-IR are determined by social network characteristics.
+   Subjects and Methods: A total of 677 probands (EGO) and 3033 social network partners (ALTER) were included in the study. Data gathered from the probands include anthropometric measures, HOMA-IR index, health attitudes, behavioural and socio- economic variables and social network data.
+   Results: We found significant treatment effects for ALTERs frequent dieting (p < 0.001) and ALTERs health oriented nutritional attitudes (p, 0.001) on EGO's BMI, establishing a significant indirect network effect also on EGO's insulin resistance. Most importantly, we also found significant direct social network effects on EGO's insulin resistance, evidenced by an effect of ALTERs frequent dieting (p = 0.033) and ALTERs sport activities (p = 0.041) to decrease EGO's HOMA-IR index independently of EGO's BMI.
+   Conclusions: Social network phenomena appear not only to be relevant for the spread of obesity, but also for the spread of insulin resistance as the basis for type 2 diabetes. Attitudes and behaviour of peer groups influence EGO's health status not only via social mechanisms, but also via socio- biological mechanisms, i.e. higher brain areas might be influenced not only by biological signals from the own organism, but also by behaviour and knowledge from different human individuals. Our approach allows the identification of peer group influence controlling for potential homophily even when using cross-sectional observational data.
+C1 [Henning, Christian H. C. A.; Zarnekow, Nana; Hedtrich, Johannes; Stark, Sascha] Univ Kiel, Inst Agr Econ, Kiel, Germany.
+   [Tuerk, Kathrin; Laudes, Matthias] Univ Kiel, Dept Internal Med 1, Kiel, Germany.
+C3 University of Kiel; University of Kiel
+RP Henning, CHCA (corresponding author), Univ Kiel, Inst Agr Econ, Kiel, Germany.
+EM chenning@ae.uni-kiel.de
+RI Laudes, Matthias/C-8885-2011; Henning, Christian/KFS-6511-2024
+OI Ziesmer, Johannes/0000-0001-5950-4199
+FU federal ministry of education and research (BMBF) [0315540A,
+   DRKS00005285]
+FX The study is funded by the federal ministry of education and research
+   (BMBF), Number: 0315540A, DRKS00005285. The funders had no role in study
+   design, data collection and analysis, decision to publish, or
+   preparation of the manuscript.
+CR Bahr DB, 2009, OBESITY, V17, P723, DOI 10.1038/oby.2008.615
+   Bandura A., 1986, SOCIAL FDN THOUGHT A, DOI DOI 10.5465/AMR.1987.4306538
+   Battiston S, 2004, COMPLEX DYNAMICS EC, P355
+   Berkman LF., 2000, SOCIAL EPIDEMIOLOGY, DOI DOI 10.1093/OSO/9780195083316.003.0007
+   Caliendo M, 2008, J ECON SURV, V22, P31, DOI 10.1111/j.1467-6419.2007.00527.x
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   Cohen-Cole E, 2008, J HEALTH ECON, V27, P1382, DOI 10.1016/j.jhealeco.2008.04.005
+   Cohen-Cole E, 2008, BMJ-BRIT MED J, V337, DOI 10.1136/bmj.a2533
+   Coll AP, 2007, CELL, V129, P251, DOI 10.1016/j.cell.2007.04.001
+   de la Haye K, 2010, SOC NETWORKS, V32, P161, DOI 10.1016/j.socnet.2009.09.001
+   Duncan GE, 2003, DIABETES CARE, V26, P557, DOI 10.2337/diacare.26.3.557
+   Fletcher A, 2011, J EPIDEMIOL COMMUN H, V65, P548, DOI 10.1136/jech.2010.113936
+   Fogassi L, 2005, SCIENCE, V308, P662, DOI 10.1126/science.1106138
+   Frankort A, 2012, INT J OBESITY, V36, P627, DOI 10.1038/ijo.2011.213
+   George S, 2004, SCIENCE, V304, P1325, DOI 10.1126/science.1096706
+   Golley RK, 2013, INT J OBESITY, V37, P546, DOI 10.1038/ijo.2012.212
+   Gu XS., 1993, J COMPUTATIONAL GRAP, V2, P405, DOI DOI 10.1080/10618600.1993.10474623
+   Hedley AA, 2004, JAMA-J AM MED ASSOC, V291, P2847, DOI 10.1001/jama.291.23.2847
+   Hung CCC, 2004, DIABETES, V53, P2461, DOI 10.2337/diabetes.53.9.2461
+   Johns D., 2010, Everything is Contagious, Slate
+   Kahn BB, 2000, J CLIN INVEST, V106, P473, DOI 10.1172/JCI10842
+   Krude H, 1998, NAT GENET, V19, P155, DOI 10.1038/509
+   MANSKI CF, 1993, REV ECON STUD, V60, P531, DOI 10.2307/2298123
+   Marks DL, 2004, AM J MED GENET A, V126A, P267, DOI 10.1002/ajmg.a.20600
+   Montague CT, 1997, NATURE, V387, P903, DOI 10.1038/43185
+   Moore S, 2009, J PUBLIC HEALTH-UK, V31, P175, DOI 10.1093/pubmed/fdn104
+   Morino K, 2006, DIABETES, V55, pS9, DOI 10.2337/db06-S002
+   ROSENBAUM PR, 1983, BIOMETRIKA, V70, P41, DOI 10.1093/biomet/70.1.41
+   Samuel VT, 2012, CELL, V148, P852, DOI 10.1016/j.cell.2012.02.017
+   Shalizi CR, 2011, SOCIOL METHOD RES, V40, P211, DOI 10.1177/0049124111404820
+   Shoham DA, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0039795
+   Smith KP, 2008, ANNU REV SOCIOL, V34, P405, DOI 10.1146/annurev.soc.34.040507.134601
+   Snijders T., 2012, MULTILEVEL ANAL INTR
+   Snijders TAB, 2010, SOC NETWORKS, V32, P44, DOI 10.1016/j.socnet.2009.02.004
+   STUNKARD AJ, 1990, NEW ENGL J MED, V322, P1483, DOI 10.1056/NEJM199005243222102
+   Turconi G, 2006, EUR J NUTR, V45, P136, DOI 10.1007/s00394-005-0571-x
+   Valente TW, 2008, SOCIAL NETWORKS HLTH
+   Van der Gaag M, 2005, SOC NETWORKS, V27, P21
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   Waters E, 2011, COCHRANE DB SYST REV, DOI 10.1002/14651858.CD001871.pub3
+   Yeo GSH, 1998, NAT GENET, V20, P111, DOI 10.1038/2404
+NR 41
+TC 11
+Z9 14
+U1 0
+U2 16
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD APR 7
+PY 2014
+VL 9
+IS 4
+AR e93860
+DI 10.1371/journal.pone.0093860
+PG 9
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA AE7EP
+UT WOS:000334159800058
+PM 24710599
+OA Green Published, gold, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Grabowicz, PA
+   Ramasco, JJ
+   Gonçalves, B
+   Eguíluz, VM
+AF Grabowicz, Przemyslaw A.
+   Ramasco, Jose J.
+   Goncalves, Bruno
+   Eguiluz, Victor M.
+TI Entangling Mobility and Interactions in Social Media
+SO PLOS ONE
+LA English
+DT Article
+ID NETWORKS
+AB Daily interactions naturally define social circles. Individuals tend to be friends with the people they spend time with and they choose to spend time with their friends, inextricably entangling physical location and social relationships. As a result, it is possible to predict not only someone's location from their friends' locations but also friendship from spatial and temporal co-occurrence. While several models have been developed to separately describe mobility and the evolution of social networks, there is a lack of studies coupling social interactions and mobility. In this work, we introduce a model that bridges this gap by explicitly considering the feedback of mobility on the formation of social ties. Data coming from three online social networks (Twitter, Gowalla and Brightkite) is used for validation. Our model reproduces various topological and physical properties of the networks not captured by models uncoupling mobility and social interactions such as: i) the total size of the connected components, ii) the distance distribution between connected users, iii) the dependence of the reciprocity on the distance, iv) the variation of the social overlap and the clustering with the distance. Besides numerical simulations, a mean-field approach is also used to study analytically the main statistical features of the networks generated by a simplified version of our model. The robustness of the results to changes in the model parameters is explored, finding that a balance between friend visits and long-range random connections is essential to reproduce the geographical features of the empirical networks.
+C1 [Grabowicz, Przemyslaw A.; Ramasco, Jose J.; Eguiluz, Victor M.] CSIC UIB, Inst Fis Interdisciplinar & Sistemas Complejos, Palma De Mallorca, Spain.
+   [Grabowicz, Przemyslaw A.] MPG, Max Planck Inst Software Syst, Saarbrucken, Germany.
+   [Goncalves, Bruno] Aix Marseille Univ, CNRS, Ctr Phys Theor, Marseille, France.
+   [Goncalves, Bruno] Univ Toulon & Var, CNRS, Ctr Phys Theor, La Garde, France.
+C3 Consejo Superior de Investigaciones Cientificas (CSIC); Universitat de
+   les Illes Balears; CSIC-UIB - Instituto de Fisica Interdisciplinar y
+   Sistemas Complejos (IFISC); University of Barcelona; Max Planck Society;
+   Aix-Marseille Universite; Centre National de la Recherche Scientifique
+   (CNRS); Universite de Toulon; Centre National de la Recherche
+   Scientifique (CNRS)
+RP Grabowicz, PA (corresponding author), CSIC UIB, Inst Fis Interdisciplinar & Sistemas Complejos, Palma De Mallorca, Spain.
+EM pms@mpi-sws.org
+RI Gonçalves, Bruno/A-8541-2009; Ramasco, Jose J/F-2860-2010; Eguiluz,
+   Victor M./B-9655-2008
+OI Ramasco, Jose J/0000-0003-2499-6095; Eguiluz, Victor
+   M./0000-0003-1133-1289; Goncalves, Bruno/0000-0001-5644-3749
+FU Spanish Ministry of Economy (MINECO); FEDER (EU) under project MODASS
+   [FIS2011-24785]; EU Commission; JAE-Predoc program of Consejo Superior
+   de Investigaciones Cientificas; Ramon y Cajal program of MINECO; French
+   ANR project HarMS-flu [ANR-12-MONU-0018]
+FX We have received partial financial support from the Spanish Ministry of
+   Economy (MINECO) and FEDER (EU) under project MODASS (FIS2011-24785),
+   and from the EU Commission through projects EUNOIA, INSIGHT and LASAGNE.
+   PAG acknowledges funding from the JAE-Predoc program of Consejo Superior
+   de Investigaciones Cientificas and JJR from the Ramon y Cajal program of
+   MINECO. BG was partially supported by the French ANR project HarMS-flu
+   (ANR-12-MONU-0018). The funders had no role in study design, data
+   collection and analysis, decision to publish, or preparation of the
+   manuscript.
+CR [Anonymous], 2012, PROC 5 ACM INT C WEB, DOI DOI 10.1145/2124295.2124380
+   [Anonymous], 2011, 11114503 ARXIV
+   Backstrom L., 2010, P 19 INT C WORLD WID, P61, DOI DOI 10.1145/1772690.1772698
+   Bakshy E., 2012, P 21 INT C WORLD WID, P519, DOI DOI 10.1145/2187836.2187907
+   Balcan D, 2009, P NATL ACAD SCI USA, V106, P21484, DOI 10.1073/pnas.0906910106
+   Borge-Holthoefer J, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0023883
+   Brockmann D, 2006, NATURE, V439, P462, DOI 10.1038/nature04292
+   Brockmann D, 2010, NAT PHYS, V6, P720, DOI 10.1038/nphys1792
+   Butts CT, 2012, SOC NETWORKS, V34, P82, DOI 10.1016/j.socnet.2011.08.003
+   Cho E, 2011, KDD
+   Conover MD, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0055957
+   Crandall DJ, 2010, P NATL ACAD SCI USA, V107, P22436, DOI 10.1073/pnas.1006155107
+   Ferrara E, 2012, EPJ DATA SCI, V1, DOI 10.1140/epjds9
+   Gonçalves B, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0022656
+   González MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   González MC, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.088702
+   González-Bailón S, 2011, SCI REP-UK, V1, DOI 10.1038/srep00197
+   Grabowicz P.A., 2013, P 6 ACM INT C WEB SE, P627
+   Grabowicz PA, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0029358
+   Hasan S, 2013, J STAT PHYS, V151, P304, DOI 10.1007/s10955-012-0645-0
+   Jia T, 2012, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2012/11/P11024
+   Krings G, 2009, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2009/07/L07003
+   Kwak H., WWW'10, DOI [10.1145/1772690.1772751, DOI 10.1145/1772690.1772751]
+   Lambiotte R, 2008, PHYSICA A, V387, P5317, DOI 10.1016/j.physa.2008.05.014
+   Lazer D, 2009, SCIENCE, V323, P721, DOI 10.1126/science.1167742
+   Lehmann J., 2012, P 21 INT C WORLD WID, P251, DOI DOI 10.1145/2187836.2187871
+   Leskovec J, 2009, KDD-09: 15TH ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P497
+   Liben-Nowell D, 2005, P NATL ACAD SCI USA, V102, P11623, DOI 10.1073/pnas.0503018102
+   Lu X, 2012, P NATL ACAD SCI USA, V109, P11576, DOI 10.1073/pnas.1203882109
+   Miritello G, 2013, SOC NETWORKS, V35, P89, DOI 10.1016/j.socnet.2013.01.003
+   Mislove A., 2008, P WORKSH ONL SOC NET, P25, DOI 10.1145/1397735.1397742
+   NASA Socioeconomic Data and Applications Center (SEDAC), GRIDD POP WORLD VERS
+   Phithakkitnukoon S, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0039253
+   Ratkiewicz J., 2011, Proceedings of the International AAAI Conference on Web and Social Media, P297, DOI [10.1.1.646.5073, DOI 10.1145/1963192.1963301]
+   Renso C, 2013, MOBILITY DATA: MODELING, MANAGEMENT, AND UNDERSTANDING, P1, DOI 10.1017/CBO9781139128926
+   Rivera MT, 2010, ANNU REV SOCIOL, V36, P91, DOI 10.1146/annurev.soc.34.040507.134743
+   Scellato S., 2011, ICWSM, P329
+   Simini F, 2012, NATURE, V484, P96, DOI 10.1038/nature10856
+   Song CM, 2010, NAT PHYS, V6, P818, DOI 10.1038/NPHYS1760
+   Szell M, 2012, SCI REP-UK, V2, DOI 10.1038/srep00457
+   Takhteyev Y, 2012, SOC NETWORKS, V34, P73, DOI 10.1016/j.socnet.2011.05.006
+   *TWITT API, SECT DEV TWITT WEB P
+   Ugander J, 2012, P NATL ACAD SCI USA, V109, P5962, DOI 10.1073/pnas.1116502109
+   Volkovich Yana., 2012, P INT AAAI C WEB SOC, P346
+   Wang D., 2011, P 17 ACM SIGKDD INT, P1100, DOI [10.1145/2020408.2020581, DOI 10.1145/2020408.2020581]
+   Wang P, 2009, SCIENCE, V324, P1071, DOI 10.1126/science.1167053
+   Weber Ingmar., 2013, Proceedings of the sixth ACM international conference on Web search and data mining, P265, DOI DOI 10.1177/1753193412471107
+NR 47
+TC 65
+Z9 73
+U1 1
+U2 35
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD MAR 20
+PY 2014
+VL 9
+IS 3
+AR e92196
+DI 10.1371/journal.pone.0092196
+PG 12
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA AD6FV
+UT WOS:000333352800083
+PM 24651657
+OA gold, Green Submitted, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Bojanowski, M
+   Corten, R
+AF Bojanowski, Michal
+   Corten, Rense
+TI Measuring segregation in social networks
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Social networks; Segregation; Homophily; Measurement
+ID EXPONENTIAL FAMILY; MODELS; RACE
+AB Network homophily is a pattern in which ties are more likely to exist between nodes similar to each other. It is frequently observed for various types of social relations. At the same time, segregation is often encountered in urban areas as a tendency of families to occupy neighborhoods inhabited by other families similar to them. In this paper we conceptualize both phenomena as in the language of networks of interlinked positions occupied by a population of actors characterized by some node-level attribute. We review existing indexes and approaches to measuring the extent of homophily/segregation in social networks. We pursue an approach of, first, specifying a set of properties that a generic segregation measure might possess, and which, in our view, are relevant in substantial contexts. Second, we check which measures satisfy which properties. The use of measures is illustrated with four empirical examples. Given the particular application and the need for some descriptive measure of segregation, the results presented in this paper can help in selecting an optimal measure for the task at hand. We conclude that the most crucial aspects for the choice of a particular segregation measure include (1) whether the network ties or actors' attributes are assumed to be subject to change, and (2) how one should treat the presence of network isolates. (C) 2014 Elsevier B.V. All rights reserved.
+C1 [Bojanowski, Michal] Univ Warsaw, Interdisciplinary Ctr Math & Computat Modelling I, PL-00838 Warsaw, Poland.
+   [Corten, Rense] Univ Utrecht, Dept Sociol ICS, NL-3584 CH Utrecht, Netherlands.
+C3 University of Warsaw; Interdisciplinary Centre for Mathematical &
+   Computational Modelling; Utrecht University
+RP Bojanowski, M (corresponding author), Univ Warsaw, Interdisciplinary Ctr Math & Computat Modelling I, Prosta 69, PL-00838 Warsaw, Poland.
+EM m.bojanowski@uw.edu.pl; r.corten@uu.nl
+RI Bojanowski, Michał/J-7034-2019; Corten, Rense/D-7090-2013
+OI Bojanowski, Michal/0000-0001-7503-852X
+CR Agresti A., 2002, CATEGORICAL DATA ANA, DOI DOI 10.1002/0471249688
+   Alonso-Villar O, 2010, MATH SOC SCI, V60, P30, DOI 10.1016/j.mathsocsci.2010.03.002
+   [Anonymous], 2002, Ucinet for windows: Software for social network analysis
+   [Anonymous], MATH SCI HUMAINES
+   Ballester C, 2006, ECONOMETRICA, V74, P1403, DOI 10.1111/j.1468-0262.2006.00709.x
+   Chakravarty S. R., 1999, Handbook of Income Inequality Measurement, P163
+   CHARLES M, 1995, AM J SOCIOL, V100, P931, DOI 10.1086/230605
+   Cialdini RB, 2004, ANNU REV PSYCHOL, V55, P591, DOI 10.1146/annurev.psych.55.090902.142015
+   COHEN J, 1960, EDUC PSYCHOL MEAS, V20, P37, DOI 10.1177/001316446002000104
+   Coleman J. S., 1966, MED INNOVATION DIFFU
+   COLEMAN JS, 1958, HUM ORGAN, V17, P28, DOI 10.17730/humo.17.4.q5604m676260q8n7
+   COWELL FA, 1981, EUR ECON REV, V15, P287, DOI 10.1016/S0014-2921(81)80003-7
+   COWELL FA, 1985, REV ECON STUD, V52, P135, DOI 10.2307/2297475
+   Currarini S, 2010, P NATL ACAD SCI USA, V107, P4857, DOI 10.1073/pnas.0911793107
+   DASPREMONT C, 1977, REV ECON STUD, V44, P199, DOI 10.2307/2297061
+   dAspremont C., 1985, Social goals and social organization: Essays in memory of Elisha Pazner, P19
+   de Klepper M, 2010, SOC NETWORKS, V32, P82, DOI 10.1016/j.socnet.2009.06.003
+   De Nooy W., 2005, EXPLORATORY NETWORK
+   Duncan OD, 1955, AM SOCIOL REV, V20, P210, DOI 10.2307/2088328
+   Echenique F, 2007, Q J ECON, V122, P441, DOI 10.1162/qjec.122.2.441
+   Educational Research Institute, 2012, SCH EFF STUD
+   Egan KL, 1998, SOC FORCES, V76, P1115, DOI 10.2307/3005705
+   Erdos P., 1959, PUBL MATH-DEBRECEN, V6, P290
+   Erickson B.H., 1988, SOCIAL STRUCTURES NE, P99
+   Fagiolo G, 2007, J ECON BEHAV ORGAN, V64, P316, DOI 10.1016/j.jebo.2006.09.003
+   Fershtman M, 1997, SOC NETWORKS, V19, P193, DOI 10.1016/S0378-8733(96)00295-X
+   Fienberg Stephen E., 1981, Sociological Methodology, V12, P156, DOI [10.2307/27074118.Girvan, DOI 10.2307/27074118.GIRVAN]
+   FOSTER JE, 1983, J ECON THEORY, V31, P105, DOI 10.1016/0022-0531(83)90023-6
+   FRANK O, 1986, J AM STAT ASSOC, V81, P832, DOI 10.2307/2289017
+   FREEMAN L, 1978, CONNECTIONS, V2, P9
+   FREEMAN LC, 1978, SOCIOL METHOD RES, V6, P411, DOI 10.1177/004912417800600401
+   FREEMAN LC, 1970, PATTERNS RESIDENTIAL
+   Goodman LA, 1996, J AM STAT ASSOC, V91, P408, DOI 10.2307/2291421
+   GOODMAN LA, 1978, ANAL QUALITATIVE CAT, P7
+   Grannis R, 2002, SOCIOL METHODOL, V32, P69, DOI 10.1111/1467-9531.00111
+   Granovetter M., 1979, Perspectives on social network research, P501
+   GUPTA S, 1989, AIDS, V3, P807, DOI 10.1097/00002030-198912000-00005
+   Harville D.A., 1998, Matrix Algebra from a Statistician's Perspective
+   HOLLAND PW, 1981, J AM STAT ASSOC, V76, P33, DOI 10.2307/2287037
+   Hunt ChesterL., 1974, ETHNIC DYNAMICS PATT
+   JAMES DR, 1985, SOCIOL METHODOL, P1
+   Kalmijn M, 1998, ANNU REV SOCIOL, V24, P395, DOI 10.1146/annurev.soc.24.1.395
+   Koehly LM, 2004, SOCIOL METHODOL, V34, P241, DOI 10.1111/j.0081-1750.2004.00153.x
+   KRACKHARDT D, 1988, SOC PSYCHOL QUART, V51, P123, DOI 10.2307/2786835
+   Massey DS, 1998, SOC FORCES, V76, P1123, DOI 10.2307/3005706
+   MASSEY DS, 1988, SOC FORCES, V67, P281, DOI 10.2307/2579183
+   May K. O., 1952, ECONOMETRICA, V20, P680, DOI [10.2307/1907651, DOI 10.2307/1907651]
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   MITCHELL JC, 1978, CONNECTIONS, V2, P9
+   Moody J, 2001, AM J SOCIOL, V107, P679, DOI 10.1086/338954
+   MORRIS M, 1991, MATH BIOSCI, V107, P349, DOI 10.1016/0025-5564(91)90014-A
+   Newman M.E.J., 2002, ARXIVCONDMAT0210146V
+   Newman M.E.J., 2003, PHYS REV A, V67, P1050
+   NOLD A, 1980, MATH BIOSCI, V52, P227, DOI 10.1016/0025-5564(80)90069-3
+   Reardon SF, 2002, SOCIOL METHODOL, V32, P33, DOI 10.1111/1467-9531.00110
+   Reardon SF, 2002, SOCIOL METHODOL, V32, P85, DOI 10.1111/1467-9531.00112
+   Reynolds H.T., 1977, ANAL CROSS CLASSIFIC
+   Robins G, 2001, PSYCHOMETRIKA, V66, P161, DOI 10.1007/BF02294834
+   Robins G, 2001, SOC NETWORKS, V23, P1, DOI 10.1016/S0378-8733(01)00029-6
+   Salganik M.J., 2009, The Oxford handbook of analytical sociology, P315, DOI DOI 10.1093/OXFORDHB/9780199215362.013.14
+   Schwartz Joseph, 1980, Sociol. Methodol., V11, P1
+   Snijders TAB, 2006, SOCIOL METHODOL, V36, P99, DOI 10.1111/j.1467-9531.2006.00176.x
+   Suppes P, 1955, MANAGE SCI, V1, P259, DOI 10.1287/mnsc.1.3-4.259
+   van der Zanden JW., 1972, AM MINORITY RELATION
+   Wasserman S, 1996, PSYCHOMETRIKA, V61, P401, DOI 10.1007/BF02294547
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   White D.R., 1975, COMMUNICATIVE UNPUB
+NR 67
+TC 82
+Z9 88
+U1 3
+U2 64
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD OCT
+PY 2014
+VL 39
+BP 14
+EP 32
+DI 10.1016/j.socnet.2014.04.001
+PG 19
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA AN1JM
+UT WOS:000340338600003
+DA 2024-11-22
+ER
+
+PT J
+AU Garcia-Herranz, M
+   Moro, E
+   Cebrian, M
+   Christakis, NA
+   Fowler, JH
+AF Garcia-Herranz, Manuel
+   Moro, Esteban
+   Cebrian, Manuel
+   Christakis, Nicholas A.
+   Fowler, James H.
+TI Using Friends as Sensors to Detect Global-Scale Contagious Outbreaks
+SO PLOS ONE
+LA English
+DT Article
+AB Recent research has focused on the monitoring of global-scale online data for improved detection of epidemics, mood patterns, movements in the stock market political revolutions, box-office revenues, consumer behaviour and many other important phenomena. However, privacy considerations and the sheer scale of data available online are quickly making global monitoring infeasible, and existing methods do not take full advantage of local network structure to identify key nodes for monitoring. Here, we develop a model of the contagious spread of information in a global-scale, publicly-articulated social network and show that a simple method can yield not just early detection, but advance warning of contagious outbreaks. In this method, we randomly choose a small fraction of nodes in the network and then we randomly choose a friend of each node to include in a group for local monitoring. Using six months of data from most of the full Twittersphere, we show that this friend group is more central in the network and it helps us to detect viral outbreaks of the use of novel hashtags about 7 days earlier than we could with an equal-sized randomly chosen group. Moreover, the method actually works better than expected due to network structure alone because highly central actors are both more active and exhibit increased diversity in the information they transmit to others. These results suggest that local monitoring is not just more efficient, but also more effective, and it may be applied to monitor contagious processes in global-scale networks.
+C1 [Garcia-Herranz, Manuel] Univ Autonoma Madrid, Escuela Politecn Super, Dept Comp Sci, Madrid, Spain.
+   [Moro, Esteban] Univ Carlos III Madrid, Dept Math, Leganes, Spain.
+   [Moro, Esteban] Univ Carlos III Madrid, GISC, Leganes, Spain.
+   [Moro, Esteban] Univ Autonoma Madrid, Inst Ingn Conocimiento, Madrid, Spain.
+   [Cebrian, Manuel] Univ Calif San Diego, Dept Comp Sci & Engn, San Diego, CA 92103 USA.
+   [Cebrian, Manuel] MIT, Media Lab, Cambridge, MA 02139 USA.
+   [Cebrian, Manuel] Natl Informat & Commun Technol Australia, Melbourne, Vic, Australia.
+   [Christakis, Nicholas A.] Yale Univ, Dept Sociol, New Haven, CT USA.
+   [Christakis, Nicholas A.] Yale Univ, Dept Ecol & Evolutionary Biol, New Haven, CT USA.
+   [Christakis, Nicholas A.] Yale Univ, Sch Med, Dept Med, New Haven, CT 06510 USA.
+   [Fowler, James H.] Univ Calif San Diego, Sch Med, Div Med Genet, San Diego, CA 92103 USA.
+   [Fowler, James H.] Univ Calif San Diego, Dept Polit Sci, San Diego, CA 92103 USA.
+C3 Autonomous University of Madrid; Universidad Carlos III de Madrid;
+   Universidad Carlos III de Madrid; Autonomous University of Madrid;
+   University of California System; University of California San Diego;
+   Massachusetts Institute of Technology (MIT); Yale University; Yale
+   University; Yale University; University of California System; University
+   of California San Diego; University of California System; University of
+   California San Diego
+RP Garcia-Herranz, M (corresponding author), Univ Autonoma Madrid, Escuela Politecn Super, Dept Comp Sci, Madrid, Spain.
+EM manuel.garciaherranz@uam.es
+RI Moro, Esteban/AAB-1159-2019; Christakis, Nicholas/B-6690-2008;
+   Garcia-Herranz, Manuel/ABB-2617-2021; Fowler, James/C-2750-2008;
+   Garcia-Herranz, Manuel/L-3213-2013
+OI Fowler, James/0000-0001-7795-1638; Garcia-Herranz,
+   Manuel/0000-0002-4252-4975; Cebrian, Manuel/0000-0002-3681-7982; MORO,
+   ESTEBAN/0000-0003-2894-1024
+FU National Institute for General Medical Sciences [P-41 GM103504-03];
+   Pioneer Portfolio of the Robert Wood Johnson Foundation; NICTA;
+   Australian Government; Army Research Office [W911NF-11-1-0363];
+   Ministerio de Educacion y Ciencia (Spain) [FIS2006-01485,
+   FIS2010-22047-C05-04]; Spanish Government [TIN2010-17344]; R&D program
+   of the Community of Madrid [S2009/TIC-1650]
+FX This work was supported by a grant from the National Institute for
+   General Medical Sciences (P-41 GM103504-03) (JHF) and a grant from the
+   Pioneer Portfolio of the Robert Wood Johnson Foundation (NAC and JHF).
+   MC acknowledges support from NICTA and the Australian Government, as
+   represented by the Department of Broadband, Communications and the
+   Digital Economy and the Australian Research Council through the ICT
+   Centre of Excellence program; the DARPA/Lockheed Martin Guard Dog
+   Program; and the Army Research Office under Grant W911NF-11-1-0363. EM
+   acknowledges funding from Ministerio de Educacion y Ciencia (Spain)
+   through projects i-Math, FIS2006-01485 (MOSAICO), and
+   FIS2010-22047-C05-04. MGH acknowledges support from the Spanish
+   Government (TIN2010-17344) and the R&D program of the Community of
+   Madrid (S2009/TIC-1650). The funders had no role in study design, data
+   collection and analysis, decision to publish, or preparation of the
+   manuscript.
+CR Achrekar H., 2011, IEEE INFOCOM 2011 - IEEE Conference on Computer Communications. Workshops, P702, DOI 10.1109/INFCOMW.2011.5928903
+   [Anonymous], 2012, WINE, DOI DOI 10.1007/978-3-642-35311-6
+   Aral S, 2012, SCIENCE, V337, P337, DOI 10.1126/science.1215842
+   Asur S., 2010, Proceedings 2010 IEEE/ACM International Conference on Web Intelligence-Intelligent Agent Technology (WI-IAT), P492, DOI 10.1109/WI-IAT.2010.63
+   Backstrom L., 2007, P 16 INT C WORLD WID, P181
+   Bond RM, 2012, NATURE, V489, P295, DOI 10.1038/nature11421
+   Boyd D., 2011, 6 PROVOCATIONS BIG D, DOI DOI 10.2139/SSRN.1926431
+   Brautbar M, 2010, INNOVATIONS COMPUTER
+   BROOKS G, 1992, SIGPLAN NOTICES, V27, P1, DOI [10.13334/j.0258-8013.pcsee.213043, 10.1145/143103.143108]
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Christakis NA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0012948
+   Crane R, 2008, P NATL ACAD SCI USA, V105, P15649, DOI 10.1073/pnas.0803685105
+   Dodds PS, 2010, J HAPPINESS STUD, V11, P441, DOI 10.1007/s10902-009-9150-9
+   FELD SL, 1991, AM J SOCIOL, V96, P1464, DOI 10.1086/229693
+   Ginsberg J, 2009, NATURE, V457, P1012, DOI 10.1038/nature07634
+   Golder SA, 2011, SCIENCE, V333, P1878, DOI 10.1126/science.1202775
+   González-Bailón S, 2011, SCI REP-UK, V1, DOI 10.1038/srep00197
+   Gross R., 2005, P 2005 ACM WORKSH PR, P71, DOI [DOI 10.1145/1102199.1102214, https://doi.org/10.1145/1102199.1102214]
+   Huang J., 2010, Proceedings of the 21st ACM conference on Hypertext and hypermedia, P173, DOI [DOI 10.1145/1810617.1810647, 10.1145/1810617.1810647]
+   Kermack WO, 1927, P R SOC LOND A-CONTA, V115, P700, DOI 10.1098/rspa.1927.0118
+   Kitsak M, 2010, NAT PHYS, V6, P888, DOI [10.1038/NPHYS1746, 10.1038/nphys1746]
+   Lazer D, 2009, SCIENCE, V323, P721, DOI 10.1126/science.1167742
+   Leskovec J, 2009, KDD-09: 15TH ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P497
+   Liu YY, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0044459
+   Lotan G, 2011, INT J COMMUN-US, V5, P1375
+   May RM, 2008, NATURE, V451, P893, DOI 10.1038/451893a
+   Romero D.M., 2011, Proceedings of the 20th international conference on World wide web, P695, DOI DOI 10.1145/1963405.1963503
+   Ross R, 1915, BRIT MED J, V1915, P546, DOI 10.1136/bmj.1.2830.546
+   Salathé M, 2012, PLOS COMPUT BIOL, V8, DOI 10.1371/journal.pcbi.1002616
+   Shih HP, 2004, INFORM MANAGE-AMSTER, V41, P351, DOI 10.1016/S0378-7206(03)00079-X
+   Yang J., 2011, WSDM'11, P177, DOI DOI 10.1145/1935826.1935863
+NR 31
+TC 61
+Z9 75
+U1 0
+U2 22
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD APR 9
+PY 2014
+VL 9
+IS 4
+AR e92413
+DI 10.1371/journal.pone.0092413
+PG 7
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA AE9PC
+UT WOS:000334339000015
+PM 24718030
+OA Green Published, Green Submitted, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Chen, DB
+   Wang, GN
+   Zeng, A
+   Fu, Y
+   Zhang, YC
+AF Chen, Duan-Bing
+   Wang, Guan-Nan
+   Zeng, An
+   Fu, Yan
+   Zhang, Yi-Cheng
+TI Optimizing Online Social Networks for Information Propagation
+SO PLOS ONE
+LA English
+DT Article
+ID RECOMMENDATION; BEHAVIOR
+AB Online users nowadays are facing serious information overload problem. In recent years, recommender systems have been widely studied to help people find relevant information. Adaptive social recommendation is one of these systems in which the connections in the online social networks are optimized for the information propagation so that users can receive interesting news or stories from their leaders. Validation of such adaptive social recommendation methods in the literature assumes uniform distribution of users' activity frequency. In this paper, our empirical analysis shows that the distribution of online users' activity is actually heterogenous. Accordingly, we propose a more realistic multi-agent model in which users' activity frequency are drawn from a power-law distribution. We find that previous social recommendation methods lead to serious delay of information propagation since many users are connected to inactive leaders. To solve this problem, we design a new similarity measure which takes into account users' activity frequencies. With this similarity measure, the average delay is significantly shortened and the recommendation accuracy is largely improved.
+C1 [Chen, Duan-Bing; Wang, Guan-Nan; Fu, Yan; Zhang, Yi-Cheng] Univ Elect Sci & Technol China, Sch Comp Sci & Engn, Web Sci Ctr, Chengdu 610054, Peoples R China.
+   [Chen, Duan-Bing; Zeng, An; Zhang, Yi-Cheng] Univ Fribourg, Dept Phys, CH-1700 Fribourg, Switzerland.
+C3 University of Electronic Science & Technology of China; University of
+   Fribourg
+RP Zeng, A (corresponding author), Univ Fribourg, Dept Phys, CH-1700 Fribourg, Switzerland.
+EM an.zeng@unifr.ch
+RI Wang, Guannan/GVU-2277-2022; Zhang, yicheng/HNC-5513-2023
+OI Wang, Guannan/0000-0002-6844-6426
+FU National Natural Science Foundation of China [61103109, 61003231,
+   60973120]; Swiss National Science Foundation [200020-143272]; Huawei
+   University-Enterprise Cooperation [YBCB2011057]
+FX This work was partially supported by the National Natural Science
+   Foundation of China with Grant Nos. 61103109, 61003231 and 60973120, and
+   by the Swiss National Science Foundation (Grant No. 200020-143272). DBC
+   acknowledges the Huawei University-Enterprise Cooperation Project
+   YBCB2011057 and the Tsinghua-Tencent Joint Laboratory for Internet
+   Innovation Technology. The funders had no role in study design, data
+   collection and analysis, decision to publish, or preparation of the
+   manuscript.
+CR Adomavicius G, 2005, IEEE T KNOWL DATA EN, V17, P734, DOI 10.1109/TKDE.2005.99
+   [Anonymous], 2010, ICWSM
+   Biancalana C, 2013, ACM T INTEL SYST TEC, V4, DOI 10.1145/2414425.2414435
+   Breese J.S., 1998, Proceedings of the 14th Conference on Uncertainty in Artificial Intelligence, P45
+   Chaoji Vineet, 2012, WWW, P529, DOI DOI 10.1145/2187836.2187908
+   Chen DB, 2012, CHINESE PHYS LETT, V29, DOI 10.1088/0256-307X/29/4/048901
+   Chen DB, 2013, EUR PHYS J B, V86, DOI 10.1140/epjb/e2012-30899-9
+   Cimini G, 2011, EUR PHYS J B, V80, P201, DOI 10.1140/epjb/e2010-10716-5
+   Cimini G, 2013, ADV COMPLEX SYST, V16, DOI 10.1142/S0219525913500094
+   Cimini G, 2012, PHYS REV E, V85, DOI 10.1103/PhysRevE.85.046108
+   De A, 2013, ARXIV13104579
+   Golbeck J, 2008, SCIENCE, V321, P1640, DOI 10.1126/science.1163357
+   Gonçalves B, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0022656
+   Herlocker JL, 2004, ACM T INFORM SYST, V22, P5, DOI 10.1145/963770.963772
+   Hofmann T, 2004, ACM T INFORM SYST, V22, P89, DOI 10.1145/963770.963774
+   Kazienko P, 2011, IEEE T SYST MAN CY A, V41, P746, DOI 10.1109/TSMCA.2011.2132707
+   Lee DD, 1999, NATURE, V401, P788, DOI 10.1038/44565
+   Linden G, 2003, IEEE INTERNET COMPUT, V7, P76, DOI 10.1109/MIC.2003.1167344
+   Lü LY, 2012, PHYS REP, V519, P1, DOI 10.1016/j.physrep.2012.02.006
+   Macskassy S.A., 2011, ICWSM, P209, DOI [10.1609/icwsm.v5i1.14110, DOI 10.1609/ICWSM.V5I1.14110]
+   Maslov S, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.248701
+   Medo M, 2009, EPL-EUROPHYS LETT, V88, DOI 10.1209/0295-5075/88/38005
+   Muchnik L, 2013, SCI REP-UK, V3, DOI 10.1038/srep01783
+   Niemann K, 2013, 19TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING (KDD'13), P955
+   Quijano-Sanchez L, 2013, ACM T INTEL SYST TEC, V4, DOI 10.1145/2414425.2414433
+   Sinha Rashmi R., 2001, DELOS, V106
+   Wei D, 2011, PHYSICA A, V390, P2117, DOI 10.1016/j.physa.2011.02.005
+   Weng LL, 2013, 19TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING (KDD'13), P356
+   Yu JF, 2010, PHYSICA A, V389, P3267, DOI 10.1016/j.physa.2010.03.043
+   Zhang CJ, 2012, PHYSICA A, V391, P1822, DOI 10.1016/j.physa.2011.09.038
+   Zhao ZD, 2012, EPL-EUROPHYS LETT, V100, DOI 10.1209/0295-5075/100/48004
+   Zhou T, 2008, EPL-EUROPHYS LETT, V82, DOI 10.1209/0295-5075/82/28002
+   Zhou T, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0020648
+   Zhou T, 2010, P NATL ACAD SCI USA, V107, P4511, DOI 10.1073/pnas.1000488107
+   Zhou YB, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0070094
+   Zorrilla ME, 2012, BUSINESS INTELLIGENCE APPLICATIONS AND THE WEB: MODELS, SYSTEMS AND TECHNOLOGIES, P1, DOI 10.4018/978-1-61350-038-5
+NR 36
+TC 6
+Z9 7
+U1 0
+U2 29
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD MAY 9
+PY 2014
+VL 9
+IS 5
+AR e96614
+DI 10.1371/journal.pone.0096614
+PG 8
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA AI4LX
+UT WOS:000336838000045
+PM 24816894
+OA Green Published, gold
+DA 2024-11-22
+ER

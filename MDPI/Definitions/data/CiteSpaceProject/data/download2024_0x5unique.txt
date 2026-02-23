@@ -1,0 +1,609 @@
+
+PT J
+AU Marti-Ochoa, J
+   Martin-Fuentes, E
+   Ferrer-Rosell, B
+AF Marti-Ochoa, Julia
+   Martin-Fuentes, Eva
+   Ferrer-Rosell, Berta
+TI Airbnb on TikTok: Brand Perception Through User Engagement and Sentiment
+   Trends
+SO SOCIAL SCIENCE COMPUTER REVIEW
+LA English
+DT Article; Early Access
+DE social media; user-generated content; sentiment analysis; online social
+   networks; influencers
+ID SOCIAL MEDIA; CONSUMER ENGAGEMENT; SHARING ECONOMY; ONLINE; POST;
+   CONSUMPTION; STRATEGIES; KNOWLEDGE; IMPACT; TRAVEL
+AB This study delves into Airbnb's brand presence on TikTok by analyzing textual content in posts, and human audio in videos. This approach aims to decipher the brand narrative and gauge user engagement. In the dynamic realm of social media marketing, TikTok has emerged as a key platform in shaping brand perception. This research specifically concentrates on Airbnb's content, distinguishing between official narratives and user-generated content (UGC). Notably, themes of "Travel" dominate official posts, contrasting with "Real Estate" and "Business" in UGC. The methodology employed involves advanced data collection techniques, including web scraping for textual data and artificial intelligence for transcribing human audio to text. The findings reveal that UGC commands greater engagement and volume compared to Airbnb's own brand content, underscoring the increasing significance of user involvement in brand storytelling. An analysis of the study results is conducted using linguistic natural processing (LNP) for the sentiment base, and the vector space model for emotion analysis. Sentiment analysis reveals a predominance of the emotion "happiness" and a significant presence of "surprise" in the posts, both of which are critical for audience engagement. Moreover, the study indicates a high approval rate for Airbnb-related content, reflecting a positive reception of the brand. Additionally, the research observes that influencers, particularly nano influencers, have higher engagement rates, indicating that their authenticity and relatability appeal especially to Generation Z audiences. This study not only sheds light on the intricate relationship between brand narrative, user engagement, and sentiment on TikTok but also offers valuable insights into effective brand image construction and propagation in the digital era, highlighting the importance of diverse emotions in enhancing audience engagement.
+C1 [Marti-Ochoa, Julia; Martin-Fuentes, Eva; Ferrer-Rosell, Berta] Univ Lleida, Lleida, Spain.
+C3 Universitat de Lleida
+RP Marti-Ochoa, J (corresponding author), Univ Lleida, Dept Econ & Business, C Jaume II 73, Lleida 25001, Spain.
+EM julia.marti@udl.cat
+RI Martin-Fuentes, Eva/O-2881-2014; Ferrer-Rosell, Berta/J-8552-2015
+OI Martin-Fuentes, Eva/0000-0002-4902-6258; Ferrer-Rosell,
+   Berta/0000-0001-5554-0782
+FU Spanish Ministry of Science and Innovation
+   MCIN/AEI/10.13039/501100011033/ FEDER, UE within the RevTour project
+   "Use of online reviews for tourism intelligence and for the
+   establishment of transparent and reliable evaluation standards"
+   [PID2022-138564OA-I00]; Institute for social and Territorial Development
+   (INDEST) within the ResTur project for the call (2023CRINDESTABC)
+FX The author(s) disclosed receipt of the following financial support for
+   the research, authorship, and/or publication of this article: This work
+   was supported by the Spanish Ministry of Science and Innovation
+   MCIN/AEI/10.13039/501100011033/ FEDER, UE within the RevTour project
+   "Use of online reviews for tourism intelligence and for the
+   establishment of transparent and reliable evaluation standards" (Ref:
+   PID2022-138564OA-I00) and Institute for social and Territorial
+   Development (INDEST) within the ResTur project for the call
+   (2023CRINDESTABC).
+CR Alafwan B, 2023, EAI ENDORSED TRANS S, V10, DOI 10.4108/eetsis.3843
+   Altinay L, 2019, INT J CONTEMP HOSP M, V31, P180, DOI 10.1108/IJCHM-02-2018-0171
+   [Anonymous], 2023, Apify
+   [Anonymous], 2013, Contemporary Management Research, DOI 19.7993/cmr.11116
+   Ashley C, 2015, PSYCHOL MARKET, V32, P15, DOI 10.1002/mar.20761
+   Cabrero JDB, 2023, HUM SOC SCI COMMUN, V10, DOI 10.1057/s41599-023-01779-8
+   Barta S, 2023, J RETAIL CONSUM SERV, V70, DOI 10.1016/j.jretconser.2022.103149
+   Beichert M, 2024, J MARKETING, V88, P40, DOI 10.1177/00222429231217471
+   Bozkurt S, 2021, EUR J MARKETING, V55, P995, DOI 10.1108/EJM-07-2019-0613
+   Brooks R, 2022, BMJ GLOB HEALTH, V7, DOI 10.1136/bmjgh-2022-009112
+   Campbell C, 2020, BUS HORIZONS, V63, P469, DOI 10.1016/j.bushor.2020.03.003
+   Cenni I, 2023, SINTAGMA, V35, P119, DOI 10.21001/sintagma.2023.35.08
+   Chen YW, 2024, J MARKET MANAG-UK, V40, P675, DOI 10.1080/0267257X.2024.2305748
+   Cheng MM, 2024, TOURISM GEOGR, DOI 10.1080/14616688.2024.2304782
+   Cheng MM, 2016, INT J HOSP MANAG, V57, P60, DOI 10.1016/j.ijhm.2016.06.003
+   Cheng ZC, 2024, SOC SCI COMPUT REV, V42, P201, DOI 10.1177/08944393231178603
+   Cheung ML, 2020, ASIA PAC J MARKET LO, V32, P695, DOI 10.1108/APJML-04-2019-0262
+   Choudhary P, 2017, J HOSP TOUR TECHNOL, V8, P152, DOI 10.1108/JHTT-09-2016-0052
+   Christodoulides G, 2009, MARKETING THEOR, V9, P141, DOI 10.1177/1470593108100071
+   Conrad FG, 2021, SOC SCI COMPUT REV, V39, P489, DOI 10.1177/0894439319875692
+   De Silva P, 2018, PROCEEDINGS OF THE ELEVENTH INTERNATIONAL CONFERENCE ON LANGUAGE RESOURCES AND EVALUATION (LREC 2018), P2241
+   Deng DS, 2022, J HOSP TOUR TECHNOL, V13, P683, DOI 10.1108/JHTT-05-2021-0143
+   Djafarova E, 2017, COMPUT HUM BEHAV, V68, P1, DOI 10.1016/j.chb.2016.11.009
+   Du YY, 2022, FRONT PSYCHOL, V13, DOI 10.3389/fpsyg.2022.826819
+   Tien DH, 2019, ASIA PAC MANAG REV, V24, P238, DOI 10.1016/j.apmrv.2018.06.003
+   Easwar S, 2023, J PALLIAT MED, V26, P360, DOI 10.1089/jpm.2022.0250
+   Ferrer-Rosell B, 2020, INF TECHNOL TOUR, V22, P53, DOI 10.1007/s40558-019-00164-z
+   Foroudi P, 2023, CORP REPUT REV, V26, P264, DOI 10.1057/s41299-022-00153-9
+   Fournier S, 2011, BUS HORIZONS, V54, P193, DOI 10.1016/j.bushor.2011.01.001
+   Friedland J., 2018, PushediN: The next step in social media marketing?, DOI [10.4135/9781526449542, DOI 10.4135/9781526449542]
+   García-Prieto V, 2024, REV LAT COMUN SOC, V82, DOI 10.4185/RLCS-2024-2258
+   Germon R, 2017, NINTH INTERNATIONAL CONFERENCES ON PERVASIVE PATTERNS AND APPLICATIONS (PATTERNS 2017), P78
+   Gilmore D, 2024, AUTISM ADULTHOOD, V6, P95, DOI 10.1089/aut.2023.0019
+   Gkikas DC., 2022, International Journal of Information Management Data Insights, V2, P100067, DOI [10.1016/j.jjimei.2022.100067, DOI 10.1016/J.JJIMEI.2022.100067]
+   Pessanha GRG, 2021, REV BRASIL MARK, V20, P241, DOI 10.5585/remark.v20i4.17914
+   Google, 2023, About us
+   Grajales Fonnegra F., 2019, Efectos de AirBnB en los Mercados Financieros y el Sector Inmobiliario
+   Groshek J, 2013, SOC SCI COMPUT REV, V31, P563, DOI 10.1177/0894439313490401
+   Gutierrez A, 2023, J RETAIL CONSUM SERV, V72, DOI 10.1016/j.jretconser.2023.103272
+   Guttentag D, 2015, CURR ISSUES TOUR, V18, P1192, DOI 10.1080/13683500.2013.827159
+   Haberland C, 2023, SIGNALS COMMUN TECHN, P45, DOI 10.1007/978-3-031-11035-1_3
+   Hagge M, 2017, CONF BUS INFORM, V1, P379, DOI 10.1109/CBI.2017.68
+   Han H, 2021, ASIA PAC J MARKET LO, V33, P1159, DOI 10.1108/APJML-06-2019-0397
+   Han W, 2024, CURR ISSUES TOUR, V27, P3249, DOI 10.1080/13683500.2023.2260062
+   Hill SR, 2023, SERV IND J, V43, P289, DOI 10.1080/02642069.2022.2149740
+   Hollebeek LD, 2022, J PROD BRAND MANAG, V31, P293, DOI 10.1108/JPBM-01-2021-3301
+   Holt DB, 2002, J CONSUM RES, V29, P70, DOI 10.1086/339922
+   Hudson S, 2016, INT J RES MARK, V33, P27, DOI 10.1016/j.ijresmar.2015.06.004
+   Hussain K, 2021, J PROD BRAND MANAG, V30, P12, DOI 10.1108/JPBM-08-2019-2537
+   Jacobs AM, 2019, FRONT ROBOT AI, V6, DOI 10.3389/frobt.2019.00053
+   Jacobs AM, 2020, AI-BASEL, V1, P11, DOI 10.3390/ai1010002
+   Jain P, 2022, CARDIOMETRY, P896, DOI 10.18137/cardiometry.2022.24.896902
+   Jin SV, 2018, COMPUT HUM BEHAV, V79, P154, DOI 10.1016/j.chb.2017.10.033
+   Jin Y., 2024, An emotional analysis of Korean topics based on social media big data clustering. Scalable Computing-Practice and Experience, VSI),, P115, DOI [10.12694/scpe.v25i1.2279, DOI 10.12694/SCPE.V25I1.2279]
+   Johnstone L, 2022, J RETAIL CONSUM SERV, V64, DOI 10.1016/j.jretconser.2021.102775
+   Jost P, 2023, J INF TECHNOL POLITI, V20, P184, DOI 10.1080/19331681.2022.2076271
+   Kádeková Z, 2018, COMMUN TODAY, V9, P90
+   Kaplan AM, 2010, BUS HORIZONS, V53, P59, DOI 10.1016/j.bushor.2009.09.003
+   Kaye DBV, 2021, MOB MEDIA COMMUN, V9, P229, DOI 10.1177/2050157920952120
+   Keller KL, 2006, J BRAND MANAG, V14, P74, DOI 10.1057/palgrave.bm.2550055
+   Khalifa M, 2007, EUR J INFORM SYST, V16, P780, DOI 10.1057/palgrave.ejis.3000711
+   Kozinets RV, 2022, J SERV MANAGE, V33, P437, DOI 10.1108/JOSM-07-2021-0263
+   Lee S, 2018, J TRAVEL TOUR MARK, V35, P32, DOI 10.1080/10548408.2017.1284030
+   Lei AQ, 2023, COGNITION EMOTION, V37, P997, DOI 10.1080/02699931.2023.2216445
+   Lin IY, 2016, J SERV MARK, V30, P692, DOI 10.1108/JSM-08-2015-0258
+   Liu T, 2016, MULTIMEDIA SYST, V22, P423, DOI 10.1007/s00530-014-0435-4
+   Lou C., 2019, J INTERACTIVE ADVERT, V19, P58, DOI [10.1080/15252019.2018.1533501, DOI 10.1080/15252019.2018.1533501]
+   Luo GL, 2024, J RES INTERACT MARK, DOI 10.1108/JRIM-05-2023-0146
+   Maeran R, 2021, TPM-TEST PSYCHOM MET, V28, P505, DOI 10.4473/TPM28.4.7
+   Mao ZX, 2017, INT J CONTEMP HOSP M, V29, P2464, DOI [10.1108/IJCHM-08-2016-0439, 10.1108/ijchm-08-2016-0439]
+   Marine-Roig E, 2023, SPR PROC BUS ECON, P166, DOI 10.1007/978-3-031-25752-0_19
+   Marti-Ochoa J., 2024, Profesional de la informacin, V33
+   Martin-Fuentes E, 2018, TOUR ANAL, V23, P1, DOI 10.3727/108354218X15143857349459
+   Martínez P, 2016, COMPUT IND, V78, P43, DOI 10.1016/j.compind.2015.10.006
+   MeaningCloud, 2023, MeaningCloud: What is sentiment analysis?
+   MeaningCloud, 2024, MeaningCloud: Text Classification
+   Mellinas JP, 2024, J HOSP TOUR INSIGHTS, V7, P2014, DOI 10.1108/JHTI-03-2023-0150
+   Melo E, 2021, COMM COM INF SC, V1456, P103, DOI 10.1007/978-3-030-89941-7_8
+   Mody M, 2020, J TRAVEL RES, V59, P173, DOI 10.1177/0047287519826233
+   Mody M, 2019, TOURISM MANAGE, V74, P65, DOI 10.1016/j.tourman.2019.02.013
+   Moravapalle U. P., 2018, Trackr: Reliable UI element tracking for application refactoring based mobilization of enterprise web applications, P5312, DOI [10.1145/3286978.3287013, DOI 10.1145/3286978.3287013]
+   Mozafari M, 2019, 2019 SIXTH INTERNATIONAL CONFERENCE ON SOCIAL NETWORKS ANALYSIS, MANAGEMENT AND SECURITY (SNAMS), P158, DOI [10.1109/snams.2019.8931726, 10.1109/SNAMS.2019.8931726]
+   Nair I, 2023, JMIR INFODEMIOL, V3, DOI 10.2196/42810
+   Ortiz JAF, 2023, J BRAND MANAG, V30, P535, DOI 10.1057/s41262-023-00330-z
+   Park J, 2023, J RETAIL CONSUM SERV, V73, DOI 10.1016/j.jretconser.2023.103380
+   Philp M, 2022, J BUS RES, V149, P736, DOI 10.1016/j.jbusres.2022.05.078
+   Phua J, 2018, COMPUT HUM BEHAV, V84, P93, DOI 10.1016/j.chb.2018.02.031
+   Ramos BL, 2018, 2018 26TH INTERNATIONAL CONFERENCE ON SOFTWARE, TELECOMMUNICATIONS AND COMPUTER NETWORKS (SOFTCOM), P314
+   Read W, 2019, EUR J MARKETING, V53, P1905, DOI 10.1108/EJM-10-2017-0772
+   Russell AM, 2021, J STUD ALCOHOL DRUGS, V82, P615
+   Rybarczyk G, 2018, J LOCAT BASED SERV, V12, P40, DOI 10.1080/17489725.2018.1468039
+   Sanchis-Font R, 2021, NEURAL PROCESS LETT, V53, P3199, DOI 10.1007/s11063-020-10260-5
+   Sanders E, 2016, LECT NOTES COMPUT SC, V10047, P259, DOI 10.1007/978-3-319-47874-6_18
+   Schau HJ, 2003, J CONSUM RES, V30, P385
+   Schivinski B, 2020, J BRAND MANAG, V27, P645, DOI 10.1057/s41262-020-00207-5
+   Shakhovska N, 2019, CEUR WORKSHOP PROCEE, V2386, P212
+   Moise MS, 2019, J BRAND MANAG, V26, P646, DOI 10.1057/s41262-019-00160-y
+   Singh R, 2021, EAI ENDORSED TRANS S, V8, DOI 10.4108/eai.26-10-2020.166767
+   Siram J, 2022, LECT NOTE NETW SYST, V392, P191, DOI 10.1007/978-981-19-0619-0_17
+   Sparks BA, 2011, TOURISM MANAGE, V32, P1310, DOI 10.1016/j.tourman.2010.12.011
+   Stahl CC, 2023, J YOUTH STUD, V26, P925, DOI 10.1080/13676261.2022.2053671
+   Statistics, 2024, TikTok Revenue and Usage Statistics
+   Stoddard RE, 2024, CONTRACEPTION, V129, DOI 10.1016/j.contraception.2023.110300
+   Szeto MD, 2021, J AM ACAD DERMATOL, V85, pE185, DOI 10.1016/j.jaad.2021.04.052
+   Tafesse W, 2021, J RETAIL CONSUM SERV, V58, DOI 10.1016/j.jretconser.2020.102303
+   Teh PL, 2020, 22ND INTERNATIONAL CONFERENCE ON INFORMATION INTEGRATION AND WEB-BASED APPLICATIONS & SERVICES (IIWAS2020), P274, DOI 10.1145/3428757.3429112
+   Teruel-Gutierrez R, 2021, ANN REGIONAL SCI, V67, P737, DOI 10.1007/s00168-021-01064-z
+   Tran TP, 2023, J HOSP TOUR TECHNOL, V14, P540, DOI 10.1108/JHTT-09-2021-0270
+   Tugral A, 2021, LYMPHOLOGY, V54, P68
+   Vaiciukynaite E, 2019, PROC EURO CONF SOC, P280
+   von Hoffen M, 2018, INF SYST E-BUS MANAG, V16, P247, DOI 10.1007/s10257-017-0358-7
+   Wahyutama AB, 2023, APPL SCI-BASEL, V13, DOI 10.3390/app13010373
+   Wang PP, 2023, INTERNET RES, V33, P178, DOI 10.1108/INTR-08-2020-0467
+   Wang X., 2021, The promotional effects of TikTok (Douyin) video attributes on Airbnb consumers in China
+   Wardhani L. K., 2018, TELKOMNIKA (Telecommunication Computing Electronics and Control), V16, P2733, DOI [DOI 10.12928/TELKOMNIKA.V16I6.9638, 10.12928/TELKOMNIKA.v16i6.9638]
+   Wu LW, 2023, J PROD BRAND MANAG, V32, P799, DOI 10.1108/JPBM-12-2021-3787
+   Xiang Z, 2010, TOURISM MANAGE, V31, P179, DOI 10.1016/j.tourman.2009.02.016
+   Xie-Carson L, 2024, J HOSP TOUR RES, V48, P1006, DOI 10.1177/10963480231180940
+   Xin BG, 2023, J RETAIL CONSUM SERV, V73, DOI 10.1016/j.jretconser.2023.103360
+   Ye Q, 2009, INT J HOSP MANAG, V28, P180, DOI 10.1016/j.ijhm.2008.06.011
+   Yeung AWK, 2023, DIGIT HEALTH, V9, DOI 10.1177/20552076231179053
+   Zankadi H, 2023, EDUC INF TECHNOL, V28, P5567, DOI 10.1007/s10639-022-11373-1
+   Zarezadeh ZZ, 2023, TOUR MANAG PERSPECT, V48, DOI 10.1016/j.tmp.2023.101140
+   Zarezadeh Z, 2023, INF TECHNOL TOUR, V25, P235, DOI 10.1007/s40558-023-00250-3
+   Zhang HK, 2023, IEEE T MULTIMEDIA, V25, P2430, DOI 10.1109/TMM.2022.3147064
+   Zhang QP, 2011, LECT NOTES ARTIF INT, V6781, P273, DOI 10.1007/978-3-642-21741-8_30
+   Zheng CH, 2023, INT J CONTEMP HOSP M, V35, P2136, DOI 10.1108/IJCHM-04-2022-0444
+   Zhou Q, 2023, TOUR MANAG PERSPECT, V46, DOI 10.1016/j.tmp.2023.101101
+   Zyminkowska K, 2023, INT J CONSUM STUD, V47, P299, DOI 10.1111/ijcs.12837
+NR 129
+TC 0
+Z9 0
+U1 26
+U2 26
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0894-4393
+EI 1552-8286
+J9 SOC SCI COMPUT REV
+JI Soc. Sci. Comput. Rev.
+PD 2024 AUG 8
+PY 2024
+DI 10.1177/08944393241260242
+EA AUG 2024
+PG 24
+WC Computer Science, Interdisciplinary Applications; Information Science &
+   Library Science; Social Sciences, Interdisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science; Information Science & Library Science; Social Sciences
+   - Other Topics
+GA C1U7M
+UT WOS:001287286400001
+DA 2024-11-22
+ER
+
+PT J
+AU Jones, P
+AF Jones, Pete
+TI What relational event models can reveal: Commentary on Thomas Grund's
+   "<i>Dynamics of Denunciation: The Limits of a Scandal</i>"
+SO EPJ DATA SCIENCE
+LA English
+DT Letter
+DE Social networks; Relational events; Event history models; Relational
+   dynamics; Political scandal
+AB This article provides a commentary on Thomas Grund's International Conference on Computational Social Science 2021 keynote "Dynamics of Denunciation: The Limits of a Scandal". The keynote presents results from research investigating the relational dynamics underpinning the denunciations provided in testimonies relating to a Canadian political scandal. Grund uses relational event models to test hypotheses about the social mechanisms driving the denunciations. Although denunciation should depend only on who is guilty and not on who has said what up to that point, Grund's study finds evidence in support of a number of relational mechanisms influencing the denunciation process. Grund argues that the apparent influence of past denunciations on testimonies reveals the limits of the inquiry process itself and what it can reveal about a scandal. This article reviews Grund's talk and puts the work in a broader context of using approaches rooted in event history modelling and social network theory to illuminate the processes defining social interaction data. It highlights ways in which the keynote can inform the development of computational social science approaches to analysing such data, and argues that the value of such an analysis has implications for scholarship beyond the social sciences.
+C1 [Jones, Pete] Univ Alberta, Media & Technol Studies, Edmonton, AB T6G 2R3, Canada.
+C3 University of Alberta
+RP Jones, P (corresponding author), Univ Alberta, Media & Technol Studies, Edmonton, AB T6G 2R3, Canada.
+EM pete.jones@ualberta.ca
+OI Jones, Pete/0000-0003-4040-394X
+CR Ahnert Ruth., 2020, The Network Turn: Changing Perspectives in the Humanities, DOI DOI 10.1017/9781108866804
+   Amati V, 2019, SOC NETWORKS, V57, P18, DOI 10.1016/j.socnet.2018.10.001
+   Borgatti SP, 2011, ORGAN SCI, V22, P1168, DOI 10.1287/orsc.1100.0641
+   Butts CT, 2017, COMPUT SOC SCI, P51, DOI 10.1007/978-3-319-48941-4_4
+   Butts CT, 2008, SOCIOL METHODOL, V38, P155, DOI 10.1111/j.1467-9531.2008.00203.x
+   Da NZ, 2020, CRIT INQUIRY, V46, P913, DOI 10.1086/709230
+   Da NZ, 2019, CRIT INQUIRY, V45, P601, DOI 10.1086/702594
+   Davis J. A., 1972, SOCIOLOGICAL THEORIE, V2, P218
+   de Nooy W, 2015, BIG DATA SOC, V2, DOI 10.1177/2053951715603732
+   de Nooy W, 2011, SOC NETWORKS, V33, P31, DOI 10.1016/j.socnet.2010.09.003
+   Vu D, 2015, SOC NETWORKS, V43, P121, DOI 10.1016/j.socnet.2015.05.001
+   Grund T, 2017, SOC NETWORKS, V51, P14, DOI 10.1016/j.socnet.2017.03.008
+   Grund TU, 2016, AM BEHAV SCI, V60, P1260, DOI 10.1177/0002764216643133
+   Grund TU, 2015, J CONTEMP CRIM JUST, V31, P354, DOI 10.1177/1043986214553377
+   Grund TU, 2012, SOC NETWORKS, V34, P682, DOI 10.1016/j.socnet.2012.08.004
+   Grund TU, 2012, EUR J CRIMINOL, V9, P388, DOI 10.1177/1477370812447738
+   Holland PW., 1976, Sociol. Methodol, V7, P1, DOI [DOI 10.2307/270703, 10.2307/270703]
+   Lazer D, 2009, SCIENCE, V323, P721, DOI 10.1126/science.1167742
+   Lerner J, 2021, SOC NETWORKS, V66, P224, DOI 10.1016/j.socnet.2021.04.001
+   Moretti F, 2011, NEW LEFT REV, P80
+   Quintane E, 2014, ORGAN RES METHODS, V17, P23, DOI 10.1177/1094428113517007
+   Robins G., 2015, Doing social network research: Network-based research design for social scientists, DOI DOI 10.4135/9781473916753
+   Rollinger C., 2017, J Hist Netw Res, V1, pi
+   Schaefer D.R., 2020, The Oxford handbook of social networks, P254
+   Stadtfeld C, 2017, SOCIOL SCI, V4, P318, DOI 10.15195/v4.a14
+   Tranmer M, 2015, ANIM BEHAV, V101, P99, DOI 10.1016/j.anbehav.2014.12.005
+   Underwood T, 2020, CRIT INQUIRY, V46, P900, DOI 10.1086/709229
+   Weingart SB, 2016, The ScottBot Irregular
+   Weingart SB, 2011, J Digit Humanit, V1
+   Welles BF, 2014, COMMUN METHODS MEAS, V8, P223, DOI 10.1080/19312458.2014.967843
+NR 30
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+EI 2193-1127
+J9 EPJ DATA SCI
+JI EPJ Data Sci.
+PD JAN 11
+PY 2024
+VL 13
+IS 1
+AR 5
+DI 10.1140/epjds/s13688-023-00432-3
+PG 10
+WC Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Mathematical Methods In Social Sciences
+GA EU8J5
+UT WOS:001141535600001
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Tsakas, N
+AF Tsakas, Nikolas
+TI Optimal influence under observational learning
+SO MATHEMATICAL SOCIAL SCIENCES
+LA English
+DT Article
+DE Social networks; Targeting; Diffusion; Observational learning; Decay
+   centrality
+ID DIFFUSION
+AB We study the optimal targeting problem of a firm that is seeking to maximize the diffusion of a product in a society where agents learn from their neighbors. The firm can seed the product to a subset of the population and our goal is to find which the optimal subset to target is. We provide a condition that characterizes the optimal targeting strategy for any network structure. The key parameter in this condition is the agents' decay centrality, which takes into account how close an agent is to others, in a way that distant agents are weighted less than closer ones.
+C1 [Tsakas, Nikolas] Univ Cyprus, Dept Econ, POB 20537, CY-1678 Nicosia, Cyprus.
+C3 University of Cyprus
+RP Tsakas, N (corresponding author), Univ Cyprus, Dept Econ, POB 20537, CY-1678 Nicosia, Cyprus.
+EM tsakas.nikolaos@ucy.ac.cy
+RI Tsakas, Nikolas/S-1066-2017
+CR Banerjee A, 2013, SCIENCE, V341, P363, DOI 10.1126/science.1236498
+   BASS FM, 1969, MANAGE SCI, V15, P215, DOI 10.1287/mnsc.15.5.215
+   Bell DR, 2007, QME-QUANT MARK ECON, V5, P361, DOI 10.1007/s11129-007-9025-5
+   Bimpikis K, 2016, OPER RES, V64, P705, DOI 10.1287/opre.2015.1430
+   Campbell A, 2013, AM ECON REV, V103, P2466, DOI 10.1257/aer.103.6.2466
+   Chasparis GC, 2010, IEEE DECIS CONTR P, P6651, DOI 10.1109/CDC.2010.5717491
+   Chatterjee K, 2016, INT ECON REV, V57, P759, DOI 10.1111/iere.12175
+   Domingos P., 2001, KDD-2001. Proceedings of the Seventh ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, P57, DOI 10.1145/502512.502525
+   Esteban L, 2006, J ECON MANAGE STRAT, V15, P943, DOI 10.1111/j.1530-9134.2006.00123.x
+   Everett MG, 1999, J MATH SOCIOL, V23, P181, DOI 10.1080/0022250X.1999.9990219
+   Fazeli A, 2017, IEEE T CONTROL NETW, V4, P665, DOI 10.1109/TCNS.2016.2553364
+   Galeotti A, 2009, RAND J ECON, V40, P509, DOI 10.1111/j.1756-2171.2009.00075.x
+   Goyal S, 2007, CONNECTIONS: AN INTRODUCTION TO THE ECONOMICS OF NETWORKS, P1
+   Goyal S, 2012, STOC'12: PROCEEDINGS OF THE 2012 ACM SYMPOSIUM ON THEORY OF COMPUTING, P759
+   Grabisch M, 2018, MATH OPER RES, V43, P29, DOI 10.1287/moor.2017.0853
+   Jackson MO, 2008, SOCIAL AND ECONOMIC NETWORKS, P1
+   Kempe D, 2005, LECT NOTES COMPUT SC, V3580, P1127
+   Kirby J., 2006, CONNECTED MARKETING
+   Morris S, 2000, REV ECON STUD, V67, P57, DOI 10.1111/1467-937X.00121
+   Ortufo I., 1993, Multiple Equilibria, Local Externalities and Complexity
+   Tardos, 2003, P 9 ACM SIGKDD INT C, P137, DOI 10.1145/956750.956769
+   Tsakas N, 2019, BE J THEOR ECON, V19, DOI 10.1515/bejte-2017-0010
+   Tsakas N, 2017, J ECON BEHAV ORGAN, V139, P118, DOI 10.1016/j.jebo.2017.04.015
+   Vega-Redondo, 2007, COMPLEX SOCIAL NETWO
+   Young HP, 2009, AM ECON REV, V99, P1899, DOI 10.1257/aer.99.5.1899
+NR 25
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0165-4896
+EI 1879-3118
+J9 MATH SOC SCI
+JI Math. Soc. Sci.
+PD MAR
+PY 2024
+VL 128
+BP 41
+EP 51
+DI 10.1016/j.mathsocsci.2024.01.011
+EA FEB 2024
+PG 11
+WC Economics; Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Mathematics; Mathematical Methods In Social
+   Sciences
+GA JO3K1
+UT WOS:001174066500001
+DA 2024-11-22
+ER
+
+PT J
+AU Chaudhuri, N
+   Gupta, G
+   Bagherzadeh, M
+   Daim, T
+   Yalcin, H
+AF Chaudhuri, Neha
+   Gupta, Gaurav
+   Bagherzadeh, Mehdi
+   Daim, Tugrul
+   Yalcin, Haydar
+TI Misinformation on social platforms: A review and research Agenda
+SO TECHNOLOGY IN SOCIETY
+LA English
+DT Review
+DE Misinformation; Online social networks; Fake news; Social media; Review
+ID FAKE NEWS; MEDIA; TWITTER; DISINFORMATION; TYPOLOGY; BELIEF; FACT; WANT;
+   USER; ERA
+AB Social platforms contribute to various hedonic and informational needs of their users. However, the unregulated, ubiquitous, and unhindered nature of the platforms is intricately linked to the exponential rise of online misinformation. The complexities in governing misinformation, coupled with the growing distrust of users, have diminished its value proposition for all stakeholders. Hence, it is crucial for all stakeholders to examine the state of research in this domain. We aim to examine the core value-adding governance mechanisms through a systematic scoping literature review. We propose an overarching conceptual framework that integrates the drivers of governance mechanisms with the outcomes of effective misinformation governance. Additionally, the framework illustrates the moderation role of platform monitoring efficiency for effective governance. This study will be especially useful for platform designers and practitioners to identify avenues for introducing strategic interventions on their platform and for scholars to develop a holistic understanding of the overall knowledge base in this domain and thus identify existing gaps in the literature which are rich for future examination.
+C1 [Chaudhuri, Neha] Toulouse Business Sch TBS, 20 Bd Lascrosses, F-31000 Toulouse, France.
+   [Gupta, Gaurav] NEOMA Business Sch, 1 Rue Marchal Juin, F-76130 Mont St Aignan, France.
+   [Bagherzadeh, Mehdi] NEOMA Business Sch, 59 Rue Pierre Taittinger, F-51100 Reims, France.
+   [Daim, Tugrul] Portland State Univ, Portland, OR 97201 USA.
+   [Yalcin, Haydar] Ege Univ, Izmir, Turkiye.
+   [Daim, Tugrul] Chaoyang Univ Technol, Taichung, Taiwan.
+C3 NEOMA Business School; Portland State University; Ege University;
+   Chaoyang University of Technology
+RP Daim, T (corresponding author), Portland State Univ, Portland, OR 97201 USA.
+EM tugrul.u.daim@pdx.edu
+RI Daim, Tugrul/JFJ-5740-2023; Yalcin, Haydar/HHN-1057-2022
+OI Daim, Tugrul/0000-0003-1432-8958
+CR Allcott H, 2019, RES POLITICS, V6, DOI 10.1177/2053168019848554
+   Allcott H, 2017, J ECON PERSPECT, V31, P211, DOI 10.1257/jep.31.2.211
+   [Anonymous], 2019, Fake News: A Global Epidemic Vast Majority (86%) of Online Global Citizens Have Been Exposed to it
+   [Anonymous], 2004, MIS Quarterly Executive
+   Bachrach Y, 2012, PROCEEDINGS OF THE 3RD ANNUAL ACM WEB SCIENCE CONFERENCE, 2012, P24
+   Baptista J, 2017, LONG RANGE PLANN, V50, P322, DOI 10.1016/j.lrp.2016.07.005
+   Barfar A, 2019, COMPUT HUM BEHAV, V101, P173, DOI 10.1016/j.chb.2019.07.026
+   Beck R, 2018, J ASSOC INF SYST, V19, P1020, DOI 10.17705/1jais.00518
+   Braun JA, 2019, DIGIT JOURNAL, V7, P1, DOI 10.1080/21670811.2018.1556314
+   Bronstein MV, 2019, J APPL RES MEM COGN, V8, P108, DOI 10.1016/j.jarmac.2018.09.005
+   Cambria E, 2012, 25 INT FLAIRS C
+   Candogan O, 2020, OPER RES, V68, P497, DOI 10.1287/opre.2019.1897
+   Celli F, 2016, INFORM PROCESS MANAG, V52, P93, DOI 10.1016/j.ipm.2015.08.002
+   Cerf VG, 2017, COMMUN ACM, V60, P9, DOI 10.1145/3018809
+   Chen AH, 2013, J BUS RES, V66, P2529, DOI 10.1016/j.jbusres.2013.05.045
+   Chen ZFF, 2020, J PROD BRAND MANAG, V29, P188, DOI 10.1108/JPBM-12-2018-2145
+   Chu Z, 2010, 26TH ANNUAL COMPUTER SECURITY APPLICATIONS CONFERENCE (ACSAC 2010), P21
+   Clarke J, 2021, INFORM SYST RES, V32, P35, DOI 10.1287/isre.2019.0910
+   Clayton K, 2020, POLIT BEHAV, V42, P1073, DOI 10.1007/s11109-019-09533-0
+   Colleoni E, 2014, J COMMUN, V64, P317, DOI 10.1111/jcom.12084
+   Crawford K., 2018, Study Suggests Facebook's War on Fake News Is Gaining Ground
+   Cresci S, 2015, DECIS SUPPORT SYST, V80, P56, DOI 10.1016/j.dss.2015.09.003
+   da Silva F.C.D., 2019, P 52 HAW INT C SYST, P1, DOI DOI 10.24251/HICSS.2019.332
+   Del Vicario M, 2019, ACM T WEB, V13, DOI 10.1145/3316809
+   Duffy A, 2020, INFORM COMMUN SOC, V23, P1965, DOI 10.1080/1369118X.2019.1623904
+   Egelhofer JL., 2019, ANN INT COMMUNICATIO, V43, P97, DOI [10.1080/23808985.2019.1602782, DOI 10.1080/23808985.2019.1602782]
+   Figl K., 2020, 40 INT C INF SYST IC
+   GAZIANO C, 1986, JOURNALISM QUART, V63, P451, DOI 10.1177/107769908606300301
+   Gowen A., 2018, The Washington Post
+   Grinberg N, 2019, SCIENCE, V363, P374, DOI 10.1126/science.aau2706
+   Gu R., 2020, 40 INT C INF SYST IC
+   Güera D, 2018, 2018 15TH IEEE INTERNATIONAL CONFERENCE ON ADVANCED VIDEO AND SIGNAL BASED SURVEILLANCE (AVSS), P127
+   Guerini Marco., 2011, ICWSM
+   Haigh M, 2018, JOURNALISM STUD, V19, P2062, DOI 10.1080/1461670X.2017.1316681
+   Halbach P, 2019, IEEE INT PROF COMMUN, P56, DOI 10.1109/ProComm.2019.00015
+   Haug M., 2019, 25 AM C INF SYST AMC
+   Haug M., 2018, INT C INF SYST 2018
+   HERNON P, 1995, GOV INFORM Q, V12, P133, DOI 10.1016/0740-624X(95)90052-7
+   Horne BD., 2017, ICWSM 2017
+   Jiang S., 2019, Proc. of the international AAAI conf. on web and social media, V13, P278
+   Kalsnes B., 2018, Oxford Research Encyclopedia of Communication, DOI [DOI 10.1093/ACREFORE/9780190228613.013.80, 10.1093/acrefore/9780190228613.013.809, DOI 10.1093/ACREFORE/9780190228613.013.809]
+   Kim A., 2018, P 51 HAWAII INT C SY, DOI [DOI 10.24251/HICSS.2018.497, 10.24251/HICSS.2018.497]
+   Kim A, 2019, MIS QUART, V43, P1025, DOI 10.25300/MISQ/2019/15188
+   Kim A, 2019, J MANAGE INFORM SYST, V36, P931, DOI 10.1080/07421222.2019.1628921
+   Kipling R., 2010, Interview with Mark Twain
+   Kirley Elizabeth A., 2016, European Journal of Law and Technology, V7, P1
+   Kshetri N, 2017, IT PROF, V19, P8, DOI 10.1109/MITP.2017.4241459
+   Laato S, 2020, EUR J INFORM SYST, V29, P288, DOI 10.1080/0960085X.2020.1770632
+   Lagnier Cedric, 2013, Advances in Information Retrieval. 35th European Conference on IR Research, ECIR 2013. Proceedings, P74, DOI 10.1007/978-3-642-36973-5_7
+   Lazer DMJ, 2018, SCIENCE, V359, P1094, DOI 10.1126/science.aao2998
+   Lee LW, 2020, J PROD BRAND MANAG, V29, P199, DOI 10.1108/JPBM-12-2018-2147
+   Liu XM, 2017, IEEE INT CONF BIG DA, P1483, DOI 10.1109/BigData.2017.8258082
+   Lutz B, 2020, L N INF SYST ORGAN, V32, P121, DOI 10.1007/978-3-030-28144-1_13
+   MacKenzie DA., 2006, INSIDE TECHNOLOGY
+   Marwick A., 2017, MEDIA MANIPULATION D
+   McKnight D. H., 2001, Proceedings of the 34th Annual Hawaii International Conference on System Sciences, DOI 10.1109/HICSS.2001.927053
+   McLaughlin T., 2018, Wired
+   McMillan R., 2019, Wall Street Journal
+   Mills AJ, 2019, J ADVERTISING RES, V59, P3, DOI 10.2501/JAR-2019-007
+   Molina MD, 2021, AM BEHAV SCI, V65, P180, DOI 10.1177/0002764219878224
+   Monroe C.Y., 2019, 25 AM C INF SYST AMC
+   Moravec P.L., 2018, INT C INF SYST 2018
+   Moravec PL, 2019, MIS QUART, V43, P1343, DOI 10.25300/MISQ/2019/15505
+   Nechushtai E, 2019, COMPUT HUM BEHAV, V90, P298, DOI 10.1016/j.chb.2018.07.043
+   Olivieri AC, 2019, PROCEEDINGS OF THE 52ND ANNUAL HAWAII INTERNATIONAL CONFERENCE ON SYSTEM SCIENCES, P5196
+   Onuchowska A., 2020, 40 INT C INF SYST IC
+   Oremus W., 2019, Facebook May Face Another Fake News Crisis in 2020
+   Papanastasiou Y, 2020, MANAGE SCI, V66, P1826, DOI 10.1287/mnsc.2019.3295
+   Paré G, 2015, INFORM MANAGE-AMSTER, V52, P183, DOI 10.1016/j.im.2014.08.008
+   Paschen J, 2020, J PROD BRAND MANAG, V29, P223, DOI 10.1108/JPBM-12-2018-2179
+   Pennycook G, 2020, J PERS, V88, P185, DOI 10.1111/jopy.12476
+   Pennycook G, 2018, J EXP PSYCHOL GEN, V147, P1865, DOI 10.1037/xge0000465
+   Pennycook G, 2019, COGNITION, V188, P39, DOI 10.1016/j.cognition.2018.06.011
+   Perera A., 2018, BBC
+   Peterson M, 2020, J PROD BRAND MANAG, V29, P234, DOI 10.1108/JPBM-12-2018-2163
+   Powell TC, 1997, STRATEGIC MANAGE J, V18, P375, DOI 10.1002/(SICI)1097-0266(199705)18:5<375::AID-SMJ876>3.0.CO;2-7
+   Rainie L., 2017, The future of free speech, trolls, anonymity, and fake news online, DOI [10.1002/ejsp.2570, DOI 10.1002/EJSP.2570]
+   Rashkin H., 2017, P 2017 C EMP METH NA, P2931, DOI 10.18653/v1/D17-1317
+   Ray A, 2019, PROCEEDINGS OF THE 52ND ANNUAL HAWAII INTERNATIONAL CONFERENCE ON SYSTEM SCIENCES, P2742
+   Reis JCS, 2019, IEEE INTELL SYST, V34, P76, DOI 10.1109/MIS.2019.2899143
+   Roselle L, 2014, MEDIA WAR CONFL, V7, P70, DOI 10.1177/1750635213516696
+   Ross B., 2018, INT C INF SYST 2018
+   Rowe F, 2014, EUR J INFORM SYST, V23, P241, DOI 10.1057/ejis.2014.7
+   Rubin VictoriaL., 2015, P HAW INT C SYST SCI, DOI [10.13140/2. 1.4822.8166, DOI 10.13140/2.1.4822.8166]
+   Seref M., 2019, 25 AM C INF SYST AMC
+   Shao CC, 2016, PROCEEDINGS OF THE 25TH INTERNATIONAL CONFERENCE ON WORLD WIDE WEB (WWW'16 COMPANION), P745, DOI 10.1145/2872518.2890098
+   Shu K., 2019, EMERGING RES CHALLEN, P43, DOI DOI 10.1007/978-3-319-94105-9_3
+   Susarla A, 2016, J MANAGE INFORM SYST, V33, P139, DOI 10.1080/07421222.2016.1172454
+   Talwar S, 2019, J RETAIL CONSUM SERV, V51, P72, DOI 10.1016/j.jretconser.2019.05.026
+   Tandoc EC, 2018, DIGIT JOURNAL, V6, P137, DOI 10.1080/21670811.2017.1360143
+   THOMAS JE, 1986, CALIF LAW REV, V74, P1001, DOI 10.2307/3480402
+   Torres RR, 2018, DATA BASE ADV INF SY, V49, P78, DOI 10.1145/3242734.3242740
+   Van Der Walt E, 2018, IEEE ACCESS, V6, P6540, DOI 10.1109/ACCESS.2018.2796018
+   Vial G, 2019, J STRATEGIC INF SYST, V28, P118, DOI 10.1016/j.jsis.2019.01.003
+   Visentin M, 2019, J INTERACT MARK, V45, P99, DOI 10.1016/j.intmar.2018.09.001
+   Vosoughi S, 2018, SCIENCE, V359, P1146, DOI 10.1126/science.aap9559
+   Walther J.B., 2015, Social Information Processing Theory
+   Wang LQ, 2019, SOC NETW ANAL MIN, V9, DOI 10.1007/s13278-019-0580-z
+   Wang QS, 2018, INFORM MANAGE-AMSTER, V55, P441, DOI 10.1016/j.im.2017.10.004
+   Wardle C., 2017, Report to the Council of Europe
+   Webster J, 2002, MIS QUART, V26, pXIII
+   Weidner K, 2020, J PROD BRAND MANAG, V29, P180, DOI 10.1108/JPBM-12-2018-2155
+   Xing YF, 2021, J GLOB INF MANAG, V29, P93, DOI 10.4018/JGIM.20210701.oa5
+   Yuan H, 2021, DECIS SUPPORT SYST, V151, DOI 10.1016/j.dss.2021.113633
+   Zhang HL, 2016, ACM T INFORM SYST, V34, DOI 10.1145/2885494
+   Zhu ZG, 2015, COMPUT HUM BEHAV, V52, P184, DOI 10.1016/j.chb.2015.04.072
+NR 106
+TC 1
+Z9 1
+U1 21
+U2 21
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 0160-791X
+EI 1879-3274
+J9 TECHNOL SOC
+JI Technol. Soc.
+PD SEP
+PY 2024
+VL 78
+AR 102654
+DI 10.1016/j.techsoc.2024.102654
+EA JUL 2024
+PG 15
+WC Social Issues; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Issues; Social Sciences - Other Topics
+GA ZE0B5
+UT WOS:001273489500001
+DA 2024-11-22
+ER
+
+PT J
+AU Tran, K
+   Windzio, M
+AF Tran, Kien
+   Windzio, Michael
+TI Dynamics of group identification and multiculturalistic attitudes in
+   school networks
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+DE Friendships; Identification; Social Network Analysis; Selection and
+   Influence; Memetics
+AB We examine the role of two different forms of social orientations for the integration in adolescent's social networks. On the one hand, the identification with being German represents an aspect of social identity. On the other hand, we regard multiculturalism as a political orientation that diffuses through networks. We test, first, whether, in terms of homophily, the similarity of two individuals regarding these social orientations influences social contacts, and, second, whether these social orientations result from the social influence that persons exert in the friendship network. We use data from the CILS4EU project for our empirical analysis, from which we can use up to 40 networks of a maximum of 875 students to estimate co -evolution models for networks and behavior. The results show that mechanisms of both selection and influence are at work in the identification with being German. For example, on the one hand, a shared social identity increases the chances of contact, and on the other hand, adolescents tend to adapt their social identity to their friends. For multicultural attitudes, we find only the mechanism of influence. Here, the diffusion of these attitudes via social influence in networks essentially plays a role. For the generation of network contacts and thus for social integration, we find no effects. Regarding multicultural attitudes, we find only influence. Hence, with respect to these attitudes there seems to be no homophily. We conclude that unlike the identification with being German, multicultural attitudes are not a salient feature of group identities.
+C1 [Tran, Kien] Deutsch Zentrum Integrat & Migrat Forsch DeZIM, Natl Diskriminierungs & Rassismusmonitor NaDiRa, Mauerstr 76, D-10117 Berlin, Germany.
+   [Windzio, Michael] Univ Bremen, SOCIUM Forschungszentrum Ungleichheit & Sozialpoli, Mary Somerville Str 9, D-28359 Bremen, Germany.
+C3 University of Bremen
+RP Tran, K (corresponding author), Deutsch Zentrum Integrat & Migrat Forsch DeZIM, Natl Diskriminierungs & Rassismusmonitor NaDiRa, Mauerstr 76, D-10117 Berlin, Germany.
+EM tran@dezim-institut.de; mwindzio@uni-bre-men.de
+CR Adida ClaireL., 2016, Why Muslim Integration Fails in Christian-Heritage Societies
+   Allport GW., 1954, NATURE PREJUDICE
+   [Anonymous], 1988, A theory of social interaction
+   ASCH SE, 1956, PSYCHOL MONOGR, V70, P1, DOI 10.1037/h0093718
+   Berreby D., 2008, US THEM SCI IDENTITY
+   Bjorkman Thomas., 2018, The World We Create
+   Blackmore Susan, 2003, Gene, Meme und Gehirne: Geist und Gesellschaft als Natur. Eine Debatte. Suhrkamp-Taschenbuch Wissenschaft, V1643, P49
+   Blackmore Susan, 2005, Die Macht der Meme oder die Evolution von Kultur und Geist
+   Block P, 2014, NETW SCI, V2, P189, DOI 10.1017/nws.2014.17
+   Boudon Raymond, 1988, Ideologie. Geschichte und Kritik eines Begriffs, V469
+   Brechwald WA, 2011, J RES ADOLESCENCE, V21, P166, DOI 10.1111/j.1532-7795.2010.00721.x
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Choi JK, 2007, SCIENCE, V318, P636, DOI 10.1126/science.1144237
+   Cialdini Robert B, 2007, Influence. Influence At Work
+   Crisp RJ., 2015, SOCIAL BRAIN
+   Damasio A.R., 2012, Self comes to mind: Constructing the conscious brain
+   Dawkins Richard, 1976, Das egoistische Gen, V9609
+   DellaPosta DJ, 2015, ORDER ON THE EDGE OF CHAOS: SOCIAL PSYCHOLOGY AND THE PROBLEM OF SOCIAL ORDER, P86
+   Dennett Daniel., 2017, BACTERIA BACH BACK E
+   Dollmann Jorg, 2016, Methoden der Migrationsforschung, P365
+   Esser Hartmut., 2008, Migration und Integration, P81
+   Frank Robert H., 2021, Under the Influence: Putting Peer Pressure to Work
+   Galinsky AD, 2000, J PERS SOC PSYCHOL, V78, P708, DOI 10.1037//0022-3514.78.4.708
+   Graziano M. S. A., 2013, Consciousness and the social brain
+   Greene J., 2015, Moral Tribes: Emotion, Reason and the Gap Between Us and Them
+   Greene W. H., 2010, MODELING ORDERED CHO
+   Henrich J, 2016, SECRET OF OUR SUCCESS: HOW CULTURE IS DRIVING HUMAN EVOLUTION, DOMESTICATING OUR SPECIES, AND MAKING US SMARTER, P1
+   Henrich J, 2020, Collected Poems in English
+   Hoffman D., 2019, CASE REALITY WHY EVO
+   Jackson M.O., 2019, The human network: how your social position determines your power, beliefs, and behaviors
+   Koskinen J, 2022, Arxiv, DOI [arXiv:2201.12713, 10.48550/arXiv.2201.12713]
+   Kurzban R, 2001, P NATL ACAD SCI USA, V98, P15387, DOI 10.1073/pnas.251541498
+   Laland K. N., 2017, Darwin's Unfinished Symphony
+   Lange Mirja, 2022, Erwachsenwerden heute. Lebenslagen und Lebensfuhrung junger Menschen, P170
+   Leszczensky L, 2019, AM SOCIOL REV, V84, P394, DOI 10.1177/0003122419846849
+   Lindenberg S, 2015, ORDER ON THE EDGE OF CHAOS: SOCIAL PSYCHOLOGY AND THE PROBLEM OF SOCIAL ORDER, P43
+   Mannheim K., 1985, Ideology and Utopia
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Meyer JW, 2010, ANNU REV SOCIOL, V36, P1, DOI 10.1146/annurev.soc.012809.102506
+   Mossig Ivo, 2021, Networks and Geographies of Global Social Policy Diffusion. Culture, Economy and Colonial Legacies, P1
+   Murphy M., 2012, Multiculturalism: A critical introduction
+   Raabe T, 2011, CHILD DEV, V82, P1715, DOI 10.1111/j.1467-8624.2011.01668.x
+   Rattansi Ali., 2011, MULTICULTURALISM VER
+   Richerson PeterJ., 2006, NOT GENES ALONE CULT
+   Ripley R.M., 2021, Manual for RSiena
+   Rivas-Drake D., 2019, SURFACE
+   Skrondal A., 2004, GEN LATENT VARIABLE
+   Snijders TAB, 2010, SOC NETWORKS, V32, P44, DOI 10.1016/j.socnet.2009.02.004
+   Tajfel H., 1978, DIFFERENTATION GROUP, P61
+   ten Dam G, 2004, LEARN INSTR, V14, P359, DOI 10.1016/j.learninstruc.2004.01.005
+   Tooby J., 2010, HUMAN MORALITY SOCIA, P191, DOI [DOI 10.1007/978-1-137-05001-4_8, 10.1007/978-1-137-05001-4_8]
+   Turner J.C., 2010, REDISCOVERING SOCIAL, P13
+   Turner J H., 2021, On human nature: The biology and sociology of what made us human
+   Valente T.W., 1995, NETWORK MODELS DIFFU
+   Verkuyten M, 2006, INT J INTERCULT REL, V30, P1, DOI 10.1016/j.ijintrel.2005.05.015
+   Verkuyten M., 2014, IDENTITY CULTURAL DI
+   Weber M., 1922, WIRTSCHAFT GESELLSCH
+   Wimmer A., 2013, Ethnic Boundary Making: Institutions, Power, Networks
+   Windzio M, 2020, HUM NATURE-INT BIOS, V31, P443, DOI 10.1007/s12110-020-09382-5
+   Windzio M, 2015, SOC NETWORKS, V40, P197, DOI 10.1016/j.socnet.2014.11.002
+NR 60
+TC 0
+Z9 0
+U1 1
+U2 1
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2024
+VL 75
+IS 2
+BP 247
+EP 273
+DI 10.5771/0038-6073-2024-2-247
+PG 27
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA XS9M3
+UT WOS:001263784600003
+DA 2024-11-22
+ER

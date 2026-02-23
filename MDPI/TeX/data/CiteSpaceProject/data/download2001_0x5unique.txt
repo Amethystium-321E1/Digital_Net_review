@@ -1,0 +1,541 @@
+
+PT J
+AU Snijders, TAB
+AF Snijders, TAB
+TI The statistical evaluation of social network dynamics
+SO SOCIOLOGICAL METHODOLOGY 2001, VOL 31
+SE SOCIOLOGICAL METHODOLOGY
+LA English
+DT Article
+ID MARKOV GRAPHS; MODELS
+AB A class of statistical models is proposed for longitudinal network data. The dependent variable is the changing (or evolving) relation network, represented by two or more observations of a directed graph with a fixed set of actors. The network evolution is modeled as the consequence of the actors making new choices, or withdrawing existing choices, on the basis of functions, with fixed and random components, that the actors try to maximize. Individual and dyadic exogenous variables can be used as covariates. The change in the network is modeled as the stochastic result of network effects (reciprocity, transitivity, etc.) and these covariates. The existing network structure is a dynamic constraint for the evolution of the structure itself. The models are continuous-time Markov chain models that can be implemented as simulation models. The model parameters are estimated from observed data. For estimating and testing these models, statistical procedures are proposed that are based on the method of moments. The statistical procedures are implemented using a stochastic approximation algorithm based on computer simulations of the network evolution process.
+C1 Univ Groningen, Dept Stat & Measurement Theory, NL-9700 AB Groningen, Netherlands.
+C3 University of Groningen
+RP Snijders, TAB (corresponding author), Univ Groningen, Dept Stat & Measurement Theory, NL-9700 AB Groningen, Netherlands.
+RI Snijders, Tom/F-2896-2012
+OI Snijders, Tom/0000-0003-3157-4157
+CR [Anonymous], 1960, A First Course in Stochastic Process
+   [Anonymous], 1997, Markov Chains
+   [Anonymous], 1995, Structure and Influence
+   [Anonymous], 1999, FRIENDS CHOICE ACTOR
+   [Anonymous], 1997, STOCHASTIC APPROXIMA, DOI DOI 10.1007/978-1-4899-2696-8
+   [Anonymous], 1997, EVOLUTION SOCIAL NET
+   [Anonymous], 1975, DISCRETE MULTIVARIAT
+   [Anonymous], 1985, Encyclopedia of Statistical Sciences, Volume
+   FARARO TJ, 1994, ADV GROUP PROCESSES, V11, P25
+   FRANK O, 1986, J AM STAT ASSOC, V81, P832, DOI 10.2307/2289017
+   HOLLAND PW, 1977, Z SOZIOL, V6, P386
+   HOLLAND PW, 1977, J MATH SOCIOL, V5, P5, DOI 10.1080/0022250X.1977.9989862
+   KATZ L, 1959, PSYCHOMETRIKA, V24, P317, DOI 10.1007/BF02289814
+   LEENDERS RTAJ, 1995, J MATH SOCIOL, V20, P1, DOI 10.1080/0022250X.1995.9990149
+   Maddala GS., 1986, Limited-Dependent and Qualitative Variables in Econometrics
+   MAYER TF, 1984, J MATH SOCIOL, V10, P51, DOI 10.1080/0022250X.1984.9989958
+   Pflug G. C., 1996, Optimization of Stochastic Model: The Interface Between Simulation and Optimization
+   PFLUG GC, 1990, MONATSH MATH, V110, P297, DOI 10.1007/BF01301683
+   POLYAK BT, 1990, AUTOMAT REM CONTR+, V51, P937
+   ROBBINS H, 1951, ANN MATH STAT, V22, P400, DOI 10.1214/aoms/1177729586
+   Ruppert D., 1988, Efficient estimations from a slowly convergent robbins-monro process
+   Ruppert D., 1991, HDB SEQUENTIAL ANAL
+   Snijders T, 1999, J MATH SOCIOL, V23, P241, DOI 10.1080/0022250X.1999.9990222
+   Snijders TAB, 1996, J MATH SOCIOL, V21, P149, DOI 10.1080/0022250X.1996.9990178
+   Snijders TomA. B., 1997, Simulating Social Phenomena, P493
+   Van De Bunt G. G., 1999, Computational & Mathematical Organization Theory, V5, P167, DOI 10.1023/A:1009683123448
+   Wasserman S, 1996, PSYCHOMETRIKA, V61, P401, DOI 10.1007/BF02294547
+   WASSERMAN S, 1988, PSYCHOMETRIKA, V53, P261, DOI 10.1007/BF02294137
+   WASSERMAN S, 1980, J AM STAT ASSOC, V75, P280, DOI 10.2307/2287447
+   Wasserman S., 1979, SOCIOL METHODOL, P392
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   Wasserman S. S., 1977, THESIS HARVARD U
+   YIN G, 1991, STOCHASTICS, V36, P245
+   ZEGGELINK E, 1994, SOC NETWORKS, V16, P295, DOI 10.1016/0378-8733(94)90014-0
+NR 34
+TC 689
+Z9 810
+U1 2
+U2 91
+PU BLACKWELL PUBL
+PI MALDEN
+PA 350 MAIN ST, MALDEN, MA 02148 USA
+SN 0081-1750
+J9 SOCIOL METHODOL
+PY 2001
+VL 31
+BP 361
+EP 395
+DI 10.1111/0081-1750.00099
+PG 35
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA BT64M
+UT WOS:000173627000012
+DA 2024-11-22
+ER
+
+PT J
+AU Hampton, K
+   Wellman, B
+AF Hampton, K
+   Wellman, B
+TI Long distance community in the network society - Contact and support
+   beyond Netville
+SO AMERICAN BEHAVIORAL SCIENTIST
+LA English
+DT Article
+AB The authors examine the experience of the residents of Netville, a suburban neighborhood with access to some of the most advanced new communication technologies available, and how this technology affected the amount of contact and support exchanged with members of their distant social networks. Focusing exclusively on friends and relatives external to the neighborhood of Netville, the authors analyze community as relations that provide a sense of belonging rather than as a group of people living near each other. Computer-mediated communication (CMC) is treated as one of several means of communication used in the maintenance of social networks. Contrary to expectations that the Internet encourages a global village, those ties that previously were just out of reach geographically experience the greatest increase in contact and support as a result of access to CMC.
+C1 MIT, Cambridge, MA 02139 USA.
+   Univ Toronto, Toronto, ON, Canada.
+C3 Massachusetts Institute of Technology (MIT); University of Toronto
+RP MIT, Cambridge, MA 02139 USA.
+RI Hampton, Keith/R-7031-2019
+OI Hampton, Keith/0000-0001-6181-4700
+CR [Anonymous], 2021, WELC CASS FRIENDS
+   [Anonymous], 1988, Social Structures: A Network Approach
+   [Anonymous], LEVITTOWNERS
+   Bradner Erin, 2000, UNDERSTANDING GROUPW
+   Clark S.D., 1966, SUBURBAN SOC
+   *EK RES ASS, 1998, INF HIGHW CAN COMM H
+   Fischer C.S., 1984, URBAN EXPERIENCE
+   Fox R., 1995, COMMUN ACM, V38, P11
+   Gaver WW, 1996, ECOL PSYCHOL, V8, P111, DOI 10.1207/s15326969eco0802_2
+   Hampton K., 1999, Bulletin de Methode Sociologique (BMS), V62, P49
+   Hampton KN, 1999, AM BEHAV SCI, V43, P475, DOI 10.1177/00027649921955290
+   HAMPTON KN, 2001, CHI 2001
+   HAMPTON KN, IN PRESS MOBILIZATIO
+   HAMPTON KN, 2001, THESIS U TORONTO TOR
+   Hawley A.H., 1986, Human Ecology
+   Haythornthwaite C, 1998, J AM SOC INFORM SCI, V49, P1101, DOI 10.1002/(SICI)1097-4571(1998)49:12<1101::AID-ASI6>3.0.CO;2-Z
+   Homans G.C., 1961, SOCIAL BEHAV
+   Kraut R, 1998, AM PSYCHOL, V53, P1017, DOI 10.1037/0003-066X.53.9.1017
+   Nie N.H., 2000, INTERNET SOC PRELIMI
+   Nie NH, 2001, AM BEHAV SCI, V45, P420, DOI 10.1177/00027640121957277
+   Norman D. A., 1999, Interactions, V6, P38, DOI 10.1145/301153.301168
+   OLDENBERG R, 1999, GREAT GOOD PLACES CA
+   PATTON P, 1986, OPEN ROAD
+   Rheingold Howard., 2000, VIRTUAL COMMUNITY
+   Smith M., 1999, COMMUNITIES CYBERSPA
+   Sproull L., 1991, CONNECTIONS
+   Stein MauriceR., 1960, ECLIPSE COMMUNITY
+   WALTHER JB, 1994, COMMUN RES, V21, P460, DOI 10.1177/009365094021004002
+   WELLMAN B, 1990, AM J SOCIOL, V96, P558, DOI 10.1086/229572
+   WELLMAN B, 1979, URBAN AFF REV, V14, P363, DOI 10.1177/107808747901400305
+   Wellman B, 2001, AM BEHAV SCI, V45, P436, DOI 10.1177/00027640121957286
+   WELLMAN B, IN PRESS INT J URBAN, P25
+   Wellman B., 1997, CULTURE INTERNET, P179
+   Wellman B., 1999, NETWORKS GLOBAL VILL, P331, DOI DOI 10.4324/9780429498718
+   Wellman B.:., 1999, 101. Wellman, B.: The network community: An introduction to networks in the global village. Networks in the Global Village, 1999.
+   Wellman B., 1993, Progress In Communication Sciences, V12, P63
+   Wellman Barry., 2001, SOCIAL CAPITAL, P233
+NR 37
+TC 112
+Z9 146
+U1 1
+U2 20
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0002-7642
+EI 1552-3381
+J9 AM BEHAV SCI
+JI Am. Behav. Sci.
+PD NOV
+PY 2001
+VL 45
+IS 3
+BP 476
+EP 495
+DI 10.1177/00027640121957303
+PG 20
+WC Psychology, Clinical; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology; Social Sciences - Other Topics
+GA 479HP
+UT WOS:000171399200007
+DA 2024-11-22
+ER
+
+PT J
+AU Haynie, DL
+AF Haynie, DL
+TI Delinquent peers revisited: Does network structure matter?
+SO AMERICAN JOURNAL OF SOCIOLOGY
+LA English
+DT Article
+ID DIFFERENTIAL ASSOCIATION; SOCIAL NETWORKS; DRUG-USE; BEHAVIOR; DEVIANT;
+   SCHOOL; MODEL; SELECTION
+AB This study examines whether structural properties of friendship networks condition the association between friends' delinquency and an individual's own delinquent behavior. Data from the Add Health allows a more accurate conceptualization of the peer network and a more rigorous measurement of peer delinquency than previous research. Findings from this study indicate that friends' delinquency is associated with an adolescent's own delinquency involvement. However, characteristics of adolescents' friendship networks, such as its density and adolescents' centrality and popularity, condition the delinquency-peer association. Network density, in particular, emerges as an important component of the delinquency-peer association, with very cohesive networks containing stronger delinquency-peer associations than those that are less cohesive. These findings suggest that it is necessary to consider the underlying structural properties of friendship networks in order to understand the impact of peer influence on adolescent delinquency.
+C1 SUNY Albany, Dept Sociol, Albany, NY 12203 USA.
+C3 State University of New York (SUNY) System; University at Albany, SUNY
+RP SUNY Albany, Dept Sociol, SS 339, Albany, NY 12203 USA.
+EM haynie@albany.edu
+CR AGNEW R, 1991, CRIMINOLOGY, V29, P47, DOI 10.1111/j.1745-9125.1991.tb01058.x
+   Akers R.L., 1985, Deviant behavior: A social learning approach, V3rd
+   AKERS RL, 1979, AM SOCIOL REV, V44, P636, DOI 10.2307/2094592
+   AMBERT AM, 1994, J MARRIAGE FAM, V56, P119, DOI 10.2307/352708
+   [Anonymous], 1957, Family and social network: Roles, norms, and external relationships in ordinary urban families
+   [Anonymous], 2005, Suicide
+   [Anonymous], 1994, Lifelines and risks: Pathways of youth in our time
+   Bauman KE, 1996, ADDICTION, V91, P185, DOI 10.1111/j.1360-0443.1996.tb03175.x
+   BAUMAN KE, 1986, J YOUTH ADOLESCENCE, V15, P345, DOI 10.1007/BF02145731
+   Best R., 1983, We've all got scars
+   BILLY JOG, 1984, SOC FORCES, V62, P653, DOI 10.2307/2578705
+   Brown B.B., 1990, Adolescent behavior and society, P30
+   CAIRNS RB, 1988, DEV PSYCHOL, V24, P815, DOI 10.1037/0012-1649.24.6.815
+   Coleman J., 1961, ADOLESCENT SOC, V1st
+   Coleman J.S., 1994, FDN SOCIAL THEORY
+   CORSARO WA, 1990, ANNU REV SOCIOL, V16, P197, DOI 10.1146/annurev.so.16.080190.001213
+   Cusick P.L., 1973, INSIDE HIGH SCH
+   DUNPHY DC, 1963, SOCIOMETRY, V26, P230, DOI 10.2307/2785909
+   Eckert Penelope., 1989, JOCKS BURNOUTS SOCIA
+   EDER D, 1991, AM SOCIOL REV, V56, P494, DOI 10.2307/2096270
+   EDER D, 1985, SOCIOL EDUC, V58, P154, DOI 10.2307/2112416
+   Elliott D.S., 1985, Explaining delinquency and drug use
+   Elliott DelbertS., 1996, DELINQUENCY CRIME, P28
+   Ennett ST, 1996, J ADOLESCENT RES, V11, P194, DOI 10.1177/0743554896112003
+   Ennett ST, 1999, J HEALTH SOC BEHAV, V40, P63, DOI 10.2307/2676379
+   Everhart RobertB., 1983, READING WRITING RESI
+   Fischer C.S., 1982, DWELL FRIENDS
+   Friedman S., 1999, AIDS PREVENT MENT H
+   GARDNER W, 1995, PSYCHOL BULL, V118, P392, DOI 10.1037/0033-2909.118.3.392
+   GIORDANO PC, 1986, AM J SOCIOL, V91, P1170, DOI 10.1086/228390
+   GIORDANO PC, 1983, SOC PSYCHOL QUART, V46, P329, DOI 10.2307/3033721
+   Glueck S., 1950, UNRAVELING JUVENILE
+   Gold M., 1970, Delinquent behavior in an American city
+   Goldstein H., 1987, MULTILEVEL MODELS ED
+   Gottfredson M.R., 1990, GEN THEORY CRIME
+   GRANOVETTER M, 1976, AM J SOCIOL, V81, P1287, DOI 10.1086/226224
+   GRANOVETTER M, 1985, AM J SOCIOL, V91, P481, DOI 10.1086/228311
+   Granovetter M, 1995, Getting a Job: A Study of Contacts and Careers
+   Henggler S.W., 1989, DELINQUENCY ADOLESCE
+   HINDELAND MJ, 1980, MEASURING DELINQUENC
+   Hirschi T, 1969, CAUSES DELINQUENCY
+   Jensen G., 1992, Delinquency and youth crime
+   JENSEN GF, 1972, AM J SOCIOL, V78, P562, DOI 10.1086/225364
+   JUSSIM L, 1989, SOC PSYCHOL QUART, V52, P98, DOI 10.2307/2786910
+   KANDEL D, 1991, CRIMINOLOGY, V29, P441, DOI 10.1111/j.1745-9125.1991.tb01074.x
+   KANDEL DB, 1978, AM J SOCIOL, V84, P427, DOI 10.1086/226792
+   Kapferer Bruce., 1969, Social Networks in Urban Situations, P181
+   KLOVDAHL AS, 1985, SOC SCI MED, V21, P1203, DOI 10.1016/0277-9536(85)90269-2
+   Krohn M D, 1993, NIDA Res Monogr, V130, P102
+   KROHN MD, 1986, SOC PROBL, V33, pS81, DOI 10.1525/sp.1986.33.6.03a00050
+   KROHN MD, 1988, SOC PSYCHOL QUART, V51, P346, DOI 10.2307/2786761
+   Krohn MD, 1996, J DRUG ISSUES, V26, P405, DOI 10.1177/002204269602600206
+   KROHN MD, 1974, CRIME DELINQUENCY DI, P5
+   Kupersmidt J.B., 1990, PEER REJECTION CHILD, P274, DOI [DOI 10.1111/J.1467-8624.2010.01532.X, 10. 1111/j. 1467-8624. 2010. 01532. x]
+   Laumann E., 1989, Applied Network Analysis: A Methodological Introduction, P18
+   LEE VE, 1989, SOCIOL EDUC, V62, P172, DOI 10.2307/2112866
+   Matsueda RL, 1998, CRIMINOLOGY, V36, P269, DOI 10.1111/j.1745-9125.1998.tb01249.x
+   MATSUEDA RL, 1987, AM SOCIOL REV, V52, P826, DOI 10.2307/2095837
+   MATSUEDA RL, 1982, SOC FORCES, V68, P429
+   Messerschmidt JamesW., 2000, 9 LIVES ADOLESCENT M
+   Orcutt JamesD., 1983, Analyzing Deviance
+   ORCUTT JD, 1987, CRIMINOLOGY, V25, P341, DOI 10.1111/j.1745-9125.1987.tb00801.x
+   OSGOOD DW, 1988, AM SOCIOL REV, V53, P81, DOI 10.2307/2095734
+   OSGOOD WD, 1999, 9904 PENNS STAT U CT
+   Patterson GR, 1985, CRIMINOLOGY, V23, P63, DOI 10.1111/j.1745-9125.1985.tb00326.x
+   PATTERSON GR, 1989, AM PSYCHOL, V44, P329, DOI 10.1037/0003-066X.44.2.329
+   Podolny JM, 1997, AM SOCIOL REV, V62, P673, DOI 10.2307/2657354
+   RAUDENBUSH S, 1986, SOCIOL EDUC, V59, P1, DOI 10.2307/2112482
+   Reiss A.J., 1986, CRIMINAL CAREERS CAR, VII, P121
+   SHAW Clifford., 1931, Report on the Causes of Crime, V2
+   SHORT JF, 1960, SOC PROBL, V8, P14
+   SHORT JF, 1957, SOC PROBL, V5, P207
+   SHORT JF, 1957, SOC PROBL, V4, P233
+   Sutherland EdwinH., 1974, CRIMINOLOGY, V9 th
+   Sutherland EH., 1947, PRINCIPLES CRIMINOLO
+   THORNBERRY TP, 1987, CRIMINOLOGY, V25, P863, DOI 10.1111/j.1745-9125.1987.tb00823.x
+   Vold G.B., 1998, THEORETICAL CRIMINOL, V4th
+   VOSS H, 1996, CRIMINOLOGY, V34, P11
+   VOSS HL, 1969, SOC FORCES, V47, P381, DOI 10.2307/2574526
+   WARR M, 1991, CRIMINOLOGY, V29, P851, DOI 10.1111/j.1745-9125.1991.tb01090.x
+   Wellman B., 1988, Social structures: A network approach
+   WELLMAN B, 2000, NETWORKS GLOBAL VILL, P1
+   Willis P., 1981, LEARNING LABOUR WORK
+NR 83
+TC 691
+Z9 852
+U1 3
+U2 139
+PU UNIV CHICAGO PRESS
+PI CHICAGO
+PA 1427 E 60TH ST, CHICAGO, IL 60637-2954 USA
+SN 0002-9602
+EI 1537-5390
+J9 AM J SOCIOL
+JI Am. J. Sociol.
+PD JAN
+PY 2001
+VL 106
+IS 4
+BP 1013
+EP 1057
+DI 10.1086/320298
+PG 45
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA 434HF
+UT WOS:000168808500005
+DA 2024-11-22
+ER
+
+PT J
+AU Nauck, B
+   Schwenk, OG
+AF Nauck, B
+   Schwenk, OG
+TI Did societal transformation destroy the social networks of families in
+   East Germany?
+SO AMERICAN BEHAVIORAL SCIENTIST
+LA English
+DT Article
+AB Two sets of survey data from East and West Germany in 1988 to 1990 and in 1996 containing information about the structure of ego-centered networks of parents living together with at least one child, are used to rest empirically whether the structure of the social networks have changed during the transformation period. Contrary to what is commonly believed by the East German population and what is a main theme in the public discourse, where both a feeling of network erosion and of collapsing social relationships prevails, the empirical findings show (a) only slight differences between East and West Germany and (b) a simultaneous change in the network structure in both parts of Germany, which can thus not be attributed to the political transformation process. The results demonstrate the need for a comparative approach in transformation research and support previous findings from family research on the disintegration of family microstructures from political systems.
+C1 Chemnitz Univ Technol, Chemnitz, Germany.
+C3 Technische Universitat Chemnitz
+RP Nauck, B (corresponding author), Chemnitz Univ Technol, Chemnitz, Germany.
+RI Nauck, Bernhard/AAE-7379-2020
+OI Nauck, Bernhard/0000-0003-3156-328X
+CR [Anonymous], FAMILIE BRENNPUNKT W
+   BIEN W, 1992, FAMILIES AND HOUSEHOLDS, P157
+   Bien W., 1991, FAMILIE WESTDEUTSCHL, P3
+   BIEN W, 1994, EIGENINTERESSE SOLID, P3
+   Coleman J., 1990, AM J SOCIOL, V94, P95
+   Coleman J.S., 1994, FDN SOCIAL THEORY
+   Conger R.D., 1994, SOCIAL I SOCIAL CHAN
+   GEBHARDT W, 1996, LEBENSSTIL ZWISCHEN, P283
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   HOHN C, 1995, FAMILIE BRENNPUNKT W, P149
+   KNOKE D, 1992, NETWORK ANAL
+   MARSDEN PV, 1990, ANNU REV SOCIOL, V16, P435, DOI 10.1146/annurev.so.16.080190.002251
+   NAUCK B, 1995, E JOINS W CHILD WELF
+   NAUCK B, 1999, GROWING TIMES SOCIAL, P73
+   NAUCK B, 1999, ADVERSITY CHALLENGE, P212
+   NAUCK B, 1996, SOZIALISATION ENTWIC, P243
+   STROHMEIER KP, 1995, FAMILIE BRENNPUNKT W, P17
+NR 17
+TC 17
+Z9 19
+U1 1
+U2 2
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0002-7642
+J9 AM BEHAV SCI
+JI Am. Behav. Sci.
+PD JUL
+PY 2001
+VL 44
+IS 11
+BP 1864
+EP 1878
+DI 10.1177/00027640121958195
+PG 15
+WC Psychology, Clinical; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology; Social Sciences - Other Topics
+GA 442PU
+UT WOS:000169294800005
+DA 2024-11-22
+ER
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU McPherson, M
+   Smith-Lovin, L
+   Cook, JM
+AF McPherson, M
+   Smith-Lovin, L
+   Cook, JM
+TI Birds of a feather: Homophily in social networks
+SO ANNUAL REVIEW OF SOCIOLOGY
+LA English
+DT Review
+DE human ecology; voluntary associations; organizations
+ID OCCUPATIONAL-STATUS ATTAINMENT; VOLUNTARY ORGANIZATIONS; STRUCTURAL
+   DETERMINANTS; CHILDRENS FRIENDSHIPS; EDUCATIONAL HOMOGAMY; MANAGERIAL
+   NETWORKS; MULTILEVEL ANALYSIS; GENDER DIFFERENCES; PERSONAL NETWORKS;
+   SEX SEGREGATION
+AB Similarity breeds connection. This principle-the homophily principle-structures network ties of every type, including marriage, friendship, work, advice, support, information transfer, exchange, comembership, and other types of relationship. The result is that people's personal networks are homogeneous with regard to many sociodemographic, behavioral, and intrapersonal characteristics. Homophily limits people's social worlds in a way that has powerful implications for the information they receive, the attitudes they form, and the interactions they experience. Homophily in race and ethnicity creates the strongest divides in our personal environments, with age, religion, education, occupation, and gender following in roughly that order. Geographic propinquity, families, organizations, and isomorphic positions in social systems all create contexts in which homophilous relations form. Ties between nonsimilar individuals also dissolve at a higher rate, which sets the stage for the formation of niches (localized positions) within social space. We argue for more research on: (a) the basic ecological processes that link organizations, associations, cultural communities, social movements, and many other social forms; (b) the impact of multiplex ties on the patterns of homophily; and (c) the dynamics of network change over time through which networks and other social entities co-evolve.
+C1 Univ Arizona, Dept Sociol, Tucson, AZ 85721 USA.
+   Duke Univ, Dept Sociol, Durham, NC 27708 USA.
+C3 University of Arizona; Duke University
+RP McPherson, M (corresponding author), Univ Arizona, Dept Sociol, Tucson, AZ 85721 USA.
+EM mcpherson@u.arizona.edu; smithlov@u.arizona.edu; jcook@soc.duke.edu
+CR Aldrich H.E., 1989, Women owned businesses, P103
+   Aldrich H.E., 1996, Entrepreneurship in a Global Context, P1
+   Aldrich HowardE., 1989, ENTREP REGION DEV, V1, P339, DOI DOI 10.1080/08985628900000029
+   Almack JC, 1922, SCHOOL SOC, V16, P529
+   [Anonymous], 1973, Bonds of pluralism: The form and substance of urban social networks
+   [Anonymous], 1992, CONT SOCIOLOGICAL TH
+   [Anonymous], 1949, Human behaviour and the principle of least-effort
+   [Anonymous], 2001, SOURCEBOOK LABOR MAR
+   Aristotle, 1934, ARISTOTLE 23 VOLUMES
+   BAINBRIDGE WS, 1981, REV RELIG RES, V22, P313, DOI 10.2307/3509765
+   Beggs JJ, 1997, SOCIOL PERSPECT, V40, P601, DOI 10.2307/1389465
+   BERNARD HR, 1988, ETHNOLOGY, V27, P155, DOI 10.2307/3773626
+   BIELBY WT, 1986, AM J SOCIOL, V91, P759, DOI 10.1086/228350
+   BILLY JOG, 1984, SOC FORCES, V62, P653, DOI 10.2307/2578705
+   BLAU JR, 1974, SOCIOMETRY, V37, P391, DOI 10.2307/2786390
+   Blau P.M., 1977, INEQUALITY HETEROGEN
+   BLAU PM, 1984, SOC FORCES, V62, P585, DOI 10.2307/2578701
+   BLAU PM, 1982, AM SOCIOL REV, V47, P45, DOI 10.2307/2095041
+   BLAU PM, 1991, SOC FORCES, V69, P1037, DOI 10.2307/2579301
+   BLAU PM, 1994, CROSSCUTTING SOCIAL
+   BLUM TC, 1984, SOC FORCES, V62, P607, DOI 10.2307/2578702
+   Bott H, 1928, GENET PSYCHOL MONOGR, V4, P44
+   BRASS DJ, 1985, ACAD MANAGE J, V28, P327, DOI 10.5465/256204
+   BREIGER RL, 1974, SOC FORCES, V53, P181, DOI 10.2307/2576011
+   Burt R.S., 1985, CONNECTIONS, V8, P119
+   Burt RonaldS., 1990, Structures of Power and Constraint, P411
+   Burt RonaldS., 1982, Toward a Structural Theory of Action : Network Models of Social Structure, Perception, and Action
+   Burt RS, 1998, RATION SOC, V10, P5, DOI 10.1177/104346398010001001
+   BURT RS, 1991, SOC NETWORKS, V13, P1, DOI 10.1016/0378-8733(91)90011-H
+   Burt RS, 2000, SOC NETWORKS, V22, P1, DOI 10.1016/S0378-8733(99)00015-5
+   BURTON R, 1927, ANATOMY MELANCHOLOY
+   CALDEIRA GA, 1987, J POLIT, V4, P953
+   CAMPBELL KE, 1988, WORK OCCUPATION, V15, P179, DOI 10.1177/0730888488015002003
+   CAMPBELL KE, 1986, SOC NETWORKS, V8, P97, DOI 10.1016/S0378-8733(86)80017-X
+   CAMPBELL KE, 1990, SOC FORCES, V69, P139, DOI 10.2307/2579611
+   CARLEY K, 1991, AM SOCIOL REV, V56, P331, DOI 10.2307/2096108
+   Carley KM, 1999, RES SOC ORG, V16, P3
+   COHEN JM, 1977, SOCIOL EDUC, V50, P227, DOI 10.2307/2112497
+   COLEMAN JS, 1958, HUM ORGAN, V17, P28, DOI 10.17730/humo.17.4.q5604m676260q8n7
+   COOK M, 2000, THESIS U ARIZ TUCSON
+   DAVIS AB, 2000, AM SOC ASS M WASH DC
+   Duncan O.D., 1972, SOCIOMETRIC BACKGROU
+   DUNCAN OD, 1968, AM J SOCIOL, V74, P119, DOI 10.1086/224615
+   EDER D, 1978, AM SOCIOL REV, V43, P237, DOI 10.2307/2094701
+   FARARO TJ, 1987, AM J SOCIOL, V92, P1183, DOI 10.1086/228632
+   FELD SL, 1981, AM J SOCIOL, V86, P1015, DOI 10.1086/227352
+   FELD SL, 1982, AM SOCIOL REV, V47, P797, DOI 10.2307/2095216
+   FELD SL, 1984, SOC FORCES, V62, P640, DOI 10.2307/2578704
+   FESTINGER L, 1950, PSYCHOL REV, V57, P271, DOI 10.1037/h0056932
+   Festinger L., 1950, Social Processes in Informal Groups: A Study of Human Factors in Housing
+   Fischer C.S., 1977, NETWORKS PLACES SOCI
+   Fischer C.S., 1982, DWELL FRIENDS
+   FISCHER CS, 1983, SOC FORCES, V62, P124, DOI 10.2307/2578351
+   Freeman LC., 1996, CONNECTIONS, V19, P39
+   FRIEDKIN NE, 1993, AM SOCIOL REV, V58, P861, DOI 10.2307/2095955
+   Fuchs S., 1995, Soziale Systeme, V1, P47
+   GALASKIEWICZ J, 1985, AM SOCIOL REV, V50, P639, DOI 10.2307/2095379
+   GALASKIEWICZ J, 1981, ADMIN SCI QUART, V26, P434, DOI 10.2307/2392516
+   Gans Herbert., 1968, People and Plans: Essays on Urban Problems and Solutions
+   GREENBERGER E, 1971, SOCIOL EDUC, V44, P198, DOI 10.2307/2112015
+   HALLINAN MT, 1985, SOC PSYCHOL QUART, V48, P3, DOI 10.2307/3033777
+   HALLINAN MT, 1989, AM SOCIOL REV, V54, P67, DOI 10.2307/2095662
+   Hampton KN, 2000, LECT NOTES COMPUT SC, V1765, P194
+   Hartup WW, 1997, PSYCHOL BULL, V121, P355, DOI 10.1037/0033-2909.121.3.355
+   Hauser Robert M., 1982, Social Structure and Behavior: Essays in Honor of William Hamilton Sewell, P205
+   HOUT M, 1982, AM J SOCIOL, V88, P397, DOI 10.1086/227679
+   HUBBARD RM, 1929, SOME NEW TECHNIQUES, P76
+   Huckfeldt R., 1995, Citizens, politics, and social communication: Information and influence in an election campaign
+   Hurlbert JS, 2000, AM SOCIOL REV, V65, P598, DOI 10.2307/2657385
+   HUSTON TL, 1978, ANNU REV PSYCHOL, V29, P115, DOI 10.1146/annurev.ps.29.020178.000555
+   IANNACCONE LR, 1988, AM J SOCIOL, V94, pS241, DOI 10.1086/228948
+   Ibarra H, 1997, SOC PSYCHOL QUART, V60, P91, DOI 10.2307/2787014
+   IBARRA H, 1992, ADMIN SCI QUART, V37, P422, DOI 10.2307/2393451
+   IBARRA H, 1995, ACAD MANAGE J, V38, P673, DOI 10.5465/256742
+   Ibarra H., 1997, Creating tomorrow's organizations, P359
+   JUSSIM L, 1989, SOC PSYCHOL QUART, V52, P98, DOI 10.2307/2786910
+   Kalleberg ArneL., 1996, Organizations in America: Analyzing Their Structures and Human Resource Practices
+   Kalmijn M, 1998, ANNU REV SOCIOL, V24, P395, DOI 10.1146/annurev.soc.24.1.395
+   KANDEL DB, 1978, AM J SOCIOL, V84, P427, DOI 10.1086/226792
+   KAPLAN HB, 1987, SOC PSYCHOL QUART, V50, P277, DOI 10.2307/2786829
+   Kaufer David., 1993, COMMUNICATION DISTAN
+   KNOKE D, 1990, SOC FORCES, V68, P1041, DOI 10.2307/2579133
+   Kubitschek WN, 1998, SOC PSYCHOL QUART, V61, P1, DOI 10.2307/2787054
+   Laumann E., 1976, NETWORKS COLLECTIVE
+   Laumann E. O., 1966, Prestige and Association in an Urban Community: An Analysis of an Urban Stratification System
+   LAWRENCE BS, 2000, AND GRAD SCH M U CAL
+   Lazarsfeld P.F., 1954, Freedom and Control in Modern Society, P18, DOI DOI 10.1111/J.1467-8705.2012.02056_3.X
+   Lazega E, 1997, SOC NETWORKS, V19, P375, DOI 10.1016/S0378-8733(97)00006-3
+   LIAO TF, 1994, SOC FORCES, V73, P693, DOI 10.2307/2579826
+   Lieberson S., 1980, A Piece of the Pie: Blacks and White Immigrants Since 1880
+   LIN N, 1981, SOC FORCES, V59, P1163, DOI 10.2307/2577987
+   LIN N, 1981, AM SOCIOL REV, V46, P393, DOI 10.2307/2095260
+   LINCOLN JR, 1979, ADMIN SCI QUART, V24, P181, DOI 10.2307/2392493
+   Loomis CP, 1946, SOCIOMETRY, V9, P316, DOI 10.2307/2785496
+   Louch H, 2000, SOC NETWORKS, V22, P45, DOI 10.1016/S0378-8733(00)00015-0
+   MACCOBY ES, 1998, 2 SEXES GROWING UP A
+   MARKS SR, 1994, SOC FORCES, V72, P843, DOI 10.2307/2579783
+   Marsden PeterV., 1990, Structures of Power and Constraint: Papers in Honor of Peter Blau, P397
+   MARSDEN PV, 1988, SOC NETWORKS, V10, P57, DOI 10.1016/0378-8733(88)90010-X
+   MARSDEN PV, 1987, AM SOCIOL REV, V52, P122, DOI 10.2307/2095397
+   MARX JH, 1972, J HEALTH SOC BEHAV, V13, P413, DOI 10.2307/2136834
+   MATSUEDA RL, 1987, AM SOCIOL REV, V52, P826, DOI 10.2307/2095837
+   MAYHEW BH, 1995, SOC FORCES, V74, P15, DOI 10.2307/2580623
+   MCPHERSON JM, 1981, SOC FORCES, V59, P705, DOI 10.2307/2578190
+   MCPHERSON JM, 1987, AM SOCIOL REV, V52, P370, DOI 10.2307/2095356
+   MCPHERSON JM, 1992, AM SOCIOL REV, V57, P153, DOI 10.2307/2096202
+   McPherson JM, 1996, AM SOCIOL REV, V61, P179, DOI 10.2307/2096330
+   MCPHERSON JM, 1982, SOC NETWORKS, V3, P225, DOI 10.1016/0378-8733(82)90001-6
+   MCPHERSON JM, 1991, SOC FORCES, V70, P19, DOI 10.2307/2580060
+   MCPHERSON JM, 1986, AM SOCIOL REV, V51, P61, DOI 10.2307/2095478
+   MCPHERSON JM, 1982, AM J SOCIOL, V87, P883, DOI 10.1086/227525
+   MCPHERSON JM, 1981, CONTINUITIES STRUCTU, P325
+   MCPHERSON M, 1983, AM SOCIOL REV, V48, P519, DOI 10.2307/2117719
+   McPherson Miller., 1983, Social Forces, V64, P1044
+   Michaelson W., 1976, Man and His Urban Environment: A Sociological Approach
+   MOORE G, 1990, AM SOCIOL REV, V55, P726, DOI 10.2307/2095868
+   MUNCHROTOLO AC, 2000, THESIS U ARIZ TUCSON
+   Neckerman HJ, 1996, SOC DEV, V5, P131, DOI 10.1111/j.1467-9507.1996.tb00076.x
+   OOKA E, 2001, INSIDE MOSAIC
+   Park RobertE., 1921, INTRO SCI SOCIOLOGY
+   Pfeffer J., 1983, Research in Organizational Behavior, V5
+   Plato, 1968, LAWS PLATO 12 VOLUME, V11
+   Podolny JM, 1997, AM SOCIOL REV, V62, P673, DOI 10.2307/2657354
+   POPIELARZ PA, 1995, AM J SOCIOL, V101, P698, DOI 10.1086/230757
+   Popielarz PA, 1999, GENDER SOC, V13, P234, DOI 10.1177/089124399013002005
+   Popielarz PA, 1999, RES SOC ORG, V16, P263
+   Raymo JM, 2000, AM SOCIOL REV, V65, P773, DOI 10.2307/2657546
+   Reskin BF, 1999, ANNU REV SOCIOL, V25, P335, DOI 10.1146/annurev.soc.25.1.335
+   Richardson HM, 1940, J SOC PSYCHOL, V11, P303, DOI 10.1080/00224545.1940.9918751
+   Rotolo T, 2001, SOC FORCES, V79, P1095, DOI 10.1353/sof.2001.0024
+   SAMPSON RJ, 1984, SOC FORCES, V62, P618, DOI 10.2307/2578703
+   Schneider M, 1997, AM J POLIT SCI, V41, P1201, DOI 10.2307/2960487
+   Schofield J.W., 1995, HDB RES MULTICULTURA, P597
+   SHRUM W, 1988, SOCIOL EDUC, V61, P227, DOI 10.2307/2112441
+   SMITH TW, 2000, PUBLIC OPIN QUART, P64
+   Smith-Lovin L., 1993, THEORY GENDER FEMINI, P223
+   Smits J, 2000, AM SOCIOL REV, V65, P781, DOI 10.2307/2657547
+   Sorensen JB, 2000, AM SOCIOL REV, V65, P298, DOI 10.2307/2657442
+   SOUTH SJ, 1990, SOC FORCES, V69, P71, DOI 10.2307/2579608
+   SOUTH SJ, 1986, AM J SOCIOL, V91, P1409, DOI 10.1086/228427
+   SOUTH SJ, 1983, SOCIOL QUART, V24, P367, DOI 10.1111/j.1533-8525.1983.tb00707.x
+   SOUTH SJ, 1982, AM SOCIOL REV, V47, P587, DOI 10.2307/2095160
+   SPARROWE RT, 1995, WEAK TIES STRUCTURAL
+   SUDMAN S, 1988, SOC NETWORKS, V10, P93, DOI 10.1016/0378-8733(88)90012-3
+   TUMA NB, 1979, SOC FORCES, V57, P1265, DOI 10.2307/2577270
+   van Duijn MAJ, 1999, SOC NETWORKS, V21, P187, DOI 10.1016/S0378-8733(99)00009-X
+   VERBRUGGE LM, 1983, SOC FORCES, V62, P78, DOI 10.2307/2578348
+   VERBRUGGE LM, 1977, SOC FORCES, V56, P576, DOI 10.2307/2577741
+   Wellman B, 1996, ANNU REV SOCIOL, V22, P213, DOI 10.1146/annurev.soc.22.1.213
+   Wellman B, 1996, SOC NETWORKS, V18, P347, DOI 10.1016/0378-8733(95)00282-0
+   Wellman B, 1926, J EDUC RES, V14, P126, DOI 10.1080/00220671.1926.10879675
+   Wright Erik Olin, 1997, Class Counts: Comparative Studies in Class Analysis
+   YAMAGUCHI K, 1990, J AM STAT ASSOC, V85, P356, DOI 10.2307/2289771
+NR 153
+TC 10867
+Z9 13394
+U1 65
+U2 1719
+PU ANNUAL REVIEWS
+PI PALO ALTO
+PA 4139 EL CAMINO WAY, PO BOX 10139, PALO ALTO, CA 94303-0139 USA
+SN 0360-0572
+J9 ANNU REV SOCIOL
+JI Annu. Rev. Sociol.
+PY 2001
+VL 27
+BP 415
+EP 444
+DI 10.1146/annurev.soc.27.1.415
+PG 30
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA 468FU
+UT WOS:000170748100017
+DA 2024-11-22
+ER

@@ -1,0 +1,463 @@
+
+PT J
+AU Snijders, TAB
+   Steglich, CEG
+AF Snijders, Tom A. B.
+   Steglich, Christian E. G.
+TI Representing Micro-Macro Linkages by Actor-based Dynamic Network Models
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+DE statistical inference; agent-based simulation; social networks;
+   micro-macro link; emergence
+ID RANDOM GRAPH MODELS; SOCIAL NETWORKS; SOCIOLOGY
+AB Stochastic actor-based models for network dynamics have the primary aim of statistical inference about processes of network change, but may be regarded as a kind of agent-based models. Similar to many other agent-based models, they are based on local rules for actor behavior. Different from many other agent-based models, by including elements of generalized linear statistical models they aim to be realistic detailed representations of network dynamics in empirical data sets. Statistical parallels to micro-macro considerations can be found in the estimation of parameters determining local actor behavior from empirical data, and the assessment of goodness of fit from the correspondence with network-level descriptives. This article studies several network-level consequences of dynamic actor-based models applied to represent cross-sectional network data. Two examples illustrate how network-level characteristics can be obtained as emergent features implied by microspecifications of actor-based models.
+C1 [Snijders, Tom A. B.] Univ Oxford Nuffield Coll, Dept Stat, Oxford OX1 1NF, England.
+   [Snijders, Tom A. B.] Univ Groningen, Stat & Methodol, Groningen, Netherlands.
+   [Steglich, Christian E. G.] Univ Groningen, Dept Sociol, Groningen, Netherlands.
+   [Steglich, Christian E. G.] Univ Groningen, Interuniv Ctr Social Sci Theory & Methodol, Groningen, Netherlands.
+C3 University of Oxford; University of Groningen; University of Groningen;
+   University of Groningen
+RP Snijders, TAB (corresponding author), Univ Oxford Nuffield Coll, Dept Stat, Oxford OX1 1NF, England.
+EM tom.snijders@nuffield.ox.ac.uk
+RI ; Snijders, Tom/F-2896-2012
+OI Steglich, Christian/0000-0002-9097-0873; Snijders,
+   Tom/0000-0003-3157-4157
+FU NIH [1R01HD052887-01A2]
+FX The authors would like to thank Gianluca Manzo for comments on an
+   earlier version. RSiena development was funded by the NIH (Grant Number
+   1R01HD052887-01A2, principal investigator: John Light, Oregon Research
+   Institute).
+CR [Anonymous], 2011, R LANG ENV STAT COMP
+   [Anonymous], FRONTIERS ECONOMETRI
+   [Anonymous], 2003, DISCRETE CHOICE METH
+   [Anonymous], 1999, Introducing Social Networks, DOI 10.4135/9781849209373
+   [Anonymous], 1985, Encyclopedia of Statistical Sciences, Volume
+   [Anonymous], 2001, The collegial phenomenon: The social mechanisms of cooperation among peers in a corporate law partnership
+   [Anonymous], 1955, DYNAMICS BUREAUCRACY
+   [Anonymous], 2006, Methodology
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   BARTON AH, 1968, AM BEHAV SCI, V12, P1, DOI 10.1177/000276426801200201
+   Boero R, 2005, JASSS-J ARTIF SOC S, V8
+   DAVIS JA, 1970, AM SOCIOL REV, V35, P843, DOI 10.2307/2093295
+   de Solla PriceD. J., 1976, J ASIS, V27, P292
+   ERDOS P, 1960, B INT STATIST INST, V38, P343
+   FRANK O, 1980, J MATH SOCIOL, V7, P199, DOI 10.1080/0022250X.1980.9989907
+   Goodreau SM, 2009, DEMOGRAPHY, V46, P103, DOI 10.1353/dem.0.0045
+   Hedstrom Peter, 2009, The Oxford Handbook of Analytical Sociology
+   Helbing D., 2011, SANTA FE I WORKING P
+   Hintze JL, 1998, AM STAT, V52, P181, DOI 10.2307/2685478
+   Holland PW., 1976, Sociol. Methodol, V7, P1, DOI [DOI 10.2307/270703, 10.2307/270703]
+   Hunter DR, 2008, J AM STAT ASSOC, V103, P248, DOI 10.1198/016214507000000446
+   Hunter DR, 2007, SOC NETWORKS, V29, P216, DOI 10.1016/j.socnet.2006.08.005
+   Koskinen JH, 2007, J STAT PLAN INFER, V137, P3930, DOI 10.1016/j.jspi.2007.04.011
+   Krackhardt D., 1994, Computational organization theory, P89
+   Lazarsfeld P.F., 1954, Freedom and Control in Modern Society, P18, DOI DOI 10.1111/J.1467-8705.2012.02056_3.X
+   Lazega E, 1997, SOC NETWORKS, V19, P375, DOI 10.1016/S0378-8733(97)00006-3
+   Macy MW, 2002, ANNU REV SOCIOL, V28, P143, DOI 10.1146/annurev.soc.28.110601.141117
+   Manzo G, 2007, REV FR SOCIOL, V48, P35, DOI 10.3917/rfs.485.0035
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   MERTON RK, 1968, SCIENCE, V159, P56, DOI 10.1126/science.159.3810.56
+   Michell L, 1997, SOC SCI MED, V44, P1861, DOI 10.1016/S0277-9536(96)00295-X
+   Michell L., 1996, HDB PEDIAT ADOLESCEN, P179
+   Milo R, 2002, SCIENCE, V298, P824, DOI 10.1126/science.298.5594.824
+   Moss S, 2008, JASSS-J ARTIF SOC S, V11
+   Newman MEJ, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.208701
+   Pattison P., 2011, 27 EGOS C JUL 6 9 GO
+   Pearson M., 2003, CONNECTIONS, V25, P59
+   Raub W, 2011, J MATH SOCIOL, V35, P1, DOI 10.1080/0022250X.2010.532263
+   Ripley R.M., 2012, Manual for SIENA version 4.0
+   Robins G, 2005, AM J SOCIOL, V110, P894, DOI 10.1086/427322
+   SIMON HA, 1956, PSYCHOL REV, V63, P129, DOI 10.1037/h0042769
+   Snijders T. A. B., 2011, 31 SUNB SOC NETW C F
+   Snijders TAB, 2001, SOCIOL METHODOL, V31, P361, DOI 10.1111/0081-1750.00099
+   SNIJDERS TAB, 1981, SOC NETWORKS, V3, P163, DOI 10.1016/0378-8733(81)90014-9
+   Snijders TAB, 1996, J MATH SOCIOL, V21, P149, DOI 10.1080/0022250X.1996.9990178
+   Snijders TAB, 2006, SOCIOL METHODOL, V36, P99, DOI 10.1111/j.1467-9531.2006.00176.x
+   Snijders TAB, 2010, ANN APPL STAT, V4, P567, DOI 10.1214/09-AOAS313
+   Snijders TAB, 2010, SOC NETWORKS, V32, P44, DOI 10.1016/j.socnet.2009.02.004
+   Steglich C., 2007, 27 SUNB SOC NETW C M
+   Steglich C., 2006, 26 SUNB SOC NETW C A
+   Steglich C, 2010, SOCIOL METHODOL, V40, P329, DOI 10.1111/j.1467-9531.2010.01225.x
+   Wasserman S, 1996, PSYCHOMETRIKA, V61, P401, DOI 10.1007/BF02294547
+   Wasserman S., 2005, MODELS METHODS SOCIA
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   Watts DJ, 1999, AM J SOCIOL, V105, P493, DOI 10.1086/210318
+   [No title captured]
+NR 56
+TC 64
+Z9 67
+U1 1
+U2 32
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+EI 1552-8294
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD MAY
+PY 2015
+VL 44
+IS 2
+SI SI
+BP 222
+EP 271
+DI 10.1177/0049124113494573
+PG 50
+WC Social Sciences, Mathematical Methods; Sociology
+WE Social Science Citation Index (SSCI)
+SC Mathematical Methods In Social Sciences; Sociology
+GA CG3UD
+UT WOS:000353204200003
+PM 25960578
+OA Green Published, Green Accepted
+DA 2024-11-22
+ER
+
+PT J
+AU Rand, W
+   Herrmann, J
+   Schein, B
+   Vodopivec, N
+AF Rand, William
+   Herrmann, Jeffrey
+   Schein, Brandon
+   Vodopivec, Neza
+TI An Agent-Based Model of Urgent Diffusion in Social Media
+SO JASSS-THE JOURNAL OF ARTIFICIAL SOCIETIES AND SOCIAL SIMULATION
+LA English
+DT Article
+DE Urgent Diffusion; Diffusion of Information; News; Social Networks;
+   Twitter
+ID RUMOR SPREADING MODEL
+AB During a crisis, understanding the diffusion of information throughout a population will provide insights into how quickly the population will react to the information, which can help those who need to respond to the event. The advent of social media has resulted in this information spreading quicker then ever before, and in qualitatively different ways, since people no longer need to be in face-to-face contact or even know each other to pass on information in an crisis situation. Social media also provides a wealth of data about this information diffusion since much of the communication happening within this platform is publicly viewable. This data trove provides researchers with unique information that can be examined and modeled in order to understand urgent diffusion. A robust model of urgent diffusion on social media would be useful to any stakeholders who are interested in responding to a crisis situation. In this paper, we present two models, grounded in social theory, that provide insight into urgent diffusion dynamics on social networks using agent-based modeling. We then explore data collected from Twitter during four major urgent diffusion events including: (1) the capture of Osama Bin Laden, (2) Hurricane Irene, (3) Hurricane Sandy, and (4) Election Night 2012. We illustrate the diffusion of information during these events using network visualization techniques, showing that there appear to be differences. After that, we fit the agent-based models to the observed empirical data. The results show that the models fit qualitatively similarly, but the diffusion patterns of these events are indeed quite different from each other.
+C1 [Rand, William] Univ Maryland, RH Smith Sch Business, College Pk, MD 20742 USA.
+   [Herrmann, Jeffrey] Univ Maryland, Mech Engn & Inst Syst Res, College Pk, MD 20742 USA.
+   [Schein, Brandon] Aegis Construct Consultants, Silver Spring, MD 20910 USA.
+   [Vodopivec, Neza] Univ Maryland, Dept Math, Appl Math & Sci Computat Program, College Pk, MD 20742 USA.
+C3 University System of Maryland; University of Maryland College Park;
+   University System of Maryland; University of Maryland College Park;
+   University System of Maryland; University of Maryland College Park
+RP Rand, W (corresponding author), Univ Maryland, RH Smith Sch Business, 3457 Van Munching Hall, College Pk, MD 20742 USA.
+EM wrand@umd.edu; wh2@umd.edu; scheinb@gmail.com; nvodopivec1@gmail.com
+RI Rand, Bill/HLQ-7168-2023
+OI Rand, William/0000-0002-8294-1757
+CR Abbasi Mohammad-Ali, 2012, Social Computing, Behavioral-Cultural Modeling and Prediction. Proceedings of the 5th International Conference, SBP 2012, P282, DOI 10.1007/978-3-642-29047-3_34
+   [Anonymous], 2008, Proceedings of the ACM 2008 Conference on Computer Supported Cooperative Work (CSCW 2008)
+   BASS FM, 1969, MANAGE SCI, V15, P215, DOI 10.1287/mnsc.15.5.215
+   Bastian M, 2009, GEPHI OPEN SOURCE SO, DOI [DOI 10.1609/ICWSM.V3I1.13937, 10.13140/2.1.1341.1520]
+   Borge-Holthoefer J, 2013, J COMPLEX NETW, V1, P3, DOI 10.1093/comnet/cnt006
+   Goldenberg J, 2001, MARKET LETT, V12, P211, DOI 10.1023/A:1011122126881
+   GRANOVETTER M, 1978, AM J SOCIOL, V83, P1420, DOI 10.1086/226707
+   Grimm V, 2010, ECOL MODEL, V221, P2760, DOI 10.1016/j.ecolmodel.2010.08.019
+   Hughes AL, 2009, INT J EMERG MANAG, V6, P248, DOI 10.1504/IJEM.2009.031564
+   Lerman K., 2010, P 4 INT AAAI C WEBL, P90
+   Nekovee M, 2007, PHYSICA A, V374, P457, DOI 10.1016/j.physa.2006.07.017
+   Palen L., 2010, Proceedings of the 2010 ACM-BCS Visions of Computer Science Conference p, P8
+   Rand W, 2011, INT J RES MARK, V28, P181, DOI 10.1016/j.ijresmar.2011.04.002
+   Rogers EM., 1983, Diffusion of Innovations, V3
+   Sutton J., 2008, P 5 INT ISCRAM C WAS
+   TRUSOV Michael, 2013, WORKING PAPER
+   Valente Thomas W., 1995, Quantitative Methods in Communication
+   Verma S., 2011, P ICWSM
+   Verma S., 2011, P 5 INT AAAI C WEBL
+   Vieweg S, 2010, CHI2010: PROCEEDINGS OF THE 28TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, VOLS 1-4, P1079, DOI 10.1145/1753326.1753486
+   Watts DJ, 2002, P NATL ACAD SCI USA, V99, P5766, DOI 10.1073/pnas.082090499
+   Yin J, 2012, IEEE INTELL SYST, V27, P52, DOI 10.1109/MIS.2012.6
+   Zhang ZL, 2009, PHYSICA A, V388, P4159, DOI 10.1016/j.physa.2009.06.020
+   Zhao LJ, 2012, PHYSICA A, V391, P2444, DOI 10.1016/j.physa.2011.12.008
+   Zhao LJ, 2011, PHYSICA A, V390, P2619, DOI 10.1016/j.physa.2011.03.010
+NR 25
+TC 35
+Z9 39
+U1 0
+U2 34
+PU J A S S S
+PI GUILDFORD
+PA UNIV SURREY, DEPT SOCIOLOGY, GUILDFORD GU2 7XH, SURREY, ENGLAND
+SN 1460-7425
+J9 JASSS-J ARTIF SOC S
+JI JASSS
+PD MAR 31
+PY 2015
+VL 18
+IS 2
+AR 1
+PG 24
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA CH9RL
+UT WOS:000354373800005
+DA 2024-11-22
+ER
+
+PT J
+AU Ruan, DC
+   Zhu, S
+AF Ruan, Danching
+   Zhu, Shu
+TI Birds of a Feather: A Case Study of Friendship Networks of Mainland
+   Chinese College Students in Hong Kong
+SO AMERICAN BEHAVIORAL SCIENTIST
+LA English
+DT Article
+DE social networks; friendship formation; homophily; Mainland Chinese
+   students; Hong Kong
+ID DISTANCE; RACE
+AB We examine the formation process of friendship networks of Mainland Chinese undergraduates in Hong Kong. The data comes from a 2011 survey of Mainland undergraduates at a university in Hong Kong and from in-depth interviews with students. We found a strong in-group pattern in the friendship networks of these students. More than 60% do not have good local friends. On a campus where nearly 90% of the students are locals, on average, only 18% of the good friends named by Mainland students are locals. We find that cultural differencessuch as the language barrier, differences in values and ideologies, and differences in academic orientation and future plandiscourage formation of intergroup friendship. But intergroup contacts, as indicated by participation in local organizations, have positive effects on intergroup friendship formation. Both contact opportunities and their timing (i.e., when they become available) are important. During their first year, Mainland students have many more opportunities to interact with other Mainlanders than with local students. This may also be an important factor accounting for the strong in-group pattern in Mainland students' friendship networks.
+C1 [Ruan, Danching; Zhu, Shu] Hong Kong Baptist Univ, Dept Sociol, Kowloon Tong, Hong Kong, Peoples R China.
+C3 Hong Kong Baptist University
+RP Ruan, DC (corresponding author), Hong Kong Baptist Univ, Dept Sociol, Kowloon Tong, Hong Kong, Peoples R China.
+EM druan@hkbu.edu.hk
+OI Ruan, Danching/0000-0001-7640-0690
+CR Allport GW., 1954, NATURE PREJUDICE
+   CARLEY K, 1991, AM SOCIOL REV, V56, P331, DOI 10.2307/2096108
+   Chan E, 2014, J CONTEMP CHINA, V23, P952, DOI 10.1080/10670564.2014.882623
+   Cheung C.K., 1998, SOC PSYCHOL EDUC, V2, P217, DOI DOI 10.1023/B:SPOE.0000043037.50935.65
+   Chiu SWK, 2005, INT MIGR REV, V39, P203
+   DAVIS JA, 1963, AM J SOCIOL, V68, P444, DOI 10.1086/223401
+   FELD SL, 1981, AM J SOCIOL, V86, P1015, DOI 10.1086/227352
+   Frank KA, 2013, AM J SOCIOL, V119, P216, DOI 10.1086/672081
+   Heider F, 1946, J PSYCHOL, V21, P107, DOI 10.1080/00223980.1946.9917275
+   Kossinets G, 2009, AM J SOCIOL, V115, P405, DOI 10.1086/599247
+   Lau S.K., 1988, ETHOS HONG KONG CHIN
+   MCPHERSON JM, 1987, AM SOCIOL REV, V52, P370, DOI 10.2307/2095356
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Moody J, 2001, AM J SOCIOL, V107, P679, DOI 10.1086/338954
+   Smith JA, 2014, AM SOCIOL REV, V79, P432, DOI 10.1177/0003122414531776
+   Stearns E, 2009, SOCIOL EDUC, V82, P173, DOI 10.1177/003804070908200204
+   Sullivan H.S., 1953, The interpersonal theory of psychiatry
+   University Grants Committee, 2011, NONL STUD ENR UGC FU
+   Wimmer A, 2010, AM J SOCIOL, V116, P583, DOI 10.1086/653658
+   Zhu S., 2012, THESIS HONG KONG BAP
+NR 20
+TC 9
+Z9 12
+U1 1
+U2 25
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0002-7642
+EI 1552-3381
+J9 AM BEHAV SCI
+JI Am. Behav. Sci.
+PD AUG
+PY 2015
+VL 59
+IS 9
+SI SI
+BP 1100
+EP 1114
+DI 10.1177/0002764215580616
+PG 15
+WC Psychology, Clinical; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology; Social Sciences - Other Topics
+GA CM8JW
+UT WOS:000357947500004
+DA 2024-11-22
+ER
+
+PT J
+AU van Tubergen, F
+   Volker, B
+AF van Tubergen, Frank
+   Volker, Beate
+TI Inequality in Access to Social Capital in the Netherlands
+SO SOCIOLOGY-THE JOURNAL OF THE BRITISH SOCIOLOGICAL ASSOCIATION
+LA English
+DT Article
+DE homophily; inequality; personal networks; social capital; social
+   networks
+ID NETWORKS; RESOURCES; RETURN
+AB Whereas much research has been done on the benefits of social capital, less is known about the causes of the unequal distribution of social capital in people's networks. This study examines inequalities in access to social capital in terms of the socio-economic resources that are embedded in personal networks. Using data from NELLS, a nationally representative survey of the Dutch population aged 15-45 years, results show that within this age group access to social capital increases with age and educational qualifications, and is lower among women. Residing in a less affluent neighbourhood and scoring lower on a measurement for cognitive abilities are associated with less social capital. Participation in voluntary associations and having an ethnically diverse network are associated with more access to social capital. Surprisingly, when studying differences across national origin groups, we do not find that Turkish immigrants are disadvantaged in access to social capital.
+C1 [van Tubergen, Frank; Volker, Beate] Univ Utrecht, Dept Sociol, NL-3584 CH Utrecht, Netherlands.
+   [van Tubergen, Frank] King Abdulaziz Univ, Jeddah 21413, Saudi Arabia.
+C3 Utrecht University; King Abdulaziz University
+RP van Tubergen, F (corresponding author), Univ Utrecht, Dept Sociol, Padualaan 14, NL-3584 CH Utrecht, Netherlands.
+EM f.vantubergen@uu.nl
+RI van Tubergen, Frank/B-7885-2013
+OI van Tubergen, Frank/0000-0002-6415-2877
+FU Netherlands Organisation for Scientific Research (NWO) [452-09-011]
+FX This research was funded by the Netherlands Organisation for Scientific
+   Research (NWO) (project no. 452-09-011).
+CR [Anonymous], KOLNER Z SOZIOLOGIE
+   Baerveldt C, 2004, SOC NETWORKS, V26, P55, DOI 10.1016/j.socnet.2004.01.003
+   Behtoui A, 2008, J ETHN MIGR STUD, V34, P411, DOI 10.1080/13691830701880251
+   Behtoui A, 2007, EUR SOC, V9, P383, DOI 10.1080/14616690701314093
+   Bourdieu Pierre., 1984, DISTINCTION SOCIAL C, DOI DOI 10.1002/9780470755679.CH15
+   Charmaz K., 2006, Brokerage and closure: An introduction to social capital
+   Chen CJJ, 2009, ROUTL ADV SOCIOL, V43, P193
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   De Graaf P. M., 2010, The NEtherlands Longitudinal Lifecourse Study (NELLS Wave 1)
+   Erel U, 2010, SOCIOLOGY, V44, P642, DOI 10.1177/0038038510369363
+   Erickson BonnieH., 2004, CREATION RETURNS SOC, P27
+   Eve M, 2010, ETHNIC RACIAL STUD, V33, P1231, DOI 10.1080/01419871003624084
+   Fennema M., 1999, J ETHN MIGR STUD, V25, P703, DOI DOI 10.1080/1369183X.1999.9976711
+   Firebaugh Glenn., 2008, Seven Rules for Social Research
+   Fischer ClaudeMichael Hout., 1996, INEQUALITY DESIGN CR
+   Flap H., 2013, HDB RATIONAL CHOICE, P220
+   Granovetter M, 1995, Getting a Job: A Study of Contacts and Careers
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Kalmijn M, 1998, ANNU REV SOCIOL, V24, P395, DOI 10.1146/annurev.soc.24.1.395
+   Kalmijn M, 2002, EUR SOCIOL REV, V18, P101, DOI 10.1093/esr/18.1.101
+   Lai Gina., 2008, Social Capital, P342
+   Li YJ, 2008, BRIT J SOCIOL, V59, P391, DOI 10.1111/j.1468-4446.2008.00200.x
+   LIN N, 1986, SOC NETWORKS, V8, P365, DOI 10.1016/0378-8733(86)90003-1
+   Lin N, 2000, CONTEMP SOCIOL, V29, P785, DOI 10.2307/2654086
+   Lin N, 1999, ANNU REV SOCIOL, V25, P467, DOI 10.1146/annurev.soc.25.1.467
+   Lin N., 2002, SOCIAL CAPITAL THEOR
+   Lin N, 2009, ROUTL ADV SOCIOL, V43, P163
+   Lin Nan., 2008, Social Capital: An International Research Program, P1, DOI DOI 10.1093/ACPROF:OSO/9780199234387.003.0010
+   Martinovic B, 2009, SOC SCI RES, V38, P870, DOI 10.1016/j.ssresearch.2009.06.001
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Merens JGF, 2011, EMANCIPATIEMONITOR 2
+   Moren-Cross Jennifer., 2008, SOCIAL CAPITAL INT R, P364, DOI DOI 10.1093/ACPROF:OSO/9780199234387.003.0161
+   Pinkster F, 2009, J URBAN AFF, V31, P213, DOI 10.1111/j.1467-9906.2009.00442.x
+   Pinkster FM, 2009, HOUSING STUD, V24, P225, DOI 10.1080/02673030802704329
+   Putnam Robert D., 2000, BOWLING ALONE COLLAP, DOI 10.1145/358916.361990
+   Ruiter S, 2009, EUR SOCIOL REV, V25, P425, DOI 10.1093/esr/jcn051
+   Ryan L, 2011, SOCIOL REV, V59, P707, DOI 10.1111/j.1467-954X.2011.02030.x
+   Small ML, 2007, SOC SCI QUART, V88, P320, DOI 10.1111/j.1540-6237.2007.00460.x
+   Smith KP, 2008, ANNU REV SOCIOL, V34, P405, DOI 10.1146/annurev.soc.34.040507.134601
+   Van Der Gaag M, 2005, SOC NETWORKS, V27, P1, DOI 10.1016/j.socnet.2004.10.001
+   van der Gaag M., 2008, SOCIAL CAPITAL, P27, DOI DOI 10.1093/ACPROF:OSO/9780199234387.003.0011
+   Van der Gaag MPJ, 2005, THESIS ICS GRONINGEN
+   van Tubergen F, 2015, J ETHN MIGR STUD, V41, P101, DOI 10.1080/1369183X.2014.886955
+   van Tubergen F, 2014, ETHNIC RACIAL STUD, V37, P1020, DOI 10.1080/01419870.2012.734390
+   Völker B, 1999, ACTA SOCIOL, V42, P17, DOI 10.1177/000169939904200102
+   Wilson WilliamJ., 1984, The Truly Disadvantaged: The Inner City, the Underclass, and Public Policy
+NR 46
+TC 52
+Z9 55
+U1 1
+U2 37
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0038-0385
+EI 1469-8684
+J9 SOCIOLOGY
+JI Sociol.-J. Brit. Sociol. Assoc.
+PD JUN
+PY 2015
+VL 49
+IS 3
+BP 521
+EP 538
+DI 10.1177/0038038514543294
+PG 18
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA CI6BC
+UT WOS:000354842600008
+OA Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Choi, S
+   Park, HW
+AF Choi, Sujin
+   Park, Han Woo
+TI Networking Interest and Networked Structure: A Quantitative Analysis of
+   Twitter Data
+SO SOCIAL SCIENCE COMPUTER REVIEW
+LA English
+DT Article
+DE online community; Twitter; quantitative evaluation; web impact analysis;
+   social network analysis; hyperlink
+ID SOUTH-KOREA; MOTIVATION; WEB; COMMUNICATION; INFORMATION
+AB This study examines the relationship between individuals' networking interests and a group's networked structure. The data set includes 25,651 members and 12,638 mentions from Twitter-mediated communities in South Korea. Using social network and web impact analyses, we investigated the micro- and macro linkage between individuals' interests and groups' structure, the meso-level analysis of individual-to-individual relationships, and the hyperlinked content shared in each community. Findings suggest that different interests of individuals in joining online communities were associated with variations in those communities' network structures: Communities with sociopolitical goals had a denser network structure and communities for interpersonal interests had a more reciprocated network. Communities for information access exhibited greater dependence on a single member, contrary to the communities for information sharing. Types of content shared in the communities also varied by interests. These findings led us to compose a network topology with visual representation, based on sociopolitical, informational, and interpersonal interests.
+C1 [Choi, Sujin] Kookmin Univ, Sch Commun, Seoul, South Korea.
+   [Park, Han Woo] Yeungnam Univ, Dept Media & Commun, Gyongsan 712749, Gyeongsangbuk D, South Korea.
+C3 Kookmin University; Yeungnam University
+RP Park, HW (corresponding author), Yeungnam Univ, 214-1 Dae Dong, Gyongsan 712749, Gyeongsangbuk D, South Korea.
+EM sujinchoi2012@gmail.com; hanpark@ynu.ac.kr
+RI Park, Han/F-4051-2011; Choi, Sujin/AAH-9255-2020
+OI Choi, Sujin/0000-0002-7665-0734
+FU World Class University program of the National Research Foundation of
+   Korea - Ministry of Education, Science and Technology [515-82-06574]
+FX The authors disclosed receipt of the following financial support for the
+   research, authorship, and/or publication of this article: This research
+   was supported by the World Class University program of the National
+   Research Foundation of Korea, funded by the Ministry of Education,
+   Science and Technology (No. 515-82-06574).
+CR [Anonymous], ROLE INFLUENTIAL MOB
+   [Anonymous], 2001, Social capital: theory and research
+   [Anonymous], 2000, UCINET 6 0 VERSION 1
+   [Anonymous], 2009, INTRO WEBOMETRICS QU, DOI DOI 10.1007/978-3-031-02261-6
+   [Anonymous], 2010, ANAL SOC MEDIA NETWO
+   Beaudoin CE, 2008, J COMPUT-MEDIAT COMM, V13, P550, DOI 10.1111/j.1083-6101.2008.00410.x
+   Burt R.S., 2018, Social Stratification, P659
+   Chen WH, 2009, ENTREP THEORY PRACT, V33, P1079, DOI 10.1111/j.1540-6520.2009.00335.x
+   Cho SE, 2013, MEDIA INT AUST, P28, DOI 10.1177/1329878X1314900105
+   Choi S, 2014, NEW MEDIA SOC, V16, P129, DOI 10.1177/1461444813487956
+   Choi S, 2012, SCIENTOMETRICS, V90, P43, DOI 10.1007/s11192-011-0514-7
+   Etnews, 2011, ETNEWS          1105
+   Giddens A., 1976, NEW RULES SOCIOLOGIC
+   Goel S., 2012, P 13 ACM C EL COMM, P623
+   HAMMER M, 1984, SOC NETWORKS, V6, P341, DOI 10.1016/0378-8733(84)90008-X
+   Hanneman RA, 2005, Introduction to social network methods
+   Haynie DL, 2001, AM J SOCIOL, V106, P1013, DOI 10.1086/320298
+   HILL CA, 1987, J PERS SOC PSYCHOL, V52, P1008, DOI 10.1037/0022-3514.52.5.1008
+   Hogan B., 2008, SAGE HDB ONLINE RES, P141, DOI DOI 10.4135/9780857020055.N8
+   Hogg M.A., 1993, GROUP MOTIVATION SOC
+   Hsu C.L., 2013, Journal of Contemporary Eastern Asia, V12, P65, DOI DOI 10.17477/JCEA.2013.12.1.065
+   Joinson A. N., 2008, CHI 2008 P FLOR IT, DOI 10.1.1.168.3722[1]
+   Jung B., 2011, BLOTER          0904
+   Kadushin C, 2004, SOC NETWORKS, V26, P75, DOI 10.1016/j.socnet.2004.01.009
+   Kadushin C, 2002, SOC NETWORKS, V24, P77, DOI 10.1016/S0378-8733(01)00052-1
+   Kim HJ, 2000, J AM SOC INFORM SCI, V51, P887, DOI 10.1002/1097-4571(2000)51:10<887::AID-ASI20>3.0.CO;2-1
+   Kim HJ, 1997, AM SOCIOL REV, V62, P70, DOI 10.2307/2657453
+   Kousha K, 2006, SCIENTOMETRICS, V68, P501, DOI 10.1007/s11192-006-0126-9
+   Large A, 2000, J AM SOC INFORM SCI, V51, P1069, DOI 10.1002/1097-4571(2000)9999:9999<::AID-ASI1017>3.0.CO;2-W
+   Lewis K, 2008, SOC NETWORKS, V30, P330, DOI 10.1016/j.socnet.2008.07.002
+   Lorentzen DG, 2014, SCIENTOMETRICS, V99, P409, DOI 10.1007/s11192-013-1227-x
+   Lusher D., 2011, J SOCIAL STRUCTURE, V12
+   Otterbacher J., 2013, Journal of Contemporary Eastern Asia, V12, P5, DOI DOI 10.17477/JCEA.2013.12.1.005
+   Park HW, 2010, J COMPUT-MEDIAT COMM, V15, P211, DOI 10.1111/j.1083-6101.2010.01517.x
+   Ren YQ, 2014, HUM-COMPUT INTER-US, V29, P351, DOI 10.1080/07370024.2013.828565
+   Ridings C. M., 2004, J COMPUT-MEDIAT COMM, V10, DOI [10.1111/j.1083-6101.2004.tb00229, DOI 10.1111/J.1083-6101.2004.TB00229.X, 10.1111/j.1083-6101.2004.tb00229.x]
+   Sams S, 2014, J COMPUT-MEDIAT COMM, V19, P294, DOI 10.1111/jcc4.12053
+   Sams S, 2011, ASIAN J COMMUN, V21, P450, DOI 10.1080/01292986.2011.594897
+   SEWELL WH, 1992, AM J SOCIOL, V98, P1, DOI 10.1086/229967
+   SHERMAN JD, 1984, ACAD MANAGE J, V27, P877, DOI 10.5465/255885
+   Snijders T.A., 1999, Connections, V22, P161
+   Wang Y., 2003, Electronic Markets, V13, P33, DOI 10.1080/1019678032000052934
+   Wellman B., 1983, SOCIOL THEORY, V1, P155, DOI [10.2307/202050, DOI 10.2307/202050]
+   Wilkinson D, 2003, J INFORM SCI, V29, P49, DOI 10.1177/016555150302900105
+   ZEGGELINK E, 1995, SOC NETWORKS, V17, P83, DOI 10.1016/0378-8733(94)00246-7
+NR 45
+TC 8
+Z9 9
+U1 2
+U2 48
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0894-4393
+EI 1552-8286
+J9 SOC SCI COMPUT REV
+JI Soc. Sci. Comput. Rev.
+PD APR
+PY 2015
+VL 33
+IS 2
+BP 145
+EP 162
+DI 10.1177/0894439314527054
+PG 18
+WC Computer Science, Interdisciplinary Applications; Information Science &
+   Library Science; Social Sciences, Interdisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science; Information Science & Library Science; Social Sciences
+   - Other Topics
+GA CD4KS
+UT WOS:000351051900002
+DA 2024-11-22
+ER

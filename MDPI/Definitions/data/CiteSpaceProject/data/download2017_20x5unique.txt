@@ -1,0 +1,519 @@
+
+PT J
+AU Lesser, O
+   Naamani-Dery, L
+   Kalech, M
+   Elovici, Y
+AF Lesser, Ofrit
+   Naamani-Dery, Lihi
+   Kalech, Meir
+   Elovici, Yuval
+TI Group Decision Support for Leisure Activities Using Voting and Social
+   Networks
+SO GROUP DECISION AND NEGOTIATION
+LA English
+DT Article
+DE Social networks; Voting; Group recommender; Decision support systems
+ID ELICITATION
+AB A group of people is often required to reach a joint decision and choose a single activity in which they will all participate. Members of such group often interact via online social networks. Group decision making requires knowledge of members' preferences; however, in many cases the members' preferences are not fully available. We consider a scenario where preferences are known only partially and present a group decision support framework that determines a single winning item using a voting procedure while minimizing the number of queries for members' preferences. The framework uses a probabilistic algorithm based on the social similarity among the group members. To evaluate our framework we have built LetsDoIt, a decision support system prototype for leisure actives. We compared several types of groups and prediction methods and reveal that for groups with high internal social similarity, the algorithm reaches a decision using fewer queries, and thus less communication with the users is required. Moreover, the runtime of the algorithms using social based prediction methods is less than half that of the algorithm using rating based prediction methods. These results suggest that incorporating social similarity data, when available, can be of value.
+C1 [Lesser, Ofrit; Kalech, Meir; Elovici, Yuval] Ben Gurion Univ Negev, Dept Informat Syst Engn, Beer Sheva, Israel.
+   [Naamani-Dery, Lihi] Ariel Univ, Ind Engn & Management Dept, Ariel, Israel.
+   [Elovici, Yuval] Ben Gurion Univ Negev, Telekom Innovat Labs, Beer Sheva, Israel.
+C3 Ben Gurion University; Ariel University; Ben Gurion University
+RP Lesser, O (corresponding author), Ben Gurion Univ Negev, Dept Informat Syst Engn, Beer Sheva, Israel.
+EM lessero@post.bgu.ac.il; lihid@ariel.ac.il; kalech@bgu.ac.il;
+   elovici@bgu.ac.il
+RI Kalech, Meir/AAC-5476-2019; Dery, Lihi/S-5719-2016
+OI Lesser, Ofrit/0000-0002-5735-9167; Kalech, Meir/0000-0001-7394-4713;
+   Dery, Lihi/0000-0002-8710-3349
+CR [Anonymous], 2011, INTRO RECOMMENDER SY
+   [Anonymous], 2011, IJCAI
+   [Anonymous], 2009, Proceedings of the 18th ACM conference on Information and knowledge management
+   [Anonymous], 1994, SOCIAL NETWORK ANAL
+   [Anonymous], 2005, Proceedings of the Eleventh ACM SIGKDD International Conference on Knowledge Discovery in Data Mining, DOI DOI 10.1145/1081870.1081956
+   Ben-Shimon D, 2007, ADV SOFT COMP, V43, P47, DOI 10.1007/978-3-540-72575-6_8
+   Betzler N, 2009, 21ST INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI-09), PROCEEDINGS, P53
+   Blondel VD, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/10/P10008
+   Christakis NA, 2009, Connected: The Surprising Power of Our Social Networks and How They Shape Our Lives
+   Conitzer Vincent, 2005, P 6 ACM C EL COMM, P78
+   Crandall DavidJ., 2008, KDD, P160, DOI 10.1145/1401890.1401914
+   Dery LN, 2014, INFORM SCIENCES, V278, P466, DOI 10.1016/j.ins.2014.03.065
+   DESANCTIS G, 1987, MANAGE SCI, V33, P589, DOI 10.1287/mnsc.33.5.589
+   Easley D., 2010, NETWORKS CROWDS MARK
+   Fire M., 2011, Proceedings of the 2011 IEEE Third International Conference on Privacy, Security, Risk and Trust and IEEE Third International Conference on Social Computing (PASSAT/SocialCom 2011), P73, DOI 10.1109/PASSAT/SocialCom.2011.20
+   Fire M, 2013, ACM T INTEL SYST TEC, V5, DOI 10.1145/2542182.2542192
+   García S, 2010, INFORM SCIENCES, V180, P2044, DOI 10.1016/j.ins.2009.12.010
+   Gaspers S, 2014, AAMAS'14: PROCEEDINGS OF THE 2014 INTERNATIONAL CONFERENCE ON AUTONOMOUS AGENTS & MULTIAGENT SYSTEMS, P613
+   GIBBARD A, 1973, ECONOMETRICA, V41, P587, DOI 10.2307/1914083
+   Hanneman RA, 2005, Introduction to social network methods
+   HAYTHORNTHWAITE C, 1995, GROUP DECIS NEGOT, V4, P193, DOI 10.1007/BF01384688
+   Iyengar SS, 2000, J PERS SOC PSYCHOL, V79, P995, DOI 10.1037//0022-3514.79.6.995
+   Kalech M, 2011, AUTON AGENT MULTI-AG, V22, P151, DOI 10.1007/s10458-010-9133-6
+   Konczak K., 2005, P IJCAI 05 MULT WORK
+   Lai LSL, 2008, GROUP DECIS NEGOT, V17, P387, DOI 10.1007/s10726-008-9113-2
+   Liben-Nowell D, 2007, J AM SOC INF SCI TEC, V58, P1019, DOI 10.1002/asi.20591
+   Linas B., 2010, P 4 ACM C REC SYST, P119, DOI DOI 10.1145/1864708.1864733
+   Liu B, 2010, PROCEEDINGS OF THE RECSYS'2010 ACM CHALLENGE ON CONTEXT-AWARE MOVIE RECOMMENDATION (CAMRA2010), P53, DOI 10.1145/1869652.1869661
+   Liu BS, 2015, EUR J OPER RES, V245, P209, DOI 10.1016/j.ejor.2015.02.025
+   Liu BS, 2015, INFORM FUSION, V23, P156, DOI 10.1016/j.inffus.2014.05.001
+   Lu T, 2011, LECT NOTES ARTIF INT, V6992, P135, DOI 10.1007/978-3-642-24873-3_11
+   Masthoff J, 2011, RECOMMENDER SYSTEMS HANDBOOK, P677, DOI 10.1007/978-0-387-85820-3_21
+   McDonald DavidW., 2003, P SIGCHI C HUM FACT, P593
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   O'Connor M, 2001, ECSCW 2001: PROCEEDINGS OF THE SEVENTH EUROPEAN CONFERENCE ON COMPUTER SUPPORTED COOPERATIVE WORK, P199
+   Pini MS, 2009, J LOGIC COMPUT, V19, P475, DOI 10.1093/logcom/exn012
+   Qureshi S, 2000, GROUP DECIS NEGOT, V9, P129, DOI 10.1023/A:1008754621165
+   Salehi-Abari A, 2014, AAMAS'14: PROCEEDINGS OF THE 2014 INTERNATIONAL CONFERENCE ON AUTONOMOUS AGENTS & MULTIAGENT SYSTEMS, P693
+   Smith W.D., 2000, RANGE VOTING
+   Walsh Toby., 1999, Proceedings of the National Conference on Artificial Intelligence, V22, P3
+NR 40
+TC 13
+Z9 15
+U1 1
+U2 28
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0926-2644
+EI 1572-9907
+J9 GROUP DECIS NEGOT
+JI Group Decis. Negot.
+PD MAY
+PY 2017
+VL 26
+IS 3
+BP 473
+EP 494
+DI 10.1007/s10726-016-9505-7
+PG 22
+WC Management; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Business & Economics; Social Sciences - Other Topics
+GA ER9WX
+UT WOS:000399179000003
+DA 2024-11-22
+ER
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Znidarsic, A
+   Ferligoj, A
+   Doreian, P
+AF Znidarsic, Anja
+   Ferligoj, Anuska
+   Doreian, Patrick
+TI Actor non-response in valued social networks: The impact of different
+   non-response treatments on the stability of blockmodels
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Valued network; Missing data; Actor non-response; Actor non-response
+   treatment; Blockmodeling
+ID CENTRALITY MEASURES; MEASUREMENT ERROR; ROBUSTNESS
+AB Social network data usually contain different types of errors. One of them is missing data due to actor non response. This can seriously jeopardize the results of analyses if not appropriately treated. The impact of missing data may be more severe in valued networks where not only the presence of a tie is recorded, but also its magnitude or strength. Blockmodeling is a technique for delineating network structure. We focus on an indirect approach suitable for valued networks. Little is known about the sensitivity of valued networks to different types of measurement errors. As it is reasonable to expect that blockmodeling, with its positional outcomes, could be vulnerable to the presence of non-respondents, such errors require treatment. We examine the impacts of seven actor non-response treatments on the positions obtained when indirect blockmodeling is used. The start point for our simulation are networks whose structure is known. Three structures were considered: cohesive subgroups, core-periphery, and hierarchy. The results show that the number of non-respondents, the type of underlying blockmodel structure, and the employed treatment all have an impact on the determined partitions of actors in complex ways. Recommendations for best practices are provided. (C) 2016 The Authors. Published by Elsevier B.V.
+C1 [Znidarsic, Anja] Univ Maribor, Fac Org Sci, Kidriteva 55a, Kranj 4000, Slovenia.
+   [Ferligoj, Anuska] Univ Ljubljana, Fac Social Sci, Kardeljeva plokad 5, Ljubljana 1000, Slovenia.
+   [Doreian, Patrick] Univ Pittsburgh, Dept Sociol, Pittsburgh, PA USA.
+C3 University of Maribor; University of Ljubljana; Pennsylvania
+   Commonwealth System of Higher Education (PCSHE); University of
+   Pittsburgh
+RP Znidarsic, A (corresponding author), Univ Maribor, Fac Org Sci, Kidriteva 55a, Kranj 4000, Slovenia.
+EM anja.znidarsic@fov.uni-mb.si
+RI Ferligoj, Anuska/A-3675-2009; Žnidaršič, Anja/AAQ-2844-2020
+OI Znidarsic, Anja/0000-0003-0084-3182
+CR [Anonymous], 2011, Social network analysis
+   [Anonymous], 2006, COMPUT MATH ORG THEO
+   Banerjee Abhijit., 2014, 20422 NAT BUR EC RES
+   BATAGELJ V, 1992, SOC NETWORKS, V14, P63, DOI 10.1016/0378-8733(92)90014-X
+   Beckfield J, 2008, SOC PROBL, V55, P419, DOI 10.1525/sp.2008.55.3.419
+   BONACICH P, 1987, AM J SOCIOL, V92, P1170, DOI 10.1086/228631
+   Borgatti SP, 2006, SOC NETWORKS, V28, P124, DOI 10.1016/j.socnet.2005.05.001
+   Borgatti SP, 1999, SOC NETWORKS, V21, P375
+   Brin S, 1998, COMPUT NETWORKS ISDN, V30, P107, DOI 10.1016/S0169-7552(98)00110-X
+   Chinchilla-Rodríguez Z, 2012, SCIENTOMETRICS, V93, P699, DOI 10.1007/s11192-012-0794-6
+   Costenbader E, 2003, SOC NETWORKS, V25, P283, DOI 10.1016/S0378-8733(03)00012-1
+   DOREIAN P, 1994, SOC NETWORKS, V16, P267, DOI 10.1016/0378-8733(94)90013-2
+   Doreian Patrick, 2005, Generalized Blockmodeling
+   Ellwardt L, 2012, SOC NETWORKS, V34, P623, DOI 10.1016/j.socnet.2012.07.002
+   Ernstson H, 2008, ECOL SOC, V13
+   Girard Y, 2015, J ECON BEHAV ORGAN, V115, P197, DOI 10.1016/j.jebo.2014.12.005
+   Giuliani E., 2005, APPL EVOLUTIONARY EC, V7, P5
+   Goh KI, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.278701
+   Grund TU, 2012, SOC NETWORKS, V34, P682, DOI 10.1016/j.socnet.2012.08.004
+   Hlebec V., 2002, FIELD METHOD, V14, P288, DOI DOI 10.1177/15222X014003003
+   HOLLAND PW, 1973, J MATH SOCIOL, V3, P85, DOI 10.1080/0022250X.1973.9989825
+   Horvath S, 2011, WEIGHTED NETWORK ANALYSIS: APPLICATIONS IN GENOMICS AND SYSTEMS BIOLOGY, P1, DOI 10.1007/978-1-4419-8819-5
+   HUBERT L, 1985, J CLASSIF, V2, P193, DOI 10.1007/BF01908075
+   Huisman M., 2009, J SOCIAL STRUCT, V10
+   Johnson R, 2012, SOC NETWORKS, V34, P462, DOI 10.1016/j.socnet.2012.02.004
+   Kleinberg JM, 1999, J ACM, V46, P604, DOI 10.1145/324133.324140
+   Kolli N., 2013, Procedia, Social and Behavioral Sciences, V100, P57, DOI [10.1016/j.sbspro.2013.10.699, DOI 10.1016/J.SBSPRO.2013.10.699]
+   Kossinets G, 2006, SOC NETWORKS, V28, P247, DOI 10.1016/j.socnet.2005.07.002
+   Kronegger L, 2011, QUAL QUANT, V45, P989, DOI 10.1007/s11135-011-9484-3
+   Laumann E., 1983, Applied Network Analysis, P18
+   Lorrain F., 1971, J MATH SOCIOL, V1, P49, DOI [10.1080/0022250X.1971.9989788, DOI 10.1080/0022250X.1971.9989788]
+   Memon N, 2008, LECT NOTES COMPUT SC, V5075, P477, DOI 10.1007/978-3-540-69304-8_50
+   Niu QK, 2015, PHYSICA A, V438, P124, DOI 10.1016/j.physa.2015.06.031
+   Opsahl T, 2010, SOC NETWORKS, V32, P245, DOI 10.1016/j.socnet.2010.03.006
+   Páez A, 2008, SOC NETWORKS, V30, P309, DOI 10.1016/j.socnet.2008.05.001
+   Potter GE, 2015, NETW SCI, V3, P298, DOI 10.1017/nws.2015.22
+   Raskovic M, 2015, TEOR PRAKSA, V52, P150
+   Scherer CW, 2003, RISK ANAL, V23, P261, DOI 10.1111/1539-6924.00306
+   SHIMBEL ALFONSO, 1953, BULL MATH BIOPHYS, V15, P501, DOI 10.1007/BF02476438
+   SQUARTINI T., 2013, SCI REP, V3
+   Steinley D, 2004, PSYCHOL METHODS, V9, P386, DOI 10.1037/1082-989X.9.3.386
+   Stephenson K., 1989, Social Networks, V11, P1
+   STORK D, 1992, GROUP ORGAN MANAGE, V17, P193, DOI 10.1177/1059601192172006
+   Van De Bunt G. G., 1999, Computational & Mathematical Organization Theory, V5, P167, DOI 10.1023/A:1009683123448
+   Wang DJ, 2012, SOC NETWORKS, V34, P396, DOI 10.1016/j.socnet.2012.01.003
+   Wasserman Stanley., 1998, Social network analysis : methods and applications
+   Yeung KY, 2001, BIOINFORMATICS, V17, P763, DOI 10.1093/bioinformatics/17.9.763
+   Ziberna A., 2010, BLOCKMODELING 0 1 8
+   Ziberna A, 2007, SOC NETWORKS, V29, P105, DOI 10.1016/j.socnet.2006.04.002
+   Ziberna Ales., 2009, Metodoloski Zvezki, V6, P99
+   Znidarsic A., 2016, STABILITY CENT UNPUB
+   Znidarsic A, 2012, SOC NETWORKS, V34, P438, DOI 10.1016/j.socnet.2012.02.002
+NR 52
+TC 10
+Z9 10
+U1 1
+U2 11
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JAN
+PY 2017
+VL 48
+BP 46
+EP 56
+DI 10.1016/j.socnet.2016.06.001
+PG 11
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA EE6NT
+UT WOS:000389730200005
+OA hybrid
+DA 2024-11-22
+ER
+
+PT J
+AU Bond, RM
+   Chykina, V
+   Jones, JJ
+AF Bond, Robert M.
+   Chykina, Volha
+   Jones, Jason J.
+TI Social network effects on academic achievement
+SO SOCIAL SCIENCE JOURNAL
+LA English
+DT Article
+DE Academic achievement; Social networks; Social influence
+ID HIGH-SCHOOL; EDUCATIONAL OUTCOMES; SUBSTANCE USE; PEER GROUPS;
+   CENTRALITY; ADOLESCENTS; BEHAVIOR; CONTEXT; ATTAINMENT; ALGORITHM
+AB How peer groups contribute to educational outcomes has long interested researchers. However, the possibility that peer groups dominated by either low- or high-achieving youth can have substantively different effects on achievement has been largely ignored. In this paper, we show that while being embedded in a high-achieving network of friends is not associated with increased own achievement, being embedded in a low-achieving network is associated with decreased own achievement. In additional analyses, we present evidence that these associations are at least in part due to influence, as opposed to only selection effects or shared environment. We also examine whether the structure of the network in which a student is embedded might affect their educational achievement. We show that achieving at higher levels positively predicts how centrally located a student is in their network, but being more centrally located does not predict concurrent achievement. This finding suggests that the behavior of individuals is affecting the formation of network structure and not the reverse. (C) 2017 Western Social Science Association. Published by Elsevier Inc. All rights reserved.
+C1 [Bond, Robert M.] Ohio State Univ, 3072 Derby Hall,154 N Oval Mall, Columbus, OH 43210 USA.
+   [Chykina, Volha] Penn State Univ, University Pk, PA 16802 USA.
+   [Jones, Jason J.] SUNY Stony Brook, Stony Brook, NY 11794 USA.
+C3 University System of Ohio; Ohio State University; Pennsylvania
+   Commonwealth System of Higher Education (PCSHE); Pennsylvania State
+   University; Pennsylvania State University - University Park; State
+   University of New York (SUNY) System; Stony Brook University
+RP Bond, RM (corresponding author), Ohio State Univ, 3072 Derby Hall,154 N Oval Mall, Columbus, OH 43210 USA.
+EM bond.136@osu.edu
+RI Jones, Jason/I-3350-2012; Bond, Robert/A-1561-2014
+OI Bond, Robert/0000-0002-5026-2186; Jones, Jason/0000-0002-4140-0268
+FU National Science Foundation [1535900]; Direct For Computer & Info Scie &
+   Enginr; Division of Computing and Communication Foundations [1535900]
+   Funding Source: National Science Foundation
+FX This material is based upon work supported by the National Science
+   Foundation under grant no. 1535900.
+CR Ajilore O, 2014, SOC SCI J, V51, P645, DOI 10.1016/j.soscij.2014.07.008
+   Altermatt ER, 2005, SOC DEV, V14, P61, DOI 10.1111/j.1467-9507.2005.00291.x
+   Angrist JD, 2004, AM ECON REV, V94, P1613, DOI 10.1257/0002828043052169
+   [Anonymous], 2010, NBER Working Paper n. 15683
+   Aral S, 2012, SCIENCE, V337, P337, DOI 10.1126/science.1215842
+   Betts LR, 2014, BRIT J DEV PSYCHOL, V32, P34, DOI 10.1111/bjdp.12020
+   Borgatti SP, 2005, SOC NETWORKS, V27, P55, DOI 10.1016/j.socnet.2004.11.008
+   Bryant AL, 2003, J RES ADOLESCENCE, V13, P361, DOI 10.1111/1532-7795.1303005
+   Burke MA, 2013, J LABOR ECON, V31, P51, DOI 10.1086/666653
+   Carbonaro W, 2016, SOC SCI RES, V58, P184, DOI 10.1016/j.ssresearch.2016.02.005
+   Carolan B. V., 2014, SOCIAL NETWORK ANAL
+   Casillas A, 2012, J EDUC PSYCHOL, V104, P407, DOI 10.1037/a0027180
+   Christakis NA, 2009, Connected: The Surprising Power of Our Social Networks and How They Shape Our Lives
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   Christakis NA, 2013, STAT MED, V32, P556, DOI 10.1002/sim.5408
+   Coleman J., 1961, SCH CLIMATES HIGH SC
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   Crosnoe R, 2004, J HEALTH SOC BEHAV, V45, P393, DOI 10.1177/002214650404500403
+   Currarini S, 2010, P NATL ACAD SCI USA, V107, P4857, DOI 10.1073/pnas.0911793107
+   Ding W, 2009, J HEALTH ECON, V28, P578, DOI 10.1016/j.jhealeco.2008.11.006
+   Farmer TW, 1996, SOC DEV, V5, P174, DOI 10.1111/j.1467-9507.1996.tb00079.x
+   Faust K, 1997, SOC NETWORKS, V19, P157, DOI 10.1016/S0378-8733(96)00300-0
+   Fowler JH, 2011, AM POLIT RES, V39, P437, DOI 10.1177/1532673X10396310
+   Frank KA, 2013, AM J SOCIOL, V119, P216, DOI 10.1086/672081
+   Gest SD, 2001, SOC DEV, V10, P23, DOI 10.1111/1467-9507.00146
+   Gifford-Smith ME, 2003, J SCHOOL PSYCHOL, V41, P235, DOI 10.1016/S0022-4405(03)00048-7
+   Hahn Y., 2015, 8872 IZA
+   Hermansen AS, 2015, SOC FORCES, V94, P615, DOI 10.1093/sf/sov073
+   Hoxby Caroline, 2000, NBER Working Paper 7867, DOI 10.3386/w7867
+   KAMADA T, 1989, INFORM PROCESS LETT, V31, P7, DOI 10.1016/0020-0190(89)90102-6
+   King G, 2001, AM POLIT SCI REV, V95, P49, DOI 10.1017/S0003055401000235
+   Kiuru N, 2007, J YOUTH ADOLESCENCE, V36, P995, DOI 10.1007/s10964-006-9118-6
+   Kobus K, 2010, J EARLY ADOLESCENCE, V30, P225, DOI 10.1177/0272431609333300
+   Lavy V., 2007, AM ECON J-APPL ECON, V3, P1
+   Lavy V, 2012, J LABOR ECON, V30, P367, DOI 10.1086/663592
+   Lefgren L, 2004, J URBAN ECON, V56, P169, DOI 10.1016/j.jue.2004.03.010
+   LIANG KY, 1986, BIOMETRIKA, V73, P13, DOI 10.2307/2336267
+   Lleras C, 2008, SOC SCI RES, V37, P888, DOI 10.1016/j.ssresearch.2008.03.004
+   Loveless T., 2011, The tracking wars: State reform meets school policy
+   MARUYAMA G, 1986, J PERS SOC PSYCHOL, V51, P730
+   McLeod JD, 2012, J HEALTH SOC BEHAV, V53, P482, DOI 10.1177/0022146512462888
+   Meijs N, 2010, J YOUTH ADOLESCENCE, V39, P62, DOI 10.1007/s10964-008-9373-9
+   Mortimer J.T., 2003, WORKING GROWING AM
+   Neal JW, 2010, J EARLY ADOLESCENCE, V30, P122, DOI 10.1177/0272431609350924
+   Ortiz MGR, 2004, SOC NETWORKS, V26, P175, DOI 10.1016/j.socnet.2004.01.010
+   Petersen A.C., 1993, J RES ADOLESCENCE, V2, P1, DOI DOI 10.1207/s15327795jra0301_1
+   Portes A, 1998, ANNU REV SOCIOL, V24, P1, DOI 10.1146/annurev.soc.24.1.1
+   Ryabov I, 2011, J ADOLESCENCE, V34, P915, DOI 10.1016/j.adolescence.2010.12.004
+   Ryan AM, 2000, EDUC PSYCHOL, V35, P101, DOI 10.1207/S15326985EP3502_4
+   Sacerdote B, 2011, HBK ECON, V3, P249, DOI 10.1016/S0169-7218(11)03004-8
+   SEWELL WH, 1969, AM SOCIOL REV, V34, P82, DOI 10.2307/2092789
+   Shalizi CR, 2011, SOCIOL METHOD RES, V40, P211, DOI 10.1177/0049124111404820
+   Shepherd HR, 2017, SOCIOL FORUM, V32, P72, DOI 10.1111/socf.12317
+   Sirin SR, 2005, REV EDUC RES, V75, P417, DOI 10.3102/00346543075003417
+   Smith KP, 2008, ANNU REV SOCIOL, V34, P405, DOI 10.1146/annurev.soc.34.040507.134601
+   Stinebrickner R, 2006, J PUBLIC ECON, V90, P1435, DOI 10.1016/j.jpubeco.2006.03.002
+   Suarez-Orozco C., 2008, LEARNING NEW LAND IM
+   Szabo G., 2006, WORKING PAPER
+   Udry RichardJ., 2003, NATL LONGITUDINAL ST
+   Vandenberghe V, 2002, APPL ECON, V34, P1283, DOI 10.1080/00036840110094446
+   Voyer D, 2014, PSYCHOL BULL, V140, P1174, DOI 10.1037/a0036620
+   Whitmore D, 2005, AM ECON REV, V95, P199, DOI 10.1257/000282805774670158
+   Zhang Y., 2009, WORKING PAPER
+   Zimmerman DJ, 2003, REV ECON STAT, V85, P9, DOI 10.1162/003465303762687677
+NR 64
+TC 15
+Z9 19
+U1 3
+U2 45
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0362-3319
+EI 1873-5355
+J9 SOC SCI J
+JI Soc. Sci. J.
+PD DEC
+PY 2017
+VL 54
+IS 4
+BP 438
+EP 449
+DI 10.1016/j.soscij.2017.06.001
+PG 12
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA FO3XA
+UT WOS:000416769100007
+DA 2024-11-22
+ER
+
+PT J
+AU Stadtfeld, C
+   Block, P
+AF Stadtfeld, Christoph
+   Block, Per
+TI Interactions, Actors, and Time: Dynamic Network Actor Models for
+   Relational Events
+SO SOCIOLOGICAL SCIENCE
+LA English
+DT Article
+DE social networks; DyNAM; relational event model; social interactions;
+   network dynamics
+ID SOCIAL NETWORKS; FRIENDSHIP; 2-MODE
+AB Ample theoretical work on social networks is explicitly or implicitly concerned with the role of interpersonal interaction. However, empirical studies to date mostly focus on the analysis of stable relations. This article introduces Dynamic Network Actor Models (DyNAMs) for the study of directed, interpersonal interaction through time. The presented model addresses three important aspects of interpersonal interaction. First, interactions unfold in a larger social context and depend on complex structures in social systems. Second, interactions emanate from individuals and are based on personal preferences, restricted by the available interaction opportunities. Third, sequences of interactions develop dynamically, and the timing of interactions relative to one another contains useful information. We refer to these aspects as the network nature, the actor-oriented nature, and the dynamic nature of social interaction. A case study compares the DyNAM framework to the relational event model, a widely used statistical method for the study of social interaction data.
+C1 [Stadtfeld, Christoph; Block, Per] Swiss Fed Inst Technol, Dept Humanities Social & Polit Sci, Zurich, Switzerland.
+C3 Swiss Federal Institutes of Technology Domain; ETH Zurich
+RP Stadtfeld, C (corresponding author), Swiss Fed Inst Technol, Dept Humanities Social & Polit Sci, Zurich, Switzerland.
+EM c.stadtfeld@ethz.ch; per.block@gess.ethz.ch
+OI Block, Per/0000-0002-7583-2392; Stadtfeld, Christoph/0000-0002-2704-2134
+CR Alwin DF, 2017, SOCIOL METHODOL, V47, P1
+   [Anonymous], 2012, THESIS
+   [Anonymous], 2016, MANUAL SIENA 4 0
+   [Anonymous], 2013, Theory, methods, and applications
+   [Anonymous], AM J SOCIOL IN PRESS
+   [Anonymous], P 2011 IEEE INT C SO
+   [Anonymous], 2017, Statistics in Medicine
+   [Anonymous], 1984, ANAL SURVIVAL DATA
+   [Anonymous], 2012, Events in social networks: A stochastic actor-oriented framework for dynamic event processes in social networks
+   Block P., 2016, SOCIOLOGICAL METHODS
+   Block P, 2015, SOC NETWORKS, V40, P163, DOI 10.1016/j.socnet.2014.10.005
+   Boda Z, 2015, SOC NETWORKS, V43, P57, DOI 10.1016/j.socnet.2015.03.004
+   Box-Steffensmeier Janet., 2004, EVENT HIST ANAL
+   Burt RS, 2004, AM J SOCIOL, V110, P349, DOI 10.1086/421787
+   Butts CT, 2008, SOCIOL METHODOL, V38, P155, DOI 10.1111/j.1467-9531.2008.00203.x
+   Cramer J.S., 2003, LOGIT MODELS EC OTHE
+   Deu~hard P., 2004, SPRINGER SERIES COMP, V35
+   EMERSON RM, 1976, ANNU REV SOCIOL, V2, P335, DOI 10.1146/annurev.so.02.080176.002003
+   Feld SL, 1997, SOC NETWORKS, V19, P91, DOI 10.1016/S0378-8733(96)00293-6
+   Festinger L., 1950, SOCIAL PRESSURES INF, V30, P384, DOI 10.2307/3348388
+   Friedkin N., 1998, A structural theory of social influence
+   Hedstrom Peter, 2009, The Oxford Handbook of Analytical Sociology
+   Heider F, 1958, PSYCHOL INTERPERSONA
+   Hollway J, 2016, SOC NETWORKS, V44, P281, DOI 10.1016/j.socnet.2015.03.001
+   HUSTON TL, 1978, ANNU REV PSYCHOL, V29, P115, DOI 10.1146/annurev.ps.29.020178.000555
+   Kadushin C., 2012, UNDERSTANDING SOCIAL
+   Kitts JA, 2014, ADV GROUP PROCESS, V31, P263, DOI 10.1108/S0882-614520140000031007
+   Lazer D, 2009, SCIENCE, V323, P721, DOI 10.1126/science.1167742
+   Leenders RTAJ, 2016, ORGAN PSYCHOL REV, V6, P92, DOI 10.1177/2041386615578312
+   Lerner J, 2013, CORVINUS J SOCIOL PO, V4, P3
+   Lomi A, 2014, KOLNER Z SOZIOL SOZ, V66, P395, DOI 10.1007/s11577-014-0271-8
+   Madan A, 2012, IEEE PERVAS COMPUT, V11, P36, DOI 10.1109/MPRV.2011.79
+   Marcum CS, 2015, J STAT SOFTW, V64, P1
+   Pal J, 2016, J RES ADOLESCENCE, V26, P805, DOI 10.1111/jora.12231
+   Pardo B., 2002, Computer Music Journal, V26, P27, DOI 10.1162/014892602760137167
+   Perry PO, 2013, J R STAT SOC B, V75, P821, DOI 10.1111/rssb.12013
+   Quintane E, 2016, ORGAN SCI, V27, P1343, DOI 10.1287/orsc.2016.1091
+   Raats M. M., 1992, Food Quality and Preference, V3, P89, DOI 10.1016/0950-3293(91)90028-D
+   Rivera MT, 2010, ANNU REV SOCIOL, V36, P91, DOI 10.1146/annurev.soc.34.040507.134743
+   Schaefer DR, 2013, HEALTH EDUC BEHAV, V40, p24S, DOI 10.1177/1090198113493091
+   Snijders T. A., 2005, MODELS METHODS SOCIA, V1, P215, DOI DOI 10.1017/CBO9780511811395.011
+   Snijders TAB, 2001, SOCIOL METHODOL, V31, P361, DOI 10.1111/0081-1750.00099
+   Snijders TAB, 1996, J MATH SOCIOL, V21, P149, DOI 10.1080/0022250X.1996.9990178
+   Snijders TAB, 2006, SOCIOL METHODOL, V36, P99, DOI 10.1111/j.1467-9531.2006.00176.x
+   Snijders TAB, 2015, SOCIOL METHOD RES, V44, P222, DOI 10.1177/0049124113494573
+   Snijders TAB, 2013, SOC NETWORKS, V35, P265, DOI 10.1016/j.socnet.2012.05.005
+   Snijders TAB, 2010, SOC NETWORKS, V32, P44, DOI 10.1016/j.socnet.2009.02.004
+   Stadtfeld C, 2011, SOC NETWORKS, V33, P258, DOI 10.1016/j.socnet.2011.07.004
+   Tranmer M, 2015, ANIM BEHAV, V101, P99, DOI 10.1016/j.anbehav.2014.12.005
+   Vörös A, 2017, SOC NETWORKS, V49, P93, DOI 10.1016/j.socnet.2017.01.002
+   Vu D., 2011, ADV NEURAL INFORM PR, P2492
+   Wang P, 2013, SOC NETWORKS, V35, P96, DOI 10.1016/j.socnet.2013.01.004
+NR 52
+TC 68
+Z9 71
+U1 2
+U2 19
+PU SOC SOCIOLOGICAL SCIENCE
+PI STANFORD
+PA 940 COTTRELL WAY, STANFORD, CA 94305 USA
+EI 2330-6696
+J9 SOCIOL SCI
+JI Sociol. Sci.
+PD MAY 15
+PY 2017
+VL 4
+BP 318
+EP 352
+DI 10.15195/v4.a14
+PG 35
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA FI1CF
+UT WOS:000411666400001
+OA Green Submitted, Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Zhang, X
+   Han, DD
+   Yang, RQ
+   Zhang, ZQ
+AF Zhang, Xin
+   Han, Ding-Ding
+   Yang, Ruiqi
+   Zhang, Ziqiao
+TI Users' participation and social influence during information spreading
+   on Twitter
+SO PLOS ONE
+LA English
+DT Article
+ID DIRECTED NETWORKS; ONLINE
+AB Online Social Networks generate a prodigious wealth of real-time information at an incessant rate. In this paper we study the empirical data that crawled from Twitter to describe the topology and information spreading dynamics of Online Social Networks. We propose a measurement with three measures to state the efforts of users on Twitter to get their information spreading, based on the unique mechanisms for information retransmission on Twitter. It is noticed that small fraction of users with special performance on participation can gain great influence, while most other users play a role as middleware during the information propagation. Thus a community analysis is performed and four categories of users are found with different kinds of participation that cause the information dissemination dynamics. These suggest that exiting topological measures alone may reflect little about the influence of individuals and provide new insights for information spreading.
+C1 [Zhang, Xin; Han, Ding-Ding; Yang, Ruiqi; Zhang, Ziqiao] East China Normal Univ, Sch Informat Sci & Technol, Shanghai Key Lab Multidimens Informat Proc, Shanghai, Peoples R China.
+C3 East China Normal University
+RP Han, DD (corresponding author), East China Normal Univ, Sch Informat Sci & Technol, Shanghai Key Lab Multidimens Informat Proc, Shanghai, Peoples R China.
+EM ddhan@ee.ecnu.edu.cn
+FU National Natural Science Foundation of China [11421505]
+FX This work is supported in part by the National Natural Science
+   Foundation of China under contract Nos. 11421505.
+CR [Anonymous], 2010, ICWSM, DOI DOI 10.1016/J.IPM.2016.04.003
+   [Anonymous], KNOWLEDGE DISCOVERY, DOI DOI 10.1007/978-3-642-23808-6_2
+   [Anonymous], PLOS ONE
+   Asur S., 2011, SSRN Electronic Journal, P1
+   Barzel B., 2014, P NATL ACAD SCI USA, V111, P10411
+   Blondel VD, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/10/P10008
+   Borondo J, 2015, CHAOS SOLITON FRACT, V72, P90, DOI 10.1016/j.chaos.2014.12.023
+   Boyd D., 2010, 43 HAW INT C SYST SC, P1, DOI [DOI 10.1109/HICSS.2010.412, DOI 10.1353/JSM.2016.0009]
+   Chen Q, 2016, J APPL ANAL COMPUT, V6, P30
+   Chen Q, 2014, INT J MOD PHYS C, V25, DOI 10.1142/S0129183114400129
+   Chen YL, 2014, BIOMED RES INT, V2014, DOI 10.1155/2014/815981
+   Cui AX, 2011, ACTA PHYS SIN-CH ED, V60, DOI 10.7498/aps.60.038901
+   Galuba Wojciech., 2010, WOSN, DOI 10.5555/1863190.1863193
+   Gayo-Avello D, 2013, INFORM PROCESS MANAG, V49, P1250, DOI 10.1016/j.ipm.2013.06.003
+   Girvan M, 2002, P NATL ACAD SCI USA, V99, P7821, DOI 10.1073/pnas.122653799
+   Gleeson JP, 2014, P NATL ACAD SCI USA, V111, P10411, DOI 10.1073/pnas.1313895111
+   Grabowicz PA, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0029358
+   Gruzd A, 2011, AM BEHAV SCI, V55, P1294, DOI 10.1177/0002764211409378
+   Jin F., 2013, P 7 WORKSH SOC NETW, P1, DOI [DOI 10.1145/2501025.2501027, 10.1145/2501025.2501027]
+   Kleineberg KK, 2014, PHYS REV X, V4, DOI 10.1103/PhysRevX.4.031046
+   Kwak H., WWW'10, DOI [10.1145/1772690.1772751, DOI 10.1145/1772690.1772751]
+   Lai DR, 2010, PHYSICA A, V389, P2443, DOI 10.1016/j.physa.2010.02.014
+   Lazer D, 2009, SCIENCE, V323, P721, DOI 10.1126/science.1167742
+   Lewis K, 2008, SOC NETWORKS, V30, P330, DOI 10.1016/j.socnet.2008.07.002
+   Li Y, 2015, INFORM SCIENCES, V293, P383, DOI 10.1016/j.ins.2014.09.019
+   Lymperopoulos IN, 2015, INFORM SCIENCES, V320, P26, DOI 10.1016/j.ins.2015.05.004
+   Malliaros FD, 2013, PHYS REP, V533, P95, DOI 10.1016/j.physrep.2013.08.002
+   Manaman HS, 2016, COMPUT HUM BEHAV, V54, P94, DOI 10.1016/j.chb.2015.07.061
+   Morales AJ, 2014, SOC NETWORKS, V39, P1, DOI 10.1016/j.socnet.2014.03.007
+   Morales AJ, 2012, PHYSICA A, V391, P5244, DOI 10.1016/j.physa.2012.05.015
+   Newman MEJ, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.036122
+   Qian JH, 2014, PHYS REV E, V89, DOI 10.1103/PhysRevE.89.062808
+   Qian JH, 2012, PHYSICA A, V391, P5146, DOI 10.1016/j.physa.2012.05.038
+   Ranco G, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0138441
+   Ratkiewicz J, 2010, PHYS REV LETT, V105, DOI 10.1103/PhysRevLett.105.158701
+   Small TA, 2011, INFORM COMMUN SOC, V14, P872, DOI 10.1080/1369118X.2011.554572
+   Tafti A, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0159226
+   Wang P, 2011, EPL-EUROPHYS LETT, V94, DOI 10.1209/0295-5075/94/18005
+   Wang P, 2010, PHYS STAT MECH ITS A, V398, P145
+   Weng L, 2012, SCI REP-UK, V2, P1, DOI 10.1038/srep00335
+   Zafarani R, 2014, SOCIAL MEDIA MINING, P197
+   Zhang ZK, 2016, PHYS REP, V651, P1, DOI 10.1016/j.physrep.2016.07.002
+   Zhao Z. D., 2013, SCI REP, V3, P324
+   Zhao ZD, 2014, PHYS REV E, V90, DOI 10.1103/PhysRevE.90.050802
+   Zhao ZD, 2012, PHYSICA A, V391, P3308, DOI 10.1016/j.physa.2012.01.008
+NR 45
+TC 16
+Z9 19
+U1 1
+U2 35
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD SEP 13
+PY 2017
+VL 12
+IS 9
+AR e0183290
+DI 10.1371/journal.pone.0183290
+PG 17
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA FG8GZ
+UT WOS:000410669200011
+PM 28902906
+OA Green Published, gold, Green Submitted
+DA 2024-11-22
+ER

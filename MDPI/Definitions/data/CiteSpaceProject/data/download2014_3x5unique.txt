@@ -1,0 +1,629 @@
+
+PT J
+AU Cunha, E
+   Magno, G
+   Gonçalves, MA
+   Cambraia, C
+   Almeida, V
+AF Cunha, Evandro
+   Magno, Gabriel
+   Goncalves, Marcos Andre
+   Cambraia, Cesar
+   Almeida, Virgilio
+TI He Votes or She Votes? Female and Male Discursive Strategies in Twitter
+   Political Hashtags
+SO PLOS ONE
+LA English
+DT Article
+ID GENDER-DIFFERENCES; PERSUASION
+AB In this paper, we conduct a study about differences between female and male discursive strategies when posting in the microblogging service Twitter, with a particular focus on the hashtag designation process during political debate. The fact that men and women use language in distinct ways, reverberating practices linked to their expected roles in the social groups, is a linguistic phenomenon known to happen in several cultures and that can now be studied on the Web and on online social networks in a large scale enabled by computing power. Here, for instance, after analyzing tweets with political content posted during Brazilian presidential campaign, we found out that male Twitter users, when expressing their attitude toward a given candidate, are more prone to use imperative verbal forms in hashtags, while female users tend to employ declarative forms. This difference can be interpreted as a sign of distinct approaches in relation to other network members: for example, if political hashtags are seen as strategies of persuasion in Twitter, imperative tags could be understood as more overt ways of persuading and declarative tags as more indirect ones. Our findings help to understand human gendered behavior in social networks and contribute to research on the new fields of computer-enabled Internet linguistics and social computing, besides being useful for several computational tasks such as developing tag recommendation systems based on users' collective preferences and tailoring targeted advertising strategies, among others.
+C1 [Cunha, Evandro; Magno, Gabriel; Goncalves, Marcos Andre; Almeida, Virgilio] Univ Fed Minas Gerais, Dept Comp Sci, Belo Horizonte, MG, Brazil.
+   [Cunha, Evandro; Cambraia, Cesar] Univ Fed Minas Gerais, Coll Letters, Belo Horizonte, MG, Brazil.
+C3 Universidade Federal de Minas Gerais; Universidade Federal de Minas
+   Gerais
+RP Cunha, E (corresponding author), Univ Fed Minas Gerais, Dept Comp Sci, Belo Horizonte, MG, Brazil.
+EM evandrocunha@dcc.ufmg.br
+RI Magno, Gabriel/AAN-6212-2020; Filgueiras, Fernando/GWM-7026-2022;
+   Cambraia, Cesar Nardelli/A-2426-2013
+OI Almeida, Virgilio/0000-0001-6452-0361; Cambraia, Cesar
+   Nardelli/0000-0002-2403-3021; Goncalves, Marcos
+   Andre/0000-0002-2075-3363
+FU MCT/CNPq/INCT Web Grant from the Brazilian Council for Scientific and
+   Technological Development [573871/2008-6]
+FX Authors were partially supported by MCT/CNPq/INCT Web Grant number
+   573871/2008-6 from the Brazilian Council for Scientific and
+   Technological Development. No additional external funding was received
+   for this study. The funders had no role in study design, data collection
+   and analysis, decision to publish, or preparation of the manuscript.
+CR ANDREWS PH, 1987, HUM COMMUN RES, V13, P372, DOI 10.1111/j.1468-2958.1987.tb00110.x
+   [Anonymous], 1981, PhD Dissertation
+   [Anonymous], 2001, PRINCIPLES LINGUISTI
+   [Anonymous], P 7 INT AAAI C WEBL
+   [Anonymous], 2010, P INT AAAI C WEB SOC
+   Argamon S., 2007, MINING BLOGOSPHERE A
+   Argamon Shlomo, 2003, TEXT, V23, P321, DOI [DOI 10.1515/TEXT.2003.014, 10.1515/text.2003.014]
+   Bamman David., 2012, Gender in Twitter: Styles, Stances, and Social Networks
+   Beauvoir Simonede., 1973, 2 SEX
+   Bell C.M., 2012, Applied Natural Language Processing: Identification, Investigation and Resolution, P545
+   Biderman MTC, 1973, REV ALFA, V19, P339
+   Brown P., 1987, Politeness. Some universals in language usage, V2, DOI [10.1017/CBO9780511813085, DOI 10.1017/CBO9780511813085]
+   Brunel FF, 2003, J ADVERTISING RES, V43, P330, DOI 10.1017/S0021849903030320
+   Burger John D, 2011, Proceedings of the conference on empirical methods in natural language processing, P1301
+   Carli L, 1978, J PERS SOC PSYCHOL, V85, P86
+   Ceron A., 2013, NEW MEDIA SOC
+   Chung J, 2003, J BUS ETHICS, V47, P133, DOI 10.1023/A:1026004716676
+   Coates Jennifer., 1986, Women, Men, and Language: a Sociolinguistic Account of Sex Differences in Language
+   Condit CelesteMichelle., 1997, Women's Studies in Communication, V20, P91
+   Corney M, 2002, P 18 ANN COMP SEC AP
+   Cunha E., 2011, P WORKSH LANG SOC ME, P58, DOI DOI 10.5555/2021109.2021117
+   EAGLY AH, 1978, PSYCHOL BULL, V85, P86, DOI 10.1037/0033-2909.85.1.86
+   FISCHER JL, 1958, WORD, V14, P47, DOI 10.1080/00437956.1958.11659655
+   Guadagno RE, 2002, GROUP DYN-THEOR RES, V6, P38, DOI 10.1037/1089-2699.6.1.38
+   Herring SC, 2006, J SOCIOLING, V10, P439, DOI 10.1111/j.1467-9841.2006.00287.x
+   Horvath B.M., 1985, VARIATION AUSTR ENGL
+   Lakoff Robin., 1975, LANGUAGE WOMANS PLAC
+   Larsson AO, 2012, NEW MEDIA SOC, V14, P729, DOI 10.1177/1461444811422894
+   Lin Y.-R., 2013, P 7 INT AAAI C WEBL
+   Liu B., 2012, SENTIMENT ANAL OPINI, P212
+   Manovich L, 2012, DEBATES IN THE DIGITAL HUMANITIES, P460
+   Mitchell TM, 1997, MACHINE LEARNING
+   Romaine S., 2000, LANGUAGE SOC INTRO S, V2nd
+   Rossetti P., 1998, INTERNET TESL J, VIV
+   SAGRESTANO LM, 1992, PSYCHOL WOMEN QUART, V16, P481, DOI 10.1111/j.1471-6402.1992.tb00270.x
+   Savicki V, 1999, COMPUT HUM BEHAV, V15, P185, DOI 10.1016/S0747-5632(99)00017-5
+   Schler J., 2006, P AAAI SPRING S COMP
+   Szell M, 2013, SCI REP-UK, V3, DOI 10.1038/srep01214
+   Tannen D., 1990, YOU JUST DONT UNDERS
+   Tannen Deborah., 1996, Gender and discourse
+   Trudgill P., 1974, SOCIAL DIFFERENTIATI
+   Trudgill P., 1983, Sociolinguistics. An introduction to language and society
+   Weber I, 2010, SIGIR 2010: PROCEEDINGS OF THE 33RD ANNUAL INTERNATIONAL ACM SIGIR CONFERENCE ON RESEARCH DEVELOPMENT IN INFORMATION RETRIEVAL, P523
+NR 43
+TC 21
+Z9 22
+U1 2
+U2 45
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JAN 29
+PY 2014
+VL 9
+IS 1
+AR e87041
+DI 10.1371/journal.pone.0087041
+PG 8
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA 301ZC
+UT WOS:000330570000095
+PM 24489832
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Mouw, T
+   Chavez, S
+   Edelblute, H
+   Verdery, A
+AF Mouw, Ted
+   Chavez, Sergio
+   Edelblute, Heather
+   Verdery, Ashton
+TI Binational Social Networks and Assimilation: A Test of the Importance of
+   Transnationalism
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE transnationalism; immigration; adaptation and incorporation of
+   immigrants; social networks; collecting data on immigration
+ID IMMIGRANT INCORPORATION; PERSONAL NETWORKS; MIXED-METHODS; MIGRATION;
+   AUTOCORRELATION; ACCULTURATION; REMITTANCES; EXPOSURE; MIGRANTS; FEATHER
+AB While the concept of transnationalism has gained widespread popularity among scholars as a way to describe immigrants' long-term maintenance of cross-border ties to their origin communities, critics have argued that the overall proportion of immigrants who engage in transnational behavior is low and that, as a result, transnationalism has little sustained effect on the process of immigrant adaptation and assimilation. In this article, we argue that a key shortcoming in the current empirical debate on transnationalism is the lack of data on the social networks that connect migrants to each other and to nonmigrants in communities of origin. To address this shortcoming, our analysis uses unique binational data on the social network connecting an immigrant sending community in Guanajuato, Mexico, to two destination areas in the United States. We test for the effect of respondents' positions in cross-border networks on their migration intentions and attitudes towards the United States using data on the opinions of their peers, their participation in cross-border and local communication networks, and their structural position in the network. The results indicate qualified empirical support for a network-based model of transnationalism; in the U.S. sample we find evidence of network clustering consistent with peer effects, while in the Mexican sample we find evidence of the importance of cross-border communication with friends.
+C1 [Mouw, Ted; Edelblute, Heather; Verdery, Ashton] Univ N Carolina, Chapel Hill, NC 27599 USA.
+   [Chavez, Sergio] Rice Univ, Houston, TX 77251 USA.
+C3 University of North Carolina; University of North Carolina Chapel Hill;
+   Rice University
+RP Mouw, T (corresponding author), Univ N Carolina, Dept Sociol, CB 3210,155 Hamilton Hall, Chapel Hill, NC 27599 USA.
+EM tedmouw@e-mail.unc.edu
+CR Alba Richard., 2003, Rethinking the American Mainstream: Assimilation and Contemporary Immigration
+   [Anonymous], 1998, P 7 WORLD WID WEB C
+   [Anonymous], WORKING PAPER
+   [Anonymous], 1999, Lectures on Contemporary Probability
+   [Anonymous], SOC SCI CIT IND DAT
+   [Anonymous], 2009, UNCOVERING EMIGRATIO
+   [Anonymous], CHINESE AM TRANSNATI
+   [Anonymous], PACKAGE SPATIAL PROB
+   [Anonymous], 2008, J STAT SOFTW, DOI [DOI 10.18637/JSS.V024.I08, 10.18637/jss.v024.i08]
+   [Anonymous], SPECIAL REPORT
+   [Anonymous], 2012, WORKING PAPER
+   [Anonymous], 2011, Statistics, Politics, and Policy, DOI [DOI 10.2202/2151, DOI 10.2202/2151-7509.1024]
+   [Anonymous], ANN M POP ASS AM NEW
+   [Anonymous], 2010, DIVIDED BORDERS, DOI DOI 10.1525/9780520945838
+   [Anonymous], 34 U BIEL CTR MIGR
+   [Anonymous], WORKING PAPER
+   [Anonymous], MIGR NAT CIT CRASSH
+   [Anonymous], 2011, The Sage Handbook of Social Network Analysis
+   [Anonymous], 2004, WOMEN HEALTH
+   [Anonymous], SPATIAL DISCRETE CHO
+   [Anonymous], THESIS U WISCONSIN
+   [Anonymous], SOCIOPEDIA ISA
+   Bacallao Martica L, 2005, J Prim Prev, V26, P485, DOI 10.1007/s10935-005-0008-6
+   Balkundi P, 2005, LEADERSHIP QUART, V16, P941, DOI 10.1016/j.leaqua.2005.09.004
+   Basch L., 1994, NATIONS UNBOUND
+   Behrman JR, 2002, DEMOGRAPHY, V39, P713, DOI 10.2307/3180828
+   Bernardi L, 2007, J MIX METHOD RES, V1, P23, DOI 10.1177/2345678906292238
+   Bernardi L, 2011, J MARRIAGE FAM, V73, P788, DOI 10.1111/j.1741-3737.2011.00845.x
+   Boccagni P, 2012, EUR J SOC THEORY, V15, P117, DOI 10.1177/1368431011423600
+   BOURDIEU P, 1985, THEOR SOC, V14, P723, DOI 10.1007/bf00174048
+   Bramoullé Y, 2009, J ECONOMETRICS, V150, P41, DOI 10.1016/j.jeconom.2008.12.021
+   Brandes U, 2010, PROCD SOC BEHV, V4, P4, DOI 10.1016/j.sbspro.2010.07.478
+   Brown SusanK., 2005, Handbook of Population, P347, DOI DOI 10.1007/0-387-23106-4_13
+   Bryceson Deborah., 2003, TRANSNATIONAL FAMILI, P3
+   Cano Gustavo., 2005, Working Paper
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   Chen WH, 2009, ENTREP THEORY PRACT, V33, P1079, DOI 10.1111/j.1540-6520.2009.00335.x
+   Cohen-Cole E, 2008, J HEALTH ECON, V27, P1382, DOI 10.1016/j.jhealeco.2008.04.005
+   Dahinden J, 2005, GLOBAL NETW, V5, P191, DOI 10.1111/j.1471-0374.2005.00114.x
+   Dahinden J, 2009, ETHNIC RACIAL STUD, V32, P1365, DOI 10.1080/01419870802506534
+   Doreian P., 1990, SPATIAL STAT PRESENT, P369
+   Dreby J, 2009, QUAL SOCIOL, V32, P33, DOI 10.1007/s11133-008-9117-x
+   Durand Jorge., 2005, New Destinations: Mexican Immigration in the United States, P1
+   Erickson BH., 1979, SOCIOL METHODOL, V10, P276, DOI DOI 10.2307/270774
+   Faist T, 2000, ETHNIC RACIAL STUD, V23, P189, DOI 10.1080/014198700329024
+   Feliciano C, 2001, SOC SCI QUART, V82, P865, DOI 10.1111/0038-4941.00064
+   Felix-Medina M.H., 2004, J OFF STAT, V20, P19
+   Fellows I.E., 2012, Exponential Family Random Network Models
+   FREEMAN LC, 1977, SOCIOMETRY, V40, P35, DOI 10.2307/3033543
+   Friedkin N., 1998, A structural theory of social influence
+   Friedkin NE, 2001, SOC NETWORKS, V23, P167, DOI 10.1016/S0378-8733(01)00036-3
+   Fujimoto K, 2011, SOC NETWORKS, V33, P231, DOI 10.1016/j.socnet.2011.06.001
+   Gibson M.A., 1988, ACCOMMODATION ASSIMI
+   Glick-Schiller Nina., 1992, Towards a Transnational Perspective on Migration: Race, Class, Ethnicity, and Nationalism Reconsidered
+   Goel S, 2010, P NATL ACAD SCI USA, V107, P6743, DOI 10.1073/pnas.1000261107
+   Goel S, 2009, STAT MED, V28, P2202, DOI 10.1002/sim.3613
+   Goodreau SM, 2009, DEMOGRAPHY, V46, P103, DOI 10.1353/dem.0.0045
+   Gordon M., 1964, ASSIMILATION AM LIFE
+   Griffith DavidC., 2005, New Destinations, P50
+   Guarnizo LE, 2003, AM J SOCIOL, V108, P1211, DOI 10.1086/375195
+   Guarnizo LE, 1998, COMP URB C, V6, P3
+   Handcock MS, 2011, SOCIOL METHODOL, V41, P367, DOI [10.1111/j.1467-9531.2011.01243.x, 10.1111/j.1467-9531.2011.01243]
+   Handcock MS, 2010, ANN APPL STAT, V4, P5, DOI 10.1214/08-AOAS221
+   Handcock MarkS., 2010, ergm: A package to fit, simulate, and diagnose exponentail-family models for networks
+   Heemskerk EM, 2011, GLOBAL NETW, V11, P440, DOI 10.1111/j.1471-0374.2011.00315.x
+   Heimer R, 2005, AIDS BEHAV, V9, P403, DOI 10.1007/s10461-005-9030-1
+   Hunter DR, 2007, SOC NETWORKS, V29, P216, DOI 10.1016/j.socnet.2006.08.005
+   Itzigsohn J, 2002, INT MIGR REV, V36, P766, DOI 10.1111/j.1747-7379.2002.tb00104.x
+   Kalton G., 2001, P ANN M AM STAT ASS
+   KANDEL DB, 1978, AM J SOCIOL, V84, P427, DOI 10.1086/226792
+   Kyle David., 2000, Transnational Peasants: Migrations, Networks, and Ethnicity in Andean Ecuador
+   Landolt P, 2001, GLOBAL NETW, V1, P217, DOI 10.1111/1471-0374.00014
+   Lara M, 2005, ANNU REV PUBL HEALTH, V26, P367, DOI 10.1146/annurev.publhealth.26.021304.144615
+   Lee Hellen., 2008, Ties to the Homeland: Second Generation Transnationalism
+   Leenders RTAJ, 2002, SOC NETWORKS, V24, P21, DOI 10.1016/S0378-8733(01)00049-1
+   LeSage J, 2009, STAT TEXTB MONOGR, P1
+   LeSage JP, 2011, J R STAT SOC A STAT, V174, P1007, DOI 10.1111/j.1467-985X.2011.00712.x
+   Levitt P, 1998, INT MIGR REV, V32, P926, DOI 10.2307/2547666
+   Levitt P, 2004, INT MIGR REV, V38, P1002, DOI 10.1111/j.1747-7379.2004.tb00227.x
+   Levitt P, 2007, ANNU REV SOCIOL, V33, P129, DOI 10.1146/annurev.soc.33.040406.131816
+   Levitt P, 2010, J ETHN MIGR STUD, V37, P1, DOI 10.1080/1369183X.2011.521361
+   Lindstrom DP, 2005, STUD FAMILY PLANN, V36, P277, DOI 10.1111/j.1728-4465.2005.00070.x
+   Lovasz L, 1993, P. Erdos is Eighty, V2, P1
+   Lubbers MJ, 2007, INT SOCIOL, V22, P721, DOI 10.1177/0268580907082255
+   Lubbers MJ, 2010, SOC NETWORKS, V32, P91, DOI 10.1016/j.socnet.2009.05.001
+   MANSKI CF, 1993, REV ECON STUD, V60, P531, DOI 10.2307/2298123
+   Maya-Jariego I, 2007, INT SOCIOL, V22, P743, DOI 10.1177/0268580907082259
+   Mazzucato Valentina., 2009, Multi-sited Ethnography: Theory, Praxis and Locality in Contemporary Research
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mouw T, 2012, SOCIOL METHODOL, V42, P206, DOI 10.1177/0081175012461248
+   O'Malley AJ, 2008, HEALTH SERV OUTCOME, V8, P222, DOI 10.1007/s10742-008-0041-z
+   ORD K, 1975, J AM STAT ASSOC, V70, P120, DOI 10.2307/2285387
+   Parrenas RhacelS., 2006, CHILDREN GLOBAL MIGR
+   Portes A, 2003, INT MIGR REV, V37, P874
+   Portes A, 1999, ETHNIC RACIAL STUD, V22, P217, DOI 10.1080/014198799329468
+   PORTES A, 1993, ANN AM ACAD POLIT SS, V530, P74, DOI 10.1177/0002716293530001006
+   Portes Alejandro., 2001, LEGACIES STORY IMMIG
+   Reif Julian, 2010, Statistical Software Components S457151
+   Rindfuss RR, 2007, SOC SCI RES, V36, P374, DOI 10.1016/j.ssresearch.2006.03.005
+   Rothenberg R.B., 1995, Connections, V18, P104
+   Royston P, 2005, STATA J, V5, P527, DOI 10.1177/1536867X0500500404
+   Rubin D.B., 2004, Multiple Imputations for Nonresponse in Surveys
+   Sacerdote B, 2001, Q J ECON, V116, P681, DOI 10.1162/00335530151144131
+   Sandberg J, 2005, DEMOGRAPHY, V42, P737, DOI 10.1353/dem.2005.0035
+   SCHILLER NG, 1995, ANTHROPOL QUART, V68, P48, DOI 10.2307/3317464
+   Shalizi CR, 2011, SOCIOL METHOD RES, V40, P211, DOI 10.1177/0049124111404820
+   Snijders TAB, 2006, SOCIOL METHODOL, V36, P99, DOI 10.1111/j.1467-9531.2006.00176.x
+   Snijders TAB, 2010, SOC NETWORKS, V32, P44, DOI 10.1016/j.socnet.2009.02.004
+   Soehl T, 2010, ETHNIC RACIAL STUD, V33, P1489, DOI 10.1080/01419871003624050
+   Vertovec S, 2004, INT MIGR REV, V38, P970
+   Vertovec S, 2004, GLOBAL NETW, V4, P219, DOI 10.1111/j.1471-0374.2004.00088.x
+   Vertovec S, 1999, ETHNIC RACIAL STUD, V22, P447, DOI 10.1080/014198799329558
+   Voigt-Graf C, 2005, J ETHN MIGR STUD, V31, P365, DOI 10.1080/1369183042000339972
+   Voigt-Graf C, 2004, GLOBAL NETW, V4, P25, DOI 10.1111/j.1471-0374.2004.00079.x
+   Waldinger R, 2004, AM J SOCIOL, V109, P1177, DOI 10.1086/381916
+   Waldinger R, 2008, INT MIGR REV, V42, P3, DOI 10.1111/j.1747-7379.2007.00112.x
+   Waldinger R, 2010, EMPIRIA, P21
+   WINSHIP C, 1994, SOCIOL METHOD RES, V23, P230, DOI 10.1177/0049124194023002004
+   Zhou M., 1998, Growing up American: How Vietnamese Children Adopt to Life in the United States
+   Zhou M., 1994, International Migration Review, V28, P775
+NR 120
+TC 43
+Z9 56
+U1 1
+U2 35
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD AUG
+PY 2014
+VL 61
+IS 3
+BP 329
+EP 359
+DI 10.1525/sp.2014.12192
+PG 31
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA AM0LA
+UT WOS:000339535900001
+PM 25750462
+OA Green Accepted, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Squazzoni, F
+AF Squazzoni, Flaminio
+TI A Social Science-Inspired Complexity Policy: Beyond the Mantra of
+   Incentivization
+SO COMPLEXITY
+LA English
+DT Article
+DE complexity-friendly policy; incentivization; social norms; social
+   networks; social interaction
+ID NETWORKS; COOPERATION; GOSSIP; CUES
+AB This study suggests that cross-fertilization between complexity and social science could provide a new rationale for policy. We look at the weakness of conventional policy thinking and excessive faith in incentives and the underestimation of social interaction on individual choices. Recent examples of experimental and computational research on social interaction indicate the importance of understanding preexisting social norms and network structures for targeting appropriately contextualized policies. This would allow us to conceive policy not as something that takes place "off-line'' outside systems but as a constitutive process interacting with self-organized system behavior. This article aims to pave the way for a complexity-friendly policy that allows us to understand and manage more than predict and control top-down. (C) 2014 Wiley Periodicals, Inc.
+C1 Univ Brescia, Dept Econ & Management, I-25122 Brescia, Italy.
+C3 University of Brescia
+RP Squazzoni, F (corresponding author), Univ Brescia, Dept Econ & Management, Via San Faustino 74-B, I-25122 Brescia, Italy.
+EM squazzon@eco.unibs.it
+OI Squazzoni, Flaminio/0000-0002-6503-6077
+CR [Anonymous], 2003, BEHAV GAME THEORY
+   [Anonymous], 2011, COMPLEXITY I PUBLIC
+   [Anonymous], 2012, Agent-Based Computational Sociology, DOI DOI 10.3758/BF03198964
+   [Anonymous], 2010, Diversity and complexity
+   [Anonymous], 1999, Harnessing Complexity: Organizational Implications of a Scientific Frontier
+   Ball P., 2012, M 21 CENT CHALL NEW
+   Bateson M, 2006, BIOL LETTERS, V2, P412, DOI 10.1098/rsbl.2006.0509
+   Battiston S, 2012, SCI REP-UK, V2, DOI 10.1038/srep00541
+   Boero R, 2010, JASSS-J ARTIF SOC S, V13, DOI 10.18564/jasss.1620
+   Boero Riccardo., 2009, The Journal of Socio-Economics, V38, P871, DOI [DOI 10.1016/J.SOCEC.2009.05.004, 10.1016/j.socec.2009.05.004]
+   Bowles S, 2008, SCIENCE, V320, P1605, DOI 10.1126/science.1152110
+   Bravo G, 2012, SOC NETWORKS, V34, P481, DOI 10.1016/j.socnet.2012.03.001
+   Buchanan M., 2007, SOCIAL ATOM WHY RICH
+   Burnham TC, 2007, HUM NATURE-INT BIOS, V18, P88, DOI 10.1007/s12110-007-9012-2
+   Buskens V, 2008, J PEACE RES, V45, P205, DOI 10.1177/0022343307087177
+   Christakis NA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0012948
+   Corten R, 2010, SOC NETWORKS, V32, P4, DOI 10.1016/j.socnet.2009.04.002
+   Durlauf SN, 1998, WASH QUART, V21, P157
+   Eguíluz VM, 2005, AM J SOCIOL, V110, P977, DOI 10.1086/428716
+   Epstein JM., 2007, GENERATIVE SOCIAL SC
+   Farmer JD, 2009, NATURE, V460, P685, DOI 10.1038/460685a
+   Farmer JD, 2009, COMPLEXITY, V14, P11, DOI 10.1002/cplx.20261
+   Finch J, 2005, EUR ASSOC EVOL POLIT, P1
+   Flache A, 2001, RATION SOC, V13, P304
+   Garicano L, 2005, J ECON PERSPECT, V19, P151, DOI 10.1257/089533005775196723
+   Geyer R., COMPLEXITY PUBLIC PO
+   Geyer R, 2012, POLIT STUD-LONDON, V60, P20, DOI 10.1111/j.1467-9248.2011.00903.x
+   Gigerenzer G, 2009, TOP COGN SCI, V1, P107, DOI 10.1111/j.1756-8765.2008.01006.x
+   Gintis Herbert., 2005, MORAL SENTIMENTS MAT
+   Gneezy U, 2000, J LEGAL STUD, V29, P1, DOI 10.1086/468061
+   Granovetter M, 2005, J ECON PERSPECT, V19, P33, DOI 10.1257/0895330053147958
+   Haley KJ, 2005, EVOL HUM BEHAV, V26, P245, DOI 10.1016/j.evolhumbehav.2005.01.002
+   Helbing D., 2012, Social self-organization: Agent-based simulations and experiments to study emergent social behavior, P25
+   Heyman J, 2004, PSYCHOL SCI, V15, P787, DOI 10.1111/j.0956-7976.2004.00757.x
+   Hirschman A. O., 1958, The strategy of economic development
+   Knorr-Cetina K., 2005, The sociology of financial markets
+   KOLLOCK P, 1994, AM J SOCIOL, V100, P313, DOI 10.1086/230539
+   Kretzmann J., 1993, BUILDING COMMUNITIES
+   Laffont J.J., 2002, THEORY INCENTIVES PR
+   Lane D, 2009, METHODS SER, V7, P1, DOI 10.1007/978-1-4020-9663-1
+   Maroulis S, 2010, SCIENCE, V330, P38, DOI 10.1126/science.1195153
+   Milinski M, 2007, SCIENCE, V317, P464, DOI 10.1126/science.1143918
+   Miller JH, 2007, PRINC STUD COMPLEX, P1, DOI 10.1007/1-4020-5602-8_1
+   Moss S, 2005, AM J SOCIOL, V110, P1095, DOI 10.1086/427320
+   Muchnik L, 2013, SCIENCE, V341, P647, DOI 10.1126/science.1240466
+   Ormerod P., 2012, Positive Linking: How Networks can Revolutionise the World
+   Ormerod Paul, 2012, COMPLEX NEW WORLD TR, P28
+   Ostrom E, 2005, UNDERSTANDING INSTITUTIONAL DIVERSITY, P1
+   Piazza J, 2008, EVOL HUM BEHAV, V29, P172, DOI 10.1016/j.evolhumbehav.2007.12.002
+   Podolny JM, 2001, AM J SOCIOL, V107, P33, DOI 10.1086/323038
+   Rhodes MaryLee., 2011, PUBLIC MANAGEMENT CO
+   Saavedra S, 2011, P NATL ACAD SCI USA, V108, P5296, DOI 10.1073/pnas.1018462108
+   Salganik M.J., 2009, The Oxford handbook of analytical sociology, P315, DOI DOI 10.1093/OXFORDHB/9780199215362.013.14
+   Salganik MJ, 2006, SCIENCE, V311, P854, DOI 10.1126/science.1121066
+   Schindler M.P., 2007, Rumors in Financial Markets: Insights into Behavioral Finance
+   Shafir E., 2013, The behavioral foundations of public policy
+   Smith KP, 2008, ANNU REV SOCIOL, V34, P405, DOI 10.1146/annurev.soc.34.040507.134601
+   Sommerfeld RD, 2007, P NATL ACAD SCI USA, V104, P17435, DOI 10.1073/pnas.0704598104
+   Squazzoni F., 2010, Innovation in Complex Social Systems, P290
+   Sutcliffe A, 2012, JASSS-J ARTIF SOC S, V15
+   Thaler R.H., 2009, Nudge
+   Titmuss R.M., 1970, GIFT RELATIONSHIPS H
+   TVERSKY A, 1981, SCIENCE, V211, P453, DOI 10.1126/science.7455683
+   Tyler TR, 2011, WHY PEOPLE COOPERATE: THE ROLE OF SOCIAL MOTIVATIONS, P1
+   Vespignani A, 2009, SCIENCE, V325, P425, DOI 10.1126/science.1171990
+NR 65
+TC 17
+Z9 18
+U1 0
+U2 5
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1076-2787
+EI 1099-0526
+J9 COMPLEXITY
+JI Complexity
+PD JUL-AUG
+PY 2014
+VL 19
+IS 6
+SI SI
+BP 5
+EP 13
+DI 10.1002/cplx.21520
+PG 9
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Science & Technology - Other Topics
+GA AM0PV
+UT WOS:000339548700002
+DA 2024-11-22
+ER
+
+PT J
+AU Pei, S
+   Muchnik, L
+   Andrade, JS
+   Zheng, ZM
+   Makse, HA
+AF Pei, Sen
+   Muchnik, Lev
+   Andrade, Jose S., Jr.
+   Zheng, Zhiming
+   Makse, Hernan A.
+TI Searching for superspreaders of information in real-world social media
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID NETWORKS; DIFFUSION; IDENTIFICATION; INFLUENTIALS; MODEL
+AB A number of predictors have been suggested to detect the most influential spreaders of information in online social media across various domains such as Twitter or Facebook. In particular, degree, PageRank, k-core and other centralities have been adopted to rank the spreading capability of users in information dissemination media. So far, validation of the proposed predictors has been done by simulating the spreading dynamics rather than following real information flow in social networks. Consequently, only model-dependent contradictory results have been achieved so far for the best predictor. Here, we address this issue directly. We search for influential spreaders by following the real spreading dynamics in a wide range of networks. We find that the widely-used degree and PageRank fail in ranking users' influence. We find that the best spreaders are consistently located in the k-core across dissimilar social platforms such as Twitter, Facebook, Livejournal and scientific publishing in the American Physical Society. Furthermore, when the complete global network structure is unavailable, we find that the sum of the nearest neighbors' degree is a reliable local proxy for user's influence. Our analysis provides practical instructions for optimal design of strategies for "viral'' information dissemination in relevant applications.
+C1 [Pei, Sen; Zheng, Zhiming] Beihang Univ, LMIB, Beijing 100191, Peoples R China.
+   [Pei, Sen; Zheng, Zhiming] Beihang Univ, Sch Math & Syst Sci, Beijing 100191, Peoples R China.
+   [Pei, Sen; Makse, Hernan A.] CUNY City Coll, Levich Inst, New York, NY 10031 USA.
+   [Pei, Sen; Makse, Hernan A.] CUNY City Coll, Dept Phys, New York, NY 10031 USA.
+   [Muchnik, Lev] Hebrew Univ Jerusalem, Sch Business Adm, IL-91905 Jerusalem, Israel.
+   [Andrade, Jose S., Jr.; Makse, Hernan A.] Univ Fed Ceara, Dept Fis, BR-60451970 Fortaleza, Ceara, Brazil.
+C3 Beihang University; Beihang University; City University of New York
+   (CUNY) System; City College of New York (CUNY); City University of New
+   York (CUNY) System; City College of New York (CUNY); Hebrew University
+   of Jerusalem; Universidade Federal do Ceara
+RP Makse, HA (corresponding author), CUNY City Coll, Levich Inst, New York, NY 10031 USA.
+EM hmakse@lev.ccny.cuny.edu
+RI Makse, Hernan/KPA-9630-2024; Pei, Sen/AAN-8662-2020; Soares de Andrade
+   Jr., Jose/C-5451-2013
+OI Soares de Andrade Jr., Jose/0000-0002-5571-7610; Muchnik,
+   Lev/0000-0002-5011-8336; Pei, Sen/0000-0002-7072-2995
+FU NSF; NIH; NSFC [11290141, 11201018, 2010DFR00700, MJ F 2012 04]; ARL
+   [W911NF-09-2-0053]; Innovation Foundation of BUAA; CNPq; CAPES; FUNCAP;
+   Direct For Mathematical & Physical Scien; Division Of Physics [1305476]
+   Funding Source: National Science Foundation
+FX This work was supported by NSF, NIH and ARL under Cooperative Agreement
+   Number W911NF-09-2-0053. S.P. was supported by NSFC (No. 11290141,
+   11201018), 2010DFR00700, MJ F 2012 04 and Innovation Foundation of BUAA
+   for PhD Graduates. J.S.A. would like to thank the Brazilian agencies
+   CNPq, CAPES and FUNCAP for financial support. We thank L.K. Gallos and
+   Y. Hu for useful discussions and M. Doyle and H.D. Rozenfeld for
+   providing the APS dataset.
+CR Albert R, 2000, NATURE, V406, P378, DOI 10.1038/35019019
+   Alvarez-Hamelin J. I., 2006, ISMA WORKSH INT TOP
+   [Anonymous], 2009, P 2 ACM WORKSHOP ONL
+   [Anonymous], ARXIV11110073
+   [Anonymous], 2010, 4 INT AAAI C WEBLOGS
+   Aral S., 2013, NETW SCI, V1, P125, DOI [DOI 10.1017/NWS.2013.6, 10.1017/nws.2013.6]
+   Backstrom L., 2006, P 12 ACM SIGKDD INT, P44, DOI [10.1145/1150402.1150412, DOI 10.1145/1150402.1150412]
+   Bakshy E., 2011, P 4 ACM INT C WEB SE, P65, DOI DOI 10.1145/1935826.1935845
+   BECKER MH, 1970, AM J PUBLIC HEALTH N, V60, P294, DOI 10.2105/AJPH.60.2.294
+   Borge-Holthoefer J, 2012, PHYS REV E, V85, DOI 10.1103/PhysRevE.85.026116
+   Brandes U, 2001, J MATH SOCIOL, V25, P163, DOI 10.1080/0022250X.2001.9990249
+   Brin S, 1998, COMPUT NETWORKS ISDN, V30, P107, DOI 10.1016/S0169-7552(98)00110-X
+   BROOKS G, 1992, SIGPLAN NOTICES, V27, P1, DOI [10.13334/j.0258-8013.pcsee.213043, 10.1145/143103.143108]
+   Carmi S, 2007, P NATL ACAD SCI USA, V104, P11150, DOI 10.1073/pnas.0701175104
+   Castellano C, 2009, REV MOD PHYS, V81, P591, DOI 10.1103/RevModPhys.81.591
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   Chen DB, 2013, EPL-EUROPHYS LETT, V104, DOI 10.1209/0295-5075/104/68006
+   Dorogovtsev SN, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.040601
+   Efron B., 1994, INTRO BOOTSTRAP
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   Galeotti A, 2009, RAND J ECON, V40, P509, DOI 10.1111/j.1756-2171.2009.00075.x
+   Gallos LK, 2012, PHYS REV X, V2, DOI 10.1103/PhysRevX.2.031014
+   Ghoshal G, 2011, NAT COMMUN, V2, DOI 10.1038/ncomms1396
+   Goel S., 2012, P 13 ACM C EL COMM, P623
+   Goldenberg J, 2001, MARKET LETT, V12, P211, DOI 10.1023/A:1011122126881
+   Goldenberg J, 2009, J MARKETING, V73, P1, DOI 10.1509/jmkg.73.2.1
+   González-Bailón S, 2011, SCI REP-UK, V1, DOI 10.1038/srep00197
+   Grabowicz PA, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0029358
+   Gruhl D., 2004, P 13 INT C WORLD WID, P491, DOI [DOI 10.1145/988672.988739, DOI 10.1145/1046456.1046462]
+   Guille A, 2013, SIGMOD REC, V42, P17
+   Hethcote HW, 2000, SIAM REV, V42, P599, DOI 10.1137/S0036144500371907
+   Honeycutt C., 2009, Proceedings of the 42nd Hawaii International Conference on System Sciences, P1, DOI [10.1109/HICSS.2009.602, DOI 10.1109/HICSS.2009.602]
+   Iyengar R, 2011, MARKET SCI, V30, P195, DOI 10.1287/mksc.1100.0566
+   Java A., 2006, Proceedings of the 15th International World Wide Web Conference, Edinburgh, Scotland, P22
+   Kitsak M, 2010, NAT PHYS, V6, P888, DOI [10.1038/NPHYS1746, 10.1038/nphys1746]
+   Kleinberg J, 2007, ALGORITHMIC GAME THEORY, P613
+   Lazarsfeld, 1955, PERSONAL INFLUENCE P
+   Liben-Nowell D, 2005, P NATL ACAD SCI USA, V102, P11623, DOI 10.1073/pnas.0503018102
+   Liben-Nowell D, 2008, P NATL ACAD SCI USA, V105, P4633, DOI 10.1073/pnas.0708471105
+   Lü LY, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0021202
+   Marsden P., 2006, CONNECTED MARKETING, V323
+   McCreadie R, 2012, SIGIR 2012: PROCEEDINGS OF THE 35TH INTERNATIONAL ACM SIGIR CONFERENCE ON RESEARCH AND DEVELOPMENT IN INFORMATION RETRIEVAL, P1113, DOI 10.1145/2348283.2348495
+   Muchnik L, 2013, SCIENCE, V341, P647, DOI 10.1126/science.1240466
+   Muchnik L, 2013, SCI REP-UK, V3, DOI 10.1038/srep01783
+   Nguyen Tommy H., 2013, 2013 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), P49
+   Pastor-Satorras R, 2001, PHYS REV LETT, V86, P3200, DOI 10.1103/PhysRevLett.86.3200
+   Pei S, 2013, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2013/12/P12002
+   Rogers E. M., 1995, DIFFUSION INNOVATION
+   Rybski D, 2012, SCI REP-UK, V2, DOI 10.1038/srep00560
+   SEIDMAN SB, 1983, SOC NETWORKS, V5, P269, DOI 10.1016/0378-8733(83)90028-X
+   Singh P, 2013, SCI REP-UK, V3, DOI 10.1038/srep02330
+   Tardos, 2003, P 9 ACM SIGKDD INT C, P137, DOI 10.1145/956750.956769
+   Valente TW, 1999, ANN AM ACAD POLIT SS, V566, P55, DOI 10.1177/0002716299566001005
+   Van den Bulte C, 2007, MARKET SCI, V26, P400, DOI 10.1287/mksc.1060.0224
+   Watts D. J., 2007, HARVARD BUSINESS MAY, P104
+   Watts DJ, 2002, P NATL ACAD SCI USA, V99, P5766, DOI 10.1073/pnas.082090499
+   Watts DJ, 2007, J CONSUM RES, V34, P441, DOI 10.1086/518527
+   Wuchty S, 2005, BMC EVOL BIOL, V5, DOI 10.1186/1471-2148-5-24
+NR 58
+TC 296
+Z9 333
+U1 8
+U2 166
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD JUL 3
+PY 2014
+VL 4
+AR 5547
+DI 10.1038/srep05547
+PG 12
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA AK4VD
+UT WOS:000338421300002
+PM 24989148
+OA gold, Green Published
+HC Y
+HP N
+DA 2024-11-22
+ER
+
+PT J
+AU Coviello, L
+   Sohn, Y
+   Kramer, ADI
+   Marlow, C
+   Franceschetti, M
+   Christakis, NA
+   Fowler, JH
+AF Coviello, Lorenzo
+   Sohn, Yunkyu
+   Kramer, Adam D. I.
+   Marlow, Cameron
+   Franceschetti, Massimo
+   Christakis, Nicholas A.
+   Fowler, James H.
+TI Detecting Emotional Contagion in Massive Social Networks
+SO PLOS ONE
+LA English
+DT Article
+ID BEHAVIOR; HAPPINESS; WEATHER; SPREAD; MOOD
+AB Happiness and other emotions spread between people in direct contact, but it is unclear whether massive online social networks also contribute to this spread. Here, we elaborate a novel method for measuring the contagion of emotional expression. With data from millions of Facebook users, we show that rainfall directly influences the emotional content of their status messages, and it also affects the status messages of friends in other cities who are not experiencing rainfall. For every one person affected directly, rainfall alters the emotional expression of about one to two other people, suggesting that online social networks may magnify the intensity of global emotional synchrony.
+C1 [Coviello, Lorenzo; Franceschetti, Massimo] Univ Calif San Diego, Elect & Comp Engn Dept, San Diego, CA 92103 USA.
+   [Sohn, Yunkyu; Fowler, James H.] Univ Calif San Diego, Dept Polit Sci, San Diego, CA 92103 USA.
+   [Kramer, Adam D. I.; Marlow, Cameron] Facebook Inc, Menlo Pk, CA USA.
+   [Christakis, Nicholas A.] Yale Univ, Dept Sociol, New Haven, CT USA.
+   [Christakis, Nicholas A.] Yale Univ, Dept Med, New Haven, CT 06520 USA.
+   [Fowler, James H.] Univ Calif San Diego, Sch Med, Div Med Genet, San Diego, CA 92103 USA.
+C3 University of California System; University of California San Diego;
+   University of California System; University of California San Diego;
+   Facebook Inc; Yale University; Yale University; University of California
+   System; University of California San Diego
+RP Fowler, JH (corresponding author), Univ Calif San Diego, Dept Polit Sci, San Diego, CA 92103 USA.
+EM fowler@ucsd.edu
+RI Christakis, Nicholas/B-6690-2008; Fowler, James/C-2750-2008
+OI Fowler, James/0000-0001-7795-1638
+FU Army Research Office [W911NF-11-1-0363]; James S. McDonnell Foundation
+FX This work was partially supported by Army Research Office Grant
+   W911NF-11-1-0363, and a grant from the James S. McDonnell Foundation.
+   The funders had no role in study design, data collection and analysis,
+   decision to publish, or preparation of the manuscript.
+CR Angrist JD, 1996, J AM STAT ASSOC, V91, P444, DOI 10.2307/2291629
+   [Anonymous], P 6 ACM INT C WEB SE
+   [Anonymous], P 6 INT AAAI C WEBL
+   [Anonymous], 1968, ANIMAL BEHAV MONOGRA
+   Aral S, 2012, SCIENCE, P1
+   Bollen J, 2011, ARTIF LIFE, V17, P237, DOI 10.1162/artl_a_00034
+   Bond RM, 2012, NATURE, V489, P295, DOI 10.1038/nature11421
+   Burke KA, 2008, NATURE, V454, P340, DOI 10.1038/nature06993
+   Cacioppo JT, 2009, J PERS SOC PSYCHOL, V97, P977, DOI 10.1037/a0016076
+   Canli T, 2002, SCIENCE, V296, P2191, DOI 10.1126/science.1068749
+   Centola D, 2011, SCIENCE, V334, P1269, DOI 10.1126/science.1207055
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Christakis NA, 2009, Connected: The Surprising Power of Our Social Networks and How They Shape Our Lives
+   Christakis NA, 2013, STAT MED, V32, P556, DOI 10.1002/sim.5408
+   Christakis Nicholas A, 2009, Nor Epidemiol, V19, P5
+   Easterlin RA, 2003, P NATL ACAD SCI USA, V100, P11176, DOI 10.1073/pnas.1633144100
+   Fowler JH, 2010, P NATL ACAD SCI USA, V107, P5334, DOI 10.1073/pnas.0913149107
+   Fowler JH, 2008, BMJ-BRIT MED J, V337, DOI 10.1136/bmj.a2338
+   Gilbert DT, 2007, SCIENCE, V317, P1351, DOI 10.1126/science.1144161
+   Golder SA, 2011, SCIENCE, V333, P1878, DOI 10.1126/science.1202775
+   Goncalves P., 2013, P 1 ACM C ONLINE SOC, P27, DOI DOI 10.1145/2512938.2512951
+   Gruzd A, 2011, SYST SCI HICSS 2011
+   Guillory J, 2011, 29TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, P745
+   Hatfield E, 1994, CURR DIR PSYCHOL SCI, V2, P96, DOI [10.1111/1467-8721.ep10770953, DOI 10.1111/1467-8721.EP10770953]
+   HOWES MJ, 1985, J PERS SOC PSYCHOL, V49, P1110, DOI 10.1037/0022-3514.49.4.1110
+   Kahneman D, 2006, SCIENCE, V312, P1908, DOI 10.1126/science.1129688
+   Keller MC, 2005, PSYCHOL SCI, V16, P724, DOI 10.1111/j.1467-9280.2005.01602.x
+   Keltner D, 1997, J PERS SOC PSYCHOL, V73, P687, DOI 10.1037/0022-3514.73.4.687
+   Klimstra TA, 2011, EMOTION, V11, P1495, DOI 10.1037/a0024649
+   Kramer Adam DI, 2012, P SIGCHI C HUM FACT, P767, DOI [DOI 10.1177/0894439305283402, 10.1145/2207676.2207787, DOI 10.1145/2207676.2207787]
+   Pennebaker J.W., 2007, The development and psychological properties of LIWC 2007
+   Pugh SD, 2001, ACAD MANAGE J, V44, P1018, DOI 10.5465/3069445
+   Robinson WS, 1950, AM SOCIOL REV, V15, P351, DOI 10.1093/ije/dyn357
+   Rosenquist JN, 2011, MOL PSYCHIATR, V16, P273, DOI 10.1038/mp.2010.13
+   Silk JB, 2007, SCIENCE, V317, P1347, DOI 10.1126/science.1140734
+   Tausczik YR, 2010, J LANG SOC PSYCHOL, V29, P24, DOI 10.1177/0261927X09351676
+   ZAJONC RB, 1985, SCIENCE, V228, P15, DOI 10.1126/science.3883492
+NR 37
+TC 294
+Z9 355
+U1 4
+U2 184
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD MAR 12
+PY 2014
+VL 9
+IS 3
+AR e90315
+DI 10.1371/journal.pone.0090315
+PG 6
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA AC9HN
+UT WOS:000332845300020
+PM 24621792
+OA gold, Green Published
+DA 2024-11-22
+ER

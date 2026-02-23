@@ -1,0 +1,491 @@
+
+PT J
+AU de Nooy, W
+AF de Nooy, Wouter
+TI Networks of action and events over time. A multilevel discrete-time
+   event history model for longitudinal network data
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Network dynamics; Discrete-time event history models; Multilevel
+   logistic regression analysis; Longitudinal social networks; Book
+   reviewing
+ID EVOLVING SOCIAL NETWORK; MARITAL-STATUS; DIFFUSION; MORTALITY; SURVIVAL;
+   INNOVATION; FRAMEWORK; EVOLUTION; DYNAMICS; GRAPHS
+AB Longitudinal network data recording the moment at which ties appear, change, or disappear are increasingly available. Event history models can be used to analyze the dynamics of time-stamped network data. This paper adapts the discrete-time event history model to social network data. A discrete-time event history model can easily incorporate a multilevel design and time-varying covariates. A multilevel design is needed to account for dependencies among ties and vertices, which should not be ignored in a small longitudinal network. Time-varying covariates are required to analyze network effects, that is, the impact of previous ties. In addition, a discrete-time event history model handles constraints on who can act or who can be acted upon in a straightforward way. The model can be estimated with multilevel logistic regression analysis, which is illustrated by an application to book reviews, so network evolution can be analyzed with a fairly standard statistical tool. (C) 2010 Elsevier B.V. All rights reserved.
+C1 Univ Amsterdam, ASCoR, Dept Commun, NL-1012 CX Amsterdam, Netherlands.
+C3 University of Amsterdam
+RP de Nooy, W (corresponding author), Univ Amsterdam, ASCoR, Dept Commun, Kloveniersburgwal 48, NL-1012 CX Amsterdam, Netherlands.
+EM w.denooy@uva.nl
+CR Adams AM, 2002, SOC SCI MED, V54, P165, DOI 10.1016/S0277-9536(01)00017-X
+   [Anonymous], 2005, Models and Methods in Social Network Analysis, DOI DOI 10.1017/CBO9780511811395.008
+   Bernasco W, 1998, EUR SOCIOL REV, V14, P15, DOI 10.1093/oxfordjournals.esr.a018225
+   Blossfeld H.P., 1989, Event History Analysis. Statistical Theory and Application in the Social Sciences
+   Bogart D, 2007, J URBAN ECON, V61, P238, DOI 10.1016/j.jue.2006.11.002
+   Bohman L, 2006, EUR SOCIOL REV, V22, P383, DOI 10.1093/esr/jcl003
+   BOURDIEU P, 1983, POETICS, V12, P311, DOI 10.1016/0304-422X(83)90012-8
+   Box-Steffensmeier Janet., 2004, EVENT HIST ANAL
+   Brandes U, 2009, 2009 INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING, P200, DOI 10.1109/ASONAM.2009.28
+   Brandt M, 2006, KOLNER Z SOZIOL SOZ, V58, P468, DOI 10.1007/s11575-006-0106-6
+   Browne W.J., 2004, MCMC Estimation in MLwiN
+   Butts CT, 2008, SOCIOL METHODOL, V38, P155, DOI 10.1111/j.1467-9531.2008.00203.x
+   Bygren LO, 1996, BRIT MED J, V313, P1577, DOI 10.1136/bmj.313.7072.1577
+   Callander S, 2005, J PUBLIC ECON, V89, P1469, DOI 10.1016/j.jpubeco.2004.03.009
+   Chaves M, 1996, AM J SOCIOL, V101, P840, DOI 10.1086/230782
+   Clarysse B, 1996, RES POLICY, V25, P671, DOI 10.1016/0048-7333(95)00824-1
+   Corten R, 2010, SOC NETWORKS, V32, P4, DOI 10.1016/j.socnet.2009.04.002
+   DAVIS GF, 1992, ADMIN SCI QUART, V37, P605, DOI 10.2307/2393474
+   De Nooy W, 1999, POETICS, V26, P385, DOI 10.1016/S0304-422X(99)00009-1
+   de Nooy W., 2008, J SOCIAL STRUCTURE, P9
+   DENOOY W, 1991, POETICS, V20, P507, DOI 10.1016/0304-422X(91)90023-I
+   Edling C, 2001, EUR SOCIOL REV, V17, P389, DOI 10.1093/esr/17.4.389
+   Freedman D, 1988, Sociol Methodol, V18, P37, DOI 10.2307/271044
+   FRIEDKIN NE, 1990, J MATH SOCIOL, V15, P193, DOI 10.1080/0022250X.1990.9990069
+   Goldstein H., 2010, Multilevel Statistical Models, VFourth
+   Gustafsson TM, 1998, AGE AGEING, V27, P585, DOI 10.1093/ageing/27.5.585
+   Hu DN, 2009, J AM SOC INF SCI TEC, V60, P655, DOI 10.1002/asi.21008
+   KANG SH, 1993, J NATL CANCER I, V85, P737, DOI 10.1093/jnci/85.9.737
+   KATZ L, 1959, PSYCHOMETRIKA, V24, P317, DOI 10.1007/BF02289814
+   Kim JW, 2007, RES POLICY, V36, P499, DOI 10.1016/j.respol.2007.02.017
+   Kossinets G, 2006, SCIENCE, V311, P88, DOI 10.1126/science.1116869
+   Kossinets G, 2009, AM J SOCIOL, V115, P405, DOI 10.1086/599247
+   Krempel L., 1990, Social Networks Through Time, P65
+   Lipp C, 2001, INT REV SOC HIST, V46, P151, DOI 10.1017/S0020859001000281
+   Litwin H, 2006, GERONTOLOGIST, V46, P735, DOI 10.1093/geront/46.6.735
+   Marsden PeterV., 1990, Social Networks through time, P197
+   MCKEOWN TJ, 1994, J ECON BEHAV ORGAN, V24, P153, DOI 10.1016/0167-2681(94)90023-X
+   MCPHERSON JM, 1992, AM SOCIOL REV, V57, P153, DOI 10.2307/2096202
+   Mintrom M, 1998, J POLIT, V60, P126, DOI 10.2307/2648004
+   Moody J, 2005, AM J SOCIOL, V110, P1206, DOI 10.1086/421509
+   Mossholder KW, 2005, ACAD MANAGE J, V48, P607, DOI 10.2307/20159682
+   O'Madadhain Joshua., 2005, SIGKDD Explorations Newsletter, V7, P23
+   Patterson TL, 1996, ANN BEHAV MED, V18, P30, DOI 10.1007/BF02903937
+   Payette H, 2000, J CLIN EPIDEMIOL, V53, P579, DOI 10.1016/S0895-4356(99)00186-9
+   Robins G, 2001, PSYCHOMETRIKA, V66, P161, DOI 10.1007/BF02294834
+   Robins G, 2001, SOC NETWORKS, V23, P1, DOI 10.1016/S0378-8733(01)00029-6
+   Robinson DT, 2001, SOC FORCES, V80, P123, DOI 10.1353/sof.2001.0085
+   RUNGER G, 1979, SOC NETWORKS, V2, P143
+   SAMUELSSON G, 1993, INT J AGING HUM DEV, V37, P277, DOI 10.2190/FRRH-UR9D-3FF9-UDXP
+   Singer D., 2003, APPL LONGITUDINAL DA, DOI DOI 10.1093/ACPROF:OSO/9780195152968.001.0001
+   Snijders T., 2012, MULTILEVEL ANAL INTR
+   Snijders T. A., 2005, MODELS METHODS SOCIA, V1, P215, DOI DOI 10.1017/CBO9780511811395.011
+   Snijders TAB, 1999, PERS RELATIONSHIP, V6, P471, DOI 10.1111/j.1475-6811.1999.tb00204.x
+   Soule SA, 1997, SOC FORCES, V75, P855, DOI 10.2307/2580522
+   Spiegelhalter DJ, 2002, J R STAT SOC B, V64, P583, DOI 10.1111/1467-9868.00353
+   Steele F, 2004, STAT MODEL, V4, P145, DOI 10.1191/1471082X04st069oa
+   Steele F, 2003, LIFETIME DATA ANAL, V9, P155, DOI 10.1023/A:1022930918859
+   Steele F, 2008, J R STAT SOC A STAT, V171, P5
+   STRANG D, 1991, SOCIOL METHOD RES, V19, P324, DOI 10.1177/0049124191019003003
+   STRANG D, 1993, AM J SOCIOL, V99, P614, DOI 10.1086/230318
+   Sutton JR, 2004, J SCI STUD RELIG, V43, P171, DOI 10.1111/j.1468-5906.2004.00226.x
+   Trovato F, 1998, CAN REV SOC ANTHROP, V35, P65
+   Tsai WP, 2000, STRATEGIC MANAGE J, V21, P925, DOI 10.1002/1097-0266(200009)21:9<925::AID-SMJ129>3.0.CO;2-I
+   Van den Bulte C, 2001, AM J SOCIOL, V106, P1409, DOI 10.1086/320819
+   van Duijn MAJ, 2004, STAT NEERL, V58, P234
+   VANREES CJ, 1996, POETICS, V23, P317
+   Villingshoj M, 2006, EUR J CANCER, V42, P3022, DOI 10.1016/j.ejca.2006.04.027
+   Wasserman S, 1996, PSYCHOMETRIKA, V61, P401, DOI 10.1007/BF02294547
+   White HarrisonC., 1970, CHAINS OPPORTUNITY S
+   Yakubovich V, 2000, INT SOCIOL, V15, P479, DOI 10.1177/026858000015003003
+   Zijlstra BJH, 2009, BRIT J MATH STAT PSY, V62, P143, DOI 10.1348/000711007X255336
+NR 71
+TC 52
+Z9 60
+U1 2
+U2 29
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-8733
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JAN
+PY 2011
+VL 33
+IS 1
+BP 31
+EP 40
+DI 10.1016/j.socnet.2010.09.003
+PG 10
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 781UM
+UT WOS:000291962000004
+OA Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Fletcher, RJ
+   Acevedo, MA
+   Reichert, BE
+   Pias, KE
+   Kitchens, WM
+AF Fletcher, Robert J., Jr.
+   Acevedo, Miguel A.
+   Reichert, Brian E.
+   Pias, Kyle E.
+   Kitchens, Wiley M.
+TI Social network models predict movement and connectivity in ecological
+   landscapes
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE dispersal; graph theory; habitat fragmentation; latent space models;
+   landscape ecology
+ID SNAIL KITE; DISPERSAL; CONSERVATION; THRESHOLDS; PATTERNS; LINKS
+AB Network analysis is on the rise across scientific disciplines because of its ability to reveal complex, and often emergent, patterns and dynamics. Nonetheless, a growing concern in network analysis is the use of limited data for constructing networks. This concern is strikingly relevant to ecology and conservation biology, where network analysis is used to infer connectivity across landscapes. In this context, movement among patches is the crucial parameter for interpreting connectivity but because of the difficulty of collecting reliable movement data, most network analysis proceeds with only indirect information on movement across landscapes rather than using observed movement to construct networks. Statistical models developed for social networks provide promising alternatives for landscape network construction because they can leverage limited movement information to predict linkages. Using two mark-recapture datasets on individual movement and connectivity across landscapes, we test whether commonly used network constructions for interpreting connectivity can predict actual linkages and network structure, and we contrast these approaches to social network models. We find that currently applied network constructions for assessing connectivity consistently, and substantially, overpredict actual connectivity, resulting in considerable overestimation of metapopulation lifetime. Furthermore, social network models provide accurate predictions of network structure, and can do so with remarkably limited data on movement. Social network models offer a flexible and powerful way for not only understanding the factors influencing connectivity but also for providing more reliable estimates of connectivity and metapopulation persistence in the face of limited data.
+C1 [Fletcher, Robert J., Jr.; Acevedo, Miguel A.; Reichert, Brian E.; Pias, Kyle E.] Univ Florida, Dept Wildlife Ecol & Conservat, Gainesville, FL 32611 USA.
+   [Acevedo, Miguel A.] Univ Florida, Sch Nat Resources & Environm, Gainesville, FL 32611 USA.
+   [Kitchens, Wiley M.] Univ Florida, US Geol Survey, Florida Cooperat Fish & Wildlife Res Unit, Gainesville, FL 32611 USA.
+C3 State University System of Florida; University of Florida; State
+   University System of Florida; University of Florida; State University
+   System of Florida; University of Florida; United States Department of
+   the Interior; United States Geological Survey
+RP Fletcher, RJ (corresponding author), Univ Florida, Dept Wildlife Ecol & Conservat, Gainesville, FL 32611 USA.
+EM robert.fletcher@ufl.edu
+OI Fletcher, Robert/0000-0003-1717-5707
+FU US Army Corps of Engineers; US Fish and Wildlife Service; US Geological
+   Survey; National Science Foundation (NSF) Quantitative Spatial Ecology,
+   Evolution, and Environment (QSE3) at the University of Florida
+   [0801544]; NSF
+FX We thank D. Tuss for line drawings of the species. We thank E. M. Bruna,
+   D. J. Levey, J. Martin, and two anonymous reviewers for comments on
+   earlier versions of this manuscript, which greatly improved and
+   clarified the ideas presented here. This work was supported by the US
+   Army Corps of Engineers, the US Fish and Wildlife Service, and the US
+   Geological Survey. M.A.A. was supported by National Science Foundation
+   (NSF) Quantitative Spatial Ecology, Evolution, and Environment (QSE3)
+   Integrative Graduate Education and Research Traineeship Program Grant
+   0801544 at the University of Florida and an NSF Doctoral Dissertation
+   Improvement Grant.
+CR Allouche O, 2006, J APPL ECOL, V43, P1223, DOI 10.1111/j.1365-2664.2006.01214.x
+   Bélisle M, 2005, ECOLOGY, V86, P1988, DOI 10.1890/04-0923
+   Bodin Ö, 2006, ECOL APPL, V16, P440, DOI 10.1890/1051-0761(2006)016[0440:TVOSSL]2.0.CO;2
+   Borgatti SP, 2009, SCIENCE, V323, P892, DOI 10.1126/science.1165821
+   Bunn AG, 2000, J ENVIRON MANAGE, V59, P265, DOI 10.1006/jema.2000.0373
+   Butts CT, 2009, SCIENCE, V325, P414, DOI 10.1126/science.1171022
+   Calabrese JM, 2004, FRONT ECOL ENVIRON, V2, P529, DOI 10.1890/1540-9295(2004)002[0529:ACGTCM]2.0.CO;2
+   Chiu GS, 2011, P NATL ACAD SCI USA, V108, P15881, DOI 10.1073/pnas.1015359108
+   Clark JS, 1999, ECOLOGY, V80, P1475, DOI 10.2307/176541
+   Clauset A, 2008, NATURE, V453, P98, DOI 10.1038/nature06830
+   Costa LD, 2007, ADV PHYS, V56, P167, DOI 10.1080/00018730601170527
+   Crooks KR, 2006, CONNECTIVITY CONSERV
+   Dreitz VJ, 2002, J APPL STAT, V29, P609, DOI 10.1080/02664760120108854
+   Grant EHC, 2010, P NATL ACAD SCI USA, V107, P6936, DOI 10.1073/pnas.1000266107
+   Guimerà R, 2005, NATURE, V433, P895, DOI 10.1038/nature03288
+   Guimerà R, 2009, P NATL ACAD SCI USA, V106, P22073, DOI 10.1073/pnas.0908366106
+   Handcock MS, 2010, ANN APPL STAT, V4, P5, DOI 10.1214/08-AOAS221
+   Hanski I, 1998, NATURE, V396, P41, DOI 10.1038/23876
+   Hanski I, 2000, NATURE, V404, P755, DOI 10.1038/35008063
+   HESTBECK JB, 1991, ECOLOGY, V72, P523, DOI 10.2307/2937193
+   Hoff PD, 2005, J AM STAT ASSOC, V100, P286, DOI 10.1198/016214504000001015
+   Hoff PD, 2002, J AM STAT ASSOC, V97, P1090, DOI 10.1198/016214502388618906
+   Kininmonth S, 2010, MAR ECOL PROG SER, V417, P139, DOI 10.3354/meps08779
+   Krivitsky PN, 2009, SOC NETWORKS, V31, P204, DOI 10.1016/j.socnet.2009.04.001
+   Leibold MA, 2004, ECOL LETT, V7, P601, DOI 10.1111/j.1461-0248.2004.00608.x
+   Liu CR, 2005, ECOGRAPHY, V28, P385, DOI 10.1111/j.0906-7590.2005.03957.x
+   Lookingbill TR, 2010, ECOL APPL, V20, P427, DOI 10.1890/09-0073.1
+   Martin J, 2006, J ANIM ECOL, V75, P527, DOI 10.1111/j.1365-2656.2006.01073.x
+   McDonald DB, 2007, P NATL ACAD SCI USA, V104, P10910, DOI 10.1073/pnas.0701159104
+   Mcrae BH, 2007, P NATL ACAD SCI USA, V104, P19885, DOI 10.1073/pnas.0706568104
+   Minor ES, 2008, CONSERV BIOL, V22, P297, DOI 10.1111/j.1523-1739.2007.00871.x
+   Olesen JM, 2011, P ROY SOC B-BIOL SCI, V278, P725, DOI 10.1098/rspb.2010.1371
+   Poole A, 1995, BIRDS N AM ONLINE
+   Schooley RL, 2004, LANDSCAPE ECOL, V19, P801, DOI 10.1007/s10980-005-0093-2
+   Strogatz SH, 2001, NATURE, V410, P268, DOI 10.1038/35065725
+   TAKEKAWA JE, 1989, CONSERV BIOL, V3, P302, DOI 10.1111/j.1523-1739.1989.tb00090.x
+   Treml EA, 2008, LANDSCAPE ECOL, V23, P19, DOI 10.1007/s10980-007-9138-y
+   Urban D, 2001, ECOLOGY, V82, P1205, DOI 10.1890/0012-9658(2001)082[1205:LCAGTP]2.0.CO;2
+   Urban DL, 2009, ECOL LETT, V12, P260, DOI 10.1111/j.1461-0248.2008.01271.x
+   Winfree R, 2005, AM NAT, V165, P707, DOI 10.1086/430009
+   Wong LH, 2006, PHYSICA A, V360, P99, DOI 10.1016/j.physa.2005.04.029
+NR 41
+TC 75
+Z9 88
+U1 5
+U2 100
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD NOV 29
+PY 2011
+VL 108
+IS 48
+BP 19282
+EP 19287
+DI 10.1073/pnas.1107549108
+PG 6
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 853ZB
+UT WOS:000297463100041
+PM 22084081
+OA Green Published, Bronze
+DA 2024-11-22
+ER
+
+PT J
+AU Hutchings, T
+AF Hutchings, Tim
+TI CONTEMPORARY RELIGIOUS COMMUNITY AND THE ONLINE CHURCH
+SO INFORMATION COMMUNICATION & SOCIETY
+LA English
+DT Article
+DE communication studies; organizational studies; social networking; web
+   2.0; religion; domestication of ICTs
+AB 'Online churches' are Internet-based Christian communities, seeking to pursue worship, discussion, friendship, support, proselytism and other key religious practices through computer-mediated communication. This article introduces findings of a four-year ethnographic study of five very different 'online churches', focusing on the fluid, multi-layered relationship between online and offline activity developed by Christian users of blogs, forums, chatrooms, video streams and virtual worlds. Following a review of online church research and a summary of methods, this article offers an overview of each of the five groups and identifies clear parallels with earlier television ministries and recent church-planting movements. A new model of online and offline activity is proposed, focused on two pairs of concepts, familiarity/difference and isolation/integration, represented as the endpoints of two axes. These axes frame a landscape of digital practice, negotiated with great care and subtlety by online churchgoers. These negotiations are interpreted in light of wider social changes, particularly the shift from bounded community towards 'networked individualism'.
+C1 Umea Univ, HUMlab, S-90187 Umea, Sweden.
+C3 Umea University
+RP Hutchings, T (corresponding author), Umea Univ, HUMlab, S-90187 Umea, Sweden.
+EM tim.hutchings@humlab.umu.se
+RI Hutchings, Tim/T-9901-2019; Hutchings, Tim/K-2968-2017
+OI Hutchings, Tim/0000-0002-6618-6122
+CR [Anonymous], 2007, 1 MONDAY, DOI DOI 10.5210/FM.V12I8.1978
+   [Anonymous], 2002, CHURCH INT
+   Barrett Jim, 2010, WORKING PAPERS TEACH, V7, P19
+   Bekkering D., J RELIG POP IN PRESS
+   Boellstorff T, 2008, COMING OF AGE IN SECOND LIFE: AN ANTHROPOLOGIST EXPLORES THE VIRTUALLY HUMAN, P1
+   Campbell Heidi A., 2010, WHEN RELIG MEETS NEW
+   Clark L., 2004, Faith online
+   Dixon Patrick., 1997, CYBERCHURCH CHRISTIA
+   Doney M., 2004, CHURCH TIMES    0514
+   Estes Douglas., 2009, SIMCHURCH BEING CHUR
+   Helland C, 2000, REL SOC ORD, V8, P205
+   Helland C., 2005, Heidelberg Journal of Religions on the Internet, V1
+   Hine Christine, 2000, Virtual Ethnography
+   Hoover StewartM., 1988, Mass Media Religion: The Social Sources of the Electronic Church
+   Hutchings Tim, 2010, THESIS DURHAM U DURH
+   JACOBS S, 2007, J COMPUTER MEDIATED, V12
+   Jenkins Simon., 2008, Online-Heidelberg Journal of Religions on the Internet, V3
+   Lundby K., 2010, 7 INT C MED REL CULT
+   Male D., 2008, EVALUATING FRESH EXP, P148
+   MARCUS GE, 1995, ANNU REV ANTHROPOL, V24, P95, DOI 10.1146/annurev.an.24.100195.000523
+   Miczek Nadja., 2008, Online - Heidelberg Journal of Religions on the Internet, V03
+   Press Association, 2004, CHURCH ENGL SET UP I
+   SCHROEDER R, 1998, J COMPUTER MEDIATED, V4
+   The Archbishops' Council, 2004, MISS SHAPED CHURCH P
+   The Barna Research Group, 1998, CYB COM
+   Thomas R., 2004, THINKING ANGLICANS
+   Wellman B, 2001, INT J URBAN REGIONAL, V25, P227, DOI 10.1111/1468-2427.00309
+   Wellman B., 1999, NETWORKS GLOBAL VILL, P331, DOI DOI 10.4324/9780429498718
+   Zaleski JeffreyP., 1997, SOUL CYBERSPACE NEW
+NR 29
+TC 40
+Z9 51
+U1 1
+U2 21
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1369-118X
+EI 1468-4462
+J9 INFORM COMMUN SOC
+JI Info. Commun. Soc.
+PY 2011
+VL 14
+IS 8
+SI SI
+BP 1118
+EP 1135
+DI 10.1080/1369118X.2011.591410
+PG 18
+WC Communication; Sociology
+WE Social Science Citation Index (SSCI)
+SC Communication; Sociology
+GA 885ZU
+UT WOS:000299820800003
+DA 2024-11-22
+ER
+
+PT J
+AU Tóth, Z
+   Griggio, M
+AF Toth, Zoltan
+   Griggio, Matteo
+TI Leaders Are More Attractive: Birds with Bigger Yellow Breast Patches Are
+   Followed by More Group-Mates in Foraging Groups
+SO PLOS ONE
+LA English
+DT Article
+ID SPARROW PETRONIA-PETRONIA; ROCK SPARROW; FEMALE ORNAMENTATION;
+   DECISION-MAKING; SOCIAL NETWORK; ZEBRA; EVOLUTION; DOMINANCE; BEHAVIOR;
+   ORGANIZATION
+AB Social network theory provides a perfect tool to better understand the population-level consequences of how individuals interact and make their decisions; however, this approach is generally overlooked among evolutionary biologists interested in social relationships. Here, we used social network analysis to examine the patterns of leader-follower interactions in relation to individual characteristics in foraging groups of free-living rock sparrows (Petronia petronia). We found that yellow feather ornamentation, a carotenoid-based trait, was the best predictor of leadership: birds with bigger ornaments exerted greater influence in the foraging groups and were followed by more group-mates than less elaborate individuals. An individual's tendency for eliciting followings was not influenced by sex, condition or the level of parental investment. None of the above individual characteristics had significant effect on the tendency of individuals to follow others. Our results indicate that a sexually selected trait can also play a significant role in group coordination and social organization of a species.
+C1 [Toth, Zoltan; Griggio, Matteo] Univ Vet Med Vienna, Dept Integrat Biol & Evolut, Konrad Lorenz Inst Ethol, Vienna, Austria.
+C3 University of Veterinary Medicine Vienna
+RP Tóth, Z (corresponding author), Univ Vet Med Vienna, Dept Integrat Biol & Evolut, Konrad Lorenz Inst Ethol, Vienna, Austria.
+EM matteo.griggio@vetmeduni.ac.at
+RI griggio, matteo/A-6261-2009
+OI Griggio, Matteo/0000-0002-3298-2905; Toth, Zoltan/0000-0002-2634-8393
+CR [Anonymous], 2002, Living in Groups
+   [Anonymous], 1994, SEXUAL SELECTION
+   [Anonymous], SIMBA COLLECTION FUN
+   [Anonymous], 2002, NETDRAW GRAPH VISUAL
+   [Anonymous], 1988, STAT POWER ANAL BEHA
+   [Anonymous], PGIRMESS MISCELLANEO
+   [Anonymous], EXPLORING ANIMAL SOC
+   [Anonymous], AVOCETTA
+   Beauchamp G, 2000, BEHAVIOUR, V137, P301, DOI 10.1163/156853900502097
+   Biard C, 2006, J EXP BIOL, V209, P1004, DOI 10.1242/jeb.02089
+   BRUSH AH, 1990, FASEB J, V4, P2969, DOI 10.1096/fasebj.4.12.2394316
+   Burnham K. P., 2013, MODEL SELECTION MULT
+   Conradt L, 2007, P ROY SOC B-BIOL SCI, V274, P2317, DOI 10.1098/rspb.2007.0186
+   Conradt L, 2003, NATURE, V421, P155, DOI 10.1038/nature01294
+   Couzin ID, 2005, NATURE, V433, P513, DOI 10.1038/nature03236
+   Cramp S., 1994, The Birds of the Western Palearctic, VIII
+   Csardi G, 2006, INTERJOURNAL COMPLEX, V1695
+   Edgington E. S., 1995, RANDOMIZATION TESTS
+   Fischhoff IR, 2007, ANIM BEHAV, V73, P825, DOI 10.1016/j.anbehav.2006.10.012
+   Flack JC, 2006, NATURE, V439, P426, DOI 10.1038/nature04326
+   Garamszegi LZ, 2006, BEHAV ECOL, V17, P682, DOI 10.1093/beheco/ark005
+   GOTCEITAS V, 1991, BEHAV ECOL SOCIOBIOL, V29, P255, DOI 10.1007/BF00163982
+   Griggio M, 2003, ETHOLOGY, V109, P659, DOI 10.1046/j.1439-0310.2003.00909.x
+   Griggio M, 2003, ETHOL ECOL EVOL, V15, P389
+   Griggio M, 2005, ANIM BEHAV, V69, P1243, DOI 10.1016/j.anbehav.2004.10.004
+   Griggio M, 2009, J EVOLUTION BIOL, V22, P2077, DOI 10.1111/j.1420-9101.2009.01823.x
+   Griggio M, 2007, ANIM BEHAV, V74, P779, DOI 10.1016/j.anbehav.2007.01.007
+   Griggio M, 2007, BEHAV ECOL SOCIOBIOL, V61, P423, DOI 10.1007/s00265-006-0270-5
+   Griggio M, 2010, J ETHOL, V28, P455, DOI 10.1007/s10164-010-0205-5
+   Griggio M, 2009, BEHAV ECOL, V20, P1072, DOI 10.1093/beheco/arp099
+   Harcourt JL, 2009, ANIM BEHAV, V77, P1501, DOI 10.1016/j.anbehav.2009.03.004
+   James R, 2009, BEHAV ECOL SOCIOBIOL, V63, P989, DOI 10.1007/s00265-009-0742-5
+   Junker B. H., 2008, ANAL BIOL NETWORKS
+   King AJ, 2010, BEHAV PROCESS, V84, P671, DOI 10.1016/j.beproc.2010.03.006
+   King AJ, 2009, CURR BIOL, V19, pR911, DOI 10.1016/j.cub.2009.07.027
+   King Andrew J., 2009, Communicative & Integrative Biology, V2, P147
+   King AJ, 2008, CURR BIOL, V18, P1833, DOI 10.1016/j.cub.2008.10.048
+   Lusseau D, 2003, P ROY SOC B-BIOL SCI, V270, pS186, DOI 10.1098/rsbl.2003.0057
+   Lusseau D, 2004, P ROY SOC B-BIOL SCI, V271, pS477, DOI 10.1098/rsbl.2004.0225
+   Lusseau D, 2007, EVOL ECOL, V21, P357, DOI 10.1007/s10682-006-9105-0
+   Mateos-Gonzalez F, 2011, BIOL LETTERS, V7, P668, DOI 10.1098/rsbl.2011.0163
+   McDonald DB, 2007, P NATL ACAD SCI USA, V104, P10910, DOI 10.1073/pnas.0701159104
+   Mery F, 2010, EVOL ECOL, V24, P571, DOI 10.1007/s10682-009-9336-y
+   Moller AP, 2000, AVIAN POULT BIOL REV, V11, P137
+   Mougeot F, 2010, J EVOLUTION BIOL, V23, P643, DOI 10.1111/j.1420-9101.2009.01926.x
+   Nakagawa S, 2004, BEHAV ECOL, V15, P1044, DOI 10.1093/beheco/arh107
+   Oh KP, 2010, AM NAT, V176, pE80, DOI 10.1086/655216
+   Opsahl Tore., 2009, Structure and Evolution of Weighted Networks, P104
+   Peig J, 2009, OIKOS, V118, P1883, DOI 10.1111/j.1600-0706.2009.17643.x
+   Peterson RO, 2002, CAN J ZOOL, V80, P1405, DOI 10.1139/Z02-124
+   Pilastro A, 2003, ANIM BEHAV, V66, P265, DOI 10.1006/anbe.2003.2203
+   Pilastro A, 2001, J AVIAN BIOL, V32, P68, DOI 10.1034/j.1600-048X.2001.320109.x
+   R Development Core Team, 2011, R: A language and environment for statistical computing
+   Rands SA, 2004, P ROY SOC B-BIOL SCI, V271, P2613, DOI 10.1098/rspb.2004.2906
+   Rands SA, 2003, NATURE, V423, P432, DOI 10.1038/nature01630
+   Rands SA, 2006, BEHAV ECOL SOCIOBIOL, V60, P572, DOI 10.1007/s00265-006-0202-4
+   Rands SA, 2008, BMC EVOL BIOL, V8, DOI 10.1186/1471-2148-8-51
+   Reebs SG, 2000, ANIM BEHAV, V59, P403, DOI 10.1006/anbe.1999.1314
+   Schuett W, 2009, ANIM BEHAV, V77, P1041, DOI 10.1016/j.anbehav.2008.12.024
+   Senar Juan Carlos, 2002, Avian Science, V2, P19
+   Serra L, 2007, J EVOLUTION BIOL, V20, P2028, DOI 10.1111/j.1420-9101.2007.01360.x
+   Sih A, 2009, BEHAV ECOL SOCIOBIOL, V63, P975, DOI 10.1007/s00265-009-0725-6
+   Sueur C, 2008, INT J PRIMATOL, V29, P1085, DOI 10.1007/s10764-008-9262-9
+   Sundaresan SR, 2007, OECOLOGIA, V151, P140, DOI 10.1007/s00442-006-0553-6
+   Surai PF, 1999, BIOL TRACE ELEM RES, V68, P63, DOI 10.1007/BF02784397
+   Szekely T., 2010, SOCIAL BEHAV GENES E
+   Tavecchia G, 2002, IBIS, V144, pE79, DOI 10.1046/j.1474-919X.2002.00059.x
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   Wey T, 2008, ANIM BEHAV, V75, P333, DOI 10.1016/j.anbehav.2007.06.020
+   Williams R, 2006, BIOL LETTERS, V2, P497, DOI 10.1098/rsbl.2006.0510
+   ZANETTE L, 1994, ANIM BEHAV, V48, P119, DOI 10.1006/anbe.1994.1218
+NR 71
+TC 19
+Z9 20
+U1 0
+U2 26
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD OCT 19
+PY 2011
+VL 6
+IS 10
+AR e26605
+DI 10.1371/journal.pone.0026605
+PG 7
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 841JB
+UT WOS:000296507500094
+PM 22028920
+OA Green Published, gold, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Stadtfeld, C
+   Geyer-Schulz, A
+AF Stadtfeld, Christoph
+   Geyer-Schulz, Andreas
+TI Analyzing event stream dynamics in two-mode networks: An exploratory
+   analysis of private communication in a question and answer community
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Two-mode networks; Actor oriented modeling; Event streams; Multinomial
+   logit model; Markov process; Question and answer communities
+ID P-ASTERISK MODELS
+AB Information about social networks can often be collected as event stream data. However, most methods in social network analysis are defined for static network snapshots or for panel data. We propose an actor oriented Markov process framework to analyze the structural dynamics in event streams. Estimated parameters are similar to what is known from exponential random graph models or stochastic actor oriented models as implemented in SIENA. We apply the methodology on a question and answer web community and show how the relevance of different kinds of one- and two-mode network structures can be tested using a new software. (C) 2011 Elsevier B.V. All rights reserved.
+C1 [Stadtfeld, Christoph] Karlsruhe Inst Technol, IME Grad Sch, Informat Serv & Elect Markets, Karlsruhe, Germany.
+   [Stadtfeld, Christoph; Geyer-Schulz, Andreas] Univ Groningen, Dept Sociol ICS, NL-9700 AB Groningen, Netherlands.
+C3 Helmholtz Association; Karlsruhe Institute of Technology; University of
+   Groningen
+RP Stadtfeld, C (corresponding author), Karlsruhe Inst Technol, IME Grad Sch, Informat Serv & Elect Markets, Karlsruhe, Germany.
+EM christoph@stadtfeld.net; andreas.geyer-schulz@kit.edu
+OI Stadtfeld, Christoph/0000-0002-2704-2134
+CR AKAIKE H, 1974, IEEE T AUTOMAT CONTR, VAC19, P716, DOI 10.1109/TAC.1974.1100705
+   [Anonymous], THEORETISCHE PHYS
+   Brandes U, 2009, 2009 INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING, P200, DOI 10.1109/ASONAM.2009.28
+   Butts CT, 2008, SOCIOL METHODOL, V38, P155, DOI 10.1111/j.1467-9531.2008.00203.x
+   Cramer J., 2003, LOGIT MODELS ECONOME
+   Deuflhard P., 2004, Springer Series in Computational Mathematics, V35
+   Efron B., 1986, STAT SCI, V1, P54, DOI [10.1214/ss/1177013815, DOI 10.1214/SS/1177013815]
+   Hosmer W., 2000, Applied Logistic Regression, VSecond
+   Miller A, 2002, MONOGRAPHS STAT ANS, V95
+   Pardo B., 2002, Computer Music Journal, V26, P27, DOI 10.1162/014892602760137167
+   Robins G, 2007, SOC NETWORKS, V29, P173, DOI 10.1016/j.socnet.2006.08.002
+   Snijders T. A., 2005, MODELS METHODS SOCIA, V1, P215, DOI DOI 10.1017/CBO9780511811395.011
+   Snijders TAB, 2001, SOCIOL METHODOL, V31, P361, DOI 10.1111/0081-1750.00099
+   Snijders TAB, 2006, SOCIOL METHODOL, V36, P99, DOI 10.1111/j.1467-9531.2006.00176.x
+   Stadtfeld Christoph, 2010, Proceedings of the 2010 IEEE Second International Conference on Social Computing (SocialCom 2010). the Second IEEE International Conference on Privacy, Security, Risk and Trust (PASSAT 2010), P564, DOI 10.1109/SocialCom.2010.89
+   Stadtfeld C., 2010, STUDIES EORGANISATIO, V2, P79
+   Wang P, 2009, SOC NETWORKS, V31, P12, DOI 10.1016/j.socnet.2008.08.002
+   Wasserman S, 1996, PSYCHOMETRIKA, V61, P401, DOI 10.1007/BF02294547
+NR 18
+TC 30
+Z9 31
+U1 1
+U2 23
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD OCT
+PY 2011
+VL 33
+IS 4
+BP 258
+EP 272
+DI 10.1016/j.socnet.2011.07.004
+PG 15
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA 862VM
+UT WOS:000298122200002
+DA 2024-11-22
+ER

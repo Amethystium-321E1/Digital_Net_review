@@ -1,0 +1,536 @@
+
+PT J
+AU Li, QC
+   Yang, Y
+   Wang, WQ
+   Lee, S
+   Xiao, X
+   Gao, XY
+   Oztekin, B
+   Fan, C
+   Mostafavi, A
+AF Li, Qingchun
+   Yang, Yang
+   Wang, Wanqiu
+   Lee, Sanghyeon
+   Xiao, Xin
+   Gao, Xinyu
+   Oztekin, Bora
+   Fan, Chao
+   Mostafavi, Ali
+TI Unraveling the dynamic importance of county-level features in trajectory
+   of COVID-19
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID SPREAD
+AB The objective of this study was to investigate the importance of multiple county-level features in the trajectory of COVID-19. We examined feature importance across 2787 counties in the United States using data-driven machine learning models. Existing mathematical models of disease spread usually focused on the case prediction with different infection rates without incorporating multiple heterogeneous features that could impact the spatial and temporal trajectory of COVID-19. Recognizing this, we trained a data-driven model using 23 features representing six key influencing factors affecting the pandemic spread: social demographics of counties, population activities, mobility within the counties, movement across counties, disease attributes, and social network structure. Also, we categorized counties into multiple groups according to their population densities, and we divided the trajectory of COVID-19 into three stages: the outbreak stage, the social distancing stage, and the reopening stage. The study aimed to answer two research questions: (1) The extent to which the importance of heterogeneous features evolved at different stages; (2) The extent to which the importance of heterogeneous features varied across counties with different characteristics. We fitted a set of random forest models to determine weekly feature importance. The results showed that: (1) Social demographic features, such as gross domestic product, population density, and minority status maintained high-importance features throughout stages of COVID-19 across 2787 studied counties; (2) Within-county mobility features had the highest importance in counties with higher population densities; (3) The feature reflecting the social network structure (Facebook, social connectedness index), had higher importance for counties with higher population densities. The results showed that the data-driven machine learning models could provide important insights to inform policymakers regarding feature importance for counties with various population densities and at different stages of a pandemic life cycle.
+C1 [Li, Qingchun; Mostafavi, Ali] Texas A&M Univ, Zachry Dept Civil & Environm Engn, 199 Spence St, College Stn, TX 77843 USA.
+   [Yang, Yang; Wang, Wanqiu; Lee, Sanghyeon; Xiao, Xin; Gao, Xinyu; Oztekin, Bora; Fan, Chao] Texas A&M Univ, Dept Comp Sci & Engn, 199 Spence St, College Stn, TX 77843 USA.
+C3 Texas A&M University System; Texas A&M University College Station; Texas
+   A&M University System; Texas A&M University College Station
+RP Li, QC (corresponding author), Texas A&M Univ, Zachry Dept Civil & Environm Engn, 199 Spence St, College Stn, TX 77843 USA.
+EM qingchunlea@tamu.edu
+RI Fan, Chao/AAM-2182-2020; Mostafavi, Ali/R-2133-2018
+OI Li, Qingchun/0000-0003-0769-0238
+FU National Science Foundation RAPID Project [2026814]; Divn Of Social and
+   Economic Sciences; Direct For Social, Behav & Economic Scie [2026814]
+   Funding Source: National Science Foundation
+FX The authors would like to acknowledge funding support from the National
+   Science Foundation RAPID Project #2026814: Urban Resilience to Health
+   Emergencies: Revealing Latent Epidemic Spread Risks from Population
+   Activity Fluctuations and Collective Sense-making. The authors would
+   also like to acknowledge that Safe-Graph provided points-of-interest
+   data. Any opinions, findings, conclusions, or recommendations expressed
+   in this research are those of the authors and do not necessarily reflect
+   the view of the funding agency. The authors would like to thank Jan
+   Gerston for her copy editing service.
+CR Ahmadi M, 2020, SCI TOTAL ENVIRON, V729, DOI 10.1016/j.scitotenv.2020.138705
+   Altmann A, 2010, BIOINFORMATICS, V26, P1340, DOI 10.1093/bioinformatics/btq134
+   Anastassopoulou C, 2020, PLOS ONE, V15, DOI 10.1371/journal.pone.0230405
+   Askitas N., 2020, Scientific Reports, V11, DOI [DOI 10.1038/S41598-021-81442-X, 10.1038/s41598-021-81442-x]
+   Badr HS, 2020, LANCET INFECT DIS, V20, P1247, DOI 10.1016/S1473-3099(20)30553-3
+   Bahl P, 2022, J INFECT DIS, V225, P1561, DOI 10.1093/infdis/jiaa189
+   Balcan D, 2009, P NATL ACAD SCI USA, V106, P21484, DOI 10.1073/pnas.0906910106
+   Benzell SG, 2020, P NATL ACAD SCI USA, V117, P14642, DOI 10.1073/pnas.2008025117
+   Block P, 2020, NAT HUM BEHAV, V4, P588, DOI 10.1038/s41562-020-0898-6
+   BREIMAN L, 2001, MACH LEARN, V45, P5, DOI DOI 10.1023/A:1010933404324
+   Bucur D, 2020, PLOS COMPUT BIOL, V16, DOI 10.1371/journal.pcbi.1008052
+   Chang S.Y., 2020, MEDRXIV, DOI [10.1101/2020.06.15.20131979, DOI 10.1101/2020.06.15.20131979]
+   Chang S, 2021, NATURE, V589, P82, DOI 10.1038/s41586-020-2923-3
+   Chimmula VKR, 2020, CHAOS SOLITON FRACT, V135, DOI 10.1016/j.chaos.2020.109864
+   Cintia P., 2020, ARXIV200603141
+   Dowd JB, 2020, P NATL ACAD SCI USA, V117, P9696, DOI 10.1073/pnas.2004911117
+   Dyer O, 2020, BMJ-BRIT MED J, V369, DOI 10.1136/bmj.m1483
+   Engle S., 2020, STAYING HOME MOBILIT, V4, P86, DOI DOI 10.2139/SSRN.3565703
+   Ferguson NM, 2005, NATURE, V437, P209, DOI 10.1038/nature04017
+   Friedson A., 2020, WP26992 NBER, DOI [10.3386/w26992, DOI 10.3386/W26992]
+   Gatto M, 2020, P NATL ACAD SCI USA, V117, P10484, DOI 10.1073/pnas.2004978117
+   Hâncean MG, 2020, ROY SOC OPEN SCI, V7, DOI 10.1098/rsos.200780
+   Jia JSS, 2020, NATURE, V582, P389, DOI [10.1038/s41586-020-2284-y, 10.1109/LGRS.2020.3028443]
+   Kelly C, 2012, 2012 9TH IEEE INTERNATIONAL SYMPOSIUM ON BIOMEDICAL IMAGING (ISBI), P154, DOI 10.1109/ISBI.2012.6235507
+   Killeen, 2020, COUNTY LEVEL DATASET
+   Kraemer MUG, 2020, SCIENCE, V368, P493, DOI 10.1126/science.abb4218
+   Kuchler T., 2020, 200403055 ARXIV
+   Laurencin CT, 2020, J RACIAL ETHN HEALTH, V7, P398, DOI 10.1007/s40615-020-00756-0
+   Linka K, 2020, COMPUT METHOD BIOMEC, V23, P710, DOI 10.1080/10255842.2020.1759560
+   Liu Y, 2020, J TRAVEL MED, V27, DOI 10.1093/jtm/taaa021
+   Lyu W, 2020, HEALTH AFFAIR, V39, P1615, DOI 10.1377/hlthaff.2020.00719
+   Millett GA, 2020, ANN EPIDEMIOL, V47, P37, DOI 10.1016/j.annepidem.2020.05.003
+   Nembrini S, 2018, BIOINFORMATICS, V34, P3711, DOI 10.1093/bioinformatics/bty373
+   Nepomuceno MR, 2020, P NATL ACAD SCI USA, V117, P13881, DOI 10.1073/pnas.2008760117
+   Perc M, 2020, FRONT PHYS-LAUSANNE, V8, DOI 10.3389/fphy.2020.00127
+   Petropoulos F, 2020, PLOS ONE, V15, DOI 10.1371/journal.pone.0231236
+   Priesemann V, 2021, LANCET, V397, P469, DOI 10.1016/S0140-6736(21)00150-1
+   Ramchandani A, 2020, IEEE ACCESS, V8, P159915, DOI 10.1109/ACCESS.2020.3019989
+   Ribeiro HV, 2020, PLOS ONE, V15, DOI 10.1371/journal.pone.0239699
+   Rocklöv J, 2020, J TRAVEL MED, V27, DOI 10.1093/jtm/taaa038
+   Sen-Crowe B, 2020, AM J EMERG MED, V38, P1519, DOI 10.1016/j.ajem.2020.03.063
+   Shim E, 2020, INT J INFECT DIS, V93, P339, DOI 10.1016/j.ijid.2020.03.031
+   Tizzoni M, 2014, PLOS COMPUT BIOL, V10, DOI 10.1371/journal.pcbi.1003716
+   Tomar A, 2020, SCI TOTAL ENVIRON, V728, DOI 10.1016/j.scitotenv.2020.138762
+   Wang LJ, 2019, AAAI CONF ARTIF INTE, P9607
+   Wright AL, 2020, J ECON BEHAV ORGAN, V180, P544, DOI 10.1016/j.jebo.2020.10.008
+   Wright MN, 2017, STAT MED, V36, P1272, DOI 10.1002/sim.7212
+   Yancy CW, 2020, JAMA-J AM MED ASSOC, V323, P1891, DOI 10.1001/jama.2020.6548
+   You C, 2020, INT J HYG ENVIR HEAL, V228, DOI 10.1016/j.ijheh.2020.113555
+   Zhang S, 2020, INT J INFECT DIS, V93, P201, DOI 10.1016/j.ijid.2020.02.033
+NR 50
+TC 3
+Z9 3
+U1 0
+U2 6
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD JUN 22
+PY 2021
+VL 11
+IS 1
+AR 13058
+DI 10.1038/s41598-021-92634-w
+PG 11
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA TA7TM
+UT WOS:000667448600010
+PM 34158571
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Berry, G
+   Sirianni, A
+   Weber, I
+   An, JS
+   Macy, M
+AF Berry, George
+   Sirianni, Antonio
+   Weber, Ingmar
+   An, Jisun
+   Macy, Michael
+TI Estimating Homophily in Social Networks Using Dyadic Predictions
+SO SOCIOLOGICAL SCIENCE
+LA English
+DT Article
+DE homophily; networks; machine learning; quantitative methodology
+ID SEGREGATION; CORE
+AB Predictions of node categories are commonly used to estimate homophily and other relational properties in networks. However, little is known about the validity of using predictions for this task. We show that estimating homophily in a network is a problem of predicting categories of dyads (edges) in the graph. Homophily estimates are unbiased when predictions of dyad categories are unbiased. Node-level prediction models, such as the use of names to classify ethnicity or gender, do not generally produce unbiased predictions of dyad categories and therefore produce biased homophily estimates. Bias comes from three sources: sampling bias, correlation between model errors and node degree, and correlation between node-level model errors along dyads. We examine three methods for estimating homophily: predicting node categories, predicting dyad categories, and a hybrid "ego-alter" approach. This analysis indicates that only the dyadic prediction approach is unbiased, whereas the node-level approach produces both high bias and high overall error. We find that node-level classification performance is not a reliable indicator of accuracy for homophily. Although this article focuses on a particular version of homophily, results generalize to heterophilous cases and other dyadic measures. We conclude with suggestions for research design. Code for this article is available at https://github.com/georgeberry/autocorr.
+C1 [Berry, George; Macy, Michael] Cornell Univ, Dept Sociol, Ithaca, NY 14853 USA.
+   [Sirianni, Antonio] Dartmouth Coll, Dept Sociol, Hanover, NH 03755 USA.
+   [Weber, Ingmar] Qatar Comp Res Inst, Doha, Qatar.
+   [An, Jisun] Singapore Management Univ, Sch Comp & Informat Syst, Singapore, Singapore.
+C3 Cornell University; Dartmouth College; Qatar Foundation (QF); Hamad Bin
+   Khalifa University-Qatar; Qatar Computing Research Institute; Singapore
+   Management University
+EM geb97@cornell.edu; antonio.d.sirianni@dartmouth.edu; iweber@hbku.edu.qa;
+   jisun.an@acm.org; mwm14@cornell.edu
+RI Weber, Ingmar/AAE-6909-2020
+CR Aggarwal C, 2016, PROC INT CONF DATA, P1038, DOI 10.1109/ICDE.2016.7498311
+   Al Zamal Faiyaz, 2012, P INT AAAI C WEB SOC
+   Angrist JD, 2009, MOSTLY HARMLESS ECONOMETRICS: AN EMPIRICISTS COMPANION, P1
+   Bakshy E, 2015, SCIENCE, V348, P1130, DOI 10.1126/science.aaa1160
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barberá P, 2015, PSYCHOL SCI, V26, P1531, DOI 10.1177/0956797615594620
+   Barbera Pablo., 2016, Less is more? How demographic sample weights can improve public opinion estimates based on Twitter data
+   Berry G, 2019, SOC NETWORKS, V56, P93, DOI 10.1016/j.socnet.2018.09.001
+   Berry G, 2018, LECT NOTES COMPUT SC, V11185, P67, DOI 10.1007/978-3-030-01129-1_5
+   BLAU PM, 1977, AM J SOCIOL, V83, P26, DOI 10.1086/226505
+   Boutyline A, 2017, POLIT PSYCHOL, V38, P551, DOI 10.1111/pops.12337
+   Cesare Nina, 2017, ARXIV170504401CSSI
+   Cesare Nina, 2017, ARXIV170201807CSSI
+   COLEMAN JS, 1958, HUM ORGAN, V17, P28, DOI 10.17730/humo.17.4.q5604m676260q8n7
+   Colleoni E, 2014, J COMMUN, V64, P317, DOI 10.1111/jcom.12084
+   Davidson T, 2019, THIRD WORKSHOP ON ABUSIVE LANGUAGE ONLINE, P25
+   De Choudhury M., 2011, Proceedings of the 2011 IEEE Third International Conference on Privacy, Security, Risk and Trust and IEEE Third International Conference on Social Computing (PASSAT/SocialCom 2011), P465, DOI 10.1109/PASSAT/SocialCom.2011.177
+   DiPrete TA, 2011, AM J SOCIOL, V116, P1234, DOI 10.1086/659100
+   Forman G, 2005, LECT NOTES ARTIF INT, V3720, P564, DOI 10.1007/11564096_55
+   Forman G, 2008, DATA MIN KNOWL DISC, V17, P164, DOI 10.1007/s10618-008-0097-y
+   Gao W, 2016, SOC NETW ANAL MIN, V6, DOI 10.1007/s13278-016-0327-z
+   Gong NZ, 2014, ACM T INTEL SYST TEC, V5, DOI 10.1145/2594455
+   González P, 2017, ACM COMPUT SURV, V50, DOI 10.1145/3117807
+   Grover A, 2016, KDD'16: PROCEEDINGS OF THE 22ND ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P855, DOI 10.1145/2939672.2939754
+   Halberstam Y, 2016, J PUBLIC ECON, V143, P73, DOI 10.1016/j.jpubeco.2016.08.011
+   Hamilton WL, 2017, ADV NEUR IN, V30
+   Hastie T., 2009, ELEMENTS STAT LEARNI, DOI [10.1007/978-0-387-84858-7, DOI 10.1007/978-0-387-84858-7]
+   Himelboim I, 2016, NEW MEDIA SOC, V18, P1382, DOI 10.1177/1461444814555096
+   Hobbs WR, 2016, P NATL ACAD SCI USA, V113, P12980, DOI 10.1073/pnas.1605554113
+   Hofstra B, 2018, BIG DATA SOC, V5, DOI 10.1177/2053951718761141
+   Hofstra B, 2017, AM SOCIOL REV, V82, P625, DOI 10.1177/0003122417705656
+   Jia JT, 2020, KDD '20: PROCEEDINGS OF THE 26TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY & DATA MINING, P588, DOI 10.1145/3394486.3403101
+   Karimi F, 2018, SCI REP-UK, V8, DOI 10.1038/s41598-018-29405-7
+   Kipf T., 2016, ARXIV
+   Kossinets G, 2009, AM J SOCIOL, V115, P405, DOI 10.1086/599247
+   Lee E, 2019, NAT HUM BEHAV, V3, P1078, DOI 10.1038/s41562-019-0677-4
+   Lewis K, 2012, P NATL ACAD SCI USA, V109, P68, DOI 10.1073/pnas.1109739109
+   MARSDEN PV, 1987, AM SOCIOL REV, V52, P122, DOI 10.2307/2095397
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   McPherson M, 2006, AM SOCIOL REV, V71, P353, DOI 10.1177/000312240607100301
+   Messias J, 2017, 2017 IEEE/WIC/ACM INTERNATIONAL CONFERENCE ON WEB INTELLIGENCE (WI 2017), P266, DOI 10.1145/3106426.3106472
+   Molina M, 2019, ANNU REV SOCIOL, V45, P27, DOI 10.1146/annurev-soc-073117-041106
+   Mollica KA, 2003, ORGAN SCI, V14, P123, DOI 10.1287/orsc.14.2.123.14994
+   Mosleh M, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2022761118
+   Overgoor J, 2019, WEB CONFERENCE 2019: PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE (WWW 2019), P1409, DOI 10.1145/3308558.3313662
+   Perozzi B, 2014, PROCEEDINGS OF THE 20TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING (KDD'14), P701, DOI 10.1145/2623330.2623732
+   Salganik MJ, 2004, SOCIOL METHODOL, V34, P193, DOI 10.1111/j.0081-1750.2004.00152.x
+   Smith JA, 2014, AM SOCIOL REV, V79, P432, DOI 10.1177/0003122414531776
+   Stamm Felix I., 2020, ARXIV201011546CSSI
+   Thelwall M, 2009, J AM SOC INF SCI TEC, V60, P219, DOI 10.1002/asi.20978
+   Wimmer A, 2010, AM J SOCIOL, V116, P583, DOI 10.1086/653658
+NR 51
+TC 1
+Z9 1
+U1 2
+U2 9
+PU SOC SOCIOLOGICAL SCIENCE
+PI STANFORD
+PA 940 COTTRELL WAY, STANFORD, CA 94305 USA
+EI 2330-6696
+J9 SOCIOL SCI
+JI Sociol. Sci.
+PD AUG 2
+PY 2021
+VL 8
+BP 285
+EP 307
+DI 10.15195/v8.a14
+PG 23
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA TV0AH
+UT WOS:000681390400001
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Kauk, J
+   Kreysa, H
+   Schweinberger, SR
+AF Kauk, Julian
+   Kreysa, Helene
+   Schweinberger, Stefan R.
+TI Understanding and countering the spread of conspiracy theories in social
+   networks: Evidence from epidemiological models of Twitter data
+SO PLOS ONE
+LA English
+DT Article
+ID POLITICAL FACT-CHECKING; FAKE NEWS; MISINFORMATION; CONSEQUENCES;
+   INFORMATION; BELIEF
+AB Conspiracy theories in social networks are considered to have adverse effects on individuals' compliance with public health measures in the context of a pandemic situation. A deeper understanding of how conspiracy theories propagate through social networks is critical for the development of countermeasures. The present work focuses on a novel approach to characterize the propagation of conspiracy theories through social networks by applying epidemiological models to Twitter data. A Twitter dataset was searched for tweets containing hashtags indicating belief in the "5GCoronavirus" conspiracy theory, which states that the COVID-19 pandemic is a result of, or enhanced by, the enrollment of the 5G mobile network. Despite the absence of any scientific evidence, the "5GCoronavirus" conspiracy theory propagated rapidly through Twitter, beginning at the end of January, followed by a peak at the beginning of April, and ceasing/disappearing approximately at the end of June 2020. An epidemic SIR (Susceptible-Infected-Removed) model was fitted to this time series with acceptable model fit, indicating parallels between the propagation of conspiracy theories in social networks and infectious diseases. Extended SIR models were used to simulate the effects that two specific countermeasures, fact-checking and tweet-deletion, could have had on the propagation of the conspiracy theory. Our simulations indicate that fact-checking is an effective mechanism in an early stage of conspiracy theory diffusion, while tweet-deletion shows only moderate efficacy but is less time-sensitive. More generally, an early response is critical to gain control over the spread of conspiracy theories through social networks. We conclude that an early response combined with strong fact-checking and a moderate level of deletion of problematic posts is a promising strategy to fight conspiracy theories in social networks. Results are discussed with respect to their theoretical validity and generalizability.
+C1 [Kauk, Julian; Kreysa, Helene; Schweinberger, Stefan R.] Friedrich Schiller Univ Jena, Dept Gen Psychol & Cognit Neurosci, Jena, Germany.
+   [Schweinberger, Stefan R.] Friedrich Schiller Univ Jena, DFG Res Unit Person Percept, Jena, Germany.
+C3 Friedrich Schiller University of Jena; Friedrich Schiller University of
+   Jena
+RP Kauk, J (corresponding author), Friedrich Schiller Univ Jena, Dept Gen Psychol & Cognit Neurosci, Jena, Germany.
+EM julian.kauk@uni-jena.de
+RI Schweinberger, Stefan/A-1860-2009; Kreysa, Helene/R-7534-2019
+OI Kauk, Julian/0000-0003-4016-5662; Kreysa, Helene/0000-0001-7163-7023;
+   Schweinberger, Stefan/0000-0001-5762-0188
+CR Ahmed W, 2020, J MED INTERNET RES, V22, DOI 10.2196/19458
+   Allcott H, 2019, RES POLITICS, V6, DOI 10.1177/2053168019848554
+   Allcott H, 2017, J ECON PERSPECT, V31, P211, DOI 10.1257/jep.31.2.211
+   Ballarin G., 2017, CEUR WORKSHOP P, DOI DOI 10.48550/ARXIV.1704.07506
+   Banda JM, 2021, EPIDEMIOLOGIA-BASEL, V2, P315, DOI 10.3390/epidemiologia2030024
+   Bansal S, 2007, J R SOC INTERFACE, V4, P879, DOI 10.1098/rsif.2007.1100
+   Beckley Ross, 2013, Tennessee State University Internal Report.
+   Bettencourt LMA, 2006, PHYSICA A, V364, P513, DOI 10.1016/j.physa.2005.08.083
+   Bovet A, 2019, NAT COMMUN, V10, DOI 10.1038/s41467-018-07761-2
+   Bruns A, 2020, MEDIA INT AUST, V177, P12, DOI 10.1177/1329878X20946113
+   Buntain C, 2017, 2017 IEEE INTERNATIONAL CONFERENCE ON SMART CLOUD (SMARTCLOUD), P208, DOI 10.1109/SmartCloud.2017.40
+   Cheng JJ, 2013, EUR PHYS J B, V86, DOI 10.1140/epjb/e2012-30483-5
+   Cinelli M, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2023301118
+   Cinelli M, 2020, SCI REP-UK, V10, DOI 10.1038/s41598-020-73510-5
+   Clayton K, 2020, POLIT BEHAV, V42, P1073, DOI 10.1007/s11109-019-09533-0
+   Coleman K., 2021, INTRO BIRDWATCH COMM
+   DALEY DJ, 1964, NATURE, V204, P1118, DOI 10.1038/2041118a0
+   Davis CA, 2016, PROCEEDINGS OF THE 25TH INTERNATIONAL CONFERENCE ON WORLD WIDE WEB (WWW'16 COMPANION), P273, DOI 10.1145/2872518.2889302
+   Dickmann P, 2014, DISASTER MED PUBLIC, V8, P206, DOI 10.1017/dmp.2014.36
+   Dube J., 2020, SSRN Electronic Journal, V27237, DOI 10.3386/w27237
+   Endsley MR, 2018, HUM FACTORS, V60, P1081, DOI 10.1177/0018720818807357
+   Facebook, 2020, FAC FACT CHECK PROGR
+   Garrett RK, 2013, J COMMUN, V63, P617, DOI 10.1111/jcom.12038
+   Giachanou A, 2016, ACM COMPUT SURV, V49, DOI 10.1145/2938640
+   Goldberg Zachary J., 2020, WORLD AFF, V183, P105, DOI [DOI 10.1177/0043820020920554, 10.1177/0043820020920554]
+   Hamilton IA., 2020, 77 PHONE MASTS ATTAC
+   Inc T, 2020, COR STAYING SAF INF
+   Jenness SM, 2018, J STAT SOFTW, V84, P1, DOI 10.18637/jss.v084.i08
+   Jin F., 2013, P 7 WORKSH SOC NETW, P1, DOI [DOI 10.1145/2501025.2501027, 10.1145/2501025.2501027]
+   Jolley D, 2014, BRIT J PSYCHOL, V105, P35, DOI 10.1111/bjop.12018
+   Kai Shu, 2017, ACM SIGKDD Explorations Newsletter, V19, P22, DOI 10.1145/3137597.3137600
+   King AA, 2015, P ROY SOC B-BIOL SCI, V282, DOI 10.1098/rspb.2015.0347
+   Krishnan S, 2018, 2018 IEEE INTERNATIONAL CONFERENCE ON INFORMATION REUSE AND INTEGRATION (IRI), P460, DOI 10.1109/IRI.2018.00073
+   Kumar KPK, 2014, HUM-CENT COMPUT INFO, V4, DOI 10.1186/s13673-014-0014-x
+   Lamsal R, 2021, APPL INTELL, V51, P2790, DOI 10.1007/s10489-020-02029-z
+   Levy N., 2017, SOC EPISTEMOL, V6, P20
+   Lewandowsky S, 2012, PSYCHOL SCI PUBL INT, V13, P106, DOI 10.1177/1529100612451018
+   Mann RP, 2013, J R SOC INTERFACE, V10, DOI 10.1098/rsif.2013.0466
+   Margolin DB, 2018, POLIT COMMUN, V35, P196, DOI 10.1080/10584609.2017.1334018
+   Mena P, 2020, POLICY INTERNET, V12, P165, DOI 10.1002/poi3.214
+   Munz P, 2009, PUBLIC HEALTH 21ST C, P133
+   Nekovee M, 2007, PHYSICA A, V374, P457, DOI 10.1016/j.physa.2006.07.017
+   NELDER JA, 1965, COMPUT J, V7, P308, DOI 10.1093/comjnl/7.4.308
+   Nicho J, 2010, UNDERGRADUATE J MATH, V2, P8
+   Nielsen RK, 2020, Reuters Institute, P1
+   Ognyanova K., 2020, HARVARD KENNEDY SCH, V1, P1, DOI DOI 10.37016/MR-2020-024
+   Pennycook G, 2017, ASSESSING EFFECT DIS
+   Pennycook G, 2021, TRENDS COGN SCI, V25, P388, DOI 10.1016/j.tics.2021.02.007
+   Peri SSS, 2020, LAK20: THE TENTH INTERNATIONAL CONFERENCE ON LEARNING ANALYTICS & KNOWLEDGE, P197, DOI 10.1145/3375462.3375515
+   Pournelle G. H., 1953, Journal of Mammalogy, V34, P133
+   Rodrigues HS, 2016, ARXIV PREPRINT ARXIV
+   Roediger HL, 2005, J EXP PSYCHOL LEARN, V31, P1155, DOI 10.1037/0278-7393.31.5.1155
+   Roth Yoel, 2020, Twitter Blog
+   Selivanov D., text2vec: Modern text mining framework for r
+   Shah D, 2011, IEEE T INFORM THEORY, V57, P5163, DOI 10.1109/TIT.2011.2158885
+   Shao C., 2017, ARXIV170707592, V96, P4
+   Shin J, 2018, COMPUT HUM BEHAV, V83, P278, DOI 10.1016/j.chb.2018.02.008
+   Shu K, 2020, BIG DATA-US, V8, P171, DOI 10.1089/big.2020.0062
+   Skaza J, 2017, PHYSICA A, V465, P289, DOI 10.1016/j.physa.2016.08.038
+   Stempel C, 2007, JOURNALISM MASS COMM, V84, P353, DOI 10.1177/107769900708400210
+   Tambuscio M, 2015, WWW'15 COMPANION: PROCEEDINGS OF THE 24TH INTERNATIONAL CONFERENCE ON WORLD WIDE WEB, P977, DOI 10.1145/2740908.2742572
+   Tandoc EC, 2019, SOCIOL COMPASS, V13, DOI 10.1111/soc4.12724
+   Tasnim Samia, 2020, J Prev Med Public Health, V53, P171, DOI 10.3961/jpmph.20.094
+   Tekumalla Ramya, 2020, Genomics & Informatics, V18, pe16, DOI 10.5808/GI.2020.18.2.e16
+   Törnberg P, 2018, PLOS ONE, V13, DOI 10.1371/journal.pone.0203958
+   Tschiatschek S, 2018, COMPANION PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE 2018 (WWW 2018), P517, DOI 10.1145/3184558.3188722
+   Vosoughi S, 2018, SCIENCE, V359, P1146, DOI 10.1126/science.aap9559
+   Walter N, 2020, POLIT COMMUN, V37, P350, DOI 10.1080/10584609.2019.1668894
+   Waterson J., 2020, LEAST 20 UK PHONE MA
+   World Health Organization, 2020, NOV COR 2019 NCOV SI, P13
+   Zarocostas J, 2020, LANCET, V395, P676, DOI 10.1016/S0140-6736(20)30461-X
+   Zhao LJ, 2013, PHYSICA A, V392, P995, DOI 10.1016/j.physa.2012.09.030
+   Zhao LJ, 2012, PHYSICA A, V391, P2444, DOI 10.1016/j.physa.2011.12.008
+NR 73
+TC 12
+Z9 15
+U1 3
+U2 40
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PY 2021
+VL 16
+IS 8
+AR e0256179
+DI 10.1371/journal.pone.0256179
+PG 20
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA TZ4EI
+UT WOS:000684426400015
+PM 34383860
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Cao, MJ
+   Li, SR
+   Yue, WF
+   Wang, HQ
+AF Cao, Meijuan
+   Li, Shuairan
+   Yue, Wenfei
+   Wang, Huanqing
+TI Research on the Relationship between Social Support and Employment
+   Quality of Chinese Athletes from the Perspective of Social Network
+   Structure
+SO COMPLEXITY
+LA English
+DT Article
+AB Based on the theories of social network, social support, and retirement process, this study analyzes the source and composition of social support for Chinese athletes on the basis of constructing the social support network. Subsequently, we analyze the impact of social support on employment quality of Chinese athletes from different dimensions and further explore the mechanism of social support on the employment quality of athletes from the moderating role of athletes' self-employment cognition. The study found that the social support network of athletes showed a clear tendency toward "strong ties," and the social support they received mainly came from family members, teammates, and sports team managers. These kinds of social support will directly promote the employment quality of athletes after retirement. When athletes have full knowledge of their future employment status, the effect of social support in promoting employment quality will be further expanded.
+C1 [Cao, Meijuan; Li, Shuairan] Xian Phys Educ Univ, Xian 710065, Peoples R China.
+   [Yue, Wenfei; Wang, Huanqing] Xian Univ Architecture & Technol, Sports Coll, Xian 710311, Peoples R China.
+C3 Xi'an Physical Education University; Xi'an University of Architecture &
+   Technology
+RP Li, SR (corresponding author), Xian Phys Educ Univ, Xian 710065, Peoples R China.
+EM 1929939308@qq.com
+RI Cao, Meijuan/ABC-5441-2021
+OI Li, shuairan/0000-0003-3303-1930; Wang, Huanqing/0000-0003-4260-5342
+CR BEDEIAN AG, 1991, J VOCAT BEHAV, V39, P331, DOI 10.1016/0001-8791(91)90042-K
+   Du W., 2020, J WUHAN I PHYS ED, V54, P100
+   GOTTLIEB BH, 1985, SOC WORK, V30, P293, DOI 10.1093/sw/30.4.293
+   He H.J., 2020, STAT INFORM FORUM, V35, P15
+   Hu YT, 2021, INFORM SCIENCES, V542, P156, DOI 10.1016/j.ins.2020.06.067
+   Kang LJ, 2020, BRAIN BEHAV IMMUN, V87, P11, DOI 10.1016/j.bbi.2020.03.028
+   Lu HY, 2021, APPL RES QUAL LIFE, V16, P1925, DOI 10.1007/s11482-020-09851-0
+   Ren B., 2020, FORUM, V35, P33
+   Ryff CD, 2000, PERS SOC PSYCHOL REV, V4, P30, DOI 10.1207/S15327957PSPR0401_4
+   SARASON IG, 1985, PSYCHOSOM MED, V47, P156, DOI 10.1097/00006842-198503000-00007
+   Thomas L.K.M., 2010, APPL RASCH MEASUREME
+   Wang D., 2007, CHINA J HLTH PSYCHOL, V12, P1142
+   [王进 WANG Jin], 2008, [心理学报, Acta Psychologica Sinica], V40, P496
+   [王明波 WANG Mingbo], 2006, [中国石油大学学报. 自然科学版, Journal of China University of Petroleum. Edition of Natrual Science], V30, P47
+   Xing H.L., 2014, BMC PLANT BIOL, V14, P327, DOI DOI 10.1186/s12870-014-0327-y
+   Xiong F, 2020, IEEE T CYBERNETICS, V50, P4186, DOI 10.1109/TCYB.2019.2939390
+   Xiong F, 2020, IEEE T SYST MAN CY-S, V50, P3804, DOI 10.1109/TSMC.2018.2854000
+   Zhang X., 2018, J WUHAN I PHYS ED, V52, P17
+   Zhang Xiaoli, 2020, J SHANGHAI I PHYS ED, V44, P31
+   Zou Y., 2020, J XIAN PHYS ED U, V37, P720
+NR 20
+TC 4
+Z9 4
+U1 4
+U2 41
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1076-2787
+EI 1099-0526
+J9 COMPLEXITY
+JI Complexity
+PD OCT 14
+PY 2021
+VL 2021
+AR 9916024
+DI 10.1155/2021/9916024
+PG 9
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Mathematics; Science & Technology - Other Topics
+GA YF4CG
+UT WOS:000741756100002
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Gu, F
+   Xiao, YY
+AF Gu, Fan
+   Xiao, Yuanyuan
+TI Social Network Structure as a Moderator of the Relationship between
+   Psychological Capital and Job Satisfaction: Evidence from China
+SO COMPLEXITY
+LA English
+DT Article
+ID ORGANIZATIONAL RESEARCH; SEARCH; PERFORMANCE; EMPLOYMENT; GUANXI;
+   PREDICTORS; INTENSITY; BEHAVIORS; ATTITUDES; IMPACT
+AB Although networking is reported to be a job search strategy in the literature, research on the interaction between social networking and other personal resources and its effect on job satisfaction is scarce. In the perspective of social networks, the present study explored whether the social network structure, which consists of network size and tie strength, moderates the relationship between psychological capital and job satisfaction. By using a two-wave longitudinal design, we collected the quantitative data (survey of 344 undergraduate students who were about to graduate soon) from 19 universities in Beijing city, Shandong Province, and Jiangsu Province in Eastern China. Factor analysis and hierarchical regression analysis were adopted to analyze the data of the survey. We found that psychological capital has a positive impact on job seekers' job satisfaction. Furthermore, smaller networks and weaker ties in social networks both render the positive effect of psychological capital on job satisfaction even stronger.
+C1 [Gu, Fan; Xiao, Yuanyuan] China Univ Polit Sci & Law, Business Sch, Beijing 100088, Peoples R China.
+C3 China University of Political Science & Law
+RP Gu, F (corresponding author), China Univ Polit Sci & Law, Business Sch, Beijing 100088, Peoples R China.
+EM gufan@cupl.edu.cn
+OI GU, FAN/0000-0001-7954-6417
+FU Fundamental Research Funds for the Central Universities [CUPL:
+   20ZFQ63001]; Social Science Foundation from the China University of
+   Political Science and Law [10820366, 20ZFQ63001]; National Science
+   Foundation of China [71874205]; National Social Science Foundation of
+   China [20AZD071]
+FX This study was supported by the Fundamental Research Funds for the
+   Central Universities (CUPL: 20ZFQ63001), the Social Science Foundation
+   from the China University of Political Science and Law (10820366 and
+   20ZFQ63001), the National Science Foundation of China (71874205), and
+   the National Social Science Foundation of China (20AZD071).
+CR Adler PaulS., 2002, ACAD MANAGE REV, V27, P17
+   Anderson T. W., 1984, INTRO MULTIVARIATE S
+   [Anonymous], 2007, PSYCHOL CAPITAL
+   [Anonymous], 1995, GETTING JOB STUDY CO
+   Avey JB, 2008, J APPL BEHAV SCI, V44, P48, DOI 10.1177/0021886307311470
+   Avey JB, 2011, HUM RESOUR DEV Q, V22, P127, DOI 10.1002/hrdq.20070
+   Bharati P, 2004, DECIS SUPPORT SYST, V37, P187, DOI 10.1016/S0167-9236(03)00006-X
+   BLAU G, 1994, ORGAN BEHAV HUM DEC, V59, P288, DOI 10.1006/obhd.1994.1061
+   Bolles R.N., 2006, WHAT COLOR IS YOUR P
+   Borgatti SP, 2003, J MANAGE, V29, P991, DOI 10.1016/S0149-2063(03)00087-4
+   Brasher EE, 1999, J OCCUP ORGAN PSYCH, V72, P57, DOI 10.1348/096317999166491
+   Brislin R. W., 1986, FIELD METHODS CROSS, P137, DOI DOI 10.1177/017084068800900318
+   Brown DW, 2001, GROUP ORGAN MANAGE, V26, P434, DOI 10.1177/1059601101264003
+   Chen CC, 2004, ORGAN SCI, V15, P200, DOI 10.1287/orsc.1030.0047
+   Chen CC, 2013, MANAGE ORGAN REV, V9, P167, DOI 10.1111/more.12010
+   Chen CC, 2009, ASIA PAC J MANAG, V26, P37, DOI 10.1007/s10490-007-9079-7
+   Collins CJ, 2002, J APPL PSYCHOL, V87, P1121, DOI 10.1037/0021-9010.87.6.1121
+   Florit EF, 2007, INT ADV ECON RES, V13, P157, DOI 10.1007/s11294-007-9081-3
+   Forret ML, 2001, GROUP ORGAN MANAGE, V26, P283, DOI 10.1177/1059601101263004
+   Gilly MC, 1998, J ACAD MARKET SCI, V26, P83, DOI 10.1177/0092070398262001
+   GOLLOB HF, 1987, CHILD DEV, V58, P80, DOI 10.2307/1130293
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Guthrie D, 1998, CHINA QUART, P254, DOI 10.1017/S0305741000002034
+   Horak S, 2019, ASIA PAC J MANAG, V36, P349, DOI 10.1007/s10490-018-9602-z
+   Hu J, 2015, J APPL PSYCHOL, V100, P1228, DOI 10.1037/apl0000008
+   Hu YT, 2021, INFORM SCIENCES, V542, P156, DOI 10.1016/j.ins.2020.06.067
+   Kanfer R, 2001, J APPL PSYCHOL, V86, P837, DOI 10.1037//0021-9010.86.5.837
+   Li P. P., 2007, Asia Pacific Journal of Management, V24, P227, DOI 10.1007/s10490-006-9031-2
+   Locke E A., 1976, The handbook of organizational psychology
+   Luthans F, 2006, J ORGAN BEHAV, V27, P387, DOI 10.1002/job.373
+   Luthans F, 2008, J ORGAN BEHAV, V29, P219, DOI 10.1002/job.507
+   Luthans F, 2007, PERS PSYCHOL, V60, P541, DOI 10.1111/j.1744-6570.2007.00083.x
+   McKee-Ryan FM, 2005, J APPL PSYCHOL, V90, P53, DOI 10.1037/0021-9010.90.1.53
+   Nan R, 2020, COMPLEXITY, V2020, DOI 10.1155/2020/3819514
+   Pereira V, 2018, COMPLEXITY, DOI 10.1155/2018/6740846
+   Podsakoff PM, 2012, ANNU REV PSYCHOL, V63, P539, DOI 10.1146/annurev-psych-120710-100452
+   PODSAKOFF PM, 1986, J MANAGE, V12, P531, DOI 10.1177/014920638601200408
+   Putnam R. D., 1993, MAKING DEMOCRACY WOR
+   Qiao Z.H., 2011, PSYCHOL DEV ED, V27, P274
+   Rego A, 2012, J BUS RES, V65, P429, DOI 10.1016/j.jbusres.2011.10.003
+   REINGEN PH, 1986, J MARKETING RES, V23, P370, DOI 10.2307/3151813
+   Saks AM, 2002, J APPL PSYCHOL, V87, P646, DOI 10.1037//0021-9010.87.4.646
+   Saks AM, 2000, J VOCAT BEHAV, V56, P277, DOI 10.1006/jvbe.1999.1714
+   Sato Y., 2010, Facing an unequal world: Challenges for a global sociology, P192
+   Seibert SE, 2001, ACAD MANAGE J, V44, P219, DOI 10.5465/3069452
+   Sun L.Y., 2020, EMPLOYMENT GUIDANCE, V12, P54
+   TOOTHMAKER LE, 1994, J OPER RES SOC, V45, P119
+   Tziner A, 2004, J CAREER ASSESSMENT, V12, P332, DOI 10.1177/1069072704266677
+   Van Hoye G, 2005, INT J SELECT ASSESS, V13, P179, DOI 10.1111/j.1468-2389.2005.00313.x
+   Van Hoye G, 2009, J OCCUP ORGAN PSYCH, V82, P661, DOI 10.1348/096317908X360675
+   Wanberg CR, 2000, J APPL PSYCHOL, V85, P491, DOI 10.1037//0021-9010.85.4.491
+   Wanberg CR, 2002, J APPL PSYCHOL, V87, P1100, DOI 10.1037//0021-9010.87.6.1100
+   Xiong F, 2020, IEEE T CYBERNETICS, V50, P4186, DOI 10.1109/TCYB.2019.2939390
+   Xiong F, 2020, IEEE T SYST MAN CY-S, V50, P3804, DOI 10.1109/TSMC.2018.2854000
+   Zhang KR, 2018, J ADV TRANSPORT, DOI 10.1155/2018/8570207
+   Zottoli MichaelA., 2000, HUM RESOUR MANAGE R, V10, P353, DOI [10.1016/S1053-4822(00)00032-2, DOI 10.1016/S1053-4822(00)00032-2]
+NR 56
+TC 3
+Z9 3
+U1 0
+U2 24
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1076-2787
+EI 1099-0526
+J9 COMPLEXITY
+JI Complexity
+PD NOV 2
+PY 2021
+VL 2021
+AR 2550944
+DI 10.1155/2021/2550944
+PG 12
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Science & Technology - Other Topics
+GA XN0AQ
+UT WOS:000729178300004
+OA gold
+DA 2024-11-22
+ER

@@ -1,0 +1,493 @@
+
+PT J
+AU Zhu, YX
+   Zhang, XG
+   Sun, GQ
+   Tang, M
+   Zhou, T
+   Zhang, ZK
+AF Zhu, Yu-Xiao
+   Zhang, Xiao-Guang
+   Sun, Gui-Quan
+   Tang, Ming
+   Zhou, Tao
+   Zhang, Zi-Ke
+TI Influence of Reciprocal Links in Social Networks
+SO PLOS ONE
+LA English
+DT Article
+ID EVOLUTION
+AB How does reciprocal links affect the function of real social network? Does reciprocal link and non-reciprocal link play the same role? Previous researches haven't displayed a clear picture to us until now according to the best of our knowledge. Motivated by this, in this paper, we empirically study the influence of reciprocal links in two representative real datasets, Sina Weibo and Douban. Our results demonstrate that the reciprocal links play a more important role than non-reciprocal ones in information diffusion process. In particular, not only coverage but also the speed of the information diffusion can be significantly enhanced by considering the reciprocal effect. We give some possible explanations from the perspectives of network connectivity and efficiency. This work may shed some light on the in-depth understanding and application of the reciprocal effect in directed online social networks.
+C1 [Zhu, Yu-Xiao; Tang, Ming; Zhou, Tao] Univ Elect Sci & Technol China, Web Sci Ctr, Chengdu 610054, Peoples R China.
+   [Zhang, Zi-Ke] Hangzhou Normal Univ, Alibaba Res Ctr Complex Sci, Hangzhou, Zhejiang, Peoples R China.
+   [Zhang, Zi-Ke] Alibaba Res Inst, Hangzhou, Zhejiang, Peoples R China.
+   [Sun, Gui-Quan] Shanxi Univ, Complex Syst Res Ctr, Taiyuan, Shanxi, Peoples R China.
+   [Zhang, Xiao-Guang; Sun, Gui-Quan] North Univ China, Dept Math, Taiyuan, Shanxi, Peoples R China.
+C3 University of Electronic Science & Technology of China; Hangzhou Normal
+   University; Alibaba Group; Shanxi University; North University of China
+RP Zhang, ZK (corresponding author), Hangzhou Normal Univ, Alibaba Res Ctr Complex Sci, Hangzhou, Zhejiang, Peoples R China.
+EM zhangzike@gmail.com
+RI zhang, xiaoguang/JUV-2647-2023; Sun, Gui-Quan/Y-3606-2019
+OI Zhou, Tao/0000-0003-0561-2316
+FU NSFC [11105024, 11105025, 11301490, 11205040, 11305043]; Zhejiang
+   Provincial Natural Science Foundation of China [LY14A050001]; Zhejiang
+   Qianjiang Talents Project [QJC1302001]; Fundamental Research Funds for
+   Central Universities [A03008023401042]; Program of Outstanding PhD
+   Candidate in Academic Research by UESTC [YBXSZC20131035]
+FX This work was funded by NSFC: 11105024, 11105025, 11301490, 11205040 and
+   11305043; Zhejiang Provincial Natural Science Foundation of China:
+   LY14A050001; Zhejiang Qianjiang Talents Project: QJC1302001; Fundamental
+   Research Funds for Central Universities: A03008023401042; the Program of
+   Outstanding PhD Candidate in Academic Research by UESTC: YBXSZC20131035.
+   The funders had no role in study design, data collection and analysis,
+   decision to publish, or preparation of the manuscript.
+CR Barthélemy M, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.178701
+   BERG J, 1995, GAME ECON BEHAV, V10, P122, DOI 10.1006/game.1995.1027
+   Boguñá M, 2005, PHYS REV E, V72, DOI 10.1103/PhysRevE.72.016106
+   Castellano C, 2009, REV MOD PHYS, V81, P591, DOI 10.1103/RevModPhys.81.591
+   Cheng XQ, 2010, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2010/10/P10011
+   Cimini G, 2012, PHYS REV E, V85, DOI 10.1103/PhysRevE.85.046108
+   Cui AX, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0050702
+   Diekmann A, 2004, J CONFLICT RESOLUT, V48, P487, DOI 10.1177/0022002704265948
+   Dodds PS, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.218701
+   Doer B, 2012, COMMUN ACM, V55, P70, DOI 10.1145/2184319.2184338
+   Falk A, 2006, GAME ECON BEHAV, V54, P293, DOI 10.1016/j.geb.2005.03.001
+   Fehr E, 2003, NATURE, V425, P785, DOI 10.1038/nature02043
+   Fortunato S, 2010, PHYS REP, V486, P75, DOI 10.1016/j.physrep.2009.11.002
+   Garlaschelli D, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.188701
+   Ge ZH, 2012, PHYSICA A, V391, P647, DOI 10.1016/j.physa.2011.08.063
+   Girvan M, 2002, P NATL ACAD SCI USA, V99, P7821, DOI 10.1073/pnas.122653799
+   Grabowicz PA, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0029358
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Hill AL, 2010, PLOS COMPUT BIOL, V6, DOI 10.1371/journal.pcbi.1000968
+   House T, 2011, J R SOC INTERFACE, V8, P67, DOI 10.1098/rsif.2010.0179
+   Huang Junming., 2012, Proceedings of the Fifth ACM International Conference on Web Search and Data Mining, WSDM '12, P573
+   Jackson MO, 2002, J ECON THEORY, V106, P265, DOI 10.1006/jeth.2001.2903
+   Leicht EA, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.118703
+   Lentz HHK, 2012, PHYS REV E, V85, DOI 10.1103/PhysRevE.85.066111
+   Leskovec J, 2006, KDD
+   Liu ZH, 2003, PHYS REV E, V67, DOI 10.1103/PhysRevE.67.031911
+   Medo M, 2009, EPL-EUROPHYS LETT, V88, DOI 10.1209/0295-5075/88/38005
+   Menczer F, 2002, P NATL ACAD SCI USA, V99, P14014, DOI 10.1073/pnas.212348399
+   Milinski M, 2002, P ROY SOC B-BIOL SCI, V269, P881, DOI 10.1098/rspb.2002.1964
+   Moreno Y, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.066130
+   Newman MEJ, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.035101
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   Nowak MA, 2005, NATURE, V437, P1291, DOI 10.1038/nature04131
+   Onnela JP, 2007, P NATL ACAD SCI USA, V104, P7332, DOI 10.1073/pnas.0610245104
+   Pastor-Satorras R, 2001, PHYS REV LETT, V86, P3200, DOI 10.1103/PhysRevLett.86.3200
+   Perc M, 2013, J R SOC INTERFACE, V10, DOI 10.1098/rsif.2012.0997
+   Perc M, 2010, BIOSYSTEMS, V99, P109, DOI 10.1016/j.biosystems.2009.10.003
+   Pereira PT, 2006, J ECON BEHAV ORGAN, V59, P406, DOI 10.1016/j.jebo.2004.03.015
+   Restrepo JG, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.058701
+   Rockenbach B, 2006, NATURE, V444, P718, DOI 10.1038/nature05229
+   Rong ZH, 2010, PHYS REV E, V82, DOI 10.1103/PhysRevE.82.047101
+   Schwartz N, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.015104
+   Serrano MA, 2007, ACM T WEB, V1, DOI 10.1145/1255438.1255442
+   Shang MS, 2010, EPL-EUROPHYS LETT, V90, DOI 10.1209/0295-5075/90/48006
+   Szolnoki A, 2013, PHYS REV X, V3, DOI 10.1103/PhysRevX.3.041021
+   Tang M, 2009, EPL-EUROPHYS LETT, V87, DOI 10.1209/0295-5075/87/18005
+   Vespignani A, 2012, NAT PHYS, V8, P32, DOI 10.1038/nphys2160
+   Wang Z, 2014, J THEOR BIOL, V349, P50, DOI 10.1016/j.jtbi.2014.01.037
+   Wang Z, 2012, EPL-EUROPHYS LETT, V97, DOI 10.1209/0295-5075/97/48001
+   Zamora-López G, 2008, PHYS REV E, V77, DOI 10.1103/PhysRevE.77.016106
+   Zhang ZK, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0095785
+   Zhang ZK, 2010, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2010/10/P10005
+   Zhao ZD, 2013, SCI REP-UK, V3, DOI 10.1038/srep03472
+   Zhen W, 2013, SCI REPORTS, V3
+   Zhen W, 2013, SCI REPORTS, V3
+   Zhou T, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0020648
+   Zlatic V, 2006, PHYS REV E, V74, DOI 10.1103/PhysRevE.74.016115
+   Zlatic V, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.016117
+NR 58
+TC 23
+Z9 27
+U1 1
+U2 39
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JUL 29
+PY 2014
+VL 9
+IS 7
+AR e103007
+DI 10.1371/journal.pone.0103007
+PG 8
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA AO4KU
+UT WOS:000341307600018
+PM 25072242
+OA Green Published, Green Submitted, gold
+DA 2024-11-22
+ER
+
+PT J
+AU McKelvey, K
+   DiGrazia, J
+   Rojas, F
+AF McKelvey, Karissa
+   DiGrazia, Joseph
+   Rojas, Fabio
+TI Twitter publics: how online political communities signaled electoral
+   outcomes in the 2010 US house election
+SO INFORMATION COMMUNICATION & SOCIETY
+LA English
+DT Article
+DE big data; politics; research methodology; social media
+AB Online social networks are an important setting for understanding the intersection of online communities and offline political processes. This paper analyzes the different ways that people discuss elections on Twitter. Using data from a random sample totaling 113,985 tweets and 30,995 users, we examine the differences between users who employ various strategies to talk about US 2010 Congressional candidates. We show that users who simply include the text of a candidate's name in a message exhibit different behaviors than those who use platform-specific mechanisms. Users who employ free-text tend to have younger accounts, are less likely to be 'verified', and generate fewer messages about candidates. Furthermore, candidates' share of the free-text Twitter public has a larger correlation with their vote tallies than @mentions or hashtags. This research has methodological implications for studying the dynamics between online discourse and offline behavior. Overall, our findings support the view that forms of communication that are more accessible are more indicative of broader social trends.
+C1 [McKelvey, Karissa] Indiana Univ, Sch Informat & Comp, Bloomington, IN USA.
+   [DiGrazia, Joseph; Rojas, Fabio] Indiana Univ, Dept Sociol, Bloomington, IN 47405 USA.
+C3 Indiana University System; Indiana University Bloomington; Indiana
+   University System; Indiana University Bloomington
+RP Rojas, F (corresponding author), Indiana Univ, Dept Sociol, Bloomington, IN 47405 USA.
+EM frojas@indiana.edu
+CR BONINGER DS, 1995, J PERS SOC PSYCHOL, V68, P61, DOI 10.1037/0022-3514.68.1.61
+   Bucy EP, 2000, HARV INT J PRESS/POL, V5, P50, DOI 10.1162/108118000568967
+   Chen L, 2012, LECT NOTES COMPUT SC, V7710, P379, DOI 10.1007/978-3-642-35386-4_28
+   DiGrazia J, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0079449
+   Hanna A., 2013, J FOREIGN POLICY
+   Hargittai E, 2006, SOC SCI QUART, V87, P432, DOI 10.1111/j.1540-6237.2006.00389.x
+   Hargittai E, 2007, J COMPUT-MEDIAT COMM, V13, P276, DOI 10.1111/j.1083-6101.2007.00396.x
+   Hargittai E, 2012, INFORM COMMUN SOC, V15, P680, DOI 10.1080/1369118X.2012.666256
+   Hargittai E, 2010, INFORM COMMUN SOC, V13, P515, DOI 10.1080/13691181003639866
+   Hoffman DL, 1998, SCIENCE, V280, P390, DOI 10.1126/science.280.5362.390
+   Howard PEN, 2001, AM BEHAV SCI, V45, P383
+   Krippendorff K., 2004, CONTENT ANAL INTRO I
+   KROSNICK J, 1995, INT STUD QUART, V39, P535, DOI 10.2307/2600805
+   Krosnick J. A., 1990, Political Behavior, V12, P59, DOI [DOI 10.1007/BF00992332, 10. 1007/bf00992332]
+   KROSNICK JA, 1990, SOC COGNITION, V8, P1, DOI 10.1521/soco.1990.8.1.1
+   Lacy S, 1996, JOURNALISM MASS COMM, V73, P963, DOI 10.1177/107769909607300414
+   Neuendorf KA., 2017, The content analysis guidebook, DOI DOI 10.4135/9781071802878
+   Norris P., 2003, Digital divide: Civic engagement, information poverty, and the Internet worldwide, V40
+   Price V., 1992, Public opinion
+   Schattschneider E.E., 1975, The Semi-Sovereign People: A Realist's View of Democracy in America
+   Sides J, 2008, J POLIT, V70, P466, DOI 10.1017/S0022381608080432
+   van Deursen AJAM, 2009, INTERACT COMPUT, V21, P393, DOI 10.1016/j.intcom.2009.06.005
+NR 22
+TC 39
+Z9 44
+U1 1
+U2 82
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1369-118X
+EI 1468-4462
+J9 INFORM COMMUN SOC
+JI Info. Commun. Soc.
+PD APR 21
+PY 2014
+VL 17
+IS 4
+SI SI
+BP 436
+EP 450
+DI 10.1080/1369118X.2014.892149
+PG 15
+WC Communication; Sociology
+WE Social Science Citation Index (SSCI)
+SC Communication; Sociology
+GA AE3IR
+UT WOS:000333870700004
+DA 2024-11-22
+ER
+
+PT J
+AU Kramer, ADI
+   Guillory, JE
+   Hancock, JT
+AF Kramer, Adam D. I.
+   Guillory, Jamie E.
+   Hancock, Jeffrey T.
+TI Experimental evidence of massive-scale emotional contagion through
+   social networks
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE computer-mediated communication; social media; big data
+AB Emotional states can be transferred to others via emotional contagion, leading people to experience the same emotions without their awareness. Emotional contagion is well established in laboratory experiments, with people transferring positive and negative emotions to others. Data from a large real-world social network, collected over a 20-y period suggests that longer-lasting moods (e.g., depression, happiness) can be transferred through networks [Fowler JH, Christakis NA (2008) BMJ 337:a2338], although the results are controversial. In an experiment with people who use Facebook, we test whether emotional contagion occurs outside of in-person interaction between individuals by reducing the amount of emotional content in the News Feed. When positive expressions were reduced, people produced fewer positive posts and more negative posts; when negative expressions were reduced, the opposite pattern occurred. These results indicate that emotions expressed by others on Facebook influence our own emotions, constituting experimental evidence for massive-scale contagion via social networks. This work also suggests that, in contrast to prevailing assumptions, in-person interaction and nonverbal cues are not strictly necessary for emotional contagion, and that the observation of others' positive experiences constitutes a positive experience for people.
+C1 [Kramer, Adam D. I.] Facebook Inc, Core Data Sci Team, Menlo Pk, CA 94025 USA.
+   [Guillory, Jamie E.] Univ Calif San Francisco, Ctr Tobacco Control Res & Educ, San Francisco, CA 94143 USA.
+   [Hancock, Jeffrey T.] Cornell Univ, Dept Commun, Ithaca, NY 14853 USA.
+   [Hancock, Jeffrey T.] Cornell Univ, Dept Informat Sci, Ithaca, NY 14853 USA.
+C3 Facebook Inc; University of California System; University of California
+   San Francisco; Cornell University; Cornell University
+RP Kramer, ADI (corresponding author), Facebook Inc, Core Data Sci Team, Menlo Pk, CA 94025 USA.
+EM akramer@fb.com
+OI Hancock, Jeffrey/0000-0001-5367-2677
+FU NCI NIH HHS [R25 CA113710] Funding Source: Medline
+CR Aral S, 2009, P NATL ACAD SCI USA, V106, P21544, DOI 10.1073/pnas.0908800106
+   Bond RM, 2012, NATURE, V489, P295, DOI 10.1038/nature11421
+   Bratslavsky, 2001, REV GEN PSYCHOL, V5, P323, DOI [10.1037/1089-2680.5.4.323, DOI 10.1037/1089-2680.5.4.323]
+   Cohen-Cole E, 2008, J HEALTH ECON, V27, P1382, DOI 10.1016/j.jhealeco.2008.04.005
+   Festinger L, 1954, HUM RELAT, V7, P117, DOI 10.1177/001872675400700202
+   Fowler JH, 2008, BMJ-BRIT MED J, V337, DOI 10.1136/bmj.a2338
+   Golder SA, 2011, SCIENCE, V333, P1878, DOI 10.1126/science.1202775
+   Guillory J., 2011, Proceedings of CHI 2011, P745, DOI DOI 10.1145/1978942.1979049
+   Hatfield E, 1994, CURR DIR PSYCHOL SCI, V2, P96, DOI [10.1111/1467-8721.ep10770953, DOI 10.1111/1467-8721.EP10770953]
+   Kramer Adam DI, 2012, P SIGCHI C HUM FACT, P767, DOI [DOI 10.1177/0894439305283402, 10.1145/2207676.2207787, DOI 10.1145/2207676.2207787]
+   Pennebaker J.W., 2007, The development and psychological properties of LIWC 2007
+   Rosenquist JN, 2011, MOL PSYCHIATR, V16, P273, DOI 10.1038/mp.2010.13
+   Thusoo A, 2009, PROC VLDB ENDOW, V2, P1626, DOI 10.14778/1687553.1687609
+   Turkle S., 2011, Alone Together: Why we Expect More from Technology and Less from Each Other, P360
+NR 14
+TC 1703
+Z9 1997
+U1 49
+U2 1127
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD JUN 17
+PY 2014
+VL 111
+IS 24
+BP 8788
+EP 8790
+DI 10.1073/pnas.1320040111
+PG 3
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA AI9XO
+UT WOS:000337300100030
+PM 24889601
+OA Green Published, Bronze
+HC Y
+HP N
+DA 2024-11-22
+ER
+
+PT J
+AU Merino, SM
+AF Merino, Stephen M.
+TI Social Support and the Religious Dimensions of Close Ties
+SO JOURNAL FOR THE SCIENTIFIC STUDY OF RELIGION
+LA English
+DT Article
+DE social support; social networks; religious homophily; religious salience
+ID AMERICAN RELIGION; HEALTH; NETWORKS; IDENTITY; STRESS; INVOLVEMENT;
+   INTEGRATION; RESOURCES
+AB Despite the influence of social support on physical and mental health, few studies have examined why some close ties are more supportive than others. Though religion provides a rich context for social interaction and a meaningful social identity, it has received little attention in the social support literature. A growing literature on religion and health offers insight into how religion affects social support processes. Using dyadic network data derived from the nationally representative 2006 Portraits of American Life Study, I examine how the religious dimensions of close, nonhousehold ties relate to provision of social support. Results from logistic regression analyses indicate that (controlling for a range of other social tie characteristics) same-faith ties are significantly more likely to be sources of help in times of need, while religious discussion is a strong predictor of receiving both help and advice. The effect of religious homophily is strongest for evangelical Protestants and African-American Protestants. My findings underscore the need for social support researchers to consider the role of religion in shaping support processes in close relationships.
+C1 Univ Texas Pan Amer, Dept Sociol & Anthropol, Edinburg, TX 78539 USA.
+C3 University of Texas System; University of Texas Rio Grande Valley
+RP Merino, SM (corresponding author), Univ Texas Pan Amer, Dept Sociol & Anthropol, 1201 W Univ Dr, Edinburg, TX 78539 USA.
+EM merinosm@utpa.edu
+OI Merino, Stephen/0000-0003-0710-7903
+CR Agneessens F, 2006, SOC NETWORKS, V28, P427, DOI 10.1016/j.socnet.2005.10.001
+   [Anonymous], 2004, SOCIAL SUPPORT PHYS, DOI DOI 10.12987/YALE/9780300102185.001.0001
+   Barrera M., 2000, HDB COMMUNITY PSYCHO, P215, DOI DOI 10.1007/978-1-4615-4193-6_10
+   Berkman LF, 2000, SOC SCI MED, V51, P843, DOI 10.1016/S0277-9536(00)00065-4
+   Berkman LF., 2000, SOCIAL EPIDEMIOLOGY, DOI DOI 10.1093/OSO/9780195083316.003.0007
+   BRADLEY DE, 1995, J SCI STUD RELIG, V34, P259
+   Brashears ME, 2010, SOC NETWORKS, V32, P187, DOI 10.1016/j.socnet.2009.12.003
+   COHEN S, 1985, PSYCHOL BULL, V98, P310, DOI 10.1037//0033-2909.98.2.310
+   Cohen S, 2004, AM PSYCHOL, V59, P676, DOI 10.1037/0003-066X.59.8.676
+   Edgell P, 2013, J SCI STUD RELIG, V52, P293, DOI 10.1111/jssr.12021
+   Ellison CG, 1998, HEALTH EDUC BEHAV, V25, P700, DOI 10.1177/109019819802500603
+   ELLISON CG, 1994, J SCI STUD RELIG, V33, P46, DOI 10.2307/1386636
+   ELLISON CG, 1995, SOC FORCES, V73, P1255, DOI 10.2307/2580446
+   Ellison CG, 2008, J SCI STUD RELIG, V47, P291, DOI 10.1111/j.1468-5906.2008.00408.x
+   Emerson MO, 2010, J SCI STUD RELIG, V49, P162, DOI 10.1111/j.1468-5906.2009.01498.x
+   ERICKSON B, 2001, BLACKWELL COMPANION, P314
+   FELD SL, 1984, SOC FORCES, V62, P640, DOI 10.2307/2578704
+   Fischer Claude S., 1982, To Dwell among Friends: Personal Networks in Town and City
+   Greene K, 2006, CAMBRIDGE HANDBOOK OF PERSONAL RELATIONSHIPS, P409, DOI 10.1017/CBO9780511606632.023
+   Haines VA, 1996, J HEALTH SOC BEHAV, V37, P252, DOI 10.2307/2137295
+   Haslam S.A., 2012, The Social Cure: Identity, Health and Well-being, P157, DOI [10.4324/9780203813195, DOI 10.4324/9780203813195]
+   Haslam SA, 2009, APPL PSYCHOL-INT REV, V58, P1, DOI 10.1111/j.1464-0597.2008.00379.x
+   Haslam SA, 2004, STRESS HEALTH, V20, P3, DOI 10.1002/smi.995
+   HOUSE JS, 1988, ANNU REV SOCIOL, V14, P293, DOI 10.1146/annurev.so.14.080188.001453
+   Hurlbert JS, 2000, AM SOCIOL REV, V65, P598, DOI 10.2307/2657385
+   IDLER EL, 1987, SOC FORCES, V66, P226, DOI 10.2307/2578909
+   Idler EL, 1997, J GERONTOL B-PSYCHOL, V52, pS294, DOI 10.1093/geronb/52B.6.S294
+   Ikeda A, 2011, HANDBOOK OF BEHAVIORAL MEDICINE: METHODS AND APPLICATIONS, P237, DOI 10.1007/978-0-387-09488-5_18
+   JACOBSON D, 1987, Medical Anthropology Quarterly, V1, P42, DOI 10.1525/maq.1987.1.1.02a00030
+   Kim HS, 2008, AM PSYCHOL, V63, P518, DOI 10.1037/0003-066X
+   Koenig HG., 2012, Handbook of religion and health (2nd Edition)
+   Krause N, 2006, J GERONTOL B-PSYCHOL, V61, pS35, DOI 10.1093/geronb/61.1.S35
+   Krause N, 2002, REV RELIG RES, V44, P126, DOI 10.2307/3512512
+   Krause N., 2008, Aging in the Church: How Social Relationships affect Health
+   Krause N, 2008, RES AGING, V30, P395, DOI 10.1177/0164027508316619
+   Krause N, 2011, J SCI STUD RELIG, V50, P397, DOI 10.1111/j.1468-5906.2011.01575.x
+   Lim C, 2010, AM SOCIOL REV, V75, P914, DOI 10.1177/0003122410386686
+   LIN N, 1989, AM SOCIOL REV, V54, P382, DOI 10.2307/2095612
+   Lin N., 1986, Social support, life events, and depression
+   Louch H, 2000, SOC NETWORKS, V22, P45, DOI 10.1016/S0378-8733(00)00015-0
+   McPherson J.Miller., 2008, CONTEXTS, V7, P32
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Park CL, 2007, J BEHAV MED, V30, P319, DOI 10.1007/s10865-007-9111-x
+   Putnam R.D., 2010, AM GRACE RELIG DIVID
+   Reicher S.D., 1987, REDISCOVERING SOCIAL
+   Sarason BR, 2006, CAMBRIDGE HANDBOOK OF PERSONAL RELATIONSHIPS, P429, DOI 10.1017/CBO9780511606632.024
+   Sarason IG, 2009, J SOC PERS RELAT, V26, P113, DOI 10.1177/0265407509105526
+   Scheitle CP, 2010, J HEALTH SOC BEHAV, V51, P325, DOI 10.1177/0022146510378236
+   Scheitle CP, 2009, J SCI STUD RELIG, V48, P16, DOI 10.1111/j.1468-5906.2009.01427.x
+   Smith Christian., 1998, AM EVANGELICALISM EM
+   Smith KP, 2008, ANNU REV SOCIOL, V34, P405, DOI 10.1146/annurev.soc.34.040507.134601
+   Song L., 2011, SAGE HDB SOCIAL NETW, P116
+   Steensland B, 2000, SOC FORCES, V79, P291, DOI 10.2307/2675572
+   Strawbridge WJ, 1997, AM J PUBLIC HEALTH, V87, P957, DOI 10.2105/AJPH.87.6.957
+   Taylor R., 2004, RELIG LIVES AFRICAN
+   TAYLOR RJ, 1988, REV RELIG RES, V30, P193, DOI 10.2307/3511355
+   Valente T. W., 2010, Social networks and health: Models, methods, and applications, DOI DOI 10.1093/ACPROF:OSO/9780195301014.001.0001
+   WELLMAN B, 1990, AM J SOCIOL, V96, P558, DOI 10.1086/229572
+   WELLMAN B, 1989, SOCIOL PERSPECT, V32, P273, DOI 10.2307/1389119
+   Wellman B., 1992, ADV GROUP PROCESSES, V9, P207, DOI DOI 10.1111/j.1549-0831.2011.00060.x
+   Wellman Barry., 1999, NETWORKS GLOBAL VILL, P83
+   Ysseldyk R, 2010, PERS SOC PSYCHOL REV, V14, P60, DOI 10.1177/1088868309349693
+NR 62
+TC 59
+Z9 79
+U1 1
+U2 28
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0021-8294
+EI 1468-5906
+J9 J SCI STUD RELIG
+JI J. Sci. Stud. Relig.
+PD SEP
+PY 2014
+VL 53
+IS 3
+BP 595
+EP 612
+DI 10.1111/jssr.12134
+PG 18
+WC Sociology; Religion
+WE Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Sociology; Religion
+GA AP1ZS
+UT WOS:000341872000009
+DA 2024-11-22
+ER
+
+PT J
+AU Antoci, A
+   Sabatini, F
+   Sodini, M
+AF Antoci, Angelo
+   Sabatini, Fabio
+   Sodini, Mauro
+TI Bowling alone but tweeting together: the evolution of human interaction
+   in the social networking era
+SO QUALITY & QUANTITY
+LA English
+DT Article
+DE Internet; Computer-mediated communication; Online networking; Facebook;
+   Social networks; Social capital
+ID INTERNET USE; RELATIONAL GOODS; ONLINE; OFFLINE; INFORMATION; SITES;
+   COMMUNICATION; SOCIABILITY; COMMUNITIES; LONELINESS
+AB The objective of this paper is to theoretically analyze how human interaction may evolve in a world characterized by the explosion of online networking and other Web-mediated ways of building and nurturing relationships. The analysis shows that online networking yields a storage mechanism through which any individual contribution-e.g. a blog post, a comment, or a photo-is stored within a particular network and ready for virtual access by each member who connects to the network. When someone provides feedback, for example by commenting on a note, or by replying to a message, the interaction is finalized. These interactions are asynchronous, i.e. they allow individuals to relate in different moments, whenever they have time to. When the social environment is poor of participation opportunities and/or the pressure on time increases (for example due to the need to increase the working time), the stock of information and ties stored in the Internet can help individuals to defend their sociability.
+C1 [Antoci, Angelo] Dipartimento Sci Econ & Aziendali, I-07100 Sassari, Italy.
+   [Sabatini, Fabio] Univ Roma La Sapienza, Dipartimento Econ & Diritto, I-00161 Rome, Italy.
+   [Sabatini, Fabio] Natl Res Univ, Higher Sch Econ, Lab Comparat Social Res, Moscow, Russia.
+   [Sodini, Mauro] Univ Pisa, Dipartimento Econ & Management, I-56124 Pisa, Italy.
+C3 Sapienza University Rome; HSE University (National Research University
+   Higher School of Economics); University of Pisa
+RP Sabatini, F (corresponding author), Univ Roma La Sapienza, Dipartimento Econ & Diritto, Via Castro Laurenziano 9, I-00161 Rome, Italy.
+EM antoci@uniss.it; fabio.sabatini@uniroma1.it; m.sodini@ec.unipi.it
+RI Antoci, Angelo/AAG-2800-2021; Sodini, Mauro/R-1776-2016; Sabatini,
+   Fabio/KHE-0251-2024
+OI Sodini, Mauro/0000-0002-8237-8941; Sabatini, Fabio/0000-0002-1228-3322
+CR Agarwal R, 2009, INFORM SYST RES, V20, P277, DOI 10.1287/isre.1080.0194
+   Amichai-Hamburger Y, 2003, COMPUT HUM BEHAV, V19, P71, DOI 10.1016/S0747-5632(02)00014-6
+   Amichai-Hamburger Y, 2011, COMPUT HUM BEHAV, V27, P585, DOI 10.1016/j.chb.2010.10.009
+   [Anonymous], 392 SOEP WP
+   [Anonymous], 2009, CYBERPSYCHOLOGY
+   [Anonymous], 2011, NO32393 MPRA U TER
+   [Anonymous], C T 2011 5 INT C COM
+   [Anonymous], ACM CHI 2011 C HUM F
+   [Anonymous], RES SOCIAL PSYCHOL
+   [Anonymous], 201141 CEPSINSTEAD
+   [Anonymous], COMMUNICATIONS STRAT
+   [Anonymous], P 2 COMM TECHN C MIL
+   [Anonymous], 1998, American Psychologist
+   [Anonymous], 65 ONLINE ADULTS USE
+   [Anonymous], MIS Q
+   Antoci A, 2012, J SOCIO-ECON, V41, P541, DOI 10.1016/j.socec.2012.04.024
+   Antoci A, 2013, METROECONOMICA, V64, P401, DOI 10.1111/meca.12007
+   Antoci A, 2012, J ECON BEHAV ORGAN, V81, P802, DOI 10.1016/j.jebo.2010.12.018
+   Bartolini S, 2013, SOC INDIC RES, V110, P1033, DOI 10.1007/s11205-011-9971-x
+   Becchetti L, 2008, KYKLOS, V61, P343, DOI 10.1111/j.1467-6435.2008.00405.x
+   Becchetti L, 2010, J ECON PSYCHOL, V31, P498, DOI 10.1016/j.joep.2010.03.011
+   Bruni L, 2006, KYKLOS, V59, P209, DOI 10.1111/j.1467-6435.2006.00325.x
+   Bruni L, 2008, J ECON BEHAV ORGAN, V65, P506, DOI 10.1016/j.jebo.2005.12.005
+   Caplan SE, 2007, CYBERPSYCHOL BEHAV, V10, P234, DOI 10.1089/cpb.2006.9963
+   Costa DL, 2003, KYKLOS, V56, P17, DOI 10.1111/1467-6435.00208
+   Cummings J.N., 2006, COMPUTERS PHONES INT, P265
+   de Zúñiga HG, 2012, J COMPUT-MEDIAT COMM, V17, P319, DOI 10.1111/j.1083-6101.2012.01574.x
+   Demange G, 2010, GAME ECON BEHAV, V68, P580, DOI 10.1016/j.geb.2009.08.006
+   Ellison NB, 2007, J COMPUT-MEDIAT COMM, V12, P1143, DOI 10.1111/j.1083-6101.2007.00367.x
+   Ellison NB, 2011, NEW MEDIA SOC, V13, P873, DOI 10.1177/1461444810385389
+   Fershtman C, 2011, RAND J ECON, V42, P70, DOI 10.1111/j.1756-2171.2010.00126.x
+   Franzen A, 2003, KYKLOS, V56, P341, DOI 10.1046/j.0023-5962.2003.00224.x
+   Frey BS, 2007, J ECON PSYCHOL, V28, P283, DOI 10.1016/j.joep.2007.02.001
+   Gaudeul A., 2010, Jean Economic Research Papers, V4, P1
+   Gershuny J, 2003, SOC FORCES, V82, P141, DOI 10.1353/sof.2003.0086
+   Goldfarb A, 2008, INF ECON POLICY, V20, P2, DOI 10.1016/j.infoecopol.2007.05.001
+   Gui B., 2005, Economics and Social Interaction: Accounting for Interpersonal Relation, P23
+   Hampton K.N., 2003, CITY COMMUNITY, V2, P277, DOI [10.1046/j.1535-6841.2003.00057.x, DOI 10.1046/J.1535-6841.2003.00057.X]
+   Haythornthwaite C., 2005, Information Communication & Society, V8, P125, DOI 10.1080/13691180500146185
+   Katz JE, 2001, AM BEHAV SCI, V45, P405, DOI 10.1177/00027640121957268
+   Kavanaugh A, 2005, J COMPUT-MEDIAT COMM, V10
+   Matzat U, 2004, SOC NETWORKS, V26, P221, DOI 10.1016/j.socnet.2004.04.001
+   Matzat U, 2010, AM BEHAV SCI, V53, P1170, DOI 10.1177/0002764209356249
+   McKenna KYA, 2002, J SOC ISSUES, V58, P9, DOI 10.1111/1540-4560.00246
+   Miyata K, 2008, ASIAN J SOC PSYCHOL, V11, P42, DOI 10.1111/j.1467-839X.2007.00242.x
+   Morahan-Martin J, 2003, COMPUT HUM BEHAV, V19, P659, DOI 10.1016/S0747-5632(03)00040-2
+   Nie N.H., 2000, INTERNET SOC PRELIMI
+   Nie NormanH., 2002, IT SOC, V1, P1
+   Paxton P, 1999, AM J SOCIOL, V105, P88, DOI 10.1086/210268
+   Pénard T, 2010, J ECON ISSUES, V44, P569, DOI 10.2753/JEI0021-3624440301
+   Putnam R., 1999, BOWLING ALONE
+   Rainie L., 2011, SOCIAL SIDE INTERNET
+   Robinson JP, 2010, SOC SCI COMPUT REV, V28, P45, DOI 10.1177/0894439309335230
+   Robinson JP, 2009, SOC INDIC RES, V91, P115, DOI 10.1007/s11205-008-9285-9
+   Robinson RV, 2001, SOC SCI RES, V30, P117, DOI 10.1006/ssre.2000.0692
+   Steinfield C, 2008, J APPL DEV PSYCHOL, V29, P434, DOI 10.1016/j.appdev.2008.07.002
+   Stepanikova I, 2010, COMPUT HUM BEHAV, V26, P329, DOI 10.1016/j.chb.2009.11.002
+   Stern MJ, 2010, AM BEHAV SCI, V53, P1389, DOI 10.1177/0002764210361692
+   Subrahmanyam K, 2008, J APPL DEV PSYCHOL, V29, P420, DOI 10.1016/j.appdev.2008.07.003
+   Valenzuela S, 2009, J COMPUT-MEDIAT COMM, V14, P875, DOI 10.1111/j.1083-6101.2009.01474.x
+   Vergeer M, 2009, J COMPUT-MEDIAT COMM, V15, P189, DOI 10.1111/j.1083-6101.2009.01499.x
+   Zhang WW, 2010, SOC SCI COMPUT REV, V28, P75, DOI 10.1177/0894439309335162
+NR 62
+TC 9
+Z9 13
+U1 0
+U2 58
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0033-5177
+EI 1573-7845
+J9 QUAL QUANT
+JI Qual. Quant.
+PD JUL
+PY 2014
+VL 48
+IS 4
+BP 1911
+EP 1927
+DI 10.1007/s11135-013-9863-z
+PG 17
+WC Social Sciences, Interdisciplinary; Statistics & Probability
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics; Mathematics
+GA AI9JF
+UT WOS:000337248200007
+DA 2024-11-22
+ER

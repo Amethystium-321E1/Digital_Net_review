@@ -1,0 +1,571 @@
+
+PT J
+AU Altenburger, KM
+   Ugander, J
+AF Altenburger, Kristen M.
+   Ugander, Johan
+TI Monophily in social networks introduces similarity among
+   friends-of-friends
+SO NATURE HUMAN BEHAVIOUR
+LA English
+DT Article
+ID LINEAR-MODELS; GENDER; CLASSIFICATION; ORGANIZATIONS; ALGORITHMS
+AB The observation that individuals tend to be friends with people who are similar to themselves, commonly known as homophily, is a prominent feature of social networks. While homophily describes a bias in attribute preferences for similar others, it gives limited attention to variability. Here, we observe that attribute preferences can exhibit variation beyond what can be explained by homophily. We call this excess variation monophily to describe the presence of individuals with extreme preferences for a particular attribute possibly unrelated to their own attribute. We observe that monophily can induce a similarity among friends-of-friends without requiring any similarity among friends. To simulate homophily and monophily in synthetic networks, we propose an overdispersed extension of the classical stochastic block model. We use this model to demonstrate how homophily-based methods for predicting attributes on social networks based on friends (that is, 'the company you keep') are fundamentally different from monophily-based methods based on friends-of-friends (that is, 'the company you're kept in'). We place particular focus on predicting gender, where homophily can be weak or non-existent in practice. These findings offer an alternative perspective on network structure and prediction, complicating the already difficult task of protecting privacy on social networks.
+C1 [Altenburger, Kristen M.; Ugander, Johan] Stanford Univ, Management Sci & Engn Dept, Stanford, CA 94305 USA.
+C3 Stanford University
+RP Ugander, J (corresponding author), Stanford Univ, Management Sci & Engn Dept, Stanford, CA 94305 USA.
+EM jugander@stanford.edu
+OI Altenburger, Kristen M./0000-0002-6575-1054
+FU Engineering Graduate Fellowship (NDSEG) programme; Akiko Yamazaki and
+   Jerry Yang Engineering Fellowship; David Morgenthaler II Faculty
+   Fellowship
+FX We thank B. Fosdick, J. Kleinberg, I. Kloumann, D. Larremore, J.
+   Nishimura, M. Porter, M. Salganik and S. Way for helpful comments. We
+   thank attendees of the 2016 International Conference on Computational
+   Social Science and the 2016 SIAM Workshop on Network Science for
+   comments. This work was supported in part by the Department of Defense
+   (DoD) through the National Defense Science and Engineering Graduate
+   Fellowship (NDSEG) programme, the Akiko Yamazaki and Jerry Yang
+   Engineering Fellowship and a David Morgenthaler II Faculty Fellowship.
+   The funders had no role in study design, data collection and analysis,
+   decision to publish or preparation of the manuscript.
+CR Adamic L.A., 2005, P 3 INT WORKSH LINK, P36, DOI DOI 10.1145/1134271.1134277
+   [Anonymous], 2011, CATEGORICAL DATA ANA
+   [Anonymous], 2011, ROBERTS EVERTON TERR
+   [Anonymous], 1989, GEN LINEAR MODELS
+   [Anonymous], 2011, 11114503 ARXIV
+   [Anonymous], 2002, P 18 C UNCERTAINTY A
+   Bamman D, 2014, J SOCIOLING, V18, P135, DOI 10.1111/josl.12080
+   Bhagat S, 2011, SOCIAL NETWORK DATA ANALYTICS, P115
+   Boutyline A, 2017, POLIT PSYCHOL, V38, P551, DOI 10.1111/pops.12337
+   Bradley AP, 1997, PATTERN RECOGN, V30, P1145, DOI 10.1016/S0031-3203(96)00142-2
+   Carrington PJ., 2011, The SAGE handbook of social network analysis
+   Chatfield Christopher., 1976, Mathematical Models in Marketing, P53
+   Chung F., 2002, ANN COMB, V6, P125, DOI [DOI 10.1007/PL00012580, 10.1007/PL00012580]
+   COLEMAN JS, 1958, HUM ORGAN, V17, P28, DOI 10.17730/humo.17.4.q5604m676260q8n7
+   Condon A, 2001, RANDOM STRUCT ALGOR, V18, P116, DOI 10.1002/1098-2418(200103)18:2<116::AID-RSA1001>3.0.CO;2-2
+   Crowder M.J., 1978, Appl. Stat, V27, P34, DOI DOI 10.2307/2346223
+   Currarini S, 2009, ECONOMETRICA, V77, P1003, DOI 10.3982/ECTA7528
+   Decelle A, 2011, PHYS REV E, V84, DOI 10.1103/PhysRevE.84.066106
+   DIPRETE TA, 1994, ANNU REV SOCIOL, V20, P331, DOI 10.1146/annurev.so.20.080194.001555
+   DUNCAN GT, 1986, J AM STAT ASSOC, V81, P10, DOI 10.2307/2287959
+   Gallagher B, 2010, LECT NOTES COMPUT SC, V5498, P1, DOI 10.1109/AOM.2010.5713574
+   Gelman A., 2006, DATA ANAL USING REGR, DOI DOI 10.1017/CBO9780511790942
+   Golub B, 2012, Q J ECON, V127, P1287, DOI 10.1093/qje/qjs021
+   Gong NZ, 2014, ACM T INTEL SYST TEC, V5, DOI 10.1145/2594455
+   Guo G, 2000, ANNU REV SOCIOL, V26, P441, DOI 10.1146/annurev.soc.26.1.441
+   He JM, 2006, LECT NOTES COMPUT SC, V3975, P154
+   Heitjan DF, 1996, AM STAT, V50, P207, DOI 10.2307/2684656
+   Hofman JM, 2017, SCIENCE, V355, P486, DOI 10.1126/science.aal3856
+   HOLLAND PW, 1983, SOC NETWORKS, V5, P109, DOI 10.1016/0378-8733(83)90021-7
+   Jensen D., 2004, Proceedings of the 10th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, P593, DOI DOI 10.1145/1014052.1014125
+   Karrer B, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.016107
+   Kleinberg JM, 1999, J ACM, V46, P604, DOI 10.1145/324133.324140
+   Kosinski M, 2013, P NATL ACAD SCI USA, V110, P5802, DOI 10.1073/pnas.1218772110
+   Kossinets G, 2009, AM J SOCIOL, V115, P405, DOI 10.1086/599247
+   Laniado D, 2016, EPJ DATA SCI, V5, DOI 10.1140/epjds/s13688-016-0080-6
+   Lazarsfeld P.F., 1954, Freedom and Control in Modern Society, P18, DOI DOI 10.1111/J.1467-8705.2012.02056_3.X
+   Macskassy SA, 2007, J MACH LEARN RES, V8, P935
+   McCormick TH, 2013, J STAT THEORY PRACT, V7, P120, DOI 10.1080/15598608.2013.756360
+   MCPHERSON JM, 1991, SOC FORCES, V70, P19, DOI 10.2307/2580060
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   MOREL JG, 1993, BIOMETRIKA, V80, P363, DOI 10.2307/2337206
+   Neal JW, 2010, J SOC PERS RELAT, V27, P982, DOI 10.1177/0265407510378124
+   NEVILLE J, 2002, P DAT MIN LESS LEARN
+   Newman MEJ, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.208701
+   Page L., 1999, The PageRank citation ranking: Bringing order to the web
+   PEEL L., 2017, P 2017 SIAM INT C DA, P435, DOI DOI 10.1137/1.9781611974973.49
+   Raftery AE, 2001, SOCIOL METHODOL, V31, P1, DOI 10.1111/0081-1750.00088
+   Red V, 2011, SIAM REV, V53, P526, DOI 10.1137/080734315
+   Resnick MD, 1997, JAMA-J AM MED ASSOC, V278, P823, DOI 10.1001/jama.278.10.823
+   RUBIN DB, 1976, BIOMETRIKA, V63, P581, DOI 10.2307/2335739
+   Sen P, 2008, AI MAG, V29, P93, DOI 10.1609/aimag.v29i3.2157
+   SHRUM W, 1988, SOCIOL EDUC, V61, P227, DOI 10.2307/2112441
+   SIGNORILE V, 1965, AM J SOCIOL, V70, P467, DOI 10.1086/223880
+   Stohl C, 2007, COMMUN THEOR, V17, P93, DOI 10.1111/j.1468-2885.2007.00289.x
+   Thelwall M, 2009, J AM SOC INF SCI TEC, V60, P219, DOI 10.1002/asi.20978
+   Traud AL, 2012, PHYSICA A, V391, P4165, DOI 10.1016/j.physa.2011.12.021
+   Van Der Hofstad R, 2016, RANDOM GRAPHS COMPLE, V1
+   Watts DJ, 2017, NAT HUM BEHAV, V1, DOI 10.1038/s41562-016-0015
+   WEDDERBURN RWM, 1974, BIOMETRIKA, V61, P439, DOI 10.2307/2334725
+   WILLIAMS DA, 1982, J R STAT SOC C-APPL, V31, P144
+   Yang Y., 2016, PREPRINT
+   Zheleva E., 2009, P 18 INT C WORLD WID, P531, DOI DOI 10.1145/1526709.1526781
+   Zheng T, 2006, J AM STAT ASSOC, V101, P409, DOI 10.1198/016214505000001168
+   Zhu X., 2003, P 20 INT C MACHINE L, P912, DOI DOI 10.5555/3041838.3041953
+NR 64
+TC 45
+Z9 55
+U1 1
+U2 24
+PU NATURE PUBLISHING GROUP
+PI NEW YORK
+PA 75 VARICK ST, 9TH FLR, NEW YORK, NY 10013-1917 USA
+SN 2397-3374
+J9 NAT HUM BEHAV
+JI Nat. Hum. Behav.
+PD APR
+PY 2018
+VL 2
+IS 4
+BP 284
+EP 290
+DI 10.1038/s41562-018-0321-8
+PG 7
+WC Psychology, Biological; Multidisciplinary Sciences; Neurosciences;
+   Psychology, Experimental
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychology; Science & Technology - Other Topics; Neurosciences &
+   Neurology
+GA GJ6VW
+UT WOS:000435523500012
+PM 30936539
+DA 2024-11-22
+ER
+
+PT J
+AU Thomas, MG
+   Bårdsen, BJ
+   Næss, MW
+AF Thomas, Matthew Gwynfryn
+   Bardsen, Bard-Jorgen
+   Naess, Marius Warg
+TI The narrow gap between norms and cooperative behaviour in a reindeer
+   herding community
+SO ROYAL SOCIETY OPEN SCIENCE
+LA English
+DT Article
+DE evolution of cooperation; kinship; in-group versus out-group behaviour;
+   field experiments
+ID PASTORAL PRODUCTION; SOCIAL PREFERENCES; NETWORK DATA; EVOLUTION; FOOD;
+   RECIPROCITY; GAME; MAASAI
+AB Cooperation evolves on social networks and is shaped, in part, by norms: beliefs and expectations about the behaviour of others or of oneself. Networks of cooperative social partners and associated norms are vital for pastoralists, such as Saami reindeer herders in northern Norway. However, little is known quantitatively about how norms structure pastoralists' social networks or shape cooperation. Saami herders reported their social networks and participated in field experiments, allowing us to gauge the overlap between reported and emergent cooperation. We show that individuals' perceptions of reciprocal cooperation within their social networks exceeded actual reciprocity, although both occurred frequently and were concentrated within herding groups. Herders with more extensive cooperation networks received more rewards in an economic game. Although herders overestimated reciprocal helping, cooperation in this community was still extensive, suggesting that perceived norms potentially allow network structures promoting cooperation to emerge and be maintained.
+C1 [Thomas, Matthew Gwynfryn; Bardsen, Bard-Jorgen] NINA, Fram Ctr, Arctic Ecol Dept, N-9296 Tromso, Norway.
+   [Thomas, Matthew Gwynfryn; Naess, Marius Warg] Norwegian Inst Cultural Heritage NIKU, Fram Ctr, High North Dept, N-9296 Tromso, Norway.
+C3 Norwegian Institute Nature Research
+RP Thomas, MG (corresponding author), NINA, Fram Ctr, Arctic Ecol Dept, N-9296 Tromso, Norway.; Thomas, MG; Næss, MW (corresponding author), Norwegian Inst Cultural Heritage NIKU, Fram Ctr, High North Dept, N-9296 Tromso, Norway.
+EM marius.naess@niku.no
+RI ; Bardsen, Bard-Jorgen/B-6984-2015; Naess, Marius Warg/IZE-9034-2023
+OI Thomas, Matthew/0000-0003-2288-1104; Bardsen,
+   Bard-Jorgen/0000-0001-6818-5249; Naess, Marius Warg/0000-0002-2973-5954
+FU HIERARCHIES; Norwegian Research Council [240280]; ReiGN: Reindeer
+   Husbandry in a Globalizing North Resilience, Adaptations and Pathways
+   for Actions; Nordforsk [76915]
+FX M.W.N. and B.-J.B. were financed by 'HIERARCHIES', funded by the
+   Norwegian Research Council (project no. 240280). M.W.N., B.-J.B. and
+   M.G.T. were financed by 'ReiGN: Reindeer Husbandry in a Globalizing
+   North Resilience, Adaptations and Pathways for Actions', which is a
+   Nordforsk-funded 'Nordic Centre of Excellence' (project no. 76915). The
+   funders had no role in study design, data collection and analysis,
+   decision to publish, or preparation of the manuscript.
+CR Aktipis A, 2016, HUM ECOL, V44, P353, DOI 10.1007/s10745-016-9823-z
+   Aktipis CA, 2011, EVOL HUM BEHAV, V32, P263, DOI 10.1016/j.evolhumbehav.2011.01.002
+   Allen B, 2017, NATURE, V544, P227, DOI 10.1038/nature21723
+   [Anonymous], 2017, Bayesian Analysis
+   [Anonymous], AMEN ADDITIVE MULTIP
+   [Anonymous], 2021, ELEMENTS EVOLUTIONAR
+   [Anonymous], DRYAD DIGITAL REPOSI
+   Apicella CL, 2012, NATURE, V481, P497, DOI 10.1038/nature10736
+   Barclay P, 2013, EVOL HUM BEHAV, V34, P164, DOI 10.1016/j.evolhumbehav.2013.02.002
+   Chaudhary N, 2015, ROY SOC OPEN SCI, V2, DOI 10.1098/rsos.150054
+   Cronk L, 2007, EVOL HUM BEHAV, V28, P352, DOI 10.1016/j.evolhumbehav.2007.05.006
+   Debove S, 2016, EVOL HUM BEHAV, V37, P245, DOI 10.1016/j.evolhumbehav.2016.01.001
+   DYSONHUDSON R, 1980, ANNU REV ANTHROPOL, V9, P15, DOI 10.1146/annurev.an.09.100180.000311
+   Ensminger Jean., 2004, FDN HUMAN SOCIALITY, P356
+   Farrow K, 2017, ECOL ECON, V140, P1, DOI 10.1016/j.ecolecon.2017.04.017
+   Gavrilets S, 2017, P NATL ACAD SCI USA, V114, P6068, DOI 10.1073/pnas.1703857114
+   Glowacki L, 2017, NAT HUM BEHAV, V1, DOI 10.1038/s41562-017-0098
+   Glowacki L, 2016, P NATL ACAD SCI USA, V113, P12114, DOI 10.1073/pnas.1610961113
+   Haidt J, 2004, DAEDALUS-US, V133, P55, DOI 10.1162/0011526042365555
+   Hausner VH, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0051187
+   Jaccard, 1908, B SOCIETE VAUDOISE S, V4, P223, DOI DOI 10.5169/SEALS-268384
+   Jaeggi AV, 2013, P ROY SOC B-BIOL SCI, V280, DOI 10.1098/rspb.2013.1615
+   Jago R, 2010, INT J BEHAV NUTR PHY, V7, DOI 10.1186/1479-5868-7-59
+   Kolstad I, 2016, APPL ECON LETT, V23, P908, DOI 10.1080/13504851.2015.1119785
+   Koster J, 2015, AM J PHYS ANTHROPOL, V157, P507, DOI 10.1002/ajpa.22721
+   Koster JM, 2014, SOC NETWORKS, V38, P100, DOI 10.1016/j.socnet.2014.02.002
+   Levitt SD, 2007, J ECON PERSPECT, V21, P153, DOI 10.1257/jep.21.2.153
+   Lewis HM, 2014, NAT COMMUN, V5, DOI 10.1038/ncomms6789
+   List JA, 2009, ANNU REV ECON, V1, P563, DOI 10.1146/annurev.economics.050708.142958
+   Martens MR, 2006, J AM COLL HEALTH, V54, P295, DOI 10.3200/JACH.54.5.295-300
+   Miller DT, 2016, ANNU REV PSYCHOL, V67, P339, DOI 10.1146/annurev-psych-010814-015013
+   Næss MW, 2012, AM ANTHROPOL, V114, P309, DOI 10.1111/j.1548-1433.2012.01427.x
+   Næss MW, 2010, EVOL HUM BEHAV, V31, P246, DOI 10.1016/j.evolhumbehav.2009.12.004
+   Nichols AL, 2014, SWISS J PSYCHOL, V73, P41, DOI 10.1024/1421-0185/a000119
+   Nowak MA, 2006, SCIENCE, V314, P1560, DOI 10.1126/science.1133755
+   O'Neill E, 2017, PHILOS COMPASS, V12, DOI 10.1111/phc3.12416
+   Paine Robert., 1994, Herds of the Tundra: A Portrait of Saami Reindeer Pastoralism
+   Pryor F.L., 1980, Social exchange: Advances in theory and research, P215, DOI DOI 10.1007/978-1-4613-3087-5_10
+   R Core Team, 2012, R LANG ENV STAT COMP
+   Rook DW, 1995, J CONSUM RES, V22, P305, DOI 10.1086/209452
+   Rundle-Thiele S, 2009, QUAL MARK RES, V12, P295, DOI 10.1108/13522750910963818
+   Schiffer E, 2010, FIELD METHOD, V22, P231, DOI 10.1177/1525822X10374798
+   Schnegg M, 2016, CURR ANTHROPOL, V57, P683, DOI 10.1086/688051
+   Schnegg M, 2015, HUM NATURE-INT BIOS, V26, P313, DOI 10.1007/s12110-015-9236-5
+   Smith D, 2016, ROY SOC OPEN SCI, V3, DOI 10.1098/rsos.160131
+   Thomas MG, 2015, BEHAV ECOL, V26, P1495, DOI 10.1093/beheco/arv106
+   Wallen KE, 2017, P NATL ACAD SCI USA, V114, pE5283, DOI 10.1073/pnas.1704451114
+   West SA, 2007, J EVOLUTION BIOL, V20, P415, DOI 10.1111/j.1420-9101.2006.01258.x
+   Winking J, 2013, EVOL HUM BEHAV, V34, P288, DOI 10.1016/j.evolhumbehav.2013.04.002
+   Wright S, 1922, AM NAT, V56, P330, DOI 10.1086/279872
+   Ziker J, 2005, HUM NATURE-INT BIOS, V16, P178, DOI 10.1007/s12110-005-1003-6
+NR 51
+TC 7
+Z9 8
+U1 0
+U2 12
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 2054-5703
+J9 ROY SOC OPEN SCI
+JI R. Soc. Open Sci.
+PD FEB
+PY 2018
+VL 5
+IS 2
+AR 171221
+DI 10.1098/rsos.171221
+PG 10
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA FX9YA
+UT WOS:000426465700026
+PM 29515842
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Berenhaut, KS
+   Kotsonis, RC
+   Jiang, HY
+AF Berenhaut, Kenneth S.
+   Kotsonis, Rebecca C.
+   Jiang, Hongyi
+TI A new look at clustering coefficients with generalization to weighted
+   and multi-faction networks
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Clustering coefficient; Multiple random walks; Two-mode networks;
+   Geodesic distance; Weighted networks; Multi-faction networks
+ID RANDOM-WALKS; NORMALIZATION; COMMUNITIES; MODELS
+AB In this paper we propose a new method for studying local and global clustering in networks employing random walk pairs. The method is intuitive and directly generalizes standard local and global clustering coefficients to weighted networks and networks containing nodes of multiple types. In the case of two mode networks the values obtained for commonly considered social networks are in sharp contrast to those obtained, for instance, by the method of Opsahl (2013), and provide a different viewpoint for clustering. The approach is also applicable in questions related to the general study of segregation and homophily. Applications to existent data sets are considered. (C) 2017 Elsevier B.V. All rights reserved.
+C1 [Berenhaut, Kenneth S.; Kotsonis, Rebecca C.; Jiang, Hongyi] Wake Forest Univ, 1834 Wake Forest Rd, Winston Salem, NC USA.
+C3 Wake Forest University
+RP Berenhaut, KS (corresponding author), Wake Forest Univ, Dept Math & Stat, 1834 Wake Forest Rd, Winston Salem, NC 27109 USA.
+EM berenhks@wfu.edu
+CR Aksoy S, 2001, PATTERN RECOGN LETT, V22, P563, DOI 10.1016/S0167-8655(00)00112-4
+   Aldous D., 1995, Reversible Markov chains and random walks on graphs
+   Alon N, 2007, COMMUN CONTEMP MATH, V9, P585, DOI 10.1142/S0219199707002551
+   Alon N, 2008, PROCEEDINGS OF THE NINETEENTH ANNUAL ACM-SIAM SYMPOSIUM ON DISCRETE ALGORITHMS, P373
+   [Anonymous], 1985, Social organization of an urban grants economy: A study of business philanthropy and non-profit organizations
+   [Anonymous], 2005, NETWORK ANAL METHODO, DOI DOI 10.1007/B106453
+   [Anonymous], 1941, DEEP S SOCIOLOGICAL
+   [Anonymous], 1992, Structural holes
+   [Anonymous], 1994, SOCIAL NETWORK ANAL
+   [Anonymous], UNPUB
+   Barrat A, 2004, P NATL ACAD SCI USA, V101, P3747, DOI 10.1073/pnas.0400087101
+   Barthélemy M, 2005, PHYSICA A, V346, P34, DOI 10.1016/j.physa.2004.08.047
+   CARTWRIGHT D, 1956, PSYCHOL REV, V63, P277, DOI 10.1037/h0046049
+   Chul-Ho Lee, 2012, Performance Evaluation Review, V40, P319, DOI 10.1145/2318857.2254795
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   Colizza V, 2007, NAT PHYS, V3, P276, DOI 10.1038/nphys560
+   Doreian P, 2004, SOC NETWORKS, V26, P29, DOI 10.1016/j.socnet.2004.01.002
+   Eom YH, 2014, SCI REP-UK, V4, DOI 10.1038/srep04603
+   FELD SL, 1981, AM J SOCIOL, V86, P1015, DOI 10.1086/227352
+   Freeman LC, 2003, DYNAMIC SOCIAL NETWORK MODELING AND ANALYSIS, P39
+   FREEMAN LC, 1988, J SOC BIOL STRUCT, V11, P415, DOI 10.1016/0140-1750(88)90080-2
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   GRANT TR, 1973, ANIM BEHAV, V21, P449, DOI 10.1016/S0003-3472(73)80004-1
+   Hayes B, 2006, AM SCI, V94, P400, DOI 10.1511/2006.61.400
+   Heider F, 1946, J PSYCHOL, V21, P107, DOI 10.1080/00223980.1946.9917275
+   HOLLAND PW, 1971, COMP GROUP STUD, V2, P107, DOI 10.1177/104649647100200201
+   Imrich W., 2000, PRODUCT GRAPHS
+   Jain A, 2005, PATTERN RECOGN, V38, P2270, DOI 10.1016/j.patcog.2005.01.012
+   Kaiser M, 2008, NEW J PHYS, V10, DOI 10.1088/1367-2630/10/8/083042
+   Kossinets G, 2009, AM J SOCIOL, V115, P405, DOI 10.1086/599247
+   Latapy M, 2008, SOC NETWORKS, V30, P31, DOI 10.1016/j.socnet.2007.04.006
+   Latora V, 2013, J STAT PHYS, V151, P745, DOI 10.1007/s10955-013-0722-z
+   Lind PG, 2007, NEW J PHYS, V9, DOI 10.1088/1367-2630/9/7/228
+   Lind PG, 2005, PHYS REV E, V72, DOI 10.1103/PhysRevE.72.056127
+   Lovasz L, 1993, P. Erdos is Eighty, V2, P1
+   Lubetzky E, 2010, DUKE MATH J, V153, P475, DOI 10.1215/00127094-2010-029
+   Lusseau D, 2003, BEHAV ECOL SOCIOBIOL, V54, P396, DOI 10.1007/s00265-003-0651-y
+   Lusseau D, 2004, P ROY SOC B-BIOL SCI, V271, pS477, DOI 10.1098/rsbl.2004.0225
+   Moody J, 2001, SOC NETWORKS, V23, P261, DOI 10.1016/S0378-8733(01)00042-9
+   Négyessy L, 2006, EUR J NEUROSCI, V23, P1919, DOI 10.1111/j.1460-9568.2006.04678.x
+   Newman MEJ, 2004, P NATL ACAD SCI USA, V101, P5200, DOI 10.1073/pnas.0307545100
+   Newman MEJ, 2001, P NATL ACAD SCI USA, V98, P404, DOI 10.1073/pnas.021544898
+   Newman MEJ, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.026113
+   Newman MEJ, 2001, PHYS REV E, V64, DOI [10.1103/PhysRevE.64.016132, 10.1103/PhysRevE.64.016131]
+   Onnela JP, 2005, PHYS REV E, V71, DOI 10.1103/PhysRevE.71.065103
+   Opsahl T, 2013, SOC NETWORKS, V35, P159, DOI 10.1016/j.socnet.2011.07.001
+   Opsahl T, 2010, SOC NETWORKS, V32, P245, DOI 10.1016/j.socnet.2010.03.006
+   Opsahl T, 2009, SOC NETWORKS, V31, P155, DOI 10.1016/j.socnet.2009.02.002
+   Phan B, 2013, SOC NETWORKS, V35, P300, DOI 10.1016/j.socnet.2013.02.007
+   Pons P, 2005, LECT NOTES COMPUT SC, V3733, P284
+   Robins G., 2004, Computational & Mathematical Organization Theory, V10, P69, DOI 10.1023/B:CMOT.0000032580.12184.c0
+   Saramäki J, 2007, PHYS REV E, V75, DOI 10.1103/PhysRevE.75.027105
+   Schank T., 2005, Journal of Graph Algorithms and Applications, V9, P265, DOI DOI 10.7155/JGAA.00108
+   Scott John., 1980, The Anatomy of Scottish Capital: Scottish Companies and Scottish Capital, 1900-1979
+   Seierstad C, 2011, SCAND J MANAG, V27, P44, DOI 10.1016/j.scaman.2010.10.002
+   Serrano MA, 2009, P NATL ACAD SCI USA, V106, P6483, DOI 10.1073/pnas.0808904106
+   Simmel G., 1950, SOCIOLOGY G SIMMEL
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Yook SH, 2001, PHYS REV LETT, V86, P5835, DOI 10.1103/PhysRevLett.86.5835
+   ZACHARY WW, 1977, J ANTHROPOL RES, V33, P452, DOI 10.1086/jar.33.4.3629752
+   Zhang B, 2005, STAT APPL GENET MOL, V4, DOI 10.2202/1544-6115.1128
+   Zhang P, 2008, PHYSICA A, V387, P6869, DOI 10.1016/j.physa.2008.09.006
+   Zhou HJ, 2004, LECT NOTES COMPUT SC, V3038, P1062
+   Zhou T, 2007, PHYS REV E, V76, DOI 10.1103/PhysRevE.76.046115
+NR 64
+TC 2
+Z9 2
+U1 1
+U2 9
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JAN
+PY 2018
+VL 52
+BP 201
+EP 212
+DI 10.1016/j.socnet.2017.08.003
+PG 12
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA FO1DG
+UT WOS:000416496300019
+DA 2024-11-22
+ER
+
+PT J
+AU Schafer, MH
+AF Schafer, Markus H.
+TI Who Talks Religion and What Are the Consequences for Social Ties?
+   Unpacking a Sensitive Discussion Topic in Close Networks
+SO SOCIOLOGY OF RELIGION
+LA English
+DT Article
+DE networks; religious discussion; survey research
+ID PERSONAL NETWORKS; IMPORTANT MATTERS; CORE; PREFERENCES; BENEFITS;
+   SUPPORT; EVENTS; HEALTH
+AB Though religion matters greatly to many U.S. adults, it is widely considered a touchy conversational topic. Understanding how religious issues are talked about with others can elucidate a key interpersonal manifestation of Americans' faith, yet existing research has largely overlooked the phenomena of religious discussion in social networks. This article considers which types of people talk about religion with their close ties, what relational factors underlie religious discussion, and what implications such discussion has for network turnover and stability. Applying multilevel regression methods to ego-centered networks measured in the Portraits of American Life Survey, I find that individual-and relational-level factors each predict the presence of religious discussion within close networks. Longitudinal analyses further reveal that for a large subset of Americans-namely evangelical and mainline Protestants and those involved in a congregation-religious discussion partners are especially likely to remain in the network over the course of 6 years. This association extended beyond other factors that could explain tie persistence, including relational closeness and multiple forms of homophily. Results point to several promising future directions for the study of religion and social networks.
+C1 [Schafer, Markus H.] Univ Toronto, Toronto, ON, Canada.
+C3 University of Toronto
+RP Schafer, MH (corresponding author), Univ Toronto, Dept Sociol, 725 Spadina Ave, Toronto, ON M5S 2J4, Canada.
+EM markus.schafer@utoronto.ca
+CR Altman I., 1973, SOCIAL PENETRATION D
+   [Anonymous], 2016, ATLANTIC
+   Baldassarri D, 2007, AM SOCIOL REV, V72, P784, DOI 10.1177/000312240707200507
+   Barna Group, 2017, MOST POSTCHR CIT AM
+   Bearman P, 2004, SOC FORCES, V83, P535, DOI 10.1353/sof.2005.0001
+   Bidart C, 2005, SOC NETWORKS, V27, P359, DOI 10.1016/j.socnet.2004.11.003
+   Brashears ME, 2014, SOCIOL SCI, V1, P493, DOI 10.15195/v1.a27
+   BURT RS, 1984, SOC NETWORKS, V6, P293, DOI 10.1016/0378-8733(84)90007-8
+   COLLINS NL, 1994, PSYCHOL BULL, V116, P457, DOI 10.1037/0033-2909.116.3.457
+   Cooperman, 2016, MANY AM DONT ARGUE R
+   Cornwell B, 2015, SOC SCI MED, V125, P94, DOI 10.1016/j.socscimed.2013.09.011
+   Cornwell B, 2015, J GERONTOL B-PSYCHOL, V70, P132, DOI 10.1093/geronb/gbu078
+   Cornwell EY, 2012, J HEALTH SOC BEHAV, V53, P215, DOI 10.1177/0022146512446832
+   Cowan SK, 2018, SOC NETWORKS, V52, P1, DOI 10.1016/j.socnet.2017.04.002
+   Dallas Kelsey, 2016, DESERETNEWS     0519
+   Durkheim Emile., 1964, ELEM FORMS RELIG LIF, V5th
+   Edgell P, 2016, SOC FORCES, V95, P607, DOI 10.1093/sf/sow063
+   Emerson MO, 2010, J SCI STUD RELIG, V49, P162, DOI 10.1111/j.1468-5906.2009.01498.x
+   Everton SeanF., 2016, Connections, V16, P1
+   Feld SL, 2007, FIELD METHOD, V19, P218, DOI 10.1177/1525822X06299134
+   FELD SL, 1981, AM J SOCIOL, V86, P1015, DOI 10.1086/227352
+   Gerber AS, 2013, PUBLIC OPIN QUART, V77, P474, DOI 10.1093/poq/nfs057
+   Gerber AS, 2012, AM J POLIT SCI, V56, P849, DOI 10.1111/j.1540-5907.2011.00571.x
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Klofstad CA, 2007, POLIT RES QUART, V60, P180, DOI 10.1177/1065912907301708
+   Klofstad CA, 2009, PUBLIC OPIN QUART, V73, P462, DOI 10.1093/poq/nfp032
+   Lawler EJ, 1999, ANNU REV SOCIOL, V25, P217, DOI 10.1146/annurev.soc.25.1.217
+   Lubbers MJ, 2010, SOC NETWORKS, V32, P91, DOI 10.1016/j.socnet.2009.05.001
+   Machacek DW, 2003, SOCIOL RELIG, V64, P145, DOI 10.2307/3712368
+   MARSDEN PV, 1987, AM SOCIOL REV, V52, P122, DOI 10.2307/2095397
+   Martin Judith, 1998, CHICAGO TRIBUNE
+   McClurg SD, 2003, POLIT RES QUART, V56, P449, DOI 10.2307/3219806
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Merino SM, 2014, J SCI STUD RELIG, V53, P595, DOI 10.1111/jssr.12134
+   Merino SM, 2013, REV RELIG RES, V55, P509, DOI 10.1007/s13644-013-0113-6
+   Morgan DL, 1997, SOC NETWORKS, V19, P9, DOI 10.1016/S0378-8733(96)00288-2
+   OZORAK EW, 1996, J SCI STUD RELIG, V35, P17, DOI 10.2307/1386392
+   Pargament K.I., 2005, International Journal for the Psychology of Religion, V15, P179, DOI [10.1207/s15327582ijpr1503_1, DOI 10.1207/S15327582IJPR1503_1]
+   Pargament KI, 2002, PSYCHOL INQ, V13, P168, DOI 10.1207/S15327965PLI1303_02
+   Perry BL, 2015, SOC SCI MED, V125, P116, DOI 10.1016/j.socscimed.2013.12.033
+   Perry BL, 2010, SOC NETWORKS, V32, P345, DOI 10.1016/j.socnet.2010.06.005
+   Pew Research Center, 2014, PEW RES CTR REL PUBL
+   Puetz K, 2015, SOCIOL COMPASS, V9, P438, DOI 10.1111/soc4.12265
+   Putnam R.D., 2010, AM GRACE RELIG DIVID
+   Schafer MH, 2016, SOC FORCES, V94, P1795, DOI 10.1093/sf/sow024
+   Schafer MH., 2015, SOC CURR, V2, P81, DOI [10.1177/2329496514558629, DOI 10.1177/2329496514558629]
+   Small ML, 2013, SOC NETWORKS, V35, P470, DOI 10.1016/j.socnet.2013.05.004
+   Smith Christianwith., 2014, American Evangelicalism: Embattled and Thriving
+   Steensland B, 2000, SOC FORCES, V79, P291, DOI 10.2307/2675572
+   Stetzer Ed, 2015, US TODAY
+   Suitor J, 1997, SOC NETWORKS, V19, P51, DOI 10.1016/S0378-8733(96)00290-0
+   Suitor JJ, 1997, SOC NETWORKS, V19, P1, DOI 10.1016/S0378-8733(96)00287-0
+   Tabak MA, 2009, SOCIOL RELIG, V70, P49, DOI 10.1093/socrel/srp001
+   THOMPSON EH, 1991, J SCI STUD RELIG, V30, P381, DOI 10.2307/1387275
+   Thye ShaneR., 2002, Advances in Group Processes, V19, P139, DOI DOI 10.1016/S0882-6145(02)19006-0
+   van Duijn MAJ, 1999, SOC NETWORKS, V21, P187, DOI 10.1016/S0378-8733(99)00009-X
+   Voas D, 2016, AM J SOCIOL, V121, P1517, DOI 10.1086/684202
+   Wei DD, 2013, J SCI STUD RELIG, V52, P349, DOI 10.1111/jssr.12031
+NR 58
+TC 7
+Z9 10
+U1 1
+U2 7
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 1069-4404
+EI 1759-8818
+J9 SOCIOL RELIG
+JI Sociol. Relig.
+PD WIN
+PY 2018
+VL 79
+IS 4
+BP 395
+EP 424
+DI 10.1093/socrel/srx069
+PG 30
+WC Sociology; Religion
+WE Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Sociology; Religion
+GA HI8IK
+UT WOS:000456699000001
+DA 2024-11-22
+ER
+
+PT J
+AU Batorski, D
+   Grzywinska, I
+AF Batorski, Dominik
+   Grzywinska, Ilona
+TI Three dimensions of the public sphere on Facebook
+SO INFORMATION COMMUNICATION & SOCIETY
+LA English
+DT Article
+DE Public sphere; Facebook; social networking sites; politics; homophily
+ID SOCIAL MEDIA; EXPOSURE; INTERNET; FRAGMENTATION; FEATHER; NETWORK;
+   BIRDS; NEWS
+AB The article provides an empirical analysis of the online public sphere in the three dimensions introduced by Dahlgren (2005): structural, representational and interactional. The main subject of analysis is the largest social networking site - Facebook - and Polish users' activity on the Facebook Pages of political parties and politicians. The researchers analysed data about all users active on those Pages during two 4-month periods in 2013 and 2015. The results of the study show that only a small fraction of Facebook users are active in public political discussions that take place on political Facebook Pages (structural dimension). However, the level of engagement depends on the current political events taking place within the public sphere offline, and users are more active during electoral campaigns. Moreover, Facebook does not provide an alternative public sphere for political actors that are less present in mainstream media. Parties and politicians that are visible in traditional media are also attracting active fans in social media (representational dimension). Nonetheless, non-parliamentary groups have more active fans than would result only from their popularity in mainstream media. Finally, the online public on Facebook is fragmented and clustered into homogenous political groups (interactional dimension), thus supporting the hypothesis on echo chambers' presented by Sunstein (2001). The divisions are smaller when there are significantly more users involved. However, most of these cross-cutting links are the result of the electoral campaign.
+C1 [Batorski, Dominik; Grzywinska, Ilona] Univ Warsaw, Interdisciplinary Ctr Math & Computat Modelling, Pawinskiego 5a,Block D,5th Floor, PL-02106 Warsaw, Poland.
+C3 University of Warsaw; Interdisciplinary Centre for Mathematical &
+   Computational Modelling
+RP Batorski, D (corresponding author), Univ Warsaw, Interdisciplinary Ctr Math & Computat Modelling, Pawinskiego 5a,Block D,5th Floor, PL-02106 Warsaw, Poland.
+EM db@uw.edu.pl; ilonagrzywinska@gmail.com
+OI Batorski, Dominik/0000-0003-1112-7114
+FU Narodowe Centrum Nauki [2012/05/B/HS6/03802]
+FX This work was supported by the Narodowe Centrum Nauki [grant number
+   2012/05/B/HS6/03802].
+CR Adamic L.A., 2005, P 3 INT WORKSH LINK, P36, DOI DOI 10.1145/1134271.1134277
+   [Anonymous], 1996, FACTS NORMS CONTRIBU
+   [Anonymous], POLITICAL COMMUNICAT
+   [Anonymous], 2008, MYTH DIGITAL DEMOCRA
+   [Anonymous], AM SOCIOLOGICA UNPUB
+   [Anonymous], EXPANDING PUBLIC SPH
+   [Anonymous], 1992, OTHER HEADING REFLEC
+   [Anonymous], INFORM COMMUNICATION
+   [Anonymous], ICWSM 14 P 8 INT AAA
+   [Anonymous], COMMUNICATION RESEAR
+   [Anonymous], 2009, 1 MONDAY, DOI DOI 10.5210/FM.V14I11.2645
+   Bakshy E., 2012, P 21 INT C WORLD WID, P519, DOI DOI 10.1145/2187836.2187907
+   Bakshy E, 2015, SCIENCE, V348, P1130, DOI 10.1126/science.aaa1160
+   Barlow J., 1996, A Declaration of the Independence of Cyberspace
+   Beck J., 2001, The attention economy: Understanding the new currency of business, DOI 10.1145/375348.376626
+   Benkler Y., 2006, WEALTH NETWORKS SOCI
+   Berelson B., 1968, The people's choice: How the voter makes up his mind in a presidential campaign
+   Bowen Charle., 1996, Modem Nation: The Handbook of Grassroots American Activism Online
+   Boyd D., 2007, Why youth (heart) social network sites: The role of networked publics in teenage social life, P119, DOI DOI 10.1162/DMAL.9780262524834.119
+   Boyd DM, 2007, J COMPUT-MEDIAT COMM, V13, P210, DOI 10.1111/j.1083-6101.2007.00393.x
+   Brossard D, 2013, SCIENCE, V339, P40, DOI 10.1126/science.1232329
+   Carey JamesW., 1995, GUIL COMMUN
+   Castells M., 2013, NETWORKS OUTRAGE HOP
+   Choi S, 2012, SCIENTOMETRICS, V90, P43, DOI 10.1007/s11192-011-0514-7
+   Dahlberg L., 2001, Information Communication & Society, V4, P615, DOI 10.1080/13691180110097030
+   Dahlberg L, 2007, NEW MEDIA SOC, V9, P827, DOI 10.1177/1461444807081228
+   Dahlgren P, 2005, POLIT COMMUN, V22, P147, DOI 10.1080/10584600590933160
+   Dahlgren P., 2009, Media and political engagement: Citizens, communication, and democracy
+   Davis R., 1998, The web of politics: The Internet's impact on the American political system
+   Dewey John, 1954, PUBLIC ITS PROBLEMS
+   Diamond L., 2012, LIBERATION TECHNOLOG
+   Etling B., 2014, BERKMAN CTR RES PUBL, V8
+   Farrell H, 2012, ANNU REV POLIT SCI, V15, P35, DOI 10.1146/annurev-polisci-030810-110815
+   Fraser N., 1990, SOC TEXT, V25, P56, DOI [https://doi.org/10.2307/466240, DOI 10.2307/466240, 10.2307/466240]
+   Fraser Nancy., 1992, HABERMAS PUBLIC SPHE, P109
+   Fuchs Christian, 2013, SOCIAL MEDIA CRITICA
+   Garrett RK, 2009, J COMPUT-MEDIAT COMM, V14, P265, DOI 10.1111/j.1083-6101.2009.01440.x
+   Habermas J., 1989, The Structural Transformation of the Public Sphere, DOI DOI 10.1177/02632764221112341
+   Halpern D, 2013, COMPUT HUM BEHAV, V29, P1159, DOI 10.1016/j.chb.2012.10.008
+   Hampton K.N., 2014, Social media and the spiral of silence
+   Hart R.P., 1999, SEDUCING AM TELEVISI
+   Hermida A, 2012, JOURNAL PRACT, V6, P659, DOI 10.1080/17512786.2012.667269
+   Hill K.A., 1998, Cyberpolitics: Citizen activism in the age of the Internet
+   Himelboim I, 2013, J COMPUT-MEDIAT COMM, V18, P40, DOI 10.1111/jcc4.12001
+   Iosifidis P, 2011, INFORM COMMUN SOC, V14, P619, DOI 10.1080/1369118X.2010.514356
+   Khondker HH, 2011, GLOBALIZATIONS, V8, P675, DOI 10.1080/14747731.2011.621287
+   Kling R., 1996, COMPUTERIZATION CONT, V2nd
+   Larsson AO, 2015, INFORM COMMUN SOC, V18, P459, DOI 10.1080/1369118X.2014.967269
+   Lawrence E, 2010, PERSPECT POLIT, V8, P141, DOI 10.1017/S1537592709992714
+   Lim M, 2012, J COMMUN, V62, P231, DOI 10.1111/j.1460-2466.2012.01628.x
+   Lunt P, 2013, MEDIA CULT SOC, V35, P87, DOI 10.1177/0163443712464562
+   Lyotard J.-F., 1979, La condition postmoderne: rapport sur le savoir
+   MCCOMBS ME, 1972, PUBLIC OPIN QUART, V36, P176, DOI 10.1086/267990
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Morozov Evgeny., 2011, The Net Delusion: How Not to Liberate the World
+   Mutz DC, 2006, RED AND BLUE NATION, VOL 1: CHARACTERISTICS AND CAUSES OF AMERICA'S POLARIZED POLITICS, P223
+   Negroponte Nicholas, 1996, DIGITAL
+   Papacharissi Z, 2002, NEW MEDIA SOC, V4, P9, DOI 10.1177/14614440222226244
+   Pariser Eli, 2011, FILTER BUBBLE WHAT I
+   PUTNAM RD, 1995, PS, V28, P664, DOI 10.2307/420517
+   Rheingold H., 1993, VIRTUAL COMMUNITY HO
+   Robertson Scott P., 2010, Information Polity, V15, P11, DOI 10.3233/IP-2010-0196
+   Robertson SP, 2010, J INF TECHNOL POLITI, V7, P182, DOI 10.1080/19331681003753420
+   Shirky Clay., 2010, Cognitive Surplus: Creativity and Generosity in a Connected Age
+   Tufekci Z, 2012, J COMMUN, V62, P363, DOI 10.1111/j.1460-2466.2012.01629.x
+   Webster JG, 2012, J COMMUN, V62, P39, DOI 10.1111/j.1460-2466.2011.01616.x
+   Webster JG, 2011, COMMUN THEOR, V21, P43, DOI 10.1111/j.1468-2885.2010.01375.x
+   Wilhelm A.G., 1998, INFORM COMMUNICATION, V1, P313, DOI [10.1080/13691189809358972, DOI 10.1080/13691189809358972]
+   Williams C.F., 2008, Assessment of moderate- and high-temperature geothermal resources of the United States: U.S. Geological Survey Fact Sheet 2008-3082, P1
+   Woolley JK, 2010, MASS COMMUN SOC, V13, P631, DOI 10.1080/15205436.2010.516864
+   Yardi Sarita., 2010, Bulletin of Science, Technology Society, V30, P316, DOI DOI 10.1177/0270467610380011
+NR 71
+TC 43
+Z9 54
+U1 3
+U2 62
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1369-118X
+EI 1468-4462
+J9 INFORM COMMUN SOC
+JI Info. Commun. Soc.
+PY 2018
+VL 21
+IS 3
+BP 356
+EP 374
+DI 10.1080/1369118X.2017.1281329
+PG 19
+WC Communication; Sociology
+WE Social Science Citation Index (SSCI)
+SC Communication; Sociology
+GA FR0MP
+UT WOS:000418756300003
+DA 2024-11-22
+ER

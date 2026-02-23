@@ -1,0 +1,595 @@
+
+PT J
+AU Aiello, LM
+   Barrat, A
+   Cattuto, C
+   Schifanella, R
+   Ruffo, G
+AF Aiello, Luca Maria
+   Barrat, Alain
+   Cattuto, Ciro
+   Schifanella, Rossano
+   Ruffo, Giancarlo
+TI Link creation and information spreading over social and communication
+   ties in an interest-based online social network
+SO EPJ DATA SCIENCE
+LA English
+DT Article
+ID CENTRALITY; PREDICTION; MODELS
+AB Complex dynamics of social media emerge from the interaction between the patterns of social connectivity of users and the information exchanged along such social ties. Unveiling the underlying mechanisms that drive the evolution of online social systems requires a deep understanding of the interplay between these two aspects. Based on the case of the aNobii social network, an online service for book readers, we investigate the dynamics of link creation and the social influence phenomenon that may trigger information diffusion in the social graph. By confirming that social partner selection is strongly driven by structural, geographical, and topical proximity, we develop a machine-learning social link recommender for individual users trained on a set of features selected as best predictive out of several and we test it on the still widely unexplored domain of a network of interest. We also analyze the influence process from the two distinct perspectives of users and items. We show that link creation plays an immediate effect on the alignment of user profiles and that the established social ties are a good substrate for social influence. We quantitatively measure influence by tracking the patterns of diffusion of specific pieces of information and comparing them with appropriate null models. We discover an appreciable signal of social influence even though item consumption is a very slow process in this context. All the detected patterns of social attachment and influence are observed to be stronger when considering the social subgraph on which communication effectively occurs. Based on our study of the dynamics of the aNobii social network, we investigate the possibility to predict the evolution of such a complex social system.
+C1 [Aiello, Luca Maria; Schifanella, Rossano; Ruffo, Giancarlo] Univ Turin, Dept Comp Sci, Turin, Italy.
+   [Barrat, Alain] Aix Marseille Univ, Ctr Phys Theor, Marseille, France.
+   [Barrat, Alain] Univ Sud Toulon Var, CNRS UMR 6207, Marseille, France.
+   [Barrat, Alain; Cattuto, Ciro] ISI Fdn, Data Sci Lab, Turin, Italy.
+C3 University of Turin; Aix-Marseille Universite
+RP Aiello, LM (corresponding author), Univ Turin, Dept Comp Sci, Turin, Italy.
+EM aiello@di.unito.it
+RI Cattuto, Ciro/K-6133-2016; Schifanella, Rossano/C-6682-2011; Aiello,
+   Luca Maria/ABB-2507-2021
+OI RUFFO, Giancarlo Francesco/0000-0002-3407-9234; Aiello, Luca
+   Maria/0000-0002-0654-2527; SCHIFANELLA, ROSSANO/0000-0002-3745-5792
+FU Italian Ministry for University and Research (MIUR); Lagrange Project of
+   the ISI Foundation by the CRT Foundation
+FX This work has been partially supported by the Italian Ministry for
+   University and Research (MIUR), within the framework of the project
+   'Information Dynamics in Complex Data Structures' (PRIN). We acknowledge
+   support from the Lagrange Project of the ISI Foundation supported by the
+   CRT Foundation.
+CR Ahn YY, 2007, Proceedings of the 16th international conference on World Wide Web, P835, DOI DOI 10.1145/1242572.1242685
+   Aiello L.-M, 2010, Proceedings of the 2010 IEEE Second International Conference on Social Computing (SocialCom 2010). the Second IEEE International Conference on Privacy, Security, Risk and Trust (PASSAT 2010), P249, DOI 10.1109/SocialCom.2010.42
+   Aiello LM, 2012, ACM T WEB, V6, DOI 10.1145/2180861.2180866
+   Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   AlHasan M, 2006, SDM06, V30, P798, DOI [DOI 10.1016/J.ISCI.2020.101626, 10.1016/j.isci.2020.101626]
+   [Anonymous], 2010, KDD 2010
+   [Anonymous], 2006, Proceedings of the Seventeenth conference on hypertext and hypermedia, DOI DOI 10.1145/1149941.1149949
+   [Anonymous], NIPS 03
+   [Anonymous], ARXIV09053558
+   [Anonymous], P 21 ACM C HYP HYP
+   [Anonymous], 2009, Proceedings of the 18th international conference on World Wide Web (WWW)
+   [Anonymous], 2008, Proceedings of the 15th ACM SIGKDD international conference on Knowledge discovery and data mining, DOI [10.1145/1401890.1401897, DOI 10.1145/1401890.1401897]
+   [Anonymous], THESIS
+   Backstrom L., 2011, P 4 ACM INT C WEB SE, P635, DOI DOI 10.1145/1935826.1935914
+   Bakshy E., 2012, P 21 INT C WORLD WID, P519, DOI DOI 10.1145/2187836.2187907
+   Barrat A., 2008, DYNAMICAL PROCESSES, DOI DOI 10.1017/CBO9780511791383
+   Benchettara N, 2010, 2010 INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING (ASONAM 2010), P326, DOI 10.1109/ASONAM.2010.87
+   Benevenuto F, 2009, IMC'09: PROCEEDINGS OF THE 2009 ACM SIGCOMM INTERNET MEASUREMENT CONFERENCE, P49
+   Bollobas B., 2013, MODERN GRAPH THEORY, V184
+   Cha M., 2010, ICWSM, V10, P10, DOI DOI 10.1609/ICWSM.V4I1.14033
+   Chun H, 2008, IMC'08: PROCEEDINGS OF THE 2008 ACM SIGCOMM INTERNET MEASUREMENT CONFERENCE, P57
+   Crandall DavidJ., 2008, KDD, P160, DOI 10.1145/1401890.1401914
+   Dunlavy DM, 2010, ARXIV10054006
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   Getoor L, 2003, J MACH LEARN RES, V3, P679, DOI 10.1162/jmlr.2003.3.4-5.679
+   Getoor L., 2005, SigKDD Explorations Special Issue on Link Mining, V7, P3, DOI [10.1145/1117454.1117456, DOI 10.1145/1117454.1117456]
+   Gilbert E, 2009, CHI2009: PROCEEDINGS OF THE 27TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, VOLS 1-4, P211
+   Gonçalves B, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0022656
+   Hall M., 2009, SIGKDD EXPLORATIONS, V11, P10, DOI [10.1145/1656274.1656278, DOI 10.1145/1656274.1656278]
+   Kleinberg J. M., 1999, Computing and Combinatorics. 5th Annual International Conference, COCOON'99. Proceedings (Lecture Notes in Computer Science Vol.1627), P1
+   Kumar R, 2000, ANN IEEE SYMP FOUND, P57, DOI 10.1109/SFCS.2000.892065
+   Kumar R., 2006, P 12 ACM SIGKDD INT, P611
+   Kunegis Jerome, 2010, Computational Intelligence for Knowledge-Based Systems Design. Proceedings 13th International Conference on Information Processing and Management of Uncertainty, IPMU 2010, P380, DOI 10.1007/978-3-642-14049-5_39
+   Lauterbach Debra, 2009, 2009 International Conference on Computational Science and Engineering (CSE), P346, DOI 10.1109/CSE.2009.345
+   Lee C, 2009, TECHNICAL REPORT
+   Leroy V, 2010, SIGKDD 10
+   Leskovec J., 2010, P 19 INT C WORLD WID, P641, DOI [10.1145/1772690.1772756, DOI 10.1145/1772690.1772756]
+   Leskovec J., 2008, P 14 ACM SIGKDD INT, P462
+   Leskovec J., 2008, Proceedings of the 17th International Conference on World Wide Web, DOI 10.1145/1367497.1367620
+   Liben-Nowell D, 2005, P NATL ACAD SCI USA, V102, P11623, DOI 10.1073/pnas.0503018102
+   Liben-Nowell D, 2007, J AM SOC INF SCI TEC, V58, P1019, DOI 10.1002/asi.20591
+   Liu H, 1995, PROC INT C TOOLS ART, P388, DOI 10.1109/TAI.1995.479783
+   Lu L., 2009, Proceedings of the 1st ACM international workshop on Complex networks meet information knowledge management (CNIKM '09), P55
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mislove A., 2008, WOSN
+   Mislove A, 2007, IMC'07: PROCEEDINGS OF THE 2007 ACM SIGCOMM INTERNET MEASUREMENT CONFERENCE, P29
+   Namata G. M., 2007, 7 IEEE INT C DAT MIN, P381, DOI [DOI 10.1109/ICDMW.2007.35, 10.1109/ICDMW.2007.35]
+   Newman MEJ, 2001, PHYS REV E, V64, DOI 10.1103/PhysRevE.64.025102
+   Newman MEJ, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.208701
+   O'Madadhain Joshua., 2005, SIGKDD Explorations Newsletter, V7, P23
+   Onnela JP, 2007, P NATL ACAD SCI USA, V104, P7332, DOI 10.1073/pnas.0610245104
+   Opsahl T, 2010, SOC NETWORKS, V32, P245, DOI 10.1016/j.socnet.2010.03.006
+   Pavlov M, 2007, FEWS2007
+   Rodríguez JJ, 2006, IEEE T PATTERN ANAL, V28, P1619, DOI 10.1109/TPAMI.2006.211
+   Sachan M., 2010, INT J ENG, V2, P334
+   Schifanella R., 2010, Proceedings of the 3rd ACM Int'l Conf. on Web Search and Data Mining, P271
+   Song HH, 2009, IMC'09: PROCEEDINGS OF THE 2009 ACM SIGCOMM INTERNET MEASUREMENT CONFERENCE, P322
+   Tardos, 2003, P 9 ACM SIGKDD INT C, P137, DOI 10.1145/956750.956769
+   Tylenda T., 2009, P 13 INT C KNOWLEDGE, P1, DOI DOI 10.1145/1731011.1731020
+   Ungar L. H., 2003, P 2 INT WORKSH MULT
+   Viswanath B, 2009, 2ND ACM SIGCOMM WORKSHOP ON ONLINE SOCIAL NETWORKS (WOSN 09), P37
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   Weng J., 2010, P 3 ACM INT C WEB SE, P261, DOI [DOI 10.1145/1718487.1718520, 10.1145/1718487.1718520]
+   Wilson C, 2009, EUROSYS'09: PROCEEDINGS OF THE FOURTH EUROSYS CONFERENCE, P205
+   Yang J, 2010, 2010 IEEE INTERNATIONAL CONFERENCE ON WIRELESS COMMUNICATIONS, NETWORKING AND INFORMATION SECURITY (WCNIS), VOL 2, P593, DOI 10.1109/ICCSIT.2010.5564008
+   Ye SZ, 2010, LECT NOTES COMPUT SC, V6430, P216, DOI 10.1007/978-3-642-16567-2_16
+   Zheleva E, 2008, 2 SNA KDD WORKSH SOC
+   Zhou T, 2009, EUR PHYS J B, V71, P623, DOI 10.1140/epjb/e2009-00335-8
+NR 68
+TC 19
+Z9 22
+U1 1
+U2 16
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+EI 2193-1127
+J9 EPJ DATA SCI
+JI EPJ Data Sci.
+PD DEC
+PY 2012
+VL 1
+IS 1
+AR 12
+DI 10.1140/epjds12
+PG 31
+WC Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Mathematical Methods In Social Sciences
+GA V41TM
+UT WOS:000209568500012
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU McCulloh, IA
+   Johnson, AN
+   Carley, KM
+AF McCulloh, Ian A.
+   Johnson, Anthony Norvell
+   Carley, Kathleen M.
+TI SPECTRAL ANALYSIS OF SOCIAL NETWORKS TO IDENTIFY PERIODICITY
+SO JOURNAL OF MATHEMATICAL SOCIOLOGY
+LA English
+DT Article
+DE Fourier analysis; longitudinal networks; network dynamics; social
+   network analysis; statistical process control
+ID MODELS
+AB Two key problems in the study of longitudinal networks are determining when to chunk continuous time data into discrete time periods for network analysis and identifying periodicity in the data. In addition, statistical process control applied to longitudinal social network measures can be biased by the effects of relational dependence and periodicity in the data. Thus, the detection of change is often obscured by random noise. Fourier analysis is used to determine statistically significant periodic frequencies in longitudinal network data. Two approaches are then offered: using significant periods as a basis to chunk data for longitudinal network analysis or using the significant periods to filter the longitudinal data. E-mail communication collected at the United States Military Academy is examined.
+C1 [Johnson, Anthony Norvell] US Mil Acad, Dept Math Sci, West Point, NY 10996 USA.
+   [Carley, Kathleen M.] Carnegie Mellon Univ, Ctr Computat Anal Social & Org Syst, Pittsburgh, PA 15213 USA.
+   [McCulloh, Ian A.] Curtin Univ, Sch Informat Syst, Perth, WA, Australia.
+C3 United States Military Academy; United States Department of Defense;
+   United States Army; Carnegie Mellon University; Curtin University
+RP Johnson, AN (corresponding author), US Mil Acad, Dept Math Sci, West Point, NY 10996 USA.
+EM anthony.johnson@usma.edu
+OI McCulloh, Ian/0000-0003-2916-3914
+FU Army Research Institute for the Behavioral and Social Sciences
+   [611102B74 F]; Army Research Organization [9FDATXR048]; Army Research
+   Lab under the Collaborative Technology Alliances [DAAD19-01-2-0009,
+   20002504]
+FX This research is part of the United States Military Academy Network
+   Science Center and the Dynamics Networks project in the Center for
+   Computational Analysis of Social and Organizational Systems (CASOS;
+   http://www.casos.cs.cmu.edu) at Carnegie Mellon University. This work
+   was supported in part by The Army Research Institute for the Behavioral
+   and Social Sciences, Army Project No. 611102B74 F; The Army Research
+   Organization, Project No. 9FDATXR048; and The Army Research Lab under
+   the Collaborative Technology Alliances DAAD19-01-2-0009 and 20002504.
+   The views and conclusions contained in this document are those of the
+   authors and should not be interpreted as representing the official
+   policies, either expressed or implied, of the National Science
+   Foundation, the Army Research Institute, the Army Research Lab, or the
+   U. S. government. The authors would like to thank Jon Storrick for
+   building an operational version in *ORA.
+CR [Anonymous], 1997, EVOLUTION SOCIAL NET
+   [Anonymous], 2008, SOC SCI RES NETW
+   Carley KM, 1996, J ECON BEHAV ORGAN, V31, P175, DOI 10.1016/S0167-2681(96)00896-7
+   Carley KM, 1999, RES SOC ORG, V16, P3
+   LEENDERS RTAJ, 1995, J MATH SOCIOL, V20, P1, DOI 10.1080/0022250X.1995.9990149
+   McCulloh I., 2008, 26 ARM SCI C ORL FL
+   McCulloh I., 2010, 10130 ISR CARN MELL
+   McCulloh I., 2009, IKENET2 SOCIAL NETWO
+   McCulloh IA, 2007, APPLIED MATHEMATICS FOR SCIENCE AND ENGINEERING, P319
+   SANIL A, 1995, SOC NETWORKS, V17, P65, DOI 10.1016/0378-8733(94)00249-A
+   Snijders T. A. B., 1996, J MATH SOCIOL, V21, P149
+   Snijders T. A. B., 2007, MODELS METHODS SOCIA, P148
+   Snijders TAB, 2001, SOCIOL METHODOL, V31, P361, DOI 10.1111/0081-1750.00099
+   Snijders TomA. B., 1997, Simulating Social Phenomena, P493
+   Wasserman S, 1996, PSYCHOMETRIKA, V61, P401, DOI 10.1007/BF02294547
+   Wasserman S., 2007, MODELS METHODS SOCIA, P1
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   Webb M., 2007, NETWORK SCI, V1, P25
+NR 18
+TC 9
+Z9 10
+U1 1
+U2 9
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 0022-250X
+EI 1545-5874
+J9 J MATH SOCIOL
+JI J. Math. Sociol.
+PY 2012
+VL 36
+IS 2
+BP 80
+EP 96
+DI 10.1080/0022250X.2011.556767
+PG 17
+WC Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods; Sociology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Mathematical Methods In Social Sciences; Sociology
+GA 923OC
+UT WOS:000302627600001
+DA 2024-11-22
+ER
+
+PT J
+AU Offer, S
+AF Offer, Shira
+TI The burden of reciprocity: Processes of exclusion and withdrawal from
+   personal networks among low-income families
+SO CURRENT SOCIOLOGY
+LA English
+DT Article
+DE Low-income families; poverty; reciprocity; social networks; social
+   support
+ID SOCIAL SUPPORT; GENERALIZED EXCHANGE; AFRICAN-AMERICAN; POOR; BLACKS;
+   NORMS; GIFT; TIES; RACE
+AB Reciprocity has been traditionally treated in sociological and anthropological theory as a force of integration that keeps network members tied together through a complex web of obligations and interdependencies. This article suggests that in the context of poverty it can be a burden and source of relational stress that leads to the demise of social relationships. It is argued that poverty can make it difficult for individuals to maintain relations with others and participate in social support networks because they do not have many resources to share and reciprocate. Recently published ethnographic studies on the social networks of low-income families in the United States form the basis for a micro-level model linking poverty to social fragmentation. By focusing on the suppressive effect of reciprocity, this model identifies two major emergent mechanisms - exclusion and withdrawal - operating in two realms - material and normative - that are conducive to social fragmentation. This article thus promotes our understanding of the ways in which relational dynamics affect low-income families' social well-being and contributes methodologically by laying the groundwork for future empirical research.
+C1 Bar Ilan Univ, Dept Sociol & Anthropol, IL-52900 Ramat Gan, Israel.
+C3 Bar Ilan University
+RP Offer, S (corresponding author), Bar Ilan Univ, Dept Sociol & Anthropol, IL-52900 Ramat Gan, Israel.
+EM shira.offer@biu.ac.il
+OI OFFER, SHIRA/0000-0002-2200-1616
+CR Adloff F, 2006, CONSTELLATIONS, V13, P407, DOI 10.1111/j.1467-8675.2006.00399.x
+   Adloff F, 2006, ARCH EUR SOCIOL, V47, P93, DOI 10.1017/S000397560600004X
+   Anderson Elijah., 1999, CODE STREET DECENCY
+   Aschenbrenner J., 1975, Lifelines: Black families in Chicago
+   Bauman Zygmunt., 2001, The Individualized Society
+   Belle D., 1983, WOMEN HEALTH, V9, P89, DOI DOI 10.1300/J002V05N04_06
+   BENIN M, 1995, J FAM ISSUES, V16, P275, DOI 10.1177/019251395016003003
+   Blau P.M., 1968, INT ENCYCL SOC SCI, V7, P452, DOI [DOI 10.1016/0049-089X(72)90055-5, 10.33206/mjss.640929, DOI 10.33206/MJSS.640929]
+   Bourdieu Pierre., 1993, FIELD CULTURAL PRODU
+   Cheal D., 1988, GIFT EC
+   Coleman J.S., 1994, FDN SOCIAL THEORY
+   Domínguez S, 2003, SOC PROBL, V50, P111, DOI 10.1525/sp.2003.50.1.111
+   Donati P., 2003, INT REV SOCIOL, V13, P243
+   Edin Kathryn., 1997, MAKING ENDS MEET SIN
+   EISENHARDT KM, 1989, ACAD MANAGE REV, V14, P532, DOI 10.2307/258557
+   Ekeh Peter., 1974, SOCIAL EXCHANGE THEO
+   Elliott JR, 2001, SOC PROBL, V48, P341, DOI 10.1525/sp.2001.48.3.341
+   EMERSON RM, 1976, ANNU REV SOCIOL, V2, P335, DOI 10.1146/annurev.so.02.080176.002003
+   Finch Janet., 1993, NEGOTIATING FAMILY R
+   Gazso A, 2010, INT J SOCIOL SOC POL, V30, P368, DOI 10.1108/01443331011060724
+   George A. L., 2005, CASE STUDIES THEORY
+   Godbout JacquesT., 1998, WORLD GIFT
+   Goldstein JR, 2000, SOC SCI RES, V29, P382, DOI 10.1006/ssre.2000.0676
+   GOULDNER AW, 1960, AM SOCIOL REV, V25, P161, DOI 10.2307/2092623
+   Granovetter M., 1983, SOCIOLOGICAL THEORY, V1, P201, DOI [https://doi.org/10.2307/202051, 10.2307/202051, DOI 10.2307/202051]
+   Hansen K.V., 2004, QUAL SOCIOL, V27, P421, DOI DOI 10.1023/B:QUAS.0000049241.43051.2A
+   Hansen KarenV., 2005, NOT SO NUCL FAMILIES
+   Hays Sharon., 2003, Flat Broke with Children: Women in the Age of Welfare Reform
+   Henaff Marcel, 2002, LE PRIX DE LA VERITE
+   Henly J.R., 2002, Laboring below the line, P179
+   Henly JR, 2005, J MARRIAGE FAM, V67, P122, DOI 10.1111/j.0022-2445.2005.00010.x
+   Hennessy J, 2009, SOCIOL QUART, V50, P557, DOI 10.1111/j.1533-8525.2009.01156.x
+   HOGAN DP, 1993, AM J SOCIOL, V98, P1428, DOI 10.1086/230194
+   Howard Eboni., 2006, Making it work: Low-wage employment, family life, and child development, P256, DOI DOI 10.7758/9781610445658.15
+   Komter A.E., 2005, SOCIAL SOLIDARITY GI
+   Komter AE, 1996, SOCIOLOGY, V30, P299, DOI 10.1177/0038038596030002006
+   Korteweg AC, 2006, SOC POLIT, V13, P313, DOI 10.1093/sp/jx1005
+   Levi-Strauss C., 1969, ELEMENTARY STRUCTURE
+   Lomnitz LisaA., 1977, NETWORKS MARGINALITY
+   Mahler SarahJ., 1995, American Dreaming: Immigrant Life on the Margins
+   Malinowski Bronislaw., 1984, Argonauts of the Western Pacific
+   Martin E.P., 1978, BLACK EXTENDED FAMIL
+   Mauss M., 1990, The gift: Forms and functions of exchange in archaic societies
+   McIntyre L, 2003, AFFILIA J WOM SOC WO, V18, P316, DOI 10.1177/0886109903254581
+   McPherson M, 2006, AM SOCIOL REV, V71, P353, DOI 10.1177/000312240607100301
+   Menjivar C., 2000, Fragmented ties: Salvadoran immigrant networks in America
+   Molm LD, 2007, AM J SOCIOL, V113, P205, DOI 10.1086/517900
+   Molm LD, 2009, SOCIOL THEOR, V27, P1, DOI 10.1111/j.1467-9558.2009.00336.x
+   Nelson M.K., 2000, QUAL SOCIOL, V23, P291, DOI DOI 10.1023/A:1005567910606
+   Nelson Margaret., 2005, The Social Economy of Single Motherhood: Raising Children in Rural America (Perspectives on Gender)
+   Newman KatharineS., 1999, NO SHAME MY GAME WOR
+   Offer S, 2012, INT J SOCIOL SOC POL, V32, P120, DOI 10.1108/01443331211214712
+   Oliker S., 2000, CARE WORK, P167
+   Paz-Fuchs A., 2008, Welfare to work: Conditional rights in social policy
+   Phan MB, 2009, J SOC PERS RELAT, V26, P899, DOI 10.1177/0265407509345655
+   Plickert G, 2007, SOC NETWORKS, V29, P405, DOI 10.1016/j.socnet.2007.01.007
+   Portes A, 1998, ANNU REV SOCIOL, V24, P1, DOI 10.1146/annurev.soc.24.1.1
+   Putnam Robert D., 2000, BOWLING ALONE COLLAP, DOI 10.1145/358916.361990
+   Roschelle AnneR., 1997, No More Kin: Exploring Race, Class, and Gender in Family Networks
+   Sahlins M., 1972, Stone Age Economics
+   Sampson RJ, 1999, AM SOCIOL REV, V64, P633, DOI 10.2307/2657367
+   Sarkisian N, 2004, AM SOCIOL REV, V69, P812, DOI 10.1177/000312240406900604
+   SCHWARTZ B, 1967, AM J SOCIOL, V73, P1, DOI 10.1086/224432
+   Seinen I, 2006, EUR ECON REV, V50, P581, DOI 10.1016/j.euroecorev.2004.10.005
+   Silber I., 2007, Don Et Sciences Sociales. Theories Et Pratiques Croisees, P124
+   Simmel G, 1978, SOCIOLOGY G SIMMEL, P379
+   Small ML, 2006, SOC FORCES, V84, P1697, DOI 10.1353/sof.2006.0067
+   Smith SandraSusan., 2007, LONE PURSUIT DISTRUS
+   Stack C., 1974, ALL OUR KIN STRATEGI
+   Suttles G.D., 1968, The Social Order of the Slum: Ethnicity and Territory in the Inner City
+   UEHARA E, 1990, AM J SOCIOL, V96, P521, DOI 10.1086/229571
+   UEHARA ES, 1995, J SOC PERS RELAT, V12, P483, DOI 10.1177/0265407595124001
+   WELLMAN B, 1990, AM J SOCIOL, V96, P558, DOI 10.1086/229572
+   Wilson WJ, 1997, POLIT SCI QUART, V111, P567
+   Xin KR, 1996, ACAD MANAGE J, V39, P1641, DOI 10.5465/257072
+   YAMAGISHI T, 1993, SOC PSYCHOL QUART, V56, P235, DOI 10.2307/2786661
+   Yan Y., 1996, FLOW GIFTS RECIPROCI
+NR 77
+TC 131
+Z9 151
+U1 1
+U2 52
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0011-3921
+EI 1461-7064
+J9 CURR SOCIOL
+JI Curr. Sociol.
+PD NOV
+PY 2012
+VL 60
+IS 6
+BP 788
+EP 805
+DI 10.1177/0011392112454754
+PG 18
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA 028YJ
+UT WOS:000310461500004
+DA 2024-11-22
+ER
+
+PT J
+AU Lee, T
+   van de Meene, S
+AF Lee, Taedong
+   van de Meene, Susan
+TI Who teaches and who learns? Policy learning through the C40 cities
+   climate network
+SO POLICY SCIENCES
+LA English
+DT Article
+DE Policy learning; Climate change; Transnational network;
+   Multi-stakeholder governing body; Social network analysis; Exponential
+   random graph model
+ID INFORMATION-SEEKING; KNOWLEDGE; ORGANIZATIONS; INSTITUTIONS; ADAPTATION;
+   COMMITMENT; GOVERNANCE; MANAGEMENT; TRADE; STATE
+AB This study examines the network structure of policy learning in the C40 Cities Climate Leadership Group, which is a network of the world's largest cities committed to tackling climate change issues. Among forty members and nineteen affiliate members, we ask the question with whom do cities learn and why? How are policy-learning relationships associated with cities' multi-stakeholder governing body, policy performance, and cultural similarities? While studies on learning have analyzed conditions facilitating learning, quantitative studies of local government learning in global networks are rare. To facilitate the investigation into learning, we conceptualize learning as a process comprising information seeking, adoption and policy change, and focus on information seeking as the foundation step in the learning process. This social network analysis using the exponential random graph model reveals the cities that seek information and those that are information sources are different subgroups. Furthermore, analysis of nodal attributes suggests that transmunicipal learning in the C40 network is facilitated by the presence of a multi-stakeholder governing body; homophily of culture (language and regional proximity); and higher level of climate change policy performance. Creating a multi-stakeholder governing body could ensure participatory representativeness from citizens and relevant stakeholders to enhance climate change policy engagement and decision making as well as policy learning.
+C1 [Lee, Taedong; van de Meene, Susan] City Univ Hong Kong, Dept Asian & Int Studies, Kowloon, Hong Kong, Peoples R China.
+C3 City University of Hong Kong
+RP Lee, T (corresponding author), City Univ Hong Kong, Dept Asian & Int Studies, Tat Chee Ave, Kowloon, Hong Kong, Peoples R China.
+EM taedong.lee@cityu.edu.hk; susan.vandemeene@cityu.edu.hk
+RI Lee, Taedong/AAJ-5234-2020
+OI Lee, Taedong/0000-0002-5671-7938
+CR Alvesson M, 2001, J MANAGE STUD, V38, P995, DOI 10.1111/1467-6486.00269
+   [Anonymous], J STAT SOFTWARE
+   Beem B, 2006, COAST MANAGE, V34, P167, DOI 10.1080/08920750500531272
+   BENNETT CJ, 1992, POLICY SCI, V25, P275, DOI 10.1007/BF00138786
+   Benz A, 2002, EUR URBAN REG STUD, V9, P21, DOI 10.1177/096977640200900102
+   Betsill MicheleM., 2003, CITIES CLIMATE CHANG
+   Betsill MM, 2004, INT STUD QUART, V48, P471, DOI 10.1111/j.0020-8833.2004.00310.x
+   Biesbroek GR, 2009, HABITAT INT, V33, P230, DOI 10.1016/j.habitatint.2008.10.001
+   Borgatti SP, 2003, MANAGE SCI, V49, P432, DOI 10.1287/mnsc.49.4.432.14428
+   Busenberg G.J., 2001, Journal of Public Policy, V21, P173, DOI DOI 10.1017/S0143814X0100109X
+   C40 Cities, 2011, C40 CIT INTR
+   Carlsson L, 2000, POLICY STUD J, V28, P502, DOI 10.1111/j.1541-0072.2000.tb02045.x
+   Child J., 1998, STRATEGIES COOPERATI
+   Cross R, 2001, IEEE T SYST MAN CY C, V31, P438, DOI 10.1109/5326.983927
+   Dekker S, 2004, J PUBL ADM RES THEOR, V14, P211, DOI 10.1093/jopart/muh014
+   deLeon P, 2009, POLICY STUD J, V37, P59, DOI 10.1111/j.1541-0072.2008.00295.x
+   Depledge J, 2006, GLOBAL ENVIRON POLIT, V6, P1, DOI 10.1162/glep.2006.6.1.1
+   Dolowitz D, 1996, POLIT STUD-LONDON, V44, P343, DOI 10.1111/j.1467-9248.1996.tb00334.x
+   Dolowitz DP, 2000, GOVERNANCE, V13, P5, DOI 10.1111/0952-1895.00121
+   Edmondson A. C., 1997, J APPL BEHAV SCI, V32, P5
+   Ewen S, 2007, ENVIRON PLANN C, V25, P327, DOI 10.1068/c0640
+   Feiock RC, 2010, URBAN AFF REV, V46, P241, DOI 10.1177/1078087409360509
+   Fiorino DJ, 2001, PUBLIC ADMIN REV, V61, P322, DOI 10.1111/0033-3352.00033
+   Flynn B., 2003, European Environment, V13, P150, DOI 10.1002/eet.320
+   Gabler M, 2010, GLOBAL ENVIRON POLIT, V10, P80, DOI 10.1162/glep.2010.10.2.80
+   Glasbergen P., 1996, Democracy and the environment: Problems and Persepctives
+   Guo RX, 2007, ASIAN ECON J, V21, P101, DOI 10.1111/j.1467-8381.2007.00248.x
+   Haas PM, 2000, POLICY STUD J, V28, P558, DOI 10.1111/j.1541-0072.2000.tb02048.x
+   HALL PA, 1993, COMP POLIT, V25, P275, DOI 10.2307/422246
+   Hamin EM, 2009, HABITAT INT, V33, P238, DOI 10.1016/j.habitatint.2008.10.005
+   Hendriksen B., 2011, CDP CITIES 2011 GLOB
+   Henry AD, 2011, J PUBL ADM RES THEOR, V21, P419, DOI 10.1093/jopart/muq042
+   Henry AD, 2009, HUM ECOL REV, V16, P131
+   Howlett M, 2002, CAN J POLIT SCI, V35, P235, DOI 10.1017/S0008423902778232
+   Huber GP, 1991, ORGAN SCI, V2, P88, DOI 10.1287/orsc.2.1.88
+   Hunter DR., 2008, Journal of Statistical Software, V24, P1, DOI DOI 10.18637/JSS.V024.I03
+   ICLEI, 2011, ICLEI CLIM PROGR
+   James TE, 2009, POLICY STUD J, V37, P141, DOI 10.1111/j.1541-0072.2008.00300.x
+   Kern K, 2009, JCMS-J COMMON MARK S, V47, P309, DOI 10.1111/j.1468-5965.2009.00806.x
+   Krause RM, 2011, J URBAN AFF, V33, P45, DOI 10.1111/j.1467-9906.2010.00510.x
+   Lam A, 2000, ORGAN STUD, V21, P487, DOI 10.1177/0170840600213001
+   Laukkonen J, 2009, HABITAT INT, V33, P287, DOI 10.1016/j.habitatint.2008.10.003
+   Leemans R, 2004, GLOBAL ENVIRON CHANG, V14, P219, DOI 10.1016/j.gloenvcha.2004.04.009
+   Lipschutz RD, 1997, GLOB GOV, V3, P83, DOI 10.1163/19426720-00301005
+   Lundvall B. -A., 2001, DRUID WINT C JAN 18
+   Marsden G, 2011, TRANSPORT POLICY, V18, P501, DOI 10.1016/j.tranpol.2010.10.006
+   Marsh D, 2000, POLIT STUD-LONDON, V48, P4, DOI 10.1111/1467-9248.00247
+   Mattes R, 2007, AM J POLIT SCI, V51, P192, DOI 10.1111/j.1540-5907.2007.00245.x
+   May P.J., 1992, Journal of Public Policy, V12, P331, DOI [10.1017/S0143814X00005602, DOI 10.1017/S0143814X00005602]
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Newman M., 2010, NETWORKS, DOI [DOI 10.1093/ACPROF:OSO/9780199206650.001.0001, 10.1093/acprof:oso/9780199206650.001.0001]
+   Nowlin MC, 2011, POLICY STUD J, V39, P41, DOI 10.1111/j.1541-0072.2010.00389_4.x
+   Pizarro RE, 2009, HABITAT INT, V33, P227, DOI 10.1016/j.habitatint.2008.10.008
+   Radaelli CM, 2009, J EUR PUBLIC POLICY, V16, P1145, DOI 10.1080/13501760903332647
+   Rashman L, 2005, LOCAL GOV STUD, V31, P683, DOI 10.1080/03003930500293732
+   Rashman L, 2009, INT J MANAG REV, V11, P463, DOI 10.1111/j.1468-2370.2009.00257.x
+   Reagans R, 2005, MANAGE SCI, V51, P869, DOI 10.1287/mnsc.1050.0366
+   Revi A, 2008, ENVIRON URBAN, V20, P207, DOI 10.1177/0956247808089157
+   Rose R., 1991, J PUBLIC POLICY, V11, P3, DOI [10.1017/S0143814X00004918, DOI 10.1017/S0143814X00004918]
+   SABATIER PA, 1988, POLICY SCI, V21, P129, DOI 10.1007/BF00136406
+   Saul U, 2011, CLIM POLICY, V11, P901, DOI 10.3763/cpol.2009.0004
+   Scholz J.T., 2005, ADAPTIVE GOVERNANCE, P1
+   Siebenhüner B, 2008, GLOBAL ENVIRON POLIT, V8, P92, DOI 10.1162/glep.2008.8.4.92
+   Simmons BA, 2004, AM POLIT SCI REV, V98, P171, DOI 10.1017/S0003055404001078
+   Swan J, 2001, J MANAGE STUD, V38, P913, DOI 10.1111/1467-6486.00265
+   UNPF, 2009, STAT WORLD POP 2009
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   Weible CM, 2010, ENVIRON SCI POLICY, V13, P522, DOI 10.1016/j.envsci.2010.05.005
+   Weible CM, 2009, POLICY STUD J, V37, P121, DOI 10.1111/j.1541-0072.2008.00299.x
+   Wood GA, 2005, GROWTH CHANGE, V36, P1, DOI 10.1111/j.1468-2257.2005.00264.x
+   Zahran S, 2008, ENVIRON PLANN C, V26, P544, DOI 10.1068/c2g
+   Zhou M, 2011, SOC SCI RES, V40, P193, DOI 10.1016/j.ssresearch.2010.07.002
+NR 72
+TC 115
+Z9 124
+U1 3
+U2 128
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0032-2687
+EI 1573-0891
+J9 POLICY SCI
+JI Policy Sci.
+PD SEP
+PY 2012
+VL 45
+IS 3
+BP 199
+EP 220
+DI 10.1007/s11077-012-9159-5
+PG 22
+WC Public Administration; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Public Administration; Social Sciences - Other Topics
+GA 985WV
+UT WOS:000307302100001
+DA 2024-11-22
+ER
+
+PT J
+AU Cui, AX
+   Zhang, ZK
+   Tang, M
+   Hui, PM
+   Fu, Y
+AF Cui, Ai-Xiang
+   Zhang, Zi-Ke
+   Tang, Ming
+   Hui, Pak Ming
+   Fu, Yan
+TI Emergence of Scale-Free Close-Knit Friendship Structure in Online Social
+   Networks
+SO PLOS ONE
+LA English
+DT Article
+ID COMPLEX NETWORKS; EVOLUTION; DISTRIBUTIONS; MOTIFS; TIME
+AB Although the structural properties of online social networks have attracted much attention, the properties of the close-knit friendship structures remain an important question. Here, we mainly focus on how these mesoscale structures are affected by the local and global structural properties. Analyzing the data of four large-scale online social networks reveals several common structural properties. It is found that not only the local structures given by the indegree, outdegree, and reciprocal degree distributions follow a similar scaling behavior, the mesoscale structures represented by the distributions of close-knit friendship structures also exhibit a similar scaling law. The degree correlation is very weak over a wide range of the degrees. We propose a simple directed network model that captures the observed properties. The model incorporates two mechanisms: reciprocation and preferential attachment. Through rate equation analysis of our model, the local-scale and mesoscale structural properties are derived. In the local-scale, the same scaling behavior of indegree and outdegree distributions stems from indegree and outdegree of nodes both growing as the same function of the introduction time, and the reciprocal degree distribution also shows the same power-law due to the linear relationship between the reciprocal degree and in/outdegree of nodes. In the mesoscale, the distributions of four closed triples representing close-knit friendship structures are found to exhibit identical power-laws, a behavior attributed to the negligible degree correlations. Intriguingly, all the power-law exponents of the distributions in the local-scale and mesoscale depend only on one global parameter, the mean in/outdegree, while both the mean in/outdegree and the reciprocity together determine the ratio of the reciprocal degree of a node to its in/outdegree. Structural properties of numerical simulated networks are analyzed and compared with each of the four real networks. This work helps understand the interplay between structures on different scales in online social networks. Citation: Cui A-X, Zhang Z-K, Tang M, Hui PM, Fu Y (2012) Emergence of Scale-Free Close-Knit Friendship Structure in Online Social Networks. PLoS ONE 7(12): e50702. doi:10.1371/journal.pone.0050702
+C1 [Cui, Ai-Xiang; Zhang, Zi-Ke; Tang, Ming; Fu, Yan] Univ Elect Sci & Technol China, Web Sci Ctr, Chengdu 610054, Peoples R China.
+   [Zhang, Zi-Ke] Hangzhou Normal Univ, Inst Informat Econ, Hangzhou, Zhejiang, Peoples R China.
+   [Hui, Pak Ming] Chinese Univ Hong Kong, Dept Phys, Shatin, Hong Kong, Peoples R China.
+C3 University of Electronic Science & Technology of China; Hangzhou Normal
+   University; Chinese University of Hong Kong
+RP Tang, M (corresponding author), Univ Elect Sci & Technol China, Web Sci Ctr, Chengdu 610054, Peoples R China.
+EM tangminghuang521@hotmail.com
+RI Hui, Pak Ming/S-2586-2017
+OI Hui, Pak Ming/0000-0002-5201-8689
+FU National Natural Science Foundation of China [11105024, 11105025,
+   61103109]; China Postdoctoral Science Foundation [20110491705];
+   Specialized Research Fund for the Doctoral Program of Higher Education
+   [20110185120021]; Research Grants Council of the Hong Kong SAR
+   Government [CUHK-401109]
+FX This work was partially supported by the National Natural Science
+   Foundation of China (Grant Nos. 11105024, 11105025, and 61103109), China
+   Postdoctoral Science Foundation (Grant No. 20110491705), the Specialized
+   Research Fund for the Doctoral Program of Higher Education (Grant No.
+   20110185120021). P.M. Hui acknowledges the support of the Research
+   Grants Council of the Hong Kong SAR Government under Grant No.
+   CUHK-401109. The funders had no role in study design, data collection
+   and analysis, decision to publish, or preparation of the manuscript.
+CR Ahn YY, 2007, Proceedings of the 16th international conference on World Wide Web, P835, DOI DOI 10.1145/1242572.1242685
+   Ahnert SE, 2008, PHYS REV E, V78, DOI 10.1103/PhysRevE.78.036112
+   Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   Almendral JA, 2011, CHAOS, V21, DOI 10.1063/1.3570920
+   [Anonymous], 2008, Proceeding of the 17th International Conference on World Wide Web 2008, WWW'08, DOI DOI 10.1145/1367497.1367585
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barthélemy M, 2011, PHYS REP, V499, P1, DOI 10.1016/j.physrep.2010.11.002
+   Benevenuto F., 2008, 16 ACM INT C MULTIME, P761
+   Boccaletti S, 2006, PHYS REP, V424, P175, DOI 10.1016/j.physrep.2005.10.009
+   Brin S, 1998, COMPUT NETWORKS ISDN, V30, P107, DOI 10.1016/S0169-7552(98)00110-X
+   Capocci A, 2006, PHYS REV E, V74, DOI 10.1103/PhysRevE.74.036116
+   Castellano C, 2009, REV MOD PHYS, V81, P591, DOI 10.1103/RevModPhys.81.591
+   Catanzaro M, 2005, PHYS REV E, V71, DOI 10.1103/PhysRevE.71.027103
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Corten R, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0034760
+   Costa LD, 2007, ADV PHYS, V56, P167, DOI 10.1080/00018730601170527
+   Dorogovtsev SN, 2008, REV MOD PHYS, V80, P1275, DOI 10.1103/RevModPhys.80.1275
+   Dorogovtsev SN, 2000, PHYS REV LETT, V85, P4633, DOI 10.1103/PhysRevLett.85.4633
+   Dorogovtsev SN, 2002, ADV PHYS, V51, P1079, DOI 10.1080/00018730110112519
+   Fagiolo G, 2007, PHYS REV E, V76, DOI 10.1103/PhysRevE.76.026107
+   Farkas IJ, 2007, NEW J PHYS, V9, DOI 10.1088/1367-2630/9/6/180
+   Fortunato S, 2010, PHYS REP, V486, P75, DOI 10.1016/j.physrep.2009.11.002
+   Foster JG, 2010, P NATL ACAD SCI USA, V107, P10815, DOI 10.1073/pnas.0912671107
+   Gallos LK, 2012, PHYS REV X, V2, DOI 10.1103/PhysRevX.2.031014
+   Garlaschelli D, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.268701
+   Ghoneim A, 2008, IEEE T SYST MAN CY B, V38, P682, DOI 10.1109/TSMCB.2008.918570
+   Gjoka M, 2010, IEEE INFOCOM SER, DOI 10.1109/infcom.2010.5462078
+   Hales D, 2008, NETW HETEROG MEDIA, V3, P239, DOI 10.3934/nhm.2008.3.239
+   Hu HB, 2009, PHYS LETT A, V373, P1105, DOI 10.1016/j.physleta.2009.02.004
+   Huang CY, 2007, PHYSICA A, V377, P340, DOI 10.1016/j.physa.2006.11.014
+   Kim Y, 2010, PHYS REV E, V81, DOI 10.1103/PhysRevE.81.016103
+   Kleinberg JM, 1999, J ACM, V46, P604, DOI 10.1145/324133.324140
+   Krapivsky PL, 2000, PHYS REV LETT, V85, P4629, DOI 10.1103/PhysRevLett.85.4629
+   Krapivsky PL, 2001, PHYS REV E, V63, DOI 10.1103/PhysRevE.63.066123
+   Krapivsky PL, 2001, PHYS REV LETT, V86, P5401, DOI 10.1103/PhysRevLett.86.5401
+   Lancichinetti A, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0018961
+   Lancichinetti A, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0011976
+   Leicht EA, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.118703
+   Leicht EA, 2007, EUR PHYS J B, V59, P75, DOI 10.1140/epjb/e2007-00271-7
+   Leskovec J, 2010, CHI2010: PROCEEDINGS OF THE 28TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, VOLS 1-4, P1361
+   Lü LY, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0021202
+   Lü LY, 2011, PHYSICA A, V390, P1150, DOI 10.1016/j.physa.2010.11.027
+   Mangan S, 2006, J MOL BIOL, V356, P1073, DOI 10.1016/j.jmb.2005.12.003
+   Mangan S, 2003, P NATL ACAD SCI USA, V100, P11980, DOI 10.1073/pnas.2133841100
+   Milo R, 2004, SCIENCE, V303, P1538, DOI 10.1126/science.1089167
+   Milo R, 2002, SCIENCE, V298, P824, DOI 10.1126/science.298.5594.824
+   Mislove A., 2008, P WORKSH ONL SOC NET, P25, DOI 10.1145/1397735.1397742
+   Mislove A, 2007, IMC'07: PROCEEDINGS OF THE 2007 ACM SIGCOMM INTERNET MEASUREMENT CONFERENCE, P29
+   Mossa S, 2002, PHYS REV LETT, V88, DOI 10.1103/PhysRevLett.88.138701
+   Newman MEJ, 2001, P NATL ACAD SCI USA, V98, P404, DOI 10.1073/pnas.021544898
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   Newman MEJ, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.208701
+   Nowak MA, 2005, NATURE, V437, P1291, DOI 10.1038/nature04131
+   Reichardt J, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0021282
+   Rodgers GJ, 2001, EUR PHYS J B, V23, P267, DOI 10.1007/s100510170076
+   SCOTT J, 1988, SOCIOLOGY, V22, P109, DOI 10.1177/0038038588022001007
+   Scott J., 2017, SOCIAL NETWORK ANAL
+   Sousa AO, 2005, PHYSICA A, V348, P701, DOI 10.1016/j.physa.2004.09.027
+   Stumpf MPH, 2012, SCIENCE, V335, P665, DOI 10.1126/science.1216142
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Wu Y, 2010, P NATL ACAD SCI USA, V107, P18803, DOI 10.1073/pnas.1013140107
+   Zhou T, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0020648
+NR 63
+TC 13
+Z9 14
+U1 0
+U2 52
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD DEC 14
+PY 2012
+VL 7
+IS 12
+AR e50702
+DI 10.1371/journal.pone.0050702
+PG 13
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 055AJ
+UT WOS:000312386800014
+PM 23272067
+OA Green Submitted, Green Published, gold
+DA 2024-11-22
+ER

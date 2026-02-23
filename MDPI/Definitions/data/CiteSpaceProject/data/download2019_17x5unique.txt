@@ -1,0 +1,702 @@
+
+PT J
+AU Lienert, J
+   Koehly, L
+   Reed-Tsochas, F
+   Marcum, CS
+AF Lienert, Jeffrey
+   Koehly, Laura
+   Reed-Tsochas, Felix
+   Marcum, Christopher Steven
+TI An efficient counting method for the colored triad census
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Triad census; Labeled graphs; Simulation; Null hypothesis; Zachary
+   karate club
+ID NETWORKS; MODELS
+AB The triad census is an important approach to understand local structure in network science, providing comprehensive assessments of the observed relational configurations between triples of actors in a network. However, researchers are often interested in combinations of relational and categorical nodal attributes. In this case, it is desirable to account for the label, or color, of the nodes in the triad census. In this paper, we describe an efficient algorithm for constructing the colored triad census, based, in part, on existing methods for the classic triad census. We evaluate the performance of the algorithm using empirical and simulated data for both undirected and directed graphs. The results of the simulation demonstrate that the proposed algorithm reduces computational time by approximately many-fold over the naive approach. We also apply the colored triad census to the Zachary karate club network dataset. We simultaneously show the efficiency of the algorithm, and a way to conduct a statistical test on the census by forming a null distribution from 1000 realizations of a mixing matrix conditioned graph and comparing the observed colored triad counts to the expected. From this, we demonstrate the method's utility in our discussion of results about homophily, heterophily, and bridging, simultaneously gained via the colored triad census. In sum, the proposed algorithm for the colored triad census brings novel utility to social network analysis in an efficient package.
+C1 [Lienert, Jeffrey; Koehly, Laura; Marcum, Christopher Steven] NHGRI, NIH, Bethesda, MD 20892 USA.
+   [Lienert, Jeffrey; Reed-Tsochas, Felix] Univ Oxford, Said Business Sch, Oxford, England.
+   [Reed-Tsochas, Felix] Oxford Martin Sch, Oxford, England.
+C3 National Institutes of Health (NIH) - USA; NIH National Human Genome
+   Research Institute (NHGRI); University of Oxford; University of Oxford
+RP Lienert, J (corresponding author), 106 S Front St,4B, Philadelphia, PA 19106 USA.
+EM jeffreylienert@gmail.com
+RI ReedTsochas, Felix/KHW-1602-2024
+OI Marcum, Christopher/0000-0002-0899-6143; Reed-Tsochas,
+   Felix/0000-0001-7923-750X
+FU National Human Genome Research Institute, National Institutes of Health
+   [ZIA HG200335]; Oxford Martin School, University of Oxford [LC1213-006]
+FX This research was funded via National Human Genome Research Institute,
+   National Institutes of Health (Grant number ZIA HG200335) and the Oxford
+   Martin School, University of Oxford (Grant number LC1213-006).
+CR [Anonymous], 2012, SMR
+   [Anonymous], 1989, Sociological Methodology, DOI DOI 10.2307/270949
+   Batagelj V, 2001, SOC NETWORKS, V23, P237, DOI 10.1016/S0378-8733(01)00035-1
+   CARTWRIGHT D, 1956, PSYCHOL REV, V63, P277, DOI 10.1037/h0046049
+   Davie AM, 2013, P ROY SOC EDINB A, V143, P351, DOI 10.1017/S0308210511001648
+   Duff I. S., 2017, Numerical Mathematics and Scientific Computation), V2nd
+   Erdos P., 1959, PUBL MATH-DEBRECEN, V6, P290
+   Faust K, 2010, SOC NETWORKS, V32, P221, DOI 10.1016/j.socnet.2010.03.004
+   Goodreau SM, 2009, DEMOGRAPHY, V46, P103, DOI 10.1353/dem.0.0045
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Holland PW., 1976, Sociol. Methodol, V7, P1, DOI [DOI 10.2307/270703, 10.2307/270703]
+   Jensen T.R., 2011, Graph coloring problems
+   Marcum CS, 2016, NETW SCI, V4, P400, DOI 10.1017/nws.2016.3
+   Marcum CS, 2015, ADV LIFE COURSE RES, V24, P10, DOI 10.1016/j.alcr.2015.04.001
+   Marsden PV, 2003, SOC NETWORKS, V25, P1, DOI 10.1016/S0378-8733(02)00009-6
+   McPherson M., 2014, ANNU REV SOCIOL, V27, P415
+   Milo R, 2002, SCIENCE, V298, P824, DOI 10.1126/science.298.5594.824
+   Moody J, 1998, SOC NETWORKS, V20, P291, DOI 10.1016/S0378-8733(98)00006-9
+   Newman MEJ, 2003, PHYS REV E, V67, DOI 10.1103/PhysRevE.67.026126
+   Snijders TAB, 1996, J MATH SOCIOL, V21, P149, DOI 10.1080/0022250X.1996.9990178
+   Spiro ES, 2013, SOC NETWORKS, V35, P130, DOI 10.1016/j.socnet.2013.02.001
+   Yaveroglu ÖN, 2015, J STAT SOFTW, V65, P1
+   Yuster R, 2005, ACM T ALGORITHMS, V1, P2, DOI 10.1145/1077464.1077465
+   ZACHARY WW, 1977, J ANTHROPOL RES, V33, P452, DOI 10.1086/jar.33.4.3629752
+NR 24
+TC 5
+Z9 5
+U1 1
+U2 3
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JUL
+PY 2019
+VL 58
+BP 136
+EP 142
+DI 10.1016/j.socnet.2019.04.003
+PG 7
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA IF1BX
+UT WOS:000472813200011
+OA Green Submitted, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Chaffin, BC
+   Floyd, TM
+   Albro, SL
+AF Chaffin, Brian C.
+   Floyd, Theresa M.
+   Albro, Sandra L.
+TI Leadership in informal stormwater governance networks
+SO PLOS ONE
+LA English
+DT Article
+ID URBAN STORMWATER; ADAPTIVE MANAGEMENT; SOCIAL NETWORKS; POLICY NETWORKS;
+   RAIN GARDENS; GENDER; CENTRALITY; TRUST; EMERGENCE; ORGANIZATIONS
+AB Recent transitions in the governance of urban stormwater, specifically developments that leverage the environmental and social benefits of green infrastructure (GI) including infiltration and neighborhood stabilization, often require capacities beyond those of any single municipal- or regional-scale organization. In many cities, transitions toward green storm water infrastructure have been shepherded by networks of individuals spanning a diversity of organizations from governments to NGOs. These networks are often informal, that is, not established by legal mandate, governing authority, or formal agreement, and are often striking for their lack of formal hierarchy or formal leadership. Previous scholarship has revealed the importance of leadership in the development and efficacy of these multiorganizational, cross-sector environmental governance networks, but research has yet to empirically investigate and characterize informal network leaders within the context of GI for stormwater mitigation. To address this gap, we designed and administered a social network analysis (SNA) survey to individuals in a regional network of GI stormwater management professionals in and around Cleveland, Ohio USA. We collected network data on individual relationships, including collaboration and trust, and tested the impact of these relationships on peer-recognition of leaders in the GI network. Our findings suggest that network size, frequency of collaboration, and individual position within the network specifically, betweenness centrality and openness defined and likely supported leaders in the stormwater governance network. Leaders in this non-hierarchical, multi-institution context were more likely to be women and brokerage roles within the network benefitted women, not men, which contrasts with previous findings from research on single-organization and corporate networks. The implications of this research suggest that informal environmental governance networks, such as the GI network investigated, differ substantially from the generally more hierarchical networks of organizations. This finding is useful for municipalities and regional authorities grappling with complex environmental challenges, including transitions in strategies to manage excess stormwater for the protection of municipal drinking water sources and urban freshwater ecosystems.
+C1 [Chaffin, Brian C.] Univ Montana, WA Franke Coll Forestry & Conservat, Missoula, MT 59812 USA.
+   [Floyd, Theresa M.] Univ Montana, Coll Business, Missoula, MT 59812 USA.
+   [Albro, Sandra L.] Holden Forests & Gardens, Cleveland, OH USA.
+C3 University of Montana System; University of Montana; University of
+   Montana System; University of Montana
+RP Chaffin, BC (corresponding author), Univ Montana, WA Franke Coll Forestry & Conservat, Missoula, MT 59812 USA.
+EM brian.chaffin@umontana.edu
+OI Chaffin, Brian/0000-0002-3739-5849
+FU Great Lakes Protection Fund [949.01]; Holden Forests Gardens; National
+   Science Foundation Experimental Program for Stimulating Competitive
+   Research (EPSCoR) [OIA-1738857]
+FX Co-author SLA received grant funding from the Great Lakes Protection
+   Fund (http://glpf.org/) through a grant to Holden Forests & Gardens
+   (Project 949.01) and co-authors BCC and TMF received a subaward of this
+   grant funding to the University of Montana from Holden Forests & Gardens
+   (https://www.holdenarb.org/).The lead author, BCC, is supported by a
+   grant from the National Science Foundation Experimental Program for
+   Stimulating Competitive Research (EPSCoR, Award #OIA-1738857). Outside
+   of the professional input of individual co-author SLA, who is an
+   employee of Holden Forests & Gardens, the funders did not play any role
+   in study design, data collection and analysis, decision to publish, or
+   preparation of the manuscript.
+CR Albro Sandra., 2019, Vacant to Vibrant: Creating Successful Green Infrastructure Networks
+   Albro SL, 2017, LANDSCAPE RES, V42, P747, DOI 10.1080/01426397.2017.1363879
+   [Anonymous], 1972, Complex organizations: A critical essay
+   [Anonymous], 2002, Harvard, MA: Analytic Technologies
+   [Anonymous], 1997, Connections
+   Autixier L, 2014, SCI TOTAL ENVIRON, V499, P238, DOI 10.1016/j.scitotenv.2014.08.030
+   Balkundi P, 2005, LEADERSHIP QUART, V16, P941, DOI 10.1016/j.leaqua.2005.09.004
+   Balkundi P, 2011, J APPL PSYCHOL, V96, P1209, DOI 10.1037/a0024890
+   Barker RA, 2001, HUM RELAT, V54, P469, DOI 10.1177/0018726701544004
+   Barnes-Mauthe M, 2013, ECOL SOC, V18, DOI 10.5751/ES-05295-180123
+   Bass B.M., 2008, The Bass handbook of leadership: Theory, research, and managerialapplications, V4th
+   Bass B.M., 1999, EUR J WORK ORGAN PSY, V8, P9, DOI DOI 10.1080/135943299398410
+   Bennet N., 2003, DISTRIBUTED LEADERSH
+   Berardo R, 2010, AM J POLIT SCI, V54, P632, DOI 10.1111/j.1540-5907.2010.00451.x
+   Bodin O, 2011, SOCIAL NETWORKS NATU
+   Bodin Ö, 2008, WORLD DEV, V36, P2763, DOI 10.1016/j.worlddev.2007.12.002
+   Bodin Ö, 2016, ECOL SOC, V21, DOI 10.5751/ES-08368-210140
+   Bodin Ö, 2009, GLOBAL ENVIRON CHANG, V19, P366, DOI 10.1016/j.gloenvcha.2009.05.002
+   Bolden R., 2003, REV LEADERSHIP THEOR
+   Borgatti SP, 2003, J MANAGE, V29, P991, DOI 10.1016/S0149-2063(03)00087-4
+   Borgatti SP., 2018, ANAL SOCIAL NETWORKS
+   Borgatti SP, 2011, ORGAN SCI, V22, P1168, DOI 10.1287/orsc.1100.0641
+   Borgatti SP, 2009, SCIENCE, V323, P892, DOI 10.1126/science.1165821
+   Brands RA, 2015, ORGAN SCI, V26, P1210, DOI 10.1287/orsc.2015.0965
+   Brands RA, 2014, ORGAN SCI, V25, P1530, DOI 10.1287/orsc.2013.0880
+   Brass D.J., 2012, The Oxford Handbook of Organizational Psychology, V1, P667, DOI DOI 10.1093/OXFORDHB/9780199928309.013.0021
+   BRASS DJ, 1985, ACAD MANAGE J, V28, P327, DOI 10.5465/256204
+   BRASS DJ, 1984, ADMIN SCI QUART, V29, P518, DOI 10.2307/2392937
+   BRASS DJ, 1993, ACAD MANAGE J, V36, P441, DOI 10.5465/256588
+   Brown ME, 2005, ORGAN BEHAV HUM DEC, V97, P117, DOI 10.1016/j.obhdp.2005.03.002
+   Burke CS, 2007, LEADERSHIP QUART, V18, P606, DOI 10.1016/j.leaqua.2007.09.006
+   Burt R.S., 2009, STRUCTURAL HOLES SOC
+   Burt RS, 2013, ANNU REV PSYCHOL, V64, P527, DOI 10.1146/annurev-psych-113011-143828
+   Burt RS, 1998, RATION SOC, V10, P5, DOI 10.1177/104346398010001001
+   Carter DR, 2015, J APPL PSYCHOL, V100, P597, DOI 10.1037/a0038922
+   Case P, 2015, LEADERSHIP-LONDON, V11, P396, DOI 10.1177/1742715015577887
+   Chaffin BC, 2016, J ENVIRON MANAGE, V183, P431, DOI 10.1016/j.jenvman.2016.06.025
+   Chua RYJ, 2008, ACAD MANAGE J, V51, P436
+   Cinner JE, 2012, P NATL ACAD SCI USA, V109, P5219, DOI 10.1073/pnas.1121215109
+   Cleveland City Planning Commission, 2011, 8 ID VAC LAND REUS C
+   Cleveland Urban Design Collaborative, 2008, REIM MOR SUST CLEV C
+   Cosens BA, 2018, ECOL SOC, V23, DOI 10.5751/ES-09524-230104
+   Crona BI, 2006, ECOL SOC, V11
+   Day D., 2014, OXFORD HDB LEADERSHI
+   DeRue DS, 2011, PERS PSYCHOL, V64, P7, DOI 10.1111/j.1744-6570.2010.01201.x
+   DeRue DS., 2010, ACAD MANAGE REV, V35, P627, DOI 10.5465/amr.35.4.zok627
+   Dhakal KP, 2017, J ENVIRON MANAGE, V203, P171, DOI 10.1016/j.jenvman.2017.07.065
+   Dhakal KP, 2016, ENVIRON MANAGE, V57, P1112, DOI 10.1007/s00267-016-0667-5
+   Dirks KT, 2002, J APPL PSYCHOL, V87, P611, DOI 10.1037/0021-9010.87.4.611
+   Eagly AH, 2002, PSYCHOL REV, V109, P573, DOI 10.1037//0033-295X.109.3.573
+   EAGLY AH, 1991, J PERS SOC PSYCHOL, V60, P685, DOI 10.1037/0022-3514.60.5.685
+   Ernstson H, 2008, ECOL SOC, V13
+   Evans LS, 2017, HUM ECOL, V45, P357, DOI 10.1007/s10745-017-9901-x
+   Evans LS, 2015, ECOL SOC, V20, DOI 10.5751/ES-07268-200150
+   Fabricius C, 2007, ECOL SOC, V12
+   Folke C, 2005, ANNU REV ENV RESOUR, V30, P441, DOI 10.1146/annurev.energy.30.050504.144511
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   FREEMAN LC, 1977, SOCIOMETRY, V40, P35, DOI 10.2307/3033543
+   Gardner WL, 2011, LEADERSHIP QUART, V22, P1120, DOI 10.1016/j.leaqua.2011.09.007
+   Gill S., 2007, Built Environment 1978, V33, P115, DOI DOI 10.2148/BENV.33.1.115
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Green OO, 2016, URBAN ECOSYST, V19, P77, DOI 10.1007/s11252-015-0476-2
+   Gronn P., 2000, Educational Management Administration, V28, P317, DOI [DOI 10.1177/0263211X000283006, 10.1177/0263211x000283006]
+   Gruber JS, 2010, ENVIRON MANAGE, V45, P52, DOI 10.1007/s00267-008-9235-y
+   Hahn T, 2006, HUM ECOL, V34, P573, DOI 10.1007/s10745-006-9035-z
+   Harrison JL, 2016, SOC NATUR RESOUR, V29, P525, DOI 10.1080/08941920.2015.1103389
+   Hernandez M, 2011, LEADERSHIP QUART, V22, P1165, DOI 10.1016/j.leaqua.2011.09.009
+   Herrmann DL, 2017, PLANT SOIL, V413, P45, DOI 10.1007/s11104-016-2874-5
+   HOGAN R, 1994, AM PSYCHOL, V49, P493, DOI 10.1037/0003-066X.49.6.493
+   Hogg MA, 2012, ACAD MANAGE REV, V37, P232, DOI 10.5465/amr.2010.0221
+   Hollenbeck JR, 2015, ORGAN PSYCHOL REV, V5, P333, DOI 10.1177/2041386614530606
+   Hoornbeek J., 2009, Sustainable Infrastructure in Shrinking Cities p, P35
+   Hopkins KG, 2018, ENVIRON SCI POLICY, V84, P124, DOI 10.1016/j.envsci.2018.03.008
+   IBARRA H, 1993, ADMIN SCI QUART, V38, P277, DOI 10.2307/2393414
+   Jarden KM, 2016, HYDROL PROCESS, V30, P1536, DOI 10.1002/hyp.10736
+   Johnson J. C., 1998, Computational & Mathematical Organization Theory, V4, P223, DOI 10.1023/A:1009644511252
+   Johnson SK, 2008, ORGAN BEHAV HUM DEC, V106, P39, DOI 10.1016/j.obhdp.2007.12.002
+   KRACKHARDT D, 1990, ADMIN SCI QUART, V35, P342, DOI 10.2307/2393394
+   Lemoine GJ, 2016, LEADERSHIP QUART, V27, P470, DOI 10.1016/j.leaqua.2015.12.008
+   Lemos MC, 2006, ANNU REV ENV RESOUR, V31, P297, DOI 10.1146/annurev.energy.31.042605.135621
+   LORD RG, 1984, ORGAN BEHAV HUM PERF, V34, P343, DOI 10.1016/0030-5073(84)90043-6
+   Lubell M, 2002, AM J POLIT SCI, V46, P148, DOI 10.2307/3088419
+   Lubell M, 2008, J PUBL ADM RES THEOR, V18, P673, DOI 10.1093/jopart/mum031
+   Lubell M, 2017, CONSERV LETT, V10, P699, DOI 10.1111/conl.12311
+   Lubell M, 2014, ECOL SOC, V19, DOI 10.5751/ES-06880-190423
+   Lyon T.P., 2009, GOVERNANCE ENV NEW P
+   MARSDEN PV, 1990, ANNU REV SOCIOL, V16, P435, DOI 10.1146/annurev.so.16.080190.002251
+   MCALLISTER DJ, 1995, ACAD MANAGE J, V38, P24, DOI 10.5465/256727
+   MCCLELLAND EDWARD, 2013, NOTHIN BLUE SKIES HE
+   Mehra A, 2001, ADMIN SCI QUART, V46, P121, DOI 10.2307/2667127
+   Miles B, 2015, HYDROL PROCESS, V29, P2268, DOI 10.1002/hyp.10448
+   Nenadovic M, 2016, ENVIRON SCI POLICY, V61, P77, DOI 10.1016/j.envsci.2016.03.023
+   Neubert MJ, 2004, LEADERSHIP QUART, V15, P175, DOI 10.1016/j.leaqua.2004.02.006
+   Olsson P, 2006, ECOL SOC, V11, DOI 10.5751/ES-01595-110118
+   Osborn RN, 2002, LEADERSHIP QUART, V13, P797, DOI 10.1016/S1048-9843(02)00154-6
+   Österblom H, 2012, CONSERV BIOL, V26, P638, DOI 10.1111/j.1523-1739.2012.01850.x
+   Paunova M, 2015, LEADERSHIP QUART, V26, P935, DOI 10.1016/j.leaqua.2015.10.002
+   Prell C, 2009, SOC NATUR RESOUR, V22, P501, DOI 10.1080/08941920802199202
+   Rathwell KJ, 2012, ECOL SOC, V17, DOI 10.5751/ES-04810-170224
+   Rogers P, 2003, 7 GLOB WAT PARTN TEC, V7
+   Roy AH, 2008, ENVIRON MANAGE, V42, P344, DOI 10.1007/s00267-008-9119-1
+   Ruttan LM, 2006, CURR ANTHROPOL, V47, P843, DOI 10.1086/507185
+   Sandstrom A.C., 2010, International Journal of the Commons, V4, P528
+   Sandström A, 2010, ECOL SOC, V15
+   SAVIN NE, 1977, ECONOMETRICA, V45, P1989, DOI 10.2307/1914122
+   Scheffer M, 2001, NATURE, V413, P591, DOI 10.1038/35098000
+   Scheffer M, 2003, ECOSYSTEMS, V6, P493, DOI 10.1007/s10021-002-0146-0
+   SCHEIN VE, 1975, J APPL PSYCHOL, V60, P340, DOI 10.1037/h0076637
+   Schneider M, 2003, AM J POLIT SCI, V47, P143, DOI 10.1111/1540-5907.00010
+   Scott KA, 2006, ORGAN BEHAV HUM DEC, V101, P230, DOI 10.1016/j.obhdp.2006.06.002
+   Shuster WD, 2014, LANDSCAPE URBAN PLAN, V125, P48, DOI 10.1016/j.landurbplan.2014.02.003
+   Shuster WD, 2015, CLEAN TECHNOL ENVIR, V17, P1393, DOI 10.1007/s10098-014-0886-5
+   Silvia C, 2010, LEADERSHIP QUART, V21, P264, DOI 10.1016/j.leaqua.2010.01.006
+   Simmel G., 1950, SOCIOLOGY G SIMMEL
+   Stein C, 2011, PHYS CHEM EARTH, V36, P1085, DOI 10.1016/j.pce.2011.07.083
+   Taggar S, 1999, PERS PSYCHOL, V52, P899, DOI 10.1111/j.1744-6570.1999.tb00184.x
+   Thompson M, 2012, CHILD AND ADOLESCENT MENTAL HEALTH: THEORY AND PRACTICE, 2ND EDITION, P6
+   Trochim W., 2015, RES METHODS ESSENTIA
+   Uhl-Bien M, 2006, LEADERSHIP QUART, V17, P654, DOI 10.1016/j.leaqua.2006.10.007
+   Uhl-Bien M, 2014, LEADERSHIP QUART, V25, P83, DOI 10.1016/j.leaqua.2013.11.007
+   US EPA, 2019, CLEAN WAT NEEDS SURV
+   Van Wart M., 2014, LEADERSHIP PUBLIC OR, DOI [10.4324/9781315702926, DOI 10.4324/9781315702926]
+   Vanek C, 2006, SURVEYGIZMO COMPUTER
+   Vörösmarty CJ, 2000, SCIENCE, V289, P284, DOI 10.1126/science.289.5477.284
+   Walters CJ, 2007, AMBIO, V36, P304, DOI 10.1579/0044-7447(2007)36[304:IAMHTS]2.0.CO;2
+   Westley FR, 2013, ECOL SOC, V18, DOI 10.5751/ES-05072-180327
+   White L, 2016, LEADERSHIP QUART, V27, P280, DOI 10.1016/j.leaqua.2016.01.004
+   Williams P, 2002, PUBLIC ADMIN, V80, P103, DOI 10.1111/1467-9299.00296
+   Zaccaro SJ, 2018, LEADERSHIP QUART, V29, P2, DOI 10.1016/j.leaqua.2017.10.003
+NR 129
+TC 11
+Z9 14
+U1 1
+U2 16
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD OCT 17
+PY 2019
+VL 14
+IS 10
+AR e0222434
+DI 10.1371/journal.pone.0222434
+PG 25
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA LM9KP
+UT WOS:000532567300010
+PM 31622342
+OA Green Published, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Almquist, ZW
+   Bagozzi, BE
+AF Almquist, Zack W.
+   Bagozzi, Benjamin E.
+TI Using Radical Environmentalist Texts to Uncover Network Structure and
+   Network Features
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+DE text networks; text analysis; topic modeling; social networks;
+   environmental networks
+ID TOPIC MODELS; SOCIAL NETWORKS; CENTRALITY; REGRESSION; CULTURE
+AB Radical social movements are broadly engaged in, and dedicated to, promoting change in their social environment. In their corresponding efforts to call attention to various causes, communicate with like-minded groups, and mobilize support for their activities, radical social movements also produce an enormous amount of text. These texts, like radical social movements themselves, are often (i) densely connected and (ii) highly variable in advocated protest activities. Given a corpus of radical social movement texts, can one uncover the underlying network structure of the radical activist groups involved in this movement? If so, can one then also identify which groups (and which subnetworks) are more prone to radical versus mainstream protest activities? Using a large corpus of British radical environmentalist texts (1992-2003), we seek to answer these questions through a novel integration of network discovery and unsupervised topic modeling. In doing so, we apply classic network descriptives (e.g., centrality measures) and more modern statistical models (e.g., exponential random graph models) to carefully parse apart these questions. Our findings provide a number of revealing insights into the networks and nature of radical environmentalists and their texts.
+C1 [Almquist, Zack W.] Univ Minnesota, Sch Stat, Dept Sociol, 909 Social Sci Bldg,267 19th Ave South, Minneapolis, MN 55455 USA.
+   [Almquist, Zack W.] Univ Minnesota, Minnesota Populat Ctr, Minneapolis, MN USA.
+   [Bagozzi, Benjamin E.] Univ Delaware, Dept Polit Sci & Int Relat, Newark, DE USA.
+C3 University of Minnesota System; University of Minnesota Twin Cities;
+   University of Minnesota System; University of Minnesota Twin Cities;
+   University of Delaware
+RP Almquist, ZW (corresponding author), Univ Minnesota, Sch Stat, Dept Sociol, 909 Social Sci Bldg,267 19th Ave South, Minneapolis, MN 55455 USA.
+EM almquist@umn.edu
+OI Almquist, Zack/0000-0002-1967-123X; Bagozzi,
+   Benjamin/0000-0002-6233-6453
+CR Ackerman GA, 2003, TERROR POLIT VIOLENC, V15, P143, DOI 10.1080/09546550390449935
+   Ackland R, 2011, SOC NETWORKS, V33, P177, DOI 10.1016/j.socnet.2011.03.001
+   Almquist ZW, 2018, STAT SINICA, V28, P1245, DOI 10.5705/ss.202016.0108
+   Almquist ZW, 2017, SOCIAL NETWORK ANALYSIS OF DISASTER RESPONSE, RECOVERY, AND ADAPTATION, P93, DOI 10.1016/B978-0-12-805196-2.00007-8
+   Almquist ZW, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0166609
+   Almquist ZW, 2014, SOCIOL METHODOL, V44, P273, DOI 10.1177/0081175013520159
+   Almquist ZW, 2013, POLIT ANAL, V21, P430, DOI 10.1093/pan/mpt016
+   Almquist ZW, 2012, SOC NETWORKS, V34, P493, DOI 10.1016/j.socnet.2012.03.002
+   Anderson BS, 1999, SOC NETWORKS, V21, P239, DOI 10.1016/S0378-8733(99)00011-8
+   [Anonymous], WORLD LIV DOCK SEEMS
+   [Anonymous], WORKING PAPER
+   [Anonymous], DO DIE VOIC EC RES
+   [Anonymous], 1998, STAT LEARNING THEORY
+   [Anonymous], PEOPL FEST
+   [Anonymous], LOND GREENP HIST PEA
+   [Anonymous], TELLING NEW STORIES
+   [Anonymous], PHYS REV A
+   [Anonymous], 2012, POLITICAL ANAL
+   [Anonymous], RECL FUT 5 RTF 5
+   [Anonymous], WORKSH DEM EXTR EUR
+   [Anonymous], TAL CONSP
+   [Anonymous], NO OPENCAST
+   [Anonymous], MEANWH W COUNTR
+   [Anonymous], EARTH 1 J
+   [Anonymous], J AM STAT ASS
+   [Anonymous], CONT POL EC OPP STRU
+   [Anonymous], RES ORGAN BEHAV
+   [Anonymous], ENV4CT970514 EUR COM
+   [Anonymous], MAKE ANOTHER WORLD S
+   [Anonymous], 1125 ROSS SCH BUS
+   [Anonymous], SOCIUS SOCIOLOGICAL, DOI [10.1177/2378023116634340, DOI 10.1177/2378023116634340]
+   [Anonymous], DIRECT ACTION BRIT E
+   [Anonymous], COMPUTER SCI DEP FAC
+   [Anonymous], INT TEMP DAY ACT
+   [Anonymous], 1994, SOCIAL NETWORK ANAL
+   [Anonymous], 2014 NE POL METH M N
+   [Anonymous], 2004, WOMEN HEALTH
+   [Anonymous], EPSA ANN CONV APR 3
+   [Anonymous], IREPORT ONL TERR HAT
+   Ansell C.K., 2003, Social movements and networks relational approaches to collective action, P123, DOI DOI 10.1093/0199251789.003.0006
+   Bagozzi BE, 2018, POLIT SCI RES METH, V6, P661, DOI 10.1017/psrm.2016.44
+   Bearman PS, 2000, POETICS, V27, P69, DOI 10.1016/S0304-422X(99)00022-4
+   Blee KM, 2010, ANNU REV SOCIOL, V36, P269, DOI 10.1146/annurev.soc.012809.102602
+   Blei DM, 2003, J MACH LEARN RES, V3, P993, DOI 10.1162/jmlr.2003.3.4-5.993
+   BONACICH P, 1972, J MATH SOCIOL, V2, P113, DOI 10.1080/0022250X.1972.9989806
+   Bonilla T, 2013, POETICS, V41, P650, DOI 10.1016/j.poetic.2013.06.003
+   Burris V, 2004, AM SOCIOL REV, V69, P239, DOI 10.1177/000312240406900205
+   Buttel F.H., 2004, Journal of World-Systems Research, V10, P37
+   Butts C. T., 2005, Computational & Mathematical Organization Theory, V11, P291, DOI 10.1007/s10588-005-5586-6
+   Butts C.T., 2008, J STAT SOFTW, V24, P1, DOI DOI 10.18637/JSS.V024.I02
+   Byrd ScottC., 2010, SOCIAL MOVEMENT STUD, V9, P355, DOI DOI 10.1080/14742837.2010.522305
+   Caiani M, 2009, INFORM COMMUN SOC, V12, P66, DOI 10.1080/13691180802158482
+   Chalecki E.L., 2002, Global Environmental Politics, V2, P46, DOI DOI 10.1162/152638002317261463
+   Chang J., 2009, P 12 INT C ART INT S, P81
+   Chang J, 2009, KDD-09: 15TH ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P169
+   Chen Z., 2013, P 23 INT JOINT C ART, P2071
+   Chesters G, 2011, ROUTL KEY GUIDES, P1
+   Clutterbuck S, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0085013
+   Cohen AM, 2005, BMC BIOINFORMATICS, V6, DOI 10.1186/1471-2105-6-103
+   Davidov D., 2007, Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL), P232
+   Della Porta D., 2006, Social movements, political violence, and the state: A comparative analysis of Italy and Germany
+   Diani Mario., 1995, GREEN NETWORKS STRUC
+   Dietz L., 2007, ICML, P233
+   DiMaggio P, 2013, POETICS, V41, P570, DOI 10.1016/j.poetic.2013.08.004
+   Downing J., 2001, RADICAL MEDIA REBELL
+   Fafchamps M, 2010, J EUR ECON ASSOC, V8, P203, DOI 10.1162/jeea.2010.8.1.203
+   Farrell J, 2015, PRINC STUD CULT, P1, DOI 10.1515/9781400866496
+   Farrell J, 2016, P NATL ACAD SCI USA, V113, P92, DOI 10.1073/pnas.1509433112
+   Fitzgerald KJ, 2000, SOCIOL QUART, V41, P573, DOI 10.1111/j.1533-8525.2000.tb00074.x
+   Foreman D., 1993, Ecodefense: A field guide to monkeywrenching
+   Fortunato S, 2010, PHYS REP, V486, P75, DOI 10.1016/j.physrep.2009.11.002
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   FREEMAN LC, 1994, SOC COGNITION, V12, P223, DOI 10.1521/soco.1994.12.3.223
+   FREEMAN LC, 1977, SOCIOMETRY, V40, P35, DOI 10.2307/3033543
+   Gallos LK, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.046116
+   Goodreau SM, 2009, DEMOGRAPHY, V46, P103, DOI 10.1353/dem.0.0045
+   Grimmer J, 2013, POLIT ANAL, V21, P267, DOI 10.1093/pan/mps028
+   Handcock Mark S, 2008, J Stat Softw, V24, P1548
+   Hunter DR, 2006, J COMPUT GRAPH STAT, V15, P565, DOI 10.1198/106186006X133069
+   Joekers ML, 2013, POETICS, V41, P750, DOI 10.1016/j.poetic.2013.08.005
+   Joosse P, 2007, TERROR POLIT VIOLENC, V19, P351, DOI 10.1080/09546550701424042
+   Jordan Matthew., 2009, Sophia, V12, P31, DOI DOI 10.5840/PHILO20091213
+   KING J, 1987, J INFORM SCI, V13, P261, DOI 10.1177/016555158701300501
+   KITSCHELT HP, 1986, BRIT J POLIT SCI, V16, P57, DOI 10.1017/S000712340000380X
+   Leader SH, 2003, TERROR POLIT VIOLENC, V15, P37, DOI 10.1080/09546550390449872
+   Light R, 2016, SCIENTOMETRICS, V107, P1227, DOI 10.1007/s11192-016-1933-2
+   MARSDEN PV, 1990, ANNU REV SOCIOL, V16, P435, DOI 10.1146/annurev.so.16.080190.002251
+   Marshall EA, 2013, POETICS, V41, P701, DOI 10.1016/j.poetic.2013.08.001
+   Martin JL, 2000, POETICS, V27, P195, DOI 10.1016/S0304-422X(99)00025-X
+   Matsuo Y., 2004, International Journal on Artificial Intelligence Tools (Architectures, Languages, Algorithms), V13, P157, DOI 10.1142/S0218213004001466
+   McCallum A, 2005, 19TH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI-05), P786
+   McFarland DA, 2013, POETICS, V41, P607, DOI 10.1016/j.poetic.2013.06.004
+   Miller IM, 2013, POETICS, V41, P626, DOI 10.1016/j.poetic.2013.06.005
+   MINTZ B, 1981, AM SOCIOL REV, V46, P851, DOI 10.2307/2095083
+   Mohr JW, 2013, POETICS, V41, P545, DOI 10.1016/j.poetic.2013.10.001
+   Mohr JW, 2013, POETICS, V41, P670, DOI 10.1016/j.poetic.2013.08.003
+   Mucha PJ, 2010, SCIENCE, V328, P876, DOI 10.1126/science.1184819
+   MULLINS NC, 1977, AM SOCIOL REV, V42, P552, DOI 10.2307/2094554
+   Naidu S, 2014, DIGIT EDUC REV, P1
+   OCallaghan D., 2013, PROC 5 ANN ACM WEB S, P276, DOI DOI 10.1145/2464464.2464495
+   PADGETT JF, 1993, AM J SOCIOL, V98, P1259, DOI 10.1086/230190
+   Papachristos AV, 2013, AM SOCIOL REV, V78, P417, DOI 10.1177/0003122413486800
+   Plows Alexandra., 2004, SOC MOVEMENT STUD, V3, P199, DOI [DOI 10.1080/1474283042000266128, 10.1080/1474283042000266128]
+   R Core Team, 2015, R LANG ENV STAT COMP
+   Roberts KM, 2016, CHALLENGES OF PARTY-BUILDING IN LATIN AMERICA, P51
+   Roberts Margaret., 2015, STM R PACKAGE STRUCT
+   Roberts ME, 2014, AM J POLIT SCI, V58, P1064, DOI 10.1111/ajps.12103
+   Robins G, 2007, SOC NETWORKS, V29, P192, DOI 10.1016/j.socnet.2006.08.003
+   ROMNEY AK, 1986, AM ANTHROPOL, V88, P313, DOI 10.1525/aa.1986.88.2.02a00020
+   Saunders C., 2007, Graduate Journal of Social Science, V4, P109
+   Saunders C., 2007, Social Movement Studies, V6, P227, DOI DOI 10.1080/14742830701777769
+   Schweinberger M, 2015, J R STAT SOC B, V77, P647, DOI 10.1111/rssb.12081
+   Seel B., 1997, ENVIRON POLIT, V6, P172
+   Simi P., 2015, American Swastika: Inside the White Power Movements Hidden Spaces of Hate, V2nd ed.
+   Smith B.L., 2009, CRIMINOL PUBLIC POL, V8, P475, DOI [10.1111/j.1745-9133.2009.00571.x, DOI 10.1111/J.1745-9133.2009.00571.X]
+   Tangherlini TR, 2013, POETICS, V41, P725, DOI 10.1016/j.poetic.2013.08.002
+   USDIKEN B, 1995, ORGAN STUD, V16, P503, DOI 10.1177/017084069501600306
+   Wall D., 1999, ENVIRON POLIT, V8, P81
+   Wall Derek., 1999, EARTH 1 ANTIROADS MO
+   Wimmer A, 2010, AM J SOCIOL, V116, P583, DOI 10.1086/653658
+NR 120
+TC 13
+Z9 15
+U1 1
+U2 25
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+EI 1552-8294
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD NOV
+PY 2019
+VL 48
+IS 4
+SI SI
+BP 905
+EP 960
+DI 10.1177/0049124117729696
+PG 56
+WC Social Sciences, Mathematical Methods; Sociology
+WE Social Science Citation Index (SSCI)
+SC Mathematical Methods In Social Sciences; Sociology
+GA IY1RC
+UT WOS:000486168400008
+OA Bronze
+DA 2024-11-22
+ER
+
+PT J
+AU Brask, JB
+   Croft, DP
+   Edenbrow, M
+   James, R
+   Bleakley, BH
+   Ramnarine, IW
+   Heathcote, RJP
+   Tyler, CR
+   Hamilton, PB
+   Dabelsteen, T
+   Darden, SK
+AF Brask, Josefine Bohr
+   Croft, Darren P.
+   Edenbrow, Mathew
+   James, Richard
+   Bleakley, Bronwyn H.
+   Ramnarine, Indar W.
+   Heathcote, Robert J. P.
+   Tyler, Charles R.
+   Hamilton, Patrick B.
+   Dabelsteen, Torben
+   Darden, Safi K.
+TI Evolution of non-kin cooperation: social assortment by cooperative
+   phenotype in guppies
+SO ROYAL SOCIETY OPEN SCIENCE
+LA English
+DT Article
+DE cooperation; assortment; guppy; social structure; social networks;
+   predator inspection
+ID TIT-FOR-TAT; POECILIA-RETICULATA; NETWORKS; RELATEDNESS; RECIPROCITY;
+   MOVEMENT; BEHAVIOR; STRATEGY; WALK
+AB Cooperation among non-kin constitutes a conundrum for evolutionary biology. Theory suggests that non-kin cooperation can evolve if individuals differ consistently in their cooperative phenotypes and assort socially by these, such that cooperative individuals interact predominantly with one another. However, our knowledge of the role of cooperative phenotypes in the social structuring of real-world animal populations is minimal. In this study, we investigated cooperative phenotypes and their link to social structure in wild Trinidadian guppies (Poecilia reticulata). We first investigated whether wild guppies are repeatable in their individual levels of cooperativeness (i.e. have cooperative phenotypes) and found evidence for this in seven out of eight populations, a result which was mostly driven by females. We then examined the social network structure of one of these populations where the expected fitness impact of cooperative contexts is relatively high, and found assortment by cooperativeness, but not by genetic relatedness. By contrast, and in accordance with our expectations, we did not find assortment by cooperativeness in a population where the expected fitness impact of cooperative contexts is lower. Our results provide empirical support for current theory and suggest that assortment by cooperativeness is important for the evolution and persistence of non-kin cooperation in real-world populations.
+C1 [Brask, Josefine Bohr; Croft, Darren P.; Edenbrow, Mathew; Heathcote, Robert J. P.; Darden, Safi K.] Univ Exeter, Coll Life & Environm Sci, Ctr Res Anim Behav, Exeter EX4 4QG, Devon, England.
+   [James, Richard] Univ Bath, Ctr Networks & Collect Behav, Bath BA2 7AY, Avon, England.
+   [James, Richard] Univ Bath, Dept Phys, Bath BA2 7AY, Avon, England.
+   [Bleakley, Bronwyn H.] Stonehill Coll, Dept Biol, Easton, MA 02357 USA.
+   [Ramnarine, Indar W.] Univ West Indies, Dept Life Sci, Trinidad & Tobago, St Augustine, Trinidad Tobago.
+   [Tyler, Charles R.; Hamilton, Patrick B.] Univ Exeter, Coll Life & Environm Sci, Dept Biosdences, Exeter EX4 4QD, Devon, England.
+   [Dabelsteen, Torben] Univ Copenhagen, Behav Ecol Grp, Dept Biol, DK-2100 COP Copenhagen Q, Denmark.
+C3 University of Exeter; University of Bath; University of Bath; University
+   West Indies Mona Jamaica; University West Indies Saint Augustine;
+   University of Exeter; University of Copenhagen
+RP Brask, JB; Darden, SK (corresponding author), Univ Exeter, Coll Life & Environm Sci, Ctr Res Anim Behav, Exeter EX4 4QG, Devon, England.
+EM bohrbrask@gmail.com; s.darden@exeter.ac.uk
+RI Heathcote, Robert/IAQ-9591-2023; James, Richard/E-5061-2013; Croft,
+   Darren Paul/B-5503-2009; Darden, Safi/C-5940-2016; Dabelsteen,
+   Torben/D-9854-2015
+OI Croft, Darren Paul/0000-0001-6869-5097; Darden,
+   Safi/0000-0002-2567-7902; Dabelsteen, Torben/0000-0001-7162-3924;
+   Hamilton, Patrick/0000-0001-9549-2033; Heathcote,
+   Robert/0000-0002-2327-1335
+FU University of Copenhagen; Carlsberg Foundation; Leverhulme Trust
+   [ECF/2010/0672, RPG-175]; Danish Council for Independent Research
+   [DFF-1323-00105]; NERC [NE/K004263/1, NE/L007371/1] Funding Source: UKRI
+FX J.B.B. was supported by a PhD stipend from the University of Copenhagen
+   and an internationalization postdoc fellowship from the Carlsberg
+   Foundation. S.K.D. and D.P.C. acknowledge funding from the Leverhulme
+   Trust (ECF/2010/0672 and RPG-175, respectively), and S.K.D., D.P.C. and
+   T.D. acknowledge funding from the Danish Council for Independent
+   Research (DFF-1323-00105).
+CR Aktipis CA, 2011, EVOL HUM BEHAV, V32, P263, DOI 10.1016/j.evolhumbehav.2011.01.002
+   Aktipis CA, 2004, J THEOR BIOL, V231, P249, DOI 10.1016/j.jtbi.2004.06.020
+   Apicella CL, 2012, NATURE, V481, P497, DOI 10.1038/nature10736
+   AXELROD R, 1981, SCIENCE, V211, P1390, DOI 10.1126/science.7466396
+   BENJAMINI Y, 1995, J R STAT SOC B, V57, P289, DOI 10.1111/j.2517-6161.1995.tb02031.x
+   Bergmüller R, 2010, PHILOS T R SOC B, V365, P2751, DOI 10.1098/rstb.2010.0124
+   Brask JB, 2012, P ROY SOC B-BIOL SCI, V279, P1748, DOI 10.1098/rspb.2011.2212
+   CAIRNS SJ, 1987, ANIM BEHAV, V35, P1454, DOI 10.1016/S0003-3472(87)80018-0
+   Cao L, 2011, J THEOR BIOL, V272, P8, DOI 10.1016/j.jtbi.2010.12.008
+   Croft DP, 2012, OECOLOGIA, V170, P955, DOI 10.1007/s00442-012-2379-8
+   Croft DP, 2006, BEHAV ECOL SOCIOBIOL, V59, P644, DOI 10.1007/s00265-005-0091-y
+   Croft DP, 2003, OECOLOGIA, V137, P62, DOI 10.1007/s00442-003-1268-6
+   Croft DP, 2003, OIKOS, V100, P429, DOI 10.1034/j.1600-0706.2003.12023.x
+   Croft DP, 2004, P ROY SOC B-BIOL SCI, V271, pS516, DOI 10.1098/rsbl.2004.0206
+   DUGATKIN LA, 1991, EVOL ECOL, V5, P300, DOI 10.1007/BF02214234
+   DUGATKIN LA, 1991, BEHAV ECOL SOCIOBIOL, V28, P243
+   DUGATKIN LA, 1988, BEHAV ECOL SOCIOBIOL, V23, P395, DOI 10.1007/BF00303714
+   Edenbrow M, 2017, AM NAT, V189, P630, DOI 10.1086/691386
+   ESHEL I, 1982, P NATL ACAD SCI-BIOL, V79, P1331, DOI 10.1073/pnas.79.4.1331
+   Farine DR, 2015, J ANIM ECOL, V84, P1144, DOI 10.1111/1365-2656.12418
+   Farine DR, 2014, ANIM BEHAV, V89, P141, DOI 10.1016/j.anbehav.2014.01.001
+   Fletcher JA, 2009, P ROY SOC B-BIOL SCI, V276, P13, DOI 10.1098/rspb.2008.0829
+   Gasparini C, 2013, P ROY SOC B-BIOL SCI, V280, DOI 10.1098/rspb.2012.3072
+   Griffiths SW, 1997, ANIM BEHAV, V53, P945, DOI 10.1006/anbe.1996.0315
+   HAMILTON WD, 1964, J THEOR BIOL, V7, P1, DOI [10.1016/0022-5193(64)90038-4, 10.1016/0022-5193(64)90039-6]
+   Jones KA, 2010, ETHOLOGY, V116, P147, DOI 10.1111/j.1439-0310.2009.01727.x
+   Krause J, 2015, ANIMAL SOCIAL NETWORKS, P1
+   LESSELLS CM, 1987, AUK, V104, P116, DOI 10.2307/4087240
+   Magurran A.E., 2005, Evolutionary ecology: the Trinidadian guppy, DOI 10.1093/acprof:oso/9780198527855.001.0001
+   Nowak MA, 1998, NATURE, V393, P573, DOI 10.1038/31225
+   Nowak MA, 2010, PHILOS T R SOC B, V365, P19, DOI 10.1098/rstb.2009.0215
+   Peakall R, 2006, MOL ECOL NOTES, V6, P288, DOI 10.1111/j.1471-8286.2005.01155.x
+   Pfeiffer T, 2005, P ROY SOC B-BIOL SCI, V272, P1115, DOI 10.1098/rspb.2004.2988
+   PITCHER TJ, 1986, J FISH BIOL, V28, P439, DOI 10.1111/j.1095-8649.1986.tb05181.x
+   Rankin DJ, 2009, EVOLUTION, V63, P1913, DOI 10.1111/j.1558-5646.2009.00656.x
+   RAYMOND M, 1995, J HERED, V86, P248, DOI 10.1093/oxfordjournals.jhered.a111573
+   Roca CP, 2009, PHYS LIFE REV, V6, P208, DOI 10.1016/j.plrev.2009.08.001
+   Rousset F, 2008, MOL ECOL RESOUR, V8, P103, DOI 10.1111/j.1471-8286.2007.01931.x
+   Santos FC, 2006, P ROY SOC B-BIOL SCI, V273, P51, DOI 10.1098/rspb.2005.3272
+   TRIVERS RL, 1971, Q REV BIOL, V46, P35, DOI 10.1086/406755
+   van Doorn GS, 2012, EVOLUTION, V66, P651, DOI 10.1111/j.1558-5646.2011.01479.x
+   Wang JL, 2011, MOL ECOL RESOUR, V11, P141, DOI 10.1111/j.1755-0998.2010.02885.x
+   Webster MM, 2011, BIOL REV, V86, P759, DOI 10.1111/j.1469-185X.2010.00169.x
+   2014, BEHAV ECOL, V25, P242, DOI DOI 10.1093/BEHECO/ART047
+   2006, PLOS COMPUT BIOL, V2, P1284, DOI DOI 10.1371/JOURNAL.PCBI.0020140
+   2015, ANIMAL SOCIAL NETWOR, P13
+   2007, PHYS REP, V446, P97, DOI DOI 10.1016/J.PHYSREP.2007.04.004
+   2009, BIOL LETT, V5, P462, DOI DOI 10.1098/RSBL.2009.0204
+   1992, ENVIRON BIOL FISH, V34, P265, DOI DOI 10.1007/BF00004773
+NR 49
+TC 27
+Z9 28
+U1 1
+U2 19
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 2054-5703
+J9 ROY SOC OPEN SCI
+JI R. Soc. Open Sci.
+PD JAN
+PY 2019
+VL 6
+IS 1
+AR 181493
+DI 10.1098/rsos.181493
+PG 11
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA HU6ZK
+UT WOS:000465430600057
+PM 30800389
+OA Green Published, Green Submitted, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Lindström, B
+   Golkar, A
+   Jangard, S
+   Tobler, PN
+   Olsson, A
+AF Lindstrom, Bjorn
+   Golkar, Armita
+   Jangard, Simon
+   Tobler, Philippe N.
+   Olsson, Andreas
+TI Social threat learning transfers to decision making in humans
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE social learning; decision making; Pavlovian instrumental transfer; fear;
+   reinforcement learning
+ID FEAR-RELEVANT; STIMULI; BEHAVIOR; ENHANCE; SYSTEMS; MODELS
+AB In today's world, mass-media and online social networks present us with unprecedented exposure to second-hand, vicarious experiences and thereby the chance of forming associations between previously innocuous events (e.g., being in a subway station) and aversive outcomes (e.g., footage or verbal reports from a violent terrorist attack) without direct experience. Such social threat, or fear, learning can have dramatic consequences, as manifested in acute stress symptoms and maladaptive fears. However, most research has so far focused on socially acquired threat responses that are expressed as increased arousal rather than active behavior. In three experiments (n = 120), we examined the effect of indirect experiences on behaviors by establishing a link between social threat learning and instrumental decision making. We contrasted learning from direct experience (i.e., Pavlovian conditioning) (experiment 1) against two common forms of social threat learning-social observation (experiment 2) and verbal instruction (experiment 3)-and how this learning transferred to subsequent instrumental decision making using behavioral experiments and computational modeling. We found that both types of social threat learning transfer to decision making in a strong and surprisingly inflexible manner. Notably, computational modeling indicated that the transfer of observational and instructed threat learning involved different computational mechanisms. Our results demonstrate the strong influence of others' expressions of fear on one's own decisions and have important implications for understanding both healthy and pathological human behaviors resulting from the indirect exposure to threatening events.
+C1 [Lindstrom, Bjorn] Univ Amsterdam, Dept Social Psychol, NL-1018 WT Amsterdam, Netherlands.
+   [Lindstrom, Bjorn; Tobler, Philippe N.] Univ Zurich, Dept Econ, Lab Social & Neural Syst Res, CH-8001 Zurich, Switzerland.
+   [Lindstrom, Bjorn; Golkar, Armita; Jangard, Simon; Olsson, Andreas] Karolinska Inst, Dept Clin Neurosci, Sect Psychol, S-17177 Stockholm, Sweden.
+   [Golkar, Armita] Univ Amsterdam, Dept Clin Psychol, NL-1018 WT Amsterdam, Netherlands.
+C3 University of Amsterdam; University of Zurich; Karolinska Institutet;
+   University of Amsterdam
+RP Lindström, B (corresponding author), Univ Amsterdam, Dept Social Psychol, NL-1018 WT Amsterdam, Netherlands.; Lindström, B (corresponding author), Univ Zurich, Dept Econ, Lab Social & Neural Syst Res, CH-8001 Zurich, Switzerland.; Lindström, B (corresponding author), Karolinska Inst, Dept Clin Neurosci, Sect Psychol, S-17177 Stockholm, Sweden.
+EM bjorn.r.lindstrom@gmail.com
+OI Jangard, Simon/0000-0002-7876-4161
+FU Knut and Alice Wallenberg Foundation [KAW 2014.0237]; Riksbankens
+   Jubileumsfond Grant [P11-1017]; European Research Council [284366];
+   Forte Grant [COFAS2: 2014-2785 FOIP]; Swedish Research Council
+   [2015-00312]; Swiss National Science Foundation [100014_165884,
+   100019_176016]; Vinnova [2015-00312] Funding Source: Vinnova; Swedish
+   Research Council [2015-00312] Funding Source: Swedish Research Council
+FX We thank Marc Guitart-Masip, Ida Selbing, and Philip Parnamets for
+   comments on an earlier version of the manuscript and Tove Hensler, Diana
+   Diaz Del Castillo, and Erik Enstrom for help with data collection. This
+   research was supported by Knut and Alice Wallenberg Foundation Grant KAW
+   2014.0237; Riksbankens Jubileumsfond Grant P11-1017; and Independent
+   Starting Grant 284366 (Emotional Learning in Social Interaction project)
+   from the European Research Council (to A.O.). B.L. was supported by
+   Forte Grant COFAS2: 2014-2785 FOIP; A.G. was supported by Swedish
+   Research Council Grant 2015-00312; and P. N. T. was supported by Swiss
+   National Science Foundation Grants 100014_165884 and 100019_176016.
+CR Askew C, 2008, CLIN PSYCHOL REV, V28, P1249, DOI 10.1016/j.cpr.2008.05.003
+   Atlas LY, 2018, LEARN MEMORY, V25, P100, DOI 10.1101/lm.046359.117
+   Atlas LY, 2016, ELIFE, V5, DOI 10.7554/eLife.15192
+   Bach DR, 2017, NAT REV NEUROSCI, V18, P311, DOI 10.1038/nrn.2017.35
+   Beckers T, 2013, BIOL PSYCHOL, V92, P90, DOI 10.1016/j.biopsycho.2011.12.015
+   Biele G, 2011, PLOS BIOL, V9, DOI 10.1371/journal.pbio.1001089
+   Biele G, 2009, COGNITIVE SCI, V33, P206, DOI 10.1111/j.1551-6709.2009.01010.x
+   Braem S, 2017, J NEUROSCI, V37, P8116, DOI 10.1523/JNEUROSCI.0908-17.2017
+   Cameron G, 2016, J BEHAV THER EXP PSY, V50, P106, DOI 10.1016/j.jbtep.2015.06.003
+   Cartoni E, 2016, NEUROSCI BIOBEHAV R, V71, P829, DOI 10.1016/j.neubiorev.2016.09.020
+   Clark JJ, 2012, CURR OPIN NEUROBIOL, V22, P1054, DOI 10.1016/j.conb.2012.06.004
+   COOK M, 1989, J ABNORM PSYCHOL, V98, P448, DOI 10.1037/0021-843X.98.4.448
+   Dayan P, 2006, NEURAL NETWORKS, V19, P1153, DOI 10.1016/j.neunet.2006.03.002
+   Debiec J, 2017, TRENDS COGN SCI, V21, P546, DOI 10.1016/j.tics.2017.04.010
+   Doll BB, 2009, BRAIN RES, V1299, P74, DOI 10.1016/j.brainres.2009.07.007
+   Funayama ES, 2001, J COGNITIVE NEUROSCI, V13, P721, DOI 10.1162/08989290152541395
+   Geurts DEM, 2013, J COGNITIVE NEUROSCI, V25, P1428, DOI 10.1162/jocn_a_00425
+   Guitart-Masip M, 2014, TRENDS COGN SCI, V18, P194, DOI 10.1016/j.tics.2014.01.003
+   Haaker J, 2017, NAT PROTOC, V12, P1378, DOI 10.1038/nprot.2017.027
+   Holman EA, 2014, P NATL ACAD SCI USA, V111, P93, DOI 10.1073/pnas.1316265110
+   Hopwood TL, 2017, PSYCHOL VIOLENCE, V7, P316, DOI 10.1037/vio0000056
+   Huang TR, 2013, J COGNITIVE NEUROSCI, V25, P843, DOI 10.1162/jocn_a_00365
+   Huys QJM, 2011, PLOS COMPUT BIOL, V7, DOI 10.1371/journal.pcbi.1002028
+   Koban L, 2017, NEUROSCI BIOBEHAV R, V81, P29, DOI 10.1016/j.neubiorev.2017.02.014
+   Laland KN, 2004, LEARN BEHAV, V32, P4
+   LeDoux JE, 2017, TRENDS COGN SCI, V21, P303, DOI 10.1016/j.tics.2017.02.004
+   Lewis AH, 2013, EUR J NEUROSCI, V38, P3740, DOI 10.1111/ejn.12377
+   Li JA, 2011, P NATL ACAD SCI USA, V108, P55, DOI 10.1073/pnas.1014938108
+   Lindström B, 2018, NEUROIMAGE, V167, P121, DOI 10.1016/j.neuroimage.2017.11.039
+   Lindström B, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0160245
+   Lindström B, 2015, EMOTION, V15, P668, DOI 10.1037/emo0000075
+   Lindström B, 2015, J EXP PSYCHOL GEN, V144, P688, DOI 10.1037/xge0000071
+   Olsson A, 2004, PSYCHOL SCI, V15, P822, DOI 10.1111/j.0956-7976.2004.00762.x
+   Olsson A, 2007, NAT NEUROSCI, V10, P1095, DOI 10.1038/nn1968
+   Phelps EA, 2001, NAT NEUROSCI, V4, P437, DOI 10.1038/86110
+   RACHMAN S, 1977, BEHAV RES THER, V15, P375, DOI 10.1016/0005-7967(77)90041-9
+   Rangel A, 2008, NAT REV NEUROSCI, V9, P545, DOI 10.1038/nrn2357
+   RESCORLA RA, 1967, PSYCHOL REV, V74, P151, DOI 10.1037/h0024475
+   Talmi D, 2008, J NEUROSCI, V28, P360, DOI 10.1523/JNEUROSCI.4028-07.2008
+NR 39
+TC 31
+Z9 32
+U1 2
+U2 25
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD MAR 5
+PY 2019
+VL 116
+IS 10
+BP 4732
+EP 4737
+DI 10.1073/pnas.1810180116
+PG 6
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA HN5RI
+UT WOS:000460242100112
+PM 30760585
+OA Green Published, hybrid
+DA 2024-11-22
+ER

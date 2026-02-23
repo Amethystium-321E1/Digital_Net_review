@@ -1,0 +1,474 @@
+
+PT J
+AU Liu, YF
+   Pi, DC
+   Cui, L
+AF Liu, Yufei
+   Pi, Dechang
+   Cui, Lin
+TI Mining Community-Level Influence in Microblogging Network: A Case Study
+   on Sina Weibo
+SO COMPLEXITY
+LA English
+DT Article
+ID SOCIAL NETWORK; PREDICTION
+AB Social influence analysis is important formany social network applications, including recommendation and cybersecurity analysis. We observe that the influence of community including multiple users outweighs the individual influence. Existing models focus on the individual influence analysis, but few studies estimate the community influence that is ubiquitous in online social network. A major challenge lies in that researchers need to take into account many factors, such as user influence, social trust, and user relationship, to model community-level influence. In this paper, aiming to assess the community-level influence effectively and accurately, we formulate the problem ofmodeling community influence and construct a community-level influence analysismodel. It first eliminates the zombie fans and then calculates the user influence. Next, it calculates the user final influence by combining the user influence and thewillingness of diffusing theme information. Finally, it evaluates the community influence by comprehensively studying the user final influence, social trust, and relationship tightness between intrausers of communities. To handle real-world applications, we propose a community-level influence analysis algorithm called CIAA. Empirical studies on a real-world dataset from SinaWeibo demonstrate the superiority of the proposed model.
+C1 [Liu, Yufei; Pi, Dechang; Cui, Lin] Nanjing Univ Aeronaut & Astronaut, Coll Comp Sci & Technol, Nanjing 211106, Jiangsu, Peoples R China.
+   [Pi, Dechang] Collaborat Innovat Ctr Novel Software Technol & I, Nanjing 211106, Jiangsu, Peoples R China.
+C3 Nanjing University of Aeronautics & Astronautics
+RP Pi, DC (corresponding author), Nanjing Univ Aeronaut & Astronaut, Coll Comp Sci & Technol, Nanjing 211106, Jiangsu, Peoples R China.; Pi, DC (corresponding author), Collaborat Innovat Ctr Novel Software Technol & I, Nanjing 211106, Jiangsu, Peoples R China.
+EM dc.pi@nuaa.edu.cn
+OI , cui/0000-0002-1001-7821; Pi, Dechang/0000-0002-6593-4563
+FU National Natural Science Foundation of China [U1433116, 61702355];
+   Fundamental Research Funds for the Central Universities [NP2017208];
+   Funding of Jiangsu Innovation Program for Graduate Education
+   [KYLX15_0324, KYLX15_0321]
+FX This work was supported in part by the National Natural Science
+   Foundation of China under Grants U1433116 and 61702355, in part by the
+   Fundamental Research Funds for the Central Universities under Grant
+   NP2017208, and in part by the Funding of Jiangsu Innovation Program for
+   Graduate Education under Grants KYLX15_0324 and KYLX15_0321.
+CR Almaatouq A, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0151588
+   Bale CSE, 2014, COMPLEXITY, V19, P83, DOI 10.1002/cplx.21523
+   Belák V, 2012, 2012 IEEE/ACM INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING (ASONAM), P171, DOI 10.1109/ASONAM.2012.38
+   Bodendorf F., 2009, Proceeding of the 2nd ACMworkshop on social web search and mining, P65, DOI DOI 10.1145/1651437.1651448
+   Chu Z, 2012, IEEE T DEPEND SECURE, V9, P811, DOI 10.1109/TDSC.2012.75
+   Cruz T, 2016, IEEE T IND INFORM, V12, P2236, DOI 10.1109/TII.2016.2599841
+   De Caux R, 2014, COMPLEXITY, V19, P44, DOI 10.1002/cplx.21528
+   De Meo P, 2015, IEEE T CYBERNETICS, V45, P205, DOI 10.1109/TCYB.2014.2323892
+   Dong CL, 2016, IEEE T NEUR NET LEAR, V27, P1615, DOI 10.1109/TNNLS.2016.2547339
+   Fang Q, 2014, IEEE T MULTIMEDIA, V16, P796, DOI 10.1109/TMM.2014.2298216
+   Ghadiyaram D, 2016, IEEE T IMAGE PROCESS, V25, P372, DOI 10.1109/TIP.2015.2500021
+   Gleich DF, 2015, SIAM REV, V57, P321, DOI 10.1137/140976649
+   Grindrod P, 2013, SIAM REV, V55, P118, DOI 10.1137/110855715
+   Hao F, 2012, IEEE GLOB COMM CONF, P470, DOI 10.1109/GLOCOM.2012.6503157
+   Hofman JM, 2017, SCIENCE, V355, P486, DOI 10.1126/science.aal3856
+   Kim D, 2017, INFORM SCIENCES, V394, P217, DOI 10.1016/j.ins.2017.02.023
+   Kourtellis N, 2015, IEEE T KNOWL DATA EN, V27, P2494, DOI 10.1109/TKDE.2015.2419666
+   La- zarsfeld P., 2006, PERSONAL INFLUENCE P
+   Latora V, 2007, NEW J PHYS, V9, DOI 10.1088/1367-2630/9/6/188
+   Li JX, 2014, EXPERT SYST APPL, V41, P5115, DOI 10.1016/j.eswa.2014.02.038
+   Liu HF, 2013, IEEE DATA MINING, P1133, DOI 10.1109/ICDM.2013.166
+   Liu YJ, 2014, DECIS SUPPORT SYST, V64, P118, DOI 10.1016/j.dss.2014.05.011
+   Liu YF, 2017, IEEE ACCESS, V5, P19342, DOI 10.1109/ACCESS.2017.2756102
+   Lohmann G, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0010232
+   Ma N, 2014, EXPERT SYST APPL, V41, P1357, DOI 10.1016/j.eswa.2013.08.033
+   Mehmood Yasir, 2013, Machine Learning and Knowledge Discovery in Databases. European Conference (ECML PKDD 2013). Proceedings: LNCS 8189, P48, DOI 10.1007/978-3-642-40991-2_4
+   Myers S, 2014, WWW'14: PROCEEDINGS OF THE 23RD INTERNATIONAL CONFERENCE ON WORLD WIDE WEB, P913, DOI 10.1145/2566486.2568043
+   Qi XQ, 2015, PATTERN RECOGN LETT, V58, P51, DOI 10.1016/j.patrec.2015.02.007
+   Sporns O, 2014, NAT NEUROSCI, V17, P652, DOI 10.1038/nn.3690
+   Tan SY, 2016, SCI REP-UK, V6, DOI 10.1038/srep22916
+   Tang XW, 2014, IEEE ACM T COMPUT BI, V11, P407, DOI 10.1109/TCBB.2013.2295318
+   Tarkowski MK, 2016, AAAI CONF ARTIF INTE, P622
+   Wang GJ, 2014, IEEE T PARALL DISTR, V25, P2286, DOI 10.1109/TPDS.2013.135
+   Wang JX, 2012, IEEE ACM T COMPUT BI, V9, P1070, DOI 10.1109/TCBB.2011.147
+   Wu J, 2018, IEEE T KNOWL DATA EN, V30, P1065, DOI 10.1109/TKDE.2017.2788430
+   Wu J, 2018, IEEE T NEUR NET LEAR, V29, P3236, DOI 10.1109/TNNLS.2017.2703832
+   Wu J, 2017, IEEE T CYBERNETICS, V47, P818, DOI 10.1109/TCYB.2016.2527239
+   Wu J, 2015, IEEE T CYBERNETICS, V45, P430, DOI 10.1109/TCYB.2014.2327111
+   Xiang B., 2013, P 23 INT JOINT C ART, P2740
+   Yan Q, 2013, PHYSICA A, V392, P1712, DOI 10.1016/j.physa.2012.12.008
+   Yao LN, 2015, IEEE T SERV COMPUT, V8, P453, DOI 10.1109/TSC.2014.2355842
+   Zhang QZ, 2018, WORLD WIDE WEB, V21, P849, DOI 10.1007/s11280-017-0486-5
+   Zhou C, 2015, IEEE T KNOWL DATA EN, V27, P2770, DOI 10.1109/TKDE.2015.2419659
+   Zhu LH, 2016, IEEE T KNOWL DATA EN, V28, P2765, DOI 10.1109/TKDE.2016.2591009
+   Zhu T, 2014, INFORM SCIENCES, V278, P535, DOI 10.1016/j.ins.2014.03.070
+NR 45
+TC 6
+Z9 6
+U1 0
+U2 26
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1076-2787
+EI 1099-0526
+J9 COMPLEXITY
+JI Complexity
+PY 2017
+AR 4783159
+DI 10.1155/2017/4783159
+PG 16
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Mathematics; Science & Technology - Other Topics
+GA FO6PD
+UT WOS:000416986600001
+OA Green Submitted, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Cook, JB
+   Schwadel, P
+   Cheadle, JE
+AF Cook, J. Benjamin
+   Schwadel, Philip
+   Cheadle, Jacob E.
+TI The Origins of Religious Homophily in a Medium and Large School
+SO REVIEW OF RELIGIOUS RESEARCH
+LA English
+DT Article
+DE Social networks; Religion; Adolescents; Schools; Social selection;
+   Social influence
+ID SOCIAL NETWORKS; FRIENDSHIP DYNAMICS; SELECTION; PARTICIPATION;
+   RECRUITMENT; ADOLESCENTS; CONVERSION; BEHAVIOR; MODEL
+AB How religion influences social interactions, and how social interactions influence religion, are fundamental questions to the sociology of religion. We address these processes and build on Cheadle and Schwadel's (Soc Sci Res 41: 1198-1212, 2012) analysis of selection and influence in religion-based social tie homogeneity (i.e. network-religion autocorrelation) in small schools by analyzing networks from larger schools, by focusing on differences across schools, and by testing different operationalizations of social influence. Using two waves of full network data from the National Longitudinal Study of Adolescent Health and dynamic longitudinal network SIENA models, we find (1) that both selection and influence impact network-religion autocorrelation; (2) that the factors influencing network-religion autocorrelation vary across school contexts; and (3) that religious influence is proportional to the number of friends in an adolescent's network, which means influence reflects both the size of an individual's network and the consistency of religion among members of the network. We conclude by addressing potential reasons for differences across school contexts and by discussing the theoretical logic behind the total similarity effect that best operationalized religious influence.
+C1 [Cook, J. Benjamin] Hudl, Lincoln, NE USA.
+   [Schwadel, Philip; Cheadle, Jacob E.] Univ Nebraska, Dept Sociol, 711 Oldfather Hall,POB 880324, Lincoln, NE 68588 USA.
+C3 University of Nebraska System; University of Nebraska Lincoln
+RP Schwadel, P (corresponding author), Univ Nebraska, Dept Sociol, 711 Oldfather Hall,POB 880324, Lincoln, NE 68588 USA.
+EM pschwadel2@unl.edu
+RI Schwadel, Philip/AAZ-6104-2021
+CR Adamczyk A, 2006, SOC SCI RES, V35, P924, DOI 10.1016/j.ssresearch.2005.04.003
+   [Anonymous], 2014, SHIFT REL ID LAT US
+   Boyatzis CJ, 2003, REV RELIG RES, V44, P252, DOI 10.2307/3512386
+   Cheadle JE, 2012, SOC MENT HEALTH, V2, P99, DOI 10.1177/2156869312445211
+   Cheadle Jacob E, 2013, Health (Irvine Calif), V5, P18
+   Cheadle JE, 2013, SOC SCI RES, V42, P1297, DOI 10.1016/j.ssresearch.2013.05.001
+   Cheadle JE, 2012, SOC SCI RES, V41, P1198, DOI 10.1016/j.ssresearch.2012.03.014
+   CORNWALL M, 1989, SOC FORCES, V68, P572, DOI 10.2307/2579261
+   Durkheim, 1995, ELEM FORMS RELIG LIF
+   EBAUGH HRF, 1984, REV RELIG RES, V26, P148, DOI 10.2307/3511699
+   Friemel TN, 2008, WHY CONTEXT MATTERS: APPLICATIONS OF SOCIAL NETWORK ANALYSIS, P9, DOI 10.1007/978-3-531-91184-7_1
+   Goodreau SM, 2009, DEMOGRAPHY, V46, P103, DOI 10.1353/dem.0.0045
+   Kiuru N, 2010, J ADOLESCENCE, V33, P801, DOI 10.1016/j.adolescence.2010.07.006
+   KOX W, 1991, SOCIOL ANAL, V52, P227, DOI 10.2307/3711359
+   Lim C, 2010, AM SOCIOL REV, V75, P914, DOI 10.1177/0003122410386686
+   LOFLAND J, 1965, AM SOCIOL REV, V30, P862, DOI 10.2307/2090965
+   Louch H, 2000, SOC NETWORKS, V22, P45, DOI 10.1016/S0378-8733(00)00015-0
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   MORAN PAP, 1950, BIOMETRIKA, V37, P17, DOI 10.1093/biomet/37.1-2.17
+   National Center for Education Statistics, INF PUBL SCH SCH DIS
+   Niebuhr H.Richard., 1929, SOCIAL SOURCES DENOM
+   Ripley RuthM., 2011, MANUAL RSIENA
+   Schwadel P, 2005, J SCI STUD RELIG, V44, P159, DOI 10.1111/j.1468-5906.2005.00273.x
+   Schwadel P, 2016, REV RELIG RES, V58, P305, DOI 10.1007/s13644-015-0237-y
+   Schwadel P, 2012, RES SOCIOL WORK, V23, P253, DOI 10.1108/S0277-2833(2012)0000023014
+   Schwadel P, 2011, SOC SCI RES, V40, P181, DOI 10.1016/j.ssresearch.2010.09.006
+   Schweinberger M, 2012, BRIT J MATH STAT PSY, V65, P263, DOI 10.1111/j.2044-8317.2011.02022.x
+   Sherkat D.E., 2003, HDB SOCIOLOGY RELIG, P151
+   Simmel G, 1905, AM J SOCIOL, V11, P359, DOI 10.1086/211407
+   Smith C, 2003, J SCI STUD RELIG, V42, P259, DOI 10.1111/1468-5906.00177
+   Smith Christian., 1998, AM EVANGELICALISM EM
+   Snijders T, 2007, EUR ASSOC METHODOL S, P41
+   SNOW DA, 1980, AM SOCIOL REV, V45, P787, DOI 10.2307/2094895
+   STARK R, 1980, AM J SOCIOL, V85, P1376, DOI 10.1086/227169
+   Steensland B, 2000, SOC FORCES, V79, P291, DOI 10.2307/2675572
+   Steglich C, 2010, SOCIOL METHODOL, V40, P329, DOI 10.1111/j.1467-9531.2010.01225.x
+   Urdy J.R., 2009, The national longitudinal study of adolescent health: research design
+   Vaisey S, 2010, SOC FORCES, V88, P1595
+   WHITE RH, 1968, PAC SOCIOL REV, V11, P23, DOI 10.2307/1388521
+   Wrzus C, 2013, PSYCHOL BULL, V139, P53, DOI 10.1037/a0028601
+   Wuthnow Robert., 1988, RESTRUCTURING AM REL
+   Wuthnow Robert., 2005, AM CHALLENGES RELIG
+NR 42
+TC 11
+Z9 14
+U1 3
+U2 9
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0034-673X
+EI 2211-4866
+J9 REV RELIG RES
+JI Rev. Relig. Res.
+PD MAR
+PY 2017
+VL 59
+IS 1
+BP 65
+EP 80
+DI 10.1007/s13644-016-0266-1
+PG 16
+WC Sociology; Religion
+WE Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Sociology; Religion
+GA EQ4WB
+UT WOS:000398080200005
+DA 2024-11-22
+ER
+
+PT J
+AU Gargiulo, F
+   Gandica, Y
+AF Gargiulo, Floriana
+   Gandica, Yerali
+TI The Role of Homophily in the Emergence of Opinion Controversies
+SO JASSS-THE JOURNAL OF ARTIFICIAL SOCIETIES AND SOCIAL SIMULATION
+LA English
+DT Article
+DE Opinion Controversies; Homophily; Network Communities; Media Pressure
+ID MASS-MEDIA; DYNAMICS; CONFIDENCE; ATTITUDES
+AB Understanding the emergence of strong controversial issues in modern societies is a key issue in opinion studies. A commonly diffused idea is the fact that the increasing of homophily in social networks, due to the modern ICT, can be a driving force for opinion polarization. In this paper we address the problem with a modelling approach following three basic steps. We first introduce a network morphogenesis model to reconstruct network structures where homophily can be tuned with a parameter. We show that as homophily increases the emergence of marked topological community structures in the networks raises. Secondly, we perform an opinion dynamics process on homophily dependent networks and we show that, contrary to the common idea, homophily helps consensus formation. Finally, we introduce a tunable external media pressure and we show that, actually, the combination of homophily and media makes the media effect less effective and leads to strongly polarized opinion clusters.
+C1 [Gargiulo, Floriana] Univ Paris Sorbonne, GEMASS, CNRS, 20 Rue Berbier du Mets, F-75013 Paris, France.
+   [Gandica, Yerali] Univ Namur, CeReFiM, 8 Rempart de la Vierge, B-5000 Namur, Belgium.
+   [Gandica, Yerali] Univ Namur, Namur Ctr Complex Syst NaXys, 8 Rempart de la Vierge, B-5000 Namur, Belgium.
+C3 Centre National de la Recherche Scientifique (CNRS); Sorbonne
+   Universite; University of Namur; University of Namur
+RP Gargiulo, F (corresponding author), Univ Paris Sorbonne, GEMASS, CNRS, 20 Rue Berbier du Mets, F-75013 Paris, France.
+EM floriana.gargiulo@gmail.com
+RI Gargiulo, Floriana/GYJ-8061-2022; GANDICA, YERALI/M-6261-2013
+OI GANDICA, YERALI/0000-0002-6262-1801
+CR [Anonymous], ARXIV150900189
+   Apolloni A, 2011, ADV COMPLEX SYST, V14, P151, DOI 10.1142/S0219525911003037
+   Barabasi L., 2007, REV MOD PHYS, V7, P47
+   Bianconi G, 2014, PHYS REV E, V90, DOI 10.1103/PhysRevE.90.042806
+   Blondel VD, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/10/P10008
+   Bramson A, 2016, J MATH SOCIOL, V40, P80, DOI 10.1080/0022250X.2016.1147443
+   Carletti T, 2006, EUROPHYS LETT, V74, P222, DOI 10.1209/epl/i2005-10536-9
+   Castellano C, 2009, REV MOD PHYS, V81, P591, DOI 10.1103/RevModPhys.81.591
+   Conover M.D., 2011, P INT AAAI C WEB SOC, P89
+   Deffuant G, 2000, APPLICATIONS OF SIMULATION TO SOCIAL SCIENCES, P87, DOI 10.1142/S0219525900000078
+   Delanoë A, 2014, PHYSICA A, V402, P93, DOI 10.1016/j.physa.2014.01.054
+   Festinger L, 1954, HUM RELAT, V7, P117, DOI 10.1177/001872675400700202
+   Flache Andress, 2006, PHYSICS0604196 ARXIV
+   Fortunato S, 2004, INT J MOD PHYS C, V15, P1301, DOI 10.1142/S0129183104006728
+   Fortunato S, 2010, PHYS REP, V486, P75, DOI 10.1016/j.physrep.2009.11.002
+   Gandica Y, 2011, PHYS REV E, V84, DOI 10.1103/PhysRevE.84.046109
+   Gargiulo F, 2012, ADV COMPLEX SYST, V15, DOI 10.1142/S0219525912500336
+   Gargiulo F, 2010, EPL-EUROPHYS LETT, V91, DOI 10.1209/0295-5075/91/58004
+   Gargiulo F, 2008, ARXIV08073937
+   Gargiulo F, 2008, JASSS-J ARTIF SOC S, V11
+   González-Avella JC, 2005, PHYS REV E, V72, DOI 10.1103/PhysRevE.72.065102
+   Groucutt J., 2004, Marketing: Essential Principles, New Realities
+   Hegselmann R, 2002, JASSS-J ARTIF SOC S, V5
+   Heider F, 1958, PSYCHOL INTERPERSONA
+   Heider F, 1946, J PSYCHOL, V21, P107, DOI 10.1080/00223980.1946.9917275
+   Iyengar S, 2009, J COMMUN, V59, P19, DOI 10.1111/j.1460-2466.2008.01402.x
+   Kozma B, 2008, PHYS REV E, V77, DOI 10.1103/PhysRevE.77.016102
+   Lazarsfeld P.F., 1954, Freedom and Control in Modern Society, P18, DOI DOI 10.1111/J.1467-8705.2012.02056_3.X
+   Lorenz J, 2007, INT J MOD PHYS C, V18, P1819, DOI 10.1142/S0129183107011789
+   Manzo G, 2014, WILEY SER COMPU QUAN, P1, DOI 10.1002/9781118762707
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mousavi Seyedreza, 2014, ROLE ONLINE SOCIAL N
+   Munniksma A, 2015, INT J INTERCULT REL, V44, P88, DOI 10.1016/j.ijintrel.2014.12.002
+   Neumann Peter R., 2013, INT AFFAIRS, V89
+   Newman MEJ, 2006, P NATL ACAD SCI USA, V103, P8577, DOI 10.1073/pnas.0601602103
+   Newman MEJ, 2012, NAT PHYS, V8, P25, DOI 10.1038/nphys2162
+   Pineda M, 2015, PHYSICA A, V420, P73, DOI 10.1016/j.physa.2014.10.089
+   Pulick E, 2016, JASSS-J ARTIF SOC S, V19, DOI 10.18564/jasss.3021
+   Rivera MT, 2010, ANNU REV SOCIOL, V36, P91, DOI 10.1146/annurev.soc.34.040507.134743
+   Stark TH, 2012, SOCIOL EDUC, V85, P179, DOI 10.1177/0038040711427314
+   Stehlé J, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0023176
+NR 41
+TC 20
+Z9 22
+U1 3
+U2 17
+PU J A S S S
+PI GUILDFORD
+PA UNIV SURREY, DEPT SOCIOLOGY, GUILDFORD GU2 7XH, SURREY, ENGLAND
+SN 1460-7425
+J9 JASSS-J ARTIF SOC S
+JI JASSS
+PD JUN 30
+PY 2017
+VL 20
+IS 3
+AR 8
+DI 10.18564/jasss.3448
+PG 18
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA FN6YQ
+UT WOS:000416163500012
+OA gold, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Liu, XY
+   Liu, C
+   Zeng, XP
+AF Liu, Xiaoyang
+   Liu, Chao
+   Zeng, Xiaoping
+TI Online Social Network Emergency Public Event Information Propagation and
+   Nonlinear Mathematical Modeling
+SO COMPLEXITY
+LA English
+DT Article
+ID COMPLEX NETWORKS; EPIDEMIC MODEL; WEIGHTED NETWORKS; DYNAMIC-MODEL;
+   THRESHOLD; MALWARE; CHARACTERIZE; TRANSMISSION; POPULATIONS; BEHAVIOR
+AB Emergency public event arises everyday on social network. The information propagation of emergency public event (favorable and harmful) is researched. The dynamics of a susceptible-infected-susceptible and susceptible-infected-removed epidemic models incorporated with information propagation of emergency public event are studied. In particular, we investigate the propagation model and the infection spreading pattern using nonlinear dynamic method and results obtained through extensive numerical simulations. We further generalize the model for any arbitrary number of infective network nodes to mimic existing scenarios in online social network. The simulation results reveal that the inclusion of multiple infective node achieved stability and equilibrium in the proposed information propagation model.
+C1 [Liu, Xiaoyang; Zeng, Xiaoping] Chongqing Univ, Postdoctoral Res Stn Informat & Commun Engn, Chongqing 400030, Peoples R China.
+   [Liu, Xiaoyang; Liu, Chao] Chongqing Univ Technol, Sch Comp Sci & Engn, Chongqing 400054, Peoples R China.
+C3 Chongqing University; Chongqing University of Technology
+RP Liu, XY (corresponding author), Chongqing Univ, Postdoctoral Res Stn Informat & Commun Engn, Chongqing 400030, Peoples R China.; Liu, XY (corresponding author), Chongqing Univ Technol, Sch Comp Sci & Engn, Chongqing 400054, Peoples R China.
+EM lxy3103@163.com
+FU Young Fund Project of Humanities and Social Sciences Research of
+   Ministry of Education of China [16YJC860010]; Chongqing Social Sciences
+   Planning Doctoral Project [2015BS059]; Science and Technology Research
+   Program of Chongqing Municipal Education Commission [KJ1600923,
+   KJ1709206]; Natural Science Foundation of China [61571069, 61501065,
+   61502064, 61503052, 91438104]; Chongqing Postdoctoral Researchers
+   Research Project Special Funded [Xm2015029]
+FX The paper was supported by Young Fund Project of Humanities and Social
+   Sciences Research of Ministry of Education of China (Grant no.
+   16YJC860010), Chongqing Social Sciences Planning Doctoral Project
+   (2015BS059), Science and Technology Research Program of Chongqing
+   Municipal Education Commission (Grants nos. KJ1600923 and KJ1709206),
+   Natural Science Foundation of China (61571069, 61501065, 61502064,
+   61503052, and 91438104), and Chongqing Postdoctoral Researchers Research
+   Project Special Funded (Xm2015029).
+CR Andrews MA, 2016, J THEOR BIOL, V395, P1, DOI 10.1016/j.jtbi.2016.01.027
+   Chen G, 2017, IEEE T SMART GRID, V8, P1026, DOI 10.1109/TSG.2016.2623980
+   Cherif A, 2017, NONLINEAR ANAL-REAL, V34, P275, DOI 10.1016/j.nonrwa.2016.09.006
+   Chowell G, 2016, PHYS LIFE REV, V18, P66, DOI 10.1016/j.plrev.2016.07.005
+   Di Giamberardino P, 2017, BIOMED SIGNAL PROCES, V31, P377, DOI 10.1016/j.bspc.2016.09.011
+   Feng Y, 2016, PHYSICA A, V463, P493, DOI 10.1016/j.physa.2016.07.072
+   Frasca M, 2016, J THEOR BIOL, V399, P13, DOI 10.1016/j.jtbi.2016.03.024
+   Greenhalgh D, 2016, PHYSICA A, V462, P684, DOI 10.1016/j.physa.2016.06.125
+   Hadeler KP, 2016, MATH BIOSCI, V281, P120, DOI 10.1016/j.mbs.2016.09.007
+   Kan JQ, 2017, COMMUN NONLINEAR SCI, V44, P193, DOI 10.1016/j.cnsns.2016.08.007
+   Langel SN, 2016, VIRUS RES, V226, P93, DOI 10.1016/j.virusres.2016.05.016
+   Lee HF, 2017, SOC SCI MED, V174, P53, DOI 10.1016/j.socscimed.2016.12.020
+   Li CJ, 2017, IEEE T SMART GRID, V8, P250, DOI 10.1109/TSG.2016.2521377
+   Li CJ, 2016, INFORM SCIENCES, V370, P667, DOI 10.1016/j.ins.2016.01.072
+   Li CJ, 2016, IEEE T IND INFORM, V12, P1775, DOI 10.1109/TII.2015.2479558
+   Li CJ, 2016, IEEE T NEUR NET LEAR, V27, P308, DOI 10.1109/TNNLS.2015.2496658
+   Li CJ, 2014, NEURAL NETWORKS, V54, P85, DOI 10.1016/j.neunet.2014.02.013
+   Li H., 2016, IEEE T NEURAL NETWOR, P1, DOI DOI 10.1109/JSTARS.2016.2584142
+   Li RQ, 2017, PHYSICA A, V467, P30, DOI 10.1016/j.Physa.2016.09.059
+   Liu WP, 2015, SPRINGER P MATH STAT, V150, P119, DOI 10.1007/978-3-319-24747-2_9
+   Liu WP, 2016, COMMUN NONLINEAR SCI, V37, P249, DOI 10.1016/j.cnsns.2016.01.019
+   Liu WP, 2016, APPL MATH MODEL, V40, P3141, DOI 10.1016/j.apm.2015.09.105
+   Maeno Y, 2016, PHYSICA A, V457, P73, DOI 10.1016/j.physa.2016.03.039
+   Malik HAM, 2017, APPL MATH MODEL, V43, P207, DOI 10.1016/j.apm.2016.10.060
+   Mishra S, 2016, ANN EPIDEMIOL, V26, P557, DOI 10.1016/j.annepidem.2016.06.004
+   Socievole A, 2016, COMPUT NETW, V103, P196, DOI 10.1016/j.comnet.2016.04.016
+   Wanduku D, 2017, APPL MATH COMPUT, V294, P49, DOI 10.1016/j.amc.2016.09.001
+   Wang LN, 2016, PHYSICA A, V457, P280, DOI 10.1016/j.physa.2016.03.111
+   Wen S, 2017, J NETW COMPUT APPL, V78, P288, DOI 10.1016/j.jnca.2016.10.018
+   Wu QC, 2017, CHAOS SOLITON FRACT, V96, P17, DOI 10.1016/j.chaos.2017.01.003
+   Wu QC, 2016, PHYSICA A, V453, P77, DOI 10.1016/j.physa.2016.02.036
+   Xiong F, 2017, COMMUN NONLINEAR SCI, V44, P513, DOI 10.1016/j.cnsns.2016.09.015
+   Yan JN, 2016, APPL SOFT COMPUT, V49, P224, DOI 10.1016/j.asoc.2016.08.017
+   Zhang TR, 2017, PHYSICA A, V470, P249, DOI 10.1016/j.physa.2016.11.143
+   Zhu GH, 2017, PHYSICA A, V468, P614, DOI 10.1016/j.physa.2016.10.064
+NR 35
+TC 12
+Z9 13
+U1 0
+U2 27
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1076-2787
+EI 1099-0526
+J9 COMPLEXITY
+JI Complexity
+PY 2017
+AR 5857372
+DI 10.1155/2017/5857372
+PG 7
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Mathematics; Science & Technology - Other Topics
+GA FA2MY
+UT WOS:000405276700001
+OA gold, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Pelled, A
+   Zilberstein, T
+   Tsirulnikov, A
+   Pick, E
+   Patkin, Y
+   Tal-Or, N
+AF Pelled, Ayellet
+   Zilberstein, Tanya
+   Tsirulnikov, Alona
+   Pick, Eran
+   Patkin, Yael
+   Tal-Or, Nurit
+TI Textual Primacy Online: Impression Formation Based on Textual and Visual
+   Cues in Facebook Profiles
+SO AMERICAN BEHAVIORAL SCIENTIST
+LA English
+DT Article
+DE CMC; online social networks; online literacy; online identity;
+   impression formation; textual primacy
+ID SELF-PRESENTATION; 1ST IMPRESSIONS; DISCLOSURE; EXPOSURE; FRIENDS;
+   WORDS; NEED
+AB The existing literature presents ambivalent evidence regarding the significance of visual cues, as opposed to textual cues, in the process of impression formation. While visual information may have a strong effect due to its vividness and immediate absorption, textual information might be more powerful due to its solid, unambiguous nature. This debate is particularly relevant in the context of online social networks, whose users share textual and visual elements. To explore our main research question, Which elements of one's Facebook profile have a more significant influence on impression formation of extroversionpictures or texts? we conducted two complementary online experiments, manipulating visual and textual cues inside and outside the context of Facebook. We then attempted to identify the relevant underlying mechanisms in impression formation. Our findings indicate that textual cues play a more dominant role online, whether via Facebook or not, supporting assertions of a new-media literacy that is text based. Additionally, we found the participants' level of need for cognition influenced the effect such that individuals with a high need for cognition placed more emphasis on textual cues. The number of likes was also a significant predictor of perceptions of the individuals' social orientation, especially when the other cues were ambiguous.
+C1 [Pelled, Ayellet] Univ Haifa, Dept Commun, Commun Res, Haifa, Israel.
+   [Zilberstein, Tanya; Patkin, Yael] Univ Haifa, Haifa, Israel.
+   [Tsirulnikov, Alona] Univ Haifa, Commun Res & Strateg Commun, Haifa, Israel.
+   [Pick, Eran; Tal-Or, Nurit] Univ Haifa, Dept Commun, Haifa, Israel.
+C3 University of Haifa; University of Haifa; University of Haifa;
+   University of Haifa
+RP Pelled, A (corresponding author), Univ Wisconsin, Sch Journalism & Mass Commun, 821 Univ Ave, Madison, WI 53706 USA.
+EM pelled@wisc.edu
+OI Zilberstein, Tanya/0000-0002-8004-4622
+CR Adaval R, 2007, J EXP SOC PSYCHOL, V43, P352, DOI 10.1016/j.jesp.2006.04.005
+   [Anonymous], 1997, MEMES TRANSLATION SP, DOI DOI 10.1075/BTL.22
+   Boyd DM, 2007, J COMPUT-MEDIAT COMM, V13, P210, DOI 10.1111/j.1083-6101.2007.00393.x
+   Braverman J, 2008, COMMUN RES, V35, P666, DOI 10.1177/0093650208321785
+   CACIOPPO JT, 1984, J PERS ASSESS, V48, P306, DOI 10.1207/s15327752jpa4803_13
+   Celli F., 2013, Social Networking: Recent Trends, Emerging Issues and Future Outlook, P41
+   Eftekhar A, 2014, COMPUT HUM BEHAV, V37, P162, DOI 10.1016/j.chb.2014.04.048
+   Blanco CF, 2010, EUR J INFORM SYST, V19, P668, DOI 10.1057/ejis.2010.42
+   Gibbs JL, 2011, COMMUN RES, V38, P70, DOI 10.1177/0093650210377091
+   Gillen J, 2013, LANG SCI, V35, P47, DOI 10.1016/j.langsci.2012.04.015
+   Hall JA, 2013, COMPUT HUM BEHAV, V29, P1556, DOI 10.1016/j.chb.2013.01.001
+   Hendry J., 2010, FACEBOOK COMMERCIALI
+   Hogan B., 2010, B SCI TECHNOL SOC, V30, P377, DOI DOI 10.1177/0270467610385893
+   Hollenbaugh EE, 2014, COMPUT HUM BEHAV, V30, P50, DOI 10.1016/j.chb.2013.07.055
+   HOWE CJ, 1989, BRIT J SOC PSYCHOL, V28, P263, DOI 10.1111/j.2044-8309.1989.tb00868.x
+   Hum NJ, 2011, COMPUT HUM BEHAV, V27, P1828, DOI 10.1016/j.chb.2011.04.003
+   JONES EE, 1965, ADV EXP SOC PSYCHOL, V2, P219
+   Kao DT, 2011, SCAND J PSYCHOL, V52, P329, DOI 10.1111/j.1467-9450.2011.00882.x
+   Lauricella AR, 2014, COMMUN RES REP, V31, P357, DOI 10.1080/08824096.2014.963221
+   McCrae RR, 2004, PERS INDIV DIFFER, V36, P587, DOI 10.1016/S0191-8869(03)00118-1
+   Mehdizadeh S, 2010, CYBERPSYCH BEH SOC N, V13, P357, DOI 10.1089/cyber.2009.0257
+   Milyavskaya M, 2010, J SOC PSYCHOL, V150, P689, DOI 10.1080/00224540903365406
+   Nadkarni A, 2012, PERS INDIV DIFFER, V52, P243, DOI 10.1016/j.paid.2011.11.007
+   NEUBERG SL, 1987, J PERS SOC PSYCHOL, V53, P431, DOI 10.1037/0022-3514.53.3.431
+   Pearson E, 2010, IFIP ADV INF COMM TE, V328, P118
+   Pelled Ayellet, 2016, P 7 2016 INT C SOC M, P1, DOI [10.1145/2930971.2930997, DOI 10.1145/2930971.2930997]
+   SHEPARD RN, 1967, J VERB LEARN VERB BE, V6, P156, DOI 10.1016/S0022-5371(67)80067-7
+   Stone A.R., 1995, WAR DESIRE TECHNOLOG
+   Thoresen JC, 2012, COGNITION, V124, P261, DOI 10.1016/j.cognition.2012.05.018
+   Tuunainen V. K., 2009, P 22 BLED ECONFERENC
+   Utz S, 2010, J COMPUT-MEDIAT COMM, V15, P314, DOI 10.1111/j.1083-6101.2010.01522.x
+   Van der Heide B, 2012, J COMMUN, V62, P98, DOI 10.1111/j.1460-2466.2011.01617.x
+   Walther JB, 2009, COMMUN RES, V36, P229, DOI 10.1177/0093650208330251
+   Walther JosephB., 1993, WESTERM J COMMUN, V57, P381, DOI [10.1080/10570319309374463, DOI 10.1080/10570319309374463]
+   Wang SS, 2010, COMPUT HUM BEHAV, V26, P226, DOI 10.1016/j.chb.2009.10.001
+   Wellman B., 2004, IDEAS, V1, P26
+   Willis J, 2006, PSYCHOL SCI, V17, P592, DOI 10.1111/j.1467-9280.2006.01750.x
+   Wilson D., 2014, AMCIS
+NR 38
+TC 10
+Z9 13
+U1 2
+U2 38
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0002-7642
+EI 1552-3381
+J9 AM BEHAV SCI
+JI Am. Behav. Sci.
+PD JUN
+PY 2017
+VL 61
+IS 7
+SI SI
+BP 672
+EP 687
+DI 10.1177/0002764217717563
+PG 16
+WC Psychology, Clinical; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology; Social Sciences - Other Topics
+GA FD6CY
+UT WOS:000407617700003
+DA 2024-11-22
+ER

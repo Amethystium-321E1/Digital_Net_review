@@ -1,0 +1,29 @@
+# Web of Science Search Strategy (v0.1)
+
+# Database: Web of Science Core Collection
+
+# Entitlements:
+
+- WOS.IC: 1993 to 2024
+- WOS.CCR: 1985 to 2024
+- WOS.SCI: 1900 to 2024
+- WOS.AHCI: 1975 to 2024
+- WOS.BHCI: 2005 to 2024
+- WOS.BSCI: 2005 to 2024
+- WOS.ESCI: 2005 to 2024
+- WOS.ISTP: 1990 to 2024
+- WOS.SSCI: 1900 to 2024
+- WOS.ISSHP: 1990 to 2024
+
+
+# Searches:
+
+Search: TS=("social network*") AND 
+TS=("digital network*" OR "online social network*" OR "virtual network*" OR "computer-mediated communication" OR "internet-based interaction*" OR
+"social network theor*" OR "network dynamic*" OR "tie formation" OR "micro-macro linkage*" OR "relational dynamic*" OR
+"information flow" OR "digital inequality" OR "algorithm* intervention*" OR "structural position*" OR "network structure*" OR 
+"information diffusion" OR "misinformation" OR "echo chamber*" OR "filter bubble*" OR "homophily" OR "brokerage") and Multidisciplinary Sciences or Sociology or Social Sciences Interdisciplinary or Social Sciences Mathematical Methods (Web of Science Categories) and Social Sciences Citation Index (SSCI) or Science Citation Index Expanded (SCI-EXPANDED) (Web of Science Index) and Multidisciplinary Sciences or Sociology or Social Sciences Interdisciplinary or Social Sciences Mathematical Methods or Mathematics Interdisciplinary Applications or Communication or Computer Science Interdisciplinary Applications (Web of Science Categories)				Date Run: Thu Nov 21 2024 16:59:24 GMT-0800 (PST)		Results: 1859
+
+# Query link:
+
+https://www.webofscience.com/wos/woscc/summary/d76d6d1f-6020-42cf-91b6-c24a7c6a6c0f-0129f5096b/times-cited-descending/1

@@ -1,0 +1,534 @@
+
+PT J
+AU Qiu, LR
+   Yu, J
+   Li, J
+   Jia, HR
+AF Qiu, Lirong
+   Yu, Jia
+   Li, Jie
+   Jia, Haoran
+TI Tibetan Weibo User Group Division Based on Semantic Information in the
+   Era of Big Data
+SO COMPLEXITY
+LA English
+DT Article
+AB In the era of big data, group division in online social network analysis is a basic task. It can be divided into the group division based on static relationship and the group division based on dynamic relationship. Compared with the static group division, users express their semantic information in all kinds of social network behaviors, and they tend to interact with other users who have the same idea and attitude; this is how different groups are formed. In this paper, aimed at the issue that some Tibetan users use Chinese to publish microblogs on social platforms, a group division method based on semantic information of Tibetan users under the big data environment is proposed. When dividing a large number of Tibetan user groups in a social network, a large amount of semantic information of Tibetan users in the social network is first analyzed. Then, based on the semantic similarity between users, we aggregate the Tibetan users with high similarities into one group, thus achieving the final group division. The experimental results illustrate the effectiveness of the method of analyzing Tibetan user semantic information in the context of big data for group partitioning.
+C1 [Qiu, Lirong; Yu, Jia; Li, Jie] Minzu Univ China, Sch Informat Engn, Beijing, Peoples R China.
+   [Jia, Haoran] Beijing Univ Posts & Telecommun, Int Sch, 10 Xitucheng Rd, Beijing 100876, Peoples R China.
+C3 Minzu University of China; Beijing University of Posts &
+   Telecommunications
+RP Qiu, LR (corresponding author), Minzu Univ China, Sch Informat Engn, Beijing, Peoples R China.
+EM qiu_lirong@126.com
+OI Yu, Jia/0000-0002-5642-2021
+FU National Nature Science Foundation of China [61672553]; Project of
+   Humanities and Social Sciences, China Ministry of Education
+   [16YJCZH076]; Open Project Fund of Key Laboratory of Trustworthy
+   Distributed Computing and Service (BUPT), Ministry of Education
+   [2018KF01]
+FX This work is supported by the National Nature Science Foundation of
+   China (no. 61672553) and the Project of Humanities and Social Sciences,
+   China Ministry of Education (Project no. 16YJCZH076) and is also
+   supported by the Open Project Fund of Key Laboratory of Trustworthy
+   Distributed Computing and Service (BUPT), Ministry of Education (Grant
+   no. 2018KF01).
+CR [Anonymous], 2010, P 1 WORKSH SOC MED A, DOI DOI 10.1145/1964858.1964870
+   [Anonymous], SOCIAL NETWORK ANAL
+   Evans TS, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.016105
+   Golbeck J., 2008, AAAI, V8, P1138
+   Hu B, 2012, 2012 IEEE/ACM INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING (ASONAM), P202, DOI 10.1109/ASONAM.2012.43
+   Kakisim A, 2015, SIG PROCESS COMMUN, P1521, DOI 10.1109/SIU.2015.7130135
+   Kianian S, 2016, J INF SCI, V42, P166, DOI 10.1177/0165551515592599
+   Mattingly M, 2016, P IEEE INT C E-SCI, P223, DOI 10.1109/eScience.2016.7870903
+   Natarajan Nagarajan, 2013, 2013 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), P82
+   Nocaj A., 2015, J GRAPH ALGORITHMS A, V19, P595, DOI [https://doi.org/10.7155/jgaa.00370, 10.7155/jgaa.00370]
+   Rios S. A., 2012, ISI KDD 12 P ACM SIG
+   Shenghuo Zhu, 2007, 30th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, P487
+   Steyvers Mark, 2004, P 10 ACM SIGKDD INT, V1990, P306, DOI [10.1145/1014052.1014087, 10.1145/1014052, DOI 10.1145/1014052]
+   Wang F, 2011, DATA MIN KNOWL DISC, V22, P493, DOI 10.1007/s10618-010-0181-y
+   Wang Q., 2017, MODERN COMPUTER, V12
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   [辛宇 Xin Yu], 2015, [自动化学报, Acta Automatica Sinica], V41, P1693
+   Xu W, 2003, P 26 SIGIR TOR ON CA, P267
+   Yang TB, 2009, KDD-09: 15TH ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P927
+   Zhuang JF, 2015, ACM T INTEL SYST TEC, V5, DOI 10.1145/2668110
+NR 20
+TC 0
+Z9 0
+U1 0
+U2 10
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1076-2787
+EI 1099-0526
+J9 COMPLEXITY
+JI Complexity
+PY 2018
+AR 5809043
+DI 10.1155/2018/5809043
+PG 11
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Mathematics; Science & Technology - Other Topics
+GA GQ8CU
+UT WOS:000441978900001
+OA Green Submitted, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Koskinen, J
+   Wang, P
+   Robins, G
+   Pattison, P
+AF Koskinen, Johan
+   Wang, Peng
+   Robins, Garry
+   Pattison, Philippa
+TI Outliers and Influential Observations in Exponential Random Graph Models
+SO PSYCHOMETRIKA
+LA English
+DT Article
+DE statistical analysis of social networks; exponential random graph
+   models; outliers; leverage; missing data principle; case deletion
+ID SOCIAL NETWORKS; NORMALIZING CONSTANTS; LOGISTIC REGRESSIONS;
+   MAXIMUM-LIKELIHOOD; LOGIT-MODELS; FAMILY; CONSISTENCY; INFERENCE
+AB We discuss measuring and detecting influential observations and outliers in the context of exponential family random graph (ERG) models for social networks. We focus on the level of the nodes of the network and consider those nodes whose removal would result in changes to the model as extreme or central with respect to the structural features that matter. We construe removal in terms of two case-deletion strategies: the tie-variables of an actor are assumed to be unobserved, or the node is removed resulting in the induced subgraph. We define the difference in inferred model resulting from case deletion from the perspective of information theory and difference in estimates, in both the natural and mean-value parameterisation, representing varying degrees of approximation. We arrive at several measures of influence and propose the use of two that do not require refitting of the model and lend themselves to routine application in the ERGM fitting procedure. MCMC p values are obtained for testing how extreme each node is with respect to the network structure. The influence measures are applied to two well-known data sets to illustrate the information they provide. From a network perspective, the proposed statistics offer an indication of which actors are most distinctive in the network structure, in terms of not abiding by the structural norms present across other actors.
+C1 [Koskinen, Johan] Univ Manchester, Manchester, Lancs, England.
+   [Koskinen, Johan; Robins, Garry] Univ Melbourne, Melbourne, Vic, Australia.
+   [Koskinen, Johan] Univ Linkoping, Linkoping, Sweden.
+   [Wang, Peng] Swinburne Univ Technol, Hawthorn, Vic, Australia.
+   [Pattison, Philippa] Univ Sydney, Sydney, NSW, Australia.
+C3 University of Manchester; University of Melbourne; Linkoping University;
+   Swinburne University of Technology; University of Sydney
+RP Koskinen, J (corresponding author), Univ Manchester, Mitchell Ctr Social Network Anal, Sch Social Sci, Manchester M13 9PL, Lancs, England.; Koskinen, J (corresponding author), Univ Manchester, Dept Social Stat, Sch Social Sci, Manchester M13 9PL, Lancs, England.
+EM johan.koskinen@manchester.ac.uk
+RI Wang, Peng/AAV-7760-2021
+OI Wang, Peng/0000-0002-7701-561X; Robins, Garry/0000-0001-7538-5804;
+   Pattison, Philippa/0000-0001-9626-2897; koskinen,
+   johan/0000-0002-6860-325X
+FU Leverhulme Trust [RPG-2013-140, SRG2012]
+FX Johan Koskinen would like to acknowledge financial support from the
+   Leverhulme Trust Grant RPG-2013-140 and SRG2012.
+CR Anderson BS, 1999, SOC NETWORKS, V21, P239, DOI 10.1016/S0378-8733(99)00011-8
+   [Anonymous], 2009, J JAY ARTIS TRANSNAT
+   [Anonymous], 2013, Exponential random graph models for social networks: Theory, methods, and applications, DOI DOI 10.1017/CBO9780511894701.015
+   [Anonymous], 2013, Theory, methods, and applications
+   [Anonymous], 2010, Statistical Methodology, DOI [DOI 10.1016/J.STAMET.2009.09.007, 10.1016/j.stamet.2009.09.007]
+   [Anonymous], 2001, The collegial phenomenon: The social mechanisms of cooperation among peers in a corporate law partnership
+   [Anonymous], 2014, MPNet: Program for the simulation and estimation of (p*) exponential random graph models for multilevel networks
+   [Anonymous], 2002, J. Social Struct
+   BARNDORFF-NIELSEN O., 1978, INFORM EXPONENTIAL F
+   Belsley D.A., 1980, Wiley Series in Probability and Mathematical Statistics, DOI DOI 10.1016/j.socscimed.2008.01.030
+   BESAG J, 1974, J ROY STAT SOC B MET, V36, P192
+   Block P, 2018, SOC NETWORKS, V52, P180, DOI 10.1016/j.socnet.2017.08.001
+   Borgatti SP, 2006, SOC NETWORKS, V28, P466, DOI 10.1016/j.socnet.2005.11.005
+   Chatterjee S., 2009, Sensitivity Analysis in Linear Regression
+   COOK RD, 1977, TECHNOMETRICS, V19, P15, DOI 10.2307/1268249
+   COOK RD, 1986, J ROY STAT SOC B MET, V48, P133
+   Corander J., 1998, 19988 STOCKH U DEP S
+   Corander J., 2002, CONTRIBUTIONS SOCIAL, P1
+   Crouch B., 1998, SUNB 18 5 EUR INT SO
+   Dahmstrom K., 1993, 19934 DEP STAT
+   FRANK O, 1986, J AM STAT ASSOC, V81, P832, DOI 10.2307/2289017
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   Gelman A, 1998, STAT SCI, V13, P163
+   Handcock M.S., 2003, 39 U WASH CTR STAT S
+   Handcock MS, 2010, ANN APPL STAT, V4, P5, DOI 10.1214/08-AOAS221
+   HINES RJO, 1992, J AM STAT ASSOC, V87, P1059, DOI 10.2307/2290643
+   HINES RJO, 1995, AM STAT, V49, P389, DOI 10.2307/2684582
+   HOLLAND PW, 1981, J AM STAT ASSOC, V76, P33, DOI 10.2307/2287037
+   Huisman M., 2014, Encyclopedia of Social Network Analysis and Mining, P707, DOI [10.21307/joss-2019-050, DOI 10.21307/JOSS-2019-050, DOI 10.1007/978-1-4614-6170-8_394]
+   Hunter DR, 2006, J COMPUT GRAPH STAT, V15, P565, DOI 10.1198/106186006X133069
+   Jonasson J, 1999, J APPL PROBAB, V36, P852, DOI 10.1239/jap/1032374639
+   Koskinen J, WILEY STATSREF STAT, DOI 10. 1002/9781118445112. stat08136 .
+   Koskinen J., 2013, Exponential Random Graph Models for Social Networks, P141, DOI DOI 10.1017/CBO9780511894701.014
+   Koskinen JH, 2013, SOC NETWORKS, V35, P514, DOI 10.1016/j.socnet.2013.07.003
+   Kuhnt S, 2004, SCAND J STAT, V31, P431, DOI 10.1111/j.1467-9469.2004.02_057.x
+   Laumann E., 1983, Applied Network Analysis, P18
+   LEE AH, 1988, BIOMETRICS, V44, P71, DOI 10.2307/2531896
+   Lehmann E.L., 1983, THEORY POINT ESTIMAT, DOI [10.1007/978-1-4757-2769-2, DOI 10.1007/978-1-4757-2769-2]
+   Lesaffre E, 1998, BIOMETRICS, V54, P570, DOI 10.2307/3109764
+   LESAFFRE E, 1989, APPL STAT-J ROY ST C, V38, P425, DOI 10.2307/2347731
+   LITTLE R. J. A., 1987, Wiley Series in Probability and Mathematical Statistics: Applied Probability and Statistics
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Meng XL, 1996, STAT SINICA, V6, P831
+   Neal R. M., 1993, CRGTR931 U TOR DEP S
+   Nomikos JM, 2007, INT J INTELL COUNTER, V20, P65, DOI 10.1080/08850600600888896
+   Pattison P, 1999, BRIT J MATH STAT PSY, V52, P169, DOI 10.1348/000711099159053
+   PIERCE DA, 1986, J AM STAT ASSOC, V81, P977, DOI 10.2307/2289071
+   PREGIBON D, 1981, ANN STAT, V9, P705, DOI 10.1214/aos/1176345513
+   Rhodes CJ, 2009, J OPER RES SOC, V60, P1373, DOI 10.1057/jors.2008.110
+   Robins G, 2005, AM J SOCIOL, V110, P894, DOI 10.1086/427322
+   Robins G, 2001, PSYCHOMETRIKA, V66, P161, DOI 10.1007/BF02294834
+   Robins G, 2001, SOC NETWORKS, V23, P1, DOI 10.1016/S0378-8733(01)00029-6
+   Robins G, 2007, SOC NETWORKS, V29, P169, DOI 10.1016/j.socnet.2006.08.004
+   Robins Garry., 2013, Exponential random graph models for social networks: theory, methods, and applications, P91, DOI [10.1017/CBO9780511894701.010, DOI 10.1017/CBO9780511894701.010]
+   RUBIN DB, 1976, BIOMETRIKA, V63, P581, DOI 10.2307/2335739
+   Schoch D., 2015, SIAM WORKSH NETW SCI
+   Schweinberger M., 2017, ARXIV170704800V1
+   Schweinberger M, 2011, J AM STAT ASSOC, V106, P1361, DOI 10.1198/jasa.2011.tm10747
+   Shalizi CR, 2013, ANN STAT, V41, P508, DOI 10.1214/12-AOS1044
+   Snijders T.A., 1999, Connections, V22, P161
+   Snijders TAB, 2006, SOCIOL METHODOL, V36, P99, DOI 10.1111/j.1467-9531.2006.00176.x
+   Snijders TAB, 2010, J MATH SOCIOL, V34, P239, DOI 10.1080/0022250X.2010.485707
+   STRAUSS D, 1986, SIAM REV, V28, P513, DOI 10.1137/1028156
+   van Duijn MAJ, 2009, SOC NETWORKS, V31, P52, DOI 10.1016/j.socnet.2008.10.003
+   Wang P, 2013, SOC NETWORKS, V35, P211, DOI 10.1016/j.socnet.2011.12.004
+   Wasserman S, 1996, PSYCHOMETRIKA, V61, P401, DOI 10.1007/BF02294547
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   WATERNAUX C, 1989, J AM STAT ASSOC, V84, P33, DOI 10.2307/2289844
+   WEISS RE, 1992, STAT MED, V11, P115, DOI 10.1002/sim.4780110110
+   WILLIAMS DA, 1987, APPL STAT-J ROY ST C, V36, P181, DOI 10.2307/2347550
+   Williams DA., 1984, P 12 INT BIOM C TOK, P59
+NR 71
+TC 13
+Z9 15
+U1 3
+U2 17
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN 0033-3123
+EI 1860-0980
+J9 PSYCHOMETRIKA
+JI Psychometrika
+PD DEC
+PY 2018
+VL 83
+IS 4
+BP 809
+EP 830
+DI 10.1007/s11336-018-9635-8
+PG 22
+WC Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods; Psychology, Mathematical
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Mathematical Methods In Social Sciences; Psychology
+GA HA2DO
+UT WOS:000450043100002
+PM 30229530
+DA 2024-11-22
+ER
+
+PT J
+AU Garcia, D
+   Goel, M
+   Agrawal, AK
+   Kumaraguru, P
+AF Garcia, David
+   Goel, Mansi
+   Agrawal, Amod Kant
+   Kumaraguru, Ponnurangam
+TI Collective aspects of privacy in the Twitter social network
+SO EPJ DATA SCIENCE
+LA English
+DT Article
+DE privacy; online social networks; location
+AB Preserving individual control over private information is one of the rising concerns in our digital society. Online social networks exist in application ecosystems that allow them to access data from other services, for example gathering contact lists through mobile phone applications. Such data access might allow social networking sites to create shadow profiles with information about non-users that has been inferred from information shared by the users of the social network. This possibility motivates the shadow profile hypothesis: the data shared by the users of an online service predicts personal information of non-users of the service. We test this hypothesis for the first time on Twitter, constructing a dataset of users that includes profile biographical text, location information, and bidirectional friendship links. We evaluate the predictability of the location of a user by using only information given by friends of the user that joined Twitter before the user did. This way, we audit the historical prediction power of Twitter data for users that had not joined Twitter yet. Our results indicate that information shared by users in Twitter can be predictive of the location of individuals outside Twitter. Furthermore, we observe that the quality of this prediction increases with the tendency of Twitter users to share their mobile phone contacts and is more accurate for individuals with more contacts inside Twitter. We further explore the predictability of biographical information of non-users, finding evidence in line with our results for locations. These findings illustrate that individuals are not in full control of their online privacy and that sharing personal data with a social networking site is a decision that is collectively mediated by the decisions of others.
+C1 [Garcia, David] Med Univ Vienna, Sect Sci Complex Syst, CeMSIIS, Spitalgasse 23, A-1090 Vienna, Austria.
+   [Garcia, David] Complex Sci Hub, Josefstaedterstr 39, A-1080 Vienna, Austria.
+   [Goel, Mansi; Agrawal, Amod Kant; Kumaraguru, Ponnurangam] IIIT Delhi, Okhla Ind Estate,Phase 3, New Delhi, India.
+C3 Medical University of Vienna; Indraprastha Institute of Information
+   Technology Delhi
+RP Garcia, D (corresponding author), Med Univ Vienna, Sect Sci Complex Syst, CeMSIIS, Spitalgasse 23, A-1090 Vienna, Austria.; Garcia, D (corresponding author), Complex Sci Hub, Josefstaedterstr 39, A-1080 Vienna, Austria.
+EM garcia@csh.ac.at
+RI Garcia, David/A-2113-2014
+OI Garcia, David/0000-0002-2820-9151
+FU ETH Foundation through the ETH Risk Center Seed Project "Systemic Risks
+   for Privacy in Online Interaction"; Vienna Science and Technology Fund
+   through the Vienna Research Group Grant "Emotional Well-Being in the
+   Digital Society" [VRG16-005]
+FX DG received funding from the ETH Foundation through the ETH Risk Center
+   Seed Project "Systemic Risks for Privacy in Online Interaction" and from
+   the Vienna Science and Technology Fund through the Vienna Research Group
+   Grant "Emotional Well-Being in the Digital Society" (VRG16-005).
+CR [Anonymous], 2016, AM FEEL TENSIONS PRI
+   [Anonymous], 1999, Code: And other laws of cyberspace
+   [Anonymous], SOCIAL COOLING
+   [Anonymous], ANGER MOUNTS FACEBOO
+   [Anonymous], 9 INT AAAI C WEB SOC
+   Backstrom L, 2014, Proceedings of the 17th ACM conference on Computer supported cooperative work social computing, P831
+   Boyd D, 2012, SURVEILL SOC, V10, P348
+   Garcia D, 2017, SCI ADV, V3, DOI 10.1126/sciadv.1701172
+   Garcia D, 2017, POLICY INTERNET, V9, P343, DOI 10.1002/poi3.151
+   Gonçalves B, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0022656
+   Greenwald Glenn, 2013, GUARDIAN        0607
+   Hill RA, 2003, HUM NATURE-INT BIOS, V14, P53, DOI 10.1007/s12110-003-1016-y
+   Horvát EA, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0034740
+   Jernigan C., 2009, First Monday, V14, DOI 10.5210/fm.v14i10.2611
+   Jurgens D., 2013, Proceedings of the International AAAI Conference on Web and Social Media, V7, P273, DOI [10.1609/icwsm.v7i1 .14399, 10.1609/icwsm.v7i1.14399, DOI 10.1609/ICWSM.V7I1.14399]
+   Jurgens D, 2017, WRITER PROFILING WRI, P537
+   Knibbs K, 2013, WHATS FACEBOOK SHADO
+   Kosinski M, 2013, P NATL ACAD SCI USA, V110, P5802, DOI 10.1073/pnas.1218772110
+   Le Q.V., 2014, INT C MACH LEARN, DOI [DOI 10.1145/2740908.2742760, 10.48550/arXiv.1405.4053]
+   Leetaru K., 2013, First Monday, V18
+   Liang J, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0145001
+   Mikolov T., 2013, ADV NEURAL INFORM PR, P3111, DOI DOI 10.5555/2999792.2999959
+   Mocanu D, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0061981
+   Pontes T., 2012, 4 INT WORKSH LOC BAS
+   PORTER MF, 1980, PROGRAM-AUTOM LIBR, V14, P130, DOI 10.1108/eb046814
+   Preibusch S, 2015, COMMUN ACM, V58, P48, DOI 10.1145/2663341
+   Rainie L.Duggan., 2016, PRIVACY INFORM SHARI
+   Rouvroy A, 2009, REINVENTING DATA PROTECTION, P45, DOI 10.1007/978-1-4020-9498-9_2
+   Sarigol E., 2014, Proceedings of the second ACM conference on Online social networks, P95
+   Smith C, 2016, FACEBOOK MOBILE STAT
+   Tufekci Z., 2014, P INT AAAI C WEB SOC
+   van Dijck J, 2015, SOC MEDIA SOC, V1, DOI DOI 10.1177/2056305115622482
+   Wu YY, 2015, P NATL ACAD SCI USA, V112, P1036, DOI 10.1073/pnas.1418680112
+   Zamal FA, 2012, P 6 INT AAAI C WEBL
+   Zheleva E., 2009, P 18 INT C WORLD WID, P531, DOI DOI 10.1145/1526709.1526781
+   Zhu JJH, 2011, SOC SCI COMPUT REV, V29, P327, DOI 10.1177/0894439310382512
+NR 36
+TC 20
+Z9 24
+U1 0
+U2 14
+PU SPRINGEROPEN
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON, N1 9XW, ENGLAND
+EI 2193-1127
+J9 EPJ DATA SCI
+JI EPJ Data Sci.
+PD JAN 18
+PY 2018
+VL 7
+AR 3
+DI 10.1140/epjds/s13688-018-0130-3
+PG 13
+WC Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Mathematical Methods In Social Sciences
+GA FT1VO
+UT WOS:000422925200001
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Bail, CA
+   Argyle, LP
+   Brown, TW
+   Bumpus, JP
+   Chen, HH
+   Hunzaker, MBF
+   Lee, J
+   Mann, M
+   Merhout, F
+   Volfovsky, A
+AF Bail, Christopher A.
+   Argyle, Lisa P.
+   Brown, Taylor W.
+   Bumpus, John P.
+   Chen, Haohan
+   Hunzaker, M. B. Fallin
+   Lee, Jaemin
+   Mann, Marcus
+   Merhout, Friedolin
+   Volfovsky, Alexander
+TI Exposure to opposing views on social media can increase political
+   polarization
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE political polarization; computational social science; social networks;
+   social media; sociology
+ID NETWORKS; FOUNDATIONS; ATTITUDES; LIBERALS; FEATHER; OPINION; BIRDS;
+   NEWS
+AB There is mounting concern that social media sites contribute to political polarization by creating "echo chambers" that insulate people from opposing views about current events. We surveyed a large sample of Democrats and Republicans who visit Twitter at least three times each week about a range of social policy issues. One week later, we randomly assigned respondents to a treatment condition in which they were offered financial incentives to follow a Twitter bot for 1 month that exposed them to messages from those with opposing political ideologies (e.g., elected officials, opinion leaders, media organizations, and nonprofit groups). Respondents were resurveyed at the end of the month to measure the effect of this treatment, and at regular intervals throughout the study period to monitor treatment compliance. We find that Republicans who followed a liberal Twitter bot became substantially more conservative posttreatment. Democrats exhibited slight increases in liberal attitudes after following a conservative Twitter bot, although these effects are not statistically significant. Notwithstanding important limitations of our study, these findings have significant implications for the interdisciplinary literature on political polarization and the emerging field of computational social science.
+C1 [Bail, Christopher A.; Brown, Taylor W.; Bumpus, John P.; Lee, Jaemin; Mann, Marcus; Merhout, Friedolin] Duke Univ, Dept Sociol, Durham, NC 27708 USA.
+   [Argyle, Lisa P.] Brigham Young Univ, Dept Polit Sci, Provo, UT 84602 USA.
+   [Chen, Haohan] Duke Univ, Dept Polit Sci, Durham, NC 27708 USA.
+   [Hunzaker, M. B. Fallin] NYU, Dept Sociol, New York, NY 10003 USA.
+   [Volfovsky, Alexander] Duke Univ, Dept Stat Sci, Durham, NC 27708 USA.
+C3 Duke University; Brigham Young University; Duke University; New York
+   University; Duke University
+RP Bail, CA (corresponding author), Duke Univ, Dept Sociol, Durham, NC 27708 USA.
+EM christopher.bail@duke.edu
+RI Lee, Jaemin/IWM-0007-2023; Merhout, Friedolin/AAB-6554-2022
+OI Merhout, Friedolin/0000-0003-3703-7651; Mann, Marcus/0000-0002-0803-9669
+FU Carnegie Foundation; Russell Sage Foundation; National Science
+   Foundation
+FX We thank Paul DiMaggio, Sunshine Hillygus, Gary King, Fan Li, Arthur
+   Lupia, Brendan Nyhan, and Samantha Luks for helpful conversations about
+   this study prior to our research. Our work was supported by the Carnegie
+   Foundation, the Russell Sage Foundation, and the National Science
+   Foundation.
+CR Abramowitz AI, 2008, J POLIT, V70, P542, DOI 10.1017/S0022381608080493
+   Achen C. H., 2016, DEMOCRACY REALISTS W
+   [Anonymous], 2018, UNCIVIL AGREEMENT PA
+   [Anonymous], 2016, ASYMMETRIC POLITICS
+   [Anonymous], 2016, POLIT BEHAV
+   Bail Christopher A., 2016, Terrified: How Anti-Muslim Fringe Organizations Become Mainstream
+   Bakshy E, 2015, SCIENCE, V348, P1130, DOI 10.1126/science.aaa1160
+   Baldassarri D, 2008, AM J SOCIOL, V114, P408, DOI 10.1086/590649
+   Baldassarri D, 2007, AM SOCIOL REV, V72, P784, DOI 10.1177/000312240707200507
+   Barberá P, 2015, POLIT ANAL, V23, P76, DOI 10.1093/pan/mpu011
+   Bennett WL, 2008, J COMMUN, V58, P707, DOI 10.1111/j.1460-2466.2008.00410.x
+   Berry JeffreyM., 2013, OUTRAGE IND POLITICA
+   Boxell L, 2017, P NATL ACAD SCI USA, V114, P10612, DOI 10.1073/pnas.1706588114
+   Broockman D, 2016, SCIENCE, V352, P220, DOI 10.1126/science.aad9713
+   Centola D, 2011, SCIENCE, V334, P1269, DOI 10.1126/science.1207055
+   Conover M.D., 2011, P INT AAAI C WEB SOC, P89
+   DellaPosta D, 2015, AM J SOCIOL, V120, P1473, DOI 10.1086/681254
+   DiMaggio P, 1996, AM J SOCIOL, V102, P690, DOI 10.1086/230995
+   Dimock M., 2014, Political polarization in the American public: How increasing ideological uniformity and partisan antipathy affect politics, compromise, and everyday life
+   Edelmann A, 2014, POETICS, V46, P22, DOI 10.1016/j.poetic.2014.08.001
+   Erikson RS, 1993, PUBLIC OPINION POLIC
+   Faris Robert., 2017, Berkman Klein Center Research Publication
+   Fiorina MP, 2008, ANNU REV POLIT SCI, V11, P563, DOI 10.1146/annurev.polisci.11.053106.153836
+   Fishkin J., 2011, When the people speak
+   Graham J, 2009, J PERS SOC PSYCHOL, V96, P1029, DOI 10.1037/a0015141
+   Grönlund K, 2015, POLIT BEHAV, V37, P995, DOI 10.1007/s11109-015-9304-x
+   Huckfeldt R., 2004, POLITICAL DISAGREEME
+   Iyengar S, 2015, AM J POLIT SCI, V59, P690, DOI 10.1111/ajps.12152
+   Jost JT, 2007, PERS SOC PSYCHOL B, V33, P989, DOI 10.1177/0146167207301028
+   King G, 2017, SCIENCE, V358, P776, DOI 10.1126/science.aao1100
+   Lazer D, 2010, POLIT COMMUN, V27, P248, DOI 10.1080/10584609.2010.500187
+   Lazer D, 2009, SCIENCE, V323, P721, DOI 10.1126/science.1167742
+   Levendusky M., 2009, The partisan sort: How liberals became Democrats and conservatives became Republicans
+   LORD CG, 1979, J PERS SOC PSYCHOL, V37, P2098, DOI 10.1037/0022-3514.37.11.2098
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mutz DC, 2002, AM POLIT SCI REV, V96, P111, DOI 10.1017/S0003055402004264
+   Nyhan B, 2010, POLIT BEHAV, V32, P303, DOI 10.1007/s11109-010-9112-2
+   Pariser Eli, 2011, FILTER BUBBLE WHAT I
+   Perrin A., 2015, SOCIAL MEDIA USAGE
+   Pettigrew TF, 2006, J PERS SOC PSYCHOL, V90, P751, DOI 10.1037/0022-3514.90.5.751
+   Prior M, 2013, ANNU REV POLIT SCI, V16, P101, DOI 10.1146/annurev-polisci-100711-135242
+   Sides J., 2015, POLITICAL POLARIZATI
+   Sunstein C., 2001, ECHO CHAMBERS BUSH V
+   Sunstein C.R. R., 2002, Republic.com
+   Taber CS, 2006, AM J POLIT SCI, V50, P755, DOI 10.1111/j.1540-5907.2006.00214.x
+   Vaisey S, 2010, SOC FORCES, V88, P1595
+NR 46
+TC 749
+Z9 906
+U1 43
+U2 498
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD SEP 11
+PY 2018
+VL 115
+IS 37
+BP 9216
+EP 9221
+DI 10.1073/pnas.1804840115
+PG 6
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA GT1SZ
+UT WOS:000444257200059
+PM 30154168
+OA Green Published, hybrid
+HC Y
+HP N
+DA 2024-11-22
+ER
+
+PT J
+AU Melamed, D
+   Harrell, A
+   Simpson, B
+AF Melamed, David
+   Harrell, Ashley
+   Simpson, Brent
+TI Cooperation, clustering, and assortative mixing in dynamic networks
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE altruism; cooperation; dynamic networks; network science; reputation
+ID INDIRECT RECIPROCITY; EVOLUTION; SELECTION; PROMOTE; HUMANS; GAMES
+AB Humans' propensity to cooperate is driven by our embeddedness in social networks. A key mechanism through which networks promote cooperation is clustering. Within clusters, conditional cooperators are insulated from exploitation by noncooperators, allowing them to reap the benefits of cooperation. Dynamic networks, where ties can be shed and new ties formed, allow for the endogenous emergence of clusters of cooperators. Although past work suggests that either reputation processes or network dynamics can increase clustering and cooperation, existing work on network dynamics conflates reputations and dynamics. Here we report results from a large-scale experiment (total n = 2,675) that embedded participants in clustered or random networks that were static or dynamic, with varying levels of reputational information. Results show that initial network clustering predicts cooperation in static networks, but not in dynamic ones. Further, our experiment shows that while reputations are important for partner choice, cooperation levels are driven purely by dynamics. Supplemental conditions confirmed this lack of a reputation effect. Importantly, we find that when participants make individual choices to cooperate or defect with each partner, as opposed to a single decision that applies to all partners (as is standard in the literature on cooperation in networks), cooperation rates in static networks are as high as cooperation rates in dynamic networks. This finding highlights the importance of structured relations for sustained cooperation, and shows how giving experimental participants more realistic choices has important consequences for whether dynamic networks promote higher levels of cooperation than static networks.
+C1 [Melamed, David] Ohio State Univ, Dept Sociol, Columbus, OH 43210 USA.
+   [Harrell, Ashley] Univ Michigan, Dept Org Studies, Ann Arbor, MI 48109 USA.
+   [Simpson, Brent] Univ South Carolina, Dept Sociol, Columbia, SC 29208 USA.
+C3 University System of Ohio; Ohio State University; University of Michigan
+   System; University of Michigan; University of South Carolina System;
+   University of South Carolina Columbia
+RP Melamed, D (corresponding author), Ohio State Univ, Dept Sociol, Columbus, OH 43210 USA.; Simpson, B (corresponding author), Univ South Carolina, Dept Sociol, Columbia, SC 29208 USA.
+EM melamed.9@osu.edu; bts@sc.edu
+OI Simpson, Brent/0000-0001-9468-157X
+FU US Army Research Office/Army Research Laboratory [W911-NF-15-1-0131]
+FX We thank Mark McKnight for programming assistance and granting us access
+   to Breadboard. The data reported in this paper are archived with Harvard
+   Dataverse. The research reported here was funded in whole under Award
+   W911-NF-15-1-0131 from the US Army Research Office/Army Research
+   Laboratory. The views expressed are those of the authors and should not
+   be attributed to the Army Research Office/Army Research Laboratory.
+CR Assenza S, 2008, PHYS REV E, V78, DOI 10.1103/PhysRevE.78.017101
+   Axelrod R., 1984, EVOLUTION COOPERATIO
+   Barclay P, 2013, EVOL HUM BEHAV, V34, P164, DOI 10.1016/j.evolhumbehav.2013.02.002
+   BOYD R, 1988, J THEOR BIOL, V132, P337, DOI 10.1016/S0022-5193(88)80219-4
+   Buhrmester M, 2011, PERSPECT PSYCHOL SCI, V6, P3, DOI 10.1177/1745691610393980
+   Coricelli G, 2004, J CONFLICT RESOLUT, V48, P356, DOI 10.1177/0022002704264143
+   Corten R, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0155703
+   Davidsen J, 2002, PHYS REV LETT, V88, DOI 10.1103/PhysRevLett.88.128701
+   Fehl K, 2011, ECOL LETT, V14, P546, DOI 10.1111/j.1461-0248.2011.01615.x
+   Gallo E, 2015, P NATL ACAD SCI USA, V112, P3647, DOI 10.1073/pnas.1415883112
+   GRANOVETTER M, 1985, AM J SOCIOL, V91, P481, DOI 10.1086/228311
+   Greif A, 2006, POLIT ECON I DECIS, P1, DOI 10.1017/CBO9780511791307
+   HAMILTON WD, 1964, J THEOR BIOL, V7, P17, DOI 10.1016/0022-5193(64)90039-6
+   Jordan JJ, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0066199
+   Kollock P, 1998, ANNU REV SOCIOL, V24, P183, DOI 10.1146/annurev.soc.24.1.183
+   Melamed D, 2017, SCI REP-UK, V7, DOI 10.1038/s41598-017-00265-x
+   Melamed D, 2016, SOC NETWORKS, V45, P32, DOI 10.1016/j.socnet.2015.11.001
+   Milinski M, 2002, NATURE, V415, P424, DOI 10.1038/415424a
+   Nakamaru M, 1997, J THEOR BIOL, V184, P65, DOI 10.1006/jtbi.1996.0243
+   Nowak MA, 1998, NATURE, V393, P573, DOI 10.1038/31225
+   NOWAK MA, 1992, NATURE, V359, P826, DOI 10.1038/359826a0
+   Nowak MA, 2006, SCIENCE, V314, P1560, DOI 10.1126/science.1133755
+   Ohtsuki H, 2006, J THEOR BIOL, V239, P435, DOI 10.1016/j.jtbi.2005.08.008
+   Rand DG, 2014, P NATL ACAD SCI USA, V111, P17093, DOI 10.1073/pnas.1400406111
+   Rand DG, 2013, TRENDS COGN SCI, V17, P413, DOI 10.1016/j.tics.2013.06.003
+   Rand DG, 2011, P NATL ACAD SCI USA, V108, P19193, DOI 10.1073/pnas.1108243108
+   Rand DG, 2012, J THEOR BIOL, V299, P172, DOI 10.1016/j.jtbi.2011.03.004
+   Roberts G, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0129442
+   Shirado H, 2013, NAT COMMUN, V4, DOI 10.1038/ncomms3814
+   Sylwester K, 2010, BIOL LETTERS, V6, P659, DOI 10.1098/rsbl.2010.0209
+   Traulsen A, 2006, P NATL ACAD SCI USA, V103, P10952, DOI 10.1073/pnas.0602530103
+   TRIVERS RL, 1971, Q REV BIOL, V46, P35, DOI 10.1086/406755
+   van Dolder D, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0092276
+   Wang J, 2012, P NATL ACAD SCI USA, V109, P14363, DOI 10.1073/pnas.1120867109
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Weinberg JD, 2014, SOCIOL SCI, V1, P292, DOI 10.15195/v1.a19
+   WILSON DS, 1975, P NATL ACAD SCI USA, V72, P143, DOI 10.1073/pnas.72.1.143
+   Yamagishi T., 1994, Social dilemmas and cooperation, P233
+   Yamagishi T, 2012, P NATL ACAD SCI USA, V109, P20364, DOI 10.1073/pnas.1212126109
+NR 39
+TC 46
+Z9 54
+U1 2
+U2 48
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD JAN 30
+PY 2018
+VL 115
+IS 5
+BP 951
+EP 956
+DI 10.1073/pnas.1715357115
+PG 6
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA FU3CZ
+UT WOS:000423728800049
+PM 29339478
+OA Green Published, Bronze
+DA 2024-11-22
+ER

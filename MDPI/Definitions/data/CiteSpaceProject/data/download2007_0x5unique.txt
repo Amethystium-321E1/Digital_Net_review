@@ -1,0 +1,470 @@
+
+PT J
+AU Kao, RR
+   Green, DM
+   Johnson, J
+   Kiss, IZ
+AF Kao, Rowland R.
+   Green, Darren M.
+   Johnson, Jethro
+   Kiss, Istvan Z.
+TI Disease dynamics over very different time-scales: foot-and-mouth disease
+   and scrapie on the network of livestock movements in the UK
+SO JOURNAL OF THE ROYAL SOCIETY INTERFACE
+LA English
+DT Article
+DE livestock; foot-and-mouth disease; prion; social network; epidemiology
+ID GREAT-BRITAIN; DESCRIPTIVE EPIDEMIOLOGY; COMMUNITY STRUCTURE; SHEEP;
+   TRANSMISSION; OUTBREAK; BSE; EVOLUTION; SPREAD
+AB We analyse the relationship between the network of livestock movements in the UK and the dynamics of two diseases: foot-and-mouth disease (FMD), which has an incubation period of days, and scrapie, which incubates over years. For FMD, the time-scale of expected epidemics is similar to the time-scale of the evolution of the network. We argue that, under appropriate conditions, a static network analysis can be an appropriate tool for gaining insights into disease dynamics even when the relevant time-scales are similar, as with FMD. We show that a subclass of 'linkage moves' maintains the network structure, and so removing these links has a dramatic effect on the number of potentially infected farms, an effect corroborated by simulations. In contrast, because scrapie has a low probability of transmission per contact and a long incubation period, a static network representation is probably appropriate; however, the signature of the network in the pattern of transmission is likely to be faint. Scrapie-notifying farms were more likely to be associated with each other via trading at markets than were control farms; however, network community structure proves to be less representative of prevalence patterns than geographical region. These contradictory indicators emphasize that appropriate observation time frames and good discrimination among types of potentially infectious contacts are vital in order for network analysis to be a valuable epidemiological tool.
+C1 Univ Auckland, Sch Biol Sci, Auckland 92019, New Zealand.
+   Univ Sussex, Dept Math, Brighton BN1 9RF, E Sussex, England.
+   Univ Oxford, Dept Zool, Oxford, England.
+C3 University of Auckland; University of Sussex; University of Oxford
+RP Kao, RR (corresponding author), Univ Glasgow, Fac Vet Med, Inst Comparat Med, Glasgow G61 1QH, Lanark, Scotland.
+EM r.kao@vet.gla.ac.uk
+RI Green, Darren/I-6436-2012; Kiss, Istvan/C-7392-2014
+OI Green, Darren/0000-0001-9026-5675; Kao, Rowland/0000-0003-0919-6401;
+   Kiss, Istvan/0000-0003-1473-6644
+CR Albert R, 2000, NATURE, V406, P378, DOI 10.1038/35019019
+   Anderson I., 2002, Foot mouth disease 2001: lessons to be learned inquiry report
+   ANDERSON I, 1992, INFECTIOUS DIS HUMAN
+   Barrat A, 2004, P NATL ACAD SCI USA, V101, P3747, DOI 10.1073/pnas.0400087101
+   Benestad SL, 2003, VET REC, V153, P202, DOI 10.1136/vr.153.7.202
+   Bruce ME, 1997, NATURE, V389, P498, DOI 10.1038/39057
+   Cohen R, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.036113
+   Cottam EM, 2006, J VIROL, V80, P11274, DOI 10.1128/JVI.01236-06
+   Eloit M, 2005, VET REC, V156, P523, DOI 10.1136/vr.156.16.523-b
+   Eubank S, 2004, NATURE, V429, P180, DOI 10.1038/nature02541
+   Ferguson NM, 2001, SCIENCE, V292, P1155, DOI 10.1126/science.1061020
+   Ghani AC, 1997, SEX TRANSM DIS, V24, P45, DOI 10.1097/00007435-199701000-00009
+   Gibbens JC, 2001, VET REC, V149, P729, DOI 10.1136/vr.149.24.729
+   Girvan M, 2002, P NATL ACAD SCI USA, V99, P7821, DOI 10.1073/pnas.122653799
+   Green DM, 2006, P ROY SOC B-BIOL SCI, V273, P2729, DOI 10.1098/rspb.2006.3648
+   Gubbins S, 2005, PREV VET MED, V67, P143, DOI 10.1016/j.prevetmed.2004.08.007
+   Hagenaars TJ, 2003, EPIDEMIOL INFECT, V131, P1015, DOI 10.1017/S0950268803001055
+   Hagenaars TJ, 2006, EPIDEMIOL INFECT, V134, P359, DOI 10.1017/S0950268805004966
+   Haydon DT, 2004, NAT REV MICROBIOL, V2, P675, DOI 10.1038/nrmicro960
+   Hill AF, 1997, NATURE, V389, P448, DOI 10.1038/38925
+   Hoinville LJ, 1996, REV SCI TECH OIE, V15, P827, DOI 10.20506/rst.15.3.959
+   Hoinville LJ, 2000, VET REC, V146, P455, DOI 10.1136/vr.146.16.455
+   Houston F, 2003, NATURE, V423, P498, DOI 10.1038/423498a
+   Huerta R, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.056115
+   Kao R. R., 2007, P R SOC B, V273, P1999, DOI DOI 10.1098/RSPB.2006.3505
+   Kao RR, 2006, J THEOR BIOL, V242, P634, DOI 10.1016/j.jtbi.2006.04.003
+   Kao RR, 2003, J GEN VIROL, V84, P3503, DOI 10.1099/vir.0.19184-0
+   Kao RR, 2002, TRENDS MICROBIOL, V10, P279, DOI 10.1016/S0966-842X(02)02371-5
+   Kao RR, 2002, SCIENCE, V295, P332, DOI 10.1126/science.1067475
+   Kao RR, 2001, MATH BIOSCI, V174, P61, DOI 10.1016/S0025-5564(01)00082-7
+   Keeling MJ, 2001, SCIENCE, V294, P813, DOI 10.1126/science.1065973
+   Kiss IZ, 2006, J R SOC INTERFACE, V3, P669, DOI 10.1098/rsif.2006.0129
+   Kiss IZ, 2005, P ROY SOC B-BIOL SCI, V272, P1407, DOI 10.1098/rspb.2005.3092
+   Le Dur A, 2005, P NATL ACAD SCI USA, V102, P16031, DOI 10.1073/pnas.0502296102
+   Liljeros F, 2001, NATURE, V411, P907, DOI 10.1038/35082140
+   McLean AR, 1999, P ROY SOC B-BIOL SCI, V266, P2531, DOI 10.1098/rspb.1999.0956
+   Meyers LA, 2005, J THEOR BIOL, V232, P71, DOI 10.1016/j.jtbi.2004.07.026
+   Meyers LA, 2003, EMERG INFECT DIS, V9, P204, DOI 10.3201/eid0902.020188
+   Morris RS, 2001, VET REC, V149, P137, DOI 10.1136/vr.149.5.137
+   Newman MEJ, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.026113
+   Ortiz-Pelaez A, 2006, PREV VET MED, V76, P40, DOI 10.1016/j.prevetmed.2006.04.007
+   Palla G, 2005, NATURE, V435, P814, DOI 10.1038/nature03607
+   Race R, 1998, J INFECT DIS, V178, P949, DOI 10.1086/515669
+   Reichl L.E., 1980, A Modern Course in Statistical Mechanics
+   Robinson SE, 2007, J R SOC INTERFACE, V4, P669, DOI 10.1098/rsif.2007.0214
+   Robinson Susan E, 2006, BMC Vet Res, V2, P11, DOI 10.1186/1746-6148-2-11
+   Schwartz N, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.015104
+   Shirley MDF, 2005, EPIDEMIOL INFECT, V133, P1023, DOI 10.1017/S095026880500453X
+   Trapman P, 2007, THEOR POPUL BIOL, V71, P160, DOI 10.1016/j.tpb.2006.11.002
+   WATTS CH, 1992, MATH BIOSCI, V108, P89, DOI 10.1016/0025-5564(92)90006-I
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   WEBB CR, 2006, EPIDEMIOL INFECT, V134, P3140, DOI DOI 10.1017/S0905026880500467X
+NR 52
+TC 130
+Z9 139
+U1 0
+U2 25
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 1742-5689
+EI 1742-5662
+J9 J R SOC INTERFACE
+JI J. R. Soc. Interface
+PD OCT 22
+PY 2007
+VL 4
+IS 16
+BP 907
+EP 916
+DI 10.1098/rsif.2007.1129
+PG 10
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 209XU
+UT WOS:000249422100013
+PM 17698478
+OA hybrid, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Chiang, YS
+AF Chiang, Yen-Sheng
+TI Birds of moderately different feathers: Bandwagon dynamics and the
+   threshold heterogeneity of network neighbors
+SO JOURNAL OF MATHEMATICAL SOCIOLOGY
+LA English
+DT Article; Proceedings Paper
+CT 99th Annual Meeting of the American-Sociological-Association
+CY AUG 14-17, 2004
+CL San Francisco, CA
+SP Amer Sociol Assoc
+DE bandwagon; heterogeneity; interdependence; network; simulation;
+   threshold
+ID COLLECTIVE ACTION; DIFFUSION; INNOVATIONS; POPULATION; CASCADES;
+   BEHAVIOR; FADS
+AB This paper investigates bandwagon dynamics in social networks, using an extension of Granovetter's (1978) threshold model. The focus is on the pattern of social ties connecting actors with different participation thresholds. A benchmark model, in which actors' thresholds are similar to their neighbors' thresholds, is built from the principle of homophily. Computational experiments show that participation levels increase when network structure departs from pure homophily, such that actors have new neighbors with discrepant thresholds. Further increasing the heterogeneity of network neighbors causes the bandwagon effects to wane, however, suggesting that bandwagon dynamics are maximized when there is a balance of heterogeneity and homogeneity in social networks. This principle is consistent with insights from several empirical studies and consistent with the conclusions of other formal models.
+C1 Univ Washington, Dept Sociol, Seattle, WA 98195 USA.
+C3 University of Washington; University of Washington Seattle
+RP Chiang, YS (corresponding author), Univ Washington, Dept Sociol, 202 Savery Hall,Box 353340, Seattle, WA 98195 USA.
+EM yen506@u.washington.edu
+FU Direct For Social, Behav & Economic Scie [0747733] Funding Source:
+   National Science Foundation
+CR Abrahamson E, 1997, ORGAN SCI, V8, P289, DOI 10.1287/orsc.8.3.289
+   [Anonymous], 1999, Small Worlds
+   Bikhchandani S, 1998, J ECON PERSPECT, V12, P151, DOI 10.1257/jep.12.3.151
+   Boyd R, 2002, J THEOR BIOL, V215, P287, DOI 10.1006/jtbi.2001.2515
+   BRAUN N, 1995, RATION SOC, V7, P167, DOI 10.1177/1043463195007002005
+   Chwe MSY, 1999, AM J SOCIOL, V105, P128, DOI 10.1086/210269
+   Elias Norbert., 1978, The History of Manners
+   Goyal S, 1996, J INST THEOR ECON, V152, P472
+   GRANOVETTER M, 1978, AM J SOCIOL, V83, P1420, DOI 10.1086/226707
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   HEDSTROM P, 1994, AM J SOCIOL, V99, P1157, DOI 10.1086/230408
+   Hedstrom P., 1998, SOCIAL MECH
+   Kohler H.P., 2001, FERTILITY SOCIAL INT
+   Krackhardt D, 1997, J MATH SOCIOL, V22, P177, DOI 10.1080/0022250X.1997.9990200
+   KRASSA MA, 1988, SOC NETWORKS, V10, P109, DOI 10.1016/0378-8733(88)90018-4
+   Lofland John., 1978, CONVERSION CAREERS
+   MACY MW, 1991, AM SOCIOL REV, V56, P730, DOI 10.2307/2096252
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Munshi K, 2004, J DEV ECON, V73, P185, DOI 10.1016/j.jdeveco.2003.03.003
+   OLIVER P, 1985, AM J SOCIOL, V91, P522, DOI 10.1086/228313
+   Rohlfs JH, 2003, BANDWAGON EFFECTS IN HIGH TECHNOLOGY INDUSTRIES, P1
+   SCHELLIGN T, 1978, MCIROMOTIVES MACROBE
+   Stark Rodney., 1996, The Rise of Christianity
+   Strang D, 2001, AM J SOCIOL, V107, P147, DOI 10.1086/323039
+   Unger JB, 2002, J YOUTH ADOLESCENCE, V31, P147, DOI 10.1023/A:1014074027415
+   Valente TW, 1996, SOC NETWORKS, V18, P69, DOI 10.1016/0378-8733(95)00256-1
+   Watts DJ, 2002, P NATL ACAD SCI USA, V99, P5766, DOI 10.1073/pnas.082090499
+   Yin CC, 1998, PUBLIC CHOICE, V97, P535, DOI 10.1023/A:1004921725560
+NR 28
+TC 27
+Z9 28
+U1 1
+U2 11
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 0022-250X
+EI 1545-5874
+J9 J MATH SOCIOL
+JI J. Math. Sociol.
+PD JAN-MAR
+PY 2007
+VL 31
+IS 1
+BP 47
+EP 69
+DI 10.1080/00222500601013536
+PG 23
+WC Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods; Sociology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI); Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Mathematics; Mathematical Methods In Social Sciences; Sociology
+GA 118VM
+UT WOS:000242971600002
+DA 2024-11-22
+ER
+
+PT J
+AU Weare, C
+   Loges, WE
+   Oztas, N
+AF Weare, Christopher
+   Loges, William E.
+   Oztas, Nail
+TI Email effects on the structure of local associations: A social network
+   analysis
+SO SOCIAL SCIENCE QUARTERLY
+LA English
+DT Article
+ID INTERNET CONNECTEDNESS; CENTRALITY; PROVISION; WORK
+AB Objectives. This article explores the impact of email on the network structure of small, voluntary associations. By focusing on the density and centralization of associations, we illuminate how the Internet affects their cohesiveness and democratic character. Methods. Based on network data collected from 41 community-based associations that are comparable on a variety of factors known to influence network structure, we employ multiple regression techniques to explore the impact of increased email use on group- and individual-level network measures. Results. We find that the technological nature of email as well as the background, interests, and intentions of its users interact to influence density and centralization. Individuals employ electronic mail differently from other communication modes such as phone and face-to-face communication. Network density increases, and network centralization either increases or decreases, depending on the distribution of email use in the association. Conclusions. These effects on associational structure are likely to have significant long-run impacts on the cohesion, efficacy, and democratic character of voluntary associations.
+C1 Univ So Calif, Sch Policy Planning & Dev, Los Angeles, CA 90089 USA.
+   Oregon State Univ, Corvallis, OR 97331 USA.
+   Gazi Univ, Ankara, Turkey.
+C3 University of Southern California; Oregon State University; Gazi
+   University
+RP Weare, C (corresponding author), Univ So Calif, Sch Policy Planning & Dev, Los Angeles, CA 90089 USA.
+EM weare@usc.edu
+CR Ahuja MK, 1999, ORGAN SCI, V10, P741, DOI 10.1287/orsc.10.6.741
+   [Anonymous], 1977, SOCIAL IMPACT TELEPH
+   BELL D., 1974, The coming of the post industrial society: a venture in social forecasting
+   Beniger J., 1986, CONTROL REVOLUTION T
+   Bikson T.K., 1990, INTELLECTUAL TEAMWOR, P245
+   Brass D., 1995, Research in personnel and human resources management, P39
+   BURT DS, 2000, RES ORG BEHAV, V22
+   Cason TN, 1999, J DEV ECON, V58, P533, DOI 10.1016/S0304-3878(98)00124-2
+   Castells M., 2011, RISE NETWORK SOC
+   Coleman J.S., 1994, FDN SOCIAL THEORY
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   Contractor Noshir, 2003, Theories of Communication Networks
+   Costenbader E, 2003, SOC NETWORKS, V25, P283, DOI 10.1016/S0378-8733(03)00012-1
+   Czitrom DanielJ., 1982, Media and the American Mind: From Morse to McLuhan
+   DiMaggio P, 2001, ANNU REV SOCIOL, V27, P307, DOI 10.1146/annurev.soc.27.1.307
+   Eisenstein E.L., 1980, The printing press as an agent of change, VVolume 1, DOI DOI 10.1017/CBO9781107049963
+   Fischer Claude., 1992, America Calling: a Social History of the Telephone to 1940
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   HANNAN MT, 1977, AM J SOCIOL, V82, P929, DOI 10.1086/226424
+   HECKATHORN DD, 1993, AM SOCIOL REV, V58, P329, DOI 10.2307/2095904
+   Huckfeldt R., 2004, POLITICAL DISAGREEME
+   IBARRA H, 1993, ACAD MANAGE J, V36, P471, DOI 10.5465/256589
+   Innis H., 1951, BIAS COMMUNICATION
+   Jung JY, 2001, COMMUN RES, V28, P507, DOI 10.1177/009365001028004006
+   Katz J. E., 2002, Social consequences of Internet use: access, involvement, and interaction
+   KRACKHARDT D, 1988, SOC NETWORKS, V10, P359, DOI 10.1016/0378-8733(88)90004-4
+   Krackhardt D., 1994, ADV SOCIAL NETWORK A, P207
+   Loges WE, 2001, COMMUN RES, V28, P536, DOI 10.1177/009365001028004007
+   MACY MW, 1991, AM SOCIOL REV, V56, P730, DOI 10.2307/2096252
+   Mutz DC, 2002, AM POLIT SCI REV, V96, P111, DOI 10.1017/S0003055402004264
+   O'Mahony S, 1999, RES ORGAN BEHAV, V21, P125
+   POOL TD, 1983, TECHNOLOGIES FREEDOM
+   RETHEMEYER RK, 2002, THESIS HARVARD U
+   Rheingold H., 1993, VIRTUAL COMMUNITY HO
+   Rogers E., 2003, DIFFUSION INNOVATION
+   SCOTT J, 1988, SOCIOLOGY, V22, P109, DOI 10.1177/0038038588022001007
+   SELL J, 1991, SOC FORCES, V70, P107, DOI 10.2307/2580064
+   Shklovski I., 2006, COMPUTERS PHONES INT
+   Skocpol Theda., 1999, CIVIC ENGAGEMENT AM, P461
+   SPROULL L, 1986, MANAGE SCI, V32, P1492, DOI 10.1287/mnsc.32.11.1492
+   Sproull L., 1991, Connections: New Ways of Working in the Networked Organization
+   Verba S., 1995, VOICE EQUALITY CIVIC
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   Weare C., 2002, INT J PUBLIC ADMIN, V25, P659, DOI DOI 10.1081/PAD-120003294
+   Wellman B, 1996, ANNU REV SOCIOL, V22, P213, DOI 10.1146/annurev.soc.22.1.213
+   Wellman B., 2002, The Internet in everyday life
+   Wood AndrewF., 2001, ONLINE COMMUNICATION
+NR 48
+TC 13
+Z9 15
+U1 2
+U2 8
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0038-4941
+EI 1540-6237
+J9 SOC SCI QUART
+JI Soc. Sci. Q.
+PD MAR
+PY 2007
+VL 88
+IS 1
+BP 222
+EP 243
+DI 10.1111/j.1540-6237.2007.00455.x
+PG 22
+WC Political Science; Sociology
+WE Social Science Citation Index (SSCI)
+SC Government & Law; Sociology
+GA 126IZ
+UT WOS:000243507900013
+DA 2024-11-22
+ER
+
+PT J
+AU Friedman, SR
+   Reynolds, J
+   Quan, MA
+   Call, S
+   Crusto, CA
+   Kaufman, JS
+AF Friedman, Stacey R.
+   Reynolds, Jesse
+   Quan, Michael A.
+   Call, Stephanie
+   Crusto, Cindy A.
+   Kaufman, Joy S.
+TI Measuring changes in interagency collaboration: An examination of the
+   Bridgeport safe start initiative
+SO EVALUATION AND PROGRAM PLANNING
+LA English
+DT Article
+DE interagency collaboration; social network analysis; system of care
+ID HEALTH-PROMOTION; COORDINATION; SYSTEMS; CARE
+AB This paper describes the evaluation of interagency collaboration in a network of child-serving providers as part of the evaluation of the Bridgeport Safe Start Initiative (BSSI). In line with the system of care approach, the objectives of BSSI included reducing fragmentation of efforts and delivering integrated services to families of young children exposed to or at risk of exposure to family violence. Interagency collaboration was examined via social network and focus group data collected at three time points starting at baseline. Network analysis findings suggest that over time the network structure became consistent with BSSI's vision of an ideal collaborative network structure. Focus group findings, however, present a more complex picture of the status of collaboration. This paper sheds light on approaches and challenges to measuring interagency collaboration in a service delivery system and communicating social network analysis findings to stakeholders in a way that is accessible and useful. (C) 2007 Elsevier Ltd. All rights reserved.
+C1 Yale Univ, Sch Med, Div Prevent & Community Res, New Haven, CT 06511 USA.
+   Ctr Women & Families Eastern Fairfield Cty, Bridgeport Safe Start Initiat, Bridgeport, CT 06604 USA.
+C3 Yale University
+RP Kaufman, JS (corresponding author), Yale Univ, Sch Med, Div Prevent & Community Res, 389 Whitney Ave, New Haven, CT 06511 USA.
+EM joy.kaufman@yale.edu
+CR Alkema GE, 2003, FAM COMMUNITY HEALTH, V26, P221, DOI 10.1097/00003727-200307000-00007
+   [Anonymous], 1999, CONNECTIONS
+   Bloxham S, 1997, HEALTH EDUC RES, V12, P91, DOI 10.1093/her/12.1.91
+   BOLLAND JM, 1994, HEALTH SERV RES, V29, P341
+   BORGATTI SP, 2002, UCINET WINDOWS SOFWA
+   Chaudry RV, 2000, PUBLIC HEALTH NURS, V17, P75, DOI 10.1046/j.1525-1446.2000.00075.x
+   Cross R, 2001, ORGAN DYN, V30, P100, DOI 10.1016/S0090-2616(01)00046-8
+   Durland M., 2005, NEW DIRECTIONS EVALU, V107, P5, DOI DOI 10.1002/EV.157
+   Ervin Naomi E, 2004, J Community Health Nurs, V21, P49, DOI 10.1207/s15327655jchn2101_5
+   Foster-Fishman PG, 2001, AM J COMMUN PSYCHOL, V29, P875, DOI 10.1023/A:1012915631956
+   Frey BB, 2006, AM J EVAL, V27, P383, DOI 10.1177/1098214006290356
+   FRIEDMAN SR, 2005, BRIDGEPORT START INT
+   Goodman RM, 1996, AM J COMMUN PSYCHOL, V24, P33, DOI 10.1007/BF02511882
+   Goodwin N., 2004, MANAGING DIVERSE NET
+   Greenbaum P., 2000, INTERAGENCY COLLABOR
+   Gulati R, 1995, ADMIN SCI QUART, V40, P619, DOI 10.2307/2393756
+   HANNEMAN RA, 2005, INTRODUCTION SOCIAL
+   Hart B.J., 1995, Coordinated community approaches to domestic violence
+   Heflinger CA, 1996, EVAL PROGRAM PLANN, V19, P155, DOI 10.1016/0149-7189(96)00006-7
+   Hernandez M, 2003, J EMOT BEHAV DISORD, V11, P19, DOI 10.1177/106342660301100104
+   Himmelman A.T., 2004, Collaboration for a change: Definitions, decision-making models, roles, and collaboration process guide
+   Hodges S., 2003, J CHILD FAM STUD, V12, P291, DOI DOI 10.1023/A:1023987710611
+   Hudson J.R., 1999, Public Management, V1, P235, DOI 10.1080/14719039900000005
+   Huisman M., 2005, MODELS METHODS SOCIA, P270
+   Johnson LJ, 2003, EXCEPT CHILDREN, V69, P195, DOI 10.1177/001440290306900205
+   Johnson Pauley, 2003, J Interprof Care, V17, P69
+   Knodel J., 1993, Successful Focus Groups: Advancing the State of the Art, P35, DOI DOI 10.4135/9781483349008.N3
+   Krueger R. A., 2009, FOCUS GROUPS PRACTIC
+   Lindholm M, 2004, HUM ORGAN, V63, P265, DOI 10.17730/humo.63.3.n655b1f9ncdapxxk
+   MORRISSEY JP, 1985, AM BEHAV SCI, V28, P704, DOI 10.1177/000276485028005010
+   Office of Juvenile Justice and Delinquency Prevention, 2000, SAF START TAK ACT CH
+   Okamoto S.K., 2001, Child and Adolescent Social Work Journal, V18, P5
+   PROVAN KG, 1995, ADMIN SCI QUART, V40, P1, DOI 10.2307/2393698
+   *QSR INT, 2002, QSR NVIVO VERS 2 0
+   Sloper P, 2004, CHILD CARE HLTH DEV, V30, P571, DOI 10.1111/j.1365-2214.2004.00468.x
+   Streeter C.L., 1992, Journal of Social Service Research, V16, P201, DOI [DOI 10.1300/J079V16N01_10, 10.1300/J079v16n0110, DOI 10.1300/J079V16N0110]
+   Stroul B.A., 2002, Issue-brief - System of care: A framework for system reform in children's mental health
+   Walter UM, 2000, FAM SOC-J CONTEMP H, V81, P494, DOI 10.1606/1044-3894.1051
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   Wickizer TM, 1998, MILBANK Q, V76, P121, DOI 10.1111/1468-0009.00081
+   WICKIZER TM, 1993, AM J PUBLIC HEALTH, V83, P561, DOI 10.2105/AJPH.83.4.561
+NR 41
+TC 46
+Z9 64
+U1 0
+U2 21
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0149-7189
+EI 1873-7870
+J9 EVAL PROGRAM PLANN
+JI Eval. Program Plan.
+PD AUG
+PY 2007
+VL 30
+IS 3
+BP 294
+EP 306
+DI 10.1016/j.evalprogplan.2007.04.001
+PG 13
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA 202DN
+UT WOS:000248882300007
+PM 17689334
+DA 2024-11-22
+ER
+
+PT J
+AU Burt, RS
+   Ronchi, D
+AF Burt, Ronald S.
+   Ronchi, Don
+TI Teaching executives to see social capital: Results from a field
+   experiment
+SO SOCIAL SCIENCE RESEARCH
+LA English
+DT Article
+DE social capital; social network; executive education; adult learning;
+   training; field experiment
+ID NETWORKS; DYNAMICS; LEADERS
+AB This paper is about the benefits of teaching executives to understand the network structure of social capital. There is abundant cross-sectional evidence of performance correlated with network structure. Corroborating that evidence, we run a field experiment in which executives educated in the network structure of social capital show performance improvement relative to a control group of untrained, but otherwise equally able peers: program graduates are 36-42% more likely to receive top performance evaluations, 43-72% more likely to be promoted (an effect that builds in the 2 years following the program), and 42-74% more likely to be retained by the company. Active participation matters. The subsequent careers of executives who were quiet spectators in the program cannot be distinguished from the careers of people in the control group, peers who never attended the program. (c) 2006 Elsevier Inc. All rights reserved.
+C1 Univ Chicago, Grad Sch Business, Chicago, IL 60637 USA.
+C3 University of Chicago
+RP Burt, RS (corresponding author), Univ Chicago, Grad Sch Business, 5807 S Woodlawn Ave, Chicago, IL 60637 USA.
+EM ron.burt@chicagogsb.edu; dronchi@chicagogsb.edu
+RI Burt, Ronald S./KHV-2991-2024
+CR [Anonymous], THESIS U CHICAGO
+   [Anonymous], 2001, BOWLING ALONE BOWLIN
+   [Anonymous], 2002, SOCIAL CAPITAL
+   [Anonymous], GOOD CO
+   [Anonymous], ACHIEVING SUCCESS TH
+   [Anonymous], 1992, CONT SOCIOLOGICAL TH
+   Augier M, 2006, ACAD MANAG LEARN EDU, V5, P84, DOI 10.5465/AMLE.2006.20388388
+   Brand JE, 2006, SOC SCI RES, V35, P749, DOI 10.1016/j.ssresearch.2005.06.006
+   BULKELEY WM, 2003, WALL STREET J    AUG
+   Burt RonaldS., 1982, Toward a Structural Theory of Action : Network Models of Social Structure, Perception, and Action
+   Burt RS, 1999, ANN AM ACAD POLIT SS, V566, P37, DOI 10.1177/0002716299566001004
+   Burt RS, 2000, ORGAN SCI, V11, P123, DOI 10.1287/orsc.11.2.123.12506
+   BURT RS, 2005, BROKERAGE CLOSURE IN
+   Cross R L, 2004, HIDDEN POWER SOCIAL
+   DESOTO CB, 1960, J ABNORM SOC PSYCH, V60, P417, DOI 10.1037/h0047511
+   ERICSSON KA, 1993, PSYCHOL REV, V100, P363, DOI 10.1037/0033-295X.100.3.363
+   FREEMAN LC, 1992, SOC PSYCHOL QUART, V55, P118, DOI 10.2307/2786941
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Harrison GW, 2004, J ECON LIT, V42, P1009, DOI 10.1257/0022051043004577
+   Janicik GA, 2005, J PERS SOC PSYCHOL, V88, P348, DOI 10.1037/0022-3514.88.2.348
+   Katz Elihue Paul Lazarsfeld., 1955, Personal Influence, Nova Iorque
+   KIRKPATRICK D, 2003, FORTUNE         0930
+   Kirkpatrick DL., 1994, Evaluationg Training Programs
+   Knowles M., 1990, ADULT LEARNER
+   Knowles M. S., 1984, ANDRAGOGY IN ACTION
+   Knox A.B., 1978, Adult development and learning
+   KOTTER JP, 1990, HARVARD BUS REV, V68, P103
+   March JG, 1991, ORGAN SCI, V2, P71, DOI 10.1287/orsc.2.1.71
+   McMullan W., 1979, The Academy of Management Review, V4, P453
+   Merton RobertK., 1968, Social Theory and Social Structure, P441
+   MILGRAM S, 1967, PSYCHOL TODAY, V1, P61
+   PADGETT JF, 1993, AM J SOCIOL, V98, P1259, DOI 10.1086/230190
+   Pfeffer J, 2002, ACAD MANAG LEARN EDU, V1, P78, DOI 10.5465/AMLE.2002.7373679
+   REES A, 1966, AM ECON REV, V56, P559
+   ROSENBAUM PR, 1985, AM STAT, V39, P33, DOI 10.2307/2683903
+   Rubin DB, 1996, BIOMETRICS, V52, P249, DOI 10.2307/2533160
+   RUBIN DB, 1973, BIOMETRICS, V29, P159, DOI 10.2307/2529684
+   Salas E, 2001, ANNU REV PSYCHOL, V52, P471, DOI 10.1146/annurev.psych.52.1.471
+   Schumpeter J.A., 1934, THEORY EC DEV INQUIR
+   TURNBULL CM, 1961, AM J PSYCHOL, V74, P304, DOI 10.2307/1419421
+   Watts DJ, 1999, AM J SOCIOL, V105, P493, DOI 10.1086/210318
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+NR 42
+TC 78
+Z9 101
+U1 3
+U2 52
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0049-089X
+J9 SOC SCI RES
+JI Soc. Sci. Res.
+PD SEP
+PY 2007
+VL 36
+IS 3
+BP 1156
+EP 1183
+DI 10.1016/j.ssresearch.2006.09.005
+PG 28
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA 209VD
+UT WOS:000249415200014
+DA 2024-11-22
+ER

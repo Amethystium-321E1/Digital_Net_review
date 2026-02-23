@@ -1,0 +1,115 @@
+
+PT J
+AU Iosifidis, G
+   Charette, Y
+   Airoldi, EM
+   Littera, G
+   Tassiulas, L
+   Christakis, NA
+AF Iosifidis, George
+   Charette, Yanick
+   Airoldi, Edoardo M.
+   Littera, Giuseppe
+   Tassiulas, Leandros
+   Christakis, Nicholas A.
+TI Cyclic motifs in the Sardex monetary network
+SO NATURE HUMAN BEHAVIOUR
+LA English
+DT Article
+ID EXPERIMENTAL SOCIAL NETWORKS; MONEY; CURRENCIES; INEQUALITY
+AB From decentralized banking systems to digital community currencies, the way humans perceive and use money is changing(1-3), thus creating novel opportunities for solving important economic and social problems. Here, we study Sardex, a fast-growing community currency in Sardinia (involving 1,477 businesses arrayed in a network with 48,170 transactions) using network analysis to shed light on its operation. Based on our experience with its day-to-day operations, we propose performance metrics tailored for Sardex but also to similar economic systems, introduce criteria for identifying prominent economic actors and investigate the interplay between network structure and economic robustness. Leveraging new methods for quantifying network 'cyclic density' and 'k-cycle centrality,' we show that geodesic transaction cycles, where money flows in a circle through the network, are prevalent and that certain nodes have a pivotal role in them. We analyse the transactions within cycles and find that the economic turnover of the involved firms is higher, and that excessive currency and debt accumulations are lower. We also measure a similar, but secondary, effect for nodes and edges that serve as intermediaries to many transactions. These metrics are strong indicators of the success of such mutual credit systems at individual and collective levels.
+C1 [Iosifidis, George] Trinity Coll Dublin, Sch Comp Sci & Stat, Dublin, Ireland.
+   [Charette, Yanick] Laval Univ, Sch Social Work & Criminol, Quebec City, PQ, Canada.
+   [Airoldi, Edoardo M.] Temple Univ, Fox Sch Business, Dept Stat Sci, Philadelphia, PA 19122 USA.
+   [Airoldi, Edoardo M.] Harvard Univ, Inst Quantitat Social Sci, Cambridge, MA 02138 USA.
+   [Littera, Giuseppe] Sardex Spa, Sardinia, Italy.
+   [Tassiulas, Leandros; Christakis, Nicholas A.] Yale Univ, Yale Inst Network Sci, New Haven, CT USA.
+   [Tassiulas, Leandros] Yale Univ, Dept Elect Engn, New Haven, CT USA.
+   [Christakis, Nicholas A.] Yale Univ, Dept Sociol, New Haven, CT USA.
+   [Christakis, Nicholas A.] Yale Univ, Dept Biomed Engn, New Haven, CT USA.
+   [Christakis, Nicholas A.] Yale Univ, Sch Org & Management, New Haven, CT 06520 USA.
+C3 Trinity College Dublin; Laval University; Pennsylvania Commonwealth
+   System of Higher Education (PCSHE); Temple University; Harvard
+   University; Yale University; Yale University; Yale University; Yale
+   University; Yale University
+RP Iosifidis, G (corresponding author), Trinity Coll Dublin, Sch Comp Sci & Stat, Dublin, Ireland.
+EM iosifidg@tcd.ie
+RI Airoldi, Edoardo/A-8575-2009
+OI Iosifidis, George (Georgios)/0000-0003-1001-2323; Christakis,
+   Nicholas/0000-0001-5547-1086
+FU Robert Wood Johnson Foundation; Star Family Foundation; Science
+   Foundation Ireland [16/IA/4610]; National Science Foundation
+   [IIS-1409177]; Office of Naval Research [YIP N00014-14-1-0485,
+   N00014-17-1-2131]
+FX We thank D.G. Alvarez, F. Fu, J. Horton and A. Oswald for helpful
+   comments. Support for this research was provided by a grant from the
+   Robert Wood Johnson Foundation and the Star Family Foundation. Also,
+   G.I. acknowledges that this publication has emanated from research
+   supported in part by a research grant from Science Foundation Ireland
+   under grant 16/IA/4610; and E.M.A. acknowledges the support by the
+   National Science Foundation under grant IIS-1409177 and by the Office of
+   Naval Research under grants YIP N00014-14-1-0485 and N00014-17-1-2131 to
+   E.M.A. The funders had no role in study design, data collection and
+   analysis, decision to publish or preparation of the manuscript.
+CR Abraham DJ, 2007, EC'07: PROCEEDINGS OF THE EIGHTH ANNUAL CONFERENCE ON ELECTRONIC COMMERCE, P295
+   Banerjee A, 2013, SCIENCE, V341, P363, DOI 10.1126/science.1236498
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Bardoscia M, 2017, NAT COMMUN, V8, DOI 10.1038/ncomms14416
+   Bianconi G, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.118701
+   Brockmann D, 2006, NATURE, V439, P462, DOI 10.1038/nature04292
+   Butts C. T., 2006, CYCLE CENSUS STAT EX
+   Camera G, 2013, P NATL ACAD SCI USA, V110, P14889, DOI 10.1073/pnas.1301888110
+   Carvalho V. M., 2017, 201701 BECK FRIEDM I
+   ERDOS P, 1960, B INT STATIST INST, V38, P343
+   Fagiolo G, 2008, PHYSICA A, V387, P3868, DOI 10.1016/j.physa.2008.01.050
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   Guyer JI, 2012, P NATL ACAD SCI USA, V109, P2214, DOI 10.1073/pnas.1118397109
+   Johnson D. B., 1975, SIAM Journal on Computing, V4, P77, DOI 10.1137/0204007
+   Kiyotaki N, 2002, AM ECON REV, V92, P62, DOI 10.1257/000282802320189014
+   Lazer D, 2009, SCIENCE, V323, P721, DOI 10.1126/science.1167742
+   Littera G., 2017, International Journal of Community Currency Research, V21, P6
+   Lu Y. Y., 2012, PLOS ONE, V7
+   Ma'ayan A, 2008, P NATL ACAD SCI USA, V105, P19235, DOI 10.1073/pnas.0805344105
+   Milo R, 2002, SCIENCE, V298, P824, DOI 10.1126/science.298.5594.824
+   Nishi A, 2015, SOCIOL SCI, V2, P544, DOI 10.15195/v2.a26
+   Nishi A, 2015, NATURE, V526, P426, DOI 10.1038/nature15392
+   Opsahl T, 2008, PHYS REV LETT, V101, DOI 10.1103/PhysRevLett.101.168702
+   Rand DG, 2014, P NATL ACAD SCI USA, V111, P17093, DOI 10.1073/pnas.1400406111
+   Satoshi Nakamoto, 2008, BITCOIN
+   Seyfang G, 2013, ECOL ECON, V86, P65, DOI 10.1016/j.ecolecon.2012.11.003
+   Simmel G., 2011, El pobre
+   Snijders TAB, 1999, PERS RELATIONSHIP, V6, P471, DOI 10.1111/j.1475-6811.1999.tb00204.x
+   Soramäki K, 2007, PHYSICA A, V379, P317, DOI 10.1016/j.physa.2006.11.093
+   Sundararajan A., 2016, THE SHARING EC
+   Suri T, 2012, P NATL ACAD SCI USA, V109, P10257, DOI 10.1073/pnas.1115843109
+   The Sardex factor, 2015, FINANCIAL TIMES 0918
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+NR 33
+TC 15
+Z9 15
+U1 2
+U2 17
+PU NATURE PUBLISHING GROUP
+PI NEW YORK
+PA 75 VARICK ST, 9TH FLR, NEW YORK, NY 10013-1917 USA
+SN 2397-3374
+J9 NAT HUM BEHAV
+JI Nat. Hum. Behav.
+PD NOV
+PY 2018
+VL 2
+IS 11
+BP 822
+EP 829
+DI 10.1038/s41562-018-0450-0
+PG 8
+WC Psychology, Biological; Multidisciplinary Sciences; Neurosciences;
+   Psychology, Experimental
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychology; Science & Technology - Other Topics; Neurosciences &
+   Neurology
+GA GZ6IV
+UT WOS:000449539900013
+PM 31558815
+DA 2024-11-22
+ER

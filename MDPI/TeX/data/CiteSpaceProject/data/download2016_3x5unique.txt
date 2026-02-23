@@ -1,0 +1,548 @@
+
+PT J
+AU Zhou, M
+   Wu, G
+   Xu, HL
+AF Zhou, Min
+   Wu, Gang
+   Xu, Helian
+TI Structure and formation of top networks in international trade,
+   2001-2010
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE International trade; Globalization; Social networks; Census of triads
+ID WORLD-SYSTEM; TOPOLOGICAL PROPERTIES; GLOBALIZATION; CENTRALITY;
+   DYNAMICS; POSITION; WEB
+AB We propose the construction of the international trade network based on top trade relations (i.e., country i is linked to country j if j is i's top trade partner). The constructed network captures most important relations in international trade. The overall network displays a tree-like hierarchical structure. It is organized around global central countries (especially the US, China, and Germany) under which there are more levels of local centers. We develop a model that uses country behavior in local triadic environment to account for the formation of such network structure. The census of triads confirms the applicability of this model. (C) 2015 Elsevier B.V. All rights reserved.
+C1 [Zhou, Min] Univ Victoria, Dept Sociol, Victoria, BC V8W 3P5, Canada.
+   [Wu, Gang] Southwestern Univ Finance & Econ, Int Business Sch, Chengdu, Peoples R China.
+   [Xu, Helian] Hunan Univ, Sch Econ & Trade, Changsha 410082, Hunan, Peoples R China.
+C3 University of Victoria; Southwestern University of Finance & Economics -
+   China; Hunan University
+RP Zhou, M (corresponding author), Univ Victoria, Dept Sociol, Cornett Bldg A359,3800 Finnerty Rd, Victoria, BC V8W 3P5, Canada.
+EM minzhou@uvic.ca
+RI Zhou, Min/R-7460-2019
+OI Zhou, Min/0000-0001-5509-6845
+FU University of Victoria; Ministry of Education of China; Hunan Province
+   of China [CX2011B135]; National Social Science Research Funds
+   [10BJL040]; Ministry of Education of China [20110161110028]
+FX Min Zhou thanks the support from the University of Victoria. Gang Wu
+   thanks the support from the National Scholarship for PhD Students from
+   the Ministry of Education of China and the research grant (CX2011B135)
+   from Hunan Province of China. Helian Xu thanks the support from the
+   National Social Science Research Funds (10BJL040) and the grant from the
+   Ministry of Education of China (20110161110028).
+CR Barabasi A.-L, 2002, LINKED NEW SCI NETWO
+   Baskaran T, 2011, INT REV ECON FINANC, V20, P135, DOI 10.1016/j.iref.2010.11.003
+   Bhattacharya K, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/02/P02002
+   Blöchl F, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.046127
+   Breiger Ronald., 1981, CONTINUITIES STRUCTU, P353
+   CHASEDUNN C, 1995, ANNU REV SOCIOL, V21, P387, DOI 10.1146/annurev.so.21.080195.002131
+   Clark R, 2009, INT J COMP SOCIOL, V50, P5, DOI 10.1177/0020715208098615
+   de Nooy W., 2011, Exploratory Social Network Analysis with Prajek, DOI [10.1017/CBO9780511996368, DOI 10.1017/CBO9780511996368]
+   Easley D, 2010, Networks, Crowds, and Markets: Reasoning about A Highly Connected World, DOI [10.1017/CBO9780511761942, DOI 10.1017/CBO9780511761942]
+   Fagiolo G, 2008, PHYSICA A, V387, P3868, DOI 10.1016/j.physa.2008.01.050
+   Fagiolo G, 2010, J ECON INTERACT COOR, V5, P1, DOI 10.1007/s11403-010-0061-y
+   Fagiolo G, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.036115
+   GALTUNG J, 1971, J PEACE RES, V8, P81, DOI 10.1177/002234337100800201
+   Garas A, 2010, NEW J PHYS, V12, DOI 10.1088/1367-2630/12/11/113043
+   Garlaschelli, 2012, ROLE DISTANCES WORLD
+   Garlaschelli D, 2007, EUR PHYS J B, V57, P159, DOI 10.1140/epjb/e2007-00131-6
+   Garlaschelli D, 2005, PHYSICA A, V355, P138, DOI 10.1016/j.physa.2005.02.075
+   Garlaschelli D, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.188701
+   Goyal S., 2007, CONNECTIONS INTRO EC
+   Grassi R, 2007, J MATH SOCIOL, V31, P237, DOI 10.1080/00222500701373251
+   Grassi R, 2010, PHYSICA A, V389, P2455, DOI 10.1016/j.physa.2009.12.069
+   Grassi R, 2010, INT J INTELL SYST, V25, P253, DOI 10.1002/int.20400
+   HOLLAND PW, 1970, AM J SOCIOL, V76, P492, DOI 10.1086/224954
+   HOLLAND PW, 1972, AM J SOCIOL, V77, P1205, DOI 10.1086/225266
+   Jackson MO, 2008, SOCIAL AND ECONOMIC NETWORKS, P1
+   Kali R, 2007, J INT BUS STUD, V38, P595, DOI 10.1057/palgrave.jibs.8400286
+   Kali R, 2010, ECON INQ, V48, P1072, DOI 10.1111/j.1465-7295.2009.00249.x
+   Kim S, 2002, SOC FORCES, V81, P445, DOI 10.1353/sof.2003.0014
+   Kim S, 2010, SOC SCI QUART, V91, P964, DOI 10.1111/j.1540-6237.2010.00744.x
+   Li X, 2003, PHYSICA A, V328, P287, DOI 10.1016/S0378-4371(03)00567-3
+   Lloyd P, 2009, J WORLD SYST RES, V15, P48, DOI 10.5195/JWSR.2009.335
+   Mahutga MC, 2006, SOC FORCES, V84, P1863, DOI 10.1353/sof.2006.0098
+   Newman MEJ, 2005, SOC NETWORKS, V27, P39, DOI 10.1016/j.socnet.2004.11.009
+   Noh JD, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.118701
+   Prell C., 2012, Social Network Analysis: History, Theory and Methodology
+   Schweitzer F, 2009, SCIENCE, V325, P422, DOI 10.1126/science.1173644
+   Serrano MA, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.015101
+   Serrano MA., 2007, J ECON INTERACT COOR, V2, P111, DOI [10.1007/s11403-007-0026-y, DOI 10.1007/S11403-007-0026-Y]
+   SMITH DA, 1992, SOC FORCES, V70, P857, DOI 10.2307/2580193
+   SNYDER D, 1979, AM J SOCIOL, V84, P1096, DOI 10.1086/226902
+   Squartini T, 2011, PHYS REV E, V84, DOI 10.1103/PhysRevE.84.046118
+   Squartini T, 2011, PHYS REV E, V84, DOI 10.1103/PhysRevE.84.046117
+   VanRossem R, 1996, AM SOCIOL REV, V61, P508
+   Wallerstein I, 2011, MOD WORLD SYST, V1, P1
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   Watts DJ, 2004, ANNU REV SOCIOL, V30, P243, DOI 10.1146/annurev.soc.30.020404.104342
+   Wilhite A., 2001, Computational Economics, V18, P49, DOI 10.1023/A:1013814511151
+   Zhou M, 2012, INT SOCIOL, V27, P502, DOI 10.1177/0268580912443577
+NR 48
+TC 64
+Z9 75
+U1 8
+U2 111
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JAN
+PY 2016
+VL 44
+BP 9
+EP 21
+DI 10.1016/j.socnet.2015.07.006
+PG 13
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA CZ9NI
+UT WOS:000367423900002
+DA 2024-11-22
+ER
+
+PT J
+AU Mohammadi, N
+   Wang, Q
+   Taylor, JE
+AF Mohammadi, Neda
+   Wang, Qi
+   Taylor, John E.
+TI Diffusion Dynamics of Energy Saving Practices in Large Heterogeneous
+   Online Networks
+SO PLOS ONE
+LA English
+DT Article
+ID WORD-OF-MOUTH; SOCIAL-INFLUENCE; COMPLEX NETWORK; 2-STEP FLOW;
+   PERCEPTIONS; COMMUNICATION; INFORMATION; PSYCHOLOGY; CAMPAIGNS; BEHAVIOR
+AB Online social networks are today's fastest growing communications channel and a popular source of information for many, so understanding their contribution to building awareness and shaping public perceptions of climate change is of utmost importance. Today's online social networks are composed of complex combinations of entities and communication channels and it is not clear which communicators are the most influential, what the patterns of communication flow are, or even whether the widely accepted two-step flow of communication model applies in this new arena. This study examines the diffusion of energy saving practices in a large online social network across organizations, opinion leaders, and the public by tracking 108,771 communications on energy saving practices among 1,084 communicators, then analyzing the flow of information and influence over a 28 day period. Our findings suggest that diffusion networks of messages advocating energy saving practices are predominantly led by the activities of dedicated organizations but their attempts do not result in substantial public awareness, as most of these communications are effectively trapped in organizational loops in which messages are simply shared between organizations. Despite their comparably significant influential values, opinion leaders played a weak role in diffusing energy saving practices to a wider audience. Thus, the two-step flow of communication model does not appear to describe the sharing of energy conservation practices in large online heterogeneous networks. These results shed new light on the underlying mechanisms driving the diffusion of important societal issues such as energy efficiency, particularly in the context of large online social media outlets.
+C1 [Mohammadi, Neda] Virginia Tech, Dept Civil & Environm Engn, Blacksburg, VA 24061 USA.
+   [Wang, Qi] Harvard Univ, Dept Sociol, Cambridge, MA 02138 USA.
+   [Taylor, John E.] Georgia Inst Technol, Sch Civil & Environm Engn, Atlanta, GA 30332 USA.
+C3 Virginia Polytechnic Institute & State University; Harvard University;
+   University System of Georgia; Georgia Institute of Technology
+RP Taylor, JE (corresponding author), Georgia Inst Technol, Sch Civil & Environm Engn, Atlanta, GA 30332 USA.
+EM jet@vt.edu
+RI Wang, Qi/M-2135-2018; Taylor, John/F-1002-2011
+OI Mohammadi, Neda/0000-0003-2284-6077
+FU National Science Foundation [1142379]; Virginia Tech's Open Access
+   Subvention Fund; Directorate For Engineering; Div Of Civil, Mechanical,
+   & Manufact Inn [1733695] Funding Source: National Science Foundation
+FX This study was supported by the National Science Foundation under Grant
+   No. 1142379 [http://www.nsf.gov/]. Any opinions, findings, and
+   conclusions or recommendations expressed in this material are those of
+   the authors and do not necessarily reflect the views of the National
+   Science Foundation. Open access publication of this article was
+   supported by Virginia Tech's Open Access Subvention Fund. The funders
+   had no role in study design, data collection and analysis, decision to
+   publish, or preparation of the manuscript.r This study was supported by
+   the National Science Foundation under Grant No. 1142379
+   [http://www.nsf.gov/]. Any opinions, findings, and conclusions or
+   recommendations expressed in this material are those of the authors and
+   do not necessarily reflect the views of the National Science Foundation.
+CR Abrahamse W, 2007, J ENVIRON PSYCHOL, V27, P265, DOI 10.1016/j.jenvp.2007.08.002
+   Acemoglu D, 2010, GAME ECON BEHAV, V70, P194, DOI 10.1016/j.geb.2010.01.005
+   Allcott H, 2010, SCIENCE, V327, P1204, DOI 10.1126/science.1180775
+   American Geophysical Union, HUM IND CLIM CHANG R
+   [Anonymous], 2011, 11 INT C KNOWLEDGE M
+   [Anonymous], FOLL RUL BEST PRACT
+   [Anonymous], 2008, P 1 WORKSH ONL SOC N
+   [Anonymous], 2010, P 26 ANN COMP SEC AP
+   [Anonymous], 2009, Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit
+   [Anonymous], 2010, 4 INT AAAI C WEBLOGS
+   Attari SZ, 2014, P NATL ACAD SCI USA, V111, P5129, DOI 10.1073/pnas.1316402111
+   Attari SZ, 2010, P NATL ACAD SCI USA, V107, P16054, DOI 10.1073/pnas.1001509107
+   Bakshy E., 2011, 4 ACM INT C WEB SEAR, V2
+   Berelson B., 1968, The people's choice: How the voter makes up his mind in a presidential campaign
+   Berger ArthurAsa., 1995, ESSENTIALS MASS COMM
+   Berger J, 2014, J CONSUM PSYCHOL, V24, P586, DOI 10.1016/j.jcps.2014.05.002
+   Brossard D, 2013, SCIENCE, V339, P40, DOI 10.1126/science.1232329
+   BROWN JJ, 1987, J CONSUM RES, V14, P350, DOI 10.1086/209118
+   Chell K, 2009, T AM GEOPHYS UNION, V90, P401
+   Chevalier JA, 2006, J MARKETING RES, V43, P345, DOI 10.1509/jmkr.43.3.345
+   Christakis NA, 2008, NEW ENGL J MED, V358, P2249, DOI 10.1056/NEJMsa0706154
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   Chu KH, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0145387
+   Contractor NS, 2014, P NATL ACAD SCI USA, V111, P13650, DOI 10.1073/pnas.1401211111
+   Cook J, 2013, ENVIRON RES LETT, V8, DOI 10.1088/1748-9326/8/2/024024
+   CZEPIEL JA, 1974, J MARKETING RES, V11, P172, DOI 10.2307/3150555
+   del Val E, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0124049
+   DENNIS ML, 1990, AM PSYCHOL, V45, P1109, DOI 10.1037/0003-066X.45.10.1109
+   Dietz T, 2007, FRONT ECOL ENVIRON, V5, P13, DOI 10.1890/1540-9295(2007)5[13:DTHEF]2.0.CO;2
+   Dietz T, 2010, P NATL ACAD SCI USA, V107, P16007, DOI 10.1073/pnas.1010651107
+   Dietz T, 2009, P NATL ACAD SCI USA, V106, P18452, DOI 10.1073/pnas.0908738106
+   Ding D, 2011, NAT CLIM CHANGE, V1, P462, DOI 10.1038/NCLIMATE1295
+   Fischhoff B, 2013, P NATL ACAD SCI USA, V110, P14033, DOI 10.1073/pnas.1213273110
+   FISK G, 1969, J MARKETING RES, V6, P112, DOI 10.2307/3150014
+   Gao ZK, 2015, EPL-EUROPHYS LETT, V109, DOI 10.1209/0295-5075/109/30005
+   Gao ZK, 2015, SCI REP-UK, V5, DOI 10.1038/srep08222
+   Gao ZK, 2015, EXP THERM FLUID SCI, V60, P157, DOI 10.1016/j.expthermflusci.2014.09.008
+   Gao ZK, 2012, NONLINEAR ANAL-REAL, V13, P947, DOI 10.1016/j.nonrwa.2011.08.029
+   Godes D, 2009, MARKET SCI, V28, P721, DOI 10.1287/mksc.1080.0444
+   Gruzd A, 2011, AM BEHAV SCI, V55, P1294, DOI 10.1177/0002764211409378
+   Internet Live Stats, 2015, INT LIV STATS
+   KRUSKAL WH, 1952, J AM STAT ASSOC, V47, P583, DOI 10.1080/01621459.1952.10483441
+   Kwak H., 2010, P 19 INT C WORLD WID
+   Leiserowitz A., 2014, Climate change in the American mind: April, 2014
+   Lineman M, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0138996
+   MANN HB, 1947, ANN MATH STAT, V18, P50, DOI 10.1214/aoms/1177730491
+   Nisbet MC, 2007, PUBLIC OPIN QUART, V71, P444, DOI 10.1093/poq/nfm031
+   Nisbet MC, 2009, SCI COMMUN, V30, P328, DOI 10.1177/1075547008328797
+   Onnela JP, 2010, P NATL ACAD SCI USA, V107, P18375, DOI 10.1073/pnas.0914572107
+   Pearce W, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0094785
+   ROBINSON JP, 1976, PUBLIC OPIN QUART, V40, P304, DOI 10.1086/268307
+   Sampei Y, 2009, GLOBAL ENVIRON CHANG, V19, P203, DOI 10.1016/j.gloenvcha.2008.10.005
+   Showstack R., 2014, EOS TRANS, V95, P34, DOI DOI 10.1002/2014E0040002
+   Sloan L, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0115545
+   STERN PC, 1992, AM PSYCHOL, V47, P1224, DOI 10.1037/0003-066X.47.10.1224
+   Stringhini G., 2013, IMC
+   Takhteyev Y, 2012, SOC NETWORKS, V34, P73, DOI 10.1016/j.socnet.2011.05.006
+   Tavares G, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0065774
+   The Governor's Office of Planning and Research, 2011, SCI ORG HOLD POS CLI
+   TROLDAHL VC, 1966, PUBLIC OPIN QUART, V30, P609, DOI 10.1086/267459
+   Tumasjan A, 2011, SOC SCI COMPUT REV, V29, P402, DOI 10.1177/0894439310386557
+   U.S. Energy Information Administration, 2014, DOEEIA0484
+   U.S. Energy Information Administration, 2016, EN BRIEF WHAT AR GRE
+   US EPA, 2014, EPA 430-R-14-004, V3rd
+   Valente T.W., 2010, SOCIAL NETWORKS HLTH, P172
+   Van den Bulte C., 2009, The Network Challenge: Strategy Profit and Risk in an Interlinked World, P243
+   van der Linden SL, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0118489
+   Wang Q, 2016, J COMPUT CIVIL ENG, V30, DOI 10.1061/(ASCE)CP.1943-5487.0000469
+   Wang Q, 2014, ENERG BUILDINGS, V76, P622, DOI 10.1016/j.enbuild.2014.02.074
+   Wilson C, 2007, ANNU REV ENV RESOUR, V32, P169, DOI 10.1146/annurev.energy.32.053006.141137
+   Wu S.Wu, 2011, P 20 INT C WORLD WID, P705
+   Xuan Q, 2015, PHYS REV E, V91, DOI 10.1103/PhysRevE.91.052813
+   Xuan Q, 2014, ADV COMPLEX SYST, V17, DOI 10.1142/S0219525915500058
+   Yang Z, 2010, PROCEEDINGS OF THE 17TH INTERNATIONAL CONGRESS ON SOUND AND VIBRATION
+NR 74
+TC 9
+Z9 13
+U1 0
+U2 20
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD OCT 13
+PY 2016
+VL 11
+IS 10
+AR e0164476
+DI 10.1371/journal.pone.0164476
+PG 23
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA DZ0CV
+UT WOS:000385505800071
+PM 27736912
+OA Green Published, gold, Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Lagerås, A
+   Seim, D
+AF Lageras, Andreas
+   Seim, David
+TI Strategic complementarities, network games and endogenous network
+   formation
+SO INTERNATIONAL JOURNAL OF GAME THEORY
+LA English
+DT Article
+DE Social networks; Network formation; Social interaction
+ID SOCIAL NETWORKS; MODEL
+AB This paper investigates the role of strategic complementarities in the context of network games and network formation models. In the general model of static games on networks, we characterize conditions on the utility function that ensure the existence and uniqueness of a pure-strategy Nash equilibrium, regardless of the network structure. By applying the game to empirically-relevant networks that feature nestedness-Nested Split Graphs-we show that equilibrium strategies are non-decreasing in the degree. We extend the framework into a dynamic setting, comprising a game stage and a formation stage, and provide general conditions for the network process to converge to a Nested Split Graph with probability one, and for this class of networks to be an absorbing state. The general framework presented in the paper can be applied to models of games on networks, models of network formation, and combinations of the two.
+C1 [Lageras, Andreas] Stockholm Univ, Dept Math, Stockholm, Sweden.
+   [Seim, David] Univ Toronto, Dept Econ, Toronto, ON, Canada.
+   [Seim, David] Res Inst Ind Econ, Stockholm, Sweden.
+C3 Stockholm University; University of Toronto; Research Institute of
+   Industrial Economics (IFN)
+RP Seim, D (corresponding author), Univ Toronto, Dept Econ, Toronto, ON, Canada.
+EM andreas@math.su.se; david.seim@utoronto.ca
+OI Lageras, Andreas/0000-0001-7327-8087
+CR [Anonymous], 1982, Social Structure and Network Analysis
+   [Anonymous], 1991, NBER Working Paper n 3705
+   Bala V, 2000, ECONOMETRICA, V68, P1181, DOI 10.1111/1468-0262.00155
+   Ballester C, 2006, ECONOMETRICA, V74, P1403, DOI 10.1111/j.1468-0262.2006.00709.x
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Berman A., 1994, SIAM, Philadelphia, DOI DOI 10.1137/1.9781611971262
+   Bramoullé Y, 2004, INT J GAME THEORY, V33, P1, DOI 10.1007/s001820400178
+   Bramoullé Y, 2014, AM ECON REV, V104, P898, DOI 10.1257/aer.104.3.898
+   Cabrales A, 2011, GAME ECON BEHAV, V72, P339, DOI 10.1016/j.geb.2010.10.010
+   Calvó-Armengol A, 2009, REV ECON STUD, V76, P1239, DOI 10.1111/j.1467-937X.2009.00550.x
+   Durlauf S. N., 2004, HDB REGIONAL URBAN E, V4, P2173, DOI [10.1016/S1574-0080(04)80007-5, DOI 10.1016/S1574-0080(04)80007-5]
+   Dutta B, 2005, J ECON THEORY, V122, P143, DOI 10.1016/j.jet.2004.05.001
+   FOSTER AD, 1995, J POLIT ECON, V103, P1176, DOI 10.1086/601447
+   Galeotti A, 2010, AM ECON REV, V100, P1468, DOI 10.1257/aer.100.4.1468
+   Galeotti A, 2010, REV ECON STUD, V77, P218, DOI 10.1111/j.1467-937X.2009.00570.x
+   Goyal S, 2003, GAME ECON BEHAV, V43, P57, DOI 10.1016/S0899-8256(02)00562-6
+   Goyal S., 2007, CONNECTIONS INTRO EC
+   Granovetter M.S., 1994, Getting a job: A study of contacts and careers, V2nd
+   Jackson MO, 2007, AM ECON REV, V97, P890, DOI 10.1257/aer.97.3.890
+   Jackson MO, 1996, J ECON THEORY, V71, P44, DOI 10.1006/jeth.1996.0108
+   Jackson MO, 2008, SOCIAL AND ECONOMIC NETWORKS, P1
+   Jackson MO, 2002, GAME ECON BEHAV, V41, P265, DOI 10.1016/S0899-8256(02)00504-3
+   Karamardian S., 1969, Journal of Optimization Theory and Applications, V4, P87, DOI 10.1007/BF00927414
+   Karamardian S., 1969, Journal of Optimization Theory and Applications, V4, P167, DOI 10.1007/BF00930577
+   König MD, 2014, THEOR ECON, V9, P695, DOI 10.3982/TE1348
+   Lin N, 1999, ANNU REV SOCIOL, V25, P467, DOI 10.1146/annurev.soc.25.1.467
+   Lin N, 1990, SOCIAL MOBILITY SOCI, P237
+   Mahadev NVR, 1995, THRESHOLD GRAPHS REL
+   MILGROM P, 1990, ECONOMETRICA, V58, P1255, DOI 10.2307/2938316
+   MORE JJ, 1974, SIAM REV, V16, P1
+   ROSEN JB, 1965, ECONOMETRICA, V33, P520, DOI 10.2307/1911749
+   Tamir A., 1974, MATHEMATICAL PROGRAM, V7, P17, DOI DOI 10.1007/BF01585501
+   Watts A, 2001, GAME ECON BEHAV, V34, P331, DOI 10.1006/game.2000.0803
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+NR 34
+TC 7
+Z9 8
+U1 3
+U2 9
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0020-7276
+EI 1432-1270
+J9 INT J GAME THEORY
+JI Int. J. Game Theory
+PD AUG
+PY 2016
+VL 45
+IS 3
+BP 497
+EP 509
+DI 10.1007/s00182-015-0466-x
+PG 13
+WC Economics; Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods; Statistics & Probability
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Mathematics; Mathematical Methods In Social
+   Sciences
+GA DU2JH
+UT WOS:000382036700001
+DA 2024-11-22
+ER
+
+PT J
+AU Li, JB
+   Lau, JTF
+   Mo, PKH
+   Su, XF
+   Wu, AMS
+   Tang, J
+   Qin, ZG
+AF Li, Jibin
+   Lau, Joseph T. F.
+   Mo, Phoenix K. H.
+   Su, Xuefen
+   Wu, Anise M. S.
+   Tang, Jie
+   Qin, Zuguo
+TI Validation of the Social Networking Activity Intensity Scale among
+   Junior Middle School Students in China
+SO PLOS ONE
+LA English
+DT Article
+ID INTERNET ADDICTION; COLLEGE-STUDENTS; SITE USE; FACEBOOK FRIENDS; FIT
+   INDEXES; ONLINE; HEALTH; ADOLESCENTS; ASSOCIATION; DEPRESSION
+AB Background
+   Online social networking use has been integrated into adolescents' daily life and the intensity of online social networking use may have important consequences on adolescents' well-being. However, there are few validated instruments to measure social networking use intensity. The present study aims to develop the Social Networking Activity Intensity Scale (SNAIS) and validate it among junior middle school students in China.
+   Methods
+   A total of 910 students who were social networking users were recruited from two junior middle schools in Guangzhou, and 114 students were retested after two weeks to examine the test-retest reliability. The psychometrics of the SNAIS were estimated using appropriate statistical methods.
+   Results
+   Two factors, Social Function Use Intensity (SFUI) and Entertainment Function Use Intensity (EFUI), were clearly identified by both exploratory and confirmatory factor analyses. No ceiling or floor effects were observed for the SNAIS and its two subscales. The SNAIS and its two subscales exhibited acceptable reliability (Cronbach's alpha = 0.89, 0.90 and 0.60, and test-retest Intra-class Correlation Coefficient = 0.85, 0.87 and 0.67 for Overall scale, SFUI and EFUI subscale, respectively, p<0.001). As expected, the SNAIS and its subscale scores were correlated significantly with emotional connection to social networking, social networking addiction, Internet addiction, and characteristics related to social networking use.
+   Conclusions
+   The SNAIS is an easily self-administered scale with good psychometric properties. It would facilitate more research in this field worldwide and specifically in the Chinese population.
+C1 [Li, Jibin; Lau, Joseph T. F.; Mo, Phoenix K. H.; Su, Xuefen] Chinese Univ Hong Kong, Div Behav Hlth & Hlth Promot, Jockey Club Sch Publ Hlth & Primary Care, Fac Med, Hong Kong, Hong Kong, Peoples R China.
+   [Li, Jibin] Sun Yat Sen Univ, Ctr Canc, State Key Lab Oncol South China, Collaborat Innovat Ctr Canc Med,Dept Clin Res, Guangzhou, Guangdong, Peoples R China.
+   [Lau, Joseph T. F.; Mo, Phoenix K. H.; Su, Xuefen] Chinese Univ Hong Kong, Shenzhen Res Inst SZRI, Shenzhen, Peoples R China.
+   [Wu, Anise M. S.] Univ Macau, Fac Social Sci, Dept Psychol, Macau, Peoples R China.
+   [Tang, Jie; Qin, Zuguo] Ctr Hlth Educ Guangdong Prov, Guangzhou, Guangdong, Peoples R China.
+C3 Chinese University of Hong Kong; Sun Yat Sen University; State Key Lab
+   Oncology South China; The Chinese University of Hong Kong, Shenzhen;
+   University of Macau
+RP Lau, JTF (corresponding author), Chinese Univ Hong Kong, Div Behav Hlth & Hlth Promot, Jockey Club Sch Publ Hlth & Primary Care, Fac Med, Hong Kong, Hong Kong, Peoples R China.; Lau, JTF (corresponding author), Chinese Univ Hong Kong, Shenzhen Res Inst SZRI, Shenzhen, Peoples R China.
+EM jlau@cuhk.edu.hk
+RI tang, jie/KIE-8633-2024; Li, Ji-Bin/J-6381-2018; Wu,
+   Anise/AAJ-4293-2020; Mo, Phoenix/K-2853-2013
+OI Wu, Anise M.S./0000-0001-8174-6581; Mo, Phoenix/0000-0001-9822-5424
+FU Jockey Club School of Public Health and Primary Care research
+   Postgraduate Students' research Grants; CUHK research Postgraduate
+   Student Grants for Overseas Academic Activities in the Chinese
+   University of Hong Kong; National Science Foundation of China [81373021]
+FX This study was supported by the Jockey Club School of Public Health and
+   Primary Care research Postgraduate Students' research Grants and CUHK
+   research Postgraduate Student Grants for Overseas Academic Activities in
+   the Chinese University of Hong Kong, and the study was also partially
+   supported by National Science Foundation of China(No.: 81373021). The
+   funders had no role in study design, data collection and analysis,
+   decision to publish, or preparation of the manuscript.
+CR Aboujaoude E, 2010, WORLD PSYCHIATRY, V9, P85
+   Alhabash S, 2012, CYBERPSYCH BEH SOC N, V15, P304, DOI 10.1089/cyber.2011.0611
+   ANDERSON JC, 1984, PSYCHOMETRIKA, V49, P155, DOI 10.1007/BF02294170
+   Beauducel A, 2005, STRUCT EQU MODELING, V12, P41, DOI 10.1207/s15328007sem1201_3
+   Boyd DM, 2007, J COMPUT-MEDIAT COMM, V13, P210, DOI 10.1111/j.1083-6101.2007.00393.x
+   Bull SS, 2012, AM J PREV MED, V43, P467, DOI 10.1016/j.amepre.2012.07.022
+   Burke M, 2010, CHI2010: PROCEEDINGS OF THE 28TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, VOLS 1-4, P1909
+   Chan M, 2012, CYBERPSYCH BEH SOC N, V15, P345, DOI 10.1089/cyber.2012.0109
+   China Internet Network Information Center, ANN REP SOC NETW SIT
+   China Internet Network Information Center, ANN REP SOC NETW US
+   China Internet Network Information Center, 32 STAT REP INT NETW
+   Datu J., 2012, International Journal of Research Studies in Educational Technology IJRSET, V1, P83, DOI 10.5861/ijrset.2012.202
+   Deters FG, 2013, SOC PSYCHOL PERS SCI, V4, P579, DOI 10.1177/1948550612469233
+   Ellison NB, 2007, J COMPUT-MEDIAT COMM, V12, P1143, DOI 10.1111/j.1083-6101.2007.00367.x
+   Floyd FJ, 1995, PSYCHOL ASSESSMENT, V7, P286, DOI 10.1037/1040-3590.7.3.286
+   Fu KW, 2010, BRIT J PSYCHIAT, V196, P486, DOI 10.1192/bjp.bp.109.075002
+   Gil-Monte PR, 2010, REV SAUDE PUBL, V44, P140, DOI 10.1590/S0034-89102010000100015
+   Guangzhou Bureau of Statistics, ANN STAT GUANGZH 201
+   Guo Y, 2014, CYBERPSYCH BEH SOC N, V17, P52, DOI 10.1089/cyber.2012.0537
+   Huebner ES, 1998, J PSYCHOEDUC ASSESS, V16, P118, DOI 10.1177/073428299801600202
+   Jelenchick LA, 2013, J ADOLESCENT HEALTH, V52, P128, DOI 10.1016/j.jadohealth.2012.05.008
+   Kalpidou M, 2011, CYBERPSYCH BEH SOC N, V14, P183, DOI 10.1089/cyber.2010.0061
+   Karim AKMR, 2016, ASIAN J PSYCHIATR, V21, P9, DOI 10.1016/j.ajp.2016.02.004
+   Ko CH, 2012, EUR PSYCHIAT, V27, P1, DOI 10.1016/j.eurpsy.2010.04.011
+   Koc M, 2013, CYBERPSYCH BEH SOC N, V16, P279, DOI 10.1089/cyber.2012.0249
+   Koronczai B, 2011, CYBERPSYCHOL BEHAV S, P655
+   Kross E, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0069841
+   Lenhart A., 2011, Teens, kindness and cruelty on social network sites
+   Li YJ, 2014, CYBERPSYCH BEH SOC N, V17, P111, DOI 10.1089/cyber.2012.0482
+   Lou LL, 2012, J EDUC COMPUT RES, V46, P105, DOI 10.2190/EC.46.1.e
+   Nabi RL, 2013, CYBERPSYCH BEH SOC N, V16, P721, DOI 10.1089/cyber.2012.0521
+   Pantic I, 2012, PSYCHIAT DANUB, V24, P90
+   Pempek TA, 2009, J APPL DEV PSYCHOL, V30, P227, DOI 10.1016/j.appdev.2008.12.010
+   Selfhout MHW, 2009, J ADOLESCENCE, V32, P819, DOI 10.1016/j.adolescence.2008.10.011
+   Steinfield C, 2008, J APPL DEV PSYCHOL, V29, P434, DOI 10.1016/j.appdev.2008.07.002
+   Subrahmanyam K, 2008, J APPL DEV PSYCHOL, V29, P420, DOI 10.1016/j.appdev.2008.07.003
+   Terwee CB, 2007, J CLIN EPIDEMIOL, V60, P34, DOI 10.1016/j.jclinepi.2006.03.012
+   Tsitsika AK, 2014, J ADOLESCENT HEALTH, V55, P141, DOI 10.1016/j.jadohealth.2013.11.010
+   Valkenburg PM, 2006, CYBERPSYCHOL BEHAV, V9, P584, DOI 10.1089/cpb.2006.9.584
+   Vergeer M, 2009, J COMPUT-MEDIAT COMM, V15, P189, DOI 10.1111/j.1083-6101.2009.01499.x
+   Yang CC, 2013, J YOUTH ADOLESCENCE, V42, P403, DOI 10.1007/s10964-012-9836-x
+   Young K.S., 1998, CYBERPSYCHOL BEHAV, V1, P237, DOI 10.1089/cpb.1998.1.237
+NR 42
+TC 29
+Z9 34
+U1 1
+U2 39
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD OCT 31
+PY 2016
+VL 11
+IS 10
+AR e0165695
+DI 10.1371/journal.pone.0165695
+PG 14
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA EA6BX
+UT WOS:000386711100055
+PM 27798699
+OA Green Published, Green Submitted, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Kong, XJ
+   Jiang, HZ
+   Yang, Z
+   Xu, ZZ
+   Xia, F
+   Tolba, A
+AF Kong, Xiangjie
+   Jiang, Huizhen
+   Yang, Zhuo
+   Xu, Zhenzhen
+   Xia, Feng
+   Tolba, Amr
+TI Exploiting Publication Contents and Collaboration Networks for
+   Collaborator Recommendation
+SO PLOS ONE
+LA English
+DT Article
+AB Thanks to the proliferation of online social networks, it has become conventional for researchers to communicate and collaborate with each other. Meanwhile, one critical challenge arises, that is, how to find the most relevant and potential collaborators for each researcher? In this work, we propose a novel collaborator recommendation model called CCRec, which combines the information on researchers' publications and collaboration network to generate better recommendation. In order to effectively identify the most potential collaborators for researchers, we adopt a topic clustering model to identify the academic domains, as well as a random walk model to compute researchers' feature vectors. Using DBLP datasets, we conduct benchmarking experiments to examine the performance of CCRec. The experimental results show that CCRec outperforms other state-of-the-art methods in terms of precision, recall and F1 score.
+C1 [Kong, Xiangjie; Jiang, Huizhen; Yang, Zhuo; Xu, Zhenzhen; Xia, Feng] Dalian Univ Technol, Sch Software, Dalian, Peoples R China.
+   [Tolba, Amr] King Saud Univ, Riyadh Community Coll, Riyadh, Saudi Arabia.
+   [Tolba, Amr] Menoufia Univ, Fac Sci, Math & Comp Sci Dept, Menoufia, Egypt.
+C3 Dalian University of Technology; King Saud University; Egyptian
+   Knowledge Bank (EKB); Menofia University
+RP Xu, ZZ (corresponding author), Dalian Univ Technol, Sch Software, Dalian, Peoples R China.
+EM xzz@dlut.edu.cn
+RI Zeng, Xianyi/AAQ-1183-2021; Tolba, Amr/O-8464-2016; Kong,
+   Xiangjie/B-8809-2016; Xia, Feng/Y-2859-2019
+OI Kong, Xiangjie/0000-0003-2698-3319; Xia, Feng/0000-0002-8324-1859
+FU National Natural Science Foundation of China [61203165, 51209036]
+FX This work was supported by National Natural Science Foundation of China
+   under Grants No. 61203165 (XK) and 51209036 (ZX). The funders had no
+   role in study design, data collection and analysis, decision to publish,
+   or preparation of the manuscript.
+CR [Anonymous], 2014, ELECT J DIFFERENTIAL
+   [Anonymous], 2015, 29 AAAI C ART INT
+   [Anonymous], 2014, arXiv
+   [Anonymous], 2012, P 27 ANN ACM S APPL
+   Blei DM, 2003, J MACH LEARN RES, V3, P993, DOI 10.1162/jmlr.2003.3.4-5.993
+   Chaiwanarom P, 2014, KNOWLEDGE BASED SYST
+   Chen H.-H., 2011, Proceedings of the 11th annual international ACM/IEEE joint conference on Digital libraries, P231, DOI DOI 10.1145/1998076.1998121
+   Chen JL, 2009, CHI2009: PROCEEDINGS OF THE 27TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, VOLS 1-4, P201, DOI 10.1145/1518701.1518735
+   Cohen S, 2013, PROCEEDINGS OF THE 22ND INTERNATIONAL CONFERENCE ON WORLD WIDE WEB (WWW'13 COMPANION), P959
+   DiMicco J, 2008, CSCW: 2008 ACM CONFERENCE ON COMPUTER SUPPORTED COOPERATIVE WORK, CONFERENCE PROCEEDINGS, P711
+   Gollapalli S. D., 2012, P 12 ACM IEEE CS JOI, P167, DOI DOI 10.1145/2232817.2232849
+   Hofmann T, 1999, SIGIR'99: PROCEEDINGS OF 22ND INTERNATIONAL CONFERENCE ON RESEARCH AND DEVELOPMENT IN INFORMATION RETRIEVAL, P50, DOI 10.1145/312624.312649
+   Kim HN, 2010, ELECTRON COMMER R A, V9, P73, DOI 10.1016/j.elerap.2009.08.004
+   Lee D.H., 2011, Proceedings of the American Society for Information Science and Technology, V48, P1, DOI DOI 10.1002/meet.2011.14504801025
+   Lee S, 2005, SOC STUD SCI, V35, P673, DOI 10.1177/0306312705052359
+   Ley M, 2009, PROC VLDB ENDOW, V2, P1493, DOI 10.14778/1687553.1687577
+   Li J, 2014, WWW'14 COMPANION: PROCEEDINGS OF THE 23RD INTERNATIONAL CONFERENCE ON WORLD WIDE WEB, P1209, DOI 10.1145/2567948.2579034
+   Lichtenwalter J. T., 2010, Proceedings of the 16th ACM SIGKDD international conference on Knowledge discovery and data mining, P243
+   Lopes GR, 2010, LECT NOTES COMPUT SC, V6413, P190, DOI 10.1007/978-3-642-16385-2_24
+   Ma H., 2011, P 4 ACM INT C WEB SE, P287
+   Petertonkoker J, 2014, RECOMMENDER SYSTEMS, P283, DOI DOI 10.1007/978-1-4939-0530-0
+   Shani G, 2011, RECOMMENDER SYSTEMS HANDBOOK, P257, DOI 10.1007/978-0-387-85820-3_8
+   Sun YZ, 2011, 2011 INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING (ASONAM 2011), P121, DOI 10.1109/ASONAM.2011.112
+   Tang J., 2012, P 18 ACM SIGKDD INT, P1285, DOI DOI 10.1145/2339530.2339730
+   Huynh T, 2013, LECT NOTES ARTIF INT, V8083, P11
+   Xia F, 2014, IEEE T EMERG TOP COM, V2, P364, DOI 10.1109/TETC.2014.2356505
+   Xia F, 2017, IEEE SYST J, V11, P2255, DOI 10.1109/JSYST.2014.2342375
+NR 27
+TC 52
+Z9 60
+U1 2
+U2 29
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD FEB 5
+PY 2016
+VL 11
+IS 2
+AR e0148492
+DI 10.1371/journal.pone.0148492
+PG 13
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA DC9PR
+UT WOS:000369554000108
+PM 26849682
+OA Green Published, gold, Green Submitted
+DA 2024-11-22
+ER

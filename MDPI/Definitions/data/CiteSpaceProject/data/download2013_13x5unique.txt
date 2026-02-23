@@ -1,0 +1,461 @@
+
+PT J
+AU Lerner, J
+   Indlekofer, N
+   Nick, B
+   Brandes, U
+AF Lerner, Juergen
+   Indlekofer, Natalie
+   Nick, Bobo
+   Brandes, Ulrik
+TI Conditional independence in dynamic networks
+SO JOURNAL OF MATHEMATICAL PSYCHOLOGY
+LA English
+DT Article
+DE Network modeling; ERGM; SAOM; Conditional independence
+ID EXPONENTIAL FAMILY MODELS
+AB Given a longitudinal network observed at time points t(1) < . . . < t(r), tie changes that happen in the interval (t(h), t(h+1)) typically depend on the networks at t(1) , . . . , t(h). In this article we deal with the question whether changes within one interval mutually depend on each other or whether they are conditionally independent, given the previously observed networks. Answering this question for given data is of high practical relevance since, if the conditional independence assumption is valid, network dynamics can be modeled with simple and computationally efficient statistical techniques for independent observations. Consequently, we propose a framework to systematically compare conditional independence models with more general models that are specifically designed for social network data. Our results suggest that conditional independence models are inappropriate as a general model for network evolution and can lead to distorted substantive findings on structural network effects, such as transitivity. On the other hand, the conditional independence assumption becomes less severe when inter-observation times are relatively short. (C) 2012 Elsevier Inc. All rights reserved.
+C1 [Lerner, Juergen; Indlekofer, Natalie; Nick, Bobo; Brandes, Ulrik] Univ Konstanz, Dept Comp & Informat Sci, Constance, Germany.
+C3 University of Konstanz
+RP Lerner, J (corresponding author), Univ Konstanz, Dept Comp & Informat Sci, Constance, Germany.
+EM lerner@inf.uni-konstanz.de; ulrik.brandes@uni-konstanz.de
+FU DFG [Br 2158/3-2]; University of Konstanz [FP 665/10]
+FX This research has been supported in part by DFG under grant Br 2158/3-2
+   and the University of Konstanz under grant FP 665/10.
+CR [Anonymous], 1961, ACQUAINTANCE PROCESS
+   [Anonymous], 2002, J SOC STRUCT, DOI DOI 10.1021/pr060392u
+   [Anonymous], 2003, statnet: Software tools for the Statistical Modeling of Network Data, DOI DOI 10.1371/journal.pcbi.0020100
+   [Anonymous], 2005, MODELS METHODS SOCIA
+   [Anonymous], SOCIOLOGICAL METHODO
+   Brandes U, 2009, 2009 INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING, P200, DOI 10.1109/ASONAM.2009.28
+   Butts CT, 2008, SOCIOL METHODOL, V38, P155, DOI 10.1111/j.1467-9531.2008.00203.x
+   Cranmer SJ, 2011, POLIT ANAL, V19, P66, DOI 10.1093/pan/mpq037
+   Crescenzi MJC, 2007, AM J POLIT SCI, V51, P382, DOI 10.1111/j.1540-5907.2007.00257.x
+   FRANK O, 1986, J AM STAT ASSOC, V81, P832, DOI 10.2307/2289017
+   Handcock M.S., 2011, ergm: A Package to Fit, Simulate and Diagnose Exponential-Family Models for Networks
+   Hanneke S, 2010, ELECTRON J STAT, V4, P585, DOI 10.1214/09-EJS548
+   Huisman M, 2008, SOC NETWORKS, V30, P297, DOI 10.1016/j.socnet.2008.04.004
+   Hunter DR, 2007, SOC NETWORKS, V29, P216, DOI 10.1016/j.socnet.2006.08.005
+   Hunter DR, 2006, J COMPUT GRAPH STAT, V15, P565, DOI 10.1198/106186006X133069
+   Knecht A., 2008, THESIS U UTRECHT
+   Maoz Z, 2007, J POLIT, V69, P100, DOI 10.1111/j.1468-2508.2007.00497.x
+   Ripley R. M., 2011, MANUAL SIENA
+   Robins G, 2007, SOC NETWORKS, V29, P192, DOI 10.1016/j.socnet.2006.08.003
+   Snijders TAB, 2010, ANN APPL STAT, V4, P567, DOI 10.1214/09-AOAS313
+   Snijders TAB, 2010, SOC NETWORKS, V32, P44, DOI 10.1016/j.socnet.2009.02.004
+   Steglich C, 2010, SOCIOL METHODOL, V40, P329, DOI 10.1111/j.1467-9531.2010.01225.x
+NR 22
+TC 20
+Z9 22
+U1 3
+U2 13
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0022-2496
+EI 1096-0880
+J9 J MATH PSYCHOL
+JI J. Math. Psychol.
+PD DEC
+PY 2013
+VL 57
+IS 6
+SI SI
+BP 275
+EP 283
+DI 10.1016/j.jmp.2012.03.002
+PG 9
+WC Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods; Psychology, Mathematical
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Mathematical Methods In Social Sciences; Psychology
+GA 275XI
+UT WOS:000328712300002
+OA Green Submitted
+DA 2024-11-22
+ER
+
+PT J
+AU Bao, P
+   Shen, HW
+   Chen, W
+   Cheng, XQ
+AF Bao, Peng
+   Shen, Hua-Wei
+   Chen, Wei
+   Cheng, Xue-Qi
+TI Cumulative Effect in Information Diffusion: Empirical Study on a
+   Microblogging Network
+SO PLOS ONE
+LA English
+DT Article
+ID FLOW
+AB Cumulative effect in social contagion underlies many studies on the spread of innovation, behavior, and influence. However, few large-scale empirical studies are conducted to validate the existence of cumulative effect in information diffusion on social networks. In this paper, using the population-scale dataset from the largest Chinese microblogging website, we conduct a comprehensive study on the cumulative effect in information diffusion. We base our study on the diffusion network of message, where nodes are the involved users and links characterize forwarding relationship among them. We find that multiple exposures to the same message indeed increase the possibility of forwarding it. However, additional exposures cannot further improve the chance of forwarding when the number of exposures crosses its peak at two. This finding questions the cumulative effect hypothesis in information diffusion. Furthermore, to clarify the forwarding preference among users, we investigate both structural motif in the diffusion network and temporal pattern in information diffusion process. Findings provide some insights for understanding the variation of message popularity and explain the characteristics of diffusion network.
+C1 [Bao, Peng; Shen, Hua-Wei; Chen, Wei; Cheng, Xue-Qi] Chinese Acad Sci, Inst Comp Technol, Beijing, Peoples R China.
+C3 Chinese Academy of Sciences; Institute of Computing Technology, CAS
+RP Shen, HW (corresponding author), Chinese Acad Sci, Inst Comp Technol, Beijing, Peoples R China.
+EM shenhuawei@ict.ac.cn
+RI Shen, Hua-Wei/E-8028-2010; Cheng, Xueqi/F-1706-2010; Chen,
+   Wei/O-7697-2015
+OI Chen, Wei/0000-0003-0065-3610
+FU National Basic Research Program of China (973 program) [2013CB329602,
+   2012CB316303]; National Natural Science Foundation of China [61232010,
+   61202215]; Beijing Natural Science Foundation [4122077]
+FX This work was funded by the National Basic Research Program of China
+   (973 program) under grant numbers 2013CB329602 and 2012CB316303, and the
+   National Natural Science Foundation of China under grant numbers
+   61232010 and 61202215. This work was also partly funded by the Beijing
+   Natural Science Foundation under grant number 4122077. The funders had
+   no role in study design, data collection and analysis, decision to
+   publish, or preparation of the manuscript.
+CR Adamic L.A., 2006, P 7 ACM C EL COMM, P228, DOI [10.1145/1232722.1232727, 10.1145/1232722.1232727.15]
+   [Anonymous], 2004, INFORM DIFFUSION BLO, DOI DOI 10.1145/988672.988739
+   [Anonymous], P 12 ACM SIGKDD INT
+   [Anonymous], 2015, Theory of Computing, DOI DOI 10.4086/TOC.2015.V011A004
+   [Anonymous], WORKSH WEBL EC 13 IN
+   Aral S, 2012, SCIENCE, V337, P337, DOI 10.1126/science.1215842
+   Bao P, 2013, PROCEEDINGS OF THE 22ND INTERNATIONAL CONFERENCE ON WORLD WIDE WEB (WWW'13 COMPANION), P177
+   Barabási AL, 2005, NATURE, V435, P207, DOI 10.1038/nature03459
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Berelson B., 1968, The people's choice: How the voter makes up his mind in a presidential campaign
+   Cheng XQ, 2010, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2010/10/P10011
+   Cosley D., 2010, ICWSM, V10, P26
+   Crane R, 2008, P NATL ACAD SCI USA, V105, P15649, DOI 10.1073/pnas.0803685105
+   Girvan M, 2002, P NATL ACAD SCI USA, V99, P7821, DOI 10.1073/pnas.122653799
+   Hong L., 2011, P 20 INT C COMPANION, P57, DOI [DOI 10.1145/1963192.1963222, 10.1145/1963192.1963222]
+   Huang J., 2012, P 5 ACM INT C WEB SE
+   KATZ E, 1957, PUBLIC OPIN QUART, V21, P61, DOI 10.1086/266687
+   Lerman K., 2010, Proc. of WWW '10, P621, DOI DOI 10.1145/1772690.1772754
+   Leskovec J, 2007, PROCEEDINGS OF THE SEVENTH SIAM INTERNATIONAL CONFERENCE ON DATA MINING, P551
+   Liben-Nowell D, 2008, P NATL ACAD SCI USA, V105, P4633, DOI 10.1073/pnas.0708471105
+   Marvel SA, 2009, PHYS REV LETT, V103, DOI 10.1103/PhysRevLett.103.198701
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Milo R, 2002, SCIENCE, V298, P824, DOI 10.1126/science.298.5594.824
+   Newman MEJ, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.066133
+   Perotti JI, 2009, PHYS REV LETT, V103, DOI 10.1103/PhysRevLett.103.108701
+   Rogers EM, 1995, Diffusion of innovations
+   Romero D.M., 2011, Proceedings of the 20th international conference on World wide web, P695, DOI DOI 10.1145/1963405.1963503
+   Shen HW, 2011, PHYS REV E, V84, DOI 10.1103/PhysRevE.84.056111
+   Strang D, 1998, ANNU REV SOCIOL, V24, P265, DOI 10.1146/annurev.soc.24.1.265
+   Sun E., 2009, Proc AAAI Intl Conf on Weblogs and Social Media, P146
+   Szabo G, 2010, COMMUN ACM, V53, P80, DOI 10.1145/1787234.1787254
+   Ugander J, 2012, P NATL ACAD SCI USA, V109, P5962, DOI 10.1073/pnas.1116502109
+   Yang J., 2011, WSDM'11, P177, DOI DOI 10.1145/1935826.1935863
+   Zhang QM, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0055437
+NR 34
+TC 41
+Z9 48
+U1 4
+U2 10
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD OCT 1
+PY 2013
+VL 8
+IS 10
+AR e76027
+DI 10.1371/journal.pone.0076027
+PG 7
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 231OR
+UT WOS:000325427100038
+PM 24098422
+OA Green Published, Green Submitted, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Corten, R
+   Knecht, A
+AF Corten, Rense
+   Knecht, Andrea
+TI Alcohol use among adolescents as a coordination problem in a dynamic
+   network
+SO RATIONALITY AND SOCIETY
+LA English
+DT Article
+DE Adolescents; game theory; simulation; social networks; substance abuse
+ID LARGE SOCIAL NETWORK; PEER INFLUENCE; DRUG-USE; FRIENDSHIP; BEHAVIOR;
+   SPREAD; COEVOLUTION; CIGARETTE; CONTAGION
+AB Whereas most research on substance (ab)use by adolescents studies only the effects of personal networks of adolescents, we propose a theoretical approach that allows for predictions on the effects of the macro-level social network structure on usage rates. We model alcohol use as risk-dominant but inefficient behaviour in a coordination problem, given that adolescents face incentives to align their behaviour with their friends. We propose a game-theoretical model in which actors choose behaviour in a repeated coordination game in an endogenous network. Predictions on levels of alcohol use depending on initial network structure are based on computer simulations of this model. We test the predictions using longitudinal data on alcohol use and friendship choices in school classes in Dutch high schools. We replicate the predicted 'catalysing' effect of initial network density on the development of alcohol use but the predicted opposing effect of centralization could not be confirmed.
+C1 [Corten, Rense] Tilburg Univ, NL-5000 LE Tilburg, Netherlands.
+   [Knecht, Andrea] Univ Erlangen Nurnberg, Erlangen, Germany.
+C3 Tilburg University; University of Erlangen Nuremberg
+RP Corten, R (corresponding author), Tilburg Univ, Sch Social & Behav Sci, Dept Sociol, POB 90153, NL-5000 LE Tilburg, Netherlands.
+EM r.corten@uvt.nl
+RI Corten, Rense/D-7090-2013
+CR [Anonymous], 2006, Methodology
+   [Anonymous], 1998, Individual Strategy and Social Structure: An Evolutionary Theory of Institutions
+   Bauman KE, 1996, ADDICTION, V91, P185, DOI 10.1111/j.1360-0443.1996.tb03175.x
+   Bearman PS, 2004, AM J SOCIOL, V110, P44, DOI 10.1086/386272
+   Berninghaus S, 2006, HOMOOECONOMICUS, V23, P421
+   Bot SM, 2005, ADDICT BEHAV, V30, P929, DOI 10.1016/j.addbeh.2004.09.012
+   Buskens V, 2008, J PEACE RES, V45, P205, DOI 10.1177/0022343307087177
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   COHEN JM, 1977, SOCIOL EDUC, V50, P227, DOI 10.2307/2112497
+   Coleman J., 1961, ADOLESCENT SOC, V1st
+   Coleman J.S., 1994, FDN SOCIAL THEORY
+   Corten R, 2009, COEVOLUTION SOCIAL N
+   Corten R, 2010, SOC NETWORKS, V32, P4, DOI 10.1016/j.socnet.2009.04.002
+   Currarini S, 2010, P NATL ACAD SCI USA, V107, P4857, DOI 10.1073/pnas.0911793107
+   ENNETT ST, 1993, J HEALTH SOC BEHAV, V34, P226, DOI 10.2307/2137204
+   Fowler JH, 2008, BMJ-BRIT MED J, V337, DOI 10.1136/bmj.a2338
+   Friemel TN, 2008, GRENZEN NETZWERKEN, P15
+   Giordano PC, 2003, ANNU REV SOCIOL, V29, P257, DOI 10.1146/annurev.soc.29.010202.100047
+   Goyal S., 2007, CONNECTIONS INTRO EC
+   GRAHAM JW, 1991, J APPL PSYCHOL, V76, P291, DOI 10.1037/0021-9010.76.2.291
+   Granovetter M., 1979, Perspectives on social network research, P501
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Harsanyi J. C., 1988, GEN THEORY EQUILIBRI, V1
+   HAWKINS JD, 1992, PSYCHOL BULL, V112, P64, DOI 10.1037/0033-2909.112.1.64
+   Jackson MO, 2008, SOCIAL AND ECONOMIC NETWORKS, P1
+   Jackson MO, 2002, GAME ECON BEHAV, V41, P265, DOI 10.1016/S0899-8256(02)00504-3
+   KANDEL DB, 1978, AM J SOCIOL, V84, P427, DOI 10.1086/226792
+   Kirke DM, 2004, SOC NETWORKS, V26, P3, DOI 10.1016/j.socnet.2003.12.001
+   Knecht AB, 2008, ICS DISSERTATION SER
+   Knecht AB, 2004, NETWORK ACTOR ATTRIB
+   Knecht AB, 2011, J RES ADOLESCENCE, V21, P475, DOI 10.1111/j.1532-7795.2010.00685.x
+   Lazarsfeld P.F., 1954, Freedom and Control in Modern Society, P18, DOI DOI 10.1111/J.1467-8705.2012.02056_3.X
+   Levy Epstein Joyce, 1983, Friends in school, P177, DOI DOI 10.1016/B978-0-12-240540-2.50017-7
+   Light JM, 2007, NEW DIR CHILD ADOLES, V118, P77, DOI 10.1002/cd.202
+   MARSDEN PV, 1993, SOCIOL METHOD RES, V22, P127, DOI 10.1177/0049124193022001006
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   MOFFITT TE, 1993, PSYCHOL REV, V100, P674, DOI 10.1037/0033-295X.100.4.674
+   NEWCOMB MD, 1989, AM PSYCHOL, V44, P242, DOI 10.1037/0003-066X.44.2.242
+   Shalizi CR, 2011, SOCIOL METHOD RES, V40, P211, DOI 10.1177/0049124111404820
+   Sherif Muzafer., 1964, REFERENCE GROUPS EXP
+   Snijders T., 2012, MULTILEVEL ANAL INTR
+   Snijders T.A. B., 2006, P 43 SCI M ITALIAN S, P281
+   Snijders TAB, 2001, SOCIOL METHODOL, V31, P361, DOI 10.1111/0081-1750.00099
+   SNIJDERS TAB, 1981, SOC NETWORKS, V3, P163, DOI 10.1016/0378-8733(81)90014-9
+   Snijders T, 2007, EUR ASSOC METHODOL S, P41
+   STEELE CM, 1990, AM PSYCHOL, V45, P921, DOI 10.1037/0003-066X.45.8.921
+   Steinberg L, 2001, ANNU REV PSYCHOL, V52, P83, DOI 10.1146/annurev.psych.52.1.83
+   Swadi H, 1999, DRUG ALCOHOL DEPEN, V55, P209, DOI 10.1016/S0376-8716(99)00017-4
+   VanderWeele TJ, 2011, SOCIOL METHOD RES, V40, P240, DOI 10.1177/0049124111404821
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   Watts DJ, 2002, P NATL ACAD SCI USA, V99, P5766, DOI 10.1073/pnas.082090499
+NR 53
+TC 6
+Z9 7
+U1 0
+U2 17
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 1043-4631
+EI 1461-7358
+J9 RATION SOC
+JI Ration. Soc.
+PD MAY
+PY 2013
+VL 25
+IS 2
+BP 146
+EP 177
+DI 10.1177/1043463112473793
+PG 32
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA 154MH
+UT WOS:000319679200002
+OA Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Vargas, N
+   Schafer, MH
+AF Vargas, Nicholas
+   Schafer, Markus H.
+TI Diversity in action: Interpersonal networks and the distribution of
+   advice
+SO SOCIAL SCIENCE RESEARCH
+LA English
+DT Article
+DE Interactional diversity; Network diversity; Social support; Advice
+ID SOCIAL NETWORKS; NEIGHBORHOOD DIVERSITY; ERODE TRUST; SUPPORT; CULTURE;
+   RECIPROCITY; EXPERIENCE; COMMUNITY; IMPACT; BLACK
+AB Does diversity beget the active dissemination of social support in the form of advice to others? Previous research by Robert Putnam suggests that individuals in compositionally diverse geographical areas become closed off from their social ties and less trusting of others, which are both antithetical to social support exchange. We argue, however, that studies of compositional diversity are ill-suited to reflect diversity as it is actually lived and experienced in social life. Drawing from the first nationally representative study with comprehensive indicators of interactional diversity in social life, we analyze self-reports of advice-giving across a variety of social roles. Results of regression analysis are consistent: greater interactional diversity is positively associated with advice-giving, whether the target is stranger, neighbor, close friend, or family member. These findings hold independent of important covariates such as reciprocity, sociability, and homophily. This research contributes to a growing literature set on identifying the unanticipated benefits of diversity in modern society. In sum, we call future research to consider not only diversity in structure, but also diversity in action. (C) 2012 Elsevier Inc. All rights reserved.
+C1 [Vargas, Nicholas] Purdue Univ, Dept Sociol, W Lafayette, IN 47907 USA.
+   [Schafer, Markus H.] Univ Toronto, Dept Sociol, Toronto, ON M5S 2J4, Canada.
+C3 Purdue University System; Purdue University; University of Toronto
+RP Vargas, N (corresponding author), Purdue Univ, Dept Sociol, 700 W State St, W Lafayette, IN 47907 USA.
+EM Nvargas@purdue.edu; markus.schafer@utoronto.ca
+CR Andersson Matthew A., 2012, AM J SOCIOL, V53, P92
+   [Anonymous], 2006, Regression models for categorical dependent variables using Stata
+   [Anonymous], 1974, GETTING JOB
+   [Anonymous], 2007, DIFFERENCE POWER DIV, DOI DOI 10.1126/science.1121066
+   Burt RS, 2004, AM J SOCIOL, V110, P349, DOI 10.1086/421787
+   Costa Dora L., 2003, Perspectives on Politics, V1, P103, DOI DOI 10.1017/S1537592703000082
+   COWEN EL, 1982, AM PSYCHOL, V37, P385, DOI 10.1037/0003-066X.37.4.385
+   Cross R, 2001, SOC NETWORKS, V23, P215, DOI 10.1016/S0378-8733(01)00041-7
+   Delhey J, 2005, EUR SOCIOL REV, V21, P311, DOI 10.1093/esr/jci022
+   DiMaggio P, 1997, ANNU REV SOCIOL, V23, P263, DOI 10.1146/annurev.soc.23.1.263
+   DUNKELSCHETTER C, 1992, CLAR SYMP, P83
+   Emerson MO, 2010, J SCI STUD RELIG, V49, P162, DOI 10.1111/j.1468-5906.2009.01498.x
+   Erickson B., 2003, Social Networks: The Value of Variety
+   Erickson BH, 1996, AM J SOCIOL, V102, P217, DOI 10.1086/230912
+   Feng B, 2006, SOUTH COMMUN J, V71, P67, DOI 10.1080/10417940500503548
+   Goldsmith DJ, 1997, HUM COMMUN RES, V23, P454, DOI 10.1111/j.1468-2958.1997.tb00406.x
+   Goldsmith DJ, 2000, HUM COMMUN RES, V26, P234, DOI 10.1111/j.1468-2958.2000.tb00757.x
+   GOULDNER AW, 1960, AM SOCIOL REV, V25, P161, DOI 10.2307/2092623
+   Granovetter M., 1983, Sociological Theory, V1, P201
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Gurin P, 2002, HARVARD EDUC REV, V72, P330, DOI 10.17763/haer.72.3.01151786u134n051
+   Lin N, 1999, ANNU REV SOCIOL, V25, P467, DOI 10.1146/annurev.soc.25.1.467
+   Marin A, 2012, SOC NETWORKS, V34, P181, DOI 10.1016/j.socnet.2011.11.002
+   MCCRAE RR, 1994, EUR J PERSONALITY, V8, P251, DOI 10.1002/per.2410080404
+   McDonald S, 2010, SOCIOL COMPASS, V4, P532, DOI 10.1111/j.1751-9020.2010.00298.x
+   McDonald S, 2009, SOC PROBL, V56, P385, DOI 10.1525/sp.2009.56.3.385
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Pachucki MA, 2010, ANNU REV SOCIOL, V36, P205, DOI 10.1146/annurev.soc.012809.102615
+   Phan MB, 2009, J SOC PERS RELAT, V26, P899, DOI 10.1177/0265407509345655
+   Podolny JM, 1997, AM SOCIOL REV, V62, P673, DOI 10.2307/2657354
+   Putnam RD, 2007, SCAND POLIT STUD, V30, P137, DOI 10.1111/j.1467-9477.2007.00176.x
+   Sanders-Jackson Ashley, 2008, INT SUNB SOC NETW C
+   Smith SS, 2010, ANN AM ACAD POLIT SS, V629, P30, DOI 10.1177/0002716210366532
+   Smith SS, 2005, AM J SOCIOL, V111, P1, DOI 10.1086/428814
+   Stolle D, 2008, POLIT STUD-LONDON, V56, P57, DOI 10.1111/j.1467-9248.2007.00717.x
+   Sturgis P, 2011, BRIT J POLIT SCI, V41, P57, DOI 10.1017/S0007123410000281
+   SUITOR JJ, 1995, SOC FORCES, V73, P1573, DOI 10.2307/2580459
+   TRIPATHI RC, 1986, J SOC PERS RELAT, V3, P213, DOI 10.1177/0265407586032006
+   WELLMAN B, 1990, AM J SOCIOL, V96, P558, DOI 10.1086/229572
+   Yancey George., 2003, Research in the Social Scientific Study of Religion, P113
+   Yancy George., 2001, Research in the Social Scientific Study of Religion, V12, P185
+NR 41
+TC 4
+Z9 6
+U1 3
+U2 35
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0049-089X
+J9 SOC SCI RES
+JI Soc. Sci. Res.
+PD JAN
+PY 2013
+VL 42
+IS 1
+BP 46
+EP 58
+DI 10.1016/j.ssresearch.2012.08.013
+PG 13
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA 047CS
+UT WOS:000311815900004
+PM 23146597
+DA 2024-11-22
+ER
+
+PT J
+AU Cimini, G
+   Zeng, A
+   Medo, M
+   Chen, DB
+AF Cimini, Giulio
+   Zeng, An
+   Medo, Matus
+   Chen, Duanbing
+TI THE ROLE OF TASTE AFFINITY IN AGENT-BASED MODELS FOR SOCIAL
+   RECOMMENDATION
+SO ADVANCES IN COMPLEX SYSTEMS
+LA English
+DT Article
+DE Taste similarity; agent-based modeling; adaptive complex networks;
+   information diffusion and filtering; social recommendation
+ID NETWORKS
+AB In the Internet era, online social media emerged as the main tool for sharing opinions and information among individuals. In this work, we study an adaptive model of a social network where directed links connect users with similar tastes, and over which information propagates through social recommendation. Agent-based simulations of two different artificial settings for modeling user tastes are compared with patterns seen in real data, suggesting that users differing in their scope of interests is a more realistic assumption than users differing only in their particular interests. We further introduce an extensive set of similarity metrics based on users' past assessments, and evaluate their use in the given social recommendation model with both artificial simulations and real data. Superior recommendation performance is observed for similarity metrics that give preference to users with small scope-who thus act as selective filters in social recommendation.
+C1 [Cimini, Giulio; Zeng, An; Medo, Matus] Univ Fribourg, Dept Phys, CH-1700 Fribourg, Switzerland.
+   [Chen, Duanbing] Univ Elect Sci & Technol China, Web Sci Ctr, Chengdu 611731, Peoples R China.
+C3 University of Fribourg; University of Electronic Science & Technology of
+   China
+RP Cimini, G (corresponding author), Univ Fribourg, Dept Phys, CH-1700 Fribourg, Switzerland.
+EM giulio.cimini@unifr.ch
+RI Medo, Matus/J-6660-2019; Cimini, Giulio/I-7413-2019
+OI Medo, Matus/0000-0001-8865-9085; CIMINI, Giulio/0000-0001-5698-8597
+FU Future and Emerging Technologies programme of the European Commission
+   FP7-COSI-ICT (project QLectives) [231200]; Swiss National Science
+   Foundation [200020-121848]; National Natural Science Foundation of China
+   [60973069, 90924011, 60903073]; International Scientific Cooperation and
+   Communication Project of Sichuan Province in China [2010HH0002]
+FX This work was partially supported by the Future and Emerging
+   Technologies programme of the European Commission FP7-COSI-ICT (project
+   QLectives, grant no. 231200), by the Swiss National Science Foundation
+   (grant no. 200020-121848), by the National Natural Science Foundation of
+   China (grant nos. 60973069, 90924011 and 60903073) and by the
+   International Scientific Cooperation and Communication Project of
+   Sichuan Province in China (grant no. 2010HH0002).
+CR Agarwal R, 2008, INFORM SYST RES, V19, P243, DOI 10.1287/isre.1080.0200
+   Anagnostopoulos A., 2008, P 14 ACM SIGKDD INT
+   [Anonymous], 1992, Sociol. Methodol., DOI DOI 10.2307/270991
+   [Anonymous], 1997, SIMULATING SOCIAL PH
+   [Anonymous], 2010, P 2010 IEEE WIC ACM
+   Bampo M, 2008, INFORM SYST RES, V19, P273, DOI 10.1287/isre.1070.0152
+   Bollen Johan, 2011, J COMPUT SCI-NETH, DOI [10.1016/j.jocs.2010.12.007, DOI 10.1016/j.jocs.2010.12.007]
+   Borgatti SP, 2003, MANAGE SCI, V49, P432, DOI 10.1287/mnsc.49.4.432.14428
+   BREIGER RL, 1975, J MATH PSYCHOL, V12, P328, DOI 10.1016/0022-2496(75)90028-0
+   BROWN JJ, 1987, J CONSUM RES, V14, P350, DOI 10.1086/209118
+   Cantador I., 2008, P 5 INT C AD HYP AD
+   Chmiel A, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0022207
+   Cimini G, 2011, EUR PHYS J B, V80, P201, DOI 10.1140/epjb/e2010-10716-5
+   Cimini G, 2012, PHYS REV E, V85, DOI 10.1103/PhysRevE.85.046108
+   Crandall D., 2008, 14 ACM SIGKDD INT C
+   Fagiolo G, 2007, PHYS REV E, V76, DOI 10.1103/PhysRevE.76.026107
+   Garas A, 2012, SCI REP-UK, V2, DOI 10.1038/srep00402
+   Greenacre M. J., 1993, Theory and applications of correspondence analysis
+   Hamill L, 2009, JASSS-J ARTIF SOC S, V12
+   Kempe D, 2003, P 9 ACM SIGKDD INT C, P137
+   Koren Y, 2009, COMPUTER, V42, P30, DOI 10.1109/MC.2009.263
+   Kovács B, 2010, SOC NETWORKS, V32, P197, DOI 10.1016/j.socnet.2010.02.001
+   Leskovec J., 2008, P 14 ACM SIGKDD INT, V462
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Medo M, 2009, EPL-EUROPHYS LETT, V88, DOI 10.1209/0295-5075/88/38005
+   Mitrovic M, 2010, EUR PHYS J B, V77, P597, DOI 10.1140/epjb/e2010-00279-x
+   Neyman J, 1928, BIOMETRIKA, V20A, P175, DOI 10.1093/biomet/20A.1-2.175
+   Singer HM, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.026113
+   Sinha R., 2001, P DELOSNSF WORKSH PE, V271
+   Snijders TAB, 2010, SOC NETWORKS, V32, P44, DOI 10.1016/j.socnet.2009.02.004
+   Wasserman S., 1994, Social Network Analysis: Methods and Applications
+   Wei D, 2011, PHYSICA A, V390, P2117, DOI 10.1016/j.physa.2011.02.005
+   WHITE HC, 1976, AM J SOCIOL, V81, P730, DOI 10.1086/226141
+   Zhou T, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0020648
+NR 34
+TC 1
+Z9 1
+U1 0
+U2 26
+PU WORLD SCIENTIFIC PUBL CO PTE LTD
+PI SINGAPORE
+PA 5 TOH TUCK LINK, SINGAPORE 596224, SINGAPORE
+SN 0219-5259
+EI 1793-6802
+J9 ADV COMPLEX SYST
+JI Adv. Complex Syst.
+PD AUG
+PY 2013
+VL 16
+IS 4-5
+AR 1350009
+DI 10.1142/S0219525913500094
+PG 23
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematics; Science & Technology - Other Topics
+GA 248SC
+UT WOS:000326721000004
+OA Green Submitted, Green Accepted
+DA 2024-11-22
+ER

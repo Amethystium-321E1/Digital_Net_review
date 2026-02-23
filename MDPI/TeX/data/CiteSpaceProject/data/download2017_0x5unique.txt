@@ -1,0 +1,561 @@
+
+PT J
+AU Heathcote, RJP
+   Darden, SK
+   Franks, DW
+   Ramnarine, IW
+   Croft, DP
+AF Heathcote, Robert J. P.
+   Darden, Safi K.
+   Franks, Daniel W.
+   Ramnarine, Indar W.
+   Croft, Darren P.
+TI Fear of predation drives stable and differentiated social relationships
+   in guppies
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID TIT-FOR-TAT; GROUP-SIZE; POECILIA-RETICULATA; INSPECTION BEHAVIOR; SHOAL
+   COMPOSITION; WILD GUPPY; FAMILIARITY; RISK; EVOLUTION; NETWORKS
+AB Social relationships can have important consequences for fitness in animals. Whilst numerous studies have shown that individuals often join larger groups in response to perceived predation risk (i.e. fear of predation), the importance of predation risk in driving the formation and stability of social relationships within groups has been relatively ignored. We experimentally tested how predation threat influenced fine-scale social network structure using Trinidadian guppies (Poecilia reticulata). When perceived predation risk was high, individuals developed stable and more differentiated social ties compared to when perceived risk was low. Intriguingly, social differentiation coincided with shoals being somewhat smaller under high-perceived risk, suggesting a possible conflict between forming stable social relationships and larger social groups. Individuals most at risk of predation (large and bold individuals) showed the most exaggerated responses in several social measures. Taken together, we provide the first experimental evidence that proximate risk of predation can increase the intensity of social relationships and fine-scale social structure in animal populations.
+C1 [Heathcote, Robert J. P.; Darden, Safi K.; Croft, Darren P.] Univ Exeter, Coll Life & Environm Sci, Ctr Res Anim Behav, Exeter EX4 4QG, Devon, England.
+   [Franks, Daniel W.] Univ York, Dept Biol, York YO10 5DD, N Yorkshire, England.
+   [Franks, Daniel W.] Univ York, Dept Comp Sci, York YO10 5DD, N Yorkshire, England.
+   [Ramnarine, Indar W.] Univ West Indies, Dept Life Sci, St Augustine, Trinidad Tobago.
+C3 University of Exeter; University of York - UK; University of York - UK;
+   University West Indies Mona Jamaica; University West Indies Saint
+   Augustine
+RP Croft, DP (corresponding author), Univ Exeter, Coll Life & Environm Sci, Ctr Res Anim Behav, Exeter EX4 4QG, Devon, England.
+EM D.P.Croft@exeter.ac.uk
+RI Heathcote, Robert/IAQ-9591-2023; Croft, Darren Paul/B-5503-2009; Darden,
+   Safi/C-5940-2016
+OI Franks, Daniel Wayne/0000-0002-4832-7470; Croft, Darren
+   Paul/0000-0001-6869-5097; Darden, Safi/0000-0002-2567-7902; Heathcote,
+   Robert/0000-0002-2327-1335
+FU National Environmental Research Council [NE/E001181/1]; Leverhulme Trust
+   [RPG-175]; Danish Council for Independent Research [DFF - 1323-00105];
+   NERC [NE/E001181/2] Funding Source: UKRI
+FX We thank Dawn Thomas for help scoring the photos to record association
+   patterns, Josh Firth for advice on coding the social network analyses in
+   R, and Joah Madden and Lauren Brent for helpful discussions and comments
+   on previous versions. DPC acknowledges funding from the National
+   Environmental Research Council (NE/E001181/1) and Leverhulme Trust
+   (RPG-175) and SKD and DPC acknowledge funding from The Danish Council
+   for Independent Research (DFF - 1323-00105).
+CR Allan J. R., P BRIT FRESHW FISH C, P220
+   [Anonymous], 2002, Living in Groups
+   [Anonymous], 2012, R LANG ENV STAT COMP
+   [Anonymous], 1992, Statistical Analysis of Behavioural Data: An Approach Based on Time-Structured Models
+   Aplin LM, 2015, ANIM BEHAV, V108, P117, DOI 10.1016/j.anbehav.2015.07.016
+   Atton N, 2014, P ROY SOC B-BIOL SCI, V281, DOI 10.1098/rspb.2014.0579
+   Barber I, 2001, ANIM BEHAV, V61, P975, DOI 10.1006/anbe.2000.1665
+   Bejder L, 1998, ANIM BEHAV, V56, P719, DOI 10.1006/anbe.1998.0802
+   Bell AM, 2007, ECOL LETT, V10, P828, DOI 10.1111/j.1461-0248.2007.01081.x
+   Bell AM, 2009, ANIM BEHAV, V77, P771, DOI 10.1016/j.anbehav.2008.12.022
+   Bolker B., 2012, LME4 LINEAR MIXED EF
+   Braun A, 2012, ANIM BEHAV, V84, P1507, DOI 10.1016/j.anbehav.2012.09.024
+   Brent LJN, 2014, ANN NY ACAD SCI, V1316, P1, DOI 10.1111/nyas.12315
+   Brent LJN, 2013, SCI REP-UK, V3, DOI 10.1038/srep01042
+   Brown GE, 1999, CAN J ZOOL, V77, P562, DOI 10.1139/cjz-77-4-562
+   Brown JS, 1999, J MAMMAL, V80, P385, DOI 10.2307/1383287
+   CAIRNS SJ, 1987, ANIM BEHAV, V35, P1454, DOI 10.1016/S0003-3472(87)80018-0
+   Cameron EZ, 2009, P NATL ACAD SCI USA, V106, P13850, DOI 10.1073/pnas.0900639106
+   CHENEY D, 1986, SCIENCE, V234, P1361, DOI 10.1126/science.3538419
+   CHIVERS DP, 1995, CAN J ZOOL, V73, P955, DOI 10.1139/z95-111
+   Clinchy M, 2013, FUNCT ECOL, V27, P56, DOI 10.1111/1365-2435.12007
+   CRESSWELL W, 1994, ANIM BEHAV, V47, P433, DOI 10.1006/anbe.1994.1057
+   Cresswell W, 2008, IBIS, V150, P3, DOI 10.1111/j.1474-919X.2007.00793.x
+   Croft DP, 2006, AM NAT, V167, P867, DOI 10.1086/504853
+   Croft DP, 2009, BEHAV ECOL SOCIOBIOL, V63, P1495, DOI 10.1007/s00265-009-0802-x
+   Croft DP, 2006, BEHAV ECOL SOCIOBIOL, V59, P644, DOI 10.1007/s00265-005-0091-y
+   Croft DP, 2008, EXPLORING ANIMAL SOCIAL NETWORKS, P1
+   Croft DP, 2003, OIKOS, V100, P429, DOI 10.1034/j.1600-0706.2003.12023.x
+   Croft DP, 2004, P ROY SOC B-BIOL SCI, V271, pS516, DOI 10.1098/rsbl.2004.0206
+   Croft DP, 2005, OECOLOGIA, V143, P211, DOI 10.1007/s00442-004-1796-8
+   Csardi G., 2006, INTERJOURNAL COMPLEX, V1695, P1, DOI DOI 10.3724/SP.J.1087.2009.02191
+   DUGATKIN LA, 1991, BEHAV ECOL SOCIOBIOL, V28, P243
+   DUGATKIN LA, 1992, BEHAV ECOL, V3, P124, DOI 10.1093/beheco/3.2.124
+   DUGATKIN LA, 1991, BEHAV ECOL SOCIOBIOL, V29, P127, DOI 10.1007/BF00166487
+   Dunbar RIM, 2007, SCIENCE, V317, P1344, DOI 10.1126/science.1145463
+   Dyer JRG, 2009, BEHAV ECOL, V20, P165, DOI 10.1093/beheco/arn129
+   Emery NJ, 2007, PHILOS T R SOC B, V362, P489, DOI 10.1098/rstb.2006.1991
+   Farine DR, 2014, ANIM BEHAV, V89, P141, DOI 10.1016/j.anbehav.2014.01.001
+   Franks DW, 2010, BEHAV ECOL SOCIOBIOL, V64, P493, DOI 10.1007/s00265-009-0865-8
+   Goslee SC, 2007, J STAT SOFTW, V22, P1, DOI 10.18637/jss.v022.i07
+   Grabowska-Zhang AM, 2012, BIOL LETTERS, V8, P544, DOI 10.1098/rsbl.2012.0183
+   Graw B, 2007, ANIM BEHAV, V74, P507, DOI 10.1016/j.anbehav.2006.11.021
+   Griffiths SW, 1999, BEHAV ECOL SOCIOBIOL, V45, P437, DOI 10.1007/s002650050582
+   Griffiths SW, 1998, ANIM BEHAV, V56, P689, DOI 10.1006/anbe.1998.0767
+   Griffiths SW, 1997, P ROY SOC B-BIOL SCI, V264, P547, DOI 10.1098/rspb.1997.0078
+   HE X, 1990, T AM FISH SOC, V119, P825, DOI 10.1577/1548-8659(1990)119<0825:DAIEOP>2.3.CO;2
+   Henderson W.D., 1985, Cohesion: The human element in combat
+   Hennessy MB, 2008, PHYSIOL BEHAV, V93, P883, DOI 10.1016/j.physbeh.2007.12.005
+   HINDE RA, 1976, MAN, V11, P1, DOI 10.2307/2800384
+   Hoare DJ, 2000, J FISH BIOL, V57, P1351, DOI 10.1006/jfbi.2000.1446
+   Johansson J, 2004, OIKOS, V105, P595, DOI 10.1111/j.0030-1299.2004.12938.x
+   KAPLAN JR, 1991, AM J PRIMATOL, V25, P157, DOI 10.1002/ajp.1350250303
+   Kern JM, 2016, BIOL LETTERS, V12, DOI 10.1098/rsbl.2016.0648
+   Kirkwood R, 2005, MAR MAMMAL SCI, V21, P336, DOI 10.1111/j.1748-7692.2005.tb01234.x
+   LANDEAU L, 1986, ANIM BEHAV, V34, P1372, DOI 10.1016/S0003-3472(86)80208-1
+   Lehmann J, 2007, ANIM BEHAV, V74, P1617, DOI 10.1016/j.anbehav.2006.10.025
+   Lima SL, 1998, BIOSCIENCE, V48, P25, DOI 10.2307/1313225
+   LIMA SL, 1995, ANIM BEHAV, V49, P11, DOI 10.1016/0003-3472(95)80149-9
+   Magurran A.E., 2005, Evolutionary ecology: the Trinidadian guppy, DOI 10.1093/acprof:oso/9780198527855.001.0001
+   MAGURRAN AE, 1994, BEHAVIOUR, V128, P121, DOI 10.1163/156853994X00073
+   Micheletta J, 2012, P ROY SOC B-BIOL SCI, V279, P4042, DOI 10.1098/rspb.2012.1470
+   MILINSKI M, 1987, NATURE, V325, P433, DOI 10.1038/325433a0
+   Mitchell MM, 2013, J LOSS TRAUMA, V18, P383, DOI 10.1080/15325024.2013.768847
+   Ohtsuki H, 2006, NATURE, V441, P502, DOI 10.1038/nature04605
+   Pike TW, 2008, P ROY SOC B-BIOL SCI, V275, P2515, DOI 10.1098/rspb.2008.0744
+   PITCHER T, 1992, NETH J ZOOL, V42, P371, DOI 10.1163/156854291X00397
+   PITCHER TJ, 1986, J FISH BIOL, V28, P439, DOI 10.1111/j.1095-8649.1986.tb05181.x
+   Radford AN, 2008, P ROY SOC B-BIOL SCI, V275, P2787, DOI 10.1098/rspb.2008.0787
+   Ripple WJ, 2004, BIOSCIENCE, V54, P755, DOI 10.1641/0006-3568(2004)054[0755:WATEOF]2.0.CO;2
+   ROBERTS G, 1995, ANIM BEHAV, V50, P1371, DOI 10.1016/0003-3472(95)80052-2
+   Schülke O, 2010, CURR BIOL, V20, P2207, DOI 10.1016/j.cub.2010.10.058
+   Seyfarth RM, 2012, ANNU REV PSYCHOL, V63, P153, DOI 10.1146/annurev-psych-120710-100337
+   Silk JB, 2010, CURR BIOL, V20, P1359, DOI 10.1016/j.cub.2010.05.067
+   SMITH RJF, 1989, ETHOLOGY, V83, P19
+   Stanford CB, 2002, INT J PRIMATOL, V23, P741, DOI 10.1023/A:1015572814388
+   Sterck EHM, 1997, BEHAV ECOL SOCIOBIOL, V41, P291, DOI 10.1007/s002650050390
+   Swaney W, 2001, ANIM BEHAV, V62, P591, DOI 10.1006/anbe.2001.1788
+   THEODORAKIS CW, 1989, ANIM BEHAV, V38, P496, DOI 10.1016/S0003-3472(89)80042-9
+   van Doorn GS, 2012, EVOLUTION, V66, P651, DOI 10.1111/j.1558-5646.2011.01479.x
+   Voelkl B, 2016, SCI REP-UK, V6, DOI 10.1038/srep33476
+   Ward AJW, 2009, BEHAV ECOL, V20, P511, DOI 10.1093/beheco/arp025
+   Ward AJW, 2003, FISH FISH, V4, P348, DOI 10.1046/j.1467-2979.2003.00135.x
+   Whitehead H, 2008, ANAL ANIMAL SOC QUAN
+   Wisenden BD, 2004, ANIM BEHAV, V67, P59, DOI 10.1016/j.anbehav.2003.02.010
+   Wittig RM, 2008, HORM BEHAV, V54, P170, DOI 10.1016/j.yhbeh.2008.02.009
+   Wong L., 2003, WHY THEY FIGHT COMBA
+   WRONA FJ, 1991, AM NAT, V137, P186, DOI 10.1086/285153
+   Zanette LY, 2011, SCIENCE, V334, P1398, DOI 10.1126/science.1210908
+NR 88
+TC 58
+Z9 67
+U1 0
+U2 55
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD FEB 2
+PY 2017
+VL 7
+AR 41679
+DI 10.1038/srep41679
+PG 10
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA EK0XQ
+UT WOS:000393650800001
+PM 28150706
+OA gold, Green Published
+DA 2024-11-22
+ER
+
+PT J
+AU Grosser, B
+AF Grosser, Benjamin
+TI Tracing You: How transparent surveillance reveals a desire for
+   visibility
+SO BIG DATA & SOCIETY
+LA English
+DT Editorial Material
+DE Surveillance; veillance; transparency; visibility; new media art; Big
+   Data
+AB Tracing You is an artwork that presents a website's best attempt to see the world from its visitors' viewpoints. By cross referencing visitor IP addresses with available online data sources, the work traces each visitor back through the network to its possible origin. The end of that trace is the closest available image that potentially shows the visitor's physical environment. Sometimes what this image shows is eerily accurate; other times it is wildly dislocated. This computational surveillance system thus makes transparent the potential visibility of one's present location on the Earth, while also giving each site visitor the ability to watch other visitor "traces" in real time. By making its surveillance capacity and intention overt, Tracing You provokes questions about the architecture of networks and how that architecture affects our own visibility both within and outside of the network. Further, reactions to the work reveal attitudes towards surveillance post-Snowden, including, in some cases, an angry desire for more visibility than Tracing You currently provides. This commentary describes how the artwork functions, presents and discusses visitor reactions, and briefly theorizes origins for these reactions within the contexts of surveillance, sousveillance, and transparency in the age of ubiquitous online social networks.
+C1 [Grosser, Benjamin] Univ Illinois, Sch Art & Design, NCSA, New Media, Champaign, IL 61820 USA.
+C3 University of Illinois System; University of Illinois Urbana-Champaign
+RP Grosser, B (corresponding author), Univ Illinois, Sch Art & Design, NCSA, New Media, Champaign, IL 61820 USA.
+EM grosser@illinois.edu
+FU ESRC [ES/M00208X/1] Funding Source: UKRI
+CR Beele D, 2016, VOOR MIJ DUS DIKKE F
+   Bucher T, 2012, NEW MEDIA SOC, V14, P1164, DOI 10.1177/1461444812440159
+   Grosser B, 2015, TRACING YOU NET ART
+   Jones J, 2016, THIS WEB PROJECT TRI
+   Kirkpatrick D., 2011, The Facebook effect: The inside story of the company that is connecting the world
+   Mann S, 2013, INT SYMP TECHNOL SOC, P1, DOI 10.1109/ISTAS.2013.6613094
+   McStay A., 2014, Privacy and philosophy; new media and affective protocol
+   O'Reilly T., 2006, What Is Web 2.0: Design patterns and business models for the next generation of software
+NR 8
+TC 2
+Z9 3
+U1 1
+U2 4
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 2053-9517
+J9 BIG DATA SOC
+JI Big Data Soc.
+PD FEB 1
+PY 2017
+VL 4
+IS 1
+DI 10.1177/2053951717694053
+PG 6
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA FD2DM
+UT WOS:000407345600001
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Maireder, A
+   Weeks, BE
+   de Zúñiga, HG
+   Schlögl, S
+AF Maireder, Axel
+   Weeks, Brian E.
+   de Zuniga, Homero Gil
+   Schloegl, Stephan
+TI Big Data and Political Social Networks: Introducing Audience Diversity
+   and Communication Connector Bridging Measures in Social Network Theory
+SO SOCIAL SCIENCE COMPUTER REVIEW
+LA English
+DT Article
+DE social network analysis; Twitter; big data; TTIP; Audience Diversity
+   Score; communication connector bridging
+ID OPINION LEADERS; PUBLIC SPHERE; TWITTER; MEDIA; NEWS; INFLUENTIALS
+AB Social media have changed the way citizens, journalists, institutions, and activists communicate about social and political issues. However, questions remain about how information is diffused through these networks and the degree to which each of these actors is influential in communicating information. In this study, we introduce two novel social network measures of connection and information diffusion that help shed light on patterns of political communication online. The Audience Diversity Score assesses the diversity of a particular actor's followers and identifies which actors reach different publics with their messages. The Communication Connector Bridging Score highlights the most influential actors in the network who are potentially able to connect different spheres of communication through their information diffusion. We apply and discuss these measures using Twitter data from the discussion regarding the Transatlantic Trade Investment Partnership in Europe. Our results provide unique insights into the role various actors play in diffusing political information in online social networks.
+C1 [Maireder, Axel; Schloegl, Stephan] GfK, Global Social Media Intelligence Ctr, Ungargasse 37, A-1030 Vienna, Austria.
+   [Weeks, Brian E.] Univ Michigan, Dept Commun Studies, Ann Arbor, MI 48109 USA.
+   [Weeks, Brian E.] Univ Michigan, Ctr Polit Studies, Ann Arbor, MI 48109 USA.
+   [de Zuniga, Homero Gil] Univ Vienna, Media Innovat Lab MiLab, Vienna, Austria.
+   [Schloegl, Stephan] Univ Vienna, Dept Int Dev, Vienna, Austria.
+C3 University of Michigan System; University of Michigan; University of
+   Michigan System; University of Michigan; University of Vienna;
+   University of Vienna
+RP Maireder, A (corresponding author), GfK, Global Social Media Intelligence Ctr, Ungargasse 37, A-1030 Vienna, Austria.
+EM axel.maireder@gfk.com; beweeks@umich.edu;
+   homero.gil.de.zuniga@univie.ac.at; stephan@schloegl.net
+RI Schlögl, Stephan/HNJ-3468-2023; Weeks, Brian/AHB-0858-2022; Gil de
+   Zuniga, Homero/B-1651-2009
+OI Gil de Zuniga, Homero/0000-0002-4187-3604; Schlogl,
+   Stephan/0000-0002-9910-8059
+CR [Anonymous], 2007, REPUBLIC COM 2 0
+   [Anonymous], EUROPEAN IDENTITY CU
+   [Anonymous], 2012, P ACM 2012 C COMP SU
+   Ausserhofer J, 2013, INFORM COMMUN SOC, V16, P291, DOI 10.1080/1369118X.2012.756050
+   Bennett WL, 2012, INFORM COMMUN SOC, V15, P739, DOI 10.1080/1369118X.2012.670661
+   Bennett WL, 2012, ANN AM ACAD POLIT SS, V644, P20, DOI 10.1177/0002716212451428
+   Bennett WL, 2008, J COMMUN, V58, P707, DOI 10.1111/j.1460-2466.2008.00410.x
+   Bimber B, 2012, COMMUN SOC POLIT, P1, DOI 10.1017/CBO9780511978777
+   Blondel VD, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/10/P10008
+   Bruggemann M., 2009, International Communication Gazette, V71, P693, DOI DOI 10.1177/1748048509345064
+   Brundidge J, 2014, MASS COMMUN SOC, V17, P464, DOI 10.1080/15205436.2013.821492
+   Bruns A, 2013, AM BEHAV SCI, V57, P871, DOI 10.1177/0002764213479374
+   Bruns A, 2012, JOURNALISM STUD, V13, P801, DOI 10.1080/1461670X.2012.664428
+   Castells M, 2008, ANN AM ACAD POLIT SS, V616, P78, DOI 10.1177/0002716207311877
+   Chadwick A, 2007, POLIT COMMUN, V24, P283, DOI 10.1080/10584600701471666
+   Conover M.D., 2011, P INT AAAI C WEB SOC, P89
+   Dubois E, 2014, AM BEHAV SCI, V58, P1260, DOI 10.1177/0002764214527088
+   Farrell H, 2012, ANNU REV POLIT SCI, V15, P35, DOI 10.1146/annurev-polisci-030810-110815
+   González-Bailón S, 2013, AM BEHAV SCI, V57, P943, DOI 10.1177/0002764213479371
+   Howard PN, 2011, J DEMOCR, V22, P35, DOI 10.1353/jod.2011.0041
+   Lynch M, 2014, RES POLITICS, V1, DOI 10.1177/2053168014549091
+   Maireder A, 2014, EUR J COMMUN, V29, P687, DOI 10.1177/0267323114545710
+   Maireder A, 2012, INFORM COMMUN SOC, V15, P171, DOI 10.1080/1369118X.2011.589908
+   Nepusz T, 2008, PHYS REV E, V77, DOI 10.1103/PhysRevE.77.016107
+   Papacharissi Z., 2012, International Journal of Communication, V6, P1989
+   Pariser E., 2011, FILTER BUBBLE WHAT I
+   Park CS, 2013, COMPUT HUM BEHAV, V29, P1641, DOI 10.1016/j.chb.2013.01.044
+   Romero D.M., 2011, Proceedings of the 20th international conference on World wide web, P695, DOI DOI 10.1145/1963405.1963503
+   Rowley TJ, 1997, ACAD MANAGE REV, V22, P887, DOI 10.2307/259248
+   Saldaña M, 2015, INT J COMMUN-US, V9, P3304
+   Shirky C, 2011, FOREIGN AFF, V90, P28
+   Tafjel H., 1979, SOCIAL PSYCHOL INTER, P33
+   Ting-Toomey S., 2018, Communicating across cultures, V2nd
+   Traynor I., 2015, GUARDIAN
+   Valenzuela S, 2013, AM BEHAV SCI, V57, P920, DOI 10.1177/0002764213479375
+   Vargo CJ, 2014, J COMMUN, V64, P296, DOI 10.1111/jcom.12089
+   VOLKMER Ingrid., 2003, Development, V46, P9, DOI [https://doi.org/10.1177/1011637003046001566, DOI 10.1177/1011637003046001566, 1011-6370 (200303) 46:1; 9-16; 031566]
+   Walker A., 2014, BBC NEWS
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   Wellman BarryStephen D Berkowitz., 1988, SOCIAL STRUCTURES NE, V2
+   Xu WW, 2014, AM BEHAV SCI, V58, P1278, DOI 10.1177/0002764214527091
+   Yoo SW, 2014, COMMUN SOC-SPAIN, V27, P33, DOI 10.15581/003.27.4.33-48
+NR 42
+TC 21
+Z9 25
+U1 4
+U2 97
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0894-4393
+EI 1552-8286
+J9 SOC SCI COMPUT REV
+JI Soc. Sci. Comput. Rev.
+PD FEB
+PY 2017
+VL 35
+IS 1
+SI SI
+BP 126
+EP 141
+DI 10.1177/0894439315617262
+PG 16
+WC Computer Science, Interdisciplinary Applications; Information Science &
+   Library Science; Social Sciences, Interdisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science; Information Science & Library Science; Social Sciences
+   - Other Topics
+GA EJ3HN
+UT WOS:000393103300008
+DA 2024-11-22
+ER
+
+PT J
+AU Grow, A
+   Flache, A
+   Wittek, RPM
+AF Grow, Andre
+   Flache, Andreas
+   Wittek, Rafael P. M.
+TI Global Diversity and Local Consensus in Status Beliefs: The Role of
+   Network Clustering and Resistance to Belief Change
+SO SOCIOLOGICAL SCIENCE
+LA English
+DT Article
+DE status construction theory; status beliefs; network clustering;
+   agent-based computational modelling
+ID CROSS-CULTURAL TEST; SOCIAL NETWORKS; SCIENTIFIC COLLABORATION; NOMINAL
+   CHARACTERISTICS; STEREOTYPE THREAT; JOB SEARCH; GENDER; PERFORMANCE;
+   MODEL; WORLD
+AB Formal models of status construction theory suggest that beliefs about the relative social worth and competence of members of different social groups can emerge from face-to-face interactions in task-focused groups and eventually become consensual in large populations. We propose two extensions of earlier models. First, we incorporate the microlevel behavioral assumption of status construction theory that people can become resistant to belief change when a belief appears consensual in their local social environment. Second, we integrate the insight that the macro-level social structure of face-to-face interactions in large populations often is a clustered network structure. Computational experiments identify an outcome that was not anticipated by earlier formalizations. The combination of network clustering at the macrolevel and resistance to belief change at the microlevel can constrain the diffusion of status beliefs and generate regional variation in status beliefs. Further experiments identify conditions under which this outcome obtains.
+C1 [Grow, Andre] Katholieke Univ Leuven, Ctr Sociol Res, Leuven, Belgium.
+   [Flache, Andreas; Wittek, Rafael P. M.] Univ Groningen, Interuniv Ctr Social Sci Theory & Methodol, Dept Sociol, Groningen, Netherlands.
+C3 KU Leuven; University of Groningen
+RP Grow, A (corresponding author), Katholieke Univ Leuven, Ctr Sociol Res, Leuven, Belgium.
+EM andre.grow@kuleuven.be; a.flache@rug.nl; r.p.m.wittek@rug.nl
+RI Flache, Andreas/E-2921-2013; Wittek, Rafael/E-5560-2012
+OI Wittek, Rafael/0000-0002-8473-6984; Flache, Andreas/0000-0002-8276-8819;
+   Grow, Andre/0000-0003-2470-0071
+CR Anderson C, 2012, PSYCHOL SCI, V23, P764, DOI 10.1177/0956797611434537
+   Axelrod R, 1997, J CONFLICT RESOLUT, V41, P203, DOI 10.1177/0022002797041002001
+   Bales R.F., 1970, PERSONALITY INTERPER
+   BALKWELL C, 1981, J MARRIAGE FAM, V43, P423, DOI 10.2307/351392
+   Balland PA, 2012, REG STUD, V46, P741, DOI 10.1080/00343404.2010.529121
+   Berger J., 1977, STATUS CHARACTERISTI
+   Berger J, 2014, ADV GROUP PROCESS, V31, P19, DOI 10.1108/S0882-614520140000031000
+   Blau P.M., 1964, EXCHANGE POWER SOC
+   Byrne D., 1971, ATTRACTION PARADIGM
+   CARLI LL, 1995, J PERS SOC PSYCHOL, V68, P1030, DOI 10.1037/0022-3514.68.6.1030
+   CARTWRIGHT D, 1956, PSYCHOL REV, V63, P277, DOI 10.1037/h0046049
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   DAVIS JA, 1970, AM SOCIOL REV, V35, P843, DOI 10.2307/2093295
+   DellaPosta D, 2015, AM J SOCIOL, V120, P1473, DOI 10.1086/681254
+   DRISKELL JE, 1982, SOC PSYCHOL QUART, V45, P229, DOI 10.2307/3033918
+   Faust K, 1999, SOC NETWORKS, V21, P311
+   Faust K, 2007, SOCIOL METHODOL, V37, P209, DOI 10.1111/j.1467-9531.2007.00179.x
+   FEAGIN JR, 1991, AM SOCIOL REV, V56, P101, DOI 10.2307/2095676
+   FELD SL, 1982, AM SOCIOL REV, V47, P797, DOI 10.2307/2095216
+   Festinger L., 1950, SOCIAL PRESSURES INF, V30, P384, DOI 10.2307/3348388
+   Flache A., 2017, J ARTIFICIAL SOC SOC, V20
+   Flache A, 2011, J CONFLICT RESOLUT, V55, P970, DOI 10.1177/0022002711414371
+   Flache A, 2011, J MATH SOCIOL, V35, P146, DOI 10.1080/0022250X.2010.532261
+   FOSCHI M, 1994, SOC PSYCHOL QUART, V57, P326, DOI 10.2307/2787159
+   Fournier MA, 2009, J SOC CLIN PSYCHOL, V28, P1144, DOI 10.1521/jscp.2009.28.9.1144
+   Ghaed SG, 2007, HEALTH PSYCHOL, V26, P668, DOI 10.1037/0278-6133.26.6.668
+   Gilbert N.G., 2008, AGENT BASED MODELS
+   Goode William J., 1979, The Celebration of Heroes: Prestige as a Control System
+   Goodreau SM, 2009, DEMOGRAPHY, V46, P103, DOI 10.1353/dem.0.0045
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   GROW A, 2015, J ARTIFICIAL SOC SOC, V18
+   Grow A, 2016, SOC PSYCHOL QUART, V79, P156, DOI 10.1177/0190272516643052
+   Heider F, 1946, J PSYCHOL, V21, P107, DOI 10.1080/00223980.1946.9917275
+   HENDRIX L, 1988, SIGNS, V13, P437, DOI 10.1086/494427
+   Hoekman J, 2010, RES POLICY, V39, P662, DOI 10.1016/j.respol.2010.01.012
+   Huo YJ, 2010, PERS SOC PSYCHOL B, V36, P200, DOI 10.1177/0146167209356787
+   ISHIIKUNTZ M, 1987, J MARRIAGE FAM, V49, P413, DOI 10.2307/352310
+   KATZ JS, 1994, SCIENTOMETRICS, V31, P31, DOI 10.1007/BF02018100
+   Lazarsfeld P.F., 1954, Freedom and Control in Modern Society, P18, DOI DOI 10.1111/J.1467-8705.2012.02056_3.X
+   Macy M., 2009, OXFORD HDB ANAL SOCI, P245, DOI DOI 10.1093/OXFORDHB/9780199215362.013.11
+   Mark N, 1998, AM SOCIOL REV, V63, P309, DOI 10.2307/2657552
+   Mark NP, 2009, AM J SOCIOL, V115, P832, DOI 10.1086/606142
+   Mark NP, 2003, AM SOCIOL REV, V68, P319, DOI 10.2307/1519727
+   Marmot M., 2004, Status Syndrome: How Your Social Standing Directly Affects Your Health and Life Expectancy
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   MERTON RK, 1968, SCIENCE, V159, P56, DOI 10.1126/science.159.3810.56
+   Mok D, 2007, SOC NETWORKS, V29, P430, DOI 10.1016/j.socnet.2007.01.009
+   Moody J, 2001, AM J SOCIOL, V107, P679, DOI 10.1086/338954
+   Moss-Racusin CA, 2012, P NATL ACAD SCI USA, V109, P16474, DOI 10.1073/pnas.1211286109
+   Nemenyi M., 2007, EDUCATIO, V9, P84
+   Nickerson RS., 1998, REV GEN PSYCHOL, V2, P175, DOI [10.1037/1089-2680.2.2.175, DOI 10.1037/1089-2680.2.2.175]
+   Niles S, 2003, ENVIRON PLANN A, V35, P1223, DOI 10.1068/a35253
+   Pal J, 2016, J RES ADOLESCENCE, V26, P805, DOI 10.1111/jora.12231
+   Parisi D, 2003, J CONFLICT RESOLUT, V47, P163, DOI 10.1177/0022002702251025
+   Pearson M., 2006, CONNECTIONS, V27, P47
+   Pond R, 2007, PAP REG SCI, V86, P423, DOI 10.1111/j.1435-5957.2007.00126.x
+   Preciado P, 2012, SOC NETWORKS, V34, P18, DOI 10.1016/j.socnet.2011.01.002
+   RIDGEWAY C, 1991, SOC FORCES, V70, P367, DOI 10.2307/2580244
+   Ridgeway CL, 2006, SOC FORCES, V85, P431, DOI 10.1353/sof.2006.0139
+   Ridgeway CL, 2009, AM SOCIOL REV, V74, P44, DOI 10.1177/000312240907400103
+   Ridgeway CL, 1997, SOC PSYCHOL QUART, V60, P14, DOI 10.2307/2787009
+   Ridgeway CL, 1998, AM SOCIOL REV, V63, P331, DOI 10.2307/2657553
+   Ridgeway CL, 2000, ADV GROUP, V17, P77
+   Rouwendal J, 1999, REG SCI URBAN ECON, V29, P491, DOI 10.1016/S0166-0462(99)00002-2
+   Sailer K, 2012, SOC NETWORKS, V34, P47, DOI 10.1016/j.socnet.2011.05.005
+   Sanderson SK, 2005, SOC FORCES, V83, P1425, DOI 10.1353/sof.2005.0080
+   Schmader T, 2002, J EXP SOC PSYCHOL, V38, P194, DOI 10.1006/jesp.2001.1500
+   Stark TH, 2012, SOCIOL EDUC, V85, P179, DOI 10.1177/0038040711427314
+   STEELE CM, 1995, J PERS SOC PSYCHOL, V69, P797, DOI 10.1037/0022-3514.69.5.797
+   STOVER RG, 1984, SOC FORCES, V63, P335, DOI 10.2307/2579049
+   Tay L, 2011, J PERS SOC PSYCHOL, V101, P354, DOI 10.1037/a0023779
+   Van Bavel J, 2016, AGENT BASED MODELLIN, P3
+   Wagner D.G., 2002, New Directions in Contemporary Sociological Theory, P41
+   Watts DJ, 1999, AM J SOCIOL, V105, P493, DOI 10.1086/210318
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Webster M, 1998, AM SOCIOL REV, V63, P351, DOI 10.2307/2657554
+   Wilensky U, 1999, NETLOGO
+   Wong LH, 2006, PHYSICA A, V360, P99, DOI 10.1016/j.physa.2005.04.029
+   World Bank, 2017, WORLD BANK INFR IND
+NR 79
+TC 6
+Z9 8
+U1 1
+U2 14
+PU SOC SOCIOLOGICAL SCIENCE
+PI STANFORD
+PA 940 COTTRELL WAY, STANFORD, CA 94305 USA
+EI 2330-6696
+J9 SOCIOL SCI
+JI Sociol. Sci.
+PD NOV 6
+PY 2017
+VL 4
+BP 611
+EP 640
+DI 10.15195/v4.a25
+PG 30
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA FP2LZ
+UT WOS:000417450200001
+OA Green Published, Green Submitted, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Antonakaki, D
+   Spiliotopoulos, D
+   Samaras, CV
+   Pratikakis, P
+   Ioannidis, S
+   Fragopoulou, P
+AF Antonakaki, Despoina
+   Spiliotopoulos, Dimitris
+   Samaras, Christos V.
+   Pratikakis, Polyvios
+   Ioannidis, Sotiris
+   Fragopoulou, Paraskevi
+TI Social media analysis during political turbulence
+SO PLOS ONE
+LA English
+DT Article
+ID VISUALIZATION
+AB Today, a considerable proportion of the public political discourse on nationwide elections proceeds in Online Social Networks. Through analyzing this content, we can discover the major themes that prevailed during the discussion, investigate the temporal variation of positive and negative sentiment and examine the semantic proximity of these themes. According to existing studies, the results of similar tasks are heavily dependent on the quality and completeness of dictionaries for linguistic preprocessing, entity discovery and sentiment analysis. Additionally, noise reduction is achieved with methods for sarcasm detection and correction. Here we report on the application of these methods on the complete corpus of tweets regarding two local electoral events of worldwide impact: the Greek referendum of 2015 and the subsequent legislative elections. To this end, we compiled novel dictionaries for sentiment and entity detection for the Greek language tailored to these events. We subsequently performed volume analysis, sentiment analysis, sarcasm correction and topic modeling. Results showed that there was a strong anti-austerity sentiment accompanied with a critical view on European and Greek political actions.
+C1 [Antonakaki, Despoina; Samaras, Christos V.; Pratikakis, Polyvios; Ioannidis, Sotiris; Fragopoulou, Paraskevi] FORTH ICS, Iraklion, Crete, Greece.
+   [Spiliotopoulos, Dimitris] Univ Houston, Dept Comp Sci, Houston, TX 77204 USA.
+C3 University of Houston System; University of Houston
+RP Antonakaki, D (corresponding author), FORTH ICS, Iraklion, Crete, Greece.
+EM despoina@ics.forth.gr
+RI Spiliotopoulos, Dimitris/AAH-8178-2020; Antonakaki,
+   Despoina/LEN-0367-2024
+OI Spiliotopoulos, Dimitris/0000-0003-3646-1362; Antonakaki,
+   Despoina/0000-0001-9081-6115
+FU Marie-Curie ITN iSocial - EC [316808]
+FX This work was supported by FP7 Marie-Curie ITN iSocial funded by the EC
+   under grant agreement no 316808 to DA.
+CR Andre P., 2012, Proceedings of the ACM 2012 conference on Computer Supported Cooperative Work - CSCW '12, P471, DOI DOI 10.1145/2145204
+   [Anonymous], 2012, Predicting US Primary Elections with Twitter
+   [Anonymous], 2016, COMPPROP DATA MEMO
+   [Anonymous], 2011, P 49 ANN M ASS COMP
+   [Anonymous], 2010, P LREC
+   [Anonymous], 2011, P INT AAAI C WEB SOC
+   [Anonymous], 2017, SENT STRENGTH DET SH
+   [Anonymous], 2010, ICWSM 10.1. 01804
+   Antonakaki D., 2017, ANTONAK ELECTIONS ST
+   Aue Anthony., 2005, Proceedings of Recent Advances in Natural Language Processing (RANLP), P2
+   Bar F, 2012, P ACL 2012 SYST DEM, P115, DOI [DOI 10.5555/2390470, DOI 10.1145/1935826.1935854]
+   Barbosa Glivia, 2012, P C HUM FACT COMP SY, P2621
+   Blumenthal M., 2015, WHY POLLS GREECE GOT
+   Bo Pang, 2008, Foundations and Trends in Information Retrieval, V2, P1, DOI 10.1561/1500000001
+   Bollen J., 2009, CORR
+   Charalampakis B., 2015, P 16 INT C ENG APPL, P17
+   Charalampakis B, 2016, ENG APPL ARTIF INTEL, V51, P50, DOI 10.1016/j.engappai.2016.01.007
+   Cheng N, 2011, DIGIT INVEST, V8, P78, DOI 10.1016/j.diin.2011.04.002
+   Christophides V., 2015, SYNTHESIS LECT SEMAN, V5, P1, DOI DOI 10.2200/S00655ED1V01Y201507WBE013
+   Chung J. E., 2011, P 25 AAAI C ART INT, P1770, DOI DOI 10.1007/S00247-002-0848-7
+   Cliche M., SARCASM DETECTOR LEA
+   Conover M.D., 2011, P INT AAAI C WEB SOC, P89
+   Davidov Dmitry, 2010, CONLL, P107
+   Derczynski L, 2015, INFORM PROCESS MANAG, V51, P32, DOI 10.1016/j.ipm.2014.10.006
+   Diakopoulos NA, 2010, CHI2010: PROCEEDINGS OF THE 28TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, VOLS 1-4, P1195
+   Eom YH, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0131184
+   Fan R, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0110184
+   Gansner ER, 2000, SOFTWARE PRACT EXPER, V30, P1203, DOI 10.1002/1097-024X(200009)30:11<1203::AID-SPE338>3.0.CO;2-N
+   Gayo-Avello D., 2012, CoRR
+   Golbeck J, 2011, 29TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, P1105
+   He Y, 2012, 8 INT C LANG RES EV
+   Hopkins DJ, 2010, AM J POLIT SCI, V54, P229, DOI 10.1111/j.1540-5907.2009.00428.x
+   Joshi A, 2016, ARXIV161104326
+   Lampos V., 2013, P 51 ANN M ASS COMPU, P993
+   Liebrecht C., 2013, P 4 WORKSH COMP APPR
+   Livne A., 2011, ICWSM, V11, P17
+   Lukasik M., 2015, CORR
+   Maynard D, 2014, LREC 2014 - NINTH INTERNATIONAL CONFERENCE ON LANGUAGE RESOURCES AND EVALUATION, P4238
+   Mejova Y., 2013, Proceedings of the sixth ACM international conference on Web search and data mining, V6, P517, DOI DOI 10.1145/2433396.2433463.
+   Meng X., 2012, P ACM SIGKDD INT C K, P379, DOI DOI 10.1145/2339530.2339592
+   Mikros G.K., 2013, AAAI SPRING S AN MIC
+   Mohammad SM, 2015, INFORM PROCESS MANAG, V51, P480, DOI 10.1016/j.ipm.2014.09.003
+   Mutton P, 2003, IEEE INFOR VIS, P300, DOI 10.1109/IV.2003.1217994
+   O'Connor B, 2010, P INT AAAI C WEBL SO, P993
+   PAPATHEODOROU N, 2013, ID ANN EM PROP VERBS, V8186, P588
+   Prasetyo N. D., 2015, P 26 ACM C HYPERTEXT, P149
+   Preotiuc-Pietro D, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0138717
+   Rahman M., 2016, PROC INT C NETW SYST, P1
+   Rill S, 2014, KNOWL-BASED SYST, V69, P24, DOI 10.1016/j.knosys.2014.05.008
+   Riloff Ellen, 2013, P 2013 C EMP METH NA
+   Sievert C., 2014, P WORKSH INT LANG LE, P63, DOI [DOI 10.3115/V1/W14-3110, 10.3115/v1/W14-3110]
+   Skoric M., 2012, 2012 45th Hawaii International Conference on System Sciences (HICSS), P2583, DOI 10.1109/HICSS.2012.607
+   Thelwall M, 2013, J AM SOC INF SCI TEC, V64, P1608, DOI 10.1002/asi.22872
+   Thelwall M, 2012, J AM SOC INF SCI TEC, V63, P163, DOI 10.1002/asi.21662
+   Tsakalidis A, 2014, LECT NOTES COMPUT SC, V8787, P168, DOI 10.1007/978-3-319-11746-1_12
+   Waugh B., 2013, The influence and deception of Twitter: The authenticity of the narrative and slacktivism in the australian electoral process
+NR 56
+TC 25
+Z9 27
+U1 1
+U2 19
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD OCT 31
+PY 2017
+VL 12
+IS 10
+AR e0186836
+DI 10.1371/journal.pone.0186836
+PG 23
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA FL2ZD
+UT WOS:000414088900026
+PM 29088263
+OA Green Published, Green Submitted, gold
+DA 2024-11-22
+ER

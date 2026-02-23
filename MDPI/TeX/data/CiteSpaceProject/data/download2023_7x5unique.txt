@@ -1,0 +1,626 @@
+
+PT J
+AU De Bacco, C
+   Contisciani, M
+   Cardoso-Silva, J
+   Safdari, H
+   Borges, GL
+   Baptista, D
+   Sweet, T
+   Young, JG
+   Koster, J
+   Ross, CT
+   McElreath, R
+   Redhead, D
+   Power, EA
+AF De Bacco, Caterina
+   Contisciani, Martina
+   Cardoso-Silva, Jonathan
+   Safdari, Hadiseh
+   Lima Borges, Gabriela
+   Baptista, Diego
+   Sweet, Tracy
+   Young, Jean-Gabriel
+   Koster, Jeremy
+   Ross, Cody T.
+   McElreath, Richard
+   Redhead, Daniel
+   Power, Eleanor A.
+TI Latent network models to account for noisy, multiply reported social
+   network data
+SO JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES A-STATISTICS IN SOCIETY
+LA English
+DT Article
+DE Social network data; mutuality; reliability; variational inference;
+   latent network; network measurement
+ID INFORMANT ACCURACY; INFERENCE; RECIPROCITY; PERCEPTION; PATTERNS;
+   RECALL; POWER
+AB Social network data are often constructed by incorporating reports from multiple individuals. However, it is not obvious how to reconcile discordant responses from individuals. There may be particular risks with multiply reported data if people's responses reflect normative expectations-such as an expectation of balanced, reciprocal relationships. Here, we propose a probabilistic model that incorporates ties reported by multiple individuals to estimate the unobserved network structure. In addition to estimating a parameter for each reporter that is related to their tendency of over- or under-reporting relationships, the model explicitly incorporates a term for 'mutuality', the tendency to report ties in both directions involving the same alter. Our model's algorithmic implementation is based on variational inference, which makes it efficient and scalable to large systems. We apply our model to data from a Nicaraguan community collected with a roster-based design and 75 Indian villages collected with a name-generator design. We observe strong evidence of 'mutuality' in both datasets, and find that this value varies by relationship type. Consequently, our model estimates networks with reciprocity values that are substantially different than those resulting from standard deterministic aggregation approaches, demonstrating the need to consider such issues when gathering, constructing, and analysing survey-based network data.
+C1 [De Bacco, Caterina; Contisciani, Martina; Safdari, Hadiseh; Baptista, Diego] Cyber Valley, Max Planck Inst Intelligent Syst, Tubingen, Germany.
+   [Cardoso-Silva, Jonathan; Power, Eleanor A.] London Sch Econ & Polit Sci, Dept Methodol, London, England.
+   [Cardoso-Silva, Jonathan] London Sch Econ & Polit Sci, Data Sci Inst, London, England.
+   [Lima Borges, Gabriela; Ross, Cody T.; McElreath, Richard; Redhead, Daniel] Max Planck Inst Evolutionary Anthropol, Dept Human Behav Ecol & Culture, Leipzig, Germany.
+   [Sweet, Tracy] Univ Maryland, Dept Human Dev & Quantitat Methodol, College Pk, MD USA.
+   [Young, Jean-Gabriel] Univ Vermont, Vermont Complex Syst Ctr, Dept Math & Stat, Burlington, VT USA.
+   [Koster, Jeremy] Univ Cincinnati, Dept Anthropol, Cincinnati, OH USA.
+   [Koster, Jeremy] Natl Sci Fdn, Div Behav & Cognit Sci, Alexandria, VA USA.
+   [Power, Eleanor A.] Santa Fe Inst, Santa Fe, NM USA.
+   [Power, Eleanor A.] London Sch Econ & Polit Sci, Dept Methodol, Houghton St, London WC2A 2AE, England.
+C3 Max Planck Society; University of London; London School Economics &
+   Political Science; University of London; London School Economics &
+   Political Science; Max Planck Society; University System of Maryland;
+   University of Maryland College Park; University of Vermont; University
+   System of Ohio; University of Cincinnati; National Science Foundation
+   (NSF); NSF - Directorate for Social, Behavioral & Economic Sciences
+   (SBE); NSF - Division of Behavioral & Cognitive Sciences (BCS); The
+   Santa Fe Institute; University of London; London School Economics &
+   Political Science
+RP Power, EA (corresponding author), London Sch Econ & Polit Sci, Dept Methodol, Houghton St, London WC2A 2AE, England.
+EM e.a.power@lse.ac.uk
+RI Cardoso Silva, Jonathan/ADG-0339-2022; Young, Jean-Gabriel/K-1365-2019
+OI Power, Eleanor A/0000-0002-3064-2050; Contisciani,
+   Martina/0000-0002-6103-5499; Sweet, Tracy/0000-0001-9929-7518; Cardoso
+   Silva, Jonathan/0000-0002-9566-7400; Young,
+   Jean-Gabriel/0000-0002-4464-2692
+FU UKRI Economic and Social Research Council Research Methods Development
+   Grant [ES/V006495/1]; Cyber Valley Research Fund; Department of Human
+   Behaviour, Ecology, and Culture at the Max Planck Institute for
+   Evolutionary Anthropology; ESRC [ES/V006495/1] Funding Source: UKRI
+FX This paper comes out of a collaboration funded by a UKRI Economic and
+   Social Research Council Research Methods Development Grant
+   (ES/V006495/1). The authors thank the International Max Planck Research
+   School for Intelligent Systems (IMPRS-IS) for supporting Martina
+   Contisciani and Diego Baptista. Caterina De Bacco, Martina Contisciani,
+   and Hadiseh Safdari were supported by the Cyber Valley Research Fund.
+   Daniel Redhead, Cody T. Ross, and Richard McElreath were supported by
+   the Department of Human Behaviour, Ecology, and Culture at the Max
+   Planck Institute for Evolutionary Anthropology.
+CR Adams AM, 2006, SOC NETWORKS, V28, P363, DOI 10.1016/j.socnet.2005.07.007
+   Adams J, 2007, SOC NETWORKS, V29, P44, DOI 10.1016/j.socnet.2005.11.009
+   Amini L, 2004, COMPUT COMMUN, V27, P557, DOI 10.1016/j.comcom.2003.08.021
+   An WH, 2022, SOC NETWORKS, V70, P187, DOI 10.1016/j.socnet.2021.12.006
+   An WH, 2015, SOC NETWORKS, V40, P25, DOI 10.1016/j.socnet.2014.07.002
+   [Anonymous], 2008, THESIS U WASHINGTON
+   Ball B., 2013, Network Science, V1, P16, DOI [DOI 10.1017/NWS.2012.4, 10.1017/nws.2012.4]
+   Banerjee A, 2013, SCIENCE, V341, P363, DOI 10.1126/science.1236498
+   Bell DC, 2007, SOC NETWORKS, V29, P279, DOI 10.1016/j.socnet.2006.12.004
+   BERNARD HR, 1984, ANNU REV ANTHROPOL, V13, P495, DOI 10.1146/annurev.an.13.100184.002431
+   BESAG J, 1974, J ROY STAT SOC B MET, V36, P192
+   Blei DM, 2017, J AM STAT ASSOC, V112, P859, DOI 10.1080/01621459.2017.1285773
+   Borgatti SP, 2009, SCIENCE, V323, P892, DOI 10.1126/science.1165821
+   Brands RA, 2013, J ORGAN BEHAV, V34, pS82, DOI 10.1002/job.1890
+   Brewer DD, 2000, SOC NETWORKS, V22, P29, DOI 10.1016/S0378-8733(99)00017-9
+   BURT RS, 1984, SOC NETWORKS, V6, P293, DOI 10.1016/0378-8733(84)90007-8
+   Butts CT, 2003, SOC NETWORKS, V25, P103, DOI 10.1016/S0378-8733(02)00038-2
+   CASELLA G, 1985, AM STAT, V39, P83, DOI 10.2307/2682801
+   Chicco D, 2020, BMC GENOMICS, V21, DOI 10.1186/s12864-019-6413-7
+   Contisciani M, 2022, J COMPLEX NETW, V10, DOI 10.1093/comnet/cnac034
+   D'haeseleer P, 2004, 2004 IEEE COMPUTATIONAL SYSTEMS BIOINFORMATICS CONFERENCE, PROCEEDINGS, P216
+   De Bacco C, 2017, PHYS REV E, V95, DOI 10.1103/PhysRevE.95.042317
+   Eagle DE, 2015, SOC NETWORKS, V40, P75, DOI 10.1016/j.socnet.2014.07.005
+   Eagle N, 2009, P NATL ACAD SCI USA, V106, P15274, DOI 10.1073/pnas.0900282106
+   Fehr E, 1998, EUR ECON REV, V42, P845, DOI 10.1016/S0014-2921(97)00131-1
+   FREEMAN LC, 1992, SOC PSYCHOL QUART, V55, P118, DOI 10.2307/2786941
+   Gelman A, 1996, STAT SINICA, V6, P733
+   Gelman A., 2014, BAYESIAN DATA ANAL
+   GIVENS CR, 1984, MICH MATH J, V31, P231
+   Hobson EA, 2021, BIOL REV, V96, P2716, DOI 10.1111/brv.12775
+   Hoff PD, 2002, J AM STAT ASSOC, V97, P1090, DOI 10.1198/016214502388618906
+   Hoff Peter, 2013, Netw Sci (Camb Univ Press), V1, P253
+   HOLLAND PW, 1983, SOC NETWORKS, V5, P109, DOI 10.1016/0378-8733(83)90021-7
+   Holt-Lunstad J, 2015, PERSPECT PSYCHOL SCI, V10, P227, DOI 10.1177/1745691614568352
+   Jackson MO, 2012, AM ECON REV, V102, P1857, DOI 10.1257/aer.102.5.1857
+   Jackson MO, 2021, 3795626 SSRN
+   Karrer B, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.016107
+   KENNY DA, 1984, ADV EXP SOC PSYCHOL, V18, P141, DOI 10.1016/S0065-2601(08)60144-6
+   KILLWORTH PD, 1976, HUM ORGAN, V35, P269, DOI 10.17730/humo.35.3.10215j2m359266n2
+   Koster J, 2018, ROY SOC OPEN SCI, V5, DOI 10.1098/rsos.172159
+   KRACKHARDT D, 1987, SOC NETWORKS, V9, P109, DOI 10.1016/0378-8733(87)90009-8
+   KRACKHARDT D, 1990, AM ANTHROPOL, V92, P142, DOI 10.1525/aa.1990.92.1.02a00100
+   Kristiansen S, 2004, AM J ECON SOCIOL, V63, P1149, DOI 10.1111/j.1536-7150.2004.00339.x
+   Lazega E., 2015, Multilevel Network Analysis for the Social Sciences: Theory, Methods and Applications
+   Lazer D, 2021, NATURE, V595, P189, DOI 10.1038/s41586-021-03660-7
+   Lee F, 2018, SOC NETWORKS, V55, P55, DOI 10.1016/j.socnet.2018.05.005
+   Lin N., 2002, SOCIAL CAPITAL THEOR
+   Lungeanu A, 2021, SOC NETWORKS, V66, P171, DOI 10.1016/j.socnet.2021.02.007
+   Marin A, 2004, SOC NETWORKS, V26, P289, DOI 10.1016/j.socnet.2004.06.001
+   Marineau JE, 2018, SOC NETWORKS, V54, P145, DOI 10.1016/j.socnet.2018.01.006
+   Marsden PeterV., 2005, Models and Methods in Social Network Analysis, P8
+   MARSDEN PV, 1990, ANNU REV SOCIOL, V16, P435, DOI 10.1146/annurev.so.16.080190.002251
+   Marsden PV, 2003, SOC NETWORKS, V25, P1, DOI 10.1016/S0378-8733(02)00009-6
+   Michael Titterington D., 1985, Statistical analysis of finite mixture distributions, V198
+   Molm LD, 2010, SOC PSYCHOL QUART, V73, P119, DOI 10.1177/0190272510369079
+   MORRIS CN, 1983, J AM STAT ASSOC, V78, P47, DOI 10.2307/2287098
+   NEWCOMB T, 1958, AM SOCIOL REV, V23, P742, DOI 10.2307/2089062
+   Newcomb T.M., 1961, The acquaintance process as a prototype of human interaction, DOI DOI 10.1037/13156-015
+   Newman MEJ, 2018, PHYS REV E, V98, DOI 10.1103/PhysRevE.98.062321
+   Newman MEJ, 2018, NAT PHYS, V14, P542, DOI 10.1038/s41567-018-0076-1
+   Nolin DA, 2010, HUM NATURE-INT BIOS, V21, P243, DOI 10.1007/s12110-010-9091-3
+   Park PS, 2018, SCIENCE, V362, P1410, DOI 10.1126/science.aau9735
+   Peixoto TP, 2018, PHYS REV X, V8, DOI 10.1103/PhysRevX.8.041011
+   Perkins JM, 2015, SOC SCI MED, V125, P60, DOI 10.1016/j.socscimed.2014.08.019
+   Power EA, 2017, NAT HUM BEHAV, V1, DOI 10.1038/s41562-017-0057
+   Pustejovsky JE, 2009, SOC NETWORKS, V31, P221, DOI 10.1016/j.socnet.2009.06.001
+   Ready E, 2021, NETW SCI, V9, P387, DOI 10.1017/nws.2021.18
+   Ready E, 2018, CURR ANTHROPOL, V59, P74, DOI 10.1086/696018
+   Redhead D., PSYCHOL METHODS
+   Redhead D, 2022, PHILOS T R SOC B, V377, DOI 10.1098/rstb.2020.0440
+   Redhead D, 2021, EVOL HUM SCI, V3, DOI 10.1017/ehs.2021.26
+   Robins G, 2007, SOC NETWORKS, V29, P173, DOI 10.1016/j.socnet.2006.08.002
+   Ross CT, 2022, BEHAV RES METHODS, V54, P611, DOI 10.3758/s13428-021-01606-5
+   Safdari H, 2021, PHYS REV RES, V3, DOI 10.1103/PhysRevResearch.3.023209
+   Sewell DK, 2019, NETW SCI, V7, P160, DOI 10.1017/nws.2019.1
+   Shakya HB, 2017, SOC NETWORKS, V48, P157, DOI 10.1016/j.socnet.2016.08.008
+   Simpson B, 2011, SOC NETWORKS, V33, P166, DOI 10.1016/j.socnet.2010.10.007
+   Simpson CR, 2022, SOC NETWORKS, V69, P55, DOI 10.1016/j.socnet.2020.02.010
+   Smith KP, 2008, ANNU REV SOCIOL, V34, P405, DOI 10.1146/annurev.soc.34.040507.134601
+   Sosa J, 2021, SOC NETWORKS, V65, P85, DOI 10.1016/j.socnet.2020.12.002
+   Sprinzak E, 2003, J MOL BIOL, V327, P919, DOI 10.1016/S0022-2836(03)00239-0
+   von Rueden CR, 2019, P ROY SOC B-BIOL SCI, V286, DOI 10.1098/rspb.2019.1367
+   WARNER RM, 1979, J PERS SOC PSYCHOL, V37, P1742, DOI 10.1037/0022-3514.37.10.1742
+   Young JG, 2020, J COMPLEX NETW, V8, DOI 10.1093/comnet/cnaa046
+   Yousefi-Nooraie R, 2019, SOCIOL METHOD RES, V48, P243, DOI 10.1177/0049124117701484
+NR 85
+TC 5
+Z9 5
+U1 0
+U2 5
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0964-1998
+EI 1467-985X
+J9 J ROY STAT SOC A
+JI J. R. Stat. Soc. Ser. A-Stat. Soc.
+PD JUL 1
+PY 2023
+VL 186
+IS 3
+BP 355
+EP 375
+DI 10.1093/jrsssa/qnac004
+EA FEB 2023
+PG 21
+WC Social Sciences, Mathematical Methods; Statistics & Probability
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Mathematical Methods In Social Sciences; Mathematics
+GA K2KW2
+UT WOS:000928945000001
+OA hybrid, Green Submitted, Green Accepted
+DA 2024-11-22
+ER
+
+PT J
+AU Liu, G
+   Yi, H
+   Yu, CP
+AF Liu, Guang
+   Yi, Hong
+   Yu, Chih-Ping
+TI Shareholding Network of Institutional Investors and the Information
+   Efficiency of Capital Market: Evidence From China
+SO SAGE OPEN
+LA English
+DT Article
+DE shareholding network; information efficiency; open-ended fund; stock
+   price synchronicity; institutional investors
+ID EARNINGS; RETURNS
+AB A higher efficient capital market and direct financing environment are key to excellent enterprise performance and high-quality economic development in China. In recent years, institutional investors have gradually significantly impacted market information efficiency, while the existing studies still offer different conclusions. Given this, firstly, we chose the social network analysis as the study method, taking the open-ended equity mutual funds in the A-share stock market from 2010 to 2019 as samples, constructing the shareholding networks by taking the top ten bulk-holding stocks in every sample fund's annual report as the connection. Then, we chronologically reveal the characteristics of those networks, such as scale, density, centrality, and so on. Lastly, we empirically test the influence of the institutional investors embedded in the shareholding networks on the information efficiency, and so does the robustness check. The results show that the shareholding networks are gradually expanding in scale and increasing in density. Furthermore, institutional investors can improve stock price informativeness and promote market information efficiency through a shareholding network, and the higher the network location of institutional investors, the greater the information effect. The conclusions based on the systemic view not only enrich the research on the information function of institutional investors, broaden the field of social network theory, but also provide guidance for regulating institutional investors and improving market transparency.
+C1 [Liu, Guang; Yi, Hong] Guangzhou Univ, Guangzhou, Peoples R China.
+   [Yu, Chih-Ping] Feng Chia Univ, Taichung, Taiwan.
+   [Yu, Chih-Ping] Feng Chia Univ, Dept Risk Management & Insurance, 100 Wenhwa Rd, Taichung 40724, Taiwan.
+C3 Guangzhou University; Feng Chia University; Feng Chia University
+RP Yu, CP (corresponding author), Feng Chia Univ, Dept Risk Management & Insurance, 100 Wenhwa Rd, Taichung 40724, Taiwan.
+EM yu.chihping38@gmail.com
+OI Yu, Chih-Ping/0000-0002-8413-0122; , yi hong/0000-0002-5510-3029
+FU National Social Science Foundation Project [19BJY249]
+FX The author(s) disclosed receipt of the following financial support for
+   the research, authorship, and/or publication of this article: This
+   research was funded by National Social Science Foundation Project, grant
+   number 19BJY249.
+CR Allen F, 2005, J FINANC ECON, V77, P57, DOI 10.1016/j.jfineco.2004.06.010
+   Ayers BC, 2003, REV ACC STUD, V8, P47, DOI 10.1023/A:1022647822683
+   Bajo E, 2016, J FINANC ECON, V122, P376, DOI 10.1016/j.jfineco.2015.12.001
+   Bansal R., 2018, ASIAN J ACOUNT RES, V3, P236, DOI [10.1108/AJAR-08-2018-0026, DOI 10.1108/AJAR-08-2018-0026]
+   Bansal R, 2021, COGENT ECON FINANC, V9, DOI 10.1080/23322039.2021.1922179
+   Bartov E, 2000, ACCOUNT REV, V75, P43, DOI 10.2308/accr.2000.75.1.43
+   Boehmer E, 2009, REV FINANC STUD, V22, P3563, DOI 10.1093/rfs/hhp028
+   Bushee BJ, 2007, J ACCOUNTING RES, V45, P289, DOI 10.1111/j.1475-679X.2007.00234.x
+   Chen X.-C., 2017, Financial Research, V7, P140
+   Colla P, 2010, REV FINANC STUD, V23, P203, DOI 10.1093/rfs/hhp021
+   El-Khatib R, 2015, J FINANC ECON, V116, P349, DOI 10.1016/j.jfineco.2015.01.001
+   FAMA EF, 1970, J FINANC, V25, P383, DOI 10.2307/2325486
+   GROSSMAN SJ, 1980, AM ECON REV, V70, P393
+   Guo X., 2018, BUSINESS MANAGEMENT, V40, P152
+   侯宇, 2008, [金融研究, Financial Studies], P131
+   Hu J., 2012, Economic Perspectives, V10, P82
+   Jin L, 2006, J FINANC ECON, V79, P257, DOI 10.1016/j.jfineco.2004.11.003
+   Kong DM., 2015, Journal of Management Science, V18, P1
+   Lei Q., 2012, Journal of Financial Research, V7, P182
+   Li M., 2014, Shanghai Journal of Economics, V3, P99
+   [林忠国 Lin Zhongguo], 2011, [系统工程理论与实践, Systems Engineering-Theory & Practice], V31, P606
+   Liu J., 2016, Management World, V1, P54
+   Luo R., 2020, China Industrial Economics, V3, P137
+   Mishra AK, 2023, INT J CONSUM STUD, V47, P563, DOI 10.1111/ijcs.12850
+   Morck R, 2000, J FINANC ECON, V58, P215, DOI 10.1016/S0304-405X(00)00071-4
+   Ozsoylev HN, 2014, REV FINANC STUD, V27, P1323, DOI 10.1093/rfs/hht065
+   Pan N., 2015, Journal of Management Sciences in China, V18, P90
+   Pareek Ankur., 2012, Information networks: Implications for mutual fund trading behavior and stock returns
+   Piotroski JD, 2004, ACCOUNT REV, V79, P1119, DOI 10.2308/accr.2004.79.4.1119
+   ROLL R, 1988, J FINANC, V43, P541, DOI 10.2307/2328183
+   Shen Y., 2013, Management World, V8, P53
+   Shi Y., 2014, EC RES J, V49, P100
+   Verma R K., 2021, Journal of Asia-Pacific Business, V22, P109, DOI DOI 10.1080/10599231.2021.1905492
+   Verma RK, 2021, INT J EMERG MARK, V16, P1291, DOI 10.1108/IJOEM-11-2019-0993
+   Walden J, 2019, REV ECON STUD, V86, P2248, DOI 10.1093/restud/rdy058
+   Wang Y., 2011, Journal of Financial Research, V10, P112
+   [王亚平 WANG Yaping], 2009, [金融研究, Financial Studies], P162
+   Xiao X.-R., 2012, Management World, V12, P35
+   Zahera SA, 2019, QUAL RES FINANC MARK, V11, P2, DOI 10.1108/QRFM-07-2018-0081
+   Zahera SA, 2018, QUAL RES FINANC MARK, V10, P210, DOI 10.1108/QRFM-04-2017-0028
+NR 40
+TC 1
+Z9 1
+U1 5
+U2 18
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 2158-2440
+J9 SAGE OPEN
+JI SAGE Open
+PD OCT
+PY 2023
+VL 13
+IS 4
+AR 21582440231210080
+DI 10.1177/21582440231210080
+PG 13
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA AP2Q2
+UT WOS:001119605000001
+OA gold
+DA 2024-11-22
+ER
+
+PT J
+AU Duxbury, SW
+   Haynie, DL
+AF Duxbury, Scott W.
+   Haynie, Dana L.
+TI Network embeddedness in illegal online markets: endogenous sources of
+   prices and profit in anonymous criminal drug trade
+SO SOCIO-ECONOMIC REVIEW
+LA English
+DT Article
+DE illegal markets; markets; networks; technology; prices; trust
+ID SOCIAL-STRUCTURE; SILK ROAD; TELL US; CRYPTOMARKET; COOPERATION; CRIME
+AB Although economic sociology emphasizes the role of social networks for shaping economic action, little research has examined how network governance structures affect prices in the unregulated and high-risk social context of online criminal trade. We consider how overembeddedness-a state of excessive interconnectedness among market actors-arises from endogenous trade relations to shape prices in illegal online markets with aggregate consequences for short-term gross illegal revenue. Drawing on transaction-level data on 16 847 illegal drug transactions over 14 months of trade in a 'darknet' drug market, we assess how repeated exchanges and closure in buyer-vendor trade networks nonlinearly influence prices and short-term gross revenue from illegal drug trade. Using a series of panel models, we find that increases in closure and repeated exchange raise prices until a threshold is reached upon which prices and gross monthly revenue begin to decline as networks become overembedded. Findings provide insight into the network determinants of prices and gross monthly revenue in illegal online drug trade and illustrate how network structure shapes prices in criminal markets, even in anonymous trade environments.
+C1 [Duxbury, Scott W.] Univ N Carolina, Dept Sociol, Chapel Hill, NC 27515 USA.
+   [Haynie, Dana L.] Ohio State Univ, Dept Sociol, Columbus, OH 43210 USA.
+C3 University of North Carolina; University of North Carolina Chapel Hill;
+   University System of Ohio; Ohio State University
+RP Duxbury, SW (corresponding author), Univ N Carolina, Dept Sociol, Chapel Hill, NC 27515 USA.
+EM duxbury@email.unc.edu
+FU National Science Foundation [GRT0004637, GRT1949037]
+FX This research was supported by two National Science Foundation grants:
+   GRT0004637 and GRT1949037.
+CR Aldridge J, 2016, INT J DRUG POLICY, V35, P7, DOI 10.1016/j.drugpo.2016.04.020
+   [Anonymous], 2004, TECHNICAL REPORT PRI
+   [Anonymous], 2008, WORLD DRUG REPORT 20
+   [Anonymous], 2016, World drug report
+   [Anonymous], 2014, What America's users spend on illicit drugs: 2000-2010
+   Barratt MJ, 2016, INT J DRUG POLICY, V35, P24, DOI 10.1016/j.drugpo.2016.04.019
+   Barratt MJ, 2012, ADDICTION, V107, P683, DOI 10.1111/j.1360-0443.2011.03709.x
+   BECKER GS, 1968, J POLIT ECON, V76, P169, DOI 10.1086/259394
+   Becker GS, 2006, J POLIT ECON, V114, P38, DOI 10.1086/498918
+   Beckert J, 2013, SOCIO-ECON REV, V11, P5, DOI 10.1093/ser/mws020
+   Beckert J, 2011, SOCIO-ECON REV, V9, P757, DOI 10.1093/ser/mwr012
+   Beckert J, 2009, THEOR SOC, V38, P245, DOI 10.1007/s11186-008-9082-0
+   Beckert Jens., 2017, The Architecture of Illegal Markets: Towards an Economic Sociology of Illegality in the Economy, VFirst
+   Bouchard M, 2007, GLOB CRIME, V8, P325, DOI 10.1080/17440570701739702
+   Bouchard Martin, 2009, Illegal Markets and the Economics of Organized Crime
+   Brandenberger L, 2018, SOC NETWORKS, V54, P238, DOI 10.1016/j.socnet.2018.02.001
+   Bright D, 2019, J QUANT CRIMINOL, V35, P237, DOI 10.1007/s10940-018-9379-8
+   Bushway S, 2008, CRIME JUSTICE, V37, P389, DOI 10.1086/524283
+   Butts CT, 2008, SOCIOL METHODOL, V38, P155, DOI 10.1111/j.1467-9531.2008.00203.x
+   Caulkins J.P., 2006, SOCIO-ECON PLAN SCI, V40, P1, DOI [10.1016/j.seps.2004.08.002, DOI 10.1016/j.seps.2004.08.002]
+   Caulkins J.P., 1994, Developing price series for cocaine
+   CAULKINS JP, 1995, J URBAN ECON, V37, P38, DOI 10.1006/juec.1995.1003
+   Caulkins JP, 1999, J DRUG ISSUES, V29, P323, DOI 10.1177/002204269902900211
+   Caulkins JP, 1998, J DRUG ISSUES, V28, P593, DOI 10.1177/002204269802800302
+   Cox J., 2016, INTERNET DRUG MARKET, P41
+   Décary-Hétu D, 2016, INT J DRUG POLICY, V35, P69, DOI 10.1016/j.drugpo.2016.06.003
+   Desimone J, 2003, ECON INQ, V41, P98, DOI 10.1093/ei/41.1.98
+   Diekmann A, 2014, AM SOCIOL REV, V79, P65, DOI 10.1177/0003122413512316
+   Duxbury SW, 2018, J QUANT CRIMINOL, V34, P921, DOI 10.1007/s10940-017-9359-4
+   Duxbury SW, 2018, SOC NETWORKS, V52, P238, DOI 10.1016/j.socnet.2017.09.002
+   Fligstein N., 1990, ARCHITECTURE MARKETS
+   Fligstein N, 2007, ANNU REV SOCIOL, V33, P105, DOI 10.1146/annurev.soc.33.040406.131736
+   Gambetta D, 2009, CODES OF THE UNDERWORLD: HOW CRIMINALS COMMUNICATE, P1
+   Granovetter M, 2005, J ECON PERSPECT, V19, P33, DOI 10.1257/0895330053147958
+   GRANOVETTER M, 1985, AM J SOCIOL, V91, P481, DOI 10.1086/228311
+   Granovetter MarkS., 1992, SOCIOLOGY EC LIFE
+   Greif A, 2006, POLIT ECON I DECIS, P1, DOI 10.1017/CBO9780511791307
+   Hedegaard Holly, 2020, NCHS Data Brief, P1, DOI 10.15620/cdc:101761
+   Hillmann H, 2011, AM J SOCIOL, V117, P484, DOI 10.1086/661772
+   Horowitz JL, 2001, J AM STAT ASSOC, V96, P1254, DOI 10.1198/016214501753381904
+   Jacques S, 2008, CRIMINOLOGY, V46, P221, DOI 10.1111/j.1745-9125.2008.00102.x
+   Kollock P, 1999, ADV GROUP, V16, P99
+   KOLLOCK P, 1994, AM J SOCIOL, V100, P313, DOI 10.1086/230539
+   Kranton RE, 2001, AM ECON REV, V91, P485, DOI 10.1257/aer.91.3.485
+   Ladegaard I, 2020, SOC FORCES, V99, P532, DOI 10.1093/sf/soz140
+   Latapy M, 2008, SOC NETWORKS, V30, P31, DOI 10.1016/j.socnet.2007.04.006
+   Levitt SD, 2000, Q J ECON, V115, P755, DOI 10.1162/003355300554908
+   Loughran TA, 2013, AM SOCIOL REV, V78, P925, DOI 10.1177/0003122413505588
+   Lusher D., 2013, EXPONENTIAL RANDOM G, V35
+   Martin J, 2018, BMJ-BRIT MED J, V361, DOI 10.1136/bmj.k2270
+   Moeller K, 2019, CRIMINOLOGY, V57, P289, DOI 10.1111/1745-9125.12202
+   Morselli C, 2006, CRIMINOLOGY, V44, P17, DOI 10.1111/j.1745-9125.2006.00041.x
+   Morselli C, 2017, SOC NETWORKS, V51, P118, DOI 10.1016/j.socnet.2017.04.003
+   Norbutas L, 2020, Soc. Netw., V63, P150
+   Norbutas L, 2018, INT J DRUG POLICY, V56, P92, DOI 10.1016/j.drugpo.2018.03.016
+   Papachristos AV, 2013, AM SOCIOL REV, V78, P417, DOI 10.1177/0003122413486800
+   PODOLNY JM, 1994, ADMIN SCI QUART, V39, P458, DOI 10.2307/2393299
+   Podolny JoelM., 2010, Status signals: A sociological study of market competition
+   Przepiorka W, 2017, EUR SOCIOL REV, V33, P752, DOI 10.1093/esr/jcx072
+   Resnick P, 2002, ADV APP M-E, V11, P127
+   Reuter P, 2009, CRIME LAW SOCIAL CH, V52, P275, DOI 10.1007/s10611-009-9197-x
+   Riberio A.S., 2015, EARLY MODERN TRADING
+   Robins G, 2007, SOC NETWORKS, V29, P192, DOI 10.1016/j.socnet.2006.08.003
+   Smith CM, 2016, AM SOCIOL REV, V81, P644, DOI 10.1177/0003122416650149
+   Snijders TAB, 2001, SOCIOL METHODOL, V31, P361, DOI 10.1111/0081-1750.00099
+   Soska K, 2015, PROCEEDINGS OF THE 24TH USENIX SECURITY SYMPOSIUM, P33
+   Steffensmeier D., 2005, Confessions of a Dying Thief: Understanding Criminal Careers and Criminal Enterprise
+   Steffensmeier D.J., 1986, FENCE SHADOW 2 WORLD
+   Uzzi B, 2004, AM SOCIOL REV, V69, P319, DOI 10.1177/000312240406900301
+   Uzzi B, 1997, ADMIN SCI QUART, V42, P35, DOI 10.2307/2393808
+   Uzzi B, 1996, AM SOCIOL REV, V61, P674, DOI 10.2307/2096399
+   Van Hout Marie, 2014, International Journal of Drug Policy, V24, P524, DOI DOI 10.1016/J.DRUGPO.2013.08.011
+   Van Hout MC, 2013, INT J DRUG POLICY, V24, P524, DOI 10.1016/j.drugpo.2013.08.011
+   Van Hout MC, 2013, INT J DRUG POLICY, V24, P385, DOI 10.1016/j.drugpo.2013.01.005
+   Winsock A., 2018, GLOBAL DRUG SURVEY 2
+NR 75
+TC 14
+Z9 14
+U1 3
+U2 9
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 1475-1461
+EI 1475-147X
+J9 SOCIO-ECON REV
+JI Socio-Econ. Rev.
+PD MAR 17
+PY 2023
+VL 21
+IS 1
+BP 25
+EP 50
+AR mwab027
+DI 10.1093/ser/mwab027
+EA JUL 2021
+PG 26
+WC Economics; Political Science; Sociology
+WE Social Science Citation Index (SSCI)
+SC Business & Economics; Government & Law; Sociology
+GA W7OA4
+UT WOS:000764448200001
+DA 2024-11-22
+ER
+
+PT J
+AU Moorman, SM
+AF Moorman, Sara M.
+TI Age integration in the social convoys of young and late midlife adults
+SO ADVANCES IN LIFE COURSE RESEARCH
+LA English
+DT Article
+DE Friends; Homophily; Non -kin; Social network
+ID IMPORTANT MATTERS; INCREASING IMPORTANCE; OLDER-ADULTS; NETWORKS;
+   NONKIN; CORE; LIFE; OPPORTUNITIES; SEGREGATION; SIMILARITY
+AB Homophily on the basis of age is a notable characteristic of social convoys across the life course. Ties to older and younger persons, therefore, are both unusual and potentially provide unique social support resources. This study examined relationships with older, younger, and same-aged non-kin ties among young and late midlife adults. Data came from the University of California Berkeley Social Networks Study (UCNets), a sample of 485 people aged 21-30 and 674 people aged 50-70. A majority of non-kin ties were to people whose age was within 5 years of the participant's own age, although the majority was much larger for young adults (81 %) than late midlife adults (52 %). Younger and older ties often came from different social settings (school, work, religious organi-zations, and neighborhoods) than same-aged ties, and there were also some cohort differences in the social settings that produced younger, older, and same-aged ties. Younger and older ties also provided different forms of social support than did ties to same-aged persons. Again, the functions of younger and older ties varied by cohort. Implications for life course studies are discussed.
+C1 [Moorman, Sara M.] Boston Coll, Chestnut Hill, MA USA.
+C3 Boston College
+RP Moorman, SM (corresponding author), Dept Sociol, 140 Commonwealth Ave,McGuinn Hall 426, Chestnut Hill, MA 02467 USA.
+EM moormans@bc.edu
+OI Moorman, Sara/0000-0002-7555-1769
+CR Ali T, 2022, INNOV AGING, V6, DOI 10.1093/geroni/igab053
+   Allport GW., 1954, NATURE PREJUDICE
+   Asikainen A, 2020, SCI ADV, V6, DOI 10.1126/sciadv.aax7310
+   Bearman P, 2004, SOC FORCES, V83, P535, DOI 10.1353/sof.2005.0001
+   Ben Noon R, 2018, GERONTOLOGIST, V58, P149, DOI 10.1093/geront/gnx047
+   Bidart C, 2020, STRUC AN S, P1, DOI 10.1017/9781108882392
+   Blieszner R, 2019, INNOV AGING, V3, DOI 10.1093/geroni/igz005
+   Brashears ME, 2014, SOCIOL SCI, V1, P493, DOI 10.15195/v1.a27
+   Cheng GHL, 2022, SOC SCI MED, V292, DOI 10.1016/j.socscimed.2021.114617
+   Cohn-Schwartz E, 2022, EUR J AGEING, V19, P1145, DOI 10.1007/s10433-022-00688-0
+   Cornwell B, 2003, SOC FORCES, V81, P953, DOI 10.1353/sof.2003.0029
+   Dannefer D., 2008, International Handbooks of Population, V1, P747, DOI [DOI 10.1007/978-1-4020-8356-3_34, 10.1007/978-1-4020-8356-3_34]
+   Dietz L, 2022, WORK AGING RETIRE, V8, P163, DOI 10.1093/workar/waab028
+   Dykstra PA., 2016, Studi Di Sociologia, V54, P107, DOI DOI 10.5117/MEM2016.2.DYKS
+   Ellwardt L, 2017, J GERONTOL B-PSYCHOL, V72, P694, DOI 10.1093/geronb/gbw142
+   FELD SL, 1981, AM J SOCIOL, V86, P1015, DOI 10.1086/227352
+   Fischer C., 2018, Understanding How Personal Networks Change: Wave 1, DOI [DOI 10.3886/ICPSR36975.V1, 10.3886/ICPSR36975.v1]
+   Fischer CS, 2020, SOC NETWORKS, V61, P78, DOI 10.1016/j.socnet.2019.08.008
+   Fischer CS, 2019, FIELD METHOD, V31, P195, DOI 10.1177/1525822X19861321
+   Gierveld JD, 2006, RES AGING, V28, P730, DOI 10.1177/0164027506291873
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Hagestad GO, 2005, J SOC ISSUES, V61, P343, DOI 10.1111/j.1540-4560.2005.00409.x
+   Hagestad GO, 2006, RES AGING, V28, P638, DOI 10.1177/0164027506291872
+   Holladay S., 1999, COMMUN REP, V12, P101, DOI [DOI 10.1080/08934219909367715, https://doi.org/10.1080/08934219909367715]
+   Huxhold O, 2020, J GERONTOL B-PSYCHOL, V75, P1433, DOI 10.1093/geronb/gbaa019
+   Huxhold O, 2019, PSYCHOL AGING, V34, P1170, DOI 10.1037/pag0000390
+   Idler E, 2022, INT J AGING HUM DEV, V94, P8, DOI 10.1177/00914150211027547
+   Jarrott SE, 2011, GERONTOLOGIST, V51, P112, DOI 10.1093/geront/gnq058
+   Kahn R. L., 1980, LIFE-SPAN DEV BEHAV, V3, P253, DOI DOI 10.1002/9780470880166.HLSD002012
+   Kossinets G, 2009, AM J SOCIOL, V115, P405, DOI 10.1086/599247
+   LAGORY M, 1980, URBAN AFF REV, V16, P59, DOI 10.1177/107808748001600104
+   Lin N., 2002, SOCIAL CAPITAL THEOR
+   MacLean A., 2006, RES SOC STRAT MOBIL, V24, P299, DOI [10.1016/j.rssm.2005.08.001, DOI 10.1016/J.RSSM.2005.08.001]
+   McDonald S, 2010, SOCIOL FORUM, V25, P335, DOI 10.1111/j.1573-7861.2010.01179.x
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mollenhorst G, 2008, SOC FORCES, V86, P937
+   Mollenhorst G, 2008, SOC NETWORKS, V30, P60, DOI 10.1016/j.socnet.2007.07.003
+   Moos M, 2016, URBAN STUD, V53, P2903, DOI 10.1177/0042098015603292
+   O'Dare CE, 2021, CAN J AGING, V40, P68, DOI 10.1017/S0714980819000618
+   Offer S, 2022, SOC NETWORKS, V70, P284, DOI 10.1016/j.socnet.2022.02.011
+   Pescosolido B., 2021, Personal networks: Classic readings and new directions in egocentric analysis
+   RADLOFF L S, 1977, Applied Psychological Measurement, V1, P385, DOI 10.1177/014662167700100306
+   RILEY MW, 1971, GERONTOLOGIST, V11, P79, DOI 10.1093/geront/11.1_Part_1.79
+   Rosso AL, 2013, J AGING HEALTH, V25, P617, DOI 10.1177/0898264313482489
+   Sandstrom GM, 2014, PERS SOC PSYCHOL B, V40, P910, DOI 10.1177/0146167214529799
+   Small ML, 2016, SOC NETWORKS, V47, P73, DOI 10.1016/j.socnet.2016.05.002
+   Small ML, 2013, SOC NETWORKS, V35, P470, DOI 10.1016/j.socnet.2013.05.004
+   Smith JA, 2014, AM SOCIOL REV, V79, P432, DOI 10.1177/0003122414531776
+   Stauder J, 2014, SOC SCI RES, V48, P234, DOI 10.1016/j.ssresearch.2014.06.004
+   Suanet B, 2013, J GERONTOL B-PSYCHOL, V68, P633, DOI 10.1093/geronb/gbt043
+   Sun H, 2019, EUR J AGEING, V16, P455, DOI 10.1007/s10433-019-00507-z
+   Thomas PA, 2010, J GERONTOL B-PSYCHOL, V65, P351, DOI 10.1093/geronb/gbp113
+   Uhlenberg P, 2004, AGEING SOC, V24, P5, DOI 10.1017/S0144686X0300151X
+   Uhlenberg P, 2000, GERONTOLOGIST, V40, P261, DOI 10.1093/geront/40.3.261
+   Vacchiano M, 2021, J THEOR SOC BEHAV, V51, P87, DOI 10.1111/jtsb.12265
+   Volker B, 2022, ADV LIFE COURSE RES, V53, DOI 10.1016/j.alcr.2022.100498
+   Volker B, 2020, NETW SCI, V8, P313, DOI 10.1017/nws.2020.26
+   Warner DF, 2019, J AGING HEALTH, V31, P1423, DOI 10.1177/0898264318781129
+   Webster NJ, 2022, ADV LIFE COURSE RES, V54, DOI 10.1016/j.alcr.2022.100502
+NR 59
+TC 0
+Z9 0
+U1 1
+U2 5
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1040-2608
+J9 ADV LIFE COURSE RES
+JI Adv. Life Course Res.
+PD JUN
+PY 2023
+VL 56
+AR 100540
+DI 10.1016/j.alcr.2023.100540
+EA MAR 2023
+PG 8
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA A7ND0
+UT WOS:000956939800001
+PM 38054881
+DA 2024-11-22
+ER
+
+PT J
+AU Cebula, M
+AF Cebula, Michal
+TI Cultural Resources and Mobilization of Social Capital: The Case of
+   Finding a Job
+SO SOCIOLOGICAL INQUIRY
+LA English
+DT Article
+ID NETWORKS; TASTE; OCCUPATIONS; INEQUALITY; GENERATOR; FEATHER; INCOME;
+   BIRDS
+AB By combining the latest knowledge from cultural sociology and social network theories, a hypothesis is posed regarding the association between cultural consumption and social capital mobilization. On the classic example of looking for work, an assumption was made that persons who prefer or engage in a larger number of cultural forms (the so-called omnivores) have greater chances to find work through social contacts than through any other methods or may count on social support when looking for job, and this relationship is stronger for non-family than for family ties. These arguments are tested with the use of survey data collected in Poland in 2017 on a locally representative sample of adult residents aged 18-75. The results support the hypotheses and additionally show that people with different cultural profiles differ in their capacity to access and mobilize social resources. While participation in both highbrow and popular culture is efficacious, not all forms of the popular one are positively related to social resources. The article is closed with some concluding remarks, limitations of the study, and guidelines for future research.
+C1 [Cebula, Michal] Univ Wroclaw, Wroclaw, Poland.
+C3 University of Wroclaw
+RP Cebula, M (corresponding author), Univ Wroclaw, Fac Social Sci, Inst Sociol, Pl Uniwersytecki 1, PL-50137 Wroclaw, Poland.
+EM michal.cebula@uwr.edu.pl
+RI Cebula, Michał/IUP-3566-2023
+OI Cebula, Michal/0000-0001-6086-2233
+FU National Science Centre, Poland [2016/21/D/HS6/02424]
+FX This work was supported by the National Science Centre, Poland, under
+   grant number 2016/21/D/HS6/02424.
+CR Pena-López JA, 2017, SOC NETWORKS, V49, P1, DOI 10.1016/j.socnet.2016.11.003
+   Barnett LA, 2000, SOCIOL FORUM, V15, P145, DOI 10.1023/A:1007502405539
+   Bourdieu P., 1997, ED CULTURE EC SOC, P46
+   Bourdieu P., 1984, DISTINCTION SOCIAL C
+   Burt R. S, 1992, STRUCTURAL HOLES SOC
+   Cebula M, 2020, POL SOCIOL REV, P41, DOI 10.26412/psr209.03
+   Cebula M, 2015, POL SOCIOL REV, P455
+   Clark TerryN., 2003, CITY ENTERTAINMENT M
+   Collins R., 2004, INTERACTION RITUAL C, DOI 10.1515/9781400851744
+   Contreras D, 2019, SOC NETWORKS, V58, P59, DOI 10.1016/j.socnet.2019.02.002
+   DEGRAAF ND, 1988, SOC FORCES, V67, P452, DOI 10.2307/2579190
+   DIMAGGIO P, 1987, AM SOCIOL REV, V52, P440, DOI 10.2307/2095290
+   Edelmann A, 2014, POETICS, V46, P22, DOI 10.1016/j.poetic.2014.08.001
+   Erickson BH, 1996, AM J SOCIOL, V102, P217, DOI 10.1086/230912
+   Flap H, 2001, SOC NETWORKS, V23, P297, DOI 10.1016/S0378-8733(01)00044-2
+   Goffman E., 1967, INTERACTION RITUAL E
+   Granovetter M, 1995, Getting a Job: A Study of Contacts and Careers
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Growiec J, 2010, EUR SOC, V12, P231, DOI 10.1080/14616690902718381
+   Hällsten M, 2015, SOC NETWORKS, V40, P55, DOI 10.1016/j.socnet.2014.06.002
+   Huang XB, 2011, SOCIOLOGY, V45, P269, DOI 10.1177/0038038510394029
+   Kajdanek Katarzyna., 2018, CITY POWER POSTMODER
+   Lewis K, 2018, AM J SOCIOL, V123, P1684, DOI 10.1086/697525
+   LIN N, 1986, SOC NETWORKS, V8, P365, DOI 10.1016/0378-8733(86)90003-1
+   Lin N, 1999, ANNU REV SOCIOL, V25, P467, DOI 10.1146/annurev.soc.25.1.467
+   Lin N., 2002, SOCIAL CAPITAL THEOR
+   Lin Nan, 2001, Social capital: theory and research, P31
+   Lin Nan., 2008, SOCIAL CAPITAL INT R, P107
+   Lin Nan., 2008, Social Capital: An International Research Program, P1, DOI DOI 10.1093/ACPROF:OSO/9780199234387.003.0010
+   Lizardo O, 2006, AM SOCIOL REV, V71, P778, DOI 10.1177/000312240607100504
+   Lizardo O, 2013, SOC SCI RES, V42, P321, DOI 10.1016/j.ssresearch.2012.09.014
+   Mark N, 1998, SOC FORCES, V77, P453, DOI 10.2307/3005535
+   Marsden PeterV., 2001, SOURCEBOOK LABOR MAR, DOI 10.1007/978-1-4615-1225-7_19
+   MARSDEN PV, 1988, SOC FORCES, V66, P1038, DOI 10.2307/2579435
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Meuleman R, 2021, POETICS, V86, DOI 10.1016/j.poetic.2021.101540
+   Moren-Cross Jennifer., 2008, SOCIAL CAPITAL INT R, P364, DOI DOI 10.1093/ACPROF:OSO/9780199234387.003.0161
+   Mouw T, 2003, AM SOCIOL REV, V68, P868, DOI 10.2307/1519749
+   Nagel I, 2011, KOLNER Z SOZIOL SOZ, V63, P424
+   Nanetti, 1993, MAKING DEMOCRACY WOR
+   National Bureau of Statistics of China, 2018, CHIN CIT STAT YB
+   Pena-López A, 2021, CAMB J ECON, V45, P675, DOI 10.1093/cje/beab016
+   Peterson RA, 2005, POETICS, V33, P257, DOI 10.1016/j.poetic.2005.10.002
+   Peterson RA, 1996, AM SOCIOL REV, V61, P900, DOI 10.2307/2096460
+   Pluta K., 2017, Wroclawska diagnoza spoleczna 2017. Raport z badan socjologicznych nad mieszkancami miasta
+   Puetz K, 2015, SOCIOL COMPASS, V9, P438, DOI 10.1111/soc4.12265
+   Purhonen S, 2011, ACTA SOCIOL, V54, P385, DOI 10.1177/0001699311422092
+   Putnam Robert D., 2000, BOWLING ALONE COLLAP, DOI 10.1145/358916.361990
+   Reeves A, 2019, BRIT J SOCIOL, V70, P214, DOI 10.1111/1468-4446.12374
+   Sader M, 2021, EUR MANAG J, V39, P768, DOI 10.1016/j.emj.2021.03.002
+   Sadowski Ireneusz., 2018, INDIVIDUALS THEIR SO, P85
+   Sarkhosh K, 2016, POETICS, V57, P40, DOI 10.1016/j.poetic.2016.04.002
+   Shen J, 2018, SOC NETWORKS, V54, P82, DOI 10.1016/j.socnet.2018.01.004
+   Sloczynski Tymon., 2013, WYC KOSZT WYP KOL DR, V631, P42
+   Son J, 2012, SOC NETWORKS, V34, P601, DOI 10.1016/j.socnet.2012.06.006
+   Trimble LB, 2011, SOCIOL COMPASS, V5, P165, DOI 10.1111/j.1751-9020.2010.00353.x
+   Vaisey S, 2010, SOC FORCES, V88, P1595
+   Van Der Gaag M, 2005, SOC NETWORKS, V27, P1, DOI 10.1016/j.socnet.2004.10.001
+   van Tubergen F, 2015, SOCIOLOGY, V49, P521, DOI 10.1177/0038038514543294
+   Verhaeghe PP, 2015, SOC NETWORKS, V40, P174, DOI 10.1016/j.socnet.2014.10.001
+   Warde A, 2007, CULT SOCIOL, V1, P143, DOI 10.1177/1749975507078185
+   Yakubovich V, 2005, AM SOCIOL REV, V70, P408, DOI 10.1177/000312240507000303
+NR 62
+TC 2
+Z9 2
+U1 1
+U2 5
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0038-0245
+EI 1475-682X
+J9 SOCIOL INQ
+JI Sociol. Inq.
+PD FEB
+PY 2023
+VL 93
+IS 1
+BP 59
+EP 91
+DI 10.1111/soin.12500
+EA JUL 2022
+PG 33
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA 8J9GA
+UT WOS:000819582200001
+DA 2024-11-22
+ER

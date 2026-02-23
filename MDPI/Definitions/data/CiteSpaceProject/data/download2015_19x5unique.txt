@@ -1,0 +1,514 @@
+
+PT J
+AU You, ZQ
+   Han, XP
+   Lü, LY
+   Yeung, CH
+AF You, Zhi-Qiang
+   Han, Xiao-Pu
+   Lu, Linyuan
+   Yeung, Chi Ho
+TI Empirical Studies on the Network of Social Groups: The Case of Tencent
+   QQ
+SO PLOS ONE
+LA English
+DT Article
+ID GENDER-DIFFERENCES; EVOLUTION; DYNAMICS
+AB Background
+   Participation in social groups are important but the collective behaviors of human as a group are difficult to analyze due to the difficulties to quantify ordinary social relation, group membership, and to collect a comprehensive dataset. Such difficulties can be circumvented by analyzing online social networks.
+   Methodology/Principal Findings
+   In this paper, we analyze a comprehensive dataset released from Tencent QQ, an instant messenger with the highest market share in China. Specifically, we analyze three derivative networks involving groups and their members-the hypergraph of groups, the network of groups and the user network-to reveal social interactions at microscopic and mesoscopic level.
+   Conclusions/Significance
+   Our results uncover interesting behaviors on the growth of user groups, the interactions between groups, and their relationship with member age and gender. These findings lead to insights which are difficult to obtain in social networks based on personal contacts.
+C1 [You, Zhi-Qiang; Han, Xiao-Pu; Lu, Linyuan] Hangzhou Normal Univ, Alibaba Res Ctr Complex Sci, Hangzhou 311121, Zhejiang, Peoples R China.
+   [Yeung, Chi Ho] Hong Kong Inst Educ, Dept Sci & Environm Studies, Hong Kong, Hong Kong, Peoples R China.
+C3 Hangzhou Normal University; Education University of Hong Kong (EdUHK)
+RP Han, XP (corresponding author), Hangzhou Normal Univ, Alibaba Res Ctr Complex Sci, Hangzhou 311121, Zhejiang, Peoples R China.
+EM xp@hznu.edu.cn
+RI Han, Xiao-Pu/E-8401-2010; Lu, Linyuan/P-2693-2014; Yeung, Chi
+   Ho/H-9673-2013
+OI Yeung, Chi Ho/0000-0001-6207-7597; Han, Xiao-Pu/0000-0002-3413-6665
+FU National Natural Science Foundation of China [11205040, 11205042,
+   11105024, 11305043]; Hangzhou Normal University; EU FP7 Grant [611272];
+   CCF-Tencent Open Research Fund; Xinmiao Talent Program of Zhejiang
+   Province [ZX13005002062]; HKIEd
+FX This work is supported by the National Natural Science Foundation of
+   China (11205040, 11205042, 11105024, 11305043), and the research startup
+   fund of Hangzhou Normal University, and the EU FP7 Grant 611272 (project
+   GROWTHCOM), and CCF-Tencent Open Research Fund. ZQY acknowledges the
+   Xinmiao Talent Program of Zhejiang Province (Grant No. ZX13005002062).
+   CHY acknowledges the Internal Research Grant of HKIEd.
+CR Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   Anghel M, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.058701
+   Backstrom L, 2012, WEBSCI 2012 JUN 22 2
+   Barabási AL, 2005, NATURE, V435, P207, DOI 10.1038/nature03459
+   Bashan A, 2013, NAT PHYS, V9, P667, DOI 10.1038/NPHYS2727
+   Berge C, 1989, Mathematical Library, V45
+   Berge C., 1973, Graphs and hypergraphs
+   Borgatti SP, 2009, SCIENCE, V323, P892, DOI 10.1126/science.1165821
+   Broos A, 2005, CYBERPSYCHOL BEHAV, V8, P21, DOI 10.1089/cpb.2005.8.21
+   Buldyrev SV, 2010, NATURE, V464, P1025, DOI 10.1038/nature08932
+   Christakis NA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0012948
+   Cui AX, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0050702
+   Fuller JE, 2004, SOC SCI QUART, V85, P938, DOI 10.1111/j.0038-4941.2004.00252.x
+   Gao JX, 2012, NAT PHYS, V8, P40, DOI 10.1038/nphys2180
+   Girvan M, 2002, P NATL ACAD SCI USA, V99, P7821, DOI 10.1073/pnas.122653799
+   Goh KI, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.066123
+   Hadzibeganovic T, 2015, BEHAV PROCESS, V113, P86, DOI 10.1016/j.beproc.2015.01.003
+   Hargittai E, 2006, SOC SCI QUART, V87, P432, DOI 10.1111/j.1540-6237.2006.00389.x
+   Holme P, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.056107
+   Hong W, 2009, CHINESE PHYS LETT, V26, DOI 10.1088/0256-307X/26/2/028902
+   Jiang ZQ, 2013, P NATL ACAD SCI USA, V110, P1600, DOI 10.1073/pnas.1220433110
+   Kairam S., 2012, P SIGCHI C HUM FACT, P1065, DOI DOI 10.1145/2207676.2208552
+   Karinthy F, 1929, STRUCTURE DYNAMICS N
+   Mazman SG, 2011, TURK ONLINE J EDUC T, V10, P133
+   Muscanell NL, 2012, COMPUT HUM BEHAV, V28, P107, DOI 10.1016/j.chb.2011.08.016
+   Newman MEJ, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.026113
+   Newman MEJ, 2001, PHYS REV E, V64, DOI [10.1103/PhysRevE.64.016132, 10.1103/PhysRevE.64.016131]
+   Palchykov Vasyl, 2012, Sci Rep, V2, P370, DOI 10.1038/srep00370
+   Phillip MV, 2004, J ADVERTISING RES, V44, P360, DOI 10.1017/S0021849904040383
+   Rybski D, 2012, SCI REP-UK, V2, DOI 10.1038/srep00560
+   Rybski D, 2009, P NATL ACAD SCI USA, V106, P12640, DOI 10.1073/pnas.0902667106
+   Shang MS, 2010, EPL-EUROPHYS LETT, V90, DOI 10.1209/0295-5075/90/48006
+   Szell M, 2013, SCI REP-UK, V3, DOI 10.1038/srep01214
+   Ugander J, 2011, ARXIV114503
+   Wang P, 2014, PHYSICA A, V398, P145, DOI 10.1016/j.physa.2013.12.014
+   Wu Y, 2010, P NATL ACAD SCI USA, V107, P18803, DOI 10.1073/pnas.1013140107
+   Zhao ZD, 2011, CHINESE PHYS LETT, V28, DOI 10.1088/0256-307X/28/6/068901
+   Zhou T, 2007, PHYS REV E, V76, DOI 10.1103/PhysRevE.76.046115
+   Zhou T, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0020648
+NR 39
+TC 15
+Z9 15
+U1 1
+U2 57
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JUL 15
+PY 2015
+VL 10
+IS 7
+AR e0130538
+DI 10.1371/journal.pone.0130538
+PG 19
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA CN1RL
+UT WOS:000358197600025
+PM 26176850
+OA Green Published, Green Submitted, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Halgin, DS
+   Gopalakrishnan, GM
+   Borgatti, SP
+AF Halgin, Daniel S.
+   Gopalakrishnan, Gopakumar M.
+   Borgatti, Stephen P.
+TI Structure and Agency in Networked, Distributed Work: The Role of Work
+   Engagement
+SO AMERICAN BEHAVIORAL SCIENTIST
+LA English
+DT Article
+DE social networks; work engagement; networked work; network agency
+ID KNOWLEDGE; TEAMS; TIME; TASK
+AB In this article, we examine the social structure of workplace relationships (both actual and desired ties) in networked distributed work. We focus on the role of human agency in forming networks needed to succeed in this environment. In particular, we address how employee work engagement enables individuals to occupy the network positions that they need in order to succeed in networked and virtual settings. We analyze a distributed team within a large multinational firm involved in software development and delivery activities and find that highly engaged employees have personal networks that are anchored locally (i.e., strong ties with colleagues who are collocated and more transitive triples) and connect globally (i.e., strong ties with distant colleagues and more liaison brokerage ties across geographic locations). We also find a general tendency for all respondents to desire new ties that reach across global locations to improve performance at work. However, only the highly engaged employees achieve these ties highlighting the role of motivation and agency associated with engagement.
+C1 [Halgin, Daniel S.; Borgatti, Stephen P.] Univ Kentucky, Gatton Coll Business & Econ, Management, Lexington, KY 40506 USA.
+   [Gopalakrishnan, Gopakumar M.] Infosys Ltd, Bangalore, Karnataka, India.
+C3 University of Kentucky; Infosys Limited
+RP Halgin, DS (corresponding author), Univ Kentucky, Gatton Coll Business & Econ, LINKS Ctr, 631 S Limestone Dr, Lexington, KY 40506 USA.
+EM danhalgin@uky.edu
+RI Halgin, Daniel/AHE-6070-2022; Borgatti, Stephen/LDF-4542-2024
+OI Borgatti, Stephen/0000-0002-5776-5579
+FU President APJ Abdul Kalam India Studies Research Program at the
+   University of Kentucky
+FX The author(s) disclosed receipt of the following financial support for
+   the research, authorship, and/or publication of this article: This work
+   was funded in part by the President APJ Abdul Kalam India Studies
+   Research Program at the University of Kentucky.
+CR Anklam Patti., 2011, Net Work, V1st
+   [Anonymous], 1989, Sociological Methodology, DOI DOI 10.2307/270949
+   [Anonymous], 2002, Distributed work
+   Balducci C, 2010, EUR J PSYCHOL ASSESS, V26, P143, DOI 10.1027/1015-5759/a000020
+   Blackburn R., 2003, Virtual teams that work: Creating conditions for virtual team effectiveness, P95
+   Borgatti S.P., 2002, Analytic Technologies, VVolume 1, DOI [10.1111/j.1439-0310.2009.01613.x, DOI 10.1111/J.1439-0310.2009.01613.X]
+   Borgatti SP, 2003, MANAGE SCI, V49, P432, DOI 10.1287/mnsc.49.4.432.14428
+   Borgatti SP, 2011, ORGAN SCI, V22, P1168, DOI 10.1287/orsc.1100.0641
+   Borgatti SP, 2014, RES SOCIOL ORGAN-RES, V40, P1, DOI 10.1108/S0733-558X(2014)0000040001
+   Borgatti SP, 2009, SCIENCE, V323, P892, DOI 10.1126/science.1165821
+   Christian MS, 2011, PERS PSYCHOL, V64, P89, DOI 10.1111/j.1744-6570.2010.01203.x
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   Cross R, 2004, SOCIAL CAPTIAL AND INFORMATION TECHNOLOGY, P137
+   Cummings JN, 2004, MANAGE SCI, V50, P352, DOI 10.1287/mnsc.1030.0134
+   Cummings JN, 2012, J ORGAN BEHAV, V33, P316, DOI 10.1002/job.777
+   Dimitrova D, 2015, AM BEHAV SCI, V59, P443, DOI 10.1177/0002764214556811
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Hansen MT, 1999, ADMIN SCI QUART, V44, P82, DOI 10.2307/2667032
+   Hinds PJ, 2005, ORGAN SCI, V16, P290, DOI 10.1287/orsc.1050.0122
+   Jarvenpaa SL, 1999, ORGAN SCI, V10, P791, DOI 10.1287/orsc.10.6.791
+   KRACKHARDT D, 1992, NETWORKS AND ORGANIZATIONS : STRUCTURE, FORM, AND ACTION, P216
+   Maznevski ML, 2000, ORGAN SCI, V11, P473, DOI 10.1287/orsc.11.5.473.15200
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mehra A, 2014, RES SOCIOL ORGAN-RES, V40, P315, DOI 10.1108/S0733-558X(2014)0000040016
+   O'Leary MB, 2007, MIS QUART, V31, P433
+   Parker A., 2014, DYNAMICS SOCIA UNPUB
+   Perry-Smith JE, 2006, ACAD MANAGE J, V49, P85, DOI 10.2307/20159747
+   Podsakoff NP, 2009, J APPL PSYCHOL, V94, P122, DOI 10.1037/a0013079
+   Rainie L, 2012, NETWORKED: THE NEW SOCIAL OPERATING SYSTEM, P1
+   Reagans R, 2003, ADMIN SCI QUART, V48, P240, DOI 10.2307/3556658
+   Rich BL, 2010, ACAD MANAGE J, V53, P617, DOI 10.5465/AMJ.2010.51468988
+   Sasovova Z, 2010, ADMIN SCI QUART, V55, P639, DOI 10.2189/asqu.2010.55.4.639
+   Schaufeli W. B., 2002, J HAPPINESS STUD, V3, P71, DOI [https://doi.org/10.1023/A:1015630930326, DOI 10.1023/A:1015630930326, 10.1023/A:1015630930326]
+   Schaufeli WB, 2006, EDUC PSYCHOL MEAS, V66, P701, DOI 10.1177/0013164405282471
+   Thompson JD., 1967, ORG ACTION SOCIAL SC
+   Uzzi B, 1997, ADMIN SCI QUART, V42, P35, DOI 10.2307/2393808
+   Wageman R, 2005, ORGAN SCI, V16, P687, DOI 10.1287/orsc.1050.0146
+   Wageman R, 2012, J ORGAN BEHAV, V33, P301, DOI 10.1002/job.1775
+   Wellman, 2004, ANAL KRITIK, V26, P241, DOI [10.1515/auk-2004-0113, DOI 10.1515/AUK-2004-0113]
+   Wellman B, 2002, LECT NOTES COMPUT SC, V2362, P10
+   Wellman B, 2014, RES SOCIOL ORGAN-RES, V40, P479, DOI 10.1108/S0733-558X(2014)0000040024
+NR 41
+TC 9
+Z9 16
+U1 1
+U2 40
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0002-7642
+EI 1552-3381
+J9 AM BEHAV SCI
+JI Am. Behav. Sci.
+PD APR
+PY 2015
+VL 59
+IS 4
+SI SI
+BP 457
+EP 474
+DI 10.1177/0002764214556807
+PG 18
+WC Psychology, Clinical; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology; Social Sciences - Other Topics
+GA CD6ZG
+UT WOS:000351239200002
+DA 2024-11-22
+ER
+
+PT J
+AU Habinek, J
+   Martin, JL
+   Zablocki, BD
+AF Habinek, Jacob
+   Martin, John Levi
+   Zablocki, Benjamin D.
+TI Double-embeddedness: Spatial and relational contexts of tie persistence
+   and re-formation
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Tie persistence; Tie decay; Network structure; Distance; Longitudinal
+   analysis
+ID SOCIAL NETWORKS; FRIENDSHIP NETWORKS; PERSONAL NETWORKS; SUPPORT
+   NETWORKS; DISTANCE MATTER; LIFE-COURSE; STABILITY; CONTACT; TIME; AGE
+AB Personal relationships are embedded in both spatial and relational contexts. Using data on 60 intentional communities from the Urban Communes Data Set, we examine how such embedding is related to the persistence and re-formation of close personal ties over a thirteen year period, beginning from when most members had been out of their group environments more than a decade. We find that local network structure-the pattern of dyads immediately surrounding any dyad is extremely weighty in which ties persist, which lapse, and which are re-initiated, but that the precise ways in which local structure affects contact are bound up with the distance between dyad members. We also find asymmetries in these processes that other studies have been unable to uncover that processes that lead ties to be dropped are not the same as those that lead them to be renewed; that increases in local embeddedness are not opposite of decreases; that change in contact is not the same as change in friendship. Finally, there is evidence of hierarchical effects influencing the retention of friendships more than twenty-five years after most respondents left their groups. (C) 2015 Elsevier B.V. All rights reserved.
+C1 [Habinek, Jacob] Univ Calif Berkeley, Dept Sociol, Berkeley, CA 94720 USA.
+   [Martin, John Levi] Univ Chicago, Dept Sociol, Chicago, IL 60637 USA.
+   [Zablocki, Benjamin D.] Rutgers State Univ, Dept Sociol, Piscataway, NJ 08855 USA.
+C3 University of California System; University of California Berkeley;
+   University of Chicago; Rutgers University System; Rutgers University New
+   Brunswick
+RP Habinek, J (corresponding author), Univ Calif Berkeley, Dept Sociol, 410 Barrows Hall, Berkeley, CA 94720 USA.
+EM habinek@berkeley.edu
+OI Habinek, Jacob/0000-0002-7768-539X
+FU National Science Foundation [SES-99-06452]
+FX This work was supported by a grant from the National Science Foundation,
+   SES-99-06452. Versions of this paper were presented in workshops at the
+   University of Wisconsin-Madison, the University of California-Berkeley,
+   Columbia University, and, Yale University. We wish to acknowledge the
+   helpful comments of these audiences. We also thank Claude Fischer for
+   his comments and support. We are grateful to the close readings given by
+   several reviewers and the editors, which led to an increase in the
+   strength and clarity of this work.
+CR Allison PD, 2002, SOCIOL METHODOL, V32, P247, DOI 10.1111/1467-9531.00117
+   [Anonymous], 2000, Small worlds: The dynamics of networks between order and randomness
+   [Anonymous], 1992, Structural holes
+   Argue A, 1999, J SCI STUD RELIG, V38, P423, DOI 10.2307/1387762
+   BAKER FB, 1981, SOCIOL METHOD RES, V9, P339, DOI 10.1177/004912418100900305
+   Baker W, 2009, AM BEHAV SCI, V52, P1531, DOI 10.1177/0002764209331525
+   Bidart C., 2007, SOC NETW, V27, P359
+   Bishop Bill., 2008, THE BIG SORT
+   BOORMAN SA, 1976, AM J SOCIOL, V81, P1384, DOI 10.1086/226228
+   Boyd DM, 2007, J COMPUT-MEDIAT COMM, V13, P210, DOI 10.1111/j.1083-6101.2007.00393.x
+   Burt RonaldS., 2010, Neighbor Networks
+   Burt RS, 2002, SOC NETWORKS, V24, P333, DOI 10.1016/S0378-8733(02)00017-5
+   Burt RS, 2000, SOC NETWORKS, V22, P1, DOI 10.1016/S0378-8733(99)00015-5
+   Butts C.T., 2015, SPACE STRUC IN PRESS
+   Butts CT, 2012, SOC NETWORKS, V34, P82, DOI 10.1016/j.socnet.2011.08.003
+   Carley KM, 1996, SOC NETWORKS, V18, P1, DOI 10.1016/0378-8733(95)00252-9
+   Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+   Cheadle JE, 2013, SOC SCI RES, V42, P1297, DOI 10.1016/j.ssresearch.2013.05.001
+   Daraganova G, 2012, SOC NETWORKS, V34, P6, DOI 10.1016/j.socnet.2010.12.001
+   Degenne A, 2005, SOC NETWORKS, V27, P337, DOI 10.1016/j.socnet.2004.11.002
+   Dekker D, 2007, PSYCHOMETRIKA, V72, P563, DOI 10.1007/s11336-007-9016-1
+   DIPRETE TA, 1994, ANNU REV SOCIOL, V20, P331, DOI 10.1146/annurev.so.20.080194.001555
+   DiPrete TA, 2011, AM J SOCIOL, V116, P1234, DOI 10.1086/659100
+   Ellwardt L., 2012, SOC NETW, V34, P632, DOI DOI 10.1016/J.S0CNET2012.07.002
+   Faust K, 2002, SOCIOL METHODOL, V32, P267, DOI 10.1111/1467-9531.00118
+   Festinger L., 1963, Social pressures in informal groups
+   Fischer C., 1977, Networks and Places, P163
+   Fischer C.S., 1982, DWELL FRIENDS
+   Gould RV, 2002, AM J SOCIOL, V107, P1143, DOI 10.1086/341744
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Guiaux M, 2007, PERS RELATIONSHIP, V14, P457, DOI 10.1111/j.1475-6811.2007.00165.x
+   Halaby CN, 2004, ANNU REV SOCIOL, V30, P507, DOI 10.1146/annurev.soc.30.012703.110629
+   HALLINAN MT, 1980, SOC FORCES, V59, P225, DOI 10.2307/2577842
+   HALLINAN MT, 1978, SOC NETWORKS, V1, P193, DOI 10.1016/0378-8733(78)90019-9
+   HAMMER M, 1980, SOC NETWORKS, V2, P165, DOI 10.1016/0378-8733(79)90005-4
+   HECKMAN JJ, 1979, ECONOMETRICA, V47, P153, DOI 10.2307/1912352
+   Hipp JR, 2009, CITY COMMUNITY, V8, P5, DOI 10.1111/j.1540-6040.2009.01267.x
+   Hsiao C., 2003, Analysis of Panel Data, VSecond, P95, DOI DOI 10.1146/annurev.psych.59.103006.093735
+   HUBERT L, 1976, BRIT J MATH STAT PSY, V29, P190, DOI 10.1111/j.2044-8317.1976.tb00714.x
+   HUBERT LJ, 1985, PSYCHOMETRIKA, V50, P449, DOI 10.1007/BF02296263
+   HUMMELL HJ, 1990, SOCIAL NETWORKS TIME, P281
+   Jackson MO, 2007, AM ECON REV, V97, P890, DOI 10.1257/aer.97.3.890
+   Jerusalem M, 1996, SOC INDIC RES, V38, P229, DOI 10.1007/BF00292047
+   Kalmijn M, 2003, SOC NETWORKS, V25, P231, DOI 10.1016/S0378-8733(03)00010-8
+   Kalmijn M, 2002, EUR SOCIOL REV, V18, P101, DOI 10.1093/esr/18.1.101
+   KRACKHARDT D, 1988, SOC NETWORKS, V10, P359, DOI 10.1016/0378-8733(88)90004-4
+   KRACKHARDT D, 1987, SOC NETWORKS, V9, P171, DOI 10.1016/0378-8733(87)90012-8
+   Krackhardt D., 1992, Journal of Quantitative Anthropology, V3, P279
+   Lazarsfeld P.F., 1954, Freedom and Control in Modern Society, P18, DOI DOI 10.1111/J.1467-8705.2012.02056_3.X
+   Leenders R.Th. A.J., 1997, Evolution of Social Networks
+   Leik RK, 1997, SOC NETWORKS, V19, P63, DOI 10.1016/S0378-8733(96)00291-2
+   Leinhardt S., 1972, SOCIOL THEORIES PROG
+   Lieberson S., 1985, MAKING IT COUNT
+   Louch H, 2000, SOC NETWORKS, V22, P45, DOI 10.1016/S0378-8733(00)00015-0
+   Lubbers MJ, 2010, SOC NETWORKS, V32, P91, DOI 10.1016/j.socnet.2009.05.001
+   Martin J.L., 1999, Connections, V22, P50
+   Martin JL, 2009, SOCIAL STRUCTURES, P1
+   Martin JL, 2006, SOC NETWORKS, V28, P331, DOI 10.1016/j.socnet.2005.07.008
+   Mason W.M., 1983, Sociological Methodology, V14, P72, DOI DOI 10.2307/270903
+   McCarty C, 2007, SOC NETWORKS, V29, P300, DOI 10.1016/j.socnet.2006.12.005
+   McDonald S, 2010, SOCIOL FORUM, V25, P335, DOI 10.1111/j.1573-7861.2010.01179.x
+   Mok D, 2007, SOC NETWORKS, V29, P430, DOI 10.1016/j.socnet.2007.01.009
+   Mok D, 2010, URBAN STUD, V47, P2747, DOI 10.1177/0042098010377363
+   Mollenhorst G, 2014, SOC NETWORKS, V37, P65, DOI 10.1016/j.socnet.2013.12.003
+   Mollenhorst G, 2011, SOC NETWORKS, V33, P292, DOI 10.1016/j.socnet.2011.09.001
+   Morgan DL, 1997, SOC NETWORKS, V19, P9, DOI 10.1016/S0378-8733(96)00288-2
+   Noel H, 2011, SOC NETWORKS, V33, P211, DOI 10.1016/j.socnet.2011.05.003
+   Preciado P, 2012, SOC NETWORKS, V34, P18, DOI 10.1016/j.socnet.2011.01.002
+   Raeder T, 2011, SOC NETWORKS, V33, P245, DOI 10.1016/j.socnet.2011.07.002
+   Ridgeway CL, 1999, ANNU REV SOCIOL, V25, P191, DOI 10.1146/annurev.soc.25.1.191
+   Rivera MT, 2010, ANNU REV SOCIOL, V36, P91, DOI 10.1146/annurev.soc.34.040507.134743
+   Rotolo T, 2000, SOC FORCES, V78, P1133
+   Ruan DC, 1997, SOC NETWORKS, V19, P75, DOI 10.1016/S0378-8733(96)00292-4
+   Slcvoretz J., 2002, J SOC STRUCT, V3
+   Snijders TAB, 2010, SOC NETWORKS, V32, P44, DOI 10.1016/j.socnet.2009.02.004
+   Soehl T, 2012, AM J SOCIOL, V118, P778, DOI 10.1086/667720
+   Stueve C.Ann., 1977, Networks and Places: Social Relations in the Urban Setting, P79
+   Suitor J, 1997, SOC NETWORKS, V19, P51, DOI 10.1016/S0378-8733(96)00290-0
+   Terhell EL, 2007, SOC NETWORKS, V29, P11, DOI 10.1016/j.socnet.2005.11.006
+   Van De Bunt G. G., 1999, Computational & Mathematical Organization Theory, V5, P167, DOI 10.1023/A:1009683123448
+   VANTILBURG T, 1992, J SOC PERS RELAT, V9, P433, DOI 10.1177/0265407592093006
+   Wellman B, 1997, SOC NETWORKS, V19, P27, DOI 10.1016/S0378-8733(96)00289-4
+   Zablocki B., 1980, ALIENATION CHARISMA
+NR 83
+TC 14
+Z9 17
+U1 0
+U2 31
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-8733
+EI 1879-2111
+J9 SOC NETWORKS
+JI Soc. Networks
+PD JUL
+PY 2015
+VL 42
+BP 27
+EP 41
+DI 10.1016/j.socnet.2015.02.005
+PG 15
+WC Anthropology; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Sociology
+GA CI8VU
+UT WOS:000355050600004
+DA 2024-11-22
+ER
+
+PT J
+AU Perez-Oviedo, W
+AF Perez-Oviedo, Wilson
+TI Citizens, dictators and networks: A game theory approach
+SO RATIONALITY AND SOCIETY
+LA English
+DT Article
+DE Coalitions; conflict; dictators; networks; revolts
+ID COORDINATION; RULE
+AB In a society composed of citizens and a dictator, what are the conditions for a successful citizens' revolt? What kind of strategies do governments follow to prevent such revolts? In this article, we argue that the concept of networks is a very powerful tool to understand these issues, as shown, for example, by the prominent role of social networks during the recent revolts in the Arab world. More specifically, we model these types of societies as a game played between a leader, who has to decide the distribution of the aggregate income, and a group of citizens who have the opportunity to revolt if they are unhappy with the distribution (or if they dislike the regime). Coordinated action by citizens is possible because they form nodes in a communication network. However, communication through the network is distorted, which could preclude the emergence of collective action among citizens. The network structure and the distortion level are determinants of the political equilibrium and wealth distribution. The model explains how the dictator could use propaganda, cooptation, and repression to increase his expected utility. We also use our framework to provide a formal proof of Wintrobe's Dictator's Dilemma. Finally, the model is illustrated by applying it to cases in Nigeria, Zaire/Congo, and Libya.
+C1 Fac Latinoamer Ciencias Sociales FLACSO, Quito 170125, Ecuador.
+C3 FLACSO Ecuador
+RP Perez-Oviedo, W (corresponding author), Fac Latinoamer Ciencias Sociales FLACSO, Quito 170125, Ecuador.
+EM wperez@flacso.edu.ec
+RI Perez, Wilson/GVU-2063-2022
+CR Acemoglu D, 2003, J COMP ECON, V31, P620, DOI 10.1016/j.jce.2003.09.003
+   Acemoglu D, 2004, J EUR ECON ASSOC, V2, P162, DOI 10.1162/154247604323067916
+   Alesina A, 2002, J PUBLIC ECON, V85, P207, DOI 10.1016/S0047-2727(01)00084-6
+   Alesina A, 2002, 1959 HARV I EC RES
+   Angeletos GM, 2007, ECONOMETRICA, V75, P711, DOI 10.1111/j.1468-0262.2007.00766.x
+   [Anonymous], 2000, END MILL REP
+   [Anonymous], 2003, Advances in Economics and Econometrics, DOI DOI 10.1017/CBO9780511610240.004
+   [Anonymous], 2014, The New Science of Networks Science of Networks
+   Apps P, 2011, REUTERS WORLD N 0222
+   Atkeson R, 2000, NBER MACROECON ANNU, V15, P162
+   Chwe MSY, 2000, REV ECON STUD, V67, P1, DOI 10.1111/1467-937X.00118
+   Debs A, 2010, ECON PEACE SECUR J, V5, P20
+   Easterly W, 1997, Q J ECON, V112, P1203, DOI 10.1162/003355300555466
+   Edmond C, 2013, REV ECON STUD, V80, P1422, DOI 10.1093/restud/rdt020
+   Eljahmi M, 2006, MIDDLE E Q, V13, P11
+   Gould Roger V., 1995, Insurgent Identities: Class, Community, and Protest in Paris from 1848 to the Commune
+   Gregory PR, 2011, J COMP ECON, V39, P34, DOI 10.1016/j.jce.2010.12.001
+   Kuran T, 1995, SOCIAL CONSEQUENCE P
+   LOHMANN S, 1994, AM ECON REV, V84, P518
+   Lohmann S, 2000, J ECON SURV, V14, P655, DOI 10.1111/1467-6419.00128
+   McGuire MC, 1996, J ECON LIT, V34, P72
+   Monderer D., 1989, Games Econom. Behav., V1, P170, DOI [DOI 10.1016/0899-8256(89)90017-1, 10.1016/0899-8256(89)90017-1]
+   MORRIS S, 1995, ECONOMETRICA, V63, P145, DOI 10.2307/2951700
+   Newman MEJ, 2002, COMPUT PHYS COMMUN, V147, P40, DOI 10.1016/S0010-4655(02)00201-1
+   OLSON M, 1993, AM POLIT SCI REV, V87, P567, DOI 10.2307/2938736
+   OPP KD, 1993, AM SOCIOL REV, V58, P659, DOI 10.2307/2096280
+   RUBINSTEIN A, 1989, AM ECON REV, V79, P385
+   SHANNON CE, 1948, BELL SYST TECH J, V27, P379, DOI 10.1002/j.1538-7305.1948.tb01338.x
+   Strogatz SH, 2001, NATURE, V410, P268, DOI 10.1038/35065725
+   Thorbecke E, 1998, I FDN E ASIAN EC DEV, P121
+   Tullock G., 1987, Autocracy
+   Wintrobe R., 2000, POLITICAL EC DICTATO
+NR 32
+TC 6
+Z9 8
+U1 2
+U2 19
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 1043-4631
+EI 1461-7358
+J9 RATION SOC
+JI Ration. Soc.
+PD FEB
+PY 2015
+VL 27
+IS 1
+BP 3
+EP 39
+DI 10.1177/1043463114561753
+PG 37
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA CB2JO
+UT WOS:000349453500001
+DA 2024-11-22
+ER
+
+PT J
+AU Toole, JL
+   Herrera-Yaqüe, C
+   Schneider, CM
+   González, MC
+AF Toole, Jameson L.
+   Herrera-Yaquee, Carlos
+   Schneider, Christian M.
+   Gonzalez, Marta C.
+TI Coupling human mobility and social ties
+SO JOURNAL OF THE ROYAL SOCIETY INTERFACE
+LA English
+DT Article
+DE human mobility; networks; complex systems; city science; mobile phones
+ID DIVERSITY; NETWORKS
+AB Studies using massive, passively collected data from communication technologies have revealed many ubiquitous aspects of social networks, helping us understand and model social media, information diffusion and organizational dynamics. More recently, these data have come tagged with geographical information, enabling studies of human mobility patterns and the science of cities. We combine these two pursuits and uncover reproducible mobility patterns among social contacts. First, we introduce measures of mobility similarity and predictability and measure them for populations of users in three large urban areas. We find individuals' visitations patterns are far more similar to and predictable by social contacts than strangers and that these measures are positively correlated with tie strength. Unsupervised clustering of hourly variations in mobility similarity identifies three categories of social ties and suggests geography is an important feature to contextualize social relationships. We find that the composition of a user's ego network in terms of the type of contacts they keep is correlated with mobility behaviour. Finally, we extend a popular mobility model to include movement choices based on social contacts and compare its ability to reproduce empirical measurements with two additional models of mobility.
+C1 [Toole, Jameson L.; Gonzalez, Marta C.] MIT, Engn Syst Div, Cambridge, MA 02144 USA.
+   [Herrera-Yaquee, Carlos; Schneider, Christian M.; Gonzalez, Marta C.] MIT, Dept Civil & Environm Engn, Cambridge, MA 02144 USA.
+   [Herrera-Yaquee, Carlos] Univ Politecn Madrid, Dept Matemat Aplicada Tecnol Informac, ETSI Telecomunicac, Madrid, Spain.
+C3 Massachusetts Institute of Technology (MIT); Massachusetts Institute of
+   Technology (MIT); Universidad Politecnica de Madrid
+RP Toole, JL (corresponding author), MIT, Engn Syst Div, Cambridge, MA 02144 USA.
+EM jltoole@mit.edu
+RI Gonzalez, Marta/E-9456-2011
+OI /0000-0002-8482-0318
+FU BMW; Accenture-MIT alliance; Center for Complex Engineering Systems
+   (CCES) at KACST
+FX This work was partially supported by the BMW, the Accenture-MIT alliance
+   and the Center for Complex Engineering Systems (CCES) at KACST under the
+   co-direction of Anas Alfaris.
+CR Bagrow JP, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0037676
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Boguñá M, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.036112
+   Centola D, 2011, SCIENCE, V334, P1269, DOI 10.1126/science.1207055
+   Cho E, 2011, KDD
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   Crandall DJ, 2010, P NATL ACAD SCI USA, V107, P22436, DOI 10.1073/pnas.1006155107
+   De Domenico M, 2013, PERVASIVE MOB COMPUT, V9, P798, DOI 10.1016/j.pmcj.2013.07.008
+   de Montjoye YA, 2013, SCI REP-UK, V3, DOI 10.1038/srep01376
+   Eagle N, 2010, SCIENCE, V328, P1029, DOI 10.1126/science.1186605
+   Eagle N, 2009, P NATL ACAD SCI USA, V106, P15274, DOI 10.1073/pnas.0900282106
+   Eagle N, 2009, BEHAV ECOL SOCIOBIOL, V63, P1057, DOI 10.1007/s00265-009-0739-0
+   González MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   Grabowicz PA, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0092196
+   Liben-Nowell D, 2005, P NATL ACAD SCI USA, V102, P11623, DOI 10.1073/pnas.0503018102
+   Miritello G, 2013, SCI REP-UK, V3, DOI 10.1038/srep01950
+   Newman MEJ, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.036122
+   Onnela JP, 2007, P NATL ACAD SCI USA, V104, P7332, DOI 10.1073/pnas.0610245104
+   Ratti C, 2006, ENVIRON PLANN B, V33, P727, DOI 10.1068/b32047
+   Schneider CM, 2013, J R SOC INTERFACE, V10, DOI 10.1098/rsif.2013.0246
+   Simini F, 2012, NATURE, V484, P96, DOI 10.1038/nature10856
+   Song CM, 2010, NAT PHYS, V6, P818, DOI 10.1038/NPHYS1760
+   Song CM, 2010, SCIENCE, V327, P1018, DOI 10.1126/science.1177170
+   Toole JL, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0029528
+   Ugander J, 2012, P NATL ACAD SCI USA, V109, P5962, DOI 10.1073/pnas.1116502109
+   Vespignani A, 2012, NAT PHYS, V8, P32, DOI 10.1038/nphys2160
+   Wang D., 2011, P 17 ACM SIGKDD INT, P1100, DOI [10.1145/2020408.2020581, DOI 10.1145/2020408.2020581]
+   Watts DJ, 2005, P NATL ACAD SCI USA, V102, P11157, DOI 10.1073/pnas.0501226102
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Watts DJ, 2002, SCIENCE, V296, P1302, DOI 10.1126/science.1070120
+NR 31
+TC 108
+Z9 121
+U1 1
+U2 58
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 1742-5689
+EI 1742-5662
+J9 J R SOC INTERFACE
+JI J. R. Soc. Interface
+PD APR 6
+PY 2015
+VL 12
+IS 105
+AR 20141128
+DI 10.1098/rsif.2014.1128
+PG 9
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA CD6WK
+UT WOS:000351230700002
+PM 25716185
+OA Green Submitted, Bronze, Green Published
+DA 2024-11-22
+ER
